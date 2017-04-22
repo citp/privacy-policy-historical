@@ -1,0 +1,1255 @@
+<!--The following is the downloaded HTML source of the rummypassion.com privacy policy that was archived on 2017-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170422085255id_/https%3A//www.rummypassion.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html prefix="og: http://ogp.me/ns#" lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,scale=1.0">
+
+ <title>Privacy Policy of Rummy Passion | Indian Rummy</title>  <meta name="description" content="Rummy Passion offers online rummy games in a safe, secure, dependable &amp; comfortable environment. Read Privacy Policy!">  <link rel="canonical" href="https://www.rummypassion.com/privacy-policy"> 
+
+<meta name="alexaVerifyID" content="12UO5R9kYw6hNU7WLtsPPbM2QE0">
+<meta name="google-site-verification" content="dxUFkoFiR8FgdP4V7fGGg_KRzFpuOWS3MD4GSfVKUJ0">
+<meta name="language" content="english">
+<meta name="geo.region" content="IN">
+<meta name="geo.position" content="20.593684;78.96288">
+<meta name="ICBM" content="20.593684, 78.96288">
+<meta name="author" content="Rummy Passion">
+<meta name="copyright" content="Passion Gaming Private Limited">
+<meta name="robots" content="index, follow">
+<script type="text/javascript" defer="" src="https://livedesk.zoho.com/support.passiongaming/float.ls?embedname=passiongaming"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-73333453-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<link rel="icon" href="https://www.rummypassion.com/images/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="/templates/beez_20/images/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="/templates/beez_20/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/templates/beez_20/images/apple-touch-icon-180x180.png">
+<link rel="publisher" href="https://plus.google.com/+Rummypassion/posts">
+<script>
+//globel variable for all the javascript
+var SITEURL = 'https://www.rummypassion.com/';
+var THEMEURL = '/templates/beez_20/';
+</script>
+<style>
+	span.dd {
+  margin-top: 12px !important;
+    position: absolute !important;
+    top: 17px !important ;
+    left: 47px !important;
+	  }
+</style>
+
+<script language="javascript" type="text/javascript" src="/templates/beez_20/framework/jquery-1.js"></script>
+<script language="javascript" type="text/javascript" src="/templates/beez_20/framework/valid.js"></script>
+<link href="/templates/beez_20/css/style.css" rel="stylesheet" type="text/css">
+<link href="/templates/beez_20/css/banner.css" rel="stylesheet" type="text/css">
+<link href="/templates/beez_20/css/datepicker.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript" src="/templates/beez_20/framework/jquery.js"></script>
+<script type="text/javascript" src="https://www.rummypassion.com/templates/beez_20/js/jquery-1.6.2.min.js"></script>
+<script language="javascript" type="text/javascript" src="/templates/beez_20/framework/jquery.validate.min.js"></script>
+<!-- SITE PLATFORM SCRIPTS -->
+<script>
+function openLobbyWindow() {
+	//This is to check, whether the user is on the lobby window already.
+	var loggedInStatus;
+	$.ajax({
+		type:"GET",
+		async: false,
+		url: SITEURL+"/index.php?option=com_users&task=user.checkUserStatusinGameTable&userid=",
+		success: function(msg) {
+			if(msg=="exists") {
+				loggedInStatus=1;
+			} else {
+				loggedInStatus=0;
+			}
+		}
+	});
+	if(loggedInStatus==1) {
+		alert("You are already in the Lobby, please log out that to log in here!");
+		return false;
+	}
+
+	var gameWidth=1229.4;
+	var gameHeight=691.2;
+	var monitorWidth=screen.width*0.9;
+	var monitorHeight=screen.height*0.9;
+	//var monitorWidth=1229.4;
+	//var monitorHeight=691.2;
+	//var gameWidth=491.75;
+	//var gameHeight=276.5;
+
+	var ratioPer=1;
+
+	if(monitorWidth<=gameWidth)
+	{
+		ratioPer=(monitorWidth/gameWidth);
+		gameWidth=(ratioPer*0.9)*gameWidth;
+		gameHeight=(ratioPer*0.9)*gameHeight;
+	}
+
+	if(monitorHeight<=gameHeight)
+	{
+		ratioPer=(monitorHeight/gameHeight);
+		gameWidth=(ratioPer*0.9)*gameWidth;
+		gameHeight=(ratioPer*0.9)*gameHeight;
+	}
+	//alert(screen.width+":"+screen.height+"="+monitorWidth+":"+monitorHeight+"->"+gameWidth+":"+gameHeight+"-----"+ratioPer);
+	//var lwidth =1098;
+	//var minHeight =600;
+	//var xHeight = Number(screen.height) - Number(600);
+	//var otHeight = xHeight-(xHeight/4)
+	//otHeight  is to find the 1/3rd height from the result - xHeight
+	//var lheigth = minHeight+otHeight;
+
+	var left = ((screen.width-gameWidth)/2)-10;
+	var top = ((screen.height-gameHeight)/2)-40;
+	//alert(screen.width+","+gameWidth+","+screen.height+","+gameHeight+","+left+","+top);
+	//left=0;
+	//top=20;
+	//var gameWindowPath = SITEURL+"index.php?option=com_games&view=lobby&tmpl=component&&uid=";
+	var gameWindowPath = SITEURL+"rummyGame/index.php?base_url="+SITEURL+"&uid=";
+	var targetWin = window.open (gameWindowPath, "RummyPassion",'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, fullscreen=no, resizable=0,maximizable=no,minimizable=no,dialog=no, copyhistory=no, width='+gameWidth+',height='+gameHeight+',left='+left+',top='+top+'');
+	//targetWin.document.body.style.backgroundColor='#000';
+
+
+}
+
+
+function refreshChips(){
+  $.ajax({
+		type:"GET",
+		async: false,
+		url: SITEURL+"/index.php?option=com_users&task=user.refreshUserChips&userid=",
+		success: function(msg) {
+			if(msg!="---") {
+				var stringRes = msg;
+				var res = stringRes.split("--");
+  			    document.getElementById("pcid").innerHTML = res[1];
+				document.getElementById("rcid").innerHTML = res[0];
+
+			} else {
+				//nothing
+			}
+		}
+	});
+}
+
+$("html").click(function(){
+   $('#userRegistration label.error').css({"display":"none"});
+   $('#userRegistration label.error').next().css({"display":"none"});
+});
+
+</script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+<script type="text/javascript">var $zoho= $zoho || {livedesk:{values:{},ready:function(){}}};var d=document;s=d.createElement("script");s.type="text/javascript";s.defer=true;s.src="https://livedesk.zoho.com/support.passiongaming/float.ls?embedname=passiongaming";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);</script>
+<meta name="p:domain_verify" content="67201887a8feb4f2657ba443464ca408">
+
+
+</head>
+<body>
+<style>
+iframe[name='google_conversion_frame'] {
+    height: 0 !important;
+    width: 0 !important;
+    line-height: 0 !important;
+    font-size: 0 !important;
+    margin-top: -13px;
+    float: left;
+}
+</style>
+
+<!-- <style>
+div.common-message1 {
+	float: left;
+	width: auto !important;
+	padding: 5px 10px;
+	color: #000;
+	background: lightyellow;
+	text-align: center;
+	line-height: 27px;
+	font-weight: 700;
+	position: absolute;
+	left: 192px;
+	top: 51px;
+	/* margin-left: -240px; */
+	z-index: 10000;
+	moz-border-radius: 0 0 5px 5px;
+	-webkit-border-radius: 0 0 5px 5px;
+	border-radius: 0 0 5px 5px;
+	opacity: .7;
+	height: 27px;
+	font-size: 13px;
+	top: -10px;
+}
+</style>
+<div id="common-message1" style="display:block" class="common-message1">
+	<p style="position:relative;top:-10px;">Please Upgrade Your Internet Explorer Version. Rummy Passion Will Not Work Properly With This Current Version. Click <a href="http://www.wikihow.com/Update-Microsoft-Internet-Explorer" targer="_blank">Here</a> to upgrade</p>
+</div> -->
+<div id="common-message" style="top:-100px;display:none" class="common-message">
+  <p>Common Message Hare</p>
+</div>
+<script>
+$(document).ready(function(){
+});
+</script>
+<style>
+  .In_HeaderWrap, bodyInner {
+	background-image:url(https://www.rummypassion.com/templates/beez_20/images/inner-bg-without-login.jpg)
+}
+
+.In_HeaderWrap {
+    height: 192px !important;
+}
+
+</style>
+
+<div id="Wrapper">
+  
+ <script language="javascript" type="text/javascript" src="/templates/beez_20/javascript/blur.js"></script>
+ <link href="/templates/beez_20/css/regpop.css" rel="stylesheet" type="text/css">
+ <script type="text/javascript">
+ function tabSwitch(new_tab, new_content) {
+
+     document.getElementById('content_1').style.display = 'none';
+     document.getElementById('content_2').style.display = 'none';
+     document.getElementById('content_3').style.display = 'none';
+     document.getElementById(new_content).style.display = 'block';
+     document.getElementById('tab_1').className = '';
+     document.getElementById('tab_2').className = '';
+     document.getElementById(new_tab).className = 'active';
+ }
+ function tabSwitch_2(active, number, tab_prefix, content_prefix) {
+     for (var i=1; i < number+1; i++) {
+       document.getElementById(content_prefix+i).style.display = 'none';
+       document.getElementById(tab_prefix+i).className = '';
+     }
+     document.getElementById(content_prefix+active).style.display = 'block';
+     document.getElementById(tab_prefix+active).className = 'active';
+ }
+ </script>
+ <!-- <div class="registerpage">Register Now</div> -->
+ <div id="tab_main" class="tab_menu">
+ 		<div class="tabbed_main">
+ 			<a href="javascript:void();" class="frgt_close "><img alt="close" title="close" src="https://www.rummypassion.com/templates/beez_20/images/cross.png" style="width:17px;"></a>
+ 				<ul class="tabs">
+ 						<li><a href="javascript:tabSwitch('tab_1', 'content_1');" id="tab_1" class="active">LOGIN</a></li>
+ 						<li><a href="javascript:tabSwitch('tab_2', 'content_2');" id="tab_2">REGISTRATION</a></li>
+ 				</ul>
+
+ 				<div id="content_1" class="content">
+ 						<form class="clsForm" name="frmLogin" id="frmLogin" novalidate="novalidate">
+ 						<div class="loginFormPopup">
+ 						<p>
+ 							<input style="margin:24px auto 0px;" name="username" type="text" class="formTxtfieldPopup" id="lusernamepopup" placeholder="Username">
+ 							<span style="display:none;"></span> </p>
+ 						<p>
+ 							<input style="margin:24px auto 0px;position:relative;top:-20px;" name="password" type="password" class="formTxtfieldPopup" id="lpasswordpopup" placeholder="Password">
+ 							<span style="display:none;"></span> </p>
+              <p style="float: right;margin: -19px 0px 28px;color: #ffc1c2; text-decoration: underline;"><a style="color:#ffc1c2;" href="https://www.rummypassion.com/forgot-password">Forgot Password? </a></p>
+ 						<div class="loginButtonPlay">
+<input type="hidden" id="currenturl" name="currenturl" value="">
+ 							<input id="newSubmit" type="submit" name="submit" value="">
+ 						</div>
+						<div id="invalidErrorPopup" class="invalidError" style="display: none;left:30px !important;">
+		          Invalid Username or Password
+          </div>
+ 							<!-- <p class="tc_class">
+ 						 Forget Password?</p> -->
+ 							 </div>
+ 						</form>
+ 				</div>
+
+ 				<div id="content_2" class="content">
+ 						<form class="clsForm" name="frmRegister" id="frmRegister" novalidate="novalidate">
+ 						<div class="registerationFormPopup">
+ 						<p>
+ 						<input name="username" type="text" class="formTxtfieldPopup" id="rusername" size="30" placeholder="Username (4-12 characters)">
+ 						<span style="display:none;"></span> </p>
+ 						<p>
+ 						<input name="password" type="password" class="formTxtfieldPopup" id="rpassword" placeholder="Password (4-12 characters)">
+ 						<span style="display:none;"></span> </p>
+ 						<p>
+ 						<input name="emailid" type="text" class="formTxtfieldPopup" id="emailid" placeholder="Valid Email ID">
+ 						<span style="display:none;"></span> </p>
+ 						<p>
+ 						<input name="mobile" maxlength="10" type="text" class="formTxtfieldPopup" id="mobile" placeholder="Mobile Number">
+ 						<span style="display:none;"></span> </p>
+ 					  <p class="tc_class">
+       By Clicking "PLAY FOR FREE" you agree to our <a style="text-decoration:none;color:#fff;" href="https://www.rummypassion.com/terms-of-use" target="_blank">T&amp;C</a>
+       <span style="float: right; color: #ffc1c2; margin: 6px 0px 15px; text-decoration: underline;"><a style="color:#ffc1c2;" href="https://www.rummypassion.com/forgot-password">Forgot Password?</a></span></p>
+
+
+ 						<div class="registrationButtonPlay">
+<input type="hidden" id="currenturl" name="currenturl" value="">
+ 						<input id="newSubmit" type="submit" name="submit" value="">
+ 						</div>
+ 						</div>
+ 						</form>
+ 				</div>
+
+ 				<div id="content_3" class="content"></div>
+ 		</div>
+ </div>
+
+  <div class="wrapper-bg">
+    <div class="In_HeaderWrap">
+      <div class="Banner_MenuWrap">
+                <div class="logo_menuWrap">
+                    <div class="logo"><a href="/">
+          			     <img alt="Home @ RummyPassion.com" title="RummyPassion.com" src="https://www.rummypassion.com/images/logo-new.png">
+			 
+          
+          </a></div>
+          <style>
+.invalidError{
+  color: #ffc1c2;
+    display: block;
+    float: left;
+    font-size: 11.2px;
+    font-weight: 400;
+    left: 1px;
+    position: relative;
+    text-decoration: none;
+    top: 8px;
+    z-index: 2;
+}
+</style>
+<script>
+function removeInvalidMsg(){
+	document.getElementById("invalidError").style.display = "none";
+}
+
+function activateHeaderMenu(str){
+  console.log(str);
+
+}
+</script>
+<div class="LoginWrap">
+  <div id="menu">
+    <div id="tooltip_menu">
+          
+      <div class="logininwrap">
+        <div class="unpwdWrap">
+        <form id="loginForm" action="#" method="post" name="loginForm" class="loginForm" novalidate="novalidate">
+          <div class="Uname">
+            <input onblur="removeInvalidMsg();" type="text" class="LogtxtField" id="lusername" name="username" placeholder="Username" maxlength="12">
+          </div>
+          <div class="Pwd">
+               <input onblur="removeInvalidMsg();" type="password" class="LogtxtField" id="lpassword" name="password" placeholder="Password" maxlength="12">
+
+            </div>
+
+            <div class="loginbtn">
+            <input name="currUrl" id="currUrl" value="https://www.rummypassion.com/privacy-policy" type="hidden">
+          	<input type="submit" class="login_btn1" value="">
+        </div>
+         </form>
+		  <div id="invalidError" class="invalidError" style="display:none;">
+		          <label for="lusername" class="error">Invalid Username or Password, Please try again</label>
+          </div>
+      </div>
+      <style>
+      .registerNow_pipeline{
+      float: right;
+    color: #ffc1c2;
+    position: relative;
+    left: 128px;
+    top: -2px;
+  }
+      </style>
+			  <div class="loginFpwd">
+				<div class="fpwdlink"> <a href="/forgot-password">Forgot Password?</a>
+                                <span style="display:block;position:relative;left:57px;"><a style="position: relative;
+    left: -5px;" href="https://www.rummypassion.com/register">Register Now</a> <span class="registerNow_pipeline">|</span> </span>
+                                 </div>
+			</div>
+    </div>
+        </div>
+</div>
+</div>
+<script>
+$(document).ready(function(){
+    $('.login_btn1').click(function(){
+        //$('.loginFpwd').css("top","76%");
+    });
+});
+</script>
+
+<div class="inner_main_menu">
+  <div id="navcontainer">
+    <ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" id="navlist">
+           <li itemprop="name"><a itemprop="url" style="width:80px;" href="/">HOME</a></li>
+      		<li itemprop="name"><a itemprop="url" href="/play-rummy-online">CASH RUMMY</a></li>
+		        <li itemprop="name"><a itemprop="url" style="width:121px;" href="/play-rummy-online#tournaments">TOURNAMENTS</a></li>
+                <li itemprop="name"><a itemprop="url" href="/play-rummy-online#free-play">FREE PLAY</a></li>
+              <li itemprop="name"><a itemprop="url" style="width:120px;" href="/how-to-play-rummy">HOW TO PLAY</a></li>
+                <li itemprop="name"><a itemprop="url" style="width:113px;" href="/promotions/">PROMOTIONS</a></li>
+              <li itemprop="name"><a itemprop="url" href="/support">SUPPORT</a></li>
+          </ul>
+  </div>
+</div>
+
+        </div>
+                                <style>
+		.Page_Heading_post_static_pages {
+    		padding-top: 94px !important;
+		}
+		 .Page_Heading_post_static_pages_faq {
+    color: #fff;
+    font-size: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 950px;
+    font-weight: 700;
+    text-decoration: none;
+    clear: both;
+    text-transform: none !important;
+		padding-top: 94px !important;
+}
+		</style>
+		              <h1 class="Page_Heading_post_static_pages">RUMMYPASSION PRIVACY POLICY</h1>
+              </div>
+    </div>
+          </div>
+  </div>
+      <div class="bubbleBg">   	<div class="contentArea" style="min-height:475px;">
+  
+    <style>
+  div.img-box{
+    background: url("https://www.rummypassion.com/templates/beez_20/images/loader.gif") no-repeat scroll center center #FFFFFF;
+  }
+  #page-2 p{
+    padding:5px;
+  }
+  .InnerCnt li {
+    list-style: inherit !important;
+  }
+
+  .InnerCnt ul {
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 5px !important;
+    padding-left: 30px !important;
+}
+
+
+</style>
+<div class="HomeCntArea">
+<div class="InnerLeft">
+<div class="InnerCnt">
+    <div class="articleMatters">
+          <h2>Rummy Player Privacy</h2>
+<p>This privacy policy is a part of the RummyPassion.com website's <a href="https://www.rummypassion.com/terms-of-use" alt="Term of Use" title="Term of Use">Terms of Use</a>.</p>
+<p>RummyPassion.com offers skill based games like online Rummy in a safe, secure, dependable and comfortable environment. These games are fun to play and participate in and knowing there is trustworthy management behind RummyPassion.com should give you the player, peace of mind. We are completely dedicated to protecting the privacy of our players.</p>
+<p>This document describes what information we collect from our players and how we use the information. Potential players and users must register with us to access and play our games. We collect certain information about you during the registration process and before processing any financial transactions. This information includes your name, email id, mobile number, postal address etc. Provision of this information is mandatory by you if you want to access our Products and/ or Services. By registering on the Rummypassion.com website, you automatically permit for your personal information to be used as stated in this privacy policy. We also collect your IP address information in addition to your personal information when you visit our website. IP addresses of our players help us to study user behaviour, research demographics of our users and provide improvements to our users as a result of this collective information. Rummypassion.com is the exclusive user of this information collected on its website and will not share, sell, rent this information in ways other than what is described in this document. We may be required by law to disclose information at times.</p>
+<p>Rummypassion.com does not divulge your personal information to a third party without your consent. We use your personal information to better your user experience and to present our players with new offers, products and services. We may share your personal information with prize sponsors and delivery agents through our site.</p>
+<p>Rummypassion.com employs stringent security measures to avoid loss and misuse of information you provide us. Your personal details are password protected and only you can access your information. Rummypassion.com is not responsible or liable for any activity which is undertaken when your password is used. For this we advise you not to reveal your password to anyone.</p>
+<p>You agree to provide us personal information about yourself when you accept Terms of Use and Privacy Policy on the registration page. In case you do not wish to share this information with us, please do not register on the RummyPassion.com website. Remember, our registration procedure requires you to provide us with this information. If you wish to play cash games or participate in tournaments, competitions, contests or other marketing activity that we initiate, you will be asked to provide us additional information.</p>
+<h2 style="margin-bottom: 0px;">Our Policy on Children</h2>
+<p>RummyPassion.com is vehemently dedicated to protecting the privacy of children and does not intentionally collect or use personal details of children under the age of 13. We are in full compliance with the Children's Online Privacy Protection Act ("COPPA"). If someone wrongfully or inadvertently provides personal details of children under the age of 13, RummyPassion.com will securely delete this information from its records and will bar that individual from accessing its products and or services.</p>
+<h2 style="margin-bottom: 0px;">Use of Cookies and Pixel Tags</h2>
+<p>RummyPassion.com employs certain technology and cookies to collect and store certain information every time you access out website. Cookies make it possible for this website to identify the information you have agreed to provide to this website. This aggregated information assists us in establishing and analyzing the most useable parts of our website. Rummypassion.com may also employ cookies to show you advertising. These advertisements may be displayed by us or for us by a third party.</p>
+<p>You may change your computer’s settings to disallow your browser to accept cookies.</p>
+<p>RummyPassion.com employs third parties to advertise on our behalf on our site as well as other websites. These third parties collect details about your browsing habits and your visits to our website including details on your behaviour with our products and or services. They may utilise this collective information about on site activity and off site activity to place advertisements. This information is collected with the help of pixel tag technology, the use of which is very common on most prevalent websites on the internet. This collected information remains anonymous.</p>
+<h2 style="margin-bottom: 0px;">Rummy Player Consent</h2>
+<p>When you access our website, you give your consent to the collection and use of this information by Rummypassion.com, its partners and affiliates. From time to time, we may change our methods of collecting information and modify our privacy policy. We will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.</p>
+<p>If and when you do not wish to receive e-mail or sms notifications and other marketing details from us, or you wish to remove browsing details that we have collected about you, please you may change your preferences in <a class="registerpage" ="https:="" www.rummypassion.com="" my-account="" account-overview"="" rel="nofollow"> My Account</a> section.</p>
+<p><a href="/register"><img src="/images/Register-Now.gif" border="0" alt="Register Now at RummyPassion.com" title="Register Now at RummyPassion.com" align="left" style="margin-bottom:45px;"></a></p>      </div>
+  </div>
+</div>
+
+  <div class="Inner_Right">
+	    <div class="inner_banner">
+    	<a href="https://www.rummypassion.com/promotions/welcome-bonus">
+        	<img alt="Get Rs. 2000 Welcome Bonus at RummyPassion" title="Get Rs. 2000 Welcome Bonus at RummyPassion" style="width: 195px;" src="https://www.rummypassion.com/media/com_redevent/attachments/event11/welcomebonus-side-bannernewlow.jpg">
+         </a>
+     </div>
+        <div class="inner_banner">
+    	<a href="https://www.rummypassion.com/promotions/tournaments">
+        	<img alt="Rummy Passion Tournament 1k" title="Rummy Passion Tournament 1k" style="width: 195px;" src="https://www.rummypassion.com/media/com_redevent/attachments/event16/jackpot-1k-c.png">
+         </a>
+     </div>
+        <div class="inner_banner">
+    	<a href="https://www.rummypassion.com/promotions/top-up-bonus">
+        	<img alt="Get Rs. 3000 Top Up Bonus at RummyPassion" title="Get Rs. 3000 Top Up Bonus at RummyPassion" style="width: 195px;" src="https://www.rummypassion.com/media/com_redevent/attachments/event17/sidebannertopuplow.jpg">
+         </a>
+     </div>
+        <div class="inner_banner">
+    	<a href="https://www.rummypassion.com/promotions/sunday-passion">
+        	<img alt="Get Rs. 5000 Sunday Passion Bonus at RummyPassion" title="Get Rs. 5000 Sunday Passion Bonus at RummyPassion" style="width: 195px;" src="https://www.rummypassion.com/media/com_redevent/attachments/event18/sundaypassion-side-banner2low.jpg">
+         </a>
+     </div>
+        <div class="inner_banner">
+    	<a href="https://www.rummypassion.com/promotions/refer-a-friend">
+        	<img alt="Get  Rs 2000 for each Friend you Refer " title="Get  Rs 2000 for each Friend you Refer " style="width: 195px;" src="https://www.rummypassion.com/media/com_redevent/attachments/event19/refer-a-friendlow.jpg">
+         </a>
+     </div>
+    </div>
+</div>
+
+
+    
+  </div>
+	</div>
+
+<style>
+.SecureWrap {
+ 	/*border-right: 2px solid #cf4342;
+    float: left;
+	left: -25px;
+    position: relative;*/
+	 width: 33%;
+}
+.SecureWrap span {
+	padding-right: 10px;
+	cursor:pointer;
+}
+.SecureWrap p {
+    margin-bottom:10px;
+}
+.pay-holder{
+    float:left;
+    width: 80%;
+    margin: 0% 10%;
+}
+.payment {
+    width: 40px;
+    height: 26px;
+    background-repeat: no-repeat;
+    float: left;
+    margin-right: 5px;
+    margin-left: 5px;
+
+}
+
+.icon1{
+   /* background-image:url(https://www.rummypassion.com/templates/beez_20/images/visa.png);*/
+    margin-bottom:4px;
+}
+.icon2{
+/*background-image:url(https://www.rummypassion.com/templates/beez_20/images/master-card.png);*/
+    margin-bottom:4px;
+}
+.icon3{
+/*background-image:url(https://www.rummypassion.com/templates/beez_20/images/pay-tm.png);*/
+    margin-bottom:4px;
+}
+.icon4{
+/*background-image:url(https://www.rummypassion.com/templates/beez_20/images/rupay.png);*/
+    margin-bottom:4px;
+}
+.icon5{
+/*background-image:url(https://www.rummypassion.com/templates/beez_20/images/mastro-card.png);*/
+    margin-bottom:4px;
+}
+.icon6{
+/*background-image:url(https://www.rummypassion.com/templates/beez_20/images/mrupee.png);*/
+}
+.icon7{
+/*background-image:url(https://www.rummypassion.com/templates/beez_20/images/visa-elecric.png);*/
+}
+.icon8{
+/*background-image:url(https://www.rummypassion.com/templates/beez_20/images/airtel-mon.png);*/
+}
+.icon9{
+/*background-image:url(https://www.rummypassion.com/templates/beez_20/images/amex.png);*/
+}
+.icon10{
+/*background-image:url(https://www.rummypassion.com/templates/beez_20/images/dinner.png);*/
+}
+.SecureWrap1 {
+/*	float: right;
+    left: -6px;
+    padding-left: 13px;
+    position: relative;
+*/
+	 width: 33%;
+}
+.SecureWrap1 span {
+	padding-right: 10px;
+	cursor:pointer;
+}
+.SecureWrap h3 {
+	color: #610505;
+	font-weight: bold;
+	margin-top: 0;
+	font-family:arial;
+	font-size:14px;
+	text-align:center;
+}
+.SecureWrap1 h3 {
+	color: #610505;
+	font-weight: bold;
+	margin-top: 0;
+	font-family:arial;
+	font-size:14px;
+	text-align:center;
+}
+.SecureWrap2 {
+    position: relative;
+    width: 33%;
+    padding-bottom: 16px;
+}
+.SecureWrap2 span {
+	padding-right: 9px;
+	left: -5px;
+	position: relative;
+}
+.SecureWrap2 span:nth-child(3){
+    position: relative;
+    top: -8px;
+    left: 10px;
+}
+.SecureWrap2 span:nth-child(4){
+    position: relative;
+    top: 0px;
+    left: 16px;
+}
+.SecureWrap2 h3 {
+	color: #610505;
+	font-weight: bold;
+	margin-top: 0;
+	font-family:arial;
+	font-size:14px;
+	text-align:center;
+}
+
+.socialFacebookIcon{
+ background:url(https://www.rummypassion.com/templates/beez_20/images/social_facebook_icon.png) no-repeat;
+ float: left;
+    height: 59px;
+    width: 52px;
+	padding-left:5px;
+}
+
+.socialTwitterIcon{
+ background:url(https://www.rummypassion.com/templates/beez_20/images/social_twitter_icon.png) no-repeat;
+ float: left;
+    height: 59px;
+    width: 52px;
+	padding-left:5px;
+}
+
+.socialGooglePlusIcon{
+ background:url(https://www.rummypassion.com/templates/beez_20/images/social_googleplus_icon.png) no-repeat;
+ float: left;
+    height: 59px;
+    width: 52px;
+	padding-left:5px;
+}
+
+.socialPinterestIcon{
+ background:url(https://www.rummypassion.com/templates/beez_20/images/social_pinterest_icon.png) no-repeat;
+ float: left;
+    height: 59px;
+    width: 59px;
+
+}
+
+.socialFacebookIcon:hover {
+ background:url(https://www.rummypassion.com/templates/beez_20/images/social_facebook_icon_Glow.png) no-repeat;
+}
+.socialTwitterIcon:hover {
+ background:url(https://www.rummypassion.com/templates/beez_20/images/social_twitter_icon_Glow.png) no-repeat;
+}
+.socialGooglePlusIcon:hover {
+ background:url(https://www.rummypassion.com/templates/beez_20/images/social_googleplus_icon_Glow.png) no-repeat;
+}
+.socialPinterestIcon:hover {
+ background:url(https://www.rummypassion.com/templates/beez_20/images/social_pinterest_icon_Glow.png) no-repeat;
+}
+.footerBottomTextArea1 {
+	float: left;
+	overflow: hidden;
+	position: relative;
+	top: 3px;
+	width: 30%;
+	padding-right:48px;
+	color: #fff;
+    font-family: arial;
+    font-size: 14px;
+    text-align: justify;
+	/*opacity: 0.5;
+	margin-top:20px;*/
+}
+
+.footerBottomTextArea2 {
+	float: left;
+	overflow: hidden;
+	position: relative;
+	top: 3px;
+	width: 30%;
+	padding-right:15px;
+	color: #fff;
+    font-family: arial;
+    font-size: 14px;
+    text-align: justify;
+	/*opacity: 0.5;
+	margin-top:20px;*/
+}
+
+.footerBottomTextArea3 {
+	float: right;
+	overflow: hidden;
+	position: relative;
+	top: 3px;
+	width: 30%;
+	color: #fff;
+    font-family: arial;
+    font-size: 14px;
+    text-align: justify;
+	/*opacity: 0.5;
+   	margin-top:20px;*/
+}
+.copyrights{
+    color: #fcb9b9;
+    position: relative;
+    text-align:center;
+    /*top: 12.5px;*/
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+
+.copyrightsInner{
+    color: #fcb9b9;
+    position: relative;
+    text-align:center;
+    top: 20px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+
+.copyrights span{
+ font-weight:bold;
+
+}
+
+.copyrights a{
+ color:#fcb9b9;
+ text-decoration:none;
+}
+
+.copyrights a:hover {
+    color: #fcb9b9;
+    text-decoration: underline;
+
+}
+
+
+.copyrightsInner span{
+ font-weight:bold;
+
+}
+
+.copyrightsInner a{
+ color:#fcb9b9;
+ text-decoration:none;
+}
+
+.copyrightsInner a:hover {
+    color: #fcb9b9;
+    text-decoration: underline;
+
+}
+
+.SecureWrap p,.SecureWrap2 p,.SecureWrap1 p {
+    color: #610505;
+    font-weight: bold;
+    margin-top: 0;
+    font-family: arial;
+    font-size: 14px;
+    text-align: center;
+}
+
+</style>
+
+<div class="footerInnerWrap">
+ 	 <div class="Footer_InWrap">
+   	 <div class="footlink_Wrap">
+      <div class="SecureWrap">
+        <p>Multiple Payment Option</p>
+        <div class="pay-holder">
+            <div class="payment icon1"><img alt="Visa Card" title="Visa Card" src="https://www.rummypassion.com/templates/beez_20/images/visa.png"></div>
+            <div class="payment icon2"><img alt="Master Card" title="Master Card" src="https://www.rummypassion.com/templates/beez_20/images/master-card.png"></div>
+            <div class="payment icon3"><img alt="Paytm" title="Paytm" src="https://www.rummypassion.com/templates/beez_20/images/pay-tm.png"></div>
+            <div class="payment icon4"><img alt="Rupay" title="Rupay" src="https://www.rummypassion.com/templates/beez_20/images/rupay.png"></div>
+            <div class="payment icon5"><img alt="Maestro" title="Maestro" src="https://www.rummypassion.com/templates/beez_20/images/mastro-card.png"></div>
+            <div class="payment icon6"><img alt="payUmoney" title="payUmoney" src="https://www.rummypassion.com/templates/beez_20/images/payu.png"></div>
+            <div class="payment icon7"><img alt="Visa Electron" title="Visa Electron" src="https://www.rummypassion.com/templates/beez_20/images/visa-elecric.png"></div>
+            <div class="payment icon8"><img alt="Airtel Money" title="Airtel Money" src="https://www.rummypassion.com/templates/beez_20/images/airtel-mon.png"></div>
+            <div class="payment icon9"><img alt="Amex Card" title="Amex Card" src="https://www.rummypassion.com/templates/beez_20/images/amex.png"></div>
+            <div class="payment icon10"><img alt="Diners Club" title="Diners Club" src="https://www.rummypassion.com/templates/beez_20/images/dinner.png"></div>
+        </div>
+      </div>
+      <div class="SecureWrap2">
+        <p>Security &amp; Fairness</p>
+        <!--<span> <img src="https://www.rummypassion.com/templates/beez_20/images/securiry_itlabs_icon.png"> </span>-->
+        <span> <img alt="18+ Allowed" title="18+ Allowed" src="https://www.rummypassion.com/templates/beez_20/images/security_18plus_icon.png"> </span>
+        <span> <img alt="Certified by BMM Testlabs" title="Certified by BMM Testlabs" src="https://www.rummypassion.com/templates/beez_20/images/security_bmm_icon.png"> </span>
+        <span> <img alt="Secured by Rapid SSL" title="Secured by Rapid SSL" src="https://www.rummypassion.com/templates/beez_20/images/rapid-ssl.png"> </span>
+
+        </div>
+         <div class="SecureWrap1">
+        <p>Connect With Us</p>
+        <div style="position: relative; left: 45px;top:-17px;">
+            <span><a target="_blank" href="https://www.facebook.com/RummyPassion"><div class="socialFacebookIcon"></div></a></span>
+            <span><a target="_blank" href="https://twitter.com/RummyPassion"><div class="socialTwitterIcon"></div></a></span>
+            <span><a target="_blank" href="https://plus.google.com/u/0/+RummyPassion"><div class="socialGooglePlusIcon"></div></a></span>
+            <span><a target="_blank" href="https://www.pinterest.com/rummypassion/"><div class="socialPinterestIcon"></div></a></span>
+        </div>
+      </div>
+    </div>
+    <style>
+	.faq {
+    text-transform: none;
+}
+	</style>
+    <div class="footLink_menu">
+            <a href="/play-rummy-online">Play Rummy Online</a>
+            &nbsp;|&nbsp;
+                  <a href="/promotions/refer-a-friend">Refer A Friend</a>
+            &nbsp;|&nbsp;
+                  <a href="/rummygyan/testimonials/">Testimonials</a>
+            &nbsp;|&nbsp;
+                  <a href="/promotions/passion-rewards-club/">Passion Rewards</a>
+            &nbsp;|&nbsp;
+                  <a href="/rummygyan/">RummyGyan™ Blog</a>
+            &nbsp;|&nbsp;
+                  <a class="faq" href="/faqs/">FAQs</a>
+            &nbsp;|&nbsp;
+                  <a href="/about-us">About Us</a>
+            &nbsp;|&nbsp;
+                  <a href="/support">Contact Us</a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          </div>
+
+    	</div>
+ </div>
+		
+     <div class="footerWrap2" style="background-color: rgb(65, 1, 2); height: 53px;float:left;width:100%;">
+  		<div class="Footer_InWrap2" style="margin-left: auto; margin-right: auto; width: 950px;">
+	
+    <div class="copyrightsInner">
+
+      Copyright @ 2016<span>&nbsp;Passion Gaming Private Limited</span>&nbsp; |
+        <a href="/sitemap.html">Sitemap</a>&nbsp; |&nbsp;
+        <a href="/privacy-policy">Privacy</a>&nbsp; |&nbsp;
+        <a href="/terms-of-use">Terms Of Use</a>&nbsp; |&nbsp;
+        <a href="/">Affiliates</a>&nbsp; |&nbsp;
+     All Rights Reserved
+    </div>
+    <!-- <div style="float:right;" class="powerdby"> <img src="https://www.rummypassion.com/images/powered_by.png"> </div> -->
+  </div>
+      </div>
+
+<script type="text/javascript">
+var slide_counter = 0;
+var testi_slide_counter =0;
+var a_text = "";
+var testi_text = "";
+var myCarousel;
+function mycarousel_initCallback(carousel)
+{
+	$('.jcarousel-control a').bind('click', function() {
+		a_text=$(this).text();
+		//alert("testcontent"+a_text);
+		if(a_text=="WELCOME")
+		{
+		 	slide_counter=1;
+		}
+		if(a_text=="TOP UP")
+		{
+		 	slide_counter=2;
+		}
+		if(a_text=="PASSION")
+		{
+		 	slide_counter=3;
+		}
+		//alert("slidercount=>"+slide_counter);
+		carousel.scroll(slide_counter);
+		slide_counter = slide_counter-1;
+		$('#banner_nav li').removeClass('ui-tabs-selected');
+		$(this).parents('li').addClass('ui-tabs-selected');
+		//mycarousel_animCallback();
+		return false;
+	});
+};
+
+function mycarousel_animCallback()
+{
+    //alert("remove->"+slide_counter);
+	$('#banner_nav li').removeClass('ui-tabs-selected');
+	$('#banner_nav li').eq(slide_counter).addClass('ui-tabs-selected');
+	if(slide_counter == 2)
+	{
+		slide_counter = 0;
+	}
+	else
+	{
+		slide_counter++;
+	}
+};
+
+/*function changeNumber(carousel) {
+	alert("ATEST");
+}*/
+
+$(document).ready(function()
+{
+        $("div.item").tooltip();
+
+	$('#banner_wrap').jcarousel({
+		auto: 5,
+        scroll: 1,
+        buttonNextHTML: null,
+        buttonPrevHTML: null,
+        wrap: 'circular',
+        initCallback: mycarousel_initCallback,
+		itemFirstInCallback: mycarousel_animCallback
+		/*itemVisibleInCallback: changeNumber*/
+  });
+
+
+       // $("#banner_wrap > ul").tabs({event: "click"}).tabs({fx: { width:'toggle', duration:'5000'}}).tabs("rotate", 5000, true);
+});
+</script>
+<script type="text/javascript" src="https://www.rummypassion.com/templates/beez_20/js/slider.js"></script>
+<script type="text/javascript" src="/templates/beez_20/js/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" src="/templates/beez_20/js/jquery.tooltip.js"></script>
+<!-- Start of StatCounter Code for Joomla -->
+<script type="text/javascript">
+var sc_project=10963575;
+var sc_invisible=1;
+var sc_security="011da646";
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script><script type="text/javascript" src="https://secure.statcounter.com/counter/counter.js"></script>
+<noscript><div class="statcounter"><a title="joomla
+statistics" href="http://statcounter.com/joomla/"
+target="_blank"><img class="statcounter"
+src="//c.statcounter.com/10963575/0/011da646/1/" alt="joomla
+statistics"></a></div></noscript>
+<!-- End of StatCounter Code for Joomla -->
+
+
+  <style>
+ .tier table tr td {
+     padding: 5px 5px;
+ }
+ </style>
+
+ <div id="myModalAccountPanel" class="modal">
+ <div class="modal-content">
+ <div class="modal-header">
+ <div class="pull-right crossBtn-container">
+ 	<span id="nobuttonAccount" class="closeAccount crossBtn" style="cursor:pointer;"></span></div>
+ 	<span style="font-weight:bold;font-size:18px;">Tier Validity Status</span>
+ </div>
+
+
+ <div class="modal-body">
+ <div class="tier">
+ 		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ 	<tbody><tr>
+ 		<td width="70%">Tier Entry Date</td>
+ 		<td width="26%"><strong>1st Jan 1970</strong></td>
+ 	</tr>
+ 	<tr>
+ 		<td>Expiry Date</td>
+ 		<td><strong>1st Jan 1970</strong></td>
+ 	</tr>
+ 	<tr>
+ 		<td>Reward Points Accumulated</td>
+ 		<td><strong></strong></td>
+ 	</tr>
+ 	<tr>
+ 		<td>Reward Points Earned in  Tier</td>
+ 		<td><strong></strong></td>
+ 	</tr>
+ 	<tr>
+ 		<td>Required Reward Points to Maintain  Tier</td>
+ 		<td><strong></strong></td>
+ 	</tr>
+ 	<tr>
+ 		<td>Next Tier</td>
+ 		<td><strong></strong></td>
+ 	</tr>
+ 	<tr>
+ 		<td>Required Balance Reward Points to Unlock Next Tier
+ 		</td>
+ 		<td><strong></strong></td>
+ 	</tr>
+
+ 	<tr>
+ 		<td><span style="color:red;">* Above data is updated 7am every morning</span>
+ 		</td>
+
+ 	</tr>
+ 	</tbody></table>
+ </div>
+ </div>
+
+ <div>&nbsp;</div>
+ </div>
+ </div>
+
+
+ <div id="myModalAccountPanelCash" class="modal">
+ <div class="modal-content">
+ <div class="modal-header">
+ <div class="pull-right crossBtn-container">
+ 	<span id="nobuttonAccountCash" class="closeAccountCash crossBtn" style="cursor:pointer;"></span></div>
+ 	<span style="font-weight:bold;font-size:18px;">Cash Account</span>
+ </div>
+ <div class="modal-body">
+ <div class="tier">
+ 		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ 	<tbody><tr>
+ 		<td width="70%">Withdrawable Balance</td>
+ 		<td width="26%"><strong><span class="rupee_font">`</span> 0.00</strong></td>
+ 	</tr>
+ 	<tr>
+ 		<td>Cash Bonus</td>
+ 		<td><strong><span class="rupee_font">`</span> </strong></td>
+ 	</tr>
+ 	<tr>
+ 		<td>Total Cash Balance</td>
+ 		<td><strong><span class="rupee_font">`</span> 0.00</strong></td>
+ 	</tr>
+  </tbody></table>
+ </div>
+ </div>
+ <div>&nbsp;</div>
+ </div>
+ </div>
+
+
+ <script>
+ // Get the modal
+ //myBtnAccountPanelCash
+ var modalAccountCash = document.getElementById('myModalAccountPanelCash');
+ // Get the button that opens the modal
+ var btnAccountCash = document.getElementById("myBtnAccountPanelCash");
+ var nobtnAccountCash = document.getElementById("nobuttonAccountCash");
+ // Get the <span> element that closes the modal
+ var span = document.getElementsByClassName("closeAccountCash")[0];
+ // When the user clicks the button, open the modal
+ btnAccountCash.onclick = function() {
+ modalAccountCash.style.display = "block";
+ }
+ nobtnAccountCash.onclick = function() {
+ 	modalAccountCash.style.display = "none";
+ }
+ // When the user clicks on <span> (x), close the modal
+ span.onclick = function() {
+ 	modalAccountCash.style.display = "none";
+ }
+ // When the user clicks anywhere outside of the modal, close it
+ window.onclick = function(event) {
+ 	if (event.target == modalAccountCash ) {
+ 		//modal.style.display = "none";
+ 	}
+ }
+
+
+ var modalAccount = document.getElementById('myModalAccountPanel');
+ // Get the button that opens the modal
+ var btnAccount = document.getElementById("myBtnAccountPanel");
+ var nobtnAccount = document.getElementById("nobuttonAccount");
+ // Get the <span> element that closes the modal
+ var span = document.getElementsByClassName("closeAccount")[0];
+ // When the user clicks the button, open the modal
+ btnAccount.onclick = function() {
+
+ 		modalAccount.style.display = "block";
+ }
+ nobtnAccount.onclick = function() {
+ 	modalAccount.style.display = "none";
+ }
+ // When the user clicks on <span> (x), close the modal
+ span.onclick = function() {
+ 	modalAccount.style.display = "none";
+ }
+ // When the user clicks anywhere outside of the modal, close it
+ window.onclick = function(event) {
+ 	if (event.target == modalAccount ) {
+ 		//modal.style.display = "none";
+ 	}
+ }
+
+ </script>
+
+ <style>
+ /* The Modal (background) */
+ .modal {
+     display: none; /* Hidden by default */
+     position: fixed; /* Stay in place */
+     z-index: 999999999; /* Sit on top */
+     padding-top: 20%; /* Location of the box */
+     left: 0;
+     top: 0;
+     width: 100%; /* Full width */
+     height: 100%; /* Full height */
+     overflow: auto; /* Enable scroll if needed */
+     background-color: rgb(0,0,0); /* Fallback color */
+     background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+ }
+
+ /* Modal Content */
+ .modal-content {
+     position: relative;
+     background-color: #fff;
+     margin: auto;
+     padding: 0;
+     border: 1px solid #888;
+     width: 35%;
+     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+     -webkit-animation-name: animatetop;
+     -webkit-animation-duration: 0.4s;
+     animation-name: animatetop;
+     animation-duration: 0.4s;
+ }
+
+ /* Add Animation */
+ @-webkit-keyframes animatetop {
+     from {top:-300px; opacity:0}
+     to {top:0; opacity:1}
+ }
+
+ @keyframes animatetop {
+     from {top:-300px; opacity:0}
+     to {top:0; opacity:1}
+ }
+
+ /* The Close Button */
+ .close {
+     color: white;
+     float: right;
+     font-size: 28px;
+     font-weight: bold;
+ }
+
+ .close:hover,
+ .close:focus {
+     color: #000;
+     text-decoration: none;
+     cursor: pointer;
+ }
+
+ .modal-header {
+     background: linear-gradient(red 23%,darkred);
+     color: #fff;
+     border: 1px solid #fff;
+     border-top-width: 1.5px;
+     padding: 5px 5px 5px 10px;
+ }
+ .crossBtn, .crossBtn:hover {
+     background-image: url(https://www.rummypassion.com/templates/beez_20/images/cross.png)!important;
+     background-repeat: no-repeat!important;
+     background-size: 20px 20px!important;
+     width: 20px;
+     height: 20px;
+     opacity: 1;
+     margin-top: 1px!important;
+     margin-left: 1px;
+     float: left;
+ }
+
+ .modal-body {padding: 2px 16px;}
+
+ .modal-footer {
+     padding: 2px 16px;
+     background-color: #5cb85c;
+     color: white;
+ }
+ .crossBtn-container {
+     /*background-color: #443E37;*/
+     width: 22px;
+     height: 22px;
+ }
+ .pull-right {
+     float: right!important;
+ }
+ h4{font-family:arial;margin:0px;}
+ .text-center{text-align: center;}
+ .error-btn, .error-btn:hover {
+     opacity: 1;
+     color: #fff!important;
+
+    /* background-repeat: no-repeat!important;
+
+     background-size: 100% 34px;
+ 	background-image: url(https://www.rummypassion.com/templates/beez_20/images/error-button.png)!important;}*/
+ }
+ .btn {
+      color: #fff !important;
+     cursor: pointer;
+     float: none !important;
+     font-size: 14px !important;
+     font-weight: 700;
+     height: 34px !important;
+     line-height: 34px !important;
+     width: 91px !important;
+ 	 background-color: #d20001 !important;
+     border: medium none;
+     border-radius: 5px;
+ 	margin-right: 10px;
+     margin-left: 10px;
+ }
+
+ .error-btn:hover {
+   font-size:16px !important;
+ }
+ </style>
+ <div id="myModal_123" class="modal">
+ <div class="modal-content">
+ <div class="modal-header">
+ <div class="pull-right crossBtn-container">
+ 	<span class="close_123 crossBtn" style="cursor:pointer;"></span></div>
+ 	<span style="font-weight:bold;">Registration Success</span>
+ </div>
+ <div class="modal-body">
+ 	<p><b>Congratulations! Your registration is complete.</b> <br><br>The Verification Link has been sent to your email address.</p>
+ </div>
+ <div class="text-center">
+
+  <button id="nobutton_123" type="button" class="btn error-btn">Ok</button>
+ </div>
+ <div>&nbsp;</div>
+ </div>
+ </div>
+ <script>
+  // Get the modal
+ function enablePopup(idPop){
+
+ var modal = document.getElementById('myModal_'+idPop);
+ // Get the button that opens the modal
+ var btn = document.getElementById("myBtn_"+idPop);
+ var nobtn = document.getElementById("nobutton_"+idPop);
+ // Get the <span> element that closes the modal
+ var span = document.getElementsByClassName("close_"+idPop)[0];
+ // When the user clicks the button, open the modal
+ modal.style.display = "block";
+
+ nobtn.onclick = function() {
+ 	modal.style.display = "none";
+ }
+ // When the user clicks on <span> (x), close the modal
+ span.onclick = function() {
+ 	modal.style.display = "none";
+ }
+ // When the user clicks anywhere outside of the modal, close it
+ window.onclick = function(event) {
+ 	if (event.target == modal ) {
+ 		//modal.style.display = "none";
+ 	}
+ }
+ }
+ </script>
+</body></html>
