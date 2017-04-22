@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the celebspulse.com privacy policy that was archived on 2016-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160827211831id_/http%3A//www.celebspulse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebspulse.com privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422152822id_/http%3A//www.celebspulse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Celebspulse.com
+# Privacy Policy – Celebspulse.com
 
 **Introduction**
 
