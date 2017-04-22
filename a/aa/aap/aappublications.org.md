@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aappublications.org privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101082618id_/https%3A//www.aap.org/en-us/Pages/Privacy-Statement.aspx%3Fnfstatus%3D401%26nftoken%3D00000000-0000-0000-0000-000000000000%26nfstatusdescription%3DERROR%253a%2BNo%2Blocal%2Btoken) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aappublications.org privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422160319id_/https%3A//www.aap.org/en-us/Pages/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -22,11 +22,11 @@ More specifically the AAP uses cookies for analytics and marketing.
 
 More Specifically AAP collects data about your activities that does not personally or directly identify you when you visit our website or other the websites where we display advertisement. The information we do collect may include the content you view, the date and time you view this content, the products you purchase, and the location information associated with your IP address. We use the information we collect to serve you more relevant advertisements (referred to as Retargeting). We also collect information about where you saw the ads we serve you and what ads you clicked on.
 
-For more information about how Google uses data collected from our website visit Googles Privacy Policy (make text "Privacy Policy" a link - <http://www.google.com/policies/privacy/partners/>)
+For more information about how Google uses data collected from our website visit Googles [Privacy Policy](http://www.google.com/policies/privacy/partners/).
 
-Users can opt out of Google's use of cookies by visiting Google's Ads Settings (make text "Ad Settings" a link - <http://www.google.com/settings/ads/>). 
+Users can opt out of Google's use of cookies by visiting Google's [Ads Settings](http://www.google.com/settings/ads/).
 
-Alternatively, users can choose to opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative opt-out page (make text "Network Advertising Initiative opt-out page" a link - <http://www.networkadvertising.org/choices/>).
+Alternatively, users can choose to opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/).
 
  **Information Is Not Collected On-Line From Children Under 13** AAP does not knowingly collect any personally identifiable information on-line from children under the age of 13.
 
