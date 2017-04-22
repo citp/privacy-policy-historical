@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universitiesnews.com privacy policy that was archived on 2016-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160923071234id_/http%3A//www.universitiesnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universitiesnews.com privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422222335id_/http%3A//www.universitiesnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Universities News
 
