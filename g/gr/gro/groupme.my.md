@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupme.my privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214160108id_/http%3A//www.groupme.my/DealsTopic/GroupMePrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupme.my privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422083838id_/http%3A//www.groupme.my/DealsTopic/GroupMePrivacyPolicy) for the most accurate reproduction.*
 
 # GroupMe | GroupMePrivacyPolicy
 
