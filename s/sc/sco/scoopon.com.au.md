@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoopon.com.au privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226000411id_/https%3A//www.scoopon.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoopon.com.au privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422034631id_/https%3A//www.scoopon.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
