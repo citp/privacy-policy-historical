@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grumpycats.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220092257id_/https%3A//www.grumpycats.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grumpycats.com privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422040359id_/https%3A//www.grumpycats.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Grumpy Cat®
 
