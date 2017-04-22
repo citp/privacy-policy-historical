@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newdirectionsaromatics.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328010517id_/https%3A//www.newdirectionsaromatics.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newdirectionsaromatics.com privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422045653id_/https%3A//www.newdirectionsaromatics.com/company/privacypolicy.php) for the most accurate reproduction.*
 
-# Privacy Policy - New Directions Aromatics
+# Privacy Policy - New Directions Aromatics Inc.
 
 ### Our Privacy Commitment
 
@@ -68,7 +68,7 @@ NDA will collect, use, or disclose your personal information only with your know
 
 **Implied Consent**
 
-  * Other times, we may obtain your consent implicitly when we can reasonably conclude that you’ve given consent by some action you have taken or an action you have decided not to take. Generally, this occurs where the purpose for use of your personal information would be reasonably apparent to you.
+  * Other times, we may obtain your consent implicitly when we can reasonably conclude that you've given consent by some action you have taken or an action you have decided not to take. Generally, this occurs where the purpose for use of your personal information would be reasonably apparent to you.
 
 
 
@@ -127,7 +127,7 @@ Our subscriber list is never sold or rented to other parties.
 
 **Participate in a Contest or Promotion**
 
-From time to time, we may run contests or promotions. If you participate, you may be asked for contact information as well as additional optional survey information (for example, product preferences). Personal information from contest entries will be used only to administer the contest and contact you if you win. For research and analysis purposes, we may also summarize contest survey information in a manner that no longer identifies individual participants. All contests and promotions are subject to this Privacy Policy and the rules that will be available with each particular campaign. Some contests are conducted by third parties and will be subject to the third party’s policies.
+From time to time, we may run contests or promotions. If you participate, you may be asked for contact information as well as additional optional survey information (for example, product preferences). Personal information from contest entries will be used only to administer the contest and contact you if you win. For research and analysis purposes, we may also summarize contest survey information in a manner that no longer identifies individual participants. All contests and promotions are subject to this Privacy Policy and the rules that will be available with each particular campaign. Some contests are conducted by third parties and will be subject to the third party's policies.
 
 [Back to Top]
 
@@ -155,7 +155,7 @@ Our Web Site may contain links to other Web sites or Internet resources which ar
 
 ### Does NDA Share Your Information?
 
-NDA does not sell or rent our customers’ personal information to any other party. However, in the normal course of business we may share some of your personal information within our corporate family and with third parties acting on our behalf or as permitted or required by law.
+NDA does not sell or rent our customers' personal information to any other party. However, in the normal course of business we may share some of your personal information within our corporate family and with third parties acting on our behalf or as permitted or required by law.
 
 Some of these operations may result in personal information collected by NDA being stored or processed outside of Canada and, as a result, your personal information may be accessible to law enforcement and regulatory authorities in accordance with the law of these foreign jurisdictions.
 
@@ -224,7 +224,7 @@ We keep your information only as long as we need it for legitimate business purp
 If you have any questions, concerns or complaints about the privacy practices of our organization please contact us at the following:
 
   * Email: info@newdirectionsaromatics.com
-  * Telephone: 1-800-246-7817
+  * Telephone: 1-877-255-7692
   * Mail: New Directions Aromatics Inc.   
 6781 Columbus Road  
 Mississauga, Ontario  
