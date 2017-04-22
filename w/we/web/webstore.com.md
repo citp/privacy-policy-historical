@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webstore.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028042647id_/http%3A//www.webstore.com/privacy%2Cpage%2Ccontent_pages) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webstore.com privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422114313id_/https%3A//www.webstore.com/privacy%2Cpage%2Ccontent_pages) for the most accurate reproduction.*
 
 # Webstore.com News
 
