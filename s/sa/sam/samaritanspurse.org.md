@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the samaritanspurse.org privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022191331id_/https%3A//www.samaritanspurse.org/our-ministry/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samaritanspurse.org privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422205545id_/https%3A//www.samaritanspurse.org/our-ministry/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 This Privacy Policy is designed to inform you of our privacy practices and principles regarding your information.
 
