@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiscalgeek.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222200439id_/http%3A//www.fiscalgeek.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiscalgeek.com privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422115354id_/http%3A//www.fiscalgeek.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FiscalGeek
 
