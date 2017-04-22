@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiercarebathing.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130103107id_/http%3A//www.premiercarebathing.com/content/components/modals/privacy-policy/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiercarebathing.com privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422112245id_/http%3A//www.premiercarebathing.com/content/components/modals/privacy-policy/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Premier Care in Bathing®
 
