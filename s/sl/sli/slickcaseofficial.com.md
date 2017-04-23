@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the slickcaseofficial.com privacy policy that was archived on 2016-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160908014117id_/http%3A//shop.slickcaseofficial.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slickcaseofficial.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423170433id_/https%3A//shop.slickcaseofficial.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Slick Case
 
-Last Updated: 24/6/2016
+[Home](https://web.archive.org/) / Privacy Policy Privacy Policy
+
+Last Updated: 17/02/2017
 
 ****This Privacy Policy is designed to notify you about how we collect, use, disclose, transfer, and otherwise process personally identifiable information that we collect on the site ('Personal Information'). Each time you visit the site, you consent to the collection, use, disclosure, and processing of Personal Information in accordance with this Privacy Policy. In particular, if you are located in a jurisdiction outside the Hong Kong, you consent to the transfer of your Personal Information to our servers and computer systems anywhere in the world, including to countries that may not provide an equivalent level of data protection to the laws in your home jurisdiction. If you provide any Personal Information that relates to another person you hereby state and agree that you have obtained proper consent from such person for the use, disclosure, and processing of such Personal Information as described in this Privacy Policy.
 
@@ -54,3 +56,58 @@ If there are any questions regarding this privacy policy you may contact us usin
   * support@vectoring.com.hk
 
 
+
+Last Updated: 17/02/2017
+
+****This Privacy Policy is designed to notify you about how we collect, use, disclose, transfer, and otherwise process personally identifiable information that we collect on the site ('Personal Information'). Each time you visit the site, you consent to the collection, use, disclosure, and processing of Personal Information in accordance with this Privacy Policy. In particular, if you are located in a jurisdiction outside the Hong Kong, you consent to the transfer of your Personal Information to our servers and computer systems anywhere in the world, including to countries that may not provide an equivalent level of data protection to the laws in your home jurisdiction. If you provide any Personal Information that relates to another person you hereby state and agree that you have obtained proper consent from such person for the use, disclosure, and processing of such Personal Information as described in this Privacy Policy.
+
+The site actively collects Personal Information from you when you register with the site, when you send any e-mail to the site administrator, and when you submit any information to the site. The kinds of Personal Information you may provide include your name, contact information including e-mail address, user ID, and other information that you include in any communication or submission. We may use this Personal Information to register you with the site, to respond to your inquiry or the issue you pose to the site administrator, to post your submissions to the site and to provide information to others regarding your use of the site. We may also use Personal Information to notify you about products and services that may be of interest to you. If you wish to subscribe to our newsletter, we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at support@vectoring.com.hk.
+
+The site may passively collect certain kinds of information that reveal the frequency with which you visit the site, the times and dates of your visits, the pages you reviewed, persons with whom you interact and other information. Information is passively collected through various means. We use Internet protocol (IP) addresses to administer the site. We use navigational data, including log files and transmission data, to identify information about your web browser and operating system, the time period in which you visit the site or a portion of the site and other the site members with whom you collaborate. We also use a third-party tracking service that uses tracking technologies to track non-personally identifiable information about visitors to our site in the aggregate. This information is used to administer the site, report usage metrics and otherwise operate and improve the site content.
+
+Like many Internet sites, the site may use small text files called "cookies" that are sent to the hard drive of your computer to store bits of information related to your use of the site. Cookies can store a variety of information, including IP addresses, navigational data, server information, data transfer times, user preferences, and passwords needed to access the site. The 'Help' section of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have your browser notify you when you receive a new cookie, or how to configure your browser to reject cookies altogether. However, if you disable cookies, you might not be able to access important functions or features of the site and your use of the site may be limited. The site combines passively collected information (as described above) with actively collected Personal Information and information may be recorded as part of your profile. We do record and use personal information provided by you in order to process orders on the site and provide customer service. This can include name, address information, shipping information and contact information you enter in the shopping cart. This information is used in conjunction with processing, shipping and fulfilling orders through the website.
+
+We may disclose Personal Information to third party service providers performing services on our behalf, including those hosting our servers and providing other technical support services. We use third parties such as a payment processor to bill you for products and a shipping company to ship your order. When you purchase a product, we will share your name, address, credit card details, purchase amount as necessary for the third party to provide that service. Credit card information is transmitted over a secure SSL-encrypted connection to our payment processor and stored in a PCI Level 1-compliant datacenter until the transaction is completed, at which point it is removed entirely unless you have requested to store your credit card details securely at the processor for future transactions. No credit card information is stored on our server. When shipping an order, your contact information is passed to our shipping partner for the purpose of calculating postage, purchasing a shipping label, and tracking shipments. These companies do not retain, share, store or use personally identifiable information for any other purposes. These third parties are prohibited from using your personally identifiable information for promotional purposes. All such parties will be under obligation to comply with privacy terms substantially similar to this Privacy Policy, and to process data in accordance with our instructions.
+
+Slick Case does not share, sell, rent, or trade PII with third parties for their promotional purposes. We may disclose or transfer Personal Information (and any related information) as necessary or appropriate: to process orders; to protect the security of the site; to protect ourselves and our affiliated companies against liability; to protect our customers; to respond to subpoenas, judicial processes, or legitimate requests by law enforcement officials; if we believe in good faith that the law requires it; to the purchaser in connection with any sale, assignment, or other transfer of all or a part of our business or company; or where we believe in good faith that it is in the interest of the health, safety or protection of any third party. In any of these situations, the recipient of the Personal Information may be located in Hong Kong or another jurisdiction that may not provide an equivalent level of data protection to the laws in your home jurisdiction.
+
+If you use a blog or review products on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+
+_This Website links to other sites._
+
+This website contains links to other sites that are not owned or controlled by Slick Case. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by this website.
+
+_Access to Personally Identifiable Information._
+
+If you wish to update any Personal Information you have previously provided, or to exercise any right of access, rectification, deletion, or opposition to the processing of your Personal Information that you may have under applicable law, please contact us at support@vectoring.com.hk. We will be glad to fulfill your request as appropriate, but we reserve the right to use Personal Information obtained previously to verify your identity and as otherwise described in this Privacy Policy. To access and update your Personal Information, you can also sign into your Slick Case account and click on "Customer Account."
+
+_Security._
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+
+_Changes in this Privacy Statement._
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Please check this Privacy Policy frequently and particularly before you submit additional information via the site.
+
+We reserve the right to change this Privacy Policy from time to time and in our sole discretion, except where prior notice or consent is required by law. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+Slick Case may provide third party artwork for incorporation into Slick Case products. Slick Case either owns that artwork or has licensed the right to use that artwork for incorporation into Slick Case products. Use of artwork on the site for any other purpose is prohibited. Reproduction of any artwork from Slick Case products or from the site is prohibited.
+
+_Terms and Conditions._
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://shop.slickcaseofficial.com](http://shop.slickcaseofficial.com/)
+
+_Your Consent._
+
+By using our site, you consent to our web site privacy policy.
+
+_Contact Us._
+
+If there are any questions regarding this privacy policy you may contact us using the information below:
+
+  * [http://shop.slickcaseofficial.com](http://shop.slickcaseofficial.com/)
+  * support@vectoring.com.hk
+
+
+
+Loading...
