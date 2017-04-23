@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freakgeeks.com privacy policy that was archived on 2016-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160811012018id_/http%3A//www.freakgeeks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freakgeeks.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423054558id_/http%3A//www.freakgeeks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
