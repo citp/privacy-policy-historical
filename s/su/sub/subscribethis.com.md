@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the subscribethis.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418070933id_/http%3A//subscribethis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subscribethis.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423075810id_/https%3A//subscribethis.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – SUBSCRIBETHIS.COM
+# Privacy Policy - SUBSCRIBETHIS - TOP TRENDING CONTENTS
 
 This is Subscribethis.com’s privacy policy. This document explains Subscribethis.com’s policies for the collection, use and disclosure of personal information. Subscribethis.com abides by applicable privacy legislation.
 
