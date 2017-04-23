@@ -1,32 +1,37 @@
-> *The following text is extracted and transformed from the futuresimple.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817042220id_/https%3A//getbase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futuresimple.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423224214id_/https%3A//getbase.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Base CRM
 
-There’s nothing more important to us than our relationship with you. We’re committed to the confidentiality and security of any personal information you provide us with. This privacy policy explains how we protect your information.
+There’s nothing more important to us than our relationship with you. We’re committed to the confidentiality and security of any personal information you provide us with. This privacy policy explains how we protect your information. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.
 
-Base or QuoteBase (“The Service”) online services and the web site [https://getbase.com](https://getbase.com/) are provided by FutureSimple Inc. (“The Company”). The Company is committed to protect the privacy of its customers and this Privacy Policy outlines what kinds of information we collect and the way that we may use it. The use of information collected through our service shall be limited to the purpose of providing the service for which the Clients has engaged The Company. ** **
+Base or QuoteBase (“The Service”) online services and the web site [https://getbase.com](https://getbase.com/) are provided by FutureSimple Inc. (“The Company”). The Company is committed to protect the privacy of its customers and this Privacy Policy outlines what kinds of information we collect and the way that we may use it. The use of information collected through our service shall be limited to the purpose of providing the service for which the Clients has engaged The Company.
 
-FurtureSimple Inc. complies with the U.S.–E.U. and U.S.–Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. FutureSimple Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view FutureSimple Inc’s certification, please visit <http://www.export.gov/safeharbor>.
+#### EU – U.S. Privacy Shield
 
-#### TRUSTe Privacy Seal
+FutureSimple Inc. and its subsidiary company Base SP Z.O.O participates in and has certified its compliance with the EU – U.S. Privacy Shield Framework. FutureSimple Inc. is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
 
-FutureSimple Inc. has received TRUSTe’s Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this web site, [https://getbase.com](https://getbase.com/), our mobile application and the Base or QuoteBase platform. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here.](https://feedback-form.truste.com/watchdog/request)
+FutureSimple Inc. is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. FutureSimple Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Company is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, FutureSimple Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 #### Information Collection and Use
 
 In order to use The Service, we need you to provide us with information such as your company’s name, your name and email address. If you’d like to use a paid version of The Service, The Company will need your credit card number and billing information as well. The company also collects application usage statistics.
 
-#### Information Related to Data Collection through The Service
-
+Information Related to Data Collection through The Service  
 The Company collects information under the direction of its clients, and has no direct relationship with the individuals whose personal data it processes. We collect information for our clients, if you are a customer of one of our clients and would no longer like to be contacted by one of our clients that use our service, please contact the client that you interact with directly.
 
 The Company may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this policy regarding notice and choice and the service agreements with our clients.
 
-The Company has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to he Company’s client (the data controller). If the client requests Company to remove the data, we will respond to their request within 30 business days.
+We acknowledges that you have the right to access your personal information. The Company has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to he Company’s client (the data controller). If the client requests Company to remove the data, we will respond to their request within 30 business days.
 
 When you download and use our Services, we automatically collect information on the type of device you use, operating system version, and the device identifier (or “UDID”). We collect your location based information for the purpose of notifying you about nearby leads, prospects, and customers. We will only share this information with our mapping provider for the sole purpose of providing you this service. You may opt-out of location based services at any time by editing the setting at the device level or by contacting us.
 
-We may also occasionally send you push notifications through our mobile application to [send you updates, and other service related notifications that may be of importance to you]. You may at any time opt-out from receiving these types of communications by turning them off at the device level through your settings.
+We may also occasionally send you push notifications through our mobile application to send you updates, and other service related notifications that may be of importance to you. You may at any time opt-out from receiving these types of communications by turning them off at the device level through your settings.
 
 #### Information Sharing
 
@@ -38,7 +43,7 @@ The Company will transfer information, and will notify you about it, in any case
 
 Please be informed that The Company uses third party vendors and hosting partners to provide the necessary hardware, software, emailing, networking, storage, and related technology required to run The Service. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our web site. Please be aware that you are providing your personal information to these third parties and not to https://getbase.com.
+Some of our pages utilize framing techniques to serve content to or from our partners while preserving the look and feel of our web site. Please be aware that you are providing your personal information to these third parties and not to [https://getbase.com.](https://getbase.com./).
 
 #### Opt-out Preferences
 
@@ -50,17 +55,15 @@ If you choose to use our invite Teammates to our Service, we will ask you for th
 
 #### Cookies and other Tracking Technologies
 
-Technologies such as: cookies, beacons, tags and scripts are also used by The Company and our advertising partners and service providers. These technologies are used in analyzing trends, administering the site, tracking user’s movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as: cookies or similar technologies are also used by The Company and our advertising partners and service providers. These technologies are used in analyzing trends, administering the site, tracking user’s movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use cookies for remembering users’ settings on our website and for authentication our shopping cart, to remember users’ settings (e.g. language preference), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+We use cookies for remembering users’ settings on our website and for authentication our shopping cart, to remember users’ settings (e.g. language preference), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We do link some of this automatically-collected data to personal information. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and clickstream data. We do link some of this automatically-collected data to personal information. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
 
-We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking Here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads. In the EU, you may use the EDAA opt-out tool: <http://www.youronlinechoices.eu/>.
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. In the EU, you may use the EDAA opt-out tool: <http://www.youronlinechoices.eu/>
-
-We use Google AdSense to publish ads on this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page:<http://www.google.com/privacy_ads.html>
+We use Google AdSense to publish ads on this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: <http://www.google.com/privacy_ads.html>.
 
 We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personal information you submit within the mobile application.
 
@@ -71,8 +74,6 @@ Our web site includes social media features, such as the Facebook Like button an
 #### Blogs
 
 Anytime you post on our blog please be aware that you are posting using a third party application and we have no access or control over this information. To request removal of your personal information from our blog, you can either log into the third party application or remove your comment or you can contact the appropriate third party application. Your interaction with these features is governed by the privacy policy of the company providing it.
-
-Some of our pages utilize framing or masking techniques to serve content to from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to the Company.
 
 #### Links to 3rd Party Sites
 
@@ -88,7 +89,7 @@ You may also provide personal information about other people, such as their name
 
 #### Single Sign-On
 
-You can log in to our site using sign-in services such as Sign in with Google or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Sign in with Google give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+You can log in to our site using sign-in services such as Sign in with Google or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Sign in with Google give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
 #### Import Contacts
 
@@ -100,23 +101,23 @@ The Company may update this Privacy Policy from time to time. In any case of a s
 
 #### User Access and Choice
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, or delete it by making the change on our member information page or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access personal information within 30 days.
+Upon request Company will provide you with information about whether we hold any of your personal information. If your personal information changes, or if you no longer desire our service, you may correct, update, or delete it by making the change on our member information page or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access personal information within 30 days.
 
-We will retain your information  (including geo-location) and personal data we process on behalf of our clients for as long as your account is active or as needed to provide you services. Please contact us if you wish to cancel your account or request that we no longer use your information to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information (including geo-location) and personal data we process on behalf of our clients for as long as your account is active or as needed to provide you services. Please contact us if you wish to cancel your account or request that we no longer use your information to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 #### Security
 
-The security of your personal information, location information and clients’ information is important to us. When you enter sensitive information, such as a credit card number and/or geo-location data on our order forms or use the Service, we encrypt the transmission of information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our site, please contact us at support@getbase.com or 1 (800) 940-9650.
+The security of your personal information, location information and clients’ information is important to us. When you enter sensitive information, such as a credit card number and/or geo-location data on our order forms or use the Service, we encrypt the transmission of information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our site, please contact us at support@getbase.com or 1 (800) 940-9650.
 
 #### Contact Us
 
 If you have any questions or concerns regarding this Privacy Policy, the practices of this web site or your dealings with this web site, please contact us using the information below:
 
-**FutureSimple Inc.**  
+FutureSimple Inc.  
 850 Shoreline Blvd, Mountain View, CA, 94043  
-[support@getbase.com](mailto:support@getbase.com)  
+support@getbase.com  
 1 (800) 940-9650
 
-_Policy effective  July 1st, 2015_
+Policy effective December 1st, 2016
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=08c41804-164c-430d-a627-9c373a722f5c&lang=es "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=03c6fc24-95be-4ee4-b202-72ae4068e6a4)
