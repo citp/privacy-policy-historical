@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the job-street.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126155017id_/http%3A//job-street.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-street.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423182120id_/http%3A//www.job-street.com/privacy_policy) for the most accurate reproduction.*
 
 # Job-Street - Your Path to a Better Job
 
