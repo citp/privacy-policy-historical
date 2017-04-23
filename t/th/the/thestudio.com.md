@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestudio.com privacy policy that was archived on 2016-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160729223521id_/https%3A//www.thestudio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestudio.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423123638id_/https%3A//www.thestudio.com/privacy) for the most accurate reproduction.*
 
 # Privacy - The/Studio
 
