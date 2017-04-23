@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedomwithwriting.com privacy policy that was archived on 2016-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160927234910id_/https%3A//www.freedomwithwriting.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomwithwriting.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423081205id_/https%3A//www.freedomwithwriting.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
