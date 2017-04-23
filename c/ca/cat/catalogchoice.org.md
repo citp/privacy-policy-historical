@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catalogchoice.org privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108010808id_/https%3A//www.catalogchoice.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalogchoice.org privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423032309id_/https%3A//catalogchoice.org/privacy-policy) for the most accurate reproduction.*
 
 # Catalog Choice
 
