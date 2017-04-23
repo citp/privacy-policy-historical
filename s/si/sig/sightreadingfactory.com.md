@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sightreadingfactory.com privacy policy that was archived on 2016-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160905170911id_/https%3A//www.sightreadingfactory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sightreadingfactory.com privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424004619id_/https%3A//www.sightreadingfactory.com/privacy) for the most accurate reproduction.*
 
-# Terms of Service – Sight Reading Factory®
+# Privacy Policy – Sight Reading Factory®
 
 Sight Reading Factory (the “Service,” or “SRF”) is a product of GraceNotes, LLC (“GraceNotes,” “we,” or “us”), a Virginia limited liability company. This Privacy Policy (“Policy”) governs the use of all user accounts, as well as all activity on, in, or related to the Service, the SRF web site, and interactions with us. 
 
