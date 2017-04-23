@@ -1,92 +1,508 @@
-<!--The following is the downloaded HTML source of the powertofly.com privacy policy that was archived on 2016-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160605011350id_/https%3A//www.powertofly.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the powertofly.com privacy policy that was archived on 2017-04-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170423222625id_/https%3A//powertofly.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script type="text/javascript" async="" src="//commondatastorage.googleapis.com/code.snapengage.com/js/99e3ec4e-ed3b-4ae3-82c7-ee027fcef71c.js"></script><script async="" src="https://assets.powertofly.com/assets/65b17a8508/static/dist/scripts/tracking.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KJ4B8M"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQcBVVJUGwYJU1dQAAQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"2e5b5424d1","agent":"","transactionName":"YF1XMkRXXEsHARJaCVkXcxNYVUZRCQxJVQRCFlMUWVhGXQgGSEUPUk9GXEZEW04HAR9sFlhUXAVP","applicationID":"5976275","errorBeacon":"bam.nr-data.net","applicationTime":23}</script><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="yandex-verification" content="470b308ba77479d5"><title>Privacy Policy</title><link href="https://assets.powertofly.com/assets/65b17a8508/static/dist/site.css" rel="stylesheet"><link href="//fonts.googleapis.com/css?family=Roboto+Slab:700,400" rel="stylesheet" type="text/css"><link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://assets.powertofly.com/assets/65b17a8508/static/dist/ico/apple-touch-icon-60-precomposed.png"><link rel="shortcut icon" href="https://assets.powertofly.com/assets/65b17a8508/static/dist/ico/favicon.png" type="image/png"></head> <body id="layout-text"> <script>
-       window.gaInit = function() {
-           (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-              })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-           ga('create', 'UA-49577854-1', {'cookieDomain': 'ip-10-10-11-58'});
-       };
-       gaInit();
-       ga('send', 'pageview');
-    </script> <!-- Google Tag Manager --> <noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KJ4B8M" height="0" width="0" style="display:none;visibility:hidden"> </iframe> </noscript> <script>
-        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
-            j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;
-            f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-KJ4B8M');
-    </script> <!-- End Google Tag Manager --> <!-- PowerToFly Tracking --> <script>
-    (function (w, d, s, u) {
-        var f = d.getElementsByTagName(s)[0],
-            j = d.createElement(s);
-        j.async = true;
-        j.src = u;
-        f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'https://assets.powertofly.com/assets/65b17a8508/static/dist/scripts/tracking.js');
-</script> <!-- End of PowerToFly Tracking --> <div class="page"> <header id="header" class=""> <div class="container"> <div class="logo pull-left"> <a href="/" class="logo-link" title="PowerToFly"></a> </div> <nav class="pull-right hidden-sm hidden-xs"> <ul class="navbar-nav top"> <li class="item2 btn-item"> <button type="button" data-dismiss="modal" class="transparent sm btn js-user-join" data-api="ajax.popup" action="/accounts/register.json"> Sign up </button> </li> <li class="item2 btn-item"> <button type="button" data-dismiss="modal" data-action="/accounts/auth.json" data-role="" class="transparent sm btn btn-user-nav js-user-login"> Log in </button> </li> </ul> </nav> <div class="pull-right hidden-lg hidden-md"> <button type="button" class="nav mobile" data-toggle="modal" data-target="#siteMobileNav"> <i class="icon icon-menu"></i> </button> </div> </div> </header> <div class="modal modal-nav fade" id="siteMobileNav" tabindex="-1"> <div class="modal-dialog"> <div class="modal-content"> <div class="modal-header"> <div class="pull-left"> <a href="&#10;                            /&#10;                        " class="logo-link"> <img src="https://assets.powertofly.com/assets/65b17a8508/static/dist/images/logo.png" height="36" width="135" title="PowerToFly" alt="PowerToFly"> </a> </div> <button type="button" class="btn btn-link btn-xs nopadding pull-right" data-dismiss="modal" aria-label="Close"><i class="icon icon-cancel right primary border mobile"></i> </button> </div> <nav class="nav menu"> <ul class="arrow-list"> <li class="item2 btn-item"> <button type="button" data-dismiss="modal" class="transparent sm btn js-user-join" data-api="ajax.popup" action="/accounts/register.json"> Sign up </button> </li> <li class="item2 btn-item"> <button type="button" data-dismiss="modal" data-action="/accounts/auth.json" data-role="" class="transparent sm btn btn-user-nav js-user-login"> Log in </button> </li> </ul> </nav> </div> </div> </div> <div class="main"> <div class="container"> <div id="page-content" class="page-content"> <div class="well well-page"> <div class="additional-info"> <div class="additional-info-title"> Effective October 30, 2014 </div> </div> <br> <br> <br> <br> <div class="text-center"> <h2 class="title lined-title colored-title">Privacy <span class="highlight">Policy</span></h2> </div> <p> PowerToFly Inc. ("PowerToFly", "we" or "us") is committed to respecting the privacy of your information. This Privacy Policy ("Privacy Policy") describes the personal information we collect through our website and any mobile applications (the "Site"), and how we collect and use this information. Terms not defined in this Privacy Policy have the meanings given to them in the Terms of Service, available <a class="link" target="_blank" href="/terms">here</a>. </p> <hr> <h3 class="highlight">1. COLLECTION AND USE OF PERSONAL INFORMATION.</h3> <p> Depending on how you use the Site, we may ask you to share personally identifiable information ("Personal Information") with us. Whether you choose to share your Personal Information is completely up to you, but keep in mind that you may not be able to access some areas of the Site or effectively use the services we offer on the Site without sharing Personal Information. Personal Information includes any information that identifies or can be used to identify, contact or locate you. Examples include your name, address, email address, phone number, age, educational background and credit card information. Below are some examples of when we collect Personal Information. </p> <p> 1.1 Basic Account Information. When you register for the Site, we will ask you to provide your name and e-mail address or to log in using an existing social media account. Please see paragraph 4 regarding the information that we may collect from such social media accounts. We may use your email address to send you account confirmations, notifications, and to otherwise provide services to you in connection with the Site. We also use your Personal Information for administrative purposes, such as addressing account and billing issues, troubleshooting Site issues, investigating abuse on the Site, responding to inquiries and enforcing and applying our Terms of Service. </p> <p> 1.2 Contractors. If you are registering as a Contractor, we may also ask for the following information: phone number, Skype ID, photo, work history, educational background, location, biographical information and skills. Contractors have the option to control whether Personal information is made publicly available on the Site through the Contractor’s profile privacy settings. </p> <p> 1.3 Companies. If you are registering as a Company, we may also ask for the following information: phone number, location, company name, company logo, website URL, company size and contact person(s). </p> <p> 1.4 Reviews and Other Public Content. Companies may have the opportunity to provide reviews about Contractors they have used. Users may also have other opportunities to contribute to the Site, such as public forums, bulletin boards and talk threads. We may store these contributions ("Public Content"), display them to other Users, and use them for promotional purposes. Your Public Content becomes public information once you post it, and copies of it may continue to be viewable even after you delete your account. Your Public Content may appear on other websites or web searches, and therefore this information can be read, collected and used by others. Note that if you include Personal Information about yourself in your Public Content, it can be used and viewed by others. Please remember that you are not permitted to disclose any Personal Information about another User or anyone else in your Public Content. </p> <p> 1.5 Payment Information. To process payments, we will require your credit card information and billing information. Credit card transactions are processed through a third party, which only uses your information for that purpose. </p> <h3 class="highlight">2. COLLECTION AND USE OF NON-PERSONAL INFORMATION.</h3> <p> Non-personal information is information that does not identify the specific User. This type of information may include things like the URL of the website you visited before and after visiting our Site, the type of browser you are using, and the IP address of the computer you use to visit the Site. </p> <p> 2.1 Cookies. We collect some anonymous information about how you use the Site by setting and accessing cookies on your computer. A cookie is a small text file that is stored on your computer. These cookies track information such as how often you visit the Site, what pages you view, and where you go after you leave the Site. The cookies track your computer, not you. They are not connected to any personal information about you. If you choose to disable a cookie, you may not be able to use certain features of the Site. PowerToFly uses cookies for authentication, to enable and support our security features and to help us detect malicious activity and violations of our Terms of Service. PowerToFly also uses cookies to learn about how the Site performs in different locations and to understand, improve, and research products, features and services. PowerToFly uses both persistent cookies and session cookies. A persistent cookie helps us recognize you as an existing User, to make it earlier for you to return to PowerToFly without signing in again. After you sign in, a persistent cookie stays in your browsers and will be read by PowerToFly when you return o the site. Session cookies only last for as long as a session in the Site (typically, the current visit to a web site or a browser session). </p> <h3 class="highlight">3. DISCLOSURE OF YOUR INFORMATION TO THIRD PARTIES.</h3> <p> 3.1 Disclosure By Law; Protection of Us and Others. We may disclose information you provide if required to do so by law, at the request of a third party, or if we, in our sole discretion, believe that disclosure is reasonable to (1) comply with the law, requests or orders from law enforcement, or any legal process (whether or not such disclosure is required by applicable law), (2) protect or defend PowerToFly’s, or a third party's, rights or property, (3) protect someone's health or safety, such as when harm or violence against any person (including you) is threatened, or (4) enforce our Terms of Service. </p> <p> 3.2 Permitted Disclosures. We may disclose information you provide: (1) if we have your consent, (2) where it is necessary to carry out your instructions, or (3) as reasonably necessary to provide our features and functionality to you. </p> <p> 3.3 Service Providers. We may share information with vendors providing contractual services to us, such as your payment information, as appropriate to process your payments for the Services or complete a transaction. </p> <h3 class="highlight">4. INFORMATION FROM THIRD-PARTY SOURCES.</h3> <p> We may receive information about you from publicly and commercially available sources, as permitted by law, which we may combine with other information we receive from or about you. For example, we may receive information about you from a social media site if you connect to the Services through that site. Please review the privacy policies of those social media sites if you would like more information regarding the data that the sites may provide us. </p> <h3 class="highlight">5. INFORMATION FROM THIRD-PARTY SOURCES.</h3> <p> You can change your information at any time by editing your profile or the content that you have posted. You can have your account deleted by sending a request via email to <span class="mail-obfuscation mail-hi"></span>. If your account is deleted, we will retain your account data in our system but will not share your information with others. </p> <h3 class="highlight">6. SECURITY OF INFORMATION.</h3> <p> We take security of your Personal Information seriously and take precautions to protect your Personal Information. We encrypt certain sensitive information using Secure Socket Layer (SSL) technology, and implement other commercially reasonable procedures to protect your Personal Information. But, no method of data transmission over the Internet or data storage is 100% secure and therefore, we cannot guarantee the absolute security of any information transmitted to or from the Site. </p> <h3 class="highlight">7. AGE RESTRICTIONS.</h3> <p> The Site is not intended for individuals under the age of 13. We do not knowingly collect Personal Information from individuals under 13, and no part of the Site is designed to attract anyone under the age of 13. If you become aware that your child has provided us with Personal Information, please contact us. If we become aware that an individual under 13 has opened an account and provided us with Personal Information, we take steps to remove such information and terminate that person's account. </p> <h3 class="highlight">8. CHANGES TO OUR PRIVACY POLICY.</h3> <p> We may revise our Privacy Policy from time to time. The most current version of the Privacy Policy will govern our use of your information and will always be located on this webpage. If we make a change to our Privacy Policy that is material, we will notify you either by prominently posting a notice of such changes before implementing the change on the Site and/or via the email associated with your account. By continuing to access the Site and use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy. </p> <h3 class="highlight">9. CONTACT US.</h3> <p> If you have any feedback, questions or complaints about this Privacy Policy or any of our privacy-related practices, please contact us directly at: <span class="mail-obfuscation mail-hi"></span>. </p> </div> </div> </div> </div> <footer id="footer"> <div class="navigation"> <div class="container"> <nav class="pull-left"> <ul class="nav navbar-nav navbar-left"> <li><a href="/team/">Team</a></li> <li><a href="/hired/">Hired</a></li> <li><a href="https://connect.powertofly.com/section/blog/" target="_blank">Community</a></li> <li> <a href="/faq/candidates">FAQ</a> </li> <li><a href="#" onclick="return SnapEngage.startLink();">Chat</a></li> <li><a href="/privacy-policy">Privacy</a></li> <li><a href="/terms">Terms</a></li> </ul> </nav> <div class="pull-right"> <div class="navbar-text">Join us on</div> <ul class="social footer"> <li><a href="https://twitter.com/powertofly" target="_blank"><i class="icon icon-twitter"></i></a></li> <li><a href="https://www.facebook.com/powertofly" target="_blank"><i class="icon icon-facebook"></i></a></li> <li><a href="https://www.linkedin.com/company/powertofly" target="_blank"><i class="icon icon-linkedin"></i></a></li> <li><a href="https://instagram.com/powertofly" target="_blank"><i class="icon icon-instagram-filled"></i></a></li> <li><a href="https://www.pinterest.com/powertofly" target="_blank"><i class="icon icon-pinterest"></i></a></li> </ul> </div> </div> </div> <div class="copyright"> <div class="container"> <p class="navbar-text">Copyright © <span class="flask-moment" data-timestamp="2016-06-05T01:13:50Z" data-format="format('YYYY')" data-refresh="0">2016-06-05T01:13:50Z</span>, PowerToFly</p> <a class="mixpanel" href="https://mixpanel.com/f/partner"><img src="//cdn.mxpnl.com/site_media/images/partner/badge_light.png" alt="Mobile Analytics"></a> </div> </div> </footer> <div class="nav nav-side" style="display: none"> <a href="#" class="SnapABug_Button nav-side-btn" onclick="return SnapEngage.startLink();"><span class="sr-only">Get Help</span></a> <!-- begin SnapEngage code --> <script type="text/javascript">
-  (function() {
-    var se = document.createElement('script'); se.type = 'text/javascript'; se.async = true;
-    se.src = '//commondatastorage.googleapis.com/code.snapengage.com/js/99e3ec4e-ed3b-4ae3-82c7-ee027fcef71c.js';
-    var done = false;
-    se.onload = se.onreadystatechange = function() {
-      if (!done&&(!this.readyState||this.readyState==='loaded'||this.readyState==='complete')) {
-        done = true;
-        // Place your SnapEngage JS API code below
-        SnapEngageChat.setTitle('Contact us');
-	SnapABug.disableLightbox();
-	SnapEngage.showButton();
-      }
-    };
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
-  })();
-</script> <!-- end SnapEngage code --> <a href="#" class="back-top nav-side-btn"><span class="sr-only">Back to top</span></a> </div> </div> <div id="auth-popup-wrapper"> <div class="modal fade" id="auth-popup"> <div class="modal-dialog modal-auth"> <div class="modal-content"> <button type="button" class="close" data-dismiss="modal" aria-hidden="true"> <i class="icon icon-cancel"></i></button> <div class="js-form-auth-body"> </div> </div> </div> </div> </div> <div id="alerts"> </div> <script>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+    
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="format-detection" content="telephone=no">
+<title>Privacy Policy - PowerToFly</title>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KJ4B8M"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">var ajaxurl = "/wp-admin/admin-ajax.php"</script><style id="critical-path-css" type="text/css">body,html{width:100%;height:100%;margin:0;padding:0}.page-preloader{top:0;left:0;z-index:999;position:fixed;height:100%;width:100%;text-align:center}.preloader-logo,.preloader-preview-area{top:50%;max-height:calc(50% - 20px);opacity:1}.preloader-preview-area{-webkit-animation-delay:-.2s;animation-delay:-.2s;-webkit-transform:translateY(100%);-ms-transform:translateY(100%);transform:translateY(100%);margin-top:10px;width:100%;text-align:center;position:absolute}.preloader-logo{max-width:90%;-webkit-transform:translateY(-100%);-ms-transform:translateY(-100%);transform:translateY(-100%);margin:-10px auto 0;position:relative}.ball-pulse>div,.ball-scale>div,.line-scale>div{margin:2px;display:inline-block}.ball-pulse>div{width:15px;height:15px;border-radius:100%;-webkit-animation-fill-mode:both;animation-fill-mode:both;-webkit-animation:ball-pulse .75s infinite cubic-bezier(.2,.68,.18,1.08);animation:ball-pulse .75s infinite cubic-bezier(.2,.68,.18,1.08)}.ball-pulse>div:nth-child(1){-webkit-animation-delay:-.36s;animation-delay:-.36s}.ball-pulse>div:nth-child(2){-webkit-animation-delay:-.24s;animation-delay:-.24s}.ball-pulse>div:nth-child(3){-webkit-animation-delay:-.12s;animation-delay:-.12s}@-webkit-keyframes ball-pulse{0%,80%{-webkit-transform:scale(1);transform:scale(1);opacity:1}45%{-webkit-transform:scale(.1);transform:scale(.1);opacity:.7}}@keyframes ball-pulse{0%,80%{-webkit-transform:scale(1);transform:scale(1);opacity:1}45%{-webkit-transform:scale(.1);transform:scale(.1);opacity:.7}}.ball-clip-rotate-pulse{position:relative;-webkit-transform:translateY(-15px) translateX(-10px);-ms-transform:translateY(-15px) translateX(-10px);transform:translateY(-15px) translateX(-10px);display:inline-block}.ball-clip-rotate-pulse>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;position:absolute;top:0;left:0;border-radius:100%}.ball-clip-rotate-pulse>div:first-child{height:36px;width:36px;top:7px;left:-7px;-webkit-animation:ball-clip-rotate-pulse-scale 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:ball-clip-rotate-pulse-scale 1s 0s cubic-bezier(.09,.57,.49,.9) infinite}.ball-clip-rotate-pulse>div:last-child{position:absolute;width:50px;height:50px;left:-16px;top:-2px;background:0 0;border:2px solid;-webkit-animation:ball-clip-rotate-pulse-rotate 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:ball-clip-rotate-pulse-rotate 1s 0s cubic-bezier(.09,.57,.49,.9) infinite;-webkit-animation-duration:1s;animation-duration:1s}@-webkit-keyframes ball-clip-rotate-pulse-rotate{0%{-webkit-transform:rotate(0) scale(1);transform:rotate(0) scale(1)}50%{-webkit-transform:rotate(180deg) scale(.6);transform:rotate(180deg) scale(.6)}100%{-webkit-transform:rotate(360deg) scale(1);transform:rotate(360deg) scale(1)}}@keyframes ball-clip-rotate-pulse-rotate{0%{-webkit-transform:rotate(0) scale(1);transform:rotate(0) scale(1)}50%{-webkit-transform:rotate(180deg) scale(.6);transform:rotate(180deg) scale(.6)}100%{-webkit-transform:rotate(360deg) scale(1);transform:rotate(360deg) scale(1)}}@-webkit-keyframes ball-clip-rotate-pulse-scale{30%{-webkit-transform:scale(.3);transform:scale(.3)}100%{-webkit-transform:scale(1);transform:scale(1)}}@keyframes ball-clip-rotate-pulse-scale{30%{-webkit-transform:scale(.3);transform:scale(.3)}100%{-webkit-transform:scale(1);transform:scale(1)}}@-webkit-keyframes square-spin{25%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(0);transform:perspective(100px) rotateX(180deg) rotateY(0)}50%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(180deg);transform:perspective(100px) rotateX(180deg) rotateY(180deg)}75%{-webkit-transform:perspective(100px) rotateX(0) rotateY(180deg);transform:perspective(100px) rotateX(0) rotateY(180deg)}100%{-webkit-transform:perspective(100px) rotateX(0) rotateY(0);transform:perspective(100px) rotateX(0) rotateY(0)}}@keyframes square-spin{25%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(0);transform:perspective(100px) rotateX(180deg) rotateY(0)}50%{-webkit-transform:perspective(100px) rotateX(180deg) rotateY(180deg);transform:perspective(100px) rotateX(180deg) rotateY(180deg)}75%{-webkit-transform:perspective(100px) rotateX(0) rotateY(180deg);transform:perspective(100px) rotateX(0) rotateY(180deg)}100%{-webkit-transform:perspective(100px) rotateX(0) rotateY(0);transform:perspective(100px) rotateX(0) rotateY(0)}}.square-spin{display:inline-block}.square-spin>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;width:50px;height:50px;-webkit-animation:square-spin 3s 0s cubic-bezier(.09,.57,.49,.9) infinite;animation:square-spin 3s 0s cubic-bezier(.09,.57,.49,.9) infinite}.cube-transition{position:relative;-webkit-transform:translate(-25px,-25px);-ms-transform:translate(-25px,-25px);transform:translate(-25px,-25px);display:inline-block}.cube-transition>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;width:15px;height:15px;position:absolute;top:-5px;left:-5px;-webkit-animation:cube-transition 1.6s 0s infinite ease-in-out;animation:cube-transition 1.6s 0s infinite ease-in-out}.cube-transition>div:last-child{-webkit-animation-delay:-.8s;animation-delay:-.8s}@-webkit-keyframes cube-transition{25%{-webkit-transform:translateX(50px) scale(.5) rotate(-90deg);transform:translateX(50px) scale(.5) rotate(-90deg)}50%{-webkit-transform:translate(50px,50px) rotate(-180deg);transform:translate(50px,50px) rotate(-180deg)}75%{-webkit-transform:translateY(50px) scale(.5) rotate(-270deg);transform:translateY(50px) scale(.5) rotate(-270deg)}100%{-webkit-transform:rotate(-360deg);transform:rotate(-360deg)}}@keyframes cube-transition{25%{-webkit-transform:translateX(50px) scale(.5) rotate(-90deg);transform:translateX(50px) scale(.5) rotate(-90deg)}50%{-webkit-transform:translate(50px,50px) rotate(-180deg);transform:translate(50px,50px) rotate(-180deg)}75%{-webkit-transform:translateY(50px) scale(.5) rotate(-270deg);transform:translateY(50px) scale(.5) rotate(-270deg)}100%{-webkit-transform:rotate(-360deg);transform:rotate(-360deg)}}.ball-scale>div{border-radius:100%;-webkit-animation-fill-mode:both;animation-fill-mode:both;height:60px;width:60px;-webkit-animation:ball-scale 1s 0s ease-in-out infinite;animation:ball-scale 1s 0s ease-in-out infinite}.ball-scale-multiple>div,.line-scale>div{-webkit-animation-fill-mode:both;height:50px}@-webkit-keyframes ball-scale{0%{-webkit-transform:scale(0);transform:scale(0)}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}@keyframes ball-scale{0%{-webkit-transform:scale(0);transform:scale(0)}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}.line-scale>div{animation-fill-mode:both;width:5px;border-radius:2px}.line-scale>div:nth-child(1){-webkit-animation:line-scale 1s -.5s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.5s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(2){-webkit-animation:line-scale 1s -.4s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.4s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(3){-webkit-animation:line-scale 1s -.3s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.3s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(4){-webkit-animation:line-scale 1s -.2s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.2s infinite cubic-bezier(.2,.68,.18,1.08)}.line-scale>div:nth-child(5){-webkit-animation:line-scale 1s -.1s infinite cubic-bezier(.2,.68,.18,1.08);animation:line-scale 1s -.1s infinite cubic-bezier(.2,.68,.18,1.08)}@-webkit-keyframes line-scale{0%,100%{-webkit-transform:scaley(1);transform:scaley(1)}50%{-webkit-transform:scaley(.4);transform:scaley(.4)}}@keyframes line-scale{0%,100%{-webkit-transform:scaley(1);transform:scaley(1)}50%{-webkit-transform:scaley(.4);transform:scaley(.4)}}.ball-scale-multiple{position:relative;-webkit-transform:translateY(30px);-ms-transform:translateY(30px);transform:translateY(30px);display:inline-block}.ball-scale-multiple>div{border-radius:100%;animation-fill-mode:both;margin:0;position:absolute;left:-30px;top:0;opacity:0;width:50px;-webkit-animation:ball-scale-multiple 1s 0s linear infinite;animation:ball-scale-multiple 1s 0s linear infinite}.ball-scale-multiple>div:nth-child(2),.ball-scale-multiple>div:nth-child(3){-webkit-animation-delay:-.2s;animation-delay:-.2s}@-webkit-keyframes ball-scale-multiple{0%{-webkit-transform:scale(0);transform:scale(0);opacity:0}5%{opacity:1}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}@keyframes ball-scale-multiple{0%{-webkit-transform:scale(0);transform:scale(0);opacity:0}5%{opacity:1}100%{-webkit-transform:scale(1);transform:scale(1);opacity:0}}.ball-pulse-sync{display:inline-block}.ball-pulse-sync>div{width:15px;height:15px;border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;display:inline-block}.ball-pulse-sync>div:nth-child(1){-webkit-animation:ball-pulse-sync .6s -.21s infinite ease-in-out;animation:ball-pulse-sync .6s -.21s infinite ease-in-out}.ball-pulse-sync>div:nth-child(2){-webkit-animation:ball-pulse-sync .6s -.14s infinite ease-in-out;animation:ball-pulse-sync .6s -.14s infinite ease-in-out}.ball-pulse-sync>div:nth-child(3){-webkit-animation:ball-pulse-sync .6s -70ms infinite ease-in-out;animation:ball-pulse-sync .6s -70ms infinite ease-in-out}@-webkit-keyframes ball-pulse-sync{33%{-webkit-transform:translateY(10px);transform:translateY(10px)}66%{-webkit-transform:translateY(-10px);transform:translateY(-10px)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes ball-pulse-sync{33%{-webkit-transform:translateY(10px);transform:translateY(10px)}66%{-webkit-transform:translateY(-10px);transform:translateY(-10px)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}.transparent-circle{display:inline-block;border-top:.5em solid rgba(255,255,255,.2);border-right:.5em solid rgba(255,255,255,.2);border-bottom:.5em solid rgba(255,255,255,.2);border-left:.5em solid #fff;-webkit-transform:translateZ(0);transform:translateZ(0);-webkit-animation:transparent-circle 1.1s infinite linear;animation:transparent-circle 1.1s infinite linear;width:50px;height:50px;border-radius:50%}.transparent-circle:after{border-radius:50%;width:10em;height:10em}@-webkit-keyframes transparent-circle{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes transparent-circle{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.ball-spin-fade-loader{position:relative;top:-10px;left:-10px;display:inline-block}.ball-spin-fade-loader>div{width:15px;height:15px;border-radius:100%;margin:2px;-webkit-animation-fill-mode:both;animation-fill-mode:both;position:absolute;-webkit-animation:ball-spin-fade-loader 1s infinite linear;animation:ball-spin-fade-loader 1s infinite linear}.ball-spin-fade-loader>div:nth-child(1){top:25px;left:0;animation-delay:-.84s;-webkit-animation-delay:-.84s}.ball-spin-fade-loader>div:nth-child(2){top:17.05px;left:17.05px;animation-delay:-.72s;-webkit-animation-delay:-.72s}.ball-spin-fade-loader>div:nth-child(3){top:0;left:25px;animation-delay:-.6s;-webkit-animation-delay:-.6s}.ball-spin-fade-loader>div:nth-child(4){top:-17.05px;left:17.05px;animation-delay:-.48s;-webkit-animation-delay:-.48s}.ball-spin-fade-loader>div:nth-child(5){top:-25px;left:0;animation-delay:-.36s;-webkit-animation-delay:-.36s}.ball-spin-fade-loader>div:nth-child(6){top:-17.05px;left:-17.05px;animation-delay:-.24s;-webkit-animation-delay:-.24s}.ball-spin-fade-loader>div:nth-child(7){top:0;left:-25px;animation-delay:-.12s;-webkit-animation-delay:-.12s}.ball-spin-fade-loader>div:nth-child(8){top:17.05px;left:-17.05px;animation-delay:0s;-webkit-animation-delay:0s}@-webkit-keyframes ball-spin-fade-loader{50%{opacity:.3;-webkit-transform:scale(.4);transform:scale(.4)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}@keyframes ball-spin-fade-loader{50%{opacity:.3;-webkit-transform:scale(.4);transform:scale(.4)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}</style>
+<!-- This site is optimized with the Yoast SEO plugin v4.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="We're connecting accomplished women with jobs that actually lead to work-life balance!">
+<meta name="robots" content="noodp">
+<link rel="canonical" href="/privacy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - PowerToFly">
+<meta property="og:description" content="We're connecting accomplished women with jobs that actually lead to work-life balance!">
+<meta property="og:url" content="/privacy/">
+<meta property="og:site_name" content="PowerToFly">
+<meta property="article:publisher" content="http://facebook.com/powertofly">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="We're connecting accomplished women with jobs that actually lead to work-life balance!">
+<meta name="twitter:title" content="Privacy Policy - PowerToFly">
+<meta name="twitter:site" content="@powertofly">
+<meta name="twitter:creator" content="@powertofly">
+<!-- / Yoast SEO plugin. -->
 
-        window.CONFIG = {
-            baseUrl: "/",
-            apiUrl: "/api/v1",
-            debug: false === true,
-            distPath: 'https://assets.powertofly.com/assets/65b17a8508/static/dist/',
-            email: {
-                generalEmail: 'hi@powertofly.com',
-                salesEmail: 'sales@powertofly.com',
-                TMEmail: 'hires@powertofly.com',
-                placementsEmail: 'placements@powertofly.com',
-            },
-            gaTracking: true === true,
-            mixpanelToken: "1227f296d6417b5aec0ed55cf9d6b92d",
-            stripePublicKey: "pk_live_4LCaNBlOSBIwN3dmNNr10p7j",
-            paths: {
-                authJsonURL: "/accounts/auth.json",
-                popupAccountPassUrl: '/accounts/edit/password.json',
-                popupInviteOfferUrl: '/talents/invites/offer',
-            },
-            sanitizeHtml: {
-                allowedTags: ["p", "div", "h4", "h5", "h6", "ul", "ol", "li", "a", "em", "strong", "br", "span", "b", "i", "u"],
-                allowedAttributesByTags: {"a": ["href", "title", "class"], "b": ["class"], "div": ["class"], "em": ["class"], "h4": ["class"], "h5": ["class"], "h6": ["class"], "i": ["class"], "li": ["class"], "ol": ["class"], "p": ["class"], "span": ["class"], "strong": ["class"], "ul": ["class"]},
-                allowedSchemas: ["http", "https", "mailto"],
-            },
-            fileUploader: {
-                allowedPhotoExtns: ["JPEG", "JPG", "PNG"],
-                maxPhotoSize: 3145728,
-            },
-            userResume: {
-                fileTypes: ["PDF", "DOC", "DOCX"],
-                maxSizeLimit: 5242880,
-            },
-            kanban: {
-                cardTextLength: "70",
-            },
-        };
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="alternate" type="application/rss+xml" title="PowerToFly » Feed" href="/feed/">
+<link rel="alternate" type="application/rss+xml" title="PowerToFly » Comments Feed" href="/comments/feed/">
 
-        
-            CONFIG.csrfToken = '1465100030.39##20919c2b6ab8e9ebdd48d18bd2669bdd35c8421c';
-        
+<link rel="shortcut icon" href="https://dev-assets.powertofly.com/assets/qa/4e65265742/static/dist/ico/favicon.ico">
+<link rel="apple-touch-icon-precomposed" href="https://assets.powertofly.com/cms/wp-content/uploads/2017/02/apple-touch-icon-60-precomposed.jpg">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://assets.powertofly.com/cms/wp-content/uploads/2017/02/apple-touch-icon-60-precomposed.jpg">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://assets.powertofly.com/cms/wp-content/uploads/2017/02/apple-touch-icon-60-precomposed.jpg">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://assets.powertofly.com/cms/wp-content/uploads/2017/02/apple-touch-icon-60-precomposed.jpg">
+<script type="text/javascript">
+window.abb = {};
+php = {};
+window.PHP = {};
+PHP.ajax = "/wp-admin/admin-ajax.php";PHP.wp_p_id = "24";var mk_header_parallax, mk_banner_parallax, mk_page_parallax, mk_footer_parallax, mk_body_parallax;
+var mk_images_dir = "https://assets.powertofly.com/cms/wp-content/themes/jupiter/assets/images",
+mk_theme_js_path = "https://assets.powertofly.com/cms/wp-content/themes/jupiter/assets/js",
+mk_theme_dir = "https://assets.powertofly.com/cms/wp-content/themes/jupiter",
+mk_captcha_placeholder = "Enter Captcha",
+mk_captcha_invalid_txt = "Invalid. Try again.",
+mk_captcha_correct_txt = "Captcha correct.",
+mk_responsive_nav_width = 1140,
+mk_vertical_header_back = "Back",
+mk_vertical_header_anim = "1",
+mk_check_rtl = true,
+mk_grid_width = 1140,
+mk_ajax_search_option = "disable",
+mk_preloader_bg_color = "#ffffff",
+mk_accent_color = "#ec5167",
+mk_go_to_top =  "false",
+mk_smooth_scroll =  "true",
+mk_preloader_bar_color = "#ec5167",
+mk_preloader_logo = "";
+var mk_header_parallax = false,
+mk_banner_parallax = false,
+mk_footer_parallax = false,
+mk_body_parallax = false,
+mk_no_more_posts = "No More Posts";
+</script>
+<link rel="stylesheet" id="contact-form-7-css" href="https://assets.powertofly.com/cms/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="cookie-consent-style-css" href="https://assets.powertofly.com/cms/wp-content/plugins/uk-cookie-consent/assets/css/style.css?ver=4.7.4" type="text/css" media="all">
+<link rel="stylesheet" id="theme-styles-css" href="https://assets.powertofly.com/cms/wp-content/themes/jupiter/assets/stylesheet/min/core-styles.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="google-font-api-special-1-css" href="https://fonts.googleapis.com/css?family=Open+Sans%3A100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic%2C100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&amp;ver=4.7.4" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="https://assets.powertofly.com/cms/wp-content/plugins/js_composer_theme/assets/css/js_composer.min.css?ver=5.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="global-assets-css-css" href="https://assets.powertofly.com/cms/wp-content/uploads/mk_assets/components-production.min.css?ver=1492983369" type="text/css" media="all">
+<link rel="stylesheet" id="theme-options-css" href="https://assets.powertofly.com/cms/wp-content/uploads/mk_assets/theme-options-production.css?ver=1492983369" type="text/css" media="all">
+<link rel="stylesheet" id="mk-style-css" href="https://assets.powertofly.com/cms/wp-content/themes/jupiter-child/style.css?ver=4.7.4" type="text/css" media="all">
+<link rel="stylesheet" id="theme-dynamic-styles-css" href="https://assets.powertofly.com/cms/wp-content/themes/jupiter/custom.css?ver=4.7.4" type="text/css" media="all">
+<style id="theme-dynamic-styles-inline-css" type="text/css">
+body { background-color:#fff; } .mk-header { background-color:#f7f7f7; } .mk-header-bg { background-color:#fff; } .mk-classic-nav-bg { background-color:#fff; } .master-holder-bg { background-color:#f7f7f7; } #mk-footer { background-color:#373c44; } #mk-boxed-layout { -webkit-box-shadow:0 0 0px rgba(0, 0, 0, 0); -moz-box-shadow:0 0 0px rgba(0, 0, 0, 0); box-shadow:0 0 0px rgba(0, 0, 0, 0); } .mk-news-tab .mk-tabs-tabs .is-active a, .mk-fancy-title.pattern-style span, .mk-fancy-title.pattern-style.color-gradient span:after, .page-bg-color { background-color:#f7f7f7; } .page-title { font-size:38px; color:; text-transform:none; font-weight:400; letter-spacing:0px; } .page-subtitle { font-size:18px; line-height:100%; color:; font-size:18px; text-transform:none; } .mk-header.sticky-style-fixed.a-sticky .mk-header-holder{ border-bottom:1px solid #f7f7f7; } .header-style-1 .mk-header-padding-wrapper, .header-style-2 .mk-header-padding-wrapper, .header-style-3 .mk-header-padding-wrapper { padding-top:91px; } @font-face { font-family:'star'; src:url('https://assets.powertofly.com/cms/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.eot'); src:url('https://assets.powertofly.com/cms/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.eot?#iefix') format('embedded-opentype'), url('https://assets.powertofly.com/cms/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.woff') format('woff'), url('https://assets.powertofly.com/cms/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.ttf') format('truetype'), url('https://assets.powertofly.com/cms/wp-content/themes/jupiter/assets/stylesheet/fonts/star/font.svg#star') format('svg'); font-weight:normal; font-style:normal; } @font-face { font-family:'WooCommerce'; src:url('https://assets.powertofly.com/cms/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.eot'); src:url('https://assets.powertofly.com/cms/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.eot?#iefix') format('embedded-opentype'), url('https://assets.powertofly.com/cms/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.woff') format('woff'), url('https://assets.powertofly.com/cms/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.ttf') format('truetype'), url('https://assets.powertofly.com/cms/wp-content/themes/jupiter/assets/stylesheet/fonts/woocommerce/font.svg#WooCommerce') format('svg'); font-weight:normal; font-style:normal; } p, blockquote, ul, ol, dl, pre { margin-bottom:24px; } h1, h2, h3, h4, h5, h6, { margin-top:24px; margin-bottom:24px; } .text.xxlg, .text.xxlg p { font-size:21px; line-height:34px; } .text.xlg, .text.xlg p { font-size:19px; line-height:31px; } .text.lg, .text.lg p { font-size:17px; line-height:28px; } .text.md, .text.md p { font-size:15px; line-height:24px; } .text.sm, .text.sm p { font-size:13px; line-height:21px; } .text.xsm, .text.xsm p { font-size:11px; line-height:18px; } .text.xxs, .text.xxs p { font-size:9px; line-height:15px; } .half-px { letter-spacing:0.5px; } .one-px { letter-spacing:1px; } .two-px { letter-spacing:2px; } @media handheld, only screen and (min-width:1140px) { #menu-item-108 a { border:2px solid; border-radius:2px; padding:10px 20px; } .a-sticky #menu-item-108 a { padding:4px 20px !important; margin-top:-1px; } #menu-item-108 a:hover { background-color:#373c44; color:white; border-color:#373c44; } #menu-item-108:hover:after, #menu-item-108 a:hover:after { background-color:transparent !important; } #mk-footer-navigation { float:left; margin-left:4%; } .widget_social_networks a.medium svg { height:14px !important; width:14px !important; padding:9px !important; } #social-2 { margin-bottom:0 !important; } } @media handheld, only screen and (min-width:768px) { #menu-footer-sub li { display:inline-block; padding-right:12px; font-size:13px; opacity:0.8 } #nav_menu-5 { margin-bottom:0 !important; padding:0} #social-2 { margin-bottom:40px !important;} #mk-footer {padding:30px 0 40px; } } .widget_nav_menu ul li.current_page_item a { background-color:transparent; } .fit-logo-img a img {height:52px; width:196px;} .header-style-1.a-sticky .logo-has-sticky .mk-sticky-logo {margin:0; width:150px;} #mk-footer .footer-wrapper { padding-bottom:0 !important; } #sub-footer { padding-bottom:40px; } .mk-footer-copyright { margin-left:20px; padding-left:2%; } .a-sticky:not(.header-style-4) .add-header-height { line-height:56px !important; } .error404 .widget_search, .error404 .mk-searchform, .widget_nav_menu li a .mk-svg-icon { display:none; } #mk-footer-navigation ul li a { font-size:13px; } #mk-footer .widgettitle { letter-spacing:1px; } .header-style-1.a-sticky .menu-hover-style-5 .main-navigation-ul > li {line-height:55.5px !important; } .icon-box-readmore .mk-svg-icon { top:-1px !important; } .main-navigation-ul li.no-mega-menu ul.sub-menu { top:90% } .main-navigation-ul > li.no-mega-menu ul.sub-menu li.menu-item a.menu-item-link { width:180px } .client-logo { -webkit-filter:grayscale(100%); filter:grayscale(100%); } .menu-hover-style-5 .main-navigation-ul>li#menu-item-108>a.menu-item-link:after { height:0; } .mk-go-top.is-active { right:0; } .mk-go-top { bottom:25px !important; } .arrows li { padding:0 0 0 36px !important; margin-bottom:24px !important; } .nav-side { bottom:80px; right:0; position:fixed; z-index:1000; } .nav { margin-bottom:0; padding-left:0; list-style:none; } .SnapABug_Button { background:url('https://assets.powertofly.com/cms/uploads/2016/10/11220854/gethelp.png') no-repeat 0 50%; background-size:cover; height:171px; width:40px; cursor:pointer; display:block; font-size:0; line-height:0; margin:0; overflow:hidden; padding:0; position:relative; right:auto; top:0px; z-index:2147000000; } .nav-side-btn { display:block; text-decoration:none; width:40px; } .sr-only { position:absolute; width:1px; height:1px; margin:-1px; padding:0; overflow:hidden; clip:rect(0,0,0,0); border:0; } .back-top { background:url('https://assets.powertofly.com/cms/uploads/2016/10/11220852/top.png') no-repeat 0 50%; background-size:cover; height:40px; margin-top:15px; } span.wpcf7-not-valid-tip { color:#373c44; } div.wpcf7-* {border-width:1px; border-radius:2px; } input[type=emailModern], input[type=email], input[type=password], input[type=search], input[type=tel], input[type=text], textarea, .wpcf7-form .wpcf7-textarea, .wpcf7-select, .wpcf7-text, .wpcf7-email { background:white; border-radius:2px; width:100%; } .wpcf7-submit { border-width:2px; font-size:14px; padding-right:24px; padding-left:24px; line-height:20px; letter-spacing:0.5px; } .wpcf7-mail-sent-ok, .wpcf7-validation-errors { border:1px solid !important; background:#ffffff !important; text-align:center; font-weight:700} .page-child .wpcf7-mail-sent-ok {visibility:hidden; }
+</style>
+<script type="text/javascript" src="https://assets.powertofly.com/cms/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://assets.powertofly.com/cms/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://assets.powertofly.com/cms/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.5.1"></script>
+<link rel="https://api.w.org/" href="/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://assets.powertofly.com/cms/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.7.4">
+<link rel="shortlink" href="/?p=24">
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fprod-cms.powertofly.com%2Fprivacy%2F">
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fprod-cms.powertofly.com%2Fprivacy%2F&amp;format=xml">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-        CONFIG.currentUser = {};
+  ga('create', 'UA-49577854-1', 'auto');
+  ga('send', 'pageview');
+</script><style id="ctcc-css" type="text/css" media="screen">
+				#catapult-cookie-bar {
+					box-sizing: border-box;
+					max-height: 0;
+					opacity: 0;
+					z-index: 99999;
+					overflow: hidden;
+					color: #ffffff;
+					position: fixed;
+					left: 0;
+					bottom: 0;
+					width: 100%;
+					background-color: #373c44;
+				}
+				#catapult-cookie-bar a {
+					color: #379abe;
+				}
+				#catapult-cookie-bar .x_close span {
+					background-color: #373c44;
+				}
+				button#catapultCookie {
+					background:#ffffff;
+					color: #373c44;
+					border: 0; padding: 6px 9px; border-radius: 3px;
+				}
+				#catapult-cookie-bar h3 {
+					color: #ffffff;
+				}
+				.has-cookie-bar #catapult-cookie-bar {
+					opacity: 1;
+					max-height: 999px;
+					min-height: 30px;
+				}</style>
+<!-- Google Tag Manager for WordPress by DuracellTomi - http://duracelltomi.com -->
+<script data-cfasync="false" type="text/javascript">
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || []
+	dataLayer.push({"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"Ana Martinez"});
+</script>
+<script data-cfasync="false">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KJ4B8M');</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by DuracellTomi --><script> var isTest = false; </script>
+<style id="js-media-query-css">.mk-event-countdown-ul:media( max-width: 750px ) li{width:90%;display:block;margin:0 auto 15px}.mk-process-steps:media( max-width: 960px ) ul:before{display:none!important}.mk-process-steps:media( max-width: 960px ) li{margin-bottom:30px!important;width:100%!important;text-align:center}</style><meta itemprop="author" content="Ana Martinez"><meta itemprop="datePublished" content="September 23, 2016"><meta itemprop="dateModified" content="March 3, 2017"><meta itemprop="publisher" content="PowerToFly"><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://assets.powertofly.com/cms/wp-content/plugins/js_composer_theme/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Jupiter Child Theme 1.0">
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="page-template-default page page-id-24 loading wpb-js-composer js-comp-ver-5.0.1 vc_responsive ">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KJ4B8M"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><br style="display:none;" itemscope="itemscope" itemtype="https://schema.org/WebPage" data-adminbar="">
+
+	
+	<!-- Target for scroll anchors to achieve native browser bahaviour + possible enhancements like smooth scrolling -->
+	<div id="top-of-page"></div>
+
+		<div id="mk-boxed-layout">
+
+			<div id="mk-theme-container">
+
+				 
+    <header data-height="90" data-sticky-height="59" data-responsive-height="90" data-transparent-skin="light" data-header-style="1" data-sticky-style="slide" data-sticky-offset="header" id="mk-header-1" class="mk-header header-style-1 header-align-left  toolbar-false menu-hover-5 sticky-style-slide mk-background-stretch boxed-header " role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+                    <div class="mk-header-holder">
+                                <div class="mk-header-inner add-header-height">
+
+                    <div class="mk-header-bg "></div>
+
+                    
+                                                <div class="mk-grid header-grid">
+                    
+                            <div class="mk-header-nav-container one-row-style menu-hover-style-5" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+                                <nav class="mk-main-navigation js-main-nav"><ul id="menu-main" class="main-navigation-ul"><li id="menu-item-8407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children no-mega-menu"><a class="menu-item-link js-smooth-scroll" href="/">Talent</a>
+<ul style="" class="sub-menu ">
+	<li id="menu-item-8729" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll" href="https://www.powertofly.com#whyjoin">Why Join Us</a></li>
+	<li id="menu-item-9412" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll" href="/power-promoters/">PowerPromoters</a></li>
+	<li id="menu-item-133" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll" href="/accounts/signup/talent">Create Your Profile</a></li>
+	<li id="menu-item-132" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll" href="/talent/faq/">Talent FAQ</a></li>
+</ul>
+</li>
+<li id="menu-item-9772" class="menu-item menu-item-type-custom menu-item-object-custom no-mega-menu"><a class="menu-item-link js-smooth-scroll" href="https://powertofly.com/jobs/">Better Jobs</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children no-mega-menu"><a class="menu-item-link js-smooth-scroll" href="/employers/">Employers</a>
+<ul style="" class="sub-menu ">
+	<li id="menu-item-8544" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll" href="/employers#platform-access">Hiring Platform</a></li>
+	<li id="menu-item-110" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll" href="/pricing/">Pricing</a></li>
+	<li id="menu-item-8073" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll" href="/employers/faq/">Employer FAQ</a></li>
+	<li id="menu-item-8483" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll" href="/accounts/signup/company">Start Hiring</a></li>
+</ul>
+</li>
+<li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children no-mega-menu"><a class="menu-item-link js-smooth-scroll" href="/about/">About</a>
+<ul style="" class="sub-menu ">
+	<li id="menu-item-8791" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll" href="/pledge/">Our Pledge</a></li>
+	<li id="menu-item-9810" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll" href="/resources/">Resources</a></li>
+	<li id="menu-item-9809" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll" href="/events/">Events</a></li>
+	<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll" href="/contact/">Contact Us</a></li>
+	<li id="menu-item-8485" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll" href="/companies/129">Careers</a></li>
+</ul>
+</li>
+<li id="menu-item-9008" class="menu-item menu-item-type-post_type menu-item-object-page has-mega-menu"><a class="menu-item-link js-smooth-scroll" href="/blog/">Blog</a></li>
+<li id="menu-item-107" class="menu-item menu-item-type-custom menu-item-object-custom no-mega-menu"><a class="menu-item-link js-smooth-scroll" href="/accounts/login">Log In</a></li>
+<li id="menu-item-108" class="menu-item menu-item-type-custom menu-item-object-custom no-mega-menu"><a class="menu-item-link js-smooth-scroll" href="/accounts/signup">Join Now</a></li>
+</ul></nav>                            </div>
+                            
+<div class="mk-nav-responsive-link">
+    <div class="mk-css-icon-menu">
+        <div class="mk-css-icon-menu-line-1"></div>
+        <div class="mk-css-icon-menu-line-2"></div>
+        <div class="mk-css-icon-menu-line-3"></div>
+    </div>
+</div>        <div class=" header-logo fit-logo-img add-header-height logo-is-responsive logo-has-sticky">
+
+	    <a href="/" title="PowerToFly">
+	    
+			             <img class="mk-desktop-logo dark-logo" title="" alt="" src="https://dev-assets.powertofly.com/assets/qa/4e65265742/static/dist/logo.svg">
+			    
+			    			             <img class="mk-desktop-logo light-logo" title="" alt="" src="https://dev-assets.powertofly.com/assets/qa/4e65265742/static/dist/logo-white.svg">
+			    			    
+			    			             <img class="mk-resposnive-logo" title="" alt="" src="https://dev-assets.powertofly.com/assets/qa/4e65265742/static/dist/logo.svg">
+			    			    
+			    			             <img class="mk-sticky-logo" title="" alt="" src="https://dev-assets.powertofly.com/assets/qa/4e65265742/static/dist/logo.svg">
+			    	    </a>
+    </div>
+
+                                            </div>
+                    
+                    <div class="mk-header-right">
+                                            </div>
+
+                </div>
+                
+<div class="mk-responsive-wrap">
+
+	<nav class="menu-main-container"><ul id="menu-main-1" class="mk-responsive-nav"><li id="menu-item-8407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children"><a class="menu-item-link js-smooth-scroll" href="/">Talent</a><span class="mk-nav-arrow mk-nav-sub-closed"><svg class="mk-svg-icon" data-name="mk-moon-arrow-down" data-cacheid="icon-58fd2a139e55a" style=" height:16px; width: 16px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 192l-96-96-160 160-160-160-96 96 256 255.999z"></path></svg></span>
+<ul class="sub-menu ">
+	<li id="menu-item-8729" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll" href="https://www.powertofly.com#whyjoin">Why Join Us</a></li>
+	<li id="menu-item-9412" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll" href="/power-promoters/">PowerPromoters</a></li>
+	<li id="menu-item-133" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll" href="/accounts/signup/talent">Create Your Profile</a></li>
+	<li id="menu-item-132" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll" href="/talent/faq/">Talent FAQ</a></li>
+</ul>
+</li>
+<li id="menu-item-9772" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll" href="https://powertofly.com/jobs/">Better Jobs</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a class="menu-item-link js-smooth-scroll" href="/employers/">Employers</a><span class="mk-nav-arrow mk-nav-sub-closed"><svg class="mk-svg-icon" data-name="mk-moon-arrow-down" data-cacheid="icon-58fd2a139ee0f" style=" height:16px; width: 16px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 192l-96-96-160 160-160-160-96 96 256 255.999z"></path></svg></span>
+<ul class="sub-menu ">
+	<li id="menu-item-8544" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll" href="/employers#platform-access">Hiring Platform</a></li>
+	<li id="menu-item-110" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll" href="/pricing/">Pricing</a></li>
+	<li id="menu-item-8073" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll" href="/employers/faq/">Employer FAQ</a></li>
+	<li id="menu-item-8483" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll" href="/accounts/signup/company">Start Hiring</a></li>
+</ul>
+</li>
+<li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a class="menu-item-link js-smooth-scroll" href="/about/">About</a><span class="mk-nav-arrow mk-nav-sub-closed"><svg class="mk-svg-icon" data-name="mk-moon-arrow-down" data-cacheid="icon-58fd2a139f5d8" style=" height:16px; width: 16px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 192l-96-96-160 160-160-160-96 96 256 255.999z"></path></svg></span>
+<ul class="sub-menu ">
+	<li id="menu-item-8791" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll" href="/pledge/">Our Pledge</a></li>
+	<li id="menu-item-9810" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll" href="/resources/">Resources</a></li>
+	<li id="menu-item-9809" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll" href="/events/">Events</a></li>
+	<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll" href="/contact/">Contact Us</a></li>
+	<li id="menu-item-8485" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll" href="/companies/129">Careers</a></li>
+</ul>
+</li>
+<li id="menu-item-9008" class="menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-item-link js-smooth-scroll" href="/blog/">Blog</a></li>
+<li id="menu-item-107" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll" href="/accounts/login">Log In</a></li>
+<li id="menu-item-108" class="menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-item-link js-smooth-scroll" href="/accounts/signup">Join Now</a></li>
+</ul></nav>
+		
+
+</div>
         
-            localStorage.removeItem("userSettings");
+            </div>
         
-    </script> <script src="https://assets.powertofly.com/assets/65b17a8508/static/dist/scripts/jquery.js"></script> <script src="https://assets.powertofly.com/assets/65b17a8508/static/dist/scripts/site.js"></script>  </body></html>
+        <div class="mk-header-padding-wrapper"></div>
+        <section id="mk-page-introduce" class="intro-center"><div class="mk-grid"><h1 class="page-title ">Privacy Policy</h1><div class="page-subtitle">Last updated March 2017</div><div class="clearboth"></div></div></section>        
+    </header>
+        
+        <div id="theme-page" class="master-holder  clearfix" itemscope="itemscope" itemtype="https://schema.org/Blog">
+            
+            <div class="master-holder-bg-holder">
+                <div id="theme-page-bg" class="master-holder-bg js-el"></div>
+            </div>
+
+            <div class="mk-main-wrapper-holder">
+
+                <div id="mk-page-id-24" class="theme-page-wrapper mk-main-wrapper mk-grid full-layout  ">
+                      <div class="theme-content " itemprop="mainEntityOfPage">
+                            
+<div class="wpb_row vc_row vc_row-fluid  mk-fullwidth-false  attched-false     js-master-row ">
+		
+			
+<div style="" class="vc_col-sm-12 vc_col-lg-offset-2 vc_col-lg-8 wpb_column column_container  _ height-full">
+	
+<div id="text-block-2" class="mk-text-block   ">
+
+	
+	<p>PowerToFly Inc. (“PowerToFly”, “we,” “us” or “our”) values your privacy. This Privacy Policy (“Privacy Policy”) describes the types of personal information we obtain through our website at www.powertofly.com (the “Site”), how we use the personal information we obtain and with whom we may share it.</p>
+<p class="highlight"><strong>1. COLLECTION OF PERSONAL INFORMATION</strong></p>
+<p>Depending on what areas of the Site you use, we obtain different types of personal information from or about you. Our Site is available to talent looking for jobs (each a “Candidate”) and to prospective employers (each an “Employer”). We primarily obtain personal information about Candidates. In addition, we obtain certain personal information about Employers’ representatives who use the Site to find or hire Candidates. Please keep in mind that you may not be able to access some areas of the Site or effectively use the services we offer in connection with this Site without providing your personal information.</p>
+<p style="padding-left: 30px;">1.1 <strong>Basic Account Information.</strong> When you register for the Site as a Candidate or Employer, we will ask you to provide your name and email address or to sign up using an existing social media account.</p>
+<p style="padding-left: 30px;">1.2 <strong>Candidates Profile Information.</strong> If you are registering as a Candidate, we ask for information such as your phone number, Skype ID, photo, work history, educational background, location, biographical information and skills. We may ask you to voluntarily provide additional information about you, such as your race, gender and sexual orientation.</p>
+<p style="padding-left: 30px;">1.3 <strong>Employers.</strong> If you are registering as an Employer, we ask for an Employer’s representative phone number and job title in addition to the company name and size.</p>
+<p style="padding-left: 30px;">1.4 <strong>Contact Us.</strong> If you choose to contact us through our Site, including through our chat box, we may obtain your name, company name, phone number, email address and any other information you choose to submit to us.</p>
+<p style="padding-left: 30px;">1.5 <strong>Payment Information.</strong> We may obtain payment information from Candidates and Employers in connection with the services we provide through the Site. To process credit card payments, we obtain credit card information, including the card number, expiration date, authorization number or security code and billing information. We use a third party, Stripe, to process payments made through payment cards on the Site. Stripe’s use of your personal information is governed by their privacy policy, which is available at <a href="https://stripe.com/us/privacy">https://stripe.com/us/privacy</a>. We also may obtain your bank account number and routing number in order to make payments to your account.</p>
+<p style="padding-left: 30px;">1.6 <strong>Cookies and Other Automated Means.</strong> When you visit or use the Site, we and our service providers may automatically collect certain technical information from your browser or mobile device, including through cookies, log files and other technologies. A cookie is a small amount of data (often including a unique identifier), that is sent to your browser from a website’s computers and stored on your computer’s hard drive or mobile device. We may use cookies to improve your experience with the Site, by, for example, allowing the Site to keep you logged in. We may also use cookies to collect aggregate information about Site users. The information collected for these purposes (including your IP address, browser or device information and other information collected by automated means) may be disclosed to or collected directly by our third-party web analytics service providers, such as Google Analytics and Mixpanel. To learn more about opting out of these activities, click here: <a href="http://tools.google.com/dlpage/gaoptout">http://tools.google.com/dlpage/gaoptout</a> and here <a href="https://mixpanel.com/optout">https://mixpanel.com/optout</a>. If you don’t want cookies, most web browsers include an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of our Site may not function efficiently. We do not currently respond to web browser “do not track” signals on this Site.</p>
+<p style="padding-left: 30px;">1.7 <strong>Other Information.</strong> In addition, we may receive information about you from publicly or commercially available sources, which we may combine with other information we have about you.</p>
+<p class="highlight"><strong>2. USE OF PERSONAL INFORMATION</strong></p>
+<p>We may use the personal information we obtain for a number of purposes, including, but not limited to:</p>
+<ul>
+<li>provide you with the requested services, including creating and managing your PowerToFly Site account and connecting you with a potential Employer</li>
+<li>send you transactional communications (such as account confirmations and notifications) or promotional and marketing communications</li>
+<li>respond to your inquiries or requests</li>
+<li>communicate about, and administer your participation in, special events, programs, surveys, contests, sweepstakes, and other offers or promotions</li>
+<li>billing purposes</li>
+<li>enable you to post on our blog and interact with PowerToFly through social media</li>
+<li>improve our Site and services, and generate and analyze statistics about your use of the Site and our services</li>
+<li>support our business operations and perform accounting, auditing and other internal functions</li>
+<li>detect, prevent and respond to fraud, intellectual property infringement, violations of law or our terms of use and policies, or other misuse of the Site or our services, and</li>
+<li>comply with and enforce applicable legal requirements, contractual obligations and our policies.</li>
+</ul>
+<p>We also may aggregate the personal information we collect through the Site and in connection with our services (the “Aggregated Data”) and use it for any and all purposes. We also may augment such Aggregated Data with data we obtain from other sources and use it for any purposes.</p>
+<p><em>Interest-Based Advertising</em></p>
+<p>On our Site, we and third parties may collect information about your online activities to provide you with advertising about services or products tailored to your interests. You may see certain ads on other websites because we or such third parties participate in advertising networks. Ad networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs and web beacons. The information ad networks may collect includes information about your visits to websites that participate in the relevant advertising networks, such as the pages or advertisements you view and the actions you take on the websites. This data collection takes place both on our Site and on third-party websites or apps that participate in the ad networks. This process allows us and third parties to deliver more tailored advertising. &nbsp;In addition, it helps us track the effectiveness of our marketing efforts. To learn how to opt out of this ad network interest-based advertising, click <a href="http://www.aboutads.info/choices/">here</a>.</p>
+<p><strong>3. SHARING OF PERSONAL INFORMATION&nbsp;</strong></p>
+<p>We may share the personal information we obtain from you:</p>
+<ul>
+<li>if you are a Candidate, with Employers who may have job opportunities available or interest in placing job candidates</li>
+<li>to service providers who work on our behalf, including our cloud storage provider, payment processor or chat software provider</li>
+<li>as required by law, such as to comply with a subpoena or other legal process, or to comply with government reporting obligations</li>
+<li>when we believe in good faith that disclosure is necessary (a) to protect our rights, the integrity of the Site or our services, or your safety or the safety of others, or (b) to detect, prevent, or respond to fraud, intellectual property infringement, violations of law or our terms of use and policies, or other misuse of the Site or our services, and</li>
+<li>to the extent reasonably necessary to proceed with the negotiation or completion of a merger, acquisition, or sale of all or a portion of our assets (including in the event of a reorganization, dissolution or liquidation).</li>
+</ul>
+<p>In addition, we may share Aggregated Data with third parties for any and all purposes.</p>
+<p class="highlight"><strong>4. SOCIAL MEDIA </strong></p>
+<p>The Site includes social media functions, such as Facebook and LinkedIn Sign In features, and widgets. These functions and widgets may collect information about you, including the IP address of the device you use to connect to the Internet. Your interactions with the social media platforms, including any functions and widgets they provide, are governed by the privacy policies of the relevant social media companies. We suggest that you review their privacy policies. You acknowledge and agree that we are not responsible for any acts or omissions by any social media site or other third-party service that you choose to use in connection with this Site or our services.</p>
+<p class="highlight"><strong>5. LINKS TO OTHER WEBSITES, APPS OR SERVICES</strong></p>
+<p>This Site may contain links to other websites, apps or other online services for your convenience and information. These websites, apps and services may be operated by companies not affiliated with PowerToFly. Linked websites, apps or services may have their own privacy policies or notices, which we strongly suggest you review. We are not responsible for the content and data handling practices of any third party websites, apps or services.</p>
+<p class="highlight"><strong>6. YOUR CHOICES</strong></p>
+<p>You can change your profile information at any time by editing your profile or the content that you have posted. You can have your account deleted by sending a request via email to <a href="mailto:hi@powertofly.com">hi@powertofly.com</a>.</p>
+<p class="highlight"><strong>7. SECURITY OF YOUR PERSONAL INFORMATION</strong></p>
+<p>We maintain appropriate administrative, technical, and physical safeguards designed to protect the personal information collected through this Site. But, no method of data transmission over the Internet or data storage is 100% secure and therefore, we cannot guarantee the absolute security of any information transmitted to or from the Site.</p>
+<p class="highlight"><strong>8.&nbsp;NON-U.S. VISITORS AND USERS</strong></p>
+<p>If you are located outside of the United States, please note that the personal information we collect in connection with your use of the Site and our services will be transferred to and stored within the United States. By using this Site and our services, you consent to this transfer and the use, sharing and other processing of your personal information by PowerToFly and our service providers as described in this Privacy Policy.</p>
+<p class="highlight"><strong>9. AGE RESTRICTIONS</strong></p>
+<p class="highlight">The Site is not intended for individuals under the age of 13. We do not knowingly collect personal information from individuals under 13, and no part of the Site is designed to attract anyone under the age of 13. If you become aware that your child has provided us with personal information, please contact us as indicated below.</p>
+<p class="highlight"><strong>10.&nbsp;CHANGES TO OUR PRIVACY POLICY</strong></p>
+<p class="highlight">We may revise our Privacy Policy from time to time. The most current version of the Privacy Policy will govern our use of your personal information and will be located on this webpage. If we make a change to our Privacy Policy that is material, we will notify you by posting a prominent notice on this Site. We also may notify you by email of such significant changes. By continuing to access the Site and use our services after those changes become effective, you agree to be bound by the revised Privacy Policy.</p>
+<p class="highlight"><strong>11.&nbsp;CONTACT US</strong></p>
+<p>If you have any questions about this Privacy Policy or any of our data handling practices, please contact us directly at <a href="mailto:hi@powertofly.com">hi@powertofly.com</a>.</p>
+
+	<div class="clearboth"></div>
+</div>
+</div>
+	</div>
+
+
+		<div class="clearboth"></div>
+		                      
+                      <div class="clearboth"></div>
+                                            </div>
+                                <div class="clearboth"></div>
+                
+                </div>
+            </div>
+
+
+                
+        </div>          
+
+<section id="mk-footer-unfold-spacer"></section>
+
+<section id="mk-footer" class="" role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter">
+        <div class="footer-wrapper mk-grid">
+        <div class="mk-padding-wrapper">
+            	<div class="mk-col-2-3">
+	    <div class="mk-col-1-3"><section id="nav_menu-3" class="widget widget_nav_menu"><div class="widgettitle">For Talent</div>
+<div class="menu-footer-talent-container"><ul id="menu-footer-talent" class="menu">
+<li id="menu-item-8728" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8728"><a href="https://www.powertofly.com#whyjoin"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-58fd2a13a69ef" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Why Join Us</a></li>
+<li id="menu-item-9413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9413"><a href="/power-promoters/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-58fd2a13a69ef" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>PowerPromoters</a></li>
+<li id="menu-item-8068" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8068"><a href="/accounts/signup/talent"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-58fd2a13a69ef" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Create Your Profile</a></li>
+<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="/talent/faq/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-58fd2a13a69ef" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Talent FAQ</a></li>
+<li id="menu-item-9773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9773"><a href="https://powertofly.com/jobs/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-58fd2a13a69ef" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Better Jobs</a></li>
+</ul></div></section></div>
+	    <div class="mk-col-1-3"><section id="nav_menu-4" class="widget widget_nav_menu"><div class="widgettitle">For Employers</div>
+<div class="menu-footer-employers-container"><ul id="menu-footer-employers" class="menu">
+<li id="menu-item-8481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8481"><a href="/employers/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-58fd2a13a8f7a" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Hiring Platform</a></li>
+<li id="menu-item-139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139"><a href="/pricing/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-58fd2a13a8f7a" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Pricing</a></li>
+<li id="menu-item-138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138"><a href="/employers/faq/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-58fd2a13a8f7a" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Employer FAQ</a></li>
+<li id="menu-item-8070" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8070"><a href="/accounts/signup/company"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-58fd2a13a8f7a" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Start Hiring</a></li>
+</ul></div></section></div>
+	    <div class="mk-col-1-3"><section id="nav_menu-2" class="widget widget_nav_menu"><div class="widgettitle">PowerToFly</div>
+<div class="menu-footer-powertofly-container"><ul id="menu-footer-powertofly" class="menu">
+<li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="/about/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-58fd2a13abd03" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>About Us</a></li>
+<li id="menu-item-8790" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8790"><a href="/pledge/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-58fd2a13abd03" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Our Pledge</a></li>
+<li id="menu-item-9807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9807"><a href="/resources/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-58fd2a13abd03" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Resources</a></li>
+<li id="menu-item-9808" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9808"><a href="/events/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-58fd2a13abd03" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Events</a></li>
+<li id="menu-item-134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="/contact/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-58fd2a13abd03" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Contact Us</a></li>
+<li id="menu-item-136" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-136"><a href="https://www.powertofly.com/blog/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-58fd2a13abd03" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Blog</a></li>
+</ul></div></section></div>
+	</div>
+	<div class="mk-col-1-3"><section id="social-2" class="widget widget_social_networks"><div id="social-58fd2a13ac25a" class="align-left"><a href="http://facebook.com/powertofly" rel="nofollow" class="builtin-icons mk-square-pointed light medium facebook-hover" target="_blank" alt="Follow Us on facebook" title="Follow Us on facebook"><svg class="mk-svg-icon" data-name="mk-jupiter-icon-simple-facebook" data-cacheid="icon-58fd2a13acba8" style=" height:12px; width: 12px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M192.191 92.743v60.485h-63.638v96.181h63.637v256.135h97.069v-256.135h84.168s6.674-51.322 9.885-96.508h-93.666v-42.921c0-8.807 11.565-20.661 23.01-20.661h71.791v-95.719h-83.57c-111.317 0-108.686 86.262-108.686 99.142z"></path></svg></a><a href="https://www.linkedin.com/company/powertofly" rel="nofollow" class="builtin-icons mk-square-pointed light medium linkedin-hover" target="_blank" alt="Follow Us on linkedin" title="Follow Us on linkedin"><svg class="mk-svg-icon" data-name="mk-jupiter-icon-simple-linkedin" data-cacheid="icon-58fd2a13ad005" style=" height:12px; width: 12px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M80.111 25.6c-29.028 0-48.023 20.547-48.023 47.545 0 26.424 18.459 47.584 46.893 47.584h.573c29.601 0 47.999-21.16 47.999-47.584-.543-26.998-18.398-47.545-47.442-47.545zm-48.111 128h96v320.99h-96v-320.99zm323.631-7.822c-58.274 0-84.318 32.947-98.883 55.996v1.094h-.726c.211-.357.485-.713.726-1.094v-48.031h-96.748c1.477 31.819 0 320.847 0 320.847h96.748v-171.241c0-10.129.742-20.207 3.633-27.468 7.928-20.224 25.965-41.185 56.305-41.185 39.705 0 67.576 31.057 67.576 76.611v163.283h97.717v-176.313c0-104.053-54.123-152.499-126.347-152.499z"></path></svg></a><a href="http://instagram.com/powertofly" rel="nofollow" class="builtin-icons mk-square-pointed light medium instagram-hover" target="_blank" alt="Follow Us on instagram" title="Follow Us on instagram"><svg class="mk-svg-icon" data-name="mk-jupiter-icon-simple-instagram" data-cacheid="icon-58fd2a13ad591" style=" height:12px; width: 12px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M452.8-6.4h-393.6c-33.6 0-59.2 25.6-59.2 59.2v393.6c0 32 40 59.2 59.2 59.2h393.6c32 0 59.2-27.2 59.2-59.2v-393.6c-1.6-33.6-27.2-59.2-59.2-59.2zm-100.8 83.2c0-11.2 8-19.2 19.2-19.2h57.6c11.2 0 19.2 8 19.2 19.2v57.6c0 11.2-8 19.2-19.2 19.2h-57.6c-11.2 0-19.2-8-19.2-19.2v-57.6zm-192 172.8c0-52.8 43.2-96 96-96s96 43.2 96 96-43.2 96-96 96-96-43.2-96-96zm289.6 172.8c0 11.2-9.6 19.2-19.2 19.2h-347.2c-11.2 0-19.2-8-19.2-19.2v-212.8h36.8c-3.2 12.8-4.8 25.6-4.8 40 0 88 72 160 160 160s160-72 160-160c0-14.4-1.6-27.2-4.8-40h38.4v212.8z"></path></svg></a><a href="http://pinterest.com/powertofly" rel="nofollow" class="builtin-icons mk-square-pointed light medium pinterest-hover" target="_blank" alt="Follow Us on pinterest" title="Follow Us on pinterest"><svg class="mk-svg-icon" data-name="mk-jupiter-icon-simple-pinterest" data-cacheid="icon-58fd2a13ad9df" style=" height:12px; width: 12px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M267.702-6.4c-135.514 0-203.839 100.197-203.839 183.724 0 50.583 18.579 95.597 58.402 112.372 6.536 2.749 12.381.091 14.279-7.361 1.325-5.164 4.431-18.204 5.83-23.624 1.913-7.363 1.162-9.944-4.107-16.38-11.483-13.968-18.829-32.064-18.829-57.659 0-74.344 53.927-140.883 140.431-140.883 76.583 0 118.657 48.276 118.657 112.707 0 84.802-36.392 156.383-90.42 156.383-29.827 0-52.161-25.445-45.006-56.672 8.569-37.255 25.175-77.456 25.175-104.356 0-24.062-12.529-44.147-38.469-44.147-30.504 0-55 32.548-55 76.119 0 27.782 9.097 46.546 9.097 46.546s-31.209 136.374-36.686 160.269c-10.894 47.563-1.635 105.874-.853 111.765.456 3.476 4.814 4.327 6.786 1.67 2.813-3.781 39.131-50.022 51.483-96.234 3.489-13.087 20.066-80.841 20.066-80.841 9.906 19.492 38.866 36.663 69.664 36.663 91.686 0 153.886-86.2 153.886-201.577 0-87.232-71.651-168.483-180.547-168.483z"></path></svg></a><a href="http://twitter.com/powertofly" rel="nofollow" class="builtin-icons mk-square-pointed light medium twitter-hover" target="_blank" alt="Follow Us on twitter" title="Follow Us on twitter"><svg class="mk-svg-icon" data-name="mk-jupiter-icon-simple-twitter" data-cacheid="icon-58fd2a13ade11" style=" height:12px; width: 12px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M454.058 213.822c28.724-2.382 48.193-15.423 55.683-33.132-10.365 6.373-42.524 13.301-60.269 6.681-.877-4.162-1.835-8.132-2.792-11.706-13.527-49.679-59.846-89.698-108.382-84.865 3.916-1.589 7.914-3.053 11.885-4.388 5.325-1.923 36.678-7.003 31.749-18.079-4.176-9.728-42.471 7.352-49.672 9.597 9.501-3.581 25.26-9.735 26.93-20.667-14.569 1.991-28.901 8.885-39.937 18.908 3.998-4.293 7.01-9.536 7.666-15.171-38.91 24.85-61.624 74.932-80.025 123.523-14.438-13.972-27.239-25.008-38.712-31.114-32.209-17.285-70.722-35.303-131.156-57.736-1.862 19.996 9.899 46.591 43.723 64.273-7.325-.986-20.736 1.219-31.462 3.773 4.382 22.912 18.627 41.805 57.251 50.918-17.642 1.163-26.767 5.182-35.036 13.841 8.043 15.923 27.656 34.709 62.931 30.82-39.225 16.935-15.998 48.234 15.93 43.565-54.444 56.244-140.294 52.123-189.596 5.08 128.712 175.385 408.493 103.724 450.21-65.225 31.23.261 49.605-10.823 60.994-23.05-17.99 3.053-44.072-.095-57.914-5.846z"></path></svg></a></div></section><section id="nav_menu-5" class="widget widget_nav_menu"><div class="menu-footer-sub-container"><ul id="menu-footer-sub" class="menu">
+<li id="menu-item-8067" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8067"><a href="/accounts/login"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-58fd2a13afeec" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Log In</a></li>
+<li id="menu-item-8222" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-24 current_page_item menu-item-8222"><a href="/privacy/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-58fd2a13afeec" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Privacy Policy</a></li>
+<li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="/terms/"><svg class="mk-svg-icon" data-name="mk-icon-angle-right" data-cacheid="icon-58fd2a13afeec" style=" height:14px; width: 5px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1792"><path d="M595 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z"></path></svg>Terms of Service</a></li>
+</ul></div></section><section id="text-2" class="widget widget_text">			<div class="textwidget"><span style="font-size: 13px;opacity:0.8; padding: 5px 0">© 2017 PowerToFly</span></div>
+		</section></div>
+	            <div class="clearboth"></div>
+        </div>
+    </div>
+        </section>
+</div>
+</div>
+
+<div class="bottom-corner-btns js-bottom-corner-btns">
+</div>
+
+
+
+
+<footer id="mk_page_footer">
+    <style type="text/css">#text-block-2 {     margin-bottom:0px;     text-align:left;}</style><script type="text/javascript">
+jQuery("a[title=PowerToFly]").attr("href","/");
+jQuery("link[rel=canonical]").attr("href", window.location.origin + window.location.pathname);
+var url = jQuery("link[rel=canonical]").attr("href");
+jQuery('<meta property="og:url" content="' + url + '">').insertAfter(jQuery('meta[property="og:title"]'));
+
+piAId = '224862';
+piCId = '1394';
+(function() {
+	function async_load(){
+		var s = document.createElement('script'); s.type = 'text/javascript';
+		s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+		var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+	}
+	if(window.attachEvent) { window.attachEvent('onload', async_load); }
+	else { window.addEventListener('load', async_load, false); }
+})(); </script>
+<div class="nav nav-side bottom-corner-btns js-bottom-corner-btns">
+<a href="#top-of-page" class="back-top nav-side-btn mk-go-top  js-smooth-scroll js-bottom-corner-btn js-bottom-corner-btn--back"><span class="sr-only">Back to top</span></a> </div><script type="text/javascript">
+    php = {
+        hasAdminbar: false,
+        json: (null != null) ? null : "",
+        jsPath: 'https://assets.powertofly.com/cms/wp-content/themes/jupiter/assets/js'
+      };
+    </script><script type="text/javascript" src="https://assets.powertofly.com/cms/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://assets.powertofly.com/cms/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ctcc_vars = {"expiry":"30","method":"1","version":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://assets.powertofly.com/cms/wp-content/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.js?ver=2.3.0"></script>
+<script type="text/javascript" src="https://assets.powertofly.com/cms/wp-content/themes/jupiter/assets/js/plugins/wp-enqueue/smoothscroll.js?ver=1.0"></script>
+<script type="text/javascript" src="https://assets.powertofly.com/cms/wp-includes/js/comment-reply.min.js?ver=4.7.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ajax_login_object = {"ajaxurl":"\/wp-admin\/admin-ajax.php","redirecturl":"https:\/\/prod-cms.powertofly.com:443\/privacy\/","loadingmessage":"Sending user info, please wait..."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://assets.powertofly.com/cms/wp-content/themes/jupiter/assets/js/core-scripts.js?ver=1.0"></script>
+<script type="text/javascript" src="https://assets.powertofly.com/cms/wp-includes/js/wp-embed.min.js?ver=4.7.4"></script>
+<script type="text/javascript" src="https://assets.powertofly.com/cms/wp-content/plugins/js_composer_theme/assets/js/dist/js_composer_front.min.js?ver=5.0.1"></script>
+<script type="text/javascript" src="https://assets.powertofly.com/cms/wp-content/uploads/mk_assets/components-production.min.js?ver=1492983369"></script>
+		<script type="text/javascript">
+				</script>
+	<script type="text/javascript">	window.get = {};	window.get.captcha = function(enteredCaptcha) {
+                  return jQuery.get(ajaxurl, { action : "mk_validate_captcha_input", captcha: enteredCaptcha });
+              	};</script>			
+				<script type="text/javascript">
+					jQuery(document).ready(function($){
+												if(!catapultReadCookie("catAccCookies")){ // If the cookie has not been set then show the bar
+							$("html").addClass("has-cookie-bar");
+							$("html").addClass("cookie-bar-bottom-bar");
+							$("html").addClass("cookie-bar-bar");
+													}
+																			ctccFirstPage();
+											});
+				</script>
+			
+			<div id="catapult-cookie-bar" class=""><div class="ctcc-inner "><span class="ctcc-left-side">This site uses cookies:  <a class="ctcc-more-info-link" tabindex="0" target="_blank" href="/cookie-policy/">Find out more.</a></span><span class="ctcc-right-side"><button id="catapultCookie" tabindex="0" onclick="catapultAcceptCookies();">Got it, thanks</button></span></div><!-- custom wrapper class --></div><!-- #catapult-cookie-bar -->    <script>
+        // Run this very early after DOM is ready
+        (function ($) {
+            // Prevent browser native behaviour of jumping to anchor
+            // while preserving support for current links (shared across net or internally on page)
+            var loc = window.location,
+                hash = loc.hash;
+
+            // Detect hashlink and change it's name with !loading appendix
+            if(hash.length && hash.substring(1).length) {
+                var $topLevelSections = $('.vc_row, .mk-main-wrapper-holder, .mk-page-section, #comments');
+                var $section = $topLevelSections.filter( '#' + hash.substring(1) );
+                // We smooth scroll only to page section and rows where we define our anchors.
+                // This should prevent conflict with third party plugins relying on hash
+                if( ! $section.length )  return;
+                // Mutate hash for some good reason - crazy jumps of browser. We want really smooth scroll on load
+                // Discard loading state if it already exists in url (multiple refresh)
+                hash = hash.replace( '!loading', '' );
+                var newUrl = hash + '!loading';
+                loc.hash = newUrl;
+            }
+        }(jQuery));
+    </script>
+    
+
+    
+</footer>  
+
+</body></html>
