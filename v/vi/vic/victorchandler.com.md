@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the victorchandler.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128041309id_/http%3A//www.betvictor.com/sports/en/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victorchandler.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423084244id_/https%3A//www.betvictor.com/en/sports/content/privacy-policy) for the most accurate reproduction.*
 
 # Sports - Privacy Policy - BetVictor
 
