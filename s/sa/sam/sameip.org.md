@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sameip.org privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319132609id_/http%3A//www.sameip.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sameip.org privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423195735id_/http%3A//www.sameip.org/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SameIP.org
 
