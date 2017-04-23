@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telugushaadi.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317105846id_/http%3A//www.telugushaadi.com/shaadi-info/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telugushaadi.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423181936id_/https%3A//www.telugushaadi.com/shaadi-info/index/privacy) for the most accurate reproduction.*
 
 # Shaadi.com Privacy Policy Indian matrimonial web site - free listing matrimonials - TeluguShaadi.com
 
