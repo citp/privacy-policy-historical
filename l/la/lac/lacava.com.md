@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lacava.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207092349id_/http%3A//www.lacava.com/Privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacava.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423080509id_/http%3A//www.lacava.com/Privacy_statement.htm) for the most accurate reproduction.*
 
 # Lacava | PRIVACY STATEMENT
 
