@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the betvictor.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121032059id_/http%3A//www.betvictor.com/sports/en/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betvictor.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423084244id_/https%3A//www.betvictor.com/en/sports/content/privacy-policy) for the most accurate reproduction.*
 
-# Sports - Privacy Policy - - BetVictor
+# Sports - Privacy Policy - BetVictor
+
+## Privacy Policy
 
 This site is powered by BetVictor. At BetVictor we take the security of your data very seriously. The following policy outlines our obligation and commitment to you based on the Gibraltar Data Protection Act 2004 and the principles held within that Act. It will also inform you of the type of processing that is carried out with your personal data once it has been collected. By using the site you acknowledge and accept both the terms and conditions of this privacy policy and the purposes and methods of processing for which your data is collected.
 
@@ -20,7 +22,7 @@ Where contact with our offices is made by telephone, we record all conversations
 
 **Opting in and out of Promotional Communications**
 
-Upon opening your account you will be given the option to Opt-in to any promotional communications. If at anytime you wish to change this request you can do so by emailing [help@betvictor.com](mailto:help@betvictor.com) calling +350 2000 6700, putting your request in writing to BetVictor, Leanse Place, 50 Town Range, Gibraltar or by simply going to 'My Account' then 'Settings' and tick or untick the relevant boxes. Please note, when opting out, whilst every endeavour will be made to ensure you do not receive any further communication, please allow 28 days for this request to be processed.
+Upon opening your account you will be given the option to Opt-in to any promotional communications. If at anytime you wish to change this request you can do so by emailing [help@betvictor.com](mailto:help@betvictor.com), putting your request in writing to BetVictor, Leanse Place, 50 Town Range, Gibraltar or by simply going to 'My Account' then 'Settings' and tick or untick the relevant boxes. Please note, when opting out, whilst every endeavour will be made to ensure you do not receive any further communication, please allow 28 days for this request to be processed.
 
 **Changing your personal details**
 
@@ -32,7 +34,7 @@ It may in certain circumstances be illegal to transfer any personal data outside
 
 **Disclosure to third parties**
 
-From time to time we disclose data to third parties for the purposes of direct mailing, emailing, database management and card processing and security checking or investigation on our behalf or for compliance with lawful requests. Where this is purely for statistical use/analysis this disclosure does not include personal data. Other information is disclosed only to the extent required to enable the necessary functions to be undertaken. We remain responsible for the actions of third parties to whom we disclose data.
+From time to time we disclose data to third parties(these include but are not limited to our Licensing Bodies, Sporting Integrity Bodies, Security Verification Companies and Marketing Companies)for the purposes of direct mailing, emailing, database management and card processing and security checking or investigation on our behalf or for compliance with lawful requests. Where this is purely for statistical use/analysis this disclosure does not include personal data. Other information is disclosed only to the extent required to enable the necessary functions to be undertaken. We remain responsible for the actions of third parties to whom we disclose data. For a full list of third parties we may disclose your information to please contact [help@betvictor.com](mailto:help@betvictor.com).
 
 To ensure that your credit, debit or charge card is not being used without your consent, we will validate name, address and other personal information supplied by you against appropriate third party databases. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information.  This is done to confirm your identity, a credit check is not performed and your credit rating will be unaffected
 
