@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japancentre.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119154132id_/https%3A//www.japancentre.com/en/privacies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japancentre.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423134927id_/https%3A//www.japancentre.com/en/privacies) for the most accurate reproduction.*
 
 # Japan Centre - Japanese Food Hall since 1976
 
@@ -18,6 +18,8 @@ All areas of the japancentre.com website where you enter personal data are encry
 ### Information collected
 
 We collect the information you supply to us through our registration forms, and every time you e-mail us.
+
+This information is never sold to any third parties; however, we do share some information with email marketing and review sites in order to better our site, as well as to notify customers of promotions or offers. 
 
 We also collect information automatically about your visit to our site. The information obtained in this way, which includes browsing patterns, is only used in aggregate form, and as such cannot be used to identify you.
 
