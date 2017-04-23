@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 100daysofrealfood.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120171915id_/http%3A//www.100daysofrealfood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100daysofrealfood.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423111031id_/https%3A//www.100daysofrealfood.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 100 Days of Real Food
 
@@ -8,7 +8,7 @@ __Date of Last Revision: December, 2014.__
 
 By using or accessing our Web Site, you are accepting the practices described in this Privacy Policy.
 
-If you have questions or concerns regarding this Privacy Policy, please contact us at policy{at}100daysofrealfood{dot}com. You are also encouraged to read our [Terms of Use](http://www.100daysofrealfood.com/terms-of-use/).
+If you have questions or concerns regarding this Privacy Policy, please contact us at policy{at}100daysofrealfood{dot}com. You are also encouraged to read our [Terms of Use](https://www.100daysofrealfood.com/terms-of-use/).
 
 ### Information We Collect
 
@@ -61,3 +61,5 @@ Users may amend or remove any personal information they have provided to 100 Day
 ### Revisions
 
 We reserve the right to change our Privacy Policy at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy’s effective date. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you.
+
+__Posts may contain affiliate links. If you purchase a product through an affiliate link, your cost will be the same but 100 Days of Real Food will automatically receive a small comission. Your support is greatly appreciated and helps us spread our message!
