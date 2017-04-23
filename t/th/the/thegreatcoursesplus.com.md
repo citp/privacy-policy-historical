@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegreatcoursesplus.com privacy policy that was archived on 2016-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160824133816id_/https%3A//www.thegreatcoursesplus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreatcoursesplus.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423030430id_/http%3A//thegreatcoursesplus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Great Courses Plus | The Great Courses Plus
 
