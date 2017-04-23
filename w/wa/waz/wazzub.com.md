@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wazzub.com privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818214043id_/https%3A//wazzub.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wazzub.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423034518id_/https%3A//wazzub.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # WAZZUB::Privacy
 
