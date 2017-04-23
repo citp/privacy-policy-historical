@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheercover.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230042608id_/http%3A//www.sheercover.com/privacy.html%3Flang%3Ddefault) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheercover.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423032938id_/http%3A//www.sheercover.com/privacy.html%3Flang%3Ddefault) for the most accurate reproduction.*
 
 # Privacy Policy | Sheer Cover Studio
 
@@ -126,7 +126,7 @@ Our Websites are operated in the United States and intended for users located in
 California Civil Code Section 1798.83 permits customers of Company who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for the third parties’ direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding twelve (12) calendar months. If you are a California resident and would like to make such a request, please submit your request in writing to:
 
 Guthy-Renker LLC  
-C/O Guthy- Renker Holdings LLC  
+C/O Guthy- Renker Ventures LLC  
 General Counsel
 
 100 N. Sepulveda Blvd, Suite 1900  
@@ -142,7 +142,7 @@ We may revise this Privacy Policy from time to time. If we decide to change our 
 If you have any questions about the Privacy Policy or practices described in it, you should contact us in the following ways:
 
 **Guthy-Renker LLC**  
-c/o Guthy-Renker Holdings  
+c/o Guthy-Renker Ventures LLC  
 General Counsel  
 100 N. Sepulveda Blvd., Suite 1900 
 
