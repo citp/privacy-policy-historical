@@ -1,11 +1,15 @@
-> *The following text is extracted and transformed from the songspksongspk.io privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219074857id_/http%3A//songspksongspk.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songspksongspk.io privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424060510id_/http%3A//songspksongspk.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SongsPk
+
+[](http://go.ad2upapp.com/afu.php?id=1101008)
 
 If you need any more questions about our privacy policy, please contact us by email.  
 At http://songspksongspk.io/, the privacy of our visitors is extreme importance to us. This privacy policy document outlines the categories of private data is received and picked up by http://songspksongspk.io/ and how it’s used.
 
  **Log Files**
+
+[](http://go.ad2upapp.com/afu.php?id=1101008)
 
 Like several alternative websites, http://songspksongspk.io/ makes use of log files. the knowledge inside the log files includes internet protocol ( ip ) addresses, style of browser, internet Service provider ( ISP ), date/time stamp, referring/exit pages, and variety of clicks to research trends, administer the site, track user’s movement around the website, and gather demographic data. ip addresses, and alternative such info aren\’t connected to any info that\’s personally identifiable.
 
@@ -28,6 +32,8 @@ and others.
 These third-party ad servers or ad networks use technology to the advertisements and links that seem on http://songspksongspk.io/ send on to your browsers. They automatically receive your ip address when this happens. alternative technologies ( like cookies, JavaScript, or internet Beacons ) may be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
 http://songspksongspk.io/ has no access to or control over these cookies that are used by third-party advertisers.
+
+[](http://go.ad2upapp.com/afu.php?id=1101008)
 
 You should consult the respective privacy policies of those third-party ad servers for a lot of detailed info on their practices as well as for directions about how to opt-out of certain practices. http://songspksongspk.io/’s privacy policy doesn\’t apply to, and that we cannot management the activities of, such alternative advertisers or websites.
 
