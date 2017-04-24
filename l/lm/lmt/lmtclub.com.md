@@ -1,13 +1,9 @@
-> *The following text is extracted and transformed from the lmtclub.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126064736id_/http%3A//www.lmtclub.com/PagePrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lmtclub.com privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424141047id_/http%3A//www.lmtclub.com/PagePrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Page - Privacy Policy
 
 **Introduction**   
 This privacy policy applies to [www.lmtclub.com](http://www.lmtclub.com/) owned and operated by Travel Holdings, Inc. This privacy policy describes how Travel Holdings, Inc. is committed to maintain security and confidentiality of the personal information gathered and used on the www.lmtclub.com website (“hereinafter the Website”). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information, 
-
-Travel Holdings, Inc. has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site: [http://www.lmtclub.com](http://www.lmtclub.com/) and does not cover information that may be collected through downloadable software. 
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
 
 lmtclub.com and its authorized technology, marketing and service providers may gather, store, and process personal information from the Website. 
 
@@ -28,7 +24,7 @@ Technologies such as: cookies, beacons, tags and scripts are used by Travel Hold
 We use cookies for [our shopping cart, to remember users’ settings (e.g. language preference), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
 **Behavioral Targeting / Re-Targeting**   
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here ](http://preferences-mgr.truste.com/) Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. 
 
 **Log Files**  
 Non-personal information may be linked to your PII and provided to authorized, third parties to improve our Website and service. These third parties may be located outside the USA. 
