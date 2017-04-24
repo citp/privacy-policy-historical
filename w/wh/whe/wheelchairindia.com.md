@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wheelchairindia.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405064843id_/https%3A//www.wheelchairindia.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheelchairindia.com privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424030700id_/http%3A//www.wheelchairindia.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy : Wheelchair india Privacy Policy : Privacy Policy of Wheelchairindia
 
