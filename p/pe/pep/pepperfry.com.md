@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pepperfry.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018003134id_/https%3A//www.pepperfry.com/privacy-policy.html%3Ftype%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepperfry.com privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424232341id_/https%3A//www.pepperfry.com/privacy-policy.html%3Ftype%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -89,6 +89,6 @@ Name:       **Ms. Sheetal Angchekar**
 
 In the event You have any complaints or concerns with respect to the website or our services, please contact our Customer Support Officer:
 
-Name:        **Ms. Megha Navarange**
+Name:        **Ms. Heena Sohandani**
 
 To register your grievance, [click here](https://www.pepperfry.com/write-to-us.html?grvs=1)
