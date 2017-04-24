@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the castpublishing.org privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029120452id_/http%3A//castpublishing.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castpublishing.org privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424161929id_/http%3A//castpublishing.org/privacy-policy) for the most accurate reproduction.*
 
-# - CAST Professional Publishing
+# Privacy Policy - CAST Professional Publishing
 
-CAST is committed to protecting your privacy when you visit www.cast.org and all other CAST sites.
+CAST is committed to protecting your privacy when you visit [www.cast.org](http://www.cast.org/) and all other CAST sites.
 
 These sites servers automatically collect nonpersonal data such as IP addresses, domain names of sites that referred you (such as search engines), and information about the pages you access. This information is used only for CAST’s internal statistical analysis, never for marketing.
 
