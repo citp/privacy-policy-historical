@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the docebo.org privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028113902id_/https%3A//www.docebo.com/docebo-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docebo.org privacy policy that was archived on 2017-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170425013554id_/https%3A//www.docebo.com/docebo-privacy-policy) for the most accurate reproduction.*
 
 # Docebo - Privacy Policy - Docebo
 
