@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidooly.com privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822210830id_/http%3A//vidooly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidooly.com privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424055642id_/https%3A//vidooly.com/privacy) for the most accurate reproduction.*
 
 # Terms & conditions | Vidooly
 
@@ -33,6 +33,13 @@
 #### How we protect your information:
 
   * We use commercially reasonable and industry standard physical, managerial and technical safeguards to preserve the integrity and security of your information. We continuously and regularly back up your data to help prevent data loss. We also guard against common web attack vectors, host data in secure data centers and implement firewalls and access restrictions on our servers to better protect your information.
+
+
+
+#### Payment Options:
+
+  * The payment is recurring by default. The option that you choose while making the payment will apply every month.
+  * You can cancel your account by clicking on the Subscription tab in the account seetings.
 
 
 
