@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iap-interactive.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109090323id_/http%3A//www.i-say.com/Footerlinks/PrivacyPolicy/tabid/282/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iap-interactive.com privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424050147id_/https%3A//www.i-say.com/Footerlinks/PrivacyPolicy/tabid/282/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
