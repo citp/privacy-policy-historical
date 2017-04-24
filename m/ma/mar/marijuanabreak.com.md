@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the marijuanabreak.com privacy policy that was archived on 2016-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160924173421id_/http%3A//www.marijuanabreak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marijuanabreak.com privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424114219id_/http%3A//www.marijuanabreak.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MarijuanaBreak.com
+# Privacy Policy | MarijuanaBreak
 
 **Welcome To MarijuanaBreak**
 
-Last updated January 2016.
+Last updated November 13, 2016.
 
 Unless otherwise defined in this Policy, terms used in this Policy have the same meanings as in our MarijuanaBreak Terms of Use, accessible within the MarijuanaBreak site. As used in this Policy, the terms “using” and “processing” information include using cookies on a computer or mobile device, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organisation within the United States, Europe or internationally. Yoad Development and Technology 2014 LTD is the corporate name for MarijuanaBreak. In this policy we refer to Yoad Development and Technology 2014 LTD as “MarijuanaBreak”, “our”, “us” or “we”. Note that this Policy may be modified from time to time in our sole discretion, so check back frequently to stay updated with the latest version of our policy.
 
 **Information We Collect**
 
-When you create an account and use our Service, we collect the following types of information from you:
+When you create an account and use any of our Services, we collect the following types of information from you:
 
   1. Name;
   2. Contact information such as your email address and phone number;
@@ -27,15 +27,15 @@ We also use cookies, Web beacons, and URL information to gather information rega
 
 Others, including third party analytics service providers and advertising partners may also collect personally identifiable information about your online activities over time and across different Web sites when you use our Services, including as described in this Privacy Policy. This Policy does not apply to and we are not responsible for those other parties. Third party analytics services may use cookies and web beacons through our Site (for example Google Analytics and Mixpanel) and platform device identifiers and software agents on and through our mobile Services (for example Flurry Analytics, AppsFlyer, and Mixpanel) to provide us with information about how you use and interact with our Site. We encourage you to review the privacy policies of these third parties to learn about your choices about information they collect from you.
 
-**Sharing Of Your Information  
-**
+When you upload photos, videos or other content to the Services, we may collect information about the content, such as the time, date and place the photo or content was taken or uploaded (also known as metadata), and how you use them, who views them or with whom you share.
+
+**Sharing Of Your Information**
 
 The MarijuanaBreak Services may allow you to connect and share your actions, comments, content, profile, and information publicly or with other people. You may control some of the categories of personal information shared via your profile from the account settings menu on the Site. Please be mindful of your own privacy needs as you choose who to connect with and what to share and make public. We cannot control the privacy or security of information you choose to make public or share with others.
 
 The Services may also provide you with the option to share certain information from your MarijuanaBreak account with social networking services like Facebook, Google, or Twitter. We are not responsible for the use or re-sharing by others of any of your information once it is made public. If you do not want your information to be made public, you should not use the MarijuanaBreak Services in this manner and/or you should adjust your privacy setting\s on the applicable social networking service accordingly. We are not responsible for and we do not control these social networking services privacy practices. Please review the applicable privacy policy for information about how they use your information.
 
-**How MarijuanaBreak Uses Your Information  
-**
+**How MarijuanaBreak Uses Your Information**
 
 MarijuanaBreak generally uses your information to:
 
@@ -74,31 +74,34 @@ We may also share aggregated and anonymised data with our partners, advertisers,
 
 We permit advertisements to be delivered to you by third party Internet advertising companies (also called ad networks or network advertisers). These companies may use cookies, Web beacons, platform device identifiers, software agents, and other technologies to collect non-personally identifiable information about your visits over time on our Service and across other websites to deliver advertisements to you targeted to your interests, measure their effectiveness and personalise advertising content, and to understand the usage and visitation of the Services and the other applications and websites tracked by these advertising companies. We do not have access to or control over cookies, Web beacons, platform device identifiers, software agents, or other technologies that they may use. We are not responsible for the privacy practices of third party advertisers. You should check the privacy policy of the third party advertiser to determine how it handles information it separately collects from you. In addition, the Network Advertising Initiative offers information about some of the Internet advertising companies we may use.
 
-We do not market to children of any age and do our utmost to make sure that the material on our site is not 
+We do not market to children of any age and do our utmost to make sure that the material on our site is not
 
 **Security**
 
 MarijuanaBreak takes commercially reasonable steps to help protect your Information against loss, misuse and unauthorised access, or disclosure. No company can fully prevent security risks, however. While we strive to protect your personal information, we cannot guarantee its absolute security. To help protect yourself and your information, choose a unique password for our Services and do not use a password on our Services that you would use on any other website or online service.
 
-**Our policy towards children’s information**
+**Our policy towards children’** **s information**
 
 This Service is not directed to anyone under the age of consent. We do not knowingly collect personally identifiable information from anyone under the age of consent. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us. If we become aware that anyone under consent has provided us with Personal Information, we will delete such information from our files.
 
 **Dispute Resolution**
 
-If you believe that MarijuanaBreak has not adhered to this Statement, please contact MarijuanaBreak by e-mail at support@MarijuanaBreak.com. We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation.
+If you believe that MarijuanaBreak has not adhered to this Statement, please contact MarijuanaBreak by e-mail at info@MarijuanaBreak.com. We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation.
 
 **Information Choices**
 
-You may opt out of receiving promotional emails from MarijuanaBreak by following the instructions in those emails or by reviewing the settings in your account. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations. You may also send requests about your personal information, including changes to your contact preferences, changes to or deletions of your information or content you post, and requests to opt-out of sharing your personal information with third parties by emailing support@MarijuanaBreak.com. Please note that deletion of your information or content does not ensure complete or comprehensive removal of the content or information posted on the Services.
+You may opt out of receiving promotional emails from MarijuanaBreak by following the instructions in those emails or by reviewing the settings in your account. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations. You may also send requests about your personal information, including changes to your contact preferences, changes to or deletions of your information or content you post, and requests to opt-out of sharing your personal information with third parties by emailing info@MarijuanaBreak.com. Please note that deletion of your information or content does not ensure complete or comprehensive removal of the content or information posted on the Services.
 
 When you visit the Site, we and others give you the following choices about use of mechanisms for tracking, including tracking of your online activities over time and across different websites and online services by third parties. Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies from our Site or from third parties. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Site. However, while we and others give you choices as described in this policy, there are many ways in which Web browser signals and other similar mechanisms can indicate your choice to disable tracking, and our Site may not be aware of or honor every mechanism.
 
-You may have the right to know what personal information MarijuanaBreak has about you and to correct any inaccuracies. Please direct any such requests by email to support@MarijuanaBreak.com or by one of the other means listed below.
+You may have the right to know what personal information MarijuanaBreak has about you and to correct any inaccuracies. Please direct any such requests by email to info@MarijuanaBreak.com or by one of the other means listed below.
 
-**MarijuanaBreak Contact Information  
-**
+**Language of the Policy**
+
+The language of this Policy is English. Where Marijuanabreak has provided a translation of the English version of this Policy, you agree that the translation is provided for your convenience only and that the English language version of this Policy will govern your relationship with Marijuanabreak. If there is any contradiction between what the English language version of this Policy says and what a translation says, then the English language version will take precedence.
+
+**MarijuanaBreak Contact Information**
 
 Please contact MarijuanaBreak with any questions or comments about this Policy, your information, our third-party disclosure practices, or your consent choices.
 
-Email: support@MarijuanaBreak.com
+Email: [info@MarijuanaBreak.com](mailto:info@MarijuanaBreak.com)
