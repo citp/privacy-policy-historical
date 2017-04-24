@@ -1,0 +1,476 @@
+<!--The following is the downloaded HTML source of the gnome-look.org privacy policy that was archived on 2017-04-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170424184742id_/https%3A//www.gnome-look.org/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAMCVFRbGwIGVlFbBAQB"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+    <title>Eyecandy for your GNOME-Desktop - gnome-look.org</title><meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta name="author" content="gnome-look.org">
+<meta name="robots" content="all">
+<meta name="robots" content="index">
+<meta name="robots" content="follow">
+<meta name="revisit-after" content="3 days">
+<meta name="title" content="Eyecandy for your GNOME-Desktop - gnome-look.org">
+<meta name="description" content="" lang="en-US">
+<meta name="keywords" content="" lang="en-US">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="alternate" type="application/rss+xml" title="Latest Products" href="/content.rdf">
+
+    <!-- Loading Bootstrap -->
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="/tools/fancybox2.1.4/jquery.fancybox.css?v=2.1.4" type="text/css" media="screen">    
+
+    <!-- custom styles -->
+    <link href="/theme/flatui/css/style.css" rel="stylesheet">
+    <link href="/theme/flatui/css/stylesheet.css?v1.3c" rel="stylesheet">
+
+    <!-- third party -->
+    <link href="/theme/flatui/css/bootstrap/colorpicker/css/bootstrap-colorpicker.min.css" rel="stylesheet">
+    <link href="/theme/flatui/css/colorbox.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="/theme/flatui/css/ui.fancytree.min.css" rel="stylesheet" type="text/css">
+    <link href="/theme/flatui/css/jquery.step.css" rel="stylesheet">
+    <link rel="stylesheet" href="/theme/flatui/css/bootstrap/bootstrap-dialog.min.css" type="text/css" media="screen">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+
+    <link rel="SHORTCUT ICON" href="/images_sys/store_gnome/gnome.ico">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+    <!--[if lt IE 9]>
+    <script src="/theme/flatui/js/lib/html5shiv.js"></script>
+    <![endif]-->
+
+    <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.15/angular.min.js"></script>
+</head>
+<body>
+    <style>
+
+        header a {
+            color:  #ffffff;
+        }
+
+        header div.container.header {
+            background-image: url('/images_sys/store_gnome/gnome-look-bg.png');
+            background-color: transparent;
+            color: black;
+            height: 90px;
+        }
+
+        header .logo-header {
+            background-image: none;
+            display: block;
+            height: 90px;
+            left: 0;
+            position: absolute;
+            top: 0;
+            width: 220px;
+            z-index: 999;
+            overflow: hidden;
+        }
+
+        header ul li:active {
+            background: #5D96C5 none repeat scroll 0 0;
+        }
+        header ul li:hover {
+            background: #5D96C5 none repeat scroll 0 0;
+        }
+
+        header ul li ul li:active {
+            background: #5D96C5 none repeat scroll 0 0;
+        }
+
+        header ul li ul li:hover {
+            background: #5D96C5 none repeat scroll 0 0;
+        }
+        header ul li:active > a {
+            color: #1d1d1d;
+        }
+        header ul li:hover > a {
+            color: #1d1d1d;
+        }
+        header ul li ul li:hover a {
+            color: #1d1d1d;
+        }
+
+        ul.menu-nav-tabs li {
+            background-color: #609dca;
+            border-color: #a3acfd;
+            border-image: none;
+            border-radius: 5px 5px 0 0;
+            border-style: solid solid none;
+            border-width: 2px 2px 0;
+            height: 24px;
+            line-height: 24px;
+            margin-right: 2px;
+        }
+    
+        
+        ul.menu-nav-tabs li.active {
+            background: #5D96C5 none repeat scroll 0 0;
+        }
+
+        .absolute-left {
+            left: 340px;
+        }
+
+        .absolute-right {
+            right: 30px;
+        }
+
+        .header_cat_link {
+              bottom: 0; position: absolute; color: blue; font-size: 18pt; left: 280px;
+        } 
+    
+        .nav-divider-pling{
+            color:#E2E2E2;
+        }
+        .nav-pills > li + li {
+                margin-left: 10px;
+            }
+            .dropdown-menu > li > a{
+                font-size: 12px;
+            }
+        .dropdown:hover .dropdown-menu {
+            margin-left: -16px;
+        }
+
+    </style>
+
+    <div class="small metamenu">   
+        <ul class="nav nav-pills meta-nav-top left"><li class="" style="background-color:#eee; -moz-border-radius: 5px; border-radius: 5px; "><a href="http://openDesktop.org"><img src="/images/system/storeLogo.png" style="width:16px; height:16px"> openDesktop.org :</a> </li><li class="dropdown"><a href="#">Applications</a><ul class="dropdown-menu"><li><a href="http://www.linux-apps.com">linux-apps.com <span style="font-size:11px; color:#065893"> - Software and Apps for Linux</span></a> </li><li><a href="http://www.linux-appimages.org">linux-appimages.org <span style="font-size:11px; color:#065893"> - Appimages for your Distro</span></a> </li><li><a href="http://www.app-addons.org">app-addons.org <span style="font-size:11px; color:#065893"> - Free Addons for your Applications</span></a> </li><li><a href="http://addons.videolan.org">addons.videolan.org <span style="font-size:11px; color:#065893"> - The Videolan Community</span></a> </li><li><a href="http://share.krita.org">share.krita.org <span style="font-size:11px; color:#065893"> - Krita Community Website</span></a> </li></ul></li><li class="nav-divider-pling"> • </li><li class="dropdown"><a href="#">Desktops</a><ul class="dropdown-menu"><li><a href="http://www.box-look.org">box-look.org <span style="font-size:11px; color:#065893"> - Themes for your Window Manager</span></a> </li><li><a href="http://www.cinnamon-look.org">cinnamon-look.org <span style="font-size:11px; color:#065893"> - Eyecandy for your Cinnamon Desktop</span></a> </li><li><a href="http://www.compiz-themes.org">compiz-themes.org <span style="font-size:11px; color:#065893"> - The Compiz Community</span></a> </li><li><a href="http://www.enlightenment-themes.org">enlightenment-themes.org <span style="font-size:11px; color:#065893"> - Eyecandy for your Enlightenment Desktop</span></a> </li><li class="active"><a href="http://www.gnome-look.org">gnome-look.org <span style="font-size:11px; color:#065893"> - Eyecandy for your GNOME-Desktop</span></a> </li><li><a href="http://www.mate-look.org">mate-look.org <span style="font-size:11px; color:#065893"> - Eyecandy for your Mate Desktop</span></a> </li><li><a href="http://store.kde.org">store.kde.org <span style="font-size:11px; color:#065893"> - Stuff for your Plasma Desktop</span></a> </li><li><a href="http://www.trinity-look.org">trinity-look.org <span style="font-size:11px; color:#065893"> - Eyecandy for your Trinity Desktop</span></a> </li><li><a href="http://www.xfce-look.org">xfce-look.org <span style="font-size:11px; color:#065893"> - Eyecandy for your XFCE-Desktop</span></a> </li></ul></li><li class="nav-divider-pling"> • </li><li class="dropdown"><a href="#">Artwork</a><ul class="dropdown-menu"><li><a href="http://www.cccliparts.org">cccliparts.org <span style="font-size:11px; color:#065893"> - cccliparts.org</span></a> </li><li><a href="http://www.free-artwork.org">free-artwork.org <span style="font-size:11px; color:#065893"> - Free Images, Paintings, Drawings, Cliparts</span></a> </li><li><a href="http://www.historical-look.org">historical-look.org <span style="font-size:11px; color:#065893"> - Eyecandy from the Past</span></a> </li></ul></li></ul>
+           <ul class="nav nav-pills meta-nav-top right" style="margin-right: 30px;">
+               <li><a href="http://blog.opendesktop.org/" target="_blank"> Blog</a> </li>
+               <li><a href="http://forum.opendesktop.org/" target="_blank"> Forum</a> </li>
+               <li> <a id="aboutContent" href="#">About </a>   </li>              
+               </ul>
+        </div>
+
+    <header id="page_header" xmlns="http://www.w3.org/1999/html">
+        <div class="container header" style="position: relative;">
+
+                            <ul class="menu-nav-tabs absolute-right" style="position: absolute;bottom: 0px;">
+                    <li role="presentation" class="">
+                        <a href="/register">Register</a></li>
+                    <li role="presentation" class="">
+                        <a href="/login/redirect/ozhVQc0qM-Pskwj0iP5kEfz8ivtzoszbw0XdpO89EhL_3GYni3JJgXe8J98jPzfs">Login</a>
+                    </li>
+                </ul>
+            
+            <section class="container">
+            <section class="wrapper">
+
+                    <section>
+
+                        <figure class="logo-header">
+                            <a href="/">
+                                <img width="220px" border="0" src="/images_sys/store_gnome/gnome-look-logo-2.png">
+                            </a>
+                        </figure>
+
+                        <nav id="nav-top">
+                            <div class="pull-left col-lg-5 col-md-5 col-sm-5 col-xs-5">
+                            </div>
+
+                            <div class="pull-right col-lg-7 col-md-7 col-sm-7 col-xs-7">
+                                                                                                <form id="search" class="pull-right" action="/search">
+                                    <input type="text" name="projectSearchText" class="content-search">
+
+                                    <div class="icon-search-input absolute cursor-hand" onclick="$('#search').submit()"></div>
+                                </form>
+                            </div>
+                        </nav>
+                    </section>
+
+                </section>
+            </section>
+
+            <section class="container">
+                <section class="wrapper">
+                                        <span class="header_cat_link" id="header_cat_link"><a href="/browse/cat/all/order/latest">/All</a></span>
+
+                </section>
+            </section>
+        </div>
+    </header>
+
+<div class="container page-container static-container">
+    <div class="row-fluid">
+        <div class="static-content">
+            <br>
+<br>
+<h3>Privacy Policy</h3>
+<p class="">Version: January 1st, 2016</p>
+
+<p>The Site is operated by Hive01 GmbH, Am Speksel 10, 33649 Bielefeld ("hive" or the "Company"). This page sets forth the Privacy Policy (the "Policy") for the website at www.opendesktop.org all other sites owned and operated by hive and the service owned and operated by the Company (together with the Site, the "Service").</p>
+        <br>
+        <p>We take the responsibility of having your personal information very seriously. We use your personal information only for providing and improving the Service. We treat your personal information as we would and do treat our own.</p>
+        <br>
+        <p>By using the Service, you consent to the collection and use of information in accordance with this Policy.</p>
+        <br>
+        <p>The Company reserves the right, at its sole discretion, to modify or replace this Policy by posting the updated version on the Site. It is your responsibility to check this Policy periodically for changes. Your continued use of the Service following the posting of any changes to this Policy constitutes your acceptance of those changes.</p>
+        <br><br>
+        <h3>Collection of Information</h3>
+        <br>
+        <p>We may collect and process the following information about you:</p>
+        <ul>
+            <br>
+            <li>information (such as your name, email and postal address, telephone number, sex, and country of residence) that you provide by completing forms on the Site, including if you register as a user of the Service, subscribe to our newsletter, upload or submit any material through the Site, or request any information;</li>
+            <br>
+            <li>your log-in and password details in connection with the account sign-in process;</li>
+            <br>
+            <li>details of any requests or transactions made by you through the Service;</li>
+            <br>
+            <li>communications you send to us, for example to report a problem or to submit queries, concerns, or comments regarding the Service or its content;</li>
+            <br>
+            <li>information that you post to the Site in the form of comments or contributions to discussions; and</li>
+            <br>
+            <li>IP addresses.</li>
+            <br>
+        </ul>
+        <br>
+        <p>&nbsp;</p>
+        <br><br>
+        <h3>Uses of Your Personal Information</h3>
+        <br>
+        <p><br>            We will use the personal information you provide to:</p>
+        <ul>
+            <br>
+            <li>identify you when you sign-in to your account;</li>
+            <br>
+            <li>enable us to provide you with the Services;</li>
+            <br>
+            <li>send you information we think you may find useful or which you have requested from us;</li>
+            <br>
+            <li>present projects to you when you use the Service which we believe will be of interest based on your geographic location and previous use of the Service;</li>
+            <br>
+            <li>administer your account with us;</li>
+            <br>
+            <li>enable us to contact you regarding any question you make through the Service;</li>
+            <br>
+            <li>analyze the use of the Service and the people visiting to improve our content and Services; and</li>
+            <br>
+            <li>use for other purposes that we may disclose to you when we request your information.</li>
+            <br>
+        </ul>
+        <br>        Maker never receive supporters' credit card information.<br>
+        <p>&nbsp;</p>
+        <br><br>
+        <h3>Email</h3>
+        <br>
+        <p>We want to communicate with you only if you want to hear from us. We try to keep emails to a minimum and give you the ability to opt out when we can.</p>
+        <br>
+        <p>We will send you email relating to your personal transactions. We will keep these emails to a minimum.</p>
+        <br>
+        <p>You will also receive certain email notifications, for which you may opt-out.</p>
+        <br>
+        <p>We may send you service-related announcements on rare occasions when it is necessary to do so.</p>
+        <br><br><br>
+        <h3>Third-Party Services</h3>
+        <br>
+        <p>We never post anything to your accounts with Facebook, Twitter, or any other third-party sites without your permission.</p>
+        <br>
+        <p>Except for the purposes of providing the Services, we will not give your name or personal information to third parties.</p>
+        <br><br>
+        <h3>Technology</h3>
+        <br>
+        <p>Cookies are small pieces of information which are issued to your computer when you visit a website and which store and sometimes track information about your use of the Service. opendesktop.org uses cookies to help recognize you as a repeat visitor, to improve the quality of our Service, and to try and make your browsing experience meaningful. When you enter our Site, our web server sends a cookie to your computer which allows us to recognize your computer but not specifically who is using it. By associating the identification numbers in the cookies with other customer information when, for example, you log-in to the Service, then we know that the cookie information relates to you. Some of the cookies used by our Service are served by us, and some are served by third parties who are delivering services on our behalf.</p>
+        <br>
+        <p>Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting www.allaboutcookies.org which includes additional useful information on cookies and how to block cookies using different browsers. By blocking or deleting cookies used on our Service, you may not be able to take full advantage of our Service.</p>
+        <br><br>
+        <h3>Voluntary Disclosure</h3>
+        <br>
+        <p>Any personal information or content that you voluntarily disclose in public areas of the Site becomes publicly available and can be collected and used by other users. You should exercise caution before disclosing your personal information through these public venues.</p>
+        <br>
+        <p>Maker never receive supporters' credit card information.</p>
+        <br><br>
+        <h3>Wrap-up</h3>
+        <br>
+        <p>opendesktop.org reserves the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights, or in the good-faith belief that it is necessary to comply with the law.</p>
+        <br>
+        <p>To modify or delete the personal information you have provided to us, please log in and update your profile. We may retain certain information as required by law or for necessary business purposes.</p>
+        <br>
+        <p>On request, we will give you a copy of all the personal information about you that we hold. This information is subject to a fee not exceeding the prescribed fee permitted by law.</p>
+        <br>
+        <p>People under 18 (or the legal age in your jurisdiction) are not permitted to use opendesktop.org on their own, and so this privacy policy makes no provision for their use of the site.</p>
+        <br>
+        <p>Information that you submit through the Service may be transferred to countries outside the European Economic Area ("EEA") to provide the Service to you. For example, some of our servers may be operational in the United States. If we transfer your information outside the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected.</p>
+        <br><br>
+        <h3>Questions</h3>
+        <br>
+        <p>If you have questions or suggestions, please contact us: <a href="mailto:contact@opendesktop.org">contact@opendesktop.org</a></p>
+        <br>        </div>
+    </div>
+    <!-- /.row-fluid -->
+</div> <!-- /.container --><footer>
+    <section class="wrapper">
+        <section>
+            <div class="pull-left col-lg-10 col-md-10 col-sm-9 col-xs-9">
+                <h3 id="footer-heading" class="lightblue">Eyecandy for your GNOME-Desktop - gnome-look.org</h3>
+                <nav id="footer-nav">
+                    
+                    <ul class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                        <!-- <li><a href="/faq">What is gnome-look.org?</a></li> -->
+                        <!-- <li><a href="http://www.ocsmag.com/" target="blank">Blog</a></li>  -->
+                        <li><a href="/terms">Terms &amp; Conditions</a></li>
+                        <li><a href="/privacy">Privacy Policy</a></li>
+                        <li><a href="/contact">Contact</a></li>                        
+                        <li><span style="color:#666;">© 2017 gnome-look.org - Eyecandy for your GNOME-Desktop</span></li>
+                                             
+                        <li style="display: block; margin-left:0px; padding-top:5px;color:#666;">All rights reserved. All trademarks are copyright by their respective owners. All contributors are responsible for their uploads.
+                         </li>
+                    </ul>
+                   
+                </nav>
+            </div>
+
+            <div class="pull-right col-lg-2 col-md-2 col-sm-3 col-xs-3" style="height:66px; ">
+                <div class="pull-right" style="position: absolute; bottom: 0; right:0;">
+                    <h3 id="footer-social-heading">Follow us on</h3>
+
+                    <div id="footer-social">
+                        <a href="https://www.facebook.com/opendesktop.org" id="facebook" target="_blank"><img src="/theme/flatui/img/new/f_icon_fb.png"></a>
+                        <a href="https://twitter.com/opendesktop" id="twitter" target="_blank"><img src="/theme/flatui/img/new/f_icon_tw.png"></a>
+                        <a href="https://plus.google.com/115086171173715906631" rel="publisher" id="g-plus" target="_blank"><img src="/theme/flatui/img/new/f_icon_gp.png"></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </section>
+</footer>
+
+<div id="overlays" class="" tabindex="-1" role="dialog"></div>
+<div id="modal-dialog" class="modal hide fade" tabindex="-1" role="dialog">
+    <div class="modal-body"></div>
+    <div id="error"></div>
+</div>
+
+<div id="generic-dialog" class="modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-sm" role="document">
+        <div class="modal-content">
+            <div class="modal-header row">
+                <div class="modal-header-text col-md-11">Put the headline here</div>
+                <button type="button" class="close col-md-1" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+            </div>
+            <div class="modal-body"></div>
+            <div class="modal-footer hidden">
+                <button type="button" class="btn btn-native" data-dismiss="modal" style="padding: 5px 10px;">Close</button>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div class="modal fade" id="delete-confirmation">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+                <p id="delete-confirmation-msg"></p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" id="delete-confirmation-no" data-dismiss="modal">Cancel</button>
+                <button type="button" class="btn red-pink" id="delete-confirmation-yes">Yes</button>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="application/javascript">
+        function defaultCallbackConfirmation(link) {
+        // Do however you want to handle deleting
+        // We have the link element and can access it's data attributes
+        $(link).closest('form').submit();
+    }
+
+    $(document).ready(function() {
+        // Now, when the button is clicked, setup the message, attach event with button
+        // and then show the modal
+        $(document).on('click', '.remove, .confirm', function(e) {
+            e.preventDefault();
+            var link = this;
+            $('#delete-confirmation-msg').html($(this).data('message'));
+            $('#delete-confirmation-yes').on('click', function() {
+                var callback = $(link).data('callback');
+//                if(typeof callback == 'function') {
+                    window[callback](link);
+//                } else {
+//                    window.location = $(link).data('url');
+//                }
+
+                $('#delete-confirmation').modal('hide');
+            });
+
+            if(yesBtn = $(this).data('yes-btn')) {
+                $('#delete-confirmation-yes').html(yesBtn);
+            }
+            if(noBtn = $(this).data('no-btn')) {
+                $('#delete-confirmation-no').html(noBtn);
+            }
+
+            $('#delete-confirmation').modal('show');
+        });
+        $('#delete-confirmation').on('hidden.bs.modal', function (e) {
+            $('#delete-confirmation-yes').off();
+
+            $('#delete-confirmation-msg').empty();
+            $('#delete-confirmation-yes').text('Yes');
+            $('#delete-confirmation-no').text('Cancel');
+        });
+    });
+</script>
+
+<!-- Load JS here for greater good =============================-->
+
+<script src="/theme/flatui/js/lib/jquery.crypt.js"></script>
+<script src="/theme/flatui/js/lib/bootstrap-colorpicker-module.js"></script>
+<script src="/theme/flatui/js/lib/bootstrap-dialog.min.js"></script>
+<script src="/theme/flatui/js/lib/masonry.pkgd.min.js"></script>
+
+<script src="//code.jquery.com/ui/1.11.2/jquery-ui.min.js"></script>
+<script src="/theme/flatui/js/lib/jquery.colorbox-min.js"></script>
+<script src="/theme/flatui/js/lib/jquery.placeholder.min.js"></script>
+<script src="/theme/flatui/js/lib/jquery.form.min.js"></script>
+<script src="/theme/flatui/js/lib/jquery.mousewheel.min.js"></script>
+<script src="/theme/flatui/js/lib/jquery.jscrollpane.min.js"></script>
+<script src="/theme/flatui/js/lib/jquery.zclip.min.js"></script>
+<script src="/theme/flatui/js/lib/jquery.fancytree-all.min.js"></script>
+<script src="/theme/flatui/js/lib/jquery.validate.min.js"></script>
+<script src="/theme/flatui/js/lib/additional-methods.min.js"></script>
+<script src="/theme/flatui/js/lib/jquery.steps.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.4/moment.min.js"></script>
+
+<script src="/tools/md5.js"></script>
+<script type="text/javascript" src="/tools/fancybox2.1.4/jquery.fancybox.pack.js?v=2.1.4"></script>
+
+<script src="/theme/flatui/js/script.js?v1.3c"></script>
+
+
+<script type="text/javascript">
+    //<![CDATA[
+        $(document).ready(function(){
+                MenuHover.setup();
+                AboutContent.setup();              
+                LoginContainer.update();
+            });
+            //]]>
+</script>
+        <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-78422931-12', 'auto', {'allowLinker': true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gnome-look.org'] );
+        ga('send', 'pageview');
+
+    </script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d63ce06dda","applicationID":"16209356","transactionName":"NgQHYUBVDUsEUBIPVg9OJFZGXQxWSlcDAFgUDREaUVsNTABdEklQDwUATQ==","queueTime":0,"applicationTime":143,"atts":"GkMEFwhPHkU=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+</body></html>
