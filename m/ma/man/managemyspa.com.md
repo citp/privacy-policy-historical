@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the managemyspa.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531094417id_/http%3A//www.zenoti.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managemyspa.com privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424185122id_/https%3A//www.zenoti.com/privacy.html) for the most accurate reproduction.*
 
 # Zenoti - Privacy Policy
 
@@ -9,6 +9,8 @@ If you have any questions about this Policy, please feel free to contact us thro
 ###  **INFORMATION COLLECTED**
 
 When you sign up for Soham’s services or buy Soham’s products at www.zenoti.com (the “Site”), Soham collects and retains certain personal information. Soham receives and stores any information you enter on the Site or give to Soham in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of Soham’s services and products. Soham uses the information that you provide for such purposes as responding to your requests, customizing future services and products for you, improving Soham’s services and products, and communicating with you. 
+
+You will find a button in the bottom left corner of many of the pages of Soham's software solution.  Clicking this button will begin the recording of all actions performed by you in the software solution.  You can choose not to use this recording feature but if used you acknowledge that all such data would be transmitted to Soham including Soham's employees who are providing support services to you.  Soham shall not be liable for any confidential information shared with its employees by you through the use of this feature.  You acknowledge that you will not have any access to any of the recordings that you create and share with Soham.
 
 This information is collected in several ways. For example, if you sign up for Soham’s services or buy its products, the Site will collect certain personal information required to make the purchase. If you sign up for Soham’s services Soham collects all the personal information necessary to provide you with the services purchased.
 
