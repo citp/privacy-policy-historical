@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codecraftschool.com privacy policy that was archived on 2016-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160224080336id_/http%3A//www.codecraftschool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codecraftschool.com privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424054520id_/https%3A//www.codecraftschool.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CodeCraft School
 
@@ -28,3 +28,7 @@ Security: This Website has security measures in place to protect the loss, misus
 
 Questions: If you have questions about this policy please contact us at info@codecraftschoo.com.  
 Effective Date and Changes: This privacy policy is effective as of 1-1-2015. We reserve the right to modify the terms of this privacy policy at any time and in our sole discretion, by posting a change notice on this page. YOUR CONTINUED USE OF THE WEBSITE FOLLOWING OUR POSTING OF A CHANGE NOTICE WILL CONSTITUTE BINDING ACCEPTANCE OF THOSE CHANGES.
+
+CodeCraftSchool.com also uses 3rd party vendor re-marketing tracking cookies, including but not limited to the Google Adwords and Facebook tracking cookies. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN) and Facebook and elsewhere. As always we respect your privacy and are not collecting any identifiable information through the use of any 3rd party remarketing system.
+
+The third-party vendors, including but not limited to Google and Facebook, whose services we use – will place cookies on web browsers in order to serve ads based on past visits to our website. – Third party vendors, including but not limited to Google and Facebook, use cookies to serve ads based on a user’s prior visits to your website. This allows us to make special offers and continue to market our services to those who have shown interest in our service.
