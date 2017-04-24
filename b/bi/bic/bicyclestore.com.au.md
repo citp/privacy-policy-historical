@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bicyclestore.com.au privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223080533id_/http%3A//www.bicyclestore.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bicyclestore.com.au privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424042048id_/http%3A//www.bicyclestore.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy & Security
 
