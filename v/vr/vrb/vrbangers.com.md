@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the vrbangers.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119034752id_/http%3A//vrbangers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vrbangers.com privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424041250id_/http%3A//vrbangers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VR Bangers
 
 [](https://web.archive.org/all-videos)  
 **OUR PLEDGE TO YOU:**
 
-You have a right to know how information about you is used and protected. Most data remains within the corporate family, and is used to do business with you. Some is necessarily shared with others to process your transactions.
+You have a right to know how information about you is used and protected. Most data remains within the corporate family and is used to do business with you. Some are necessarily shared with others to process your transactions.
 
 **INFORMATION WE COLLECT:**
 
-We collect only information that you give to us on applications, surveys, registration forms, etc.; and information that you give to us when you make a purchase, or other account information such as balance, payment history or credit card usage.  We also uses “cookies.”
+We collect only information that you give to us on applications, surveys, registration forms, etc.; We do not collect any payment related information.  We also use “cookies.”
 
 **HOW WE SHARE INFORMATION:**
 
