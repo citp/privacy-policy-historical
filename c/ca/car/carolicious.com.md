@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carolicious.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108211255id_/http%3A//www.carolicious.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carolicious.com privacy policy that was archived on 2017-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170425132407id_/http%3A//www.carolicious.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Carolicious House Plans
 
