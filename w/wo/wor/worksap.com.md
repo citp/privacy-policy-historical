@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worksap.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008142011id_/http%3A//www.worksap.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worksap.com privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426004908id_/http%3A//www.worksap.com/website-privacy-policy) for the most accurate reproduction.*
 
 # WEBSITE PRIVACY POLICY | WORKS APPLICATIONS
 
@@ -34,7 +34,7 @@ Except as required by law or in the case of possible threats to the individual o
 
 Our company will accept requests from an individual for disclosure, notification of purposes of use, corrections in cases where the content of the personal information subject to disclosure is incorrect, etc., halting of use, or halting of provision to third parties (hereinafter, "disclosure, etc.") of personal information subject to disclosure. For information on the procedures for disclosure, etc. please refer to the information below. Furthermore, please contact the address below for specific information.
 
-  * Personal information subject to rights for which a request regarding disclosure, etc. can be complied with The personal information (personal information subject to disclosure) subject to rights for which our company can comply with requests regarding disclosure, etc. is the information for the items stated below.
+  * Personal information subject to rights for which a request regarding disclosure, etc. can be complied with The personal information (personal information subject to disclosure) subject to rights for which our company can comply with requests regarding disclosure, etc. is the information for the items stated below.
 
 
 
@@ -66,7 +66,7 @@ Our company will accept requests from an individual for disclosure, notification
       * For recruiting activities
       * To answer questions and inquiries regarding employment at our company
       * For invitations to our company's recruiting events, seminars, etc.
-      * For giving contact information to company entrance pass holders
+      * For giving contact information to company entrance pass holders
       * To request cooperation in questionnaire surveys, etc. regarding our company's recruitment activities  
  
 
