@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the political.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025155237id_/http%3A//www.political.com/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the political.com privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426015716id_/http%3A//political.com/Home/Privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# 
 
 The following sets forth the policies for the collection and use of personally identifiable information ("Information") by Political.com ("Company") in connection with its operation of its Web site located at www.political.com (the "Site"), and supersedes any previous statement of such policies. Company takes its obligations regarding privacy very seriously, and it wants to ensure users are fully informed about the Information they are providing to it.
 
@@ -66,7 +66,7 @@ Company may use Information collected in connection with the Site in the followi
 
 
 
-In order to do the foregoing, Company may provide the Information to third parties, including but not limited to selected third party marketers and vendors as well as third party contractors providing services to Company such as the operation of the Site, communication services and fulfillment of orders, and information verification. Credit card information, such as card numbers and expiration dates, are collected only when purchases are made and are used only for purchase transactions. Company also utilizes electronic and physical security to reduce the risk of improper access to or manipulation of Information during transmission and storage, but cannot guarantee the security or integrity of the Information and shall have no liability for breaches of security or integrity or third-party interception in transit.
+In order to do the foregoing, Company may provide the Information to third parties, including but not limited to selected third party marketers and vendors as well as third party contractors providing services to Company such as the operation of the Site, communication services and fulfillment of orders, and information verification. Credit card information, such as card numbers and expiration dates, are collected only when purchases are made and are used only for purchase transactions. Company also utilizes electronic and physical security to reduce the risk of improper access to or manipulation of Information during transmission and storage, but cannot guarantee the security or integrity of the Information and shall have no liability for breaches of security or integrity or third-party interception in transit.
 
 Company may also disclose Information to affiliated entities, when it determines it is necessary to comply with applicable laws or regulations, in connection with a merger, acquisition, asset purchase or sale of or by Company, or to protect the interests or safety of Company, its customers, or other visitors to the Site.
 
@@ -80,7 +80,7 @@ All users who provide their Information to Company may modify and correct such I
 
 ##### _Your California Privacy Rights._
 
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Company who are California residents to request certain information regarding Company's disclosure of personal information to third parties for such third parties' direct marketing purposes. To make such a request, please write to: info@political.com.
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Company who are California residents to request certain information regarding Company's disclosure of personal information to third parties for such third parties' direct marketing purposes. To make such a request, please write to: info@political.com. ****
 
 ##### _Changes to this Privacy Policy._
 
