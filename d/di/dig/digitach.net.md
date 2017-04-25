@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitach.net privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204045535id_/http%3A//digitach.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitach.net privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426000837id_/http%3A//digitach.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – DigiTach | Latest Digital Technology News
 
@@ -21,10 +21,10 @@ Multi-site Advertising is occurring on our Site.
 
 Advertisers and advertising networks use tracking technologies to collect information about users’ computers or mobile devices and their online activities (for example, web pages visited and searches made) as well as general geographic location and use that information to display targeted ads to users. We sometimes allow these ad companies to collect such information when you use our sites and apps to enable them to display targeted ads to you on and off our Site.
 
-Many ad companies are members of the Network Advertising Initiative. NAI members allow users to opt out of being tracked by cookies. To opt out of cookie tracking by NAI members, you may visit [http://www.networkadvertising.org/](https://web.archive.org/go/CNeVqYGfaUPMCsTkAiEtD_dqtfLEs_dAO5HWZpihv_qUifbmPn0wvR4sgrmpFt_v5dVdhFZCaETN0ujqP2L9WJDa0ttqcNdo5rH2KWeuh_7wdtu_V3zkEgD63z32P8TC) and click on the “Consumer Opt-out” button. Companies may also be members of the Digital Advertising Alliance (“DAA”) and to opt out of cookie tracking by DAA members, you may visit [http://www.aboutads.info/choices/](https://web.archive.org/go/ipETFidoAwyb6M9yrlc4Gu418jpP9XT2gIxdzyJ7ucpIYuTEbIFtZ4hhFbYUdCTp6bXM2PuVbbdeno_PMDSVoCuv3iNQl-cbEIaaV8GRztgvlJK_JzHxZJYApPmKTlhm)
+Many ad companies are members of the Network Advertising Initiative. NAI members allow users to opt out of being tracked by cookies. To opt out of cookie tracking by NAI members, you may visit [http://www.networkadvertising.org/](https://web.archive.org/go/CNeVqYGfaUPMCsTkAiEtD_dqtfLEs_dAO5HWZpihv_qykGzDuOOOj7Pt_yJ4PeAjOyLuO0hs0JuHkyUV7-zyNMCeQeGLwuErrJIzwlZw6OoIJvQ7inzDWPPcJOXSfSlN) and click on the “Consumer Opt-out” button. Companies may also be members of the Digital Advertising Alliance (“DAA”) and to opt out of cookie tracking by DAA members, you may visit [http://www.aboutads.info/choices/](https://web.archive.org/go/ipETFidoAwyb6M9yrlc4Gu418jpP9XT2gIxdzyJ7ucpQ1Syo95L4iW8cyazd5NrzbFJBG0MW7cVgWsk0cqLvXPs_n6vasGyDpRRfGoAHwYg0oACgBVZq-cijH8uwUKFD)
 
 Third party links
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-If you need any information or have questions, please contact us at [contactus@monetizus.com](https://web.archive.org/go/xhBNGpJ15SjAhG_0Gk5onaobOgE427MBJAAKAT7_cFAPc5xJCv1hCTAulQLOVgkjUpgCA1u3c-UAzdxN9NG0UINvIVy1wREwMY4g_-q4wBndBT3VSUcjzPaS8f6QVt-Y)
+If you need any information or have questions, please contact us at [contactus@monetizus.com](https://web.archive.org/go/xhBNGpJ15SjAhG_0Gk5onaobOgE427MBJAAKAT7_cFDACeRFOeFwsUUmuyxBqtHaG6Pummn2AgzwBoTAhakthcrU287CJvyfYhtkUP_q8aoxoFBRqbszuOvF1RePrPlC)
