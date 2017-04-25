@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the juniperpublishers.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013231859id_/http%3A//juniperpublishers.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juniperpublishers.com privacy policy that was archived on 2017-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170425135603id_/http%3A//juniperpublishers.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Juniper Publishers | Open Access Journals
+# Scientific Research Journals with High Impact Articles | Juniper Publishers
 
 ### Introduction
 
