@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appliancesonline.com.au privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118013740id_/http%3A//www.appliancesonline.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliancesonline.com.au privacy policy that was archived on 2017-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170425191526id_/https%3A//www.appliancesonline.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Appliances On
 
