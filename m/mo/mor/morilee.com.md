@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morilee.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807150247id_/https%3A//www.morilee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morilee.com privacy policy that was archived on 2017-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170425053017id_/https%3A//www.morilee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Morilee
 
