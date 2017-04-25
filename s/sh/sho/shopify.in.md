@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopify.in privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108035216id_/https%3A//www.shopify.in/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopify.in privacy policy that was archived on 2017-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170425114007id_/https%3A//www.shopify.in/legal/privacy) for the most accurate reproduction.*
 
 # Shopify Privacy Policy
 
@@ -176,7 +176,7 @@ Chief Privacy Officer
 
 
 Last updated: September 27, 2016  
-© 2016 Shopify Inc.  
+© 2017 Shopify Inc.  
 
 
 ## Start your free 14-day trial today!
