@@ -1,101 +1,144 @@
-> *The following text is extracted and transformed from the mitre10.co.nz privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014101354id_/https%3A//www.mitre10.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitre10.co.nz privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426001130id_/https%3A//www.mitre10.co.nz/privacy) for the most accurate reproduction.*
 
 # Privacy | Mitre 10™
 
-## Mitre 10 Privacy Statement Summary
+## Mitre 10 Privacy Statement
 
-* * *
+Trust means a lot to us at Mitre 10 (New Zealand) Limited (“Mitre 10”). Generations of Kiwis have shopped at and trusted Mitre 10 and we want that to continue into the future. We’re committed to treating the personal information of our customers with care and respect.
 
-#### Privacy statement
+This Privacy Statement explains how Mitre 10 collects, stores, uses and discloses personal information about its customers. As you’ll see below, we ensure that our practices comply with the Privacy Act 1993 but we strive to do better than that, and meet industry best practice. 
 
-Mitre 10 (New Zealand) Limited values and respects your privacy. In fact we’re a leader in this field being one of the very first retail organisations in New Zealand to hold Data Warranty Register (DWR) Certification issued by the NZ Marketing Association.
+Please note that your local Mitre 10 store is owned and operated by a local Mitre 10 Member.  Your local Mitre 10 store may collect other personal information about you or use information in different ways. Make sure you also read any privacy statements provided by your local store. 
 
-The DWR was developed by the NZ Marketing Association to provide consumers with the confidence that organisations, like Mitre 10 (New Zealand) Limited, carrying the DWR Trustmark will treat personal information with absolute respect and privacy, in accordance not only with New Zealand law but also to industry best practice standards (which often exceeds the requirements under the law).
+### Mitre 10 is Data Warranted
 
-###  **About this privacy statement**
+Mitre 10 was one of the first retail organisations in New Zealand to be awarded Data Warranty Register (DWR) Certification. The DWR was developed and issued by the NZ Marketing Association and provides consumers with confidence that organisations such as Mitre 10, will treat personal information with care and respect, in accordance with the law, and industry best practice (which often exceeds legal requirements). 
 
-This Privacy Statement is in relation to information collected by Mitre 10 (New Zealand) Limited. It details how Mitre 10 (New Zealand) Limited collects, uses, and shares the information we collect from our customers. This helps to improve the overall shopping experience and to provide relevant information about Mitre 10 (New Zealand) Limited products, services, and promotions.
+### Information we collect from you
 
-Your local Mitre 10 store is operated by the local Mitre 10 Member who may also collect information. In such situations this information is only accessible to that store and in such instances will be subject to that store’s own Privacy Statement.
+Most of the personal information we collect about you is provided to us directly during your interactions with us at Mitre 10 stores or on our website, www.mitre10.co.nz, including when you become a member of our loyalty programmes or other loyalty programmes we’re a part of. 
 
-### What information might Mitre 10 collect?
+Sometimes, we may ask our partners or service providers to collect personal information from you on our behalf. 
 
-Customers may choose to provide us with personal information, such as:
+We always take care to ensure that we only collect personal information needed to provide our services and help run our business. The types of personal information we may collect include:
 
-  * Contact information - such as your name, billing and/or shipping address, telephone number, email, postal address.
-  * Demographic information - such as your date of birth, gender.
-  * General interest information – such as your DIY preferences and capabilities.
-  * Loyalty program information – such as your Fly Buys or AirPoints number.
-  * Account (and payment) information – such as your usernames, passwords, payment information and credit history.
-  * Purchase and returns history – such as specific products purchased and the dates purchases may have occurred.
-  * Social contact information – such as any information submitted in a public forum – like blogs and community chats, etc.
-  * Website information – such as browser cookies and PCT tags to track the pages visited and visitor journeys taken.
-  * Mobile information – such as location data obtained from mobile devices’ GPS.
-  * Competitions/sponsorship information – such as entries into company sponsored contests, surveys, sweepstakes or focus groups.
-
-
-
-### How we may use information
-
-How your personal information will be used by us will depend on the circumstances in which that information is collected. This helps to improve the overall Mitre 10 shopping experience of our customers.
-
-You can opt in to receive emails, mail, telephone calls and/or text messages from us and you can opt out at any time. All you need to do is change your Interest Groups in the Preferences section of My Account. But remember, if you do opt out, you could miss out on offers and news.
-
-Specific purposes for which your information might be used include:
-
-  * To improve our range of products, services and promotions (including assessing trends and customers interests).
-  * To provide you with details of Mitre 10 products, services and promotions.
-  * To provide details of our partners’ promotions that we reasonably believe may be of interest to you.
-  * To personalise communications/promotions.
-  * For security purposes.
-  * To communicate with you about your account or our relationship with you.
+  * Contact information, including your name, address, telephone number and email address;
+  * Demographic information, such as your date of birth and gender;
+  * General interest information, such as your DIY preferences and capabilities;
+  * Loyalty programme information, such as your Airpoints™ number (for more detail on this see below);
+  * Account (and payment) information;
+  * Purchase information, such as specific products purchased, dates of purchase and any returns;
+  * Social contact information, including any communications via social media, complaints and other contact you have with us;
+  * GPS and mobile information, when you use services such as store locator and online shopping;
+  * Website information, including browser cookies and PCT tags to track the pages visited and visitor journeys taken (please note our comment about other website links below); and
+  * Competition or sponsorship information, such as entries into Mitre 10 sponsored events.
 
 
 
-To do this, your personal information held by us may be combined with your personal information held by selected partners and service providers.
+### Information we collect from others
 
-We may also use the information in other ways but will provide notice of this at the time it is collected.
+In certain circumstances, we may also collect personal information about you from third parties. 
 
-### How we protect your personal information
+We’ll only do this if we’ve told you first, or where permitted by law. It is important, therefore, that you read the privacy statements for all agencies you deal with, as you may be permitting the sharing of personal information when using other services.
 
-Mitre 10 maintains the highest standards of administrative, technical and physical safeguards to protect the personal information you provide to us against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use and other unlawful forms of processing. While we use industry standard means to protect our websites and your information, the Internet is not 100% secure. The measures we use are appropriate for the type of information we collect.
+In particular, we may collect personal information about you in the following ways:
 
-### Sharing of information
-
-We may share your personal information with:
-
-  * our service providers for the purposes set out under ‘How we may use information’ above; and
-  * our selected partners for the purpose of tailoring offers that we reasonably believe may be of interest to you.
+  * Airpoints™ Programme – We are proud to participate in the Air New Zealand Airpoints programme. If you’re an Airpoints member, we may collect personal information about you from Air New Zealand and other Airpoints partners. This may include information about your purchases from other partners and more general information about your preferences and purchasing habits.
+  * Mitre 10 stores – From time to time we collect personal information about our customers from our member stores. We will only do this where permitted by law and where necessary to meet our purposes set out below. 
+  * Credit reporters – If you apply for a credit account with us, we may collect credit information about you with your consent. This information helps us to assess your application for credit. 
 
 
 
-We might authorise our selected partners and service providers to collect information on our behalf. We may also share information with the suppliers and manufacturers of our products and services to respond to your reviews and questions, and to contact you in the event of a product recall (or similar).
+### How we use personal information
 
-We may share anonymised and/or aggregated information about our customers with selected suppliers, manufacturers and other partners.
+We primarily use the personal information we collect about you to ensure that you receive the best products and services from us. We want to add value to your DIY experience, and your personal information helps us to make sure we get this right. 
 
-We may disclose information about you (i) if we are required to do so by law, regulation or legal process; or (ii) when we believe disclosure is necessary or appropriate to prevent physical, financial or other harm, injury or loss; (iii) in connection with an investigation of suspected or actual unlawful activity; or (iv) to assist in collecting debt owed by you.
+We may use your personal information for the following purposes:
 
-We may share information with Mitre 10 Member stores and gather information from Mitre 10 Member stores ensuring compliance with this Privacy Statement at all times.
+  * improving our stores’ range of products, services and promotions (including assessing trends and customer interests or preferences);
+  * enabling us or (if you’re an Airpoints™ member) Air New Zealand or Airpoints partners to identify and make meaningful and relevant offers to you, e.g. by sending you e-mails (see below to find out how to opt out);
+  * enabling us, or (if you’re an Airpoints member) Air New Zealand or Airpoints partners, to operate and develop our businesses more generally;
+  * managing your account and our relationship with you, including contacting you about products and/or services you are receiving;
+  * managing and monitoring our risks, including identifying and investigating any illegal activity such as fraud;
+  * recovering any unpaid debts or other monies owing; and
+  * complying with our legal and regulatory obligations and any lawful requests from government agencies or regulators.
 
-We reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our Privacy Statement.
+
+
+We may also use your personal information for other purposes, either after notifying you at the time of collection or where those uses are otherwise permitted by law. 
+
+### Opting out of offers
+
+From time to time, we will send you offers of products and services because we want to make sure you’re getting the best out of us. 
+
+But, we know that sometimes you might not want to hear from us in this way. We respect that. You can opt out of receiving offers from us at any time. To do so, sign in to www.mitre10.co.nz and change your preferences. 
+
+You can also opt out of receiving offers from Air New Zealand. To contact Air New Zealand for this purpose, please refer to Air New Zealand’s privacy statement on the Air New Zealand website. 
+
+### How we share personal information 
+
+Sometimes, we need to disclose personal information to third parties in order to meet the purposes set out above. 
+
+Generally, we’ll only disclose your personal information in the ways set out below. If we need to disclose information for other purposes, and it’s not practicable to tell you first, then we’ll only disclose that information if permitted by law. 
+
+We may disclose your personal information to:
+
+  * our trusted service providers, in order to meet the purposes set out above;
+  * the suppliers and manufacturers of our products and services, to manage those products and services;
+  * Mitre 10 stores, in order to meet the purposes set out above; 
+  * Air New Zealand and other Airpoints™ partners, to meet the Airpoints programme purposes set out above;
+  * debt collection agencies or credit reporters as part of the account set up or debt recovery process; and
+  * government or law enforcement agencies, including regulators, where permitted or required by law or where we or our stores believe it is necessary in order to protect staff, customers or property or to assist other businesses to do the same.
+
+
+
+### How we keep your personal information secure
+
+The personal information we collect about you is held by Mitre 10 (New Zealand) Ltd and by our trusted data storage providers.
+
+If you’re an Airpoints™ member, your personal information may also be held by Air New Zealand or its contractors. To find out more about Air New Zealand’s privacy practices, please refer to Air New Zealand’s privacy statement on the Air New Zealand website. 
+
+We take all reasonable steps to ensure that the personal information we hold is protected against loss, unauthorised use, access or disclosure and any other misuse. We apply careful administrative, technical and physical safeguards, that are appropriate for the sort of information we collect, to ensure that your information is safe and secure at all times. 
+
+We retain your personal information only for as long as we need it and we destroy the information we no longer need in a secure manner.
+
+### Your right to request a copy of your personal information
+
+You have the right to request a copy of any personal information Mitre 10 holds about you. The types of information we may hold about you are listed above. Please note that you can only request personal information about yourself, unless you have the consent of another person to request information on their behalf. 
+
+You can request a copy of your personal information by emailing us at privacy@mitre10.co.nz or writing to us at Privacy Officer, Mitre 10 (New Zealand) Ltd, Private Bag 102925, North Shore, Auckland 0745.
+
+If you’re an Airpoints™ member, you can also request a copy of the personal information Air New Zealand holds about you as part of this programme. To contact Air New Zealand for this purpose, please refer to Air New Zealand’s privacy statement on the Air New Zealand website.
+
+We will be as open as we can with you but sometimes we might need to withhold personal information from you, for example where the information is commercially sensitive or legally privileged. If we withhold information from you, we’ll tell you why.
+
+We’re required by the Privacy Act to make a decision on your request – and convey this to you – within 20 working days. However, we’ll usually respond to you more quickly than this. Where we cannot make a decision within 20 working days, we’ll let you know and explain why.
+
+### Your right to correct your personal information
+
+You also have the right to request the correction of personal information that Mitre 10 holds about you, if you believe it’s inaccurate. 
+
+To request the correction of information, you should follow the same steps as are set out above for requesting a copy. Again, we must respond within 20 working days but will try to respond sooner. 
 
 ### Links to other websites
 
-This website may contain links to other websites for your convenience and information. These websites may be operated by companies not affiliated with us. Linked websites, including those operated by Mitre 10, may have their own Privacy Statement notices, which we strongly suggest you review if you visit them. We are not responsible for the content of any websites that we do not control, any use of those websites or the privacy practices of those websites.
+Our website may contain links to other websites for your convenience and information. These websites may be operated by companies not affiliated with us. Linked websites, may have their own privacy statement, which we strongly suggest you review if you visit them. 
 
-### How to contact us
+We are not responsible for the content of any websites that we do not control, any use of those websites or the privacy practices of those businesses.
 
-If you have any questions or comments about this Privacy Statement, or if you would like us to update information we have about you, please contact us by:
+### Any further questions or complaints
 
-  * **Email** at [privacy@mitre10.co.nz](mailto:privacy@mitre10.co.nz) or click [here](mailto:privacy@mitre10.co.nz) now
-  * **Post at:** Privacy Officer, Mitre 10 (New Zealand) Ltd Private Bag 102925 North Shore Auckland 0745
+Where we have refused a request for access to, or correction of, personal information or where you have any other concerns about the way we have handled your personal information, you have the right to make a complaint. 
+
+In the first instance, please let us know about your concerns by contacting our Privacy Officer using the contact details set out above. We’ll do everything we can to put the matter right, but if we can’t resolve your complaint for you, then you have the right to make a complaint to the Office of the Privacy Commissioner by:
+
+  * completing an online complaint form at [www.privacy.org.nz](http://www.privacy.org.nz/); or
+  * writing to the Office of the Privacy Commissioner, PO Box 10-094, The Terrace, Wellington 6143.
 
 
-
-Your information will be held by us at 46 View Road, Wairau Valley, Auckland 0627
 
 ### Updates to our Privacy Statement
 
-This Privacy Statement may be updated periodically and without specific prior notice to you personally to reflect changes in our personal information practices or relevant laws.
+From time to time we may update this Privacy Statement, to reflect changes to our business, products or services or changes to the Privacy Act. We’ll update the Privacy Statement on our website, but may not otherwise notify our customers of a change, so please make sure you review it periodically to ensure you’re up to date with our privacy practices.
 
- _Last updated_ : This privacy statement was last updated 28/09/2015
+_Last updated: 1 November 2016_
