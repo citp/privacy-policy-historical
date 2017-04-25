@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panago.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119022328id_/http%3A//www.panago.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panago.com privacy policy that was archived on 2017-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170425060503id_/http%3A//www.panago.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy | Panago Pizza
 
