@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the permissionresearch.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907170155id_/https%3A//www.permissionresearch.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the permissionresearch.com privacy policy that was archived on 2017-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170425060058id_/http%3A//www.permissionresearch.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - PermissionResearch
 
@@ -166,7 +166,7 @@ Please refer to our program’s web site, which lays out the privacy commitments
 
 What if I wish to stop participating in this program?
 
-Resignation: You may resign at any time by contacting us at the support address listed below or by selecting the “ [Terminate all PermissionResearch Services](https://web.archive.org/web/20150907170155id_/https%3A//www.permissionresearch.com/Remove.aspx?terminate_services=y)” link from the Members section on your panel’s web page (where applicable).
+Resignation: You may resign at any time by contacting us at the support address listed below or by selecting the “ [Terminate all PermissionResearch Services](https://web.archive.org/web/20170425060058id_/http%3A//www.permissionresearch.com/Remove.aspx?terminate_services=y)” link from the Members section on your panel’s web page (where applicable).
 
 Removing our Application: You may remove our application using the Windows Add/Remove Programs function (known as "Programs and Features" in Vista and Windows 7). Alternatively, you may e-mail our support staff at the e-mail address provided below and request removal instructions. Please be sure to follow this same removal procedure on all of the computers from which you wish to remove this application. Removing the application will stop tracking of your online browsing and purchasing behavior, but unless you resign from all services in accordance with the procedure stated above, you still may be contacted for administrative purposes or for special participant opportunities. After you remove our application from a computer, all settings we have made to your computer will be deactivated.
 
@@ -237,8 +237,6 @@ THIS AGREEMENT SHALL BE GOVERNED BY THE LAWS OF THE COMMONWEALTH OF VIRGINIA, WI
 
 While this program is available on the Internet to international users, the program is and remains a U.S. offering and all use of the information collected is and shall remain subject to U.S. law and practice. International users must take this into account and should consult their local laws and independently determine whether participation is desired given these facts.
 
-TMRG, Inc., complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. TMRG, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view TMRG, Inc.’s certification, please visit <http://export.gov/safeharbor/>.
-
 Fraud: Any attempt by a participant to undermine the legitimate operation of the panel is a violation of criminal and civil laws and should such an attempt be made, TMRG, Inc. reserves the right to seek damages from any such respondent to the fullest extent permitted by law. Multiple accounts are not permitted; participants are limited to signing up for a maximum of one account.
 
 Third Party Rights: This agreement shall not create any rights or remedies in any parties other than the parties to the agreement and no person shall assert any rights as a third party beneficiary under this agreement.
@@ -261,7 +259,7 @@ ENTIRE AGREEMENT: This Agreement constitutes the entire agreement between sponso
 
 PermissionResearch does not react to Do Not Track signals because there is no standard for how those signals are sent. This site may employ the ScorecardResearch service, and you may control your level of participation in ScorecardResearch’s market research programs by visiting here: <http://www.scorecardresearch.com/preferences.aspx>
 
-This Agreement is effective as of April 28, 2015
+This Agreement is effective as of March 2, 2017.
 
 Whom can I contact if I have additional questions?
 
@@ -280,4 +278,4 @@ USA
 
 For any support issues, please contact: support@tmrginc.com.
 
-LP 1515
+LP 1709
