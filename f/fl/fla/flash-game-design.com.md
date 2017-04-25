@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flash-game-design.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223151825id_/http%3A//www.flash-game-design.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flash-game-design.com privacy policy that was archived on 2017-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170425144108id_/http%3A//www.flash-game-design.com/privacy.html) for the most accurate reproduction.*
 
 # Flash Game Design - Privacy Policy
 
