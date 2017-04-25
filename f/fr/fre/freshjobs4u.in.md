@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshjobs4u.in privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114015812id_/http%3A//freshjobs4u.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshjobs4u.in privacy policy that was archived on 2017-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170425114804id_/http%3A//freshjobs4u.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fresh Jobs 4 U
 
@@ -45,7 +45,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **Changes To This Privacy Policy**
 
-Resultsnjobs.in has the discretion to update this privacy policy at any time. When we do, we will post a [notification](http://freshjobs4u.in/category/notification-govt-jobs/ "notification") on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Resultsnjobs.in has the discretion to update this privacy policy at any time. When we do, we will post a [notification](http://freshjobs4u.co.in/category/notification-govt-jobs/ "notification") on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your Acceptance Of These Terms**
 
