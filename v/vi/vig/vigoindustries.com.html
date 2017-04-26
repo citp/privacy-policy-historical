@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vigoindustries.com privacy policy that was archived on 2016-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161208235024id_/http%3A//www.vigoindustries.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vigoindustries.com privacy policy that was archived on 2017-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170426050013id_/http%3A//www.vigoindustries.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -1223,7 +1223,7 @@ maxWidth: '300',
 		var centered = $list.hasClass('centered');
 		var gridItemMaxHeight = 0;
 		$listItems.each(function() {
-			
+
 			$(this).css("height", "auto"); 			var $object = $(this).find('.actions');
 
 						if (centered)
@@ -1232,11 +1232,11 @@ maxWidth: '300',
 				var availableWidth = $(this).width();
 				var space = availableWidth - objectWidth;
 				var leftOffset = space / 2;
-				$object.css("padding-left", leftOffset + "px"); 			}
+				/*$object.css("padding-left", leftOffset + "px"); */			}
 
 						var bottomOffset = parseInt($(this).css("padding-top"));
 			if (centered) bottomOffset += 10;
-			$object.css("bottom", bottomOffset + "px");
+			/*$object.css("bottom", bottomOffset + "px");*/
 
 						if ($object.is(":visible"))
 			{
@@ -1244,8 +1244,7 @@ maxWidth: '300',
 				$(this).css("padding-bottom", (objectHeight + bottomOffset) + "px");
 			}
 
-						
-			gridItemMaxHeight = Math.max(gridItemMaxHeight, $(this).height());
+						gridItemMaxHeight = Math.max(gridItemMaxHeight, $(this).height());
 		});
 
 		//Apply max height
@@ -1276,13 +1275,13 @@ maxWidth: '300',
 		});
 
 		$(document).on('mouseenter', '.dropdown', function() {
-			
+
 			var ddToggle = $(this).children('.dropdown-heading');
 			var ddMenu = $(this).children('.dropdown-content');
-			var ddWrapper = ddMenu.parent(); 			
+			var ddWrapper = ddMenu.parent(); 
 						ddMenu.css("left", "");
 			ddMenu.css("right", "");
-			
+
 						if ($(this).hasClass('clickable-dropdown'))
 			{
 								if ($(this).hasClass('open'))
@@ -1294,15 +1293,15 @@ maxWidth: '300',
 			{
 								clearTimeout(ddOpenTimeout);
 				ddOpenTimeout = setTimeout(function() {
-					
+
 					ddWrapper.addClass('open');
-					
+
 				}, DD_DELAY_IN);
-				
+
 				//$(this).addClass('open');
 				$(this).children('.dropdown-content').stop(true, true).delay(DD_DELAY_IN).fadeIn(DD_ANIMATION_IN, "easeOutCubic");
 			}
-			
+
 						clearTimeout(dMenuPosTimeout);
 			dMenuPosTimeout = setTimeout(function() {
 
@@ -1311,11 +1310,11 @@ maxWidth: '300',
 					var space = ddWrapper.offset().left; 					ddMenu.css("left", (-1)*space);
 					ddMenu.css("right", "auto");
 				}
-			
+
 			}, DD_DELAY_IN);
 
 		}).on('mouseleave', '.dropdown', function() {
-			
+
 			var ddMenu = $(this).children('.dropdown-content');
 			clearTimeout(ddOpenTimeout); 			ddMenu.stop(true, true).delay(DD_DELAY_OUT).fadeOut(DD_ANIMATION_OUT, "easeInCubic");
 			if (ddMenu.is(":hidden"))
@@ -1324,15 +1323,15 @@ maxWidth: '300',
 			}
 			$(this).removeClass('open');
 		});
-		
-		
-		
+
+
+
 				var windowScroll_t;
 		$(window).scroll(function(){
-			
+
 			clearTimeout(windowScroll_t);
 			windowScroll_t = setTimeout(function() {
-										
+
 				if ($(this).scrollTop() > 100)
 				{
 					$('#scroll-to-top').fadeIn();
@@ -1341,25 +1340,25 @@ maxWidth: '300',
 				{
 					$('#scroll-to-top').fadeOut();
 				}
-			
+
 			}, 500);
-			
+
 		});
-		
+
 		$('#scroll-to-top').click(function(){
 			$("html, body").animate({scrollTop: 0}, 600, "easeOutCubic");
 			return false;
 		});
-		
-		
-		
-						
+
+
+
+				
 						$('.category-products-grid').on('mouseenter', '.item', function() {
 				$(this).find(".display-onhover").fadeIn(400, "easeOutCubic");
 			}).on('mouseleave', '.item', function() {
 				$(this).find(".display-onhover").stop(true).hide();
 			});
-		
+
 		
 
 
@@ -1434,11 +1433,11 @@ maxWidth: '300',
 
 
 	}); //end: on document ready
-	
-	
+
+
 
 	jQuery(window).load(function(){
-		
+
 							setGridItemsEqualHeight(jQuery);
 		
 	}); //end: jQuery(window).load(){...}
