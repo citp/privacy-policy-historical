@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drsfostersmith.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118222617id_/http%3A//www.petco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drsfostersmith.com privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426031151id_/http%3A//www.petco.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -94,7 +94,7 @@ We may retain original and updated information for reasons such as technical con
 
 ### How We Respond to Do Not Track Signals
 
-At this time, our Sites do not support "Do Not Track" preferences that may be available in your browser for letting websites know that you do not want them collecting certain kinds of information. Specifically, if you turn on the Do Not Track setting on your browser, our Sites are not currently capable of following whatever Do Not Track preferences you set. For more information about Do Not Track, visit [donottrack.us](http://donottrack.us/).
+At this time, our Sites do not support "Do Not Track" preferences that may be available in your browser for letting websites know that you do not want them collecting certain kinds of information. Specifically, if you turn on the Do Not Track setting on your browser, our Sites are not currently capable of following whatever Do Not Track preferences you set. For more information about Do Not Track, visit [donottrack.us](https://donottrack.us/).
 
 ### Transfer of Data from Outside the United States
 
