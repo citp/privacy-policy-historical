@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the countryroad.com.au privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231052147id_/https%3A//www.countryroad.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countryroad.com.au privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426125200id_/https%3A//www.countryroad.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 * ## Privacy commitment
 
-Country Road Group Pty Ltd ACN 006 759 182 and its associated companies (“we”, “our” or us”) recognise the trust you are placing in us through your dealings with us. We do everything we can to maintain that trust. Our staff are employed on the basis that they will protect information about you. This is our corporate standard. Under law, your rights to privacy are also protected. Privacy laws place strict requirements on us to treat certain information collected as confidential, to store your information securely and to allow you easy access to check and correct your information.
+Country Road Group Pty Ltd ACN 006 759 182 and its Associated Entities as defined in the Corporations Act (Cth) 2001 (“we”, “our” or “us”) recognise the trust you are placing in us through your dealings with us. We do everything we can to maintain that trust. Our staff are employed on the basis that they will protect information about you. This is our corporate standard. Under law, your rights to privacy are also protected. Privacy laws place strict requirements on us to treat certain information collected as confidential, to store your information securely and to allow you easy access to check and correct your information.
 
 * ## Scope of our Privacy policy
 
-Our Privacy Policy applies to the personal information we collect, store, maintain and use about you as our customers, visitors to our website, social media and other digital services, job applicants and members of the public. Our Privacy Policy applies to all of the brands owned by us, including Country Road, Trenery, Witchery and Mimco (“Our Brands”).
+Our Privacy Policy applies to the personal information we collect, store, maintain and use about you as our customers, visitors to our website, social media and other digital services, job applicants and members of the public. Our Privacy Policy applies to all of the brands owned by us from time to time, including, but not limited to, Country Road, Trenery, Witchery, Politix and Mimco and any Associated Entities (“Our Brands”).
 
 * ## When do we collect information about you?
 
@@ -32,6 +32,7 @@ These services apply across Our Brands and include:
   * Recording customer accident details
   * Processing cash refunds
   * Maintaining detailed information on our websites
+  * Any other time where you may supply personal information to us from time to time.
 
 
 
@@ -54,21 +55,24 @@ We may collect the following information from you:
   * the name of the domain from which you access the internet;
   * the date and time you access our sites;
   * the internet address of the website from which you linked directly to our sites;
-  * other information you may supply to us; and
-  * if you are a candidate for employment, we may collect other information as further set out in our application forms or during the recruitment process. This may include information relating to your employment history, working eligibility rights, suitability for the role you are applying for, and your referee details.
+  * other information you may supply to us;
+  * if you are a candidate for employment, we may collect other information as further set out in our application forms or during the recruitment process. This may include information relating to your employment history, working eligibility rights, suitability for the role you are applying for, and your referee details; and
+  * any other information you may provide to us from time to time.
 
 
 * ## Why do we collect this information?
 
-We use the information to customise our services and plan product development so that we can provide you with relevant consumer information and notify you of products and special offers that may be of interest to you across Our Brands.  It is also collected so that we may provide value-added services and marketing and remarketing across Our Brands through our websites or other social media channels. If you are a candidate for employment, we collect information to assess your suitability for a position within our business and for other purposes such as contacting referees, performing background checks and visa applications.
+We use the information to customise our services and plan product development so that we can provide you with relevant consumer information and notify you of products and special offers that may be of interest to you across Our Brands. It is also collected so that we may provide value-added services and marketing and remarketing across Our Brands through our websites or other social media channels. If you are a candidate for employment, we collect information to assess your suitability for a position within our business and for other purposes such as contacting referees, performing background checks and visa applications. We also use the collected information to identify any other potential employment opportunities for you across Our Brands.
 
 * ## Do we share personal information with third parties?
 
-We may disclose information we hold to our directors, officers, employees and other associated companies within our corporate group for business purposes and marketing or remarketing purposes through our websites or other social media channels. Some of our associated companies with whom we share personal information may be located overseas, including in South Africa and New Zealand.
+We may disclose information we hold to our directors, officers, employees and other Associated Entities within our corporate group for business purposes and marketing or remarketing purposes through our websites or other social media channels.
+
+Some of our Associated Companies with whom we share personal information may be located overseas, including in South Africa and New Zealand.
 
 We may also disclose information to third party service providers or contractors.
 
-If you are a candidate for an employment position involving a third party with whom we have an agreement, we may disclose your information to that third party to assess your application. We may also disclose your information as part of a visa application process or where required to do so by law.
+If you are a candidate for an employment position involving a third party with whom we have an agreement, we may disclose your information to that third party to assess your application. We may disclose information we hold to our directors, officers, employees and other Associated Entities within our corporate group for the purpose of assessing your employment application and to identify any other potential employment opportunities for you across Our Brands. We may disclose your information as part of a visa application process or where required to do so by law.
 
 The countries this information may be disclosed to will vary from time to time, but may include Australia, New Zealand, South Africa, the United States of America and Japan.
 
