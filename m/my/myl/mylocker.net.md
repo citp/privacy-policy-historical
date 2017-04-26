@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylocker.net privacy policy that was archived on 2016-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160801185458id_/http%3A//www.mylocker.net/corp/privacy.cfm%3Fsc_id%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylocker.net privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426201537id_/http%3A//www.mylocker.net/corp/privacy.cfm%3Fsc_id%3D0) for the most accurate reproduction.*
 
 # MyLocker Privacy Policy
 
