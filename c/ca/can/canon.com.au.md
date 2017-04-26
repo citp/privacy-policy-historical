@@ -1,126 +1,94 @@
-> *The following text is extracted and transformed from the canon.com.au privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113000450id_/http%3A//www.canon.com.au/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canon.com.au privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426152959id_/https%3A//www.canon.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Canon Australia
+# Privacy Policy | Canon Australia
 
-### Introduction
+**Your info, in focus.    
+Getting to know our Privacy Policy**
 
-This is the Privacy Policy of Canon Australia Pty Limited (ABN 66 005 002 951) and its wholly-owned subsidiary, Canon Finance Australia Pty Limited (ABN 21 003 637 116) (“ **CFA** ”), (collectively, “ **Canon** ”). Its purpose is to inform individuals of our policies and practices regarding the collection, use, disclosure and storage of their personal information.  
+At Canon, we respect your right to know how we handle personal information. So to make things clear, here are the ins and outs of our Privacy Policy.  
 
+**WHY do we collect personal information?  **
 
-### General
+We need to collect and use personal information in order to run our business – to do things like:    
 
-Canon respects individuals’ privacy. Canon is bound by, and complies with, the National Privacy Principles (“ **NPPs** ”) prescribed under the Privacy Act 1988 (Cth). (Further information regarding the NPPs can be found at the Privacy Commissioner’s website at [www.privacy.gov.au](http://www.privacy.gov.au/))
+• fulfil orders for goods and services;  
+• provide commercial credit and finance;   
+• provide training and product information;   
+• manage customer and other business relationships;  
+• deal with inquiries and feedback;    
+• improve our products and services;  
+• conduct events, promotions and competitions;   
+• promote and market our company, products and services;   
+• understand our customers and community and tailor our products, services, marketing and communications to suit their needs; and  
+• recruit staff and manage contractors.
 
-Canon also complies with the credit reporting provisions contained in Part IIIA of the Privacy Act, insofar as they apply to Canon in connection with the provision of commercial credit.  
+**WHAT kinds of personal information do we collect?  **
 
+• We collect personal information about our consumer customers, business contacts, newsletter subscribers, competition entrants, job applicants, and others. Depending on the circumstances, we may collect their names and contact details, and information about their: 
 
-### Collection of personal information
+o transactions with us,   
+o use of our products and services;   
+o subscription preferences;  
+o participation in events, promotions and competitions organised by us;   
+o job applications; and  
+o other interactions and communications with us.     
 
-In accordance with NPP1:
+• We may collect financial, credit-related and identity verification information about people in order to provide them or related entities with commercial credit or finance (for more details in Australia see our Credit Reporting Policy), or to comply with legislation like anti-money laundering laws and counter-terrorism laws. 
 
-  * Canon will not collect personal information unless the information is necessary for one or more of its functions or activities. 
-  * Canon will only collect personal information by lawful and fair means and not in an unreasonably intrusive way. 
-  * When or before collecting personal information, Canon will take all reasonable steps (via this Policy and otherwise) to ensure the individual is aware of the required matters (and, where necessary in the case of sensitive information, has given his/her consent to the collection). 
-  * Whenever it is reasonable and practicable to do so, Canon will only collect personal information about an individual from that individual, and otherwise will take reasonable steps to ensure that the individual is made aware of the required matters.
+• We collect information about how people use our digital properties (including websites, social media sites, apps and electronic communications) and third party websites (digital interactions). Also, if people share an image with us, we may collect the metadata (such as camera details and geolocation data) attached to that image (image metadata). Usually the digital interactions data and image metadata we collect is anonymous. However, where a person signs up for one of our services (such as MyCanon, subscriptions, competitions etc.), we may link his/her digital interactions data and image metadata (past and future) to him/her. We may also attribute and add to such data anonymised data from third party sources, such as consumer analytic data from data aggregators. In that case we will treat all such data as personal information. 
 
+• We provide opportunities for people to share additional information with us if they wish, such as product wishlists, product reviews, and social network profiles. 
 
+**Let’s be DIRECT about direct marketing**
 
-###   
-Use and disclosure of personal information
+We know this is the one people worry about.  
 
-In accordance with NPP2:
+We will only send direct marketing communications to people if we have their consent, or the law otherwise permits. We may use any personal information we have collected about a person to tailor those communications to reflect his/her needs.      
+We will always provide a simple way to opt out of any direct marketing from us. 
 
-  * Canon may use and/or disclose personal information for the primary purpose for which it was collected. Such primary purposes may include: 
-    * to administer and improve the performance of Canon-owned websites; 
-    * to deliver goods and services; 
-    * to address and respond to concerns or other correspondence from customers; 
-    * to deliver benefits and services to MyCanon members; 
-    * to assess applications for commercial credit and potential guarantors; and 
-    * to administer and enforce commercial credit and guarantee agreements. 
-  * Subject to any contrary legal obligations, Canon will only use and/or disclose personal information for secondary purposes where NPP2 permits, which includes: 
-    * where the secondary purpose is related to the primary purpose of collection, and the individual would reasonably expect such other use or disclosure; or 
-    * where the individual consents. 
-  * Organisations to which Canon typically may disclose personal information collected by it are companies within its corporate group, and service providers (such as credit card processors, providers of outsourced services, shipping agents, advertising and marketing agencies, and credit reporting agencies), but only to the extent necessary to enable those other entities to assist Canon in fulfilling the primary purposes for which Canon collected the information, and any permitted secondary purposes. All such entities are required to keep such information confidential and restrict their use of it to the permitted purposes. 
-  * Canon will never sell or rent personal information collected by it to third parties for marketing purposes.
+**WHO do we usually disclose personal information to? Are we likely to disclose it to anyone overseas?  **
 
+We need to share some personal information we hold with other businesses to enable them to help us with services like data storage, business processes, deliveries and so on. Some of those businesses are based in America, Europe, India, Japan, Malaysia and the Philippines. But we only disclose what is necessary for them to do their job, and they are contractually obliged to keep your details safe.  
 
+**HOW do we protect personal information?  **
 
-###   
-Collection, use and disclosure – specific situations
+We know how important it is to keep personal information secure, so we have a range of processes in place, including:  
+• using secure servers and other appropriate measures to protect electronic data;   
+• measures to control internal access, such as policies, physical access restrictions, network structures, passwords and access tracking;   
+• secure third party online payment methods.   
+And when information isn’t needed anymore, we’ll make sure it gets destroyed, deleted or de-identified.
 
-Browsing Canon-owned websites:
+**HOW can I get in touch about my information?**
 
-  * Canon may collect information about individuals’ visits to Canon-owned websites using automatic collection tools, such as “cookies”. We do this in order to monitor traffic patterns and serve individuals more efficiently if they revisit the sites. Such tools do not identify individuals personally, but they can provide information such as the individuals’ browser type and language, access times, Internet Protocol addresses and behaviour (e.g. pages visited, links clicked).
+If we hold information about you, you have rights to access that information and/or ask us to correct it if it’s wrong. All you need to do is contact our Privacy Officer.  
+Please also contact our Privacy Officer if you have any concerns or complaints about how we’ve handled your information. He/she will investigate and respond in writing as quickly as possible. If you’re not satisfied after that, it’s your right under the privacy legislation to lodge a complaint with the Privacy Commissioner.  
 
+Here’s how you can reach our Privacy Officer:
 
-
-MyCanon:
-
-  * Individuals need to become members of MyCanon if they wish to access a number of extra benefits and services from Canon-owned websites, which may include: 
-    * the ability to enter and participate in Canon competitions and promotions online; 
-    * the ability to register their Canon products for warranty purposes; 
-    * the opportunity to subscribe to various communications, including newsletters and special offers; 
-    * the opportunity to submit Ratings and Reviews; and 
-    * the opportunity to contribute to online discussions. 
-  * When joining MyCanon, individuals are asked to provide such personal information as is needed to enable Canon to supply the extra benefits or services desired by those individuals, as indicated by the options to which they subscribe (which will be presented to them in the course of the MyCanon registration process). Canon will only use or disclose that personal information for the purposes of supplying those benefits or services. 
-  * Members of MyCanon can alter their preferences at any time, including by unsubscribing from any email or SMS communications. Canon complies with the Spam Act 2003 (Cth) in relation to any such communications or other electronic messages. 
-  * In addition to the information individuals provide when joining MyCanon, Canon may also collect, and aggregate such information with: 
-    * information which those individuals subsequently voluntarily contribute to us and/or Canon-owned websites; 
-    * information obtained from the automatic collection tools referred to above.
-
-
-
-###   
-Data quality
-
-In accordance with NPP3, Canon will take all reasonable steps to ensure that the personal information it collects, uses or discloses is accurate, complete and up-to-date.
-
-###   
-Data security
-
-In accordance with NPP4:
-
-  * Canon will take all reasonable steps to protect the personal information it holds from misuse and loss and from unauthorised access, modification or disclosure. 
-  * Canon will take all reasonable steps to destroy or permanently de-identify personal information if it is no longer needed for any purpose for which the information may be used or disclosed under NPP2.
-
-
-
-###   
-Openness
-
-In accordance with NPP5:
-
-  * On request by a person, Canon will take all reasonable steps to let the person know, generally, what sort of personal information it holds, for what purposes, and how it collects, holds, uses and discloses that information.
-
-
-
-###   
-Access and correction
-
-In accordance with NPP6:
-
-  * Canon will give an individual access to any personal information which it holds about that individual, subject to the limited exceptions set out in NPP6. 
-  * If an individual establishes that personal information which Canon holds about him/her is not accurate, complete and up-to-date, Canon will take all reasonable steps to correct the information.
-
-
-
-###   
-Children
-
-Children (persons under the age of 18 years) are eligible to access and use the Site. However, if you are under the age of 15 we request that you obtain the consent of your parent/s or guardian/s before submitting any personal information to the Site.
-
-###   
-Changes to this Policy
-
-Canon reserves the right to change this Policy from time to time, in accordance with relevant circumstances. If we do so, we will post the revised Policy here. We may also give notice by other means, such as a message on our website.
-
-###   
-How to contact us
-
-Any complaints, problems or queries regarding Canon’s management of personal information should be directed to Canon’s Privacy Officer by:
-
-  * phoning (02) 9805 2000; or 
-  * sending an email to: [privacyofficer@canon.com.au](mailto:privacyofficer@canon.com.au)
-
+**Australia**  
+| **New Zealand**  
   
+---|---  
+Privacy Officer  
+Canon Australia Pty Ltd  
+Building A  
+The Park Estate   
+5 Talavera Road  
+MACQUARIE PARK NSW 2113  
+13 13 83  
+[privacyofficer@canon.com.au](mailto:)  
+| Privacy Officer  
+Canon New Zealand Limited  
+Akoranga Business Park  
+28 The Warehouse Way  
+Northcote 0627   
+NEW ZEALAND  
+0800 222 666  
+[privacyofficer@canon.co.nz](mailto:)  
+  
+  
+This Policy covers [Canon Australia](https://www.canon.com.au/) Pty Ltd and its wholly-owned subsidiaries Canon Finance Australia Pty Ltd, Oce-Australia Pty Ltd and Canon New Zealand Ltd.   
 
+It may be updated from time to time. Changes will be posted here.   
+Last updated:                 2016 **  
+**_Image credit: Melville Xue, Canon employee_
