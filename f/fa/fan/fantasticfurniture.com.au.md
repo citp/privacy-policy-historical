@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fantasticfurniture.com.au privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120180641id_/http%3A//www.fantasticfurniture.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasticfurniture.com.au privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426195240id_/https%3A//www.fantasticfurniture.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fantastic Furniture - Australia's Best Value Furniture & Bedding
+# Privacy Policy | Fantastic Furniture
 
 ## **Privacy Policy**
 
-This privacy policy sets out how Fantastic Furniture Pty Limited (ABN 19 004 000 775) ("we", "us, "our") uses, discloses and protects any personal information about yourself that we collect when you use this website and otherwise interact with us.  You can be assured that the information collected will only be held, used or disclosed in accordance with this privacy policy. 
+This privacy policy sets out how Fantastic Furniture Pty Limited (ABN 66 003 688 855) ("we", "us, "our") uses, discloses and protects any personal information about yourself that we collect when you use this website and otherwise interact with us.  You can be assured that the information collected will only be held, used or disclosed in accordance with this privacy policy. 
 
 We may make changes to this privacy policy from time to time (without notice to you) that are necessary for our business requirements or the law. This privacy policy was last updated on 15 July 2014. We encourage you to visit this site form time to time to ensure that you have read our most current privacy policy.
 
@@ -54,7 +54,7 @@ We do not otherwise sell or provide your information to third parties.  We will
 
  **Third Party Analytics**
 
-Fantastic Furniture use third party application tracking services such as Google Analytics and Inspectlet to help understand the use of our Services and Site(s). Information collected by Google is governed by Google's Privacy Policy [https://www.google.com/policies/privacy/partners/].  We use the tool Inspectlet to analyse the activities of visitors to this website, and Inspectlet’s authorised use of cookies and other tracking technologies enable it to have access to Personal Information of visitors to this website.  This tracking is to understand how our user interact with our products and services – Inspectlet do not capture any personal information entered into any input form on our website including but not limited to names, email addresses, address information or payment information.  Such access to and use of Personal Information by Inspectlet is governed by Inspectlet’s Privacy Policy [https://www.inspectlet.com/legal#privacy].
+Fantastic Furniture use third party application tracking services such as Google Analytics and Hotjar to help understand the use of our Services and Site(s). Information collected by Google is governed by Google's Privacy Policy [https://www.google.com/policies/privacy/partners/].  We use the tool Hotjar to analyse the activities of visitors to this website, and Hotjar's authorised use of cookies and other tracking technologies enable it to have access to Personal Information of visitors to this website.  This tracking is to understand how our user interact with our products and services – Hotjar do not capture any personal information entered into any input form on our website including but not limited to names, email addresses, address information or payment information.  Such access to and use of Personal Information by Hotjar is governed by Hotjar Privacy Policy [https://www.hotjar.com/privacy].
 
  **Security**
 
@@ -77,12 +77,13 @@ You may choose to restrict the collection, storage, use or disclosure of your in
     * writing to the Privacy Officer, Fantastic Furniture Pty Limited, PO Box 445 Chester Hill NSW 2162;
     * phoning +61 (02) 8707 2600 (during normal business hours), or 
     * e-mailing us at customercare@fantasticfurniture.com.au.
+  * we mainly communicate with you through email. If you wish to unsubscribe to direct marketing communication, you can locate and click on the unsubscribe link in each of the promotional emails and we will opt you out from the mailing listing without any cost.
 
 
 
 If you believe that any information we are holding on you is incorrect, out of date, irrelevant or incomplete, please contact us as soon as possible. We will promptly correct any information found to be incorrect. 
 
-You may request access to any personal information we hold about you by contacting us.  If we refuse access, we will provide you with reasons for the refusal and the relevant provisions of the Privacy Act that we rely on to refuse access. We may recover reasonable costs of retrieving information when you make an access request.
+You may request access to any personal information we hold about you by contacting us. If we refuse access, we will provide you with reasons for the refusal and the relevant provisions of the Privacy Act that we rely on to refuse access. We may recover reasonable costs of retrieving information when you make an access request.
 
  **Complaints**
 
