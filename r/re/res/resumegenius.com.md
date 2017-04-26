@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resumegenius.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508163413id_/https%3A//resumegenius.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resumegenius.com privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426195405id_/https%3A//resumegenius.com/privacy-policy) for the most accurate reproduction.*
 
 # Users Privacy Policy | Resume Genius
 
@@ -113,4 +113,4 @@ Nicosia, Cyprus
 
 Contacting us:  
 Email: support@resumegenius.com  
-Phone: (866) 215-9048 (available Monday through Friday, 10AM – 6PM EDT)
+Phone: (866) 215-9048 (available Monday to Friday, 8AM – 12AM (Midnight) EDT)
