@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andrewkelsall.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015100411id_/http%3A//www.andrewkelsall.com/andrew-kelsall-design-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andrewkelsall.com privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426125316id_/http%3A//www.andrewkelsall.com/andrew-kelsall-design-privacy-policy) for the most accurate reproduction.*
 
 # Andrew Kelsall Design Privacy Policy
 
@@ -12,24 +12,24 @@ Andrew Kelsall, the Creative Proprietor, is the ‘Creative Proprietor’ of [An
 
 The information we collect via the Website may include.
 
- **1.** Any personal details you knowingly provide us with through forms and our email, such as name, address, telephone number etc.
+**1.** Any personal details you knowingly provide us with through forms and our email, such as name, address, telephone number etc.
 
- **2.** Under no circumstances will we hold sensitive payment details such as your card number, expiry date and security code. All transactions are handled through our accredited payment bureau, PayPal. For more information on PayPal privacy policy please go to the paypal website at paypal.com  
+**2.** Under no circumstances will we hold sensitive payment details such as your card number, expiry date and security code. All transactions are handled through our accredited payment bureau, PayPal. For more information on PayPal privacy policy please go to the paypal website at paypal.com  
 **3.** Your preferences and use of email updates, recorded by emails we send you (if you select to receive email updates on products and offers).
 
- **4.** Your IP Address, this is a string of numbers unique to your computer that is recorded by our web server when you request any page or component on the Website. This information is used to monitor your usage of the Website.
+**4.** Your IP Address, this is a string of numbers unique to your computer that is recorded by our web server when you request any page or component on the Website. This information is used to monitor your usage of the Website.
 
- **5.** Data recorded by the Website, which allows us to recognise you and your preferred settings, this saves you from re-entering information on return visits to the site. Such data is recorded locally on your computer through the use of cookies. Most browsers can be programmed to reject, or warn you before downloading cookies, information regarding this may be found in your browsers ‘help’ facility.
+**5.** Data recorded by the Website, which allows us to recognise you and your preferred settings, this saves you from re-entering information on return visits to the site. Such data is recorded locally on your computer through the use of cookies. Most browsers can be programmed to reject, or warn you before downloading cookies, information regarding this may be found in your browsers ‘help’ facility.
 
 ### What we do with your information
 
 Any personal information we collect from this website will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details we collect will be used:
 
- **1.** To process your order, to provide after sales service (we may pass your details to another organisation to supply/deliver products or services you have purchased and/or to provide after-sales service);
+**1.** To process your order, to provide after sales service (we may pass your details to another organisation to supply/deliver products or services you have purchased and/or to provide after-sales service);
 
- **2.** In certain cases we may use your email address to send you information on our other products and services. In such a case you will be offered the option to opt in/out before completing your purchase.
+**2.** In certain cases we may use your email address to send you information on our other products and services. In such a case you will be offered the option to opt in/out before completing your purchase.
 
- **3.** As an exception, information provided to Andrewkelsall.com within any of the Design Forms (located in ‘downloads’) is confidential and will not be disclosed without your prior written permission.
+**3.** As an exception, information provided to Andrewkelsall.com within any of the Design Forms (located in ‘downloads’) is confidential and will not be disclosed without your prior written permission.
 
 We may need to pass the information we collect to other companies for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use the Website and issuing our e-mails for us. Third parties will not be allowed to use your personal information for their own purposes.
 
