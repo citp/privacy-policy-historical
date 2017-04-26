@@ -1,118 +1,105 @@
-> *The following text is extracted and transformed from the lifewire.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314024140id_/http%3A//www.about.com/gi/pages/mprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifewire.com privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426210713id_/https%3A//www.lifewire.com/legal%23privacy) for the most accurate reproduction.*
 
-# About.com Privacy Policy
+# Terms of Use and Policies
 
-_Updated November 11, 2014_
+Updated October 8, 2016 
 
-We take your privacy seriously. Please take a moment to read this privacy policy, which discloses the privacy practices of the About, Inc. ("About" or "we") websites, including About.com, About.net, AllExperts.com, CalorieCount.com, and Netplaces.com, as well as our downloadable software applications for supported devices, including mobile devices (collectively, the "Services" or "Websites"). Specifically, the policy outlines the types of information that may be gathered when you register for or use the Services, and the ways in which that information may be used.
+At Lifewire, we take online privacy seriously and we respect the concerns of our community of users. In this policy we describe our privacy practices with regard to information we collect through Lifewire.com and affiliated sites (the “Site”), to help you make informed decisions about how you share information when you visit or use the Site. 
 
-## Information You Give Us
+### Understanding How Information Is Collected on Lifewire:
 
-To enable you to enjoy certain features of our Services, we collect certain types of information, including personally identifiable information. For example, we collect information when you:
+#### Information You May Choose to Provide to Us
 
-  * **Sign up to receive email newsletters.** When we send newsletters to subscribers we may allow advertisers or partners to include messages in those newsletters, or we may send dedicated newsletters on behalf of those advertisers or partners. To unsubscribe from a particular newsletter, click the "unsubscribe" link at the bottom of that email newsletter. If you would like to globally opt-out from ALL About.com email campaigns please send an email to optout@about.com with "Unsubscribe" in the subject line. 
-  * **Register.** When you register to use forums or other Services, we ask you to provide certain information, which may include your email address, home address, birth year, gender, health conditions, credit card number and zip code, as well as a password for your account.
-  * **Engage in public activities on the Services.** We offer you opportunities to engage in public activities on the Services that are designed to be visible to other users and the public at large, including comments, forums, recommendations, reader reviews, ratings or any other items that you submit. Any information you disclose in your public activities, along with your screen name or ID, or any image or photo, becomes public and may be used by us for online and offline promotional or commercial uses in any and all media. **Information you submit is not private or confidential, nor is it protected by attorney-client, doctor-patient, or any other privilege and (regardless of restrictions we impose in our User Agreement or other policies) it might be read, collected and used by others, including through third party search engines which may index the information you post.** You therefore should be aware that any personally identifiable information you submit there might be read, collected, or used by other users of these areas, and could be used to send you unsolicited messages, mine your data, communicate with or market to you in other ways. We are not responsible for safeguarding the personally identifiable information you choose to submit in these forums and About.com has no responsibility to publish, take down, remove or edit any of your public activities or any of your submissions that are a result of your public activities. For more information, see the About.com [User Agreement](http://www.about.com/gi/pages/uagree.htm).
-  * **Provide Us Your Credit Card and Billing Information.** To enable payment for certain Services, we or a service or payment provider acting on our behalf may collect and store billing and credit card information.
-  * **Contests, Sweepstakes and Special Offers.** We may sponsor contests, sweepstakes, or promote special offers on the Service or on third party websites. If you elect to participate, we may require personal information from you, including, in most cases, your first and last name and e-mail address. When you do so, you agree that we may retain and use the information you provide us (including through third party sites) as permitted in this Privacy Policy. Data collected directly by other participating companies is not subject to this Privacy Policy.
+We may collect information, including personally identifiable information, directly from you if you choose to provide that information. For example, you may provide us with your name and contact information (such as an email address), date of birth, or other details of that nature, when you sign up for our newsletters or participate in promotions or surveys on the Site. 
 
+You also may choose to provide personally identifiable information about yourself when you participate in forums or discussions on the Site. Please be aware that information you post in these forums may be viewed or captured by anyone who visits the Site, therefore you should avoid posting sensitive or personal information that you would not want to be available to the public. 
 
+#### Information That Is Automatically Collected When You Visit Lifewire
 
-## Information We Collect Using Technology
+When you access the Site, we and our third-party partners and vendors may automatically collect certain information about your visit using tools such as cookies, web beacons, and other similar technologies. The information collected automatically when you visit the Site may include your IP address, characteristics of your operating system, information about your browser and system settings, data about the computer or mobile device you use to access the Site, unique device identifiers, clickstream data (which shows the page-by-page path you take as you browse the Site), and other details that generally are not considered personally identifiable. 
 
-  * **Device Information.** We may collect information about the browser, computer, mobile phone, smartphone or other device you use to access the Services to measure the effectiveness of those Services.
-  * **Cookies and Similar Technology.** As further explained below, we may use cookies, pixel trackers, server logs, and other Internet technology for purposes such as measuring the effectiveness of the Services, emails we send you, and any advertising campaigns, as well as to target meaningful content and ads (including through emails). Sometimes, we may facilitate the use by third party platforms of these anonymous cookies, or similar technology, to help those third parties better target ads to you based on other websites you may have visited. To learn more about how third parties may collect and use information online, and how you can exercise opt-out choices regarding that information, see the below Section titled "Information Collected by Third-Parties and Your Ad & Cookie Choices."
-  * **IP Addresses.** We log Internet Protocol (IP) addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We use this information in an aggregate fashion to track access to our Services (websites and mobile applications), and may also use it to infer your location, as also discussed in the below section titled "Geolocation Data."
-  * **Geolocation Data.** For certain mobile applications we offer, we may (or may enable a third party, including an advertiser to) request your geolocation information in order to provide you with ads, offers, search or other functionality. If you agree to such collection, we (or the third party) may maintain information regarding your precise geolocation including over time and may use it to help enable that functionality, or other functionality we describe to you in connection with the mobile application or website.
+**Cookies** are small files that websites and other online services use to store information about users on the users’ own computers. This Site may use cookies (such as HTTP and HTML5 cookies and Flash cookies), as well as other types of local storage. For more information about cookies, you may visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). See the section below regarding Your choices to learn more about how you may limit or disable cookies on your computer. If you choose to disable cookies, that could affect certain features of the Site that use cookies to enhance their functionality. 
 
-In addition, we may (or may enable a third party, such as an advertiser to) capture geo-location information (such as based on IP address data) when you access our Services, and may use that geo-location information to targets ads or offers to you.
+To manage our automatic data collection, we may place tags (often referred to as “web beacons”) on pages on the Site or in emails we send to you. **Web beacons** are small files that link web pages to particular web servers and their cookies, and they may be used for a variety of purposes, such as counting the number of visitors to the Site, analyzing how users navigate around the Site, assessing how many emails that we send are actually opened and which articles or links are viewed by visitors. 
 
-  * **Analytics.** We may use third parties to provide us information, reports and analysis about the usage and browsing patterns of users of the Services. These reports contain aggregated or anonymous data only, and do not identify individual users to About.com.
-  * **Log Files.** We may also automatically log certain information about your use of the Services. This information includes a reading history of the pages you view and a record of the sites from which you clicked on a link to visit ours.
+We also use third-party web analytics services, such as Google Analytics, on the Site, to provide us with statistics and other information about visitors to the Site. [Click here to learn more about Google Analytics and how you may opt out.](http://www.google.com/analytics/learn/privacy.html)
 
+**“Do Not Track” Signals.** Your browser settings may allow you to automatically transmit a “do not track” signal to websites and online services you visit. At this time there is no consensus among industry participants as to the meaning of “do not track” in this context. Like many other websites, Lifewire.com is not configured to respond to “do not track” signals from browsers. [Click here to learn more about "do not track" signals.](https://allaboutdnt.com/)
 
+Finally, companies that provide certain third-party apps, tools, widgets, and plug-ins that may appear on the Site (for example, Facebook “Like” buttons) also may use automated means to collect information regarding your interactions with these features. This information collection is subject to the privacy policies or notices of those providers. 
 
-## Cookies, Web Beacons, and Similar Technologies
+#### How We May Use Information We Collect
 
-Like many websites, and web and mobile services, we may use (or work with third party partners who use) a variety of technologies to learn more about how people interact with our Services. This section provides more information about some of those technologies and how they work.
+We may use the information gathered on Lifewire for various purposes, including the purposes listed below. For example, if you were to contact us with a question and provide your email address, we would use the email address you provided to respond to your inquiry. In addition, we use information we collect from you and through the Site to: 
 
-  * **Cookies.** Cookies are small files that websites and other online services use to store information about users on the users' own computers. Cookies can be used to store sign-in credentials so that you don't have to enter them each time you return to a website, or to store other information to make web viewing more customized or efficient upon future visits. Cookies also may store a unique identifier tied to your computer so that web services and advertising networks can recognize you across visits to different websites. You can configure your Internet browser to warn you each time a cookie is being sent or to refuse all or certain cookies completely. 
-
-We (or our partners) may use or support cookies for purposes including the following: 
-
-    * To collect information about your browsing activities in order to deliver customized or relevant services, advertising or content to you (including regarding our own products and content), when you browse our Website or other websites or open the emails we send you;
-    * To relate the information collected by cookies to information we obtain from you directly or from commercially available sources;
-    * To work with third parties that serve advertisements (through our Services or across the Internet) or provide other services to us, such as providing users the ability to comment on content, allowing users to share content, or tracking website usage statistics. We do not control these third party technologies and their use is governed by the privacy policies of the third parties using such technologies. For more information about third party ad networks and services that use these technologies, see [www.aboutads.info](http://www.aboutads.info/), and to learn about or exercise your opt-out options, go to <http://aboutads.info/choices>. To learn more about how third parties may collect and use information online, and how you can exercise opt-out choices regarding that information, see the below Section titled "Information Collected by Third-Parties and Your Ad & Cookie Choices."
-  * **Other Local Storage.** We (or our partners) may use other kinds of local storage, such as Local Shared Objects (also referred to as "Flash cookies") and HTML5 local storage, in connection with the Services. These technologies are similar to the cookies discussed above in that they are stored on your computer and can be used to store certain information about your activities and preferences. However, these objects are stored in different parts of your computer from ordinary browser cookies. Your browser may allow you to disable its HTML5 local storage or delete information contained in its HTML5 local storage. For information about deleting information contained in Local Shared Objects or adjusting related preferences, please click [here](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html).
-  * **Web Beacons.** We (or our partners) may use technologies called web beacons that communicate information from your Internet browser to a web server. Web beacons can be embedded in web pages, videos, or emails, and can allow a web server to read certain types of information from your browser, check whether you have viewed a particular web page or email message, and determine, among other things, the time and date on which you viewed the web beacon, the IP address of your computer, and the URL of the web page from which the web beacon was viewed. These web beacons may be used for a variety of purposes, including to analyze the use of the Services and in conjunction with cookies to provide content and ads that are more relevant to you.
+  * Provide products and services you request (such as when you sign up to receive our email newsletters); 
+  * Respond to requests, questions, and comments, and provide other types of user support; 
+  * Offer you products and services, or direct you to portions of this Site or other websites, that we believe may interest you; 
+  * Communicate about, and administer your participation in, events, programs, contests, and other offers or promotions; 
+  * Carry out, evaluate, and improve our business (which may include developing new features for the Site; analyzing and enhancing the user experience on the Site; assessing the effectiveness of our marketing and advertising; and managing our communications); 
+  * Perform data analytics regarding usage of the Site (including market and customer research, trend analysis, financial analysis, and anonymization of personal information); 
+  * Guard against, identify, and prevent fraud and other criminal activity, claims, and other liabilities; and 
+  * Comply with applicable legal requirements, law enforcement requests, and our company policies. 
 
 
 
-## How We May Use and Share the Information We Collect
+#### How We May Share Information
 
-**Providing the Services You Request**
-    We use the information we gather about you to enable your use of the Services, fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling you to participate in and renew paid services, polls, contests, and message boards. We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws. In addition, if you request that we send your information to a third party service, such as for earning rewards points or other benefits, we may do so and use of that information by the third party is subject to their privacy policy.
-**Statistical Analysis**
-    We use the information, including analytics and statistical information, to analyze the use of the Services so that we may improve them. We also use this information to generally inform advertisers about the nature of our user base.
-**Customizing Your Experience**
-    We use the information that we collect to allow advertising to be targeted to the users for whom such advertising is most pertinent. We may also use this information to customize certain features of the Services to provide you with an enhanced experience based on information such as the type of device you are using to access the Services, your activities on the services, or your location or geo-location. We may also use this information to provide you with services you have requested.
-**Service Providers**
-    We may contract with other companies that provide services to us, including credit-card and billing processors, survey administrators, technical or customer support, shipping, e-mail distribution, email service providers, data enhancement and information or analytics providers, list processing and promotions management. Sometimes, we may provide to these service providers aggregate or anonymized information about how users interact with our Services (or other information provided to us by users), which may help them enhance their own products, data or analytics.
-**Our Parent Company**
-    About, Inc. is a wholly-owned subsidiary of IAC and an operating company of Ask.com. We share information we collect with our affiliates (entities that are under common ownership or control) to better understand our users (their demographics, what they do on our Websites, what Website features they like, how they use them, etc.), to serve ads on other IAC websites, and to improve the content and answers delivered on the Services and on affiliate services, such as Ask.com's services.
+Our agents, vendors, consultants, and other service providers may have access to information we collect through the Site to carry out work on our behalf. Those parties are restricted from using personal information collected through the Site for purposes other than to provide the requested assistance. In addition, certain service providers may collect or access information through the Site to enable or provide services, tools, or other features available on the Site. We also may share information: 
 
-## Communication with Guides, Experts and other Contributors to the Services
-
-  * The Services feature content provided by people who are independent contractors and not employees of About, including content provided by contributors including those we call "Experts" or "Guides." If you contact an Expert or Guide (or other contributor) directly by email through the Services (including via an about.com or aboutguide.com email domain) or otherwise then that communication is independent of the Services, and thus not subject to this Privacy Policy. Although About contractually requires its Expert and Guide contributors to maintain information from About users in confidence, About cannot and does not guarantee that they will do so, and is not responsible for what our contributors may say, or how they may use information you have freely provided to them. Likewise, your communications with a contributor are not private or confidential, nor are such communications protected by attorney-client, doctor-patient, or any other privilege. For more information see our [Ethics Policy](http://www.about.com/gi/pages/ethics.htm) and [User Agreement](http://www.about.com/gi/pages/uagree.htm).
+  * With our affiliates for internal business purposes; 
+  * If we are required to do so by law, regulation, or legal process (such as a court order or subpoena); 
+  * In response to requests from government agencies, such as law enforcement authorities; 
+  * If we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual illegal activity; 
+  * With respect to analytics and statistical information, to inform advertisers about the nature of our user base; 
+  * In the event we sell or transfer all or a portion of our business or assets (including a reorganization, dissolution, or liquidation); and 
+  * With your consent or at your discretion. 
 
 
 
-Third parties may collect information about you through the Services, including through use of the technologies for serving relevant ads and other reasons as described above. We may not have access to, nor control over, these third parties' data collection practices and we do not assume any liability related to their collection or use. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our Websites. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content on the Websites or on any other websites on the Internet.
+#### Your Choices
 
-For instance, like many other websites and applications, in addition to our own systems, we may use DoubleClick, DoubleClick Mobile, Google, Google AdMob, nRelate (which is an affiliate of About, Inc.), PubMatic, 24/7 Connect, Krux, Parse.ly, and other third-party Ad Servers, analytics platforms and data management platforms to serve and display Advertisements, or to collect information about you and your use of the Services for other analytics purposes. They may use cookies, pixel trackers, web beacons or other internet or mobile technology to collect non-personal and/or anonymous information about your use of the Services (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) and precise geolocation and user device identification (if you have provided your consent for such collection) during and about your visits to the Websites and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. In certain cases, you have options and choices about the collection and use of information by third parties on our Websites:
+**Unsubscribe from emails.** To unsubscribe from a particular newsletter, click the "unsubscribe" link at the bottom of that email newsletter. If you would like to globally opt-out from all Lifewire email campaigns please send an email to [optout@lifewire.com](mailto:optout@lifewire.com) with "Unsubscribe" in the subject line. When we send newsletters to subscribers we may allow advertisers or partners to include messages in those newsletters, or we may send dedicated newsletters on behalf of those advertisers or partners. We may disclose your opt-out choices to third parties so that they can honor your preferences in accordance with applicable laws. 
 
-  * For more information about these third-party Ad Networks and opting out of tracking through the NAI, visit: <http://www.networkadvertising.org/managing/opt_out.asp>.
-  * For more information about interest-based advertising and opting out through the DAA, visit: <http://www.aboutads.info/choices/>
-  * For more information about disabling and controlling third-party cookies in your browser, visit: <http://www.aboutcookies.org/Default.aspx?page=1>
-  * For more information on nRelate and opting out of browser history tracking, visit: <http://nrelate.com/privacy-policy/>
-  * For more information on PubMatic and opting out of PubMatic's cookie usage, please visit: <http://pubmatic.com/opt-out>
-  * For more information on Parse.ly and opting out of Parse.ly's cookie usage, please visit: <http://www.parsely.com/privacy-policy/>
+**Blocking cookies.** Certain browsers may be configured to notify you when you receive cookies, or allow you to restrict or disable certain cookies. If you choose to disable cookies, however, that could affect certain features of the Site that use cookies to enhance their functionality. 
 
+**Disabling local shared objects (“Flash cookies”).** We may use other kinds of local storage that function similarly, but are stored in different parts of your computer from ordinary browser cookies. Your browser may allow you to disable its HTML5 local storage or delete information contained in its HTML5 local storage. [Click here](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html) for details about deleting information contained in "local shared objects" or adjusting related preferences. 
 
+**Options concerning third-party ad networks.** For more information about third-party ad networks and services that use these technologies, you can visit [www.aboutads.info](http://www.aboutads.info/) and [click here](http://aboutads.info/choices) to opt out or to learn more about your options. You also may visit the [NAI's site for additional options](http://www.networkadvertising.org/choices) on how to opt out of interest-based advertising. 
 
-In addition to the above, we have implemented on our Services certain "Google Analytics" features that support Display Advertising, including re-targeting. Visitors to our Websites may opt out of Google Analytics, customize the Google Display Network ads by using the [Google Ad Preferences Manager](https://www.google.com/settings/u/0/ads/) and learn more about how Google serves ads by viewing its [Customer Ads Help Center](https://support.google.com/ads/?hl=en). If you do not wish to participate in Google Analytics, you may also download the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
+#### How We Protect Personal Information.
 
-## Other Privacy Considerations
+We maintain appropriate administrative, technical, and physical safeguards designed to protect the personal information you provide against accidental, unlawful, or unauthorized destruction, loss, alteration, access, disclosure, or use. That said, it is not possible to guarantee the security of information transmitted online, and you assume some risk with regard to the security of information you provide through any website, including this Site. 
 
-We may transfer your information to a third party if we or any of our affiliates are involved in a transfer or all or part of our business or assets (e.g., a sale, merger, dissolution, liquidation or reorganization) or are taking steps in anticipation of such a transaction (e.g., participating in due diligence).
+#### Links From Lifewire to Other Websites
 
-Do Not Track Browser Disclosure
-    
+On this Site we may provide links to other websites that are controlled by third parties. Linked websites may have their own privacy notices or policies, which we strongly suggest you review. We are not responsible for the content, usage terms, privacy policies, or any other aspects of websites that we do not own or control. 
 
-Do Not Track ("DNT") is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services.
+#### Surveys, Quizzes and Other Features
 
-We are committed to providing you with meaningful choices about the information collected on our Websites for third party purposes, and that is why we provide the NAI "Consumer Opt-out" link and the DAA opt-out link above. However, **we do not recognize or respond to browser-initiated DNT signals** , as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT.
+While you are visiting Lifewire, you may have the opportunity to participate in surveys or quizzes, or to use other interactive features that request information about you and your opinions and preferences. Your participation in these features is entirely voluntary. If you do choose to participate, please be aware that these features may be operated by a third party that is not controlled by Lifewire, and therefore the information you provide may be collected by the third party and subject to its privacy policy. 
 
-Information from Children Under 13
-    We do not knowingly collect any personally identifiable information from children under 13. If we determine that a user is under 13, we will delete all personally identifiable information collected from that user.
-Information from Users Outside of the United States
-    If you are visiting the Services from outside the United States, your data will be transferred to and stored in our servers in the U.S. By using our Services, you consent to our collection and use of your data as described in this privacy policy, and acknowledge that data protection laws in the U.S. may be different or less restrictive than in some other countries.
-Your California Privacy Rights
-     Under the California "Shine The Light" law, California residents may opt-out of the disclosure of personal information to third parties for direct marketing purposes (as those concepts are defined in that law) However, we do not currently engage in the type of sharing covered by that law.
-Compliance With Legal Process
-    We may disclose personal information (1) if we believe such sharing is appropriate to comply with the law or with legal process; (2) to protect and defend our rights, services or property; (3) to protect against misuse or unauthorized use of the Services; or (4) to protect the safety or property of our users or any member of the public (among other things, this means that if we believe you have provided false information or attempted to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
+#### Children’s Privacy
 
-## Contact Information
+This Site is not designed or intended for use by children, and we do not knowingly collect personal information from children under the age of 13. If we become aware that we have collected personal information from a child under the age of 13, we will delete any such information. 
 
-If you have any questions about this Privacy Policy or our privacy practices, please visit us at:
+#### Information for Users Outside the United States
 
-  * <http://www.about.com/gi/pages/pform.htm>
+If you are visiting Lifewire from outside the United States, please be aware that information we collect through the Site will be transferred to and stored on our servers in the United States. By using this Site, you acknowledge and consent to the transfer and processing of your personal data in the United States as described in this online privacy policy. Please be aware that the data protection laws and regulations applicable to your personal data transferred to the United States may be different from the laws in your country of residence. 
 
+#### Our Notice to California Residents
 
+Subject to certain limits, under California law California residents may ask us to provide them with a list of the categories of personal information that we have disclosed to third parties for those third parties’ direct marketing purposes during the preceding calendar year, as well as the identity of those third parties. California residents may contact us as specified in the How to Contact Us section below to make a request for this information. 
 
-Or you can contact us by mail at:
+#### How We’ll Inform You About Changes to This Privacy Policy
 
-_Customer Care  
-About, Inc.  
+We may update this online privacy policy periodically to reflect changes to our privacy practices, such as how we collect or use personal information. We will we indicate at the top of this privacy policy the date when it was most recently updated. 
+
+#### How to Contact Us
+
+If you have questions about this policy or about our privacy practices, you may contact us by emailing [privacy@lifewire.com](mailto:privacy@lifewire.com). If you are a California resident inquiring about your California privacy rights, please include “California privacy rights request” in the subject line of your email. 
+
+You may also write to: 
+
 1500 Broadway, 6th Floor   
-New York, NY 10036_
+New York, NY 10036 
