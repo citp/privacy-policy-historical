@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frappr.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026202359id_/http%3A//www.frappr.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frappr.com privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426054852id_/http%3A//www.frappr.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
