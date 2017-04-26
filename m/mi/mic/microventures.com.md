@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the microventures.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512181822id_/https%3A//microventures.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microventures.com privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426220342id_/https%3A//microventures.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MicroVentures
+# Privacy Policy | Microventures
 
 ### Your Privacy
 
