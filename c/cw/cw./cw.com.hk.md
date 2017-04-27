@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119075627id_/http%3A//www.questex.asia/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427232926id_/http%3A//www.questex.asia/privacy-policy-statement) for the most accurate reproduction.*
 
-# Privacy Policy Statement | Questex Asia | Digital Media | Events | Business Information | Content Marketing & Media
+# Privacy Policy Statement | Questex | Digital Media | Events | Business Information | Content Marketing & Media
 
 We take individual privacy seriously. This privacy policy tells you how we use personal information collected at our websites. Please read this privacy policy before using the site or submitting any personal information. By using Questex websites, you are accepting the practices described in this privacy policy. This Statement explains our policies and practices.
 
