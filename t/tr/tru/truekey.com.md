@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the truekey.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314212716id_/https%3A//www.truekey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truekey.com privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427105817id_/https%3A//www.truekey.com/privacy) for the most accurate reproduction.*
 
-# True Key | The easier, safer way to unlock your digital world
+# True Key | Say goodbye to the hassle of passwords
+
+On May 9, 2016, as part of the transition of McAfee into Intel Security, this Privacy Notice will be replaced with an updated version of the Intel Privacy Notice. Click [here](http://www.mcafee.com/common/privacy/english/index-new.html#ht=tab2) to review the update. Read the [FAQs for the Update of the McAfee Privacy Notice to the Intel Privacy Notice](http://www.mcafee.com/common/privacy/english/faq.html). If you have any questions, please contact [privacy@mcafee.com](mailto:privacy@mcafee.com). 
 
 This Privacy Notice has been updated on November 21st, 2014 to reflect the relationship between Intel Security and McAfee, Inc. The prior update on March 20, 2014 added a link to our new Cookie Notice and made some edits for readability and clarity.
 
@@ -79,15 +81,13 @@ Our security products and services use IP addresses to protect your information,
 
 ### Cookies
 
-We use “cookies” to remember user preferences and to maximize the performance of our website and services. Additionally, cookies help us to identify returning users so, for example, we don’t need to ask them to enter their email and password on every visit.
+  * We use “cookies” to remember user preferences and to maximize the performance of our website and services. Additionally, cookies help us to identify returning users so, for example, we don’t need to ask them to enter their email and password on every visit.
+  * Please note the information gathered by cookies is necessary to provide some of our services, including certain subscriptions. We cannot provide such services to users who do not give their consent to the data processing carried out through cookies or whose browsers are set to reject all cookies. For example, when you purchase a subscription to an online technology, a cookie is set that identifies the software, version, and when it expires. We use this information to alert you that a newer version is available or if your subscription is going to expire.
+  * Cookies may also be used to control the type and frequency of ads, promotions, or other marketing messages the customer views. These ads may be placed by us or third-party advertising companies which are our vendors. We also use “web beacons” (small transparent image files) to count visitors to our sites and analyze how visitors use our sites. The information collected is generally anonymized and is not used to identify any particular user.
+  * We also maintain log files of the traffic on our sites. For example, our servers may automatically record the information you or your browser send when you visit a website. These log files may include information such as your requests, IP address, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your system.
+  * For more information about cookies and how we respond to “do no track” signals, please see our Cookie Notice (<http://www.mcafee.com/common/privacy/english/cookie_notice/>).
 
-Please note the information gathered by cookies is necessary to provide some of our services, including certain subscriptions. We cannot provide such services to users who do not give their consent to the data processing carried out through cookies or whose browsers are set to reject all cookies. For example, when you purchase a subscription to an online technology, a cookie is set that identifies the software, version, and when it expires. We use this information to alert you that a newer version is available or if your subscription is going to expire.
 
-Cookies may also be used to control the type and frequency of ads, promotions, or other marketing messages the customer views. These ads may be placed by us or third-party advertising companies which are our vendors. We also use “web beacons” (small transparent image files) to count visitors to our sites and analyze how visitors use our sites. The information collected is generally anonymized and is not used to identify any particular user.
-
-We also maintain log files of the traffic on our sites. For example, our servers may automatically record the information you or your browser send when you visit a website. These log files may include information such as your requests, IP address, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your system.
-
-For more information about cookies and how we respond to “do no track” signals, please see our Cookie Notice (<http://www.mcafee.com/common/privacy/english/cookie_notice/>). 
 
 ### Use of the Personal Information We Collect
 
@@ -121,7 +121,7 @@ If you install or use one of our products or services, software will operate in 
   * Threat Prevention and Prediction;
   * Network Defense;
   * Data Encryption;
-  * Mobile Device Lockdown; and
+  * Mobile Device Lockdown;
   * Back-up and recovery activities;
   * Product Updating and Reporting
 
@@ -170,9 +170,10 @@ If you chose to no longer receive marketing information, we may still communicat
 
 ### How You Can Access and Correct Inaccuracies
 
-You can access and correct the personal information in your profile by visiting My Account (<https://home.mcafee.com/secure/protected/login.aspx>). Alternatively, you may request reasonable access to your personal information by contacting us as indicated below.
+  * You can access and correct the personal information in your profile by visiting My Account (<https://home.mcafee.com/secure/protected/login.aspx>). Alternatively, you may request reasonable access to your personal information by contacting us as indicated below.
+  * The time periods for which we retain your personal information depend on the purposes for which we use it. We will keep your personal information for as long as you are a registered subscriber or user of our products and, thereafter, for no longer than is required by law, or our Records Retention Policy, reasonably necessary for internal reporting and reconciliation purposes, or to provide you with feedback or information you might request. In certain circumstances, we may be required to retain data we have about you (such as for tax, litigation (threatened, anticipated, or actual), other business purposes, or if required by law enforcement).
 
-The time periods for which we retain your personal information depend on the purposes for which we use it. We will keep your personal information for as long as you are a registered subscriber or user of our products and, thereafter, for no longer than is required by law, or our Records Retention Policy, reasonably necessary for internal reporting and reconciliation purposes, or to provide you with feedback or information you might request. In certain circumstances, we may be required to retain data we have about you (such as for tax, litigation (threatened, anticipated, or actual), other business purposes, or if required by law enforcement).
+
 
 ### Storage of the Information We Collect From You
 
@@ -184,11 +185,11 @@ We may transfer the personal information we obtain to countries other than the c
 
 ### Data Transfer
 
-We may transfer the personal information we obtain to countries other than the country in which the information originally was collected. Those countries may not have as comprehensive data protection laws as the country from which McAfee initially obtained the information. When we transfer the information to other countries, we will protect that information as described in this Privacy Notice.
+  * We may transfer the personal information we obtain to countries other than the country in which the information originally was collected. Those countries may not have as comprehensive data protection laws as the country from which McAfee initially obtained the information. When we transfer the information to other countries, we will protect that information as described in this Privacy Notice.
+  * If you are located in the European Economic Area or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal information to countries outside of the EEA or Switzerland. We are certified under the Safe Harbor Privacy Framework as set forth by the U.S. Department of Commerce, the European Commission and Switzerland regarding the collection, storage, use, transfer, and other processing of personal data transferred from the EEA or Switzerland to the U.S. Click here (<http://safeharbor.export.gov/companyinfo.aspx?id=23562>) to view our Safe Harbor Certification.
+  * We may update this Notice at any time by posting additions or modifications on this web page. If at any point we decide to use personal information in a manner materially different from that stated at the time it was collected, we will notify users by email, via a prominent notice on our website, or other such means. And, where required, we will seek appropriate consent prior to the new use.
 
-If you are located in the European Economic Area or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal information to countries outside of the EEA or Switzerland. We are certified under the Safe Harbor Privacy Framework as set forth by the U.S. Department of Commerce, the European Commission and Switzerland regarding the collection, storage, use, transfer, and other processing of personal data transferred from the EEA or Switzerland to the U.S. Click here (<http://safeharbor.export.gov/companyinfo.aspx?id=23562>) to view our Safe Harbor Certification.
 
-We may update this Notice at any time by posting additions or modifications on this web page. If at any point we decide to use personal information in a manner materially different from that stated at the time it was collected, we will notify users by email, via a prominent notice on our website, or other such means. And, where required, we will seek appropriate consent prior to the new use.
 
 ### Links to Other Websites
 
