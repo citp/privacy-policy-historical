@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downes.ca privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209182003id_/http%3A//www.downes.ca/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downes.ca privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427122550id_/http%3A//www.downes.ca/privacy.htm) for the most accurate reproduction.*
 
 # Privacy and Security ~ Stephen Downes
 
