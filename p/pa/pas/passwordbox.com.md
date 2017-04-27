@@ -1,135 +1,247 @@
-> *The following text is extracted and transformed from the passwordbox.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614080850id_/https%3A//www.passwordbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passwordbox.com privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427105817id_/https%3A//www.truekey.com/privacy) for the most accurate reproduction.*
 
-# Privacy | PasswordBox
+# True Key | Say goodbye to the hassle of passwords
 
-### Thank you for choosing PasswordBox! 
+On May 9, 2016, as part of the transition of McAfee into Intel Security, this Privacy Notice will be replaced with an updated version of the Intel Privacy Notice. Click [here](http://www.mcafee.com/common/privacy/english/index-new.html#ht=tab2) to review the update. Read the [FAQs for the Update of the McAfee Privacy Notice to the Intel Privacy Notice](http://www.mcafee.com/common/privacy/english/faq.html). If you have any questions, please contact [privacy@mcafee.com](mailto:privacy@mcafee.com). 
 
-This privacy policy (the "Privacy Policy") explains the privacy practices of PasswordBox, a product of PasswordBox Inc., a corporation (hereinafter "PasswordBox", "we", "us" or "our") that apply to (i) the access and use of the www.passwordbox.com website, and any related sub-domains, which are operated by PasswordBox (collectively the "Website"), (ii) download and use of our proprietary application (the "PasswordBox Application") and (iii) the provision by PasswordBox of services through the Website and the PasswordBox Application (the "Services").
+This Privacy Notice has been updated on November 21st, 2014 to reflect the relationship between Intel Security and McAfee, Inc. The prior update on March 20, 2014 added a link to our new Cookie Notice and made some edits for readability and clarity.
 
-PASSWORDBOX IS COMMITTED TO MAINTAINING YOUR PRIVACY. PLEASE READ THROUGH ALL THE TERMS OF THIS PRIVACY POLICY SO THAT YOU UNDERSTAND WHAT TYPE OF PERSONAL INFORMATION WE COLLECT, HOW WE COLLECT IT, HOW WE USE IT AND TO WHOM WE DISCLOSE IT. 
+This Notice provides information about data we use for security purposes and our commitment to using the personal data we collect in a respectful fashion.
 
-### PASSWORDBOX GUIDING PRINCIPLES.
+[Click here for our complete notice](http://www.mcafee.com/common/privacy/english)
 
-The passwords you store in your PasswordBox are encrypted on your device using a master password that only you know. Your passwords will be encrypted on your device and will be sent to PasswordBox in encrypted form through a secure connection for storage in order to enable synchronization with your other devices. PasswordBox never stores your master password on any server so your passwords can't be retrieved by anyone but you. When you need to access your passwords the decryption of your passwords is done on your device with your master password. Your passwords can only be accessed by you with your master password unless you decide to share or bequeath passwords with another PasswordBox user. No PasswordBox employee can ever access your passwords. PLEASE NOTE THAT THERE IS NO WAY TO RECOVER YOUR ACCOUNT IF YOU FORGET YOUR MASTER PASSWORD.
+## Privacy Notice
 
-We don't ask for your personal information unless we truly need it. We don’t store your personal information on PasswordBox servers unless required for the on-going operation of one of our Services. Below is our privacy policy which incorporates these principles:
+Intel Security software and services (“Software”) are provided by McAfee, Inc. - a wholly owned subsidiary of Intel Corporation (“we”, “us”, “our”). We care deeply about your privacy and security and your online safety is a significant part of our essential mission. We appreciate your decision to trust us with helping to protect your digital life from theft, disruption, and unauthorized access.
 
-## 1\. CONSENT.
+This Privacy Notice is designed to inform you about how your personal information is collected, managed, and used to:
 
-BY USING OUR WEBSITE OR THE PASSWORDBOX APPLICATION, OR BY SUBMITTING PERSONAL INFORMATION TO US, YOU CONSENT TO PASSWORDBOX'S COLLECTION, USE AND DISCLOSURE OF SUCH PERSONAL INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY (AS AMENDED FROM TIME TO TIME) AND AS PERMITTED OR REQUIRED BY LAW. If you do not agree with the terms of this Privacy Policy, do not provide us with any personal information or use any of the Services we offer on the Website or through the PasswordBox Application. You can withdraw your consent at any time by following the instructions described below in the Section "QUESTIONS".
+  * Safeguard your devices and protect your data;
+  * Personalize and manage our relationship with you;
+  * Investigate, respond, and manage security related incidents and events;
+  * Improve security related products and services; and
+  * Predict future security threats and vulnerabilities.
 
-## 2\. AMENDMENTS AND NOTIFICATION OF PRIVACY POLICY CHANGES. 
 
-We reserve the right to modify our Privacy Policy as necessary and will post a copy of the amended Privacy Policy on the Website. Please review it periodically to ensure that you are aware of any modifications. If we make any significant changes with regard to how we use your personal information, we will notify you in writing via the email address specified in your account or by posting a prominent notice on the Website. Any amendments to the Privacy Policy will be considered accepted by you if you continue to use the Website after any amendments have been posted on the Website. 
 
-## 3\. AN IMPORTANT NOTE FOR PARENTS AND LEGAL GUARDIANS.
+By collecting and processing data, we can help to predict threats and better protect you, your devices, and your information. We would like to help you understand how your data is processed, why it takes data to protect data, and our commitment to using the personal data we collect for the purposes discussed in this Notice. Every time you turn on a device, connect to a network or open a file, you are exposed to significant risk from hackers, spammers, malware, spyware, and other forms of unauthorized access to your data and systems. This is why it is important to use security products and services such as ours to keep you and your data safe. To defend against these threats and the thousands of new threats that emerge each day, our technologies may:
 
-PasswordBox respects the U.S. Children's Online Privacy Protection (COPPA) Act of 1998 and upholds the guidelines of the Children's Advertising Review Unit (CARU) of the Council of Better Business Bureau, Inc. in each of its websites for children. You can help by spending time online with your children and monitoring your children's online use. Please help us protect your child's privacy by instructing them never to provide personal information on this website or any other without your permission.
+  * Analyze data sent to/from your device(s) for risks, threats, vulnerabilities, suspicious activity, and attacks;
+  * Assess the reputation of the sending/receiving device to determine whether access should be allowed or if the transaction should be continued;
+  * Share data with threat intelligence networks to improve our products, services, and overall internet security; and
+  * Adapt responses to new threats based on intelligence collected from your device and our global network.
 
-If you are under the age of 18, please be sure to read this policy with your parents or legal guardians and ask questions about anything you do not understand. Children under the age of 13 (U13) are prohibited from using the Services provided by PasswordBox.
 
-## 4\. INFORMATION COLLECTION. 
 
-PasswordBox only collects personal information provided to us via the Website or the PasswordBox Application during the completion of the registration form, during the use of our Services, during sign-up for our Services or while providing feedback or comments. Collection is limited to the following information: name and email address (i) that we receive from our social networking partners (e.g., such as Facebook, Twitter or Google+) if you have chosen to subscribe to the Services through those partners; and/or (ii) that you have decided to make available to us and your contacts (e.g., pictures, email) either directly or through our social networking partners. This information also helps us communicate with you about your use of the Service, product announcements and software updates, as well as to respond to your requests for assistance. From time to time, we may want to contact you with information about product announcements, software updates and special offers. We also may want to contact you with information about products and services from our business partners.
+### Scope
 
-**Opt-out:** You may opt out of such communications at any time by clicking the "unsubscribe" link found within PasswordBox emails or by contacting [http://customersupport.mcafee.com](http://customersupport.mcafee.com/) directly. 
+This Privacy Notice applies to personal information we obtain from individuals interacting with us and our websites, products, services, and applications. This Notice does not apply to personal information we obtain in our capacity as an employer; employment related data is covered under separate policies and/or notices.
 
-PasswordBox may also collect the following usage information, whether you are using the Website or using the PasswordBox Application as a registered or non-registered user: your IP address, PasswordBox cookie information (see below for more information), the date and time of your visit or use of the PasswordBox Application, the type of internet browser or hardware device (computer or mobile/smartphone) you are using, the URL of any other website that referred you to our Website or the PasswordBox Application, URLs of the pages you visit, your browsing history and your bookmarks in order to provide you with a better user experience. This information is not associated or linked to you as an individual and is not generally regarded as personal information unless you register for our Services. In the event of your registration, that information does become personal information as it is linked with the personal information contained in your account.
+### Notice
 
-PasswordBox may also collect system information to diagnose and debug software issues. We collect a list of all add-ons or extensions that you have installed to Firefox, Chrome, Internet Explorer and Safari browsers in order to detect and solve add-on compatibility issues.
+We provide access to our Privacy Notice by:
 
-We organize usernames, URLs and encrypted passwords of users to allow them to synchronize this data across all their devices and also to share or bequeath passwords if they choose to do so. PasswordBox is not able to access the encrypted passwords because the encryption and the decryption of these passwords occurs on your device with a master password that only you know and PasswordBox never stores your master password on any server.
+  * Linking to it throughout our websites;
+  * Referencing it in our Terms of Use and End User License Agreements; and
+  * Incorporating it into our contracts, agreements, and other documents as necessary or appropriate.
 
-If you choose to use our service to share or bequeath passwords to a friend or to tell a friend (e.g. email a friend) about PasswordBox, we will request your friend’s email address and automatically send your friend an email inviting him/her to visit the site and create an account. PasswordBox stores this information for the sole purpose of sending those emails.
 
-Your friend may contact us at any time via [http://customersupport.mcafee.com](http://customersupport.mcafee.com/) to request that we remove this information from our database. 
 
-## 5\. USE OF THE INFORMATION. 
+### The Information We Collect
 
-PasswordBox uses your personal information to manage your account, to send you information about our Services, to offer you new features or new services, to optimize the Services we already provide to you, to provide updates for the PasswordBox Application and to provide better customer service and experience.
+We collect some information that is personal (i.e., information that identifies an individual either alone or in combination with other data). We also collect non-personal information that does not, on its own, identify an individual person. When non-personal information is combined with other information so that it does identify an individual person, we treat that combination as personally identifiable information.
 
-PasswordBox may also use your personal information for statistical purposes. 
+We obtain personal information when you or someone acting on your behalf provides it to us. We also collect information when you obtain or use our products or services or when you use a device with our products or services installed.
 
-PasswordBox may use usage information (as detailed above) to evaluate and improve the features, guest experience and functionality of the Website and/or the PasswordBox Application. 
+The following are examples of the type of personal information that may be collected directly from you (or someone acting on your behalf):
 
-## 6\. SHARING AND DISCLOSURE.
+  * Contact information (including name, email address, social media ID/handle, mailing address, telephone, and fax number);
+  * Payment information (including payment card and bank account information);
+  * Shipping, billing, and other information provided in connection with the purchase or delivery of our products and services;
+  * Information about transactions with us (such as purchase history) and use of our products and services;
+  * Information provided by you through McAfee-related communication channels such as forums, technical support, and customer service;
+  * Username, password, and other information used to verify identity; and
+  * Photographs, images, biometrics, and related hash values.
+  * Details about your computers, devices, applications, and networks (including IP address, browser characteristics, device ID and characteristics, operating system, system language, and preferences);
+  * Activities on our websites and usage patterns of products and services (including referring URLs, dates and times of website visits, and clickstream data such as information commonly recorded in web server logs);
+  * Details about Internet or network usage (including URLs or domain names of websites you visit, information about applications that attempt to access your network, or traffic data);
+  * Data about files and communications, such as potential malware or spam (which may include computer files, emails and attachments, email addresses, metadata, and traffic data, or portions or hashes -- a hash file is a file that has been converted into a numerical string by a mathematical algorithm -- of any of this information); this may include similar information from third parties interacting with you;
+  * Other information used in the operation of our products and services (including information regarding the number of checked, suspicious, infected, or unwanted files or emails; number of actual infections); and
+  * Information that may be included in a virus or malware sample or a file submitted by you to us for review.
 
-PasswordBox will share your personal information with third parties only in ways that are described in this privacy statement. PasswordBox does not sell, rent or share your personal information with other people, except to:
 
-Members of your social networks or members invited by email (e.g. your network/friends/followers on PasswordBox, Twitter, email, Facebook or Google+) only if you decide to share certain personal information with them via the Services;
 
-Service providers that facilitate our Services, provide any or all part of the Services on our behalf or help us to improve the Services (for example, data storage, web analytics, payment processing and maintenance service providers). These Service providers only have access to the personal information necessary to perform these tasks on our behalf. 
+### IP Addresses
 
-Our advertising partners so they can provide relevant advertisements or promotional materials on or through the Website and/or the PasswordBox Application; and Law Enforcement Officials or Government Agencies (i) in response to an official request; (ii) when permitted or required by law; or (iii) to establish our compliance with applicable laws, rules, regulations or guidelines. 
+An Internet Protocol address (IP address) is a numerical label assigned to each device (e.g., computer, printer, mobile phone, server) participating in a computer network that uses the Internet Protocol for communication. It is how devices find each other on a network.
 
-These providers and partners are prohibited from sharing or selling this information, and may not use this information for any purpose not described in this section. 
+While it is possible that IP addresses can be associated with a single individual’s device, they most often are associated with a group of systems, one system shared by many users, or a gateway into a group of systems or devices. For instance, IP addresses included in an email communication are typically associated with the respective email service provider and not with an individual user’s device.
 
-If PasswordBox merges with another company, is subject to a corporate reorganization, sells or transfers all or part of the Website and/or the PasswordBox Application, its business assets or shares, or in the event of bankruptcy, it is possible that the limited personal information we possess may be sold, transferred or otherwise shared as part of that transaction. PasswordBox may choose to retain a copy of that information post transaction. 
+Our security products and services use IP addresses to protect your information, your devices, and your data. For example, we may detect that a system or a group of systems associated with a particular IP address has been compromised and is sending malware or spam to some of our users. Even without identifying who owns the compromised system or who compromised it, we can assign a score to that IP address to reflect the heightened threat it poses. Our products and services can then divert your traffic away from this IP address or block this IP address from sending malware to your protected device before your device is a victim of an attack.
 
-In choosing to use PasswordBox, you acknowledge that our service providers and/or advertising partners, as well as members of your network who may receive your personal information in accordance with this Privacy Policy or applicable law may be located in countries which have a different level of data protection that in your home country. 
+### Cookies
 
-We may also share with third parties certain aggregated non-personal information about you (such as the type of web browser you use) so as to fully optimize our Services. Third parties are prohibited from sharing or selling this information and may not use this information for any purpose not enumerated in this section. You can opt out of this usage by contacting [http://customersupport.mcafee.com](http://customersupport.mcafee.com/) with your request. 
+  * We use “cookies” to remember user preferences and to maximize the performance of our website and services. Additionally, cookies help us to identify returning users so, for example, we don’t need to ask them to enter their email and password on every visit.
+  * Please note the information gathered by cookies is necessary to provide some of our services, including certain subscriptions. We cannot provide such services to users who do not give their consent to the data processing carried out through cookies or whose browsers are set to reject all cookies. For example, when you purchase a subscription to an online technology, a cookie is set that identifies the software, version, and when it expires. We use this information to alert you that a newer version is available or if your subscription is going to expire.
+  * Cookies may also be used to control the type and frequency of ads, promotions, or other marketing messages the customer views. These ads may be placed by us or third-party advertising companies which are our vendors. We also use “web beacons” (small transparent image files) to count visitors to our sites and analyze how visitors use our sites. The information collected is generally anonymized and is not used to identify any particular user.
+  * We also maintain log files of the traffic on our sites. For example, our servers may automatically record the information you or your browser send when you visit a website. These log files may include information such as your requests, IP address, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your system.
+  * For more information about cookies and how we respond to “do no track” signals, please see our Cookie Notice (<http://www.mcafee.com/common/privacy/english/cookie_notice/>).
 
-## 7\. COOKIES
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a website's computers and stored on your computer's hard drive. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. PasswordBox may set, access or delete certain cookies on your computer for the following reasons:
 
-  * (i) to facilitate your "signing in" on the Website or the PasswordBox Application;
-  * (ii) to provide you with customized content;
-  * (iii) to keep track of preferences you specify while you are using our Services;
-  * (iv) to provide general internal and user analytics;
-  * (v) to conduct research to improve the content of the Website, the PasswordBox Application and the Services; and
-  * (vi) to assist in identifying possible fraudulent activities.
-  * (vii) to log out users from different websites.
+### Use of the Personal Information We Collect
 
+We use the information we collect in ways that serve your security needs and privacy preferences, including to:
 
+  * Provide threat prediction and protection products and services;
+  * Provide security advisories, information, and product updates;
+  * Conduct research and analysis (for example, market and consumer research, security research and analysis, and trend analysis);
+  * Analyze users' behavior when using our products and services to customize preferences;
+  * Establish and manage your accounts with us;
+  * Collect and process payments and complete transactions;
+  * Provide customer support, manage subscriptions, and respond to requests, questions and comments;
+  * Communicate about, and administer participation in, special events, programs, surveys, contests, sweepstakes, and other offers and promotions;
+  * Enable posting on our blogs and other communications;
+  * Customize, measure, and improve our websites, products, services, and advertising;
+  * Analyze and develop new products, services, and websites;
+  * Perform accounting, auditing, billing, reconciliation, and collection activities;
+  * Prevent detect, identify, investigate, respond, and protect against potential or actual claims, liabilities, prohibited behavior, and criminal activity;
+  * Comply with and enforce applicable legal requirements, agreements, and policies; and
+  * Perform other activities consistent with this Notice.
 
-If you configure your browser to reject cookies, you may not be able to use certain or all of our Services.
 
-## 8\. THIRD PARTY COOKIES. 
 
-The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our Privacy Policy. We do not have access to or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to use our Services.
+### Products and Services Data Processing
 
-## 9\. TRACKING TECHNOLOGIES.
+If you install or use one of our products or services, software will operate in the background of your computer system or device environment to perform specific security and privacy tasks including:
 
-We use reputable tools such as Google Analytics, a third-party tracking service, which uses cookies to track non-personally identifiable information about visitors to our site in the aggregate to capture usage and volume statistics. Some of our business partners (e.g., Google Analytics) do use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by PasswordBox only and does not cover the use of cookies by any third-party.
+  * SPAM protection;
+  * Virus protection;
+  * Intrusion detection, prevention, and protection;
+  * Threat Prevention and Prediction;
+  * Network Defense;
+  * Data Encryption;
+  * Mobile Device Lockdown;
+  * Back-up and recovery activities;
+  * Product Updating and Reporting
 
-## 10\. FLASH COOKIES. 
 
-We may use local shared objects, or Flash cookies, to store your preferences or to display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
 
-Flash cookies are different from browser cookies because of the amount and type of data stored as well as how that data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>
+Our products and services may also process certain data to provide updates and reports. These update functions may check your system to see whether files relating to the services need to be refreshed or modernized.
 
-## 11\. EDITING OR CORRECTING YOUR PERSONAL INFORMATION. 
+For example, products and services may transmit report files to McAfee. These files contain information, including the number of checked, suspicious, infected, or unwanted files or emails, the number of infections, the date and hash values of the detected infections, and the number of false negatives/false positives. The purpose of these reports is to analyze the frequency of particular infections or the prevalence of threats. McAfee also uses the information to adapt the product to conform to user preferences based on actual use.
 
-Please notify us if you believe your personal information is inaccurate. 
+We may share personal information with:
 
-You have the right (i) to ask for your personal information to be corrected or updated and (ii) to withdraw your consent to the use of your personal information. To do so, please contact us via [http://customersupport.mcafee.com](http://customersupport.mcafee.com/). 
+  * Other members of the Intel family of companies for the purposes described in this Privacy Notice, such as to: (i) provide services and joint content (e.g., registration, sales, and customer support); (ii) help detect and prevent potentially illegal acts and violations of our policies; and (iii) guide our decisions about our products, services, and communications;
+  * Authorized service providers and partners who perform services for us (including data storage, sales, marketing, fraud investigations, and bill collection) based on our instructions. These third parties may only use or disclose personal information obtained from us to perform services on our behalf or comply with legal obligations;
+  * Third parties with your consent. For example, co-marketing with a business partner or sharing limited information as necessary with researchers and analysts; and
+  * Other business entities legally related to Intel or any third party that may take over all or part of our functions in the future (provided that such party agrees to use such personal information in a manner that is consistent with this Privacy Notice).
 
-Please note that as a result you may not be able to use certain or all of our Services. Please also note that PasswordBox cannot edit the important encrypted passwords because the encryption and the decryption of this passwords occurs on your device with a master password that only you know and PasswordBox never stores your master password on any server. If you lose your master password, PasswordBox will not be able to recover your account. Please don't forget your master password.
 
-## 12\. SECURITY.
 
-We restrict access to personal information to PasswordBox employees and agents who need to know that information in order to operate, develop or improve our Services.
+We may also disclose personal information: (i) if we are required to do so by law or legal process; (ii) in response to requests by government agencies, such as law enforcement authorities or other authorized third-parties; (iii) as may be required for purposes of national security; (iv) when we believe disclosure is necessary and appropriate to prevent physical, mental, financial, or other harm, injury, or loss; or (v) in connection with an investigation of suspected or actual illegal or inappropriate activity or exposure to liability.
 
-We make commercially reasonable efforts to protect against loss, misuse, and alteration of your personal information that is under our control. To protect the confidentiality of your personal information, we take appropriate security measures (including physical security measures) and we operate secure data networks protected by industry standard firewall and password protection systems. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we have received it. Please be aware that despite these precautions, no method of transmission over the Internet, or method of electronic storage, is 100% secure. PasswordBox takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying information but we cannot guarantee its absolute security. If you have any questions regarding the security of the Website or the PasswordBox Application, you can contact us at PasswordBox, 71 Stevenson Street, Suite 400, San Francisco, CA, 94105 or via [http://customersupport.mcafee.com](http://customersupport.mcafee.com/). 
+The Intel family companies may share personal information with each other and use it in a manner that is consistent with this Privacy Notice. We may also combine it with other information to provide and improve our products, services, content, and advertising.
 
-PasswordBox has taken commercially reasonable steps to ensure that its service providers protect the confidentiality and security of your personal information, and to ensure that personal information is processed only for the purposes described in this Privacy Policy.
+When we share personal information with a third party, they must contractually agree to comply with privacy and security standards at least as stringent as ours when we are handling similar data. When you provide data directly to the third party, the processing is based on their standards (which may not be the same as ours) and your own independent relationship with that provider. 
 
-## 13\. ADDITIONAL POLICY INFORMATION. 
+### Your California Privacy Rights - Shine the Light Law
 
-### LINKS TO OTHER SITES. 
+We do not share your personal information with non-affiliated third parties for their own marketing use without your permission.
 
-The PasswordBox Website or the PasswordBox Application includes links to other Websites (e.g. a company blog) whose privacy practices may differ from those of PasswordBox. If you submit personal information to any of those sites, that information will be governed by their Privacy Policy. We encourage you to carefully read the privacy statement of any website you visit.
+### Security
 
-## 14\. LIMITATION OF LIABILITY. 
+We use administrative, organizational, technical, and physical safeguards to protect the personal information we collect and process. Our security controls are designed to maintain an appropriate level of data confidentiality, integrity, and availability. We regularly test our website, data centers, systems, and other assets for security vulnerabilities.
 
-YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS THE TERMS OF SERVICE FOR THE WEBSITE AND THE PASSWORDBOX APPLICATION (INCLUDING THE LIMITATION OF LIABILITY PROVISIONS). 
+We handle payment card data in a manner consistent with the Payment Card Industry’s Data Security Standards (PCI-DSS). For example, when you make a payment on our website using your credit card, we use SSL encryption for transmission of the credit card number.
 
-## 15\. LANGUAGE. 
+### How You Can Manage and Control Your Personal Information
 
-The parties hereto acknowledge having expressly required that this Privacy Policy is to be drawn up in the English language. Les parties aux présentes reconnaissent avoir expressément exigé que la présente Politique relative à la protection des renseignements personnels soit rédigée en anglais.
+We offer certain choices about how we communicate with our users and what personal information we obtain about them. Many of our products allow users to make choices about the personal information collected.
 
-## 16\. QUESTIONS
+  * You may choose not to receive marketing communications from us by clicking on the unsubscribe link or other instructions in our marketing emails, visiting the My Account (<https://home.mcafee.com/secure/protected/login.aspx>) section on our website, or contacting us as specified in the “How to Contact Us” section below. 
+  * Many of our products contain settings that allow users or administrators to control how the products collect information. Please refer to the relevant product manual or contact us through the appropriate technical support channel for assistance.
+  * To remove your personal information from a website testimonial that we control, please contact customer service ([http://service.mcafee.com/CustomerService.aspx?lc=1033&sg=CS&pt=1](http://service.mcafee.com/CustomerService.aspx?lc=1033&sg=CS&pt=1)).
 
-If you have any questions regarding this Privacy Policy, or our privacy practices, we encourage you to contact us at PasswordBox, 71 Stevenson Street, Suite 400, San Francisco, CA, 94105 or via [http://customersupport.mcafee.com](http://customersupport.mcafee.com/). 
+
+
+If you chose to no longer receive marketing information, we may still communicate with you regarding such things as security updates, subscription notices, product functionality, responses to service requests, or other transactional, non-marketing/administrative related purposes.
+
+### How You Can Access and Correct Inaccuracies
+
+  * You can access and correct the personal information in your profile by visiting My Account (<https://home.mcafee.com/secure/protected/login.aspx>). Alternatively, you may request reasonable access to your personal information by contacting us as indicated below.
+  * The time periods for which we retain your personal information depend on the purposes for which we use it. We will keep your personal information for as long as you are a registered subscriber or user of our products and, thereafter, for no longer than is required by law, or our Records Retention Policy, reasonably necessary for internal reporting and reconciliation purposes, or to provide you with feedback or information you might request. In certain circumstances, we may be required to retain data we have about you (such as for tax, litigation (threatened, anticipated, or actual), other business purposes, or if required by law enforcement).
+
+
+
+### Storage of the Information We Collect From You
+
+The information we collect may be stored and processed in servers in the United States and wherever we and our service providers have facilities around the globe.
+
+### Children's Privacy
+
+We may transfer the personal information we obtain to countries other than the country in which the information originally was collected. Those countries may not have as comprehensive data protection laws as the country from which we initially obtained the information. When we transfer the information to other countries, we will protect that information as described in this Privacy Notice.
+
+### Data Transfer
+
+  * We may transfer the personal information we obtain to countries other than the country in which the information originally was collected. Those countries may not have as comprehensive data protection laws as the country from which McAfee initially obtained the information. When we transfer the information to other countries, we will protect that information as described in this Privacy Notice.
+  * If you are located in the European Economic Area or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal information to countries outside of the EEA or Switzerland. We are certified under the Safe Harbor Privacy Framework as set forth by the U.S. Department of Commerce, the European Commission and Switzerland regarding the collection, storage, use, transfer, and other processing of personal data transferred from the EEA or Switzerland to the U.S. Click here (<http://safeharbor.export.gov/companyinfo.aspx?id=23562>) to view our Safe Harbor Certification.
+  * We may update this Notice at any time by posting additions or modifications on this web page. If at any point we decide to use personal information in a manner materially different from that stated at the time it was collected, we will notify users by email, via a prominent notice on our website, or other such means. And, where required, we will seek appropriate consent prior to the new use.
+
+
+
+### Links to Other Websites
+
+Our websites may contain links to other websites for your convenience and information. These websites may be operated by companies not affiliated with us. Linked websites may have their own privacy policies or notices, which we strongly suggest you review if you visit any linked websites. We are not responsible for the content of any websites that are not affiliated with us, any use of those websites, or the privacy practices of those websites.
+
+In certain circumstances, where the information of third parties is collected by us by virtue of the third-party's interaction with you such as the information of those individuals who send communications to your computer), we rely on you to provide the relevant third parties with appropriate notice and to obtain any requisite consent.
+
+### Your Agreement to Our Privacy Notice
+
+You expressly consent to our processing of information as described in this Privacy Notice when you:
+
+  * Visit and/or provide information to us through our websites;
+  * Buy, license, and use our products or services and accept the Terms of Use, End- User License Agreement, and Privacy Notice; or
+  * Sign a contract with us to purchase or subscribe to our products and services.
+
+
+
+In addition, by using and interacting with our products, services, or websites, you affirmatively consent to our collection and processing of personal information: (a) to provide the intended functionality of a product or service; (b) by automated means, such as cookies or web beacons; and (c) in accordance with this Privacy Notice. You also consent to the storage and transfer of the information to locations wherever we and our service providers have facilities, including the United States.
+
+### Contact Us
+
+If you have questions or concerns regarding this Privacy Notice, or would like to update information we have about you or your preferences, please contact us by:
+
+  * Emailing the Privacy Program Office of McAfee, a part of Intel Security at [privacy@mcafee.com](mailto:privacy@mcafee.com)
+  * Calling us at +1 972-963-7902
+  * Writing to us at: Privacy Program Office –McAfee, A Part of Intel Security, 2821 Mission College Blvd Santa Clara, CA 95054
+
+
+
+If you do not receive a prompt response, please contact the Consumer Privacy Response Team of McAfee, part of Intel Security, by
+
+  * Emailing [consumerprivacyresponseteam@mcafee.com](mailto:consumerprivacyresponseteam@mcafee.com) or
+  * Writing to: Consumer Privacy Response Team –McAfee, Part of Intel Security, 5000 Headquarters Drive Plano, Texas 75024
+
+
+
+If you are located in the European Economic Area, please write to:
+
+  * Privacy Program Office –McAfee. Part of Intel Security. 26, Boulevard Royal 2449 Luxembourg, Luxembourg
+
+
+
+In addition to McAfee, Inc., the legal entity with which you have a business relationship is responsible for safeguarding your personal information.
+
+#### For the U.S., Mexico, Central America, South America, and the Caribbean:
+
+McAfee, Inc., 2821 Mission College Blvd., Santa Clara, California 95054
+
+#### For Canada, Europe, the Middle East, Africa, Asia, and the Pacific Rim:
+
+McAfee Security S.A.R.L., 26, Boulevard Royal, 2449 Luxembourg, Luxembourg
+
+#### For Japan:
+
+McAfee Co., Ltd., Shibuya Mark City West Building 12-1, Dogenzaka 1-Chrome, Shibuya-ku, Tokyo 150-0043, Japan
