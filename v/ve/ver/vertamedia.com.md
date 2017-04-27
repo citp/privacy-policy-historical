@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vertamedia.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611154334id_/https%3A//vertamedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertamedia.com privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427123041id_/https%3A//vertamedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
