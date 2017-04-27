@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the woozworld.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227175804id_/http%3A//www.woozworld.com/community/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woozworld.com privacy policy that was archived on 2017-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170428000644id_/http%3A//www.woozworld.com/community/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Woozworld News
 
-Document revised: September 20, 2016
+Document revised: March 21st, 2017
 
-Revised document #14
+Revised document #15
 
 ## **1.**   **Introduction**
 
@@ -65,7 +65,7 @@ We are always working on new ideas to make the Website even more fun. We may se
 
 ## **5.** **Cookies, IP Addresses and Clear GIFs**
 
-A ****_cookie_**** is a small file that we save on your computer’s hard drive and that contains non-personal information. Cookies help to give you faster access to pages you have already visited and allow you to personalize your pages. They help you to participate in some activities or events on the Website. If you leave the Website and return, cookies allow us to quickly display your collected items and game progress upon your return. We also use cookies to help us count the number of visits on the Website, track which sections of the Website are most visited and find out the length of time spent in the different sections. This information helps us understand which sections and features are appreciated or need improvement. Woozworld does not use cookies for direct marketing, behavioral advertising or promotional purposes and cookies are not used to collect and share with third parties any PII.
+A ****_cookie_**** is a small file that we save on your computer’s hard drive and that contains non-personal information. Cookies help to give you faster access to pages you have already visited and allow you to personalize your pages. They help you to participate in some activities or events on the Website. If you leave the Website and return, cookies allow us to quickly display your collected items and game progress upon your return. We also use cookies to help us count the number of visits on the Website, track which sections of the Website are most visited and find out the length of time spent in the different sections. This information helps us understand which sections and features are appreciated or need improvement. Woozworld does not use cookies for direct marketing, behavioral advertising or promotional purposes and cookies are not used to collect and share with third parties any PII for any users under the age of 13 in the United States. If you are a parent in the US and suspect that your child has falsely declared his age, please contact us immediately. If you wish to know more about web browsing activities and how to opt-out of interstest-based advertising, please visit this page : <http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options>
 
 We collect ****_Internet protocol (“IP”) addresses_**** , which is the automatic number assigned to your computer when you surf on Internet. We may use your IP address (i) to gather statistics on geographical distribution of our users, (ii) as a geographic filter for specific features or offers per location or (iii) to help us investigate in the case of bad behavior like account theft, hacking or bullying, and provide the information to authorities in the case of a police investigation for a serious crime.
 
@@ -116,7 +116,3 @@ Attention of Privacy Coordinator
 Montreal (Quebec) H2S 1B1
 
 Canada
-
-Tel.: +1 (514) 281-8999
-
-Fax: +1 (514) 281-5557
