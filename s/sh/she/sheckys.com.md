@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheckys.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025172019id_/http%3A//www.sheckys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheckys.com privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427035335id_/http%3A//www.sheckys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Las Vegas Escorts
 
