@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postloop.com privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803202132id_/http%3A//www.postloop.com/pages/terms%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postloop.com privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427124958id_/http%3A//www.postloop.com/pages/terms%23privacy) for the most accurate reproduction.*
 
 # Terms & Conditions | Postloop Forum Post Exchange and Blog Comment Exchange
 
@@ -57,7 +57,7 @@ The following rules apply to the buying of points ("Deposits") via Postloop.
   
 
 
-  * Points are only to be purchased from Royal Media, LLC via Postloop.com.
+  * Points are only to be purchased from Ionicware, Inc via Postloop.com.
   * Most deposits are received and processed immediately, although some deposits are held for manual review by Postloop management. If your deposit is held for manual review, your payment from PayPal will be processed immediately, but you will not receive your points at Postloop until approved by Postloop staff. This will usually happen within a few hours but may be up to 24 hours depending on time of day.
   * Postloop management reserves the right to refuse any purchase with or without cause. If a purchase is refused, payment will be returned.
   * Refunds are not allowed under **any** circumstances. It is your responsibility to review all Terms & Conditions stated herein and monitor your own forums accordingly.
@@ -73,7 +73,7 @@ The following rules apply to the selling of points ("Withdrawals") via Postloop.
   
 
 
-  * Points are only to be sold to Royal Media, LLC via Postloop.com.
+  * Points are only to be sold to Ionicware, Inc via Postloop.com.
   * **Payment will not be issued immediately.** All withdrawal requests undergo review by Postloop staff. This will usually be completed within a few hours but can take up to 24 hours depending on circumstances and time of day.
   * Your points balance will be subtracted from immediately, before you receive payment.
   * Postloop management reserves the right to refuse any withdrawal request with or without cause. In the event that a withdrawal request is denied, any points removed during your request will be returned.
