@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nabo.com.au privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224105040id_/https%3A//help.nabo.com.au/hc/en-us/articles/201654869-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabo.com.au privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427134924id_/https%3A//help.nabo.com.au/hc/en-us/articles/201654869-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy – Nabo
 
@@ -82,7 +82,7 @@ Other than as outlined above, Nabo will not disclose your personal information w
 
 Protecting personal information we receive from you is of crucial importance to Nabo. While there is always some risk involved with transmitting information over the internet, we strive to protect against the misuse of any personal information that we receive from you via our website.
 
-Nabo data is protected by industry standard encryption This technology ensures the safe transmission of all data, including personal information. By taking such measures, Nabo customers can feel secure in the knowledge that their data is protected.
+Nabo data is protected by industry standard encryption. This technology ensures the safe transmission of all data, including personal information. By taking such measures, Nabo customers can feel secure in the knowledge that their data is protected.
 
 **Address Verification Process**
 
@@ -92,7 +92,7 @@ Nabo may share your verification information with third party vendors to help co
 
 Member Profile Information
 
-Nabo allows you to create a personal profile and share information such as your phone number, photo, occupation, family members, biography and personal interests. We may give you ways to hide some of this profile information, but as a minimum you first name and first letter of your last name as well as your street address may be visible to your neighbours. Irrespective of your subscriptions to nearby suburbs, neighbours outside your suburb cannot see your personal profile. If you are the subject of an unauthorised profile, please [contact us](https://web.archive.org/hc/en-us/requests/new).
+Nabo allows you to create a personal profile and share information such as your phone number, photo, occupation, family members, biography and personal interests. We may give you ways to hide some of this profile information, but as a minimum your first name and first letter of your last name as well as your street address may be visible to your neighbours. Irrespective of your subscriptions to nearby suburbs, neighbours outside your suburb cannot see your personal profile. If you are the subject of an unauthorised profile, please [contact us](https://web.archive.org/hc/en-us/requests/new).
 
 Communications with Neighbours
 
