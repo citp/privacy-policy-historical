@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alterian.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116175516id_/http%3A//www.alterian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alterian.com privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427031442id_/http%3A//www.alterian.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ALTERIAN
 
@@ -49,7 +49,7 @@ For the same reason, we may obtain information about your general internet usage
 
 If you don’t want us to use cookies when you use the website, you can adjust your internet browser settings not to accept cookies. Your web browser’s help function should tell you how to do this.
 
-Alternatively, you can find information about how to do this for all the commonly used internet browsers on the website: [www.aboutcookies.org](https://web.archive.org/web/20161116175516id_/http://www.alterian.com/privacy-policy/www.aboutcookies.org), it also explains how you can delete cookies which are already stored on your device. Please note however that turning off cookies will restrict your use of our website.
+Alternatively, you can find information about how to do this for all the commonly used internet browsers on the website: [www.aboutcookies.org](https://web.archive.org/web/20170427031442id_/http://www.alterian.com/privacy-policy/www.aboutcookies.org), it also explains how you can delete cookies which are already stored on your device. Please note however that turning off cookies will restrict your use of our website.
 
 By continuing to use this website you are agreeing to the use of cookies as detailed above.
 
