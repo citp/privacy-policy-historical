@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sikhphilosophy.net privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227144221id_/http%3A//www.sikhphilosophy.net/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sikhphilosophy.net privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427183128id_/http%3A//www.sikhphilosophy.net/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sikh Philosophy Network
 
@@ -8,7 +8,7 @@
 
 Register and Join the most happening forum of Sikh community & intellectuals from around the world.
 
-[Sign Up Now!](https://web.archive.org/web/20161227144221id_/http%3A//www.sikhphilosophy.net/help/index.php?register)
+[Sign Up Now!](https://web.archive.org/web/20170427183128id_/http%3A//www.sikhphilosophy.net/help/index.php?register)
 
   
 **Privacy Policy**
