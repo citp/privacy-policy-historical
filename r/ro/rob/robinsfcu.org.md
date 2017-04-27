@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the robinsfcu.org privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420010759id_/https%3A//www.robinsfcu.org/sites/PDF/Disclosures/2016_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robinsfcu.org privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427065029id_/https%3A//www.robinsfcu.org/sites/PDF/Disclosures/2016_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                                                              Rev [01/2016]
+                                                                                                                              Rev [07/2016]
                            WHAT DOES ROBINS FINANCIAL CREDIT UNION DO
   FACTS                    WITH YOUR PERSONAL INFORMATION?
                            Financial companies choose how they share your personal information. Federal law gives
