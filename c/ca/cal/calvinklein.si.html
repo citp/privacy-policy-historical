@@ -1,0 +1,3197 @@
+<!--The following is the downloaded HTML source of the calvinklein.si privacy policy that was archived on 2017-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170427151447id_/http%3A//www.calvinklein.si/terms-and-conditions%23privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" xml:lang="en"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta name="robots" content="noodp,noydir,index,follow,archive">
+	
+	<link rel="canonical" href="http://www.calvinklein.si/terms-and-conditions">
+	<!-- Include style files --><!-- BEGIN CoreMediaHead.jspf -->
+
+<link rel="stylesheet" href="/resource/css/203800/ce4b84209f1aafaa92163304fabef1b4/calvinklein-en-sv.css">
+<script src="//tags.tiqcdn.com/utag/pvh/calvinklein-eu/dev/utag.js" type="text/javascript" async=""></script><script src="/resource/js/203800/4a5f595246f4365e2cb6e5ebeb739592/calvinklein-en-sv.js"></script>
+
+
+<meta name="coremedia_content_id" content="203526">
+<!-- END CoreMediaHead.jspf -->
+
+<link rel="stylesheet" href="/wcsstore/PVHStoreFrontAssetStore/assets/themes/ck/css/style-desktop.css" type="text/css">
+
+ 
+<!-- Include script files --><!--Tealium Include -->
+	  <script src="//tags.tiqcdn.com/utag/pvh/calvinklein-eu/dev/utag.sync.js"></script>
+	
+
+<script type="text/javascript">
+window.remodalGlobals = {
+	namespace: "remodal",
+	defaults: {
+		hashTracking: false,
+		closeOnConfirm: false,
+		closeOnCancel: false,
+		closeOnEscape: false,
+		closeOnAnyClick: false,
+		closeAriaLabel: "Close"
+	}
+};
+</script>
+
+<script>
+	
+	if (console && !console.hasOwnProperty('debug')) {
+		console.debug = function() {};
+	} else if (!console) {
+		console = {
+			debug: function() {},
+			log: function() {}
+		}
+	}
+	
+	var imageErrorReplacement = function(image, url) {
+
+		var originalSrc = image.src;
+
+		image.onerror = "";
+		image.src = "/wcsstore/PVHStoreFrontAssetStore/assets/themes/ck/images/" + url;
+		image.srcset = "";
+		if (image.dataset && typeof image.dataset == 'object') image.dataset.originalImage = originalSrc;
+		return true;
+
+	};
+	
+	function formatClientDate (format) {
+	    var date = this;
+	    if ("undefined" === format)
+	      format="yyyy-MM-ddTHH:mm:ss.SSS";               
+	 
+	    var date = new Date();
+	    var month = date.getMonth() + 1;
+	    var year = date.getFullYear();    
+	 
+	    format = format.replace("MM",("0" + month.toString()).slice(-2));        
+	 
+	    if (format.indexOf("yyyy") > -1)
+	        format = format.replace("yyyy",year.toString());
+	    else if (format.indexOf("yy") > -1)
+	        format = format.replace("yy",year.toString().substr(2,2));
+	 
+	    format = format.replace("dd",("0" + date.getDate().toString()).slice(-2));
+	 
+	    var hours = date.getHours();       
+	    if (format.indexOf("t") > -1)
+	    {
+	       if (hours > 11)
+	        format = format.replace("t","pm")
+	       else
+	        format = format.replace("t","am")
+	    }
+	    if (format.indexOf("HH") > -1)
+	        format = format.replace("HH",("0" + hours.toString()).slice(-2));
+	    if (format.indexOf("hh") > -1) {
+	        if (hours > 12) hours - 12;
+	        if (hours == 0) hours = 12;
+	        format = format.replace("hh",("0" + hours.toString()).slice(-2));        
+	    }
+	    if (format.indexOf("mm") > -1)
+	       format = format.replace("mm",("0" + date.getMinutes().toString()).slice(-2));
+	    if (format.indexOf("ss") > -1)
+	       format = format.replace("ss",("0" + date.getSeconds().toString()).slice(-2));
+	    if (format.indexOf("SSS") > -1)
+	        format = format.replace("SSS",("00" + date.getMilliseconds().toString()).slice(-3));
+	    return format;
+	}
+
+</script>
+
+
+
+	<script src="/wcsstore/PVHStoreFrontAssetStore/assets/js/lib/require.js"></script>
+
+
+
+		<script>
+		//Set the Require paths to use the correct assets directory
+		//containing the build number to prevent mixed versions due
+		//to caching.
+		require.config({
+
+			baseUrl: '/wcsstore/PVHStoreFrontAssetStore/assets/js/dist',
+			waitSeconds : 30,
+			paths: {
+				jquery: [
+					'//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min',
+					'/wcsstore/PVHStoreFrontAssetStore/assets/js/lib/jquery/dist/jquery.min'
+				],
+				underscore: '/wcsstore/PVHStoreFrontAssetStore/assets/js/lib/underscore/underscore-min',
+				mmenu: '/wcsstore/PVHStoreFrontAssetStore/assets/js/lib/mmenu/dist/js/jquery.mmenu.all.min.umd',
+				chosen: '/wcsstore/PVHStoreFrontAssetStore/assets/js/lib/chosen/chosen.jquery',
+				remodal: '/wcsstore/PVHStoreFrontAssetStore/assets/js/lib/remodal/dist/jquery.remodal.min',
+				text: '/wcsstore/PVHStoreFrontAssetStore/assets/js/lib/text/text',
+				qurl: '/wcsstore/PVHStoreFrontAssetStore/assets/js/lib/qurl/qurl',
+				json: '/wcsstore/PVHStoreFrontAssetStore/assets/js/lib/requirejs-plugins/src/json',
+				decimal: '/wcsstore/PVHStoreFrontAssetStore/assets/js/lib/decimal.js/decimal.min',
+				customScrollbar: '/wcsstore/PVHStoreFrontAssetStore/assets/js/lib/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.amd',
+				'js.cookie': '/wcsstore/PVHStoreFrontAssetStore/assets/js/lib/js.cookie',
+				nouislider: '/wcsstore/PVHStoreFrontAssetStore/assets/js/lib/nouislider/distribute/nouislider.min',
+				'jquery-resize': '/wcsstore/PVHStoreFrontAssetStore/assets/js/lib/jquery-resize/jquery-resize',
+				templates: '/wcsstore/PVHStoreFrontAssetStore/assets/js/templates',
+				tooltipster: '/wcsstore/PVHStoreFrontAssetStore/assets/js/lib/tooltipster/dist/js/tooltipster.bundle.min',
+				slickCarousel: '/wcsstore/PVHStoreFrontAssetStore/assets/js/lib/slick-carousel/slick/slick.min',
+				data: '/wcsstore/PVHStoreFrontAssetStore/assets/js/data'
+			},
+
+			shim: {
+				mmenu: ['common/util/jqueryPrivate'],
+				chosen: ['common/util/jqueryPrivate'],
+				remodal: ['common/util/jqueryPrivate'],
+				customScrollbar: ['common/util/jqueryPrivate'],
+				tooltipster: ['common/util/jqueryPrivate'],
+				slickCarousel: ['common/util/jqueryPrivate']
+			},
+
+			map: {
+				'*': {
+					'jquery': 'common/util/jqueryPrivate',
+					'jQuery': 'common/util/jqueryPrivate',
+					'asyncReady': 'common/util/asyncDocumentReady',
+					'jqueryPrivate': 'common/util/jqueryPrivate'
+				},
+				'common/util/jqueryPrivate': {
+					'jquery': 'jquery'
+				}
+			},
+
+			
+				bundles: {
+					common: [
+						'common/event/eventBroker',
+						'common/i18n/storeTextCache',
+						'common/util/asyncDocumentReady',
+						'common/util/device',
+						'common/util/eventChannel',
+						'common/util/index',
+						'common/util/helpers',
+						'common/util/jQueryMatchers',
+						'common/util/jqueryPrivate',
+						'common/util/logger',
+						'common/util/noOpLogger',
+						'common/util/redirect',
+						'common/util/semantics',
+						'common/util/translation',
+						'common/util/url',
+						'common/util/validation',
+						'common/util/validationHelpers',
+						'common/image/lazyImage'
+					],
+					layout: [
+						'modules/checkout/newsLetter',
+						'modules/components/panelSlider',
+					
+						'modules/header/basketCarousel',
+						'modules/header/cookieNotice',
+						'modules/header/headerSpacing',
+						'modules/header/login',
+						'modules/header/loginRegistrationUtils',
+						'modules/header/orderTracking',
+						'modules/header/registration',
+						'modules/header/secureLoginHandler',
+						'modules/headerGeneral',
+						'modules/footer',
+						'modules/footer/newsletterFormWidget',
+						'modules/localeSelect',
+						'modules/storeLocatorWidget'
+					]
+				},
+			
+
+			config: {
+				'common/util/device': {
+					isMobile: false,
+					isTablet: false
+				}
+			}
+
+		});
+
+			var WCParamJS = {
+				"storeId":'20025',
+				"catalogId":'10188',
+				"langId":'44',
+				"pageView":'',
+				"orderBy":'',
+				"orderByContent":'',
+				"searchTerm":'',
+				"homePageURL" : 'http://www.calvinklein.si',
+				"commandContextCurrency": "EUR",
+				"newsLetterOnOff": 'True',
+				"brandIdentifier": 'CK'
+			};
+		</script>
+
+	
+
+	<script>
+	require(['main', 'common/i18n/storeTextCache'], function(main, storeTextCache) {
+
+		storeTextCache.set({
+
+			SERVER_ERROR: "There has been an error on the server, please try again.",
+			EMAIL_INVALID: "The email is invalid.",
+			PASSWORDS_DO_NOT_MATCH: "Password and confirmation do not match.",
+			PASSWORD_INVALID: "The password is invalid.",
+			CONFIRM_NEW_PASSWORD: "Confirm new password.",
+			FIELD_REQUIRED: "Field is required",
+			EMAIL_TOO_LONG: "The email address cannot be longer than 40 characters"
+
+		});
+
+	});
+
+	</script>
+
+	
+		<script type="text/javascript">
+			var s = {};
+
+			require(['js.cookie'], function (cookie) {
+				var analyticsCookieValue =  cookie.get('analyticsCookie');
+
+				if(typeof analyticsCookieValue !== 'undefined') {
+					var splittedValues = analyticsCookieValue.split(",");
+					if(null != splittedValues[0] && splittedValues[0] == 'login') {
+						if(s.events !== undefined && s.events !== "") {
+							s.events = s.events + ",event7";
+						} else {
+							s.events = "event7";
+						}
+						s.eVar10 = "Repeat";
+						if(null != splittedValues[1])
+							s.eVar17 = splittedValues[1];
+						if(null != splittedValues[2])
+							s.eVar28 = splittedValues[2];
+					}
+
+					if(null != splittedValues[0] && splittedValues[0] == 'register') {
+						if(s.events !== undefined && s.events !== "") {
+							s.events = s.events + ",event11";
+						} else {
+							s.events = "event11";
+						}
+					}
+
+					if(null != splittedValues[0] && splittedValues[0] == 'addToBag') {
+						if(s.events !== undefined && s.events !== "") {
+							s.events = s.events + ",scAdd";
+						} else {
+							s.events = "scAdd";
+						}
+						s.eVar9 = "Shopping Bag";
+					}
+
+					cookie.remove('analyticsCookie');
+				}
+			});
+
+		</script>
+	<!-- END CommonJSToInclude.jspf -->
+	
+
+	<script type="text/javascript">
+	
+	</script>
+	<!-- No java script files will be included dynamically for this layout -->
+
+		
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>TermsConditions at CalvinKleinSI</title>
+	<meta name="description" content="Terms Conditions at CalvinKleinSI">
+	<meta name="keywords" content="Terms Conditions at CalvinKleinSI">
+	<meta name="pageIdentifier" content="TermsConditions">	
+	<meta name="pageId" content="1229">
+	<meta name="pageGroup" content="Content">
+
+
+                    <script async="" src="https://ds-aksb-a.akamaihd.net/aksb.min.js"></script><script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"351045",ustr:"",originlat:"0",clientrtt:"2",ghostip:"23.220.148.118",ipv6:false,pct:"10",clientip:"54.165.90.203",requestid:"331c8344",region:"20449",protocol:"",blver:13,akM:"dscb",akN:"ae",akTT:"O",akTX:"1",akTI:"331c8344",ai:"348471",ra:"false",pmgn:"",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>
+                    <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="main" src="/wcsstore/PVHStoreFrontAssetStore/assets/js/dist/main.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="common/i18n/storeTextCache" src="/wcsstore/PVHStoreFrontAssetStore/assets/js/dist/common.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="js.cookie" src="/wcsstore/PVHStoreFrontAssetStore/assets/js/lib/js.cookie.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="modules/header/cookieNotice" src="/wcsstore/PVHStoreFrontAssetStore/assets/js/dist/layout.js"></script></head>
+
+	<body>
+		<!-- BEGIN CommonJSPFToInclude.jspf --><!-- END CommonJSPFToInclude.jspf --><!-- BEGIN LayoutPreviewSetup.jspf--><!-- layoutPreviewLayoutId/Name/Default needs to be set before calling widgetImport  --><!-- END LayoutPreviewSetup.jspf-->
+		
+		<div id="page">
+			<a name="#top"></a>
+			<div id="headerWrapper">
+				<!-- BEGIN Header.jsp --><!-- BEGIN CSRHeaderData.jsp --><!-- ENd CSRHeaderData.jsp -->
+<script>var isGuest = true;</script>
+
+<script>
+	// Convert the WCParam object which contains request properties into javascript object for CSR
+	var CSRWCParamJS = {
+		"env_shopOnBehalfSessionEstablished" : 'false',
+		"env_shopOnBehalfEnabled_CSR" : 'false'
+	};
+</script>
+
+<!-- TEMP DEBUG CSR flags remove when we are happy it is all working
+CommandContext.forUserId:
+CommandContext.callerId:-1002
+env_OnBehalfOf:false
+env_useExternalCart:false
+env_browseOnly:false
+env_shopOnBehalfEnabled_CSR:false
+env_shopOnBehalfEnabled:false
+env_shopOnBehalfSessionEstablished:false
+env_buyOnBehalfAdminUserId:
+env_buyOnBehalfUserId:
+wcOnbehalfRoleCookieName:
+wcOnbehalfRoleCookieVal:
+userDisplayName:
+
+ -->	
+
+<div class="cookieNoticeWrapper">
+	<div class="cookieNotice contentWrapper" hidden="">
+		<div class="cookieNoticeTitle">
+			<h4>Privacy and cookie policy</h4>
+		</div>
+		<div class="cookieNoticeContent">
+			
+			<p>
+				In order to give you a better service, this website uses cookies. By continuing to browse the site you are agreeing to our <a href="http://www.calvinklein.si/terms-and-conditions#privacy" target="_blank">Privacy and Cookies Policy</a>.
+			</p>
+			<button class="cookieNoticeAccept">I agree</button>
+			<button class="cookieNoticeClose" aria-label="Close">Close</button>
+		</div>
+	</div>
+</div>
+
+<script>
+require(['asyncReady', 'modules/header/cookieNotice'], function(asyncReady, CookieNotice) {
+	asyncReady(CookieNotice.init.bind(CookieNotice, {
+		context: document
+	}));
+});
+</script>
+
+<h2 class="access">Page header &amp; quickjump links</h2>
+
+<header class="siteHeader" role="banner" id="header">
+	
+
+	<div class="headerRow1">
+		<h2 class="access">Handy sections</h2>
+		<div class="topHeaderMenu contentWrapper">
+			<div class="col">
+				<div class="inlineCol">
+					<a class="topHeaderButton" href="#" data-target="storeCurrency">
+						SI/EUR (€)
+					</a>
+				</div>
+				<div class="inlineCol">
+					
+
+								<a class="topHeaderButton" href="http://explore.calvinklein.com/storelocator">
+									Stores
+								</a>
+
+							
+				</div>
+				<div class="inlineCol">
+					<a href="#" class="topHeaderButton customerServiceButton">
+						Track your order
+					</a>
+				</div>
+			</div>
+
+			<div class="col">
+
+			</div>
+
+			<div class="col">
+				<div class="top">
+
+				    
+                        <div class="inlineCol">
+                            <a href="javascript:void(0);" class="newsLetterSignup" data-target="newsLetterSignup">
+                                Sign up for Newsletter
+                            </a>
+                        </div>
+                    
+							<div class="inlineCol">
+								<a href="javascript:void(0);" class="signInHeaderButton" data-target="registerDropdown">
+									Sign In / Register
+								</a>
+							</div>
+
+						
+
+					<div class="inlineCol headerShoppingCartInlineCol">
+						<a href="https://www.calvinklein.si/OrderItemDisplay?catalogId=10188&amp;langId=44&amp;storeId=20025" class="topHeaderMenu headerShoppingCart">
+							<span class="basketAmount"></span>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="headerSlidingDropDown primary">
+
+		<div class="storeCurrency dropdown">
+			<!-- BEGIN LanguageCurrency.jsp -->
+
+<div>
+	<div class="contentWrapper">
+		<a href="#" class="close" aria-label="Close"></a>
+
+		<div id="localeSelect">
+
+			<h3>
+				Select your country
+			</h3>
+
+			<div class="localeSelectStoreCountry">
+
+				<label for="localeSelectStore_country">
+					<span>
+						Choose a country
+					</span>
+
+					<select name="country" id="localeSelectStore_country">
+						<option value="" disabled="">ONLINE STORES</option>
+
+						
+							<option value="AT/EUR (€)">Österreich ( € )</option>
+						
+							<option value="BE/EUR (€)" selected="">België ( € )</option>
+						
+							<option value="BG/EUR (€)">Bulgaria ( € )</option>
+						
+							<option value="HR/EUR (€)">Hrvatska ( € )</option>
+						
+							<option value="CZ/EUR (€)">Česko ( € )</option>
+						
+							<option value="DK/EUR (€)">Danmark ( € )</option>
+						
+							<option value="EE/EUR (€)">Eesti ( € )</option>
+						
+							<option value="FI/EUR (€)">Suomi ( € )</option>
+						
+							<option value="FR/EUR (€)">France ( € )</option>
+						
+							<option value="DE/EUR (€)" selected="">Deutschland ( € )</option>
+						
+							<option value="HU/EUR (€)">Magyarország ( € )</option>
+						
+							<option value="IE/EUR (€)">Ireland ( € )</option>
+						
+							<option value="IT/EUR (€)">Italia ( € )</option>
+						
+							<option value="LV/EUR (€)">Latvija ( € )</option>
+						
+							<option value="LT/EUR (€)">Lietuva ( € )</option>
+						
+							<option value="LU/EUR (€)">Luxembourg ( € )</option>
+						
+							<option value="NL/EUR (€)">Nederland ( € )</option>
+						
+							<option value="PL/PLN (zł)">Polska ( zł )</option>
+						
+							<option value="PT/EUR (€)">Portugal ( € )</option>
+						
+							<option value="RO/EUR (€)">România ( € )</option>
+						
+							<option value="SK/EUR (€)">Slovensko ( € )</option>
+						
+							<option value="SI/EUR (€)">Slovenija ( € )</option>
+						
+							<option value="ES/EUR (€)">España ( € )</option>
+						
+							<option value="SE/kr">Sveirge ( kr )</option>
+						
+							<option value="CH/CHF (CHF)">Schweiz ( CHF )</option>
+						
+							<option value="UK/GBP (£)">United Kingdom ( £ )</option>
+						
+
+					</select>
+
+				</label>
+			</div>
+
+			<div class="localeSelectStoreLanguage">
+
+				
+							<label for="localeSelectStore_store" data-country="AT/EUR (€)" hidden="">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinAT_de_DE">Deutsch</option>
+									
+										<option value="CalvinKleinAT_de_DE">Deutsch</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="BE/EUR (€)">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinBE_nl_NL">Vlaams</option>
+									
+										<option value="CalvinKleinBE_nl_NL">Vlaams</option>
+									
+										<option value="CalvinKleinBE_fr_FR" selected="">Français</option>
+									
+										<option value="CalvinKleinBE_fr_FR">Français</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="BG/EUR (€)" hidden="">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinBG_en_GB">English</option>
+									
+										<option value="CalvinKleinBG_en_GB">English</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="HR/EUR (€)" hidden="">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinHR_en_GB">English</option>
+									
+										<option value="CalvinKleinHR_en_GB">English</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="CZ/EUR (€)" hidden="">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinCZ_en_GB">English</option>
+									
+										<option value="CalvinKleinCZ_en_GB">English</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="DK/EUR (€)" hidden="">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinDK_en_GB">English</option>
+									
+										<option value="CalvinKleinDK_en_GB">English</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="EE/EUR (€)" hidden="">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinEE_en_GB">English</option>
+									
+										<option value="CalvinKleinEE_en_GB">English</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="FI/EUR (€)" hidden="">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinFI_en_GB">English</option>
+									
+										<option value="CalvinKleinFI_en_GB">English</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="FR/EUR (€)" hidden="">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinFR_fr_FR">Français</option>
+									
+										<option value="CalvinKleinFR_fr_FR">Français</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="DE/EUR (€)">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinDE_de_DE">Deutsch</option>
+									
+										<option value="CalvinKleinDE_de_DE" selected="">Deutsch</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="HU/EUR (€)" hidden="">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinHU_en_GB">English</option>
+									
+										<option value="CalvinKleinHU_en_GB">English</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="IE/EUR (€)" hidden="">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinIE_en_GB">English</option>
+									
+										<option value="CalvinKleinIE_en_GB">English</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="IT/EUR (€)" hidden="">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinIT_it_IT">Italiano</option>
+									
+										<option value="CalvinKleinIT_it_IT">Italiano</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="LV/EUR (€)" hidden="">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinLV_en_GB">English</option>
+									
+										<option value="CalvinKleinLV_en_GB">English</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="LT/EUR (€)" hidden="">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinLT_en_GB">English</option>
+									
+										<option value="CalvinKleinLT_en_GB">English</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="LU/EUR (€)" hidden="">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinLU_fr_FR">Français</option>
+									
+										<option value="CalvinKleinLU_fr_FR">Français</option>
+									
+										<option value="CalvinKleinLU_de_DE">Deutsch</option>
+									
+										<option value="CalvinKleinLU_de_DE">Deutsch</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="NL/EUR (€)" hidden="">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinNL_nl_NL">Nederlands</option>
+									
+										<option value="CalvinKleinNL_nl_NL">Nederlands</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="PL/PLN (zł)" hidden="">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinPL_en_GB">English</option>
+									
+										<option value="CalvinKleinPL_en_GB">English</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="PT/EUR (€)" hidden="">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinPT_en_GB">English</option>
+									
+										<option value="CalvinKleinPT_en_GB">English</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="RO/EUR (€)" hidden="">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinRO_en_GB">English</option>
+									
+										<option value="CalvinKleinRO_en_GB">English</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="SK/EUR (€)" hidden="">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinSK_en_GB">English</option>
+									
+										<option value="CalvinKleinSK_en_GB">English</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="SI/EUR (€)" hidden="">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinSI_en_GB">English</option>
+									
+										<option value="CalvinKleinSI_en_GB">English</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="ES/EUR (€)" hidden="">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinES_es_ES">Español</option>
+									
+										<option value="CalvinKleinES_es_ES">Español</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="SE/kr" hidden="">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinSE_en_GB">English</option>
+									
+										<option value="CalvinKleinSE_en_GB">English</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="CH/CHF (CHF)" hidden="">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinCH_de_DE">Deutsch</option>
+									
+										<option value="CalvinKleinCH_de_DE">Deutsch</option>
+									
+										<option value="CalvinKleinCH_fr_FR">Français</option>
+									
+										<option value="CalvinKleinCH_fr_FR">Français</option>
+									
+										<option value="CalvinKleinCH_it_IT">Italiano</option>
+									
+										<option value="CalvinKleinCH_it_IT">Italiano</option>
+									
+								</select>
+							</label>
+						
+							<label for="localeSelectStore_store" data-country="UK/GBP (£)" hidden="">
+								<span>
+									Choose a language
+								</span>
+
+								<select name="store" id="localeSelectStore_store">
+									
+										<option value="CalvinKleinUK_en_GB">English</option>
+									
+										<option value="CalvinKleinUK_en_GB">English</option>
+									
+								</select>
+							</label>
+						
+			</div>
+
+			<div class="localeSelectGoToStore">
+				
+					<div data-store="CalvinKleinAT_de_DE" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.at">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinAT_de_DE" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.at">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinBE_nl_NL" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.be">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinBE_nl_NL" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.be">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinBE_fr_FR">
+						<a class="btn btnPrimary" href="//www.calvinklein.be/FR">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinBE_fr_FR" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.be/FR">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinBG_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.bg">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinBG_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.bg">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinHR_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.hr">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinHR_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.hr">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinCZ_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.cz">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinCZ_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.cz">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinDK_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.dk">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinDK_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.dk">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinEE_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.ee">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinEE_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.ee">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinFI_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.fi">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinFI_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.fi">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinFR_fr_FR" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.fr">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinFR_fr_FR" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.fr">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinDE_de_DE" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.de">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinDE_de_DE">
+						<a class="btn btnPrimary" href="//www.calvinklein.de">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinHU_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.hu">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinHU_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.hu">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinIE_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.ie">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinIE_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.ie">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinIT_it_IT" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.it">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinIT_it_IT" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.it">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinLV_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.lv">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinLV_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.lv">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinLT_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.lt">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinLT_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.lt">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinLU_fr_FR" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.lu">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinLU_fr_FR" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.lu">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinLU_de_DE" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.lu/DE">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinLU_de_DE" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.lu/DE">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinNL_nl_NL" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.nl">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinNL_nl_NL" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.nl">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinPL_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.pl">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinPL_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.pl">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinPT_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.pt">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinPT_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.pt">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinRO_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//ro.calvinklein.com">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinRO_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//ro.calvinklein.com">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinSK_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.sk">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinSK_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.sk">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinSI_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.si">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinSI_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.si">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinES_es_ES" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.es">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinES_es_ES" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.es">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinSE_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.se">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinSE_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.se">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinCH_de_DE" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.ch">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinCH_de_DE" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.ch">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinCH_fr_FR" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.ch/FR">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinCH_fr_FR" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.ch/FR">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinCH_it_IT" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.ch/IT">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinCH_it_IT" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.ch/IT">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinUK_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.co.uk">
+							GO
+						</a>
+					</div>
+				
+					<div data-store="CalvinKleinUK_en_GB" hidden="">
+						<a class="btn btnPrimary" href="//www.calvinklein.co.uk">
+							GO
+						</a>
+					</div>
+				
+			</div>
+
+		</div>
+	</div>
+</div>
+
+<script>
+require(['asyncReady', 'modules/localeSelect'], function(asyncReady, LocaleSelect){
+	asyncReady(function(){
+		new LocaleSelect({
+			context: '#localeSelect'
+		});
+	});
+});
+</script>
+<!-- END LanguageCurrency.jsp -->
+		</div>
+
+		<div class="storeLocator dropdown">
+			<!-- START StoreLocatorWidget.jsp -->
+
+<div>
+
+	<div id="widgetStoreLocatorDropdown" class="contentWrapper">
+		<div class="widgetStoreLocatorDropdown">
+
+			<a href="#" class="close" aria-label="Close"></a>
+
+			
+
+			<div class="storeLocator">
+
+				<div class="col">
+					<div class="geoLocator">
+						<div class="VerticalOr">
+							<div class="or">
+								or
+							</div>
+						</div>
+						<h3>Store Locator</h3>
+						<a href="&lt;c:out value='http://www.calvinklein.si/store-locator' /&gt;" class="btn btnSecondary">Locate a store near me</a>
+					</div>
+				</div>
+
+				<div class="col">
+					<form action="http://www.calvinklein.si/store-locator" method="get" id="searchStore" class="widgetForm">
+						<label for="location">Enter your location</label>
+						<input type="text" id="location" name="location" placeholder="City, County or Post Code">
+						<button type="submit" class="btnAlt">Search</button>
+					</form>
+				</div>
+
+			</div>
+
+		</div>
+	</div>
+
+</div>
+<script>
+	require(['modules/storeLocatorWidget'], function (storeLocatorWidget) {
+		new storeLocatorWidget();
+	});
+</script>
+
+<!-- END StoreLocatorWidget.jsp -->
+		</div>
+
+		
+
+<div class="customerService dropdown ">
+<div>
+<!--CustomerServiceDropdown-->
+
+<div id="widgetCustomerServiceDropdown" class="contentWrapper">
+	<a href="#" class="close" aria-label="Close"></a>
+	<div class="widgetCustomerServiceDropdown">
+
+		<div class="showOrderBlock orderTracking">
+			<div class="viewOrderContainer orderTrackingContentColumn">
+				<div class="orderTrackingContent hideLoggedIn">
+					<h3>View your order</h3>
+					<p>
+						<a class="divertToSecure" href="#" title="Sign in" data-target="registerDropdown" onclick="return setLogonURL();">
+							Sign in
+						</a>&nbsp;to view your order history
+					</p>				
+				</div>
+			</div>
+			<div class="verticalDivider">
+			</div>
+			<div class="trackOrderContainer orderTrackingContentColumn">
+				<div class="orderTrackingContent">
+					<h3>Track your order</h3>
+					<p>Please enter your order number and postcode to view the status of your delivery</p>
+		
+					<form id="customerServiceTrackYourOrder" action="https://www.calvinklein.si/TrackYourOrderDetail" novalidate="">
+	<input type="hidden" name="storeId" value="20025">
+	<input type="hidden" name="langId" value="44">
+	<input type="hidden" name="language" value="">
+	<input type="hidden" name="errorViewName" value="GenericStaticContentPageLayoutView?pageId=1229&amp;pageGroup=Content&amp;catalogId=10188&amp;langId=44&amp;storeId=20025">
+	<input type="hidden" name="url" value="OrderDetailsDisplay">
+	<input type="hidden" name="flow" value="orderDetails">
+	
+	<div class="formField">
+	<label for="customerServiceTrackYourOrder-orderId">Order Number</label>
+	<input id="customerServiceTrackYourOrder-orderId" class="inputField" type="text" name="orderId" value="" maxlength="30" size="35" aria-required="true" data-valid-required="true" data-valid-order-number="true">
+	<label class="errorMsg" for="customerServiceTrackYourOrder-orderId" data-error-for="customerServiceTrackYourOrder-orderId" data-error-type="required" hidden="">
+	This field is required.
+</label>
+<label class="errorMsg" for="customerServiceTrackYourOrder-orderId" data-error-for="customerServiceTrackYourOrder-orderId" data-error-type="order-number" hidden="">
+	???INVALID_ORDER_NUMBER???
+</label>
+
+</div>
+<div class="formField">
+	<label for="customerServiceTrackYourOrder-billingAddressPostcode">Billing address postcode</label>
+	<input id="customerServiceTrackYourOrder-billingAddressPostcode" class="inputField" type="text" name="billingAddressPostcode" value="" maxlength="40" size="35" aria-required="true" autocomplete="off" data-valid-required="true">
+	<label class="errorMsg" for="customerServiceTrackYourOrder-billingAddressPostcode" data-error-for="customerServiceTrackYourOrder-billingAddressPostcode" data-error-type="required" hidden="">
+	This field is required.
+</label>	
+</div>
+
+
+	<button class="btn btnPrimary submit" type="submit">
+		Track order
+	</button>
+</form>
+				</div>
+				<div class="hideLoggedIn" style="display: none">
+					<p>
+						<a class="divertToSecure" href="#" title="Sign in" data-target="registerDropdown" onclick="return setLogonURL();">
+							Sign in
+						</a>&nbsp;to view your order history
+					</p>
+					<h3>Track your order</h3>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!--end of widgetCustomerServiceDropdown-->
+</div>
+
+<script>
+	require(['asyncReady', 'modules/header/orderTracking'], function(asyncReady, OrderTracking){
+		asyncReady(function(){
+			new OrderTracking({
+				context: '.widgetCustomerServiceDropdown'
+			});
+		});
+	});
+	
+	function setLogonURL(){
+		
+		if (null !== document.getElementById('WC_AccountDisplay_FormInput_PageName_In_Logon_1')) {
+		    document.getElementById('WC_AccountDisplay_FormInput_PageName_In_Logon_1').value = "TrackOrderStatus";
+		}
+		if (null !== document.getElementById('WC_AccountDisplay_FormInput_PageName_In_Logon_2')) {
+		    document.getElementById('WC_AccountDisplay_FormInput_PageName_In_Logon_2').value = "TrackOrderStatus";
+		}
+		if (null !== document.getElementById('WC_AccountDisplay_FormInput_PageName_In_Logon_3')) {
+		    document.getElementById('WC_AccountDisplay_FormInput_PageName_In_Logon_3').value = "TrackOrderStatus";
+		}
+		if (null !== document.getElementById('WC_AccountDisplay_FormInput_URL_In_Logon_1')) {
+		    document.getElementById('WC_AccountDisplay_FormInput_URL_In_Logon_1').value = "https://www.calvinklein.si/TrackOrderStatus?showOrderHeader=true&catalogId=10188&langId=44&storeId=20025";
+		}
+		if (null !== document.getElementById('WC_AccountDisplay_FormInput_URL_In_Logon_2')) {
+		    document.getElementById('WC_AccountDisplay_FormInput_URL_In_Logon_2').value = "https://www.calvinklein.si/TrackOrderStatus?showOrderHeader=true&catalogId=10188&langId=44&storeId=20025";
+		}
+		if (null !== document.getElementById('WC_AccountDisplay_FormInput_URL_In_Logon_3')) {
+		    document.getElementById('WC_AccountDisplay_FormInput_URL_In_Logon_3').value = "https://www.calvinklein.si/TrackOrderStatus?showOrderHeader=true&catalogId=10188&langId=44&storeId=20025";
+		}
+
+	};
+</script>
+</div>
+
+		<div class="newsLetterSignup dropdown">
+			
+
+<div id="newsLetterWidget1">
+    <div class="widgetNewsletterForm">
+        <a href="#" class="close" aria-label="Close"></a>
+        <div class="widgetSearchDropdown">
+            <div class="contentArea">
+             <div class="col">
+                    <!-- BEGIN CoreMediaContentWidget.jsp --><!-- view = forDesktop; placement=globalFooterNewsletter02; productId=; categoryId=; storeId=20025; locale=en_GB  --><!-- END CoreMediaContentWidget.jsp -->
+					
+					<div class="headerOffer">
+						<p>&nbsp;&nbsp;&nbsp;Sign up for the newsletter </p>
+						<p>+ Get 10% off your next order </p>
+					</div>
+						
+                    <form action="https://www.calvinklein.si/setEmailPreferences" method="post" class="newsLetterWidget widgetForm" novalidate="">
+
+						<input type="hidden" name="storeId" id="storeId" value="20025">
+						<input type="hidden" name="catalogId" id="catalogId" value="10188">
+						<input type="hidden" name="langId" id="langId" value="44">
+						<input type="hidden" name="haveComeFromFooterOrHeaderNewsLetterSignup" id="haveComeFromFooterOrHeaderNewsLetterSignup" value="true">
+						<input type="hidden" name="gender" value="">
+                        <fieldset>
+                            <div class="formField newsletterFormFieldContainer">
+                            	<label for="email" class="newsletterEmailLabel">Your E-mail address</label>
+                                <input type="email" id="email" name="email" value="" placeholder="E-mail address">
+                               
+				
+								<button class="btn btnPrimary genderBtn btnWomen" data-gender="women">
+									Women
+								</button>
+								<button class="btn btnPrimary genderBtn btnMen" data-gender="men">
+									Men
+								</button>
+								<button class="btn btnPrimary genderBtn btnBoth" data-gender="both">
+									 Both
+								</button>
+
+                                <div class="genderCheckboxes">
+                                    <div class="checkboxContainer formField">
+                                        <input type="checkbox" name="womenCheckbox" id="womenCheckbox1" class="genderCheckBox" data-gender="women" checked="">
+                                        <label for="womenCheckbox1">
+                                            Women
+                                        </label>
+                                    </div>
+                                    <div class="checkboxContainer formField">
+                                        <input type="checkbox" name="menCheckbox" id="menCheckbox1" class="genderCheckBox" data-gender="men" checked="">
+                                        <label for="menCheckbox1">
+                                            Men
+                                        </label>
+                                    </div>
+                                    
+                                        <button class="btn btnPrimary btnSubscribe" type="button" id="subscribeBtn1">
+                                            Subscribe
+                                        </button>
+                                    
+                                </div>
+                            </div>
+							<div class="formField check checkboxContainer termsCheckContainer reducedFontCheckbox">
+                                <input type="checkbox" id="termsCheckBox1" class="inputTerms checkbox">
+                                <label for="termsCheckBox1" class="termsCheckBox">
+                                    <span class="large">
+                                        By subscribing to Calvin Kleins newsletter, I understand and accept that my personal data will be sent to and processed by/on behalf of the responsible data-controlling entity Calvin Klein in Amsterdam, the Netherlands, for the purpose of sending me the latest product and promotional information by any form of communication including but not limited to email, phone and/or post. See also {0}.
+                                     </span>   
+                                     <span class="small">
+                                        Accept terms and conditions
+                                    </span>
+                                </label>
+                            </div>
+                            <p class="error"></p>
+                           
+                        </fieldset>
+
+                        
+
+                    </form>
+                </div>
+                <div class="col">
+                    <!-- BEGIN CoreMediaContentWidget.jsp --><!-- view = forDesktop; placement=globalFooterNewsletter01; productId=; categoryId=; storeId=20025; locale=en_GB  --><!-- END CoreMediaContentWidget.jsp -->
+                </div>
+
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+
+
+<script>
+    require([
+        'jquery',
+        'asyncReady',
+        'modules/footer/newsletterFormWidget'
+    ],
+    function($, asyncReady, NewsletterFormWidget) {
+		var context = $('#' + 'newsLetterWidget1');
+        asyncReady(function() {
+            new NewsletterFormWidget({
+            	context: context,
+            	isConfirmation: '',
+				errorMessages: {
+					emailInvalid: "Invalid email address - must be within validation rules",
+					termsInvalid: "Please check to confirm terms"
+				}
+			});
+        });
+
+    });
+</script>
+
+
+
+<div class="remodal newsLetterSuccessModal" data-remodal-id="newsLetterSuccessModal">
+	<h3>
+		Success!
+	
+	</h3>
+
+	<p>
+		You have been successfully signed up to the newsletter.
+	</p>
+
+	<button class="close btn btnPrimary" data-remodal-action="close">
+		Close
+	</button>
+</div>
+
+
+		</div>
+
+		<div class="registerDropdown dropdown">
+			
+		</div>
+
+		
+	</div>
+	<div class="headerRow2">
+		<div class="contentWrapper">
+				<div id="logo">
+					<a href="http://www.calvinklein.si">
+						<img src="/wcsstore/PVHStoreFrontAssetStore/assets/themes/ck/images/ck_logo.svg" alt="">
+					</a>
+				</div>
+
+				<h2 class="access">Main Menu</h2>
+
+				
+
+
+		<meta name="CommerceSearch" content="storeId_20025"> 
+		
+
+<form class="searchForm" action="https://www.calvinklein.si/EN/search" method="get" onsubmit="return this.querySelector('input[name=searchTerm]').value.trim().length > 0">
+
+	<fieldset>
+		<label for="searchTerm">
+			<span>Search</span>
+			<input type="text" name="searchTerm" class="" value="" autocomplete="off">
+		</label>
+
+		<button id="searchButton" class="searchButton" type="submit">
+			<span>
+				Search
+			</span>
+		</button>
+
+		<div class="searchSuggestions"></div>
+
+		
+			<a href="#" class="searchClear"></a>
+		
+	</fieldset>
+
+</form>
+
+				<div class="basketDropdown dropdown">
+			<!-- BEGIN MiniBasketDisplay.jsp --><!-- START MiniBasketDisplay_Data.jsp --><!-- DEBUG: anonymousUser  addedOrderItemId: , addedFromSKUList:  --><!-- END MiniBasketDisplay_Data.jsp -->
+
+<div class="headerMinBasketQty" style="display:none">0</div>
+
+<div>
+	<!--widgetBasketDropdown-->
+	<div id="widgetBasketDropdown" class="contentWrapper a">
+		<div class="widgetBasketDropdown">
+			<a href="#" class="close" aria-label="Close"></a>
+			
+					<div class="basket basketEmpty">
+						<p>Your shopping bag is empty</p>
+					</div>
+				
+		</div>
+	</div>
+	<!--end of widgetBasketDropdown-->
+</div>
+		</div>	
+				
+		</div>
+		<!-- view = forDesktopNavbarJSON; placement=navbarTopMenu; storeId=20025; locale=en_GB  --><!-- isMenuServedFromCoreMedia = true. Response from coremedia navbarCategoriesJSONString :: { "placementName":"navbarTopMenu", "type":"placement", "items" : [
+{ "type":"category", "name":"Women | Calvin Klein® Europe", "identifier":"WOMEN_DE" },{ "type":"category", "name":"Men | Calvin Klein® Europe", "identifier":"MEN_DE" },{ "type":"category", "name":"UNDERWEAR", "identifier":"UNDERWEAR_DE" },{ "type":"category", "name":"SWIM SHOP", "identifier":"SWIMSHOP_DE" },{ "type":"link", "name":"PROJECTS", "identifier":"http://explore.calvinklein.com/en_EU/page/projects" }]} --><!-- In case response is empty, menu will be served from database. -->
+
+<nav role="navigation">
+	<ul class="globalNavigation">
+		
+
+							<li class="mainNavHeader" data-departmentid="21857" data-menu-id="menu-21857">
+								<h3>
+									<span>
+										
+												<a class="navigationList" href="http://www.calvinklein.si/women">
+													WOMEN
+												</a>
+											
+									</span>
+								</h3>
+							</li>
+						
+
+							<li class="mainNavHeader" data-departmentid="21890" data-menu-id="menu-21890">
+								<h3>
+									<span>
+										
+												<a class="navigationList" href="http://www.calvinklein.si/men">
+													MEN
+												</a>
+											
+									</span>
+								</h3>
+							</li>
+						
+
+							<li class="mainNavHeader" data-departmentid="22843" data-menu-id="menu-22843">
+								<h3>
+									<span>
+										
+												<a class="navigationList" href="http://www.calvinklein.si/underwear">
+													UNDERWEAR
+												</a>
+											
+									</span>
+								</h3>
+							</li>
+						
+
+							<li class="mainNavHeader" data-departmentid="21977" data-menu-id="menu-21977">
+								<h3>
+									<span>
+										
+												<a class="navigationList" href="http://www.calvinklein.si/swim-shop">
+													SWIM SHOP
+												</a>
+											
+									</span>
+								</h3>
+							</li>
+									
+					
+						<li class="mainNavHeader">
+							<h3>
+								<a href="http://explore.calvinklein.com/en_EU/page/projects" target="_blank">PROJECTS</a>
+							</h3>
+						</li>					
+					
+	</ul>
+</nav>
+
+
+    <div class="globalNavigationFlyout">
+        
+
+                    <div class="contentWrapper" id="menu-21857">
+                    
+                    	<!--  
+                    	  Due to the version of commerce the byParentCategory may return the parent category or now 
+                    	  So we have to check if the first catalogCatgroupView is the same as the parent
+                    	  If it is we start a level down to get the child categories
+                    	  If not each catalogGroupView is a child category
+                    	  This is due to the wc-search.xml in 8.0.0.7 using different query that to in 8.0.0.4
+                    	  so we have to cater for both variatons until all environments are on the same version of commerce
+                    	 -->
+
+                                    <div class="col ">
+                                        <h3>
+                                            
+                                                    <a href="http://www.calvinklein.si/womens-clothes">CLOTHES</a>
+                                                
+                                        </h3>
+                                        <ul>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/womens-dresses-skirts">DRESSES &amp; SKIRTS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/womens-jeans">JEANS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/womens-hoodies">SWEATSHIRTS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/womens-t-shirts">T-SHIRTS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/womens-shirts">SHIRTS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/womens-knitwear">KNITWEAR</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/womens-outerwear">OUTERWEAR</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/ladies-bottoms">TROUSERS &amp; SHORTS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/womens-blazers">BLAZERS</a>
+                                                        
+                                                </li>
+                                            
+                                        </ul>
+
+
+
+                                    </div>
+                                
+
+                                    <div class="col ">
+                                        <h3>
+                                            
+                                                    <a href="http://www.calvinklein.si/womens-shoes-accessories">SHOES &amp; ACCESSORIES</a>
+                                                
+                                        </h3>
+                                        <ul>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/womens-bags">BAGS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/womens-shoes">SHOES</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/ladies-purses">WALLETS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/womens-belts">BELTS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/womens-hats-scarves-gloves">HATS, SCARVES &amp; GLOVES</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/womens-small-accessories">SMALL ACCESSORIES</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/womens-watches-jewellery">WATCHES &amp; JEWELLERY</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/womens-perfumes">PERFUMES</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/womens-sunglasses">SUNGLASSES</a>
+                                                        
+                                                </li>
+                                            
+                                        </ul>
+
+
+
+                                    </div>
+                                
+                                    <div class="menuEspots">
+                                        <div class="col">
+                                            <div class="espotsContainer">
+                                                <!-- BEGIN CoreMediaContentWidget.jsp -->
+<!-- Desktop View, content #203844, placement 'navbarMenuLeftColumn' -->
+
+<!-- CoreMedia Placement navbarMenuLeftColumn -->
+
+
+<div class="ck-placement cm-placement-navbarMenuLeftColumn ">
+<span class="ck-title-copy"> HIGHLIGHTS</span>
+<ul class="ck-list">
+<li class="ck-list-item">
+<a class="" href="http://www.calvinklein.si/womens-clothes">NEW ARRIVALS</a> </li>
+<li class="ck-list-item">
+<a class="" href="http://www.calvinklein.si/womens-jeans">BEST SELLERS</a> </li>
+<li class="ck-list-item">
+<a href="http://www.calvinklein.si/womens-dresses-skirts" onclick="" target="" class="">
+REBEL SPIRIT
+</a> </li>
+<li class="ck-list-item">
+<a href="http://www.calvinklein.si/womens-clothes" onclick="" target="" class="">
+MODERN MONOCHROME
+</a> </li>
+<li class="ck-list-item">
+<a href="http://www.calvinklein.si/womens-jeans" onclick="" target="" class="">
+GIFTS FOR HER
+</a> </li>
+<li class="ck-list-item">
+<a href="http://www.calvinklein.si/womens-dresses-skirts" onclick="" target="" class="">
+CALVIN KLEIN COLLECTION
+</a> </li>
+</ul></div><!-- view = forDesktop; placement=navbarMenuLeftColumn; productId=; categoryId=WOMEN_DE; storeId=20025; locale=en_GB  --><!-- END CoreMediaContentWidget.jsp -->
+                                            </div>
+                                        </div>
+                                        <div class="col last ">
+                                            <div class="espotsContainer">
+                                                <!-- BEGIN CoreMediaContentWidget.jsp -->
+<!-- Desktop View, content #203844, placement 'navbarMenuRightColumn' -->
+
+<!-- CoreMedia Placement navbarMenuRightColumn -->
+
+
+<div class="ck-placement cm-placement-navbarMenuRightColumn ">
+</div><!-- view = forDesktop; placement=navbarMenuRightColumn; productId=; categoryId=WOMEN_DE; storeId=20025; locale=en_GB  --><!-- END CoreMediaContentWidget.jsp -->
+                                            </div>
+                                        </div>
+                                        
+                                    </div>
+                            
+                    </div>
+                
+
+                    <div class="contentWrapper" id="menu-21890">
+                    
+                    	<!--  
+                    	  Due to the version of commerce the byParentCategory may return the parent category or now 
+                    	  So we have to check if the first catalogCatgroupView is the same as the parent
+                    	  If it is we start a level down to get the child categories
+                    	  If not each catalogGroupView is a child category
+                    	  This is due to the wc-search.xml in 8.0.0.7 using different query that to in 8.0.0.4
+                    	  so we have to cater for both variatons until all environments are on the same version of commerce
+                    	 -->
+
+                                    <div class="col ">
+                                        <h3>
+                                            
+                                                    <a href="http://www.calvinklein.si/mens-clothing">CLOTHES</a>
+                                                
+                                        </h3>
+                                        <ul>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-jeans">JEANS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-t-shirts">T-SHIRTS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-hoodies">SWEATSHIRTS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-knitwear">KNITWEAR</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-shirts">SHIRTS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-outerwear">OUTERWEAR</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-bottoms">TROUSERS &amp; SHORTS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-formal-wear">BLAZERS &amp; SUITS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-polo-shirts">POLO SHIRTS</a>
+                                                        
+                                                </li>
+                                            
+                                        </ul>
+
+
+
+                                    </div>
+                                
+
+                                    <div class="col ">
+                                        <h3>
+                                            
+                                                    <a href="http://www.calvinklein.si/mens-shoes-accessories">SHOES &amp; ACCESSORIES</a>
+                                                
+                                        </h3>
+                                        <ul>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-bags">BAGS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-shoes">SHOES</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-belts">BELTS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-wallets">WALLETS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-accessories">HATS, SCARVES &amp; GLOVES</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-perfumes">PERFUMES</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-watches-jewellery">WATCHES &amp; JEWELLERY</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-sunglasses">SUNGLASSES</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-small-accessories">SMALL ACCESSORIES</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-ties">TIES</a>
+                                                        
+                                                </li>
+                                            
+                                        </ul>
+
+
+
+                                    </div>
+                                
+                                    <div class="menuEspots">
+                                        <div class="col">
+                                            <div class="espotsContainer">
+                                                <!-- BEGIN CoreMediaContentWidget.jsp -->
+<!-- Desktop View, content #203830, placement 'navbarMenuLeftColumn' -->
+
+<!-- CoreMedia Placement navbarMenuLeftColumn -->
+
+
+<div class="ck-placement cm-placement-navbarMenuLeftColumn ">
+<span class="ck-title-copy"> HIGHLIGHTS</span>
+<ul class="ck-list">
+<li class="ck-list-item">
+<a class="" href="http://www.calvinklein.si/womens-clothes">NEW ARRIVALS</a> </li>
+<li class="ck-list-item">
+<a class="" href="http://www.calvinklein.si/womens-jeans">BEST SELLERS</a> </li>
+<li class="ck-list-item">
+<a href="http://www.calvinklein.si/womens-dresses-skirts" onclick="" target="" class="">
+REBEL SPIRIT
+</a> </li>
+<li class="ck-list-item">
+<a href="http://www.calvinklein.si/womens-clothes" onclick="" target="" class="">
+MODERN MONOCHROME
+</a> </li>
+<li class="ck-list-item">
+<a href="http://www.calvinklein.si/womens-jeans" onclick="" target="" class="">
+GIFTS FOR HER
+</a> </li>
+<li class="ck-list-item">
+<a href="http://www.calvinklein.si/womens-dresses-skirts" onclick="" target="" class="">
+CALVIN KLEIN COLLECTION
+</a> </li>
+</ul></div><!-- view = forDesktop; placement=navbarMenuLeftColumn; productId=; categoryId=MEN_DE; storeId=20025; locale=en_GB  --><!-- END CoreMediaContentWidget.jsp -->
+                                            </div>
+                                        </div>
+                                        <div class="col last ">
+                                            <div class="espotsContainer">
+                                                <!-- BEGIN CoreMediaContentWidget.jsp -->
+<!-- Desktop View, content #203830, placement 'navbarMenuRightColumn' -->
+
+<!-- CoreMedia Placement navbarMenuRightColumn -->
+
+
+<div class="ck-placement cm-placement-navbarMenuRightColumn ">
+</div><!-- view = forDesktop; placement=navbarMenuRightColumn; productId=; categoryId=MEN_DE; storeId=20025; locale=en_GB  --><!-- END CoreMediaContentWidget.jsp -->
+                                            </div>
+                                        </div>
+                                        
+                                    </div>
+                            
+                    </div>
+                
+
+                    <div class="contentWrapper" id="menu-22843">
+                    
+                    	<!--  
+                    	  Due to the version of commerce the byParentCategory may return the parent category or now 
+                    	  So we have to check if the first catalogCatgroupView is the same as the parent
+                    	  If it is we start a level down to get the child categories
+                    	  If not each catalogGroupView is a child category
+                    	  This is due to the wc-search.xml in 8.0.0.7 using different query that to in 8.0.0.4
+                    	  so we have to cater for both variatons until all environments are on the same version of commerce
+                    	 -->
+
+                                    <div class="col ">
+                                        <h3>
+                                            
+                                                    <a href="http://www.calvinklein.si/mens-underwear">MEN</a>
+                                                
+                                        </h3>
+                                        <ul>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-boxers">BOXERS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-nightwear">NIGHTWEAR &amp; LOUNGEWEAR</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-socks">SOCKS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-underwear-packs">MULTIPACKS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/underwear-for-boys">BOYS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/underwear-men-new-arrivals">NEW ARRIVALS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-trunks">TRUNKS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-briefs">BRIEFS</a>
+                                                        
+                                                </li>
+                                            
+                                        </ul>
+
+
+
+                                    </div>
+                                
+
+                                    <div class="col ">
+                                        <h3>
+                                            
+                                                    <a href="http://www.calvinklein.si/ladies-underwear">WOMEN</a>
+                                                
+                                        </h3>
+                                        <ul>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/womens-panties-multipack">PANTIES PROMOTION</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/womens-loungewear">NIGHTWEAR &amp; LOUNGEWEAR</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/womens-socks-tights">SOCKS &amp; TIGHTS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/underwear-women-new-arrivals">NEW ARRIVALS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/underwear-for-girls">GIRLS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/shop-by-set">SHOP BY SET</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/womens-bras">BRAS</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/womens-knickers">PANTIES</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/ladies-sports-underwear">SPORTS UNDERWEAR</a>
+                                                        
+                                                </li>
+                                            
+                                        </ul>
+
+
+
+                                    </div>
+                                
+                                    <div class="menuEspots">
+                                        <div class="col">
+                                            <div class="espotsContainer">
+                                                <!-- BEGIN CoreMediaContentWidget.jsp -->
+<!-- Desktop View, content #203860, placement 'navbarMenuLeftColumn' -->
+
+<!-- CoreMedia Placement navbarMenuLeftColumn -->
+
+
+<div class="ck-placement cm-placement-navbarMenuLeftColumn ">
+</div><!-- view = forDesktop; placement=navbarMenuLeftColumn; productId=; categoryId=UNDERWEAR_DE; storeId=20025; locale=en_GB  --><!-- END CoreMediaContentWidget.jsp -->
+                                            </div>
+                                        </div>
+                                        <div class="col last ">
+                                            <div class="espotsContainer">
+                                                <!-- BEGIN CoreMediaContentWidget.jsp -->
+<!-- Desktop View, content #203860, placement 'navbarMenuRightColumn' -->
+
+<!-- CoreMedia Placement navbarMenuRightColumn -->
+
+
+<div class="ck-placement cm-placement-navbarMenuRightColumn ">
+</div><!-- view = forDesktop; placement=navbarMenuRightColumn; productId=; categoryId=UNDERWEAR_DE; storeId=20025; locale=en_GB  --><!-- END CoreMediaContentWidget.jsp -->
+                                            </div>
+                                        </div>
+                                        
+                                    </div>
+                            
+                    </div>
+                
+
+                    <div class="contentWrapper" id="menu-21977">
+                    
+                    	<!--  
+                    	  Due to the version of commerce the byParentCategory may return the parent category or now 
+                    	  So we have to check if the first catalogCatgroupView is the same as the parent
+                    	  If it is we start a level down to get the child categories
+                    	  If not each catalogGroupView is a child category
+                    	  This is due to the wc-search.xml in 8.0.0.7 using different query that to in 8.0.0.4
+                    	  so we have to cater for both variatons until all environments are on the same version of commerce
+                    	 -->
+
+                                    <div class="col ">
+                                        <h3>
+                                            
+                                                    <a href="http://www.calvinklein.si/womens-swim-shop">WOMEN</a>
+                                                
+                                        </h3>
+                                        <ul>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/womens-swimwear">SWIMWEAR</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/womens-beachwear">BEACHWEAR</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/womens-beach-accessories">SHOES &amp; ACCESSORIES</a>
+                                                        
+                                                </li>
+                                            
+                                        </ul>
+
+
+
+                                    </div>
+                                
+
+                                    <div class="col ">
+                                        <h3>
+                                            
+                                                    <a href="http://www.calvinklein.si/men-swim-shop">MEN</a>
+                                                
+                                        </h3>
+                                        <ul>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-swimwear-swimshop-men-swimwear-de">SWIMWEAR</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-beachwear-swimshop-men-clothes-de">BEACHWEAR</a>
+                                                        
+                                                </li>
+                                            
+                                                <li>
+                                                    
+                                                            <a href="http://www.calvinklein.si/mens-swimwear-accessories">SHOES &amp; ACCESSORIES</a>
+                                                        
+                                                </li>
+                                            
+                                        </ul>
+
+
+
+                                    </div>
+                                
+                                    <div class="menuEspots">
+                                        <div class="col">
+                                            <div class="espotsContainer">
+                                                <!-- BEGIN CoreMediaContentWidget.jsp -->
+<!-- Desktop View, content #252554, placement 'navbarMenuLeftColumn' -->
+
+<!-- CoreMedia Placement navbarMenuLeftColumn -->
+
+
+<div class="ck-placement cm-placement-navbarMenuLeftColumn ">
+<span class="ck-title-copy"> HIGHLIGHTS</span>
+<ul class="ck-list">
+<li class="ck-list-item">
+<a class="" href="http://www.calvinklein.si/womens-clothes">NEW ARRIVALS</a> </li>
+<li class="ck-list-item">
+<a class="" href="http://www.calvinklein.si/womens-jeans">BEST SELLERS</a> </li>
+<li class="ck-list-item">
+<a href="http://www.calvinklein.si/womens-dresses-skirts" onclick="" target="" class="">
+REBEL SPIRIT
+</a> </li>
+<li class="ck-list-item">
+<a href="http://www.calvinklein.si/womens-clothes" onclick="" target="" class="">
+MODERN MONOCHROME
+</a> </li>
+<li class="ck-list-item">
+<a href="http://www.calvinklein.si/womens-jeans" onclick="" target="" class="">
+GIFTS FOR HER
+</a> </li>
+<li class="ck-list-item">
+<a href="http://www.calvinklein.si/womens-dresses-skirts" onclick="" target="" class="">
+CALVIN KLEIN COLLECTION
+</a> </li>
+</ul></div><!-- view = forDesktop; placement=navbarMenuLeftColumn; productId=; categoryId=SWIMSHOP_DE; storeId=20025; locale=en_GB  --><!-- END CoreMediaContentWidget.jsp -->
+                                            </div>
+                                        </div>
+                                        <div class="col last ">
+                                            <div class="espotsContainer">
+                                                <!-- BEGIN CoreMediaContentWidget.jsp -->
+<!-- Desktop View, content #252554, placement 'navbarMenuRightColumn' -->
+
+<!-- CoreMedia Placement navbarMenuRightColumn -->
+
+
+<div class="ck-placement cm-placement-navbarMenuRightColumn ">
+</div><!-- view = forDesktop; placement=navbarMenuRightColumn; productId=; categoryId=SWIMSHOP_DE; storeId=20025; locale=en_GB  --><!-- END CoreMediaContentWidget.jsp -->
+                                            </div>
+                                        </div>
+                                        
+                                    </div>
+                            
+                    </div>
+                
+    </div>
+
+			
+	</div>
+	<div class="headerRow3">
+		<!--  BEGIN EMarketingSpot.jsp --><!-- END EMarketingSpot.jsp -->
+	</div>
+
+	<div class="espotGlobalHeader">
+
+			<!-- BEGIN CoreMediaContentWidget.jsp -->
+<!-- Desktop View, content #203800, placement 'GLOBAL_HEADER_01' -->
+
+<!-- CoreMedia Placement GLOBAL_HEADER_01 -->
+
+
+<div class="ck-placement cm-placement-GLOBAL_HEADER_01 ">
+<div class="ck-d-navigation-bottom">
+<div class="ck-d-navigation-bottom-content">
+<a href="http://www.calvinklein.si/customer-service-shipping-information" onclick="" target="" class="">
+SHIPPING FROM €5.95
+</a><a href="http://www.calvinklein.si/customer-service-shipping-information" onclick="" target="" class="">
+FREE DELIVERY ON ALL ORDERS OVER €150
+</a><a href="http://www.calvinklein.si/customer-service-returns" onclick="" target="" class="">
+FREE 60-DAY RETURNS
+</a><a href="http://www.calvinklein.si/customer-service-payment-options" onclick="" target="" class="">
+SECURE PAYMENT
+</a> </div>
+</div></div><!-- view = forDesktop; placement=GLOBAL_HEADER_01; productId=; categoryId=; storeId=20025; locale=en_GB  --><!-- END CoreMediaContentWidget.jsp -->
+	</div>
+	<div class="espotGlobalHeader">
+			<!-- BEGIN CoreMediaContentWidget.jsp --><!-- view = forDesktop; placement=GLOBAL_HEADER_02; productId=; categoryId=; storeId=20025; locale=en_GB  --><!-- END CoreMediaContentWidget.jsp -->
+
+	</div>
+
+</header>
+
+
+
+
+		<meta name="CommerceSearch" content="storeId_20025"> 
+		
+
+<script>
+	require(['asyncReady', 'modules/headerGeneral'], function(asyncReady, HeaderGeneral){
+
+		asyncReady(function(){
+
+			var headerGeneral = HeaderGeneral;
+
+			var addCarousel = (false) ? true : false;
+			if (headerGeneral.isInitialised() === false) {
+				headerGeneral.init({
+				    storeIdentifier: "CK",
+					searchUrl: "https:\/\/www.calvinklein.si\/SearchDisplay?pageView=&searchSource=Q&sType=SimpleSearch&beginIndex=0&pageSize=48&catalogId=10188&langId=44&showResultsPage=true&storeId=20025",
+					autoSuggestUrl: "http:\/\/www.calvinklein.si\/SearchComponentAutoSuggestView?catalogId=10188&langId=44&storeId=20025",
+					miniBasketDisplayURL: "http:\/\/www.calvinklein.si\/MiniBasketDisplayView?catalogId=10188&langId=44&storeId=20025",
+					isGuest: true,
+					includeCarousel: addCarousel,
+					deviceType: {
+						isMobile: false,
+						isMobileTablet: false
+					}
+				})
+			}
+
+		});
+
+	});
+</script>
+<!-- END Header.jsp -->
+			</div>
+			
+			<div id="contentWrapper">
+				<div id="content" role="main">
+					<!-- BEGIN CustomerServiceContainer.jsp -->
+<div class="rowContainer contentWrapper layoutPage" id="container_3074457345618270919" data-layout="3074457345618270919">
+	<div class="row">
+		<div class="fullWidth" data-slot-id="1">
+			
+		</div>
+	</div>
+</div>
+
+<div class="contentWrapper layoutPage" role="main" id="container_3074457345618270919" data-layout="3074457345618270919">
+	
+	<div class="pageColumns">
+	
+		<div class="fullWidth" data-slot-id="2">
+			
+		</div>
+
+		<div class="fullWidth" data-slot-id="3">
+			<!-- BEGIN CoreMediaContentWidget.jsp -->
+<!-- Desktop View, content #203526, placement 'main' -->
+
+<!-- CoreMedia Placement main - Sidebar-right Layout Variant -->
+<div class="ck-placement cm-placement-main">
+  <div class="b3g12-container">
+    <div class="b3g12-row">
+      <div class="b3g12-col-md-9">
+<div id="" class="anchor b3g12-container max-width-1280 ck-d-container ck-customer-service">
+<div class="ck-content-wrapper">
+<h1 class="ck-title-copy ck-title-copy-bg"> GENERAL TERMS AND CONDITIONS OF USE AND SALE </h1> </div>
+<div class="ck-content-wrapper">
+<div id="termsandconditions" class="anchor b3g12-row ck-d-container">
+<div class="b3g12-col-lg-12">
+<span class="ck-text-container ck-text-color ck-text-font-family ck-text-letter-spacing ck-sub-title2-font-size" style=" ">
+<p><em>​​​​​​​</em><br></p> </span>
+<span class=" ck-text-container ck-text-letter-spacing ck-body-font-size" style="color: #000000; font-family: Futura; ">
+<h2>I. APPLICABILITY</h2><p>These general terms and conditions (the “<strong>Conditions</strong>”) apply to:<br></p><p>a) the use of any information, pictures, documents and/or other services on the following European online store of Calvin Klein&nbsp;<strong><a href="http://www.calvinklein.com/" target="_blank">www.calvinklein.com</a></strong>&nbsp;and their different versions (the “<strong>Website</strong>”); and</p><p>b) the purchase of Calvin Klein branded products on the Website.</p><p><br></p><h2>II. TERMS OF USE OF WEBSITE</h2><p><strong>1. Data privacy</strong></p><p>All personal data is treated confidentially, and your rights to protection of your justified concerns are observed strictly in accordance with legal requirements. For more information, please see Annex 1 hereto, which includes our&nbsp;<strong><a href="#privacy" target="_self">privacy, security and cookies policy</a>.</strong></p><p><strong>2. Exclusion of liability for external links</strong></p><p>The Website may provide links to external Internet sites. Calvin Klein hereby declares explicitly that it has no influence on the layout or content of the linked pages and that it dissociates itself expressly from all contents of all linked pages of third parties. Calvin Klein shall not be liable for the use or content of Internet sites that link to this site or which are linked from it. Our privacy, security and cookie policy does not apply to any collection and processing of your personal data on or through such external sites.This declaration applies for all displayed links and for all contents of pages to which the links lead.</p><p><strong>3. Information on the Website</strong></p><p>The information on the Website is for general information purposes only and does not constitute advice. Even though Calvin Klein has composed its Website with care, the information, texts, documents, graphics, movies, music and/or other services/information on it may contain errors or be otherwise incorrect or incomplete. Calvin Klein does not guarantee that the Website and/or the information is free of errors, defects, malware and viruses or that the Website and/or Information is correct, up to date and accurate.</p><p>Calvin Klein shall not be liable for any damages resulting from the use or inability to use of the Website, including damages caused by malware, viruses or any incorrectness or incompleteness of such information or the Website, unless such damage is the result of any willful misconduct or from gross negligence on the part of Calvin Klein.</p><p>Calvin Klein shall further not be liable for damages resulting from the use of (or the inability to use) electronic means of communication with this Website, including – but not limited to – damages resulting from failure or delay in delivery of electronic communications, interception or manipulation of electronic communications by third parties or by computer programs used for electronic communications and transmission of viruses.</p><p><strong>4. Intellectual property</strong></p><p>All brand names, logo, product names and titles used on the Website are trademarks or trade names of Calvin Klein or third party trademark or trade name holders. You are not allowed to use or reproduce any such trademarks, logo or trade names as this may constitute an infringement of the holder’s rights.</p><p>All Website design, texts, documents, movies, music and/or other services and the selection and arrangement thereof, and all software compilations, underlying source codes, software and all other material on this Website are the copyrights of Calvin Klein and/or its suppliers and subcontractors.</p><p>You are only allowed to electronically copy and to print in hard copy portions of the Website to the extent this is necessary for the purpose of placing an order with us, of for using the Website as a shopping resource. You are not allowed to make any other use of the information and materials on this Website, including reproduction for purposes other than the one mentioned above, modification, distribution or republication. Should you wish to use materials or information from this Website, you need our prior written approval to do so.</p><p><strong>5. Privacy, security and cookie policy</strong></p><p>Calvin Klein collects and processes the personal data of the visitors of the Website according to the&nbsp;<a href="#privacy" target="_self"><strong>privacy, security and cookie policy</strong></a>.</p><p><strong>6. Unsolicited Ideas</strong></p><p>In the event you post unsolicited ideas and/or materials whether consisting of texts, images, sounds, software, information or otherwise (<strong>Materials</strong>) on this Website or send these to Calvin Klein by e-mail or otherwise, we shall be entitled to use, copy and/or commercially exploit such Materials to the fullest extent and free of charge and we shall not be bound by any confidentiality obligation in respect of such Materials.</p><p>You hereby indemnify and hold Calvin Klein harmless from and against all actions, claims and liabilities, suffered, incurred or sustained by us as a result of the use and/or exploitation of the Materials infringing the (intellectual property) rights of any third party or otherwise being unlawful towards a third party.</p><p><br></p><h2>III. TERMS OF SALE</h2><p><strong>1. Eligibility</strong></p><p>You can order as a registered user or as a guest. You need an email address to place an order, and you may need to set your browser to accept both cookies and pop-ups in order to be able to use all the functionalities of the Website, which includes adding products to your shopping cart and submitting&nbsp;<strong><a href="http://www.calvinklein.si/customer-service-your-order-information" target="_self">your order</a></strong>.</p><p><strong>2. Ordering</strong></p><p>The products offered on the Website represent an offer to purchase products from CK Stores B.V. (<strong>“Calvin Klein</strong>”) based on the data provided on the Website.</p><p>Please note that in Austria and Germany, the products offered on the Website represent an invitation to customers to make an offer to purchase products from CK Stores B.V. (“Calvin Klein”) based on the data provided on the Website.</p><p>All prices indicated are EUR amounts and include value added tax. Orders and deliveries are possible only within Austria, Belgium, Denmark, Finland, France, Germany, Ireland, Italy, Luxembourg, Netherlands, Poland, Spain and Sweden. If Calvin Klein is not able to execute an order, Calvin Klein will inform you as quickly as possible. Orders are accepted only in quantities usual for households. For more information about ordering, please check our&nbsp;<strong><a href="http://www.calvinklein.si/customer-service-your-order-information" target="_self">order information</a></strong>.</p><p>When you submit an order, we will send you an email acknowledging receipt of your order (“Order Confirmation”). This does not mean that we have accepted your order. Our acceptance of the order takes place when the products are shipped to you – we will send you an email confirming that the products have been shipped (“Shipping Confirmation”).</p><p>Products on the Website are in stock and are ready to be sent. Any sizes that are out of stock are marked as unavailable. We may have stock issues from customers ordering products at the same time. When we are unable to ship an item already ordered, we may cancel that part of your order and you will be reimbursed or not charged accordingly. We work hard to keep our stock levels as accurate as possible. Occasionally, errors may occur. Our online collection is regularly replenished so it's worth checking back with us regularly. Alternatively, if the products you are looking for are sold out, you may wish to check availability with your Calvin Klein store through our&nbsp;<a href="http://explore.calvinklein.com/en_US/storelocator" target="_blank"><strong>Store Locator</strong></a>.</p><p>If you have placed an order in error, or would like to cancel an order before it is delivered, please immediately call Calvin Klein’s customer service at 00800 – 74636499 (toll free number) Monday - Friday 09:30 – 18:00 CET or e-mail Calvin Klein at:&nbsp;<strong><a href="mailto:service.eu@calvinklein.com" target="_blank">service.eu@calvinklein.com</a></strong>. Calvin Klein will do its best to assist you any way it can. As Calvin Klein always strives for quick deliveries, it means there is not much time to cancel your order.</p><p>Please note that we cannot make or accept any changes (address, size, color) once your order has been placed.</p><p>Fulfillment of all orders on the Website is subject to availability. We explicitly reserve the right not to accept your order for any reason. We also reserve the right to cancel an order by written notice to you in the following situations (not limitative), without being liable for any damages or costs other than repayment of any amount received from you in relation to the order we have cancelled:</p><p>- The product is not available</p><p>- Your billing information is not correct or not verifiable</p><p>- Your order is flagged up by our security systems as an unusual order or an order susceptible of fraud</p><p>- If applicable your bank transfer payment is not received within 5 business days after the Order Confirmation</p><p>- We could not deliver to the address provided by you</p><p>- Due to circumstances or events beyond our control.</p><p><strong>3. Payment</strong></p><p><em>Payment method</em></p><p>You can pay for the products by credit card (MasterCard, Visa, American Express), PayPal and by other means as may be applicable in your country, see&nbsp;<a href="http://www.calvinklein.si/customer-service-payment-options" target="_self"><strong>here</strong></a>&nbsp;for more information on the payment process.</p><p>If you have a promotion code, please enter it in the shopping bag page in the&nbsp;‘<strong>Promotion code</strong>’&nbsp;field and click on&nbsp;‘<strong>Apply</strong>’. Please check the expiry date of your promotion code before using it. Please note that you cannot use more than one promotion code for the same purchase. Please note that if using promotion codes on products on sale and the total discount is higher than 50% of the original price the promotion code might not be applicable. Every promotion code is valid for one time use only, unless stated differently.</p><p><em>Data check</em></p><p>During the payment process Calvin Klein may perform credit checks. Based on the outcome thereof Calvin Klein may change, adjust or decline an order and/or the selected payment method. In most cases Calvin Klein will offer you the option to select a different payment method. Our customer service team will not be informed of the outcome of credit checks.</p><p><em>Your total price</em></p><p>The total price specified in the final checkout screen includes tax and shipping costs. This price will be recorded in the Order Confirmation. If paying by credit card, the total amount for your entire order will be reflected on your bank statement.</p><p><em>Price changes</em></p><p>The prices of the products will be as displayed on the Website. Prices may change from time to time, but changes will not affect any order which we have confirmed in the Order Confirmation.</p><p><strong>4. Delivery</strong></p><p>As a rule, delivery time is 3 to 5&nbsp;working days after shipping the order. See our&nbsp;<a href="http://www.calvinklein.si/customer-service-shipping-information" target="_self"><strong>delivery information</strong></a>&nbsp;for more details.</p><p>If you make a purchase that exceeds the threshold applicable in your country of delivery, you will receive free “standard delivery” or the option of discounted “express delivery”. See our&nbsp;<a href="http://www.calvinklein.si/customer-service-shipping-information" target="_self"><strong>delivery options</strong></a>&nbsp;for more details.</p><p>If the delivered products have obvious material or production defects, including damage caused by transport, please notify us of such defects immediately by email or phone. Not doing so will not affect your legal rights.</p><p><strong>5. Retention of ownership</strong></p><p>The products remain the property of Calvin Klein until payment is made in full.</p><p><strong>6. Return and Cancellation</strong></p><p><em>Returning defective products</em></p><p>All products purchased on the Website may be returned within the following time frame at your own risk. You need to inform us of your intention to return the product(s) within 14 days after the day on which the product(s) come into your physical possession (or into the possession of a third party other than the carrier and indicated by you), following the instructions below. You then need to physically return such product(s) to us without undue delay and in any event not later than 14 days after the day you informed us about your intention to return the product(s). In the event your claim is justified, the purchase price and the shipping costs will be refunded. For practical information on how to return, see below or see our <a href="http://www.calvinklein.si/customer-service-returns" target="_self"><strong>return information</strong></a>.</p><p><em>Exercising your right of return (withdrawal)</em></p><p>All products purchased on the Website may be returned free of charge within 14 days of receipt thereof, at your own risk. If you withdraw from your order, we will reimburse to you all payments received from you, including the costs of standard delivery and eventual administration fees, without undue delay and in any event not later than 14 days from the day on which we are informed about your decision to return products. We may however withhold reimbursement until we have received the products back or until you have supplied evidence of having sent back the products, whichever is the earliest. The following products may not be returned: underwear, swimwear and make-up (unless in original sealed wrapping).</p><p>Please note that products that you have bought online cannot be returned to Calvin Klein stores in your local area and vice versa. Please make sure that you do not have returns from multiple orders in one parcel to ensure that you get your refund as quickly as possible.</p><p>Returned products must be returned in the same condition as they were sent – and must have their original label. We will not accept or refund products that have been worn or washed. If the products have deteriorated due to a more extensive use, we reserve the right to send the product back to the shipper.</p><p>In addition, please be reminded of the existence of a legal guarantee of conformity for products under Section 13 of the Sales of Goods Act 1979.</p><p><em>How to return</em></p><p>In case you want to return products, the order confirmation and/or each delivery will include (i) return information, in the form attached hereto as&nbsp;<a href="#annex2" target="_self"><span class="ck-richtext-font-Black"><strong>Annex 2</strong></span></a>, (ii) a link to an online model return form or a printed model return form, in the form attached hereto as&nbsp;<a href="#annex3" target="_self"><span class="ck-richtext-font-Black"><strong>Annex 3</strong></span></a>, and (iii) a return label. To help us serve you better please make sure that you fully complete the returns form. It is important that you state the reason for returning each item you return to us. Stick the returns label to the box and if using the box that we sent to you, make sure that the return label covers the original label used to ship the parcel to you. Your return will be handled by the carrier mentioned in your return form. Please read our return information carefully.</p><p><em>No exchange</em></p><p>Calvin Klein does not have an exchange service. You can of course&nbsp;<a href="http://www.calvinklein.si/customer-service-returns#howtoreturn" target="_self"><strong>return any product</strong></a>&nbsp;that you are not fully satisfied with, for which a refund will be issued. If you would like another product, color or size, please place a new order.</p><p><em>Refunds</em></p><p>Once your returned products have been checked and inspected at our warehouse, you will receive a refund e-mail notification, if a refund will be made. Your refund will be paid to the same card or account that was used to place the order without undue delay. For further information, see&nbsp;<strong><a href="#annex2" target="_self">Annex 2</a></strong>.</p><p>Refunds usually take up to 8-10 working days to appear on your statement. The length of time depends solely on your card company’s policies. You can always check your refund status on your online account or by contacting your card issuer.</p><p>In order to get a full refund it is important that we receive the returned products in the state in which you received them: the returned products must be complete, unworn, unwashed and have all the product labels and tags intact.</p><p><strong>7. Promotional offers</strong></p><p>Promotional offers (discount codes) from Calvin Klein are limited to one per customer, per order. It is not possible to combine promotional codes.</p><p><br></p><h2>IV. MISCELLANEOUS</h2><p><strong>1. Contact information</strong></p><p>CK Stores B.V.</p><p>Stadhouderskade 6</p><p>1054 ES AMSTERDAM</p><p>The Netherlands</p><p>Telephone: 00800 – 74636499 (toll free number) 09.30 - 18.00 CET Mon - Fri</p><p>E-mail:&nbsp;<strong><a href="mailto:service.eu@calvinklein.com" target="_blank">service.eu@calvinklein.com</a></strong></p><p><strong>2. Changes to these general terms and conditions</strong></p><p>If Calvin Klein decides to change these general terms and conditions, we will post the changed terms and condition on the Website. You are advised to regularly check whether they have changed. These terms and conditions were last modified in March 2016.</p><p><strong>3. Governing law and jurisdiction</strong></p><p>These general terms and conditions are governed by the laws of the Netherlands, but excluding the Vienna Convention for the International Sale of Goods. The competent court in Amsterdam, the Netherlands shall have exclusive jurisdiction to settle any dispute in connection with these general terms and conditions without prejudice to the right of appeal and that of appeal to the Supreme Court.<br></p> </span>
+</div>
+</div> </div>
+<div class="ck-content-wrapper">
+<div id="privacy" class="anchor b3g12-row ck-d-container">
+<div class="b3g12-col-lg-12">
+<span class="ck-text-container ck-text-color ck-text-font-family ck-text-letter-spacing ck-sub-title2-font-size" style=" ">
+<p><em><strong>​​​​​​​</strong>​​​​​​​</em><br></p> </span>
+<span class=" ck-text-container ck-text-letter-spacing ck-body-font-size" style="color: #000000; font-family: Futura; ">
+<p>Annex 1</p><p>​​​​​​​</p><p><span class="underline">PRIVACY, SECURITY AND COOKIES POLICY</span></p><p>This privacy, security and cookies policy (“<strong>Privacy Policy</strong>”) applies to the processing of all your personal data collected on the Website by Calvin Klein, its affiliates and/or its subcontractors. In this Privacy Policy "we”, “our” and “us” refers to Calvin Klein and "you" refers to the user of the Website.</p><p>When you visit our Website, we obtain personal information which you knowingly disclose to us. We request information when you make purchases, which may include name, address, telephone number, email address, gender, credit card information (“Personal Data”); when you request information; when you register/sign up for our newsletter, to become a Calvin Klein Club member, to create your online account or when you participate in any other Website service. We then use the Personal Data to create a user profile. In this context we may combine the information you give us online with other information from Calvin Klein sources, transactions and communications collected or processed by any Calvin Klein group of companies and authorized subcontractors. Finally, if you publicly post about Calvin Klein, or communicate directly with us, on a social media website, we may collect and process the data contained in such posts or in your public profile for the purpose of addressing any customers services requests you may have and to monitor and influence public opinion about Calvin Klein.</p><p>The personal and non-personal data we receive by you visiting the Website is treated as confidential and we strictly observe the applicable national protection acts in that respect. Your use of the Website indicates your acceptance of the Website’s privacy, security and cookies policy, which may be amended from time to time.</p><p><strong>1. YOUR PRIVACY</strong></p><p>We may collect, process and use your personal information (“Personal Data”) to carry out our obligations arising from any contracts entered into between you and us (order of products for example), to provide you with information that you request from us, to send you the latest product and promotional information and, to send you our Newsletter. Calvin Klein is the controller for the processing of your Personal Data. When you are logged in and fill in forms or access your data on the Calvin Klein Site, a secure connection is used (http via SSL, also known as HTTPS). The data you enter is automatically encrypted before it is sent. All of the data and information received is sent and processed by/on behalf of Calvin Klein outside Europe, in the USA by PVH Corp, the mother company of Calvin Klein, who entered into a data processing Agreement (including EU Model Clauses) with Calvin Klein in order to comply with European data protection requirements. All the data is protected and only available to authorized personnel and subcontractors. We do not collect Personal Data automatically unless you give us your prior consent. For instance by signing up for the Newsletter, we may ask you for your e-mail address or if you purchase an item from the online-shop, we may ask you for your name, postal address and e-mail address. The collected data will be kept confidential and secure from any potential abuse and therefore will only be used for the limited purposes stated above.</p><p><strong>2. PURPOSE OF PROCESSING PERSONAL DATA</strong></p><p>a) If you have consented to this by ticking the appropriate box before submitting your registration on the Website, your Personal Data will be processed by us for sending you information about Calvin Klein, Calvin Klein Club by email, to receive the latest news on promotions and products. We would like to keep you updated on our latest products, events, special offers and other opportunities and developments within Calvin Klein. We will do this by means of e-newsletters. For this purpose, we process your name, email address and an overview of which newsletters we have sent you. We retain your Personal Data for as long as you wish to receive information from us. In case you do not want to receive such emails anymore, you can unsubscribe at any time by&nbsp;<a href="http://www.calvinklein.si/customer-service-contact-us" target="_self"><strong>contacting us</strong></a>&nbsp;or by using the unsubscribe option included in each email message sent by us.</p><p>b) Your Personal Data will be processed by us for the technical and functional management of the Website. When you visit our Website, our Website administrators process technical data linked to the use of the Website to enable us to deliver the functionalities of the Website. With this technical data our website administrators can manage the Website, for instance by resolving technical difficulties or improving the accessibility of certain parts of the Website. This way, we ensure that you can (continue to) find the information on the Website in a quick and simple manner. For this purpose cookies are used as well.&nbsp;<a href="http://www.calvinklein.si/terms-and-conditions#privacy" target="_self"><strong>Read more</strong></a>. For this purpose we process technical data like the IP-address of your computer, the visited webpage's of the Website, the internet browser you use, previous/next visited Website and the duration of a visit/session. We retain technical data for as long as legally required for this purpose.</p><p>c) You can contact us by other means (such as e-mail, fax or telephone). In this case we will use your Personal Data to answer your question. For this purpose we process your name, your contact information, your correspondence with us about your question and all other Personal Data you provide us with and which is required to answer your question. Your data will be kept in our systems for as long as legally required and will then be deleted, with the exception of a log file containing your name, contact information, the date you contacted us and the subject of your question.</p><p>d) Other purposes such as but not limited to the following:</p><p>· The generation of management information and statistical data;</p><p>· If you participate in our prize contests, events, competitions, promotions and/or games of chance, to be able to organize the prize contests, events, competitions, promotions and or games of chance, to announce the winners and measure the response to prize contests, events, competitions, promotions and or games of chance;</p><p>· To comply with legal obligations</p><p>· To administer membership;</p><p>· For attribution of content you post;</p><p>· To process payments;</p><p>· To prevent or stop fraud and abuse;</p><p>· For bookkeeping;</p><p>· To administrate the forum;</p><p>· For access control and security measures of our building and ground.</p><p>· Etc.</p><p><strong>3. WHO HAS ACCESS TO YOUR DATA</strong></p><p>Calvin Klein uses third parties for certain processing activities, such as Website hosting. As far as these third parties have access to Personal Data in order to execute these processing activities, we have taken the required organizational and contractual measures to ensure that your Personal Data is exclusively processed for the purposes mentioned above. Only if we are required to do so by law, your Personal Data will be provided to supervisory agencies, fiscal authorities and investigative agencies.</p><p>Now and then, Calvin Klein will organize a prize contest, promotion or games of chance in co-operation with a third party. In such a case, this will be stated clearly on the Website. If you participate in such a prize contest, event or games of chance, your Personal Data will (to the extent required) be made available to these third parties, to the extent of necessity.</p><p><strong>4. THIRD PARTIES</strong></p><p>Third parties may receive or collect information through our Website. In some countries, we also use third parties for solvency checks. Please check our payment section in our orders terms and conditions by&nbsp;<a href="http://www.calvinklein.si/customer-service-payment-options" target="_self"><strong>clicking here</strong></a>&nbsp;for more details.</p><p>These third parties are contractually bound with Calvin Klein to use the Personal Data only according to this privacy, security and cookies policy. We are not in the business of selling Personal Data about our customers for marketing purposes to third parties. We may, however, share non-personally identifiable information with certain third parties as described herein. There are other limited circumstances in which we share Personal Data, such as from time to time we may engage the services of third parties to help us analyze the use of our Website. These third parties are not authorized to send you any information about products and services from other companies without your permission.</p><p>We may share your Personal Data, among our subsidiaries, parent companies and affiliates, for purposes of marketing Calvin Klein products and services, but only if you prior agreed thereto. Certain third parties manage the content of pages on the Website. These third parties share our commitment to the protection of your privacy. We may also release Personal Data in special cases in order to comply with any requests from law enforcement and government agencies, to enforce the terms of use of the Website and other agreements, and to protect customers and others. We may do so when we believe in good faith that disclosing this information is otherwise necessary or advisable, including, for instance, to identify, contact, or bring legal action against someone who may be causing injury to or interfering with the rights or property of our company, another user or anyone else that could be harmed by such activities. We may transfer Personal Data to an affiliate or third party as part of a transfer of business assets.</p><p><strong>5. LOG FILES</strong></p><p>As with most websites, we automatically gather non-personally identifying information and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, data/time stamp, and clickstream data. We use this information, which does not identify users, to analyze trends, to administer the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected information to personally identifiable information.</p><p><strong>6. SOCIAL PLATFORMS</strong></p><p>Please note that, if you choose to select that option, your activity on our Website will also be made available to social platforms such as but not limited to Facebook, Twitter, Pinterest, etc. If you choose to share our Website through social media such as LinkedIn, Facebook and/or Twitter, your personal data (such as your name and the fact that you are interested in Calvin Klein) will also be visible to all the visitors of your personal webpage on LinkedIn, Facebook and/or Twitter, depending on your account settings. On the use of such social media websites only the terms and conditions (including the privacy policy) of the social media website apply. Calvin Klein is not responsible for the processing of Personal Data or the privacy policy of such social media websites.&nbsp;<a href="http://www.calvinklein.si/terms-and-conditions" target="_self"><strong>Our General Terms and Conditions of use and sale</strong></a>&nbsp;and this privacy, security and cookie policy is therefore not applicable to the use of such websites.</p><p><strong>7. LINKS TO OTHER WEBSITES</strong></p><p>On the Website you will find a number of links to other websites. Although these websites are selected with care, we are not responsible for the processing of your Personal Data through these websites.&nbsp;<a href="http://www.calvinklein.si/terms-and-conditions" target="_self"><strong>Our General Terms and Conditions of use and sale</strong></a>&nbsp;and this privacy, security and cookies policy are therefore not applicable to the use of such websites.</p><p><strong>8. COOKIES ON THIS SITE</strong></p><p>The Website uses cookies. Web Cookies are small pieces of data sent by the Website and they are stored by your browser on your computer's hard drive, so that we are able to recognize your browser when you return on the Website. Cookies can collect data on the use of the Website such as which pages are visited and the duration of a user session. When you use the Website, the cookie sends data to Calvin Klein. We do not retain cookies longer than necessary. On our Website we use strictly necessary cookies, performance cookies, functionality cookies, advertising cookies, first party cookies, third party cookies, persistent cookies and session cookies.</p><p><em>Strictly necessary cookies</em>&nbsp;are essential in order to enable you to move around the Website and use its features, such as accessing secure areas of the Website. Without these cookies, services you have asked for, like shopping baskets or e-billing, cannot be provided.</p><p><em>Performance cookies</em>&nbsp;collect anonymous information about how you use the Website and the pages that you have visited, for instance which pages you go to most often, and if you get error messages from web pages. These cookies do not collect information that identifies you. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how our Website works.</p><p><em>Functionality cookies</em>&nbsp;remember your selection and choices to improve your experience in our Website. For instance, the cookies enable you to place products in your shopping cart and review the contents of your shopping card. These cookies allow our Website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, our Website may be able to recognize in which area you are currently located by storing this information. The Website can also recognize if the user has already signed up for our newsletter or if the user is seeing a certain page for the first time. The information these cookies collect is aggregated and therefore anonymous and they cannot track your browsing activity on other websites.</p><p><em>Advertising cookies</em>&nbsp;collect information about your browsing habits in order to make advertising relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the Website operator’s permission. They remember that you have visited a website and this information is shared with other organizations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organization.</p><p><em>First party cookies&nbsp;</em>allow us to understand who has visited which page(s), to determine how frequently particular pages are visited and to determine the most popular areas of the site and general in order to monitor the usage of the Website.</p><p><em>Third party cookies&nbsp;</em>are used for analyzing traffic sources and visitor behavior as well as for controlling access and site features across the Website.</p><p><em>Session cookies</em>&nbsp;are used to store information about your page activities so you can easily pick up where you left off on the server's pages. When you close the internet browser, the session is ended and the cookie is deleted.</p><p><em>Persistent cookies&nbsp;</em>are employed to store your preferences and to recognize you at a subsequent visit.</p><p><em>Not strictly necessary cookies</em>:&nbsp;Only if you have given prior consent, we place cookies that are not strictly necessary for providing the functionalities of the Website. Through such non-strictly necessary cookies we collect information about your use of the Website and remember your preferences. Examples of collected information are which pages are visited and the length of a user session. Through these cookies we aim to improve your user experience of our Website. If you do not consent to cookie being placed, these cookies will be blocked. Click&nbsp;<a href="http://uk.calvinklein.com/store/en/static-cookies-list" target="_blank"><strong>here</strong></a>&nbsp;for a full list of cookies used on the Website.</p><p>Most web browsers automatically accept cookies and allow some control of most cookies through the browser settings, though you do not have to. We do not control the use of cookies by third parties other that the agents who provide the web analytics service for our own site. If you wish to disable cookies then you can do so by re-adjusting your browser settings. Please note that in that case you may not be able to register with or use all features of our Website.</p><p>If you wish to have more information regarding the cookies that are used on our Website, please contact us at&nbsp;<strong><a href="mailto:service.eu@calvinklein.com" target="_blank">service.eu@calvinklein.com</a>.</strong> For more information on cookies and how to disable them please contact your helpdesk administrator or contact your web browsers support. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit&nbsp;<strong><a href="http://allaboutcookies.org" target="_blank">www.allaboutcookies.org</a></strong>.</p><p>Only if you have given prior consent, Calvin Klein will use Google Analytics' cookies. If you do not consent to the placement of such cookies, these cookies will be blocked. Google Analytics is a web analysis service that is offered by Google Inc. (<a href="http://google.com" target="_blank"><strong>Google</strong></a>). Google Analytics uses cookies to analyze the usage of the Website by users. Google uses aggregated statistical data to give us an insight in the way you use the Website. Google may only provide these data to third parties if Google is required to do so by law, or to the extent third parties processing these data on behalf of Google. You can find more information on Google Analytics&nbsp;<a href="https://www.google.com/intl/en/policies/privacy/" target="_blank"><strong>here</strong></a>.</p><p><strong>9. HOW WE PROTECT PERSONAL INFORMATION</strong></p><p>Your Personal Data are treated strictly confidential and our Website maintains appropriate administrative, technical and physical safeguards and security measures to protect the Personal Data you provide on this Website against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use and any other unlawful forms of processing. To this purpose, Calvin Klein uses several security techniques including secure servers, firewalls and encryptions, as well as physical safeguard of the locations where the data are stored.</p><p><strong>10. MINORS PROVIDING PERSONAL DATA</strong></p><p>Persons below the age of 18 may only provide personal data to Calvin Klein if they have written permission of one of their parents or their legal guardian who has read this privacy, security and cookies policy.</p><p><strong>11. CHANGES TO THIS PRIVACY, SECURITY AND COOKIES POLICY</strong></p><p>This privacy, security and cookies policy may be changed over time: users of the Website are advised to regularly review this policy for possible changes. This policy was last modified in June 2014.</p><p>This policy can be stored or printed using the buttons at the top of this page.</p><p><strong>12. CONTACT – RIGHT TO ACCESS AND CORRECT PERSONAL DATA</strong></p><p>If you have any questions, comments or complaints about us or how we process your Personal Data, or in case you wish not to be contacted by us for direct marketing purposes anymore, please contact us at the address, phone number or email below. Also, upon request, we will provide you with a summary of any personally identifiable information collected and retained by us regarding you. You may modify, correct, or update your personal information or request to have your personal information removed from our database. We will only send copies of personal information to the email address on file for the visitor name associated with it.</p><p>Our contact details are:</p><p>CK Stores B.V</p><p>Stadhouderskade 6</p><p>1054 ES Amsterdam</p><p>The Netherlands</p><p>Telephone: 00800 – 74636499 (toll free number) 09.30 - 18.00 CET Mon - Fri</p><p><strong><a href="mailto:service.eu@calvinklein.com" target="_blank">service.eu@calvinklein.com</a></strong></p><p>© 2014, CK Stores B.V.<br></p> </span>
+</div>
+</div> </div>
+<div class="ck-content-wrapper">
+<div id="annex2" class="anchor b3g12-row ck-d-container">
+<div class="b3g12-col-lg-12">
+<span class="ck-text-container ck-text-color ck-text-font-family ck-text-letter-spacing ck-sub-title2-font-size" style=" ">
+<p><em>​​​​​​​</em><br></p> </span>
+<span class=" ck-text-container ck-text-letter-spacing ck-body-font-size" style="color: #000000; font-family: Futura; ">
+<p>Annex 2&nbsp;</p><p><br></p><h2>RETURN INFORMATION</h2><p>All products purchased on the Website may be returned within the following time frame at your own risk. You have the right to return products and cancel (“withdraw from”) your order within 14 days, without giving any reason. The withdrawal period will expire 14 days after the day on which you acquire, or a third party other than the carrier and indicated by you acquires, physical possession of the last of the products ordered in one order. You then need to physically return such product(s) to us without undue delay and in any event no later than 14 days after the day you informed us about your intention to return the product(s).</p><p>To exercise your right of withdrawal, you must inform us of your decision to withdraw from your order by an unequivocal statement (e.g. a letter sent by post, fax or e-mail) at the following contact:</p><p><br></p><p>Calvin Klein</p><p>Marco Poloweg 7</p><p>5928LE</p><p>Venlo Blerick</p><p>The Netherlands</p><p><br></p><p>Telephone: 00800 – 74636499 (toll free number) Mon - Fri 09.30 – 18.00 CET</p><p><strong><a href="mailto:service.eu@calvinklein.com" target="_blank">service.eu@calvinklein.com</a></strong></p><p><br></p><p>You may use the attached model return form (<a href="#annex3" target="_self"><strong>Annex 3</strong></a>) that can be found online, but it is not obligatory.</p><p>To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.</p><p><strong>Effects of withdrawal</strong></p><p>If you withdraw from your order, we will reimburse to you all payments received from you, including the costs of standard delivery and eventual administration fees, without undue delay and in any event not later than 14 days from the day on which we are informed about your decision to return products. We may however withhold reimbursement until we have received the products back or until you have supplied evidence of having sent back the products, whichever is the earliest. We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise; in any event, you will not incur any fees as a result of such reimbursement. Costs of delivery will not be reimbursed in case you withdraw only part of your order.</p><p>You will return the products or hand them over to us, without undue delay and in any event not later than 14 days from the day on which you communicate your withdrawal from this contract to us. The deadline is met if you send back the products before the period of 14 days has expired.</p><p>We will bear the cost of returning the products. You are only liable for any diminished value of the products resulting from the handling other than what is necessary to establish the nature, characteristics and functioning of the products.</p><p>For more information on how to return your order, please click&nbsp;<a href="http://www.calvinklein.si/customer-service-returns#howtoreturn" target="_self"><strong>here</strong></a>.</p> </span>
+</div>
+</div> </div>
+<div class="ck-content-wrapper">
+<div id="annex3" class="anchor b3g12-row ck-d-container">
+<div class="b3g12-col-lg-12">
+<span class="ck-text-container ck-text-color ck-text-font-family ck-text-letter-spacing ck-sub-title2-font-size" style=" ">
+<p><em>​​​​​​​</em><br></p> </span>
+<span class=" ck-text-container ck-text-letter-spacing ck-body-font-size" style="color: #000000; font-family: Futura; ">
+<p>Annex 3</p><p><br></p><h1>MODEL RETURN FORM</h1> </span>
+</div>
+</div> </div>
+<div class="ck-content-wrapper">
+<div class="">
+<img class="cm-image cm-image--loading cm-image--responsive" data-cm-responsive-image="[{&quot;name&quot;:&quot;portrait_ratio1400x1981&quot;,&quot;ratioWidth&quot;:1400,&quot;ratioHeight&quot;:1981,&quot;linksForWidth&quot;:{&quot;1400&quot;:&quot;/resource/image/203034/portrait_ratio1400x1981/1400/1981/24ebfe3b19ea6af9fd3d4b0ac4826c46/KX/a4-return-form-1.jpg&quot;}}]" src="" alt="A4-Return_form-1" title="A4-Return_form-1">
+</div> </div>
+<div class="ck-content-wrapper">
+<div class="">
+<img class="cm-image cm-image--loading cm-image--responsive" data-cm-responsive-image="[{&quot;name&quot;:&quot;portrait_ratio1400x1981&quot;,&quot;ratioWidth&quot;:1400,&quot;ratioHeight&quot;:1981,&quot;linksForWidth&quot;:{&quot;1400&quot;:&quot;/resource/image/203036/portrait_ratio1400x1981/1400/1981/22acf5d77e374fcc3a3054862b514828/Pc/a4-return-form-instructions.jpg&quot;}}]" src="" alt="A4-Return_form-instructions" title="">
+</div> </div>
+</div><div id="customerservice" class="anchor b3g12-container max-width-1280 ck-d-container ck-customer-service">
+<div class="ck-content-wrapper">
+<div id="backtotop">
+<a href="#top">Back to top</a>
+</div> </div>
+</div>      </div>
+      <div class="b3g12-col-md-3">
+        <div class="ck-sidebar">
+<!-- Desktop View, content #203526, placement 'sidebar' -->
+<!-- CoreMedia Placement sidebar -->
+<div class="ck-placement cm-placement-sidebar ">
+<div class="" style="background-color: #F1F1F1;">
+<span class="ck-title-copy"> CUSTOMER SERVICE</span>
+<ul class="ck-list">
+<li class="ck-list-item">
+<a href="http://www.calvinklein.si/customer-service-shipping-information" onclick="" target="" class="">
+SHIPPING
+</a> </li>
+<li class="ck-list-item">
+<a href="http://www.calvinklein.si/customer-service-payment-options" onclick="" target="" class="">
+PAYMENT
+</a> </li>
+<li class="ck-list-item">
+<a href="http://www.calvinklein.si/customer-service-returns" onclick="" target="" class="">
+RETURNS
+</a> </li>
+<li class="ck-list-item">
+<a href="http://www.calvinklein.si/customer-service-your-order-information" onclick="" target="" class="">
+YOUR ORDER
+</a> </li>
+<li class="ck-list-item">
+<a href="http://www.calvinklein.si/my-account-FAQ" onclick="" target="" class="">
+MY ACCOUNT
+</a> </li>
+<li class="ck-list-item">
+<a href="http://www.calvinklein.si/womens-size-guide" onclick="" target="" class="">
+WOMEN'S SIZE GUIDE
+</a> </li>
+<li class="ck-list-item">
+<a href="http://www.calvinklein.si/mens-size-guide" onclick="" target="" class="">
+MEN'S SIZE GUIDE
+</a> </li>
+<li class="ck-list-item">
+<a href="http://www.calvinklein.si/safety-security-privacy" onclick="" target="" class="">
+SAFETY, SECURITY AND PRIVACY
+</a> </li>
+<li class="ck-list-item">
+<a href="http://www.calvinklein.si/terms-and-conditions" onclick="" target="" class="">
+TERMS &amp; CONDITIONS
+</a> </li>
+<li class="ck-list-item">
+<a href="http://www.calvinklein.si/customer-service-company-information" onclick="" target="" class="">
+COMPANY INFORMATION
+</a> </li>
+</ul>
+</div><div class="" style="background-color: #494949;">
+<div class="sidebar-bottom">
+<div class="sb-title"><b>can we help you?</b>
+<p class="small-text">Contact customer service</p>
+</div>
+<ul>
+<li>
+<b><a href="/CustomerService-ContactUs">FILL THE ONLINE FORM</a></b>
+</li>
+</ul>
+<ul>
+<li><b>via email</b></li>
+<li class="link-size"><a href="mailto:service.eu@calvinklein.com"> SERVICE.EU@CALVINKLEIN.COM</a></li>
+</ul>
+<ul>
+<li><b>via phone</b></li>
+<li class="link-size after"> 00800 – 74636499*</li>
+<li class="link-size">(09.30 - 18.00 CET Mon - Fri)</li>
+<li class="link-size"><p>* (toll free number)</p></li>
+</ul>
+</div>
+</div></div>        </div>
+      </div>
+    </div>
+  </div>
+</div><!-- view = forDesktop; placement=main; productId=; categoryId=; storeId=20025; locale=en_GB  --><!-- END CoreMediaContentWidget.jsp -->
+		</div>
+
+	</div>
+
+</div>
+
+<!-- END CustomerServiceContainer.jsp -->
+				</div>
+			</div>
+			
+			<div id="footerWrapper">
+				<!-- BEGIN Footer.jsp -->
+
+<footer id="footer" class="siteFooter">
+	
+	<div class="footerRow3">
+		<div class="contentWrapper">
+			<!-- BEGIN CoreMediaContentWidget.jsp -->
+<!-- Desktop View, content #203526, placement 'globalFooter04' -->
+
+<!-- CoreMedia Placement globalFooter04 -->
+
+
+<div class="ck-placement cm-placement-globalFooter04 ">
+<!-- START PRIMARY DESKTOP FOOTER -->
+<div id="desktopFooter" class="ck-d-footer">
+<div class="ck-d-footer-content">
+<div class="ck-d-footer-columns">
+<div>
+<div id="footerColumn1" class="ck-d-footer-columns-item">
+<div>
+<h4>Contact Us</h4>
+<div>
+<div>
+<a href="http://www.calvinklein.si/CustomerService-ContactUs" onclick="" target="" class="">
+Send us an email
+</a> </div>
+<div>
+<a href="http://www.calvinklein.si/customer-service-contact-us" onclick="" target="" class="">
+Call us
+</a> </div>
+</div>
+</div><div>
+<div><a href="" onclick="window.open('http://explore.calvinklein.com/storelocator','Explore Calvin Klein','resizable,height=768,width=1024'); return false;">Find a store nearby</a></div></div></div><div id="footerColumn2" class="ck-d-footer-columns-item">
+<div>
+<h4>Help &amp; Info</h4>
+<div>
+<div>
+<a class="" href="http://www.calvinklein.si/customer-service-contact-us">Customer Service</a> </div>
+<div>
+<a class="" href="http://www.calvinklein.si/customer-service-shipping-information">Shipping</a> </div>
+<div>
+<a class="" href="http://www.calvinklein.si/customer-service-payment-options">Payment</a> </div>
+<div>
+<a class="" href="http://www.calvinklein.si/customer-service-returns">Returns</a> </div>
+<div>
+<a class="" href="http://www.calvinklein.si/customer-service-your-order-information">Your Order</a> </div>
+<div>
+<a class="" href="http://www.calvinklein.si/my-account-FAQ">My Account</a> </div>
+<div>
+<a class="" href="http://www.calvinklein.si/womens-size-guide">Women's Size Guide</a> </div>
+<div>
+<a class="" href="http://www.calvinklein.si/mens-size-guide">Men's Size Guide</a> </div>
+<div>
+<a class="" href="http://ec.europa.eu/consumers/odr/index_en.htm" target="_blank">ODR</a> </div>
+</div>
+</div></div><div id="footerColumn3" class="ck-d-footer-columns-item">
+<div>
+<h4>About</h4>
+<div>
+<div>
+<a class="" href="http://www.calvinklein.si/about-calvin-klein">About Calvin Klein</a> </div>
+<div>
+<a class="" href="http://www.calvinklein.si/safety-security-privacy">Safety, Security and Privacy</a> </div>
+<div>
+<a class="" href="http://www.calvinklein.si/terms-and-conditions">Terms &amp; Conditions</a> </div>
+<div>
+<a class="" href="http://www.calvinklein.si/customer-service-company-information">Company Information</a> </div>
+<div>
+<a class="" href="http://careers.calvinklein.com/int/en/Careers/Find-A-Job/21" target="_blank">Careers</a> </div>
+<div>
+<a class="" href="http://www.calvinklein.si/sitemap" target="_blank">Sitemap</a> </div>
+</div>
+</div><div>
+<h4 class="ck-d">Secure Payment</h4>
+<div class="icons-payment">
+<div class="icons-payment-item icons-payment-item-visa"></div>
+<div class="icons-payment-item icons-payment-item-mc"></div>
+<div class="icons-payment-item icons-payment-item-maestro"></div>
+<div class="icons-payment-item icons-payment-item-paypal"></div>
+<div class="icons-payment-item icons-payment-item-ae"></div>
+</div></div></div><div id="footerColumn4" class="ck-d-footer-columns-item">
+<div>
+<h4>Explore</h4>
+<div>
+<div>
+<a href="http://explore.calvinklein.com/en_EU/page/spotify?Icmpid=spotify|footer" target="_blank" class="icons-special-spotify"></a> </div>
+<div>
+<a href="http://explore.calvinklein.com/en_EU/films" onclick="" target="_blank" class="">
+Watch Calvin Klein Videos
+</a> </div>
+<div>
+<a href="http://explore.calvinklein.com/en_EU/explore" onclick="" target="_blank" class="">
+Our Brands
+</a> </div>
+</div>
+</div><div>
+<h4 class="icons-title">Connect with us</h4>
+<div class="icons-social">
+<a href="http://facebook.com/calvinklein" class="icons-social-item icons-social-item-fb" target="_blank"></a>
+<a href="http://twitter.com/calvinklein" class="icons-social-item icons-social-item-tw" target="_blank"></a>
+<a href="https://plus.google.com/+calvinklein" class="icons-social-item icons-social-item-gp" target="_blank"></a>
+<a href="http://instagram.com/calvinklein" class="icons-social-item icons-social-item-ig" target="_blank"></a>
+<a href="http://calvinklein.tumblr.com" class="icons-social-item icons-social-item-tmblr" target="_blank"></a>
+<a href="http://youtube.com/calvinklein" class="icons-social-item icons-social-item-yt" target="_blank"></a>
+</div></div><div>
+<a class="subscribe triggerPanelSlider" data-target="newsLetterSignup">sign up for newsletter</a></div></div></div>
+</div>
+<div class="ck-d-footer-row">
+<div class="ck-d-footer-row-content">
+<h3>2016 CK Stores B.V. All rights reserved</h3>
+<h3><a href="">Slovenia</a></h3>
+</div>
+<div class="ck-d-footer-row-list">
+<div class="ck-d-footer-row-list-items">
+<div class="item" data-country="AT">
+<div class="country">
+AUSTRIA </div>
+<div class="languages">
+<span data-url="//www.calvinklein.at">
+DE </span>
+</div>
+</div>
+<div class="item" data-country="BE">
+<div class="country">
+Belgium </div>
+<div class="languages">
+<span data-url="//www.calvinklein.be/FR/calvinkleinbe">
+FR </span>
+<span data-url="//www.calvinklein.be/NL/calvinkleinbe">
+NL </span>
+</div>
+</div>
+<div class="item" data-country="HR">
+<div class="country">
+Croatia </div>
+<div class="languages">
+<span data-url="//www.calvinklein.hr">
+EN </span>
+</div>
+</div>
+<div class="item" data-country="CZ">
+<div class="country">
+Czech Republic </div>
+<div class="languages">
+<span data-url="//www.calvinklein.cz">
+EN </span>
+</div>
+</div>
+<div class="item" data-country="DK">
+<div class="country">
+Denmark </div>
+<div class="languages">
+<span data-url="//www.calvinklein.dk">
+EN </span>
+</div>
+</div>
+<div class="item" data-country="EE">
+<div class="country">
+Estonia </div>
+<div class="languages">
+<span data-url="//www.calvinklein.ee">
+EN </span>
+</div>
+</div>
+<div class="item" data-country="FI">
+<div class="country">
+Finland </div>
+<div class="languages">
+<span data-url="//www.calvinklein.fi">
+EN </span>
+</div>
+</div>
+<div class="item" data-country="FR">
+<div class="country">
+France </div>
+<div class="languages">
+<span data-url="//www.calvinklein.fr">
+FR </span>
+</div>
+</div>
+<div class="item" data-country="DE">
+<div class="country">
+Germany </div>
+<div class="languages">
+<span data-url="//www.calvinklein.de">
+DE </span>
+</div>
+</div>
+<div class="item" data-country="HU">
+<div class="country">
+Hungary </div>
+<div class="languages">
+<span data-url="//www.calvinklein.hu">
+EN </span>
+</div>
+</div>
+<div class="item" data-country="IE">
+<div class="country">
+Ireland </div>
+<div class="languages">
+<span data-url="//www.calvinklein.ie">
+EN </span>
+</div>
+</div>
+<div class="item" data-country="IT">
+<div class="country">
+Italy </div>
+<div class="languages">
+<span data-url="//www.calvinklein.it">
+IT </span>
+</div>
+</div>
+<div class="item" data-country="LV">
+<div class="country">
+Latvia </div>
+<div class="languages">
+<span data-url="//www.calvinklein.lv">
+EN </span>
+</div>
+</div>
+<div class="item" data-country="LT">
+<div class="country">
+Lithuania </div>
+<div class="languages">
+<span data-url="//www.calvinklein.lt">
+EN </span>
+</div>
+</div>
+<div class="item" data-country="LU">
+<div class="country">
+Luxembourg </div>
+<div class="languages">
+<span data-url="//www.calvinklein.lu/DE/calvinkleinlu">
+DE </span>
+<span data-url="//www.calvinklein.lu/FR/calvinkleinlu">
+FR </span>
+</div>
+</div>
+<div class="item" data-country="NL">
+<div class="country">
+Netherlands </div>
+<div class="languages">
+<span data-url="//www.calvinklein.nl">
+NL </span>
+</div>
+</div>
+<div class="item" data-country="PL">
+<div class="country">
+Poland </div>
+<div class="languages">
+<span data-url="//www.calvinklein.pl">
+EN </span>
+</div>
+</div>
+<div class="item" data-country="PT">
+<div class="country">
+Portugal </div>
+<div class="languages">
+<span data-url="//www.calvinklein.pt">
+EN </span>
+</div>
+</div>
+<div class="item" data-country="RO">
+<div class="country">
+Romania </div>
+<div class="languages">
+<span data-url="//ro.calvinklein.com">
+EN </span>
+</div>
+</div>
+<div class="item" data-country="SK">
+<div class="country">
+Slovakia </div>
+<div class="languages">
+<span data-url="//www.calvinklein.sk">
+EN </span>
+</div>
+</div>
+<div class="item" data-country="SI">
+<div class="country">
+Slovenia </div>
+<div class="languages">
+<span data-url="//www.calvinklein.si">
+EN </span>
+</div>
+</div>
+<div class="item" data-country="SE">
+<div class="country">
+Sweden </div>
+<div class="languages">
+<span data-url="//www.calvinklein.se">
+EN </span>
+</div>
+</div>
+<div class="item" data-country="CH">
+<div class="country">
+Switzerland </div>
+<div class="languages">
+<span data-url="//www.calvinklein.ch/DE/calvinkleinch">
+DE </span>
+<span data-url="//www.calvinklein.ch/FR/calvinkleinch">
+FR </span>
+<span data-url="//www.calvinklein.ch/IT/calvinkleinch">
+IT </span>
+</div>
+</div>
+<div class="item" data-country="GB">
+<div class="country">
+United Kingdom </div>
+<div class="languages">
+<span data-url="//www.calvinklein.co.uk">
+EN </span>
+</div>
+</div>
+</div>
+</div></div> </div>
+</div>
+<!-- END PRIMARY DESKTOP FOOTER --></div><!-- view = forDesktop; placement=globalFooter04; productId=; categoryId=; storeId=20025; locale=en_GB  --><!-- END CoreMediaContentWidget.jsp -->
+		</div>
+	</div>
+	
+	<!-- 
+	HelpContactUs Page view
+	
+	<a href="http://www.calvinklein.si/CustomerService-ContactUs" class="myaccount_link" id="WC_ContactUsLink">Contact us anytime</a>
+	
+	 -->
+	 
+		<div class="remodal newsLetterModal" data-remodal-id="newsLetterModal">
+			
+
+<div id="newsLetterWidget2">
+    <div class="widgetNewsletterForm">
+        <a href="#" class="close" aria-label="Close"></a>
+        <div class="widgetSearchDropdown">
+            <div class="contentArea">
+             <div class="col">
+                    <!-- BEGIN CoreMediaContentWidget.jsp --><!-- view = forDesktop; placement=globalFooterNewsletter02; productId=; categoryId=; storeId=20025; locale=en_GB  --><!-- END CoreMediaContentWidget.jsp -->
+					
+					<div class="headerOffer">
+						<p>&nbsp;&nbsp;&nbsp;Sign up for the newsletter </p>
+						<p>+ Get 10% off your next order </p>
+					</div>
+						
+                    <form action="https://www.calvinklein.si/setEmailPreferences" method="post" class="newsLetterWidget widgetForm" novalidate="">
+
+						<input type="hidden" name="storeId" id="storeId" value="20025">
+						<input type="hidden" name="catalogId" id="catalogId" value="10188">
+						<input type="hidden" name="langId" id="langId" value="44">
+						<input type="hidden" name="haveComeFromFooterOrHeaderNewsLetterSignup" id="haveComeFromFooterOrHeaderNewsLetterSignup" value="true">
+						<input type="hidden" name="gender" value="">
+                        <fieldset>
+                            <div class="formField newsletterFormFieldContainer">
+                            	<label for="email" class="newsletterEmailLabel">Your E-mail address</label>
+                                <input type="email" id="email" name="email" value="" placeholder="E-mail address">
+                               
+				
+								<button class="btn btnPrimary genderBtn btnWomen" data-gender="women">
+									Women
+								</button>
+								<button class="btn btnPrimary genderBtn btnMen" data-gender="men">
+									Men
+								</button>
+								<button class="btn btnPrimary genderBtn btnBoth" data-gender="both">
+									 Both
+								</button>
+
+                                <div class="genderCheckboxes">
+                                    <div class="checkboxContainer formField">
+                                        <input type="checkbox" name="womenCheckbox" id="womenCheckbox2" class="genderCheckBox" data-gender="women" checked="">
+                                        <label for="womenCheckbox2">
+                                            Women
+                                        </label>
+                                    </div>
+                                    <div class="checkboxContainer formField">
+                                        <input type="checkbox" name="menCheckbox" id="menCheckbox2" class="genderCheckBox" data-gender="men" checked="">
+                                        <label for="menCheckbox2">
+                                            Men
+                                        </label>
+                                    </div>
+                                    
+                                        <button class="btn btnPrimary btnSubscribe" type="button" id="subscribeBtn2">
+                                            Subscribe
+                                        </button>
+                                    
+                                </div>
+                            </div>
+							<div class="formField check checkboxContainer termsCheckContainer reducedFontCheckbox">
+                                <input type="checkbox" id="termsCheckBox2" class="inputTerms checkbox">
+                                <label for="termsCheckBox2" class="termsCheckBox">
+                                    <span class="large">
+                                        By subscribing to Calvin Kleins newsletter, I understand and accept that my personal data will be sent to and processed by/on behalf of the responsible data-controlling entity Calvin Klein in Amsterdam, the Netherlands, for the purpose of sending me the latest product and promotional information by any form of communication including but not limited to email, phone and/or post. See also {0}.
+                                     </span>   
+                                     <span class="small">
+                                        Accept terms and conditions
+                                    </span>
+                                </label>
+                            </div>
+                            <p class="error"></p>
+                           
+                        </fieldset>
+
+                        
+
+                    </form>
+                </div>
+                <div class="col">
+                    <!-- BEGIN CoreMediaContentWidget.jsp --><!-- view = forDesktop; placement=globalFooterNewsletter01; productId=; categoryId=; storeId=20025; locale=en_GB  --><!-- END CoreMediaContentWidget.jsp -->
+                </div>
+
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+
+
+<script>
+    require([
+        'jquery',
+        'asyncReady',
+        'modules/footer/newsletterFormWidget'
+    ],
+    function($, asyncReady, NewsletterFormWidget) {
+		var context = $('#' + 'newsLetterWidget2');
+        asyncReady(function() {
+            new NewsletterFormWidget({
+            	context: context,
+            	isConfirmation: '',
+				errorMessages: {
+					emailInvalid: "Invalid email address - must be within validation rules",
+					termsInvalid: "Please check to confirm terms"
+				}
+			});
+        });
+
+    });
+</script>
+
+
+
+<div class="remodal newsLetterSuccessModal" data-remodal-id="newsLetterSuccessModal">
+	<h3>
+		Success!
+	
+	</h3>
+
+	<p>
+		You have been successfully signed up to the newsletter.
+	</p>
+
+	<button class="close btn btnPrimary" data-remodal-action="close">
+		Close
+	</button>
+</div>
+
+
+			<div class="loading"></div>
+		</div>
+
+	 
+</footer>
+
+<script>
+	require(['asyncReady', 'modules/footer'], function (asyncReady, Footer) {
+		asyncReady(function() {
+			new Footer();
+		});
+	});
+</script>
+
+<!-- END Footer.jsp -->
+			</div>
+		</div>
+		
+			
+	
+		<script type="text/javascript">
+			
+			var destinationUrl = "";
+			if(document.location.href != null && document.location.href != ''){
+			   	 destinationUrl = document.location.href;
+			}
+			
+			digitalData = {
+					
+				page: {
+					category: {
+	"pageType": "content",
+	"primaryCategory": "content",
+	"primaryCategoryId": "content"
+},
+					pageInfo: {
+						"destinationURL": destinationUrl ,
+						"pageAlias": "content",
+						"environment": "development"
+					},
+					
+					attributes: {
+						"pageId": "TermsConditions" ,
+						"storeCountry": "SI",
+						"storeLanguage": "en"
+					},
+					
+					
+					tools: [
+						{
+							"toolName": "adobe analytics",
+							"toolVersion": "H27.1"
+						}
+					]
+				}
+			};
+		</script>
+	<!--  CommonAnalyticsJSToInclude.jspf Begin -->
+	<script type="text/javascript" src="/wcsstore/PVHStoreFrontAssetStore/javascript/Analytics.js"></script>
+
+		<script type="text/javascript">
+		(function(a,b,c,d){
+		a='//tags.tiqcdn.com/utag/pvh/calvinklein-eu/dev/utag.js';
+		b=document;
+		c='script';
+		d=b.createElement(c); d.src=a; d.type='text/java'+c; d.async=true;
+		a=b.getElementsByTagName(c)[0];
+		a.parentNode.insertBefore(d,a);
+		})();
+		</script>
+	<!--  CommonAnalyticsJSToInclude.jspf End --> 
+	
+
+</body></html>
