@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the sueblimely.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203090200id_/http%3A//www.sueblimely.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sueblimely.com privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427143825id_/http%3A//www.sueblimely.com/privacy-policy) for the most accurate reproduction.*
 
-# Blogging Sueblimely
+# Privacy Policy sueblimely.com
 
-The privacy of our visitors is of extreme importance to us. This privacy policy document is designed to advise you about how we collect, use, and protect the Personally Identifiable Information (hereinafter defined) that you provide to us through our website. By visiting this website, you are accepting the practices described in this Privacy Policy. 
+Last updated January 15th, 2017 at 11:47 am
+
+The privacy of our visitors is of extreme importance to us. This privacy policy document is designed to advise you about how we collect, use, and protect the Personally Identifiable Information (hereinafter defined) that you provide to us through our website. By visiting this website, you are accepting the practices described in this Privacy Policy.
 
 1.) INFORMATION WE GATHERS AND TRACKS
 
@@ -34,17 +36,17 @@ Any of the information we collect from you may be used in, but not limited to, t
 (a) Identification of Purchasers  
 If you purchase one of our products or services, you authorize us to use your name and identification information in advertising or promotions.
 
-We may use personal information in an aggregate form (i.e., not individually attributable to you) for business analysis, operational, marketing and other promotional purposes. 
+We may use personal information in an aggregate form (i.e., not individually attributable to you) for business analysis, operational, marketing and other promotional purposes.
 
-You are also agreeing to receive information about the product or service you purchased. This may include, but is not limited to, information about product or service updates, new features, or information we believe you may find interesting. 
+You are also agreeing to receive information about the product or service you purchased. This may include, but is not limited to, information about product or service updates, new features, or information we believe you may find interesting.
 
 3.) HOW WE PROTECT YOUR INFORMATION  
-We implement a variety of security measures to maintain the safety of your personal information. We will not sell, provide, or transfer you email address to others. 
+We implement a variety of security measures to maintain the safety of your personal information. We will not sell, provide, or transfer you email address to others.
 
 4.) CHILDREN PRIVACY PROTECTION  
 This website does not provide services or sell products to children under the age of 18.
 
-If we discover we have received any information from a child under the age of 18 in violation of this policy, we will delete that information immediately. If you believe we have received any information from or about anyone under the age of 18, please contact us at the address listed below. 
+If we discover we have received any information from a child under the age of 18 in violation of this policy, we will delete that information immediately. If you believe we have received any information from or about anyone under the age of 18, please contact us at the address listed below.
 
 5.) THIRD PARTY LINKS  
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
