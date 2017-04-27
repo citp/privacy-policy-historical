@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baronweather.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113093215id_/http%3A//www.baronweather.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baronweather.com privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427181920id_/http%3A//www.baronweather.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Baron: Critical Weather Intelligence
 
