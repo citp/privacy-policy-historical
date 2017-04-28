@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cash4members.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119010629id_/http%3A//www.cash4members.com/en/pdf/c4m/privacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cash4members.com privacy policy that was archived on 2017-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170428164451id_/http%3A//cash4members.com/en/pdf/c4m/privacyPolicy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
