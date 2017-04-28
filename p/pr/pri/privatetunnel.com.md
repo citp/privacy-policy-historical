@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privatetunnel.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223012933id_/https%3A//www.privatetunnel.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privatetunnel.com privacy policy that was archived on 2017-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170428163817id_/https%3A//www.privatetunnel.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Private Tunnel
 
@@ -77,7 +77,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 PrivateTunnel.com  
-5980 Stoneridge Dr, Suite 103  
+7901 Stoneridge Dr, Suite 540  
 Pleasanton, California 94588  
 USA
 
