@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the musical.ly privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127013825id_/http%3A//www.musical.ly/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musical.ly privacy policy that was archived on 2017-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170428073544id_/https%3A//musical.ly/privacy.html) for the most accurate reproduction.*
 
 # musically
 
 _**Privacy Policy**_
 
-Effective Date: July 29, 2016 
+Effective Date: July 12, 2016 
 
-This Privacy Policy is incorporated by this reference into the End User License Agreement and Terms of Service located at  _<http://musical.ly/term.html>_ (“ _**EULA**_ ”). The terms “ _**Company**_ ,” “  _**we**_ ,” and “ _**us**_ ” include Musical.ly, an exempted company duly incorporated with limited liability and validly existing under the Laws of the Cayman Islands d/b/a Musical.ly Inc., and its affiliates and/or subsidiaries. All other terms not defined in this Privacy Policy will have the meanings set forth in the EULA. This Privacy Policy explains how the Company may:
+This Privacy Policy is incorporated by this reference into the End User License Agreement and Terms of Service located at _<http://musical.ly/term.html>_ (“ _ **EULA**_ ”). The terms “ _ **Company**_ ,” “ _ **we**_ ,” and “ _ **us**_ ” include Musical.ly, an exempted company duly incorporated with limited liability and validly existing under the Laws of the Cayman Islands d/b/a Musical.ly Inc., and its affiliates and/or subsidiaries. All other terms not defined in this Privacy Policy will have the meanings set forth in the EULA. This Privacy Policy explains how the Company may:
 
   * collect,
 
@@ -17,7 +17,7 @@ This Privacy Policy is incorporated by this reference into the End User License 
 
 
 
-information we obtain through the Service. As used in this Privacy Policy, “  _**Personal Information**_ ” means information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as your name, address, email address, or phone number. We do not consider Personal Information to include information that has been aggregated and/or de-identified so that it does not allow a third party to easily identify a specific individual.
+information we obtain through the Service. As used in this Privacy Policy, “ _ **Personal Information**_ ” means information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as your name, address, email address, or phone number. We do not consider Personal Information to include information that has been aggregated and/or de-identified so that it does not allow a third party to easily identify a specific individual.
 
 **The Service Collects Your Information**
 
@@ -44,7 +44,7 @@ We also collect information, such as anonymous usage statistics, by using cookie
 
 **Using the Service.** We collect information that you Post to the Service. For example, when you Post comments, a short biography, UGVs or Broadcast Content on the Service, we will collect the information you include in these submissions, including any Personal Information. 
 
-**Messages.** We collect and process information you provide, including any Personal Information, in the context of composing, sending, or receiving messages through our Service’s messaging functionality, and we may collect information about your use of our messaging functionality. Please be aware that messages sent to other Users of our Service will be accessible by those other Users and that we are not responsible for the manner in which those Users use or disclose messages. 
+**Messages.** We collect and process information you provide, including any Personal Information, in the context of composing, sending, or receiving messages through our Service’s messaging functionality, and we may collect information about your use of our messaging functionality. Please be aware that messages sent to other Users of our Service will be accessible by those other Users and that we are not responsible for the manner in which those Users use or disclose messages.
 
 **Location Information.** We collect information about your location if you grant us permission to do so. If you change your mind and do not want us to collect your location information, then you can choose to hide your location through the settings available with the Apps. 
 
@@ -77,7 +77,7 @@ We may use de-identified and aggregated information for any lawful purpose, incl
 
 **the Company May Disclose Your Information**
 
-We may share your information: 
+We may share your information:
 
   * with our third-party service providers;
 
@@ -148,7 +148,9 @@ We may revise this Privacy Policy, so please review it periodically.
 
 **Contact Information**
 
-Musical.ly Inc.   
-1161 Mission Street, Office #502   
-San Francisco, CA 94103   
-privacy@musical.ly 
+Musical.ly Inc.  
+1920 Olympic Boulevard  
+Santa Monica, CA 90404  
+privacy@musical.ly
+
+-6-
