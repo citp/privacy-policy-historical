@@ -1,447 +1,395 @@
-<!--The following is the downloaded HTML source of the coolworks.com privacy policy that was archived on 2016-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161123134517id_/http%3A//www.coolworks.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coolworks.com privacy policy that was archived on 2017-04-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170428040859id_/https%3A//www.coolworks.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"443df9d6f3","applicationID":"2694996","transactionName":"dlxeFhNeXF5XRBpAEFdfWQFOR1lXRWlFUQJQ","queueTime":0,"applicationTime":23,"agent":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwQDUFVACgUJUFhbAQ=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(14)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(14)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(14)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(w=-w,b.data=w)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(14)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,g),g.prototype=p.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var w=1,b=document.createTextNode(w);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[g[n]];return f&&f.push([w,n,r,i]),i}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},w={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return w}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=w.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(y,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(12),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(9);var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},g=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),w=e.exports={offset:a(),origin:v,features:{},xhrWrappable:g};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,7]);</script>
-  <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1, user-scalable=1">
-  <title>Cool Works Privacy Policy | CoolWorks.com</title>
-  <link href="https://fonts.googleapis.com/css?family=Rambla:400,700" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" media="screen" href="/assets/cw-assets-6b794146dba8ccd6a26e8983ea116ce198ad8dfad2d2d9ce9a8f6e2ccfd1925b.css">
-  <script src="/assets/cw-assets-a779c0ca71b4c72b1d65d8999594e96349a8771a7757039a7d1ce1597e683322.js"></script>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+  var pathInfo = {
+    base: 'https://www.coolworks.com/wp-content/themes/cw20/',
+    css: 'css/',
+    js: 'js/',
+    swf: 'swf/',
+  }
+  </script>
   <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-234969-1', {'cookieDomain': 'coolworks.com', 'siteSpeedSampleRate': 10});
-  ga('require', 'displayfeatures');
-  ga('set', 'contentGroup1', 'Static');
-  
-  ga('send', 'pageview');
-</script>
-
-  <meta content="Cool Works Privacy Policy" name="description">
-<meta content="privacy policy" name="keywords">
-<meta content="Cool Works Privacy Policy" property="og:title">
-<meta content="article" property="og:type">
-<meta content="http://www.coolworks.com/system/heros/288/square/indiana-dunes-NPS.jpg?1473224179" property="og:image">
-<meta content="http://www.coolworks.com/about/privacy.html" property="og:url">
-<meta content="CoolWorks.com" property="og:site_name">
-<meta content="Cool Works Privacy Policy" property="og:description">
-<meta content="159890424038290" property="fb:app_id">
-
-</head>
-<body class="blue-mtn-lake wide">
-<div id="wrapper" class="container_12">
-  <div id="header" class="clearfix">
-  <div class="grid_4" id="logo">
-    <a href="/"><img alt="CoolWorks.com" src="/assets/cw-logo-4fb9440784b3788acdf68a4de2915c25480fce4ddf5c3f07e2c347f47b4edfcd.png" width="300" height="79"></a>
-  </div>
-  <div class="grid_8" id="nav">
-    <div id="nav-links" class="clearfix">
-      <ul>
-        <li><a href="/about/about-us.html">About</a></li>
-        <li><a href="/about/news.html">News</a></li>
-        <li><a href="/about/faq.html">FAQ</a></li>
-      </ul>
-    </div>
-    <div id="nav-menus" class="clearfix">
-  <div id="find-a-job"><a href="/find-a-job/" class="nav-button">Find a Job</a>
-    <div class="sub clearfix">
-      <ul class="subnav">
-        <li class="label">Find jobs by:</li>
-        <li class="tab" id="category-tab"><a href="/find-a-job/#category" class="tab">Category</a>
-          <div class="links">
-            <ul class="grid_2 alpha">
-              <li><a href="/administrative-jobs/">Administrative Jobs</a></li>
-              <li><a href="/camp-jobs/">Camp Jobs</a></li>
-              <li><a href="/careers/">Careers</a></li>
-              <li><a href="/conservation-corps/">Conservation Corps</a></li>
-              <li><a href="/driving-jobs/">Driving Jobs</a></li>
-              <li><a href="/environmental-jobs/">Environmental Jobs</a></li>
-              <li><a href="/farm-garden-jobs/">Farm and Garden Jobs</a></li>
-              <li><a href="/restaurant-jobs/">Food and Bev Jobs</a></li>
-              <li><a href="/fishing-jobs/">Fishing Jobs</a></li>
-              <li><a href="/guest-services/">Guest Services</a></li>
-            </ul>
-            <ul class="grid_2">
-              <li><a href="/guide-jobs/">Guide Jobs</a></li>
-              <li><a href="/guest-services/">Housekeeping</a></li>
-              <li><a href="/internships/">Internships</a></li>
-              <li><a href="/international-job-seekers/">J-1/H2B Visa Info</a></li>
-              <li><a href="/island-beach-jobs/">Island / Beach Jobs</a></li>
-              <li><a href="/jobs-on-horseback/">Jobs on Horseback</a></li>
-              <li><a href="/jobs-with-rv-spaces/">Jobs for RVers</a></li>
-              <li><a href="/jobs-on-water/">Jobs on Water</a></li>
-              <li><a href="/national-park-jobs/">National Park Jobs</a></li>
-              <li><a href="/maintenance-jobs/">Maintenance Jobs</a></li>
-            </ul>
-            <ul class="grid_2">
-              <li><a href="/management-jobs/">Managers / Supervisors</a></li>
-              <li><a href="/non-profits/">Non Profits</a></li>
-              <li><a href="/older-bolder/">Older and Bolder</a></li>
-              <li><a href="/other-cool-jobs/">Other Cool Jobs</a></li>
-              <li><a href="/outdoor-adventures/">Outdoor Adventures</a></li>
-              <li><a href="/ranch-jobs/">Ranch Jobs</a></li>
-              <li><a href="/resort-jobs/">Resort Jobs</a></li>
-              <li><a href="/restaurant-jobs/">Restaurant Jobs</a></li>
-              <li><a href="/retail-jobs/">Retail Jobs</a></li>
-            </ul>
-            <ul class="grid_2 omega">
-              <li><a href="/retreat-conference-centers/">Retreat / Conference Centers</a></li>
-              <li><a href="/seasonal-pros/">Seasonal Pros</a></li>
-              <li><a href="/ski-resort-jobs/">Ski Resort Jobs</a></li>
-              <!-- <li><a href="/state-park-jobs/">State Park Jobs</a></li> -->
-              <li><a href="/teaching-jobs/">Teachers / Educators</a></li>
-              <li><a href="/teen-jobs/">Teen Jobs</a></li>
-              <li><a href="/trip-leaders/">Trip Leaders</a></li>
-              <li><a href="/volunteer/">Volunteer</a></li>
-              <li><a href="/work-abroad/">Work, Study, Teach Abroad</a></li>
-            </ul>
-            <div class="foot">
-              <ul>
-                <li><a class="whats-new" href="/whats-new/">What's New</a></li>
-                <li><a class="help-wanted" href="/help-wanted-now/">Help Wanted</a></li>
-                <li><a class="highlighted-jobs" href="/highlighted-jobs/">Highlighted Jobs</a></li>
-                <li><a class="job-map" href="/job-map/">Job Map</a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="tab" id="state-tab"> <a href="/jobs-by-state/" class="tab">State</a>
-          <div class="links">
-            <ul class="grid_2 alpha">
-              <li><a href="/alabama-jobs/">Alabama</a></li>
-              <li><a href="/alaska-jobs/">Alaska</a></li>
-              <li><a href="/arizona-jobs/">Arizona</a></li>
-              <li><a href="/arkansas-jobs/">Arkansas</a></li>
-              <li><a href="/california-jobs/">California</a></li>
-              <li><a href="/colorado-jobs/">Colorado</a></li>
-              <li><a href="/connecticut-jobs/">Connecticut</a></li>
-              <li><a href="/delaware-jobs/">Delaware</a></li>
-              <li><a href="/florida-jobs/">Florida</a></li>
-              <li><a href="/georgia-jobs/">Georgia</a></li>
-              <li><a href="/hawaii-jobs/">Hawaii</a></li>
-              <li><a href="/idaho-jobs/">Idaho</a></li>
-              <li><a href="/illinois-jobs/">Illinois</a></li>
-            </ul>
-            <ul class="grid_2">
-              <li><a href="/indiana-jobs/">Indiana</a></li>
-              <li><a href="/iowa-jobs/">Iowa</a></li>
-              <li><a href="/kansas-jobs/">Kansas</a></li>
-              <li><a href="/kentucky-jobs/">Kentucky</a></li>
-              <li><a href="/louisiana-jobs/">Louisiana</a></li>
-              <li><a href="/maine-jobs/">Maine</a></li>
-              <li><a href="/maryland-jobs/">Maryland</a></li>
-              <li><a href="/massachusetts-jobs/">Massachusetts</a></li>
-              <li><a href="/michigan-jobs/">Michigan</a></li>
-              <li><a href="/minnesota-jobs/">Minnesota</a></li>
-              <li><a href="/mississippi-jobs/">Mississippi</a></li>
-              <li><a href="/missouri-jobs/">Missouri</a></li>
-              <li><a href="/montana-jobs/">Montana</a></li>
-            </ul>
-            <ul class="grid_2">
-              <li><a href="/nebraska-jobs/">Nebraska</a></li>
-              <li><a href="/nevada-jobs/">Nevada</a></li>
-              <li><a href="/new-hampshire-jobs/">New Hampshire</a></li>
-              <li><a href="/new-jersey-jobs/">New Jersey</a></li>
-              <li><a href="/new-mexico-jobs/">New Mexico</a></li>
-              <li><a href="/new-york-jobs/">New York</a></li>
-              <li><a href="/north-carolina-jobs/">North Carolina</a></li>
-              <li><a href="/north-dakota-jobs/">North Dakota</a></li>
-              <li><a href="/ohio-jobs/">Ohio</a></li>
-              <li><a href="/oklahoma-jobs/">Oklahoma</a></li>
-              <li><a href="/oregon-jobs/">Oregon</a></li>
-              <li><a href="/pennsylvania-jobs/">Pennsylvania</a></li>
-              <li><a href="/rhode-island-jobs/">Rhode Island</a></li>
-            </ul>
-            <ul class="grid_2 omega">
-              <li><a href="/south-carolina-jobs/">South Carolina</a></li>
-              <li><a href="/south-dakota-jobs/">South Dakota</a></li>
-              <li><a href="/tennessee-jobs/">Tennessee</a></li>
-              <li><a href="/texas-jobs/">Texas</a></li>
-              <li><a href="/utah-jobs/">Utah</a></li>
-              <li><a href="/vermont-jobs/">Vermont</a></li>
-              <li><a href="/virginia-jobs/">Virginia</a></li>
-              <li><a href="/washington-jobs/">Washington</a></li>
-              <li><a href="/west-virginia-jobs/">West Virginia</a></li>
-              <li><a href="/wisconsin-jobs/">Wisconsin</a></li>
-              <li><a href="/wyoming-jobs/">Wyoming</a></li>
-            </ul>
-            <div class="foot">
-              <ul>
-                <li><a class="whats-new" href="/whats-new/">What's New</a></li>
-                <li><a class="help-wanted" href="/help-wanted-now/">Help Wanted</a></li>
-                <li><a class="highlighted-jobs" href="/highlighted-jobs/">Highlighted Jobs</a></li>
-                <li><a class="job-map" href="/job-map/">Job Map</a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="tab" id="season-tab"><a href="/find-a-job/#season" class="tab">Season</a>
-          <div class="links">
-            <ul class="grid_2 alpha">
-              <li><a href="/summer-jobs/">Summer Jobs</a></li>
-              <li><a href="/year-round-jobs/">Year-round Jobs</a></li>
-            </ul>
-            <ul class="grid_2">
-              <li><a href="/fall-jobs/">Fall Jobs</a></li>
-            </ul>
-            <ul class="grid_2">
-              <li><a href="/winter-jobs/">Winter Jobs</a></li>
-            </ul>
-            <ul class="grid_2 omega">
-              <li><a href="/spring-jobs/">Spring Jobs</a></li>
-            </ul>
-            <div class="foot">
-              <ul>
-                <li><a class="whats-new" href="/whats-new/">What's New</a></li>
-                <li><a class="help-wanted" href="/help-wanted-now/">Help Wanted</a></li>
-                <li><a class="highlighted-jobs" href="/highlighted-jobs/">Highlighted Jobs</a></li>
-                <li><a class="job-map" href="/job-map/">Job Map</a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="tab" id="national-park-tab"> <a href="/national-park-jobs/" class="tab">National Park</a>
-          <div class="links">
-            <ul class="grid_2 alpha">
-              <li><a href="/acadia-national-park-jobs/">Acadia </a></li>
-              <li><a href="/admiralty-island-jobs/">Admiralty Island</a></li>
-              <li><a href="/arches-national-park-jobs/">Arches </a></li>
-              <li><a href="/arctic-national-wildlife-refuge-jobs/">Arctic National Wildlife Refuge</a></li>
-              <li><a href="/badlands-national-park-jobs/">Badlands</a></li>
-              <li><a href="/big-bend-national-park-jobs/">Big Bend </a></li>
-              <li><a href="/blue-ridge-parkway-jobs/">Blue Ridge Parkway</a></li>
-              <li><a href="/bryce-canyon-national-park-jobs/">Bryce Canyon</a></li>
-              <li><a href="/canyonlands-national-park-jobs/">Canyonlands</a></li>
-              <li><a href="/cape-cod-jobs/">Cape Cod National Seashore</a></li>
-              <li><a href="/crater-lake-national-park-jobs/">Crater Lake</a></li>
-            </ul>
-            <ul class="grid_2">
-              <li><a href="/death-valley-national-park-jobs/">Death Valley</a></li>
-              <li><a href="/denali-national-park-jobs/">Denali</a></li>
-              <li><a href="/everglades-national-park-jobs/">Everglades</a></li>
-              <li><a href="/gates-of-the-arctic-jobs/">Gates of the Arctic</a></li>
-              <li><a href="/glacier-bay-national-park-jobs/">Glacier Bay</a></li>
-              <li><a href="/glacier-national-park-jobs/">Glacier</a></li>
-              <li><a href="/glen-canyon-lake-powell-jobs/">Glen Canyon  - Lake Powell</a></li>
-              <li><a href="/grand-canyon-national-park-jobs/">Grand Canyon</a></li>
-              <li><a href="/grand-teton-national-park-jobs/">Grand Teton</a></li>
-              <li><a href="/hawaii-volcanoes-national-park-jobs/">Hawaii Volcanoes</a></li>
-              <li><a href="/isle-royale-national-park-jobs/">Isle Royale</a></li>
-              <li><a href="/katmai-national-park-jobs/">Katmai</a></li>
-            </ul>
-            <ul class="grid_2">
-              <li><a href="/kenai-fjords-national-park-jobs/">Kenai Fjords</a></li>
-              <li><a href="/lake-clark-national-park-jobs/">Lake Clark</a></li>
-              <li><a href="/mammoth-cave-national-park-jobs/">Mammoth Cave</a></li>
-              <li><a href="/mesa-verde-national-park-jobs/">Mesa Verde</a></li>
-              <li><a href="/misty-fjords-national-park-jobs/">Misty Fjords</a></li>
-              <li><a href="/mount-rainier-national-park-jobs/">Mount Rainier</a></li>
-              <li><a href="/mount-rushmore-black-hills-jobs/">Mount Rushmore - Black Hills</a></li>
-              <li><a href="/north-cascades-national-park-jobs/">North Cascades</a></li>
-              <li><a href="/olympic-national-park-jobs/">Olympic</a></li>
-              <li><a href="/rocky-mountain-national-park-jobs/">Rocky Mountain</a></li>
-              <li><a href="/saguaro-national-park-jobs/">Saguaro</a></li>
-            </ul>
-            <ul class="grid_2 omega">
-              <li><a href="/sequoia-kings-canyon-national-park-jobs/">Sequoia and Kings Canyon</a></li>
-              <li><a href="/shenandoah-national-park-jobs/">Shenandoah</a></li>
-              <li><a href="/smoky-mountains-national-park-jobs/">Great Smoky Mountains</a></li>
-              <li><a href="/theodore-roosevelt-national-park-jobs/">Theodore Roosevelt</a></li>
-              <li><a href="/voyageurs-national-park-jobs/">Voyageurs</a></li>
-              <li><a href="/wrangell-st-elias-jobs/">Wrangell - St Elias</a></li>
-              <li><a href="/yellowstone-national-park-jobs/">Yellowstone</a></li>
-              <li><a href="/yosemite-national-park-jobs/">Yosemite</a></li>
-              <li><a href="/yukon-flats-national-wildlife-refuge-jobs/">Yukon Flats National Wildlife Refuge</a></li>
-              <li><a href="/zion-national-park-jobs/">Zion</a></li>
-            </ul>
-            <div class="foot">
-              <ul>
-                <li><a class="whats-new" href="/whats-new/">What's New</a></li>
-                <li><a class="help-wanted" href="/help-wanted-now/">Help Wanted</a></li>
-                <li><a class="highlighted-jobs" href="/highlighted-jobs/">Highlighted Jobs</a></li>
-                <li><a class="job-map" href="/job-map/">Job Map</a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="search-box">
-    <form action="/search" method="get">
-      <input autocomplete="off" id="q" name="q" type="text" placeholder="Search jobs and employers">
-      <button class="search" type="submit" value="Search">Search</button>
-    </form>
-  </div>
-
-  <div id="employers"><a href="/employers/" class="nav-button">Post a Job</a>
-    <div class="sub clearfix">
-      <ul class="subnav">
-        <li class="label">&nbsp;</li>
-        <li class="tab" id="new-emp-tab">
-          <div class="links">
-            <ul class="grid_3 alpha">
-              <li><a href="/signups/new">Signup and Post a Job</a></li>
-              <li><a href="/login">Login to Post a Job</a></li>
-              <li><a href="https://staffingcenter.coolworks.com/">Staffing Center Login</a></li>
-              <li><a href="/employers/posting-options.html">Posting Options</a></li>
-              <li><a href="/coolworks/form/employer-profile-form">Submit Profile Info</a></li>
-            </ul>
-            <div class="foot">
-              <ul>
-                <li><a href="/about/the-coolworks-team.html" class="our-team">Our Team</a></li>
-                <li><a href="/about/contact-us.html" class="contact-us">Contact Us</a></li>
-                <li><a href="http://seasonalhr.coolworks.com/" class="hr-blog">HR Blog</a></li>
-                <li><a href="/about/terms-of-use.html" class="terms-of-use">Terms of Use</a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-      </ul>
-    </div>
-  </div>
-</div>
-
-  </div>
-</div>
-
-
-  <div id="hero"><img alt="" src="/system/heros/288/original/indiana-dunes-NPS.jpg?1473224179" width="960" height="340"><div class="caption"></div></div>
-
-  <div id="content" class="clearfix">
-    <div id="top-wide" class="alpha omega">
-      <div class="spacer"></div>
-
-    </div>
-    <div id="left-col" class="alpha">
-      
-      <h1>Cool Works Privacy Policy</h1>
-<p>We respect your privacy</p>
-
-<p>In these days of spam and online scams, we at Cool Works® are sensitive to the issues of protecting your privacy and your identity. We try to provide the safest possible environment for you to search and apply for jobs.</p>
-
-<h3>PERSONAL INFORMATION</h3>
-
-<p>Cool Works® collects personal information from users on a voluntary basis only. This allows us to give you private and secure areas for job seekers and employers to post and edit content on our site. We do not sell your personal information to anyone for any reason. When you voluntarily distribute or display personal information such as your email address or resume, others may be able to collect and use it. As a result, you may receive unsolicited messages from third parties for which Cool Works® is not responsible.</p>
-
-<p>Our sites contain links to other Web sites over which we have no control. Cool Works® is not responsible for the privacy policies or practices of other Web sites to which you choose to link from Cool Works®. We encourage you to review the privacy policies of those other Web sites so you can understand how they collect, use and share your information.</p>
-
-<p>Please remember that if you post any of your personal information in public areas of Cool Works®, such as in online forums or chat rooms, such information may be collected and used by others over whom Cool Works® has no control. We are not responsible for the use made by third parties of information you post or otherwise make available in public areas of Cool Works®.</p>
-
-<p>We use the information we gather, whether personal, demographic, collective or technical, for the purpose of operating and improving Cool Works®, fostering a positive user experience, and delivering the products and services that we offer. We may also use the information we gather to inform you of other products or services available from Cool Works® or to contact you about your opinion regarding potential new products and services that may be offered. We may use your contact information in order to send you e-mail or other communications regarding updates at Cool Works®. We have an area where you may submit feedback. Any feedback you submit becomes our property, and we can use such feedback (such as success stories) for marketing purposes or contact you for further information.</p>
-
-<p>We may also use or disclose information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or the Site; (b) protect and defend the our rights or property, the Site or our users, and (c) act under emergency circumstances to protect the personal safety of us, our affiliates, agents, or the users of the Site or the public.</p>
-
-<p>This Site is not directed towards children under the age of 13, and we request that children under 13 not use this Site without prior parental consent. &nbsp;We also request that children under the age of 13 not provide personally identifiable information to the Site.</p>
-
-<h3>ABOUT COOKIES</h3>
-
-<p>We use cookies at Cool Works® only for the protection and convenience of our users. Cookies enable us to serve secure pages to our users without asking them to sign in repeatedly. If a user's system is idle for more than an hour, however, the cookie will expire, forcing the user to sign in again to continue their session. This prevents unauthorized access to the user's information while they are away from their computer.</p>
-
-<h3>JOB POSTER'S RULES</h3>
-
-<p>You may not:</p>
-
-<ul>
-	<li>impersonate another person, living or dead;</li>
-	<li>post false, inaccurate or misleading information;</li>
-	<li>post advertisements or solicitations of business</li>
-	<li>post chain letters or pyramid schemes; or</li>
-	<li>post opinions or notices, commercial or otherwise.</li>
-</ul>
-
-<h3>JOB SEEKER RULES</h3>
-
-<p>Cool Works® is under no obligation to monitor the conduct of its Users, but it may investigate and respond when violations are reported. You may not:</p>
-
-<ul>
-	<li>impersonate another person, living or dead;</li>
-	<li>post false, inaccurate or misleading information;</li>
-	<li>post advertisements or solicitations of business</li>
-	<li>post chain letters or pyramid schemes; or</li>
-	<li>post opinions or notices, commercial or otherwise.</li>
-</ul>
-
-<p>Cool Works® makes no representations or guarantees regarding the truthfulness, accuracy, completeness, timeliness or reliability of any information posted by Users, or of any other form of communication engaged in by Users.</p>
-
-<p>YOU ASSUME ALL RESPONSIBILITY AND RISK FOR YOUR USE OF THE SITE, THE INTERNET GENERALLY, AND THE INFORMATION YOU POST OR ACCESS AND FOR YOUR CONDUCT ON AND OFF THE SITE.</p>
-
-<h3>SOME IMPORTANT TIPS TO USE WHEN DEALING WITH PROSPECTIVE EMPLOYERS</h3>
-
-<ul>
-	<li>Do not give out your social security number.</li>
-	<li>Never provide credit card or bank numbers on an employment application.</li>
-	<li>Be cautious when dealing with contacts from other countries.</li>
-	<li>Do not provide any non-work related personal information (i.e. social security number, eye color, marital status etc.) over the phone or online.</li>
-</ul>
-
-<h3>OTHER PRIVACY FEATURES ON COOL WORKS</h3>
-
-<p>You never need to provide data to search for jobs.</p>
-
-<p>Choice/Opt-Out. Cool Works® provides you the opportunity to opt-out of receiving most communications from Cool Works®. You have the option to remove your information from our database and to not receive future communications or to no longer receive our service. We also give you the option to change or modify the information previously provided. To exercise any of these options:</p>
-
-<ol>
-	<li><a href="http://www.coolworks.com/about/contact-us.html" style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; color: rgb(154, 115, 170); background: transparent;">Contact us</a>&nbsp;with the details of your request</li>
-	<li>Send a letter to PO Box 275, Gardiner, MT 59030</li>
-	<li>Call us at (406) 848-2380</li>
-</ol>
-
-<p>&nbsp;</p>
-
-<p>* * * * * * * * * * *</p>
-
-<p>Note that, by using Cool Works® Services, you signify your agreement to this Privacy Policy. If you do not agree to this Policy, please do not use the Services. Your continued use of the Services subsequent to changes to this Policy will mean that you accept the changes.</p>
-
-
-    </div>
-    <div id="right-col" class="omega">
-      
-
-      
-      
-    </div>
-  </div>
-  <div id="footer" class="clearfix">
-  <div class="grid_12 middle">
-    <p>
-      <a href="http://twitter.com/coolworks"><img alt="Twitter" title="Foolow us on Twitter" src="/assets/icons/twitter-2-ee480a5b92f84e796b96fef4e9d10813f52bafbf4d7e9e23379602602570112b.png" width="32" height="32"></a>
-      <a href="http://www.facebook.com/CoolWorks"><img alt="Facebook" title="Visit us on Facebook" src="/assets/icons/facebook-2-894e7432e9561fc5901d83113be043ffba94d6ca239b098a7813cc78aa4f14f0.png" width="32" height="32"></a>
-      <a href="http://my.coolworks.com/"><img alt="MyCoolWorks" title="Hang out at My CoolWorks" src="/assets/icons/mycw-2-e64359fbfa7b1f02bfb82c998cd161a8c797a3c209ac8c7152da0b29979e1c21.png" width="32" height="32"></a>
-      <a href="/theblast/">Email Updates</a>
-      <a href="/about/privacy.html">Privacy Policy</a>
-      <a href="/about/terms-of-use.html">Terms of Use</a>
-      <a href="/about/site-map.html">Site Map</a>
-      Copyright ©1995 - 2016 <a href="/">CoolWorks® </a>
-    </p>
-    <br>
-  </div>
-</div>
-
-</div>
-
-<script type="text/javascript">var switchTo5x=true;</script>
-<script type="text/javascript">var __st_loadLate=true;</script>
-<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-234969-1', {'cookieDomain': 'coolworks.com', 'siteSpeedSampleRate': 10});
+    ga('require', 'displayfeatures');
+    ga('set', 'contentGroup1', 'WPContent');
+    ga('send', 'pageview');
+  </script>
+  <title>Privacy Policy - CoolWorks.com</title>
 <script type="text/javascript">
-  stLight.options({
-  publisher: '0c31c083-c8f6-48a0-aa30-338749fdfdc7',
-  publisherGA: 'UA-234969-1',
-  tracking: 'google',
-  onhover: false,
-  theme: '3'
-});
+window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);
+;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"443df9d6f3",applicationID:"48834100",sa:1}
 </script>
+<link rel="canonical" href="https://www.coolworks.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - CoolWorks.com">
+<meta property="og:description" content="PERSONAL INFORMATION Cool Works® collects personal information from users on a voluntary basis only. This allows us to give you private and secure areas for job seekers and employers to post and edit content on our site. We do not sell your personal information to anyone for any reason. When you voluntarily distribute or display …">
+<meta property="og:url" content="https://www.coolworks.com/privacy-policy/">
+<meta property="og:site_name" content="CoolWorks.com">
+<meta property="og:image" content="https://www.coolworks.com/wp-content/uploads/2016/02/FAQHero.jpg">
+<meta property="og:image:width" content="1000">
+<meta property="og:image:height" content="375">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="PERSONAL INFORMATION Cool Works® collects personal information from users on a voluntary basis only. This allows us to give you private and secure areas for job seekers and employers to post and edit content on our site. We do not sell your personal information to anyone for any reason. When you voluntarily distribute or display […]">
+<meta name="twitter:title" content="Privacy Policy - CoolWorks.com">
+<meta name="twitter:image" content="https://www.coolworks.com/wp-content/uploads/2016/02/FAQHero.jpg">
+<link rel="dns-prefetch" href="//widgets.getsitecontrol.com">
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="CoolWorks.com » Feed" href="https://www.coolworks.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="CoolWorks.com » Comments Feed" href="https://www.coolworks.com/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.coolworks.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.4"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.coolworks.com/wp-includes/js/wp-emoji-release.min.js?ver=4.7.4" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" href="https://www.coolworks.com/wp-content/plugins/xhanch-my-twitter/css/css.php" type="text/css" media="screen"><link rel="stylesheet" id="sb_instagram_styles-css" href="https://www.coolworks.com/wp-content/plugins/instagram-feed/css/sb-instagram.min.css?ver=1.4.8" type="text/css" media="all">
+<link rel="stylesheet" id="sb_instagram_icons-css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css?ver=4.6.3" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="//www.coolworks.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.0.4" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//www.coolworks.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.0.4" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="//www.coolworks.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.0.4" type="text/css" media="all">
+<link rel="stylesheet" id="wp-pagenavi-css" href="https://www.coolworks.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
+<link rel="stylesheet" id="google-fonts-css" href="https://fonts.googleapis.com/css?family=Dosis%3A700%2C600%2C500%7COpen+Sans%3A400italic%2C600%2C400%2C700%2C600italic%2C700italic%2C300%7CAbel&amp;ver=4.7.4" type="text/css" media="all">
+<link rel="stylesheet" id="base-style-css" href="https://www.coolworks.com/assets/application.css?ver=20170418001" type="text/css" media="all">
+<link rel="stylesheet" id="base-theme-css" href="https://www.coolworks.com/wp-content/themes/cw20/theme.css?ver=4.7.4" type="text/css" media="all">
+<script type="text/javascript" src="https://www.coolworks.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://www.coolworks.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://www.coolworks.com/wp-content/plugins/xhanch-my-twitter/js/marquee.js?ver=4.7.4"></script>
+<script type="text/javascript" src="https://www.coolworks.com/wp-content/plugins/xhanch-my-twitter/js/innerfade.js?ver=4.7.4"></script>
+<link rel="https://api.w.org/" href="https://www.coolworks.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.coolworks.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.coolworks.com/wp-includes/wlwmanifest.xml"> 
+<link rel="shortlink" href="https://www.coolworks.com/?p=62">
+<link rel="alternate" type="application/json+oembed" href="https://www.coolworks.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.coolworks.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.coolworks.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.coolworks.com%2Fprivacy-policy%2F&amp;format=xml">
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.coolworks.com/?wordfence_logHuman=1&hid=4FD2338782652644CC9612C0CD9FAD0E');
+</script></head>
+<body class="page-template page-template-pages page-template-template-basic page-template-pagestemplate-basic-php page page-id-62">
+  <div id="wrapper">
+    <header id="header">
+      <div class="logo">
+        <a href="https://www.coolworks.com">
+          <img srcset="https://www.coolworks.com/wp-content/themes/cw20/images/logo@2x.png 2x, https://www.coolworks.com/wp-content/themes/cw20/images/logo@3x.png 3x" src="https://www.coolworks.com/wp-content/themes/cw20/images/logo.png" alt="CoolWorks.com">
+          <img srcset="https://www.coolworks.com/wp-content/themes/cw20/images/logo-sticky@2x.png 2x, https://www.coolworks.com/wp-content/themes/cw20/images/logo-sticky@3x.png 3x" src="https://www.coolworks.com/wp-content/themes/cw20/images/logo-sticky.png" alt="CoolWorks.com" class="logo-sticky">
+        </a>
+      </div>
+      <a href="#" class="nav-opener"><span>btn</span><em>menu</em><em>close</em></a>
+      <div class="drop-nav">
+        <div class="wrap-nav">
+          <form action="/search" class="search-form" method="get">
+  <strong class="ttl">FIND JOBS IN GREAT PLACES</strong>
+  <input type="search" placeholder="Enter job title or keyword" name="q">
+  <input type="submit" value="SEARCH JOBS">
+  <p><a href="/search">ADVANCED SEARCH »</a></p>
+</form>
+          <nav id="main-nav" class="menu-main-menu-container"><ul><li id="menu-item-400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-400"><a href="/find-a-job">Find a Job</a>
+<ul>
+<li class="back"><a href="#">BACK TO MENU</a></li><li class="nav-top-link"><a href="/find-a-job">Find a Job</a></li>	<li id="menu-item-2480" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2480"><a href="/whats-new">What’s New</a></li>
+	<li id="menu-item-401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-401"><a href="/search">Search</a></li>
+	<li id="menu-item-402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-402"><a href="/jobs-by/category">Categories</a></li>
+	<li id="menu-item-403" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-403"><a href="/jobs-by/state">States</a></li>
+	<li id="menu-item-405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-405"><a href="/jobs-by/season">Seasons</a></li>
+	<li id="menu-item-404" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-404"><a href="/jobs-by/national-park">National Parks</a></li>
+	<li id="menu-item-406" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-406"><a href="/job-map">Job Map</a></li>
+</ul>
+</li>
+<li id="menu-item-2321" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2321"><a href="/post-a-job">Post a Job</a>
+<ul>
+<li class="back"><a href="#">BACK TO MENU</a></li><li class="nav-top-link"><a href="/post-a-job">Post a Job</a></li>	<li id="menu-item-2474" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2474"><a href="/post-a-job">Pricing &amp; Options</a></li>
+	<li id="menu-item-2322" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2322"><a href="/users/sign_up">Register to Post</a></li>
+	<li id="menu-item-2323" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2323"><a href="/login">Login to Post</a></li>
+</ul>
+</li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type_archive menu-item-object-resources menu-item-has-children menu-item-282"><a href="https://www.coolworks.com/resources/">Resources</a>
+<ul>
+<li class="back"><a href="#">BACK TO MENU</a></li><li class="nav-top-link"><a href="https://www.coolworks.com/resources/">Resources</a></li>	<li id="menu-item-369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-369"><a href="https://www.coolworks.com/faqs/">FAQs</a></li>
+	<li id="menu-item-1287" class="menu-item menu-item-type-taxonomy menu-item-object-tips menu-item-1287"><a href="https://www.coolworks.com/tips/older-and-bolder/">Older and Bolder</a></li>
+	<li id="menu-item-1286" class="menu-item menu-item-type-taxonomy menu-item-object-tips menu-item-1286"><a href="https://www.coolworks.com/tips/job-seeker-guide/">Job Seekers Guide</a></li>
+	<li id="menu-item-1284" class="menu-item menu-item-type-taxonomy menu-item-object-tips menu-item-1284"><a href="https://www.coolworks.com/tips/employers/">For Employers</a></li>
+	<li id="menu-item-37" class="hide-tablet menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://www.coolworks.com/community/">Community</a></li>
+</ul>
+</li>
+<li id="menu-item-283" class="menu-item menu-item-type-post_type_archive menu-item-object-journal menu-item-283"><a href="https://www.coolworks.com/journal/">Journal</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-33"><a href="https://www.coolworks.com/about/">About</a>
+<ul>
+<li class="back"><a href="#">BACK TO MENU</a></li><li class="nav-top-link"><a href="https://www.coolworks.com/about/">About</a></li>	<li id="menu-item-1408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1408"><a href="https://www.coolworks.com/about/the-coolworks-team/">Our Team</a></li>
+	<li id="menu-item-371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-371"><a href="https://www.coolworks.com/updates/">News &amp; Updates</a></li>
+	<li id="menu-item-368" class="menu-item menu-item-type-post_type_archive menu-item-object-testimonials menu-item-368"><a href="https://www.coolworks.com/testimonials/">Testimonials</a></li>
+</ul>
+</li>
+<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="https://www.coolworks.com/contact/">Contact</a></li>
+</ul></nav>          <div class="social-box">
+    <strong class="ttl">GET CONNECTED</strong>          <ul class="social-networks">
+        <li><a target="_blank" href="http://my.coolworks.com/" class="mycw">mycw</a></li>        <li><a target="_blank" href="https://www.facebook.com/CoolWorks" class="facebook">facebook</a></li>        <li><a target="_blank" href="https://twitter.com/coolworks" class="twitter">twitter</a></li>        <li><a target="_blank" href="https://www.instagram.com/coolworksjobs/" class="instagram">instagram</a></li>              </ul>
+        <strong class="text">Let's get social! Follow CoolWorks, share your experiences, and stay connected!</strong>  </div>
+      </div>
+    </div>
+    <div class="login-menu">
+      <a class="open-login" href="#">
+        <span class="on">
+          Account Login        </span>
+        <span class="off">Close</span>
+      </a>
+      <div class="login-drop">
+        <div class="wrap-login">
+            <form action="/users/sign_in" class="login-form" method="post">
+    <input type="email" placeholder="Username or Email" name="user[email]">
+    <input type="password" placeholder="Password" name="user[password]">
+    <div class="wrap">
+      <div class="wrap-check-box">
+        <input type="checkbox" id="checkbox" name="user[remember_me]">
+        <label for="checkbox">Remember me</label>
+      </div>
+      <a href="#" class="inf-pass">Forgot password?</a>
+    </div>
+    <input type="submit" value="LOG IN">
+  </form>
+  <ul class="login-links"><li id="menu-item-57" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57"><a href="/users/sign_up"><span>Don’t have an account?</span>REGISTER NOW</a></li>
+<li id="menu-item-58" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58"><a href="https://staffingcenter.coolworks.com/">STAFFING CENTER LOGIN</a></li>
+</ul>                                                    <div class="help-box">
+                              <strong class="text">Need assistance or have any questions? We're here to help!</strong>
+                                            <dl>
+                                      <dt>Email us: </dt>
+                    <dd><a href="mailto:help@coolworks.com">help@coolworks.com;</a></dd>
+                                                        <dt>call us:  </dt>
+                    <dd><a href="tel:4068482380">406-848-2380</a></dd>
+                                  </dl>
+                          </div>
+                  </div>
+      </div>
+    </div>
+  </header>
+  <main id="main" role="main">
+  <section class="visual-section" style="background-image: url(https://www.coolworks.com/wp-content/uploads/2016/02/FAQHero.jpg);">
+          <div class="container">
+        <div class="ttl-decor fixed-ttl">
+          <h1>Privacy Policy</h1>
+        </div>
+      </div>
+                  <div class="info-caption">
+                <p>Dry Tortugas National Park, Florida</p>
+      </div>
+      </section>
 
+  <section class="inform-section">
+    <div class="container">
+      <p>We respect your privacy. In these days of spam and online scams, we at Cool Works® are sensitive to the issues of protecting your privacy and your identity. We try to provide the safest possible environment for you to search and apply for jobs.</p>
+      <a href="#section" class="next-section">next-section ?&gt;</a>
+    </div>
+  </section>
+<div class="control-bar">
+  <div class="breadcrumbs" typeof="BreadcrumbList" vocab="http://schema.org/">
+    <!-- Breadcrumb NavXT 5.7.0 -->
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to CoolWorks.com." href="https://www.coolworks.com" class="home"><span property="name">Home</span></a><meta property="position" content="1"></span> » <span property="itemListElement" typeof="ListItem"><span property="name">Privacy Policy</span><meta property="position" content="2"></span>  </div>
+</div>
+<div class="content-holder">
+  <div id="content">
+    <section class="content-left">
+      <div class="post-block-wrap">
+        <article class="single-block">
 
+          <div class="row-widget">
+                          <h2>PERSONAL INFORMATION</h2>
+<p>Cool Works® collects personal information from users on a voluntary basis only. This allows us to give you private and secure areas for job seekers and employers to post and edit content on our site. We do not sell your personal information to anyone for any reason. When you voluntarily distribute or display personal information such as your email address or resume, others may be able to collect and use it. As a result, you may receive unsolicited messages from third parties for which Cool Works® is not responsible.</p>
+<p>Our sites contain links to other Web sites over which we have no control. Cool Works® is not responsible for the privacy policies or practices of other Web sites to which you choose to link from Cool Works®. We encourage you to review the privacy policies of those other Web sites so you can understand how they collect, use and share your information.</p>
+<p>Please remember that if you post any of your personal information in public areas of Cool Works®, such as in online forums or chat rooms, such information may be collected and used by others over whom Cool Works® has no control. We are not responsible for the use made by third parties of information you post or otherwise make available in public areas of Cool Works®.</p>
+<p>We use the information we gather, whether personal, demographic, collective or technical, for the purpose of operating and improving Cool Works®, fostering a positive user experience, and delivering the products and services that we offer. We may also use the information we gather to inform you of other products or services available from Cool Works® or to contact you about your opinion regarding potential new products and services that may be offered. We may use your contact information in order to send you e-mail or other communications regarding updates at Cool Works®. We have an area where you may submit feedback. Any feedback you submit becomes our property, and we can use such feedback (such as success stories) for marketing purposes or contact you for further information.</p>
+<p>We may also use or disclose information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or the Site; (b) protect and defend the our rights or property, the Site or our users, and (c) act under emergency circumstances to protect the personal safety of us, our affiliates, agents, or the users of the Site or the public.</p>
+<p>This Site is not directed towards children under the age of 13, and we request that children under 13 not use this Site without prior parental consent. &nbsp;We also request that children under the age of 13 not provide personally identifiable information to the Site.</p>
+<h2>ABOUT COOKIES</h2>
+<p>We use cookies at Cool Works® only for the protection and convenience of our users. Cookies enable us to serve secure pages to our users without asking them to sign in repeatedly. If a user’s system is idle for more than an hour, however, the cookie will expire, forcing the user to sign in again to continue their session. This prevents unauthorized access to the user’s information while they are away from their computer.</p>
+<h2>JOB POSTER’S RULES</h2>
+<p>You may not:</p>
+<ul>
+<li>impersonate another person, living or dead;</li>
+<li>post false, inaccurate or misleading information;</li>
+<li>post advertisements or solicitations of business</li>
+<li>post chain letters or pyramid schemes; or</li>
+<li>post opinions or notices, commercial or otherwise.</li>
+</ul>
+<h2>JOB SEEKER RULES</h2>
+<p>Cool Works® is under no obligation to monitor the conduct of its Users, but it may investigate and respond when violations are reported. You may not:</p>
+<ul>
+<li>impersonate another person, living or dead;</li>
+<li>post false, inaccurate or misleading information;</li>
+<li>post advertisements or solicitations of business</li>
+<li>post chain letters or pyramid schemes; or</li>
+<li>post opinions or notices, commercial or otherwise.</li>
+</ul>
+<p>Cool Works® makes no representations or guarantees regarding the truthfulness, accuracy, completeness, timeliness or reliability of any information posted by Users, or of any other form of communication engaged in by Users.</p>
+<p>YOU ASSUME ALL RESPONSIBILITY AND RISK FOR YOUR USE OF THE SITE, THE INTERNET GENERALLY, AND THE INFORMATION YOU POST OR ACCESS AND FOR YOUR CONDUCT ON AND OFF THE SITE.</p>
+<h3>SOME IMPORTANT TIPS TO USE WHEN DEALING WITH PROSPECTIVE EMPLOYERS</h3>
+<ul>
+<li>Do not give out your social security number.</li>
+<li>Never provide credit card or bank numbers on an employment application.</li>
+<li>Be cautious when dealing with contacts from other countries.</li>
+<li>Do not provide any non-work related personal information (i.e. social security number, eye color, marital status etc.) over the phone or online.</li>
+</ul>
+<h3>OTHER PRIVACY FEATURES ON COOL WORKS</h3>
+<p>You never need to provide data to search for jobs.</p>
+<p>Choice/Opt-Out. Cool Works® provides you the opportunity to opt-out of receiving most communications from Cool Works®. You have the option to remove your information from our database and to not receive future communications or to no longer receive our service. We also give you the option to change or modify the information previously provided. To exercise any of these options:</p>
+<ol>
+<li><a href="/contact/" data-cke-saved-href="http://www.coolworks.com/about/contact-us.html">Contact us</a>&nbsp;with the details of your request</li>
+<li>Send a letter to PO Box 383, Morrison, CO&nbsp;80465</li>
+<li>Call us at (406) 848-2380</li>
+</ol>
+<p>* * * * * * * * * * *</p>
+<p>Note that, by using Cool Works® Services, you signify your agreement to this Privacy Policy. If you do not agree to this Policy, please do not use the Services. Your continued use of the Services subsequent to changes to this Policy will mean that you accept the changes.</p>
+                                                  
+	          </div>
 
-
+        </article>
+      </div>
+    </section>
+    	<aside id="sidebar">
+		<section class="widget social-box">  <div class="social-box">
+    <strong class="ttl">GET CONNECTED</strong>          <ul class="social-networks">
+        <li><a target="_blank" href="http://my.coolworks.com/" class="mycw">mycw</a></li>        <li><a target="_blank" href="https://www.facebook.com/CoolWorks" class="facebook">facebook</a></li>        <li><a target="_blank" href="https://twitter.com/coolworks" class="twitter">twitter</a></li>        <li><a target="_blank" href="https://www.instagram.com/coolworksjobs/" class="instagram">instagram</a></li>              </ul>
+        <strong class="text">Let's get social! Follow CoolWorks, share your experiences, and stay connected!</strong>  </div>
+</section><section class="widget widget_text"><div class="image"><a href="/resources/"><img src="https://www.coolworks.com/wp-content/themes/cw20/images/resources-ads-v3.jpg" alt="image description"></a></div></section><section class="widget instagram-widget"><div class="ttl-decor"><h3>FOLLOW US ON INSTAGRAM</h3></div>
+<p><a class="inst-link" href="https://www.instagram.com/coolworksjobs/">@coolworksjobs »</a></p>
+<div id="sb_instagram" class="sbi sbi_col_2" style="width:100%; padding-bottom: 10px; " data-id="1428781508" data-num="4" data-res="auto" data-cols="2" data-options="{&quot;sortby&quot;: &quot;none&quot;, &quot;headercolor&quot;: &quot;&quot;, &quot;imagepadding&quot;: &quot;5&quot;}"><div id="sbi_images" style="padding: 5px;"><div class="sbi_loader fa-spin"></div></div><div id="sbi_load"></div></div>
+</section>	</aside>
+  </div>
+</div>
+            </main>
+                            <aside class="bottom-area">
+                    <section class="newsletter-block"><div class="container"><div class="ttl-decor"><h3> eNEWSLETTER SIGNUP</h3></div><p>Adventure is out there. Let us help you chart your course!<br> Our bi-weekly CoolWorks Compass offers inspiration <br>for the road less traveled.
+<!-- <BR>Not to worry, we'll never share your email address, and of course you can unsubscribe at anytime. -->
+</p>
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+              <form action="//coolworks.us12.list-manage.com/subscribe/post?u=079f2e243ce5123936984f70f&amp;amp;id=5e5a48b2e5" class="newsletter-form validate" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" target="_blank">
+                <div id="mc_embed_signup_scroll">
+                  <input id="mce-EMAIL" name="EMAIL" placeholder="you@example.com" required="" type="email" value="">
+                  <div aria-hidden="true" style="position: absolute; left: -5000px;">
+                    <input name="b_079f2e243ce5123936984f70f_5e5a48b2e5" tabindex="-1" type="text" value="">
+                  </div>
+                  <input id="mc-embedded-subscribe" name="subscribe" type="submit" value="Subscribe">
+                  <div class="clear" id="mce-responses">
+                    <div class="response" id="mce-error-responsec" style="display: none"></div>
+                    <div class="response" id="mce-success-response" style="display: none;"></div>
+                  </div>
+                </div>
+              </form>
+            </div>
+<!--End mc_embed_signup--></div></section>                                            <div class="contact-section">
+                            <span class="bg-left">bg</span>
+                            <span class="bg-right">bg</span>
+                            <div class="container">
+                                <div class="holder">
+                                    <section class="widget xmt block"><div class="ttl-decor left"><h5 class="widget-title">WE TWEET</h5></div><div id="xmt_Primary_wid" class="xmt xmt_Primary"><ul class="tweet_area"><li class="tweet_list"><div class="info-tweet"><a href="http://twitter.com/coolworks/status/857762046242377728">@coolworks</a> • 9 hours ago</div><p>Work &amp; Play in West Yellowstone!<a href="https://twitter.com/search?q=%23JobsInGreatPlaces&amp;src=hash" target="_blank"> #JobsInGreatPlaces</a><a href="https://twitter.com/search?q=%23RetailJobs&amp;src=hash" target="_blank"> #RetailJobs</a><a href="https://twitter.com/search?q=%23YellowstoneNationalPark&amp;src=hash" target="_blank"> #YellowstoneNationalPark</a> <a href="https://t.co/uCa5h3GYUM" rel="nofollow" target="_blank">https://t.co/uCa5h3GYUM</a> -</p></li><li class="tweet_list"><div class="info-tweet"><a href="http://twitter.com/coolworks/status/857746292440739843">@coolworks</a> • 10 hours ago</div><p>WE'RE HIRING!!&nbsp;At The Heart of Southern Utah's National Parks &amp; Monuments<a href="https://twitter.com/search?q=%23JobsInGreatPlaces&amp;src=hash" target="_blank"> #JobsInGreatPlaces</a> <a href="https://t.co/p6xay0Uq02" rel="nofollow" target="_blank">https://t.co/p6xay0Uq02</a> <a href="https://t.co/PJwAJC0k6O" rel="nofollow" target="_blank">https://t.co/PJwAJC0k6O</a> -</p></li><li class="tweet_list"><div class="info-tweet"><a href="http://twitter.com/coolworks/status/857718606511079424">@coolworks</a> • 12 hours ago</div><p>Come Join our Fun &amp; Friendly Guest Ranch Staff 5/15 - 8/20 or later<a href="https://twitter.com/search?q=%23JobsInGreatPlaces&amp;src=hash" target="_blank"> #JobsInGreatPlaces</a> <a href="https://t.co/CG6CXkuUG3" rel="nofollow" target="_blank">https://t.co/CG6CXkuUG3</a> <a href="https://t.co/MsnFQfxUlR" rel="nofollow" target="_blank">https://t.co/MsnFQfxUlR</a> -</p></li></ul></div></section><section class="widget widget_text block"><div class="ttl-decor left"><h5 class="widget-title">LET’S CONNECT!</h5></div><p>Have a question about a job or a place? Need a little extra encouragement? Know of a great place that we haven’t discovered yet? Send us an email, tag us with #CoolWorksJobs on Social, or release the courier pigeons. We can’t wait to hear from you!
+</p>
+  <div class="social-box">
+    <strong class="ttl">GET CONNECTED</strong>          <ul class="social-networks">
+        <li><a target="_blank" href="http://my.coolworks.com/" class="mycw">mycw</a></li>        <li><a target="_blank" href="https://www.facebook.com/CoolWorks" class="facebook">facebook</a></li>        <li><a target="_blank" href="https://twitter.com/coolworks" class="twitter">twitter</a></li>        <li><a target="_blank" href="https://www.instagram.com/coolworksjobs/" class="instagram">instagram</a></li>              </ul>
+        <strong class="text">Let's get social! Follow CoolWorks, share your experiences, and stay connected!</strong>  </div>
+</section><section class="widget widget_text block"><div class="ttl-decor left"><h5 class="widget-title">ABOUT COOLWORKS</h5></div><p>At CoolWorks, we believe that life is made of moments, and the best moments are when we feel connected to something bigger than ourselves. Connection sparks joy, and connecting with our community bring us immense joy. We’re enlivened and compelled to spread the word about jobs in great places, because they’ve changed our lives! <a href="/about/">LEARN MORE.</a>
+</p>
+<address class="address-box">
+<span class="address">PO Box 383 <br> Morrison, Colorado 80465</span>
+<span class="phone"><a href="tel:4068482380">(406) 848-2380 </a></span>
+<span class="mail"><a href="mailto:greatjobs@coolworks.com">great jobs@coolworks.com</a></span>
+</address></section>                                </div>
+                            </div>
+                        </div>
+                                       <div class="join-block"><div class="container"><p>Join the community that’s dedicated to jobs in great places.</p>
+<div class="btn-wrap">
+    <a href="/find-a-job/" class="btn">FIND A JOB</a>
+    <a href="/employers/" class="btn info">POST A JOB</a>
+</div></div></div>                </aside>
+                        <footer id="footer">
+                <div class="container">
+                    <ul class="nav">
+                      <li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page active page_item page-item-62 current_page_item menu-item-63"><a href="https://www.coolworks.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="https://www.coolworks.com/terms-of-use/">Terms of Use</a></li>
+                        <li><a href="https://www.coolworks.com">Copyright ©1995 - 2017 CoolWorks</a></li>
+                    </ul>
+                </div>
+            </footer>
+        </div>
+            <script type="text/javascript" data-cfasync="false" async="async" src="//widgets.getsitecontrol.com/69086/script.js?ver=2.0.3"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var sb_instagram_js_options = {"sb_instagram_at":"1428781508.3a81a9f.5dd7ccadc356457e96e54b8bce68550a"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.coolworks.com/wp-content/plugins/instagram-feed/js/sb-instagram.min.js?ver=1.4.8"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy-policy\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/www.coolworks.com\/merc\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.coolworks.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.0.4"></script>
+<script type="text/javascript" src="//www.coolworks.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70"></script>
+<script type="text/javascript" src="//www.coolworks.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy-policy\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.coolworks.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.0.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy-policy\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.coolworks.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.0.4"></script>
+<script type="text/javascript" src="https://www.coolworks.com/assets/application.js?ver=20170418001"></script>
+<script type="text/javascript" src="https://www.coolworks.com/wp-includes/js/wp-embed.min.js?ver=4.7.4"></script>
+  
 
 </body></html>
