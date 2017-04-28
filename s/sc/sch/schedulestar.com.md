@@ -1,241 +1,159 @@
-> *The following text is extracted and transformed from the schedulestar.com privacy policy that was archived on 2012-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120425121059id_/http%3A//www.schedulestar.com/PDF/privacypolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schedulestar.com privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429003306id_/http%3A//www.schedulestar.com/PDF/privacypolicy.pdf) for the most accurate reproduction.*
 
-# Privacy Policy
+# BIGTEAMS PRIVACY POLICY
 
-Privacy Policy
-Last Updated: 10/15/2009
-Schedule Star LLC is a division of Gannett Satellite Information Network, Inc., a
-wholly owned subsidiary of Gannett Co., Inc. We deliver an online application
-service (the “Schedule Star Application”) and other services through the
-www.ScheduleStar.com website (jointly referred to as “the Site”).
-This Privacy Policy discloses the privacy practices of this website (the “Site”).
-Specifically, it outlines the types of information that we gather about you while
-you are using the Site, and the ways in which we use and share this information.
-This Privacy Policy does not apply to any information you may provide to us, or
-that we may collect, offline and/or through other means (for example, at a live
-event, via telephone, or through the mail).
-Please read this Privacy Policy carefully. By visiting and using the Site, you
-agree that your use of our Site, and any dispute over our online privacy practices,
-is governed by this Privacy Policy and our Terms of Service. Because the Web is
-an evolving medium, we may need to change our Privacy Policy at some point in
-the future, in which case we'll post the revised Privacy Policy on this website and
-update the “Last Updated” date to reflect the date of the changes. By continuing
-to use the Site after we post any such changes, you accept the Privacy Policy as
-modified.
-We are committed to providing our customers with products and services of
-outstanding quality and value. The Site is delivered and hosted from facilities we
-control and which employ state of the art security and redundancy – the security
-of Site users’ data is of paramount concern to us.
-Furthermore, the protection and privacy of the private student information of
-subscribers to the Schedule Star Application service conducted through the Site
-are of the utmost importance to us. Private Student Information is the student’s
-address and phone number, and all other student information not required by a
-state for eligibility for participation in school sports.
-
-
-Your California Privacy Rights
-California Civil Code Section 1798.83, also known as the "Shine The Light" law,
-permits our customers who are California residents to request and obtain from us
-once a year, free of charge, information about the personal information (if any)
-we disclosed to third parties for direct marketing purposes in the preceding
-calendar year. If applicable, this information would include a list of the categories
-of personal information that was shared and the names and addresses of all third
-parties with which we shared information in the immediately preceding calendar
-year. If you are a California resident and would like to make such a request,
-please submit your request in writing to:
-Kim Jaske
-Online Privacy Coordinator
-Gannett Law Department
-7950 Jones Branch Drive
-McLean, VA 22107
-How We Collect and Use Information
-We may collect and store information, including personally-identifiable
-information (such as your name, postal address or email address) or other
-information, that you voluntarily supply to us while on our Site. Some examples
-of this type of information include information that you electronically submit when
-you contact us with questions, information that you post on blogs, discussion
-forums or other community posting and social networking areas on our Site, and
-information that you electronically submit when you complete an online
-registration form to access and use certain features of our Site. We also may
-ask for information (including a credit card number and other financial
-information) from those users who make purchases or have payment
-transactions on our Site.
-In regard to student data, we do not utilize Private Student Information that
-Schedule Star Application users provide to us except to deliver the Schedule Star
-Application and or for display at www.EligibilityCentral.com and or to import data
-into the Schedule Star Application. Only Schedule Star Application users have
-access to their specific student population’s Private Student Information.
-Student athlete eligibility information is required by states in order for athletes to
-compete in contests. This information may be displayed at
-www.EligibilityCentral.com. Private Student Information is not displayed at
-www.EligiblityCentral.com. No student data is stored at
-www.EligibiltyCentral.com. Only Schedule Star Application users and
-www.EligibilityCentral.com users have access to the student athlete eligibility
-information that is required by a state. The general public does not have access
-to Private Student Information and or www.EligibilityCentral.com.
+                                 BIGTEAM S PRIVACY POLICY
+BIGTEAMS, LLC (“BigTeams”) provides athletic/activity/scheduling website management service to
+schools, leagues, booster clubs, and athletic clubs, including through the websites located at
+www.bigteams.com and www.schedulestar.com.
+This Privacy Policy (this “Policy”) is to explain what information about you we collect, how we use it and
+how we share it. We provide a link to this Policy wherever it applies, such as on our Station web sites,
+our mobile apps, our social networking presence on Facebook and other platforms, and other online
+services that we provide and control (“Services”). By using our Services, you accept our practices as
+described in this Policy.
+This Policy is incorporated by reference into the BigTeams Terms of Use (“TOU”) [LINK TO TOU at
+www.bigteams.com and www.schedulestar.com], which also governs your use of our Services.
+TYPES OF INFORMATION WE COLLECT AND HOW WE COLLECT IT
+We collect and use the information that you voluntarily submit to us via our Services. We also may
+collect information about how you use the Services, like when you visit our web sites and how you
+interact with our content.
+The information we collect includes personal information, which personally identifies you, such as your
+name, email address or billing information, or other data that we can reasonably link to such information.
+We may require certain types of personal information in order to provide a particular Service, such as an
+email address in order to deliver news updates or a mobile number in order to let you know by text that
+you won a contest. We also collect non-personal information, which does not identify a particular person.
+We may collect personal information about other people when you submit it to us, such as by
+participating in a promotion or contest or when you submit news stories or nominations to us. By
+providing us with the personal information of others, you represent that you have the legal right to do so.
+We collect information automatically about your use of our Services, as well as the devices and software
+you use to access our Services. Like most online operators, we use cookies, web beacons and other
+similar technology to collect information automatically, in order to deliver the Services, tailor your
+experience, monitor how our Services are used, improve them, deliver customized advertising, and for
+other purposes. You may configure your browser to reject cookies, but doing so could make it difficult to
+use and enjoy our Services. We will continue to add new technology to our Services, which may collect
+information about you and your use of our Services.
+When you visit any BigTeams website, we may collect tracking information such as your browser type,
+the type of operating system you use, and pages you visited on our sites. None of this information
+identifies you personally; we use this information to make our sites more useable to you, your league and
+your schools.
+We use “cookies” in a very limited way in order to store user information. A cookie is a small amount of
+data that is sent to your browser from a web server and stored on your computer’s hard drive. A cookie
+contains a unique number that allows our site to recognize your computer. The help function on most
+browsers contains information on how to set your browser to notify you before accepting cookies or to
+disable cookies entirely. However, if you don’t accept cookies, you may not be able to use some of the
+functions of the website.
+                                                     1
+BigTeams Privacy Policy
+WR 6/2014
+  13734858.4
 
 
-We also collect and store non-personally identifiable information that is
-generated automatically as you navigate through the Site. For example, we may
-collect information about your computer's connection to the Internet, which allows
-us, among other things, to improve the delivery of our web pages to you and to
-measure traffic on the Site. We also may use a standard feature found in browser
-software called a "cookie" to enhance your experience with the Site. Cookies are
-small files that your web browser places on your hard drive for record-keeping
-purposes. By showing how and when visitors use the Site, cookies help us
-deliver advertisements, identify how many unique users visit us, and track user
-trends and patterns. They also prevent you from having to re-enter your
-preferences on certain areas of the Site where you may have entered preference
-information before. This Site also may use web beacons (single-pixel graphic
-files also known as "transparent GIFs") to access cookies and to count users
-who visit the Site or open HTML-formatted email messages.
-The information we collect may be collected directly by us, or it may be collected
-by a third-party website hosting provider, or another third-party service provider,
-on our behalf.
-We use the information we collect from you while you are using the Site in a
-variety of ways, including, for example, to process your registration request,
-provide you with services and communications that you have requested, send
-you email updates and other communications, customize features and
-advertising that appear on the Site, deliver our Site content to you, measure Site
-traffic, measure user interests and traffic patterns, and improve the Site and the
-services and features offered via the Site.
-In addition, we may use any information submitted by or collected from you via
-the Site for any purpose related to the Site, including to contact you for customer
-service purposes, to inform you of important changes or additions to our Site or
-the services offered over our Site, and to send you administrative notices and
-any other communications that we believe may be of interest to you.
-We also may provide your information to our affiliates or to third parties, including
-our third party service providers, contractors and advertisers, for purposes
-related to Site administration and operation. For example, if you use a credit or
-debit card to complete a transaction on our Site, we may share your personal
-information and credit card number with a credit card processing and/or a
-fulfillment company in order to complete your transaction, or such service
-provider(s) may collect that information from you directly, on our behalf.
-We also reserve the right to use, and to disclose to third parties, all of the
-information collected from and about you while you are using the Site in any way
-and for any purpose, such as to enable us or a third party to provide you with
-information about products and services that may be of interest to you. In some
-cases we will use and/or share only non-personally identifiable information, but in
-other cases we may use and share personally identifiable information. If you do
-not wish your personally identifiable information to be used for these purposes,
-you must send a letter to the Terms of Service whose address is listed at the end
+HOW WE USE INFORMATION
+Provide Services
+Your information will be accessible to BigTeams staff and school administrators who may choose to
+allow booster club members access to some personally identifiable information in order to, for example,
+fill orders from the online store. Merchant account providers that handle credit card transactions will also
+have some access to personally identifiable information. This is necessary to fill orders from the online
+store. Please contact us for more information about your school’s merchant account provider. These
+merchant account providers have their own privacy policies.
+Disclosures
+BigTeams may disclose information about you and your use of the Web Site and the BigTeams Services
+if BigTeams believes such disclosure is reasonably necessary: (i) to comply with the law or legal process;
+(ii) to protect or defend the rights or property of BigTeams or others; (iii) to enforce the BigTeams TOU
+or this Policy; and (iv) to respond to claims that the content(s) of a communication violates the rights of
+another. In addition BigTeams may share or transfer information about you and that you provide to
+BigTeams, to one or more third party entities pursuant to a sale, merger, assignment, joint venture or
+other transfer or disposition of a portion, or all of, the assets or stock of BigTeams or its affiliated entities,
+or as otherwise provided herein.
+Reports
+We periodically prepare analyses and reports reflecting visitor and member use of the Web Site and
+BigTeams Services for our internal use as well as for a limited number of our business partners. These
+reports include aggregate (non-personal) information about BigTeams members, and in certain instances,
+visitors to the Web Site. The information in these reports will not identify you individually. Our business
+partners who have access to these reports will not be able to contact you from the information contained
+in the reports.
+THIRD PARTY ADVERTISERS
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ
+cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising
+effectiveness. Any information that these third parties collect via cookies and action tags is completely
+anonymous.
+Most advertisements you see on the Web Site are served to your web browser by BigTeams. However,
+BigTeams allows other companies, called ad networks, to serve advertisements within the Web Site or
+through BigTeams Services. Ad networks include third party ad servers, ad agencies, ad technology
+vendors and research firms. We only authorize our third-party ad networks to employ anonymous
+cookies for ad delivery and anonymous targeting. Our third-party ad servers do not collect, nor do we
+give them access to, any personally identifying information about you. BigTeams also limits the type of
+ads delivered by these ad networks so that they are appropriate for children.
+Third Party advertising networks may use information (not including your name, address, email address
+or telephone number) about your visits to this and other Web sites in order to provide advertisements
+about goods and services of interest to you.
+BigTeams may also include a file, called a web beacon, from these ad networks within pages served by
+BigTeams to assist with auditing, research and reporting for advertisers.
+                                                         2
+BigTeams Privacy Policy
+WR 6/2014
 
 
-of this Privacy Policy requesting to be taken off any lists of personally identifiable
-information that may be used for these purposes or that may be given or sold to
-third parties.
-Our Site also includes links to other websites and provides access to products
-and services offered by third parties, whose privacy policies we do not control.
-When you access another website or purchase products or services from a third-
-party, use of any information you provide is governed by the privacy policy of the
-operator of the site you are visiting or the provider of such products or services.
-We also make some content, products and services available through our Site
-through cooperative relationships with third-party providers, where the brands of
-our provider partner appear on the Site in connection with such content, products
-and/or services. We may share with our provider partner any information you
-provide, or that is collected, in the course of visiting any pages that are made
-available in cooperation with our provider partner. In some cases, the provider
-partner may collect information from you directly, in which cases the privacy
-policy of our provider partner may apply to the provider partner's use of your
-information. The privacy policy of our provider partners may differ from ours. If
-you have any questions regarding the privacy policy of one of our provider
-partners, you should contact the provider partner directly for more information.
-We are an affiliate of the Topix online news service, which enables us to provide
-you with access to Topix products and services through a co-branded Topix site.
-When you provide information through the co-branded Topix site, we may use
-the information consistent with this Privacy Policy, and Topix may use the
-information consistent with its own privacy policy (available at www.topix.com).
-Please be aware that we may occasionally release information about our visitors
-if required to do so by law or if, in our business judgment, such disclosure is
-reasonably necessary: (a) to comply with legal process; (b) to enforce our Terms
-of Service ; or (c) to protect the rights, property, or personal safety of our Site, us,
-our affiliates, our officers, directors, employees, representatives, our licensors,
-other users, and/or the public.
-Please also note that as our business grows, we may buy or sell various assets.
-In the unlikely event that we sell some or all of our assets, or our Site is acquired
-by another company, information about our Site users may be among the
-transferred assets.
-Data Collected in Connection with Ad Serving and Targeting
-We may use cookies, web beacons and similar technologies, and/or a third-party
-ad serving software, to collect non-personally identifiable information about site
-users and site activity, and we may use this information to, among other things,
-serve targeted advertsements on this site. The information collected allows us to
-analyze how users use the site and to track user interests, trends and patterns,
-thus allowing us to deliver more relevant advertisements to users.
+Because your web browser must request these advertisements and web beacons from the ad network’s
+servers, these companies can view, edit or set their own cookies, just as if you had requested a web page
+from their site. If you want to prevent a third-party ad server from sending and reading cookies on your
+computer, currently you must visit each ad network’s web site individually and opt out (if they offer this
+capability). Please contact us if you would like additional information regarding the specific third-party
+ad networks used on the Web Site.
+California Residents
+If you reside in California and have an established business relationship with us, you may have the right
+to receive information about how we share your personal information with our affiliates or third parties,
+such as our advertisers. If you wish to learn about our practices, please send a written request to the
+contact information identified below at the end of the Policy, including your full name, street address,
+city, state and zip code; the name of the Service about which you are requesting information; and a
+statement that your request is pursuant to the California “Shine the Light” Act. BigTeams is not able to
+provide information about how companies outside Big Teams might use or disclose your information.
+Security
+BigTeams takes every reasonable precaution to protect our users’ information. When you submit
+information via our service, your information is protected both online and off-line. We have physical,
+electronic, and procedural safeguards to protect personal information about you. However, we cannot
+guarantee that communications between you and BigTeams will not be intercepted by others and that
+information stored on our servers will be free from unauthorized access. While we have taken reasonable
+precautions to protect this information, you should always use discretion in what information you send to
+us and not expect that such information will be absolutely free from intrusion. If you have any questions
+about the security of our service, please contact us.
+Children
+BigTeams is committed to the safety of children. Children under the age of 13 may not register or
+participate in any of the BigTeams Services. If children under 18 elect to register in any of the BigTeams
+Services, they should ask a parent for permission before sending any information to the Web Site. We
+will not request or knowingly collect any personally identifiable information from a child under 13. We
+offer our Services to individuals who are at least 18 years old. We do not knowingly collect personal
+information online from children under 13 years of age. If we discover that we have inadvertently
+collected personal information online from children under the age of 13, we will endeavor promptly to
+destroy or remove any identifying details.
+Links
+You should be aware that when you are on the Web Site or when you receive emails sent as part of
+BigTeams Services, you could be directed to other sites beyond our control, and beyond the
+school/booster club’s control. This includes links from advertisers, sponsors and partners that may use
+the Web Site’s logo. These other web sites may send their own cookies to you, independently collect data
+or solicit personal information and may or may not have their own published privacy policies.
+Notification of Changes and Your Acceptance of the Policy
+By using this Web Site, you signify your agreement to the terms of this Policy and the TOU. If there are
+material changes to our Policy or if we decide to use personally identifiable information in a manner
+different from that stated when it was collected, we will post a link to our revised Policy on our home
+page so our users are always aware of what information we collect, how we use it, and under what
+circumstances, if any, we disclose it. Your continued use of this Web Site shall constitute your
+acceptance of any revised Policy. We may change this Policy from time to time. We will post any
+changes to this page, and if the changes are significant, we will provide a more prominent notice. We will
+                                                      3
+BigTeams Privacy Policy
+WR 6/2014
 
 
-We also may use third-party service providers to target and serve some of the
-advertisements you see on the pages of our Site, and these providers likewise
-may use their own cookies, web beacons and similar technologies to collect non-
-personally identifable information from our Site. These service providers may use
-that information, sometimes in conjunction with similar non-personally identifable
-information gathered through other websites, to deliver advertisements on this
-Site, and on other websites that participate in our service providers’ advertising
-networks, that are tailored to match the perceived interests of consumers. This
-information also may be used to help measure and research an advertisement’s
-effectiveness, or for other purposes.
-The data collected in connection with the ad serving and ad targeting on our Site
-does not identify you personally and does not include your name, address, email
-address or telephone number, but it may include the IP address of your
-computer.
-The use and collection of information by third-party advertising service providers
-is governed by the relevant third party’s privacy policy and is not covered by our
-privacy policy. If you would like more information about the information collection
-practices of a particular service provider, or if you would like more information on
-how to opt out of a service provider’s information collection practices, please
-click here.
-Information You Post to Blogs, Discussion Forums and Other
-Community Posting or Social Networking Areas
-Please keep in mind that whenever you voluntarily make your personal
-information or other private information available for viewing by third parties
-online - for example on blogs, discussion forums, or other community posting or
-social networking areas of our Site - that information can be seen, collected and
-used by others besides us. We cannot be responsible for any unauthorized third-
-party use of such information.
-Children's Privacy Statement
-This children's privacy statement explains our practices with respect to the online
-collection and use of personal information from children under the age of 13, and
-provides important information regarding their rights under federal law with
-respect to such information.
-    •   This Site is not directed to children under the age of 13 and we do NOT
-    knowingly collect personally identifiable information from children under the
-    age of 13 as part of the Site. We screen users who wish to provide personal
-    information in order to prevent users under the age of 13 from providing such
-    information. If we become aware that we have inadvertently received
-    personally identifiable information from a user under the age of 13 as part of
-    the Site, we will delete such information from our records.
-
-
-    •   Because we do not collect any personally identifiable information from
-    children under the age of 13 via the Site, we also do NOT knowingly distribute
-    such information to third parties.
-    •   We do NOT knowingly allow children under the age of 13 to publicly post
-    or otherwise distribute personally identifiable contact information through the
-    Site.
-    •   Because we do not collect any personally identifiable information from
-    children under the age of 13 via the Site, we do NOT condition the
-    participation of a child under 13 in the Site's online activities on providing
-    personally identifiable information.
-How To Make Changes to Your Information
-If you are a registered member of our Site, you can make changes to your
-account information by logging in to the Site and using the account tools
-available via the Site. If you have subscribed to one or more of our email
-newsletters, you also may change your subscriber information, modify your
-subscriptions, and/or unsubscribe from these newsletters at any time by logging
-in to your account. If you have any questions about modifying your account or
-preference information, please visit the “Customer Service” pages of our Site.
-Storage of Information
-All information gathered on our Site is stored within a database to which only we
-and our hosting services provider are provided access. However, as effective as
-the reasonable security measures implemented by us may be, no physical or
-electronic security system is impenetrable. We cannot guarantee the security of
-our Site’s servers or databases, nor can we guarantee that information you
-supply will not be intercepted while being transmitted to us over the Internet.
-Questions Regarding Privacy
-If you have any questions about this Privacy Policy, our privacy practices, or your
-dealings with us, you can contact:
-Kim Jaske
-Online Privacy Coordinator
-Gannett Law Department
-7950 Jones Branch Drive
-McLean, VA 22107
+not reduce the protection given to your personal information under this Policy without giving you an
+opportunity to consent to our continued use of your personal information.
+Contact Us
+If you have any questions about this Policy, please contact us at:
+BigTeams, LLC
+info@bigteams.com
+7925 Jones Branch Drive
+Suite 2125
+McLean, VA 22102
+                                                     4
+BigTeams Privacy Policy
+WR 6/2014
