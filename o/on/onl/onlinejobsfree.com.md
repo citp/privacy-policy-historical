@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinejobsfree.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119022132id_/http%3A//www.onlinejobsfree.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinejobsfree.com privacy policy that was archived on 2017-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170428185606id_/http%3A//www.onlinejobsfree.com/privacy.php%3Fid%3Ddeleted) for the most accurate reproduction.*
 
 # Privacy Policy
 
