@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the privatetunnel.com privacy policy that was archived on 2016-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161223012933id_/https%3A//www.privatetunnel.com/home/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the privatetunnel.com privacy policy that was archived on 2017-04-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170428163817id_/https%3A//www.privatetunnel.com/home/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 <meta charset="UTF-8">
@@ -24,7 +24,7 @@
 	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 	<script src="https://www.privatetunnel.com/phome/wp/wp-content/themes/privatetunnel/js/angular.min.1.3.17.js"></script>
 
-	<script src="https://www.privatetunnel.com/phome/wp/wp-content/themes/privatetunnel/js/loginRegApp.js?version=1.2"></script>
+	<script src="https://www.privatetunnel.com/phome/wp/wp-content/themes/privatetunnel/js/loginRegApp.js?version=1.3"></script>
 
 <style>
 /* latin */
@@ -43,10 +43,10 @@
 				<h1 class="logo"><a href="https://www.privatetunnel.com/home/" class="ir">PrivateTunnel</a></h1>
 				<nav class="site-header__actions">
 					<ul>
-												<li class="hide-tab hide-desk"><a href="https://swupdate.openvpn.org/privatetunnel/client/privatetunnel-win-2.8.exe" class="btn btn--red">Download</a></li>
-						<li class="hide-mob"><a href="https://swupdate.openvpn.org/privatetunnel/client/privatetunnel-win-2.8.exe" class="btn btn--download">Download</a></li>
-						<li class="hide-mob"><a href="#modal-sign-up" class="btn btn--gray">Sign up</a></li>
-						<li class="hide-mob"><a href="#modal-sign-in" class="btn btn--lighter">Log in</a></li>
+												<li class="hide-tab hide-desk"><a href="https://www.privatetunnel.com/phome/login/#Downloads" class="btn btn--red">Download</a></li>
+						<li class="hide-mob"><a href="https://www.privatetunnel.com/phome/login/#Downloads" class="btn btn--lighter">Download</a></li>
+						<li class="hide-mob"><a href="https://www.privatetunnel.com/phome/login/#modal-sign-up" class="btn btn--lighter">Sign up</a></li>
+						<li class="hide-mob"><a href="https://www.privatetunnel.com/phome/login/#modal-sign-in" class="btn btn--lighter">Log in</a></li>
 						<li class="hide-tab hide-desk">
 							<button type="button" class="btn btn--gray btn--small js-nav-toggle"><span class="icon icon-nav"><span class="icn icon-menu"></span></span></button>
 						</li>
@@ -109,7 +109,7 @@
 <p><strong>Contacting Us</strong></p>
 <p>If there are any questions regarding this privacy policy you may contact us using the information below.</p>
 <p>PrivateTunnel.com<br>
-5980 Stoneridge Dr, Suite 103<br>
+7901 Stoneridge Dr, Suite 540<br>
 Pleasanton, California 94588<br>
 USA</p>
 <p><a href="mailto:support@privatetunnel.com">support@privatetunnel.com</a></p>
@@ -145,8 +145,8 @@ USA</p>
 				<nav class="site-nav">
 					<div class="site-nav__extra hide-tab hide-desk">
 						<div class="site-nav__actions">
-							<a href="#modal-sign-up" class="btn btn--red btn--block">Sign Up</a>
-							<a href="#modal-sign-in" class="btn btn--block btn--log-in">Log In</a>
+							<a href="https://www.privatetunnel.com/phome/login/#modal-sign-up" class="btn btn--red btn--block">Sign Up</a>
+							<a href="https://www.privatetunnel.com/phome/login/#modal-sign-in" class="btn btn--block btn--log-in">Log In</a>
 						</div>
 						<div class="site-nav__social"><span>Like us on social networks</span>
 							<a href="http://www.facebook.com/privatetunnel"><span class="icn social-fb"></span></a>
@@ -163,7 +163,7 @@ USA</p>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133"><a href="https://www.privatetunnel.com/home/terms-of-service/">Terms of Service</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-21 current_page_item menu-item-134"><a href="https://www.privatetunnel.com/home/privacy-policy/">Privacy Policy</a></li>
 </ul></div>				</nav>
-				<div class="site-copyright">Copyright © 2016 OpenVPN Technologies, Inc. <br>All Rights Reserved.</div>
+				<div class="site-copyright">Copyright © 2017 OpenVPN Inc. <br>All Rights Reserved.</div>
 			</div>
 		</footer>
 	<!-- /main-wrap -->
@@ -171,7 +171,7 @@ USA</p>
 	<div class="remodal-bg">
 	</div>
 	
-	<div data-remodal-id="modal-sign-in" class="remodal auth-modal">
+	<div data-remodal-id="oldmodal-sign-in" class="remodal auth-modal">
 		<a href="#"><span style="position:fixed;top:.5em;right:.5em;font-size:1em;">
 		<img src="https://www.privatetunnel.com/phome/wp/wp-content/themes/privatetunnel/img/icon-benefits-close.svg" width="18px"></span></a>	
 		<div class="modal__content">
@@ -179,7 +179,7 @@ USA</p>
 			<form name="loginform" id="loginform" ng-submit="submitLogin()">
 				<input type="email" placeholder="Email" ng-model="loginData.email" ng-change="loginErrors=''">
 				<input type="password" placeholder="Password" ng-model="loginData.password" ng-change="loginErrors=''">
-				<script>
+			<!---	<script>
 				   var callback = function() {
 				      grecaptcha.render('googrecaptcha', {
 				         'sitekey': '6Lfi__4SAAAAANM24dZiZ3XDk0rQssqaM_Byc_Kn',
@@ -193,7 +193,8 @@ USA</p>
 				<div class="clear" style="padding-top:10px">	
 					<div id="googrecaptcha"></div>
 				</div>
-				<script src="https://www.google.com/recaptcha/api.js?onload=callback&amp;render=explicit" async="" defer=""></script>
+				<script src="https://www.google.com/recaptcha/api.js?onload=callback&render=explicit" async defer></script>
+			--->
 				 <span class="help-block" ng-show="loginErrors">{{ loginErrors }}</span>
 			 	 <p class="text-center"> </p>
 				 <div style="float:left"><a href="#modal-sign-up">Create new account</a></div>
@@ -202,7 +203,7 @@ USA</p>
 			</form>
 		</div>
 	</div>
-	<div data-remodal-id="modal-sign-up" class="remodal auth-modal">
+	<div data-remodal-id="oldmodal-sign-up" class="remodal auth-modal">
 		<a href="#"><span style="position:fixed;top:.5em;right:.5em;font-size:1em;">
 		<img src="https://www.privatetunnel.com/phome/wp/wp-content/themes/privatetunnel/img/icon-benefits-close.svg" width="18px"></span></a>
 		<div class="modal__content">
@@ -218,7 +219,7 @@ USA</p>
 		</div>
 
 	</div>
-	<div data-remodal-id="modal-forgot-password" class="remodal auth-modal">
+	<div data-remodal-id="oldmodal-forgot-password" class="remodal auth-modal">
 		<a href="#"><span style="position:fixed;top:.5em;right:.5em;font-size:1em;">
 		<img src="https://www.privatetunnel.com/phome/wp/wp-content/themes/privatetunnel/img/icon-benefits-close.svg" width="18px"></span></a>	
 		<div class="modal__content">
@@ -232,7 +233,7 @@ USA</p>
 			</form>
 		</div>
 	</div>
-	<div data-remodal-id="modal-new-password" class="remodal auth-modal">
+	<div data-remodal-id="oldmodal-new-password" class="remodal auth-modal">
 		<a href="#"><span style="position:fixed;top:.5em;right:.5em;font-size:1em;">
 		<img src="https://www.privatetunnel.com/phome/wp/wp-content/themes/privatetunnel/img/icon-benefits-close.svg" width="18px"></span></a>	
 		<div class="modal__content">
