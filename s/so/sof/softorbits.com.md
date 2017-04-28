@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softorbits.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121095544id_/http%3A//www.softorbits.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softorbits.com privacy policy that was archived on 2017-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170428051020id_/http%3A//www.softorbits.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SoftOrbits Privacy Policy
 
