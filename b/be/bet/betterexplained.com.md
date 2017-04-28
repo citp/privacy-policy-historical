@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the betterexplained.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411043854id_/http%3A//betterexplained.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterexplained.com privacy policy that was archived on 2017-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170428194041id_/https%3A//betterexplained.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | BetterExplained
+# Privacy Policy – BetterExplained
 
 This website does not collect personal information. Here’s a quick summary of behavior:
 
@@ -19,4 +19,4 @@ This website does not collect personal information. Here’s a quick summary of 
 
 
 
-This policy was last updated June 30, 2014, and may change without notice. Please [contact me](http://betterexplained.com/contact) with any questions.
+This policy was last updated June 30, 2014, and may change without notice. Please [contact me](https://betterexplained.com/contact) with any questions.
