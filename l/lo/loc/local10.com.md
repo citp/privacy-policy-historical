@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the local10.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110114027id_/http%3A//www.local10.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the local10.com privacy policy that was archived on 2017-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170428233342id_/http%3A//www.local10.com/station/privacy) for the most accurate reproduction.*
 
 # Local10.com Privacy Policy
 
