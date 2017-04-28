@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bossip.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229034007id_/http%3A//bossip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bossip.com privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429000423id_/https%3A//bossip.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bossip
 
