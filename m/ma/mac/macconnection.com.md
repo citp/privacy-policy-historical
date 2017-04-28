@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the macconnection.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017120925id_/http%3A//www.macconnection.com/IPA/Content/About/Legal/PCCMAC/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macconnection.com privacy policy that was archived on 2017-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170428120552id_/http%3A//www.macconnection.com/IPA/Content/About/Legal/PCCMAC/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - MacConnection
 
-We're committed to protecting your right to privacy. This Privacy Policy describes how we manage the personal information we collect while doing business. This Privacy Policy covers only information that is collected through the pcconnection.com web site or other web site addresses that are operated by the Company. This Privacy Policy does not cover information that may be collected through other web sites accessible through our Site or through software downloaded from our Site.
+We're committed to protecting your right to privacy. This Privacy Policy describes how we manage the personal information we collect while doing business. This Privacy Policy covers only information that is collected through the www.macconnection.com Website or other website addresses that are operated by and provide service of PC Connection Sales Corporation (the "Site"). This Privacy Policy does not cover information that may be collected through other websites accessible through our Site or through software downloaded from our Site.
 
 ## Information We Collect Automatically When You Visit Our Site
 
@@ -12,7 +12,7 @@ _Log files:_ To enhance the quality of your experience during your visit to the 
 
 _Clear gifs:_ The Site uses a software technology called clear gifs (also known as "web beacons" or "web bugs") that uses tiny graphics to record which pages are viewed by a Site visitor. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on web pages as they are displayed and are about the size of the period at the end of this sentence. Clear gifs do not contain any personally identifiable information, and we do not use them to identify individual customers.
 
-_Profiles:_ We store information that we collect through cookies, log files, clear gifs, and/or third party sources to create a "profile" of your preferences. Together with your purchasing history, email address and other information you provide to us, we use your profile to reduce the steps needed for you to place orders through the Site, to provide tailored promotions and marketing offers, and to analyze and improve the content of our Site.
+_Profiles:_ We store information that we collect through cookies, log files, clear gifs, and/or third-party sources to create a "profile" of your preferences. Together with your purchasing history, email address and other information you provide to us, we use your profile to reduce the steps needed for you to place orders through the Site, to provide tailored promotions and marketing offers, and to analyze and improve the content of our Site.
 
 ## Information We Collect When You Request or Order Our Products and Services
 
@@ -20,9 +20,9 @@ We collect different types of personal information for different purposes.
 
 _Catalogs:_ When you request a catalog, we collect your name and mailing address so we can fulfill your request. 
 
-_Log-in Identification:_ Individual customers or prospective customers may register a log-in name and set a password when visiting our Site or placing an order through our Site. To register, we request that you provide your name, mailing address, telephone/fax numbers, and e-mail address. This registration enables us to track online orders and save your customer information and preferences so you won't have to re-enter the same information every time you return to our Site. We also use this information to authenticate your identity when you request access to our online services.
+_Log-in Identification:_ Individual customers or prospective customers may register an email address and set a password when visiting our Site or placing an order through our Site. To register, we request that you provide your name, email address and a password. This registration enables us to track online orders and save your customer information and preferences so you won't have to re-enter the same information every time you return to our Site. We also use this information to authenticate your identity when you request access to our online services.
 
-_Orders:_ To process and ship your order, we need your name, phone number, credit card account information, billing address, shipping address, and e-mail address. This information is stored on a secure server to allow us to process subsequent orders more quickly. If we have trouble processing an order, we will use this information to contact you.
+_Orders:_ To process and ship your order, we need your name, phone number, credit card account information, billing address, shipping address, and email address. This information is stored on a secure server to allow us to process subsequent orders more quickly. If we have trouble processing an order, we will use this information to contact you.
 
 _Contests and Surveys:_ When we offer a contest or survey through our Site, we generally request contact information and some demographic (such as zip code) information. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose the information. We will use this information to notify contest winners and award prizes, to improve our product offerings, and to assess the interests of those who visit our Site. Participants may receive periodic email notices about special offers and site updates. To opt out of these emails, see "Choice" below.
 
@@ -30,9 +30,9 @@ _Contests and Surveys:_ When we offer a contest or survey through our Site, we g
 
 We may use your contact information to respond to your requests or to communicate about your orders.
 
-_Distribution Lists:_ Upon requesting a catalog, ordering our products/services, or participating in our online contests or surveys, you will be placed on our distribution lists and may receive occasional postal mail, email, or telephone notification about MacConnection products, services, special offers, promotions, or Site updates that we believe may be of interest to you. To remove yourself from these lists, see "Choice" below.
+_Distribution Lists:_ Upon requesting a catalog, ordering our products/services, or participating in our online contests or surveys, you will be placed on our distribution lists and may receive occasional postal mail, email, or telephone notification about PC Connection Sales Corporation ("PCSC") products, services, special offers, promotions, or Site updates that we believe may be of interest to you. To remove yourself from these lists, see "Choice" below.
 
-_Emails:_ In order to create a better electronic community, we may collect specific user profile information, such as the referring URL, when you click on a link in our e-mail communications. This information is used to capture broad demographic trends that may allow us to provide you with information better tailored to your interests. You will not be personally identified from this information. To opt out of these emails, see "Choice" below.
+_Emails:_ In order to create a better electronic community, we may collect specific user profile information, such as the referring URL, when you click on a link in our email communications. This information is used to capture broad demographic trends that may allow us to provide you with information better tailored to your interests. You will not be personally identified from this information. To opt out of these emails, see "Choice" below.
 
 ## Conditions Under Which We Share Information
 
@@ -40,7 +40,7 @@ We may disclose customer information for the purposes described below, or for ot
 
       _Our Agents, Service Providers and Contractors:_ We engage third parties to perform certain business operations for which customer information may be disclosed. For example, we use outside shipping companies to fulfill orders and credit card processing companies to obtain payment for our goods and services. We also disclose customer information to third parties that perform other tasks or functions, such as order processing and fulfillment, customer relations, technical support, training, marketing/advertising, legal, fraud prevention services and fraud risk modeling, and other administrative, professional, or consulting services. We allow these third parties to make further disclosures of your personally identifiable information only with your consent or as permitted under this Privacy Policy.
 
-        _Third Party Products and Services:_ We may occasionally share your name and contact information with companies whose products and services may be of interest to you. Out of respect for your privacy, we allow you to opt-out of having your information shared with third parties for this purpose, as described under "Choice" below.
+        _Third-Party Products and Services:_ We may occasionally share your name and contact information with companies whose products and services may be of interest to you. Out of respect for your privacy, we allow you to opt out of having your information shared with third parties for this purpose, as described under "Choice" below.
 
       _Other Disclosures:_ We may collect, maintain, and disclose your information as required by law and when we believe that disclosure is necessary to protect our rights or property; to protect the rights, property, or safety of other persons; to comply with a judicial proceeding, court order, or legal process served on us or the Site. We may also disclose your information in connection with an actual or proposed corporate transaction or insolvency proceeding involving all or part of the business or assets to which the information pertains.
 
@@ -50,9 +50,9 @@ We may disclose customer information for the purposes described below, or for ot
 
 You may opt out of certain uses of your personal information, as described above.
 
-_Mailing Lists:_ To remove yourself from our promotional mailing lists, please send an e-mail to [mailinglist@pcconnection.com](mailto:mailinglist@pcconnection.com) or call us at 1-888-213-0260.
+_Mailing Lists:_ To remove yourself from our promotional mailing lists, please send an email to [mailinglist@connection.com](mailto:mailinglist@connection.com) or call us at 1-888-213-0260.
 
-_Email Lists:_ If you prefer not to receive e-mail from us (other than those directly responsive to your orders, inquiries or requests), please click the "unsubscribe" link at the bottom of any promotional e-mail or send a blank email request to [unsubscribe@pcconnection.com](mailto:unsubscribe@pcconnection.com). Please note: Even though you may choose to unsubscribe from our email distribution list, for security reasons we will always attempt to send you transaction-related order, backorder and shipment confirmation emails concerning your purchases through the Site.
+_Email Lists:_ If you prefer not to receive email from us (other than those directly responsive to your orders, inquiries or requests), please click the "unsubscribe" link at the bottom of any promotional email or send a blank email request to [unsubscribe@connection.com](mailto:unsubscribe@connection.com). Please note: Even though you may choose to unsubscribe from our email distribution list, for security reasons we will always attempt to send you transaction-related order, backorder and shipment confirmation emails concerning your purchases through the Site.
 
 ## Access and Amendment of Personal Information
 
@@ -60,11 +60,11 @@ You may request to access or delete your personal information and may request to
 
 ## Security
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card numbers) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+The security of your personal information is important to us. When you enter sensitive information (such as credit card numbers) on our registration or order forms, that information will be encrypted. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-## Other Web Sites
+## Other Websites
 
-We have no control over the privacy practices of web sites outside of our pcconnection.com domain. If you follow a link to another site, read the site's privacy policy and contact the site's administrator with your privacy-related questions.
+We have no control over the privacy practices of websites outside of our www.macconnection.com domain. If you follow a link to another site, read the site's privacy policy and contact the site's administrator with your privacy-related questions.
 
 ## Children's Privacy
 
@@ -76,12 +76,12 @@ We may change this Privacy Policy from time to time. Any changes will be posted 
 
 ## Contact Us
 
-If you have any questions or suggestions regarding this Privacy Policy, please contact the Legal Department of our parent Company, PC Connection, Inc., 730 Milford Rd., Merrimack, NH 03054; [legal@pcconnection.com](mailto:legal@pcconnection.com).
+If you have any questions or suggestions regarding this Privacy Policy, please contact us at: the Legal Department of our parent company, PC Connection, Inc., 730 Milford Rd., Merrimack, NH 03054; [legal@connection.com](mailto:legal@connection.com).
 
 ## California Residents
 
-California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail request to [internetmarketing@pcconnection.com](mailto:internetmarketing@pcconnection.com) or write to our service provider at Internet Marketing, 730 Milford Rd., Merrimack, NH 03054.
+California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email request to [internetmarketing@connection.com](mailto:internetmarketing@connection.com) or write to us at: Internet Marketing, 730 Milford Rd., Merrimack, NH 03054.
 
-**Effective Date** January 1, 2010
+**Effective Date** September 15, 2016
 
-© Copyright PC Connection, Inc. 2010. All rights reserved.
+© Copyright PC Connection, Inc. All rights reserved.
