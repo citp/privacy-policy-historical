@@ -1,26 +1,27 @@
-<!--The following is the downloaded HTML source of the himfr.com privacy policy that was archived on 2016-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160529200256id_/http%3A//www.himfr.com/static/privacy_policy-2010.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the himfr.com privacy policy that was archived on 2017-04-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170428224727id_/http%3A//www.himfr.com/static/privacy_policy-2010.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1">
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     <title>Privacy Policy of Our Site - About Us</title>
 <meta name="keywords" content="">
-<meta name="description" content="">
+<meta name="description" content=".">
 
     <link type="text/css" rel="stylesheet" href="http://style.himfr.com/myres/css/common-min.css" media="all">
     <script type="text/javascript" src="http://style.himfr.com/min/?b=myres/js&amp;f=jquery-1.9.1.min.js,jquery-migrate-1.2.1.min.js,jump.js,MSClass.js,projector.js"></script>
 </head>
 <body>
 
-<div class="cont_main_whole" id="pageIndex4">     <div class="cont_main_whole_inner">    <!-- f_head_top-->
-<div class="hyz57_1">
-      <table>
+<div class="cont_main_whole" id="pageIndex2">     
+     <div class="cont_main_whole_inner">    
+          <!-- f_head_top-->
+    <div class="hyz57">
+          <table>
       <tbody><tr>
           <td id="head_login" class="l">
-                        <a href="http://uc.himfr.com/login.php">Sign In</a> | <a href="http://uc.himfr.com/reg.php">Join Free</a> | <strong><a href="http://www.himfr.com">My himfr.com</a></strong>
-              
-                        </td>
+              <a rel="nofollow" href="http://uc.himfr.com/login.php">Sign In</a> | <a rel="nofollow" href="http://uc.himfr.com/reg.php">Join Free</a> | <strong><a rel="nofollow" href="http://www.himfr.com">My himfr.com</a></strong>
+          </td>
           <td class="r ">
               <ul class="n">
                   <li class="l b hl_1" id="dropmenu1">
@@ -41,12 +42,15 @@
                       </ul>
                   </li>
                   <li class="l hl_s"><a class="m" id="cart_top"><i class="c"></i>Inquiry Basket(<span class="num" id="num">0</span>)</a></li>
-                  <li class="l hl_s"><a href="http://www.himfr.com/static/help-2009.html" class="m">Help</a></li>
+                  <li class="l hl_s"><a rel="nofollow" href="http://www.himfr.com/static/help-2009.html" class="m">Help</a></li>
               </ul>
           </td>
       </tr>
   </tbody></table>
     <script type="text/javascript">
+        var domain = 'aHR0cDovL3VjLmVjZXIuY29tL2luZGV4LnBocD9yPXVzZXIvaW5kZXg=';
+        domain = base64decode(domain);
+
         function menu(){
             var outer=document.getElementById("dropmenu1");
             var menu1 = document.getElementById("menu1");
@@ -76,18 +80,74 @@
             menu2.onmouseout=function(){
                 menu2.style.display="none";
             }
+        }
 
 
 
+        function logout() {
+            $('#LoadingStatus').show();
+            $.ajax({
+                type:"POST",
+                url:"/index.php?r=user/ajaxlogout",
+                dataType:'json',
+                success: function(msg){
+                    if(msg['status'] == true){
+                        $('#LoadingStatus').hide();
+                        $('#login').show();
+                        $('#login_ok').hide();
+                        var html1 = "<a rel='nofollow' href='http://uc.himfr.com/login.php'>Sign In</a> | <a rel='nofollow' href='http://uc.himfr.com/reg.php'>Join Free</a> | <strong><a rel='nofollow' href='http://www.himfr.com'>My himfr.com</a></strong>";
+                        $('#head_login').html(html1);
+                        $('#publish').attr('href',domain);
+                    }else{
+                        $('#LoadingStatus').hide();
+                        alert(msg['error']);
+                    }
+                }
+            });
         }
         $(function() {
             menu();
+            var now = new Date();
+            $.ajax({
+                type: "GET",
+                url: "/index.php?r=user/ajaxGetLoginUser",
+                data: '&date=' + now.getTime(),
+                dataType: 'json',
+                cache: 'false',
+                success: function (msg) {
+                    if (msg['status'] == true) {
+                        $('#login').hide();
+                        $('#user').text(msg['user']);
+                        if (msg['pay']) {
+                            $('#pay').text('(' + msg['pay'] + ')');
+                        }
+                        if (msg['unpaid']) {
+                            $('#unpaid').text('(' + msg['unpaid'] + ')');
+                        }
+                        if (msg['pass']) {
+                            $('#pro_pass').text('(' + msg['pass'] + ')');
+                        }
+                        if (msg['nopass']) {
+                            $('#pro_nopass').text('(' + msg['nopass'] + ')');
+                        }
+                        $('#login_ok').show();
+                        var html1 = "Welcome,<a href='"+domain+"' >" + msg['user'] + " </a>";
+                        html1 += " | <a href='javascript:void(0)' onclick='logout()'>Sign out </a> | <strong><a href='http://www.himfr.com'>My himfr.com</a></strong>";
+                        $('#head_login').html(html1);
+                        $('#publish').attr('href', domain);
+                    }
+                }
+            });
         });
     </script>
 </div>
-</div> </div><div class="cont_main_box" id="pageIndex2">       <div class="cont_main_box_inner"><div class="hyz49_1" id="header">
-      <div class="top">
-    <div class="logo"><a href="/"><img src="http://style.himfr.com/myres/logo/himfr.com.jpg" alt="himfr.com"></a></div>
+     </div>
+</div>
+<div class="cont_main_box" id="pageIndex5">       
+     <div class="cont_main_box_inner">      
+              <div class="hyz49" id="header">
+          <div class="top">
+    <div class="logo"><a href="/"><img src="http://style.himfr.com/myres/logo/himfr.com.png" alt="himfr.com"></a></div>
     <div class="menu" id="menu">
       <ul>
         <li><a href="/" title="Home">Home</a><span></span></li>
@@ -124,6 +184,8 @@
     <script type="text/javascript">
         $(function(){
             $('#keyword').focus();
+            var domain = 'aHR0cDovL3VjLmVjZXIuY29tL2luZGV4LnBocD9yPXVzZXIvaW5kZXg=';
+            domain = base64decode(domain);
         });
         function logout() {
             $('#LoadingStatus').show();
@@ -138,7 +200,7 @@
                         $('#login_ok').hide();
                         var html1 = '<a href="http://uc.himfr.com/login.php">Sign In</a> | <a href="http://uc.himfr.com/reg.php">Join Free</a> | <strong><a href="http://www.himfr.com">My himfr.com</a></strong>';
                         $('#head_login').html(html1);
-                        $('#publish').attr('href','http://members.himfr.com/index.php?r=member/index');
+                        $('#publish').attr('href',domain);
                     }else{
                         $('#LoadingStatus').hide();
                         alert(msg['error']);
@@ -148,10 +210,14 @@
         }
     </script>
 </div>
-</div> </div><div class="cont_main_box" id="pageIndex3">       <div class="cont_main_box_inner"><img src="http://style.himfr.com/myres/images/static_about_en.jpg" style="margin-bottom:10px">
-    <!--f_static_intro-->
-<div class="hyz146_1">
-        <div class="pso">
+     </div>
+</div>
+<div class="cont_main_box" id="pageIndex3">       
+     <div class="cont_main_box_inner">      
+          <img src="http://style.himfr.com/myres/images/static_about_en.jpg" style="margin-bottom:10px">
+          <!--f_static_intro-->
+    <div class="hyz146">
+            <div class="pso">
         <div class="head-nav" id="navID">
             <div class="main-nav">
                 <ul class="about_nav_wrap cbfix">
@@ -175,17 +241,21 @@
                 var sTop = $(window).scrollTop();
                 var sTop = parseInt(sTop);
                 if (sTop >= 100) {
-                    $(".f_static_intro_1 .pso").addClass("pos_fixed")
+                    $(".f_static_intro .pso").addClass("pos_fixed")
                 }
                 else {
-                    $(".f_static_intro_1 .pso").removeClass("pos_fixed")
+                    $(".f_static_intro .pso").removeClass("pos_fixed")
                 }
             });
         })
     
 </script>
-</div> </div><div class="cont_main_box" id="pageIndex5">       <div class="cont_main_box_inner">      <div class="hyz83_1">
-        <table cellspacing="0" cellpadding="0">
+     </div> 
+</div>
+<div class="cont_main_whole" id="pageIndex5" style="border-top:1px solid #ddd;margin-top:10px;background:#fff">
+     <div class="cont_main_whole_inner">
+              <div class="hyz83">
+            <table cellspacing="0" cellpadding="0">
         <tbody><tr>
             <td valign="top">
                 <ul>
@@ -199,7 +269,7 @@
             <td valign="top">
                 <ul>
                     <li class="t hl_s"><a href="http://www.himfr.com/static/about_us-2007.html">About Us</a></li>
-                    <li class="l"><a rel="nofollow" href="http://www.himfr.com/static_cn/2011.html">About Us (cn)</a></li>
+                   <!--  <li class="l"><a  rel="nofollow" href="http://www.himfr.com/static_cn/2011.html">About Us (cn)</a></li> -->
                     <li class="l"><a rel="nofollow" href="http://www.himfr.com/static/about_us-2007.html">About Us</a></li>
                     <li class="l"><a rel="nofollow" href="http://uc.himfr.com/reg.php">Join Us</a></li>
                 </ul>
@@ -208,6 +278,7 @@
                 <ul>
                     <li class="t hl_s"><a href="http://www.himfr.com">Buy On Us</a></li>
                     <li class="l"><a href="http://www.himfr.com/hot-products/">By Category</a></li>
+                    <li class="l"><a href="http://m.himfr.com" target="_blank">By Mobile</a></li>
                                     </ul>
             </td>
             <td valign="top">
@@ -227,25 +298,28 @@
             </td>
         </tr>
         </tbody></table>
-</div>            <div class="hyz41_1">
+</div>    </div>
+</div>
+<div class="cont_main_whole footer_bg" id="pageIndex5" style="margin-top:0;">
+     <div class="cont_main_whole_inner">
+              <div class="hyz41">
   <p><a href="http://www.himfr.com" title="Home">Home</a>|
       <a href="http://www.himfr.com/hot-products/" title="Products">Products</a>|
       <a href="http://www.himfr.com/company/" title="Supplier">Suppliers</a>|
+      <a href="http://www.himfr.com/qualitysuppliers/" title="Quality Suppliers">Quality Suppliers</a>|
       <a href="http://www.himfr.com/sitemap.html" title="Site Map">Site Map</a>
             |<a href="http://www.himfr.com/static/about_us-2007.html" rel="nofollow" title="About Us">About Us</a>
                               |<a href="http://www.himfr.com/static/contact_us-2008.html" rel="nofollow" title="Contact Us">Contact Us</a>
                               |<a href="http://www.himfr.com/static/help-2009.html" rel="nofollow" title="Help">Help</a>
-                              |<a href="http://www.himfr.com/static/privacy_policy-2010.html" rel="nofollow" title="Privacy Policy">Privacy Policy</a>
-                                    |<a href="http://www.himfr.com/static_cn/2011.html" rel="nofollow" title="关于我们">关于我们</a>
+                                            |<a href="http://www.himfr.com/static_cn/2011.html" rel="nofollow" title="关于我们">关于我们</a>
                                   |<a href="http://www.himfr.com/static_cn/2012.html" rel="nofollow" title="联系我们">联系我们</a>
-                                  |<a href="http://www.himfr.com/static_cn/2013.html" rel="nofollow" title="会员服务">会员服务</a>
-                  </p><div class="bottom">
-      <p>Copyright © 2016 himfr.com. All rights reserved.</p>
+                        </p><div class="bottom">
+      <p>Copyright © 2009 - 2017 himfr.com. All rights reserved.</p>
     <p></p>
   </div>
 </div>
-</div> </div>
-
+     </div> 
+</div>
 
 <script type="text/javascript" src="http://style.himfr.com/myres/js/cart-common.js"></script>
 </body></html>
