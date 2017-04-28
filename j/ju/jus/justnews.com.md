@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justnews.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516172230id_/http%3A//www.local10.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justnews.com privacy policy that was archived on 2017-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170428233342id_/https%3A//www.local10.com/station/privacy) for the most accurate reproduction.*
 
 # Local10.com Privacy Policy
 
