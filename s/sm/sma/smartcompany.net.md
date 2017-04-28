@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartcompany.net privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101063902id_/http%3A//www.smartcompany.net/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcompany.net privacy policy that was archived on 2017-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170428231651id_/http%3A//smartcompany.net/privacy.jsp) for the most accurate reproduction.*
 
 # SmartCompany Privacy Statement
 
@@ -39,4 +39,4 @@ If customers need to update or change registration information they may so by ed
 **Additional Information**  
 Questions regarding this Statement or the practices of this Site should be directed to SmartCompany?s Security Administrator by e-mailing such questions to security@smartcompany.net. 
 
-© 2003-2016 SmartCompany, Inc. All rights reserved. Trademarks referenced are property of their respective owners. 
+© 2003-2017 SmartCompany, Inc. All rights reserved. Trademarks referenced are property of their respective owners. 
