@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the coolworks.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123134517id_/http%3A//www.coolworks.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolworks.com privacy policy that was archived on 2017-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170428040859id_/https%3A//www.coolworks.com/privacy-policy) for the most accurate reproduction.*
 
-# Cool Works Privacy Policy | CoolWorks.com
+# Privacy Policy - CoolWorks.com
 
-We respect your privacy
-
-In these days of spam and online scams, we at Cool Works® are sensitive to the issues of protecting your privacy and your identity. We try to provide the safest possible environment for you to search and apply for jobs.
-
-### PERSONAL INFORMATION
+## PERSONAL INFORMATION
 
 Cool Works® collects personal information from users on a voluntary basis only. This allows us to give you private and secure areas for job seekers and employers to post and edit content on our site. We do not sell your personal information to anyone for any reason. When you voluntarily distribute or display personal information such as your email address or resume, others may be able to collect and use it. As a result, you may receive unsolicited messages from third parties for which Cool Works® is not responsible.
 
@@ -20,11 +16,11 @@ We may also use or disclose information if required to do so by law or in the go
 
 This Site is not directed towards children under the age of 13, and we request that children under 13 not use this Site without prior parental consent.  We also request that children under the age of 13 not provide personally identifiable information to the Site.
 
-### ABOUT COOKIES
+## ABOUT COOKIES
 
-We use cookies at Cool Works® only for the protection and convenience of our users. Cookies enable us to serve secure pages to our users without asking them to sign in repeatedly. If a user's system is idle for more than an hour, however, the cookie will expire, forcing the user to sign in again to continue their session. This prevents unauthorized access to the user's information while they are away from their computer.
+We use cookies at Cool Works® only for the protection and convenience of our users. Cookies enable us to serve secure pages to our users without asking them to sign in repeatedly. If a user’s system is idle for more than an hour, however, the cookie will expire, forcing the user to sign in again to continue their session. This prevents unauthorized access to the user’s information while they are away from their computer.
 
-### JOB POSTER'S RULES
+## JOB POSTER’S RULES
 
 You may not:
 
@@ -36,7 +32,7 @@ You may not:
 
 
 
-### JOB SEEKER RULES
+## JOB SEEKER RULES
 
 Cool Works® is under no obligation to monitor the conduct of its Users, but it may investigate and respond when violations are reported. You may not:
 
@@ -67,8 +63,8 @@ You never need to provide data to search for jobs.
 
 Choice/Opt-Out. Cool Works® provides you the opportunity to opt-out of receiving most communications from Cool Works®. You have the option to remove your information from our database and to not receive future communications or to no longer receive our service. We also give you the option to change or modify the information previously provided. To exercise any of these options:
 
-  1. [Contact us](http://www.coolworks.com/about/contact-us.html) with the details of your request
-  2. Send a letter to PO Box 275, Gardiner, MT 59030
+  1. [Contact us](https://web.archive.org/contact/) with the details of your request
+  2. Send a letter to PO Box 383, Morrison, CO 80465
   3. Call us at (406) 848-2380
 
 
