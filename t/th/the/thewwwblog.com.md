@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewwwblog.com privacy policy that was archived on 2016-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160908224407id_/http%3A//www.thewwwblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewwwblog.com privacy policy that was archived on 2017-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170428143907id_/http%3A//www.thewwwblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : The WWW Blog
 
