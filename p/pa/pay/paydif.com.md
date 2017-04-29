@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paydif.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326174051id_/http%3A//paydif.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydif.com privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429233421id_/http%3A//paydif.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | PayDif - online payments made easy
 
