@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovingitvegan.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518185108id_/http%3A//www.lovingitvegan.com/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovingitvegan.com privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429024319id_/http%3A//www.lovingitvegan.com/privacy-policy) for the most accurate reproduction.*
 
 # Terms and Conditions and Privacy - Loving It Vegan
 
