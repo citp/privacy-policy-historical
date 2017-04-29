@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterworldbooks.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119033113id_/http%3A//www.betterworldbooks.com/go/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterworldbooks.com privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429140941id_/https%3A//www.betterworldbooks.com//go/privacy) for the most accurate reproduction.*
 
 # BetterWorldBooks.com Privacy Policy
 
