@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finmde.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430100014id_/http%3A//www.finmde.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finmde.com privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429043517id_/http%3A//www.finmde.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : finmde.com, win 7 key finder - finmde.com
 
