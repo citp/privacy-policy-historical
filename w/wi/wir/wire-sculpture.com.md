@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the wire-sculpture.com privacy policy that was archived on 2015-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150710101235id_/http%3A//www.wire-sculpture.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wire-sculpture.com privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429163616id_/https%3A//www.wirejewelry.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy: Wire Jewelry | Wire Wrap Tutorials | Jewelry Making Wire
 
-## Wire-Sculpture.com's Privacy Policy
+## wirejewelry.com's Privacy Policy
 
 Related:
 
-  * [Shipping Policy](http://www.wire-sculpture.com/pages/shipping_policy.html)
-  * [Order Return Policy](http://www.wire-sculpture.com/support/index.php?/Knowledgebase/Article/View/13/0/what-is-your-return-policy)
-  * [Frequently Asked Questions](https://www.wire-sculpture.com/support/index.php?/Knowledgebase/List)
-  * [Gift Certificate & Promotional Code Policy](https://www.wire-sculpture.com/support/index.php?/Knowledgebase/Article/View/25/1/how-do-gift-certificates-and-promo-codes-work)
-  * [Terms & Conditions](http://www.wire-sculpture.com/pages/terms_and_conditions.html)
-  * [How to Enable Cookies](http://www.wire-sculpture.com/pages/cookies_setup.html)
+  * [Shipping Policy](https://www.wirejewelry.com/pages/shipping_policy.html)
+  * [Order Return Policy](https://www.wirejewelry.com/support/index.php?/Knowledgebase/Article/View/13/0/what-is-your-return-policy)
+  * [Frequently Asked Questions](https://www.wirejewelry.com/support/index.php?/Knowledgebase/List)
+  * [Gift Certificate & Promotional Code Policy](https://www.wirejewelry.com/support/index.php?/Knowledgebase/Article/View/25/1/how-do-gift-certificates-and-promo-codes-work)
+  * [Terms & Conditions](https://www.wirejewelry.com/pages/terms_and_conditions.html)
+  * [How to Enable Cookies](https://www.wirejewelry.com/pages/cookies_setup.html)
 
 
 
@@ -82,7 +82,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://wire-sculpture.com/pages/terms_and_conditions.html>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://wirejewelry.com/pages/terms_and_conditions.html>
 
 **Your Consent**
 
@@ -94,6 +94,6 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven't completed a task on our site, for example using the contact form to make an enquiry. 
 
-This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone's past visits to the Wire-Sculpture.com website. Of course, any data collected will be used in accordance with our own privacy policy and Google's privacy policy.
+This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone's past visits to the wirejewelry.com website. Of course, any data collected will be used in accordance with our own privacy policy and Google's privacy policy.
 
 You can set preferences for how Google advertises to you using the Google Ad Preferences page, and if you want to you can opt out of interest-based advertising entirely by cookie settings or permanently using a browser plugin.
