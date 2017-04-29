@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primalforce.net privacy policy that was archived on 2016-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160827233524id_/https%3A//primalforce.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primalforce.net privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429094306id_/https%3A//primalforce.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,7 +29,7 @@ If you contact us to inquire about an order, our customer service staff will ask
 When you give us your mailing address, we will use this information to fulfill your order and to send you information on other products you might find interesting. If you don’t want us to send you this other information, please contact our customer service department:
 
 Customer Service  
-11903 Southern Blvd. Ste. 208  
+11905 Southern Blvd.  
 Royal Palm Beach, FL 33411
 
 Or you can email us using our [online contact form](http://primalforce.net/contact.php) or call us toll-free at 1.866.895.8555.
