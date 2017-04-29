@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitedown.co privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405055044id_/http%3A//sitedown.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitedown.co privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429201348id_/https%3A//sitedown.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Site Down
 
