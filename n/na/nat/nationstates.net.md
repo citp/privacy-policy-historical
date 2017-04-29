@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nationstates.net privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114104511id_/http%3A//www.nationstates.net/page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationstates.net privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429130218id_/https%3A//www.nationstates.net/page%3Dprivacy) for the most accurate reproduction.*
 
-# NationStates | Privacy Policy
+# NationStates | create your own country
 
-**Last updated:** October 14, 2014 
+**Last updated:** March 09, 2017 
 
 This privacy policy has been compiled to better serve those who are concerned with how their "Personally identifiable information" (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information. 
 
@@ -23,7 +23,7 @@ NationStates may collect:
 
 Your IP address is collected whenever you visit any page. This happens any time you browse any website: your browser transmits your IP address so that the remote site knows where to send back data. 
 
-Your e-mail address is collected if you supply one either during registration (i.e. nation creation) or by entering one later via your [Settings](http://www.nationstates.net/page=settings). You do not need to supply an e-mail address to browse the site, nor to create an account. However, if you choose to join the [World Assembly](http://www.nationstates.net/page=un), an e-mail address is required, and a verification message is sent to this. 
+Your e-mail address is collected if you supply one either during registration (i.e. nation creation) or by entering one later via your [Settings](https://www.nationstates.net/page=settings). You do not need to supply an e-mail address to browse the site, nor to create an account. However, if you choose to join the [World Assembly](https://www.nationstates.net/page=un), an e-mail address is required, and a verification message is sent to this. 
 
 ## How does NationStates use your information? 
 
@@ -35,7 +35,7 @@ NationStates uses the information collected from you:
 
   * If you have supplied an e-mail address: 
 
-    * To send you an e-mail notification when your account is about to be deleted for lack of activity. (You can disable this in your [Settings](http://www.nationstates.net/page=settings).) 
+    * To send you an e-mail notification when your account is about to be deleted for lack of activity. (You can disable this in your [Settings](https://www.nationstates.net/page=settings).) 
 
     * To send you topic update notification e-mails for any forum topics to which you manually subscribe to receive such updates. 
 
@@ -70,7 +70,7 @@ NationStates uses cookies:
 
   * To track aggregate visitor information with Google Analytics. You can find out more about Google Analytics cookies, as well as other Analytics-related privacy information, [here](https://support.google.com/analytics/answer/6004245). 
 
-  * Serve ads via Google AdSense and third-party partners. In this case, cookies are used to target ads based on your prior visits to this and other websites. For more information, including how to prevent this cookie being stored on your computer, see the [Google AdSense](http://www.nationstates.net/page=privacy#gooAd) section below. 
+  * Serve ads via Google AdSense and third-party partners. In this case, cookies are used to target ads based on your prior visits to this and other websites. For more information, including how to prevent this cookie being stored on your computer, see the [Google AdSense](https://www.nationstates.net/page=privacy#gooAd) section below. 
 
 
 
@@ -94,7 +94,7 @@ However, non-personally identifiable visitor information may be provided to othe
 
 NationStates does not disclose your personally identifiable information via forum post or any other kind of in-site communication to other users. For example, moderators are not permitted to inform users of another user's IP address or e-mail address. 
 
-A user may sometimes post their own information (IP address or e-mail address) in order to seek technical help. This is not recommended, and we instruct users to use a private channel instead (the [Getting Help](http://www.nationstates.net/page=help) page). 
+A user may sometimes post their own information (IP address or e-mail address) in order to seek technical help. This is not recommended, and we instruct users to use a private channel instead (the [Getting Help](https://www.nationstates.net/page=help) page). 
 
 ## Non-Personally Identifiable Information
 
@@ -133,7 +133,7 @@ All such content can be viewed by moderators and/or administrators.
 
 With particular reference to **telegrams** , NationStates assumes a _higher but incomplete_ level of privacy. Our policy: 
 
-  * Moderators may only view the content of telegrams of another nation when they have _cause_. A moderator has cause to inspect telegrams when they have reasonable grounds to believe a violation of site rules has occurred or is likely to occur in the near future (e.g. in response to a user complaint about harassment), or when the nation in question is being considered for elevation to the moderation team. When investigating telegrams, moderators are permitted to view both sides of a conversation, even when only one party is being investigated. 
+  * Moderators may only view the content of telegrams of another nation when they have _cause_. A moderator has cause to inspect telegrams when they have reasonable grounds to believe a violation of site rules has occurred or is likely to occur in the near future (e.g. in response to a user complaint about harassment), or when the nation in question is being considered for elevation to the site staff. When investigating telegrams, moderators are permitted to view both sides of a conversation, even when only one party is being investigated. 
 
   * Our system requires moderators to enter a reason/reference to view a telegram, which is permanently logged. This enables administrators and other moderators to verify who viewed which telegram, when, and for what reason, in order to ensure compliance with site policy. 
 
@@ -144,7 +144,7 @@ With particular reference to **telegrams** , NationStates assumes a _higher but 
 
 ## Google AdSense
 
-NationStates uses Google AdSense to display ads to most visitors. You can view [Google's main Privacy Policy](http://www.google.com.au/policies/privacy/) and their more specific [Advertising Privacy Policy](http://www.google.com.au/policies/technologies/ads/). Google lets you change your ad preferences via [Google Ad Settings](http://www.google.com/ads/preferences/). 
+NationStates uses Google AdSense to display ads to most visitors. You can view [Google's main Privacy Policy](https://www.google.com.au/policies/privacy/) and their more specific [Advertising Privacy Policy](https://www.google.com.au/policies/technologies/ads/). Google lets you change your ad preferences via [Google Ad Settings](https://www.google.com/ads/preferences/). 
 
 NationStates has implemented the following: 
 
@@ -163,7 +163,7 @@ You should know that:
 
   * Google's use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visit not only to NationStates but other sites using the DoubleClick network across the Internet. 
 
-  * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Google Ad Settings](http://www.google.com/ads/preferences/). You can opt out of third-party vendors' use of cookies for interest based advertising at [aboutads.info](http://aboutads.info/). 
+  * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Google Ad Settings](https://www.google.com/ads/preferences/). You can opt out of third-party vendors' use of cookies for interest based advertising at [aboutads.info](https://aboutads.info/). 
 
   * A list of approved ad exchange vendors, which may serve ads on NationStates via Google DoubleClick, is available [here](https://support.google.com/3pascertification/table/4570113). 
 
@@ -172,13 +172,13 @@ You should know that:
 
 ## California Online Privacy Protection Act
 
-CalOPPA is the first state law in the US to require commercial websites and online services to post a privacy policy. The law aims to reach beyond California to require any person or company that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. More information is available [here](http://consumercal.org/california-online-privacy-protection-act-caloppa/). 
+CalOPPA is the first state law in the US to require commercial websites and online services to post a privacy policy. The law aims to reach beyond California to require any person or company that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. More information is available [here](https://consumercal.org/california-online-privacy-protection-act-caloppa/). 
 
 In accordance with CalOPPA, NationStates agrees that: 
 
   * Users can visit our site anonymously. 
 
-  * A link to this Privacy Policy will be maintained on the [NationStates home page](http://www.nationstates.net/page=welcome). 
+  * A link to this Privacy Policy will be maintained on the [NationStates home page](https://www.nationstates.net/page=welcome). 
 
   * The Privacy Policy link includes the word "Privacy" and can be easily be found on the page specified above. 
 
@@ -213,7 +213,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
   * To help identify when a site visitor is banned from the site for rule violations by moderators. 
 
-  * To send you an e-mail notification when your account is about to be deleted for lack of activity. (You may disable this in your [Settings](http://www.nationstates.net/page=settings).) 
+  * To send you an e-mail notification when your account is about to be deleted for lack of activity. (You may disable this in your [Settings](https://www.nationstates.net/page=settings).) 
 
   * To send you topic update notification e-mails for any forum topics to which you manually subscribe to receive such updates. 
 
@@ -227,7 +227,7 @@ If at any time you would like to unsubscribe from receiving future e-mails, you 
 
   * Follow the instructions at the bottom of each email; or 
 
-  * [Contact us](http://www.nationstates.net/page=help)
+  * [Contact us](https://www.nationstates.net/page=help)
 
 
 
@@ -236,9 +236,9 @@ If at any time you would like to unsubscribe from receiving future e-mails, you 
 
 If there are any questions regarding this privacy policy, or you require help, you may contact us: 
 
-  * **[Contact site moderators](http://www.nationstates.net/page=help)** : This is the fastest way to receive help, and your message is private. 
+  * **[Contact site moderators](https://www.nationstates.net/page=help)** : This is the fastest way to receive help, and your message is private. 
 
-  * **[Visit the Technical forum](http://forum.nationstates.net/viewforum.php?f=15)** : This is a public forum for technical help visited by users, moderators, and site administrators. 
+  * **[Visit the Technical forum](https://forum.nationstates.net/viewforum.php?f=15)** : This is a public forum for technical help visited by users, moderators, and site administrators. 
 
   * **[E-mail site administrators](mailto:admin@nationstates.net)** : Please note this is a slow channel and if you require urgent assistance, use one of the other options above. 
 
@@ -247,4 +247,4 @@ If there are any questions regarding this privacy policy, or you require help, y
 
 ## Terms & Conditions
 
-If this document was not enough to satisfy you, you may enjoy our thrilling [Terms & Conditions](http://www.nationstates.net/page=legal)! 
+If this document was not enough to satisfy you, you may enjoy our thrilling [Terms & Conditions](https://www.nationstates.net/page=legal)! 
