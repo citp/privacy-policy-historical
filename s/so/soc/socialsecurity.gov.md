@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialsecurity.gov privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115150125id_/https%3A//www.ssa.gov/agency/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialsecurity.gov privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429161146id_/https%3A//www.ssa.gov/agency/privacy.html) for the most accurate reproduction.*
 
 # Social Security's Internet Privacy Policy
 
