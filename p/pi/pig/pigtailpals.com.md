@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pigtailpals.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107215613id_/http%3A//www.pigtailpals.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pigtailpals.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430001524id_/http%3A//www.pigtailpals.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Pigtail Pals and Ballcap Buddies Empowering Apparel for Kids
 
