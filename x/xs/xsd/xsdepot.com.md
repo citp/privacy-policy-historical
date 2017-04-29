@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xsdepot.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205005857id_/http%3A//www.xsdepot.com/ContentPage/8-Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xsdepot.com privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429170826id_/http%3A//www.xsdepot.com/ContentPage/8-Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
