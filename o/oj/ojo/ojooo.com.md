@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ojooo.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203025536id_/https%3A//ojooo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ojooo.com privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429054146id_/https%3A//ojooo.com/privacy) for the most accurate reproduction.*
 
-# Ojooo.com My Account
+# Ojooo.com - Privacy
 
 ## This privacy policy covers Ojooo AG and group companies and our websites, products and services.
 
