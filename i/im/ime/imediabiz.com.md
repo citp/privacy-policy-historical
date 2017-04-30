@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imediabiz.com privacy policy that was archived on 2016-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160227013804id_/http%3A//www.hostmop.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imediabiz.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430085948id_/http%3A//www.hostmop.com/privacy-policy.php) for the most accurate reproduction.*
 
 # HostMop : Privacy Policy
 
@@ -14,7 +14,7 @@ We may collect any or all of the information that via both automated means such 
 
 ### Information Use
 
-This information is used for billing and to provide service and support to our customers. We may also study this information to determine our customers’ needs and provide support for our customers. All reasonable precautions are taken to prevent unauthorised access to this information. This safeguard may require you to provide additional forms of identity should you wish to obtain information about your account details. **HostMop** may email its monthly newsletter to the primary contact e-mail on file, but customers are able to opt out of this newsletter at any time.
+This information is used for billing and to provide service and support to our customers. We may also study this information to determine our customers� needs and provide support for our customers. All reasonable precautions are taken to prevent unauthorised access to this information. This safeguard may require you to provide additional forms of identity should you wish to obtain information about your account details. **HostMop** may email its monthly newsletter to the primary contact e-mail on file, but customers are able to opt out of this newsletter at any time.
 
 ### Log Files
 
