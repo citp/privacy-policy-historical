@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creditorwatch.com.au privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610062703id_/https%3A//creditorwatch.com.au/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditorwatch.com.au privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430205913id_/https%3A//creditorwatch.com.au/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - CreditorWatch
+# Privacy Policy - Company Privacy Policy - CreditorWatch
 
 ## CreditorWatch Privacy Policy
 
@@ -75,7 +75,7 @@ By providing Your personal information to CreditorWatch, You consent to Creditor
 
 ## CreditorWatch takes steps to protect your personal information
 
-CreditorWatch is committed to protecting the security of Your personal information and we take all reasonable precautions to protect it from unauthorised access, modification or disclosure. Your personal information is stored on secure servers that have SSL Certificates issued by leading certificate authorities Symantec Corporation, and all Data transferred between You and the Service is encrypted. 
+CreditorWatch is committed to protecting the security of Your personal information and we take all reasonable precautions to protect it from unauthorised access, modification or disclosure. Your personal information is stored on secure servers that have SSL Certificates issued with an A+ security rating, and all Data transferred between You and the Service is encrypted. 
 
 However, the Internet is not in itself a secure environment and we cannot give an absolute assurance that Your information will be secure at all times. Transmission of personal information over the Internet is at Your own risk and You should only enter, or instruct the entering of, personal information to the Service within a secure environment.
 
