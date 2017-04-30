@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the directagents.com privacy policy that was archived on 2016-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160720090110id_/http%3A//www.directagents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directagents.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430151610id_/http%3A//www.directagents.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Direct Agents
+# Privacy Policy
 
 Direct Agents, Inc., is committed to protecting the privacy of visitors to our websites. The following document outlines the privacy procedures and guidelines for our websites – www.directagents.com, www.da-tracking.com, and any other websites that we may launch in connection with our business. This policy was last updated January 19th, 2011.
 
@@ -8,7 +8,7 @@ Direct Agents, Inc., is committed to protecting the privacy of visitors to our w
 
 **How We Use the Information** Direct Agents will use your personal information to conduct follow-up communication efforts with you, including email newsletters. In addition, Direct Agents may use your information to inform you of additional services and products from our clients and partners.
 
-**No Information Collected from Minors** MINORS UNDER THE AGE OF 18 SHOULD NOT PROVIDE ANY PERSONAL INFORMATION, INCLUDING THEIR EMAIL ADDRESS, TO Direct Agents. If Direct Agents is notified it has any information about a minor under the age of 18, that information will be promptly deleted from our active database.
+**No Information Collected from Minors** Minors under the age of 18 should not provide any personal information, including their email address, to Direct Agents. If Direct Agents is notified it has any information about a minor under the age of 18, that information will be promptly deleted from our active database.
 
 **Notice About Cookies** A “Cookie” is a small amount of data stored on the hard drive of your computer that allows Direct Agents to identify your IP address with corresponding information in Direct Agents’ database. Cookies eliminate the need to re-enter information on a particular site, every time you visit that site. Cookies do not identify you personally, but can be used to identify your computer. Many website operators use this technology to better serve the visitors to their sites. Most browsers are set to accept cookies, but you can set your browser to refuse them. You may read more about cookies at [http://www.cookiecentral.com](http://www.cookiecentral.com/).
 
