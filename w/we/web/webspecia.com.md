@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webspecia.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026081111id_/http%3A//webspecia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webspecia.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430053225id_/http%3A//webspecia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | WebSpecia- Best Linux Shared & VPS Hosting Company
 
