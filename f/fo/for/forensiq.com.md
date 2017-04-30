@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the forensiq.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413060350id_/https%3A//forensiq.com//privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forensiq.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430054812id_/https%3A//forensiq.com//privacy-policy) for the most accurate reproduction.*
 
-# Forensiq Privacy Policy | Forensiq
+# Privacy Policy | Forensiq
 
 Effective Date August 20, 2014
 
 Forensiq LLC (“Forensiq”) is an industry leader in online fraud detection. Our technology platform provides measurements about ad impression delivery to help advertisers and advertising inventory sellers confirm accurate delivery characteristics, including viewability metrics and ad impression fraud characteristics. Additionally, advertisers use information we provide about ad impression opportunities to preemptively decide if they want their creative displayed in the available impression environment. With this advanced technology and our dedicated team of data scientists we help you eliminate impression fraud, click fraud, affiliate fraud and cookie stuffing.
 
-This privacy policy describes the privacy related policies and practices for Forensiq’s website and services. By using our website you agree to be bound by this Privacy Policy and consent to the collection and use of your information as described herein. 
-
-Forensiq.com Website Privacy Notice  
-Forensiq Services Privacy Notice
+This privacy policy describes the privacy related policies and practices for Forensiq’s website and services. By using our website you agree to be bound by this Privacy Policy and consent to the collection and use of your information as described herein.
 
 ### FORENSIQ.COM PRIVACY NOTICE
 
@@ -17,7 +14,7 @@ This section applies to the collection and use of your information by our websit
 
 ### Information We Collect on our Website
 
-The website may collect personally identifiable information you provide to us when you submit on our website or when you contact us. Information you may provide to us includes your email address, full name, the company you work for and your phone number. 
+The website may collect personally identifiable information you provide to us when you submit on our website or when you contact us. Information you may provide to us includes your email address, full name, the company you work for and your phone number.
 
 The website may also collect information automatically with the use of analytics packages which gather information such as IP addresses, browser type, basic IP information, referring pages, operating system used and date/time stamps, and store this anonymous information in server log files. This information does not identify individual users; it is used only for site administration, as well as for analysis of website usage and trends.
 
@@ -31,9 +28,9 @@ The website uses both session ID cookies and persistent cookies. A session cooki
 
 We may partner with third-party providers, such as Google, to display ads to you on other websites you visit as you browse the internet. You can learn about ways to manage or opt-out of third-party tracking of this nature by visiting <http://www.networkadvertising.org/choices>.
 
-### How we use the information we collect. 
+### How we use the information we collect.
 
-The website uses the information we collect to market our services, including to send you emails in response to your request to learn more about our services, to schedule a trial with you or to provide you with any other information you requested. We may share the personal information we collect as required by law or court order or other government or law enforcement authority or regulatory agency, in connection with the consolidation, sale of or other transaction related to our business or whenever we believe that disclosing such information is necessary or advisable, for example, to protect the rights of property, or safety of us or others. 
+The website uses the information we collect to market our services, including to send you emails in response to your request to learn more about our services, to schedule a trial with you or to provide you with any other information you requested. We may share the personal information we collect as required by law or court order or other government or law enforcement authority or regulatory agency, in connection with the consolidation, sale of or other transaction related to our business or whenever we believe that disclosing such information is necessary or advisable, for example, to protect the rights of property, or safety of us or others.
 
 If you no longer wish to receive emails from us, you may opt out of receiving future emails by emailing us at info@forensiq.com or by replying to any email we send you and entering the word UNSUBSCRIBE in the subject line.
 
@@ -51,7 +48,7 @@ We do not collect personally identifiable information (defined as name, email ad
 
 ### Use of Cookies by our Services
 
-Our services use cookies to enable our campaign performance analytics services which use statistical population-level data derived from measured impression and conversion data. Cookies are small pieces of information transferred to your computer’s hard drive through your web browser so that your computer will “remember” information about your visit. Our cookie domain is securepaths.com. 
+Our services use cookies to enable our campaign performance analytics services which use statistical population-level data derived from measured impression and conversion data. Cookies are small pieces of information transferred to your computer’s hard drive through your web browser so that your computer will “remember” information about your visit. Our cookie domain is securepaths.com.
 
 We do not use any data collected for behavioral, re-targeting or other interest-based advertising.
 
@@ -65,7 +62,7 @@ We may also use or share the information we collect as described below.
   * We may analyze the information we collect in the aggregate form in order to operate, maintain, manage, and improve our products and services. We may share this aggregate data with our affiliates and agents and disclose aggregated user statistics in order to describe our products and services to current and prospective clients and to other third parties for other lawful purposes.
   * We may share some or all of the information we collect with our parent companies, subsidiaries, joint ventures or other companies under common control with us.
   * In the event of a corporate sale, merger, reorganization, sale of assets, dissolution, or similar event the information we collect information may be part of the transferred assets.
-  * We may also disclose the information we collect when required by law, court order or other government or law enforcement authority or regulatory agency, or whenever we believe that disclosing such information is necessary or advisable, for example, to protect the rights of property, or safety of us or others. 
+  * We may also disclose the information we collect when required by law, court order or other government or law enforcement authority or regulatory agency, or whenever we believe that disclosing such information is necessary or advisable, for example, to protect the rights of property, or safety of us or others.
 
 
 
@@ -81,13 +78,17 @@ We intend our services to only be used by adults. We do not collect any personal
 
 Forensiq, LLC complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Forensiq, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Forensiq, LLC’s certification, please visit <http://www.export.gov/safeharbor/>
 
+### We also have a zero tolerance anti-spam policy
+
+We do not send emails to prospects unless they have completed an “opt in” form indicating an interest in Forensiq services, or otherwise requested them from a Forensiq representative. Forensiq is promoted via word-of-mouth, advertisement, joint ventures, and trade shows, hence, we only build relationships with users who want to learn about our services and have chosen to subscribe to emails.
+
 ### Dispute Resolution
 
 Forensiq LLC participates in the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of our [participation](http://export.gov/safeharbor/) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](https://feedback-form.truste.com/watchdog/request). Please click [here](http://www.truste.com/about-TRUSTe/contact-us) for fax and postal mail information. TRUSTe’s Dispute Resolution process is only available in English.
 
 ### Changes to This Privacy Policy
 
-We reserve the right to change this Privacy Policy at any time by posting an updated Privacy Policy on our site. Your continued use of our website or services after any changes have been made constitutes your acceptance of such changes. 
+We reserve the right to change this Privacy Policy at any time by posting an updated Privacy Policy on our site. Your continued use of our website or services after any changes have been made constitutes your acceptance of such changes.
 
 ### Contact Details
 
@@ -95,7 +96,6 @@ If you have any questions or concerns regarding this privacy policy, or you wish
 
 info@forensiq.com  
 Forensiq, LLC  
-185 Madison Avenue, 7th Floor  
+387 Park Avenue South, 8th Floor  
 New York, NY 10016  
-Tel: 877.449.1854  
-Fax: 718.795.9413
+Tel: 1.212.685.5931
