@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottmonty.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130092142id_/http%3A//www.scottmonty.com/p/privacy-policy-for-scottmonty.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottmonty.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430233615id_/http%3A//www.scottmonty.com/p/privacy-policy-for-scottmonty.html) for the most accurate reproduction.*
 
 # Privacy Policy | Scott Monty
 
