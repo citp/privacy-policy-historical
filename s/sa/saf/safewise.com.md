@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the safewise.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119041050id_/http%3A//www.safewise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safewise.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501000639id_/http%3A//www.safewise.com/privacy-policy) for the most accurate reproduction.*
 
 # SafeWise Privacy Policy
 
-The purpose of this Privacy Policy is to give you a summary of the ways in which Clearlink Technologies, LLC, a wholly owned subsidiary of Sykes Enterprises, Inc., d/b/a www.safewise.com collects, maintains, and uses your information. Please feel free to contact us by email at privacy@clearlink.com or by mail at Clearlink Technologies, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116 with any questions or concerns about this Privacy Policy or the information we gather about you. 
+The purpose of this Privacy Policy is to give you a summary of the ways in which Clearlink Technologies, LLC, a wholly owned subsidiary of Sykes Enterprises, Inc., d/b/a www.safewise.com collects, maintains, and uses your information. Please feel free to contact us by email at privacy@clearlink.com or by mail at Clearlink Technologies, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116 with any questions or concerns about this Privacy Policy or the information we gather about you.
 
 ### How We Collect Your Information
 
