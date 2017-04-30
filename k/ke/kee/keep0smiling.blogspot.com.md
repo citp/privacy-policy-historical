@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keep0smiling.blogspot.com privacy policy that was archived on 2014-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140823065449id_/http%3A//keep0smiling.blogspot.com/p/blog-page.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keep0smiling.blogspot.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430172518id_/http%3A//keep0smiling.blogspot.com/p/blog-page.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
