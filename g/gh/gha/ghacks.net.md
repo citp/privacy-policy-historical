@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghacks.net privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051131id_/https%3A//www.ghacks.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghacks.net privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430073807id_/https%3A//www.ghacks.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | gHacks Technology News
 
@@ -15,7 +15,7 @@ You can send email requesting help and your email will NOT be shared in any way 
 
 Ads used on this website can use cookies and/or web beacons to collect data in the ad serving process. You can remove them at any time using your browser tools.
 
-If you have any questions or concerns regarding this matter, please feel free to [contact us](http://www.ghacks.net/contact/).
+If you have any questions or concerns regarding this matter, please feel free to [contact us](https://www.ghacks.net/contact/).
 
  **Third Party Advertising:**
 
