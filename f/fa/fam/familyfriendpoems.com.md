@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyfriendpoems.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122054008id_/http%3A//www.familyfriendpoems.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyfriendpoems.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430030627id_/http%3A//www.familyfriendpoems.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Family Friends Poems
 
