@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharedcount.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119141943id_/http%3A//www.sharedcount.com/admin/docs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharedcount.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501001349id_/http%3A//www.sharedcount.com/admin/docs/privacy.php) for the most accurate reproduction.*
 
 # SharedCount: Social URL Analytics
 
