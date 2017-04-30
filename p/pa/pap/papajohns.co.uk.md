@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papajohns.co.uk privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222201517id_/http%3A//www.papajohns.co.uk/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papajohns.co.uk privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430233310id_/http%3A//www.papajohns.co.uk/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Pizza Delivery | Order Quality Pizza Online With Papa Johns
 
