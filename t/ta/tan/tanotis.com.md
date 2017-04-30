@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tanotis.com privacy policy that was archived on 2016-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160710005539id_/https%3A//www.tanotis.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tanotis.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430230024id_/https%3A//www.tanotis.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Tanotis
 
@@ -23,5 +23,3 @@ Probably this is the most important question in your mind as to with whom do we 
 
 **Information Usage**  
 The most important usage of the information collected from you is your email which is used to inform you that your order has been confirmed/executed. Your email is also used to inform you for your customer service related queries and for any newsletters sent. All other information collected is confidentially stored and will not be disclosed unless needed as per the requirement of the law authorities or in case of any disputes.
-
-Loading...
