@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brighthorizons.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203121548id_/http%3A//www.brighthorizons.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighthorizons.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430233621id_/https%3A//www.brighthorizons.com/privacy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Bright Horizons® | Bright Horizons®
 
@@ -150,7 +150,10 @@ o "Navigational data" ("log files," "server logs," and "clickstream" data) are u
 o For information on the specific cookies used on our websites please visit the link below to view Cookies utilized for the relevant website you are  visiting. 
 
 
-[Cookie Table](http://www.brighthorizons.com/resources/pdf/privacy/Global_Cookie_Matrix.pdf)
+[Cookie Table](http://www.brighthorizons.com/resources/pdf/privacy/Global_Cookie_Matrix.pdf) 
+
+
+[Bright Horizons Text Message (SMS) Communication Terms and Conditions](http://www.brighthorizons.com/text-message-sms-terms)  
 
 
 Schedule a visit
@@ -181,6 +184,14 @@ Select A Center
 Based on your zip code, here are a few near you:
 
 Thank you 
+
+We will be in touch soon.
+
+Your experience is important to us. Help us improve by taking a quick [5-minute survey](http://bit.ly/2pCvMb8). 
+
+If you would like to contact additional centers, preschools or schools, you may do so below. Otherwise this window can be closed. 
+
+Contact Additional Centers Not at this time
 
 Select additional centers (check all that apply)
 
