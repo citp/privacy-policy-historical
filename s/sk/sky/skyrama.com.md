@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyrama.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314174520id_/https%3A//legal.bigpoint.com/US/privacy-policy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyrama.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430085912id_/https%3A//legal.bigpoint.com/US/privacy-policy/en) for the most accurate reproduction.*
 
 # BIGPOINT INC. - PRIVACY POLICY - EFFECTIVE DATE: SEPTEMBER 30, 2015
 
@@ -80,8 +80,8 @@ We reserve the right to change this privacy policy from time to time. If we chan
 If you have questions or concerns about this Privacy Policy, contact us at privacy@bigpoint.net or write us:  
 Bigpoint Inc.  
 Attention Privacy  
-580 California Street 12th Floor  
-San Francisco CA 94104  
+PO Box 218  
+Fallbrook, CA 92088  
 USA  
 Please remember to provide your User-ID, e-mail address and, if necessary, the relevant Game name(s).
 
