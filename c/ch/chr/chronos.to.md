@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chronos.to privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209102932id_/http%3A//chronos.to/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chronos.to privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501010400id_/http%3A//chronos.to/privacy.html) for the most accurate reproduction.*
 
 # CHRONOS.TO
 
@@ -73,4 +73,4 @@ You understand and agree that Chronos.to stores and processes your information o
 
 ### 8\. How to Contact Us
 
-If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us at: chronos[@]chronos.to
+If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us at: archimg@protonmail.com
