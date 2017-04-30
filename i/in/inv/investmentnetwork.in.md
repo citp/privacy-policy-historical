@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the investmentnetwork.in privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322142328id_/https%3A//www.investmentnetwork.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentnetwork.in privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430122820id_/https%3A//www.investmentnetwork.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Indian Angel Investment Network
+# Privacy Policy on The Indian Investment Network
 
 Angel Investment Network Ltd. is the owner of this site and wishes to express that your privacy is of the utmost concern to us. We guarantee to treat any information received from you with the highest level of respect. 
 
@@ -10,7 +10,7 @@ The company will not sell, share or rent your confidential information to any in
 
 ##  Indexing
 
-Please note that the title and short summary of entrepreneurs' proposals will be indexed on Google to attract more interest to your project. We therefore advise you not to include any confidential information in these sections of your proposal. 
+Please note that the title and short summary of entrepreneurs' pitches will be indexed on Google to attract more interest to your project. We therefore advise you not to include any confidential information in these sections of your pitch. 
 
 ## Cookies
 
