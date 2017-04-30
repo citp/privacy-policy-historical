@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecobank.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205025530id_/http%3A//www.ecobank.com/group/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecobank.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430041251id_/http%3A//www.ecobank.com/group/privacy-policy) for the most accurate reproduction.*
 
 # Ecobank - Privacy policy
 
