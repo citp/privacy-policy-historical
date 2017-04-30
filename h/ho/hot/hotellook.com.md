@@ -1,75 +1,98 @@
-> *The following text is extracted and transformed from the hotellook.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225134139id_/https%3A//hotellook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotellook.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430121312id_/https%3A//hotellook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - hotellook
 
-**Privacy policy**
+We seek to take advantage of all available means to ensure the security and transparency of the Hotellook information retrieval service (hereinafter the "Service" or "Hotellook"), which provides information about services for booking temporary accommodations. The Service Owner hereby informs users about what user information can be accessed by the Service as well as how the information that is obtained by the Service is used.
 
-(Version 3 after 15/01/2013. If you disagree with any of the items below, please don’t use our web sites.)
+## Collection and storage of information
 
-**Who we are**
+All kinds of data are collected and processed in order to provide users with quality services in accordance with [the Service Terms and Conditions of Use](https://hotellook.com/terms-of-use).  
+Data is stored on secure servers. Hotellook utilizes appropriate technical and organizational measures to ensure the security of data, including access control, firewalls, encryption, HTTPS (HyperText Transfer Protocol Secure), and SSL (Secure Sockets Layer) for data transmission. Hotellook does not purposely collect information that can be used to identify (determine) specific individuals who are Service users. At the same time, Hotellook may acquire certain information about users as they use the Service and as a result of their individual actions to take advantage of Service functionality. The list of this information and the reason why it is collected are detailed below.
 
-We (Go Travel Un Limited doing business as JetRadar, a Hong Kong Limited Liability Company, and its subsidiaries, collectively referred to as JetRadar) operate a number of web sites allowing you to search for airline tickets, hotel rooms, travel insurance and car rentals:
+## Information that is directly provided by users
 
-  * www.jetradar.com (English)
-  * www.jetradar.de (German)
-  * www.aviasales.ru (Russian)
-  * www.hotelresearch.ru (Russian)
-  * www.hotellook.com, www.bookmybest.com (English)
-  * www.hotellook.ru, www.bookmybest.ru (Russian)
+Hotellook allows the User to subscribe to a website newsletter. The website uses the user-provided e-mail address exclusively to provide information about prices for accommodations at selected venues and to send out a newsletter. The User may at any time unsubscribe from the newsletter by clicking on the appropriate "Unsubscribe" link, which can be found in all e-mails that are sent to the user’s subscribed e-mail address.
 
+The Hotellook software allows users to register an account on the website in order to use the Service for personal purposes. Users can log into the website Hotellook.com using social network accounts (VKontakte, Facebook, Twitter, and Odnoklassniki). In this situation the service can obtain information about the user’s name as specified in their social media account profile. This information can be used by the Service for the following purposes:
 
-
-**What information we collect about you**
-
-Please be advised that we don’t knowingly collect any information about minors; however, if we find out that certain records belong to minors, we’ll go at great lengths to remove that information from our database ASAP. This section only describes our policies towards your data; you buy travel products from other companies operating other web sites, hence they may have slightly different rules.
-
-**Web site**
-
-  * We may install our own cookie (a small file) in your browser. This cookie allows us to determine:
-  * Whether it’s your first visit or not, and
-  * Whether you visited our site directly or via a link or search form published by one of our partners.
-  * Your search history: origin, destination and travel dates.
-  * We are using the Google Analytics tracking system. It may install cookies in your browser according to Google’s privacy policy.
-  * Email list
+  * to allow the User to log into the Hotellook websites as well as other websites owned by the Service Owner, including aviasales.ru, jetradar.com, and sites that offer airline ticket sales. This is done to provide Hotellook users with special offers from Service partners;
+  * to offer retargeting, i.e., displaying Aviasales ads to users when they visit other sites;
+  * and to allow the user the ability to personally manage site features (i.e., the User can select and save the particular service functions and settings that they find useful).
 
 
 
-You may choose to subscribe to our mailing list to receive alerts about cheap prices; we’ll need your valid email address for this purpose. You can unsubscribe at any time and you won’t receive any emails from us. Unless it’s something super-serious that affects your rights as a consumer or informs you of something genuinely requiring your attention, we’ll never send you any other emails.
+The User is allowed to use the Service software to submit data that is required to purchase services directly on the Hotellook website or mobile app, including credit card numbers, guest names, phone numbers and e-mail addresses, and to send this information to a third party provider that sells temporary accommodation services in order to complete the booking. In this case the transmission of user data to third parties must be authorized and carried out directly by the User via a secure connection. In this case Hotellook does not receive any credit card data. However, it is able to obtain confirmation that a reservation was successfully made as well as the name and e-mail address that were specified by the user. The information that is obtained by the Service in this way is used by the Service for the following purposes:
 
-**Social networks**
+  * Improving the quality of the Service,
+  * Providing the User with support in the event of a dispute with a Service partner,
+  * Allowing Service employees to contact the User about issues related to booking.
 
-If you “LIKE” / ”SHARE” / ”+1” us (or perform a similar action) in social networks, we may obtain your first and last name. However, we’re not using this information for any purpose (honestly) and choose to ignore it.
 
-**Your profile**
 
-You may decide to get to know our cheap fares and hotel rooms search engine a bit closer and register for an account in our system. This will allow us to personalise your search results and collect information about your purchases in order to reward you for your repeated business with us. We are not giving this information to anyone and have strict access controls within our organization to ensure your data is treated as confidential (which it is).
+## Automatically collected information
 
-**What information we disclose about you**
+Hotellook automatically stores information sent by the user’s browser when they visit the site. This information includes the page request, IP address, browser type, browser language, as well as the date and time when the page was loaded. When accessing the service from a mobile device, Hotellook may collect data that identifies your mobile device as well as its specific settings and characteristics. The information that is collected in this way is used to analyze and maintain the quality of the Hotellook service.
 
-None that has any chance of identifying you, unless we are legally obliged (i.e. by court order or law enforcement agencies) to do so. Even then we will only be able to disclose the information explicitly outlined in the previous section.
+## Cookie files
 
-To elaborate on the previous paragraph, we create lots of reports out of the data that has all identifiable bits stripped out (for instance, to calculate ticket sales volume we only need the list of ticket prices and not names of the buyers).
+Cookies are small text files that are typically stored on the user’s computer until the end of the session, i.e., until the user finishes working in the browser. However, sometimes they are stored for longer periods of time.
 
-**What information we DON’T collect about you**
+When the User visits the Hotellook website, it sends one or more cookie files to the user’s computer or another device.
 
-_Personally identifiable information_
+The cookie files are used:
 
-We don’t need and hence don’t collect any of the following information about you: your name, age, email address (unless you subscribed to our email list or created an account on our web site), phone number, passport details, home address, etc.
+  * to simplify the use of the website and to improve the quality of the services provided in order, for example, to save user settings and to automatically fill in places of interest where the user wishes to book temporary accommodations and calendar search dates;
+  * to keep track of when users make reservations at Hotellook partner companies (agencies, reservation systems, hotels, inns, hostels, guest houses, etc.). After the user selects a venue that they are interested in and clicks "Book", the site redirects them to the website of the Hotellook partner where the temporary accommodations can be booked. Hotellook does not collect any personal data about users who complete a transaction on a partner site. Our service is only sent statistical data on the total number of bookings and the prices for the transactions. This information is used to determine the referral fee that is due to Hotellook;
+  * for analysis to better target advertising.
 
-Most information in our systems is anonymized, which means that even we can’t match specific records to specific individuals, unless they signed up for an account. In this case, we treat this information with utmost respect and care.
 
-**Order and payment information**
 
-Because you pay to an airline, hotel or travel agency directly, we have no visibility of your order information, including, but not limited to: specific ticket bought, price paid, credit card number, etc.
+## Use of Cookies and other tools for promotional purposes
 
-**Under the hood (plain talk about serious stuff)**
+The Hotellook website uses third party services to track usage statistics, information about advertising campaign conversions, and other data. Hotellook does not use these services and tools to collect data on specific users. It only uses general statistics about visitation, the effectiveness of the website, and the effectiveness of advertising campaigns. Below is a list of additional third-party services that Hotellook uses as well as links to the privacy policies of these services.
 
-As of the time of this writing, your data resides in the European Union, but we reserve the right to move it outside the EU (probably in the US). The decision to do so is only determined by the technical convenience and the speed of access to the data in order to ensure our site operates the fastest it can.
+Google Analytics and Adwords, the analytics web service of Google Inc. ("Google")
 
-You can use our site without cookies if you are concerned about privacy. If you want to be able to login into your account, you’ll need to have cookies enabled.
+Google Analytics is a free web analytics service from Google, which allows website owners to learn how users interact with their pages. The service collects information anonymously. The company uses its own cookie files to track visitor activities on the website in Google Analytics. They allow you to find out if the user visited this web resource before, the last page that they came from, and how much time they spent there.
 
-We use a number of approaches to ensure your data is secure: access controls, firewalls, one-the-fly encryption, SSL [Secure Sockets Layer] for data transfer (if you’re logged in).
+Hotellook uses the [Google Analytics remarketing](http://www.google.com/analytics/features/remarketing.html) function. Remarketing in Google Analytics makes it possible to encourage users who have previously visited the website to return using specially designed ads that target them as they visit other websites. A third-party cookie from DoubleClick is used for remarketing purposes. This cookie files is used to provide remarketing in such products as AdWords through the Google Display Network. Consider the following example scenario: after visiting Hotellook, the user decides to visit a travel blog that also participates in AdWords. Thanks to Google Analytics remarketing, the user will be shown ads encouraging them to use Hotellook.
 
-**Closing Comments**
+The user can prevent the Google system from using cookie files by visiting the appropriate page on Google to disable cookies.
 
-This document is constantly evolving to reflect our latest developments. We reserve the right to change it at any time.
+The user can also use the following in order to change or disable Google Analytics:
+
+  * [Google Ads Preferences Manager;](https://www.google.com/settings/u/0/ads)
+  * [Google Analytics Blocker.](https://tools.google.com/dlpage/gaoptout/)
+
+
+
+You can find a description of Google’s advertising services and documentation regarding how they are used at <http://www.google.com/services/>   
+Google’s Privacy Policy is published here: [link](https://www.google.com/policies/terms/regional.html)
+
+## Other statistical tracking and social network integration tools
+
+  * [Facebook login widget](https://www.facebook.com/policy.php)
+  * [VKontakte login widget](http://vk.com/privacy)
+  * [Twitter login widget](https://twitter.com/privacy)
+  * [Odnoklassniki login widget](https://ok.ru/regulations)
+
+
+
+You can block all of the above tools, including Google tools, by installing third-party browser plug-ins (extensions).
+
+## Personal information
+
+Your personal information, including e-mail address and name, cannot be disclosed to third parties, affiliates, and marketing contractors. This information may only be used by our company for marketing purposes with your consent. The following are exceptions to this rule:
+
+  * Lawful demands by government authorities,
+  * Cases where the user provides explicit consent to the transfer of data to third parties in order to complete a booking
+
+
+
+## Changes to the Privacy Policy
+
+In the latter case, we at Hotellook shall not be liable for ensuring that third-party Internet services respect the confidentiality of user data. The User must independently consider and accept the terms and conditions governing confidentiality (the privacy policy) of any and all third-party websites that are linked to from Hotellook.
+
+The Privacy Policy may change. All changes made to this document will be published on this page.
+
+If you have any additional questions or concerns about the privacy policy, then you can contact the Hotellook administration by e-mail at: [support@hotellook.com](mailto:support@hotellook.com)
