@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the spanning.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101192818id_/http%3A//spanning.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanning.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430141733id_/http%3A//spanning.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Spanning Cloud Apps, LLC
 
-_Last updated:  September 22, 2016_
+_Last updated: March 20, 2017_
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=952db159-87ef-42d7-8760-2d37df1633bc "TRUSTe Privacy Certification")
 
-This Privacy Statement applies to spanning.com and our service platform owned and operated by Spanning Cloud Apps, LLC (“Spanning”, “We”, “Our”, “Us”). Spanning has created this privacy statement in order to demonstrate our commitment to customer privacy. Privacy on the Spanning Backup web service (the “Service”) is of great importance to us. We also collect personal information on our website, spanning.com. Because we gather important information from our users, we have established this Statement as a means to communicate our information gathering and dissemination practices. If you have questions or complaints regarding our privacy statement or practices, please contact us at [privacy@spanning.com](mailto:privacy@spanning.com). If you are not satisfied with our response you can [contact TRUSTe here.](https://feedback-form.truste.com/watchdog/request)
+This Privacy Statement applies to spanning.com and our service platform owned and operated by Spanning Cloud Apps, LLC (“Spanning”, “We”, “Our”, “Us”). Spanning has created this privacy statement in order to demonstrate our commitment to customer privacy. Privacy on the Spanning Backup web service (the “Service”) is of great importance to us. We also collect personal information on our website, spanning.com. Because we gather important information from our users, we have established this Statement as a means to communicate our information gathering and dissemination practices. If you have questions or complaints regarding our privacy statement or practices, please contact us at [privacy@spanning.com](mailto:privacy@spanning.com).
 
 Spanning Cloud Apps, LLC complies with the U.S. – Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Spanning Cloud Apps, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Spanning Cloud Apps, LLC’s certification, please visit <http://export.gov/safeharbor>.
 
@@ -47,6 +47,8 @@ We also have technologies such as: cookies, beacons, tags and scripts are used b
 We use cookies to remember users’ settings (e.g. language preference) and/or for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
+
+We may receive information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine this data with information we already have about you. This helps us to update, expand and analyze our records, identify new customers, and provide products and services that may be of interest to you.  If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
 
 **Links to Other Sites**
 
