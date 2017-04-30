@@ -1,58 +1,49 @@
-> *The following text is extracted and transformed from the dir2dir.com privacy policy that was archived on 2011-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110813111225id_/http%3A//www.dir2dir.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dir2dir.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430025718id_/http%3A//dir2dir.com/privacy-policy) for the most accurate reproduction.*
 
-# Dir2DirCom Directory
+# Privacy Policy | Template Design
 
-**Directory Services Privacy Policy**
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:privacy@YourSite.com).
 
-The privacy of our clients is of utmost importance to Directory Services.
+At www.idwlcd.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.idwlcd.com and how we use it.
 
-If you have any questions about our privacy policy, or if you wish to update information we hold about you or you wish to make a related complaint or to receive a copy of our current Privacy Policy Statement, please [contact webmaster](https://web.archive.org/web/20110813111225id_/http%3A//www.dir2dir.com/contact.php "contact webmaster"). 
+**Log Files**  
+Like many other Web sites, www.idwlcd.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Types of Personal Information we collect**
+**Cookies and Web Beacons**  
+www.idwlcd.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-The types of personal information that we collect from you will depend on the circumstances of collection and on the type of service you request from us.
+**DoubleClick DART Cookie**
 
-For the directory service order, we would generally require your name, address, telephone number etc., which would be stored in your individual profile. In some instances we will also require your credit card details and other information.
+→ Google, as a third party vendor, uses cookies to serve ads on www.idwlcd.com.  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to www.idwlcd.com and other sites on the Internet.  
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
- **  
-Why we collect personal information**
+**Our Advertising Partners**
 
-Generally we collect, update and use personal information about you to allow us to transact business on your behalf.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
-We may choose to add your details to our database for the purpose of directing opportunities to your attention. At any time, if you do not wish to continue receiving this information, you can inform us by the email and your details will be removed.
+  * Google
 
- **How we collect personal information**
 
-Generally, we collect personal information directly from you. We may collect and update that information over the Internet by correspondence.
 
- **How we store information**
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
+You may consult this listing to find the privacy policy for each of the advertising partners of www.idwlcd.com._
 
-We store personal information in a combination of secure computer storage facilities. We have taken a number of steps to protect the personal information we hold from misuse, loss and unauthorised access, modification or disclosure.
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.idwlcd.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-We also take reasonable steps to destroy or permanently de-identify personal information when we no longer need it.
+www.idwlcd.com has no access to or control over these cookies that are used by third-party advertisers.
 
- **  
-When we may disclose your personal information**
+**Third Party Privacy Policies**
 
-Because your privacy is important we will not disclose your personal information without your consent.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.idwlcd.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
 
-However we may disclose personal information about you in the following circumstances:
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
-* Where our business partners need to provide you with information and offers about products and services.
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. www.idwlcd.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that www.idwlcd.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
- **Access to personal information**
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
 
-We will take reasonable steps to ensure that the personal information we collect, use or disclose is accurate, complete and up-to-date. If your personal details change, please contact us so that we can continue to provide you with our products and services.
-
-We undertake to promptly acknowledge and investigate any complaints about the way we manage personal information.
-
- **About this Privacy Policy Statement**
-
-We may update our policies and this Privacy Policy Statement from time to time.
-
- **  
-Contact us**
-
-If you have any questions about this policy, or wish to update information we hold about you, make a related complaint, or to receive a copy of our current Privacy Policy Statement, please [contact webmaster](https://web.archive.org/web/20110813111225id_/http%3A//www.dir2dir.com/contact.php "contact webmaster").
-
-Find category by Alphabetical: [A](https://web.archive.org/category-A.php "sort categories by Letter A"),[B](https://web.archive.org/category-B.php "sort categories by letter B"),[C](https://web.archive.org/category-C.php "sort categories by letter C"),[D](https://web.archive.org/category-D.php "sort categories by letter D"),[E](https://web.archive.org/category-E.php "sort categories by letter E"),[F](https://web.archive.org/category-F.php "sort categories by letter F"),[G](https://web.archive.org/category-G.php "sort categories by letter G"),[H](https://web.archive.org/category-H.php "sort categories by letter H"),[I](https://web.archive.org/category-I.php "sort categories by letter I"),[J](https://web.archive.org/category-J.php "sort categories by letter J"),[K](https://web.archive.org/category-K.php "sort categories by letter K"),[L](https://web.archive.org/category-L.php "sort categories by letter L"),[M](https://web.archive.org/category-M.php "sort categories by letter M"),[N](https://web.archive.org/category-N.php "sort categories by letter N"),[O](https://web.archive.org/category-O.php "sort categories by letter O"),[P](https://web.archive.org/category-P.php "sort categories by letter P"),[Q](https://web.archive.org/category-Q.php "sort categories by letter Q"),[R](https://web.archive.org/category-R.php "sort categories by letter R"),[S](https://web.archive.org/category-S.php "sort categories by letter S"),[T](https://web.archive.org/category-T.php "sort categories by letter T"),[U](https://web.archive.org/category-U.php "sort categories by letter U"),[V](https://web.archive.org/category-V.php "sort categories by letter V"),[W](https://web.archive.org/category-W.php "sort categories by letter W"),[X](https://web.archive.org/category-X.php "sort categories by letter X"),[Y](https://web.archive.org/category-Y.php "sort categories by letter Y"),[Z](https://web.archive.org/category-Z.php "sort categories by letter Z")
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms.
