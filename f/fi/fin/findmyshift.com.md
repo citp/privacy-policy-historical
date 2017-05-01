@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmyshift.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219182111id_/https%3A//www.findmyshift.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmyshift.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502001335id_/https%3A//www.findmyshift.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Findmyshift
 
@@ -25,12 +25,12 @@ Findmyshift is also registered with the UK Information Commissioner’s Office (
 ### 1.4.-Can I delete my data?
 
 If you signed up for the free one month trial and haven’t signed up as a customer, your schedule and all data entered will be deleted from our servers after 90 days of inactivity, so no action is required from you.  
-If you’re an existing customer and are thinking of leaving us, please [get in touch](https://web.archive.org/web/20161219182111id_/https%3A//www.findmyshift.com/contact-us) to discuss any concerns you might have about leaving your data within Findmyshift.
+If you’re an existing customer and are thinking of leaving us, please [get in touch](https://web.archive.org/web/20170502001335id_/https%3A//www.findmyshift.com/contact-us) to discuss any concerns you might have about leaving your data within Findmyshift.
 
 ### 1.5.-Does Findmyshift use cookies? If so, how?
 
 Yes, and like most websites, cookies are integral to its operation. In particular, cookies are used to remember your log-in details and to keep your session active whilst using the site. In addition, cookies are also used to remember certain computer and user specific settings. Findmyshift also uses Google Analytics which needs to store a number of cookies to operate correctly.  
-If you want to know more about how and why cookies are used on websites, please visit [this Wikipedia entry](http://en.wikipedia.org/wiki/HTTP_cookie) or [get in touch](https://web.archive.org/web/20161219182111id_/https%3A//www.findmyshift.com/contact-us) with the team.
+If you want to know more about how and why cookies are used on websites, please visit [this Wikipedia entry](http://en.wikipedia.org/wiki/HTTP_cookie) or [get in touch](https://web.archive.org/web/20170502001335id_/https%3A//www.findmyshift.com/contact-us) with the team.
 
 ### 1.6.-What if I navigate to another website via Findmyshift?
 
