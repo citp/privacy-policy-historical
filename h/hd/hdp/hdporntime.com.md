@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdporntime.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119084643id_/http%3A//hdporntime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdporntime.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501121940id_/http%3A//hdporntime.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Porn | HD Porn | Teen Sex | Lesbian Sex | Hot pussy
 
@@ -41,7 +41,3 @@ Unfortunately, the transmission of information via the Internet is not completel
 YOUR RIGHTS
 
 You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at info [at] hdporntime.com
-
-### hd porn
-
-any hdsex com , american anysexhd shemals com , anyhdsex , hd porn policy , policy sex hd com
