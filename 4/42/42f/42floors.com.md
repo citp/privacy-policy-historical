@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 42floors.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112061001id_/https%3A//42floors.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 42floors.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501191235id_/https%3A//42floors.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Welcome to 42Floors, the online and mobile service of 42Floors, Inc. (“42Floor
 
 * ## HOW WE COLLECT AND USE INFORMATION
 
-Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/terms_of_service).
+Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/terms-of-service).
 
 We collect the following types of information about you:
 
