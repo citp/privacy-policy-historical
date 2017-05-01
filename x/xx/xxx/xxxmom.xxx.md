@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxmom.xxx privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228195820id_/http%3A//www.xxxmom.xxx/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxmom.xxx privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502013146id_/http%3A//www.xxxmom.xxx/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - xxxMOM.xxx
 
