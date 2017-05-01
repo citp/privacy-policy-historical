@@ -1,52 +1,59 @@
-> *The following text is extracted and transformed from the housejunction.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307090950id_/http%3A//www.mortgagewar.com/mortgageprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housejunction.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501044930id_/http%3A//housejunction.com/privacy-policy) for the most accurate reproduction.*
 
-# Mortgage War Privacy Statement
+# Privacy Policy – House Junction
 
-|   
-**Privacy Statement** Our Commitment To Privacy
+This Privacy Policy is in application to HouseJunction. This would impart how HouseJunction collects uses and shares the information from or regarding you as you visit a site, gives information on how advertisements are done, both on HouseJunction and other websites, and how information is collected based on interactions with the online ads. In addition to the Notice, depending on the relationship with HouseJunction , you may receive and be under the coverage of HouseJunction, other privacy disclosures within account opening documents and other privacy and security rules as applicable to the relevant affiliate.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+**Information Gathering**
 
-The Information We Collect:
+When you visit HouseJunction, categories of information may be gathered, including personal information that are provided via forms, applications, surveys, or other online fields. We can also collect information about you from online browsing and transactions, including preferences pages visited and technical information regarding your settings. Personal information means identifiable information and does not include aggregated date that the site could create or compile from various sources, including transactions and accounts. This information which does not single out individual customers is used by our site business purposes, including offering services or products, research, marketing or analyzing market trends and other purposes in congruence to existing laws.
 
-When you inquire online the information you submit is sent directly to the company of your choosing and kept for statistical purposes. We do not resell your information.
+**Cookies**
 
-The Way We Use Information:
+These are pieces of information stored on the computer upon use. HouseJunctionor the third party service providers, as well as advertising service providers, may place cookies or flash objects on the hard drive for security purposes for the facilitation of site navigation and personalisation of the experience.
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+In visiting HouseJunction, we use cookies to go over your experience of the site. In applying for a product on one of our sites, we would use cookies to remember you and to provide information on products and services best fitting your needs. If you have an account with us and you access your accounts online, we will maintain the information about your visits to personalize your browsing experience, and the services and products offered. If you do not have an account with us and wish not for us to maintain the information, delete the cookies. For this, you would need to follow the browsers instructions for deleting and disabling cookies.
 
-You can register with our website if you would like to be on our mailing list so as to receive updates on our new products and services. Information you submit on our website will not be used for this purpose unless you complete the appropriate registration form.
+**IP Addresses**
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
+The IP address is a number assigned to the Internet accessing network or computer. Visitors IP addresses are stored in our log as they visit the site. These IP address are collected for administration of the system, reporting aggregate information, and auditing Site visits. In addition, some features of our site display IP address together with name and message, like on forums.
 
-Our Commitment To Data Security
+**Advertising**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+The site advertises on pages within the site as well as other websites not affiliated with HouseJunction. Information collected in our advertising service providers though cookies and other technologies would include the number of people who look at each page on the site, browsing patterns within the site, search engine referrals, browsing patterns in HouseJunction and responses to promotions and advertisements on the sites where we advertise.
 
-Our Commitment To Children's Privacy:
+**Online Surveys**
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+Time to time, you can be asked to do online surveys. You do not have the requirement to do such; but these are used to gather information to better address your needs. Based on this, we can keep you updated on account and service.
 
-How You Can Correct Your Information
+**Planning Tools**
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
+HouseJunction gives users visiting websites with many planning tools, including mortgage, savings and plans for retirement. The information placed into these tools could be used for future access and use. We will inform you when the information is to be planned to stored, and you can have the option for this information not to be saved.
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+**Using and Sharing Information**
 
-How To Contact Us
+There would be times that HouseJunction could make information available to third parties that could be companies not related through common ownership or control, including service providers, insurance agencies, credit bureaus, retailers, membership organizations, government agencies, legal investigators, courts and other non-affiliated third parties as requested by you or your authorized representative, or otherwise when required or allowed by law. Unless differently describe in the Notice, for US account holders, we will use and share any information collected from or about you covered by the Notice in keeping with the Privacy Notice , providing consumers additional direct marketing choices.
 
-Should you have other questions or concerns about these privacy policies, please call us at (800) 949-2919 or send us an email at [email@zipsearch.com](mailto:email@zipsearch.com)
+**Social Media Connection**
 
-|  |   
-[ | **[Need a Credit Card!](http://click.linksynergy.com/fs-bin/click?id=iaSpN0CFJOM&offerid=29496.10000172&subid=0&type=4)**  
----  
-Get Instant approval for all types of credit. High credit balances with the lowest rates.  
-](http://click.linksynergy.com/fs-bin/click?id=iaSpN0CFJOM&offerid=29496.10000172&subid=0&type=4)
+HouseJunction provides experiences on social media platforms, enabling online sharing and collaboration with users. Any content posted, including pictures, information, opinions and other personal information made available to these platforms is subject to the Terms of Use and Privacy Policies of the Platforms. Kindly refer to these to understand you rights in keeping with the content.
 
-[ **[Free Insurance Quotes](http://www.insurancefinder.com/)**  
----  
-Get free quotes for Term Life Insurance, Health Insurance, Auto Insurance and more...  
-](http://www.insurancefinder.com/)
+**Accuracy of Information**
 
-  
-[](http://service.bfast.com/bfast/click?bfmid=33292112&siteid=38652836&bfpage=consumer-rebranded)
+Keeping account information accurate and updated is essential. If the account information is inaccurate or incomplete, kindly use the Contact Us link on our site, call to inform us at the correct address or telephone numbers for changes in the account statements, records, online or other account materials.
+
+**Linking to Other Sites**
+
+We could provide link to sites not related to our service, including merchants and credit bureaus. If you follow links to websites not controlled by HouseJunction, you should go over the privacy policies and other terms, as they could diverge from other sites. HouseJunction will not guarantee and will not be responsible for the security or privacy of the said websites, including the completeness or accuracy of said information.
+
+**Children’s Privacy**
+
+Most of our publications and web sites are intended for adults. Some web sites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. We are strongly committed to protecting the safety and privacy of children who visit our Web sites. We do not knowingly collect personal information online from children under 13. Many of our sites include bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their children’s use of the Internet.
+
+**Change in Company’s Ownership**
+
+If by chance another company obtains the assets in the business of HouseJunction, we reserve inclusion of the stored personal identification information along with the assets transferred to the new corporate owners.
+
+**Service Customization**
+
+Target advertising to users is provided by the information collected about users. This is to allow all the pertinent advertising to be displayed. Customization of certain website features we provide is done with the information that is collected.
