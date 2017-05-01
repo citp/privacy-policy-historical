@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itravelnet.com privacy policy that was archived on 2016-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160919065142id_/http%3A//www.itravelnet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itravelnet.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501195931id_/http%3A//www.itravelnet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
