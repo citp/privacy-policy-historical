@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attn.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216054510id_/http%3A//www.attn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attn.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501053826id_/http%3A//www.attn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ATTN:
 
