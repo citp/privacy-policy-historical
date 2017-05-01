@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pioneerthinking.com privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821231120id_/http%3A//pioneerthinking.com/%3Fpage_id%3D208) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneerthinking.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501031026id_/http%3A//pioneerthinking.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pioneer Thinking
 
@@ -8,7 +8,7 @@ While visiting Pioneer Thinking, there may be times that information about you m
 
 **Advertising**
 
-We use third-party advertising companies such as Amazon and Google Adsense to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/choices/)
+We use third-party advertising companies such as Amazon and Google Adsense to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/choices/)
 
 **General**
 
@@ -16,15 +16,15 @@ While visiting our website, your I.P address is logged by our server. Your I.P a
 
 **External Links**
 
-While surfing our site, you may on occassion visit third party sites via text links or advertisements…. Although every attempt is made to ensure that we only associate with good quality, family oriented sites. We have no control over their content or products, nor do we endorse their products or services. Please read the privacy policies to any site you visit.
+While surfing our site, you may on occassion visit third party sites via text links or advertisements. Although every attempt is made to ensure that we only associate with good quality, family oriented sites. We have no control over their content or products, nor do we endorse their products or services. Please read the privacy policies to any site you visit.
 
-**Discussion Boards**
+**Comments**
 
 Pioneer Thinking provides its visitors with a discussion board. When you become a member of the discussion boards we ask for your username and email address. This information is used for account verification and sending your password. Once you are registered, you have the option of completing a profile. This is voluntary and subject to public view. You have the option of making your email address private. Should you post information, such as your email address, to the forums, remember that it is available for public view and may be collected by outside parties. We cannot control the acts of other visitors. You remain solely responsible for the content of your messages.
 
 **Newsletter**
 
-When subscribing to our newsletter, we request your name and email address. We do not sell, trade, lend or otherwise share our newsletter subscriber list with anyone, ever! Our subscriber list is used for the sole pupose of delivering our newsletter and site updates to you.
+When subscribing to our newsletter, we request your name and email address. We do not sell, trade, lend or otherwise share our newsletter subscriber list with anyone, ever! Our subscriber list is used for the sole purpose of delivering our newsletter and site updates to you.
 
 Readers who no longer wish to receive our newsletter can send us an email, with “Unsubscribe” in the subject. newsletter@pioneerthinking.com or by clicking the link provided at the bottom of your copy of the newsletter.
 
@@ -46,4 +46,6 @@ If you have any questions about this privacy statement, we can be reached via e-
 
 Terms of Use
 
-Please see our Online Agreement for other terms and conditions governing your use of pioneerthinking.com
+Please see our Online Agreement for other terms and conditions governing your use of www.pioneerthinking.com
+
+E-mail:[webmaster@pioneerthinking.com](mailto:webmaster@pioneerthinking.com)
