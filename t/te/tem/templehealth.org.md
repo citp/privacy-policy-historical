@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templehealth.org privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230113629id_/http%3A//www.templehealth.org/privacy-hipaa.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templehealth.org privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501065953id_/http%3A//www.templehealth.org/privacy-hipaa.html) for the most accurate reproduction.*
 
 # TUHS Disclaimer Page
 
