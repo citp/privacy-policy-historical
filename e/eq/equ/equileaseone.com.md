@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the equileaseone.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017101905id_/http%3A//equileaseone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equileaseone.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501184804id_/http%3A//equileaseone.com/privacy-policy) for the most accurate reproduction.*
 
-# | Tough Business Loan Solutions
+# - EquiLease One
 
 We have created this privacy statement for EquiLease One in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with [EquiLease One](http://equileaseone.com/). We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
@@ -92,6 +92,3 @@ This web site contains links to other web sites. Please note that when you click
 Copyright 2008 – 2016 **EquiLeaseOne.com** , All rights reserved.
 
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited
-
-  
-
