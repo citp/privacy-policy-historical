@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postjoint.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201095304id_/http%3A//postjoint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postjoint.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501075723id_/http%3A//postjoint.com/privacy) for the most accurate reproduction.*
 
 # PostJoint - Privacy Policy
 
