@@ -1,22 +1,41 @@
-> *The following text is extracted and transformed from the walmart.ca privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006200111id_/http%3A//www.walmart.ca/en/help/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walmart.ca privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501164431id_/https%3A//www.walmart.ca/en/help/legal%23PrivacyPolicy) for the most accurate reproduction.*
 
-# Walmart.ca Help Centre: Privacy Policy | Legal
+# Help Centre - Legal | Walmart Canada
 
-##  Be in the know!
+## Privacy Policy
 
-Get up-to-date information on weekly flyer features, Rollback & clearance items, exclusive products, and Walmart offers. You can unsubscribe at anytime.
+### What does the Privacy Policy include?
 
-_0_ Thank you! You are now subscribed to the Walmart newsletter.
+### What is Our Pledge of Accountability?
 
-Personal information provided may be collected, used and disclosed in accordance with our [Privacy Policy](http://www.walmart.ca/en/help/legal/privacy-policy)
+### What type of Information Do We Collect?
 
-##  Connect with Us
+### How Do We Use Your Information?
 
-Connect with us on your favourite social networks. We’ll let you know what we’re up to, and you can tell us how we’re doing.
+### How Do We Share Your Personal Information Outside Walmart?
 
-  * [Facebook](http://www.facebook.com/walmartcanada)
-  * [Twitter](http://twitter.com/@walmartcanada)
-  * [Pinterest](http://pinterest.com/walmartcanada/)
-  * [Google Plus](https://plus.google.com/+walmartcanada)
+### How Do You Access and Update Your Personal Information?
 
+### How Do We Secure Your Information?
 
+### What Are Your Privacy Protections for Specific Types of Personal Information? 
+
+### How Does Walmart Protect the Privacy of Children Online?
+
+### Who Can I Contact at Walmart About the Privacy Policy?
+
+### How Will I Know if this Policy Changes?
+
+### Pharmacy Privacy Statement 
+
+### Vision Centre Privacy Statement
+
+## Web Accessibility
+
+### What is Web Accessibility?
+
+### What is Walmart.ca’s accessibility plan?
+
+### What are Walmart.ca’s standards for Web Accessibility?
+
+### How do I send feedback about accessibility?
