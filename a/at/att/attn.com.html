@@ -1,9 +1,14 @@
-<!--The following is the downloaded HTML source of the attn.com privacy policy that was archived on 2016-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161216054510id_/http%3A//www.attn.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the attn.com privacy policy that was archived on 2017-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170501053826id_/http%3A//www.attn.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
+    <!-- New Relic-->
+    <script src="https://js-agent.newrelic.com/nr-spa-1016.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ak.sail-horizon.com/horizon/v1.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//cdn.petametrics.com/7u27jr18f930jk38.js?ts=439017"></script><script type="text/javascript" async="" src="https://cdn.heapanalytics.com/js/heap-3663792875.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">
+      window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(19),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{h?h-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(20),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,h=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(d){"stack"in d&&(t(12),t(11),"addEventListener"in window&&t(6),s.xhrWrappable&&t(13),u=!0)}c.on("fn-start",function(t,e,n){u&&(h+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&h>0&&(h-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){j++,S=y.hash,this[u]=Date.now()}function o(){j--,y.hash!==S&&i(0,!0);var t=Date.now();this[l]=~~this[l]+t-this[u],this[h]=t}function i(t,e){x.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=Date.now()})}var c="-start",s="-end",f="-body",u="fn"+c,h="fn"+s,d="cb"+c,p="cb"+s,l="jsTime",m="fetch",v="addEventListener",w=window,y=w.location;if(w[v]){var g=t(9),b=t(10),x=t(8),E=t(6),T=t(12),O=t(7),R=t(13),P=t("ee"),D=P.get("tracer");t(14),t("loader").features.spa=!0;var S,N=w[v],j=0;P.on(u,r),P.on(d,r),P.on(h,o),P.on(p,o),P.buffer([u,h,"xhr-done","xhr-resolved"]),E.buffer([u]),T.buffer(["setTimeout"+s,"clearTimeout"+c,u]),R.buffer([u,"new-xhr","send-xhr"+c]),O.buffer([m+c,m+"-done",m+f+c,m+f+s]),x.buffer(["newURL"]),g.buffer([u]),b.buffer(["propagate",d,p,"executor-err","resolve"+c]),D.buffer([u,"no-"+u]),a(R,"send-xhr"+c),a(P,"xhr-resolved"),a(P,"xhr-done"),a(O,m+c),a(O,m+"-done"),x.on("pushState-end",i),x.on("replaceState-end",i),N("hashchange",i,!0),N("load",i,!0),N("popstate",function(){i(0,j>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(12),c=t(11),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",h="bstResource",d="resource",p="-start",l="-end",m="fn"+p,v="fn"+l,w="bstTimer",y="pushState";t("loader").features.stn=!0,t(8);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(v,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(v,function(t,e){i(w,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+l,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(h,[window.performance.getEntriesByType(d)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(h,[window.performance.getEntriesByType(d)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,h],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(21)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",h="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(h+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(19);e.exports=o;var a=window,c="fetch-",s=c+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,h=a.Response,d=a.fetch,p="prototype";u&&h&&d&&(i(f,function(t,e){r(u[p],e,s),r(h[p],e,s)}),r(a,"fetch",c),o.on(c+"end",function(t,e){var n=this;e?e.clone().arrayBuffer().then(function(t){n.rxSize=t.byteLength,o.emit(c+"done",[null,e],n)}):o.emit(c+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(21)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){var r=t("ee").get("mutation"),o=t(21)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],10:[function(t,e,n){function r(t){var e=a.context(),n=c(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(21),a=t("ee").get("promise"),c=i(a),s=t(19),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;s(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),c=f.resolve(i);return c}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),s(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=c(t[0],"resolve-",this),t[1]=c(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),c.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=c(t[0],"cb-",this),t[1]=c(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],11:[function(t,e,n){var r=t("ee").get("raf"),o=t(21)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],12:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(21)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",h="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+h),a.inPlace(window,[s],s+h),a.inPlace(window,[f,"clearImmediate"],f+h),i.on(s+u,r),i.on(c+u,o)},{}],13:[function(t,e,n){function r(t,e){h.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),h.inPlace(t,v,"fn-",c)}function i(t){w.push(t),l&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),h=t(21)(u),d=NREUM.o,p=d.XHR,l=d.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,h.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),l){var g=1,b=document.createTextNode(g);new l(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],14:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<h;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return l(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(15),f=t("ee"),u=["load","error","abort","timeout"],h=u.length,d=t("id"),p=t(18),l=t(17),m=window.XMLHttpRequest;a.features.xhr=!0,t(13),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=l(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<h;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],15:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],16:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(19),c=t(20),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],h="api-",d=h+"ixn-";a(u,function(t,e){f[e]=o(h+e,!0,"api")}),f.addPageAction=o(h+"addPageAction",!0),f.setCurrentRouteName=o(h+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(d+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(d+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],17:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],18:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],19:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],20:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],21:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(20),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){d([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(h){throw u(e+"err",[r,a,h],c),h}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,h(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){d([a,n,r,o])}s=i}}function h(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!d.aborted){t&&t(n,r,o);for(var i=e(o),a=l(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){w[t]=l(t).concat(e)}function l(t){return w[t]||[]}function m(t){return h[t]=h[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var w={},y={},g={on:p,emit:n,get:m,listeners:l,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(d.aborted=!0,u=d.backlog={})}var c="nr@context",s=t("gos"),f=t(19),u={},h={},d=e.exports=o();d.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=h.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(w,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=h.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===h.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(19),f=t("ee"),u=window,h=u.document,d="addEventListener",p="attachEvent",l=u.XMLHttpRequest,m=l&&l.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:l,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(16);var v=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1016.min.js"},y=l&&m&&m[d]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:v,features:{},xhrWrappable:y};h[d]?(h[d]("DOMContentLoaded",i,!1),u[d]("load",r,!1)):(h[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,14,5,3,4]);
+      ;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"4f85cb3502",applicationID:"37037642",sa:1}
+    </script>
     <!--Optimizely-->
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ak.sail-horizon.com/horizon/v1.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://cdn.heapanalytics.com/js/heap-3663792875.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script src="//cdn.optimizely.com/js/1593960153.js"></script>
+    <script src="//cdn.optimizely.com/js/1593960153.js"></script>
     <title>Privacy Policy - ATTN:</title>
     <meta charset="utf-8">
     <meta content="width=device-width, height=device-height, maximum-scale=2.0, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes" name="viewport">
@@ -16,7 +21,6 @@
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="/vendor/chartist/dist/chartist.min.css" rel="stylesheet">
     <link href="/main.css" rel="stylesheet">
-    <link href="/vendor/object-fit/polyfill.object-fit.css" rel="stylesheet">
     <!-- twitter-->
     <script>
       window.twttr = (function(d, s, id) {
@@ -47,16 +51,25 @@
     <noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=20056848&cv=2.0&cj=1"></noscript>
     <!-- alexa-->
     <script>
-      _atrk_opts = { atrk_acct:"MWswl1agWBr152", domain:"attn.com",dynamic: true};
-      (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+      _atrk_opts = { atrk_acct:'rH7Jo1IWx810kU', domain:'attn.com',dynamic: true};
+      (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = 'https://d31qbv1cthcecs.cloudfront.net/atrk.js'; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
     </script>
-    <noscript><img alt="" height="1" src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=MWswl1agWBr152" style="display:none" width="1"></noscript>
+    <noscript><img alt="" height="1" src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=rH7Jo1IWx810kU" style="display:none" width="1"></noscript>
     <!-- chartbeat-->
     <script>var _sf_startpt=(new Date()).getTime()</script>
     <!-- heap analytics-->
     <script type="text/javascript">
       window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=t.forceSSL||"https:"===document.location.protocol,a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=(r?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+e+".js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
       heap.load("3663792875");
+    </script>
+    <!-- liftigniter beacon-->
+    <script type="text/javascript">
+      (function(w,d,s,p,v,e,r) {w['$igniter_var']=v;w[v]=w[v]||function(){(w[v].q=w[v].q||[]).push(arguments)};w[v].l=1*new Date();e=d.createElement(s),r=d.getElementsByTagName(s)[0];e.async=1;e.src=p+'?ts='+(+new Date()/3600000|0);
+      r.parentNode.insertBefore(e,r)})(window,document,'script','//cdn.petametrics.com/7u27jr18f930jk38.js','$p');
+      $p("init", "7u27jr18f930jk38");
+      $p("send", "pageview");
+    </script>
+    <script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"ATTN:","alternateName":"We’re telling stories worth your attention.","url":"http://www.attn.com","logo":"http://s3.amazonaws.com/attn-styleguide/assets/images/apple-touch-icon-310.png","address":"7521 Melrose Ave, Los Angeles, CA 90046","contactPoint":{"@type":"ContactPoint","telephone":"+1 323 413 2878","contactType":"sales"},"sameAs":["https://www.facebook.com/attn","https://instagram.com/attndotcom","https://twitter.com/attn","http://www.snapchat.com/add/attndotcom","https://www.youtube.com/attn"],"mainEntityOfPage":{"@type":"WebPage","@id":"http://attn.com"}}
     </script>
     <script>
       !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -71,14 +84,13 @@
     </script>
     <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=843499249100411&ev=PageView&noscript=1"></noscript>
     <!-- typekit-->
-    <script src="//use.typekit.net/sgg6ldz.js"></script>
-    <script>
-      try{Typekit.load();}catch(e){}
-      
-    </script>
+    <script src="//use.typekit.net/gkd3lmb.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>
   </head>
   <!-- body-->
   <body>
+    <div style="display: none;"><!--?xml version="1.0" encoding="UTF-8"?--><svg xmlns="http://www.w3.org/2000/svg"><symbol id="icon-economy" viewBox="0 0 146 141"><g fill-rule="evenodd"><path d="M143.7 140.6H2.5c-1 0-1.8-.8-1.8-1.8v-28.2c0-1 .8-1.8 1.8-1.8h141.2c1 0 1.8.8 1.8 1.8v28.2c-.1 1-.8 1.8-1.8 1.8zM4.2 137.1h137.7v-24.7H4.2v24.7z"></path><path d="M143.7 112.1H2.5c-.5 0-1-.2-1.2-.7-.3-.4-.3-.9-.2-1.4l14.6-37.7c.2-.6.8-1 1.4-1h112c.6 0 1.2.4 1.4 1l14.6 37.7c.2.5.1 1-.2 1.4-.2.4-.7.7-1.2.7zm-139.1-3h136.9l-13.4-34.7h-110L4.6 109.1z"></path><path d="M39.3 101.8h-6.1c-.8 0-1.5-.7-1.5-1.5v-5.9c0-.8.7-1.5 1.5-1.5h6.1c.8 0 1.5.7 1.5 1.5v5.9c0 .8-.7 1.5-1.5 1.5zm-4.6-3h3.1v-2.9h-3.1v2.9zm23 3h-6.1c-.8 0-1.5-.7-1.5-1.5v-5.9c0-.8.7-1.5 1.5-1.5h6.1c.8 0 1.5.7 1.5 1.5v5.9c0 .8-.6 1.5-1.5 1.5zm-4.6-3h3.1v-2.9h-3.1v2.9zm23 3H70c-.8 0-1.5-.7-1.5-1.5v-5.9c0-.8.7-1.5 1.5-1.5h6.1c.8 0 1.5.7 1.5 1.5v5.9c0 .8-.6 1.5-1.5 1.5zm-4.6-3h3.1v-2.9h-3.1v2.9zm23.1 3h-6.1c-.8 0-1.5-.7-1.5-1.5v-5.9c0-.8.7-1.5 1.5-1.5h6.1c.8 0 1.5.7 1.5 1.5v5.9c0 .8-.7 1.5-1.5 1.5zm-4.7-3H93v-2.9h-3.1v2.9zm23.1 3h-6.1c-.8 0-1.5-.7-1.5-1.5v-5.9c0-.8.7-1.5 1.5-1.5h6.1c.8 0 1.5.7 1.5 1.5v5.9c0 .8-.7 1.5-1.5 1.5zm-4.6-3h3.1v-2.9h-3.1v2.9zm-4.6-6h-6.1c-.8 0-1.5-.7-1.5-1.5v-5.9c0-.8.7-1.5 1.5-1.5h6.1c.8 0 1.5.7 1.5 1.5v5.9c0 .9-.7 1.5-1.5 1.5zm-4.7-3h3.1v-2.9h-3.1v2.9zm-13.7 3h-6.1c-.8 0-1.5-.7-1.5-1.5v-5.9c0-.8.7-1.5 1.5-1.5h6.1c.8 0 1.5.7 1.5 1.5v5.9c0 .9-.7 1.5-1.5 1.5zm-4.7-3h3.1v-2.9h-3.1v2.9zm-13.8 3h-6.1c-.8 0-1.5-.7-1.5-1.5v-5.9c0-.8.7-1.5 1.5-1.5h6.1c.8 0 1.5.7 1.5 1.5v5.9c0 .9-.6 1.5-1.5 1.5zm-4.6-3h3.1v-2.9h-3.1v2.9zm-13.8 3h-6.1c-.8 0-1.5-.7-1.5-1.5v-5.9c0-.8.7-1.5 1.5-1.5h6.1c.8 0 1.5.7 1.5 1.5v5.9c0 .9-.7 1.5-1.5 1.5zm-4.6-3H47v-2.9h-3.1v2.9zm85.2-15.1h-112c-1 0-1.8-.8-1.8-1.8V35.3c0-1 .8-1.8 1.8-1.8h112c1 0 1.8.8 1.8 1.8V73c-.1.9-.8 1.7-1.8 1.7zM18.8 71.2h108.5V37H18.8v34.2z"></path><path d="M65.8 65.3H31.7c-1 0-1.8-.8-1.8-1.8V44.7c0-1 .8-1.8 1.8-1.8h34.1c1 0 1.8.8 1.8 1.8v18.8c-.1 1-.9 1.8-1.8 1.8zm-32.4-3.5H64V46.4H33.4v15.4zm78.6-5.9H87.6c-1 0-1.8-.8-1.8-1.8s.8-1.8 1.8-1.8H112c1 0 1.8.8 1.8 1.8s-.8 1.8-1.8 1.8zm12.2-33H95c-3.7 0-6.6-2.9-6.6-6.5V7c0-3.6 3-6.5 6.6-6.5h29.2c3.7 0 6.6 2.9 6.6 6.5v9.4c0 3.6-2.9 6.5-6.6 6.5zM95 4.1c-1.7 0-3.1 1.3-3.1 3v9.4c0 1.6 1.4 3 3.1 3h29.2c1.7 0 3.1-1.3 3.1-3V7c0-1.6-1.4-3-3.1-3L95 4.1z"></path><path d="M109.6 37c-1 0-1.8-.8-1.8-1.8v-14c0-1 .8-1.8 1.8-1.8s1.8.8 1.8 1.8v14.1c0 .9-.8 1.7-1.8 1.7z"></path></g></symbol><symbol id="icon-environment" viewBox="0 0 133 147"><path d="M105.4 97.5H34C15.9 97.5.1 81.6.1 63.6c0-16.3 13.5-31.4 29.8-33.7 1.1-8.2 5.7-15.7 12.9-21.2S59.4.1 68.6.1c11.2 0 26.2 7.7 33.3 24.6 7.7-.5 14.8 2.3 18.7 7.6 3.4 4.5 4.1 10.2 2 15.9 5.8 4.7 9.5 13.5 9.5 22.8 0 14.6-12 26.5-26.7 26.5zM68.5 3.7c-15.8 0-33.7 10.7-35.2 27.9-.1.9-.8 1.6-1.7 1.7C16.5 34.7 3.7 48.6 3.7 63.5c0 16.1 14.1 30.2 30.2 30.2h71.4c12.7 0 23-10.2 23-22.8 0-8.8-3.6-16.9-9.1-20.7-.7-.5-1-1.5-.7-2.3 2.2-5 1.8-9.8-1.1-13.6-3.4-4.6-9.8-6.9-16.7-6-.8.1-1.6-.4-2-1.2C94.4 15.5 82.5 3.7 68.5 3.7zM4.2 146.9c-.5 0-.9-.2-1.3-.5-.7-.7-.7-1.9 0-2.6l29.6-29.6c.7-.7 1.9-.7 2.6 0 .7.7.7 1.9 0 2.6L5.5 146.4c-.4.3-.9.5-1.3.5zm29.6 0c-.5 0-.9-.2-1.3-.5-.7-.7-.7-1.9 0-2.6l29.6-29.6c.7-.7 1.9-.7 2.6 0 .7.7.7 1.9 0 2.6l-29.6 29.6c-.4.3-.9.5-1.3.5zm32.1 0c-.5 0-.9-.2-1.3-.5-.7-.7-.7-1.9 0-2.6l29.6-29.6c.7-.7 1.9-.7 2.6 0 .7.7.7 1.9 0 2.6l-29.6 29.6c-.4.3-.9.5-1.3.5z" fill-rule="evenodd"></path></symbol><symbol id="icon-health" viewBox="0 0 149 139"><path d="M143.1 84.9H124c5.9-6.7 11-12.6 14.2-16.8 7-9 10-17 10-26.9 0-22.1-17.8-40.1-39.8-40.1-14.2 0-27.3 7.6-34.3 19.6C67 8.6 53.9.9 39.8.9 17.8.9 0 19 0 41.3c0 9.9 5.3 20.6 9.9 26.8 3.2 4.3 8.2 10.3 14 16.9H8.2c-1.1 0-2 .9-2 2s.9 2 2 2h19.2c18.9 21.3 43.9 47.2 45.4 48.7.4.4.9.6 1.4.6.5 0 1.1-.2 1.4-.6.3-.4 25.5-27 44.8-48.7h22.7c1.1 0 2-.9 2-2s-.9-2.1-2-2.1zm-68.9 48.4C68.7 127.6 49 107 32.8 88.9h19.8c.9 0 1.7-.6 1.9-1.5l9.8-34.6 12.1 57c.2.8.9 1.5 1.7 1.6h.3c.7 0 1.4-.4 1.8-1.1l10.9-21.4h24.1c-16.3 18.1-35.7 38.7-41 44.4zm44.4-48.4H89.7c-.8 0-1.4.4-1.8 1.1L79 103.5 66.5 44.2c-.2-.9-1-1.6-1.9-1.6-.9 0-1.7.6-2 1.5L51 84.9H29.2c-6.7-7.6-12.6-14.5-16.1-19.2C9.7 61.1 4 50.8 4 41.3 4 21.3 20 5 39.8 5c13.9 0 26.7 8.2 32.5 21 .3.7 1 1.2 1.8 1.2s1.5-.5 1.8-1.2c5.8-12.6 18.5-20.8 32.5-20.8 19.7 0 35.8 16.2 35.8 36.1 0 9-2.6 16.1-9.1 24.4-3.7 4.7-9.7 11.6-16.5 19.2z" fill-rule="evenodd"></path></symbol><symbol id="icon-justice" viewBox="0 0 140 149"><path d="M63.4 129.5H12.2c-6.1 0-12.1 6-12.1 12.1v5.1c0 1 .8 1.9 1.8 1.9h71.8c1 0 1.8-.8 1.8-1.9v-5.1c.1-6.1-6-12.1-12.1-12.1zm8.5 15.4H3.8v-3.3c0-4.1 4.3-8.4 8.4-8.4h51.2c4.1 0 8.4 4.3 8.4 8.4v3.3h.1zm67.1-21.3L74.8 59.4l14.1-14.1 1.3 1.3c1.9 1.9 4.3 2.9 6.8 2.9.9 0 1.7-.1 2.6-.4 4.1-1.1 7.6-4.6 8.6-8.6.9-3.5 0-6.8-2.6-9.4L77.4 2.9c-4.7-4.7-11-3.2-14.8.6-3.8 3.8-5.3 10.2-.6 14.8l1.3 1.3-30.9 30.8-1.3-1.3c-4.7-4.7-11-3.2-14.8.6-3.8 3.8-5.3 10.2-.6 14.8L44 92.8c2 2 4.4 2.9 6.8 2.9 3 0 5.9-1.4 8.1-3.6 3.8-3.8 5.3-10.2.6-14.8L58.2 76l14.1-14.1 64.2 64.2c.4.4.8.5 1.3.5s.9-.2 1.3-.5c.6-.6.6-1.8-.1-2.5zM65.2 6.2c2.5-2.5 6.5-3.7 9.6-.6L103 33.8c2.1 2.1 2 4.3 1.6 5.8-.8 2.8-3.2 5.3-6 6-1.5.4-3.7.5-5.8-1.6l-2.6-2.6-23.1-23.1-2.6-2.6c-3-3-1.9-7 .7-9.5zm-9.1 83.4C54.7 91 53 91.9 51.3 92c-1.8.2-3.4-.4-4.8-1.8L18.3 62c-1.4-1.4-2-3-1.8-4.8.2-1.7 1.1-3.4 2.4-4.8 2.5-2.5 6.5-3.7 9.6-.6l2.6 2.6 23.1 23.1 2.6 2.6c3.1 3 1.9 6.9-.7 9.5zm14.8-31.5L55.5 73.5 35 53l30.8-30.8 20.5 20.5-15.4 15.4z" fill-rule="evenodd"></path></symbol><symbol id="icon-money" viewBox="0 0 164 163"><g fill-rule="evenodd"><path d="M116.9 70.7c-.4 0-.8-.1-1.2-.4-9.8-7-22.7-10.9-34.4-10.1-1.1.1-2-.7-2-1.7-.1-1.1.8-2 1.8-2 12.5-.8 26.4 3.3 36.9 10.9.9.6 1.1 1.8.5 2.7-.4.4-1 .6-1.6.6zM147.8 94c-1.1 0-1.9-.9-1.9-1.9 0-1.1.9-1.9 1.9-1.9 6.6 0 11.8-4.9 11.8-11.2 0-1.1.9-1.9 1.9-1.9 1.1 0 1.9.9 1.9 1.9 0 8.5-6.8 15-15.6 15z"></path><path d="M82.1 146.5c-29.2 0-51.6-11.5-61.5-31.5h-18c-1.1 0-1.9-.9-1.9-1.9V86.9c0-1.1.9-1.9 1.9-1.9h12.1c2.7-14.6 12.6-28.2 27-37-1.3-5.9-5.1-11-10.6-14.1-.6-.4-1-1-1-1.6 0-.6.4-1.4 1-1.7 12.2-6.8 27.5-3 35 8.2 5.2-1 10.6-1.1 16-1.1 18.1 0 34.9 5.5 47.6 15.6 12.8 10.2 20 23.9 20 38.6-.1 30.2-30.4 54.6-67.6 54.6zM4.6 111.2h17.3c.8 0 1.4.5 1.7 1.2 9 19.3 30.3 30.4 58.5 30.4 35.1 0 63.7-22.8 63.7-50.8 0-13.5-6.6-26.2-18.5-35.6-12-9.6-28.1-14.8-45.2-14.8-5.7 0-11.2.1-16.5 1.3-.8.2-1.6-.2-2-.9C58 32.6 46.2 28.8 36 32.6c5.3 4 8.8 9.7 9.7 16.1.1.8-.3 1.5-1 1.9C30.2 59 20.3 72.7 18.2 87.1c-.1 1-1 1.6-1.9 1.6H4.6v22.5z"></path><path d="M57.5 162.4c-1.1 0-1.9-.9-1.9-1.9v-18.9c0-1.1.9-1.9 1.9-1.9 1.1 0 1.9.9 1.9 1.9v18.9c0 1-.9 1.9-1.9 1.9zm49.3 0c-1.1 0-1.9-.9-1.9-1.9v-19.6c0-1.1.9-1.9 1.9-1.9 1.1 0 1.9.9 1.9 1.9v19.6c0 1-.9 1.9-1.9 1.9zm-63-73.6c-4.1 0-7.4-3.2-7.4-7.1 0-3.9 3.3-7.1 7.4-7.1 4.1 0 7.4 3.2 7.4 7.1 0 3.9-3.4 7.1-7.4 7.1zm0-10.5c-1.9 0-3.6 1.4-3.6 3.3s1.5 3.3 3.6 3.3c2 0 3.6-1.4 3.6-3.3-.2-1.8-1.7-3.3-3.6-3.3zM123.9 24.8c-1 0-1.7-.8-1.7-1.7V10.8c0-1 .8-1.7 1.7-1.7.9 0 1.7.8 1.7 1.7v12.4c.1.9-.7 1.6-1.7 1.6z"></path><path d="M123.9 33.1c-8.9 0-16.1-7.2-16.1-16.1 0-8.9 7.2-16.1 16.1-16.1C132.8.9 140 8.1 140 17c0 8.9-7.2 16.1-16.1 16.1zm0-28.9c-7 0-12.7 5.7-12.7 12.7 0 7 5.7 12.8 12.7 12.8 7 0 12.7-5.7 12.7-12.7 0-7-5.6-12.8-12.7-12.8z"></path></g></symbol><symbol id="icon-politics" viewBox="0 0 139 138"><path d="M136.1 133.2h-6v-13.7c0-1.1-.9-2-2-2h-12v-67H132c1.1 0 2-.9 2-2v-14c0-1-.7-1.8-1.7-2L69.8.3c-.5-.3-1.2-.3-1.8 0L5.5 32.6c-.9.2-1.6 1-1.6 1.9v14c0 1.1.9 2 2 2h15.9v67H10.1c-1.1 0-2 .9-2 2v13.7h-6c-1.1 0-2 .9-2 2s.9 2 2 2h134c1.1 0 2-.9 2-2s-.9-2-2-2zm-24-15.6H86v-67h26.1v67zM82 50.6v67H56v-67h26zM68.9 4.3l54.8 28.3H14.1L68.9 4.3zM8 36.6h122v10H8v-10zm17.9 14H52v67H25.9v-67zm-13.8 71h114v11.7h-114v-11.7z" fill-rule="evenodd"></path></symbol><symbol id="icon-travel" viewBox="0 0 125.7 128.4"><style>.st0{fill:#38383d}</style><title>Artboard 1</title><path d="M21.7 62.7c0-.9-.7-1.6-1.6-1.6h-8c-.9 0-1.6.7-1.6 1.6s.7 1.6 1.6 1.6h8c.9.1 1.6-.7 1.6-1.6zM113.4 61.1h-8c-.9 0-1.6.7-1.6 1.6s.7 1.6 1.6 1.6h8c.9 0 1.6-.7 1.6-1.6s-.8-1.6-1.6-1.6zM27.2 83.3c-.4-.8-1.4-1-2.2-.6l-6.9 4c-.8.4-1 1.4-.6 2.2.3.5.8.8 1.4.8.3 0 .6-.1.8-.2l6.9-4c.8-.5 1-1.5.6-2.2zM98.3 42.2c.3.5.8.8 1.4.8.3 0 .6-.1.8-.2l6.9-4c.8-.4 1-1.4.6-2.2-.4-.8-1.4-1-2.2-.6l-6.9 4c-.8.5-1.1 1.5-.6 2.2zM42.2 98.3c-.8-.4-1.8-.2-2.2.6l-4 6.9c-.4.8-.2 1.8.6 2.2.3.1.5.2.8.2.6 0 1.1-.3 1.4-.8l4-6.9c.5-.8.2-1.8-.6-2.2zM83.3 27.2c.3.1.5.2.8.2.6 0 1.1-.3 1.4-.8l4-6.9c.4-.8.2-1.8-.6-2.2-.8-.4-1.8-.2-2.2.6l-4 6.9c-.5.8-.2 1.8.6 2.2zM62.7 103.8c-.9 0-1.6.7-1.6 1.6v8c0 .9.7 1.6 1.6 1.6.9 0 1.6-.7 1.6-1.6v-8c.1-.9-.7-1.6-1.6-1.6zM62.7 21.7c.9 0 1.6-.7 1.6-1.6v-8c0-.9-.7-1.6-1.6-1.6-.9 0-1.6.7-1.6 1.6v8c0 .9.8 1.6 1.6 1.6zM85.5 98.9c-.4-.8-1.4-1-2.2-.6-.8.4-1 1.4-.6 2.2l4 6.9c.3.5.8.8 1.4.8.3 0 .6-.1.8-.2.8-.4 1-1.4.6-2.2l-4-6.9zM40 26.6c.3.5.8.8 1.4.8.3 0 .6-.1.8-.2.8-.4 1-1.4.6-2.2l-4-6.9c-.4-.8-1.4-1-2.2-.6-.8.4-1 1.4-.6 2.2l4 6.9zM107.4 86.7l-6.9-4c-.8-.4-1.8-.2-2.2.6-.4.8-.2 1.8.6 2.2l6.9 4c.3.1.5.2.8.2.6 0 1.1-.3 1.4-.8.4-.8.2-1.8-.6-2.2zM18.1 38.8l6.9 4c.3.1.5.2.8.2.6 0 1.1-.3 1.4-.8.4-.8.2-1.8-.6-2.2l-6.9-4c-.8-.4-1.8-.2-2.2.6-.4.8-.2 1.8.6 2.2z"></path><g><path d="M87.7 37.8L65.9 50.3c-1-.3-2.1-.5-3.2-.5-7.1 0-12.9 5.8-12.9 12.9 0 1.1.2 2.1.4 3.1L37.8 87.7l21.9-12.5c1 .2 2 .4 3.1.4 7.1 0 12.9-5.8 12.9-12.9 0-1-.2-2.1-.4-3l12.4-21.9zm-25 32.4c-4.1 0-7.4-3.3-7.4-7.4s3.3-7.4 7.4-7.4c4.1 0 7.4 3.3 7.4 7.4s-3.3 7.4-7.4 7.4z"></path></g><g><path d="M62.7 126.7C28 126.7-.2 98.4-.2 63.7S28 .8 62.7.8s62.9 28.2 62.9 62.9c.1 34.7-28.2 63-62.9 63zm0-121.9C30.2 4.8 3.8 31.2 3.8 63.7s26.4 58.9 58.9 58.9 58.9-26.4 58.9-58.9S95.2 4.8 62.7 4.8z"></path></g></symbol><symbol id="icon-video" viewBox="0 0 142 142"><g><path d="M56.6 100.92V41.08L101.93 71zm4-52.4v45L94.67 71z"></path><path d="M71 141.1A70.1 70.1 0 1 1 141.1 71 70.18 70.18 0 0 1 71 141.1zM71 4.9A66.1 66.1 0 1 0 137.1 71 66.17 66.17 0 0 0 71 4.9z"></path></g></symbol></svg>
+    </div>
     <!-- facebook-->
     <div id="fb-root"></div>
     <script>
@@ -100,31 +112,25 @@
     </script>
     <div class="chrome">
       <div class="pop-in">
-        <div class="pop-in--background">
-          <button class="fa fa-close overlay-close pop-in__btn-close"></button>
-          <div class="pop-in__content">
-            <div class="subnav">
-              <div class="cta-overlay cta-overlay--fb">
-                <div class="cta-overlay__info">
-                  <h2>Social issues affect you, too.</h2>
-                  <hr>
-                  <h3>Like ATTN: on Facebook</h3>
-                </div>
-                <div class="cta-overlay__action">
-                  <div data-action="like" data-href="https://www.facebook.com/attn" data-layout="button_count" data-share="false" data-show-faces="false" class="fb-like"></div>
-                  <p class="overlay-close">No thanks, I'm already a fan.</p>
-                </div>
-              </div>
-              <div class="cta-overlay cta-overlay--email">
-                <div class="cta-overlay__info">
-                  <h2>Subscribe</h2>
-                  <hr>
-                </div>
-                <div class="cta-overlay__action">
-                  <div id="subscriptions-pop-in-email" class="subscribe"></div>
-                  <p>Emails arrive in your inbox every Sunday</p>
-                </div>
-              </div>
+        <button class="fa fa-close overlay-close pop-in__btn-close"></button>
+        <div class="pop-in__content">
+          <div class="cta-overlay cta-overlay--fb">
+            <div class="cta-overlay__info">
+              <h2>Social issues affect you, too.</h2>
+              <h3>Like ATTN: on Facebook</h3>
+            </div>
+            <div class="cta-overlay__action">
+              <div data-action="like" data-href="https://www.facebook.com/attn" data-layout="button_count" data-share="false" data-show-faces="false" class="fb-like"></div>
+              <p class="overlay-close">No thanks, I'm already a fan.</p>
+            </div>
+          </div>
+          <div class="cta-overlay cta-overlay--email">
+            <div class="cta-overlay__info">
+              <h2>Subscribe</h2>
+              <h3>Emails arrive in your inbox every Sunday.</h3>
+            </div>
+            <div class="cta-overlay__action">
+              <div id="subscriptions-pop-in-email" class="subscribe"></div>
             </div>
           </div>
         </div>
@@ -140,7 +146,6 @@
         <div class="cta-overlay email-overlay-takeover email-overlay">
           <div class="cta-overlay__info email-overlay__info">
             <h2>Pay ATTN:</h2>
-            <hr>
             <h3>We share commentary, news articles, and videos that cover important societal topics as well as give you opportunities to take action.</h3>
           </div>
           <div class="cta-overlay__action email-overlay__subscribe">
@@ -152,60 +157,55 @@
         <div class="wrapper">
           <div class="g_site-header__logo"><a href="/"><img src="https://s3.amazonaws.com/attn-assets/logos/logo.svg" alt="attn" class="logo"></a></div>
           <nav class="nav--align-right">
+            <div class="nav__menu-item hidden--sm">
+              <div class="btn-group btn-group--condensed"><a href="https://www.facebook.com/attn" target="_blank" class="btn btn--reset btn--small fa fa-facebook-square"></a><a href="https://twitter.com/attn" target="_blank" class="btn btn--reset btn--small fa fa-twitter"></a><a href="https://instagram.com/attndotcom" target="_blank" class="btn btn--reset btn--small fa fa-instagram"></a><a href="http://www.snapchat.com/add/attndotcom" target="_blank" class="btn btn--reset fa btn--small fa-snapchat-ghost"></a><a href="/subscribe" class="btn btn--reset fa btn--small fa-envelope"></a><a href="https://www.youtube.com/attn" target="_blank" class="btn btn--reset fa btn--small fa-youtube-play"></a></div>
+            </div>
             <div class="nav__menu-item nav__trigger">
               <button class="overlay-open menu-item--subnav-trigger"><span>Menu</span>
                 <script>
                   if (!window.ATTN_DATA) window.ATTN_DATA = {}
-                  if (!window.ATTN_DATA.issues) window.ATTN_DATA.issues = []
                   
                 </script>
                 <div style="display: none;" class="subnav">
                   <ul class="section__links--nav">
-                    <p>Explore Our Sections</p>
                     <li data-issue="video" class="subnav--topic subnav--topic-video"><a href="/videos" class="subnav--links">
-                        <h2>Videos</h2><span class="subnav--arrow fa fa-arrow-right"></span></a></li>
+                                        <svg class="icon icon--issue">
+                                          <use xlink:href="#icon-video"></use>
+                                        </svg>
+                        <h2>Videos</h2></a></li>
                     <li data-issue="economy" class="subnav--topic subnav--topic-economy"><a href="/issues/economy" class="subnav--links">
-                        <h2>economy</h2><span class="subnav--arrow fa fa-arrow-right"></span></a></li>
-                    <li data-issue="politics" class="subnav--topic subnav--topic-politics"><a href="/issues/politics" class="subnav--links">
-                        <h2>politics</h2><span class="subnav--arrow fa fa-arrow-right"></span></a></li>
+                                        <svg class="icon icon--issue">
+                                          <use xlink:href="#icon-economy"></use>
+                                        </svg>
+                        <h2>economy</h2></a></li>
                     <li data-issue="environment" class="subnav--topic subnav--topic-environment"><a href="/issues/environment" class="subnav--links">
-                        <h2>environment</h2><span class="subnav--arrow fa fa-arrow-right"></span></a></li>
-                    <li data-issue="justice" class="subnav--topic subnav--topic-justice"><a href="/issues/justice" class="subnav--links">
-                        <h2>justice</h2><span class="subnav--arrow fa fa-arrow-right"></span></a></li>
-                    <li data-issue="money" class="subnav--topic subnav--topic-money"><a href="/issues/money" class="subnav--links">
-                        <h2>money</h2><span class="subnav--arrow fa fa-arrow-right"></span></a></li>
+                                        <svg class="icon icon--issue">
+                                          <use xlink:href="#icon-environment"></use>
+                                        </svg>
+                        <h2>environment</h2></a></li>
                     <li data-issue="health" class="subnav--topic subnav--topic-health"><a href="/issues/health" class="subnav--links">
-                        <h2>health</h2><span class="subnav--arrow fa fa-arrow-right"></span></a></li>
+                                        <svg class="icon icon--issue">
+                                          <use xlink:href="#icon-health"></use>
+                                        </svg>
+                        <h2>health</h2></a></li>
+                    <li data-issue="justice" class="subnav--topic subnav--topic-justice"><a href="/issues/justice" class="subnav--links">
+                                        <svg class="icon icon--issue">
+                                          <use xlink:href="#icon-justice"></use>
+                                        </svg>
+                        <h2>justice</h2></a></li>
+                    <li data-issue="money" class="subnav--topic subnav--topic-money"><a href="/issues/money" class="subnav--links">
+                                        <svg class="icon icon--issue">
+                                          <use xlink:href="#icon-money"></use>
+                                        </svg>
+                        <h2>money</h2></a></li>
+                    <li data-issue="politics" class="subnav--topic subnav--topic-politics"><a href="/issues/politics" class="subnav--links">
+                                        <svg class="icon icon--issue">
+                                          <use xlink:href="#icon-politics"></use>
+                                        </svg>
+                        <h2>politics</h2></a></li>
                   </ul>
-                  <div style="display: none;" class="subnav__related-stories subnav__related-stories--economy">
-                    <div id="resourcelist-header-navigation-economy"></div>
-                    <script>window.ATTN_DATA.issues.push('economy')</script>
-                  </div>
-                  <div style="display: none;" class="subnav__related-stories subnav__related-stories--politics">
-                    <div id="resourcelist-header-navigation-politics"></div>
-                    <script>window.ATTN_DATA.issues.push('politics')</script>
-                  </div>
-                  <div style="display: none;" class="subnav__related-stories subnav__related-stories--environment">
-                    <div id="resourcelist-header-navigation-environment"></div>
-                    <script>window.ATTN_DATA.issues.push('environment')</script>
-                  </div>
-                  <div style="display: none;" class="subnav__related-stories subnav__related-stories--justice">
-                    <div id="resourcelist-header-navigation-justice"></div>
-                    <script>window.ATTN_DATA.issues.push('justice')</script>
-                  </div>
-                  <div style="display: none;" class="subnav__related-stories subnav__related-stories--money">
-                    <div id="resourcelist-header-navigation-money"></div>
-                    <script>window.ATTN_DATA.issues.push('money')</script>
-                  </div>
-                  <div style="display: none;" class="subnav__related-stories subnav__related-stories--health">
-                    <div id="resourcelist-header-navigation-health"></div>
-                    <script>window.ATTN_DATA.issues.push('health')</script>
-                  </div>
                 </div>
               </button>
-            </div>
-            <div class="nav__menu-item hidden--sm">
-              <div class="link__group link__group--social"><a href="https://www.facebook.com/attn" target="_blank" class="fa fa-facebook-square"></a><a href="https://twitter.com/attn" target="_blank" class="fa fa-twitter"></a><a href="https://instagram.com/attndotcom" target="_blank" class="fa fa-instagram"></a></div>
             </div>
             <div class="search__btn--header nav__menu-item"><a href="#">
                 </a><button class="overlay-open menu-item--search"><a href="#"></a>
@@ -221,7 +221,7 @@
                     </form>
                   </div>
                 </div>
-                <div id="resourcelist-search-results" class="resource-list search__results"></div>
+                <div id="resourcelist-search-results" class="resource-list resource-list--large-two-up search__results"></div>
               </div>
             </button></div>
           </nav>
@@ -230,12 +230,10 @@
       <div class="wrapper--page">
         <div class="wrapper--full-fixed-header">
           <main class="content static">
-            <section class="featured">
-              <header>
-                <div class="featured__titles">
-                  <div class="group"><span>stories worth your attention</span>
-                    <h1>Privacy Policy</h1>
-                  </div>
+            <section class="banner banner--gradient-color banner--left-aligned">
+              <header class="heading-group">
+                <div class="wrapper">
+                  <h1 class="banner__title">Privacy Policy</h1>
                 </div>
               </header>
             </section>
@@ -248,41 +246,32 @@
         </div>
       </div>
       <footer class="main g_site-footer">
-        <nav class="nav--footer grid__row">
-          <div class="nav__column grid__col-md-4 grid__col-lg-3 grid__col-lg-shift-1">
-            <h2>Learn More</h2>
-            <ul class="ul--reset">
-              <li><a href="/about">About Us</a></li>
-              <li><a href="/vote">Vote with ATTN:</a></li>
-            </ul>
-          </div>
-          <div class="nav__column grid__col-md-4 grid__omega--md grid__col-lg-3">
-            <h2>Connect</h2>
-            <ul class="ul--reset">
-              <li><a href="/contact">Contact Us</a></li>
-              <li><a href="/careers">Jobs Worth Your ATTN:</a></li>
-            </ul>
-          </div>
-          <div class="nav__column grid__col-md-4 grid__col-lg-4 grid__omega--lg">
-            <h2>Subscribe</h2>
-            <div id="subscriptions-footer" class="subscribe"></div>
-          </div>
-          <div class="nav__column grid__col-md-8 grid__col-md-shift-2 hidden--lg">
-            <div class="link__group link__group--social"><a href="https://www.facebook.com/attn" target="_blank" class="fa fa-facebook-square"></a><a href="https://twitter.com/attn" target="_blank" class="fa fa-twitter"></a><a href="https://instagram.com/attndotcom" target="_blank" class="fa fa-instagram"></a></div>
-          </div>
-        </nav>
-        <div class="baseline grid__row">
-          <div class="baseline__logo grid__col-lg-3 grid__col-lg-shift-1"><img src="https://s3.amazonaws.com/attn-assets/logos/logo-white.svg" alt="attn:" class="logo"></div>
-          <nav class="baseline__nav grid__col-lg-5 grid__col-lg-shift-2 grid__omega--lg"><span>Copyright © ATTN:, Inc. All Rights Reserved.</span><a href="/terms">Terms of Use</a>
-            <a href="/privacy">Privacy</a>
+        <div class="wrapper--max-width">
+          <nav class="nav--footer grid__row">
+            <div class="nav__column grid__col-md-6">
+              <ul class="ul--reset">
+                <li><a href="/about" class="link--reset">About Us</a></li>
+                <li><a href="/vote" class="link--reset">Vote with ATTN:</a></li>
+                <li><a href="/contact" class="link--reset">Contact Us</a></li>
+                <li><a href="/careers" class="link--reset">Jobs Worth Your ATTN:</a></li>
+                <li><a href="/blog" class="link--reset">Blog</a></li>
+                <li><a href="/press" class="link--reset">Press</a></li>
+              </ul>
+            </div>
+            <div class="nav__column grid__col-md-6">
+              <div class="btn-group btn-group--condensed"><a href="https://www.facebook.com/attn" target="_blank" class="btn btn--reset btn--small fa fa-facebook-square"></a><a href="https://twitter.com/attn" target="_blank" class="btn btn--reset btn--small fa fa-twitter"></a><a href="https://instagram.com/attndotcom" target="_blank" class="btn btn--reset btn--small fa fa-instagram"></a><a href="http://www.snapchat.com/add/attndotcom" target="_blank" class="btn btn--reset fa btn--small fa-snapchat-ghost"></a><a href="/subscribe" class="btn btn--reset fa btn--small fa-envelope"></a><a href="https://www.youtube.com/attn" target="_blank" class="btn btn--reset fa btn--small fa-youtube-play"></a></div>
+            </div>
           </nav>
+          <div class="baseline grid__row">
+            <nav class="baseline__nav grid__col-md-12"><span>Copyright © ATTN:, Inc. All Rights Reserved.</span><a href="/terms" class="link--reset">Terms of Use</a><a href="/privacy" class="link--reset">Privacy</a></nav>
+          </div>
         </div>
       </footer>
       <!-- Scripts-->
       <script>
         if (typeof window._ATTN === 'undefined') {
           window._ATTN = {
-            config: '{"force_hostname":1,"show_email_popup":1,"show_fb_message":0,"show_fb_popup":1,"show_fb_share_on_mobile":0,"show_instagram_follow_on_mobile":0,"show_popup":1,"show_snapchat_follow_on_mobile":1,"show_story_corrections":0,"show_story_related_content":0,"attn_content_api_endpoint":"https://content-attn.global.ssl.fastly.net/api/v1/","service_poll_submissions_url":"http://attn-poll-submissions-prod.herokuapp.com","sentry_client_side_dsn":"https://fda0cab0a5524f00987792923a807818@sentry.io/60105","keen_io_project_id":"56ec1b8359949a4ab755bea5","keen_io_write_key":"1fb85df0260800dbafe5869e6a3ed5ea286815e4aebd7189ed2ff28693ce2d7374736ef34750b00b77d269c6afbc4bcc1ebd610770b3d0ba192c1d2b8e8ca1406313d761b2efb33dbf344f6d6f716b3284697d1d16c6523a2f2e66a4ab1bbd85","region":"VA"}'
+            config: '{"ATTN_CONTENT_API_ENDPOINT":"https://content.attn.com/api/","ATTN_HOSTNAME":"www.attn.com","ATTN_SERVICE_POLL_SUBMISSIONS_URL":"https://attn-poll-submissions-prod.herokuapp.com","ATTN_SHOW_EMAIL_POPUP":1,"ATTN_SHOW_FB_MESSAGE":0,"ATTN_SHOW_FB_POPUP":1,"ATTN_SHOW_FB_SHARE_ON_MOBILE":0,"ATTN_SHOW_INSTAGRAM_FOLLOW_ON_MOBILE":false,"ATTN_SHOW_POPUP":1,"ATTN_SHOW_REI_FOLLOW_ON_MOBILE":true,"ATTN_SHOW_SNAPCHAT_FOLLOW_ON_MOBILE":false,"ATTN_SHOW_STORY_CORRECTIONS":0,"ATTN_SHOW_STORY_RELATED_CONTENT":0,"LIFTIGNITER_KEY":"7u27jr18f930jk38","NODE_ENV":"production","SENTRY_CLIENT_SIDE_DSN":"https://fda0cab0a5524f00987792923a807818@sentry.io/60105","region":"VA"}'
           }
         }
         
@@ -305,10 +294,13 @@
             if (typeof oldOnLoad === 'function') {
               oldOnLoad();
             }
-            Sailthru.setup({
-              domain: 'horizon.attn.com',
-              useStoredTags: false
-            });
+        
+            if (typeof Sailthru !== 'undefined') {
+              Sailthru.setup({
+                domain: 'horizon.attn.com',
+                useStoredTags: false
+              });
+            }
           };
         })();
       </script>
@@ -371,17 +363,7 @@
        })();
       </script>
       <!-- App JS-->
-      <script src="/vendor.js"></script>
-      <script src="/app.js"></script>
-      <!-- Polyfill object-fit-->
-      <script src="/vendor/object-fit/polyfill.object-fit.js"></script>
-      <script>
-        objectFit.polyfill({
-            selector: 'img', // this can be any CSS selector
-            fittype: 'cover', // either contain, cover, fill or none
-            disableCrossDomain: 'true' // either 'true' or 'false' to not parse external CSS files.
-        });
-      </script>
+      <script src="/main.js"></script>
     </div>
   
-</body></html>
+<script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
