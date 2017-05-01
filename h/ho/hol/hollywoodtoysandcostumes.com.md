@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodtoysandcostumes.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230184821id_/http%3A//www.hollywoodtoysandcostumes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodtoysandcostumes.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501154710id_/http%3A//www.hollywoodtoysandcostumes.com/privacy.php) for the most accurate reproduction.*
 
 # HollywoodToysAndCostumes.com - Privacy / Terms and Conditions - Halloween Costumes - Holiday Costumes - Hollywood Costumes - Accessories
 
