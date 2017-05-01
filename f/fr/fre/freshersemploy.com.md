@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshersemploy.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210220950id_/http%3A//www.freshersemploy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshersemploy.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501102749id_/http%3A//www.freshersemploy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FreshersEmploy
 
