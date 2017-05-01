@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewelry.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122140455id_/http%3A//www.jewelry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewelry.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501140804id_/http%3A//www.jewelry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,7 @@ We may share your personally identifiable information with authorized third part
 
 If you choose to participate in a special event (for example, a promotion, contest or sweepstake), Jewelry.com may share your personally identifiable information with those organizations participating in the applicable event. Typically, these third parties do not use your information for any other purpose other than to manage the event. In some cases these third-party partners may send you promotional materials regarding their products and services. In these cases, you will be given the opportunity to opt-out, and not have your personally identifiable information shared with that third-party partner.
 
-If at any time you choose to enter a Jewelry.com feedback contest and allow us to post your feedback on our Web Site, we will remove your feedback from our Web Site at any time if you send your request via e-mail to [service@jewelry.com](mailto:service@jewelry.com)
+If at any time you choose to enter a Jewelry.com feedback contest and allow us to post your feedback on our Web Site, we will remove your feedback from our Web Site at any time if you send your request via e-mail to 
 
 ### IP Address:
 
@@ -60,7 +60,7 @@ Jewelry.com is committed to the protection of the personally identifiable inform
 
 ### Updating Your Information:
 
-If the personally identifiable information Jewelry.com has gathered from you changes or you would like to revise such information, we will gladly correct or update any personal data you have previously provided to us. To request a change or update to your personal information, please send an e-mail to [service@jewelry.com](mailto:service@jewelry.com)
+If the personally identifiable information Jewelry.com has gathered from you changes or you would like to revise such information, we will gladly correct or update any personal data you have previously provided to us. To request a change or update to your personal information, please send an e-mail to 
 
 ### Choice/Opt-out:
 
@@ -68,11 +68,11 @@ We want to communicate with you only if you want to hear from us. To opt-out of 
 
   1. (recommended) Select the “unsubscribe” link from within any Jewelry.com email correspondence; or
   2. Select “unsubscribe” on our Edit Registration page when logged in; or
-  3. make your request by contacting us at [service@jewelry.com](mailto:service@jewelry.com)
+  3. make your request by contacting us at 
 
 
 
-Should you have any difficulty unsubscribing, have any questions, or need assistance, please contact us at [service@jewelry.com](mailto:service@jewelry.com), or at 1-800-243-0459, or at 1385 Broadway, 12th Floor, New York, NY 10018.
+Should you have any difficulty unsubscribing, have any questions, or need assistance, please contact us at, or at 1-800-243-0459, or at 1385 Broadway, 12th Floor, New York, NY 10018.
 
 ### Your Consent To Jewelry.com’s Privacy Policy:
 
@@ -80,6 +80,6 @@ By using this Web Site, you agree to Jewelry.com’s privacy policy. This is our
 
 ### Questions, Comments, Contact:
 
-If you have questions about this privacy policy, please contact the Jewelry.com customer service department at [service@jewelry.com](mailto:service@jewelry.com). You may also send us your comments about the Jewelry.com Web Site or the shopping experience in general, as we always appreciate feedback.
+If you have questions about this privacy policy, please contact the Jewelry.com customer service department at. You may also send us your comments about the Jewelry.com Web Site or the shopping experience in general, as we always appreciate feedback.
 
 We can be reached by phone at 1-800-243-0459 from 9am-5pm (Eastern Time), or by mail at 1385 Broadway, 12th Floor, New York, NY 10018
