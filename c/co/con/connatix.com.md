@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the connatix.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227035600id_/https%3A//connatix.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connatix.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501200553id_/https%3A//www.connatix.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Connatix
+# Press - Connatix
 
 Connatix Native Exchange Ltd. (in this Policy: "Connatix", "we", "our" and "us") respects your privacy. This policy (the "Policy") explains our privacy practices for our Services at www.connatix.com and any related domain names (the "Website") and the use of Connatix related services and tools (the Website and our related tools and services, collectively: the "Service"). It describes the ways your personal information and data is collected and used and the rights and options available to you with respect to your information. 
 
