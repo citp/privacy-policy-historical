@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copperhub.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603013558id_/http%3A//www.copperproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copperhub.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501193802id_/http%3A//www.copperproject.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – CopperProject.com
 
@@ -35,9 +35,9 @@ We may use the information we may collect from you for any one or more of the fo
 
 
 
- _Note: Out of respect for your privacy, Element Software provides you a way to unsubscribe from receiving our future emails and newsletters. You may find the ‘unsubscribe’ option at the bottom of our emails and use it to stop receiving our emails._
+_Note: Out of respect for your privacy, Element Software provides you a way to unsubscribe from receiving our future emails and newsletters. You may find the ‘unsubscribe’ option at the bottom of our emails and use it to stop receiving our emails._
 
-###  How Do We Ensure the Security Of Your Information?
+### How Do We Ensure the Security Of Your Information?
 
 We understand that the security and confidentiality of your personal information is critical. Therefore, we employ a variety of technical and physical security measures to ensure the safety of your personal information.
 
