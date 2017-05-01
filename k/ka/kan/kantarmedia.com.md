@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kantarmedia.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612175837id_/http%3A//www.kantarmedia.com/us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kantarmedia.com privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501072343id_/http%3A//www.kantarmedia.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy statement | Kantar Media
+# Privacy policy | Kantar Media
 
 This website is operated by Kantar Media UK Ltd. ("we" or "us"). By using and visiting our website and by submitting your personal information to us you agree to us using your personal information as set out in this privacy policy.
 
@@ -105,3 +105,30 @@ If your personal information or your preferences change, you don't want us to se
 ## Changes to this privacy policy
 
 We reserve the right, at our discretion, to change, modify, add, or remove portions from this privacy policy at any time. You are encouraged to review this privacy policy from time to time.
+
+## TV & Video measurement online
+
+With every access to our Internet offer and with every request of a page or file, data of this process are saved in a log file. 
+
+In detail, the following dataset is stored in this log file:
+
+  * browser type and -version, 
+  * used operating system, 
+  * web page, you came from (referee URL), 
+  * web page to which you go, 
+  * date and time of the request, 
+  * transferred amount of data, 
+  * report whether the call was successful, 
+  * access method/function requested by the computer.
+
+
+
+These data are evaluated for statistical purposes and in order to resolve technical problems. More detailed personal data are not stored. As far as you leave us personal data like name, address, phone number or e-mail address by a contact form, the details of these data are voluntarily carried out. The processing of these data happens exclusively considering the prevailing protection of data privacy legal regulations. These data are not passed on to a third party.
+
+So-called session cookies are used to recognize multiple uses by the same user. Cookies are small text files which your Internet browser saves on your computer. If you return to our Internet offer, these cookies hand in information to recognize you automatically.
+
+You can prevent the storage of cookies on your hard disk by turning off the cookie storage in your browser adjustments. However, this can lead to a malfunction calling the Internet offer.
+
+Information on the stored data concerning your person may be given to you on request. Please address your questions to the following mail address: [ka_de_support@kantarmedia.com](mailto:ka_de_support@kantarmedia.com)
+
+Opting out of the measurement can be done via links [here](https://optout.2cnt.net/) (EN) and [here](https://optout.2cnt.net/sko/) (NL).
