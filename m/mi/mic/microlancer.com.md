@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the microlancer.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413065605id_/http%3A//studio.envato.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microlancer.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502101141id_/https%3A//studio.envato.com/privacy-policy) for the most accurate reproduction.*
 
 # Envato - Top digital assets and services
 
 ## Welcome to Envato's Privacy Policy
 
-  1. Hi, we're Envato Pty Ltd (ABN 11 119 159 741) and welcome to our privacy policy. This policy sets out how we handle personal information and applies across all of Envato's businesses, including Envato Market, Envato Studio and Tuts+ (the Sites).
+  1. Hi, we're Envato Pty Ltd (ABN 11 119 159 741) and welcome to our privacy policy. This policy sets out how we handle personal information and applies across all of Envato's businesses, including Envato Market, Envato Studio, Envato Sites, Envato Elements and Envato Tuts+ (the Sites).
   2. When we say 'we', 'us' or 'Envato' it's because that's who we are and we own and run the Sites. If we say 'policy' we're talking about this privacy policy. If we say 'user terms' we're talking about the rules for using each of the Sites. Take the time to read this policy because it forms a part of the user terms for each of our Sites. By using any of our Sites, you agree to this policy. If you do not agree to this policy we won't take it personally, but please do not use our Sites.
 
 
@@ -31,7 +31,7 @@
 
 ## How do we use personal information?
 
-  8. We may use your personal information in order for us to:
+  8. We may use your personal information in order for us to: 
     1. operate the Sites and provide you with services described on the Sites, like to verify your identity when you sign in to any of our Sites, to facilitate and process transactions that take place on the Sites, to respond to support tickets and to help facilitate the resolution of any disputes
     2. customise our services and websites, like advertising that may appear on the Sites, in order to provide a more personalised experience
     3. update you with operational news and information about our Sites and services like to notify you about changes to our Sites, website disruptions or security updates
@@ -47,7 +47,7 @@
 
 ## When may we disclose your personal information?
 
-  9. We may disclose personal information to people like:
+  9. We may disclose personal information to people like: 
     1. companies that are in the Envato group of companies
     2. subcontractors and service providers who assist us in connection with the ways we may use personal information (as set out above)
     3. our professional advisers (lawyers, accountants, financial advisers etc)
@@ -81,8 +81,8 @@
 
 ## Cookies (not the type you eat!) and web analytics
 
-  17. Cookies are used to enhance your use of the Sites, such as remembering that you are logged in. You are able to minimise or block cookies using the privacy settings in your internet browser, but this may restrict your use of the Sites. For general information on cookies, see http://www.allaboutcookies.org.
-  18. When you visit our Sites, there's certain information that's recorded which is generally anonymous information and may not reveal your true super-hero identity. The fancy term for this is 'web analytics information', and we only use this information for statistical and website development purposes and to improve our services to you. If you're logged into your account some of this information could be associated with your account. We're talking about the following kinds of details:
+  17. For more information about how we use cookies, web beacons and similar technologies see our cookie policy [here](https://envato.com/cookies/) and for more general information on cookies, see http://www.allaboutcookies.org.
+  18. Generally speaking, when you visit our Sites, there's certain information that's recorded which is generally anonymous information and may not reveal your true super-hero identity. If you're logged into your account some of this information could be associated with your account. We're talking about the following kinds of details: 
     1. your IP or proxy server IP
     2. basic domain information
     3. your Internet service provider is sometimes captured depending on the configuration of your ISP connection
@@ -93,7 +93,7 @@
     8. the size of file you look at
     9. the website which referred you to our Sites
     10. the operating system which your computer uses.
-  19. Occasionally, we may use third party advertising companies to serve ads based on prior visits to some Sites. These advertising companies use cookies to anonymously collect data. No personally identifiable information is collected by these cookies. The anonymous data they collect is kept separate from the personal information about you as a user. You can opt out of third party advertising cookies at any time by visiting this page:http://www.networkadvertising.org/managing/opt_out.asp.
+  19. Occasionally, we may use third party advertising companies to serve ads based on prior visits to some Sites. These advertising companies use cookies to anonymously collect data. No personally identifiable information is collected by these cookies. The anonymous data they collect is kept separate from the personal information about you as a user. Read more about your options in our [cookie policy](https://envato.com/cookies/).
 
 
 
