@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milaap.org privacy policy that was archived on 2016-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160823070940id_/https%3A//milaap.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milaap.org privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502171635id_/https%3A//milaap.org/privacy-policy) for the most accurate reproduction.*
 
 # Crowdfunding on Milaap | Privacy Policy | Milaap
 
