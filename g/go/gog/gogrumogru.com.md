@@ -1,8 +1,17 @@
-> *The following text is extracted and transformed from the gogrumogru.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018011032id_/http%3A//gogrumogru.com/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogrumogru.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503005848id_/http%3A//www.gogru.in/home/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Gogru.in
+# Privacy Policy - Gogru.in App & Website
 
-|  |  **  Gogru.in - Privacy Policy** |  Dated: 4th March, 2007    
+|  |  [](http://www.gogru.in/) |  |   
+---|---|---|---  
+[Home](https://web.archive.org/web/20170503005848id_/http%3A//www.gogru.in/) | [News](https://web.archive.org/web/20170503005848id_/http%3A//www.gogru.in/home/news/) | [Dating](https://web.archive.org/web/20170503005848id_/http%3A//www.gogru.in/home/dating/) | [Ecards](https://web.archive.org/web/20170503005848id_/http%3A//www.gogru.in/home/ecards/) | [Games](https://web.archive.org/web/20170503005848id_/http%3A//www.gogru.in/home/games/) | [Send Free SMS](https://web.archive.org/web/20170503005848id_/http%3A//www.gogru.in/home/dating/sendfreesms.php)  
+---|---|---|---|---|---  
+[Videos](https://web.archive.org/web/20170503005848id_/http%3A//www.gogru.in/home/videos.php) | [Hollywood Celebs Pictures](http://www.hcelebs.net/ "Hollywood Celebs Pictures") | [SMS Collection](http://www.favoritesms.com/) | [Invite Friends](https://web.archive.org/web/20170503005848id_/http%3A//www.gogru.in/home/invite.php) | [Search Friends](https://web.archive.org/web/20170503005848id_/http%3A//www.gogru.in/home/dating/searchbyname.php) | [Online Profiles](https://web.archive.org/web/20170503005848id_/http%3A//www.gogru.in/home/dating/onlineprofiles.php)  
+---|---|---|---|---|---  
+****   
+
+
+|  **  Gogru.in App & Website - Privacy Policy** |  Dated: 4th March, 2007    
 ---|---|---  
 | 
 
@@ -10,9 +19,9 @@ Gogru.in and its subsidiaries and affiliates ("Gogru.in") respects your privacy.
 
 **We want you to**
 
-  * feel comfortable using our web sites 
+  * feel comfortable using our web sites and apps 
   * feel secure submitting information to us 
-  * contact us with your questions or concerns about privacy on this site 
+  * contact us with your questions or concerns about privacy on this site/app 
   * know that by using our sites you are consenting to the collection of certain data 
 
 **WHAT INFORMATION IS, OR MAY BE, COLLECTED FROM YOU?**
@@ -148,4 +157,8 @@ You are can offer your views, suggestions, if any, by submitting the filled in [
 
 You can also send us email at: [info@gogru.in](mailto:info@gogru.in)  
   
----|---
+---|---  
+  
+  
+[Cars Pictures](http://www.mastcars.com/ "Cars Pictures") | [Movies](https://web.archive.org/web/20170503005848id_/http%3A//www.gogru.in/home/movies) | [Quick Email](https://web.archive.org/web/20170503005848id_/http%3A//www.gogru.in/home/dating/quickemail.php) | [Love Cafe](https://web.archive.org/web/20170503005848id_/http%3A//www.gogru.in/home/dating/lovecafe.php) | [Wallpapers](https://web.archive.org/web/20170503005848id_/http%3A//www.gogru.in/home/wallpapers/) | [Lost Monuments](http://www.lostmonuments.com/ "Lost Monuments")  
+---|---|---|---|---|---
