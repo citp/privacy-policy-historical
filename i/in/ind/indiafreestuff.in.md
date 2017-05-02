@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiafreestuff.in privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229130124id_/http%3A//indiafreestuff.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiafreestuff.in privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502020702id_/http%3A//indiafreestuff.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Find Shopping deals, Coupons, Free Samples, Contests, Freebies, Recharge offers and online tips for Free - IndiaFreeStuff
 
