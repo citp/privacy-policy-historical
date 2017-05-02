@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the bushdvd.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119140101id_/http%3A//www.bushdvd.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bushdvd.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502235207id_/http%3A//www.bushdvd.com/privacy.asp) for the most accurate reproduction.*
 
 # Movie Rental XXX - Rent XXX DVDs Online - Adult Videos for Rent
-
-[](http://privacy.truste.com/privacy-seal/NoCash,-Inc-/validation?rid=7990780c-7678-4373-a07e-a2bce124304f "TRUSTe online privacy certification")
 
 Effective Date: 12/12/2014 
 
 This privacy policy applies to http://www.bushdvd.com owned and operated by NoCash, Inc.. This privacy policy describes how NoCash, Inc. collects and uses the personal information you provide on our web site: http://www.bushdvd.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
-NoCash, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, http://www.bushdvd.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact Jason Holt at [customerservice@bushdvd.com](mailto:customerservice@bushdvd.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
+If you have questions or complaints regarding our privacy policy or practices, please contact Jason Holt at [customerservice@bushdvd.com](mailto:customerservice@bushdvd.com). 
 
 Personal Information  
 We do NOT collect any personal information about you except your name, mailing and shipping address, credit card information, and e-mail address. We collect this information to register our users for an account and through our "Contact Us" form so we can reply to inquiries from our customers. 
@@ -33,7 +31,7 @@ Technologies such as: cookies, beacons, tags and scripts are used by NoCash, aff
 
 We use cookies for _our shopping cart, to remember users' settings (e.g. display preferences), and for authentication_. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. 
 
 Analytics / Log Files  
 As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personal information. 
