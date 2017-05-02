@@ -1,147 +1,110 @@
-<!--The following is the downloaded HTML source of the couponcode.com privacy policy that was archived on 2016-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160401054511id_/http%3A//www.couponcode.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the couponcode.com privacy policy that was archived on 2017-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170502235921id_/http%3A//www.couponcode.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Privacy Statement</title>
-<meta name="description" content="Get a coupon code and Save Money!">
-<meta name="keywords" content="coupon code, codes, online coupons, discount coupons, free shipping coupons, couponcode, coupon codes">
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Privacy Statement</title>
+<meta name="description" content="Coupon Code Privacy Statement">
 <meta name="robots" content="index,follow">
-<meta name="page-topic" content="Coupons">
-<meta name="Revisit-after" content="15">
+<meta name="googlebot" content="noarchive">
 <meta name="audience" content="all">
 <meta name="copyright" content="Coupon Code, Inc.">
 <meta name="author" content="CouponCode.com">
 <meta http-equiv="content-language" content="english">
 <meta property="og:image" content="http://www.couponcode.com/images/coupon-code_100.png">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="shortcut icon" href="../images/cc_icon5.ico">
-<link rel="stylesheet" href="css/mainstyles.css">
+<link rel="shortcut icon" href="http://www.couponcode.com/images/ccicon.ico">
+   
+    
+    
+    
+    <!-- Bootstrap -->
+    <link rel="stylesheet" type="text/css" href="http://www.couponcode.com/css/jquery-ui.css">
+    <script src="http://www.couponcode.com/js/jquery-1.11.1.min.js"></script>
+	<script src="http://www.couponcode.com/js/jquery-ui.min.js"></script>
+	<script src="http://www.couponcode.com/js/jquery.ui.autocomplete.html.js"></script>
+    <script src="http://www.couponcode.com/js/action.js"></script>
+    <script type="text/javascript" src="js/noframe.js"></script>
+
+	<link href="css/bootstrap.css" rel="stylesheet">
+	<link href="css/StylesCC.css" rel="stylesheet" type="text/css">
+	<link href="css/StoreAds.css" rel="stylesheet" type="text/css">
 
 
-
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
-<link href="SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
-
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
-<script type="text/javascript" src="/js/jqueryui/js/jquery-ui-1.8.13.custom.min.js"></script>
-<link rel="stylesheet" type="text/css" href="/js/jqueryui/css/ui-lightness/jquery-ui-1.8.13.custom.css"> 
-
-<script type="text/javascript">
-  $(function() {
-    $("#zoom_searchbox").autocomplete({
-      source: "/topsearch.cfm",
-      minLength: 2,
-      focus: function(event, ui) {
-        return false;
-      },
-      select:function(event, ui){
-      	top.location.href = 'http://www.couponcode.com/' + ui.item.url;
-      }
-    }).data("autocomplete")._renderItem = function( ul, item ) {
-            return $( "<li onclick=\"top.location.href='http://www.couponcode.com/" + item.url + "'\"></li>" )
-                .data( "item.autocomplete", item )
-                .append( "<div class='autoselect' style='padding: 3px; line-height: 17px; cursor: pointer; '><u><span style='color: black !important;'>"+ item.value + "</span></u></div>" ) 
-                .appendTo( ul );};
-  });
+		
+  </head>
+  <body style="padding-top: 80px">
+  <div class="outerWrapper">
   
-  $('.autoselect').live('mouseover', function(){ $(this).addClass('autohover'); });
-  $('.autoselect').live('mouseout', function(){ $(this).removeClass('autohover'); });
   
-  $(document).ready(function(){
-	  $("#zoom_searchbox").live('focus', function(){
-	  	if($(this).val() == 'Search by store')
-	  	{
-	  		$(this).val('');
-	  	}
-	  });
-	  $("#zoom_searchbox").live('blur', function(){
-	  	if($(this).val() == '')
-	  	{
-	  		$(this).val('Search by store');
-	  	}
-	  });
+  
+  
+   <script language="JavaScript" type="text/javascript">
+		$(document).ready(function($) {
+    	$('#sName').autocomplete({
+        source: 'search3.php',
+        minLength: 2,
+		select: function(event, ui) { 	
+		var code = ui.item.id;
+		if(code != ''){							   
+		location.href = 'http://www.couponcode.com/' + code;	
+			}
+		},
+		html: true,
+		open: function (event, ui) {
+			$(".ui-autocomplete").css("z-index", 10000);
+		}
 	});
+});		
+	
 </script>
 
-
-</head>
-
-<body>
-
-<div id="container">
- <form method="get" action="http://www.couponcode.com/cgi-bin/search.cgi" class="zoom_searchform"><input type="hidden" name="zoom_sort" value="0"><input type="hidden" name="zoom_xml" value="0">
-  <div id="header">
-  <a href="http://CouponCode.com/"><img src="http://www.couponcode.com/images/couponcodecom_logo.gif" alt="Coupon Code" width="237" height="79" class="cclogo" border="0"></a><div id="topnavWrap">
-    <div id="tnavRowA">
-      <div class="SignIn"><span class="whtLimeHover"><a href="../login.cfm?Action=0">Sign in</a></span> &nbsp;<span class="whiteTxt">|</span> &nbsp;<span class="whtLimeHover"><a href="../sp.cfm?cp=-1">My Saved Coupons</a></span></div><!-- <div class="FBconnect"><a href="../login.cfm?Action=0"><img src="../images/fconnect.gif" width="86" height="18" /></a></div> --></div>
-      <div id="tnavRowB">
-      <ul id="MenuBar1" class="MenuBarHorizontal">
-        <li><a href="../all_stores.cfm">All Stores</a>          </li>
-        <li><a href="#" class="MenuBarItemSubmenu">Categories</a>
-          <ul>
-            <li><a href="../listcategory.cfm?which=1">Apparel</a></li>
-<li><a href="../listcategory.cfm?which=25">Arts &amp; Collectibles</a></li>
-<li><a href="../listcategory.cfm?which=4">Automotive</a></li>
-<li><a href="../listcategory.cfm?which=5">Baby &amp; Kids</a></li>
-<li><a href="../listcategory.cfm?which=6">Books &amp; Magazines</a></li>
-<li><a href="../listcategory.cfm?which=7">Cell Phones</a></li>
-<li><a href="../listcategory.cfm?which=8">Computers</a></li>
-<li><a href="../listcategory.cfm?which=9">Digital Cameras</a></li>
-<li><a href="../listcategory.cfm?which=11">Electronics</a></li>
-<li><a href="../listcategory.cfm?which=35">Financial</a></li>
-<li><a href="../listcategory.cfm?which=12">Flowers &amp; Gifts</a></li>
-<li><a href="../listcategory.cfm?which=30">Gift Cards</a></li>
-<li><a href="../listcategory.cfm?which=13">Grocery</a></li>
-<li><a href="../listcategory.cfm?which=14">Health &amp; Beauty</a></li>
-<li><a href="../listcategory.cfm?which=15">Home Essentials</a></li>
-<li><a href="../listcategory.cfm?which=29">Hotels</a></li>
-<li><a href="../listcategory.cfm?which=32">Internet</a></li>
-<li><a href="../listcategory.cfm?which=16">Jewelry</a></li>
-<li><a href="../listcategory.cfm?which=31">Matchmaking</a></li>
-<li><a href="../listcategory.cfm?which=10">Movies</a></li>
-<li><a href="../listcategory.cfm?which=17">Music</a></li>
-<li><a href="../listcategory.cfm?which=18">Office</a></li>
-<li><a href="../listcategory.cfm?which=19">Pets</a></li>
-<li><a href="../listcategory.cfm?which=20">Services</a></li>
-<li><a href="../listcategory.cfm?which=26">Shoes &amp; Accessories</a></li>
-<li><a href="../listcategory.cfm?which=28">Software</a></li>
-<li><a href="../listcategory.cfm?which=21">Sporting Goods</a></li>
-<li><a href="../listcategory.cfm?which=22">Toys</a></li>
-<li><a href="../listcategory.cfm?which=23">Travel</a></li>
-<li><a href="../listcategory.cfm?which=24">Video Games</a></li>
-<li><a href="../listcategory.cfm?which=34">Wedding</a></li>
+  <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#topFixedNavbar1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+        <a class="navbar-brand" href="http://www.couponcode.com/"></a></div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="topFixedNavbar1">
+        <ul class="nav navbar-nav">
+          <li><a href="http://www.couponcode.com/all_stores.php">All Stores</a></li>
+          <li><a href="http://www.couponcode.com/categories.php">Categories</a></li>
+          <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="#">Newsletter</a></li>
+              <li role="separator" class="divider"></li>
+              <li><a href="http://www.couponcode.com/CouponCode-com-Video.php">Media</a></li>
+              <li role="separator" class="divider"></li>
+              <li><a href="http://www.couponcode.com/contact012717.php">Contact us</a></li>
+              </ul>
+            </li>
           </ul>
-        </li>
-        <li><a class="MenuBarItemSubmenu" href="#">Coupons</a>
-          <ul>
-            <li><a href="http://www.couponcode.com/popular_coupons.cfm">Popular Coupons</a>              </li>
-            <li><a href="http://www.couponcode.com/expiring_coupons.cfm">Expiring Coupons</a></li>
-            <li><a href="http://www.couponcode.com/free_shipping.cfm">Free Shipping</a></li>
-          </ul>
-        </li>
-        <li><a href="#" class="MenuBarItemSubmenu">More</a>
-          <ul>
-            <li><a href="http://www.couponcode.com/sign_up.cfm">Newsletters</a></li>
-            <li><a href="http://www.couponcode.com/metro-tails.cfm">Fun Stuff</a></li>
-	    <li><a href="http://www.couponcode.com/CouponCode-com-Video.cfm">Coupon Code Videos</a></li>
-          </ul>
-        </li>
-      </ul>
-
-  <label for="textfield"></label>
-        <input type="text" name="zoom_query" value="Search by store" size="28" id="zoom_searchbox" class="zoom_searchbox"> <input type="submit" value="Search" class="zoom_button">
-        
+        <form method="get" action="http://www.couponcode.com/cgi-bin/search.cgi" class="navbar-form navbar-left">
+        <!--<form class="navbar-form navbar-left" role="search">-->
+          <div class="form-group">
+            
+            <input type="text" name="zoom_query" id="sName" class="ui-autocomplete-input" placeholder=" Search by store" autocomplete="off">
+            </div>
+          <button type="submit" class="btn btn-default">Go</button>
+          </form>
+        </div>
+      <!-- /.navbar-collapse -->
       </div>
-  </div></div>
-  </form>
-  <div id="content">
-    <div class="clearfloat"></div>
-    
-<div id="MainWrp">
- <h1 class="BigHdTxt">Privacy Statement</h1>
-                  
-                    
-                  <p>LDS Marketing (CouponCode.com<sup>®</sup>) is strongly committed to protecting 
+    <!-- /.container-fluid -->
+  </nav> 
+<div class="MainContainer">
+	
+	<div class="MainCPad">
+       
+		 
+       
+       
+      
+		<div class="CpnMnBGNC">
+		<h1 class="Pg">Privacy Statement</h1>	
+			 <p>LDS Marketing (CouponCode.com<sup>®</sup>) is strongly committed to protecting 
                     the privacy of this site's visitors. To that extent, we are 
                     the sole owners of all information collected on this site.</p>
                     <p>Any information is collected in order to deliver the services 
@@ -235,12 +198,12 @@
                   <p><strong>Privacy Questions</strong></p>
                     
                   <p>If you are aware of any inaccuracy or changes in the personal 
-                    information which we hold about you, please <a href="contact031511.cfm">contact</a> 
+                    information which we hold about you, please <a href="contact012717.php">contact</a> 
                     an LDSM staff.</p>
                     
                   <p>If you have a complaint or concern about LDSM's information 
                     handling practices, we encourage you to talk to us. You can 
-                    <a href="contact031511.cfm">contact</a> LDSM's Chief Privacy Officer 
+                    <a href="contact012717.php">contact</a> LDSM's Chief Privacy Officer 
                     . You will be asked to provide the following information in 
                     writing:</p>
                     <p>Your name, address or fax number where you prefer to be 
@@ -253,74 +216,34 @@
                     <p><strong>Ongoing Relevancy</strong></p>
                     <p>LDSM regularly reviews its policies and procedures to ensure 
                       we remain current with changing laws and evolving public 
+
                       expectations.</p>
                     <p>LDS Marketing welcomes comments and questions on 
                       this policy. Due to the evolving nature of the technologies 
                       we use to communicate with you, we may occasionally update 
                       this policy. Notice of any revisions will be posted to this 
                       site. Any comments or questions regarding our privacy practices, 
-                      please <a href="contact031511.cfm">contact us</a>.</p>
-                    <p>&nbsp;</p>
+                      please <a href="contact012717.php">contact us</a>.</p>
+			
+		</div>
+	
+	
+	
+	
 
-</div> 
- 
- <div id="RsideBanWrp">
-<div id="newsletter"><a href="../sign_up.cfm"><img src="../images/News_ButBan.jpg" width="300" height="67" alt="Newsletter"></a></div> <div id="BigBan"><a href="../sop/274" target="_blank"><img src="../images/nordstrom_00022516.jpg" width="300" height="250"></a></div> <div id="PopStores">
-     <h2 class="HeadlineSb">Popular Stores</h2>
-     <div class="clearfloat"></div>
-     <div class="PopStrOne">
-       <a href="../best-buy.cfm">Best Buy</a><br>
-       <a href="../VMWare.cfm">VMWare</a><br>
-       <a href="../Buy-com.cfm">Buy.com</a><br>
-       <a href="../Walgreens.cfm">Walgreens</a><br>
-       <a href="../dell.cfm">Dell</a><br>
-       <a href="../drugstore-com.cfm">drugstore.com</a><br>
-       <a href="../ICE-com.cfm">ICE.com</a><br>
-       <a href="../macys.cfm">Macy's</a><br>
-       <a href="../NORDSTROM.cfm">NORDSTROM</a><br>
-       <a href="../Office-Depot.cfm">Office Depot</a><br>
-     </div>
-     <div class="PopStrOne">
-     <a href="../JCPenney.cfm">JCPenney</a><br>
-       <a href="../PETCO.cfm">PETCO</a><br>
-       <a href="../Ross-Simons.cfm">Ross-Simons</a><br>
-       <a href="../Sephora.cfm">Sephora</a><br>
-       <a href="../kohls.cfm">Kohl's</a><br>
-       <a href="../Target.cfm">Target</a><br>
-       <a href="../Wal-Mart.cfm">Walmart</a><br>
-       <a href="../Weight-Watchers.cfm">Weight Watchers</a><br>
-       <a href="../sears.cfm">Sears</a><br>
-       <a href="../ftd-com.cfm">FTD.com</a><br><br>
-       <a href="../all_stores.cfm">See all stores</a></div>
-   </div>
-   <div class="clearfloat"></div>
-   
+    
+<!-- MainContainer-->	
 </div>
-  
 
-<div class="clearfloat"></div>
-
-
-  <div class="clearfloat"></div>
-  </div>
-  <div id="footer">
-    <p>Copyright © 2004-2016 Coupon Code, Inc. All rights reserved.<br>
-     <a href="http://www.couponcode.com/privacy.cfm">Privacy Statement</a> | <a href="http://www.couponcode.com/terms.cfm">Terms &amp; Conditions</a> | <a href="http://www.couponcode.com/contact031511.cfm">Contact Us</a> | <a href="http://www.couponcode.com/Advertising.cfm">Advertising</a> | <a href="http://www.facebook.com/couponcode">Find us on Facebook </a></p>
-  </div>
-
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-<script type="text/javascript">
-var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
-</script>
-
-
-<script type="text/javascript">
+<div class="row" id="footer">
+    Copyright © 2004-2017 Coupon Code, Inc. All rights reserved.
+<br>
+<a class="DkBg" href="http://www.couponcode.com/privacy.php">Privacy Statement</a> | <a class="DkBg" href="http://www.couponcode.com/terms.php">Terms &amp; Conditions</a> | <a class="DkBg" href="http://www.couponcode.com/contact012717.php">Contact Us</a> | <a class="DkBg" href="https://www.facebook.com/couponcode">Find us on Facebook</a>
+    </div>
+	
+	
+	
+	<script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
@@ -329,9 +252,13 @@ try {
 var pageTracker = _gat._getTracker("UA-479110-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
-</div>
 
+	<script src="js/bootstrap.js"></script>
+	
+	<!-- Wrapper -->
+	</div>
+	
 
-
-
-</body></html>
+	
+  
+</div></body></html>
