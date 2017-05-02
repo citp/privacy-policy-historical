@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobooka.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121200426id_/http%3A//mobooka.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobooka.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502135359id_/http%3A//mobooka.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Performance Affiliate and Publisher Network - Internet Marketing - Mobooka
 
@@ -127,4 +127,4 @@ MOBOOKA
 Suite 2010  
 Ocoee, FL 34761 
 
-For more information about protecting your privacy, you may wish to visit: [www.ftc.gov](http://www.mobooka.com/web/20140625115845/http://www.ftc.gov/).
+For more information about protecting your privacy, you may wish to visit: [www.ftc.gov](http://mobooka.com/web/20140625115845/http://www.ftc.gov/).
