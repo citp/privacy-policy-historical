@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the ljhooker.com.au privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124202022id_/http%3A//about.ljhooker.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ljhooker.com.au privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502092533id_/https%3A//www.ljhooker.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - about.ljhooker.com.au
+# LJ Hooker Real Estate - Privacy Policy
 
-##  LJ Hooker Privacy Policy
+  
+
+
+## LJ Hooker Privacy Policy
 
 **1.     Purpose**
 
@@ -34,48 +37,20 @@ a)    We offer a range of services including, without limitation, providing a
 
 b)     We collect personal information to enable us to provide our Services.  This includes:
 
-i.    processing inquiries;
-
-  
-ii.    facilitating the sale, purchase, advertising of properties and businesses;
-
-  
-iii.    recording persons entering a landlord or seller's property (e.g. for inspection, survey or appraisal purposes);
-
-  
-iv.    facilitating the leasing of properties (including advertising the properties) and acting as property manager;
-
-  
-v.    providing conveyancing and property settlement services;
-
-  
-vi.    providing financial advice and services;
-
-  
-vii.    for our internal business operations;
-
-  
-viii.    complying with our legal obligations;
-
-  
-ix.    advising clients of additional services or information which may be of interest;
-
-  
-x.    providing your contact details to our partners and contractors who provide us with services;
-
-  
-xi.    maintaining and updating our business infrastructure and systems;
-
-  
-xii.    statistical purposes;
-
-  
-xiii.    promoting and advertising our business, products and services;
-
-  
-xiv.    franchise purposes, including assessment of franchise applications and management of our franchises; and
-
-  
+i.    processing inquiries;  
+ii.    facilitating the sale, purchase, advertising of properties and businesses;  
+iii.    recording persons entering a landlord or seller's property (e.g. for inspection, survey or appraisal purposes);  
+iv.    facilitating the leasing of properties (including advertising the properties) and acting as property manager;  
+v.    providing conveyancing and property settlement services;  
+vi.    providing financial advice and services;  
+vii.    for our internal business operations;  
+viii.    complying with our legal obligations;  
+ix.    advising clients of additional services or information which may be of interest;  
+x.    providing your contact details to our partners and contractors who provide us with services;  
+xi.    maintaining and updating our business infrastructure and systems;  
+xii.    statistical purposes;  
+xiii.    promoting and advertising our business, products and services;  
+xiv.    franchise purposes, including assessment of franchise applications and management of our franchises; and  
 xv.    insurance and governance purposes.
 
 c)    If we do not collect the personal information or if any of the personal information you provide is incomplete or inaccurate, we may not be able to provide the Services or those Services may be compromised.
@@ -88,85 +63,35 @@ e)    Our call centre may record our conversations for quality, compliance an
 
 The personal information we collect will depend on the Service or Services we provide to you.  It may include:
 
-a)    your name, residential or business address, contact phone numbers, email address;
-
-  
-b)    family details;
-
-  
-c)    employment details;
-
-  
-d)    financial information, including assets, liabilities, income, outgoings, spending patterns and credit reference reports;
-
-  
-e)    the value of your property;
-
-  
-f)    insurance details;
-
-  
-g)    credit card and banking details;
-
-  
-h)     Sensitive Information;
-
-  
-i)    Credit Related Information;
-
-  
-j)    information in respect to a will or estate;
-
-  
-k)    references (e.g. to support rental arrangements);
-
-  
-l)    copies of photo identification (e.g. driver's licence, passport, student ID); or
-
-  
+a)    your name, residential or business address, contact phone numbers, email address;  
+b)    family details;  
+c)    employment details;  
+d)    financial information, including assets, liabilities, income, outgoings, spending patterns and credit reference reports;  
+e)    the value of your property;  
+f)    insurance details;  
+g)    credit card and banking details;  
+h)     Sensitive Information;  
+i)    Credit Related Information;  
+j)    information in respect to a will or estate;  
+k)    references (e.g. to support rental arrangements);  
+l)    copies of photo identification (e.g. driver's licence, passport, student ID); or  
 m)    any other personal information relevant to the Service we are providing to you.
 
 **5.     How do we collect personal information?**
 
-a)    We aim to collect personal information directly from you.
-
-  
-b)    We also collect personal information:
-
-  
-i.    from your representatives (e.g. solicitor, accountant or financial adviser);
-
-  
-ii.    through our Website and by other electronic communication channels;
-
-  
-iii.    when sent to us by email or other communication from third parties;
-
-  
-iv.    from publicly available sources of information including social media;
-
-  
-v.    when you transact with our franchisees or if you apply to become a franchisee;
-
-  
-vi.    when we are required to do so by law;
-
-  
-vii.    from Strata or Bodies Corporate, Strata or Body Corporate Managers and On-Site Managers;
-
-  
-viii.    when you enter into a competition or promotion with us or participate in a survey including an 'after sales service' follow-up; and
-
-  
-ix.    from our own records;
-
-  
-x.    from our employees;
-
-  
-xi.    from our suppliers or partners; and
-
-  
+a)    We aim to collect personal information directly from you.  
+b)    We also collect personal information:  
+i.    from your representatives (e.g. solicitor, accountant or financial adviser);  
+ii.    through our Website and by other electronic communication channels;  
+iii.    when sent to us by email or other communication from third parties;  
+iv.    from publicly available sources of information including social media;  
+v.    when you transact with our franchisees or if you apply to become a franchisee;  
+vi.    when we are required to do so by law;  
+vii.    from Strata or Bodies Corporate, Strata or Body Corporate Managers and On-Site Managers;  
+viii.    when you enter into a competition or promotion with us or participate in a survey including an 'after sales service' follow-up; and  
+ix.    from our own records;  
+x.    from our employees;  
+xi.    from our suppliers or partners; and  
 xii.    from private vendors.
 
 c)    If you supply personal information to us about another person, you represent and we accept it on the basis that you are authorised to do so and that the relevant person has consented to the disclosure to us.
@@ -175,7 +100,7 @@ d)    Each time you visit our Website our server collects personal and non-pe
 
 e)     A Cookie is a piece of information that our web server may send to your machine when you visit our Websites. The Cookie is stored on your machine, but does not identify you or give us any information about your computer.  A Cookie helps us to recognise you when you re-visit the Website and to co-ordinate your access to different pages on the Website. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. If you want to do this, refer to your Browser instructions or help screen. Any information we seek to collect via cookies etc is used to better understand our customer needs and the services they are seeking from us. Cookies assist us in providing better and faster services.
 
-f)    Links on our Website may take you outside our network.  These links are provided in good faith.  However, we are not responsible for third party sites and accept no responsibility for the content, accuracy, security or function of third party sites.
+f)    Links on our Website may take you outside our network.  These links are provided in good faith.  However, we are not responsible for third party sites and accept no responsibility for the content, accuracy, security or function of third party sites
 
 **6.     Considerations when you send information to us**
 
@@ -183,12 +108,8 @@ a)    While we do all we can to protect your privacy, including investing in 
 
 b)    If you provide personal information to us electronically, there are ways you can help maintain the security of the information.  These include:
 
-i.    always close your browser when you have finished your user session;
-
-  
-ii.    do not provide personal information by using a public computer; and
-
-  
+i.    always close your browser when you have finished your user session  
+ii.    do not provide personal information by using a public computer; and  
 iii.    never disclosing your user name and password to another person.
 
 c)    You are responsible for all actions taken using your username, email or password.  If at any time you believe your username or password have been compromised, change your password and contact us immediately.
@@ -197,27 +118,13 @@ c)    You are responsible for all actions taken using your username, email or
 
 We may disclose your personal information to third parties in certain circumstances including:
 
-a)    if you agree to the disclosure;
-
-  
-b)    when we use it for the purpose for which it was collected, e.g. as part of a sale or leasing process or in the provision of another Service;
-
-  
-c)    to employees, contractors, franchisees and service providers who assist us in operating our business and providing our Services;
-
-  
-d)    in circumstances where you would reasonably be expected to consent to information of that kind being passed to a third party;
-
-  
-e)    where disclosure is required or permitted by law;
-
-  
-f)    to our Related Entities and franchises;
-
-  
-g)    if  disclosure will prevent or lessen a serious or imminent threat to someone's life or health; or
-
-  
+a)    if you agree to the disclosure;  
+b)    when we use it for the purpose for which it was collected, e.g. as part of a sale or leasing process or in the provision of another Service;  
+c)    to employees, contractors, franchisees and service providers who assist us in operating our business and providing our Services;  
+d)    in circumstances where you would reasonably be expected to consent to information of that kind being passed to a third party;  
+e)    where disclosure is required or permitted by law;  
+f)    to our Related Entities and franchises;  
+g)    if  disclosure will prevent or lessen a serious or imminent threat to someone's life or health; or  
 h)    where it is reasonably necessary for the enforcement of the criminal law, a law imposing a pecuniary penalty or for the protection of public revenue.
 
 All third parties with whom personal information is shared are required to meet our standards of personal information protection. However, we are not responsible for the conduct of third parties with respect to the handling of your personal information and we recommend that you check their privacy policies. You consent to us using your information for marketing purposes which include our Services as well as our business partners.
@@ -226,55 +133,25 @@ We do not trade or sell your personal information however we may share your data
 
 **8.     When we act as a Credit Assistance Provider**
 
-a)    When we act as a Credit Assistance Provider, we may disclosure personal information to our:
-
-  
-i.    Related Bodies Corporate;
-
-  
-ii.    Credit Reference Providers;
-
-  
-iii.    brokers;
-
-  
-iv.    approved panel of lenders;
-
-  
-v.    service providers;
-
-  
-vi.    persons taking an interest in the property either as a co-owner, insurer or security provider:
-
-  
-vii.    agents:
-
-  
-viii.    aggregators; and
-
-  
+a)    When we act as a Credit Assistance Provider, we may disclosure personal information to our:  
+i.    Related Bodies Corporate;  
+ii.    Credit Reference Providers;  
+iii.    brokers;  
+iv.    approved panel of lenders;  
+v.    service providers;  
+vi.    persons taking an interest in the property either as a co-owner, insurer or security provider:  
+vii.    agents:  
+viii.    aggregators; and  
 ix.    mortgage managers
 
 b)    We will use and disclose the personal information disclosed to us in our capacity as Credit Assistance Provider to:
 
-i.    assess whether you may qualify for a loan;
-
-  
-ii.    assist you to decide on a suitable loan;
-
-  
-iii.    assist in the compiling of information and documentation for submission to a potential lender;
-
-  
-iv.    obtain any additional information that may be required by a potential lender including obtaining a credit reference from a Credit Reference Provider or obtaining Repayment History Information;
-
-  
-v.    for administrative and compliance purposes;
-
-  
-vi.    assess and administer commission payable by you; and
-
-  
+i.    assess whether you may qualify for a loan;  
+ii.    assist you to decide on a suitable loan;  
+iii.    assist in the compiling of information and documentation for submission to a potential lender;  
+iv.    obtain any additional information that may be required by a potential lender including obtaining a credit reference from a Credit Reference Provider or obtaining Repayment History Information;  
+v.    for administrative and compliance purposes;  
+vi.    assess and administer commission payable by you; and  
 vii.    advise you of other financial products and services that may be of interest to you.
 
 **9.     Disclosure of personal information off-shore**
@@ -314,15 +191,9 @@ b)    You may request the source of any information we collect from a third p
 
 c)    If there is a reason under the Privacy Act or other law for us not to provide you with information, we will give you a written notice of refusal setting out the reasons for the refusal except to the extent it would be unreasonable to do so and the mechanisms available to you to complain about the refusal.
 
-d)    You should also contact us immediately if you believe:
-
-  
-i.    someone has gained access to your personal information;
-
-  
-ii.    we have breached our privacy obligations or your privacy rights in any way; or
-
-  
+d)    You should also contact us immediately if you believe:  
+i.    someone has gained access to your personal information;  
+ii.    we have breached our privacy obligations or your privacy rights in any way; or  
 iii.    you would like to discuss any issues about our privacy policy.
 
 **13.     Changes to our Privacy Policy**
@@ -336,12 +207,10 @@ c)    If you would like further information on our Privacy Policy or if you h
 Address: 191 Botany Road, Alexandria, NSW.   
 Telephone: 1800 621 212  
 Fax: +61 2 9319 5079  
-Email:   [customerservice@ljhooker.com](mailto:customerservice@ljhooker.com)
+Email:   [customerservice@ljhooker.com](mailto:customerservice@ljhooker.com)
 
 More information about your rights and our obligations in respect to privacy and information on making a privacy complaint are available from the Office of the Australian Information Commissioner by:
 
-website - [www.oaic.gov.au](http://www.oaic.gov.au/)  
+website - [www.oaic.gov.au](http://www.oaic.gov.au/)  
 mail - GPO Box 5218 Sydney NSW 2001  
-email - [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)
-
-Read more at http://about.ljhooker.com.au/privacy-policy#HLTT1jjpUZgvcErA.99
+email - [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)
