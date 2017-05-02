@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easil.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117084116id_/http%3A//about.easil.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easil.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502082039id_/https%3A//about.easil.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Easil
 
@@ -138,4 +138,4 @@ We are obligated to regularly review and update this policy. We therefore reserv
 
 For further information about privacy in general, please refer to the Office of the Australian Information Commissioner’s website located at [http://www.oaic.gov.au](http://www.oaic.gov.au/).
 
-_Website Privacy Policy last updated on 21 December 2015._ To download a PDF version of this Website Privacy Policy, [click here](http://about.easil.com/wp-content/uploads/Website_Privacy_Policy.pdf). Alternatively, please contact our Privacy Officer at [enquiry@easil.com](mailto:enquiry@easil.com), 13000 EASIL or Unit 2, Ground Floor, 93 Ashmore Road, Bundall, Queensland, Australia 4217 and we will gladly send you a copy free of charge.
+_Website Privacy Policy last updated on 21 December 2015._ To download a PDF version of this Website Privacy Policy, [click here](https://about.easil.com/wp-content/uploads/Website_Privacy_Policy.pdf). Alternatively, please contact our Privacy Officer at [enquiry@easil.com](mailto:enquiry@easil.com), 13000 EASIL or Unit 2, Ground Floor, 93 Ashmore Road, Bundall, Queensland, Australia 4217 and we will gladly send you a copy free of charge.
