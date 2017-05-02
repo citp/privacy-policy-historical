@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regionalhelpwanted.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109004322id_/https%3A//regionalhelpwanted.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regionalhelpwanted.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502121838id_/https%3A//regionalhelpwanted.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy | RegionalHelpWanted.com
 
