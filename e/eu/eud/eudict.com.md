@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eudict.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201224706id_/http%3A//www.eudict.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eudict.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502125913id_/http%3A//www.eudict.com/privacy.php) for the most accurate reproduction.*
 
 # EUdict | European dictionary | Privacy policy
 
@@ -10,4 +10,4 @@ EUdict take your privacy concerns seriously. We do not collect any personal info
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may place or recognize a unique cookie on your browser and use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services that may be of interest to you. Would you like more information about this practice and to know your choices about not having this information used by these companies?Click [here](http://www.google.com/privacy_ads.html) or [here](http://exponential.com/our-company/privacy/). 
 
-[EUdict Homepage](https://web.archive.org/web/20161201224706id_/http%3A//www.eudict.com/index.php)
+[EUdict Homepage](https://web.archive.org/web/20170502125913id_/http%3A//www.eudict.com/index.php)
