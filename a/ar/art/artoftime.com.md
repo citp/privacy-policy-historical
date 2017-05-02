@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artoftime.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218231812id_/http%3A//www.artoftime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artoftime.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503001044id_/http%3A//artoftime.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Art of Time
 
