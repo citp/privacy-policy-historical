@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the club937.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017141505id_/http%3A//club937.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the club937.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502135050id_/http%3A//club937.com/privacy) for the most accurate reproduction.*
 
-# Club 93.7 – Today's Hottest Jams – Flint Pop Radio
+# Club 93.7 – Today's Hottest Jamz – Flint Pop Radio
 
 Townsquare Media, Inc. and its subsidiaries and affiliates (individually or collectively, “we/our/us”) respect your privacy and are committed to protecting it through our compliance with this policy. 
 
