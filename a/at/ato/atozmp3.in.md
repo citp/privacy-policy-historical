@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the atozmp3.in privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218053853id_/http%3A//www.atozmp3.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atozmp3.in privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502203144id_/http%3A//www.atozmp3.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AtoZmp3
-
-**Search By Alphabet :[A](http://www.atozmp3.in/tag/A) | [B](http://www.atozmp3.in/tag/B) | [C](http://www.atozmp3.in/tag/C) | [D](http://www.atozmp3.in/tag/D) | [E](http://www.atozmp3.in/tag/E) | [F](http://www.atozmp3.in/tag/F) | [G](http://www.atozmp3.in/tag/G) | [H](http://www.atozmp3.in/tag/H) | [I](http://www.atozmp3.in/tag/I) | [J](http://www.atozmp3.in/tag/j) | [K](http://www.atozmp3.in/tag/K) | [L](http://www.atozmp3.in/tag/L) | [M](http://www.atozmp3.in/tag/M) | [N](http://www.atozmp3.in/tag/N) | [O](http://www.atozmp3.in/tag/O) | [P](http://www.atozmp3.in/tag/P) | [Q](http://www.atozmp3.in/tag/Q) | [R](http://www.atozmp3.in/tag/R) | [S](http://www.atozmp3.in/tag/S) | [T](http://www.atozmp3.in/tag/T) | [U](http://www.atozmp3.in/tag/U) | [V](http://www.atozmp3.in/tag/V) | [W](http://www.atozmp3.in/tag/W) | [Y](http://www.atozmp3.in/tag/Y) | [Z](http://www.atozmp3.in/tag/Z) | [1-9](http://www.atozmp3.in/tag/1-9)**
 
 **Cookies & 3rd Party Advertisements**  
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
