@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamcenter.org privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106101603id_/http%3A//www.dreamcenter.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamcenter.org privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502112537id_/http%3A//www.dreamcenter.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dream Center
 
