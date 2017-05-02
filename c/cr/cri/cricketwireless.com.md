@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the cricketwireless.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031153920id_/http%3A//www.cricketwireless.com/legal-info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketwireless.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502162716id_/https%3A//www.cricketwireless.com/legal-info/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Cricket
 
-[](https://web.archive.org/content/dam/newco/legal/privacy-policy-chinese-june-2016.pdf "privacy policy in Chinese")  |  [](https://web.archive.org/content/dam/newco/legal/privacy-policy-korean-june-2016.pdf "privacy policy in Korean")  |  [](https://web.archive.org/content/dam/newco/legal/privacy-policy-polish-june-2016.pdf "privacy policy in Polish")  |  [](https://web.archive.org/content/dam/newco/legal/privacy-policy-portuguese-june-2016.pdf "privacy policy in Portuguese")  |  [](https://web.archive.org/content/dam/newco/legal/privacy-policy-vietnamese-june-2016.pdf "privacy policy in Vietnamese")
-
-  
-
+[](https://espanol.cricketwireless.com/privacy "privacy policy in Spanish")  | [](https://web.archive.org/content/dam/newco/legal/privacy-policy-chinese-june-2016.pdf "privacy policy in Chinese")  |  [](https://web.archive.org/content/dam/newco/legal/privacy-policy-korean-june-2016.pdf "privacy policy in Korean")  |  [](https://web.archive.org/content/dam/newco/legal/privacy-policy-polish-june-2016.pdf "privacy policy in Polish")  |  [](https://web.archive.org/content/dam/newco/legal/privacy-policy-portuguese-june-2016.pdf "privacy policy in Portuguese") |  [](https://web.archive.org/content/dam/newco/legal/privacy-policy-vietnamese-june-2016.pdf "privacy policy in Vietnamese")
 
 #### Effective June 16, 2016, Cricket Wireless Privacy Policy was updated. [View the previous version >](https://web.archive.org/legal-info/privacy-policy-051815.html "view the previous privacy policy")
 
 * * *
 
-  
-
+[](https://privacy.truste.com/privacy-seal/validation?rid=491f7a65-6c4c-4baa-b9b0-7fc3060ce164)
 
 #### Application of Policy
 
@@ -155,9 +151,6 @@ Web Site Data Collection: We do not knowingly allow other parties to collect per
 
 California customers who wish to request further information about our compliance with these requirements or have questions or concerns about our privacy practices and policies may contact us at [privacypolicy@cricketwireless.com](mailto:privacypolicy@cricketwireless.com "privacy policy email address"), or write to us at Cricket Privacy Policy, 1120 20th Street, N.W., 10th Floor, Washington, DC 20036
 
-  
-
-
 * * *
 
 ## Our Cricket Privacy Policy in easy, FAQ format.
@@ -183,9 +176,6 @@ Relevant Advertising: Uses aggregate information about groups of people (like ag
 User: Anyone who visits our websites or uses our mobile applications.
 
 Website: And other terms like "Internet site," "site" and "web page" all mean the same thing, namely any page or location on the Internet, no matter what device (cell phone, tablet, laptop, PC, etc.) or protocol (http, WAP, ftp or other) is used to access the page or location.
-
-  
-
 
 #### QUESTIONS ABOUT THE SCOPE OF THIS POLICY
 
@@ -223,9 +213,6 @@ Yes, that can happen. For example:
 ##### 5\. What about business customers?
 
 We may have written product or service agreements with business customers that contain specific provisions about confidentiality, security or handling of information. When one of these agreements differs from or conflicts with this Policy, the terms of those agreements will apply. In all other instances, the terms of this Policy apply.
-
-  
-
 
 #### QUESTIONS ABOUT THE INFORMATION WE COLLECT, HOW WE COLLECT IT AND HOW WE USE IT
 
@@ -284,9 +271,6 @@ Delivering customized content, Relevant Advertising and personalized offers for 
 
 If we provide cloud services, we will only use the information you store to provide you with that service, unless we first get your permission to use it for something different. ****
 
-  
-
-
 #### QUESTIONS ABOUT INFORMATION SHARING
 
 ##### 1\. Do you share my Personal Information with other companies for them to market to me?
@@ -308,7 +292,6 @@ There are also occasions when we provide Personal Information to other companies
   * Notify, respond or provide information (including location information) to a responsible governmental entity in emergency or exigent circumstances or in situations involving immediate danger of death or serious physical injury; and
   * Notify the National Center for Missing and Exploited Children of information concerning child pornography of which we become aware through the provision of our services.
 
-  
 
 
 #### QUESTIONS ABOUT MY INFORMATION & ADVERTISING
@@ -342,7 +325,7 @@ Most browsers will allow you to delete, disable and choose what cookies can be p
 To learn how to manage cookies for:
 
   * Individual Browsers 
-    * [Internet Explorer](http://windows.microsoft.com/en-US/windows7/Block-enable-or-allow-cookies "block cookies on internet explorer") 
+    * [Internet Explorer](https://support.microsoft.com/en-us/products/internet-explorer "block cookies on internet explorer") 
     * [Internet Explorer (Mobile devices)](http://www.windowsphone.com/en-us/how-to/wp7/web/changing-privacy-and-other-browser-settings "block cookies on internet explorer mobile") 
     * [Safari](http://support.apple.com/kb/PH5042 "block cookies on safari") 
     * [Safari Mobile (iPhones and iPads)](http://support.apple.com/kb/HT1677 "block cookies on safari mobile")  
@@ -383,9 +366,6 @@ When we add new offers that use your Personal Information to customize and deliv
 
 Cricket may provide reports to advertisers and other business customers about the success of its advertising campaigns. Those reports contain aggregate information about the number of times a particular ad was viewed, when it was viewed, whether it was viewed on a mobile device or a computer, demographics associated with the viewing audience and other similar information. Your anonymous information will not be included in aggregate reports about the success of Relevant Advertising campaigns if you have opted-out of Relevant Advertising delivered by Cricket or its advertising partners.
 
-  
-
-
 #### QUESTIONS ABOUT LOCATION INFORMATION
 
 ##### 1\. What is location information?
@@ -414,9 +394,6 @@ Other companies may also be able to locate your device.  For example, your hand
 
 We urge you to review Policies of all providers.
 
-  
-
-
 #### QUESTIONS ABOUT AGGREGATE AND ANONYMOUS INFORMATION
 
 ##### 1\. Where do you get anonymous information?
@@ -439,9 +416,6 @@ Yes, we may share this information with other companies and entities for specifi
 
 
 We share this information in external reports like our External Marketing and Analytics Reports and Metric Reports.
-
-  
-
 
 #### QUESTIONS ABOUT EXTERNAL MARKETING AND ANALYTICS REPORTS
 
@@ -467,9 +441,6 @@ Yes. When we provide individual anonymous information to businesses, we require 
 
 We may use your anonymous information to provide Metrics Reports to our service suppliers. For example, we may license entertainment content, like music programming, from content providers. Our agreements with those providers may require us to provide them with Metrics Reports containing measurements and other statistics about the number of customers who used particular content at a particular time and other similar information. These reports are considered part of the underlying service and we do not sell them to other customers or suppliers.
 
-  
-
-
 #### OUR ONLINE PRIVACY POLICY FOR CHILDREN
 
 ##### 1\. Do you collect information about my children's use?
@@ -479,9 +450,6 @@ We do not knowingly collect personally identifying information from anyone under
 ##### 2\. What happens when my child is using an account not registered to them?
 
 Internet and wireless devices and services purchased for family use may be used by children without our knowledge. When that happens, information collected appears to us to be associated with the adult customer who subscribes to our services, and will be treated as the adult's information under this Policy.
-
-  
-
 
 #### QUESTIONS ABOUT DATA PROTECTION AND SECURITY
 
@@ -518,9 +486,6 @@ Yes. We are happy to help you review, correct, update, or remove the information
 
 Yes, and we're very proud of it! TRUSTe has awarded Cricket Wireless the TRUSTe Privacy Seal. As an independent third party, TRUSTe's mission is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. Our TRUSTe Privacy Seal signifies that TRUSTe has reviewed our Privacy Policy and practices for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/ "TRUSTe's program requirements"). These include transparency, accountability and choice regarding the collection and use of your Personal Information. The TRUSTe program covers only information that is collected through [www.cricketwireless.com](https://web.archive.org/home.html "Cricket's website") and does not cover our mobile applications.
 
-  
-
-
 #### QUESTIONS ABOUT FUTURE CHANGES
 
 ##### 1\. What happens if there is a change in corporate ownership?
@@ -530,9 +495,6 @@ Information about our customers and users, including Personal Information, may b
 ##### 2\. Will I be notified if there are changes to this policy?
 
 We may update this Privacy Policy as necessary to reflect changes we make and to satisfy legal requirements. We will post a prominent notice of the change on our websites. We will provide you with other appropriate notice of important changes at least 30 days before the effective date.
-
-  
-
 
 #### YOUR CHOICES & CONTROLS
 
@@ -571,9 +533,6 @@ Yes. More information about our use of CPNI and your choices about that use is a
 
 Yes. Click [here](https://web.archive.org/legal-info/customer-choices-and-controls-external-marketing-reports.html "opt out of external marketing reports") to opt-out. This opt-out also applies to the sharing of your anonymous information with other companies for their use in creating marketing and analytics reports. Although this opt out does not apply to Metrics Reports, it will apply if we combine Metrics Report information with other customer information (like demographics) to create reports that we provide to our business customers or service suppliers.
 
-  
-
-
 #### HOW TO CONTACT US ABOUT THIS POLICY
 
   * We encourage you to contact us directly at either of these addresses below for any questions about this Privacy Policy.
@@ -583,5 +542,4 @@ Yes. Click [here](https://web.archive.org/legal-info/customer-choices-and-contro
   * If you do not receive acknowledgment of your privacy inquiry or your inquiry is not addressed to your satisfaction, you may contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](https://feedback-form.truste.com/watchdog/request "contact TRUSTe Watchdog Dispute Resolution Process"). TRUSTe will serve as a liaison to resolve your concerns.
   * You also have the option of filing a complaint with the FTC Bureau of Consumer Protection, using an [online form](https://www.ftccomplaintassistant.gov/ "FTC online form"), or by calling toll-free 877.FTC.HELP (877.328.4357; TTY: 866.653.4261). Other rights and remedies also may be available to you under federal or other applicable laws.
 
-  
 
