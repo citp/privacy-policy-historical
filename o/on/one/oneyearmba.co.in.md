@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneyearmba.co.in privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122133553id_/http%3A//www.oneyearmba.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneyearmba.co.in privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502174414id_/http%3A//www.oneyearmba.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Oneyearmba.co.in
 
