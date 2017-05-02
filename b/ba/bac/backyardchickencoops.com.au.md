@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backyardchickencoops.com.au privacy policy that was archived on 2016-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160725002015id_/https%3A//www.backyardchickencoops.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backyardchickencoops.com.au privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502123747id_/https%3A//www.backyardchickencoops.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Backyard Chicken Coops
 
@@ -75,5 +75,11 @@ Links to other sites
 Problems or questions
   * If we become aware of any ongoing concerns or problems with our web sites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please contact us.
   * For more information about privacy issues in Australia and protecting your privacy, visit the Australian Federal Privacy Commissioner’s web site; <http://www.privacy.gov.au/>.
+
+
+
+**Remarketing**
+
+  * Our website uses cookies for retargeting, behaviour-based marketing and measuring advertising effectiveness. At times we may share the information gathered with our advertising partners (like Google, Facebook and Pinterest). Cookies are bits of code embedded in your browser that collect basic information about the way you access and interact with our website. They do not give us any control over your computer, or access to any sort of identifying information. The information that we do collect is used to improve our website, products, and to market our products to the people who want them. We think that’s pretty neat, but if you disagree, you can opt out of Google remarketing here: [https://www.google.com/settings/u/0/ads/anonymous](https://www.google.com/settings/u/0/ads/anonymous), Facebook remarketing here: [ Facebook Ad Settings](https://www.facebook.com/settings/?tab=ads) and Pinterest by turning off Personalization in [your account settings.](https://www.pinterest.com/settings).
 
 
