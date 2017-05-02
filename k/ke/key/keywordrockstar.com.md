@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordrockstar.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527202435id_/http%3A//www.rockstarpowersuite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordrockstar.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502034558id_/http%3A//www.rockstarpowersuite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rockstar Power Suite
 
