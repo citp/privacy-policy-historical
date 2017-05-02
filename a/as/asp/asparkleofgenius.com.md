@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asparkleofgenius.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211160445id_/http%3A//www.asparkleofgenius.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asparkleofgenius.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502094050id_/http%3A//www.asparkleofgenius.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - A Sparkle of Genius
 
@@ -82,3 +82,5 @@ This blog accepts forms of cash advertising, sponsorship, paid insertions or oth
  This blog does not contain any content which might present a conflict of interest.
 
 To get your own policy, go to http://www.disclosurepolicy.org
+
+[](https://www.pinterest.com/pin/create/button/)
