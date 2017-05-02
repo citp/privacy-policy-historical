@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the eharmony.ca privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202223019id_/http%3A//www.eharmony.ca/privacy/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.ca privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502163721id_/http%3A//www.eharmony.ca/privacy/statement) for the most accurate reproduction.*
 
 # eHarmony Canada | Read Privacy Policy For Our Dating Site
 
-eHarmony has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, www.eharmony.com, our mobile site m.eharmony.com and our eharmony mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@eHarmony.com](mailto:privacy@eHarmony.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
-
-This privacy statement discloses the privacy practices of eHarmony, Inc. and all websites owned or operated by eHarmony, Inc. and its subsidiaries and corporate affiliates.
+This privacy statement discloses the privacy practices of eHarmony, Inc. and all websites owned or operated by eHarmony, Inc. and its subsidiaries and corporate affiliates. 
 
 [](https://privacy.truste.com/privacy-seal/eharmony-com/validation?rid=e91fabd8-3c73-4d8f-bf2b-c3c0cdab3cde "TRUSTe online privacy certification")
 
@@ -97,6 +95,10 @@ eHarmony provides users the following options for changing and modifying informa
 
 We retain your PII for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable laws, and your consent to such purpose(s) remains valid after termination of your relationship with us. Your PII may be processed and stored outside of the province in which you reside and/or outside of Canada by us, an affiliate or an unaffiliated service provider for the purposes set out in this privacy statement and, under the laws of these other jurisdictions, in certain circumstances foreign courts, law enforcement agencies or regulatory agencies may be entitled to access your personal information.
 
+## Dispute Resolution
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
 ## Acceptance of Privacy Statement
 
 Your use of our website(s), including any dispute concerning privacy, is subject to this privacy statement and the applicable Terms and Conditions of Service. **BY USING OUR WEBSITE, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY STATEMENT AND THE APPLICABLE TERMS AND CONDITIONS OF SERVICE.**
@@ -107,6 +109,6 @@ Your continued use of any portion of our website following posting of the update
 
 ## Effective Date
 
-This privacy statement was last revised on May 12, 2016.
+This privacy statement was last revised on December 7, 2016.
 
 Copyright © 2000-2016 eHarmony, Inc. All Rights Reserved. EHARMONY, COMPATIBILITY PROFILE, COMPATIBILITY MATCHING SYSTEM, 29 DIMENSIONS, EHARMONY LABS, SECURE CALL, PROFILE ADVISOR and several other marks, colors, and images are registered and common law trademarks of eHarmony, Inc. Other trademarks and brands are the property of their respective owners.
