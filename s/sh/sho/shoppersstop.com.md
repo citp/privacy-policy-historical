@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shoppersstop.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207115326id_/https%3A//www.shoppersstop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppersstop.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502033408id_/https%3A//www.shoppersstop.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Shoppers Stop
 
 Shoppers Stop Limited (SSL) and its subsidiaries and divisions, including Shoppersstop.com, respect your privacy. This Privacy Policy outlines the manner your data is collected and used by SSL. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Shoppersstop.com you agree to the collection and use of your data by Shoppersstop.com in the manner provided in this Privacy Policy.
 
-If you have questions or concerns regarding this statement, you can at (022) 6648 6648 (9:00 am to 9:00 pm) or at estore@shoppersstop.com The Policy does not apply to the procedures and practices followed by entities that are not managed, owned or controlled by Shoppersstop.com or to the people that are not engaged, employed or managed by Shoppersstop.com
+If you have questions or concerns regarding this statement, you can at (022) 6129 0400 (9:00 am to 9:00 pm) or at estore@shoppersstop.com The Policy does not apply to the procedures and practices followed by entities that are not managed, owned or controlled by Shoppersstop.com or to the people that are not engaged, employed or managed by Shoppersstop.com
 
 ## Through this Document, We Wish to Make you:
 
@@ -200,7 +200,7 @@ Supplying personally identifiable information is entirely voluntary. You are not
 
 You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. Shoppersstop.com reserves the right to send you certain service related communication, considered to be a part of your Shoppersstop.com account without offering you the facility to opt-out. You may update your information and change your account settings at any time.
 
-We provide you with the opportunity to opt-out of having your email address used for certain purposes, when we ask for this information. For example, if you purchase a product / service but do not wish to receive any additional marketing material from us, you can indicate your preferences. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by selecting your preferences in "My Account". If you still face an issue then you may Call us at (022) 6648 6648 or Mail at [estore@shoppersstop.com](mailto:estore@shoppersstop.com)
+We provide you with the opportunity to opt-out of having your email address used for certain purposes, when we ask for this information. For example, if you purchase a product / service but do not wish to receive any additional marketing material from us, you can indicate your preferences. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by selecting your preferences in "My Account". If you still face an issue then you may Call us at (022) 6129 0400 or Mail at [estore@shoppersstop.com](mailto:estore@shoppersstop.com)
 
 If your personally identifiable information or email address change, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing our Customer Support Mail at [estore@shoppersstop.com](mailto:estore@shoppersstop.com)
 
@@ -276,7 +276,7 @@ Shoppersstop.com is concerned about the safety and security of our customers. Ac
 
   * Shoppersstop.com will never e-mail or call a customer and ask that they disclose or verify their Shoppersstop.com password, credit card, or banking account number. Such information should only be submitted on the web page forms, when completing an order on Shoppersstop.com or when making updates to Your Account areas and never on phone or e-mail to us. If you receive a suspicious e-mail with a link to update your account information, do not click on the link--instead go directly to https://www.shoppersstop.com and then to your account.
   * If you are contacted by, or receive an unsolicited e-mail from an unknown entity impersonating as Shoppersstop.com or any of its sister concerns or associates, and are asked to confirm or provide your password or personal or banking information, simply disregard the request and report the incident to Shoppersstop.com for investigation.
-  * Customers should always carefully review order and shipment confirmation e-mails to ensure that they are legitimate and have been sent by Shoppersstop.com. To do this, simply cross-reference confirmation e-mails with the transaction history found in your account area. If you receive shipment confirmation e-mail for a transaction you have not done, report the incident to Shoppersstop.com
+  * Customers should always carefully review order and shipment confirmation e- mails to ensure that they are legitimate and have been sent by Shoppersstop.com. To do this, simply cross-reference confirmation e-mails with the transaction history found in your account area. If you receive shipment confirmation e-mail for a transaction you have not done, report the incident to Shoppersstop.com
   * A word of caution is that never disclose any confidential information such as password in any communication with us or with any of our employee. Shoppers Stop will never ask for such information over e-mails or phone.
   * If you receive an e-mail asking for personal details such as password never respond to it.
   * A phishing email will normally have a tone of urgency – like "Your account will be temporarily suspended" and therefore please "Login to keep your account active." Please remember Shoppers Stop will NEVER send such emails to its customers.?
@@ -304,7 +304,7 @@ Fraudsters send genuine-looking emails that contain viruses and Trojans (A Troja
 
 ## Here are a few important action points that you should bear in mind
 
-  * Keep your PC updated with the latest anti-virus / anti-spyware software.
+  * Keep your PC updated with the latest anti-virus / anti- spyware software.
   * Install a personal firewall on your PC to protect your account.
   * Keep your PC updated with the latest security patches and, most importantly,
   * Do not click on links or open attachments in unknown or unsolicited (spam) emails
