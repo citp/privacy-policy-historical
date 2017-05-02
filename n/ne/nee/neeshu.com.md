@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neeshu.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217133829id_/http%3A//neeshu.com/privacy-policy-for-neeshu-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neeshu.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502212003id_/http%3A//neeshu.com/privacy-policy-for-neeshu-com) for the most accurate reproduction.*
 
 # Privacy Policy - Neeshu.com News Reviews Health & Comics blog
 
