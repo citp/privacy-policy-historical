@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chixr.us privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229132835id_/http%3A//www.chixr.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chixr.us privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502041124id_/http%3A//www.chixr.us/privacy) for the most accurate reproduction.*
 
 # ChixRus Privacy Policy
 
