@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micromedexsolutions.com privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007173658id_/http%3A//www.micromedexsolutions.com/home/dispatch/CS/3AEE5E/ND_CPR/Login/DUPLICATIONSHIELDSYNC/C706FF/PFActionId/pf.ShowPage/PageId/pf.Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micromedexsolutions.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502103036id_/http%3A//www.micromedexsolutions.com/home/dispatch/CS/746753/ND_CPR/Login/DUPLICATIONSHIELDSYNC/F1D88F/PFActionId/pf.ShowPage/PageId/pf.Privacy) for the most accurate reproduction.*
 
 # Truven Health Analytics - Community Privacy Statement
 
