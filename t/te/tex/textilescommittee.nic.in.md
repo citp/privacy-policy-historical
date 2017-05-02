@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textilescommittee.nic.in privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224125747id_/http%3A//textilescommittee.nic.in/footer-links/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textilescommittee.nic.in privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502075824id_/http%3A//www.textilescommittee.nic.in/footer-links/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Textiles Committee (Ministry of Textiles, Government of India)
 
