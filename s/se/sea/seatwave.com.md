@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seatwave.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018035103id_/http%3A//www.seatwave.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatwave.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502105248id_/http%3A//www.seatwave.com/info/privacypolicy) for the most accurate reproduction.*
 
 # Tickets | Buy & Sell Concert, Sport & Theatre Tickets | Seatwave.com
 
@@ -74,7 +74,7 @@ When you create an account, purchase or sell tickets or download our apps, we ma
 
 If you wish to withdraw any consent you have provided to us for such use of your personal information, please [contact us](http://help.seatwave.com/anonymous_requests/new) or tell us about your preferences using the methods described in this section.
 
- _You understand that if you choose not to give us consents, or if you withdraw consents, you may not be able to take advantage of one or more features we offer. ****_
+ _You understand that if you choose not to give us consents, or if you withdraw consents, you may not be able to take advantage of one or more features we offer._
 
 In addition to [contacting us](http://help.seatwave.com/anonymous_requests/new) you can **opt out** in the following ways:
 
@@ -128,7 +128,7 @@ We may link to third party sites or services we don't control
 
 Feel free to contact us if you have any questions, complaints or require a copy of information we hold about you
 
-If you have any questions or complaints about this Policy or any privacy concerns, or would like to request copies of the information we hold about you, please [contact **** us](http://help.seatwave.com/anonymous_requests/new). Please do not include your credit card number or other financial or sensitive information in your email.
+If you have any questions or complaints about this Policy or any privacy concerns, or would like to request copies of the information we hold about you, please [contact us](http://help.seatwave.com/anonymous_requests/new). Please do not include your credit card number or other financial or sensitive information in your email.
 
 To correct, amend or update information you have given us, or in order to withdraw a consent you have given us you can log into your account.
 
