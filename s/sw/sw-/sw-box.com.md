@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sw-box.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224160050id_/http%3A//www.sw-box.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sw-box.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503162707id_/http%3A//www.sw-box.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Safe, Secure Online Shopping - From Professional Wholesale Distributor
 
