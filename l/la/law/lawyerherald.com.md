@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawyerherald.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202121241id_/http%3A//www.lawyerherald.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyerherald.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504001259id_/http%3A//www.lawyerherald.com/privacypolicy) for the most accurate reproduction.*
 
 # Lawyer Herald
 
