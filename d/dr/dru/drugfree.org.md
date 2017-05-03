@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drugfree.org privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203143839id_/http%3A//www.drugfree.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugfree.org privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503093035id_/http%3A//drugfree.org/privacy) for the most accurate reproduction.*
 
-# Privacy - Partnership for Drug-Free Kids
+# Privacy Policy - Partnership for Drug-Free Kids - Where Families Find Answers
 
 ### Privacy Assurance
 
