@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the collegeweeklive.com privacy policy that was archived on 2016-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161124152315id_/https%3A//www.collegeweeklive.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the collegeweeklive.com privacy policy that was archived on 2017-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170503173222id_/http%3A//www.collegeweeklive.com/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" onclick="$('#loginButton').removeClass('open');" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
     
@@ -14,9 +14,11 @@
 <link rel="stylesheet" type="text/css" href="/css/bootstrap.css">
 <link rel="stylesheet" type="text/css" href="/css/jquery-ui.min.css">
 <link rel="stylesheet" type="text/css" href="/css/_platformq.css">
+<link rel="stylesheet" type="text/css" href="/css/pqMultiSelect.css">
 <link rel="stylesheet" type="text/css" href="/css/cwl-custom.css">
 
 <link href="//fonts.googleapis.com/css?family=Roboto:100,400,500,600,700,400italic,100italic,700italic" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet">
 
 <!--[if lt IE 6]>
     <link rel="stylesheet" type="text/css" href="/css/bootstrap-ie6.css">
@@ -145,10 +147,11 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 		 		<a href="/counselors/professional-development">Professional Development</a>
 
               </li>
-              <!-- <li>
+              <!-- 
+              <li>
 		 		<a href="/counselors/team-bios/counselor-team">Team Bios</a>
-              </li> -->
-              
+              </li>
+              -->
     </ul>
 
 </li>
@@ -177,33 +180,16 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
         </ul>
         <ul class="nav pull-right border-top-none hidden-desktop">
           <li class=""> 
-<a href="/login.html">Login</a>
+<a href="/login">Login</a>
           </li>
           <li class="" style="width:100%"> 
-<a href="/sign-up" class=" login" style="width:100%">Sign up</a>
+<a href="/go" class=" login" style="width:100%">Sign up</a>
            
           </li>
         </ul>
-        <ul class="nav pull-right border-top-none visible-desktop">
-            <li id="loginButton" style="width: 100% !important" onclick="(event.stopPropagation ? event.stopPropagation() : event.cancelBubble=true); $('#loginButton').toggleClass('open'); notifyOthers();"> <button class="dropdown-toggle login">Login/Sign up</button>
-            <ul class="dropdown-menu border-top-none padding-bottom-none" id="profile" style="padding: none !important; margin:none !important" onclick="(event.stopPropagation ? event.stopPropagation() : event.cancelBubble=true);">
-
-             
-              <li class="row-fluid margin-bottom-none" style="padding: none !important; margin:none !important">
-            
-              <form action="/j_spring_security_check" method="post" class="span3 login-form margin-bottom-none" style="padding: none !important; margin:none !important">
-							<input type="text" name="j_username" class="" onblur="if(this.value=='') this.value='Email';" value="Email" onclick="this.value='';">
-                          
-			                <input type="Password" name="j_password" class="" onblur="if(this.value=='') this.value='Password';" value="Password" onclick="this.value='';" style="">
-                  
-							<button type="submit" class="btn btn-info submit"><i class="font-icon-switch" aria-hidden="true"></i>&nbsp;Login</button>
-                          
-						</form>
-                       
-                         </li>
-                         <li class="divider margin-bottom-none margin-top-15 border-bottom-none"></li>
-                         <li><a href="/sign-up"><strong>Sign up</strong> </a>
-            </li></ul>
+                    <ul class="nav pull-right border-top-none visible-desktop">
+          <li style="width: 100% !important">
+<a href="/go" class="dropdown-toggle login" style="width:100%">Sign up/Log in</a>
           </li>
         </ul>
       </div>
@@ -587,7 +573,7 @@ function notifyOthers(){
               <img src="https://d1l2atlc7o8lye.cloudfront.net/images/socialMedia/footer-snapchat-2x.png" alt="YouTube Icon" width="40px" class="pull-left margin-left-10 margin-right-10 margin-top-5 img-rollover" title="Follow CollegeWeekLive on Snapchat"></a>
             <a href="https://www.linkedin.com/company/collegeweeklive" target="_blank" class="social-links">
               <img src="https://d1l2atlc7o8lye.cloudfront.net/images/socialMedia/footer-linkedin-2x.png" alt="YouTube Icon" width="40px" class="pull-left margin-left-10 margin-right-10 margin-top-5 img-rollover" title="Follow CollegeWeekLive on LinkedIn"></a>            
-              <a href="https://blog.collegeweeklive.com" target="_blank" class="social-links">
+              <a href="http://blog.collegeweeklive.com" target="_blank" class="social-links">
               <img src="https://d1l2atlc7o8lye.cloudfront.net/images/socialMedia/footer-blog-2x.png" alt="Blog Icon" width="40px" class="pull-left margin-left-10 margin-right-10 margin-top-5 img-rollover" title="Read the CollegeWeekLive Blog"></a>
           </div>    
       </div>
@@ -624,13 +610,15 @@ function notifyOthers(){
                <a href="/press">Press</a>
     </li>
  <li>
-               <a href="/affiliates">Affiliates </a>
+               <a href="/affiliates">Affiliates</a>
     </li>
-    <li><a href="http://collegeweeklive.com/international"> International Site</a>
+<li>
+               <a href="/international">International Site</a>
+    </li> 
     
         
     
-    </li>
+    
           </ul>
         </div>
       </div>
