@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the judgify.me privacy policy that was archived on 2015-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150817073958id_/https%3A//www.judgify.me/l/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the judgify.me privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503165046id_/https%3A//www.judgify.me/l/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Judgify
 
