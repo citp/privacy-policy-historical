@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aw-bc.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012203928id_/https%3A//www.pearsonhighered.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aw-bc.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503070639id_/https%3A//www.pearsonhighered.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
