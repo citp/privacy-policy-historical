@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zgla.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423232101id_/https%3A//www.zgla.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zgla.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503114728id_/https%3A//www.zgla.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy - ZERO GRAVITY
 
