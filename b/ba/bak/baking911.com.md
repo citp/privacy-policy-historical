@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baking911.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228135637id_/http%3A//www.craftybaking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baking911.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503055340id_/http%3A//www.craftybaking.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CraftyBaking | Formerly Baking911
 
