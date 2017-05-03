@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devmate.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216212537id_/http%3A//devmate.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devmate.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503043039id_/http%3A//devmate.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy | DevMate
 
