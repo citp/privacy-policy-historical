@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the productreportcard.com privacy policy that was archived on 2016-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161217175509id_/http%3A//www.productreportcard.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the productreportcard.com privacy policy that was archived on 2017-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170503021026id_/http%3A//www.productreportcard.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Product Report Card's privacy policy">
+<link rel="canonical" href="http://www.productreportcard.com/privacy-policy">
 <meta name="author" content="">
 <link rel="shortcut icon" href="/favicon.ico">
 <title>Product Report Card Privacy Policy</title>
@@ -92,7 +93,7 @@
 														<li><a href="/Best-Refrigerator">Refrigerators</a></li>
 														<li><a href="/Best-Dishwasher-Reviews/Compare">Dishwashers</a></li>
 														<li><a href="/Best-Kitchen-Faucet">Kitchen Faucets</a></li>
-														<li><a href="/Best-Coffee-Maker-Reviews/Compare">Coffee Makers</a></li>
+														<li><a href="/Best-Coffee-Maker">Coffee Makers</a></li>
 													</ul>
 												</div>
 												<div class="col-sm-4">
@@ -294,7 +295,7 @@
 					</div>
 					<div class="row">
 						<div class="col-md-12 footer_copy">
-							 Copyright © 2016 ProductReportCard.com, LLC. All rights reserved.<br>
+							 Copyright © 2017 ProductReportCard.com, LLC. All rights reserved.<br>
 							Reviews, ratings, and buying guides written by <a href="https://plus.google.com/u/0/118069610836241773608">Mary Griffin</a> and her team.
 						</div>
 					</div>
@@ -388,14 +389,24 @@ _qevents.push({ qacct:"p-rK6LQzvucqLb9" });
 		            url: '/api/authenticate',
 					async : false,
 		            success: function(response) {
-		                if ((response != null) && (response.flag == "success")) {
-							$("#loginModalForm").submit();
-		                }else{
-		                    alert('The username and password you have entered is incorrect.  Please try again.');
-		                }
+		                if (response != null) {
+		                		                    switch(response.flag) {
+                                case "success":
+                                    $("#loginModalForm").submit();
+                                    break;
+                                case "invalid_credentials":
+                                    alert('The username and password you have entered is incorrect.  Please try again.');
+                                    break;
+                                case "account_inactive":
+                                    alert('This account is not activated.  Please check your email for your activation link or contact support if you believe you have received this message in error.');
+                                    break;
+                            }
+		                } else {
+		                    alert("We had an error trying to log you in . Please try again");
+                        }
 		            },
 					error: function() {
-						alert("The username and password you have entered is incorrect.  Please try again.");
+						alert("We had an error trying to log you in . Please try again");
 					}
 		        });
 		        return false; // cancel original event to prevent form submitting
