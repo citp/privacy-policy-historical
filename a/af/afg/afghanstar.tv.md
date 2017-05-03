@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afghanstar.tv privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227082043id_/http%3A//www.afghanstar.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afghanstar.tv privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503130204id_/http%3A//www.afghanstar.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Afghan Star
 
