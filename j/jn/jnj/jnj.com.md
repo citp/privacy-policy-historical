@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jnj.com privacy policy that was archived on 2016-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160920225134id_/http%3A//www.jnj.com/others/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jnj.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503192018id_/https%3A//www.jnj.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Johnson & Johnson
 
@@ -40,7 +40,7 @@ We also use information from or about you:
 
 We also disclose information collected through the Site:
 
-\- to our affiliates for the purposes described in this Privacy Policy. A list of our affiliates is available here [**http://www.investor.jnj.com/governance/sec-filings.cfm**](http://www.investor.jnj.com/governance/sec-filings.cfm)(click on the link for Form 10K, Exhibit 21, under “SEC Filings”). **Johnson & Johnson Services, Inc. **is the party responsible for the management of the jointly-used Personal Information;
+\- to our affiliates for the purposes described in this Privacy Policy. A list of our affiliates is available here <http://www.investor.jnj.com/sec.cfm> (click on the link for Form 10K, Exhibit 21, under “SEC Filings”). **Johnson & Johnson Services, Inc. **is the party responsible for the management of the jointly-used Personal Information;
 
 \- to our third party partners with whom we offer a co-branded or co-marketed promotion;
 
@@ -88,4 +88,5 @@ We may change this Privacy Policy. Any changes to this Privacy Policy will becom
 
  **CONTACTING US**
 
-If you have any questions about this Privacy Policy, please contact us by visiting our [Contact Us](http://www.jnj.com/contact) page.
+If you have any questions about this Privacy Policy, please contact us by visiting our [Contact Us](https://www.ccc-consumercarecenter.com/universal-contact-us/us-jnj-ucu/www.jnj.com) page.  
+ 
