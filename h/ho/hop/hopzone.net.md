@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hopzone.net privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024034957id_/http%3A//www.hopzone.net/site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hopzone.net privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503104427id_/http%3A//www.hopzone.net/site/privacy_policy) for the most accurate reproduction.*
 
 # 
 
