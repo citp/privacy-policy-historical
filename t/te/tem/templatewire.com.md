@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatewire.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230151558id_/http%3A//www.templatewire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatewire.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503095430id_/http%3A//www.templatewire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TemplateWire
 
