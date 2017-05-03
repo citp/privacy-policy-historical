@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the extly.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130083206id_/http%3A//www.extly.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extly.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503051248id_/http%3A//www.extly.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Extly Extensions
-
-Black Friday / Cyber Monday is here! --- 30% OFF --- Coupon BLCKFR2016
 
 [ ](http://www.extly.com/ "Extly.com - Extensions for Joomla!, autotweet, social content management, auto tweet, modules for search and extensions for SobiPro.")
 
