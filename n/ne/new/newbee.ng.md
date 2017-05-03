@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newbee.ng privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605211826id_/http%3A//www.newbee.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbee.ng privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503075931id_/http%3A//www.newbee.ng/privacy-policy) for the most accurate reproduction.*
 
 # Baby Online Store | Privacy Policy | Newbee Nigeria
 
