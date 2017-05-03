@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the zukuladnetwork.com privacy policy that was archived on 2016-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160712082121id_/https%3A//zukuladnetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zukuladnetwork.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503195900id_/https%3A//zukuladnetwork.com/privacy) for the most accurate reproduction.*
 
-# 
-
- 
+# Zukul Ad Network
 
 Zukul Ad Network (hereinafter referred to as ZAN) is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the zukuladnetwork.com Web site and governs data collection and usage. By using the ZAN website, you consent to the data practices described in this statement. For the purpose of this Privacy Statement, the "ZAN Web Site" shall have the same meaning as defined in the ZAN Terms Of Use. 
 
