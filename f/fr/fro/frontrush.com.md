@@ -1,91 +1,228 @@
-> *The following text is extracted and transformed from the frontrush.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503233301id_/http%3A//www.frontrush.com/web/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontrush.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503112539id_/https%3A//www.frontrush.com/web/privacypolicy.html) for the most accurate reproduction.*
 
 # Front Rush::Privacy Policy
 
-##### B. What Information is collected on Our Web Sites?
+#### FRONT RUSH PRIVACY POLICY
 
-##### 1\. User Provided Information
+  
 
-We collect two types of personally identifying information from users: Personal Information (such as names and contact details) and aggregated data (such as information about traffic patterns on the Web Sites, for example, how many users log onto the Web Site on a daily basis). We collect Personal Information from users of our Web Site, for example, through such users’ activities, transactions and completion of online forms on our Web Site. Such information may be collected, for example, when users register or subscribe for accounts or features on our Web Site, complete surveys, contribute to a chat room, bulletin board, list serve, blog, wiki or other open forum that we may make available on or through our Web Site, submit a comment or question to us using a “contact us” or similar feature on our Web Site, send us an e-mail, or in any other way submit information to us via our Web Site.
 
-##### 2\. Web Site Usage Information
+######### Effective October 21, 2016
 
-##### (i) Cookies
+Welcome to the digital services offered by Front Rush LLC (“Front Rush”, “we”, “us” or “our”). Front Rush respects your privacy. This Privacy Policy tells you how we will use the information entrusted to us when you visit https://www.frontrush.com, https://www.coachpacket.com, https://recruitspot.com, and any other online site or mobile application that links to this Privacy Policy (collectively the “Services”). Unless a customer has a separate agreement with Front Rush that governs his/her use of the Front Rush web and mobile based application software, this Privacy Policy also applies to the content that customers store on our system, including any personal information.
 
-We may use “cookies” to keep, and sometimes track, information about you. Cookies are small data files that are sent to your browser or related software from a web server when you visit it and are stored on your computer’s hard drive for record keeping purposes. Cookies track where you travel on our Web Site and what you look at on it. They may store your username and password. A cookie may enable us to relate your use of our Web Sites to other information about you, including your Personal Information. These purposes serve to improve and personalize your experience on our Web Sites.   
-You may occasionally get cookies from our advertisers, which is standard in the internet industry. We do not control these cookies, and these cookies are not subject to our Policy.   
-Most web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. Additionally, if you have a Flash player installed on your computer, your Flash player can be set to reject or delete Flash cookies. However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, the Web Site or certain areas or features of our Web Site.
+  
 
-##### (ii) Clear GIFs
 
-We may use “clear GIFs” (a/k/a “web beacons” or “pixel tags”) or similar technologies, on our Web Site and in our communications with you to enable us to know whether you have visited a web page or received a message. A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a web page or in an e-mail or other type of message, which is retrieved from a remote site on the internet enabling the verification of an individual’s viewing or receipt of a web page or message. A clear GIF may enable us to relate your viewing or receipt of a web page or message to other information about you, including your Personal Information.
+##### Collection of Information
 
-##### (iii) IP Address and Clickstream Data
+We collect or receive the following general types of information when you use the Services:
 
-Aggregated information, such as which pages users access or visit and information volunteered by users, such as survey information and/or Web Site registrations, is collected through various methods. For example, our server may automatically collect data about your server’s internet address when you visit us. This information, known as an Internet Protocol Address, or IP Address, is a number that is automatically assigned to your computer by your internet service provider whenever you’re on the internet. When you request pages from our Web Site, our servers may log your IP Address and sometimes your domain name. Our server may also record the referring page that linked you to us (e.g., another web site or a search engine); the pages you visit on our Web Site; the web site you visit after our Web Site; other information about the type of web browser, computer, platform, related software and settings you are using; any search terms you have entered on our Web Site or a referral site; and other web usage activity and data logged by our web servers. We use this information for internal system administration, to help diagnose problems with our server, and to administer our Web Site. Such information may also be used to gather broad demographic information, such as country of origin and internet service provider. We may also link this information with your Personal Information when we feel that it is necessary to enforce compliance with our rules and policies or Terms of Use or to protect our Web Site, customers or others.   
-Any or all of these activities with regard to Web Site usage information may be performed on our behalf by our services providers. 
+  
 
-##### C. How is the Personal Information Used?
 
-We use both personal and aggregated information we collect for multiple purposes. The Personal Information may be used to improve the content of the Web Site, to customize the content and/or layout of the Web Site for each individual user, and to notify users about updates to the Web Site or promotional offers or opportunities that we believe will be of interest to you. We will use the Personal Information you provide to our Web Site, for example, to respond to your requests and to provide you with our product and service offerings. For example, we will process your orders, respond to your requests and inquiries and provide you with the services and features offered on or through our Web Site. We may also use your Personal Information to maintain our internal record keeping. Late payments, missed payments, or other defaults on your account may be reflected in your credit report. We may match information collected from you through different means or at different times, including both Personal Information and Web Site usage information, and use such information along with information obtained from other sources, including third parties. In addition, we may send you notices (for example, in the form of e-mails, mailings, and the like), and otherwise correspond with you, about products, services, companies and events, sponsored by us and others, that we think might interest you. You may opt-out of receiving such notices from us, at any time, by following the instructions in the Right to Opt-Out section below.   
-We may analyze user behavior as a measure of interest in, and use of, our Web Site and e-mails, both on an individual basis and in the aggregate. We may also use information provided to us on an anonymous aggregated basis for purposes of analyzing traffic and usage patterns.
+Information You Provide Directly. You may provide information directly to us through the Services in several different ways. For example, you may respond to specific questions, communicate with us via email or feedback forms, complete online registration forms or questionnaires, and subscribe to email newsletters or other similar communications. The types of information you may provide directly include the following, as applicable:
 
-##### (v) Aggregate Statistics
+  
 
-We may disclose aggregate statistics regarding user behavior as a measure of interest in, and use of, our Web Site and e-mails to third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user.
 
-##### (vi) Our Right to Disclose Information Including Legally Compelled Disclosures
+  * Name;
+  * Street address;
+  * Email address;
+  * Telephone number;
+  * Date of birth/age;
+  * Height/weight;
+  * Gender;
+  * Photograph;
+  * Occupation;
+  * Athletic information (e.g., sport and position);
+  * School;
+  * Graduation Year;
+  * Academic information (e.g., GPA, SAT/ACT score, awards/honors, and extracurricular activities);
+  * Payment information (e.g., credit card number and debit card number);
+  * User ID;
+  * Password; and
+  * Other relevant information.
 
-We have the right, at our sole discretion, to disclose information posted on our Web Site and any other information you provide us including Personal Information, to third parties, including law enforcement personnel and in response to a subpoena or other lawful process potentially compelling disclosure of information without an obligation to provide prior notice to you. We are not obligated to contest any subpoenas or other requests for such information. You agree to all the terms and conditions of our Policy, including our right to disclose information provided as described herein as a condition of submitting a comment or content.   
-Such disclosure may be made, at our sole discretion, when we have reason to believe that someone has committed, or will commit, unlawful acts or acts that endanger the health or safety of another; is causing injury to, or interference with, our rights or property, other users of the Web Site, or anyone else that could be harmed by such activities. In some situations, we may share the information you provide us, including your Personal Information, on a confidential basis, with third parties who perform a particular service on our behalf, such as sending e-mails.
 
-##### (vii) Business Transfer
 
-In the event that Front Rush or any of its subsidiaries or affiliates, or substantially all of the assets of Front Rush or any of its subsidiaries or affiliates, are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, all information, including Personal Information may be one of the transferred assets. For purposes of this policy, an “affiliate” of Front Rush or its subsidiaries is an entity that is under the control of, or under common control with, that entity (and for these purposes, a company controlling twenty 20% percent or more of the voting stock of another entity shall be deemed to control such entity).
+Information We Collect Automatically. We collect certain information about you and your computer automatically when you use the Services. Automatically collected information may include:
 
-##### F. Security
+  
 
-##### 1\. General
 
-No transmission of data over the internet is guaranteed to be completely secure. It may be possible for third parties not under the control of Front Rush to intercept or access transmissions or private communications unlawfully, including in the case of your contacting us by e-mail or a “contact us” or similar feature on our Web Site. Accordingly, though Front Rush may take reasonable steps to protect the security and integrity of all Personal Information provided to this Web Site, due to the inherent nature of the internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the internet or while stored on our system or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers. Any such transmission is done at your own risk.   
-You may be able to create an account on our Web Site with a username and password. If so, you are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any access to or use of the Web Site by you or any person or entity using your password, whether or not such access or use has been authorized by or on behalf of you, and whether or not such person or entity is your employee or agent. You agree to (a) immediately notify Front Rush of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session. It is your sole responsibility to control the dissemination and use of your password, control access to and use of your account, and notify Front Rush when you desire to cancel your account on this Web Site. We will not be responsible or liable for any loss or damage arising from your failure to comply with this provision.We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.   
-In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail or by other means as required by law. You consent to our use of e-mail as a means of such notification.
+  * The type of web browser and operating system you have used to access the Services;
+  
 
-##### 2\. Phishing
+  * Your IP address (which is a number automatically assigned to your computer when you access the Internet and can be used to derive your general geographic location);
+  
 
-With identity theft a continuing problem, it has become increasingly common for unauthorized individuals to send e-mail messages to consumers, purporting to represent a legitimate company such as a bank or on-line merchant, requesting that the consumer provide personal, often sensitive information. Sometimes, the domain name of the e-mail address from which the e-mail appears to have been sent, and the domain name of the web site requesting such information, appears to be the domain name of a legitimate, trusted company. In reality, such sensitive information may be collected by an unauthorized individual to be used for purposes of identity theft. This illegal activity has come to be known as “phishing.”   
-If you receive an e-mail or other correspondence requesting that you provide any sensitive information (including your Web Site password or credit card information) via e-mail or to a web site that does not seem to be affiliated with our Web Site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at ______________.com[supply].
+  * Your device information (which may include information about the mobile device you use to access our mobile application, including the hardware model, operating system and version, unique device identifiers, and mobile network information);
+  
 
-##### G. Children
+  * The website you visited before you came to the Services; and
+  
 
-Front Rush does not knowingly collect personally identifiable information from children under the age of 13. Children ages 13 to 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on Front Rush sites. No one under age 13 is authorized to provide any Personal Information or use our public discussion areas, forums and chat rooms. Front Rush does not knowingly collect Personal Information from children under the age of 13.
+  * Information about the content and webpages you view, clickstream patterns, dates and times that the Services are accessed, and the features you access on the Services that we collect using cookies, Web beacons, and similar technologies.
 
-##### H. Third Party “Linked-To” Web Sites
 
-When you are on our Web Site you may have the opportunity to visit, or link to, other web sites not operated by Front Rush, including other web sites operated by our affiliates, by service vendors, or by unaffiliated third parties. These web sites may collect personal information about you. Front Rush does not control web sites that are operated by these entities and is not responsible for the information practices of these web sites. Our Policy does not address the information practices of those other web sites. The privacy policies of web sites operated by other affiliates of Front Rush are located on those web sites.
 
-##### I. Miscellaneous
+Social Networking Information. If applicable, you log in to the Services through a social networking account (e.g., Facebook), we may collect information about you from that social networking account, including your name, email address, birthday, profile photograph, and other information associated with your social networking account.
 
-##### (i) Consent to Processing
+Information from Commercially Available Sources. We may receive additional information about you from other sources, such as data cooperatives and public databases.
 
-We control and operate our Web Site from our offices in the United States of America. By providing Personal Information to this Web Site, you understand and consent to such collection, maintenance, processing and transfer of such information. We do not represent that materials on the Web Site are appropriate or available for use in other locations. Persons who choose to access the Web Site from other locations do so on their own initiative, and are responsible for compliance with local laws, if and to the extent local laws are applicable. All parties to this Policy waive their respective rights to a trial by jury.
+  
 
-##### (ii) Changes to this Policy
 
-Front Rush reserves the right to change or update this Policy, or any other of their policies or practices, at any time, and will notify users of this Web Site by posting such changed or updated Policy on this page. Any changes or updates will be effective immediately upon posting to this Web Site.
+We may combine all of the information we collect or receive about you and use or disclose it in the manner described in this Privacy Policy.
 
-##### (iii) Contact Us
+##### Use of Information
 
-If you have any questions or comments regarding our privacy practices, you may contact us at Front Rush, LLC 62 South Main Street Yardley, PA 19067 (215) 489-2100
+We use the information we collect and receive for the following general purposes:
 
-##### (iv) More Information
+  
 
-Want more information? Check out these helpful links…
 
-(v)Your California Privacy Rights. A business subject to California Civil Code section 1798.83 is required to disclose to its California customers, upon request, the identity of any third parties to whom the business has disclosed personal information within the previous calendar year, along with the type of personal information disclosed, for the third parties' direct marketing purposes. If you are a California resident and would like to make such a request, please submit your request in writing to:   
-Front Rush, LLC 62 South Main Street Yardley, PA 19067   
-Please note that under California law, businesses are only required to respond to a customer request once during any calendar year.
+  * To provide you with the Services, products, and information you request and with legal notices or information about changes to this Privacy Policy or our Terms of Use;
+  
 
-(vi)Governing Law/Consent to Jurisdiction. This Privacy Policy shall be construed in accordance with the laws of the Commonwealth of Pennsylvania without regard to any conflict of laws analysis. The parties hereto mutually agree and consent to the exclusive jurisdiction and venue of the Court of Common Pleas of Bucks County, PA and/or the United States District Court for the Eastern District of Pennsylvania with respect to any proceedings arising out of, related to, or in connection with this Agreement. The parties further agree that mailing to either party by certified or registered mail shall constitute lawful and valid service of process.
+  * To perform analytics to continually improve the Services and enhance your experience with the Services;
+  
 
-#### End of Privacy Policy
+  * To provide you (and enable our partners to provide you) with promotional materials, relevant content and advertisements, surveys, newsletters, questionnaires, and other materials;
+  
+
+  * To offer you information regarding certain products and services of our partners, sponsors, advertisers, and affiliates;
+  
+
+  * To manage your account, perform billing and payment activities, and update you on your account status (including confirmation of registrations or notices of subscription expiration);
+  
+
+  * To respond to your requests, questions, and comments;
+  
+
+  * As we believe is necessary to protect our rights and the rights of others, including by enforcing our Terms of Use; and
+  
+
+  * For any other purpose disclosed to you at the time we collect your information, or pursuant to your consent.
+
+
+
+You may “opt out” of receiving promotional communications from Front Rush by contacting us at the email address shown at the end of this Privacy Policy. Please note that changing your information through your user profile settings, or otherwise opting out of receipt of communications from Front Rush, will only change or delete the data for purposes of future activities on our website and for managing future communications from Front Rush.
+
+##### Sharing of Information
+
+We may share your information with the following entities:
+
+Colleges and Other Users of the Services. We may share your information directly with educational institutions, college coaches, and athletic directors. The Services may also provide opportunities for you and other users to connect with each other socially and to view each other’s profiles. To achieve this, certain information you provide may be shared with other users of the Services.
+
+Affiliates. We may share your information with our affiliates—companies that control, are controlled by, or are under common control with, Front Rush. These entities may use your information to make predictions about your interests and may provide you with offers, promotional materials, advertisements, and other materials.
+
+Partners. We may share your information with partners who provide products or services that may be of interest to you or college athletes, including: (i) educational products and services (e.g., colleges, student loans, financial aid, college admissions and tutorial services, and extra-curricular enrichment and recognition programs); (ii) career, employment, and military opportunities; (iii) products of consumer focused companies; (iv) recruiting services; (v) sports related activities; and (v) other relevant products and services. These partners may use your information to make predictions about your interests and may provide you with offers, promotional materials, advertisements, and other materials. We also may share your information with partners, such as Chegg, Cappex, and NRCCUA, that share your information with college admissions departments.
+
+Service Providers. We also may share your information with entities that provide services to us, including companies that provide payment processing, shipping, web analytics, data processing, web hosting, technical support, advertising, email distribution, and other services.
+
+Other Parties When Required by Law or as Necessary to Protect Our Services. There may be instances when we disclose your information to other parties in order to:
+
+  
+
+
+  * protect the legal rights of Front Rush, its affiliates, and of the users of the Services;
+  * protect the safety and security of users of the Services;
+  * prevent fraud (or for risk management purposes); or
+  * comply with or respond to the law or legal process or a request for cooperation by a government entity, whether or not legally required.
+
+Other Parties in Aggregated Form. We may also share your information with third parties in aggregated or non-personally identifiable form.
+
+Other Parties in Connection With a Transfer of Assets. If we make a sale or transfer of assets, or are otherwise involved in a merger, divestiture, acquisition, liquidation, or transfer, or in the unlikely event of bankruptcy, we may transfer your information to one or more third parties as part of that transaction.
+
+Other Parties With Your Consent. In addition to the sharing described in this Privacy Policy, we may share information about you with other third parties when you consent to such sharing.
+
+
+
+
+If you do not want your information shared with any third party who may use such information for direct marketing purposes, then you  may opt out of such disclosures by sending an email to us at privacy@frontrush.com.
+
+##### Third-Party Functionality
+
+Some of the functionality of the Services may be provided by third parties that are not affiliated with Front Rush. These entities may collect or receive certain information about your use of the Services, including through the use of cookies, Web beacons, and similar technologies. Front Rush is not responsible for the privacy practices of these entities.
+
+##### Protection of Information
+
+We use reasonable physical and technical measures to safeguard information in our possession against loss, theft and unauthorized use, disclosure, or modification. Please note, however, that no data transmission or storage can be guaranteed to be 100% secure. As a result, while we strive to protect the information we maintain, we cannot ensure or warrant the security of any information that you transmit to us. Where we have given you (or where you have chosen) a password for access to certain parts of our Services, you are responsible for keeping this password confidential. We ask that you not share your password with anyone.
+
+##### Children’s Information
+
+The Services are intended for a general audience and are not directed at children younger than 13. We do not knowingly collect or store personal information about children under the age of 13 without parental consent, unless permitted by law.
+
+##### Non-U.S. Users
+
+The Services are intended for a U.S. audience. If you access the Services from outside the United States, please be aware that information you provide to us or that we obtain as a result of your use of the Services may be processed and transferred to the United States and be subject to U.S. law. The privacy and data protection laws in the United States may not be equivalent to such laws in your country of residence. By using our website, participating in any of the Services, or by providing us with your information, you consent to the collection, transfer, storage, and processing of information to and in the United States.
+
+##### Changing or Deleting Your Personal Information
+
+We wish to maintain accurate personal information. If you have submitted personal information through our website and set-up an account, then you can (i) access and update your personal information by logging into your online account and making the appropriate changes or (ii) delete your account by email us at privacy@frontrush.com. Please note that if you delete your account, we may continue to retain your information on our servers for archival purposes. If you have forgotten your login credentials, you can retrieve those via our automated password retrieval system.
+
+##### Targeted Advertising
+
+In some cases, we and advertisers on the Services work with other third-party vendors to help deliver advertisements targeted to your interests. These vendors include ad networks and analytics providers, and they use cookies or other technologies to collect information about your online activity (e.g., the sites and pages you have visited) in order to help advertisers deliver particular ads that they believe you would find most relevant. Many third-party vendors that perform these functions are members of the Network Advertising Initiative or the Digital Advertising Alliance, and you can opt out of those vendors’ delivery of targeted advertising to you by visiting http://www.networkadvertising.org/managing/opt_out.asp and http://www.aboutads.info/choices/.
+
+Please note that, because these opt-out tools will place a cookie on your computer to record your opt-out preference, any actions you take using these tools will apply only to the web browser that you use to take the action. Also, these tools may not work as expected if you set your browser to refuse cookies.
+
+Sometimes, our advertisers will contract with a third-party service to host their ads. In this case, an ad-serving vendor contacts the advertisers’ hosting service to obtain a particular advertisement. Because we do not have a relationship with these third parties, we do not have a mechanism to allow visitors to opt out of tracking by these vendors.
+
+##### Cookies, Web Beacons, and Similar Technologies
+
+Front Rush—as well as certain third parties that provide content and other functionality on the Services—may use a variety of technologies to learn more about how people use the Services and the Internet. This section provides more information about some of those technologies and how they work.
+
+Cookies. Cookies are small text files that websites and other online services use to store information about users on the users’ own computers. For example, cookies can be used to store your sign-in credentials so that you do not have to enter them each time you return to a website. Cookies also may be used to store a unique identification number tied to your computer so that a website can recognize you as the same user across different visits to the website. You can configure your Internet browser to warn you each time a cookie is being sent or to refuse cookies completely.
+
+Front Rush and the third parties that provide content or functionality on the Services may use cookies to:
+
+  
+
+
+  * Collect information about your browsing activities in order to provide you with more relevant content and ads off the Services; and
+  
+
+  * Relate the information automatically collected when you use the Services to information we obtain from you directly or from commercially available sources.
+
+
+
+Other local storage. We, along with third-party partners, may use other kinds of local storage, such as Local Shared Objects (also referred to as “Flash cookies”) and HTML5 local storage, in connection with the Services. These technologies are similar to the cookies discussed above in that they are stored on your computer and can be used to store certain information about your activities and preferences. These objects are stored in different parts of your computer from ordinary browser cookies, however. Many Internet browsers allow you to disable HTML5 local storage or delete information contained in HTML5 local storage using browser controls.
+
+Web beacons. We, along with our third-party partners, may also use technologies called Web beacons that communicate information from your Internet browser to a web server. Web beacons can be embedded in web pages, videos, or emails, and can allow a web server to read certain types of information from your browser, check whether you have viewed a particular web page or email message, and determine, among other things, the time and date on which you viewed the Web beacon, the IP address of your computer, and the URL of the web page from which the Web beacon was viewed. We and our partners use Web beacons for a variety of purposes, including analyzing the use of the Services and in conjunction with cookies to provide content and ads that are more relevant to you.
+
+##### Your California Privacy Rights
+
+California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure of certain categories of personal information to third parties for their direct marketing purposes in the preceding calendar year. If you are a California resident and would like to make such a request, please submit your request to: 
+
+Attn: Front Rush Privacy   
+Front Rush LLC   
+62 South Main Street   
+Yardley, PA 19067   
+Email: privacy@frontrush.com 
+
+In addition, California residents who are registered users of the Services and are under the age of 18 are entitled, in accordance with California law, to request and obtain removal of content and information that they themselves post as user content on the Services. You may request such removal by emailing us at privacy@frontrush.com. Please note that your request does not ensure the complete or comprehensive removal of the material.
+
+##### Do Not Track Signal
+
+Some web browsers may transmit “do-not-track” signals to the websites with which the user communicates. We do not currently take action in response to those signals. If an industry standard on responding to such signals is established and accepted, we may reassess how to respond to those signals.
+
+##### Links to Other Websites
+
+Our website may contain links or references to third-party owned and/or operated websites that we believe might be of interest to users, including websites of our partners, sponsors, advertisers, and affiliates. We do not control the content of these third-party websites. These third-party websites may send you their own cookies, collect data, or solicit personal information. Once you have clicked on a link to a third-party website and leave our website, you must read the privacy policy of the third-party website to see how your personal information will be handled.
+
+##### Changes to this Privacy Policy
+
+From time to time, we may revise this Privacy Policy to reflect changes to the scope of the Services or for other reasons. Therefore, it is important to check the effective date of the Privacy Policy posted here each time you use the Services. If we make any material revisions to this Privacy Policy, we will email you at the email address you have provided or will place a notice on our website. By continuing to use the Services after we make changes, you indicate your consent to those changes.
+
+##### Questions and Contact Information
+
+We want to assure you that we are dedicated to protecting your privacy. If you have questions or comments about this Privacy Policy, please contact us at: 
+
+Attn: Front Rush Privacy   
+Front Rush LLC   
+62 South Main Street   
+Yardley, PA 19067   
+Email: privacy@frontrush.com 
