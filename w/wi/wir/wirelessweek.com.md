@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirelessweek.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226031822id_/https%3A//www.advantagemedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelessweek.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504053610id_/https%3A//www.advantagemedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Advantage Business Media
 
