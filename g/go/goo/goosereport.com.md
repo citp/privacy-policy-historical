@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goosereport.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207011807id_/http%3A//goosereport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goosereport.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504170303id_/http%3A//www.goosereport.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GooseReport
 
