@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candidinfo.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227071724id_/http%3A//www.candidinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candidinfo.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504162150id_/http%3A//www.candidinfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Candidinfo India | Candidinfo India
 
