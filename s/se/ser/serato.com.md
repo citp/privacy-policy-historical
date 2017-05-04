@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the serato.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330043709id_/https%3A//serato.com/legal/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serato.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504071319id_/https%3A//serato.com/legal/website-privacy-policy) for the most accurate reproduction.*
 
 # Serato Websites Privacy Policy | Serato.com
 
 #### Introduction
 
-Serato Inc Limited Partnership, "Serato", own and run several websites, including but not limited to Serato.com, [Seratopyro.com](http://seratopyro.com/) and [Whitelabel.net](http://whitelabel.net/), collectively "Serato Websites".
+Serato Limited, "Serato", own and run several websites, including but not limited to Serato.com, [Seratopyro.com](http://seratopyro.com/) and [Whitelabel.net](http://whitelabel.net/), collectively "Serato Websites".
 
 Serato Websites are run on a number of servers leased by Serato and located in the USA, collectively "Serato Servers". During your use of Serato Websites, Serato collects assorted information about your specific website usage. Additionally, you may be asked to provide us with personally identifying information that enables us to provide you with website personalisation options and/or various online services. This document describes what information we collect, when we collect it, what we use the information for and to whom we may disclose it.  Serato may update this statement from time to time so you are encouraged to periodically revisit this page for the latest Serato Website Privacy Policy.
 
@@ -50,9 +50,9 @@ Activity Information includes forum posts written by you, records of downloads, 
 
 ##### A Note about Credit Card and Bank Account Information
 
-Serato Servers never store highly sensitive bank account and credit card information. Purchases from Serato Websites that require the inputting of credit card information use a specialised, accredited credit card payment service, Direct Payment Solutions (DPS), for the purposes of acquiring and processing credit card data.
+Serato Servers never store highly sensitive bank account and credit card information. Purchases from Serato Websites that require the inputting of credit card information use specialised credit card payment service, Braintree, for the purposes of processing credit card data. (Note: we have recently changed the payment processing service we use from DPS to Braintree, until the change over is complete, purchases made in Euros from Serato Websites may still be processed by DPS).
 
-For further information about DPS please read their [Privacy Policy](http://www.paymentexpress.com/about/about_paymentexpress/privacy_policy.html) and [Legal Notice](http://www.paymentexpress.com/about/about_paymentexpress/legal_notice.html).
+For further information about Braintree please read their [Privacy Policy](https://www.paypal.com/nz/webapps/mpp/ua/privacy-full).
 
 #### How is the information collected?
 
