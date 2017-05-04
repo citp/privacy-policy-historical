@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lavasoft.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210135649id_/http%3A//www.lavasoft.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavasoft.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504194548id_/http%3A//www.lavasoft.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lavasoft
 
 Lavasoft Ltd is a leading actor within the IT security field and makes every effort to protect the privacy of the users of the Lavasoft web sites*, software, and mobile apps (the "Lavasoft Sites").* The overall purpose with this privacy policy (the "Privacy Policy") is to advise you ("You") of what type of personal information that Lavasoft collects about You as a result of Your use of the Lavasoft Sites, if any, and describe the limited purposes for which Lavasoft uses, processes and shares such collected information.
 
-This Privacy Policy concerns all products under the Lavasoft and Ad-Aware brands, including but not limited to "Ad-Aware Antivirus", "Ad-Aware Web Companion", "Ad-Aware Search Helper", "Ad-Aware New Tab", "Ad-Aware Ad Block" and "Ad-Aware Browser". 
+This Privacy Policy concerns all products under the Lavasoft and Ad-Aware brands, including but not limited to "Ad-Aware Antivirus", "Ad-Aware Web Companion", "Ad-Aware Search Helper", "Ad-Aware New Tab", "Ad-Aware Ad Block", "Ad-Aware Browser Dock" and "Ad-Aware Browser". 
 
 ##### Collection of Personal Information
 
