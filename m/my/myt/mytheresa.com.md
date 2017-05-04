@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytheresa.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216075143id_/http%3A//www.mytheresa.com/en-de/service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytheresa.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504044750id_/http%3A//www.mytheresa.com/en-de/service/privacy-policy) for the most accurate reproduction.*
 
 # mytheresa.com - Privacy Policy - Luxury Fashion for Women / Designer clothing, shoes, bags
 
@@ -20,7 +20,7 @@ During registration for your customer account, we collect and implement your per
 
 In subscribing for a newsletter you agree that mytheresa.com GmbH, Einsteinring 9, 85609 Aschheim/Munich may use the data you entered to inform you by e-mail about the contents and/or products selected by you. You may revoke your consent at any time with effect for the future, either by written notice to mytheresa.com GmbH, Einsteinring 9, 85609 Aschheim/Munich or by email to [info@mytheresa.com](mailto:info@mytheresa.com). You may also unsubscribe from any newsletter via the link provided at the end of each newsletter. We transfer your data to our service providers only for data administration and hosting purposes.
 
-In connection with our newsletter mailings, we may utilise user data to create anonymous user profiles for purposes of market research, advertising or customised newsletter contents. As part of certain marketing activities, our service providers may obtain necessary data to process orders. They reserve the right to use this information only for their designated activities and are prohibited from sharing it with unauthorised third parties. You may object to any such use of your data by notice via post, fax, or email to [info@mytheresa.com](mailto:info@mytheresa.com), in no particular format.
+We may use user data to create anonymous user profiles for purposes of market research, advertising or customised contents. As part of certain marketing activities, our service providers may obtain necessary data to process orders. They reserve the right to use this information only for their designated activities and are prohibited from sharing it with unauthorised third parties. You may object to any such use of your data by notice via post, fax, or email to [info@mytheresa.com](mailto:info@mytheresa.com), in no particular format.
 
 Further, we collect, process and use address and order data for our own marketing purposes. You may object to any such use, processing and transfer of your personal data for marketing purposes at any time by notice via post, fax, or email to [info@mytheresa.com](mailto:info@mytheresa.com), in no particular format.
 
@@ -81,6 +81,10 @@ If you are a member of the relevant service and do not wish the service provider
 
 For system administrative purposes, prevention of misuse and the analysis of user behaviour trends, IP-addresses, browser types and header details, as well as information about the geographical location of access, will be assessed via Chartbeat. The use and evaluation of these data will be conducted anonymously, and personal details and IP-addresses will not be linked in any manner.  
 The header information will be used to determine which pages the IP-address has visited. Traffic information will be used for real-time analytics. Chartbeat may randomly collect anonymous traffic information for the purpose of benchmarking and may provide these data to be used by other websites.
+
+## USE OF RISKIFIED FINAL CHECK
+
+The management of payments, more precisely anti-fraud checks for credit card payments, on some occasions requires data to be provided to Riskified Ltd., 34 W 27th St, Suite 502, New York, USA, and will be processed strictly for this purpose only.
 
 ## Storage, correction, deletion and deactivation of your personal data
 
