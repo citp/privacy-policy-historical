@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shewired.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227223830id_/http%3A//www.heremedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shewired.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504161729id_/http%3A//www.heremedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Here Media
 
