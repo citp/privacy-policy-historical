@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ossaba.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218022116id_/http%3A//ossaba.com/google-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ossaba.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504102022id_/http%3A//ossaba.com/google-privacy-policy) for the most accurate reproduction.*
 
 # Google Privacy Policy - ossaba
 
