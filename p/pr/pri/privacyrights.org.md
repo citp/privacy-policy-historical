@@ -1,140 +1,152 @@
-> *The following text is extracted and transformed from the privacyrights.org privacy policy that was archived on 2016-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160819201853id_/https%3A//www.privacyrights.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacyrights.org privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504044141id_/https%3A//www.privacyrights.org/privacy-policy) for the most accurate reproduction.*
 
 # PRC's Privacy Policy | Privacy Rights Clearinghouse
 
-As a leading national consumer privacy organization, we strive to provide a privacy policy that is easy to understand and transparent.   We comply with [Fair Information Principles](https://www.privacyrights.org/ar/fairinfo.htm "Fair Information Principles"), and maintain this privacy policy to let you know what information we collect and how that information is used.  In general, we ask for the minimum amount of data necessary. We will not share any information you disclose to us unless you give us permission or it is required by law.
+**In a nutshell.** Privacy Rights Clearinghouse (PRC) strives to provide a privacy policy that is easy to understand, transparent, and based on [Fair Information Principles](http://bobgellman.com/rg-docs/rg-FIPShistory.pdf) (FIPs). We maintain this policy to let everyone know that we are committed to and respect the rights of individuals who interact with us.  Please [contact us](mailto:admin@privacyrights.org) with any questions regarding this policy. 
 
-## Our Privacy Policy in a Nutshell (details below)
+  * We collect personal information you provide us with, and require the minimum amount of information necessary.  We automatically collect analytics data from our site visitors, but allow you to [opt out](http://demo.piwik.org/index.php?module=CoreAdminHome&action=optOut&language=en) of our analytics collection if you want. 
+  * We use personal information only for the purpose we collect it unless you ask us to use it otherwise. 
+  * We do not sell or rent any personal information. 
+  * We implement physical, administrative, and technical security measures to protect any information we collect.  In addition, all communications between PRC and our site visitors will be conducted over an encrypted connection.
+  * If you want to stop receiving communications from us, update your information, close an account, or request information be deleted, [let us know](mailto:admin@privacyrights.org).  If you create an account to ask us a privacy question, you have the option to delete your account through your dashboard.
 
-## Our Privacy Policy has Five Sections:
 
-**I.       Major Activities on Our Website**
 
-**II.      Use and Disclosure**
+ **Please read the full policy below for details on any of these statements.**
 
-**III.    Access, Correction, and Data Quality**
+  1. What information does PRC collect and how does it use this information?
+    1. When you visit our website
+    2. When you join our mailing list
+    3. When you make a donation
+    4. When you file a complaint or share a story with PRC
+    5. When you ask PRC a privacy question
+  2. How does PRC use and disclose the information it collects?
+  3. How does PRC address access, correction, and data quality?
+  4. Does PRC take security measures to protect the data it collects?
+  5. Additional information
+    1. When you click through to other sites from our website or interact with third parties
+    2. Children
+    3. Site visitors outside the U.S.
+    4. Changes to this policy
+    5. PRC Privacy Policy revision history
+    6. Contact and Accountability
 
-**IV.     Security **
 
-**V.      Other**
 
-**I.   Major Activities on Our Website**
+####  **1\. What information does PRC collect and how does it use this information?**
 
-**When You Visit Our Website**
+####  **a. When you visit our website**
 
-**             Information Our Site Gathers**
+When you visit the PRC website, we automatically collect analytics information and receive reports from [Piwik](https://piwik.org/), our analytics provider. 
 
-When you visit our website, our site collects information to provide us with aggregate data.  We use an analytics program called [Piwik](http://www.piwik.org/ "Piwik").  Piwik analyzes the data our site collects and provides us with reports.
+A cookie is a string of information a website stores on a visitor’s computer. We may use session cookies (meaning they disappear when you close your browser) on PRC’s website with our analytics provider to learn more about how visitors use and reach our website.   
 
-  The information our site collects includes: 
+We do not allow third party tracking cookies on our website, and you can still use our website even if you set your browser to reject cookies.  To learn more, search for  _how to block and delete cookies_  or see PRC’s guide _,_[ _Online Privacy: Using the Internet Safely_](https://www.privacyrights.org/consumer-guides/online-privacy-using-internet-safely). 
 
-  * Internet Protocol or IP address (the unique number assigned to the device you are using to connect to the Internet); 
-  * Your browser, the version and what operating system you use (for example if you are using Internet Explorer 9 or Mozilla Firefox 8.0 on Windows 7); 
-  * The bandwidth used when you visit our site.
-  * When you visit on our site and how long you spend on it, and what pages you view; 
-  * How you arrived on our site (for instance, did you use a search engine or click through a link in an online publication?)
+The analytics data our site collects is stored in a database used by Piwik to generate reports that contain aggregate data about how people use our website. _  PRC does not receive personally identifiable information in these reports, and does not attempt to identify individuals.  _**
 
+Opt out of analytics collection
 
+**  
+If you choose to [opt out](http://demo.piwik.org/index.php?module=CoreAdminHome&action=optOut&language=en) of PRC's analytics collection, a cookie ‘piwik_ignore’ will be set. All visitors with a piwik_ignore cookie will not be tracked.
 
-This data is stored in log files that are used by Piwik to generate website usage reports that do not contain personally identifiable information.  PRC deletes the log files monthly, and we do not back them up.
+ **Do not track**  
+Piwik also will not track visitors who have indicated they do not want to be tracked in their web browser.  You may indicate this preference in most browsers’ settings.
 
-**             ****What Information We Are Able to See**
+#### **b. When you join our mailing list**
 
-While our site collects the information listed above, we receive aggregate data from [Piwik](http://www.piwik.org/ "Piwik"). The data reveals, for instance, how many unique visitors we have in a month, how many individual page views we receive, the top 25 countries from which our site is viewed, the top 10 operating systems and browsers that people use to visit our site, and how people reached our content (through links in other sites, search engines, etc.).   The reports do not include IP addresses and we do not attempt to tie individual IP addresses to this information.
+If you choose to join our mailing list, we will use the email address you provide us only to send you messages associated with that particular list.  We do not sell, rent, or share our mailing list.
 
-**             ****Cookies**
+PRC uses [Constant Contact](http://www.constantcontact.com/legal/service-provider) to send our newsletters, alerts, and other email to our email list (you will not be automatically subscribed to this list when you ask us a privacy question). You can always unsubscribe from our mailing list.  To unsubscribe, look for a “SafeUnsubscribe” link at the bottom of any email you receive from us.  See [information about Constant Contact](https://www.constantcontact.com/legal/service-provider) and its[ privacy statement](https://www.constantcontact.com/legal/privacy-statement) for more information.
 
-We do not use persistent cookies on our website. We do use session cookies.  Session cookies allow us to provide you with a better experience on our site.  They do not capture personally identifiable information, and they do not track your online movements.  Session cookies expire when you close your browser. 
+Constant Contact may use web beacons to allow them to determine if you opened an email.  You can block web beacons.  To learn more, search for  _how to block web beacons_  or see PRC’s guide _,_ [_Online Privacy: Using the Internet Safely_](https://www.privacyrights.org/consumer-guides/online-privacy-using-internet-safely).
 
-You can set your browser to refuse cookies.  For more information, search for _how to refuse and delete cookies_ or see [PRC's Fact Sheet 18: Online Privacy: Using the Internet Safely](https://www.privacyrights.org/fs/fs18-cyb.htm#Browsing).
+#### **c. When you make a donation**
 
-**When You Join Our Mailing List**
+ **** When you make a donation to PRC, we will keep the information you provide us so that we can thank you, provide you with receipts for tax purposes, and (if you provide an email address) keep you up to date with occasional donor-related emails.  You may also opt in to join our general email list.  Any email we send will contain information about how to unsubscribe from the applicable list.  We do not sell, rent, or share our donor list. 
 
-We invite you to join our mailing list to receive alerts from us.  To [join our mailing list](https://web.archive.org/subscribe.htm), you must give us an email address and choose whether you want to receive mail in _HTML format_ or _Plain Text format_. You may choose to give us your first name and state. We store our mailing list in a database hosted by [Topica](http://www.topica.com/email-marketing/privacy/ "Topica"), an online service provider we use to send our alerts via email. 
+**Payment processing.**  PRC does not process online donation payments, and we do not have access to your financial information.  We contract with [Network for Good](http://www.networkforgood.com/) to process online donation payments.  When you leave our website, you are no longer subject to the PRC’s privacy policy. Please see the Network for Good [privacy policy](http://www.networkforgood.com/about/privacy/) and [terms](http://www.networkforgood.com/about/terms/) for more information.   
 
-If you choose to receive our alerts in _HTML format_ , the email includes a web beacon telling Topica that you opened the email.  The web beacon does not track anything else, such as the links you click on or whether you forward it to a friend. 
+#### **d. When you file a complaint or share a story with PRC**
 
- If you choose, you can block web beacons. For more information, search for _how to block web beacons_ or see [PRC's Fact Sheet 18: Online Privacy: Using the Internet Safely](https://www.privacyrights.org/fs/fs18-cyb.htm#Marketing). 
+PRC uses complaints and consumer stories to help us speak out for consumers as we advocate for stronger privacy protections and raise awareness of current privacy issues and concerns.  We also use complaints and stories to analyze trends and publish reports.  If you file a complaint or share a story with PRC, you may choose to submit it anonymously or to provide us with additional information.  We do not share any personally identifiable information unless you give us permission or we are legally required to do so. 
 
-You may also choose to receive our emails in _Plain Text format_. In this case, the email will not have a web beacon.  The email won't look pretty, but you can receive our alerts without any tracking. 
+**If you request that PRC share your complaint or story.** You have the option to allow PRC to share your complaint or story with appropriate federal or state government agencies and with journalists.  When you allow us to share, we will include any information you provide us so that the recipients can contact you to follow up (if they choose to do so).  When we share complaints and stories, we cannot guarantee how the recipient will use your personal information.  The data will be subject to the recipient’s own privacy policy, and your personal information could be shared with others.
 
-You can unsubscribe from the mailing list at any time.  Look for the "Safe Unsubscribe" link at the bottom of the emails sent through Topica or call us at 619-298-3396.
+#### **e. When you ask PRC a privacy question  
+**
 
-**When You Make a Donation**
+If you choose to ask us a privacy question through our website, we require you to create an account and provide us with an email address and your state.  We will only use the email address you provide to notify you when a PRC staff member has posted a response to the question you submitted. 
 
-When you donate by mail, we ask you to print and fill out a [PDF mail-in donation form](https://www.privacyrights.org/sites/privacyrights.org/files/u22/PRC-Contribution-Form.pdf "PRC donation form").  The form asks for your name, mailing address, and optional phone number.  We use your information to send you a receipt and thank you letter.  We store any hard copies of information you send in a locked cabinet in our office.
+We request that you provide us with your state because it helps us provide you with a better answer and relevant resources (privacy rights can vary quite a bit by state).  You can choose whether to provide us with more information.    
+We will only share information you provide us to the extent that you request that we share with government agencies or journalists.  You may also choose to allow us to seek outside assistance in answering your question. 
 
-**When You Call or Email Us**
+You can update your information or fully delete your account at any time through your dashboard.  If you have questions or difficulties, please [contact us](mailto:webmaster@privacyrights.org). 
 
-We invite emails and phone calls from individuals who have privacy-related complaints or questions. We maintain records of the types of inquiries we get so that we can identify emerging privacy issues that need further research or possible legislation.
+#### **2\. How does PRC use and disclose the information it collects?**
 
-If you give us your name or other personally identifiable information we may retain it in our records.   If you contact us online, we will respond to you via email.  When you call us, you are not required to give us any personally identifiable information.  We do not voluntarily share any personally identifiable information you provide to us unless you specifically ask or if required by law.
+See Section 1. for the major ways PRC uses information we collect.  We use personal information only for the purpose for which we obtained it from you.  In addition, it is our general policy to disclose personal information only when you consent. 
 
-**When You File a Complaint with Our Online Complaint Center**
+However, there are some limits on what we can promise.  Most of these disclosures are unlikely, but we feel it is necessary to let you know they are possible.
 
-If you use our [online complaint center](https://www.privacyrights.org/cc/new-complaint), you must give us your email address and state so that we can respond to you.  Provide other personally identifiable information only if you choose.  You also have the option to register with our complaint center so that you can update your complaint and your contact information. 
+  * We disclose personal information when required by law.  We cannot guarantee that your personal information will never be sought by subpoena, search warrant, court order, or other lawful form of legal process.  We may or may not contest a demand for data.  
+If we are able, we will make a reasonable attempt to notify you about any such disclosure.  We cannot guarantee that we will be able or allowed to contact you. 
+  * We may disclose personal information to law enforcement if we have reason to believe that our site has been used in a way that violates the law (e.g. someone uses our website for improper activities or tries to hack our website).
+  * We may disclose personal information to the extent we reasonably believe it necessary:
 
-Data you provide us is stored and backed up securely, and is encrypted on our server.  We do not voluntarily share any personally identifiable information unless you specifically ask or we are legally required to do so.  We do, however, aggregate the data to analyze trends and publish reports.
 
-**             ****If You Ask Us to Share Your Complaint**
 
-You have the option to allow us to share your complaint with appropriate federal or state government agencies, with the media (newspapers, television, radio, websites), or with a lawyer.  When you allow us to share your complaint, we will include personally identifiable information so that the recipient can contact you to follow up.  When we share complaints, we cannot guarantee how the recipient will use your personal information.  In other words, the data will be subject to the recipient's own privacy policy, and your personal information could be shared with others.
+>   * to protect the security or integrity of our operations;
+>   * to take precautions against liability;
+>   * in the event of a security breach, or to take actions to prevent, minimize, or remedy any harm from the breach; or
+>   * to the extent required by law, or to provide information to a law enforcement agency or for an investigation related to public safety.
+> 
 
-**A Note about Third-Parties**
 
-Our privacy policy only applies to [www.privacyrights.org](https://web.archive.org/) and the activities of the Privacy Rights Clearinghouse (PRC).  If you click on a link on our site that takes you to a different organization or company's website, you need to read that site's privacy policy. For example, if you interact with PRC on Facebook or Twitter, your information is subject to their respective privacy policies.
+  * We may disclose personal information we collect to contractors who provide administrative services and support to PRC.  This may include auditors, our Internet Service Provider, database providers, lawyers, consultants, volunteers, contractors, and others.  We attempt to minimize sharing personal information, and we avoid it where possible.  However, we depend on third parties to support some of our services and operations.  We strive to select vendors and contractors who have strong privacy and security policies.
+  * If PRC ever changes its structure, merges with another organization, or evolves in other ways, personal information may be shared with a successor organization.  We will do our best to ensure that the information is handled in accordance with this policy. 
 
-**II.Use and Disclosure**
 
-See Section I above for the major ways we use and share information collected from website visitors, those who email or call us, donors, and users of our complaint tool.  We assure you that we will **never** sell, trade, or otherwise share your information with an advertiser, marketer, credit bureau, or profiler.  Our general policy is that we do not share your personally identifiable information with anyone without your consent.
 
-However, there are some limits on what we can and do promise.  Most of these disclosures are unlikely, but we feel it is necessary to let you know they are possible.
+#### **3\. How does PRC address access, correction, and data quality?**
 
-  * We disclose personally identifiable information when required by law.  Just like everyone else, we cannot guarantee that your personally identifiable information will never be sought by subpoena, search warrant, court order, or other lawful form of legal process. 
+If we have personal information about you, we will make that information available to you upon request.  We also welcome updates to your contact information so we can keep in touch with you.  You can ask us to delete any personal information we have about you, and we will comply unless we are otherwise required to keep it.  Please [contact us](mailto:admin@privacyrights.org) if you have such a request.  We do not charge a fee for any of these requests.
 
-If someone demands that we produce your identifiable information, we will try to notify you in advance.  If we do not have current contact information for you, we may not be able to reach you.  It is also possible that we may be prohibited from contacting you. 
+#### **4\. Does PRC take security measures to protect the data it collects?**
 
-  * We may disclose personally identifiable information to law enforcement if we have reason to believe that our site has been used in a way that violates the law (e.g. someone uses our website for improper activities or tries to hack our website).
-  * We may disclose personally identifiable information to the extent we reasonably believe it necessary:
-    * to protect the security or integrity of our operations;
-    * to take precautions against liability;
-    * in the event of a security breach, or to take action to prevent, minimize, or remedy any harm from the breach; or
-    * to the extent permitted by law, to provide information to a law enforcement agency or for an investigation on a matter related to public safety.
-  * We may disclose personal information to staff and third-parties such as lawyers, consultants, volunteers, and contract workers.  When we disclose personal information to third parties, we do our best to contractually restrict any further use or disclosure of the information that would be inconsistent with this policy. 
-  * If the Privacy Rights Clearinghouse ever changes its structure, merges with another organization, or evolves in other ways, all information may be shared with a successor organization. We will do our best to ensure that the information is handled in accordance with this privacy policy. 
+PRC maintains appropriate administrative, technical, and physical safeguards to protect all information we have, including your personal information.  It is impossible to guarantee absolute security, but we exercise great care in protecting any information we collect. 
 
+PRC also relies on third parties to take appropriate security measures for web hosting, email marketing, and donation processing. 
 
+#### **5\. Additional information**
 
-**III.Access, Correction, and Data Quality**
+#### **a. When you click through to other sites from our website or interact with third parties**
 
-If we have personally identifiable information about you, we will make that information available to you upon request.  We also welcome updates to your contact information so we can keep in touch with you.  You can ask us to delete any personally identifiable information we have for you, and we will comply unless we are otherwise required to keep it.  Please contact us at [admin@privacyrights.org](mailto:admin@privacyrights.org) or 619-298-3396 if you have such a request.
+PRC’s privacy policy only applies to [www.privacyrights.org](http://www.privacyrights.org/) and the activities of PRC.  If you click on a link on our site that takes you to a different organization or company’s website, you will be subject to and should read that company’s privacy policy.   For example, if you interact with or share PRC materials on Facebook, Twitter, or LinkedIn, you will be subject to their respective privacy policies. 
 
-**IV.Security **
+You will also be subject to third party policies when you donate online to PRC (Network for Good) and when you join our mailing list (Constant Contact).
 
-We maintain appropriate administrative, technical, and physical safeguards to protect all information that we have, including your personally identifiable information.  No one can guarantee absolute security, but we exercise great caution in protecting our information. 
+#### **b. Children**
 
-**V.Other**
+This website is not directed at children under the age of 13 who have protections under the Children’s Online Privacy Protection Act.  Some children may use PRC’s website to obtain information about privacy, but we do not anticipate that they will engage in activities that result in PRC obtaining any personal information. If we learn that we have information about a child under the age of 13, we will delete it.
 
-**             ****Children and Foreign Users**
+#### **c. Site visitors outside the U.S.**
 
-We do not anticipate that children under the age of 13 will provide personally identifiable information through our website.  If we learn that we have information about a child under the age of 13 we will delete it. 
+ **** Individuals outside the U.S. are welcome to use our website, but must acknowledge that any personal information provided to us through our website is collected, stored, and otherwise processed in the U.S.  Privacy protections for personal data in the U.S. are different from privacy protections available by law in other countries (they are often weaker).  If this is unacceptable, you should not provide us with any personal information.
 
-Individuals in other countries are welcome to use our website.  Any individual outside the United States should understand that any personally identifiable information provided to us through our website is collected, stored, and otherwise processed in the U.S.  Privacy protections for personal data in the U.S. are different from the privacy protections available by law in other countries and are often weaker.  If this is unacceptable, you should not provide any personally identifiable information. 
+#### **d. Changes to this policy**
 
-**             ****Changes to this Policy**
+ **** PRC may make changes to this policy on occasion.  We will announce substantial changes on this page and in our [blog](https://www.privacyrights.org/blog).  
 
-The PRC may make changes to this policy on occasion.  We will announce substantial changes on this page and on our [homepage](https://web.archive.org/).  If possible, we will post notice of substantial changes before they take effect. 
+#### **e. PRC Privacy Policy revision history**
 
-**             ****Questions and Concerns**
+ **** Revised 01.02.2012:  We revised our policy to add more detail, describe our complaint tool, spell out the disclosures that we make with more specificity, provide information about access and correction.  We did not make any changes to our basic policy of respecting the privacy of our users, or to our policy of not giving user data to advertisers.
 
-We practice what we preach, and we train our staff so that they understand our privacy policy.  If you have any questions or comments about our privacy policy, please direct your inquiry to [admin@privacyrights.org](mailto:admin@privacyrights.org)  or 619-298-3396. 
+Revised 05.19.2014: We revised our policy to note the switch from AWstats to the Piwik Analytics engine.
 
-**Privacy Rights Clearinghouse Privacy Policy Revision History**
+Revised 10.06.2016: We revised our policy to reflect changes associated with our website overhaul, to make the policy more reader-friendly, and to account for the addition of Constant Contact and Network for Good as third party vendors.
 
-Revised: 01.02.2012
+####  **f. Contact and Accountability**
 
-Version: 2.0.  We revised our policy to add more detail, describe our complaint tool, spell out the disclosures that we make with more specificity, provide information about access and correction.  We did not make any changes to our basic policy of respecting the privacy of our users, or to our policy of not giving user data to advertisers.
-
-Revised: 05.19.2014
-
-Revision: We revised our policy to note the switch from AWstats to the Piwik Analytics engine.
+ **** If you have questions or comments regarding our privacy policy, please [contact us](mailto:admin@privacyrights.org).  We can also be contacted at 619-298-3396 or by mail at 3033 5th Ave, Suite 223, San Diego, CA 92103.     
+We instruct all staff members on our privacy, confidentiality, and security policies.  PRC staff who have access to personal information are required to abide by these policies, and we hold them accountable for doing so.
