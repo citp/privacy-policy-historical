@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the carandbike.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224953id_/http%3A//www.carandbike.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carandbike.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504145738id_/http%3A//www.carandbike.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This website " **www.carandbike.com** " (" **Website** ") is owned and operated by Fifth Gear Ventures Ltd (" **We** ", " **Us** ", " **Company** " or " **Our** ", which expression shall mean and include its affiliates, successors and assigns). We are committed to protecting and respecting Your privacy.
 
-This Policy constitutes a legal agreement between You, as the user of the Website, and the Company, as the owner of the Website. This Policy does not apply to third-party websites that are connected via links to the Website. 
+This Policy constitutes a legal agreement between You, as the user of the Website, and the Company, as the owner of the Website. This Policy does not apply to third-party websites that are connected via links to the Website.
 
 This Policy has been drafted in compliance with the applicable data protection rules and regulations of India.
 
@@ -12,7 +12,7 @@ BY VOLUNTARILY PROVIDING US WITH INFORMATION, YOU ARE CONSENTING TO OUR USE OF I
 
 * #### Applicability
 
-This privacy policy (" **Policy** ") describes Our policies and procedures on the collection, use, storage and disclosure of any information including, business or personal information provided by You (" **You/r** ") while using the Website.
+This privacy policy (" **Policy** ") describes Our policies and procedures on the collection, use, storage and disclosure of any information including, business or personal information provided by You (" **You** " or " **Your** ") while using the Website.
 
 Your use of the Website will be governed by this Policy in addition to the [Terms of Use](https://web.archive.org/terms-of-service) as applicable to You.
 
@@ -25,7 +25,7 @@ During Your use of the Website, We may collect and process such information from
   1. Information that You provide to Us by filling in forms on the Website. This includes contact information such as name, email address, mailing address, phone number, financial information, if any, unique identifiers such as user name, account number, password and preferences information such as favourites lists, transaction history;
   2. Information that You provide when You write directly to Us (including by e-mail);
   3. Information that You provide to Us by completing surveys;
-  4. Information relating to logs is automatically reported by Your browser each time You access a web page. When You use the Website, Our servers automatically record certain information that Your web browser sends whenever You visit any website. These server logs may include information such as Your web request, Internet Protocol (IP) address, browser type, referring/ exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information. We use this information, which does not identify users, to analyze trends, to administer the Website, to track users’ movements around the Website and to gather demographic information about the user base as a whole. We do not link this automatically-collected data to personally identifiable information. 
+  4. Information relating to logs is automatically reported by Your browser each time You access a web page. When You use the Website, Our servers automatically record certain information that Your web browser sends whenever You visit any website. These server logs may include information such as Your web request, Internet Protocol (IP) address, browser type, referring/ exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information. We use this information, which does not identify users, to analyze trends, to administer the Website, to track users’ movements around the Website and to gather demographic information about the user base as a whole. We do not link this automatically-collected data to personally identifiable information.
   5. When You use the Website, We may employ clear web beacons which are used to track Your online usage patterns anonymously. No personally identifiable information from You is collected using these web beacons. In addition, We may also use clear web beacons in HTML-based e-mails sent to You to track which e-mails are opened/ viewed. Such collected information is used to enable more accurate reporting and making the Website better for Our users.
   6. We may collect information about Your general internet usage by using a cookie file which is stored on the hard drive of Your computer. Cookies help Us improve Our Website and deliver a better and personalized service. Cookies enable Us:  
 
@@ -36,17 +36,17 @@ During Your use of the Website, We may collect and process such information from
 
 
 
-" **Cookies** " are small files that reside on Your computer's hard drive and generally contain an anonymous unique identifier and are accessible only by the website that placed them there and not any other sites. You may refuse to accept Cookies by activating the setting on Your browser which allows You to refuse the setting of Cookies. However, if You select this setting You may be unable to access certain parts of the Website. Unless You have adjusted Your browser setting so that it will refuse Cookies, Our system may issue Cookies when You log on to the Website. The use of Cookies by Our partners, affiliates, advertisers or service providers is not covered by the Policy. 
+" **Cookies** " are small files that reside on Your computer's hard drive and generally contain an anonymous unique identifier and are accessible only by the website that placed them there and not any other sites. You may refuse to accept Cookies by activating the setting on Your browser which allows You to refuse the setting of Cookies. However, if You select this setting You may be unable to access certain parts of the Website. Unless You have adjusted Your browser setting so that it will refuse Cookies, Our system may issue Cookies when You log on to the Website. The use of Cookies by Our partners, affiliates, advertisers or service providers is not covered by the Policy.
 
 The Company may use the services of certain third parties, for the purpose of operating and administering the Website. Such third party service providers may collect the information sent by Your browser as part of a web page request, including Cookies and your IP address and such information will be governed by the privacy policies of the third party service providers.
 
 * #### Use of the Information
 
-We may use the information provided by You in the following ways, viz: 
+We may use the information provided by You in the following ways, viz:
 
   1. monitor, improve and administer the Website;
   2. conduct research and analysis;
-  3. analyze how the Website is used, diagnose service or technical problems, maintain security;
+  3. analyse how the Website is used, diagnose service or technical problems, maintain security;
   4. remember information to help You efficiently access the Website;
   5. monitor aggregate metrics such as total number of viewers, visitors, traffic, and demographic patterns;
   6. to confirm Your identity in order to ensure that You are eligible to Use the Website;
@@ -58,6 +58,9 @@ We may use the information provided by You in the following ways, viz:
   12. We may also use Your information, and/ or permit selected third parties including service providers on the Website, with Your prior consent, to use Your information or provide You with such information which may be of interest to You and We and/ or they may contact You about the same. If You wish to be so contacted by the third parties, any information You provide to such third parties may be read, collected, and used by them. Notwithstanding the abovementioned, You may choose to stop receiving such information from the third parties by writing to Us at [contact@carandbike.com](mailto:contact@carandbike.com).
 
 
+
+For the purposes of signing up/ use of the Website, You authorise Us and our representatives to use the information that You have provided to contact You through calls/ SMS/ emails and this authorisation will override any registration that You may have done for Do Not Call/ NDNC services.
+
 * #### Disclosure of Information
 
 We will share Your information with third parties only in such manner as described below:
@@ -66,7 +69,7 @@ We will share Your information with third parties only in such manner as describ
   2. We may disclose Your information, with Your prior consent, to any member of Our related or group companies including Our subsidiaries, Our ultimate holding company and its subsidiaries, as the case may be.
   3. In the event that We sell or buy any business or assets, We may disclose Your information, with Your prior consent, to the prospective seller or buyer of such business or assets. User, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer dissolution.
   4. We may disclose Your information to third-party service-providers, with Your prior consent, solely in the course of their provision of services to Us. We will take reasonable precautions to ensure that these service-providers are obligated to maintain the confidentiality of Your information.
-  5. We may disclose Your information if We are under a duty to do so in order to comply with any legal obligation, or in order to enforce or apply Our Terms of Use or assign such information in the course of corporate divestitures, mergers, or to protect the rights, property, or safety of Us, Our users, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+  5. We may disclose Your information if We are under a duty to do so in order to comply with any legal obligation, or in order to enforce or apply Our Terms of Use or assign such information in the course of corporate divestitures, mergers, or to protect the rights, property, or safety of Us, Our users, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
   6. We may disclose Your information to governmental and other statutory bodies who have appropriate authorisation to access the same for any specific legal purposes.
 
 
@@ -76,7 +79,7 @@ You may decline to submit identifiable information through the Website, in which
 
 We will use and retain Your information for such periods as necessary to comply with Our legal obligations, resolve disputes, and enforce Our agreements.
 
-If You wish to subscribe to Our newsletter(s), We will use Your name and email address to send the newsletter to You. However, You may choose to stop receiving Our newsletters by following the instructions to unsubscribe as included in these e-mails or You can contact Us at [contact@carandbike.com](mailto:contact@carandbike.com). 
+If You wish to subscribe to Our newsletter(s), We will use Your name and email address to send the newsletter to You. However, You may choose to stop receiving Our newsletters by following the instructions to unsubscribe as included in these e-mails or You can contact Us at [contact@carandbike.com](mailto:contact@carandbike.com).
 
 * #### Links to Third Party Sites
 
@@ -86,11 +89,11 @@ Our Website may, from time to time, contain links to and from the websites of Ou
 
 The Company uses commercially reasonable safeguards to preserve the integrity and security of Your information against loss, theft, unauthorised access, disclosure, reproduction, use or amendment.
 
-All information You provide to Us is stored on Our secure servers within [India]1 .
+All information You provide to Us is stored on Our secure servers within India.
 
 As a registered user with an account and a password, You are responsible for keeping Your password confidential.
 
-By submitting Your information on Our Website, You agree to the transfer, storing and/ or processing of Your information in a manner as stated under this Policy. We will take such steps as We consider reasonably necessary to ensure that Your information is treated securely and in accordance with the Policy.
+By submitting Your information on Our Website, You agree to the transfer, storing and / or processing of Your information in a manner as stated under this Policy. We will take such steps as We consider reasonably necessary to ensure that Your information is treated securely and in accordance with the Policy.
 
 In using the Website, You accept the inherent security implications of data transmission over the internet and the world wide web cannot always be guaranteed as completely secure. Therefore, Your use of the Website will be at Your own risk.
 
@@ -121,5 +124,3 @@ We may update this Policy to reflect changes to Our practices. If We make any ma
 * #### Contact
 
 Please address any grievances or questions You may have, without limitation, with respect to the collection, processing, usage, disclosure of Your information in writing to Us at [contact@carandbike.com](mailto:contact@carandbike.com). You can always withdraw Your consent for usage, processing of Your information by Us by writing to Us at the address mentioned above.
-
-1 K Law Comment: To be confirmed.
