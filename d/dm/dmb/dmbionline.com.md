@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dmbionline.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119210916id_/http%3A//dmbionline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmbionline.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504120034id_/http%3A//dmbionline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DMBI Online
+# Privacy Policy - DMBI Online
 
 DMBIonline is committed to protecting individual privacy and securing the personal information made available to us when you visit DMBIonline.com and our partner sites, as well DMBIonline pages on other sites (such as our profiles on social networks).
 
