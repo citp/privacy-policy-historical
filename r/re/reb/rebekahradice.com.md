@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rebekahradice.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021203453id_/http%3A//rebekahradice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebekahradice.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504181751id_/http%3A//rebekahradice.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Rebekah Radice, Social Media Strategy
+# Privacy Policy - Rebekah Radice
 
 This Privacy Policy governs the manner in which RebekahRadice.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://rebekahradice.com website (“Site”). This privacy policy applies to the Site and all products and services offered by RebekahRadice.com.
 
@@ -60,10 +60,10 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: RebekahRadice.com
 
-http://rebekahradice.com  
+http://rebekahradice.com
 
 rebekah@rebekahradice.com
 
-This document was last updated on August 18, 2013
+This document was last updated on August 18, 2016
 
 Privacy policy created by Generate Privacy Policy
