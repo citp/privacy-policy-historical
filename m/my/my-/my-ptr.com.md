@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my-ptr.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231210119id_/http%3A//www.my-ptr.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-ptr.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504041937id_/http%3A//www.my-ptr.com/pages/privacy.php) for the most accurate reproduction.*
 
 # my-ptr.com
 
