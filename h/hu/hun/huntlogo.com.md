@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huntlogo.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012092444id_/http%3A//www.huntlogo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huntlogo.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504222359id_/http%3A//www.huntlogo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HUNT LOGO
 
