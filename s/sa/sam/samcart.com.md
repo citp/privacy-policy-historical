@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the samcart.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221050522id_/http%3A//blog.samcart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samcart.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504042245id_/https%3A//samcart.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - SamCart Blog
+# SamCart Privacy Policy
+
+[](http://samcart.com/) [](http://samcart.com/)
+
+#### Privacy Policy
 
 What information do we collect?
 
@@ -10,31 +14,27 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Google, as a third party vendor, uses cookies to serve ads on your site.
 
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 What do we use your information for?
 
 Any of the information we collect from you may be used in one of the following ways:
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs)
+To personalize your experience (your information helps us to better respond to your individual needs)
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
 
-• To process transactions
+To process transactions (your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested)
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+To administer a contest, promotion, survey or other site feature
 
-• To administer a contest, promotion, survey or other site feature
+Cancellation/Refund Policy
 
-• To send periodic emails
-
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+To send periodic emails (the email address you provide for order processing, will only be used to send you information and updates pertaining to your order)
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
@@ -48,21 +48,21 @@ How do we protect your information?
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
 
 How Do I Opt-Out of Your Email List?
 
-To Opt-Out, all you need to do is click the “Unsubscribe” link at the bottom of any email you receive from us.
+To Opt-Out, all you need to do is click the "Unsubscribe" link at the bottom of any email you receive from us.
 
-You can also contact our [Support Desk](https://samcart.zendesk.com/hc/en-us) (https://samcart.zendesk.com/hc/en-us) and request to be removed from our mailing list as well.
+You can also contact our [Support Desk](mailto:support@samcart.com) and request to be removed from our mailing list as well.
 
 Do we use cookies?
 
-Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and keep track of advertisements and .
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and keep track of advertisements.
 
 Do we disclose any information to outside parties?
 
@@ -82,11 +82,11 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](http://get10000fans.com/terms-of-service) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/terms-and-conditions) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your Consent
 
-By using our site, you consent to our websites privacy policy.
+By using our site, you consent to our websites privacy policy.
 
 Changes to our Privacy Policy
 
@@ -94,6 +94,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 This policy was last modified on 09/01/2014.
 
-Contacting Us
+Contact Us
 
 If there are any questions regarding this privacy policy, you may contact us by emailing support@samcart.com.
