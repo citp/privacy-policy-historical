@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indonesia-investments.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124181134id_/http%3A//www.indonesia-investments.com/privacy-and-security/item20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indonesia-investments.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504202305id_/https%3A//www.indonesia-investments.com/privacy-and-security/item20) for the most accurate reproduction.*
 
 # Privacy and Security | Indonesia Investments
 
@@ -9,7 +9,7 @@ Indonesia-Investments is part of Van der Schaar Investments B.V.
 2.  
 Use of this website is subject to conditions and restrictions.  
 By using this website/webpage you agree to our Privacy and Security statements.  
-Also, to the extent applicable, the statements of [Disclaimer](http://www.indonesia-investments.com/disclaimer/item19) and [Terms of Use](http://www.indonesia-investments.com/terms-of-use/item22) are fully inserted here.
+Also, to the extent applicable, the statements of [Disclaimer](https://www.indonesia-investments.com/disclaimer/item19) and [Terms of Use](https://www.indonesia-investments.com/terms-of-use/item22) are fully inserted here.
 
 3.  
 Dutch Law shall apply to all contents of the website and the content of Privacy and Security.
