@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecnmag.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325140914id_/http%3A//www.ecnmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecnmag.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504053610id_/https%3A//www.advantagemedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Electronic Component News
+# Privacy Policy | Advantage Business Media
 
 Last updated: January 25, 2013
 
@@ -52,13 +52,13 @@ We appreciate your visiting this website (the “Site”).  Our visitors’ pri
 
 (v)    For any other purpose disclosed at the time the information is collected or to which you consent.   
 
-(vi)    As otherwise specifically described in this Privacy Policy or the Terms (Click [Here](http://www.cedmagazine.com/terms-and-conditions) for Terms).
+(vi)    As otherwise specifically described in this Privacy Policy or the Terms.
 
 (b)    We may use your information to better understand our Users and to improve our Site.  For example, we may use this information to determine what portions of the Site are most popular and the demographics of our Users generally.  Cookies and other User information also enable us to customize your experience on the Site.  We may use IP addresses to help diagnose problems with our servers or to administer our Site.  We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of the Site.
 
 (c)    We may use the information you provide us to send you e-mail, fax and other communications on behalf of ABM and our affiliates.  These communications may include e-mail newsletters that are relevant to this Site, as well as offers for other ABM services.  All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter.  All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted.
 
-(d)    We may use your information to send you e-mail and other communications on behalf of third parties.  Each of these communications will include instructions for opting out of receiving future third party offers from us.  You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to privacymanager@advantagemedia.com with the subject line “opt out – third party” or by such other means as we may from time to time make available to you.
+(d)    We may use your information to send you e-mail and other communications on behalf of third parties.  Each of these communications will include instructions for opting out of receiving future third party offers from us.  You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [privacymanager@advantagemedia.com](mailto:privacymanager@advantagemedia.com) with the subject line “opt out – third party” or by such other means as we may from time to time make available to you.
 
 **Section 4.    OUR DISCLOSURE OF YOUR INFORMATION.**
 
@@ -70,7 +70,7 @@ We may disclose aggregated, anonymous statistics about many Users, and individua
 
 (c)    Portions of this Site may be provided as “Premium” or “Sponsored” content.  Premium or Sponsored content is made available to Users on the condition that we may share certain of the User’s registration information with the Premium or Sponsored content’s sponsors and advertisers.  We will always disclose when you are registering or being provided with Premium or Sponsored content.
 
-(d)    To other third parties to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services.  You may opt out of such disclosures by sending an e-mail to privacymanager@advantagemedia.com with the subject line: “do not disclose” or by such other means as we may from time to time make available to you.
+(d)    To other third parties to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services.  You may opt out of such disclosures by sending an e-mail to [privacymanager@advantagemedia.com](mailto:privacymanager@advantagemedia.com) with the subject line: “do not disclose” or by such other means as we may from time to time make available to you.
 
 (e)    To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving ABM or this Site.
 
@@ -104,7 +104,7 @@ We use reasonable safeguards to protect Personally Identifiable Information we c
 
 **Section 7.    RIGHTS TO ACCESS AND CHANGE INFORMATION.**
 
-You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to privacymanager@advantagemedia.com or by such other means as we may from time to time make available to you.  However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information.  Requests to view or change personal information may take a few days to process.
+You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to [privacymanager@advantagemedia.com](mailto:privacymanager@advantagemedia.com) or by such other means as we may from time to time make available to you.  However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information.  Requests to view or change personal information may take a few days to process.
 
 **Section 8.    INFORMATION RELATED TO CHILDREN.**
 
@@ -135,7 +135,7 @@ This Site contains content, services, advertising and other materials that link 
 Advantage Business Media LLC  
 100 Enterprise Drive, Suite 600  
 Rockaway, NJ 07866  
-abmprogrequests@advantagemedia.com
+[abmprogrequests@advantagemedia.com](mailto:abmprogrequests@advantagemedia.com)
 
 **Copyright Agent**
 
