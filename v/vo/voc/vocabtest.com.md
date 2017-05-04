@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vocabtest.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323163041id_/https%3A//www.vocabtest.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocabtest.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504030314id_/https%3A//www.vocabtest.com/privacy_policy.php) for the most accurate reproduction.*
 
 # VocabTest.com Privacy Policy
 
