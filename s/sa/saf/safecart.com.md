@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the safecart.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013235811id_/https%3A//www.safecart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safecart.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504131232id_/https%3A//www.safecart.com/privacy) for the most accurate reproduction.*
 
 # SafeCart - Privacy Policy
 
 RevenueWire Inc. ("RevenueWire") is committed to protecting the privacy of personally identifiable information you may provide to us when using any of our online services including without limitation, the SafeCart payment processing system ("SafeCart"). This Privacy Policy describes how we treat information we receive when you transmit data to RevenueWire. This privacy policy applies to www.safecart.com owned and operated by Revenuewire, Inc.
 
-Revenuewire, Inc. has received TRUSTe's Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [www.safecart.com](https://www.safecart.com/).
-
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request)
 
 #### Shopping Cart
 
@@ -14,7 +12,9 @@ SafeCart is a service used by RevenueWire partnership companies. When you make a
 
 Our checkout page collects credit card information from the user who is purchasing a product from one of our merchants. This includes credit card number, expiration date, name, Zip/Postal code, and email address. This information is used to create a login account for users who want to see their receipt for the transaction which can be accessed through support.safecart.com.
 
-"SAFECART'S WEBSITE IS OPERATED AND MAINTAINED AS PART OF OUR ONGOING BUSINESS OPERATIONS. The information we collect here is used to collect and reply to service questions. The information collected here MAY INCLUDE YOUR BUSINESS NAME, YOUR PERSONAL name, email address, order ID number, and TELEPHONE number. You may also submit your email address or order ID number and postal/zip code to the web site in order to access and review a purchase made through the SafeCart checkout process or manage your subscriptions. You have the ability to access your personally identifiable information for the purpose of updating or deleting it by emailing us at [customerservice@safecart.com](mailto:customerservice@safecart.com) or by sending us an email through the "Contact Us" page on [support.safecart.com](https://support.safecart.com/)". We will respond to these requests within a reasonable timeframe.
+"SAFECART'S WEBSITE IS OPERATED AND MAINTAINED AS PART OF OUR ONGOING BUSINESS OPERATIONS. The information we collect here is used to collect and reply to service questions. The information collected here MAY INCLUDE YOUR BUSINESS NAME, YOUR PERSONAL name, email address, order ID number, and TELEPHONE number. You may also submit your email address or order ID number and postal/zip code to the web site in order to access and review a purchase made through the SafeCart checkout process or manage your subscriptions.
+
+Upon request Revenuewire will provide you with information about whether we hold any of your personal information. You have the ability to access your personally identifiable information for the purpose of updating or deleting it by emailing us at [customerservice@safecart.com](mailto:customerservice@safecart.com) or by sending us an email through the "Contact Us" page on [support.safecart.com](https://support.safecart.com/)". We will respond to these requests within a reasonable timeframe.
 
 We will retain your personally identifiable information for as long as your account is active or as needed to provide you services. We will retain and use your personally identifiable information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -42,6 +42,8 @@ SafeCart will NOT rent, share, or trade any of your personal information unless 
 
 #### Applicable Law
 
+In certain situations, Revenuewire may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
 We may also disclose your personal information if SafeCart is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
@@ -54,11 +56,9 @@ Any promotional emails or newsletters sent to you from RevenueWire can be opted 
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do link this automatically collected data to other information we collect about you.
 
-Technologies such as: cookies, beacons, tags and scripts are used by Revenuewire, Inc. and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Revenuewire and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
-We use cookies for our shopping cart, to remember users' settings, and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
-
-We use Local Storage Objects such as HTML5 to store [content information and preferences.] Various browsers may offer their own management tools for removing HTML5 LSOs.
+We partner with a third party to [display advertising on our website or to manage our advertising on other sites]. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/). Please note you will continue to receive generic ads.
 
 #### Links
 
@@ -87,7 +87,7 @@ RevenueWire, Inc.
 Victoria, BC V8P 3H8  
 Canada
 
-This privacy policy was last modified 04/18/2016
+This privacy policy was last modified 03/13/2017
 
 ### SafeCart.com Terms of Use
 
