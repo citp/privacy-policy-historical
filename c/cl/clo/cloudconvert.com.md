@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudconvert.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216131437id_/https%3A//cloudconvert.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudconvert.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504022615id_/https%3A//cloudconvert.com/privacy) for the most accurate reproduction.*
 
 # CloudConvert - Privacy
 
