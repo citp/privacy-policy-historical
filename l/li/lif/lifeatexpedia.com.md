@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lifeatexpedia.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809162458id_/http%3A//www.expedia.com/p/info-other/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeatexpedia.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504132901id_/http%3A//www.expedia.com/p/info-other/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | Expedia.com
+# Expedia.com Privacy Policy
+
+## Expedia.com Privacy Policy
 
 Below you will find the updated Privacy Policy for www.expedia.com. We value your trust, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. Please read this policy to learn about our privacy practices. By visiting this website, you are accepting the practices described herein. 
 
@@ -94,11 +96,11 @@ Cookies are small data text files and can be stored on your computer's hard driv
 
 The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that if you refuse to accept cookies, you may not be able to access many of the travel tools offered on our sites. 
 
-In addition to the above cookies, we use Local Shared Objects, also referred to as "flash cookies," on our web site. These are used to enhance your user experience, for example, by storing your user preferences and settings, such as your volume/mute settings, and in connection with animated content on our website. Local Shared Objects are similar to browser cookies, but can store data more complex than simple text. By themselves, they cannot do anything to or with the data on your computer. Like other cookies, they can only access personally identifiable information that you have provided on this site, and cannot be accessed by other websites. To find out more about flash cookies or how to disable them, please visit: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>. 
+In addition to the above cookies, we use Local Shared Objects, also referred to as "flash cookies," on our web site. These are used to enhance your user experience, for example, by storing your user preferences and settings, such as your volume/mute settings, and in connection with animated content on our website. Local Shared Objects are similar to browser cookies, but can store data more complex than simple text. By themselves, they cannot do anything to or with the data on your computer. Like other cookies, they can only access personally identifiable information that you have provided on this site, and cannot be accessed by other websites. To find out more about flash cookies or how to disable them, please visit: [Flash Player Help site](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). 
 
 This site may also use Web beacons (also known as clear gifs, pixel tags or Web bugs), which are tiny graphics with a unique identifier, similar in function to cookies, that are placed in the code of a Web page. We use Web beacons to monitor the traffic patterns of users from one page within our sites to another, to deliver or communicate with cookies, to understand whether you have come to our site from an online advertisement displayed on a third-party website, and to improve site performance. We also may allow our service providers to use Web beacons to help us understand which emails have been opened by recipients and to track the visitor traffic and actions on our site. This helps us measure the effectiveness of our content and other offerings. 
 
-If you have any questions about our use of cookies or other technologies, please email us using our [_customer service and feedback form_](https://web.archive.org/pub/agent.dll?qscr=fbak&zz).
+If you have any questions about our use of cookies or other technologies, please email us using our [_customer service and feedback form_](https://web.archive.org/feedback?zz).
 
 ## Display of tailored advertising/Your choices
 
@@ -155,6 +157,6 @@ We may update this Privacy Policy in the future. We will notify you about materi
 
 ## How you can contact us
 
-If you have questions about either this Privacy Policy (or your travel planning or purchases), please email us using our [customer service and feedback form](https://web.archive.org/pub/agent.dll?qscr=fbak&&zz).
+If you have questions about either this Privacy Policy (or your travel planning or purchases), please email us using our [customer service and feedback form](https://web.archive.org/feedback?zz).
 
 This Privacy Policy is effective as of August 1, 2014.
