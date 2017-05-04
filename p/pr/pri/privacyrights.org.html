@@ -1,532 +1,622 @@
-<!--The following is the downloaded HTML source of the privacyrights.org privacy policy that was archived on 2016-08-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160819201853id_/https%3A//www.privacyrights.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the privacyrights.org privacy policy that was archived on 2017-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170504044141id_/https%3A//www.privacyrights.org/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-CU" version="XHTML+RDFa 1.0" dir="ltr"><head profile="http://www.w3.org/1999/xhtml/vocab">
+<!DOCTYPE html><html lang="en" dir="ltr"><head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script type="text/javascript" defer="" async="" src="https://www.privacyrights.org/sites/default/files/piwik/piwik.js?opaemx"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="shortcut icon" href="https://www.privacyrights.org/sites/privacyrights.org/files/cti_flex_favicon_2.bmp" type="image/x-ms-bmp">
-<meta name="description" content="As a leading national consumer privacy organization, we strive to provide a privacy policy that is easy to understand and transparent.&nbsp;&nbsp; We comply with Fair Information Principles, and maintain this privacy policy to let you know what information we collect and how that information is used.&nbsp; In general, we ask for the minimum amount of data necessary. We will not share any information you disclose to us unless you give us permission or it is required by law.">
-<link rel="canonical" href="https://www.privacyrights.org/privacy-policy">
-<link rel="shortlink" href="https://www.privacyrights.org/node/1440">
+<link rel="shortcut icon" href="https://www.privacyrights.org/sites/default/files/favicon_0_0.ico" type="image/vnd.microsoft.icon">
+<meta name="description" content="In a nutshell. Privacy Rights Clearinghouse (PRC) strives to provide a privacy policy that is easy to understand, transparent, and based on Fair Information Principles (FIPs). We maintain this policy to let everyone know that we are committed to and respect the rights of individuals who interact with us.&nbsp; Please contact us with any questions regarding this policy.">
+<link rel="canonical" href="https://www.privacyrights.org/prcs-privacy-policy">
+<link rel="shortlink" href="https://www.privacyrights.org/node/67902">
   <title>PRC's Privacy Policy | Privacy Rights Clearinghouse</title>
-  <link type="text/css" rel="stylesheet" href="https://www.privacyrights.org/sites/privacyrights.org/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.privacyrights.org/sites/privacyrights.org/files/css/css_G7fxSu8CC9RRaQshXFrZ1q8VKndH4Lpr21tMFxyu4JM.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.privacyrights.org/sites/privacyrights.org/files/css/css_VKL7NtSPvWPoNjyb8LuISfTCrR5_8S-5CWAzHGDTRjg.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.privacyrights.org/sites/privacyrights.org/files/css/css_amC-mwVHvdCfTw8TpKui6KlN6GvuZvBmnLlPl5NrOH4.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.privacyrights.org/sites/privacyrights.org/files/css/css_YRHpXvjBz3Y-JcfZyZMep6wR5ZTwuIcP2H_dZv7Ug88.css" media="print">
+  <link type="text/css" rel="stylesheet" href="https://www.privacyrights.org/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.privacyrights.org/sites/default/files/css/css_mi4jaHAzIzPhSFfLKKHfU3H6lnUP5HoFg55FESUGQn8.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.privacyrights.org/sites/default/files/css/css_xLFDRTFqZTZeUg7Pab0gP4cpz5TWo3PCH-KBo_HKQ6A.css" media="all">
 
-<!--[if lte IE 7]>
-<link type="text/css" rel="stylesheet" href="https://www.privacyrights.org/sites/privacyrights.org/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<!--[if IE 9]>
+<link type="text/css" rel="stylesheet" href="https://www.privacyrights.org/sites/all/themes/custom/local/css/fix-ie9.css?opaemx" media="all" />
 <![endif]-->
-
-<!--[if lte IE 6]>
-<link type="text/css" rel="stylesheet" href="https://www.privacyrights.org/sites/privacyrights.org/files/css/css_XErG3hP_uk4SMKLvhlCCoI2i2JXj73-LF90AtkJgRpk.css" media="all" />
-<![endif]-->
-  <script type="text/javascript" defer="" async="" src="https://www.privacyrights.org/piwik/piwik.js"></script><script type="text/javascript" src="https://www.privacyrights.org/sites/privacyrights.org/files/js/js_JLxuxbhhrFRy-sBnijHkR0TGGHgiukMPv94zvDWgQ3g.js"></script>
-<script type="text/javascript" src="https://www.privacyrights.org/sites/privacyrights.org/files/js/js_gob36DFwOK_rlnn3JJ7Q0u5iA-izy-S0yv3orGVdIuo.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://www.privacyrights.org/piwik/" : "https://www.privacyrights.org/piwik/");_paq.push(["setSiteId", "1"]);_paq.push(["setTrackerUrl", u+"piwik.php"]);_paq.push(["setDoNotTrack", 1]);_paq.push(["trackPageView"]);_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"piwik.js";s.parentNode.insertBefore(g,s);})();
-//--><!]]>
-</script>
-<script type="text/javascript" src="https://www.privacyrights.org/sites/privacyrights.org/files/js/js_L64KVmD5qx3pdi4G1JE1ZdSd_a7pFAZDJVpckoCjbow.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cti_flex","theme_token":"O107geP-9uJSqEJ3KFQZx4yuWXFdlaPW7HyDzLcthfM","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/piwik\/piwik.js":1,"0":1,"sites\/all\/modules\/_internal\/helper\/js\/helper.js":1,"sites\/all\/modules\/_internal\/helper\/js\/jquery.validate.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-smallscreen.css":1,"sites\/all\/themes\/cti_flex\/css\/html-reset.css":1,"sites\/all\/themes\/cti_flex\/css\/cti-flex-style.css":1,"sites\/all\/themes\/cti_flex\/css\/wireframes.css":1,"sites\/all\/themes\/cti_flex\/css\/layout.css":1,"sites\/all\/themes\/cti_flex\/css\/color-schemes.css":1,"sites\/all\/themes\/cti_flex\/css\/local.css":1,"sites\/all\/themes\/cti_flex\/css\/print.css":1,"sites\/all\/themes\/cti_flex\/css\/ie7.css":1,"sites\/all\/themes\/cti_flex\/css\/ie6.css":1}},"urlIsAjaxTrusted":{"\/search":true},"piwik":{"trackMailto":1},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"fast","autoArrows":false,"disableHI":true},"plugins":{"smallscreen":{"mode":"window_width","breakpointUnit":"px","title":"Main menu"},"supposition":true,"supersubs":true}}}});
-//--><!]]>
-</script>
+<link type="text/css" rel="stylesheet" href="https://www.privacyrights.org/sites/default/files/css/css_AmRkeD5lWnf1DyguPMDmD1Hiua0yVl1hLYSzBxrGOiU.css" media="all">
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="https://www.privacyrights.org/sites/default/files/js/js_gPM6NXOQjN2XM2JWQGfy07nKmcdDFrL289YA7h80ySs.js"></script>
+<script src="https://www.privacyrights.org/sites/default/files/js/js_nr-4ZNOy09mnebVPiYA2Pb-Uc9AnE98Qg_B-AHio6j4.js"></script>
+<script src="https://www.privacyrights.org/sites/default/files/js/js_2vOiMWT0yKRU5hc9iWlzMa6eD41cU5Bze8WRNve3_n4.js"></script>
+<script>var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://analytics.privacyrights.org/" : "https://analytics.privacyrights.org/");_paq.push(["setSiteId", "1"]);_paq.push(["setTrackerUrl", u+"piwik.php"]);_paq.push(["setDoNotTrack", 1]);_paq.push(["trackPageView"]);_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src="https://www.privacyrights.org/sites/default/files/piwik/piwik.js?opaemx";s.parentNode.insertBefore(g,s);})();</script>
+<script src="//use.typekit.net/ppl1hso.js"></script>
+<script>try{Typekit.load({ async: false });}catch(e){}</script>
+<script src="https://www.privacyrights.org/sites/default/files/js/js_OaaAR5w5u9fR8voEQjLaleTA9blW6FA2VqAsLgB9Az4.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"local","theme_token":"cDYx5wB0rglrBtgTbYVTLZmeI8dx0cdFf5LevfSbbv4","js":{"sites\/all\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/jump-menu.js":1,"sites\/all\/modules\/contrib\/toc_filter\/toc_filter.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/modules\/contrib\/piwik\/piwik.js":1,"0":1,"\/\/use.typekit.net\/ppl1hso.js":1,"1":1,"sites\/all\/themes\/custom\/local\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/custom\/local\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/custom\/local\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/custom\/local\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/custom\/local\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/custom\/local\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/custom\/local\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/custom\/local\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/custom\/local\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/custom\/local\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/custom\/local\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/custom\/local\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/custom\/local\/js\/local.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/toc_filter\/toc_filter.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/themes\/custom\/local\/css\/fix-ie9.css":1,"sites\/all\/themes\/custom\/local\/css\/style.css":1,"sites\/all\/themes\/custom\/sageboot\/fontawesome\/css\/font-awesome.min.css":1}},"toc_filter_smooth_scroll_duration":"","better_exposed_filters":{"views":{"privacy_topics":{"displays":{"col1":{"filters":[]},"col2":{"filters":[]},"col3":{"filters":[]},"block":{"filters":[]}}}}},"extlink":{"extTarget":"_blank","extClass":0,"extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"\\.pdf","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"piwik":{"trackMailto":1},"urlIsAjaxTrusted":{"\/prcs-privacy-policy":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":0,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
 </head>
-<body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-1440 node-type-simple section-privacy-policy fixed-layout full-background custom custom_blocks font-family-arial font-size-12 seven-px-corners">
+<body role="document" class="html not-front not-logged-in no-sidebars page-node page-node- page-node-67902 node-type-simple">
   <div id="skip-link">
-    <a href="#main-menu" class="element-invisible element-focusable">Jump to Navigation</a>
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
   </div>
-    
-<div id="page-wrapper"><div id="page" "="">
-
-  <div id="header"><div class="section clearfix">
-
-
-
-          <a href="/" title="Home" rel="home" id="logo"><img src="https://www.privacyrights.org/sites/privacyrights.org/files/cti_flex_logo.png" alt="Home"></a>
-    
-    
-      <div class="region region-header">
-    <div id="block-block-43" class="block block-block first last odd">
+    <header id="navbar" role="banner" class="navbar container-fluid navbar-default">
+          <div class="container-fluid utility-bar small">
+          <div class="region region-utility">
+    <section id="block-search-form" class="block block-search clearfix">
 
       
-  <div class="content">
-    <a href="https://www.privacyrights.org/cc/new-complaint">Sign In</a> to Your Complaint Center  </div>
-
-</div><!-- /.block -->
-  </div><!-- /.region -->
-
-  </div></div><!-- /.section, /#header -->
-
-  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
-
-    <div id="content" class="column"><div class="section">
-                  <a id="main-content"></a>
-            <!--        <h1 class="title" id="page-title">--><!--</h1>-->
-                                  <h1 class="title" align="center">
-                    PRC's Privacy Policy                </h1>
-                <br>
-            
-                              <span class="print_html">
-                <span class="print_html"><a href="https://www.privacyrights.org/print/privacy-policy" title="Display a printer-friendly version of this page." class="print-page" rel="nofollow"><img class="print-icon print-icon-margin" src="https://www.privacyrights.org/sites/all/modules/print/icons/print_icon.png" width="16px" height="16px" alt="Send to Printer" title="Send to Printer">Send to Printer</a></span>            </span>
-                    <div class="tabs"></div>
-                          <div class="region region-content">
-    <div id="block-system-main" class="block block-system first last odd">
+  <form class="form-search content-search" action="/prcs-privacy-policy" method="post" id="search-block-form" accept-charset="UTF-8"><div><div>
+      <h2 class="element-invisible">Search form</h2>
+    <div class="input-group"><input title="Enter the terms you wish to search for." placeholder="Search our site" class="form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128"><span class="input-group-btn"><button type="submit" class="btn btn-primary"><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span></button></span></div><div class="form-actions form-wrapper form-group" id="edit-actions"><button class="element-invisible btn btn-primary form-submit" type="submit" id="edit-submit" name="op" value="Search">Search</button>
+</div><input type="hidden" name="form_build_id" value="form-XDqpDRSPc5QGn478Rk-kJIEmEb7bbNy5hA2fdjGXPLg">
+<input type="hidden" name="form_id" value="search_block_form">
+</div>
+</div></form>
+</section>
+<section id="block-menu-menu-utility" class="block block-menu clearfix">
 
       
-  <div class="content">
-    <div id="node-1440" class="node node-simple view-mode-full clearfix">
-
-  
+  <ul class="menu nav"><li class="first leaf pull-right" id="login-menu-item"><a href="/user">Log in</a></li>
+<li class="leaf pull-right" id="my-account-item"><a href="/user">My Account</a></li>
+<li class="leaf pull-right cta-item" id="submit-question-item"><a href="/submit-question" title="Click here to submit a question" id="submit-question" class="btn-utility">Ask a Question</a></li>
+<li class="leaf pull-right cta-item" id="submit-complaint-item"><a href="/submit-complaint" title="Click here to submit a complaint." id="submit-complaint" class="btn-utility">Submit a Complaint</a></li>
+<li class="leaf pull-left social-menu-item" id="social-youtube"><a href="https://www.youtube.com/user/PrivacyToday" class="social-badge">YouTube</a></li>
+<li class="leaf pull-left social-menu-item" id="social-twitter"><a href="http://www.twitter.com/privacytoday" class="social-badge">Twitter</a></li>
+<li class="last leaf pull-left social-menu-item" id="social-facebook"><a href="http://www.facebook.com/privacyrights" class="social-badge">Facebook</a></li>
+</ul>
+</section>
+  </div>
+      </div>
+      <div class="container-fluid navbar-container">
+    <div class="navbar-header">
+              <a class="logo pull-left" href="/" title="Home"></a>
       
-  
-  
-  <div class="content">
-      <div style="margin-top: 24px">
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>As a leading national consumer privacy
-organization, we strive to provide a privacy policy that is easy to understand
-and transparent.&nbsp;&nbsp; We comply with <a href="https://www.privacyrights.org/ar/fairinfo.htm" target="_blank" title="Fair Information Principles">Fair
-Information Principles</a>, and maintain this privacy
-policy to let you know what information we collect and how that information is
-used.&nbsp; In general, we ask for the minimum
-amount of data necessary. We will not share any information you disclose to us unless
-you give us permission or it is required by law.</p>
-
-<h2>Our Privacy Policy in a Nutshell (details below)</h2>
-
-<p class="text14-black"><img alt="Your Data is Used Only for Intended Use" src="/sites/privacyrights.org/files/u22/your%20data%20is%20used%20only%20for%20intended%20use.png" style="border: 0; margin-top: 0px; margin-bottom: 0px; margin-left: 2px; margin-right: 2px;" height="143" width="122"><img alt="Your Data is Never Given to Advertisers" src="/sites/privacyrights.org/files/u22/your-data-is-never-given-to-advertisers.png" style="border: 0; margin-top: 0px; margin-bottom: 0px; margin-left: 2px; margin-right: 2px;" height="138" width="122"><img alt="Your Data is Never Bartered or Sold" src="/sites/privacyrights.org/files/u22/your-data-is-never-bartered-or-sold.png" style="border: 0; margin-top: 0px; margin-bottom: 0px; margin-left: 2px; margin-right: 2px;" height="141" width="122"><img alt="Data is Given to Law Enforcement Only When Legal Process is Followed" src="/sites/privacyrights.org/files/u22/data-is-given-to-law-enforcement-only-when-legal-process-is-involved.png" style="border: 0; margin-top: 0px; margin-bottom: 0px; margin-left: 2px; margin-right: 2px;" height="143" width="108"></p><h2>Our
-Privacy Policy has Five Sections:</h2>
-
-
-
-<p><b>I. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#activities" title="Major Activities on Our Website">Major Activities on
-Our Website</a></b></p>
-
-<p><b>II.&nbsp;&nbsp;&nbsp;&nbsp; <a href="#useanddisclosure" title="Use and Disclosure">Use and
-Disclosure</a></b></p>
-
-<p><b>III.&nbsp;&nbsp; <a href="#access" title="Access">Access,
-Correction, and Data Quality</a></b></p>
-
-<p><b>IV.&nbsp;&nbsp;&nbsp; <a href="#security" title="Security">Security
-</a></b></p>
-
-<p><b>V.&nbsp;&nbsp;&nbsp;&nbsp; <a href="#other" title="Other">Other</a></b></p>
-
-<p><b>&nbsp;</b></p>
-
-<p><b>I.&nbsp; <a name="activities" id="activities"></a>Major Activities on Our Website</b></p>
-
-
-
-<p><b>When
-You Visit Our Website</b></p>
-
-
-
-<p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Information Our Site Gathers</b></p>
-
-<p>When you visit our website, our site
-collects information to provide us with aggregate data.&nbsp; We use an analytics program called&nbsp;<a href="http://www.piwik.org" target="_blank" title="Piwik">Piwik</a>.&nbsp; Piwik analyzes the data our site collects
-and provides us with reports.</p>
-
-
-
-<p>&nbsp;
-The information our site collects includes: </p>
-
-<ul><li>Internet Protocol or IP address
-(the unique number assigned to the device you are using to connect to the
-Internet); </li><li>Your browser, the version and
-what operating system you use (for example if you are using Internet Explorer 9
-or Mozilla Firefox 8.0 on Windows 7); </li><li>The bandwidth used when you visit
-our site.</li><li>When you visit on our site and
-how long you spend on it, and what pages you view; </li><li>How you arrived on our site (for
-instance, did you use a search engine or click through a link in an online
-publication?)</li></ul><p>This data is stored in log files that
-are used by Piwik to generate website usage reports that do not contain
-personally identifiable information.&nbsp; PRC
-deletes the log files monthly, and we do not back them up.</p>
-
-
-
-<p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b><b>What Information We Are Able to See</b></p>
-
-<p>While our site collects the information
-listed above, we receive aggregate data from&nbsp;<a href="http://www.piwik.org" target="_blank" title="Piwik">Piwik</a>.
-The data reveals, for instance, how many unique visitors we have in a month,
-how many individual page views we receive, the top 25 countries from which our
-site is viewed, the top 10 operating systems and browsers that people use to
-visit our site, and how people reached our content (through links in other
-sites, search engines, etc.).&nbsp;&nbsp; The
-reports do not include IP addresses and we do not attempt to tie individual IP
-addresses to this information.</p>
-
-
-
-<p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b><b>Cookies</b></p>
-
-<p>We do not use persistent cookies on our
-website. We do use session cookies.&nbsp;
-Session cookies allow us to provide you with a better experience on our
-site.&nbsp; They do not capture personally
-identifiable information, and they do not track your online movements.&nbsp; Session cookies expire when you close your
-browser.&nbsp; </p>
-
-<p>You can set your browser to refuse cookies.&nbsp; For more information, search for <i>how to refuse and delete cookies</i> or see <a href="https://www.privacyrights.org/fs/fs18-cyb.htm#Browsing">PRC's Fact Sheet
-18: Online Privacy: Using the Internet Safely</a>.</p>
-
-<p><b>When You Join Our
-Mailing List</b></p>
-
-<p>We invite you to join our mailing list to receive alerts from us.&nbsp; To <a href="../../../../../../../../subscribe.htm">join our mailing list</a>,
-you must give us an email address and choose whether you want to receive mail
-in <i>HTML format </i>or <i>Plain Text format</i>. You may choose to
-give us your first name and state. We store our mailing list in a database
-hosted by <a href="http://www.topica.com/email-marketing/privacy/" target="_blank" title="Topica">Topica</a>,
-an online service provider we use to send our alerts via email. </p>
-
-<p>If you choose to receive our alerts in <i>HTML
-format</i>, the email includes a web beacon telling Topica that you opened the
-email.&nbsp; The web beacon does not track
-anything else, such as the links you click on or whether you forward it to a
-friend. </p>
-
-<p>&nbsp;If you choose, you can block web
-beacons. For more information, search for <i>how
-to block web beacons </i>or see <a href="https://www.privacyrights.org/fs/fs18-cyb.htm#Marketing">PRC's Fact Sheet
-18: Online Privacy: Using the Internet Safely</a>. </p>
-
-<p>You may also choose to receive our emails in <i>Plain Text format</i>. In this case, the email will not have a web
-beacon.&nbsp; The email won't look pretty, but
-you can receive our alerts without any tracking.&nbsp; </p>
-
-<p>You can unsubscribe from the mailing list at any time.&nbsp; Look for the "Safe Unsubscribe"
-link at the bottom of the emails sent through Topica or call us at
-619-298-3396.</p>
-
-<p><b>When You Make a Donation</b></p><p>When you donate by mail, we ask
-you to print and fill out a <a href="https://www.privacyrights.org/sites/privacyrights.org/files/u22/PRC-Contribution-Form.pdf" target="_blank" title="PRC donation form">PDF
-mail-in donation form</a>.&nbsp; The form asks
-for your name, mailing address, and optional phone number.&nbsp; We use your information to send you a receipt
-and thank you letter.&nbsp; We store any hard
-copies of information you send in a locked cabinet in our office.</p>
-
-<p><b>When You Call or Email Us</b></p>
-
-<p>We invite emails and phone calls from individuals who have privacy-related
-complaints or questions. We maintain records of the types of inquiries we get
-so that we can identify emerging privacy issues that need further research or
-possible legislation.</p>
-
-<p>If you give us your name or other personally identifiable information we may
-retain it in our records.&nbsp;&nbsp; If you
-contact us online, we will respond to you via email.&nbsp; When you call us, you are not required to
-give us any personally identifiable information.&nbsp; We do not voluntarily share any personally
-identifiable information you provide to us unless you specifically ask or if
-required by law.</p>
-
-<p><b>When You File a Complaint with Our
-Online Complaint Center</b></p>
-
-<p>If you use our <a href="https://www.privacyrights.org/cc/new-complaint">online
-complaint center</a>,
-you must give us your email address and state so that we can respond to
-you.&nbsp; Provide other personally
-identifiable information only if you choose.&nbsp;
-You also have the option to register with our complaint center so that
-you can update your complaint and your contact information. </p>
-
-<p>Data you provide us is stored and backed up securely, and is encrypted on
-our server.&nbsp; We do not voluntarily share any
-personally identifiable information unless you specifically ask or we are
-legally required to do so.&nbsp; We do,
-however, aggregate the data to analyze trends and publish reports.</p>
-
-<p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b><b>If You Ask Us to Share Your Complaint</b></p>
-
-<p>You have the option to allow us to share your complaint with appropriate
-federal or state government agencies, with the media (newspapers, television,
-radio, websites), or with a lawyer.&nbsp; When
-you allow us to share your complaint, we will include personally identifiable
-information so that the recipient can contact you to follow up.&nbsp; When we share complaints, we cannot guarantee
-how the recipient will use your personal information.&nbsp; In other words, the data will be subject to
-the recipient's own privacy policy, and your personal information could be
-shared with others.</p>
-
-<p><b>A Note about Third-Parties</b></p>
-
-<p>Our privacy policy only applies to <a href="../../../../../../../../">www.privacyrights.org</a>
-and the activities of the Privacy Rights Clearinghouse (PRC).&nbsp; If you click on a link on our site that takes
-you to a different organization or company's website, you need to read that
-site's privacy policy. For example, if you interact with PRC on Facebook or
-Twitter, your information is subject to their respective privacy policies.</p>
-
-<p><b>II. <a name="useanddisclosure" id="useanddisclosure"></a>Use and Disclosure</b></p>
-
-<p>See <a href="#activities" title="Major Activities on Our Website">Section
-I</a> above
-for the major ways we use and share information collected from website
-visitors, those who email or call us, donors, and users of our complaint
-tool.&nbsp; We assure you that we will <b><span style="text-decoration: underline;">never</span></b> sell, trade, or otherwise
-share your information with an advertiser, marketer, credit bureau, or
-profiler.&nbsp; Our general policy is that we
-do not share your personally identifiable information with anyone without your
-consent.</p>
-
-<p>However, there are some limits on what we can and do promise.&nbsp; Most of these disclosures are unlikely, but
-we feel it is necessary to let you know they are possible.</p>
-
-<ul><li>We disclose personally identifiable information
-when required by law.&nbsp; Just like everyone
-else, we cannot guarantee that your personally identifiable information will
-never be sought by subpoena, search warrant, court order, or other lawful form
-of legal process.&nbsp; 
-
-<br><br>
-
-If someone demands that we produce your identifiable information,
-we will try to notify you in advance.&nbsp; If
-we do not have current contact information for you, we may not be able to reach
-you.&nbsp; It is also possible that we may be
-prohibited from contacting you. <br><br></li>
-
-<li>We may disclose personally identifiable
-information to law enforcement if we have reason to believe that our site has
-been used in a way that violates the law (e.g. someone uses our website for
-improper activities or tries to hack our website).<br><br></li>
-
-<li>We may disclose personally identifiable
-information to the extent we reasonably believe it necessary:<ul><li>to protect the security or integrity of our
-operations;</li><li>to take precautions against liability;</li><li>in the event of a security breach, or to take
-action to prevent, minimize, or remedy any harm from the breach; or</li><li>to the extent permitted by law, to provide
-information to a law enforcement agency or for an investigation on a matter
-related to public safety.</li></ul></li>
-
-<li>We may disclose personal information to staff
-and third-parties such as lawyers, consultants, volunteers, and contract
-workers.&nbsp; When we disclose personal
-information to third parties, we do our best to contractually restrict any
-further use or disclosure of the information that would be inconsistent with
-this policy. <br><br></li><li>If the Privacy Rights Clearinghouse ever changes
-its structure, merges with another organization, or evolves in other ways, all
-information may be shared with a successor organization. We will do our best to
-ensure that the information is handled in accordance with this privacy policy. </li></ul><p><b>III. <a name="access" id="access"></a>Access, Correction, and Data Quality</b></p>
-
-
-
-<p>If we have personally identifiable
-information about you, we will make that information available to you upon
-request.&nbsp; We also welcome updates to your
-contact information so we can keep in touch with you.&nbsp; You can ask us to delete any personally
-identifiable information we have for you, and we will comply unless we are
-otherwise required to keep it.&nbsp; Please
-contact us at <a href="mailto:admin@privacyrights.org">admin@privacyrights.org</a>
-or 619-298-3396 if you have such a request.</p>
-
-
-
-<p><b>IV. <a name="security" id="security"></a>Security </b></p>
-
-
-
-<p>We maintain appropriate
-administrative, technical, and physical safeguards to protect all information
-that we have, including your personally identifiable information.&nbsp; No one can guarantee absolute security, but
-we exercise great caution in protecting our information.&nbsp; </p>
-
-<p><b>V. <a name="other" id="other"></a>Other</b></p>
-
-<p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b><b>Children and Foreign Users</b></p>
-
-<p>We do not anticipate that children under the age of 13 will provide
-personally identifiable information through our website.&nbsp; If we learn that we have information about a
-child under the age of 13 we will delete it. </p>
-
-<p>Individuals in other countries are welcome to use our website.&nbsp; Any individual outside the United States
-should understand that any personally identifiable information provided to us through
-our website is collected, stored, and otherwise processed in the U.S.&nbsp; Privacy protections for personal data in the
-U.S. are different from the privacy protections available by law in other
-countries and are often weaker.&nbsp; If this
-is unacceptable, you should not provide any personally identifiable
-information. </p>
-
-<p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b><b>Changes to this Policy</b></p>
-
-<p>The PRC may make changes to this policy on occasion.&nbsp; We will announce substantial changes on this
-page and on our <a href="../../../../../../../../">homepage</a>.&nbsp; If possible, we will post notice of
-substantial changes before they take effect.&nbsp;
+      
+              <button type="button" class="btn-mobile navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <i class="fa fa-bars fa-2x"></i>
+        </button>
+        <a href="/user" class="btn-mobile user-link"></a>
+        <a href="/search" class="btn-mobile search-toggle"><i class="fa fa-2x fa-search"></i></a>
+          </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first leaf hidden-md hidden-lg responsive-menu-cta" id="submit-complaint-responsive-item"><a href="/submit-complaint" id="submit-complaint-responsive-link">Submit a Complaint</a></li>
+<li class="leaf hidden-md hidden-lg responsive-menu-cta" id="submit-question-responsive-item"><a href="/submit-question" id="submit-question-responsive-link">Submit a Question</a></li>
+<li class="leaf"><a href="/">Home</a></li>
+<li class="leaf"><a href="/learn">Learn</a></li>
+<li class="leaf"><a href="/blog">Blog</a></li>
+<li class="leaf"><a href="/data-breaches">Data Breaches</a></li>
+<li class="leaf"><a href="/policy-reports">Policy &amp; Reports</a></li>
+<li class="leaf" id="search-menu-item"><a href="/search" id="search-menu-link">Search</a></li>
+<li class="leaf responsive-only social-item" id="facebook-responsive-item"><a href="http://www.facebook.com/privacyrights">Facebook</a></li>
+<li class="leaf responsive-only social-item" id="twitter-responsive-item"><a href="http://www.twitter.com/privacytoday">Twitter</a></li>
+<li class="last leaf responsive-only social-item" id="youtube-responsive-item"><a href="https://www.youtube.com/user/PrivacyToday">Youtube</a></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+</header>
+
+<div class="main-container container-fluid">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="container content">
+    <div class="row">
+      
+      <section class="content-head">
+                <ol class="breadcrumb"><li><a href="/">Home</a></li>
+<li class="active">PRC's Privacy Policy</li>
+</ol>        <a id="main-content"></a>
+                          <h1 class="page-header">PRC's Privacy Policy</h1>
+          <div class="title-divider-line"></div>
+                                                                        </section>
+
+      
+      <section class="col-sm-12">
+          <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article id="node-67902" class="node node-simple clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><strong>In a nutshell. </strong>Privacy
+Rights Clearinghouse (PRC) strives to provide a privacy policy that is easy to
+understand, transparent, and based on <a href="http://bobgellman.com/rg-docs/rg-FIPShistory.pdf">Fair Information
+Principles</a> (FIPs). We maintain this policy to let everyone know that we are
+committed to and respect the rights of individuals who interact with us.&nbsp; Please <a href="mailto:admin@privacyrights.org">contact us</a> with any questions
+regarding this policy. </p>
+
+<ul><li>We collect personal information you provide us
+with, and require the minimum amount of information necessary.&nbsp; We automatically collect analytics data from
+our site visitors, but allow you to <a href="http://demo.piwik.org/index.php?module=CoreAdminHome&amp;action=optOut&amp;language=en">opt out</a> of our analytics collection if you want.&nbsp; </li><li>We use personal information only for the purpose
+we collect it unless you ask us to use it otherwise.&nbsp; </li><li>We do not sell or rent any personal information.&nbsp; </li><li>We implement physical, administrative, and
+technical security measures to protect any information we collect.&nbsp; In addition, all communications between PRC
+and our site visitors will be conducted over an encrypted connection.</li><li>If you want to stop receiving communications
+from us, update your information, close an account, or request information be
+deleted, <a href="mailto:admin@privacyrights.org">let us know</a>.&nbsp; If you create an account to ask us a privacy
+question, you have the option to delete your account through your dashboard.</li></ul><p><strong>Please read the full policy below for details on any of these
+statements.</strong></p><ol><li><a href="#info prc collects">What information does PRC collect and how does it use this information?</a><ol><li style="list-style-type: lower-alpha;"><a href="#visit website">When you visit our website</a></li><li style="list-style-type: lower-alpha;"><a href="#join our mailing list">When you join our mailing list</a></li><li style="list-style-type: lower-alpha;"><a href="#make a donation">When you make a donation</a></li><li style="list-style-type: lower-alpha;"><a href="#file complaint share story">When you file a complaint or share a story with PRC</a></li><li style="list-style-type: lower-alpha;"><a href="#ask a question">When you ask PRC a privacy question</a></li></ol></li><li style="list-style-type: decimal;"><a href="#use disclose">How does PRC use and disclose the information it collects?</a></li><li style="list-style-type: decimal;"><a href="#access correction data quality">How does PRC address access, correction, and data quality?</a></li><li style="list-style-type: decimal;"><a href="#security">Does PRC take security measures to protect the data it collects?</a></li><li style="list-style-type: decimal;"><a href="#additional info">Additional information</a><ol><li style="list-style-type: lower-alpha;"><a href="#third parties">When you click through to other sites from our website or interact with third parties</a></li><li style="list-style-type: lower-alpha;"><a href="#children">Children</a></li><li style="list-style-type: lower-alpha;"><a href="#visitors outside us">Site visitors outside the U.S.</a></li><li style="list-style-type: lower-alpha;"><a href="#changes policy">Changes to this policy</a></li><li style="list-style-type: lower-alpha;"><a href="#revision history">PRC Privacy Policy revision history</a></li><li style="list-style-type: lower-alpha;"><a href="#contact">Contact and Accountability</a></li></ol></li></ol><h4><strong><a name="info prc collects" id="info prc collects"></a>1. What information does PRC collect and how does it use this information?<br><br></strong></h4><h4>
+
+</h4><h4 style="padding-left: 30px;"><strong><a name="visit website" id="visit website"></a>a. When you visit our website</strong></h4>
+
+
+
+<p style="padding-left: 30px;">When you visit the PRC website, we
+automatically collect analytics information and receive reports from <a href="https://piwik.org/">Piwik</a>, our analytics provider. </p>
+
+<p style="padding-left: 30px;">A cookie is a string of
+information a website stores on a visitor’s computer. We may use session
+cookies (meaning they disappear when you close your browser) on PRC’s website with
+our analytics provider to learn more about how visitors use and reach our
+website.&nbsp; &nbsp;</p>
+
+
+
+<p style="padding-left: 30px;">We do not allow third party tracking
+cookies on our website, and you can still use our website even if you set your
+browser to reject cookies.&nbsp; To learn
+more, search for&nbsp;<em>how to block and delete cookies</em>&nbsp;or see&nbsp;PRC’s
+guide<em>, </em><a href="https://www.privacyrights.org/consumer-guides/online-privacy-using-internet-safely"><em>Online Privacy: Using the Internet Safely</em></a>.&nbsp; </p>
+
+<p style="padding-left: 30px;">The analytics data our site
+collects is stored in a database used by Piwik to generate reports that contain
+aggregate data about how people use our website.<em>&nbsp; PRC does not receive personally
+identifiable information in these reports, and does not attempt to identify
+individuals.&nbsp; </em><strong><br><br>Opt out of analytics collection</strong><br>If you choose to <a href="http://demo.piwik.org/index.php?module=CoreAdminHome&amp;action=optOut&amp;language=en">opt out</a> of PRC's analytics collection, a cookie ‘piwik_ignore’ will be set. All visitors with a piwik_ignore cookie will not be tracked.</p><p style="padding-left: 30px;"><strong>Do not track</strong><br>
+Piwik also will not track visitors who have indicated they do not want to be tracked
+in their web browser. &nbsp;You may indicate
+this preference in most browsers’ settings.</p>
+
+
+
+<h4 style="padding-left: 30px;"><strong><a name="join our mailing list" id="join our mailing list"></a>b. When you join our mailing list</strong></h4>
+
+<p style="padding-left: 30px;">If you choose to join our mailing
+list, we will use the email address you provide us only to send you messages
+associated with that particular list.&nbsp; We
+do not sell, rent, or share our mailing list.</p>
+
+<p style="padding-left: 30px;">PRC uses <a href="http://www.constantcontact.com/legal/service-provider">Constant Contact</a>
+to send our newsletters, alerts, and other email to our email list (you will
+not be automatically subscribed to this list when you ask us a privacy
+question). You can always unsubscribe from our mailing list.&nbsp; To
+unsubscribe, look for a “SafeUnsubscribe” link at the bottom of any email you
+receive from us. &nbsp;See <a href="https://www.constantcontact.com/legal/service-provider">information about
+Constant Contact</a> and its<a href="https://www.constantcontact.com/legal/privacy-statement"> privacy
+statement</a> for more information.</p>
+
+<p style="padding-left: 30px;">Constant Contact may use web
+beacons to allow them to determine if you opened an email.&nbsp; You can block web beacons.&nbsp; To learn more, search for&nbsp;<em>how to
+block web beacons</em>&nbsp;or see&nbsp;PRC’s guide<em>,</em> <a href="https://www.privacyrights.org/consumer-guides/online-privacy-using-internet-safely"><em>Online Privacy: Using the Internet Safely</em></a>.</p>
+
+<h4 style="padding-left: 30px;"><strong><a name="make a donation" id="make a donation"></a>c. When you make a donation </strong></h4><p style="padding-left: 30px;"><strong>
+</strong>When you make a donation to PRC, we will keep the information you provide
+us so that we can thank you, provide you with receipts for tax purposes, and
+(if you provide an email address) keep you up to date with occasional donor-related
+emails.&nbsp; You may also opt in to join our
+general email list.&nbsp; Any email we send
+will contain information about how to unsubscribe from the applicable
+list.&nbsp; We do not sell, rent, or share our
+donor list. </p>
+
+<p style="padding-left: 60px;"><strong>Payment processing. </strong>&nbsp;PRC does
+not process online donation payments, and we do not have access to your
+financial information.&nbsp; We contract with <a href="http://www.networkforgood.com/">Network for Good</a> to process online donation payments.&nbsp; When you leave our website, you are no longer
+subject to the PRC’s privacy policy. Please see the Network for Good <a href="http://www.networkforgood.com/about/privacy/">privacy policy</a> and <a href="http://www.networkforgood.com/about/terms/">terms</a> for more information.&nbsp;&nbsp;&nbsp; </p>
+
+<h4 style="padding-left: 30px;"><strong><a name="file complaint share story" id="file complaint share story"></a>d. When you file a complaint or share a story with PRC</strong></h4>
+
+
+
+<p style="padding-left: 30px;">PRC uses complaints and consumer
+stories to help us speak out for consumers as we advocate for stronger privacy
+protections and raise awareness of current privacy issues and concerns. &nbsp;We also use complaints and stories to analyze
+trends and publish reports. &nbsp;If you file
+a complaint or share a story with PRC, you may choose to submit it anonymously
+or to provide us with additional information.&nbsp;
+We do not share any personally identifiable information unless you give
+us permission or we are legally required to do so.&nbsp; </p><p style="padding-left: 60px;"><strong>If you request that PRC share your complaint or story. </strong>You have the
+option to allow PRC to share your complaint or story with appropriate federal
+or state government agencies and with journalists.&nbsp; When you allow us to share, we will include
+any information you provide us so that the recipients can contact you to follow
+up (if they choose to do so).&nbsp; When we
+share complaints and stories, we cannot guarantee how the recipient will use
+your personal information.&nbsp; The data will
+be subject to the recipient’s own privacy policy, and your personal information
+could be shared with others.</p>
+
+
+
+<h4 style="padding-left: 30px;"><strong><a name="ask a question" id="ask a question"></a>e. When you ask PRC a privacy question<br></strong></h4>
+
+<p style="padding-left: 30px;">If you choose to ask us a privacy
+question through our website, we require you to create an account and provide
+us with an email address and your state.&nbsp;
+We will only use the email address you provide to notify you when a PRC
+staff member has posted a response to the question you submitted.&nbsp; </p><p style="padding-left: 30px;">
+We request that you provide us with your state because it helps us provide you
+with a better answer and relevant resources (privacy rights can vary quite a
+bit by state).&nbsp; You can choose whether to
+provide us with more information.&nbsp; <br>
+We will only share information you provide us to the extent that you request
+that we share with government agencies or journalists.&nbsp; You may also choose to allow us to seek
+outside assistance in answering your question.&nbsp;
 </p>
 
-<p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b><b>Questions and Concerns</b></p>
+<p style="padding-left: 30px;">You can update your information or
+fully delete your account at any time through your dashboard.&nbsp; If you have questions or difficulties, please
+<a href="mailto:webmaster@privacyrights.org">contact us</a>. </p>
 
-<p>We practice what we preach, and we train our staff so that they understand
-our privacy policy.&nbsp; If you have any
-questions or comments about our privacy policy, please direct your inquiry to <a href="mailto:admin@privacyrights.org">admin@privacyrights.org</a>&nbsp; or 619-298-3396.&nbsp; </p>
+<h4><strong><a name="use disclose" id="use disclose"></a>2. How does PRC use and disclose the information it collects?</strong></h4>
 
-<p>&nbsp;</p><p><b>Privacy
-Rights Clearinghouse Privacy Policy Revision History</b></p>
+<p>See Section 1. for the major ways
+PRC uses information we collect.&nbsp; We use personal
+information only for the purpose for which we obtained it from you. &nbsp;In addition, it is our general policy to
+disclose personal information only when you consent.&nbsp; </p>
 
-<p><span style="text-decoration: underline;">Revised</span>:
-01.02.2012</p>
+<p>However, there are some limits on
+what we can promise.&nbsp; Most of these
+disclosures are unlikely, but we feel it is necessary to let you know they are
+possible.</p>
 
-<p><span style="text-decoration: underline;">Version</span>:
-2.0.&nbsp; We revised our policy to add more
-detail, describe our complaint tool, spell out the disclosures that we make
-with more specificity, provide information about access and correction.&nbsp; We did not make any changes to our basic
-policy of respecting the privacy of our users, or to our policy of not giving
-user data to advertisers.</p><p><span style="text-decoration: underline;">Revised</span>: 05.19.2014</p><p><span style="text-decoration: underline;">Revision</span>: We revised our policy to note the switch from AWstats to the Piwik Analytics engine.</p></div></div></div><div class="field field-name-taxonomy-vocabulary-3 field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/149">About us</a></div></div></div><div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/category/tags/privacy-policy">privacy policy</a></div></div></div>      </div>
+<ul><li>We disclose personal information
+when required by law.&nbsp; We cannot
+guarantee that your personal information will never be sought by subpoena,
+search warrant, court order, or other lawful form of legal process.&nbsp; We may or may not contest a demand for data.<br>If we are able, we will make a reasonable attempt to notify you about any such
+disclosure.&nbsp; We cannot guarantee that we
+will be able or allowed to contact you.&nbsp; </li><li>We may disclose personal
+information to law enforcement if we have reason to believe that our site has
+been used in a way that violates the law (e.g. someone uses our website for
+improper activities or tries to hack our website).</li><li>We may disclose personal
+information to the extent we reasonably believe it necessary:</li></ul><blockquote style="padding-left: 60px;"><ul><li>to protect the security or
+integrity of our operations;</li><li>to take precautions against
+liability;</li><li>in the event of a security breach,
+or to take actions to prevent, minimize, or remedy any harm from the breach; or</li><li>
 
-        </div>
+to the extent required by law, or
+to provide information to a law enforcement agency or for an investigation
+related to public safety.</li></ul></blockquote>
 
-  <ul class="links inline"><li class="tweet_Twitter first"><a href="http://twitter.com/?status=https%3A//www.privacyrights.org/privacy-policy%20PRC%27s%20Privacy%20Policy" class="tweet" rel="nofollow" target="_blank"><img src="https://www.privacyrights.org/sites/all/modules/tweet/twitter.png" alt="Post to Twitter" title="Post to Twitter"> Post to Twitter</a></li>
-<li class="print_html last"><a href="/print/privacy-policy" title="Display a printer-friendly version of this page." class="print-page" rel="nofollow"><img class="print-icon print-icon-margin" src="https://www.privacyrights.org/sites/all/modules/print/icons/print_icon.png" width="16px" height="16px" alt="Send to Printer" title="Send to Printer">Send to Printer</a></li>
-</ul>
-  
-</div> <!-- /.node -->
+<ul><li>We may disclose personal
+information we collect to contractors who provide administrative services and
+support to PRC. &nbsp;This may include auditors,
+our Internet Service Provider, database providers, lawyers, consultants,
+volunteers, contractors, and others.&nbsp; We attempt
+to minimize sharing personal information, and we avoid it where possible.&nbsp; However, we depend on third parties to
+support some of our services and operations.&nbsp;
+We strive to select vendors and contractors who have strong privacy and
+security policies.</li><li>If PRC ever changes its structure,
+merges with another organization, or evolves in other ways, personal
+information may be shared with a successor organization.&nbsp; We will do our best to ensure that the
+information is handled in accordance with this policy. 
+
+</li></ul><h4><strong><a name="access correction data quality" id="access correction data quality"></a>3. How does PRC address access, correction, and data quality?</strong></h4><p>
+If we have personal information about you, we will make that information
+available to you upon request.&nbsp; We also
+welcome updates to your contact information so we can keep in touch with
+you.&nbsp; You can ask us to delete any
+personal information we have about you, and we will comply unless we are
+otherwise required to keep it.&nbsp; Please <a href="mailto:admin@privacyrights.org">contact us</a> if you have such a
+request.&nbsp; We do not charge a fee for any
+of these requests.</p>
+
+
+
+<h4><strong><a name="security" id="security"></a>4. Does PRC take security measures to protect the data it collects?</strong></h4>
+
+
+
+<p>PRC maintains appropriate
+administrative, technical, and physical safeguards to protect all information
+we have, including your personal information.&nbsp;
+It is impossible to guarantee absolute security, but we exercise great care
+in protecting any information we collect. </p>
+
+
+
+<p>PRC also relies on third parties
+to take appropriate security measures for web hosting, email marketing, and
+donation processing. </p>
+
+<h4><strong><a name="additional info" id="additional info"></a>5. Additional information</strong></h4>
+
+<h4 style="padding-left: 30px;"><strong><a name="third parties" id="third parties"></a>a. When you click through to other sites from our website or interact with
+third parties</strong></h4><p style="padding-left: 30px;">
+PRC’s privacy policy only applies to <a href="http://www.privacyrights.org">www.privacyrights.org</a>
+and the activities of PRC.&nbsp; If you click
+on a link on our site that takes you to a different organization or company’s
+website, you will be subject to and should read that company’s privacy
+policy.&nbsp;&nbsp; For example, if you interact
+with or share PRC materials on Facebook, Twitter, or LinkedIn, you will be
+subject to their respective privacy policies.&nbsp;
+</p><p style="padding-left: 30px;">You will also be subject to third
+party policies when you donate online to PRC (Network for Good) and when you
+join our mailing list (Constant Contact).</p>
+
+
+
+<h4 style="padding-left: 30px;"><strong><a name="children" id="children"></a>b. Children </strong></h4>
+
+<p style="padding-left: 30px;">This website is not directed at
+children under the age of 13 who have protections under the Children’s Online
+Privacy Protection Act.&nbsp; Some children
+may use PRC’s website to obtain information about privacy, but we do not
+anticipate that they will engage in activities that result in PRC obtaining any
+personal information. If we learn that we have information about a child under
+the age of 13, we will delete it.</p>
+
+
+
+<h4 style="padding-left: 30px;"><strong><a name="visitors outside us" id="visitors outside us"></a>c. Site visitors outside the U.S.</strong></h4><p style="padding-left: 30px;"><strong>
+</strong>Individuals outside the U.S. are welcome to use our website, but must
+acknowledge that any personal information provided to us through our website is
+collected, stored, and otherwise processed in the U.S.&nbsp; Privacy protections for personal data in the
+U.S. are different from privacy protections available by law in other countries
+(they are often weaker).&nbsp; If this is
+unacceptable, you should not provide us with any personal information.</p>
+
+
+
+<h4 style="padding-left: 30px;"><strong><a name="changes policy" id="changes policy"></a>d. Changes to this policy</strong></h4><p style="padding-left: 30px;"><strong>
+</strong>PRC may make changes to this policy on occasion.&nbsp; We will announce substantial changes on this
+page and in our <a href="https://www.privacyrights.org/blog">blog</a>.&nbsp;&nbsp; </p>
+
+<h4 style="padding-left: 30px;"><strong><a name="revision history" id="revision history"></a>e. PRC Privacy Policy revision history</strong></h4><p style="padding-left: 30px;"><strong>
+</strong><span style="text-decoration: underline;">Revised 01.02.2012</span>:&nbsp; We
+revised our policy to add more detail, describe our complaint tool, spell out
+the disclosures that we make with more specificity, provide information about
+access and correction.&nbsp; We did not make any changes to our basic policy of
+respecting the privacy of our users, or to our policy of not giving user data
+to advertisers.</p>
+
+<p style="padding-left: 30px;"><span style="text-decoration: underline;">Revised 05.19.2014</span>: We
+revised our policy to note the switch from AWstats to the Piwik Analytics
+engine.</p>
+
+<p style="padding-left: 30px;"><span style="text-decoration: underline;">Revised 10.06.2016</span>: We
+revised our policy to reflect changes associated with our website overhaul, to
+make the policy more reader-friendly, and to account for the addition of
+Constant Contact and Network for Good as third party vendors.</p>
+
+<h4 style="padding-left: 30px;">
+
+<strong><a name="contact" id="contact"></a>f. Contact
+and Accountability</strong></h4><p style="padding-left: 30px;"><strong>
+</strong>If you have questions or comments regarding our
+privacy policy, please <a href="mailto:admin@privacyrights.org">contact us</a>.&nbsp; We can also be contacted at 619-298-3396 or
+by mail at 3033 5<sup>th</sup> Ave, Suite 223, San Diego, CA 92103.&nbsp;&nbsp; <br>
+We instruct all staff members on our privacy, confidentiality, and security
+policies.&nbsp; PRC staff who have access to
+personal information are required to abide by these policies, and we hold them
+accountable for doing so.</p><p>
+
+<br><br></p></div></div></div>    <footer>
+          </footer>
+    </article>
+
+</section>
   </div>
-
-</div><!-- /.block -->
-  </div><!-- /.region -->
-              </div></div><!-- /.section, /#content -->
-
-          <div id="navigation"><div class="section clearfix">
-
-        
-          <div class="region region-navigation">
-    <div id="block-superfish-1" class="block block-superfish first odd">
-
-        <h2 class="block-title">Main menu</h2>
-    
-  <div class="content">
-    <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-5 sf-parent-items-3 sf-single-items-2"><li id="menu-4195-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="https://www.privacyrights.org/" title="" class="sf-depth-1">Home</a></li><li id="menu-4085-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-6 sf-parent-children-0 sf-single-children-6 menuparent"><a href="https://www.privacyrights.org/node/1398" title="About Privacy Rights Clearinghouse" class="sf-depth-1 menuparent">About Us</a><ul><li id="menu-3610-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="https://www.privacyrights.org/contact-us" title="About the Privacy Rights Clearinghouse" class="sf-depth-2">About Us - Contact Us</a></li><li id="menu-3657-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="https://www.privacyrights.org/prc-news-breaking-privacy-issues" title="PRC IN THE NEWS: Reporters Quote PRC Staff on Breaking Privacy Issues" class="sf-depth-2">PRC in the News</a></li><li id="menu-4177-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="https://www.privacyrights.org/praise-privacy-rights-clearinghouse" title="Praise for the Privacy Rights Clearinghouse" class="sf-depth-2">Praise for PRC</a></li><li id="menu-3661-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="https://www.privacyrights.org/privacy-policy" title="PRC's Privacy Policy" class="sf-depth-2">Privacy Policy</a></li><li id="menu-6264-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="https://www.privacyrights.org/copyright" title="" class="sf-depth-2">Copyright &amp; Reprint Guidelines</a></li><li id="menu-20890-1" class="last even sf-item-6 sf-depth-2 sf-no-children"><a href="https://www.privacyrights.org/opportunities-prc" title="" class="sf-depth-2">Opportunities with PRC</a></li></ul></li><li id="menu-3974-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="https://www.privacyrights.org/privacy-rights-fact-sheets" title="Privacy Rights Clearinghouse Fact Sheets" class="sf-depth-1 menuparent">Fact Sheets</a><ul><li id="menu-3992-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="https://www.privacyrights.org/Privacy-Rights-Fact-Sheets" title="" class="sf-depth-2">English</a></li><li id="menu-3967-1" class="last even sf-item-2 sf-depth-2 sf-no-children"><a href="https://www.privacyrights.org/espanol" title="" class="sf-depth-2">en Español</a></li></ul></li><li id="menu-4062-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="https://www.privacyrights.org/privacy-alerts" title="" class="sf-depth-1 menuparent">Latest Issues</a><ul><li id="menu-4027-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="https://www.privacyrights.org/privacy-alerts" title="Privacy Rights Clearinghouse Alerts" class="sf-depth-2">Alerts</a></li><li id="menu-4063-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="https://www.privacyrights.org/privacy-today" title="" class="sf-depth-2">Privacy Today</a></li><li id="menu-6777-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="https://www.privacyrights.org/news" title="Privacy Rights Clearinghouse in the News" class="sf-depth-2">PRC in the News</a></li></ul></li><li id="menu-4064-1" class="last odd sf-item-5 sf-depth-1 sf-no-children"><a href="https://www.privacyrights.org/public-policy-and-reports" title="" class="sf-depth-1">Public Policy &amp; Reports</a></li></ul>  </div>
-
-</div><!-- /.block -->
-<div id="block-views-exp-es-search-page" class="block block-views last even">
+      </section>
 
       
-  <div class="content">
-    <form action="/search" method="get" id="views-exposed-form-es-search-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
-  <div class="views-exposed-widgets clearfix">
-          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
-                        <div class="views-widget">
-          <div class="form-item form-type-textfield form-item-search-api-views-fulltext">
- <input type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="30" maxlength="128" class="form-text required error">
-</div>
-        </div>
-              </div>
-                    <div class="views-exposed-widget views-submit-button">
-      <input type="submit" id="edit-submit-es-search" name="" value="Search" class="form-submit">    </div>
-      </div>
-</div>
-</div></form>  </div>
-
-</div><!-- /.block -->
-  </div><!-- /.region -->
-
-      </div></div><!-- /.section, /#navigation -->
-    
-      <div class="region region-sidebar-first column sidebar"><div class="section">
-    <div id="block-block-11" class="block block-block first odd">
-
-        <h2 class="block-title">Browse Privacy Topics</h2>
-    
-  <div class="content">
-    <a href="https://www.privacyrights.org/topics/1" class="whitelinks" title="Privacy Basics -  Privacy Rights topic ">Privacy Basics</a><hr style="border: none; height: 1px; color: blue; background: blue;"> 
-<a href="https://www.privacyrights.org/topics/2" class="whitelinks" title="Background Checks &amp; Workplace -  Privacy Rights topic ">Background Checks &amp; Workplace</a><hr style="border: none; height: 1px; color: blue; background: blue;"> 
-<a href="https://www.privacyrights.org/topics/3" class="whitelinks" title="Banking &amp; Finance -  Privacy Rights topic ">Banking &amp; Finance</a><hr style="border: none; height: 1px; color: blue; background: blue;"> 
-<a href="https://www.privacyrights.org/topics/4" class="whitelinks" title="Credit &amp; Credit Reports -  Privacy Rights topic ">Credit &amp; Credit Reports</a><hr style="border: none; height: 1px; color: blue; background: blue;"> 
-<a href="https://www.privacyrights.org/topics/5" class="whitelinks" title="Debt Collection -  Privacy Rights topic ">Debt Collection</a><hr style="border: none; height: 1px; color: blue; background: blue;"> 
-<a href="https://www.privacyrights.org/topics/120" class="whitelinks" title="Education -  Privacy Rights topic ">Education</a><hr style="border: none; height: 1px; color: blue; background: blue;"> 
-<a href="https://www.privacyrights.org/topics/6" class="whitelinks" title="Harassment &amp; Stalking -  Privacy Rights topic ">Harassment &amp; Stalking</a><hr style="border: none; height: 1px; color: blue; background: blue;"> 
-<a href="https://www.privacyrights.org/topics/7" class="whitelinks" title="Identity Theft &amp; Data Breaches -  Privacy Rights topic ">Identity Theft &amp; Data Breaches</a><hr style="border: none; height: 1px; color: blue; background: blue;"> 
-<a href="https://www.privacyrights.org/topics/121" class="whitelinks" title="Insurance -  Privacy Rights topic ">Insurance</a><hr style="border: none; height: 1px; color: blue; background: blue;"> 
-<a href="https://www.privacyrights.org/topics/8" class="whitelinks" title="Junk Mail/Faxes/Email -  Privacy Rights topic ">Junk Mail/Faxes/Email</a><hr style="border: none; height: 1px; color: blue; background: blue;"> 
-<a href="https://www.privacyrights.org/topics/9" class="whitelinks" title="Medical Privacy -  Privacy Rights topic ">Medical Privacy</a><hr style="border: none; height: 1px; color: blue; background: blue;"> 
-<a href="https://www.privacyrights.org/topics/11" class="whitelinks" title="Online Privacy &amp; Technology -  Privacy Rights topic ">Online Privacy &amp; Technology</a><hr style="border: none; height: 1px; color: blue; background: blue;"> 
-<a href="https://www.privacyrights.org/topics/10" class="whitelinks" title="Privacy When You Shop -  Privacy Rights topic ">Privacy When You Shop</a><hr style="border: none; height: 1px; color: blue; background: blue;"> 
-<a href="https://www.privacyrights.org/topics/13" class="whitelinks" title="Public Records &amp; Info Brokers -  Privacy Rights topic ">Public Records &amp; Info Brokers</a><hr style="border: none; height: 1px; color: blue; background: blue;"> 
-<a href="https://www.privacyrights.org/topics/1230" class="whitelinks" title="Renter Privacy -  Privacy Rights topic ">Renter Privacy</a><hr style="border: none; height: 1px; color: blue; background: blue;"> 
-<a href="https://www.privacyrights.org/topics/14" class="whitelinks" title="Social Security Numbers -  Privacy Rights topic ">Social Security Numbers</a><hr style="border: none; height: 1px; color: blue; background: blue;"> 
-<a href="https://www.privacyrights.org/topics/12" class="whitelinks" title="Telephone Privacy -  Privacy Rights topic ">Telephone Privacy</a><hr style="border: none; height: 1px; color: blue; background: blue;"> 
-<a href="https://www.privacyrights.org/topics/1436" class="whitelinks" title="Videos -  Privacy Rights topic ">Videos</a><hr style="border: none; height: 1px; color: blue; background: blue;"> 
-<a href="https://www.privacyrights.org/topics/15" class="whitelinks" title="More… -  Privacy Rights topic ">More…</a><hr style="border: none; height: 1px; color: blue; background: blue;"> 
-  </div>
-
-</div><!-- /.block -->
-<div id="block-block-34" class="block block-block last even">
-
-        <h2 class="block-title">Who We Are</h2>
-    
-  <div class="content">
-    <p style="text-align: center;"><img src="/sites/privacyrights.org/files/u22/thumb_Logo-PRC-small_0.png" alt="PRC Logo" width="90" height="90"></p><p style="text-align: center;"><em>We are a&nbsp;nationally recognized&nbsp;consumer education and advocacy nonprofit dedicated to protecting the privacy of American consumers.</em></p>  </div>
-
-</div><!-- /.block -->
-  </div></div><!-- /.section, /.region -->
-
-      <div class="region region-sidebar-second column sidebar"><div class="section">
-    <div id="block-block-42" class="block block-block first odd">
-
-      
-  <div class="content">
-        <p><a href="/cc/new-complaint" id="frontbuttonsX"></a>        	  
-    <a href="/privacy-alerts" id="frontbuttons1"></a>
-    <a href="/data-breach" id="frontbuttons3"></a>
-    <a href="/subscribe.htm" id="frontbuttons2"></a>
-    <a href="/california-medical-privacy"><img src="/sites/privacyrights.org/files/u6/californiaMedical.gif"></a>
-  <!-- PAYPAL -->
-    </p><div align="center">
-            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" align="center">
-            <input type="hidden" name="cmd" value="_s-xclick">
-            <input type="hidden" name="hosted_button_id" value="8BP67NTDZJCTY">
-            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to support Privacy Rights Clearinghouse!">
-            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
     </div>
-    <!-- PAYPAL -->
   </div>
+</div>
 
-</div><!-- /.block -->
-<div id="block-print-ui-print-links" class="block block-print-ui even">
+  <aside class="fluid-container bottom" role="complementary">
+      <div class="region region-bottom">
+    <section id="block-block-47" class="block block-block donation-section clearfix">
 
       
-  <div class="content">
-    <span class="print_html"><a href="https://www.privacyrights.org/print/privacy-policy" title="Display a printer-friendly version of this page." class="print-page" rel="nofollow"><img class="print-icon print-icon-margin" src="https://www.privacyrights.org/sites/all/modules/print/icons/print_icon.png" width="16px" height="16px" alt="Send to Printer" title="Send to Printer">Send to Printer</a></span><span class="print_pdf"><a href="https://www.privacyrights.org/printpdf/privacy-policy" title="Display a PDF version of this page." class="print-pdf" rel="nofollow">PDF version</a></span>  </div>
+  <div class="donate-container">
 
-</div><!-- /.block -->
-<div id="block-block-33" class="block block-block last odd">
+<h3 class="donate-heading">Empowering Consumers. Protecting Privacy.</h3>
 
-        <h2 class="block-title">Follow Us!</h2>
+<p class="donate-text">
+Donations to PRC allow us to create educational privacy resources and raise awareness of current consumer privacy issues.
+</p>
+
+<p>
+<a href="https://privacyrights.networkforgood.com/" class="donate-button">DONATE</a>
+</p>
+</div>
+</section>
+<section id="block-block-48" class="block block-block newsletter-section clearfix">
+
+      
+  <div class="newsletter-block">
+<p class="newsletter-text">Stay Informed - Join our mailing list</p>
+<div class="form-wrapper">
+
+<!--Begin CTCT Sign-Up Form-->
+<!-- EFD 1.0.0 [Wed Apr 05 07:42:36 EDT 2017] -->
+<link rel="stylesheet" type="text/css" href="https://static.ctctcdn.com/h/contacts-embedded-signup-assets/1.0.2/css/signup-form.css">
+<div class="ctct-embed-signup" style="">
+   <div style="">
+       <span id="success_message" style="display:none;">
+           <div style="text-align:center;">Thanks for signing up!</div>
+       </span>
+       <form data-id="embedded_signup:form" class="form" name="embedded_signup" method="POST" action="https://visitor2.constantcontact.com/api/signup">
+          
+           <!-- The following code must be included to ensure your sign-up form works properly. -->
+           <input data-id="ca:input" type="hidden" name="ca" value="405a9b9b-0fdf-4c9d-b834-898de7ae8175">
+           <input data-id="list:input" type="hidden" name="list" value="2114738894">
+           <input data-id="source:input" type="hidden" name="source" value="EFD">
+           <input data-id="required:input" type="hidden" name="required" value="list,email">
+           <input data-id="url:input" type="hidden" name="url" value="">
+           <input data-id="Email Address:input" type="text" placeholder="Email Address" name="email" class="phred text-field" value="" maxlength="80">
+           <button type="submit" class="subscribe-button" data-enabled="enabled"><span class="glyphicon glyphicon-send"></span>Sign Up</button>
+       	<div><p class="ctct-form-footer hidden">By submitting this form, you are granting: Privacy Rights Clearinghouse, 3033 Fifth Avenue, San Diego, California, 92103, United States, https://www.privacyrights.org permission to email you. You may unsubscribe via the link found at the bottom of every email.  (See our <a href="http://www.constantcontact.com/legal/privacy-statement" target="_blank">Email Privacy Policy</a> for details.) Emails are serviced by Constant Contact.</p></div>
+       </form>
+   </div>
+</div>
+<script type="text/javascript">
+   var localizedErrMap = {};
+   localizedErrMap['required'] = 		'This field is required.';
+   localizedErrMap['ca'] = 			'An unexpected error occurred while attempting to send email.';
+   localizedErrMap['email'] = 			'Please enter your email address in name@email.com format.';
+   localizedErrMap['birthday'] = 		'Please enter birthday in MM/DD format.';
+   localizedErrMap['anniversary'] = 	'Please enter anniversary in MM/DD/YYYY format.';
+   localizedErrMap['custom_date'] = 	'Please enter this date in MM/DD/YYYY format.';
+   localizedErrMap['list'] = 			'Please select at least one email list.';
+   localizedErrMap['generic'] = 		'This field is invalid.';
+   localizedErrMap['shared'] = 		'Sorry, we could not complete your sign-up. Please contact us to resolve this.';
+   localizedErrMap['state_mismatch'] = 'Mismatched State/Province and Country.';
+	localizedErrMap['state_province'] = 'Select a state/province';
+   localizedErrMap['selectcountry'] = 	'Select a country';
+   var postURL = 'https://visitor2.constantcontact.com/api/signup';
+</script>
+<script type="text/javascript" src="https://static.ctctcdn.com/h/contacts-embedded-signup-assets/1.0.2/js/signup-form.js"></script>
+<!--End CTCT Sign-Up Form-->
+
+</div></div>
+</section>
+<section id="block-views-privacy-topics-block" class="block block-views container clearfix">
+
+        <h2 class="block-title">Privacy Topics</h2>
     
-  <div class="content">
-    <p><a href="http://www.facebook.com/privacyrights" target="_blank" title="Like us on Facebook!"><img height="44" width="44" alt="Like Us on Facebook!" src="/sites/privacyrights.org/files/u22/facebook-icon-compressed.jpg" style="vertical-align: middle; margin: 2px;">Like us on Facebook!</a></p>
-<p><a href="http://www.twitter.com/privacytoday" target="_blank" title="Follow us on Twitter!"><img height="44" width="44" alt="Follow us on Twitter!" src="/sites/privacyrights.org/files/u22/Twitter-icon-compressed.jpg" style="vertical-align: middle; border: 0; margin: 2px;">Follow us on Twitter!</a></p>
-<p><a href="http://www.privacyrights.org/rss.xml" target="_blank" title="Subscribe to our RSS Feed!"><img height="41" width="41" alt="Subscribe to Our RSS Feed!" src="/sites/privacyrights.org/files/u22/rss-feed-icon-compressed.jpg" style="border: 0; vertical-align: middle; margin: 2px;"> Subscribe to RSS!</a></p>  </div>
-
-</div><!-- /.block -->
-  </div></div><!-- /.section, /.region -->
-
-  </div></div> <!-- /#main, /#main-wrapper -->
-
+  <div class="view view-privacy-topics view-id-privacy_topics view-display-id-block view-dom-id-4d874f2c6796d37fd7ef3662ab185d78">
+        
   
   
-      <div id="footer"><div class="section">
+      <div class="view-empty">
+      <div class="view view-privacy-topics view-id-privacy_topics view-display-id-col1 col-md-4 view-dom-id-59f7cadc447bd1703dddf9b09859c053">
+        
+  
+  
+      <div class="view-content">
+          <ul>          <li class="">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topics/banking-finance">Banking &amp; Finance</a></span>  </div></li>
+          <li class="">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topics/credit-and-credit-reports">Credit &amp; Credit Reports</a></span>  </div></li>
+          <li class="">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topics/data-breaches">Data Breaches</a></span>  </div></li>
+          <li class="">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topics/health-medical">Health &amp; Medical</a></span>  </div></li>
+      </ul>    </div>
+  
+  
+  
+  
+  
+  
+</div><div class="view view-privacy-topics view-id-privacy_topics view-display-id-col2 col-md-4 view-dom-id-600e2175ffdab03fd67e58a67c68da08">
+        
+  
+  
+      <div class="view-content">
+          <ul>          <li class="">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topics/id-theft-social-security-numbers">ID Theft &amp; Social Security Numbers</a></span>  </div></li>
+          <li class="">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topics/online-privacy">Online</a></span>  </div></li>
+          <li class="">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topics/people-search-data-brokers">People Search &amp; Data Brokers</a></span>  </div></li>
+          <li class="">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topics/phone-privacy">Phone</a></span>  </div></li>
+      </ul>    </div>
+  
+  
+  
+  
+  
+  
+</div><div class="view view-privacy-topics view-id-privacy_topics view-display-id-col3 col-md-4 view-dom-id-5a72668ed697d0a71d34a0b95671f041">
+        
+  
+  
+      <div class="view-content">
+          <ul>          <li class="">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topics/privacy-at-home">Privacy at Home</a></span>  </div></li>
+          <li class="">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topics/safety-security">Safety &amp; Security</a></span>  </div></li>
+          <li class="">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topics/shopping">Shopping</a></span>  </div></li>
+          <li class="">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topics/work-school">Work &amp; School</a></span>  </div></li>
+      </ul>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+  </div>
+  </aside>
+
+  <footer class="footer">
+    <div class="container">  
+      <div class="row">
+          <div class="region region-footer">
+    <section id="block-menu-menu-footer" class="block block-menu col-xs-12 col-md-3 clearfix">
+
       
-          <ul id="secondary" class="links inline clearfix"><li class="menu-4196 first"><a href="https://www.privacyrights.org/" title="">Home</a></li>
-<li class="menu-3612"><a href="https://www.privacyrights.org/node/1400" title="Copyright and Reprint Guidelines">Copyright</a></li>
-<li class="menu-3702"><a href="https://www.privacyrights.org/node/1440" title="">Privacy Policy</a></li>
-<li class="menu-3705"><a href="https://www.privacyrights.org/sitemap" title="">Site Map</a></li>
-<li class="menu-15023"><a href="https://www.privacyrights.org/cc/new-complaint" title="">Complaints/Questions</a></li>
-<li class="menu-21652"><a href="https://www.privacyrights.org/user/login" title="">Staff Login</a></li>
-<li class="menu-4352 last"><a href="https://www.privacyrights.org/search" title="Search Privacy Rights Clearinghouse">Search</a></li>
+  <ul class="menu nav"><li class="first last expanded"><a href="/">Home</a><ul class="menu nav"><li class="first leaf"><a href="/blog">Blog</a></li>
+<li class="leaf"><a href="/data-breaches">Data Breaches</a></li>
+<li class="last leaf"><a href="/user">Log in</a></li>
+</ul></li>
 </ul>
-    </div></div> <!-- /.section, /#footer -->
-  
-</div></div> <!-- /#page, /#page-wrapper -->
+</section>
+<section id="block-menu-menu-footer-menu-educational-mat" class="block block-menu col-xs-12 col-md-3 clearfix">
 
-  
+      
+  <ul class="menu nav"><li class="first last expanded"><a href="/learn">Learn</a><ul class="menu nav"><li class="first leaf"><a href="/consumer-guides">Consumer Guides</a></li>
+<li class="leaf"><a href="/quick-tips">Quick Tips</a></li>
+<li class="leaf"><a href="/videos">Videos</a></li>
+<li class="last leaf"><a href="/infographics">Infographics</a></li>
+</ul></li>
+</ul>
+</section>
+<section id="block-menu-menu-footer-menu-about" class="block block-menu col-xs-12 col-md-3 clearfix">
+
+      
+  <ul class="menu nav"><li class="first last expanded"><a href="/about">About</a><ul class="menu nav"><li class="first leaf"><a href="/about/mission-and-goals">Mission and Goals</a></li>
+<li class="leaf"><a href="/about/services">Services</a></li>
+<li class="leaf"><a href="/about/staff">Staff</a></li>
+<li class="leaf"><a href="/about/officers-and-board-members">Officers and Board</a></li>
+<li class="leaf"><a href="/about/funding">Funding</a></li>
+<li class="last leaf"><a href="/about/careers">Careers</a></li>
+</ul></li>
+</ul>
+</section>
+<section id="block-menu-menu-footer-menu-contact" class="block block-menu col-xs-12 col-md-3 clearfix">
+
+      
+  <ul class="menu nav"><li class="first last expanded"><a href="/contact">Contact</a><ul class="menu nav"><li class="first leaf"><a href="/contact/funders">Funders</a></li>
+<li class="leaf"><a href="/contact/press">Press</a></li>
+<li class="last leaf"><a href="/contact/consumers">Consumers</a></li>
+</ul></li>
+</ul>
+</section>
+<section id="block-block-44" class="block block-block col-xs-12 copyright clearfix">
+
+      
+  <div class="row">
+<div class="col-xs-12"></div>
+  <div class="copyright-txt">
+    <p>© Privacy Rights Clearinghouse</p>
+  </div>
+  <div class="copyright-links">
+   <a class="sub-footer-link" href="https://www.privacyrights.org/copyright">Copyright</a>
+<a class="sub-footer-link" href="https://www.privacyrights.org/privacy-policy">Privacy Policy</a>
+  </div>
+<a class="sagetree-logo" href="http://www.sagetree.com/"><img src="https://www.privacyrights.org/sites/all/themes/custom/local/img/sagetree.png" alt="Sagetree" class="sagetree-logo"></a>
+<a href="http://www.sagetree.com/" class="sagetree-link">Creative by</a>
+</div>
+</section>
+  </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://www.privacyrights.org/sites/default/files/js/js_L50O_PWoAuMOxVjnzZCkNSSmI0kFwhZsO1_KS8WnGKw.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"942d5d6d06","applicationID":"25393210","transactionName":"MgRXZ0cEXhFZAUZQDAtOdFBBDF8MFxJTXgY6DFRdVAJVEGcMXV0GOhdcVkI6QANfBw==","queueTime":0,"applicationTime":354,"atts":"HkNUEQ8eTR8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
