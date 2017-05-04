@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theawesomer.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219031531id_/http%3A//theawesomer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theawesomer.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504082114id_/http%3A//theawesomer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy
+# Privacy & Cookie Policy - The Awesomer
 
 Please read this Privacy & Cookie Policy carefully before using or proceeding to access this website. Your use of this website indicates you have read and understood this Privacy & Cookie Policy and indicates your agreement to abide by the terms herein.
 
