@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thechoicedrivenlife.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014050031id_/http%3A//www.thechoicedrivenlife.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechoicedrivenlife.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504210612id_/http%3A//www.thechoicedrivenlife.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Choice Driven Life | Discover The Life You Were Born To Live | choices| the choice| how to choose| to choose| passion| destiny| future | life | live a life | how to live life | prayer | discover |
 
