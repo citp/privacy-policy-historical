@@ -1,45 +1,63 @@
-> *The following text is extracted and transformed from the sheffield.ac.uk privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130111651id_/http%3A//shef.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheffield.ac.uk privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505234654id_/http%3A//shef.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - The University of Sheffield
 
-The following statement explains our policy regarding the personal information we collect about you when you visit the University of Sheffield website (www.sheffield.ac.uk).
+## Privacy policy
 
-This information is used to improve the content of our web pages, to customise the content and/or layout of our page. We never sell, rent or share any of the information we collect by this method (except anonymous aggregate information) with any third party, except when required to do so to comply with legal or statutory obligations.
+### About this policy
 
-## Manual collection of information
+This policy explains what types of personal information will be gathered when you visit the University of Sheffield's website, and how this information will be used. Please note that this policy applies to the University's main web pages (i.e. those in **www.sheffield.ac.uk** and **www.shef.ac.uk** ).
 
-On certain web pages, you may be asked to provide your name, e-mail address or other personal information (for example, when requesting a prospectus or brochure). This information may be used for market research purposes.
+Other sites run by the University may carry their own privacy policy and/or provide additional information relating to their activities, which will supersede or supplement this privacy policy.
 
-If you contact us by e-mail to request information, report a problem or provide feedback on our services we will only use the information you provide (including your e-mail address) to respond to your message. We do not share this information in any way.
+If you follow a link to any other website, please check their policies before you submit any personal information to those websites.
 
-## Automated collection of information
+### Information collected
 
-Our web server automatically collects standard information, including your IP address, browser type, operating system and access times.
+On some parts of the website, you may be asked to provide some limited personal information in order to enable the provision of certain services (e.g. prospectus ordering, registering with a society, applying for a vacancy etc). The University may store this information manually or electronically. By supplying this information you are consenting to the University holding and using it for the purposes for which it was provided. Information provided will be kept for as long as is necessary to fulfil that purpose.
 
-We may use cookies to monitor visitor traffic and to customise web page content based on your browser type, IP address or other anonymous information. Cookies are text files that identify your computer to our server; cookies in themselves do not identify the individual user, just the computer used.
+We also collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our webmasters. This allows us to ensure that content from our site is presented in the most effective manner for you and for your computer.
 
-The link below contains information about the University’s use of cookies and gives information on how you can opt out.
+#### How the information collected is used
 
-[Cookies](https://web.archive.org/privacy/cookies)
+Personal information provided to the University by you will only be used for the purposes stated when the information is requested. Personal information will not be sold to third parties, or provided to direct marketing companies or other such organisations without your permission. Personal information collected and/or processed by the University is held in accordance with the provisions of the Data Protection Act 1998.
 
-This website uses Google Analytics to analyze how users use the site. The link below contains information about Google Analytics and gives information on how you can opt out.
+Demographical and statistical information about user behaviour may be collected and used to analyse the popularity and effectiveness of the University's website. Any disclosure of this information will be in aggregate form and will not identify individual users.
 
-[Google Analytics - Safeguarding your data](https://support.google.com/analytics/answer/6004245?hl=en)
+We collect data relating to the demographic and interests of our users via tools such as Google Analytics and cookies set by Google advertising networks. This data is used in aggregated form to help improve the site and the University’s marketing efforts
 
-## Future developments
+#### How we store information collected
+
+Information which you provide to us will ordinarily be stored on our own secure servers. We also work with third party contractors, some of whom host and operate certain features of the website. Accordingly, information that we collect from you may be collected in or transferred to a destination outside the European Economic Area ("EEA"). That information may be processed by staff operating outside the EEA who work for us or for one of our contractors. By submitting personal information, you agree to this transfer, storing and processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+We may disclose your personal information to third parties if we are under a duty to disclose or share such information in order to comply with any legal obligation or to protect the rights, property or safety of the University, its members or others.
+
+#### How we use "cookies"
+
+Most of our web pages use "cookies". A cookie is a small file of letters and numbers that we place on your computer or mobile device if you agree. These cookies allow us to distinguish you from other users of our website, which helps us to provide you with a good experience when you browse our website and also allow us to improve our website.
+
+For more detailed information on the cookies we use on the University's main web pages (i.e. those in **www.sheffield.ac.uk** ) and the purposes for which we use them, see our [cookie statement](https://web.archive.org/privacy/cookies). Please refer to individual web pages for further information about the use of cookies on other web pages on the sheffield.ac.uk domain.
+
+We may use cookies set by DoubleClick that allow the advertising network to identify users across multiple sessions purely for advertising purposes. This technology may be used to target ads based on user behaviour, report on advertising campaign performance, and to control how often certain ads are seen by users.
+
+#### Access to information
+
+The Data Protection Act 1998 gives you the right to access information held about you. For further information about this right and how to exercise it, please see the University’s Policy on Data Protection.
+
+#### Changes to our privacy policy
 
 From time to time, we may use your information for new, unanticipated uses not previously disclosed in our privacy policy. If our information practices change at some time in the future we will post the policy changes on this page.
 
-If you are concerned about how your information is used, you should check this page periodically. We will only use data collected from the time of the policy change onwards for these new purposes.
+If you are concerned about how your information is used, you should check this page periodically.
 
-## Security
+* * *
 
-We have appropriate security measures in place to protect against the loss, misuse or alteration of information we have collected from you. These security measures include the necessary protection to prevent, as far as possible, access to our databases by parties other than The University of Sheffield.
+#### Contact
 
-## Access to information
+If you feel this site is not following its stated information policy, you may contact us at [dataprotection@sheffield.ac.uk](mailto:dataprotection@sheffield.ac.uk) or write to:
 
-You have the right to request a copy of the personal information The University of Sheffield holds about you and to have any inaccuracies corrected. (We charge £10 for information requests). Upon such a request we will provide you with access to all the information we maintain about you subject to the conditions of the Data Protection Act 1998. Please request this service by writing to us at the address below.
-
-## Feedback
-
-If you feel this site is not following its stated information policy, you may contact us at [dataprotection@sheffield.ac.uk](mailto:dataprotection@sheffield.ac.uk) or write to University Data Protection Officer, Corporate Information & Computing Services, 10-12 Brunswick Street, Sheffield, S10 2FN
+University Data Protection Officer  
+Corporate Information & Computing Services  
+10-12 Brunswick Street  
+Sheffield  
+S10 2FN
