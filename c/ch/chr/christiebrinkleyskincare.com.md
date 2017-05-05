@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the christiebrinkleyskincare.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630122714id_/https%3A//christiebrinkleyskincare.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiebrinkleyskincare.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505022103id_/https%3A//christiebrinkleyskincare.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Christie Brinkley Skincare
 
-We provide products and services through our websites, mobile websites, mobile applications, emails, offline or by other interactions and communications ("Services"). These highlights are to help you understand how we collect, use and disclose user information to help you make an informed decision about whether to use or continue using the Services. Please also read our full [Privacy Policy](https://sputnik.acmgaces.com/legal.php?brand=christiebrinkley&type=privacy_policy&country=domestic) for details and defined terms. 
+We provide products and services through our websites, mobile websites, mobile applications, emails, offline or by other interactions and communications ("Services"). These highlights are to help you understand how we collect, use and disclose user information to help you make an informed decision about whether to use or continue using the Services. Please also read our full [Privacy Policy](https://web.archive.org/privacy-policy.php) for details and defined terms. 
 
 When you use our Services or make a purchase, you voluntarily share certain personal information with us such as your name, e-mail address, address, mobile number, and/or credit or debit card or bank account information and with your prior permission connect through social media networks such as Facebook.More Info 
 
@@ -18,9 +18,9 @@ You agree that we may notify you about material changes to this Privacy Policy b
 
 Questions about our Privacy Policy or about our handling of your information may be sent to privacy@BrinkleySupport.com or as otherwise set forth in the Privacy Policy More Info 
 
-Effective Date: January 17, 2014
+Effective Date: December 7, 2016
 
-Christie Brinkley Skincare, LLC ("CB, "we" "us", "our") has developed this Privacy Policy which details important information regarding the use and disclosure of user information collected on CB owned websites, mobile websites, mobile applications, emails, offline or other interactions and communications with CB, and related services (each and collectively referred to as "Services") that link to or reference this Privacy Policy . CB provides this Privacy Policy to help you make an informed decision about whether to use or continue to use the Services and the choices we offer for you to manage the information we collect related to the use of the Services. Each time that you access or use Services, you are agreeing to this Privacy Policy. If you do not agree to this Privacy Policy or [Terms of Service](https://sputnik.acmgaces.com/legal.php?brand=christiebrinkley&type=terms_of_use&country=domestic) which govern your use of our Services, please discontinue accessing or using the Services.
+Christie Brinkley Skincare, LLC ("CB, "we" "us", "our") has developed this Privacy Policy which details important information regarding the use and disclosure of user information collected on CB owned websites, mobile websites, mobile applications, emails, offline or other interactions and communications with CB, and related services (each and collectively referred to as "Services") that link to or reference this Privacy Policy . CB provides this Privacy Policy to help you make an informed decision about whether to use or continue to use the Services and the choices we offer for you to manage the information we collect related to the use of the Services. Each time that you access or use Services, you are agreeing to this Privacy Policy. If you do not agree to this Privacy Policy or [Terms of Service](https://web.archive.org/terms-of-use.php) which govern your use of our Services, please discontinue accessing or using the Services.
 
 **1\. INFORMATION WE COLLECT**
 
@@ -80,7 +80,11 @@ If for any reason you are concerned that the personal information you provided t
 
 **5\. CHOICE AND OPT OUT**
 
-You may choose not to receive our promotional communications or you may opt out of our sharing information with third parties for marketing purposes by visiting [here](https://www.acmg-unsu8scr13e.com/unsub/unsub.form?id=2b701b7ef252464e7f40d577a18119d17e4b7796e123beb4c9a2a952aa26507d). You may also click the unsubscribe link in the footer of any e-mail or newsletter. You may also e-mail us at info@brinkleysupport.com. It may take up to 10 days for us to process an opt-out request. Just follow the unsubscribe instructions included in each email or click "STOP" on a mobile text. You may also contact our privacy administrator at privacy@BrinkleySupport.com. You may also send mail making any such requests to the following address: Christie Brinkley Skincare, LLC., P.O. Box 1366, Hoboken, NJ 07030. 
+You may choose not to receive our promotional communications or you may opt out of our sharing information with third parties for marketing purposes by visiting [here](https://www.acmg-unsu8scr13e.com/unsub/unsub.form?id=2b701b7ef252464e7f40d577a18119d17e4b7796e123beb4c9a2a952aa26507d). You may also click the unsubscribe link in the footer of any e-mail or newsletter. You may also e-mail us at info@brinkleysupport.com. It may take up to 10 days for us to process an opt-out request. Just follow the unsubscribe instructions included in each email or click "STOP" on a mobile text. You may also contact our privacy administrator at privacy@BrinkleySupport.com. You may also send mail making any such requests to the following address:  
+Christie Brinkley Skincare, LLC.  
+P.O. Box 1366  
+Hoboken  
+NJ 07030.
 
 Information that you disclose while participating in the Services may be public and subject to redistribution by us and any third-party that reviews your Social Network profile or information that you post. Please be aware that CB is not responsible for the uses or copies of your public postings on or through Services which are downloaded by third parties. To change your privacy settings please contact us. 
 
@@ -110,7 +114,15 @@ California Civil Code Section 1798.83, known as the "Shine The Light" law, permi
 
 **7\. CONTACTING US**
 
-If you have any questions about this Privacy Policy, or the practices of CB, please contact us at 1-800-548-1736 or write to us at: Christie Brinkley Skincare, LLC., P.O. Box 1366, Hoboken, NJ 07030. **Copyright © 2016, Christie Brinkley Skincare, LLC. All rights reserved.** **THIRD PARTIES PROVIDERS OF ANALYTICS TOOLS**
+If you have any questions about this Privacy Policy, or the practices of CB, please contact us at 1-800-548-1736 or write to us at:  
+Christie Brinkley Skincare, LLC.  
+P.O. Box 1366  
+Hoboken  
+NJ 07030.
+
+**Copyright © 2017, Christie Brinkley Skincare, LLC. All rights reserved.**
+
+ **THIRD PARTIES PROVIDERS OF ANALYTICS TOOLS**
 
 This is a list of third parties we have hired to provide us information, reports and analysis about the usage and browsing patters of users of the Services.
 
