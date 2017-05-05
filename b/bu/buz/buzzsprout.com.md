@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the buzzsprout.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908055953id_/https%3A//www.buzzsprout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzsprout.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505192219id_/https%3A//www.buzzsprout.com/privacy) for the most accurate reproduction.*
 
 # Buzzsprout » Privacy Policy
 
 ## Buzzsprout Privacy Policy
 
-Buzzsprout (www.buzzsprout.com) is a Molehill product. Molehill is committed to protecting the privacy of those who visit the buzzsprout.com website and use the Buzzsprout Service. Amendments to this statement will be posted to this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification, or change shall constitute your acceptance of the amendment.
+Buzzsprout (www.buzzsprout.com) is a Higher Pixels product. Higher Pixels is committed to protecting the privacy of those who visit the buzzsprout.com website and use the Buzzsprout Service. Amendments to this statement will be posted to this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification, or change shall constitute your acceptance of the amendment.
 
 We collect the email addresses of those who communicate with us via email, information about the pages consumers access on the Buzzsprout website, and information voluntarily submitted by the consumer (for example, filling out a survey or service registration form). The types of information that may be requested include your name, company name, address, telephone number, and billing information.
 
@@ -26,8 +26,8 @@ Additionally, you retain all rights of ownership to the data you have stored on 
 
 ### Corrections and Updates
 
-Molehill allows consumers who use the Buzzsprout Service to update or modify their information by clicking on the My Account link in the Buzzsprout navigation menu.
+Higher Pixels allows consumers who use the Buzzsprout Service to update or modify their information by clicking on the My Account link in the Buzzsprout navigation menu.
 
-### Contacting Molehill
+### Contacting Higher Pixels
 
 If you have any questions about this privacy statement or your dealings with the Buzzsprout website, you can contact us at support at buzzsprout dot com.
