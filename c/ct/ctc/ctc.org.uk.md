@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ctc.org.uk privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315045527id_/http%3A//www.ctc.org.uk/about-ctc/policies-procedures/ctcs-website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctc.org.uk privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505183922id_/http%3A//www.cyclinguk.org/about-ctc/policies-procedures/ctcs-website/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | CTC
+# Privacy policy | Cycling UK
 
-CTC privacy policy includes what we collect, what we do with your information, security of your personal information and use of cookies. 
+Cycling UK privacy policy includes what we collect, what we do with your information, security of your personal information and use of cookies. 
 
-### This privacy policy sets out how CTC uses and protects any information that you give CTC when you use this website.
+### This privacy policy sets out how Cycling UK uses and protects any information that you give Cycling UK when you use this website.
 
-CTC is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Cycling UK is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-CTC may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st May 2012.
+Cycling UK may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st May 2012.
 
 ### What we collect
 
@@ -54,12 +54,12 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  * if you have previously agreed to us using your personal information for promotional marketing purposes (i.e. CTC marketing promotions, membership information, campaigning information  or newsletters), you may change your mind at any time by writing to or emailing us at [membership@ctc.org.uk](mailto:membership@ctc.org.uk) or by updating your mailing preferences within the "edit" section of your "my account" page on this website.
+  * if you have previously agreed to us using your personal information for promotional marketing purposes (i.e. Cycling UK marketing promotions, membership information, campaigning information  or newsletters), you may change your mind at any time by writing to or emailing us at membership@cyclinguk.org or by updating your mailing preferences within the "edit" section of your "my account" page on this website.
 
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to CTC, Parklands, Railton Road, Guildford, GU2 9JX.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Cycling UK, Parklands, Railton Road, Guildford, GU2 9JX.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
