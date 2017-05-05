@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenerideal.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211200024id_/http%3A//www.greenerideal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenerideal.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505220211id_/https%3A//greenerideal.com/privacy) for the most accurate reproduction.*
 
 # Privacy – Greener Ideal
 
