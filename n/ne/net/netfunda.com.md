@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netfunda.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629182344id_/http%3A//www.netfunda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netfunda.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505221524id_/http%3A//www.netfunda.com/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Netfunda Technologies – Cloud based products, Billing & Subscription System, Recruitment Solutions, HRMS, CRM, Cloud Application Builder… – Privacy Policy
 
