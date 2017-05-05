@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the voonik.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210014641id_/http%3A//www.voonik.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voonik.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505121621id_/http%3A//www.voonik.com/privacy) for the most accurate reproduction.*
 
-# Online Fashion India - Online Fashion for Women Kurtas, Kurtis, Tops, Tunics, Sarees, Dresses, Salwars, Churidars, Leggings, Trousers, Jeans, Slippers, Sandals, Shirts, and Accessories
+# Privacy Policy - Voonik
 
 This privacy policy ("Policy") details how Voonik Technologies Private Limited ("Voonik" or "we" or "us" or "our") collects and uses your personal information when you use our mobile application Voonik (interchangeably referred to as "Voonik.com"), including any other service provided by us via any other medium related to Voonik (all these services collectively referred to as the "Services").
 
@@ -8,13 +8,13 @@ By visiting and using Voonik.com, you are accepting and consenting to the practi
 
 Voonik.com knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. We assure you that we are committed to respecting and upholding your privacy, and if you have any questions at the end of this, do feel free to contact us at the coordinates listed below.
 
-Personal Information
+ **Personal Information**
 
 Personal information, for the purposes of this Policy, refers to information that can specifically identify an individual customer of ours, such as that customer’s name, address, email address, payment data, telephone number etc. This would also include information about an individual’s activities with regard to the usage of our Services, and demographic information, such as nationality, date of birth, gender, geographic area, and preferences, whenever any such information is linked to the personal information that identifies an individual.
 
 Accordingly, we collect personal information from customers to help us personalise and continually improve their shopping experience at Voonik.com. We use your information to assist sellers in handling orders, deliver products and services, process payments, communicate with you about orders, products, services and promotional offers, update our records and generally maintain your accounts with us, display content such as wish lists and customer reviews and recommend merchandise and services that might be of interest to you. We also use this information to improve our platform, prevent or detect fraud or abuses of our Services and enable third parties to carry out technical, logistical or other functions on our behalf.
 
-Here are the types of information we gather.
+ **Here are the types of information we gather.**
 
 Information You Provide: we receive and store any information you enter on our website or mobile applications or give us in any other way. You can choose not to provide certain information but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customising future shopping for you, improving our platform, and communicating with you. Automatic Information: we receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies" and we obtain certain types of information when your Web browser accesses Voonik.com or advertisements and other content served by or on behalf of Voonik.com on other Web sites. Shopping Behaviour: In order to personalise the product feed we present to you on Voonik we collect information based on your shopping behaviour such as products that you view, add to the wishlist, add to the shopping cart and purchase. We also collect the information that you provide when you take our Style Quiz and answer questions regarding Style Preference, Color you like to wear, apparel that you would never wear and your body shape. This information is only collected when you willingly provide it to us by answering the quiz questions and is used only to customize your product feed. Click here for examples of Information Collected.
 
@@ -26,7 +26,7 @@ Information from Other Sources: we might receive information about you from othe
 
 By using or continuing to use the site, you agree to our use of your information (including sensitive personal information) in accordance with this Policy, as may be amended from time to time by Voonik.com in its discretion. You also agree and consent to us collecting, storing, processing, transferring and sharing information (including sensitive personal information) related to you with third parties or service providers for the purposes as set out in this Privacy Notice.
 
-Sharing Information with Third Parties:
+ **Sharing Information with Third Parties:**
 
 Information about our customers is an important part of our business and we are not in the business of selling it to others. Voonik.com shares customer information only as described below with Voonik.com and the subsidiaries which Voonik.com controls and that are either subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
 
@@ -38,7 +38,7 @@ Compliance with the Law: We may be required to share the personal information wi
 
 When you use the Voonik Software, you may also be using the services of one or more third parties, such as Google, Facebook, MSD, Vizury, AppsFlyer, Acra, WizRocket, CleverTap, YouTubeAndroidPlayer, Konotor, juspay, newrelic, squareup, packetzoom, mixpanel, proguard. Your use of these third party services may be subject to the separate policies, terms of use, and fees of these third parties.
 
-Examples of Information Collected
+ **Examples of Information Collected**
 
 Information You Give Us:
 
@@ -68,9 +68,9 @@ We also collect referrer information which tells us the third party that referre
 
 Securing Information & Retention:
 
-We work to protect the security of your information during purchase of any product on Voonik at the time of online payment by using Secure Sockets Layer (SSL) software, which encrypts information you input in addition to maintaining security of your information. We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
+We work to protect the security of your information during purchase of any product on Voonik at the time of online payment by using Secure Sockets Layer (SSL) software, which encrypts information you input in addition to maintaining security of your information.We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
 
-We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of personal information (including sensitive personal information). Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you. 
+We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of personal information (including sensitive personal information). Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you.
 
 If you choose a payment gateway to complete any transaction on Website or mobile applications then Your credit card data may be stored in compliance with industry standards/ recommended data security standard for security of financial information such as the Payment Card Industry Data Security Standard (PCI-DSS).
 
@@ -80,7 +80,7 @@ Use of Information and Duration:
 
 Voonik will strive to protect the privacy and legal rights of users. Any and all Personal and Sensitive Information (as defined here) you provide to us such as user names, emails, phone number, passwords or any other login information or personal information will be available to us and we have the right to use this information until the you communicate with us and direct us not to use it further.  
 You agree that all Personal Information shall be retained till such time required for the Purpose or required under applicable law, whichever is later. Non-Personal Information will be retained indefinitely; if you delete Voonik from your mobile device or delete your account on the Voonik website, we will retain your Personal Information for analytical purposes and recordkeeping integrity, as well as to prevent fraud, enforce our Terms of Use, take actions we deem necessary to protect the integrity of our Service or our users, or take other actions otherwise permitted by law. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies.  
-If you do not want us to use personal information that we gather to personalise advertisements we display to you or for other purposes, please write to us at support@Voonik.com. (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Voonik.com and orders placed with Voonik.com, and it is your responsibility to review them for changes.) 
+If you do not want us to use personal information that we gather to personalise advertisements we display to you or for other purposes, please write to us at support@Voonik.com. (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Voonik.com and orders placed with Voonik.com, and it is your responsibility to review them for changes.)
 
 Associated Third Parties:
 
@@ -98,4 +98,6 @@ Unless stated otherwise, our current Privacy Notice applies to all information t
 
 Please Contact us for further queries: care@voonik.com
 
-By accessing the Website or mobile applications, You have agreed to the terms set out in this Policy. This Policy should be at all times read along with the Terms of Use of the Website. 
+We may disclose to third party services certain personally identifiable information listed below:information you provide us such as name, email, mobile phone numberinformation we collect as you access and use our service, including device information, location and network carrier.This information is shared with third party service providers so that we can:personalize the app for youperform behavioral analytics
+
+By accessing the Website (www.voonik.com) and Apps (Android & iOS), You have agreed to the terms set out in this Policy. This Policy should be at all times read along with the Terms of Use of the Website..
