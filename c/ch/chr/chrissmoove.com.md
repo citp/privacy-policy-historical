@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the chrissmoove.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227182416id_/http%3A//shop.chrissmoove.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrissmoove.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505125227id_/http%3A//shop.chrissmoove.com/privacy) for the most accurate reproduction.*
 
 # Chris Smoove Merch - Privacy Policy
 
-[](http://shop.chrissmoove.com/)
+[](https://shop.chrissmoove.com/)
 
-#### Privacy Policy
-
-#### Who is collecting your information? 
+#### Who is collecting your information?
 
 This website is owned and operated by DISTRICT LINES, INC. ("District Lines"). District Lines is a subsidiary of AKT ENTERPRISES GROUP INC ("AKT") (http://www.aktenterprises.com/privacy_policy). This Privacy Policy applies to all District Lines' websites and subsidiaries.
 
@@ -94,5 +92,3 @@ By using our site, you consent to our online privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
 This policy was last modified on 11/15/2016
-
-#### How to Contact Us?
