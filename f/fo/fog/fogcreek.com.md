@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fogcreek.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221103020id_/http%3A//www.fogcreek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fogcreek.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505105456id_/http%3A//www.fogcreek.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Fog Creek Software
+
+You can also view the [Glitch Privacy Policy](https://glitch.com/legal/#privacy)
 
 ## WHO WE ARE AND WHAT THIS IS
 
@@ -9,6 +11,10 @@ Fog Creek Software, Inc. (“Fog Creek” or “Fog Creek Software”) is the pr
 We take the private nature of your personal information very seriously, and are committed to protecting it. To do that, we've set up procedures to ensure that your information is handled responsibly and in accordance with applicable data protection and privacy laws. We're grateful for your trust, and we'll act that way.
 
 This privacy policy describes what information we collect when you visit our Services, how we use that information, and what choices we offer you to access, update, and control it. This version of the policy is effective as of June 7, 2016.
+
+## PRIVACY SHIELD OVERVIEW
+
+Fog Creek complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Fog Creek also complies with the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from Switzerland to the United States. Fog Creek has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
 ## TYPES OF INFORMATION
 
@@ -79,7 +85,16 @@ It's hard to imagine that we would ever consider collecting, let alone sharing, 
 
 If you are a registered user of our Services and have supplied your email address, we may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with the Services. We generally use our Services to communicate this type of information, so we expect to keep this type of communication to a minimum. If we do send you information that you did not expressly request, we will provide you with a way to request that you don't get any similar notices (opt-out, unsubscribe, etc.).
 
-**Onward Transfer** — Prior to providing agents with any personal information, we will obtain assurances that they will safeguard it in accordance with this policy. In the unlikely event that we should discover that an agent is using personal information in a way that conflicts with this policy, we will take all reasonable steps to stop it immediately.
+**Onward Transfer** — Prior to providing agents with any personal information, we will obtain assurances that they will safeguard it in accordance with this policy. Examples of assurances that may be provided include: 
+
+  * A commitment that they will handle the information in accordance with this policy, or will provide the same level of protection, as required by the Privacy Shield Principles;
+  * Privacy Shield certification by the agent, or being subject to another European Commission adequacy finding.
+
+
+
+In the unlikely event that we should discover that an agent is using personal information in a way that conflicts with this policy, we will take all reasonable steps to stop it immediately.
+
+In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Fog Creek will remain liable.
 
 **Security** — All records containing personal or financial information are considered to be our property and are afforded confidential treatment at all times. We work hard to protect against the unauthorized access, use, alteration or destruction of personal or financial information. All such electronic information is stored on restricted database servers, and is generally kept until such time as you may ask us to edit or delete it, as described below. We only disclose such information to our employees, contractors or affiliates that a) need to know that information in order to process it for us or to provide other services, and b) have agreed not to disclose it to others.
 
@@ -93,14 +108,16 @@ If you have any concerns or complaints about how you think we've handled your pe
 
 If you have any questions about this policy or our site in general, please contact us at [privacy@fogcreek.com](mailto:privacy@fogcreek.com).
 
-Our Data Protection Officer is Michael Pryor
+Our Data Protection Officer is Jordan Harris.
 
-Written Inquiries can be sent to:
+In compliance with the Privacy Shield Principles, Fog Creek commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Fog Creek at: 
 
 Fog Creek Software  
 One Exchange Plaza,  25th Floor  
 New York City, NY 10006  
 USA
+
+Fog Creek has further committed to refer unresolved Privacy Shield complaints to the [JAMS Foundation](https://www.jamsadr.com/), an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.jamsadr.com/> for more information or to file a complaint. The services of the JAMS Foundation are provided at no cost to you.
 
 ## Security
 
@@ -123,3 +140,9 @@ This section covers any ways in which personal information we collect from emplo
 
 
 * Google Analytics is a registered trademark of Google, Inc.
+
+## Change log
+
+  * 2017/04/27: Added EU-U.S. and Swiss-U.S. Privacy Shield Framekwork language.
+
+
