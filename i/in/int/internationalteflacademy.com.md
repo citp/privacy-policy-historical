@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the internationalteflacademy.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008044527id_/http%3A//www.internationalteflacademy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalteflacademy.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505221935id_/https%3A//www.internationalteflacademy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacty Policy
+# International TEFL Academy Privacy Policy
 
-**Our privacy policy is very simple.**
+**Our privacy policy at ITA is very simple.  **We will not share, sell, give, trade, etc. any of your personal information with anybody, period.
 
-We will not share, sell, give, trade, etc. any of your personal information with anybody, period. 
+All information given to us is used by us only. Your phone number will only be used to call you to discuss your expressed interest in our TEFL classes and teaching English abroad.  
 
-All information given to us is used by us only. Your phone number will only be used in the event that there is a problem with your order, and we can not reach you via email. Your email address is used only should we need to get hold of you for order clarification etc. At some point we may send out emails mentioning special sales or items. If you receive one of these emails and would not like to receive any more, you may opt out at any time by emailing us the request. However by doing so, of course you will no longer be notified of or eligible for any special sales.
+Your email address is used to provide you requested brochures, literature and information about TEFL Certification and English teaching. At some point we may send out emails mentioning special sales. 
 
-Thousands of people from all walk of life become TEFL TESOL certified each year.  Read about some of the students who have taken courses worldwide.  In a few months you could be the next one of the International TEFL Academy graduates telling their friends how great a class they had and what a wonderfull time they are having teaching English abroad!  
-
+If you receive one of these emails and would not like to receive any more, you may opt out at any time by emailing us the request. 
