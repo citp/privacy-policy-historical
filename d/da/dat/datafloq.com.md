@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the datafloq.com privacy policy that was archived on 2016-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160801051857id_/https%3A//datafloq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datafloq.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506014731id_/https%3A//datafloq.com/privacy) for the most accurate reproduction.*
 
-# Datafloq - Privacy Policy
+# Datafloq: Privacy Policy
 
 At Datafloq.com ("Datafloq") we appreciate your readership and support and place a high value on your personal privacy. We respect the personal nature of the information you provide us on our website and faithfully recognize the importance of protecting this information. In adopting this privacy policy (this "Privacy Policy"), our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy.
 
