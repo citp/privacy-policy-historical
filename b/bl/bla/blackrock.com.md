@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blackrock.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026162648id_/https%3A//www.blackrock.com/corporate/en-us/compliance/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackrock.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505080031id_/https%3A//www.blackrock.com/corporate/en-us/compliance/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | BlackRock
 
 BlackRock recognizes the importance of protecting your personal and financial information when you visit our website located at [www.blackrock.com](http://www.blackrock.com/) ("Website"). The following information is designed to help you understand the information collection practices at this Website.
 
@@ -26,7 +26,7 @@ Cookies help us to provide customised services and information. We use cookies o
   * _Usage preferences:_ Some of the cookies on the Website are activated when visitors to our sites make a choice about their usage of the site. Our Website then ‘remembers' the settings preferences of the user concerned. This allows us to tailor aspects of the site to the individual user.
   * _Terms and conditions:_ We use cookies on the Website to record when a site visitor has seen a policy, such as this one, or provided consent, such as consent to the terms and conditions on our Website. This helps to improve the user's experience of the site – for example, it avoids a user from repeatedly being asked to consent to the same terms.
   * _Session management:_ The software that runs the Website uses cookies for technical purposes needed by the internal workings of our servers. For instance, we use cookies to distribute requests among multiple servers, authenticate users and determine what features of the site they can access, verify the origin of requests, keep track of information about a user's session and determine which options or pages to display in order for the site to function.
-  * _Functional purposes:_ Functional purpose cookies store information that is needed by our applications to process and operate. For example, where transactions or requests within an application involve multiple workflow stages, cookies are used to store the information from each stage temporarily, in order to facilitate completion of the overall transaction or request. 
+  * _Functional purposes:_ Functional purpose cookies store information that is needed by our applications to process and operate. For example, where transactions or requests within an application involve multiple workflow stages, cookies are used to store the information from each stage temporarily, in order to facilitate completion of the overall transaction or request.
 
 
 
@@ -34,9 +34,9 @@ To make full use of the Website, your computer or mobile device will need to acc
 
 _Local Flash Storage:_ We may include content on the Website designed for display using Adobe Flash Player, such as animations, videos and tools. Local flash storage (often referred to as "Flash cookies") can be used to help improve your experience as a user. Flash storage is retained on your device in much the same way as standard cookies, but is managed directly by your Flash software.
 
-If you wish to disable or delete information stored locally in Flash, please see the documentation for your Flash software, located at [www.adobe.com](http://www.adobe.com/).  Please note that, if you disable Flash cookies, some site functionality may not work.
+If you wish to disable or delete information stored locally in Flash, please see the documentation for your Flash software, located at [www.adobe.com](http://www.adobe.com/). Please note that, if you disable Flash cookies, some site functionality may not work.
 
-_Third party cookies:_ When you visit the Website, you may receive cookies that are set by third parties.  These may include cookies set by Google, Unica, Forsee, Wall Street on Demand, Morningstar, Media Mind and/or Flurry.  These cookies are used for the purposes described in the bullet points above.  We do not control the setting of these third party cookies, so we suggest you might wish to check the third party websites for more information about their use of cookies and how to manage them.
+_Third party cookies:_ When you visit the Website, you may receive cookies that are set by third parties. These may include cookies set by Google, Unica, Forsee, Wall Street on Demand, Morningstar, Media Mind and/or Flurry. These cookies are used for the purposes described in the bullet points above. We do not control the setting of these third party cookies, so we suggest you might wish to check the third party websites for more information about their use of cookies and how to manage them.
 
 _Amending cookie preferences:_ You can configure your browser to accept all cookies, reject all cookies, notify you when a cookie is set, or delete cookies that have already been set. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on our Website. In addition, a number of companies offer utilities designed to help you visit websites anonymously.
 
