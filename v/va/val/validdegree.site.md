@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the validdegree.site privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122104108id_/http%3A//www.validdegree.site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the validdegree.site privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505162415id_/http%3A//www.validdegree.site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Valid Degree.Site
 
