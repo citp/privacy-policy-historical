@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eversource.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218202852id_/https%3A//www.eversource.com/Content/general/about/legal-statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eversource.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505020632id_/https%3A//www.eversource.com/Content/general/about/legal-statements) for the most accurate reproduction.*
 
 # Privacy Policy & Legal Statements
 
@@ -8,7 +8,7 @@ This policy also describes the options you have to access, change or correct you
 
 This Privacy Policy may be updated from time to time and we encourage you to periodically check for updates and revisions to this Policy.  
 
-If you have any questions regarding this Privacy Policy, please [contact us](https://web.archive.org/web/20161218202852id_/https%3A//www.eversource.com/Content/general/about/contact).
+If you have any questions regarding this Privacy Policy, please [contact us](https://web.archive.org/web/20170505020632id_/https%3A//www.eversource.com/Content/general/about/contact).
 
 This Privacy Policy answers the following questions:
 
@@ -86,7 +86,7 @@ At any time and for any lawful purpose, Eversource may monitor, intercept, recor
 
 At Eversource’s sole discretion, we may disclose pertinent information to the U.S. Government and its authorized representatives to protect the security of critical infrastructure and key resources, to ensure information security, or to comply with any applicable law, regulation, legal process, or enforceable governmental request. 
 
-The Eversource may disclose information it determines in good faith to be necessary to investigate, prevent or respond to suspected illegal activities or interference with the operation of our websites or [Terms and Conditions](https://web.archive.org/web/20161218202852id_/https%3A//www.eversource.com/Content/general/about/terms-conditions).
+The Eversource may disclose information it determines in good faith to be necessary to investigate, prevent or respond to suspected illegal activities or interference with the operation of our websites or [Terms and Conditions](https://web.archive.org/web/20170505020632id_/https%3A//www.eversource.com/Content/general/about/terms-conditions).
 
 If you have provided written authorization to the Eversource to release your information to third parties, we will comply with your authorization and release such information to those parties as directed by you.
 
@@ -141,7 +141,7 @@ You will need your User ID and password to do so. If you have forgotten your pas
 
 Please note that if you choose not to have an online account with us, we will still store some of your personal information in our billing system if you are a customer.
 
-You can update or correct your account information online or ​[contact ​us](https://web.archive.org/web/20161218202852id_/https%3A//www.eversource.com/Content/general/about/contact). 
+You can update or correct your account information online or ​[contact ​us](https://web.archive.org/web/20170505020632id_/https%3A//www.eversource.com/Content/general/about/contact). 
 
 ### **Linking Policy**
 
@@ -180,6 +180,6 @@ Certain materials on our websites are copyright protected. Use of any Web site m
 
 ### **Related Links:**
 
-  * [Terms & Conditions](https://web.archive.org/web/20161218202852id_/https%3A//www.eversource.com/Content/general/about/terms-conditions)
+  * [Terms & Conditions](https://web.archive.org/web/20170505020632id_/https%3A//www.eversource.com/Content/general/about/terms-conditions)
 
 
