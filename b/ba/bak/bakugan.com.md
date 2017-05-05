@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakugan.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209011531id_/http%3A//www.bakugan.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakugan.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506011014id_/http%3A//www.bakugan.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Bakugan
 
