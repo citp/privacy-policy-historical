@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the elliemae.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604083809id_/http%3A//www.elliemae.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elliemae.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506004633id_/http%3A//elliemae.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ellie Mae
 
-[ ](http://www.elliemae.com/privacy-policy "Privacy Policy")
+[ ](https://web.archive.org/)
+
+[ ](http://elliemae.com/privacy-policy "Privacy Policy")
 
 **Effective Date** : December 8, 2015.  
 This policy describes Ellie Mae, Inc.’s (together with its subsidiaries and affiliates, “Ellie Mae”) collection, processing, use and storage of data from customers of Ellie Mae products and services (and, where applicable, their customers) and from visitors to our websites, including [www.elliemae.com](http://www.elliemae.com/) or [secure.elliemae.com](http://secure.elliemae.com/) and [www.allregs.com](http://www.allregs.com/) (collectively, our “Website”). Our Website and Ellie Mae products and services are referred to in this Privacy Policy, collectively, as our “Services.” Ellie Mae customers should also refer to their license agreement and other customer agreements, which may state additional terms governing their use of our products and services.
@@ -63,15 +65,15 @@ We may share, transfer, or disclose your information if you consent to us doing 
 
 #### OUR POLICY CONCERNING CHILDREN
 
-Our Website, products, and services relate to the residential real estate market and are intended for the use of adults over the age of 18. We do not knowingly collect any personal information from children and children should not use our Website or our products or services at any time.
+Our Website, products, and services relate to the residential real estate market and are intended for the use of adults over the age of 18. We do not knowingly collect any personal information from children and children should not use our Website or our products or services at any time. 
 
 #### PRIVACY POLICIES OF LINKED SITES AND ADVERTISERS
 
-Our Website, products, and services may contain links to other sites, as well as advertisements from companies linking to their own sites. We are not responsible for the privacy practices or the content of such sites. If you have any questions about how these other sites use your information, you should contact them directly.
+Our Website, products, and services may contain links to other sites, as well as advertisements from companies linking to their own sites. We are not responsible for the privacy practices or the content of such sites. If you have any questions about how these other sites use your information, you should contact them directly. 
 
 #### SECURITY
 
-Ellie Mae has physical, administrative and technical measures in place to maintain the security, confidentiality and integrity of the information gathered through the Ellie Mae Website and the Ellie Mae products and services, and to help protect against the loss, misuse and alteration of such information. For example, Ellie Mae generally uses Transport Layer Security (TLS), using both server authentication and data encryption, when you connect to the Ellie Mae Services. While we take reasonable steps to protect your personal information against security breaches and unauthorized access, no data transmission over the Internet can be guaranteed to be totally secure and therefore we cannot guarantee or warrant the security of any information you send to us.
+Ellie Mae has physical, administrative and technical measures in place to maintain the security, confidentiality and integrity of the information gathered through the Ellie Mae Website and the Ellie Mae products and services, and to help protect against the loss, misuse and alteration of such information. For example, Ellie Mae generally uses Transport Layer Security (TLS), using both server authentication and data encryption, when you connect to the Ellie Mae Services. While we take reasonable steps to protect your personal information against security breaches and unauthorized access, no data transmission over the Internet can be guaranteed to be totally secure and therefore we cannot guarantee or warrant the security of any information you send to us. 
 
 #### INTERNATIONAL VISITORS
 
@@ -79,7 +81,7 @@ Our Services are hosted in the United States (U.S.) and are intended for use in 
 
 #### CHANGES TO OUR PRIVACY POLICY
 
-This Privacy Policy may be revised from time to time. If we decide to make material changes to our Privacy Policy, we will make reasonable efforts to notify you of the changes by sending a notice to the primary email address provided to us and/or by placing a notice on our Website.
+This Privacy Policy may be revised from time to time. If we decide to make material changes to our Privacy Policy, we will make reasonable efforts to notify you of the changes by sending a notice to the primary email address provided to us and/or by placing a notice on our Website. 
 
 #### HOW TO ACCESS AND UPDATE YOUR INFORMATION
 
@@ -97,7 +99,7 @@ If you are a customer and choose to terminate your relationship with Ellie Mae, 
 #### CONTACT US
 
 If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an email to: [privacy@elliemae.com.](mailto:privacy@elliemae.com "Ellie Mae's Privacy Policy")  
-Ellie Mae, Inc.   
+Ellie Mae, Inc.  
 4420 Rosewood Dr., Suite 500  
 Pleasanton, CA 94588  
 Attn: Legal Department
