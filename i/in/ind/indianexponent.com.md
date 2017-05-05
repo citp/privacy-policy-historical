@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indianexponent.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104001731id_/http%3A//www.indianexponent.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianexponent.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505225138id_/http%3A//www.indianexponent.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy // Indian Exponent
+# Privacy Policy
 
 Your privacy is of utmost importance to us here at Indian Exponent. Rest assured that any information you provide will only be used in accordance with this privacy statement.
 
