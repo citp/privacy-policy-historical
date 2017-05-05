@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogspc.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016182333id_/http%3A//blogspc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogspc.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505100746id_/http%3A//blogspc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blogs PC Tech Magazine - Windows Tutorial, Personal Computer, Apple and Android Apps
 
