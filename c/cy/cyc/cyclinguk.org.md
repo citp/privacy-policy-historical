@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyclinguk.org privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228044126id_/http%3A//www.cyclinguk.org/about-ctc/policies-procedures/ctcs-website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyclinguk.org privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505183922id_/http%3A//www.cyclinguk.org/about-ctc/policies-procedures/ctcs-website/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Cycling UK
 
