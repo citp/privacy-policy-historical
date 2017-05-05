@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the condoliving.ph privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803030216id_/http%3A//www.condoliving.ph/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the condoliving.ph privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505164829id_/http%3A//www.condoliving.ph/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
