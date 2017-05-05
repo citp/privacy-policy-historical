@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberpowerpc.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620075826id_/http%3A//www.cyberpowerpc.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberpowerpc.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505083052id_/http%3A//www.cyberpowerpc.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
