@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sennheiserusa.com privacy policy that was archived on 2015-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150328214227id_/http%3A//en-us.sennheiser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sennheiserusa.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505164311id_/https%3A//en-us.sennheiser.com/privacy) for the most accurate reproduction.*
 
 # Sennheiser - Headphones & Headsets - Microphones - Integrated Systems
 
@@ -10,7 +10,7 @@ BY USING THIS WEBSITE OR COMMERCE SOLUTION OR SUBMITTING PERSONAL INFORMATION TO
 
 ### Scope of this Privacy Statement
 
-In General. This Privacy Statement applies to each commerce solution, which may be but is not limited to a website or a software application (each, a "Property") operated by Sennheiser Electronic Corporation, 1 Enterprise Drive, Old Lyme, Connecticut 06371, USA ("Sennheiser") where this Privacy Statement can be accessed from a hyperlink on, or otherwise appears on, that Property. 
+In General. This Privacy Statement applies to each commerce solution, which may be but is not limited to a website or a software application (each, a "Property") operated by Sennheiser Electronic Corporation, 1 Enterprise Drive, Old Lyme, Connecticut 06371, USA ("Sennheiser") where this Privacy Statement can be accessed from a hyperlink on, or otherwise appears on, that Property.
 
 Sennheiser respects the privacy of our customers, partners and suppliers of products or services and clients. The purpose of this Privacy Statement is to provide you with information concerning how we collect personal information when you use this Property, and how we collect other information regarding your interaction with this Property without identifying you as an individual; how we use, handle and disclose collected information; and choices you may have about the ways we collect and use that information. Our goal in handling personal information provided to us is to comply with applicable data protection and privacy laws and to offer users of our Property notice, choice and consent regarding processing for direct marketing purposes, security, data integrity, access, and enforcement with regard to personal information.
 
@@ -51,40 +51,40 @@ Storage, Use and Sharing of Information
 Your personal information provided to us will be processed on our computer servers. In some cases (where it is necessary to do so in order to fulfill our contractual obligations to you) such information may also be transmitted or made available to (i) third-parties providing services to Sennheiser or (ii) product manufacturers, licensors and/or or suppliers, located in the European Economic Area ("EEA"), the United States of America or another territory outside the EEA.
 
 Our Use of Personal Information. We may use personal information collected by us for the following purposes:
-    
-    
-    * to contact you if you have requested information or communication from us;
-    * to determine the country in which you are located for compliance purposes (including without limitation export compliance) and for security, anti-piracy, and fraud prevention purposes;
-    * to help verify that existing personal information about you in our possession is accurate and complete;
-    * to provide you with product updates and upgrades, special offers, pricing information, newsletters, and other information, either on our own behalf or in some cases on behalf of a partner or client acting as their agent, where you have consented to receive it;
-    * to undertake any other promotional activities where you have consented to such promotional activities;
-    * in connection with keys, access codes or other information as may be required to permit you to access the websites or services of our partners to receive products, updates or services;
-    * for the purposes identified in a specific Supplemental Privacy Notice posted on the page or area of this Property where you provided that information;
-    * to verify compliance with applicable laws, rules and regulations;
-    * if you visit this Property for the purposes of conducting a purchase transaction:
-          - to take, verify, process or deliver your order, process or obtain payment, verify your tax or tax exempt status, contest chargebacks, determine your eligibility for a line of credit, or notify you of the status of your order;
-          - for fraud and piracy prevention purposes;
-          - to provide you, to the extent permitted by law, with a personalized shopping experience;
-          - to register your purchase with the manufacturer or service provider for warranty, technical support or similar purposes;
-          - to provide notice of your purchase to the provider of an online service for which you purchase a service use right from us, for example, in order for the service provider to enable your access to the service;
-          - to establish an account for future purchases by you if you have consented to the creation of an account;
-          - to facilitate the renewal of subscriptions for products or services; and
-          - to provide you with effective customer service (which may to the extent and in a manner permitted by applicable law, include contacting visitors who commence but do not complete a checkout process to follow up on the incomplete session or to see if there was a problem with their use of this Property), and/or technical support.
-    
+
+  * to contact you if you have requested information or communication from us;
+  * to determine the country in which you are located for compliance purposes (including without limitation export compliance) and for security, anti-piracy, and fraud prevention purposes;
+  * to help verify that existing personal information about you in our possession is accurate and complete;
+  * to provide you with product updates and upgrades, special offers, pricing information, newsletters, and other information, either on our own behalf or in some cases on behalf of a partner or client acting as their agent, where you have consented to receive it;
+  * to undertake any other promotional activities where you have consented to such promotional activities;
+  * in connection with keys, access codes or other information as may be required to permit you to access the websites or services of our partners to receive products, updates or services;
+  * for the purposes identified in a specific Supplemental Privacy Notice posted on the page or area of this Property where you provided that information;
+  * to verify compliance with applicable laws, rules and regulations;
+  * if you visit this Property for the purposes of conducting a purchase transaction:
+  * to take, verify, process or deliver your order, process or obtain payment, verify your tax or tax exempt status, contest chargebacks, determine your eligibility for a line of credit, or notify you of the status of your order;
+  * for fraud and piracy prevention purposes;
+  * to provide you, to the extent permitted by law, with a personalized shopping experience;
+  * to register your purchase with the manufacturer or service provider for warranty, technical support or similar purposes;
+  * to provide notice of your purchase to the provider of an online service for which you purchase a service use right from us, for example, in order for the service provider to enable your access to the service;
+  * to establish an account for future purchases by you if you have consented to the creation of an account;
+  * to facilitate the renewal of subscriptions for products or services; and
+  * to provide you with effective customer service (which may to the extent and in a manner permitted by applicable law, include contacting visitors who commence but do not complete a checkout process to follow up on the incomplete session or to see if there was a problem with their use of this Property), and/or technical support.
+
+
 
 We keep your personal information only as long as we need it for the purposes for which it was originally collected (or to which you have subsequently consented), for other legitimate purposes (such as regulatory compliance), and as permitted or required by applicable law. We will observe applicable law and take reasonable steps to ensure any person or entity receiving personal information for the purposes described above, are obligated to protect and keep secure the personal information on your behalf.
 
 Our Use of Anonymous Information. We may use anonymous information collected by us:
-    
-    
-    * to personalize and support your use of this Property, our services, and/or the services of our partners;
-    * to improve this Property, the customer experience, our advertising systems, and our products and services;
-    * for fraud prevention purposes, such as device fingerprinting;
-    * to identify actions or transactions as originating through an affiliate marketing or referral program;
-    * to deliver targeted advertisements on this Property and other websites and/or commerce solutions;
-    * to provide reporting to our current and prospective partners and service providers; and
-    * for other historical, statistical or research and analysis purposes.
-    
+
+  * to personalize and support your use of this Property, our services, and/or the services of our partners;
+  * to improve this Property, the customer experience, our advertising systems, and our products and services;
+  * for fraud prevention purposes, such as device fingerprinting;
+  * to identify actions or transactions as originating through an affiliate marketing or referral program;
+  * to deliver targeted advertisements on this Property and other websites and/or commerce solutions;
+  * to provide reporting to our current and prospective partners and service providers; and
+  * for other historical, statistical or research and analysis purposes.
+
+
 
 In addition, we may "de-identify" personal information by removing any information that identifies you specifically, and use the rest for the purposes set forth above.
 
@@ -103,14 +103,14 @@ When you provide personal information, we may offer you a choice as to whether y
 
 If you accept a session or persistent cookie, you can delete it at any time through your web browser (e.g., as soon as you leave our Property). If you do not wish to receive cookies or wish to manage when you accept cookies in general, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. Although you are not required to accept our cookies, if you set your browser to reject cookies, you may not be able to use all of the features and functionality of this Property.
 
-We and our partners use third party service providers in connection with this Property and our business, which may include but are not limited to (a) Google Analytics and Omniture to serve ads on our behalf across the Internet and sometimes on this Property, and (b) ClickTale to gather user metrics and usage data. These service providers may collect anonymous information about your visits to our Property or to a website, your interaction with our Property or that website, and the products and services offered by us, our partners and our suppliers through the use of cookies, pixel tags, JavaScript code or other web technologies. We and our partners may use this anonymous information to provide targeted advertisements to you for goods and services, for marketing analysis, and for quality improvement purposes. If you would like more information about this practice and to know your choices about not having this anonymous information used, please visitwww.networkadvertising.org/consumer/opt _out.asp. You may view a list of third party service providers who collect anonymous information, and/or opt-out of such collection of anonymous information about you, by visitinghttp://www.networkadvertising.org/managing/opt_ out.asp. If you would like to opt-out of tracking of your anonymous information through ClickTale, please visit http://www.clicktale.net/disable.html. If you opt out of having your information collected through cookies, web beacons and other tools, your existing display advertising cookie(s) will be deleted and new cookie will attempt to be placed that instructs service providers not to track your future activities when that cookie is detected (a "no-track" cookie). If your browsers are configured to reject cookies when you visit our opt-out page, a "no-track" cookie cannot be set on your computer. Also, if you subsequently erase "no-track" cookies, use a different computer or change web browsers, you will need to opt-out again.  
+We and our partners use third party service providers in connection with this Property and our business, which may include but are not limited to (a) Google Analytics and Omniture to serve ads on our behalf across the Internet and sometimes on this Property, and (b) ClickTale to gather user metrics and usage data. These service providers may collect anonymous information about your visits to our Property or to a website, your interaction with our Property or that website, and the products and services offered by us, our partners and our suppliers through the use of cookies, pixel tags, JavaScript code or other web technologies. We and our partners may use this anonymous information to provide targeted advertisements to you for goods and services, for marketing analysis, and for quality improvement purposes. If you would like more information about this practice and to know your choices about not having this anonymous information used, please visitwww.networkadvertising.org/consumer/optout.asp. You may view a list of third party service providers who collect anonymous information, and/or opt-out of such collection of anonymous information about you, by visitinghttp://www.networkadvertising.org/managing/optout.asp. If you would like to opt-out of tracking of your anonymous information through ClickTale, please visit http://www.clicktale.net/disable.html. If you opt out of having your information collected through cookies, web beacons and other tools, your existing display advertising cookie(s) will be deleted and new cookie will attempt to be placed that instructs service providers not to track your future activities when that cookie is detected (a "no-track" cookie). If your browsers are configured to reject cookies when you visit our opt-out page, a "no-track" cookie cannot be set on your computer. Also, if you subsequently erase "no-track" cookies, use a different computer or change web browsers, you will need to opt-out again.  
 Security of Information
 
 We are committed to keeping personal information secure. We have implemented physical, technical and administrative safeguards reasonably designed to protect your personal information from unauthorized access and disclosure. When we collect or transmit sensitive information such as a financial account number, we use industry standard methods to protect that information. It is important that you understand, however, that no commerce solution, website, database or system is completely secure or "hacker proof." You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse, for example, by protecting your password.
 
 Different countries have different privacy laws and requirements. Please know, however, that no matter where your personal information is collected, used, transferred or stored, if it was collected through this Property, it will be protected by us in accordance with the terms of this Privacy Statement, any Supplemental Privacy Notices that apply to you, and applicable laws, rules and regulations.
 
-Accessing and Correcting Your Personal Information
+### Accessing and Correcting Your Personal Information
 
 We strive to maintain the accuracy and integrity of the personal information in our databases and to keep that information up-to-date. We provide ways for you to access your personal information as required by applicable law, so that you can correct inaccuracies or update your personal information.
 
@@ -118,19 +118,19 @@ If you would like to review, correct or challenge your personal information, ple
 
 If you contact us we may, for your protection, ask you for additional information to verify your identity. In most cases, we will provide the access you request and correct or delete any inaccurate personal information you discover. We reserve the right, however, to limit or deny your request to the extent permitted by applicable law if the disclosure may lead to a breach of applicable law and regulation, e.g. in case of any legal obligation to retain certain data, or if you have failed to provide sufficient evidence to verify your identity.
 
-Links to Third Party Websites
+### Links to Third Party Websites
 
 This Privacy Statement is only applicable to the use and disclosure of information we collect from and about you through this Property and any other website or commerce solution on which this Privacy Statement appears. It does not apply to information collected directly by our partners, service providers or any other third party, even if their website links to this Property, or this Property links to their website. We do not control the privacy policies of our partners, service providers or other third parties. If you disclose information to any other party, different terms may apply to their use and disclosure of information disclosed to those third parties. Please review the privacy statement posted on each website you visit.  
 Children’s Privacy
 
 This Property is not directed at nor targeted to children. If you have not reached the age of majority or are not able to enter into legally binding agreements in your country, you may not use this Property unless supervised by an adult. Our goal is to comply with applicable laws and regulations relating to collection and use of information from children as such term is defined by applicable laws. If you believe that we have received information from a child or other person protected under such laws, please notify us immediately by postal mail addressed to Sennheiser’s Privacy Department, 1 Enterprise Drive, Old Lyme, Connecticut 06371, USA, and we will take reasonable steps to remove that information from our databases.
 
-How to Contact Us
+## How to Contact Us
 
 If you have any questions, comments, or concerns regarding this Privacy Statement or our privacy practices, or have privacy-related questions not answered online, you may contact us by any of the following means:
-    
-    
-    * By Mail: You may contact us by postal mail addressed to Sennheiser, Inc., ATTN: Privacy Department, 1 Enterprise Drive, Old Lyme, Connecticut 06371, USA.
-    
+
+  * By Mail: You may contact us by postal mail addressed to Sennheiser, Inc., ATTN: Privacy Department, 1 Enterprise Drive, Old Lyme, Connecticut 06371, USA.
+
+
 
 You may write to us in your own language.
