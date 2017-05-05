@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gator995.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229040651id_/http%3A//gator995.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gator995.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505191219id_/http%3A//gator995.com/privacy) for the most accurate reproduction.*
 
 # Gator 99.5 – Today's Country Hits – Lake Charles' Country Radio
 
