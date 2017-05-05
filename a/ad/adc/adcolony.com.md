@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adcolony.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226010055id_/http%3A//www.adcolony.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adcolony.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505224944id_/http%3A//www.adcolony.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AdColony
 
@@ -84,8 +84,6 @@ In cases of onward transfer to third parties of data of EU individuals received 
 **Safe Harbor Privacy Principles –** Opera Mediaworks complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. We have certified that Opera Mediaworks adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Principles, the Safe Harbor Principles shall govern. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://2016.export.gov/safeharbor/swiss/>.
 
 [We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)
-
-[](http://www.export.gov/safeharbor)
 
 **Redress for EU and Swiss Citizens –** In compliance with the U.S.-EU and U.S.-Swiss Safe Harbor Principles, Opera Mediaworks commits to resolve complaints about our collection or use of personal information. Citizens of the European Union or Switzerland with inquiries or complaints about our collection or use of personal information should first contact Opera Mediaworks at [privacy@operamediaworks.com](mailto:priv%61cy@o%70%65ra%6D%65%64i%61wo%72%6Bs.%63o%6D) _._
 
