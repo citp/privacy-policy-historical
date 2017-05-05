@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localslags.co.uk privacy policy that was archived on 2016-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160924040207id_/http%3A//app.localslags.co.uk/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localslags.co.uk privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505200632id_/http%3A//app.localslags.co.uk/help/privacy.cfm) for the most accurate reproduction.*
 
 # Local Slags :: Local Slags Member Privacy Policy
 
