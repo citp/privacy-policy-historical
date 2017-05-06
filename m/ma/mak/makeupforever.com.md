@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the makeupforever.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029162849id_/http%3A//www.makeupforever.com/int/en-int/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeupforever.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506222335id_/http%3A//www.makeupforever.com/int/en-int/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – MAKE UP FOR EVER
 
 ###  PERSONAL DATA & COOKIES
 
-The website makeupforever.com/fr/fr-fr is published by MAKE UP FOR EVER, a French société anonyme with a share capital of €1,050,000 registered in the Trade and Companies Register of Paris under the number B 318 309 267, Siret no. 31830926700033, with its registered office located at 5 rue de la Boétie, 75008 Paris, France. Tel: 33 1 52 18 61 10.
+The website makeupforever.com/int/en-int is published by MAKE UP FOR EVER, a French société anonyme with a share capital of €1,050,000 registered in the Trade and Companies Register of Paris under the number B 318 309 267, Siret no. 31830926700033, with its registered office located at 5 rue de la Boétie, 75008 Paris, France. Tel: 33 1 52 18 61 10.
 
 This privacy policy describes our policies regarding the collection, use and disclosure of information on or through the website makeupforever.com (hereinafter the "Website"), as well as information you may provide us via mobile and Facebook applications, including product ratings and reviews, in promotional campaigns, sweepstakes, contests and other promotions, at our stores or through customer surveys. 
 
@@ -12,7 +12,7 @@ This Privacy Policy only applies to Personal Information (as defined below) that
 
 By visiting this Website or using a MAKE UP FOR EVER mobile application, participating in promotional operations, sweepstakes and other promotions, or completing customer surveys, you agree to the terms of this Privacy Policy as amended from time to time. If you do not agree with any of the terms in this Privacy Policy, please do not use the website or disclose the information described above. 
 
-YThis Privacy Policy only applies to the personal data (as defined below) that we collect.
+This Privacy Policy only applies to the personal data (as defined below) that we collect.
 
 MAKE UP FOR EVER does not knowingly collect or use any personal data relating to anyone under the age of 13. If we become aware that any such information has been submitted to us, we will delete the information as soon as possible .
 
@@ -52,13 +52,13 @@ We may use "clear GIFs" (aka "Web beacons" or "pixel tags") or similar technolog
 You possess a right to access, rectify and delete personal data that relates to you, as well as the option to object to the processing of such data that you can exercise at any time by contacting
 
 **Director of Publication:** Nicolas CORDIER, CEO  
-**Editor:** Caroline GRANGE, International Digital Director
+**Editor:** Pauline FRACHON, Global Head of Communication and Brand Entertainment
 
 **Via a letter to the following address:**
 
 MAKE UP FOR EVER France  
 Customer Service Digital Marketing Europe Department  
-5-7 rue du commandant Pilot 92 200 Neuilly-su-Seine
+5-7 rue du commandant Pilot 92 200 Neuilly-sur-Seine
 
 **Or an e-mail to:**
 
