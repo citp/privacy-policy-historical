@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the essaypro.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021180040id_/http%3A//essaypro.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essaypro.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506055552id_/https%3A//essaypro.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - EssayPro
+# Privacy Policy | EssayPro
 
 Below is EssayPro.com’s comprehensive privacy statement. While the fundamental aspects of EssayPro’s privacy statement may not change, we advise all recurrent users to carefully examine the details of our privacy policy from time to time as they are subject to change.
 
 ## Gathered User Information
 
-Information gathered on our clients and essay writers is used only to improve our services and to provide support to our customers. No personal or payment information is given to third parties.
+Information gathered on our clients and essay writers are used only to improve our services and to provide support to our customers. No personal or payment information is given to third parties.
 
 Additionally, our webserver only gathers data such as IP address, browser type, times of access, and operating system type for statistical purposes only. Cookies are also sometimes used for the purpose of customizing your webpage’s content on our site.
 
@@ -16,7 +16,7 @@ By cookies, we are referring to text files that identify any computer to the ser
 
 ## Optional Information Use
 
-On certain pages of EssayPro.com, you will be requested to give personal information such as name, contact info, or email address. However, any personal information that you provide on our website will never be disclosed to any third parties. We only request this information to facilitate communication between us and our clients while they are trying to submit or retrieve orders. Any demographic details that you give us are only used for our company’s marketing research.
+On certain pages of EssayPro.com, you will be requested to give personal information such as name, contact info, or email address. However, any personal information that you provide on our website will never be disclosed to any third parties. We only request this information to facilitate communication between our clients and us, while they are trying to submit or retrieve orders. Any demographic details that you give us are only used for our company’s marketing research.
 
 When contacting us via email to provide your feedback, request a service, or more details about our services, your personal information (i.e. your email address) is used to contact you. However, your personal information is never shared, given, or sold to any outside sources or companies, unless you disclose it yourself by communicating via chat with other users.
 
@@ -34,6 +34,6 @@ For all links to other websites posted on our website, we do not explicitly or i
 
 Prohibited Disclosures
 
-Usage of information from both employees and employers related to this privacy policy are for the exclusive use of the commissioner responsible. Information on this website is not open to the public and may not be used in any court of law during any action, legal or otherwise, unless the commissioner is responsible for such action claimed by the other party. A claim of benefits will be determined and made to the affected parties at the commissioner’s discretion. It is also possible to legally pursue parties who abscond on payment.
+Usage of information from both employees and employers related to this privacy policy are for the exclusive use of the commissioner responsible. Information on this website is not open to the public and may not be used in any court of law during any action, legal or otherwise unless the commissioner is responsible for such action claimed by the other party. A claim of benefits will be determined and made to the affected parties at the commissioner’s discretion. It is also possible to legally pursue parties who abscond on payment.
 
 Do not disclose your personal information or payment data communicating via chat with other users and writers in your profile for security reasons.
