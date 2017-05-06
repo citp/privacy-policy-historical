@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the follettsoftware.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129112325id_/http%3A//www.follettlearning.com/wps/wcm/connect/Follett%2BContent/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the follettsoftware.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506024139id_/https%3A//www.follettlearning.com/wps/wcm/connect/Follett%2BContent/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Follett School Solutions
 
