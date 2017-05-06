@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bombas.com privacy policy that was archived on 2016-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160930032742id_/http%3A//www.bombas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bombas.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506165922id_/https%3A//bombas.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Bombas
 
 **Last Updated: October 31, 2014**
 
@@ -10,7 +10,7 @@ We encourage you to read this Privacy Policy carefully when using any of our web
 
 If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
 
-##   
+##    
 Information we collect about you
 
 In General. We may collect personal information that can identify you such as your name and email address and other information that does not identify you. When you provide personal information through any of our websites, the information may be sent to servers located in the United States and other countries around the world.
@@ -31,7 +31,7 @@ Use of cookies and other technologies to collect information. We use various tec
 
 4\.     Information collected by third-parties. We may allow third-parties, including our authorized service providers, advertising agencies, and ad networks, to display advertisements, or provide applications and services on our sites. These companies may use tracking technologies, such as cookies or web beacons, to collect information about users who view or interact with their advertisements or use their applications and services. Our websites do not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and personalized online experiences and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
 
-##   
+##    
 How we use the information we collect
 
 In general. We may use information that we collect about you to:
@@ -60,7 +60,7 @@ Job applicants. If your personal information is submitted through any of our web
 
 Please review "Your choices about collection and use of your information" below.
 
-##   
+##    
 With whom we share your information
 
 We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our websites or while using our services.
@@ -83,38 +83,38 @@ Any third parties to whom we may disclose personal information may have their ow
 
 Aggregated and non-personal information. We may share aggregated and non-personal information we collect under any of the above circumstances. We may also share it with third parties to develop and deliver targeted advertising on our websites and on websites of third parties. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our websites and the most popular features or services accessed. This information does not contain any personal information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising.
 
-##   
+##    
 Third-party websites
 
 There are a number of places on our websites where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on an advertisement or a search result on any of our websites, you may be taken to a website that we do not control. These third-party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We recommend that you consult the privacy statements of all third-party websites you visit by clicking on the "privacy" link typically located at the bottom of the webpage you are visiting.
 
-##   
+##    
 How you can access your information
 
 If you have an online account with us, you have the ability to review and update your personal information online by logging into your account at Bombas.com. You can also review and update your personal information by contacting us. More information about how to contact us is provided below.
 
-##   
+##    
 Your choices about collection and use of your information
 
 1\.     You can choose not to provide us with certain information, but that may negatively impact or totally prevent your use of certain features of our websites because such information may be required in order for you to register as a member; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions on our websites.
 
 2\.     When your register on any of our websites, you may be given a choice as to whether you want to receive e-mail messages about special offers or with special distributions of content by us. You may modify your choice at any time by clicking on a link at the bottom of any email. You also will be given the opportunity, in any commercial e-mail that we send to you, to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that changing information in your account, or otherwise opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party (such as an event provider) before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party.
 
-3\.     You may tell us not to share your personal information with third parties for direct marketing purposes by [sending us a message](https://www.bombas.com/contacts/).
+3\.     You may tell us not to share your personal information with third parties for direct marketing purposes by [sending us a message](http://www.bombas.com/contacts/).
 
-##   
+##    
 How we protect your personal information
 
 We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information.
 
 We want you to feel confident using our websites to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the Federal Trade Commission's website at <http://www.ftc.gov/bcp/menus/consumer/data.shtm> for information about how to protect yourself against identity theft.
 
-##   
+##    
 Submitting Content to our Websites
 
 We may provide areas on our websites where you can post information about yourself and others and communicate with others, as well as upload content (e.g. pictures, videos, audio files, etc.). Such postings are governed by our Terms and Conditions of Use. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. Once you have posted information, you may not be able to edit or delete such information.
 
-##   
+##    
 Children's privacy
 
 Our websites are general audience sites, and we do not knowingly collect personal information from children under the age of 13.
@@ -123,17 +123,17 @@ Visiting our websites from outside the United States
 
 This Privacy Policy is intended to cover collection of information on our websites from residents of the United States. If you are visiting any of our websites from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.
 
-##   
+##    
 No Rights of Third Parties
 
 This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of any of our websites.
 
-##   
+##    
 Changes to this Privacy Policy
 
 We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending an e-mail to the e-mail address you most recently provided us in your account, profile or registration (unless we do not have such an email address), and/or by prominently posting notice of the changes on our websites. We recommend that you check our websites from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.
 
-##   
+##    
 How to contact us
 
 If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail or postal mail as follows:
@@ -148,9 +148,9 @@ Armonk, New York 10504
 
 United States of America
 
-[send us a message](https://www.bombas.com/contacts/)
+[send us a message](https://help.bombas.com/hc/en-us/requests/new)
 
-##   
+##    
 Linked Information
 
 ### Cookies:
