@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bfsforex.com privacy policy that was archived on 2016-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160819005310id_/http%3A//www.bfsforex.com/en/trading_accounts/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bfsforex.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506181643id_/http%3A//www.bfsforex.com/en/trading_accounts/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy-BFSforex.com
 
