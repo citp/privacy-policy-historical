@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sextgem.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213222509id_/http%3A//sextgem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sextgem.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506162200id_/http%3A//sextgem.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Trình tạo wap / công cụ xây dựng website di động trực quan
+# Privacy Policy - Visual mobile site building tool
 
 XTGEM Service Provider aims to ensure the protection of XTGEM website visitors’ and service users’ privacy. This privacy policy is applied only to XTGEM website.
 
@@ -21,4 +21,4 @@ XTGEM service user understands and agrees that the risks related to the submissi
 
 Also the log in name of an XTGEM service user may be shown to other XTGEM service users when the user sends or uploads information on XTGEM website and so other service users who receive this information may contact the user by writing messages or using XTGEM services.
 
-© 2016 xtgem.com 
+© 2017 xtgem.com 
