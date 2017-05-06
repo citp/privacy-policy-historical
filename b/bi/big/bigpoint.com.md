@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigpoint.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201180036id_/https%3A//legal.bigpoint.com/privacy-policy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigpoint.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506194825id_/https%3A//legal.bigpoint.com/privacy-policy/en) for the most accurate reproduction.*
 
 # BIGPOINT INC. - PRIVACY POLICY - EFFECTIVE DATE: SEPTEMBER 30, 2015
 
