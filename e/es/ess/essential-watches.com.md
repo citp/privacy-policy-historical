@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essential-watches.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326050352id_/https%3A//www.essential-watches.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essential-watches.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507000459id_/http%3A//www.essential-watches.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Watches New & Preowned | From Essential-Watches.com
 
@@ -170,7 +170,7 @@ and we will promptly remove you from **ALL** correspondence.
 
 We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page. While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 310.601.7264 or via email.
 
-[click here to read testimonials from satisifed customers.](https://web.archive.org/web/20160326050352id_/https%3A//www.essential-watches.com/testimonials)
+[click here to read testimonials from satisifed customers.](https://web.archive.org/web/20170507000459id_/http%3A//www.essential-watches.com/testimonials)
 
 If you have any questions, we encourage you to [contact us](https://web.archive.org/contact).
 
