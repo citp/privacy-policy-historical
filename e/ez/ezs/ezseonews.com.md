@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezseonews.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130100003id_/http%3A//ezseonews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezseonews.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506043115id_/http%3A//ezseonews.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - ezSEO Newsletter
 
@@ -28,9 +28,9 @@ It is the intent of the Privacy Policy to comply with the California Act. Variou
 
 This website routinely collects information about its visitors, subscribers, members, and customers. This information is obtained in various ways, such as:
 
-**VISITOR, SUBSCRIBER, MEMBER, OR CUSTOMER INFORMATION OBTAINED FROM ‘REGISTRATION’**
+**VISITOR, SUBSCRIBER, MEMBER, OR CUSTOMER INFORMATION OBTAINED FROM ‘REGISTRATION'**
 
-Registration means that the Visitor, Subscriber, Member or Customer takes active, positive steps to communicate information to this website. This can include pages or ‘pop ups’ where you register for a newsletter or subscribe to a mailing list; it can include your participation in visitor surveys; it can include requesting information from the website via email, mail, or courier; it may be from joining an affiliate program or other membership organization, paid or unpaid; it may be from ordering a product.
+Registration means that the Visitor, Subscriber, Member or Customer takes active, positive steps to communicate information to this website. This can include pages or ‘pop ups' where you register for a newsletter or subscribe to a mailing list; it can include your participation in visitor surveys; it can include requesting information from the website via email, mail, or courier; it may be from joining an affiliate program or other membership organization, paid or unpaid; it may be from ordering a product.
 
 Occasionally complete credit card information may be provided to the website via fax or a fill-in form rather than regular secure merchant service processing. This information is kept at the highest level of security and is never divulged to anyone except the merchant service provider or for the purpose of communication with the customer.
 
@@ -40,7 +40,7 @@ Online ordering via SSL encrypted communication provided by shopping cart servic
 
 **VISITOR EMAIL INQUIRIES**
 
-Website visitors who wish to communicate with the website do so under two conditions: one, they give their permission for contact by the website; two, they are subject to any ?submission? provisions of the Terms of Use, Purchase Agreement, or this Privacy Policy. While your email address may or may not be used to solicit you, it is added to the website’s general solicitation database.
+Website visitors who wish to communicate with the website do so under two conditions: one, they give their permission for contact by the website; two, they are subject to any ?submission? provisions of the Terms of Use, Purchase Agreement, or this Privacy Policy. While your email address may or may not be used to solicit you, it is added to the website's general solicitation database.
 
 **CUSTOMER EMAIL OR TESTIMONIALS**
 
@@ -60,13 +60,13 @@ If you send a friend an email from this site or if you send the url or one of ou
 
 Unless otherwise specified in the survey, you must assume that any information provided to the website as part of a survey in which you participate may be used by the site itself for product design or solicitation purposes. We will never sell or give away your email address to any other company.
 
-**INFORMATION OBTAINED FROM ELECTRONIC MEANS AND ‘COOKIES’**
+**INFORMATION OBTAINED FROM ELECTRONIC MEANS AND ‘COOKIES'**
 
 Many websites, including this one, collect information about your computer, your email address, your IP address. You must assume that your web-viewing or web-use activity is monitored, tracked, and information collected. This information is not usually of a personal nature, but it may help define your viewing habits and product preferences even though the website may or may not have any idea who you are.
 
-“Cookies” is web jargon for bits of computer code placed on your hard drive. Websites use this to keep you ‘logged in’, to keep track of search criteria, to monitor use, to password protect use of the site or use of products sold by the site. Cookies can also be used to obtain information about your computer configuration or your use of your computer.
+“Cookies” is web jargon for bits of computer code placed on your hard drive. Websites use this to keep you ‘logged in', to keep track of search criteria, to monitor use, to password protect use of the site or use of products sold by the site. Cookies can also be used to obtain information about your computer configuration or your use of your computer.
 
-Cookies can be used to electronically gather information about you. Again, it may or may not be personal information, but it is information and by using this site you are expressly giving permission to use ‘cookies’ and to use the information gathered from their use to benefit you. You also give permission to collect, archive, retrieve, and use any information collected for product design, product offers to you, and general commercial solicitation purposes by this site or joint venture partners, affiliates, and marketing organizations.
+Cookies can be used to electronically gather information about you. Again, it may or may not be personal information, but it is information and by using this site you are expressly giving permission to use ‘cookies' and to use the information gathered from their use to benefit you. You also give permission to collect, archive, retrieve, and use any information collected for product design, product offers to you, and general commercial solicitation purposes by this site or joint venture partners, affiliates, and marketing organizations.
 
 **HOW INFORMATION MAY BE USED**
 
@@ -82,7 +82,7 @@ Visitors, subscribers, members, or customers who use any site provided bulletin 
 
 **SPAM**
 
-By providing to this website information that forms the basis of communication with you, such as an email address, you waive all rights to file complaints concerning unsolicited email or spam from this website since, by providing such information, you agree to receive communication from us or other marketing organizations. However, all email communication with you shall contain an ‘unsubscribe’ link where you may notify the website that you no longer wish to receive solicitations or information from the website and your name will be removed from the general solicitation database.
+By providing to this website information that forms the basis of communication with you, such as an email address, you waive all rights to file complaints concerning unsolicited email or spam from this website since, by providing such information, you agree to receive communication from us or other marketing organizations. However, all email communication with you shall contain an ‘unsubscribe' link where you may notify the website that you no longer wish to receive solicitations or information from the website and your name will be removed from the general solicitation database.
 
 **DATA SECURITY**
 
@@ -110,7 +110,7 @@ As part of the consideration that the Website requires of the Visitor to view, u
 
 Arbitration shall be conducted pursuant to the rules of the American Arbitration Association, which are in effect on the date a dispute is submitted to the American Arbitration Association. Information about the American Arbitration Association, its rules, and its forms are available from the American Arbitration Association, 335 Madison Avenue, Floor 10, New York, New York, 10017-4605. Hearing will take place in the city or county of the Seller.
 
-In no case shall the Visitor have the right to go to court or have a jury trial. Visitor will not have the right to engage in pre-trial discovery except as provided in the rules; you will not have the right to participate as a representative or member of any class of claimants pertaining to any claim subject to arbitration; the arbitrator’s decision will final and binding with limited rights of appeal.
+In no case shall the Visitor have the right to go to court or have a jury trial. Visitor will not have the right to engage in pre-trial discovery except as provided in the rules; you will not have the right to participate as a representative or member of any class of claimants pertaining to any claim subject to arbitration; the arbitrator's decision will final and binding with limited rights of appeal.
 
 The prevailing party shall be reimbursed by the other party for any and all costs associated with the dispute arbitration, including attorney fees, collection fees, investigation fees, travel expenses.
 
@@ -124,7 +124,7 @@ Correos 4
 Tenerife  
 Spain**
 
-In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller’s address.
+In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
 
 **APPLICABLE LAW**
 
