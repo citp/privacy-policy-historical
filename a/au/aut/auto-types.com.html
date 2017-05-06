@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the auto-types.com privacy policy that was archived on 2016-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161222040100id_/http%3A//www.auto-types.com/en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the auto-types.com privacy policy that was archived on 2017-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170506074803id_/http%3A//www.auto-types.com/en/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en-us"><head profile="http://www.w3.org/2005/10/profile" id="head" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
 	<title>Test drives, automotive news &amp; cars technical details</title>
@@ -65,7 +65,7 @@
   var dimensionValue = '';
   ga('set', 'dimension1', dimensionValue);
 
-  var dimensionValue = '369505951';
+  var dimensionValue = '1144501780';
   ga('set', 'dimension2', dimensionValue);
 
 
@@ -79,28 +79,61 @@
 
 
 </script>
-	<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async="async">script>
+	<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async="async"></script>
 		<script>
-		var OneSignal = window.OneSignal || [];
-		OneSignal.push(["init", {
-			appId: "21708116-d1e3-40a7-b8d2-899ba942ce00",
-			autoRegister: true, /* Set to true to automatically prompt visitors */
-			subdomainName: 'https://auto-types.onesignal.com',
-			httpPermissionRequest: {
-				enable: true
-			},
-			notifyButton: {
-				enable: true, /* Required to use the notify button */
-				size: 'medium', /* One of 'small', 'medium', or 'large' */
-				theme: 'default', /* One of 'default' (red-white) or 'inverse" (white-red) */
-				position: 'bottom-right', /* Either 'bottom-left' or 'bottom-right' */
-				offset: {
-				bottom: '0px',
-				left: '0px', /* Only applied if bottom-left */
-				right: '0px' /* Only applied if bottom-right */
-			}
-		}]);
-		</script>
+
+		window.OneSignal = window.OneSignal || [];
+
+		OneSignal.push( function() {
+			OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+			OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+			OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+			OneSignal.setDefaultNotificationUrl("http://auto-types.com");
+			var oneSignal_options = {};
+			window._oneSignalInitOptions = oneSignal_options;
+
+			oneSignal_options['wordpress'] = false;
+			oneSignal_options['appId'] = 'c280585a-2802-4e72-98b5-dbb00c80960b';
+			oneSignal_options['autoRegister'] = true;
+			oneSignal_options['httpPermissionRequest'] = { };
+			oneSignal_options['httpPermissionRequest']['enable'] = true;
+			oneSignal_options['welcomeNotification'] = { };
+			oneSignal_options['welcomeNotification']['title'] = "";
+			oneSignal_options['welcomeNotification']['message'] = "";
+			oneSignal_options['subdomainName'] = "auto-types";
+			oneSignal_options['safari_web_id'] = "web.onesignal.auto.2358eea7-3e97-4fb7-b492-b25c712616ac";
+			oneSignal_options['promptOptions'] = { };
+			oneSignal_options['notifyButton'] = { };
+			oneSignal_options['notifyButton']['enable'] = true;
+			oneSignal_options['notifyButton']['position'] = 'bottom-right';
+			oneSignal_options['notifyButton']['theme'] = 'default';
+			oneSignal_options['notifyButton']['size'] = 'medium';
+			oneSignal_options['notifyButton']['prenotify'] = true;
+			oneSignal_options['notifyButton']['showCredit'] = true;
+			oneSignal_options['notifyButton']['text'] = {};
+			oneSignal_options['notifyButton']['text']['tip.state.blocked']='You blocked my notifications :(';
+			oneSignal_options['notifyButton']['text']['tip.state.unsubscribed']='Allow me tonotify you';
+			oneSignal_options['notifyButton']['text']['tip.state.subscribed']='You already subscribed to my notifications';
+			OneSignal.init(window._oneSignalInitOptions);
+		});
+
+		function documentInitOneSignal() {
+			var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+			var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+				oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+		}
+
+		if (document.readyState === 'complete') {
+			documentInitOneSignal();
+		}
+		else {
+			window.addEventListener("load", function(event){
+				documentInitOneSignal();
+			});
+		}
+	</script>
 
 <link rel="stylesheet" type="text/css" href="/css/jquery.cookiebar.css">
 	<!-- Hotjar Tracking Code for http://www.auto-types.com -->
@@ -325,6 +358,7 @@
 
 <ul><li><a href="#" class="upa">CARS</a>
 	<div class="menu-container-2">
+		<div class="bgap"><a href="/en/muscle-cars-gallery/" class="upb">Muscle cars</a></div>
 		<div class="bgap"><a href="/en/fastest-cars/" class="upb">Fastest cars</a></div>
 		<div class="bgap"><a href="/compare-list/page-1.html" class="upb">Cars comparison</a></div>
 	</div>
@@ -394,6 +428,12 @@ Below are links to the privacy policies of the advertising networks used by Auto
 </div>					</div>
 										<div style="width:250px;float:left;margin-left:0px;">
 					<!--  <div class="bxl"><a href="/international-motor-show/2010/paris-motor-show-mondial-de-l-automobile-2010/" title="Paris Motor Show 2010"><img src="http://www.auto-types.com/img/mondial_de_lautomobile_paris_2010_paris_motor_show.jpg"  width="250" height="231" alt="Paris Motor Show 2010" /></a></div>-->
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- AT-mobile-gallery-up -->
+	<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3549051746754437" data-ad-slot="3672805961" data-ad-format="auto"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
 <div class="crsh">Search Cars</div>
 <form name="registerForm" action="/en/searchModels/" method="post" onsubmit="return validare_adaugare();">
 
@@ -519,8 +559,9 @@ Below are links to the privacy policies of the advertising networks used by Auto
 
 </form><div class="bxl">
 	<script language="javascript" type="text/javascript" src="http://www.wewebcars.com/newsofday2.php"></script>
-	<a target="_blank" href="http://shareasale.com/r.cfm?b=762322&amp;u=1217243&amp;m=57682&amp;urllink=&amp;afftrack="><img src="http://static.shareasale.com/image/57682/250x-250.gif" border="0"></a>	
+		
 <a href="http://www.auto-types.com/en/contact/" title="Your adv in this site"><img src="http://www.auto-types.com/img/your_adv_here_250.gif" width="247" height="167" alt="Your adv in this site"></a></div>
+
 
 <div class="bxl"><div class="crsh">Bodystyle</div>		<div class="crbd"><a href="/bodystyle/cabrio/page-1/" class="titleNews"><img src="/img/Convertibles.gif" alt="Convertibles" class="noBorder" width="95" height="41"><br>cabrio</a></div> 
 			<div class="crbd"><a href="/bodystyle/coupe/page-1/" class="titleNews"><img src="/img/Coupes.gif" alt="Coupes" class="noBorder" width="95" height="41"><br>coupe</a></div> 
@@ -582,15 +623,6 @@ Below are links to the privacy policies of the advertising networks used by Auto
 	</div>
 <div class="bxl"><div class="crsh">Latest car images</div>
 	<div style="float:left;padding:1px;width:120px;height:120px;">
-		<a href="http://www.auto-types.com/images/jaguar/Jaguar_F-Pace_ls6_4400.jpg" title="2015 Jaguar F-Pace" target="_blank" class="titleNews"><img src="/images/jaguar/thumbs/Jaguar_F-Pace_ls6_4400.jpg" alt="2015 Jaguar F-Pace" width="121" height="86"><br>2015 Jaguar F-Pace</a>
-	</div>
-		<div style="float:left;padding:1px;width:120px;height:120px;">
-		<a href="http://www.auto-types.com/images/kia/Kia_Sportage_mok_4410.jpg" title="2016 Kia Sportage" target="_blank" class="titleNews"><img src="/images/kia/thumbs/Kia_Sportage_mok_4410.jpg" alt="2016 Kia Sportage" width="121" height="86"><br>2016 Kia Sportage</a>
-	</div>
-		<div style="float:left;padding:1px;width:120px;height:120px;">
-		<a href="http://www.auto-types.com/images/opel/Opel_Astra_Sports_Tourer_9zw_4390.jpg" title="2016 Opel Astra Sports Tourer" target="_blank" class="titleNews"><img src="/images/opel/thumbs/Opel_Astra_Sports_Tourer_9zw_4390.jpg" alt="2016 Opel Astra Sports Tourer" width="121" height="86"><br>2016 Opel Astra Sports Tourer</a>
-	</div>
-		<div style="float:left;padding:1px;width:120px;height:120px;">
 		<a href="http://www.auto-types.com/images/renault/Renault_Megane_ydk_4403.jpg" title="2016 Renault Megane" target="_blank" class="titleNews"><img src="/images/renault/thumbs/Renault_Megane_ydk_4403.jpg" alt="2016 Renault Megane" width="121" height="86"><br>2016 Renault Megane</a>
 	</div>
 		<div style="float:left;padding:1px;width:120px;height:120px;">
@@ -629,6 +661,15 @@ Below are links to the privacy policies of the advertising networks used by Auto
 		<div style="float:left;padding:1px;width:120px;height:120px;">
 		<a href="http://www.auto-types.com/images/mercedes-benz/Mercedes-Benz_S-klasse_Cabriolet_55v_4408.jpg" title="2016 Mercedes-Benz S-klasse Cabriolet" target="_blank" class="titleNews"><img src="/images/mercedes-benz/thumbs/Mercedes-Benz_S-klasse_Cabriolet_55v_4408.jpg" alt="2016 Mercedes-Benz S-klasse Cabriolet" width="121" height="86"><br>2016 Mercedes-Benz S-klasse Cabriolet</a>
 	</div>
+		<div style="float:left;padding:1px;width:120px;height:120px;">
+		<a href="http://www.auto-types.com/images/toyota/Toyota_Prius_2cp_4383.jpg" title="2015 Toyota Prius+" target="_blank" class="titleNews"><img src="/images/toyota/thumbs/Toyota_Prius_2cp_4383.jpg" alt="2015 Toyota Prius+" width="121" height="86"><br>2015 Toyota Prius+</a>
+	</div>
+		<div style="float:left;padding:1px;width:120px;height:120px;">
+		<a href="http://www.auto-types.com/images/mercedes-benz/Mercedes-Benz_S-klasse_Cabriolet_55v_4409.jpg" title="2016 Mercedes-Benz S-klasse Cabriolet" target="_blank" class="titleNews"><img src="/images/mercedes-benz/thumbs/Mercedes-Benz_S-klasse_Cabriolet_55v_4409.jpg" alt="2016 Mercedes-Benz S-klasse Cabriolet" width="121" height="86"><br>2016 Mercedes-Benz S-klasse Cabriolet</a>
+	</div>
+		<div style="float:left;padding:1px;width:120px;height:120px;">
+		<a href="http://www.auto-types.com/images/toyota/Toyota_RAV4_ml1_4406.jpg" title="2016 Toyota RAV4" target="_blank" class="titleNews"><img src="/images/toyota/thumbs/Toyota_RAV4_ml1_4406.jpg" alt="2016 Toyota RAV4" width="121" height="86"><br>2016 Toyota RAV4</a>
+	</div>
 	</div>				</div>
 				</div>
 				<div style="clear:both;">&nbsp;</div>
@@ -644,7 +685,7 @@ Below are links to the privacy policies of the advertising networks used by Auto
 	<div class="btme"><a href="http://m.auto-types.com" title="Mobile version" rel="nofollow" class="normal">Mobile version</a></div>
 
 
-	<div style="float:left;margin-top:15px;margin-left:10px;padding:0;line-height:25px;width:130px;background:url('/img/usronline.png') no-repeat top left;font-size:13px;"><font style="color:#ffffff;font-weight:300;">Visitors online - 10</font></div>
+	<div style="float:left;margin-top:15px;margin-left:10px;padding:0;line-height:25px;width:130px;background:url('/img/usronline.png') no-repeat top left;font-size:13px;"><font style="color:#ffffff;font-weight:300;">Visitors online - 20</font></div>
 	<div style="clear:both;"></div>
 </div></div>
 			
@@ -737,7 +778,7 @@ Below are links to the privacy policies of the advertising networks used by Auto
 		<div class="ff"><a href="/volkswagen/" title="Volkswagen" class="ft">Volkswagen</a></div>
 		<div class="ff"><a href="/volvo/" title="Volvo" class="ft">Volvo</a></div>
 		<div class="ff"><a href="/yugo/" title="Yugo" class="ft">Yugo</a></div>
-	<div style="padding:3px;clear:both;color:#ffffff;font-size:9px;border-top:1px solid #ffffff;width:300px;margin:auto;">©2009-2016 Auto Types. All rights reserved.&nbsp;|&nbsp;<a href="/en/privacy-policy/"><font style="color:#ffffff;font-size:9px;font-weight:normal;">Privacy Policy</font></a>&nbsp;|&nbsp;<a href="http://m.auto-types.com"><font style="color:#ffffff;font-size:9px;font-weight:normal;">Mobile version</font></a></div>
+	<div style="padding:3px;clear:both;color:#ffffff;font-size:9px;border-top:1px solid #ffffff;width:300px;margin:auto;">©2009-2017 Auto Types. All rights reserved.&nbsp;|&nbsp;<a href="/en/privacy-policy/"><font style="color:#ffffff;font-size:9px;font-weight:normal;">Privacy Policy</font></a>&nbsp;|&nbsp;<a href="http://m.auto-types.com"><font style="color:#ffffff;font-size:9px;font-weight:normal;">Mobile version</font></a></div>
 </div>
 	</div>
 </div>
