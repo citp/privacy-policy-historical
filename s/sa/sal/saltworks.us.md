@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saltworks.us privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107165322id_/https%3A//www.seasalt.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saltworks.us privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507011155id_/https%3A//www.seasalt.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SaltWorks®
 
