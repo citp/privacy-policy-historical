@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fas.org privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019181903id_/http%3A//fas.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fas.org privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506023758id_/https%3A//fas.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Federation Of American Scientists
+# Privacy Policy |
 
 The Federation of American Scientists (FAS) respects your right to privacy and is committed to maintaining your confidence and trust. FAS does not sell or rent any information you provide us through our website. We do not collect any information from you without your knowledge and permission, and we do not ask that you enter any personal information to access or use most areas of the FAS website. In order to use some of the tools and functions, such as to subscribe to the electronic newsletters or to comment on FAS weblogs, you must enter some identifying information. Information you provide FAS is stored in a secure location and is accessible only by designated staff.
 
