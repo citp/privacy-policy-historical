@@ -1,10 +1,12 @@
-<!--The following is the downloaded HTML source of the kcjs.jp privacy policy that was archived on 2016-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160614104434id_/http%3A//www.kcjs.jp/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kcjs.jp privacy policy that was archived on 2017-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170506234926id_/http%3A//www.kcjs.jp/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
 <link href="/img/common/favicon.ico" rel="shortcut icon">
 <link href="/css/base.css" rel="stylesheet" type="text/css">
+<link href="/css/sp.css" rel="stylesheet" type="text/css">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery.js"></script>
 <script type="text/javascript" src="/js/yuga.js"></script>
@@ -18,7 +20,20 @@
 <link href="/css/privacy.css" rel="stylesheet" type="text/css">
 
 <!-- ↑head2_kcjs↑ -->
+<!-- SmartMenu ↓↓↓-->
+<link href="/css/sm-core-css.css" rel="stylesheet" type="text/css">
+<link href="/css/sm-mint.css" rel="stylesheet" type="text/css">
 
+<script type="text/javascript" src="/js/jquery.smartmenus.js"></script>
+<script type="text/javascript">
+	$(function() {
+		$('#main-menu').smartmenus({
+			subMenusSubOffsetX: 6,
+			subMenusSubOffsetY: -8
+		});
+	});
+</script>
+<!-- SmartMenu ↑↑↑-->
 <!-- Google Analytics -->
 <script type="text/javascript">
 
@@ -41,34 +56,105 @@
 
 <div id="header">
   <div class="inner">
-    <p class="logo"><a href="/index.html" class=""><img src="/img/common/header/logo.gif" alt="Kyoto Consortium for Japanese Studies" width="361" height="118"></a></p>
-    <p class="apply"><a href="/apply/" class=""><img src="/img/common/header/apply.gif" alt="Apply" width="110" height="47" class="swap"></a></p>
+    <p class="logo"><a href="/index.html" class=""><img src="/img/common/header/logo.png" alt="Kyoto Consortium for Japanese Studies"></a></p>
+    <p class="apply pc"><a href="/apply/" class=""><img src="/img/common/header/apply.gif" alt="Apply" width="110" height="47" class="swap"></a></p>
   </div>
 </div>
-<div id="global_navi" class="nav">
-  <ul>
-    <li><a href="/index.html" class=""><img src="/img/common/navi/01.gif" alt="Home" width="112" height="56"></a></li>
-    <li><a href="/about/" class=""><img src="/img/common/navi/02.gif" alt="About Us" width="112" height="56"></a></li>
-    <li><a href="/courses/" class=""><img src="/img/common/navi/03.gif" alt="Courses" width="112" height="56"></a></li>
-    <li><a href="/cip_kcjs/" class=""><img src="/img/common/navi/04.gif" alt="CIP" width="112" height="56"></a></li>
-    <li><a href="/housing_options/" class=""><img src="/img/common/navi/05.gif" alt="Housing Options" width="114" height="56"></a></li>
-    <li><a href="/extracurricular_activities/" class=""><img src="/img/common/navi/06.gif" alt="Extracurricular Activities" width="114" height="56"></a></li>
-    <li><a href="/alumni/" class=""><img src="/img/common/navi/08.gif" alt="Alumni" width="112" height="56"></a></li>
-    <li><a href="/contact/" class=""><img src="/img/common/navi/09.gif" alt="Contact" width="112" height="56"></a></li>
-  </ul>
-</div><!-- ↑header_kcjs↑ -->
 
+
+<!-- ドロップダウン＆ハンバーガーメニュー ↓↓↓-->
+<div id="global_navi" class="nav">
+<div id="smart_menu">
+  <input id="main-menu-state" type="checkbox">
+  <label class="main-menu-btn" for="main-menu-state">
+    <span class="main-menu-btn-icon"></span>
+  </label>
+  <!-- ドロップダウンメニュー 本体 -->
+  <ul id="main-menu" class="sm sm-mint" data-smartmenus-id="15803716616021506">
+    
+    <li><a href="/index.html" class="image_btn" data-label="Home"><img src="/img/common/navi/01.gif" alt="Home" width="100" height="56"></a></li>
+    <li><a href="/about/" class="image_btn" data-label="About Us"><img src="/img/common/navi/02.gif" alt="About Us" width="122" height="56"></a>
+      <ul>
+        <li><a href="/about/" class="block">What is KCJS? </a></li>
+        <li><a href="/about/faculty_staff.html">KCJS faculty and staff </a></li>
+        <li><a href="/about/kyoto_doshisha.html">Kyoto and Doshisha University </a></li>
+      </ul></li>
+    <li><a href="/courses/" class="image_btn" data-label="Academic Program"><img src="/img/common/navi/03.gif" alt="Academic Program" width="121" height="56"></a>      <ul>
+        <li><a href="/courses/language.html">Japanese Language Courses </a></li>
+        <li><a href="/courses/disciplinary.html">Subject Courses </a></li>
+		<li><a href="/courses/cip.html">Community Involvement Project (CIP) </a></li>
+      </ul></li>
+    <li><a href="/housing_options/" class="image_btn" data-label="Housing Options"><img src="/img/common/navi/05.gif" alt="Housing Options" width="118" height="56"></a></li>
+    <li><a href="/extracurricular_activities/" class="image_btn" data-label="Extracurricular Activities"><img src="/img/common/navi/06.gif" alt="Extracurricular Activities" width="147" height="56"></a></li>
+    <li><a href="/alumni/" class="image_btn" data-label="Alumni"><img src="/img/common/navi/08.gif" alt="Alumni" width="109" height="56"></a></li>
+    <li><a href="/contact/" class="image_btn" data-label="Application &amp; Contact Information"><img src="/img/common/navi/09.gif" alt="Application &amp; Contact Information" width="183" height="56"></a>
+	<ul>
+        <li><a href="/contact/#info">KCJS Offices </a></li>
+        <li><a href="/contact/#boardcontact_info">KCJS Member School Representatives </a></li>
+        <li><a href="http://ogp.columbia.edu/index.cfm?FuseAction=Programs.ViewProgram&amp;Program_ID=10320&amp;Type=O&amp;sType=O" class="block externalLink">Go to Application </a></li>
+      </ul></li>
+  </ul>
+  </div>
+</div>
+<!-- ドロップダウン＆ハンバーガーメニュー ↑↑↑--><!-- ↑header_kcjs↑ -->
 
 <!-- ↓kcjs_slideshow↓ -->
 <div id="main_image">
 <div class="inner">
 <div id="slider">
+<div class="camera_wrap camera_yellow_skin" id="camera_wrap_1">
+
+
+
+
+
+</div>
 </div>
 </div>
 </div><!-- ↑kcjs_slideshow↑ -->
 
 <div id="contents">
-<div id="main">
+
+<!-- ↓TOPのSP時だけ表示するNEWS↓ -->
+  <div class="sp">
+  <div id="side">
+    <div id="news">
+      <div class="title">
+        <h2><a href="/news/" class=""><img src="/img/top/news_tit.gif" alt="What's New at KCJS >> More" width="200" height="36"></a></h2>
+      </div>
+            <ul>
+                <li><span class="date"> Mon. Apr. 24. 2017 </span>
+          <p><a href="http://www.kcjs.jp/blog/news/20170424_2.html" class="externalLink">
+            Koto &amp; Shamisen performance at a local high school            →</a></p>
+        </li>
+                <li><span class="date"> Mon. Apr. 24. 2017 </span>
+          <p><a href="http://www.kcjs.jp/blog/news/20170424_1.html" class="externalLink">
+            Field trip to Toyokuni shrine            →</a></p>
+        </li>
+                <li><span class="date"> Fri. Apr. 14. 2017 </span>
+          <p><a href="http://www.kcjs.jp/blog/news/20170414.html" class="externalLink">
+            KCJS Newsletter No.12 is now available            →</a></p>
+        </li>
+                <li><span class="date"> Mon. Apr. 3. 2017 </span>
+          <p><a href="http://www.kcjs.jp/blog/news/20170403.html" class="externalLink">
+            Another School Year begins at Doshisha            →</a></p>
+        </li>
+                <li><span class="date"> Tue. Mar. 28. 2017 </span>
+          <p><a href="http://www.kcjs.jp/blog/news/20170327.html" class="externalLink">
+            Sushi making with Japanese students            →</a></p>
+        </li>
+                <li><span class="date"> Wed. Mar. 22. 2017 </span>
+          <p><a href="http://www.kcjs.jp/20170322.html" class="externalLink">
+            Field trip with host families            →</a></p>
+        </li>
+              </ul>
+          </div>
+  </div>
+  </div>
+<!-- ↑TOPのSP時だけ表示するNEWS↑ -->
+
+
+  <div id="main"> 
     <!-- ↓ページ毎の記入範囲↓ -->
         <p id="topic_path"><a href="index.html">Home</a>&nbsp;&gt;&nbsp;<span class="crnt">Privacy Policy</span></p>
 <h1>Privacy Policy</h1>
@@ -92,107 +178,113 @@
 <p>When you, as the user of the KCJS website, request the disclosure of your own personal information that we collect online, we will inform you of this information to the extent feasible within a reasonable period of time. Other than such cases, we may release personally identifiable information when the disclosure of personal information is requested under law with which this website should comply (when the disclosure regarding information provided by users is requested by legal authorities such as courts, prosecutors offices, and law enforcement agencies).</p>
 <p></p></div>
 <p class="back_top"><a href="#header">Back to top</a></p>
-        <!-- ↑ページ毎の記入範囲↑ -->
-  
-  <!-- ↓sidebar_kcjs↓ -->
-</div>
+        <!-- ↑ページ毎の記入範囲↑ --> 
+    
+  </div>
 <div id="side">
-  
+<!-- ↓kcjs_side↓ -->
 <p><a href="/brochure-request/" class=""><img src="/img/common/side/bnr_brochure.gif" alt="Request a
 Brochure" width="240" height="87"></a></p>
-<p><a href="/summer_programs/" target="_blank" class=""><img src="/img/common/side/bnr_summer.gif" alt="KCJS Summer Programs" width="240" height="87"></a></p>
-
-<div id="facebook">
-<a href="https://www.facebook.com/KCJS.Japan" target="_blank" class=""><img src="/img/common/side/FB_FindUsOnFacebook-320.png" alt="KCJS Facebook Page " width="240" class="banner"></a>
-</div>
-
-
-<!-- additional -->
-<div id="news">
-  <div class="title">
-    <h2><span style="font-family: sans-serif"><a href="/hostfamily2/">ホストファミリー募集</a></span></h2>
-  </div>
-</div>
-<!-- additional -->
-
-<div id="news">
-  <div class="title">
-    <h2><a href="/news/" class=""><img src="/img/top/news_tit.gif" alt="What's New at KCJS >> More" width="200" height="36"></a></h2>
-  </div>
-              <ul>
-                    <li><span class="date">
-            Wed. Jun. 8. 2016            </span><p><a href="http://www.kcjs.jp//blog/news/20160606.html" class="externalLink">Making Sushi →</a></p></li>
-                    <li><span class="date">
-            Fri. May. 27. 2016            </span><p><a href="http://www.kcjs.jp//blog/news/20160527.html" class="externalLink">KCJS Summer Program in Modern Japanese started. →</a></p></li>
-                    <li><span class="date">
-            Wed. May. 25. 2016            </span><p><a href="http://www.kcjs.jp//blog/news/20160524.html" class="externalLink">KCJS26 Alumni Return to Japan as JET Participants →</a></p></li>
-                    <li><span class="date">
-            Fri. Apr. 22. 2016            </span><p><a href="http://www.kcjs.jp//blog/news/20160422.html" class="externalLink">KCJS27 (2016) Spring Semester Closing Ceremony →</a></p></li>
-                    <li><span class="date">
-            Wed. Apr. 20. 2016            </span><p><a href="http://www.kcjs.jp//blog/news/20160419.html" class="externalLink">Nishijin Workshop →</a></p></li>
-                    <li><span class="date">
-            Wed. Apr. 20. 2016            </span><p><a href="http://www.kcjs.jp//blog/news/20160418.html" class="externalLink">Mask Workshop →</a></p></li>
-                  </ul>
-</div>
-<ul class="banners">
-  <li><a href="/blog/" target="_blank" class=""><img src="/img/common/side/bnr01.jpg" alt="CIP Blog " width="240" height="76"></a></li>
-  <li><a href="http://www.youtube.com/user/kcjsjapanese?feature=results_main" target="_blank" class=""><img src="/img/common/side/bnr02.jpg" alt="KCJS YouTube Channel " width="240" height="76"></a></li>
-  <li><a href="http://kcjsprofessional.wordpress.com/" target="_blank" class=""><img src="/img/common/side/professional.jpg" alt="Learning from Professionals in Kyoto " width="240" height="76"></a></li>
-  <li><a href="/newsletter/" class=""><img src="/img/common/side/newsletter.jpg" alt="KCJS Newsletter Previous Issues" width="240" height="76"> </a></li>
-  <li>
-    <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FKCJS.Japan&amp;width=242&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=true&amp;appId=234117969984195" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:242px; height:258px;" allowtransparency="true"></iframe>
-  </li>
-</ul>
-<div id="office">
-  <p><a href="http://www.ogp.columbia.edu/" target="_blank" class=""><img src="/img/common/side/bnr03.jpg" alt="OFFICE OF GLOBAL PROGRAMS/COLUMBIA UNIVERSITY" width="242" height="65"></a></p>
-  <h2>Office of Global Programs</h2>
-  <p class="no_mb">606 Kent Hall <br>
-    Columbia University<br>
-    1140 Amsterdam, Mail Code 3948<br>
-    New York, NY 10027 USA<br>
-    Tel: 212-854-2559<br>
-    Fax: 212-854-5164<br>
-    Email: ogp@columbia.edu</p>
-  <div class="kcjs">
-    <h2><img src="/img/common/side/bnr04.jpg" alt="Kyoto Consortium for Japanese Studies 京都アメリカ大学コンソーシアム" width="242" height="70"></h2>
-    <p class="no_mb">Doshisha University, 2F Fusokan<br>
-      Karasuma Higashi-iru, Imadegawa-dori <br>
-      Kamigyo-ku, Kyoto 602-8580 JAPAN<br>
-      <br>
-      602-8580 <br>
-      京都市上京区今出川通烏丸東入 <br>
-      同志社大学　扶桑館２F <br>
-      <br>
-      Tel: 075-251-4995 <br>
-      <span class="white-out">Tel: </span>(+81-75-251-4995) <br>
-      Fax: 075-229-6300<br>
-      <span class="white-out">Fax: </span>(+81-75-229-6300) <br>
-      Email: fs2244@columbia.edu </p>
-  </div>
-</div></div>
-  <!-- ↑sidebar_kcjs↓ --> 
+    <p><a href="/summer_programs/" target="_blank" class=""><img src="/img/common/side/bnr_summer.gif" alt="KCJS Summer Programs" width="240" height="87"></a></p>
+    <div id="facebook"> <a href="https://www.facebook.com/KCJS.Japan" target="_blank" class=""><img src="/img/common/side/FB_FindUsOnFacebook-320.png" alt="KCJS Facebook Page " width="240" class="banner"></a> </div>
+    
+    <!-- additional -->
+    <div id="news">
+      <div class="title">
+        <h2><span style="font-family: sans-serif"><a href="/hostfamily2/">ホストファミリー募集</a></span></h2>
+      </div>
+    </div>
+    <!-- additional -->
+    
+    <div class="pc">
+    <div id="news">
+      <div class="title">
+        <h2><a href="/news/" class=""><img src="/img/top/news_tit.gif" alt="What's New at KCJS >> More" width="200" height="36"></a></h2>
+      </div>
+            <ul>
+                <li><span class="date"> Mon. Apr. 24. 2017 </span>
+          <p><a href="http://www.kcjs.jp/blog/news/20170424_2.html" class="externalLink">
+            Koto &amp; Shamisen performance at a local high school            →</a></p>
+        </li>
+                <li><span class="date"> Mon. Apr. 24. 2017 </span>
+          <p><a href="http://www.kcjs.jp/blog/news/20170424_1.html" class="externalLink">
+            Field trip to Toyokuni shrine            →</a></p>
+        </li>
+                <li><span class="date"> Fri. Apr. 14. 2017 </span>
+          <p><a href="http://www.kcjs.jp/blog/news/20170414.html" class="externalLink">
+            KCJS Newsletter No.12 is now available            →</a></p>
+        </li>
+                <li><span class="date"> Mon. Apr. 3. 2017 </span>
+          <p><a href="http://www.kcjs.jp/blog/news/20170403.html" class="externalLink">
+            Another School Year begins at Doshisha            →</a></p>
+        </li>
+                <li><span class="date"> Tue. Mar. 28. 2017 </span>
+          <p><a href="http://www.kcjs.jp/blog/news/20170327.html" class="externalLink">
+            Sushi making with Japanese students            →</a></p>
+        </li>
+                <li><span class="date"> Wed. Mar. 22. 2017 </span>
+          <p><a href="http://www.kcjs.jp/20170322.html" class="externalLink">
+            Field trip with host families            →</a></p>
+        </li>
+              </ul>
+    </div>
+    </div>
+    <ul class="banners">
+      <li><a href="/blog/" target="_blank" class=""><img src="/img/common/side/bnr01.jpg" alt="CIP Blog " width="240" height="76"></a></li>
+      <li><a href="http://www.youtube.com/user/kcjsjapanese?feature=results_main" target="_blank" class=""><img src="/img/common/side/bnr02.jpg" alt="KCJS YouTube Channel " width="240" height="76"></a></li>
+      <li><a href="http://kcjsprofessional.wordpress.com/" target="_blank" class=""><img src="/img/common/side/professional.jpg" alt="Learning from Professionals in Kyoto " width="240" height="76"></a></li>
+      <li><a href="/newsletter/" class=""><img src="/img/common/side/newsletter.jpg" alt="KCJS Newsletter Previous Issues" width="240" height="76"> </a></li>
+      <li>
+        <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FKCJS.Japan&amp;width=242&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=true&amp;appId=234117969984195" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:242px; height:258px;" allowtransparency="true"></iframe>
+      </li>
+    </ul>
+    <div id="office">
+      <p><a href="http://www.ogp.columbia.edu/" target="_blank" class=""><img src="/img/common/side/bnr03.jpg" alt="OFFICE OF GLOBAL PROGRAMS/COLUMBIA UNIVERSITY" width="242" height="65"></a></p>
+      <h2>Office of Global Programs</h2>
+      <p class="no_mb">606 Kent Hall <br>
+        Columbia University<br>
+        1140 Amsterdam, Mail Code 3948<br>
+        New York, NY 10027 USA<br>
+        Tel: 212-854-2559<br>
+        Fax: 212-854-5164<br>
+        Email: ogp@columbia.edu</p>
+      <div class="kcjs">
+        <h2><img src="/img/common/side/bnr04.jpg" alt="Kyoto Consortium for Japanese Studies 京都アメリカ大学コンソーシアム" width="242" height="70"></h2>
+        <p class="no_mb">Doshisha University, 2F Fusokan<br>
+          Karasuma Higashi-iru, Imadegawa-dori <br>
+          Kamigyo-ku, Kyoto 602-8580 JAPAN<br>
+          <br>
+          602-8580 <br>
+          京都市上京区今出川通烏丸東入 <br>
+          同志社大学　扶桑館２F <br>
+          <br>
+          Tel: 075-251-4995 <br>
+          <span class="white-out">Tel: </span>(+81-75-251-4995) <br>
+          Fax: 075-229-6300<br>
+          <span class="white-out">Fax: </span>(+81-75-229-6300) <br>
+          Email: fs2244@columbia.edu </p>
+      </div>
+    </div>
+  </div><!-- ↑kcjs_side↓ --> 
   
 </div>
 
 <!-- ↓footer_kcjs↓ -->
 <div id="footer">
   <div class="inner">
-
+    
 <div class="col">
       <h2>About Us</h2>
       <ul>
         <li><a href="/about/">What is KCJS? </a></li>
-        <li><a href="/about/kyoto_doshisha.html">About Kyoto and Doshisha </a></li>
         <li><a href="/about/faculty_staff.html">KCJS faculty and staff </a></li>
+        <li><a href="/about/kyoto_doshisha.html">Kyoto and Doshisha University </a></li>
       </ul>
-      <h2>Courses</h2>
+      <h2>Academic Program</h2>
       <ul>
         <li><a href="/courses/language.html">Japanese Language Courses </a></li>
-        <li><a href="/courses/disciplinary.html">KCJS Subject Courses </a></li>
-      </ul>
-      <h2>CIP</h2>
-      <ul>
-        <li><a href="/cip_kcjs/">CIP ( Community Involvement Project )</a></li>
+        <li><a href="/courses/disciplinary.html">Subject Courses </a></li>
+	<li><a href="/courses/cip.html">Community Involvement Project (CIP)</a></li>
       </ul>
     </div>
     <div class="col">
@@ -214,9 +306,12 @@ Brochure" width="240" height="87"></a></p>
       </ul>
     </div>
     <div class="col">
-      <h2>Contact</h2>
+      <h2>Application &amp; Contact Information</h2>
       <ul>
-        <li><a href="/contact/">Contact</a></li>
+		<li><a href="/contact/">Application &amp; Contact Information</a></li>
+		<li><a href="/contact/#info">KCJS Offices</a></li>
+		<li><a href="/contact/#boardcontact_info">KCJS Member School Representatives</a></li>
+        <li><a href="http://ogp.columbia.edu/index.cfm?FuseAction=Programs.ViewProgram&amp;Program_ID=10320&amp;Type=O&amp;sType=O" class="externalLink">Go to Application</a></li>
       </ul>
       <h2> </h2>
       <ul>
@@ -225,7 +320,7 @@ Brochure" width="240" height="87"></a></p>
       </ul>
       <h2> </h2>
       <ul>
-        <li><a href="/about/#calendar">Academic calendar</a></li>
+        <li><a href="/index.html#calendar">Academic calendar</a></li>
         <li><a href="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=kcjsadm%40gmail.com&amp;color=%231B887A&amp;src=se4inrmijhp1pf9mdm1hmj1im0%40group.calendar.google.com&amp;color=%23182C57&amp;src=dn8podu00td9pv34mi1bi2trto%40group.calendar.google.com&amp;color=%23125A12&amp;src=en.japanese%23holiday%40group.v.calendar.google.com&amp;color=%23125A12&amp;src=kbgeuisdr4vsh3c9l9ugue54a8%40group.calendar.google.com&amp;color=%23853104&amp;src=i8hfjq1kfqvhalpnc3qbuoto8k%40group.calendar.google.com&amp;color=%23711616&amp;src=331r2lt06u81hdreis7s66fol8%40group.calendar.google.com&amp;color=%23333333&amp;ctz=Asia%2FTokyo" target="_blank">Event calendar</a>
 </li>
 
@@ -233,9 +328,7 @@ Brochure" width="240" height="87"></a></p>
 
       </ul>
     </div>
-    <p class="copy"><img src="/img/common/footer/copy2.gif" alt="© The Kyoto Consortium for Japanese Studies.  All rights reserved." width="427" height="31"></p><!-- ↑footer_kcjs↓ -->
+    <p class="copy">© The Kyoto Consortium for Japanese Studies.  All rights reserved.</p>    <!-- ↑footer_kcjs↓ --> 
   </div>
 </div>
-
-
 </body></html>
