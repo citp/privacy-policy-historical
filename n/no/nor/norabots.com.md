@@ -1,29 +1,67 @@
-> *The following text is extracted and transformed from the norabots.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807030651id_/http%3A//www.norabots.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norabots.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506044313id_/http%3A//netprosoft.com/privacy) for the most accurate reproduction.*
 
-# Norabots Privacy Policy
+# Privacy policy
 
-**Privacy Policy Notice**
+### **General Privacy Policies**
 
-This Privacy Policy Notice governs the use of the web page at and its associated services, web pages, domains and sub-domains, which are owned and operated by ****norabots ©**** ("Owner"). Wherever this Notice refers to "users" it means "you", while "we" or "our" refer to ****norabots ©**** and "Web Site" for the web site in which the page belongs. 
+We respect your interest in your privacy and as a result we have created this informational disclosure. 
 
-This web site collects certain information relative to users who visit the site. This Web site categorizes this information into the 2 following Categories and the privacy level and what we do with the information that we collect on you depends upon the category in which you fall. 
+We collect and use personal information for many purposes, including but not limited to, billing; product and service fulfillment; to better understand our customer needs; to provide a better website, products and services; to communicate with customers and potential customers regarding our products and services and third party products and services. 
 
-We do not make any attempt to obtain information that personally identifies our users who visit our web site. It is not our policy to sell or otherwise provide access to such information to unaffiliated third parties. 
+Generally, your private information will only be disclosed to our owners and employees, acting on our behalf or request. This general rule, and disclosures in specific situations, is more particularly described below. 
 
-What information we collect: 
+You must be at least 18 years old to access this website. We do not direct this website to persons under 18, nor do we knowingly collect any personal information from children under the age of thirteen.
 
-**Category I** – Information on users who visit our site to read or download information on our pages. From these users, we collect and store only the following information: 
+###  **Information Collected by our ISP**
 
-1\. The domain name through which you gained access to our Web site;  
-2\. The precise time and date that you entered our web site.  
-3\. The URL of the web page through which you kinked to our web site. 
+The hosting provider for this Internet site (as with any Internet site) has the ability to record various information, including domain name, pages accessed, date and time of access, web browser type and computer operating system, and referring information, and to disclose this information. This is most commonly done by providing access to raw server logs. For more information you should perform an Internet search on 'server logs' or 'raw server logs.' We may have access to our raw server logs and access reports prepared by our hosting provider. 
 
-**Category II** – Users who send us e-mail containing personal information or identifies you, sign our guest book, or request email publications. Any information that we collect in this way is used only for purposes of responding to you and addressing the issues that you may have raised. 
+### **Financial Information for Billing Purposes**
 
-Any information that we collect is collected as part of our business practices in order to identify demographic information relative to users who access our site, assessing the number and type of user accessing various sections of our site, helping us determine what content and business concepts are working for us and/or are of interest to our visitors, determining technical design features and specifications and helping us assess systems performance. We also use such information in statistical form to assist us in business and marketing strategies and programs. We utilize software programs to create summary statistics which we utilize for the above purposes. 
+We sell products and services. When sales are made financial information must be disclosed. This information can include any number of facts you are asked to provide, but most commonly includes your name, financial / credit card information, billing address, and email address. Generally, this purchase information will be provided by you to a third party payment processor and we do not receive your financial / credit card information. 
 
-As a security measure for ourselves and our users, we utilize certain software programs to monitor traffic to our site and within our network. This software also enables us to identify unauthorized upload attempts, access to our system, and other attempts to cause damage to our systems. 
+In the event we do receive financial / credit card information, we will not disclose it to anyone unless disclosure is required by law or a court order, or unless disclosure is required to address an issue implicated by the financial transaction. If you claim that your financial information was used to make a purchase you did not authorize, details about the financial transaction may be disclosed to law enforcement and anyone else we deem necessary to address the matter. 
 
-**Provision about Childrens    
-**  
-We do not collect personal information from children under the age of 13\. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. We encourage parents to go online with their kids. [Click here ](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html)to check out the FTC's site for more tips on protecting children's privacy online. 
+### **Use of eMail Addresses and other Contact Information**
+
+An important part of our services includes being able to provide information to you. As a result, you expressly consent to receiving communications from us via email, fax, telephone, mail, or any other delivery method. 
+
+As a customer you are agreeing to receive information about the product or service you purchased. This may include, but is not limited to, information about product or service updates, new features, or information we believe you may find interesting. 
+
+We may also send you information about other products and services our company offers. 
+
+We will not sell, provide, or transfer you email address to others. 
+
+### **Identification of Purchasers**
+
+If you purchase one of our products or services, you authorize us to use your name and identification information in advertising or promotions.
+
+We also use personal information in an aggregate form (i.e., not individually attributable to you) for business analysis, operational, marketing and other promotional purposes. 
+
+### **Cookies**
+
+Cookies may be used to keep track of referred affiliate commissions and to monitor access to our website. You consent to any future use of cookies for testing purposes and the use of cookies for publicly available data to gather statistics for the purpose of determining which search engines, referring sites, key words, etc., bring visitors to our website, which pages visitors are most interested in, what web browsers are used, etc. Various providers may be used for this purpose. The purpose is obtain information that will help promote the website, make the website more interesting and useful to visitors, and to identify areas where improvement is needed. 
+
+Additionally, various third party information suppliers and other entities that provide information for this website, or for use by us, may use cookies. Examples include, but are not necessarily limited to billing providers, third party advertisers, and third party resources we promote. 
+
+### **Disclosure by Necessity**
+
+Private information may be disclosed if required by a court order, statute, law, or regulation.
+
+Information is subject to disclosure to address a claim that you are violating the terms of any agreement pertaining to your use of your use this website or our products or services, or rights of any third party. 
+
+Information is also subject to disclosure if we believe that disclosure is necessary to identify, contact or bring an action against someone who may be causing injury to or interfering (either intentionally or unintentionally) with our rights or property, your rights or property, other users of our website, products or services, or anyone else. 
+
+As we continue to develop our business, we or our affiliates may sell or buy other businesses or entities, or we may merge with another company, or be bought by another company. In such transactions, personal information may be one of the transferred assets. 
+
+Your information may be stored and processed in any country in which we maintain facilities or conduct operations. By using our website, products and services, you consent to any such transfer of information outside of your country. 
+
+After your account becomes inactive your information may remain in our databases, computers, and archives, and cannot reasonably be expunged.
+
+###  **Policy Changes**
+
+These policies may be amended by us at any time and without notice, but will be posted at this page.
+
+You agree that your continued use of our websites, product or service after that date will constitute your consent and acceptance of the amendment.
+
+Effective Date: 03 October 2015. 
