@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehealthyfamilyandhome.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231012931id_/http%3A//thehealthyfamilyandhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehealthyfamilyandhome.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506142920id_/http%3A//thehealthyfamilyandhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Healthy Family and Home
 
