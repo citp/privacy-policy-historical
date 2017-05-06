@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the principal.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102164553id_/https%3A//www.principal.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the principal.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506175056id_/https%3A//www.principal.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies | The Principal Financial Group
 
@@ -57,7 +57,7 @@ Cookies are used to store information on your computer and are a way to have you
 
 Spotlight tags analyze behavior of users who have previously clicked or viewed one of our online advertisements. At no time do spotlight tags record user name, password, email, IP home addresses, etc. Spotlight activities are reported only if they are created by a user who meets the following three criteria:
 
-  1. Either clicks one of our ads and is redirected to our website, or views one of ours ads and accesses our website later
+  1. Either clicks one of our ads and is redirected to our website, or views one of our ads and accesses our website later
   2. Performs an activity on a page containing a spotlight tag
   3. Performs this activity within 30 days of clicking and/or viewing one of our ads
 
