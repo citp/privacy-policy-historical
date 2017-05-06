@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianstolenporn.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104214525id_/http%3A//www.indianstolenporn.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianstolenporn.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506170036id_/http%3A//www.indianstolenporn.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
