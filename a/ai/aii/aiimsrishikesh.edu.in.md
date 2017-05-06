@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiimsrishikesh.edu.in privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116225150id_/http%3A//aiimsrishikesh.edu.in/details.php%3FpgID%3Dbo_503) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiimsrishikesh.edu.in privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506222428id_/http%3A//aiimsrishikesh.edu.in/details.php%3FpgID%3Dbo_503) for the most accurate reproduction.*
 
 # Privacy Statement
 
