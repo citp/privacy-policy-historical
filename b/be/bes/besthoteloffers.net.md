@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the besthoteloffers.net privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226164659id_/http%3A//www.besthoteloffers.net/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besthoteloffers.net privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506031548id_/http%3A//www.besthoteloffers.net/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
