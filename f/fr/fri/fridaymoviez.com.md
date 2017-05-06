@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fridaymoviez.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229173621id_/http%3A//twilighten.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fridaymoviez.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506060953id_/http%3A//twilighten.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Twilight Entertainment Private Ltd : Privacy Policy
 
