@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the unigo.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018180753id_/https%3A//www.unigo.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unigo.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506222532id_/https%3A//www.unigo.com/aboutus/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Unigo
 
-The website or online service, and portions of other webpages or online content through which you have accessed this Privacy Notice (collectively, this "Website"), is owned and operated by EDPlus Holdings, LLC, doing business as Unigo Group (hereafter referred to as "we," "us," "our" or "Unigo"). For a list of Unigo's divisions or lines of business and websites (collectively, the "Unigo Businesses"), please refer to the Unigo Businesses section below. 
+The website or online service, and portions of other webpages or online content through which you have accessed this Privacy Notice (collectively, this "Website"), is owned and operated by Unigo, a division of EducationDynamics, LLC (hereafter referred to as "we," "us," "our" or "Unigo"). 
 
 We want you to understand what information we gather from or about you, how we use it and the safeguards we have in place to protect it. This Privacy Notice applies to **_Unigo_** and all other Unigo websites and applications that link to this policy (the "Services"). Other privacy notices may apply to some of our offerings. For a list of the websites governed by this policy see the Privacy Notice Scope section below.
 
@@ -42,8 +42,6 @@ Please read this Privacy Notice and the Terms of Use carefully to understand our
   * short message service or text message address
   * other wireless device address
   * instant messaging address
-  * credit card or other payment information
-  * Social Security number
   * demographic information
   * education and scholastic information
   * information about any transaction you conduct or submit to on or through the Services
@@ -142,7 +140,7 @@ You may want to receive interest-based ads for several reasons. Interest-based a
 The Services may also allow you to engage with social media features, such as the Facebook Like button, Google Plus, and Twitter widgets, when you are logged into those servicees. These features may collect information about your IP address and which page you are visiting on the Services, and they may set a cookie to make sure the feature functions properly. Your interactions with these features and the information from or about you collected by them are governed by the privacy policies of the companies that provide them.
 
 **Special Notice to California Residents — Your California Privacy Rights  
-** If you are a California resident and have provided your personally identifiable Personal Information to us, you may request a notice disclosing the categories of Personal Information we have shared with third parties for their direct marketing purposes during the preceding calendar year. To request a notice, your request must be submitted to us at [privacy@unigo.com](mailto:privacy@unigo.com) with the words "California Privacy Information Request" in the subject line, or by mail addressed to: Unigo Group, Attn: Customer Support - California Privacy Information Request, 5300 Meadows Road, Suite 400, Lake Oswego, OR 97035.
+** If you are a California resident and have provided your personally identifiable Personal Information to us, you may request a notice disclosing the categories of Personal Information we have shared with third parties for their direct marketing purposes during the preceding calendar year. To request a notice, your request must be submitted to us at [privacy@unigo.com](mailto:privacy@unigo.com) with the words "California Privacy Information Request" in the subject line, or by mail addressed to: Unigo, Attn: Customer Support - California Privacy Information Request, 220 NW Eighth Avenue, Portland, OR 97209.
 
 Your request must include the email address or mailing address, as applicable, for us to send our response. These requests may be made no more than once per calendar year.
 
@@ -183,13 +181,10 @@ In the event that we learn that we have collected personal information from a ch
 **Contacting Us  
 ** If you have questions or concerns about this Privacy Notice, our information practices, or wish to make a request regarding your information, please contact us at any of the following:
 
-  * Unigo Group, Attn: Customer Support, 5300 Meadows Road, Suite 400, Lake Oswego, OR 97035
+  * Unigo, Attn: Customer Support, 220 NW Eighth Avenue, Portland, OR 97209.
   * [Contact us by email](https://web.archive.org/aboutus/contact "Contact")
 
 
-
-**Unigo Businesses  
-** Unigo Businesses, doing business as [Unigo Group](http://www.unigogroup.com/), include, without limitation: Unigo ([www.unigo.com](http://www.unigo.com/)), Scholarship Experts ([www.scholarshipexperts.com](http://www.scholarshipexperts.com/)), Campus Discovery ([www.campusdiscovery.com](http://www.campusdiscovery.com/)), [Schoolbound.com](http://schoolbound.com/), and eStudentLoan ([www.estudentloan.com](http://www.estudentloan.com/)). We may change, remove or add a Unigo Business in our discretion and without notice to you.
 
 **Privacy Notice Scope  
 ** This Privacy Notice applies to the collection of information in association with any of the Unigo websites and online services that link to this Privacy Notice. Some of our services or offerings may be governed by alternative or additional privacy policies. For example:
