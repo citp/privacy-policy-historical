@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jcosplay.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128022839id_/http%3A//jcosplay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcosplay.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506062843id_/http%3A//www.jcosplay.com/privacy) for the most accurate reproduction.*
 
 # jCosplay.com - Privacy Statement
 
@@ -62,8 +62,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Questions and Contact Information**
 
-All questions to Mentarinet ltd regarding these terms and conditions must be directed to: 
+All questions to  regarding these terms and conditions must be directed to: 
 
-Mentarinet ltd registered address at 
+registered address at 
 
 Should you have other questions or concerns about these privacy policies, please [contact us](http://www.supportidols.com/).
