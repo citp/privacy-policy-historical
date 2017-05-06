@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dresstokillmagazine.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018005256id_/http%3A//dresstokillmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dresstokillmagazine.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506182615id_/http%3A//dresstokillmagazine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Dress To Kill - Canadian Fashion Magazine
+# Privacy Policy · Dress To Kill - Canadian Fashion Magazine
 
 Your use of any part of the Dress to Kill Website will constitute your agreement to this Privacy Policy. If you disagree with the terms and conditions of this Privacy Policy, please do not use the Website. This policy can change without prior notice.
 
