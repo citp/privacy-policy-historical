@@ -1,216 +1,84 @@
-> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123201856id_/http%3A//www.nysed.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506190351id_/http%3A//www.nysed.gov/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | New York State Education Department
+# Internet Privacy Policy | New York State Education Department
 
-## **Privacy of your online information on NYSED.gov**
+## Overview
 
-[NYSED Internet Privacy Policy](https://web.archive.org/web/20161123201856id_/http%3A//www.nysed.gov/privacy-policy#PRIVACY) | [Online Information Practices](https://web.archive.org/web/20161123201856id_/http%3A//www.nysed.gov/privacy-policy#ONLINE) | [General Information about Internet Privacy](https://web.archive.org/web/20161123201856id_/http%3A//www.nysed.gov/privacy-policy#GENERAL) | [Cookies and Clear GIFs](https://web.archive.org/web/20161123201856id_/http%3A//www.nysed.gov/privacy-policy#COOKIES) | [General Information About Children's Online Privacy](https://web.archive.org/web/20161123201856id_/http%3A//www.nysed.gov/privacy-policy#CHILD) | [NYSED Contact Information](https://web.archive.org/web/20161123201856id_/http%3A//www.nysed.gov/privacy-policy#CONTACT)
+Thank you for visiting the website of the NYS Education Department (NYSED). Consistent with the provisions of the Internet Security and Privacy Act, the Freedom of Information Law and the Personal Privacy Protection Law, this policy describes NYSED's privacy practices regarding information collected from users of this website, what data is collected and how that information is used. Please note that NYSED may, at its sole discretion, change modify, add, or delete portions of this policy. This privacy policy only applies to this website so you should examine the privacy policy of any website, including other State websites, that you access through this website.
 
-## Internet Privacy and Security Policy
+For purposes of this policy, “personal information” means any information concerning a natural person which, because of name, number, symbol, mark, or other identifier, can be used to identify that natural person. NYSED does not collect any personal information about you unless you provide that information voluntarily by sending us an e-mail or by initiating an online transaction with us such as completing a survey, registration or other form.
 
-Your online privacy is important. This section of the New York State Education Department’s (NYSED) Website provides information about this agency's approach to information from online visitors as well as general information about online privacy.
+## Information Collected Automatically When You Visit This Website
 
-This policy is divided into several topics; you can scroll through the sections or use the links above.
+When you visit this website, NYSED automatically collects and stores the information listed below about your visit. None of this information is deemed to constitute personal information. The information that is collected automatically is used to improve the website's content, to help NYSED understand how users interact with the website, and to help make the site more user-friendly. It is also used for statistical analysis to determine what information is of most and of least interest to our visitors, and to identify system performance or problem areas. The information is not collected for commercial marketing purposes and NYSED does not sell or distribute the information collected from the website for commercial marketing purposes. This information is purged from NYSED’s database after six months.
 
-### NYSED INTERNET PRIVACY POLICY
+  * The Internet Protocol address and domain name of your Internet service provider. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer, which can be used to direct internet traffic to you;
+  * The type of browser and operating system you used;
+  * The date and time you visited this site;
+  * The web pages or services you accessed at this site;
+  * The URL or web site address of the web site you visited prior to coming to this website and from which any web page on this site was linked; and
+  * If you downloaded a form, the form that was downloaded.
 
-This section describes the New York State Education Department's online information practice regarding the information collected from visitors to our Website and ways in which the office uses and maintains this information.
 
-The NYSED Website has three main purposes:
 
-  1. Provide useful information concerning educational policy and practice in New York and a description of the work of the NYSED.
-  2. Provide a means to communicate with staff of the NYSED. You can use this Website as a convenient alternative to mail or telephone communication.
-  3. Provide an electronic medium for local educational agencies to submit data and conduct business with the NYSED.
+## Cookies
 
+Cookies are simple text files stored on your web browser to provide a means of distinguishing among users of this website. The use of cookies is a standard practice among Internet websites. In order to better serve you, we may use "temporary" cookies to enhance, customize or enable your visit to this web site. Temporary cookies do not contain personal information and do not compromise your privacy or security and are erased during the operation of your browser or when your browser is closed. NYSED does not use “persistent” cookies on this site. Persistent cookies are stored on a user’s computer hard drive to allow the website to recognize the user the next time the user visits the site and tailor the information presented to the user’s interests. The software you use to access the website allows you to refuse new cookies or delete existing cookies. Refusing or deleting these cookies may limit your ability to take advantage of some of the features of this website.
 
+## Information Collected When You Email this Website or Initiate an Online Transaction through this Website
 
-The NYSED Website collects two kinds of information:
+If during your visit to this website you send an email to NYSED, your email address and the contents of your email will be collected. The information collected is not limited to text characters and may include audio, video, and graphic information formats you send us. The information is retained in accordance with the public record retention provisions in the State Arts and Cultural Affairs Law. Your email address and the information contained in your email will be used to respond to you, to address issues you identify, to further improve this website, or to forward your email to another agency for appropriate action. Your email address is not collected for commercial marketing purposes and NYSED does not sell or distribute your email address for commercial marketing purposes.
 
-  1. Information you decide to give us, which may include personally identifiable information (PII); and
-  2. Non-personal information your computer automatically provides to every Website you visit. This is sometimes referred to as "navigation" information. The NYSED retains this information only for a short time.
+If you initiate a transaction such as completing a survey, registration or other form while on this website, the information, including personal information, volunteered by you in initiating the transaction is used by NYSED to operate NYSED programs, which include the provision of goods, services and information. The information collected by NYSED may be disclosed by NYSED for those purposes that may be reasonably ascertained from the nature and terms of the transaction in connection with which the information was submitted by you.
 
-  | Information you decide to give the NYSED | Information your computer automatically transmits to all Websites  
----|---|---  
-How the NYSED uses information you provide | The NYSED Website provides a convenient way to communicate with the NYSED in addition to the more traditional means such as mail, phone or in-person visits. For example, you can 
+## Payment Card Information
 
-  * send the NYSED staff messages or;
-  * request information.
+If you initiate a payment card transaction through an online application on this website, NYSED provides a data entry screen that securely transmits your data directly to a third-party Payment Card Industry (PCI) compliant payment card service provider. NYSED does not receive or retain any of your personal information, payment card or account information. The payment card service provider transmits only a successful or unsuccessful confirmation message back to NYSED so that NYSED can properly complete the transaction. For more information about PCI compliance, visit the PCI Security Standards Council website.
 
+## General Information about Children’s Online Privacy
 
+NYSED does not knowingly collect personal information from children or create profiles of children through this website. Users are cautioned, however, that the collection of personal information provided by any individual in an email or through an online transaction will be treated the same as information given by an adult, and may, unless exempted from access by federal or State law, be subject to public access. NYSED encourages parents and teachers to be involved in children's Internet activities and to provide guidance whenever children are asked to provide personal information on-line.
 
-The NYSED retains this information and protects it just as if you had sent it by mail.
+NYSED does not solicit information from children under the age of thirteen. If the NYSED receives information submitted by children under the age of thirteen, those communications are accorded the same protections as if the information had been submitted offline.
 
-| The NYSED temporarily retains the information automatically sent by your computer to evaluate the traffic through the NYSED Website to help make the site more user-friendly.  
-Personally Identifiable Information (PII) | PII is information about you, such as your name, address, or social security number, that someone could use to identify or locate you. 
+The Children's Online Privacy Protection Act of 1998 (COPPA) imposes restrictions on commercial Websites, not government agency websites. Although COPPA does not apply to the NYSED Website, the NYSED practices are consistent with its mandates. If you would like more information about COPPA, please visit the Federal Trade Commission's official [COPPA page](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy).
 
-The NYSED acquires PII online when a visitor sends it. If you browse through the NYSED Website - reading, printing, or downloading information such as consumer brochures or press releases — you do not transmit PII.
+## Information and Choice
 
-The NYSED only uses PII for authorized government purposes, for example, authorizing information when processing payment claims or collecting data via web-based applications.
+NYSED does not collect any personal information about you during your visit to this website unless you provide that information voluntarily by sending an e-mail or initiating an online transaction such as a survey, registration, or order form. You may choose not to send us an e-mail, respond to a survey or complete an order form. While your choice not to participate in these activities may limit your ability to receive specific services or products through this website, it will not prevent you from requesting services or products from NYSED by other means such as by regular mail or telephone, and will not normally have an impact on your ability to take advantage of other features of the website, including browsing or downloading most publicly available information.
 
-| Automatic information typically does not personally identify you. Even when it could,  the NYSED does not try to discover or use your identity.  
-Sensitive Information | There may be particular privacy concerns with certain kinds of information such as financial or medical records. The NYSED uses such information only for authorized government purposes. | Automatic information typically does not include any sensitive information about you.  
-Information practices the NYSED does not use | The NYSED does not have a profile database of all online visitors. | The NYSED does not use persistent cookies, clear GIFs ("Web bugs"), or any kind of anonymous identifier to try to track or recognize you from visit to visit. 
+## Disclosure of Information Collected Through This Website
 
-The NYSED does not draw conclusions about you based on pages you view or search terms you enter.  
-  
-Data sharing and transfer | 
+The collection of information through this website and the disclosure of that information are subject to the provisions of the Internet Security and Privacy Act. NYSED will only collect personal information through this website, or disclose such personal information, if the user has consented to the collection and disclosure of such personal information. The voluntary disclosure of personal information to NYSED by the user, whether solicited or unsolicited, constitutes consent to the collection and disclosure of the information by NYSED for the purposes for which the user disclosed the information to NYSED, as was reasonably ascertainable from the nature and terms of the disclosure.
 
-  1. The NYSED does not sell or rent information provided by online visitors.
-  2. The NYSED may share or disclose certain information you provide if necessary to fulfill government functions, such as mediating a complaint
+However, NYSED may collect or disclose personal information without user consent if the collection or disclosure is: (1) necessary to perform the statutory duties of NYSED, or necessary for NYSED to operate a program authorized by law, or authorized by state or federal statute or regulation; (2) made pursuant to a court order or by law; (3) for the purpose of validating the identity of the user; or (4) of information to be used solely for statistical purposes that is in a form that cannot be used to identify any particular person. Further, the disclosure of information, including personal information, collected through this website is subject to the provisions of the Freedom of Information Law and the Personal Privacy Protection Law. Additionally, NYSED may disclose personal information to federal or State law enforcement authorities to enforce its rights against unauthorized access or attempted unauthorized access to NYSED's information technology assets and any other inappropriate use of its website.
 
-| The NYSED does not sell or rent the automatic navigation information your computer transmits.  
-Data security, integrity, and retention | 
+## Retention of Information Collected Through this Website
 
-  1.  The NYSED does not store information submitted by all our visitors in an office-wide, master database.
-  2. The NYSED takes appropriate technical measures to protect the security and integrity of information the NYSED receives.
-  3. Access to information provided by visitors online is limited to the NYSED personnel who have authorization to access the data.
-  4. The same rules of confidentiality that apply to information you might send the NYSED offline apply to information provided online.
+The information collected through this website is retained by NYSED in accordance with the records retention and disposition requirements of the [New York State Arts and Cultural Affairs Law](http://www.archives.nysed.gov/records/mr_laws_acal5705.shtml). Information, including personal information that you submit in an e-mail or when you initiate an online transaction such as a survey, registration form, or order form is retained in accordance with the records retention and disposition schedule established for the records of the program unit to which you submitted the information. Information concerning these record retention and disposition schedules may be obtained through the Internet privacy policy contact listed in this policy.
 
-| 
+## Access to and Correction of Personal Information Collected Through this Website
 
-  1. The NYSED temporarily stores the automatic navigation information in a computer database. After six months, it purges this information from the the NYSED databases.
-  2. The NYSED takes appropriate technical measures to protect the security and integrity of this information.
+Any user may submit a request to NYSED to determine whether personal information pertaining to that user has been collected through this website. Such request must be made in writing to the address below and must be accompanied by reasonable proof of identity of the user. Reasonable proof of identity may include verification of a signature, inclusion of an identifier generally known only to the user, or similar appropriate identification. The address is: Personal Privacy Protection Law Request, Chief Information Security Officer, New York State Education Department, 89 Washington Avenue, Albany, New York 12234.
 
-  
-  
-### The following notices apply generally to any information the NYSED receives:
+NYSED shall, within five (5) business days of the date of the receipt of a proper request: (i) provide access to the personal information; (ii) deny access in writing, explaining the reasons therefore; or (iii) acknowledge the receipt of the request in writing, stating the approximate date when the request will be granted or denied, which date shall not exceed thirty (30) days from the date of the acknowledgment.
 
-Exceptions | 
+In the event that NYSED has collected personal information pertaining to a user through its website, such a user may request that the personal information be amended or corrected under the procedures set forth in section 95 of the Public Officers Law.
 
-  1. Legal obligations to disclose information: The NYSED may disclose information to comply with a court order, authorized law enforcement request, subpoena, or a request under federal or state "freedom of information" law.
-  2. Emergency exceptions: If necessary to protect health or safety in an emergency situation, the NYSED may use, share or disclose information other than outlined in this policy.
-  3. If there are other exceptions or special needs for handling information in a specific case, the NYSED will provide notice as appropriate.
+## Confidentiality and Integrity of Personal Information Collected Through this Website
 
-  
----|---  
-Notice of changes in this Privacy Policy | If any of the information in this section changes in a material way, the NYSED will post 30 days advance notice on the Home page of this Website, with the effective date of the change. Where a specific page is affected specifically by a change in policy,  the NYSED will post a clear and conspicuous notice.  
-Links to other Websites | NYSED.gov may contain links to web sites created and maintained by other public and/or private organizations and individuals or to documents that contain links to other web sites. **** NYSED.gov provides these links as a service to our users. When you follow a link to an external site, you are leaving NYSED.gov and are subject to the privacy and security policies of the owners/sponsors of the external site. NYSED.gov does not control or guarantee the accuracy, relevance, timeliness, or completeness of information contained in a linked site. We also do not endorse the organizations or individuals maintaining sites that we link, any views they express, or any products/services they offer.  
-  
-### DETAILS ON the NYSED ONLINE INFORMATION PRACTICES
+NYSED limits employee access to personal information collected through this website to only those employees who need access to the information in the performance of their official duties. Employees who have access to this information are required to follow appropriate procedures in connection with any disclosures of personal information.
 
-Personally identifiable information you give the NYSED | Many visitors to the NYSED Website provide personally identifiable information for a particular purpose. For example; 
+In addition, NYSED has implemented procedures to safeguard the integrity of its information technology assets, including, but not limited to, authentication, monitoring, auditing and encryption. These Security measures have been integrated into the design, implementation, and day-to-day operations of this website as part of our continuing commitment to the security of electronic content as well as the electronic transmission of information.
 
-  1. If you send the NYSED a message and want a reply, the NYSED needs at least your name and your e-mail address or telephone number.
-  2. If you request a publication, the NYSED needs your name and street address to send it to you.
-  3. If you are the authorized agent for a local educational agency which transacts business over the internet (e.g., submitting required data or processing payment claims).
+## General Disclaimer
 
-  
----|---  
-Sharing information you give the NYSED | The NYSED may need to share your information to perform government functions, just as if you had sent the NYSED the information by mail. For example; 
+The information contained in this policy should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via this website. For site security purposes and to ensure that this website remains available to all users, NYSED employs software to monitor traffic to identify unauthorized attempts to upload or change information or otherwise cause damage to this website.
 
-  1. If you request that the NYSED mediate a  complaint against a local school district, the NYSED might require the details of the complaint, which may include your identity.
-  2. If you apply for employment, the NYSED may need to contact your references and perform other appropriate verification.
+## Links Disclaimer
 
-  
-Information your computer automatically provides to all Websites | While you are browsing, your computer automatically provides certain "navigation" information to every Website you visit, including the NYSED Website. The navigation information includes: 
+In order to provide visitors with certain information, this website provides links to local, State and federal government agencies, and websites of other organizations. A link does not constitute an endorsement of the content, viewpoint, accuracy, opinions, policies, products, services, or accessibility of that website. Once you link to another website from this website, including one maintained by the State, you are subject to the terms and conditions of that website including, but not limited to, its privacy policy.
 
-  1. The address (also known as URL, short for "uniform resource locator") of any Web page you visited before you linked to a NYSED Web page.
-  2. Your Internet Protocol address (IP). This is the Internet's address for your particular computer. A Website's computer must know your IP address so the site can send the Web page you ask to view.
-  3. The Web-browsing software you are using.
-  4. Whether your computer is configured to display English or some other language.
-  5. Your online service provider.
-  6. Note: Your computer does not automatically provide your e-mail address.
+## Information Disclaimer
 
-
-
-For example, if you have an AOL account, were visiting a page on the Yahoo site, and clicked on a link to the NYSED home page, your computer would transmit to the NYSED Website that:
-
-  1. You are an AOL subscriber;
-  2. You use a particular browser software version such as Internet Explorer 5.0.;
-  3. You were just visiting a particular page on [www.yahoo.com;](http://www.yahoo.com;) or
-  4. You linked to [www.nysed.gov](http://www.nysed.gov/) on a particular date at a particular time.
-
-  
-Use of information your computer automatically provides to all Websites | The NYSED Website uses automatic navigation information for internal, site-monitoring purposes. 
-
-  1. This data allows the NYSED staff to measure visitors' interest in different sections of the Website, so that the NYSED can make the site more useful to visitors.
-  2. The NYSED generates internal reports that identify the number of web users on a given day who requested pages through particular online service providers. This information may report the volume of requests originating from a service provider associated with a particular school, company, or from foreign countries.
-
-
-
-The NYSED does not:
-
-  1. analyze our visitors' automatic navigation information to attempt to identify unique or repeat visitors;
-  2. routinely retain permanent records of automatic navigation information; or
-  3. attempt to identify individual visitors by analyzing their IP addresses except in cases of attempted security breaches and/or intrusions.
-
-  
-Identifiability of domain names and IP addresses | 
-
-  1. Identifiability of your domain name: If you access the Internet through facilities provided by an organization such as your school or business, your automatic navigation information may reveal the name of your organization. For example, a student's navigation information might let a Website know that the student accesses the Internet through [www.myuniversity.edu](http://www.myuniversity.edu/).
-  2. Geographic area: Similarly, if you access the Internet through an Internet Service Provider (ISP) located in a particular geographic area, a Website may be able to use the ISP's identity to infer that to be your geographic location.
-  3. Identifiability of your IP address: Whether your IP address is identifiable depends on whether it is dynamic or static. If it is dynamic, your ISP assigns a different IP address for each online visit that does not identify any person or machine.
-
-
-
-In contrast, if you access the Internet through an ISP that assigns you a static or fixed IP address (for example, DSL or cable modem service), your IP address will always be the same, and will identify your computer.  
-  
-### GENERAL INFORMATION ABOUT INTERNET PRIVACY
-
-The NYSED handles information about visitors to the NYSED Website in the following manner:
-
-Notice and disclosure | The NYSED provides notice and disclosure of its information practices by posting its privacy policy.  
----|---  
-Choice/ Consent | The NYSED receives your online information only when you choose to disclose it. For example, by submitting an online complaint form, or request for information. The NYSED only uses this information for the purpose for which you disclosed it, except when the law or emergencies require the NYSED to do otherwise.  
-Access | Because the NYSED is an agency dealing with information about children, it must carefully safeguard information. Access to PII is limited only to authorized staff.  If you need information you previously gave the NYSED, please contact this office, and, if known, the bureau working on your initial request.  
-Security | The NYSED takes reasonable measures to protect the security and integrity of information received. The NYSED periodically purges its computer files that log activity on the NYSED Website.  
-  
-### GENERAL INFORMATION ABOUT COOKIES AND CLEAR GIFs ("WEB BUGS")
-
-Although the SED does not use persistent cookies or clear GIFs ("Web bugs") on this Website, many sites do use this technology. Here is some helpful information.
-
-### Cookies
-
-A cookie is... | 
-
-  * A cookie is a small data file placed on your hard drive by a Website so it can "remember" information about you or your computer. 
-    * A Website may assign you an ID and create a temporary cookie with that ID number on your computer.
-    * The Website then can create a profile with your ID number on the Website's server.
-    * In your profile, the Website can store information about your interests and other characteristics. For example, a site that carries news and weather might record your zip code so it can display local weather and news each time you visit the site. A credit card or bank site might use your profile to store your password, so that it has a way to recognize you and display your account information.
-  * A cookie can be read and updated only by the Website that created it. One Website cannot "peek" at another Website's cookies.
-
-  
----|---  
-A cookie is not...  | 
-
-  * A cookie is not a program. It is a data file.
-  * A cookie is not a spy device that can read files on your computer.
-  * A cookie is not a way for a Website to secretly discover your personal information.
-
-  
-Cookies on your computer | 
-
-  * To learn more about cookies on your computer and what you can do about them, consult your browser's help or tutorial feature.
-
-  
-  
-Clear GIFs or "Web bugs"
-
-A clear GIF is... | 
-
-  * Another common way that web sites collect information about you is by using technology called clear GIF or "Web bug" (also referred to as a "1-by-1 GIF", "pixel tag", or "Web beacon").
-  * A clear GIF is an invisible image that can be imbedded in a Web page or certain kinds of e-mail. ("GIF" stands for "graphical interface format", which is one of the technologies used to show pictures in a Web page.)
-  * As with cookies, a Website can use clear GIFs to collect data about you.
-  * Unlike cookies, clear GIFs are not stored on your computer.
-  * Unlike cookies, most browsers do not have built-in features to explain or help you detect clear GIFs.
-
-  
----|---  
-  
-### GENERAL INFORMATION ABOUT CHILDREN'S ONLINE PRIVACY
-
-The NYSED does not solicit information from children under the age of thirteen. If the NYSED receives information submitted by children under the age of thirteen, those communications are accorded the same protections as if the information had been submitted offline.
-
-The Children's Online Privacy Protection Act of 1998 (COPPA) imposes restrictions on commercial Websites, not government agency websites. Although COPPA does not apply to the NYSED Website, the NYSED practices are consistent with its mandates. If you would like more information about COPPA, please visit the Federal Trade Commission's official COPPA page at: <http://www.ftc.gov/bcp/conline/edcams/coppa/>
-
-### NYSED CONTACT INFORMATION
-
-If you have questions about the NYSED Website privacy statement or this Website, please contact the NYSED by e-mailing the Information Security Officer at [infosec@nysed.gov](mailto:infosec@nysed.gov)
-
-You can also write to the NYSED at:
-
-> Edward Skinner  
->  Chief Information Security Officer  
->  State Education Department - Room 280 EBA  
->  Washington Avenue, Albany, New York 12234  
-> [infosec@nysed.gov](mailto:infosec@nysed.gov)
+Information provided on this website is intended to allow the public immediate access to public information. While all attempts are made to provide accurate, current, and reliable information, NYSED recognizes the possibility of human and/or mechanical error. Therefore, NYSED, its employees, officers and agents make no representations as to the accuracy, completeness, currency, or suitability of the information provided by this website, and deny any expressed or implied warranty as to the same.
