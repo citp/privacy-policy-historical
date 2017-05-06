@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badpuppy.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127005956id_/http%3A//www.badpuppy.com/tour/pages.php%3Fid%3Dbadpuppy-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badpuppy.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506145954id_/http%3A//www.badpuppy.com/tour/pages.php%3Fid%3Dbadpuppy-privacy-policy) for the most accurate reproduction.*
 
 # Badpuppy - Gay Adult Website with Streaming Videos
 
