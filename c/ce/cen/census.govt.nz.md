@@ -1,35 +1,60 @@
-> *The following text is extracted and transformed from the census.govt.nz privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910160036id_/http%3A//www.census.govt.nz/about-census/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the census.govt.nz privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506111358id_/http%3A//www.stats.govt.nz/about_us/legisln-policies-protocols/confidentiality-of-info-supplied-to-snz) for the most accurate reproduction.*
 
-# Privacy - 2013 Census
+# Privacy, security, and confidentiality
 
-Statistics New Zealand is committed to protecting the privacy and security of visitors to the Census website. 
+Find out how Statistics NZ ensures the privacy, security, and confidentiality of information we collect on individuals, households, and businesses. This includes how we use, store, and distribute our information. 
 
-## Reporting
+This privacy statement covers all information we collect through our surveys and other sources (eg administrative data), for producing official statistics and research. 
 
-Each time a visitor comes to our website, we collect some basic technical information about them, such as the visitor's domain name, referral data, and browser type. This information is aggregated with information from other visitors for management reporting purposes and to assist in the development of the website. 
+[Privacy and security on our website](https://web.archive.org/about_us/about-this-site/privacy.aspx) covers privacy for information we collect when you visit the Statistics NZ website. 
 
-The aggregated data is stored in a database managed by Nielsen Online. Reports created by the analysis software are accessed by authorised staff within our agency. Nielsen Online operates, and is bound to, a strict privacy policy, which they have signed with Statistics NZ. 
+### Information privacy, security, and confidentiality are central to all our activities
 
-## Cookies
+The data we collect benefits everyone. It is used for statistical purposes and for research that’s necessary to empower decision-making by New Zealanders, businesses, and government. 
 
-The Infoshare application on the Statistics New Zealand website uses temporary cookies (files that a website transfers to your computer) to hold information related to the tables you are currently viewing and maintain some of the formatting options you have selected. The cookie does not store any personal data and is immediately deleted when you close your web browser. If you prefer not to use cookies, you can still use this website. Check the Help instructions in your web browser to find out how to disable cookies. 
+We rely on people’s trust and goodwill to continue to supply us with quality information – so we can unleash the power of data for all New Zealanders to use. To maintain this trust, we are committed to transparency in all our processes and we work closely with the Office of the Privacy Commissioner to ensure we follow best practice. 
 
-## External links
+We recognise and value the contribution you make by providing data. In return, we apply ethical, statistical, and security best practice standards to ensure privacy, confidentiality, and security for your data. We require others who use our data to apply the same standards. Our dedicated IT security team monitors and evaluates internal and external security issues and risks. 
 
-Statistics NZ is not responsible for the privacy practices or the content of linked websites. 
+Much of the data we use to produce official statistics and research comes from individuals, households, and businesses, and contains personal and commercially sensitive information. 
 
-## Security
+We also collect data indirectly from third parties. We do this because using data you’ve already supplied to another agency minimises your effort, and maximises the usefulness of your data. 
 
-Our website has security measures in place to prevent the loss, misuse, and alteration of information under our control. 
+We link the information people give us with information collected by other agencies. This increases the usefulness of the information to researchers who are answering important questions about New Zealand. 
 
-## Subscriber information
+We may also share data for research and statistical purposes. When we share your data with others we ensure your confidentiality and privacy is protected. Everyone we employ, and all researchers, sign a ‘statutory declaration of secrecy’. This declaration is a lifetime obligation. 
 
-On some pages, visitors are asked to provide some personal details, such as name and address. Personal details are only asked for when visitors are purchasing products or participating in discussion forums where registration is required. This information is kept secure within Statistics NZ and is not disclosed to other parties. 
+When we share individual, household, or business information with other government agencies for statistical and public interest research, we remove all names, addresses, and other identifiable information. We never share identifiable information for operational purposes with other agencies (eg Inland Revenue, NZ Police) without your consent. 
 
-## Confidentiality of information collected under the Statistics Act 1975
+Our published statistics and research do not identify individuals, households, or businesses. 
 
-This site contains summaries of confidential information collected from individuals and businesses. The confidentiality of this information is protected under the Statistics Act 1975. For further details see confidentiality of information supplied to Statistics New Zealand. 
+We retain information for as long as it has statistical or research value. We store archived data securely and, if it’s no longer needed, we destroy it. 
 
-## Further information
+### Additional information
 
-If you have any further questions about privacy on this website, contact: [info@stats.govt.nz](mailto:info@stats.govt.nz) or an information consultant on +64-4-931 4600. 
+See also: 
+
+  * [data integration](https://web.archive.org/methods/data-integration.aspx) for more information on the different types of data we link together 
+  * [microdata access protocols](https://web.archive.org/about_us/legisln-policies-protocols/microdata-access-protocols.aspx) and [business frame release policy](https://web.archive.org/about_us/legisln-policies-protocols/business-register.aspx) for more information about our data-sharing limits 
+  * [safeguarding confidentiality](https://web.archive.org/about_us/legisln-policies-protocols/confidentiality-of-info-supplied-to-snz/safeguarding-confidentiality.aspx) for more information on how we protect your data 
+  * [principles and protocols for producers of Tier 1 statistics](https://web.archive.org/about_us/who-we-are/home-statisphere/tier-1/principles-protocols.aspx) for more information on the standards we use 
+  * the summary of administrative data suppliers in 'Available files' on this page, for more information on who provides data to us 
+  * [Statistics NZ survey charter](https://web.archive.org/survey-participants/statisticsnz-survey-charter.aspx) 
+
+
+
+### Our commitment
+
+Your privacy is important to us. At Statistics New Zealand, we are committed to keeping your information completely secure and confidential. We recognise the value of data and ensure that the data we collect benefits everyone, and is only used for research or statistical purposes to inform good decision-making by Government, business, and all New Zealanders. 
+
+We ensure: 
+
+  * privacy by collecting only the information we need and using it for that purpose 
+  * security by keeping data safe from unauthorised access and use 
+  * confidentiality by not releasing information that could identify individuals, households, or businesses. 
+
+
+
+You can contact us for any information about our commitment to privacy, security, and confidentiality by emailing [info@stats.govt.nz](mailto:info@stats.govt.nz) or call our toll-free line at 0800 104 744, Monday to Friday between 8:30 am and 4:30pm. We are not open on public holidays. 
+
+Updated 17 March 2016
