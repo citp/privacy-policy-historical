@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the defender.com privacy policy that was archived on 2016-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161201060319id_/http%3A//www.defender.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the defender.com privacy policy that was archived on 2017-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170507210937id_/http%3A//www.defender.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.defender.com/dtd/loose.dtd"><html><head>
  <!-- WOMPMOBILE SITE TAG - DO NOT ALTER - PASTE IMMEDIATELY AFTER OPENING HEAD TAG - For more information see WompMobile.com -->
@@ -161,16 +161,23 @@ ddsmoothmenu.init({
 			<div class="ddsmoothmenu">
 						<ul>
 							<li>
-								<script type="text/javascript">
+								<div><div><a href="https://www.defender.com/login.jsp">Login&nbsp;&nbsp;</a></div></div><script type="text/javascript">
 									if (loggedinFlag == 0) {
-										document.write ("<a href=\"Logoff\">Logoff");
+										var logoff = document.createElement ('div');
+										logoff.innerHTML = '<div><a href=\"Logoff\">Logoff</div></a>';
+										var scripts = document.getElementsByTagName ('script');
+										var thisScript = scripts[scripts.length - 1]
+										thisScript.parentNode.insertBefore (logoff, thisScript);
 									} else {
 										
-											document.write ("<a href=\"https://www.defender.com/login.jsp\">Login&nbsp;&nbsp;");
+											var login = document.createElement ('div');
+											login.innerHTML = '<div><a href=\"https://www.defender.com/login.jsp\">Login&nbsp;&nbsp;</div></a>';
+											var scripts = document.getElementsByTagName ('script');
+											var thisScript = scripts[scripts.length - 1]
+											thisScript.parentNode.insertBefore (login, thisScript);
 										
 									}
-								</script><a href="https://www.defender.com/login.jsp">Login&nbsp;&nbsp;
-								</a>
+								</script>
 							</li>
 						</ul>
 					</div>
@@ -218,7 +225,12 @@ ddsmoothmenu.init({
 				} else { 
 					document.write("0");
 				}
-				var cartValue = getCookie("havecart").substring(0,getCookie("havecart").indexOf("|"));
+				try {
+					var cartValue = getCookie("havecart").substring(0,getCookie("havecart").indexOf("|"));
+				}
+				catch(err) {
+					// alert ("no cart value");
+				}
 				if ((typeof cartValueCheck !== "undefined") && (cartValueCheck !== null)) { 
 					if (cartValue.length > 0) {
 						document.write(cartValue);
@@ -235,7 +247,12 @@ ddsmoothmenu.init({
 				} else { 
 					document.write("$0.00");
 				}
-				var cartDollarValue = getCookie("havecart").substring(getCookie("havecart").indexOf("|")+1, getCookie("havecart").length);
+				try {
+					var cartDollarValue = getCookie("havecart").substring(getCookie("havecart").indexOf("|")+1, getCookie("havecart").length);
+				}
+				catch(err) {
+					// alert ("no dollar value");
+				}
 				if ((typeof cartValueCheck !== "undefined") && (cartValueCheck !== null)) {
 					if (cartDollarValue.length > 1) {
 						document.write(cartDollarValue);
@@ -283,41 +300,41 @@ ddsmoothmenu.init({
 		<aside id="navigation">
 				<nav>
 					<ul>
-						<li><a href="category.jsp?path=-1&amp;id=2276108">Anchor, Chain &amp; Mooring</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=2259970">Bags</a></li>
-						<li><a href="categoryBoatsMotors.jsp?path=-1&amp;id=215570">Boats and Motors</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=1794287">Boat Trailers &amp; Dollies</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=9489">Books &amp; Video</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=2276179">Cabin</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=5948">Canvas</a></li>
-						<li><a href="defender-marine-clearance.jsp?path=-1&amp;id=619045">Clearance</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=2259971">Cleats &amp; Chocks</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=6267">Clothing / Foul Weather Gear</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=7504">Deck &amp; Cockpit</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=294">Dinghy Accessories</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=2276155">Docking &amp; Fenders</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=328">Electrical</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=344">Electronics</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=311">Engine Systems</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=2259972">Fiberglass &amp; Epoxy</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=2276204">Galley</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=108136">Gift Certificates</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=2061076">Heating &amp; A/C</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=2243574">Hose &amp; Fittings</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=65136">Lighting</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=2078767">Line / Cord / Wire Cable</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=10918">Maintenance</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=17">Navigation</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=2200442">Paints</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=51">Plumbing</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=135">Safety</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=118">Sailboat Hardware</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=2259973">Shackles / Swivels</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=2331321">Steering</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=6880">Ventilation</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=74081">Watersports &amp; Activities</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=2285701">Winterizing</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=299255">Zincs &amp; Anodes</a></li>
+						<li><a href="category.jsp?name=anchor-chain-and-mooring&amp;path=-1&amp;id=2276108">Anchor, Chain &amp; Mooring</a></li>
+						<li><a href="category.jsp?name=bags&amp;path=-1&amp;id=2259970">Bags</a></li>
+						<li><a href="categoryBoatsMotors.jsp?name=boats-and-motors&amp;path=-1&amp;id=215570">Boats and Motors</a></li>
+						<li><a href="category.jsp?name=boat-trailers-and-dollies&amp;path=-1&amp;id=1794287">Boat Trailers &amp; Dollies</a></li>
+						<li><a href="category.jsp?name=books-and-video&amp;path=-1&amp;id=9489">Books &amp; Video</a></li>
+						<li><a href="category.jsp?name=cabin&amp;path=-1&amp;id=2276179">Cabin</a></li>
+						<li><a href="category.jsp?name=canvas&amp;path=-1&amp;id=5948">Canvas</a></li>
+						<li><a href="defender-marine-clearance.jsp?name=clearance&amp;path=-1&amp;id=619045">Clearance</a></li>
+						<li><a href="category.jsp?name=cleats-and-chocks&amp;path=-1&amp;id=2259971">Cleats &amp; Chocks</a></li>
+						<li><a href="category.jsp?name=clothing-foul-weather-gear&amp;path=-1&amp;id=6267">Clothing / Foul Weather Gear</a></li>
+						<li><a href="category.jsp?name=deck-and-cockpit&amp;path=-1&amp;id=7504">Deck &amp; Cockpit</a></li>
+						<li><a href="category.jsp?name=dinghy-accessories&amp;path=-1&amp;id=294">Dinghy Accessories</a></li>
+						<li><a href="category.jsp?name=docking-and-fenders&amp;path=-1&amp;id=2276155">Docking &amp; Fenders</a></li>
+						<li><a href="category.jsp?name=electrical&amp;path=-1&amp;id=328">Electrical</a></li>
+						<li><a href="category.jsp?name=electronics&amp;path=-1&amp;id=344">Electronics</a></li>
+						<li><a href="category.jsp?name=engine-systems&amp;path=-1&amp;id=311">Engine Systems</a></li>
+						<li><a href="category.jsp?name=fiberglass-and-epoxy&amp;path=-1&amp;id=2259972">Fiberglass &amp; Epoxy</a></li>
+						<li><a href="category.jsp?name=galley&amp;path=-1&amp;id=2276204">Galley</a></li>
+						<li><a href="category.jsp?name=gift-certificates&amp;path=-1&amp;id=108136">Gift Certificates</a></li>
+						<li><a href="category.jsp?name=heating-and-ac&amp;path=-1&amp;id=2061076">Heating &amp; A/C</a></li>
+						<li><a href="category.jsp?name=hose-and-fittings&amp;path=-1&amp;id=2243574">Hose &amp; Fittings</a></li>
+						<li><a href="category.jsp?name=lighting&amp;path=-1&amp;id=65136">Lighting</a></li>
+						<li><a href="category.jsp?name=line-cord-wire-cable&amp;path=-1&amp;id=2078767">Line / Cord / Wire Cable</a></li>
+						<li><a href="category.jsp?name=maintenance&amp;path=-1&amp;id=10918">Maintenance</a></li>
+						<li><a href="category.jsp?name=navigation&amp;path=-1&amp;id=17">Navigation</a></li>
+						<li><a href="category.jsp?name=paints&amp;path=-1&amp;id=2200442">Paints</a></li>
+						<li><a href="category.jsp?name=plumbing&amp;path=-1&amp;id=51">Plumbing</a></li>
+						<li><a href="category.jsp?name=safety&amp;path=-1&amp;id=135">Safety</a></li>
+						<li><a href="category.jsp?name=sailboat-hardware&amp;path=-1&amp;id=118">Sailboat Hardware</a></li>
+						<li><a href="category.jsp?name=shackles-swivels&amp;path=-1&amp;id=2259973">Shackles / Swivels</a></li>
+						<li><a href="category.jsp?name=steering&amp;path=-1&amp;id=2331321">Steering</a></li>
+						<li><a href="category.jsp?name=ventilation&amp;path=-1&amp;id=6880">Ventilation</a></li>
+						<li><a href="category.jsp?name=watersports-and-activities&amp;path=-1&amp;id=74081">Watersports &amp; Activities</a></li>
+						<li><a href="category.jsp?name=winterizing&amp;path=-1&amp;id=2285701">Winterizing</a></li>
+						<li><a href="category.jsp?name=zincs-and-anodes&amp;path=-1&amp;id=299255">Zincs &amp; Anodes</a></li>
 					</ul>
 				</nav>
 			</aside>
@@ -355,14 +372,14 @@ ddsmoothmenu.init({
 		<aside id="navigation">
 				<nav>
 					<ul>
-						<li><a href="categoryBoatsMotors.jsp?path=-1|215570&amp;id=1794282">Inflatable Boats</a></li>
-						<li><a href="categoryBoatsMotors.jsp?path=-1|215570&amp;id=1794283">Outboard Motors</a></li>
-						<li><a href="categoryBoatsMotors.jsp?path=-1|215570&amp;id=1794285">Rigged Inflatable Boats</a></li>
+						<li><a href="categoryBoatsMotors.jsp?name=inflatable-boats&amp;path=-1|215570&amp;id=1794282">Inflatable Boats</a></li>
+						<li><a href="categoryBoatsMotors.jsp?name=outboard-motors&amp;path=-1|215570&amp;id=1794283">Outboard Motors</a></li>
+						<li><a href="categoryBoatsMotors.jsp?name=rigged-inflatable-boats&amp;path=-1|215570&amp;id=1794285">Rigged Inflatable Boats</a></li>
 						<li><a href="fire-rescue-boats-and-accessories.jsp">Rescue Inflatable Boats</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=1794287">Boat Trailers &amp; Dollies</a></li>
+						<li><a href="category.jsp?name=boat-trailers-and-dollies&amp;path=-1&amp;id=1794287">Boat Trailers &amp; Dollies</a></li>
 						<li><a href="bam_problem_form.jsp">Inflatable Boat Service</a></li>
 						<li><a href="inflatable-boat-replacement-parts-including-west-marine.jsp">Boat Replacement Parts</a></li>
-						<li><a href="category.jsp?path=-1&amp;id=294">Boat Accessories</a></li>
+						<li><a href="category.jsp?name=dinghy-accessories&amp;path=-1&amp;id=294">Boat Accessories</a></li>
 						<li><a href="bam_price_list.jsp">Comparison Price Lists</a></li>
 					</ul>
 				</nav>
