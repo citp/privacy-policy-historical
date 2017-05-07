@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utsystem.edu privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211001535id_/http%3A//www.utsystem.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utsystem.edu privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507213226id_/http%3A//utsystem.edu/privacy) for the most accurate reproduction.*
 
 # Website Privacy Statement on the Collection and Use of Information Gathered from the General Public | University of Texas System
 
@@ -44,7 +44,7 @@ If a member of the general public sends System Administration an e-mail message 
 
 #### III. Notice About Information Laws and Practices
 
-With few exceptions, you are entitled on your request to be informed about the information UT System Administration collects about you. Under Sections 552.021 and 552.023 of the Texas Government Code, you are entitled to receive and review the information. Under Section 559.004 of the Texas Government Code, you are entitled to have UT System Administration correct information about you that is held by us and that is incorrect, in accordance with the procedures set forth in [University of Texas System Policy 139, "Texas Public Information Act.".](http://www.utsystem.edu/policy/policies/uts139.html)
+With few exceptions, you are entitled on your request to be informed about the information UT System Administration collects about you. Under Sections 552.021 and 552.023 of the Texas Government Code, you are entitled to receive and review the information. Under Section 559.004 of the Texas Government Code, you are entitled to have UT System Administration correct information about you that is held by us and that is incorrect, in accordance with the procedures set forth in [University of Texas System Policy 139, "Texas Public Information Act.".](https://web.archive.org/policy/policies/uts139.html)
 
 The information that UT System Administration collects will be retained and maintained as required by Texas records retention laws (Section 441.180 et seq. of the Texas Government Code) and rules. Different types of information are kept for different periods of time.
 
