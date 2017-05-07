@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpsc.gov privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125092310id_/https%3A//www.cpsc.gov/en/About-CPSC/Policies-Statements-and-Directives/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpsc.gov privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507020505id_/https%3A//www.cpsc.gov/About-CPSC/Policies-Statements-and-Directives/Privacy-Policy) for the most accurate reproduction.*
 
 # CPSC Privacy and Security Notice | CPSC.gov
 
@@ -10,7 +10,7 @@ Images on this website may have been licensed for use by CPSC from a stock photo
 
 You may freely copy and distribute recall notices, including photographs of recalled items, without permission. Any other use of photographs found in recall notices and elsewhere on CPSC websites may require permission from a copyright holder.
 
-Submit further questions about the use of specific images or other materials using this [Contact Us](https://web.archive.org/About-CPSC/Contact-Information/Contact-Specific-Offices-and-Public-Information/Information-Center/) form.
+Submit further questions about the use of specific images or other materials using this [Contact Us](https://web.archive.org/About-CPSC/Contact-Information/Contact-Specific-Offices-and-Public-Information/Information-Center) form.
 
 ### Information Collected and Stored Automatically
 
@@ -18,7 +18,7 @@ When you browse through our websites, we gather and temporarily store technical 
 
   * The name of the domain you use to access the Internet (for example, aol.com, if you are using an American Online account, or college.edu, if you are connecting from a university’s domain);
   * The date and time of your visit;
-  * The pages you visited; 
+  * The pages you visited;
   * The address of the website you came from when you came to visit;
   * The length of time of your visit;
   * The browser and operating system used in your visit.
@@ -32,14 +32,14 @@ We use this information to improve our website and provide a better user experie
 We use web measurement and customization technologies, such as cookies, to help our website function better for visitors and to better understand how the public is using our website.
 
   * We use **session** cookies to gather data for technical purposes, such as generating aggregated statistics through analytics tools about how our websites are used. We also use session cookies in the following instances: 
-    1. **Online Form Submissions** , including Section 15 reports, contact forms, Email subscription forms and query forms.
-    2. **SaferProducts.gov’s Online Reporting Form** to identify that a registered user has logged onto the site and to note that an email has been sent to a registered user who saves the report for the first time to avoid the issuance of duplicate e-mails when a report is continually saved. 
-    3. **SaferProducts.gov’s Business Portal** to identify which company a registered user would like to represent when the user is associated with more than one company. 
-    4. **Slideshare Presentations** may set a session cookie as a result of the embedded content. CPSC use of any possible information provided to us through this embedded content will be consistent with the stated usage of session cookies. If there is any more specific use that falls outside of the stated one on this page, that information will be listed directly alongside the embedded content.
 
 The information collected from this cookie is a random, computer-generated number for use regarding session continuity and website troubleshooting and is captured in CPSC web logs, which are accessible only by CPSC Information Technology staff. The cookie does not contain any Personally Identifiable Information (PII). Session cookies are temporary text files that expire when you leave our website. When cookies expire, they are automatically deleted from your computer. Web logs containing information collected from the cookie are maintained for three years. Our use of session cookies is defined as "Tier 1" usage in accordance with the OMB Memorandum (M)-10-22 [Guidance for Online Use of Web Measurement and Customization Technologies](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf). _ _ _ _
 
-  * We use multi-session cookies, a.k.a. **persistent** cookies for the following:
+    1. **Online Form Submissions** , including Section 15 reports, contact forms, Email subscription forms and query forms.
+    2. **SaferProducts.gov’s Online Reporting Form** to identify that a registered user has logged onto the site and to note that an email has been sent to a registered user who saves the report for the first time to avoid the issuance of duplicate e-mails when a report is continually saved. 
+    3. **SaferProducts.gov’s Business Portal** to identify which company a registered user would like to represent when the user is associated with more than one company.
+    4. **Slideshare Presentations** may set a session cookie as a result of the embedded content. CPSC use of any possible information provided to us through this embedded content will be consistent with the stated usage of session cookies. If there is any more specific use that falls outside of the stated one on this page, that information will be listed directly alongside the embedded content.
+  * We use multi-session cookies, a.k.a. **persistent** cookies for the following: 
     1. To perform Web measurement and analytics on all CPSC websites: This allows us to differentiate between new and returning visitors to CPSC websites.
     2. On SaferProducts.gov to continue to display search results and Web pages based upon the search and settings selected by the user. Search result preferences will be retained for 30 days from the last time the user utilized the search functionality. Site settings are retained for 30 days from the last time the user accessed the site.
     3. Embedded Flickr® slideshows. CPSC use of any possible information provided to us through this embedded content will be consistent with the stated usage. If there is any more specific use that falls outside of the stated one on this page, that information will be listed directly alongside the embedded content.
@@ -75,7 +75,7 @@ CPSC uses the following third-party applications on its websites:
 
   * Long-Tail Ad Solutions Inc’s JW Video Player ([Privacy](http://www.longtailvideo.com/privacy/))
   * ClearSpring Technologies Inc.’s AddThis Sharing Tool ([Privacy](http://www.addthis.com/privacy)): Clearspring will have access to PII only if you explicitly provide it with this information, such as asking the company to send an e-mail on your behalf. In this instance, Clearspring will use the e-mail addresses to deliver that message. Clearspring will not share this information with anyone, including CPSC, and the information will be removed automatically from its site after a short period.
-  * Yahoo’s® Flickr Embedded Slide Show ([Privacy](http://info.yahoo.com/privacy/us/yahoo/flickr/details.html)) 
+  * Yahoo’s® Flickr Embedded Slide Show ([Privacy](http://info.yahoo.com/privacy/us/yahoo/flickr/details.html))
   * Slideshare Embedded Slide Show ([Privacy](https://www.linkedin.com/legal/privacy-policy))
   * Adobe Flash Player: This tool is in use on SaferProducts.gov to give an individual the option of uploading supporting documents or photos associated with a Report of Harm. If you upload a file that contains PII, that PII will become available to CPSC staff. Only authorized CPSC personnel will have access to this information and may utilize it in investigations and other legally-authorized agency activities. This PII will not be shared outside of the agency, unless you provide explicit consent to share your name and contact information with the manufacturer or private labeler that you identified in your Report. The CPSC’s secure Consumer Product Safety Risk Management System maintains this PII for an indefinite period of time.
 
@@ -126,7 +126,7 @@ If you join one of the CPSC's email subscription lists, your email address will 
 
 ### Systems of Records
 
-The Privacy Act requires agencies to publish in the Federal Register notices of new or substantially altered [systems of records](https://web.archive.org/About-CPSC/Agency-Reports/System-of-Records/), that is, systems from which personal information, confidential or not, is retrieved by personal name or identifier.
+The Privacy Act requires agencies to publish in the Federal Register notices of new or substantially altered [systems of records](https://web.archive.org/Agency-Reports/System-of-Records), that is, systems from which personal information, confidential or not, is retrieved by personal name or identifier.
 
 CPSC reviews each system of record notice biennially to ensure it accurately describes the system of records. All systems containing PII are reviewed on an annual basis to ensure that holdings are accurate, relevant, timely and complete and necessary for the proper performance of a documented agency function.
 
@@ -138,4 +138,4 @@ Unauthorized attempts to upload information or change information on this servic
 
 ### Questions
 
-For any questions about this policy, please use this [Contact Form](https://web.archive.org/About-CPSC/Contact-Information/Contact-Specific-Offices-and-Public-Information/Information-Center/).
+For any questions about this policy, please use this [Contact Form](https://web.archive.org/About-CPSC/Contact-Information/Contact-Specific-Offices-and-Public-Information/Information-Center).
