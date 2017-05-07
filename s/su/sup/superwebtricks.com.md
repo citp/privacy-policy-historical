@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superwebtricks.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119120523id_/http%3A//www.superwebtricks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superwebtricks.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507211048id_/http%3A//www.superwebtricks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Terms | Showeblogin
 
