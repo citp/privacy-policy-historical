@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genworth.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019195946id_/https%3A//www.genworth.com/site-tools/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genworth.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507042837id_/https%3A//www.genworth.com/site-tools/privacy-policy.html) for the most accurate reproduction.*
 
 # Corporate Privacy Policy - Genworth
 
@@ -90,4 +90,4 @@ In compliance with the Health Insurance Portability and Accountability Act of 19
 
 You may obtain a copy of the revised notice by [clicking here](https://web.archive.org/dam/Americas/US/PDFs/Consumer/157407_103013.pdf) or by writing to us at Genworth Life, Privacy Compliance, P.O. Box 40005, Lynchburg, VA 24506.
 
-[Disclosure - Confidentiality for Victms of Domestic Violence](https://web.archive.org/dam/Americas/US/PDFs/Consumer/Confidentiality_Protocol_Notice.pdf)
+[Disclosure - Confidentiality for Victims of Domestic Violence](https://web.archive.org/dam/Americas/US/PDFs/Consumer/Confidentiality_Protocol_Notice.pdf)
