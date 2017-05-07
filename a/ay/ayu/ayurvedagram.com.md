@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ayurvedagram.com privacy policy that was archived on 2016-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160920030034id_/http%3A//www.ayurvedagram.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ayurvedagram.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507053905id_/http%3A//www.ayurvedagram.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ayurvedagram
 
