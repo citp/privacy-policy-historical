@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delmarvanow.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203120813id_/http%3A//static.delmarvanow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delmarvanow.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507211007id_/http%3A//static.delmarvanow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Daily Times
 
