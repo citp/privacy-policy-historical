@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookzz.org privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121210120id_/http%3A//www.bookzz.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookzz.org privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507195529id_/http%3A//www.bookzz.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
