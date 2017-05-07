@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divinewrite.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227171327id_/http%3A//www.divinewrite.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divinewrite.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507033203id_/http%3A//www.divinewrite.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for my website, products & copywriter services
 
