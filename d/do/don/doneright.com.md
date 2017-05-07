@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doneright.com privacy policy that was archived on 2016-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160830192630id_/http%3A//www.homepros.lendingtree.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doneright.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507062653id_/http%3A//homepros.lendingtree.com/Privacy) for the most accurate reproduction.*
 
 # LendingTree Home Pros
 
