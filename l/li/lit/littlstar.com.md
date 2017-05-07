@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlstar.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224133650id_/https%3A//littlstar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlstar.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507034130id_/https%3A//littlstar.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Littlstar - The World Revolves Around You
 
@@ -78,13 +78,13 @@ Pursuant to 47 U.S.C. Section 230(d), as amended, we hereby notify you that pare
 
 ##### Opt-Out
 
-If you no longer wish to receive marketing-related emails from us, you may opt out by following the “unsubscribe” instructions in the latest such message you have received or by contacting us at info@littlstar.com. If you would prefer that we not share Personal Information about you in the future with our affiliates and/or with third parties for such affiliates’ and/or third parties’ marketing purposes, you may opt out from such sharing by contacting us at info@littlstar.com. Please specify whether you are opting out of receiving messages from us or from sharing with our affiliates and third parties.
+If you no longer wish to receive marketing-related emails from us, you may opt out by following the “unsubscribe” instructions in the latest such message you have received or by contacting us at legal@littlstar.com. If you would prefer that we not share Personal Information about you in the future with our affiliates and/or with third parties for such affiliates’ and/or third parties’ marketing purposes, you may opt out from such sharing by contacting us at legal@littlstar.com. Please specify whether you are opting out of receiving messages from us or from sharing with our affiliates and third parties.
 
 We will endeavor to comply with your request as soon as reasonably practicable. Please note that if you opt out as described above, we will not be able to remove your Personal Information from the databases of our affiliates or third parties with whom we have already shared your Personal Information. If you wish to cease receiving marketing-related emails from such affiliates or third parties, please contact them directly.
 
 ##### Changing or Suppressing Personal Information
 
-If you would like to request to review, correct, update, suppress or otherwise limit our use of your Personal Information that has been previously provided to us, you may contact us by email at info@littlstar.com. We will respond to your request in accordance with applicable law. For your protection, we will only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. You also may review, correct and update certain information that you provided by logging into your Little Star Media Service account and editing your profile information.
+If you would like to request to review, correct, update, suppress or otherwise limit our use of your Personal Information that has been previously provided to us, you may contact us by email at legal@littlstar.com. We will respond to your request in accordance with applicable law. For your protection, we will only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. You also may review, correct and update certain information that you provided by logging into your Little Star Media Service account and editing your profile information.
 
 In each event, you must clearly indicate the information that you wish to have changed or suppressed. We will endeavor to comply with your request as soon as reasonably practicable and in compliance with applicable law. We may need to retain certain information for record-keeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed. Finally, we are not responsible for removing or suppressing information from the databases of third parties with whom we have already shared your Personal Information, or limiting their use of your Personal Information. If you wish to change or suppress information provided to an affiliate or third party, please contact them directly.
 
@@ -102,7 +102,7 @@ We do not represent or warrant that the Services, or any part thereof, is approp
 
 ### Contacting Us
 
-If you have any questions regarding this Privacy Policy, please contact us by email at info@littlstar.com, or please write to the following address:
+If you have any questions regarding this Privacy Policy, please contact us by email at legal@littlstar.com, or please write to the following address:
 
   * Customer Service/Privacy Policy or General Counsel
   * Little Star Media, Inc.
