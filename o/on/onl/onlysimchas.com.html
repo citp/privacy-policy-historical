@@ -1,204 +1,184 @@
-<!--The following is the downloaded HTML source of the onlysimchas.com privacy policy that was archived on 2016-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120000704id_/http%3A//www.onlysimchas.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onlysimchas.com privacy policy that was archived on 2017-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170507193801id_/http%3A//www.onlysimchas.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# onlysimchas_com: http://ogp.me/ns/fb/onlysimchas_com#">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta property="fb:pages" content="19305294073">
-<link href="http://fonts.googleapis.com/css?family=Oxygen" rel="stylesheet" type="text/css"> <!-- google font oxygen -->
-<title>OS News - This is Jewish Life</title>
-<link href="/common2/css/bootstrap.css" rel="stylesheet">
-<link href="/common2/css/bootstrap-theme.css" rel="stylesheet">
-<link href="/common2/css/style.css?30" rel="stylesheet">
-<link href="/common2/fonts/fonts.css?7" rel="stylesheet">
-<link href="/common2/css/responsive.css?19" rel="stylesheet">
-<link href="/common2/css/hacks.css" rel="stylesheet">
+<!DOCTYPE html><html ng-app="onlysimchas" ng-controller="mainCtrl" class="ng-scope"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
 
-<!--[if IE 8 ]> <body class="ie8"> <![endif]-->
-<!--[if lt IE 9]>
-<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<script src="http://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
-<![endif]-->
+	<title>OS News - This is Jewish Life</title>
 
- <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript">
-        // Facebook initialization
-        window.fbAsyncInit = function() {
-            FB.init({
-                appId      : '148788975323877', // App ID
-                channelUrl : 'http://www.onlysimchas.com/facebook_channel.php'.replace(/https?:/, ''), // Channel File
-                status     : true,
-                cookie     : true,
-                xfbml      : true
-            });
+	<meta charset="utf-8">
 
-            FB.Event.subscribe('auth.authResponseChange', function(response) {
-                if (response.authResponse) {
-                                        $.getJSON('/ajax/facebook_login.php', function (response) {
-                        if (response) {
-                            var $notification = $('<div id="auto-login-notification">Automatically logged in with Facebook.</div>').click(function () {
-                                window.location.reload();
-                            });
-                            $('body').prepend($notification);
-                            $notification.slideDown('fast', function () {
-                                setTimeout(function () {
-                                    $notification.slideUp('fast', function () {
-                                        $notification.remove();
-                                    });
-                                }, 1750);
-                            });
-                        }
-                    });
-                                    }
-            });
-        };
-        (function(d, s, id) {
-          var js, fjs = d.getElementsByTagName(s)[0];
-          if (d.getElementById(id)) return;
-          js = d.createElement(s); js.id = id;
-          js.src = "//connect.facebook.net/en_US/all.js";
-          fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));
+    <!-- Mobile Specific Metas ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-
-        // Google Double Click for Publishers initialization
-        var googletag = googletag || {};
-        googletag.cmd = googletag.cmd || [];
-        (function() {
-            var gads = document.createElement('script');
-            gads.async = true;
-            gads.type = 'text/javascript';
-            var useSSL = 'https:' == document.location.protocol;
-            gads.src = (useSSL ? 'https:' : 'http:') +
-                '//www.googletagservices.com/tag/js/gpt.js';
-            var node = document.getElementsByTagName('script')[0];
-            node.parentNode.insertBefore(gads, node);
-        })();
-
-
-        // DFP initialization
-        googletag.cmd.push(function () {
-            googletag.pubads().disableInitialLoad();
-            googletag.pubads().enableAsyncRendering();
-            googletag.enableServices();
-        });
-
-        window.OnlySimchas = {};
-
-        function debounce(fn, ms) {
-            var timeout;
-            return function() {
-                var self = this, args = arguments;
-
-                clearTimeout(timeout);
-                timeout = setTimeout(function() { fn.apply(self, args) }, ms);
-            }
-        }
-
-        var pendingAdCalls = [];
-        googletag.cmd.push(function () {
-            $(function () {
-                var $window = $(window);
-
-                setInterval(function () {
-                    if (pendingAdCalls.length > 0) {
-                        pendingAdCalls.pop()();
-                    }
-                }, 250);
-
-                $window.scroll(debounce(function () {
-                    $('.ad:not(.ad_created):in-viewport').addClass('ad_created').each(function () {
-                        var $this = $(this),
-                            data = $this.data();
-                        pendingAdCalls.push(function () {
-                            data.slot = googletag.defineSlot(data.unitName, data.sizes, $this.prop('id'));
-                            for (key in (data.targeting || {})) {
-                                if (data.targeting.hasOwnProperty(key)) {
-                                    data.slot.setTargeting(key, data.targeting[key]);
-                                }
-                            }
-                            data.slot.addService(googletag.pubads());
-                            googletag.display($this.prop('id'));
-                            googletag.on('gpt-gpt_fetched', function () {
-                                googletag.pubads().refresh([data.slot]);
-                            });
-                        });
-                    });
-                }, 100));
-                setTimeout(function () {
-                    $window.trigger('scroll');
-                }, 0);
-            });
-        });
-
-        /*
-        function prepareAds() {
-            $('.ad:not(.waypoint)').waypoint(function () {
-                var $this = $(this),
-                    data = $this.data();
-                googletag.cmd.push(function () {
-                    pendingAdCalls.push(function () {
-                        var slot = googletag.defineSlot(data.unitName, data.sizes, $this.prop('id'));
-                        for (key in data.targeting) {
-                            if (data.targeting.hasOwnProperty(key)) {
-                                slot.setTargeting(key, data.targeting[key]);
-                            }
-                        }
-                        slot.addService(googletag.pubads());
-                        googletag.display($this.prop('id'));
-                        googletag.pubads().refresh([slot]);
-                    });
-                });
-            }, {
-                triggerOnce: true,
-                offset: '100%'
-            }).addClass('waypoint');
-        }
-        */
-
-    </script>
-
-    <script type="text/javascript" src="/common2/js/jquery.js"> </script>  <!-- jquery file -->
-    <script type="text/javascript" src="/common2/js/script.js?9"> </script>  <!-- menu toogle js -->
+		        <!--[if IE]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+	<link href="/common3/css/old.css?40" rel="stylesheet">
+    <link rel="stylesheet" href="/common2/fonts/fonts.css?v=5" type="text/css">
+    <link rel="stylesheet" href="/common3/fonts/stylesheet.css?v=5" type="text/css">
+    <link rel="stylesheet" href="/common3/css/bootstrap.css?v=4" type="text/css">
+    <link rel="stylesheet" href="/common3/css/style.css?v=36" type="text/css">
+    <link rel="stylesheet" href="/common3/css/responsive.css?20" type="text/css">
+    <link rel="canonical" href="http://www.onlysimchas.com">
+    <!-- jQuery library -->
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script src="/common3/js/jquery-2.2.4.min.js" type="text/javascript"></script>
+    <script src="/common3/js/bootstrap.min.js" type="text/javascript"></script>
     <script type="text/javascript" src="/common2/js/jquery-scrolltofixed-min.js"></script>
-    <script type="text/javascript" src="/js/dfp.gpt.logger.override.js?date=20131111"></script>
-    <script type="text/javascript" src="/js/waypoints.min.js"></script>
-    <script type="text/javascript" src="/js/jquery.viewport.js"></script>
-    <script type="text/javascript" src="/common2/js/bootstrap.js"></script>
-    <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5205378011ec532d" async="async"></script>
-    <script type="text/javascript">
-    addthis_share = {
-            url_transforms : {
-              shorten:{
-                twitter:'bitly'
-              }
-            },
-            shorteners:{
-              bitly:{}
-            },
-            passthrough : {
-                twitter: {
-                    via: "onlysimchas"
-                }
-            }
-        };
-    </script>
 
-    <style type="text/css">
-.addthis-smartlayers { display:none; }
-</style>
-    <script type="text/javascript">
+    <script src="/common3/js/custom.js" type="text/javascript"></script>
+    <script src="//load.sumome.com/" data-sumo-site-id="a2b63368c4478aabdcad113d039c4c2450e2847dbb6d3652eddf5679275f6645" async="async"></script>
+	<script src="/common3/js/angular.min.js"></script>
+	<script src="/common3/js/app.js?v=14" type="text/javascript"></script>
+    <!--script type="text/javascript">
+    (function() {
+    var s = document.createElement("script");
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = '//api.usersnap.com/load/'+
+            '8bcda553-f833-44af-bde0-fc1c9c8ce159.js';
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
+    })();
+    </script-->
+	<script type="text/javascript">
+           // Facebook initialization
+           window.fbAsyncInit = function() {
+               FB.init({
+                   appId      : '148788975323877', // App ID
+                   channelUrl : 'http://www.onlysimchas.com/facebook_channel.php'.replace(/https?:/, ''), // Channel File
+                   status     : true,
+                   cookie     : true,
+                   xfbml      : true
+               });
 
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-56006-1']);
-      _gaq.push(['_trackPageview']);
+               FB.Event.subscribe('auth.authResponseChange', function(response) {
+                   if (response.authResponse) {
+                                              $.getJSON('/ajax/facebook_login.php', function (response) {
+                           if (response) {
+                               var $notification = $('<div id="auto-login-notification">Automatically logged in with Facebook.</div>').click(function () {
+                                   window.location.reload();
+                               });
+                               $('body').prepend($notification);
+                               $notification.slideDown('fast', function () {
+                                   setTimeout(function () {
+                                       $notification.slideUp('fast', function () {
+                                           $notification.remove();
+                                       });
+                                   }, 1750);
+                               });
+                           }
+                       });
+                                          }
+               });
+           };
+           (function(d, s, id) {
+             var js, fjs = d.getElementsByTagName(s)[0];
+             if (d.getElementById(id)) return;
+             js = d.createElement(s); js.id = id;
+             js.src = "//connect.facebook.net/en_US/all.js";
+             fjs.parentNode.insertBefore(js, fjs);
+           }(document, 'script', 'facebook-jssdk'));
+window.OnlySimchas={};
+</script>
+<!--
+           // Google Double Click for Publishers initialization
+           var googletag = googletag || {};
+           googletag.cmd = googletag.cmd || [];
+           (function() {
+               var gads = document.createElement('script');
+               gads.async = true;
+               gads.type = 'text/javascript';
+               var useSSL = 'https:' == document.location.protocol;
+               gads.src = (useSSL ? 'https:' : 'http:') +
+                   '//www.googletagservices.com/tag/js/gpt.js';
+               var node = document.getElementsByTagName('script')[0];
+               node.parentNode.insertBefore(gads, node);
+           })();
 
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
 
-    </script>
+           // DFP initialization
+           googletag.cmd.push(function () {
+               googletag.pubads().disableInitialLoad();
+               googletag.pubads().enableAsyncRendering();
+               googletag.enableServices();
+           });
+
+           window.OnlySimchas = {};
+
+           function debounce(fn, ms) {
+               var timeout;
+               return function() {
+                   var self = this, args = arguments;
+
+                   clearTimeout(timeout);
+                   timeout = setTimeout(function() { fn.apply(self, args) }, ms);
+               }
+           }
+
+           var pendingAdCalls = [];
+           googletag.cmd.push(function () {
+               $(function () {
+                   var $window = $(window);
+
+                   setInterval(function () {
+                       if (pendingAdCalls.length > 0) {
+                           pendingAdCalls.pop()();
+                       }
+                   }, 250);
+
+                   $window.scroll(debounce(function () {
+                       $('.ad:not(.ad_created):in-viewport').addClass('ad_created').each(function () {
+                           var $this = $(this),
+                               data = $this.data();
+                           pendingAdCalls.push(function () {
+                               data.slot = googletag.defineSlot(data.unitName, data.sizes, $this.prop('id'));
+                               for (key in (data.targeting || {})) {
+                                   if (data.targeting.hasOwnProperty(key)) {
+                                       data.slot.setTargeting(key, data.targeting[key]);
+                                   }
+                               }
+                               data.slot.addService(googletag.pubads());
+                               googletag.display($this.prop('id'));
+                               googletag.on('gpt-gpt_fetched', function () {
+                                   googletag.pubads().refresh([data.slot]);
+                               });
+                           });
+                       });
+                   }, 100));
+                   setTimeout(function () {
+                       $window.trigger('scroll');
+                   }, 0);
+               });
+           });
+
+       </script -->
+
+       <script type="text/javascript" src="/common2/js/script.js?9"> </script>  <!-- menu toogle js -->
+       <script type="text/javascript" src="/js/dfp.gpt.logger.override.js?date=20131111"></script>
+       <script type="text/javascript" src="/js/waypoints.min.js"></script>
+       <script type="text/javascript" src="/js/jquery.viewport.js"></script>
+       <!-- script type="text/javascript" src="/common2/js/bootstrap.js"></script-->
+       <!--script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5205378011ec532d" async="async"></script-->
+       <script type="text/javascript">
+       addthis_share = {
+               url_transforms : {
+                 shorten:{
+                   twitter:'bitly',
+                  facebook:'bitly'
+                 }
+               },
+               shorteners:{
+                 bitly:{}
+               },
+               passthrough : {
+                   twitter: {
+                       via: "onlysimchas"
+                   }
+               }
+           };
+       </script>
+                  <!--link href="/common2/css/addthis_responsive.css" rel="stylesheet"-->
+
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({
@@ -206,173 +186,89 @@
     enable_page_level_ads: true
   });
 </script>
+
+	<style>
+		@media (max-width: 767px) {
+			/*.stickyhead {
+			    display: none;
+			}*/
+		}
+	</style>
 </head>
+
 <body>
 
+<!-- begin section -->
+<section id="section">
 
-    <link href="/common/css/style2.css" rel="stylesheet">
-    <link href="/common/fonts/stylesheet.css" rel="stylesheet">
-    <style>
-.nav_categorie:after { background:none;}
-.adbtn  a.btn { padding: 8px 48px 5px 8px; letter-spacing: 0.01em; text-transform: uppercase; font-size: 30px; line-height: 34px; float:right; margin: 13px 18px 0 0;  color: #fff; text-decoration: none; background: #dc1b4a; box-shadow: -5px 5px 3px rgba(0,0,0,0.2); border-radius: 6px; position: relative; text-shadow: 2px 2px 8px rgba(0,0,0,0.25)  ; font-family:'GillSansMT-Condensed'}
-			.adbtn a.btn:after { content: ''; position: absolute; right: 5px; top: 6px; width: 0; height: 0; border-style: solid; border-width: 28.5px 0 28.5px 30px; border-color: transparent transparent transparent #ffffff; }
-			.adbtn a.btn:hover { background: #c10f3a; }
-			.adbtn a.btn span { display: block;  font-size: 23px; line-height: 22px; font-family: 'interstatebold'; letter-spacing: 0px; }
+	<!-- begin page-wrap -->
+	<section id="page-wrap">
 
-    @media only screen and (max-width: 1060px) {
-        #header-part{ min-width:100vw;}
-        #header-part form{ max-width:80vw;}
-        .logo img{ left:5%; right:5%; max-width: 90vw;}
-        #header-part .login { right:2px;top: 0px; z-index: 999;}
-                            .logo  { clear:both;display:block; text-align: center; width:100vw;}	
-                            .wrapper , #header-part { width:100%; }
-                            #header-part, .wrapper{ height:auto;}
-            }
+		<!-- begin header -->
+		<header id="header-wrap">
+        	<div class="container">
+
+            	<div class="logo"><a href="/"><img alt="Only Simchas" src="/common3/images/logo.png"></a></div>
+
+                <h4>This is Jewish Life.</h4>
+
+                <div class="form">
+
+                    <form action="/global-search/" method="GET" class="ng-pristine ng-valid">
+                        <input type="hidden" name="cx" value="partner-pub-1430431041508119:2923243188">
+                        <input type="hidden" name="cof" value="FORID:10">
+                        <input type="hidden" name="ie" value="UTF-8">
+                        <input id="searchtext" type="text" name="q" placeholder="SEARCH" autocomplete="off">
+                        <input type="hidden" name="action" value="search">
+                        <input type="submit" value="submit">
+                    </form>
+
+                </div>
+
+                <!-- begin menuBar -->
+                <div class="menuBar">
+
+                    <a href="#" class="menu">Menu</a>
+
+                    <div class="menus">
+
+                        <ul class="menu">
+                            <li><a href="/">Home</a></li>
+							<li><a href="/all-simchas/">all simchas</a></li>
+							<li><a href="/all-news/">all news</a></li>
+							<li><a href="/contact_us?contact=biz_dev_email#mainsec">Advertise!</a>
+                            </li><li><a href="/contact_us/">Contact</a></li>
+                            <li><a href="/add-simcha/">Add Your Simcha</a></li>
+                        </ul>
+
+                        <ul class="user">
+                            <li class="login">
+                                                    <a href="/login/">Login/Join</a>
+                    </li>
+                            <li><a href="/add-simcha/">Add Simcha</a></li>
+                        </ul>
+
+                    </div>
+
+                </div>
+        		<!-- finish menuBar -->
+
+            </div>
+			            <div class="clear"></div>
+		</header>
+		<!-- finish header -->
+
+		<!-- begin content -->
+		<section id="content-wrap" class="container">
+            <!-- begin ad block -->
+                        <article class="ad-block">
+                <script type="text/javascript">
+                document.write('<scr'+'ipt src="//onlysimchas.advertserve.com/servlet/view/banner/javascript/zone?zid=13&pid=1&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+encodeURIComponent(document.location)+'" type="text/javascript"></scr'+'ipt>');
+                </script><script src="//onlysimchas.advertserve.com/servlet/view/banner/javascript/zone?zid=13&amp;pid=1&amp;random=79205463&amp;millis=1580422555798&amp;referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20170507193801id_%2Fhttp%253A%2F%2Fwww.onlysimchas.com%2Fprivacy-policy" type="text/javascript"></script>
+            </article>
+                        <!-- finish ad block -->
+
             
-             @media only screen and (max-width: 768px) {
-                         .logo img{ left:5%; right:5%; max-width: 90vw;}
-                 #header-part form{ display:none;}
-                 .top-text, .advanced, .maillink{ display:none;}
-                 #header-part .wrapper { height:auto;}
-                 .news_categorie li{     font-size: 17px;
-                         padding: 0;
-    background: none;line-height:21px;
-    border-bottom: 1px solid #fff;
-    display: block;vertical-align: top;
-                 }
-                 .news_categorie li a { color: #fff;display:block;    padding: 7px 15px;}
-                 .news_categorie li a:hover{ color:#000;}
-                 .news_categorie li:after{ display:none;}
-             }
-             </style>
-<header id="header-part">
-    <div class="wrapper">
-        
-        <span class="top-text">This is Jewish Life.</span>
-    
-        <a href="/" class="logo"><img src="/common/images/logo.png" alt=""></a>
-        
-      <form action="/global-search/" method="GET">
-        <input type="hidden" name="cx" value="partner-pub-1430431041508119:2923243188">
-        <input type="hidden" name="cof" value="FORID:10">
-        <input type="hidden" name="ie" value="UTF-8">
-    <input id="searchtext" type="text" name="q" placeholder="SEARCH" autocomplete="off">
-    <input type="hidden" name="action" value="search">
-    <input type="submit" value="">
-            
-            </form>
-          <div class="maillink">Send Simcha Pics to <a href="mailto:simchas@onlysimchas.com">simchas@onlysimchas.com</a></div>
-        <div class="login">
-            
-                 <a href="/login/">LOGIN</a> | <a href="/login/">SIGN UP</a>
-              
-        </div>
-
-        <!--top bar-->
-        <nav class="menu-bar">
-            
-            <ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="/contact_us/">Contact</a></li>
-                <li><a href="/add-simcha/">Add Your Simcha</a></li>
-                <li><a href="/live-updates/">LIVE UPDATES</a></li>
-                <li><a href="/all-news/">all simchas</a></li>
-                <li><a href="/all-simchas/">all news</a></li>
-                <li><a href="/contact_us?contact=biz_dev_email#mainsec">Advertise!</a>
-            </li></ul>
-            
-        </nav>
-        <!--top bar-->
-    
-    </div>            
-</header>
-
-
-
-<section class="body_container">
-<div class="wrapper clearfix">
-
-<!-- END ADVERTPRO CODE -->
-<!-- no more sticky nav 
-<style>
-nav{ display:none;}
-@media(max-width:500px){
- nav{ display:block;}
-}
-</style>
-<nav>
-<a href="#" class="toggleMenu">onlysimchas! MENU</a>
-<ul>
-<li><a href="/">HOME</a></li>
-<li class="search_menu_link"><a href="/global-search/">Search</a></li>
-<li><a href="/contact_us/">Contact</a></li>
-<li><a href="/add-simcha/">Add Your Simcha</a></li>
-<li><a href="/live-updates/">LIVE UPDATES</a></li>
-<li><a href="/all-simchas/">all simchas</a></li>
-<li><a href="/all-news/">all news</a></li>
-<li><A href="/contact_us?contact=biz_dev_email#mainsec">Advertise!</A></li>
-</ul>
-</nav> nav ends -->
-
-
-<div class="nav_categorie"> <a href="#" class="news_btn">news Categories</a> <a href="#" class="simcha_btn">Simcha Categories</a>
-      <ul class="news_categorie">
-        <li><a name="mainsec" href="/all-news/jewish-world-news/">Jewish World News</a></li>
-        <li><a href="/all-news/music/">Music</a></li>
-        <li><a href="/all-news/recipes/">Food</a></li>
-        <li><a href="/all-news/humor/">HUMOR</a></li>
-        <li><a href="/all-news/holidays/">Holidays</a></li>
-        <li><a href="/all-news/diy/">DIY</a></li>
-      </ul>
-      <ul class="simcha_categorie ">
-        <li><a href="/category/engagements/">ENGAGEMENTS</a></li>
-        <li><a href="/category/weddings/">WEDDINGS</a></li>
-        <li><a href="/category/births/">BIRTHS </a></li>
-        <li><a href="/category/bat-mitzvahs/">BAT MITZVAHS</a></li>
-        <li><a href="/category/bar-mitzvahs/">BAR MITZVAHS </a></li>
-        <li><a href="/category/aliyahs/">ALIYAHS</a></li>
-      </ul>
-    </div>
-
-<script type="text/javascript">
-     $(document).ready(function() {
-      //   $("nav").scrollToFixed();
-         });
-</script>
-
-
-
-
-<div class="wide_top_masthead;  padding:1px 1px 1px 1px; "><!-- BEGIN ADVERTPRO CODE -->
-<div style="width:728px;   margin: auto;">
-<script type="text/javascript">
-document.write('<scr'+'ipt src="http://onlysimchas.advertserve.com/servlet/view/banner/unique/javascript/strip?zid=2&pid=1&total=2&layout=vertical&margin=0&padding=6&resolution='+screen.width+'x'+screen.height+'&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+encodeURIComponent((window!=top&&window.location.ancestorOrigins)?window.location.ancestorOrigins[window.location.ancestorOrigins.length-1]:document.location)+'" type="text/javascript"></scr'+'ipt>');
-</script><script src="http://onlysimchas.advertserve.com/servlet/view/banner/unique/javascript/strip?zid=2&amp;pid=1&amp;total=2&amp;layout=vertical&amp;margin=0&amp;padding=6&amp;resolution=800x600&amp;random=31857618&amp;millis=1580422552147&amp;referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20161120000704id_%2Fhttp%253A%2F%2Fwww.onlysimchas.com%2Fprivacy-policy" type="text/javascript"></script>
-</div>
-</div>
-
-
-
-
-<div class="ad_box_1" style="padding:1px 1px 1px 1px;text-align:center">
-    <div class="hp_728x90">
-   <!-- BEGIN ADVERTSERVE CODE -->
-<script type="text/javascript">
-document.write('<scr'+'ipt src="http://onlysimchas.advertserve.com/servlet/view/banner/unique/javascript/strip?zid=1&pid=1&total=3&layout=vertical&margin=0&padding=6&resolution='+screen.width+'x'+screen.height+'&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+encodeURIComponent((window!=top&&window.location.ancestorOrigins)?window.location.ancestorOrigins[window.location.ancestorOrigins.length-1]:document.location)+'" type="text/javascript"></scr'+'ipt>');
-</script><script src="http://onlysimchas.advertserve.com/servlet/view/banner/unique/javascript/strip?zid=1&amp;pid=1&amp;total=3&amp;layout=vertical&amp;margin=0&amp;padding=6&amp;resolution=800x600&amp;random=62811570&amp;millis=1580422552148&amp;referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20161120000704id_%2Fhttp%253A%2F%2Fwww.onlysimchas.com%2Fprivacy-policy" type="text/javascript"></script>
-<!-- END ADVERTSERVE CODE -->
-    </div>
-</div>
-
-    <div style="width: 1030px; margin: auto; padding-top: 5px; padding-bottom: 10px; text-align:center; display: block;">
-       <!-- BEGIN ADVERTPRO CODE -->
-        <script type="text/javascript">
-        document.write('<scr'+'ipt src="http://onlysimchas.advertserve.com/servlet/view/banner/javascript/zone?zid=13&pid=1&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+encodeURIComponent(document.location)+'" type="text/javascript"></scr'+'ipt>');
-        </script><script src="http://onlysimchas.advertserve.com/servlet/view/banner/javascript/zone?zid=13&amp;pid=1&amp;random=66520637&amp;millis=1580422552150&amp;referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20161120000704id_%2Fhttp%253A%2F%2Fwww.onlysimchas.com%2Fprivacy-policy" type="text/javascript"></script>
-    </div>
-<!-- end special check -->
-
-
 	<div class="title_top span12">
 		<h1>
 			
@@ -440,115 +336,74 @@ document.write('<scr'+'ipt src="http://onlysimchas.advertserve.com/servlet/view/
 	<span>Any violations of these Terms of Service should be immediately reported to OnlySimchas by email to our <a href="javascript:doContact('abuse');">Abuse Department</a>.</span></p>
 
 		</div>
-</div></section>
-<footer>
-<div class="wrapper">
+ 		</section>
+		<!-- finish content -->
 
-<div class="ftr_left">
-  <a href="#" class="ftr_logo"><img src="/common2/images/ftr_logo.png" alt=""></a>
-  <ul class="social_icons">
-  <li><a href="http://www.facebook.com/onlysimchas"><img src="/common2/images/circle_facebook.png" alt=""></a></li>
-  <li><a href="http://twitter.com/onlysimchas"><img src="/common2/images/circle_twitter.png" alt=""></a></li>
-  <!--li><a href="https://www.pinterest.com/OnlySimchas/only-simchas/"><img src="/common2/images/circle_p.png" alt=""></a></li-->
-  <li><a href="http://instagram.com/onlysimchas"><img src="/common2/images/Instagramicon.png" alt=""></a></li>
-  </ul>
+        <!-- begin footer -->
+		<footer id="footer-wrap" class="container">
 
-  <div class="footer_nav">
-    <div class="col">
-    <ul>
-    <li><a href="/">home</a></li>
-    <li><a href="/contact_us/">Contact</a></li>
-    <li><a href="/all-simchas/">all simchas</a></li>
-    <li><a href="/all-news/">all news</a></li>
-    <li><a href="/live-updates/">LIVE UPDATES</a></li>
-    <li><a href="/privacy-policy">Privacy Policy</a></li>
-    </ul>
-    </div>
+            <!-- begin footer block -->
+            <div class="footer-block">
 
-    <div class="col">
-    <ul>
-    <li><a href="/login/">login</a></li>
-    <li><a href="/login/">sign up</a></li>
-    </ul>
-    </div>
+                <div class="widget col-sm-5">
 
-    <div class="col">
-    <ul>
-    <li><a href="/add-simcha/">SUBMIT YOUR SIMCHA</a></li>
-    <li><a href="mailto:simchas@onlysimchas.com">submit simcha pics</a></li>
-    </ul>
-    </div>
+                    <ul class="social">
+                        <li class="facebook"><a href="https://www.facebook.com/onlysimchas" target="_blank">Facebook</a></li>
+                        <li class="twitter"><a href="https://twitter.com/onlysimchas" target="_blank">Twitter</a></li>
+                        <li class="instagram"><a href="https://www.instagram.com/onlysimchas" target="_blank">Instagram</a></li>
+                    </ul>
 
-    <div class="col">
-    <ul>
-    <!--li><a href="/app">get our app</a></li-->
-    </ul>
-    </div>
+                    <ul class="links">
+                        <li><a href="/">Home</a></li>
+						<li><a href="/all-simchas/">All Simchas</a></li>
+						<li><a href="/all-news/">All News</a></li>
+                        <li><a href="/contact_us/">Contact</a></li>
+                        <li><a href="/privacy-policy">Privacy Policy</a></li>
+                    </ul>
 
-  </div>
-</div> <!-- footer left ends -->
-<span class="adbtn">
-            <a href="/contact_us?contact=biz_dev_email#mainsec" class="btn">Your ad can be on this site! <span>Click here for more information</span></a>
-</span>
+                </div>
 
-<div class="ftr_right">
+                <div class="footerlogo col-sm-5">
 
-<h4>Don’t Be the Last to Find Out!</h4>
-<label>Enter your email address below to get Live Updates.</label>
-<!--form>
-<label>Enter your email address below to get Live Updates.</label>
-<input type="text" placeholder="Type email address here" value="">
-<input type="submit" value="submit">
-</form-->
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-  #mc_embed_signup{clear:left; font:14px Helvetica,Arial,sans-serif; }
-</style>
-<div id="mc_embed_signup">
-<form action="//onlysimchas.us2.list-manage.com/subscribe/post?u=5ef48600c5a51a1d4c2de7fc5&amp;id=d9e2c89d14" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
-    <div id="mc_embed_signup_scroll">
+                    <a href="/contact_us?contact=biz_dev_email#mainsec" class="adlink"><span>Your ad can be on this site!</span><span class="ad-f">Click here for more information</span></a>
 
-    <div class="search_box"><input type="email" value="" name="EMAIL" placeholder="Please enter your e-mail address" class="required email" id="mce-EMAIL"></div>
+                    <div class="clear"></div>
 
-  <div id="mce-responses" class="clear">
-    <div class="response" id="mce-error-response" style="display:none"></div>
-    <div class="response" id="mce-success-response" style="display:none"></div>
-  </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;"><input type="text" name="b_5ef48600c5a51a1d4c2de7fc5_d9e2c89d14" tabindex="-1" value=""></div>
-    </div>
-      <div class="submit" style="text-align:center;">
-    <div class="clear"><input type="submit" class="submit" value="Subscribe" name="subscribe" id="no-style-mc-embedded-subscribe"></div>
-    </div>
-    </form></div>
+                    <div class="footerlogoimg">
+
+                    	<a href="/"><img src="/common3/images/footer-logo.png" alt=""></a>
+
+                    </div>
+
+                    <p>OnlySimchas | Copyright 2016</p>
+
+                </div>
+
+            </div>
+            <!-- finish footer block -->
+
+		</footer>
+		<!-- finish footer -->
+
+	</section>
+	<!-- finish page wrap -->
+
+</section>
+<!-- finish section -->
+ <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-56006-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
 
 
-<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-<!--End mc_embed_signup--></div>
-
-</div>
-
-<p class="copyright">©  2016 OnlySimchas.com</p>
-
-</footer>
-<script>
-if(location.search && location.search.indexOf("block_js_redirect")>0){
-    window.onbeforeunload=function(){
-     return confirm("Confirm: Are you sure you wish to unload this page?");
-   };
-}
-</script>
-<link href="/common2/css/addthis_responsive.css" rel="stylesheet">
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-    
-
-	<!-- BEGIN ADVERTSERVE CODE -->
-	<script type="text/javascript">
-	document.write('<scr'+'ipt src="http://onlysimchas.advertserve.com/servlet/view/banner/javascript/zone?zid=11&pid=1&lightbox=true&autoclose=15&polite=false&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+encodeURIComponent((window!=top&&window.location.ancestorOrigins)?window.location.ancestorOrigins[window.location.ancestorOrigins.length-1]:document.location)+'" type="text/javascript"></scr'+'ipt>');
-	</script><script src="http://onlysimchas.advertserve.com/servlet/view/banner/javascript/zone?zid=11&amp;pid=1&amp;lightbox=true&amp;autoclose=15&amp;polite=false&amp;random=68440072&amp;millis=1580422552226&amp;referrer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20161120000704id_%2Fhttp%253A%2F%2Fwww.onlysimchas.com%2Fprivacy-policy" type="text/javascript"></script>
-	<!-- END ADVERTSERVE CODE -->
-<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 
 </body></html>
