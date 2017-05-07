@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timecardcalculator.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119020623id_/http%3A//www.timecardcalculator.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timecardcalculator.net privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507142532id_/http%3A//www.timecardcalculator.net/privacy.php) for the most accurate reproduction.*
 
 # Time Card Calculator.net Privacy Policy
 
