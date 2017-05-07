@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the 007.com privacy policy that was archived on 2016-10-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161025233540id_/http%3A//www.foxprivacy.com/us/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 007.com privacy policy that was archived on 2017-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170507034800id_/http%3A//www.foxprivacy.com/us/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://js-agent.newrelic.com/nr-974.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(u(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(2),u=t(3),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],p="api-",l=p+"ixn-";a(s,function(t,e){f[e]=o(p+e,!0,"api")}),f.addPageAction=o(p+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],2:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],3:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?u(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var s=f[m[n]];return s&&s.push([w,n,r,i]),i}function p(t,e){g[t]=l(t).concat(e)}function l(t){return g[t]||[]}function d(t){return s[t]=s[t]||o(n)}function v(t,e){c(t,function(t,n){e=e||"feature",m[n]=e,e in f||(f[e]=[])})}var g={},m={},w={on:p,emit:n,get:d,listeners:l,context:e,buffer:v};return w}function i(){return new r}var a="nr@context",u=t("gos"),c=t(2),f={},s={},p=e.exports=o();p.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!h++){var t=y.info=NREUM.info,e=s.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(m,function(e,n){t[e]||(t[e]=n)});var n="https"===g.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=t("handle"),c=t(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-974.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script> 
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
     <style type="text/css">
       body {
         margin: 40;
@@ -41,106 +41,106 @@
   <body>
     <p style="text-align: center;">To print this document, <a href="javascript:window.print()">click here</a>.
 	</p>
-    <h1>Privacy Policy<br>Effective August 26, 2015</h1>
+    <h1>Privacy Policy<br>Effective March 08, 2017</h1>
     <p>Table of Contents:
 	</p>
     <ol>
-      <li><a href="#section1">INTRODUCTION</a></li>
-      <li><a href="#section2">COLLECTION OF INFORMATION </a></li>
-      <li><a href="#section3">USE AND DISCLOSURE</a></li>
-      <li><a href="#section4">SECURITY</a></li>
-      <li><a href="#section5">USER ACCESS AND CONTROL </a></li>
-      <li><a href="#section6">OTHER IMPORTANT INFORMATION </a></li>
-      <li><a href="#section7">CONTACT US </a></li>
+      <li><a href="#section1">INTRODUCTION:</a> What and who this Policy covers</li>
+      <li><a href="#section2">COLLECTION OF INFORMATION:</a> The sources of and methods by which we, our service providers and our advertisers collect information from and about you, including information about your interaction with the Fox FE Services </li>
+      <li><a href="#section3">USE AND DISCLOSURE:</a> How we use the information we collect from and about you, and who we might share it with and why</li>
+      <li><a href="#section4">SECURITY:</a> How we protect your information from loss or misuse</li>
+      <li><a href="#section5">USER ACCESS AND CONTROL:</a> How you can access and control the information we maintain about you</li>
+      <li><a href="#section6">OTHER IMPORTANT INFORMATION:</a> Other things you should know about this Policy and how we handle your information</li>
+      <li><a href="#section7">CONTACT US:</a> How to contact Fox FE about this Policy</li>
     </ol>
 
     <h2><a name="section1">1. INTRODUCTION</a></h2>
 	<p>	
-	Fox Filmed Entertainment Group (“Fox FE” or “we”), which includes Twentieth Century Fox Film Corporation, Fox Searchlight Pictures, Inc. and Twentieth Century Fox Home Entertainment LLC, wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications (“apps”), and widgets (collectively, the “Fox FE Services”). By using Fox FE Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies (“Company Affiliates”) is available at 
+	Fox Filmed Entertainment Group (“Fox FE” or “we”), which includes Twentieth Century Fox Film Corporation, Fox Searchlight Pictures, Inc. and Twentieth Century Fox Home Entertainment LLC, wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications (“apps”), and widgets (collectively, the “Fox FE Services”). By using Fox FE Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies (“Company Affiliates”) is available at
 	<a href="http://www.21cf.com/">www.21cf.com</a>.
 	</p>
 
 	<p>
 	As set forth in our 
 	<a href="http://www.foxprivacy.com/us/terms.html">Terms of Use</a>, 
-	the Fox FE Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age. 
+	the Fox FE Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
 	</p>
 
 	<p>
-	This Privacy Policy applies to all users, including both those who use the Fox FE Services without being registered with or subscribing to a Fox FE Service and those who have registered with or subscribed to a Fox FE Service. This Privacy Policy applies to Fox FE’s collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally Fox FE’s practices for handling non-personal information (for example, interests, demographics and services usage).   
+	This Privacy Policy applies to all users, including both those who use the Fox FE Services without being registered with or subscribing to a Fox FE Service and those who have registered with or subscribed to a Fox FE Service. This Privacy Policy applies to Fox FE’s collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally Fox FE’s practices for handling non-personal information (for example, interests, demographics and services usage).  
 	</p>
 
     <h2><a name="section2">2. COLLECTION OF INFORMATION</a></h2>
 
 	<p>
-	Fox FE and our service providers collect the following information from and about you:  
+	Fox FE and our service providers collect the following information from and about you: 
 	</p>
 	<p>
 	<strong>
 	Registration Information
 	</strong>
-	 is the information you submit to register for a Fox FE Service, for example, to create an account, post comments, receive a newsletter, or enter a contest or sweepstakes. Registration Information may include, for example, name, email address, gender, zip code and birthday.
+	is the information you submit to register for a Fox FE Service, for example, to create an account, post comments, receive a newsletter, or enter a contest or sweepstakes. Registration Information may include, for example, name, email address, gender, zip code and birthday.
 	</p> 
 
 	<p>
 	<strong>
 	Public Information and Posts
 	</strong>
-	consist of comments or content that you post to the Fox FE Services and the information about you that accompanies those posts or content, which may include a name, user name, comments, likes, status, profile information and picture. Public Information and Posts are always public, which means they are available to everyone and may be displayed in search results on external search engines.
-
+	consist of comments or content that you post to the Fox FE Services and the information about you that accompanies those posts or content, which may include a name, user name, comments, likes, status, profile information and picture. Public Information and Posts are always public, which means they are available to everyone and may be displayed in search results on external search engines. 
 	</p>   
 
 	<p>
 	<strong>
 	Information from Social Media. 
 	</strong>
-	 If you access or log-in to a Fox FE Service through a social media service or connect a Fox FE Service to a social media service, the information we collect may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the social media service to share with us, such as your profile picture, email address or friends lists, and any information you have made public in connection with that social media service. When you access the Fox FE Services through social media services or when you connect a Fox FE Service to social media services, you are authorizing Fox FE to collect, store, and use such information and content in accordance with this Privacy Policy.       
+	 If you access or log-in to a Fox FE Service through a social media service or connect a Fox FE Service to a social media service, the information we collect may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the social media service to share with us, such as your profile picture, email address or friends lists, and any information you have made public in connection with that social media service. When you access the Fox FE Services through social media services or when you connect a Fox FE Service to social media services, you are authorizing Fox FE to collect, store, and use such information and content in accordance with this Privacy Policy. 
 	</p>
 
 	<p>
 	<strong>
 	Activity Information.
 	</strong>
-	When you access and interact with the Fox FE Services, Company and its service providers may collect certain information about those visits. For example, in order to permit your connection to the Fox FE Services, our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the Fox FE Services from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data (including your precise location), or other transactional information for that device. 
+	When you access and interact with the Fox FE Services, Company and its service providers may collect certain information about those visits. For example, in order to permit your connection to the Fox FE Services, our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the Fox FE Services from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data (including your precise location), or other transactional information for that device.
 	</p>
 
 	<p>
-	Cookies and other tracking technologies (such as browser cookies, pixels, beacons, and Adobe Flash technology including cookies) are comprised of small bits of data that often include a de-identified or anonymous unique identifier. Fox FE’s websites, apps and other services send this data to your browser when you first request a web page and then store the data on your computer or other device so the website or app can access information when you make subsequent requests for pages from that service. These technologies may also be used to collect and store information about your usage of the Fox FE Services, such as pages you have visited, the video and other content you have viewed, search queries you have run and advertisements you have seen. 
+	Cookies and other tracking technologies (such as browser cookies, pixels, beacons, and Adobe Flash technology including cookies) are comprised of small bits of data. Fox FE’s websites, apps and other services send this data to your browser when you first request a web page and then store the data on your computer or other device so the website or app can access information when you make subsequent requests for pages from that service. These technologies may also be used to collect and store information about your usage of the Fox FE Services, such as pages you have visited, the video and other content you have viewed, search queries you have run and advertisements you have seen.
 	</p>
 
 	<p>
-	Third parties that support the Fox FE Services by serving advertisements or providing services, such as allowing you to share content (e.g. Facebook) or tracking aggregate Fox FE Services usage statistics (e.g. Google Analytics), may also use these technologies to collect similar information when you use the Fox FE Services or third-party services. Fox FE does not control these third-party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third-party advertising networks and similar entities that use these technologies, including your choices with respect to them, see the section entitled “To deliver relevant advertisements,” below.
+	Third parties that support the Fox FE Services by serving advertisements or providing services, such as allowing you to share content (e.g. Facebook) or tracking aggregate Fox FE Services usage statistics (e.g. Google Analytics), may also use these technologies to collect similar information when you use the Fox FE Services or third-party services. These third parties may also use these technologies, along with activity information they collect, to recognize you across the devices you use, such as a mobile device and a laptop or other computer.  Fox FE does not control these third-party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third-party advertising networks and similar entities that use these technologies, including your choices with respect to them, see the section entitled “To deliver relevant advertisements,” below. 
 	</p>
 
 	<p>
-Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information. Users can manage the use of Flash technologies, with the Flash management tools available at Adobe’s website, see
-<a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html</a>.   
-Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the Fox FE Services.
+	Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information. Users can manage the use of Flash technologies, with the Flash management tools available at Adobe’s website, see
+	<a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html</a>.   
+	Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the Fox FE Services.
 	</p>
 
 	<p>
 	<strong>
 	Information from Other Sources.
 	</strong>
-	 We may supplement the information we collect with information from other sources, such as publicly available information from social media services, commercially available sources and information from our Company Affiliates or business partners.
+	We may supplement the information we collect with information from other sources, such as publicly available information from social media services, commercially available sources and information from our Company Affiliates or business partners.
 	</p>
 	
 	<p>
 	<strong>
 	Do Not Track Signals.
 	</strong>
-	At this time we do not respond to browser 'Do Not Track' signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted. 
+	At this time we do not respond to browser 'Do Not Track' signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted.
 	</p>
 	
 
     <h2><a name="section3">3. USE AND DISCLOSURE</a></h2>
     <p>
-	We use the information we collect from and about you to provide the Fox FE Services and features to you, including: to measure and improve those Fox FE Services and features; to improve your experience with both online and off-line Fox FE Services by delivering content you will find relevant and interesting, including advertising and marketing messages; to allow you to comment on content, and participate in online games, contests, or rewards programs; to provide you with customer support and to respond to inquiries. In order to provide you with content and advertising that is more interesting and relevant to you, we may use the information from and about you to make inferences and predictions about your potential areas of interest. When the information collected from or about you does not identify you as a specific person, we may use that information for any purpose or share it with third parties. 
+	We use the information we collect from and about you to provide the Fox FE Services and features to you, including: to measure and improve those Fox FE Services and features and to develop new products and services; to improve your experience with both online and off-line Fox FE Services by delivering content you will find relevant and interesting, including advertising and marketing messages; to allow you to comment on content, and participate in online games, contests, other promotions, or rewards programs; to provide you with customer support and to respond to inquiries. In order to provide you with content and advertising that is more interesting and relevant to you, we may use the information from and about you to make inferences and predictions about your potential areas of interest. When the information collected from or about you does not identify you as a specific person, we may use that information for any purpose or share it with third parties, to the extent permitted by applicable law. 
 	</p>
 	<p>
+	
 	We use the information we collect from and about you for these additional purposes: 
-
 	</p>
+	
 	<p>
 	<strong>
 	To allow service providers to assist us in providing and managing the Fox FE Services.
@@ -152,7 +152,7 @@ Please note that by blocking any or all cookies you may not have access to certa
 	<strong>
 	To allow social sharing functionality. 
 	</strong>
-	If you log in with or connect a social media service account with Fox FE Services, we may share your user name, picture, and likes, as well as your activities and comments with other Fox FE Services users and with your friends associated with your social media service. We may also share the same information with the social media service provider. By logging in with or connecting your Fox FE Services account with a social media service, you are authorizing us to share information we collect from and about you with the social media service provider, other users and your friends and you understand that the social media service’s use of the shared information will be governed by the social media service’s privacy policy. If you do not want your personal information shared in this way, please do not connect your social media service account with your Fox FE Services account and do not participate in social sharing on Fox FE Services. 
+	If you log in with or connect a social media service account with Fox FE Services, we may share your user name, picture, and likes, as well as your activities and comments with other Fox FE Services users and with your friends associated with your social media service. We may also share the same information with the social media service provider. By logging in with or connecting your Fox FE Services account with a social media service, you are authorizing us to share information we collect from and about you with the social media service provider, other users and your friends and you understand that the social media service’s use of the shared information will be governed by the social media service’s privacy policy. If you do not want your personal information shared in this way, please do not connect your social media service account with your Fox FE Services account and do not participate in social sharing on Fox FE Services.
 	</p>
 
 	<p>
@@ -166,13 +166,13 @@ Please note that by blocking any or all cookies you may not have access to certa
 	<strong>
 	To deliver relevant advertisements.
 	</strong>
-	Fox FE and our service providers may use the information we collect from and about you to deliver relevant ads to you when you use the Fox FE Services or another service. As noted above, third-party advertising networks and advertisers may use cookies and similar technologies to collect and track information such as demographic information, inferred interests, aggregated information, and activity to assist them in delivering advertising that is more relevant to your interests. To find out more about third-party advertising networks and similar entities that use these technologies, see
-	<a href="http://www.aboutads.info/consumers">www.aboutads.info/consumer</a>.
-	If you would like to opt-out of such ad networks’ and services’ advertising practices, go to
+	Fox FE and our service providers may use the information we collect from and about you to deliver relevant ads to you when you use the Fox FE Services (on any of your devices) or another service. As noted above, third-party advertising networks and advertisers may use cookies and similar technologies to collect and track information such as demographic information, inferred interests, aggregated information, and information the different devices you use and your activity on such devices, to assist them in delivering advertising that is more relevant to your interests. To find out more about third-party advertising networks and similar entities that use these technologies, see
+	<a href="http://www.aboutads.info/consumers">www.aboutads.info/consumers</a>.
+	If you would like to opt-out of such ad networks’ and services’ advertising practices on the particular device on which you are accessing this policy, go to 
 	<a href="http://www.aboutads.info/choices">www.aboutads.info/choices</a>
-	to opt-out in desktop and mobile web browsers.  You may download the AppChoices app at
+	to opt-out in desktop and mobile web browsers. You may download the AppChoices app at
 	<a href="http://www.aboutads.info/appchoices">www.aboutads.info/appchoices</a>
-	to opt-out in mobile apps.  To opt-out of Google Analytics specifically, go to 
+	to opt-out in mobile apps. To opt-out of Google Analytics specifically, go to
 	<a href="https://tools.google.com/dlpage/gaoptout">https://tools.google.com/dlpage/gaoptout</a>.
 	</p>
 	
@@ -199,7 +199,7 @@ Please note that by blocking any or all cookies you may not have access to certa
 	<strong>
 	To protect the rights of Fox FE and others. 
 	</strong>
-	There may be instances when Fox FE may use or disclose your information, including situations where Fox FE has a good faith belief that such use or disclosure is necessary in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or property of Fox FE, our Company Affiliates or their employees, agents and contractors (including enforcement of our agreements and our terms of use); (ii) protect the safety, privacy, and security of users of the Fox FE Services or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process; or (v) respond to requests from public and government authorities.  
+	There may be instances when Fox FE may use or disclose your information, including situations where Fox FE has a good faith belief that such use or disclosure is necessary in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or property of Fox FE, our Company Affiliates or their employees, agents and contractors (including enforcement of our agreements and our terms of use); (ii) protect the safety, privacy, and security of users of the Fox FE Services or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process; or (v) respond to requests from public and government authorities. 
 	</p>
 	<p>
 	<strong>
@@ -211,23 +211,23 @@ Please note that by blocking any or all cookies you may not have access to certa
 
     <h2><a name="section4">4. SECURITY</a></h2>
     <p>
-	Fox FE uses commercially reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification. However, no one can guarantee the complete safety of your information.   	
+	Fox FE uses commercially reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification. However, no one can guarantee the complete safety of your information.  	
 	</p>
     <h2><a name="section5">5. USER ACCESS AND CONTROL</a></h2>
 	<p>
 	If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us as outlined in Section 7. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update, or suppress. We will try to comply with your request as soon as reasonably practicable. 
 	</p>
 	<p>
-	You may request that we not share your personal information on a going-forward basis with Company Affiliates or unaffiliated third parties for their direct marketing purposes by sending an email to 
+	You may request that we not share your personal information on a going-forward basis with Company Affiliates or unaffiliated third parties for their direct marketing purposes by sending an email to
 	<a href="mailto:californiaprivacy@foxcustomercare.com">californiaprivacy@foxcustomercare.com</a>,
 	with “Fox: Disclosure Opt-out” in the subject line. Please include your full name, email address, postal address and the relevant Fox FE Service in the body of the email. We will try to comply with your request(s) as soon as reasonably practicable. 
 	</p>
 	<p>
 	<strong>Deletion Rights of Minors.
 	</strong>
-	 If you are an eligible registered user under 18, you may ask us to remove content or information that you have posted to the Fox Services by writing to
-	 <a href="mailto:privacypolicy@foxhome.com">privacypolicy@foxhome.com.</a>
-	Please note that your request does not ensure complete or comprehensive removal of the content or information, as, for example, some of your content may have been reposted by another user. 
+	If you are under 18 and a registered user of the Fox FE Services, you may ask us to remove content or information that you have posted to the Company Services by writing to
+	<a href="mailto:privacypolicy@foxhome.com">privacypolicy@foxhome.com.</a>
+	Please note that your request does not ensure complete or comprehensive removal of the content or information, as, for example, some of your content may have been reposted by another user.
 	</p>
 
     <h2><a name="section6">6. OTHER IMPORTANT INFORMATION</a></h2>
@@ -236,21 +236,21 @@ Please note that by blocking any or all cookies you may not have access to certa
 	<strong>
 	Updates to Privacy Policy.
 	</strong>
-	Fox FE may modify this Privacy Policy. Please look at the Effective Date at the top of this Privacy Policy to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Fox FE Services. 
+	Fox FE may modify this Privacy Policy. Please look at the Effective Date at the top of this Privacy Policy to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Fox FE Services.
 	</p>
 	
 	<p>
 	<strong>
 	Location of Data.
 	</strong>
-	The Fox FE Services are hosted in and managed from the United States. If you are a user located outside the United States, you understand and consent to having any personal information processed in the United States. United States data protection and other relevant laws may not be the same as those in your jurisdiction. This includes the use of cookies and other tracking technologies as described above. As a result, please read this Privacy Policy with care.
+	The Fox FE Services are hosted in and managed from the United States. If you are a user located outside the United States, you understand and consent to having any personal information processed in the United States. United States data protection and other relevant laws may not be the same as those in your jurisdiction.  This includes the use of cookies and other tracking technologies as described above. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in the United States may be entitled to access your personal information.  As a result, please read this Privacy Policy with care.
 	</p>
 	
 	<p>
 	<strong>
 	Linked Services.
 	</strong>
-	The Fox FE Services may also be linked to sites operated by unaffiliated companies, and may carry advertisements or offer content, functionality, games, newsletters, contests or sweepstakes, or applications developed and maintained by unaffiliated companies. Fox FE is not responsible for the privacy practices of unaffiliated companies, and once you leave the Fox FE Services or click an advertisement you should check the applicable privacy policy of the other service.  
+	The Fox FE Services may be linked to sites operated by unaffiliated companies, and may carry advertisements or offer content, functionality, games, newsletters, contests or sweepstakes, or applications developed and maintained by unaffiliated companies. Fox FE is not responsible for the privacy practices of unaffiliated companies, and once you leave the Fox FE Services or click an advertisement you should check the applicable privacy policy of the other service. 
 	</p>
 	<p>	
 	In addition, Fox FE is not responsible for the privacy or data security practices of other organizations, such as Facebook, Tumblr, Twitter, Apple, Google, Microsoft or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider, or device manufacturer, including in connection with any information you disclose to other organizations through or in connection with the Fox FE Services.
@@ -259,7 +259,7 @@ Please note that by blocking any or all cookies you may not have access to certa
 	<strong>
 	Collection of Personal Financial Information by a Payment Service. 
 	</strong>	
-	In some cases, we may use an unaffiliated payment service to allow you to purchase a product or make payments (“Payment Service”). If you wish to purchase a product or make a payment using a Payment Service, you will be directed to a Payment Service webpage. Any information that you provide to a Payment Service will be subject to the applicable Payment Service's privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, any Payment Service's use of information collected through any Payment Service. 
+	In some cases, we may use an unaffiliated payment service to allow you to purchase a product or make payments (“Payment Service”). If you wish to purchase a product or make a payment using a Payment Service, you will be directed to a Payment Service webpage. Any information that you provide to a Payment Service will be subject to the applicable Payment Service's privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, any Payment Service's use of information collected through any Payment Service.  
 	</p>
 
 	<p>
@@ -276,7 +276,7 @@ Please note that by blocking any or all cookies you may not have access to certa
 	<strong>
 	Sensitive Information.
 	</strong>
-	We ask that you not send us, and you not disclose, any sensitive personal information (such as social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Fox FE Services or otherwise. 
+	We ask that you not send us, and you not disclose, any sensitive personal information (such as social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Fox FE Services or otherwise.
 	</p>
 
 	
@@ -286,13 +286,13 @@ Please note that by blocking any or all cookies you may not have access to certa
     <p>Email: <a href="mailto:privacypolicy@foxhome.com">privacypolicy@foxhome.com</a>
 	</p>
     <p>
-	Mail: C/O Twentieth Century Fox Home Entertainment Online<br>
+	Mail: C/O Fox Filmed Entertainment Online<br>
     2816 Columbia Street<br>
 	Torrance, CA 90503
 	</p>
   
 
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"21de4c302c","applicationID":"16831188","transactionName":"M1xaMRdXWhdTU0NYXgoWbRcMGUEXHUBFWEcFWkFLDUJZCA==","queueTime":0,"applicationTime":0,"atts":"HxtZR19NSRk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
 
 </body></html>
