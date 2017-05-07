@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apesir.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206102129id_/http%3A//apesir.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apesir.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507051248id_/http%3A//apesir.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ape Sir
 
