@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the physicsforums.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226183743id_/https%3A//www.physicsforums.com/threads/physics-forums-privacy-policy.797829) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physicsforums.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507173745id_/https%3A//www.physicsforums.com/threads/physics-forums-privacy-policy.797829) for the most accurate reproduction.*
 
 # Physics Forums Privacy Policy | Physics Forums - The Fusion of Science and Community
 
@@ -26,7 +26,7 @@
 > 
 > Every time you visit a web page, you send a lot of information to the web server. Most web servers routinely maintain access logs with a portion of this information, which can be used to get an overall picture of what pages are popular, what other sites link to this one, and what web browsers people are using. It is not the intention of Physicsforums.com to use this information to keep track of legitimate users. These logs are used to produce the site statistics pages; the raw log data is not made public, and is normally discarded after about two weeks. Here's a sample of what's logged for one page view:
 > 
-> Code (Text): 64.164.82.142 - - [21/Oct/2003:02:03:19 +0000] "GET /index.html" 200 18084 "https://www.physicsforums.com/index.html" "Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/85.7 (KHTML, like Gecko) Safari/85.5"
+> Code (Text): 64.164.82.142 - - [21/Oct/2003:02:03:19 +0000] "GET /index.html" 200 18084 "[PLAIN]https://www.physicsforums.com/index.html"[/PLAIN] [Broken] "Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/85.7 (KHTML, like Gecko) Safari/85.5"
 > 
 > Log data may be examined by developers in the course of solving technical problems and in tracking down badly-behaved web spiders that overwhelm the site. IP addresses of users, derived either from those logs or from records in the database are frequently used to correlate usernames and network addresses of edits in investigating abuse of the site, including the suspected use of malicious "sockpuppets" (duplicate accounts), vandalism, harassment of other users, or disruption of the site.
 > 
@@ -58,13 +58,13 @@
 > 
 > Physicsforums.com does not guarantee that a name will be changed on request. 
 
-Last edited: Feb 14, 2015
+Last edited: May 7, 2017 at 7:58 AM
 
   2. 
   
 
 
-Can you help with the solution or looking for help too? __  
+Can you offer guidance or do you also need help? __  
 
 
   
