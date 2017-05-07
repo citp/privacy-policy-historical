@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secp.gov.pk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119174120id_/https%3A//www.secp.gov.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secp.gov.pk privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507083256id_/https%3A//www.secp.gov.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SECP
 
@@ -41,3 +41,5 @@ The SECP may at any time revise or update this policy without notice. We may inf
 The SECP’s website includes links to websites operated by other government agencies, non-profit organizations and private businesses. When you link to another site, the SECP Privacy Policy will not apply. However, you may be subject to the Privacy Policy of that new website, if one exists. In no any way the SECP is responsible for the privacy practices or content of external websites.
 
 Providing any links to the SECP website from another website must be done keeping in view the general standards and the corporate image of the SECP’s website. Any site containing unlawful, infringing, defamatory or obscene material or information which provides a link to the SECP website may be asked to remove the link or face legal consequences.
+
+﻿ 
