@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyduplicatefinder.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015938id_/http%3A//www.easyduplicatefinder.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyduplicatefinder.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507185826id_/http%3A//www.easyduplicatefinder.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Easy Duplicate Finder™ - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ## PRIVACY NOTICE
 
-WebMinds, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@webminds.com.  If you are not satisfied with our response you can contact TRUSTe here. The TRUSTe program covers only information that is collected through the English version of this Web site, and does not cover information that may be collected through software downloaded from the site, or translated versions of the site.
+WebMinds, Inc. has been awarded DL Shield's Privacy Seal signifying that this privacy policy and practices have been reviewed by DL Shield for compliance with DL Shield's program requirements including transparency, accountability and choice regarding the collection and use of your personal information.  DL Shield's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@webminds.com.  If you are not satisfied with our response you can contact DL Shield here. The DL Shield program covers only information that is collected through the English version of this Web site, and does not cover information that may be collected through software downloaded from the site, or translated versions of the site.
 
 This privacy notice discloses the privacy practices for site’s owned by WebMinds, Inc. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
