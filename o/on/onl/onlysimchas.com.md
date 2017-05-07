@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlysimchas.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120000704id_/http%3A//www.onlysimchas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlysimchas.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507193801id_/http%3A//www.onlysimchas.com/privacy-policy) for the most accurate reproduction.*
 
 # OS News - This is Jewish Life
 
