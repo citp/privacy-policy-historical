@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steepbookmarks.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025042101id_/http%3A//www.steepbookmarks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steepbookmarks.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507034243id_/http%3A//www.steepbookmarks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,4 +58,4 @@ This website may use social sharing buttons which help share web content directl
 
 * * *
 
-[Back to Home](https://web.archive.org/web/20161025042101id_/http%3A//www.steepbookmarks.com/)
+[Back to Home](https://web.archive.org/web/20170507034243id_/http%3A//www.steepbookmarks.com/)
