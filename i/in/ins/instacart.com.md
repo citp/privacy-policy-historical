@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instacart.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224133227id_/https%3A//www.instacart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instacart.com privacy policy that was archived on 2017-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170507224428id_/https%3A//www.instacart.com/privacy) for the most accurate reproduction.*
 
 # Instacart
 
