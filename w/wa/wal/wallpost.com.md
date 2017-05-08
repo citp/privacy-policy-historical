@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpost.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216064717id_/https%3A//www.wallpost.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpost.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508022108id_/https%3A//www.wallpost.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Wallpost | Privacy Policy
 
