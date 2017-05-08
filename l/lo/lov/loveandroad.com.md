@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveandroad.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122102129id_/http%3A//loveandroad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveandroad.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509004755id_/http%3A//loveandroad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Love & Road
 
@@ -11,6 +11,10 @@ Despite our best efforts to provide accurate content and information, we are not
 **Linked Websites**
 
 We hold no  responsibility for any material on any website linked to on this site.
+
+**Affiliate Links**
+
+Some of our links are affiliated,  we will earn a commission when you buy a service or product. This will have no extra cost for you.
 
 **Copyright Notice**
 
