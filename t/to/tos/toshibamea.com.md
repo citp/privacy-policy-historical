@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toshibamea.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120120654id_/http%3A//www.toshibamea.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toshibamea.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509014021id_/http%3A//www.toshibamea.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Toshiba in the Middle East
 
