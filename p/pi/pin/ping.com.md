@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ping.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226123055id_/http%3A//www.ping.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ping.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508221015id_/http%3A//www.ping.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # PING
 
