@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the westarenergy.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402045445id_/https%3A//www.westarenergy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westarenergy.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508150348id_/https%3A//www.westarenergy.com/privacy-policy) for the most accurate reproduction.*
 
 # Westar Energy, Inc. privacy policy
 
 ### Westar Energy, Inc. privacy policy
 
-Effective date of policy: Aug. 27, 2015
+Policy revised: Aug. 27, 2015
 
 Westar Energy, Inc. is committed to safeguarding your privacy on its Web sites located at www.westarenergy.com.  This Westar Energy Privacy Policy does not apply to products or services provided, or information obtained, other than through Westar Energy Web sites.  Please read the following policy to understand how your information will be treated.  Westar Energy may modify this policy from time to time by posting a revised policy at this Web site address, so please check back periodically.  When this policy is modified, if the modifications are significant, we will display the following next to the link to the policy at the Web sites: "[RECENTLY REVISED]", for a period of thirty (30) days following the posting.  Please keep in mind that some of the services mentioned specifically in this policy may not be available on our sites at this time.  If you have questions concerning this policy, please contact Westar Energy at [corpcomm@westarenergy.com](mailto:corpcomm@westarenergy.com).  The Westar Energy Web sites are not for use by children under the age of 13. 
 
