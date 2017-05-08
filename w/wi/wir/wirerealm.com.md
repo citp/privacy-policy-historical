@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirerealm.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120123927id_/http%3A//www.wirerealm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirerealm.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508210739id_/http%3A//www.wirerealm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Wire Realm
 
@@ -41,6 +41,8 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 **Third party links**
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+Wire Realm is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
 **Childrens Online Privacy Protection Act Compliance**
 
