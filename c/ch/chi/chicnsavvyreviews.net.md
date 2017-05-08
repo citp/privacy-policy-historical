@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicnsavvyreviews.net privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221152035id_/http%3A//chicnsavvyreviews.net/blog-disclosure-photo-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicnsavvyreviews.net privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508064148id_/http%3A//chicnsavvyreviews.net/blog-disclosure-photo-disclaimer) for the most accurate reproduction.*
 
 # Privacy Policy - Chicnsavvy Reviews
 
