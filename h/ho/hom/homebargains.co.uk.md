@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebargains.co.uk privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230175629id_/http%3A//www.homebargains.co.uk/privacyinfo.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebargains.co.uk privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508232829id_/http%3A//homebargains.co.uk/privacyinfo.aspx) for the most accurate reproduction.*
 
 # Home Bargains. Privacy Policy
 
