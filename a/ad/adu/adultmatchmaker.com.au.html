@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adultmatchmaker.com.au privacy policy that was archived on 2016-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161201080324id_/http%3A//www.adultmatchmaker.com.au/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adultmatchmaker.com.au privacy policy that was archived on 2017-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170508115113id_/http%3A//www.adultmatchmaker.com.au/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -10,11 +10,11 @@
 <meta name="description" content="AdultMatchMaker.com.au privacy policy. This document explains how we collect, use and disclose your personal information in connection with our service.">
 
 
-
-
+    <meta name="msvalidate.01" content="DB4DFB72F5AE32AA69C9B255884C24D4">
 
         <meta name="robots" content="index,follow,noodp,noydir">
         <meta name="revisit-after" content="7 days">
+<meta name="pinterest" content="nopin">
 
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -105,7 +105,7 @@
 <script type="text/javascript" src="/Js/jquery/jquery.ui.datepicker-globalization.js?v=07C506E94928F27E503E0F85E0B73DF1"></script>
 <script type="text/javascript" src="/Js/Site.js?v=DC375DF0EEB5653928BECA9658077F4A"></script>
 <script type="text/javascript" src="/Js/notifications.js?v=7A10F84253F66729F85A5700463E1719"></script>
-<script type="text/javascript" src="/Js/utils.js?v=4FC1830FFC5A8B93637BF9D8D88B249C"></script>
+<script type="text/javascript" src="/Js/utils.js?v=5FA3E02408A268A81D252E280072BAEC"></script>
 <script type="text/javascript" src="/Js/knockout-2.2.1.js?v=8764A417A2BC3EA8ABD0E7FB7153BF00"></script>
 <script type="text/javascript" src="/Js/knockout-repeat.js?v=70AD44206165EDBA6A7F7CBB5FACE0DB"></script>
 <script type="text/javascript" src="/Js/jquery/jquery.validate.min.js?v=A39AA7A120DC457A7158F93300343080"></script>
@@ -118,7 +118,8 @@
 
 
 <script type="text/javascript">
-	
+    //<![CDATA[    
+    
 					function mainmenu() {
 						$('.nav-main ul').css({ display: 'none' }); // Opera Fix
 						$('.nav-main li').hover(
@@ -128,21 +129,20 @@
 					}
 
 					$(mainmenu);
-	$(function() {
-		$('[data-default-focus=true]:visible').focus();
-		$('[data-aside-url]').hide().delay(2000).each(function() {
-			var $div = $(this);
-			$div.load($div.data("aside-url"), function() { $div.fadeIn("slow"); });
-		});
-	});
-	if ($.validator && $.validator.unobtrusive) {
-		$.validator.unobtrusive.adapters.addBool("mandatory", "required");
-	}
+    $(function() {
+        $('[data-default-focus=true]:visible').focus();
+        $('[data-aside-url]').hide().delay(2000).each(function() {
+            var $div = $(this);
+            $div.load($div.data("aside-url"), function() { $div.fadeIn("slow"); });
+        });
+    });
+    if ($.validator && $.validator.unobtrusive) {
+        $.validator.unobtrusive.adapters.addBool("mandatory", "required");
+    }
 
-	
+    
+    //]]>
 </script>
-
-
 
 
 
@@ -150,7 +150,18 @@
     $(function() {
         $(document.body).on('click',"[data-ajaxaction]", function() {
             var action = $(this).data().ajaxaction;
-            $.ajaxCall(action, {});
+            if ($(this).data().openwindow) {
+                window.open(action, '', $(this).data().openwindow);
+                window.setTimeout(function(){location.reload();}, 1000);
+                return;
+            }
+
+            //var img = $('<div data-progress="1" style="background-color:white;z-index:100; position:absolute;opacity:0.5; display:table-cell; vertical-align:middle; text-align:center"><img src="/images/indicator.gif" style="width: 16px; height: 16px;" /></div>');
+            //var position = $(this).position();
+            //img.css( {left:position.left, top:position.top, width:$(this).outerWidth(true), height:$(this).outerHeight(true) });
+            //img.insertAfter($(this));
+
+            $.ajaxCall(action, {isAjax: true}, $(this));
         });
 
         $('select[data-behaviour=submit-form]').change(function(){ $(this).closest('form').submit();});
@@ -187,8 +198,8 @@
 
 
 <body>
-    
-    <!-- Google Tag Manager -->
+
+<!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KLM7QH"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -203,11 +214,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!--END: Bing Ads UET Javascript tag-->
 
 
-    <!--[if lt IE 8]>
-        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-    <![endif]-->
+<!--[if lt IE 8]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
 
-    <div id="wrap">
+<div id="wrap">
 
 
 
@@ -217,9 +228,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 
 
-
 <div class="l-constrained">
-        <div class="user-links authenticated">
+    
+    <div class="user-links authenticated">
             <ul class="nav-items inline-nav">
                         <li class="nav-item get-started"><a href="/signup" title="Register Now">Register</a></li>
                         <li class="nav-item"><a href="/account/logon" title="Member login">Login</a></li>
@@ -227,10 +238,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
     
     <div class="logo-wrap">
-        
-        	<div class="logo">
-		<a href="http://www.adultmatchmaker.com.au" title="Adult Match Maker">
-			<img src="/images/logo-au.png" class="logo-img" alt="Adult Match Maker Logo"></a><span class="tag-line">It's only natural</span>	</div>
+        	    <div class="logo">
+		    <a href="/" title="Adult Match Maker">
+			    <img src="/images/logo-au.png" class="logo-img" alt="Adult Match Maker Logo"></a><span class="tag-line">It's only natural</span>	    </div>
 
     </div>
 </div>
@@ -239,17 +249,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </header>
 
-        <div class="nav-strip">
-            <div class="l-constrained clearfix">
+    <div class="nav-strip">
+        <div class="l-constrained clearfix">
 
-                
+            
 
-                <a href="#" class="mobile-nav" title="Open navigation menu">
-                    <img src="/images/icon-hamburger-white.png" alt="Navigation icon">
-                </a>
-                <nav id="main-nav" role="navigation">
-                    <ul class="nav-list nav-main">
-<li class="online-users"><a href="/search/onlineusers" title="See who's online!">Online (1,595)</a></li>
+            <a href="#" class="mobile-nav" title="Open navigation menu">
+                <img src="/images/icon-hamburger-white.png" alt="Navigation icon">
+            </a>
+            <nav id="main-nav" role="navigation">
+                <ul class="nav-list nav-main">
+<li class="online-users"><a href="/search/onlineusers" title="See who's online!">Online (1,791)</a></li>
 <li><a href="/publichome">Home</a></li>
 
 <li><a href="/search">Search</a></li>
@@ -274,6 +284,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li><a href="/events">Events</a><ul class="dropdown" style="display: none;">
 <li><a href="/events">Events</a></li>
 
+<li><a href="/clubs">Clubs &amp; Groups</a></li>
+
 <li><a href="/travel">Travel Events</a></li>
 
 </ul>
@@ -284,23 +296,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </ul>
 
-                </nav>
-                <nav id="secondary-nav" role="navigation">
-                    <ul class="nav-list nav-secondary">
-                        <li><a href="/search">Search</a></li>
-                    </ul>
-                </nav>
+            </nav>
+            <nav id="secondary-nav" role="navigation">
+                <ul class="nav-list nav-secondary">
+                    <li><a href="/search">Search</a></li>
+                </ul>
+            </nav>
 
-                
+            
 
-            </div>
         </div>
+    </div>
 
-            <div class="content-wrap">
-                <main id="content" class="l-constrained clearfix" role="main">
-                    
-                    
-
+        <div class="content-wrap">
+            <main id="content" class="l-constrained clearfix" role="main">
+                
+                
 
 
 <div class="l-rc">
@@ -561,18 +572,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	</div>
 </div>
 
-                </main>
-            </div>
+            </main>
+        </div>
 
-            <footer id="footer" role="contentinfo">
+        <footer id="footer" role="contentinfo">
 
-                
-
-
+            
 <div class="row l-constrained fluid clearfix">
-    	<div class="logo">
-		<a href="http://www.adultmatchmaker.com.au" title="Adult Match Maker">
-			<img src="/images/logo-grayscale.png" class="logo-img" alt="Adult Match Maker Logo"></a><span class="tag-line">It's only natural</span>	</div>
+    	    <div class="logo">
+		    <a href="/" title="Adult Match Maker">
+			    <img src="/images/logo-grayscale.png" class="logo-img" alt="Adult Match Maker Logo"></a><span class="tag-line">It's only natural</span>	    </div>
 
     <div class="social-badges">
         <nav class="inline-nav">
@@ -625,6 +634,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <li class="nav-item"><a href="/blog/topic/5/swingers" title="Swingers articles">Swingers</a></li>
                     <li class="nav-item"><a href="/blog/topic/7/media-spotlight" title="Media Spotlight articles">Media Spotlight</a></li>
                     <li class="nav-item"><a href="/blog/topic/8/q-a-let-s-talk-about-sex" title="Q&amp;A: Let's Talk About Sex articles">Q&amp;A: Let's Talk About Sex </a></li>
+                    <li class="nav-item"><a href="/blog/topic/9/healthy-lifestyle" title="Healthy Lifestyle articles">Healthy Lifestyle</a></li>
                 </ul>
                 <h3>About Adult Match Maker</h3>
                 <ul class="nav-items">
@@ -670,17 +680,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </section>
 </div>
 
-                <div class="footnote">
-                    <div class="l-constrained clearfix fluid">
-                        <p>The 'adult match maker' and 'adultmatchmaker.com.au' logos are registered trademarks of Giga Pty Ltd</p><p><strong>Disclaimer:</strong> All members and persons appearing on this site have contractually represented to us that they are 18 years of age or older.</p><p>
+            <div class="footnote">
+                <div class="l-constrained clearfix fluid">
+                    <p>The 'adult match maker' and 'adultmatchmaker.com.au' logos are registered trademarks of Giga Pty Ltd</p><p><strong>Disclaimer:</strong> All members and persons appearing on this site have contractually represented to us that they are 18 years of age or older.</p><p>
 
-                    </p></div>
-                </div>
+                </p></div>
+            </div>
 
-                
-                
-            </footer>
-    </div>
+            
+            
+        </footer>
+</div>
+<div data-ajaxresult=""></div>
 
 
 </body></html>
