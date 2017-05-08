@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgtec.com privacy policy that was archived on 2016-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161002224216id_/https%3A//imgtec.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgtec.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508235257id_/https%3A//www.imgtec.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Imagination Technologies
 
@@ -8,7 +8,7 @@ Imagination is a division of Imagination Technologies Limited, a wholly owned su
 
 This Privacy Policy describes the data collected by us whether:
 
-  * on or through the websites at [ **www.imgtec.com**](https://imgtec.com/privacy-policy/) (the “Imagination Website”), [ **http://flow** cloud **.i** o](http://flowcloud.io/) (the “FlowCloud Website”), [**www.flowlive.com**](http://www.flowlive.com/) (the “Flow Website”) or any other of our group company websites developed or hosted by us or on our behalf (together, those websites and any that resolve to those websites shall be known as the “Websites”); or
+  * on or through the websites at [ **www.imgtec.com**](https://www.imgtec.com/privacy-policy/) (the “Imagination Website”), [ **http://flow** cloud **.i** o](http://flowcloud.io/) (the “FlowCloud Website”), [**www.flowlive.com**](http://www.flowlive.com/) (the “Flow Website”) or any other of our group company websites developed or hosted by us or on our behalf (together, those websites and any that resolve to those websites shall be known as the “Websites”); or
 
 
   * in relation to our collection of any warranty registration information from a purchaser, licensee or other user of a product originally supplied by us (whether or not through the Websites) (“Product”); or
@@ -102,7 +102,7 @@ You are responsible for protecting against unauthorised access to your password 
 
 The Websites use cookies to collect information. Cookies are small data files which are placed on your computer or other mobile or handheld device (such as smart ‘phones or ‘tablets’) as you browse the Websites. They are used to ‘remember’ when your computer or device accesses the Website. The cookies are essential to the effective operation of our Websites and to enable to you navigate and use the Websites and shop with us online. Cookies are also used to tailor the Products and services offered and advertised to our customers, both on the Websites and elsewhere.
 
-If you want to find out more information about cookies, please go to[ **  cookies**](https://imgtec.com/cookies/)[ **.**](http://www.imgtec.com/cookies)
+If you want to find out more information about cookies, please go to[ **  cookies**](https://www.imgtec.com/cookies/)[ **.**](https://www.imgtec.com/cookies)
 
 ### Your Rights
 
