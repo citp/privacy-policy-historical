@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iezvu.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231822id_/http%3A//www.iezvu.com/init/initp_EN.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iezvu.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508040717id_/http%3A//www.iezvu.com/init/initp_EN.html) for the most accurate reproduction.*
 
 # 无标题文档
 
