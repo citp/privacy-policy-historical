@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdf-suite.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211131513id_/http%3A//pdf-suite.com/privacy.aspx%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdf-suite.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508085606id_/http%3A//www.pdf-suite.com/privacy.aspx%3Flang%3Den) for the most accurate reproduction.*
 
 # PDF Suite | Privacy Policy
 
@@ -43,4 +43,4 @@ We use a third party web analytics service to improve our web site performance a
 
 Contact Information
 
-[www.interactivebrands.com](http://pdf-suite.com/) welcomes your comments regarding this Privacy Policy. If you have any questions regarding our Privacy Policy, or this Web site, please [contact us.](https://web.archive.org/web/20161211131513id_/http%3A//pdf-suite.com/support.aspx?lang=en)
+[www.interactivebrands.com](http://pdf-suite.com/) welcomes your comments regarding this Privacy Policy. If you have any questions regarding our Privacy Policy, or this Web site, please [contact us.](https://web.archive.org/web/20170508085606id_/http%3A//www.pdf-suite.com/support.aspx?lang=en)
