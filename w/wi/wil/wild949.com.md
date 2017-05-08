@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wild949.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130121817id_/http%3A//wild949.iheart.com/articles/legal-477363/privacy-and-cookie-notice-11584630) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wild949.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508145051id_/http%3A//wild949.iheart.com/articles/legal-477363/privacy-and-cookie-notice-11584630) for the most accurate reproduction.*
 
 # Privacy and Cookie Notice | WiLD 94.9
 
