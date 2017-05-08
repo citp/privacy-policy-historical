@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vaxvacationaccess.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118225412id_/http%3A//www.vaxvacationaccess.com/BlobPage.aspx%3Fid%3D30%26anchorstore%3Dnone) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaxvacationaccess.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508044908id_/http%3A//www.vaxvacationaccess.com/BlobPage.aspx%3Fid%3D30%26anchorstore%3Dnone) for the most accurate reproduction.*
 
 # VAX | Privacy Policy
 
