@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hdwallsource.com privacy policy that was archived on 2016-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161211181811id_/http%3A//hdwallsource.com/doc/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hdwallsource.com privacy policy that was archived on 2017-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170508113446id_/http%3A//hdwallsource.com/doc/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <link href="http://hdwallsource.com/css/primary.css" media="all" type="text/css" rel="stylesheet">
@@ -53,13 +53,6 @@
         </nav>
     </div>
 </div>                                                                                                                  
-<div class="banner liquid min">
-	<div class="banner_overlay">
-    	<div class="fixed">
-    		<h1>Discover and Download the World's Best <strong>HD</strong> Wallpapers.</h1>  
-    	</div>
-    </div>
-</div>
 
 <div class="free_content" id="submit">
 	<form class="form-horizontal" enctype="multipart/form-data" method="POST" action="http://hdwallsource.com/upload" accept-charset="UTF-8">    <h1>HDWS Submission Form <span class="close" onclick="$('#submit').toggle();">Exit</span></h1>
@@ -189,7 +182,7 @@
 
 
 <div id="content" class="fixed center">
-	<div class="social_bar" id="social">
+	<div class="social_bar" id="social" style="margin:0px;">
     	<ul>
         	<li><a href="https://twitter.com/HDWallSource" class="icon_twitter">Twitter</a></li>
             <li><a href="http://www.facebook.com/HDWallSource" class="icon_facebook">Facebook</a></li>
@@ -201,9 +194,12 @@
 			  $social = $("#social").offset().top;
 			  $(window).scroll(function () {
 				  if($(window).scrollTop() > $social) {
-					$("#social").stop().animate({ 'top': $(window).scrollTop() + $("#social").height() + 120 }, 1000); 
+					$("#social").stop().animate({ 'top': $(window).scrollTop() + $("#social").height() + 240 }, 1000); 
 				  } else {
 					$("#social").stop().animate({'top': $social +'px'}, 1000);
+				  }
+				  if($('#social').offset().top() < 120) {
+					$("#social").stop().animate({'top': 120 +'px'}, 1000);  
 				  }
 			  });
 			 $('#sform').submit(function(e) {
@@ -262,14 +258,13 @@
         </ul>
         <ul class="other_sites">
         	<li><a href="http://uMad.com/" target="_blank">uMad</a></li>
-            <li><a href="https://www.straindatabase.com/stem/" target="_blank">SDB</a></li>
         	<li><a href="http://wallpaperlayer.com/" target="_blank">WL</a></li>                                       
         	<li><a href="http://pickywallpapers.com" target="_blank">PW</a></li>                                                          
         </ul>
     	
         <div class="splitter"></div>
         
-        <p><strong>2013 - 2016 © HDWallSource</strong></p>         
+        <p><strong>2013 - 2017 © HDWallSource</strong></p>         
       	<p><img src="http://www.hdwallsource.com/images/icon_heart.png" alt="Heart"> MADE WITH LOVE BY  <a href="http://awlter.com" target="_blank">AWLTER</a></p>             
     </div>
 </footer>           
