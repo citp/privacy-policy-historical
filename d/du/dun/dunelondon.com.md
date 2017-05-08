@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunelondon.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222120435id_/http%3A//www.dunelondon.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunelondon.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508153058id_/https%3A//www.dunelondon.com/private-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dune Shoes Online
 
@@ -285,7 +285,7 @@ _stconsent  | This cookie is being used to capture postcode and consent to mark
 
   * if Dune Group Limited or substantially all of its assets are acquired by a third party, in which case personal information held by us about our customers will be one of the transferred assets; and
 
-  * if we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our [Website Terms of Use](http://www.dunelondon.com/website-terms-of-use/) or [Terms and Conditions of Supply](http://www.dunelondon.com/dune-legal/) and other agreements; or to protect the rights, property, or safety of Dune Group Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * if we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our [Website Terms of Use](https://www.dunelondon.com/website-terms-of-use/) or [Terms and Conditions of Supply](https://www.dunelondon.com/dune-legal/) and other agreements; or to protect the rights, property, or safety of Dune Group Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
