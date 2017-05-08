@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the dotmailer.co.uk privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516070505id_/http%3A//www.dotmailer.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotmailer.co.uk privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508071939id_/https%3A//www.dotmailer.com/us/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | dotmailer
 
-dotmailer whose registered office is at No 1 Croydon, 12-16 Addiscombe Road, Croydon, CR0 0XT England Registered No. 03762341 has created this privacy statement because we take your privacy seriously.  The statement sets out, who we are, what information we collect from you, and how we use it.
+[Print this page](https://web.archive.org/us/terms/privacy-policy-print-friendly/ "Print friendly")
 
-[Print this page](https://web.archive.org/terms/privacy-policy-print-friendly/ "Print friendly")
+## dotmailer privacy policy
+
+### Effective Date: 1 August 2016
+
+dotmailer whose registered office is at No 1 Croydon, 12-16 Addiscombe Road, Croydon, CR0 0XT England Registered No. 03762341 has created this privacy statement because we take your privacy seriously.  The statement sets out, who we are, what information we collect from you, and how we use it.
 
 ### Contents
 
@@ -69,6 +73,28 @@ Personal data is used for the following purposes: (i) to provide, administer and
 Your personal information may be stored and processed in any country where we have facilities or service providers, and by using our service or by providing consent to us (where required by law), you agree to the transfer of information to countries outside of your country of residence, including to the United States, which may provide for different data protection rules than in your country.  Please note that all dotmailer entities operate under Standard Contractual Clauses providing protections and safeguards for cross-border transfers.  We take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.           
 
 
+### EU-U.S. Privacy Shield Framework 
+
+dotmailer complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. dotmailer has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [http://www.privacyshield.gov/](http://www.privacyshield.gov/).
+
+In compliance with the Privacy Shield Principles, dotmailer commits to resolve complaints about our collection or use of your personal information. Individuals in the European Union with inquiries or complaints regarding our Privacy Policy should first contact dotmailer at: 
+
+James Koons   
+Chief Privacy Officer   
+No. 1 London Bridge   
+SE1 9BG London   
+United Kingdom
+
+Via email: [privacy@dotmailer.com](mailto:privacy@dotmailer.com)
+
+dotmailer has further committed to refer unresolved Privacy Shield complaints to [JAMS](https://www.jamsadr.com/), an alternative dispute resolution provider located in the United States with offices in London (70 Fleet Street, London, EC4Y 1EU). If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please use the JAMS complaint form found [here](https://www.jamsadr.com/files/Uploads/Documents/JAMS_Arbitration_Demand.pdf). The services of JAMS are provided at no cost to you. As the exclusive means of resolving through adversarial dispute resolution any disputes arising out of this Privacy Statement, a party may demand that any such dispute be resolved by arbitration administered by JAMS. Judgment on the award rendered in any such arbitration may be entered in any court having jurisdiction. As a last resort, privacy complaints that remain unresolved after pursuing these and other channels may be subject to binding arbitration before the Privacy Shield Panel as described in the Privacy Shield Agreement, Annex I, to be created jointly by the US Department of Commerce and the European Commission.
+
+Individuals have the right to access their personal data as well as have the choice to limit the use and disclosure of their personal data. Such requests for access and/or limitations should be made to [privacy@dotmailer.com](mailto:privacy@dotmailer.com). For information third party data disclosures, please see the dotmailer Trust Center at [http://www.dotmailer.com/trust](http://www.dotmailer.com/trust). dotmailer acknowledges potential liability in cases of onward transfer of Personal Data to third parties that do not meet the criteria as set forth in the Privacy Policy.
+
+Please be aware that dotmailer is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). In addition, dotmailer is required to disclose personal information in response to lawful requests by public authorities, including to meet national security and/or law enforcement requirements.
+
+Please [click here](https://www.commerce.gov/page/eu-us-privacy-shield) for information regarding the EU-US Privacy Shield.
+
 ### SMS
 
 Users based in the United States agree to the following with relation to SMS messages for the purposes of activation and validation codes. SMS messages are sent by [BulkSMS.com](http://bulksms.com/). Message and data rates may apply. One message per request.
@@ -100,7 +126,7 @@ United Kingdom
 
 T: +44 (0)20 8662 2762   
 F: +44 (0)20 8239 1147   
-E: [info@dotmailer.com](mailto:info@dotmailer.com)
+E: [privacy@dotmailer.com](mailto:privacy@dotmailer.com)
 
 ##### Web sites
 
