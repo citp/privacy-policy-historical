@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the playpennies.com privacy policy that was archived on 2016-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161230041553id_/http%3A//www.playpennies.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playpennies.com privacy policy that was archived on 2017-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170508223330id_/https%3A//www.playpennies.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://uk.uplytics.io/js/uplytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://uk.uplytics.io/js/uplytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="referrer" content="origin-when-cross-origin">
 	<title>Privacy Policy - Playpennies</title>
 			<meta name="description" content="PlayPennies is a UK parenting site. Our aim is to find you the best deals on products which you use in the home. We'll try and help you to cut down on the costs of parenthood!">
 						<meta property="fb:app_id" content="1151888804839539">
@@ -12,9 +13,9 @@
 		<meta property="og:title" content="Privacy Policy - Playpennies">
 		<meta property="og:type" content="website">
 															<meta name="google-site-verification" content="k2G0EjP5Y5mK-qKuRvIKY3XlcYr2nAYm3iNSrnL3ipg">
-							<meta name="verify-mn" content="9211f5e75cde05b213ebbab5c0af9423">
+							<meta name="audisto-confirm" content="97c2c4657cb7236f2dbca8272457102d38aba105">
 				<link rel="shortcut icon" type="image/x-icon" href="http://www.playpennies.com/vassets/img/favicon.ico">
-	<link rel="stylesheet" type="text/css" media="screen" href="http://www.playpennies.com/vassets/build/css/app-0e7dc523.css">
+	<link rel="stylesheet" type="text/css" media="screen" href="http://www.playpennies.com/vassets/build/css/app-45f79449.css">
 	<link rel="canonical" href="https://www.playpennies.com/privacy-policy">
 			<noscript>
 		<link href="http://www.playpennies.com/vassets/css/icons.fallback.css" rel="stylesheet">
@@ -45,8 +46,8 @@
 							Home &amp; Garden
 						</a></li><li class="slidemenu-title slidemenu-title-dropdown">Merchants</li><li><a href="https://www.playpennies.com/vouchers/debenhams.com" title="See all Debenhams vouchers and sales">
 							Debenhams
-						</a></li><li><a href="https://www.playpennies.com/vouchers/asos.com" title="See all Asos vouchers and sales">
-							Asos
+						</a></li><li><a href="https://www.playpennies.com/vouchers/asos.com" title="See all ASOS vouchers and sales">
+							ASOS
 						</a></li><li><a href="https://www.playpennies.com/vouchers/jdsports.co.uk" title="See all JD Sports vouchers and sales">
 							JD Sports
 						</a></li><li><a href="https://www.playpennies.com/vouchers/very.co.uk" title="See all Very vouchers and sales">
@@ -57,14 +58,24 @@
 							Travelodge
 						</a></li></ul></li><li><a href="http://www.playpennies.com/deals" title="Deals"><i class="icon icon-deal"></i>
 					Deals
-				</a></li><li><a href="http://www.playpennies.com/january-sale" title="January Sale"><i class="icon icon-deal"></i>
-					January Sale
-				</a></li><li><a href="http://www.playpennies.com/uk-freebies" title="UK Freebies"><i class="icon icon-deal"></i>
-					UK Freebies
+				</a></li><li><a href="http://www.playpennies.com/family-holidays" title="Family Holidays"><i class="icon icon-deal"></i>
+					Family Holidays
+				</a></li><li><a href="http://www.playpennies.com/valentines-day" title="Valentine's Day "><i class="icon icon-deal"></i>
+					Valentine's Day 
+				</a></li><li><a href="http://www.playpennies.com/clothing" title="Clothing"><i class="icon icon-deal"></i>
+					Clothing
 				</a></li><li><a href="http://www.playpennies.com/news-and-recalls" title="News and Recalls"><i class="icon icon-deal"></i>
 					News and Recalls
-				</a></li><li><a href="http://www.playpennies.com/christmas" title="Christmas"><i class="icon icon-deal"></i>
-					Christmas
+				</a></li><li><a href="http://www.playpennies.com/cosmetics" title="Cosmetics"><i class="icon icon-deal"></i>
+					Cosmetics
+				</a></li><li><a href="http://www.playpennies.com/kids-clothing" title="Kids Clothing"><i class="icon icon-deal"></i>
+					Kids Clothing
+				</a></li><li><a href="http://www.playpennies.com/shoes-and-trainers" title="Shoes and Trainers"><i class="icon icon-deal"></i>
+					Shoes and Trainers
+				</a></li><li><a href="http://www.playpennies.com/insider-sales-tips" title="Sales Calendar"><i class="icon icon-deal"></i>
+					Sales Calendar
+				</a></li><li><a href="http://www.playpennies.com/uk-freebies" title="UK Freebies"><i class="icon icon-deal"></i>
+					UK Freebies
 				</a></li><li><a href="http://www.playpennies.com/toy-store" title="Toy Store"><i class="icon icon-deal"></i>
 					Toy Store
 				</a></li><li class="slidemenu-title">
@@ -85,8 +96,8 @@
 									Home &amp; Garden
 								</a></li></ul><ul><li class="mainmenu-dropdown-title"><a href="http://www.playpennies.com/vouchers/merchants">Merchants</a></li><li><a href="https://www.playpennies.com/vouchers/debenhams.com" title="See all Debenhams vouchers and sales">
 									Debenhams
-								</a></li><li><a href="https://www.playpennies.com/vouchers/asos.com" title="See all Asos vouchers and sales">
-									Asos
+								</a></li><li><a href="https://www.playpennies.com/vouchers/asos.com" title="See all ASOS vouchers and sales">
+									ASOS
 								</a></li><li><a href="https://www.playpennies.com/vouchers/jdsports.co.uk" title="See all JD Sports vouchers and sales">
 									JD Sports
 								</a></li><li><a href="https://www.playpennies.com/vouchers/very.co.uk" title="See all Very vouchers and sales">
@@ -95,19 +106,29 @@
 									Argos
 								</a></li><li><a href="https://www.playpennies.com/vouchers/travelodge.co.uk" title="See all Travelodge vouchers and sales">
 									Travelodge
-								</a></li></ul></div></li><li class=""><a href="http://www.playpennies.com/deals">Deals</a></li><li class="hide"><a href="http://www.playpennies.com/january-sale">January Sale</a></li><li class="hide"><a href="http://www.playpennies.com/uk-freebies">UK Freebies</a></li><li class="hide"><a href="http://www.playpennies.com/news-and-recalls">News and Recalls</a></li><li class="hide"><a href="http://www.playpennies.com/christmas">Christmas</a></li><li class="hide"><a href="http://www.playpennies.com/toy-store">Toy Store</a></li><li id="mainmenu--overflow" class="mainmenu-dropdown"><i class="icon icon-overflow-h"></i><div class="mainmenu-dropdown-menu"><ul id="overflow-items"><li><a href="http://www.playpennies.com/deals">
+								</a></li></ul></div></li><li class=""><a href="http://www.playpennies.com/deals">Deals</a></li><li class="hide"><a href="http://www.playpennies.com/family-holidays">Family Holidays</a></li><li class="hide"><a href="http://www.playpennies.com/valentines-day">Valentine's Day </a></li><li class="hide"><a href="http://www.playpennies.com/clothing">Clothing</a></li><li class="hide"><a href="http://www.playpennies.com/news-and-recalls">News and Recalls</a></li><li class="hide"><a href="http://www.playpennies.com/cosmetics">Cosmetics</a></li><li class="hide"><a href="http://www.playpennies.com/kids-clothing">Kids Clothing</a></li><li class="hide"><a href="http://www.playpennies.com/shoes-and-trainers">Shoes and Trainers</a></li><li class="hide"><a href="http://www.playpennies.com/insider-sales-tips">Sales Calendar</a></li><li class="hide"><a href="http://www.playpennies.com/uk-freebies">UK Freebies</a></li><li class="hide"><a href="http://www.playpennies.com/toy-store">Toy Store</a></li><li id="mainmenu--overflow" class="mainmenu-dropdown"><i class="icon icon-overflow-h"></i><div class="mainmenu-dropdown-menu"><ul id="overflow-items"><li><a href="http://www.playpennies.com/deals">
 									Deals
-								</a></li><li><a href="http://www.playpennies.com/january-sale">
-									January Sale
-								</a></li><li><a href="http://www.playpennies.com/uk-freebies">
-									UK Freebies
+								</a></li><li><a href="http://www.playpennies.com/family-holidays">
+									Family Holidays
+								</a></li><li><a href="http://www.playpennies.com/valentines-day">
+									Valentine's Day 
+								</a></li><li><a href="http://www.playpennies.com/clothing">
+									Clothing
 								</a></li><li><a href="http://www.playpennies.com/news-and-recalls">
 									News and Recalls
-								</a></li><li><a href="http://www.playpennies.com/christmas">
-									Christmas
+								</a></li><li><a href="http://www.playpennies.com/cosmetics">
+									Cosmetics
+								</a></li><li><a href="http://www.playpennies.com/kids-clothing">
+									Kids Clothing
+								</a></li><li><a href="http://www.playpennies.com/shoes-and-trainers">
+									Shoes and Trainers
+								</a></li><li><a href="http://www.playpennies.com/insider-sales-tips">
+									Sales Calendar
+								</a></li><li><a href="http://www.playpennies.com/uk-freebies">
+									UK Freebies
 								</a></li><li><a href="http://www.playpennies.com/toy-store">
 									Toy Store
-								</a></li></ul></div></li></ul><ul class="mainmenu-list mainmenu-list-right"><li id="mainmenu--profile" class="mainmenu-dropdown mainmenu-profile"><span><i class="icon icon-user"></i></span><div class="mainmenu-dropdown-menu mainmenu-dropdown-menu-right"><ul class=""><li class="mainmenu-dropdown-title">Account</li><li class="mainmenu-profile-signin"><a href="http://www.playpennies.com/user/login">Sign In</a></li></ul></div></li></ul></div><div class="mainmenu-search-box"><form class="" action="https://www.playpennies.com/search" method="get"><div class="mainmenu-search"><i class="icon-search"></i><input type="text" name="q" value="" placeholder="Search for a Store..." autocomplete="off" data-search-url="https://www.playpennies.com/search"></div><button id="search-close-btn" class="search-close-btn" type="button" name="close-search"><i class="icon icon-close"></i></button></form></div><div id="mainmenu-search-btn" class="mainmenu-search-btn"><button type="button" name="button"><i class="icon-search"></i></button></div></nav></header><section class="trending-bar--block hidden-xs"><div class="trending-bar"><ul><li>TRENDING</li><li><a href="https://www.playpennies.com/january-sale/asda-george-sale-clothing-from-gbp-1-169709">Clothing from £1 @ Asda George</a></li><li><a href="https://www.playpennies.com/january-sale/up-to-30-off-sale-now-on-ugg-169680">Save 30% off UGG </a></li><li><a href="https://www.playpennies.com/news-and-recalls/recall-co-op-recall-chocolate-santas-169705">Chocolate Santa RECALL </a></li><li><a href="https://www.playpennies.com/news-and-recalls/tommee-tippee-sippee-cup-manufacturer-recalls-3-million-cups-over-mould-risk-163864">Tommee Tippee Manufacturer Recalls 3 Million Cups Over Mould Risk</a></li><li><a href="https://www.playpennies.com/car-seats/a-guide-to-choosing-buying-car-seats-for-children-163009">A Guide To Choosing &amp; Buying Car Seats For Children</a></li></ul></div></section>	
+								</a></li></ul></div></li></ul><ul class="mainmenu-list mainmenu-list-right"><li id="mainmenu--profile" class="mainmenu-dropdown mainmenu-profile"><span><i class="icon icon-user"></i></span><div class="mainmenu-dropdown-menu mainmenu-dropdown-menu-right"><ul class=""><li class="mainmenu-dropdown-title">Account</li><li class="mainmenu-profile-signin"><a href="http://www.playpennies.com/user/login">Sign In</a></li></ul></div></li></ul></div><div class="mainmenu-search-box"><form class="" action="https://www.playpennies.com/search" method="get"><div class="mainmenu-search"><i class="icon-search"></i><input type="text" name="q" value="" placeholder="Search for a Store..." autocomplete="off" data-search-url="https://www.playpennies.com/search"></div><button id="search-close-btn" class="search-close-btn" type="button" name="close-search"><i class="icon icon-close"></i></button></form></div><div id="mainmenu-search-btn" class="mainmenu-search-btn"><button type="button" name="button"><i class="icon-search"></i></button></div></nav></header><section class="trending-bar--block hidden-xs"><div class="trending-bar"><ul><li>TRENDING</li><li><a href="http://www.playpennies.com/pitch">Have a great deal? Tell us!</a></li><li><a href="https://www.playpennies.com/family-holidays/holidays-from-gbp-10-per-person-with-codes-breakfree-169992">£10 Holidays @ BreakFree </a></li><li><a href="https://www.playpennies.com/newborn-essentials/baby-and-toddler-event-now-on-aldi-170055">Baby &amp; Toddler Event Now On @ ALDI</a></li><li><a href="https://www.playpennies.com/news-and-recalls/tommee-tippee-sippee-cup-manufacturer-recalls-3-million-cups-over-mould-risk-163864">Tommee Tippee Manufacturer Recalls 3 Million Cups Over Mould Risk</a></li><li><a href="https://www.playpennies.com/car-seats/a-guide-to-choosing-buying-car-seats-for-children-163009">A Guide To Choosing &amp; Buying Car Seats For Children</a></li><li><a href="https://www.playpennies.com/newborn-essentials/asda-baby-toddler-event-online-now-170062">ASDA Baby Event On NOW </a></li></ul></div></section>	
 	<section id="content" class="content-block ">
 
 							
@@ -142,14 +163,24 @@ asterisk &amp; are operational at time of publishing.
 			Menu
 		</h4><ul><li><a href="http://www.playpennies.com/deals" title="Deals">
 						Deals
-					</a></li><li><a href="http://www.playpennies.com/january-sale" title="January Sale">
-						January Sale
-					</a></li><li><a href="http://www.playpennies.com/uk-freebies" title="UK Freebies">
-						UK Freebies
+					</a></li><li><a href="http://www.playpennies.com/family-holidays" title="Family Holidays">
+						Family Holidays
+					</a></li><li><a href="http://www.playpennies.com/valentines-day" title="Valentine's Day ">
+						Valentine's Day 
+					</a></li><li><a href="http://www.playpennies.com/clothing" title="Clothing">
+						Clothing
 					</a></li><li><a href="http://www.playpennies.com/news-and-recalls" title="News and Recalls">
 						News and Recalls
-					</a></li><li><a href="http://www.playpennies.com/christmas" title="Christmas">
-						Christmas
+					</a></li><li><a href="http://www.playpennies.com/cosmetics" title="Cosmetics">
+						Cosmetics
+					</a></li><li><a href="http://www.playpennies.com/kids-clothing" title="Kids Clothing">
+						Kids Clothing
+					</a></li><li><a href="http://www.playpennies.com/shoes-and-trainers" title="Shoes and Trainers">
+						Shoes and Trainers
+					</a></li><li><a href="http://www.playpennies.com/insider-sales-tips" title="Sales Calendar">
+						Sales Calendar
+					</a></li><li><a href="http://www.playpennies.com/uk-freebies" title="UK Freebies">
+						UK Freebies
 					</a></li><li><a href="http://www.playpennies.com/toy-store" title="Toy Store">
 						Toy Store
 					</a></li></ul></div><div class="col-xs-4"><h4><a href="http://www.playpennies.com/vouchers/categories">Categories</a></h4><ul><li><a href="https://www.playpennies.com/vouchers/kids/toy" title="See all Toy vouchers and sales">
@@ -174,15 +205,15 @@ asterisk &amp; are operational at time of publishing.
 					The Book People
 				</a></li><li><a href="https://www.playpennies.com/vouchers/jdsports.co.uk" title="See all JD Sports vouchers and sales">
 					JD Sports
-				</a></li><li><a href="https://www.playpennies.com/vouchers/asos.com" title="See all Asos vouchers and sales">
-					Asos
+				</a></li><li><a href="https://www.playpennies.com/vouchers/asos.com" title="See all ASOS vouchers and sales">
+					ASOS
 				</a></li></ul></div></div></div></div><div class="footer-bottom row"><div class="footer-hr col-xs-12 group"></div><div class="footer-copyright col-sm-6"><p>
-						© Copyright 2016 Playpennies.com. All rights reserved.
+						© Copyright 2017 Playpennies.com. All rights reserved.
 					</p></div><div class="footer-social col-sm-6"><p><a class="btn-rss" href="http://www.playpennies.com/rss"><i class="icon icon-rss"></i></a><a class="btn-twitter" href="https://twitter.com/Playpennies" title="Visit PlayPennies on Twitter" target="_blank"><i class="icon icon-twitter"></i></a><a class="btn-facebook" href="https://facebook.com/playpennies" title="Visit PlayPennies on Faceboook" target="_blank"><i class="icon icon-facebook"></i></a><a class="btn-pinterest" href="https://pinterest.com/playpennies" title="Visit PlayPennies on Pinterest" target="_blank"><i class="icon icon-pinterest"></i></a><a class="btn-mail" href="/newsletter" target="_blank"><i class="icon icon-mail"></i></a></p></div></div></section></footer>	</div>
 
 
 <script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
-<script src="http://www.playpennies.com/assets/build/js/app-001d0fb9.js"></script>
+<script src="http://www.playpennies.com/assets/build/js/app-de3159cc.js"></script>
 
 	<script>
     (function(e,t,i,n,c,s){e["UplyticsSiteID"]=i;e["UplyticsSiteDomain"]=n;s=t.createElement("script");s.async=1;s.src="https://uk.uplytics.io/js/uplytics.js";c=t.getElementsByTagName("script")[0];c.parentNode.insertBefore(s,c)})(window,document,'b5aea50a591428a640a4','www.playpennies.com');
@@ -213,16 +244,20 @@ asterisk &amp; are operational at time of publishing.
         function shift (ev) {
             var post_id;
             if ((ev.keyCode) && (ev.keyCode != 13)) return;
-                //Get the blog post id.
-                if($(this).attr('rev')){
-                    post_id = $(this).attr('rev');
-                } else {
+            //Get the blog post id.
+            if($(this).attr('rev')){
+                post_id = $(this).attr('rev');
+            } else {
                 post_id = '0';
-             }
+            }
             current_link = this;
+            current_link_object = $(current_link);
             current_link.target = "_blank"; // open in a new window
             current_link.href_old = current_link.href;
             current_link.href = link + encodeURIComponent(current_link.href) + '&pid=' + encodeURIComponent(post_id);
+            if(typeof current_link_object.data("affDisable") !== 'undefined'){
+                current_link.href = current_link.href + '&affd=1'
+            }
             window.setTimeout(unshift, 500);
         }
 
@@ -235,6 +270,6 @@ asterisk &amp; are operational at time of publishing.
     });
 </script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"fc1719195d","applicationID":"8272606","transactionName":"ZVQAZkYDDUQCAkJZDVweI1FACwxZTBFEWRRTUhsfRA0PXgAY","queueTime":0,"applicationTime":57,"atts":"SRMDEA4ZHko=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b799c67447","applicationID":"41395998","transactionName":"ZwQBZEQDX0cDW0ZcXF5OIlNCC15aTUhAXEVRAhodRg1dXQFB","queueTime":0,"applicationTime":58,"atts":"S0MCEgwZTEk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
