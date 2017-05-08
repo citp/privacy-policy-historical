@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigcmobiles.in privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216123911id_/http%3A//www.bigcmobiles.in/pages/Privacy-Policy/pgid-20345.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigcmobiles.in privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508232125id_/http%3A//www.bigcmobiles.in/pages/Privacy-Policy/pgid-20345.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
