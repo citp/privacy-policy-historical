@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zonable.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128163226id_/http%3A//zonable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zonable.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508130344id_/http%3A//zonable.com/privacy-policy) for the most accurate reproduction.*
 
-# Zonable
+# Privacy Policy – Zonable
 
 **Privacy Policy for www.zonable.com**
 
