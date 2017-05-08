@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggersideas.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211054008id_/http%3A//www.bloggersideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggersideas.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508031500id_/http%3A//www.bloggersideas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
@@ -71,7 +71,7 @@ Pin Code: 201301
 Contact Number: +918800446103
 
   
-[](http://www.bloggersideas.com/wp-content/uploads/2014/02/Jitendra-Vaswani-Signature.png)[  
+[](https://i2.wp.com/www.bloggersideas.com/wp-content/uploads/2014/02/Jitendra-Vaswani-Signature.png)[  
 ](http://www.bloggersideas.com/wp-content/uploads/2014/02/Jitendra-Vaswani-Signature.png)
 
 This Document was last Updated on 1/2/2015
