@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the autolist.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223064514id_/http%3A//www.autolist.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autolist.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508140520id_/https%3A//www.autolist.com/pages/privacy) for the most accurate reproduction.*
 
-# Auto List - millions of used cars and trucks for sale
+# Privacy Policy Auto List
 
 Last Updated: 10/10/2013 
 
 ##  AutoList.com 
 
-Welcome to this website ("Site"), as operated by Vertical Brands Media, Inc. ("Company" or "we"). Company operates the Site and other associated services and offerings , including, without limitation, mobile and tablet applications, that allow users to list and/or locate cars, trucks or other automobiles for sale (collectively, the "Service"), and makes it available to you subject to the [ Terms of Service ](http://www.autolist.com/pages/terms) (the "Terms"). This Privacy Policy is incorporated into and is subject to the Terms of Service. Capitalized terms used but not defined in this Privacy Policy have the meaning given to them in the Terms of Service. 
+Welcome to this website ("Site"), as operated by Vertical Brands Media, Inc. ("Company" or "we"). Company operates the Site and other associated services and offerings , including, without limitation, mobile and tablet applications, that allow users to list and/or locate cars, trucks or other automobiles for sale (collectively, the "Service"), and makes it available to you subject to the [Terms of Service](https://web.archive.org/pages/terms) (the "Terms"). This Privacy Policy is incorporated into and is subject to the Terms of Service. Capitalized terms used but not defined in this Privacy Policy have the meaning given to them in the Terms of Service. 
 
 This statement governs information you provide to us or that we learn from you and other users of the Service (individually "User" or collectively, "Users") through use of the Service, and describes how we may collect, use, and disclose this information. 
 
@@ -101,5 +101,5 @@ We may occasionally update this Privacy Policy. When we do, we will also revise 
 If you have any questions, comments, or concerns about this Privacy Policy, please email us at feedback@autolist.com. 
 
 Postal Mail Address:    
-500 3rd Street, Suite 555    
-San Francisco, CA 94107 
+211 Sutter Street, Suite 200   
+San Francisco, CA 94108 
