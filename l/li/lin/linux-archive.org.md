@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linux-archive.org privacy policy that was archived on 2016-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160709044717id_/http%3A//www.linux-archive.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linux-archive.org privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508021957id_/http%3A//www.linux-archive.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Your Security is Our Mission
 
@@ -37,7 +37,7 @@ There is a small possibility that we might sell or merge with another business. 
 **Linked sites and advertisements  
 **
 
-In an attempt to provide you with increased value, we may include third party links on our site. Linux-archive.org expects all linked sites to respect privacy of its users. Be aware, that third parties may have their own privacy and data collection policy. Linux-archive.org is not responsible for actions or policies of any other site. Some of advertisers might collect information in order to determine if you have seen the advertisement before, or in other ways to improve your experience.
+In an attempt to provide you with increased value, we may include third party links on our site.Â Linux-archive.org expects all linked sites to respect privacy of its users. Be aware, that third parties may have their own privacy and data collection policy.Â Linux-archive.org is not responsible for actions or policies of any other site. Some of advertisers might collect information in order to determine if you have seen the advertisement before, or in other ways to improve your experience.
 
 **Site Use  
 **
