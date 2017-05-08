@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fits.me privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024131836id_/http%3A//fits.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fits.me privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508141417id_/https%3A//fits.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fits.me
 
