@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcg.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210114919id_/http%3A//www.bcg.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcg.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508085732id_/https%3A//www.bcg.com/about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,7 +46,7 @@ BCG understands the importance of protecting children's privacy, particularly in
 
 ### Use of BCG Web Sites
 
-Your access to and use of the Site are subject to certain terms and conditions, which are summarized in our [Terms and Conditions of Use](https://web.archive.org/terms-of-use.aspx "Terms of Use").
+Your access to and use of the Site are subject to certain terms and conditions, which are summarized in our [Terms and Conditions of Use](https://web.archive.org/about/terms-of-use.aspx "Terms of Use").
 
 ### Contact Us
 
