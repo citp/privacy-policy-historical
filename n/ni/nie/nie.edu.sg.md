@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nie.edu.sg privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622185355id_/http%3A//www.nie.edu.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nie.edu.sg privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508152518id_/http%3A//www.nie.edu.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Institute of Education (NIE), Singapore
 
