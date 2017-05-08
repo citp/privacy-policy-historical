@@ -1,55 +1,49 @@
-> *The following text is extracted and transformed from the porn-wire.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021002233id_/http%3A//www.fap6.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porn-wire.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508072742id_/http%3A//whosthatchick.net/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy :: fap6.com
+# WhosThatChick.net - Top Instagram girls pictures and videos
 
-[](http://www.fap6.com/)
+Thank you for visiting http://whosthatchick.net (the "Site") and reviewing the Privacy Policy whosthatchick("whosthatchick", "We", "Us", "Our" ). By using or accessing the Site, you expressly consent to Our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
-**Help us spread the word!! Tell your friends about Porn-Wire!**
+## Information collection and use
 
-Privacy Policy 
+### Collection of information
 
-  The use of this version of the "fap6.com" website and/or fap6.com software and any other related software, upgrades or updates and all related services and special offers provided by "fap6.com" are subject to the hereunder provisions of this Privacy Policy.: 
+You are free to browse the Site without revealing any personal information making it possible to identify you. However, once you have sent us your identifiable personal information, you are no longer anonymous to us.
 
-General 
+The Site make it possible to monitor certain information automatically, based on your behaviour. This information does not identify you personally. We use this information to improve the Content and functionality of the Site, and to better understand and satisfy our visitors. This information may include the browser you use, your IP address or other information.
 
-  "fap6.com" takes your privacy seriously. We gather certain types of information about our users and we want to help you understand the terms related to the collection and use of the information, which we collect. This Privacy Policy discloses the types of information we gather, how we use it, and what choices you have regarding the collection of such information. 
+### Shared information
 
-  BY USING OR ACCESSING ANY fap6.com WEBSITE OR DOWNLOADING AND USING THE SERVICE, YOU AGREE TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION (AS HEREUNDER DESCRIBED), ALL IN ACCORDANCE WITH THE TERMS AND CONDITIONS SET HEREUNDER. fap6.com MAY AMEND THIS POLICY FROM TIME TO TIME. 
+We may be required by law enforcement, government administrators, and/or judicial authorities to provide personally identifiable information. We will disclose personally identifiable information upon receipt of a court order, or if required to co-operate with law enforcement, administrative or other governmental agencies. We reserve the right to report to law enforcement agencies any activities that We in good faith believe to be unlawful.
 
-  If you are under the age of 13, you are not eligible to use the Service, and we ask you not to submit any personal information to us. 
+Our service providers who help with Our business operations and employees on a need-to-know basis. Third parties to whom you explicitly ask Us to send your information or you consent to and are notified when using a specific service. Business entities, if We plan to merge with or be acquired by that business entity, should such a change in control occur.
 
-Collection of Information 
+## Links
 
-**Personal Information:** Use of certain features of the Service may require submission of certain personal information, including your first and last name, email address, a nick name (or other user ID) and a password. 
+On the Site you will find various links directing you to Third Party Sites or to Third Party Content. whosthatchick shall not be liable for the links posted by Users or the privacy policies of such third parties. The Terms of Use whosthatchick Site, and in particular this Privacy Policy, do not govern to Third Party Sites or to Third Party Content which the User accesses from the Site.
 
-**Non personally identifiable Information:** fap6.com may also collect or receive additional non personally identifiable usage information specifically related to the use of a particular feature or offering on the fap6.com Service or website(s), and responses to the offerings and advertisements presented on fap6.com's Service and/or website(s). 
+## Use of cookies
 
-  "fap6.com" may also collect or receive (in some cases as part of the internet communication protocol) certain non personally identifiable technical information, when the fap6.com website(s) and pages are visited or when the fap6.com Service is used. 
+We use cookies to collect non personal information, help smooth user experience, remember you on future visits, better understand how users engage with the Site so we can enhance the User experience.
 
-**How is the information being used?** The information is used to operate and improve the features, offerings and content presented to you by fap6.com, to personalize the content and advertisements provided to you ; to fulfill your requests for Services, programs, and services; to communicate with you and respond to your inquiries; to conduct research about your use of the Service and/or website(s), offerings and advertisements presented on fap6.com Service, email communication, website(s) and pages; and to help offer you other Services, programs, or services that may be of interest. 
+The use of these cookies is optional; you can configure your browser not to accept, or to only sometimes accept, cookies.
 
-_Any personally identifiable information of yours_ will not be shared with third parties unless you have consented to the sharing of this information. fap6.com may use this information to present offers to you on behalf of business partners and advertisers. These business partners and advertisers may receive aggregate data about various groups of fap6.com users, but do not receive information that personally identifies you. 
+However, for optimum use of the Site, we advise you to accept whosthatchick cookies. Certain functions may require the use of cookies in order to function correctly.
 
-_Notwithstanding the foregoing_ , your information may be accessed and disclosed if and as required by legal procedures. 
+## Commenting or posting on the site
 
-**Cookies:   ** "fap6.com" may use cookies or similar technologies to enhance and personalize your experience of the Service and/or of fap6.com's website, including to operate and improve offerings through the Service and/or website; to help authenticate your identity when you visit and transact with the Service, and/or website; to remember your preferences and registration information; to present and help measure and research the effectiveness of the various offerings, advertisements, and e-mail communications (by determining which e-mails you open and act upon); and to customize the content and advertisements provided to you. 
+When you post information (a tag, a link, a comment…) on the Site, the information may be consulted or used by any User; we therefore invite you to take care when posting, as this can lead to you receiving unsolicited information from Users.
 
-  Additionally, "fap6.com" or its advertisers may use other companies, known as third party ad servers to help present advertisements online in connection with the Service, and/or web sites. These third party ad servers may use cookies or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies, not fap6.com's. 
+## Security
 
-  "fap6.com" does not require that you accept cookies, and you may disable cookies at any time. However, some functionality of our Services and/or web sites may be impaired if you decline to accept cookies. 
+whosthatchick uses its best efforts to ensure the confidentiality of your personal data.
 
-Special Note for Parents 
+whosthatchick uses secure technology according to industry standards to protect the Content and the User privacy. All whosthatchick personnel have a duty to respect the confidentiality of the Users. A confidentiality obligation is included in each employment contract of whosthatchick employees with access to personal data.
 
-  "fap6.com"'s Service and website are not intended for a general audience, and children under the age of thirteen (13) are not permitted to register with fap6.com's Service and websites. 
+## Modification of the privacy policy
 
-Modification and Deletion of Personally Identifiable Information (Opt-Out) 
+whosthatchick reserves the right to modify or amend this Privacy Policy at any time. Any modification or amendment will be effective upon whosthatchick posting the same on the Site. Continued use by you of the Site after whosthatchick has posted an updated version of the Privacy Policy implies your consent to the Privacy Policy as modified or amended. Consequently, it is important that you regularly read this Privacy Policy to ensure that you are fully aware of any changes that may be made to them.
 
-  In order to delete the personally identifiable information you submitted, notify us, to the following email address: support@porn-wire.com that you wish to delete your personally identifiable information or any part thereof contained at our databases. 
+### Contact
 
-Modification 
-
-  If you wish to modify or update your personally identifiable information, use the web-site or application interface. If you need help, please contact us at the following email address: support@porn-wire.com. Please note that deletion of your personally identifiable information from fap6.com's database will not prevent fap6.com from using gathered anonymous information. 
-
-Third Parties' Practices 
-
-  This Privacy Policy does not cover the information practices exercised by other provides of products or services, advertisers or other web sites, or companies/people that fap6.com does not own or control, or does not employ or manage. 
+If you have any questions or concerns about this Privacy Policy or its implementation you may .
