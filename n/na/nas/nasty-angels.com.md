@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nasty-angels.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608110756id_/http%3A//www.nasty-angels.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasty-angels.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508144610id_/http%3A//www.nasty-angels.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
