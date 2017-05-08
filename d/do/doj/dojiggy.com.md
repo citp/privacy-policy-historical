@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dojiggy.com privacy policy that was archived on 2016-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160926082648id_/http%3A//www.dojiggy.com/app/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dojiggy.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508033107id_/http%3A//www.dojiggy.com/app/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DoJiggy
 
