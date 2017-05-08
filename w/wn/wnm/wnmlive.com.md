@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wnmlive.com privacy policy that was archived on 2016-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161005122532id_/https%3A//www.wnmlive.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnmlive.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508230348id_/https%3A//www.wnmlive.com/legal/privacy) for the most accurate reproduction.*
 
-# Nearby Live :: Privacy Policy
+# Nearby :: Privacy Policy
 
-Nearby Live is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Nearby Live Web site and governs data collection and usage. By using the Nearby Live website, you consent to the data practices described in this statement. We will occasionally update this Privacy Policy to reflect company and customer feedback.  We strongly encourage you to periodically review this policy to be informed of how we are protecting your personal information. If you have any questions, concerns, or comments about this policy please do not hesitate to contact us at [support@wnmlive.com.](mailto:support@wnmlive.com)
+Nearby is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Nearby Web site and governs data collection and usage. By using the Nearby website, you consent to the data practices described in this statement. We will occasionally update this Privacy Policy to reflect company and customer feedback.  We strongly encourage you to periodically review this policy to be informed of how we are protecting your personal information. If you have any questions, concerns, or comments about this policy please do not hesitate to contact us at [support@wnmlive.com.](mailto:support@wnmlive.com)
 
 |   
 | 
@@ -13,7 +13,7 @@ Nearby Live is committed to protecting your privacy and developing technology th
 160 Lowell Avenue  
 Palo Alto, CA 94301 
 
-Nearby Live is owned and operated by SynergeTech Solutions, Inc.   
+Nearby is owned and operated by SynergeTech Solutions, Inc.   
   
 | 
 
@@ -35,7 +35,7 @@ We get information about you in a range of ways.
 
 ### Location Data Collection
 
-In order to use the Nearby Live Services, we need to associate your account with a geographic location. In order to do this, we will utilize the GPS and/or cellular antenna of your mobile device to find your approximate location. We may also utilize your IP Address to determine where you are. Your latitude and longitude coordinate pair will be utilized to determine the city and political region that you are currently in. This information will be posted publically when you use the Nearby Live service.   
+In order to use the Nearby Services, we need to associate your account with a geographic location. In order to do this, we will utilize the GPS and/or cellular antenna of your mobile device to find your approximate location. We may also utilize your IP Address to determine where you are. Your latitude and longitude coordinate pair will be utilized to determine the city and political region that you are currently in. This information will be posted publically when you use the Nearby service.   
   
 | 
 
@@ -52,7 +52,7 @@ We use your personal information as follows:
 
 
 
-The The nature of the Nearby Live service is that most information you give us will be shared with any other user, or even anonymous visitor, of the Nearby Live service.  This includes your profile details, Live Stream posts, photos, and general location.
+The The nature of the Nearby service is that most information you give us will be shared with any other user, or even anonymous visitor, of the Nearby service.  This includes your profile details, Live Stream posts, photos, and general location.
 
 We may share personal information as follows:
 
@@ -69,9 +69,7 @@ We may share personal information as follows:
 
 We may also share aggregated and/or anonymized data with others for their own uses.
 
-There are also a few ways we share your data in order to help enhance the service, and specifically drive user interaction.  For instance, we may choose to use your user content (including your profile, posts, or photos) to market the Nearby Live service.  This could include, without limitation, screenshots for the App Store or promotional emails to current or potential users. 
-
-Your data may also be accessed via our alternative client apps, such as the Tinder Live app on Windows Phones.   
+There are also a few ways we share your data in order to help enhance the service, and specifically drive user interaction.  For instance, we may choose to use your user content (including your profile, posts, or photos) to market the Nearby service.  This could include, without limitation, screenshots for the App Store or promotional emails to current or potential users.   
   
 | 
 
@@ -85,7 +83,7 @@ When you submit personally identifiable information to us, you understand and ag
 
 ### Limited Data Sharing With Advertisers
 
-Nearby Live is an ad-supported free service.  We work with Microsoft and Google to provide the advertisements shown within that application.  Both companies are highly respected and reputable.  In order to provide the most relevant advertisements to each user, we share the following pieces of personal data: 
+Nearby is an ad-supported free service.  We work with Microsoft and Google to provide the advertisements shown within that application.  Both companies are highly respected and reputable.  In order to provide the most relevant advertisements to each user, we share the following pieces of personal data: 
 
   * Precise Location
   * Locale and Language Settings
@@ -99,13 +97,14 @@ You can read the privacy policies of these third-party companies on their respec
 
   * [Microsoft Privacy Policy](http://privacy.microsoft.com/en-us/default.mspx)
   * [Google Ads Privacy Policy](http://www.google.com/policies/technologies/ads/)
+  * [Facebook Audience Network Privacy Policy](https://www.facebook.com/ads/manage/audience_network/publisher_tos/)
 
   
 | 
 
-### No Sale of Personal Data Collected
+### Third Party Data Collection
 
-We are not in the business of selling any of your personal data to any other individual or company and such a sale would never take place.  We do not sell, rent, or lease our customer list to third parties, although we may sell, rent, or lease access to such users with the user's explicit permission. We may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, we may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to our company and users, and they are required to maintain the confidentiality of your information.  We also reserve the right to pass along all the data we have collected in the event of a merger or acquistion of our company in order to facilitate the continued operation of the service.   
+We allow third-party companies to collect certain information when you visit our web site or mobile apps. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at [www.aboutads.info](http://www.aboutads.info/) and Networking Advertising Initiative at [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/).  
   
 | 
 
