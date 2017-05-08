@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the digiday.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232719id_/http%3A//digiday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiday.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509010405id_/http%3A//digiday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Digiday
+
+[ ](http://digiday.com/)
+
+[ ](https://web.archive.org/subscribe "Subscribe")
 
 **Our Commitment To Privacy**
 
