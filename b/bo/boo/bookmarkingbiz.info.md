@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkingbiz.info privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121201834id_/http%3A//www.bookmarkingbiz.info/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkingbiz.info privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508090130id_/http%3A//www.bookmarkingbiz.info/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies › BookmarkingBiz.info : Free social media marketing service | Auto approved do follow bookmarking sites | Increase your online visibility & backlinks through social bookmarking and directory submission service
 
