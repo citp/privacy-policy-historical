@@ -1,111 +1,95 @@
-> *The following text is extracted and transformed from the grosvenorcasinos.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011093938id_/https%3A//www.grosvenorcasinos.com/static/termsandconditions%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grosvenorcasinos.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508235834id_/https%3A//www.grosvenorcasinos.com/static/termsandconditions%23privacy) for the most accurate reproduction.*
 
-# Terms and Conditions - Grosvenor Casinos
+# Terms and Conditions
+
+## Terms & conditions and privacy policy
 
   * Terms & Conditions
   * Privacy Policy
 
 
 
-## Our Terms and Conditions
+## Our terms and conditions
 
 1\. **Introduction**
 
-1.1 Welcome to grosvenorcasinos.com, brought to you by Rank Digital Gaming (Alderney) Limited (a company registered in Alderney under number 1480)  of La Corvee House, La Corvee, Alderney, Channel Islands, GY9 3TQ
+1.1 Welcome to grosvenorcasinos.com [and meccabingo.com], brought to you by Rank Digital Gaming (Alderney) Limited (a company registered in Alderney under number 1480) of La Corvee House, La Corvee, Alderney, Channel Islands, GY9 3TQ.
 
-1.2 These terms and conditions contain important information about your use of our website (which includes versions of our website viewed on mobile phones, tablets or other electronic devices). Please read them carefully before you register an account with us and before you start using our services.
+1.2 These conditions contain important information about your use of our website (which includes versions of our website viewed on mobile phones, tablets or other electronic devices). Please read them carefully before you register an account with us and before you start using our services.
 
-1.3 By using our services, you signify your agreement to be bound by these terms and conditions and each of the following, our:
+1.3 By using our services, you signify your agreement to be bound by these conditions and each of the following:
 
-1.3.1 privacy and cookies policy, which sets out how we use your data and what your rights are, which can be found **here** ;
+  * 1.3.1 privacy and cookies policy, which sets out how we use your data and what your rights are, which can be found [here](https://www.grosvenorcasinos.com/static/termsandconditions#privacy);
+  * 1.3.2 poker terms and conditions, for use of our poker products, which can be found [here](https://www.grosvenorcasinos.com/static/pokertermsandconditions);
+  * 1.3.3 sports betting terms, conditions and rules, for use of our sportsbook, which can be found [here](https://www.grosvenorcasinos.com/static/sportstermsandconditions);
+  * 1.3.4 individual games rules which can be found on the “game rules” tab for each game; and
+  * 1.3.5 specific event, competition or promotion rules which will be set out next to each event, competition or promotion;
+  * which, together with these terms and conditions, are the Terms of Use.
 
-1.3.2 poker terms and conditions, for use of our poker products, which can be found **here** ;
 
-1.3.3 sports betting terms, conditions and rules, for use of our sportsbook, which can be found [here](https://www.grosvenorcasinos.com/static/sportstermsandconditions);
 
-1.3.4 individual games rules which can be found on the “game rules” tab for each game;
+1.4 If there is any conflict or inconsistency between these conditions and the different sets of rules or policies referred in section 1.3 above, then whatever is in these conditions will apply instead of the relevant provision(s) in the other documents.
 
-and
-
-1.3.5 specific event, competition or promotion rules which will be set out next to each event, competition or promotion;
-
-which, together with these terms and conditions, are the Terms of Use.
-
-1.4 If there is any conflict or inconsistency between these terms and conditions and the different sets of terms and conditions, rules or policies referred in section 1.3 above, then whatever is in these terms and conditions will apply instead of the relevant provision(s) in the other documents.
-
-1.5 If you have any questions about these Terms of Use then please get in touch with customer services and they will be happy to help you. You can reach us using any of the following:
+1.5 If you have any questions about these conditions then please get in touch with customer services and they will be happy to help you. You can reach us using any of the following:
 
 Telephone: 0800 083 1990
 
 Email: [support@grosvenorcasinos.com](mailto:support@grosvenorcasinos.com)
 
-Live Chat: [www.grosvenorcasinos.com](http://www.grosvenorcasinos.com/)
+Live chat: Live Chat
 
-Post: Customer Services
-
-P.O. Box 70695
-
-London
-
+Post: Customer Services  
+P.O. Box 70695  
+London  
 SW1P 9ZR
 
 1.6 Please note that we may record calls for training and monitoring purposes.
 
 2\. **Changes to our Terms of Use**
 
-We may make changes to our Terms of Use at any time. We will make reasonable efforts to notify you of any significant changes by e-mail, notice on the website or account message.  However, it is your responsibility to check the Terms of Use from time to time to ensure that you agree with them and your continued use of the website will be deemed to be your acceptance of any changes that we make.
+We may make changes to our Terms of Use at any time. We will make reasonable efforts to notify you of any significant changes by e-mail, notice on the website or account message. However, it is your responsibility to check the Terms of Use from time to time to ensure that you agree with them and your continued use of the website will be deemed to be your acceptance of any changes that we make.
 
 3\. **Opening an account and gambling with us**
 
-3.1 When opening an account you are requested to choose your own username and password. You should ensure that these details are kept private, as you are responsible for all activity on your account, where the correct security information has been provided. If you lose, or forget, your username and/or password, or if you believe that a third party is aware of them, you should contact us immediately. If another person accesses your account due to your negligence (for example, not keeping your username and password private or leaving your computer unattended without logging out) you are responsible for all their actions and any losses they may incur on your account.
+3.1 When opening an account you are requested to choose your own username and password. You should ensure that these details are kept private, as you are responsible for all activity on your account, where the correct security information has been provided. If you lose, or forget, your username and/or password, or if you believe that a third party is aware of them, you should contact us immediately. If another person accesses your account due to your negligence (for example, not keeping your username and password private or leaving your computer unattended without logging out) you are responsible for all their actions and any losses they may incur on your account.
 
-3.2 When you open an account with us and when you gamble with us you are confirming that:
+3.2 When you open an account and when you gamble with us you are confirming that:
 
-3.2.1 you are at least 18 years of age and above the legal age for gambling in the jurisdiction in which you live (see section 4 – proof of age and identity);
+  * 3.2.1 you are at least 18 years of age and above the legal age for gambling in the jurisdiction in which you live (see section 4 – proof of age and identity);
+  * 3.2.2 you are not restricted from opening an account under the ‘Geographical restrictions’ section of these terms and conditions (see section 5);
+  * 3.2.3 you are accessing the website from Great Britain, the Republic of Ireland or Gibraltar;
+  * 3.2.4 you are acting for yourself and not on behalf of anyone else and are not limited in your legal capacity to enter into, and adhere to, these terms and conditions;
+  * 3.2.5 you are using your own funds that you can afford to gamble with or funds you are expressly entitled to use;
+  * 3.2.6 you will not gamble with us unless you are in a fit state of mind to do so and are not under the influence of alcohol or drugs (whether legal, prescribed or proscribed);
+  * 3.2.7 you are not an undischarged bankrupt or the subject of any bankruptcy proceedings;
+  * 3.2.8 you will only have one account for the website at any one time;
+  * 3.2.9 you have not excluded yourself from gambling and you have not previously held an account with us or with any other gambling operator (in both cases whether online or “in club”) which was suspended or terminated due to your wrongdoing;
+  * 3.2.10 the details that you have provided us with are true, correct and complete and you will inform us of any changes to the information you have provided in accordance with section 4 of these terms and conditions;
+  * 3.2.11 you will not use, or allow any other person to use, the website for fraudulent purposes, or in connection with a criminal offence or other unlawful activity; and
+  * 3.2.12 you do not work for us or one of our associated companies, or suppliers of our gambling equipment and services, and/ or are not otherwise acting on their behalf.
+  * 3.3 We may refuse services, terminate your account, forfeit the balance of your account and recover any affected payouts, bonuses or winnings if, at any time, you are in breach of applicable laws, the Terms of Use or any other applicable terms and conditions, guidelines or policies.
 
-3.2.2 you are not restricted from opening an account under the ‘Geographical restrictions’ section of these terms and conditions (see section 5);
 
-3.2.3 you are accessing the website from the United Kingdom, the Republic of Ireland or Gibraltar;
 
-3.2.4 you are acting for yourself and not on behalf of anyone else and are not limited in your legal capacity to enter into, and adhere to, these terms and conditions;
-
-3.2.5 you are using your own funds or funds you are expressly entitled to use;
-
-3.2.6 you will not gamble with us unless you are in a fit state of mind to do so and are not under the influence of alcohol or drugs (whether legal, prescribed or proscribed);
-
-3.2.7 you are not an undischarged bankrupt or the subject of any bankruptcy proceedings;
-
-3.2.8 you will only have one account for the website at any one time;
-
-3.2.9 you have not excluded yourself from gambling and you have not previously held an account with us or with any other gambling operator (in both cases whether online or “in club”) which was suspended or terminated due to your wrongdoing;
-
-3.2.10 the details that you have provided us with are true, correct and complete and you will inform us of any changes to the information you have provided in accordance with section 4 of these terms and conditions;
-
-3.2.11 you will not use, or allow any other person to use, the website for fraudulent purposes, or in connection with a criminal offence or other unlawful activity; and
-
-3.2.12 you do not work for us or one of our associated companies, or suppliers of our gambling equipment and services, and/ or are not otherwise acting on their behalf.
-
-3.3 We may refuse services, terminate your account, forfeit the balance of your account and recover any affected payouts, bonuses or winnings if, at any time, you are in breach of applicable laws, the Terms of Use or any other applicable terms and conditions, guidelines or policies.
-
-4\. **Proof of your age and identity**
+**4\. Proof of your age and identity**
 
 4.1 To register with us you must be at least 18 years of age and above the legal age for gambling in the jurisdiction in which you live (the “Appropriate Age”), as underage gambling is an offence. We may request proof of age and residency documentation from you at any time which you agree to provide to us promptly. If you are subsequently found to be under the Appropriate Age at the time you placed transactions with us (or we are unable to verify your age for any reason) your account will be closed, all transactions placed whilst you were under the Appropriate Age will be voided and all related funds deposited will be returned. However we shall not be obliged to pay any winnings which might otherwise have been payable.
 
-4.2 We are also required to comply with anti-money laundering legislation and we may request proof of identity information from you from time to time, which you agree to provide to us promptly. In particular, we may undertake a search with Experian for the purpose of verifying your identity. To do so Experian may check the details you supply against any particulars on any database (public or otherwise) to which they have access. They may also use your details in the future to assist other companies for verification purposes. A record of the search will be retained 
+4.2 We are also required to comply with anti-money laundering legislation and we may request proof of identity information from you from time to time, which you agree to provide to us promptly. In particular, we may undertake a search with Experian for the purpose of verifying your identity. To do so Experian may check the details you supply against any particulars on any database (public or otherwise) to which they have access. They may also use your details in the future to assist other companies for verification purposes. A record of the search will be retained.
 
-4.3 You may sometimes be asked to provide background information about yourself and the source of the funds used to play on our website. We may be required to obtain this information because:
+4.3 You may sometimes be asked to provide background information about yourself and the source of the funds used to play on our websites. We may be required to obtain this information because:
 
-a) We seek to ensure that our customers enjoy their play and do so within their means. This is a part of our “Keep it Fun” responsible gambling policy.
+  a)We seek to ensure that our customers enjoy their play and do so within their means.  This is a part of our “Keep it Fun” responsible gambling policy.  
 
-b) If customers regularly spend higher amounts with us, like all operators we have a legal obligation to show that the money being spent is legitimate. This does not mean that we are suspicious about you personally.
+  b)If customers regularly spend higher amounts with us, like all operators we have a legal obligation to show that the money being spent is legitimate.  This does not mean that we are suspicious about you personally. 
 
 4.4 By registering with this site, you agree to provide any appropriate information needed to meet the requirements mentioned above
 
 5\. **Geographical restrictions**
 
-5.1 We only accept wagers or play from persons located in the United Kingdom, the Republic of Ireland and Gibraltar (the “Permitted Jurisdictions”). This list of Permitted Jurisdictions may be changed by us from time to time.
+5.1 We only accept wagers or play from persons located in Great Britain, the Republic of Ireland and Gibraltar (the “Permitted Jurisdictions”). This list of Permitted Jurisdictions may be changed by us from time to time.
 
-5.2 It is your responsibility to comply at all times with your own local, national or state laws that relate to gambling 
+5.2 It is your responsibility to comply at all times with your own local, national or state laws that relate to gambling.
 
 5.3 Although we take appropriate measures to restrict access to our website to persons located in the Permitted Jurisdictions, no winnings shall be paid to you if you do obtain access outside the Permitted Jurisdictions.
 
@@ -119,11 +103,11 @@ If any of your personal account details or financial information relevant to you
 
 7.1 We may refuse to register you and/or to suspend and/or terminate your account at any time and/or to refuse to accept any wager or transaction. We shall not be liable to you in any way for any loss or damages that may result from any such action. In addition, we reserve the right to refund to you or withhold any payment of monies from or into your account if there is suspicion or evidence of any of the following: manipulation of our financial system, a breach of any applicable law, regulation or any of the Terms of Use.
 
-7.2 Use of your account otherwise than in accordance with the Terms of Use or any other abuse of your account is strictly prohibited. 
+7.2 Use of your account otherwise than in accordance with the Terms of Use or any other abuse of your account is strictly prohibited.
 
 7.3 We may withdraw any promotional offers (including bonuses, free bets or tokens) at any time.
 
-7.4 As part of our sports book offering we may make certain third party data services available to you, including but not limited to horseracing and greyhound data from the Press Association and live scores and statistics from Betradar, (“Third Party Data Services”). In relation to the Third Party Data Services you agree:
+7.4 As part of our sports book offering we may make certain third party data services available to you, including but not limited to horseracing and greyhound data from the Press Association and live scores and statistics from Betradar, (“Third Party Data Services“). In relation to the Third Party Data Services you agree:
 
 7.4.1 that it may only be used for your own personal use and you will not distribute or commercially exploit it or any part of it;
 
@@ -135,71 +119,66 @@ If any of your personal account details or financial information relevant to you
 
 8.1 You must exercise your own judgment in placing a wager and you acknowledge that you have not relied on any statement or advice from us or our employees in deciding to place a wager.
 
-8.2 We may refuse or limit the whole or part of any wager for any reason at our discretion. You are not allowed to place a wager greater than the amount in credit in your account. 
+8.2 We may refuse or limit the whole or part of any wager for any reason at our discretion. You are not allowed to place a wager greater than the amount in credit in your account.
 
 8.3 We may set the maximum and minimum stake amounts and these will be set out in the individual games rules.
 
-8.4 Wagers do not become valid until our systems confirm that the wager has been accepted and until we have received payment. 
+8.4 Wagers do not become valid until our systems confirm that the wager has been accepted and until we have received payment.
 
 8.5 For some games, we will pass you to a third party system. These systems may not provide you with all of the reporting information you will find on our main site. Should you require additional wager information, please contact our customer services.
 
-9\. **Deposits and withdrawals**
+9\. **Deposits, withdrawals and bonusing**
 
 9.1 You may deposit monies to an account with us by using the payment methods listed on the website.
 
-9.2 Interest is not payable on account balances. 
+9.2 Interest is not payable on account balances.
 
 9.3 You can make withdrawals from your account up to your current available balance subject to the following terms and conditions:-
 
-9.3.1 for all debit or credit cards, if you wish to withdraw an amount in excess of £15,000 per day, please contact customer services;
+  * 9.3.1 for all debit or credit cards, if you wish to withdraw an amount in excess of £15,000 per day, please contact customer services;
+  * 9.3.2 for non-UK issued Mastercards (including some UK Mastercards), we may not able to pay funds back to these credit cards. Withdrawals will, where possible, be processed by bank transfer;
+  * 9.3.3 for Visa cards and other third party payment processing websites (such as Neteller & Skrill), there may be limits on withdrawals put in place by the relevant payment service provider from time to time. You should contact customer services in the event that you wish to withdraw funds in excess of these limits; and
+  * 9.3.4 for bank transfer to UK bank accounts, each withdrawal must be at least £5, or other currency equivalent (save in the case of a final withdrawal to close an account).
 
-9.3.2 for non-UK issued Mastercards (including some UK Mastercards), we may not able to pay funds back to these credit cards. Withdrawals will, where possible, be processed by bank transfer;
 
-9.3.3 for Visa cards and other third party payment processing websites (such as Neteller & Skrill), there may be limits on withdrawals put in place by the relevant payment service provider from time to time. You should contact customer services in the event that you wish to withdraw funds in excess of these limits; and
-
-9.3.4 for bank transfer to UK bank accounts, each withdrawal must be at least £5, or other currency equivalent (save in the case of a final withdrawal to close an account).
 
 9.4 We reserve the right to charge a processing fee of not more than £5 for bank transfer withdrawals. A transfer will only be made to an account in your name and such account must be held in a Permitted Jurisdiction. Where you are requesting a bank transfer for the first time, we will require proof of identity to be provided.
 
 9.5 If as part of a promotion or competition that you take part in we credit an amount to your account(a ‘Bonus’) then the following rules apply (in addition to the promotion or competition rules):
 
-9.5.1 the wagering requirements for the Bonus will be set out in the promotion or competition rules;
+  * 9.5.1 the wagering requirements for the Bonus will be set out in the promotion or competition rules;
+  * 9.5.2 you can only use the Bonus for placing wagers on our website;
+  * 9.5.3 you can only spend the Bonus after you have spent the cash in your account;
+  * 9.5.4 whilst there is a general Bonus on your account all winnings (whether from cash or Bonus wagers) will be credited to your Bonus balance; if however the Bonus is specific to a game or category of games then only winnings from those wagers will be credited to your Bonus balance;
+  * 9.5.5 if you do not satisfy the minimum wagering requirements within the timescale specified (or if no period is specified, 30 days after the Bonus was added to your account) or seek to withdraw any funds prior to doing so, then the Bonus balance (including winnings) will be forfeited; and
+  * 9.5.6 if you have more than one active Bonus then the wagering requirements may be combined (as to wagering target and/or expiry). If in any doubt please contact customer services for confirmation.
 
-9.5.2 you can only use the Bonus for placing wagers on our website;
 
-9.5.3 you can only spend the Bonus after you have spent the cash in your account;
-
-9.5.4 whilst there is a general Bonus on your account all winnings (whether from cash or Bonus wagers) will be credited to your Bonus balance; if however the Bonus is specific to a game or category of games then only winnings from those wagers will be credited to your Bonus balance;
-
-9.5.5 if you do not satisfy the minimum wagering requirements within the timescale specified (or if no period is specified, 30 days after the Bonus was added to your account) or seek to withdraw any funds prior to doing so, then the Bonus balance (including winnings) will be forfeited; and
-
-9.5.6 if you have more than one active Bonus then the wagering requirements may be combined (as to wagering target and/or expiry). If in any doubt please contact customer services for confirmation. 
 
 9.6 You may not make deposits and withdrawals to and from your account with us in order to obtain goods or services from a third party, such as loyalty rewards or vouchers.
 
 9.7 You may only make deposits and withdrawals into your account for the purpose of using the website in good faith and for the purpose for which it is provided and we reserve the right to suspend or terminate your account in the event that we suspect that you are using your account for any other purpose. We may also be required by law or any relevant authority to report any such activity and act in accordance with that authority's directions in relation to your account and the funds in it.
 
-9.8 Rank Digital Gaming (Alderney) Limited, which operates grosvenorcasinos.com and meccabingo.com, is a wholly-owned subsidiary of The Rank Group Plc which is listed on the London Stock Exchange. Funds at least equal to the value of active customer balances are held in a designated bank account separated from our business accounts to ensure that there are always sufficient funds for customers to withdraw their balances at any time. We hold such sums on trust for you for the sole purpose of enabling you to either withdraw your balance or to place stakes on our website. This designated bank account is proactively monitored and reconciled by our treasury department. We comply with the 'medium level' requirements of the UK Gambling Commission and the general requirements of the Alderney Gambling Control Commission with regards to safeguarding our customers’ funds. The extents to which customer funds are protected in the event of insolvency are described at [www.gamblingcommission.gov.uk/consumers/protection-of-customer-funds.aspx](http://www.gamblingcommission.gov.uk/consumers/protection-of-customer-funds.aspx).
+9.8 Rank Digital Gaming (Alderney) Limited, which operates grosvenorcasinos.com and meccabingo.com, is a wholly-owned subsidiary of The Rank Group Plc which is listed on the London Stock Exchange. Funds at least equal to the value of active customer balances are held in a designated bank account separate from our business accounts to ensure that there are always sufficient funds for customers to withdraw their balance at any time. We hold such sums on trust for our customers for the sole purpose of enabling them to either withdraw their balance or to place stakes on our website. This means that steps have been taken to protect your funds in the event of insolvency but that there is no absolute guarantee that all funds will be repaid. This meets the Gambling Commission’s requirements for the segregation of customer funds at the medium level of protection. Further information about the protection of customer funds can be found at [www.gamblingcommission.gov.uk/consumers/protection-of-customer-funds.aspx](http://www.gamblingcommission.gov.uk/consumers/protection-of-customer-funds.aspx).
 
 10\. **Closing your account and inactive accounts**
 
 10.1 We reserve the right to close your account, or withdraw the website, at any time and we will use reasonable endeavours to notify you of such closure or withdrawal.
 
-10.2 You may close your account at any time by notifying us. 
+10.2 You may close your account at any time by notifying us.
 
-10.3 On the closure of your account, subject to any deductions permitted under these terms and conditions, you will be entitled to the return of any balance remaining in your account.
+10.3 On the closure of your account, subject to any deductions permitted under these conditions, you will be entitled to the return of any balance remaining in your account.
 
 10.4 If, for a period of 12 consecutive months or more, an account has not:
 
-10.4.1 had funds deposited in it; or
+  * 10.4.1 had funds deposited in it; or
+  * 10.4.2 had funds withdrawn from it; or
+  * 10.4.3 had a wager placed from it; or
+  * 10.4.4 had a wager settled from it; or
+  * 10.4.5 had a log in into the account,
+  * it will be deemed to be an “Inactive Account”.
 
-10.4.2 had funds withdrawn from it; or
 
-10.4.3 had a wager placed from it; or
-
-10.4.4 had a wager settled from it; or
-
-10.4.5 had a log in into the account, it will be deemed to be an “Inactive Account”.
 
 10.5 An Inactive Account will be charged an administration fee of £2.50 per month (or, should the account balance be under £2.50, an amount equal to the remaining balance) until the account balance is zero. The fee shall be deducted within 10 working days of the end of each month.
 
@@ -217,13 +196,13 @@ If any of your personal account details or financial information relevant to you
 
 12.1 You accept that by using the website there is a risk that you may lose money as well as win.
 
-12.2 We will endeavour to provide the website using our reasonable skill and care but we do not guarantee continuous, uninterrupted or secure access to it or that it will be free from errors. We therefore make no warranty or representation as to the performance or accuracy of the website. Further, whilst we take all reasonable measures to ensure that our software is free from viruses we cannot guarantee that it is so and it is therefore your responsibility to protect your system.
+12.2 We will endeavour to provide the website using our reasonable skill and care.
 
 12.3 If we fail to comply with the Terms of Use or are negligent, we will be responsible for loss or damage you suffer that is a foreseeable result of our breach of the Terms of Use or our negligence but we will not be responsible for any loss or damage that is not foreseeable. Loss or damage is foreseeable if such loss or damage was an obvious consequence of our breach or if they were contemplated by you and us at the time we entered into this contract.
 
 12.4 We only supply the website for domestic and private use. You agree not to use the website for any commercial or business purpose, and we have no liability to you for any loss of profit, loss of business, business interruption, or loss of business opportunity.
 
-12.5 We will not be liable for any breach of the Terms of Use if such a breach is caused by a matter beyond our reasonable control (other than matters caused by our breach of contract or negligence). Such matters include access delays or access interruptions, any system or communication errors relating to the generation of random numbers, wager settlement or other elements of the gaming services, data non- delivery or data mis-delivery, acts of God or other circumstances beyond our control, the unauthorised use of your security access details, damage to goodwill or reputation and errors, omissions, or misstatements in any and all information or services(s) provided by us to you.
+12.5 We will not be liable for any breach of the Terms of Use if such a breach is caused by a matter beyond our reasonable control (other than matters caused by our breach of contract or negligence). Such matters include access delays or access interruptions, any system or communication errors relating to the generation of random numbers, wager settlement or other elements of the gaming services, data non-delivery or data mis-delivery, acts of God or other circumstances beyond our control, the unauthorised use of your security access details, damage to goodwill or reputation and errors, omissions, or misstatements in any and all information or services(s) provided by us to you.
 
 12.6 Nothing in the Terms of Use shall exclude or limit our liability for death or personal injury resulting from our negligence.
 
@@ -235,15 +214,19 @@ If any of your personal account details or financial information relevant to you
 
 14\. **Self exclusion and Responsible Gambling**
 
-14.1 If you wish to take an enforced break from gaming, you can request that we prevent you from accessing your account. If you choose to do this, it will be a minimum of six months before you may apply for reinstatement.
+14.1 If you wish to take an enforced break from gaming, you can request that we prevent you from accessing your account. If you choose to do this, it will be a minimum of six months before you may apply for reinstatement. You have the choice of selecting a self-exclusion period of up to at least 5 years.
 
-14.2 You may make such a request by contacting our customer services through any of the methods listed in section 1 above or by utilising our website feature for self-exclusion. Please include your full name, address, username and date of birth in your contact with us and please also tell us the reason why you wish to self-exclude from our website. 
+14.2 You may make such a request by contacting our customer services through any of the methods listed in section 1 above or by utilising our website feature for self-exclusion. Please include your full name, address, username and date of birth in your contact with us and please also tell us the reason why you wish to self-exclude from our website.
 
-14.3 Use of this opt-out facility will result in your account being blocked for a minimum of six months. We will return any withdrawable balance of your account to you and we will not accept wagers from your account during this period. During the period in which you are excluded, you must not attempt to re-open your account or try to open new accounts. Your self-exclusion will apply to all of our websites, including [www.grosvenorcasinos.com](http://www.grosvenorcasinos.com/) and [www.meccabingo.com](http://www.meccabingo.com/). We will undertake reasonable checks to identify and block any accounts which we find under your name, date of birth and address, however it is your responsibility to notify us if an account may exist which does not match these exact details.
+14.3 Use of this opt-out facility will result in your account being blocked for a minimum of six months. We will return any withdrawable balance of your account to you and we will not accept wagers from your account during this period. During the period in which you are excluded, you must not attempt to re-open your account or try to open new accounts. Your self-exclusion will apply to all of our websites, including www.grosvenorcasinos.com and www.meccabingo.com.  We will undertake reasonable checks to identify and block any accounts which we find under your name, date of birth and address, however it is your responsibility to notify us if an account may exist which does not match these exact details.
 
 14.4 If you do feel that you have a gambling problem, self-exclusion is advisable but should be used in conjunction with other self-help measures, such as seeking help and guidance from Gamcare (gamcare.org.uk). Please be aware that it is ultimately your own responsibility to uphold a self-exclusion but we will make every effort to stop you playing on the account from which you have excluded. However, should you manage to open a new account by using different personal details of any kind, we will not be responsible for any losses you may subsequently incur as a result of your circumventing the self-exclusion process and may also withhold winnings in certain cases.
 
-14.5 We encourage you to play responsibly and within your financial means. We encourage you to use the features available in your account, including setting a deposit limit and reality checks (such as an hourly reminder of time spent on the site). We urge caution with the use of ‘windfall’ amounts (such as a compensation payment, inheritance or pension pot); where such a sum is needed to provide ongoing financial support, please do not gamble with it.
+14.5 If you would like to take a temporary break from gambling on-line, you can choose a break period from 1 day up to 6 weeks. This feature is available the responsible gaming section of my account.  If you choose to take a break, you will not be able to access your account and you will be prevented from gambling until your break period has finished. Once you have confirmed that you wish to take a break, we will be unable to reverse this process.
+
+14.6 We encourage you to play responsibly and within your financial means. We encourage you to use the features available in your account, including setting a deposit limit and reality checks (such as an hourly reminder of time spent on the site). We urge caution with the use of ‘windfall’ amounts (such as a compensation payment, inheritance or pension pot); where such a sum is needed to provide ongoing financial support, please do not gamble with it.
+
+14.7 In order to protect young persons and children from accessing our online gambling sites, we recommend that responsible adults install internet filtering software on their computers. This provides the ability to control content displayed, block websites and set up passwords to prevent gambling sites being available to underage persons. There are many internet filtering software choices available and you can view a selection of solutions, as recommended by Internet Filter Review, by visiting [internet-filter-reviews.toptenreviews.com](http://internet-filter-review.toptenreviews.com/).
 
 15\. **Fraud**
 
@@ -251,17 +234,14 @@ If any of your personal account details or financial information relevant to you
 
 15.2 We reserve the right to terminate your account, forfeit the balance of your account and recover from your account the amount of any affected pay-outs, bonuses or winnings if:
 
-15.2.1 you are found to be participating in any form of collusion, fraudulent practice or unlawful or improper activity;
+  * 15.2.1 you are found to be participating in any form of collusion, fraudulent practice or unlawful or improper activity;
+  * 15.2.2 we become aware that you have placed wagers and/or gamed with any other online provider of gambling services and have engaged (as a result of such play) in any collusion (including in relation to charge-backs), fraudulent practice or unlawful or improper activity;
+  * 15.2.3 we become aware that you have requested a charge-back or have denied any of the transactions made on your account;
+  * 15.2.4 you become bankrupt or have equivalent proceedings occurring anywhere in the world;
+  * 15.2.5 you have more than one account with us at any one time; or
+  * 15.2.6 you are using our software and/or system in a manner which we (acting reasonably) deem inappropriate and we may at any time suspend your account while we investigate whether you have engaged in any of the conduct described above.
 
-15.2.2 we become aware that you have placed wagers and/or gamed with any other online provider of gambling services and have engaged (as a result of such play) in any collusion (including in relation to charge-backs), fraudulent practice or unlawful or improper activity;
 
-15.2.3 we become aware that you have requested a charge-back or have denied any of the transactions made on your account;
-
-15.2.4 you become bankrupt or have equivalent proceedings occurring anywhere in the world;
-
-15.2.5 you have more than one account with us at any one time; or
-
-15.2.6 you are using our software and/or system in a manner which we (acting reasonably) deem inappropriate and we may at any time suspend your account while we investigate whether you have engaged in any of the conduct described above.
 
 15.3 You shall repay to us all costs, charges or losses sustained or incurred by us arising directly or indirectly from your fraud, dishonesty or criminal actions.
 
@@ -277,11 +257,9 @@ If any of your personal account details or financial information relevant to you
 
 17.2 All complaints should be notified to us as soon as possible and in particular all game claims or disputes should be raised with our customer services team within seven (7) days of the original transaction. You must also provide the Game ID and a screenshot of the game as it finished in order for us to assist you.
 
-17.3 Customers who are dissatisfied with the outcome of a complaint may escalate the matter further as follows:
+17.3 Customers who are dissatisfied with the outcome of a complaint may escalate the matter further as follows: UK residents may contact an Alternative Dispute Resolution Service (ADR), a service provided by the Independent Betting Adjudication Service (IBAS) who may be contacted at [www.ibas-uk.com](http://www.ibas-uk.com/).
 
-UK residents may contact an Alternative Dispute Resolution Service (ADR), a service provided by the Independent Betting Adjudication Service (IBAS) who may be contacted at [www.ibas-uk.com](http://www.ibas-uk.com/).
-
-Non-UK residents may contact the Alderney Gambling Control Commission (AGCC): <https://www.gamblingcontrol.org/?s=complaints>.
+Non-Great Britain residents may contact the Alderney Gambling Control Commission (AGCC): <https://www.gamblingcontrol.org/?s=complaints>.
 
 You are also entitled to use the European Online Dispute Resolution forum at <http://ec.europa.eu/consumers/odr/> to resolve disputes.
 
@@ -295,7 +273,7 @@ You are also entitled to use the European Online Dispute Resolution forum at <ht
 
 19\. **Severability**
 
-These terms and conditions are severable. If any condition of the Terms of Use is declared invalid or unenforceable, that condition will be severed from the Terms of Use and the remaining Terms of Use will remain in full force and effect.
+These conditions are severable. If any condition of the Terms of Use is declared invalid or unenforceable, that condition will be severed from the Terms of Use and the remaining Terms of Use will remain in full force and effect.
 
 20\. **Assignment**
 
@@ -309,7 +287,7 @@ Unless we have expressly stated otherwise, nothing in the Terms of Use shall cre
 
 The Terms of Use are governed by, and shall be interpreted in accordance with, the laws of Alderney and you submit to the non-exclusive jurisdiction of the courts of Alderney.
 
-Last updated on: 8th August 2016
+Last updated on: 27th Mar 2017
 
 * * *
 
@@ -323,17 +301,17 @@ Last updated on: 8th August 2016
 
 **2\. INFORMATION COLLECTION AND USE**
 
-2.1 Personal information is collected primarily during the registration process, but is also monitored and collected when there is activity on your account and when you use our site [http://www.grosvenorcasinos.com](http://www.grosvenorcasinos.com/) including versions of our website viewed on mobile phones, tablets or other electronic devices (in all cases referred to as the “ **website** ”).  Personal information (as used in this Policy) refers to such types of information that can be used to personally identify you and which are described in more detail below.
+2.1 Personal information is collected primarily during the registration process, but is also monitored and collected when there is activity on your account and when you use our site [http://www.meccabingo.com](http://www.meccabingo.com/) including versions of our website viewed on mobile phones, tablets or other electronic devices (in all cases referred to as the “ **website** ”).  Personal information (as used in this Policy) refers to such types of information that can be used to personally identify you and which are described in more detail below.
 
 _Types of information_
 
-2.2 You may give us information about you by filling in forms on our website or by corresponding with us by phone, e-mail or otherwise. The information you give us may include but is not limited to your name, age, gender, address, telephone number, e-mail address and bank details.
+2.2 You may give us information about you by filling in forms on our website or by corresponding with us by phone (we may record such calls), e-mail or otherwise. The information you give us may include but is not limited to your name, age, gender, address, telephone number, e-mail address and bank details.
 
 2.3 If you create an account during the registration process certain information will be stored by us under your account profile include your username, email address, and password.
 
 2.4 We may collect technical information about your computer or device including your IP address, operating system, browser type, time-zone, and browser plug-in details.
 
-2.5 In relation to your activity on our website, we may collect information relating to web addresses that you arrive from or click through to, pages viewed, page response times, download errors, length of time spent on certain pages, page interaction information such as scrolling, clicks and wagers, and methods used to browse away from pages.
+2.5 In relation to your activity on our website, we may collect information relating to web addresses that you arrive from or click through to, pages viewed, page response times, download errors, length of time spent on certain pages, page interaction information such as scrolling, clicks, and wagers, and methods used to browse away from pages.
 
 2.6 We may receive information about you if you use any of the other websites we operate or the other services we provide.
 
@@ -350,8 +328,9 @@ _How we may use that information_
   * 2.8.5 notify you about changes to our service;
   * 2.8.6 assist us in setting up and managing your account and to build up an accurate customer profile of you;
   * 2.8.7 provide you, or permit selected third parties to provide you, with information, offers, products or services which we feel may interest you and contact you, or permit selected third parties to contact you, for market research purposes. If you do not want us to use your information in this way please tick the relevant box on the registration form or contact us by one of the methods described in paragraph 4.2 below;
-  * 2.8.8 enable us to comply with all regulatory requirements, in particular those relating to the identification of individuals under money laundering legislation; and
-  * 2.8.9 disclosure as set out in paragraph 5 ( _Disclosure of your Personal Data_ ) below.
+  * 2.8.8 enable us to comply with all regulatory requirements, in particular those relating to the identification of individuals under money laundering legislation;
+  * 2.8.9 to use your chat name and any photograph available with it of you in any promotion of our website, including the promotion of winners; and
+  * 2.8.10 disclosure as set out in paragraph 5 ( _Disclosure of your Personal Data_ ) below.
 
 
 
@@ -444,7 +423,7 @@ Tracking | Collect site use information. Can [opt-out](http://www.grosvenorcasin
 
 4.1 If you do not wish to receive promotional or other marketing information from us or third parties then please tick the appropriate opt-out box during the registration process.
 
-4.2 Alternatively you can easily opt-out of marketing communications at a later date by clicking on the 'My Account' section of our website and clicking on 'Personal Details'; you can then change your communication methods and opt-out. Alternatively, you can send us an email to [support@grosvenorcasinos.com](mailto:support@grosvenorcasinos.com) and we will change your contact status as soon as reasonably possible.
+4.2 Alternatively you can easily opt-out of marketing communications at a later date by clicking on the 'My Account' section of our website and clicking on 'Personal Details'; you can then change your communication methods and opt-out. Alternatively, you can send us an email to [support@meccabingo.com](mailto:support@meccabingo.com) and we will change your contact status as soon as reasonably possible.
 
 **5\. DISCLOSURE OF YOUR PERSONAL DATA**
 
@@ -455,8 +434,8 @@ Tracking | Collect site use information. Can [opt-out](http://www.grosvenorcasin
   * 5.2.1 to reputable marketing partners selected by us for the purposes of selecting and serving relevant promotional materials and adverts to you and others (unless you have told us not to);
   * 5.2.2 to a third party in the event that all or a substantial part of our business and assets are acquired (or it is proposed that they be acquired) by that third party and, in such circumstances, personal information held by us about our customers is likely to be one of the transferred assets;
   * 5.2.3 to any competent legal, regulatory or law enforcement authority, in order to comply with any legal obligation or in order to enforce or apply our terms and conditions and other agreements; or to protect the rights, property or safety of Rank Digital Gaming (Alderney) Limited, our customers, or others. In the event of disclosure to a law enforcement authority, you may not be informed of any disclosure nor of any reasons for such disclosure;
-  * 5.2.4 to exchange information with other companies and organisations for the purposes of age verification, fraud protection, credit checking and/or risk reduction;  
-  * 5.2.5 to our suppliers to the extent required for them to fully perform their services, such as our sports book provider, payment processors and card issuing banks; and
+  * 5.2.4 to exchange information with other companies and organisations for the purposes of age verification, fraud protection, credit checking and/or risk reduction; 
+  * 5.2.5 to our suppliers to the extent required for them to fully perform their services, such as our sports book provider, payment processors and card issuing banks; and
   * 5.2.6 to our professional advisers or other appropriate third parties, including for example if your use of our gaming services or our website is in breach of the terms and conditions or this Policy.
 
 
@@ -479,8 +458,8 @@ We may make changes to this Policy at any time. We will make reasonable efforts 
 
 **9\. CONTACT INFORMATION**
 
-Telephone number: 0800 083 1990
+Telephone number: [0800 083 1990](tel:0800 083 1990)
 
 E-mail: [support@grosvenorcasinos.com](mailto:support@grosvenorcasinos.com)
 
-Last updated on: 23rd May 2016
+Last updated on: 31st Jan 2017
