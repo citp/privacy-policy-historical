@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pswebstore.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231124954id_/https%3A//www.prestashop.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pswebstore.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509093142id_/https%3A//www.prestashop.com/en/privacy-policy) for the most accurate reproduction.*
 
-# PrestaShop - Build an online store with PrestaShop - Free Open-source E-commerce Software
+# Privacy Policy - PrestaShop
 
-Last modified: _May 4th 2015_
+Last modified: May 4th 2015
 
-#### Introduction
+## Introduction
 
-PrestaShop respects your privacy and is committed to protecting it through our compliance with this policy. PrestaShop knows that you care how your information is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By using our Website, you accept the practices described in this privacy policy**. The term “Website” means, collectively, our website, prestashop.com, each other website operated by PrestaShop, the current version 1.6x or any future version of our interface and software application, and the PrestaShop marketplace.
+PrestaShop respects your privacy and is committed to protecting it through our compliance with this policy. PrestaShop knows that you care how your information is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By using our Website, you accept the practices described in this privacy policy. The term “Website” means, collectively, our website, prestashop.com, each other website operated by PrestaShop, the current version 1.6x or any future version of our interface and software application, and the PrestaShop marketplace.
 
 This policy describes the types of information we may collect from you or that you may provide when you access or use our Website, and our practices for collecting, using, maintaining, protecting, and disclosing that information. The information we learn from users helps us personalize and continually improve your PrestaShop experience.
 
@@ -31,7 +31,7 @@ Please read this policy carefully to understand our policies and practices regar
 
 This policy may change from time to time. Your continued use of the Website after we make changes is deemed to be acceptance of those changes, so please check this privacy policy periodically for updates.
 
-#### Information about you collected by the PrestaShop Team and how it is collected
+## Information about you collected by the PrestaShop Team and how it is collected
 
 We collect several types of information from and about users of our Website, including information:
 
@@ -48,7 +48,7 @@ We collect this information:
 
 
 
-#### Information you provide to the PrestaShop Team
+## Information you provide to the PrestaShop Team
 
 The information we collect on or through our Website may include:
 
@@ -62,7 +62,7 @@ You also may provide information to be published or displayed (hereinafter, “p
 
 To request removal of your user contributions on the Website, contact us at [information@prestashop.com](mailto:information@prestashop.com). In some cases, we may not be able to remove your user contribution, in which case we will let you know if we are unable to do so and the reasons why.
 
-#### Information we collect through automatic data collection technologies
+## Information we collect through automatic data collection technologies
 
 As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:
 
@@ -75,23 +75,23 @@ The information we collect automatically is statistical data and may include per
 
   * Estimate our audience size and usage patterns;
   * Speed up your searches; or
-  * Recognize you when you return to our Website.
+  * Recognize you when you return to our Website
 
 
 
 The technologies we use for this automatic data collection may include:
 
-  * **Cookies (or browser cookies)**. To learn more information about cookies, you can read our [Cookies Policy](https://www.prestashop.com/en/legal-notice#cookie).
+  * **Cookies (or browser cookies)**. To learn more information about cookies, you can read our Cookies Policy.
 
 
 
 We do not control third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
-#### Children’s Information
+## Children’s Information
 
 Our Website is not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide personal information through our Website. We do not knowingly collect information from children under thirteen (13) without parental consent.
 
-#### How the PrestaShop Team uses your information
+## How the PrestaShop Team uses your information
 
 We use your information that we collect or that you provide to us, including any personal information:
 
@@ -109,7 +109,7 @@ We use your information that we collect or that you provide to us, including any
 
 We may also use your information to contact you about our own and third-parties’ goods and services that may be of interest to you.
 
-#### Disclosure of your information
+## Disclosure of your information
 
 We may disclose aggregated information about our users and information that does not identify any individual, without restriction. We reserve the right to share, loan, rent, sell, or otherwise disclose your information to third parties at any time, for any lawful purpose, without notice or compensation to you.
 
@@ -132,7 +132,7 @@ We may also disclose your personal information:
 
 
 
-#### Choices about how the PrestaShop team uses and discloses your information
+## Choices about how the PrestaShop team uses and discloses your information
 
 We strive to provide you with choices regarding the personal information you provide to us. Prestashop.com gives you access to information about your account and your interactions with prestashop.com for the limited purpose of viewing and, in certain cases, updating that information. You can update or change your information in your user account.
 
@@ -145,11 +145,11 @@ You can always choose not to provide mandatory information but you will not be a
 
 You may also send us an e-mail at [information@prestashop.com](mailto:information@prestashop.com) to request access to, correct, or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
-#### Information that you disclose to third parties
+## Information that you disclose to third parties
 
 Any information that you disclose to third parties will be subject to the privacy policies and practices of such third parties. We are not responsible for the privacy policies and practices of such third parties and, therefore, you should review the privacy policies and practices of such third parties prior to disclosing information to them.
 
-#### Data security
+## Data security
 
 We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Your information may be hosted on servers located in Canada, France and the United States. By using our Website or providing us with your information, you consent to the transfer of your information to these servers.
 
@@ -157,13 +157,13 @@ The safety and security of your information also depends on you. Where we have g
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
 
-#### Changes to our privacy policy
+## Changes to our privacy policy
 
 As our business evolves, our terms and conditions and/or privacy policy may change as well. It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we may notify you through a pop-up on the prestashop.com home page. We may also e-mail periodic reminders of our notices and conditions, but you should check our website frequently to see recent changes. You are responsible for ensuring we have an up-to-date, active, and deliverable e-mail address for you, and for periodically visiting our Website and this privacy policy to check for any changes. The date the privacy policy was last revised is identified at the top of the page. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
 
 If you choose to use or access our Website, your visit and any dispute over privacy is subject to this privacy policy and our terms and conditions, including, without limitation, limitations on damages, resolution of disputes, and application of the law of the State of Florida or the law of France, as applicable.
 
-#### Contact Information
+## Contact Information
 
 To ask questions or comment about this privacy policy and our privacy practices, please contact us at: [information@prestashop.com](mailto:information@prestashop.com)
 
