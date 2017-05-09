@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bistudio.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513055234id_/https%3A//www.bistudio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bistudio.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509035605id_/https%3A//www.bistudio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bohemia Interactive
 
@@ -23,6 +23,21 @@ You have the right to access and review your personal data, We hold about you an
 ###  Non-personal Data 
 
 Our Services may use tools or third party analytical software to automatically collect and use certain non-personal data (data which cannot be used to directly identify you). We use this data to analyze general user behavior in our services and to help Us improve our Services. 
+
+###  Google Analytics Advertising Features 
+
+In order to maintain high quality of our Services we have implemented following Google Advertising Features: 
+
+  * Remarketing with Google Analytics
+  * Google Display Network Impression Reporting
+  * Google Analytics Demographics and Interest Reporting
+  * Integrated services that require Google Analytics to collect data via advertising cookies and identifiers
+
+
+
+Google Analytics Advertising Features collect data about your traffic via Google advertising cookies. More information about how we use first and third party cookies may be found [here](https://www.bistudio.com/cookie-policy). 
+
+You may opt-out of the Google Analytics Advertising Features by clicking on this [link](https://tools.google.com/dlpage/gaoptout). 
 
 ###  Children 
 
