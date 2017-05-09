@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jerrytenenbaum.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112045000id_/http%3A//www.jerrytenenbaum.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jerrytenenbaum.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509235334id_/http%3A//www.jerrytenenbaum.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Jerry Tenenbaum
 
