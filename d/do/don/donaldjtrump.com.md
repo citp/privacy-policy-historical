@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donaldjtrump.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630080948id_/https%3A//www.donaldjtrump.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donaldjtrump.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509080413id_/https%3A//www.donaldjtrump.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Donald J Trump for President
 
