@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adamsmiddle.org privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402061205id_/http%3A//www.adamsmiddle.org/portal/privacy%3Fd%3Dx%26return_url%3D1459362673100) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adamsmiddle.org privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509050029id_/http%3A//www.adamsmiddle.org/portal/privacy%3Fd%3Dx%26return_url%3D1494169891293) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -6,11 +6,11 @@
 
 (last updated July 2014)
 
-### Welcome
+### Welcome!
 
-Welcome! School Loop, Inc. ("School Loop" or "us" or "we") welcomes you to our website at [www.schoolloop.com](http://www.schoolloop.com/) (the "School Loop Site"). 
+School Loop, Inc. ("School Loop" or "us" or "we") welcomes you to our website at [www.schoolloop.com](http://www.schoolloop.com/) (the "School Loop Site"). 
 
-We provide several services. Our website system is used to create publicly accessible web pages. School Loop Plus is a school-to-home communication and collaboration service that helps teachers, students, school staff, and parents share information about student home assignments, grades, and other school-related information. OnTrackEDU is a social dashboard system that helps education professionals support students and lead effective schools. We refer to our online applications and our website together as the "Service," and all the different types of people who have accounts on the service as "Users."
+We provide several services. Our website system is used to create publicly accessible web pages. School Loop Plus is a school-to-home communication and collaboration service that helps teachers, students, school staff, and parents share information about student home assignments, grades, and other school-related information. We refer to our online applications and our website together as the "Service," and all the different types of people who have accounts on the service as "Users."
 
 This Privacy Notice details important information regarding the use and disclosure of information submitted by Users to the Service, as well as information collected by the Service. This Privacy Notice is incorporated into and is subject to the School Loop Terms of Service. Your use of the School Loop Site and the Service and any information you provide on the School Loop Site or to the Service remains subject to the terms of this Privacy Notice and our Terms of Service.
 
@@ -93,7 +93,7 @@ Google Analytics is used internally by School Loop for development and improveme
 
 ### How does School Loop Protect Personal Information?
 
-We take reasonable steps to protect the data we collect from unauthorized access, disclosure, alteration, or destruction. We do this by implementing industry-standard security procedures for storing and accessing information. However, you should be aware that we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Notice. By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances; third parties may unlawfully intercept or access transmissions or private communications; or users may abuse or misuse your information that they collect from our site. 
+We take reasonable steps to protect the data we collect from unauthorized access, disclosure, alteration, or destruction. We do this by implementing industry-standard security procedures for storing and accessing information. However, you should be aware that we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Notice. By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances; third parties may unlawfully intercept or access transmissions or private communications; or users may abuse or misuse your information that they collect from our site.
 
 ### What about "cookies"?
 
@@ -123,4 +123,4 @@ As School Loop is a product for schools and school districts, access to student 
 
 ### Questions and Feedback 
 
-If you have any questions about this Privacy Notice or to provide us with feedback to help us improve our policies, please contact us by email at **info@schoolloop.com.**
+If you have any questions about this Privacy Notice or would like to provide us with feedback to help us improve our policies, please contact us by email at [info@schoolloop.com](mailto:info@schoolloop.com).
