@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collingwoodfc.com.au privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217021403id_/http%3A//www.collingwoodfc.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collingwoodfc.com.au privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509194224id_/http%3A//www.collingwoodfc.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - collingwoodfc.com.au
 
@@ -160,7 +160,7 @@ An individual may:
 
 
 
-by contacting the AFL by email at [privacy.officer@afl.com.au](mailto:privacy.officer@afl.com.au) or the relevant AFL Club’s Privacy Officer by email at the corresponding address below:
+by contacting the AFL by email at [AFLPrivacy.Officer@afl.com.au](mailto:AFLPrivacy.Officer@afl.com.au) or the relevant AFL Club’s Privacy Officer by email at the corresponding address below:
 
 **Club** | **Contact**  
 ---|---  
