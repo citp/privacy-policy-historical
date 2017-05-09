@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestate.com.au privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011182402id_/https%3A//about.realestate.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestate.com.au privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509025031id_/https%3A//about.realestate.com.au/privacy) for the most accurate reproduction.*
 
 # About - realestate.com.au - Privacy Policy
 
@@ -187,7 +187,7 @@ For more information about privacy issues in Australia and protecting your priva
 
 We use cookies, web beacons and measurement software and tools on the Websites and REA Group Website and so do our services providers and third parties such as our analytics, advertising or ad serving partners. We use and disclose the information collected through the use of cookies, web beacons and measurement software and tools in accordance with this Privacy Policy. This includes using the information to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services. We may allow other third parties to use their own cookies and web beacons to collect information about your visits to the Websites and REA Group Website.
 
-We may combine our cookies, information collected through the cookies and web beacons on the Websites and REA Group Website with other information (including information collected by third parties using their own cookies and web beacons) and use analytics services such as Firebase Analytics to provide better or more relevant services and advertising to you on the Websites, the REA Group Website and third party websites. Our service providers and other third parties may do the same in order to provide more relevant services and advertising to you through other websites that you may visit.
+We may combine our cookies, information collected through the cookies and web beacons on the Websites and REA Group Website with other information (including information collected by third parties using their own cookies and web beacons and providing our cookies and information to third parties) and use analytics services such as Firebase Analytics – to provide better or more relevant services and advertising to you on the Websites, the REA Group Website and third party websites. Our service providers and other third parties may do the same in order to provide more relevant services and advertising to you through other websites that you may visit.
 
 **COOKIE CHOICES**
 
