@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factsnfakes.in privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201154909id_/http%3A//www.factsnfakes.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factsnfakes.in privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509084809id_/http%3A//www.factsnfakes.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
