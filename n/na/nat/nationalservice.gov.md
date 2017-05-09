@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalservice.gov privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212114856id_/http%3A//www.nationalservice.gov/site-policy-and-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalservice.gov privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509080532id_/https%3A//www.nationalservice.gov/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Corporation for National and Community Service
 
