@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fouani.com privacy policy that was archived on 2014-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140306110207id_/http%3A//fouani.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fouani.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509204354id_/http%3A//www.fouani.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Fouani Nigeria Ltd (LG)
+# Privacy | Fouani Group
 
 We only collect personal information that  **YOU**  want to provide to us or that is needed to provide (and improve) our service to you. We collect direct personal information such as name, address and e-mail address as well as indirect information such as cookies, connection and system information.
 
