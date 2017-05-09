@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eslkidstuff.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219030315id_/http%3A//www.eslkidstuff.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eslkidstuff.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509145842id_/http%3A//www.eslkidstuff.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Policy - ESL KidStuff
 
@@ -13,3 +13,7 @@ Like most other internet sites, we collect data on visitor activity through serv
 Our counter host also tracks information comparable to that mentioned in the above paragraph, as well as information like screen resolution, referring URL, etc. This information is used for the same purpose. Any web page you visit which hosts a counter most likely tracks the same information. Again, you remain anonymous to us. 
 
 Our advertisers and / or advertising agencies and / or other third parties may use cookies or other means to track your path from our web site to theirs. This information is used to ensure we are correctly credited for the business we send to the advertiser. For further information, please see the Privacy Statement on the particular site.
+
+Any email you send to us may be publicly posted on this site, unless you specifically request otherwise. We do not release email or other information to outside parties.
+
+If you have any questions, please [email us here](https://web.archive.org/web/20170509145842id_/http%3A//www.eslkidstuff.com/contact.htm). 
