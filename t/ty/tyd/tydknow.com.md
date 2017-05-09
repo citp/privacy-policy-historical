@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tydknow.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229031514id_/http%3A//www.tydknow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tydknow.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509062823id_/http%3A//www.tydknow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Things You Didn't Know
 
