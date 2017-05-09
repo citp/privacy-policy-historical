@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the placementseason.com privacy policy that was archived on 2016-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160906215113id_/http%3A//www.placementseason.com/clkn/http/www.placementseason.com/privacy-policy/%3F__hstc%3D133133201.b2b890949948c616ad1e1f63a566353a.1471932793848.1472031191780.1472037759343.11%26__hssc%3D133133201.1.1472037759343%26__hsfp%3D2485354263) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placementseason.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509065126id_/http%3A//www.placementseason.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Placement Season
+# Privacy Policy – PlacementSeason
 
 We value the trust you place in us. That’s why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices.
 
@@ -11,7 +11,7 @@ By visiting this Website you agree to be bound by the terms and conditions of th
 
 By mere use of the Website, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the Terms of Use.
 
- **Collection of Personally Identifiable Information and other Information**
+**Collection of Personally Identifiable Information and other Information**
 
 When you use our Website, we collect and store your personal information which is provided by you from time to time. Our primary goal in doing so is to provide you a safe, efficient, smooth and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our Website to make your experience safer and easier. More importantly, while doing so we collect personal information from you that we consider necessary for achieving this purpose.
 
@@ -33,7 +33,7 @@ If you send us personal correspondence, such as emails or letters, or if other u
 
 We collect personally identifiable information (email address, name, phone number, credit card / debit card / other payment instrument details, etc.) from you when you set up a free account with us. While you can browse some sections of our Website without being a registered member, certain activities (such as placing an order) do require registration. We do use your contact information to send you offers based on your previous orders and your interests.
 
- **Use of Demographic / Profile Data / Your Information**
+**Use of Demographic / Profile Data / Your Information**
 
 We use personal information to provide the services you request. To the extent we use your personal information to market to you, we will provide you the ability to opt-out of such uses. We use your personal information to resolve disputes; troubleshoot problems; help promote a safe service; collect money; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions; and as otherwise described to you at the time of collection.
 
@@ -44,11 +44,11 @@ We identify and use your IP address to help diagnose problems with our server, a
 We will occasionally ask you to complete optional online surveys. These surveys may ask you for contact information and demographic information (like zip code, age, or  
 income level). We use this data to tailor your experience at our Website, providing you with content that we think you might be interested in and to display content according to your preferences.
 
- **Cookies**
+**Cookies**
 
 A “cookie” is a small piece of information stored by a web server on a web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information specific to a given user. We place both permanent and temporary cookies in your computer’s hard drive. The cookies do not contain any of your personally identifiable information.
 
- **Sharing of personal information**
+**Sharing of personal information**
 
 We may share personal information with our other corporate entities and affiliates to help detect and prevent identity theft, fraud and other potentially illegal acts; correlate related or multiple accounts to prevent abuse of our services; and to facilitate joint or co-branded services that you request where such services are provided by more than one corporate entity. Those entities and affiliates may not market to you as a result of such sharing unless you explicitly opt-in.
 
@@ -57,32 +57,32 @@ orders, or other legal process. We may disclose personal information to law enfo
 
 We and our affiliates will share / sell some or all of your personal information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity, or re-organization, amalgamation, restructuring of business. Should such a transaction occur that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information.
 
- **Links to Other Sites**
+**Links to Other Sites**
 
 Our Website links to other websites that may collect personally identifiable information about you. PlacementSeason.Com is not responsible for the privacy practices or the content of those linked websites.
 
- **Security Precautions**
+**Security Precautions**
 
 Our Website has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.
 
- **Choice/Opt-Out**
+**Choice/Opt-Out**
 
 We provide all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account.
 
 If you want to remove your contact information from all PlacementSeason.Com lists and newsletters, please contact us at support@PlacementSeason.Com or live chat support
 
- **Advertisements on PlacementSeason.Com**
+**Advertisements on PlacementSeason.Com**
 
 We may use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email  
 address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
- **Your Consent**
+**Your Consent**
 
 By using the Website and/ or by providing your information, you consent to the collection and use of the information you disclose on the Website in accordance with this Privacy Policy, including but not limited to Your consent for sharing your information as per this privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
- **Grievance Officer**
+**Grievance Officer**
 
 In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are provided below:  
 Senthilkumar
@@ -90,6 +90,6 @@ Senthilkumar
 Phone: +91- 9035035598  
 Email: support@PlacementSeason.Com
 
- **Questions?**
+**Questions?**
 
 Questions regarding this statement should be directed to the following address: [support@placementseason.Com](mailto:support@placementseason.Com)
