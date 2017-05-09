@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tenafly.k12.nj.us privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022031133id_/http%3A//tenafly.k12.nj.us/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenafly.k12.nj.us privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509020623id_/http%3A//www.tenafly.k12.nj.us/privacy.phtml%3Fsessionid%3Da0aba46c8b2e54f433e3b0f01a66f693) for the most accurate reproduction.*
 
 # Tenafly Public Schools
 
