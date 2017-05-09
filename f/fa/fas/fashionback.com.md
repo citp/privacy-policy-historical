@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionback.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016054841id_/http%3A//fashionback.com/%3Fpage_id%3D408) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionback.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509134127id_/http%3A//fashionback.com/%3Fpage_id%3D408) for the most accurate reproduction.*
 
 # Privacy Policy | Fashion Back
 
