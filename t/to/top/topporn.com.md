@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topporn.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025191136id_/http%3A//www.topporn.com/page/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topporn.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510011457id_/http%3A//topporn.com/page/info/privacy_policy) for the most accurate reproduction.*
 
 # Top Porn Privacy Policy
 
