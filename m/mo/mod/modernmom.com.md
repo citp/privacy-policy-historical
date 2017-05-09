@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernmom.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128053817id_/http%3A//www.modernmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernmom.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509055056id_/http%3A//www.modernmom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – ModernMom
 
@@ -70,5 +70,5 @@ In the course of serving advertisements to this site,  our third-party advertis
 
 To keep your personally identifiable information accurate, current, and complete, please contact us as follows:
 
-[Mom, Inc.](http://www.modernmom.com/) 15210 McKendree Ave Pacific Palisades, CA 90272-1239 United States
+[Mom, Inc.](https://web.archive.org/) 15210 McKendree Ave Pacific Palisades, CA 90272-1239 United States
   *[CA]: California
