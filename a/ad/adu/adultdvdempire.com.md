@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adultdvdempire.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206093445id_/http%3A//www.adultdvdempire.com/help/cs_privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultdvdempire.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509062658id_/http%3A//www.adultdvdempire.com/help/cs_privacypolicy.html) for the most accurate reproduction.*
 
 # Help Pages & Customer Service Info | Adult DVD Empire
 
-Your privacy is important to Ravana, LLC. ("ADE"). We realize that visiting ADE (the "Website") requires trust on your part. We value your trust very highly and pledge to you, our customer, that we will work to protect the security and privacy of your personal information.
+Your privacy is important to Ravana, LLC. ("ADE"). We realize that visiting ADE (the "Website") requires trust on your part. We value your trust very highly and pledge to you, our customer, that we will work to protect the security and privacy of your personal information. 
 
 We believe that you have a right to know the personal information that we collect from you, why we collect it and how we use the information. This Privacy Policy covers how we collect, use, disclose, store and protect your personal information.
 
@@ -15,7 +15,7 @@ We believe that you have a right to know the personal information that we collec
   * How You Can Decide What Marketing Communication You Receive From Us
   * How We Protect The Security Of Your Personal Information
   * Changes To The Privacy Policy
-  * How To Contact ADE
+  * How To Contact ADE 
 
 
 
@@ -67,7 +67,7 @@ Information we collect on the Website may be used to enhance your shopping exper
 
 
 
-When you Create an Account, you are automatically opted-in to receive, in the mail and via email, from ADE, information regarding the various aspects of Your Account, promotional materials and a AdultDVDEmpire catalog. You may opt-out of receiving the emails and promotional materials at any time, by requesting removal from the mailing lists as described in this Privacy Policy. 
+When you Create an Account, you are automatically opted-in to receive, in the mail and via email, from ADE, i nformation regarding the various aspects of Your Account, promotional materials and a AdultDVDEmpire catalog. You may opt-out of receiving the emails and promotional materials at any time, by requesting removal from the mailing lists as described in this Privacy Policy. 
 
 * * *
 
