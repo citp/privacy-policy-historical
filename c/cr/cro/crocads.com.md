@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crocads.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117104348id_/http%3A//legalformsgenerator.com/%3Ff%3D100%26u%3D4a38d702-346f-11e5-a9bf-fa163ec505ba%26d%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crocads.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510010719id_/http%3A//legalformsgenerator.com/%3Ff%3D100%26u%3D4a38d702-346f-11e5-a9bf-fa163ec505ba%26d%3D4) for the most accurate reproduction.*
 
 # Legal Forms Generator - Hosted Legal Forms
 
@@ -10,21 +10,25 @@ This website privacy policy tells you how we collect, use, and protect your pers
 
 We do not provide services or sell products to children. However, we may sell products to adults for use by children. Regardless of the intended end user of our products, only adults should purchase anything from our website. If a product we offer is legal only for adults to use or possess, no adult should purchase the product for illegal use or possession by a minor.
 
-If you are below the age of 18, you may use our website only with the permission, active involvement, and supervision of an adult parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information. 
+If you are less than 18 years old, you may use our website only with the permission, active involvement, and supervision of an adult parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information. 
 
 ## This Policy Is Part Of Our Terms And Conditions Of Use
 
 Our website privacy policy is a part of, and subject to, our website's terms and conditions of use. You may view these terms and conditions on our website.
 
-## The type of information we collect from you and interest-based advertising.
+## This Policy and Customer Agreements
+
+If you are our customer, any customer agreement between us supersedes this policy to the extent there is any conflict with the terms and conditions of the customer agreement.
+
+## The type of information we collect from you and interest-based advertising
 
 Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer's operating system, and the type of web browser that you are using. Our website automatically records this basic information about you.
 
-And like many other websites, we may use cookies, click redirects, pixel tags, container tags, and similar technologies. In plain English, this means information that our website's server transfers to your computer. This information can be used to track your session on our website and to customize our website content for you as an individual. 
+And like many other websites, we may use cookies, web beacons, click redirects, pixel tags, container tags, and similar technologies. In plain English, this means information that our website's server transfers to your computer. This information can be used to track your session on our website and to customize our website content for you as an individual. 
 
 If you are using one of the common Internet Web browsers, you can set up your browser to either (a) let you know when you are being tracked by us or to (b) deny us tracking access to your computer or electronic mobile device. The manufacturer of the browser you use has instructions on how to modify tracking settings. You may find these instructions in the “Help” section of your browser or by contacting the browser’s manufacturer.
 
-If you download or use mobile software applications (“Mobile Apps”) from our website, we may know your location. In addition, your smart phone, computer tablet, or other electronic device using our Mobile Apps may provide us information about the device, including its unique identifier, make and model, operating system, mobile network carrier, and your telephone number.
+If you download or use mobile software applications (“Mobile Apps”) from our website, we may know your location. In addition, your smart phone, computer tablet, or other electronic device using our Mobile Apps may provide us information about the device, including its unique identifier, make and model, operating system, mobile network carrier, and your telephone number. Your mobile device may have the ability to disable location services as well as deny us access to other information described in this paragraph. To learn more, check your mobile device’s user manual and/or contact your mobile device’s manufacturer or service carrier.
 
 We may also collect any data that you provide us by posting it at our website or by sending to us via email. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website's services and features.
 
@@ -58,7 +62,15 @@ _Interest-Based Advertising_
 
 When you visit our website, you may view advertisements posted on the site by Google or other companies. These advertising companies may collect information about you while you are visiting this website and other websites. They may use this data to show you advertisements on this website and elsewhere on the Internet about products and services you might like. 
 
-This website does not collect the information or control the content of the advertisements that you will see. You may be able to opt out of such advertising. To find out more about Google privacy policies and its DoubleClick DART cookie used to generate interest-based advertising, go to <http://www.google.com/privacy/ads/>.
+This website does not collect the information or control the content of the advertisements that you will see. You may be able to opt out of such advertising. 
+
+If you are in the United States, you may opt out of some advertising via the Digital Advertising Alliance at <http://www.aboutads.info/choices/>
+
+If you are in Canada, you may opt out of some advertising via the Digital Advertising Alliance of Canada at [ http://youradchoices.ca/](http://youradchoices.ca/)
+
+If you are in Europe, you may opt out of some advertising via the European Interactive Digital Advertising Alliance at [ http://www.youronlinechoices.com/](http://www.youronlinechoices.com/)
+
+To find out more about Google privacy policies and its DoubleClick DART cookie used to generate interest-based advertising, go to [ https://www.google.com/policies/technologies/ads/ ](https://www.google.com/policies/technologies/ads/).
 
 _Protect My Choices_
 
@@ -70,7 +82,7 @@ This website may use a remarketing tag to advertise online. This means that Goog
 
 If you would like to opt out of Google’s use of cookies, you can visit the company’s Ad Preferences Manager at <https://www.google.com/ads/preferences/>.
 
-In the alternative, you can opt out of the use of cookies by third-party vendors by going to the Network Advertising Initiative’s opt-out page located at [ http://www.networkadvertising.org/choices/ ](http://www.networkadvertising.org/choices/). 
+In the alternative, you can opt out of the use of cookies by some third-party vendors by going to the Network Advertising Initiative’s opt-out page located at [ http://www.networkadvertising.org/choices/ ](http://www.networkadvertising.org/choices/). 
 
 _Dynamic Ad Serving_
 
@@ -136,6 +148,6 @@ JAM Marketing Inc.
 New York, NY 10003  
 United States
 
-This website privacy policy was last updated on July 27, 2015.
+This website privacy policy was last updated on December 25, 2016.
 
-Copyright © 2008-2016 Law Office of Michael E. Young PLLC and generated with [Website Legal Forms Generator software](http://legalformsgenerator.com/ "website privacy policy and terms of use"), and licensed for use by the owner of this Website at http://crocads.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner. Use of this document does not make the website owner a client of the law firm. Contact the website owner with any questions or concerns about this site.
+Copyright © 2008-2017 [Law Office of Michael E. Young PLLC](http://mikeyounglaw.com/ "internet lawyer mike young") and generated with [Website Legal Forms Generator software](http://legalformsgenerator.com/ "website privacy policy and terms of use"), and licensed for use by the owner of this Website at http://crocads.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner. Use of this document does not make the website owner a client of the law firm. Contact the website owner with any questions or concerns about this site.
