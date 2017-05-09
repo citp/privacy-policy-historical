@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thaigirlswild.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130103026id_/http%3A//support.teamoneymedia.com/support/privacy.php%3Fcode%3Dtgw) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thaigirlswild.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510012613id_/http%3A//support.teamoneymedia.com/support/privacy.php%3Fcode%3Dtgw) for the most accurate reproduction.*
 
 # Tea Money Media Customer Support
 
