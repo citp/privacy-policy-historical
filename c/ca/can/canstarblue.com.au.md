@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the canstarblue.com.au privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129020448id_/http%3A//www.canstarblue.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canstarblue.com.au privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509180130id_/http%3A//www.canstarblue.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Canstar Blue Privacy Policy - Canstar Blue
 
-Version: 14 January 2016
+Version: 21 February 2017
 
 Canstar Blue Pty Limited A.C.N. 142 285 434 (“Canstar Blue”) recognises the importance of protecting your privacy and abides by the Australian Privacy Principles contained in the (amended) Privacy Act 1988.  
 This privacy policy explains how we collect personal information and how we maintain, use and disclose that information. It also provides some detail about your privacy rights along with our general rights and obligations and our policy in relation to the personal information we keep on record.
@@ -18,6 +18,7 @@ Generally, we keep a record of the following types of information about you:
   * information that identifies you, such as your name and address and other information voluntarily provided by you;
   * if you use a forum, feedback/rating tool, calculator, online survey or other tool (“Website Tool”) on our website, the information that you enter into the Website Tool;
   * your IP address for your interaction with various parts of our website. Your IP address is the identifier for your computer when you are using the internet.
+  * other personal information that you give to us when you visit the Canstar Blue office, such as photographs we take of you with your permission, and physical or digital signatures.
 
 
 
@@ -28,14 +29,15 @@ During our dealings with you, we may gather information about you relating to al
 We collect and hold information about you when you:
 
   * complete an online form or use a Website Tool;
-  * provide us with your email address and/or telephone number; or
-  * access and use our services through our website.
+  * provide us with your email address and/or telephone number;
+  * access and use our services through our website; or
+  * sign in as a visitor to the Canstar Blue office.
 
 
 
 We also collect some statistical information about visitors to our website (for example, the number of visitors, pages viewed, types of transactions conducted, time online and documents downloaded). Some of this statistical information is collected by using cookies, but none of the statistical information we collect allows us to identify a visitor. We use this information to evaluate our website performance and continually improve our services. We may disclose this information in an aggregated form to third parties including advertisers or potential advertisers. Other than statistical information, we do not collect any information about you through our website unless you voluntarily provide the information to us.
 
-As you browse Canstar Blue’s website, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partners from time to time enable us to present you with retargeting advertising on other sites based on your previous interaction with Canstar Blue. The techniques our partners employ do not collect personal information such as your name, email address, postal address, or telephone number. You can visit this [page](http://www.networkadvertising.org/choices/%20) to opt out of targeted advertising if the advertiser is a member of NAI.
+As you browse Canstar Blue’s website, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partners from time to time enable us to present you with retargeting advertising on other sites based on your previous interaction with Canstar Blue. The techniques our partners employ do not collect personal information such as your name, email address, postal address, or telephone number. You can visit this [page](http://www.networkadvertising.org/choices/%20) to opt out of targeted advertising if the advertiser is a member of NAI.
 
 You need not give us any of the personal information about you or any other person which may be requested in our communications with you. However, without that information, we may not be able to fulfill your request or provide you with an appropriate level of service.
 
@@ -47,7 +49,8 @@ We use your personal information to:
   * provide products and services to you;
   * deal with complaints or issues you may have in relation to our services;
   * review your dealings with us, including the products and services you use, your potential needs, and new products that might be of interest to you or other customers;
-  * ensure our internal business operations are running smoothly which may include fulfilling legal requirements and conducting confidential systems maintenance and testing;
+  * ensure our internal business operations are running smoothly which may include fulfilling legal requirements and conducting confidential systems maintenance and testing; and
+  * help preserve the personal safety and security of our customers, website users, staff and the public.
 
 
 
@@ -99,13 +102,13 @@ If you do not wish to receive information about our products and services then p
 
 **Access to your information**
 
-You can request access at any time to personal information we hold about you by using the contact details below . We will process your request within a reasonable time, usually 14 days for a straightforward request. More time may be needed, depending on the nature of the request. There is no fee for requesting access to your information; however we may charge you the reasonable cost of processing your request. Sometimes we are not required to provide you with access – for example, if the law says we can deny access. If we refuse you access to your personal information, we will tell you the reason why.
+You can request access at any time to personal information we hold about you by using the contact details below. We will process your request within a reasonable time, usually 14 days for a straightforward request. More time may be needed, depending on the nature of the request. There is no fee for requesting access to your information; however we may charge you the reasonable cost of processing your request. Sometimes we are not required to provide you with access – for example, if the law says we can deny access. If we refuse you access to your personal information, we will tell you the reason why.
 
 **Correction of information**
 
 We try to ensure that all information we hold about you which we collect, use or disclose is accurate, complete and up to date. You must promptly notify us if there are any changes to your personal information. You may ask us at any time to correct personal information held by us about you, which you believe is incorrect or out of date. We will deal with your request within a reasonable time.
 
-In this policy, reference to “we/us” means CANSTAR Blue Pty Limited A.C.N. 142 285 434 (“CANSTAR Blue”).
+In this policy, reference to “we/us” means CANSTAR Blue Pty Limited A.C.N. 142 285 434 (“Canstar Blue”).
 
 **Fraud warning**
 
@@ -115,7 +118,7 @@ Please be aware that if you receive a call from someone claiming to be from Cans
 
 Scammers also send ‘phishing’ emails asking consumers to ‘verify’ and ‘record’ personal financial details by clicking on a link. These links often lead to fake websites. Do not reply to these types of emails and do not click on any links.
 
-Please do not provide any information in response to unsolicited phone calls or phishing emails. If you’ve received a telephone call or an email of this type, please contact [cns-blue@canstar.com.au](mailto:cns-blue@canstar.com.au) or call 07 3837 4160 immediately.
+Please do not provide any information in response to unsolicited phone calls or phishing emails. If you’ve received a telephone call or an email of this type, please contact [enquiries@canstarblue.com.au](mailto:enquiries@canstarblue.com.au) or call 07 3837 4160 immediately.
 
 If in doubt, do not provide any details.
 
@@ -124,8 +127,8 @@ If in doubt, do not provide any details.
 If you have any questions, concerns or complaints about our privacy policy or practices please contact our Privacy Officer
 
 By telephone: (07) 3837 4100     9am – 5pm on business days in Brisbane, Qld.  
-By email:  enquiries@canstar.com.au
+By email:  enquiries@canstarblue.com.au
 
 We will try to answer any questions you may have, correct any error on our part or resolve any complaint that you may have about our information handling practices. If we do not resolve a complaint to your satisfaction, you also have the right to complain to the Office of the Australian Privacy Commissioner, Tel: 1300 363 992 or email:privacy@privacy.gov.au
 
-You acknowledge and accept that your use of the CANSTAR Blue website indicates your acceptance of the CANSTAR Blue website [Terms of Use](http://www.canstarblue.com.au/terms-and-conditions/ "Terms and Conditions") and Privacy Policy.
+You acknowledge and accept that your use of the Canstar Blue website indicates your acceptance of the Canstar Blue website [Terms of Use](http://www.canstarblue.com.au/terms-and-conditions/) and Privacy Policy.
