@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westfield.com.au privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113061819id_/https%3A//www.westfield.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westfield.com.au privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509101620id_/https%3A//www.westfield.com.au/privacy-policy) for the most accurate reproduction.*
 
 # 
 
