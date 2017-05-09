@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the childstarlets.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125124930id_/http%3A//www.childstarlets.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childstarlets.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509175649id_/http%3A//www.childstarlets.com/privacy.html) for the most accurate reproduction.*
 
 # CHILDSTARLETS.COM - Privacy Policy
 
