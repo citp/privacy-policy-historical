@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpp.org privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017090234id_/https%3A//www.mpp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpp.org privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509193247id_/https%3A//www.mpp.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MPP
 
@@ -64,8 +64,8 @@ Your personally identifiable information is kept secure. Only authorized employe
 
 **THIRD-PARTY SERVICE PROVIDERS**
 
-Portions of the mpp.org site (donation processing, the MPP store, and action center) are operated by a third-party grassroots campaign service provider, which is currently Convio. Convio may place cookies on your computer in order to store information, such as items placed in your shopping cart in the MPP store or storing your account login when using the action center. Convio logs standard technical information, such as the numerical internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the internet address of the website from which you linked directly to our site.
+Portions of the mpp.org site (donation processing, the MPP store, and action center) are operated by a third-party grassroots campaign service provider, which is currently Salsa. Salsa may place cookies on your computer in order to store information, such as items placed in your shopping cart in the MPP store or storing your account login when using the action center. Salsa logs standard technical information, such as the numerical internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the internet address of the website from which you linked directly to our site.
 
-Convio also stores and organizes the personal information collected through this site on our behalf.
+Salsa also stores and organizes the personal information collected through this site on our behalf.
 
 From time to time, MPP may work with third-party consultants or other service providers who have access to personally identifiable information. In such cases, we will restrict their use of personally identifiable information in accordance with their assigned tasks and subject to the limitations of this privacy policy.
