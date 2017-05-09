@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtend-life.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222051550id_/http%3A//www.xtend-life.com/our-approach/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtend-life.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509021122id_/http%3A//www.xtend-life.com/our-approach/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Xtend-Life Natural Certified Privacy
 
