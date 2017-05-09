@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegenews.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218043317id_/http%3A//www.collegenews.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegenews.com privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509020817id_/http%3A//www.collegenews.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy & User Agreement - College News
 
@@ -42,10 +42,12 @@ If at any point we decide that we wish to use personally identifiable informatio
 
 Print Subscribers or applicants who do not want their names used in any of the above ways may write and ask to be removed from the promotion list. Requests should be sent to:
 
-One2One Digital manages CollegeNews.com and handles the sites social.
+One2One Digital manages CollegeNews.com and handles the sites social media.
 
 [One2One Digital](http://www.one2onedigital.com/)  
-730 N. Franklin St. Suite 604,  
-Chicago, IL 60654, USA  
+123 W Madison Street,
+
+Chicago, IL 60602, USA
+
 312-572-7722  
-[http://www.One2OneDigital.com](http://www.collegenews.com/index.php?URL=http%3A%2F%2Fwww.One2OneDigital.com)
+[http://www.One2OneDigital.com](http://www.collegenews.com/?URL=http%3A%2F%2Fwww.One2OneDigital.com)
