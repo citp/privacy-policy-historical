@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momanddadmoney.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907214435id_/http%3A//momanddadmoney.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momanddadmoney.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510164945id_/https%3A//momanddadmoney.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mom and Dad Money
 
@@ -22,3 +22,5 @@ Any and all nonpublic personal information that we receive with respect to our c
 ## Confidentiality and Security
 
 We restrict access to nonpublic personal information about our clients to those employees and agents who need to know that information to provide products and services to our clients. We maintain physical, electronic and procedural safeguards to protect our clients’ nonpublic personal information. We respect and value that you have entrusted us with your private financial information, and we will work diligently to maintain that trust. We are committed to preserving that trust by respecting your privacy as provided herein.
+
+If you have any questions regarding this privacy notice, please contact the Chief Compliance Officer, Matthew Becker at (850) 426-4034.
