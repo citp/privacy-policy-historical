@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marksandspencer.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230153051id_/http%3A//help.marksandspencer.com/support/legal-and-ethical/privacy-policy1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marksandspencer.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510203141id_/http%3A//help.marksandspencer.com/support/legal-and-ethical/privacy-policy1) for the most accurate reproduction.*
 
 # Ask Marks & Spencer - What is the website's privacy policy?
 
@@ -81,7 +81,8 @@ Marks & Spencer (and third party data processors acting on our behalf) may colle
   * with your agreement, to contact you (including by SMS, push and e-mail) about promotional offers and products and services which we think may interest you;
   * for customer satisfaction and market research purposes;
   * to provide our goods and services to you and for associated purposes, including verifying your identity;
-  * for research, analysis, testing, monitoring, risk management and administrative purposes; and
+  * for research, analysis, testing, monitoring, risk management and administrative purposes;
+  * to deliver goods to you (this will include sharing your delivery address and email with delivery companies, such as Royal Mail, to arrange and make the delivery); and
   * for any related purposes, or where we have a legal right or duty to use or disclose your information (including for crime and fraud prevention and related purposes).
 
 
