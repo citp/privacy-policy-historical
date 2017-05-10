@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jobcentreonline.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502025444id_/http%3A//www.jobcentreonline.com/JCOLFront/Template.aspx%3Farticlename%3DPrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobcentreonline.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510160940id_/https%3A//www.jobcentreonline.com/JCOLFront/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
-This page explains how JobCentreOnline, which is managed by the Department for Employment & Learning, uses any information you give to us, and the ways in which we protect your privacy. All personal information will be dealt with in accordance with the terms of the Data Protection Act 1998.
+This page explains how JobCentreOnline, which is managed by the Department for Communities, uses any information you give to us, and the ways in which we protect your privacy. All personal information will be dealt with in accordance with the terms of the Data Protection Act 1998.
 
  **The Data Protection Act**  
 Under the Data Protection Act, we have a legal duty to protect any information we collect from you. We use leading technologies and encryption software to safeguard your data, and keep strict security standards to prevent any unauthorised access to it. If you make vacancy applications online, the application and CV will be passed to the relevant employer.  If you are unemployed, and make vacancy applications online, this will update your client record on our database with the vacancy number.  
@@ -31,12 +31,7 @@ JobCentreOnline.com contains links to other websites, both those of government d
 
  **Access to your information and contacting JobCentreOnline.com**  
 You can change your registration information at any time. To do this, you should sign in then click 'My Profile' on the homepage. The 'Basic Information' button will allow you to edit your profile.  
-If you have a query or complaint about this privacy policy or about the site, you can contact us by email: 
-
-mailto:jcol_feedback@delni.gov.uk
+If you have a query or complaint about this privacy policy or about the site, you can contact us by email: [employersonlineni@communities-ni.gov.uk](mailto:employersonlineni@communities-ni.gov.uk)
 
  **Changes to this privacy policy**  
 If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
-
-  
-
