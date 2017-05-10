@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the find-name-meaning.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206073701id_/http%3A//find-name-meaning.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the find-name-meaning.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510200605id_/http%3A//find-name-meaning.com/privacy.php) for the most accurate reproduction.*
 
 # Find Name Meaning
 
