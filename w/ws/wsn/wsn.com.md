@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsn.com privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820034258id_/https%3A//www.wsn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsn.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510105854id_/https%3A//www.wsn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Questions and Answers - WSN.com
 
