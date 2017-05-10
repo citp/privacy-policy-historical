@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dkit.ie privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324120502id_/https%3A//www.dkit.ie/dundalk-institute-technology/documents-forms/website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dkit.ie privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510075439id_/https%3A//www.dkit.ie/dundalk-institute-technology/documents-forms/website/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dundalk Institute of Technology
 
