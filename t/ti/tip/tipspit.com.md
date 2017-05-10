@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipspit.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130113815id_/http%3A//www.tipspit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipspit.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510212821id_/http%3A//www.tipspit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
