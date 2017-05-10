@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosanangelo.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202195738id_/http%3A//www.gosanangelo.com/about-us/privacy_policy-317546751.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosanangelo.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510061426id_/http%3A//static.gosanangelo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | San Angelo Standard-Times
 
