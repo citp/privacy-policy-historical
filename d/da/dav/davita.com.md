@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davita.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021184033id_/https%3A//www.davita.com/about/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davita.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511004848id_/https%3A//www.davita.com/about/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy - DaVita
 
