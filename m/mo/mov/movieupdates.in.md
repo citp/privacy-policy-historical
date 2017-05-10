@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movieupdates.in privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206070300id_/http%3A//movieupdates.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieupdates.in privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510194156id_/http%3A//movieupdates.in/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY – Movieupdates.in
 
@@ -36,7 +36,7 @@
 
 **site.**
 
-194 total views, 1 views today
+1,011 total views, 7 views today
 
 What do you think of this post?
 
