@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readlightnovel.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130080815id_/http%3A//www.readlightnovel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readlightnovel.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510192316id_/http%3A//www.readlightnovel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Readlightnovel.com
 
