@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aosholding.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119011241id_/http%3A//aosholding.com/PageView.Asp%3FSortID%3D1%26ID%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aosholding.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510145251id_/http%3A//aosholding.com/PageView.Asp%3FSortID%3D1%26ID%3D16) for the most accurate reproduction.*
 
 # Privacy Statement - AOS Forex Broker
 
