@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aflac.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201201944id_/https%3A//www.aflac.com/about-aflac/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aflac.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510125252id_/https%3A//www.aflac.com/about-aflac/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Aflac Privacy Policy
 
-Effective Date: September 16, 2015
+Effective Date: January 6, 2017
 
 Welcome! Thank you for visiting an offering of Aflac Incorporated and the Aflac group of insurance companies, including American Family Life Assurance Company of Columbus, its wholly owned subsidiary, American Family Life Assurance Company of New York, and Continental American Insurance Company (“CAIC”) (the Aflac group of insurance companies are collectively, “Aflac,” “we,” our” or “us”). The aforementioned Aflac companies are separate legal entities. To help inform you, we provide this policy explaining our information practices and the choices you can make about the collection and use of information you submit or we collect (1) online through our websites [www.aflac.com](https://www.aflac.com/), [duckprints.aflac.com](http://duckprints.aflac.com/), [www.aflacgroupinsurance.com](http://www.aflacgroupinsurance.com/), [www.aflacny.com](http://www.aflacny.com/), and <https://phs.aflac.com/aflac.phs.app/account/login>, our mobile websites, and other applications (the “Site”), and (2) our offline services and tools, including call centers, offline enrollment tools, surveys, and other applications (“Offline Services”). The Site and Offline Services are collectively referred to in this policy as the “Services.” The Services are owned and operated by Aflac.
 
@@ -103,28 +103,41 @@ Information collected through the Services may be shared with:
     5. **Change of Control – New Owners:** We may share your information with other business entities, should we plan to merge with or be acquired by that business entity. Should such a combination occur, we will make reasonable efforts to request that the new combined entity follow this Privacy Policy with respect to your personal information. If your personal information would be used contrary to this policy, we will request that the new owner provide you with prior notice.
     6. **Companies in The Mobile App Industry:** If you access the Services through a mobile device, we may also share your information with carriers, operating systems and platforms.
     7. **Information You Share Through the Services:** When you interact with our Site through social media sites, plug-ins or other applications, depending upon your privacy settings, this information may become public on the Internet. We cannot prevent or control further use of this information. You can control what data you share through privacy settings available on some social media sites. Please refer to those third-party sites’ privacy policies and terms of use to learn more about their privacy practices, which we do not control.
-    8. **Notices of Information We Share Pursuant to State and Federal Laws:** Under various state laws and the Gramm-Leach-Bliley Act, insurers and agents must describe their information practices in addition to providing a HIPAA Notice of Privacy Practices. If you are a resident of the following, please click the links below to obtain more information: 
-      * [California](https://web.archive.org/docs/about-aflac/glba-aflac-privacy-practices-a90070-ca.pdf "GLBA Aflac Privacy Practices in California")
-      * [Delaware](https://web.archive.org/docs/about-aflac/glba-aflac-privacy-practices-a90070-de.pdf "GLBA Aflac Privacy Practices in Delaware")
-      * [Illinois](https://web.archive.org/docs/about-aflac/glba-aflac-privacy-practices-a90070-il.pdf "GLBA Aflac Privacy Practices in Illinois")
-      * [Montana](https://web.archive.org/docs/about-aflac/glba-aflac-privacy-practices-a90070-03-mt.pdf "GLBA Aflac Privacy Practices in Montana")
-      * [New Jersey](https://web.archive.org/docs/about-aflac/glba-aflac-privacy-practices-a90070-nj.pdf "GLBA Aflac Privacy Practices in New Jersey")
-      * [Puerto Rico](https://web.archive.org/docs/about-aflac/glba-aflac-privacy-practices-a90070-pr.pdf "GLBA Aflac Privacy Practices in Puerto Rico")
-      * [Washington](https://web.archive.org/docs/about-aflac/glba-aflac-privacy-practices-a90070-wa.pdf "GLBA Aflac Privacy Practices in Washington")
-      * [All other states](https://web.archive.org/docs/about-aflac/glba-aflac-privacy-practices-a90070-all-states.pdf "GLBA Aflac Privacy Practices in all states")
+    8. **Notices of Information We Share Pursuant to State and Federal Laws:** Under various state laws and the Gramm-Leach-Bliley Act, insurers and agents must describe their information practices in addition to providing a HIPAA Notice of Privacy Practices. 
+
+Aflac policyholders select your appropriate notice or form below:
+
+      * All other states and Puerto Rico - [English](https://web.archive.org/docs/about-aflac/hipaa-glba-2017/glba-all-other-states-and-puerto-rico-english.pdf "GLBA Aflac Privacy Practices in all other states and Puerto Rico \(English\)") | [Español](https://web.archive.org/docs/about-aflac/hipaa-glba-2017/glba-all-other-states-and-puerto-rico-spanish.pdf "Todos los demás Estados y Puerto Rico \(Español\)")
+      * California - [English](https://web.archive.org/docs/about-aflac/hipaa-glba-2017/glba-california.pdf "GLBA Aflac Privacy Practices in California \(English\)") | [Español](https://web.archive.org/docs/about-aflac/hipaa-glba-2017/glba-california-spanish.pdf "GLBA Aflac Privacy Practices in California \(Español\)")
+      * Montana - [English](https://web.archive.org/docs/about-aflac/hipaa-glba-2017/glba-montana.pdf "GLBA Aflac Privacy Practices in Montana \(English\)") | [Español](https://web.archive.org/docs/about-aflac/hipaa-glba-2017/glba-montana-spanish.pdf "GLBA Aflac Privacy Practices in Montana \(Español\)")
+      * Affiliate Marketing Opt-Out Form (Aflac) - [English](https://web.archive.org/docs/about-aflac/hipaa-glba-2017/affiliate-marketing-opt-out-form.pdf "Affiliate Marketing Opt-Out Form \(Aflac\) \(English\)") | [Español](https://web.archive.org/docs/about-aflac/hipaa-glba-2017/affiliate-marketing-opt-out-form-spanish.pdf "Formulario de Renuncia al Mercadeo por Afiliación \(Aflac\) \(Español\)")
+
+CAIC certificate holders select your appropriate notice or form below:
+
+      * [Aflac Group Privacy Notifications](https://aflacgroupinsurance.com/aboutaflac/privacynotifications.aspx "Aflac Group Privacy Notifications")
+      * Affiliate Marketing Opt-Out Form (CAIC) - [English](https://aflacgroupinsurance.com/docs/privacynotifications/glba_hipaa_2017/group_affiliate_marketing_opt_out_form_english.pdf "Affiliate Marketing Opt-Out Form \(CAIC\) \(English\)") | [Español](https://aflacgroupinsurance.com/docs/privacynotifications/glba_hipaa_2017/group_affiliate_marketing_opt_out_form_spanish.pdf "Formulario de Renuncia al Mercadeo por Afiliación \(CAIC\) \(Español\)")
   5. **HIPAA Notice of Privacy Practices**
 
 The Health Insurance Portability and Accountability Act of 1996 (HIPAA) Privacy Rule provides individuals with the right to receive a notice that describes (1) how their individual health information, personal information and other protected health information (“PHI”) may be used and/or disclosed, (2) their privacy rights with respect to their PHI (including their right to access their PHI and other rights), and (3) Aflac’s obligations with respect to that information. Aflac is fully committed to its compliance with the HIPAA Rules, including the Privacy Rule, in safeguarding PHI.
 
 For its HIPAA-covered insurance policies, Aflac is federally mandated to send a notice (Notice of Privacy Practices) to its insureds and to post the notice on its website. You should be aware that your state law may provide additional access and amendment rights to you which differ from those granted by HIPAA. If you would like additional information concerning the collection and disclosure of PHI and your rights under state law to access and amend such information, it will be furnished upon request. Please e-mail your request to [privacyoffice@aflac.com](mailto:privacyoffice@aflac.com). If you are a CAIC account or certificate holder, please email your request to [aflacgroupprivacyoffice@aflac.com](mailto:aflacgroupprivacyoffice@aflac.com).
 
-In order to access Aflac’s HIPAA Notice of Privacy Practices, please select the state or U.S. territory where you live:
+In order to access Aflac’s HIPAA Notice of Privacy Practices, please select from the appropriate options below:
 
-    * [Puerto Rico](https://web.archive.org/docs/about-aflac/hipaa-notice-of-privacy-practices-a90069-pr.pdf "HIPAA Notice of Privacy Practices in Puerto Rico")
-    * [All other states](https://web.archive.org/docs/about-aflac/hipaa-notice-of-privacy-practices-a90069.pdf "HIPAA Notice of Privacy Practices in all states")
+Aflac policyholders:
+
+    * All states and Puerto Rico - [English](https://web.archive.org/docs/about-aflac/hipaa-glba-2017/hipaa-all-states-and-puerto-rico-english.pdf "HIPAA Notice of Privacy Practices in all states and Puerto Rico \(English\)") | [Español](https://web.archive.org/docs/about-aflac/hipaa-glba-2017/hipaa-all-states-and-puerto-rico-spanish.pdf "Todos los demás Estados y Puerto Rico \(Español\)")
+
+CAIC certificate holders access your notice using the link below
+
+    * [Aflac Group Privacy Notifications](https://aflacgroupinsurance.com/aboutaflac/privacynotifications.aspx "Aflac Group Privacy Notifications")
   6. **Your Choices**
 
-You can opt-out of notifications from Aflac by following instructions within the notices or emailing your opt-out request to [webmaster@aflac.com](mailto:webmaster@aflac.com). You may not opt-out of administrative emails (for example, emails about your transactions or policy changes) for your registered account. You can opt-out of receiving communications by expressing your preferences to us using one of the mechanisms described in the Contact Us section below.
+**Aflac customers**  
+You can opt-out of notifications from Aflac by following instructions within the notices or emailing your opt-out request to [webmaster@aflac.com](mailto:webmaster@aflac.com). You may not opt-out of administrative emails (for example, emails about your transactions or policy changes) for your registered account. You may also choose to opt-out from receiving marketing materials from us by calling 800.992.3522 or downloading and completing the [Affiliate Marketing Opt-Out Form](https://web.archive.org/docs/about-aflac/hipaa-glba-2017/affiliate-marketing-opt-out-form.pdf "Affiliate Marketing Opt-Out Form \(Aflac\)"). For more information, refer to “[Opting Out of Information Sharing](https://web.archive.org/docs/about-aflac/hipaa-glba-2017/glba-all-other-states-and-puerto-rico-english.pdf#page=2 "Opting Out of Information Sharing")” in the GLBA Customer Privacy Policy. You can opt-out of receiving communications by expressing your preferences to us using one of the mechanisms described in the Contact Us section below.
+
+**Aflac Group customers**  
+If you are an Aflac Group customer, you can opt-out of notifications from Aflac Group by following instructions within the notices or emailing your opt-out request to [aflacgroupprivacyoffice@aflac.com](mailto:aflacgroupprivacyoffice@aflac.com). You may not opt-out of administrative emails (for example, emails about your transactions or policy changes) for your registered account. You may also choose to opt-out from receiving marketing materials from Aflac Group by calling 800-433-3036 or downloading and completing the [Affiliate Marketing Opt-Out Form](https://aflacgroupinsurance.com/docs/privacynotifications/glba_hipaa_2017/group_affiliate_marketing_opt_out_form_english.pdf "Affiliate Marketing Opt-Out Form \(Aflac\)"). For more information, refer to “[Opting Out of Information Sharing](https://aflacgroupinsurance.com/docs/privacynotifications/glba_hipaa_2017/glba_all_other_states_and_puerto_rico_english.pdf "Opting Out of Information Sharing")” in the GLBA Customer Privacy Policy. You can opt-out of receiving communications by expressing your preferences to us using one of the mechanisms described in the Contact Us section below.
 
   7. **Cookies and Tracking Technologies**
 
