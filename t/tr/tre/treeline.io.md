@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the treeline.io privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117191315id_/https%3A//treeline.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treeline.io privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510121726id_/http%3A//sailsjs.com/privacy) for the most accurate reproduction.*
 
-# Treeline Privacy Policy
+# Privacy Policy | Sails.js
+
+## Sails Privacy Policy
 
 ### General Information
 
-At Treeline we believe it is important for you to understand what types of information we are collecting and what may happen to that information when using our website and related applications and resources (collectively, the “Service”). This Privacy Policy is designed to explain Treeline’s policies and procedures with respect of collection, use and disclosure by Treeline of information about you in connection with the Service. This Privacy Policy has a limited scope and applies only to the Service. 
+At The Sails Company we believe it is important for you to understand what types of information we are collecting and what may happen to that information when using our website and related applications and resources (collectively, the “Service”). This Privacy Policy is designed to explain The Sails Company’s policies and procedures with respect of collection, use and disclosure by The Sails Company of information about you in connection with the Service. This Privacy Policy has a limited scope and applies only to the Service. 
 
-By accessing the Service, you consent to the collection, use and disclosure of your personal information as explained in this privacy policy (the “Privacy Policy”). This Privacy Policy is incorporated into and is subject to the Treeline Terms of Service, which can be accessed [here](https://web.archive.org/terms-of-service). Your use of the Service and any information you provide through the Service is subject to the terms of this Privacy Policy and our Terms of Service. 
+By accessing the Service, you consent to the collection, use and disclosure of your personal information as explained in this privacy policy (the “Privacy Policy”). This Privacy Policy is incorporated into and is subject to the Terms of Service, which can be accessed [here](https://web.archive.org/terms). Your use of the Service and any information you provide through the Service is subject to the terms of this Privacy Policy and our Terms of Service. 
 
 ### What you will find in this privacy policy?
 
@@ -21,7 +23,7 @@ By accessing the Service, you consent to the collection, use and disclosure of y
 
 We collect information about you in a variety of ways in connection the Service. 
 
-REGISTRATION. To use some features and resources available through the Service, a user must complete our registration process. During registration, a user is required to provide certain categories of information, which may include personally identifiable information and other information about you such as your name, address, e-mail address, social network account information, password, user type, birthdate, gender, phone number, and how you heard about Treeline.
+REGISTRATION. To use some features and resources available through the Service, a user must complete our registration process. During registration, a user is required to provide certain categories of information, which may include personally identifiable information and other information about you such as your name, address, e-mail address, social network account information, password, user type, birthdate, gender, phone number, and how you heard about The Sails Company.
 
 OPTIONAL INFORMATION. At various other points during your use of the Service, you may have the option to provide additional information related to you. For example, you may wish to create a profile, post, comment on another user’s post or share a post with another person, or you may wish to utilize social network integrations or location-based features of the Service. For voluntary activities like these you have the choice about whether to disclose the information necessary to use these features of the Service.
 
@@ -33,7 +35,7 @@ COLLECTION OF INFORMATION FROM MINORS. The Service is intended for a general aud
 
 #### USE AND SHARING OF INFORMATION
 
-The Service enables that enable users to post, access and share user generated content and other information across the Treeline community, other social networks and other websites and online services and may include various features and functionality such as comments, message boards or chat areas, where users can post information and communicate with one another. Please be aware that these posts and communications are being made publicly available online and you do so at your own risk.
+The Service enables that enable users to post, access and share user generated content and other information across the The Sails Company community, other social networks and other websites and online services and may include various features and functionality such as comments, message boards or chat areas, where users can post information and communicate with one another. Please be aware that these posts and communications are being made publicly available online and you do so at your own risk.
 
 We will not knowingly use, share, or otherwise transfer information about you other than in accordance with the terms set forth in this Privacy Policy. Additionally, we may use, share, or otherwise transfer information about you for other purposes for which we have obtained your consent. Your consent may be implied, deemed (using an opt-out mechanism) or express. Express consent can be given orally, electronically or in writing. Implied consent is consent that can reasonably be inferred from your action or inaction. Regardless of your decision regarding the sharing of your personal information, we may share demographic data and related usage information with our business partners in an aggregated or anonymized manner intended to remove or obscure any personal information which can identify any individual user.
 
@@ -55,19 +57,19 @@ We have security measures in place to help protect against the unauthorized acce
 
 Our goal is for any personal information in our possession to be as accurate, current and complete as necessary for the purposes for which we use that information. If you want to review, verify or correct your personal information, please contact us using the contact information set out below. We reserve the right not to change any personal information and instead append any alternative information the individual concerned believes is appropriate. To some extent, we rely on individuals to update their own personal information. Unless an individual advises us of these important changes, we may have no way of knowing about them.
 
-The State of California enacted the Shine the Light law (CA Civil Code Sec 198.83) that permits users who are California residents to request certain information regarding the disclosure of personal information during the past year for marketing purposes. To make such a request, you can contact us at [privacy@treeline.io](mailto:privacy@treeline.io).
+The State of California enacted the Shine the Light law (CA Civil Code Sec 198.83) that permits users who are California residents to request certain information regarding the disclosure of personal information during the past year for marketing purposes. To make such a request, you can [contact us](http://sailsjs.com/contact).
 
 #### ELECTRONIC MAILING LISTS AND HOW TO UNSUBSCRIBE
 
 We may use your contact information periodically in order to send you email or other communications regarding updates to the Service and to alert you or remind you of happenings related to the Service. The frequency of these messages will vary depending upon various factors.
 
-If you no longer wish to receive e-mails from us and want to be removed from our electronic mailing list, please e-mail us at the following address [unsubscribe@treeline.io](mailto:unsubscribe@treeline.io) with “Email Unsubscribe” in the subject heading. If you choose to unsubscribe from our mailing lists, we will hold your contact information on file marked so that we do not inadvertently contact you if your details are subsequently provided to us by a third party.
+If you no longer wish to receive e-mails from us and want to be removed from our electronic mailing list, please [contact us](http://sailsjs.com/contact) and include “Email Unsubscribe” in the body of your message. If you choose to unsubscribe from our mailing lists, we will hold your contact information on file marked so that we do not inadvertently contact you if your details are subsequently provided to us by a third party.
 
 #### OTHER PROVISIONS
 
 Your use of the Service indicates an acceptance of the terms of the Privacy Policy. We reserve the right to update or amend this Privacy Policy at any time. We will post any revised version of this Privacy Policy on our website, and we encourage you to refer back to it on a regular basis. The changes contained in any such revised version of this Privacy Policy will be effective from the time such revised version is posted unless otherwise specifically stated therein.
 
-This Privacy Policy does not create or confer upon any individual any rights, or impose upon Treeline any rights or obligations outside of, or in addition to, any rights or obligations imposed by the privacy laws of such individual’s jurisdiction, as applicable. Privacy legislation or an individual’s right to privacy may differ from one jurisdiction to another. The rights and obligations described in this Privacy Policy may not apply to all individuals or in all jurisdictions. Should there be, in a specific case, any inconsistency between this Privacy Policy and the applicable privacy laws of such individual’s jurisdiction, this Privacy Policy shall be interpreted, in respect of that case, to give effect to, and comply with, such privacy laws.
+This Privacy Policy does not create or confer upon any individual any rights, or impose upon The Sails Company any rights or obligations outside of, or in addition to, any rights or obligations imposed by the privacy laws of such individual’s jurisdiction, as applicable. Privacy legislation or an individual’s right to privacy may differ from one jurisdiction to another. The rights and obligations described in this Privacy Policy may not apply to all individuals or in all jurisdictions. Should there be, in a specific case, any inconsistency between this Privacy Policy and the applicable privacy laws of such individual’s jurisdiction, this Privacy Policy shall be interpreted, in respect of that case, to give effect to, and comply with, such privacy laws.
 
 Please be aware that, by accessing our Service, you acknowledge that our servers are currently located in the United States and that the various communications necessarily result in the transfer of information across international boundaries. By accessing the Service and communicating electronically with us, you consent to the processing and transfer of your personal information as set out in this Privacy Policy. Personal information collected by us may be stored and processed in the United States of America or any other country in which we maintain facilities. Personal information collected by us may be transferred among our various divisions and affiliated companies around the world, which may involve transfer from countries within the European Economic Area to countries outside the European Economic Area. By choosing to access the Service, you consent to any such transfer, storage or processing of personal data outside of your country.
 
@@ -75,6 +77,6 @@ This Privacy Policy applies solely to the information collected by us on-line th
 
 This Privacy Policy may include examples but is not intended to be restricted in its application to such examples, thus ‘including’ means ‘including without limitation.’
 
-Your privacy is important to us. If you have questions about any of the provisions described above, please contact us at e such a request, you can contact us at .
+Your privacy is important to us. If you have questions about any of the provisions described above, please [contact us](http://sailsjs.com/flagship/contact).
 
-Last Updated: June 30, 2015
+Last Updated: Jan 2, 2017
