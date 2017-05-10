@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pchelpsoft.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327022643id_/http%3A//www.pchelpsoft.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchelpsoft.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510134707id_/https%3A//www.pchelpsoft.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PC HelpSoft
 
-PCHelpSoft.com has created this policy in order to demonstrate our firm commitment to your privacy. The following discloses the information gathering and dissemination practices for the PC HelpSoft network of sites. 
+PCHelpSoft.com has created this policy in order to demonstrate our firm commitment to your privacy. The following discloses the information gathering and dissemination practices for the PC HelpSoft network of sites.
 
 ### Our Privacy Guarantee
 
-We will never sell, rent or share any of your personal information with a third-party without your express prior permission. 
+We will never sell, rent or share any of your personal information with a third-party without your express prior permission.
 
 #### Information We Gather
 
@@ -21,7 +21,7 @@ We use the personal information you provide voluntarily to send information you�
   * When you enter a contest or survey, we may ask for your name,address, and email address so we can administer the contest and notify winners.
   * Any information you volunteer to us is used solely to provide the specific services you requested. We do not sell or rent any information provided to us to third parties unless specifically noted  
 on the form you are filling out. Please note, though, that our interactive mailing lists may be archived by other third parties sites and that if you contribute to this mailing lists (by posting an email message  
-directly to that mailing list), your information may be found in their archives. 
+directly to that mailing list), your information may be found in their archives.
 
 
 
@@ -34,7 +34,7 @@ We use IP addresses to analyze trends, administer the site, track user movement,
 As part of our approach to providing personalized services on our web site, we employ the use of cookies to store and sometimes track information about you. A cookie is a small data file sent to your browser from a web server to be stored on your hard drive that allows easier access the next time the same  
 page is visited. For example, a cookie is sent when you register or sign in to this site. With your consent, cookies can store information from forms you fill out to create a user profile so that you do not have to re-enter the information each time you visit.
 
-We may also employ third party vendors, including Google to show our ads on sites on the internet and to use cookies to serve ads based on a user’s prior visits to our website. These cookies do not store sensitive information such as contact details. At any time, users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html) or the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). 
+We may also employ third party vendors, including Google to show our ads on sites on the internet and to use cookies to serve ads based on a user’s prior visits to our website. These cookies do not store sensitive information such as contact details. At any time, users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html) or the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 From time to time, we may also use Remarketing Dynamic Ads which use the Teracent cookie. Users may opt out of the Teracent cookie by visiting the [Teracent opt-out page](http://www.teracent.com/about-us/opt-out).
 
@@ -62,13 +62,13 @@ You can uninstall the software application at any time through Windows Control P
 
 #### Advertisers
 
-We use an outside advertising company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+We use an outside advertising company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
 
-Some anonymous demographic data is shared with the advertising companies on an aggregate basis. 
+Some anonymous demographic data is shared with the advertising companies on an aggregate basis.
 
 #### Third Party Cookies
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique ‘cookie’ on your browser. 
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique ‘cookie’ on your browser.
 
 #### Notification of Changes
 
@@ -90,6 +90,6 @@ This site gives users the following options for removing their information from 
 
 If you have any questions or comments about this privacy statement, the practices of our sites, or your dealings with any of our websites, you can contact support@pchelpsoft.com
 
-_Last modified: May 13, 2011_
+_Last modified: July  20, 2016_
 
 **Your Computer. Only Faster...** Safely Optimize Your Windows PC or Laptop _Automatically!_
