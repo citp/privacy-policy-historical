@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icanteachmychild.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124060236id_/http%3A//www.icanteachmychild.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icanteachmychild.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511172918id_/https%3A//www.icanteachmychild.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - I Can Teach My Child!
 
@@ -32,4 +32,4 @@ The contents of this statement may be altered at any time, at our discretion and
 
 If you have any questions feel free to contact me directly here:  icanteachmychild (at) gmail (dot) com.
 
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.icanteachmychild.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
+[](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.icanteachmychild.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
