@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muse.mu privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224449id_/http%3A//muse.mu/terms/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muse.mu privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511182502id_/http%3A//muse.mu/terms/privacy-policy.htm) for the most accurate reproduction.*
 
 # MUSE: PRIVACY POLICY
 
