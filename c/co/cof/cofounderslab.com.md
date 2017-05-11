@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the cofounderslab.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314172817id_/https%3A//www.cofounderslab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cofounderslab.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511032247id_/https%3A//cofounderslab.com/privacy) for the most accurate reproduction.*
 
-# 
-
-### Privacy
-
-**Last updated: March 20, 2013**
+# CoFoundersLab Privacy Policy | Starting a Business | Top Enterpreneurs
 
 **PRIVACY POLICY** , for CoFoundersLab Inc, trading as "www.CoFoundersLab.com"
 
@@ -17,3 +13,5 @@ Although CoFoundersLab does not license or sell your Personal Information to thi
 In addition to Personal Information, CoFoundersLab may collect information and/or track data on your use of the Products and Services. This statistical information and data is used to improve the Products and Services and may be collected through the use of Cookies. Although you may set your Internet browser to refuse Cookies, in doing so, you may not be able to take advantage of certain features offered by CoFoundersLab.
 
 This Privacy Policy does not apply to individuals, entities, or other third parties that CoFoundersLab does not control, employ, manage, or own.
+
+Last updated: March 20, 2013
