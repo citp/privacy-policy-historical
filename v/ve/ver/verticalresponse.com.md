@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227172515id_/http%3A//www.verticalresponse.com/about/privacy_tos.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511182341id_/http%3A//www.verticalresponse.com/about/privacy_tos.html) for the most accurate reproduction.*
 
-# Privacy Policy | VerticalResponse
+# Email Marketing. Just Like That. | VerticalResponse
 
-**Effective Date: September 13, 2016**
+**Effective Date: January 20, 2017**
 
 Protecting privacy is important to Deluxe Small Business Sales, Inc. doing business as Vertical Response.com (VerticalResponse). Our policies and procedures address applicable U.S. and international privacy requirements concerning the collection, use, and cross-border transfer of personal data. The terms "we ", "our", and "us" in this Privacy Policy refer to VerticalResponse and its affiliates involved in delivery of our self-service direct marketing solutions for small and mid-size businesses. In the event that personal information is provided to us, whether through our site [(www.verticalresponse.com)](http://%28www.verticalresponse.com%29/) or in some other format, it will be collected, used and disclosed by us in accordance with this Privacy Policy.
 
@@ -14,7 +14,7 @@ VerticalResponse complies with the U.S. - Swiss Safe Harbor Framework as set for
 
 **Information Collection, Notice, and Use**
 
-VerticalResponse is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. VerticalResponse collects information from our users at several different points on our site.
+VerticalResponse is the sole owner of the account holder collected on this site. We will not sell, share, or rent this account holder information to others in ways different from what is disclosed in this statement. VerticalResponse collects information from our account holders at several different points on our site.
 
 No registration is required to view the VerticalResponse site. However, if you choose to register or provide personal information on our newsletter sign-up, free trial, order forms, affiliate, partner and job application pages or other areas of our site, we will ask for information which may include your name, mailing address, email address, billing and payment information (e.g. credit card information), company name, and telephone number. We use this information to create new accounts, fulfill your order, communicate with you regarding our services, and manage our customer relationships. We may send you service-related announcements when it is necessary to do so. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. For the purposes of order verification and fraud prevention, we may exchange information about our customers internally within VerticalResponse and among our affiliates.
 
@@ -52,7 +52,7 @@ From time-to-time, we may provide you the opportunity to participate in surveys 
 
 As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, and to improve marketing, analytics, and/or site functionality.
 
-We and our partners use cookies and similar technologies to analyze trends, administer the site, track users’ movements around the site, and to gather demographic information about our user base as a whole.  A cookie is a small data text file that our server sends to your computer and that your computer sends back to us each time you visit our site.  Most Internet browsers automatically accept cookies.  However, you can disable and/or delete cookies by controlling your browser settings.  If you do disable cookies, you may still use our site.
+We and our partners use cookies and similar technologies to analyze trends, administer the site, track users’ movements around the site, and to gather demographic information about our user base as a whole. A cookie is a small data text file that our server sends to your computer and that your computer sends back to us each time you visit our site.  Most Internet browsers automatically accept cookies.  However, you can disable and/or delete cookies by controlling your browser settings.  If you do disable cookies, you may still use our site.
 
 We also partner with third parties to provide you advertising based upon your browsing activities and interests. Our third party partners may use cookies or similar technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visit to this site in order to provide you with more personalized advertising. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/), or if located in the European Union click [here](http://www.youronlinechoices.eu/). Please note you will continue to receive generic ads.
 
@@ -60,7 +60,7 @@ We also partner with third parties to provide you advertising based upon your br
 
 
 
-If you are a U.S.-based customer, our business partners may place advertising network cookies in emails we broadcast on your behalf. The cookies contain pseudonymous information about email recipients to provide them with targeted advertising on websites. However, if email recipients wish to not have this information used for the purpose of serving targeted ads, they may opt-out by [clicking here](http://preferences.truste.com/) or by visiting the Criteo website [here](http://www.criteo.com/privacy/) and following Criteo’s opt-out instructions.
+If you are a U.S.-based customer, our business partners may place advertising network cookies in emails we broadcast on your behalf. The cookies contain pseudonymous information about email recipients to provide them with targeted advertising on websites. However, if email recipients wish to not have this information used for the purpose of serving targeted ads, they may opt-out by [clicking here](http://preferences-mgr.truste.com/), [visiting the Network Advertising Initiative here](http://www.networkadvertising.org/) or by visiting the Criteo website [here](http://www.criteo.com/privacy/) and following Criteo’s opt-out instructions.
 
 **Information Retention and Accuracy**
 
@@ -115,8 +115,8 @@ We maintain processes or mechanisms to allow you to review, update, correct or d
   * emailing Customer Support at [support@verticalresponse.com](mailto:support@verticalresponse.com) or 
   * writing to VerticalResponse  
                 attn: Account Updates  
-                50 Beale St, 10th Floor  
-                San Francisco, CA 94105 
+                550 Kearny St STE 710  
+                San Francisco, CA 94108 
 
 
 
