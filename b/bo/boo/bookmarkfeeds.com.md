@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkfeeds.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120235816id_/http%3A//www.bookmarkfeeds.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkfeeds.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511040000id_/http%3A//www.bookmarkfeeds.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies › BookmarkFeeds.com : Global bookmarking service | Get search engine traffic | Social engine for article posting | Increase rank in SERP results by sharing bookmarks of the web resources
 
