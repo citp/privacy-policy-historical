@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aplia.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229090736id_/http%3A//www.aplia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplia.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511204336id_/http%3A//aplia.com/privacy) for the most accurate reproduction.*
 
 # Aplia
 
@@ -101,7 +101,7 @@ By using our website, you consent to the collection and use of this information 
 * * *
 
 How to Contact Us  
-Should you have other questions or concerns about these privacy policies, please contact  [Aplia Support](http://www.aplia.com/#supportMain). 
+Should you have other questions or concerns about these privacy policies, please contact  [Aplia Support](https://www.aplia.com/#supportMain). 
 
 * * *
 
