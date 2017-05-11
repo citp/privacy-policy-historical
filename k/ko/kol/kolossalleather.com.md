@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kolossalleather.com privacy policy that was archived on 2016-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160901184720id_/http%3A//kolossalleather.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kolossalleather.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511052430id_/http%3A//kolossalleather.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
