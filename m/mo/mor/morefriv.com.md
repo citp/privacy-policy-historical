@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morefriv.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209153941id_/http%3A//www.morefriv.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morefriv.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511091841id_/http%3A//www.morefriv.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
