@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the backtoherroots.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010162332id_/http%3A//backtoherroots.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backtoherroots.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511124914id_/http%3A//wholefully.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Back to Her Roots
+# Privacy Policy - Wholefully
 
-This Privacy Policy governs the manner in which Back to Her Roots collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.backtoherroots.com](http://www.generateprivacypolicy.com/account/policies/edit/www.backtoherroots.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Back to Her Roots.
+This Privacy Policy governs the manner in which Wholefully collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.wholefully.com](http://www.generateprivacypolicy.com/account/policies/edit/www.wholefully.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Wholefully.
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
@@ -20,7 +20,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How we use collected information**
 
-Back to Her Roots collects and uses Users personal information for the following purposes:
+Wholefully collects and uses Users personal information for the following purposes:
 
   * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
@@ -57,7 +57,7 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
 **Changes to this privacy policy**
 
-Back to Her Roots has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Wholefully has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
@@ -66,8 +66,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Back to Her Roots](http://www.generateprivacypolicy.com/account/policies/edit/www.backtoherroots.com)  
-[www.backtoherroots.com](http://www.generateprivacypolicy.com/account/policies/edit/www.backtoherroots.com)  
-backtoherroots@gmail.com
+[Wholefully](http://www.generateprivacypolicy.com/account/policies/edit/www.wholefully.com)  
+[www.wholefully.com](http://www.generateprivacypolicy.com/account/policies/edit/www.wholefully.com)  
+cassie@wholefully.com
 
-This document was last updated on September 21, 2011
+This document was last updated on November 7, 2016.
