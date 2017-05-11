@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the contentstudio.io privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520191745id_/http%3A//contentstudio.io/sales/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentstudio.io privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511124617id_/https%3A//contentstudio.io/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Content Studio
+# ContentStudio - Privacy Policy
 
-[**ContentStudio.io**](http://contentstudio.io/) values the privacy and security of the information that you share with us through ContentStudio.io. It is important that you understand how we collect, use, and maintain your information. This Privacy Statement explains our online information practices, the choices you may make about how we collect and use your information at this Web Site, and the ways you may contact us. We may change this Privacy Statement from time to time. Changes to this Privacy Statement are effective upon posting.
+[**ContentStudio.io**](https://contentstudio.io/) values the privacy and security of the information that you share with us through ContentStudio.io. It is important that you understand how we collect, use, and maintain your information. This Privacy Statement explains our online information practices, the choices you may make about how we collect and use your information at this Web Site, and the ways you may contact us. We may change this Privacy Statement from time to time. Changes to this Privacy Statement are effective upon posting.
 
 ### Definitions
 
