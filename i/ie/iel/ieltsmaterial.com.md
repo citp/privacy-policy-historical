@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ieltsmaterial.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019090606id_/http%3A//ieltsmaterial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ieltsmaterial.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512010827id_/http%3A//ieltsmaterial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@ http://ieltsmaterial.com/ uses cookies to store information about visitors’ pr
 ### **DoubleClick DART Cookie**
 
 → Google, as a third party vendor, uses cookies to serve ads on http://ieltsmaterial.com/.  
-→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to http://ieltsmaterial.com/ and other sites on the Internet.   
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to http://ieltsmaterial.com/ and other sites on the Internet.  
 → Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
 ### **Our Advertising Partners**
