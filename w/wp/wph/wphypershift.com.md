@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wphypershift.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607111828id_/http%3A//paramountprofits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wphypershift.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511034136id_/http%3A//paramountprofits.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy — Paramount Profits Marketing
+
+## Privacy Policy
 
 Welcome to http://paramountprofits.com (the “Site”).We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Paramount Profits (collectively, “Services”) (“Authorized Customers”).
 
