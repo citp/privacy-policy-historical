@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amplitude.com privacy policy that was archived on 2016-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160829091246id_/https%3A//amplitude.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amplitude.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511084913id_/https%3A//amplitude.com/privacy) for the most accurate reproduction.*
 
 # Amplitude
 
-**Last Updated: July 27, 2015**
+**Last Updated: February 12, 2017**
 
 This Privacy Policy explains how information is collected and utilized by Amplitude, Inc. ("Amplitude," "we," or "us"). This Privacy Policy applies to the Amplitude website at http://www.amplitude.com and Amplitude's services ("Services"). 
 
@@ -86,6 +86,6 @@ Please note that we reserve the right, at any time, to add to, change, update, o
 
 If you have any comments, concerns or questions about this Privacy Policy, please send us an email at [contact@amplitude.com](mailto:contact@amplitude.com) or send mail to: 
 
-Amplitude Analytics, Inc.  
-185 Berry Street, Ste 4807  
+Amplitude Inc.  
+501 2nd Street, Suite 100  
 San Francisco, CA 94107 
