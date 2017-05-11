@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megacasino.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225050841id_/http%3A//www.megacasino.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megacasino.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511143531id_/http%3A//www.megacasino.com/privacy) for the most accurate reproduction.*
 
 # MegaCasino Privacy Policy - MegaCasino.com - slots, video slots, roulette, video poker, blackjack
 
