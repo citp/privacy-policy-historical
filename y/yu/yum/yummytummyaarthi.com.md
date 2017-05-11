@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yummytummyaarthi.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209143007id_/http%3A//www.yummytummyaarthi.com/p/this-privacy-policy-sets-out-how-yummy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yummytummyaarthi.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511094957id_/http%3A//www.yummytummyaarthi.com/p/this-privacy-policy-sets-out-how-yummy.html) for the most accurate reproduction.*
 
 # YUMMY TUMMY: Privacy Policy
 
