@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the typewolf.com privacy policy that was archived on 2016-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160729181558id_/https%3A//www.typewolf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typewolf.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511044319id_/https%3A//www.typewolf.com/privacy) for the most accurate reproduction.*
 
 # Privacy · Typewolf
 
-Typewolf is owned and operated by [Jeremiah Shoaf Design LLC](http://www.jeremiahshoaf.com/).
+Typewolf is owned and operated by [Jeremiah Shoaf Design LLC](https://www.jeremiahshoaf.com/).
 
 ## Our Commitment to Privacy
 
