@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiledevhq.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231153548id_/https%3A//www.tune.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiledevhq.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511123032id_/https%3A//www.tune.com/resources/data-and-privacy/privacy-policies) for the most accurate reproduction.*
 
 # Our privacy policy and your privacy rights | TUNE
 
