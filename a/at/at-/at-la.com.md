@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the at-la.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020034326id_/http%3A//www.at-la.com/%40la-info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the at-la.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512011742id_/http%3A//at-la.com/%40la-info/privacy.htm) for the most accurate reproduction.*
 
 # @LA Privacy Policy
 
@@ -11,13 +11,13 @@
 ---|---  
 |  [](https://web.archive.org/)  
 ---  
-|  [About @LA](https://web.archive.org/web/20161020034326id_/http%3A//www.at-la.com/%40la-info/index.htm)  
-|  [Access Statistics](https://web.archive.org/web/20161020034326id_/http%3A//www.at-la.com/%40la-info/access.htm)  
-|  [Advertising in @LA](https://web.archive.org/web/20161020034326id_/http%3A//www.at-la.com/%40la-info/ads.htm)  
-|  [Awards / @LA in the Media](https://web.archive.org/web/20161020034326id_/http%3A//www.at-la.com/%40la-info/media.htm)  
-|  [Feedback from @LA's Users](https://web.archive.org/web/20161020034326id_/http%3A//www.at-la.com/%40la-info/feedback.htm)  
-|  [Member Site Information](https://web.archive.org/web/20161020034326id_/http%3A//www.at-la.com/%40la-info/member.htm)  
-|  [News / Recent Developments](https://web.archive.org/web/20161020034326id_/http%3A//www.at-la.com/%40la-info/news.htm)  
+|  [About @LA](https://web.archive.org/web/20170512011742id_/http%3A//at-la.com/%40la-info/index.htm)  
+|  [Access Statistics](https://web.archive.org/web/20170512011742id_/http%3A//at-la.com/%40la-info/access.htm)  
+|  [Advertising in @LA](https://web.archive.org/web/20170512011742id_/http%3A//at-la.com/%40la-info/ads.htm)  
+|  [Awards / @LA in the Media](https://web.archive.org/web/20170512011742id_/http%3A//at-la.com/%40la-info/media.htm)  
+|  [Feedback from @LA's Users](https://web.archive.org/web/20170512011742id_/http%3A//at-la.com/%40la-info/feedback.htm)  
+|  [Member Site Information](https://web.archive.org/web/20170512011742id_/http%3A//at-la.com/%40la-info/member.htm)  
+|  [News / Recent Developments](https://web.archive.org/web/20170512011742id_/http%3A//at-la.com/%40la-info/news.htm)  
 | 
 
 Introduction  
