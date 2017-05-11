@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plixid.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118220954id_/http%3A//plixid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plixid.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511155319id_/http%3A//plixid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Plixid.com | Bringing music to life
 
