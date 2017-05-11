@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the cloudmagic.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110061642id_/https%3A//cloudmagic.com/k/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudmagic.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512011817id_/https%3A//newtonhq.com/k/privacypolicy) for the most accurate reproduction.*
 
 # Newton for iPhone, iPad, Android & Mac | Privacy Policy
-
-Please note that CloudMagic Inc. has rechristened the name of the application and the associated services from “CloudMagic Service” to “Newton”. The terms and conditions that were applicable to the users of CloudMagic Service shall apply mutatis mutandis to the users of Newton hereinafter. The title and ownership of Newton shall continue to vest in CloudMagic Inc.
-
-In a nutshell 
-
-Your data is yours and therefore only read by you. Neither do we read it, nor share with anyone else.
-
-We (“CloudMagic Inc.” and / or “Newton”) use OAuth (wherever possible) which gives us access to your data without letting us know your password. Your data and credentials are absolutely safe with us.
-
-If you delete any account as a user from Newton, we permanently delete the data and credentials from our servers almost instantly. 
-
-Unabridged version
 
 ##### Introduction
 
@@ -72,7 +60,7 @@ Your data is used solely to enable you do your emailing and get your work done w
 
   7. Our policy towards children
 
-CloudMagic does not knowingly collect information from children under the age of 13. If we learn that we have inadvertently collected personally identifiable information such as email address or name from children under the age of 13, we will promptly delete it. Parents and guardians can contact us on [hello@cloudmagic.com](mailto:hello@cloudmagic.com) if they are aware that their child has provided us with personal information without their consent. 
+CloudMagic does not knowingly collect information from children under the age of 13. If we learn that we have inadvertently collected personally identifiable information such as email address or name from children under the age of 13, we will promptly delete it. Parents and guardians can contact us on [hello@newtonhq.com](mailto:hello@newtonhq.com) if they are aware that their child has provided us with personal information without their consent. 
   
 
   8. Support queries
@@ -103,7 +91,7 @@ The CloudMagic website may contain links to third-party websites over which we h
 
 ##### Changes to the CloudMagic Privacy Policy
 
-CloudMagic reserves the right to change, modify, add or remove portions of the Privacy Policy in its sole discretion at any time and without prior notice. We will indicate the last update date of each update at the bottom of this page. Please check the Privacy Policy periodically for any modifications. If you have any comments on this Privacy Policy please email us at [hello@cloudmagic.com](mailto:hello@cloudmagic.com) or write to us at: 
+CloudMagic reserves the right to change, modify, add or remove portions of the Privacy Policy in its sole discretion at any time and without prior notice. We will indicate the last update date of each update at the bottom of this page. Please check the Privacy Policy periodically for any modifications. If you have any comments on this Privacy Policy please email us at [hello@newtonhq.com](mailto:hello@newtonhq.com) or write to us at: 
 
 CloudMagic, Inc.  
 501 Forest Avenue, Suite 209  
