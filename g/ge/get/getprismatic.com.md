@@ -1,93 +1,117 @@
-> *The following text is extracted and transformed from the getprismatic.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017060159id_/http%3A//getprismatic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getprismatic.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511164014id_/https%3A//www.hover.com/privacy%3Fsource%3Dexpired) for the most accurate reproduction.*
 
-# Prismatic
+# Privacy Policy | Hover.com
 
-Privacy Policy
+## Our Privacy and Data Collection Practices
 
-Your privacy is central to us. We build products and services that are designed to be interesting to you, and in order to do this, we need to understand your interests deeply and broadly, and we know that this relationship must be based on a foundation of mutual trust. We are humbled that you would consider us as your personal servant of interestingness. If we’re going to play nice together, there are a few things we need to talk about:
+Like most online businesses, Hover collects a lot of information on behalf of, and about our customers. We want to help our clients understand what data we collect, how we use the data we collect, who we share this data with, and how we secure and protect this data.
 
-  
+The purpose of this document is to share these details with our customers and any else that is interested in these details.
 
+Whenever we refer to "Hover" in this document, we are referring to the domain registration services provided by Tucows.com Co. via the website hover.com. Tucows is a corporation, accredited by ICANN and under contract with the various domain registries to facilitate the registration and management of your domain names.
 
-  * You should assume that, as you interact with Prismatic, we learn more about your interests than any other service you use - that’s our job.
+We've tried really hard to keep this document simple and readable and if you have any suggestions concerning how we can improve it, please let us know.
 
-  
+## Account Information
 
+When you purchase services from Hover, we create an account for you. This makes it easier for you to track and manage your purchases with us. For the purpose of creating your account, we collect what we call "account data" and "registration contact data".
 
-  * We respectfully accept that managing your personal information is a necessary part of us doing our job properly. We don’t overstep - we only use your data to help you find more interesting stuff and share it.
-
-  
-
-
-  * You can enter Prismatic in stealth mode if you want, without providing any external information. You don’t have to tell us anything about you at all. But since we left our crystal ball at home, we won’t be able to find you any interesting stuff unless you have patience or do more manual labor to get started - and even then, you’ll have a far better experience when you connect other accounts.
+Account data includes:
 
   
 
 
-  * The more personal information you give us, the better we can do our job on your behalf. Whenever we ask you to connect something, it is always in your service - making it easier to discover new stuff, remember all your interests, uncover new interests, or connect and share with friends. We put a ton of work into helping you find new interests based on your activity on other accounts. We’re working hard on making the Prismatic the most interesting place to find stuff and the easiest place to share it. We care about every little detail that makes it easier for you to share - knowing all the people you might want to share with (i.e. your very broad address book across social networks, email, etc) allows us to add features like cross-network autocomplete, and it lets us help you connect with friends based on common interests.
+• the name of the account holder;
+
+• the mailing address of the account holder;
+
+• a primary and secondary email address associated with the account holder and any other individual that the account holder wishes to designate;
+
+• a credit card number, expiry and verification code;
+
+Registration contact data includes:
 
   
 
 
-  * We never spam your friends. In order to share, we often need write access to your social accounts. We don’t take this lightly, and we always share only when you take explicit social actions. On that note, we really encourage sharing. If you find interesting stuff on Prismatic, consider sharing it with friends and starting a discussion. If you think you might not have found the story otherwise, we’d love it if you link to us and let your friends know that you found it via Prismatic - it’s helps us grow though the endorsements of satisfied customers. It’s in your interest to limit the amount of time the team spends on marketing because we’ll use that time to make the service better. So we won’t spam your friends, and you shouldn’t either, but a healthy amount of sharing and shout outs to Prismatic never hurts. :)
+• the name of the owner and administrative contact(s)
 
-  
+• the address of the owner and administrative contact(s)
 
+• the phone number of the owner and administrative contact(s)
 
-  * We have a store-what’s-needed policy; so if we get a bunch of your data from a service you connect, and we only need an aggregated result, like say the top 100 interests we estimate and their weights, or a list of friends, then we will store only the processed result - what we actually need for the on-going operation of one of our services.
+• the email address for the owner and administrative contact(s)
 
-  
+## Our use of your account data
 
+Hover only uses account data for the purpose of facilitating the management of your account and billing for your purchases.
 
-  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+We share this data programmatically with Mailchimp and Mandrill for the purpose of sending your notifications and updates about our services and Braintree, for the purpose of billing your credit card.
 
-  
+Hover relies on tokens generated by Braintree to trigger billable events. Hover retains the industry normal first six and last four digits of the credit card, the type of credit card and the name associated with the credit card for internal tracking and audit purposes. The data is stored securely and is not useable for any billing or charging purposes.
 
+Hover shares your name, email address and demographic information with Mailchimp and Mandrill for the purpose of sending you various notifications related to your account. You may choose which notifications you receive under the Settings link in your Hover account management tools. Neither Braintree, nor Mailchimp or Mandrill may ever use your data for their own purposes without our explicit consent or notice to us.
 
-  * We make it easy to control what you make public. Your Profile is public by default when you create it, and you can decide to make your Interests and Social Actions public or private.
+Hover may share your account data with law enforcement agencies on a case-by-case basis. We may or may not notify you if this happens, depending on the circumstances. Hover may also share your account data with a third party under order from a court of competent jurisdiction related to a lawsuit or investigation. Again, we evaluate these requests on a case-by-case basis and we may or may not notify you if this happens.
 
+We may use your account data to contact you concerning a dispute related to your account, or for verification purposes to make sure no one else is accessing your account.
 
+Hover does not share your account data with any other parties for any other reasons.
 
-Below is our privacy policy which incorporates these goals.
+## Our use of your registration data
 
-If you have questions about deleting or correcting your personal data please [send us feedback](mailto:feedback@getprismatic.com).
+Hover only ever uses your registration data for the purpose of facilitating the registration, management and transfer of the domain names you register with Hover. Hover shares your registration data with the registry that manages the TLD you are registering in, for example, Verisign, CIRA, Nominet and others. Hover is also required by ICANN to escrow your registration data with Iron Mountain. They are not permitted to use this data, except to disclose it to ICANN in the event that Hover ceases to be a domain registrar.
 
-Woven, Inc. (“Prismatic”) operates websites, mobile applications, and other services including getprismatic.com, iPhone, iPad, and Android applications, and APIs (collectively, the “Services”). It is is Prismatic’s policy to respect your privacy regarding any information we may collect while operating our Services.
+ICANN requires that we verify the accuracy of the registration data you provide us on at least an annual basis. We use the email address associated with the Administrative Contact for the domain registration in question for this purpose. Hover sends this email to the Administrative Contact directly and does not use a third party service to facilitate this mailing.
 
-## Website Visitors
+We may use your registration data to contact you concerning a dispute related to your domain name, or for verification purposes to make sure no one else is accessing your domain.
 
-Like most website. mobile application, and internet service operators, Prismatic collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Prismatic’s purpose in collecting non-personally identifying information is to better understand how Prismatic’s visitors use its website. From time to time, Prismatic may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+We never sell this information.
 
-Prismatic also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in and logged out users at getprismatic.com. Prismatic only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
+## WHOIS
 
-## Gathering of Personally-Identifying Information
+Hover is required by most domain registries and ICANN to publish your registration data in a publicly accessible database called "Whois".
 
-Certain visitors to Prismatic’s Services choose to interact with Prismatic in ways that require Prismatic to gather personally-identifying information. The amount and type of information that Prismatic gathers depends on the nature of the interaction. When people sign up for Prismatic, we ask them to setup an account with username and email address, and we ask them to connect social accounts and provide other information, such as location, that we can use to help the user find interesting content and share it with their friends. In each case, Prismatic collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Prismatic. Prismatic does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain interactions with the Prismatic Service - in particular, personalization and sharing.
+Whois is a publicly accessible database that publishes the contact information associated with domain name registrants. In most cases you may choose not to have your contact information published in the WHOIS. Some top-level domains, like .US and others, may not allow you to opt-out of publication.
 
-## Aggregated Statistics
+Many Registries allow for the use of WHOIS Privacy services, but many others do not. Support (or lack of support for) WHOIS Privacy is noted during the checkout process, and also noted in the Hover dashboard when viewing the details for each domain you own.
 
-Prismatic may collect statistics about the behavior of users of its Services. For instance, Prismatic may monitor all user interactions in order to predict what users will find interesting, or to know what is most popular on Prismatic. Prismatic may display this information publicly or provide it to others. However, Prismatic does not disclose personally-identifying information other than as described below.
+[This tutorial](https://help.hover.com/entries/21196313) can help you with controlling the publication of your information in WHOIS.
 
-## Protection of Certain Personally-Identifying Information
+It may be useful to note that the term "Whois Privacy" is a term common in the domain industry to denote services that help you keep your personal information out of the Whois database. It is also important to know that Hover doesn't guarantee any level of privacy associated with the use of this feature.
 
-Prismatic discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Prismatic’s behalf or to provide services available at Prismatic’s services, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Prismatic’s services, you consent to the transfer of such information to them. Prismatic will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Prismatic discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Prismatic believes in good faith that disclosure is reasonably necessary to protect the property or rights of Prismatic, third parties or the public at large. If you are a registered user of Prismatic and have supplied your email address, Prismatic may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Prismatic and our products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Prismatic takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+Your personal information is still known to the registries and the people who work here and to anyone who may view your Whois information should you ever disable this function on your domain name(s). It should not be viewed as an "Registration Anonymizing" service in any way.
 
-## Cookies
+## Domain Search Information
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Prismatic uses cookies to help Prismatic identify and track visitors, their usage of Prismatic services, and their access preferences. Prismatic visitors who do not wish to have cookies placed on their computers should can set their browsers to refuse cookies, but will not be able to have a logged in experience as a Prismatic user.
+When you search for a domain name to register, you provide us with search terms and phrases that we compare to the lists of domain names that are available for registration and display the results to you.
 
-## Business Transfers
+We never sell the search information you provide to us.
 
-If Prismatic, or substantially all of its assets, were acquired, or in the unlikely event that Prismatic goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Prismatic may continue to use your personal information as set forth in this policy.
+We use this information solely to help you find a suitable domain name to register and to improve the relevancy of our search results. We do not use it for any other purposes. We may provide it to law enforcement agencies if they request it pursuant to appropriate due process.
 
-## Ads
+## Customer Service Information
 
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Prismatic and does not cover the use of cookies by any advertisers.
+We use a third party service, Zendesk, to help us manage all of our customer service interactions. Any information you send to use via email is usually stored and tracked in our Zendesk system. We also use Zendesk to log information when you call us for assistance. None of this information is accessible by any third party other than Zendesk.
 
-## Comments
+When you call Hover Support via telephone, we will likely record and archive the conversation. If you don’t agree to this, please contact Hover Support through our online chat, email or other means as may be available at [help.hover.com](https://help.hover.com/).
 
-Comments and other content posted to Prismatic or shared via Prismatic to third party social networks are saved on our servers.
+## Electronic Newsletters and Unsubscribe Policy
 
-## Privacy Policy Changes
+When you signed up with Hover, you may have given us permission to send you news and announcements about our services. If you change your mind, you can unsubscribe from our mailing list at any time through the link we provide at the top and bottom of every mailer. You can also remove yourself from our mailing list by sending an email request to [help@hover.com](mailto:help@hover.com) or by giving us a phone call at 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm ).
 
-Prismatic may change its Privacy Policy from time to time, and in Prismatic’s sole discretion. Prismatic encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+## Data Analytics
+
+We collect and aggregate data concerning how people use the website at [www.hover.com](http://www.hover.com/). Some of the data is associated with your Hover account and the domains you register with us, but is not personally identifiable to our analytics vendors. Data collected helps us understand how people use our website so that we can improve it. We use a variety of third party services to help us collect and analyze this data, including Google Analytics and Hotjar.
+
+From time to time, we may use other services in addition to these, either to evaluate their effectiveness for long-term use, or to gather information about a very specific question we have. If you ever have any questions about which third party services we are currently using, please don't hesitate to ask us. Any services we have made a long-term commitment to will always be listed here.
+
+## Surveys
+
+Occasionally, we send out surveys intended to help us better understand how you use our services and how we can improve them. We never sell the information collected through these surveys.
+
+Hover uses Delighted, a third-party service, to facilitate sending and collection of customer satisfaction surveys. Data collected by Delighted is used only by Hover, and not shared with any other third-parties.
+
+## How to contact us
+
+Phone: 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm)
