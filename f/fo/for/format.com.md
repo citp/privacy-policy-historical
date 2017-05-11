@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the format.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019060641id_/https%3A//www.format.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the format.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511132747id_/https%3A//www.format.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Format
 
-**Effective as of May 5, 2016**
+Effective as of May 5, 2016 
 
 This is the Privacy Policy of the Format website (together with our affiliates and subsidiaries, “Ideaform Inc.”, “we”, “us”, “our” and terms of similar meaning) and our related products and services including our mobile applications (the “Application”). It describes the information that we collect from users of our Application (“Users”) as part of the normal operation of our Application, and how we use and disclose this information.
 
