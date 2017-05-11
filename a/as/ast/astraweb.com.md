@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astraweb.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122015126id_/http%3A//www.news.astraweb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astraweb.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511130715id_/http%3A//www.news.astraweb.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
