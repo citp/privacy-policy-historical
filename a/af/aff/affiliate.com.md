@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the affiliate.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127144103id_/http%3A//affiliate.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliate.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511135312id_/http%3A//www.affiliate.com/privacy_policy.php) for the most accurate reproduction.*
 
-# affiliate.com
+# Affliate
 
-As of October 17, 2016 
+As of May 9, 2017 
 
 This privacy policy (the "Privacy Policy") outlines important information regarding you, the service user ("you" or "your") and the use and disclosure of your information collected via this Website and sub sites or the microsites of the registrant of the domain of the Website (the "Company", "us", "we" or "our"), and each of its affiliates and related websites or that our business partners or affiliates operate (the "Website"). We are providing you with this Privacy Policy to help you make an informed decision as to whether to use or continue using the Website. By using the Website, you consent to the processing of your information as set forth in this Privacy Policy. 
 
@@ -12,7 +12,7 @@ This Privacy Policy applies to the Company's collection, use, storage and disclo
 
 This Privacy Policy applies to the information that we collect or receive from you and other individuals who use the Website, register on the Website or participate in the promotions or offers available on the Website; or with whom we communicate through email or other means. 
 
-**1\. Collection of Information.**
+**1\. Collection of Information.** ****
 
 1.1 Survey Information. We collect information from you and other individuals by various methods, including, but not limited to, when you voluntarily complete our survey, order form, or a registration page either online or offline, or by means of online or offline surveys, order forms, or registration pages operated by third parties (collectively, "Survey"). (As used herein, "online" means using the Internet, including the Website, and related technologies, and "offline" means by methods other than online, including in person, in the postal mail, using telephones and cell phones, and other similar means.) In the Surveys, the Company or a third party (a "Third Party") may ask an individual to provide various information to us, which may include your name, email address, street address, zip code/postal code, telephone numbers (including wireless phone numbers and wireless carriers), SMS messaging details (e.g. date, time and content of the SMS message), birth date, gender, salary range, education and marital status, occupation, social security number, employment information, personal and online interests, and such other information as may be requested from time to time (together, "Survey Information"). We may also collect information concerning you from another source and use that information in combination with information provided from this Website. Completing the Survey(s) is completely voluntary, and individuals are under no obligation to provide Survey Information to us or a Third Party, but an individual may receive incentives from us or a Third Party in exchange for providing Survey Information to us. 
 
@@ -40,7 +40,7 @@ This Privacy Policy applies to the information that we collect or receive from y
 
 1.9 Credit Card Information. We may in certain cases collect credit card numbers and related information, such as the expiration date of the card ("Credit Card Information") when you place an order with us. When the Credit Card Information is submitted to us, such information is encrypted and is protected with SSL encryption software. We will use the Credit Card Information for purposes of processing and completing the purchase transaction, and the Credit Card Information will be disclosed to Third Parties only as necessary to complete the purchase transaction. 
 
-**2\. Use of Your Individual Information.**
+**2\. Use of Your Individual Information.** ****
 
 2.1 Discretion to Use Your Individual Information. WE MAY USE YOUR INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE IN OUR SOLE DISCRETION. The following paragraphs in this Section 2 describe how we currently use your Individual Information, but we may change or broaden our use at any time. As noted, we may update this Privacy Policy from time to time. We may use your Individual Information to provide promotional offers to you by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, among other possible uses. 
 
@@ -64,7 +64,7 @@ This Privacy Policy applies to the information that we collect or receive from y
 
 2.9 Do Not Call Registry Compliance. By submitting your personal contact and/or financial information through the Website, you hereby grant written permission to the Company, its affiliated sites, and its business partners for contact via telephone, voice broadcasts, mail, SMS text message, and/or e-mail. Further, by registering on the Website you are consenting to receive phone calls from the Company, its affiliated sites, and its business partners for contact via telephone and thereby waive your right to file a claim with the Federal Trade Commission (FTC) or any other agency in reference to these calls or contacts. 
 
-**3\. Dissemination of Your Individual Information.**
+**3\. Dissemination of Your Individual Information.** ****
 
 3.1 Sale or Transfer to Third Parties. THE COMPANY MAY SELL OR TRANSFER YOUR INDIVIDUAL INFORMATION TO THIRD PARTIES FOR ANY LEGALLY PERMISSIBLE PURPOSE IN OUR SOLE DISCRETION. 
 
@@ -72,7 +72,7 @@ This Privacy Policy applies to the information that we collect or receive from y
 • To a person who needs the information because of an emergency that threatens the life, health or security of an identifiable person or group; or   
 • To our advisors, counsels, and similar trusted parties. 
 
-**4\. Privacy Practices of Third Parties.**
+**4\. Privacy Practices of Third Parties.** ****
 
 4.1 Advertiser cookies and web beacons. Advertising agencies, advertising networks, and other companies (together, "Advertisers") who place advertisements on the Website and on the Internet generally may use their own cookies, web beacons, and other technology to collect information about individuals. We do not control Advertisers' use of such technology and we have no responsibility for the use of such technology to gather information about you. 
 
@@ -84,11 +84,11 @@ This Privacy Policy applies to the information that we collect or receive from y
 
 We will share your Individual Information with these third parties, only to the extent necessary for them to perform these functions for us, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your Individual Information. 
 
-**5\. Data Transfer and Storage.**
+**5\. Data Transfer and Storage.** ****
 
 You acknowledge that personal information will be collected and stored by us in Canada. By using the Website, you consent to the transfer of information to and/or storage of information outside of your country and in Canada. 
 
-**6\. Unsubscribe Procedures.**
+**6\. Unsubscribe Procedures.** ****
 
 1\. Unsubscribe from one email list. To unsubscribe from a particular list, either (1) send an email to [unsubscribe@affiliate.com](mailto:unsubscribe@affiliate.com) or (2) follow the instructions in each promotional email message sent by the Company. 
 
@@ -96,6 +96,6 @@ You acknowledge that personal information will be collected and stored by us in 
 
 3\. Unsubscribe from a particular SMS messaging campaign. To unsubscribe from a particular SMS messaging campaign on a cell phone, send "STOP" to the SMS message received by you. In addition, other methods to unsubscribe may be set forth on the Website where signed up for the SMS messaging campaign. 
 
-**7\. Disputes.**
+**7\. Disputes.** ****
 
 **If you have any concerns or claims with respect to our data handling practices, please contact us first. We will investigate and attempt to resolve any complaints and disputes regarding our use and disclosure of your Individual Information. If your complaint or dispute cannot be resolved through our internal process, or if we do not adequately respond to your question, you agree to resolve your dispute through arbitration. If arbitration is necessary, it will be conducted by telephone and email, and if it must be done in person, it will be conducted in Denver, Colorado. The arbitration will be conducted by one arbitrator member of the American Arbitration Association, and under the rules of commercial arbitration of the American Arbitration Association or as agreed between you and the Company. Both parties will bear equally the cost of arbitration (exclusive of legal fees and expenses). You acknowledge and agree that you and the Company are each waiving the right to a trial by jury or to participate as a plaintiff or class member in any purported class action lawsuit, class-wide arbitration, private attorney-general action, or any other representative proceeding. Further, unless both you and the Company otherwise agree in writing, the arbitrator may not consolidate more than one person's claims, and may not otherwise preside over any form of any class or representative proceeding.**
