@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoho.com privacy policy that was archived on 2016-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161005072121id_/https%3A//www.zoho.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoho.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511081810id_/https%3A//www.zoho.com/privacy.html) for the most accurate reproduction.*
 
 # Zoho - Privacy Policy
 
@@ -7,7 +7,7 @@
 [](https://privacy.truste.com/privacy-seal/validation?rid=50b6e2e0-32b9-4950-b625-32c2c673e0cf)  
 ---  
   
-Updated on: 30th September 2016.   
+Updated on: 21st April 2017.   
   
 ##### General
 
@@ -132,5 +132,3 @@ This certification covers our collection, use and disclosure of information we c
 Zoho acknowledges that you have the right to access your Personal Information. Zoho has no direct relationship with the individuals whose personal data it processes. If you are an individual user of Zoho Services, you can directly contact Zoho to correct, amend, or delete inaccurate data. In other cases, an individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct such query to his data controller who may be a customer of Zoho Services. If requested to remove data we will respond within a reasonable timeframe. We will retain Personal Information we process on behalf of our customers for as long as needed to provide Zoho Services to our customers. Zoho will retain Personal Information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 Zoho may transfer Personal Information to third party service providers that help us in providing the Zoho Services. Transfers to subsequent third parties are covered by the provisions in this Privacy Policy Statement regarding notice and choice and the service agreements with you. 
-
-[](http://www.aicpa.org/InterestAreas/FRC/AssuranceAdvisoryServices/Pages/SORHome.aspx)
