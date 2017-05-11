@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prefiles.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616050857id_/http%3A//prefiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prefiles.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511104557id_/http%3A//prefiles.com/privacy-policy) for the most accurate reproduction.*
 
-# Prefiles.com › Premium Files Storage
+# PreFiles.com › Premium Files Storage
 
 **PreFiles.com** ("we") respects the privacy of the visitors to its website. **PreFiles.com** may update this policy from time to time. We will notify you about significant changes by placing a prominent notice on this page and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
@@ -36,10 +36,6 @@ Ads on our website are presented by advertising intermediaries. These companies 
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
-### 9\. External links
-
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
-
-### 10\. I still have questions, what should I do?
+### 9\. I still have questions, what should I do?
 
 If you still have questions regarding our services don't hesitate to contact us using our [contact form](http://prefiles.com/contact). 
