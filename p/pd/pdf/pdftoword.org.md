@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdftoword.org privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121155249id_/http%3A//www.pdftoword.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdftoword.org privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511033754id_/http%3A//www.pdftoword.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
