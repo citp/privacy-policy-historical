@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the startafire.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234048id_/http%3A//www.startafire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startafire.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512063128id_/https%3A//startafire.com/privacy) for the most accurate reproduction.*
 
 # Start A Fire - Privacy
+
+Supported Languages
+
+Your badge will show up in the default language you select. Start A Fire is currently supports the following languages:
+
+List is unavailable at the moment. 
 
 Just drag it ;)
 
@@ -9,6 +15,12 @@ It's a bookmarklet, not a button. Please drag it to your bookmarks bar.
 Support for HubSpot integration
 
 You can also call us directly: [+1-(646)-902-6419](tel:+16469026419) (09:00 AM - 03:00 PM EST, Monday to Friday). 
+
+It's time to say goodbye 💔
+
+We've decided to discontinue Start A Fire as of May 4th. You will no longer be able to log-in to the system and create new links. 
+
+All the links you've created using Start A Fire will be redirected to their original source. 
 
 ## Last Revised: 03/05/15
 
