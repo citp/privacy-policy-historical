@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hqbux.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224161516id_/http%3A//www.easycloud.us/data/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hqbux.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513004047id_/http%3A//www.easycloud.us/data/pages/privacy_policy) for the most accurate reproduction.*
 
 # EasyCloud - Easy PHP Cloud Hosting » Pages » Privacy Policy
 
