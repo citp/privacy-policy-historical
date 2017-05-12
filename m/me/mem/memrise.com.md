@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the memrise.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224094534id_/https%3A//www.memrise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memrise.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512215421id_/https%3A//www.memrise.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Memrise
 
-The following is our Privacy Policy, which outlines our responsibilities toward your personal information. It is kept here at [http://www.memrise.com/privacy/](https://web.archive.org/privacy/) . For our terms of use, please visit [http://www.memrise.com/terms/](https://web.archive.org/terms/) . 
+The following is our Privacy Policy, which outlines our responsibilities toward your personal information. It is kept here at [https://www.memrise.com/privacy/](https://web.archive.org/privacy/) . For our terms of use, please visit [https://www.memrise.com/terms/](https://web.archive.org/terms/) . 
 
 Memrise collects personal information, such as your name and email address, from you at the point of “User Registration” (as defined in our terms of use). Moreover, we track many of the actions you perform on our site in order to improve the quality of our service. Unless required by law, we will not share this information with anybody. We’ll let you know about any significant changes by putting a notice up here 30 days before they become effective, and by emailing all Registered Users 30 days in advance where any changes are material. 
 
