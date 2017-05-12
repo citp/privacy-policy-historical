@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stumpsparty.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012013255id_/http%3A//www.stumpsparty.com/servicepage.cfm%3Fpgp%3DSPSECURITY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stumpsparty.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512050854id_/http%3A//www.stumpsparty.com/security) for the most accurate reproduction.*
 
-# Stumps Site Security
+# Security & Privacy - Stumps
 
 At Stumps Party, your security is our number one concern. We are pleased to tell you about the measures we have taken to ensure your security.
 
@@ -11,7 +11,7 @@ We have followed and surpassed all industry standards necessary for a secure sit
 
 Our servers use SSL (Secure Sockets Layer). This is an advanced technology that **encrypts all of the information you send us** (this includes all of your personal information such as your name, address, credit card number, etc.) so that it cannot be read as the information as it travels over the Internet.
 
-SSL works with Microsoft Internet Explorer (v. 3.0 and higher), Netscape Navigator (v. 2.0 and higher) and America Online (v. 3.0 and higher).
+SSL works with Microsoft Internet Explorer, Google Chrome, Firefox and Safari.
 
 To ensure that you are accessing our secure server to place your order, look at the bottom of your browser. You should see a closed lock or unbroken key icon (depending on your browser). If you see either of these icons, then SSL is active.
 
@@ -36,7 +36,7 @@ Please rest assured that shopping on Stumps Party is safe and secure! You'll fin
 
 ## Privacy Policy
 
-Revised April 2005
+Revised October 2016
 
 We want you to know that we respect your privacy and value you as a customer. To this end, we have initiated policies to ensure that your personal information is handled safely and responsibly.
 
@@ -49,7 +49,7 @@ Please note:
 
 ## Customer Information
 
-We receive and gather information (such as customer name, address, phone number, e-mail address, and, when necessary, credit card information) from customers for the following purposes:
+We receive and gather information (such as customer name, address, phone number, email address and credit card information) from customers for the following purposes:
 
   * To process orders
   * To improve customer shopping experiences
@@ -62,9 +62,9 @@ We receive and gather information (such as customer name, address, phone number,
 
 ## E-mails/Newsletters
 
-You may sign up to receive promotional e-mails and newsletters on our website to find out about current specials, offers, sales, and more. If at any time you wish to stop receiving these e-mails, you have the option to remove your name from our mailing list. At the bottom of each e-mail/newsletter, you can click on a link to unsubscribe and remove your name.
+You may sign up to receive promotional emails and newsletters on our website to find out about current specials, offers, sales, and more. If at any time you wish to stop receiving these e-mails, you have the option to remove your name from our mailing list. At the bottom of each email/newsletter, you can click on a link to unsubscribe and remove your name.
 
-Please note: we will NOT sell, rent or share your e-mail address or password with a third party. We understand that this information is private and will handle it in a responsible manner.
+Please note: we will NOT sell, rent or share your email address or password with a third party. We understand that this information is private and will handle it in a responsible manner.
 
 ## Mailing Information
 
