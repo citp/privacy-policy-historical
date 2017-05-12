@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purelocal.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008141223id_/http%3A//purelocal.com/Privacy.aspx%3Fvx%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purelocal.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512022341id_/http%3A//purelocal.com/Privacy.aspx%3Fvx%3D0) for the most accurate reproduction.*
 
 # PureLocal - PureLocal
 
@@ -28,10 +28,14 @@ The privacy and protection of your personal information is vitally important to 
 
 This Website Privacy Statement is effective as of the date listed below. Even if you read and/or agreed to a prior policy statement, you need to review this updated version. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, or other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days.
 
+## YouTube Terms of Service
+
+This website accesses YouTube data via the YouTube API. By using the site, you agree to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms) and [Google Privacy Policy](http://www.google.com/policies/privacy). 
+
 ## Questions?
 
-We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20161008141223id_/http%3A//purelocal.com/contact.aspx).
+We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20170512022341id_/http%3A//purelocal.com/contact.aspx).
 
 **Effective Date: Privacy Notice last modified February 19, 2014.**
 
-© 2016 PureLocal 
+© 2017 PureLocal 
