@@ -1,14 +1,17 @@
-<!--The following is the downloaded HTML source of the thinkful.com privacy policy that was archived on 2016-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161109231553id_/https%3A//www.thinkful.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thinkful.com privacy policy that was archived on 2017-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170513002859id_/https%3A//www.thinkful.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"licenseKey":"2ef1007876","beacon":"bam.nr-data.net","queueTime":18,"applicationID":"5502936","errorBeacon":"bam.nr-data.net","transactionName":"ZlRWMUFRDxdSABZaW18echBdUxUNXA1NQ1FdWFcEXR4SAUEVB0EaR1hREkAKEgFBFQdBa0FQUwBA","applicationTime":11,"agent":""}</script>
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<script src="//cdn.optimizely.com/js/222888614.js"></script>
+<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationTime":96,"transactionName":"ZlRWMUFRDxdSABZaW18echBdUxUNXA1NQ1FdWFcEXR4SAUEVB0EaR1hREkAKEgFBFQdBa0FQUwBA","applicationID":"5502936","beacon":"bam.nr-data.net","queueTime":2,"agent":"","licenseKey":"2ef1007876","errorBeacon":"bam.nr-data.net"}</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="//cdn.optimizely.com/js/222888614.js" async=""></script>
 <script>
     var PYSPLASH_URL="www.thinkful.com";
     var USE_SSL="True";
     var PATH_EXPLICIT="https://wow.thinkful.com";
+    
+      var DISCOUNT_MODAL_TYPE=null;
+    
   </script>
 <title>Privacy Policy · Thinkful</title>
 <meta content="Please read this privacy policy fully and carefully before using www.thinkful.com and/or any of the other services, features, content or applications offered by Thinkful, Inc." name="description">
@@ -24,8 +27,6 @@
 <meta name="tf-pysplash-url" content="www.thinkful.com">
 <meta name="tf-cookie-domain" content="thinkful.com">
  
-<link rel="stylesheet" href="https://wow.thinkful.com/static/build/splash.app.css?b5b3cb01f0">
- 
 <link rel="shortcut icon" href="https://wow.thinkful.com/static/images/favicon.ico" type="image/x-icon">
 <link rel="icon" href="https://wow.thinkful.com/static/images/favicon.ico" type="image/x-icon">
  
@@ -33,10 +34,97 @@
 <meta name="google-site-verification" content="kPl17B5_3eLKI0RzpOoqntm6UkDh4VmAhEJ4o3D5X_8">
 <meta name="analytics-page-name" content="splash-privacy-policy">
  
-<meta name="tf-advisor-id" content="183741">
+<meta name="tf-advisor-id" content="236154">
+<meta name="tf-advisor-email" content="benjy@thinkful.com">
+<meta name="tf-advisor-firstname" content="Benjy">
  
-<link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/1687f214-249f-4805-8f46-2d1ef3144500.css">
- 
+<script async="">
+  /*! loadCSS: load a CSS file asynchronously. [c]2016 @scottjehl, Filament Group, Inc. Licensed MIT details at https://github.com/filamentgroup/loadCSS */
+  (function(w){
+  "use strict";
+  /* exported loadCSS */
+  var loadCSS = function( href, before, media ){
+    // Arguments explained:
+    // `href` [REQUIRED] is the URL for your CSS file.
+    // `before` [OPTIONAL] is the element the script should use as a reference for injecting our stylesheet <link> before
+      // By default, loadCSS attempts to inject the link after the last stylesheet or script in the DOM. However, you might desire a more specific location in your document.
+    // `media` [OPTIONAL] is the media type or query of the stylesheet. By default it will be 'all'
+    var doc = w.document;
+    var ss = doc.createElement( "link" );
+    var ref;
+    if( before ){
+      ref = before;
+    }
+    else {
+      var refs = ( doc.body || doc.getElementsByTagName( "head" )[ 0 ] ).childNodes;
+      ref = refs[ refs.length - 1];
+    }
+
+    var sheets = doc.styleSheets;
+    ss.rel = "stylesheet";
+    ss.href = href;
+    // temporarily set media to something inapplicable to ensure it'll fetch without blocking render
+    ss.media = "only x";
+
+    // wait until body is defined before injecting link. This ensures a non-blocking load in IE11.
+    function ready( cb ){
+      if( doc.body ){
+        return cb();
+      }
+      setTimeout(function(){
+        ready( cb );
+      });
+    }
+    // Inject link
+      // Note: the ternary preserves the existing behavior of "before" argument, but we could choose to change the argument to "after" in a later release and standardize on ref.nextSibling for all refs
+      // Note: `insertBefore` is used instead of `appendChild`, for safety re: http://www.paulirish.com/2011/surefire-dom-element-insertion/
+    ready( function(){
+      ref.parentNode.insertBefore( ss, ( before ? ref : ref.nextSibling ) );
+    });
+    // A method (exposed on return object for external use) that mimics onload by polling document.styleSheets until it includes the new sheet.
+    var onloadcssdefined = function( cb ){
+      var resolvedHref = ss.href;
+      var i = sheets.length;
+      while( i-- ){
+        if( sheets[ i ].href === resolvedHref ){
+          return cb();
+        }
+      }
+      setTimeout(function() {
+        onloadcssdefined( cb );
+      });
+    };
+
+    function loadCB(){
+      if( ss.addEventListener ){
+        ss.removeEventListener( "load", loadCB );
+      }
+      ss.media = media || "all";
+    }
+
+    // once loaded, set link's media back to `all` so that the stylesheet applies once it loads
+    if( ss.addEventListener ){
+      ss.addEventListener( "load", loadCB);
+    }
+    ss.onloadcssdefined = onloadcssdefined;
+    onloadcssdefined( loadCB );
+    return ss;
+  };
+  // commonjs
+  if( typeof exports !== "undefined" ){
+    exports.loadCSS = loadCSS;
+  }
+  else {
+    w.loadCSS = loadCSS;
+  }
+  }( typeof global !== "undefined" ? global : this ));
+
+  loadCSS( "//fast.fonts.net/cssapi/1687f214-249f-4805-8f46-2d1ef3144500.css" );
+</script><link rel="stylesheet" href="//fast.fonts.net/cssapi/1687f214-249f-4805-8f46-2d1ef3144500.css" media="all">
+<link rel="stylesheet" href="https://wow.thinkful.com/static/build/splash.app.css?b7a2f0b4f2">
+<noscript>
+<link rel="stylesheet" href="//fast.fonts.net/cssapi/1687f214-249f-4805-8f46-2d1ef3144500.css">
+</noscript>
 </head>
 <body class="">
 <div class="splash-nav hamburger-off">
@@ -60,8 +148,8 @@
 <div id="splash-nav-courses-dropdown" class="splash-nav-dropdown">
 <ul>
 <li class="splash-nav-dropdown-item"><div class="splash-nav-dropdown-padding">
-<a href="/bootcamp/web-development/">
-<img class="splash-nav-dropdown-image__wdcp" src="//tf-assets-prod.s3.amazonaws.com/wow-next/course-icons/career.gz.svg" alt="Web Development Bootcamp">
+<a class="splash-nav-web-dev-bootcamp-link" href="/bootcamp/web-development/">
+<img class="splash-nav-dropdown-image__bootcamp" src="//tf-assets-prod.s3.amazonaws.com/wow-next/course-icons/career.gz.svg" alt="Web Development Bootcamp">
 <h4 class="splash-nav-dropdown-title splash-nav-dropdown-title__wdcp">Web Development Bootcamp</h4>
 </a>
 <div class="splash-nav-dropdown-cp-links">
@@ -69,13 +157,13 @@
 <a href="/bootcamp/web-development/full-time/">Full Time <span>Bootcamp</span></a>
 </div></div>
 </li>
-<li class="splash-nav-dropdown-item"><a class="splash-nav-dropdown-padding" href="/courses/">
-<img src="//tf-assets-prod.s3.amazonaws.com/wow-next/splash-nav/master-a-new-skill.gz.svg" alt="Skills courses">
-<h4 class="splash-nav-dropdown-title">Skills courses</h4>
+<li class="splash-nav-dropdown-item"><a class="splash-nav-dropdown-padding" href="/bootcamp/data-science/flexible/">
+<img class="splash-nav-dropdown-image__bootcamp" src="//tf-assets-prod.s3.amazonaws.com/splash/data-science/data_science.svg" alt="Data Science">
+<h4 class="splash-nav-dropdown-title">Data Science Bootcamp</h4>
 </a></li>
-<li class="splash-nav-dropdown-item"><a class="splash-nav-dropdown-padding" href="/training-for-teams/">
-<img src="//tf-assets-prod.s3.amazonaws.com/splash/nav-icons/corporate-round.gz.svg" alt="Corporate training">
-<h4 class="splash-nav-dropdown-title">Corporate training</h4>
+<li class="splash-nav-dropdown-item"><a class="splash-nav-dropdown-padding" href="/courses/">
+<img src="//tf-assets-prod.s3.amazonaws.com/wow-next/splash-nav/master-a-new-skill.gz.svg" alt="All courses">
+<h4 class="splash-nav-dropdown-title">All courses</h4>
 </a></li>
 </ul>
 </div>
@@ -94,7 +182,7 @@
 </a></li>
 <li class="splash-nav-dropdown-item"><a class="splash-nav-dropdown-padding" href="/bootcamp-job-guarantee/">
 <img src="//tf-assets-prod.s3.amazonaws.com/splash/nav-icons/guarantee.gz.svg" alt="Job guarantee">
-<h4 class="splash-nav-dropdown-title">Job guarantee</h4>
+<h4 class="splash-nav-dropdown-title">Web Development job guarantee</h4>
 </a></li>
 <li class="splash-nav-dropdown-item"><a class="splash-nav-dropdown-padding" href="/bootcamp-jobs-stats/">
 <img src="//tf-assets-prod.s3.amazonaws.com/splash/nav-icons/jobs-report.gz.svg" alt="Student outcomes">
@@ -159,7 +247,7 @@ New York, NY<br>
 <div class="ref-modal-header">
 <h3 class="hide-on-submit">Your friend sent you $500</h3>
 <h5 class="hide-on-submit">
-Enter your email to receive $500 off our Web Development Bootcamp. It'll be automatically applied
+Enter your email to receive $500 off a Thinkful Bootcamp. It'll be automatically applied
 to your first payment when you enroll.
 </h5>
 <div class="response-text-hidden">
@@ -178,10 +266,10 @@ Full Time
 <h4 class="error-text"></h4>
 </div>
 <div class="ref-modal-header-cp">
-<h3 class="hide-on-submit">You get $<span class="ref-modal-amount">...</span> towards your learning.</h3>
+<h3 class="hide-on-submit">You get $<span class="ref-modal-amount">...</span> toward your learning.</h3>
 <h5 class="hide-on-submit">
 Enter your email now and your discount will be automatically
-applied when you enroll in our Web Development Bootcamp.
+applied when you enroll in a Thinkful Bootcamp.
 </h5>
 <div class="response-text-hidden">
 <h3>You're all set!</h3>
@@ -195,7 +283,7 @@ Learn more
 </div>
 <form id="referral-capture" class="hide-on-submit">
 <label for="email-input">Your email</label>
-<input type="email" name="email" id="email-input" placeholder="you@example.com" required="" autofocus="autofocus">
+<input type="email" name="email" id="email-input" placeholder="you@example.com" required="">
 <input type="submit" id="referral-capture-submit" class="button" value="Claim your discount">
 </form>
 <a class="referral-close-modal button button__secondary hide-on-submit" href="javascript:void(0);">No thanks</a>
@@ -227,8 +315,9 @@ Learn more
 </div>
 <div class="footer-column">
 <h4 class="footer-heading">Courses</h4>
-<a class="footer-link mobileHidden" href="/bootcamp/web-development/flexible/">Flexible Bootcamp</a>
-<a class="footer-link mobileHidden" href="/bootcamp/web-development/full-time/">Full Time Bootcamp</a>
+<a class="footer-link mobileHidden" href="/bootcamp/web-development/flexible/">Flexible Web Development Bootcamp</a>
+<a class="footer-link mobileHidden" href="/bootcamp/web-development/full-time/">Full Time Web Development Bootcamp</a>
+<a class="footer-link mobileHidden" href="/bootcamp/data-science/flexible/">Flexible Data Science Bootcamp</a>
 <a class="footer-link" href="/courses/">Explore all courses</a>
 <a class="footer-link" href="/training-for-teams/">Corporate training</a>
 <a class="footer-link mobileHidden" href="/reviews/">Student reviews</a>
@@ -238,30 +327,31 @@ Learn more
 <h4 class="footer-heading">Education</h4>
 <a class="footer-link mobileHidden" href="/mentorship/">1-on-1 mentorship</a>
 <a class="footer-link mobileHidden" href="/career-prep/">Career prep</a>
-<a class="footer-link mobileHidden" href="/bootcamp-job-guarantee/">Job guarantee</a>
+<a class="footer-link mobileHidden" href="/bootcamp-job-guarantee/">Web Development job guarantee</a>
 <a class="footer-link mobileHidden" href="/bootcamp-jobs-stats/">Student outcomes</a>
 <a class="footer-link" href="/bootcamps/">Bootcamp Finder</a>
 <a class="footer-link" href="/learn/">The Learning Corner</a>
+<a class="footer-link" href="/responsible-disclosure/">Responsible disclosure</a>
 </div>
 <div class="footer-column">
 <h4 class="footer-heading">About</h4>
-<a class="footer-link" href="http://blog.thinkful.com">Blog</a>
+<a class="footer-link" href="/blog/">Blog</a>
 <a class="footer-link mobileHidden" href="/about/#opportunities">Careers</a>
 <a class="footer-link mobileHidden" href="/mentors/">Mentors</a>
 <a class="footer-link" href="/about/">Our mission</a>
+<a class="footer-link" href="/press/">Press</a>
 <a class="footer-link mobileHidden" href="/hire-developers/">Hiring network</a>
 <a data-track-target="social-button-facebook" class="footer-link icon mobileHidden" href="https://www.facebook.com/thinkfulschool"><span aria-hidden="true" class="tui-icon icon-facebook"></span></a>
 <a data-track-target="social-button-twitter" class="footer-link icon mobileHidden" href="https://twitter.com/thinkful"><span aria-hidden="true" class="tui-icon icon-twitter"></span></a>
 </div>
 </div>
 <div class="legal-links">
-<span class="margin-span copyright"><span>©</span> <noscript>2016</noscript><script>document.write(new Date().getFullYear());</script>2020 <span>Thinkful, Inc.</span></span><span class="margin-span middot-desktop">·</span>
+<span class="margin-span copyright"><span>©</span> <noscript>2017</noscript><script>document.write(new Date().getFullYear());</script>2020 <span>Thinkful, Inc.</span></span><span class="margin-span middot-desktop">·</span>
 <a class="footer-link margin-span" href="/terms-of-service/">Terms of use</a>
 <span class="margin-span">·</span><a class="footer-link margin-span" href="/privacy-policy/">Privacy policy</a>
-<span class="margin-span">·</span><a class="footer-link margin-span" href="/responsible-disclosure/">Responsible disclosure</a></div>
-</footer></div>
-
-
+</div>
+</footer>
+</div>
 <div class="modal-overlay" id="call-scheduler-modal-overlay">
 <div class="modal" id="call-scheduler-modal">
 <div class="call-modal-header">
@@ -271,44 +361,48 @@ Got it! We'll call you<br><strong><span class="day-selected"></span><span class=
 </h4>
 <h4 class="error-text">Uh oh, something went wrong. Please try again.</h4>
 </div>
-<form class="call-scheduler hide-on-submit" id="call-scheduler">
-<input type="email" name="email" id="email-input" placeholder="you@example.com" required="" autofocus="autofocus">
-<input type="text" name="phone" id="phone-number" placeholder="+1 (858) 367-3232" required="" autofocus="autofocus">
+<div class="tui-loader">
+<svg class="tui-loader-inner" height="25" width="25">
+<circle class="tui-loader-stroke" cx="25" cy="25" r="15" fill="none" stroke-width="5" stroke-miter-limit="10">
+</circle></svg>
+</div>
+<form class="call-scheduler hide-on-submit call-scheduler-loaded" id="call-scheduler">
+<input type="email" name="email" id="email-input" placeholder="you@example.com" required="">
+<input type="text" name="phone" id="phone-number" placeholder="+1 (858) 367-3232" required="">
 <div id="call-now-container" class="button call-now-label">
 Call me now
 </div>
 <h5 class="schedule-call-copy">Select a time:</h5>
 <p class="date-time-indicator"><strong><span class="day-selected"></span><span class="time-selected"></span><span class="current-timezone"></span></strong></p>
-<div class="arrow-left disabled"></div>
-<div class="form-container">
-<div class="day-choices">
-</div>
-</div>
+<div class="arrow-left call-scheduler-arrow__disabled"></div>
 <div class="arrow-right"></div>
-<input type="hidden" name="advisor_id" value="183741">
+<div class="form-container"></div>
+<input class="ed-advisor-id" type="hidden" name="advisor_id" value="236154">
 <div class="call-scheduler-intl-warning call-scheduler-intl-warning__hidden">
 <p class="call-scheduler-intl-warning-p">At this time we only place international calls to Europe, Australia, and Japan. If you are in a different region, and would like to learn more about Thinkful, please contact <a href="mailto:hello@thinkful.com">hello@thinkful.com</a></p>
 <label><input type="checkbox" name="reconfirm_intl_phone"> This phone number is in the Europe, Australia, or Japan.</label>
 </div>
 <input type="submit" id="connect-with-advisor" class="button" value="Schedule call">
+<input type="hidden" name="locale" value="">
 </form>
 <div class="scheduler-close-modal button button__secondary hide-on-submit">Never mind</div>
 </div>
 </div>
-<div class="modal-overlay" id="mailto-modal-overlay">
-<div class="modal" id="mailto-modal">
-<div id="mailto-close">
-<span aria-hidden="true" class="icon-close" id="mailto-close-icon"></span>
-</div>
+<div class="tui-modal-wrapper hidden" id="mailto-modal-overlay">
+<div class="tui-modal-curtain"></div>
+<div class="tui-modal-content" id="mailto-modal">
+<div class="tui-modal-close-button" id="mailto-close-icon"> <span aria-hidden="true" class="icon-close"></span> </div>
 <h4 id="mailto-modal-title"></h4>
 <form class="mailto-form">
+<div class="mailto-fullwidth">
 <div class="mailto-sidebyside">
-<label for="name">Your name</label>
+<label for="mailto-sender-name">Your name</label>
 <input id="mailto-sender-name" name="mailto-sender-name" type="text">
 </div>
 <div class="mailto-sidebyside">
-<label for="email">Your email</label>
+<label for="mailto-sender-email">Your email</label>
 <input id="mailto-sender-email" name="email" type="email">
+</div>
 </div>
 <div class="mailto-fullwidth">
 <label for="mailto-message-body">Message</label>
@@ -336,67 +430,82 @@ Thanks! <span id="mailto-recipient-name"></span> will be in touch.
 </div>
 </div>
 </div>
-<div class="tui-modal-wrapper recommender-form-modal">
-<div class="tui-modal-curtain js-recommender-form-closer"></div>
-<div class="tui-modal-content tui-modal-content__tight">
-<div class="tui-modal-close-button js-recommender-form-closer"> <span aria-hidden="true" class="icon-close"></span> </div>
-<form class="recommender-form js-recommender-form" id="js-recommender-form">
-<div class="h3 recommender-form-header-text recommender-form-header-text-course-name subheading"></div>
-<div class="h3 recommender-form-header-text-h3">Course recommendation</div>
-<label for="recommender-form-career-goals-selector">What are your career goals?</label>
-<div class="select-container"><span class="icon-navigatedown"></span>
-<select name="recommender-form-career-goals-selector" id="recommender-form-career-goals-selector">
-<option value="default" selected="" disabled="">Please select</option>
-<option value="Get my first job as a developer">Get my first job as a developer</option>
-<option value="Become a better engineer / Learn new languages">Become a better engineer / Learn new languages</option>
-<option value="Launch my own company or app">Launch my own company or app</option>
-<option value="Improve my freelance business">Improve my freelance business</option>
-</select>
-</div>
-<label for="recommender-form-timing-selector">When do you want to start learning?</label>
-<div class="select-container"><span class="icon-navigatedown"></span>
-<select name="recommender-form-timing-selector" id="recommender-form-timing-selector">
-<option value="default" selected="" disabled="">Please select</option>
-<option value="Immediately">Immediately</option>
-<option value="Within 1 month">Within 1 month</option>
-<option value="2-4 months">2-4 months</option>
-<option value="More than 5 months">More than 5 months</option>
-</select>
-</div>
-<label for="recommender-form-background">Tell us more about your background</label>
-<textarea name="recommender-form-background" id="recommender-form-background" placeholder="" rows="5"></textarea>
-<label for="recommender-form-phone-number">Phone number</label>
-<input type="text" name="guide-input-2" id="recommender-form-phone-number" placeholder="858-367-3232">
-<label class="recommender-form-radio-button-question">Are you currently employed full time?</label>
-<label for="guide-radio-choice-1" class="recommender-form-radio-button">
-<input id="guide-radio-choice-1" name="recommender-form-radio-button-choice" value="yes" class="recommender-form-radio-button-choice" type="radio">
-<span>Yes</span></label>
-<label for="guide-radio-choice-2" class="recommender-form-radio-button">
-<input id="guide-radio-choice-2" name="recommender-form-radio-button-choice" value="no" class="recommender-form-radio-button-choice" type="radio">
-<span>No</span>
+<div class="tui-modal-wrapper js-qualifier-modal hidden">
+<div class="tui-modal-curtain"></div>
+<div class="tui-modal-content">
+<div class="tui-modal-close-button"> <span aria-hidden="true" class="icon-close"></span> </div>
+<form class="js-lead-qualifier-form lead-qualifier-form">
+<h3>Course recommendation</h3>
+<h4>What topic are you most interested in?</h4>
+<div class="chunky-select-group">
+<input class="chunky-radio-input" type="radio" name="lc2016_topic" id="lc2016_topic_webdev" value="webdev">
+<label for="lc2016_topic_webdev" class="chunky-radio">
+<p><strong>Full Stack Development</strong></p>
+<p>I'm looking to learn to build frontend and backend web applications on my own.</p>
 </label>
-<input type="submit" class="button button__mini recommender-form-submit-button js-recommender-form-submit-button">
+<input class="chunky-radio-input" type="radio" name="lc2016_topic" id="lc2016_topic_data" value="data">
+<label for="lc2016_topic_data" class="chunky-radio">
+<p><strong>Data Science</strong></p>
+<p>I want to use modern tools to collect, analyze, and present compelling stories using data.</p>
+</label>
+<input class="chunky-radio-input" type="radio" name="lc2016_topic" id="lc2016_topic_other" value="other">
+<label for="lc2016_topic_other" class="chunky-radio">
+<p><strong>Other</strong></p>
+<p>I'm interested in specific languages like Python and Swift, and coding-related skills like design.</p>
+</label>
+</div>
+<span class="chunky-input-error js-qualifier-topic-error"></span>
+<h4>How much time are you willing to commit to learning coding?</h4>
+<div class="chunky-select-group">
+<input class="chunky-radio-input" type="radio" name="lc2016_time" id="lc2016_time_fulltime" value="fulltime">
+<label for="lc2016_time_fulltime" class="chunky-radio">
+<p><strong>Full time</strong></p>
+<p>I want to fully immerse myself and treat my learning as a full-time job.</p>
+</label>
+<input class="chunky-radio-input" type="radio" name="lc2016_time" id="lc2016_time_flex" value="flex">
+<label for="lc2016_time_flex" class="chunky-radio">
+<p><strong>Part of the week</strong></p>
+<p>I have a job but I'm willing to commit 20-25+ hours per week to my learning.</p>
+</label>
+<input class="chunky-radio-input" type="radio" name="lc2016_time" id="lc2016_time_short" value="short">
+<label for="lc2016_time_short" class="chunky-radio">
+<p><strong>A couple nights per week</strong></p>
+<p>I want to spend a few hours each week to pick up new skills one at a time.</p>
+</label>
+</div>
+<span class="chunky-input-error js-qualifier-time-error"></span>
+<h4>Where are you based?</h4>
+<input type="text" name="lc2016_location" placeholder="Your city or country...">
+<h4>What's your phone number?</h4>
+<input type="tel" name="lc2016_phone" placeholder="+1 (858) 367-3232">
+<button class="button" type="submit" id="lc2016_submit2">
+Get recommendation
+<span class="button-right-icon icon-navigateright"></span>
+</button>
 </form>
+<div class="js-qualifier-loader tui-loader hidden">
+<svg class="tui-loader-inner" height="25" width="25">
+<circle class="tui-loader-stroke" cx="25" cy="25" r="15" fill="none" stroke-width="5" stroke-miter-limit="10"></circle>
+</svg>
 </div>
-</div>
-<div class="tui-modal-wrapper recommender-form-confirmation-modal">
-<div class="tui-modal-curtain js-recommender-form-closer"></div>
-<div class="tui-modal-content tui-modal-content__centered tui-modal-content__tight">
-<a class="js-recommender-success-form-closer"><div class="tui-modal-close-button"> <span aria-hidden="true" class="icon-close"></span> </div></a>
-<div class="subheading">Based on your goals we recommend</div>
-<img class="js-recommender-form-confirmation-icon-image recommender-form-confirmation-icon-image" alt="recommended course icon">
-<div class="h3 recommender-form-confirmation-display-name"></div>
+<div class="lead-qualifier-success js-qualifier-success hidden">
+<h3 class="js-qualifier-success-copy">We recommend...</h3>
+<a class="js-qualifier-success-href">
+<img class="js-qualifier-success-icon recommender-form-confirmation-icon-image" alt="recommended course icon">
+<div class="h3 js-qualifier-success-course-name"></div>
+</a>
 <div class="body-text">An education advisor will be in touch to help you get started.</div>
-<a class="button button__mini js-recommender-form-confirmation-button">View course</a>
+<a class="button button__mini js-qualifier-success-button js-qualifier-success-href">View course</a>
+</div>
 </div>
 </div>
 <script type="text/javascript">
-    window.__env = {"config": {"accounts": {"displayName": "Accounts", "host": "accounts.thinkful.com", "url": "//accounts.thinkful.com"}, "activity": {"displayName": "My Students", "host": "activity.thinkful.com", "url": "//activity.thinkful.com"}, "api": {"displayName": "Thinkful API", "host": "www.thinkful.com", "url": "//www.thinkful.com/pysplash"}, "app": {"displayName": "Splash", "host": null, "name": "Pelican", "slug": null}, "assets": {"displayName": "Assets", "host": "assets.thinkful.com", "url": "//assets.thinkful.com"}, "business": {"displayName": "Corporate Training", "url": "//www.thinkful.com/training-for-teams/"}, "courses": {"displayName": "Courses", "host": "courses.thinkful.com", "url": "//courses.thinkful.com"}, "cpEnroll": {"displayName": "Career Path Enroll", "host": "www.thinkful.com", "url": "//www.thinkful.com/join"}, "dashboard": {"displayName": "Dashboard", "host": "dashboard.thinkful.com", "url": "//dashboard.thinkful.com"}, "enroll": {"displayName": "Enroll", "host": "www.thinkful.com", "url": "//www.thinkful.com/enroll"}, "events": {"host": "avocet.thinkful.com", "url": "//avocet.thinkful.com"}, "forBeginners": {"displayName": "For Beginners", "url": "//www.thinkful.com/for-beginners"}, "goals": {"displayName": "Goals", "host": "dashboard.thinkful.com", "url": "//dashboard.thinkful.com/goals/"}, "ibis": {"displayName": "Resources", "host": "ibis.thinkful.com", "url": "//ibis.thinkful.com"}, "library": {"displayName": "Library", "url": "//www.thinkful.com/projects/library"}, "mentors": {"displayName": "Mentors", "url": "//www.thinkful.com/mentors/"}, "officeHours": {"displayName": "Open Sessions", "host": "www.thinkful.com", "url": "//www.thinkful.com/open-sessions/"}, "oilbird": {"host": "oilbird.thinkful.com", "url": "//oilbird.thinkful.com"}, "pages": {"displayName": "Pages", "host": "cms.thinkful.com", "url": "//cms.thinkful.com"}, "paths": {"displayName": "Paths", "url": "//www.thinkful.com/projects/paths/"}, "pricing": {"displayName": "Pricing", "url": "//www.thinkful.com/pricing/"}, "profiles": {"displayName": "Profiles", "host": "profiles.thinkful.com", "url": "//profiles.thinkful.com"}, "progress": {"host": "progress.thinkful.com", "url": "//progress.thinkful.com"}, "projectHunt": {"displayName": "Project Hunt", "host": "www.thinkful.com", "url": "//www.thinkful.com/project-hunt/"}, "projects": {"displayName": "Projects", "host": "www.thinkful.com", "url": "//www.thinkful.com/projects/"}, "qaSessions": {"displayName": "Q\u0026A sessions", "host": "www.thinkful.com", "url": "//www.thinkful.com/open-sessions/qa-sessions/"}, "records": {"displayName": "Records", "host": "records.thinkful.com", "url": "//records.thinkful.com"}, "refer": {"displayName": "Refer a Friend", "url": "//settings.thinkful.com/refer-a-friend"}, "sessions": {"displayName": "Sessions", "host": "sessions.thinkful.com", "url": "//sessions.thinkful.com"}, "settings": {"displayName": "Settings", "host": "settings.thinkful.com", "url": "//settings.thinkful.com"}, "signIn": {"displayName": "Sign In", "url": "//accounts.thinkful.com/login"}, "signOut": {"displayName": "Sign Out", "url": "//accounts.thinkful.com/logout"}, "slack": {"displayName": "Slack", "url": "https://thinkful-students.slack.com"}, "support": {"displayName": "Support", "url": "//www.thinkful.com/support/"}, "takeStudent": {"displayName": "Take Student", "url": "//www.thinkful.com/patel/take_student"}, "tfl_enroll": {"displayName": "Thinkful Enroll", "url": "//www.thinkful.com/enroll/signup/"}, "useSSL": true, "vendor": {"getstream": {"apiKey": null, "appId": null, "userFeedToken": null}, "logentries": {"token": false}, "segment": {"token": false}}, "workshops": {"displayName": "Workshops", "host": "www.thinkful.com", "url": "//www.thinkful.com/open-sessions/workshops/"}, "wow": {"host": "wow.thinkful.com", "url": "//wow.thinkful.com"}, "www": {"host": "www.thinkful.com", "url": "//www.thinkful.com"}}, "env": {"debug": false, "hotload": false}, "user": null}
+    window.__env = {"config": {"accounts": {"displayName": "Accounts", "host": "accounts.thinkful.com", "url": "//accounts.thinkful.com"}, "activity": {"displayName": "My Students", "host": "activity.thinkful.com", "url": "//activity.thinkful.com"}, "api": {"displayName": "Thinkful API", "host": "www.thinkful.com", "url": "//www.thinkful.com/pysplash"}, "app": {"displayName": "Splash", "host": null, "name": "Pelican", "slug": null}, "assets": {"displayName": "Assets", "host": "assets.thinkful.com", "url": "//assets.thinkful.com"}, "bootcampFinder": {"displayName": "Bootcamp Finder", "host": "www.thinkful.com", "url": "//www.thinkful.com/bootcamps"}, "business": {"displayName": "Corporate Training", "url": "//www.thinkful.com/training-for-teams/"}, "callScheduler": {"displayName": "Call Scheduler", "host": "robin.thinkful.com", "url": "//robin.thinkful.com"}, "courses": {"displayName": "Courses", "host": "courses.thinkful.com", "url": "//courses.thinkful.com"}, "cpEnroll": {"displayName": "Career Path Enroll", "host": "www.thinkful.com", "url": "//www.thinkful.com/join"}, "dashboard": {"displayName": "Dashboard", "host": "dashboard.thinkful.com", "url": "//dashboard.thinkful.com"}, "enroll": {"displayName": "Enroll", "host": "www.thinkful.com", "url": "//www.thinkful.com/enroll"}, "events": {"host": "avocet.thinkful.com", "url": "//avocet.thinkful.com"}, "forBeginners": {"displayName": "For Beginners", "url": "//www.thinkful.com/for-beginners"}, "goals": {"displayName": "Goals", "host": "dashboard.thinkful.com", "url": "//dashboard.thinkful.com/goals/"}, "ibis": {"displayName": "Resources", "host": "ibis.thinkful.com", "url": "//ibis.thinkful.com"}, "lark": {"displayName": "Admin Dashboard", "host": "lark.thinkful.com", "url": "//lark.thinkful.com"}, "library": {"displayName": "Library", "url": "//www.thinkful.com/projects/library"}, "mentors": {"displayName": "Mentors", "url": "//www.thinkful.com/mentors/"}, "nestserver": {"displayName": "Nest backend", "host": "nestserver.thinkful.com", "url": "//nestserver.thinkful.com"}, "officeHours": {"displayName": "Open Sessions", "host": "www.thinkful.com", "url": "//www.thinkful.com/open-sessions/"}, "oilbird": {"host": "oilbird.thinkful.com", "url": "//oilbird.thinkful.com"}, "pages": {"displayName": "Pages", "host": "cms.thinkful.com", "url": "//cms.thinkful.com"}, "paths": {"displayName": "Paths", "url": "//www.thinkful.com/projects/paths/"}, "pricing": {"displayName": "Pricing", "url": "//www.thinkful.com/pricing/"}, "profiles": {"displayName": "Profiles", "host": "profiles.thinkful.com", "url": "//profiles.thinkful.com"}, "progress": {"host": "progress.thinkful.com", "url": "//progress.thinkful.com"}, "projectHunt": {"displayName": "Project Hunt", "host": "www.thinkful.com", "url": "//www.thinkful.com/project-hunt/"}, "projects": {"displayName": "Projects", "host": "www.thinkful.com", "url": "//www.thinkful.com/projects/"}, "qaSessions": {"displayName": "Q\u0026A sessions", "host": "www.thinkful.com", "url": "//www.thinkful.com/open-sessions/qa-sessions/"}, "records": {"displayName": "Records", "host": "records.thinkful.com", "url": "//records.thinkful.com"}, "refer": {"displayName": "Refer a Friend", "url": "//settings.thinkful.com/refer-a-friend"}, "sessions": {"displayName": "Sessions", "host": "sessions.thinkful.com", "url": "//sessions.thinkful.com"}, "settings": {"displayName": "Settings", "host": "settings.thinkful.com", "url": "//settings.thinkful.com"}, "signIn": {"displayName": "Sign In", "url": "//accounts.thinkful.com/login"}, "signOut": {"displayName": "Sign Out", "url": "//accounts.thinkful.com/logout"}, "slack": {"displayName": "Slack", "url": "https://thinkful-students.slack.com"}, "support": {"displayName": "Support", "url": "//www.thinkful.com/support/"}, "takeStudent": {"displayName": "Take Student", "url": "//www.thinkful.com/patel/take_student"}, "tfl_enroll": {"displayName": "Thinkful Enroll", "url": "//www.thinkful.com/enroll/signup/"}, "useSSL": true, "vendor": {"getstream": {"apiKey": null, "appId": null, "userFeedToken": null}, "imgix": {"host": null, "secureURLToken": null}, "logentries": {"token": false}, "segment": {"token": false}}, "workshops": {"displayName": "Workshops", "host": "www.thinkful.com", "url": "//www.thinkful.com/open-sessions/workshops/"}, "wow": {"host": "wow.thinkful.com", "url": "//wow.thinkful.com"}, "www": {"host": "www.thinkful.com", "url": "//www.thinkful.com"}}, "env": {"debug": false, "hotload": false}, "user": null}
   </script>
-<script defer="" src="https://wow.thinkful.com/static/build/bundle.js?bab6b38b6e"></script>
-<script defer="" src="https://wow.thinkful.com/static/build/common.app.js?09df696b17"></script>
+<script defer="" src="https://wow.thinkful.com/static/build/bundle.js?dc91bdf7b6"></script>
+<script defer="" src="https://wow.thinkful.com/static/build/common.app.js?3b168be133"></script>
  
-<script src="https://wow.thinkful.com/static/js/airbrake-shim.js?4988092ff6" data-airbrake-project-id="118234" data-airbrake-project-key="797efae4778172198885fc4bc7b48ff6" data-airbrake-environment-name="production"></script>
-<script defer="" src="https://wow.thinkful.com/static/build/splash.app.js?9c0bce1fa7"></script>
-<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
+<script src="https://wow.thinkful.com/static/js/airbrake-shim.js?4988092ff6" data-airbrake-project-id="118234" data-airbrake-project-key="797efae4778172198885fc4bc7b48ff6" data-airbrake-environment-name="production" async=""></script>
+<script defer="" src="https://wow.thinkful.com/static/build/splash.app.js?3933fa48ab"></script>
+
 </body></html>
