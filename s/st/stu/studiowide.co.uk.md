@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studiowide.co.uk privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110141915id_/http%3A//www.studiowide.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studiowide.co.uk privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512103912id_/http%3A//www.studiowide.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Studiowide
 
 This privacy policy sets out how Studiowide Ltd (Studiowide) uses and protects any information that you give Studiowide when you use this website.
 
