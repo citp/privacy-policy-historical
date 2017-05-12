@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the startafire.com privacy policy that was archived on 2016-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161118234048id_/http%3A//www.startafire.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the startafire.com privacy policy that was archived on 2017-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170512063128id_/https%3A//startafire.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/html"><head>
 	
@@ -16,16 +16,37 @@
 <meta name="twitter:description" content="Grow and expand your audience by recommending your content within any link you share">
 <meta name="language" content="english">
 <meta name="twitter:image" content="//startafirenewstatic.s3.amazonaws.com/images/ogimage.png">
+<meta name="p:domain_verify" content="df05cb4a304ca27ada862ed451788ec2">
 <meta name="viewport" content="maximum-scale=1, initial-scale=1, user-scalable=no">
 
-<link href="//fonts.googleapis.com/css?family=Roboto:500,100,300,700,400" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet" type="text/css" media="none" onload="this.media='all';">
 <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/gpojamnhiligphhofkkbdpdfkgplflne">
 
+<!--<link rel="stylesheet" type="text/css" href="//startafirenewstatic.s3.amazonaws.com/css/bootstrap.min.css" />-->
 
-<link rel="stylesheet" href="//startafirenewstatic.s3.amazonaws.com/CACHE/css/e830a24d8935.css" type="text/css">
+
+
+    <link rel="stylesheet" href="//startafirenewstatic.s3.amazonaws.com/CACHE/css/960981b258b5.css" type="text/css">
+
+
+
+
+
 
 <link rel="shortcut icon" href="//startafirenewstatic.s3.amazonaws.com/images/favicon2.ico">
 <link id="page_favicon" href="//startafirenewstatic.s3.amazonaws.com/images/favicon2.ico" rel="icon" type="image/x-icon">
+<meta name="theme-color" content="#3468dd">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<!--<link rel="icon" sizes="16x16" href="//startafirenewstatic.s3.amazonaws.com/images/startafire_assets/icon_16x16.png" />-->
+<link rel="icon" sizes="48x48" href="//startafirenewstatic.s3.amazonaws.com/images/startafire_assets/icon_48x48.png">
+<link rel="icon" sizes="96x96" href="//startafirenewstatic.s3.amazonaws.com/images/startafire_assets/icon_96x96.png">
+<link rel="icon" sizes="144x144" href="//startafirenewstatic.s3.amazonaws.com/images/startafire_assets/icon_144x144.png">
+<link rel="icon" sizes="192x192" href="//startafirenewstatic.s3.amazonaws.com/images/startafire_assets/icon_192x192.png">
+<link rel="apple-touch-icon" href="//startafirenewstatic.s3.amazonaws.com/images/startafire_assets/icon_192x192.png">
+<link rel="apple-touch-icon" sizes="76x76" href="//startafirenewstatic.s3.amazonaws.com/images/startafire_assets/icon_76x76.png">
+<link rel="apple-touch-icon" sizes="120x120" href="//startafirenewstatic.s3.amazonaws.com/images/startafire_assets/icon_120x120.png">
+<link rel="apple-touch-icon" sizes="152x152" href="//startafirenewstatic.s3.amazonaws.com/images/startafire_assets/icon_152x152.png">
+
 <title>Start A Fire</title>
 
 <!-- start Optimizely -->
@@ -49,7 +70,8 @@ for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElemen
     MixpanelTomodo.user.name = '';
 
     mixpanel.init(mixpanel_id, {'loaded':function() {
-        
+        document.querySelector("body").setAttribute("mixpanel_loaded", "true");
+
         elm = document.querySelectorAll(".twitter-connect, .facebook-connect");
         if(elm.length){
             for(var i=0;i<elm.length;i++){
@@ -89,7 +111,8 @@ for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElemen
                 $username: '',
                 $email: '',
                 $name: ' ',
-                $source: ''
+                $source: '',
+                $plan: ''
             });
 
             if(window.location.href.indexOf("/welcome/") > -1) {
@@ -159,19 +182,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-PN88MQ');</script>
 <!-- End Google Tag Manager -->
 
-
-
-
-
 <header>
     
 
 	<div class="header-inner cf">
-		<a class="logo" href="//startafire.com"><img src="//startafirenewstatic.s3.amazonaws.com/images/logo_startafire_h.png"></a>
+        <div class="logo-container">
+		  <a class="logo" href="//startafire.com"></a>
 
-        <button id="feedback-button-header" class="open-intercom desktop-only" data-window-type="showNewMessage">
-            <span class="icon-bubble2"></span>Feedback
-        </button>
+            <button id="feedback-button-header" class="open-intercom desktop-only" data-window-type="showNewMessage">
+                <span class="icon-bubble2"></span>Feedback
+            </button>
+        </div>
 
         <div class="header-links">
         
@@ -179,27 +200,29 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
                     <a href="/about/" class="action-button header-buttons link-style desktop-only">About</a>
                     <a href="/about/publishers" class="action-button header-buttons link-style desktop-only">Publishers</a>
-                    <a href="//blog.startafire.com?src=1" class="action-button header-buttons link-style desktop-only">Blog</a>
                     <button id="headerSignIn" class="action-button header-buttons open-login-modal">Log in</button>
                     
-                        <a href="//startafire.com" class="action-button strong header-buttons">Sign up</a>
+                        <a href="/request-demo" class="action-button strong header-buttons desktop-only">Request a Demo</a>
+                        <a href="/request-demo" class="action-button strong header-buttons mobile-only-inline">Demo</a>
                     
                 
             
             <div class="user-menu">
                 <div class="user-menu-arrow-top"></div>
                 <div class="user-menu-container">
-                    <a href="/tools" id="userTools">Integrations &amp; Tools</a>
+                    <button class="float-right profile-pic close-nav-icon mobile-only">
+                        <span class="icon-cross"></span>
+                    </button>
                     <a href="/badge" id="editBadge">Customize Badge</a>
-                    <a href="/settings" id="userSettings">Settings</a>
+                    <a href="/tools" id="userTools">Integrations &amp; Tools</a>
                     <div class="user-menu-divider"></div>
-                    <a href="//blog.startafire.com/?utm_source=startafire&amp;utm_campaign=menu&amp;src=1" target="_blank" id="openBlog">Blog</a>
-                    <a href="https://help.startafire.com/" target="_blank" id="knowledgebase">Help Center</a>
+                    <a href="/settings" id="userSettings">Account Settings</a>
+                    
+                    <div class="user-menu-divider"></div>
+                    <a href="//blog.startafire.com/?utm_source=startafire&amp;utm_campaign=menu" target="_blank" id="openBlog">Blog</a>
                     <a href="/developers" id="openDevelopers">Developers</a>
                     <button class="open-intercom mobile-only" data-window-type="showMessages">Support</button>
                     <div class="user-menu-divider"></div>
-                    
-                    
             	    <a href="/logout" id="signout">Sign Out</a>
                 </div>
             </div>
@@ -218,9 +241,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="modal-title">Login to continue</div>
     <div class="modal-text">
         <div class="login_buttons">
-            <button data-path="" data-creation-source="" data-mixpanel-id="" class="action-button twitter-button-style twitter-connect"><span class="icon-twr"></span>Log in with Twitter
-            </button><button proceed="" data-path="" data-creation-source="" data-mixpanel-id="" class="action-button facebook-button-style facebook-connect"><span class="icon-facebook2"></span>Log in with Facebook
-        </button></div>
+            <button data-path="" data-creation-source="" data-mixpanel-id="" class="action-button twitter-button-style twitter-connect"><span class="icon-twr"></span>Log in with Twitter</button>
+            <button proceed="" data-path="" data-creation-source="" data-mixpanel-id="" class="action-button facebook-button-style facebook-connect"><span class="icon-facebook2"></span>Log in with Facebook</button>
+        </div>
 
         <div class="login_label">— OR —</div>
 
@@ -248,10 +271,78 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
 
             <div class="signup_form_container buttons_cell">
-                <a href="/resetpassword" class="action-button-gray open-forgot-password">Forgot password?</a>
+                <a href="/resetpassword" class="action-button-gray open-forgot-password desktop-only">Forgot password?</a>
                 <input type="hidden" id="creationsource" value="">
                 <input type="hidden" id="dataPath" value="">
                 <input type="submit" id="login_submit" value="Log in" class="action-button strong">
+                <div class="form_loading hide spinner blue">
+                    <div class="rect1"></div>
+                    <div class="rect2"></div>
+                    <div class="rect3"></div>
+                    <div class="rect4"></div>
+                </div>
+                <a href="/resetpassword" class="action-button-gray open-forgot-password mobile-only">Forgot password?</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="modal signup-with-email-modal white-background">
+    <div class="icon-cross"></div>
+    <div class="modal-title">Join Start A Fire</div>
+    <div class="modal-sub-title"></div>
+    <div class="modal-text">
+        <div class="social_buttons">
+            <div class="login_buttons">
+                <button data-path="" data-creation-source="" data-mixpanel-id="" class="action-button twitter-button-style twitter-connect"><span class="icon-twr"></span>Sign up with Twitter</button>
+                <button proceed="" data-path="" data-creation-source="" data-mixpanel-id="" class="action-button facebook-button-style facebook-connect"><span class="icon-facebook2"></span>Sign up with Facebook</button>
+            </div>
+
+            <div class="login_label">— OR —</div>
+        </div>
+
+        <form id="email_signup_form" class="email_connect_modal submit-on-enter">
+            <div class="signup_form_wrapper">
+                <div class="signup_form_container">
+                    <div class="signup_form_cell_text">
+                        Name
+                    </div>
+
+                    <div class="signup_form_cell_input">
+                        <button disabled="" data-tip="Looks good!" class="iconIndicationContainer valid right-tooltip hide"><span class="icon-checkmark green-icon"></span></button>
+                        <button disabled="" data-tip="At least 2 characters" class="iconIndicationContainer invalid right-tooltip hide"><span class="icon-cross red-icon"></span></button>
+                        <input type="text" id="signup_fullname" placeholder="Company name or full name" data-validation="true">
+                    </div>
+                </div>
+
+                <div class="signup_form_container">
+                    <div class="signup_form_cell_text">
+                        Email
+                    </div>
+
+                    <div class="signup_form_cell_input">
+                        <button disabled="" data-tip="Nice address!" class="iconIndicationContainer valid right-tooltip hide"><span class="icon-checkmark green-icon"></span></button>
+                        <button disabled="" data-tip="Is it a real email address?" class="iconIndicationContainer invalid right-tooltip hide"><span class="icon-cross red-icon"></span></button>
+                        <input type="email" id="signup_email" data-validation="true">
+                    </div>
+                </div>
+
+                <div class="signup_form_container">
+                    <div class="signup_form_cell_text">
+                        Password
+                    </div>
+
+                    <div class="signup_form_cell_input">
+                        <button disabled="" class="iconIndicationContainer valid right-tooltip hide"><span class="icon-checkmark green-icon"></span></button>
+                        <button disabled="" data-tip="At least 4 characters" class="iconIndicationContainer invalid right-tooltip hide"><span class="icon-cross red-icon"></span></button>
+                        <input type="password" id="signup_password" placeholder="At least 4 characters" data-validation="true">
+                    </div>
+                </div>
+            </div>
+
+            <div class="signup_form_container buttons_cell">
+                <input type="submit" id="signup_submit" value="Sign up" class="action-button strong">
+                <input type="hidden" id="creationsource" value="">
                 <div class="form_loading hide spinner blue">
                     <div class="rect1"></div>
                     <div class="rect2"></div>
@@ -262,6 +353,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </form>
     </div>
 </div>
+
 
 <div class="modal feedback-modal">
     <div class="icon-cross"></div>
@@ -278,6 +370,32 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 
 
+
+    <div class="modal supported-languages-modal">
+        <div class="icon-cross"></div>
+        <div class="modal-title">Supported Languages</div>
+        <div class="modal-subtitle">Your badge will show up in the default language you select. Start A Fire is currently supports the following languages:</div>
+
+        <div class="languages-list-wrapper">
+            <div class="languages-list">
+                <div class="fireLoading full-width-active">
+                    <div class="spinner blue">
+                        <div class="rect1"></div>
+                        <div class="rect2"></div>
+                        <div class="rect3"></div>
+                        <div class="rect4"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="languages-list-no-languages">
+                List is unavailable at the moment.
+            </div>
+        </div>
+
+        <div class="modal-text actions-bar right">
+            <button class="close-modal action-button desktop-only">Close</button>
+        </div>
+    </div>
 
     <div class="modal dragbookmarklet-modal">
         <div class="icon-cross"></div>
@@ -296,10 +414,23 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
 
         <div class="modal-subtitle">
-            You can also call us directly: <a href="tel:+16469026419">+1-(646)-902-6419</a> (09:00 AM - 03:00 PM EST, Monday to Friday).  
+            You can also call us directly: <a href="tel:+16469026419">+1-(646)-902-6419</a> (09:00 AM - 03:00 PM EST, Monday to Friday).
         </div>
         <div class="modal-text actions-bar right">
-            <button class="action-button close-modal">Close</button>
+            <button class="action-button close-modal desktop-only">Close</button>
+        </div>
+    </div>
+
+    <div class="modal goodbye-modal">
+        <div class="icon-cross"></div>
+        <div class="modal-title">It's time to say goodbye 💔</div>
+        <div class="modal-subtitle">
+            We've decided to discontinue Start A Fire as of May 4th. You will no longer be able to log-in to the system and create new links.
+            <br><br>
+            All the links you've created using Start A Fire will be redirected to their original source.
+        </div>
+        <div class="modal-text actions-bar right">
+            <a class="action-button strong" href="https://blog.startafire.com/time-say-goodbye/">Read More</a>
         </div>
     </div>
 
@@ -460,10 +591,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<span>•</span>
 			<a href="/about/publishers">Publishers</a>
 	        <span>•</span>
-			<a href="/pricing">Pricing</a>
-	        <span>•</span>
-			<a href="//help.startafire.com/">Help Center</a>
-			<span>•</span>
 			<a href="/tools">Tools</a>
 			<span>•</span>
 	        <a href="/developers">Developers</a>
@@ -485,7 +612,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	        <a href="//facebook.com/startafirecom" target="_blank"><span class="footer-icon icon-fb3"></span></a>
 	        <a href="//twitter.com/startafirecom" target="_blank" title="Say hello on Twitter"><span class="footer-icon icon-twr3"></span></a>
 
-			<a href="https://mixpanel.com/f/partner" class="mixpanel desktop-only"><img src="//cdn.mxpnl.com/site_media/images/partner/badge_light.png" alt="Mobile Analytics"></a>
             
         </div>
 
@@ -497,13 +623,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="white-screen"></div>
     
 
-<script type="text/javascript" src="//startafirenewstatic.s3.amazonaws.com/CACHE/js/27d972489b68.js"></script>
+<script type="text/javascript" src="//startafirenewstatic.s3.amazonaws.com/CACHE/js/2dba1f57328c.js"></script>
 
 
 
-<script src="//startafirenewstatic.s3.amazonaws.com/js/clipboard/dist/clipboard.min.js"></script>
-<!--script src="js/zeroclipboard-2.2.0/files/ZeroClipboard.min.js-->
+<script type="text/javascript" src="//startafirenewstatic.s3.amazonaws.com/CACHE/js/dbe27452f1da.js"></script>
 
+
+
+
+
+<!--<script src="http://jcrop-cdn.tapmodo.com/latest/js/jquery.Jcrop.min.js"></script>-->
+<!--<script src="//startafirenewstatic.s3.amazonaws.com/js/flash_detect_min.js"></script>-->
 
 
 
