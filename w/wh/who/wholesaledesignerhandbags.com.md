@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesaledesignerhandbags.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515001408id_/http%3A//www.wholesaledesignerhandbags.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesaledesignerhandbags.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512162531id_/http%3A//www.wholesaledesignerhandbags.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Wholesale Designer Handbags
 
