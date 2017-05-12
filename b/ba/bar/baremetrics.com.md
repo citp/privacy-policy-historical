@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baremetrics.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024160428id_/https%3A//baremetrics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baremetrics.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512071026id_/https%3A//baremetrics.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,11 +38,13 @@ Certain visitors to Baremetrics's websites choose to interact with Baremetrics i
 
 Additionally, some interactions, such as posting a comment, may ask for optional personal information. For instance, when posting a comment, may provide a website that will be displayed along with a user's name when the comment is displayed. Supplying such personal information is completely optional and is only displayed for the benefit and the convenience of the user.
 
-## Aggregated Statistics
+## Aggregated Statistics and Third Party Analytics Providers
 
 Baremetrics may collect statistics about the behavior of visitors to and users of the Service. For instance, Baremetrics may monitor the most popular parts of the Baremetrics Site. Baremetrics may display this information in the aggregate publicly or provide it to others.
 
 In addition, Baremetrics may, from time to time, collect certain personal information from you, your use of the Services, and/or the users of your website, such as your user churn rate, your financial data and revenue, your conversation rates and other metrics (your “Data”). Baremetrics may publish and display your Data in the aggregate to the public through our Site or on our blog, e.g. by publishing a report on average churn rates on the Site. However, all Data is only used and published in the aggregate which means that any published Data will not identify you, your website, your company or your users, or link you to the published information in any way. If you wish to opt out of the publication of your Data, please contact us as hello@baremetrics.com.
+
+Baremetrics may also use third party analytics providers and products, such as Amazon (collectively, “Third Party Providers”), to obtain, compile and analyze information (that may include personally-identifying information) about how users are using and interacting with Baremetrics and/or the Services. Such information is compiled in the aggregate and anonymized (i.e. the aggregated data will not personally identify users in any way) and provided to Third Party Providers for analytics purposes only (e.g. obtaining statistics and other information about how users are using and interacting with Baremetrics). These Third Party Providers may use a variety of established or new technologies or tools (including, without limitation, cookies, web beacons, HTTP cache, local shared objects and persistent identifiers) to recognize your computer or device and/or to collect or compile this information. You understand and acknowledge that Baremetrics has no control over the technologies, tools or practices of the Third Party Providers providing analytics products and services to Baremetrics.
 
 Baremetrics does not disclose personally-identifying information other than as described below.
 
