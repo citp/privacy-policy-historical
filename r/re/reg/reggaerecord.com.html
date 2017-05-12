@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the reggaerecord.com privacy policy that was archived on 2016-11-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161106191636id_/http%3A//www.reggaerecord.com/en/help/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reggaerecord.com privacy policy that was archived on 2017-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170512211138id_/http%3A//www.reggaerecord.com/en/help/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -9,16 +9,18 @@
 <link rel="stylesheet" href="/en/css/dubst.css" type="text/css">
 <title>Help - ReggaeRecord.com</title>
 <script language="javascript" type="text/javascript">
-depth_fix = "../";
+var base_url = "/en/";
+var depth_fix = "";
 </script>
 <script language="javascript" src="/js/jsCart.js" type="text/javascript">
 </script>
 <script language="javascript" type="text/javascript">
-var myCart = new jsCart(99, 'US$', 103.106999);
+var myCart = new jsCart(99, 'US$', 113.29804167);
 var last_selected_nd = "";
 var last_nd_backup = "";
 
 myCart.max_item_message = 'No more items can be added to your cart. Please checkout once and place an addtional order. Sorry for the inconvenience.';
+
 myCart.readFromCookie();
 
 function getRanking(id) {
@@ -64,25 +66,6 @@ function hideSearchForm() {
 	//if ($("requery_button") != null) $("requery_button").style.display = "none";
 }
 
-function getNarrowDown(id, content, query_string) {
-	/*
-	if (last_selected_nd && last_selected_nd != id) {
-		$(last_selected_nd).innerHTML = last_nd_backup;
-	}
-	last_selected_nd = id;
-	last_nd_backup = $(id).innerHTML;
-	*/
-	new Ajax.Updater
-	(
-		id,
-		"/ajax/narrow_down.php",
-		{
-			method: "get",
-			parameters: "n=" + id + "&c=" + content + "&" + query_string + "&l=en"
-		}
-	);
-}
-
 function addToWishList(code) {
 	var confirmed;
 	if (myCart.getAmount(code) > 0) {
@@ -96,7 +79,7 @@ function addToWishList(code) {
 	}
 	if (confirmed) {
 		myCart.setAmount(code, 0);
-		location.href='/en/help/privacy.php?code=' + code + '&command=addToWishList&cart_key=97415639';
+		location.href='/en/help/privacy.php?code=' + code + '&command=addToWishList&cart_key=15211219';
 	}
 }
 
@@ -113,7 +96,7 @@ function addToWantList(code) {
 	}
 	if (confirmed) {
 		myCart.setAmount(code, 2);
-		location.href='/en/help/privacy.php?code=' + code + '&command=addToWantList&cart_key=97415639';
+		location.href='/en/help/privacy.php?code=' + code + '&command=addToWantList&cart_key=15211219';
 	}
 }
 
@@ -121,6 +104,7 @@ function numberFormat(val, digits_sub_one) {
 	if (digits_sub_one == undefined) digits_sub_one = 2;
 	var value, sub_one_part;
 	value = String(val);
+	if (value == 0) return '0.00';
 	if (Math.floor(value) != value) {
 		sub_one_part = value - Math.floor(value);
 		sub_one_part =
@@ -147,159 +131,26 @@ function numberFormat(val, digits_sub_one) {
 	return value + sub_one_part;
 }
 </script>
+
 <script src="/js/player.js?20151208-1826" type="text/javascript">
 </script>
 <script src="/js/prototype.js" type="text/javascript">
 </script>
-<script src="/js/library.js?20161003-1544" type="text/javascript">
+<script src="/js/library.js?20161207-1035" type="text/javascript">
 </script>
 <script src="/js/require.js" type="text/javascript">
 </script>
-<script type="text/javascript">
-require.config({
-	urlArgs: "bust=" + (new Date()).getTime(),
-    baseUrl: '/',
-    paths: {
-        'jquery': "/js/jquery-1.11.3.min",
-        'bootstrap': "/js/bootstrap.min",
-        'bxslider' : "/js/jquery.bxSlider.min"
-    },
-    shim: {
-        'bootstrap': ['jquery'],
-        'bxslider' : ['jquery']
-    },
-    map: {
-        '*': {
-            'jquery': 'jQueryNoConflict'
-        },
-        'jQueryNoConflict': {
-            'jquery': 'jquery'
-        }
-    }
-});
-define('jQueryNoConflict', ['jquery'], function ($) {
-    return $.noConflict();
-});
-if (Prototype.BrowserFeatures.ElementExtensions) {
-    require(['jquery', 'bootstrap'], function ($) {
-        // Fix incompatibilities between BootStrap and Prototype
-        var disablePrototypeJS = function (method, pluginsToDisable) {
-                var handler = function (event) {
-                    event.target[method] = undefined;
-                    setTimeout(function () {
-                        delete event.target[method];
-                    }, 0);
-                };
-                pluginsToDisable.each(function (plugin) {
-                    $(window).on(method + '.bs.' + plugin, handler);
-                });
-            },
-            pluginsToDisable = ['collapse', 'dropdown', 'modal', 'tooltip', 'popover', 'tab'];
-        disablePrototypeJS('show', pluginsToDisable);
-        disablePrototypeJS('hide', pluginsToDisable);
-    });
-}
-/*
-require(['jquery', 'clamp'], function($) {
-	//https://github.com/ichi5/clamp/
-	$(document).ready(function() {
-		$('.clamp').clamp({ clamp : 2 });
-	});
-});
-*/
-require(['jquery', 'bootstrap'], function($) {
-    $(document).ready(function () {
-		$(document).on('click', '.top_selector li a', function(e) {
-			$(e.target).closest('.input-group').find('input[type=text]').val($(e.target).html());
-		});
-
-		$(document).on('click', 'a.btn-play', function(e) {
-			window.open($(this).attr('href'), $(this).attr('target'), 'width=418,height=336,menubar=0,toolbar=0,scrollbars=0,location=0,status=0,resizable=yes');
-			return false;
-		});
-
-		$(document).on('click', '.image_selector .btn-thumbnail', function(e) {
-			var $me = $(e.target);
-			var img_src = $me.attr('src');
-			var src_360 = img_src.replace(/_60\.jpg/, '_360.jpg');
-			$me.closest('.image_selector').find('img[name=main_image]').attr('src', src_360);
-		});
-
-		$(document).on('click', '.image_selector .magnify', function(e) {
-			var $me = $(e.target);
-			var src_main = $me.closest('.image_selector').find('img[name=main_image]').attr('src');
-			var src_800 = src_main.replace(/_360\.jpg/, '_800.jpg');
-			$('#image_overlay').css('visibility', 'visible');
-			if ($('.image_selector .thumbnails').length == 0) {
-				$('#image_overlay .btn-prev, #image_overlay .btn-next').css('display', 'none');
-			}
-			$('#image_overlay .image').html('<img src="' + src_800 + '" width="800" alt="" />');
-		});
-
-		$(document).on('click', '.slide_show .btn-next', function(e) {
-			var $me = $(e.target);
-			var $thumbnails = $('.image_selector .thumbnails');
-			var src_800 = $('#image_overlay').find('img').attr('src');
-			var $img_60 = $thumbnails.find('img[src$="' + src_800.replace(/_800\.jpg/, '_60.jpg') + '"]');
-			var $img_next = $img_60.next('img');
-			if ($img_next.length == 0) $img_next = $thumbnails.find('img:first-child');
-			var src_800 = $img_next.attr('src').replace(/_60\.jpg/, '_800.jpg');
-			$('#image_overlay .image img').attr('src', $img_next.attr('src').replace(/_60\.jpg/, '_800.jpg'));
-			return false;
-		});
-
-		$(document).on('click', '.slide_show .btn-prev', function(e) {
-			var $me = $(e.target);
-			var $thumbnails = $('.image_selector .thumbnails');
-			var src_800 = $('#image_overlay').find('img').attr('src');
-			var $img_60 = $thumbnails.find('img[src$="' + src_800.replace(/_800\.jpg/, '_60.jpg') + '"]');
-			var $img_prev = $img_60.prev('img');
-			if ($img_prev.length == 0) $img_prev = $thumbnails.find('img:last-child');
-			$('#image_overlay .image img').attr('src', $img_prev.attr('src').replace(/_60\.jpg/, '_800.jpg'));
-			return false;
-		});
-
-		$(document).on('click', '#image_overlay', function(e) {
-			$('#image_overlay').css('visibility', 'hidden');
-		});
-
-		$('#form_payment_method input[name=payment_method]').on('click', function(e) {
-			var payment_method = $(e.target.form).find('[name=payment_method]:checked').val();
-			if (payment_method == '6') {
-				//$(e.target.form).find('[name=batch_shipping]').val([ 'reserve' ]);
-				$('.shipping_options').css('display', 'none');
-			} else {
-				//if ($('.shipping_options').css('display')== 'none') {
-				//	$(e.target.form).find('[name=batch_shipping]').attr('checked', false);
-				//}
-				$('.shipping_options').css('display', 'block');
-			}
-		})
-	});
-});
-
-require(['jquery', 'bxslider'], function($) {
-	$(document).ready(function() {
-		var slider = $('#slider8').bxSlider({
-			controls: false,
-		});
-		$('.thumbs a').click(function(){
-			var thumbIndex = $('.thumbs a').index(this);
-			slider.goToSlide(thumbIndex);
-			$('.thumbs a').removeClass('pager-active');
-			$(this).addClass('pager-active');
-			return false;
-		});
-		$('.thumbs a:first').addClass('pager-active');
-	})
-});
+<script src="/build/js/all-2b01a261ca.js" type="text/javascript">
 </script>
+
+
 <noscript>
 <div style="width: 100%; margin-top: 20px; position:fixed !important; z-index: 9999">
 <div class="fixed_width">
 <div class="alert alert-danger">
 <h1>
-This site requires JavaScript but your browser does not support JavaScript. Please activate Javascript from security options or something like that.</h1>
+This site requires JavaScript but your browser does not support JavaScript. Please activate Javascript from security options or something like that.
+</h1>
 </div>
 </div>
 </div>
@@ -307,6 +158,10 @@ This site requires JavaScript but your browser does not support JavaScript. Plea
 </head>
 <body bgcolor="#FFFFFF" onload="myCart.updateTotal(); initEventListener();">
 <a name="top"></a>
+<a href="/en/catalog/index.php?search_type=timesale">
+<div style="width: 100%; height: 32px; background: url(http://www.reggaerecord.com/super_banner_img/timesale/h32/banner_200.jpg) repeat-x center; text-align: center">
+</div>
+</a>
 
 <div class="min_width" style="background:url(/common_img/head_bg.gif)">
 <div class="fixed_width">
@@ -456,9 +311,9 @@ Wholesale</a>
 search_form_loaded = true;
 </script>
 <div class="container" id="multi_search_inputs">
-<form name="multi_search_form" id="multi_search_form" style="margin:0px; " action="/en/catalog/search.php" method="get">
+<form name="multi_search_form" id="multi_search_form" style="margin:0px; " action="/en/catalog/index.php" method="get">
 <input type="hidden" name="search_type" value="multi">
-<input type="hidden" name="search_key" value="35027570">
+<input type="hidden" name="search_key" value="92953970">
 
 <div class="row" style="margin-bottom: 1px;">
 
@@ -518,6 +373,9 @@ search_form_loaded = true;
 				</li>
 								<li>
 					<a href="#">Dennis Brown</a>
+				</li>
+								<li>
+					<a href="#">Derrick Morgan</a>
 				</li>
 								<li>
 					<a href="#">Earl Sixteen</a>
@@ -580,9 +438,6 @@ search_form_loaded = true;
 					<a href="#">Max Romeo</a>
 				</li>
 								<li>
-					<a href="#">Mighty Diamonds</a>
-				</li>
-								<li>
 					<a href="#">Morgan Heritage</a>
 				</li>
 								<li>
@@ -610,6 +465,9 @@ search_form_loaded = true;
 					<a href="#">Sugar Minott</a>
 				</li>
 								<li>
+					<a href="#">Tommy McCook</a>
+				</li>
+								<li>
 					<a href="#">Toots &amp; The Maytals</a>
 				</li>
 								<li>
@@ -617,9 +475,6 @@ search_form_loaded = true;
 				</li>
 								<li>
 					<a href="#">Yabby U</a>
-				</li>
-								<li>
-					<a href="#">Yellowman</a>
 				</li>
 							</ul>
 		</div>
@@ -640,10 +495,7 @@ search_form_loaded = true;
 			<ul class="tops dropdown-menu dropdown-menu-right">
 				<li class="text-center"><b>Top Label</b></li>
 							<li>
-					<a href="#">ACE</a>
-				</li>
-								<li>
-					<a href="#">All Tone</a>
+					<a href="#">Ace</a>
 				</li>
 								<li>
 					<a href="#">Ariwa</a>
@@ -655,9 +507,6 @@ search_form_loaded = true;
 					<a href="#">BGP</a>
 				</li>
 								<li>
-					<a href="#">Black Art</a>
-				</li>
-								<li>
 					<a href="#">Blue Note</a>
 				</li>
 								<li>
@@ -667,13 +516,13 @@ search_form_loaded = true;
 					<a href="#">Bristol Archive</a>
 				</li>
 								<li>
-					<a href="#">Channel One/Digikiller/Deeper Knowledge</a>
-				</li>
-								<li>
 					<a href="#">Clocktower</a>
 				</li>
 								<li>
 					<a href="#">Collectables</a>
+				</li>
+								<li>
+					<a href="#">Cook Records/Folkways Records</a>
 				</li>
 								<li>
 					<a href="#">Daptone Records</a>
@@ -685,13 +534,16 @@ search_form_loaded = true;
 					<a href="#">Dub Store Records</a>
 				</li>
 								<li>
-					<a href="#">Funky Delicacies</a>
+					<a href="#">Fantasy</a>
 				</li>
 								<li>
 					<a href="#">Greensleeves</a>
 				</li>
 								<li>
 					<a href="#">Honest Jons</a>
+				</li>
+								<li>
+					<a href="#">Irie Ites</a>
 				</li>
 								<li>
 					<a href="#">Iroko Records</a>
@@ -721,9 +573,6 @@ search_form_loaded = true;
 					<a href="#">Merritone/Dub Store Records</a>
 				</li>
 								<li>
-					<a href="#">Mississippi Records</a>
-				</li>
-								<li>
 					<a href="#">Moodisc</a>
 				</li>
 								<li>
@@ -731,6 +580,15 @@ search_form_loaded = true;
 				</li>
 								<li>
 					<a href="#">Norton Records</a>
+				</li>
+								<li>
+					<a href="#">Outta Sight Northern</a>
+				</li>
+								<li>
+					<a href="#">Partial</a>
+				</li>
+								<li>
+					<a href="#">Penthouse</a>
 				</li>
 								<li>
 					<a href="#">Pressure Sounds</a>
@@ -761,9 +619,6 @@ search_form_loaded = true;
 				</li>
 								<li>
 					<a href="#">Techniques</a>
-				</li>
-								<li>
-					<a href="#">Tramp</a>
 				</li>
 								<li>
 					<a href="#">Trojan</a>
@@ -897,7 +752,7 @@ search_form_loaded = true;
 					<a href="#">Hypocrite</a>
 				</li>
 								<li>
-					<a href="#">Jump Up/Kuff</a>
+					<a href="#">Joy Ride</a>
 				</li>
 								<li>
 					<a href="#">Love I Can Feel</a>
@@ -999,92 +854,138 @@ search_form_loaded = true;
 </div>
 
 <table class="header_buttons">
-<tbody><tr>
-	<td>
-			<a href="/en/help/privacy.php?command=auth"><h5 class="text_link">Log in</h5></a>
-			</td>
-	<td>
-	<a href="/en/cart"><h5><i class="fa fa-2x fa-shopping-cart text_link" style="vertical-align: middle;"></i></h5></a>
-	</td>
-	<td>
-		<div class="btn-group">
-		<a href="#" class="dropdown-toggle" data-toggle="dropdown">
-			<i class="fa fa-2x fa-bars text_link"></i>
-		</a>
-		<table class="dropdown-menu dropdown-menu-right dropdown-panels" id="header_menu">
-			<tbody><tr>
-				<td>
-					<div class="panel panel-default">
-						<div class="panel-heading">
-							Sites						</div>
-						<div class="panel-body">
-							<dl>
-								<dt><a href="http://www.reggaerecord.com">ReggaeRecord</a></dt>
-								<dd><small>World's largest class vinyl shop</small></dd>
-								<dt><a href="http://www.reggaerecord.com/download" target="_blank">ReggaeRecord Downloads</a></dt>
-								<dd><small>Digital download shop</small></dd>
-								<dt><a href="http://www.reggaecollector.com" target="_blank">ReggaeCollector</a></dt>
-								<dd><small>Largest store for vintage vinyls</small></dd>
-															</dl>
-						</div>
-					</div>
-				</td>
-				<td>
-					<div class="panel panel-default">
-						<div class="panel-heading">
-							Search						</div>
-						<div class="panel-body">
-							<a href="http://www.reggaerecord.com/en/catalog/genre_index.php">
-							Genre index							</a><br>
-							<a href="http://www.reggaerecord.com/en/ranking">
-							Ranking menu							</a><br>
-							<a href="http://www.reggaerecord.com/en/catalog/artist_index.php">
-							Artist index</a><br>
-							<a href="http://www.reggaerecord.com/en/catalog/label_index.php">
-							Label index</a><br>
-							<a href="http://www.reggaerecord.com/en/catalog/rhythm_index.php">
-							Rhythm index</a><br>
-							<a href="http://www.reggaerecord.com/en/catalog/artist_index.php">
-							Producer index</a><br>
-						</div>
-					</div>
-				</td>
-				<td>
-					<div class="panel panel-default">
-						<div class="panel-heading">
-							Help						</div>
-						<div class="panel-body">
-							<a href="https://www.reggaerecord.com/en/mypage/signup.php">
-							Sign up							</a><br>
-							<a href="http://www.reggaerecord.com/en/help/help_01.php#01">
-							First time?							</a><br>
-							<a href="http://www.reggaerecord.com/en/help/help_08.php#07">
-							Contact us							</a><br>
-							<a href="http://www.reggaerecord.com/en/help/help_05.php">
-							Shipping							</a><br>
-							<a href="http://www.reggaerecord.com/en/help/help_04.php#03">
-							Payment							</a><br>
-							<a href="http://www.reggaerecord.com/en/help/help_08.php">
-							FAQ							</a><br>
-							<a href="http://www.reggaerecord.com/en/mypage/mail_magazine.php">
-							Mail magazine options							</a><br>
-													</div>
-					</div>
-				</td>
-			</tr>
-		</tbody></table>
-		</div>
-	</td>
-</tr>
+    <tbody><tr>
+        <td>
+                    <a href="/en/help/privacy.php?command=auth"><h5 class="text_link">Log in</h5></a>
+                </td>
+        <td>
+        <a href="/en/cart"><h5><i class="fa fa-2x fa-shopping-cart text_link" style="vertical-align: middle;"></i></h5></a>
+        </td>
+        <td>
+            <div class="btn-group">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                <i class="fa fa-2x fa-bars text_link"></i>
+            </a>
+            <table class="dropdown-menu dropdown-menu-right dropdown-panels" id="header_menu">
+                <tbody><tr>
+                    <td>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                Sites
+                            </div>
+                            <div class="panel-body">
+                                <dl>
+                                    <dt><a href="http://www.reggaerecord.com">ReggaeRecord</a></dt>
+                                    <dd><small>World's largest class vinyl shop</small></dd>
+                                    <dt><a href="http://www.reggaerecord.com/download" target="_blank">ReggaeRecord Downloads</a></dt>
+                                    <dd><small>Digital download shop</small></dd>
+                                    <dt><a href="http://www.reggaecollector.com" target="_blank">ReggaeCollector</a></dt>
+                                    <dd><small>Largest store for vintage vinyls</small></dd>
+                                                                    </dl>
+                            </div>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                Search
+                            </div>
+                            <div class="panel-body">
+                                <ul>
+                                    <li>
+                                        <a href="http://www.reggaerecord.com/en/catalog/genre_index.php">
+                                            Genre index
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.reggaerecord.com/en/ranking">
+                                            Ranking menu
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.reggaerecord.com/en/catalog/artist_index.php">
+                                            Artist index
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.reggaerecord.com/en/catalog/label_index.php">
+                                            Label index
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.reggaerecord.com/en/catalog/rhythm_index.php">
+                                            Rhythm index
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.reggaerecord.com/en/catalog/artist_index.php">
+                                            Producer index
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                Help
+                            </div>
+                            <div class="panel-body">
+                                <ul>
+                                    <li>
+                                        <a href="https://www.reggaerecord.com/en/mypage/signup.php">
+                                            Sign up
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.reggaerecord.com/en/help/help_01.php#01">
+                                             First time?
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.reggaerecord.com/en/help/help_08.php#07">
+                                            Contact us
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.reggaerecord.com/en/help/help_05.php">
+                                            Shipping
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.reggaerecord.com/en/help/help_04.php#03">
+                                            Payment
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.reggaerecord.com/en/help/help_08.php">
+                                            FAQ
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.reggaerecord.com/en/mypage/mail_magazine.php">
+                                            Mail magazine options
+                                        </a>
+                                    </li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </tbody></table>
+            </div>
+        </td>
+    </tr>
 </tbody></table>
 </div>
 </div>
 
 <div id="simple_search" class="search_form min_width" style="display:block">
 <div class="fixed_width clearfix">
-<form name="multi_search_form" style="margin:0px; " action="/en/catalog/search.php" method="get">
+<form name="multi_search_form" style="margin:0px; " action="/en/catalog/index.php" method="get">
 <input type="hidden" name="search_type" value="multi">
-<input type="hidden" name="search_key" value="35027570">
+<input type="hidden" name="search_key" value="92953970">
 <input type="hidden" name="artist" value="">
 <input type="hidden" name="title" value="">
 <input type="hidden" name="label" value="">
@@ -1115,9 +1016,9 @@ function hideShim() {
 
 <div id="simple_search_inputs" class="container">
 <div class="col-xs-12">
-<form class="form-horizontal" role="search" name="simple_search_form" id="simple_search_form" action="/en/catalog/search.php" method="get">
+<form class="form-horizontal" role="search" name="simple_search_form" id="simple_search_form" action="/en/catalog/index.php" method="get">
 	<input type="hidden" name="search_type" value="fuzzy">
-	<input type="hidden" name="search_key" value="35027570">
+	<input type="hidden" name="search_key" value="92953970">
 
 	<div class="form-group">
 
@@ -1142,83 +1043,129 @@ function hideShim() {
 </div>
 
 <table class="header_buttons">
-<tbody><tr>
-	<td>
-			<a href="/en/help/privacy.php?command=auth"><h5 class="text_link">Log in</h5></a>
-			</td>
-	<td>
-	<a href="/en/cart"><h5><i class="fa fa-2x fa-shopping-cart text_link" style="vertical-align: middle;"></i></h5></a>
-	</td>
-	<td>
-		<div class="btn-group">
-		<a href="#" class="dropdown-toggle" data-toggle="dropdown">
-			<i class="fa fa-2x fa-bars text_link"></i>
-		</a>
-		<table class="dropdown-menu dropdown-menu-right dropdown-panels" id="header_menu">
-			<tbody><tr>
-				<td>
-					<div class="panel panel-default">
-						<div class="panel-heading">
-							Sites						</div>
-						<div class="panel-body">
-							<dl>
-								<dt><a href="http://www.reggaerecord.com">ReggaeRecord</a></dt>
-								<dd><small>World's largest class vinyl shop</small></dd>
-								<dt><a href="http://www.reggaerecord.com/download" target="_blank">ReggaeRecord Downloads</a></dt>
-								<dd><small>Digital download shop</small></dd>
-								<dt><a href="http://www.reggaecollector.com" target="_blank">ReggaeCollector</a></dt>
-								<dd><small>Largest store for vintage vinyls</small></dd>
-															</dl>
-						</div>
-					</div>
-				</td>
-				<td>
-					<div class="panel panel-default">
-						<div class="panel-heading">
-							Search						</div>
-						<div class="panel-body">
-							<a href="http://www.reggaerecord.com/en/catalog/genre_index.php">
-							Genre index							</a><br>
-							<a href="http://www.reggaerecord.com/en/ranking">
-							Ranking menu							</a><br>
-							<a href="http://www.reggaerecord.com/en/catalog/artist_index.php">
-							Artist index</a><br>
-							<a href="http://www.reggaerecord.com/en/catalog/label_index.php">
-							Label index</a><br>
-							<a href="http://www.reggaerecord.com/en/catalog/rhythm_index.php">
-							Rhythm index</a><br>
-							<a href="http://www.reggaerecord.com/en/catalog/artist_index.php">
-							Producer index</a><br>
-						</div>
-					</div>
-				</td>
-				<td>
-					<div class="panel panel-default">
-						<div class="panel-heading">
-							Help						</div>
-						<div class="panel-body">
-							<a href="https://www.reggaerecord.com/en/mypage/signup.php">
-							Sign up							</a><br>
-							<a href="http://www.reggaerecord.com/en/help/help_01.php#01">
-							First time?							</a><br>
-							<a href="http://www.reggaerecord.com/en/help/help_08.php#07">
-							Contact us							</a><br>
-							<a href="http://www.reggaerecord.com/en/help/help_05.php">
-							Shipping							</a><br>
-							<a href="http://www.reggaerecord.com/en/help/help_04.php#03">
-							Payment							</a><br>
-							<a href="http://www.reggaerecord.com/en/help/help_08.php">
-							FAQ							</a><br>
-							<a href="http://www.reggaerecord.com/en/mypage/mail_magazine.php">
-							Mail magazine options							</a><br>
-													</div>
-					</div>
-				</td>
-			</tr>
-		</tbody></table>
-		</div>
-	</td>
-</tr>
+    <tbody><tr>
+        <td>
+                    <a href="/en/help/privacy.php?command=auth"><h5 class="text_link">Log in</h5></a>
+                </td>
+        <td>
+        <a href="/en/cart"><h5><i class="fa fa-2x fa-shopping-cart text_link" style="vertical-align: middle;"></i></h5></a>
+        </td>
+        <td>
+            <div class="btn-group">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                <i class="fa fa-2x fa-bars text_link"></i>
+            </a>
+            <table class="dropdown-menu dropdown-menu-right dropdown-panels" id="header_menu">
+                <tbody><tr>
+                    <td>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                Sites
+                            </div>
+                            <div class="panel-body">
+                                <dl>
+                                    <dt><a href="http://www.reggaerecord.com">ReggaeRecord</a></dt>
+                                    <dd><small>World's largest class vinyl shop</small></dd>
+                                    <dt><a href="http://www.reggaerecord.com/download" target="_blank">ReggaeRecord Downloads</a></dt>
+                                    <dd><small>Digital download shop</small></dd>
+                                    <dt><a href="http://www.reggaecollector.com" target="_blank">ReggaeCollector</a></dt>
+                                    <dd><small>Largest store for vintage vinyls</small></dd>
+                                                                    </dl>
+                            </div>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                Search
+                            </div>
+                            <div class="panel-body">
+                                <ul>
+                                    <li>
+                                        <a href="http://www.reggaerecord.com/en/catalog/genre_index.php">
+                                            Genre index
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.reggaerecord.com/en/ranking">
+                                            Ranking menu
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.reggaerecord.com/en/catalog/artist_index.php">
+                                            Artist index
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.reggaerecord.com/en/catalog/label_index.php">
+                                            Label index
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.reggaerecord.com/en/catalog/rhythm_index.php">
+                                            Rhythm index
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.reggaerecord.com/en/catalog/artist_index.php">
+                                            Producer index
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                Help
+                            </div>
+                            <div class="panel-body">
+                                <ul>
+                                    <li>
+                                        <a href="https://www.reggaerecord.com/en/mypage/signup.php">
+                                            Sign up
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.reggaerecord.com/en/help/help_01.php#01">
+                                             First time?
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.reggaerecord.com/en/help/help_08.php#07">
+                                            Contact us
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.reggaerecord.com/en/help/help_05.php">
+                                            Shipping
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.reggaerecord.com/en/help/help_04.php#03">
+                                            Payment
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.reggaerecord.com/en/help/help_08.php">
+                                            FAQ
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://www.reggaerecord.com/en/mypage/mail_magazine.php">
+                                            Mail magazine options
+                                        </a>
+                                    </li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </tbody></table>
+            </div>
+        </td>
+    </tr>
 </tbody></table>
 
 <iframe scrolling="no" frameborder="0" id="shim" style="z-index:999; position:absolute; display:none; "></iframe>
@@ -1735,9 +1682,15 @@ are accepted</b></div></td>
 </tbody></table>
 
 <table class="rr-tbl-sns" style="margin-left: -4px">
+
+
 <tbody><tr>
 <td>
-<div class="addthis_inline_share_toolbox"></div>
+<div class="share_buttons">
+    <a href="//www.facebook.com/ReggaeRecord/" target="_blank"><span class="icon facebook"></span></a>
+    <a href="//twitter.com/reggaerecord/" target="_blank"><span class="icon twitter"></span></a>
+    <a href="//www.instagram.com/dubstorerecords/" target="_blank"><span class="icon instagram"></span></a>
+</div>
 </td>
 </tr>
 </tbody></table>
@@ -1747,13 +1700,17 @@ are accepted</b></div></td>
 <div class="row">
 
 
+
 <div class="col-lg-4">
 
 <a class="link" style="padding-left: 0" href="http://www.reggaerecord.com/en/help/privacy.php">
-Privacy Policy</a>
+Privacy Policy
+</a>
+
 
 <a class="link" href="http://www.reggaerecord.com/en/help/privacy.php#04">
-Notation based on the Specified Commercial Transaction Act</a>
+Notation based on the Specified Commercial Transaction Act
+</a>
 
 </div>
 
@@ -1765,7 +1722,8 @@ Copyright (C) DUB STORE SOUND INC.　ALL RIGHTS RESERVED.<br>
 
 <div class="row">
 <div class="col-lg-12 text-right">
-&nbsp;</div>
+&nbsp;
+</div>
 
 </div>
 
