@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reggaerecord.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106191636id_/http%3A//www.reggaerecord.com/en/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reggaerecord.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512211138id_/http%3A//www.reggaerecord.com/en/help/privacy.php) for the most accurate reproduction.*
 
 # Help - ReggaeRecord.com
 
