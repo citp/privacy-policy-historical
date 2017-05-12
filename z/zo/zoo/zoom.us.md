@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoom.us privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029190212id_/https%3A//zoom.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoom.us privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512071143id_/https%3A//zoom.us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Zoom
 
@@ -49,7 +49,7 @@ We will use your Personal Information only in accordance with our Privacy Policy
 
 Referrals
 
-If you choose to use our referral service to tell a friend about our website, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the website. Zoom stores [or does not store] this information for the sole purpose of sending this one-time email [and tracking the success of our referral program]. Your friend may contact us at unsubscribe@zoom.us to request that we remove this information from our database.
+If you choose to use our referral service to tell a friend about our website, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the website. Zoom may store this information for the sole purpose of sending this one-time email [and tracking the success of our referral program]. Your friend may contact us at unsubscribe@zoom.us to request that we remove this information from our database.
 
 Accessing and updating your Personal Information
 
@@ -73,7 +73,7 @@ We partner with a third party to either display advertising on our website or to
 
 Passive Collection
 
-As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site. 
+As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site.
 
 In addition, by using some of our Products, anonymous network information may be transmitted back to us such as Product usage information. This information is transmitted back to us so we can determine how users are interacting with our Products, to assist us with improving our Products, and to correct any problems that may occur.
 
@@ -172,3 +172,5 @@ San Jose, CA 95113
 Policy updates
 
 Zoom may amend this privacy statement from time to time, and at any time. We will post a notice on this website whenever this privacy statement is materially changed. Your continued use of the Zoom website or Products after any change will signify and confirm your assent to those changes.
+
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=ee8dbe76-4b53-4327-8c85-bffbd7b20c9b "TRUSTe Privacy Certification")
