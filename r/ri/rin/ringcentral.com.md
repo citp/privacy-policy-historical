@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ringcentral.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213054935id_/https%3A//www.ringcentral.com/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringcentral.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512231754id_/https%3A//www.ringcentral.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # RingCentral Service Privacy Policy
 
