@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inateck.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202083017id_/http%3A//www.inateck.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inateck.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512112940id_/http%3A//www.inateck.com/policy) for the most accurate reproduction.*
 
 # Inateck - Privacy Policy
 
