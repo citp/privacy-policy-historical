@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cvp.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120214222id_/http%3A//cvp.com/index.php%3Ft%3DhelpCentre/page/22/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvp.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512174436id_/http%3A//cvp.com/index.php%3Ft%3DhelpCentre/page/22/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # CVP website security and privacy policy
 
