@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cigabuy.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121075917id_/http%3A//help.cigabuy.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cigabuy.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512043031id_/http%3A//help.cigabuy.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - CigaBuy
 
