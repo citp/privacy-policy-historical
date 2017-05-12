@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chimaonline.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017000224id_/http%3A//www.lego.com/en-us/legal/legal-notice/privacy-policy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chimaonline.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512041509id_/https%3A//www.lego.com/en-us/legal/legal-notice/privacy-policy-full) for the most accurate reproduction.*
 
 # LEGO.com Legal - Legal Notice - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Last Modified: June 16th, 2016
 
-The LEGO Group (”LEGO”, ”we”, ”us”, ”our”) considers children and children’s play to be the cornerstone of everything we do. We take this responsibility seriously and always set ambitions high, as only the best is good enough for the builders of tomorrow. This privacy policy covers the collection, use and disclosure of information by the LEGO Group with LEGO System A/S as the main datacontroller. The LEGO Group is defined as [http://www.lego.com/aboutus/lego-group](http://www.lego.com/en-us/aboutus/lego-group). ** **
+The LEGO Group (”LEGO”, ”we”, ”us”, ”our”) considers children and children’s play to be the cornerstone of everything we do. We take this responsibility seriously and always set ambitions high, as only the best is good enough for the builders of tomorrow. This privacy policy covers the collection, use and disclosure of information by the LEGO Group with LEGO System A/S as the main datacontroller. The LEGO Group is defined as [http://www.lego.com/aboutus/lego-group](https://www.lego.com/en-us/aboutus/lego-group). ** **
 
 Our privacy policy is designed to provide transparency into our privacy practices and principles in a format that users can navigate, read and understand. We are dedicated to treating your personal information with care, trust and respect.
 
@@ -16,7 +16,7 @@ In addition, the LEGO Group has joined a digital child safety program on protect
 
 We hope we have earned your trust and hope you will have a playful experience with the LEGO Group.
 
-LEGO has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking on the TRUSTe seal. The TRUSTe certification covers information collected on [validated](http://www.lego.com/en-us) LEGO channels, apps and sites. If you have questions or concerns regarding our privacy policy or practices, please contact us at [privacy.officer@lego.com](mailto:privacy.officer@lego.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request#xlink). 
+LEGO has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking on the TRUSTe seal. The TRUSTe certification covers information collected on [validated](https://www.lego.com/en-us) LEGO channels, apps and sites. If you have questions or concerns regarding our privacy policy or practices, please contact us at [privacy.officer@lego.com](mailto:privacy.officer@lego.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request#xlink). 
 
 This privacy policy describes the processing of personal information by the LEGO Group.
 
@@ -76,13 +76,13 @@ LEGO Shop [http://shop.lego.com/](http://shop.lego.com/#shopxlink)
 
 LEGO VIP [http://shop.lego.com/VIP](http://shop.lego.com/VIP#shopxlink)
 
-LEGO CLUB [http://www.lego.com/club](http://www.lego.com/en-us/club)
+LEGO CLUB [http://www.lego.com/club](https://www.lego.com/en-us/club)
 
-LEGO IDEAS [http://www.lego.com/ideas](http://www.lego.com/en-us/ideas)
+LEGO IDEAS [http://www.lego.com/ideas](https://www.lego.com/en-us/ideas)
 
 LEGO REBRICK [http://rebrick.lego.com/](http://rebrick.lego.com/#noUrlRewrite)
 
-LEGO DUPLO [http://www.lego.com/duplo](http://www.lego.com/en-us/duplo)
+LEGO DUPLO [http://www.lego.com/duplo](https://www.lego.com/en-us/duplo)
 
 LEGO CUSTOMER SERVICE [http://service.lego.com/](http://service.lego.com/en-us)
 
@@ -120,11 +120,11 @@ However, in general we typically process the following categories of personal in
 
 • We process the personal information you provide to us when you request products, services or information from us, register with us, participate in public forums or other activities on our sites and applications, respond to customer surveys, or otherwise interact with us. Please keep in mind that when you provide personal information to us on a third-party site or platform (for example, via our applications or social media channels), the personal information you provide may be separately processed by the third-party site or platform owner. The personal information we process is covered by this privacy policy whereas the personal information the third-party site or platform process is subject to the third-party site or platform’s privacy practices. Privacy choices you have made on the third-party site or platform will not apply to our use of the personal information which we have processed directly through our sites, channels or applications.
 
-• We process personal information through technology, such as cookies, flash cookies and web beacons, including when you visit our sites, channels or applications on third-party sites or platforms. Please visit our Cookie Policy for further information, including Do Not Track and how to disable cookies [http://www.lego.com/legal/cookieinfo](http://www.lego.com/en-us/legal/cookieinfo "http://www.webqa.lego.com/en-US/legal/cookieinfo").
+• We process personal information through technology, such as cookies, flash cookies and web beacons, including when you visit our sites, channels or applications on third-party sites or platforms. Please visit our Cookie Policy for further information, including Do Not Track and how to disable cookies [http://www.lego.com/legal/cookieinfo](https://www.lego.com/en-us/legal/cookieinfo "http://www.webqa.lego.com/en-US/legal/cookieinfo").
 
 • We acquire information from other trusted sources to update or supplement the personal information you provided or which we processed automatically. 
 
-**4\. How we use your information within the LEGO Group companies** The LEGO Group is based in Billund, Denmark, but we have subsidiaries and branches throughout the world. You can learn more about the LEGO Group and its subsidiaries here [http://www.lego.com/aboutus/lego-group/locations](http://www.lego.com/en-us/aboutus/lego-group/locations). The primary data controller will be LEGO System A/S, Aastvej 1, 7190 Billund, Denmark. Other subsidiaries of the LEGO Group may have access to your information where they perform services on behalf of the data controller (as a data processor) and, unless prohibited under applicable law, for use on their own behalf (as a data controller) for the following purposes:
+**4\. How we use your information within the LEGO Group companies** The LEGO Group is based in Billund, Denmark, but we have subsidiaries and branches throughout the world. You can learn more about the LEGO Group and its subsidiaries here [http://www.lego.com/aboutus/lego-group/locations](https://www.lego.com/en-us/aboutus/lego-group/locations). The primary data controller will be LEGO System A/S, Aastvej 1, 7190 Billund, Denmark. Other subsidiaries of the LEGO Group may have access to your information where they perform services on behalf of the data controller (as a data processor) and, unless prohibited under applicable law, for use on their own behalf (as a data controller) for the following purposes:
 
 • Provide you with the products and services you request.
 
@@ -276,7 +276,7 @@ When children interact with us, certain information may automatically be collect
 
 In the event we collect (or allow others to collect) such information from children on our sites and applications for other purposes, we will notify parents and obtain consent prior to such collection
 
-The list of third-party operators who collect persistent identifiers on our sites and applications may be found here – Cookie Policy [http://www.lego.com/legal/cookieinfo](http://www.lego.com/en-us/legal/cookieinfo "http://www.webqa.lego.com/en-US/legal/cookieinfo")
+The list of third-party operators who collect persistent identifiers on our sites and applications may be found here – Cookie Policy [http://www.lego.com/legal/cookieinfo](https://www.lego.com/en-us/legal/cookieinfo "http://www.webqa.lego.com/en-US/legal/cookieinfo")
 
 B. When information collected from children is made available to others
 
