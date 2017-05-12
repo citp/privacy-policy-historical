@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lingq.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224093748id_/https%3A//www.lingq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lingq.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512221320id_/https%3A//www.lingq.com/privacy) for the most accurate reproduction.*
 
 # LingQ Privacy Policy
 
