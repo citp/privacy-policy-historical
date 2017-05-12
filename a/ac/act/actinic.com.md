@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the actinic.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111223154id_/http%3A//www.actinic.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actinic.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512130717id_/http%3A//www.actinic.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Actinic
 
-Privacy Policy  
 ---  
 |   
 ---  
-|  **OXATIS SA** Capital: 1 147 568 €  
+|  **OXATIS SA** Capital: 1 405 318 €  
 Head Office:  
 Immeuble Acropolis - 171 bis chemin de la Madrague Ville- 13002 Marseille - France  
 Address:   
