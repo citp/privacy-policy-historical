@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuzzel.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232926id_/http%3A//nuzzel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuzzel.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512210015id_/http%3A//nuzzel.com/privacy) for the most accurate reproduction.*
 
 # Nuzzel Privacy Policy
 
