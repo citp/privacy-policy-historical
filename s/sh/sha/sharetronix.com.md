@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharetronix.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219131305id_/http%3A//sharetronix.com/static/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharetronix.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512141132id_/http%3A//sharetronix.com/static/privacy.php) for the most accurate reproduction.*
 
 # Sharetronix
 
