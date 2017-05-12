@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silentjourney.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115020152id_/http%3A//silentjourney.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silentjourney.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512160056id_/http%3A//www.silentjourney.com/privacypolicy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Silent Journey
 
