@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logojoy.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204170431id_/http%3A//logojoy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logojoy.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512022906id_/https%3A//www.logojoy.com/privacy.php) for the most accurate reproduction.*
 
 # Logojoy
 
