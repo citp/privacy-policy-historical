@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingeye.com.au privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107093120id_/http%3A//www.marketingeye.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingeye.com.au privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512234842id_/http%3A//www.marketingeye.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Marketing Eye
 
