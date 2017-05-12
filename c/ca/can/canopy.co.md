@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canopy.co privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117185500id_/https%3A//canopy.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canopy.co privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512200930id_/https%3A//canopy.co/privacy) for the most accurate reproduction.*
 
 # Privacy - Canopy
 
