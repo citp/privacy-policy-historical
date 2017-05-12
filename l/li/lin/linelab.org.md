@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the linelab.org privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201233947id_/http%3A//www.linelabox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linelab.org privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512175236id_/http%3A//www.linelabox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ##  [ Privacy Policy](http://www.linelabox.com/privacy-policy)
 
 Details
-     Hits: 7828 
+     Hits: 9175 
 
 ### 1\. Introduction
 
