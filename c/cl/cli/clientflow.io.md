@@ -1,33 +1,85 @@
-> *The following text is extracted and transformed from the clientflow.io privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317040752id_/https%3A//clientflow.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clientflow.io privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512032719id_/https%3A//clientflow.io/privacy) for the most accurate reproduction.*
 
-# ClientFlow - Privacy Policy
+# Privacy Policy - ClientFlow
 
-Last revised on August 7, 2014
+_Last updated: March 12, 2016_
 
-### Website Visitors
+ProjectPulse, Inc. ("us", "we", or "our") operates the [ClientFlow](http://clientflow.io/) website (the "Service").
 
-Like most website operators, Clientflow collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Clientflows’s purpose in collecting non-personally identifying information is to better understand how Clientflows’s visitors use its website. From time to time, Clientflow may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. Clientflow also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on our blog. Clientflow only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog where the comment was left.
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-### Gathering of Personally-Identifying Information
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-Certain visitors to Clientflow’s websites choose to interact with Clientflow in ways that require Clientflow to gather personally-identifying information. The amount and type of information that Clientflow gathers depends on the nature of the interaction. For example, we ask visitors who sign up on Clientflow.io to provide a username and email address. Those who engage in transactions with Clientflow – by purchasing a monthly subscription to Clientflow, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Clientflow collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Clientflow. Clientflow does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Use, accessible at <http://clientflow.io/terms>.
 
-### Aggregated Statistics
+### Information Collection And Use
 
-Clientflow may collect statistics about the behavior of visitors to its website. For instance, Clientflow may monitor the most popular parts of http://clientflow.io. Clientflow may display this information publicly or provide it to others. However, Clientflow does not disclose personally-identifying information other than as described below.
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, postal address ("Personal Information"). We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/enquiries, servicing your purchase orders, and improving our services.
 
-### Protection of Certain Personally-Identifying Information
+### Log Data
 
-Clientflow discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Clientflow’s behalf or to provide services available at Clientflow’s website, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Clientflow’s websites, you consent to the transfer of such information to them. Clientflow will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Clientflow discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Clientflow believes in good faith that disclosure is reasonably necessary to protect the property or rights of Clientflow, third parties or the public at large. If you are a registered user of the Clientflow website and have supplied your email address, Clientflow may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Clientflow. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Clientflow takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. 
+We collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
 ### Cookies
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Clientflow uses cookies to help Clientflow identify and track visitors, their usage of Clientflow website, and their website access preferences. Clientflow visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Clientflow’s websites, with the drawback that certain features of Clientflow’s websites may not function properly without the aid of cookies.
+Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.
 
-### Privacy Policy Changes
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
 
-Although most changes are likely to be minor, Clientflow may change its Privacy Policy from time to time, and in Clientflow’s sole discretion. Clientflow encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
 
-### Questions
+### Do Not Track Disclosure
 
-If you have a question about this Privacy Policy, please contact us at support@clientflow.io
+We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked. You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+### Service Providers
+
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
+
+### Communications
+
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+
+### Compliance With Laws
+
+We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
+
+### Business Transaction
+
+If ProjectPulse, Inc. is involved in a merger, acquisition or asset sale, your Personal Information may be transferred as a business asset. In such cases, we will provide notice before your Personal Information is transferred and/or becomes subject to a different Privacy Policy.
+
+### Security
+
+The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.
+
+However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
+
+### International Transfer
+
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+### Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+### Changes To This Privacy Policy
+
+This Privacy Policy is effective as of May 20th, 2015 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+
+### Contact Us
+
+If you have any questions about this Privacy Policy, please [contact us](mailto:hello@clientflow.io).
