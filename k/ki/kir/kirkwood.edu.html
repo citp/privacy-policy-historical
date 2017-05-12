@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the kirkwood.edu privacy policy that was archived on 2016-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120081112id_/http%3A//www.kirkwood.edu/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kirkwood.edu privacy policy that was archived on 2017-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170512235107id_/http%3A//kirkwood.edu/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/transitional.dtd"><html lang="EN"><!--- Template 16 ---><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/transitional.dtd"><html lang="EN"><!--- Template 16 New 2017 header ---><head>
 <title>Kirkwood Community College - Technology Services</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <!-- Department 1450 -->
@@ -10,7 +10,7 @@
 <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1">
 
 
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=238023113034802&amp;version=v2.3"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.kirkwood.edu/includes/jquery.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.kirkwood.edu/includes/jquery.js"></script>
 
 <!-- required plugins -->
 <script type="text/javascript" src="http://www.kirkwood.edu/includes/date.js"></script>
@@ -38,6 +38,200 @@
 <!-- Style Sheet for Print -->
 <link rel="stylesheet" type="text/css" href="http://www.kirkwood.edu/css/print.css" media="print">
 
+<!-- includes for phototour cross site -->
+
+<script type="text/javascript" src="/includes/jquery.DOMWindow.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+ $('.phototour').openDOMWindow({
+  windowSourceURL:URL,
+  height:657, 
+  width:600, 
+  modal:0,
+  draggable:0,
+  positionType:'centered', 
+  positionTop:0, 
+  positionLeft:0, 
+  eventType:'click', 
+  loader:0, 
+  loaderImagePath:'../gallery/waiting.gif', 
+  loaderHeight:600, 
+  loaderWidth:480, 
+  overlayOpacity:60,
+  windowSource:'ajax', 
+  windowHTTPType:'get' ,
+  windowPaddingTop:0,
+  windowPaddingRight:0,   
+  windowPaddingBottom:0,
+  windowPaddingLeft:0,  
+  fixedWindowY:0,
+  fadeSpeed:1000,
+  borderColor:'#666666',
+  borderSize:'0'
+ }); 
+ $('.page_nav_links a[href*="widget.php"]').openDOMWindow({
+		windowSourceURL:URL,
+		height:657, 
+		width:600, 
+		modal:0,
+		draggable:0,
+		positionType:'centered', 
+		positionTop:0, 
+		positionLeft:0, 
+		eventType:'click', 
+		loader:0, 
+		loaderImagePath:'../gallery/waiting.gif', 
+		loaderHeight:600, 
+		loaderWidth:480, 
+		overlayOpacity:60,
+		windowSource:'ajax', 
+		windowHTTPType:'get' ,
+		windowPaddingTop:0,
+		windowPaddingRight:0,			
+		windowPaddingBottom:0,
+		windowPaddingLeft:0,		
+		fixedWindowY:0,
+		fadeSpeed:1000,
+		borderColor:'#666666',
+		borderSize:'0'
+	});	
+});
+</script>
+
+
+
+<style>
+	#hd{
+		width:768px;
+		margin-left:auto;
+		margin-right:auto;
+		padding-top:20px;
+		height:85px;
+	}
+	
+	#logo{
+		position:relative;
+		float:left;
+		left:-2px;
+		padding:0 0 0 0;
+		margin:0 0 0 0;
+		width:189px;
+	}
+
+	#top-right-wrapper{
+		position:relative;
+		float:right;
+		width:270px;
+	}
+	#top-right-nav{
+		text-align:right;
+		display:inline;
+		position:relative;
+		float:right;
+		width:189px;
+		padding:0 0 0 0;
+		margin:6.4px 0px 10px 0;
+	}
+	
+	#top-right-nav ul{
+		padding:0px;
+		margin:0px;
+	}
+
+	#top-right-search{
+		cleasdfar:both;
+	}
+	#top-spacer{
+		width:19em;
+		display:inline;
+		float:left;
+		position:relative;
+	}
+	#top-right-nav li{
+		display:inline;
+		list-style:none;
+		text-align:right;
+		width:100%;
+		padding-left:1px;
+		font-size:11.84px;
+		color:#333;
+	}
+	
+	.search-input-wrapper{
+		position:relative;
+		float:left;
+		width:96px;
+		height:21;
+	}
+	
+	.search-input{
+		border:0em;
+		border-width:0em;
+		color:#666;
+		padding-top:2px;
+		vertical-align:center;
+		padding-left:2.66667px;
+		height:16px;
+		outline:none; 
+	}
+
+	.search-go{
+		position:relative;
+		float:right;
+		background-color: #E0AA0F;
+		color:white;
+		height:21px;
+		width:24px;
+	}
+	#search-button{
+		position:relative;
+		float:left;
+		font-size:11.2px;
+		font-weight:bold;
+		padding:2.24px 0 0 3.92px;
+		cursor:pointer;
+	}
+
+	#search-wrapper{
+		position:relative;
+		float:right;
+		border:1px solid #666;
+		width:155.188px;
+		height:21px;
+	}
+	#top-nav{
+		position:relative;
+		clear:both;
+		padding-top:20px;
+		padding-bottom:6px;
+		width:770px;
+		text-align:center;
+	}
+	
+	#top-nav ul{
+		padding:0px;
+		margin:0px;
+	}
+	
+	#top-nav li {
+		display:inline;
+		list-style:none;
+		text-align:center;
+		padding-left:11px;
+		padding-right:11px;
+		width:100%;
+		font-size:12.8px;
+		line-height:16px;
+		color:#333;
+	}
+	.top-nav-list a:hover, .top-nav-list a:visited, .top-nav-list a:link, .top-nav-list a:focus {
+		text-decoration:none;
+		color:#333;
+	}
+</style>
+
+
+
 
 
 
@@ -57,91 +251,53 @@
 </head>
 <body>
 
+<div id="hd">
+	<div id="logo">
+		<a href="http://www.kirkwood.edu"><img src="http://www.kirkwood.edu/images/kirkwood_nameplate_banner2.jpg" alt="Kirkwood Community College" border="0"></a></div>
+	<div id="top-spacer">&nbsp; </div>
+	<div id="top-right-wrapper">
+		<div id="top-right-nav">
+			<ul>
+			<li class="top-nav-list"><a href="https://eaglenet.kirkwood.edu">EagleNet</a></li>
+			<li class="top-nav-list">•</li>
+			<li class="top-nav-list"><a href="/talon">Talon</a></li>
+			<li class="top-nav-list">•</li>
+			<li class="top-nav-list"><a href="/email">Student Email</a></li>
+			</ul>
+		</div>
+		<div id="top-right-search">
+			<div id="search-wrapper">
+				<form action="https://www.kirkwood.edu/search/" method="get" id="search" name="search">
+					<div class="search-input-wrapper">
+						<input type="text" id="q" name="q" size="17" class="search-input">
+					</div>
+					<div class="search-go" id="search-go">
+						<div id="search-button">GO</div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+	<div id="top-nav">
+		<ul>
+		<li class="top-nav-list"><a href="/apply">APPLY NOW</a></li>
+		<li class="top-nav-list"><a href="/admissions">Admissions</a></li>
+		<li class="top-nav-list"><a href="/students">Current Students</a></li>
+		<li class="top-nav-list"><a href="/academics">Academics</a></li>
+		<li class="top-nav-list"><a href="/ce">Continuing Education</a></li>
+		<li class="top-nav-list"><a href="/foundation">Alumni &amp; Giving</a></li>
+		<li class="top-nav-list"><a href="/aboutus">About Us</a></li>
+		</ul>
+	</div>
+	<div class="global_breadcrumbs"><a href="http://www.kirkwood.edu">Home</a>&nbsp; &gt; &nbsp;<a href="/technologyservices">Technology Services</a>&nbsp; &gt; &nbsp;<a href="/privacypolicy">Privacy Policy</a></div>        
+</div>
 
-<!-- Google Like Button -->
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-
-<!-- Twitter Like Button -->
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-<!-- Facebook Like Button -->
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=238023113034802&version=v2.3";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+  
 
 
-
-
-  <table class="global_fill_height" cellpadding="0" cellspacing="0" align="center">
+ <table class="global_fill_height" cellpadding="0" cellspacing="0" align="center">
   <tbody><tr><td>
   <div class="global_page_box">
-
-
-    <div class="global_header_box">
-
-<div id="socialmedia-wrapper">
-      <div style="float:left;padding-right:3px;padding-left:3px;"><a href="https://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a></div>
-      <div style="float:left;padding-right:3px;padding-left:3px;"><g:plusone size="medium" annotation="none"></g:plusone></div>
-     <div class="fb-like" data-share="false" data-show-faces="false" data-action="like" data-layout="button_count" data-href="http://www.kirkwood.edu/privacypolicy" style="border-bottom: medium none; border-left: medium none; padding-left: 3px; width: 150px; padding-right: 3px; float: left; height: 21px; overflow: hidden; border-top: medium none; border-right: medium none">&nbsp;</div>
-</div>
-
-<div id="search-wrapper">
-              <form action="https://www.kirkwood.edu/search/" method="get" id="search" name="search">
-                                                        <div class="search-input-wrapper">
-                                                                <input type="text" id="q" name="q" size="17" class="search-input">
-                                                                </div>
-                                                                        <div class="search-go" id="search-go">
-                                                                        <div id="search-button">GO</div>
-                                                                        </div>
-                                                        </form>
-
-</div>
-
-       <a href="http://www.kirkwood.edu" title="Link to Kirkwood Community College"><img src="http://www.kirkwood.edu/images/bannerseal1.jpg" alt="Link to Kirkwood Community College" width="768" height="146" border="0"></a>
-    </div>
-  <!--
- <div class="global_navigation_bar">
-  <ul>
-    <li><a href="http://www.kirkwood.edu/nextsteps">Getting Started</a></li>
-    <li>&#8226;</li>
-    <li><a href="http://www.kirkwood.edu/admissions">Admissions</a></li>
-    <li>&#8226;</li>
-    <li><a href="http://www.kirkwood.edu/students">Current Students</a></li>
-    <li>&#8226;</li>
-    <li><a href="http://www.kirkwood.edu/information">Information</a></li>
-  </ul>
-  </div> -->
-
-  <div class="global_navigation_bar2">
- <li><a href="http://www.kirkwood.edu/apply">APPLY NOW</a></li>
-    <li>•</li>
- <li><a href="http://www.kirkwood.edu/admissions">Admissions</a></li>
-    <li>•</li>
-   <li><a href="http://www.kirkwood.edu/students">Current Students</a></li>
-     <li>•</li>
-   <li><a href="http://www.kirkwood.edu/academics">Academics</a></li>
-     <li>•</li>
-    <li><a href="http://www.kirkwood.edu/ce">Continuing Education</a></li>
-     <li>•</li>
-    <li><a href="http://www.kirkwood.edu/foundation">Alumni &amp; Giving</a></li>
-     <li>•</li>
-    <li><a href="http://www.kirkwood.edu/aboutus">About Us</a></li>
-
-  </div>  
-
-  <div class="global_breadcrumbs"><a href="http://www.kirkwood.edu">Home</a>&nbsp; &gt; &nbsp;<a href="/technologyservices">Technology Services</a>&nbsp; &gt; &nbsp;<a href="/privacypolicy">Privacy Policy</a></div>
-
 
   <div class="page_account_links">
     <!--display top bar account links-->
@@ -367,17 +523,25 @@ If you have any questions or comments about our stance and approach to Privacy, 
 	</li>
 	<li>
 	<div id="footer_icons">
-		<a href="http://www.facebook.com/kirkwoodcommunitycollege" target="_blank"><img alt="" src="/images/favicon-facebook.png"></a> 
-		<a href="http://twitter.com/kirkwoodcc" target="_blank"><img src="/images/favicon-twitter.jpg"> </a> 
-		<a href="http://www.instagram.com/kirkwoodlife" target="_blank"><img alt="" src="/images/favicon-instagram.png"></a> 
-		<a href="http://www.youtube.com/kirkwoodcommcollege" target="_blank"><img src="/images/favicon-youtube.png"></a> 
-		<a href="http://pinterest.com/kirkwoodcollege/" target="_blank"><img src="/images/favicon_pinterest.jpg"></a> 
-		<a href="http://www.linkedin.com/company/kirkwood-community-college" target="_blank"><img src="/images/favicon-linkedin.png"></a> 
-		<a href="http://www.kirkwood.edu/itunes" target="_blank"><img alt="" src="/images/favicon_itunes.jpg"></a>
+		
+<a class="rollover16" href="http://www.facebook.com/kirkwoodcommunitycollege" target="_blank" style="background-image:url('/images/homepage/icons/facebook.png');">Facebook</a> 
+		
+<a class="rollover16" href="http://twitter.com/kirkwoodcc" target="_blank" style="background-image:url('/images/homepage/icons/twitter.png');">Twitter</a> 
+		
+<a class="rollover16" href="http://www.instagram.com/kirkwoodlife" target="_blank" style="background-image:url('/images/homepage/icons/instagram.png');">Instagram</a> 
+		
+<a class="rollover16" href="http://www.youtube.com/kirkwoodcommcollege" target="_blank" style="background-image:url('/images/homepage/icons/youtube.png');">Youtube</a> 
+
+<a class="rollover16" href="http://pinterest.com/kirkwoodcollege/" target="_blank" style="background-image:url('/images/homepage/icons/pinterest.png');">Pinterest</a> 
+		 
+<a class="rollover16" href="http://www.linkedin.com/company/kirkwood-community-college" target="_blank" style="background-image:url('/images/homepage/icons/linkedin.png');">linkedin</a> 
+
+<a class="rollover16" href="http://www.kirkwood.edu/itunes" target="_blank" style="background-image:url('/images/homepage/icons/itunesu.png');">iTunesU</a> 
 	</div>
 	</li>
-	<li>
-		<a href="http://www.kirkwood.edu/directory"><img alt="call us" src="/images/callus1.png"></a>
+	<li>	
+<a href="http://www.kirkwood.edu/directory">
+<img alt="call us" src="/images/callus1.png"></a>
 	</li>
 </ul><!--
 <ul class="footer_list_icon">
