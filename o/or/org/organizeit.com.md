@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organizeit.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217130539id_/http%3A//www.organizeit.com/privacy-and-security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organizeit.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513003903id_/http%3A//www.organizeit.com/privacy-and-security.asp) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -54,6 +54,8 @@ After a transaction, your credit cards numbers are not even stored on our server
 Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information about your session while on our site. 
 
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+We may, from time to time use third party cookies, however these never track personal or identifiable information. We only use these to provide anonymous, behavioral information such as click stream data. 
 
 ### Do we disclose any information to outside parties?
 
