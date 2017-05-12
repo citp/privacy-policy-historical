@@ -1,28 +1,18 @@
-> *The following text is extracted and transformed from the clarifai.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502073349id_/http%3A//www.clarifai.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarifai.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512180615id_/https%3A//www.clarifai.com/privacy) for the most accurate reproduction.*
 
-# Clarifai: Privacy Policy
+# Privacy Policy | Clarifai
 
-The Clarifai privacy team is dedicated to _earning your trust._ We are guided by three basic principles:
-
-  1. Clarity
-  2. Empowerment
-  3. Communication
-
-
-
-Clarifai complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework, as set forth by the U.S. Department of Commerce, regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Clarifai has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. 
-
-To learn more about the Safe Harbor program, and to view Clarifai's certification, please visit <http://www.export.gov/safeharbor/>
-
-For questions or complaints related to our privacy practices, please contact us at legal@clarifai.com. Unresolved privacy complaints under either Safe Harbor Framework will be referred to ICDR/AAA, who provides an independent recourse mechanism for us.
+The Privacy Shield program, which is administered by the International Trade Administration (ITA) within the U.S. Department of Commerce, enables U.S.-based organizations to join the Privacy Shield Framework in order to benefit from the adequacy determination. Clarifai has submitted an application to join the Privacy Shield Framework to the Department of Commerce (via their website at [https://www.privacyshield.gov](https://www.privacyshield.gov/)) and is committed to the principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, recourse, enforcement and liability. When a participant’s privacy policy is available online, it must include a link to the Department of Commerce’s Privacy Shield website and a link to the website or complaint submission form of the independent recourse mechanisms that is available to investigate individual complaints. Clarifai has selected the ICDR/AAA as its independent recourse mechanism: <http://info.adr.org/safeharbor>. Finally, as a last resort and in limited situations, EU individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism. For questions or complaints related to our privacy practices, please contact us at legal@clarifai.com.
 
 ## How We Collect and Use Information
 
-The purpose of this section is to describe what data we collect, how we collect it and what we use it for. Simply put, we collect data that is publicly available on the internet, from our website, our mobile app, our API and our partners to teach our machines to be faster, smarter and more accurate. Learn more
+The purpose of this section is to describe what data we collect, how we collect it and what we use it for. Simply put, we collect data that is publicly available on the internet, from our website, our mobile app, our API and our partners to teach our machines to be faster, smarter and more accurate. You are free to explore our websites without providing any information about yourself. However, if you sign up for the API, then we will require collection of Personal Data and other data as described herein. In addition, if you visit our website and allow tracking mechanisms, we may also collect IP address, broswer, geographic information, length of visit and pageviews, referral source and the like.
+
+Learn more
 
 ### Information you provide us directly:
 
-We ask for certain information such as your username, first and last name, birthdate, phone number and e-mail address when you register for a Clarifai account, or if you correspond with us. We may also retain any messages you send through the Service, and may collect information you provide in User Content you post to the Service. We use this information to operate, maintain, and provide to you the features and functionality of the Service.
+We ask for certain information such as your username, first and last name, birthdate, phone number and e-mail address when you register for a Clarifai account, or if you correspond with us. We may also retain any messages you send through the Service, and may collect information (including images, video, etc.) you provide in User Content you post, upload, share, store or otherwise provide to the Service. We use this information to operate, maintain, improve and provide to you the features and functionality of the Service.
 
 ### Information we may receive from third parties:
 
@@ -66,13 +56,15 @@ We use the information we collect or receive to communicate directly with you. W
 
 ### Use of certain service type information we collect about you:
 
-We use or may use cookies, log file, device identifiers, location data and clear gifs information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site or mobile app; (b) provide custom, personalized content and information; (c) to provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems; (f) help you efficiently access your information after you sign in; (g) to provide advertising to your browser or device, and (h) automatically update the Clarifai application on your mobile devices. 
+We use or may use cookies, log file, device identifiers, location data and clear gifs information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site or mobile app; (b) provide custom, personalized content and information; (c) to provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems; (f) help you efficiently access your information after you sign in; (g) to provide advertising to your browser or device, and (h) automatically update the Clarifai application on your mobile devices.
 
 ## Sharing your Information
 
-We seek to train machines to recognize images, but there are lots of other things that go into building our products that we can't do alone. Things like sending you email or figuring out the most popular features of our mobile app. We partner with other businesses to take care of that for us. Sometimes that means sharing your data with them. However, we value the trust you place in us so we carefully screen our partners and ensure that they can only see data that is absolutely necessary for them to get the job done. Learn more
+We seek to train machines to recognize images, but there are lots of other things that go into building our products that we can't do alone. Things like sending you email or figuring out the most popular features of our mobile app. We partner with other businesses to take care of that for us. Sometimes that means sharing your data with them. However, we value the trust you place in us so we carefully screen our partners and ensure that they can only see data that is absolutely necessary for them to get the job done.
 
-We may share your information with third-party business partners for the purpose of providing the Service to you. Those business partners will be given limited access to your information as is reasonably necessary to deliver the Service, and we will require that such third parties comply with this Privacy Policy.
+Learn more
+
+We may share your information with third-party business partners for the purpose of providing the Service to you. Those business partners will be given limited access to your information as is reasonably necessary to deliver the Service. Such third parties must agree to use any of your personal data only for the purposes for which they have been engaged by Clarifai and they must either comply with the Privacy Shield principles or another mechanism permitted by the applicable EU & Swiss data protection law(s) for transfers and processing of Personal Data (as defined thereby) or agree to provide adequate protections for your Personal Data that are no less protective than those set out in this Privacy Policy;
 
 Any information or content that you voluntarily disclose for public posting to the Service, such as User Content (including photos), becomes available to the public, as controlled by any applicable account settings. To change your account settings on the Service, please change your Profile Page. Subject to your profile and account settings, any User Content that you make public is searchable by other Users and subject to use under our Clarifai API. Any party that uses the Clarifai API is subject to the API [Terms of Use](https://web.archive.org/terms) which incorporates the terms of this Privacy Policy. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information.
 
@@ -84,7 +76,7 @@ We may share certain service type information, including information obtained th
 
 ### Ads on Clarifai:
 
-We may also share certain information such as your location, browser, viewing habits and cookie data and other data relating to your use of our Service with our business partners to deliver advertisements ("ads") that may be of interest to you. Clarifai may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser or mobile device, the ads and ad links that appear on the Service, and will automatically receive your IP address when they do so. They may also use other technologies (such as cookies, JavaScript, device identifiers, location data, and clear gifs, see above) to compile information about your browser's or device's visits and usage patterns on the Service, and to measure the effectiveness of their ads and to personalize the advertising content. Clarifai does not sell, rent, or share the information we collect directly from you or about you from third parties with these third-party ad servers or ad networks for such parties' own marketing purposes. 
+We may also share certain information such as your location, browser, viewing habits and cookie data and other data relating to your use of our Service with our business partners to deliver advertisements ("ads") that may be of interest to you. Clarifai may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser or mobile device, the ads and ad links that appear on the Service, and will automatically receive your IP address when they do so. They may also use other technologies (such as cookies, JavaScript, device identifiers, location data, and clear gifs, see above) to compile information about your browser's or device's visits and usage patterns on the Service, and to measure the effectiveness of their ads and to personalize the advertising content. Clarifai does not sell, rent, or share the information we collect directly from you or about you from third parties with these third-party ad servers or ad networks for such parties' own marketing purposes.
 
 Please note that an advertiser may ask Clarifai to show an ad to a certain audience of Users (e.g., based on demographics or other interests). In that situation, Clarifai determines the target audience and Clarifai serves the advertising to that audience and only provides anonymous aggregated data to the advertiser. If you respond to such an ad, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach. The Clarifai Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers or contact such advertisers for more information.
 
@@ -94,11 +86,13 @@ Our mobile app is rated as 4+ based on the mobile application service provider r
 
 ## Government Requests; Legal Process
 
-Sometimes, we may be required to hand over information to the government or as part of a legal process (like a lawsuit or arbitration). If we are permitted to do so, we will notify you of any such requirement before we comply. We intend to defend our customer's' rights against unlawful search and seizure. However, we also refuse to support criminal activity.
+Sometimes, we may be required to hand over information to the government or as part of a legal process (like a lawsuit or arbitration). If we are permitted to do so, we will notify you of any such requirement before we comply. We intend to defend our customer's' rights against unlawful search and seizure. However, we also refuse to support criminal activity. The Federal Trade Commission (FTC) has jurisdiction over Clarifai's compliance with the Privacy Shield.
 
 ## What Happens if We Sell the Company?
 
-We hope that if we sell the company, it will be to keep the Services running, in which case the buyer would need to assume all your information so they could seamlessly continue providing the Services to you. Sometimes things don't work out and we have to sell the company in pieces. If that happens, our intent is to provide you with notice so that you can make your choice. Learn more
+We hope that if we sell the company, it will be to keep the Services running, in which case the buyer would need to assume all your information so they could seamlessly continue providing the Services to you. Sometimes things don't work out and we have to sell the company in pieces. If that happens, our intent is to provide you with notice so that you can make your choice.
+
+Learn more
 
 ### What happens in the event of a change of control:
 
@@ -106,7 +100,9 @@ We may buy or sell/divest/transfer the company (including any shares in the comp
 
 ## Your choices
 
-We want to offer you choices when it comes to using features of our Services that may impact your privacy. These choices include things like whether to use facial recognition to help tag people you know in our mobile app and whether to use your location to tag photos with the places they were taken. Learn more
+We want to offer you choices when it comes to using features of our Services that may impact your privacy. These choices include things like whether to use facial recognition to help tag people you know in our mobile app and whether to use your location to tag photos with the places they were taken.
+
+Learn more
 
 ### You control your account information and settings:
 
@@ -120,13 +116,19 @@ Please refer to your mobile device or browser's technical information for instru
 
 Following termination or deactivation of your User account, Clarifai may retain your profile information and User Content for a commercially reasonable time for service improvement, backup, archival, or audit purposes.
 
+### Right to Access, Change or Delete Personal Data
+
+Our API users have the right to know what Personal Data about them is included in the databases and to ensure that such Personal Data is accurate and relevant for the purposes for which Clarifai collected it. You may edit your Personal Data by logging into your account profile or by contacting Clarifai by phone or email. If you require modification or erasure of your Personal Data, please submit a written request to our headquarters, attention to the Data Privacy Team. Clarifai reserves the right to require you to verify your identity and ownership of the account for any request for modification, transfer, erasure, termination or otherwise and may take a reasonable amount of time to respond to any such request.
+
 ## Security
 
-Keeping your data secure is very important to us. We use our Services too! So we have built them using industry standard security practices. For example, we encrypt information in transit (i.e. when it is sent from your mobile device or application to our servers). We have also hired people whose job includes security of our systems. Learn more
+Keeping your data secure is very important to us. We use our Services too! So we have built them using industry standard security practices. For example, we encrypt information in transit (i.e. when it is sent from your mobile device or application to our servers). We have also hired people whose job includes security of our systems.
+
+Learn more
 
 ### Storage and Processing:
 
-Your information collected through the Service may be stored and processed in the United States or any other country in which Clarifai or its subsidiaries, affiliates or service providers maintain facilities. Clarifai may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Clarifai or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy. 
+Your information collected through the Service may be stored and processed in the United States or any other country in which Clarifai or its subsidiaries, affiliates or service providers maintain facilities. Clarifai may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Clarifai or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
 
 ### Keeping your information safe:
 
@@ -140,6 +142,4 @@ In the event that any information under our control is compromised as a result o
 
 By using our Services, you consent to our collection of your information. If we change our technology or security or privacy practices, we will need to change this statement. So check back often. Let us know if you want us to send emails to you about changes to these privacy disclosures by contacting legal@clarifai.com and write "I choose to opt in to notifications about changes to the privacy disclosures." When we change the policy in a material manner we will let you know and update the 'last modified' date at the bottom of this page.
 
-Last Update: September 30, 2015
-
-What has changed since March 23, 2014? It has been a while since we updated our privacy policy. The changes here are meant to make it easier to read by reorganizing the policy and using plain language introductions. There were a few other changes, such as if you opt out of email communications, you can opt out of all of them, and we added some information about our mobile application. Most of the rest of the content of the privacy policy remains the same.
+Last Update: January 31, 2017
