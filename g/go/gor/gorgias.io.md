@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gorgias.io privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403055752id_/https%3A//gorgias.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorgias.io privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512140702id_/https%3A//gorgias.io/privacy) for the most accurate reproduction.*
 
-# Gorgias - Respond faster to your customers
+# Gorgias - Privacy Policy
 
 Will you read my e-mails or get my contacts? 
     
