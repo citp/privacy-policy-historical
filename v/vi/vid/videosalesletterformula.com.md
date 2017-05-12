@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the videosalesletterformula.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521040033id_/http%3A//digitalmarketer.com/more-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videosalesletterformula.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512044434id_/http%3A//digitalmarketer.com/more-info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Digital Marketer
+# Privacy Policy - DigitalMarketer
 
 DigitalMarketer.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
