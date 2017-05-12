@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solosplanet.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104163209id_/http%3A//solosplanet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solosplanet.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512131427id_/http%3A//solosplanet.com/privacy.php) for the most accurate reproduction.*
 
 # Solo Ads Solo Ad Advertising |SolosPlanet.com
 
