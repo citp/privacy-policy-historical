@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anime-pictures.net privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120091850id_/https%3A//anime-pictures.net/index/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anime-pictures.net privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512231716id_/https%3A//anime-pictures.net/index/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
