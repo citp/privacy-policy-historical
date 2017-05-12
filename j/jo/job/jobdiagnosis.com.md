@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobdiagnosis.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229041953id_/http%3A//www.jobdiagnosis.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobdiagnosis.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512162458id_/http%3A//www.jobdiagnosis.com/privacy-policy.php) for the most accurate reproduction.*
 
 # JobDiagnosis Privacy Policy
 
@@ -17,11 +17,7 @@ BY USING THE SERVICE, YOU REPRESENT AND WARRANT THAT YOU HAVE READ AND UNDERSTOO
 
 Each time You access the Service, the then-current version of this Privacy Policy will apply. Each time You use the Service, we recommend that you check the date of this Privacy Policy (which appears at the end) and review any changes since the last time You used the Service. For additional information, see the section concerning Updates and Changes to Privacy Policy, below. 
 
-VHMnetwork, LLC has received TRUSTE's Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. The TRUSTe program covers only information that is collected through this website, [http://www.jobdiagnosis.com.](http://www.jobdiagnosis.com./)
-
 If you have questions or concerns regarding this Statement, you should first contact us at [admin@VHMnetwork.com](mailto:admin@VHMnetwork.com)
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog).
 
 **BY REGISTERING WITH OR USING THE WEBSITE, YOU CONSENT TO THE USE AND DISCLOSURE OF YOUR PERSONAL IDENTIFIABLE INFORMATION AS DESCRIBED IN THIS PRIVACY POLICY.**
 
@@ -46,13 +42,13 @@ Job Diagnosis does not solicit or knowingly collect personally identifiable info
   
 
   * Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here:  
-<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+[www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
   
 
-  * We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+  * We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](https://preferences-mgr.truste.com/) Please note this does not opt you out of being served ads. You will continue to receive generic ads.
   
 
-  * We may use third-party advertising companies to collect data and/or serve ads when you visit our website or application. These companies may use information about your visits to this and other websites or applications in order to provide advertisements about goods and services of interest to you. Please keep in mind that your browser settings may not permit you to control the technologies utilized by these third-party companies. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit [http://parrable.com](http://parrable.com/) and search for information concerning the NAI opt-out tool.
+  * We may use third-party advertising companies to collect data and/or serve ads when you visit our website or application. These companies may use information about your visits to this and other websites or applications in order to provide advertisements about goods and services of interest to you. Please keep in mind that your browser settings may not permit you to control the technologies utilized by these third-party companies. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit [parrable.com](https://parrable.com/) and search for information concerning the NAI opt-out tool.
   
 
   * **(d) Personally Identifiable Information.**    
@@ -63,7 +59,7 @@ In order for You to use certain features of the Service, You will be asked to pr
 The Service may contain features (e.g.instant messages, electronic messaging, etc.) that permit You to upload, post, transmit, display, perform or distribute content, information or other, including Your Personally Identifiable Information. Any information that You choose to disclose by means of such features becomes public information over which Job Diagnosis is unable to exercise control. You should exercise caution when deciding to disclose Your Personally Identifiable Information by means of such features, and You agree to assume all responsibility for doing so.
   
 
-  * The purpose of Criteo Email is to find visitors of Criteo advertising clients' properties (websites, apps and newsletters) and send them personalized emails. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Email click here (link to <http://privacy.criteoemail.com/us/privacy-policy.html>)
+  * The purpose of Criteo Email is to find visitors of Criteo advertising clients' properties (websites, apps and newsletters) and send them personalized emails. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Email click here (link to [privacy.criteoemail.com/us/privacy-policy.html](https://privacy.criteoemail.com/us/privacy-policy.html))
   
 
   * You may, instead of logging in through Facebook Connect or Twitter, create login credentials using your name and e-mail address. 
