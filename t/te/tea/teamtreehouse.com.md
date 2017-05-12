@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teamtreehouse.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109224722id_/https%3A//teamtreehouse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamtreehouse.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513002102id_/https%3A//teamtreehouse.com/privacy) for the most accurate reproduction.*
 
-# Treehouse | Privacy Policy
+# Treehouse Privacy Policy
 
 We at Treehouse Island, Inc. (“Treehouse,” “Company,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the teamtreehouse.com site and our mobile applications (the “Website”) or any related services offered by the Company (the “Services”) in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. Any capitalized terms used herein without definition shall have the meaning given to them in the Treehouse Terms and Conditions which can be found at <https://teamtreehouse.com/terms>.
 
