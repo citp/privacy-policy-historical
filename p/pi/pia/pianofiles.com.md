@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pianofiles.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215043716id_/http%3A//sheeto.com/node/21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pianofiles.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513010531id_/http%3A//sheeto.com/node/21) for the most accurate reproduction.*
 
 # Privacy policy | Sheeto.com
 
