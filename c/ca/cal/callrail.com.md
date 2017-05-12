@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the callrail.com privacy policy that was archived on 2016-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160811122913id_/http%3A//www.callrail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callrail.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512171839id_/https%3A//www.callrail.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Call Tracking and Analytics
 
-## Privacy Policy
-
-This Privacy Statement (“Privacy Statement”) explains CallRail Inc. (“CallRail” or “we” “our”) privacy practices and describes the ways in which we use (and don’t use) the information we receive from you and via [callrail.com](http://www.callrail.com/), or [app.callrail.com](http://app.cailrail.com/) (the “Sites”) in order for you to utilize the Services which we define and described in this Statement.
+This Privacy Statement (“Privacy Statement”) explains CallRail Inc. (“CallRail” or “we” “our”) privacy practices and describes the ways in which we use (and don’t use) the information we receive from you and via [callrail.com](https://www.callrail.com/), [app.callrail.com](http://app.cailrail.com/), or the CallRail mobile application (the “Sites”) in order for you to utilize the Services which we define and described in this Statement.
 
 ### Your Consent
 
@@ -22,7 +20,7 @@ This Privacy Statement applies to all of CallRail’s Services. This Privacy Sta
 
 ### How To Contact Us
 
-If you have any questions about these Terms of Use or would like to learn more about us, please email us at [support@callrail.com](mailto:support@callrail.com) or write to us at CallRail Inc., 100 Peachtree Street Suite 2480 Atlanta GA, 30303 or contact us by phone at 888-907-4718.
+If you have any questions about these Terms of Use or would like to learn more about us, please email us at [support@callrail.com](mailto:support@callrail.com) or write to us at CallRail Inc., 100 Peachtree Street Suite 2700 Atlanta GA, 30303 or contact us by phone at 888-907-4718.
 
 ### Description of Our Services
 
@@ -98,7 +96,7 @@ These third-party Tracking Technologies may be set to, among other things: (a) h
 
 This collection and ad targeting takes place both on our websites and on third-party websites that participate in the ad network, such as sites that feature advertisements delivered by the ad network.
 
-This process also helps us track the effectiveness of our marketing efforts. We and third-party vendors, including Google use first-party cookies and third-party cookies together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our websites. To learn more about the cookies we use, see our [Cookie Policy](http://www.callrail.com/cookies).
+This process also helps us track the effectiveness of our marketing efforts. We and third-party vendors, including Google use first-party cookies and third-party cookies together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our websites. To learn more about the cookies we use, see our Cookie Policy.
 
 Third-party Tracking Technologies are not controlled by us, even if they use our technology to help store or collect data. Statements regarding our practices do not apply to the methods for collecting information used by these third-party advertisers and others or the use of the information that such third parties collect. We do however work with third parties to make efforts to have you provided with the information on their practices and any available opportunity to exercise choice.
 
@@ -136,4 +134,6 @@ Additionally, in the event that any one of the Sites offers a message board or a
 
 ### Visiting our Site from Outside of the United States
 
-Our application and database servers are located with BlueBox.net in Ashburn, VA. Some files, including stored audio recordings, are stored on Amazon’s cloud. For more information on Bluebox see this link: <https://www.bluebox.net/our-story/our-data-centers>. Your information may be transferred to, and maintained on, computers located outside of your state, province/territory, or country where the privacy laws may not be as protective as those where you live. If you are located outside the United States and choose to provide information to us, please be aware that we transfer Personal Information to the United States and process and store it there. As a result, this information may be subject to access requests from governments, courts, law enforcement officials and national security authorities in the United States according to its laws. Subject to the applicable laws, we will use reasonable efforts to ensure that appropriate protections are in place to maintain protections on the Personal Information. By submitting your Personal Information, you expressly consent to having your personal data transferred to, processed, and stored in the United States.
+Our application and database servers are located with Amazon Web Services (AWS). Some files, including stored audio recordings, are also stored with AWS. Your information may be transferred to, and maintained on, computers located outside of your state, province/territory, or country where the privacy laws may not be as protective as those where you live. If you are located outside the United States and choose to provide information to us, please be aware that we transfer Personal Information to the United States and process and store it there. As a result, this information may be subject to access requests from governments, courts, law enforcement officials and national security authorities in the United States according to its laws. Subject to the applicable laws, we will use reasonable efforts to ensure that appropriate protections are in place to maintain protections on the Personal Information. By submitting your Personal Information, you expressly consent to having your personal data transferred to, processed, and stored in the United States.
+
+Last Updated: May 2017
