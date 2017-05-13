@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the softwaredriverdownload.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405064929id_/http%3A//www.softwaredriverdownload.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwaredriverdownload.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513212025id_/http%3A//www.softwaredriverdownload.com/privacy_statement) for the most accurate reproduction.*
 
-# Privacy Statement | Software Driver Download™
+# Privacy Statement – Software Driver Download
 
 PLEASE READ THIS PRIVACY STATEMENT CAREFULLY. Privacy is very important to us. We also understand that privacy is very important to you. This Privacy Statement tells you how we protect and use information that we gather through this web site.
 
