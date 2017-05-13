@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vote.gov privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230021013id_/https%3A//www.usa.gov/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vote.gov privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513110205id_/https%3A//www.usa.gov/policies) for the most accurate reproduction.*
 
-# Privacy, Security, and Accessibility Policies | USAGov
+# Privacy, Security, and Accessibility Policies | USA.gov
 
 USA.gov doesn't collect personal information when you visit our web site unless you choose to provide that information.
 
@@ -40,7 +40,7 @@ Back to Top
 
 USA.gov is committed to providing access to all individuals—with or without disabilities—seeking information on USA.gov. To provide this information, we've built USA.gov to conform to [Section 508 of the Rehabilitation Act](http://www.section508.gov/section508-laws) (as amended). Section 508 requires that all individuals with disabilities (whether federal employees or members of the general public) have access to, and use of, information and data comparable to that provided to individuals without disabilities, unless an undue burden would be imposed on us.
 
-If you use assistive technology (such as a screen reader, eye tracking device, voice recognition software, etc.) and have difficulty accessing information on USA.gov, please [e-mail us](https://web.archive.org/email) and provide the URL (web address) of the material you tried to access, the problem you experienced, and your contact information. We'll contact you and attempt to provide the information you're seeking.
+If you use assistive technology (such as a screen reader, eye tracking device, voice recognition software, etc.) and have difficulty accessing information on USA.gov, please [email us](https://web.archive.org/email) and provide the URL (web address) of the material you tried to access, the problem you experienced, and your contact information. We'll contact you and attempt to provide the information you're seeking.
 
 Back to Top
 
@@ -50,16 +50,18 @@ USA.gov links to many websites created and maintained by other public and/or pri
 
 ### Social Media Sites
 
-USA.gov manages a presence on social media sites such as [Facebook](https://www.facebook.com/USAgov), [Twitter](https://twitter.com/USAgov), [YouTube](https://www.youtube.com/usagov) and others to share government information, and engage with the public. We do not collect any personally identifiable information through those sites, and we do not use personal information made available by the third-party sites.
+USA.gov manages a presence on social media sites such as [Facebook](https://www.facebook.com/USAgov), [Twitter](https://twitter.com/USAgov), [YouTube](https://www.youtube.com/usagov), [Snapchat](https://www.snapchat.com/add/usagov), and others to share government information, and engage with the public. We do not collect any personally identifiable information through those sites, and we do not use personal information made available by the third-party sites.
 
 Back to Top
 
 ## If You Send Us Personal Information
 
-We do not collect personal information for any purpose other than to respond to your request. The only personal information that we collect is what you decide to give us by [ordering publications](http://publications.usa.gov/), [sending us an e-mail](https://web.archive.org/email), or [subscribing to our e-mail subscription services](https://public.govdelivery.com/accounts/USAGOV/subscriber/new). If you choose to provide us with personal information — like filling out a [Contact Us form](https://web.archive.org/email), with an e-mail address and ZIP code, and submitting it to us through the website — we use that information to respond to your message, and to help get you the information you requested. Similarly, if you order a publication from us, we will collect your name, and mailing address to fulfill your order.
+We do not collect personal information for any purpose other than to respond to your request. The only personal information that we collect is what you decide to give us by [ordering publications](https://publications.usa.gov/), [sending us an email](https://web.archive.org/email), or [subscribing to our email subscription services](http://connect.usa.gov/subscribe?email=). If you choose to provide us with personal information — like filling out a [Contact Us form](https://web.archive.org/email), with an email address and ZIP code, and submitting it to us through the website — we use that information to respond to your message and to help get you the information you requested. Similarly, if you order a publication from us, we will collect your name, and mailing address to fulfill your order.
 
 We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. USA.gov never collects information or creates individual profiles for commercial marketing.
 
 Back to Top
+
+Last Updated: March 29, 2017
 
 ## What you think matters!
