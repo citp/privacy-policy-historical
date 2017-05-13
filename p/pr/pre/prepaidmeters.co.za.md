@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prepaidmeters.co.za privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125111433id_/http%3A//www.prepaidmeters.co.za/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D12%26Itemid%3D128) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepaidmeters.co.za privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513193048id_/http%3A//www.prepaidmeters.co.za/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
