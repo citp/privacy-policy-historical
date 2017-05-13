@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the panoramastock.com privacy policy that was archived on 2016-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161225055158id_/http%3A//www.panoramastock.com/About/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the panoramastock.com privacy policy that was archived on 2017-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170513072739id_/http%3A//www.panoramastock.com/About/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Panorama Stock - Privacy Policy 
@@ -9,7 +9,7 @@
     <script type="text/javascript" language="javascript" src="/js/common.js"></script>
 </head>
 <body id="privacy">
-    <form name="form1" method="post" action="/About/Privacy.aspx" id="form1">
+    <form name="form1" method="post" action="Privacy.aspx" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjU1NTU5ODE5ZGQ=">
 
     
@@ -24,6 +24,13 @@
         display: none;
     }
 </style>
+<script src="/js/jquery.cookie.js" type="text/javascript"></script>
+<script type="text/javascript">
+    function RegTiankongPic(picid) {
+        var reg = /\bul\d{4}-\d{4}\b/;
+        return reg.test(picid);
+    }
+</script>
 <script type="text/javascript">
     function MM_swapImgRestore() { //v3.0
         var i, x, a = document.MM_sr; for (i = 0; a && i < a.length && (x = a[i]) && x.oSrc; i++) x.src = x.oSrc;
@@ -52,22 +59,10 @@
 </script>
 <div class="header">
     <a class="logo" href="/">&nbsp;</a>
-    <div class="searchholder" style=" width:560px">
-        <div class="searchBar">
-            <div class="searchBar-input">
-                <div style="position: relative;">
-                    <input type="text" style="width: 347px;" id="txt_Keyword" onkeydown="SearchPicByKeyword(event);" name="txt_Keyword" title="" class="textBg" autocomplete="off" action="/SearchTip.ashx" onblur="javascript:inputblur();" columns="1" capture="1"><div id="txt_Keyword_list" class="SuggestFramework_List" style="position: absolute; z-index: 1000; width: 344px; top: 27px; left: 0px; overflow-wrap: break-word; cursor: default; display: none;"></div>
-                    <img src="/images/close.gif" alt="" id="clearinput" onclick="javascript:clearinput();">
-                </div>
-            </div>        
-            <div class="clear">
-            </div>
-        </div>
-        <div class="searchBar-submit">
-            <button type="button" onclick="SearchImgDefault();" class="searchBar-submit1">
-            </button>
-        </div>
-    </div>
+    <!--<div class="headsearch">
+      <input type="text" value="搜索你喜欢的">
+      <span class="headsearchbt"><a href="#"><img src="/image/base/head_search.png" width="26" height="26"></a></span>
+    </div>-->
     <div class="services">      
         <div class="serviceup">
             <span><a href="/ecommerce/orderlist.aspx" title="Manage my orders" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','/image/common/index2_03.jpg',1)">
@@ -84,6 +79,33 @@
                     </span><span><a href="/myaccount/profile.aspx" title="My account" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','/image/common/index2_11.jpg',1)">
                         <img src="/image/common/index2_111.jpg" name="Image9" width="15" height="15" border="0" id="Image9">
                     </a></span>
+           <span id="spanLan"> 
+                <img src="/image/common/index2_05.gif" width="1" height="15">
+                
+
+             <span class="lan"><a href="javascript:void(0)" id="selectLanguage">EN<div class="ico_arrow"></div></a>
+      
+             </span>
+              <div class="language" id="Lan" style="display:none;">
+      		    <span style="padding:0"></span>
+      		    <ul id="MultiLanguage">
+                        <li><a href="http://www.quanjing.com/" target="_blank">简体中文</a></li>
+                        <li><a href="http://ko.quanjing.com" target="_blank">한국의</a></li>
+                        <li><a href="http://jp.quanjing.com" target="_blank">日本語</a></li>
+                        <li><a href="http://es.quanjing.com" target="_blank">Español</a></li>
+                        <li><a href="http://fr.quanjing.com" target="_blank">Français</a></li>
+                        <li><a href="http://de.quanjing.com" target="_blank">Deutsch</a></li>
+                        <li style="border-bottom: none"><a href="http://it.quanjing.com" target="_blank">Italia</a></li>
+                        <!--<li><a href="javascript:void(0)">简体中文</a></li>
+                        <li><a href="javascript:void(0)">한국의</a></li>
+                        <li><a href="javascript:void(0)">日本語</a></li>
+                        <li><a href="javascript:void(0)">Español</a></li>
+                        <li><a href="javascript:void(0)">Français</a></li>
+                        <li><a href="javascript:void(0)">español</a></li>
+                        <li style="border-bottom: none"><a href="javascript:void(0)">lingua italiana</a></li>-->
+      		    </ul>
+    	    </div>
+                 </span>    
         </div>
     </div>
     <div id="BeforeLogin" class="login">
@@ -113,9 +135,9 @@
                 <li><a href="/creative/">Gallery</a></li>
                 <li><a href="/dashi/">Portfolio</a></li>
                 <li><a href="/asianimagesindex.aspx">Asian Images</a></li>
-               
+               <!-- <li><a href="/motion/" target="_blank">Video</a></li>
                 <li><a href="/discover/default.aspx">Discover</a></li>
-                <li><a href="/artcircle/">Artcircle </a></li>
+                <li><a href="/artcircle/">Artcircle </a></li>-->
             </ul>
         </div>       
     </div>
@@ -202,6 +224,74 @@
         if (!document.getElementById("user_login")) {
             $("#BeforeLogin a:first").click(function () {location.href = "/login.aspx"; })            
         }
+        var selectLanguage = $('#selectLanguage');
+        var Lan = $('#Lan');
+        selectLanguage.bind('click', function () { if (Lan.is(':visible')) { Lan.hide('1000') } else { Lan.show('1000') } })
+        $("#spanLan").mouseover(function () { Lan.show('1000') })
+        $("#spanLan").mouseleave(function () { if (Lan.is(':visible')) { Lan.hide('1000') } })
+
+        selectLanguage.mouseenter(function () {
+            Lan.show('1000');
+        });
+        Lan.mouseleave(function () {
+            if (Lan.is(':visible')) {
+                Lan.hide('1000');
+            }
+        });
+        var dom_lan_li = $('#MultiLanguage li');
+        var dom_selectLanguage = $('#selectLanguage');
+        dom_lan_li.bind('click', function () {
+            if ($(this).text() == '简体中文' || $(this).text() == '簡體中文') {
+                if ($.cookie('lanFlag')) {
+                    $.cookie('lanFlag', 'http://www.quanjing.com/', { path: "/", expires: 365, domain: 'quanjing.com' });
+                }
+                window.location.href = 'http://www.quanjing.com/';
+            }
+            else {
+                if ($(this).text() == 'English') {
+                    if ($.cookie('lanFlag')) {
+                        $.cookie('lanFlag', 'http://en.quanjing.com/', { path: "/", expires: 365, domain: 'quanjing.com' });
+                    }
+                    window.open('http://en.quanjing.com/', '_blank');
+                } else if ($(this).text() == '日本語') {
+                    if ($.cookie('lanFlag')) {
+                        $.cookie('lanFlag', 'http://jp.quanjing.com/', { path: "/", expires: 365, domain: 'quanjing.com' });
+                    }
+                    window.open('http://jp.quanjing.com/', '_blank');
+                } else if ($(this).text() == '한국어' || $(this).text() == '한국의') {
+                    if ($.cookie('lanFlag')) {
+                        $.cookie('lanFlag', 'http://ko.quanjing.com/', { path: "/", expires: 365, domain: 'quanjing.com' });
+                    }
+                    window.open('http://ko.quanjing.com/', '_blank');
+                } else if ($(this).text() == 'français') {
+                    if ($.cookie('lanFlag')) {
+                        $.cookie('lanFlag', 'http://fr.quanjing.com/', { path: "/", expires: 365, domain: 'quanjing.com' });
+                    }
+                    window.open('http://fr.quanjing.com/', '_blank');
+                } else if ($(this).text() == 'Deutsch') {
+                    if ($.cookie('lanFlag')) {
+                        $.cookie('lanFlag', 'http://de.quanjing.com/', { path: "/", expires: 365, domain: 'quanjing.com' });
+                    }
+                    window.open('http://de.quanjing.com/', '_blank');
+                } else if ($(this).text() == 'español') {
+                    if ($.cookie('lanFlag')) {
+                        $.cookie('lanFlag', 'http://es.quanjing.com/', { path: "/", expires: 365, domain: 'quanjing.com' });
+                    }
+                    window.open('http://es.quanjing.com/', '_blank');
+                } else if ($(this).text() == 'lingua italiana') {
+                    if ($.cookie('lanFlag')) {
+                        $.cookie('lanFlag', 'http://it.quanjing.com/', { path: "/", expires: 365, domain: 'quanjing.com' });
+                    }
+                    window.open('http://it.quanjing.com/', '_blank');
+                } else if ($(this).text() == 'italiana') {
+                    if ($.cookie('lanFlag')) {
+                        $.cookie('lanFlag', 'http://it.quanjing.com/', { path: "/", expires: 365, domain: 'quanjing.com' });
+                    }
+                    window.open('http://it.quanjing.com/', '_blank');
+                }
+            }
+        })
+
     })
    
 </script>
@@ -234,7 +324,7 @@
                             for internal purposes only and more particularly to fulfil licensing transactions,
                             download images, send you products and updates on our latest promotions and services.
                             We may also use certain account information provided to us by authorized users to
-                            conduct credit inquiries. age fotostock does not sell or lease information about
+                            conduct credit inquiries. Panoramastock does not sell or lease information about
                             its customers to third parties.</p>
                         <div class="aboutUsSpacing">
                         </div>
@@ -280,20 +370,19 @@
                         <p>
                             When you visitage Panorama Media website, we place a "cookie" in the hard drive
                             of your computer. A "cookie" is a small piece of data that a website can store on
-                            your web browser and later retrieve. Cookies allow age fotostock to make its website
+                            your web browser and later retrieve. Cookies allow Panoramastock to make its website
                             more useful by storing information about your preferences. For example, cookies
                             enable this website to recognize the information you have consented to give us,
                             such as the lightboxes you have created and determine what areas of the website
                             are most of your interest. You can set your browser's option not to accept cookies,
-                            though as a result you may not then be able to access all of the features of age
-                            fotostock site.
+                            though as a result you may not then be able to access all of the features of Panoramastock site.
                         </p>
                         <div class="aboutUsSpacing">
                         </div>
                         <p class="text_color">
                             Links</p>
                         <p>
-                            Please be aware that the age fotostock web site may contain links to other sites
+                            Please be aware that the Panoramastock web site may contain links to other sites
                             that are covered by their own privacy policies. i Panorama Media's not responsible
                             for the privacy practices of such other sites. We recommend that you read the privacy
                             statements of each and every web site that collects personally identifiable information.
@@ -329,7 +418,7 @@
         </ul>
         <ul style="width: 149px">
              <span>Buy Services</span>      
-            <li><a href="/activity/">Subscriptions</a></li>
+            <!--<li><a href="/activity/">Subscriptions</a></li>-->
             <li><a href="/eCommerce/OrderList.aspx">Orders Manage</a></li>
             <li><a href="/eCommerce/cart.aspx">Shopping Cart</a></li>
         </ul>
@@ -348,8 +437,13 @@
         </ul>
         <ul style="width: 130px">
              <span>Language</span>
-            <li><a href="http://cn.panoramastock.com/">简体中文</a></li>
-            <li><a href="http://traditional.panoramastock.com/">繁体中文</a></li>
+            <li><a href="http://www.quanjing.com/">简体中文</a></li>
+            <li><a href="http://ko.quanjing.com/">한국의</a></li>
+            <li><a href="http://jp.quanjing.com/">日本語</a></li>
+            <li><a href="http://fr.quanjing.com/">français</a></li>
+            <li><a href="http://de.quanjing.com/">Deutsch</a></li>
+            <li><a href="http://es.quanjing.com/">español</a></li>
+            <li><a href="http://it.quanjing.com/">lingua italiana</a></li>
         </ul>
         <ul>
              <span>Contact &amp; Support</span>
@@ -357,9 +451,8 @@
             <li><a href="/About/ContactUs.aspx">Contact Us</a></li>
             <li>&nbsp;</li>
             <li>
-                <img width="11" height="11" src="/image/common/index2_46.jpg">+86-10-5921 2704<img width="20" height="15" src="/image/common/index2_43.jpg">
-             
-                    </li>
+                <img width="11" height="11" src="/image/common/index2_46.jpg">+86-10-5921 2704<img width="20" height="15" src="/image/common/index2_43.jpg"><br>
+                <span style="margin-left: 17px">+852-2882 5286</span><img width="20" height="15" src="/image/common/index2_46-14.jpg" style="margin-left: 18px"></li>
             <li>
                 <img width="12" height="8" src="/image/common/index2_53.jpg" style="margin: 0 3px">service@panoramastock.com</li>
             <li>&nbsp;</li>
@@ -375,9 +468,8 @@
 </div>
 <div class="copy">
     <img width="87" height="20" src="/image/common/index2_66.jpg">Copyright ©
-    2000 - 2014 www.panoramastock.com | All Rights Reserved</div>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+    2016 en.quanjing.com | All Rights Reserved</div>
+
 <script type="text/javascript">
 
     function GetParamValue(url, key) {
@@ -418,11 +510,11 @@
     function SetCookie(cookieName, cookieData) {
         var expires = new Date();
         expires.setTime(expires.getTime() + 365 * (24 * 60 * 60 * 1000));
-        document.cookie = cookieName + "=" + escape(cookieData) + ";path=/;expires=" + expires.toGMTString();
+        document.cookie = cookieName + "=" + escape(cookieData) + ";path=/;domain=.panoramastock.com;expires=" + expires.toGMTString();
     }
 
     _uacct = "UA-1602600-2";
-    urchinTracker();
+    //urchinTracker();
 
     function GetPrice(pic_id) {
         var href = "/info/" + pic_id + ".html?buy=it";
@@ -476,21 +568,18 @@
 
 
     
-<script type="text/javascript">  
-    var pwdInput =  "";  
-    
-    function Login(evt)
-    {
-     if(evt.keyCode==13) 
-         btnLogin_onclick();    
-    }            
-    function btnLogin_onclick() 
-    {       
-        loginName =  $("#loginName").val() ; 
-        pwdInput =  $("#loginPwd").val();        
-         if(loginName == "" || pwdInput == "")
-        {
-            alert("please input username and password！");
+<script type="text/javascript">
+    var pwdInput = "";
+
+    function Login(evt) {
+        if (evt.keyCode == 13)
+            btnLogin_onclick();
+    }
+    function btnLogin_onclick() {
+        loginName = $("#loginName").val();
+        pwdInput = $("#loginPwd").val();
+        if (loginName == "" || pwdInput == "") {
+            alert("please input username and password��");
             document.getElementById('loginName').focus();
             return false;
         }
@@ -513,69 +602,65 @@
                 $(".login_intro p:last").hide();
                 $(".login_intro p:first").show();
             }
-        });        
-        return false;        
+        });
+        return false;
     }
 
     function cb_Login(result, show) {
-        if(result.substr(0,8)!="username")
-        {        
+        if (result.substr(0, 8) != "username") {
             alert("Failed to login !\n\r\n\r please confirm your username and password!");
-		    if(show=="1")
-		    {
-                $("#user_login").attr({style:"left:50%; top:50px;  z-index:999;margin-left:-240px;"})
-		        $("#user_login").show(); 
-		    }
-		    else
-		        $("#user_login").hide(); 
-		    
-		    $("#user_login input").eq(1).val('');
-		    $("#user_login input").eq(0).focus();	    
-   	        //$(".Member_dlwzysbh").show();
-  	        //$(".Member_dlwzysbh_wait").hide();
+            if (show == "1") {
+                $("#user_login").attr({ style: "left:50%; top:50px;  z-index:999;margin-left:-240px;" })
+                $("#user_login").show();
+            }
+            else
+                $("#user_login").hide();
+
+            $("#user_login input").eq(1).val('');
+            $("#user_login input").eq(0).focus();
+            //$(".Member_dlwzysbh").show();
+            //$(".Member_dlwzysbh_wait").hide();
             return false;
         }
-        else
-        {
+        else {
 
             UserName = result.substr(9, result.length - 9);
             //loginName = loginNameInput;
             //set loginname to cookie
-            SetCookie("PanoramaLoginName", encodeURIComponent(loginName));  
+            SetCookie("PanoramaLoginName", encodeURIComponent(loginName));
             //verify whether to remember the pwd or not .
-            if($("#chk_rememberPwd").attr("checked")){
+            if ($("#chk_rememberPwd").attr("checked")) {
                 SetCookie("Panorama_" + encodeURIComponent(loginName), qjencode(pwdInput));
             }
             else { SetCookie("Panorama_" + encodeURIComponent(loginName), ""); }
             if ($("#chk_KeepStatus").attr("checked")) {
                 SetCookie("PanoramaStockKeepStatus", "1");
             }
-            else {SetCookie("PanoramaStockKeepStatus", "");}
+            else { SetCookie("PanoramaStockKeepStatus", ""); }
             $('#BeforeLogin').hide();
             $('#AfterLogin').show();
             $('#LogInUserName').text(UserName);
             //$(".loginxk_lbdl").show();
-  	        //$(".Member_lbdl").hide();
-  	        //$("#mytruename").html(UserName);
+            //$(".Member_lbdl").hide();
+            //$("#mytruename").html(UserName);
             //var headadd=GetCookie("pshead").substr(8);
             //if(headadd=="")  headadd="default.jpg";
             //$("#imgheadpic").attr("src","http://zonepic.panoramastock.com/head/c0/"+headadd);
-            if(TransferPage!="")
-            {
-                var transPage =   TransferPage;
+            if (TransferPage != "") {
+                var transPage = TransferPage;
                 TransferPage = "";
-                parent.location.href = transPage;                
+                parent.location.href = transPage;
             }
-         
-           if(typeof(Reload) != 'undefined') {
-              
-               Reload();
-           }
+
+            if (typeof (Reload) != 'undefined') {
+
+                Reload();
+            }
         }
-    }        
+    }
 </script>
 
-<div id="user_login" class="login_holder" style="left: 300px; top: 50px; display :none; z-index: 999;">
+<div id="user_login" class="login_holder" style="left: 300px; top: 50px; display: none; z-index: 999;">
     <div class="login_shaodow_top">
     </div>
     <div class="login_shaodow_middle">
@@ -589,26 +674,31 @@
                 </p>
                 <p>
                     <label>Password</label>
-                    <input type="password" id="loginPwd" maxlength="32" onkeydown="Login(event);"> 
+                    <input type="password" id="loginPwd" maxlength="32" onkeydown="Login(event);">
                 </p>
-                <p style="margin-bottom:2px;"><label>&nbsp;</label><input type="checkbox" id="chk_rememberPwd" style="float:left; width:auto; border:0; margin-top:0; padding:0; top:0px; " checked="checked"><label id="lb_RememberPwd" for="chk_rememberPwd" class="remember" style="top:0; *top:3px;text-align:left;">Remember password</label></p>
-                <p style="margin-bottom:2px;"><label>&nbsp;</label><input type="checkbox" id="chk_KeepStatus" style="float:left; width:auto; border:0; margin-top:0; padding:0; top:0px; " checked="checked"><label id="lb_KeepStatus" for="chk_KeepStatus" class="remember" style="top:0; *top:3px;text-align:left;">Stay signed in</label></p>
+                <p style="margin-bottom: 2px;">
+                    <label>&nbsp;</label><input type="checkbox" id="chk_rememberPwd" style="float: left; width: auto; border: 0; margin-top: 0; padding: 0; top: 0px;" checked="checked"><label id="lb_RememberPwd" for="chk_rememberPwd" class="remember" style="top: 0; *top: 3px; text-align: left;">Remember password</label></p>
+                <p style="margin-bottom: 2px;">
+                    <label>&nbsp;</label><input type="checkbox" id="chk_KeepStatus" style="float: left; width: auto; border: 0; margin-top: 0; padding: 0; top: 0px;" checked="checked"><label id="lb_KeepStatus" for="chk_KeepStatus" class="remember" style="top: 0; *top: 3px; text-align: left;">Stay signed in</label></p>
                 <p>
-                   <input type="button" id="loginBtn" class="btn_submit" onclick="return btnLogin_onclick();">                   
+                    <input type="button" id="loginBtn" class="btn_submit" onclick="return btnLogin_onclick();">
                 </p>
-                
+
             </div>
             <div class="login_intro">
+                
                 <p>
-                   If you don't have username and password, please <a href="/Register.aspx" target="_top">click here</a> to register; if you forget your password, please  <a href="/forgotpassword.aspx" target="_top">click here </a> to get back.</p>
-                   <p style="display:none;"><img src="/image/frameSet/loading.gif" alt="login... ...">please waiting ... ...</p>
+                    If you don't have account, please <a href="/Register.aspx" target="_top">click here</a> to register; if you forget your password, please  <a href="/forgotpassword.aspx" target="_top">click here </a>to get back.
+                </p>
+                <p style="display: none;">
+                    <img src="/image/frameSet/loading.gif" alt="login... ...">please waiting ... ...</p>
             </div>
-        </div>      
-    </div>    
+        </div>
+    </div>
     <div class="login_shaodow_bottom">
     </div>
-   <a href="javascript:void(0)" class="pop_close1">Close</a>
-       <input type="hidden" id="hidden_transferPage" visible="false">
+    <a href="javascript:void(0)" class="pop_close1">Close</a>
+    <input type="hidden" id="hidden_transferPage" visible="false">
 </div>
 <script type="text/javascript" language="javascript">
     document.getElementById("loginName").onfocus = function () { $("#loginPwd").val(''); return false; }
@@ -616,7 +706,7 @@
         loginName = $("#loginName").val();
         if (loginName == null || loginName == "") return false;
         else {
-            //取出密码，并显示在密码框中
+            //ȡ�����룬����ʾ���������
             var pwd = GetCookie("Panorama_" + encodeURIComponent(loginName));
             if (pwd == null || pwd == "")
                 return false;
@@ -625,34 +715,32 @@
         }
         return false;
     }
-    
-    var TransferPage = "";
-	$('#user_login .pop_close1').click( function(){ $("#user_login").hide();});							
-	$("#BeforeLogin a:first").click( function() {		    
-		$("#user_login").attr({style:"left:50%; top:50px;  z-index:999;margin-left:-240px;"})
-		$("#user_login").show(); 
-		
-		var loginNameCookie = GetCookie("PanoramaLoginName"); 		
-		$("#user_login input").eq(0).val(loginNameCookie);
-		$("#user_login input").eq(1).val('');
-		if(loginNameCookie!=null && loginNameCookie!="")
-		{		
-		$("#user_login input").eq(1).focus();
-		}
-		else
-		{	
-		$("#user_login input").eq(0).focus();		
-		}
-		return false; 
-	});
 
-//
-$(function(){
-$("#user_login,#txt_Keyword,.menuSelector-header,.pop_fav_holder,.btnEmailShare,#sendMailWindow").click(function (oevent) { if (document.all) window.event.cancelBubble = true; else oevent.stopPropagation(); });
-$(document.body).click(function () {
-    $("#user_login,#txt_Keyword_list,.menuSelector-content,.pop_fav_holder,#sendMailWindow").hide();
-}); 
-})
+    var TransferPage = "";
+    $('#user_login .pop_close1').click(function () { $("#user_login").hide(); });
+    $("#BeforeLogin a:first").click(function () {
+        $("#user_login").attr({ style: "left:50%; top:50px;  z-index:999;margin-left:-240px;" })
+        $("#user_login").show();
+
+        var loginNameCookie = GetCookie("PanoramaLoginName");
+        $("#user_login input").eq(0).val(loginNameCookie);
+        $("#user_login input").eq(1).val('');
+        if (loginNameCookie != null && loginNameCookie != "") {
+            $("#user_login input").eq(1).focus();
+        }
+        else {
+            $("#user_login input").eq(0).focus();
+        }
+        return false;
+    });
+
+    //
+    $(function () {
+        $("#user_login,#txt_Keyword,.menuSelector-header,.pop_fav_holder,.btnEmailShare,#sendMailWindow").click(function (oevent) { if (document.all) window.event.cancelBubble = true; else oevent.stopPropagation(); });
+        $(document.body).click(function () {
+            $("#user_login,#txt_Keyword_list,.menuSelector-content,.pop_fav_holder,#sendMailWindow").hide();
+        });
+    })
 
 </script>
 
