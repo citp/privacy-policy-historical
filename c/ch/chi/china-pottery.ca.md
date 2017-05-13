@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the china-pottery.ca privacy policy that was archived on 2016-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160813125344id_/http%3A//www.china-pottery.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the china-pottery.ca privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513032058id_/http%3A//www.china-pottery.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
