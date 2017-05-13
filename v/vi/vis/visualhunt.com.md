@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualhunt.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108182509id_/https%3A//visualhunt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualhunt.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513223401id_/https%3A//visualhunt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Visual Hunt
 
