@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digit.co privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407094424id_/https%3A//digit.co/about/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digit.co privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513193229id_/https%3A//digit.co/about/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Digit
 
@@ -6,7 +6,7 @@ Last updated: August 17, 2015
 
 This privacy policy (this "Privacy Policy") explains how personal information is collected, used, stored, and disclosed by Hello Digit, Inc. ("Digit," "we," "us," and "our"). This Privacy Policy applies to consumer users (individually referred to as "you") of our websites, applications, and other online services to which this Privacy Policy is posted (collectively, our "Services").
 
-This Privacy Policy is part of our [Terms of Use](https://web.archive.org/about/legal/terms-of-use). By accessing or using our Services, you agree to this Privacy Policy and our Terms of Use. The provisions contained in this Privacy Policy supersede all previous notices and statements regarding our privacy practices with respect to our Services. If you do not agree to every provision of this Privacy Policy and our Terms of Use, you may not access or use our Services.
+This Privacy Policy is part of our [Terms of Use](https://web.archive.org/about/legal/terms-of-use/v2). By accessing or using our Services, you agree to this Privacy Policy and our Terms of Use. The provisions contained in this Privacy Policy supersede all previous notices and statements regarding our privacy practices with respect to our Services. If you do not agree to every provision of this Privacy Policy and our Terms of Use, you may not access or use our Services.
 
 ## Application of this Privacy Policy
 
@@ -120,4 +120,4 @@ Subject to applicable law, we may revise this Privacy Policy at any time and in 
 
 ## Contacting Us
 
-If you have any questions regarding this Privacy Policy, or if you wish to ask us to delete, correct, or show you your Personal Information as provided above, please contact us at [help@digit.co](mailto:help@digit.co), 1-888-322-3103, or Hello Digit, Inc., 235 Montgomery St., Suite 650, San Francisco, CA 94104.
+If you have any questions regarding this Privacy Policy, or if you wish to ask us to delete, correct, or show you your Personal Information as provided above, please contact us at [help@digit.co](mailto:help@digit.co), or Hello Digit, Inc., 235 Montgomery St., Suite 650, San Francisco, CA 94104.
