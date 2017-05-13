@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buzzerg.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813060246id_/http%3A//buzzerg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzerg.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513225630id_/http%3A//buzzerg.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Buzzerg.com
+# Privacy Policy - BUZZERG
 
 **Your Privacy**
 
@@ -30,4 +30,5 @@ We have included links on this site for your use and reference. We are not respo
 
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of [buzzerg.com](http://www.buzzerg.com/) then you may [contact us](http://www.buzzerg.com/contact-us).
+If you have any questions regarding the privacy policy of [buzzerg.com](http://buzzerg.com/) then you may [contact us](http://buzzerg.com/contact-us).  
+
