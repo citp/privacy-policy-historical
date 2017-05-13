@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the habitica.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209071025id_/https%3A//habitica.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habitica.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513231104id_/https%3A//habitica.com/static/privacy) for the most accurate reproduction.*
 
 # Habitica | Privacy
 
