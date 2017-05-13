@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tinymce.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329171511id_/http%3A//ephox.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinymce.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513140713id_/http%3A//ephox.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — Ephox
+# Privacy Policy
 
 **PLEASE READ THIS PRIVACY POLICY CAREFULLY.   **BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY AND THE TERMS OF USE AGREEMENT ON THIS WEBSITE.  IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO NOT USE THIS WEBSITE. YOU SHOULD CHECK THIS POLICY REGULARLY TO SEE IF ANY CHANGES HAVE BEEN MADE.
 
@@ -18,7 +18,7 @@ We use your Personally Identifiable Information to complete transactions, respon
 
 For Personally Identifiable Information provided if and when applying for a job with us, we will use that information only to contact you regarding job opportunities that may be of interest. This information may also be used to contact you about announcements, administration, requests or inquires, your orders and account, changes to our Site or policies, promotional offerings and other marketing activities, and requesting feedback through surveys and questionnaires.
 
-We may from time to time send you promotional emails relating to our product and services offerings. You are given the opportunity to opt-out of receiving promotional e-mails after registering an account on the Site by simply following the “unsubscribe” instructions that appear in every email from us, or updating your preferences at: [ephox.com/subscriptions](http://www.ephox.com/subscriptions/).
+We may from time to time send you promotional emails relating to our product and services offerings. You are given the opportunity to opt-out of receiving promotional e-mails after registering an account on the Site by simply following the “unsubscribe” instructions that appear in every email from us.
 
 ##  **2\. Non-Personally Identifiable Information  **
 
