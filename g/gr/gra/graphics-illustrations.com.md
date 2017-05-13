@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphics-illustrations.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210074140id_/http%3A//graphics-illustrations.com/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphics-illustrations.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513093220id_/http%3A//graphics-illustrations.com/privacy-policy-cookies) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies - Graphics-Illustrations
 
