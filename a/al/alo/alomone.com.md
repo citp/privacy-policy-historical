@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alomone.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008130159id_/http%3A//www.alomone.com/Article.aspx%3FItem%3D1126%26Section%3D865) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alomone.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513081849id_/http%3A//www.alomone.com/Article.aspx%3FItem%3D1126%26Section%3D865) for the most accurate reproduction.*
 
 # Privacy Policy
 
