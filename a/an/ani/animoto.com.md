@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animoto.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018000405id_/https%3A//animoto.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animoto.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513131831id_/https%3A//animoto.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Animoto - Privacy Policy
 
@@ -11,6 +11,8 @@ The TRUSTe program does not cover information that may be collected through down
 In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal. _If you have questions or complaints regarding our privacy policy or practices, please contact us at_ [contact@animoto.com](mailto:contact@animoto.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
 
 If you do not agree to these terms, please do not access or use this site. 
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=5861d98f-9f02-479c-bd0c-ca2e2074e3ce)
 
 ## 2\. Participating Third Party Policies
 
@@ -99,4 +101,4 @@ Animoto Inc. ([contact@animoto.com](mailto:contact@animoto.com))
 New York, NY, 10003  
 USA
 
-**This document was last updated on May 11, 2016.**
+**This document was last updated on October 6, 2016.**
