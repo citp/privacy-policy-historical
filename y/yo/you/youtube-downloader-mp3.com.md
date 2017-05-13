@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youtube-downloader-mp3.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119140437id_/http%3A//youtube-downloader-mp3.com/page-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtube-downloader-mp3.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513053500id_/http%3A//youtube-downloader-mp3.com/page-privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
