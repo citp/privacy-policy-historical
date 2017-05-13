@@ -1,35 +1,96 @@
-> *The following text is extracted and transformed from the beanstalkapp.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119024932id_/http%3A//beanstalkapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beanstalkapp.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513133157id_/http%3A//wildbit.com/privacy-policy) for the most accurate reproduction.*
 
-# Beanstalk — Privacy Policy
+# Privacy Policy | Wildbit
 
-We collect personal information in a number of ways when you visit our site or use our service. For example, you provide us with personal information when you register for an account or contact us by email. Wildbit, LLC automatically receives and records information from your browser, including your IP address and cookies. The personal information collected is used for billing, identification, authentication, service improvement, research, and contact.
+**Effective: 1/4/2017**
 
-## Cookies
+This Privacy Policy applies to the websites: [www.wildbit.com](http://www.wildbit.com/), [www.beanstalkapp.com](http://www.beanstalkapp.com/), [www.deploybot.com](http://www.deploybot.com/), and [www.postmarkapp.com](http://www.postmarkapp.com/) (the “Sites”) owned and operated by WildBit, LLC (collectively, “WildBit”, “we”, “us”, or “our”). This Privacy Policy describes how Wildbit collects, uses, shares and secures the personal information you provide, **** as well as the human resources data transferred to us for processing on behalf of our customers. It also describes your choices regarding use, access and correction of your personal information.  
 
-A cookie is a small amount of data that is sent to your browser from our servers and stored on your computer’s hard drive. We use cookies to access information when you sign in, store your preferences, and to keep you logged in. You can configure your browser to accept or reject these cookies.
 
-## Information Sharing
+### EU-U.S. Privacy Shield 
 
-We do not sell, rent or share personal information with third parties without your prior consent. We may, however, disclose personal information when we believe it violates our [Terms of Service](https://web.archive.org/terms-of-service) or is appropriate to comply with the law, to protect our or our users’ rights, as well as to protect our users from fraudulent, abusive, and unlawful use of our site. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.
+Wildbit, LLC participates in and has certified its compliance with the EU-U.S. [Privacy Shield Framework](https://www.privacyshield.gov/welcome). Wildbit is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list).
 
-## Client Data and Storage
+Wildbit is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  Wildbit complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
-Wildbit, LLC ensures that all source code, files, and data remain private and confidential. Due to the sensitive nature of source code we take this very seriously and make it our primary concern for all customers.
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Wildbit is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, Wildbit may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-## Information Security
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-We restrict access to personal information to Wildbit employees, contractors and agents who need to know that information in order to operate, develop or improve our service. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-## Changes
+### U.S. - Swiss Safe Harbor Framework
 
-Wildbit, LLC will notify customers by email about any significant changes in this policy.
+Wildbit, LLC complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Wildbit has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Wildbit’s certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
 
-## Privacy Questions / Feedback
+**Collection:**
 
-If you have questions or concerns about Wildbit’s Privacy Policy please contact us at [support@beanstalkapp.com](mailto:support@beanstalkapp.com) or 225 Chestnut St., Philadelphia, PA, 19106.
+We may collect the following personal information from you: 
 
-## Terms Applicable to International Users
+  * Contact Information, such as name, email address, mailing address, or phone number; 
+  * Demographic information, such as age, education, gender, interests and zip code
+  * Billing Information, such as credit card number and billing address; 
+  * Unique Identifiers, such as username, account number or password; 
+  * Geo location based on IP address;
+  * Information about your business, such as company name, company size, business type.
 
-We’re in Philadelphia, and as you can see from these Terms and our Privacy Policy, we’re committed to following the rules when it comes to your data. But we can’t do it alone, especially if you are located outside of the United States. You are responsible for complying with all local rules where you reside or your organization is located regarding online activities, email and the Service, including but not limited to laws governing the transmission of data to or from the United States and to or from the country in which You reside. The Service is controlled and operated by Wildbit from our offices within the United States, and we make no representation that the it is appropriate for use in other locations. Those who use the Service from other locations do so at their own risk, and are responsible for compliance with all applicable laws.
 
-For the purposes of European Directive 95/46/EC, and with respect to Your subscribers’ or customers’ personal data, You acknowledge and agree that You are the data controller, and Wildbit is the data processor. You are therefore responsible for complying with all obligations of a data controller under applicable law. Wildbit will process your subscribers’ or customers’ data on Your behalf in accordance with Your instructions, as set out in this these Terms and pursuant to the Standard Contractual Clauses in European Commission Decision C(2010)593, including the Illustrative Indemnification Clause therein, all of which is adopted and incorporated by reference. Wildbit has taken and will continue to take adequate technical and organizational measures against unauthorized or unlawful processing of, accidental loss or destruction of, or damage to, Your subscribers' or customers' personal data, as more fully described in our Privacy Policy. If you have any questions, don’t hesitate to contact us at [support@beanstalkapp.com](mailto:support@beanstalkapp.com).
+
+We may also collect, from you, personal information about your contacts such as Name and email address where we can send receipts of your purchases. When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided. If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at the contact information below.
+
+As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site.  
+
+
+Wildbit and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. 
+
+**Use:**
+
+The personal information as indicated being collected above is used for billing, identification, authentication, service improvement, research, and contact. 
+
+### Information Sharing
+
+1.     With Third Parties: 
+
+We may share your information with third-party business partners, for instance, for the purpose of enhancing our products and services. If you do not want us to share your personal information with these companies, contact us at the contact information below. 
+
+2.     With Service Providers: 
+
+We may share your information with third parties who provide services on our behalf to help with our business activities.  These companies are authorized to use your personal information only as necessary to provide these services to us, to which these services may include: 
+
+  * Payment processing
+  * Providing customer service
+  * Sending marketing communications
+  * Conducting research and analysis
+  * Providing cloud computing infrastructure
+
+
+
+3.     With Public Authorities or Law Enforcement: 
+
+In certain situations, Wildbit may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may also disclose your personal information as required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that disclosure is necessary to protect our rights, when we believe there is a violation to our Terms of Service (see [Postmark Terms of Service](https://postmarkapp.com/terms-of-service), [Beanstalk Terms of Service](http://beanstalkapp.com/terms-of-service), [Deploybot Terms of Service](https://deploybot.com/tos)), protect your safety or the safety of others, investigate fraud, or respond to a government request. If Wildbit is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website, of any change in ownership, uses of your personal information, and choices you may have regarding your personal information. We do not sell, rent or share personal information with third parties without your prior consent.
+
+### Security
+
+The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. Wildbit, LLC ensures that all source code, files and data remain private and confidential. Due to the sensitive nature of source code we take this very seriously and make it our primary concern for all customers. We restrict access to personal information to Wildbit employees, contractors and agents who need to know that information in order to operate, develop or improve our service. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
+
+If you have any questions about the security of your personal information, you can contact us at the contact information below. We may retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements. 
+
+### Access 
+
+Upon request Wildbit will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by logging into your account or by contacting us at the contact information below. We will respond to your request within a reasonable timeframe. In certain circumstances we may be required by law to retain your personal information, or may need to retain your personal information in order to continue providing a service. 
+
+Wildbit, LLC acknowledges that you have the right to access your personal information. Wildbit has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct their query to the Wildbit, LLC’s Client (the data controller). If requested to remove data we will respond within a reasonable timeframe. In certain circumstances we may be required by law to retain your personal information, or may need to retain your personal information in order to continue providing a service. 
+
+### Choice 
+
+We partner with a third party to display advertising on our website or to manage our advertising on other sites. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note you will continue to receive generic ads.
+
+You may sign-up to receive email or newsletter or other communications from us.  If you would like to discontinue receiving this information, you may update your email preferences by using the “Unsubscribe” link found in emails we send to you or by contacting us at the contact information below.
+
+### Changes to This Privacy Policy 
+
+We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+
+### Privacy Questions / Feedback 
+
+If you have questions or concerns about Wildbit’s Privacy Policy please contact us at [info@wildbit.com](mailto:info@wildbit.com) or 225 Chestnut St., Philadelphia, PA, 19106.
