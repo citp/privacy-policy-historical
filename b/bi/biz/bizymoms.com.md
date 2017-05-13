@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizymoms.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220025447id_/http%3A//www.bizymoms.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizymoms.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513045021id_/http%3A//www.bizymoms.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Bizymoms.com
 
