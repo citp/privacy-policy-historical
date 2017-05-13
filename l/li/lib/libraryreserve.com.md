@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libraryreserve.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231091342id_/https%3A//www.overdrive.com/fine-print/account-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libraryreserve.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513061409id_/https%3A//www.overdrive.com/fine-print/account-privacy-policy) for the most accurate reproduction.*
 
 # OverDrive Account Privacy Policy · OverDrive: eBooks, audiobooks and videos for libraries
 
