@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macid.co privacy policy that was archived on 2016-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160705233541id_/https%3A//macid.co/docs/privacy/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macid.co privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513143009id_/https%3A//macid.co/docs/privacy/privacy-policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
