@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jump.fm privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218010232id_/http%3A//jump.fm/page-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jump.fm privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513113713id_/http%3A//jump.fm/page-privacy) for the most accurate reproduction.*
 
 # JUMP:FM | Privacy Policy
 
