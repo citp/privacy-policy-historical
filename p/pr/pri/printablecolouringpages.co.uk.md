@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printablecolouringpages.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119035311id_/http%3A//printablecolouringpages.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printablecolouringpages.co.uk privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514013450id_/http%3A//printablecolouringpages.co.uk/privacy.html) for the most accurate reproduction.*
 
 # None
 
