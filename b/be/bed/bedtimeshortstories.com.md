@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bedtimeshortstories.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123041900id_/http%3A//www.bedtimeshortstories.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedtimeshortstories.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513225406id_/http%3A//www.bedtimeshortstories.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Short Bedtime Stories
+# Privacy Policy - Short Stories For Kids
 
 This **Privacy Policy** governs the manner in which Bedtime Short Stories collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.bedtimeshortstories.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Bedtime Short Stories.
 
