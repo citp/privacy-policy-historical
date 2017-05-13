@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolsstar.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203034852id_/http%3A//www.toolsstar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolsstar.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513133802id_/http%3A//www.toolsstar.com/privacy) for the most accurate reproduction.*
 
 # Free Facebook Autoposter|Terms - Post Free to Groups,Pages!
 
