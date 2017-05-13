@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happn.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210012446id_/https%3A//www.happn.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happn.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513200801id_/https%3A//www.happn.com/en/privacy) for the most accurate reproduction.*
 
 # happn
 
@@ -6,7 +6,7 @@
 
 Data are collected by:
 
-SAS HAPPN with a capital of 30 960,63€ registered under the number 535 217 723 at the Paris RCS.
+SAS HAPPN with a capital of 35 611.81€ registered under the number 535 217 723 at the Paris RCS.
 
 The headquarters are located 8 rue du Sentier 75002 Paris and the company is represented by its CEO Didier Rappaport.
 
@@ -22,7 +22,7 @@ The Member’s personal data identified as “available to the public” at arti
 
 The data collected by HAPPN are necessary to the smooth operation and improvement of the service proposed by the App to the Members.
 
-These data can also allow HAPPN to realize statistical studies and marketing analysis relating to the use of the App and its services by the Members.
+These data can also allow HAPPN to realize statistical studies and marketing analysis relating to the use of the App and its services by the Members. It allows HAPPN to send promotional messages from advertisers and other partners via the Application. However, HAPPN never transfers any personal data of its Members to such advertisers and partners. It allows HAPPN to send promotional messages from advertisers and other partners via the Application. However, HAPPN never transfers any personal data of its Members to such advertisers and partners.
 
 HAPPN can access, store and share the Member’s personal data with authorized third parties in order to answer to a legal demand or to conform itself to legal obligations, to detect or prevent fraudulent activities or security attempt to the services, in application of the legislation.
 
@@ -92,7 +92,7 @@ The Member's profile will not appear on the Application to Members with whom he/
 
 ### 1.5 Sensitive Data
 
-Certain data is legally classified as 'sensitive' pursuant to Article 8 of the French Data Protection Act no. 78-17 of 6 January 1978.
+Certain data is legally classified as 'sensitive' pursuant to Article 8 of the French Act n° 78-17 of January 6, 1978, known as the Loi Informatique et Liberté (French Data Protection Act).
 
 The Member may decide to provide sensitive data related to him/her on his/her description such as (for example and not limited to) his/her ethnic origin or political views, and thereby expressly consents to the collection of such sensitive data.
 
@@ -108,7 +108,9 @@ In accordance with Act no. 78-17 of 6 January 1978, known as the loi Informatiqu
 
    • The right to contest grants the Member the free-of-charge and discretionary right to contest the use of its data by happn for the purpose of commercial prospection, based on Article 38 of the French Data Protection Act.
 
-   •The right to cancel grants the Member the right to ask the suppression free of charge of the data transmitted to HAPPN within the limit of the legal obligation imposed to HAPPN as a hosting provider. 
+   • The right to cancel grants the Member the right to ask the suppression free of charge of the data transmitted to HAPPN within the limit of the legal obligation imposed to HAPPN as a hosting provider.
+
+  • The right for the Member to set his or her guidelines for the retention, deletion and communication of his or her personal data after his or her death, based on Article 40-1 of the French Data Protection Act.
 
 These rights may only be exercised within the limits of HAPPN’s resources as regards its linking with Facebook Connect. Some of the data is sent to happn by Facebook Connect and cannot be corrected without Facebook's assistance.
 
@@ -156,12 +158,12 @@ HAPPN shall not collect data from minors. Should a Member lie about his/her date
 
 ### 1.9 Transfer of Personal Data outside the EU
 
-When registering, the Member expressly consents to his/her data being transmitted to subcontractors and hosted on servers by our service providers outside the European Union, for proper provision of the service and to the end of elaborating statistical studies.
+When registering, the Member expressly consents to his/her data being transmitted to subcontractors and hosted on servers by our service providers outside the European Union, for proper provision of the service, to the end of elaborating statistical studies and for the purpose of providing customer care support to Members.
 
 Happn guaranties that the transfers are made in conditions ensuring the confidentiality and security of the data and providing for an adequate level of protection with respect to the article 68 and 69 of the French “Loi informatique et Liberté” of 1978.
 
 ## Article 2: CNIL Declaration
 
-### 1.2 CNIL Declaration 
+### 2.1 CNIL Declaration 
 
 The Application collects information on its Members, has been the object of declarative formalities to the CNIL.
