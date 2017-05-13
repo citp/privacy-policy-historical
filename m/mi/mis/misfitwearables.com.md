@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misfitwearables.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020220149id_/https%3A//misfit.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misfitwearables.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513213043id_/https%3A//misfit.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Misfit
 
