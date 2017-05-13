@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipker.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232807id_/http%3A//www.zipker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipker.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513170630id_/http%3A//www.zipker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,6 +51,8 @@ Web server of Zipker automatically recognizes the following for every user: Brow
 Zipker Online Services Private Limited use cookies to assure zipker.com runs on your computer and you are free to access content available on our website. Cookies never store your credit card information or passwords.
 
 **Advertising**
+
+**Zipker.com has full rights to send promotional SMS to registered users. All users who have registered on Zipker.com might receive promotional SMS at any time.**
 
 For advertising online, we use remarketing with Google. Third party vendors including Google, show you ads available on the internet. Zipker as well as third-party vendors, including Google use first-party cookies (Google Analytics cookie) as well as third-party cookies (Double Click cookie) together to provide information, optimizing, and serving ads that are based on somebody's previous visits to zipker.com.
 
