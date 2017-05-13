@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the placeit.net privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118202735id_/https%3A//blog.placeit.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placeit.net privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513130402id_/https%3A//blog.placeit.net/privacy-policy) for the most accurate reproduction.*
 
-# Placeit Privacy Policy | Placeit Blog
+# Placeit Privacy Policy - Placeit Blog
 
 **Placeit Privacy Policy**
 
