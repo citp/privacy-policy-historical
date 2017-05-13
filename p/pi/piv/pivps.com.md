@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pivps.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108065839id_/http%3A//pivps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pivps.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513020257id_/https%3A//pivps.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Top Windows VPS & Linux VPS Provider
+# Privacy Policy | Cheap Windows VPS & Linux VPS Services
 
 ### Latest news and updates from PiVPS
 
