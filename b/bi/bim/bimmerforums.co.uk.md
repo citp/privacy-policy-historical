@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bimmerforums.co.uk privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125155012id_/http%3A//www.bimmerforums.co.uk/forum/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bimmerforums.co.uk privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513190732id_/http%3A//www.bimmerforums.co.uk/forum/privacy-policy.php) for the most accurate reproduction.*
 
 # BMW Forum|Bimmerforums.co.uk|No1 forum for BMWs|BMW Forums|BMW Tuning Privacy Policy
 
