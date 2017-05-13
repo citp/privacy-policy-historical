@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcpglobal.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128230422id_/http%3A//www.tcpglobal.com/Privacy_TCP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcpglobal.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513074644id_/http%3A//www.tcpglobal.com/Privacy_TCP) for the most accurate reproduction.*
 
 # Privacy
 
