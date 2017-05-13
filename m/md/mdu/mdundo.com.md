@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the mdundo.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206081202id_/http%3A//mdundo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdundo.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513170702id_/http%3A//mdundo.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Mdundo.com
+
+  
+
 
 This privacy policy sets out how Mdundo.com uses and protects any information that you give Mdundo.com when you use this website. 
 
@@ -8,7 +11,13 @@ Mdundo.com is committed to ensuring that your privacy is protected. Should we as
 
 Mdundo.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 27.03.2014 
 
+  
+
+
 ### Content Provider Account
+
+  
+
 
 Access to certain Services is only available to registered users; specifically, Content Uploaders. 
 
@@ -28,7 +37,13 @@ Any attempt to terminate a Content Uploader’s account by means other than thos
 
 Once your account has been terminated, any and all Content residing in your account, or pertaining to activity from your account (for example, data relating to the distribution or consumption of your sounds), will be irretrievably deleted by Mdundo, except to the extent that we are obliged or permitted to retain such content, data or information for a certain period of time in accordance with applicable laws and regulations and/or to protect our legitimate business interests. Mdundo shall not provide you with any file of data relating to activity associated with your account, whether before or after termination. This data is provided and is accessible only for viewing via your account page on the Website for as long as your account is active. 
 
+  
+
+
 ### Customer User Account
+
+  
+
 
 Mdundo collect the following information: - Your name - Your location - Your phone number 
 
@@ -38,11 +53,22 @@ Internal record keeping. -
 Keep you posted on any changes in the Privacy Policy and promotional campaigns for your benefit.  
 We may use the information to improve our products and services, customise the website according to your interests. 
 
+  
+
+
 ### Security 
 
-Mdundo is committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, Mdundo has put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+  
+Mdundo is committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, Mdundo has put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.   
+
+
+  
+
 
 ### Cookies
+
+  
+
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
