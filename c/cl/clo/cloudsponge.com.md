@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudsponge.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807194207id_/http%3A//www.cloudsponge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudsponge.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513072647id_/https%3A//www.cloudsponge.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,9 +40,9 @@ We use this information to operate, maintain, and provide to you the features an
 
       3. _Links_. We may keep track of how you interact with links across our Service, including our email notifications, third-party services, and client applications, by redirecting clicks or through other means. We do this to help improve our Service and to be able to share aggregate click statistics such as how many times a particular link was clicked on, even if it was only clicked on once.
 
-      4. _Third Parties_. We may receive reports from third party analytics providers, which we may combine with the personal data we collect from you directly to provide and improve the Service.. These tools collect information sent by your browser or mobile device, including the pages you visit, your use of third party applications, and other information that assists us in analyzing and improving the Service. We also use advanced analytics service providers, such as Inspectlet and CrazyEgg to analyze how you interact and engage with our Service. The collection and storage of your data by these service providers is governed by their respective privacy policies, which can be accessed here: [Inspectlet Privacy Policy](https://www.inspelect.com/legal#privacy) and [Crazy Egg Privacy Policy](https://www.crazyegg.com/privacy). You can opt out of the collection and storage of your data by either of these companies at any time by using the links below:
+      4. _Third Parties_. We may receive reports from third party analytics providers, which we may combine with the personal data we collect from you directly to provide and improve the Service.. These tools collect information sent by your browser or mobile device, including the pages you visit, your use of third party applications, and other information that assists us in analyzing and improving the Service. We also use advanced analytics service providers, such as Inspectlet and CrazyEgg to analyze how you interact and engage with our Service. The collection and storage of your data by these service providers is governed by their respective privacy policies, which can be accessed here: [Inspectlet Privacy Policy](https://www.inspectlet.com/legal#privacy) and [Crazy Egg Privacy Policy](https://www.crazyegg.com/privacy). You can opt out of the collection and storage of your data by either of these companies at any time by using the links below:
 
-[Opt Out Inspectlet](https://www.inspeclet.com/optout)
+[Opt Out Inspectlet](https://www.inspectlet.com/optout)
 
 [Opt Out CrazyEgg](https://www.crazyegg.com/opt-out)
 
