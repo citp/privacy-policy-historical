@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapaplan.com privacy policy that was archived on 2016-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160711051556id_/http%3A//www.mapaplan.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapaplan.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513034539id_/http%3A//www.mapaplan.com/privacy.htm) for the most accurate reproduction.*
 
 # MapaPlan | Privacy policy
 
