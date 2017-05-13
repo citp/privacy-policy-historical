@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onboardiq.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806114924id_/https%3A//onboardiq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onboardiq.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513194112id_/https%3A//www.onboardiq.com/privacy) for the most accurate reproduction.*
 
 # OnboardIQ
 
@@ -6,117 +6,120 @@
 
 #### Effective Date: October 1, 2014
 
-#### Last Updated Date: August 3, 2015
+#### Last Modified Date: November 10, 2016
 
 * * *
 
-This Privacy Policy is incorporated by reference into the SaaS Services Agreement and [Terms of Use](https://web.archive.org/tos) (the “Terms”). The term “Company,” “we,” and “us” includes OnboardIQ, Inc. and our affiliates and subsidiaries. The Privacy Policy explains how Company may:
+OnboardIQ, Inc. (“OnboardIQ,” “we,” “our,” or “us”) develops applicant tracking and workflow solutions for business Customers (“Customers”), which include tools and functionalities that can be integrated into Customers’ applicant tracking and workflow management systems (our “Service”). OnboardIQ understands that privacy is important to our users. This Privacy Policy explains:
 
-• collect,   
-• use, and   
-• disclose 
+• How OnboardIQ collects, uses, and shares information about visitors to our website and mobile products (“OnboardIQ Sites”), and 
 
-information we obtain through the Service. All other terms not defined herein will have the meanings set forth in the Terms.
+• How OnboardIQ collects, uses and shares information provided to us by or on behalf of our Customer as part of the applicant-tracking and workflow management Service. 
 
-“Personal Information” means information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as: name, address, email address, or phone number. We do not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.
+All capitalized terms that are not defined herein have the definitions given them in our Terms of Service (www.onboardiq.com/tos). By using our Service, you agree to the terms of this Privacy Policy and our Terms of Service (www.onboardiq.com/tos). 
 
-### THE SERVICE COLLECTS YOUR INFORMATION
+* * *
 
-We collect Personal Information when you:   
-• register to use the Service;   
-• use social media features;  
-• use the Service; and  
-• communicate with us.   
-We also collect information, such as anonymous usage statistics, by using cookies, server logs, and other similar technology as you use the Service. 
+####  1\. WHAT INFORMATION DO WE COLLECT AND FOR WHAT PURPOSE? 
 
-Personal Information Collection. You must register to use the Service. To register, you may need to provide Personal Information, such as your name, company name and e-mail address. You may also provide other optional information, such as drivers license number, social security number, birthdate, background checks, qualifications and availability. 
+Information you provide to OnboardIQ Sites. Visitors can browse some areas of our website without providing any personal information. However, certain interactions with us require personal information. For example, we may collect personal information such as a username and password, first and last name, phone number, email address, home address and billing information when you register for a User Account, use our Service, or if you correspond with us. We may also collect additional information you provide to us about your company or employer/workers, which we will consider to be personal information if it is linked to your identifying information. We may combine this information with data we collect from you through other methods, such as telephone conversations.
 
-Using the Service. We collect information you post through the Service. For example, when you interact with other users, the Service will collect the information you provide in such submissions, including any Personal Information. Making Payments. When you make payments through the Service, you may need to provide Personal Information to our third-party service providers, such as your credit card number.
+Information that we collect through the OnboardIQ Service: In providing our service to our Customers, we collect, store, process and disclose personal information belonging to individualworkers who apply to or are employed by our Customers. Our Service is being provided as part of our Customer’s applicant tracking and workflow management systems and we are handling personal information solely on behalf of our Customers and in accordance with our agreements with our Customers. 
 
-Customer Support. We may collect Personal Information through your communications with our customer-support team. Location Information from Your Mobile Device. We may collect and store your location information if you enable your mobile device to send it to us. Collection of this information may improve the provision of the Service.
+If you are interacting with us in the applicant tracking and workflow management context through one of our Customers, please review the Customer’s privacy policy, terms of use, or employment policies to learn more about the Customer’s information practices, including its use of service providers like OnboardIQ. 
 
-Cookies, Automatic Data Collection, and Related Technologies. The Service collects and stores information that is generated automatically as you use it, including your preferences and anonymous usage statistics.
+For your information, here are some examples of how OnboardIQ collects and uses information in the course of providing our Services to our Customers: 
 
-When you visit the Service, we and our third-party service providers receive and record information on our server logs from your browser, including your IP address, and from cookies and similar technology. Cookies are small text files placed in visitors’ computer browsers to store their preferences. Most browsers allow you to block and delete cookies. However, if you do that, the Service may not work properly.
+• We collect information you provide to our Customer through the Service, such as when you submit a job application. Such information could include your name, photo, contact information, and other information typically found on a job application such as your job history, education level, age, specialized skill set, and other information;
 
-By using the Service, you are authorizing us to gather, parse, and retain data related to the provision of the Service.
+• We collect information about you provided by our Customer, which may include your name, job title, contact information, email address, work schedule, and other information; 
 
-### HOW COMPANY USES YOUR INFORMATION
+• We may permit you to provide additional contact and profile information, or to connect your account with your company address book or calendar, or to a third party service such as Facebook, Google or LinkedIn, in which case we may also collect information available through that third party service. Please always check your permissions on third party sites before connecting them to our Service; 
 
-We use Personal Information to   
-• facilitate and improve our services; and  
-• communicate with you.  
-We may use aggregate information for any purpose, including for marketing purposes. 
+• We provide analytics and reporting functionalities to Customers to help manage and analyze work force capabilities and efficiencies; 
 
-Internal and Service-Related Usage. We use information, including Personal Information, for internal and service-related purposes only and may provide it to third parties to allow us to facilitate the Service. We may use and retain any data we collect to provide and improve our services.
+• We may allow you to post messages or other content for other members of the Service and to communicate directly with others through the Service. 
 
-Communications. We may send email to the email address you provide to us to verify your account and for informational and operational purposes, such as account management, customer service, or system maintenance.
+The type of personal information we collect from or about you, and the ways in which such data is shared with other members of the Service will depend on the functionalities and guidelines established by our Customer pursuant to our Agreement with our Customer and the Customer’s settings on the Service.
 
-Marketing. We may use information, including Personal Information, to provide online advertising on the Service and to facilitate transmittal of information that may be useful, relevant, valuable or otherwise of interest to you. Aggregate Data. We may anonymize and aggregate data collected through the Service and use it for any purpose.
+We use this information to operate, maintain, and provide to you the features of the Service. We may use this information to communicate with you, such as to send you email messages, or text messages with your consent, or to permit other users of the Service to send you such messages, and to follow up with you to offer information about our Service and your account. We may also send you Service-related emails or messages (e.g., account verification, transactional communications, change or updates to features of the Service, technical and security notices). For more information about your communication preferences, see “Your Choices Regarding Your Information” below.
 
-### COMPANY MAY DISCLOSE YOUR INFORMATION
+We reserve the right, but have no obligation, to monitor any user-generated content you post on the Service. We reserve the right to remove any such information or material for any reason or no reason, including without limitation if in our sole opinion such information or material violates, or may violate, any applicable law or our Terms of Use Agreement, or to protect or defend our rights or property or those of any third party. We also reserve the right to remove information upon the request of any third party.
 
-We may share your information:  
-• with our third-party service providers;  
-• to comply with legal obligations;  
-• to protect and defend our rights and property; and  
-• with your permission.
+* * *
 
-We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission. 
+####  2\. HOW WE USE COOKIES AND OTHER TRACKING TECHNOLOGY TO COLLECT INFORMATION
 
-We Use Vendors and Service Providers. We may share any information we receive with vendors and service providers retained in connection with the provision of the Service.
+We and our third party partners may automatically collect certain types of usage information when you visit our website or use our Service. For instance, when you visit our websites, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets us help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click, how frequently you access the Service, and other actions you take on the Service), and allow us to track your usage of the Service over time. We may collect log file information about your browser or mobile device each time you access the Service. Log file information may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, information about your mobile device, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information. We may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our Users. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service. We may also collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser or mobile device, including the pages you visit, your use of third party applications, and other information that assists us in analyzing and improving the Service. Although we do our best to honor the privacy preferences of our Users, we are not able to respond to Do Not Track signals from your browser at this time.
 
-Displaying to Other Users. The content you post to the Service may be displayed on the Service. Other users of the Service may be able to see some information about you. We are not responsible for privacy practices of the other users who will view and use the posted information.
+When you access our Service by or through a mobile device, we may receive or collect and store a unique identification numbers associated with your device or our mobile application (including, for example, a UDID, Unique ID for Advertisers (“IDFA”), Google Ad ID, or Windows Advertising ID), mobile carrier, device type, model and manufacturer, mobile device operating system brand and model, phone number, and, depending on your mobile device settings, your geographical location data, including GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device.
 
-Social Networking and Other Websites. The Service may allow you to share information, including Personal Information, with social networking websites, such as Facebook. We do not share your Personal Information with them unless you direct the Service to share it. Their use of the information will be governed by their privacy policies, and you may be able to modify your privacy settings on their websites.
+We may use the data collected through cookies, log file, device identifiers, location data and clear gifs information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information, including advertising; (c) provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, usage, and demographic patterns on our website and our Service; (e) diagnose or fix technology problems; and (f) otherwise to plan for and enhance our Service. 
 
-Search Engines. If you are an applicant, Personal Information, such as your name and skills, may also be accessible via search engines or similar services. You may be able to keep some of your information private by adjusting your privacy settings.
+Third party tracking and online advertising. We may permit third party ad networks, social media companies, and other third party services to collect information about browsing behavior from visitors to our Service through cookies, social plug-ins, or other tracking technology. We may permit third party online advertising networks to collect information about your use of our websites over time so that they may play or display ads that may be relevant to your interests on our Service as well as on other websites or services. Typically, the information is collected through cookies or similar tracking technologies. The only way to completely “opt out” of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device. Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. (To learn more about cookies, clear gifs/web beacons and related technologies and how you may opt-out of some of this tracking, you may wish to visit http://www.allaboutcookies.org and/or the Network Advertising Initiative’s online resources, at http://www.networkadvertising.org). Depending on your mobile device, you may not be able to control tracking technologies through settings.
 
-Marketing. We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission. We may allow access to other data collected by the Service to enable the delivery of online advertising on this website, or otherwise facilitate transmittal of information that may be useful, relevant, valuable or otherwise of interest to you.
+* * *
 
-As Required By Law and Similar Disclosures. We may access, preserve, and disclose your Personal Information, other account information, and content if we believe doing so is required or appropriate to: comply with law enforcement requests and legal process, such as a court order or subpoena; respond to your requests; or protect yours’, ours’ or others’ rights, property, or safety.
+#### 3\. SHARING OF YOUR INFORMATION
 
-Merger, Sale, or Other Asset Transfers. If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, then your information may be sold or transferred as part of such a transaction as permitted by law and/or contract. The use of your Personal Information following any of the foregoing events should be governed by the provisions of this Privacy Policy in effect at the time such Personal Information was collected.
+We may share your personal information in the instances described below. For further information on your choices regarding your information, see the “Your Choices About Your Information” section below. Remember, our Service allows you to connect and interact with others. Your profile information, including your name, photo, and other personal information, may be available publicly to other members of the Service by default. This information may be available to the public and may be searchable by search engines which may display certain parts of your personal information publicly.We may share your personal information with:
 
-We may also disclose your Personal Information with your permission.
+• Other parties you chose to share data with through our Service. This includes your employer or potential employer and any other company or individual you engage with through our Service; 
 
-### SECURITY OF YOUR INFORMATION
+• Other companies owned by or under common ownership as OnboardIQ. These companies will use your personal information in the same way as we can under this policy;
 
-We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. We do not accept liability for unintentional disclosure.
+• Third parties for marketing purposes;
 
-By using the Service or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Service. If we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on the Service or sending an e-mail to you. You may have a legal right to receive this notice in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), please notify us at support@onboardiq.com.
+• Third-party vendors and other service providers that perform services on our behalf, in order to carry out their work for us, which may include billing, payments, service fulfillment, web hosting or providing analytic services. We provide only as much information as is reasonably necessary to perform the Services on our behalf; 
 
-### CHILDREN’S PRIVACY
+• Other parties in connection with a company transaction, such as a merger, sale of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party or in the event of a bankruptcy or related or similar proceedings; and
 
-We do not knowingly collect information from children under 13 and we do not want it. We will take steps to delete it if we learn we have collected it.
+• Third parties as required by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our Terms of Service (www.onboardiq.com/tos) or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of OnboardIQ, our Users, or others.
 
-We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age, and no part of the Service is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, you may alert us at support@onboardiq.com. If we learn that we have collected any Personal Information from children under 13, we will promptly take steps to delete such information and terminate the child’s account.
+As described above, any personal information that we receive or have access to in the course of providing our Service to a Customer, is shared by OnboardIQ solely on behalf of the Customer, and in accordance with our agreements with the Customer, unless you agree to participate in additional services offered by OnboardIQ. Therefore, if you are interacting in the applicant tracking and workflow performance context with one of our Customers, please review the Customer's privacy policy, terms of use, employment policies and procedures or other notices, and the Customer’s settings on the Service to learn more about the Customer's information practices, including the use of service providers like OnboardIQ. 
 
-### INTERNATIONAL USERS
+To the extent that we provide forums, blogs or bulletins that allow you to post user-generated content, such content may become available to the public and to other members of the Service. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other users have copied or saved that information. 
 
-By using the Service, you will transfer data to the United States.
+We may also aggregate or otherwise strip data of all personally identifying characteristics and may share that aggregated or anonymized data with third parties.
 
-By choosing to visit the Service or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the law of the state of California and the adjudication of any disputes arising in connection with Company or the Service will be in accordance with the [Terms of Use](https://web.archive.org/tos).
+* * *
 
-**If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and processing globally. By providing your information you consent to any transfer and processing in accordance with this Policy.**
+#### 4\. YOUR CHOICES ABOUT YOUR INFORMATION
 
-### UPDATE YOUR INFORMATION OR POSE A QUESTION OR SUGGESTION
+How to control your communications preferences: You can stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. You may not opt out of Service-related communications (e.g., account verification, transactional communications, changes/updates to features of the Service, technical and security notices). Please note that other users, such as your employer or potential employer, may contact you through or outside of the Service and OnboardIQ may not be able to control your preferences for those types of communications. 
 
-If you would like to update or correct any information that you have provided to us through your use of the Service or otherwise, or if you have suggestions for improving this Privacy Policy, please send an e-mail to support@onboardiq.com.
+Modifying or deleting your information. We will retain your information for as long as your account is active or as needed to provide you Services. You may view and modify your personal information through your account settings. We may not be able to modify or delete your information in all circumstances. For example, information we collect in the course of providing the Service is shared with our Customer and we do not control access to nor delete that information once it has been shared with our Customer. If you have any questions about reviewing, modifying or deleting your account information, contact us at clients@onboardiq.com. In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why. You can also contact the Customer directly to learn more about how the Customer uses and stores your personal information.
 
-### CHANGES TO OUR PRIVACY POLICY AND PRACTICES
+* * *
 
-We may revise this Privacy Policy, so review it periodically.
+#### 5\. HOW WE STORE AND PROTECT YOUR INFORMATION
 
-Posting of Revised Privacy Policy. We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective when it is posted. If you are concerned about how your information is used, bookmark this page and read this Privacy Policy periodically.
+Storage and processing: Your information collected through the Service may be stored and processed in the United States and in any other country in which OnboardIQ or its subsidiaries, affiliates or service providers maintain facilities. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we will transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which OnboardIQ or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy. If you are a Customer with employees, team members or other end users located in the European Union, you confirm that you have the right to consent to the transfer of end user data to our Service and to facilities located in the United States or in any other country in which OnboardIQ or its service providers maintain facilities. 
 
-New Uses of Personal Information. From time to time, we may desire to use Personal Information for uses not previously disclosed in our Privacy Policy. If our practices change regarding previously collected Personal Information in a way that would be materially less restrictive than stated in the version of this Privacy Policy in effect at the time we collected the information, we will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law.
+Keeping your information safe: OnboardIQ cares about the security of your information, and uses commercially reasonable physical, administrative, and technological safeguards to preserve the integrity and security of all information collected through the Service. However, no security system is impenetrable and we cannot guarantee the security of our systems 100%. In the event that any information under our control is compromised as a result of a breach of security, OnboardIQ will investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
 
-**Contact Information**   
-OnboardIQ, Inc.   
-151 Calderon Avenue 64   
-Mountain View, CA 94041   
-support@onboardiq.com   
+* * *
 
+#### 6\. CHILDREN’S PRIVACY
+
+OnboardIQ does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at clients@onboardiq.com
+
+* * *
+
+#### 7\. LINKS TO OTHER WEB SITES AND SERVICES
+
+Our Service may integrate with or contain links to other third party sites and services. We are not responsible for the practices employed by third party websites or services embedded in, linked to, linked from, or connected with the Service and your interactions with any third-party website or service are subject to that third party’s own rules and policies.
+
+* * *
+
+#### 8\. HOW TO CONTACT US
+
+If you have any questions about this Privacy Policy or the Service, please contact us at clients@onboardiq.com.
+
+* * *
+
+#### 9\. CHANGES TO OUR PRIVACY POLICY
+
+OnboardIQ may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. When we change the policy we will update the ‘last modified’ date at the top of this page.
 
 * * *
