@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gimletmedia.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113195453id_/https%3A//gimletmedia.com/wp-content/uploads/2015/08/gimlet_privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gimletmedia.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513091353id_/https%3A//gimletmedia.com/wp-content/uploads/2015/08/gimlet_privacy_policy.pdf) for the most accurate reproduction.*
 
 # We do not currently collect ﬁnancial information, such as your payment method (valid credit card number, type, expiration date or other ﬁnancial information); that information is collected and stored by our third party payment processing company (the “Payment Processor”), and use and storage of that information is governed by the Payment Processor’s applicable terms of service and privacy policy.
 
