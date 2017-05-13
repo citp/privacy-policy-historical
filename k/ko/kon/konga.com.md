@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the konga.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230010531id_/http%3A//www.konga.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the konga.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514012702id_/http%3A//www.konga.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Konga Nigeria
 
