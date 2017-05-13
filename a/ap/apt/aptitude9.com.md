@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aptitude9.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204150713id_/http%3A//aptitude9.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aptitude9.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513213352id_/http%3A//aptitude9.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
