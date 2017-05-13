@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americangreetings.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125092422id_/http%3A//www.americangreetings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangreetings.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513062708id_/http%3A//www.americangreetings.com/privacy) for the most accurate reproduction.*
 
 # AmericanGreetings.com Privacy Policy
 
@@ -27,7 +27,6 @@ Click on one of the links below to jump directly to the listed section:
   * We do not share your Personal Information with third parties for their marketing purposes without your opt-in consent. However, we may share non-Personal Information with third parties, in our discretion and without restriction. In addition, we may share your information with other companies in the American Greetings family -- the subsidiaries and affiliates of American Greetings, Inc. For more information visit, how and when we disclose information to third parties.
   * The Platforms may contain content served by third parties, and we work with third party service providers to conduct analytics and serve AG advertisements elsewhere online. These third parties may collect certain information about your use of the Platforms or other websites or apps. These third parties may set and access their own tracking devices (including cookies, web beacons, and embedded scripts) and may otherwise collect or have access to information about you and your online activities. Some of these companies are members of the Network Advertising Initiative ("NAI") or the Digital Advertising Alliance ("DAA") Self-Regulatory Program for Online Behavioral Advertising. You may want to visit <http://www.networkadvertising.org/managing/opt_out.asp> or <http://www.aboutads.info/choices/> which provides information regarding targeted advertising and offers an "opt-out" by participating companies. For more information visit, third party analytics and advertising service providers; online tracking.
   * We may offer certain Social Features on or through the Platforms, which may allow you to share information or make certain information public. For more information visit, social & interactive features; public information.
-  * We certify compliance with the US-EU and US-Swiss Safe Harbor Principles in connection with the AG Platforms. For more information visit, Safe Harbor compliance.
 
 
 
@@ -61,12 +60,11 @@ Click on one of the links below to jump directly to the listed section:
   7. YOUR CONTROL OVER YOUR INFORMATION
   8. OTHER MATTERS
     1. Privacy Shield Compliance
-    2. Swiss Safe Harbor Compliance
-    3. Children's Privacy
-    4. Data Security
-    5. Changes to the Privacy Notice
-    6. Consent to Transfer
-    7. California Residents – Your California Privacy Rights
+    2. Children's Privacy
+    3. Data Security
+    4. Changes to the Privacy Notice
+    5. Consent to Transfer
+    6. California Residents – Your California Privacy Rights
   9. CONTACTING US (THE AG COMPANIES)
 
 
@@ -253,37 +251,29 @@ Back to top
 AG will not process Personal Information about EU individuals maintained in reliance on the Privacy Shield for purposes other than those for which the information was originally obtained or subsequently authorized by the EU individual, unless the individual affirmatively and explicitly consents to the processing, or unless an exception applies. Those EU individuals may contact AG at any time to withdraw consent, in which case the person’s Personal Information will not be further processed. EU individuals may also contact AG to opt out of AG sharing Personal Information with most third parties, excluding those necessary for AG processing, as required by law, or as necessary to protect the AG Companies and its users.
 
 Back to top
-    2. ### Swiss Safe Harbor Compliance
-
-AG complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. AG has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit <http://www.export.gov/safeharbor/>
-
-Subject to certain exceptions, upon request and provided you provide us sufficient information to confirm your identity, AG will provide you the Personal Information that AG has collected about you for the purpose of enabling you to correct, amend, or delete any inaccuracies. You may make this request by contacting us. If AG is not able to provide the information that you are requesting within 30 days of receipt of your request, AG will provide you a timeline for providing the requested information. If AG denies access to your Personal Information, AG will explain why access was denied and give you contact information for further inquiries regarding the denial of access.
-
-If you have a complaint regarding our privacy practices that is not resolved after contacting us, AG has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
-
-    3. ### Children's Privacy
+    2. ### Children's Privacy
 
 The Platforms are not intended for children, and AG does not knowingly collect information from persons younger than the age of thirteen (13). If we learn that we have inadvertently collected information from a person younger than the age of 13, we will take commercially reasonable efforts to delete that information from our databases.
 
 Back to top
-    4. ### Data Security
+    3. ### Data Security
 
 We take commercially reasonable steps to help protect and secure the Personal Information submitted to us against unauthorized or illegal access, modification, or destruction. For example, if you enter sensitive information such as a credit card number and CVC2 number on our checkout forms, we or our service partners use transport layer security (TSL) technology to help protect the sensitive information during transmission. However, please note that transmission over the Internet or wireless networks and the electronic storage of information cannot be guaranteed to be 100% secure. Therefore, we cannot ensure or warrant the security of any information we collect. You use our Platforms and provide us with your information at your own risk.
 
 Back to top
-    5. ### Changes to the Privacy Notice
+    4. ### Changes to the Privacy Notice
 
 We may change this Privacy Notice at any time without notice to you. We may also provide notice to you in other ways in our discretion, such as through contact information you have provided. Any changes will be effective immediately upon the posting of the revised Privacy Notice. However, unless you consent, we will not use your Personal Information in a manner materially different than what was stated in our posted Privacy Notice at the time your Personal Information was collected.
 
 As always, if you have any questions, please feel free to contact us through our Customer Support Department or via our Legal Department at [legal@americangreetings.com](mailto:legal@americangreetings.com).
 
 Back to top
-    6. ### Consent to Transfer
+    5. ### Consent to Transfer
 
 Please be aware that information we collect through the Platforms may be transferred to and processed in the United States, where the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen. By using the Platforms or providing us with any information, you acknowledge and consent to the transfer, processing and storage of your information in the United States, or such other countries as AG may choose in its sole discretion.
 
 Back to top
-    7. ### California Residents – Your California Privacy Rights
+    6. ### California Residents – Your California Privacy Rights
 
 California Civil Code section 1798.83 permits California residents to request from AG certain information regarding the disclosure of certain categories of Personal Information to third parties for their direct marketing purposes within the immediately preceding calendar year. A company may also comply with the law by disclosing in its privacy notice that it provides consumers choice (opt-out or opt-in) regarding sharing Personal Information with third parties for those third parties' direct marketing purposes (as AG does), and information on how to exercise that choice.
 
