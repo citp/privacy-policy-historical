@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the lucidpress.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224235734id_/https%3A//lucidpress.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucidpress.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513213901id_/https%3A//www.lucidpress.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lucidpress
 
 _
 
-Updated April 10, 2015
+## Click here for our COPPA Privacy Policy
+
+_ _
+
+Updated March 1, 2017
 
 _
 
@@ -80,5 +84,197 @@ We may change the provisions of this Policy at any time and will indicate when c
 ## Contact Us
 
     * If you have questions or concerns regarding this Policy, please contact Lucid at: [privacy@Lucidpress.com](mailto:privacy@Lucidpress.com) or at 10808 South Riverfront Parkway, Suite 600, South Jordan, UT 84095.
+
+  
+
+
+This COPPA Privacy Policy ("COPPA Policy") is designed to comply with the Children's Online Privacy Protection Act ("COPPA") and contains information about how we collect, use, and disclose the personal information we collect from children under thirteen years old who use our websites, [www.lucidpress.com](http://www.lucidpress.com/) or [www.lucidchart.com](http://www.lucidchart.com/) (the "Sites"), our mobile applications (the "Apps"), and the services available through our Sites and Apps (collectively, the "Lucid Services"). The Lucid Services are Internet websites, applications and other interactive services that are offered by Lucid for use on mobile devices, tablets, personal computers and any other devices that connect to the Internet. This COPPA Policy describes what information the Lucid Services collect from users (see “Information Collection & Use,” below), including children, when they visit the Sites; how such information is used and stored; when such information may be disclosed to third parties; how users, parents, and guardians can control the use and disclosure of collected information; and how information is protected.
+
+Our visitors' privacy is important to us, and we recognize the need to provide additional privacy protection for children on the Sites permitting such visitors. Our privacy practices are guided by the United States' Children's Online Privacy Protection Act of 1998, as well as data privacy laws in the United States and other applicable countries. Younger visitors should always check with their parents or guardians before entering information on any website or mobile application, and we encourage families to discuss their household guidelines regarding the online sharing of personal information.
+
+The Lucid Services are web-based visual communication tools that end users can use to create flowcharts, diagrams, and design materials. To use the Lucid Services, Lucid may need to collect personal information, including from children who are under 13 years old (“Children”), from users of the Lucid Services. For the purposes of this Policy, "Child" or "Children" means a person under 13 years old.
+
+Teacher end users (“Teachers”) and academic institutions with which the Teachers and the Teachers’ students are affiliated (“Schools”) are also responsible for providing parents with notice about how personal information from their Child(ren) is collected and used by us.
+
+Children's personal information will be handled only as described in this COPPA Policy. Any personal information we collect about other users (e.g., Children over 13 years old, Teachers, and parents) will be treated in accordance with the Policy.
+
+  
+
+
+## Who Is Collecting Information About Children
+
+Lucid operates the Lucid Services and will collect Children’s personal information as described in this COPPA Policy. We can be contacted at:
+
+Lucid Software Inc.   
+10808 S. Riverfront Pkwy  
+South Jordan, UT 84095  
+(888) 705-4096  
+support@lucidchart.com 
+
+  
+
+
+## Information Collection and Use
+
+  * We may request or collect certain information when you visit the Sites. However, visitors are required to share only the information that is reasonably necessary to participate in the particular activity. We may collect information about Children directly from Children and/or their Teachers, as well as automatically through a Child's use of our Sites, Apps, and/or Services. 
+
+
+
+
+## Registration information
+
+  * Lucid collects personal information from Children in the form of (1) email address, and (2) password. This information is collected for the purpose of account creation and to enable visitors to log into their accounts and access the Lucid Services. Registration information may be provided by the Child directly or from a Child’s Teacher to create an account. Registration information is used to enable visitors to log into their accounts across different devices and platforms; respond to visitor's requests for products, services, and information; and send communications to users in connection with their account. Certain non-child-directed pages on the Sites may offer visitors opportunities to apply for employment or internship opportunities. In order to submit an application for any one of these opportunities, the applicant may be required to supply other pertinent personal information including, without limitation, full name, postal address, telephone number(s) and email address. Additional personal information and other information may be requested during the application process (but may not be required). 
+
+
+
+
+## Information requested from Teachers
+
+  * Through our Services, Teachers can create assignments and view submitted assignments. By creating assignments, Teachers may require the Child’s personal information to view and assess assignments. Teachers are responsible for ensuring that their collection and use of personal information from Children complies with applicable laws, including COPPA and FERPA. If you are a parent and you have questions about your Child's Teacher's use of the Lucid Services and any information collected, you should discuss your questions with your child's Teacher or school. 
+
+
+
+
+## Requests from Parents
+
+  * Parents can tell us to stop collecting personal information from their Child(ren); however, in such cases, the Child(ren) will not be able to use the Lucid Services, as the email address is necessary to log into Lucid accounts. If you direct us to stop collecting and using your Child's personal information, we must disable his or her use of the Lucid Services to prevent access to the account.
+
+
+
+
+## Information We Collect Automatically
+
+  * We may automatically collect the following information about a Child’s use of the Lucid Services through our servers and in log files: 
+
+    * domain name; browser type and operating system; web pages viewed on the Sites; links clicked; the length of time spent on our Sites or Apps; the length of time the Lucid Services are used; the referring URL, or the webpage that led a user to our Site; language information; device name and model; operating system type, name, and version; IP address, device identifier or a similar unique identifier from users of our Apps and Sites; and activities within our Sites and Apps. 
+
+  * We use this information to analyze trends, administer the Sites, track users’ movements around the Sites, gather demographic information about our user base as a whole, support the internal operations of our Sites and Apps, and better tailor our Services to our users’ needs. Except as noted in this COPPA Policy, we do not link this automatically-collected data to a Child’s personal information.
+
+
+
+* We may also collect information from any mobile devices that a Child uses if the Child has downloaded one or more of our Apps to the device. This information is generally used to help us deliver the most relevant information to the Child. Examples of information that may be collected and used include how the Child uses the App(s) and information about the type of device the Child is using. In addition, in the event our App(s) crash on a mobile device, we will receive information about the mobile device model software version and device carrier, which allows us to identify and fix bugs and otherwise improve the performance of our App(s). This information is sent to us as aggregated information and is not traceable to any individual and cannot be used to identify an individual.
+
+## Use of information
+
+  * We may use the personal information that we collect from Children as follows: to provide the Lucid Services; to respond to support issues and requests; to identify users; to improve the Lucid Services; and to provide a personalized experience to users.
+
+
+
+
+## Use of information in Educational Premium accounts:
+
+  * When information is provided by Teachers or educational institutions in connection with an Educational Premium account, we use the personal information to create an account and to track the number of users on the account for billing purposes. 
+
+
+
+
+## Aggregate or De-Identified Information
+
+  * We do not use information in personally identifiable form for our own commercial purposes. If we analyze or use any activity data for our own commercial purposes, we will de-identify and/or aggregate such information. We may use aggregate or de-identified information about Children for research, analysis, and similar purposes. For use in these purposes, we remove email addresses and other personal identifiers. We may use aggregate or de-identified information to better understand how users access and use the Lucid Services; to improve the Lucid Services; or for other research and analytical purposes.
+
+
+
+
+## Sharing Information
+
+  * We will disclose the personal information that we collect from Children only as described in this COPPA Policy. We may disclose Children’s personal information as follows:
+
+
+
+
+**Parents and Teachers**
+
+  * We will disclose Children’s personal information: (1) to each Child’s individual Teacher(s) and parent(s); and (2) as directed by the Child’s Teacher(s) or educational institution. The Child’s Teacher(s) may share the Child’s completed assignment with other Children in the Child’s class or school and with other Teachers. Parents may request information about the information we have collected from their Child(ren) by contacting us at support@lucidchart.com.
+
+
+
+
+**Third Party Service Providers**
+
+  * We may disclose a Child’s personal information to third-party vendors, service providers, contractors or agents who perform functions on our behalf and/or at the request of a school or district Education Premium customer to: provide the Child and the Child’s Teacher with the Lucid Services that we offer through our Sites and Apps; conduct quality assurance testing; create accounts; provide technical support; and/or provide other services to us. These third party service providers are required not to use personal information other than to provide the services requested by Lucid. We will not disclose Personal Information to third parties for any purposes not described in this COPPA Policy. 
+
+
+
+
+**Business Transfers**
+
+  * In the event that assets relating to Lucid are transferred or sold to another entity as a result of, for example, a corporate sale, merger, consolidation, asset sale, or in the unlikely event of bankruptcy, information collected by Lucid may be transferred to the acquiring company.
+
+
+
+
+**Legal Process and Safety**
+
+  * We may disclose personal information collected from Children to law enforcement, courts of competent jurisdiction, or others when we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, the Privacy Policy, or this COPPA Policy, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of Lucid, its users or the public as required or permitted by law.
+
+
+
+
+**No Disclosure to Third Party Companies for Marketing.**
+
+  * As stated above, we will not disclose personal information that we have collected from Children to any third party company for the third party company’s own direct marketing purposes.
+
+
+
+
+**Consent**
+
+  * We may otherwise disclose your information pursuant to your consent.
+
+
+
+
+## Cookies and Other Tracking Mechanisms
+
+**Cookies**
+
+  * We use cookies to track information about a Child’s use of our Sites, Apps, or Services. “Cookies” are alphanumeric identifiers that we transfer to a computer’s hard drive through a web browser for record-keeping purposes. We may use both session Cookies (which expire once a user closes a web browser) and persistent Cookies (which stay on a computer until a user deletes them). Some Cookies allow us to make it easier for a Child to navigate our Site and Services, while others are used to enable a faster log-in process or to allow us to track a Child’s activities, but only as those activities relate to a Child’s use of our Sites and Service.
+
+
+
+
+**Third-Party Analytics**
+
+  * We may also use third party analytics tools and technologies to track and analyze data from our the Lucid Services. These tools use Cookies to collect information such as how often users visit the Sites, what pages they visit, and what other sites they used prior to coming to the Sites. We use the data collected by such third party analytics tools only to help us administer and improve the quality of the Lucid Services and to analyze Sites and Apps usage. These third parties are not permitted to use the information collected on our behalf, except to help us conduct and improve our business. These services collect the IP address assigned to a user on the date the user visits the Sites, rather than a user’s name or other personally identifying information. These Cookies cannot be used by anyone at the third-party provider other than to provide these services as described.
+
+
+
+
+**Third-Party Links**
+
+  * Teachers may provide Children with links to third-party educational and learning resources located on third party websites. Children may also access image search and links to other websites through the use of the Lucid Services. Any access to and use of such linked websites is not governed by this COPPA Policy, but instead is governed by the privacy policies of those third-party websites. We are not responsible for the information practices of such third-party websites. 
+
+
+  
+
+
+## Your Rights to Review, Delete, and Control Our Use of Children’s Personal Information
+
+  * Parents and Teachers have a right to review the information we have collected about their Child(ren) and students, respectively, and to delete it, and to tell us to stop using it. To exercise these rights, you may contact us at support@lucidchart. You will be required to authenticate yourself as the Child's parent or Teacher to receive information about that Child. Please note that we cannot delete copies of information that a Child's Teacher has already collected and/or copied, and copies of information that you have deleted may remain viewable in cached and archived pages of the Sites or Apps for a period of time.
+
+
+  
+
+
+## Additional Choices Regarding Children’s Personal Information
+
+**Disabling Cookies**
+
+  * Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Visitors to our Sites who disable cookies will be able to browse certain areas of the Site, but some features may not be available to you.
+
+
+
+
+**Applications**
+
+  * You can stop all collection of information by the App(s) by uninstalling the App(s). You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. 
+
+
+  
+
+
+## Changes to this COPPA Policy
+
+  * We reserve the right to revise this COPPA Policy at any time for any reason in our sole discretion by posting an updated Privacy Policy without advance notice to you. Such revisions shall be effective immediately upon posting and if you use the Site after they become effective it will signify your agreement to be bound by the changes. We shall post or display notices of material changes on the Site's homepage or otherwise on the Site and/or e-mail you or notify you upon login about these changes; the form of such notice is at our discretion. However, we encourage you to check this Privacy Policy often for updates.
 
 
