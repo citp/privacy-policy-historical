@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officevibe.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528105848id_/https%3A//www.officevibe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officevibe.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513160002id_/https%3A//www.officevibe.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -44,7 +44,7 @@ In addition to being delicious treats baked fresh by our grandmas, cookies are a
 
 ## Minors on Officevibe
 
-Children below fifteen years of age should not use our website, nor do we have any intention of collecting any personally identifiable information from individuals under thirteen years of age. If you are aware that a child has provided us with personally identifiable information, please [contact us](http://www.officevibe.com/support) and we will remove the information.
+Children below fifteen years of age should not use our website, nor do we have any intention of collecting any personally identifiable information from individuals under thirteen years of age. If you are aware that a child has provided us with personally identifiable information, please [contact us](https://www.officevibe.com/support) and we will remove the information.
 
 ## Updating or Deleting Your Information
 
@@ -76,9 +76,9 @@ Leo the Culturebot is a third party Slack integration. It is not created by, aff
 
 Because Slack is simply a front-end interface for Officevibe, there is no additional information collected by using this integration.
 
-#### Use of Intercom Services:
+#### Use of Hubspot Services:
 
-We use third-party analytics services to help understand your usage of our services. In particular, we provide a limited amount of your information (such as your email address and sign-up date) to Intercom, Inc. (“Intercom”) and utilize Intercom to collect data for analytics purposes when you visit our website or use our product. Intercom analyzes your use of our website and/or product and tracks our relationship so that we can improve our service to you. We may also use Intercom as a medium for communications, either through email, or through messages within our product(s). As part of our service agreements, Intercom collects publicly available contact and social information related to you, such as your email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, to enhance your user experience. For more information on the privacy practices of Intercom, please visit <http://docs.intercom.io/privacy>. Intercom’s services are governed by Intercom’s terms of use which can be found at <http://docs.intercom.io/terms>. If you would like to opt out of having this information collected by or submitted to Intercom, please [contact us](https://www.officevibe.com/support).
+We use third-party analytics services to help understand your usage of our services. In particular, we provide a limited amount of your information (such as your email address and sign-up date) to Hubspot, Inc. (“Hubspot”) and utilize Hubspot to collect data for analytics purposes when you visit our website or use our product. Hubspot analyzes your use of our website and/or product and tracks our relationship so that we can improve our service to you. We may also use Hubspot as a medium for communications, either through email, or through messages within our product(s). As part of our service agreements, Hubspot collects publicly available contact and social information related to you, such as your email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, to enhance your user experience. For more information on the privacy practices of Hubspot, please visit <http://legal.hubspot.com/privacy-policy>. Hubspot’s services are governed by Hubspot’s terms of use which can be found at <http://legal.hubspot.com/terms-of-service>. If you would like to opt out of having this information collected by or submitted to Hubspot, please [contact us](https://www.officevibe.com/support).
 
 ## Questions?
 
