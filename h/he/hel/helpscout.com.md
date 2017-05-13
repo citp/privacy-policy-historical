@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the helpscout.com privacy policy that was archived on 2016-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160224152941id_/https%3A//www.helpscout.net/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpscout.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513175345id_/https%3A//www.helpscout.net/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Help Scout
 
-_Last revised and effective as of: January 12, 2016_
+_Last revised on March 15, 2017, effective as of April 15, 2017_
 
 Your privacy is extremely important to us. To better protect you, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on every page of this website.
 
@@ -21,7 +21,7 @@ As used in this Privacy Policy, the terms "using" and "processing" information i
   * Does this Privacy Policy apply when I link to other websites or services?
   * Is the information collected through the Help Scout Service secure?
   * Could my information be transferred to other countries?
-  * Is Help Scout Safe Harbor Compliant?
+  * Is Help Scout Safe Harbor and Privacy Shield compliant?
   * What choices do I have regarding the collection, disclosure and distribution of personally identifiable information?
   * Can I update or correct my personally identifiable information?
   * How will I know if there are any changes to this Privacy Policy?
@@ -49,7 +49,7 @@ Help Scout will collect End User Customer Data necessary to provide the Help Sco
 
 We may use End User Customer Data to look up and store additional Public Data in order to create a more complete customer profile. "Public Data" is defined as information received from a third party partner named FullContact, a Safe Harbor Certified company. Public Data may be claimed, edited or discarded from their systems by [following this link](http://www.fullcontact.com/privacy/claim) and is subject to their [Privacy Policy](http://www.fullcontact.com/privacy/).
 
-If you would like to opt-out of our collection of End User Customer Data, you can do so by [making a request via email](https://web.archive.org/contact/). To disable this feature, you must be the Account Owner.
+If you would like to opt-out of our collection of End User Customer Data, you can do so by [making a request via email](https://web.archive.org/get-help/#contact-us). To disable this feature, you must be the Account Owner.
 
 Back to top
 
@@ -105,7 +105,11 @@ Except as set forth in this Privacy Policy or the [Help Scout Terms of Service](
 
 #### Laws and Legal Rights
 
-We may disclose your information (including personally identifiable information) if we believe in good faith that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a subpoena, a search warrant, a court or regulatory order, or other valid legal process. We may disclose personally identifiable information in special circumstances when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the [Help Scout Terms of Service](https://web.archive.org/company/terms-of-service/), to detect fraud, or to protect the safety and/or security of our users, the Help Scout Service or the general public.
+We may disclose your information (including personally identifiable information) if we believe in good faith that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a subpoena, a search warrant, a court or regulatory order, or other valid legal process. We may disclose personally identifiable information in special circumstances when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the [Help Scout Terms of Service](https://web.archive.org/company/terms-of-service/), to detect fraud, or to protect the safety and/or security of our users, the Help Scout Service or the general public. Help Scout is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
+
+We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
+
+In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Help Scout is potentially liable.
 
 #### Third Parties Generally
 
@@ -137,7 +141,7 @@ We take precautions to protect the security of your information. We have physica
 
 Help Scout maintains ongoing Level 1 PCI compliance, adhering to stringent industry standards for storing, processing and transmitting credit card information online.
 
-Help Scout also maintains ongoing compliance with the U.S. Health Insurance Portability and Accountability Act (HIPAA) and is able to process, maintain and store protected health information for any entities restricted by these regulations. [On request](https://web.archive.org/contact/), Help Scout will sign a business associate agreement (BAA) with your organization.
+Help Scout also maintains ongoing compliance with the U.S. Health Insurance Portability and Accountability Act (HIPAA) and is able to process, maintain and store protected health information for any entities restricted by these regulations. [On request](https://web.archive.org/get-help/#contact-us), Help Scout will sign a business associate agreement (BAA) with your organization.
 
 For more information about how Help Scout stores and secures customer and company data, please see our [Security Policy](https://web.archive.org/company/security/).
 
@@ -149,25 +153,25 @@ Personally identifiable information collected on the Help Scout Service may be t
 
 Back to top
 
-### Is Help Scout Safe Harbor compliant?
+### Is Help Scout Safe Harbor and Privacy Shield compliant?
 
-_**January 12, 2016**  
-Given the determination of the European Court of Justice that the EU-U.S. Safe Harbor Framework does not provide a valid legal basis for transfers of personal data from Europe to the U.S., Help Scout is making available to its EU users an Agreement including the European Commission’s standard contractual clauses (also referred to as "model clauses"). [Visit this page to sign the Agreement.](https://web.archive.org/company/model-clauses/)_
+_The EU-U.S. Privacy Shield Framework has replaced the EU-U.S. Safe Harbor Framework as of July 12, 2016. The Swiss-U.S. Privacy Shield Framework has replaced the Swiss-U.S. Safe Harbor Framework as of April 12, 2017._
 
-[Help Scout complies](https://safeharbor.export.gov/companyinfo.aspx?id=27340) with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Help Scout has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Help Scout's certification, please visit <http://www.export.gov/safeharbor/>.
+#### EU-U.S. and Swiss-U.S. Privacy Shield Framework
 
-[We self-certify compliance with](https://safeharbor.export.gov/list.aspx)  
-[](http://www.export.gov/safeharbor)
+Help Scout complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union and Switzerland to the United States, respectively. Help Scout has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
 
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Help Scout Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first [contact us via email](https://web.archive.org/contact/).
+In compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Principles, Help Scout commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Help Scout.
 
-We have further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by our team, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+Help Scout has further committed to refer unresolved privacy complaints under the EU-U.S. and Swiss-U.S. Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
+
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
 
 Back to top
 
 ### What choices do I have regarding the collection, disclosure and distribution of personally identifiable information?
 
-Except as otherwise described in this Privacy Policy, we will only use personally identifiable information for the purposes described above or as otherwise disclosed at the time we request such information from you. You must "opt in" and give us permission to use your personally identifiable information for any other purpose. You may also change your preference and "opt out" of receiving certain marketing communications from us by clicking the unsubscribe link included on the bottom of all such communications, or by [contacting us via email](https://web.archive.org/contact/).
+Except as otherwise described in this Privacy Policy, we will only use personally identifiable information for the purposes described above or as otherwise disclosed at the time we request such information from you. You must "opt in" and give us permission to use your personally identifiable information for any other purpose. You may also change your preference and "opt out" of receiving certain marketing communications from us by clicking the unsubscribe link included on the bottom of all such communications, or by [contacting us via email](https://web.archive.org/get-help/#contact-us).
 
 #### Do Not Track
 
@@ -177,7 +181,7 @@ Back to top
 
 ### Can I update or correct my personally identifiable information?
 
-You have the right to request the restriction of certain uses and disclosures of personally identifiable information as follows. You can [contact us](https://web.archive.org/contact/) in order to (1) update or correct your personally identifiable information, (2) change your preferences with respect to communications and other information you receive from us, or (3) delete the personally identifiable information maintained about you on our systems (subject to the following paragraph), by [cancelling your account](http://docs.helpscout.net/article/473-cancel-account). Such updates, corrections, changes and deletions will have no effect on other information that we maintain, or information that we have provided to third parties in accordance with this Privacy Policy prior to such update, correction, change or deletion. To protect your privacy and security, we may take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
+You have the right to request the restriction of certain uses and disclosures of personally identifiable information as follows. You can [contact us](https://web.archive.org/get-help/#contact-us) in order to (1) update or correct your personally identifiable information, (2) change your preferences with respect to communications and other information you receive from us, or (3) delete the personally identifiable information maintained about you on our systems (subject to the following paragraph), by [cancelling your account](http://docs.helpscout.net/article/473-cancel-account). Such updates, corrections, changes and deletions will have no effect on other information that we maintain, or information that we have provided to third parties in accordance with this Privacy Policy prior to such update, correction, change or deletion. To protect your privacy and security, we may take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
 You should be aware that it is not technologically possible to remove each and every record of the information you have provided to us from our system. The need to back up our systems to protect information from inadvertent loss means that a copy of your personally identifiable information may exist in a non-erasable form that will be difficult or impossible for us to locate. We promise that promptly after receiving your request, all personally identifiable information stored in databases we actively use and other readily searchable media will be updated, corrected, changed or deleted, as appropriate, as soon as and to the extent reasonably practicable.
 
@@ -193,7 +197,7 @@ Back to top
 
 If you have any questions or comments about this Privacy Policy or feel that we are not abiding by the terms of this Privacy Policy, please contact our Privacy Agent in any of the following ways:
 
-  * [By email.](https://web.archive.org/contact/)
+  * [By email.](https://web.archive.org/get-help/#contact-us)
   * By postal mail or courier:  
 Attn: Privacy Agent  
 Help Scout Inc.  
