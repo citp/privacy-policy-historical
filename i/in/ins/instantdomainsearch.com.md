@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the instantdomainsearch.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003111id_/https%3A//instantdomainsearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantdomainsearch.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513112709id_/https%3A//instantdomainsearch.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Instant Domain Search
 
 This Privacy Policy describes how we treat personal information when you visit our site and use our products and services. This Privacy Policy applies to all of the products, services and websites (collectively, “Services”) offered by Hartshorne Software, Inc. (“us”, “we”, “our”, “Instant Domain Search” or “Hartshorne Software”), or its subsidiaries or affiliated companies.
 
@@ -8,7 +8,7 @@ This Privacy Policy describes how we treat personal information when you visit o
 
   *  **Information provided:** Most of the personally identifying information we collect is what we ask you to provide us when you sign up for Instant Domain Search (such as your name, email address, account password) or any of our Services that require registration. We may combine the information you submit under your account with information from other Services or third parties in order to provide you with a better experience and to improve the quality of our services.
 
-  *  **Cookies:** As you browse Hartshorne Software’s website, cookies will be placed on your computer so that we can understand what you are interested in. Google Analytics will place a cookie on your computer to see how you use the site over time. Our affiliate partners, Conversant, Inc. and SHAREASALE.COM, INC., will use cookies to track purchases made when you click on any link or press enter or return and make a purchase at one of our partners.
+  *  **Cookies:** As you browse Hartshorne Software’s website, cookies will be placed on your computer so that we can understand what you are interested in. Google Analytics will place a cookie on your computer to see how you use the site over time. Our affiliate partner, Conversant, LLC., will use cookies to track purchases made when you click on any link or press enter or return and make a purchase at one of our partners.
 
   *  **Log information:** When you access our Services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
 
