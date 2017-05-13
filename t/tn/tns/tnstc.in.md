@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tnstc.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119032451id_/http%3A//www.tnstc.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnstc.in privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514010957id_/http%3A//www.tnstc.in/privacy.html) for the most accurate reproduction.*
 
 # :: SETC ::
 
