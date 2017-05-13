@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the code4startup.com privacy policy that was archived on 2015-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150715104047id_/https%3A//code4startup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the code4startup.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513020049id_/https%3A//code4startup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Code4Startup
 
@@ -28,3 +28,9 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+
+[](https://web.archive.org/)
+
+© 2015 - 2017 Code4Startup, All Rights Reserved.
+
+Contact us at **[leo@code4startup.com](mailto:leo@code4startup.com?Subject=Support)**
