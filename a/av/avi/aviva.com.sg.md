@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aviva.com.sg privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120220018id_/http%3A//www.aviva.com.sg/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviva.com.sg privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513144235id_/http%3A//www.aviva.com.sg/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Aviva Singapore
 
