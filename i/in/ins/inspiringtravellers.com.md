@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiringtravellers.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219212512id_/http%3A//inspiringtravellers.com/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiringtravellers.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513232417id_/http%3A//inspiringtravellers.com/terms-and-conditions) for the most accurate reproduction.*
 
 # Terms and Conditions / Privacy Policy | InspiringTravellers.com
 
@@ -6,7 +6,7 @@
 
 Welcome to our website. **If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use** , which together with our privacy policy govern InspiringTravellers.com's relationship with you in relation to this website. The term 'InspiringTravellers.com' or 'us' or 'we' refers to the owner of the website. The term 'you' refers to the user or viewer of our website.
 
-### **All content, photos and images on InspiringTravellers.com are copyright and the property of[Geert Leysen](http://about.me/gleysen)**. Their use is strictly prohibited unless a payment arrangement has been made with us. Should you wish to purchase a high-resolution image or smaller file sizes for editorial or commercial use, you must contact us via email: info [AT] inspiringtravellers [DOT] com
+###  **All content, photos and images on InspiringTravellers.com are copyright and the property of[Geert Leysen](http://about.me/gleysen)**. Their use is strictly prohibited unless a payment arrangement has been made with us. Should you wish to purchase a high-resolution image or smaller file sizes for editorial or commercial use, you must contact us via email: info [AT] inspiringtravellers [DOT] com
 
 ## The use of this website is subject to the following terms of use:
 
@@ -87,4 +87,4 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you. If you would like a copy of the information held on you please write to info AT inspiringtravellers DOT com If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible. We will promptly correct any information found to be incorrect.
 
-_Updated 18  October 2014_
+ _Updated 18  October 2014_
