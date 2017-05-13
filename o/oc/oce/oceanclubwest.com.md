@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oceanclubwest.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514003030id_/http%3A//oceanclubresorts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceanclubwest.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513224237id_/http%3A//www.oceanclubresorts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Ocean Club Resorts
+# Privacy Policy - Ocean Club Resorts - Turks and Caicos
 
 Privacy Policy
 
