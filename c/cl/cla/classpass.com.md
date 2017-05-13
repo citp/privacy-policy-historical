@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the classpass.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413175248id_/https%3A//classpass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classpass.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513142454id_/https%3A//classpass.com/privacy) for the most accurate reproduction.*
 
-# ClassPass | Privacy
+# ClassPass | Privacy Policy
 
 The ClassPass website and mobile applications (the “Site”) are operated by ClassPass Inc. ClassPass is committed to respecting and protecting your privacy. To that end, we have prepared this privacy policy (“Privacy Policy”) to describe our information gathering and dissemination practices and our data protection practices for the Site. Please read this policy carefully so that you understand our privacy practices. If you do not agree to this Privacy Policy, do not use the Site or give us any of your information. The terms “ClassPass,” “we,” “us,” and “our” refer to ClassPass Inc. and its subsidiaries and affiliates. The terms “you,” “your,” and “yours” refer to the user/customer utilizing the Site. This Privacy Policy is governed by our Terms of Use.
 
@@ -52,7 +52,7 @@ We will give you the opportunity to “opt out” of receiving direct marketing 
 
 ## ACCESS
 
-You may correct, amend, or delete your Personally Identifiable Information by editing your profile on the Site or emailing us at [info@classpass.com](mailto:info@classpass.com).
+You may correct, amend, or delete your Personally Identifiable Information by editing your profile on the Site or [contacting us](https://web.archive.org/contact).
 
 ## SECURITY
 
@@ -94,4 +94,4 @@ Greeley Sq Station
 New York, NY 10001  
 Email: [info@classpass.com](mailto:info@classpass.com)
 
-**Last updated:** June 25, 2015
+ **Last updated:** June 25, 2015
