@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contexteditor.org privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129215705id_/http%3A//www.contexteditor.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contexteditor.org privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513061904id_/http%3A//www.contexteditor.org/privacy) for the most accurate reproduction.*
 
 # Text Editor Privacy Policy
 
