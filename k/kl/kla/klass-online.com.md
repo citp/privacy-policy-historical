@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klass-online.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324055009id_/http%3A//www.gizzmoheaven.com/Privacy-Cookies/h40/Help.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klass-online.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513130452id_/http%3A//www.gizzmoheaven.com/Privacy-Cookies/h40/Help.html) for the most accurate reproduction.*
 
 # Gizzmoheaven - Phone Accessories HDMI USB Cables Earphones - Free Delivery
 
@@ -110,7 +110,7 @@ You also have the right to ask us to stop processing your personal data for dire
 
  **Our contact details**
 
-We welcome your feedback and questions. If you wish to contact us, please send an email to help@gizzmoheaven.com or you can write to us at Customer Services, Klass On-Line Limited, Beaupre, La Grande Route de St. Jean, St. John or call us on +44 (0) 1534 861619. Our registered office is Beachside Business Centre, Rue du Hocq, St Clement, Jersey, JE2 6LF, Channel Islands.
+We welcome your feedback and questions. If you wish to contact us, please send an email to help@gizzmoheaven.com or you can write to us at Customer Services, Klass On-Line Limited, Beaupre, La Grande Route de St. Jean, St. John or call us on +44 (0) 1534 861619. Our registered office is GS Group, Beauport House, L’Avenue de la Commune, St Peter, Jersey JE3 7BY.
 
 We may change this privacy policy from time to time. You should check this policy occasionally to ensure you are aware of the most recent version that will apply each time you access this website.
 
