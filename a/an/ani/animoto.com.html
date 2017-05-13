@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the animoto.com privacy policy that was archived on 2016-10-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161018000405id_/https%3A//animoto.com/legal/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the animoto.com privacy policy that was archived on 2017-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170513131831id_/https%3A//animoto.com/legal/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js fonts-loading"><!--<![endif]--><head>
     <link rel="dns-prefetch" href="//d14pr3cu5atb0x.cloudfront.net">
 <link rel="dns-prefetch" href="//d2r6q1p754p9pi.cloudfront.net">
 <link rel="dns-prefetch" href="//d2yc83ilop69kq.cloudfront.net">
 
-    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-RZK8"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/font_face_observer-eaabd986c3.js" type="text/javascript" async=""></script><script>
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-RZK8"></script><script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/font_face_observer-94790a4cc0.js" type="text/javascript" async=""></script><script>
       (function() {
   var html = document.documentElement,
       wf,
@@ -18,7 +18,7 @@
   }
 
   wf = document.createElement('script');
-  wf.src = '//d14pr3cu5atb0x.cloudfront.net/pkg/js/font_face_observer-eaabd986c3.js';
+  wf.src = '//d14pr3cu5atb0x.cloudfront.net/pkg/js/font_face_observer-94790a4cc0.js';
   wf.type = 'text/javascript';
   wf.async = 'true';
   s = document.getElementsByTagName('script')[0];
@@ -60,7 +60,7 @@ var AS_HEADERS = {
   'Content-Type': 'application/vnd.animoto-v4+json',
   'Accept'      : 'application/vnd.animoto-v4+json'
 };
-var client_token = '0a70addc102087cd18e51f018db8dc0531f71807d27f58a5f188a73f04218c43';
+var client_token = 'a3962bce64ff3933e62d0277c6d92f0d64b8ee951e780f812abf15861f3fe1da';
 
         var optimizelyRedirect = function(url) {
         if(!url) {
@@ -109,30 +109,23 @@ var client_token = '0a70addc102087cd18e51f018db8dc0531f71807d27f58a5f188a73f0421
         }
 
         return cookieValue;
+      },
+      getBeaconURL = function() {
+        return 'https://report.animoto.com/beacon';
       };
 
-
-  var animotoGAProfiles = {
-    'default'      : {
-      'account'    : 'UA-1450253-1',
-      'ua_account' : 'UA-1450253-19'
-    },
-    'media_player' : {
-      'account'    : 'UA-1450253-16',
-      'ua_account' : 'UA-1450253-20'
-    }
-  };
-
   utm = [];
-  dataLayer = [];
+  dataLayer = window.dataLayer || [];
   dataLayer.push({
+    'cookie_domain'    : '.animoto.com',
     'customerSegment' : 'visitor',
     'user_plan'       : 'visitor',
     'user_segment'    : 'Unknown',
     'user_id'         : '',
     'user_name'       : '',
     'user_email'      : '',
-    'ua_profile'      : animotoGAProfiles['default']['ua_account'],
+    'ua_profile'      : 'UA-1450253-19',
+    'classic_profile' : 'UA-1450253-1',
     'dimension1'      : 'visitor:none:none:' + parseFloat(window.devicePixelRatio).toFixed(2) + 'x',
     'dimension2'      : '',
     'dimension4'      : 'x:x',
@@ -140,31 +133,13 @@ var client_token = '0a70addc102087cd18e51f018db8dc0531f71807d27f58a5f188a73f0421
     'env': 'production'
   });
 
-  var _gaq = _gaq || [],
-    useGALogging = false,
-    trackInitialVariable = function(obj) {
-        if (useGALogging && typeof _gaq.length !== "undefined" && typeof console !== "undefined") {
-          console.info("GA: " + obj);
-        }
-        _gaq.push(obj);
-      };
 
-
-  trackInitialVariable(['_setAccount',animotoGAProfiles['default']['account']]);
-  trackInitialVariable(['_setDomainName','.animoto.com']);
-  trackInitialVariable(['_initData']);
-  trackInitialVariable(['_setSiteSpeedSampleRate', 10]);
   if(window.localStorage && window.localStorage.referrer) {
-    trackInitialVariable(['_setReferrerOverride', window.localStorage.referrer]);
     dataLayer.push({
       referrer_override: window.localStorage.referrer
     });
     delete window.localStorage.referrer;
   }
-  trackInitialVariable(['_setCustomVar', 1, 'Account', 'visitor:none:none:' + parseFloat(window.devicePixelRatio).toFixed(2) + 'x']);
-
-  trackInitialVariable(['_setCustomVar', 4, 'FB Connect/Signup', 'x:x']);
-  trackInitialVariable(['_setCustomVar', 2, 'Demographic', '']);
   window.optimizely = window.optimizely || [];
   window.optimizely.push(['setCookieDomain', 'animoto.com'])
   window.optimizely.push(['customTag', {'customer_type': 'visitor'}]);
@@ -175,64 +150,56 @@ var client_token = '0a70addc102087cd18e51f018db8dc0531f71807d27f58a5f188a73f0421
   var optimizelySettings = optimizelySettings || {};
 
   optimizelySettings.user = {
-    new_user              : false,
+    new_user              : true,
     logged_in             : false,
     is_first_purchase     : false,
     has_vault_account     : false,
     vault_account_country : '',
-    builderable           : false
+    has_facebook_profile  : false
   }
 
   if (optimizelySettings.user.is_first_purchase) {
     window.optimizely.push(['trackEvent', 'subscribed']);
   }
-
 </script>
 <script src="//cdn.optimizely.com/js/42806793.js"></script>
-<script type="text/javascript">
-  trackInitialVariable(['_trackPageview']);
-
-  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-
+<script>
 
     </script>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="shortcut icon" href="//d2r6q1p754p9pi.cloudfront.net/images/icons/favicon-c480d3e884.ico">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//d2yc83ilop69kq.cloudfront.net/images/icons/touchicon-144-4a42d97241.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//d2yc83ilop69kq.cloudfront.net/images/icons/touchicon-114-fb592c00d7.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//d2yc83ilop69kq.cloudfront.net/images/icons/touchicon-72-d0854f51a6.png">
-    <link rel="apple-touch-icon-precomposed" href="//d2yc83ilop69kq.cloudfront.net/images/icons/touchicon-57-40d80126a6.png">
-    <meta name="apple-itunes-app" content="app-id=459248037" affiliate-data="partnerId=30&amp;siteId=0alxMR3GijA">
-      <link rel="stylesheet" media="screen" href="https://d1kjm29x4mml1x.cloudfront.net/cms-css/2/base/1452809072.css">
-    <meta name="description" content="Animoto turns your photos and video clips into professional video slideshows in minutes. Fast, free and shockingly simple - we make awesome easy.">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta property="og:title" content="">
-    <meta property="og:description" content="">
-    <meta property="og:type" content="website">
-    <meta property="og:image" content="image_url('/images/icons/touchicon-144.png')">
-    <meta property="og:site_name" content="Animoto">
-    <meta property="og:url" content="https://animoto.com/legal/privacy_policy">
-    <title>Animoto - Privacy Policy</title>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <link rel="shortcut icon" href="//d14pr3cu5atb0x.cloudfront.net/images/icons/favicon-c480d3e884.ico">
+      <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//d14pr3cu5atb0x.cloudfront.net/images/icons/touchicon-144-4a42d97241.png">
+      <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//d14pr3cu5atb0x.cloudfront.net/images/icons/touchicon-114-fb592c00d7.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//d14pr3cu5atb0x.cloudfront.net/images/icons/touchicon-72-d0854f51a6.png">
+      <link rel="apple-touch-icon-precomposed" href="//d14pr3cu5atb0x.cloudfront.net/images/icons/touchicon-57-40d80126a6.png">
+      <meta name="apple-itunes-app" content="app-id=459248037" affiliate-data="partnerId=30&amp;siteId=0alxMR3GijA">
+        <link rel="stylesheet" media="screen" href="https://d1kjm29x4mml1x.cloudfront.net/cms-css/2/base/1477509042.css">
+      <meta name="description" content="Animoto turns your photos and video clips into professional video slideshows in minutes. Fast, free and shockingly simple - we make awesome easy.">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta property="og:title" content="Animoto - Privacy Policy">
+      <meta property="og:description" content="Animoto turns your photos and video clips into professional video slideshows in minutes. Fast, free and shockingly simple - we make awesome easy.">
+      <meta property="og:type" content="website">
+      <meta property="og:image" content="image_url('/images/icons/touchicon-144.png')">
+      <meta property="og:site_name" content="Animoto">
+      <meta property="og:url" content="https://animoto.com/legal/privacy_policy">
+      <title>Animoto - Privacy Policy</title>
 
+        <link rel="stylesheet" media="screen" href="//d14pr3cu5atb0x.cloudfront.net/pkg/css/chimera-bbe35021c5.css">
+        <link rel="stylesheet" media="screen" href="//d14pr3cu5atb0x.cloudfront.net/pkg/css/icons-e497e6180e.css">
+        <link rel="stylesheet" media="screen" href="//d14pr3cu5atb0x.cloudfront.net/pkg/css/marketing-e3432d5d85.css">
+        <link rel="stylesheet" media="screen" href="//d14pr3cu5atb0x.cloudfront.net/pkg/css/webfont-e7d28416f2.css">
+
+      
+      
+        <link href="https://animoto.com/legal/privacy_policy" rel="canonical">
     <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="KbCK9umq0Vc6wYfhuhmr9IzBY3kGy75RldxQ/JgVC21aWD/amof70JV10tv0B51Vv5/E7LGvBc9etVGN8STCEA==">
+<meta name="csrf-token" content="rRHju+P/DuUpLKdVsbJhSCeManxPFx9Zzdv57FS3Pn7cs0Ed+XsHD/8iW8MnVbzZlAG7VDJIxQomvRGxOyPMYQ==">
     <script>
 //<![CDATA[
-var AUTH_TOKEN = "zCYOPT9ImnxZLzE4SkO0zsPtWkPpTZLMrNXe2gUl42a/zrsRTGWw+/abZAIEXYJv8LP91l4pKVJnvN+rbBQqGw==";
+var AUTH_TOKEN = "o+O0R4jkEUJ67qpqj6gL56hbcAiTpgMOVGUieFBlYyHSQRbhkmAYqKzgVvwZT9Z2G9ahIO752V2/A8olP/GRPg==";
 //]]>
 </script>
-
-    <link rel="stylesheet" media="screen" href="//d14pr3cu5atb0x.cloudfront.net/pkg/css/chimera-4f9577deec.css">
-    <link rel="stylesheet" media="screen" href="//d14pr3cu5atb0x.cloudfront.net/pkg/css/icons-cdd41fc17e.css">
-    <link rel="stylesheet" media="screen" href="//d14pr3cu5atb0x.cloudfront.net/pkg/css/marketing-a83fe7cdef.css">
-    <link rel="stylesheet" media="screen" href="//d14pr3cu5atb0x.cloudfront.net/pkg/css/webfont-e7d28416f2.css">
-    
-    
-    <script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/modernizr-ee2ce69250.js" crossorigin="anonymous"></script>
-      <link href="https://animoto.com/legal/privacy_policy" rel="canonical">
   </head>
   <body class="page fb-no-session white-background" id="">
     <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-RZK8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -248,14 +215,15 @@ var AUTH_TOKEN = "zCYOPT9ImnxZLzE4SkO0zsPtWkPpTZLMrNXe2gUl42a/zrsRTGWw+/abZAIEXY
         <div class="gh-nav col-sm-6 col-md-9">
           <!--  desktop/landscape tablet nav -->
           <div class="hide-when-sm desktop-nav">
-            <ul class="body-text-sm label list-style-none grey-links gh-list">
-                <li class="gh-list-item"><a class="gh-link" href="/personal">Family</a></li>
-                <li class="gh-list-item"><a class="gh-link" href="/photography">Photography</a></li>
-                <li class="gh-list-item"><a class="gh-link" href="/business">Business</a></li>
-                <li class="gh-list-item"><a class="gh-link" href="/pricing">Pricing</a></li>
+            <ul class="body-text-sm label list-style-none gh-list">
+                <li class="gh-list-item hide-when-md"><a class="gh-link blue-link" href="/go/mothers-day-2017">Mother's Day</a></li>
+                <li class="gh-list-item"><a class="gh-link grey-link" href="/personal">Family</a></li>
+                <li class="gh-list-item"><a class="gh-link grey-link" href="/photography">Photography</a></li>
+                <li class="gh-list-item"><a class="gh-link grey-link" href="/business">Business</a></li>
+                <li class="gh-list-item"><a class="gh-link grey-link" href="/pricing">Pricing</a></li>
               <!-- login button -->
-                <li class="gh-list-item"><a class="gh-link" href="/sign_up">sign up</a></li>
-                <li class="gh-list-item"><a class="gh-link" href="/log_in">log in</a></li>
+                <li class="gh-list-item"><a class="gh-link grey-link" href="/sign_up">sign up</a></li>
+                <li class="gh-list-item"><a class="gh-link grey-link" href="/log_in">log in</a></li>
             </ul>
           </div>
           <!-- hamburger nav icon to open mobile nav -->
@@ -268,32 +236,33 @@ var AUTH_TOKEN = "zCYOPT9ImnxZLzE4SkO0zsPtWkPpTZLMrNXe2gUl42a/zrsRTGWw+/abZAIEXY
   <!-- mobile nav -->
   <div class="gh-mobile hide-when-desktop row">
     <div class="js-dropdownContent gh-menu-content">
-      <ul class="list-style-none grey-links">
-        <li class="gh-list-item"><a href="/personal" class="label gh-link">family</a></li>
+      <ul class="list-style-none">
+        <li class="gh-list-item"><a class="label gh-link blue-link" href="/go/mothers-day-2017">Mother's Day</a></li>
+        <li class="gh-list-item"><a href="/personal" class="label gh-link grey-link">family</a></li>
         <li class="gh-list-item">
-          <a href="/photography" class="label js-dropdownSubControl gh-menu-sub-control caret-wrapper gh-link">photography<span class="caret gh-mobile-caret pull-right"></span></a>
+          <a href="/photography" class="label js-dropdownSubControl gh-menu-sub-control caret-wrapper gh-link grey-link">photography<span class="caret gh-mobile-caret pull-right"></span></a>
           <ul class="list-style-none js-dropdownSubContent gh-menu-sub-content body-text-md">
-            <li class="gh-list-item"><a href="/photography" class="gh-link gh-deep-links">overview</a></li>
-            <li class="gh-list-item"><a href="/photography/success-stories" class="gh-link gh-deep-links">success stories</a></li>
-            <li class="gh-list-item"><a href="/photography/features" class="gh-link gh-deep-links">features</a></li>
-            <li><a href="/photography/exclusive-styles" class="gh-link gh-deep-links">photo-exclusive styles</a></li>
+            <li class="gh-list-item"><a href="/photography" class="gh-link grey-link gh-deep-links">overview</a></li>
+            <li class="gh-list-item"><a href="/photography/success-stories" class="gh-link grey-link gh-deep-links">success stories</a></li>
+            <li class="gh-list-item"><a href="/photography/features" class="gh-link grey-link gh-deep-links">features</a></li>
+            <li><a href="/photography/exclusive-styles" class="gh-link grey-link gh-deep-links">photo-exclusive styles</a></li>
           </ul>
         </li>
         <li class="gh-list-item">
-          <a href="/business" class="label js-dropdownSubControl gh-menu-sub-control caret-wrapper gh-link">business<span class="caret gh-mobile-caret pull-right"></span></a>
+          <a href="/business" class="label js-dropdownSubControl gh-menu-sub-control caret-wrapper gh-link grey-link">business<span class="caret gh-mobile-caret pull-right"></span></a>
           <ul class="list-style-none js-dropdownSubContent body-text-md gh-menu-sub-content">
-            <li class="gh-list-item"><a href="/business" class="gh-link gh-deep-links">overview</a></li>
-            <li class="gh-list-item"><a href="/business/success-stories" class="gh-link gh-deep-links">success stories</a></li>
-            <li class="gh-list-item"><a href="/pricing" class="gh-link gh-deep-links">pricing</a></li>
+            <li class="gh-list-item"><a href="/business" class="gh-link grey-link gh-deep-links">overview</a></li>
+            <li class="gh-list-item"><a href="/business/success-stories" class="gh-link grey-link gh-deep-links">success stories</a></li>
+            <li class="gh-list-item"><a href="/pricing" class="gh-link grey-link gh-deep-links">pricing</a></li>
           </ul>
         </li>
-        <li class="gh-list-item"><a href="/pricing" class="gh-link label">pricing</a></li>
+        <li class="gh-list-item"><a href="/pricing" class="gh-link grey-link label">pricing</a></li>
 
         <li class="gh-list-item">
-          <a href="/apps" class="label track-homepage-mobile-nav-download gh-link">download app</a>
+          <a href="/apps" class="label track-homepage-mobile-nav-download gh-link grey-link">download app</a>
         </li>
-        <li class="gh-list-item"><a href="/sign_up" class="label gh-link">start trial</a></li>
-        <li class="gh-list-item"><a href="/log_in" class="label gh-link">log in</a></li>
+        <li class="gh-list-item"><a href="/sign_up" class="label gh-link grey-link">start trial</a></li>
+        <li class="gh-list-item"><a href="/log_in" class="label gh-link grey-link">log in</a></li>
       </ul>
     </div>
   </div>
@@ -302,28 +271,22 @@ var AUTH_TOKEN = "zCYOPT9ImnxZLzE4SkO0zsPtWkPpTZLMrNXe2gUl42a/zrsRTGWw+/abZAIEXY
     <div id="notifications" class="notifications">
 </div>
 
-
         
 
 
 
 
-<style>
-	h1 {
-		margin-top: 40px;
-	}
 
-	.plain-copy {
-		margin-bottom: 40px;
-	}
-</style>
-
-<div class="plain-copy ">
-<div class="container ">
-	<div class="row">
-		<div class="col-sm-12 col-md-offset-2 col-md-8">
-				<h1>Privacy Policy</h1>
-			<h2>1. Acknowledgement and acceptance of terms</h2>
+<div class="plain-copy margin-bottom-5 ">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 col-md-7">
+          <h1 class="margin-top-5">Privacy Policy</h1>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12 col-md-7">
+        <h2>1. Acknowledgement and acceptance of terms</h2>
   <p>
     Animoto Inc (henceforward “Animoto”) values the protection of your privacy. This Privacy Policy sets forth our current privacy practices with regard to the personally identifiable information we collect and use  when you or your computer interact with our website. This Privacy Policy applies to www.animoto.com as well as Animoto's application, widget or gadget for mobile devices (such as iPhone) and social networks (including but not limited to Facebook Platform or Google OpenSocial) (each, a "Site"). The Site is not directed to children.
   </p>
@@ -336,6 +299,8 @@ var AUTH_TOKEN = "zCYOPT9ImnxZLzE4SkO0zsPtWkPpTZLMrNXe2gUl42a/zrsRTGWw+/abZAIEXY
   <p>
     If you do not agree to these terms, please do not access or use this site.
   </p>
+
+<div><a href="//privacy.truste.com/privacy-seal/validation?rid=5861d98f-9f02-479c-bd0c-ca2e2074e3ce" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=5861d98f-9f02-479c-bd0c-ca2e2074e3ce" alt="TRUSTe"></a></div>
 
   <h2>2. Participating Third Party Policies</h2>
   <p>
@@ -450,21 +415,39 @@ var AUTH_TOKEN = "zCYOPT9ImnxZLzE4SkO0zsPtWkPpTZLMrNXe2gUl42a/zrsRTGWw+/abZAIEXY
     </span>
   </p>
 
-  <p><strong>This document was last updated on May 11, 2016.</strong></p>
-		</div>
-	</div>
+  <p><strong>This document was last updated on October 6, 2016.</strong></p>
+  
+      </div>
+      <div class="col-sm-12 col-md-offset-1 col-md-4">
+        <h2 class="h4 label margin-top-2">Terms &amp; Policies</h2>
+        <ul class="list-style-none">
+          <li class="margin-bottom-1">
+            <a href="/legal/terms" class="blue-link">Terms of Service</a>
+          </li>
+          <li class="margin-bottom-1">
+            <a href="/legal/education_terms" class="blue-link">Education Terms</a>
+          </li>
+          <li class="margin-bottom-1">
+            <a href="/legal/music_terms" class="blue-link">Music Terms</a>
+          </li>
+          <li class="margin-bottom-1">
+            <a href="/legal/referral_terms" class="blue-link">Referral Terms</a>
+          </li>
+          <li class="margin-bottom-1">
+            <a href="/legal/upload_terms" class="blue-link">Upload Terms</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </div>
-</div>
-
-
       <div class="footer">
     <div class="container">
       <div class="row">
         <ul class="f-list grey-links col-md-2">
           <li class="label body-text margin-bottom-1">Support</li>
           <li class="margin-bottom-1"><a href="https://help.animoto.com">Help</a></li>
-          <li class="hide-when-sm margin-bottom-1"><a href="/affiliates">Affiliates</a></li> <!-- mobile-->
-          <li class="hide-when-sm margin-bottom-1"><a href="/developer">Developers</a></li><!-- mobile-->
+          <li class="hide-when-sm margin-bottom-1"><a href="/affiliates">Affiliates</a></li>
           <li class="margin-bottom-1"><a href="/legal/terms">Terms of Use</a></li>
           <li class="margin-bottom-1"><a href="/legal/privacy_policy">Privacy Policy</a></li>
         </ul>
@@ -483,7 +466,7 @@ var AUTH_TOKEN = "zCYOPT9ImnxZLzE4SkO0zsPtWkPpTZLMrNXe2gUl42a/zrsRTGWw+/abZAIEXY
           <li class="margin-bottom-1"><a href="/apps/mobile/android">Android</a></li>
           <li class="margin-bottom-1"><a href="/apps/mobile/plugins">Plug-ins</a></li>
         </ul>
-        <ul class="f-list grey-links col-md-2 hide-when-sm">
+        <ul class="f-list grey-links col-md-2">
           <li class="label body-text margin-bottom-1">About</li>
           <li class="margin-bottom-1"><a href="/about">Our Story</a></li>
           <li class="margin-bottom-1"><a href="/about/press">Press</a></li>
@@ -508,21 +491,22 @@ var AUTH_TOKEN = "zCYOPT9ImnxZLzE4SkO0zsPtWkPpTZLMrNXe2gUl42a/zrsRTGWw+/abZAIEXY
     </div>
     <div class="f-legal">
       <div class="logo logo-outline disable-hover"></div>
-      <p class="f-legal-copy">© 2016 Animoto Inc. All Rights Reserved.</p>
+      <p class="f-legal-copy">© 2017 Animoto Inc. All Rights Reserved.</p>
     </div>
   </div>
 
     <div id="fb-root"></div>
     
     
-    <script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/picturefill-a547d42c78.js" crossorigin="anonymous"></script>
-    <script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/vendor-76cc782f4a.js" crossorigin="anonymous"></script>
+    <script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/modernizr-6d7282e373.js" crossorigin="anonymous"></script>
+    <script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/picturefill-16df5af9c6.js" crossorigin="anonymous"></script>
+    <script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/vendor-5676c73b3e.js" crossorigin="anonymous"></script>
     
 <script src="https://cdn.ravenjs.com/3.7.0/raven.min.js"></script>
 
 <script>
   var ravenOptions = {
-    release : '8e0b84b444b51472cdaf9eba2a5b295842e5d428',
+    release : '5e966b0ef72f0c5dffc7bbd9adcb28ad5c3685e4',
 
     whitelistUrls : ['animoto.com','d14pr3cu5atb0x.cloudfront.net','d2r6q1p754p9pi.cloudfront.net','d2yc83ilop69kq.cloudfront.net','d150hyw1dtprld.cloudfront.net'],
 
@@ -555,6 +539,9 @@ var AUTH_TOKEN = "zCYOPT9ImnxZLzE4SkO0zsPtWkPpTZLMrNXe2gUl42a/zrsRTGWw+/abZAIEXY
       'EBCallBackMessageReceived',
       // See http://toolbar.conduit.com/Developer/HtmlAndGadget/Methods/JSInjection.aspx
       'conduitPage',
+      // Weird errors that are happening in moxie due to coming in and out of uploader needs
+      'Cannot read property \'style\' of null',
+      'null is not an object (evaluating \'u.style\')',
       // Generic error code from errors outside the security sandbox
       // You can delete this if using raven.js > 1.0, which ignores these automatically.
       'Script error.',
@@ -588,11 +575,6 @@ var AUTH_TOKEN = "zCYOPT9ImnxZLzE4SkO0zsPtWkPpTZLMrNXe2gUl42a/zrsRTGWw+/abZAIEXY
         }
       }
 
-      // ignore IE < 11
-      if (typeof bowser !== 'undefined' && bowser.msie && parseInt(bowser.version, 10) <= 10) {
-        return false;
-      }
-
       var sampleRate = 10;
       return (Math.random() * 100 <= sampleRate);
     }
@@ -603,14 +585,13 @@ var AUTH_TOKEN = "zCYOPT9ImnxZLzE4SkO0zsPtWkPpTZLMrNXe2gUl42a/zrsRTGWw+/abZAIEXY
   }
 </script>
 
-    <script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/core-45bc2f9ae5.js" crossorigin="anonymous"></script>
-    <script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/util-5c68fcb02d.js" crossorigin="anonymous"></script>
-      <script src="//d150hyw1dtprld.cloudfront.net/player/8469aaebf6455c7242dc436ef25837209005567b/player-bundle.js" crossorigin="anonymous"></script>
+    <script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/core-2decd4ee27.js" crossorigin="anonymous"></script>
+    <script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/util-2d33b44c47.js" crossorigin="anonymous"></script>
+      <script src="//d150hyw1dtprld.cloudfront.net/player/c6cdc5b1b5872e996a79d0a19cb47f6cb621592b/player-bundle.js" crossorigin="anonymous"></script>
       
 
-    <script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/cms-e04231ff4a.js" crossorigin="anonymous"></script>
-<script src="https://d1kjm29x4mml1x.cloudfront.net/cms-js/2/base/1452809072.js"></script>
-<script src="https://www.youtube.com/iframe_api"></script>
+    <script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/cms-743490e274.js" crossorigin="anonymous"></script>
+<script src="https://d1kjm29x4mml1x.cloudfront.net/cms-js/2/base/1477509042.js"></script>
 
     <script>
       
@@ -657,7 +638,6 @@ window.fbAsyncInit = function() {
 
 
       jQuery(document).ready(function() {
-  animoto.dispatcher.on('user:segment', LoginHelpers.askForSegmentation);
 });
 
       _.extend(animoto.urls, {
@@ -691,7 +671,7 @@ window.fbAsyncInit = function() {
       var js = this.createElement("script");
       if(dom) this.domain = dom;
       js.id = "boomr-if-as";
-      js.src = '//d14pr3cu5atb0x.cloudfront.net/pkg/js/performance-ac597fdba3.js';
+      js.src = '//d14pr3cu5atb0x.cloudfront.net/pkg/js/performance-cc5e8dd3a3.js';
       this.body.appendChild(js);
     };
     doc.write('<body onload="document._l();">');
