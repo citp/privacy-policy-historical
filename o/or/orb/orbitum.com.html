@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the orbitum.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119045235id_/http%3A//orbitum.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the orbitum.com privacy policy that was archived on 2017-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170514174159id_/http%3A//orbitum.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=9">
@@ -185,7 +185,7 @@
 </p>        </div>
         <div class="lined"></div>
         <div class="footer">
-            <div class="copyright">© 2012 - 2016 Orbitum</div>
+            <div class="copyright">© 2012 - 2017 Orbitum</div>
             <ul class="footer_menu">
                 <li><a href="/terms/">Terms of use</a></li>
                                     <li>
@@ -241,7 +241,7 @@
     function sendStatLand(param){
         var event = param.event;
         var action = (param.action) ? param.action : 'click';
-        var label = (param.label) ? 'sub_' + param.label : 'std';
+        var label = (param.label) ? 'sub_' + param.label : 'vkyasave';
         var clb   = (typeof param.callback === "function") ? param.callback : false;
         var tmr;
 
@@ -287,7 +287,7 @@
             return;
 
         if (undefined == label)
-            label = 'std';
+            label = 'vkyasave';
         if ('undefined' != typeof ga) {
             ga('send', 'event', event, 'click', label);
             ga('b.send', 'event', event, 'click', label);
