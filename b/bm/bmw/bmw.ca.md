@@ -1,61 +1,6 @@
-> *The following text is extracted and transformed from the bmw.ca privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105145917id_/http%3A//www.bmw.ca/en/footer/metanavigation/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmw.ca privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514190524id_/http%3A//www.bmw.ca/en/footer/metanavigation/Privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-_Do you share information with others?_  
-Like other companies, we share information with our affiliated companies, third-party service providers, BMW retailer networks, and certain business partners (list available upon request) in order to conduct our business activities and to protect our rights. For example we share information with these other entities for the purposes of:
-
-1\. Delivery of Products and Services
-
-  * Delivering products and services to you on our behalf, including warranty services and roadside assist services.
-  * Arranging for a purchase or lease quote or a test-drive.
-  * Assisting us with servicing and processing your credit account and verifying credit worthiness.  
-
-
-
-
-2\. Customer Relations
-
-  * Administering our marketing promotions, including contests and email campaigns.
-  * Managing our interest-based advertising and website personalization programs.  
-Evaluating the effectiveness of our products and services.
-
-
-
-3\. Protecting Our Business and Fulfilling Our Legal Obligations
-
-  * Detecting and preventing fraud.
-  * Enforcing contractual or other legal obligations.
-  * Locating and repossessing a leased or financed vehicle exported from Canada in violation of agreements.
-  * Responding to court orders, warrants and subpoenas or lawful requests for information by government institutions, including the police.
-  * Filing reports with government institutions where we are required by law to do so or we have grounds to suspect a breach of a law.
-  * Obtaining legal advice for BMW Group Canada, its affiliated companies or BMW Retailers.
-
-
-
-We contractually require any third party organization to use and protect the personal information disclosed to them in a manner consistent with our Privacy Policy.
-
-We may sell or purchase assets. If another entity acquires us or all or a portion of our assets, personal information that we collected from you may be shared with that entity. The information will be shared for the purpose of that entity considering whether to enter into the transaction and also to complete the transaction.
-
-Our websites may include links to other websites outside of BMW Group Canada. We are not responsible for the content, links or privacy practices of those websites. We provide access to these linked sites for your convenience only and you access them at your own risk. However, we welcome any comments you may have regarding these linked websites to the contact information in “ **Who do I contact if I have questions or concerns about privacy at BMW?** ” below.
-
-_What kind of information do you collect automatically on your websites?_  
-Like other companies, we automatically collect usage information when you visit our websites. Examples include your Internet Protocol (IP) address, browser and device type and operating system, and cookie text file information. We use this information for the purposes of:
-
-  * Recognizing you when you return to our website to make logging into our system easier.
-  * Delivering website pages in a format that is appropriate for your browser and device. 
-  * Monitoring how our sites are being used and what information is being accessed. This provides us with information that assists us in improving our websites, products and services, and to detect and prevent security threats.
-
-
-
-We use service providers to assist us. For example, we use third party service providers to assist us in personalizing our website for you. In addition, we use third-party analytics services that use cookies and other tracking technologies to help analyze how users use our websites. In some cases, information about your use of the website (including your IP address) will be transmitted to and stored by our providers on servers outside of Canada. These providers may also transfer this information to third parties where required to do so by law, or where such third parties process the information on their behalf.
-
-For more information on our automatic collection of information on our websites, including how the information is used for advertising, or to disable cookies and/or opt-out of interest-based advertising, please see our Cookies and Interest-Based Advertising Disclosure.
-
-_Can I opt-out of receiving BMW marketing communications?_  
-You may decide at any time that you would prefer not to receive BMW Group Canada-related marketing communications.
-
-If you wish to “unsubscribe” from our marketing communications, you may do so at any time online by accessing our Unsubscribe form,by adjusting your My BMW privacy preferences, or by contacting us at the contact information in “ **Who do I contact if I have questions or concerns about privacy at BMW?** ” below. Please allow up to 7 business days to process your request. Be assured that your decision to opt-out of our marketing communications will not affect your business relationship with us.
 
 _How long is my personal information retained?_  
 BMW Group Canada will retain your personal information for as long as necessary to fulfill the purpose for which it was collected and to comply with applicable laws.
@@ -97,4 +42,5 @@ BMW Group Canada has developed policies and procedures to respond to individual 
 
 If you have any questions or concerns about our privacy practices, please contact our Privacy Officer by email at privacy@bmw.ca; by telephone at 1-866-805-5853; or by mail at 50 Ultimate Drive, Richmond Hill, ON L4S 0C8.
 
-We welcome your comments and emails but please note that any information, including but not limited to suggestions, ideas or submissions you make through and onto any BMW Group website will become the exclusive property of BMW Group Canada.
+We welcome your comments and emails but please note that any information, including but not limited to suggestions, ideas or submissions you make through and onto any BMW Group website will become the exclusive property of BMW Group Canada.  
+
