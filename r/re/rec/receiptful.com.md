@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the receiptful.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317045833id_/https%3A//receiptful.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the receiptful.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514123250id_/https%3A//conversio.com/privacy) for the most accurate reproduction.*
 
-# Privacy – Receiptful
+# Privacy Policy | Conversio - We Totally Understand
+
+## Privacy
 
 ### About this Privacy Statement
 
@@ -30,11 +32,11 @@ The defined terms in the Supplementary Glossary in the Statement have specific m
 
 We may collect the following personal data from you:
 
-  * Information about the Receiptful Service components you express an interest in or may purchase from us;
+  * Information about the Conversio Service components you express an interest in or may purchase from us;
   * Your name and contact information, including your mobile phone number, email address and company details (including physical address, phone and fax numbers) which you may submit to us when you interact with the Website;
   * Your customers’ names, contact information which may include phone numbers, addresses and other Transaction Data;
   * Information about location or similar location based information;
-  * Information regarding personal or professional interests, opinions, demographics, experiences with the Receiptful Service and contact preferences in order to provide you with further correspondence about the Receiptful Service.
+  * Information regarding personal or professional interests, opinions, demographics, experiences with the Conversio Service and contact preferences in order to provide you with further correspondence about the Conversio Service.
 
 
 
@@ -42,7 +44,7 @@ We may not be able to make the Service available to you if you do not consent to
 
 #### Intercepted and monitored Electronic Communications
 
-We may implement systems designed to intercept and monitor your communications with us and/or Receiptful’s Associates, to the extent permissible by law in the course of the carrying on of business and for the purpose of monitoring or keeping records of direct and indirect communications.
+We may implement systems designed to intercept and monitor your communications with us and/or Conversio’s Associates, to the extent permissible by law in the course of the carrying on of business and for the purpose of monitoring or keeping records of direct and indirect communications.
 
 You agree to this.
 
@@ -50,7 +52,7 @@ You agree to this.
 
 When you use the Service, we automatically receive and records information from your browser or mobile platform, including your location, IP address, cookie information, and the page you requested. This information is stored in our server logs.
 
-We only use this data in aggregate form and we may provide this aggregate information to Receiptful’s Associates about how you, our customers, collectively, use the Website, so that Receiptful’s Associates may also understand how users make use of the Website.
+We only use this data in aggregate form and we may provide this aggregate information to Conversio’s Associates about how you, our customers, collectively, use the Website, so that Conversio’s Associates may also understand how users make use of the Website.
 
 ### Cookies
 
@@ -88,7 +90,7 @@ We may contact you by e-mail, phone, fax or post for the purposes set out in thi
 We will not transfer, disclose, sell, distribute or lease personal data to 3rd Parties other than on the following basis:
 
   * Where we have your consent to do so for the purpose of providing a service to you;
-  * Where it is required by Receiptful’s Associates who may, directly or indirectly, render certain services to us or to you or in undertaking activities linked to the operation of such services on our behalf; or
+  * Where it is required by Conversio’s Associates who may, directly or indirectly, render certain services to us or to you or in undertaking activities linked to the operation of such services on our behalf; or
   * Where the disclosure is in compliance with legal and/or contractual requirements that we are subject to, including, but not limited to, intergovernmental agreements.
 
 
@@ -105,4 +107,4 @@ If you think that any personal data we hold about you is incorrect or incomplete
 
 **“Statement”** means this privacy statement, as amended from time to time;
 
-**“Agreement”** means the Receiptful Service Agreement located [here.](http://receiptful.com/)
+**“Agreement”** means the Conversio Service Agreement located [here.](https://conversio.com/)
