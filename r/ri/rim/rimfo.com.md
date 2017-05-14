@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rimfo.com privacy policy that was archived on 2016-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161005164443id_/http%3A//rimfo.com/index.php/home/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rimfo.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515000416id_/http%3A//rimfo.com/index.php/home/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies
 
