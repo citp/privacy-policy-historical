@@ -1,100 +1,54 @@
-> *The following text is extracted and transformed from the exponea.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523065523id_/https%3A//exponea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exponea.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514074506id_/https%3A//exponea.com/privacy-policy) for the most accurate reproduction.*
 
-# Exponea | Privacy Policy
+# Privacy Policy — Exponea
 
-Effective Date 01.01.2016
+Effective Date: 21 March 2017. This Privacy Policy completely replaces the previous version.
 
-This policy describes the way how we collect, process and protect your personal data (“Privacy Policy”). This Privacy Policy applies on personal data processing within our Platform and via your Account. This Privacy policy applies to any Services which incorporate this policy or contain a link hereto.
+## INITIAL PROVISIONS
 
-## Data collection.
+Exponea s.r.o., Business ID No. 50017560, with its registered office at Vajnorská 100, 831 04 Bratislava – Nové Mesto, Slovakia, registered in the Commercial Register maintained by the County Court in Bratislava I, Section Sro, Insert 107011/B (“Exponea” or “we”) as the controller is committed to protecting the personal data of its customers (and the personal data of their clients) in accordance with applicable data protection legislation. This Privacy Policy describes how Exponea collects, processes and protects the personal data of its customers during visits to our websites at the domain exponea.com (“our websites”) and/or when using our Services.  
+The provisions of this Exponea Privacy Policy shall apply from the Effective Date stated above.  
+Capitalised words not defined in this Privacy Policy shall have the meaning ascribed to such words in the General Terms and Conditions.
 
-We collect data you provide us with within your registration process. These data include your  
-name,username, password, indentation details (including identification number and address), details on Payment  
-Instruments, e-mail distribution lists, tracking activity and contact details (including e-mail and phone  
-number). Although our Services offer analysis of data of your customers, we do not collect, have access to or  
-process such data in any way. 
+##  DATA COLLECTION
 
-## Purpose of data processing.
+When you register or sign up for an Account, submit an Order Form, or contact us via the “Have us contact you” form or otherwise via our website, Exponea requires you to provide information that includes your name, surname, company name, identification number, username, password and contact information such as e-mail addresses or phone numbers. If you decide to purchase the Services, Exponea requires you to provide details of a payment instrument such as a credit/debit card number, address and additional information needed for the issuing of invoices. While using our Services, we further collect track your activity via cookies or web beacons or other similar means (e.g. heatmaps or screen recordings), which may include your IP address, browser settings, preferences or other activities on our websites (see further clause 5).  
+If you contact us as an applicant for a job (or as a candidate for other type of cooperation with Exponea), Exponea requires you to provide information that includes your name, surname, and contact information such as e-mail addresses or phone numbers. Moreover, we require you to submit your curriculum vitae with additional information about your education, previous work experience and other information that may be required for the purpose of evaluating your abilities for the position applied for.
 
-We process your personal data for the following purposes: 
+##  PURPOSE OF DATA PROCESSING
 
-  * Registration and granting access to our Services;
-  * Provision of our Services;
-  * Payment for Services;
-  * Protection of assets and legitimate interests of ourselves and other customers; and
-  * Direct marketing.
+We process your personal data for the purpose of (i) registering and granting you access to your Account and our Services; (ii) providing the Services requested by you; (ii) optimising and enhancing our Services provided to you; (iii) paying for Services (if applicable); (iv) protecting the legitimate interests of our assets or interests of our other customers; (v) evaluating job applications; (vi) analysing visits to our websites; and (vii) direct marketing (if you have presented your interest in further information via the “Have us contact you” or similar form – see further clause 6).  
+The personal data you provide us with is only processed and used in the manner adequate for the purpose for which it was collected. Exponea does not combine personal data that was obtained for a variety of purposes. We will not store your personal data for longer than is necessary for the purpose for which it was provided or collected. We will only retain the personal data that serves a legitimate purpose (e.g. applicable legal regulations may require the retention of data, or some data may be necessary for the purposes of billing outstanding amounts).  
+We will neither collect an excessive amount of personal data nor data that is not relevant for the purposes for which the personal data is being collected.
 
+##  YOUR CLIENTS’ DATA
 
+By using our Services, you may be providing us with your clients’ personal data. You should therefore ensure that you have collected your clients’ respective consents and approval in order to process their data in accordance with applicable data protection law and the General Terms and Conditions. We shall be entitled to: obtain, collect, distribute, record, organise, adapt or alter, retrieve, consult, align, combine, transfer, use, store, block, destroy, and manage the cross-border flow of the personal data you provide us with.
 
-## Cookies and web beacons.
+##  COOKIES AND WEB BEACONS
 
-For the purpose of analysing your visits of our Platform, we also collect cookies  
-(codes stored locally on your computer). By enabling cookies in your browser, you have expressed your consent  
-that we may collect cookies for this purpose. Collection of cookies may be turned off by resetting your browser.  
-In case you turn off cookies, functionality of our Platform may be limited. Our Services and/or Platform and the  
-communications generated from using and/or registering to our Services and/or Platform, such as promotional  
-emails, may contain electronic images known as “web beacons”. Web beacons generally work in conjunction with  
-cookies, and we may use them in the same way we use cookies (see above). 
+For the purpose of analysing your visits to our website, we also collect cookies (files stored locally on your device). By enabling cookies in your browser, you have expressed your consent to our collection of cookies for this purpose. We use the following types of cookies: (i) essential cookies, which are essential for the provision of access to our websites; (ii) functionality cookies, which are crucial for the proper functioning of our websites (if these cookies are disabled, our website may not work properly); (iii) performance cookies, which do not identify you individually (until you enter your identification details in any of our forms) but help us to personalise your content in accordance with your actions on our websites; and (iv) targeting/advertising cookies, which help make advertisements more relevant to visitors of our website.  
+We also use Google Analytics and similar services that collect third-party cookies. The information about your use of the websites (including your IP address) generated by the cookies will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not have full functionality of this website. By using our websites, you consent to the processing of your data by Google in the manner and for the purposes set out above. Please see further Google policies at: http://www.google.com/intl/en/policies/technologies/ads/.  
+The collection of cookies may be stopped by resetting your browser; however, if you turn off cookies, the functionality of our platform may be limited (i.e. in the case of essential cookies you may not be able to access our websites). Our Services and/or websites and the communications generated from using and/or registering for our Services and/or platform, such as promotional emails, may contain electronic images known as “web beacons”. Web beacons generally work in conjunction with cookies, and we may use them in the same way we use cookies (see above).
 
-## Data combination.
+##  DIRECT MARKETING
 
-We may, within the extent enabled by legal regulation (i) combine personal data provided by  
-you via your Account with information provided otherwise; and (ii) store this information collectively in one or  
-more separate databases. 
+You agree that we may also use your electronic contact details, which may be derived from your past usage of Services, for marketing purposes, i.e. to keep you informed about our Services. These communications shall strictly adhere to applicable legal regulations. You may opt out of marketing communications by disabling this function via the unsubscribe link provided in each email you receive.
 
-## Data retention period.
+##  PERSONAL DATA SHARING
 
-We will not store your personal data for a longer period that what is necessary given the  
-purpose for which they were provided or collected, i.e. it will typically process your personal data for the  
-period of your registration via your Account. Subject to situations set out below, your personal data will be  
-removed once you deregister your Account. We will retain only those personal data serving legitimate purposes  
-(e.g., some data are required to be retained by applicable legal regulations, some data are necessary for  
-purposes of outstanding billing, etc). Personal data shall be retained also if removal would require undue  
-efforts or costs – in these cases the personal data shall be dislocated and not entirely removed. 
+In line with the provisions of the General Terms and Conditions, we may also provide certain Services aimed at connecting our customers to services, such as e-mail or SMS, of other providers such as the providers of messaging platforms. By clicking the “I agree” button that completes the registration process and creates the Account for you or by submitting the respective Order Form to Exponea, you provide us with the express consent to share your personal data with these third-party providers for the purpose of fulfilling the Agreement (typically, you as our client provide us with all data required for such connection). We may also provide the data to third parties such as (i) hosting providers; and/or (ii) advertising partners. Any such partners will be available on our websites (typically in our Guides), and such parties will then act as processors of your data. Subject to the previous sentence, your personal data shall not be shared or provided to any other third party without your consent except for the following cases: (i) where Exponea is obliged to provide personal data by law or an order of public authority; or (ii) if personal data sharing is specifically allowed by applicable legal regulations.  
+If third-party providers are established outside of the EU/EEA, you agree that we may transfer your data to these third parties. In such cases, Exponea shall ensure that it cooperates only with third-party providers that are located in countries that ensure adequate levels of protection based on the European Commission’s adequacy decision, or that Exponea has entered into agreements with corresponding Model Contractual Clauses that ensure adequate safeguards with respect to the protection of the privacy and fundamental rights and freedoms of individuals.  
+We are committed to storing your data securely. Therefore, we have implemented adequate physical, technical and organisational measures and plans for protecting and securing data collected from you (which do not, however, deprive you of your duty to take proper steps to secure your data, particularly for the transmission of data to our Account). The aim is to eliminate unauthorised or unlawful processing of your personal data or the accidental, unauthorised or unlawful accessing, use, transferring, processing, copying, transmitting, alteration, loss or damage of your data. Despite all efforts to meet the rules set out in applicable legal regulations, it is not possible to ensure the security of your data if it is transferred or transmitted in an unsecured way. We will protect your data in the following ways:  
+using cryptography, where necessary;  
+using password or secured token protection, where necessary; and  
+restricting access to your data (i.e. access to your personal data is granted only to those of our employees or contractors for whom the access is necessary).
 
-## Proportionality.
+##  RIGHT TO ACCESS AND COMPLAINT
 
-We will neither collect any excessive amount of personal data nor relevant for the purposes for  
-which personal data are collected. 
+You have the right to be provided with details of the personal information processed by us and to request the rectification or deletion of inaccurate personal data or the restriction of the processing of data concerning you. You may edit your data using your Account, or contact us at privacy@exponea.com should you have any request about data held. However, where requests from you are manifestly unfounded, excessive or repetitive, we may either: (i) charge a reasonable fee, taking into account the administrative costs of taking the actions requested; or (ii) refuse to act on the request.  
+If you feel that your data has been processed unlawfully, contact us at privacy@exponea.com and we will undertake to resolve the problem. You have the right to lodge a complaint with the supervisory authority, the Office for Personal Data Protection of the Slovak Republic.
 
-## Direct marketing.
+##  CHANGES OF PRIVACY POLICY
 
-We may also use your electronic contact details for marking purposes, i.e. to inform you about  
-our services which may be derived from your past usage of Services. These communication shall strictly adhere to  
-applicable legal regulations. You may opt out from marketing communication via disabling his option on your  
-Account. 
-
-## Personal data sharing.
-
-Your personal data shall not be shared or provided to any third party without your  
-consent except for in cases we are obliged to provide personal data on the basis of law or an order of public  
-authority; or if personal data sharing is specifically allowed by applicable legal regulations. Should the  
-applicable legal regulations prohibit that, your personal data shall never be shared with any third party. 
-
-## Data security.
-
-We will ensure that your data are stored securely. Therefore, we have introduced adequate  
-physical, technical and organisational measures and plans protecting and securing data collected from you  
-(which, however, do not deprive you from your duties to undertake proper steps in order to secure your data  
-especially for data transmission to our Account). The aim is to eliminate unauthorised or unlawful processing of  
-your personal data, or accidental, unauthorised or unlawful access, use, transferring, processing, copying,  
-transmitting, alteration, loss or damage of your data. Despite all efforts and meeting all rules set out by  
-applicable legal regulations, it is not possible to ensure the security of your data, if they are transferred or  
-transmitted in an unsecured way. We will protect your data in the following ways: 
-
-  * Using cryptography, where necessary;
-  * Using password protection, where necessary; and
-  * Restricting access to your data (i.e. access to your personal data is granted only to those from our employees or  
-contractors for whom the access is indispensable).
-
-
-
-## Changes of Privacy Policy.
-
-We may, from time to time, change and/or update the terms of this Privacy Policy and  
-you shall be notified hereof via your Account. 
-
-## Right to access.
-
-You have a right to be provided with details of personal details processed by us and require  
-correction or deletion of your personal data. You may contact us at [privacy@infinario.com](mailto:privacy@infinario.com), should you have any such request. 
+We may, from time to time, change and/or update the terms of this Privacy Policy and you shall be notified hereof via your Account or on our website prior to the change taking effect.
