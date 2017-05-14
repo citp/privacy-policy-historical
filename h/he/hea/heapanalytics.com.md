@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heapanalytics.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114150321id_/https%3A//heapanalytics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heapanalytics.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514120004id_/https%3A//heapanalytics.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Heap | Mobile and Web Analytics
 
