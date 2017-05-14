@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the printfile.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605035655id_/http%3A//www.printfile.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printfile.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514083336id_/http%3A//www.printfile.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Print File | Archival Supplies | Photo Storage Products - Privacy Policy
 
-[](https://web.archive.org/web/20160605035655id_/http%3A//www.printfile.com/index.aspx)  
+[](https://web.archive.org/web/20170514083336id_/http%3A//www.printfile.com/index.aspx)  
   
 ---  
 |  | 
@@ -48,7 +48,6 @@ Back to top
 
 |   
 | |   
-  
 |   
 ---  
   
@@ -59,9 +58,12 @@ news and offers by email.
   
 ---  
   
-Click to explore our  
-Electronic Catalog
-
-[](http://reader.mediawiremobile.com/PrintFileCatalog/issues/101361/viewer)  
+Click to explore our electronic catalog  
   
-[ ](https://web.archive.org/web/20160605035655id_/index.asp?PageAction=CONTACTUS) 
+[](http://reader.mediawiremobile.com/PrintFileCatalog/issues/200284/viewer)  
+|  |  | 
+
+[
+
+](https://www.bbb.org/central-florida/business-reviews/photo-imaging-service/print-file-in-apopka-fl-90404884#sealclick "Click for the Business Review of Print File, Inc., a TBD in Apopka FL") |  [ ](http://www.printfile.com/satisfaction-guarantee.aspx) |   
+---|---|---|---|---
