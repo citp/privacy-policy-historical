@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the gobalakrishnan.com privacy policy that was archived on 2016-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161220125027id_/http%3A//www.gobalakrishnan.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gobalakrishnan.com privacy policy that was archived on 2017-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170514224208id_/http%3A//www.gobalakrishnan.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="js"><!--<![endif]--><head>
-	<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+	<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
 			
 	
 	<link rel="pingback" href="http://www.gobalakrishnan.com/xmlrpc.php">
@@ -19,7 +19,7 @@
 <!-- Jetpack Site Verification Tags -->
 <meta name="google-site-verification" content="9p8RLuQ8Jk586MPUwuwOO7FrwfcWdDgB1sYJKpk7iuk">
 
-<!-- This site is optimized with the Yoast SEO plugin v4.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v4.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://www.gobalakrishnan.com/privacy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -41,10 +41,10 @@
 <link rel="alternate" type="application/rss+xml" title="Gobala Krishnan » Feed" href="http://www.gobalakrishnan.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Gobala Krishnan » Comments Feed" href="http://www.gobalakrishnan.com/comments/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.gobalakrishnan.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
-			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.gobalakrishnan.com/wp-includes/js/wp-emoji-release.min.js?ver=4.6.1" type="text/javascript"></script>
-		<meta content="Extra v.1.3.11" name="generator"><style type="text/css">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.gobalakrishnan.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.4"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.gobalakrishnan.com/wp-includes/js/wp-emoji-release.min.js?ver=4.7.4" type="text/javascript" defer=""></script>
+		<meta content="Extra v.2.0.26" name="generator"><style type="text/css">
 img.wp-smiley,
 img.emoji {
 	display: inline !important;
@@ -60,16 +60,16 @@ img.emoji {
 </style>
 <link rel="stylesheet" id="et-gf-open-sans-css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" type="text/css" media="all">
 <link rel="stylesheet" id="et_monarch-css-css" href="http://www.gobalakrishnan.com/wp-content/plugins/monarch/css/style.css?ver=1.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="extra-style-css" href="http://www.gobalakrishnan.com/wp-content/themes/Extra/style.css?ver=1.3.11" type="text/css" media="all">
-<link rel="stylesheet" id="et-shortcodes-css-css" href="http://www.gobalakrishnan.com/wp-content/themes/Extra/epanel/shortcodes/css/shortcodes.css?ver=1.3.11" type="text/css" media="all">
-<link rel="stylesheet" id="magnific-popup-css" href="http://www.gobalakrishnan.com/wp-content/themes/Extra/includes/builder/styles/magnific_popup.css?ver=1.3.11" type="text/css" media="all">
-<link rel="stylesheet" id="jetpack_css-css" href="http://www.gobalakrishnan.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="extra-style-css" href="http://www.gobalakrishnan.com/wp-content/themes/Extra/style.css?ver=2.0.26" type="text/css" media="all">
+<link rel="stylesheet" id="et-shortcodes-css-css" href="http://www.gobalakrishnan.com/wp-content/themes/Extra/epanel/shortcodes/css/shortcodes.css?ver=2.0.26" type="text/css" media="all">
+<link rel="stylesheet" id="magnific-popup-css" href="http://www.gobalakrishnan.com/wp-content/themes/Extra/includes/builder/styles/magnific_popup.css?ver=2.0.26" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="http://www.gobalakrishnan.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.9" type="text/css" media="all">
 <script type="text/javascript" src="http://www.gobalakrishnan.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://www.gobalakrishnan.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <link rel="https://api.w.org/" href="http://www.gobalakrishnan.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.gobalakrishnan.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.gobalakrishnan.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.6.1">
+<meta name="generator" content="WordPress 4.7.4">
 <link rel="shortlink" href="http://wp.me/P2ftnq-1q">
 <link rel="alternate" type="application/json+oembed" href="http://www.gobalakrishnan.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.gobalakrishnan.com%2Fprivacy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://www.gobalakrishnan.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.gobalakrishnan.com%2Fprivacy%2F&amp;format=xml">
@@ -334,64 +334,6 @@ body {
 
 </style>
 
-<style type="text/css" id="extra-dynamic-styles-button_text_color-color">
-#page-container .button,
-#page-container button,
-#page-container button[type="submit"],
-#page-container input[type="submit"],
-#page-container input[type="reset"],
-#page-container input[type="button"],
-.read-more-button,
-.comment-body .comment_area .comment-content .reply-container .comment-reply-link,
-.widget_tag_cloud a,
-.widget_tag_cloud a:visited,
-.post-nav .nav-links .button,
-a.read-more-button,
-a.read-more-button:visited,
-#footer .widget_tag_cloud a,
-#footer .widget_tag_cloud a:visited,
-#footer a.read-more-button,
-#footer a.read-more-button:visited,
-#footer .button,
-#footer button,
-#footer button[type="submit"],
-#footer input[type="submit"],
-#footer input[type="reset"],
-#footer input[type="button"] {
-	color: rgba(0,0,0,0.6);
-}
-
-</style>
-
-<style type="text/css" id="extra-dynamic-styles-button_hover_text_color-color">
-#page-container .button:hover,
-#page-container button:hover,
-#page-container button[type="submit"]:hover,
-#page-container input[type="submit"]:hover,
-#page-container input[type="reset"]:hover,
-#page-container input[type="button"]:hover,
-.read-more-button:hover,
-.comment-body .comment_area .comment-content .reply-container .comment-reply-link:hover,
-.widget_tag_cloud a:hover,
-.widget_tag_cloud a:visited:hover,
-.post-nav .nav-links .button:hover,
-a.read-more-button:hover,
-a.read-more-button:visited:hover,
-#footer .widget_tag_cloud a:hover,
-#footer .widget_tag_cloud a:visited:hover,
-#footer a.read-more-button:hover,
-#footer a.read-more-button:visited:hover,
-#footer .button:hover,
-#footer button:hover,
-#footer button[type="submit"]:hover,
-#footer input[type="submit"]:hover,
-#footer input[type="reset"]:hover,
-#footer input[type="button"]:hover {
-	color: rgba(0,0,0,0.6);
-}
-
-</style>
-
 <style type="text/css" id="extra-dynamic-styles-et_pb_toggle-toggle_icon_font_size-font-size">
 .et_pb_toggle.et_pb_toggle_item .et_pb_toggle_title:before {
 	font-size: 24px;
@@ -457,8 +399,8 @@ src="https://www.facebook.com/tr?id=253730834750985&ev=PageView&noscript=1"
 <link rel="icon" href="https://i1.wp.com/www.gobalakrishnan.com/wp-content/uploads/2016/07/gk-favicon.png?fit=64%2C64" sizes="192x192">
 <link rel="apple-touch-icon-precomposed" href="https://i1.wp.com/www.gobalakrishnan.com/wp-content/uploads/2016/07/gk-favicon.png?fit=64%2C64">
 <meta name="msapplication-TileImage" content="https://i1.wp.com/www.gobalakrishnan.com/wp-content/uploads/2016/07/gk-favicon.png?fit=64%2C64">
-<style type="text/css" id="et-custom-css">
-.logo {max-height:40px;}
+			<style type="text/css" id="wp-custom-css">
+				.logo {max-height:40px;}
 .jumbotron {padding-top:150px; padding-bottom:150px;}
 .jumbotron h1 {font-size:60px; word-wrap: normal;}
 .testimonials {padding-top:50px; padding-bottom:50px;}
@@ -475,9 +417,9 @@ code, pre {color:#e74c3c; font-family: Consolas; font-size:15px;}
 #footer {background-color:#3C4A59; color:#f4f4f4;}
 .post-wrap a {color:#3498DB;}
 .et_pb_widget .widgettitle {font-size:12px; background: #C0392B;}
-.entry-title {font-size:42px;}
-</style></head>
-<body class="page page-id-88 page-template-default et_monarch et_bloom et_extra et_fixed_nav et_pb_gutters3 et_primary_nav_dropdown_animation_Default et_secondary_nav_dropdown_animation_Default with_sidebar with_sidebar_right unknown et_includes_sidebar">
+.entry-title {font-size:42px;} 			</style>
+		</head>
+<body class="page-template-default page page-id-88 et_monarch et_bloom et_extra et_fixed_nav et_pb_gutters3 et_primary_nav_dropdown_animation_Default et_secondary_nav_dropdown_animation_Default with_sidebar with_sidebar_right unknown et_includes_sidebar">
 	<div id="page-container">
 				<!-- Header -->
 		<header class="header left-right">
@@ -581,9 +523,9 @@ Governing law</p>
 			<div class="et_bloom_form_container_wrapper clearfix">
 				<div class="et_bloom_header_outer">
 					<div class="et_bloom_form_header et_bloom_header_text_dark">
-						<img src="http://www.kreydle.com/wp-content/uploads/2016/03/ecover05bundle.jpg" alt="" class=" et_bloom_image_slideup et_bloom_image">
+						<img width="610" height="324" src="https://i0.wp.com/www.gobalakrishnan.com/wp-content/uploads/2017/01/ecover05bundle.jpg?fit=610%2C324" class=" et_bloom_image_slideup et_bloom_image" alt="" srcset="https://i0.wp.com/www.gobalakrishnan.com/wp-content/uploads/2017/01/ecover05bundle.jpg?w=900 900w, https://i0.wp.com/www.gobalakrishnan.com/wp-content/uploads/2017/01/ecover05bundle.jpg?resize=300%2C159 300w, https://i0.wp.com/www.gobalakrishnan.com/wp-content/uploads/2017/01/ecover05bundle.jpg?resize=768%2C408 768w, https://i0.wp.com/www.gobalakrishnan.com/wp-content/uploads/2017/01/ecover05bundle.jpg?resize=610%2C324 610w" sizes="(max-width: 610px) 100vw, 610px">
 						<div class="et_bloom_form_text">
-						<p>Enter your name and email address to&nbsp;<span style="text-decoration: underline;"><strong>save&nbsp;BIG&nbsp;from all our other courses</strong></span>.&nbsp;You will need to verify your email address. We will send you the coupon to your email. Grab it now while you can!</p>
+						<p>Enter your name and email address to&nbsp;<span style="text-decoration: underline;"><strong>save 90%&nbsp;off all our best-selling&nbsp;courses</strong></span>. Save over $490 with this limited offer. You will need to verify your email address, so please check your inbox.</p>
 					</div>
 						
 					</div>
@@ -601,13 +543,13 @@ Governing law</p>
 
 						<button data-optin_id="optin_5" data-service="aweber" data-list_id="315856" data-page_id="88" data-account="gobala" data-disable_dbl_optin="" class="et_bloom_submit_subscription">
 							<span class="et_bloom_subscribe_loader"></span>
-							<span class="et_bloom_button_text et_bloom_button_text_color_dark">Get Coupon!</span>
+							<span class="et_bloom_button_text et_bloom_button_text_color_dark">Get Discount!</span>
 						</button>
 					</form>
 					<div class="et_bloom_success_container">
 						<span class="et_bloom_success_checkmark"></span>
 					</div>
-					<h2 class="et_bloom_success_message">Please check your email now to confirm your email address!</h2>
+					<h2 class="et_bloom_success_message">Please check your email now.</h2>
 					<div class="et_bloom_form_footer">
 					<p>We respect your privacy. You can unsubscribe at any time.</p>
 				</div>
@@ -698,7 +640,7 @@ Governing law</p>
 						</ul>
 		</div> <!-- end .et_pb_widget -->				</div>
 								<div class="et_pb_extra_column even column-2">
-					<div id="et-recent-comments-2" class="et_pb_widget widget_et_recent_comments"><h4 class="widgettitle">Recent Comments</h4><ul id="recentcomments" class="widget_list"><li class="recentcomments"><span class="author"><a href="http://intouchapp.com" rel="external nofollow" class="url">Sho bhit</a></span> <span class="date">July 1, 2016</span> <div class="post-title">on <a href="http://www.gobalakrishnan.com/whatsapp-marketing-using-whatsapp-web/#comment-314">WhatsApp Marketing: Using WhatsApp Web for Your Business</a></div></li><li class="recentcomments"><span class="author">Michelle Lim</span> <span class="date">June 18, 2016</span> <div class="post-title">on <a href="http://www.gobalakrishnan.com/publish-a-book-in-malaysia/#comment-232">How to Publish A Book in Malaysia</a></div></li><li class="recentcomments"><span class="author"><a href="http://www.videomaker.in" rel="external nofollow" class="url">Anthony Noronha</a></span> <span class="date">December 11, 2014</span> <div class="post-title">on <a href="http://www.gobalakrishnan.com/start-a-blog/#comment-303">Should I Start a Blog to Make Money Online?</a></div></li><li class="recentcomments"><span class="author">Felicia</span> <span class="date">November 13, 2014</span> <div class="post-title">on <a href="http://www.gobalakrishnan.com/jomaffiliate-nichify/#comment-305">JomAffiliate Rebranded to Nichify</a></div></li><li class="recentcomments"><span class="author"><a href="http://in-process" rel="external nofollow" class="url">syed hasbullah</a></span> <span class="date">November 4, 2014</span> <div class="post-title">on <a href="http://www.gobalakrishnan.com/jomaffiliate-nichify/#comment-304">JomAffiliate Rebranded to Nichify</a></div></li></ul></div> <!-- end .et_pb_widget -->				</div>
+					<div id="et-recent-comments-2" class="et_pb_widget widget_et_recent_comments"><h4 class="widgettitle">Recent Comments</h4><ul id="recentcomments" class="widget_list"><li class="recentcomments"><span class="author"><a href="https://kempiskanperutbuncit.wordpress.com/" rel="external nofollow" class="url">KempiskanPerutBuncit</a></span> <span class="date">January 15, 2017</span> <div class="post-title">on <a href="http://www.gobalakrishnan.com/google-seo-content-vs-hacking/#comment-356">Basic Google SEO: Content Vs Hacking</a></div></li><li class="recentcomments"><span class="author"><a href="http://intouchapp.com" rel="external nofollow" class="url">Sho bhit</a></span> <span class="date">July 1, 2016</span> <div class="post-title">on <a href="http://www.gobalakrishnan.com/whatsapp-marketing-using-whatsapp-web/#comment-314">WhatsApp Marketing: Using WhatsApp Web for Your Business</a></div></li><li class="recentcomments"><span class="author">Michelle Lim</span> <span class="date">June 18, 2016</span> <div class="post-title">on <a href="http://www.gobalakrishnan.com/publish-a-book-in-malaysia/#comment-232">How to Publish A Book in Malaysia</a></div></li><li class="recentcomments"><span class="author"><a href="http://www.videomaker.in" rel="external nofollow" class="url">Anthony Noronha</a></span> <span class="date">December 11, 2014</span> <div class="post-title">on <a href="http://www.gobalakrishnan.com/start-a-blog/#comment-303">Should I Start a Blog to Make Money Online?</a></div></li><li class="recentcomments"><span class="author">Felicia</span> <span class="date">November 13, 2014</span> <div class="post-title">on <a href="http://www.gobalakrishnan.com/jomaffiliate-nichify/#comment-305">JomAffiliate Rebranded to Nichify</a></div></li></ul></div> <!-- end .et_pb_widget -->				</div>
 								<div class="et_pb_extra_column even column-4">
 					<div id="text-4" class="et_pb_widget widget_text"><h4 class="widgettitle">Latest Video</h4>			<div class="textwidget"><div data-yt="" data-yt-channel="https://www.youtube.com/channel/UCeNafDvFNGGMNbGBtSGUiZg" data-yt-cache-time="3600" data-yt-header-visible="false" data-yt-header-layout="minimal" data-yt-header-info="none" data-yt-header-channel-name="My YouTube Channel" data-yt-header-channel-description="Subscribe to the SuckMyAd channel right now to get product reviews, Internet marketing news and awesome tutorials." data-yt-groups-visible="false" data-yt-content-columns="1" data-yt-content-rows="1" data-yt-content-gutter="20" data-yt-content-drag-control="false" data-yt-content-transition-effect="fade" data-yt-content-transition-speed="600" data-yt-content-auto="0" data-yt-video-info="playIcon, duration, title" data-yt-color-header-bg="rgb(244, 244, 244)" data-yt-color-header-banner-overlay="rgb(246, 249, 253)" data-yt-color-header-channel-name="rgb(51, 51, 51)" data-yt-color-header-channel-name-hover="rgb(51, 51, 51)" data-yt-color-header-channel-description="rgb(51, 51, 51)" data-yt-color-header-anchor="rgba(255, 255, 255, 0.9)" data-yt-color-header-anchor-hover="rgb(255, 255, 255)" data-yt-color-header-counters="rgba(255, 255, 255, 0.6)" data-yt-color-groups-bg="rgb(230, 33, 23)" data-yt-color-groups-link="rgba(255, 255, 255, 0.8)" data-yt-color-groups-link-hover="rgba(255, 255, 255, 0.8)" data-yt-color-groups-link-active="rgb(255, 255, 255)" data-yt-color-groups-highlight="rgba(255, 255, 255, 0.4)" data-yt-color-groups-highlight-hover="rgb(255, 255, 255)" data-yt-color-groups-highlight-active="rgb(255, 255, 255)" data-yt-color-content-bg="rgba(255, 255, 255, 0)" data-yt-color-content-arrows="rgb(255, 255, 255)" data-yt-color-content-arrows-hover="rgb(0, 198, 255)" data-yt-color-content-arrows-bg="rgba(0, 0, 0, 0.7)" data-yt-color-content-arrows-bg-hover="rgba(0, 0, 0, 0.95)" data-yt-color-content-scrollbar-bg="rgb(163, 52, 52)" data-yt-color-content-scrollbar-slider-bg="rgba(133, 133, 133, 0.4)" data-yt-color-video-bg="rgba(246, 249, 253, 0)" data-yt-color-video-overlay="rgba(255, 255, 255, 0.95)" data-yt-color-video-play-icon="rgba(255, 255, 255, 0.4)" data-yt-color-video-play-icon-hover="rgba(255, 255, 255, 0.8)" data-yt-color-video-duration="rgb(209, 238, 246)" data-yt-color-video-duration-bg="rgba(5, 25, 43, 0.81)" data-yt-color-video-title="rgb(244, 244, 244)" data-yt-color-video-title-hover="rgb(255, 26, 54)" data-yt-color-video-date="rgb(177, 177, 177)" data-yt-color-video-description="rgb(80, 80, 80)" data-yt-color-video-anchor="rgb(255, 26, 54)" data-yt-color-video-anchor-hover="rgb(0, 0, 0)" data-yt-color-video-counters="rgb(177, 177, 177)" data-yt-color-popup-bg="rgb(255, 255, 255)" data-yt-color-popup-overlay="rgba(12, 2, 2, 0.8)" data-yt-color-popup-title="rgb(0, 0, 0)" data-yt-color-popup-channel-name="rgb(0, 0, 0)" data-yt-color-popup-channel-name-hover="rgb(255, 26, 54)" data-yt-color-popup-views-counter="rgb(85, 85, 85)" data-yt-color-popup-likes-ratio="rgb(47, 165, 255)" data-yt-color-popup-dislikes-ratio="rgb(207, 207, 207)" data-yt-color-popup-likes-counter="rgb(144, 144, 144)" data-yt-color-popup-dislikes-counter="rgb(144, 144, 144)" data-yt-color-popup-date="rgb(80, 80, 80)" data-yt-color-popup-description="rgb(80, 80, 80)" data-yt-color-popup-anchor="rgb(255, 26, 54)" data-yt-color-popup-anchor-hover="rgb(0, 0, 0)" data-yt-color-popup-description-more-button="rgb(177, 177, 177)" data-yt-color-popup-description-more-button-hover="rgb(80, 80, 80)" data-yt-color-popup-comments-username="rgb(0, 0, 0)" data-yt-color-popup-comments-username-hover="rgb(255, 26, 54)" data-yt-color-popup-comments-passed-time="rgb(177, 177, 177)" data-yt-color-popup-comments-text="rgb(80, 80, 80)" data-yt-color-popup-comments-likes="rgb(180, 180, 180)" data-yt-color-popup-controls="rgb(160, 160, 160)" data-yt-color-popup-controls-hover="rgb(220, 220, 220)" data-yt-color-popup-controls-mobile="rgb(220, 220, 220)" data-yt-color-popup-controls-mobile-bg="rgba(255, 255, 255, 0)"></div></div>
 		</div> <!-- end .et_pb_widget --><div id="rss_links-3" class="et_pb_widget widget_rss_links"><h4 class="widgettitle"> </h4><p><a target="_self" href="http://www.gobalakrishnan.com/feed/" title="Subscribe to Posts"><img src="http://www.gobalakrishnan.com/wp-content/plugins/jetpack/images/rss/orange-medium.png" alt="RSS Feed"></a></p>
@@ -744,7 +686,7 @@ Governing law</p>
 
 			<span title="Back To Top" id="back_to_top"></span>
 	
-	<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/plugins/elfsight-yottie/assets/yottie/dist/jquery.yottie.bundled.js?ver=2.2.0"></script>
+	<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/plugins/elfsight-yottie/assets/yottie/dist/jquery.yottie.bundled.js?ver=2.4.1"></script>
 <div class="et_social_sidebar_networks et_social_visible_sidebar et_social_slideright et_social_animated et_social_rectangle et_social_sidebar_flip et_social_mobile_on">
 					
 					<ul class="et_social_icons_container"><li class="et_social_facebook">
@@ -820,59 +762,59 @@ Governing law</p>
 			</style><link rel="stylesheet" id="et-gf-bitter-css" href="http://fonts.googleapis.com/css?family=Bitter:400,400italic,700&amp;subset=latin,latin-ext" type="text/css" media="all">
 <link rel="stylesheet" id="et-gf-roboto-css" href="http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic&amp;subset=latin,cyrillic-ext,latin-ext,cyrillic,greek-ext,greek,vietnamese" type="text/css" media="all">
 <link rel="stylesheet" id="et_bloom-css-css" href="http://www.gobalakrishnan.com/wp-content/plugins/bloom/css/style.css?ver=1.1.8" type="text/css" media="all">
-<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/themes/Extra/includes/builder/scripts/frontend-builder-global-functions.js?ver=1.3.11"></script>
+<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/themes/Extra/includes/builder/scripts/frontend-builder-global-functions.js?ver=2.0.26"></script>
 <script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122"></script>
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201651"></script>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201719"></script>
 <script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/plugins/monarch/js/idle-timer.min.js?ver=1.3.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var monarchSettings = {"ajaxurl":"http:\/\/www.gobalakrishnan.com\/wp-admin\/admin-ajax.php","pageurl":"http:\/\/www.gobalakrishnan.com\/privacy\/","stats_nonce":"4ff396858c","share_counts":"53e62005d9","follow_counts":"7154d898ea","total_counts":"9f0e694dfe","media_single":"b8b028cba8","media_total":"5c9f40b7d0","generate_all_window_nonce":"23cfd1229a","no_img_message":"No images available for sharing on this page"};
+var monarchSettings = {"ajaxurl":"http:\/\/www.gobalakrishnan.com\/wp-admin\/admin-ajax.php","pageurl":"http:\/\/www.gobalakrishnan.com\/privacy\/","stats_nonce":"6f50cfab09","share_counts":"54a6a34554","follow_counts":"d25094db9e","total_counts":"62cb9f8edd","media_single":"4cf002d6a0","media_total":"9e1090e0f3","generate_all_window_nonce":"cb46c6ad90","no_img_message":"No images available for sharing on this page"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/plugins/monarch/js/custom.js?ver=1.3.2"></script>
-<script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?ver=2016Decaa"></script>
+<script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?ver=2017Mayaa"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var WPGroHo = {"my_hash":""};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.7.4"></script>
 <script type="text/javascript" src="http://www.gobalakrishnan.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0"></script>
-<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/themes/Extra/scripts/ext/jquery.waypoints.min.js?ver=1.3.11"></script>
-<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/themes/Extra/scripts/ext/jquery.fitvids.min.js?ver=1.3.11"></script>
-<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/themes/Extra/scripts/ext/smoothscroll.min.js?ver=1.3.11"></script>
+<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/themes/Extra/scripts/ext/jquery.waypoints.min.js?ver=2.0.26"></script>
+<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/themes/Extra/scripts/ext/jquery.fitvids.min.js?ver=2.0.26"></script>
+<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/themes/Extra/scripts/ext/smoothscroll.min.js?ver=2.0.26"></script>
 <script type="text/javascript" src="http://www.gobalakrishnan.com/wp-includes/js/masonry.min.js?ver=3.3.2"></script>
-<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/themes/Extra/includes/builder/scripts/salvattore.min.js?ver=1.3.11"></script>
+<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/themes/Extra/includes/builder/scripts/salvattore.min.js?ver=2.0.26"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var EXTRA = {"images_uri":"http:\/\/www.gobalakrishnan.com\/wp-content\/themes\/Extra\/images\/","ajaxurl":"http:\/\/www.gobalakrishnan.com\/wp-admin\/admin-ajax.php","your_rating":"Your Rating:","rating_nonce":"f60c45ed51","timeline_nonce":"d97cd3d2e4","blog_feed_nonce":"fa76a671be","error":"There was a problem, please try again.","contact_error_name_required":"Name field cannot be empty.","contact_error_email_required":"Email field cannot be empty.","contact_error_email_invalid":"Please enter a valid email address.","is_ab_testing_active":"","is_cache_plugin_active":"no"};
+var EXTRA = {"images_uri":"http:\/\/www.gobalakrishnan.com\/wp-content\/themes\/Extra\/images\/","ajaxurl":"http:\/\/www.gobalakrishnan.com\/wp-admin\/admin-ajax.php","your_rating":"Your Rating:","rating_nonce":"398bef73c3","timeline_nonce":"9288e307a6","blog_feed_nonce":"f391082557","error":"There was a problem, please try again.","contact_error_name_required":"Name field cannot be empty.","contact_error_email_required":"Email field cannot be empty.","contact_error_email_invalid":"Please enter a valid email address.","is_ab_testing_active":"","is_cache_plugin_active":"no"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/themes/Extra/scripts/scripts.min.js?ver=1.3.11"></script>
-<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/themes/Extra/includes/builder/scripts/jquery.fitvids.js?ver=1.3.11"></script>
-<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/themes/Extra/includes/builder/scripts/jquery.magnific-popup.js?ver=1.3.11"></script>
-<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/themes/Extra/includes/builder/scripts/jquery.mobile.custom.min.js?ver=1.3.11"></script>
+<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/themes/Extra/scripts/scripts.min.js?ver=2.0.26"></script>
+<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/themes/Extra/includes/builder/scripts/jquery.fitvids.js?ver=2.0.26"></script>
+<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/themes/Extra/includes/builder/scripts/jquery.magnific-popup.js?ver=2.0.26"></script>
+<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/themes/Extra/includes/builder/scripts/jquery.mobile.custom.min.js?ver=2.0.26"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var et_pb_custom = {"ajaxurl":"http:\/\/www.gobalakrishnan.com\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/www.gobalakrishnan.com\/wp-content\/themes\/Extra\/images","builder_images_uri":"http:\/\/www.gobalakrishnan.com\/wp-content\/themes\/Extra\/includes\/builder\/images","et_frontend_nonce":"12fd7d6c34","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"f15c843583","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","is_builder_plugin_used":"","is_divi_theme_used":"","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"88","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":""};
+var et_pb_custom = {"ajaxurl":"http:\/\/www.gobalakrishnan.com\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/www.gobalakrishnan.com\/wp-content\/themes\/Extra\/images","builder_images_uri":"http:\/\/www.gobalakrishnan.com\/wp-content\/themes\/Extra\/includes\/builder\/images","et_frontend_nonce":"5968bbf60a","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"f382e8bea5","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","is_builder_plugin_used":"","is_divi_theme_used":"","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"88","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":""};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/themes/Extra/includes/builder/scripts/frontend-builder-scripts.js?ver=1.3.11"></script>
-<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-includes/js/wp-embed.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/themes/Extra/includes/builder/scripts/frontend-builder-scripts.js?ver=2.0.26"></script>
+<script type="text/javascript" src="http://www.gobalakrishnan.com/wp-includes/js/wp-embed.min.js?ver=4.7.4"></script>
 <script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/plugins/bloom/js/jquery.uniform.min.js?ver=1.1.8"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var bloomSettings = {"ajaxurl":"http:\/\/www.gobalakrishnan.com\/wp-admin\/admin-ajax.php","pageurl":"http:\/\/www.gobalakrishnan.com\/privacy\/","stats_nonce":"2674993e76","subscribe_nonce":"2487988911","is_user_logged_in":"not_logged"};
+var bloomSettings = {"ajaxurl":"http:\/\/www.gobalakrishnan.com\/wp-admin\/admin-ajax.php","pageurl":"http:\/\/www.gobalakrishnan.com\/privacy\/","stats_nonce":"cbf6f5c07c","subscribe_nonce":"66218d14e6","is_user_logged_in":"not_logged"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/plugins/bloom/js/custom.js?ver=1.1.8"></script>
 <script type="text/javascript" src="http://www.gobalakrishnan.com/wp-content/plugins/bloom/js/idle-timer.min.js?ver=1.1.8"></script>
-<script type="text/javascript" src="http://stats.wp.com/e-201651.js" async="" defer=""></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201719.js" async="" defer=""></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:4.4.2',blog:'33240520',post:'88',tz:'6',srv:'www.gobalakrishnan.com'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:4.9',blog:'33240520',post:'88',tz:'6',srv:'www.gobalakrishnan.com'} ]);
 	_stq.push([ 'clickTrackerInit', '33240520', '88' ]);
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6c22f6fe6d","applicationID":"3978348","transactionName":"MQYEYBRQW0RYABcNXAhMJ1cSWFpZFhMCA1Y=","queueTime":0,"applicationTime":1828,"atts":"HUEHFlxKSEo=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6c22f6fe6d","applicationID":"3978348","transactionName":"MQYEYBRQW0RYABcNXAhMJ1cSWFpZFhMCA1Y=","queueTime":0,"applicationTime":3352,"atts":"HUEHFlxKSEo=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
