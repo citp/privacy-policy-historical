@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boomf.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025045322id_/https%3A//boomf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomf.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514114210id_/https%3A//boomf.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Boomf
 
