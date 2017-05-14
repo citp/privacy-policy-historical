@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coinup.org privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204012613id_/http%3A//coinup.org/view.aspx%3Fs%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinup.org privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514025407id_/http%3A//www.coinup.org/view.aspx%3Fs%3Dprivacy) for the most accurate reproduction.*
 
 # CoinUp | Get free currency for your games
 
