@@ -1,29 +1,59 @@
-> *The following text is extracted and transformed from the devseeker.in privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127035454id_/http%3A//www.devseeker.in/Terms/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devseeker.in privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514022342id_/http%3A//devseeker.in/privacy-policy) for the most accurate reproduction.*
 
-# Devseeker
+# Privacy Policy - Devseeker.in
 
-**Overview**
+[Home](http://devseeker.in/)  »  Privacy Policy
 
-We have created this Privacy Policy to demonstrate our commitment to protecting information you submit. This Privacy Policy only applies to data gathered on the www.devseeker.in web site (the "Site"), and does not apply to any other information or web site. Please review this Privacy Policy periodically as we may UPDATE devseeke_v2011.it from time to time. This Privacy Policy is effective as of April 17, 2005. Each time you visit the Site or provide us with information, you are, by doing so, accepting the practices described in this Privacy Policy at that time. You agree that by using the Site you are expressly and affirmatively consenting to our use and disclosure of the information that you provide, and consenting to receive emails, as described below in this Privacy Policy. 
+## Privacy Policy
 
-**Personal Information**
+**Our Commitment To Privacy**
 
-In order to operate the Site in an efficient and effective manner and provide users with information on job postings and services that may be of interest to them, www.devseeker.in may collect personal information, including contact information (such as an email address), from its users. In addition, this information allows us to provide users with private and secure areas to post and modify their original content on our site (e.g., jobs and resumes). We also automatically track certain information based upon your behavior on the Site and use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve users in general. This information may include the URL that a user has just come from (whether this URL is on our Site or not), the URL a user goes to next (whether this URL is on our Site or not), a user's computer browser information, and their IP address.  
-You agree that www.devseeker.in may use your personal information to contact you and deliver information to you that, in some cases, is targeted to your interests (such as relevant job postings and services), or provides administrative notices or communications applicable to your use of the Site. By accepting this Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of any further receipt by following the opt out provisions provided in each such communication.
+Your privacy is important to us at Devseeker.in. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-We do not sell our users' personal information to anyone for any reason if the user has indicated a desire for us to keep the information private. When posting jobs and resumes, our users decide for themselves how much contact information they wish to display (we enable private communication for those who choose to hide this information).
+**The Information We Collect:**
 
-All users should be aware, however, that when they voluntarily display or distribute personal information (such as their email address or resume), that information can be collected and used by others. This may result in unsolicited messages from third parties for which www.devseeker.in is not responsible. Also, you may have arrived at this Web site by following a link from a www.devseeker.in newspaper affiliate or other affiliate. If so, please be aware that www.devseeker.in may share your information with that affiliate and the affiliate may use the information consistent with its privacy policy instead of this one.
+This notice applies to all information collected or submitted on devseeker.in . On some pages you can post comments, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
-www.devseeker.in may also disclose specific user information when we determine that such disclosure is necessary to comply with the law, to cooperate with or seek assistance from law enforcement or to protect the interests or safety of www.devseeker.in or other users of the Site. In addition, personal information we have collected may be passed on to a third party in the event of a transfer of ownership or assets or a bankruptcy of www.devseeker.in
+  * Name
+  * Email Address
 
-**What You Should Know**
 
-www.devseeker.in cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. Therefore, although we are committed to protecting your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. As a user of the Site, you understand and agree that you assume all responsibility and risk for your use of the Site, the internet generally, and the documents you post or access and for your conduct on and off the Site.
 
-**Protect Yourself**
+On some pages, you can submit information about other people. For example, if you want to send information regarding a page or post on our website directly to another recipient, you will need to submit the recipient’s name and email address. In this circumstance, the types of personal information used (but not kept) are:
 
-* Never give your social security number to a prospective employer.  
-* Never provide credit card or bank numbers or monetary transaction of any sort.  
-* Be cautious when dealing with contacts outside of your own country.  
-* Do not provide any non-work related personal information (i.e. social security number, eye color, etc.) over the phone or online. 
+  * Name  
+Email Address
+
+
+
+**How We Use Information:**
+
+We do not share any information you provide to us to any 3rd parties unless required to do so by law. In the event that this policy changes, you will be notified via Email and a post will be put on our website informing all users of a change in Policy.
+
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+
+You can register with our website if you would like to receive information as well as updates on our new products reviews and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
+
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of US visitors and Z number of European visitors filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
+
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+
+**Our Commitment To Data Security**
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+
+**Our Commitment To Children’s Privacy:**
+
+Protecting the privacy of the very young is especially important.
+
+For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+**How You Can Access Or Correct Your Information**
+
+You can access all your personally identifiable information that we collect online and maintain by contacting us. We use this procedure to better safeguard your information.
+
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+
+**How To Contact Us**
+
+If you need to contact us regarding this privacy policy, or if you have any other questions, please don’t hesitate to contact us at contact@devseeker.in
