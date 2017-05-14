@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the photofeeler.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013071708id_/https%3A//www.photofeeler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photofeeler.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514043034id_/https%3A//www.photofeeler.com/privacy-policy) for the most accurate reproduction.*
 
-# PhotoFeeler - Profile photo testing for social, professional, and online dating profiles.
+# Photofeeler - Privacy Policy
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS SITE.
 
 By visiting and engaging with this site in any way (with or without an account), you signify your assent to the Privacy Policy ("policy"). If you do not agree, unfortunately you cannot use this site. This is standard practice, and it is your responsibility to be aware of and abide by it.
 
-The PhotoFeeler team ("PhotoFeeler") may revise and update this policy at any time. Your continued usage of the PhotoFeeler.com website (“site”) will mean you accept those changes.
+The Photofeeler team ("Photofeeler") may revise and update this policy at any time. Your continued usage of the Photofeeler.com website (“site”) will mean you accept those changes.
 
 **1\. What information do we collect?**
 
-We collect information from you when you join our waitlist, sign up for an account, upload photos, rate photos, respond to a survey, or purchase credits. When registering on our site or purchasing credits, as appropriate, you may be asked to enter your: name, email address, mailing address, phone number, or credit card information. Optionally, you may also give us information regarding what you do for work so that PhotoFeeler users have context within which to rate your photos more accurately. If you register using a third party website like Facebook, you may be asked for further information specific to your Facebook account. A list of this information will be shown to you, so that you can accept or deny those requests at the time of registration. 
+We collect information from you when you join our waitlist, sign up for an account, upload photos, rate photos, respond to a survey, or purchase credits. When registering on our site or purchasing credits, as appropriate, you may be asked to enter your: name, email address, mailing address, phone number, or credit card information. Optionally, you may also give us information regarding what you do for work so that Photofeeler users have context within which to rate your photos more accurately. If you register using a third party website like Facebook, you may be asked for further information specific to your Facebook account. A list of this information will be shown to you, so that you can accept or deny those requests at the time of registration. 
 
 **2\. What do we use your information for?**
 
@@ -52,7 +52,7 @@ When you visit the site, a session ID cookie is placed on your computer that onl
 
 You may set your browser and your mobile settings to block cookies and local storage devices, but if you do so, you may not be able to access all of our features.
 
-PhotoFeeler uses cookies and local storage devices for a number of reasons, including to ensure the security of our app and site, to provide you with features you have requested and to analyze how members and visitors use the site. Use typically falls into three categories:
+Photofeeler uses cookies and local storage devices for a number of reasons, including to ensure the security of our app and site, to provide you with features you have requested and to analyze how members and visitors use the site. Use typically falls into three categories:
 
 those that are strictly necessary to deliver the services and products you have requested
 
@@ -60,12 +60,12 @@ cookies related to the performance of the app or site, such as analytics that he
 
 third parties cookies that also relate to functionality, such as Facebook login
 
-These cookies and local storage devices provide the functionality that our PhotoFeeler members enjoy.
+These cookies and local storage devices provide the functionality that our Photofeeler members enjoy.
 
-In some cases, the app or site feature you choose, such as Facebook login, may allow a third party to place cookies or local storage devices on your computer. The third party who places cookies on your device is responsible for how they process their data and PhotoFeeler recommends that you read their privacy policies.
+In some cases, the app or site feature you choose, such as Facebook login, may allow a third party to place cookies or local storage devices on your computer. The third party who places cookies on your device is responsible for how they process their data and Photofeeler recommends that you read their privacy policies.
 
 Our use of cookies and local share devices, including the specific cookie names, may change over time.
 
 **Effective date**
 
-Our privacy policy was last updated on: September, 15, 2013.
+Our privacy policy was last updated on: October, 1, 2015.
