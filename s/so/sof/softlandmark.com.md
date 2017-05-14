@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softlandmark.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216125948id_/http%3A//www.softlandmark.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softlandmark.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514191740id_/http%3A//www.softlandmark.com/privacy_policy) for the most accurate reproduction.*
 
 # SoftLandMark Software - Privacy Policy
 
