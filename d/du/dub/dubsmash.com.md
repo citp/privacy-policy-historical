@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubsmash.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104075434id_/https%3A//www.dubsmash.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubsmash.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514114830id_/https%3A//www.dubsmash.com/privacy) for the most accurate reproduction.*
 
 # Dubsmash - Privacy Policy
 
