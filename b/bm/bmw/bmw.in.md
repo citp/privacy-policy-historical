@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmw.in privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316185728id_/http%3A//www.bmw.in/en/footer/metanavigation/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmw.in privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514210059id_/http%3A//www.bmw.in/en/footer/metanavigation/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
