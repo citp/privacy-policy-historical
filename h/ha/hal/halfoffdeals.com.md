@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halfoffdeals.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212164202id_/http%3A//halfoffdeals.com/index.php%3Findex_type%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halfoffdeals.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514122353id_/http%3A//halfoffdeals.com/index.php%3Findex_type%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Serving up 40-90% savings on your favorite local restaurants, spas, and more! | HalfOffDeals
 
