@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roundicons.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623221410id_/https%3A//roundicons.com/privacy-policy-refunds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roundicons.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514080841id_/https%3A//roundicons.com/privacy-policy-refunds) for the most accurate reproduction.*
 
 # Privacy Policy - Round Icons
 
@@ -77,9 +77,5 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 Round Icons  |  roundicons.com  
 is Owned and Managed by Innovix solutions ltd | innovixsolutions.com
-
-222B Mohamed Saeed, Kawther Hurghada Red Sea – Egypt
-
-+201091000581
 
 hello@roundicons.com
