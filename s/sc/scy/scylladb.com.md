@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the scylladb.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219052515id_/http%3A//www.scylladb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scylladb.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514063405id_/http%3A//www.scylladb.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | ScyllaDB
+
+  
+
 
 ### Version 1.5, 8 Aug 2016
 
@@ -54,4 +57,4 @@ You can opt out of some Google data collection by visiting the Google [Personal 
 
 ## Creative Commons license
 
-This privacy policy is based on the Wordpress.org privacy policy and is available under a Creative Commons license: <http://creativecommons.org/licenses/by-sa/2.5/>.
+This privacy policy is based on the WordPress.org privacy policy and is available under a Creative Commons license: <http://creativecommons.org/licenses/by-sa/2.5/>.
