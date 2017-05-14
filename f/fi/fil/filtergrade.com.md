@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filtergrade.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027070142id_/https%3A//filtergrade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filtergrade.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514035329id_/https%3A//filtergrade.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FilterGrade
 
@@ -53,4 +53,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please **[Contact Us](https://filtergrade.com/contact-us/)**.
 
-This document was last updated on August 1, 2016.
+This document was last updated on February 1, 2017.
