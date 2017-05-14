@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the zola.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114073728id_/https%3A//www.zola.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zola.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514100653id_/https%3A//www.zola.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Zola Wedding Registry
+# Privacy Policy | Wedding Planning, Registry & Gifts
 
 Types of Information that We Collect
 
 Zola, Inc. (hereafter, “Zola”), respects your concerns about privacy. This privacy policy (“Privacy Policy”) describes the types of personal information we collect, how we use the information and with whom we share it. If you have questions or concerns regarding this Privacy Policy, you should first contact Zola by emailing support@zola.com. You may also write to Zola as the address below. The phrase “personal information” refers to information by which you or the device you are using to connect to the Internet can be identified. 
 
-When you visit our website and/or mobile applications (collectively “Website”), we may also collect certain information by automated means, such as cookies or similar technology such as web-beacons. Cookies are small amounts of data that are stored on your computer. They find their way to your browser via a web server. Cookies flag information about your activity on our Website. This information helps us improve our Website and make it friendlier and easier to use. We never use cookies to save passwords, credit card numbers or other highly confidential information. However, we may use them to provide enhanced online marketing based on your interests and preferences. Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all of our Website’s features. In addition, disabling cookies may cancel opt-outs that rely on cookies, such as web analytics or targeted advertising opt-outs. Cookies and other automated means, may be used to identify your shopping basket on our Website and enable us to identify and authenticate visitors. 
+You may visit our website without providing any personal information, although we will collect certain statistical information discussed below. If you contact us to obtain information about our products or services we may collect your name, email or street address along with other information you may choose to submit. If you create a Zola account we may collect your name and email address and ask you to choose a user name and password. If you register on our Website we may also collect the name of your fiancé(e), wedding date and other information you choose to submit. If you make a purchase through our Website we may also collect your payment and shipping information as well as your telephone number. If you upload information to the Guest List or other features on the website, we will collect the information you submit about yourself and about others. Please be aware that information or images that you post to our website is publicly available unless you password protect it, and then it is accessible by anyone using the correct password. By providing information to us you agree to our collection and use as described in this Privacy Policy. 
 
 We also may use third-party website analytics tools that collect information about visitor traffic on our Website. The types of automated information we may obtain here include, but are not limited to: (i) IP address, device type, browser and operating system type; (ii) search terms used to connect to our Website; (iii) dates and times of visits; (iv) page views and site navigation patterns; geo-location information; and (v) links and URLs that refer visitors to our Website. 
 
 Using the Information We Collect
 
-We may use the information we obtain about you in to do the following: (i) to manage and maintain your account; (ii) process and track your purchases; (iii) contacting you about your orders; (iv) Maintain a record of the purchases you make on our sites; (v) communicate with you about our Website, products, services, offers and events; (vi) have our customer support team respond to your questions and comments; (vii) operate, evaluate and improve our Website; (viii) review marketing communications to identify when emails sent to you have been received and read); (ix) prevent fraud, unauthorized transactions, and identify potential hackers and other unauthorized users; (x) enforce our Terms of Use; and (xi) comply with legal requirements and industry standards and our policies. 
+We may use the information that you provide us or that we obtain about you in to do the following: (i) to manage and maintain your account including your use of Zola Registry and Zola Weddings features; (ii) process and track your purchases; (iii) contacting you about your orders and your account, and contacting individuals at your request and on your behalf; (iv) Maintain a record of the purchases you make on our sites; (v) communicate with you about our Website, products, services, offers and events; (vi) have our customer support team respond to your questions and comments; (vii) operate, evaluate and improve our Website; (viii) review marketing communications to identify when emails sent to you have been received and read); (ix) prevent fraud, unauthorized transactions, and identify potential hackers and other unauthorized users; (x) enforce our Terms of Use; and (xi) comply with legal requirements and industry standards and our policies. 
 
 We may combine the information we collect with publicly available information and information we receive from our business partners and other third parties. We may use that combined information to enhance and personalize your shopping experience with us, to communicate with you about products, services and events that may be of interest to you, for other promotional purposes, and for other purposes described in this section. 
 
 How We Share Your Information
 
-We do not sell or otherwise disclose personal information about you, except as described in this Privacy Notice. 
+We do not sell or otherwise disclose personal information that you provide us or that we obtain unless you request, consent or authorize us to do so, except as described in this Privacy Notice. 
 
 We may share the information that you provide to us, and the information that we collect about you as described above, to others (including advertising service providers and networks) to serve you ads tailored to your interests or to tailor ads that may be served to you on our Website, as well as other websites and on social media networks. You may see certain ads on other websites because we participate in advertising networks. Ad networks allow us to target our advertising to users through demographic, behavioral and contextual means. These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web-beacons and other methods. The networks use this information to show you advertisements that are tailored to your individual interests. The information our ad network vendors collect includes information about your visit to Website as well as pages you have viewed, and the actions you have taken on the Website. 
 
@@ -77,9 +77,9 @@ Contact Us
 If you have any questions about this Privacy Policy, please contact us by email at support@zola.com You may also write us at: 
 
 Zola, Inc.  
-394 Broadway, 3rd Floor  
-New York, NY 10013 
+150 Broadway, 19th Floor  
+New York, NY 10038 
 
 Effective Date
 
-March 26, 2014 
+April 18, 2017 
