@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sellplrplugins.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605163356id_/http%3A//www.pluginmill.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellplrplugins.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514222536id_/http%3A//www.pluginmill.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Plugin Mill
+# Privacy Policy
 
 Last Updated: March 5, 2015
 
