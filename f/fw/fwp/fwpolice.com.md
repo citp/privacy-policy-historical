@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fwpolice.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528212708id_/http%3A//fwpolice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwpolice.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514153946id_/https%3A//fwpolice.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | FWPolice
+# Privacy Policy – FWPolice
 
 ### Browser Collected Information
 
@@ -22,4 +22,4 @@ A “cookie” is a small file that a Web site transfers to your computer’s ha
 
 ### Links to Other Sites
 
-Some pages on our site provide links to other Internet sites that provide further information on a topic. Once you link to another site, you are subject to the privacy policy of the new site.
+Some pages on our site provide links to other Internet sites that provide further information on a topic. Once you link to another site, you are subject to the privacy policy of the new site.[/vc_column_text][/vc_column][/vc_row]
