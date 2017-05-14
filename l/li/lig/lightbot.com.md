@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightbot.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224073242id_/http%3A//lightbot.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightbot.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514055145id_/http%3A//lightbot.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Lightbot Privacy Policy
 
