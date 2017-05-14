@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gobalakrishnan.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220125027id_/http%3A//www.gobalakrishnan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobalakrishnan.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514224208id_/http%3A//www.gobalakrishnan.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Gobala Krishnan
 
