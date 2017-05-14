@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vsco.co privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023022456id_/http%3A//vsco.co/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vsco.co privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514033558id_/http%3A//vsco.co/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | VSCO
 
