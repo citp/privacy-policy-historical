@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearbit.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310121327id_/https%3A//clearbit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearbit.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514121632id_/https%3A//clearbit.com/privacy) for the most accurate reproduction.*
 
 # Clearbit
 
@@ -8,9 +8,9 @@ Clearbit allows you to claim your profile, edit it, and hide or disclose data in
 
 [Claim your Contact Data](https://claim.clearbit.com/)
 
-###  Privacy Policy 
+### Privacy Policy
 
-Clearbit (“we”, “us” or “our”) developed this service to help you gain valuable business intelligence through our suite of APIs. We understand that privacy is important to both our online visitors and registered users. We respect your privacy and will take reasonable steps to protect your information.
+Clearbit (“we”, “us” or “our”) developed this service to help you gain valuable business intelligence through our suite of APIs. We understand that privacy is important to both our online visitors and registered users. We respect your privacy and will take reasonable steps to protect your information. Clearbit participates in the EU-US Privacy Shield framework. Please see below for Clearbit’s EU-US Privacy Shield Policy.
 
 This Privacy Policy will help you understand the following:
 
@@ -20,16 +20,15 @@ This Privacy Policy will help you understand the following:
   * Choice and opt-out
   * Protection of information
   * Changes and notifications
-  * Safe Harbor Framework
   * Contact us
 
 
 
-Please also review, if applicable, your Terms of Service agreement with Clearbit, which shall govern in the event of any inconsistency with this Privacy Policy.
+Please also review, if applicable, our Terms of Service, which shall govern in the event of any inconsistency with this Privacy Policy.
 
 #### 1\. What does this Privacy Policy apply to?
 
-Clearbit, Inc. is located at 601 4th Street, Suite 310, San Francisco, California, 94107. This Policy applies to the clearbit.com website, including all subpages and successor pages (collectively referred to as the “Website”), and also applies to all software and services that we offer, or other services that we offer through our Website when you register for a Clearbit account (collectively referred to as the “Services”).
+Clearbit is located at 3030A 16th St, San Francisco, California, 94103. This Policy applies to the clearbit.com website, including all subpages and successor pages (collectively referred to as the “Website”), and also applies to all software and services that we offer, or other services that we offer through our Website when you register for a Clearbit account (collectively referred to as the “Services”).
 
 This Policy does not apply to any website, product or service of any third-party company even if the website links to (or is linked from) our Website. Clearbit does not operate or control those websites, products or services. Please always review the privacy practices of a company before deciding whether to provide any information.
 
@@ -68,15 +67,13 @@ Our Website and Services are directed to the general public. We do not knowingly
 
 #### 3\. Sharing and disclosure of information
 
-~~~~
-
 We may disclose your Personal Information to law enforcement, government officials, or other third parties if: (i) we are compelled to do so by subpoena, court order or other legal process, (ii) we must do so to comply with laws, statutes, rules or regulations, (iii) we believe in good faith that the disclosure is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of our Terms of Service.
 
 We will only disclose your Personal Information in response to such a request if we believe in good faith that doing so is necessary to comply with applicable law or a legal obligation to which we are bound. If we receive such a request, we will use reasonable efforts to give you prompt notice, so that you may contest it if you choose. We won’t provide you such notice if we determine in good faith that either (a) we are not permitted to provide it under applicable law, or (b) that doing so would result in an imminent risk of death, serious physical injury or significant property loss or damage to Clearbit or a third party.
 
 In addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar events, any information in our possession may be transferred to our successor or assign.
 
-#### 4\. Choice and data retention
+#### 4\. Choice and opt-out
 
 We are required to collect certain Personal Information to confirm your identity and comply with our obligations. If you elect to not provide Personal Information in optional fields it may limit your ability to use our Services. You can update your account information by signing on to our Website with your Clearbit account.
 
@@ -94,13 +91,81 @@ We reserve the right, in our sole and absolute discretion, to make changes to th
 
 Clearbit will provide you with disclosures and alerts regarding this Policy by posting them on our Website, by emailing the email address listed in your Clearbit account, and/or by mailing to the physical address listed in your Clearbit Account. You agree that electronic disclosures and notices have the same meaning and effect as if we had provided you with a paper copy. Such disclosures and notices in relation to this Policy shall be considered to be received by you within 24 hours of the time it is posted to our Website or emailed to you (unless we receive notice that the email was not delivered).
 
-#### 7\. Safe Harbor Framework
+#### 7\. Contact us
 
-Clearbit complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Clearbit has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. You can learn more about the Safe Harbor program, and view Clearbit’s certification, by visiting export.gov. If you have questions regarding Clearbit’s Safe Harbor certification, please contact us.
+#### EU-U.S. PRIVACY SHIELD POLICY
 
-#### 8\. Contact us
+Clearbit (“we”, “us” or “our”) complies with the EU-U.S. Privacy Shield framework (“Framework”) as set forth by the U.S. Department of Commerce regarding the processing of personally identifiable information (“Personal Data”) transferred from the European Union (“EU”) to the U.S. (for these purposes, reference to the EU also includes the European Economic Area countries of Iceland, Liechtenstein and Norway). Clearbit has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability (“Privacy Shield Principles”). If there is any conflict between the policies in this EU-U.S. Privacy Shield privacy policy (“Policy”) and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Framework and to view our certification page, please visit <https://www.privacyshield.gov/>.
 
-If you have any questions or suggestions about this Privacy Policy or any of our privacy-related practices, please contact us.
+#### Scope
 
-This policy was last modified on June 4th, 2014.  
-[team@clearbit.com](mailto:team@clearbit.com "Contact")
+This Policy applies to Personal Data that is received by Clearbit in the U.S. from the EU.
+
+#### Types of Personal Data Collected
+
+Any information that can be used to identify an individual that is received from the EU, and is recorded in any form, including:
+
+  * Personal Data that you provide to us when you register for a Clearbit account. The information we may collect includes your name, company name, location, email address, phone number and account password;
+
+  * Personal Data we may obtain about you from third-party data sources, for example publicly available sources like the Internet and social platforms, including through the use of application programming interfaces (APIs). The data we may obtain in this way includes, for example, names, contact details, location, job title.
+
+
+
+
+We will also collect information about use of the clearbit.com website (“Website”) by visitors and registered users (“Site Usage Information”) through cookies and other technologies, including your IP address or any other unique device identifier of the device that you use to access our Website; the date and time of visits; the pages viewed; links to/from any page; time spent at a site. If you can be identified from Site Usage Information, for example by combination of those information with other pieces of information, then we will treat those information as Personal Data.
+
+#### Purposes of Data Processing
+
+We use Personal Data for the purpose of creating and maintaining your account; providing our services to you or your company; responding to and communicating with you about your inquiries and requests; notifying you about offers, new services or other promotions. We may also use Personal Data to operate, evaluate and improve our business (including improving our services; developing new services; performing accounting, auditing, financial and economic analysis, and other internal functions).
+
+We use Site Usage Information to remember your account information for future visits and to provide personalized and streamlined information across related pages on our Website, to measure web traffic and usage activity on our Website for purposes of improving and enhancing the functionality of our Website, to look for possible fraudulent activity, and to better understand the sources of traffic and transactions on our Website. In order to understand and improve the effectiveness of our advertising, we may also use web beacons, cookies, and other technology to identify the fact that you have visited our Website or seen one of our advertisements.
+
+#### PRIVACY SHIELD PRINCIPLES
+
+#### Notice
+
+This Policy provides notice of the Personal Data collected and transferred under the Privacy Shield, including its use, and handling, and how you may exercise your Privacy Shield rights. It also provides information about other Privacy Shield Principles that are set forth below.
+
+#### Choice
+
+You may tell us not to use (“opt out”) your Personal Data: (i) for disclosure to third parties, except to a third party that is acting as an agent to perform tasks on our behalf and under our instructions; (ii) for a purpose that is materially different from the purpose for which it was originally collected or that you authorized. To exercise your opt out preferences, please contact [team@clearbit.com](mailto:team@clearbit.com). You can also opt out of the use of your Personal Data for direct marketing purposes by following the instructions in any direct marketing message you may have received (e.g., by replying with unsubscribe in the subject line, or via an unsubscribe link included in such messages). You may opt out of having cookies set on your browser by managing the settings on your web browser to delete all cookies and disallow further acceptance of cookies. For more information, refer to your browser'’ technical information. You may also consider visiting aboutcookies.org, which provides helpful information about cookies. Note that disabling cookies on your browser prevents Clearbit from tracking your activities in relation to our Website and services. However, it may also disable many of the features available through our Websites and services. We therefore recommend that you leave cookies enabled.
+
+#### Accountability for Onward Transfers
+
+We may disclose Personal Data to a number of third-party contractors, service providers and other businesses involved in the normal operations of our business, for example, providers of hosting services or email communication and customer support services, to assist us in meeting business operations needs and to perform certain services and functions on our behalf and under our instructions. These parties may access, process or store Personal Data in the course of performing their duties to us.
+
+In addition, we offer customers, businesses and third-party platform providers who use our business intelligence tools access to Personal Data we obtain from third-party data sources. Disclosure of such Personal Data to those parties is necessary to process business transactions with us that they initiate. Processing of Personal Data will be subject to the privacy policies and business practices of those parties.
+
+We maintain contracts with these service providers and other third parties described above, which restrict their use and disclosure of Personal Data. Clearbit is accountable for the Personal Data we receive under the Privacy Shield that we may transfer to third parties, unless we prove that we are not responsible for an event giving rise to the harm.
+
+In certain situations, we may be required to disclose Personal Data in response to lawful requests by public authorities, including meeting national security or law enforcement requirements and applicable law, rule, order, or regulation.
+
+We may also disclose Personal Data to other corporate entities in case of a corporate sale (including sale of assets), merger, reorganization, financing due diligence, dissolution or similar event.
+
+#### Security
+
+We maintain reasonable and appropriate security measures to protect Personal Data from loss, misuse, unauthorized access, disclosure, alteration or destruction in light of the risks inherent in processing this information.
+
+#### Data Integrity and Purpose Limitation
+
+We will take reasonable steps to ensure that Personal Data is reliable for its intended use, accurate, complete and current for as long as long as we retain it. We will also retain Personal Data about you in a form identifying or making you identifiable only for as long as it serves a purpose of the data processing.
+
+#### Access
+
+You have certain rights to access, correct, amend, or delete Personal Data where it is inaccurate, or has been processed in violation of the Privacy Shield Principles. Please address your requests to the following email address: [support@clearbit.com](mailto:support@clearbit.com). We will make good faith efforts to accommodate these requests within a reasonable time frame.
+
+#### Recourse, Enforcement, Liability
+
+In compliance with the Privacy Shield Principles, Clearbit commits to resolve complaints about our processing your Personal Data. Individuals in the EU with inquiries or complaints regarding this Policy should first contact Clearbit at: [support@clearbit.com](mailto:support@clearbit.com) or by mail at: APIHub Inc., dba Clearbit, 3030A 16th Street, San Francisco, CA 94103.
+
+We have further committed to refer unresolved privacy complaints under the Privacy Shield Principles to TRUSTe, an alternative dispute resolution provider located in the U.S., at no cost to you. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please visit the website  <https://feedback-form.truste.com/watchdog/request> for more information or to file a complaint.
+
+In addition, if your complaint is not resolved through these channels, under certain conditions a binding arbitration option may be available before a Privacy Shield Panel. For additional information, please visit: <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>.
+
+We are subject to the investigatory and enforcement powers of the Federal Trade Commission with respect to Personal Data received or transferred pursuant to the Framework.
+
+#### CHANGES TO THE POLICY
+
+We reserve the right to amend this Policy from time to time consistent with the Privacy Shield’s requirements.
+
+This policy was last modified on February 8, 2017.
