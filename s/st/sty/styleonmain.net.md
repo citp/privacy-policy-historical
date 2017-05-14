@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the styleonmain.net privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104062633id_/http%3A//styleonmain.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleonmain.net privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514155539id_/http%3A//styleonmain.net/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Style on MainStyle on Main
-
-**0** Flares Twitter 0 Facebook 0 StumbleUpon 0 Email \-- Google+ 0 Reddit 0 LinkedIn 0 Filament.io **0** Flares ×
+# Privacy Policy - Style on Main
 
 **What information do we collect?**
 
@@ -21,8 +19,7 @@ Any of the information we collect from you may be used in one of the following w
 ; To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-; To process transactions  
-
+; To process transactions
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
@@ -63,5 +60,3 @@ If we decide to change our privacy policy, we will post those changes on this pa
 This policy was last modified on Sept 26, 2013
 
 This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) scans.
-
-**0** Flares Twitter 0 Facebook 0 StumbleUpon 0 Email \-- Google+ 0 Reddit 0 LinkedIn 0 Filament.io **0** Flares ×
