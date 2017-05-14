@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coinup.org privacy policy that was archived on 2016-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161204012613id_/http%3A//coinup.org/view.aspx%3Fs%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coinup.org privacy policy that was archived on 2017-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170514025407id_/http%3A//www.coinup.org/view.aspx%3Fs%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_YafHead"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
@@ -9,7 +9,19 @@
 <link rel="stylesheet" href="Styles/coinup.css?daqDdq=qq" type="text/css">
 <link rel="stylesheet" href="Styles/GlobalClassesFixed.css?saf=1" type="text/css">
 <link rel="stylesheet" href="Plugins/Alert/css/style.css" type="text/css">
-
+<meta property="og:title" content="CoinUp : Get free Pokécoins">
+<meta property="og:type" content="article">
+<meta name="keywords" content="CoinUp, CoinUp.org, pokecoins, free pokecoins, search engine, exchange coins, get free pokecoins, search, search and get rewarded">
+<meta name="description" content="Search and get coins, watch and get coins, exchange your coins for free pokécoins">
+<meta name="subject" content="Search and get coins. Exchange your coins for free pokécoins">
+<meta name="copyright" content="CoinUp">
+<meta name="topic" content="Search Engine : Search and get rewarded with free pokcecoins">
+<meta name="summary" content="Search Engine : Search and get rewarded with free pokcecoins">
+<meta name="Classification" content="Search Engine">
+<meta name="url" content="http://www.coinUp.org">
+<meta name="pagename" content="CoinUp : Search and get rewarded with free pokecoins">
+<meta name="coverage" content="Worldwide">
+<meta name="subtitle" content="Search on CoinUp and get rewarded with free pokécoins">
 
 
 <link rel="shortcut icon" type="image/ico" href="Images/Global/favicon.png">
@@ -17,7 +29,7 @@
 
 
 
-<script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="Scripts/jquery.min.js"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="Scripts/jquery.min.js"></script>
 <script src="Plugins/Alert/js/jquery.litealert.js"></script>
 
 <script src="Plugins/AdblockDetector/blockadblock.js"></script>
@@ -66,16 +78,24 @@
     License file is located in Plugins/Tipsy/LICENSE.txt-->
     <link href="Plugins/Tipsy/tipsy2.css" rel="stylesheet">
     <script src="Plugins/Tipsy/jquery.tipsy.js"></script>
-
+    <style type="text/css">
+        .bluelogo{
+            color: #2c84f0;
+            position: relative;
+            left: -242px;
+            top: 10px;
+        }
+    </style>
         <script type="text/javascript">
             jQuery(function ($) {
+                $('#coinsLink').tipsy({ trigger: 'hover', gravity: 'n', fade: true });
                 $('#coinsLink').tipsy({ trigger: 'hover', gravity: 'n', fade: true });
                 $('.menuLink').tipsy({ trigger: 'hover', gravity: 'n', fade: true, html: true });
             });
         </script>
 
         
-                   
+
 
       
 
@@ -107,6 +127,17 @@
             }
         });
 
+        $(document).ready(function() {
+            if (readCookie('hideSuggestionBox') === 'true') {
+                // do not show the box, the cookie is there
+                //console.log('no show');
+            } else {
+                // the cookie was not found or is expired, show the box
+                document.getElementById("popupDiv").style.display="block";
+            }
+            createCookie('hideSuggestionBox', 'true', 360);
+        });
+
     </script>
 
     
@@ -129,19 +160,38 @@
   //ga('send', 'pageview');
 </script>
   <!-- // Analytics -->
-
-  <!-- Begin Inspectlet Embed Code -->
-<script type="text/javascript" id="inspectletjs">
-window.__insp = window.__insp || [];
-__insp.push(['wid', 769584941]);
-(function() {
-function ldinsp(){if(typeof window.__inspld != "undefined") return; window.__inspld = 1; var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); };
-setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent ? window.attachEvent('onload', ldinsp) : window.addEventListener('load', ldinsp, false)) : ldinsp();
-})();
-
-<!-- End Inspectlet Embed Code -->
-
+  <!-- Google Code for Conversion Pixel Conversion Page -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 878513426;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "EuXsCN2romsQkpr0ogM";
+var google_remarketing_only = false;
+/* ]]> */
 </script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/878513426/?label=EuXsCN2romsQkpr0ogM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-- Hotjar Tracking Code for coinup.org -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:424172,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script><script async="" src="//static.hotjar.com/c/hotjar-424172.js?sv=5"></script>
+
+
 
 
 <title>
@@ -168,6 +218,7 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
             <div id="coinup-logo">
                 <a href="default.aspx">
                     <img src="Images/logo-good.png" style="width:95px; height:20px;"></a>
+
             </div>
             <div id="coinup-search">
                 <div id="ctl00_ctl00_HeadMenuContent_Panel1">
@@ -175,8 +226,8 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
                 <input name="ctl00$ctl00$HeadMenuContent$SearchBox" type="text" id="SearchBox" class="stextboxtop top-c" autocomplete="off">
 
                 <input type="image" name="ctl00$ctl00$HeadMenuContent$SearchButton" id="ctl00_ctl00_HeadMenuContent_SearchButton" src="Images/OneSite/search2.png" border="0" style="display:none">
-                
-           
+
+
                     <input type="submit" name="ctl00$ctl00$HeadMenuContent$SearchWebButton" value="" id="ctl00_ctl00_HeadMenuContent_SearchWebButton" class="xbuttonWebClicked">
                     <input type="submit" name="ctl00$ctl00$HeadMenuContent$SearchVideoButton" value="" id="ctl00_ctl00_HeadMenuContent_SearchVideoButton" class="xbuttonVideo">
                
@@ -187,8 +238,8 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
             <div id="ctl00_ctl00_HeadMenuContent_PanelLogged" class="coinup-points" style="width:auto; height:auto;">
 	
                 <div id="coinsLink" title="My Coins">
-                    <img src="Images/coin.png" style="width:27px;" id="memberBalanceCoinImage"><span id="MemberBalancesControlPointsLabel">0</span>
-
+                    <a href="http://www.coinup.org/user/giftcards.aspx"><img src="Images/coin.png" style="width:27px;" id="memberBalanceCoinImage"><span id="MemberBalancesControlPointsLabel">0</span>
+</a>
                 </div>
 
             
@@ -215,8 +266,8 @@ setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent
             </header>
 
                     
-     
-    <div id="maincontainer">            
+
+    <div id="maincontainer">
         <div id="main">
 
         
