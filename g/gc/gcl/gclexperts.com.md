@@ -1,43 +1,49 @@
-> *The following text is extracted and transformed from the gclexperts.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425074023id_/http%3A//www.gclexperts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gclexperts.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514131236id_/http%3A//www.gclexperts.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Immigration Expert Services
+# Privacy Policy | Green Card Lottery Experts
 
-GCLexperts is committed to safeguarding your privacy while providing our Secure Green Card Lottery online application services. We encourage you to periodically review this statement as it may change from time to time at our sole discretion. This Privacy Policy statement explains the personal information gathering and use practices of GCLexperts Organization. Questions concerning your personal information should be directed to our Privacy Officer by e-mail at [privacy@GCLexperts.com](mailto:privacy@Usafis.org)
+### Privacy Policy
+
+GCLexperts is committed to safeguarding your privacy while providing our Secure Green Card Lottery online application services. We encourage you to periodically review this statement as it may change from time to time at our sole discretion. This Privacy Policy statement explains the personal information gathering and usew practices of GCLexperts Organization. Questions concerning your personal information should be directed to our Privacy Officer by e-mail at privacy@GCLexperts.com
 
 **Information Collected**
 
 GCLexperts collects personal identifiable information about you (your “Data”) at the time of purchase such as:
 
-• Name  
-• Age  
-• Gender  
-• Address  
-• Phone and/or mobile numbers  
-• Country  
-• Zip code  
-• Email  
-• IP address and browser information  
-• Market research data such as customer usage patterns
+  * Name
+  * Age
+  * Gender
+  * Address
+  * Phone and/or mobile numbers
+  * Country
+  * Zip code
+  * Email
+  * IP address and browser information
+  * Market research data such as customer usage patterns
+
+
 
 **Use and Disclosure of Personal Information**
 
 We use your Data for legitimate business operational and marketing purposes, which may include:
 
-• Enhancing our customer service  
-• Processing orders and inquiries  
-• Improving our website and services  
-• Resolving disputes, collecting fees, and troubleshooting problems.  
-• Conducting market research surveys.  
-• Occasionally offering current subscribers the chance to participate in contests.  
-• Providing you with information about products and services we offer.  **You may stop the delivery** of marketing emails by following the instructions accompanying a particular communication or by contacting us at ** **[privacy@GCLexperts.com](mailto:privacy@Usafis.org)
+  * Enhancing our customer service
+  * Processing orders and inquiries
+  * Improving our website and services
+  * Resolving disputes, collecting fees, and troubleshooting problems.
+  * Conducting market research surveys.
+  * Occasionally offering current subscribers the chance to participate in contests.
+  * Providing you with information about products and services we offer. You may stop the delivery of marketing emails by following the instructions accompanying a particular communication or by contacting us at privacy@GCLexperts.com
 
-GCLexperts Organization may share information about users with business partners, sponsors and other third parties. We provide this information in aggregate form so that no individual user is identified.  **If** you prefer not to receive online marketing information from third-party companies, please contact our Privacy Officer by e-mail at ** **[privacy@GCLexperts.com **.**](mailto:privacy@Usafis.org)
 
-GCLexperts sends messages to its subscribers via email regarding its products, new services, improvements, notice of scheduled services, etc. Our subscribers may opt-out of receiving this information by suspending their subscription with us.
+
+GCLexperts Organization may share information about users with business partners, sponsors and other third parties. We provide this information in aggregate form so that no individual user is identified. If you prefer not to receive online marketing information from third-party companies, please contact our Privacy Officer by e-mail at privacy@GCLexperts.com.
+
+GCLexperts sends messages to its subscribers via email regarding its products, new services, improvements, notice of scheduled services, etc. Our subscribers may opt-out of receiving this information by suspending their subscription with us.
 
 **Payment Collection Information**
 
-When purchasing a product using a credit card, you will be asked to submit data such as the credit card number and details. GCLexperts is hosted on a secure server and uses the most updated information security technology, whose purpose is to protect your credit card details during the transmission of data stored on the servers. This SSL technology (‘Secure Sockets Layers’), secures billions of dollars’ worth of transactions over the internet. GCLexperts uses a mediator such as PayPal and GiroPay for the purpose of providing alternative payment solutions.
+When purchasing a product using a credit card, you will be asked to submit data such as the credit card number and details. GCLexperts is hosted on a secure server and uses the most updated information security technology, whose purpose is to protect your credit card details during the transmission of data stored on the servers. This SSL technology (‘Secure Sockets Layers’), secures billions of dollars’ worth of transactions over the internet. GCLexperts uses a mediator such as PayPal and GiroPay for the purpose of providing alternative payment solutions.
 
 **Security Policy**
 
@@ -51,16 +57,13 @@ GCLexperts includes links to different sites. Please note that when ‘clicking�
 
 **Access to Data and Contact Info**
 
-You may request a copy or send a correction of the personal information we hold about you by contacting the Privacy Officer at [privacy@GCLexperts.com](mailto:privacy@Usafis.org) or writing to:
+You may request a copy or send a correction of the personal information we hold about you by contacting the Privacy Officer at privacy@GCLexperts.com or writing to:
 
-Privacy Officer:
-
-GCLexperts
-
-366 Amsterdam Avenue # 163 
-
+Privacy Officer  
+GCLexperts  
+366 Amsterdam Avenue # 163  
 NEW YORK, NY 10024
 
 **Changes to this Policy**
 
-Periodically, we may make changes to this privacy policy statement or the manner of use of your personal information to reflect any changes to our privacy practices. We will notify you about material changes to this Privacy Policy by placing a prominent notice on our website.
+Periodically, we may make changes to this privacy policy statement or the manner of use of your personal information to reflect any changes to our privacy practices. We will notify you about material changes to this Privacy Policy by placing a prominent notice on our website.
