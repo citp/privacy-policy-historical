@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the data.gov privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228102333id_/https%3A//www.data.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the data.gov privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515195649id_/https%3A//www.data.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Website Policies - Data.gov
 
@@ -157,7 +157,7 @@ Top
 
 
 
-[](https://web.archive.org/app/uploads/2015/08/cl03j7swsaazth3.png)
+[](https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2015/08/cl03j7swsaazth3.png)
 
   * Placement of the Data.gov logo is to be used only as a marker to the home page and not as a form of endorsement or approval from Data.gov, the Technology Transformation Service, the U.S. General Services Administration, or the U.S. Government.
 
