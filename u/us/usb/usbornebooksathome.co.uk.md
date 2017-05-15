@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usbornebooksathome.co.uk privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031054633id_/http%3A//www.usbornebooksathome.co.uk/misc/legal-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usbornebooksathome.co.uk privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515052758id_/http%3A//www.usbornebooksathome.co.uk/misc/legal-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Usborne Books at Home
 
