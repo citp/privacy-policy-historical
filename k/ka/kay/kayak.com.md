@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kayak.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114185255id_/https%3A//www.kayak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayak.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515133613id_/https%3A//www.kayak.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – KAYAK
+# Privacy Policy - KAYAK
 
-_Effective as of September, 2016_
+_Effective as of February, 2017_
 
 This policy describes KAYAK’s practices regarding personally identifiable information and data (“personal information”). This policy applies to our websites, applications, email and text messages, and social media accounts (the “Platforms”). When you use the Platforms, you agree to the terms in this policy.
 
@@ -14,7 +14,7 @@ If you book a travel product via the Platforms, we may need additional informati
 
 If you choose to register, we will collect your email address, password and home airport, and other preference information you provide us. If you choose a third-party service, like Facebook Login, to register or login, you are permitting us to use and store that information related to the account.
 
-If you make a booking on KAYAK we will automatically create a “Trips” account for you and you will have access to our “Trips” service, where we will collect your travel information to create and maintain your travel itineraries. This can include the personal information that may be included in the confirmation emails you give us access to.
+If you make a booking on KAYAK or within our mobile applications, we may automatically create a “Trips” account for you, which will give you access to our “Trips” service, where we will collect your travel information to create and maintain your travel itineraries. This can include the personal information that may be included in the confirmation emails you give us access to.
 
 When you give us personal information, you are telling us that the information is true, accurate, complete and current. You are also telling us that you have the authorization to provide it to us.
 
@@ -115,7 +115,7 @@ Stamford, CT 06902, USA.
 
 We (or our suppliers) use several common tracking tools. We use these tools to collect usage and demographic information about you over time and across different Web sites when you use our Platforms. We also have third parties (e.g. advertisers) that collect personal information this way. Tools we use may include browser cookies. Your browser will store these cookies on your computer in a small file.
 
-We and our advertising partners may also use web beacons (single pixel GIF images). These web beacons are placed in the code of a Web page or an email newsletter.
+We and our advertising partners may also use web beacons (single pixel GIF images). These web beacons are placed in the code of a Web page or an email newsletter. When you access a partner site within our mobile applications, we may track your activity on that site.
 
 By using the Platforms, you give us your free, unambiguous and informed consent to the use of any of the cookies and tracking tools mentioned in this policy.
 
@@ -126,7 +126,7 @@ By using the Platforms, you give us your free, unambiguous and informed consent 
   * (iii) To store your username and password if you are registered with us.
   * (iv) To work with online advertising companies to display targeted advertising on our Platforms and third party platforms that you visit. This targeting may be based on information you submit on our Platforms or third party platforms. This targeting may also be based on your activities or behaviors on our Platforms or those of third parties. We may also obtain information about your browsing history from our business partners. To learn more about targeted advertising and how you can accept or refuse (opt-out of) this type of advertisements, we recommend that you visit [www.aboutads.info/choices](http://www.aboutads.info/choices) or [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
   * (v) To track when you book on partner websites.
-  * (vi) To help improve our website offering and for capacity planning purposes. We or our third party service providers may set analytics cookies. These allow us to gather aggregated or segmented information about the types of visitors that access our Platforms and the pages and advertisements that they view. We do not use this information to personally identify you.
+  * (vi) To help improve our website offering and for capacity planning purposes. We or our third party service providers may set analytics cookies. These allow us to gather aggregated or segmented information about the types of visitors that access our Platforms and the pages and advertisements that they view. In order to better understand your use of our Platforms, we or our third party service providers may collect information on such use, including pages visited, links clicked and mouse movements. We do not use this information to personally identify you.
 
 
 
@@ -134,7 +134,7 @@ By using the Platforms, you give us your free, unambiguous and informed consent 
 
 Your browser may give you the ability to control cookies. How to do this varies from browser to browser. You should view the Help menu on the browser you use for further information.
 
-To opt out of having your online behavior tracked for advertising purposes [click here](http://www.aboutads.info/choices/).
+To opt out of having your online behavior tracked by KAYAK for advertising purposes [click here](javascript:void\(0\);); this opt out applies to interest-based advertising and other applicable uses of Web viewing data on this browser by KAYAK. You may still receive other types of online advertising from KAYAK, and KAYAK may still collect information for other purposes consistent with this Privacy Policy. Your opt out choice is stored in opt out cookies only in this browser, so you should separately set your preferences for other browsers, computers, or devices you may use. If your browser blocks cookies, your opt out preferences may not be effective. Deleting browser cookies can remove your opt out preferences, so you should visit this page periodically to review your preferences.
 
 We may also use Google Analytics to collect demographic and interest data about you (such as age, gender, and interests), including through Google Analytics Demographics and Interest Reporting. You can find out more about Google Analytics and how to opt-out by going [here](https://support.google.com/analytics/answer/2799357). Choices you make are browser and device specific. Some aspects of our site use cookies to function. You may not be able to use these features if you set your device to block cookies. If you block or delete cookies or opt out of online behavioral advertising, not all of the tracking that we have described in this policy will stop.
 
