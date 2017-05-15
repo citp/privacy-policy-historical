@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poptm.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216103045id_/http%3A//poptm.com/privacy-and-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poptm.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515133431id_/http%3A//poptm.com/privacy-and-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Poptm - Pop Your Cash At Any Time
 
