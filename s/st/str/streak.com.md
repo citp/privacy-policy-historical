@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streak.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817205621id_/https%3A//www.streak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streak.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515100856id_/https%3A//www.streak.com/privacy) for the most accurate reproduction.*
 
 # Streak - CRM in your Inbox
 
