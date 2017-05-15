@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourtv.link privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119063412id_/http%3A//yourtv.link/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourtv.link privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515134935id_/http%3A//www.yourtv.link/privacy) for the most accurate reproduction.*
 
 # Your Tv Link - Privacy Policy
 
