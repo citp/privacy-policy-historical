@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesop.org privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214044344id_/http%3A//thesop.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesop.org privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515210034id_/http%3A//thesop.org/privacy_policy.html) for the most accurate reproduction.*
 
 # theSOP Privacy Policy
 
