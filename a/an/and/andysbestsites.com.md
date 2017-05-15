@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the andysbestsites.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211005312id_/http%3A//www.andysbestsites.com/privacy-statement-othermenu-48) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andysbestsites.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515080350id_/http%3A//andysbestsites.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | AndysBestSites.com
+# Privacy Statement | AndysBestSites
 
-**What This Privacy Policy Covers**   
+**What This Privacy Policy Covers**  
 This policy covers how AndysBestSites.com, and the group of sites belonging to AndysBestSites.com, including but not limited to, AndysPhotoPost.com, MaxBoys.com, CellPhoneBoys.com, KubasPicks.com, and RobbiesBoys.com (and any others added to this group) treats any personal information that AndysBestSites.com might have collected and received, including information related to your past use of any AndysBestSites services. Personal information is information about you that is personally identifiable like your name, address, email address and that is not otherwise publicly available.
 
 Hereafter, in this document, AndysBestSites refers to all the above mentioned sites in the AndysBestSites group.
@@ -20,3 +20,5 @@ AndysBestSites will not under any circumstances give out any personally identifi
 
 **In short**  
 AndysBestSites respects your privacy, any information we might have will not be disclosed or given away to anyone else or any third party. AndysBestSites will refuse to disclose ANY information regarding the User unless otherwise required by order of a court of competent jurisdiction, a subpoena properly issued by a court of competent jurisdiction, or upon the advice of our Legal Counsel in cases where we in good faith believe or we become aware that the User has engaged in illegal activity such as credit card fraud or any other serious breaches of our Terms of Service.
+
+[ ](http://andysphotopost.com/ "Andys Famous PhotoPost - more than a half million gay teen boy and twink photos!")
