@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zurichinternationalsolutions.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430152627id_/https%3A//www.zurichinternational.com/en/zurich-international-life/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zurichinternationalsolutions.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516000926id_/https%3A//www.zurichinternational.com/en/zurich-international-life/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy | About us | Zurich International Life
 
