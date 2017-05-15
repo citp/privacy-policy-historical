@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallfest.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201110512id_/http%3A//wallfest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallfest.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515081947id_/http%3A//wallfest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WallFest
 
