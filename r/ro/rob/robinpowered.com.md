@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the robinpowered.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312030143id_/https%3A//robinpowered.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robinpowered.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515131023id_/https%3A//robinpowered.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Robin
 
-Last updated August 13, 2014
+Last updated December 27, 2016
 
 Welcome to Robin. You've arrived either via https://robinpowered.com (the "Site") or the Robin platform (the "Platform"). To keep things simple, we'll call the two of these the "Service" throughout this policy. This Privacy Policy explains Robin’s policy for personally identifiable information (“Personal Information”) and other information we collect from both users and visitors to the Service.
 
@@ -19,6 +19,8 @@ This privacy policy doesn't apply to:
   * Data collection that happens offline or outside of our Service (unless otherwise stated below).
 
   * The data practices of third parties who may interact with our Service.
+
+  * Robin is responsible for data we share with 3rd parties in relation to our service, but we are not responsible for any unauthorized or unofficial integrations that our customers create
 
 
 
@@ -184,9 +186,25 @@ You are responsible for maintaining the accuracy of the information you submit t
 
 ### International Users
 
-Our Service is operated in the United States. If you are located outside of the United States, please be aware that information we collect, including Personal Information, will be transferred to, and processed, stored and used in the United States. The data protection laws in the United States may differ from those of the country in which you are located, and your Personal Information may be subject to access requests from governments, courts, or law enforcement in the United States according to laws of the United States. We are in the process of verifying EU Safe Harbor compliance.
+Our Service is operated in the United States. If you are located outside of the United States, please be aware that information we collect, including Personal Information, will be transferred to, and processed, stored and used in the United States. The data protection laws in the United States may differ from those of the country in which you are located, and your Personal Information may be subject to access requests from governments, courts, or law enforcement in the United States according to laws of the United States.
 
-By using the Service or providing us with any information, you consent to the transfer to, and processing, usage, sharing, controlling and storage of your information, including Personal Information, in the United States as set forth in this Privacy Policy
+By using the Service or providing us with any information, you consent to the transfer to, and processing, usage, sharing, controlling and storage of your information, including Personal Information, in the United States as set forth in this Privacy Policy.
+
+#### European Union Users — Privacy Shield Framework
+
+_This section will be effective immediately for all users registered after December 27, 2016, and on February 1, 2017 for existing users._
+
+Robin participates in and has certified its compliance with the [EU-U.S. Privacy Shield Framework](https://www.privacyshield.gov/participant?id=a2zt0000000018BAAQ). Robin is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework's applicable Principles. To learn more about the Privacy Shield Framework, visit the [U.S. Department of Commerce's Privacy Shield List](https://www.privacyshield.gov/list). 
+
+Robin is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Robin complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Robin is subject to the regulatory investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain situations, Robin may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+In compliance with the Privacy Shield Principles, Robin commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Robin by email via [privacy@robinpowered.com](mailto:privacy@robinpowered.com).
+
+Robin has further committed to refer unresolved Privacy Shield complaints to [JAMS](https://www.jamsadr.com/eu-us-privacy-shield), an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.jamsadr.com/eu-us-privacy-shield> for more information or to file a complaint. **The services of JAMS are provided at no cost to you.**
+
+Under certain conditions, more fully described on [the Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 ### Children & COPPA
 
@@ -209,6 +227,14 @@ Robin Powered Inc.
 Boston, MA   
 02110 
 
+* * *
+
+### Dispute Resolution
+
+Anyone can bring up privacy complaints directly to us at the contact above and we will respond within 45 days. If both sides fail to resolve the complaint, the individual has a right to engage with [JAMS](https://www.jamsadr.com/eu-us-privacy-shield) to address the complaint at no cost to them.
+
+* * *
+
 ### What happens when this policy changes?
 
 We reserve the right to change this Privacy Policy at any time. Any changes will be effective immediately upon the posting of the revised Privacy Policy and your use of our Service indicates your consent to the privacy policy posted at the time of use. However, we will not use your previously collected Personal Information in a manner materially different than represented at the time it was collected without your consent.
@@ -220,7 +246,11 @@ We will also keep a log on this page to track changes across revisions. You can 
   
 
 
-#### Recent Changes
+#### Latest Changes
+
+  * December 27, 2016: Added dedicated section for Privacy Shield
+
+  * August 18, 2016: Added clarifications for Privacy Shield compliance
 
   * August 13, 2014: Initial draft published
 
