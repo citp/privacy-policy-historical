@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the californiawatch.org privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128202017id_/http%3A//californiawatch.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the californiawatch.org privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515043717id_/http%3A//californiawatch.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | California Watch
 
