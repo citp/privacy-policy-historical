@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twilio.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013232733id_/https%3A//www.twilio.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twilio.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515235741id_/https%3A//www.twilio.com/legal/privacy) for the most accurate reproduction.*
 
-# Twilio Cloud Communications - APIs for Voice, VoIP, and Text Messaging
+# Privacy Policy - Twilio
 
 Twilio is a cloud communications company. Our products and services enable you to build communications features and capabilities into your web, desktop and mobile software applications.
 
@@ -33,7 +33,7 @@ We have not changed how we handle or secure data we collect from you on our webs
  **February 1, 2016 Updates:**
 
   * We changed the format of our privacy policy to try to make it easier to understand and find the information relevant to you.
-  * Instead of one privacy notice covering (1) our website, (2) our developer products and account portal, and (3) our Authy app, we have broken it out into three separate notices that focus on our processing of data as to each of those three things. 
+  * Instead of one privacy notice covering (1) our website, (2) our developer products and account portal, and (3) our Authy app, we have broken it out into three separate notices that focus on our processing of data as to each of those three things.
   * We included a summary version for each of our privacy notices for quick reference. While it isn’t the “legal version,” it gives you a quick summary of what the accompanying full version of the privacy notice says.
   * We’ve also added tables of contents with links to allow you to navigate to the portion of the privacy notice you’re most interested more quickly.
   * We made changes to the International Operations and Transfers Out of the EEA and Switzerland sections of our privacy policies in response to the October 6, 2015 determination by the European Court of Justice that the Safe Harbor Framework no longer provides a valid basis for transfers from the European Economic Area (EEA) countries to the United States. While Twilio now uses alternative mechanisms to the Safe Harbor Framework to transfer data from EEA countries to the United States, Twilio continues to be certified under the Safe Harbor Framework, abides by the Framework, and adheres to the Safe Harbor Privacy Principles. Twilio is hopeful that a new Safe Harbor program will be put into place. Nonetheless, in the interim, in our Developer Products and Account Portal Privacy Policy, we’ve noted that, as appropriate, Twilio will enter into the Twilio Inc. Data Processing Agreement, which incorporates standard contractual clauses deemed by the European Commission to offer adequate data protection and safeguards in relation to any transfer of Personal Data out of the European Economic Area. Please see our [Terms of Service](https://web.archive.org/legal/tos) for more information.
@@ -62,13 +62,19 @@ We have not changed how we handle or secure data we collect from you on our webs
 
 
 
+ **January 24, 2017 Update:**
+
+  * We updated the Authy app notice to clarify what data we collect from users of the Authy app and what information we share back with websites and programs that integrate with the Authy API for purposes of verifying your identity and securing your online accounts.
+
+
+
 While we’ve done our best to make our privacy notices complete, readable, and understandable, you may still have additional questions about our privacy practices even after reading the notices. We get that, so feel free to contact us through email at [privacy@twilio.com](mailto:privacy@twilio.com).
 
 Or, if you prefer, you may write to us at:
 
 Twilio Inc.  
-645 Harrison Street, Third Floor  
-San Francisco, CA 94107 
+375 Beale Street, Suite 300  
+San Francisco, CA 94105 
 
 Twilio Ireland Limited,  
 25-28 North Wall Quay  
