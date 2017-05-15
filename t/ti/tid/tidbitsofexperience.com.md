@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tidbitsofexperience.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102135906id_/http%3A//www.tidbitsofexperience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tidbitsofexperience.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515023533id_/http%3A//www.tidbitsofexperience.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tidbits of Experience
 
