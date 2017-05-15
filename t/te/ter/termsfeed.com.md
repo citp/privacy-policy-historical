@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the termsfeed.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422183351id_/https%3A//termsfeed.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the termsfeed.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515163853id_/https%3A//termsfeed.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TermsFeed
+# Our Privacy Policy - TermsFeed
 
-Our Privacy Policy was last updated and posted on 13 September 2012. It governs the privacy terms of our Website, located at www.termsfeed.com. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our [Terms of Use](https://web.archive.org/legal/terms-of-use).
+Our Privacy Policy was posted on 13 September 2012 and last updated on 01 January 2014. It governs the privacy terms of our Website, located at www.termsfeed.com. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Use accessible at <https://termsfeed.com/legal/terms-of-use>
 
 **Your Privacy**  
 TermsFeed follows all legal requirements to protect your privacy. Our Privacy Policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information. You will see terms in our Privacy Policy that are capitalized. These terms have meanings as described in the Definitions section below.
@@ -53,6 +53,9 @@ We may be legally required to disclose your Personally Identifiable Information,
 
 
 
+
+**Do Not Track ("DNT")**  
+We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked. You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
 
 **Protecting Your Child's Privacy**  
 Our Website is not designed for use by anyone under the age of 13 ("Child"), though we realize we may have a Child attempt to make purchases through our Website. We do not verify the age of our Users nor do we have any liability for verifying a User's age. If you are a Child, please seek the permission of a parent or guardian before using our Website.If you are a parent or guardian and believe your Child is using our Website, please contact us to remove your Child's account; we reserve the right to ask you for verification of your relationship to the Child before we honor such a request. If we discover that a Child has created an account on our Website, we will immediately delete the account as soon as we discover it, we will not use the information for any purpose, and we will not disclose the information to third parties. However, as parent of such a Child, you understand that you are legally liable for any transactions created by the Child.
