@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namestall.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226123628id_/http%3A//www.namestall.com/privacy-and-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namestall.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515123003id_/http%3A//www.namestall.com/privacy-and-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NameStall
 
@@ -16,15 +16,15 @@ We do not share your domain name ideas or domain keyword lists and never registe
 
 However, we do not also reserve any domain names for our users. If you find available domain names, you are at your own risk to register them as soon as possible.
 
-Only when you share or submit your domain name ideas or suggestions to our [user domain suggestions](http://www.namestall.com/user-domain-suggestions "User Submitted Domain Suggestions") section, we disclose your ideas. And we never register any domain name when a user domain name is in pending condition. Just because of extensive abuse and junk & rubbish [domain name suggestions](http://www.namestall.com/domain-name-suggestions "Domain Name Suggestions") we keep users’ domain name suggestions in pending queue (waiting for approval). And we manually check all submitted pending domain names to avoid abuse and maintain quality suggestion list.
+Only when you share or submit your domain name ideas or suggestions to our [user domain suggestions](http://www.namestall.com/user-domain-suggestions "User Submitted Domain Suggestions") section, we disclose your ideas. And we never register any domain name when a user domain name is in pending condition. Just because of extensive abuse and junk & rubbish [domain name suggestions](http://www.namestall.com/domain-name-suggestions "Domain Name Suggestions") we keep users� domain name suggestions in pending queue (waiting for approval). And we manually check all submitted pending domain names to avoid abuse and maintain quality suggestion list.
 
 ### Keyword Statistics
 
-NameStall uses the aggregated keyword data for statistical purposes - for example “1000 Top Words” keywords used during some time period. The keywords in the statistics are never published unless there have been at least several hundred query occurrences.
+NameStall uses the aggregated keyword data for statistical purposes - for example �1000 Top Words� keywords used during some time period. The keywords in the statistics are never published unless there have been at least several hundred query occurrences.
 
 ### Google Keyword Statistics
 
-We manually grab data from google keyword tool for your [high paying keywords](http://www.namestall.com/high-paying-keywords "High Paying Keywords") domain search list. And we do not update those data (like keyword, competition, global monthly search volume, cpc) everyday or frequently. For top popular domain keywords it is same. So data may not match with google’s latest data (as google updates them frequently) sometimes. Please use those data at your own risk.
+We manually grab data from google keyword tool for your [high paying keywords](http://www.namestall.com/high-paying-keywords "High Paying Keywords") domain search list. And we do not update those data (like keyword, competition, global monthly search volume, cpc) everyday or frequently. For top popular domain keywords it is same. So data may not match with google�s latest data (as google updates them frequently) sometimes. Please use those data at your own risk.
 
 ### Cookies
 
