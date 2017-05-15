@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 30dcinc.net privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602180733id_/http%3A//30dcinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 30dcinc.net privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515085134id_/http%3A//30dcinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 30DC Inc
 
