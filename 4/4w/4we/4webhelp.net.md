@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4webhelp.net privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121034008id_/http%3A//www.4webhelp.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4webhelp.net privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515080328id_/http%3A//www.4webhelp.net/privacy.php) for the most accurate reproduction.*
 
 # 4WebHelp - Privacy Statement
 
