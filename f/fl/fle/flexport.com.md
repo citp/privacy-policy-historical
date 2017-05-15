@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flexport.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921195934id_/https%3A//www.flexport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexport.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515043830id_/http%3A//www.flexport.com/privacy) for the most accurate reproduction.*
 
-# Flexport - Freight Forwarding and Customs Brokerage
+# Flexport - Freight Forwarder and Customs Broker
 
 Flexport, Inc., and its affiliates and subsidiaries and each of their directors, officers, employees, and authorized representative (collectively, "Flexport") respect your privacy. This Global Privacy Policy describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices. Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements.
 
@@ -98,8 +98,8 @@ If you are located in the European Economic Area or Switzerland, we comply with 
 The following Flexport entities in Europe may process personal data provided from the Flexport Europe website and/or may be considered the responsible party under your local law:
 
 Flexport, Inc.  
-501 Folsom St., Suite 300  
-San Francisco, CA 94105
+731 Market Street, 6th Floor  
+San Francisco, CA 94103
 
 #### How We Protect Personal Information
 
@@ -126,6 +126,6 @@ If you have any questions or comments about this policy, or if you would like us
 Corporate Data Protection Officer
 
 Flexport, Inc.  
-501 Folsom St., Suite 300  
-San Francisco, CA 94105  
+731 Market Street, 6th Floor  
+San Francisco, CA 94103  
 [privacy@flexport.com](mailto:privacy@flexport.com)
