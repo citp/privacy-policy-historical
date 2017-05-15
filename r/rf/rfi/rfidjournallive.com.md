@@ -1,59 +1,51 @@
-> *The following text is extracted and transformed from the rfidjournallive.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101211352id_/http%3A//www.rfidjournal.com/article/articleview/213) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rfidjournallive.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515153455id_/http%3A//www.rfidjournal.com/article/articleview/213) for the most accurate reproduction.*
 
-# RFID Journal Privacy Statement - RFID Journal
+# Privacy Policy | Emerald Expo
 
-RFID Journal LLC. ("RFID Journal") recognizes the importance of protecting the privacy of all information provided by users of our website and recipients of our e-mail newsletters. We created this policy with a fundamental respect for our users’ right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by RFID Journal, including but not limited to websites and newsletters. 
+**PRIVACY POLICY  
+EFFECTIVE DATE: August 10, 2015**
 
-**Information Collection And Use**   
-RFID Journal collects information from our website users, subscribers and customers. In this section of our privacy policy, we will describe the type of information we collect and how we use it to provide better services to our customers. 
+**Privacy Notice** **  
+** This privacy notice covers the collection and use of information for this website (“website”). This website is managed and operated by Emerald Expositions, LLC (“Emerald Expositions” or “us” or “we”).
 
-**Website Usage**   
-You may visit the RFID Journal website without identifying yourself or revealing any personal information. As you use the site, the site collects log file, the IP address of your computer, and other standard tracking data that RFID Journal use to evaluate site traffic and usage patterns. This information is aggregated with tracking data from all site visitors and is used both to enable us to tailor content to the interests of visitors and to inform advertisers of the usage patterns and interests of our readers. 
+**About Emerald Expositions** **  
+** Emerald Expositions is a leading owner and operator of business-to-business tradeshows in the United States connecting hundreds of thousands of buyers and sellers across multiple diversified end markets. Emerald Expositions owns and/or operates multiple trade shows, publications, conferences and websites serving various industries. For more information please visit [www.emeraldexpositions.com](https://www.emeraldexpositions.com/).
 
-**Registering and Subscribing**   
-When attending our events, signing up for certain selected services (such as free subscriptions), or subscribing to our paid content, users must first register. During registration, users are required to give their contact information (such as name, e-mail address, mailing address and phone number). We also collect demographic information (such as job title and purchasing responsibilities, and company information). For internal purposes, we use this information to communicate with users and provide requested services. We use aggregate demographic information about our audience to improve our service, for marketing purposes and/or industry reporting purposes. 
+**What Information We Collect and How We Use It** **  
+** We collect personally identifiable information that you choose to provide to us when you register for a trade show, subscribe to our magazines (either directly or through another company such as a subscription agency), sign up for email newsletters, enter a sweepstakes or contest, participate in surveys, or otherwise submit through our website. During the registration process we may request certain contact information and demographic information about you such as your name, mailing address, email address, company name, size of company and title. We also may receive information about you from other sources and add it to the information you have provided to us. If you choose to register for a trade show on this website, you may also be asked to provide your credit card information to fulfill your registration request.
 
-**Surveys**   
-From time to time we invite users to provide information via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether to disclose requested contact information (such as name and mailing address) and demographic information (such as zip code or job title). This information is used in accordance with other uses set forth in this policy. 
+**When We May Disclose Your Information to Others** **  
+** Emerald Expositions may use and disclose your contact information for any of the following reasons:  
+• To provide you with information about products or services you are interested in, including trade shows.  
+• To provide you with e-newsletters you have requested.  
+• To send you notices for subscription renewal.  
+• To contact you regarding marketing endeavors.
 
-**Communications With Us**   
-We have features where users can submit information to us (such as our feedback forms). Letters to the editor and similar submissions may be made public. Requests for service, support or information may be forwarded as needed to best respond to a specific request. We may retain e-mails and other information sent to us for our internal administrative purposes, and to help us to serve customers better. 
+If you do not wish to receive marketing information from Emerald Expositions, or wish to opt out of future email promotions from Emerald Expositions, please email [privacy@emeraldexpo.com](mailto:privacy@emeraldexpo.com). Please note that all promotional email messages you receive from Emerald Expositions will include an option to opt out of future email communications.  
+From time to time, Emerald Expositions may also share your contact information with other organizations, such as trade show exhibitors and vendors, for marketing purposes. If you do not wish to receive such offers, please click here.
 
-**Communications From Us**   
-In order to best serve our customers, we may send updates that contain important information about our sites and services. For example, we send new members a welcoming message, and verify password and username for our password-protected sites. We may also communicate with a user to provide requested services and for account-related issues via e-mail, phone or regular mail. 
+We contract with third party companies that we have engaged to provide us with specialized services, including customer service, registration, subscription fulfillment, housing, research, statistical analysis, list cleansing, postal mailings, email and fax deployment, and other information services. These companies or individuals may be provided with access to personally identifiable information, but only as needed to perform their functions. These companies are required to maintain the confidentiality, security and integrity of such information.
 
-**Cookies**   
-We use "cookies," a piece of data stored on the user's hard drive containing information about the user. Cookies benefit the user by requiring login only once, thereby saving time while on our site. If users reject the cookies, they may be limited in the use of some areas of our site. Cookies also enable us to track and target the interests of our users to enhance the experience on our sites. 
+Notwithstanding any other provision of this privacy notice, we may disclose personally identifiable information to any third party when disclosure is required by law, or desirable to permit us to exercise or preserve our legal rights or take action regarding potentially illegal activities or to protect the safety of any person. In the event we are acquired by or merged with a third party entity or in the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected as part of such merger, acquisition, sale, or other change of control.
 
-Some of our business affiliates use cookies on our sites in ads or promotions. However, we have no access to or control over these business affiliates' cookies; we urge users to read their privacy policies for information. 
+**Cookies, Web Beacons, and Log Files** **  
+** We may automatically collect non-personally identifiable information and data through the use of “cookies” or other technology. Cookies are small text files a website uses to recognize repeat users, facilitate the user’s ongoing access to the website and facilitate the use of the website. Cookies and other technology also allow a website to track usage behavior and compile website usage information that will allow for the improvement of content and target advertising.
 
-For our internal purposes, we gather date, time, browser type, navigation history and IP address of all visitors to our site. This information does not contain anything that can identify users personally. We use this information for our internal security audit log, trend analysis and system administration, and to gather broad demographic information about our user base for aggregate use. 
+We also use third-party advertising companies, such as Google, who may use cookies, web beacons or other technologies to collect information from our website. These companies may use non-personally identifiable information ( _i.e._ , not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on this website and other websites about goods and services that may be of interest to you. They may also collect information about your online activities over time and across different websites and other online services. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) and [Digital Advertising Alliance](http://www.aboutads.info/choices/). Your browser or device may include “Do Not Track” functionality. The information collection and disclosure practices, and the choices that we provide to you, will continue to operate as described in this privacy notice, whether or not a Do Not Track signal is received.
 
-We may combine demographic information supplied by a subscriber at registration with site usage data to provide general profiles, in aggregate non-personally identifiable form, about our users and their preferences in the content of the site and advertising. We may share this composite information with our advertisers and business affiliates to help them better understand our services. 
+This website makes use of log files and collects information about your interaction with this website in order to perform analytics and market our services. This information may include your internet protocol (IP) address, associated company name, if any, browser type, platform, internet service provider (ISP), time and date stamp, general geographic information, referring pages and exit pages, or other non-personally identifiable information. We may use this information to gather additional information on website visitors, analyze trends and track a user’s path through the website, and/or improve the website’s performance. From time to time, we may also use this information to contact you for market research and sales purposes.
 
-Google, as a third party vendor, uses cookies to serve ads on our site.   
-Google's use of the DART cookie enables it to serve ads based on a visitor's behavior on our site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+**Children** **  
+** This website is not directed at children under the age of 13 and does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that this website has collected the personally identifiable information of a child under the age of 13, please contact [privacy@emeraldexpo.com](mailto:privacy@emeraldexpo.com).
 
-**Interactive Features**   
-At some of our sites, we offer interactive and community features such as discussion boards. Note that all personal information sent or posted via such features becomes public information for which we are not responsible. 
+**Data Storage, Transfers, and Security** **  
+** We may store the personal details we hold about you for as long as needed, which may be indefinitely. We may store this information in the United States or we may transfer it to any other country. If you are located outside of the United States and voluntarily submit personally identifiable information to us, you hereby consent to the use of such information as provided in this privacy notice and to the transfer of that information to and storage of that information in the United States. The data protection laws in countries to which personal data are transferred may or may not provide a level of protection equivalent to the laws in your home country. Wherever we hold the data, we will apply the terms of this privacy notice and any applicable data protection law. We maintain certain procedures to protect the confidentiality, security and integrity of personally identifiable information while it is controlled by us. However, the storage and communication of personal data cannot always be completely secure. Also, we cannot and do not guarantee that data transferred to third parties in accordance with this privacy notice will be protected against intentional or accidental misuse or loss.
 
-**With Whom Your Information Is Shared**   
-We may share your personal information with our affiliates and partners and third parties licensed to access your personal information by any of the foregoing. We rent e-mail lists compiled from e-mail addresses gathered from this website to those partners or affiliates that we feel may offer products or services that may be of interest to our readers. We do not share credit card information with third parties. 
+**California Residents**
 
-Except as otherwise provided in this privacy policy, RFID Journal will keep your personal information and your financial information private and will not share it with third parties, unless such disclosure is necessary to: (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce our terms of service. Users should also be aware that courts of equity, such as U.S. Bankruptcy Courts, might have the authority under certain circumstances to permit personal information to be shared or transferred to third parties without permission. 
+California law permits California residents to request certain information regarding our disclosure of your personally identifiable information to third parties for their direct marketing purposes. To make such a request, please send an email to [privacy@emeraldexpo.com](mailto:privacy@emeraldexpo.com) specifying that you seek your “California Customer Choice Notice” in the subject line.
 
-We may share aggregate information, which is not personally identifiable, with others. This information may include usage and demographic data, but it will not include personal information. 
+**Changes to This Privacy Policy** **  
+** We may change this privacy notice and our data collection and management practices. We reserve the right to update changes to this privacy notice and to our practices in collecting and handling personally identifiable information. If we make material changes, we will post a notice at this website and indicate at the top of this statement when it was most recently updated.
 
-**Correction/Updating Personal Information**   
-If a user's personally identifiable information changes (such as zip code), or if a user no longer desires our product(s)/service(s), we provide a way to correct or update that user's personal data. The user should contact Customer Support for the applicable product or service. 
-
-**Security**   
-We use reasonable precautions to protect our users' personal information and to store it securely. Sensitive information that is transmitted to us online (such as credit card number) is encrypted and is transmitted to us securely. In addition, access to all of our users' information, not just the sensitive information mentioned above, is restricted. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. 
-
-**Links**   
-Our website contains links to other sites. RFID Journal is not responsible for the privacy practices or content of such external sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each website to which we may link that may collect personally identifiable information. 
-
-**Notification and Changes**   
-If we change our privacy policy, we will post those changes on this page so our users are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. Users should check this policy frequently to keep abreast of any changes. 
-
-For questions about this privacy statement, the practices of this site or any dealings with RFID Journal, send e-mail to [info@rfidjournal.com](mailto:info@rfidjournal.com?subject=). 
+**Please contact us if you have questions or wish to take any action with respect to information to which this privacy notice applies.** You can reach us by sending an email to [privacy@emeraldexpo.com](mailto:privacy@emeraldexpo.com).
