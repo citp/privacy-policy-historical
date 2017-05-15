@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviewmeta.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205055158id_/http%3A//reviewmeta.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewmeta.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515132050id_/https%3A//reviewmeta.com/blog/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ReviewMeta Blog
 
