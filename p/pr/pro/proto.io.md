@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proto.io privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018061714id_/https%3A//proto.io/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proto.io privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515045043id_/https%3A//proto.io/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Proto.io
 
