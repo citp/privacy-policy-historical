@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the backand.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014100145id_/https%3A//www.backand.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backand.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515193415id_/https%3A//www.backand.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Back&
+# Backand Privacy Policy - Build scalable serverless applications with AWS Lambda
 
 Back& (also referred to as: backand) is a powerful back-office Software, invented by MODUBIZ LTD (“MODUBIZ”), which serves as a Service (SaaS) platform for Apps. Adopting the service eliminates the need to code a Back-Office, saving a great deal of time and money. Back& plugs to any type of app and automatically generates a robust Back-Office application in no time.
 
@@ -10,7 +10,7 @@ At MODUBIZ we respect your right for privacy and protect any personal informatio
 
 ### Information Collected
 
-When expressing an interest in obtaining additional information about the Services or registering to use the Services, we require you to provide us with your personal information, such as name, e-mail address, website URL, connection string to the database and phone number (“Personal Information” or “Customers’ Data”). You do not have a legal obligation to provide us any Personal Information, however, failure to provide such information or part of it, may prevent us from providing you with some of our services. We will have access to third party personal information provided by you as part of using our Services such as personal information about your users and/or their submissions to you. This information may include third party names, email addresses, phone numbers and physical addresses and will be used for business purposes only, such as processing the feedback information, and providing customer service. 
+When expressing an interest in obtaining additional information about the Services or registering to use the Services, we require you to provide us with your personal information, such as name, e-mail address, website URL, connection string to the database and phone number (“Personal Information” or “Customers’ Data”). You do not have a legal obligation to provide us any Personal Information, however, failure to provide such information or part of it, may prevent us from providing you with some of our services. We will have access to third party personal information provided by you as part of using our Services such as personal information about your users and/or their submissions to you. This information may include third party names, email addresses, phone numbers and physical addresses and will be used for business purposes only, such as processing the feedback information, and providing customer service.
 
 ### Use of Information Collected
 
@@ -60,7 +60,8 @@ Any changes to the Privacy Policy Statement will be posted on our Site in order 
 
 We make every effort, including periodic reviews to ensure that Personal Information provided by you is used in conformity with this Privacy Policy. If you have any concerns regarding our adherence to this Privacy Policy or the manner in which Personal Information is used for the purpose of providing the Services, kindly contact MODUBIZ’s Customer Support Services at support@backand.com. We will contact you to address your concerns and we will also co-operate with regulatory authorities in this regard if needed.
 
+ 
+
 If you have any questions or concerns regarding these Terms of Use please contacts us at: [team@backand.com](mailto:team@backand.com)
 
-  
-
+   
