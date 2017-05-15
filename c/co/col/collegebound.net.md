@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the collegebound.net privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227190806id_/http%3A//www.collegebound.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegebound.net privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515074234id_/http%3A//www.collegebound.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## The CollegeBound Network Privacy Policy
 
-Last Updated: 12/2016
+Last Updated: 3/23/2017
 
 This Privacy Policy describes the types of information we collect from and about you when you visit our website or any other website or online service owned or operated by CareerCo LLC that links to this Privacy Policy (the "Site"). This Privacy Policy also explains how CareerCo LLC may use and disclose such information, as well as your ability to control certain uses of it. It also describes your choices regarding use, access and correction of your personal information.
 
@@ -48,6 +48,10 @@ The CollegeBound Network or its Service Providers may use the information we col
 These companies are authorized to use your personal information only as necessary to provide these services to us.
 
 We may contact you via email, telephone, text message, postal mail, or any other means of communication that you provide to us as a means of contacting you.
+
+By creating an Account via membership to CareerCo, you agree that CareerCo may send you informational/marketing text (SMS) messages via an automatic telephone dialing system as part of the normal business operation of your use of the Services. You may opt-out of receiving text (SMS) messages From CareerCo at any time by texting the word STOP to XXXX from the mobile device receiving the messages. You acknowledge that opting out of text (SMS) messages may impact your use of the Services. Please text the word HELP to XXXX, call (888)660.9060, or email privacy to receive more information. Members can expect an average of 6-8 text (SMS) message per month; standard Message & Data rate may apply. Consenting to the above terms is not an indication of purchase on the part of the user. 
+
+Our supporting carries include U.S. Cellular, T-Mobile, C Spire, Cincinnati Bell, Cricket, Carrie, AT&T, Carolina West, Cellcom, Boost, Virgin Mobile, Nextel, Sprint, and nTelos. Verizon, T-Mobile or Wireless carriers are not liable for delayed or undelivered messages.
 
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by visiting our [opt-out](http://www.careerco.com/opt-out/) page.
 
