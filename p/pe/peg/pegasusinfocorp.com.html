@@ -1,671 +1,616 @@
-<!--The following is the downloaded HTML source of the pegasusinfocorp.com privacy policy that was archived on 2016-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161016181021id_/http%3A//www.pegasusinfocorp.com/pegasus_infocorp_privacy_statement.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pegasusinfocorp.com privacy policy that was archived on 2017-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170515023732id_/http%3A//pegasusinfocorp.com/privacy-statement.html) for the most accurate reproduction.-->
 
 <html><head>
-<title>Web Based Solutions - Pegasus Infocorp - web development and web design company, advanced ecommerce website development,  educational portals and website development, corporate portal development, retail ecommerce  portals, uk web development and design, uk web development, website design and development USA, website development USA</title>
-<meta name="description" content="Providing web based solutions in areas of web development, web software development, ecommerce portal development, corporate website development across industry verticals">
-<meta name="keywords" content="web based solutions, online web development solutions, internet solutions, web software solutions, web development company, web design and development company, website development uk, website design uk, web  software development india, website development services, web development and design india, website development and design usa, small business web design india, corporate website design and development, corporate portal development, advanced  ecommerce website development, educational portal development, CRM software development, SEO uk, SEO usa, fashion websites,  retail ecommerce website and web development, web design company, .NET developers, PHP developers, ASP.NET developers, job portal development, real estate portal development, finance portal development, web based ERP">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link href="include/pegasus.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+//Disable select-text script (IE4+, NS6+)
+function disableselect(e)
+{
+    return false
+}
+
+function reEnable()
+{
+    return true
+}
+
+//if IE4+
+document.onselectstart = new Function ("return false")
+
+//if NS6+
+if (window.sidebar)
+{
+    document.onmousedown = disableselect
+    document.onclick = reEnable
+}
+</script>
+
+<script type="text/javascript">
+//Disable right click script
+//It works for both firefox and internet explorer
+var message="";
+
+function clickIE() {if (document.all) {(message);return false;}}
+function clickNS(e) {if
+(document.layers||(document.getElementById&&!document.all)) {
+if (e.which==2||e.which==3) {(message);return false;}}}
+if (document.layers)
+{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+
+document.oncontextmenu=new Function("return false")
+</script>
+<title>Privacy Statement | Pegasus InfoCorp</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<link href="http://www.pegasusinfocorp.com//include/pegasus.css" rel="stylesheet" type="text/css">
+<link rel="Shortcut Icon" href="http://www.pegasusinfocorp.com/pegasus.ico">
 </head>
 <body bgcolor="#DDDDDD" link="#336666" vlink="#336666" alink="#336666" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<script language="JavaScript1.2" src="../cpw_template.js"></script>
-<script language="JavaScript1.2" src="../cpw.js"></script>
 <table width="777" border="0" align="center" cellpadding="0" cellspacing="0">
-	<tbody><tr>
+  <tbody><tr>
     <td colspan="6">
-		 					<!-- top banner starts here -->
-					<script type="text/javascript">
+	 <script type="text/javascript" src="http://www.pegasusinfocorp.com/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="http://www.pegasusinfocorp.com/js/jquery.cycle.all.min.js"></script>
+<style>
+.menu4_no_bg {
+	padding-top:10px;
+	background-position:9px 15px;
+}
+</style>
+<script type="text/javascript">
+$(document).ready(function(){
+    $('#slideshow').cycle({
+        fx:        'uncover',
+        speed:  'slow',
+		direction: 'right',
+        timeout: 5000,
+        pager:  '#slider_nav',
+        pagerAnchorBuilder: function(idx, slide) {
+            // return sel string for existing anchor
+            return '#slider_nav li:eq(' + (idx) + ') a';
+        }
+    });
+});
+</script>
+<script type="text/javascript">
+					var counter = 0;
 					function showmenu(id) 
 					{
-						document.getElementById("tmenua").style.display='none';
-						document.getElementById("tmenub").style.display='none';
-						document.getElementById("tmenuc").style.display='none';
-						document.getElementById("tmenud").style.display='none';
-						document.getElementById("tmenue").style.display='none';
-						document.getElementById("tmenuf").style.display='none';
+						document.getElementById("tmenua_error").style.display='none';
+						document.getElementById("tmenub_error").style.display='none';
+						document.getElementById("tmenuc_error").style.display='none';
+						document.getElementById("tmenud_error").style.display='none';
+						document.getElementById("tmenue_error").style.display='none';												
+						document.getElementById("tmenuf_error").style.display='none';				
+						
+						
+						if (document.getElementById(id).parentNode.id != 'linksblock') relocate_div(id);
 						document.getElementById(id).style.display='';
-					}
+						document.getElementById(id).style.height='341px';
+						document.getElementById('linksblock').style.height='auto';
+						counter++;
+					}	
 					function hidemenu(id) 
+					{
+						var fn = "hidediv('" + id + "'," + counter + ")";
+						//console.log(fn);
+						setTimeout(fn,700);
+					}
+					function incr_counter()
+					{
+						counter++;
+					}
+					function hidediv(id,cntr)
+					{
+						if (cntr == counter) 
+						{
+						document.getElementById(id).style.display='none';
+						document.getElementById('linksblock').style.height='0px';
+						document.getElementById(id).style.height='0px';
+						}
+					}
+					
+					function hidedivi(id)
 					{
 						document.getElementById(id).style.display='none';
 					}
-					</script>				
-					<table width="756" border="0" align="center" cellpadding="0" cellspacing="0">
+					
+					function outerHTML(node){
+						return node.outerHTML || new XMLSerializer().serializeToString(node);
+					}
+
+					function relocate_div(id) {
+						element = document.getElementById(id);
+						var div_content = outerHTML(element);
+						element.parentNode.removeChild(element);
+						document.getElementById("linksblock").innerHTML += div_content;	
+						document.getElementById(id).style.width = '985px';
+						document.getElementById(id).style.height = '341px';						
+						document.getElementById(id).style.marginLeft = '0px';
+					}
+					</script>	
+					<!-- header starts here -->
+
+			
+					<!-- top banner starts here -->
+								
+					<table width="985" border="0" align="center" cellpadding="0" cellspacing="0">
                       <tbody><tr>
-                        <td> <img src="http://www.pegasusinfocorp.com/images/inner_banner.gif" border="0" usemap="#Map"></td>
+                        <td align="center"> <img src="http://www.pegasusinfocorp.com/images/header.gif" width="985" height="109" border="0" usemap="#Map"></td>
+                      </tr>
+
+                      <tr>
+                        <td height="3"></td>
                       </tr>
                       <tr>
-                        <td height="6"></td>
-                      </tr>
-                      <tr>
-                        <td>
-                          <table width="756" align="center" cellpadding="0" cellspacing="0" class="gredient">
+                        <td class="gredient_bg">
+                          <table width="100%" align="center" cellpadding="0" cellspacing="0">
                             <tbody><tr>
-                              <td width="12" align="left" class="top_links"><img src="http://www.pegasusinfocorp.com/images/left_bg.gif" width="11" height="25"></td>
-                              <td align="center" width="68">
-                                <div align="center" onmouseover="javascript:showmenu('tmenua');" onmouseout="javascript:hidemenu('tmenua');">
-                                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <td width="60" align="left" class="top_links"><img src="http://www.pegasusinfocorp.com/images/left_gredient.gif"></td>
+                              <td align="center">
+                                <div align="center" onmouseover="javascript:showmenu('tmenua_error');" onmouseout="javascript:hidemenu('tmenua_error');">
+                                  <table border="0" cellspacing="0" cellpadding="0">
                                     <tbody><tr>
-                                      <td>
-                                        <div align="center"><a href="http://www.pegasusinfocorp.com/about/default.htm" class="top_links">About</a></div>
-                                        <div style="display:none;position:absolute;z-index:2;width:200px" id="tmenua">
+                                      <td style="padding: 0px 20px 0px 40px; ">
+                                        <div align="center"><a href="http://www.pegasusinfocorp.com/about/default.htm" class="top_links">About Us</a></div>
+                                        <div style="display:none;position:absolute;z-index:1006;width:350px" onmouseover="javascript:incr_counter();" onmouseout="javascript:hidemenu('tmenua_error');" id="tmenua_error">
+                                          <table cellpadding="0" cellspacing="0" border="0">                                            
+                                            <!--<tr> <td class="menu3_no_bg" valign="middle"> <a href="http://www.pegasusinfocorp.com/about/default.htm" class="dropdowntext_white">Corporate Profile</a> </td></tr> -->
+                                            <tbody><tr> <td class="menu3_no_bg" valign="middle"> <a href="http://www.pegasusinfocorp.com/about/key-differentiators.html" class="dropdowntext_white">Key Differentiators</a> </td> </tr>
+                                            <tr> <td class="menu3_no_bg" valign="middle"> <a href="http://www.pegasusinfocorp.com/about/team-values-ethics.html" class="dropdowntext_white">Values</a> </td></tr>
+                                            <tr><td class="menu3_no_bg" valign="middle"> <a href="http://www.pegasusinfocorp.com/about/alliances-ecosystem.html" class="dropdowntext_white">Alliances</a> </td> </tr>
+                                            <tr><td class="menu3_no_bg" valign="middle"> <a href="http://www.pegasusinfocorp.com/about/corporate-social-responsibility.html" class="dropdowntext_white">Corporate Social Responsibility</a> </td></tr>
+                                          </tbody></table>
+                                      </div></td>
+                                    </tr>
+                                  </tbody></table>
+                              </div></td>
+                              <td class="top_links_111004">|</td>
+                              <td align="center">
+                                <div align="center" onmouseover="javascript:showmenu('tmenub_error');" onmouseout="javascript:hidemenu('tmenub_error');">
+                                  <table border="0" cellspacing="0" cellpadding="0">
+                                    <tbody><tr>
+                                      <td style="padding: 0px 25px 0px 15px;">
+                                        <div align="center"><a href="http://www.pegasusinfocorp.com/clients/default.htm" class="top_links">Clients</a></div>
+                                        <div style="display:none;position:absolute;z-index:1006;width:350px" onmouseover="javascript:incr_counter();" onmouseout="javascript:hidemenu('tmenub_error');" id="tmenub_error">
                                           <table cellpadding="0" cellspacing="0" border="0">
                                             <tbody><tr>
-                                              <td colspan="3" height="7"></td>
+                                              <td class="menu3_no_bg"> <a href="http://www.pegasusinfocorp.com/clients/default.htm" class="dropdowntext_white">Case Studies</a> </td>
                                             </tr>
                                             <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3" valign="middle"> <a href="http://www.pegasusinfocorp.com/about/default.htm" class="dropdowntext">Corporate Profile</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-                                            <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3" valign="middle"> <a href="http://www.pegasusinfocorp.com/about/web_development_key_differentiators.htm" class="dropdowntext">Key Differentiators</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-                                            <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3" valign="middle"> <a href="http://www.pegasusinfocorp.com/about/website_software_company_values.htm" class="dropdowntext">Values</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-                                            <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3" valign="middle"> <a href="http://www.pegasusinfocorp.com/about/india_website_development_alliances.htm" class="dropdowntext">Alliances</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-                                            <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3" valign="middle"> <a href="http://www.pegasusinfocorp.com/about/web_software_company_corporate_social_responsibility.htm" class="dropdowntext"> Corporate Social Responsibility</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
+                                              <td class="menu3_no_bg"> <a href="http://www.pegasusinfocorp.com/clients/engagement-models.html" class="dropdowntext_white">Engagement Models</a> </td>
                                             </tr>
                                           </tbody></table>
                                       </div></td>
                                     </tr>
                                   </tbody></table>
                               </div></td>
-                              <td width="12" class="top_links">|</td>
-                              <td align="center" width="71">
-                                <div align="center" onmouseover="javascript:showmenu('tmenub');" onmouseout="javascript:hidemenu('tmenub');">
-                                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <td class="top_links_111004">|</td>
+                              <td align="center">
+                                <div align="center" onmouseover="javascript:showmenu('tmenuc_error');" onmouseout="javascript:hidemenu('tmenuc_error');">
+                                  <table border="0" cellspacing="0" cellpadding="0">
                                     <tbody><tr>
-                                      <td>
+                                      <td style="padding: 0px 20px 0px 5px;">
                                         <div align="center"><a href="http://www.pegasusinfocorp.com/services/default.htm" class="top_links">Services</a></div>
-                                        <div style="display:none;position:absolute;z-index:2;width:350px" id="tmenub">
-                                          <table cellpadding="0" cellspacing="0" border="0">
-                                            <tbody><tr>
-                                              <td colspan="3" height="7"></td>
-                                            </tr>
-											<tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3"> <a href="http://www.pegasusinfocorp.com/services/consultancy.htm" class="dropdowntext">Consultancy</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-											<tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3"> <a href="http://www.pegasusinfocorp.com/services/design.htm" class="dropdowntext">Design</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-											 <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3"> <a href="http://www.pegasusinfocorp.com/services/web_design_flash_interactive_media.htm" class="dropdowntext">Flash and Interactive Web Media </a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-                                            <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3"> <a href="http://www.pegasusinfocorp.com/services/advanced_website_application_programming.htm" class="dropdowntext"> Advanced Web Application Programming</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-											<tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3"> <a href="http://www.pegasusinfocorp.com/services/php_mysql_web_development_programming.htm" class="dropdowntext">PHP and MySQL Web Development and Programming</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-											<tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3"> <a href="http://www.pegasusinfocorp.com/services/asp_dot_net_software_programming_development.htm" class="dropdowntext"> ASP and ASP.NET Software Development</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-                                            <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3"> <a href="http://www.pegasusinfocorp.com/services/ajax_applications_programming.htm" class="dropdowntext">AJAX Applications Programming</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-                                            <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3"> <a href="http://www.pegasusinfocorp.com/services/xml_application_development.htm" class="dropdowntext">XML Application Development</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-                                             <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3"> <a href="http://www.pegasusinfocorp.com/services/rich_internet_applications.htm" class="dropdowntext">Rich Internet Applications</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-											 <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3"> <a href="http://www.pegasusinfocorp.com/services/desktop_to_web_migration.htm" class="dropdowntext">Desktop to Web Migration</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-											<tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3"> <a href="http://www.pegasusinfocorp.com/services/legacy_software_database_migration.htm" class="dropdowntext">Legacy Software and Database Migration</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-                                            <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3"> <a href="http://www.pegasusinfocorp.com/services/database_development_integration_programming.htm" class="dropdowntext"> Database Development and Integration</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-                                            <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3"> <a href="http://www.pegasusinfocorp.com/services/extranet_systems_development.htm" class="dropdowntext">Extranet Systems Development</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-                                             <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3"> <a href="http://www.pegasusinfocorp.com/services/search_engine_optimization_marketing.htm" class="dropdowntext">Search Engine Optimization and Positioning</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-                                            <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3"> <a href="http://www.pegasusinfocorp.com/services/seo.htm" class="dropdowntext">Search Engine Marketing</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-											 <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3"> <a href="http://www.pegasusinfocorp.com/services/upgrade.htm" class="dropdowntext">Upgradation and Integration </a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-											 <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3"> <a href="http://www.pegasusinfocorp.com/services/third_party_software_integration_customization.htm" class="dropdowntext"> Third Party Software Integration and Customization</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-                                            <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3"> <a href="http://www.pegasusinfocorp.com/services/maintenance_support.htm" class="dropdowntext">Maintenance and Support</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
+                                        <div style="display:none;position:absolute;z-index:1006;width:400px" onmouseover="javascript:incr_counter();" onmouseout="javascript:hidemenu('tmenuc_error');" id="tmenuc_error">
+                                          <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                            
+                                            <tbody><tr style="height: 26px;">
+												<td class="menu3_no_bg" width="33%"> <a href="http://www.pegasusinfocorp.com/software-services/technology-consulting.html" class="dropdowntext_white">Technology Consulting</a></td>
+												<td class="menu4_no_bg" width="33%"> <a href="http://www.pegasusinfocorp.com/software-services/crm-customer-relationship-management.html" class="dropdowntext_white_2">Customer Relationship Management</a></td>
+												<td class="menu3_no_bg" width="33%"> <a href="http://www.pegasusinfocorp.com/software-services/mobile-application-development.html" class="dropdowntext_white">Enterprise Mobility</a></td>
+											</tr>
+											<tr style="height: 26px;">
+												<td class="menu3_no_bg"> <a href="http://www.pegasusinfocorp.com/software-services/business-application-development-company.html" class="dropdowntext_white">Business Applications</a></td>
+												<td class="menu4_no_bg"> <a href="http://www.pegasusinfocorp.com/software-services/sales-force-automation-management.html" class="dropdowntext_white_2">Sales Force Management</a></td>
+												<td class="menu4_no_bg"> <a href="http://www.pegasusinfocorp.com/software-services/sms-mobile-marketing-software.html" class="dropdowntext_white_2">Mobile Business Applications</a></td>
+											</tr>											 
+													
+											<tr style="height: 26px;">
+												
+												<td class="menu4_no_bg"> <a href="http://www.pegasusinfocorp.com/software-services/application-software-development.html" class="dropdowntext_white_2">Application Software</a></td>
+												<td class="menu4_no_bg"> <a href="http://www.pegasusinfocorp.com/software-services/erp-enterprise-resource-planning.html" class="dropdowntext_white_2">Enterprise Resource Planning</a></td>
+												<td class="menu4_no_bg"> <a href="http://www.pegasusinfocorp.com/software-services/mobile-game-development.html" class="dropdowntext_white_2">Game Development</a></td>
+											</tr>											 
+											<tr style="height: 26px;">
+												<td class="menu4_no_bg"> <a href="http://www.pegasusinfocorp.com/software-services/outsource-software-application-support.html" class="dropdowntext_white_2">Outsourced Software Support</a></td>
+												
+												<td class="menu4_no_bg"> <a href="http://www.pegasusinfocorp.com/software-services/scm-supply-chain-management.html" class="dropdowntext_white_2">Supply Chain Management</a></td>
+												<td class="menu4_no_bg"> <a href="http://www.pegasusinfocorp.com/software-services/augmented-reality-applications.html" class="dropdowntext_white_2">Augmented Reality</a></td>
+											</tr>											 
+											<tr style="height: 26px;">
+												<td class="menu4_no_bg"> <a href="http://www.pegasusinfocorp.com/software-services/application-maintenance-support.html" class="dropdowntext_white_2">Application Maintenance</a></td>
+												
+												<td class="menu4_no_bg"> <a href="http://www.pegasusinfocorp.com/software-services/business-intelligence-data-warehousing-solutions.html" class="dropdowntext_white_2">Business Intelligence</a></td>
+												<td class=""> </td>
+											</tr>											 
+											<tr style="height: 26px;">
+												<td class="menu4_no_bg"> <a href="http://www.pegasusinfocorp.com/software-services/it-network-infrastructure-management.html" class="dropdowntext_white_2">IT Infrastructure Management</a></td>
+												
+												<td class="menu4_no_bg"> <a href="http://www.pegasusinfocorp.com/software-services/user-interface-design.html" class="dropdowntext_white_2">User Interface Design</a></td>
+												<td class=""> </td>
+											</tr>											 
+											<tr style="height: 26px;">
+												<td class="menu4_no_bg"> <a href="http://www.pegasusinfocorp.com/software-services/enterprise-web-applications-development.html" class="dropdowntext_white_2">Enterprise Web Applications</a></td>
+
+												<td class="menu4_no_bg"> <a href="http://www.pegasusinfocorp.com/software-services/systems-integration-development.html" class="dropdowntext_white_2">Systems Integration</a></td>
+												<td class=""> </td>
+											</tr>											 
+											<tr style="height: 26px;">
+												<td class="menu4_no_bg"> <a href="http://www.pegasusinfocorp.com/software-services/business-software-solutions-architecture.html" class="dropdowntext_white_2">Business Software Solutions</a></td>
+
+												<td class="menu4_no_bg"> <a href="http://www.pegasusinfocorp.com/software-services/upgradation-integration.html" class="dropdowntext_white_2">Upgradation and Integration</a></td>
+												<td class=""> </td>
+											</tr>											 
+											<tr style="height: 26px;">
+												<td class="menu4_no_bg"> <a href="http://www.pegasusinfocorp.com/software-services/legacy-database-migration.html" class="dropdowntext_white_2">Legacy Software</a></td>
+
+												<td class="menu4_no_bg"> <a href="http://www.pegasusinfocorp.com/software-services/software-application-maintenance.html" class="dropdowntext_white_2">Software Maintenance</a></td>
+												<td class=""> </td>
+											</tr>
+											<tr style="height: 26px;">
+												<td class="menu4_no_bg"> <a href="http://www.pegasusinfocorp.com/software-services/cloud-computing-applications.html" class="dropdowntext_white_2">Cloud Computing</a></td>
+
+												<td class="menu4_no_bg"> <a href="http://www.pegasusinfocorp.com/software-services/software-testing-sqa-quality-assurance.html" class="dropdowntext_white_2">Software Quality Assurance</a></td>
+												<td class=""> </td>
+											</tr>
                                           </tbody></table>
                                       </div></td>
                                     </tr>
                                   </tbody></table>
                               </div></td>
-                              <td width="12" class="top_links">|</td>
-                              <td align="center" width="68">
-                                <div align="center" onmouseover="javascript:showmenu('tmenuc');" onmouseout="javascript:hidemenu('tmenuc');">
-                                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <td class="top_links_111004">|</td>
+                              <td align="center">
+                                <div align="center" onmouseover="javascript:showmenu('tmenud_error');" onmouseout="javascript:hidemenu('tmenud_error');">
+                                  <table width="94%" border="0" cellspacing="0" cellpadding="0">
                                     <tbody><tr>
-                                      <td>
-                                        <div align="center"><a href="http://www.pegasusinfocorp.com/solutions/default.htm" class="top_links">Solutions</a></div>
-                                        <div style="display:none;position:absolute;z-index:2;width:400px" id="tmenuc">
-                                          <table cellpadding="0" cellspacing="0" border="0">
-                                            <tbody><tr>
-                                              <td colspan="3" height="7"></td>
-                                            </tr>
-											 <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-												<td class="menu3">
-												<a href="http://www.pegasusinfocorp.com/solutions/domain_name_web_hosting_solutions.htm" class="dropdowntext">Domain 
-													Name and Web Hosting Solutions</a></td> 
-													<td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-											 <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3">
-												<a href="http://www.pegasusinfocorp.com/solutions/content_management_systems.htm" class="dropdowntext">Content Management Systems</a>
-											</td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-											 <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-											<td class="menu3">
-												<a href="http://www.pegasusinfocorp.com/solutions/ecommerce_online_shopping_website_development.htm" class="dropdowntext">
-													eCommerce Online Shopping Website Development</a>
-											</td>                                              
-											<td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-                                            <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3" valign="middle"> <a href="http://www.pegasusinfocorp.com/solutions/advanced_web_programming_components.htm" class="dropdowntext">Advanced Web Programming Components</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-                                           
-                                           
-                                           
-                                          </tbody></table>
+                                      <td style="padding: 0px 15px 0px 5px;">
+                                        <div align="center"><a href="http://www.pegasusinfocorp.com/technology/default.htm" class="top_links">Technology Platforms</a></div>
+                                        <div style="display:none;position:absolute;z-index:1006;width:200px" onmouseover="javascript:incr_counter();" onmouseout="javascript:hidemenu('tmenud_error');" id="tmenud_error">
+                                          <table width="70%" border="0" cellspacing="0" cellpadding="0">
+										  <tbody><tr>
+											<td class="menu3_no_bg"> <a href="http://www.pegasusinfocorp.com/custom-programming/oracle-platform-solutions-development.html" class="dropdowntext_white">Oracle Platform</a></td>
+											<td class="menu3_no_bg"> <a href="http://www.pegasusinfocorp.com/custom-programming/google-solutions-development.html" class="dropdowntext_white">Google Solutions</a></td>
+										  </tr>
+										  
+										   <tr>
+											<td class="menu3_no_bg"> <a href="http://www.pegasusinfocorp.com/custom-programming/java-platform-solutions-development.html" class="dropdowntext_white">Java Platform</a></td>
+											<td class="menu3_no_bg"> <a href="http://www.pegasusinfocorp.com/custom-programming/mobile-platform-applications-development.html" class="dropdowntext_white">Mobiles and Tablets</a></td>
+										  </tr>
+									
+									
+										   <tr>
+											<td class="menu3_no_bg"> <a href="http://www.pegasusinfocorp.com/custom-programming/sap-business-solutions.html" class="dropdowntext_white">SAP Solutions</a></td>
+											<td class="menu3_no_bg"> <a href="http://www.pegasusinfocorp.com/custom-programming/php-mysql-web-development-programming.html" class="dropdowntext_white">PHP Platforms</a></td>
+										  </tr>
+										  
+										   <tr>
+											<td class="menu3_no_bg"> <a href="http://www.pegasusinfocorp.com/custom-programming/microsoft-platform-solutions-development.html" class="dropdowntext_white">Microsoft Platform</a></td>
+											<td class="menu3_no_bg"> <a href="http://www.pegasusinfocorp.com/custom-programming/php-solutions-development.html" class="dropdowntext_white">PHP Solutions</a></td>
+										  </tr>
+										  
+										   <tr>
+											<td class="menu3_no_bg"> <a href="http://www.pegasusinfocorp.com/custom-programming/microsoft-solutions-development.html" class="dropdowntext_white">Microsoft Solutions</a></td>
+											<td class="menu3_no_bg"> <a href="http://www.pegasusinfocorp.com/custom-programming/adobe-platform-solutions-development.html" class="dropdowntext_white">Adobe Platform</a></td>
+										  </tr>
+
+										   <tr>
+											<td class="menu3_no_bg"> <a href="http://www.pegasusinfocorp.com/custom-programming/salesforce-crm-platform.html" class="dropdowntext_white">Salesforce Platform</a></td>
+											<td class="menu3_no_bg"> <a href="http://www.pegasusinfocorp.com/custom-programming/custom-platform-solutions-development.html" class="dropdowntext_white">Social Platforms</a></td>
+										  </tr>
+																				  
+										   <tr>
+											<td class="menu3_no_bg"> <a href="http://www.pegasusinfocorp.com/custom-programming/apple-platform-solutions.html" class="dropdowntext_white">Apple Platform</a></td>
+											<td class="menu3_no_bg"> <a href="http://www.pegasusinfocorp.com/custom-programming/open-source-software-technology-solutions.html" class="dropdowntext_white">Open Source Technologies</a></td>
+										  </tr>
+										  
+										  <tr>
+											<td class="menu3_no_bg"> <a href="http://www.pegasusinfocorp.com/custom-programming/javascript-ajax-applications-development.html" class="dropdowntext_white">JavaScript Frameworks</a></td>
+											<td class="menu3_no_bg"> </td>
+										  </tr>
+										  
+										  <tr>
+											<td class="menu3_no_bg"> <a href="http://www.pegasusinfocorp.com/custom-programming/cloud-computing-platforms-solutions-development.html" class="dropdowntext_white">Cloud Computing Platforms</a></td>
+											<td class="menu3_no_bg"> </td>
+										  </tr>
+
+										  
+										</tbody></table>
                                       </div></td>
                                     </tr>
                                   </tbody></table>
                               </div></td>
-                              <td width="12" class="top_links">|</td>
-                              <td width="68" align="center" class="top_links"> <a href="http://www.pegasusinfocorp.com/clients/default.htm" class="top_links">Clients</a></td>
-                              <td width="12" class="top_links">|</td>
-                              <td align="center" width="68">
-                                <div align="center" onmouseover="javascript:showmenu('tmenud');" onmouseout="javascript:hidemenu('tmenud');">
-                                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <td class="top_links_111004">|</td>
+                              <td align="center">
+                                <div align="center" onmouseover="javascript:showmenu('tmenue_error');" onmouseout="javascript:hidemenu('tmenue_error');">
+                                  <table width="70%" border="0" cellspacing="0" cellpadding="0">
                                     <tbody><tr>
-                                      <td>
-                                        <div align="center"><a href="http://www.pegasusinfocorp.com/website_development_process/methodology_waterfall.htm" class="top_links">Methodology</a></div>
-                                        <div style="display:none;position:absolute;z-index:2;width:200px" id="tmenud">
-                                          <table cellpadding="0" cellspacing="0" border="0">
-                                            <tbody><tr>
-                                              <td colspan="3" height="7"></td>
-                                            </tr>
-											<tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3" valign="middle"> <a href="http://www.pegasusinfocorp.com/website_development_process/methodology_waterfall.htm" class="dropdowntext">
-													 Waterfall Methodology</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-                                            <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3" valign="middle"> <a href="http://www.pegasusinfocorp.com/website_development_process/agile_development_methodology.htm" class="dropdowntext">
-													Agile Development Methodology</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-                                            <tr>
-                                              <td colspan="3" height="1"></td>
-                                            </tr>
-                                            <tr>
-                                              <td colspan="3" height="1"></td>
-                                            </tr>
-                                          </tbody></table>
-                                      </div></td>
-                                    </tr>
-                                  </tbody></table>
-                              </div></td>
-                              <td width="12" align="center" class="top_links">|</td>
-                              <td align="center" width="62"><a href="http://www.pegasusinfocorp.com/press/events.htm" class="top_links">News</a></td>
-                              <td width="12" class="top_links">|</td>
-                              <td align="center" width="68">
-                                <div align="center" onmouseover="javascript:showmenu('tmenue');" onmouseout="javascript:hidemenu('tmenue');">
-                                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                                    <tbody><tr>
-                                      <td>
+                                      <td style="padding: 0px 20px 0px 10px;">
                                         <div align="center"><a href="http://www.pegasusinfocorp.com/careers/default.htm" class="top_links">Careers</a></div>
-                                        <div style="display:none;position:absolute;z-index:2;width:202px" id="tmenue">
-                                          <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                        <div style="display:none;position:absolute;z-index:1006;width:200px" onmouseover="javascript:incr_counter();" onmouseout="javascript:hidemenu('tmenue_error');" id="tmenue_error">
+                                          <table cellpadding="0" cellspacing="0" border="0">                                            
                                             <tbody><tr>
-                                              <td colspan="3" height="7"></td>
+                                              <td class="menu3_no_bg" valign="middle"> <a href="http://www.pegasusinfocorp.com/careers/default.htm" class="dropdowntext_white">Careers Home</a> </td>                                             
+                                            </tr>  
+											<tr>
+                                              <td class="menu3_no_bg" valign="middle"> <a href="http://www.pegasusinfocorp.com/careers/pegasus-infocorp-advantage.html" class="dropdowntext_white">Advantages of Pegasus InfoCorp</a> </td>                                             
                                             </tr>
-                                            <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3" valign="middle"> <a href="http://www.pegasusinfocorp.com/careers/default.htm" class="dropdowntext">Career's Home</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
+											<tr>
+                                              <td class="menu3_no_bg" valign="middle"> <a href="http://www.pegasusinfocorp.com/careers/current-openings-careers.html" class="dropdowntext_white">Current Openings</a> </td>                                             
                                             </tr>
-                                            <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3" valign="middle"> <a href="http://www.pegasusinfocorp.com/careers/advantages_pegasus_infocorp.htm" class="dropdowntext">Advantages of Pegasus InfoCorp</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-                                            <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3" valign="middle"> <a href="http://www.pegasusinfocorp.com/careers/current_openings_pegasus_infocorp.htm" class="dropdowntext">Current Openings</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
-                                            </tr>
-                                            <tr>
-                                              <td colspan="3" height="1"></td>
-                                            </tr>
-                                            <tr>
-                                              <td colspan="3" height="1"></td>
-                                            </tr>
+											<tr>
+                                              <td class="menu3_no_bg" valign="middle"> <a href="http://www.pegasusinfocorp.com/careers/faqs.html" class="dropdowntext_white">FAQ</a> </td>                                             
+                                            </tr>                                    
                                           </tbody></table>
                                       </div></td>
                                     </tr>
                                   </tbody></table>
                               </div></td>
-                              <td width="12" class="top_links">|</td>
-                              <td align="center" width="68">
-                                <div align="center" onmouseover="javascript:showmenu('tmenuf');" onmouseout="javascript:hidemenu('tmenuf');">
+                              <td class="top_links_111004">|</td>
+                              <td align="center">
+                                <div align="center" onmouseover="" onmouseout="">
                                   <table width="100%" border="0" cellspacing="0" cellpadding="0">
                                     <tbody><tr>
-                                      <td>
-                                        <div align="center"><a href="http://www.pegasusinfocorp.com/website_development_faqs.htm" class="top_links">FAQ's</a></div>
-                                        <div style="display:none;position:absolute;z-index:2;width:222px" id="tmenuf">
-                                          <table cellpadding="0" cellspacing="0" border="0" width="100%">
-                                            <tbody><tr>
-                                              <td colspan="3" height="7"></td>
+                                      <td style="padding: 0px 0px 0px 13px; ">
+                                        <div><a href="http://www.pegasusinfocorp.com/contact/default.htm" class="top_links">Contact Us </a></div>
+                                        <div style="display:none;position:absolute;z-index:1006;width:200px" onmouseover="" onmouseout="" id="tmenuf_error">
+                                          <table cellpadding="0" cellspacing="0" border="0">
+                                            <tbody><tr>                                             
+                                              <td class="menu3_no_bg" valign="middle"> <a href="http://www.pegasusinfocorp.com/contact/web-software-development-rfi-rfp-rfq.html" class="dropdowntext_white"> Request For Information</a> </td>                                              
                                             </tr>
                                             <tr>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus1.gif"></td>
-                                              <td class="menu3" valign="middle"> <a href="http://www.pegasusinfocorp.com/software_development/software_development.html" class="dropdowntext">Software Development Resources</a> </td>
-                                              <td><img src="http://www.pegasusinfocorp.com/images/menus2.gif"></td>
+                                              <td class="menu3_no_bg" valign="middle"> <a href="http://www.pegasusinfocorp.com/contact/call-web-software-development-company.html" class="dropdowntext_white"> Request A Call Back</a> </td>
                                             </tr>
-                                            <tr>
-                                              <td colspan="3" height="2"></td>
+											<tr>
+                                              <td class="menu3_no_bg" valign="middle"> <a href="http://www.pegasusinfocorp.com/contact/contact-custom-web-software-programmers.html" class="dropdowntext_white"> Contact Details</a> </td>
+                                            </tr>
+											<tr>
+                                              <td class="menu3_no_bg" valign="middle"> <a href="http://www.pegasusinfocorp.com/website_development_faqs.htm" class="dropdowntext_white">FAQs</a> </td>
                                             </tr>
                                           </tbody></table>
-                                      </div></td>
+                                      </div></td> 
+                              
                                     </tr>
                                   </tbody></table>
                               </div></td>
-                              <td width="14" class="top_links">|</td>
-                              <td align="center" width="93"><a href="http://www.pegasusinfocorp.com/contact/default.htm" class="top_links">Contact</a></td>
-                              <td align="right" class="top_links" width="11"><img src="http://www.pegasusinfocorp.com/images/right_bg.gif"></td>
+                              <td align="right" class="top_links" width="86"><img src="http://www.pegasusinfocorp.com/images/right_gredient.gif"></td>
                             </tr>
                           </tbody></table>
-						</td>
+					    </td>
                       </tr>
+					  <tr>
+					  	<td><div id="linksblock"></div></td>
+					  </tr>
                     </tbody></table>
+
 					<map name="Map">
-						<area shape="rect" coords="7,0,360,100" href="http://www.pegasusinfocorp.com/index.htm" alt="Web Development Design UK USA India, Web Software Applications Development Programming">						
-						<area shape="rect" coords="451,73,570,103" href="http://www.pegasusinfocorp.com/contact/contact-custom-web-software-programmers.html" alt="Contact Custom Web Software Developers Programming Company India">
-						<area shape="rect" coords="451,36,545,70" href="http://www.pegasusinfocorp.com/contact/call-web-software-development-company.html" alt="Contact Web Software Development Company Call">
-						<area shape="rect" coords="452,4,555,36" href="http://www.pegasusinfocorp.com/contact/web-software-development-rfi-rfp-rfq.html" alt="Request For Web Software Development Programming RFI RFP RFQ">
-						<area shape="rect" coords="724,7,749,31" href="http://www.pegasusinfocorp.com/index.htm" alt="Web Development Design UK USA India, Web Software Applications Development Programming">
-						<area shape="rect" coords="725,41,751,69" href="http://www.pegasusinfocorp.com/contact/default.htm" alt="Contact website development and web design company, advanced portal development UK USA">
-						<area shape="rect" coords="725,74,752,101" href="http://www.pegasusinfocorp.com/sitemap/sitemap.htm" alt="Site Map: Internet applications to discover your NET potential">
-                    </map>
-					<!-- top banner ends here -->	</td>
+						<area shape="rect" coords="-1,0,391,106" href="http://www.pegasusinfocorp.com/index.htm" alt="Web Development Design UK USA India, Web Software Applications Development Programming">												
+						<area shape="rect" coords="945,7,969,31" href="http://www.pegasusinfocorp.com/index.htm" alt="Web Development Design UK USA India, Web Software Applications Development Programming">
+						<area shape="rect" coords="945,39,970,65" href="http://www.pegasusinfocorp.com/contact/default.htm" alt="Contact website development and web design company, advanced portal development UK USA">
+						<area shape="rect" coords="946,73,972,100" href="http://www.pegasusinfocorp.com/sitemap/sitemap.htm" alt="Site Map: Internet applications to discover your NET potential">
+					</map>
+
+						</td>
   </tr>
   <tr>
-  	<td height="10"></td>
+   <td height="20"></td>
   </tr>
   <tr>
-    <td height="37"> <img src="../images/inner_16.gif" width="11" height="37" alt=""></td>
-    <td colspan="3" rowspan="3" valign="top">
+      <td height="37">&nbsp;</td>
+    <td colspan="3" rowspan="4" valign="top">
       <table width="100%" border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr>
-          <td width="1%"> <img src="../images/editable_01.jpg" width="14" height="37" alt=""></td>
-         <td width="95%" background="../images/border-up.gif"> <img src="../images/privacy_heading.gif" width="489" height="37" alt=""></td>
-          <td width="4%"> <img src="../images/editable_03.jpg" width="25" height="37" alt=""></td>
+	    <tbody><tr>
+		    <td width="1%"><img src="http://www.pegasusinfocorp.com/images/editable_01.jpg" width="14" height="37" alt="Privacy Statement | Pegasus InfoCorp"></td>
+		    <td width="95%" valign="bottom" background="http://www.pegasusinfocorp.com/images/border-up.gif">
+			    <table width="99%" height="28" align="right" cellpadding="2" cellspacing="0">
+				    <tbody><tr>
+  
+						<td width="94%" style="background-image:url(http://www.pegasusinfocorp.com/images/title_dir.jpg); background-repeat: no-repeat;">
+						  <table width="98%" align="right" cellpadding="0" cellspacing="0">
+							  <tbody><tr>
+								  <td class="TAB"><h1 class="TAB" style="display:inline">Privacy Statement</h1></td>
+							  </tr>
+						  </tbody></table>
+					    </td>
+					    <td width="6%">&nbsp;</td>
+				    </tr>
+			    </tbody></table>
+  
+			</td>
+		    <td width="4%"><img src="http://www.pegasusinfocorp.com/images/editable_03.jpg" width="25" height="37" alt=""></td>
+	    </tr>
+        <tr>
+          <td rowspan="2" background="http://www.pegasusinfocorp.com/images/editable_04.gif">&nbsp; </td>
+          <td bgcolor="#FFFFFF" class="ABOUT-US-watermark">
+            <!--<p><br>
+              <strong><img src="http://www.pegasusinfocorp.com/images/top-services.jpg" width="484" height="133"></strong></p>--></td>
+          <td rowspan="2" class="inned-ad2">&nbsp; </td>
         </tr>
         <tr>
-          <td background="../images/editable_04.gif">&nbsp; </td>
-          <td height="382" valign="top" bgcolor="#FFFFFF" class="inner-TXT"><p>              <span class="inner-title"><font size="4">I</font></span>n general, you can visit Pegasus InfoCorp's websites without telling us who you are and without revealing any information about yourself. This Privacy Policy is intended to describe how your personal information is processed and used, and we will make every effort to ensure that our activities keep within the spirit of this Privacy Policy. This privacy statement explains the data we collect from you and its use. We encourage you to read the complete privacy statement.</p>
-            <p>Our web server automatically collects your IP address when your visit our site. (Your IP address is your computer's unique address that lets other computers attached to the Internet know where to send data, but does not identify you individually). We use your IP address to help diagnose problems on our server and to compile statistics on site usage. We do not make your IP address available to anyone. When you visit certain areas of the website you may be asked to provide personal information (such as name, organization name, email address) that we need to process your request. In the event that you decline to provide such information, we are unable to process your information request. Still, we invite you to continue to visit the site and take advantage of the wealth of information it offers.</p>
-            <p>There is nothing special about the information described, and the practice of collecting this data has been generally standardized by virtually every Web Server on the Internet today.</p>            
-            <!-- --> <p class="inner-TXT"><strong>Third Parties:</strong><br>
-              <br>
-            Pegasus InfoCorp will disclose your personal information or any of its log file information when required by law or in the good-faith belief that such actions are necessary to <br>1.) conform to the edicts of the law or comply with a legal process served on Pegasus InfoCorp <br> 2.) Protect and defend the rights or property of Pegasus InfoCorp, or visitors of www.pegasusinfocorp.com. <br>3.) Identify persons who may be violating the law, the legal notice, or the rights of third parties.<br> 4.) Cooperate with the investigations of purported unlawful activities.<br>
-            <!-- 333333333Third Party Content</p>
-            <p>We may provide the information to trusted partners who work on behalf of or with Pegasus InfoCorp under strict confidentiality agreements. These companies may use your personal information to help Pegasus InfoCorp communicate with you about offers from Pegasus InfoCorp or its partners. However, these companies do not have any independent right to share this information.</p>
-            <p>Pegasus InfoCorp uses reasonable precautions to keep the information disclosed to us secure. We are not responsible for any breach of security or for any actions of any third parties that receive the information. Pegasus InfoCorp also provides &quot;links&quot; to a wide variety of other web sites on the Internet. We are not responsible for their Privacy Policies or how those web sites manage information about their users. We strongly recommend you to check with those web sites to determine their privacy policy. This privacy statement applies solely to information collected on www.pegasusinfocorp.com<br>
-              <br>
-            <strong>Usage of Cookies:</strong><br>
+          <td height="376" valign="top" bgcolor="#FFFFFF" class="inner-TXT"><br>
+  
+			In general, you can visit Pegasus InfoCorp's websites without telling us who you are and without revealing any information about yourself. This Privacy Policy is intended to describe how your personal information is processed and used, and we will make every effort to ensure that our activities keep within the spirit of this Privacy Policy. This privacy statement explains the data we collect from you and its use. We encourage you to read the complete privacy statement.<br><pr>
+Our web server automatically collects your IP address when your visit our site. (Your IP address is your computer's unique address that lets other computers attached to the Internet know where to send data, but does not identify you individually). We use your IP address to help diagnose problems on our server and to compile statistics on site usage. We do not make your IP address available to anyone. When you visit certain areas of the website you may be asked to provide personal information (such as name, organization name, email address) that we need to process your request. In the event that you decline to provide such information, we are unable to process your information request. Still, we invite you to continue to visit the site and take advantage of the wealth of information it offers.<br><pr>
+There is nothing special about the information described, and the practice of collecting this data has been generally standardized by virtually every Web Server on the Internet today.<br><p>
+<b>Third Parties:</b>
+<br></p><p>
+Pegasus InfoCorp will disclose your personal information or any of its log file information when required by law or in the good-faith belief that such actions are necessary to </p><ol>
+<li>conform to the edicts of the law or comply with a legal process served on Pegasus InfoCorp
+</li><li>Protect and defend the rights or property of Pegasus InfoCorp, or visitors of www.pegasusinfocorp.com. 
+</li><li>Identify persons who may be violating the law, the legal notice, or the rights of third parties.
+</li><li>Cooperate with the investigations of purported unlawful activities.
+</li></ol>
+<b>Antispam policy:</b>
+<br><p>
+Pegasus InfoCorp recognizes the receipt, transmission or distribution of spam emails (unsolicited bulk emails) as a major concern and has taken reasonable measures, to minimize the transmission and effect of spam emails in its computing environment. All emails received by Pegasus InfoCorp, are subject to spam check. Any email identified as spam will be rejected. With this measure, along with other technical spam reduction measures, Pegasus InfoCorp hopes to minimize the effect of spam emails. Pegasus InfoCorp reserves the right to reject and/or report any suspicious spam emails, to the authorities concerned, for necessary action, from time to time.</p><p>
+  
             <br>
-            Cookies are files holding small pieces of data that are transferred to your computer's hard drive through your Web browser from our Web Server. A cookie cannot read data from your hard disk or read cookie files that may have been created from other sites. The Pegasus InfoCorp Web Site may utilizes cookies as a means of providing personalization features to our visitors. You can choose whether to accept cookies by changing the settings of your browser. Typically, by accessing the browser's help feature you can obtain information on how to prevent your browser from accepting all cookies or to notify you when a cookie is being sent<br> -->
-            <br>
-            <strong>Antispam policy:</strong><br>
-            <br>
-            Pegasus InfoCorp recognizes the receipt, transmission or distribution of spam emails (unsolicited bulk emails) as a major concern and has taken reasonable measures, to minimize the transmission and effect of spam emails in its computing environment. All emails received by Pegasus InfoCorp, are subject to spam check. Any email identified as spam will be rejected. With this measure, along with other technical spam reduction measures, Pegasus InfoCorp hopes to minimize the effect of spam emails. Pegasus InfoCorp reserves the right to reject and/or report any suspicious spam emails, to the authorities concerned, for necessary action, from time to time.            <br>
-            <br>
-          </p>          </td>
-          <td class="inned-ad2">&nbsp; </td>
+            To know more about us, our services and solutions, drop us a <strong><a href="http://www.pegasusinfocorp.com/contact/default.htm">message</a></strong>
+            or mail us at <a href="mailto:info@pegasusinfocorp.com"><strong>info@pegasusinfocorp.com
+              </strong></a><br>
+            <span class="inner-TXT"> </span></p></pr></pr></td>
         </tr>
         <tr>
-          <td height="19" valign="top"> <img src="../images/editable_07.gif" width="14" height="16" alt=""></td>
+          <td height="19" valign="top"> <img src="http://www.pegasusinfocorp.com/images/editable_07.gif" width="14" height="16" alt="Privacy Statement | Pegasus InfoCorp"></td>
           <td class="inned-ad1">&nbsp; </td>
-          <td valign="top"> <img src="../images/editable_09.gif" width="25" height="16" alt=""></td>
+          <td valign="top"> <img src="http://www.pegasusinfocorp.com/images/editable_09.gif" width="25" height="16" alt=""></td>
         </tr>
       </tbody></table>
     </td>
-    <td rowspan="3" valign="top"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <td rowspan="4" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td valign="top" class="txt">
+          <img src="http://www.pegasusinfocorp.com/images/inner_35.gif" width="25" height="9" alt=""></td>
+      </tr>
+    </tbody></table>    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          
+
         <tbody><tr>
-          <td valign="top">
-            <table width="229" height="157" border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr>
-                <td> <img src="../images/box_01.jpg" width="15" height="37" alt=""></td>
-                <td valign="middle"><img src="../images/related-link_02.jpg" width="199" height="37"></td>
-                <td> <img src="../images/box_03.jpg" width="15" height="37" alt=""></td>
-              </tr>
-              <tr>
-                <td height="96" background="../images/box_04.jpg"><img src="../images/box_04.jpg" width="14" height="101">
-                </td>
-                <td valign="top" bgcolor="#FFFFFF" class="txt"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="txt">
-                  <tbody><tr>
-                    <td colspan="2">&nbsp;</td>
-                  </tr>
-                  <tr>
-                    <td width="22%" height="21" valign="top"><strong><img src="../images/bullet.gif" width="42" height="18" alt="database management software, job database, database developer, ohio offender database, database search, development process software, company development offshore software, application custom development software, development outsource software, design development software, computer development software, application development software"></strong></td>
-                    <td width="78%"><strong><font color="#999999"><a href="../pegasus_infocorp_privacy_statement.htm" title="Pegasus InfoCorp provides complete e-commerce solutions. ">Privacy Statement</a></font></strong></td>
-                  </tr>
-                  <tr>
-                    <td height="22" valign="bottom"><strong><img src="../images/bullet.gif" width="42" height="18" alt="development india offshore software, development services software, agile development software, development new software zealand, development in india software, development page software web, business development software, development project software, company custom development software, development software sql, development management project software, company development india software"></strong></td>
-                    <td valign="bottom"><strong><a href="../pegasus_infocorp_terms_of_use.htm" title="At Pegasus, we build modules for simplifying various Company operations">Terms Of Use</a> </strong></td>
-                  </tr>
-                  <tr>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
-                  </tr>
-                  <tr>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
-                  </tr>
-                </tbody></table></td>
-                <td background="../images/box_06.jpg">&nbsp; </td>
-              </tr>
-              <tr>
-                <td> <img src="../images/box_07.jpg" width="15" height="24" alt=""></td>
-                <td> <img src="../images/box_08.jpg" width="199" height="24" alt=""></td>
-                <td> <img src="../images/box_09.jpg" width="15" height="24" alt=""></td>
-              </tr>
-            </tbody></table>
-            <img src="../images/inner_35.gif" width="25" height="9" alt=""></td>
-        </tr>
-        <tr>
           <td valign="top" class="txt"> <table height="157" border="0" cellpadding="0" cellspacing="0">
               <tbody><tr>
-                <td> <img src="../images/box_01.jpg" width="15" height="37" alt=""></td>
-                <td valign="middle"><img src="../images/box_02.jpg" width="199" height="37"></td>
-                <td> <img src="../images/box_03.jpg" width="15" height="37" alt=""></td>
+                <td> <img src="http://www.pegasusinfocorp.com/images/box_01.jpg" width="15" height="37" alt=""></td>
+  <td>
+	  <table width="100%" cellspacing="0" cellpadding="0">
+	  <tbody><tr>
+		  <td width="13%" background="http://www.pegasusinfocorp.com/images/faqsmiddle_dir.jpg"><img src="http://www.pegasusinfocorp.com/images/faqs1_dir.jpg" width="16" height="37"></td>
+		  <td width="68%" valign="bottom" background="http://www.pegasusinfocorp.com/images/faqsmiddle_dir.jpg">
+			  <table width="100%" height="30" cellpadding="2" cellspacing="0">
+				  <tbody><tr><td class="TAB">Quick Links</td></tr>
+			  </tbody></table>
+		  </td>
+  
+		<td width="19%" background="http://www.pegasusinfocorp.com/images/faqsmiddle_dir.jpg"><div align="right"><img src="http://www.pegasusinfocorp.com/images/faqsright_dir.jpg" width="31" height="37"></div></td>
+	  </tr>
+  </tbody></table>
+  </td>
+                <td> <img src="http://www.pegasusinfocorp.com/images/box_03.jpg" width="15" height="37" alt=""></td>
               </tr>
               <tr>
-                <td height="96" background="../images/box_04.jpg"><img src="../images/box_04.jpg" width="14" height="101">
+                <td height="96" background="http://www.pegasusinfocorp.com/images/box_04.jpg"><img src="http://www.pegasusinfocorp.com/images/box_04.jpg" width="14" height="101">
                 </td>
                 <td valign="top" bgcolor="#FFFFFF" class="txt"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="txt">
-                  <tbody><tr>
-                    <td colspan="2">&nbsp;</td>
-                  </tr>
-                  <tr>
-                    <td width="22%" valign="middle"><strong> <img src="../images/bullet.gif" width="42" height="18" alt="PHP and MySQL development services, website programming uk, web application programming USA"></strong></td>
-                    <td width="78%" valign="middle"><strong><a href="../index.htm" title="Home">Home</a></strong> </td>
-                  </tr>
-                  <tr>
-                    <td><strong><img src="../images/bullet.gif" width="42" height="18" alt="india ecommerce web applciation programming services, web development company"></strong></td>
-                    <td><strong><a href="../about/web_development_key_differentiators.htm" title="value driven web development company, web development company values, usa web design and development company">Differentiators</a></strong></td>
-                  </tr>
-                  <tr>
-                    <td><strong><img src="../images/bullet.gif" width="42" height="18" alt="value driven web development company, web development company values, usa web design and development company"></strong></td>
-                    <td><strong><a href="../clients/default.htm" title="Featured Clients">Featured Clients</a></strong></td>
-                  </tr>
-                  <tr>
-                    <td><strong><img src="../images/bullet.gif" width="42" height="18" alt=".NET programming, PHP development, ASP.NET website programming"></strong></td>
-                    <td><strong><a href="../services/default.htm" title="Services">Services</a></strong></td>
-                  </tr>
-                  <tr>
-                    <td><strong><img src="../images/bullet.gif" width="42" height="18" alt="quality website development mumbai, integrity web software development india, website development services excellence"></strong></td>
-                    <td><strong><a href="../solutions/default.htm" title="Solutions">Solutions</a></strong></td>
-                  </tr>
-                  <tr>
-                    <td><strong><img src="../images/bullet.gif" width="42" height="18" alt="excellent web application development and design india, website programming india,"></strong></td>
-                    <td><strong><a href="../website_development_process/methodology_waterfall.htm" title="quality website development mumbai, integrity web software development india, website development services excellence">Methodology</a></strong></td>
-                  </tr>
-                  <tr>
-                    <td><strong><img src="../images/bullet.gif" width="42" height="18" alt="web application programming USA, india ecommerce web applciation programming services, web development company"></strong></td>
-                    <td><strong><a href="../careers/default.htm" title=".NET programming, PHP development, ASP.NET website programming, web application programming company india, website programming">Careers</a></strong></td>
-                  </tr>
-                  <tr>
-                    <td><strong><img src="../images/bullet.gif" width="42" height="18" alt="advanced ecommerce website development,  PHP and MySQL development services, website programming uk"></strong></td>
-                    <td><strong><a href="../press/events.htm" title="News">News</a></strong></td>
-                  </tr>
-                  <tr>
-                    <td><strong><img src="../images/bullet.gif" width="42" height="18" alt="india web development, web site designing mumbai, quality ecommerce website development india, india custom software development"></strong></td>
-                    <td><strong><a href="../website_development_faqs.htm" title="excellent web application development and design india, website programming india, india web development">FAQs</a></strong></td>
-                  </tr>
-                  <tr>
-                    <td><strong><img src="../images/bullet.gif" width="42" height="18" alt="india ecommerce web applciation programming services, web development company, website development uk"></strong></td>
-                    <td><strong><a href="../contact/default.htm" title="Contact Us">Contact Us</a></strong></td>
-                  </tr>
-                  <tr>
-                    <td><strong><img src="../images/bullet.gif" width="42" height="18" alt="website application programming services, advanced website development, web software development and integration"></strong></td>
-                    <td><strong><a href="../sitemap/sitemap.htm" title="Site Map">Sitemap</a></strong></td>
-                  </tr>
-                </tbody></table></td>
-                <td background="../images/box_06.jpg">&nbsp; </td>
-              </tr>
-              <tr>
-                <td> <img src="../images/box_07.jpg" width="15" height="24" alt=""></td>
-                <td> <img src="../images/box_08.jpg" width="199" height="24" alt=""></td>
-                <td> <img src="../images/box_09.jpg" width="15" height="24" alt=""></td>
-              </tr>
-            </tbody></table>
-            <img src="../images/inner_35.gif" width="25" height="9" alt=""></td>
-        </tr>
-        <tr>
-          <td valign="top" class="txt">
-            <table width="229" height="157" border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr>
-                <td> <img src="../images/box_01.jpg" width="15" height="37" alt=""></td>
-                <td valign="middle"><img src="../images/faqs_02.jpg" width="199" height="37"></td>
-                <td> <img src="../images/box_03.jpg" width="15" height="37" alt=""></td>
-              </tr>
-              <tr>
-                <td height="96" background="../images/box_04.jpg"><img src="../images/box_04.jpg" width="14" height="101">
-                </td>
-                <td valign="top" bgcolor="#FFFFFF" class="txt"><table width="99%" border="0" cellpadding="0" cellspacing="0" class="txt">
                     <tbody><tr>
                       <td colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td width="22%" height="28" valign="middle"><strong> <img src="../images/bullet.gif" width="42" height="18" alt="customized software solution, utility software solution, collection software solution, advanced software solution, creative solution accounting software, intelligent software solution, software development solution, internet software solution, ecommerce solution shopping cart software"></strong></td>
-                      <td width="78%" valign="middle"> <a href="#" style="cursor:help" onclick="CPW_showWindow(1);return false;"><strong>Can
-                        the net help my business?</strong></a> <strong></strong></td>
+                      <td width="22%" valign="middle"><strong> <img src="http://www.pegasusinfocorp.com/images/bullet.gif" width="42" height="18" alt="PHP and MySQL development services, website programming uk, web application programming USA"></strong></td>
+                      <td width="78%" valign="middle"><strong><a href="http://www.pegasusinfocorp.com/index.htm" title="Home">Home</a></strong> </td>
                     </tr>
                     <tr>
-                      <td height="18"><strong><img src="../images/bullet.gif" width="42" height="18" alt="registration software solution, software testing solution, budgeting software solution, ecommerce software solution philippine, computer software solution, retail software solution, cms crm software solution, india software solution, recruitment software solution, content management software solution"></strong></td>
-                      <td><strong><a href="#" style="cursor:help" onclick="CPW_showWindow(2);return false;"><strong>What
-                        Technologies do you </strong></a></strong></td>
+                      <td><strong><img src="http://www.pegasusinfocorp.com/images/bullet.gif" width="42" height="18" alt="india ecommerce web applciation programming services, web development company"></strong></td>
+                      <td><strong><a href="http://www.pegasusinfocorp.com/about/default.htm" title="educational portal development, CRM software development,retail ecommerce website and web development">About</a></strong></td>
                     </tr>
                     <tr>
-                      <td height="12">&nbsp;</td>
-                      <td><strong><a href="#" style="cursor:help" onclick="CPW_showWindow(2);return false;"><strong>support?
-                        </strong></a></strong></td>
+                      <td><strong><img src="http://www.pegasusinfocorp.com/images/bullet.gif" width="42" height="18" alt="website development uk, web  software development india, advanced  ecommerce website development"></strong></td>
+                      <td><strong><a href="http://www.pegasusinfocorp.com/clients/default.htm" title="Featured Clients">Clients</a></strong></td>
                     </tr>
                     <tr>
-                      <td height="32"><strong><img src="../images/bullet.gif" width="42" height="18" alt="international business software solution, e finance software solution, software quality solution, shopping cart solution software, specific software solution, customer relationship management software solution, software solution manufacturing facility, patch management software solution, personnel software solution, e business solution software, data database programming software solution, consolidation software solution, management project software solution, simple software solution"></strong></td>
-                      <td><a href="#" style="cursor:help" onclick="CPW_showWindow(3);return false;"><strong>How
-                        does your pricing work?</strong></a></td>
+                      <td><strong><img src="http://www.pegasusinfocorp.com/images/bullet.gif" width="42" height="18" alt=".NET programming, PHP development, ASP.NET website programming"></strong></td>
+                      <td><strong><a href="http://www.pegasusinfocorp.com/services/default.htm" title="Services">Services</a></strong></td>
                     </tr>
                     <tr>
-                      <td height="16">&nbsp;</td>
-                      <td>&nbsp;</td>
+                      <td><strong><img src="http://www.pegasusinfocorp.com/images/bullet.gif" width="42" height="18" alt="web application programming company india, website programming"></strong></td>
+                      <td><strong><a href="http://www.pegasusinfocorp.com/technology/default.htm" title="Technology">Technology</a></strong></td>
                     </tr>
                     <tr>
-                      <td height="18">&nbsp;</td>
-                      <td>&nbsp;</td>
+                      <td><strong><img src="http://www.pegasusinfocorp.com/images/bullet.gif" width="42" height="18" alt="web application programming USA, india ecommerce web applciation programming services, web development company"></strong></td>
+                      <td><strong><a href="http://www.pegasusinfocorp.com/careers/default.htm" title="educational portal development, CRM software development,retail ecommerce website and web development">Careers</a></strong></td>
                     </tr>
-                  </tbody></table></td>
-                <td background="../images/box_06.jpg">&nbsp; </td>
+                    <tr>
+                      <td><strong><img src="http://www.pegasusinfocorp.com/images/bullet.gif" width="42" height="18" alt="india ecommerce web applciation programming services, web development company, website development uk"></strong></td>
+                      <td><strong><a href="http://www.pegasusinfocorp.com/contact/default.htm" title="Contact Us">Contact Us</a></strong></td>
+                    </tr>
+                </tbody></table></td>
+                <td background="http://www.pegasusinfocorp.com/images/box_06.jpg">&nbsp; </td>
               </tr>
               <tr>
-                <td> <img src="../images/box_07.jpg" width="15" height="24" alt=""></td>
-                <td> <img src="../images/box_08.jpg" width="199" height="24" alt=""></td>
-                <td> <img src="../images/box_09.jpg" width="15" height="24" alt=""></td>
+                <td> <img src="http://www.pegasusinfocorp.com/images/box_07.jpg" width="15" height="24" alt=""></td>
+                <td> <img src="http://www.pegasusinfocorp.com/images/box_08.jpg" width="199" height="24" alt=""></td>
+                <td> <img src="http://www.pegasusinfocorp.com/images/box_09.jpg" width="15" height="24" alt=""></td>
               </tr>
-            </tbody></table>
-          </td>
-        </tr>
+              </tbody></table>
+            <img src="http://www.pegasusinfocorp.com/images/inner_35.gif" width="25" height="9" alt=""></td>
+        </tr>       
       </tbody></table></td>
-    <td> <img src="../images/inner_21.gif" width="11" height="37" alt=""></td>
+      <td>&nbsp;</td>
   </tr>
   <tr>
-    <td height="387"> <img src="../images/inner_22.gif" width="11" height="67" alt=""></td>
-    <td> <img src="../images/inner_26.gif" width="11" height="67" alt=""></td>
+    <td height="37"> <img src="http://www.pegasusinfocorp.com/images/inner_16.gif" width="11" height="37" alt=""></td>
+    <td> <img src="http://www.pegasusinfocorp.com/images/inner_21.gif" width="11" height="37" alt=""></td>
+  </tr>
+  <tr>
+    <td height="387"> <img src="http://www.pegasusinfocorp.com/images/inner_22.gif" width="11" height="67" alt=""></td>
+    <td> <img src="http://www.pegasusinfocorp.com/images/inner_26.gif" width="11" height="67" alt=""></td>
   </tr>
   <tr>
     <td height="19">&nbsp; </td>
-    <td> <img src="../images/inner_31.gif" width="11" height="16" alt=""></td>
+    <td> <img src="http://www.pegasusinfocorp.com/images/inner_31.gif" width="11" height="16" alt=""></td>
   </tr>
   <tr>
-    <td> <img src="../images/inner_32.gif" width="11" height="10" alt=""></td>
-    <td> <img src="../images/inner_33.gif" width="14" height="10" alt=""></td>
-    <td> <img src="../images/inner_34.gif" width="489" height="10" alt=""></td>
-    <td> <img src="../images/inner_35.gif" width="25" height="10" alt=""></td>
-    <td> <img src="../images/inner_36.gif" width="229" height="10" alt=""></td>
-    <td> <img src="../images/inner_37.gif" width="11" height="10" alt=""></td>
+    <td> <img src="http://www.pegasusinfocorp.com/images/inner_32.gif" width="11" height="10" alt=""></td>
+    <td> <img src="http://www.pegasusinfocorp.com/images/inner_33.gif" width="14" height="10" alt=""></td>
+    <td> <img src="http://www.pegasusinfocorp.com/images/inner_34.gif" width="489" height="10" alt=""></td>
+    <td> <img src="http://www.pegasusinfocorp.com/images/inner_35.gif" width="25" height="10" alt=""></td>
+    <td> <img src="http://www.pegasusinfocorp.com/images/inner_36.gif" width="229" height="10" alt=""></td>
+    <td> <img src="http://www.pegasusinfocorp.com/images/inner_37.gif" width="11" height="10" alt=""></td>
   </tr>
 </tbody></table>
-<!--COMENTED BY SUMA 13TH NOV 2007
-<TABLE WIDTH="760" align='center' cellpadding='0' cellspacing='0'>
+<!--<TABLE WIDTH="985" align='center' cellpadding='0' cellspacing='0'>
 	<TR>
-		<TD width='2%'  valign='bottom'> <IMG SRC='../images/links_01.gif' WIDTH=17 HEIGHT=22 ALT=''></TD>
-		<TD  valign='bottom' background='../images/keylinkto_dir.jpg'>&nbsp; </TD>
-		<TD width='2%'  valign='bottom'> <IMG SRC='../images/links_03.gif' WIDTH=18 HEIGHT=22 ALT=''></TD>
+		<TD valign='bottom' align="left"> <IMG SRC='http://www.pegasusinfocorp.com/images/links_01.gif' HEIGHT=22 ALT='Privacy Statement | Pegasus InfoCorp'></TD>
+		<TD style="background-image:url(http://www.pegasusinfocorp.com/images/keylinkto_dir.jpg); background-repeat: repeat-x; background-position:bottom;">&nbsp; </TD>
+		<TD valign='bottom' align="left"> <IMG SRC='http://www.pegasusinfocorp.com/images/links_03.gif' HEIGHT=22 ALT=''></TD>
 	</TR>
 	<TR>
-		<TD background='../images/links_04.gif'> <IMG SRC='../images/links_04.gif' WIDTH=17 HEIGHT=9 ALT=''></TD>
-	  <TD  bgcolor='#FFFFFF' width='100%'><table width='100%' border='0' align='center' cellpadding='0' cellspacing='0' class='inner-TXT'>
+		<TD style="background-image:url(http://www.pegasusinfocorp.com/images/links_04.gif); background-repeat: repeat-y; background-position:left;">&nbsp;</TD>
+	  <TD  bgcolor='#FFFFFF' width='100%'>
+	  <table width='100%' border='0' align='center' cellpadding='0' cellspacing='0' class='inner-TXT'>
         <tr>
-          <td width='4' height='19'>&nbsp;</td>
-          <td width='129' valign='top'>
-            <table class='inner-TXT'>
-              <tr>
-                <td><a href="../index.htm">Home</a></td>
-                <td>&nbsp;|&nbsp;</td>
-                <td><a href='../about/default.htm' Title='pegasusinfocorp.com : Professional Website Design Services firm in India.'>About&nbsp;Us</a></td>
-              </tr>
-          </table></td>
-          <td width='11' valign='top'>&nbsp;|&nbsp;</td>
-          <td width='117' valign='top'><a href='../services/default.htm' title='pegasusinfocorp.com : Web design, Flash website design & web development services in India, web designers from India'>Services</a></td>
-          <td width='12' valign='top'>&nbsp;|&nbsp;</td>
-          <td width='155' valign='top'><a href='../contact/default.htm' title='Contact pegasusinfocorp for your website design &amp; website development needs'>Contact&nbsp;Us</a></td>
-          <td width='11' valign='top'>&nbsp;|&nbsp;</td>
-          <td width='124' valign='top'><a href='../website_software/sfa_web_software.html' title="Sfa Web Software">Sfa Web Software</a></td>
-          <td width='11' valign='top'>&nbsp;|&nbsp;</td>
-          <td width='135' valign='top'><a href='../website_software/small_business_database_software.html' title='Manufacturing Business Development Software'>Small Business Database Software</a></td>
+          <td>
+			  </td>
         </tr>
-        <tr>
-          <td width='4' height='19'>&nbsp;</td>
-          <td width='129' valign='top'><a href='../website_software/technology_business.html' title='Technology Business India'>Technology Business India</a></td>
-          <td width='11' valign='top'>&nbsp;|&nbsp;</td>
-          <td width='117' valign='top'><a href='../website_software/project_management_software_web_based.html' title='Project Management Software Web Based'>Project Management Software Web Based</a></td>
-          <td width='12' valign='top'>&nbsp;|&nbsp;</td>
-          <td width='155' valign='top'><a href='../website_software/job_software.html' title='Job Software USA'>Job Software USA</a></td>
-          <td width='11' valign='top'>&nbsp;|&nbsp;</td>
-          <td width='124' valign='top'><a href='../website_software/venezuela/merida.html' title='Website Development Merida'>Website Development Merida</a></td>
-          <td width='11' valign='top'>&nbsp;|&nbsp;</td>
-          <td width='135' valign='top'><a href='../website_software/spain/valladolid.html' title='Web Development Valladolid'>Web Development Valladolid</a></td>
-        </tr>
-        <tr>
-          <td width='4' height='19'>&nbsp;</td>
-          <td width='129' valign='top'><a href='../website_software/sudan/khartum.html' title='Website Development Khartum'>Website Development Khartum</a></td>
-          <td width='11' valign='top'>&nbsp;|&nbsp;</td>
-          <td width='117' valign='top'><a href='../website_software/taiwan/panchiao.html' title='Web Development Panchiao'>Web Development Panchiao</a></td>
-          <td width='12' valign='top'>&nbsp;|&nbsp;</td>
-          <td width='155' valign='top'><a href='../website_software/mexico/cajeme.html' title='Website Software Cajeme'>Website Software Cajeme</a></td>
-          <td width='11' valign='top'>&nbsp;|&nbsp;</td>
-          <td valign='top'><a href='../website_software/morocco/rabat.html' title='Website Development Rabat'>Website Development Rabat</a></td>
-		  <td align="left" valign="top">&nbsp;|</td>
-		  <td valign="top"><a href='../website_software/italy/torino.html' title='Website Design Torino'>Website Design Torino</a></td>
-        </tr>
-      </table></TD>
-		<TD valign='top' background='../images/links_06.gif'> <IMG SRC='../images/links_06.gif' ></TD>
+      </table>
+	  </TD>
+		<TD valign='top' background='http://www.pegasusinfocorp.com/images/links_06.gif'> <IMG SRC='http://www.pegasusinfocorp.com/images/links_06.gif' ></TD>
 	</TR>
 	<TR>
-		<TD valign='top'> <IMG SRC='../images/links_07.gif' WIDTH=17 HEIGHT=24 ALT=''></TD>
-		<TD valign='top' background='../images/keylinks_dir.jpg'>&nbsp; </TD>
-		<TD valign='top'> <img src='../images/links_09.gif' width=18 height=24 alt=''></TD>
+		<TD valign='top' align="left"> <IMG SRC='http://www.pegasusinfocorp.com/images/links_07.gif' HEIGHT=24 ALT=''></TD>
+		<TD valign='top' background='http://www.pegasusinfocorp.com/images/keylinks_dir.jpg'>&nbsp; </TD>
+		<TD valign='top' align="left"> <img src='http://www.pegasusinfocorp.com/images/links_09.gif' height=24 alt=''></TD>
 	</TR>
 </TABLE>-->
-<table width="777" border="0" align="center" cellpadding="0" cellspacing="0">
+<table width="985" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td width="1%"><img src="../images/inner_38.gif" width="11" height="40" alt=""></td>
-    <td width="1%" background="../images/border-bottom.gif"><img src="../images/inner_39.gif" width="14" height="40" alt=""></td>
-    <td width="93%" background="../images/border-bottom.gif"><table width="100%" border="0" cellpadding="0" cellspacing="5" class="txt">
-        <tbody><tr>
-          <td width="50%"><strong>© 2009, Pegasus InfoCorp
-            Pvt. Ltd. All Rights Reserved.</strong></td>
-          <td width="50%" align="right">&nbsp;</td>
-        </tr>
-      </tbody></table></td>
-    <td width="3%" align="right"><img src="../images/inner_40.gif" width="35" height="40" alt=""></td>
-    <td width="2%" align="right"><img src="../images/inner_41.gif" width="11" height="40" alt=""></td>
+   
+    <td width="1%" background="http://www.pegasusinfocorp.com/images/border-bottom.gif"><img src="http://www.pegasusinfocorp.com/images/inner_39.gif" height="40" alt=""></td>
+    <td width="98%" style="background-image:url(http://www.pegasusinfocorp.com/images/border-bottom.gif); background-repeat: repeat-x;">
+		  <table width="100%" border="0" cellpadding="0" cellspacing="5" class="txt">
+			<tbody><tr>
+			  <td width="50%"><strong>© 2017, Pegasus InfoCorp
+				Pvt. Ltd. All Rights Reserved.</strong></td>
+			  <td width="50%">&nbsp;</td>
+			</tr>
+		  </tbody></table>
+    </td>
+    <td width="1%" align="right" style="background-image:url(http://www.pegasusinfocorp.com/images/border-bottom.gif); background-repeat: repeat-x;"><img src="http://www.pegasusinfocorp.com/images/inner_40.gif" height="40" alt=""></td>
+    
   </tr>
   <tr>
-    <td colspan="5"><img src="../images/inner_34.gif" width="489" height="10" alt=""></td>
+    <td colspan="3"><img src="http://www.pegasusinfocorp.com/images/inner_34.gif" height="10" alt=""></td>
   </tr>
 </tbody></table>
+<!-- Start of SC Code -->
+<script type="text/javascript">
+var sc_project=5670331; 
+var sc_invisible=1; 
+var sc_partition=65; 
+var sc_click_stat=1; 
+var sc_security="e775920c"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
+<!-- End of SC Code -->
+
 
 </body></html>
