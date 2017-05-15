@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the montgomeryadvertiser.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029150425id_/http%3A//static.montgomeryadvertiser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montgomeryadvertiser.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515052254id_/http%3A//static.montgomeryadvertiser.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Montgomery Advertiser
 
