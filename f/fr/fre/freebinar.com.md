@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebinar.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229171507id_/http%3A//www.anymeeting.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebinar.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515152310id_/https%3A//www.anymeeting.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AnyMeeting
 
@@ -29,9 +29,9 @@ Non-personally identifiable user information may be provided to other parties fo
 
 Your personally identifiable information, meaning information that can be used to identify you individually, whether public or private, will not be shared with third parties for their own marketing purposes. We may share your personally identifiable information with third parties in these limited circumstances:
 
-  * **Our Service Providers.** Companies that help us provide the Services (e.g., data centers and payment processors), will have access to user information solely to perform services on our behalf. Those companies have agreed to confidentiality terms that are consistent with this Privacy Policy.
-  * **Legal Compliance.** We cooperate with government officials, law enforcement officials and private parties to enforce and comply with the law. We will disclose user information to such third parties as we, in our sole discretion, believe necessary or appropriate.
-  * **Business Transfers.** We may share, transfer or sell some or all of our assets, including user information, in connection with or in anticipation of a corporate event, including a funding, merger, acquisition, sale of stock, recapitalization, reorganization or sale of assets or in the event of bankruptcy.
+  *  **Our Service Providers.** Companies that help us provide the Services (e.g., data centers and payment processors), will have access to user information solely to perform services on our behalf. Those companies have agreed to confidentiality terms that are consistent with this Privacy Policy.
+  *  **Legal Compliance.** We cooperate with government officials, law enforcement officials and private parties to enforce and comply with the law. We will disclose user information to such third parties as we, in our sole discretion, believe necessary or appropriate.
+  *  **Business Transfers.** We may share, transfer or sell some or all of our assets, including user information, in connection with or in anticipation of a corporate event, including a funding, merger, acquisition, sale of stock, recapitalization, reorganization or sale of assets or in the event of bankruptcy.
 
 
 
