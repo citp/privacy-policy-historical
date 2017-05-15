@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elegantthemes.com privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822080302id_/https%3A//www.elegantthemes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elegantthemes.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515095849id_/https%3A//www.elegantthemes.com/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Elegant Themes
 
@@ -12,7 +12,7 @@ End Users may be asked by Clients to provide additional information to them, inc
 
 **By using or accessing the Service in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**
 
-Remember that your use of the Service is at all times subject to the [Terms of Service](http://www.elegantthemes.com/terms.html) [http://www.elegantthemes.com/terms.html], which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the Terms of Service. 
+Remember that your use of the Service is at all times subject to the [Terms of Service](https://www.elegantthemes.com/policy/service/) [http://www.elegantthemes.com/policy/terms/], which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the Terms of Service. 
 
 This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. 
 
