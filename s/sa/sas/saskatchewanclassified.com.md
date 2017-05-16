@@ -1,55 +1,36 @@
-> *The following text is extracted and transformed from the saskatchewanclassified.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010084348id_/http%3A//www.saskatchewanclassified.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saskatchewanclassified.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516034946id_/http%3A//ww43.saskatchewanclassified.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
-saskatchewan classified saskatchewanclassified.com  is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the saskatchewan classified saskatchewanclassified.com Web site and governs data collection and usage. By using the saskatchewan classified saskatchewanclassified.com website, you consent to the data practices described in this statement.
+* **Overview**
 
-Information Collection
+Thank you for visiting ww43.saskatchewanclassified.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
-saskatchewan classified saskatchewanclassified.com collects information through our Web site at several points. We collect the following information about primary users: Email Address \- To verify accounts and allow buyers to contact sellers.
+* **What Type of Information We Collect**
 
-saskatchewan classified saskatchewanclassified.com does not actively market to children, and we never knowingly ask a child under 13 to divulge personal information. saskatchewan classified saskatchewanclassified.com is a child freindly site that actively filters out inappropriate sites. If you know of an inappropriate word or term being used in this site, please contact us at saskatchewan classified saskatchewanclassified.com so that we can remove it.
+The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
 
-Occasionally we collect the following general data that is not personally identifiable information, such as city, age, ethnicity, education, salary, and various others. We occasionally request demographic data in order to understand our site visitors and provide a better, more custom experience.
+We partner with a limited number of third party behavioral advertising companies. In some cases, these companies serve ads and/or collect certain information when you visit the Web Site. The Web Site and third party advertisers may use cookies, a small file containing a string of characters that is sent to your computer when you visit a website, to collect non-personal information (name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements of interest to you on the Web Site, other sites, and other forms of media. 
 
-We verify the accuracy of this information by sending follow up emails.
+* **Uses May Include**
 
-We do employ cookies. A cookie is a small text file that our Web server places on a user's computer hard drive to be a unique identifier. Cookies enable saskatchewan classified saskatchewanclassified.com to track usage patterns and deliver customized content to users. Our cookies do not have an expiration date. Our cookies do not collect personally identifiable information.
+  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
+  
 
-Information Usage
+  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
+  
 
-The information collected by saskatchewan classified saskatchewanclassified.com will be used for improving our web site and providing our service.
+  * We may share aggregated non-personal information with third parties outside of The Web Site. 
+  
 
-We offer links to other Web sites. Please note: When you click on links to other Web sites, we encourage you to read their privacy policies. Their standards may differ from ours.
+  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+  
 
-Our Web site offers link exchange opportunities with other sites. Please be advised that information posted in these venues becomes public knowledge.
+  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
+  
 
-If our policy on information collection or uses changes, will advise you here. Please be advised
+  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
+  
 
-Your Ability to Access, Review and Change your Personal Information.
 
-You can access, review and edit your forum user profile, at any time. You are responsible for all actions taken with your User ID and password. Therefore you must not disclose your saskatchewan classified saskatchewanclassified.com password to any third parties.
-
-Under 13's.
-
-saskatchewan classified saskatchewanclassified.com does not knowingly collect any information from persons under the age of 13. If saskatchewan classified saskatchewanclassified.com learns that a posting is by a person under the age of 13, saskatchewan classified saskatchewanclassified.com will remove that post. 
-
-Security.
-
-To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place physical, electronic and managerial procedures to protect the information we collect. We do not keep credit card information on our website server; all credit card transactions occur on PayPal, which has strong security measures in place. While we make reasonable efforts to safeguard your personal information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. As a result, we cannot ensure or warrant the security of any information you transmit to us or information we transmit to you from our Site, and you do so at your own risk.
-
-Use of Cookies
-
-The saskatchewan classified saskatchewanclassified.com Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
-
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize saskatchewan classified saskatchewanclassified.com pages, or register with saskatchewan classified saskatchewanclassified.com site or services, a cookie helps saskatchewan classified saskatchewanclassified.com to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same saskatchewan classified saskatchewanclassified.com Web site, the information you previously provided can be retrieved, so you can easily use the saskatchewan classified saskatchewanclassified.com features that you customized.
-
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the saskatchewan classified saskatchewanclassified.com services or Web sites you visit.
-
-Changes to Our Privacy Policy.
-
-As saskatchewan classified saskatchewanclassified.com continues to develop, we may add new services and features to our site. In the event that these additions, changes to the law or changes to saskatchewan classified saskatchewanclassified.com 's terms of use affect our Privacy Policy, this document will and can be updated when appropriate. When materially significant changes happen we will alert you to this via a forum announcement. Your continued use of the web site after the effective date of any changes will constitute your acceptance of all of the changes.
-
-Contact Information
-
-saskatchewan classified saskatchewanclassified.com welcomes your comments regarding this Statement of Privacy. If you believe that saskatchewan classified saskatchewanclassified.com has not adhered to this Statement, please contact saskatchewan classified saskatchewanclassified.com at contact us page. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp> or the Digital Advertising Alliance at [aboutads.info](http://www.aboutads.info/).
