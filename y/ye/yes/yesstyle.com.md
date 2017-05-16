@@ -1,8 +1,74 @@
-> *The following text is extracted and transformed from the yesstyle.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000826id_/http%3A//www.yesstyle.com/en/help/section.html/hsi.754) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesstyle.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516192229id_/http%3A//www.yesstyle.com/en/help/section.html/hsi.754) for the most accurate reproduction.*
 
-# YESSTYLE: Customer Support - Privacy & Security
+# Customer Support - Privacy & Security | YesStyle
+
+Last Updated: March 24, 2015
 
 YesStyle is committed to protecting your privacy. We hope that you will take the time to read this privacy policy, which explains what information we collect from you and how we use that information. By using our website (including its subdomains) or by purchasing products or services from us, you agree to be bound by this privacy policy. Please check back frequently, as this privacy policy may change from time to time. 
+
+  * WHAT INFORMATION WE COLLECT
+  * HOW WE USE YOUR INFORMATION
+  * HOW WE PROTECT YOUR INFORMATION
+  * HOW WE SHARE YOUR INFORMATION
+  * COOKIES
+  * LINKS TO OTHER WEBSITES
+  * COMMENTS, REVIEWS, AND OTHER INFORMATION
+  * MAKING CHANGES TO YOUR INFORMATION
+  * MARKETING PREFERENCES
+  * CHILDREN'S PRIVACY ONLINE
+  * CALIFORNIA PRIVACY RIGHTS
+  * USERS IN THE EUROPEAN UNION OR EUROPEAN ECONOMIC AREA
+  * CHANGES TO THIS PRIVACY POLICY
+  * HOW TO CONTACT US
+
+
+
+**What Information We Collect**
+
+_Information You Give Us_
+
+We collect personal information from you in a variety of ways when you interact with our website. Some examples are when you: 
+
+  * Create a YesStyle account;   
+
+  * Sign up to receive our website's newsletters and/or periodic email notifications with special offers;   
+
+  * Place an order with us;   
+
+  * Participate in a contest, sweepstake, giveaway, promotion, or survey; or  
+
+  * Otherwise submit personal information to us along with any related content of the communication.
+
+
+
+_Information Automatically Collected_
+
+We receive and store certain types of information when you interact with us. Our purpose is to allow the websites to work correctly, to evaluate use of the website, and to support website analytics and marketing campaigns. Some examples include: 
+
+  * We may collect technical information such as your IP address, your device operating system and browser type, the address of a referring website, if any, and the path you take through our websites. We use this technical information to, among other things, improve our products and services as well as to help us administer our website and diagnose technical problems. Your IP address is also used to gather broad demographic information that does not personally identify you.
+  * We use “cookies” to recognise you as you use or return to our site. For more information about cookies, please see the section below “Cookies.” 
+
+
+
+**How We Use Your Information**
+
+We use your information to offer and provide our products and services and to support our core business functions. These include order or service fulfillment, internal business processes, marketing, authentication, loss and fraud prevention, public safety and legal functions. Some examples include: 
+
+  * To fulfill your requests for products and services and communicate with you about those requests;  
+
+  * To register and service your account;  
+
+  * To administer surveys, sweepstakes, contests, giveaways and promotions;  
+
+  * To provide customer service and alert you to product information;  
+
+  * To help us improve and customise our product and service offerings, websites, and advertising;  
+
+  * To send you information about our products, services, and promotions; and  
+
+  * To protect the security or integrity of our websites and our business.
+
+
 
 **How We Protect Your Information**
 
@@ -26,7 +92,17 @@ _Legal Requirements and Protection of Our Company and Others_
 
 YesStyle may also share your personal information for the following limited purposes:
 
- _Business Transfers_
+  1. Comply with the law or with legal process, or with requests from law enforcement authorities;   
+
+  2. Protect and defend our rights and property;   
+
+  3. Protect our customers or users from misuse or unauthorised use of the YesStyle website; or   
+
+  4. Protect the personal safety or property of our customers or the public. 
+
+
+
+_Business Transfers_
 
 If YesStyle is acquired by or merges with another company, YesStyle may transfer personal information to that company (including transfers made as part of insolvency or bankruptcy proceedings). In such an event, YesStyle will notify you before your personal data is transferred if this information would become subject to a materially different privacy policy.
 
@@ -35,6 +111,28 @@ _Service Providers_
 YesStyle may from time to time share the information we collect from and about you with other third-parties that provide support services to us, or that help us market our products and services. Examples are shipping vendors, billing and refund vendors, payment card processors, promoters and administrators of sweepstakes, contests, giveaways and promotions, and companies that help us improve our product and service offerings and our websites. These companies may need information about you in order to perform their functions. These companies are not authorised to use the information we share with them for any other purpose. In some cases YesStyle and third-party service providers may share tracking information, including your IP address, and YesStyle may provide information about your order to the website that has referred you to YesStyle (and the referral network utilised by such website), to facilitate calculation of any commissions payable by YesStyle.
 
 YesStyle may provide aggregate statistics about our customers, sales, traffic patterns, and related website information to third parties, but these statistics will not include any personally identifying information. A website traffic and user behavior auditing system operated by Google Analytics is being used on this website. Please see the [Google Analytics website](http://www.google.com/analytics) for information about Google Analytics, the Google Analytics auditing system, and the Google Analytics' [privacy policy](http://www.google.com/intl/en_ALL/privacy.html).
+
+**Cookies**
+
+_YesStyle Cookies_
+
+The YesStyle website employs “cookies,” which are small pieces of information that are stored by your browser on your computer or mobile device. Our cookies enable us both to provide a Shopping Bag and to store your shipping and billing information between visits.
+
+We also use cookies for additional purposes, including: 
+
+  * Identifying you when you sign-in to our site;   
+
+  * Delivering content relevant to your interests, including advertisements, on YesStyle.com, sites operated; by other companies within our corporate group, and third-party sites;  
+
+  * Keeping track of your specified preferences;  
+
+  * Conducting research and diagnostics to improve YesStyle’s content, products and services;  
+
+  * Preventing fraudulent activities; and  
+
+  * Improving security.
+
+
 
 The “Settings,” “Privacy” or other features on most browsers will enable you to prevent your browser from accepting new cookies, to have the browser notify you when you receive a new cookie and to disable cookies altogether. If you have set your browser to reject cookies, you can still use our site, although you may need to re-enter information that would normally be obtained from the cookie.  
 
@@ -101,3 +199,5 @@ YesStyle.com Ltd.,
 192-200 Tai Lin Pai Road,  
 Kwai Chung, New Territories,  
 Hong Kong
+
+Telephone: +852 2786-0817
