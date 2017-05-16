@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myprovisionstore.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124041432id_/http%3A//myprovisionstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myprovisionstore.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516052641id_/http%3A//myprovisionstore.com/privacy-policy) for the most accurate reproduction.*
 
-# online grocery shopping store grocery shopping online grocery shopping store groceries vegetable cakes flowers fruits grocery groceries my provision store.
+# Grocery Shopping Online - Buy fruits, vegetables & other household essentials at MyProvisionStore online grocery store & get Free home delivery!
 
 Your privacy is important to 'MyProvisionStore.com' We want to make you feel comfortable and secure shopping in our store. This privacy policy explains the types of information we gather, how it is protected, what we do with it and how you can correct or change information. By shopping at MyProvisionStore.com, you are accepting the practices described in this Privacy Policy. 
 
