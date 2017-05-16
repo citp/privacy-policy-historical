@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mautic.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315075026id_/https%3A//www.mautic.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mautic.org privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516120103id_/https%3A//www.mautic.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Like most website operators, Mautic.org and Mautic.com hereafter collectively referred to as Mautic, collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Mautic’s purpose in collecting non-personally identifying information is to better understand how Mautic’s visitors use its website. From time to time, Mautic may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. 
+Like most website operators, Mautic.org, Mautic.net and Mautic.com hereafter collectively referred to as Mautic, collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Mautic’s purpose in collecting non-personally identifying information is to better understand how Mautic’s visitors use its website. From time to time, Mautic may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
 Mautic also collects potentially personally-identifying information (PII) like Internet Protocol (IP) addresses. Mautic does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
 
@@ -20,13 +20,13 @@ Mautic discloses potentially personally-identifying and personally-identifying i
 
 ### Automatic Collection, Cookies & Web Beacons
 
-Mautic or our service providers or our third party advertisers or links to third party websites and social media widgets may use automatic collection technologies including cookies and web beacons that collect information about you or your visits for purposes to improve your web activities or to deliver targeted content to you. Mautic does not provide personally-identifying information to these third parties and is not responsible or liable for nor do we endorse or control their activities. Use of third party links, advertisers, sites and/or widgets will be subject to the respective third party’s privacy policies and terms of service. 
+Mautic or our service providers or our third party advertisers or links to third party websites and social media widgets may use automatic collection technologies including cookies and web beacons that collect information about you or your visits for purposes to improve your web activities or to deliver targeted content to you. Mautic does not provide personally-identifying information to these third parties and is not responsible or liable for nor do we endorse or control their activities. Use of third party links, advertisers, sites and/or widgets will be subject to the respective third party’s privacy policies and terms of service.
 
 A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Mautic uses cookies to help Mautic identify and track visitors, their usage of Mautic website, and their website access preferences. Mautic visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Mautic’s websites, with the drawback that certain features of Mautic’s websites may not function properly without the aid of cookies.
 
 Pages of this Website and any e-mails sent to you may contain web beacons. Web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) are small electronic files that are embedded onto a web page or an email to document traffic and for website analytics without collecting any Personal Information, that, for example, allow us to count users who have visited webpages or opened our e-mails.
 
-### Children's Personal Information
+### Children’s Personal Information
 
 This Website is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13 without prior verifiable parental consent. If we learn that a child under the age of 13 has submitted personally identifiable information online without parental consent, we will take all reasonable measures to delete such information from our databases and to not use such information for any purpose (except where necessary to protect the safety of the child or others).
 
@@ -52,7 +52,7 @@ In Mautic’s sole discretion this Privacy Policy may change from time to time. 
 
 If you have questions or concerns about this Privacy Policy, our information practices, or wish to make a request regarding your information, please contact us at any of the following:
 
-Via postal mail:   
+Via postal mail:  
 **Mautic Association**  
 2810 Eric Lane, Burlington, NC 27215,  
 United States of America
@@ -61,5 +61,5 @@ Via e-mail: [help@mautic.org](mailto:help@mautic.org)
 
 * * *
 
-Mautic’s Privacy Policy is modified from one originally attributed from Wordpress, under an open license agreement. http://www.wordpress.org/about/privacy/ Such policy has been transformed for Mautic’s use and is not deemed an endorsement by Wordpress.  
+Mautic’s Privacy Policy is modified from one originally attributed from WordPress, under an open license agreement. http://www.wordpress.org/about/privacy/ Such policy has been transformed for Mautic’s use and is not deemed an endorsement by WordPress.  
 [http://creativecommons.org/licenses/by-sa/4.0/ __](http://creativecommons.org/licenses/by-sa/4.0/)
