@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loyal3.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324135334id_/https%3A//www.loyal3.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loyal3.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516203031id_/https%3A//www.loyal3.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - LOYAL3
 
@@ -122,6 +122,6 @@ San Francisco, CA 94126
 
 **State Law:** If your address is in Vermont, we will not share information we collect about you with non-affiliated entities, except as permitted by Vermont law, such as to service your account and according to your consent. 
 
-[Important Notice for California Residents](https://web.archive.org/web/20160324135334id_/https%3A//www.loyal3.com/california.html)
+[Important Notice for California Residents](https://web.archive.org/web/20170516203031id_/https%3A//www.loyal3.com/california.html)
 
 ©2014 LOYAL3 Securities, Inc. 
