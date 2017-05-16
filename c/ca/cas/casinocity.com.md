@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinocity.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115103246id_/http%3A//www.casinocity.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinocity.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516190954id_/http%3A//www.casinocity.com/Privacy) for the most accurate reproduction.*
 
 # Casino City: Privacy Policy
 
@@ -97,4 +97,4 @@ Casino City Customer Care - Privacy Policy Issues
 
 
 Casino City is an independent directory and information service free of any gaming operator's control. Warning: You must ensure you meet all age and other regulatory requirements before entering a Casino or placing a wager. There are hundreds of jurisdictions in the world with Internet access and hundreds of different games and gambling opportunities available on the Internet. YOU are responsible for determining if it is legal for YOU to play any particular games or place any particular wager.   
-[Terms of Use](http://www.casinocity.com/termsofuse/) [Privacy Policy](http://www.casinocity.com/privacy/) Copyright © 1995-2016 Casino City, Inc. or its affiliates. 
+[Terms of Use](http://www.casinocity.com/termsofuse/) [Privacy Policy](http://www.casinocity.com/privacy/) Copyright © 1995-2017 Casino City, Inc. or its affiliates. 
