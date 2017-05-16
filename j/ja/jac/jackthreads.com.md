@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackthreads.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107194450id_/https%3A//www.jackthreads.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackthreads.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516105427id_/https%3A//www.jackthreads.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -96,7 +96,7 @@ Credit card transactions are handled by third party financial institutions and t
 
 **_Your California Privacy Rights_**
 
-Beginning January 1, 2005, under California law, if you are a resident of California, you may make a written request to us about how we have shared your personal information with third parties for their direct marketing purposes. In response to your written request, we will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and address. Please submit a written request to the following address: California Policy Manager, JackThreads, Inc., 568 Broadway, Ste. 507, New York, NY 10012; or, email support(at)jackthreads(dot)com with the subject line “California Policy” and your request in the body of your email.
+Beginning January 1, 2005, under California law, if you are a resident of California, you may make a written request to us about how we have shared your personal information with third parties for their direct marketing purposes. In response to your written request, we will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and address. Please submit a written request to the following address: California Policy Manager, JackThreads, Inc., 81 Prospect St., Brooklyn, NY 11201; or, email support(at)jackthreads(dot)com with the subject line “California Policy” and your request in the body of your email.
 
 **_Access and Correction_**
 
@@ -134,5 +134,5 @@ If you have any questions or comments about this Privacy Policy, or if you would
 
 JackThreads, Inc.  
 Attn: Chief Technology Officer  
-568 Broadway, Ste. 507  
-New York, NY 10012
+81 Prospect St.  
+Brooklyn, NY 11201
