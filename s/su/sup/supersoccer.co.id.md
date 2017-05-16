@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supersoccer.co.id privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123064658id_/http%3A//www.supersoccer.co.id/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersoccer.co.id privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516055600id_/http%3A//www2.supersoccer.co.id/pages/privacy-policy) for the most accurate reproduction.*
 
 # Berita Bola Terkini, Klasemen Liga Inggris, Sepak Bola, Football Manager Super Soccer dan lainnya hanya di Supersoccer.co.id
 
