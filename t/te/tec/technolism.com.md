@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technolism.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315173232id_/http%3A//www.technolism.com/about/technolism-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technolism.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516103527id_/http%3A//www.technolism.com/about/technolism-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Technolism.com
 
