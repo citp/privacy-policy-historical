@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ultimateprofitlist.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612100510id_/http%3A//ultimateprofitlist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimateprofitlist.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516115235id_/http%3A//ultimateprofitlist.com/privacy.php) for the most accurate reproduction.*
 
 # Ultimate Profit List - Free Viral List Builder
 
-[](http://ultimateprofitlist.com/bannerclick.php?id=3599)  
+[](http://ultimateprofitlist.com/bannerclick.php?id=18619)  
 
 
 Ultimate Profit List Privacy Policy
