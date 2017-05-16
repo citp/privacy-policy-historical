@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargainmoose.ca privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216085300id_/http%3A//www.bargainmoose.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainmoose.ca privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516052843id_/https%3A//www.bargainmoose.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bargainmoose
 
