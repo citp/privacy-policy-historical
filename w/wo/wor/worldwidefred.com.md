@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwidefred.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230050811id_/http%3A//www.fredandfriends.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwidefred.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516100151id_/http%3A//www.fredandfriends.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
