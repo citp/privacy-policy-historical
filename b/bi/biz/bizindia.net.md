@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizindia.net privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231202756id_/http%3A//www.bizindia.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizindia.net privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516235722id_/http%3A//www.bizindia.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Biz India : Online News
 
