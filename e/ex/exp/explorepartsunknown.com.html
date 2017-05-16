@@ -1,0 +1,1218 @@
+<!--The following is the downloaded HTML source of the explorepartsunknown.com privacy policy that was archived on 2017-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170517010145id_/https%3A//explorepartsunknown.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js" lang="en-US"><head>
+	<meta charset="UTF-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript" async=""></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	<link rel="icon" type="image/png" href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/favicon/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/favicon/favicon-16x16.png" sizes="16x16">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+	<script>
+		WebFontConfig = {
+			google: {
+				families: ['Libre Baskerville:400,400i,700', 'Montserrat:400,700'],
+			},
+			timeout: 3000
+		};
+
+		(function() {
+			var wf = document.createElement('script');
+			wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+								'://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+			wf.type = 'text/javascript';
+			wf.async = 'true';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(wf, s);
+		})();
+	</script>
+
+	
+<script type="text/javascript">
+	
+		var turner_metadata = {
+			section: ['', ''],
+			template_type: 'adbp:content',
+			content_type: 'adbp:article read',
+			publish_date: "2017\/03\/29",
+					}
+
+	</script>
+
+	<title>Privacy Policy – Explore Parts Unknown</title>
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//maps.googleapis.com">
+<link rel="dns-prefetch" href="//s.cdn.turner.com">
+<link rel="dns-prefetch" href="//pixel.adsafeprotected.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Explore Parts Unknown » Feed" href="https://explorepartsunknown.com/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/explorepartsunknown.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://explorepartsunknown.com/wp-includes/js/wp-emoji-release.min.js?ver=4.7.5" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="all-css-0" href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/css/global.css?m=1494273365g" type="text/css" media="all">
+<script type="text/javascript" src="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/js/head.min.js?m=1491340863g"></script>
+<link rel="https://api.w.org/" href="https://explorepartsunknown.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://explorepartsunknown.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://explorepartsunknown.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.7.5">
+<link rel="canonical" href="https://explorepartsunknown.com/privacy-policy/">
+<link rel="shortlink" href="https://wp.me/P8pcTy-xR">
+<link rel="alternate" type="application/json+oembed" href="https://explorepartsunknown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fexplorepartsunknown.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://explorepartsunknown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fexplorepartsunknown.com%2Fprivacy-policy%2F&amp;format=xml">
+
+<link rel="dns-prefetch" href="//v0.wordpress.com">
+<style type="text/css">img#wpstats{display:none}</style>
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:url" content="https://explorepartsunknown.com/privacy-policy/">
+<meta property="og:description" content="Visit the post for more.">
+<meta property="article:published_time" content="2017-03-29T13:43:51+00:00">
+<meta property="article:modified_time" content="2017-04-03T21:20:02+00:00">
+<meta property="og:site_name" content="Explore Parts Unknown">
+<meta property="og:image" content="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/explore-cover.jpg">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:site" content="@PartsUnknownCNN">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="Visit the post for more.">
+</head>
+
+<body class="page-template-default page page-id-2099">
+
+	<div class="wrap js-wrap">
+		<header class="header is-default t-lightBackground js-header">
+			<section class="header-toolbar js-header-toolbar">
+				<div class="header-toolbar-background"></div>
+				<a class="header-logo" href="https://explorepartsunknown.com" rel="home">
+					<svg class="icon header-logo-image">
+						<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/parts-unknown.svg#logo"></use>
+					</svg>
+				</a>
+				<div class="header-title">
+									</div>
+				<div class="header-actions">
+					
+<div class="presented ">
+	<div class="presented-item">
+		<div class="presented-title">
+			Presented by:		</div>
+		<div class="presented-art">
+			<a class="presented-link" href="http://www.landrover.com/market-selector/index.html" target="_blank">
+				<img class="presented-logo" src="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/land_rover@3x.png" alt="">
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="share header-share">
+	<ul class="share-list">
+		<li class="share-item">
+			<a class="share-link share-link--facebook js-analytics-click" href="https://explorepartsunknown.com/privacy-policy/?share=facebook" data-analytics-interaction="social:share:facebook" target="_blank">
+				<svg class="icon icon-facebook">
+					<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#facebook"></use>
+				</svg>
+				<div class="share-link-circle"></div>
+			</a>
+		</li>
+		<li class="share-item">
+			<a class="share-link share-link--twitter js-analytics-click" href="https://explorepartsunknown.com/privacy-policy/?share=twitter" data-analytics-interaction="social:share:twitter" target="_blank">
+				<svg class="icon icon-twitter">
+					<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#twitter"></use>
+				</svg>
+				<div class="share-link-circle"></div>
+			</a>
+		</li>
+		<li class="share-item">
+			<a class="share-link share-link--mail js-analytics-click" href="mailto:?subject=Privacy%20Policy&amp;body=https://explorepartsunknown.com/privacy-policy/" data-analytics-interaction="social:share:email">
+				<svg class="icon icon-email">
+					<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#mail-filled"></use>
+				</svg>
+				<div class="share-link-circle"></div>
+			</a>
+		</li>
+	</ul>
+</div>
+					<button class="header-button header-button--search js-toggle-search">
+						<span class="header-button-shape">
+							<svg class="icon header-button-icon header-button-icon--default">
+								<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#search"></use>
+							</svg>
+							<svg class="icon header-button-icon header-button-icon--close">
+								<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#close"></use>
+							</svg>
+						</span>
+					</button>
+					<button class="header-button header-button--nav js-toggle-nav">
+						<span class="header-button-shape">
+							<svg class="icon header-button-icon header-button-icon--default">
+								<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#menu"></use>
+							</svg>
+							<svg class="icon header-button-icon header-button-icon--close">
+							<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#close"></use>
+							</svg>
+						</span>
+					</button>
+				</div>
+			</section>
+
+			
+<section class="header-panel header-search js-search-panel">
+	<div class="header-panel-content js-header-panel-content">
+		<div class="constrain">
+			
+<div class="searchBar">
+	<form class="searchBar-form" role="search" method="get" action="https://explorepartsunknown.com/">
+		<svg class="icon searchBar-icon">
+			<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#search"></use>
+		</svg>
+
+		<input class="searchBar-textfield js-searchBar-textfield--header" type="search" name="s" id="s" value="" placeholder="Search Parts Unknown…" autocomplete="off">
+
+		<button class="arrowButton searchBar-button">
+			<svg class="icon arrowButton-icon">
+				<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#arrow-right"></use>
+			</svg>
+		</button>
+	</form>
+</div>
+			<section class="header-search-section">
+				<h4 class="header-search-section-title">Featured Categories</h4>
+				<nav class="collectionsNav js-stagger-delay js-add-class-when-showing-search" data-stagger-selector=".js-stagger-delay-collectionsNav" data-stagger-property="animation" data-stagger-interval=".08448" data-stagger-direction="forwards">
+					<div class="collectionsNav-scrollable js-hide-scrollbar">
+						<div class="collectionsNav-scrollable-content js-hide-scrollbar-content">
+							<ul class="collectionsNav-list">
+								
+												<li class="collectionsNav-item js-stagger-delay-collectionsNav">
+												  <a class="collectionsNav-link" href="https://explorepartsunknown.com/collection/the-perfect-day/">
+												    <div class="collectionsNav-title">
+												      The Perfect Day
+												    </div>
+												    <style>
+												      .collectionsNav-background--1 {
+												        background-image: url(https://i2.wp.com/explorepartsunknown.com/wp-content/uploads/2017/04/img_3804.jpeg?w=480&#038;h=192&#038;quality=95&#038;strip=info&#038;ssl=1);
+												      }
+												    </style>
+												    <div class="collectionsNav-background collectionsNav-background--1">
+												      <div class="collectionsNav-background-overlay"></div>
+												      <div class="collectionsNav-background-shadow"></div>
+												    </div>
+												  </a>
+												</li>
+												
+												<li class="collectionsNav-item js-stagger-delay-collectionsNav">
+												  <a class="collectionsNav-link" href="https://explorepartsunknown.com/collection/photo-essays/">
+												    <div class="collectionsNav-title">
+												      Photo Essays
+												    </div>
+												    <style>
+												      .collectionsNav-background--2 {
+												        background-image: url(https://i0.wp.com/explorepartsunknown.com/wp-content/uploads/2017/03/cm_cabaret_045-landscape.jpeg?w=480&#038;h=192&#038;quality=95&#038;strip=info&#038;ssl=1);
+												      }
+												    </style>
+												    <div class="collectionsNav-background collectionsNav-background--2">
+												      <div class="collectionsNav-background-overlay"></div>
+												      <div class="collectionsNav-background-shadow"></div>
+												    </div>
+												  </a>
+												</li>
+												
+												<li class="collectionsNav-item js-stagger-delay-collectionsNav">
+												  <a class="collectionsNav-link" href="https://explorepartsunknown.com/collection/edible-history/">
+												    <div class="collectionsNav-title">
+												      Edible History
+												    </div>
+												    <style>
+												      .collectionsNav-background--3 {
+												        background-image: url(https://i1.wp.com/explorepartsunknown.com/wp-content/uploads/2017/03/18-kesar-da-dhaba.jpg?w=480&#038;h=192&#038;quality=95&#038;strip=info&#038;ssl=1);
+												      }
+												    </style>
+												    <div class="collectionsNav-background collectionsNav-background--3">
+												      <div class="collectionsNav-background-overlay"></div>
+												      <div class="collectionsNav-background-shadow"></div>
+												    </div>
+												  </a>
+												</li>
+												
+												<li class="collectionsNav-item js-stagger-delay-collectionsNav">
+												  <a class="collectionsNav-link" href="https://explorepartsunknown.com/collection/recipes/">
+												    <div class="collectionsNav-title">
+												      Recipes
+												    </div>
+												    <style>
+												      .collectionsNav-background--4 {
+												        background-image: url(https://i2.wp.com/explorepartsunknown.com/wp-content/uploads/2017/03/reyes-morales_crop.jpg?w=480&#038;h=192&#038;quality=95&#038;strip=info&#038;ssl=1);
+												      }
+												    </style>
+												    <div class="collectionsNav-background collectionsNav-background--4">
+												      <div class="collectionsNav-background-overlay"></div>
+												      <div class="collectionsNav-background-shadow"></div>
+												    </div>
+												  </a>
+												</li>
+												
+												<li class="collectionsNav-item js-stagger-delay-collectionsNav">
+												  <a class="collectionsNav-link" href="https://explorepartsunknown.com/collection/crawls/">
+												    <div class="collectionsNav-title">
+												      Crawls
+												    </div>
+												    <style>
+												      .collectionsNav-background--5 {
+												        background-image: url(https://i2.wp.com/explorepartsunknown.com/wp-content/uploads/2017/04/chengdu-taste-2.jpeg?w=480&#038;h=192&#038;quality=95&#038;strip=info&#038;ssl=1);
+												      }
+												    </style>
+												    <div class="collectionsNav-background collectionsNav-background--5">
+												      <div class="collectionsNav-background-overlay"></div>
+												      <div class="collectionsNav-background-shadow"></div>
+												    </div>
+												  </a>
+												</li>
+																			</ul>
+						</div>
+					</div>
+				</nav>
+			</section>
+
+						<section class="header-search-section">
+				<h4 class="header-search-section-title">Bourdain’s Picks</h4>
+				<section class="posts">
+					<nav class="posts-items posts-items--3col@tablet js-stagger-delay js-add-class-when-showing-search" data-stagger-selector=".js-stagger-delay-posts-card" data-stagger-property="animation" data-stagger-interval=".1408" data-stagger-direction="forwards">
+						
+<article class="posts-card posts-card--featured js-stagger-delay-posts-card js-add-class-in-view" data-in-view-count="1" data-in-view-offset="75%">
+	<div class="posts-card-art posts-card-art--placeholder"></div>
+	<a class="posts-card-link" href="https://explorepartsunknown.com/koreatown-la/beef-cheek-tacos-recipe/">
+		<div class="posts-card-content">
+			<p class="posts-card-location">Koreatown, LA</p><h3 class="posts-card-title">Recipe: Cabeza Tacos</h3>		</div>
+	</a>
+	<div class="posts-card-background">
+		<style>
+			.posts-card-art--2357 {
+				background-image: url("https://i0.wp.com/explorepartsunknown.com/wp-content/uploads/2017/03/dsc_3251-edit4.jpg?w=800&#038;h=580&#038;quality=95&#038;strip=info&#038;ssl=1");
+			}
+
+					</style>
+		<div class="posts-card-art posts-card-art--2357"></div>
+		<div class="posts-card-background-shadow"></div>
+	</div>
+</article>
+
+<article class="posts-card posts-card--featured js-stagger-delay-posts-card js-add-class-in-view" data-in-view-count="1" data-in-view-offset="75%">
+	<div class="posts-card-art posts-card-art--placeholder"></div>
+	<a class="posts-card-link" href="https://explorepartsunknown.com/hanoi/the-diplomacy-of-food-ben-rhodes/">
+		<div class="posts-card-content">
+			<p class="posts-card-location">Hanoi</p><h3 class="posts-card-title">The diplomacy of food: A Q &amp; A with <span class="u-nowrap@tablet">Ben Rhodes</span></h3>		</div>
+	</a>
+	<div class="posts-card-background">
+		<style>
+			.posts-card-art--1975 {
+				background-image: url("https://i0.wp.com/explorepartsunknown.com/wp-content/uploads/2017/03/GettyImages-599811306-e1490640760681.jpg?w=800&#038;h=580&#038;quality=95&#038;strip=info&#038;ssl=1");
+			}
+
+					</style>
+		<div class="posts-card-art posts-card-art--1975"></div>
+		<div class="posts-card-background-shadow"></div>
+	</div>
+</article>
+
+<article class="posts-card posts-card--featured js-stagger-delay-posts-card js-add-class-in-view" data-in-view-count="1" data-in-view-offset="75%">
+	<div class="posts-card-art posts-card-art--placeholder"></div>
+	<a class="posts-card-link" href="https://explorepartsunknown.com/new-jersey/camden-dance-sophisticated-sisters/">
+		<div class="posts-card-content">
+			<p class="posts-card-location">New Jersey</p><h3 class="posts-card-title">Dancing toward a brighter future</h3>		</div>
+	</a>
+	<div class="posts-card-background">
+		<style>
+			.posts-card-art--371 {
+				background-image: url("https://i2.wp.com/explorepartsunknown.com/wp-content/uploads/2017/03/31.jpg?w=800&#038;h=580&#038;quality=95&#038;strip=info&#038;ssl=1");
+			}
+
+					</style>
+		<div class="posts-card-art posts-card-art--371"></div>
+		<div class="posts-card-background-shadow"></div>
+	</div>
+</article>
+					</nav>
+				</section>
+			</section>
+		</div>
+	</div>
+</section>
+
+
+<section class="header-panel header-nav js-nav-panel">
+	<div class="header-panel-content js-header-panel-content">
+		<div class="header-nav-menu js-add-class-when-showing-nav">
+			<div class="header-nav-primary">
+				<section class="header-nav-locations">
+					<nav class="header-nav-regionNav">
+						<ul class="header-nav-regionNav-list js-stagger-delay" data-stagger-selector=".js-stagger-delay-regionNav" data-stagger-property="animation" data-stagger-interval=".068" data-stagger-direction="forwards">
+							
+									<li class="header-nav-regionNav-item js-stagger-delay-regionNav js-regionNav-item">
+										<div class="header-nav-regionNav-item-label">
+											Africa
+											
+		<div class="headingBorder">
+			<div class="headingBorder-mask">
+				<div class="headingBorder-content">
+					<svg class="icon headingBorder-icon headingBorder-icon--4">
+						<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#heading-border"></use>
+					</svg>
+				</div>
+			</div>
+		</div>
+		
+										</div>
+									</li>
+									
+									<li class="header-nav-regionNav-item js-stagger-delay-regionNav js-regionNav-item">
+										<div class="header-nav-regionNav-item-label">
+											Asia Pacific
+											
+		<div class="headingBorder">
+			<div class="headingBorder-mask">
+				<div class="headingBorder-content">
+					<svg class="icon headingBorder-icon headingBorder-icon--2">
+						<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#heading-border"></use>
+					</svg>
+				</div>
+			</div>
+		</div>
+		
+										</div>
+									</li>
+									
+									<li class="header-nav-regionNav-item js-stagger-delay-regionNav js-regionNav-item">
+										<div class="header-nav-regionNav-item-label">
+											Europe
+											
+		<div class="headingBorder">
+			<div class="headingBorder-mask">
+				<div class="headingBorder-content">
+					<svg class="icon headingBorder-icon headingBorder-icon--1">
+						<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#heading-border"></use>
+					</svg>
+				</div>
+			</div>
+		</div>
+		
+										</div>
+									</li>
+									
+									<li class="header-nav-regionNav-item js-stagger-delay-regionNav js-regionNav-item">
+										<div class="header-nav-regionNav-item-label">
+											Middle East
+											
+		<div class="headingBorder">
+			<div class="headingBorder-mask">
+				<div class="headingBorder-content">
+					<svg class="icon headingBorder-icon headingBorder-icon--3">
+						<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#heading-border"></use>
+					</svg>
+				</div>
+			</div>
+		</div>
+		
+										</div>
+									</li>
+									
+									<li class="header-nav-regionNav-item js-stagger-delay-regionNav js-regionNav-item">
+										<div class="header-nav-regionNav-item-label">
+											North America
+											
+		<div class="headingBorder">
+			<div class="headingBorder-mask">
+				<div class="headingBorder-content">
+					<svg class="icon headingBorder-icon headingBorder-icon--3">
+						<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#heading-border"></use>
+					</svg>
+				</div>
+			</div>
+		</div>
+		
+										</div>
+									</li>
+									
+									<li class="header-nav-regionNav-item js-stagger-delay-regionNav js-regionNav-item">
+										<div class="header-nav-regionNav-item-label">
+											South America
+											
+		<div class="headingBorder">
+			<div class="headingBorder-mask">
+				<div class="headingBorder-content">
+					<svg class="icon headingBorder-icon headingBorder-icon--3">
+						<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#heading-border"></use>
+					</svg>
+				</div>
+			</div>
+		</div>
+		
+										</div>
+									</li>
+															</ul>
+					</nav>
+					<nav class="header-nav-destinationNav js-destinationNav">
+						
+<section class="header-nav-destinationNav-section js-destinationNav-section">
+	<button class="header-nav-destinationNav-header js-destinationNav-section-toggle">
+		<span class="header-nav-destinationNav-header-label">
+			Africa		</span>
+		<svg class="icon header-nav-destinationNav-header-icon">
+			<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#angle-up"></use>
+		</svg>
+	</button>
+	<div class="header-nav-destinationNav-content js-destinationNav-section-content">
+		<ul class="header-nav-destinationNav-list">
+			
+							<li class="header-nav-destinationNav-item">
+								<a class="header-nav-destinationNav-link" href="https://explorepartsunknown.com/destination/madagascar/">Madagascar</a>
+							</li>
+							
+							<li class="header-nav-destinationNav-item">
+								<a class="header-nav-destinationNav-link" href="https://explorepartsunknown.com/destination/senegal/">Senegal</a>
+							</li>
+									</ul>
+
+					<div class="header-nav-destinationNav-comingSoon">
+				<h4 class="header-nav-destinationNav-comingSoon-title">
+					Coming Soon				</h4>
+				<ul class="header-nav-destinationNav-comingSoon-list">
+					<li class="header-nav-destinationNav-comingSoon-item">Tangier</li><li class="header-nav-destinationNav-comingSoon-item">Libya</li><li class="header-nav-destinationNav-comingSoon-item">Congo</li><li class="header-nav-destinationNav-comingSoon-item">South Africa</li><li class="header-nav-destinationNav-comingSoon-item">Tanzania</li><li class="header-nav-destinationNav-comingSoon-item">Ethiopia</li>				</ul>
+			</div>
+			</div>
+</section>
+
+<section class="header-nav-destinationNav-section js-destinationNav-section">
+	<button class="header-nav-destinationNav-header js-destinationNav-section-toggle">
+		<span class="header-nav-destinationNav-header-label">
+			Asia Pacific		</span>
+		<svg class="icon header-nav-destinationNav-header-icon">
+			<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#angle-up"></use>
+		</svg>
+	</button>
+	<div class="header-nav-destinationNav-content js-destinationNav-section-content">
+		<ul class="header-nav-destinationNav-list">
+			
+							<li class="header-nav-destinationNav-item">
+								<a class="header-nav-destinationNav-link" href="https://explorepartsunknown.com/destination/hanoi/">Hanoi</a>
+							</li>
+							
+							<li class="header-nav-destinationNav-item">
+								<a class="header-nav-destinationNav-link" href="https://explorepartsunknown.com/destination/korea/">Korea</a>
+							</li>
+							
+							<li class="header-nav-destinationNav-item">
+								<a class="header-nav-destinationNav-link" href="https://explorepartsunknown.com/destination/manila/">Manila</a>
+							</li>
+							
+							<li class="header-nav-destinationNav-item">
+								<a class="header-nav-destinationNav-link" href="https://explorepartsunknown.com/destination/punjab/">Punjab</a>
+							</li>
+							
+							<li class="header-nav-destinationNav-item">
+								<a class="header-nav-destinationNav-link" href="https://explorepartsunknown.com/destination/laos/">Laos</a>
+							</li>
+									</ul>
+
+					<div class="header-nav-destinationNav-comingSoon">
+				<h4 class="header-nav-destinationNav-comingSoon-title">
+					Coming Soon				</h4>
+				<ul class="header-nav-destinationNav-comingSoon-list">
+					<li class="header-nav-destinationNav-comingSoon-item">Japan</li><li class="header-nav-destinationNav-comingSoon-item">Myanmar</li><li class="header-nav-destinationNav-comingSoon-item">Tokyo</li><li class="header-nav-destinationNav-comingSoon-item">Thailand</li><li class="header-nav-destinationNav-comingSoon-item">Shanghai</li><li class="header-nav-destinationNav-comingSoon-item">Vietnam</li><li class="header-nav-destinationNav-comingSoon-item">Okinawa</li><li class="header-nav-destinationNav-comingSoon-item">Borneo</li><li class="header-nav-destinationNav-comingSoon-item">Sichuan</li>				</ul>
+			</div>
+			</div>
+</section>
+
+<section class="header-nav-destinationNav-section js-destinationNav-section">
+	<button class="header-nav-destinationNav-header js-destinationNav-section-toggle">
+		<span class="header-nav-destinationNav-header-label">
+			Europe		</span>
+		<svg class="icon header-nav-destinationNav-header-icon">
+			<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#angle-up"></use>
+		</svg>
+	</button>
+	<div class="header-nav-destinationNav-content js-destinationNav-section-content">
+		<ul class="header-nav-destinationNav-list">
+			
+							<li class="header-nav-destinationNav-item">
+								<a class="header-nav-destinationNav-link" href="https://explorepartsunknown.com/destination/london/">London</a>
+							</li>
+							
+							<li class="header-nav-destinationNav-item">
+								<a class="header-nav-destinationNav-link" href="https://explorepartsunknown.com/destination/rome/">Rome</a>
+							</li>
+							
+							<li class="header-nav-destinationNav-item">
+								<a class="header-nav-destinationNav-link" href="https://explorepartsunknown.com/destination/greek-islands/">The Greek Islands</a>
+							</li>
+							
+							<li class="header-nav-destinationNav-item">
+								<a class="header-nav-destinationNav-link" href="https://explorepartsunknown.com/destination/copenhagen/">Copenhagen</a>
+							</li>
+							
+							<li class="header-nav-destinationNav-item">
+								<a class="header-nav-destinationNav-link" href="https://explorepartsunknown.com/destination/san-sebastian/">San Sebastián</a>
+							</li>
+									</ul>
+
+					<div class="header-nav-destinationNav-comingSoon">
+				<h4 class="header-nav-destinationNav-comingSoon-title">
+					Coming Soon				</h4>
+				<ul class="header-nav-destinationNav-comingSoon-list">
+					<li class="header-nav-destinationNav-comingSoon-item">Spain</li><li class="header-nav-destinationNav-comingSoon-item">Sicily</li><li class="header-nav-destinationNav-comingSoon-item">Lyon</li><li class="header-nav-destinationNav-comingSoon-item">Russia</li><li class="header-nav-destinationNav-comingSoon-item">Scotland</li><li class="header-nav-destinationNav-comingSoon-item">Budapest</li><li class="header-nav-destinationNav-comingSoon-item">Marseille</li><li class="header-nav-destinationNav-comingSoon-item">Cologne</li><li class="header-nav-destinationNav-comingSoon-item">Tbilisi</li>				</ul>
+			</div>
+			</div>
+</section>
+
+<section class="header-nav-destinationNav-section js-destinationNav-section">
+	<button class="header-nav-destinationNav-header js-destinationNav-section-toggle">
+		<span class="header-nav-destinationNav-header-label">
+			Middle East		</span>
+		<svg class="icon header-nav-destinationNav-header-icon">
+			<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#angle-up"></use>
+		</svg>
+	</button>
+	<div class="header-nav-destinationNav-content js-destinationNav-section-content">
+		<ul class="header-nav-destinationNav-list">
+			
+							<li class="header-nav-destinationNav-item">
+								<a class="header-nav-destinationNav-link" href="https://explorepartsunknown.com/destination/istanbul/">Istanbul</a>
+							</li>
+									</ul>
+
+					<div class="header-nav-destinationNav-comingSoon">
+				<h4 class="header-nav-destinationNav-comingSoon-title">
+					Coming Soon				</h4>
+				<ul class="header-nav-destinationNav-comingSoon-list">
+					<li class="header-nav-destinationNav-comingSoon-item">Jerusalem</li><li class="header-nav-destinationNav-comingSoon-item">Iran</li><li class="header-nav-destinationNav-comingSoon-item">Lebanon</li>				</ul>
+			</div>
+			</div>
+</section>
+
+<section class="header-nav-destinationNav-section js-destinationNav-section">
+	<button class="header-nav-destinationNav-header js-destinationNav-section-toggle">
+		<span class="header-nav-destinationNav-header-label">
+			North America		</span>
+		<svg class="icon header-nav-destinationNav-header-icon">
+			<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#angle-up"></use>
+		</svg>
+	</button>
+	<div class="header-nav-destinationNav-content js-destinationNav-section-content">
+		<ul class="header-nav-destinationNav-list">
+			
+							<li class="header-nav-destinationNav-item">
+								<a class="header-nav-destinationNav-link" href="https://explorepartsunknown.com/destination/koreatown-la/">Koreatown, LA</a>
+							</li>
+							
+							<li class="header-nav-destinationNav-item">
+								<a class="header-nav-destinationNav-link" href="https://explorepartsunknown.com/destination/las-vegas/">Las Vegas</a>
+							</li>
+							
+							<li class="header-nav-destinationNav-item">
+								<a class="header-nav-destinationNav-link" href="https://explorepartsunknown.com/destination/montana/">Montana</a>
+							</li>
+							
+							<li class="header-nav-destinationNav-item">
+								<a class="header-nav-destinationNav-link" href="https://explorepartsunknown.com/destination/new-jersey/">New Jersey</a>
+							</li>
+							
+							<li class="header-nav-destinationNav-item">
+								<a class="header-nav-destinationNav-link" href="https://explorepartsunknown.com/destination/quebec/">Québec</a>
+							</li>
+							
+							<li class="header-nav-destinationNav-item">
+								<a class="header-nav-destinationNav-link" href="https://explorepartsunknown.com/destination/los-angeles/">Los Angeles</a>
+							</li>
+									</ul>
+
+					<div class="header-nav-destinationNav-comingSoon">
+				<h4 class="header-nav-destinationNav-comingSoon-title">
+					Coming Soon				</h4>
+				<ul class="header-nav-destinationNav-comingSoon-list">
+					<li class="header-nav-destinationNav-comingSoon-item">New Mexico</li><li class="header-nav-destinationNav-comingSoon-item">Detroit</li><li class="header-nav-destinationNav-comingSoon-item">Mexico City</li><li class="header-nav-destinationNav-comingSoon-item">Mississippi Delta</li><li class="header-nav-destinationNav-comingSoon-item">The Bronx</li><li class="header-nav-destinationNav-comingSoon-item">Massachusetts</li><li class="header-nav-destinationNav-comingSoon-item">Jamaica</li><li class="header-nav-destinationNav-comingSoon-item">Miami</li><li class="header-nav-destinationNav-comingSoon-item">Hawaii</li><li class="header-nav-destinationNav-comingSoon-item">Cuba</li><li class="header-nav-destinationNav-comingSoon-item">Bay Area</li><li class="header-nav-destinationNav-comingSoon-item">Charleston</li><li class="header-nav-destinationNav-comingSoon-item">Chicago</li><li class="header-nav-destinationNav-comingSoon-item">Nashville</li><li class="header-nav-destinationNav-comingSoon-item">Houston</li>				</ul>
+			</div>
+			</div>
+</section>
+
+<section class="header-nav-destinationNav-section js-destinationNav-section">
+	<button class="header-nav-destinationNav-header js-destinationNav-section-toggle">
+		<span class="header-nav-destinationNav-header-label">
+			South America		</span>
+		<svg class="icon header-nav-destinationNav-header-icon">
+			<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#angle-up"></use>
+		</svg>
+	</button>
+	<div class="header-nav-destinationNav-content js-destinationNav-section-content">
+		<ul class="header-nav-destinationNav-list">
+			
+							<li class="header-nav-destinationNav-item">
+								<a class="header-nav-destinationNav-link" href="https://explorepartsunknown.com/destination/buenos-aires/">Buenos Aires</a>
+							</li>
+							
+							<li class="header-nav-destinationNav-item">
+								<a class="header-nav-destinationNav-link" href="https://explorepartsunknown.com/destination/colombia/">Colombia</a>
+							</li>
+									</ul>
+
+					<div class="header-nav-destinationNav-comingSoon">
+				<h4 class="header-nav-destinationNav-comingSoon-title">
+					Coming Soon				</h4>
+				<ul class="header-nav-destinationNav-comingSoon-list">
+					<li class="header-nav-destinationNav-comingSoon-item">Peru</li><li class="header-nav-destinationNav-comingSoon-item">Bahia</li><li class="header-nav-destinationNav-comingSoon-item">Paraguay</li><li class="header-nav-destinationNav-comingSoon-item">Minas Gerais</li>				</ul>
+			</div>
+			</div>
+</section>
+					</nav>
+				</section>
+				
+<footer class="header-nav-info t-lightBackground header-nav-info--row">
+	<div class="header-nav-info-content">
+		
+<div class="created">
+	<h4 class="created-title">
+		Created by:	</h4>
+	<div class="created-items">
+		<div class="created-item created-item--rk">
+			<a class="created-link" href="http://roadsandkingdoms.com" target="_blank">
+				<svg class="icon created-logo">
+					<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#roadsandkingdoms"></use>
+				</svg>
+			</a>
+		</div>
+		<div class="created-item created-item--cnn">
+			<a class="created-link" href="http://cnn.com" target="_blank">
+				<svg class="icon created-logo">
+					<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#cnn"></use>
+				</svg>
+			</a>
+		</div>
+	</div>
+</div>
+		<nav class="header-nav-social">
+			<ul class="header-nav-social-list">
+				<li class="header-nav-social-item">
+					<a class="header-nav-social-link header-nav-social-link--instagram js-analytics-click" href="https://www.instagram.com/PartsUnknownCNN/" data-analytics-interaction="social:official:instagram" target="_blank" rel="nofollow">
+						<svg class="icon icon-instagram">
+							<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#instagram"></use>
+						</svg>
+						<div class="header-nav-social-link-circle"></div>
+					</a>
+				</li>
+				<li class="header-nav-social-item">
+					<a class="header-nav-social-link header-nav-social-link--facebook js-analytics-click" href="https://facebook.com/PartsUnknownCNN" data-analytics-interaction="social:official:facebook" target="_blank" rel="nofollow">
+						<svg class="icon icon-facebook">
+							<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#facebook"></use>
+						</svg>
+						<div class="header-nav-social-link-circle"></div>
+					</a>
+				</li>
+				<li class="header-nav-social-item">
+					<a class="header-nav-social-link header-nav-social-link--twitter js-analytics-click" href="https://twitter.com/PartsUnknownCNN" data-analytics-interaction="social:official:twitter" target="_blank" rel="nofollow">
+						<svg class="icon icon-twitter">
+							<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#twitter"></use>
+						</svg>
+						<div class="header-nav-social-link-circle"></div>
+					</a>
+				</li>
+			</ul>
+		</nav>
+	</div>
+</footer>
+			</div>
+			
+<nav class="categoryNav">
+	<ul class="categoryNav-list js-stagger-delay js-add-class-when-showing-nav" data-stagger-selector=".js-stagger-delay-categoryNav" data-stagger-property="animation" data-stagger-interval=".0816" data-stagger-direction="forwards">
+		
+<li class="categoryNav-item categoryNav-item--eat js-categoryNav-item js-stagger-delay-categoryNav">
+	<a class="categoryNav-link" href="https://explorepartsunknown.com/category/eat/">
+		<h4 class="categoryNav-title">Eat</h4>
+		<div class="categoryNav-content js-categoryNav-content">
+			<p class="categoryNav-description">Binge like Bourdain</p>
+		</div>
+		<div class="categoryNav-background">
+			<div class="categoryNav-background-overlay"></div>
+			<div class="categoryNav-background-shadow"></div>
+		</div>
+	</a>
+</li>
+
+
+<li class="categoryNav-item categoryNav-item--drink js-categoryNav-item js-stagger-delay-categoryNav">
+	<a class="categoryNav-link" href="https://explorepartsunknown.com/category/drink/">
+		<h4 class="categoryNav-title">Drink</h4>
+		<div class="categoryNav-content js-categoryNav-content">
+			<p class="categoryNav-description">First one’s <span class="u-nowrap@tablet">on us</span></p>
+		</div>
+		<div class="categoryNav-background">
+			<div class="categoryNav-background-overlay"></div>
+			<div class="categoryNav-background-shadow"></div>
+		</div>
+	</a>
+</li>
+
+
+<li class="categoryNav-item categoryNav-item--know js-categoryNav-item js-stagger-delay-categoryNav">
+	<a class="categoryNav-link" href="https://explorepartsunknown.com/category/know/">
+		<h4 class="categoryNav-title">Know</h4>
+		<div class="categoryNav-content js-categoryNav-content">
+			<p class="categoryNav-description">You’ll want to <span class="u-nowrap@tablet">read this</span></p>
+		</div>
+		<div class="categoryNav-background">
+			<div class="categoryNav-background-overlay"></div>
+			<div class="categoryNav-background-shadow"></div>
+		</div>
+	</a>
+</li>
+
+
+<li class="categoryNav-item categoryNav-item--go js-categoryNav-item js-stagger-delay-categoryNav">
+	<a class="categoryNav-link" href="https://explorepartsunknown.com/category/go/">
+		<h4 class="categoryNav-title">Go</h4>
+		<div class="categoryNav-content js-categoryNav-content">
+			<p class="categoryNav-description">Travel intel</p>
+		</div>
+		<div class="categoryNav-background">
+			<div class="categoryNav-background-overlay"></div>
+			<div class="categoryNav-background-shadow"></div>
+		</div>
+	</a>
+</li>
+
+		<li class="categoryNav-item categoryNav-item--tuneIn js-stagger-delay-categoryNav" data-in-view-count="1" data-in-view-offset="75%">
+			<a class="categoryNav-link" href="https://explorepartsunknown.com/tune-in">
+				<div class="categoryNav-content">
+					<span class="button button--white categoryNav-button">
+						<svg class="icon categoryNav-button-icon">
+							<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#play"></use>
+						</svg>
+						Tune In					</span>
+				</div>
+				<div class="categoryNav-background">
+					<div class="categoryNav-background-overlay"></div>
+					<div class="categoryNav-background-shadow"></div>
+				</div>
+			</a>
+		</li>
+	</ul>
+</nav>
+
+<footer class="header-nav-info t-lightBackground header-nav-info--column">
+	<div class="header-nav-info-content">
+		
+<div class="created">
+	<h4 class="created-title">
+		Created by:	</h4>
+	<div class="created-items">
+		<div class="created-item created-item--rk">
+			<a class="created-link" href="http://roadsandkingdoms.com" target="_blank">
+				<svg class="icon created-logo">
+					<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#roadsandkingdoms"></use>
+				</svg>
+			</a>
+		</div>
+		<div class="created-item created-item--cnn">
+			<a class="created-link" href="http://cnn.com" target="_blank">
+				<svg class="icon created-logo">
+					<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#cnn"></use>
+				</svg>
+			</a>
+		</div>
+	</div>
+</div>
+		<nav class="header-nav-social">
+			<ul class="header-nav-social-list">
+				<li class="header-nav-social-item">
+					<a class="header-nav-social-link header-nav-social-link--instagram js-analytics-click" href="https://www.instagram.com/PartsUnknownCNN/" data-analytics-interaction="social:official:instagram" target="_blank" rel="nofollow">
+						<svg class="icon icon-instagram">
+							<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#instagram"></use>
+						</svg>
+						<div class="header-nav-social-link-circle"></div>
+					</a>
+				</li>
+				<li class="header-nav-social-item">
+					<a class="header-nav-social-link header-nav-social-link--facebook js-analytics-click" href="https://facebook.com/PartsUnknownCNN" data-analytics-interaction="social:official:facebook" target="_blank" rel="nofollow">
+						<svg class="icon icon-facebook">
+							<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#facebook"></use>
+						</svg>
+						<div class="header-nav-social-link-circle"></div>
+					</a>
+				</li>
+				<li class="header-nav-social-item">
+					<a class="header-nav-social-link header-nav-social-link--twitter js-analytics-click" href="https://twitter.com/PartsUnknownCNN" data-analytics-interaction="social:official:twitter" target="_blank" rel="nofollow">
+						<svg class="icon icon-twitter">
+							<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#twitter"></use>
+						</svg>
+						<div class="header-nav-social-link-circle"></div>
+					</a>
+				</li>
+			</ul>
+		</nav>
+	</div>
+</footer>
+		</div>
+	</div>
+</section>
+
+			<div class="header-panelBackground"></div>
+		</header>
+
+		
+<article id="post-2099" class="post-2099 page type-page status-publish hentry">
+
+<header class="hero post-hero hero--2099 js-hero--2099 hero--simple t-lightBackground hero--alignCenter js-add-class-in-view" data-in-view-count="1" data-in-view-offset="75%">
+		<div class="hero-content">
+		<div class="constrain">
+			<h1 class="hero-title  hero-title--large">Privacy Policy 
+		<div class="headingBorder">
+			<div class="headingBorder-mask">
+				<div class="headingBorder-content">
+					<svg class="icon headingBorder-icon headingBorder-icon--1">
+						<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#heading-border"></use>
+					</svg>
+				</div>
+			</div>
+		</div>
+		</h1>		</div>
+	</div>
+
+		
+	<div class="hero-screen" style=""></div>
+	<div class="hero-background hero-background--2099"></div>
+</header>
+
+	<main class="main post-main">
+							
+		<div class="constrain">
+			
+			<div class="post-content js-fitvids">
+				<p class="p1"><span class="s1"><b>What’s New in the Updated Privacy Statement?<span class="Apple-converted-space">&nbsp; </span>We have updated the privacy statement applicable to our online and mobile websites, services, and applications and clarified data sharing practices among Turner and its affiliates. Please take the time to read the full privacy statement. You consent to the data collection, use, disclosure and storage practices described in this privacy statement when you use any of our Sites (as described below), including when you access any content or videos.</b></span></p>
+<p class="p1"><span class="s1">Thank you for visiting this website presented to you by Turner Broadcasting System, Inc. (“Turner”, “we” or “us”). Your privacy is important to us. As such, we provide this privacy statement explaining our online information practices and the choices you can make about the way your information is collected and used at this general audience Turner site, and among Turner’s network of affiliated and operated websites and applications (“Turner Network”), which includes any online or mobile sites, applications or services owned, operated or offered by or on behalf of Turner or its Affiliates (each a “Site”, collectively the “Sites”). A representative list of Turner Affiliates is available </span><a href="https://www.turner.com/legal#affiliates"><span class="s2">here</span></a><span class="s1">.</span></p>
+<p class="p2"><span class="s1"><b>The Information We Collect </b></span></p>
+<p class="p2"><span class="s1"><i>Personally Identifiable Information </i></span></p>
+<p class="p1"><span class="s1">At some Turner Network Sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters or text message alerts, or participate in one of our online forums or communities. In the course of these various offerings, we often seek to collect from you various forms of personally identifiable information. Examples of the types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number and credit card information.</span></p>
+<p class="p1"><span class="s1">At some Turner Network Sites, you may also be able to submit personally identifiable information about other people. For example, you might submit a person’s name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient’s name and address. Examples of the types of personally identifiable information that may be collected about other people at these pages include: recipient’s name, address, e-mail address, and telephone number.</span></p>
+<p class="p1"><span class="s1">At certain parts of some of our Sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site’s activities and offerings.</span></p>
+<p class="p2"><span class="s1"><i>Non-Personally Identifiable Information</i></span></p>
+<p class="p1"><span class="s1">We, our third party service providers, advertisers, advertising networks and platforms, agencies, and partners may collect various types of<span class="Apple-converted-space">&nbsp; </span>information that are anonymous, de-identified or otherwise not intended to personally identify you (“Non-Personally Identifiable Information”) when you visit any of our Sites. A representative, non-exhaustive list of the types of Non-Personally Identifiable Information collected may include: network or Internet protocol address and type of browser you are using (e.g., Chrome, Safari, Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS), the domain name of your Internet service provider (e.g., Comcast, Verizon or AT&amp;T), mobile network, device identifiers, advertising identifiers, the web pages of the Turner Network Sites you have visited, sites visited before and after you visit a Site on the Turner Network, the type of handheld or mobile device used to view the Site (e.g., iPhone, Blackberry), general location information (e.g., city, county, and/or state), the content and advertisements you have accessed, seen, forwarded and/or clicked on.</span></p>
+<p class="p2"><span class="s1"><i>Geo-location Information</i></span></p>
+<p class="p1"><span class="s1">If you are accessing a Turner Network Site from a mobile device or through a mobile application, you may be asked to share your geo-location information with us so we can customize your experience on our Sites. If you agree to such collection, you will be able to turn off such data collection at any time by accessing the privacy settings of your mobile device and/or through the settings in the applicable mobile application. </span></p>
+<p class="p2"><span class="s1"><i>Information from Social Networks and Platforms</i></span></p>
+<p class="p1"><span class="s1">You also can engage with our content, such as video, games, applications, and other offerings, on or through third-party platforms and social networking sites, such as Facebook, or other third-party social media plug-ins and applications.&nbsp; &nbsp;When you engage with our content on or through third party social networking sites, plug-ins or applications, you may allow us to have access to certain personally identifiable information and Non-Personally Identifiable Information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, user files like photos and videos, your list of friends, people you follow and/or who follow you, the posts or the ‘likes’ you make, etc.) to deliver the content or as part of the operation of the Site.<span class="Apple-converted-space">&nbsp; </span>We may also obtain Non-Personally Identifiable Information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on through third-party platforms) from your interaction with our content.</span></p>
+<p class="p1"><span class="s1">Through some social networking sites’ privacy settings, you can control what information you share. For a description on how social networking sites handle your information, please refer to their privacy policies and <a href="https://www.turner.com/legal">terms of use</a>.</span></p>
+<p class="p2"><span class="s1"><b>How We Use the Information</b></span></p>
+<p class="p1"><span class="s1">We may use the Information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, to offer you other products, programs or services that we believe may be of interest to you, to enforce the legal terms that govern your use of our Sites, and/or for the purposes for which you provided the information.</span></p>
+<p class="p1"><span class="s1">We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests, to fulfill a request by you for an online newsletter or notification, or to contact you about your account with us.</span></p>
+<p class="p1"><span class="s1">We use the information that you provide about others to enable us to send them your gifts or cards or emails you may wish to send them from our Sites, and for such other purposes as may be stated at the point where the information is collected.</span></p>
+<p class="p1"><span class="s1">The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, services or customized experiences.</span></p>
+<p class="p1"><span class="s1">If you choose to submit content for publication (e.g., a letter to our editors, comments sent to our television personalities, a posting to a blog or a discussion board, a video), we may publish your screen name and other information you have provided to us. We may on occasion combine information we collect through our Sites with information that we collect from other sources.<span class="Apple-converted-space">&nbsp; </span>Without limiting the generality of the foregoing, if you register and create a profile with our Site, the screen name you select as well as other content you submit to your profile (e.g., photos, comments, video, reviews) will be displayed publicly on the Site and may be reused and redistributed by us in our sole discretion, as set forth in our </span><span class="s2">Terms of Use</span><span class="s1">. </span></p>
+<p class="p1"><span class="s1">We, the <a href="https://www.turner.com/legal#affiliates">Turner Affiliates</a>, our third party service providers, advertisers, advertising networks and platforms, agencies, or our partners use the Non-Personally Identifiable information that is collected to improve the design and content of our Sites, to deliver more relevant marketing messages and advertisements, to enable us to personalize your Internet experience, and to perform analytics. We also may use this information to analyze usage of our Sites or content, as well as to offer you products, programs, or services.</span></p>
+<p class="p1"><span class="s1">When you provide information from your social media account, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our Sites, (3) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards, and (4) enable you to share your experience and content via social networking sites.&nbsp; By doing so, you consent to the use of this information in accordance with our privacy statement. When you provide personally identifiable information to us through an application, on our Sites, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties.</span></p>
+<p class="p2"><span class="s1"><b>Information Sharing and Disclosure</b></span></p>
+<p class="p1"><span class="s1">We may disclose information we have collected from you or the device used to access the Sites in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency’s request, or where we believe in our sole discretion it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our </span><span class="s2">Terms of Use</span><span class="s1">, to verify or enforce compliance with the policies governing our Sites and applicable laws or as otherwise required or permitted by law or consistent with legal requirements.</span></p>
+<p class="p1"><span class="s1">In addition, we may transfer information if we, or one of our business units, are acquired by, sold to, merged with or otherwise transferred to another entity.</span></p>
+<p class="p1"><span class="s1">Our agents and contractors who have access to personally identifiable information are required to protect this personally identifiable information in a manner that is consistent with this privacy statement and are not authorized to use the personally identifiable information for any purpose other than to carry out the services they are performing for us.</span></p>
+<p class="p1"><span class="s1">We may disclose personally identifiable information and/or Non-Personally Identifiable Information to third parties whose practices are not covered by this privacy statement. For example, we may share such personally identifiable information we collect with our <a href="https://www.turner.com/legal#affiliates">Turner Affiliates</a> to provide, improve and communicate with you about their own products and services.<span class="Apple-converted-space">&nbsp; </span>A representative list of our affiliates is available in the </span><a href="https://www.turner.com/legal#affiliates"><span class="s2"><b>Turner Affiliates</b></span></a><span class="s1"> section</span> <span class="s1">below.</span></p>
+<p class="p1"><span class="s1">We may also share such information with unaffiliated business partners and third parties (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If a Turner Network Site shares personally identifiable information with such unaffiliated third parties, it will provide you with an opportunity to opt out or block such uses either at the point of submission of your personally identifiable information or prior to any such disclosure.</span></p>
+<p class="p1"><span class="s1">If you have signed up to receive our e-mails and prefer not to receive marketing information from this Site, follow the “unsubscribe” instructions provided on any marketing e-mail you receive from this Site. If you have signed up to receive text messages from us and no longer wish to receive such messages, you may follow the instructions to stop the delivery of such messages, which may include by replying “STOP” to the received text message.</span></p>
+<p class="p1"><span class="s1">Turner Network Sites covered by this privacy statement may offer content (e.g., contests, sweepstakes, promotions, games, applications, or social network integrations) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the Site activity. We have no control over these third parties’ use of this information. The Site will notify you at the time of requesting personally identifiable information if these third parties will obtain such personally identifiable information.</span></p>
+<p class="p1"><span class="s1">To provide visitors with additional or more relevant product and service opportunities, to improve and personalize the Sites and to perform analytics, and for the additional uses discussed in this privacy statement, we may share Non-Personally Identifiable Information with the <a href="https://www.turner.com/legal#affiliates">Turner Affiliates</a>, third party service providers, advertisers, advertising networks and platforms, agencies, or our partners.&nbsp;</span></p>
+<p class="p2"><span class="s1"><b>Cookies, Web Beacons, Analytics and Advertising</b></span></p>
+<p class="p1"><span class="s1">To enhance your online experience, we use “cookies” or similar technologies. Cookies are text files placed in your computer’s browser to store your preferences. </span></p>
+<p class="p1"><span class="s1">We use cookies to understand Site and Internet usage and to improve or customize the content, offerings or advertisements on our Sites. For example, we may use cookies to personalize your experience at our Sites (e.g., to recognize you by name when you return to a Site), save your password in password-protected areas, and enable you to use shopping carts on our Sites. We also may use cookies to help us offer you products, programs, or services that may be of interest to you and to deliver relevant advertising.</span></p>
+<p class="p1"><span class="s1">We, our third party service providers, advertisers, advertising networks and platforms, agencies, or our partners also may use cookies to manage and measure the performance of advertisements displayed on or delivered by or through the Turner Network and/or other networks or Sites. This also helps us, our service providers and partners provide more relevant advertising. </span></p>
+<p class="p3"><span class="s1">The Adobe Flash Player is a powerful application and web tool that allows rapid development of highly dynamic content. Sites on the Turner Network employ locally stored objects (sometimes referred to as “Flash cookies”) in certain situations where we use Flash to provide special content such as video streaming, video on demand, video clips or animation. Flash (and similar applications) use this technology to remember settings, preferences and usage similar to browser cookies but Flash cookies are not managed through your web browser. You can access your Flash management tools from&nbsp;<a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html"><span class="s2">Adobe’s website</span></a></span> <span class="s1">directly. </span></p>
+<p class="p1"><span class="s1">We, our third party service providers, advertisers, advertising networks and platforms, agencies or our partners may also use “web beacons” or clear .gifs, or similar technologies, which are small pieces of code placed on a Site or in an email, to monitor the behavior and collect data about the visitors viewing a Site or email. For example, web beacons may be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that Site.<span class="Apple-converted-space">&nbsp; </span>Web beacons may also be used to provide information on the effectiveness of our email campaigns (e.g., open rates, clicks, forwards, etc.).</span></p>
+<p class="p2"><span class="s1"><b>How We Respond to Do Not Track Signals</b></span></p>
+<p class="p1"><span class="s1">At this time Sites on the Turner Network do not recognize automated browser signals regarding tracking mechanisms, which may include “do not track” instructions. However, you can change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered at Turner Network Sites. Please consult the “Help” section of your browser for more information.</span></p>
+<p class="p2"><span class="s1"><b>Analytics</b></span></p>
+<p class="p1"><span class="s1">We also use the services of reputable third parties to provide us with data collection, reporting, ad response measurement, and website and mobile application analytics, as well as to assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit or set their own cookies. We, our third party service providers, advertisers, advertising networks and platforms, agencies and/or partners may also place web beacons or similar technologies for these third parties. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this privacy statement. </span></p>
+<p class="p4"><span class="s1"><b>Ad Choices</b></span></p>
+<p class="p5"><span class="s1">Our goal at the Turner Network is to provide you with ads that are relevant to you. Advertising enables us to provide the rich content for which Sites on the Turner Network are known. Often our ads are based on the content of pages you are viewing, but we also provide ads tailored to your interests. Our hope is that by presenting ads tailored to your interests, we will enhance your experience across the Turner Network’s diverse Sites. As part of this process we, the <a href="https://www.turner.com/legal#affiliates">Turner Affiliates</a>, our third party service providers, advertisers, advertising networks and platforms, agencies, or our partners may collect information about your online activities across the Turner Network and other sites, and supplement such information with information from third parties, in an effort to make inferences about your interests and deliver to you advertisements targeted to those interests.</span></p>
+<p class="p5"><span class="s1">For example, if you often visit content on the Turner Network about travel, we may use “web beacons” to infer your possible interest in travel and may deliver an ad to you related to that interest. It’s important to understand that these technologies use anonymous identifiers within the “cookies” stored in your browser. We offer you choices with regard to interest-based ads. To learn more about interest-based ads and the choices available to you, please visit our </span><a class="js-adchoices" href="http://cnn.com/#"><span class="s2">Ad Choices</span></a> <span class="s1">page. </span></p>
+<p class="p2"><span class="s1"><b>Turner’s Participation in the Industry Self Regulatory Program for Interest Based Ads; Additional Choice Options</b></span></p>
+<p class="p1"><span class="s1">Turner is a participant in the online industry’s <a href="http://www.aboutads.info">self regulatory program</a> administered by the Digital Advertising Alliance (the “DAA”) and has agreed to adhere to the DAA’s principles applicable to interest-based ads.<span class="Apple-converted-space">&nbsp; </span>Please visit the </span><a href="http://www.aboutads.info"><span class="s2">Self Regulatory Program</span></a><span class="s1"> for more information about the DAA, the self regulatory principles and choices you can make regarding interest-based ads. </span></p>
+<p class="p5"><span class="s1">You may also find more information about entities involved in online advertising and additional choices you may make through the Network Advertising Initiative (“NAI”) at the </span><a href="http://www.networkadvertising.org/"><span class="s2">NAI site</span></a><span class="s1">. </span></p>
+<p class="p1"><span class="s1">The tools provided on the </span><span class="s3">Ad Choices</span><span class="s1"> page, as well as the <a href="http://www.aboutads.info/choices/"><span class="s2">DAA opt-out page</span></a> and the <a href="http://www.networkadvertising.org/managing/opt_out.asp"><span class="s2">NAI opt-out page</span></a> are provided by third parties, not Turner. Turner does not control or operate these tools or the choices that advertisers and others provide through these tools.&nbsp;</span></p>
+<p class="p2"><span class="s1"><b>Mobile Device Advertising and Tracking</b></span></p>
+<p class="p1"><span class="s1">We, our third party service providers, advertisers, advertising networks and platforms, agencies, or our partners may also be collecting identifiers designed to enable advertising on your mobile device. However, depending on your device, you may be able to reset your mobile device’s advertising identifier at any time by accessing the privacy settings on your mobile device. In addition, when using a mobile application you may receive tailored in-application advertisements. Each operating system, iOS for Apple phones, Android for Android devices and Windows for Microsoft devices, provides its own instructions on how to prevent the delivery of tailored in-application advertisements. You may review the support materials and/or the privacy settings for the respective operating systems in order to opt-out of tailored in-application advertisements. For any other devices and/or operating systems, please visit the privacy settings for the applicable device or contact the applicable platform operator.</span><span class="s5">&nbsp;</span></p>
+<p class="p2"><span class="s1"><b>Linked Sites</b></span></p>
+<p class="p1"><span class="s1">Some of our Sites contain links to or integrations with other sites such as Facebook, Twitter, LinkedIn, etc., whose information practices may be different than ours. Visitors should consult the other sites’ privacy notices as we have no control over information that is submitted to, or collected by, these third parties.</span></p>
+<p class="p2"><span class="s1"><b>International Transfer</b></span></p>
+<p class="p1"><span class="s1">Turner operates globally so it is necessary to transfer your information internationally. In particular, your information will likely be transferred to and processed in the United States where many of our central databases operate. The data protection and other laws of other countries, such as the United States, may not be as comprehensive as those in your country. Please be assured that we take reasonable steps to ensure that your privacy is protected. By using this Site you consent to your information being collected, used and transferred as set forth in this privacy statement.</span></p>
+<p class="p2"><span class="s1"><b>Our Commitment to Security</b></span></p>
+<p class="p1"><span class="s1">We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, to maintain data security, and to use correctly the information we collect online. These safeguards vary based on the sensitivity of the information that we collect and store. </span></p>
+<p class="p1"><span class="s1">Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this privacy statement.</span></p>
+<p class="p2"><span class="s1"><b>How You Can Access or Correct Information</b></span></p>
+<p class="p1"><span class="s1">Access to personally identifiable information that is collected from our Sites and that we maintain may be available to you. For example, if you created a password-protected account within our Site, you can access that account to review the information you provided.</span></p>
+<p class="p5"><span class="s1">You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, e-mail address and the password you use for such service.</span></p>
+<p class="p7"><span class="s1">E-mail Administration<br>
+Turner Broadcasting System, Inc.<br>
+Attention: Privacy<br>
+Legal Department </span></p>
+<p class="p3"><span class="s1">One CNN Center,<br>
+Atlanta, GA 30303<br>
+email:&nbsp;</span><span class="s6">privacy.cnn@turner.com</span></p>
+<p class="p2"><span class="s1"><b>How to Contact Us</b></span></p>
+<p class="p1"><span class="s1">If you have any questions or concerns about the online privacy statement for this site or its implementation you may contact us at&nbsp;<a href="mailto:privacy.cnn@turner.com"><span class="s6">privacy.cnn@turner.com</span></a>.</span></p>
+<p class="p2"><span class="s1"><b>California Residents – Your California Privacy Rights</b></span><b> </b></p>
+<p class="p5"><span class="s1">If you are a California resident, you may request information about our practices related to disclosing your personally identifiable information to certain third parties and/or opt-out of our sharing of your personally identifiable information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail at privacy.cnn@turner.com.</span></p>
+<p class="p8"><span class="s1"><b>Turner Affiliates</b></span></p>
+<p class="p5"><span class="s1">Below is a representative list of some of the Turner companies that currently may have access to the information collected from users on our Sites as set forth in this privacy statement. We may update this list from time-to-time, so please check back periodically to keep up-to-date. </span></p>
+<p class="p7"><span class="s1">BLEACHER REPORT, INC.</span></p>
+<p class="p7"><span class="s1">CABLE NEWS INTERNATIONAL, INC.</span></p>
+<p class="p7"><span class="s1">CABLE NEWS NETWORK, INC.</span></p>
+<p class="p7"><span class="s1">CARTOON INTERACTIVE GROUP, INC.</span></p>
+<p class="p7"><span class="s1">CARTOON NETWORK ENTERPRISES, INC.</span></p>
+<p class="p7"><span class="s1">CNE TOURS, INC. (F/K/A CARTOON NETWORK SHOP, INC.)</span></p>
+<p class="p7"><span class="s1">CNN INTERACTIVE GROUP, INC.</span></p>
+<p class="p7"><span class="s1">COURT TV DIGITAL LLC</span></p>
+<p class="p7"><span class="s1">COURTROOM TELEVISION NETWORK LLC</span></p>
+<p class="p7"><span class="s1">RETRO, INC.</span></p>
+<p class="p7"><span class="s1">SUPERSTATION, INC.</span></p>
+<p class="p7"><span class="s1">TBS INTERACTIVE GROUP, INC.</span></p>
+<p class="p7"><span class="s1">TCM INTERACTIVE GROUP, INC.</span></p>
+<p class="p7"><span class="s1">THE CARTOON NETWORK, INC.</span></p>
+<p class="p7"><span class="s1">TNT INTERACTIVE<span class="Apple-converted-space">&nbsp; </span>GROUP,<span class="Apple-converted-space">&nbsp; </span>INC.</span></p>
+<p class="p7"><span class="s1">TNT ORIGINALS, INC.</span></p>
+<p class="p7"><span class="s1">TURNER BROADCASTING SALES, INC.</span></p>
+<p class="p7"><span class="s1">TURNER CLASSIC MOVIES, INC.</span></p>
+<p class="p7"><span class="s1">TURNER DIGITAL BASKETBALL SERVICES, INC.</span></p>
+<p class="p7"><span class="s1">TURNER ENTERTAINMENT NETWORKS, INC.</span></p>
+<p class="p7"><span class="s1">TURNER FESTIVALS, INC. (F/K/A TURNER DIRECT RETAILING, INC.)</span></p>
+<p class="p7"><span class="s1">TURNER MEDIA VENTURES, INC.</span></p>
+<p class="p7"><span class="s1">TURNER NETWORK SALES, INC.</span></p>
+<p class="p7"><span class="s1">TURNER NETWORK TELEVISION, INC.</span></p>
+<p class="p7"><span class="s1">TURNER PAGES, INC.</span></p>
+<p class="p7"><span class="s1">TURNER SPORTS INTERACTIVE, INC.</span></p>
+<p class="p7"><span class="s1">TURNER SPORTS, INC.<br>
+</span></p>
+<p class="p5"><span class="s1">Below is a list of some of the Time Warner companies that are affiliated with the Turner group companies and with whom we may share information we collect at our Sites. We may update this list from time-to-time with additional Time Warner companies, so please check back periodically to keep up-to-date.</span></p>
+<p class="p5"><span class="s1">Warner Bros. Entertainment, Inc.</span></p>
+<p class="p5"><span class="s1">Home Box Office, Inc.</span></p>
+<p class="p1"><span class="s1">Time Warner, Inc.</span></p>
+<p class="p2"><span class="s1"><b>Updates &amp; Effective Date</b></span></p>
+<p class="p1"><span class="s1">From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by sending an email message to the email address you most recently provided to us or by prominently posting a notice on our Site. We encourage you to periodically check back and review this statement so that you always will know what information we collect, how we use it, and with whom we share it.</span></p>
+<p class="p1"><span class="s1">The Privacy Statement posted on this Site was updated on April 4, 2017</span><span class="s1">.</span></p>
+			</div>
+		</div>
+	</main>
+</article>
+
+
+			<footer class="footer">
+				<div class="constrain footer-content">
+					<nav class="footer-nav">
+						<ul class="footer-nav-list">
+							<li class="footer-nav-item">
+								<a class="footer-nav-link" href="https://explorepartsunknown.com/category/eat">
+									Eat								</a>
+							</li>
+							<li class="footer-nav-item">
+								<a class="footer-nav-link" href="https://explorepartsunknown.com/category/drink">
+									Drink								</a>
+							</li>
+							<li class="footer-nav-item">
+								<a class="footer-nav-link" href="https://explorepartsunknown.com/category/know">
+									Know								</a>
+							</li>
+							<li class="footer-nav-item">
+								<a class="footer-nav-link" href="https://explorepartsunknown.com/category/go">
+									Go								</a>
+							</li>
+						</ul>
+
+						<ul class="footer-nav-list">
+							<li class="footer-nav-item">
+								<a class="footer-nav-link" href="https://explorepartsunknown.com/about">
+									About								</a>
+							</li>
+							<li class="footer-nav-item">
+								<a class="footer-nav-link" href="https://explorepartsunknown.com/tune-in">
+									Tune In								</a>
+							</li>
+							<li class="footer-nav-item">
+								<a class="footer-nav-link" href="http://roadsandkingdoms.com">
+									Roads &amp; Kingdoms								</a>
+							</li>
+						</ul>
+
+						
+<nav class="footer-social t-lightBackground">
+	<ul class="footer-social-list">
+		<li class="footer-social-item">
+			<a class="footer-social-link js-analytics-click" href="https://www.instagram.com/PartsUnknownCNN/" data-analytics-interaction="social:official:instagram" target="_blank" rel="nofollow">
+				<svg class="icon icon-instagram">
+					<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#instagram"></use>
+				</svg>
+				<div class="footer-social-link-circle"></div>
+			</a>
+		</li>
+		<li class="footer-social-item">
+			<a class="footer-social-link js-analytics-click" href="https://facebook.com/PartsUnknownCNN" data-analytics-interaction="social:official:facebook" target="_blank" rel="nofollow">
+				<svg class="icon icon-facebook">
+					<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#facebook"></use>
+				</svg>
+				<div class="footer-social-link-circle"></div>
+			</a>
+		</li>
+		<li class="footer-social-item">
+			<a class="footer-social-link js-analytics-click" href="https://twitter.com/PartsUnknownCNN" data-analytics-interaction="social:official:twitter" target="_blank" rel="nofollow">
+				<svg class="icon icon-twitter">
+					<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#twitter"></use>
+				</svg>
+				<div class="footer-social-link-circle"></div>
+			</a>
+		</li>
+	</ul>
+</nav>
+					</nav>
+
+					<section class="footer-newsletter">
+						<h2 class="footer-newsletter-title">
+							Stay in the know 							<br class="u-hide@desktop">
+							with Parts Unknown						</h2>
+						<div class="js-mailchimp-form-container">
+							<form class="newsletter-form" method="post" data-js-action="https://cnn.us11.list-manage.com/subscribe/post-json?u=47c9040f6ff957a59bd88396e&amp;id=6d6231d27b&amp;c=?" action="//cnn.us11.list-manage.com/subscribe/post?u=47c9040f6ff957a59bd88396e&amp;id=6d6231d27b">
+								<svg class="icon newsletter-form-icon">
+									<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#mail-outline"></use>
+								</svg>
+								<p class="newsletter-form-success-message">
+									Thanks! Please check your email to confirm your&nbsp;subscription.								</p>
+								<input type="email" name="EMAIL" class="newsletter-form-textfield js-input-email" placeholder="Enter your email…">
+								<button class="arrowButton newsletter-form-button">
+									<svg class="icon arrowButton-icon">
+										<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#arrow-right"></use>
+									</svg>
+								</button>
+							</form>
+							<p class="newsletter-form-error-message js-error-message"></p>
+						</div>
+					</section>
+				</div>
+
+				<section class="footer-secondary t-darkBackground">
+					<div class="constrain">
+						<div class="footer-secondary-content">
+							<div class="footer-secondary-credits">
+								
+<div class="created">
+	<h4 class="created-title">
+		Created by:	</h4>
+	<div class="created-items">
+		<div class="created-item created-item--rk">
+			<a class="created-link" href="http://roadsandkingdoms.com" target="_blank">
+				<svg class="icon created-logo">
+					<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#roadsandkingdoms"></use>
+				</svg>
+			</a>
+		</div>
+		<div class="created-item created-item--cnn">
+			<a class="created-link" href="http://cnn.com" target="_blank">
+				<svg class="icon created-logo">
+					<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#cnn"></use>
+				</svg>
+			</a>
+		</div>
+	</div>
+</div>
+							</div>
+							<div class="footer-secondary-required">
+								©2017 Cable News Network. All Rights Reserved.
+								<div class="footer-secondary-required-links">
+									<a class="footer-secondary-required-link" href="https://explorepartsunknown.com/terms-of-use/">
+										Terms of Use									</a>
+									<a class="footer-secondary-required-link" href="https://explorepartsunknown.com/privacy-policy/">
+										Privacy Policy									</a>
+									<a class="footer-secondary-required-link js-adchoices" href="#">
+										Ad Choices									</a>
+								</div>
+
+								<div class="powered-by">Powered by <a href="https://vip.wordpress.com/" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></div>							</div>
+
+							
+<nav class="footer-social t-darkBackground">
+	<ul class="footer-social-list">
+		<li class="footer-social-item">
+			<a class="footer-social-link js-analytics-click" href="https://www.instagram.com/PartsUnknownCNN/" data-analytics-interaction="social:official:instagram" target="_blank" rel="nofollow">
+				<svg class="icon icon-instagram">
+					<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#instagram"></use>
+				</svg>
+				<div class="footer-social-link-circle"></div>
+			</a>
+		</li>
+		<li class="footer-social-item">
+			<a class="footer-social-link js-analytics-click" href="https://facebook.com/PartsUnknownCNN" data-analytics-interaction="social:official:facebook" target="_blank" rel="nofollow">
+				<svg class="icon icon-facebook">
+					<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#facebook"></use>
+				</svg>
+				<div class="footer-social-link-circle"></div>
+			</a>
+		</li>
+		<li class="footer-social-item">
+			<a class="footer-social-link js-analytics-click" href="https://twitter.com/PartsUnknownCNN" data-analytics-interaction="social:official:twitter" target="_blank" rel="nofollow">
+				<svg class="icon icon-twitter">
+					<use xlink:href="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/images/icons/sprite.svg#twitter"></use>
+				</svg>
+				<div class="footer-social-link-circle"></div>
+			</a>
+		</li>
+	</ul>
+</nav>
+						</div>
+					</div>
+				</section>
+									<section class="footer-analytics">
+						<img src="https://bs.serving-sys.com/serving/adServer.bs?cn=display&amp;c=19&amp;mc=imp&amp;pli=20926509&amp;PluID=0&amp;ord=%%CACHEBUSTER%%&amp;rtu=-1" alt="">
+						<noscript><img src="https://pixel.adsafeprotected.com/rfw/st/82629/14604357/skeleton.gif" width="1" height="1" alt=""></noscript>
+					</section>
+							</footer>
+		</div><!--/wrap-->
+
+		
+<div class="sosumi js-legalNotification">
+	<div class="constrain">
+		<div class="sosumi-main">
+			<div class="sosumi-content">
+				By continuing to use this site you agree to the <a href="https://explorepartsunknown.com/terms-of-use/">Terms of Use</a> and <span class="u-nowrap"> <a href="https://explorepartsunknown.com/privacy-policy/">Privacy Policy</a></span>			</div>
+
+			<button class="button js-legalNotification-close">
+				Okay			</button>
+		</div>
+	</div>
+</div>
+
+		<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201720"></script>
+<script type="text/javascript" src="https://explorepartsunknown.com/wp-content/themes/abpu/assets/dist/js/compiled.min.js?m=1492543283g"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB9JuxcJhkqn4FDgue9ma68azo7YhNttCE&amp;callback=initMaps&amp;ver=4.7.5"></script>
+<script type="text/javascript" src="//s.cdn.turner.com/ads/adfuel/ais/cnn-ais.js?ver=4.7.5"></script>
+<script type="text/javascript" src="//s.cdn.turner.com/ads/adfuel/adfuel-1.1.0.js?ver=4.7.5"></script>
+<script type="text/javascript" src="//s.cdn.turner.com/analytics/epu/jsmd.min.js?ver=4.7.5"></script>
+<script type="text/javascript">
+try { var jsmd = _jsmd.init(); jsmd.send(); } catch (err) {}
+</script>
+<script type="text/javascript" src="//pixel.adsafeprotected.com/rjss/st/82629/14604358/skeleton.js?ver=4.7.5"></script>
+<script type="text/javascript" src="https://explorepartsunknown.com/wp-includes/js/wp-embed.min.js?m=1494975113g"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201720.js" async="" defer=""></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.9',blog:'124218460',post:'2099',tz:'0',srv:'explorepartsunknown.com'} ]);
+	_stq.push([ 'clickTrackerInit', '124218460', '2099' ]);
+</script>
+
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"949ceaf672","applicationID":"32126095","transactionName":"MQZWYhAFXhdYAUBfWwhMdVUWDV8KFhFdWFMTD1VE","queueTime":0,"applicationTime":79,"atts":"HUFBFFgfTUgbAxYMTxse","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
