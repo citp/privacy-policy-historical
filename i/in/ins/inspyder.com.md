@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspyder.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028190223id_/http%3A//www.inspyder.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspyder.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516024909id_/https%3A//www.inspyder.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Inspyder Software Privacy Policy - Leading Provider of Web Crawling Tools | Inspyder
 
