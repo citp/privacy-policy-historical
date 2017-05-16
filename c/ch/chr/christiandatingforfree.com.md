@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiandatingforfree.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120081041id_/https%3A//www.christiandatingforfree.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiandatingforfree.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516213903id_/https%3A//www.christiandatingforfree.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Christian Dating For Free | Online Community of Single Christians
 
@@ -53,6 +53,9 @@ Except under the following circumstances, CDFF will keep Your Personal Informati
   * **Disclosure to Marketing Partners.  ** From time to time, CDFF will disclose Your Personal Information to marketing partners of CDFF, so that those marketing partners may send you offers by email that may be of interest to you.  We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use both personally identifiable information (e.g., your name, phone number, physical or electronic address) and non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at [www.aboutads.info](http://www.aboutads.info/) or Networking Advertising Initiative at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices). California Civil Code Section 1798.83 permits customers of Company who are California residents to request certain information regarding its disclosure of their personally identifiable information to third parties for their direct marketing purposes. You may request a list of all of the third parties with whom we share your PII by sending an e-mail to [admin@christiandatingforfree.com](mailto:admin@christiandatingforfree.com) and place "California Third Party Disclosure" in the subject line. Please allow up to thirty days for a response. 
 
 
+  * When you access our Service through android or ios application, we and a third party partner may receive or collect and store the advertising identification number associated with your device and, depending on your mobile device settings, your geographical location data, including GPS coordinates (such as latitude and/or longitude) or similar information regarding the location of your mobile device. You may enable or disable the collection of this data at any time using the settings on your mobile device by: (a) deleting the app or (b) deleting or resetting the applicable mobile advertiser ID by limiting ad tracking on your device. You may also use the Digital Advertising Alliances “AppChoices” application (available at <http://www.aboutads.info/appchoices>) to opt out of participating third party advertising networks who target advertising to your mobile device based on your mobile advertising identifier. 
+
+
 
 **4.   CONSENT TO RECEIVE EMAIL FROM CDFF**
 
@@ -62,8 +65,7 @@ As stated in the [Website Terms of Use](http://www.christiandatingforfree.com/te
 
 CDFF has implemented and maintains reasonable security procedures and practices to protect against the unauthorized access, use, modification, destruction or disclosure of Your Personal Information.
 
-  
-**6.   LOST OR STOLEN INFORMATION**
+ **6.   LOST OR STOLEN INFORMATION**
 
 You must promptly notify us if Your user name or password is lost, stolen or used without permission.  In such an event, we will remove that user name or password from Your account and update our records accordingly.
 
