@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnduk.org privacy policy that was archived on 2016-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160922022558id_/http%3A//www.cnduk.org/component/k2/item/111) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnduk.org privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516160617id_/http%3A//cnduk.org/component/k2/item/111) for the most accurate reproduction.*
 
 # Privacy Policy
 
