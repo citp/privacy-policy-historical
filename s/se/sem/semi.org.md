@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the semi.org privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213034339id_/http%3A//www.semi.org/en/About/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semi.org privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516180734id_/http%3A//www.semi.org/en/semi-privacypolicy) for the most accurate reproduction.*
 
 # SEMI - PrivacyPolicy | SEMI.ORG
 
-**Privacy Policy |[Terms of Use](https://web.archive.org/en/About/TermsOfUse/index.htm)**
+**Privacy Policy |[Terms of Use](https://web.archive.org/en/About/TermsOfUse)**
 
 SEMI is committed to respecting your privacy, and recognizes your need for appropriate protection and management of personally identifiable information you share (any information by which you can be identified, such as name, address, and telephone number). For this reason, SEMI has established this privacy policy, so that you can understand how we carefully treat your information. 
 
@@ -36,36 +36,28 @@ We limit our employees’ access to your personally identifiable information to 
 
 Because any personally identifiable information you submit to SEMI online is purely voluntary and should not be of a particularly sensitive nature, we employ our standard security measures and do not use special encryption methods at this time. 
 
+**Why did you Receive an Email from Us?**
+
+If you received a mailing from us, (a) your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future ("opt-in"), or (b) you have registered or purchased or otherwise have an existing relationship with us.
+
 **Email Privacy Policy**
 
 We have created this email privacy policy to demonstrate our firm commitment to your privacy and the protection of your information. 
 
-**Why did you Receive an Email from Us?**
-
-If you received a mailing from us, (a) your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future ("opt-in"), or (b) you have registered or purchased or otherwise have an existing relationship with us. 
-
-**How We Protect Your Privacy**
-
+  * **How We Protect Your Privacy**  
 We use security measures provided by a third-party to protect against the loss, misuse and alteration of data used by our system. 
-
-**Sharing and Usage**
-
+  * **Sharing and Usage**   
 We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails. 
-
-**What We Collect**
-
+  * **What We Collect**  
 In order to better serve you, information about email delivery and recipient is tracked for statistical purposes. This includes individual email addresses and specific links selected by individuals. The information we collect and analyze is used solely to improve our service to you and is not shared with third parties.
-
-**How Can You Stop Receiving Email from Us?**
-
+  *  **How Can You Stop Receiving Email from Us?**   
 Each email sent contains an easy, automated way for you to cease receiving email from us. If you wish to do this, simply follow the instructions at the end of any email. 
-
-If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to [_customerservice@semi.org_](mailto:customerservice@semi.org) for review.
-
+  * If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to [_customerservice@semi.org_](mailto:customerservice@semi.org) for review.
 
 
 
-**Policy Changes**
+
+ **Policy Changes**
 
 SEMI reserves the right to change this privacy policy, and will post any revisions on this web site. Your continued use of this web site and receipt of SEMI emails will be subject to the then-current privacy policy.
 
