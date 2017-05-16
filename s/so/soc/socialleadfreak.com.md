@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialleadfreak.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208041026id_/http%3A//www.socialleadfreak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialleadfreak.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516081611id_/http%3A//www.socialleadfreak.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Social Lead Freak
 
@@ -14,7 +14,7 @@ And like many other websites, we may use cookies. In plain English, this means i
 We may also collect any data that you provide us by posting it at our website or by e-mail. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website’s services and features.  
 Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.  
 **5\. WHAT WE DO WITH YOUR INFORMATION.**  
-We use your information to operate our website’s business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website’s terms and conditions.  
+We use your information to operate our website’s business activities. For example, we may use this data to [contact](http://www.socialleadfreak.com/contact/ "contact") you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website’s terms and conditions.  
 As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs.  
 We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability.  
 Although we do not disclose individually identifiable information, we may disclose aggregate data about our website’s visitors to advertisers or other third parties for marketing and promotional purposes.  
