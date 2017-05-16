@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mayura4ever.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219104827id_/http%3A//www.mayura4ever.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mayura4ever.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516161159id_/http%3A//www.mayura4ever.com/p/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
