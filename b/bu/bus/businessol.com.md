@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessol.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028123859id_/http%3A//www.businessol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessol.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516205731id_/http%3A//www.businessol.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BusinessOnLine
+# Privacy Policy | BusinessOnline
 
 BusinessOnline respects and protects the privacy of its customers. Therefore, we would like to share with you the following practices that govern how we use, share and protect the information you provide to us through our Website.
 
@@ -32,8 +32,7 @@ We do not sell your personal information to third parties. We may share your per
 
 ### Use of Technology Cookies
 
-BusinessOnline may track visitor activity to our Website using IP addresses and set temporary cookies to track user sessions.  Cookies are small data files that write to your hard drive when you visit the site.  We use cookies to track user traffic patterns and hold certain registration information.  This data helps us keep track of the number of visitors to our Website and facilitates the dynamic nature of our site. We may link information we store in cookies to personal information you submit while on our site. Cookies also allow us to make your visit to our Website easier by recognizing you when you return and provide you with a more customized experience.  Cookies might, for example, collect your IP address, browsing behavior and referring URLs.  
-
+BusinessOnline may track visitor activity to our Website using IP addresses and set temporary cookies to track user sessions.  Cookies are small data files that write to your hard drive when you visit the site.  We use cookies to track user traffic patterns and hold certain registration information.  This data helps us keep track of the number of visitors to our Website and facilitates the dynamic nature of our site. We may link information we store in cookies to personal information you submit while on our site. Cookies also allow us to make your visit to our Website easier by recognizing you when you return and provide you with a more customized experience.  Cookies might, for example, collect your IP address, browsing behavior and referring URLs.
 
 ### Web Beacons
 
@@ -49,11 +48,11 @@ If our Website receives a “do not track” request from your browser, Business
 
 ### Third-Party Privacy Policies
 
-Please be aware that other websites that can be accessed through our Website may collect personally identifiable information about you. The information practices of those third-party websites linked to the BusinessOnline Website are not covered by this Privacy Policy. 
+Please be aware that other websites that can be accessed through our Website may collect personally identifiable information about you. The information practices of those third-party websites linked to the BusinessOnline Website are not covered by this Privacy Policy.
 
 ### Correcting or Updating Personal Information
 
-If you have any questions or concerns regarding BusinessOnline’s collection, use or disclosure of your personal information or if you wish to change or review your personal information, please contact BusinessOnline for assistance at: 
+If you have any questions or concerns regarding BusinessOnline’s collection, use or disclosure of your personal information or if you wish to change or review your personal information, please contact BusinessOnline for assistance at:
 
 BusinessOnline  
 701 B Street, Suite 1000  
