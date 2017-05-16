@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affinitylive.com privacy policy that was archived on 2016-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160105232930id_/https%3A//www.accelo.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affinitylive.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516150442id_/https%3A//www.accelo.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Accelo
 
@@ -49,10 +49,10 @@ We will share your personal information with third parties only in the ways that
 We may provide your personal information to companies that provide services to help us with our business activities such as offering customer support services. These companies are authorized to use your personal information only as necessary to provide these services to us.  
 We may also disclose your personal information:
 
-  * as required by law such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
-  * if we are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice within the application of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information
-  * to any other third party with your prior consent to do so
+  * As required by law such as to comply with a subpoena, or similar legal process.
+  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+  * If we are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice within the application of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+  * To any other third party with your prior consent to do so
 
 
 
