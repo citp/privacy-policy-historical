@@ -1,33 +1,33 @@
-> *The following text is extracted and transformed from the startablogthatmatters.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505020444id_/http%3A//startablogthatmatters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startablogthatmatters.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516114304id_/https%3A//fizzle.co/privacy) for the most accurate reproduction.*
 
-# How to Start a Blog that Matters | Insanely Useful Media Privacy
+# Fizzle | Fizzle Privacy Policy — Fizzle
 
-We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
+Like most website operators, Fizzle.co collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request.
 
-It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service of the specific application, or as otherwise required by law.
+Fizzle.co’s purpose in collecting non-personally identifying information is to better understand how Fizzle.co’s visitors use its website. From time to time, Fizzle.co may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-We transfer information about you if our company is acquired by or merged with another company. In this event, we will notify you before information about you is transferred and becomes subject to a different privacy policy.
+Fizzle.co also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Fizzle.co does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
 
-INFORMATION GATHERING AND USAGE  
-When you register for any of our products we ask for information such as your name, company name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.
+### Gathering of Personally-Identifying Information
 
-We use collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research. We does not share your personal information with third parties, unless explicitly approved by you.
+Certain visitors to Fizzle.co’s websites choose to interact with Fizzle.co in ways that require Fizzle.co to gather personally-identifying information. The amount and type of information that Fizzle.co gathers depends on the nature of the interaction. For example, we ask visitors who use join as members to provide a username and email address. In each case, Fizzle.co collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Fizzle.co. Fizzle.co does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-COOKIES  
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site’s computers and stored on your computer’s hard drive.
+### Aggregated Statistics
 
-Cookies are required to use our services.
+Fizzle.co may collect statistics about the behavior of visitors to its websites. For instance, Fizzle.co may reveal how many downloads a particular video received. However, Fizzle.co does not disclose personally-identifying information other than as described below.
 
-We use cookies to record current session information, but do not require permanent cookies.
+### Protection of Certain Personally-Identifying Information
 
-DATA STORAGE  
-We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run our services. Although we own the code, databases, and all rights to the our applications and membership sites, you retain all rights to your data.
+Fizzle.co discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors, and affiliated organizations that (i) need to know that information in order to process it on Fizzle.co’s behalf or to provide services available at Fizzle.co’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Fizzle.co’s websites, you consent to the transfer of such information to them. Fizzle.co will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors, and affiliated organizations, as described above, Fizzle.co discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Fizzle.co believes in good faith that disclosure is reasonably necessary to protect the property or rights of Fizzle.co, third parties, or the public at large. If you are a registered user of a Fizzle.co website and have supplied your email address, Fizzle.co may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Fizzle.co and our products. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Fizzle.co takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of potentially personally-identifying and personally-identifying information.
 
-DISCLOSURE  
-We may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service of any of our applications.
+### Cookies
 
-CHANGES  
-We may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site. You retain the right to access, amend, correct or delete your personal information where it is inaccurate at any time. To do so, please contact support@thinktraffic.net.
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Fizzle.co uses cookies to help Fizzle.co identify and track visitors, their usage of Fizzle.co website, and their website access preferences. Fizzle.co visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Fizzle.co’s websites, with the drawback that certain features of Fizzle.co’s websites may not function properly without the aid of cookies.
 
-QUESTIONS  
-Any questions about this Privacy Policy should be addressed to support@thinktraffic.net or by mail at: Insanely Useful Media, 25 Dorland St., San Francisco, CA 94110
+### Privacy Policy Changes
+
+Although most changes are likely to be minor, Fizzle.co may change its Privacy Policy from time to time, and in Fizzle.co’s sole discretion. Fizzle.co encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+Privacy policy adapted from [wordpress.org](http://wordpress.org/about/privacy/).
+
+[](http://creativecommons.org/licenses/by-sa/2.5/)
