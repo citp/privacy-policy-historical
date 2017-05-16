@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiwzi.net privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116150026id_/http%3A//kiwzi.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwzi.net privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516054702id_/http%3A//kiwzi.net/privacy) for the most accurate reproduction.*
 
 # Kiwzi Privacy
 
