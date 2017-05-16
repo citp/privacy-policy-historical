@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epocrates.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204205926id_/http%3A//www.epocrates.com/privacy%3Fcid%3DfooterPolicies%23privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epocrates.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516200023id_/http%3A//www.epocrates.com/privacy%3Fcid%3DfooterPolicies%23privacyPolicy) for the most accurate reproduction.*
 
 # Policies | Epocrates
 
@@ -8,7 +8,7 @@ Third-Party Sponsorship Policy
 
 Privacy policy last updated August 29th, 2016
 
-At Epocrates, we are committed to respecting your privacy. This privacy policy describes how Epocrates, Inc. and its subsidiaries and affiliated companies, including athenahealth ("Epocrates," "we" or "our") may collect, use and disclose information about customers who use our websites, including [ epocrates.com ](http://www.epocrates.com/) , and our mobile applications displaying this policy ("Services"). This policy does not cover websites, applications or services displaying different privacy statements. For instance, some of the services implement the Google Maps web mapping service. Your use of Google Maps is subject to Google's privacy policy, located at [ ](http://www.google.com/intl/en/policies/privacy/)<http://www.google.com/intl/en/policies/privacy/> .
+At Epocrates, we are committed to respecting your privacy. This privacy policy describes how Epocrates, Inc. and its subsidiaries and affiliated companies, including athenahealth ("Epocrates," "we" or "our") may collect, use and disclose information about customers who use our websites, including [ epocrates.com ](http://www.epocrates.com/) , and our mobile applications displaying this policy ("Services"). This policy does not cover websites, applications or services displaying different privacy statements. For instance, some of the services implement the Google Maps web mapping service. Your use of Google Maps is subject to Google's privacy policy, located at [ http://www.google.com/intl/en/policies/privacy/ ](http://www.google.com/intl/en/policies/privacy/) .
 
   1. What information does Epocrates collect? 
   2. How does Epocrates use the information we collect? 
@@ -25,9 +25,9 @@ At Epocrates, we are committed to respecting your privacy. This privacy policy d
 
 [ ](https://privacy.truste.com/privacy-seal/validation?rid=8e0d4f68-2534-4113-8116-f8f157610b8f)
 
-Epocrates, Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this web site,  [ ](http://www.epocrates.com/)[www.epocrates.com](http://www.epocrates.com/ "www.epocrates.com") and through our mobile application.
+Epocrates, Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this web site,  [ www.epocrates.com ](http://www.epocrates.com/) and through our mobile application.
 
-If you have questions or complaints regarding our privacy policy or practices, please contact us at [ ](mailto:legal@epocrates.com)[legal@epocrates.com](mailto:legal@epocrates.com) . If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [  here ](https://feedback-form.truste.com/watchdog/request) .
+If you have questions or complaints regarding our privacy policy or practices, please contact us at [ legal@epocrates.com ](mailto:legal@epocrates.com) . If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [  here ](https://feedback-form.truste.com/watchdog/request) .
 
 **1\. What information does Epocrates collect?**
 
@@ -72,24 +72,24 @@ We use personal information collected through our Services for purposes describe
 
 
 
-Epocrates may store and process information in the United States and other countries. We will retain your information as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [ ](mailto:support@epocrates.com)[support@epocrates.com](mailto:support@epocrates.com) . We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Epocrates may store and process information in the United States and other countries. We will retain your information as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [ support@epocrates.com ](mailto:support@epocrates.com) . We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 Top 
 
 **3\. How does Epocrates protect your information?**
 
-We take appropriate measures to protect the information that we receive about you from unauthorized access, disclosure, alteration, or destruction. When we collect sensitive information (such as a credit card number or geolocation), we encrypt the transmission of that information using secure socket layer technology (SSL). No method of transmission over the Internet or electronic storage is 100% secure; as a result, we cannot guarantee absolute security. If you have any questions about security, you can contact us at [ ](mailto:support@epocrates.com)[support@epocrates.com](mailto:support@epocrates.com) .
+We take appropriate measures to protect the information that we receive about you from unauthorized access, disclosure, alteration, or destruction. When we collect sensitive information (such as a credit card number or geolocation), we encrypt the transmission of that information using secure socket layer technology (SSL). No method of transmission over the Internet or electronic storage is 100% secure; as a result, we cannot guarantee absolute security. If you have any questions about security, you can contact us at [ support@epocrates.com ](mailto:support@epocrates.com) .
 
 Top 
 
 **4\. Will Epocrates share the information it collects with others?**
 
-Epocrates may share aggregated or deidentified information such as statistics about our customers, sales, product usage or traffic patterns, and related website information. This information will not include any information directly identifying you. We display profile information we collect about or from medical professionals to anyone who uses our Provider Directory. If are a medical professional and you wish to request removal of your information from our Provider Directory, you can contact us at [ ](mailto:support@epocrates.com)[support@epocrates.com](mailto:support@epocrates.com) .
+Epocrates may share aggregated or deidentified information such as statistics about our customers, sales, product usage or traffic patterns, and related website information. This information will not include any information directly identifying you. We display profile information we collect about or from medical professionals to anyone who uses our Provider Directory. If are a medical professional and you wish to request removal of your information from our Provider Directory, you can contact us at [ support@epocrates.com ](mailto:support@epocrates.com) .
 
 When you use our mobile application, we may share your approximate geo-location data with a third-party service provider for the purpose of enhancing your searching ability. If you do not wish to allow us to share your information in this manner please opt-out by editing the setting at the device level.
 
 If you post a comment or message in our blog or other public forums, it will be shared publicly. You can request the removal of your personal information from our blog or public forums, by contacting us at [support@epocrates.com](mailto:support@epocrates.com) . In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. When you communicate with other users through the athenaText application, your name and public profile will be shared with those users.   
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [ ](mailto:support@epocrates.com)[support@epocrates.com](mailto:support@epocrates.com) .
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [ support@epocrates.com ](mailto:support@epocrates.com) .
 
 We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties. We may share personal information as follows:
 
@@ -110,14 +110,14 @@ Top
 
 You have the option of correcting, updating, deleting and/or changing contact and demographic information and other information previously provided and stored in our database. If you wish to correct, update, delete or change your information, simply [ update your profile ](http://www.epocrates.com/account.do) . We will respond to your request to access within 30 days.
 
-You may opt out of any promotional emails at any time by following the unsubscribe instructions in the promotional emails you receive from us, by updating your profile as described below or by sending an email to [ ](mailto:support@epocrates.com)[support@epocrates.com](mailto:support@epocrates.com) .   
-You may opt out of the Epocrates Honors market research program at any time by following the unsubscribe instructions in the invitation emails you receive from us, by updating your profile as described below or by sending an email to [ ](mailto:support@epocrates.com)[support@epocrates.com](mailto:support@epocrates.com) .
+You may opt out of any promotional emails at any time by following the unsubscribe instructions in the promotional emails you receive from us, by updating your profile as described below or by sending an email to [ support@epocrates.com ](mailto:support@epocrates.com) .   
+You may opt out of the Epocrates Honors market research program at any time by following the unsubscribe instructions in the invitation emails you receive from us, by updating your profile as described below or by sending an email to [ support@epocrates.com ](mailto:support@epocrates.com) .
 
 You may opt-out of location-based services at any time by editing the setting at the device level.
 
 We may occasionally send you push notifications through our mobile applications to send you service related notices that may be of importance to you. You may at any time opt-out from receiving these types of communications by turning them off at the device level through your settings.
 
-How to update your profile: Please visit the home page of our website at [ ](http://www.epocrates.com/)[www.epocrates.com](http://www.epocrates.com/ "www.epocrates.com") , click on “Login”, and then sign in using your email address and password. Then under the “Account” heading click on “Edit Email Preferences.” To opt in or out of email communications, go to the bottom of the form and make the selection of your choices. If you unselect a box, you will NOT receive emails of the type listed. You may also request profile changes by sending an email to [ ](mailto:support@epocrates.com)[support@epocrates.com](mailto:support@epocrates.com) . If you have already claimed your Provider Directory profile, you can make changes to your contact and professional information via the Provider Directory tile on your mobile installation of the Epocrates application.
+How to update your profile: Please visit the home page of our website at [ www.epocrates.com ](http://www.epocrates.com/) , click on “Login”, and then sign in using your email address and password. Then under the “Account” heading click on “Edit Email Preferences.” To opt in or out of email communications, go to the bottom of the form and make the selection of your choices. If you unselect a box, you will NOT receive emails of the type listed. You may also request profile changes by sending an email to [ support@epocrates.com ](mailto:support@epocrates.com) . If you have already claimed your Provider Directory profile, you can make changes to your contact and professional information via the Provider Directory tile on your mobile installation of the Epocrates application.
 
 Top 
 
@@ -143,7 +143,7 @@ Top
 
 **8\. How to send us your feedback**
 
-Our goal is to respect your privacy and we encourage user feedback to help us improve our privacy policies. If you have any questions or suggestions about this privacy statement, please contact us at: [ ](mailto:support@epocrates.com)[support@epocrates.com](mailto:support@epocrates.com) .
+Our goal is to respect your privacy and we encourage user feedback to help us improve our privacy policies. If you have any questions or suggestions about this privacy statement, please contact us at: [ support@epocrates.com ](mailto:support@epocrates.com) .
 
 Top 
 
