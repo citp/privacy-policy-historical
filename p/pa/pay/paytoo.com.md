@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paytoo.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124142729id_/http%3A//paytoo.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paytoo.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517210631id_/http%3A//www.paytoo.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Paytoo - Privacy Policy
+# Paytoo | Privacy Policy
 
 Thank you for visiting the PayToo Corp.’s (“PayToo”) Website. It is important to read this privacy policy before submitting any personal data or becoming a User. By using this Website or our services you agree to these terms. PayToo is referred to in this privacy policy (hereinafter referred to as “Policy”) as “PayToo,” “we,” “our,” or “us.”
 
@@ -51,3 +51,6 @@ Telephone: 1 (888) 363-1895
 Email: [support@paytoo.com](mailto:help@paytoo.com)
 
 This Privacy Policy was last updated on November 15, 2016 
+
+  
+
