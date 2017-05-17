@@ -1,62 +1,47 @@
-> *The following text is extracted and transformed from the pkmusiq.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017231607id_/http%3A//pkmusiq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pkmusiq.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518001943id_/http%3A//www.pkmusiq.info/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | PKSusiq.com
+# Privacy Policy - Pkmusiq.info
 
-This Privacy Policy explains our policy regarding the collection, use, disclosure and transfer of your information by Times Internet Limited. and/or its subsidiary(ies) and/or affiliate(s) (collectively referred to as **the Company** ), which operates the website (“Site”), applications and other services including but not limited to delivery of music and related content via the site¸ any mobile or internet connected device or otherwise (collectively the “Gaana Service”). This Privacy Policy forms part and parcel of the Terms of Use for the Gaana Services. Capitalized terms which have been used here but are undefined shall have the same meaning as attributed to them in the Terms of Use.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at Privacy. At http://www.pkmusiq.info we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://www.pkmusiq.info and how we use it.
 
-As we update, improve and expand the Gaana Services, this policy may change, so please refer back to it periodically. By accessing the website or otherwise using the Gaana Services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.
+    Log Files
 
-The Company respects the privacy of the users of the Gaana4u.in Services and is committed to reasonably protect it in all respects. The information about the user as collected by the Company is: (a) information supplied by users and (b) information automatically tracked while navigation (collectively referred to as **Information** ).
+    Like many other Web sites, http://www.pkmusiq.info makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.  
+    Cookies and Web Beacons
 
-**INFORMATION AUTOMATICALLY TRACKED WHILE NAVIGATION**
+    http://www.pkmusiq.info uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser. DoubleClick DART Cookie
 
-    1. **Cookies**
+    ? Google, as a third party vendor, uses cookies to serve ads on http://www.pkmusiq.info.
 
-To improve the responsiveness of the Site for our users, we may use “cookies”, or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user’s individual interests using the identified computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control.
+    ? Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to http://www.pkmusiq.info and other sites on the Internet.
 
-    2. **Log File Information**
+    ? Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html  
+    Our Advertising Partners
 
-Our web servers automatically collect limited information about your computer’s connection to the Internet, including your IP address, when you visit our site. Your IP address is a number that lets computers attached to the Internet know where to send you data — such as the web pages you view. We automatically receive and log information from your browser, including your IP address, your computer’s name, your operating system, browser type and version, CPU speed, and connection speed. We may also collect log information from your device, including your location, IP address, your device’s name, device’s serial number or unique identification number (e.g.. UDiD on your iOS device), your device operating system, browser type and version, CPU speed, and connection speed etc..
+    Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......  
+    Other
 
-    3. **Clear GIFs**
+    While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here: Privacy Policies. You may consult this listing to find the privacy policy for each of the advertising partners of http://www.pkmusiq.info.
 
-We may use “clear GIFs” (Web Beacons) to track the online usage patterns of our users in a anonymous manner, without personally identifying the user. We may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.
+    These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://www.pkmusiq.info and which are sent directly to your browser. They automatically receive your IP address when this occurs.
 
-We use this information to inter-alia deliver our web pages to you upon request, to tailor our Site to the interests of our users, to measure traffic within our Site, to improve the Site quality, functionality and interactivity and let advertisers know the geographic locations from where our visitors come.
+    Other technologies (such as cookies, javascript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site http://www.pkmusiq.info has no access to or control over these cookies that are used by third-party advertisers.  
+    Third Party Privacy Policies
 
-    4. **Information from other Sources:**
+    You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.pkmusiq.info's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: Privacy Policy Links.
 
-We may receive information about you from other sources, add it to our account information and treat it in accordance with this policy. If you provide information to the platform provider or other partner, whom we provide services, your account information and order information may be passed on to us. We may obtain updated contact information from third parties in order to correct our records and fulfil the Services or to communicate with you
+    If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. What Are Cookies?  
+    Children's Information
 
-    5. **Demographic and purchase information:**
+    We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. http://www.pkmusiq.info does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that http://www.pkmusiq.info has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.  
+    Online Privacy Policy Only
 
-We may reference other sources of demographic and other information in order to provide you with more targeted communications and promotions. We use Google Analytics, among others, to track the user behaviour on our website. Google Analytics specifically has been enabled to support display advertising to help us gain an understanding of our users’ Demographics and Interests. The reports are anonymous and cannot be associated with any individual personally identifiable information that you may have shared with us. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings options provided by Google.
+    This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.  
+    Consent
 
+    By using our website, you hereby consent to our privacy policy and agree to its terms. Privacy Policy Online Approved Site  
+    Update
 
+    This Privacy Policy was last updated on: January 13th, 2017.
 
-
-**LINKS TO THIRD PARTY SITES / AD-SERVERS**
-
-The Site may include links to other websites. Such sites are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can’t find the privacy policy of any of these sites via a link from the site’s homepage, you should contact the site directly for more information.
-
-When we present information to our advertisers — to help them understand our audience and confirm the value of advertising on our website — it is usually in the form of aggregated statistics on traffic to various pages / content within our Site.
-
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number or other personally identifiable information) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
-
-We do not provide any personally identifiable information to third party websites / advertisers / ad-servers without your consent.
-
-**ACCESSING AND UPDATING PERSONAL INFORMATION**
-
-When you use the Gaana4u.in Services Site (or any of its sub sites), we make good faith efforts to provide you, as and when requested by you, with access to your personal information and shall further ensure that any personal information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personal information or sensitive personal data or information to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case, where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
-
-**INFORMATION SECURITY**
-
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data. All information gathered on TIL is securely stored within the TIL controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access.
-
-However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes.
-
-We use third-party advertising companies to serve ads when you visit or use our website, mobile application or services. These companies may use information (not including your name, address, email address or telephone number) about your visits or use to particular website, mobile application or services, in order to provide advertisements about goods and services of interest to you.
-
-**UPDATES / CHANGES**
-
-The internet is an ever evolving medium. We may alter our privacy policy from time to time to incorporate necessary changes in technology, applicable law or any other variant. In any case, we reserve the right to change (at any point of time) the terms of this Privacy Policy or the Terms of Use. Any changes we make will be effective immediately on notice, which we may give by posting the new policy on the Site. Your use of the Gaana Services after such notice will be deemed acceptance of such changes. We may also make reasonable efforts to inform you via electronic mail. In any case, you are advised to review this Privacy Policy periodically on the Site to ensure that you are aware of the latest version.
+    Should we update, amend or make any changes to our privacy policy, those changes will be posted here.
