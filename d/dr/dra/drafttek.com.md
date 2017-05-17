@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drafttek.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024151647id_/http%3A//drafttek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drafttek.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517123713id_/http%3A//drafttek.com/privacy.html) for the most accurate reproduction.*
 
 # drafttek.com | Privacy Policy
 
