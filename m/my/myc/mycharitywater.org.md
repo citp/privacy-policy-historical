@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mycharitywater.org privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124125211id_/https%3A//www.charitywater.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycharitywater.org privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517180640id_/http%3A//www.charitywater.org/privacy) for the most accurate reproduction.*
 
 # privacy policy | charity: water
 
 ## Our commitment to privacy
 
-charity: water knows that you care how information about you is used and shared, and we appreciate you trusting that we will do so carefully and sensibly. To better protect your privacy, we provide this Privacy Policy explaining our practices and the choices you can make about the way your information is collected and used by charity: water. The information below explains our policy regarding your privacy, both online and offline. By visiting [www.charitywater.org](http://www.charitywater.org/) or sharing personal information with charity: water you are accepting the practices described in this Privacy Notice.
+charity: water knows that you care how information about you is used and shared, and we appreciate you trusting that we will do so carefully and sensibly. To better protect your privacy, we provide this Privacy Policy explaining our practices and the choices you can make about the way your information is collected and used by charity: water. The information below explains our policy regarding your privacy, both online and offline. By visiting [www.charitywater.org](https://www.charitywater.org/) or sharing personal information with charity: water you are accepting the practices described in this Privacy Notice.
 
 Our www.charitywater.org website is maintained by charity: water, with headquarters at 40 Worth Street, Suite 330, New York, NY 10013, U.S., telephone (646) 688-2323 and fax (888) 707-6466.
 
