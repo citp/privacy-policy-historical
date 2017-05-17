@@ -1,56 +1,37 @@
-> *The following text is extracted and transformed from the pagesuite-professional.co.uk privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127021733id_/http%3A//www.pagesuite.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagesuite-professional.co.uk privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517223750id_/http%3A//www.pagesuite.com/privacy-policy) for the most accurate reproduction.*
 
-# PageSuite - Privacy
+# Privacy Policy | PageSuite
 
 PageSuite Limited understands the importance of maintaining the confidentiality of any information you may provide while using the site and the PageSuite software. Any information we hold about you is provided only by you.
 
-  
-
-
-## General Information
+### General Information
 
 In general, we gather information about all of our users collectively, such as what areas of this website are visited most frequently and which of our services are accessed the most. We only use such data in an aggregate form. This information helps us determine what is most beneficial for our users, and how we can continually create a better overall experience for you.
 
-  
+Please note, we may record calls for training and monitoring purposes.
 
-
-## Unique Device Identification (UDID’s) for Apple applications and how we use them
+### Unique Device Identification (UDID’s) for Apple applications and how we use them
 
 PageSuite use a UDID collection service for all of our iOS Dynamic apps. The data is completely anonymous and no other information will be collected. The UDID capture is used ONLY for restoration of subscriptions and previous purchases. Unlike many other mobile applications, we do not use this unique identifier to push any other services, whether it be adservers, purchasing history, likes/interests etc… this service is purely for restoration of items and subscriptions you may have purchased.
 
-  
-
-
-## Using Information
+### Using Information
 
 PageSuite Limited will never sell or share personal information with third parties. We may use this information to serve those users who have requested to be mailed with issues that we feel they may be interested in, such as website and company news. Cookies are used for internal research and to give a better understanding of our audience.
 
 You should also be aware that if you link out to third party websites, they have their own privacy policies for which PageSuite Limited can accept no responsibility. Please be certain to check other sites before use.
 
-  
+### Cookies
 
+A cookie is a harmless piece of information that a website transfers to the cookie file of the browser on your computer’s hard drive. On visiting the website, a cookie will be placed on your computer automatically by the website. PageSuite Limited may use two types of cookie from time to time: “persistent cookies” and “session cookies”. Session cookies are temporary cookies that remain in the cookie file of your browser until you leave the website and persistent cookies are cookies which remain in the cookie file of your browser for much longer (though for how long will depend on the lifetime of the specific cookie). For more information regarding the use of cookies go to www.aboutcookies.org. PageSuite Limited does not use its persistent or session cookies to store personal information about you.
 
-## Cookies
-
-A cookie is a harmless piece of information that a website transfers to the cookie file of the browser on your computer's hard drive. On visiting the website, a cookie will be placed on your computer automatically by the website. PageSuite Limited may use two types of cookie from time to time: “persistent cookies” and “session cookies”. Session cookies are temporary cookies that remain in the cookie file of your browser until you leave the website and persistent cookies are cookies which remain in the cookie file of your browser for much longer (though for how long will depend on the lifetime of the specific cookie). For more information regarding the use of cookies go to [www.aboutcookies.org](http://www.aboutcookies.org/). PageSuite Limited does not use its persistent or session cookies to store personal information about you.
-
-PageSuite Limited uses its cookies for monitoring load balancing between its servers while you are linked to the website, to conduct analyses of user traffic, and to perform web log audits. Third party advertisers may serve cookies via this website but these are only used to serve advertisements from the website's ad servers and to track whether these advertisements are clicked on by visitors to the website. PageSuite Limited may pass the non-personal information collected by its cookies to third parties but only for the purposes of carrying out such monitoring, analysis or web log auditing, or for the purposes of tracking the number of anonymous users of the website.
+PageSuite Limited uses its cookies for monitoring load balancing between its servers while you are linked to the website, to conduct analyses of user traffic, and to perform web log audits. Third party advertisers may serve cookies via this website but these are only used to serve advertisements from the website’s ad servers and to track whether these advertisements are clicked on by visitors to the website. PageSuite Limited may pass the non-personal information collected by its cookies to third parties but only for the purposes of carrying out such monitoring, analysis or web log auditing, or for the purposes of tracking the number of anonymous users of the website.
 
 Most browsers accept cookies automatically but you have the ability to accept/decline cookies by altering the settings in your browser. If you decline/disable cookies, you may not be able to use all the interactive features of the website or the website may not be available to you.
 
-  
-
-
-## Security
+### Security
 
 The website is protected against unauthorised access using the latest security devices and firewalls.
 
-  
-
-
-## Changes to the Privacy Policy
+### Changes to the Privacy Policy
 
 We reserve the right to add to or change the terms of this Privacy Policy in our sole discretion, without prior notice to you. If we change this Privacy Policy, we will post the new Privacy Policy on the website, and it will become effective from the time of posting to the website. Please visit this Privacy Policy on a regular basis to make sure you have read the latest version and you understand what we do with your information.
-
-  
-
