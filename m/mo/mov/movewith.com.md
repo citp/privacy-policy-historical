@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the movewith.com privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009090327id_/http%3A//www.movewith.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movewith.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517132144id_/https%3A//www.movewith.com/privacy) for the most accurate reproduction.*
 
 # MoveWith: Yoga, Running, Boot Camp, and Fitness Classes from the Best Teachers
 
-Last updated: February 20th, 2015
+Last updated: March 3rd, 2017
 
 ### Introduction
 
@@ -10,16 +10,16 @@ MoveWith, Inc. ("MoveWith," "we" or "us") provides an online and mobile service,
 
 This Privacy Policy describes how we use Personal Information (defined below) that we collect from you as part of you using our service. This Privacy Policy also describes the choices available to you regarding our use of your Personal and how you can access and update this information, and what information you provide that we will retain even if you decide to delete the App or stop using the Service. Our Privacy Policy is not a contract, and it does not create any legal rights or obligations.
 
-You should also read our Terms of Service, available at www.MoveWith.com/terms which contains important information about the scope and nature of the Service, and the rules that apply to your use of our Service. All capitalized terms used in this Privacy Policy that are not defined in this Privacy Policy have the meaning given to them in the Terms of Service for MoveWith.
+You should also read our Terms of Service, available at [www.MoveWith.com/terms](https://www.movewith.com/terms) which contains important information about the scope and nature of the Service, and the rules that apply to your use of our Service. All capitalized terms used in this Privacy Policy that are not defined in this Privacy Policy have the meaning given to them in the Terms of Service for MoveWith.
 
-Your use of the Service indicates that you consent to our collection, storage, use and disclosure of your personal information and other information as described in this Privacy Policy and the MoveWith [Terms of Service](https://web.archive.org/terms). If you do not consent to the use of your Personal Information as described in this Privacy Policy or do not agree to the Terms of Service, do not use the Service.
+Your use of the Service indicates that you consent to our collection, storage, use and disclosure of your personal information and other information as described in this Privacy Policy and the MoveWith [Terms of Service](https://www.movewith.com/terms). If you do not consent to the use of your Personal Information as described in this Privacy Policy or do not agree to the Terms of Service, do not use the Service.
 
 ### Information We Collect
 
 We collect the following types of information from and about you:
 
   * information that, taken alone, identifies you and that can be used to contact you, on-line or offline ("Personal Information"), which may include, for example, your legal personal or business name; legal physical address; email address; telephone, and date of birth;
-  * information about you that cannot be used, alone, to identify you, which may include, for example, demographic information including zip code or professional information including the industry in which you work, how frequently you exercise and what types of Activities you prefer; 
+  * information about you that cannot be used, alone, to identify you, which may include, for example, demographic information including zip code or professional information including the industry in which you work, how frequently you exercise and what types of Activities you prefer;
   * information about your use of our Service, which may include, for example, internet connection, your computer or mobile device and software you use to access our Service, including your Internet Protocol ("IP") address or other device identifiers.
 
 
@@ -42,7 +42,7 @@ We automatically receive and record information from your web browser when you i
 
 ### Information Collected Using Cookies and Web Beacons
 
-"Cookies" are small data files that are sent to your web browser when you access a website, and the files stored on your device's hard drive. We use "session" cookies to keep you logged in while you use the Site, to track your preferences and to track trends and monitor usage and web traffic information on the Site. These are erased when you close your browser. We use "persistent" cookies to relate your use of our Service to other information about you and store information about your preferences to make your user experience consistent and customized. For example, we may create a persistent cookie that includes some basic information about you, like your favorite website locations and whether customer support responded to your inquiry. These cookies stay on your hard drive until you erase them or they expire and associate your information with your account even if you are logged out. 
+"Cookies" are small data files that are sent to your web browser when you access a website, and the files stored on your device's hard drive. We use "session" cookies to keep you logged in while you use the Site, to track your preferences and to track trends and monitor usage and web traffic information on the Site. These are erased when you close your browser. We use "persistent" cookies to relate your use of our Service to other information about you and store information about your preferences to make your user experience consistent and customized. For example, we may create a persistent cookie that includes some basic information about you, like your favorite website locations and whether customer support responded to your inquiry. These cookies stay on your hard drive until you erase them or they expire and associate your information with your account even if you are logged out.
 
 Most browsers automatically accept cookies, but you can change your settings on the browser settings to refuse cookies or prompt you before accepting cookies. You can also use your browser settings or other tools to delete cookies you already have. However, if you disable or refuse cookies, then certain features of the Site may be inaccessible or not function properly.
 
@@ -58,7 +58,7 @@ We do not automatically collect Personal Information, but we may tie Personal In
 
 We may also log information using digital images called web beacons on our Service or in our emails. We may use web beacons to manage cookies, count visits, and to learn what marketing works and what does not. We may also use web beacons to tell if you open or act on our emails.
 
-We also use analytics services, including but not limited to Localytics, to collect usage data from our Apps in order to help us understand how users are interacting with our Apps. Localytics is used to track general location information, and evens that occur without our Apps, such as how often you use our Apps. This information, including your IP address, is transmitted and stored by Localytics on servers in the United States. For more information see Localytics' privacy policy available at http://www.localytics.com/privacy-policy. 
+We also use analytics services, including but not limited to Localytics, to collect usage data from our Apps in order to help us understand how users are interacting with our Apps. Localytics is used to track general location information, and events that occur without our Apps, such as how often you use our Apps. This information, including your IP address, is transmitted and stored by Localytics on servers in the United States. For more information see Localytics' privacy policy available at http://www.localytics.com/privacy-policy.
 
 ### Biometric Information
 
@@ -66,7 +66,7 @@ When using our iOS App, you may also decide to grant us permission to collect ce
 
 ### Children Under Age 13
 
-We do not knowingly collect or solicit Personal Information from anyone under the age of 13 or knowingly allow such persons to register on our Service. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, please contact us at [support@movewith.com](mailto:support@movewith.com). In the event that we learn that we have collected Personal Information from a child under age 13, we will delete that information where reasonably possible.
+We do not knowingly collect or solicit Personal Information from anyone under the age of 13 or knowingly allow such persons to register on our Service. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, please contact us at [support@movewith.com](mailto:support@movewith.com). In the event that we learn that we have collected Personal Information from a child under age 13, we will delete that information where reasonably possible.
 
 ### "Do not track" or "DNT" technology
 
@@ -81,7 +81,7 @@ We may use information that we collect about you or that you provide to us, incl
   * analyze and improve our Service, which may include tracking traffic, usage, and navigation patterns related to your activities on the Service and the links we provide to Third Party Websites or advertisements;
   * secure your account and prevent fraud;
   * carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;
-  * protect our or third-party rights or interests; 
+  * protect our or third-party rights or interests;
   * in any other way we may describe when you provide the information; and
   * for any other purpose with your consent.
 
@@ -93,9 +93,9 @@ If you delete the App, close your account or stop using the Service, we will ret
 
 ### Sharing Information with Third Parties
 
-We may also share with third parties aggregated or de-identified information, which cannot be reasonably used to identify you, including for marketing and research purposes or for sale to interested parties. 
+We may also share with third parties aggregated or de-identified information, which cannot be reasonably used to identify you, including for marketing and research purposes or for sale to interested parties.
 
-We may share Personal Information with our business partners in order to provide you a service you use or request, subject to commitments by such parties to use your information only for that purpose and to protect it from disclosure. 
+We may share Personal Information with our business partners in order to provide you a service you use or request, subject to commitments by such parties to use your information only for that purpose and to protect it from disclosure.
 
 We may share Personal Information in response to a valid law enforcement request or legal process, to protect our rights and property or those of third parties, or as otherwise permitted or required by law.
 
@@ -117,11 +117,11 @@ You will have the opportunity to review and modify the information stored in you
 
 ### Protecting Your Information
 
-We take the security of your Personal Information very seriously, and have implemented policies and procedures, including technical measures, that are designed to help safeguard it. Please remember that you play a valuable part in security as well. Your password to access our Service, which you select at registration, should never be shared with anyone and should be changed frequently. While we strive to use best practices to protect your Personal Information, the Internet and computer technology is not 100% secure and we cannot absolutely ensure the security of any Personal Information that you provide to us. 
+We take the security of your Personal Information very seriously, and have implemented policies and procedures, including technical measures, that are designed to help safeguard it. Please remember that you play a valuable part in security as well. Your password to access our Service, which you select at registration, should never be shared with anyone and should be changed frequently. While we strive to use best practices to protect your Personal Information, the Internet and computer technology is not 100% secure and we cannot absolutely ensure the security of any Personal Information that you provide to us.
 
-### California Residents 
+### California Residents
 
-California residents may choose to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes or choose to opt out of such disclosure. To make a request or to opt out at any time, please contact us at [support@movewith.com](mailto:support@movewith.com) or the other contact information provided below. Our policy is not to disclose Personal Information collected online to a third party for directing marketing without your approval. 
+California residents may choose to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes or choose to opt out of such disclosure. To make a request or to opt out at any time, please contact us at [support@movewith.com](mailto:support@movewith.com) or the other contact information provided below. Our policy is not to disclose Personal Information collected online to a third party for directing marketing without your approval.
 
 ### Use of Your Likeness and Photographs
 
@@ -137,11 +137,11 @@ You should carefully review security/privacy policies of any third party sites a
 
 ### How to Opt-out
 
-If you choose to stop receiving emails from MoveWith, please follow the unsubscribe instructions within each email communication or send an email to [support@movewith.com](mailto:support@movewith.com). MoveWith will not provide or share any mailing lists or other information about you to another company or service for promotional purposes. Any service related emails (to confirm a purchase, etc.) generally do not offer an option to unsubscribe as they are necessary to provide the service you requested.
+If you choose to stop receiving emails from MoveWith, please follow the unsubscribe instructions within each email communication or send an email to [support@movewith.com](mailto:support@movewith.com). MoveWith will not provide or share any mailing lists or other information about you to another company or service for promotional purposes. Any service related emails (to confirm a purchase, etc.) generally do not offer an option to unsubscribe as they are necessary to provide the service you requested.
 
 ### MoveWith Blog
 
-MoveWith maintains a relationship with an outside service provider to administer the online Blog site that can be accessed through MoveWith's site at [http://www.movewith.com/blog](https://web.archive.org/blog) (the "Blog"). The Blog maintains the look and feel of the Site, but any Personal Information you provide on the Blog is stored by the outside service provider. Any Personal Information submitted on the Blog is subject to the privacy policy of the outside service provider. MoveWith recommends that you read that privacy policy before submitting any Personal Information on the Blog. Although the Blog pages may have MoveWith branding, the outside service provider is prominently identified so that you are aware of who is collecting your Personal Information. If you use the Blog, you should be aware that any Personal Information you submit in the comment field can be read, collected, or used by other users of these forums indefinitely, and could be used to send you unsolicited messages. MoveWith is not responsible for the Personal Information you choose to submit via the Blog.
+MoveWith maintains a relationship with an outside service provider to administer the online Blog site that can be accessed through MoveWith's site at [http://www.movewith.com/blog](http://blog.movewith.com/) (the "Blog"). The Blog maintains the look and feel of the Site, but any Personal Information you provide on the Blog is stored by the outside service provider. Any Personal Information submitted on the Blog is subject to the privacy policy of the outside service provider. MoveWith recommends that you read that privacy policy before submitting any Personal Information on the Blog. Although the Blog pages may have MoveWith branding, the outside service provider is prominently identified so that you are aware of who is collecting your Personal Information. If you use the Blog, you should be aware that any Personal Information you submit in the comment field can be read, collected, or used by other users of these forums indefinitely, and could be used to send you unsolicited messages. MoveWith is not responsible for the Personal Information you choose to submit via the Blog.
 
 ### Changes to Privacy Policy
 
@@ -152,8 +152,7 @@ This Privacy Policy is effective as of the date stated at the top of this Privac
 The Service is owned, operated, and maintained by:
 
 MoveWith, Inc.   
-257 Sidney Street   
-Cambridge, MA 02139   
-
+590 Howard Street   
+San Francisco, CA 94105 
 
 MoveWith welcomes your questions and comments about security and privacy. Please send any questions or comments via email to [support@movewith.com](mailto:support@movewith.com).
