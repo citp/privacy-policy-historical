@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tropicana.com privacy policy that was archived on 2016-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161221195300id_/http%3A//www.tropicana.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tropicana.com privacy policy that was archived on 2017-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170517184800id_/http%3A//tropicana.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head> <title>
 	Privacy Policy - Tropicana
@@ -83,7 +83,10 @@ if (typeof getBreachMessage == 'function') {
                     </td>
                     <td class="language-table__row__choices">
                             <span class="language">
-                                <a href="http://www.tropicana.be/" class="">nl</a>
+                                <a href="https://www.tropicana.be/fr-be" class="">fr</a>
+                            </span>
+                            <span class="language">
+                                <a href="https://www.tropicana.be/nl-be" class="">nl</a>
                             </span>
                     </td>
                 </tr>
@@ -299,13 +302,22 @@ if (typeof getBreachMessage == 'function') {
 </ol>
 
 </div>
-    <div class="nav__content__search">
-        <div class="search">
-            <!--<form action="/search/" method="get">-->
-                <input type="text" class="p1" name="q" placeholder="Search">
-                <button class="p1" type="button">Search</button>
-            <!--</form>-->
-        </div>
+    <div id="header_T0FB20850028_Col03" class="sf_colsIn nav__content__search" data-placeholder-label="Search"><div class="search">
+    <input type="text" class="p1" name="q" placeholder="Search">
+    <button class="p1" type="button">Search</button>
+</div>
+
+<script>
+    document.querySelector('.search button').addEventListener('click', function () {
+        window.location.href = "/search" +"?q=" + encodeURIComponent(document.querySelector('.search input').value);
+    });
+    document.querySelector('.search input').addEventListener('keyup', function (e) {
+        if (e.keyCode == 13) {
+            window.location.href = "/search" + "?q=" + encodeURIComponent(document.querySelector('.search input').value);
+        }
+    })
+</script>
+
     </div>
 </nav>
 
@@ -335,10 +347,10 @@ if (typeof getBreachMessage == 'function') {
             <div id="footer_T0FB20850029_Col01" class="sf_colsIn col-md-3 content__veggies" data-placeholder-label="Veggies Image">    <img src="/images/default-source/icons/more_matters.png?sfvrsn=2&amp;MaxWidth=85&amp;MaxHeight=52&amp;ScaleUp=false&amp;Quality=High&amp;Method=ResizeFitToAreaArguments&amp;Signature=AF085520382FC02CBB6891656DF9C549FFB17B91" title="More_Matters" alt="More_Matters">
 </div>
             <div id="footer_T0FB20850029_Col02" class="sf_colsIn col-md-3 content__social-icons" data-placeholder-label="Social Icons">
-    <a class="content__social-icons__icon facebook" data-fullsize-bg-image="/images/default-source/icons/social-icons/facebook.png?sfvrsn=2" data-mobile-bg-image="/images/default-source/icons/social-icons/facebookmobile.png?sfvrsn=2" href="https://www.facebook.com/Tropicana/"></a>
-    <a class="content__social-icons__icon twitter" data-fullsize-bg-image="/images/default-source/icons/social-icons/twitter.png?sfvrsn=2" data-mobile-bg-image="/images/default-source/icons/social-icons/twittermobile.png?sfvrsn=2" href="http://twitter.com/tropicana"></a>
-    <a class="content__social-icons__icon instagram" data-fullsize-bg-image="/images/default-source/icons/social-icons/instagram.png?sfvrsn=2" data-mobile-bg-image="/images/default-source/icons/social-icons/instagrammobile.png?sfvrsn=2" href="https://instagram.com/trop_oj/"></a>
-    <a class="content__social-icons__icon youtube" data-fullsize-bg-image="/images/default-source/icons/social-icons/youtube.png?sfvrsn=2" data-mobile-bg-image="/images/default-source/icons/social-icons/youtubemobile.png?sfvrsn=2" href="https://www.youtube.com/user/TropicanaOJ1"></a>
+    <a class="content__social-icons__icon facebook" target="_blank" data-fullsize-bg-image="/images/default-source/icons/social-icons/facebook-desktop.png?sfvrsn=6" data-mobile-bg-image="/images/default-source/icons/social-icons/facebook-mobile.png?sfvrsn=6" href="https://www.facebook.com/Tropicana/"></a>
+    <a class="content__social-icons__icon twitter" target="_blank" data-fullsize-bg-image="/images/default-source/icons/social-icons/twitter.png?sfvrsn=2" data-mobile-bg-image="/images/default-source/icons/social-icons/twittermobile.png?sfvrsn=2" href="http://twitter.com/tropicana"></a>
+    <a class="content__social-icons__icon instagram" target="_blank" data-fullsize-bg-image="/images/default-source/icons/social-icons/instagram.png?sfvrsn=2" data-mobile-bg-image="/images/default-source/icons/social-icons/instagrammobile.png?sfvrsn=2" href="https://instagram.com/trop_oj/"></a>
+    <a class="content__social-icons__icon youtube" target="_blank" data-fullsize-bg-image="/images/default-source/icons/social-icons/youtube.png?sfvrsn=2" data-mobile-bg-image="/images/default-source/icons/social-icons/youtubemobile.png?sfvrsn=2" href="https://www.youtube.com/user/TropicanaOJ1"></a>
 </div>
             <div id="footer_T0FB20850029_Col03" class="sf_colsIn col-md-8 col-md-offset-2" data-placeholder-label="Legal">
   
