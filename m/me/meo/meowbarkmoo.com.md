@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meowbarkmoo.com privacy policy that was archived on 2016-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160905232828id_/http%3A//meowbarkmoo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meowbarkmoo.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517155958id_/http%3A//meowbarkmoo.com/privacy.php) for the most accurate reproduction.*
 
-# MEOWBARKMOO.COM
+# Meow Bark Moo
 
 **_PRIVACY POLICY_**
 
@@ -83,8 +83,8 @@ _Ask a Question about Privacy Policy_
 If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please contact our Privacy Policy Administrator at:  
 SFG Media Group, LLC  
 Attention: Privacy Policy  
-235 Pine Street, Suite 1800  
-San Francisco, CA 94104 
+1 Bluxome Street, Unit 416  
+San Francisco, CA 94107 
 
 _Policy Regarding Children Under 13_
 
