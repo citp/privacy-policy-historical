@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voat.co privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116085422id_/https%3A//voat.co/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voat.co privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518005931id_/http%3A//voat.co/help/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -17,5 +17,3 @@ Only This privacy policy applies only to our online activities and is valid for 
 By using our website, you hereby consent to our privacy policy and agree to its terms. 
 
 This Privacy Policy was last updated on: May 16th, 2015. Should we update, amend or make any changes to our privacy policy, those changes will be posted here. 
-
-Cookies help us deliver our services. By using our services, you agree to our use of cookies. 
