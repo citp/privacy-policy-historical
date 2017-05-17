@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainiacdating.com privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914172353id_/http%3A//brainiacdating.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainiacdating.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517161550id_/http%3A//brainiacdating.com/privacy.php) for the most accurate reproduction.*
 
 # Brainiac Dating - smart singles unite!
 
