@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the usip.org privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126223005id_/http%3A//www.usip.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usip.org privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517040322id_/https%3A//www.usip.org/legal/privacy) for the most accurate reproduction.*
 
 # Legal/Privacy Information | United States Institute of Peace
+
+USIP takes the safeguarding of your personal information seriously. We do not require you to provide any personal information to access and browse our website or to use most of our online services. 
 
 ## Privacy Policy
 
