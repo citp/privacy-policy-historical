@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theninehertz.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123022018id_/http%3A//theninehertz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theninehertz.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517145608id_/http%3A//theninehertz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - The NineHertz
 
 ## Privacy Policy
 
@@ -8,12 +8,12 @@ We place a lot of importance to your privacy at Nine Hertz. We take considerable
 
 ## The Kind of Information We Collect
 
-We clearly express our intent when we collect information such as:
+We clearly express our intent when we collect information such as
 
-  * __Name of the organization and contact person
-  * __Address
-  * __Phone numbers
-  * __Electronic mail identity, etc.
+  * Name of the organization and contact person
+  * Address
+  * Phone numbers
+  * Electronic mail identity, etc.
 
 
 
