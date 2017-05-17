@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flexypussy.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604034741id_/http%3A//www.21sextury.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexypussy.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517163945id_/http%3A//www.21sextury.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -61,4 +61,4 @@ This policy does not apply to any linked websites to 21sextury. Please consult t
 
 By using/navigating 21sextury Users acknowledge they have read, understood and agree to be bound by this privacy policy and the terms and conditions of 21sextury. Headings are for ease of reference only.
 
-Feel free to contact Us at Gamma Entertainment, 3300 Boulevard Cote Vertu, Suite 406, Montreal, QC, H4R 2B7, Canada. [**support@famesupport.com**](mailto:support@famesupport.com) , online chat or by telephone at 1-877-711-7334. Any questions regarding credit card or other billing matters, please feel free to contact Epoch 
+Feel free to contact Us at Gamma Entertainment, 3300 Boulevard Cote Vertu, Suite 406, Montreal, QC, H4R 2B7, Canada. [**support@famesupport.com**](mailto:support@famesupport.com) , online chat or by telephone at 1-877-711-7334. Any questions regarding credit card or other billing matters, please feel free to contact Chargepay B.V. at chargepay.net 
