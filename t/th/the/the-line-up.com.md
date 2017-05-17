@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the the-line-up.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120141805id_/http%3A//www.openroadmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-line-up.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517124938id_/http%3A//www.the-line-up.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Open Road Media
+# Privacy Policy | The Lineup
 
 Open Road Integrated Media, Inc. (“Open Road Media”) respects your privacy. Therefore, we created this Privacy Policy to demonstrate our firm commitment to your privacy and to help you understand how your information is collected and used and make informed decisions regarding your information.
 
