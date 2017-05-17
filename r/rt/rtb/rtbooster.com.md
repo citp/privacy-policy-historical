@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtbooster.com privacy policy that was archived on 2016-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160731072749id_/http%3A//rtbooster.com/english/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtbooster.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517202919id_/http%3A//rtbooster.com/english/privacy.html) for the most accurate reproduction.*
 
 # Booster.DCA: Privacy Policy
 
