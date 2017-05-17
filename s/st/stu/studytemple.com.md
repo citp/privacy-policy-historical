@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studytemple.com privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820165607id_/http%3A//www.studytemple.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studytemple.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518015856id_/http%3A//www.studytemple.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Study Temple - Information Heaven
 
