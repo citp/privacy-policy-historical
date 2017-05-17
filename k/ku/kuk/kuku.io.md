@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kuku.io privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812233453id_/https%3A//kuku.io/pdf/KukuPP.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuku.io privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517092258id_/https%3A//kuku.io/pdf/KukuPrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,13 +57,13 @@ comply with the law, enforce our site policies, or protect ours or others rights
 However, non-personally identifiable visitor information may be provided to other parties for
 marketing, advertising, or other uses.
 If at any time you would like to unsubscribe from receiving future emails, you can email us at
-team@kuku.io, and we will promptly remove you from ALL correspondence.
+support@kuku.io, and we will promptly remove you from ALL correspondence.
 Contacting Us
 If there are any questions regarding this privacy policy you may contact us using the information
 below.
-http://kuku.io
+https://kuku.io
 16 Bersona Street
 Minsk, Minsk 220030
 Belarus
-team@kuku.io
+support@kuku.io
 +375172000340
