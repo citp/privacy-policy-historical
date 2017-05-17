@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shredesign.com privacy policy that was archived on 2016-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160712113737id_/http%3A//www.shredesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shredesign.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517054018id_/http%3A//www.shredesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shre Design
 
