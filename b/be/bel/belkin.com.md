@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belkin.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206235146id_/http%3A//www.belkin.com/us/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belkin.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517091005id_/http%3A//www2.belkin.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Belkin Privacy Policy
 
