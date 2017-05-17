@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commissionfactory.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228222005id_/http%3A//www.commissionfactory.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commissionfactory.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517021754id_/http%3A//www.commissionfactory.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -126,18 +126,14 @@ Information on our Partners (Publishers, Advertisers and Agencies) may be shared
 
 We may share anonymous customer and buying information or information that we have made anonymous with our third party providers to provide information for analytics, website usage or for other retail purposes such as increasing the accuracy and functionality of retargeting and remarketing services. 
 
-Non Personally Identifiable Information (PII) about site visitors and buyers is collected by our data partner Ve Interactive Ltd and is used to analyse purchasing behaviour in order to determine which products and offers are most relevant. The analysis uses de-identified information but includes info such as basket contents, URL, date, time, gender, location, age and any offers used by the customer. 
-
 Further information that may be collected includes: 
 
   * URLs (website addresses) of the pages of the client’s website the user visited and their activities on the website or app (e.g. products they looked at or bought) 
-  * Using cookies, beacons, tags and anonymous mobile identifiers CF and our partners collect information on the user’s device, browser software and operating system, IP (Internet protocol) address, a unique number assigned to their device, referring site URL, time of browsing. 
+  * Information about the user’s device, browser software and operating system, IP (Internet protocol) address, a unique number assigned to their device, referring site URL, time of browsing 
 
 
 
-The Ve Interactive Ltd tracking is installed at the time of the Commission Factory tracking container tag. To view the Privacy Policy of our Partner Ve Interactive Ltd click here. [<https://www.veinteractive.com/us/about-us/legal-policies/privacy-policy/>] 
-
-Commission Factory does not collect or require information about identifiable individuals that purchase from your site, but we may be provided with aggregate information about your customers (for example, we may be informed that 500 men aged under 30 have purchased on your site on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target through Publishers. 
+Commission Factory does not collect or require information about identifiable individuals that purchase from your site. 
 
 ##  Commission Factory has a privacy complaints process 
 
@@ -157,4 +153,4 @@ Our Privacy Officer will endeavour to:
 
 Commission Factory reserves the right to change this Policy at any time, and any amended Policy is effective upon posting to this Website. Commission Factory will make every effort to communicate any significant changes to You via email or notification via the Service. Your continued use of the Service will be deemed acceptance of any amended Policy. 
 
-##  Last updated: September 2016 
+##  Last updated: April 2017 
