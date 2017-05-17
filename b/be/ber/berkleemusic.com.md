@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berkleemusic.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203200932id_/https%3A//online.berklee.edu/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berkleemusic.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517065532id_/https%3A//online.berklee.edu/about/privacy) for the most accurate reproduction.*
 
 # Berklee Online - Music Degree, Certificates, Courses
 
