@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popcash.net privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208234550id_/http%3A//popcash.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popcash.net privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517223200id_/http%3A//popcash.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PopCash.Net
 
