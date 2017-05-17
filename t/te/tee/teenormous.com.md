@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenormous.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212115221id_/http%3A//teenormous.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenormous.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517145419id_/http%3A//teenormous.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy information for Teenormous.com
 
