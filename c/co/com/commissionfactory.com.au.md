@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commissionfactory.com.au privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619084957id_/http%3A//www.commissionfactory.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commissionfactory.com.au privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517021754id_/http%3A//www.commissionfactory.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -120,6 +120,21 @@ Commission Factory sends billing information, product information, Service updat
 
 The Service may allow You, the Subscriber, or another Invited User within the relevant subscription to the Service to transfer Data, including Your personal information, electronically to and from third-party applications. Commission Factory has no control over, and takes no responsibility for, the privacy practices or content of these applications. You are responsible for checking the privacy policy of any such applications so that You can be informed of how they will handle personal information. 
 
+##  Do We Share Your Information? 
+
+Information on our Partners (Publishers, Advertisers and Agencies) may be shared with your permission to third parties that can extend the functionality of your marketing activities and the Commission Factory network. 
+
+We may share anonymous customer and buying information or information that we have made anonymous with our third party providers to provide information for analytics, website usage or for other retail purposes such as increasing the accuracy and functionality of retargeting and remarketing services. 
+
+Further information that may be collected includes: 
+
+  * URLs (website addresses) of the pages of the client’s website the user visited and their activities on the website or app (e.g. products they looked at or bought) 
+  * Information about the user’s device, browser software and operating system, IP (Internet protocol) address, a unique number assigned to their device, referring site URL, time of browsing 
+
+
+
+Commission Factory does not collect or require information about identifiable individuals that purchase from your site. 
+
 ##  Commission Factory has a privacy complaints process 
 
 If You wish to complain about how we have handled Your personal information, please provide our Privacy Officer with full details of Your complaint and any supporting documentation: 
@@ -138,4 +153,4 @@ Our Privacy Officer will endeavour to:
 
 Commission Factory reserves the right to change this Policy at any time, and any amended Policy is effective upon posting to this Website. Commission Factory will make every effort to communicate any significant changes to You via email or notification via the Service. Your continued use of the Service will be deemed acceptance of any amended Policy. 
 
-##  Last updated: March 2014 
+##  Last updated: April 2017 
