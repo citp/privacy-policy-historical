@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wittner.com.au privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205001440id_/http%3A//www.wittner.com.au/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wittner.com.au privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517173625id_/https%3A//www.wittner.com.au/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,6 +13,12 @@ We will only collect personal information if it is necessary for us to carry out
 You may provide us with personal information about yourself each time you contact us via phone, email or fax or when processing an online order or subscribing to our VIP club. We may collect information such as; your name, contact details, some personal details and any other information you supply to us.
 
 We obtain this information to provide you with information about our products and services and to also better understand our customers.
+
+## PROMOTIONAL EMAILS
+
+Wittner Co membership entitles you to receive exclusive product updates, sale alerts and styling information.
+
+If you would like to stop receiving our email communications you can unsubscribe by selecting 'Unsubscribe' at the bottom of the promotional email, and selecting the 'Unsubscribe' button within our preference centre. 
 
 ## SECURITY AND ACCESS OF PERSONAL INFORMATION
 
@@ -39,3 +45,9 @@ Phone: 03 9428 1900
 Facsimile: 03 9428 1933 
 
 Email: [support@wittner.com.au](mailto:support@wittner.com.au)
+
+Wittner Australia Pty Ltd ACN 005 014 531
+
+127-129 Cremorne Street,
+
+Cremorne, VIC, 3121
