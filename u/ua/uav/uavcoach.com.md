@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uavcoach.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120102605id_/http%3A//uavcoach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uavcoach.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517091905id_/http%3A//uavcoach.com/privacy) for the most accurate reproduction.*
 
-# Your Privacy Rights | UAV Coach
+# Privacy Policy - UAV Coach
 
 _Effective Date: **July 29, 2016**_
 
@@ -126,10 +126,7 @@ UAV Coach may include or offer third party products or services on the Website a
 
 All questions and concerns regarding this Privacy Policy may be submitted to UAV Coach at the following location:
 
-Makalu Ventures, LLC
-
-61 7th Avenue South Apt. H
-
-New York, NY 10014
+746 Harpeth Knoll Road  
+Nashville, TN 37221
 
 A copy of any such notice must be emailed to [support@uavcoach.com](mailto:support@uavcoach.com), but email notice alone shall not comply with the notice requirements of this Agreement.
