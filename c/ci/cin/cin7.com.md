@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cin7.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129225215id_/https%3A//www.cin7.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cin7.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517082032id_/https%3A//www.cin7.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cin7
 
@@ -20,6 +20,8 @@ You must obtain the consent of any third person whose personal information You p
  **Security**
 
 When we collect personal information we will take reasonable steps to keep that information secure and to protect it from misuse or loss and from unauthorised access, modification or disclosure. Personal information You provide to us is stored on a secure server and we use secure firewalls. Please note however that total security of data transmission over the internet cannot be guaranteed as being completely secure. Hence, we cannot guarantee and we do not warrant the security of information transmitted to us over the internet and You acknowledge that You use the Services and provide information at Your own risk.
+
+We work hard to ensure all customer data is kept safe and we follow industry best practice in this regard. If we become aware of a data breach that we consider could compromise customer security, our policy is to report this to the affected customers at the earliest opportunity. We may also report the breach publicly, where we consider it is appropriate to do so.
 
  **Use of information**
 
