@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feelalive.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204064048id_/http%3A//feelalive.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feelalive.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517230200id_/http%3A//www.feelalive.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Alive!
 
