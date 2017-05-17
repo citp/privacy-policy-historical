@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hotelquickly.com privacy policy that was archived on 2016-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160815035749id_/https%3A//www.hotelquickly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelquickly.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517114404id_/https%3A//www.hotelquickly.com/privacy) for the most accurate reproduction.*
 
-# Privacy - HotelQuickly
+# Privacy – HotelQuickly
 
 ### General statement of policy
 
-This Privacy Policy (“policy”) is made in accordance with the Personal Data (Privacy) Ordinance (Chapter 486) of the Laws of the Hong Kong Special Administrative Region of The People’s Republic of China. This policy explains how personally identifiable information is collected, used and disclosed by Hotel Quickly (“Hotel Quickly”, “we” or “us”) with respect to your access and use of Hotel Quickly’s iOSTM application, AndroidTM application, BlackberryTM application, mobile web application and the website located at www.hotelquickly.com (“Application”) and the booking and related services offered through the Application (“Service”). The information collected will be used for the processing of purchase orders and account management.
+This Privacy Policy (“policy”) is made in accordance with the Personal Data (Privacy) Ordinance (Chapter 486) of the Laws of the Hong Kong Special Administrative Region of The People’s Republic of China. This policy explains how personally identifiable information is collected, used and disclosed by Hotel Quickly (“Hotel Quickly”, “we” or “us”) with respect to your access and use of Hotel Quickly’s iOSTM application, AndroidTM application, BlackberryTM application, mobile web application and the website located at www.hotelquickly.com and any derivative of the website accessed through metasearch or affiliate partners (collectively, the “Application”) and the booking and related services offered through the Application (“Service”). The information collected will be used for the processing of purchase orders and account management.
 
 ### Statement of data collection practices
 
@@ -20,15 +20,15 @@ Device Specific Information: We may collect device-specific information related 
 
 ### Purposes for which personal data are collected and used.
 
-Personally identifiable information collected through the Service may be used in the following manner:
+Personally identifiable information collected through the Service may be used in the following manner:
 
-  1. To process and complete transactions related to the Service;
-  2. To solicit feedback and/or to contact about the Service;
+  1. To process and complete transactions related to the Service;
+  2. To solicit feedback and/or to contact about the Service;
   3. To respond to your emails, questions, comments, requests and complaints, and to provide customer service;
   4. To monitor and analyze Service usage and trends;
   5. To personalize and improve the Service;
-  6. To provide users with news and information, or third-party events, offers, promotions and services;
-  7. To provide  confirmations, updates, security alerts and support and administrative messages;
+  6. To provide users with news and information, or third-party events, offers, promotions and services;
+  7. To provide  confirmations, updates, security alerts and support and administrative messages;
   8. To notify you about important changes to the Service; and
   9. For any other purpose for which the information was collected.
 
@@ -61,13 +61,14 @@ Hotel Quickly assumes no liability for the actions of Service Providers or other
 Hotel quickly will not knowingly share the personally identifiable information we collect from you through the Service with third-parties, except as provided herein. We may share personally identifiable information as follows:
 
   1. With vendors, consultants, and other service providers (“Service Providers”) working with us in connection with the operation of the Service;
-  2. With hotels where you have purchased a hotel room through the Service;
-  3. With your explicit consent to share information with a Third Party;
-  4. In an aggregated or anonymized form;
-  5. When necessary comply with legal processes or to respond to lawful requests or legal authorities including, but not limited to, responding to lawful subpoenas, warrants, or court orders;
-  6. When we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to protect the rights, property, or safety of Hotel Quickly, our users, our employees, copyright owners, third-parties or the public including, but not limited to, protecting Hotel Quickly or our users from fraudulent, abusive, inappropriate, or unlawful use of the Service;
-  7. To enforce or apply this Policy, the Terms, or our other policies or agreements; and
-  8. In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where personally identifiable information may be disclosed or transferred as one of the business assets of Hotel Quickly.
+  2. With metasearch and/or affiliate corporate partners working with us in connection with the operation of the Service;
+  3. With hotels where you have purchased a hotel room through the Service;
+  4. With your explicit consent to share information with a Third Party;
+  5. In an aggregated or anonymized form;
+  6. When necessary comply with legal processes or to respond to lawful requests or legal authorities including, but not limited to, responding to lawful subpoenas, warrants, or court orders;
+  7. When we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to protect the rights, property, or safety of Hotel Quickly, our users, our employees, copyright owners, third-parties or the public including, but not limited to, protecting Hotel Quickly or our users from fraudulent, abusive, inappropriate, or unlawful use of the Service;
+  8. To enforce or apply this Policy, the Terms, or our other policies or agreements; and
+  9. In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where personally identifiable information may be disclosed or transferred as one of the business assets of Hotel Quickly.
 
 
 
