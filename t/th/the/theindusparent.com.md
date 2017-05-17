@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theindusparent.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119065751id_/http%3A//www.theindusparent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theindusparent.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517124409id_/http%3A//www.theindusparent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy applies to all information collected by Tickled Media (India) Pvt. Ltd and/or its related entities, affiliates and subsidiaries (individually and collectively, “Tickled Media”) under Clause 1 below.
+This Privacy Policy applies to all information collected by Tickled Media (India) Pvt. Ltd and/or its related entities, affiliates and subsidiaries (individually and collectively, "Tickled Media") under Clause 1 below.
 
-For the purpose of this Policy, “we” and “our” shall refer to Tickled Media.
+For the purpose of this Policy, "we" and "our" shall refer to Tickled Media.
 
 **1.** **When is information collected from you?**  
 1.1 When you register for or use any of our services on websites owned and/or operated by us.  
@@ -25,8 +25,8 @@ For the purpose of this Policy, “we” and “our” shall refer to Tickled Me
 
 2.2 In the event that you participate in contests or other promotional programs on our websites sponsored or organized by third parties or purchase goods and services offered by third parties or offer goods and services to third parties on our sites, your information may be disclosed to and used by such third parties.  
 **3.** **Use of cookies**  
-3.1 TICKLED MEDIA uses “cookies”, where a small data file is sent to your browser to store and track information about you when you enter our websites.  The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites.  
-3.2 Like many web site operators, TICKLED MEDIA may use an independent company (the “Third Party Market Research Company”) to measure and analyse Internet usage across TICKLED MEDIA web sites.  TICKLED MEDIA uses the Third Party Market Research Company’s services to collect the following information on the usage of our web sites, including:
+3.1 TICKLED MEDIA uses "cookies", where a small data file is sent to your browser to store and track information about you when you enter our websites.  The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites.  
+3.2 Like many web site operators, TICKLED MEDIA may use an independent company (the "Third Party Market Research Company") to measure and analyse Internet usage across TICKLED MEDIA web sites.  TICKLED MEDIA uses the Third Party Market Research Company's services to collect the following information on the usage of our web sites, including:
 
 3.2.1 The number of page views (or page impressions) that occur on TICKLED MEDIA web sites;  
 3.2.2 The number of unique visitors to TICKLED MEDIA web sites;  
