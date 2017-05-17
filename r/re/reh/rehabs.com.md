@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rehabs.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225044752id_/http%3A//www.rehabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rehabs.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517112315id_/http%3A//rehabs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rehabs and Drug Rehab Options
 
@@ -70,8 +70,8 @@ If you have questions or concerns about this Privacy Policy, you can contact us 
 
 For those seeking addiction treatment for themselves or a loved one, the Rehabs.com help line is a private and convenient solution. Caring advisors are standing by 24/7 to discuss your treatment options. 
 
-**Calls to any general helpline (non-facility specific 1-8XX numbers) for your visit will be answered between the hours of 5:00am and 9:00pm Pacific by American Addiction Centers (AAC) and outside of those hours by one of our paid treatment center sponsors.**
+**Calls to any general helpline (non-facility specific 1-8XX numbers) for your visit will be answered by American Addiction Centers (AAC).**
 
-If you wish to connect with non-sponsor centers, you can browse [top-rated listings](http://www.rehabs.com/top-rated-treatment-centers/), visit our [homepage](http://www.rehabs.com/) and browse by state, or visit [SAMHSA](http://www.samhsa.gov/treatment/index.aspx). 
+If you wish to connect with a specific rehab center, you can browse [top-rated listings](https://web.archive.org/top-rated-treatment-centers/), visit our [homepage](https://web.archive.org/) and browse by state, or visit [SAMHSA](http://www.samhsa.gov/treatment/index.aspx). 
 
 To find out more about how Rehabs.com works, [visit our FAQ](http://www.rehabs.com/faq/). 
