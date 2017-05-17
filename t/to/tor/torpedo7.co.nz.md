@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torpedo7.co.nz privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203122659id_/http%3A//www.torpedo7.co.nz/content/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torpedo7.co.nz privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517171352id_/https%3A//www.torpedo7.co.nz/content/privacypolicy.html) for the most accurate reproduction.*
 
 # Torpedo7 NZ - Terms & Conditions
 
@@ -118,7 +118,7 @@ While we use cookies to improve our customers' on-line experience, if you do not
 
 ### 7\. WHAT MAY WE DO WITH YOUR PERSONAL INFORMATION?
 
-We may use the information we collect to help us to provide products and services to you, to verify your identity, and to occasionally notify you about important functionality changes to our website. 
+We may use the information we collect to help us to provide products and services to you, to verify your identity, and to occasionally notify you about important functionality changes to our website or loyalty club. 
 
 We may send you marketing communications and information about products and services that we consider may be of interest to you. These communications may be sent in various forms, including but not limited to, mail, SMS or email, in accordance with applicable marketing laws. 
 
