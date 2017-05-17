@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cash2flow.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208230724id_/http%3A//cash2flow.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cash2flow.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517043326id_/http%3A//cash2flow.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
