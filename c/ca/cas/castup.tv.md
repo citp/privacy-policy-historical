@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the castup.tv privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615032727id_/http%3A//castup.tv/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castup.tv privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517180001id_/http%3A//www.castup.tv/policy) for the most accurate reproduction.*
 
-# Castup.tv - The largest streaming platform for live streaming , live broadcasting and more...
+# Castup.tv - The largest streaming myp2p platform for live streaming , live broadcasting and more...
 
 Castup.tv is committed to protecting your privacy when you use the Castup.tv website. This Privacy Policy informs you of the types of information Castup.tv collects about you, how that information is used, whether and to whom Castup.tv discloses it, and the choices you have regarding your personal information. Please read carefully. 
 
