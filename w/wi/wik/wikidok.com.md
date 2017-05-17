@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wikidok.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121201853id_/http%3A//wikidok.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikidok.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517022300id_/http%3A//wikidok.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – WikiDok
+# Privacy Policy
 
 Wikidok understands how important privacy is for our readers. We encourage you to take the time to read the entire privacy policy.
 
