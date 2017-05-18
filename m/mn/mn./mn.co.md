@@ -1,102 +1,177 @@
-> *The following text is extracted and transformed from the mn.co privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111075142id_/http%3A//www.neustar.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mn.co privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518073144id_/https%3A//mightynetworks.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy | Neustar
+# Privacy Policy
 
-**Highlights of the Neustar Privacy Policy**
+###### Last updated: April 4, 2017
 
-_Updated: September 26, 2016_
+* * *
 
-Neustar uses Personal Information to support data-driven decision-making and deliver personalized content without sacrificing personal privacy. These “Highlights” summarize Neustar’s privacy practices. You can learn more by clicking on the links below, and by reviewing the [Neustar Privacy Policy](https://web.archive.org/privacy/privacy-policy) and [Privacy Principles](https://web.archive.org/privacy/privacy-principles)
+### Our policy
 
-### Our Commitment – Privacy by Design
+Welcome to Mighty Networks. Our Service enables people to create or participate in an online, niche social network dedicated to a specific interest, profession, or topic (a “Network”). People who use Mighty Networks (“Users”) have the opportunity to create a Network to connect with each other, to message, and to exchange information and content. Users who create Networks are “Hosts.” Hosts tailor their Network for Users by who they invite, what conversations they organize, what they call their Network, and additional branding they may choose to use. A Network also contains groups (“Circles”) that further organize Users. Unless otherwise defined here, capitalized words have the same meaning as in the Mighty Networks [Terms of Use](https://mightynetworks.com/terms_of_use), which incorporates this Privacy Policy by reference. 
 
-We follow the [Neustar Privacy Principles](https://web.archive.org/privacy/privacy-principles), including the principle of Privacy by Design, to design, build, and deliver products and services that respect your privacy.
+This Privacy Policy describes how Mighty Software, Inc. (“we”) obtains and uses information about you and your use of the Service. To offer the personalized experience of a niche Network, we collect personal information about you (“Personal Data”). This policy describes how we collect, use and share your Personal Data with your Host and others in connection with your use of the Service. By voluntarily providing us with Personal Data, you are consenting to our use and disclosure as described in this Privacy Policy. All visitors to our website Service are Users. The Users who register with the Service and join a Network are “Members.”
 
-### Personal Information Collection, Use, and Disclosure
+### I. Information we collect and how we use it
 
-We collect [Personal Information](https://web.archive.org/privacy/privacy-policy#personal-info) from you directly and from businesses that use our products and services. We use registration data, including Personal Information, supplied by our online [Match Partners](https://web.archive.org/privacy/privacy-policy#match-partners) to set [AdAdvisor Cookies](https://web.archive.org/privacy/privacy-policy#cookies) and/or [Aggregate Knowledge Cookies](https://web.archive.org/privacy/privacy-policy#cookies), which do not contain or convey Personal Information. Finally, we collect and use Personal Information and other demographic data from a variety of sources such as telephone directories, the US Postal Service, the Census Bureau, and from other third parties. We do not use Sensitive Personal Information without your permission.
+When you interact with us through the Service, we may collect Personal Data and other information from you (collectively, “Data”), as further described below. We collect Personal Data when you share it voluntarily. We collect anonymous information automatically. We and your Network Hosts use your Personal Data and anonymous information to understand Members of a Network, provide and improve the Service, and to inform you about products and services that may be of interest to you. For clarity, Data does not include Your Content or User Generated Content.
 
-Read our full [Privacy Policy](https://web.archive.org/privacy/privacy-policy) or click on the links below to learn more about the Personal Information we collect and how we use it:
+### A. Personal data you provide directly
 
-  * [Data Collected On Our Websites](https://web.archive.org/privacy/privacy-policy#info-you-provide)
-  * [Data Collected and Used to Provide Neustar Products and Services](https://web.archive.org/privacy/privacy-policy#data_in_products_services)
-  * [Other Use and Disclosure of Personal Information](https://web.archive.org/privacy/privacy-policy#other-use)
+Some Personal Data is considered “personally identifiable information” or “PII.” An example is your name. Not all Personal Data is PII. An example of Personal Data that is not PII is your profession. We store and use your Personal Data together with your PII, along with a user ID we assign each time you join a Network, so that we can personalize your experience.
 
+**Name and Email Address.** When you register as a Member of the Service, we ask you for your real name and your email address. Both we and your Network Host receive access to this information and use it to communicate with you about the Service. In addition, we or your Network Hosts may use this address to email you about products or services believed to be of interest to you. 
 
+**Profiles and Topics.** When you join a Network, you may be prompted to add a profile, including a short bio, and to choose topics to follow (“Topics”). From this information, Mighty Networks personalizes your activity feed. 
 
-### Cookies, Advertising IDs and Other Technologies
+**Your Location.** We may ask you for your location so that we can facilitate interactions with other Members in your geographic area. In addition, our mobile app may collect your GPS location information. If you choose to enable location features, other Members may be able to see your location. 
 
-Neustar may use [cookies](https://web.archive.org/privacy/privacy-policy#cookies), [web beacons](https://web.archive.org/privacy/privacy-policy#web-beacons), [pixel tags](https://web.archive.org/privacy/privacy-policy#pixel-tags), javascript, HTML5 local storage, or similar technologies, along with other information described in our Privacy Policy to enhance and personalize your experience on our sites and to manage and enable preferences, transactions and related uses of Neustar services and information. In addition, we use Mobile Advertising IDs, also known as IDFA or IFA, in connection with [PlatformOneSM](https://web.archive.org/marketing/platformone) and other marketing services. Third parties with whom we partner may use cookies, web beacons, pixel tags, javascript, HTML5 local storage, or Flash LSOs to help us understand how visitors interact with our website or to deliver content, such as videos, or to personalize ads you see online based on your visits to our website.
+**Other Personal Data You Provide Directly.** You may also provide us Personal Data when you use certain features of the Service, contact us with inquiries, or respond to one of our surveys. 
 
-Read our full [Privacy Policy](https://web.archive.org/privacy/privacy-policy) or click on the links below to learn more about the technologies we use:
+### B. Personal data provided through integrated services
 
-  * [Website Cookies](https://web.archive.org/privacy/privacy-policy#cookies)
-  * [Analytics and Segmentation Cookies](https://web.archive.org/privacy/privacy-policy#segment-codes)
-  * [Mobile Advertising IDs](https://web.archive.org/privacy/privacy-policy#mobile-advertising-id)
+You have the option of registering using an Integrated Service, such as Facebook. If you choose to do this, your profile picture and other Personal Data in your profile on the Integrated Service will become part of your profile on Mighty Networks. Please see the section below on Integrated Services for more detail.
 
+### C. Information we collect automatically
 
+**Information about your use of the Service.** Our servers automatically record your visits to the Service. Like all other website and mobile app servers, ours compiles a log that records the date, time, browser (i.e., Firefox), device type (i.e., iPhone), operating system (i.e. Android) and originating IP address of each page request. Your IP address is not personally-identifiable information. 
 
-### Transparency and Choice; Opt-Out
+We use cookies to collect the following information about your visit to our website Service: which website or ad you visited right before ours, which pages you visited on our Service, and how much time you spent on each section of our Service. We may also collect other data about your visit, such as search requests and results. We use this information to track usage of our Service, to measure the number of unique visitors to the different sections of our Site, to understand how Members find and join Networks and Circles, and to help us make our Service more useful. The use of this information is called “analytics.” Often information used for analytics is aggregated.
 
-##### Cookies
+Our mobile app has to interact with our servers. We assign your device a token so that you do not have to log in every time you use the Service via the app.
 
-  * You can opt out of the use of [AdAdvisor Cookies](https://web.archive.org/privacy/privacy-policy#cookies) and [AK Cookies](https://web.archive.org/privacy/privacy-policy#cookies) for Neustar Marketing Services on the [Opt-Out page](https://web.archive.org/privacy/opt-out) of our website.
-  * You can also opt out of the use of AdAdvisor Cookies and AK Cookies for Neustar Marketing Services by using the Digital Advertising Alliance (DAA) tool on the <http://www.aboutads.info/choices/> page.
-  * You can opt out of interest-based advertising served by companies that participate in the Digital Advertising Alliance's Consumer Choice tool by visiting <http://aboutads.info/choices>.
+“Cookies” are data files, which often include an anonymous unique identifier, sent to your hard drive from a website. Cookies can only be read by the party placing the cookie. They cannot erase or alter any of your data. When you visit the website again using the same browser (Google Chrome or Safari, for example), the cookie allows that website to recognize your computer. Cookies may store Member preferences (such as your Networks) and other information, and allow us to anonymously identify and track Users as they move around our online Service. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some of our Service features may not function properly without cookies. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies enabled so that we can offer you the best experience. For more information about cookies visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). 
 
+**Information About Your Location.** From your IP address, we can tell generally where you are when you are accessing our Service, i.e., which city. 
 
+### D. Information third parties collect automatically
 
-##### Mobile Advertising IDs
+**Third-Party Cookies for Site Use Analysis.** We use third parties such as Google to help us analyze how people are using our Service. We also use the Google Analytics service to provide us with demographic data about our Users, such as age and gender, on an anonymous basis. That Google service uses a cookie that can be recognized by Google or its affiliate DoubleClick when you visit other websites. 
 
-  * Apple’s iOS IDFA can be reset by the user at any time. Users can opt out of all remarketing by enabling a device setting called "Limit Ad Tracking" (LAT), which restricts advertisers from using the IDFA for behavioral advertising. You can learn how to limit ad tracking on your iOS device or to reset your IDFA here: [IDFA Opt-Out](http://support.apple.com/kb/HT4228).
-  * Similar to IDFA for Apple devices, Android devices pass Google Advertising ID, which provides the same type of device-specific, unique, resettable ID for advertising as Apple IDFA or IFA. You can learn more about how identifiers on mobile are used for advertising and receive instruction for how to opt out of mobile advertising on the [Google Privacy & Terms](http://www.google.com/policies/technologies/ads/) webpage.
+**Third-Party Cookies Used to Target Ads to You When You are on Other Websites.** “Beacons” are transparent pixel images that are used in collecting information about website usage across websites and over time. We may work with other companies who use their cookies or beacons to target Mighty Networks or Host ads to you when you visit other websites. You may also see third party ads on our Service that are targeted to you based on the subject matter of your Network or Topics. Finally, you may see ads on our Service based on your prior visits to other websites, or you may see ads on third party websites based on your prior visits to our website Service. This is called online behavioral advertising (“OBA”), because you receive ads based on your prior online behavior. For example, when you visit our website Service you may receive a cookie on your browser that is read when you visit CNN.com using that same browser, so that during your visits to the CNN website you might receive advertising based on the pages you visited on our website Service. We do not have access to these cookies; it is third parties who engage in OBA. 
 
+### II. Our disclosure of your personal data and other information
 
+We consider personal information to be a vital part of our relationship with you. We want you to understand what Personal Data gets shared with your Hosts, other Members of your Networks, other Users of our website Service, and other third parties as part of the Service. If you are not comfortable with this type of sharing, you should not use the Service.
 
-Please note that opting out does not mean you will block online advertising altogether or see fewer ads. It simply means that the ads that you see will not be personalized for you. Ads may be served because they relate to the website you are visiting or to your current search, or they may just be randomly placed.
+### A. Personal data shared within the service
 
-Your choice to opt out from the use of AK and AdAdvisor cookies will not affect ads placed by any other organization.
+**Your Host.** Your Host, or Hosts if are there more than one, will have access to your name, email address, and all personal or contact information that you provide at registration. In order to facilitate Member engagement, our Host will also have access to Data regarding your usage activity, in both aggregated and personally identifiable forms. For example, Hosts will be able to see aggregated Member activity within a Network, as well as specific information like how many people cheered in response to a comment you made. Your Host also will be able to associate Your Content, and any personal information it contains, with your contact information. Your Hosts may communicate with you outside of the Service about the Network or relevant topics of interest to you, and may retain your personal information after you leave the Network. Therefore, you should only join a Network if you are comfortable sharing your personal information with the Hosts. 
 
-We comply with opt-out requests by placing an “opt-out cookie” on your computer or device. Consequently, if you clear your cookies on that computer or device, we will not be able to read our “opt-out cookie” and will resume collecting information from that computer or device for purposes of retargeting. Similarly, an opt-out request will not be effective on other browsers, computers, or devices you may use if you have not opted out while using that browser, computer, or device.
+**Searching and Messaging by Others.** Users of the Service may be able to search for you by your name and location. Members of your Network may be able to also search for you by interests, Topics, or other personal information so that they may message you within the Service. Whether your information is available to other Users in this way depends on whether the Network is Public, Private, or Secret. 
 
-### Accountability
+**Public, Private, vs. Secret Networks.** Your Host can select whether to create a Public, Private, or Secret Network. In the case of Public Network, all Users can see the name and photo (“Profile”) of Members, as well their posts, and anyone can find the Network. In a Private Network, only other Network Members can see the Profiles of Members, as well as their posts, and all Users can find the Network. In the case of a Secret Network, only other Network Members can see the Profiles of Members, as well as their posts, and only Network Members can find the Network. 
 
-Neustar is a member of the [Network Advertising Initiative](https://www.networkadvertising.org/) (“NAI”) and the [Digital Advertising Alliance](http://www.aboutads.info/) (“DAA”) and adheres to each organization’s Codes and Principles. You can also learn more about online advertising in general on the [NAI](https://www.networkadvertising.org/) website, which provides background information on participating companies and permits you to opt-out of receiving tailored online advertising from some or all of its members. For information about the DAA Self-Regulatory Program for Online Behavioral Advertising and to learn more about the Ad Choices icon, visit <http://www.aboutads.info/> and <http://youradchoices.com/>.
+**Personal Information Included in Your Content.** If you include personal information in the postings of Your Content, it will be displayed to other Members of the Network and, if the Network is Public, to Network Users. 
 
-Aggregate Knowledge adheres to the European Interactive Digital Advertising Alliance’s (“EDAA”) principles. You may learn more about our participation in the EDAA’s program and online behavioral advertising at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
+### B. Personal data shared with certain third parties
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=4cc03577-a839-4234-a63b-cecf689ccb67 "TRUSTe Privacy")
+**Integrated Services.** We may share your information with the operators of any Integrated Services (as defined below), as more fully explained in the sections below entitled “Integrated Services.” 
 
-### EU-U.S. Privacy Shield
+**Business Transfers.** As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets. 
 
-Neustar and its subsidiaries, (i.e., .CO Internet S.A.S., NeuStar International Services, Inc., Aggregate Knowledge, Inc., and MarketShare Holdings, Inc.) participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
+**Agents, Consultants and Related Third Parties.** Mighty Software, Inc., like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases, and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information they need to perform their specific function. 
 
-Neustar is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+**Legal Requirements.** We may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Mighty Software, Inc., (iii) act in urgent circumstances to protect the personal safety of users of the Service or the public, or (iv) protect against legal liability. 
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Neustar is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+### C. Aggregated data shared
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [feedback-form](https://feedback-form.truste.com/watchdog/request).
+We discloses aggregated statistics, such as number of Users and Members, in order to describe our Service to current and prospective business partners, and to other third parties for other lawful purposes.
 
-Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+### III. Your choices
 
-### Swiss Safe Harbor
+### A. Do not provide personal data
 
-Neustar may receive Personal Information about residents of Switzerland in the course of providing our products and services. To the extent such information is transferred to the United States, we comply with the U.S. – Swiss Safe Harbor framework as administered by the U.S. Department of Commerce, and we have certified our adherence to the Safe Harbor principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Where we act as a processor for Swiss customer, we only use the data collected through our Service to provide the service for which our customer has engaged us. Not all of Neustar’s products and services are available in Europe at this time. Additional information about the Safe Harbor programs and our certifications are available at: http://www.export.gov/safeharbor.
+You can access portions of the Service without providing any Personal Data. If you choose not to provide any Personal Data, you will not be able use many features of the Service.
 
-European residents may also opt-out of the use of AK Cookies for online advertising at: [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+### B. Pick networks you care about and hosts you trust
 
-### TRUSTe Certification
+You get to decide the Networks you want to join. You also get to decide whether you trust your Host with the information sharing described in this policy.
 
-Neustar, Inc. has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+### C. Public, private vs. secret network settings
 
-The TRUSTe program covers only information that is collected through this Web site, and the, IP Intelligence, PlatformOne, and UltraDNS platforms.
+A Host can determine the visibility of its Network’s membership and accessibility of Member Profiles and postings. This is accomplished by choosing a Public, Private, or Secret Network as described more fully above.
 
-### The Fine Print
+### D. Adjust your notification settings
 
-[Click here](https://web.archive.org/privacy/privacy-policy) to read our full Privacy Policy and to learn more about our approach to children’s privacy, data security, disclosures required by law or for other purposes, and your privacy rights under California law.
+In your account settings, you can control the frequency, type and mode of notifications. You can choose to be notified by email or mobile, both or neither. You can choose to turn on or off your notifications by type, such as cheers on your stuff, and questions you can help answer.
 
-Our privacy practices and policies may be updated from time to time. We will post a notice regarding material changes on our web site.
+### E. Opt out of email
 
-### Questions? Comments?
+If we send you emails about products or services that may interest you, each email will contain instructions permitting you to “opt-out” of receiving future marketing or other communications. In addition, if at any time you wish not to receive any future marketing or other communications, please contact us at help@mightynetworks.com. At times, we, together with the Network Hosts, may also send co-branded emails to you. The opt-out instructions on these co-branded emails will state whether the opt-out applies solely to future emails from us, the Hosts, or both. If we do so, each marketing communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications. Note however that as a Member of the Service you cannot opt-out of some administrative communications that are reasonably necessary to the Service, such as billing or service notifications.
 
-Send us an email at: [privacy@neustar.biz](mailto:privacy@neustar.biz)
+### F. Opt out of google analytics
+
+To prevent your data from being used by Google Analytics, [click here](https://tools.google.com/dlpage/gaoptout/) for instructions. 
+
+### G. Opt out of google behavioral advertising
+
+To opt out of Google behavioral advertising, [click here](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TChTOcTh0Zw8QqBdT-OCxwSpWwNT1J8JqZmRt7ctTZRDA5WnB7C5XGzaxHVmAcVuzxDUMaGmwnnuM2OTd9Ok7b3yLVXop1nNztHTA2RuWExj91hB3Rvsa6LlgnIcta-awwF2vWiSCobqQVwT-EeX9QxZ7GU1jSTs7h08u8BQLwdSH7562q9Ct2j68TucafNQLcODg_rn) to see your Google ad settings. 
+
+### H. Opting out of tracking generally
+
+We do not have access to, nor does this Privacy Policy govern, the use of cookies or other tracking technologies that may be placed on your computer, mobile phone, or other device by non-affiliated, third-party ad technology, ad servers, ad networks or any other non-affiliated third parties. If you would like to learn more about behavioral advertising or to opt out of having this information used by companies that are part of the Network Advertising Initiative to deliver targeted ads, please visit http://www.networkadvertising.org. Many of the same companies are members of the Self-Regulatory Program for Online Behavioral Advertising. You can learn more and opt out of receiving targeted ads from them at http://www.aboutads.info/choices. Choices you make are both browser and device-specific. This means that if you opt out when using Safari on your computer at work, you will not be opted out on Chrome or on your home computer. Please note that when you opt out of an ad network, you may receive an "opt-out" cookie so that the network will know not to assign you new cookies in the future. You will continue to receive ads from that network, but not behaviorally targeted ads. If you erase your browser's cookies, you may need to perform this process again.
+
+**1\. Deleting cookies** To manage or delete browser cookies, please see your browser's privacy settings. 
+
+**2\. Flash Cookies** We currently do not use flash cookies, but we may in the future. To manage or delete Flash cookies, please use the Adobe Flash Player Settings Manager here: Website Storage Settings panel. 
+
+**3\. Do Not Track** Some browsers have a ‘do not track’ feature that lets you tell websites that you do not want to have your online activities tracked. These features are not yet uniform, so we are not currently set up to respond to those signals. 
+
+### IV. Account termination
+
+You can also leave one or more of your Networks, or close your account. We will then stop collecting Personal Data from you with respect to your activities in any Network you leave.
+
+### V. Exclusions
+
+This Privacy Policy does not apply to any Personal Data collected by Mighty Software, Inc. other than Personal Data collected through the Service, such as Personal Data provided in a telephone call. This Privacy Policy shall not apply to any unsolicited information you provide to Mighty Software, Inc. through the Service or through any other means. This includes, but is not limited to, information posted to any public areas of the Service, such as public forums, any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and Mighty Software, Inc. shall be free to reproduce, use, disclose, distribute, and exploit such Unsolicited Information without limitation or attribution.
+
+If your Network Host has an additional privacy policy covering the Host’s use of Personal Data, you should review it carefully. This privacy policy does not cover the all the practices of each Host that will have access to your Personal Data in connection with your use of the Service.
+
+### VI. Disputes with other users
+
+Mighty Networks cannot control the actions of other Users; if you have a privacy-related dispute with another User, you should contact the User directly.
+
+### VII. Children
+
+Mighty Networks does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Service. If you have reason to believe that a child under the age of 13 has provided Personal Data to Mighty Networks through the Service, please contact us and we will look to delete that information from our databases.
+
+### VIII. Links to other web applications
+
+This Privacy Policy applies only to the Service. The Service may contain links to other websites not operated or controlled by Mighty Software, Inc. (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Service do not imply that Mighty Software, Inc. endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
+
+### IX. Integrated services
+
+One of the special features of the Service is that it allows you to enable various online third party services, such as social media and social networking services like Facebook and LinkedIn (each, an “Integrated Service”), to integrate directly into your Mighty Network. By directly integrating these services, we make your use of Mighty Networks richer, and more personalized. To enable Integrated Services, we may ask you to authorize Mighty Networks to access the Integrated Services (or vice versa). When you add an Integrated Service account to a Network (or vice versa), your log-in information, Personal Data, non-personal data, location information, User Content, Network names, Circle names, Network or Circle locations, Network affiliation, profile photo, Facebook Connect ID and profile (if you are integrating your Facebook account) and other relevant information may be passed through to, or received from, the Integrated Service in connection with your use of the Service. We may import, use, disclose, and retain such data and information to, among other things, customize and improve the Service for you, your friends, and others. Note that Integrated Services may also import, use, and retain this information. You may be able to control how certain information is shared with us in your privacy settings within the Integrated Services. However, please remember that the manner in which Integrated Services collect, use, store, and disclose your information is governed solely by the policies of the third parties operating those Integrated Services, and we shall have no liability or responsibility for the privacy practices or other actions of any Integrated Service that may be enabled within the Service.
+
+From time to time, we may share your information with Integrated Services. This may happen when you first register with Mighty Networks, when you log into Mighty Networks from time to time, or in emails or other communications we may send you consistent with this Privacy Policy. We may from time to time share your Personal Data and anonymous data, your location information, your Network affiliation, your Network URL, your location, and your use of certain features on Mighty Networks with Integrated Services to facilitate and enhance your use of the Integrated Services. Please keep in mind that services provided by Integrated Services are not provided by us and therefore your use of the Integrated Services will be governed by the Integrated Services' Terms of Use and other policies, and that the collection, use, and disclosure of information provided by you or us to Integrated Services is not governed by this Privacy Policy.
+
+### X. Security
+
+We take reasonable steps to protect the Personal Data provided via the Service from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet, email, or other electronic transmission is ever fully secure or error free, so you should take special care in deciding what information you send to us in this way.
+
+### XI. Changes to Mighty Networks's privacy policy
+
+The Service and our business may change from time to time. As a result, at times it may be necessary for us to make changes to this Privacy Policy. We reserve the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Service after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+
+We have no liability or responsibility for the privacy practices or other actions of any Integrated Service that may be enabled within the Service.
+
+### XII. International visitors
+
+Our Service operates in the U.S. If you provide Personal Data, you acknowledge and agree that such Personal Data may be transferred by or on behalf of Mighty Software, Inc. from your current location to the offices and servers of Mighty Software, Inc. in the United States. You also understand that the U.S. may not provide the same level of protections as the laws of your country.
+
+### XIII. California visitors
+
+### A. California do-not-track disclosure requirements
+
+We do not recognize or respond to browser-initiated Do-Not-Track signals, because the Internet industry is still working on uniform Do-Not-Track standards.
+
+### B. Your California privacy rights
+
+California law permits Users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information for direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to [info@mightynetworks.com](mailto:info@mightynetworks.com). 
+
+### XIV. Access to information; contacting us
+
+To keep your Personal Data accurate, current, and complete, please update your account settings or contact us at the email address below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Service.
+
+Please also feel free to contact us if you have any questions about Mighty Networks’s Privacy Policy or the information practices of the Service. Our email address for privacy issues is [info@mightynetworks.com](mailto:info@mightynetworks.com). Our postal address is Mighty Software, Inc., 127 Lytton Ave, Palo Alto, CA 94301. 
