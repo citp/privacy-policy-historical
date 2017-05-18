@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wonderingsound.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212002845id_/http%3A//www.wonderingsound.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonderingsound.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518050242id_/http%3A//www.wonderingsound.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Wondering Sound
 
