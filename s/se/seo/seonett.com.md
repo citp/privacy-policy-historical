@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seonett.com privacy policy that was archived on 2016-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161002091249id_/http%3A//www.seonett.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seonett.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518153054id_/http%3A//www.seonett.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Our Privacy and Policy - SEO Nett
 
