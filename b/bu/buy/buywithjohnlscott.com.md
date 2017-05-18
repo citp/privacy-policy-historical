@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buywithjohnlscott.com privacy policy that was archived on 2016-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160929165332id_/http%3A//www.buywithjohnlscott.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buywithjohnlscott.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518172628id_/http%3A//www.buywithjohnlscott.com/privacy) for the most accurate reproduction.*
 
 # John L. Scott - KMS - Privacy Policy
 
