@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultratechhost.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405233908id_/http%3A//www.ultratechhost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultratechhost.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518113924id_/http%3A//www.ultratechhost.com/privacy.php) for the most accurate reproduction.*
 
 # UltratechHost - Privacy Policy
 
@@ -72,4 +72,4 @@ If you have any questions about our Privacy Policy, or if you want to know what 
 
 Please feel free to Contact us for any clarifications regarding this agreement, preferably before signing up with us. 
 
-**UltratechHost** (Ultra Web Solutions) 
+**UltratechHost** (Ultra Web Solutions®) 
