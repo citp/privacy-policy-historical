@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the webreference.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118223437id_/http%3A//www.webreference.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webreference.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518204349id_/http%3A//www.webreference.com/privacy) for the most accurate reproduction.*
 
 # QUINSTREET, INC. Privacy Policy
 
 This website is owned and operated by QuinStreet, Inc. or a QuinStreet, Inc. subsidiary, division or line of business (collectively, **"QuinStreet"** ). For a list of QuinStreet, Inc. subsidiaries, divisions or lines of business (the **"QuinStreet Businesses"** ), please see the section entitled **"QuinStreet Businesses"** below. 
 
 We are concerned about privacy issues and want you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through this website owned and controlled by us which display or link to this Privacy Policy (the **"Site"** ). By using our Sites, you agree to the terms and conditions of this Privacy Policy. 
+
+### **CERTIFICATIONS**
+
+QuinStreet has received TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with the [TRUSTe program.](https://www.truste.com/privacy-certification-standards/program-requirements/) The TRUSTe program covers only information that is collected through this Site. If you have questions or complaints regarding our privacy policy or practices, please contact us as described below, or if you are not satisfied with our response, you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 ### **1\. PERSONAL INFORMATION**
 
