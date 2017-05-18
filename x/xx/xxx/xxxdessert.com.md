@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxdessert.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209091149id_/http%3A//xxxdessert.com/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxdessert.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518230812id_/http%3A//xxxdessert.com/information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
