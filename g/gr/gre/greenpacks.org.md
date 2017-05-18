@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenpacks.org privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107145123id_/http%3A//www.greenpacks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenpacks.org privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518205848id_/http%3A//www.greenpacks.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GreenPacks
 
