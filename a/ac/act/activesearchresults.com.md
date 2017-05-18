@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activesearchresults.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119001710id_/http%3A//www.activesearchresults.com/help/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activesearchresults.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518220640id_/http%3A//www.activesearchresults.com/help/privacypolicy.php) for the most accurate reproduction.*
 
 # Active Search Results - Privacy Policy
 
@@ -94,9 +94,9 @@ Your Questions or Suggestions Regarding This privacy policy.
     
 
 If you have any questions or concerns about this privacy policy or the practices of this site, please contact us at:  
-
+Support at ActiveSearchResults dot com 
 
 * * *
 
   
-Privacy Policy effective date: August 06, 2009 Privacy Policy last updated: April 20, 2011
+Privacy Policy effective date: August 06, 2009 Privacy Policy last updated: March 10, 2017
