@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getwso.net privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025155527id_/http%3A//getwso.club/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getwso.net privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518030642id_/http%3A//getwso.club/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Get WSO Club- Download all the latest WSO's from the Warrior Forum
 
