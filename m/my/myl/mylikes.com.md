@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylikes.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229034551id_/http%3A//mylikes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylikes.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518223221id_/http%3A//mylikes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MyLikes
 
@@ -55,10 +55,10 @@ Information given to MyLikes is transmitted to and stored within the United Stat
 
 ## Children
 
-MyLikes is not intended for use by children. Anyone under the age of 13 is not permitted to use the Service and must not attempt to register an account or submit personal information to the Service. We do not knowingly collect any personal information from any person under the age of 13 or allow them to register an account. If MyLikes learns it has unknowingly collected this information it is deleted as soon as possible. If you have reason to believe MyLikes has collected this data or are a parent or legal guardian who is concerned their child or ward has accessed the service please contact us by email at help (at) mylikes.com. 
+MyLikes is not intended for use by children. Anyone under the age of 13 is not permitted to use the Service and must not attempt to register an account or submit personal information to the Service. We do not knowingly collect any personal information from any person under the age of 13 or allow them to register an account. If MyLikes learns it has unknowingly collected this information it is deleted as soon as possible. If you have reason to believe MyLikes has collected this data or are a parent or legal guardian who is concerned their child or ward has accessed the service, please contact us by email at help (at) mylikes.com. 
 
 ## Change to this Privacy Policy
 
 MyLikes may update this policy to be consistent with industry best practices and to better serve our users and customers. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. We will post any privacy policy changes on this page and maintain a "last updated" date. 
 
-Last modified: December 01 2016. 
+Last modified: April 06 2017. 
