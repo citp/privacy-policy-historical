@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the startengine.com privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821183429id_/https%3A//www.startengine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startengine.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518161903id_/https%3A//www.startengine.com/privacy) for the most accurate reproduction.*
 
-# StartEngine
+# Investment Opportunities for Everyone | StartEngine
 
 ### 
 
@@ -80,4 +80,4 @@ This Privacy Notice shall be governed by, construed and entered in accordance wi
 
 Effective Date
 
-This Privacy Notice was last updated on June 18, 2015
+This Privacy Notice was last updated on March 13, 2017.
