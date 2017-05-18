@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icsc.org privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127174301id_/http%3A//www.icsc.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icsc.org privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518082700id_/http%3A//www.icsc.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ICSC: International Council of Shopping Centers
 
@@ -17,7 +17,7 @@ We also may collect certain non-personally identifiable information when you vis
 ICSC may use the information you provide about yourself for the following purposes:
 
   * We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you. We also may use this information to communicate with you, such as to notify you when we make changes to our subscriber agreements, to fulfill an online order for ICSC products, or to contact you about issues regarding your membership.
-  * We may include your name, title, corporate affiliation, biography information and photograph as provided to ICSC in connection with any ICSC event attendance lists or other business purposes of ICS.
+  * We may include your name, title, corporate affiliation, biography information and photograph as provided to ICSC in connection with any ICSC event attendance lists or other business purposes of ICSC.
   * We use the information that you provide about others to enable us to send them the relevant information which you have requested for them. From time to time, we also may use this information to offer our products, programs, or services to them.
   * The information we collect in connection with our online discussion forums is used to facilitate participation in the forums and, from time to time, to offer you products, programs, or services.
   * If you choose to submit User Content for publication, we may publish your name and other information you have provided to us.
