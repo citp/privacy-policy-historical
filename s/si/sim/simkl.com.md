@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simkl.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221152249id_/https%3A//simkl.com/about/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simkl.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518162516id_/https%3A//simkl.com/about/policies/privacy) for the most accurate reproduction.*
 
-# Політика Конфіденційності - Simkl
+# Watch and Track Movies, Anime, TV Shows
 
 Last modified: December 31, 2012 
 
