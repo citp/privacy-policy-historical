@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swipeclock.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219132853id_/http%3A//content.swipeclock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swipeclock.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518052044id_/http%3A//www3.swipeclock.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - Employee Time Clock Software | SwipeClock
+# Privacy Policy | SwipeClock Workforce Management
 
 ## PRIVACY POLICY
 
@@ -15,18 +15,18 @@ Personal data should be relevant to the purposes for which it is to be used, and
 **Personally Identifiable Information (PII)**  
 Company is conscientious and considers the security of Personally Identifiable Information to be an important matter, to the point it sends its entire technical department to security conferences regularly and devotes considerable talent and resources to the topic of security. Now, you realize that every month in the news, some big company makes the headlines for just having been hacked, right? Nobody is immune, security holes are found in every major computer operating system every day, and that’s not going to change any time soon. So, let’s be clear: part of being street smart in cyberspace means not putting sensitive data in places where there’s no good reason for it to be. The most reliable defense there is against the world’s most sophisticated hackers is not having anything they want so they will spend their time elsewhere. Reseller acknowledges that despite commercially reasonable efforts, absolute security from any Internet-connected system is impossible. Secure information cannot be guaranteed to be completely free from all possible risks and threats.
 
-Reseller. Joining the reseller program allows you to offer SwipeClock products and services to an unlimited number of clients who need a simple, affordable timekeeping solution. As a SwipeClock reseller you must sign the reseller agreement. You will be required to share your business contact information including contact name, address, phone number, website address and email address as well as your tax ID number in the usual mode of doing business. You will also need a system username and password to access the SwipeClock system.
+Reseller. Joining the reseller program allows you to offer SwipeClock products and services to an unlimited number of clients who need a simple, affordable timekeeping solution. As a SwipeClock reseller you must sign the reseller agreement. You will be required to share your business contact information including contact name, address, phone number, website address and email address as well as your tax ID number in the usual mode of doing business. You will also need a system username and password to access the SwipeClock system.
 
-End User. This group of individuals represents a good portion of visitors and system use. Business and contact information is stored within the system and kept confidential, and exclusive, based on individual resellers as specified in the reseller agreement.
+End User. This group of individuals represents a good portion of visitors and system use. Business and contact information is stored within the system and kept confidential, and exclusive, based on individual resellers as specified in the reseller agreement.
 
-Purchases. SwipeClock offers services and products through the SwipeClock system. Your shipping and contact information are required and payment method in the course of doing business and delivery of your order(s).
+Purchases. SwipeClock offers services and products through the SwipeClock system. Your shipping and contact information are required and payment method in the course of doing business and delivery of your order(s).
 
-Support. When choosing to interact with SwipeClock Support your support ticket will be tracked as well as that of the point-of-contact who opened the ticket including the details of the ticket.
+Support. When choosing to interact with SwipeClock Support your support ticket will be tracked as well as that of the point-of-contact who opened the ticket including the details of the ticket.
 
 **Non-Individually Identifiable Information**  
-Technology and Overview. In the course of providing timekeeping and related services as a cloud-based service we review our interface usage for many reasons, including but not limited to website load bearing, traffic, section usage, and all data available using Google Analytics. We do not combine the data gathered from Google Analytics with personally identifiable information. We also review analytics for the emails we send and social media analytics to improve our content and the user’s experience.
+Technology and Overview. In the course of providing timekeeping and related services as a cloud-based service we review our interface usage for many reasons, including but not limited to website load bearing, traffic, section usage, and all data available using Google Analytics. We do not combine the data gathered from Google Analytics with personally identifiable information. We also review analytics for the emails we send and social media analytics to improve our content and the user’s experience.
 
-Analytics and Cookies. In an effort to make it easier to use the system SwipeClock uses cookies. These are small files that our web server stores on your hard drive, or mobile device to speed your system login. We use analytics to review system use, improve the SwipeClock website and online tools available through the Internet and mobile devices.
+Analytics and Cookies. In an effort to make it easier to use the system SwipeClock uses cookies. These are small files that our web server stores on your hard drive, or mobile device to speed your system login. We use analytics to review system use, improve the SwipeClock website and online tools available through the Internet and mobile devices.
 
 **Use of Gathered Information**  
 The analytics gathered on SwipeClock Services is used for statistical review and to improve the user experience. Your information will not be sold or given to third parties. We reserve the right to work with contractors, and service providers to who may have access to our Google Analytics and other analytic data with the understanding that this is data is confidential.
