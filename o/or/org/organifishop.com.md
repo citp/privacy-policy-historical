@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the organifishop.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205041813id_/http%3A//www.organifishop.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organifishop.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518223321id_/https%3A//www.organifishop.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Organifi
+# Privacy PolicyPrivacy Policy
 
 Fit Life TV, LLC (“FLT”, “we”, “us” and “our”) is committed to the privacy of each website visitor (“User”). We maintain this privacy policy (“Privacy Policy”) to protect the privacy of our visitors, to explain our online information practices and to disclose how visitor information is collected and used. This document supersedes any prior communication on this subject matter and reflects the entire and exclusive Privacy Policy for [www.fitlife.tv](http://www.fitlife.tv/), [www.organifi.com](http://www.organifi.com/) and any website owned and operated by FLT (“Site”). In the event of a conflict between the Privacy Policy and any written agreement with a User, the terms of the written agreement shall control.
 
