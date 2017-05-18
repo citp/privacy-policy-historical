@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timetemperature.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118230017id_/http%3A//www.timetemperature.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetemperature.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519012424id_/http%3A//www.timetemperature.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,4 +46,4 @@ _www.timetemperature.com, Inc. reserves the right to change, alter or modify the
 
 Visit this page to check for the most up to date privacy policy.
 
-Copyright © 2000-2016 www.TimeTemperature.com, Inc. All Rights Reserved
+Copyright © 2000-2017 www.TimeTemperature.com, Inc. All Rights Reserved
