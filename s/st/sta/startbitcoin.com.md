@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startbitcoin.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423230510id_/https%3A//99bitcoins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startbitcoin.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518125839id_/https%3A//99bitcoins.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 99 Bitcoins
 
