@@ -1,70 +1,89 @@
-> *The following text is extracted and transformed from the watermark.ws privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809090056id_/https%3A//www.watermark.ws/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watermark.ws privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518063617id_/https%3A//www.watermark.ws/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Watermark.ws
 
-Watermark.ws reserves the right to revise this policy at any time without notification to you, so please re-read it often in connection with your use of the Watermark.ws website. 
+Last updated: January 19, 2017
 
-### Your photos, videos and documents at Watermark.
+Our Privacy Policy governs the privacy terms of our Website, located at www.watermark.ws. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Use accessible at <https://www.watermark.ws/terms>
 
-All files you upload to Watermark are private and protected. Watermark does not obtain any legal rights to share or distribute your photos. **You hold 100% ownership of your files**. Only you have access to your account and the photos you store in your account. Watermark is merely an online service that allows you to modify your files to protect your authenticity. We use the highest form of security to protect all of our user accounts. 
+**Your Privacy**
 
-### Your personal information at Watermark.ws
+Watermark.ws follows all legal requirements to protect your privacy. Our Privacy Policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information. You will see terms in our Privacy Policy that are capitalized. These terms have meanings as described in the Definitions section below.
 
-We will never share your e-mail address or other identifiable information with any third party without your explicit consent. The following legal document will dictate how we will handle this information. 
+**Definitions**
 
-This [Privacy Policy](https://www.watermark.ws/privacy) together with our [Terms of Service](https://www.watermark.ws/terms) sets out how Watermark.ws will use any personal data we collect from you, or you provide to us during your use of our online services ("Watermark.ws" or the "website"). 
+"Non Personal Information" is information that is not personally identifiable to you and that we automatically collect when you access our Website with a web browser. It may also include publicly available information that is shared between you and others.
 
-We respect the privacy of every individual who visits the website. Our policy on the collection and use of personal information is outlined below. 
+"Personally Identifiable Information" is non-public information that is personally identifiable to you and obtained in order for us to provide you within our Website. Personally Identifiable Information may include information such as your name, email address, and other related information that you provide to us or that we obtain about you.
 
-We will only disclose your information without your authorization in the following situations: 
+**Information We Collect**
 
-  * To the authorities when necessary to comply with the law (i.e. answering subpoenas). 
-  * To enforce or to apply our [Terms of Service](https://www.watermark.ws/terms) and other agreements. 
-  * We are in negotiations with a third party for the sale or purchase of any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
-  * To protect the rights, property, or safety of Watermark.ws, our users or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+Generally, you control the amount and type of information you provide to us when using our Website.
+
+As a Visitor, you can browse our website to find out more about our Website. You are not required to provide us with any Personally Identifiable Information as a Visitor.
+
+**Computer Information Collected**
+
+When you use our Website, we automatically collect certain computer information by the interaction of your mobile phone or web browser with our Website. Such information is typically considered Non Personal Information. We also collect the following:
+
+  * **Cookies**
+
+Our Website uses "Cookies" to identify the areas of our Website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our Website correctly or at all. We never place Personally Identifiable Information in Cookies.
+
+  * **Third Party Tracking Tools**
+
+We also use third party tracking tools to improve the performance and features of our Website. These third party tracking tools are designed to collect only Non-Personal Information about your use of our Website. However, you understand that such tools are created and managed by parties outside our control. As such, we are not responsible for what information is actually captured by such third parties or how such third parties use and protect that information.
+
+  * We use Remarketing with Google Analytics to advertise on third party sites to you after you visited our Site. We and our third party vendors, like Google, use first party cookies (such as the Google Analytics cookie) and third party cookies (such as the DoubleClick cookie) to inform, optimize and serve ads based on your past visits to our Site.
+
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the [Google Ads Settings](http://www.google.com/settings/ads) page. Google also recommends installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) for your browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics. 
+
+  * **Automatic Information**
+
+We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you're headed when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website.
 
 
 
-You are giving your consent to disclose your personal info (photos, videos, documents, etc.) in the following situations: 
 
-  * You upload a file to Watermark.ws site either using our software or using other options at Watermark.ws website. 
-  * You share your files with the "Share!" button situated on any page of Watermark.ws services. 
-  * You share your files at Watermark.ws site using any of the Watermark.ws services and share a link to this file elsewhere on the internet. 
+**How We Use Your Information**
+
+We use the information we receive from you as follows:
+
+  * **Customizing Our Website**
+
+We may use the Personally Identifiable information you provide to us along with any computer information we receive to customize our Website.
+
+  * **Sharing Information with Affiliates and Other Third Parties**
+
+We do not sell, rent, or otherwise provide your Personally Identifiable Information to third parties for marketing purposes. We may provide your Personally Identifiable Information to affiliates that provide services to us with regards to our Website (i.e. payment processors, Website hosting companies, etc.); such affiliates will only receive information necessary to provide the respective services and will be bound by confidentiality agreements limiting the use of such information.
+
+  * **Data Aggregation**
+
+We retain the right to collect and use any Non Personal Information collected from your use of our Website and aggregate such data for internal analytics that improve our Website and Service as well as for use or resale to others. At no time is your Personally Identifiable Information included in such data aggregations.
+
+  * **Legally Required Releases of Information**
+
+We may be legally required to disclose your Personally Identifiable Information, if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties including you and/or other Members; and/or (e) necessary to protect the legal rights, personal/real property, or personal safety of Watermark.ws, our Users, employees, and affiliates.
 
 
 
-We do not disclose any of your files, including photos, documents or videos, which you have uploaded for editing and manipulation to any of the Watermark.ws services. These files are stored at Watermark.ws and are visible only to you from the within your account. 
 
-### Non-Personal Details
+**Protecting Your Child's Privacy**
 
-We may automatically collect non-personal information about you, such as the type of browsers you use or the website from which you linked to us. This information is only used to assist us in providing an effective service on the website. We may, from time to time, supply the owners and operators of third party websites which have a link to our site with information about the number of users linking to the website from their website. You cannot be identified from any of this information. 
+Our Website is not designed for use by anyone under the age of 13 ("Child"), though we realize we may have a Child attempt to make purchases through our Website. We do not verify the age of our Users nor do we have any liability for verifying a User's age. If you are a Child, please seek the permission of a parent or guardian before using our Website. If you are a parent or guardian and believe your Child is using our Website, please contact us to remove your Child's account; we reserve the right to ask you for verification of your relationship to the Child before we honor such a request. If we discover that a Child has created an account on our Website, we will immediately delete the account as soon as we discover it, we will not use the information for any purpose, and we will not disclose the information to third parties. However, as parent of such a Child, you understand that you are legally liable for any transactions created by the Child.
 
-### Cookies
+**Links to Other Websites**
 
-We may collect information about your computer, including where your IP address, operating system and browser type, for system administration and to report information to our branded partners. 
+Our Website may contain links to other websites that are not under our direct control. These websites may have their own policies regarding privacy. We have no control of or responsibility for linked websites and provide these links solely for the convenience and information of our visitors. You access such linked Websites at your own risk. These websites are not subject to this Privacy Policy. You should check the privacy policies, if any, of those individual websites to see how the operators of those third-party websites will utilize your personal information. In addition, these websites may contain a link to Websites of our affiliates. The websites of our affiliates are not subject to this Privacy Policy, and you should check their individual privacy policies to see how the operators of such websites will utilize your personal information.
 
-We may store some information on your computer when you visit the website. This information facilitates your use of the website, and ensures that you do not need to re-enter your details on each visit. The information stored in a cookie provides features that recognize your account as logged on and other site features. We do not have any control over cookies which our advertisers or branded partners may use on the website. 
+**Our Email Policy**
 
-### Security
+Our affiliates and we fully comply with national laws regarding SPAM. You can always opt out of receipt of further email correspondence from us and/or our affiliates. We agree that we will not sell, rent, or trade your email address to any unaffiliated third-party without your permission.
 
-The technology that we use and the policies that we have implemented are intended to safeguard your privacy from unauthorized access and improper use. We will continue to update these measures as new technology becomes available. 
+**Privacy Policy Updates**
 
-All information transmitted through Watermark.ws is stored on our secure server. We use an Extended Secure Sockets Layer ( **SSL** ), which is the electronic commerce standard for securing information as it travels over the Internet. SSL technology is designed to encrypt your information, preventing an unauthorized party from viewing and downloading your information. Your web browser should display a web address with an "https" prefix, indicating that the SSL technology is operating when using our website. 
+We reserve the right to modify this Privacy Policy at any time. You should review this Privacy Policy frequently. If we make material changes to this policy, we may notify you on our Website, by a blog post, by email, or by any method we determine. The method we chose is at our sole discretion. We will also change the "Last Updated" date at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies.
 
-### Password Recommendations
+**Questions About Our Privacy Practices or This Privacy Policy**
 
-We advise you to choose a password that is not easily guessed by others. Please make sure that your password is five or more characters and is composed of both letters and numbers. In addition, it is recommended that you use a separate password for every website to which you are a member. This is a form of damage control, in case the security of one website is compromised, your other accounts are still protected. Should you forget your Watermark.ws password, it will be emailed to you at your request. 
-
-### Newsletter
-
-You can opt-out of receiving newsletters in your account settings. This information will not be sent to you if you ask us not to include your name on our mailing lists. In many places where personal information is collected, we have a box that you can check indicating that you would like to "opt out" if you don't wish to receive further information of the sort indicated. If you have previously consented to have Watermark.ws send you its newsletter and no longer wish to be contacted, please follow the link at the bottom of each newsletter to unsubscribe. 
-
-### Links, Hosted Sites & Advertisers
-
-We do not have any control over the privacy practices of any external websites linked from the main Watermark.ws domain (or any of the websites that are hosted on our server and aren't affiliated with Watermark.ws). Therefore you should review their privacy policies separately from ours and know that we in no way have any control over their practices. 
-
-Third party advertisers may collect certain information that is available to them through your interaction with their advertisements. Watermark.ws has no control or knowledge as to their practices and it is suggested that you read their privacy policy separately before clicking on any advertisements. 
-
-### Questions?
-
-If you have any questions regarding this Privacy Policy, the practices of Watermark.ws, or your dealings on our web site, please Contact Us. 
+If you have any questions about our Privacy Practices or this Policy, please contact us.
