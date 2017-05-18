@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playcodemonkey.com privacy policy that was archived on 2016-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160913181300id_/https%3A//www.playcodemonkey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playcodemonkey.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518124010id_/https%3A//www.playcodemonkey.com/privacy) for the most accurate reproduction.*
 
 # CodeMonkey
 
@@ -63,83 +63,83 @@ If you have any question about our privacy policy, please contact us via privacy
 
 X
 
-### TEACHER
+### MOKYTOJA(S)
 
-Classroom management, tracking and lesson plans. It's free to sign up!
+Klasės valdymas ir mokinių pažangos sekkimas, pamokų planai. Užsiregistruok nemokamai!
 
-### STUDENT
+### MOKINĖ(YS)
 
-Join your classmates in the fun coding adventure
+Kartu su savo klase nerk į programavimo nuotykius
 
-### HOME USER
+### NAMŲ VARTOTOJAS
 
-Start your coding adventure, learn to code and save the world
+Pasiryžk programavimo nuotykiams, mokykis programuoti ir išgelbėk pasaulį!
 
-Complete your registration by filling you school's information 
+Užbaik registraciją įvesdamas duomenis apie mokyklą 
 
-NEXT 
+TĘSTI 
 
-An activation email was sent to your email address  ({{ emailAddress }})   
-Click on the activation link in the email to continue. 
+Jūsų el. pašto adresu išsiųstas laiškas  ({{ emailAddress }})   
+Atidarykite laišką ir spustelėkite jame aktyvavimo nuorodą. 
 
-The group code is a combination of numbers and letters, that will be given to you by your teacher. Using the group code will ensure you can view your classmates' progress and share challenges with them. 
+Klasės kodą, sudarytą iš skaitmenų ir raidžių, turi gauti iš mokytojo(s). Kodo panaudojimas leis stebėti kaip sekasi klasės draugėms ir draugams, bei leis dalintis savo sukurtomis užduotimis. 
 
-YES, I HAVE A GROUP CODE 
+TAIP, TURIU KLASĖS KODĄ 
 
-NO, I DON'T HAVE A GROUP CODE 
+NE, KLASĖS KODO NETURIU 
 
   
 
 
-Unfortunately this option is disabled for your age group.   
+Deja, negali savarankiškai užsiregistruoti.   
 Please ask a parent or a guardian to sign up using their personal information.  Please let your teacher know, they will know what to do. 
 
-Thank you for signing up.   
-The backpack is ready and the bananas are waiting!   
-So what do you want to do next? 
+Ačiū, kad užsiregistravote.   
+Kuprinė jau paruošta, bananai laukia!   
+Ką norėtum veikti toliau? 
 
-[ START PLAYING ](https://web.archive.org/first) [ GO TO CLASS MANAGEMENT ](https://web.archive.org/groups)
+[ PRADĖTI PROGRAMUOTI ](https://web.archive.org/first) [ KLASĖS ADMINISTRAVIMAS ](https://web.archive.org/groups)
 
-You will need this information to log back into your account: 
+Kai norėsi tęsti kitą kartą, panaudok šitai, kad pradėtum nuo tos vietos kur baigei. 
 
-Username:  {{ userInfo.username }}
+Vartotoja vardas:  {{ userInfo.username }}
 
-Password:  {{ userInfo.password }} {{ showAsPassword(userInfo.password) }}
+Slaptažodis:  {{ userInfo.password }} {{ showAsPassword(userInfo.password) }}
 
-Show
+Rodyti
 
-Click to download a copy
+Spustelėk, jei nori parsisiųsti
 
 I saved my info, LET'S PLAY!
 
-Thank you for signing up.   
-The backpack is ready and the bananas are waiting!   
-So what do you want to do next? 
+Ačiū, kad užsiregistravote.   
+Kuprinė jau paruošta, bananai laukia!   
+Ką norėtum veikti toliau? 
 
-Thank you for signing up.   
-We sent you a confirmation email to ({{ emailAddress }}), please click on the link to confirm your email address. 
+Ačiū, kad užsiregistravote.   
+Jums išsiųstas laiškas į el. paštą ({{ emailAddress }}), Spustelėkite nuorodą tam, kad patvirtintumėte savo el. pašto adresą. 
 
-[ GET CODIN'! ](https://web.archive.org/first)
+[ LEKIAM PROGRAMUOTI?! ](https://web.archive.org/first)
 
-ENTER YOUR EMAIL ADDRESS AND WE WILL SEND YOU A LINK TO CHANGE YOUR PASSWORD 
+ĮVESKITE SAVO EL. PAŠTO ADRESĄ IR ATSIŲSIME NUORODĄ SLAPTAŽODŽIO PAKEITIMUI 
 
-HELP ME! 
+PADĖKITE MAN! 
 
-PLEASE CHECK YOUR MAILBOX TO RESET YOUR PASSWORD 
+PATIKRINKITE SAVO EL. PAŠTĄ JEI NORITE ATKURTI SAVO SLAPTAŽODĮ 
 
-PLEASE CONTACT YOUR TEACHER TO RETRIEVE  
-OR CHANGE YOUR PASSWORD 
+PAPRAŠYKITE SAVO MOKYTOJO(S), KAD PADĖTŲ JUMS ATKURTI  
+ARBA PAKEISTI SLAPTAŽODĮ 
 
-No worries! [Contact us](https://web.archive.org/about#contact) and we will help you get back on CodeMonkey 
+Nesirūpinkite! [Susisiekite su mumis](https://web.archive.org/about#contact) ir mes jums padėsime vėl prisijungti prie CodeMonkey 
 
-ENTER YOUR EMAIL ADDRESS AND WE WILL SEND YOU ANOTHER CONFIRMATION MESSAGE 
+ĮVESK SAVO EL. PAŠTO ADRESĄ IR PAKARTOTINAI IŠSIŲSIME PATVIRTINIMO LAIŠKĄ 
 
-SEND 
+SIŲSTI 
 
 Just a moment... 
 
-You must confirm your email address  ({{ confirmation.email }})  before you can continue.   
-Please check your inbox and click on the confirmation link. If it's not there, it might be in the spam folder. 
+You must confirm your email address (  ({{ confirmation.email }})  ) before you can continue.   
+Please check you inbox and click on the confirmation link. If it's not there, it might be in the spam folder. 
 
 Send confirmation email again 
 
