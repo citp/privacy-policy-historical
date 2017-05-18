@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the forangelsonly.org privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226052401id_/http%3A//www.forangelsonly.org/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forangelsonly.org privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519013530id_/http%3A//www.forangelsonly.org/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ForAngelsOnly.com
 
 **ForAngelsOnly.org:   Privacy Policy**
 
-This statement covers the site [www.ForAngelsOnly.org](https://web.archive.org/web/20161226052401id_/http%3A//www.forangelsonly.org/) (ForAngelsOnly.org). Please read this statement carefully before using proceeding to access ForAngelsOnly.org. Your use of ForAngelsOnly.org indicates your agreement to abide by the Terms in effect.
+This statement covers the site [www.ForAngelsOnly.org](https://web.archive.org/web/20170519013530id_/http%3A//www.forangelsonly.org/) (ForAngelsOnly.org). Please read this statement carefully before using proceeding to access ForAngelsOnly.org. Your use of ForAngelsOnly.org indicates your agreement to abide by the Terms in effect.
 
  **Information Collection**
 
