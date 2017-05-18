@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geoguessr.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116072323id_/https%3A//geoguessr.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geoguessr.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518093923id_/https%3A//www.geoguessr.com/static/privacy.html) for the most accurate reproduction.*
 
 # GeoGuessr Privacy Policy
 
