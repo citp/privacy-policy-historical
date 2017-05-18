@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the seo-gold.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107185420id_/http%3A//stallion-theme.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo-gold.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518130633id_/http%3A//stallion-theme.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy for the Website ****
+Privacy Policy for the Website **http://stallion-theme.co.uk/**
 
 The privacy of our visitors is important to us.
 
@@ -26,4 +26,4 @@ We may also use third party advertisements to support our website such as Google
 
 You can disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as commenting.
 
-End of Privacy Policy for the Website ****
+End of Privacy Policy for the Website **http://stallion-theme.co.uk/**
