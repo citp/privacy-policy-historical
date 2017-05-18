@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesdew.net privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022192447id_/http%3A//www.gamesdew.net/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesdew.net privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518022437id_/http%3A//www.gamesdew.net/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - :: GAMESDEW ::
 
