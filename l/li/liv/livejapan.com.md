@@ -1,47 +1,43 @@
-> *The following text is extracted and transformed from the livejapan.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610184231id_/http%3A//livejapan.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livejapan.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518232641id_/https%3A//livejapan.com/en/privacy) for the most accurate reproduction.*
 
 # Famous sightseeing locations and activity information: Privacy policy - LIVE JAPAN
 
-## Our Philosophy regarding Personal Information Protection
-
-In utilizing personal information, which is essential in order to pursue our business activities, we the Gurunavi Group (the " [Company Group](http://www.gnavi.co.jp/company/english/policy/#policy03)") fully recognize the importance of and our social responsibility for appropriately protecting such personal information, and we will comply with the Act on the Protection of Personal Information and other relevant laws and ordinances. In addition, we establish the "Personal Information Protection Management System" as an internal company rule to ensure appropriate handling of personal information and maintenance of confidentiality, and cause every employee to comply with the System
+In utilizing personal information, which is essential in order to pursue our business activities, we the Gurunavi Group (the " [Company Group](https://corporate.gnavi.co.jp/en/policy/#policy03)") fully recognize the importance of and our social responsibility for appropriately protecting such personal information, and we will comply with the Act on the Protection of Personal Information and other relevant laws and ordinances. In addition, we establish the "Personal Information Protection Management System" as an internal company rule to ensure appropriate handling of personal information and maintenance of confidentiality, and cause every employee to comply with the System
 
 Gurunavi, Inc.  
 Seiichiro Kubo, President, Representative Director  
 (Supplementary Provisions) Established: July 1, 2004  
 Last updated: July 1, 2013 
 
-## Personal Information Protection Policy
-
-  1. ### 1\. Handling of Personal Information
+  1. 1\. Handling of Personal Information
 
 We will handle personal information in a legal and fair manner, taking into account the content and size of our business. We will indicate to you the purpose of utilization and will not use any personal information for any purpose other than the purpose indicated to you.
 
-  2. ### 2\. Compliance with Laws, Ordinances, and Standards
+  2. 2\. Compliance with Laws, Ordinances, and Standards
 
 We will comply with the laws, ordinances, policies, and other standards, customs and social rules in Japan and any other countries and regions.
 
-  3. ### 3\. Appropriate Measures for Personal Information Management
+  3. 3\. Appropriate Measures for Personal Information Management
 
 We will take measures to securely manage personal information, and will always endeavor to improve those measures as well as to prevent illegal access to personal information, and divulgence, destruction, damage, loss, and falsification of personal information.
 
-  4. ### 4\. Organized Activities for Personal Information Protection
+  4. 4\. Organized Activities for Personal Information Protection
 
     1. (1) We will appoint a personal information manager and an internal inspection supervisor, establish the Personal Information Protection Management System, and grant the manager and supervisor the responsibility for and right of implementation and management of the System and cause them to carry out operations for personal information protection.
     2. (2) We will improve our internal rules and operation of those rules based on the results of our internal inspections.
     3. (3) We will, as necessary, request our business partner companies and individuals to cooperate with us to achieve the purpose of our rules.
     4. (4) We will always make the Policy available to the public by publishing it on our website, our company profile and brochures, and/or placing it at our reception desk.
-  5. ### 5\. Continuous Improvement
+  5. 5\. Continuous Improvement
 
     1. (1) We will regularly reevaluate our "Personal Information Protection Management System" to establish, implement, maintain, and improve our measures for appropriate personal information protection.
     2. (2) We will endeavor to train and educate our employees in personal information protection so that they can recognize the importance of personal information protection and appropriately manage and handle personal information.
     3. (3) We may change the Policy to better protect personal information we have obtained or to make the Policy compliant with amendments of laws, ordinances, and other rules, as well as taking into account our customers' opinions. If we make any changes to the Policy, we will announce it by publishing the changes on our website and the like.
-  6. ### 6\. Complaints, Opinions, and Other Inquiries about Personal Information
+  6. 6\. Complaints, Opinions, and Other Inquiries about Personal Information
 
 Please send your complaints, opinions, and inquiries regarding our handling of your personal information to the following address or via the dedicated contact form. We will appropriately and promptly respond to you within a reasonable period and to a reasonable extent.
 
-    * ※Click [here](http://www.gnavi.co.jp/company/english/policy/#policy02) regarding our handling of personal information.
-    * ※Click [here](http://www.gnavi.co.jp/company/english/policy/#policy02_03) regarding activity histories and attributes.
+    * ※Click [here](https://corporate.gnavi.co.jp/en/policy/#policy02) regarding our handling of personal information.
+    * ※Click [here](https://corporate.gnavi.co.jp/en/policy/#policy02_03) regarding activity histories and attributes.
     * ※Please contact the following address for inquiries regarding the personal information we have obtained.
 
 
@@ -52,9 +48,7 @@ Gurunavi, Inc.
 Complaint and Consultation Desk Manager at Personal Information Inquiry Desk   
 [Click here to make an inquiry.](https://ssl.gnavi.co.jp/company/english/contact/)
 
-## Handling of Personal Information
-
-  * ### Purpose of Utilization of Personal Information
+  * Purpose of Utilization of Personal Information
 
 Category of Personal Information | Purpose of Utilization  
 ---|---  
@@ -96,9 +90,9 @@ Personal Information of Shareholders |
     * Management of shareholders in accordance with relevant laws and ordinances
     * Provision of personal information for exercise of rights and performance of obligations in accordance with the Companies Act  
   
-  * ### Provision of Personal Information
+  * Provision of Personal Information
 
-    1. #### 1\. Provision of personal information
+    1. 1\. Provision of personal information
 
 When providing personal information, the Company Group takes measures to avoid providing personal information to any third party without your consent except in the following cases:
 
@@ -115,15 +109,15 @@ When providing personal information, the Company Group takes measures to avoid p
         * Name or company name responsible for the management of personal information
         * Scope of entities or individuals jointly using personal information
         * Method of obtainment
-    2. #### 2\. Provision of information of officers and shareholders of corporations and other entities
+    2. 2\. Provision of information of officers and shareholders of corporations and other entities
 
 We may provide information regarding the officers and shareholders of corporations or other organizations that is included in the information of such corporation or other organization and that has already been disclosed or publicly announced under laws and ordinances or by such person or such corporation or other organization, after obtaining the person's consent and notifying the person of the purpose of utilization.
 
-    3. #### 3\. Supervision of contractors
+    3. 3\. Supervision of contractors
 
 When we entrust the performance of services involving the handling personal information, we execute an agreement with the contractor regarding personal information protection, and exercise appropriate supervision or other control over the contractor to ensure the avoidance of leaking or other divulgement of personal information.
 
-  * ### Activity History, Attribute Information, and Advertisement Delivery by a Third Party
+  * Activity History, Attribute Information, and Advertisement Delivery by a Third Party
 
     1. (1) The Company Group may use cookies (and other similar technologies) in order to provide information that is easily accessible by, and more valuable to, customers.  
 Cookies allow data to be temporarily saved on a computer or other devices used by a customer when accessing a web site. Using cookies enables us to acquire and save in the Company Group's server the customers' activity history in the Company Group's websites (including, but not limited to, URLs and content accessed and the order of access), and unidentifiable attribute information (by the combination of which an individual is not identifiable) such as age and sex, occupation, resident area, record of coming to the store, and location information.  
@@ -131,15 +125,15 @@ If you prefer not to allow us to collect your information, you can block cookies
     2. (2) The Company Group uses advertisement delivery services provided by third parties including Yahoo Japan Corporation. In providing advertisement delivery services, such third party may collect and use the information of customers' access history to the Company Group's website or activity history by using cookies.  
 Cookies and other information acquired by such third party will be handled in accordance with its privacy policy.  
 Customers may discontinue advertisement delivery performed by such third party using cookies by accessing an opt out page created on its website.
-  * ### Disclosure, Etc. of Personal Information
+  * Disclosure, Etc. of Personal Information
 
-    1. #### 1\. You may request the Company Group to notify you of the purpose of utilization of, disclose, correct, add or delete the content of, discontinue its utilization of, erase, or discontinue its provision to a third party of, the retained personal data handled by the Company Group ("Disclosure, Etc.") pursuant to Articles 24 through 27 of the Act on the Protection of Personal Information.
+    1. 1\. You may request the Company Group to notify you of the purpose of utilization of, disclose, correct, add or delete the content of, discontinue its utilization of, erase, or discontinue its provision to a third party of, the retained personal data handled by the Company Group ("Disclosure, Etc.") pursuant to Articles 24 through 27 of the Act on the Protection of Personal Information.
 
       1. (1) When requesting notification of the purpose of utilization and disclosure, you are required to pay fees. (For fees, please refer to the "Fee and payment method for request for Disclosure, Etc.")
       2. (2) You are required to pay all of the printing costs, costs of obtaining documents for identity verification, mailing costs and other costs.
       3. (3) Please note that we only accept the request form designated by the Company Group, and do not accept any other request form.
       4. (4) We will properly handle personal information acquired at the time of your request to the extent necessary for such request, and please understand that we do not return documents or other materials submitted by you (including documents for identity verification).
-    2. #### 2\. Fee and payment method for request for Disclosure, Etc.
+    2. 2\. Fee and payment method for request for Disclosure, Etc.
 
 In the case of request for disclosure and request for notification of the purpose of utilization:
 
@@ -150,11 +144,11 @@ In the case of request for disclosure and request for notification of the purpos
         * * If the cost of simple registered mail or the simple registered mail system is changed, the fee for request for Disclosure, Etc. will be changed accordingly.
         * * If the payment is either less than the specified fee amount or not enclosed, the Company Group will notify you thereof, and return all the submitted documents. You will be requested to resubmit the documents.
         * * Please understand that we do not accept requests by a person who visit our company in person.
-    3. #### 3\. Name of the personal information manager
+    3. 3\. Name of the personal information manager
 
 Kiyoshi Suzuki, Director and Executive Officer
 
-    4. #### 4\. Procedures for request
+    4. 4\. Procedures for request
 
       1. (1) Please download or print out the "Request form designated by the Company Group" indicated below.
       2. (2) After filling out the relevant items in the form, and signing and sealing the form, please enclose the "documents for identity verification" and mail them to the "Personal Information Inquiry Desk." In the case of a request made by an agent on your behalf, his or her address, signature and seal are required in addition to your address and name. 
@@ -182,8 +176,6 @@ Notes:
       3. (3) Once we verify the identity, we will appropriately and promptly make a response within a reasonable period of time and to the reasonable extent. If we are not able to accept the request in part or full, we will provide a reason pursuant to Article 28 of the Act on the Protection of Personal Information.
 
 
-
-## Company Group
 
 In the Policy, the "Company Group" means the following companies which are Gurunavi, Inc., its subsidiaries, affiliates, equity method affiliates, and other companies with which Gurunavi, Inc. has a business alliance relationship:
 
