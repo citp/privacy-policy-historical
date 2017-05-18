@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultspace.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222000913id_/http%3A//www.adultspace.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultspace.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518222028id_/https%3A//www.adultspace.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Adultspace.com | Privacy Policy
 
