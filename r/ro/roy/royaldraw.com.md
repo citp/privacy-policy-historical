@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royaldraw.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119101732id_/http%3A//www.royaldraw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royaldraw.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519181542id_/http%3A//www.royaldraw.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily Draws, Coupons, Contests and more! | RoyalDraw.com
 
