@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cevalogistics.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218154435id_/http%3A//www.cevalogistics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cevalogistics.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519115012id_/http%3A//www.cevalogistics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CEVA Logistics
 
