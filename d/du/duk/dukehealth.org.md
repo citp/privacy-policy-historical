@@ -1,43 +1,40 @@
-> *The following text is extracted and transformed from the dukehealth.org privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909224447id_/https%3A//www.dukehealth.org/patients-and-visitors/notice-of-privacy-practices) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dukehealth.org privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519202054id_/https%3A//www.dukehealth.org/privacy-policy/web-site-privacy-policy) for the most accurate reproduction.*
 
-# Notice of privacy practices | Duke Health
+# Website Privacy Policy | Duke Health
 
-The following categories describe different ways that we may use and disclose health information. For each category of uses or disclosures, we will explain what we mean and try to give some examples. Not every use or disclosure in a category will be listed. However, all of the ways we are permitted to use and disclose information will fall within at least one of the categories.
+The policy below applies to all Duke University Health System websites, including, but not limited to:
 
-**For Treatment.** We may use your health information to provide, coordinate or manage your healthcare treatment and related services. This may include communication with other health-c are providers regarding your treatment and coordinating and managing your healthcare with others. For ex ample, a doctor treating you for a broken leg may need to know if you have diabetes because diabetes may slow the healing process. The doctor may need to tell the dietitian if you have diabetes so that we can arrange for appropriate meals. Different DHE departments may also access your health information in order to coordinate the different things you need, such as prescriptions, lab work and x-rays. We ma y also disclose your health information to people, such as ho me health providers, who may be involved in your medical care after you leave our care
-
-**For Payment.** We may use and disclose your health information to other providers so they may bill and collect payment for treatment and services they provided to you. Before you receive scheduled services, we may share information about these services with your health plan(s) to obtain prior approval or to determine whether your insurance will cover the treatment. We may also share your health information with billing and collection departments or agencies, insurance companies and health plans to collect payment for services, departments that review the appropriateness of the care provided and the costs associated with that care and to consumer reporting agencies (e.g., credit bureaus). For example, if you have a broken leg, we may need to give your health plan(s) information about your condition, supplies used (medications or crutches) and services you received (X-rays or surgery). This information is given to our billing agency and your health plan so we can be paid or you can be reimbursed
-
-**For Health Care Operations.** We may use and disclose your health information for healthcare operations. These uses and disclosures allow us to improve the quality of care we provide and reduce healthcare costs. Examples of uses and disclosures for healthcare operations include the following:
-
-  * Reviewing and improving the quality, efficiency and cost of care that we provide to you and other patients.
-  * Evaluating the skills, qualifications, and performance of healthcare providers taking care of you.
-  * Providing training programs for students, trainees, healthcare providers or non-healthcare professionals (for example, billing clerks) to help them practice or improve their skills.
-  * Cooperating with outside organizations that assess the quality of care we provide. These organizations might include government agencies or accrediting bodies like the Joint Commission and the Accreditation Association of Ambulatory Healthcare, Inc.
-  * Cooperating with outside organizations that evaluate, certify or license healthcare providers, staff or facilities in a particular field or specialty. For example, we may use or disclose health information so that one of our nurses may become certified in a specific field of nursing.
-  * Sharing information with the Duke University Police Department to maintain safety at our facilities.
-  * Assisting various people who review our activities. Health information may be seen by doctors reviewing services provided to you, and by accountants, lawyers and others who assist us in complying with applicable laws.
-  * Conducting business management and general administrative activities related to our organizations and services we provide.
-  * Resolving grievances within our organizations.
-  * Complying with this Notice and with applicable laws.
+  * [dukehealth.org](http://dukehealth.org/)
+  * [corporate.dukehealth.org](http://corporate.dukehealth.org/)
 
 
 
-**Appointment Reminders.** We may use and disclose health information to provide a reminder to you about an appointment you have for treatment or medical care at DHE.
+Duke is committed to protecting your online privacy. In general, you can visit Duke Web sites without revealing any personal information. However, you may be asked to provide personal information to gain access to some of our content and services. This information helps us to better ascertain and address the health care needs and concerns of site visitors.
 
-**Treatment Alternatives.** We may use and disclose your health information to manage and coordinate your healthcare and inform you of treatment alternatives and other health related benefits that may be of interest to you. This may include telling you ab out treatments, services, products and/or other healthcare providers. For example, if you are diagnosed with diabetes, we may tell you about nutritional and other counseling services that may be of interest to you
+All personally identifiable data that you enter on this site is not sold or given to any third parties.
 
-**Business Associates.** There are some services provided in our organization through contracts with business associates. For example, we may use a copy service to make copies of your medical record. When we hire companies to perform these services, we may disclose your health information to these companies so that they can perform the job we’ve asked them to do. To protect your health information, however, we require the business associate to appropriately safeguard your health information.
+##  Analytics Tools 
 
-**Fund-raising Activities.** We may use your health information to contact you or your legal representative in an effort to raise money for DHE and its operations. We would only use contact information, such as your name, address and phone number, department of service, treating physician, outcome information, health insurance status, and the dates you received treatment or services. You have the right to opt out of receiving these communications. If you do not want us to contact you for fundraising efforts, please call 1-800-688-1867 or send your written request to:
+We use analytics tools and other third party technologies, such as Google Analytics (including Google Analytics Demographics and Interest Reporting and Remarketing with Google Analytics) and DoubleClick Cookies, to collect non-personal information regarding you  in the form of various usage and user metrics when you use our online Sites and/or Services. These tools and technologies collect and analyze certain types of information, including cookies, IP addresses, device and software identifiers, referring and exit URLs, onsite behavior and usage information, feature use metrics and statistics, usage and purchase history, MAC Address, mobile unique device ID, geo-location, demographic and interest data, and other similar information.
 
-Office of the Assistant Vice President  
-Development and Alumni Affairs  
-Box 3541  
-Durham, NC 27710
+The third party analytics companies who collect information on our Sites and/or Services and other online products and/or services may combine the information collected with other information they have independently collected from other websites and/or other online or mobile products and services relating to your activities across their network of websites as well as online and/or mobile products and services. Many of these companies collect and use information under their own privacy policies.
 
-Or, [dukemed@duke.edu](mailto:dukemed@duke.edu)
+In addition to our use of technologies as described herein, we may permit certain third party companies to help us tailor advertising that we think may be of interest to you based on your use of Duke Health Sites and/or Services and to otherwise collect and use data about your use of Duke Health Sites and/or Services. 
 
-**Hospital Directory.** We may include certain limited information about you in the hospital directory while you are a patient at one of our hospitals. This information may include your name, location in the hospital, your general condition (e.g., fair, stable, etc.) and your religious affiliation. The directory in formation, except for your religious affiliation, may be released to people who ask for you by name. Your religious affiliation may be given to a member of the clergy, such as a priest or rabbi, even if they don’t ask for you byname. If you do not want your information listed in the hospital directory, please notify Registration when you arrive or call the facility’s Admitting Office.
+You may opt out of the Google advertising cookies by visiting the [Google advertising opt-out page](http://www.google.com/policies/technologies/ads/) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](http://tools.google.com/dlpage/gaoptout). Google has additional information available about their [Remarketing Privacy Guidelines](http://support.google.com/adwordspolicy/answer/143465?hl=en&rd=2), and [Restrictions](http://support.google.com/adwords/answer/2549116?hl=en).
 
-**Individuals Involved in Your Care or Payment for Your Care.** We may share your health information with a family member or other person identified by you or who is involved in your care or payment for your care. We may tell your family or friends you condition. In addition, we may disclose health information about you to an entity assisting in a disaster relief effort so that your family can be notified about your condition and location. If you do not want health information about you released to those involved in your care, please call 1-800-688-1867. We will comply with additional state law confidentiality protections if you are a minor and receive treatment for pregnancy, drug and/or alcohol abuse, venereal disease or emotional disturbances.
+##  Optimization 
+
+We use user information, including behavioral metrics, and other non-personally identifiable information to operate, provide, improve, and maintain our Sites and Services, to develop new products and services, to prevent abuse and fraud, to personalize and display advertisements and other content for you, and for other administrative and internal business purposes.
+
+##  Email Communications 
+
+Communication that you send to us via the email links and forms on our site may be shared with a customer service representative, employee, or medical expert that is most able to address your inquiry. We make every effort to respond in a timely fashion once communications are received.
+
+Because email does not provide a completely secure and confidential means of communication, please do not use e-mail if you wish to keep your communication private. Instead, call 888-275-3853 with your request.
+
+##  Complaint Process 
+
+If you have a complaint or problem, or if you believe your privacy rights have been violated, you may contact us. Please indicate the reason for contacting us. Our customer service department will forward your complaint to the appropriate Duke University Health System department for response or resolution.
+
+Last updated: April 2015
