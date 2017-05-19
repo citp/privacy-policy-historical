@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umassd.edu privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127094931id_/http%3A//www.umassd.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umassd.edu privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519094036id_/https%3A//www.umassd.edu/privacy) for the most accurate reproduction.*
 
 # Privacy - UMass Dartmouth
 
@@ -21,4 +21,4 @@ Optional information is collected only if you choose to send it. For example if 
 
 
 
-The main UMass Dartmouth website is produced and maintained by the University of Massachusetts Dartmouth University Marketing Web Development Group. [Contact UMass Dartmouth Web Development](https://web.archive.org/webdevelopment/contact/).
+The main UMass Dartmouth website is produced and maintained by the University of Massachusetts Dartmouth University Marketing Web Development Group. [Contact UMass Dartmouth Web Development](https://www.umassd.edu/webdevelopment/contact/).
