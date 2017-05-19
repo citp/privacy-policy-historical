@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lopgold.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119010650id_/http%3A//lessonofpassion.com/support/privacy.php%3Ftype%3Dlopgold%26mode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lopgold.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519180412id_/http%3A//lessonofpassion.com/support/privacy.php%3Ftype%3Dlopgold%26mode%3Dprivacy) for the most accurate reproduction.*
 
 # Lesson of Passion support center
 
