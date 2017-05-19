@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taadd.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206190058id_/http%3A//www.taadd.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taadd.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519030543id_/http%3A//www.taadd.com/privacypolicy.php) for the most accurate reproduction.*
 
 # 
 
