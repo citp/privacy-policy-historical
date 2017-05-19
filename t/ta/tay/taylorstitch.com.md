@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taylorstitch.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005140327id_/http%3A//www.taylorstitch.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylorstitch.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519094007id_/https%3A//www.taylorstitch.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Taylor Stitch
 
@@ -8,7 +8,7 @@ When you purchase something from our store, as part of the buying and selling pr
 
 When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
 
-Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates. 
+With your permission, we may send you emails about our store, new products and other updates.
 
 ## SECTION 2 — CONSENT
 
@@ -16,22 +16,22 @@ Email marketing (if applicable): With your permission, we may send you emails ab
 
 When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
-If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no. 
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
 ### How do I withdraw my consent?
 
-If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at contact@taylorstitch.com or mailing us at:
+If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by [contacting us](https://web.archive.org/contact) or mailing us at:
 
 Taylor Stitch  
-383 Valencia Street, San Francisco, California, US, 94103
+290 Utah Street, San Francisco, CA 94103, USA
 
 ## SECTION 3 — DISCLOSURE
 
-We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service. 
+We may disclose your personal information if we are required by law to do so or if you violate our [Terms of Service.](https://web.archive.org/pages/terms-and-conditions)
 
 ## SECTION 4 — SHOPIFY
 
-Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you. 
+Our store is hosted on Shopify Inc. They provide us with the online ecommerce platform that allows us to sell our products and services to you.
 
 Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
 
@@ -39,11 +39,11 @@ Your data is stored through Shopify’s data storage, databases and the general 
 
 If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
 
-All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover. 
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.
 
 PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
 
-For more insight, you may also want to read Shopify’s Terms of Service [here](http://shopify.com/legal/terms) or Privacy Statement [here](http://shopify.com/legal/privacy).
+For more insight, you may also want to read Shopify’s [Terms of Service](https://shopify.com/legal/terms) and [Privacy Statement](https://shopify.com/legal/privacy).
 
 ## SECTION 5 — THIRD-PARTY SERVICES
 
@@ -57,7 +57,7 @@ In particular, remember that certain providers may be located in or have facilit
 
 As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
 
-Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service. 
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
 ### Links
 
@@ -79,6 +79,7 @@ Here is a list of cookies that we use. We’ve listed them here so you that you 
   * **cart** : unique token, persistent for 2 weeks, Stores information about the contents of your cart.
   * **_secure_session_id** : unique token, sessional
   * **storefront_digest** : unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
+  * **User-ID** : a Google service that associates engagement data from multiple devices and different sessions with unique IDs.
 
 
 
@@ -94,8 +95,8 @@ If our store is acquired or merged with another company, your information may be
 
 ## QUESTIONS AND CONTACT INFORMATION
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at contact@taylorstitch.com or by mail at:
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer using our [online form](https://web.archive.org/contact) or by mail at:
 
 Taylor Stitch  
-[Re: Privacy Compliance Officer]    
-[383 Valencia Street, San Francisco, California, US, 94103
+[Re: Privacy Compliance Officer]  
+290 Utah Street, San Francisco, CA 94103, USA
