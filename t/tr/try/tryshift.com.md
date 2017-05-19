@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tryshift.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225173247id_/http%3A//tryshift.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tryshift.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519144024id_/http%3A//tryshift.com/privacy) for the most accurate reproduction.*
 
-# Shift - Privacy Policy
+# Shift
 
 TLDR; 
 
@@ -71,7 +71,8 @@ We reserve the right, in our sole discretion, to modify, update and change this 
 
 ## **Gmail Like A Boss!**
 
-Please confirm your email so we can send you a secure link to get started.
+## **You came from a promoted source.**
 
-We've sent a unique download link to the email you provided.  
-Just click that link to get started using Shift today! 
+Submit your email to receive a free upgrade when you first login to Shift.
+
+* * *
