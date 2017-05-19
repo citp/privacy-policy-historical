@@ -1,35 +1,28 @@
-> *The following text is extracted and transformed from the dailyinterlake.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605064441id_/http%3A//www.dailyinterlake.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyinterlake.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519101659id_/http%3A//www.dailyinterlake.com/pdf/privacy-policy.pdf) for the most accurate reproduction.*
 
-# Daily Inter Lake - site
+# Privacy Policy
 
-Thank you for visiting the Daily Inter Lake web site and for reviewing our Privacy Policy. Our Privacy Policy is clear.
-
-We collect no information about you, other than information automatically collected and stored (see below), when you visit our web site unless you choose to provide that information to us.
-
-Information Automatically Collected and Stored:
-
-When you browse through any web site, certain personal information about you can be collected. We may collect and temporarily store the following information about your visit:
-
-* the name of the domain you use to access the Internet
-
-* the pages you visited; and
-
-* the address of the web site you came from when you came to visit.
-
-We use this information for statistical purposes and to help us make our site more useful to visitors. Unless it is specifically stated otherwise, no additional information will be collected about you.
-
-Personally Provided Information:
-
-You do not have to give us personal information to visit our web sites.
-
-If you choose to provide us with additional information about yourself through an e-mail message, form, survey, etc., we will only maintain the information as long as needed to respond to your question or to fulfill the stated purpose of the communication.
-
-However, for certain products for sale, we may collect payment information.
-
-Security
-
-The Daily Inter Lake uses industry standard encryption software when collecting private information via web forms.
-
-Disclosure:
-
-The Daily Inter Lake does not disclose, give, sell or transfer any personal information about our visitors, unless required for law enforcement or statute.
+Privacy Policy
+Your privacy is very important to us. Accordingly, we have developed this Policy in order
+for you to understand how we collect, use, communicate and disclose and make use of
+personal information. The following outlines our privacy policy.
+        • Before or at the time of collecting personal information, we will identify the
+       purposes for which information is being collected.
+        • We will collect and use of personal information solely with the objective of
+       fulfilling those purposes specified by us and for other compatible purposes,
+       unless we obtain the consent of the individual concerned or as required by law.
+        • We will only retain personal information as long as necessary for the fulfillment
+       of those purposes.
+        • We will collect personal information by lawful and fair means and, where
+       appropriate, with the knowledge or consent of the individual concerned.
+        • Personal data should be relevant to the purposes for which it is to be used,
+       and, to the extent necessary for those purposes, should be accurate, complete,
+       and up-to-date.
+        • We will protect personal information by reasonable security safeguards against
+       loss or theft, as well as unauthorized access, disclosure, copying, use or
+       modification.
+        • We will make readily available to customers information about our policies and
+       practices relating to the management of personal information.
+We are committed to conducting our business in accordance with these principles in
+order to ensure that the confidentiality of personal information is protected and
+maintained.
