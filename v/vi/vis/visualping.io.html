@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the visualping.io privacy policy that was archived on 2016-10-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161018105110id_/https%3A//visualping.io/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the visualping.io privacy policy that was archived on 2017-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170519084458id_/https%3A//visualping.io/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="mod mod-layout skin-layout-login"><head>
     
@@ -20,7 +20,7 @@
 <meta name="twitter:domain" content="visualping.io">
 
 <link rel="shortcut icon" href="favicon.ico">
-    <link rel="stylesheet" href="https://cdn.visualping.io/app.css?v=9cae60ce" type="text/css">
+    <link rel="stylesheet" href="https://cdn.visualping.io/app.css?v=8380b8eb" type="text/css">
 
 
 <meta name="viewport" content="width=768">
@@ -248,7 +248,8 @@
 
 <div class="navigation">	
   <span><a href="/pricing">Pricing</a></span>
-  <span><a href="/about">About us</a></span>
+  <span><a href="/about">About</a></span>
+  <span><a href="mailto:hello@visualping.io">Contact</a></span>
   <a href="/chrome-app" class="button bordered">Download App</a> 
 </div>
 
@@ -257,7 +258,7 @@
     Follow us <a href="http://twitter.com/visualping" title="Visualping on Twitter" target="_blank">on Twitter</a> or <a href="https://www.facebook.com/visualping.io" target="_blank">Facebook</a>. We respond in less than 24 hrs on <a href="mailto:hello@visualping.io">hello@visualping.io</a>
 </p>
 <p class="copyright">
-	All rights Reserved © 2016 WebMonitoring Technologies Inc. 1900 - 885 West Georgia St. Vancouver, BC V6C 3H4 CA
+	All rights Reserved © 2017 WebMonitoring Technologies Inc. 1900 - 885 West Georgia St. Vancouver, BC V6C 3H4 CA
 </p>
 </div>        </div>
     </div>
@@ -282,6 +283,7 @@
     <div class="fld-input-member__content">{{= it.email }}</div>
       <input type="text">
       <div class="fld-input-member--inline-actions">
+        <i class="fa fa-check-circle"></i>
         <i class="fa fa-pencil icon-edit js-icon-edit-email"></i>
       </div>
     </div>
@@ -303,6 +305,7 @@
         <div class="fld-input-member__content" data-placeholder="me@example.com">{{=it.email}}</div>
         <input type="text">
         <div class="fld-input-member--inline-actions">
+            <i class="fa fa-check-circle"></i>
             <i class="fa fa-pencil icon-edit js-icon-edit-email"></i>
             <i class="fa fa-trash icon-trash js-icon-delete-email"></i>
         </div>
@@ -312,7 +315,87 @@
     {{?}}
 </li>
 
-</script><script id="mod-block-adminjoblisting-modal-scannow" type="text/x-dot-template">
+</script><script id="mod-block-adminjoblisting-elem-adminjoblisting-change" type="text/x-dot-template">
+<tr>
+    <td class="col-change-date">
+        <i class="fa fa-time"></i> {{=it.created}}
+    </td>
+    {{?it.mode == 'VISUAL'}}
+    <td class="col-change-percent">
+        <div class="percent">{{=it.PercentDifference}}%</div>
+        <div class="pixels">{{=it.PixelsOutOfSpec}} pixels</div>
+        <div class="box">
+            <div class="box-percent" style="width: {{=it.PercentDifference}}%;"></div>
+        </div>
+    </td>
+    {{??}}
+    <td class="col-change-percent">
+        <div class="percent">Change detected</div>
+        <div class="pixels">n/a pixel</div>
+    </td>
+    {{?}}
+    <td class="col-change-diff"><div style="background-image: url('{{=it.cdn}}/api/job/snapshot/diff/{{=it.thumbnail_diff_90}}');" /><div class="overlay-small" data-url="{{=it.cdn}}/api/job/snapshot/diff/{{=it.thumbnail_diff_full}}"><i class="fa fa-search"></i></div></td>
+    
+    <td class="col-change-new"><div style="background-image: url('{{=it.cdn}}/api/job/snapshot/new/{{=it.thumbnail_prev_90}}');" /><div class="overlay-small" data-url="{{=it.cdn}}/api/job/snapshot/new/{{=it.thumbnail_prev_full}}"><i class="fa fa-search"></i></div></td>
+</tr></script><script id="mod-block-adminjoblisting-elem-adminjoblisting-check" type="text/x-dot-template">
+
+<tr {{?it.notification_send == 1}}class="triggered"{{?}} data-id={{=it.screenshot_id}} data-process-id={{=it.process_id}}>
+    <td class="col-check-date"><i class="fa fa-time"></i> {{=it.created}}</td>
+    {{?it.error_log_id > 0 && !it.initial}}
+        <td class="col-check-percent state-error"><span class="percent"><i class="fa fa-warning-sign"></i></span>&nbsp;&nbsp;<span class="msg-error">{{=it.error_message}}</span></td>
+    {{??it.in_progress > 0 || it.initial === 1}}
+        <td class="col-check-percent state-info"><span class="percent"><i class="fa fa-cog"></i></span>&nbsp;&nbsp;<span class="msg-info">{{?it.error_message}}{{=it.error_message}}{{??}}Check in progress{{?}}</span></td>
+    {{??it.info_message}}
+        <td class="col-check-percent state-info"><span class="percent"><i class="fa fa-code"></i></span>&nbsp;&nbsp;<span class="msg-info">{{=it.info_message}}</span></td>
+    {{??it.process_log_id > 0}}
+         {{?it.mode == 'VISUAL'}}
+        <td class="col-check-percent"><span class="percent">{{=it.PercentDifference}}%</span>&nbsp;&nbsp;<span class="pixels">{{=it.PixelsOutOfSpec}} pixels</span></td>
+        {{??}}
+           {{?it.notification_send}}
+                <td class="col-check-percent"><span class="percent">Change detected</span>&nbsp;&nbsp;<span class="pixels"></span></td>
+            {{??}}
+                <td class="col-check-percent"><span class="percent">No Change detected</span>&nbsp;&nbsp;<span class="pixels"></span></td>
+            {{?}}
+        {{?}}
+
+    {{?}}
+    <td class="col-check-triggered">{{?it.notification_send == 1}}<i class="fa fa-ok-sign"></i>{{?}}</td>
+</tr>
+</script><script id="mod-block-adminjoblisting-elem-jobcontrol" type="text/x-dot-template">
+ <div class="job-controls col-status">
+    <label for="">Status</label>
+     <div class="fld-job-status"><input type="checkbox" class="checkbox-job-status"></div>
+</div>
+<div class="job-controls col-settings">
+    <label for="">Advanced Settings</label>
+    <button class="btn-advanced-settings btn-secondary ">&nbsp;<i class="fa fa-cogs"></i></button>
+</div>
+<div class="job-controls col-selection">
+    <label for="">Adjust Selection</label>
+    <button class="btn-adjust-selection js-btn-adjust-selection btn-secondary ">&nbsp;<i class="fa fa-object-ungroup"></i></button>
+</div>
+<div class="job-controls col-mode">
+    <label for=""><span class="col-mode__notice-new">New:</span>  Compare Mode <a href="/faq#webcompare" target="_blank" class="info-btn">i</a></label>
+    <div class="fld-selection-mode"></div>    
+</div>
+<div class="job-controls col-notice hide">
+    <label>Notice</label>
+    <span class="col-notice__description">Job automatically inactivated</span>
+    <span class="col-notice__description">(Reason: page not loading properly)</span>
+</div>
+<div class="job-controls col-geoip hide"></div></script><script id="mod-block-adminjoblisting-fld-geoip-mode" type="text/x-dot-template">
+<div class="geoip-wrapper">
+    <div class="fld-geoip-wrapper">
+        <label for="">Set Search Location</label>
+        <div class="fld-job-geoip2" id="fld-job-geoip">
+            <input type="checkbox" class="checkbox-job-geoip">
+        </div>
+    </div>
+    <input class="fld input-job-geoip state-hidden">&nbsp;</input>
+</div>
+
+</script><script id="mod-block-adminjoblisting-fld-selection-mode" type="text/x-dot-template">
+<input type="checkbox" class="checkbox-selection-mode js-open-selectionmode" {{?it.mode=='WEB'}}checked{{?}}></script><script id="mod-block-adminjoblisting-modal-scannow" type="text/x-dot-template">
 <div class="modal-scannow modal-box state-open">
 	<a href="#" class="btn-modal-cancel"><i class="icon-close"></i></a>
 	<div class="modal-content">
@@ -333,11 +416,19 @@
 	</div>
 	<div class="fld-input fld-input-adblock__selector" data-placeholder="google_ads">{{=it.selector}}</div>
 	<div class="fld-input-adblock--inline-actions">
-	    <i class="fa fa-pencil icon-edit js-icon-edit-adblock-item"></i>
+		<i class="fa fa-check-circle"></i>
+		<i class="fa fa-pencil icon-edit js-icon-edit-adblock-item"></i>
 	    <i class="fa fa-trash icon-trash js-icon-delete-adblock-item"></i>
     </div>
 </div>
-</script><script id="mod-block-advancedsettings-preaction-item" type="text/x-dot-template">
+</script><script id="mod-block-advancedsettings-advanced-settings-modal-footer" type="text/x-dot-template">
+{{?it.btn_selector}}
+<button class="btn-adblocker-selector btn-primary js-btn-adblocker-selector">Selector</button>
+{{?}}
+{{?it.btn_preview}}
+<button class="btn-screenshot-preview btn-primary js-btn-screenshot-preview {{?it.btn_preview == 'disabled'}}state-disabled{{?}}" {{?it.btn_preview == 'disabled'}}disabled{{?}}>Preview</button>
+{{?}}
+<button class="btn-close btn-primary">Close</button></script><script id="mod-block-advancedsettings-preaction-item" type="text/x-dot-template">
 <div class="modal-preaction__item cf">
 	<div class="fld-dropdown fld-preaction-selection" data-mode={{=it.type}}>
 		<div class="selected cf">
@@ -351,23 +442,53 @@
 	</div>
 	<div class="fld-input fld-input-preaction__selector" data-placeholder='//*[@id="foo"]'>{{=it.selector}}</div>
 	<div class="fld-input-preaction--inline-actions">
+		<i class="fa fa-check-circle"></i>
 	    <i class="fa fa-pencil icon-edit js-icon-edit-preaction-item"></i>
 	    <i class="fa fa-trash icon-trash js-icon-delete-preaction-item"></i>
     </div>
 </div>
 </script><script id="mod-block-advancedsettings-screenshot-preview" type="text/x-dot-template">
-<div class="img-preview-modal">
-	<div class="meta">Capturing Website...</div>
+<div class="preview-wrapper">
+	<div class="img-preview-modal">
+		<div class="meta">Capturing Website. Please wait...</div>
+	</div>
+	<div class="preview-overlay"></div>
 </div>
 <div class="img-preview-modal-footer">
-	<div class="img-preview-modal-buttons">
-		{{?it.btn_save}}
-		<button class="btn-img-preview-modal-save btn-primary">Save</button>
-		{{?}}
-		<button class="btn-img-preview-modal-close btn-primary">Cancel</button>
-	</div>
+<div class="img-preview-modal-buttons">
+	{{?it.btn_save}}
+	<button class="btn-img-preview-modal-save btn-primary">Save</button>
+	{{?}}
+	{{?it.btn_save_xpath}}
+	<button class="btn-img-preview-modal-save-xpath btn-primary">Save</button>
+	{{?}}
+	<button class="btn-img-preview-modal-close btn-primary">Cancel</button>
+	{{?it.show_switcher}}
+	<div class="config mode-chooser" data-mode="visual">
+        <div class="mode-chooser__wrapper">
+            <label for="toggle-visual" class="mode-chooser__label-visual">Web <a href="/faq#webcompare" target="_blank" class="info-btn">i</a></label>
+            <input type="checkbox" name="toggle" id="toggle" class="mode-chooser__input" {{?it.mode == "WEB"}}checked{{?}}>
+            <label for="toggle" class="mode-chooser__label js-mode-chooser__label-visual"></label>
+            <label for="toggle-web" class="mode-chooser__label-web">Visual</label>
+        </div>
+    </div>
+    {{?}}
+</div>
+
+</script><script id="mod-block-monitorbuilder-selector-overlay" type="text/x-dot-template">
+<div class="preview-overlay__item" style="top: {{=it.data.top}}px;left:{{=it.data.left}}px;height:{{=it.data.height}}px;width:{{=it.data.width}}px;z-index:{{=it.data.zindex}};line-height:{{=it.data.height}}px" data-xpath="{{=it.data.xpath}}" 
+data-top="{{=it.coordinates.top}}"
+data-left="{{=it.coordinates.left}}"
+data-width="{{=it.coordinates.width}}"
+data-height="{{=it.coordinates.height}}"
+data-id="{{=it.data.id}}"
+data-class="{{=it.data.class}}"
+data-parent="{{=it.data.parent}}"
+data-key="{{=it.data.key}}"
+>
+    <i class="fa fa-plus-circle preview-overlay__icon js-preview-overlay__icon state-disabled"></i>
 </div></script>
-  <script src="https://cdn.visualping.io/app.js?v=9cae60ce"></script>
+  <script src="https://cdn.visualping.io/app.js?v=8380b8eb"></script>
 <script>
 (function($) {
     $(document).ready(function() {
@@ -397,7 +518,8 @@
 
 
 <!--BEGIN BEESWAX SEGMENT TAG, DO NOT REMOVE -->
-<img src="http://segment.prod.bidr.io/associate-segment?buzz_key=stinger&amp;segment_key=stinger-266&amp;value=[VALUE]" height="0" width="0">
+<!--<img src="http://segment.prod.bidr.io/associate-segment?buzz_key=stinger&segment_key=stinger-266&value=[VALUE]" height="0" width="0">-->
 <!--END BEESWAX SEGMENT TAG, DO NOT REMOVE -->
+
 
 </body></html>
