@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revealingthestuffs.com privacy policy that was archived on 2016-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160901125628id_/http%3A//www.revealingthestuffs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revealingthestuffs.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519104856id_/http%3A//www.revealingthestuffs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Revealing The Stuffs
 
