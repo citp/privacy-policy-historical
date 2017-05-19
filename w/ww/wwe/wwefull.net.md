@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wwefull.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119100829id_/http%3A//wwefull.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwefull.net privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519155841id_/http%3A//wwefull.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Watch WWE Full Show Free - Wrestling, TNA, ROH, UFC, NJPW, INDYS
+# Privacy Policy - Watch WWE RAW Smackdown Full Show Online Free - Wrestling, MMA, TNA, ROH, UFC, NJPW, INDYS
 
 What information do we collect?
 
