@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klinkk.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122054805id_/http%3A//www.klinkk.com/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klinkk.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519165132id_/http%3A//www.klinkk.com/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Klinkk
 
@@ -27,4 +27,4 @@ If you are under 18, then you may not use this website and its service unless yo
 
 ## Your Choice of Opting Out
 
-We may send your mass announcement emails or site news from time to time. If you do not want to receive emails from us, you can easily unsubscribe by clicking on the “Unsubscribe” link which will be present at the end of every email we send. Please however note that some communication is highly essential since these will include important information about any changes in the site, your account and other information regarding your submissions or your profile. **If for any reason, you want to delete your account at Klinkk,[please contact us.](https://web.archive.org/web/20161122054805id_/http%3A//www.klinkk.com/klinkk.com/blog/contact/)**
+We may send your mass announcement emails or site news from time to time. If you do not want to receive emails from us, you can easily unsubscribe by clicking on the “Unsubscribe” link which will be present at the end of every email we send. Please however note that some communication is highly essential since these will include important information about any changes in the site, your account and other information regarding your submissions or your profile. **If for any reason, you want to delete your account at Klinkk,[please contact us.](https://web.archive.org/web/20170519165132id_/http%3A//www.klinkk.com/klinkk.com/blog/contact/)**
