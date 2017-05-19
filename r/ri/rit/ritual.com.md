@@ -1,98 +1,117 @@
-> *The following text is extracted and transformed from the ritual.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619032907id_/http%3A//www.iwin.com/corp/iwin/user/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ritual.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519073732id_/https%3A//ritual.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# iWin Privacy Policy
+# Ritual | Ritual Privacy Policy
 
-**Privacy Policy**
+EFFECTIVE DATE: 10/16/16  
+LAST UPDATED: 10/16/16
 
-Your privacy is important to iWin. IWin operates various websites with game-related products and services (our "Sites") and provides applications for the provision of various online and mobile services, such as search and gaming (collectively, "Applications") through which personal information may be collected. This privacy policy (the "Privacy Policy") applies to all personal information collected by iWin through our Sites and Applications.
+Your privacy is very important to us. Our Privacy Policy spells out Natals, Inc.’s commitment to respecting the privacy of the members and visitors to our website. We reserve the right to change this policy at any time, which we'll do through online posting or an email message sent directly to you.
 
-If iWin is operating the Sites or Applications under an agreement with a specific partner, the branding of the Site or the Application will indicate the specific partner with which iWin operates the Site or Application ("Identified Partners"). In such an event, iWin may share the data collected with that particular identified Partner. Accordingly, iWin's use of your data is subject to our Privacy Policy - and our Identified Partner's use of your data is subject to its privacy policy. You should familiarize yourself with such Identified Partner's privacy policy. Some of iWin's Identified Partners serve their own ads or use other ad-serving networks. To opt out of data collection by an Identified Partner's ad-serving network, please see that Identified Partner's privacy policy.
+This Privacy Policy describes how Natals, Inc. (“we”, “us” or “our”) collects and uses the personal information you provide to us on our website: www.ritual.com (collectively the “Site”). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-This Privacy Policy describes our practices regarding the information collected online through Sites and Applications maintained by iWin, and not to websites or services offered and operated by other companies or organizations to which we link. Additionally, this Privacy Policy does not cover information that we collect through other methods, such as mail-in sweepstakes.
+## Collection and Use of Personal Information
 
-IWin is headquartered in the United States and the collected data is stored in the United States. Although we operate Sites and maintain some operations outside the United States, when you become a member of one of our online communities or programs, make a purchase from iWin or register for one of the Applications, your account is with a United States company and your data will be stored in the United States. By registering and using this Site, Members acknowledge that the processing of their personally identifying information for the purposes described above may involve the transfer of such personally identifying information from within the European Economic Area ("EEA") to countries outside the EEA whose data protection regulation may not be as stringent as that within the European Union.
+We collect personal information from you to provide an efficient, meaningful and customized experience for you on Site.
 
-BY USING THIS SITE, APPLICATION, OR USING ANY OF THE RELATED SERVICES, YOU SIGNIFY YOUR ASSENT TO IWIN'S PRIVACY POLICY AND YOUR UNDERSTANDING THAT IWIN MAY PROCESS YOUR DATA IN ACCORDANCE WITH THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THE FOREGOING, PLEASE DO NOT USE THE SITE OR APPLICATION OR IF ALREADY A MEMBER YOU MUST TERMINATE YOUR ACCOUNT.
+We may collect the following personal information from you:
 
-**THE INFORMATION WE COLLECT**
+  * Contact Information such as name, email address, mailing address and phone number
+  * Billing Information such as credit card number and billing address
+  * Unique Identifiers such as user name, account number and password
+  * Preferences Information such as product wish lists, order history and marketing preferences
 
-If you are a visitor to a Site or a user of an Application, you may provide us with two types of information: personal information you knowingly provide us with on an individual basis ("Personal Information") and statistical and usage information collected using cookies and other technologies as you browse the Site or use an Application ("Usage Information").
 
-**1\. Personal Information**
 
-**Registration Information**  
-You will need to provide us information about yourself, your firm or company, and your preferences when you register on one of the Sites or for one of the Applications. The specific information collected will vary depending on the Site or Application, and may include your name, email address, username (or player name), postal address, telephone number, birth date, and gender. Registration is not required to browse any of our Sites, but you will not be able to view certain content or use aspects of certain Sites or Applications that require registration if you do not provide the requested information.
+As is true of most websites, we automatically gather information about your computer such as your IP address, time and date of visit, browser type, referring/exit pages and operating system. We may log this information for system administration, order verification, internal marketing and system troubleshooting purposes.
 
-**Credit Card Information**  
-If you choose to purchase products or services from us or our partners, you may need to provide a valid credit card number and expiration date, in addition to your name, postal address, email address, and telephone number. iWin securely transmits Credit Card Information to our payment processor for verification and processing. In some instances, iWin also securely stores your encrypted credit card information.  For all transactions, iWin employs secure servers and the secure server software (SSL) to encrypt all payment information. In all instances, iWin has made a substantial investment in server, database, backup, and firewall technologies to protect the assets of the Site, including the confidentiality of information collected about Members. These technologies are deployed as part of a sophisticated security architecture and protocol.
+We use this information to:
 
-**Email Information**  
-In addition to providing us with your email address as part of registration, if you choose to correspond with us via email or by using a web interface to reach customer support, we may retain the content of your messages together with your email address and our responses.
+  * Fulfill your order
+  * Send you an order confirmation
+  * Recommend products you may be interested in purchasing
+  * Send you requested product or service information
+  * Send product updates or warranty information
+  * Respond to customer service requests
+  * Administer your account
+  * Send you a newsletter
+  * Send you marketing communications
+  * Respond to your questions and concerns
+  * Improve our Site and marketing efforts
+  * Conduct research and analysis
+  * Display content based upon your interests
 
-**2\. Usage Information**
 
-Similar to other commercial websites, we utilize standard technologies such as "cookies," clear GIFs (also known as "web beacons" or "action tags") and web server logs to collect information about how the Sites and Applications are used. Additionally, when you connect to or download an Application, we may retrieve information from the computer used to log onto the Application. The information we collect may include technical information about your computer, system and application software, and peripherals, and any data related to the use and operation of the software used in connection with the Application.
 
-**Cookies**  
-As an important and necessary part of providing customizable and personalized services to our Members, iWin sites or its advertisers may use cookies, web beacons, and similar technologies to store and sometimes track non-personal information about Members while on the Website. A cookie is a small amount of data that is sent to a Member's browser from a Web server and stored on a Member's computer hard drive. Areas of iWin sites where Members are prompted to log in or that are customizable require acceptance of cookies. These technologies are also used to help iWin track the response to messages sent to Members on the part of marketers so that iWin can monitor and report campaign results to the marketer and track response history and campaign effectiveness. In addition, banner advertisements are displayed on our websites which may contain certain cookies. While iWin uses cookies in other parts of our websites, the cookies received with banner ads are collected by our advertising partners, and iWin does not have access to this information. Members may opt out of the advertising that they see on our sites targeted specifically to them by going to the respective sites' privacy policy(ies) and following directions. To opt out of Google's "interest-based ads" and to learn more about Google's collection of personal information to serve ads in connection with iWin, please go to www.google.com/settings/ads/onweb/. With respect to cookies, users have a choice. By modifying their browser preferences, they have the choice to accept all cookies; they will be unable to use those iWin services that require the use of cookies in order to participate.
+To review and update your personal information to ensure it is accurate, contact us at: [my@ritual.com](mailto:my@ritual.com).
 
-**Clear GIFs**  
-Clear GIFs are small, invisible graphic images (usually only one pixel) placed on a web page or email message to capture statistical usage information. They are not used to collect personal information about you.
+## Information Sharing
 
-IP Addresses  
-An IP address is a number assigned to your computer every time you are connected to the internet. IP addresses are automatically collected by our web server as part of demographic and profile data known as "traffic data" so that appropriate data (such as the web pages you request) and geographically relevant content can be sent to you.
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties, and we do not authorize the collection of our members' or visitors' personally identifiable information by any third parties for the third parties' use.
 
-**ADVERTISING**
+We may provide your personal information to companies that provide services to help us with our business activities such as charging your order, shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-**Our Advertisers**  
-IWin's advertisers and advertising vendors display targeted advertisements. Although we do not provide any personal information to the advertiser or advertising vendor, by interacting with or clicking on an ad you acknowledge the possibility that the advertiser may assume you meet the targeting criteria used.  
-In addition to cookies placed by iWin or its agents as described above, advertisers and advertising vendors that serve ads onto our Sites may use their own cookies or other tracking technologies. We cannot be responsible for the privacy policies or practices of any such advertisers and vendors.
+We may also disclose your personal information:
 
-**HOW WE USE THE INFORMATION**
+  * As required by law such as to comply with a subpoena or similar legal process;
+  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or respond to a government request; or
+  * To any other third party with your prior consent to do so.
 
-**Uses of your Personal Information**  
-IWin will use your information primarily to provide you with our products and services and to receive payment from you. In order to do this, we may determine whether you meet the minimum system requirements to use our products. We may also ask you to participate in surveys about products, services, news, and events; we may offer you product upgrades and games for you to purchase. You may opt out of some of these uses.  
-IWin may also provide Personal Information to companies we engage as contractors or agents to perform services for us, such as maintaining software, providing email marketing, or administering a sweepstakes or contest. Information will be shared with contractors only to the extent reasonably necessary for them to perform these services on our behalf, and pursuant to confidentiality obligations. Members should note that iWin may change this Policy at any time, and therefore iWin may in the future store some information for additional purposes not currently included in this policy.
 
-**Uses of Usage Information**  
-Usage Information may be used by iWin to analyze Site and Application use in order to optimize the Site and the Applications and improve the user experience.  
-iWin may use the information collected from your computer related to technical aspects of your connecting to a Site or Application in order to facilitate the provision of software updates, product support, and other services to you (if any) related to the Sites and Applications, to verify compliance with the terms of the applicable Site or Application, to improve our products or services or to provide Services or technologies to you.
 
-**GENERALLY**
+We may share non-personal information (such as the number of daily visitors to a particular web page or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
 
-**Where is the information held?**  
-We are a global organization and the computer systems on which we collect, store, and use the information collected or received are based in the United States and elsewhere. Your personal information may be transferred to , used, processed, or held by IWin in the United States and in other countries, including both member and non-member countries of the European Union, and used for the purposes set out in this Privacy Policy.
+## Third Party Websites
 
-**Third-Party Disclosure of Personal Information**  
-IWin does not use your Personal Information for the purposes incompatible with those listed above. Other than as provided in this Privacy Policy, iWin does not provide your Personal information to third parties unless you specifically consent to provide such information to a third party. Sometimes, certain indirectly identifiable information needs to be communicated with third-party vendors, for example, to process an order you have made. We may also disclose Personal Information when legally compelled to do so. In other words, when the law requires it or when we have reason to believe that a disclosure is necessary or appropriate to address potential or actual injury or interference with the rights, property, or operations or iWin, our users or others. Finally, if we undergo a merger or acquisition, or sell or otherwise transfer substantially all the assets of iWin, or relating to any website that we own or operate or any product or service that we offer, Personal Information may be transferred to our successor or assign.
+Our Site may contain links to third party websites. When you click on a link to any other website or location, you will leave our Site and go to another site, and another entity may collect personal data or anonymous data from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of your personal information after you click on links to such outside websites. We encourage you to read the privacy policies of every website you visit. The links to third party websites or locations are for your convenience and do not signify our endorsement of such third parties or their products, content or websites.
 
-**Selected Notifications**  
-Occasionally we may also use the information we collect to notify you about new services and special offers we think you will find valuable. We will send you this type of communication only if we have received your permission to do so.
+## Choice/Opt-Out
 
-**How Does IWin Protect Your Information and Secure Information Transmissions?**  
-We use industry standard technology and services to protect and secure your information. We will never initiate any email communication with you that requests your private information beyond the purposes of user identification for support. In general, we request that you do not send private information to us by email. Please contact iWin support if you have any questions or concerns.
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or contacting us at [my@ritual.com](mailto:my@ritual.com).
 
-**Children's Online Privacy Protection**  
-The safety of children is important to us. IWin's websites are for a general audience that is not directed to children under the age of 18. Similarly, iWin's services are not directed to or intended for anyone under the age of 18. IWin will not knowingly accept members who are under the age of 18 years nor will it knowingly collect or maintain personally identifiable information from or about anyone under the age of 18 years. IWin relies on the truthfulness of the registration when accepting new Members. In the event that iWin receives information that establishes that a Member is under the age of 18 years, iWin reserves the right, but not the obligation, to terminate that Member's membership or take other steps that it determines are appropriate in the circumstances, such as providing parental notification. IWin may also delete all information in our databases about that terminated Member.
+You may change any of your personal information in your account by editing your profile within your account or by sending an e-mail to us at the e-mail address set forth above. You may request deletion of your personal information by us, and we will use commercially reasonable efforts to honor your request, but please note that we may be required to keep such information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may also retain your information for fraud or similar purposes.
 
-**Employee Access, Training, and Expectations**  
-Our corporate values, ethical standards, and practices are committed to the appropriate protection of customer and visitor information. In general, our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons, processes, and transactions. This obligation continues once an employee has left our company.
+## Cookies and Other Tracking Technologies
 
-**What About Other Websites Linked to Our Website?**  
-We are not responsible for the practices employed by websites linked to or from our Sites or accessed through our Applications, nor the information or content contained in any search results or third-party websites. Often links to other websites are provided solely as pointers to information on topics that may be of interest to the users of our Sites and Applications. Please remember that when you use a link to go from a Site to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including websites which have a link on one of our Sites, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding.
+Cookies are small text files of information stored by the Internet browser on your computer's hard drive. For example, we may use cookies to collect browsing data to keep track of your preferences and profile information and to collect general usage and volume statistical information. Our cookies do not collect personal or confidential information and are not spyware.
 
-**Your Consent**  
-By using any of our Sites or Applications, you consent to our collection and use of your personal information as described in this Privacy Policy.
+You may set your Internet web browser to refuse cookies or to remove cookies from your hard drive.
 
-**Modification of Privacy Policy by IWin**  
-IWin reserves the right to change or update this Privacy Policy at any time by positing a notice that we are changing this Privacy Policy. If there is a change to this Privacy Policy, we will post the change on the Site or with the Application to keep you aware of what information we collect, how we use it, and under what circumstances we may disclose it. You will be deemed to have accepted such change if you continue to use the Site or Application after the new policy has been posted. In the event that this document conflicts in any way with the User Agreement, the User Agreement shall take precedence over the relationship.
+## Web Beacons
 
-Effective:  June 25, 2014
+Our Site contains electronic images known as web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our Site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
-** ** is Our games are guaranteed safe and free of viruses and malicious software. We have rigorous internal testing and we are members of the McAfee SECURE program, which ensures that our games are tested externally daily and approved. iWin.com is also Verisign Secured certified.
+We use a third party to gather information about how you and others use our Site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our website is used.
 
-Click logos below for more information.
+## Targeted Advertising
 
-[ ](https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&dn=www.iwin.com&lang=en)
+Targeted Advertising (also known as online behavioral advertising) uses information collected on an individual's web browsing behavior such as the pages they have visited or the searches they have made. Third parties collect this information by placing or accessing cookies in your browser when you visit this, or other, websites. If you would like to learn more about the third party advertisers that may be aware of the fact that you visit this website, and to understand your choices about having such advertisers' cookies turned off, please visit www.networkadvertising.org.
 
-[ ](http://support.iwin.com/ics/support/default.asp?deptID=5419&task=knowledge&questionID=31)
+## Security
+
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security.
+
+Our store is hosted on Shopify, Inc. Shopify provides us with the online platform that allows us to sell our products to you. Your data is stored through Shopify’s data storage, databases, and the general Shopify application. Shopify stores your data on a secure sever behind a firewall.
+
+When you complete a purchase on our Site, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers. For more information about Shopify’s platform and data collection and use practices, you may want to read Shopify’s Terms of Service and Privacy Statement found on its website.
+
+If you have any questions about security on our Site, you can contact us at [my@ritual.com](mailto:my@ritual.com).
+
+## A Note About Children
+
+We do not intentionally gather personal information from visitors who are under the age of 13. If a child under 13 submits personal information to us and we learn that the personal information is the information of a child under 13, we will attempt to delete the information as soon as possible. If you believe that we might have any Personal Data from a child under 13, please contact us at [my@ritual.com](mailto:my@ritual.com).
+
+## HIPAA
+
+Natals, Inc. is not an entity that is covered by HIPAA. The HIPAA privacy rules apply to health plans, health care clearinghouses, to any health care provider who transmits health information in electronic form in connection with transactions for which the Secretary of HHS has adopted standards under HIPAA (the “covered entities”) and their service providers (“business associates”). This means that the information that you provide to us is not protected by the HIPAA privacy rules and regulations.
+
+## Notification of Privacy Statement Changes
+
+We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this policy for the latest information on our privacy practices.
+
+## A Note to Users Outside of the United States
+
+If you are a non-U.S. user of the Site, by visiting the Site and providing us with data, you acknowledge and agree that your personal information may be processed for the purposes identified in the Privacy Policy. In addition, your personal information may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of personal information may be less stringent than the laws in your country. By providing your data, you consent to such transfer. At this time, we do not ship products outside the United States.
+
+## Contact Information
+
+You can contact us about this Privacy Policy by emailing us at [my@ritual.com](mailto:my@ritual.com).
