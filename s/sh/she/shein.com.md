@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shein.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201171102id_/http%3A//www.shein.com/Privacy-Security-Policy-a-282.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shein.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519213104id_/http%3A//www.shein.com/Privacy-Security-Policy-a-282.html) for the most accurate reproduction.*
 
 # Privacy&Security Policy | SHEIN
 
