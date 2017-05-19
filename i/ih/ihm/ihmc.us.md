@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihmc.us privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430142917id_/http%3A//www.ihmc.us/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihmc.us privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519093539id_/https%3A//www.ihmc.us/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - IHMC | Institute for Human & Machine Cognition
 
