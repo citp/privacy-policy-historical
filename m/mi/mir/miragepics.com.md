@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miragepics.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121044625id_/http%3A//miragepics.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miragepics.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519170502id_/http%3A//miragepics.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # MIRAGEPICS.COM | PRIVATE HOTLINK IMAGEHOSTING » More Information » Privacy Policy
 
