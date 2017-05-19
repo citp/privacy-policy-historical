@@ -1,429 +1,651 @@
-<!--The following is the downloaded HTML source of the tango.me privacy policy that was archived on 2016-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160601141849id_/https%3A//www.tango.me/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tango.me privacy policy that was archived on 2017-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170519070451id_/https%3A//www.tango.me/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=2"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>(window.NREUM||(NREUM={})).loader_config={xpid:"VwcDUFZbGwABV1hbAwI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-<meta name="HandheldFriendly" content="true">
-<meta name="MobileOptimized" content="320">
-<meta name="author" content="Tango – FREE voice, video, &amp; text over 3G, 4G, &amp; WiFi!">
-<meta name="copyright" content="Tango – FREE voice, video, &amp; text over 3G, 4G, &amp; WiFi! ©2016">
-<meta name="description" content="Connect, Get Social, Shop &amp; Have Fun! Send free text messages, make video &amp; voice calls, share photos &amp; music, follow channels, play games, buy stuff &amp; more!">
-<title>Tango - Privacy Policy</title>
-<link rel="home" href="//www.tango.me/">
-<meta property="og:title" content="Tango - Privacy Policy">
-<meta property="og:type" content="website">
-<meta property="og:url" content="//www.tango.me/privacy-policy">
-<meta property="og:description" content="IntroductionThis is the Privacy Policy of TangoMe, Inc. dab Tango (“Tango&quot;, “us&quot;, “we&quot;, or “our”) and is incorporated into and is
-subject to our Terms of Use, which can be found at 
-	http://www.tango.me/terms-of-use. In this Privacy Policy, we refer to our Tango mobile apps and desktop applications, our website at http://www.tango.me, and the other apps, products and services that are owned by Tango (such as the apps known as Road Riot, MusicPix, and others), individually and collectively as the “Service.” Please
-read on to learn more about our data handling practices. Your use of the Service signifies that you agree with the terms of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, do not use the Service.
-Information We CollectWhen you access or use the Service or third party games that were developed using a Tango SDK pursuant to a separate agreement between Tango and the game developer (“Third Party Games”) from or through your smart
-phone, tablet, computer or other device (each, a “device”), or when you install
-the Service on your device and register with Tango, personally identifiable
-information about you may be collected. This collection may occur at different
-times, and for different purposes as explained below.
-Download and RegistrationWhen you download an application that is part of the
-Service you are requested to register with us. For registration through Tango,
-you are only required to provide your mobile phone number or your email
-address, depending on the device(s) you are using on the Service. You may also
-provide other personally identifiable information, but that is optional. When
-you log in using your Facebook account, we collect additional information you
-make available to us (see “Your User Profile”) below.
-Address BookIf you are not already a user of the Service, when you first install an application that is part of the Service on your device, you are invited to register with Tango and as part of this initial registration, you will be asked to allow us access to your address book. If you consent, we will have access to contact information in your address book on the devices you use for the Service (names, numbers, emails, and Facebook ID, but not notes or other personally identifiable information) and we will store it on our servers and use it to improve the Service and help you use the Service. If you do not want Tango to store this information, you may opt-out at any time through your account settings in the Tango mobile app, or in your device’s privacy settings, in which case we will delete that information from our servers. However, in this case, we may not be able to offer some of the features that require this information. See also “How We Use the Information We Collect&quot; below.
-Location InformationWe may request access to your current location – provided by your mobile device using GPS or similar technologies – so that we can provide content that is more suitable to your location. You are free to accept or block access to your location information. You can switch off access to your location at any time through your account settings or your device settings menu.
-Profile InformationWe collect and store certain profile information including your name, phone number, email address, picture, country of residence and preferences.Usage InformationWe may collect and store information about your usage of, and interaction with, the Service and Third Party Games (whether or not played on the Service), including calls, messages, posts, information relating to games played (such as games played, your game scores, how often you play and how much money you spend on the games), usage of the Service by geographies, device and connection information (such as MAC address), IP address, device capability, bandwidth, web browser software, referring website, statistics on page views, network type and traffic to and from our websites.
-AdvertisementsWhen we serve an advertisement to your device, we collect information about your interaction with this advertisement to help us evaluate the performance of the advertisement that we show, such as whether you clicked on it, or installed the advertised product. The third parties that serve these advertisements may also collect other information about your interaction with an advertisement. This collection and the subsequent use of this information by these third parties is subject to these third parties' privacy policies over which Tango has no control.
-Shared Text, Photos, Videos and Other Communications
-The Service allows you to share text messages, photos, videos and other communications (such as interactions during games) with other users, and if you choose to share  your text messages, photos, videos and other communications, such items will be stored on our servers in accordance with our data retention policies.
-In addition, if you choose to share these items with other Service users, we may not be able to remove them from our servers or make them unavailable to anyone you have shared them with. Sending text messages, photos, videos or other communications through the Service is your decision. By choosing to share that information, you should understand that you may no longer be able to control how that information is used and that it may become publicly available (depending in part on your actions or the actions of others with whom you have shared the information). Tango is not responsible for any use or misuse of information you share.
-Device and Log InformationIf you use our Service, we collect information about your device and browser. This may include device information (type of device, operating system version, unique device identifier, browser type and version, mobile network information) or log information (IP address, MAC address, screen resolution, and referring domain).
-Error Reporting InformationWe also collect error-reporting information if the Service crashes or hangs up so that we can investigate the error and improve the stability of the Service for future releases. In general these reports do not contain personally identifiable information, or only incidentally. As part of these error reports, we receive information about the type and version of your device and browser, the device identifier, the time the error occurred, the feature being used and the state of the application when the error occurred. We do not use this information for any purpose other than investigating and remedying the error.
-How We Use InformationIn addition to using your information to provide you with the Services that you request, we use or may disclose your personally identifiable information as follows:
+<!DOCTYPE html><html class="no-js" lang="en-US" itemscope="itemscope" itemtype="https://schema.org/WebPage"><!-- head --><head>
 
-	To verify your identity; 
-	To connect you with your Tango contacts and others as enabled by the Service; 
-	To share your Profile with your Tango contacts and others on the Service in accordance with your account settings; 
+<!-- meta -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Share Every Moment">
+
+<link rel="shortcut icon" href="https://www.tango.me/wp-content/uploads/2016/11/favicon.png">	
+<link rel="apple-touch-icon" href="https://www.tango.me/wp-content/uploads/2016/11/favicon.png">
 	
-	To allow your use of certain features of the Service that may be offered from time to time (such as Premium Services (see our Terms of Use), games, greeting cards, animations, etc.) and to help customize your user experience; 
-	
-	To show you the names and profiles of the Tango contacts with whom you communicate and to show your name and profile to persons with whom you communicate on the Service; 
-	To manage your account, deliver to you any administrative notices, updates, notifications, alerts and communications relevant to your use of the Service; 
-	To provide you with relevant content that you requested, using information that you allow us to collect from you or that you provide to a social media provider with which your Tango account is connected, such as information regarding your and your Tango contacts' respective locations; 
-	To share information about the games you play on our Service, your score or your experience, with your Tango contacts – according to your settings;
-	To understand (i) how you use the different features of the Service, (ii) what your preferences are - for example, what type of games you like to play, what type of music you like to attach to your pictures or what type of products you like to view or purchase, and (iii) how to make suggestions and recommendations of things (for example, games, music and products) you may be interested in; 
-	To keep your list of Tango contacts up to date – for example, when new users join Tango; 
-	
-	To solicit information from you, including through surveys;
-	To contact you via email, SMS or otherwise for the purpose of informing you about new products, services or promotions offered by Tango (you can opt-out of such emails by clicking on the unsubscribe link, withhold your consent to receive an SMS or reply stop to an SMS in order not to receive future SMSs); 
-	For internal operations, including troubleshooting problems, data analysis, testing, research, improvements to the Service, detecting and protecting against error, fraud or other illegal activity; 
-	When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities. 
-With Whom We Share Your InformationService ProvidersIn certain instances, Tango may have contracts with third parties to provide Tango with products and/or services in connection with the Service. In those cases, Tango may share your personally identifiable information with these third-party service providers, or authorize them to collect information on its behalf, but only in connection with providing the services to you or Tango. For example, these third party service providers include:
 
-	Third party SMS and email providers who deliver the authentication SMS or email to you when you register with the Service and with whom Tango shares your phone number or email. 
-	Third party vendors who provide services or functions on our behalf, such as hosting, business analytics, customer service, collecting or processing credit and debit card information and payments, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. 
-	Third party vendors who provide outbound calling services for Tango users and with whom Tango shares your call detail records if you use that service (such as your phone number, the destination you are calling and information related to the initiation and termination of such calls). 
-Business PartnersWe have relationships with other companies, such as game developers, where we serve as the publisher or distributor of the applications, products, or services developed by those third parties. In this case, both Tango and that third party may have access to certain information about your use of that third party’s application, product, or service. For example Tango may host a third party’s game through its Service, and would have access to some information about your use of that game (such as whether you play it or not, your game scores, how often you play and how much money you spend on the game), while the third party would have access to your score, other information about your use of that game and your Tango profile. In this case, the information that we collect is subject to this Privacy Policy and the information that the third party collects is subject to that third party’s privacy policy.Outbound Links
-	If you choose to access optional services, such as a website, product or service provided by a third party, including through the Service, such third party may also collect information about you. Please see the privacy policies of each such third party for more information about how they use the information they collect. This Privacy Policy does not apply to any exchange of information between you and any third party.
-
-	These third parties include business partners with whom we may jointly offer products or services, or whose products or services may be offered on our Service. You can tell when a third party is involved in a product or service that you have requested because their name will appear, either alone or with ours.
-Legal ProcessWe also may share your information with third parties:
-
-	In response to facially valid subpoenas, search warrants, court orders, or other legal process when we have a good faith belief that the law, any legal process, law enforcement, national security or issue of public importance requires disclosure;
-	To resolve disputes, trouble shoot problems, protect and defend our rights or property (including to enforce our Terms of Use and other agreements) or the safety of Tango, the Service, or that of our customers or others; 
-	To establish or exercise our legal rights, or as otherwise required by law; 
-	In connection with a corporate transaction involving Tango or the Service, such as the purchase or sale of a business unit, an acquisition, merger, sale of assets, corporate reorganization, liquidation, or other similar event. 
-Aggregate and Anonymous Information
-	We may also share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of users our app receives. This information does not contain any personal information, and is used to develop content and services that we hope you will find of interest.
-Other
-	Other than as stated in this Privacy Policy, we do not share our users' personal information with third parties for their direct marketing purposes. If in the future, we plan to share personal information with any third party for its direct advertising purposes other than as stated in this Privacy Policy, you will be notified in accordance with applicable law.
-Display of Tailored AdvertisingWe allow third parties with whom we have a separate agreement to use certain technologies to collect information about the placement, views and clicks of their advertisements, so that they can better serve interest-based advertisements to our users and visitors. These third parties include (1) business partners, who collect information when you view or interact with one of their advertisements on the Service; (2) attribution partners who help us measure effectiveness of certain advertisements; and (3) advertising networks, which collect information about your interests when you view or interact with one of their advertisements. The information gathered by these third parties is used to make predictions about your interests or preferences so that they can display advertisements on the Service and on other sites across the Internet tailored to your apparent interests.
-We do not share with these third parties any information that would readily identify you (such as email address) for purposes of such advertising; however, these third parties may have access to information about your device (such as MAC address). We do not have access to, or control over, the technologies that these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy.
-Do Not Track Policy
-	California law requires that operators of websites and online services disclose how they respond to a Do Not Track signal and whether other third parties may collect personally identifiable information about an individual's online activities from their site or service.
-
-	Some browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the website or online service that a user visits, indicating that the user does not wish to be tracked. Because there is not yet a common understanding of how to interpret Do Not Track signals, the Service does not currently respond to Do Not Track signals. We continue to work with the online industry to define a common understanding of how to treat Do Not Track signals. However, if you do want your use of the Service not to be tracked so that we cannot send you targeted advertisements, please contact us at privacy@tango.me.
-
-	The business partners and advertising networks that serve interest-based advertisements on the Services have limited access to a small amount of information about your profile and your device, which is necessary to serve you advertisement that are tailored to your apparent interests, and it is possible that they may reuse this small amount of information on other sites or services.
-Your User Profile
-	The information you enter into your user profile (your “Profile”) may be shared with your Tango contacts. You control your Profile and you can access and modify your Profile from the Tango application at any time. In addition, if you register with Tango using your Facebook account (e.g. Facebook Connect), we may store your Facebook ID and corresponding token on our servers and, if you give us your express consent, we will have access to and may collect certain information that you make available on Facebook (for example, your first and last names, email address, profile picture, your friend lists and birthdays).
-Your Profile is available to other users of the Service who are connected to you on Tango. In addition, unless you opt-out (which you may do at any time in the Tango application), your Profile is discoverable by other Tango users, including by way of example in listings of contacts that will include your proximity to other users (however, Tango will not share your location with any users). You may also “block out&quot; any Tango user in your contact list from discovering your Profile at any time.
-In addition, Tango may pre-populate your Profile with certain information such as your name and Facebook profile picture if you or your Tango contacts have logged onto the Service using Facebook.
-Data Access and Removal
-	You can always control what information you choose to share with us on the Service. To do so, you can change your settings in the Service or in your mobile device. Alternatively, you can remove the Service from your mobile device entirely.
-You can remove your data anytime you want by sending a request to Tango at privacy@tango.me. Your data will no longer be available to your Tango contacts. If you ask us to delete your account, we will use commercially reasonable efforts to remove your data from our servers, however certain information may be retained in our back-up or archival systems. Please note that, after your account is closed, we may retain certain information associated with your account, including for analytical purposes as well as for record keeping integrity.
-Any personally identifiable information and any content that (i) you share in text messages, photos, videos or otherwise in or through the Service with other users, or (ii) submit on a blog, bulletin board or chat room on our website or elsewhere, can be viewed and used by others, including to send you unsolicited messages or to commit identity theft. Tango is not responsible for any use or misuse of your information that might result from your disclosure of information.
-Opt-Out – Promotional Communications
-	Tango allows you to choose not to receive promotional email messages from the Service or its service providers. You may opt-out by following instructions in the message sent by Tango or its service providers on how to unsubscribe from that particular mailing. You may also opt-out by contacting us at privacy@tango.me.
-SecurityProtecting user privacy and personally identifiable information is a top priority for Tango. We make substantial efforts to ensure the privacy and security of all personally identifiable information you provide to us. Access to all personally identifiable information is restricted to those individuals who need to know that information in order to provide, operate, develop, maintain, support or improve the Service. Tango uses password protection, access logs, and system monitoring to safeguard the confidentiality and security of all member information.
-However, due to the inherent nature of the Internet and related technology, we do not guarantee the protection of information under our control or in transit against loss, misuse, or alteration.
-Data TransferYour information may be stored and processed in any country in which Tango maintains facilities, including outside of the United States. In this regard, or for purposes of sharing or disclosing data as described in this Privacy Policy, Tango reserves the right to transfer information outside of your country. By using the Service, you consent to any such transfer of information outside of your country. In addition, by using the Service (which is governed by California law, this Privacy Policy and our Terms of Use), you consent to be governed by California law for these purposes and in connection with your use of the Service.
-AgeThe Service is not directed to children under the age of thirteen (13) and we do not knowingly collect personally identifiable information from children under the age of thirteen as part of the Service. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Service, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Service.
-Notification of ChangesWe reserve the right at our discretion to make changes to this Privacy Policy. You may review updates to our Privacy Policy at any time via links on our website. You agree to accept electronic communications and/or postings of a revised Privacy Policy on the Tango website, and you agree that such electronic communications or postings constitute notice to you of the Privacy Policy.
-If we make material changes to this policy, we will notify you by publishing a revised Privacy Policy or by means of a notice on our website, or as required by law. You agree to review the Privacy Policy periodically so that you are aware of any modifications. You agree that your continued use of the Service after we publish a revised Privacy Policy or provide a notice on our website constitutes your acceptance of the revised Privacy Policy. If you do not agree with the terms of the Privacy Policy, you should not use the Service.
-Contact InformationIf you have any questions about this Privacy Policy, please contact us at privacy@tango.me. Any personally identifiable information provided in connection with inquiries related to this Privacy Policy will be used solely for the purpose of responding to the inquiry and consistent with our Privacy Policy.
-DateThis privacy policy was posted on December 28, 2015.
-">
-<meta name="twitter:description" content="IntroductionThis is the Privacy Policy of TangoMe, Inc. dab Tango (“Tango&quot;, “us&quot;, “we&quot;, or “our”) and is incorporated into and is
-subject to our Terms of Use, which can be found at 
-	http://www.tango.me/terms-of-use. In this Privacy Policy, we refer to our Tango mobile apps and desktop applications, our website at http://www.tango.me, and the other apps, products and services that are owned by Tango (such as the apps known as Road Riot, MusicPix, and others), individually and collectively as the “Service.” Please
-read on to learn more about our data handling practices. Your use of the Service signifies that you agree with the terms of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, do not use the Service.
-Information We CollectWhen you access or use the Service or third party games that were developed using a Tango SDK pursuant to a separate agreement between Tango and the game developer (“Third Party Games”) from or through your smart
-phone, tablet, computer or other device (each, a “device”), or when you install
-the Service on your device and register with Tango, personally identifiable
-information about you may be collected. This collection may occur at different
-times, and for different purposes as explained below.
-Download and RegistrationWhen you download an application that is part of the
-Service you are requested to register with us. For registration through Tango,
-you are only required to provide your mobile phone number or your email
-address, depending on the device(s) you are using on the Service. You may also
-provide other personally identifiable information, but that is optional. When
-you log in using your Facebook account, we collect additional information you
-make available to us (see “Your User Profile”) below.
-Address BookIf you are not already a user of the Service, when you first install an application that is part of the Service on your device, you are invited to register with Tango and as part of this initial registration, you will be asked to allow us access to your address book. If you consent, we will have access to contact information in your address book on the devices you use for the Service (names, numbers, emails, and Facebook ID, but not notes or other personally identifiable information) and we will store it on our servers and use it to improve the Service and help you use the Service. If you do not want Tango to store this information, you may opt-out at any time through your account settings in the Tango mobile app, or in your device’s privacy settings, in which case we will delete that information from our servers. However, in this case, we may not be able to offer some of the features that require this information. See also “How We Use the Information We Collect&quot; below.
-Location InformationWe may request access to your current location – provided by your mobile device using GPS or similar technologies – so that we can provide content that is more suitable to your location. You are free to accept or block access to your location information. You can switch off access to your location at any time through your account settings or your device settings menu.
-Profile InformationWe collect and store certain profile information including your name, phone number, email address, picture, country of residence and preferences.Usage InformationWe may collect and store information about your usage of, and interaction with, the Service and Third Party Games (whether or not played on the Service), including calls, messages, posts, information relating to games played (such as games played, your game scores, how often you play and how much money you spend on the games), usage of the Service by geographies, device and connection information (such as MAC address), IP address, device capability, bandwidth, web browser software, referring website, statistics on page views, network type and traffic to and from our websites.
-AdvertisementsWhen we serve an advertisement to your device, we collect information about your interaction with this advertisement to help us evaluate the performance of the advertisement that we show, such as whether you clicked on it, or installed the advertised product. The third parties that serve these advertisements may also collect other information about your interaction with an advertisement. This collection and the subsequent use of this information by these third parties is subject to these third parties' privacy policies over which Tango has no control.
-Shared Text, Photos, Videos and Other Communications
-The Service allows you to share text messages, photos, videos and other communications (such as interactions during games) with other users, and if you choose to share  your text messages, photos, videos and other communications, such items will be stored on our servers in accordance with our data retention policies.
-In addition, if you choose to share these items with other Service users, we may not be able to remove them from our servers or make them unavailable to anyone you have shared them with. Sending text messages, photos, videos or other communications through the Service is your decision. By choosing to share that information, you should understand that you may no longer be able to control how that information is used and that it may become publicly available (depending in part on your actions or the actions of others with whom you have shared the information). Tango is not responsible for any use or misuse of information you share.
-Device and Log InformationIf you use our Service, we collect information about your device and browser. This may include device information (type of device, operating system version, unique device identifier, browser type and version, mobile network information) or log information (IP address, MAC address, screen resolution, and referring domain).
-Error Reporting InformationWe also collect error-reporting information if the Service crashes or hangs up so that we can investigate the error and improve the stability of the Service for future releases. In general these reports do not contain personally identifiable information, or only incidentally. As part of these error reports, we receive information about the type and version of your device and browser, the device identifier, the time the error occurred, the feature being used and the state of the application when the error occurred. We do not use this information for any purpose other than investigating and remedying the error.
-How We Use InformationIn addition to using your information to provide you with the Services that you request, we use or may disclose your personally identifiable information as follows:
-
-	To verify your identity; 
-	To connect you with your Tango contacts and others as enabled by the Service; 
-	To share your Profile with your Tango contacts and others on the Service in accordance with your account settings; 
-	
-	To allow your use of certain features of the Service that may be offered from time to time (such as Premium Services (see our Terms of Use), games, greeting cards, animations, etc.) and to help customize your user experience; 
-	
-	To show you the names and profiles of the Tango contacts with whom you communicate and to show your name and profile to persons with whom you communicate on the Service; 
-	To manage your account, deliver to you any administrative notices, updates, notifications, alerts and communications relevant to your use of the Service; 
-	To provide you with relevant content that you requested, using information that you allow us to collect from you or that you provide to a social media provider with which your Tango account is connected, such as information regarding your and your Tango contacts' respective locations; 
-	To share information about the games you play on our Service, your score or your experience, with your Tango contacts – according to your settings;
-	To understand (i) how you use the different features of the Service, (ii) what your preferences are - for example, what type of games you like to play, what type of music you like to attach to your pictures or what type of products you like to view or purchase, and (iii) how to make suggestions and recommendations of things (for example, games, music and products) you may be interested in; 
-	To keep your list of Tango contacts up to date – for example, when new users join Tango; 
-	
-	To solicit information from you, including through surveys;
-	To contact you via email, SMS or otherwise for the purpose of informing you about new products, services or promotions offered by Tango (you can opt-out of such emails by clicking on the unsubscribe link, withhold your consent to receive an SMS or reply stop to an SMS in order not to receive future SMSs); 
-	For internal operations, including troubleshooting problems, data analysis, testing, research, improvements to the Service, detecting and protecting against error, fraud or other illegal activity; 
-	When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities. 
-With Whom We Share Your InformationService ProvidersIn certain instances, Tango may have contracts with third parties to provide Tango with products and/or services in connection with the Service. In those cases, Tango may share your personally identifiable information with these third-party service providers, or authorize them to collect information on its behalf, but only in connection with providing the services to you or Tango. For example, these third party service providers include:
-
-	Third party SMS and email providers who deliver the authentication SMS or email to you when you register with the Service and with whom Tango shares your phone number or email. 
-	Third party vendors who provide services or functions on our behalf, such as hosting, business analytics, customer service, collecting or processing credit and debit card information and payments, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. 
-	Third party vendors who provide outbound calling services for Tango users and with whom Tango shares your call detail records if you use that service (such as your phone number, the destination you are calling and information related to the initiation and termination of such calls). 
-Business PartnersWe have relationships with other companies, such as game developers, where we serve as the publisher or distributor of the applications, products, or services developed by those third parties. In this case, both Tango and that third party may have access to certain information about your use of that third party’s application, product, or service. For example Tango may host a third party’s game through its Service, and would have access to some information about your use of that game (such as whether you play it or not, your game scores, how often you play and how much money you spend on the game), while the third party would have access to your score, other information about your use of that game and your Tango profile. In this case, the information that we collect is subject to this Privacy Policy and the information that the third party collects is subject to that third party’s privacy policy.Outbound Links
-	If you choose to access optional services, such as a website, product or service provided by a third party, including through the Service, such third party may also collect information about you. Please see the privacy policies of each such third party for more information about how they use the information they collect. This Privacy Policy does not apply to any exchange of information between you and any third party.
-
-	These third parties include business partners with whom we may jointly offer products or services, or whose products or services may be offered on our Service. You can tell when a third party is involved in a product or service that you have requested because their name will appear, either alone or with ours.
-Legal ProcessWe also may share your information with third parties:
-
-	In response to facially valid subpoenas, search warrants, court orders, or other legal process when we have a good faith belief that the law, any legal process, law enforcement, national security or issue of public importance requires disclosure;
-	To resolve disputes, trouble shoot problems, protect and defend our rights or property (including to enforce our Terms of Use and other agreements) or the safety of Tango, the Service, or that of our customers or others; 
-	To establish or exercise our legal rights, or as otherwise required by law; 
-	In connection with a corporate transaction involving Tango or the Service, such as the purchase or sale of a business unit, an acquisition, merger, sale of assets, corporate reorganization, liquidation, or other similar event. 
-Aggregate and Anonymous Information
-	We may also share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of users our app receives. This information does not contain any personal information, and is used to develop content and services that we hope you will find of interest.
-Other
-	Other than as stated in this Privacy Policy, we do not share our users' personal information with third parties for their direct marketing purposes. If in the future, we plan to share personal information with any third party for its direct advertising purposes other than as stated in this Privacy Policy, you will be notified in accordance with applicable law.
-Display of Tailored AdvertisingWe allow third parties with whom we have a separate agreement to use certain technologies to collect information about the placement, views and clicks of their advertisements, so that they can better serve interest-based advertisements to our users and visitors. These third parties include (1) business partners, who collect information when you view or interact with one of their advertisements on the Service; (2) attribution partners who help us measure effectiveness of certain advertisements; and (3) advertising networks, which collect information about your interests when you view or interact with one of their advertisements. The information gathered by these third parties is used to make predictions about your interests or preferences so that they can display advertisements on the Service and on other sites across the Internet tailored to your apparent interests.
-We do not share with these third parties any information that would readily identify you (such as email address) for purposes of such advertising; however, these third parties may have access to information about your device (such as MAC address). We do not have access to, or control over, the technologies that these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy.
-Do Not Track Policy
-	California law requires that operators of websites and online services disclose how they respond to a Do Not Track signal and whether other third parties may collect personally identifiable information about an individual's online activities from their site or service.
-
-	Some browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the website or online service that a user visits, indicating that the user does not wish to be tracked. Because there is not yet a common understanding of how to interpret Do Not Track signals, the Service does not currently respond to Do Not Track signals. We continue to work with the online industry to define a common understanding of how to treat Do Not Track signals. However, if you do want your use of the Service not to be tracked so that we cannot send you targeted advertisements, please contact us at privacy@tango.me.
-
-	The business partners and advertising networks that serve interest-based advertisements on the Services have limited access to a small amount of information about your profile and your device, which is necessary to serve you advertisement that are tailored to your apparent interests, and it is possible that they may reuse this small amount of information on other sites or services.
-Your User Profile
-	The information you enter into your user profile (your “Profile”) may be shared with your Tango contacts. You control your Profile and you can access and modify your Profile from the Tango application at any time. In addition, if you register with Tango using your Facebook account (e.g. Facebook Connect), we may store your Facebook ID and corresponding token on our servers and, if you give us your express consent, we will have access to and may collect certain information that you make available on Facebook (for example, your first and last names, email address, profile picture, your friend lists and birthdays).
-Your Profile is available to other users of the Service who are connected to you on Tango. In addition, unless you opt-out (which you may do at any time in the Tango application), your Profile is discoverable by other Tango users, including by way of example in listings of contacts that will include your proximity to other users (however, Tango will not share your location with any users). You may also “block out&quot; any Tango user in your contact list from discovering your Profile at any time.
-In addition, Tango may pre-populate your Profile with certain information such as your name and Facebook profile picture if you or your Tango contacts have logged onto the Service using Facebook.
-Data Access and Removal
-	You can always control what information you choose to share with us on the Service. To do so, you can change your settings in the Service or in your mobile device. Alternatively, you can remove the Service from your mobile device entirely.
-You can remove your data anytime you want by sending a request to Tango at privacy@tango.me. Your data will no longer be available to your Tango contacts. If you ask us to delete your account, we will use commercially reasonable efforts to remove your data from our servers, however certain information may be retained in our back-up or archival systems. Please note that, after your account is closed, we may retain certain information associated with your account, including for analytical purposes as well as for record keeping integrity.
-Any personally identifiable information and any content that (i) you share in text messages, photos, videos or otherwise in or through the Service with other users, or (ii) submit on a blog, bulletin board or chat room on our website or elsewhere, can be viewed and used by others, including to send you unsolicited messages or to commit identity theft. Tango is not responsible for any use or misuse of your information that might result from your disclosure of information.
-Opt-Out – Promotional Communications
-	Tango allows you to choose not to receive promotional email messages from the Service or its service providers. You may opt-out by following instructions in the message sent by Tango or its service providers on how to unsubscribe from that particular mailing. You may also opt-out by contacting us at privacy@tango.me.
-SecurityProtecting user privacy and personally identifiable information is a top priority for Tango. We make substantial efforts to ensure the privacy and security of all personally identifiable information you provide to us. Access to all personally identifiable information is restricted to those individuals who need to know that information in order to provide, operate, develop, maintain, support or improve the Service. Tango uses password protection, access logs, and system monitoring to safeguard the confidentiality and security of all member information.
-However, due to the inherent nature of the Internet and related technology, we do not guarantee the protection of information under our control or in transit against loss, misuse, or alteration.
-Data TransferYour information may be stored and processed in any country in which Tango maintains facilities, including outside of the United States. In this regard, or for purposes of sharing or disclosing data as described in this Privacy Policy, Tango reserves the right to transfer information outside of your country. By using the Service, you consent to any such transfer of information outside of your country. In addition, by using the Service (which is governed by California law, this Privacy Policy and our Terms of Use), you consent to be governed by California law for these purposes and in connection with your use of the Service.
-AgeThe Service is not directed to children under the age of thirteen (13) and we do not knowingly collect personally identifiable information from children under the age of thirteen as part of the Service. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Service, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Service.
-Notification of ChangesWe reserve the right at our discretion to make changes to this Privacy Policy. You may review updates to our Privacy Policy at any time via links on our website. You agree to accept electronic communications and/or postings of a revised Privacy Policy on the Tango website, and you agree that such electronic communications or postings constitute notice to you of the Privacy Policy.
-If we make material changes to this policy, we will notify you by publishing a revised Privacy Policy or by means of a notice on our website, or as required by law. You agree to review the Privacy Policy periodically so that you are aware of any modifications. You agree that your continued use of the Service after we publish a revised Privacy Policy or provide a notice on our website constitutes your acceptance of the revised Privacy Policy. If you do not agree with the terms of the Privacy Policy, you should not use the Service.
-Contact InformationIf you have any questions about this Privacy Policy, please contact us at privacy@tango.me. Any personally identifiable information provided in connection with inquiries related to this Privacy Policy will be used solely for the purpose of responding to the inquiry and consistent with our Privacy Policy.
-DateThis privacy policy was posted on December 28, 2015.
-">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@tangome">
-<meta name="twitter:creator" content="@tangome">
-<meta name="twitter:title" content="Tango - Privacy Policy">
-<link rel="shortcut icon" href="//www.tango.me/img/favicons/favicon.ico">
-<link rel="apple-touch-icon" sizes="57x57" href="//www.tango.me/img/favicons/apple-touch-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="114x114" href="//www.tango.me/img/favicons/apple-touch-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="72x72" href="//www.tango.me/img/favicons/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="144x144" href="//www.tango.me/img/favicons/apple-touch-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="60x60" href="//www.tango.me/img/favicons/apple-touch-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="120x120" href="//www.tango.me/img/favicons/apple-touch-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="76x76" href="//www.tango.me/img/favicons/apple-touch-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="152x152" href="//www.tango.me/img/favicons/apple-touch-icon-152x152.png">
-<link rel="icon" type="image/png" href="//www.tango.me/img/favicons/favicon-196x196.png" sizes="196x196">
-<link rel="icon" type="image/png" href="//www.tango.me/img/favicons/favicon-160x160.png" sizes="160x160">
-<link rel="icon" type="image/png" href="//www.tango.me/img/favicons/favicon-96x96.png" sizes="96x96">
-<link rel="icon" type="image/png" href="//www.tango.me/img/favicons/favicon-16x16.png" sizes="16x16">
-<link rel="icon" type="image/png" href="//www.tango.me/img/favicons/favicon-32x32.png" sizes="32x32">
-<meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="//www.tango.me/img/favicons/mstile-144x144.png">
-<meta name="msapplication-config" content="//www.tango.me/img/favicons/browserconfig.xml">
-<link rel="stylesheet" href="//www.tango.me/css/style.css?t=1">
-<script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-	  ga('create', 'UA-19882179-26', 'auto');
-	  ga('send', 'pageview');
-	</script>
-</head>
-<body>
-<header id="header">
-<div class="container">
-<h1 class="logo"><a href="//www.tango.me/"><span>Tango</span></a></h1>
-<a href="#" class="menu-btn"><span class="icon-menu-btn"></span> Menu</a>
-<nav class="main-nav">
-<ul>
-<li><a style="text-decoration: none;" href="//www.tango.me/download">Download</a></li>
-<li><a style="text-decoration: none;" href="//www.tango.me/">Tango</a></li>
-<li><a style="text-decoration: none;" href="//www.tango.me/fiesta">Fiesta</a></li>
-<li><a style="text-decoration: none;" href="//www.tango.me/games">Games</a></li>
-</ul>
-</nav>
-</div>
-<nav class="main-nav mobile">
-<ul>
-<li><a href="//www.tango.me/download">Download</a></li>
-<li><a href="//www.tango.me/">Tango</a></li>
-<li><a href="//www.tango.me/fiesta">Fiesta</a></li>
-<li><a href="//www.tango.me/games">Games</a></li>
-</ul>
-</nav>
-</header>
-<main id="content" role="main">
-<div id="privacy-policy" class="template">
-<section>
-<div class="container">
-<h2>Introduction</h2><p>This is the Privacy Policy of TangoMe, Inc. dab Tango (“Tango", “us", “we", or “our”) and is incorporated into and is
-subject to our Terms of Use, which can be found at
-<a href="http://www.tango.me/terms-of-use">http://www.tango.me/terms-of-use</a>. In this Privacy Policy, we refer to our Tango mobile apps and desktop applications, our website at <a href="http://www.tango.me/">http://www.tango.me</a>, and the other apps, products and services that are owned by Tango (such as the apps known as Road Riot, MusicPix, and others), individually and collectively as the “Service.” Please
-read on to learn more about our data handling practices. Your use of the Service signifies that you agree with the terms of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, do not use the Service.
-</p><h2>Information We Collect</h2><p>When you access or use the Service or third party games that were developed using a Tango SDK pursuant to a separate agreement between Tango and the game developer (“Third Party Games”) from or through your smart
-phone, tablet, computer or other device (each, a “device”), or when you install
-the Service on your device and register with Tango, personally identifiable
-information about you may be collected. This collection may occur at different
-times, and for different purposes as explained below.
-</p><h3>Download and Registration</h3><p>When you download an application that is part of the
-Service you are requested to register with us. For registration through Tango,
-you are only required to provide your mobile phone number or your email
-address, depending on the device(s) you are using on the Service. You may also
-provide other personally identifiable information, but that is optional. When
-you log in using your Facebook account, we collect additional information you
-make available to us (see “Your User Profile”) below.
-</p><h3>Address Book</h3><p>If you are not already a user of the Service, when you first install an application that is part of the Service on your device, you are invited to register with Tango and as part of this initial registration, you will be asked to allow us access to your address book. If you consent, we will have access to contact information in your address book on the devices you use for the Service (names, numbers, emails, and Facebook ID, but not notes or other personally identifiable information) and we will store it on our servers and use it to improve the Service and help you use the Service. If you do not want Tango to store this information, you may opt-out at any time through your account settings in the Tango mobile app, or in your device’s privacy settings, in which case we will delete that information from our servers. However, in this case, we may not be able to offer some of the features that require this information. See also “How We Use the Information We Collect" below.
-</p><h3>Location Information</h3><p>We may request access to your current location – provided by your mobile device using GPS or similar technologies – so that we can provide content that is more suitable to your location. You are free to accept or block access to your location information. You can switch off access to your location at any time through your account settings or your device settings menu.
-</p><h3>Profile Information</h3><p>We collect and store certain profile information including your name, phone number, email address, picture, country of residence and preferences.</p><h3>Usage Information</h3><p>We may collect and store information about your usage of, and interaction with, the Service and Third Party Games (whether or not played on the Service), including calls, messages, posts, information relating to games played (such as games played, your game scores, how often you play and how much money you spend on the games), usage of the Service by geographies, device and connection information (such as MAC address), IP address, device capability, bandwidth, web browser software, referring website, statistics on page views, network type and traffic to and from our websites.
-</p><h3>Advertisements</h3><p>When we serve an advertisement to your device, we collect information about your interaction with this advertisement to help us evaluate the performance of the advertisement that we show, such as whether you clicked on it, or installed the advertised product. The third parties that serve these advertisements may also collect other information about your interaction with an advertisement. This collection and the subsequent use of this information by these third parties is subject to these third parties' privacy policies over which Tango has no control.
-</p><p>Shared Text, Photos, Videos and Other Communications
-</p><p>The Service allows you to share text messages, photos, videos and other communications (such as interactions during games) with other users, and if you choose to share your text messages, photos, videos and other communications, such items will be stored on our servers in accordance with our data retention policies.
-</p><p>In addition, if you choose to share these items with other Service users, we may not be able to remove them from our servers or make them unavailable to anyone you have shared them with. Sending text messages, photos, videos or other communications through the Service is your decision. By choosing to share that information, you should understand that you may no longer be able to control how that information is used and that it may become publicly available (depending in part on your actions or the actions of others with whom you have shared the information). Tango is not responsible for any use or misuse of information you share.
-</p><h3>Device and Log Information</h3><p>If you use our Service, we collect information about your device and browser. This may include device information (type of device, operating system version, unique device identifier, browser type and version, mobile network information) or log information (IP address, MAC address, screen resolution, and referring domain).
-</p><h3>Error Reporting Information</h3><p>We also collect error-reporting information if the Service crashes or hangs up so that we can investigate the error and improve the stability of the Service for future releases. In general these reports do not contain personally identifiable information, or only incidentally. As part of these error reports, we receive information about the type and version of your device and browser, the device identifier, the time the error occurred, the feature being used and the state of the application when the error occurred. We do not use this information for any purpose other than investigating and remedying the error.
-</p><h2>How We Use Information</h2><p>In addition to using your information to provide you with the Services that you request, we use or may disclose your personally identifiable information as follows:
-</p><ul>
-<li>To verify your identity; </li>
-<li>To connect you with your Tango contacts and others as enabled by the Service; </li>
-<li>To share your Profile with your Tango contacts and others on the Service in accordance with your account settings;
-</li>
-<li>To allow your use of certain features of the Service that may be offered from time to time (such as Premium Services (see our Terms of Use), games, greeting cards, animations, etc.) and to help customize your user experience;
-</li>
-<li>To show you the names and profiles of the Tango contacts with whom you communicate and to show your name and profile to persons with whom you communicate on the Service; </li>
-<li>To manage your account, deliver to you any administrative notices, updates, notifications, alerts and communications relevant to your use of the Service; </li>
-<li>To provide you with relevant content that you requested, using information that you allow us to collect from you or that you provide to a social media provider with which your Tango account is connected, such as information regarding your and your Tango contacts' respective locations; </li>
-<li>To share information about the games you play on our Service, your score or your experience, with your Tango contacts – according to your settings;</li>
-<li>To understand (i) how you use the different features of the Service, (ii) what your preferences are - for example, what type of games you like to play, what type of music you like to attach to your pictures or what type of products you like to view or purchase, and (iii) how to make suggestions and recommendations of things (for example, games, music and products) you may be interested in; </li>
-<li>To keep your list of Tango contacts up to date – for example, when new users join Tango;
-</li>
-<li>To solicit information from you, including through surveys;</li>
-<li>To contact you via email, SMS or otherwise for the purpose of informing you about new products, services or promotions offered by Tango (you can opt-out of such emails by clicking on the unsubscribe link, withhold your consent to receive an SMS or reply stop to an SMS in order not to receive future SMSs); </li>
-<li>For internal operations, including troubleshooting problems, data analysis, testing, research, improvements to the Service, detecting and protecting against error, fraud or other illegal activity; </li>
-<li>When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities. </li>
-</ul><h2>With Whom We Share Your Information</h2><h3>Service Providers</h3><p>In certain instances, Tango may have contracts with third parties to provide Tango with products and/or services in connection with the Service. In those cases, Tango may share your personally identifiable information with these third-party service providers, or authorize them to collect information on its behalf, but only in connection with providing the services to you or Tango. For example, these third party service providers include:
-</p><ul>
-<li>Third party SMS and email providers who deliver the authentication SMS or email to you when you register with the Service and with whom Tango shares your phone number or email. </li>
-<li>Third party vendors who provide services or functions on our behalf, such as hosting, business analytics, customer service, collecting or processing credit and debit card information and payments, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. </li>
-<li>Third party vendors who provide outbound calling services for Tango users and with whom Tango shares your call detail records if you use that service (such as your phone number, the destination you are calling and information related to the initiation and termination of such calls). </li>
-</ul><h3>Business Partners</h3><p>We have relationships with other companies, such as game developers, where we serve as the publisher or distributor of the applications, products, or services developed by those third parties. In this case, both Tango and that third party may have access to certain information about your use of that third party’s application, product, or service. For example Tango may host a third party’s game through its Service, and would have access to some information about your use of that game (such as whether you play it or not, your game scores, how often you play and how much money you spend on the game), while the third party would have access to your score, other information about your use of that game and your Tango profile. In this case, the information that we collect is subject to this Privacy Policy and the information that the third party collects is subject to that third party’s privacy policy.</p><h3>Outbound Links</h3><p>
-If you choose to access optional services, such as a website, product or service provided by a third party, including through the Service, such third party may also collect information about you. Please see the privacy policies of each such third party for more information about how they use the information they collect. This Privacy Policy does not apply to any exchange of information between you and any third party.
-</p><p>
-These third parties include business partners with whom we may jointly offer products or services, or whose products or services may be offered on our Service. You can tell when a third party is involved in a product or service that you have requested because their name will appear, either alone or with ours.
-</p><h3>Legal Process</h3><p>We also may share your information with third parties:
-</p><ul>
-<li>In response to facially valid subpoenas, search warrants, court orders, or other legal process when we have a good faith belief that the law, any legal process, law enforcement, national security or issue of public importance requires disclosure;</li>
-<li>To resolve disputes, trouble shoot problems, protect and defend our rights or property (including to enforce our Terms of Use and other agreements) or the safety of Tango, the Service, or that of our customers or others; </li>
-<li>To establish or exercise our legal rights, or as otherwise required by law; </li>
-<li>In connection with a corporate transaction involving Tango or the Service, such as the purchase or sale of a business unit, an acquisition, merger, sale of assets, corporate reorganization, liquidation, or other similar event. </li>
-</ul><h3>Aggregate and Anonymous Information</h3><p>
-We may also share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of users our app receives. This information does not contain any personal information, and is used to develop content and services that we hope you will find of interest.
-</p><h3>Other</h3><p>
-Other than as stated in this Privacy Policy, we do not share our users' personal information with third parties for their direct marketing purposes. If in the future, we plan to share personal information with any third party for its direct advertising purposes other than as stated in this Privacy Policy, you will be notified in accordance with applicable law.
-</p><h2>Display of Tailored Advertising</h2><p>We allow third parties with whom we have a separate agreement to use certain technologies to collect information about the placement, views and clicks of their advertisements, so that they can better serve interest-based advertisements to our users and visitors. These third parties include (1) business partners, who collect information when you view or interact with one of their advertisements on the Service; (2) attribution partners who help us measure effectiveness of certain advertisements; and (3) advertising networks, which collect information about your interests when you view or interact with one of their advertisements. The information gathered by these third parties is used to make predictions about your interests or preferences so that they can display advertisements on the Service and on other sites across the Internet tailored to your apparent interests.
-</p><p>We do not share with these third parties any information that would readily identify you (such as email address) for purposes of such advertising; however, these third parties may have access to information about your device (such as MAC address). We do not have access to, or control over, the technologies that these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy.
-</p><h3>Do Not Track Policy</h3><p>
-California law requires that operators of websites and online services disclose how they respond to a Do Not Track signal and whether other third parties may collect personally identifiable information about an individual's online activities from their site or service.
-</p><p>
-Some browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the website or online service that a user visits, indicating that the user does not wish to be tracked. Because there is not yet a common understanding of how to interpret Do Not Track signals, the Service does not currently respond to Do Not Track signals. We continue to work with the online industry to define a common understanding of how to treat Do Not Track signals. However, if you do want your use of the Service not to be tracked so that we cannot send you targeted advertisements, please contact us at privacy@tango.me.
-</p><p>
-The business partners and advertising networks that serve interest-based advertisements on the Services have limited access to a small amount of information about your profile and your device, which is necessary to serve you advertisement that are tailored to your apparent interests, and it is possible that they may reuse this small amount of information on other sites or services.
-</p><h2>Your User Profile</h2><p>
-The information you enter into your user profile (your “Profile”) may be shared with your Tango contacts. You control your Profile and you can access and modify your Profile from the Tango application at any time. In addition, if you register with Tango using your Facebook account (e.g. Facebook Connect), we may store your Facebook ID and corresponding token on our servers and, if you give us your express consent, we will have access to and may collect certain information that you make available on Facebook (for example, your first and last names, email address, profile picture, your friend lists and birthdays).
-</p><p>Your Profile is available to other users of the Service who are connected to you on Tango. In addition, unless you opt-out (which you may do at any time in the Tango application), your Profile is discoverable by other Tango users, including by way of example in listings of contacts that will include your proximity to other users (however, Tango will not share your location with any users). You may also “block out" any Tango user in your contact list from discovering your Profile at any time.
-</p><p>In addition, Tango may pre-populate your Profile with certain information such as your name and Facebook profile picture if you or your Tango contacts have logged onto the Service using Facebook.
-</p><h2>Data Access and Removal</h2><p>
-You can always control what information you choose to share with us on the Service. To do so, you can change your settings in the Service or in your mobile device. Alternatively, you can remove the Service from your mobile device entirely.
-</p><p>You can remove your data anytime you want by sending a request to Tango at privacy@tango.me. Your data will no longer be available to your Tango contacts. If you ask us to delete your account, we will use commercially reasonable efforts to remove your data from our servers, however certain information may be retained in our back-up or archival systems. Please note that, after your account is closed, we may retain certain information associated with your account, including for analytical purposes as well as for record keeping integrity.
-</p><p>Any personally identifiable information and any content that (i) you share in text messages, photos, videos or otherwise in or through the Service with other users, or (ii) submit on a blog, bulletin board or chat room on our website or elsewhere, can be viewed and used by others, including to send you unsolicited messages or to commit identity theft. Tango is not responsible for any use or misuse of your information that might result from your disclosure of information.
-</p><h2>Opt-Out – Promotional Communications</h2><p>
-Tango allows you to choose not to receive promotional email messages from the Service or its service providers. You may opt-out by following instructions in the message sent by Tango or its service providers on how to unsubscribe from that particular mailing. You may also opt-out by contacting us at <a href="mailto:privacy@tango.me">privacy@tango.me</a>.
-</p><h2>Security</h2><p>Protecting user privacy and personally identifiable information is a top priority for Tango. We make substantial efforts to ensure the privacy and security of all personally identifiable information you provide to us. Access to all personally identifiable information is restricted to those individuals who need to know that information in order to provide, operate, develop, maintain, support or improve the Service. Tango uses password protection, access logs, and system monitoring to safeguard the confidentiality and security of all member information.
-</p><p>However, due to the inherent nature of the Internet and related technology, we do not guarantee the protection of information under our control or in transit against loss, misuse, or alteration.
-</p><h2>Data Transfer</h2><p>Your information may be stored and processed in any country in which Tango maintains facilities, including outside of the United States. In this regard, or for purposes of sharing or disclosing data as described in this Privacy Policy, Tango reserves the right to transfer information outside of your country. By using the Service, you consent to any such transfer of information outside of your country. In addition, by using the Service (which is governed by California law, this Privacy Policy and our Terms of Use), you consent to be governed by California law for these purposes and in connection with your use of the Service.
-</p><h2>Age</h2><p>The Service is not directed to children under the age of thirteen (13) and we do not knowingly collect personally identifiable information from children under the age of thirteen as part of the Service. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Service, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Service.
-</p><h2>Notification of Changes</h2><p>We reserve the right at our discretion to make changes to this Privacy Policy. You may review updates to our Privacy Policy at any time via links on our website. You agree to accept electronic communications and/or postings of a revised Privacy Policy on the Tango website, and you agree that such electronic communications or postings constitute notice to you of the Privacy Policy.
-</p><p>If we make material changes to this policy, we will notify you by publishing a revised Privacy Policy or by means of a notice on our website, or as required by law. You agree to review the Privacy Policy periodically so that you are aware of any modifications. You agree that your continued use of the Service after we publish a revised Privacy Policy or provide a notice on our website constitutes your acceptance of the revised Privacy Policy. If you do not agree with the terms of the Privacy Policy, you should not use the Service.
-</p><h2>Contact Information</h2><p>If you have any questions about this Privacy Policy, please contact us at privacy@tango.me. Any personally identifiable information provided in connection with inquiries related to this Privacy Policy will be used solely for the purpose of responding to the inquiry and consistent with our Privacy Policy.
-</p><h2>Date</h2><p>This privacy policy was posted on December 28, 2015.
-</p>
-</div>
-</section>
-</div>
-</main>
-<footer id="footer">
-<div class="container">
-<nav class="footer-nav">
-<ul class="nav-section">
-<li><h3>Tango</h3></li>
-<li><a href="https://www.tango.me/download">Downloads</a></li>
-<li><a href="//www.tango.me/">Tango</a></li>
-<li><a href="https://www.tango.me/fiesta">Fiesta</a></li>
-<li><a href="https://www.tango.me/games">Games</a></li>
-<li><a href="http://support.tango.me/home" onclick="ga('send', 'event', 'Footer - Support', 'click', {'page': '/download'});">Support</a></li>
-<li><a href="https://www.tango.me/tips" onclick="ga('send', 'event', 'Footer - Tips', 'click', {'page': '/download'});">FAQ</a></li>
-</ul>
-<ul class="nav-section">
-<li><h3>Partners</h3></li>
-<li><a href="https://www.tango.me/partners/developers">Developers</a></li>
-<li><a href="https://www.tango.me/partners/advertisers">Advertisers</a></li>
-<li><a href="https://www.tango.me/partners/business">Business</a></li>
-</ul>
-<ul class="nav-section mobile-full">
-<li><h3>Corporate</h3></li>
-<div class="mobile-half">
-<li><a href="https://www.tango.me/about">About Us</a></li>
-<li><a href="https://www.tango.me/careers">Careers</a></li>
-<li><a href="https://www.tango.me/press">Press</a></li>
-<li><a href="https://www.tango.me/blog">Blog</a></li>
-<li><a href="https://www.tango.me/contact">Contact Us</a></li>
-</div>
-</ul>
-</nav>
-<nav class="download-follow">
-<div class="download-now">
-<h3 class="download-title">Download the App now!</h3>
-<p class="icon-platforms">
-<span>
-<a href="http://itunes.apple.com/us/app/tango-text-voice-video/id372513032?mt=8"></a>
-</span>
-<span>
-<a href="http://play.google.com/store/apps/details?id=com.sgiggle.production"></a>
-</span>
-</p>
-</div>
-<div class="follow-us">
-<h3>Follow Us</h3>
-<ul class="icon-social">
-<li><a href="https://www.facebook.com/TangoMe" onclick="ga('send', 'event', 'Footer - Facebook', 'click', {'page': '/download'});"><span></span></a></li>
-<li><a href="https://twitter.com/tangome" onclick="ga('send', 'event', 'Footer - Twitter', 'click', {'page': '/download'});"><span></span></a></li>
-<li><a href="https://plus.google.com/+tangoapp/posts" onclick="ga('send', 'event', 'Footer - Google+', 'click', {'page': '/download'});"><span></span></a></li>
-<li><a href="https://instagram.com/tango_app" onclick="ga('send', 'event', 'Footer - Instagram', 'click', {'page': '/download'});"><span></span></a></li>
-<li><a href="https://www.linkedin.com/company/tango-me" onclick="ga('send', 'event', 'Footer - LinkedIn', 'click', {'page': '/download'});"><span></span></a></li>
-<li><a href="https://www.youtube.com/user/tangome" onclick="ga('send', 'event', 'Footer - YouTube', 'click', {'page': '/download'});"><span></span></a></li>
-</ul>
-</div>
-</nav>
-<div class="copyright">
-<ul class="nav-section"><li><a href="https://www.tango.me/privacy-policy"><small>Privacy Policy</small></a></li></ul>
-<ul class="nav-section"><li><a href="https://www.tango.me/terms-of-use"><small>Terms of Use</small></a></li></ul>
-<ul class="nav-section"><li><a href="https://www.tango.me/copyright"><small>Copyright</small></a></li></ul>
-<br>
-<p style="float: left;"><small>Copyright ©2009-2016 Tango - FREE voice, video, &amp; text over 3G, 4G, &amp; WiFi! All Rights Reserved. </small></p>
-</div>
-</div>
-</footer>
-<script src="//www.tango.me/js/vendor/modernizr.custom.js"></script>
-<!--[if lt IE 9]>
-	<link rel="stylesheet" href="//www.tango.me/css/ie.css">
-	<script type="text/javascript" src="//www.tango.me/js/vendor/ie/ie9.min.js"></script>
-	<![endif]-->
-<script src="//www.tango.me/js/site.min.js"></script>
-<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"f5d53f072d","applicationID":"3139943","transactionName":"M1xTMBRRW0FQU0YMWQoWcAcSWVpcHnNABFAQZWUBC0BZU0VVQSZZCk1DCwpcUEAeQlcLUgFL","queueTime":0,"applicationTime":552,"atts":"HxtQRlxLSE8=","errorBeacon":"bam.nr-data.net","agent":""}</script><script type="text/javascript">
+<!-- wp_head() -->
+<title>Privacy Policy – Tango</title>
+<!-- script | dynamic -->
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=&amp;version=v2.3"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="mfn-dnmc-config-js">
 //<![CDATA[
-(function() {
-var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=2';
-var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
-})();
-// ]]>
+window.mfn_ajax = "https://www.tango.me/wp-admin/admin-ajax.php";
+window.mfn = {mobile_init:1240,nicescroll:40,parallax:"translate3d",responsive:1,retina_disable:1};
+window.mfn_prettyphoto = {disable:false,disableMobile:false,title:false,style:"pp_default",width:0,height:0};
+window.mfn_sliders = {blog:0,clients:0,offer:0,portfolio:0,shop:0,slider:0,testimonials:0};
+//]]>
 </script>
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Tango » Feed" href="https://www.tango.me/feed/">
+<link rel="alternate" type="application/rss+xml" title="Tango » Comments Feed" href="https://www.tango.me/comments/feed/">
+<!-- Simple Analytics by Theme Blvd -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-92196486-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.tango.me\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.tango.me/wp-includes/js/wp-emoji-release.min.js?ver=4.7.5" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="cnss_font_awesome_css-css" href="https://www.tango.me/wp-content/plugins/easy-social-icons/css/font-awesome/css/font-awesome.min.css?ver=4.7" type="text/css" media="all">
+<link rel="stylesheet" id="cnss_css-css" href="https://www.tango.me/wp-content/plugins/easy-social-icons/css/cnss.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://www.tango.me/wp-includes/css/dashicons.min.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="menu-icons-extra-css" href="https://www.tango.me/wp-content/plugins/menu-icons/css/extra.min.css?ver=0.10.2" type="text/css" media="all">
+<link rel="stylesheet" id="layerslider-css" href="https://www.tango.me/wp-content/plugins/LayerSlider/static/css/layerslider.css?ver=5.6.9" type="text/css" media="all">
+<link rel="stylesheet" id="ls-google-fonts-css" href="https://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900%7COpen+Sans:300%7CIndie+Flower:regular%7COswald:300,regular,700&amp;subset=latin%2Clatin-ext" type="text/css" media="all">
+<link rel="stylesheet" id="aps-animate-css-css" href="https://www.tango.me/wp-content/plugins/accesspress-social-icons/css/animate.css?ver=1.6.6" type="text/css" media="all">
+<link rel="stylesheet" id="aps-frontend-css-css" href="https://www.tango.me/wp-content/plugins/accesspress-social-icons/css/frontend.css?ver=1.6.6" type="text/css" media="all">
+<link rel="stylesheet" id="button-css-css" href="https://www.tango.me/wp-content/plugins/buttons-with-style/css/button-css.css?ver=1.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="button-foundation-css" href="https://www.tango.me/wp-content/plugins/buttons-with-style/css/foundation-icons.css?ver=1.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://www.tango.me/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="https://www.tango.me/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.6" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style>
+<link rel="stylesheet" id="cssnews-css" href="https://www.tango.me/wp-content/plugins/sp-news-and-widget/css/stylenews.css?ver=3.3" type="text/css" media="all">
+<link rel="stylesheet" id="logo_showcase_slick_style-css" href="https://www.tango.me/wp-content/plugins/wp-logo-showcase-responsive-slider-slider/assets/css/slick.css?ver=1.2.6" type="text/css" media="all">
+<link rel="stylesheet" id="logo_showcase_style-css" href="https://www.tango.me/wp-content/plugins/wp-logo-showcase-responsive-slider-slider/assets/css/logo-showcase.css?ver=1.2.6" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="https://www.tango.me/wp-content/themes/betheme/style.css?ver=14.4" type="text/css" media="all">
+<link rel="stylesheet" id="mfn-base-css" href="https://www.tango.me/wp-content/themes/betheme/css/base.css?ver=14.4" type="text/css" media="all">
+<link rel="stylesheet" id="mfn-layout-css" href="https://www.tango.me/wp-content/themes/betheme/css/layout.css?ver=14.4" type="text/css" media="all">
+<link rel="stylesheet" id="mfn-shortcodes-css" href="https://www.tango.me/wp-content/themes/betheme/css/shortcodes.css?ver=14.4" type="text/css" media="all">
+<link rel="stylesheet" id="mfn-animations-css" href="https://www.tango.me/wp-content/themes/betheme/assets/animations/animations.min.css?ver=14.4" type="text/css" media="all">
+<link rel="stylesheet" id="mfn-jquery-ui-css" href="https://www.tango.me/wp-content/themes/betheme/assets/ui/jquery.ui.all.css?ver=14.4" type="text/css" media="all">
+<link rel="stylesheet" id="mfn-prettyPhoto-css" href="https://www.tango.me/wp-content/themes/betheme/assets/prettyPhoto/prettyPhoto.css?ver=14.4" type="text/css" media="all">
+<link rel="stylesheet" id="mfn-jplayer-css" href="https://www.tango.me/wp-content/themes/betheme/assets/jplayer/css/jplayer.blue.monday.css?ver=14.4" type="text/css" media="all">
+<link rel="stylesheet" id="mfn-responsive-css" href="https://www.tango.me/wp-content/themes/betheme/css/responsive.css?ver=14.4" type="text/css" media="all">
+<link rel="stylesheet" id="recent-posts-widget-with-thumbnails-public-style-css" href="https://www.tango.me/wp-content/plugins/recent-posts-widget-with-thumbnails/public.css?ver=5.0" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="https://www.tango.me/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="sccss_style-css" href="https://www.tango.me/?sccss=1&amp;ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="A2A_SHARE_SAVE-css" href="https://www.tango.me/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.13" type="text/css" media="all">
+<script type="text/javascript" src="https://www.tango.me/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-content/plugins/easy-social-icons/js/cnss.js?ver=1.0"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-content/plugins/LayerSlider/static/js/greensock.js?ver=1.11.8"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var LS_Meta = {"v":"5.6.9"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.tango.me/wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.6.9"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js?ver=5.6.9"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-content/plugins/accesspress-social-icons/js/frontend.js?ver=1.6.6"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.0"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.6"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.6"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-content/plugins/sp-news-and-widget/js/jquery.newstape.js?ver=3.3"></script>
+<meta name="generator" content="Powered by LayerSlider 5.6.9 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress.">
+<!-- LayerSlider updates and docs at: https://kreaturamedia.com/layerslider-responsive-wordpress-slider-plugin/ -->
+<link rel="https://api.w.org/" href="https://www.tango.me/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.tango.me/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.tango.me/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.7.5">
+<link rel="canonical" href="https://www.tango.me/privacy-policy/">
+<link rel="shortlink" href="https://www.tango.me/?p=730">
+<link rel="alternate" type="application/json+oembed" href="https://www.tango.me/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.tango.me%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.tango.me/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.tango.me%2Fprivacy-policy%2F&amp;format=xml">
+
+<script type="text/javascript">
+var a2a_config=a2a_config||{};a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.templates=a2a_config.templates||{};
+</script>
+<script type="text/javascript" src="https://static.addtoany.com/menu/page.js" async="async"></script>
+<style type="text/css">
+		ul.cnss-social-icon li.cn-fa-icon a:hover{opacity: 0.7!important;color:#ffffff!important;}
+		</style><!-- style | custom font -->
+<style id="mfn-dnmc-font-css">
+@font-face {font-family: "Helvetica";src: url("");src: url("#iefix") format("embedded-opentype"),url("") format("woff"),url("https://www.tango.me/wp-content/uploads/2016/11/Helvetica-font.ttf") format("truetype"),url("#Helvetica") format("svg");font-weight: normal;font-style: normal;}
+</style>
+<!-- style | custom font 2 -->
+<style id="mfn-dnmc-font2-css">
+@font-face {font-family: "Helvetica light";src: url("");src: url("#iefix") format("embedded-opentype"),url("") format("woff"),url("https://www.tango.me/wp-content/uploads/2016/12/helvetica-light.ttf") format("truetype"),url("#Helvetica light") format("svg");font-weight: normal;font-style: normal;}
+</style>
+<!-- style | dynamic -->
+<style id="mfn-dnmc-style-css">
+@media only screen and (min-width: 1240px) {body:not(.header-simple) #Top_bar #menu{display:block!important}.tr-menu #Top_bar #menu{background:none!important}#Top_bar .menu > li > ul.mfn-megamenu{width:984px}#Top_bar .menu > li > ul.mfn-megamenu > li{float:left}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-1{width:100%}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-2{width:50%}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-3{width:33.33%}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-4{width:25%}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-5{width:20%}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-6{width:16.66%}#Top_bar .menu > li > ul.mfn-megamenu > li > ul{display:block!important;position:inherit;left:auto;top:auto;border-width:0 1px 0 0}#Top_bar .menu > li > ul.mfn-megamenu > li:last-child > ul{border:0}#Top_bar .menu > li > ul.mfn-megamenu > li > ul li{width:auto}#Top_bar .menu > li > ul.mfn-megamenu a.mfn-megamenu-title{text-transform:uppercase;font-weight:400;background:none}#Top_bar .menu > li > ul.mfn-megamenu a .menu-arrow{display:none}.menuo-right #Top_bar .menu > li > ul.mfn-megamenu{left:auto;right:0}.menuo-right #Top_bar .menu > li > ul.mfn-megamenu-bg{box-sizing:border-box}#Top_bar .menu > li > ul.mfn-megamenu-bg{padding:20px 166px 20px 20px;background-repeat:no-repeat;background-position:bottom right}#Top_bar .menu > li > ul.mfn-megamenu-bg > li{background:none}#Top_bar .menu > li > ul.mfn-megamenu-bg > li a{border:none}#Top_bar .menu > li > ul.mfn-megamenu-bg > li > ul{background:none!important;-webkit-box-shadow:0 0 0 0;-moz-box-shadow:0 0 0 0;box-shadow:0 0 0 0}.mm-vertical #Top_bar .container{position:relative;}.mm-vertical #Top_bar .top_bar_left{position:static;}.mm-vertical #Top_bar .menu > li ul{box-shadow:0 0 0 0 transparent!important;background-image:none;}.mm-vertical #Top_bar .menu > li > ul.mfn-megamenu{width:98%!important;margin:0 1%;padding:20px 0;}.mm-vertical.header-plain #Top_bar .menu > li > ul.mfn-megamenu{width:100%!important;margin:0;}.mm-vertical #Top_bar .menu > li > ul.mfn-megamenu > li{display:table-cell;float:none;width:10%;padding:0 15px;border-right:1px solid rgba(0, 0, 0, 0.05);}.mm-vertical #Top_bar .menu > li > ul.mfn-megamenu > li:last-child{border-right-width:0}.mm-vertical #Top_bar .menu > li > ul.mfn-megamenu > li.hide-border{border-right-width:0}.mm-vertical #Top_bar .menu > li > ul.mfn-megamenu > li a{border-bottom-width:0;padding:9px 15px;line-height:120%;}.mm-vertical #Top_bar .menu > li > ul.mfn-megamenu a.mfn-megamenu-title{font-weight:700;}#Header_creative #Top_bar .menu > li > ul.mfn-megamenu{width:980px!important;margin:0;}.header-plain:not(.menuo-right) #Header .top_bar_left{width:auto!important}.header-stack.header-center #Top_bar #menu{display:inline-block!important}.header-simple #Top_bar #menu{display:none;height:auto;width:300px;bottom:auto;top:100%;right:1px;position:absolute;margin:0}.header-simple #Header a.responsive-menu-toggle{display:block;line-height:35px;font-size:25px;position:absolute;right:10px}.header-simple #Header a:hover.responsive-menu-toggle{text-decoration:none}.header-simple #Top_bar #menu > ul{width:100%;float:left}.header-simple #Top_bar #menu ul li{width:100%;padding-bottom:0;border-right:0;position:relative}.header-simple #Top_bar #menu ul li a{padding:0 20px;margin:0;display:block;height:auto;line-height:normal;border:none}.header-simple #Top_bar #menu ul li a:after{display:none}.header-simple #Top_bar #menu ul li a span{border:none;line-height:48px;display:inline;padding:0}.header-simple #Top_bar #menu ul li.submenu .menu-toggle{display:block;position:absolute;right:0;top:0;width:48px;height:48px;line-height:48px;font-size:30px;text-align:center;color:#d6d6d6;border-left:1px solid #eee;cursor:pointer}.header-simple #Top_bar #menu ul li.submenu .menu-toggle:after{content:"+"}.header-simple #Top_bar #menu ul li.hover > .menu-toggle:after{content:"-"}.header-simple #Top_bar #menu ul li.hover a{border-bottom:0}.header-simple #Top_bar #menu ul.mfn-megamenu li .menu-toggle{display:none}.header-simple #Top_bar #menu ul li ul{position:relative!important;left:0!important;top:0;padding:0;margin:0!important;width:auto!important;background-image:none}.header-simple #Top_bar #menu ul li ul li{width:100%!important;display:block;padding:0;}.header-simple #Top_bar #menu ul li ul li a{padding:0 20px 0 30px}.header-simple #Top_bar #menu ul li ul li a .menu-arrow{display:none}.header-simple #Top_bar #menu ul li ul li a span{padding:0}.header-simple #Top_bar #menu ul li ul li a span:after{display:none!important}.header-simple #Top_bar .menu > li > ul.mfn-megamenu a.mfn-megamenu-title{text-transform:uppercase;font-weight:400}.header-simple #Top_bar .menu > li > ul.mfn-megamenu > li > ul{display:block!important;position:inherit;left:auto;top:auto}.header-simple #Top_bar #menu ul li ul li ul{border-left:0!important;padding:0;top:0}.header-simple #Top_bar #menu ul li ul li ul li a{padding:0 20px 0 40px}.rtl.header-simple #Top_bar #menu{left:1px;right:auto}.rtl.header-simple #Top_bar a.responsive-menu-toggle{left:10px;right:auto}.rtl.header-simple #Top_bar #menu ul li.submenu .menu-toggle{left:0;right:auto;border-left:none;border-right:1px solid #eee}.rtl.header-simple #Top_bar #menu ul li ul{left:auto!important;right:0!important}.rtl.header-simple #Top_bar #menu ul li ul li a{padding:0 30px 0 20px}.rtl.header-simple #Top_bar #menu ul li ul li ul li a{padding:0 40px 0 20px}.menu-highlight #Top_bar .menu > li{margin:0 2px}.menu-highlight:not(.header-creative) #Top_bar .menu > li > a{margin:20px 0;padding:0;-webkit-border-radius:5px;border-radius:5px}.menu-highlight #Top_bar .menu > li > a:after{display:none}.menu-highlight #Top_bar .menu > li > a span:not(.description){line-height:50px}.menu-highlight #Top_bar .menu > li > a span.description{display:none}.menu-highlight.header-stack #Top_bar .menu > li > a{margin:10px 0!important}.menu-highlight.header-stack #Top_bar .menu > li > a span:not(.description){line-height:40px}.menu-highlight.header-fixed #Top_bar .menu > li > a{margin:10px 0!important;padding:5px 0}.menu-highlight.header-fixed #Top_bar .menu > li > a span{line-height:30px}.menu-highlight.header-transparent #Top_bar .menu > li > a{margin:5px 0}.menu-highlight.header-simple #Top_bar #menu ul li,.menu-highlight.header-creative #Top_bar #menu ul li{margin:0}.menu-highlight.header-simple #Top_bar #menu ul li > a,.menu-highlight.header-creative #Top_bar #menu ul li > a{-webkit-border-radius:0;border-radius:0}.menu-highlight:not(.header-simple) #Top_bar.is-sticky .menu > li > a{margin:10px 0!important;padding:5px 0!important}.menu-highlight:not(.header-simple) #Top_bar.is-sticky .menu > li > a span{line-height:30px!important}.header-modern.menu-highlight.menuo-right .menu_wrapper{margin-right:20px}.menu-line-below #Top_bar .menu > li > a:after{top:auto;bottom:-4px}.menu-line-below #Top_bar.is-sticky .menu > li > a:after{top:auto;bottom:-4px}.menu-line-below-80 #Top_bar:not(.is-sticky) .menu > li > a:after{height:4px;left:10%;top:50%;margin-top:20px;width:80%}.menu-line-below-80-1 #Top_bar:not(.is-sticky) .menu > li > a:after{height:1px;left:10%;top:50%;margin-top:20px;width:80%}.menu-link-color #Top_bar .menu > li > a:after{display:none!important}.menu-arrow-top #Top_bar .menu > li > a:after{background:none repeat scroll 0 0 rgba(0,0,0,0)!important;border-color:#ccc transparent transparent;border-style:solid;border-width:7px 7px 0;display:block;height:0;left:50%;margin-left:-7px;top:0!important;width:0}.menu-arrow-top.header-transparent #Top_bar .menu > li > a:after,.menu-arrow-top.header-plain #Top_bar .menu > li > a:after{display:none}.menu-arrow-top #Top_bar.is-sticky .menu > li > a:after{top:0!important}.menu-arrow-bottom #Top_bar .menu > li > a:after{background:none!important;border-color:transparent transparent #ccc;border-style:solid;border-width:0 7px 7px;display:block;height:0;left:50%;margin-left:-7px;top:auto;bottom:0;width:0}.menu-arrow-bottom.header-transparent #Top_bar .menu > li > a:after,.menu-arrow-bottom.header-plain #Top_bar .menu > li > a:after{display:none}.menu-arrow-bottom #Top_bar.is-sticky .menu > li > a:after{top:auto;bottom:0}.menuo-no-borders #Top_bar .menu > li > a span:not(.description){border-right-width:0}.menuo-no-borders #Header_creative #Top_bar .menu > li > a span{border-bottom-width:0}.menuo-right #Top_bar .menu_wrapper{float:right}.menuo-right.header-stack:not(.header-center) #Top_bar .menu_wrapper{margin-right:150px}body.header-creative{padding-left:50px}body.header-creative.header-open{padding-left:250px}body.error404,body.under-construction,body.template-blank{padding-left:0!important}.header-creative.footer-fixed #Footer,.header-creative.footer-sliding #Footer{left:25px}.header-open.footer-fixed #Footer,.header-open.footer-sliding #Footer{left:125px}.header-rtl.header-creative.footer-fixed #Footer,.header-rtl.header-creative.footer-sliding #Footer{left:auto;right:5px}.header-rtl.header-open.footer-fixed #Footer,.header-rtl.header-open.footer-sliding #Footer{left:auto;right:125px}#Header_creative{background:#fff;position:fixed;width:250px;height:100%;left:-200px;top:0;z-index:9002;-webkit-box-shadow:2px 0 4px 2px rgba(0,0,0,.15);box-shadow:2px 0 4px 2px rgba(0,0,0,.15)}#Header_creative .container{width:100%}#Header_creative .creative-wrapper{display:none}#Header_creative a.creative-menu-toggle{display:block;width:35px;height:35px;line-height:35px;font-size:25px;text-align:center;position:absolute;top:10px;right:8px;-webkit-border-radius:3px;border-radius:3px}.admin-bar #Header_creative a.creative-menu-toggle{top:42px}#Header_creative #Top_bar{position:static;width:100%}#Header_creative #Top_bar .top_bar_left{width:100%!important;float:none}#Header_creative #Top_bar .top_bar_right{width:100%!important;float:none;height:auto;margin-bottom:35px;text-align:center;padding:0 20px;top:0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}#Header_creative #Top_bar .top_bar_right:before{display:none}#Header_creative #Top_bar .top_bar_right_wrapper{top:0}#Header_creative #Top_bar .logo{float:none;text-align:center;margin:15px 0}#Header_creative #Top_bar .menu_wrapper{float:none;margin:0 0 30px}#Header_creative #Top_bar .menu > li{width:100%;float:none;position:relative}#Header_creative #Top_bar .menu > li > a{padding:0;text-align:center}#Header_creative #Top_bar .menu > li > a:after{display:none}#Header_creative #Top_bar .menu > li > a span{border-right:0;border-bottom-width:1px;line-height:38px}#Header_creative #Top_bar .menu li ul{left:100%;right:auto;top:0;box-shadow:2px 2px 2px 0 rgba(0,0,0,0.03);-webkit-box-shadow:2px 2px 2px 0 rgba(0,0,0,0.03)}#Header_creative #Top_bar .menu > li > ul.mfn-megamenu{width:700px!important;}#Header_creative #Top_bar .menu > li > ul.mfn-megamenu > li > ul{left:0}#Header_creative #Top_bar .menu li ul li a{padding-top:9px;padding-bottom:8px}#Header_creative #Top_bar .menu li ul li ul{top:0!important}#Header_creative #Top_bar .menu > li > a span.description{display:block;font-size:13px;line-height:28px!important;clear:both}#Header_creative #Top_bar .search_wrapper{left:100%;top:auto;bottom:-90px}#Header_creative #Top_bar a#header_cart{display:inline-block;float:none;top:3px}#Header_creative #Top_bar a#search_button{display:inline-block;float:none;top:3px}#Header_creative #Top_bar .wpml-languages{display:inline-block;float:none;top:0}#Header_creative #Top_bar .wpml-languages.enabled:hover a.active{padding-bottom:9px}#Header_creative #Top_bar a.button.action_button{display:inline-block;float:none;top:16px;margin:0}#Header_creative #Top_bar .banner_wrapper{display:block;text-align:center}#Header_creative #Top_bar .banner_wrapper img{max-width:100%;height:auto;display:inline-block}#Header_creative #Action_bar{position:absolute;bottom:0;top:auto;clear:both;padding:0 20px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}#Header_creative #Action_bar .social{float:none;text-align:center;padding:5px 0 15px}#Header_creative #Action_bar .social li{margin-bottom:2px}#Header_creative .social li a{color:rgba(0,0,0,.5)}#Header_creative .social li a:hover{color:#000}#Header_creative .creative-social{position:absolute;bottom:10px;right:0;width:50px}#Header_creative .creative-social li{display:block;float:none;width:100%;text-align:center;margin-bottom:5px}.header-creative .fixed-nav.fixed-nav-prev{margin-left:50px}.header-creative.header-open .fixed-nav.fixed-nav-prev{margin-left:250px}.menuo-last #Header_creative #Top_bar .menu li.last ul{top:auto;bottom:0}.header-open #Header_creative{left:0}.header-open #Header_creative .creative-wrapper{display:block}.header-open #Header_creative .creative-menu-toggle,.header-open #Header_creative .creative-social{display:none}body.header-rtl.header-creative{padding-left:0;padding-right:50px}.header-rtl #Header_creative{left:auto;right:-200px}.header-rtl.nice-scroll #Header_creative{margin-right:10px}.header-rtl #Header_creative a.creative-menu-toggle{left:8px;right:auto}.header-rtl #Header_creative .creative-social{left:0;right:auto}.header-rtl #Footer #back_to_top.sticky{right:125px}.header-rtl #popup_contact{right:70px}.header-rtl #Header_creative #Top_bar .menu li ul{left:auto;right:100%}.header-rtl #Header_creative #Top_bar .search_wrapper{left:auto;right:100%;}.header-rtl .fixed-nav.fixed-nav-prev{margin-left:0!important}.header-rtl .fixed-nav.fixed-nav-next{margin-right:50px}body.header-rtl.header-creative.header-open{padding-left:0;padding-right:250px!important}.header-rtl.header-open #Header_creative{left:auto;right:0}.header-rtl.header-open #Footer #back_to_top.sticky{right:325px}.header-rtl.header-open #popup_contact{right:270px}.header-rtl.header-open .fixed-nav.fixed-nav-next{margin-right:250px}.header-creative .vc_row[data-vc-full-width]{padding-left:50px}.header-creative.header-open .vc_row[data-vc-full-width]{padding-left:250px}#Header_creative.scroll{height:100%;overflow-y:auto}#Header_creative.scroll:not(.dropdown) .menu li ul{display:none!important}#Header_creative.scroll #Action_bar{position:static}#Header_creative.dropdown{outline:none}#Header_creative.dropdown #Top_bar .menu_wrapper{float:left}#Header_creative.dropdown #Top_bar #menu ul li{position:relative;float:left}#Header_creative.dropdown #Top_bar #menu ul li a:after{display:none}#Header_creative.dropdown #Top_bar #menu ul li a span{line-height:38px;padding:0}#Header_creative.dropdown #Top_bar #menu ul li.submenu .menu-toggle{display:block;position:absolute;right:0;top:0;width:38px;height:38px;line-height:38px;font-size:26px;text-align:center;color:#d6d6d6;border-left:1px solid #eee;cursor:pointer}#Header_creative.dropdown #Top_bar #menu ul li.submenu .menu-toggle:after{content:"+"}#Header_creative.dropdown #Top_bar #menu ul li.hover > .menu-toggle:after{content:"-"}#Header_creative.dropdown #Top_bar #menu ul li.hover a{border-bottom:0}#Header_creative.dropdown #Top_bar #menu ul.mfn-megamenu li .menu-toggle{display:none}#Header_creative.dropdown #Top_bar #menu ul li ul{position:relative!important;left:0!important;top:0;padding:0;margin-left:0!important;width:auto!important;background-image:none}#Header_creative.dropdown #Top_bar #menu ul li ul li{width:100%!important}#Header_creative.dropdown #Top_bar #menu ul li ul li a{padding:0 10px;text-align:center}#Header_creative.dropdown #Top_bar #menu ul li ul li a .menu-arrow{display:none}#Header_creative.dropdown #Top_bar #menu ul li ul li a span{padding:0}#Header_creative.dropdown #Top_bar #menu ul li ul li a span:after{display:none!important}#Header_creative.dropdown #Top_bar .menu > li > ul.mfn-megamenu a.mfn-megamenu-title{text-transform:uppercase;font-weight:400}#Header_creative.dropdown #Top_bar .menu > li > ul.mfn-megamenu > li > ul{display:block!important;position:inherit;left:auto;top:auto}#Header_creative.dropdown #Top_bar #menu ul li ul li ul{border-left:0!important;padding:0;top:0}}@media only screen and (min-width: 1240px) {#Top_bar.is-sticky{position:fixed!important;width:100%;left:0;top:-60px;height:60px;z-index:701;background:#fff;opacity:.97;filter:alpha(opacity = 97);-webkit-box-shadow:0 2px 5px 0 rgba(0,0,0,0.1);-moz-box-shadow:0 2px 5px 0 rgba(0,0,0,0.1);box-shadow:0 2px 5px 0 rgba(0,0,0,0.1)}.layout-boxed.header-boxed #Top_bar.is-sticky{max-width:1240px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.layout-boxed.header-boxed.nice-scroll #Top_bar.is-sticky{margin-left:-5px}#Top_bar.is-sticky .top_bar_left,#Top_bar.is-sticky .top_bar_right,#Top_bar.is-sticky .top_bar_right:before{background:none}#Top_bar.is-sticky .top_bar_right{top:-4px;height:auto;}#Top_bar.is-sticky .top_bar_right_wrapper{top:15px}.header-plain #Top_bar.is-sticky .top_bar_right_wrapper{top:0}#Top_bar.is-sticky .logo{width:auto;margin:0 30px 0 20px;padding:0}#Top_bar.is-sticky #logo{padding:5px 0!important;height:50px!important;line-height:50px!important}#Top_bar.is-sticky #logo img:not(.svg){max-height:35px;width:auto!important}#Top_bar.is-sticky #logo img.logo-main{display:none}#Top_bar.is-sticky #logo img.logo-sticky{display:inline}#Top_bar.is-sticky .menu_wrapper{clear:none}#Top_bar.is-sticky .menu_wrapper .menu > li > a{padding:15px 0}#Top_bar.is-sticky .menu > li > a,#Top_bar.is-sticky .menu > li > a span{line-height:30px}#Top_bar.is-sticky .menu > li > a:after{top:auto;bottom:-4px}#Top_bar.is-sticky .menu > li > a span.description{display:none}#Top_bar.is-sticky a.responsive-menu-toggle{top:14px}#Top_bar.is-sticky .secondary_menu_wrapper,#Top_bar.is-sticky .banner_wrapper{display:none}.header-simple #Top_bar.is-sticky .responsive-menu-toggle{top:12px}.header-overlay #Top_bar.is-sticky{display:none}.sticky-dark #Top_bar.is-sticky{background:rgba(0,0,0,.8)}.sticky-dark #Top_bar.is-sticky #menu{background:rgba(0,0,0,.8)}.sticky-dark #Top_bar.is-sticky .menu > li > a{color:#fff}.sticky-dark #Top_bar.is-sticky .top_bar_right a{color:rgba(255,255,255,.5)}.sticky-dark #Top_bar.is-sticky .wpml-languages a.active,.sticky-dark #Top_bar.is-sticky .wpml-languages ul.wpml-lang-dropdown{background:rgba(0,0,0,0.3);border-color:rgba(0,0,0,0.1)}}@media only screen and (max-width: 1239px){.header_placeholder{height:0!important}#Top_bar #menu{display:none;height:auto;width:300px;bottom:auto;top:100%;right:1px;position:absolute;margin:0}#Top_bar a.responsive-menu-toggle{display:block;width:35px;height:35px;text-align:center;position:absolute;top:28px;right:10px;-webkit-border-radius:3px;border-radius:3px}#Top_bar a:hover.responsive-menu-toggle{text-decoration:none}#Top_bar a.responsive-menu-toggle i{font-size:25px;line-height:35px}#Top_bar a.responsive-menu-toggle span{float:right;padding:10px 5px;line-height:14px}#Top_bar #menu > ul{width:100%;float:left}#Top_bar #menu ul li{width:100%;padding-bottom:0;border-right:0;position:relative}#Top_bar #menu ul li a{padding:0 20px;margin:0;display:block;height:auto;line-height:normal;border:none}#Top_bar #menu ul li a:after{display:none}#Top_bar #menu ul li a span{border:none;line-height:48px;display:inline;padding:0}#Top_bar #menu ul li a span.description{margin:0 0 0 5px}#Top_bar #menu ul li.submenu .menu-toggle{display:block;position:absolute;right:0;top:0;width:48px;height:48px;line-height:48px;font-size:30px;text-align:center;color:#d6d6d6;border-left:1px solid #eee;cursor:pointer}#Top_bar #menu ul li.submenu .menu-toggle:after{content:"+"}#Top_bar #menu ul li.hover > .menu-toggle:after{content:"-"}#Top_bar #menu ul li.hover a{border-bottom:0}#Top_bar #menu ul li a span:after{display:none!important}#Top_bar #menu ul.mfn-megamenu li .menu-toggle{display:none}#Top_bar #menu ul li ul{position:relative!important;left:0!important;top:0;padding:0;margin-left:0!important;width:auto!important;background-image:none!important;box-shadow:0 0 0 0 transparent!important;-webkit-box-shadow:0 0 0 0 transparent!important}#Top_bar #menu ul li ul li{width:100%!important}#Top_bar #menu ul li ul li a{padding:0 20px 0 30px}#Top_bar #menu ul li ul li a .menu-arrow{display:none}#Top_bar #menu ul li ul li a span{padding:0}#Top_bar #menu ul li ul li a span:after{display:none!important}#Top_bar .menu > li > ul.mfn-megamenu a.mfn-megamenu-title{text-transform:uppercase;font-weight:400}#Top_bar .menu > li > ul.mfn-megamenu > li > ul{display:block!important;position:inherit;left:auto;top:auto}#Top_bar #menu ul li ul li ul{border-left:0!important;padding:0;top:0}#Top_bar #menu ul li ul li ul li a{padding:0 20px 0 40px}.rtl #Top_bar #menu{left:1px;right:auto}.rtl #Top_bar a.responsive-menu-toggle{left:10px;right:auto}.rtl #Top_bar #menu ul li.submenu .menu-toggle{left:0;right:auto;border-left:none;border-right:1px solid #eee}.rtl #Top_bar #menu ul li ul{left:auto!important;right:0!important}.rtl #Top_bar #menu ul li ul li a{padding:0 30px 0 20px}.rtl #Top_bar #menu ul li ul li ul li a{padding:0 40px 0 20px}.header-stack .menu_wrapper a.responsive-menu-toggle{position:static!important;margin:11px 0}.header-stack .menu_wrapper #menu{left:0;right:auto}.rtl.header-stack #Top_bar #menu{left:auto;right:0}.admin-bar #Header_creative{top:32px}.header-creative.layout-boxed{padding-top:85px}.header-creative.layout-full-width #Wrapper{padding-top:60px}#Header_creative{position:fixed;width:100%;left:0!important;top:0;z-index:1001}#Header_creative .creative-wrapper{display:block!important;opacity:1!important;filter:alpha(opacity=100)!important}#Header_creative .creative-menu-toggle,#Header_creative .creative-social{display:none!important;opacity:1!important;filter:alpha(opacity=100)!important}#Header_creative #Top_bar{position:static;margin:0 8%;width:84%}#Header_creative #Top_bar #logo{height:50px;line-height:50px;padding:5px 0}#Header_creative #Top_bar #logo img{max-height:40px}.logo-no-sticky-padding #Header_creative #Top_bar #logo{height:60px;line-height:60px;padding:0}.logo-no-sticky-padding #Header_creative #Top_bar #logo img{max-height:60px}#Header_creative #Top_bar .responsive-menu-toggle{top:12px}#Header_creative #Top_bar #header_cart{top:21px}#Header_creative #Top_bar #search_button{top:20px}#Header_creative #Top_bar .wpml-languages{top:11px}#Header_creative #Top_bar .action_button{top:9px}#Header_creative #Top_bar .top_bar_right{height:60px;top:0}#Header_creative #Top_bar .top_bar_right:before{display:none}#Header_creative #Top_bar .top_bar_right_wrapper{top:0}#Header_creative #Action_bar{display:none}#Header_creative.scroll{overflow:visible!important}}#Header_wrapper, #Intro {background-color: #000119;}#Subheader {background-color: rgba(247, 247, 247, 1);}.header-classic #Action_bar, .header-plain #Action_bar, .header-split #Action_bar, .header-stack #Action_bar {background-color: #2C2C2C;}#Sliding-top {background-color: #545454;}#Sliding-top a.sliding-top-control {border-right-color: #545454;}#Sliding-top.st-center a.sliding-top-control,#Sliding-top.st-left a.sliding-top-control {border-top-color: #545454;}#Footer {background-color: #4D4E5D;}body, ul.timeline_items, .icon_box a .desc, .icon_box a:hover .desc, .feature_list ul li a, .list_item a, .list_item a:hover,.widget_recent_entries ul li a, .flat_box a, .flat_box a:hover, .story_box .desc, .content_slider.carouselul li a .title,.content_slider.flat.description ul li .desc, .content_slider.flat.description ul li a .desc, .post-nav.minimal a i {color: #626262;}.post-nav.minimal a svg {fill: #626262;}.themecolor, .opening_hours .opening_hours_wrapper li span, .fancy_heading_icon .icon_top,.fancy_heading_arrows .icon-right-dir, .fancy_heading_arrows .icon-left-dir, .fancy_heading_line .title,.button-love a.mfn-love, .format-link .post-title .icon-link, .pager-single > span, .pager-single a:hover,.widget_meta ul, .widget_pages ul, .widget_rss ul, .widget_mfn_recent_comments ul li:after, .widget_archive ul, .widget_recent_comments ul li:after, .widget_nav_menu ul, .woocommerce ul.products li.product .price, .shop_slider .shop_slider_ul li .item_wrapper .price, .woocommerce-page ul.products li.product .price, .widget_price_filter .price_label .from, .widget_price_filter .price_label .to,.woocommerce ul.product_list_widget li .quantity .amount, .woocommerce .product div.entry-summary .price, .woocommerce .star-rating span,#Error_404 .error_pic i, .style-simple #Filters .filters_wrapper ul li a:hover, .style-simple #Filters .filters_wrapper ul li.current-cat a,.style-simple .quick_fact .title {color: #464646;}.themebg, .pager .pages a:hover, .pager .pages a.active, .pager .pages span.page-numbers.current, .pager-single span:after, #comments .commentlist > li .reply a.comment-reply-link,.fixed-nav .arrow, #Filters .filters_wrapper ul li a:hover, #Filters .filters_wrapper ul li.current-cat a, .widget_categories ul, .Recent_posts ul li .desc:after, .Recent_posts ul li .photo .c,.widget_recent_entries ul li:after, .widget_product_categories ul, div.jp-interface, #Top_bar a#header_cart span,.widget_mfn_menu ul li a:hover, .widget_mfn_menu ul li.current-menu-item:not(.current-menu-ancestor) > a, .widget_mfn_menu ul li.current_page_item:not(.current_page_ancestor) > a,.testimonials_slider .slider_images, .testimonials_slider .slider_images a:after, .testimonials_slider .slider_images:before,.slider_pagination a.selected, .slider_pagination a.selected:after, .tp-bullets.simplebullets.round .bullet.selected, .tp-bullets.simplebullets.round .bullet.selected:after,.tparrows.default, .tp-bullets.tp-thumbs .bullet.selected:after, .offer_thumb .slider_pagination a:before, .offer_thumb .slider_pagination a.selected:after,.style-simple .accordion .question:after, .style-simple .faq .question:after, .style-simple .icon_box .desc_wrapper h4:before,.style-simple #Filters .filters_wrapper ul li a:after, .style-simple .article_box .desc_wrapper p:after, .style-simple .sliding_box .desc_wrapper:after,.style-simple .trailer_box:hover .desc, .portfolio_group.exposure .portfolio-item .desc-inner .line, .style-simple .zoom_box .desc .desc_txt,.woocommerce-account table.my_account_orders .order-number a, .woocommerce-MyAccount-navigation ul li.is-active a {background-color: #464646;}.Latest_news ul li .photo, .style-simple .opening_hours .opening_hours_wrapper li label,.style-simple .timeline_items li:hover h3, .style-simple .timeline_items li:nth-child(even):hover h3, .style-simple .timeline_items li:hover .desc, .style-simple .timeline_items li:nth-child(even):hover,.style-simple .offer_thumb .slider_pagination a.selected {border-color: #464646;}a {color: #464646;}a:hover {color: #2275ac;}*::-moz-selection {background-color: #464646;}*::selection {background-color: #464646;}.blockquote p.author span, .counter .desc_wrapper .title, .article_box .desc_wrapper p, .team .desc_wrapper p.subtitle, .pricing-box .plan-header p.subtitle, .pricing-box .plan-header .price sup.period, .chart_box p, .fancy_heading .inside,.fancy_heading_line .slogan, .post-meta, .post-meta a, .post-footer, .post-footer a span.label, .pager .pages a, .button-love a .label,.pager-single a, #comments .commentlist > li .comment-author .says, .fixed-nav .desc .date, .filters_buttons li.label, .Recent_posts ul li a .desc .date,.widget_recent_entries ul li .post-date, .tp_recent_tweets .twitter_time, .widget_price_filter .price_label, .shop-filters .woocommerce-result-count,.woocommerce ul.product_list_widget li .quantity, .widget_shopping_cart ul.product_list_widget li dl, .product_meta .posted_in,.woocommerce .shop_table .product-name .variation > dd, .shipping-calculator-button:after,.shop_slider .shop_slider_ul li .item_wrapper .price del,.testimonials_slider .testimonials_slider_ul li .author span, .testimonials_slider .testimonials_slider_ul li .author span a, .Latest_news ul li .desc_footer {color: #a8a8a8;}h1, h1 a, h1 a:hover, .text-logo #logo { color: #444444; }h2, h2 a, h2 a:hover { color: #444444; }h3, h3 a, h3 a:hover { color: #444444; }h4, h4 a, h4 a:hover, .style-simple .sliding_box .desc_wrapper h4 { color: #444444; }h5, h5 a, h5 a:hover { color: #444444; }h6, h6 a, h6 a:hover, a.content_link .title { color: #444444; }.dropcap, .highlight:not(.highlight_image) {background-color: #2991d6;}a.button, a.tp-button {background-color: #f7f7f7;color: #747474;}.button-stroke a.button, .button-stroke a.button .button_icon i, .button-stroke a.tp-button {border-color: #f7f7f7;color: #747474;}.button-stroke a:hover.button, .button-stroke a:hover.tp-button {background-color: #f7f7f7 !important;color: #fff;}a.button_theme, a.tp-button.button_theme,button, input[type="submit"], input[type="reset"], input[type="button"] {background-color: #464646;color: #fff;}.button-stroke a.button.button_theme:not(.action_button), .button-stroke a.button.button_theme:not(.action_button),.button-stroke a.button.button_theme .button_icon i, .button-stroke a.tp-button.button_theme,.button-stroke button, .button-stroke input[type="submit"], .button-stroke input[type="reset"], .button-stroke input[type="button"] {border-color: #464646;color: #464646 !important;}.button-stroke a.button.button_theme:hover, .button-stroke a.tp-button.button_theme:hover,.button-stroke button:hover, .button-stroke input[type="submit"]:hover, .button-stroke input[type="reset"]:hover, .button-stroke input[type="button"]:hover {background-color: #464646 !important;color: #fff !important;}a.mfn-link { color: #656B6F; }a.mfn-link-2 span, a:hover.mfn-link-2 span:before, a.hover.mfn-link-2 span:before, a.mfn-link-5 span, a.mfn-link-8:after, a.mfn-link-8:before { background: #2195de; }a:hover.mfn-link { color: #2991d6;}a.mfn-link-2 span:before, a:hover.mfn-link-4:before, a:hover.mfn-link-4:after, a.hover.mfn-link-4:before, a.hover.mfn-link-4:after, a.mfn-link-5:before, a.mfn-link-7:after, a.mfn-link-7:before { background: #2275ac; }a.mfn-link-6:before {border-bottom-color: #2275ac;}.woocommerce a.button, .woocommerce .quantity input.plus, .woocommerce .quantity input.minus {background-color: #f7f7f7 !important;color: #747474 !important;}.woocommerce a.button_theme, .woocommerce a.checkout-button, .woocommerce button.button,.woocommerce .button.add_to_cart_button, .woocommerce .button.product_type_external,.woocommerce input[type="submit"], .woocommerce input[type="reset"], .woocommerce input[type="button"],.button-stroke .woocommerce a.checkout-button {background-color: #464646 !important;color: #fff !important;}.column_column ul, .column_column ol, .the_content_wrapper ul, .the_content_wrapper ol {color: #737E86;}.hr_color, .hr_color hr, .hr_dots span {color: #2991d6;background: #2991d6;}.hr_zigzag i {color: #2991d6;} .highlight-left:after,.highlight-right:after {background: #2991d6;}@media only screen and (max-width: 767px) {.highlight-left .wrap:first-child,.highlight-right .wrap:last-child {background: #2991d6;}}#Header .top_bar_left, .header-classic #Top_bar, .header-plain #Top_bar, .header-stack #Top_bar, .header-split #Top_bar,.header-fixed #Top_bar, .header-below #Top_bar, #Header_creative, #Top_bar #menu, .sticky-tb-color #Top_bar.is-sticky {background-color: #ffffff;}#Top_bar .top_bar_right:before {background-color: #e3e3e3;}#Header .top_bar_right {background-color: #f5f5f5;}#Top_bar .top_bar_right a:not(.action_button) { color: #444444;}#Top_bar .menu > li > a { color: #444444;}#Top_bar .menu > li.current-menu-item > a,#Top_bar .menu > li.current_page_item > a,#Top_bar .menu > li.current-menu-parent > a,#Top_bar .menu > li.current-page-parent > a,#Top_bar .menu > li.current-menu-ancestor > a,#Top_bar .menu > li.current-page-ancestor > a,#Top_bar .menu > li.current_page_ancestor > a,#Top_bar .menu > li.hover > a { color: #EF5231; }#Top_bar .menu > li a:after { background: #EF5231; }.menuo-arrows #Top_bar .menu > li.submenu > a > span:not(.description)::after { border-top-color: #444444;}#Top_bar .menu > li.current-menu-item.submenu > a > span:not(.description)::after,#Top_bar .menu > li.current_page_item.submenu > a > span:not(.description)::after,#Top_bar .menu > li.current-menu-parent.submenu > a > span:not(.description)::after,#Top_bar .menu > li.current-page-parent.submenu > a > span:not(.description)::after,#Top_bar .menu > li.current-menu-ancestor.submenu > a > span:not(.description)::after,#Top_bar .menu > li.current-page-ancestor.submenu > a > span:not(.description)::after,#Top_bar .menu > li.current_page_ancestor.submenu > a > span:not(.description)::after,#Top_bar .menu > li.hover.submenu > a > span:not(.description)::after { border-top-color: #EF5231; }.menu-highlight #Top_bar #menu > ul > li.current-menu-item > a,.menu-highlight #Top_bar #menu > ul > li.current_page_item > a,.menu-highlight #Top_bar #menu > ul > li.current-menu-parent > a,.menu-highlight #Top_bar #menu > ul > li.current-page-parent > a,.menu-highlight #Top_bar #menu > ul > li.current-menu-ancestor > a,.menu-highlight #Top_bar #menu > ul > li.current-page-ancestor > a,.menu-highlight #Top_bar #menu > ul > li.current_page_ancestor > a,.menu-highlight #Top_bar #menu > ul > li.hover > a { background: #F2F2F2; }.menu-arrow-bottom #Top_bar .menu > li > a:after { border-bottom-color: #EF5231;}.menu-arrow-top #Top_bar .menu > li > a:after {border-top-color: #EF5231;}.header-plain #Top_bar .menu > li.current-menu-item > a,.header-plain #Top_bar .menu > li.current_page_item > a,.header-plain #Top_bar .menu > li.current-menu-parent > a,.header-plain #Top_bar .menu > li.current-page-parent > a,.header-plain #Top_bar .menu > li.current-menu-ancestor > a,.header-plain #Top_bar .menu > li.current-page-ancestor > a,.header-plain #Top_bar .menu > li.current_page_ancestor > a,.header-plain #Top_bar .menu > li.hover > a,.header-plain #Top_bar a:hover#header_cart,.header-plain #Top_bar a:hover#search_button,.header-plain #Top_bar .wpml-languages:hover,.header-plain #Top_bar .wpml-languages ul.wpml-lang-dropdown {background: #F2F2F2; color: #EF5231;}.header-plain #Top_bar,.header-plain #Top_bar .menu > li > a span:not(.description),.header-plain #Top_bar a#header_cart,.header-plain #Top_bar a#search_button,.header-plain #Top_bar .wpml-languages,.header-plain #Top_bar a.button.action_button {border-color: #F2F2F2;}#Top_bar .menu > li ul {background-color: #F2F2F2;}#Top_bar .menu > li ul li a {color: #5f5f5f;}#Top_bar .menu > li ul li a:hover,#Top_bar .menu > li ul li.hover > a {color: #2e2e2e;}#Top_bar .search_wrapper { background: #2991D6; }.overlay-menu-toggle {color: #EF5231 !important; background: transparent; }#Overlay {background: rgba(239, 82, 49, 0.95);}#overlay-menu ul li a, .header-overlay .overlay-menu-toggle.focus {color: #FFFFFF;}#overlay-menu ul li.current-menu-item > a,#overlay-menu ul li.current_page_item > a,#overlay-menu ul li.current-menu-parent > a,#overlay-menu ul li.current-page-parent > a,#overlay-menu ul li.current-menu-ancestor > a,#overlay-menu ul li.current-page-ancestor > a,#overlay-menu ul li.current_page_ancestor > a { color: #B1DCFB; }#Top_bar .responsive-menu-toggle {color: #EF5231; }#Subheader .title{color: #888888;}#Subheader ul.breadcrumbs li, #Subheader ul.breadcrumbs li a{color: rgba(136, 136, 136, 0.6);}#Footer, #Footer .widget_recent_entries ul li a {color: #cccccc;}#Footer a {color: #ffffff;}#Footer a:hover {color: #ffffff;}#Footer h1, #Footer h1 a, #Footer h1 a:hover,#Footer h2, #Footer h2 a, #Footer h2 a:hover,#Footer h3, #Footer h3 a, #Footer h3 a:hover,#Footer h4, #Footer h4 a, #Footer h4 a:hover,#Footer h5, #Footer h5 a, #Footer h5 a:hover,#Footer h6, #Footer h6 a, #Footer h6 a:hover {color: #ffffff;}#Footer .themecolor, #Footer .widget_meta ul, #Footer .widget_pages ul, #Footer .widget_rss ul, #Footer .widget_mfn_recent_comments ul li:after, #Footer .widget_archive ul, #Footer .widget_recent_comments ul li:after, #Footer .widget_nav_menu ul, #Footer .widget_price_filter .price_label .from, #Footer .widget_price_filter .price_label .to,#Footer .star-rating span {color: #ffffff;}#Footer .themebg, #Footer .widget_categories ul, #Footer .Recent_posts ul li .desc:after, #Footer .Recent_posts ul li .photo .c,#Footer .widget_recent_entries ul li:after, #Footer .widget_mfn_menu ul li a:hover, #Footer .widget_product_categories ul {background-color: #ffffff;}#Footer .Recent_posts ul li a .desc .date, #Footer .widget_recent_entries ul li .post-date, #Footer .tp_recent_tweets .twitter_time, #Footer .widget_price_filter .price_label, #Footer .shop-filters .woocommerce-result-count, #Footer ul.product_list_widget li .quantity, #Footer .widget_shopping_cart ul.product_list_widget li dl {color: #a8a8a8;}#Sliding-top, #Sliding-top .widget_recent_entries ul li a {color: #cccccc;}#Sliding-top a {color: #2991d6;}#Sliding-top a:hover {color: #2275ac;}#Sliding-top h1, #Sliding-top h1 a, #Sliding-top h1 a:hover,#Sliding-top h2, #Sliding-top h2 a, #Sliding-top h2 a:hover,#Sliding-top h3, #Sliding-top h3 a, #Sliding-top h3 a:hover,#Sliding-top h4, #Sliding-top h4 a, #Sliding-top h4 a:hover,#Sliding-top h5, #Sliding-top h5 a, #Sliding-top h5 a:hover,#Sliding-top h6, #Sliding-top h6 a, #Sliding-top h6 a:hover {color: #ffffff;}#Sliding-top .themecolor, #Sliding-top .widget_meta ul, #Sliding-top .widget_pages ul, #Sliding-top .widget_rss ul, #Sliding-top .widget_mfn_recent_comments ul li:after, #Sliding-top .widget_archive ul, #Sliding-top .widget_recent_comments ul li:after, #Sliding-top .widget_nav_menu ul, #Sliding-top .widget_price_filter .price_label .from, #Sliding-top .widget_price_filter .price_label .to,#Sliding-top .star-rating span {color: #2991d6;}#Sliding-top .themebg, #Sliding-top .widget_categories ul, #Sliding-top .Recent_posts ul li .desc:after, #Sliding-top .Recent_posts ul li .photo .c,#Sliding-top .widget_recent_entries ul li:after, #Sliding-top .widget_mfn_menu ul li a:hover, #Sliding-top .widget_product_categories ul {background-color: #2991d6;}#Sliding-top .Recent_posts ul li a .desc .date, #Sliding-top .widget_recent_entries ul li .post-date, #Sliding-top .tp_recent_tweets .twitter_time, #Sliding-top .widget_price_filter .price_label, #Sliding-top .shop-filters .woocommerce-result-count, #Sliding-top ul.product_list_widget li .quantity, #Sliding-top .widget_shopping_cart ul.product_list_widget li dl {color: #a8a8a8;}blockquote, blockquote a, blockquote a:hover {color: #444444;}.image_frame .image_wrapper .image_links,.portfolio_group.masonry-hover .portfolio-item .masonry-hover-wrapper .hover-desc { background: rgba(41, 145, 214, 0.8);}.masonry.tiles .post-item .post-desc-wrapper .post-desc .post-title:after, .masonry.tiles .post-item.no-img, .masonry.tiles .post-item.format-quote {background: #2991d6;} .image_frame .image_wrapper .image_links a {color: #ffffff;}.image_frame .image_wrapper .image_links a:hover {background: #ffffff;color: #2991d6;}.sliding_box .desc_wrapper {background: #2991d6;}.sliding_box .desc_wrapper:after {border-bottom-color: #2991d6;}.counter .icon_wrapper i {color: #2991d6;}.quick_fact .number-wrapper {color: #2991d6;}.progress_bars .bars_list li .bar .progress { background-color: #2991d6;}a:hover.icon_bar {color: #2991d6 !important;}a.content_link, a:hover.content_link {color: #2991d6;}a.content_link:before {border-bottom-color: #2991d6;}a.content_link:after {border-color: #2991d6;}.get_in_touch, .infobox {background-color: #2991d6;}.column_map .google-map-contact-wrapper .get_in_touch:after {border-top-color: #2991d6;}.timeline_items li h3:before,.timeline_items:after,.timeline .post-item:before { border-color: #464646;}.how_it_works .image .number { background: #464646;}.trailer_box .desc .subtitle {background-color: #2991d6;}.icon_box .icon_wrapper, .icon_box a .icon_wrapper,.style-simple .icon_box:hover .icon_wrapper {color: #2991d6;}.icon_box:hover .icon_wrapper:before, .icon_box a:hover .icon_wrapper:before { background-color: #2991d6;}ul.clients.clients_tiles li .client_wrapper:hover:before { background: #464646;}ul.clients.clients_tiles li .client_wrapper:after { border-bottom-color: #464646;}.list_item.lists_1 .list_left {background-color: #2991d6;}.list_item .list_left {color: #2991d6;}.feature_list ul li .icon i { color: #2991d6;}.feature_list ul li:hover,.feature_list ul li:hover a {background: #2991d6;}.ui-tabs .ui-tabs-nav li.ui-state-active a,.accordion .question.active .title > .acc-icon-plus,.accordion .question.active .title > .acc-icon-minus,.faq .question.active .title > .acc-icon-plus,.faq .question.active .title,.accordion .question.active .title {color: #2991d6;}.ui-tabs .ui-tabs-nav li.ui-state-active a:after {background: #2991d6;}body.table-hover:not(.woocommerce-page) table tr:hover td {background: #464646;}.pricing-box .plan-header .price sup.currency,.pricing-box .plan-header .price > span {color: #2991d6;}.pricing-box .plan-inside ul li .yes { background: #2991d6;}.pricing-box-box.pricing-box-featured {background: #2991d6;}input[type="date"], input[type="email"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="url"],select, textarea, .woocommerce .quantity input.qty {color: #626262;background-color: rgba(255, 255, 255, 1);border-color: #EBEBEB;}input[type="date"]:focus, input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="url"]:focus, select:focus, textarea:focus {color: #1982c2;background-color: rgba(233, 245, 252, 1) !important;border-color: #d5e5ee;}.woocommerce span.onsale, .shop_slider .shop_slider_ul li .item_wrapper span.onsale {border-top-color: #464646 !important;}.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {border-color: #464646 !important;}@media only screen and (min-width: 768px){.header-semi #Top_bar:not(.is-sticky) {background-color: rgba(255, 255, 255, 0.8);}}@media only screen and (max-width: 767px){#Top_bar, #Action_bar { background: #ffffff !important;}}html { background-color: #FCFCFC;}#Wrapper, #Content { background-color: #FCFCFC;}body, button, span.date_label, .timeline_items li h3 span, input[type="submit"], input[type="reset"], input[type="button"],input[type="text"], input[type="password"], input[type="tel"], input[type="email"], textarea, select, .offer_li .title h3 {font-family: "Helvetica light", Arial, Tahoma, sans-serif;}#menu > ul > li > a, .action_button, #overlay-menu ul li a {font-family: "Helvetica light", Arial, Tahoma, sans-serif;}#Subheader .title {font-family: "Helvetica light", Arial, Tahoma, sans-serif;}h1, h2, h3, h4, .text-logo #logo {font-family: "Helvetica light", Arial, Tahoma, sans-serif;}h5, h6 {font-family: "Helvetica light", Arial, Tahoma, sans-serif;}blockquote {font-family: "Helvetica light", Arial, Tahoma, sans-serif;}.chart_box .chart .num, .counter .desc_wrapper .number-wrapper, .how_it_works .image .number,.pricing-box .plan-header .price, .quick_fact .number-wrapper, .woocommerce .product div.entry-summary .price {font-family: "Helvetica light", Arial, Tahoma, sans-serif;}body {font-size: 18px;line-height: 21px;font-weight: 400;letter-spacing: 0px;}#menu > ul > li > a, .action_button {font-size: 17px;font-weight: 400;letter-spacing: 0px;}#Subheader .title {font-size: 25px;line-height: 25px;font-weight: 400;letter-spacing: 0px;}h1, .text-logo #logo { font-size: 25px;line-height: 25px;font-weight: 300;letter-spacing: 0px;}h2 { font-size: 26px;line-height: 30px;font-weight: 300;letter-spacing: 0px;}h3 {font-size: 25px;line-height: 27px;font-weight: 300;letter-spacing: 0px;}h4 {font-size: 21px;line-height: 25px;font-weight: 300;letter-spacing: 0px;}h5 {font-size: 15px;line-height: 19px;font-weight: 700;letter-spacing: 0px;}h6 {font-size: 13px;line-height: 19px;font-weight: 400;letter-spacing: 0px;}#Intro .intro-title { font-size: 70px;line-height: 70px;font-weight: 400;letter-spacing: 0px;}.with_aside .sidebar.columns {width: 23%;}.with_aside .sections_group {width: 77%;}.aside_both .sidebar.columns {width: 18%;}.aside_both .sidebar.sidebar-1{ margin-left: -82%;}.aside_both .sections_group {width: 64%;margin-left: 18%;}@media only screen and (min-width:1240px){#Wrapper, .with_aside .content_wrapper {max-width: 1240px;}.section_wrapper, .container {max-width: 1220px;}.layout-boxed.header-boxed #Top_bar.is-sticky{max-width: 1240px;}}#Top_bar #logo,.header-fixed #Top_bar #logo,.header-plain #Top_bar #logo,.header-transparent #Top_bar #logo {height: 60px;line-height: 60px;padding: 15px 0;}.logo-overflow #Top_bar:not(.is-sticky) .logo {height: 90px;}#Top_bar .menu > li > a {padding: 15px 0;}.menu-highlight:not(.header-creative) #Top_bar .menu > li > a {margin: 20px 0;}.header-plain:not(.menu-highlight) #Top_bar .menu > li > a span:not(.description) {line-height: 90px;}.header-fixed #Top_bar .menu > li > a {padding: 30px 0;}#Top_bar .top_bar_right,.header-plain #Top_bar .top_bar_right {height: 90px;}#Top_bar .top_bar_right_wrapper { top: 25px;}.header-plain #Top_bar a#header_cart, .header-plain #Top_bar a#search_button,.header-plain #Top_bar .wpml-languages,.header-plain #Top_bar a.button.action_button {line-height: 90px;}#Top_bar a.responsive-menu-toggle,.header-plain #Top_bar a.responsive-menu-toggle,.header-transparent #Top_bar a.responsive-menu-toggle { top: 28px;}.twentytwenty-before-label::before { content: "Before";}.twentytwenty-after-label::before { content: "After";}
+</style>
+<!-- style | custom css | theme options -->
+<style id="mfn-dnmc-theme-css">
+a#search_button {display:none!important;}
+
+.top_bar_right {display:none!important;}
+</style>
+
+<!--[if lt IE 9]>
+<script id="mfn-html5" src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!-- script | retina -->
+<script id="mfn-dnmc-retina-js">
+//<![CDATA[
+jQuery(window).load(function(){
+var retina = window.devicePixelRatio > 1 ? true : false;if( retina ){var retinaEl = jQuery("#logo img.logo-main");var retinaLogoW = retinaEl.width();var retinaLogoH = retinaEl.height();retinaEl.attr( "src", "https://www.tango.me/wp-content/uploads/2016/12/logo-1.png" ).width( retinaLogoW ).height( retinaLogoH );var stickyEl = jQuery("#logo img.logo-sticky");var stickyLogoW = stickyEl.width();var stickyLogoH = stickyEl.height();stickyEl.attr( "src", "https://www.tango.me/wp-content/uploads/2016/12/logo-1.png" ).width( stickyLogoW ).height( stickyLogoH );var mobileEl = jQuery("#logo img.logo-mobile");var mobileLogoW = mobileEl.width();var mobileLogoH = mobileEl.height();mobileEl.attr( "src", "https://www.tango.me/wp-content/uploads/2016/12/logo-1.png" ).width( mobileLogoW ).height( mobileLogoH );}});
+//]]>
+</script>
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.tango.me/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.2.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<!-- body -->
+<body class="page-template-default page page-id-730  color-custom style-default layout-full-width nice-scroll-on mobile-tb-left header-classic header-boxed sticky-header sticky-white ab-hide subheader-title-left menuo-no-borders logo-overflow wpb-js-composer js-comp-ver-5.0.1 vc_responsive">
+	
+	<!-- mfn_hook_top --><!-- mfn_hook_top -->	
+		
+		
+	<!-- #Wrapper -->
+	<div id="Wrapper">
+	
+				
+		
+		<!-- #Header_bg -->
+		<div id="Header_wrapper">
+	
+			<!-- #Header -->
+			<header id="Header">
+				
+
+
+<!-- .header_placeholder 4sticky  -->
+<div class="header_placeholder"></div>
+
+<div id="Top_bar" class="loading">
+
+	<div class="container">
+		<div class="column one">
+		
+			<div class="top_bar_left clearfix">
+			
+				<!-- .logo -->
+				<div class="logo">
+					<a id="logo" href="https://www.tango.me" title="Tango"><img class="logo-main scale-with-grid" src="https://www.tango.me/wp-content/uploads/2016/12/logo-1.png" alt=""><img class="logo-sticky scale-with-grid" src="https://www.tango.me/wp-content/uploads/2016/12/logo-1.png" alt=""><img class="logo-mobile scale-with-grid" src="https://www.tango.me/wp-content/uploads/2016/12/logo-1.png" alt=""></a>				</div>
+			
+				<div class="menu_wrapper">
+					<nav id="menu" class="menu-menu-container"><ul id="menu-menu" class="menu"><li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home"><a href="https://www.tango.me/"><span>Home</span></a></li>
+<li id="menu-item-106" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://heyfiesta.com/"><span>Fiesta</span></a></li>
+<li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.tango.me/games/"><span>Games</span></a></li>
+<li id="menu-item-172" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.tango.me/download/"><span>Download</span></a></li>
+<li id="menu-item-205" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.tango.me/advertisers/"><span>Advertisers</span></a></li>
+<li id="menu-item-283" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>More</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-293" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.tango.me/business-partners/"><span>Business Partners</span></a></li>
+	<li id="menu-item-688" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.tango.me/careers/"><span>Careers</span></a></li>
+	<li id="menu-item-330" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.tango.me/about-us/"><span>About Us</span></a></li>
+	<li id="menu-item-755" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.tango.me/press/"><span>Press</span></a></li>
+	<li id="menu-item-634" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.tango.me/contact-us/"><span>Contact Us</span></a></li>
+	<li id="menu-item-347" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.tango.me/blog/"><span>Blog</span></a></li>
+</ul>
+</li>
+<li id="menu-item-719" class="social_menu menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.facebook.com/TangoMe"><span><img width="28" height="28" src="https://www.tango.me/wp-content/uploads/2016/12/facebook.png" class="_mi _image" alt="" aria-hidden="true"><span class="visuallyhidden">facebook</span></span></a></li>
+<li id="menu-item-721" class="social_menu menu-item menu-item-type-custom menu-item-object-custom"><a href="https://twitter.com/tangome"><span><img width="28" height="28" src="https://www.tango.me/wp-content/uploads/2016/12/twitter.png" class="_mi _image" alt="" aria-hidden="true"><span class="visuallyhidden">twitter</span></span></a></li>
+<li id="menu-item-722" class="social_menu menu-item menu-item-type-custom menu-item-object-custom"><a href="https://plus.google.com/+tangoapp"><span><img width="28" height="28" src="https://www.tango.me/wp-content/uploads/2016/12/google.png" class="_mi _image" alt="" aria-hidden="true"><span class="visuallyhidden">google+</span></span></a></li>
+<li id="menu-item-723" class="social_menu menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.youtube.com/user/tangome"><span><img width="28" height="28" src="https://www.tango.me/wp-content/uploads/2016/12/youtube.png" class="_mi _image" alt="" aria-hidden="true"><span class="visuallyhidden">youtube</span></span></a></li>
+<li id="menu-item-724" class="social_menu menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.instagram.com/tango_app/"><span><img width="28" height="28" src="https://www.tango.me/wp-content/uploads/2016/12/instagram.png" class="_mi _image" alt="" aria-hidden="true"><span class="visuallyhidden">instagram</span></span></a></li>
+</ul></nav><a class="responsive-menu-toggle " href="#"><i class="icon-menu"></i></a>					
+				</div>			
+				
+				<div class="secondary_menu_wrapper">
+					<!-- #secondary-menu -->
+									</div>
+				
+				<div class="banner_wrapper">
+									</div>
+				
+				<div class="search_wrapper">
+					<!-- #searchform -->
+					
+					
+<form method="get" id="searchform" action="https://www.tango.me/">
+						
+		
+	<i class="icon_search icon-search"></i>
+	<a href="#" class="icon_close"><i class="icon-cancel"></i></a>
+	
+	<input type="text" class="field" name="s" id="s" placeholder="Enter your search">			
+	<input type="submit" class="submit" value="" style="display:none;">
+	
+</form>					
+				</div>				
+				
+			</div>
+			
+			<div class="top_bar_right"><div class="top_bar_right_wrapper"><a id="search_button" href="#"><i class="icon-search"></i></a></div></div>			
+		</div>
+	</div>
+</div>	
+							</header>
+				
+					
+		</div>
+		
+				
+		<!-- mfn_hook_content_before --><!-- mfn_hook_content_before -->	
+<!-- #Content -->
+<div id="Content">
+	<div class="content_wrapper clearfix">
+
+		<!-- .sections_group -->
+		<div class="sections_group">
+		
+			<div class="entry-content" itemprop="mainContentOfPage">
+			
+				<div class="section the_content has_content"><div class="section_wrapper"><div class="the_content_wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-1"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-10"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space" style="height: 15px"><span class="vc_empty_space_inner"></span></div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">Introduction</span></h2>
+<p>This is the Privacy Policy of TangoMe, Inc. dab Tango (“Tango”, “us”, “we”, or “our”) and is incorporated into and is subject to our Terms of Use, which can be found at http://www.tango.me/terms-of-use. In this Privacy Policy, we refer to our Tango mobile apps and desktop applications, our website at http://www.tango.me, and the other apps, products and services that are owned by Tango (such as the apps known as Road Riot, MusicPix, and others), individually and collectively as the “Service.” Please read on to learn more about our data handling practices. Your use of the Service signifies that you agree with the terms of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, do not use the Service.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">Information We Collect</span></h2>
+<p>When you access or use the Service or third party games that were developed using a Tango SDK pursuant to a separate agreement between Tango and the game developer (“Third Party Games”) from or through your smart phone, tablet, computer or other device (each, a “device”), or when you install the Service on your device and register with Tango, personally identifiable information about you may be collected. This collection may occur at different times, and for different purposes as explained below.<br>
+Download and Registration When you download an application that is part of the Service you are requested to register with us. For registration through Tango, you are only required to provide your mobile phone number or your email address, depending on the device(s) you are using on the Service. You may also provide other personally identifiable information, but that is optional. When you log in using your Facebook account, we collect additional information you make available to us (see “Your User Profile”) below.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">Address Book</span></h2>
+<p>If you are not already a user of the Service, when you first install an application that is part of the Service on your device, you are invited to register with Tango and as part of this initial registration, you will be asked to allow us access to your address book. If you consent, we will have access to contact information in your address book on the devices you use for the Service (names, numbers, emails, and Facebook ID, but not notes or other personally identifiable information) and we will store it on our servers and use it to improve the Service and help you use the Service. If you do not want Tango to store this information, you may opt-out at any time through your account settings in the Tango mobile app, or in your devices privacy settings, in which case we will delete that information from our servers. However, in this case, we may not be able to offer some of the features that require this information. See also How We Use the Information We Collect” below.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">Location Information</span></h2>
+<p>We may request access to your current location – provided by your mobile device using GPS or similar technologies – so that we can provide content that is more suitable to your location. For example, we may use information about the location of your device for certain calling features or share information about the location of your device with advertisers to tailor the advertising you see to your interests or present you with offers from the businesses around you. You are free to accept or block access to your location information. You can switch off access to your location at any time through your device settings.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">Profile Information</span></h2>
+<p>We collect and store certain profile information including your name, phone number, email address, picture, country of residence and preferences.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">Usage Information</span></h2>
+<p>We may collect and store information about your usage of, and interaction with, the Service and Third Party Games (whether or not played on the Service), including calls, messages, posts, information relating to games played (such as games played, your game scores, how often you play and how much money you spend on the games), usage of the Service by geographies, device and connection information (such as a device advertising identifier or MAC address), IP address, device capability, bandwidth, web browser software, referring website, statistics on page views, network type and traffic to and from our websites.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">Advertisements</span></h2>
+<p>When we serve an advertisement to your device, we collect information about your interaction with this advertisement to help us evaluate the performance of the advertisement that we show, such as whether you clicked on it, or installed the advertised product. The third parties that serve these advertisements may also collect other information about your interaction with an advertisement and about your browser or device. This collection and the subsequent use of this information by these third parties is subject to these third parties’ privacy policies over which Tango has no control.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">Shared Text, Photos, Videos and Other Communications</span></h2>
+<p>The Service allows you to share text messages, photos, videos and other communications (such as interactions during games) with other users, and if you choose to share your text messages, photos, videos and other communications, such items will be stored on our servers in accordance with our data retention policies.</p>
+<p>In addition, if you choose to share these items with other Service users, we may not be able to remove them from our servers or make them unavailable to anyone you have shared them with. Sending text messages, photos, videos or other communications through the Service is your decision. By choosing to share that information, you should understand that you may no longer be able to control how that information is used and that it may become publicly available (depending in part on your actions or the actions of others with whom you have shared the information). Tango is not responsible for any use or misuse of information you share.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">Device and Log Information</span></h2>
+<p>If you use our Service, we collect information about your device and browser. This may include device information (type of device, operating system version, unique device identifier (such as an advertising identifier), browser type and version, mobile network information) or log information (IP address, MAC address, screen resolution, and referring domain).</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">Error Reporting Information</span></h2>
+<p>We also collect error-reporting information if the Service crashes or hangs up so that we can investigate the error and improve the stability of the Service for future releases. In general these reports do not contain personally identifiable information, or only incidentally. As part of these error reports, we receive information about the type and version of your device and browser, the device identifier, the time the error occurred, the feature being used and the state of the application when the error occurred. We do not use this information for any purpose other than investigating and remedying the error.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">How We Use Information</span></h2>
+<p class="font_7">In addition to using your information to provide you with the Services that you request, we use or may disclose your personally identifiable information as follows:</p>
+<ul class="font_8">
+<li>
+<p class="font_7">To verify your identity;</p>
+</li>
+<li>
+<p class="font_7">To connect you with your Tango contacts and others as enabled by the Service;</p>
+</li>
+<li>
+<p class="font_7">To share your Profile with your Tango contacts and others on the Service in accordance with your account settings;</p>
+</li>
+<li>
+<p class="font_7">To allow your use of certain features of the Service that may be offered from time to time (such as Premium Services (see our Terms of Use), games, greeting cards, animations, etc.) and to help customize your user experience;</p>
+</li>
+<li>
+<p class="font_7">To show you the names and profiles of the Tango contacts with whom you communicate and to show your name and profile to persons with whom you communicate on the Service;</p>
+</li>
+<li>
+<p class="font_7">To manage your account, deliver to you any administrative notices, updates, notifications, alerts and communications relevant to your use of the Service;</p>
+</li>
+<li>
+<p class="font_7">To provide you with relevant content that you requested, using information that you allow us to collect from you or that you provide to a social media provider with which your Tango account is connected, such as information regarding your and your Tango contacts’ respective locations;</p>
+</li>
+<li>
+<p class="font_7">To share information about the games you play on our Service, your score or your experience, with your Tango contacts according to your settings;</p>
+</li>
+<li>
+<p class="font_7">To understand (i) how you use the different features of the Service, (ii) what your preferences are – for example, what type of games you like to play, what type of music you like to attach to your pictures or what type of products you like to view or purchase, and (iii) how to make suggestions and recommendations of things (for example, games, music and products) you may be interested in;</p>
+</li>
+<li>
+<p class="font_7">To keep your list of Tango contacts up to date – for example, when new users join Tango;</p>
+</li>
+<li>
+<p class="font_7">To solicit information from you, including through surveys;</p>
+</li>
+<li>
+<p class="font_7">To contact you via email, SMS or otherwise for the purpose of informing you about new products, services or promotions offered by Tango (you can opt-out of such emails by clicking on the unsubscribe link, withhold your consent to receive an SMS or reply stop to an SMS in order not to receive future SMSs);</p>
+</li>
+<li>
+<p class="font_7">For internal operations, including troubleshooting problems, data analysis, testing, research, improvements to the Service, detecting and protecting against error, fraud or other illegal activity;</p>
+</li>
+<li>
+<p class="font_7">When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities.</p>
+</li>
+</ul>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">With Whom We Share Your Information</span></h2>
+<h2><span style="color: #ef5231;">Service Providers</span></h2>
+<p class="font_7">In certain instances, Tango may have contracts with third parties to provide Tango with products and/or services in connection with the Service. In those cases, Tango may share your personally identifiable information with these third-party service providers, or authorize them to collect information on its behalf, but only in connection with providing the services to you or Tango. For example, these third party service providers include:</p>
+<ul class="font_8">
+<li>
+<p class="font_7">Third party SMS and email providers who deliver the authentication SMS or email to you when you register with the Service and with whom Tango shares your phone number or email.</p>
+</li>
+<li>
+<p class="font_7">Third party vendors who provide services or functions on our behalf, such as hosting, business analytics, customer service, collecting or processing credit and debit card information and payments, marketing, distribution of surveys or sweepstakes programs, and fraud prevention.</p>
+</li>
+<li>
+<p class="font_7">Third party vendors who provide outbound calling services for Tango users and with whom Tango shares your call detail records if you use that service (such as your phone number, the destination you are calling and information related to the initiation and termination of such calls).</p>
+</li>
+</ul>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">Business Partners</span></h2>
+<p>We have relationships with other companies, such as game developers, where we serve as the publisher or distributor of the applications, products, or services developed by those third parties. In this case, both Tango and that third party may have access to certain information about your use of that third partys application, product, or service. For example Tango may host a third partys game through its Service, and would have access to some information about your use of that game (such as whether you play it or not, your game scores, how often you play and how much money you spend on the game), while the third party would have access to your score, other information about your use of that game and your Tango profile. In this case, the information that we collect is subject to this Privacy Policy and the information that the third party collects is subject to that third partys privacy policy.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">Outbound Links</span></h2>
+<p class="font_7">If you choose to access optional services, such as a website, product or service provided by a third party, including through the Service, such third party may also collect information about you. Please see the privacy policies of each such third party for more information about how they use the information they collect. This Privacy Policy does not apply to any exchange of information between you and any third party.</p>
+<p class="font_7">These third parties include business partners with whom we may jointly offer products or services, or whose products or services may be offered on our Service. You can tell when a third party is involved in a product or service that you have requested because their name will appear, either alone or with ours. Legal Process</p>
+<p class="font_7">We also may share your information with third parties:</p>
+<ul class="font_8">
+<li>
+<p class="font_7">In response to facially valid subpoenas, search warrants, court orders, or other legal process when we have a good faith belief that the law, any legal process, law enforcement, national security or issue of public importance requires disclosure;</p>
+</li>
+<li>
+<p class="font_7">To resolve disputes, trouble shoot problems, protect and defend our rights or property (including to enforce our Terms of Use and other agreements) or the safety of Tango, the Service, or that of our customers or others;</p>
+</li>
+<li>
+<p class="font_7">To establish or exercise our legal rights, or as otherwise required by law;</p>
+</li>
+<li>
+<p class="font_7">In connection with a corporate transaction involving Tango or the Service, such as the purchase or sale of a business unit, an acquisition, merger, sale of assets, corporate reorganization, liquidation, or other similar event.</p>
+</li>
+</ul>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">Aggregate and Anonymous Information</span></h2>
+<p>We may also share aggregate or anonymous information with third parties, including advertisers and investors. Aggregate or anonymous information is information that does not, on its own, identify you personally. For example, we may tell our advertisers the number of users our app receives or share anonymous identifiers (such as device advertising identifiers or hashed email addresses) with advertisers and business partners. This information does not contain any personally identifiable information.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">Other</span></h2>
+<p>Other than as stated in this Privacy Policy, we do not share our users’ personally identifiable information with third parties for their direct marketing purposes. If in the future, we plan to share personally identifiable information with any third party for its direct advertising purposes other than as stated in this Privacy Policy, you will be notified in accordance with applicable law.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">Display of Tailored Advertising</span></h2>
+<p class="font_7">We allow third parties with whom we have a separate agreement to use certain technologies to collect information about your browser or device and the placement, views, and clicks of their advertisements, so that they can better serve interest-based advertisements to our users and visitors. These third parties include (1) business partners, who collect information when you view or interact with one of their advertisements on the Service; (2) attribution partners who help us measure effectiveness of certain advertisements; and (3) advertising networks, which collect information about your browser or device and your interests when you view or interact with one of their advertisements. The information gathered by these third parties is used to make predictions about your interests or preferences so that they can display advertisements on the Service and on other sites across the Internet tailored to your apparent interests.</p>
+<p class="font_7">We do not share with these third parties any information that would personally identify you (such as email address) for purposes of such advertising; however, these third parties may have access to information about your device (such as an advertising identifier or MAC address). We do not have access to, or control over, the technologies that these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy.</p>
+<p class="font_7">If you would like to opt out of receiving tailored advertising in the Tango app, please follow the instructions available in our Support Center, <a href="http://support.tango.me/hc/en-us/articles/231474108-Why-am-I-seeing-this-ad-" target="_blank" data-content="http://support.tango.me/hc/en-us/articles/231474108-Why-am-I-seeing-this-ad-" data-type="external">here</a>.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">Do Not Track Policy</span></h2>
+<p>California law requires that operators of websites and online services disclose how they respond to a Do Not Track signal and whether other third parties may collect personally identifiable information about an individual’s online activities from their site or service.</p>
+<p>Some browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the website or online service that a user visits, indicating that the user does not wish to be tracked. Because there is not yet a common understanding of how to interpret Do Not Track signals, the Service does not currently respond to Do Not Track signals. We continue to work with the online industry to define a common understanding of how to treat Do Not Track signals.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">Your User Profile</span></h2>
+<p>The information you enter into your user profile (your “Profile”) may be shared with your Tango contacts. You control your Profile and you can access and modify your Profile from the Tango application at any time. In addition, if you register with Tango using your Facebook account (e.g. Facebook Connect), we may store your Facebook ID and corresponding token on our servers and, if you give us your express consent, we will have access to and may collect certain information that you make available on Facebook (for example, your first and last names, email address, profile picture, your friend lists and birthdays).</p>
+<p>Your Profile is available to other users of the Service who are connected to you on Tango. In addition, unless you opt-out (which you may do at any time in the Tango application), your Profile is discoverable by other Tango users, including by way of example in listings of contacts that will include your proximity to other users (however, Tango will not share your location with any users). You may also block out” any Tango user in your contact list from discovering your Profile at any time.<br>
+In addition, Tango may pre-populate your Profile with certain information such as your name and Facebook profile picture if you or your Tango contacts have logged onto the Service using Facebook.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">Data Access and Removal</span></h2>
+<p>You can always control what information you choose to share with us on the Service. To do so, you can change your settings in the Service or in your mobile device. Alternatively, you can remove the Service from your mobile device entirely.</p>
+<p>You can remove your data anytime you want by sending a request to Tango at privacy@tango.me. Your data will no longer be available to your Tango contacts. If you ask us to delete your account, we will use commercially reasonable efforts to remove your data from our servers, however certain information may be retained in our back-up or archival systems. Please note that, after your account is closed, we may retain certain information associated with your account, including for analytical purposes as well as for record keeping integrity.</p>
+<p>Any personally identifiable information and any content that (i) you share in text messages, photos, videos or otherwise in or through the Service with other users, or (ii) submit on a blog, bulletin board or chat room on our website or elsewhere, can be viewed and used by others, including to send you unsolicited messages or to commit identity theft. Tango is not responsible for any use or misuse of your information that might result from your disclosure of information.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">Opt-Out – Promotional Communications</span></h2>
+<p>Tango allows you to choose not to receive promotional email messages from the Service or its service providers. You may opt-out by following instructions in the message sent by Tango or its service providers on how to unsubscribe from that particular mailing. You may also opt-out by contacting us at privacy@tango.me.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">Security</span></h2>
+<p>Protecting user privacy and personally identifiable information is a top priority for Tango. We make substantial efforts to ensure the privacy and security of all personally identifiable information you provide to us. Access to all personally identifiable information is restricted to those individuals who need to know that information in order to provide, operate, develop, maintain, support or improve the Service. Tango uses password protection, access logs, and system monitoring to safeguard the confidentiality and security of all member information.</p>
+<p>However, due to the inherent nature of the Internet and related technology, we do not guarantee the protection of information under our control or in transit against loss, misuse, or alteration.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">Data Transfer</span></h2>
+<p>Your information may be stored and processed in any country in which Tango maintains facilities, including outside of the United States. In this regard, or for purposes of sharing or disclosing data as described in this Privacy Policy, Tango reserves the right to transfer information outside of your country. By using the Service, you consent to any such transfer of information outside of your country. In addition, by using the Service (which is governed by California law, this Privacy Policy and our Terms of Use), you consent to be governed by California law for these purposes and in connection with your use of the Service.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">Age</span></h2>
+<p>The Service is not directed to children under the age of thirteen (13) and we do not knowingly collect personally identifiable information from children under the age of thirteen as part of the Service. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Service, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Service.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">Notification of Changes</span></h2>
+<p>We reserve the right at our discretion to make changes to this Privacy Policy. You may review updates to our Privacy Policy at any time via links on our website. You agree to accept electronic communications and/or postings of a revised Privacy Policy on the Tango website, and you agree that such electronic communications or postings constitute notice to you of the Privacy Policy.<br>
+If we make material changes to this policy, we will notify you by publishing a revised Privacy Policy or by means of a notice on our website, or as required by law. You agree to review the Privacy Policy periodically so that you are aware of any modifications. You agree that your continued use of the Service after we publish a revised Privacy Policy or provide a notice on our website constitutes your acceptance of the revised Privacy Policy. If you do not agree with the terms of the Privacy Policy, you should not use the Service.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ef5231;">Contact Information</span></h2>
+<p>If you have any questions about this Privacy Policy, please contact us at privacy@tango.me. Any personally identifiable information provided in connection with inquiries related to this Privacy Policy will be used solely for the purpose of responding to the inquiry and consistent with our Privacy Policy.</p>
+<p>Date<br>
+This privacy policy was posted on November 15, 2016.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-1"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div></div>
+</div></div></div>				
+				<div class="section section-page-footer">
+					<div class="section_wrapper clearfix">
+					
+						<div class="column one page-pager">
+													</div>
+						
+					</div>
+				</div>
+				
+			</div>
+			
+				
+		</div>
+		
+		<!-- .four-columns - sidebar -->
+		
+	</div>
+</div>
+
+
+<!-- mfn_hook_content_after --><!-- mfn_hook_content_after -->
+<!-- #Footer -->		
+<footer id="Footer" class="clearfix">
+	
+		
+	<div class="widgets_wrapper" style=""><div class="container"><div class="column one-second"><aside id="text-2" class="widget widget_text">			<div class="textwidget"><a href="https://www.tango.me/privacy-policy/">Privacy Policy </a> &nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://www.tango.me/terms-of-use/">Terms of Use </a> &nbsp;&nbsp; |&nbsp;&nbsp;
+<a href="https://www.tango.me/copyright/">Copyright </a>&nbsp;&nbsp;  |&nbsp;&nbsp;
+<a href="https://www.tango.me/blog/">BLOG </a> 
+&nbsp;&nbsp;  |&nbsp;&nbsp;
+<a href="https://www.tango.me/third-party-license/">Third Party License </a> 
+
+</div>
+		</aside></div><div class="column one-second"><aside id="cnss_widget-2" class="widget widget_cnss_widget"><ul id="" class="cnss-social-icon " style="text-align:center;"><li class="cn-fa-facebook" style="display:inline-block;"><a class="" target="_blank" href="https://www.facebook.com/TangoMe" title="facebook" style=""><img src="https://www.tango.me/wp-content/uploads/2016/12/facebook-1.png" border="0" width="32" height="32" alt="facebook" title="facebook" style="margin:2px;"></a></li><li class="cn-fa-twitter" style="display:inline-block;"><a class="" target="_blank" href="https://twitter.com/tangome" title="twitter" style=""><img src="https://www.tango.me/wp-content/uploads/2016/12/twitter-1.png" border="0" width="32" height="32" alt="twitter" title="twitter" style="margin:2px;"></a></li><li class="cn-fa-google-" style="display:inline-block;"><a class="" target="_blank" href="https://plus.google.com/+tangoapp" title="google+" style=""><img src="https://www.tango.me/wp-content/uploads/2016/12/google-1.png" border="0" width="32" height="32" alt="google+" title="google+" style="margin:2px;"></a></li><li class="cn-fa-youtube" style="display:inline-block;"><a class="" target="_blank" href="https://www.youtube.com/user/tangome" title="youtube" style=""><img src="https://www.tango.me/wp-content/uploads/2016/12/youtube-1.png" border="0" width="32" height="32" alt="youtube" title="youtube" style="margin:2px;"></a></li><li class="cn-fa-instagram" style="display:inline-block;"><a class="" target="_blank" href="https://www.instagram.com/tango_app/" title="Instagram" style=""><img src="https://www.tango.me/wp-content/uploads/2016/12/instagram-1.png" border="0" width="32" height="32" alt="Instagram" title="Instagram" style="margin:2px;"></a></li></ul></aside></div></div></div>
+
+		
+		<div class="footer_copy">
+			<div class="container">
+				<div class="column one">
+
+					<a id="back_to_top" class="button button_left button_js" href=""><span class="button_icon"><i class="icon-up-open-big"></i></span></a>					
+					<!-- Copyrights -->
+					<div class="copyright">
+						dfasdfasdfasdfs					</div>
+					
+					<ul class="social"></ul>							
+				</div>
+			</div>
+		</div>
+	
+		
+	
+	
+	
+</footer>
+
+</div><!-- #Wrapper -->
+
+
+
+<!-- mfn_hook_bottom --><!-- mfn_hook_bottom -->	
+<!-- wp_footer() -->
+<script type="text/javascript" src="https://www.tango.me/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.tango.me/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.7"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-content/themes/betheme/js/plugins.js?ver=14.4"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-content/themes/betheme/js/menu.js?ver=14.4"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-content/themes/betheme/assets/animations/animations.min.js?ver=14.4"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-content/themes/betheme/assets/jplayer/jplayer.min.js?ver=14.4"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-content/themes/betheme/js/parallax/translate3d.js?ver=14.4"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-content/themes/betheme/js/scripts.js?ver=14.4"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-includes/js/comment-reply.min.js?ver=4.7.5"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-content/plugins/add-to-any/addtoany.admin.js?ver=0.1"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-content/plugins/page-links-to/js/new-tab.min.js?ver=2.9.8"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-includes/js/wp-embed.min.js?ver=4.7.5"></script>
+<script type="text/javascript" src="https://www.tango.me/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.0.1"></script>
+<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 
 </body></html>
