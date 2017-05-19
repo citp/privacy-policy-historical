@@ -1,194 +1,90 @@
-> *The following text is extracted and transformed from the boostedboards.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409165300id_/http%3A//boostedboards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boostedboards.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519085958id_/https%3A//boostedboards.com/privacy) for the most accurate reproduction.*
 
-# Boosted, Inc. Privacy Policy - Boosted Boards
+# Privacy Policy | Boosted boards
 
-_Last Updated: 11/26/2014_
+Welcome to the website of Boosted, Inc. (“Company,” “we,” or “us”).  This privacy policy (“Privacy Policy”) explains how we collect, use, disclose, and protect information that applies to our website and our smartphone application (collectively, our website and our smartphone application are referred to herein as the “Service”), and your choices about the collection and use of your information.
 
-At Boosted, your privacy is very important to us. This Privacy Policy describes how personal data collected from users of [http://boostedboards.com](http://boostedboards.com/ "Boosted, Inc.") is used and disclosed by Boosted, Inc.
+Click on the links below to jump to each section:
 
-## Data Controller and Owner
+  1. How We Collect and Use Information
+  2. Sharing of Your Information
+  3. How We Store and Protect Your Information
+  4. Your Choices about Your Information
+  5. “Do Not Track”
+  6. Children’s Privacy
+  7. Links to Other Websites and Services
+  8. How to Contact Us
+  9. Changes to Our Privacy Policy
 
-Boosted, Inc. – 915 Linda Vista Mountain View, CA 94043,  
-admin@boostedboards.com
 
-## Types of Data collected
 
-Among the types of Personal Data that this Website collects, by itself or through third parties, there are: Cookie, Usage Data and Email.
+* * *
 
-Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.
+### How we collect and use information
 
-The Personal Data may be freely provided by the User, or collected automatically when using this Website.
+We collect the following types of information about you:
 
-Any use of Cookies – or of other tracking tools – by this Website or by the owners of third party services used by this Website, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.
+****Information you provide us directly:**** We ask for certain information such as your first and last name, phone number, address, and e-mail when you purchase products on our website, download or use our smartphone application, or if you correspond with us.
 
-Failure to provide certain Personal Data may make it impossible for this Website to provide its services.
+We use this information to operate, maintain, and provide to you the features and functionality of the Service, improve our products, as well as to communicate directly with you, such as to send you email messages. We may also send you emails, messages, or call you related to our products (e.g., order confirmations, technical and security notices).  For more information about your communication preferences, see “Your Choices Regarding Your Information” below.
 
-The User assumes responsibility for the Personal Data of third parties published or shared through this Website and declares to have the right to communicate or broadcast them, thus relieving the Data Controller of all responsibility.
+**_**Use of cookies and other technology to collect information**_** ** **.****
 
-## Mode and place of processing the Data
+We automatically collect certain types of usage information when you visit the Service.  When you visit the Service, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer or smartphone that uniquely identifies your browser and lets us help you log in faster and enhance your navigation through the Service.  A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click, how frequently you access the Service, and other actions you take on the Service), and allow us to track your usage of the Service over time. We may collect log file information from your browser or mobile device each time you access the Service.  Log file information may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, information about your mobile device, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information. We may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of users on the Service.  In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients.  We may also collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service.  We may also collect data on your use of our products through our application, including board information and usage statistics.  These tools collect information sent by your browser or mobile device, including the pages you visit, your use of third party applications, and other information that assists us in improving the Service and our products.
 
-### Methods of processing
+When you access the Service by or through a mobile device, we may receive or collect and store a unique identification numbers associated with your device (“Device ID”), mobile carrier, device type and manufacturer, phone number, and, depending on your mobile device settings, your geographical location data, including GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device.
 
-The Data Controller processes the Data of Users in a proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.
+We use or may use the data collected through cookies, log file, device identifiers, location data and clear gifs information to:  (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide and monitor the Service; (c) monitor aggregate metrics such as total number of visitors, traffic, usage, and demographic patterns on the Service; (d) diagnose or fix technology problems; (e) updating our application on your mobile devices; and (f) otherwise to plan for and enhance the Service and products.
 
-The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Data Controller, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of the site (administration, sales, marketing, legal, system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Data Controller at any time.
+### Sharing your information
 
-### Place
+We may share your personal information in the instances described below. For further information on your choices regarding your information, see the section below called, “Your Choices Regarding Your Information.”
 
-The Data is processed at the Data Controller’s operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Data Controller.
+You agree that we may share your personal information with:
 
-### Retention time
+  * Other companies owned by or under common ownership as Company, which also includes our subsidiaries (i.e., any organization we own or control) or our ultimate holding company (i.e., any organization that owns or controls us) and any subsidiaries it owns. These companies will use your personal information in the same way as we can under this Privacy Policy;
+  * Third party vendors, consultants and other service providers that perform services on our behalf, in order to carry out their work for us, or as approved by you which may include identifying and serving targeted advertisements, content or service fulfillment, financing, payment processing, or providing analytics services;
+  * Other parties in connection with any company transaction, such as a merger, sale of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party or in the event of bankruptcy or related or similar proceedings; and
+  * Third parties as required to (i) satisfy any applicable law, regulation, subpoena/court order, legal process or other government request, (ii) enforce our rights with respect to the sale of our products, including the investigation of potential violations thereof, (iii) investigate and defend ourselves against any third party claims or allegations, (iv) protect against harm to the rights, property or safety of Company, its users or the public as required or permitted by law, and (v) detect, prevent or otherwise address criminal (including fraud), security or technical issues.
 
-The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request that the Data Controller suspend or remove the data.
 
-## The use of the collected Data
 
-The Data concerning the User is collected to allow the Application to provide its services, as well as for the following purposes: Analytics, Managing email addresses and sending messages and SPAM protection.
+### How we store and protect your information
 
-The Personal Data used for each purpose is outlined in the specific sections of this document.
+****Storage and Processing**** :  Your information collected through the Service may be stored and processed in the United States or any other country in which Company or its subsidiaries, affiliates or service providers maintain facilities. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Company or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
 
-## Detailed information on the processing of Personal Data
+****Keeping your information safe**** :  Company cares about the security of your information, and uses commercially reasonable safeguards to preserve the integrity and security of all information collected through the Service.  To protect your privacy and security, we take reasonable steps to verify your identity.  You are responsible for controlling access to your email communications from Company, at all times.  However, Company cannot ensure or warrant the security of any information you transmit to Company or guarantee that information provided by you the Service may not be accessed, disclosed, altered, or destroyed.  Your privacy settings may also be affected by changes to the functionality of third party sites and services available through the Service.  Company is not responsible for the functionality or security measures of any third party.
 
-Personal Data is collected for the following purposes and using the following services:
+****Compromise of information**** :  In the event that any information under our control is compromised as a result of a breach of security, Company will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
 
-### Analytics
+### Your choices about your information
 
-The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
+****Commercial and marketing communications:**** We use the information we collect or receive to communicate directly with you.  We may send you emails containing newsletters, promotions and special offers.  If you do not want to receive such email messages, you will be given the option to opt out or change your preferences.  We also use your information to send you email related to our products the Service (e.g., purchase and billing confirmations and reminders, changes/updates to features our products, technical and security notices.
 
-#### [Google Analytics](http://analytics.google.com/ "Google Analytics")
+****You control your account information and settings**** :  You can stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications.  We make every effort to promptly process all unsubscribe requests.  You may not opt out of emails related to purchases of our products (e.g., purchase and billing confirmations and reminders, changes/updates to features of our products, technical and security notices).  If you have any questions about reviewing or modifying your account information, you can contact us directly at community@boostedboards.com.
 
-Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services.
+****Online Advertising.   ****We may permit third party online advertising networks to collect information about your use of our website over time so that they may display ads that may be relevant to your interests on our website as well as on other websites or apps.  Typically, the information collected for this purpose is collected through cookies or similar tracking technology.  The only way to completely opt out of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device.  Please refer to your mobile device or browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools.  (To learn more about cookies, clear gifs/web beacons and related technologies, you may wish to visit http://www.allaboutcookies.org and/or the Network Advertising Initiative’s online resources, located at http://www.networkadvertising.org). Depending on your type of device, it may not be possible to delete or disable tracking mechanisms on your mobile device. Note that disabling cookies and/or other tracking tools prevents Company or its business partners from tracking your browser’s activities in relation to our website, and for use in targeted advertising activities by third parties.  However, doing so may disable many of the features available through our website.  If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at community@boostedboards.com.
 
-Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
+****How long we keep your information**** :  Company may retain your information that you have provided for a commercially reasonable time for backup, archival, or audit purposes.
 
-Personal Data collected: Cookie and Usage Data.
+### “Do not track”
 
-Place of processing : USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/ "Google Analytics Privacy Policy") – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en "Google Analytics Opt-Out")
+Although we do our best to honor the privacy preferences of our customers, we are not able to respond to Do-Not-Track signals from your browser at this time.  As discussed above, we track website usage information through the use of cookies for analytic and internal purposes only.  Because we do not collect this information to track you across websites over time, your selection of the “Do Not Track” option provided by your browser will not have any effect on our collection of cookie information for analytics or internal purposes.
 
-#### [Segment](http://segment.io/)
+### Children’s privacy
 
-Segment is a customer data hub. You send us your data from any device or platform.
+Company does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as users of the Service.  The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible.  If you believe that we might have any information from or about a child under 13, please contact us at community@boostedboards.com.
 
-Personal Data collected: Website usage data.
+### Links to other websites and services
 
-Place of processing: USA – [Privacy Policy](https://segment.com/docs/legal/privacy/)
+We are not responsible for the practices employed by websites or services linked to or from the Service, including the information or content contained therein.  Please remember that when you use a link to go from our website to another website, our Privacy Policy does not apply to third-party websites or services.  Your browsing and interaction on any third-party website or service, including those that have a link or advertisement on the Service, are subject to that third party’s own rules and policies.  In addition, you agree that we are not responsible for and we do not have any control over any third-parties that you authorize to access your information. If you are using a third-party website or service (like Facebook) and you allow such a third-party access to your information you do so at your own risk.  This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources other than through the Service.
 
-### Managing email addresses and sending messages
+### How to contact us
 
-These services make it possible to manage a database of email contacts to communicate with the User via email. The services are used to collect data concerning the date and time when the mail is viewed by the User, as well as when the User interacts with incoming mail, such as by clicking on links included in the email.
+If you have any questions about this Privacy Policy or the Service, please contact us at community@boostedboards.com.
 
-#### [Mailchimp](http://mailchimp.com/ "Mailchimp")
+### Changes to our privacy policy
 
-Mailchimp is an email address management and message sending service provided by Mailchimp Inc.
+Company may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically.  When we change the policy in a material manner we will let you know and update the ‘last modified’ date at the bottom of this page.
 
-Personal Data collected: Email.
-
-Place of processing : USA – [Privacy Policy](http://mailchimp.com/legal/privacy/ "Mailchimp Privacy Policy")
-
-### Retargeting
-
-#### [AdRoll](https://www.adroll.com/ "AdRoll")
-
-AdRoll is a privately held global technology company. It offers advertisers retargeting products for cross-platform, cross-device display advertising.
-
-As you browse [http://boostedboards.com](http://boostedboards.com/ "Boosted, Inc.") and other websites, online ad networks we work with may place anonymous cookies on your computer, and use similar technologies, in order to understand your interests based on your (anonymous) online activities, and thus to tailor more relevant ads to you. If you do not wish to receive such tailored advertising, you can visit [this page](http://www.networkadvertising.org/choices/ "Opt Out") to opt out of most companies that engage in such advertising. (This will not prevent you from seeing ads; the ads simply will not be delivered through these targeting methods.)
-
-Personal Data collected: Cookie and Usage Data.
-
-Place of processing: USA – [Privacy Policy](https://www.adroll.com/about/privacy "AdRoll Privacy Policy")
-
-### E-Commerce
-
-#### Shopify
-
-Shopify powers the e-commerce and payment processing functionality on [http://shop.boostedboards.com](http://shop.boostedboards.com/).
-
-Place of processing: Canada – [Privacy Policy](https://www.shopify.com/legal/privacy "Shopify")
-
-#### Enjoy
-
-Enjoy powers same-day delivery for Boosted customers in San Francisco and New York City.
-
-Place of processing: USA – [Privacy Policy](https://www.goenjoy.com/pages/privacy "Enjoy")
-
-#### Sift Science
-
-Sift Science prevents fraud by learning and adapting to real-time fraud activity across the globe.
-
-Place of processing: USA – [Privacy Policy](https://siftscience.com/site-privacy.html "Sift Science")
-
-## Additional information about Data collection and processing
-
-### Legal action
-
-The User’s Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Website or the related services.
-
-The User is aware of the fact that the Data Controller may be required to reveal personal data upon request of public authorities.
-
-### Additional information about User’s Personal Data
-
-In addition to the information contained in this privacy policy, this Website may provide the User with additional and contextual information concerning particular services or the collection and processing of Personal Data upon request.
-
-### System Logs and Maintenance
-
-For operation and maintenance purposes, this Website and any third party services may collect files that record interaction with this Website (System Logs) or use for this purpose other Personal Data (such as IP Address).
-
-### Information not contained in this policy
-
-More details concerning the collection or processing of Personal Data may be requested from the Data Controller at any time. Please see the contact information at the beginning of this document.
-
-### The rights of Users
-
-Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Controller at the contact information set out above.
-
-This Website does not support “Do Not Track” requests.
-
-To determine whether any of the third party services it uses honor the “Do Not Track” requests, please read their privacy policies.
-
-### Changes to this privacy policy
-
-The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Website and can request that the Data Controller erase the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users.
-
-### Information about this privacy policy
-
-The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by Iubenda and hosted on Iubenda’s servers.
-
-## Definitions and legal references
-
-### Personal Data (or Data)
-
-Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number.
-
-### Usage Data
-
-Information collected automatically from this Website (or third party services employed in this Website ), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Website, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server’s answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User’s IT environment.
-
-### User
-
-The individual using this Website, which must coincide with or be authorized by the Data Subject, to whom the Personal Data refer.
-
-### Data Subject
-
-The legal or natural person to whom the Personal Data refers to.
-
-### Data Processor (or Data Supervisor)
-
-The natural person, legal person, public administration or any other body, association or organization authorized by the Data Controller to process the Personal Data in compliance with this privacy policy.
-
-### Data Controller (or Owner)
-
-The natural person, legal person, public administration or any other body, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Website. The Data Controller, unless otherwise specified, is the Owner of this Website.
-
-### This Website
-
-The hardware or software tool by which the Personal Data of the User is collected.
-
-### Cookie
-
-Small piece of data stored in the User’s device.
-
-### Legal information
-
-Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies.
-
-This privacy policy relates solely to this Website.
+_This Privacy Policy was last modified on May 19, 2016._
