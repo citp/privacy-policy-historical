@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatsthewordanswers.com privacy policy that was archived on 2016-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160918141140id_/http%3A//www.whatsthewordanswers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsthewordanswers.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519141937id_/http%3A//www.whatsthewordanswers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | What's The Word Answers | Whats The Word Cheats
 
