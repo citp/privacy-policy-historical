@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the doxo.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025185123id_/https%3A//www.doxo.com/privacy-and-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doxo.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519102817id_/https%3A//www.doxo.com/privacy-and-security-policy) for the most accurate reproduction.*
 
 # doxo privacy and security policy
 
-**Version 1.9**  
-**Effective date: February 17, 2015**
+**Version 1.10**  
+**Effective date: January 6, 2017**
 
 Doxo is designed for Doxo users to organize Provider accounts; manage personal account information, reminders, and documents; and establish connections with Providers to receive documents paperlessly and pay bills – all in one place.
 
@@ -40,6 +40,8 @@ From time to time Doxo may request other Private Information to provide you with
 
 
 Such information does not identify you individually.
+
+To verify identity of users and/or detect patterns of activity that may indicate or help prevent fraud, our Service may utilize fraud prevention services and methods designed to protect payment account information or other Private Information from being used in a fraudulent manner through the Service. These methods utilized include use of Sift Science’s anti-fraud service. Sift Science can use your Private Information in accordance with their privacy policy on their website at [siftscience.com](https://siftscience.com/).
 
 Typically no Doxo employee will ever access your Private Information. In certain rare circumstances, if security, fraud, or other problems are identified or are suspected involving your account, a Doxo employee may need to access some portion of your Registration Information, Account Credentials, Account Information or any other Private Information to eliminate such problems. Any such access is always logged and monitored and is only conducted to the extent necessary to address the problem. Any employees that conduct such activity have been selected in accordance with Doxo security policies and practices and are bound by confidentiality obligations. They are subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. In those circumstances, Doxo may share Private Information with the applicable Provider as necessary to fix the security, fraud, or other problems.
 
