@@ -1,83 +1,181 @@
-> *The following text is extracted and transformed from the affordablehousingonline.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119155448id_/http%3A//affordablehousingonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affordablehousingonline.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519103020id_/https%3A//affordablehousingonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Affordable Housing Online's Privacy Policy
+# Privacy Policy - Affordable Housing Online
 
-The following Privacy Statement identifies the privacy policies and procedures followed by ApartmentSmart.com, Inc. on all websites we operate including but not limited to apartmentsmart.com, affordablefousingonline.com and all subdomains of those websites. 
+Fair Information Practices 
 
-ApartmentSmart.com, Inc., is committed to the privacy of its users. In the following paragraphs, we disclose its information gathering and dissemination practices we use in operating all of our websites including but not limited to affordablehousingonline.com and apartmentsmart.com as well as any subdomains of these websites. In this Privacy Statement we will notify you of: 
+Fair information  
+Practices
 
-  * What information is or may be collected from you through our websites; 
-  * the organization collecting the information; 
-  * how the information is used; 
-  * with whom the information may be shared; 
-  * what choices are available to you regarding collection, use and distribution of the information; 
-  * the kind of security procedures that are in place to protect the loss, misuse or alteration of information under our control; 
-  * how you can correct any inaccuracies in the information. 
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
 
 
+ **What personal information do we collect from the people that visit our blog, website or app?**
 
-If you feel ApartmentSmart.com, Inc. is not abiding by this posted Privacy Statement, you wish to modify information already provided to us or have any questions regarding this Privacy Statement, please contact us via email at support@apartmentsmart.com or via postal mail at ApartmentSmart.com, Inc., 1813 Sweetbay Drive, Suite 9, Salisbury, MD 21804. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, phone number or other details to help you with your experience.
 
-INFORMATION COLLECTION AND USE
+ **When do we collect information?**
 
-ApartmentSmart.com, Inc. is the sole owner of the information collected on its websites. We will not sell, share or rent this information to others in ways different from what is disclosed in this statement. 
+We collect information from you when you register on our site, fill out a form or enter information on our site.
 
-ApartmentSmart.com, Inc. collects information from our users at several different points on its websites. We use customer contact information to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary and shared with other companies who may want to contact our visitors. 
+**How do we use your information?**
 
-Users may opt-out of receiving future mailings upon request. See the Choice/Opt-Out section below for detailed instructions. 
+  
 
-We collect information you enter regarding yourselves and your housing needs which is then shared with parties (individuals or entities) who may be able to assist in meeting your housing needs. This information may include your contact information including email address, phone numbers and postal address. The information collected may also include your personal income, family size, criminal background, desired move-in dates, desired rental unit bedroom size, disability status and if you have a Housing Choice Voucher. 
 
-When this personal information is collected, we will clearly indicate the information that is being collected and provide a reference back to this Privacy Statement. Our users have the option not to provide this personal information by not entering it. Any webform used to collect this personal information will include an "I Agree" button notifying the user that they are about to share personal information with ApartmentSmart.com, Inc. and any party we think may be able to assist in meeting your housing needs. 
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-Our users, including users in California, may obtain an Information-Sharing Disclosure Notice required under California SB27 "Shine the Light" Law. The designated contact to obtain this Notice is: ISDN Coordinator, ApartmentSmart.com, 1813 Sweetbay Drive, Suite 9, Salisbury, MD 21804. 
+ **•** To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. We may use information collected to promote other affiliate programs, products, websites and services. 
+ **•** To allow us to better service you in responding to your customer service requests.
 
-ApartmentSmart.com, Inc. will not use any personal information in social media, public email campaigns, online ads or other public online media without express written consent from the user for those purposes. 
+ **•** To ask for ratings and reviews of services or products
 
-ApartmentSmart.com, Inc. uses Facebook Connect to allow our users to easily create an account, complete a user profile and login to our websites. The personal information provided to us by Facebook includes your email address, your friends list and your public profile. Your public profile on Facebook includes your first and last name, profile picture, gender, age range, language, country and any other data you have chosen to make public on Facebook. All personal information provided to us by Facebook when you connect your Facebook account with one of our websites shall be protected and administered under the terms set forth in this Privacy Statement. 
+ **•** To follow up with them after correspondence (live chat, email or phone inquiries)
 
-Information about your computer hardware and software is automatically collected by ApartmentSmart.com, Inc. and may be shared with third parties whose services are used for traffic analysis purposes. This information includes: your IP address, browser type, domain names, access times and referring website addresses. We use this information to maintain and improve the quality of the service and to generate statistics regarding use of our websites. 
+ **How do we protect your information?**
 
-ApartmentSmart.com. Inc. will use extreme caution in identifying the authenticity and good intentions of third parties we provide user's personal information to. Users will be prompted to opt-in whenever personal information is being collected that will be provided to a third party. Once we have sent your data to any third parties, ApartmentSmart.com, Inc. cannot guarantee the actions of those third parties and how those third parties use your data. 
+We do not use vulnerability scanning and/or scanning to PCI standards.
 
-Users have the right to know which third parties we have provided their personal information to, when it was provided, what was provided and how it was intended to be used. To inquire about the use of personal information, write to support@apartmentsmart.com or send a letter of request via postal mail to ApartmentSmart.com, Inc., 1813 Sweetbay Drive, Suite 9, Salisbury, MD 21804. 
+We only provide articles and information. We never ask for credit card numbers.
 
-CHOICE/OPT-OUT
+We use regular Malware Scanning.
 
-Our sites provides users the opportunity to opt-out of receiving communications from us and our partners. 
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. 
 
-We gives users the following options for removing their information from our database and stop receiving future communications or to no longer receive our service. 
+We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
 
-You can send email to support@apartmentsmart.com; 
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-You can send postal mail to the following address: ApartmentSmart.com, Inc., 1813 Sweetbay Drive, Suite 9, Salisbury, MD 21804. 
+ **Do we use 'cookies'?**
 
-Please note that certain features and activities on our websites may be limited if personally identifiable information is not provided by the user. 
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-COOKIES
+ **•** Understand and save user's preferences for future visits.
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our sites. Once the user closes their browser, a cookie simply terminates. For instance, by setting a cookie for ApartmentSmart.com, the user would not have to login a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site, however without cookies the user may not have access to certain features on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. 
+ **•** Keep track of advertisements.
 
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. 
+ **•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
-LINKS
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.  
 
-Our websites contain links to other sites. Please be aware that ApartmentSmart.com, Inc. is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by ApartmentSmart.com, Inc. 
 
-DISCLOSURE
+ **If users disable cookies in their browser:**
 
-We cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Statement. By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your information that they collect from our Site. 
+If you turn cookies off, some features will be disabled. Some of the features that make your site experience more efficient and may not function properly.
 
-ACCOUNT CREATION
+  
 
-Upon signing up for any services provided through our websites, ApartmentSmart.com, Inc. will send an email to the email address provided during registration. This is to establish that the new account is a valid account and your password will be delivered to you at this time. Accounts with invalid email addresses will not be able to participate in all features of our websites. 
 
-SITE AND SERVICE UPDATES
+However, you will still be able to place orders 
 
-We may send user site and service announcement updates from time to time. Members are not able to unsubscribe from service announcements, which contain important information about the service. 
+Affordable Housing Opportunities Near You
 
-NOTIFICATION OF CHANGES
+.
 
-If we decide to change our Privacy Statement, we will post notice of those changes on the home pages of our websites. We make best efforts to inform all users what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will make a reasonable effort to notify users by way of an email. Users have a choice whether or not we use their information in this different manner. We will use information in accordance with the Privacy Statement under which the information was collected. 
+ **Third-party disclosure**
+
+  
+
+
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety. 
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+**Third-party links**
+
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **Google**
+
+  
+
+
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
+
+We use Google AdSense Advertising on our website.
+
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.  
+
+
+ **We have implemented the following:**
+
+ **•** Remarketing with Google AdSense
+
+ **•** Google Display Network Impression Reporting
+
+ **•** Demographics and Interests Reporting
+
+ **•** DoubleClick Platform Integration  
+
+
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website. 
+
+**Opting out: **  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.****
+
+ ** **
+
+ **California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf  
+
+
+ **According to CalOPPA, we agree to the following:**  
+
+
+Users can visit our site anonymously.
+
+Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.  
+
+
+Our Privacy Policy link includes the word 'Privacy' and can easily be found on the page specified above.
+
+You will be notified of any Privacy Policy changes:
+
+ **•** On our Privacy Policy Page  
+
+
+Can change your personal information:
+
+ **•** By emailing us
+
+ **How does our site handle Do Not Track signals?**  
+
+
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. 
+
+**Does our site allow third-party behavioral tracking?**  
+
+
+It's also important to note that we allow third-party behavioral tracking
+
+ **COPPA (Children Online Privacy Protection Act)**
+
+  
+
+
+When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+
+We do not specifically market to children under the age of 13 years old.
+
+ **Fair Information Practices**
+
+  
+
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+ **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We will notify you via email
+
+ **•** Within 7 business days
+
+We will notify the users via in-site notification
+
+ **•** Within 7 business days
+
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+****
