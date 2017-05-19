@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livelifedrive.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109202802id_/http%3A//www.livelifedrive.com/terms/Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelifedrive.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519034349id_/http%3A//www.livelifedrive.com/terms/Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # Privacy policy
 
