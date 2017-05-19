@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uiggy.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005013id_/http%3A//www.uiggy.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uiggy.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519175640id_/http%3A//www.uiggy.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Uiggy Privacy Policy
 
