@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remax.co.th privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221082124id_/http%3A//www.remax.co.th/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remax.co.th privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519031538id_/http%3A//www.remax.co.th/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of RE/MAX Thailand Website -
 
