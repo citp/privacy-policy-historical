@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextscripts.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224080940id_/http%3A//www.nextscripts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextscripts.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519235614id_/https%3A//www.nextscripts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NextScripts
 
