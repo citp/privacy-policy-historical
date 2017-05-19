@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the latenightwithjimmyfallon.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608011713id_/http%3A//www.nbc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latenightwithjimmyfallon.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519163911id_/http%3A//www.nbc.com/privacy-policy) for the most accurate reproduction.*
 
 # Home & Summary | NBCUniversal
 
 ## Home & Summary
 
-Last updated: 21 December 2015
+Last Updated: 6 June 2016
 
 In this privacy policy:
 
