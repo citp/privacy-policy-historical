@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dealplatter.com privacy policy that was archived on 2016-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161231183642id_/http%3A//www.dealplatter.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dealplatter.com privacy policy that was archived on 2017-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170519043703id_/https%3A//www.dealplatter.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" itemscope="" itemtype="http://schema.org/WebPage"><head>
     <meta charset="UTF-8">
@@ -21,23 +21,41 @@
     <meta property="og:site_name" content="dealplatter">
     <meta property="fb:app_id" content="1091025577637268">
 
-	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
-<link rel="stylesheet" href="http://graphic.dealplatter.com/deals/css/google-fonts.css">
-<link rel="stylesheet" href="http://graphic.dealplatter.com/deals/css/bootstrap.min.css">
-<link rel="stylesheet" href="http://graphic.dealplatter.com/deals/css/bootstrap-responsive.css">	
-<link rel="stylesheet" href="http://graphic.dealplatter.com/deals/css/common.css">
-<link rel="stylesheet" href="http://graphic.dealplatter.com/deals/css/slick-style.css">
-<link rel="stylesheet" href="http://graphic.dealplatter.com/deals/css/slicknav.css"> 
+	<link rel="stylesheet" href="https://graphic.dealplatter.com/deals/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://graphic.dealplatter.com/deals/css/google-fonts.css">
+<link rel="stylesheet" href="https://graphic.dealplatter.com/deals/css/common.css?ver=2.0.0">
+<link rel="stylesheet" href="https://graphic.dealplatter.com/deals/css/slick-style.css?ver=2.0.0">
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://graphic.dealplatter.com/deals/js/jquery.min.js"></script>
+<script src="https://graphic.dealplatter.com/deals/js/common.js"></script>
+<script src="https://graphic.dealplatter.com/deals/js/typeahead.bundle.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+
+<script src="https://use.fontawesome.com/f7ceb7d79d.js"></script>
+	<link href="https://graphic.dealplatter.com/deals/css/jquery-ui.css" rel="stylesheet">
+	<link href="https://graphic.dealplatter.com/deals/css/store.css" rel="stylesheet"> 
+<script>
+ $(document).ready(function() {
+
+            var checkWidth = $(document).width();
+
+            if (checkWidth < 1024) {
+               $('.collapse').removeClass('in')
+            }
+
+        });
+ </script>
+ <script src="https://use.fontawesome.com/f7ceb7d79d.js"></script>
+
 <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-<link href="http://graphic.dealplatter.com/deals/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
 <!--[if IE]>
-	 <link rel="stylesheet" href="http://graphic.dealplatter.com/deals/css/iemargin.css">
+	 <link rel="stylesheet" href="https://graphic.dealplatter.com/deals/css/iemargin.css">
 <![endif]-->
-<script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="http://graphic.dealplatter.com/deals/js/jquery.min.js"></script>
+
 
 <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
-<!--[if lt IE 9]><script src="http://graphic.dealplatter.com/deals/js/ie8-responsive-file-warning.js"></script><![endif]-->
-<script src="http://graphic.dealplatter.com/deals/js/ie-emulation-modes-warning.js"></script>
+<!--[if lt IE 9]><script src="https://graphic.dealplatter.com/deals/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
 
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!--[if lt IE 9]>
@@ -45,16 +63,101 @@
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 <![endif]-->
    
-<link rel="stylesheet" href="http://graphic.dealplatter.com/deals/css/jquery.auto-complete.css">
-<script src="http://graphic.dealplatter.com/deals/js/jquery.auto-complete.min.js"></script>   
-<script src="http://graphic.dealplatter.com/deals/js/common.js"></script>   
+ <script type="text/javascript">
+    // Waiting for the DOM ready...
+    // $(function(){
+
+      // // applied typeahead to the text input box
+      // $('#typsearch').typeahead({
+        // name: 'countries',
+
+        // // data source
+        // prefetch: 'data/countries.json',
+
+        // // max item numbers list in the dropdown
+        // limit: 10
+      // });
+
+    // });
+	$(document).ready(function() {
+	$('.typeahead').typeahead({
+  hint: true,
+  highlight: true,
+  minLength: 1
+},
+{
+  limit: 12,
+  async: true,
+  display: "name",
+  source: function (query, processSync, processAsync) {
+    //processSync(['This suggestion appears immediately', 'This one too']);
+    return $.ajax({
+      url: "/ajax-search/search_autocomplete_list", 
+      type: 'GET',
+      data: {q: query},
+      dataType: 'json',
+      success: function (json) {
+		  //console.log(json.suggestions);
+        // in this example, json is simply an array of strings
+        return processAsync(json.suggestions[0]);
+      }
+    });
+  },
+   templates: {
+    ////empty: [
+    //  '<div class="empty-message">',
+    //  'unable to find any best deals that match the current query',
+    //  '</div>'
+    //].join('\n'),
+    suggestion: function(data) {
+      return '<p><strong>' + data.name + '</strong> in <span class="typeaheadCat">' + data.recordSet + '</span></p>';
+		}
+  },
+  classNames: {
+    //input: 'bdsearch',
+    //hint: 'Typeahead-hint',
+   // selectable: 'Typeahead-selectable'
+  },
+  
+
+});
+$('.typeahead').bind('typeahead:select', function(ev, suggestion) {
+  console.log('Selection: ' + suggestion);
+  if(suggestion!=null)
+  {
+	  switch(suggestion.recordSet) {
+    case "Categories":
+        window.location = "/in/deals/"+suggestion.value;
+		//$('#searchtop').val(suggestion.value);
+		//document.getElementById('searchtop').value=suggestion.name;
+        break;
+    case "Stores":
+        window.location = "/in/deals/"+suggestion.value+"-store";
+		$('#searchtop').val(suggestion.value);
+        break;
+	case "Brands":
+         window.location = "/in/deals/"+suggestion.value+"-brand"; 
+		 $('#searchtop').val(suggestion.value);
+        break;
+    default:
+       break;
+}
+	  
+  }
+});
+});
+  </script>   
  
 	<style>
 	.light .artlogo{display:block !important;}
-	.upform{display:block !important;}
-	
-	.static-cont{background:#fff;margin-top:80px;padding:30px;}
-	.static-cont h1{font-family:'Open sans condensed',sans-serif;font-size:30px;font-weight:bold;text-align:center;color:#3773b0}
+ .upform{display:block;}
+ 
+ .static-cont{background:#fff;margin-top:80px;padding:30px;}
+ .static-cont h1{font-family:'Open sans condensed',sans-serif;font-size:30px;font-weight:bold;text-align:center;color:#3773b0}
+ @media (max-width:1023px){
+ .static-cont{margin-top:0px;}
+ 
+ }
 	</style>
 </head>
 <body id="top">
@@ -70,72 +173,122 @@
 
 </script>
 
+
+
+<!--<style>
+/*all the styles below are for type ahead search*/
+.twitter-typeahead, .tt-hint, .tt-input, .tt-menu { width: 90%; }
+#submittop{float:right;}
+.tt-menu{    background: #fff;}
+</style>-->
+
+
 <!-- Fixed navbar -->
 <div class="sale greybg">
 		<ul>
-		<li><span class="starico"></span><a href="/in/deals/best-deals-of-2016-in-india">Best Deals of 2016</a>
-			</li>
-		<li><span class="starico"></span><a href="/in/deals/xmas-new-year-deals-in-india">Christmas &amp; New Year Deals  </a>
-		</li>
-			<li><span class="starico"></span><a href="/in/deals/flipkart-store">Flipkart- Big Sale </a>
-			</li>
-			<li><span class="starico"></span><a href="/in/deals/amazon-store">Amazon- Best Deals </a>
-			</li>
-			<li><span class="starico"></span><a href="/in/deals/paytm-store">Paytm</a>
-			</li>
+		
+		<!--<li><span class="starico"></span><a href="/in/deals/amazon-end-of-season-sale">Amazon End Of Season Sale</a></li>-->
+		<!--<li><span class="starico"></span><a href="/in/deals/best-deals-of-2016-in-india">Best Deals of 2016</a></li>-->
+		<li><span class="starico"></span><a href="/in/deals/flipkart-store">Flipkart Best Sale </a></li>
+		 <li><span class="starico"></span><a href="/in/deals/amazon-store">Amazon Best Deals </a></li>
+		<li><span class="starico"></span><a href="/in/deals/paytm-store">Paytm Deals</a></li>
 		</ul>
 	</div>
-	<div class="nav-slicknav light shrink">
-		<div class="artlogo"><a href="/"><img src="http://graphic.dealplatter.com/deals/img/DeaL-TEST-LOGO.png"></a></div>
+	
+	<div id="searchanm">
+	
+    <button type="button" class="close">‹</button>
+    <form id="formmobsearch" method="GET" action="/search">
+        <input id="mobsearch" class="typeahead" name="q" type="search" placeholder="Search for online deals and stores" required="">
+        <button type="submit" class="btn btn-primary">Search</button>
+    </form>
+	</div>
+	<div class="newTopheader">
+		<div class="artlogo col-lg-2 col-md-2"><a href="/"><img src="https://graphic.dealplatter.com/deals/img/logo-new.png" class="img-responsive"></a></div>
 		
-		<form id="formsearchtop" class="navbar-form upform" method="GET" action="/search" role="search">
+        <ul class="signright col-lg-1 col-md-1 col-sm-12">
+		  
+			<li class="mobsearch"><a href="#searchanm" class="mob-search"></a></li>
+			
+			<!--
+			<li class="main-cats candytxt newpages">
+			<a href="http://coupons.dealplatter.com/in">Candy</a>
+			</li>
+				<li class="main-cats coupontxt newpages">
+			<a href="http://coupons.dealplatter.com/in">Coupons</a>
+			</li>
+			<li class="main-cats buzztxt newpages">
+			<a href="http://test.ibtimes.co.in/deal/buzz/">Buzz</a>
+			</li>  	
+			-->
+			
+			
+	      
+				<!--  <li class="signsymb"><a href="#signup" data-toggle="modal" data-target=".bs-modal-sm"><img src="https://graphic.dealplatter.com/deals/img/icons/menu/login.png" alt="login" title="login"></a></li> -->
 
+
+						<li class="signsymb"><a href="#signup" data-toggle="modal" data-target=".bs-modal-sm"></a></li>  
+						
+					      
+			
+        </ul>
+		<form id="formsearchtop" class="upform col-lg-7 col-md-7" method="get" action="/search" role="search">
+								 <!--<input id="typsearch"  name="q" type="search" class="typeahead" placeholder="Search for online deals and stores" required/>-->
                                 <div class="search-head">
-                                    <input type="text" id="searchtop" name="q" placeholder="Search for online deals and stores " required="">
+                                   									 <input type="text" id="searchtop" class="typeahead bdsearch" name="q" autocomplete="off" placeholder="Search for online deals and coupons  " required="">
                                     <input type="submit" id="submittop" class="button" value="">
                                 </div>
          </form>
-		 
-		 
-        <ul class="signright">
-		<li class="mobsearch"><a href="#searchanm"><img src="http://graphic.dealplatter.com/deals/img/search.png"></a></li>
-			    
-					<li class="signsymb"><a href="#signup" data-toggle="modal" data-target=".bs-modal-sm"><img src="http://graphic.dealplatter.com/deals/img/icons/menu/login.png" alt="login" title="login"></a></li>     
-			      
-            
-	      
+			<div class="socials">
 			
-        </ul>
-				<div class="socials">
-			
-				<a target="_blank" href="https://www.facebook.com/dealplatter" class="newsocials soc-fb"><img src="http://graphic.dealplatter.com/deals/img/fb-pd.png"></a>
-				<a target="_blank" href="https://twitter.com/dealplatter" class="newsocials soc-tw"><img src="http://graphic.dealplatter.com/deals/img/twitter-pd.png"></a>
-				<a target="_blank" href="https://plus.google.com/104259201032585301807" class="newsocials soc-gp"><img src="http://graphic.dealplatter.com/deals/img/gplus-pd.png"></a>
-				<a target="_blank" href="https://in.pinterest.com/dealplatter/" class="newsocials soc-pt"><img src="http://graphic.dealplatter.com/deals/img/pint-d.png"></a>
+				<a target="_blank" href="https://www.facebook.com/dealplatter" class="newsocials soc-fb"><img src="https://graphic.dealplatter.com/deals/img/fb-pd.png"></a>
+				<a target="_blank" href="https://twitter.com/dealplatter" class="newsocials soc-tw"><img src="https://graphic.dealplatter.com/deals/img/twitter-pd.png"></a>
+				<a target="_blank" href="https://plus.google.com/104259201032585301807" class="newsocials soc-gp"><img src="https://graphic.dealplatter.com/deals/img/gplus-pd.png"></a>
+				<a target="_blank" href="https://in.pinterest.com/dealplatter/" class="newsocials soc-pt"><img src="https://graphic.dealplatter.com/deals/img/pint-d.png"></a>
 			
 		</div>
+       
+    </div>
+	
+	<div class="nav-slicknav ">
+		
+		
+		
+		 
+		 
+        			
         <ul id="menu">
-		<li class="main-cats"><a href="/"><img src="http://graphic.dealplatter.com/deals/img/icons/menu/home.png" alt="home" title="home" class="indexhome"></a></li>
+		<li class="main-cats"><a href="/">Home</a></li>
+		
 		 <li class="main-cats"><span class="dealico tdico"></span><a href="/in/deals/todays-deals-in-india">Today's deals</a>
             </li>
 		<li class="has-children main-cats"><span class="dealico bsicon"></span>  <a href="/in/deals/all-stores" alt="stores" title="stores">By Store</a>
 				<ul class="is-hidden fullbox storemenu storebrand">
 						
-							<li><a href="/in/deals/amazon-store"><img src="http://graphic.dealplatter.com/deals/img/logos/amazon.png" alt="Amazon"></a></li>
-							<li><a href="/in/deals/flipkart-store"><img src="http://graphic.dealplatter.com/deals/img/logos/flipkart.png" alt="Flipkart"></a></li>
-							<li><a href="/in/deals/paytm-store"><img src="http://graphic.dealplatter.com/deals/img/logos/paytm.png" alt="Paytm"></a></li>
-							<li><a href="/in/deals/snapdeal-store"><img src="http://graphic.dealplatter.com/deals/img/logos/snapdeal.png" alt="SnapDeal"></a></li>
-							<li><a href="/in/deals/shopclues-store"><img src="http://graphic.dealplatter.com/deals/img/logos/shopclues.png" alt="Shopclues"></a></li>
-							<li><a href="/in/deals/ebay-store"><img src="http://graphic.dealplatter.com/deals/img/logos/ebay.png" alt="Ebay"></a></li>
-							<li><a href="/in/deals/jabong-store"><img src="http://graphic.dealplatter.com/deals/img/logos/jabong.png" alt="Jabong"></a></li>
-							<li><a href="/in/deals/myntra-store"><img src="http://graphic.dealplatter.com/deals/img/logos/myntra.png" alt="Myntra"></a></li>
-							<li><a href="/in/deals/pepperfry-store"><img src="http://graphic.dealplatter.com/deals/img/logos/pepperfry.png" alt="PepperFry"></a></li>
-							<li><a href="/in/deals/decathlon-store"><img src="http://graphic.dealplatter.com/deals/img/logos/decathlon.png" alt="Decathlon"></a></li>
-							<li><a href="/in/deals/infibeam-store"><img src="http://graphic.dealplatter.com/deals/img/logos/infibeam.png" alt="Infibeam"></a></li>
-							<li><a href="/in/deals/abof-store"><img src="http://graphic.dealplatter.com/deals/img/logos/abof.png" alt="abof"></a></li>
-							<li><a href="/in/deals/moglix-store"><img src="http://graphic.dealplatter.com/deals/img/logos/moglix.png" alt="Moglix"></a></li>
-							<li><a href="/in/deals/tatacliq-store"><img src="http://graphic.dealplatter.com/deals/img/logos/tatacliq.png" alt="Tatacliq"></a></li>
-							<li><a href="/in/deals/hopscotch-store"><img src="http://graphic.dealplatter.com/deals/img/logos/hopscotch.png" alt="hopscotch"></a></li>
+							<li><a href="/in/deals/amazon-store"><img src="https://graphic.dealplatter.com/deals/img/logos/amazon.png" alt="Amazon"></a></li>
+							<li><a href="/in/deals/flipkart-store"><img src="https://graphic.dealplatter.com/deals/img/logos/flipkart.png" alt="Flipkart"></a></li>
+							<li><a href="/in/deals/paytm-store"><img src="https://graphic.dealplatter.com/deals/img/logos/paytm.png" alt="Paytm"></a></li>
+							<li><a href="/in/deals/snapdeal-store"><img src="https://graphic.dealplatter.com/deals/img/logos/snapdeal.png" alt="SnapDeal"></a></li>
+							<li><a href="/in/deals/shopclues-store"><img src="https://graphic.dealplatter.com/deals/img/logos/shopclues.png" alt="Shopclues"></a></li>
+							<li><a href="/in/deals/ebay-store"><img src="https://graphic.dealplatter.com/deals/img/logos/ebay.png" alt="Ebay"></a></li>
+							<li><a href="/in/deals/jabong-store"><img src="https://graphic.dealplatter.com/deals/img/logos/jabong.png" alt="Jabong"></a></li>
+							<li><a href="/in/deals/myntra-store"><img src="https://graphic.dealplatter.com/deals/img/logos/myntra.png" alt="Myntra"></a></li>
+							<li><a href="/in/deals/pepperfry-store"><img src="https://graphic.dealplatter.com/deals/img/logos/pepperfry.png" alt="PepperFry"></a></li>
+							<li><a href="/in/deals/decathlon-store"><img src="https://graphic.dealplatter.com/deals/img/logos/decathlon.png" alt="Decathlon"></a></li>
+							
+							
+							<li><a href="/in/deals/freecharge-store"><img src="https://graphic.dealplatter.com/deals/img/logos/freecharge.png" alt="Freecharge"></a></li>
+							<li><a href="/in/deals/mobikwik-store"><img src="https://graphic.dealplatter.com/deals/img/logos/mobikwik.png" alt="Mobikwik"></a></li>
+							<li><a href="/in/deals/yatra-store"><img src="https://graphic.dealplatter.com/deals/img/logos/yatra.png" alt="Yatra"></a></li>
+							<li><a href="/in/deals/makemytrip-store"><img src="https://graphic.dealplatter.com/deals/img/logos/makemytrip.png" alt="Makemytrip"></a></li>
+							<li><a href="/in/deals/bookmyshow-store"><img src="https://graphic.dealplatter.com/deals/img/logos/bookmyshow.png" alt="Bookmyshow"></a></li>
+							
+							
+							<li><a href="/in/deals/infibeam-store"><img src="https://graphic.dealplatter.com/deals/img/logos/infibeam.png" alt="Infibeam"></a></li>
+							<li><a href="/in/deals/abof-store"><img src="https://graphic.dealplatter.com/deals/img/logos/abof.png" alt="abof"></a></li>
+							<li><a href="/in/deals/moglix-store"><img src="https://graphic.dealplatter.com/deals/img/logos/moglix.png" alt="Moglix"></a></li>
+							<li><a href="/in/deals/tatacliq-store"><img src="https://graphic.dealplatter.com/deals/img/logos/tatacliq.png" alt="Tatacliq"></a></li>
+							<li><a href="/in/deals/hopscotch-store"><img src="https://graphic.dealplatter.com/deals/img/logos/hopscotch.png" alt="hopscotch"></a></li>
 							
 						<a href="/in/deals/all-stores" class="allmenustore"> View All</a>
 				</ul>
@@ -143,29 +296,30 @@
 			</li>
 		
            
-            <li class="has-children main-cats"><span class="dealico bbicon"></span> <a href="javacript:;">By Brand</a>
+            <li class="has-children main-cats"><span class="dealico bbicon"></span> <a href="/in/deals/all-brands">By Brand</a>
 				<ul class="is-hidden fullbox storemenu">
 				
-							<li><a href="/in/deals/samsung-brand"><img src="http://graphic.dealplatter.com/deals/img/brandlogos/samsung.jpg" alt="Samsung"></a></li>
-							<li><a href="/in/deals/apple-brand"><img src="http://graphic.dealplatter.com/deals/img/brandlogos/apple.png" alt="Apple"></a></li>
-							<li><a href="/in/deals/micromax-brand"><img src="http://graphic.dealplatter.com/deals/img/brandlogos/micromax.png" alt="Micromax"></a></li>
-							<li><a href="/in/deals/motorola-brand"><img src="http://graphic.dealplatter.com/deals/img/brandlogos/motorola.png" alt="Motorola"></a></li>
-							<li><a href="/in/deals/htc-brand"><img src="http://graphic.dealplatter.com/deals/img/brandlogos/htc.png" alt="HTC"></a></li>
-							<li><a href="/in/deals/lg-brand"><img src="http://graphic.dealplatter.com/deals/img/brandlogos/lg.png" alt="LG"></a></li>
-							<li><a href="/in/deals/mi-brand"><img src="http://graphic.dealplatter.com/deals/img/brandlogos/xiaomi.png" alt="Xiaomi"></a></li>
-							<li><a href="/in/deals/lenovo-brand"><img src="http://graphic.dealplatter.com/deals/img/brandlogos/lenovo.png" alt="Lenovo"></a></li>
-							<li><a href="/in/deals/hp-brand"><img src="http://graphic.dealplatter.com/deals/img/brandlogos/hp.png" alt="HP"></a></li>
-							<li><a href="/in/deals/dell-brand"><img src="http://graphic.dealplatter.com/deals/img/brandlogos/dell.png" alt="Dell"></a></li>
-							<li><a href="/in/deals/nike-brand"><img src="http://graphic.dealplatter.com/deals/img/brandlogos/nike.png" alt="Nike"></a></li>
-							<li><a href="/in/deals/adidas-brand"><img src="http://graphic.dealplatter.com/deals/img/brandlogos/adidas.png" alt="Adidas"></a></li>
-							<li><a href="/in/deals/puma-brand"><img src="http://graphic.dealplatter.com/deals/img/brandlogos/puma.png" alt="Puma"></a></li>
-							<li><a href="/in/deals/w-brand"><img src="http://graphic.dealplatter.com/deals/img/brandlogos/w.png" alt="W"></a></li>
-							<li><a href="/in/deals/biba-brand"><img src="http://graphic.dealplatter.com/deals/img/brandlogos/biba.png" alt="Biba"></a></li>
-							<li><a href="/in/deals/aurelia-brand"><img src="http://graphic.dealplatter.com/deals/img/brandlogos/aurelia.png" alt="Aurelia"></a></li>
-							<li><a href="/in/deals/fisherprice-brand"><img src="http://graphic.dealplatter.com/deals/img/brandlogos/fisher-price.png" alt="Fisher Price"></a></li>
-							<li><a href="/in/deals/lakme-brand"><img src="http://graphic.dealplatter.com/deals/img/brandlogos/lakme.png" alt="Lakme"></a></li>
-							<li><a href="/in/deals/prestige-brand"><img src="http://graphic.dealplatter.com/deals/img/brandlogos/prestige.png" alt="Prestige"></a></li>
-							<li><a href="/in/deals/tupperware-brand"><img src="http://graphic.dealplatter.com/deals/img/brandlogos/tupperware.png" alt="Tupperware"></a></li>
+							<li><a href="/in/deals/samsung-brand"><img src="https://graphic.dealplatter.com/deals/img/brandlogos/samsung.jpg" alt="Samsung"></a></li>
+							<li><a href="/in/deals/apple-brand"><img src="https://graphic.dealplatter.com/deals/img/brandlogos/apple.png" alt="Apple"></a></li>
+							<li><a href="/in/deals/micromax-brand"><img src="https://graphic.dealplatter.com/deals/img/brandlogos/micromax.png" alt="Micromax"></a></li>
+							<li><a href="/in/deals/motorola-brand"><img src="https://graphic.dealplatter.com/deals/img/brandlogos/motorola.png" alt="Motorola"></a></li>
+							<li><a href="/in/deals/htc-brand"><img src="https://graphic.dealplatter.com/deals/img/brandlogos/htc.png" alt="HTC"></a></li>
+							<li><a href="/in/deals/lg-brand"><img src="https://graphic.dealplatter.com/deals/img/brandlogos/lg.png" alt="LG"></a></li>
+							<li><a href="/in/deals/mi-brand"><img src="https://graphic.dealplatter.com/deals/img/brandlogos/xiaomi.png" alt="Xiaomi"></a></li>
+							<li><a href="/in/deals/lenovo-brand"><img src="https://graphic.dealplatter.com/deals/img/brandlogos/lenovo.png" alt="Lenovo"></a></li>
+							<li><a href="/in/deals/hp-brand"><img src="https://graphic.dealplatter.com/deals/img/brandlogos/hp.png" alt="HP"></a></li>
+							<li><a href="/in/deals/dell-brand"><img src="https://graphic.dealplatter.com/deals/img/brandlogos/dell.png" alt="Dell"></a></li>
+							<li><a href="/in/deals/nike-brand"><img src="https://graphic.dealplatter.com/deals/img/brandlogos/nike.png" alt="Nike"></a></li>
+							<li><a href="/in/deals/adidas-brand"><img src="https://graphic.dealplatter.com/deals/img/brandlogos/adidas.png" alt="Adidas"></a></li>
+							<li><a href="/in/deals/puma-brand"><img src="https://graphic.dealplatter.com/deals/img/brandlogos/puma.png" alt="Puma"></a></li>
+							<li><a href="/in/deals/w-brand"><img src="https://graphic.dealplatter.com/deals/img/brandlogos/w.png" alt="W"></a></li>
+							<li><a href="/in/deals/biba-brand"><img src="https://graphic.dealplatter.com/deals/img/brandlogos/biba.png" alt="Biba"></a></li>
+							<li><a href="/in/deals/aurelia-brand"><img src="https://graphic.dealplatter.com/deals/img/brandlogos/aurelia.png" alt="Aurelia"></a></li>
+							<li><a href="/in/deals/fisherprice-brand"><img src="https://graphic.dealplatter.com/deals/img/brandlogos/fisher-price.png" alt="Fisher Price"></a></li>
+							<li><a href="/in/deals/lakme-brand"><img src="https://graphic.dealplatter.com/deals/img/brandlogos/lakme.png" alt="Lakme"></a></li>
+							<li><a href="/in/deals/prestige-brand"><img src="https://graphic.dealplatter.com/deals/img/brandlogos/prestige.png" alt="Prestige"></a></li>
+							<li><a href="/in/deals/tupperware-brand"><img src="https://graphic.dealplatter.com/deals/img/brandlogos/tupperware.png" alt="Tupperware"></a></li>
+							<a href="/in/deals/all-brands" class="allmenustore"> View All</a>
 					
 				</ul>
 			
@@ -223,236 +377,158 @@
 				<ul class="fullbox is-hidden dbcats main-menu">
 					<li class="cd-nav-item">
 						<a href="/in/deals/mobiles-and-tablets">
-							<span class="cat-ico"><img src="http://graphic.dealplatter.com/deals/img/icons/menu/Mobile-yellow-sec-icon.png" alt="Mobile"></span>
+							<span class="cat-ico m-mobile"></span>
 							<h5>Mobiles &amp; Tablets</h5>
 						</a>
 					</li>
 					<li class="cd-nav-item">
 						<a href="/in/deals/mobile-accessories">
-							<span class="cat-ico"><img src="http://graphic.dealplatter.com/deals/img/icons/menu/Mobile-acc.png" alt="Mobile, Tablets &amp; Accessories"></span>
+							<span class="cat-ico m-macc"></span>
 							<h5>Mobile Accessories</h5>
 						</a>
 					</li>
 
 					<li class="cd-nav-item">
 						<a href="/in/deals/computers-and-accessories">
-							<span class="cat-ico"><img src="http://graphic.dealplatter.com/deals/img/icons/menu/computer.png" alt="Computers &amp; Accessories"></span>
+							<span class="cat-ico m-comp"></span>
 							<h5>Computers ,Laptops &amp; Accessories</h5>
 						</a>
 					</li>
 					<li class="cd-nav-item">
 						<a href="/in/deals/flash-storage-and-memory">
-							<span class="cat-ico"><img src="http://graphic.dealplatter.com/deals/img/icons/menu/flash-memory.png" alt="Flash storage and Memory"></span>
+							<span class="cat-ico m-mem"></span>
 							<h5>Flash Storage/Memory</h5>
 						</a>
 					</li>
 					<li class="cd-nav-item">
 						<a href="/in/deals/womens-fashion">
-							<span class="cat-ico"><img src="http://graphic.dealplatter.com/deals/img/icons/menu/women-fashion.png" alt="Women Fashion"></span>
+							<span class="cat-ico m-wfash"></span>
 							<h5>Women's Fashion</h5>
 						</a>
 					</li>
 					<li class="cd-nav-item">
 						<a href="/in/deals/mens-fashion">
-							<span class="cat-ico"><img src="http://graphic.dealplatter.com/deals/img/icons/menu/mens-fashion.png" alt="Men Fashion"></span>
+							<span class="cat-ico m-mfash"></span>
 							<h5>Men's Fashion</h5>
 						</a>
 					</li>
 					<li class="cd-nav-item">
 						<a href="/in/deals/baby-and-kids-fashion">
-							<span class="cat-ico"><img src="http://graphic.dealplatter.com/deals/img/icons/menu/kids-fashion.png" alt="Kids Fashion"></span>
+							<span class="cat-ico m-bfash"></span>
 							<h5>Baby &amp; Kids Fashion</h5>
 						</a>
 					</li>
 					<li class="cd-nav-item">
 						<a href="/in/deals/electronics">
-							<span class="cat-ico"><img src="http://graphic.dealplatter.com/deals/img/icons/menu/electronics.png" alt="Electronics"></span>
+							<span class="cat-ico m-electro"></span>
 							<h5>Electronics</h5>
 						</a>
 					</li>
 					<li class="cd-nav-item">
 						<a href="/in/deals/tv-and-entertainment">
-							<span class="cat-ico"><img src="http://graphic.dealplatter.com/deals/img/icons/menu/TV.png" alt="TV"></span>
+							<span class="cat-ico m-tvent"></span>
 							<h5>Tv &amp; Entertainment</h5>
 						</a>
 					</li>
 					<li class="cd-nav-item">
 						<a href="/in/deals/lugguage-accessories">
-							<span class="cat-ico"><img src="http://graphic.dealplatter.com/deals/img/icons/menu/baggege.png" alt="Lugguage Accessories"></span>
+							<span class="cat-ico m-lugg"></span>
 							<h5>Luggage Accessories</h5>
 						</a>
 					</li>
 					<li class="cd-nav-item">
 						<a href="/in/deals/toys">
-							<span class="cat-ico"><img src="http://graphic.dealplatter.com/deals/img/icons/menu/toys.png" alt="Baby, Kids &amp; Toys"></span>
+							<span class="cat-ico m-toys"></span>
 							<h5>Toys</h5>
 						</a>
 					</li>
 					<li class="cd-nav-item">
 						<a href="/in/deals/kids-school-supplies">
-							<span class="cat-ico"><img src="http://graphic.dealplatter.com/deals/img/icons/menu/school-suppliers.png" alt="Kids School Supplies"></span>
+							<span class="cat-ico m-school"></span>
 							<h5>Kids School Supplies</h5>
 						</a>
 					</li>
 					<li class="cd-nav-item">
 						<a href="/in/deals/baby-and-diapering">
-							<span class="cat-ico"><img src="http://graphic.dealplatter.com/deals/img/icons/menu/diaper.png" alt="Baby &amp; Diapering"></span>
+							<span class="cat-ico m-baby"></span>
 							<h5>Baby &amp; Diapering</h5>
 						</a>
 					</li>
 					<li class="cd-nav-item">
 						<a href="/in/deals/home-and-kitchen-appliances">
-							<span class="cat-ico"><img src="http://graphic.dealplatter.com/deals/img/icons/menu/home-appliences.png" alt="Home and Kitchen Appliances"></span>
+							<span class="cat-ico m-kitchen"></span>
 							<h5>Home &amp; Kitchen Appliances</h5>
 						</a>
 					</li>
 					<li class="cd-nav-item">
 						<a href="/in/deals/health-and-personal-care">
-							<span class="cat-ico"><img src="http://graphic.dealplatter.com/deals/img/icons/menu/Medicine.png" alt="Health &amp; Personal Care"></span>
+							<span class="cat-ico m-health"></span>
 							<h5>Health &amp; Personnel Care</h5>
 						</a>
 					</li>
 					<li class="cd-nav-item">
 						<a href="/in/deals/sports-and-fitness">
-							<span class="cat-ico"><img src="http://graphic.dealplatter.com/deals/img/icons/menu/fitness.png" alt="Sports and fitness"></span>
+							<span class="cat-ico m-fitness"></span>
 							<h5> Sports &amp; Fitness</h5>
 						</a>
 					</li>
 					<li class="cd-nav-item">
 						<a href="/in/deals/stationery-and-office-supplies">
-							<span class="cat-ico"><img src="http://graphic.dealplatter.com/deals/img/icons/menu/stationaries.png" alt="Stationery &amp; Office "></span>
+							<span class="cat-ico m-office"></span>
 							<h5>Stationery &amp; Office supplies</h5>
 						</a>
 					</li>
 					<li class="cd-nav-item">
 						<a href="/in/deals/books-music-and-movies">
-							<span class="cat-ico"><img src="http://graphic.dealplatter.com/deals/img/icons/menu/movies.png" alt="Books, Music and Movies"></span>
+							<span class="cat-ico m-books"></span>
 							<h5>Books Movies &amp; Music</h5>
 						</a>
 					</li>
-										
+					<li class="cd-nav-item">
+						<a href="/in/deals/travel">
+							<span class="cat-ico m-travel"></span>
+							<h5>Travel</h5>
+						</a>
+					</li>
+					<li class="cd-nav-item">
+						<a href="/in/deals/gifts">
+							<span class="cat-ico m-gifts"></span>
+							<h5>Gifts</h5>
+						</a>
+					</li>					
 				</ul>
 			</li>
-			<li class="main-cats has-children"><span class="dealico pdicon"></span>
+			<li class="main-cats"><span class="dealico tdicon"></span>
                 <a href="/in/deals/popular-deals-in-india">Popular Deals </a>
-								<ul class="fullbox main-menu is-hidden mostpop">
-                   
-                            
-                            <li class="submenucolmp middlempmenu">
-                                <ul>
-								
-								
-																
-								
-								<li class="product-thumb">
-                                         <a href="/in/deals/fashion/cotton-ankle-length-socks-set-of-6-177029">
-                                             <img src="http://data.dealplatter.com/store-image-2016-12-21-177029-0-228-cotton-ankle-length-socks-set-of-6.jpg" class="prod" alt="Cotton Ankle Length Socks  (Set Of 6)">
-                                            <h5>Cotton Ankle Length Socks  (Set Of 6)</h5>
-                                            <h4 class="price-menu">Rs.119</h4>
-                                            													<h4 class="price-strike">499</h4>
-												                                            <br>
-											
-																					<p class="discount">76% 0ff  </p>
-									                                            										<br><div class="menu-store"><img src="http://graphic.dealplatter.com/deals/img/logos/shopclues.png" alt="ShopClues"></div>
-									                                        </a>
-                                    </li>
-																	
-								
-								<li class="product-thumb">
-                                         <a href="/in/deals/mobile-tablets-and-accessories/lenovo-vibe-k4-note-black-16gb-54026">
-                                             <img src="http://data.dealplatter.com/store-image-2016-8-6-54026-0-228-lenovo-vibe-k4-note-black-16gb.jpg" class="prod" alt="Lenovo Vibe K4 Note (Black, 16GB)">
-                                            <h5>Lenovo Vibe K4 Note (Black, 16GB)</h5>
-                                            <h4 class="price-menu">Rs.10,999</h4>
-                                            													<h4 class="price-strike">11,999</h4>
-												                                            <br>
-											
-																					<p class="discount">8% 0ff  </p>
-									                                            										<br><div class="menu-store"><img src="http://graphic.dealplatter.com/deals/img/logos/amazon.png" alt="Amazon"></div>
-									                                        </a>
-                                    </li>
-																	
-								
-								<li class="product-thumb">
-                                         <a href="/in/deals/fashion/stylish-multicolored-mens-hosiery-track-pant-set-of-2-169311">
-                                             <img src="http://data.dealplatter.com/store-image-2016-12-13-169311-0-228-stylish-multicolored-mens-hosiery-track-pant-set-of-2.jpg" class="prod" alt="Stylish Multicolored Mens Hosiery Track Pant (Set of-2)">
-                                            <h5>Stylish Multicolored Mens Hosiery Track Pant (Set of-2)</h5>
-                                            <h4 class="price-menu">Rs.249</h4>
-                                            													<h4 class="price-strike">799</h4>
-												                                            <br>
-											
-																					<p class="discount">69% 0ff  </p>
-									                                            										<br><div class="menu-store"><img src="http://graphic.dealplatter.com/deals/img/logos/shopclues.png" alt="ShopClues"></div>
-									                                        </a>
-                                    </li>
-									 </ul></li><li class="submenucolmp middlempmenu"> <ul>								
-								
-								<li class="product-thumb">
-                                         <a href="/in/deals/fashion/rico-sordi-mens-set-of-5-combo-watch-sunglass-wa-171649">
-                                             <img src="http://data.dealplatter.com/store-image-2016-12-15-171649-0-228-rico-sordi-mens-set-of-5-combo-watch-sunglass-wa.jpg" class="prod" alt="Rico Sordi Mens Set of 5 Combo(Watch, Sunglass, Wa...">
-                                            <h5>Rico Sordi Mens Set of 5 Combo(Watch, Sunglass, Wa...</h5>
-                                            <h4 class="price-menu">Rs.799</h4>
-                                            													<h4 class="price-strike">999</h4>
-												                                            <br>
-											
-																					<p class="discount">21% 0ff  </p>
-									                                            										<br><div class="menu-store"><img src="http://graphic.dealplatter.com/deals/img/logos/infibeam.png" alt="Infibeam"></div>
-									                                        </a>
-                                    </li>
-																	
-								
-								<li class="product-thumb">
-                                         <a href="/in/deals/electronics/philips-wireless-portable-speaker-black-mono-channel-182284">
-                                             <img src="http://data.dealplatter.com/store-image-2016-12-26-182284-0-228-philips-wireless-portable-speaker-black-mono-channel.jpg" class="prod" alt="Philips Wireless Portable Speaker&nbsp;&nbsp;(Black, Mono Channel)">
-                                            <h5>Philips Wireless Portable Speaker&nbsp;&nbsp;(Black, Mono Channel)</h5>
-                                            <h4 class="price-menu">Rs.1,049</h4>
-                                            													<h4 class="price-strike">1,999</h4>
-												                                            <br>
-											
-																					<p class="discount">47% 0ff  </p>
-									                                            										<br><div class="menu-store"><img src="http://graphic.dealplatter.com/deals/img/logos/flipkart.png" alt="Flipkart"></div>
-									                                        </a>
-                                    </li>
-																	
-								
-								<li class="product-thumb">
-                                         <a href="/in/deals/mobile-tablets-and-accessories/xiaomi-mi-smart-fitness-band-164331">
-                                             <img src="http://data.dealplatter.com/store-image-2016-12-7-164331-0-228-xiaomi-mi-smart-fitness-band.jpg" class="prod" alt="Xiaomi Mi Smart Fitness Band">
-                                            <h5>Xiaomi Mi Smart Fitness Band</h5>
-                                            <h4 class="price-menu">Rs.1,299</h4>
-                                            													<h4 class="price-strike">2,900</h4>
-												                                            <br>
-											
-																					<p class="discount">56% 0ff  </p>
-									                                            										<br><div class="menu-store"><img src="http://graphic.dealplatter.com/deals/img/logos/infibeam.png" alt="Infibeam"></div>
-									                                        </a>
-                                    </li>
-																					
-									                                    
-                                   
-                                </ul>
-								<a href="/in/deals/popular-deals-in-india" class="allmenustore"> View All </a>
-                            </li>
-							
-                        </ul>
-											</li>
+				
+					</li>
             
-					<li class="main-cats coupontxt"><a href="http://coupons.dealplatter.com/in">Coupons</a></li>
+					<!--<li class="main-cats coupontxt"><a href="http://coupons.dealplatter.com/in">Coupons</a></li>-->	
 			<!-- mobile links start-->
-			<li class="main-cats blackstrip"><span class="starico"></span><a href="/in/deals/best-deals-of-2016-in-india">Best Deals of 2016</a></li>	
-					<li class="main-cats blackstrip"><span class="starico"></span><a href="/in/deals/xmas-new-year-deals-in-india">Christmas &amp; New Year Deals  </a></li>	
-					<li class="main-cats blackstrip"><span class="starico"></span><a href="/in/deals/flipkart-store">Flipkart- Big Sale </a></li>	
-					<li class="main-cats blackstrip"><span class="starico"></span><a href="/in/deals/amazon-store">Amazon- Best Deals </a></li>	
-					<li class="main-cats blackstrip"><span class="starico"></span><a href="/in/deals/paytm-store">Paytm</a></li>
+			<!--<li class="main-cats blackstrip"><span class="starico"></span>
+			<a href="/in/deals/amazon-end-of-season-sale">Amazon End Of Season Sale</a></li>-->	
+			
+			
+			<!--<li class="main-cats blackstrip"><span class="starico"></span>
+			<a href="/in/deals/best-deals-of-2016-in-india">Best Deals of 2016</a>
+			</li>	-->
+			<li class="main-cats blackstrip"><span class="starico"></span>
+			<a href="/in/deals/flipkart-store">Flipkart Big Sale </a>
+			</li>	
+			<li class="main-cats blackstrip"><span class="starico"></span>
+			<a href="/in/deals/amazon-store">Amazon Best Deals </a>
+			</li>	
+			<li class="main-cats blackstrip"><span class="starico"></span>
+			<a href="/in/deals/paytm-store">Paytm Deals</a>
+			</li>
 					<!-- mobile links end-->
+					
+							<li class="main-cats blackstrip"><span class="signsymbmob"></span><a href="#signup" data-toggle="modal" data-target=".bs-modal-sm"> Log in</a></li>
+							
 		</ul>
     </div>
-		<div id="searchanm">
-    <button type="button" class="close">‹</button>
-    <form id="formmobsearch" method="GET" action="/search">
-        <input id="mobsearch" name="q" type="search" placeholder="Search for online deals and stores" required="">
-        <button type="submit" class="btn btn-primary">Search</button>
-    </form>
-</div>
+	 
+		
             
     <!--/.nav-collapse -->			
 	<div class="full-cont product-cont mob-width">
@@ -482,52 +558,16 @@
 	</div>
 	
 	
-	<!-- Modal -->
-	<div id="dislike" class="modal fade" role="dialog">
-		<!-- Modal content-->
-		<div class="modal-dialog dislikebox">
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" onclick=" $('#dislike').modal('hide');" class="close" data-dismiss="modal">×</button>
-					<h4 class="modal-title">Dislike!</h4>
-					<h6>What do you dislike about the product? </h6>
-				</div>
-				<div class="modal-body">
-					<form class="form-basic" method="post" action="#">
-					<input type="hidden" name="dislike_dealid" id="dislike_dealid" value="">
-					<input type="hidden" name="dislike_displayid" id="dislike_displayid">
-											</form>
-				</div>
-			</div>
-		</div>
-	</div>
 	
 	
 	
 	
-	<div class="modal fade bs-modal-news" id="myModal2" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content newsbox">
-				<button type="button" class="close closenews" data-dismiss="modal" aria-hidden="true">×</button>
-				<br>
-				<div class="modal-body newscontent">
-                   <h3 class="modal-title">Get Deals in your inbox!!</h3>
-				   <p>Subscribe today for best deals</p>
-				   <p>Be the first to get notified..!!</p>
-					<form method="post" id="form_grab_product" name="form_grab_product" action="">
-						<div class="input-group"> 
-						  <input type="email" id="grab_email" name="grab_email" class="form-control" placeholder="your@email.com">
-						  <button type="submit" value="sub" name="sub" id="sub" class="btn btn-primary"><i class="fa fa-share"></i> Subscribe Now!</button>
-						</div>  
-					</form>
-                </div>
-            </div>
-        </div>
-    </div>
+	
+	
 	<span class="gray-border"></span>
-	<script src="http://graphic.dealplatter.com/deals/js/bootstrap.min.js"></script>	
-	<script src="http://graphic.dealplatter.com/deals/js/jquery.slicknav.js"></script>
-	<script src="http://graphic.dealplatter.com/deals/js/ie10-viewport-bug-workaround.js"></script>	
+	<script src="https://graphic.dealplatter.com/deals/js/bootstrap.min.js"></script>	
+	<script src="https://graphic.dealplatter.com/deals/js/jquery.slicknav.js"></script>
+	<script src="https://graphic.dealplatter.com/deals/js/ie10-viewport-bug-workaround.js"></script>	
         <p id="back-top">
     <a href="#top"><span></span></a>
 </p>
@@ -536,7 +576,7 @@
     <div class="full-cont footer-box">
 
      <div class="col-lg-12 foot-store-list">
-			  <h2 class="footer-top-stores"> Deals</h2>
+			  <h4 class="footer-top-stores"> Deals</h4>
 			  <ul>
                     <li><a href="/in/deals/todays-deals-in-india">Today's deals</a>|
                     </li>
@@ -546,7 +586,7 @@
 			 </div>
 
         <div class="col-lg-12 foot-store-list">
-			<h2 class="footer-top-stores">Top Stores</h2>
+			<h4 class="footer-top-stores">Top Stores</h4>
 			<ul>
 				<li><a href="/in/deals/amazon-store">Amazon</a></li>
 <li><a href="/in/deals/snapdeal-store">SnapDeal</a></li>
@@ -560,7 +600,6 @@
 <li><a href="/in/deals/greendust-store">Greendust</a></li>
 <li><a href="/in/deals/tatacliq-store">Tatacliq</a></li>
 <li><a href="/in/deals/ebay-store">Ebay</a></li>
-<li><a href="/in/deals/1mg-store">1mg</a></li>
 <li><a href="/in/deals/indiatimes-store">IndiaTimes</a></li>
 <li><a href="/in/deals/bigbasket-store">BigBasket</a></li>
 <li><a href="/in/deals/shopcj-store">Shopcj</a></li>
@@ -569,7 +608,6 @@
 <li><a href="/in/deals/croma-store">Croma</a></li>
 <li><a href="/in/deals/onlymobiles-store">OnlyMobiles</a></li>
 <li><a href="/in/deals/firstcry-store">FirstCry</a></li>
-<li><a href="/in/deals/rediff-store">Rediff</a></li>
 <li><a href="/in/deals/fabfurnish-store">FabFurnish</a></li>
 <li><a href="/in/deals/homeshop18-store">Homeshop18</a></li>
 <li><a href="/in/deals/jabong-store">Jabong</a></li>
@@ -588,8 +626,8 @@
 		
 		
 	<div class="col-lg-12 foot-store-list">                                     
-                                                <h2 class="footer-top-stores">Categories</h2>
-                                       <span class="collapse-full"><button class="more cats" data-toggle="collapse" data-target="#mobile-tablets-and-accessories"><span class="foot-arrow-down"></span>Mobile, Tablets and Accessories</button></span><ul class="collapse in collapsebox" id="mobile-tablets-and-accessories"><li><b><a href="/in/deals/mobile-tablets-and-accessories">Mobile, Tablets and Accessories</a></b>|</li><li><a href="/in/deals/mobiles">Mobiles</a>|</li><li><a href="/in/deals/cases-and-covers">Cases and Covers</a>|</li><li><a href="/in/deals/headphones-and-headsets">Headphones and Headsets</a>|</li><li><a href="/in/deals/mobile-accessories">Mobile Accessories</a>|</li><li><a href="/in/deals/power-banks">Power Banks</a>|</li><li><a href="/in/deals/screen-guards">Screen Guards</a>|</li><li><a href="/in/deals/memory-cards">Memory Cards</a>|</li><li><a href="/in/deals/smart-watches">Smart Watches</a>|</li><li><a href="/in/deals/chargers">Chargers</a>|</li><li><a href="/in/deals/mobile-and-tablet-cables">Mobile and Tablet Cables</a>|</li><li><a href="/in/deals/portable-speakers">Portable Speakers</a>|</li><li><a href="/in/deals/selfie-sticks">Selfie sticks</a>|</li><li><a href="/in/deals/tablets">Tablets</a></li></ul><span class="collapse-full"><button class="more cats" data-toggle="collapse" data-target="#computers-and-accessories"><span class="foot-arrow-down"></span>Computers and Accessories</button></span><ul class="collapse in collapsebox" id="computers-and-accessories"><li><b><a href="/in/deals/computers-and-accessories">Computers and Accessories</a></b>|</li><li><a href="/in/deals/laptops">Laptops</a>|</li><li><a href="/in/deals/pen-drives">Pen drives</a>|</li><li><a href="/in/deals/flash-storage-and-memory">Flash Storage and Memory</a>|</li><li><a href="/in/deals/laptop-bags">Laptop Bags</a>|</li><li><a href="/in/deals/computer-accessories">Computer accessories</a>|</li><li><a href="/in/deals/monitors">Monitors</a>|</li><li><a href="/in/deals/routers">Routers </a>|</li><li><a href="/in/deals/software-and-gaming">Software and Gaming</a>|</li><li><a href="/in/deals/computer-and-laptop-parts">Computer and Laptop parts</a>|</li><li><a href="/in/deals/keyboard">Keyboard</a>|</li><li><a href="/in/deals/wireless">Wireless</a></li></ul><span class="collapse-full"><button class="more cats" data-toggle="collapse" data-target="#books-music-and-movies"><span class="foot-arrow-down"></span>Books, Music and Movies</button></span><ul class="collapse in collapsebox" id="books-music-and-movies"><li><b><a href="/in/deals/books-music-and-movies">Books, Music and Movies</a></b></li></ul><span class="collapse-full"><button class="more cats" data-toggle="collapse" data-target="#electronics"><span class="foot-arrow-down"></span>Electronics</button></span><ul class="collapse in collapsebox" id="electronics"><li><b><a href="/in/deals/electronics">Electronics</a></b>|</li><li><a href="/in/deals/tv">TV</a>|</li><li><a href="/in/deals/speakers">Speakers</a>|</li><li><a href="/in/deals/extension-cords">Extension Cords</a>|</li><li><a href="/in/deals/cameras">Cameras</a>|</li><li><a href="/in/deals/electronics">Electronics</a>|</li><li><a href="/in/deals/audio-players">Audio players</a>|</li><li><a href="/in/deals/camera-accessories">Camera Accessories</a>|</li><li><a href="/in/deals/landlines">Landlines</a></li></ul><span class="collapse-full"><button class="more cats" data-toggle="collapse" data-target="#fashion"><span class="foot-arrow-down"></span>Fashion</button></span><ul class="collapse in collapsebox" id="fashion"><li><b><a href="/in/deals/fashion">Fashion</a></b>|</li><li><a href="/in/deals/women-dresses">Women Dresses</a>|</li><li><a href="/in/deals/men-footwear">Men Footwear</a>|</li><li><a href="/in/deals/mens-t-shirts">Men's T-shirts</a>|</li><li><a href="/in/deals/sarees">Sarees</a>|</li><li><a href="/in/deals/kurtis">Kurtis</a>|</li><li><a href="/in/deals/men-shirts">Men Shirts</a>|</li><li><a href="/in/deals/winter-wear">Winter wear</a>|</li><li><a href="/in/deals/lounge-wear">Lounge Wear</a>|</li><li><a href="/in/deals/lingerie-and-night-wear">Lingerie and Night wear</a>|</li><li><a href="/in/deals/mens-jeans">Men's Jeans</a>|</li><li><a href="/in/deals/men-watches">Men Watches</a>|</li><li><a href="/in/deals/women-bags-and-wallets">Women Bags and Wallets</a>|</li><li><a href="/in/deals/bags-and-wallets">Bags and wallets</a>|</li><li><a href="/in/deals/men-sunglasses">Men Sunglasses</a>|</li><li><a href="/in/deals/mens-pants">Men's Pants</a>|</li><li><a href="/in/deals/men-clothing">Men Clothing</a>|</li><li><a href="/in/deals/necklace">Necklace</a>|</li><li><a href="/in/deals/sports-wear-for-men">Sports Wear for Men</a>|</li><li><a href="/in/deals/women-footwear">Women Footwear</a>|</li><li><a href="/in/deals/women-watches">Women Watches</a>|</li><li><a href="/in/deals/kids-dresses">Kids Dresses</a>|</li><li><a href="/in/deals/kids-footwear">Kids Footwear</a>|</li><li><a href="/in/deals/winter-wear-for-women">Winter Wear for Women</a>|</li><li><a href="/in/deals/women-shirts">Women Shirts</a>|</li><li><a href="/in/deals/mens-fashion">Men's Fashion</a>|</li><li><a href="/in/deals/skirts">Skirts</a>|</li><li><a href="/in/deals/women-pants">Women Pants</a>|</li><li><a href="/in/deals/christmas-wear">Christmas Wear</a>|</li><li><a href="/in/deals/jewellery">Jewellery</a>|</li><li><a href="/in/deals/ear-rings">Ear rings</a>|</li><li><a href="/in/deals/women-clothing">Women Clothing</a>|</li><li><a href="/in/deals/accessories-for-men">Accessories for Men</a>|</li><li><a href="/in/deals/bracelets-for-men">Bracelets for Men</a>|</li><li><a href="/in/deals/sports-wear-for-women">Sports Wear for Women</a>|</li><li><a href="/in/deals/women-sunglasses">Women Sunglasses</a>|</li><li><a href="/in/deals/womens-fashion">Women's Fashion</a>|</li><li><a href="/in/deals/bands">Bands</a>|</li><li><a href="/in/deals/fashion">Fashion</a>|</li><li><a href="/in/deals/kids-watches">Kids Watches</a>|</li><li><a href="/in/deals/baby-and-kids-fashion">Baby and Kids Fashion</a>|</li><li><a href="/in/deals/bangles">Bangles</a>|</li><li><a href="/in/deals/girls-tops-and-t-shirts">Girls Tops and T-Shirts</a></li></ul><span class="collapse-full"><button class="more cats" data-toggle="collapse" data-target="#health-and-personal-care"><span class="foot-arrow-down"></span>Health and Personal Care</button></span><ul class="collapse in collapsebox" id="health-and-personal-care"><li><b><a href="/in/deals/health-and-personal-care">Health and Personal Care</a></b>|</li><li><a href="/in/deals/skin-care">Skin care</a>|</li><li><a href="/in/deals/makeup">Makeup</a>|</li><li><a href="/in/deals/perfumes">Perfumes</a>|</li><li><a href="/in/deals/trimmers">Trimmers</a>|</li><li><a href="/in/deals/baby-care">Baby Care</a>|</li><li><a href="/in/deals/health-and-personal-care">Health and Personal Care</a>|</li><li><a href="/in/deals/hair-care">Hair Care</a>|</li><li><a href="/in/deals/oral-care">Oral care</a>|</li><li><a href="/in/deals/health-care">Health care</a>|</li><li><a href="/in/deals/nail-polish-and-removers">Nail polish and Removers</a>|</li><li><a href="/in/deals/women-perfumes">Women Perfumes</a>|</li><li><a href="/in/deals/handwash-and-sanitizers">Handwash and sanitizers</a>|</li><li><a href="/in/deals/sexual-wellness">Sexual wellness</a></li></ul><span class="collapse-full"><button class="more cats" data-toggle="collapse" data-target="#home-and-kitchen-appliances"><span class="foot-arrow-down"></span>Home and Kitchen Appliances</button></span><ul class="collapse in collapsebox" id="home-and-kitchen-appliances"><li><b><a href="/in/deals/home-and-kitchen-appliances">Home and Kitchen Appliances</a></b>|</li><li><a href="/in/deals/home-decor">Home Decor</a>|</li><li><a href="/in/deals/bottles">Bottles</a>|</li><li><a href="/in/deals/kitchen-and-dining">Kitchen and Dining</a>|</li><li><a href="/in/deals/christmas-decoration">Christmas Decoration</a>|</li><li><a href="/in/deals/lighting">Lighting</a>|</li><li><a href="/in/deals/choppers">Choppers</a>|</li><li><a href="/in/deals/bathroom-accessories">Bathroom Accessories</a>|</li><li><a href="/in/deals/furniture">Furniture</a>|</li><li><a href="/in/deals/car-and-bike-accessories">Car and Bike Accessories</a>|</li><li><a href="/in/deals/containers">Containers</a>|</li><li><a href="/in/deals/cookware">Cookware</a>|</li><li><a href="/in/deals/bed-room">Bed room</a>|</li><li><a href="/in/deals/tools">Tools</a>|</li><li><a href="/in/deals/air-conditioners">Air Conditioners</a>|</li><li><a href="/in/deals/medical-supplies-and-equipment">Medical Supplies and Equipment</a>|</li><li><a href="/in/deals/towels">Towels</a>|</li><li><a href="/in/deals/christmas-trees">Christmas Trees</a>|</li><li><a href="/in/deals/geysers">Geysers</a>|</li><li><a href="/in/deals/heaters">Heaters</a>|</li><li><a href="/in/deals/grocery">Grocery</a>|</li><li><a href="/in/deals/lunch-boxes">Lunch boxes</a>|</li><li><a href="/in/deals/makers-and-churners">Makers and Churners</a>|</li><li><a href="/in/deals/mixers">Mixers</a>|</li><li><a href="/in/deals/refrigerators">Refrigerators</a>|</li><li><a href="/in/deals/washing-machines">Washing machines</a>|</li><li><a href="/in/deals/safety-and-security">Safety and Security</a>|</li><li><a href="/in/deals/home-and-kitchen-appliances">Home and Kitchen Appliances</a>|</li><li><a href="/in/deals/stoves">Stoves</a>|</li><li><a href="/in/deals/clocks">Clocks</a>|</li><li><a href="/in/deals/irons">Irons</a>|</li><li><a href="/in/deals/storage-and-cleaning">Storage and cleaning</a>|</li><li><a href="/in/deals/vaccums">Vaccums</a>|</li><li><a href="/in/deals/water-purifiers">Water Purifiers</a>|</li><li><a href="/in/deals/appliances">Appliances</a>|</li><li><a href="/in/deals/carpets">Carpets</a>|</li><li><a href="/in/deals/coffee-makers">Coffee makers</a>|</li><li><a href="/in/deals/gardening">Gardening</a>|</li><li><a href="/in/deals/microwovens">Microwovens</a>|</li><li><a href="/in/deals/plates">Plates</a>|</li><li><a href="/in/deals/dust-bins">Dust bins</a>|</li><li><a href="/in/deals/fans">Fans</a>|</li><li><a href="/in/deals/mattresses">Mattresses</a>|</li><li><a href="/in/deals/bed-sheets">Bed sheets</a>|</li><li><a href="/in/deals/toasters">Toasters</a></li></ul><span class="collapse-full"><button class="more cats" data-toggle="collapse" data-target="#sports-and-fitness"><span class="foot-arrow-down"></span>Sports and Fitness</button></span><ul class="collapse in collapsebox" id="sports-and-fitness"><li><b><a href="/in/deals/sports-and-fitness">Sports and Fitness</a></b>|</li><li><a href="/in/deals/exercise-and-fitness">Exercise and Fitness</a>|</li><li><a href="/in/deals/sports-apparel">Sports Apparel</a>|</li><li><a href="/in/deals/sports-and-fitness">Sports and Fitness</a>|</li><li><a href="/in/deals/football">Football</a>|</li><li><a href="/in/deals/other-sports-and-outdoors">Other Sports and Outdoors</a>|</li><li><a href="/in/deals/badminton">Badminton</a></li></ul><span class="collapse-full"><button class="more cats" data-toggle="collapse" data-target="#baby-kids-and-toys"><span class="foot-arrow-down"></span>Baby, Kids and Toys</button></span><ul class="collapse in collapsebox" id="baby-kids-and-toys"><li><b><a href="/in/deals/baby-kids-and-toys">Baby, Kids and Toys</a></b>|</li><li><a href="/in/deals/toys">Toys</a>|</li><li><a href="/in/deals/kids-school-supplies">Kids School Supplies</a>|</li><li><a href="/in/deals/baby-and-diapering">Baby and Diapering</a>|</li><li><a href="/in/deals/baby-kids-and-toys">Baby, Kids and Toys</a></li></ul><span class="collapse-full"><button class="more cats" data-toggle="collapse" data-target="#travel"><span class="foot-arrow-down"></span>Travel</button></span><ul class="collapse in collapsebox" id="travel"><li><b><a href="/in/deals/travel">Travel</a></b>|</li><li><a href="/in/deals/lugguage-accessories">Lugguage Accessories</a>|</li><li><a href="/in/deals/travel">Travel</a>|</li><li><a href="/in/deals/flights">Flights</a>|</li><li><a href="/in/deals/hotels">Hotels</a></li></ul>                              
+                                                <h4 class="footer-top-stores">Categories</h4>
+                                       <span class="collapse-full"><button class="more cats" data-toggle="collapse" data-target="#mobile-tablets-and-accessories"><span class="foot-arrow-down"></span>Mobile, Tablets and Accessories</button></span><ul class="collapse in collapsebox top-space-15" id="mobile-tablets-and-accessories"><li><b><a href="/in/deals/mobile-tablets-and-accessories">Mobile, Tablets and Accessories</a></b>|</li><li><a href="/in/deals/mobiles">Mobiles</a>|</li><li><a href="/in/deals/cases-and-covers">Cases and Covers</a>|</li><li><a href="/in/deals/headphones-and-headsets">Headphones and Headsets</a>|</li><li><a href="/in/deals/power-banks">Power Banks</a>|</li><li><a href="/in/deals/mobile-and-tablet-cables">Mobile and Tablet Cables</a>|</li><li><a href="/in/deals/screen-guards">Screen Guards</a>|</li><li><a href="/in/deals/chargers">Chargers</a>|</li><li><a href="/in/deals/mobile-accessories">Mobile Accessories</a>|</li><li><a href="/in/deals/memory-cards">Memory Cards</a>|</li><li><a href="/in/deals/portable-speakers">Portable Speakers</a>|</li><li><a href="/in/deals/tablets">Tablets</a>|</li><li><a href="/in/deals/smart-watches">Smart Watches</a>|</li><li><a href="/in/deals/selfie-sticks">Selfie sticks</a>|</li><li><a href="/in/deals/mobile-and-tablet-batteries">Mobile and Tablet Batteries</a>|</li><li><a href="/in/deals/mobile-tablets-and-accessories">Mobile, Tablets and Accessories</a></li></ul><span class="collapse-full"><button class="more cats" data-toggle="collapse" data-target="#computers-and-accessories"><span class="foot-arrow-down"></span>Computers and Accessories</button></span><ul class="collapse in collapsebox top-space-15" id="computers-and-accessories"><li><b><a href="/in/deals/computers-and-accessories">Computers and Accessories</a></b>|</li><li><a href="/in/deals/laptops">Laptops</a>|</li><li><a href="/in/deals/laptop-bags">Laptop Bags</a>|</li><li><a href="/in/deals/pen-drives">Pen drives</a>|</li><li><a href="/in/deals/software-and-gaming">Software and Gaming</a>|</li><li><a href="/in/deals/mouse">Mouse </a>|</li><li><a href="/in/deals/computer-accessories">Computer accessories</a>|</li><li><a href="/in/deals/hard-disk">Hard disk</a>|</li><li><a href="/in/deals/keyboard">Keyboard</a>|</li><li><a href="/in/deals/routers">Routers </a>|</li><li><a href="/in/deals/monitors">Monitors</a>|</li><li><a href="/in/deals/gaming">Gaming</a>|</li><li><a href="/in/deals/computer-and-laptop-parts">Computer and Laptop parts</a>|</li><li><a href="/in/deals/wireless">Wireless</a>|</li><li><a href="/in/deals/computers-and-accessories">Computers and Accessories</a>|</li><li><a href="/in/deals/flash-storage-and-memory">Flash Storage and Memory</a>|</li><li><a href="/in/deals/modems">Modems</a>|</li><li><a href="/in/deals/data-cards">Data Cards</a>|</li><li><a href="/in/deals/softwares">Softwares</a>|</li><li><a href="/in/deals/mouse-pads">Mouse Pads</a>|</li><li><a href="/in/deals/cd-and-dvd">CD and DVD</a>|</li><li><a href="/in/deals/internet-and-networking">Internet and Networking</a>|</li><li><a href="/in/deals/printers">Printers</a></li></ul><span class="collapse-full"><button class="more cats" data-toggle="collapse" data-target="#books-music-and-movies"><span class="foot-arrow-down"></span>Books, Music and Movies</button></span><ul class="collapse in collapsebox top-space-15" id="books-music-and-movies"><li><b><a href="/in/deals/books-music-and-movies">Books, Music and Movies</a></b>|</li><li><a href="/in/deals/books">Books</a>|</li><li><a href="/in/deals/books-music-and-movies">Books, Music and Movies</a></li></ul><span class="collapse-full"><button class="more cats" data-toggle="collapse" data-target="#electronics"><span class="foot-arrow-down"></span>Electronics</button></span><ul class="collapse in collapsebox top-space-15" id="electronics"><li><b><a href="/in/deals/electronics">Electronics</a></b>|</li><li><a href="/in/deals/speakers">Speakers</a>|</li><li><a href="/in/deals/tv">TV</a>|</li><li><a href="/in/deals/electronics">Electronics</a>|</li><li><a href="/in/deals/cameras">Cameras</a>|</li><li><a href="/in/deals/extension-cords">Extension Cords</a>|</li><li><a href="/in/deals/camera-accessories">Camera Accessories</a>|</li><li><a href="/in/deals/cable-accessories">Cable Accessories</a>|</li><li><a href="/in/deals/audio-players">Audio players</a>|</li><li><a href="/in/deals/batteries">Batteries</a>|</li><li><a href="/in/deals/lenses">Lenses</a>|</li><li><a href="/in/deals/landlines">Landlines</a>|</li><li><a href="/in/deals/video-players">Video players</a>|</li><li><a href="/in/deals/tv-and-entertainment">TV and Entertainment</a>|</li><li><a href="/in/deals/point-and-shoot">Point and Shoot</a></li></ul><span class="collapse-full"><button class="more cats" data-toggle="collapse" data-target="#fashion"><span class="foot-arrow-down"></span>Fashion</button></span><ul class="collapse in collapsebox top-space-15" id="fashion"><li><b><a href="/in/deals/fashion">Fashion</a></b>|</li><li><a href="/in/deals/women-dresses">Women Dresses</a>|</li><li><a href="/in/deals/men-footwear">Men Footwear</a>|</li><li><a href="/in/deals/mens-t-shirts">Men's T-shirts</a>|</li><li><a href="/in/deals/men-shirts">Men Shirts</a>|</li><li><a href="/in/deals/kurtis">Kurtis</a>|</li><li><a href="/in/deals/sarees">Sarees</a>|</li><li><a href="/in/deals/women-footwear">Women Footwear</a>|</li><li><a href="/in/deals/bags-and-wallets">Bags and wallets</a>|</li><li><a href="/in/deals/women-bags-and-wallets">Women Bags and Wallets</a>|</li><li><a href="/in/deals/mens-jeans">Men's Jeans</a>|</li><li><a href="/in/deals/men-watches">Men Watches</a>|</li><li><a href="/in/deals/kids-dresses">Kids Dresses</a>|</li><li><a href="/in/deals/men-sunglasses">Men Sunglasses</a>|</li><li><a href="/in/deals/sports-wear-for-men">Sports Wear for Men</a>|</li><li><a href="/in/deals/necklace">Necklace</a>|</li><li><a href="/in/deals/mens-pants">Men's Pants</a>|</li><li><a href="/in/deals/lounge-wear">Lounge Wear</a>|</li><li><a href="/in/deals/women-shirts">Women Shirts</a>|</li><li><a href="/in/deals/winter-wear">Winter wear</a>|</li><li><a href="/in/deals/ear-rings">Ear rings</a>|</li><li><a href="/in/deals/lingerie-and-night-wear">Lingerie and Night wear</a>|</li><li><a href="/in/deals/women-watches">Women Watches</a>|</li><li><a href="/in/deals/men-clothing">Men Clothing</a>|</li><li><a href="/in/deals/kids-footwear">Kids Footwear</a>|</li><li><a href="/in/deals/women-pants">Women Pants</a>|</li><li><a href="/in/deals/jewellery">Jewellery</a>|</li><li><a href="/in/deals/skirts">Skirts</a>|</li><li><a href="/in/deals/women-sunglasses">Women Sunglasses</a>|</li><li><a href="/in/deals/winter-wear-for-women">Winter Wear for Women</a>|</li><li><a href="/in/deals/mens-fashion">Men's Fashion</a>|</li><li><a href="/in/deals/bangles">Bangles</a>|</li><li><a href="/in/deals/bracelets-for-men">Bracelets for Men</a>|</li><li><a href="/in/deals/accessories-for-men">Accessories for Men</a>|</li><li><a href="/in/deals/womens-fashion">Women's Fashion</a>|</li><li><a href="/in/deals/sports-wear-for-women">Sports Wear for Women</a>|</li><li><a href="/in/deals/rings">Rings</a>|</li><li><a href="/in/deals/bracelets-for-women">Bracelets for Women</a>|</li><li><a href="/in/deals/women-clothing">Women Clothing</a>|</li><li><a href="/in/deals/kids-watches">Kids Watches</a>|</li><li><a href="/in/deals/fashion">Fashion</a>|</li><li><a href="/in/deals/bands">Bands</a>|</li><li><a href="/in/deals/eyeglasses-men">Men Eyeglasses</a>|</li><li><a href="/in/deals/baby-and-kids-fashion">Baby and Kids Fashion</a>|</li><li><a href="/in/deals/chains">Chains</a>|</li><li><a href="/in/deals/rakhis">Rakhis</a>|</li><li><a href="/in/deals/eyeglasses-women">Women Eyeglasses</a>|</li><li><a href="/in/deals/girls-tops-and-t-shirts">Girls Tops and T-Shirts</a>|</li><li><a href="/in/deals/boys-t-shirts">Boys T-Shirts</a>|</li><li><a href="/in/deals/girls-jeans-and-trousers">Girls Jeans and Trousers</a>|</li><li><a href="/in/deals/kids-shirts">Kids Shirts</a></li></ul><span class="collapse-full"><button class="more cats" data-toggle="collapse" data-target="#health-and-personal-care"><span class="foot-arrow-down"></span>Health and Personal Care</button></span><ul class="collapse in collapsebox top-space-15" id="health-and-personal-care"><li><b><a href="/in/deals/health-and-personal-care">Health and Personal Care</a></b>|</li><li><a href="/in/deals/skin-care">Skin care</a>|</li><li><a href="/in/deals/hair-care">Hair Care</a>|</li><li><a href="/in/deals/makeup">Makeup</a>|</li><li><a href="/in/deals/health-and-personal-care">Health and Personal Care</a>|</li><li><a href="/in/deals/perfumes">Perfumes</a>|</li><li><a href="/in/deals/trimmers">Trimmers</a>|</li><li><a href="/in/deals/nutrition-and-food">Nutrition and food</a>|</li><li><a href="/in/deals/baby-care">Baby Care</a>|</li><li><a href="/in/deals/oral-care">Oral care</a>|</li><li><a href="/in/deals/razors">Razors</a>|</li><li><a href="/in/deals/women-perfumes">Women Perfumes</a>|</li><li><a href="/in/deals/health-care">Health care</a>|</li><li><a href="/in/deals/handwash-and-sanitizers">Handwash and sanitizers</a>|</li><li><a href="/in/deals/sexual-wellness">Sexual wellness</a>|</li><li><a href="/in/deals/nail-polish-and-removers">Nail polish and Removers</a>|</li><li><a href="/in/deals/shampoos">Shampoos</a>|</li><li><a href="/in/deals/kajal">Kajal</a></li></ul><span class="collapse-full"><button class="more cats" data-toggle="collapse" data-target="#home-and-kitchen-appliances"><span class="foot-arrow-down"></span>Home and Kitchen Appliances</button></span><ul class="collapse in collapsebox top-space-15" id="home-and-kitchen-appliances"><li><b><a href="/in/deals/home-and-kitchen-appliances">Home and Kitchen Appliances</a></b>|</li><li><a href="/in/deals/home-decor">Home Decor</a>|</li><li><a href="/in/deals/bed-room">Bed room</a>|</li><li><a href="/in/deals/kitchen-and-dining">Kitchen and Dining</a>|</li><li><a href="/in/deals/furniture">Furniture</a>|</li><li><a href="/in/deals/grocery">Grocery</a>|</li><li><a href="/in/deals/bottles">Bottles</a>|</li><li><a href="/in/deals/cookware">Cookware</a>|</li><li><a href="/in/deals/lighting">Lighting</a>|</li><li><a href="/in/deals/towels">Towels</a>|</li><li><a href="/in/deals/containers">Containers</a>|</li><li><a href="/in/deals/choppers">Choppers</a>|</li><li><a href="/in/deals/tools">Tools</a>|</li><li><a href="/in/deals/home-and-kitchen-appliances">Home and Kitchen Appliances</a>|</li><li><a href="/in/deals/bathroom-accessories">Bathroom Accessories</a>|</li><li><a href="/in/deals/lunch-boxes">Lunch boxes</a>|</li><li><a href="/in/deals/clocks">Clocks</a>|</li><li><a href="/in/deals/medical-supplies-and-equipment">Medical Supplies and Equipment</a>|</li><li><a href="/in/deals/mixers">Mixers</a>|</li><li><a href="/in/deals/makers-and-churners">Makers and Churners</a>|</li><li><a href="/in/deals/car-and-bike-accessories">Car and Bike Accessories</a>|</li><li><a href="/in/deals/bed-sheets">Bed sheets</a>|</li><li><a href="/in/deals/storage-and-cleaning">Storage and cleaning</a>|</li><li><a href="/in/deals/carpets">Carpets</a>|</li><li><a href="/in/deals/irons">Irons</a>|</li><li><a href="/in/deals/fans">Fans</a>|</li><li><a href="/in/deals/vaccums">Vaccums</a>|</li><li><a href="/in/deals/air-conditioners">Air Conditioners</a>|</li><li><a href="/in/deals/gardening">Gardening</a>|</li><li><a href="/in/deals/heaters">Heaters</a>|</li><li><a href="/in/deals/plates">Plates</a>|</li><li><a href="/in/deals/stoves">Stoves</a>|</li><li><a href="/in/deals/microwovens">Microwovens</a>|</li><li><a href="/in/deals/refrigerators">Refrigerators</a>|</li><li><a href="/in/deals/washing-machines">Washing machines</a>|</li><li><a href="/in/deals/mattresses">Mattresses</a>|</li><li><a href="/in/deals/safety-and-security">Safety and Security</a>|</li><li><a href="/in/deals/water-purifiers">Water Purifiers</a>|</li><li><a href="/in/deals/air-coolers">Air coolers</a>|</li><li><a href="/in/deals/appliances">Appliances</a>|</li><li><a href="/in/deals/toasters">Toasters</a>|</li><li><a href="/in/deals/geysers">Geysers</a>|</li><li><a href="/in/deals/dust-bins">Dust bins</a>|</li><li><a href="/in/deals/show-pieces">Show pieces</a>|</li><li><a href="/in/deals/coffee-makers">Coffee makers</a>|</li><li><a href="/in/deals/laundry-bags">Laundry bags</a>|</li><li><a href="/in/deals/detergents">Detergents</a>|</li><li><a href="/in/deals/ups">UPS</a>|</li><li><a href="/in/deals/dish-washers">Dish washers</a>|</li><li><a href="/in/deals/inverters">Inverters</a>|</li><li><a href="/in/deals/christmas-decoration">Christmas Decoration</a>|</li><li><a href="/in/deals/blenders">Blenders</a></li></ul><span class="collapse-full"><button class="more cats" data-toggle="collapse" data-target="#sports-and-fitness"><span class="foot-arrow-down"></span>Sports and Fitness</button></span><ul class="collapse in collapsebox top-space-15" id="sports-and-fitness"><li><b><a href="/in/deals/sports-and-fitness">Sports and Fitness</a></b>|</li><li><a href="/in/deals/exercise-and-fitness">Exercise and Fitness</a>|</li><li><a href="/in/deals/sports-apparel">Sports Apparel</a>|</li><li><a href="/in/deals/badminton">Badminton</a>|</li><li><a href="/in/deals/cricket">Cricket</a>|</li><li><a href="/in/deals/sports-and-fitness">Sports and Fitness</a>|</li><li><a href="/in/deals/football">Football</a>|</li><li><a href="/in/deals/other-sports-and-outdoors">Other Sports and Outdoors</a>|</li><li><a href="/in/deals/lawn-tennis">Lawn Tennis</a></li></ul><span class="collapse-full"><button class="more cats" data-toggle="collapse" data-target="#baby-kids-and-toys"><span class="foot-arrow-down"></span>Baby, Kids and Toys</button></span><ul class="collapse in collapsebox top-space-15" id="baby-kids-and-toys"><li><b><a href="/in/deals/baby-kids-and-toys">Baby, Kids and Toys</a></b>|</li><li><a href="/in/deals/toys">Toys</a>|</li><li><a href="/in/deals/kids-school-supplies">Kids School Supplies</a>|</li><li><a href="/in/deals/baby-and-diapering">Baby and Diapering</a>|</li><li><a href="/in/deals/baby-kids-and-toys">Baby, Kids and Toys</a>|</li><li><a href="/in/deals/lunch-box-and-water-bottles">Lunch Box and Water Bottles</a></li></ul><span class="collapse-full"><button class="more cats" data-toggle="collapse" data-target="#travel"><span class="foot-arrow-down"></span>Travel</button></span><ul class="collapse in collapsebox top-space-15" id="travel"><li><b><a href="/in/deals/travel">Travel</a></b>|</li><li><a href="/in/deals/domestic-hotel-booking">Domestic Hotel Booking</a>|</li><li><a href="/in/deals/domestic-flight">Domestic Flight Booking</a>|</li><li><a href="/in/deals/travel">Travel</a>|</li><li><a href="/in/deals/international-flight">International Flight Booking</a>|</li><li><a href="/in/deals/international-hotel-booking">International Hotel Booking</a>|</li><li><a href="/in/deals/bus">Bus Ticket Booking</a>|</li><li><a href="/in/deals/car-booking">Car Booking</a>|</li><li><a href="/in/deals/flights">Flight Booking</a>|</li><li><a href="/in/deals/hotels">Hotel Booking</a>|</li><li><a href="/in/deals/train-ticket-booking">Train Ticket Booking</a></li></ul>                              
                                                 
 </div>                                   
 
@@ -616,11 +654,11 @@
             
             <div class="connect">
                 <span class="con-with">Connect with</span>
-                <span><a href="https://www.facebook.com/dealplatter" target="_blank"><img src="http://data.dealplatter.com/deals/fb.png" alt="facebook" class="fb2"></a></span>
-                <span><a href="https://twitter.com/dealplatter" target="_blank"><img src="http://data.dealplatter.com/deals/twitter.png" alt="twitter" class="twit2"></a></span>
-                <span><a href="https://plus.google.com/u/0/104259201032585301807" target="_blank"><img src="http://data.dealplatter.com/deals/gplus.png" alt="Gplus" class="gplus2"></a></span>
-                <span><a href="https://in.pinterest.com/dealplatter/" target="_blank"><img src="http://graphic.dealplatter.com/deals/img/pint-pd.png" alt="Pinterst" class="pin2"></a></span>
-		 <!--<span><a href="#"><img src="http://data.dealplatter.com/deals/linkedin.png" alt="linkedin" class="linked2"></a></span> -->
+                <span><a href="https://www.facebook.com/dealplatter" target="_blank" class="fb2"></a></span>
+                <span><a href="https://twitter.com/dealplatter" target="_blank" class="twit2"></a></span>
+                <span><a href="https://plus.google.com/u/0/104259201032585301807" target="_blank" class="gplus2"></a></span>
+                <span><a href="https://in.pinterest.com/dealplatter/" target="_blank" class="pin2"></a></span>
+		 <!--<span><a href="#"><img src="https://data.dealplatter.com/deals/linkedin.png" alt="linkedin" class="linked2"></a></span> -->
             </div>
             
         </div>
@@ -644,20 +682,9 @@
                 
     </div>
                 
- <script>
- $(document).ready(function() {
+ 
 
-            var checkWidth = $(document).width();
 
-            if (checkWidth < 1024) {
-               $('.collapse').removeClass('in')
-            }
-
-        });
- </script>
-
-<link href="http://graphic.dealplatter.com/deals/css/signup.css" rel="stylesheet">
-<script async="" src="http://graphic.dealplatter.com/deals/js/register.js"></script>	
     
     <div class="modal fade bs-modal-sm" id="myModal" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog">
