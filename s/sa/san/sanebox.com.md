@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sanebox.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603122822id_/https%3A//www.sanebox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanebox.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519191249id_/https%3A//www.sanebox.com/privacy) for the most accurate reproduction.*
 
-# SaneBox Privacy Policy
+# Privacy Policy | SaneBox
 
 This policy describes the ways we collect, store, use and protect your personal information. You accepted this policy when you signed up for our Service. We may amend this policy at any time by posting a revised version on our website. The revised version will be effective at the time we post it. Should a revision prove unacceptable to you, please contact us (see below). We last modified this policy on March 2, 2010.
 
@@ -68,4 +68,4 @@ SaneBox, Inc.
 Boston MA 02116  
 
 
-or by leaving us a note: [http://support.sanebox.com](https://support.sanebox.com/requests/anonymous/new)
+or by leaving us a note: [https://support.sanebox.com](https://support.sanebox.com/requests/anonymous/new)
