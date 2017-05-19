@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalfree.nhs.uk privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909085138id_/https%3A//www.royalfree.nhs.uk/patients-visitors/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalfree.nhs.uk privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519115341id_/https%3A//www.royalfree.nhs.uk/patients-visitors/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | For patients, carers and visitors | The Royal Free
 
@@ -10,7 +10,7 @@ In the National Health Service (NHS), we aim to provide you with the highest qua
 
 The Data Protection Act controls how your personal information is used by organisations, businesses or the government. Under the Act the Royal Free London NHS Foundation Trust is defined as a ‘data controller’ of personal information. We collect information to help us provide and manage healthcare to our patients. The trust is registered with the Information Commissioners Office (registration number Z6460180).
 
-If you are looking for information about privacy while using our website, please [read our terms and conditions](http://www.royalfree.nhs.uk/about-us/corporate-information-and-accountability/terms-and-conditions).
+If you are looking for information about privacy while using our website, please [read our terms and conditions](https://www.royalfree.nhs.uk/about-us/corporate-information-and-accountability/terms-and-conditions).
 
 ## What kind of personal information does the trust collect?
 
@@ -41,6 +41,8 @@ Others in the NHS may also need to use records about you to:
 
 
 
+[Find out how we collect information about how you use our website](https://www.royalfree.nhs.uk/patients-visitors/privacy-statement/using-our-website).
+
 ## Information sharing with non-NHS organisations
 
 For your benefit we may need to share information from your health records with non-NHS organisations from whom you are also receiving direct care, such as social services or private healthcare organisations. We may also need to share your information, such as blood test results, for direct care processing purposes by a non-NHS organisation under an agreement with the Trust. We will always seek your permission to share your information with organisations for purposes other than your direct care. However, in exceptional situations we may need to share information without your permission if:
@@ -58,7 +60,7 @@ You have the right to withdraw and refuse consent to information sharing at any 
 
 ## How do I access information recorded about me?
 
-Under the Data Protection Act individuals have a right to access information that is held about them by an organisation. If you have undergone medical treatment at Barnet Hospital, Chase Farm Hospital or the Royal Free Hospital, [find out about accessing your health records](http://www.royalfree.nhs.uk/patients-visitors/your-health-records).
+Under the Data Protection Act individuals have a right to access information that is held about them by an organisation. If you have undergone medical treatment at Barnet Hospital, Chase Farm Hospital or the Royal Free Hospital, [find out about accessing your health records](https://www.royalfree.nhs.uk/patients-visitors/your-health-records).
 
 **For further information please contact:**
 
