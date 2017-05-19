@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the siteground.co.uk privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202055535id_/https%3A//www.siteground.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteground.co.uk privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519155318id_/https%3A//www.siteground.co.uk/privacy.htm) for the most accurate reproduction.*
 
-# SiteGround Web Hosting - Privacy Policy
+# Siteground Web Hosting - Privacy Policy Details
 
 ## SiteGround Privacy Policy
 
@@ -30,4 +30,4 @@ SiteGround reserves the right to change this Privacy Policy at any time. Such ch
 
 To report an incident of abuse, please email [abuse@siteground.com](mailto:abuse@siteground.com).
 
-Last update: 15 October 2012
+Published: November 2, 2015
