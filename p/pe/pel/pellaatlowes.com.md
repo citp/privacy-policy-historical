@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pellaatlowes.com privacy policy that was archived on 2016-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160825225414id_/http%3A//www.lowes.com/cd_Privacy%2Band%2BSecurity%2BStatement_137461171_) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pellaatlowes.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519083729id_/http%3A//www.lowes.com/cd_Privacy%2Band%2BSecurity%2BStatement_137461171_) for the most accurate reproduction.*
 
 # Lowe's Home Improvement U.S. Privacy Statement
 
@@ -24,7 +24,7 @@ In some cases, we may provide additional details about privacy practices specifi
 
 This Privacy Statement _does_ not apply to:
 
-  * Certain US subsidiaries, affiliates and product lines, which are subject to their own privacy statements and policies, including [Orchard Supply Company, LLC](http://www.osh.com/privacyPolicy), [Iris Smart Home](https://www.irissmarthome.com/myhome/terms), [ATGStores.com](https://www.atgstores.com/articles/policies_a6185.html?linkloc=404#PrivacyStatement) and [Alacrity Services](https://www.alacrityservices.com/privacy-policy/) or Lowe’s relationship with [Porch.com](https://porch.com/about/privacy/);
+  * Certain US subsidiaries, affiliates and product lines, which are subject to their own privacy statements and policies, including [Orchard Supply Company, LLC](http://www.osh.com/privacyPolicy), [Iris Smart Home](https://www.irisbylowes.com/privacy-statement/), [ATGStores.com](https://www.atgstores.com/articles/policies_a6185.html?linkloc=404#PrivacyStatement) and [Alacrity Services](https://www.alacrityservices.com/privacy-policy/) or Lowe’s relationship with [Porch.com](https://porch.com/about/privacy/);
   * Credit-related products (such as Lowe’s branded credit cards issued by banks), which are covered by the issuing banks’ privacy notices that appear on the credit applications or that you receive in connection with your credit accounts;
   * Third-party websites that are linked to or accessible from Lowe’s websites or that are operated by unaffiliated parties, even though the website may contain references to Lowe’s. For example, it does not apply to the Lowe’s Weekly Ads pages at lowes.shoplocal.com, which is operated by ShopLocal LLC, and governed by ShopLocal’s [privacy notice](http://lowes.shoplocal.com/Lowes/Legal/SLTerms/?ispartial=y&StoreID=2595833#privacy); and
   * Lowe’s employment-related records (other than job applicant information submitted through the Career Portal).
@@ -138,7 +138,7 @@ You may access the profile page of certain accounts that you maintain on our web
 
 ### Email
 
-To stop receiving marketing emails, you may click on the "Unsubscribe" link in any marketing email you receive from us and update your preferences on the resulting Web page. You may also update your email subscription choices within certain Lowe's authenticated accounts (such as MyLowe’s), or by contacting us as described in the [How to Contact Us](https://web.archive.org/l/privacy-and-security-statement.html#howtocontactus) section below.
+To stop receiving marketing emails, you may click on the "Unsubscribe" link in any marketing email you receive from us and update your preferences on the resulting Web page. You may also update your email subscription choices within certain Lowe's authenticated accounts (such as MyLowe’s), or by contacting us as described in the How to Contact Us section below.
 
 To stop receiving newsletters from Lowes.com, you also may email [customercare@lowes.com](mailto:customercare@lowes.com) with the phrase "REMOVE FROM NEWSLETTER LIST" in the subject line, and we will apply your preference to the email address from which you send us the request.
 
@@ -146,7 +146,7 @@ Please note that we may continue to send transactional emails, which contain inf
 
 ### Interest-Based and Other Targeted Advertising
 
-To exercise your preferences regarding the collection and use of data for online, interest-based and other targeted advertising, please follow the directions in the [Interest-Based and Other Targeted Advertising](https://web.archive.org/l/privacy-and-security-statement.html#interestadvertising) section below.
+To exercise your preferences regarding the collection and use of data for online, interest-based and other targeted advertising, please follow the directions in the Interest-Based and Other Targeted Advertising section below.
 
 ### In-Store Wi-Fi
 
@@ -162,7 +162,7 @@ To stop collection of information by our mobile applications, uninstall the appl
 
 We do not collect personally identifiable information about users’ online activities over time and across third-party websites and we do not process or respond to "Do Not Track" signals from your browser or other mechanisms that enable consumer choice regarding the collection of personal information about one's online activities over time and across third-party websites or online services.
 
-As described in the [Interest-Based Advertising](https://web.archive.org/l/privacy-and-security-statement.html#interestadvertising) section below, however, we do participate in online advertising networks administered by third parties, and we may share information about activities on our websites with those networks, which may track your online activities over time and across third-party websites.
+As described in the Interest-Based Advertising section below, however, we do participate in online advertising networks administered by third parties, and we may share information about activities on our websites with those networks, which may track your online activities over time and across third-party websites.
 
 ### Interest-Based and Other Targeted Advertising
 
@@ -200,8 +200,9 @@ This Privacy Statement may be updated periodically and without prior notice to y
 
 If you have questions or comments about this Privacy Statement, or if you would like us to update information we have about you or your preferences, please contact us as indicated below.
 
-Lowe's Customer Care  
-Attn: Privacy Team – CON8  
-P.O. Box 1111  
-North Wilkesboro, N.C. 28659  
-1-800-445-6937
+Lowe’s  
+Attn: Privacy NB6LG  
+1000 Lowe’s Blvd.  
+Mooresville, NC 28117  
+1-800-445-6937  
+[privacy@lowes.com](mailto:privacy@lowes.com)
