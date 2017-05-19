@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the exploretalent.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630212650id_/http%3A//www.exploretalent.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploretalent.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519065857id_/http%3A//www.exploretalent.com/about/privacy) for the most accurate reproduction.*
 
 # Explore Talent
-
-## Explore Talent Privacy Policy
 
 We at ExploreTalent.com, ("we" or " ExploreTalent.com") have created this privacy policy to demonstrate our firm commitment to protecting your personal information and informing you about our practices. This privacy policy only applies to transactions and activities in which you engage and gather data on the ExploreTalent.com Website, ExploreTalent.com email communications between ExploreTalent.com members (collectively, the "Site") but does not apply to any other Website or offline point of contact between ExploreTalent.com, or any other company, and consumers. Please review this privacy policy periodically as we may modify it from time to time. This privacy policy was last revised on December 14, 2011. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time.
 
@@ -54,4 +52,5 @@ We give you the opportunity to opt-out of certain communications and modify pers
 
 #### Contact Us
 
-If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can [Contact Us](https://web.archive.org/requests/index/contact)
+If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can [Contact Us](https://web.archive.org/requests/index/contact)   
+[Kids Privacy Policy](https://web.archive.org/about/kidsprivacy)
