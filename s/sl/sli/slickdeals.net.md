@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the slickdeals.net privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223073809id_/http%3A//slickdeals.net/corp/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slickdeals.net privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519025843id_/https%3A//slickdeals.net/corp/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Effective Date: November 23, 2016**
+**Effective Date: May 18, 2017**
 
 Slickdeals, LLC (“Slickdeals,” “we,” “us,” or “our”) values its users’ privacy on the Slickdeals web site (Slickdeals.net), mobile site and apps (“Properties”). This Privacy Policy pertains to the Services that we offer on our Properties. We have implemented this Privacy Policy to provide you with information about how Slickdeals collects, uses, and discloses information about you. By visiting our Properties or using our Services, you are agreeing to the practices described in this Privacy Policy.
 
@@ -14,6 +14,8 @@ Each time you use our Services, Slickdeals also collects other, non-personal inf
 
 If you log in via a third party service like Facebook or Google, we will collect the information described in the third party service’s request for authorization. This information may include your name, email address, gender, city, and state. You should review your privacy settings with these third party services to be sure you are only sharing information you wish to share.
 
+When you provide us with your address, we may use third-party services such as the Google Places API to help complete your address information after you begin to type it. We will combine the address information that we collect through this service with any other information that we collect from or about you, and we will use, retain, and share it as described in this Privacy Policy. Additionally, this address completion service allows Google to collect certain information as described below.
+
 **What About Cookies?**
 
 In addition, Slickdeals uses “cookies,” a small data string our server writes to your computer, and other technologies to help us manage and analyze your interaction with our Services. These technologies collect non-personal information linked to your browser that we use for a number of purposes, including improving our Services, keeping count of return visits to our Properties or our advertisers’ or partners’ websites, collecting and reporting statistical information about our users, saving your password and login information, and displaying advertising or content based on your interests. We may also collect information about your search criteria and results, the date and time of your visit to our Properties, and your connection speed and IP address. Third parties whose products or services are accessible or advertised via our Services may also use cookies on our Properties, and we encourage you to check their privacy policies for information about their information privacy practices. You may be able to refuse the use of cookies by selecting the appropriate settings on your browser; however, refusing to receive cookies may prevent you from being able to use the full functionality of our Properties.
@@ -21,6 +23,8 @@ In addition, Slickdeals uses “cookies,” a small data string our server write
 **Do Third Parties Collect My Information?**
 
 We use analytics services provided by third parties such as Google and Flurry. These companies use cookies and other technologies to collect data about your use of our Properties and other web sites over time. This information will be transmitted to and stored by our analytics providers, who will use this information for purposes such as evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to activity on our Properties and internet usage. These providers may also transfer this information to third parties where required to do so by law, or where such third parties process the information on their behalf. To learn more about how Google collects and processes data and the choices Google may offer to control these activities, you may visit [https://www.google.com/intl/en/policies/privacy/partners/.](https://www.google.com/intl/en/policies/privacy/partners/)
+
+As noted above, when you provide us with your address, we may use third-party services such as the Google Places API to help complete your address information after you begin to type it. This address completion service allows Google to collect the address information that you input, along with your IP address. To learn more about Google’s Privacy Policy, you may visit <http://www.google.com/policies/privacy/>.
 
 Please see below for information on how third parties may collect and use information on our Properties for interest-based advertising purposes, and for information on how Slickdeals may share the information that we collect with third parties.
 
@@ -103,7 +107,7 @@ If you are a parent or legal guardian of a child under 13 years old, and you bel
 
 **Updating Your Personal Information**
 
-You may review, update, or change information that you have provided to us, or request that we deactivate your account, by emailing us at [info@slickdeals.net.](https://web.archive.org/web/20161223073809id_/http%3A//slickdeals.net/corp/info@slickdeals.net) If you request that we deactivate your account, we may retain certain personal information in our archives for record-keeping purposes. We are not able to remove personal information from the records or databases of third parties with which we have already shared such information.
+You may review, update, or change information that you have provided to us, or request that we deactivate your account, by emailing us at [info@slickdeals.net.](https://web.archive.org/web/20170519025843id_/https%3A//slickdeals.net/corp/info@slickdeals.net) If you request that we deactivate your account, we may retain certain personal information in our archives for record-keeping purposes. We are not able to remove personal information from the records or databases of third parties with which we have already shared such information.
 
 **Does Slickdeals Ever Make Changes to its Privacy Policy?**
 
