@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fifacoin.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005852id_/http%3A//www.fifacoin.com/contents/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fifacoin.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519175507id_/http%3A//www.fifacoin.com/contents/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,7 @@ We'll collect the personal information you gave us including name and email addr
 When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only. If we ask for your personal information for a secondary reason, like subscribe to newsletters, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
 **3\. How Do You Withdraw Your Consent?**  
-If you change your mind after opt-in, you can withdraw your consent for us to contact you and for the continued collection, use or disclosure of your information at anytime by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you change your mind after opt-in, you can withdraw your consent for us to contact you and for the continued collection, use or disclosure of your information at anytime by contacting us at support#fifacoin.com（Replace "#" to "@"）
 
 **4\. Disclosure**  
 We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
@@ -34,4 +34,4 @@ By using this site, you represent that you are at least the age of majority in y
 We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it. If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
 **10\. Questions and Contact Information**  
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact us at support#fifacoin.com（Replace "#" to "@"）
