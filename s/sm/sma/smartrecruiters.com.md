@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartrecruiters.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601055458id_/https%3A//www.smartrecruiters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartrecruiters.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519023818id_/https%3A//www.smartrecruiters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SmartRecruiters
 
@@ -72,5 +72,4 @@ Personal data (as defined in Directive 95/46/EC or other relevant EU data protec
 
 We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from SmartRecruiters by following the “unsubscribe” link on communication received from SmartRecruiters or otherwise by contacting us at:
 
-– Email:   
-– Phone: 4155083755
+– Email: 
