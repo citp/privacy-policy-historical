@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planted.com privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804174515id_/https%3A//planted.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planted.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519043832id_/https%3A//www.planted.com/privacy_policy) for the most accurate reproduction.*
 
 # Planted: Grow Your Career at a Job You’ll Love
 
