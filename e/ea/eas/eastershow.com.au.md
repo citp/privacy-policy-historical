@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastershow.com.au privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606032425id_/http%3A//www.eastershow.com.au/globalassets/document-library/legal/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastershow.com.au privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519065941id_/https%3A//www.eastershow.com.au/globalassets/document-library/legal/privacy_policy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -38,14 +38,13 @@ consented, which will require disclosure of your personal information to these t
 third parties used are also bound by the Australian Privacy Principles, or if they are an international
 company, are bound by contract to adhere to the Australian Privacy Principles in order to protect
 the information.
-(02/14)
+(09/16)
 
 
 Access, Amendments and Complaints
 Access to this Privacy Policy is free, it is available online at:
  www.rasnsw.com.au,
 www.sydneyshowground.com.au
-www.sydneyroyal.com.au.
 You may also request a hardcopy of the Privacy Policy by contacting our Privacy Officer. You can
 request access to and alteration of personal information concerning yourself in accordance with the
 Privacy Laws. You may contact the RAS Privacy Officer by the following methods:
@@ -64,7 +63,7 @@ to:               General Manager, Corporate Services,
                   1 Showground Road, Sydney Olympic Park, 2127.
 If you are not content with the response from the RAS General Manager, you may wish to raise the
 issue with an external complaint body such as Office of Australian Information Commissioner (OAIC).
-By email          enquiries@oaic.gove.au
+By email          enquiries@oaic.gov.au
 By telephone (02) 9284 9666
 By post           Office of Australian Information Commissioner
                  GPO Box 5218,
@@ -78,7 +77,7 @@ The information you provide us may include:
          improve or maintain the functions and activities we offer you.
      (c) Sensitive Information that is required in order to process financial payments for example.
          This information will be kept only for the purpose of dealing with the transaction or matter.
-(02/14)
+(09/16)
 
 
 Consent - You could be asked to confirm that you would like to receive updates or will agree to a
@@ -111,14 +110,14 @@ follows:
          documents clearly on the front page. Deposits and pre-payment of operational services are
          often required so we keep your financial information secure until the end of the event when
          the refund and settlement of your account can be made.
-     3) Sydney Royal Competitions – The competitions for the Easter Show and Fine Food and Wine
-         Shows will all require personal information to be collected in order to hold the competition,
-         assess entries, create event timetables and schedules, to run the competition and provide
-         prize money cheques to the winners. During the competitions your personal information will
-         be listed in competition schedules and displayed on the internet. Winners of competitions
-         may be interviewed and your details will be kept in the RAS archives and kept in the History
-         Centre.
-(02/14)
+     3) Sydney Royal Competitions – The competitions for the Easter Show and Wine, Dairy & Fine
+         Food Shows will all require personal information to be collected in order to hold the
+         competition, assess entries, create event timetables and schedules, to run the competition
+         and provide prize money cheques to the winners. During the competitions your personal
+         information will be listed in competition schedules and displayed on the internet. Winners of
+         competitions may be interviewed and your details will be kept in the RAS archives and kept
+         in the History Centre.
+(09/16)
 
 
      4) Sydney Royal Easter Show – In addition to the Sydney Royal Competitions held, there are
@@ -152,9 +151,23 @@ follows:
         Cross-border disclosure may also be required for benchmarking or external storage of
         information, in which case having access to this Privacy Policy and providing your
         information is deemed to be consent to the cross-border disclosure.
+     8)  Third Parties and Cookies - The RAS use third party application tracking services such as
+        Google Analytics and Inspectlet to help understand the use of our Services and Site(s).
+        Information collected by Google is governed by Google's Privacy Policy
+        [https://www.google.com/policies/privacy/partners/]. We use the tool Inspectlet to analyse
+        the activities of visitors to our websites, and Inspectlet’s authorised use of cookies and other
+        tracking technologies enable it to have access to Personal Information of visitors to our
+        website. This tracking is to understand how our users interact with our products and
+        services. Inspectlet does not capture any personal information entered into any input form
+        on our website including but not limited to names, email addresses, address information or
+        payment information. Such access to and use of Personal Information by Inspectlet is
+        governed by Inspectlet’s Privacy Policy [https://www.inspectlet.com/legal#privacy].
+(09/16)
+
+
 The types of personal information collected in each RAS department is detailed on the following
 page.
-(02/14)
+(09/16)
 
 
                                           Sydney
@@ -182,4 +195,4 @@ page.
   Details about your
   children/family                 Yes         Yes                                                                  Yes
   Alternate contact for AAR                                                                  Yes
-(02/14)
+(09/16)
