@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naughtyjulie.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116030437id_/http%3A//www.naughtyjulie.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naughtyjulie.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519133232id_/http%3A//naughtyjulie.com/privacypolicy) for the most accurate reproduction.*
 
 # NaughtyJulie
 
@@ -70,6 +70,6 @@ We take measures to protect the transmission of all sensitive user information.Â
 
 **X.** **Where to Direct Questions About Our Privacy Policy**.
 
-If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [webmaster@naughtyjulie.com](https://web.archive.org/web/20161116030437id_/http%3A//www.naughtyjulie.com/webmaster@naughtyjulie.com)
+If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [webmaster@naughtyjulie.com](https://web.archive.org/web/20170519133232id_/http%3A//naughtyjulie.com/webmaster@naughtyjulie.com)
 
 **\- End -**
