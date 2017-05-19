@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalpassport.org privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206053002id_/https%3A//www.digitalpassport.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalpassport.org privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519085255id_/https%3A//www.digitalpassport.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Digital Passport
 
@@ -7,6 +7,8 @@
 Effective Date: August 08, 2016
 
 Common Sense Media’s Digital Passport website and mobile applications collect personal information from educators. They do not collect personal information directly from children. For all versions except the kids version, which is described in the following paragraph, educators upload information about their students, which our services use to generate logins for the students if the educator has not created logins. Only the educator who entered the information for a student can view the information of that student. Digital Passport does not collect personal information from any other third parties, including parents, as these services are intended for use only by educators and their students. 
+
+**As of April 2017, we are no longer offering or updating the Digital Passport App. Please continue to enjoy Digital Passport at[https://www.digitalpassport.org](https://www.digitalpassport.org/) and contact us with any questions at privacy@commonsense.org.**
 
 **I. Digital Passport**
 
