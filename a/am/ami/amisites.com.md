@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amisites.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119072613id_/http%3A//www.amisites.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amisites.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519185659id_/http%3A//www.amisites.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
