@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinegamesquad.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122221820id_/http%3A//maddwarf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinegamesquad.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519085345id_/http%3A//maddwarf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – MadDwarf.com
 
