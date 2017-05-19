@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remind.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118084412id_/https%3A//www.remind.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remind.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519043930id_/https%3A//www.remind.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Remind
 
@@ -394,4 +394,4 @@ We encourage you to contact us using the information provided here if you have a
 * * *
 
 Updated July 29, 2016   
-**© Remind101 2016** All rights reserved. 
+**© Remind101 2017** All rights reserved. 
