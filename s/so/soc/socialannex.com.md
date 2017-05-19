@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialannex.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119061105id_/http%3A//www.socialannex.com/public/index/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialannex.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519174502id_/https%3A//www.socialannex.com/privacy-policy) for the most accurate reproduction.*
 
 # Social Annex Privacy Policy
 
