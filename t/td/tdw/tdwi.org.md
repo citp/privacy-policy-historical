@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tdwi.org privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110034721id_/https%3A//1105media.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdwi.org privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519105858id_/https%3A//1105media.com/privacy.aspx) for the most accurate reproduction.*
 
 # 1105 Media Privacy Policy -- 1105 Media
 
