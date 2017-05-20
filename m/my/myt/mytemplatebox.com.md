@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytemplatebox.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119074009id_/http%3A//mytemplatez.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytemplatebox.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520224009id_/http%3A//www.mytemplatez.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
