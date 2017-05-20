@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mediafunnel.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402141417id_/http%3A//mediafunnel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediafunnel.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520211745id_/http%3A//mediafunnel.com/privacy-statement) for the most accurate reproduction.*
 
-# Cloud10Apps, Inc. ("MediaFunnel") Privacy Statement | MediaFunnel
+# Privacy Statement – MediaFunnel
 
-**Privacy Statement as of March 1, 2010**
+**Privacy Statement as of March 1, 2016**
 
-Cloud10Apps, Inc. (“MediaFunnel” or the “Company”) is committed to protecting the privacy of your information. This Privacy Statement describes MediaFunnel’s information practices.
+Companity, Inc. is committed to protecting the privacy of your information. This Privacy Statement describes MediaFunnel’s information practices.
 
 If you have any questions about this Privacy Statement, please contact MediaFunnel by email at info@mediafunnel.com.
 
@@ -90,4 +90,4 @@ MediaFunnel reserves the right to change this Privacy Statement.
 
 **10\. Contacting Us**
 
-Questions regarding this Privacy Statement or the information practices of the Company’s Web sites should be directed to MediaFunnel emailing info [at] mediafunnel [dot] com
+Questions regarding this Privacy Statement or the information practices of the Company’s Web sites should be directed to MediaFunnel emailing info@mediafunnel.com
