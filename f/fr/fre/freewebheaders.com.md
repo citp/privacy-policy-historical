@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewebheaders.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231234633id_/http%3A//www.freewebheaders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebheaders.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520153205id_/https%3A//www.freewebheaders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Web Headers
 
@@ -14,10 +14,8 @@ This site may contain links to other sites. Although we are very selective in ch
 
 Protecting your privacy is one of our highest priorities, but as with all Websites, ours may be vulnerable to service interruptions, intentional attacks, or other events that may compromise the security of our site and the information contained therein (including that which you provide). Accordingly, by submitting such information, you acknowledge and agree that ‘FreeWebHeaders.com’ is not responsible for any direct or consequential damages that may result from such events.
 
- _Note: Dear visitor, If you have any questions about this privacy statement, the practices of this site, or your dealings with the ‘FreeWebHeaders.com’ Web site, please don’t hesitate to[contact us](http://www.freewebheaders.com/contact/ "Contact us!")._
+_Note: Dear visitor, If you have any questions about this privacy statement, the practices of this site, or your dealings with the ‘FreeWebHeaders.com’ Web site, please don’t hesitate to[contact us](http://www.freewebheaders.com/contact/ "Contact us!")._
 
  
 
-_Dear visitor, if you download and use one of our headers on your website, or if you find our Website useful, it is always greatly appreciated to[link to us](http://www.freewebheaders.com/link-to-us/ "Link to us") OR you may [Like our page on Facebook](https://www.facebook.com/Free-Web-Headers-174945759210042/) to help spread the word about our website! … Thank you!_
-
- 
+_Dear visitor, if you download and use one of our headers on your website, or if you find our Website useful, it is always greatly appreciated to[link to us](https://www.freewebheaders.com/link-to-us/) OR you may [ Like our page on Facebook](https://www.facebook.com/Free-Web-Headers-174945759210042/) to help spread the word about our website! … Thank you!_
