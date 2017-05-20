@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.ie privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118223259id_/https%3A//www.vodafone.ie/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.ie privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520231456id_/https%3A//www.vodafone.ie/aboutus/privacy) for the most accurate reproduction.*
 
 # Vodafone Ireland's Privacy Policy | Vodafone Ireland
 
