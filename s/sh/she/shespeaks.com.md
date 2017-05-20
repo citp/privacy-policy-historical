@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shespeaks.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120025100id_/http%3A//www.shespeaks.com/pages/ftp/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shespeaks.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520232750id_/http%3A//www.shespeaks.com/pages/ftp/privacy_policy.html) for the most accurate reproduction.*
 
 # 
 
