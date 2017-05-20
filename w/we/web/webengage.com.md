@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webengage.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416181317id_/http%3A//webengage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webengage.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520110934id_/https%3A//webengage.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - WebEngage
 
-This Privacy Policy governs the manner in which Webklipper Technologies Private Limited collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://webengage.com](http://webengage.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Webklipper Technologies Private Limited.
+This Privacy Policy governs the manner in which Webklipper Technologies Private Limited collects, uses, maintains and discloses information collected from users (each, a "User") of the [https://webengage.com](https://webengage.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Webklipper Technologies Private Limited.
 
 **Personal identification information**
 
@@ -49,13 +49,13 @@ Webklipper Technologies Private Limited has the discretion to update this privac
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://webengage.com/tos). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://webengage.com/tos). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 Webklipper Technologies Private Limited  
-[http://webengage.com](http://webengage.com/)  
+[https://webengage.com](https://webengage.com/)  
 Webklipper Technologies Pvt Ltd  
 602, A Wing, Lotus Corporate Park  
 Jay Coach, Goregaon (E)  
