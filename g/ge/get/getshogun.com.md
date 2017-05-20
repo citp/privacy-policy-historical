@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getshogun.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807120249id_/https%3A//getshogun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getshogun.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520103637id_/https%3A//getshogun.com/privacy) for the most accurate reproduction.*
 
 # Shogun
 
