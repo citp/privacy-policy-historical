@@ -1,69 +1,140 @@
-> *The following text is extracted and transformed from the eversign.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017225005id_/http%3A//eversign.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eversign.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520190629id_/https%3A//eversign.com/legal/privacy) for the most accurate reproduction.*
 
-# eversign.com
+# Privacy Policy - eversign
 
-**Last updated November 15, 2010**
+We are committed to protecting your privacy.
 
-This Privacy Policy discloses the privacy practices of this domain (This Website and other websites where this privacy policy is displayed, collectively, the "Website"). Please read the following to learn what information we collect from customers and consumer visitors to our Website (the “User”) and how we use and share that information. In this Privacy Policy, personal information means information that is about an identifiable person. If you have any questions about our Privacy Policy, please use the contact us functionality on the site.
+Last Modified: Nov 2016
 
-## 1\. Changes to Privacy Policy
+The proprietor and operator of the eversign Website at www.eversign.com (hereinafter the “Website”) is apilayer GmbH (hereinafter “eversign”, “We” or “Us”). This Privacy Policy explains the practices and policies of eversign with regard to the collection, protection, usage and disclosure of information within our eversign Service (“Service”). 
 
-We may change this Privacy Policy at any time. If we make changes to this Privacy Policy, we will change the "Last Updated" date above. The revised Privacy Policy is effective immediately when posted on the Website. It is the responsibility of each User to review the Website and the Privacy Policy periodically to learn of any revisions to this Privacy Policy.
+eversign takes your privacy very seriously. We ask that you read this Privacy Policy carefully as it contains important information about what to expect when eversign collects personal information about you and how eversign manages your personal information. 
 
-## 2\. Types of Information Collected and Uses of Collected Information
+We are committed to safeguarding the privacy of the users of our website (hereinafter the “User(s)” or “You”), who can use the eversign service (hereinafter the “Service”) through the Website on any device (hereinafter the “Device”), such as, but with no limitation to, desktop computers, laptop computers and tablets as well as mobile phones. 
 
-We collect information about you in various ways when you use our Website. We collect personal information you provide to us, when you request information about our services . If you decide to engage in these activities with us, we may ask you to provide us with certain personal information about yourself, such as your first and last name, email address. Please understand that if you publicly post personal information about yourself, this information may be accessible by other consumers and companies and may appear on other websites or web searches, and, therefore, this information could be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages. We have no control over who reads your postings or what other Users may do with the information you voluntarily post, so please use caution when posting any personal information.
+This Privacy Policy applies to the information We collect about visitors to the Website and Users who use the Service by contracting the Service. 
 
-When you visit our Website, some information is also automatically collected, including the Uniform Resource Locator (“URL”) of the website you visited before coming to our Website, the URL of the website you visit after leaving our Website, the type of browser you are using and your Internet Protocol (“IP”) address. We, and/or our authorized Third Party Service Providers and advertisers, may automatically collect this information when you visit our Website through the use of electronic tools like Cookies and Web beacons or Pixel tags.
+We want to assure You that your information and data is safe with Us. We do not sell your information to anyone whatsoever. We ensure complete secrecy and privacy of your data entrusted to Us. 
 
-**_Cookies_**. To facilitate and customize your experience with the Website, we may store cookies on your computer. A cookie is a small text file that is stored on a User’s computer for record-keeping purposes which contains information about that User. We use cookies to save you time while using the Website, remind us who you are, and track and target User interests in order to provide a customized experience. Cookies also allow us to collect non-personal information from you, like which pages you visited and what links you clicked on. Use of this information helps us to create a more user-friendly experience for all visitors. In addition, we may use Third Party Advertising Companies to display advertisements on our Website. As part of their service, they may place separate cookies on your computer. We have no access to or control over these cookies. This Privacy Policy covers the use of cookies by our Website only and does not cover the use of cookies by any advertiser. Most browsers automatically accept cookies, but you may be able to modify your browser settings to decline cookies. Please note that if you decline or delete these cookies, some parts of the Website may not work properly.
+The Service is not intended for use by persons under 18 years of age. In any case of such person providing their personal information We reserve the right to remove it from the Website and the Service. 
 
-**_Other Tracking Devices_**. We may use other industry standard technologies like pixel tags and Web beacons to track your use of our Website pages and promotions, or we may allow our Third Party Service Providers to use these devices on our behalf. Pixel tags and Web beacons are tiny graphic images placed on certain pages on our Website, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a non-personally identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Website, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our affiliates and/or marketing partners for the same purposes.
+## The information We collect about You
 
-## 3\. Use of Personal Information
+Personal information means any information that may be used to identify an individual, including, without limitation, name and surname, address, telephone number and email address (hereinafter the “Information”). You can browse the Website without revealing any personal Information about Yourself. 
 
-We use personal information collected through our Website for purposes described in this Privacy Policy or disclosed to you on our Website or in connection with our services. For example, we may use your information to:
+When You create an account on the Website (hereinafter the “User Account”) You provide Us with some of your personal Information such as your email address. 
 
-  * analyze, operate and improve our Website;
-  * provide products and services to you;
-  * respond to your comments and questions and provide customer service;
-  * improve our marketing and promotional efforts;
-  * link or combine with other personal information we get from third parties, to help understand your needs and provide you with better service; and
-  * troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you, including our Website Terms of Use and this Privacy Policy, comply with applicable law, and cooperate with law enforcement activities.
+The Customer shall carry out payment of the total amount set out in the Subscription Plan using one of the following payment methods: Credit Card (Visa, MasterCard, Diner's Club, Disover, American Express) or PayPal. All Credit Card payments are being processed by PayLane Sp. z o.o., located at Arkońska Business Park, ul. Arkońska 6/A3, 80-387 Gdańsk, Poland. PayLane collects all the information with regard to your payment: 
 
-
-
-## 4\. Disclosure of Personal Information
-
-We will not disclose your personal information to other parties except as provided below:
-
-  * with your consent; for example, when you agree to our sharing your information with other third parties for their own marketing purposes subject to their separate privacy policies;
-  * with third party vendors, consultants and other service providers (collectively, “Third Party Service Providers”) who are working on our behalf and need access to your information to carry out their work for us;
-  * in connection with any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company; and
-  * (i) to comply with lawful requests, court orders or other legal process; (ii) to protect the rights and property of this website, our agents, customers, members, and others including to enforce our policies, Terms of Use or other agreements; or (iii) in an emergency to protect the personal safety of our employees, vendors, Users or any other person.
+A. full name  
+B. address  
+C. email  
+D. credit card number  
+E. card expiration date  
+F. card security code  
+E. card holder name  
 
 
+After the payment is complete, eversign would be able to view your personal information, such as, but not limited to, your full name, address and last four digits of the credit or debit card the payment was made with. 
 
-We may disclose information, including in an aggregated form, in ways that do not directly identify you.
+While using the Service We automatically record information from your Device and its software as well as your activity using the Service, including, but with no limitation to, your Device Internet Protocol address (hereinafter the “IP address”), Device type, language, the Web page visited before and after you were redirected or came to the Website, timezone, identification numbers associated with your Device(s), browser type and version, your locale preferences and other interactions with the Service. We log this information and use it in order to improve the functionality of the Service. 
 
-## 5\. Third Party Uses of Non-Personally Identifiable Information
+We use MailChimp (www.mailchimp.com), an email service provider, for delivering email messages. MailChimp has a strict policy about how they store and protect email addresses and content of email messages. For information about MailChimp’s privacy policy, please click [here](https://mailchimp.com/legal/privacy). 
 
-We may disclose or share non-personally identifiable information with Partners, Affiliates and Advertisers. For example, we may share aggregated demographic information (which does not include any personally identifiable information) with “Third Party Advertisers” or “Third Party Advertising Companies” and other parties as provided below:
+## Why and how We collect and use the information about You
 
-We use Third Party Advertising Companies to serve ads when you visit our Website. These companies may use non-personally identifiable information about your visits to this and other websites in order to provide, through the use of network tags, advertisements about goods and services that may be of interest to you. Some of these Third Party Advertising Companies may be advertising networks that are members of the Network Advertising Initiative (“NAI”). If you would like more information about any NAI member company, or you would like to take steps to opt-out of targeted advertising from any NAI member company, click here: http://www.networkadvertising.org/consumer/opt_out.asp.
+We gather the Information about you through the Website. We might use this Information to allow Us to: 
 
-We also use third party analytics service providers to track and analyze non-personally identifiable usage and volume statistical information from our Users to among other things help us administer our Website and constantly improve its quality. We may also publish this information for promotional purposes or to describe a representative audience for Advertisers. Please note that this is not personally identifiable information, only general summaries of the activities of our Users. 
+A. provide You with the Service  
+B. create your User Account  
+C. communicate with you on any matter related to your User Account and the provision of the Service  
+D. administer the Website and business  
+E. personalize the Website and the Service for You  
+F. send statements and payment reminders to You, and collect payments from You  
+G. send You communications related to your User Account and payments  
+H. send You non-marketing commercial communications  
+I. send You notifications such as software updates or notifications related to your purchases, changes to our policies, or changes to the Service  
+J. send You marketing communications relating to Our business further specified in this Privacy Policy  
+K. provide third parties with statistical information about the Users of the Website (those third parties will not be able to identify any individual User from that information)  
+L. deal with enquiries and complaints made by or about You relating to the Website and the Service  
+M. keep the Website secure and prevent fraud  
+N. verify compliance with the Terms of Service governing the use of the Website  
 
-## 6\. Updating and Correcting Information
 
-You may request to access or change your personal information by using the contact us functionality on this website. Please indicate your name, address and email address, and what information you would like to access or update when you contact us. We encourage you to promptly update your personal information if it changes. 
+We also save the signatures You create by signing the documents in a digitalized form in order to facilitate the use of the Service so You do not have to recreate your signature every time You sign a documents as well as to prove that a particular signature has been created by a particular person in an event of a potential conflict. 
 
-## 7\. Choices on Use of Information
+We may retain your Information for any future orders and in order to contact You about other products and services We think may be of interest to You. You can opt out from receiving these communications by unsubscribing from our newsletter emails or contacting Us at support@apilayer.com. 
 
-As discussed above, you can always choose not to provide information, although it may be required to engage in certain activities on the Website.
+When you invite another person to sign a document via the Service, you may provide us with that person e-mail address, which would be stored by Us. Likewise, other people may provide Us with your e-mail address in a similar manner. 
 
-## 8\. Security of Information
+From time to time We may provide your Information to our customer service agencies for research and analysis purposes so that We can monitor and improve the Service. This Information will not include any information You might be identified by. We, Our agents and sub-contractors may also contact You by post, email or telephone to ask You for your feedback and comments on Our services. 
 
-We take reasonable measures to help protect your personal information in an effort to prevent loss, misuse and unauthorized access, collection, use, disclosure, alteration and destruction. 
+We will disclose Information about You only when the disclosure is required or authorized by law or by this Privacy Policy or when We determine that it is reasonably necessary to protect other Users. At times your personal information may be disclosed to strategic partners and service providers that work with Us to provide or market the Service; for instance We use third parties to process credit card details for payment purposes. 
 
-* * *
+We will use contractual or other means to provide a comparable level of protection while the information is being processed by a third party. 
+
+If your personal information is at any time merged with your non-personal information, such merged information will be treated as personal information under this Privacy Policy for as long as it remains merged. 
+
+“Non-Personal Information” is information that does not permit identification of any specific person. We may collect, use, transfer, and disclose Non-Personal Information, (not including your Private Files). 
+
+## Collection and Storage and Use of Private Files
+
+The Service allows you to store your private files (hereinafter the “Private File(s)”), which are not made public and not intended to be made public via the Service. You agree that You are a sole owner of your Private Files and no other User or third party has a legitimate copyright or property claim against such Private Files. 
+
+We collect and store the Private Files You use within the Service, including files uploaded, downloaded, accessed, sent and shared by You. We may associate all or part of any Private File You use within the Service with any part or all of other files used within the Service by You or other Users for the purpose of eliminating unnecessary duplicate storage. 
+
+We access your uploaded file information, such as but not limited to file extensions, sizes, thumbnails, modified dates, for the purpose of providing system maintenance, management, and technical support. 
+
+## Promotional
+
+We may also provide You with information about special features of the Website or any other service or products We think may be of interest to You. If You would rather not receive this information, please send an email to support@apilayer.com. If You agree to Us providing You with promotional information, You can always opt out at a later date. 
+
+We may also want to provide You with related information from third parties We think may be of interest to You. If You would rather not receive this information, please send an email to support@apilayer.com. If You agree to Us providing You with third party marketing information, You can always opt out at a later date by sending an email to support@apilayer.com. 
+
+## How We protect your Information
+
+We will take reasonable technical and organizational precautions to prevent the loss, misuse, theft, unauthorized access, destruction or alteration of Your personal information, non-personal information as well as Files. We will store all the personal information you provide on our secure (password-protected) servers. We also have put in place security procedures as well as technical and organizational measures to safeguard your personal information. When you enter personal information, We encrypt the transmission of that Information using socket layer technology (SSL). It is your responsibility to use a browser that is SSL-enabled, such as Chrome, Firefox, Safari or Internet Explorer when your personal information is transmitted over the Internet. 
+
+We will use all reasonable efforts to safeguard your personal information. However, you should be aware that the use of the Internet is not entirely secure and for this reason We cannot guarantee the security or integrity of any personal information which is transferred from You or to You via the Internet. Should We become aware of an external attack or illegal action, We will notify You. 
+
+Some features of the Service allow You to send files, personal information, non-personal information as well as Private Files. By using such features You may share the aforementioned information with other Users, which can read, use and collect that information. You are solely responsible for the information You choose to disclose in such way. 
+
+You are solely responsible for keeping your password and other login details confidential. We will not ask you for your password (except when You log in to the Website). 
+
+## Overseas transfers
+
+Due to the global nature of the Internet the Information you provide may be transferred to countries outside the European Economic Area (‘EEA’) that do not have similar protections in place regarding your data and restrictions on its use as set out in this Privacy Policy. However, We take steps to make sure adequate protections are in place to ensure the security of your Information. By submitting your Information you consent to these transfers for the purposes specified above. The Website is hosted by eApps that adheres to Safe Harbor Privacy Principles. 
+
+## Access to your Information and updating and correcting your Information
+
+You warrant that the Information which You are required to provide when you register with Us is true, accurate, current and complete in all respects. You agree not to impersonate any other person, whether legal or natural or to use a fictitious name or a name that You have no authorization to use. We want to ensure that your personal information is accurate and up to date. If any of the Information that You have provided to eversign changes or if You wish to cancel your User Account, please let Us know the correct details by sending an email to support@apilayer.com. You may ask Us, or We may ask You, to correct Information You or We believe might be inaccurate, and You may also ask Us to remove Information which is inaccurate. 
+
+Your personal information may be retained for as long as it is necessary to comply with this Privacy Policy unless a longer retention period is required or permitted by law. 
+
+You may exercise your rights of access, request of correction, erasure and objection or revoke your consent for receipt of commercial communications by sending an email to support@apilayer.com. 
+
+You have the right to request a copy of the Information that We hold about You. If You would like a copy of some or all of your personal information, please send an email to support@apilayer.com. 
+
+## Cookies
+
+The Website use cookies to improve the User experience. 
+
+## Third party links
+
+Occasionally, at our discretion, We may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies and are out of Our control. We therefore have no responsibility or liability for the content and activities of these linked sites and therefore recommend to read terms and policies thereon. Nonetheless, We seek to protect the integrity of our site and welcome any feedback about these sites. 
+
+## Sale of business
+
+If eversign business is sold or integrated with another business your Information may be disclosed to our advisers and any prospective purchasers and their advisers and will be passed on to the new owners of the business. 
+
+## Your consent
+
+By using the Service, visiting the Website, contacting Us through the Website, submitting your personal information, creating an account and placing orders You consent to the use of that Information as set out in this Privacy Policy and the Terms and Conditions. By submitting your Information You can censor the use of that Information as set out in this Privacy Policy. 
+
+## Modifications to Privacy Policy
+
+We keep the Privacy Policy under regular review. If We amend our Privacy Policy the relevant modified version will be posted on this page. We may also place notices on other pages of the Website so that you may become aware of the Privacy Policy modification. 
+
+## How to contact eversign
+
+We welcome your views and suggestions about our Website, Service, Products and this Privacy Policy. If You would like to contact us with any queries or comments please send an email to support@apilayer.com. 
