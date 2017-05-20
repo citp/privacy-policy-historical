@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldbely.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113233341id_/https%3A//goldbely.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldbely.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520064106id_/https%3A//www.goldbely.com/privacy-and-security) for the most accurate reproduction.*
 
 # Goldbely | Privacy and Security
 
