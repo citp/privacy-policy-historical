@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylicindia.com privacy policy that was archived on 2016-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160922213605id_/http%3A//www.mylicindia.com/insurance-plans/sitemap/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylicindia.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520100042id_/http%3A//www.mylicindia.com/insurance-plans/sitemap/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - My LIC India
 
