@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panic.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120075917id_/http%3A//www.panic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panic.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520215030id_/https%3A//www.panic.com/privacy) for the most accurate reproduction.*
 
 # Panic Privacy
 
@@ -89,7 +89,9 @@ Refer to the [Panic Sync](https://panic.com/sync/) page for specific details on 
 
 ## Opting Out
 
-To see your options for opting out of data collection, refer to the **Privacy** section in the app's **Settings** screen.
+**On iOS:** refer to the **Privacy** section in the app's **Settings** screen.
+
+**On macOS:** open the app's **General** preferences panel and uncheck "Send Crash Reports and Statistics".
 
 ## Questions and Feedback
 
