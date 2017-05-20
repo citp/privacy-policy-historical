@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the missselfridge.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615084344id_/http%3A//www.missselfridge.com/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33055%26storeId%3D12554%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D525634%26interstitial%3Dtrue%26TS%3D1337604252798%23fragment-7%3Fintcmpid%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missselfridge.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520205235id_/http%3A//www.missselfridge.com/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33055%26storeId%3D12554%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D525634%26interstitial%3Dtrue%26TS%3D1337604252798%23fragment-9%3Fintcmpid%3DPrivacy) for the most accurate reproduction.*
 
 # Help - Miss Selfridge
 
@@ -6,14 +6,16 @@ Welcome to the missselfridge.com terms and conditions, which apply to all items 
 
 We may change these terms and conditions from time to time without notice to you. Changes will apply to any subsequent orders received. Once your order has been confirmed, we will not be able to make any changes to the terms that apply to that order. 
 
-Before placing an order, if you have any queries relating to these terms and conditions, please try using our [FAQs](http://help.missselfridge.com/system/templates/selfservice/missselfridge/#!portal/403700000001007) or contact our [Customer Services team](http://help.missselfridge.com/system/templates/selfservice/missselfridge/#!portal/403700000001007).
+Before placing an order, if you have any queries relating to these terms and conditions, please try using our [FAQs](http://help.missselfridge.com/system/templates/selfservice/missselfridge/#!portal/403700000001057) or contact our [Customer Services team](http://help.missselfridge.com/system/templates/selfservice/missselfridge/#!portal/403700000001057).
 
   * UK Standard
   * UK Nominated Day
   * Collect From Store
   * International
   * Delivery Promotion
-  * Free Standard Delivery Over £50
+  * Free Standard Delivery Over £40
+  * FREE EXPRESS DELIVERY OVER £70
+  * VIP Delivery
 
 
 
@@ -25,13 +27,13 @@ Alternatively, you can collect your items from one of our stores in the UK (excl
 
 If you have any questions concerning delivery of your order, please contact our [Customer Services Team](http://help.missselfridge.com/system/templates/selfservice/missselfridge/#!portal/403700000001007).
 
-Standard: £3.95 delivery charge
+Standard: £4 delivery charge
 
-Nominated Day: £5.95 delivery charge for Mon-Fri deliveries. £7.50 for Saturday delivery
+Nominated Day: £6 delivery charge for Mon-Sat
 
-Collect From Store Standard: £2.95 delivery charge
+Collect From Store Standard: FREE
 
-Collect From Store Express: Free
+Collect From Store Express: £4 delivery charge
 
 **Please note that any additional duty or customs charges applicable in the destination country are payable by the recipient.**
 
@@ -39,39 +41,45 @@ Collect From Store Express: Free
 
 | 
 
-**Mainland**   **UK** **Standard Delivery Day**  
+**Mainland**   **UK  ** **Standard Delivery Day**  
   
 ---|---  
   
-Between 12pm Fri and 12pm Mon
-
-| 
-
-Wed or Thurs  
-  
-Between 12pm Mon and 12pm Tues
+Between 12pm Fri and 4pm Monday
 
 | 
 
 Thurs or Fri  
   
-Between 12pm Tues and 12pm Wed
+Between 4pm Mon and 4pm Tues
 
 | 
 
-Fri or Mon  
+Fri or Sat  
   
-Between 12pm Wed and 12pm Thurs
+Between 4pm Tues and 4pm Wed
+
+| 
+
+Sat or Mon  
+  
+Between 4pm Wed and 4pm Fri
 
 | 
 
 Mon or Tues  
   
-Between 12pm Thurs and 12pm Fri
+Between 4pm Fri and 12pm Sat
 
 | 
 
 Tues or Wed  
+  
+Between 12pm Sat and 12pm Sun
+
+| 
+
+Wed or Thurs  
   
 Please allow 5 working days before querying your order.
 
@@ -79,21 +87,21 @@ If you are not in when our couriers first try to deliver and they cannot find a 
 
 UK Bank Holidays (if applicable): please allow an extra working day for both standard and nominated day deliveries.
 
-UK Bank holidays for 2016 are as follows:
+UK Bank holidays for 2017 are as follows:
 
-25th March - Good Friday
+14th March - Good Friday
 
-28th March \- Easter Monday
+17th March \- Easter Monday
 
-2th May - Early May bank holiday
+1st May - Early May bank holiday
 
-30th May - Spring bank holiday
+29th May - Spring bank holiday
 
-29st August - Summer bank holiday
+28th August - Summer bank holiday
 
 25th December - Christmas Day
 
-27th December - Boxing Day (substitute day)
+26th December - Boxing Day
 
  If you have placed an order for nominated day delivery this will be delivered by our partner courier company Yodel.
 
@@ -111,13 +119,13 @@ Please note that for security reasons, you will need to present two forms of ide
 
 2\. Utility bill or similar, including name and address.
 
-We offer two collect from store options: Standard Delivery (Free) and Express Delivery (£2.95).
+We offer two collect from store options: Standard Delivery (Free) and Express Delivery (£4).
 
 Collect from Store Standard Delivery* - If you select this option, we will aim to deliver your order between 3 and 7 days from the date you placed it.   However, sometimes during sale periods or other busy periods deliveries might take longer.  Your estimated delivery date will be indicated on the storefinder page within the checkout.
 
 *Collect from Store Standard Delivery is not available to Outfit stores.
 
-Collect from Store Express Delivery - Order by 9pm (weekdays) or 2pm (Sunday) for next working day delivery for only £2.95.
+Collect from Store Express Delivery - Order by 9pm (weekdays) or 2pm (Sunday) for next working day delivery for only £4
 
 Use the store finder within the checkout to find your nearest participating store
 
@@ -143,19 +151,19 @@ What is the collect from store returns policy?
 
 We have the same returns policy for Collect From Store as in-store returns.  You can return your order within 28 days or receipt.  Please note this date begins on the date that we send you an order dispatch.
 
-We offer two delivery options for international customers outside the United Kingdom: (1) Standard Delivery and (2) Tracked and Faster Delivery.  Charges apply to both options.  For further information, including the costs and estimated delivery times, please see Do you provide international delivery? in the Delivery section of our FAQs.
+International Delivery
 
-Please note that we do not deliver to the Channel Islands and BFPO addresses.
+We offer two delivery services internationally: Standard and 'Tracked and Faster'. The 'Tracked and Faster' service is delivered by DPD couriers. Charges apply to both options. To track your order please click[ here.](http://www.dpd.co.uk/content/how-can-we-help/index.jsp) For further information, including the costs and estimated delivery times, click [here](http://help.missselfridge.com/system/templates/selfservice/missselfridge/#!portal/403700000001057/article/Prod-2599/Do-you-provide-International-delivery)
 
-If you have any questions concerning delivery of your order, please contact our [Customer Services Team](http://help.missselfridge.com/system/templates/selfservice/missselfridge/#!portal/403700000001007).
+Please note that we do not deliver to the Channel Islands and BFPO addresses. If you have any questions concerning delivery of your order, Please contact our [Customer service team ](http://help.missselfridge.com/system/templates/selfservice/missselfridge/#!portal/403700000001057)
 
 We may run delivery promotions from time to time. Please see [Promotions section](http://www.missselfridge.com/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd?catalogId=33055&storeId=12554&langId=-1&viewAllFlag=false&categoryId=281021&interstitial=true&TS=1303134990557?intcmpid=Terms#fragment-11) of these terms and conditions to check whether we are running any at this time. 
 
-**FREE STANDARD SHIPPING OVER £50**
+**FREE STANDARD DELIVERY OVER £40**
 
-1\.    By taking advantage of the Free Standard Delivery Over £50 offer (the “Offer”) you agree to these terms and conditions.
+1\.    By taking advantage of the Free Standard Delivery Over £40 offer (the “Offer”) you agree to these terms and conditions.
 
-2\.    The Promotion entitles residents in the UK to free standard delivery on orders over £50 made in a single transaction online at www.missselfridge.com. The free delivery promotion will be applied automatically when you select standard delivery at the checkout if the value of the order is over £50
+2\.    The Promotion entitles residents in the UK to free standard delivery on orders over £40 made in a single transaction online at www.missselfridge.com. The free delivery promotion will be applied automatically when you select standard delivery at the checkout if the value of the order is over £40
 
 3\.    The Promotion applies to the standard delivery service available for customers living in the UK. See www.missselfridge.com for the full list of delivery destinations.
 
@@ -167,14 +175,50 @@ We may run delivery promotions from time to time. Please see [Promotions section
 
 We may run further delivery promotions from time to time. Please see the Promotions section of these terms and conditions to check whether we are running any at this time.
 
+**FREE EXPRESS DELIVERY OVER £70**
+
+1\.    By taking advantage of the Free Express Delivery Over £70 offer (the “Offer”) you agree to these terms and conditions.
+
+2\.    The Promotion entitles residents in the UK to free standard delivery on orders over £70 made in a single transaction online at www.missselfridge.com. The free delivery promotion will be applied automatically when you select your nominated day delivery at the checkout if the value of the order is over £70
+
+3\.    The Promotion applies to the standard delivery service available for customers living in the UK. See www.missselfridge.com for the full list of delivery destinations.
+
+5\.    Miss Selfridge reserves the right to (i) cancel this Promotion (ii) refuse to allow any individual to participate in the Promotion and (iii) amend these terms and conditions (and will use reasonable endeavours to notify changes to all customers).
+
+6\.    These terms and conditions shall be governed by and construed in accordance with English law and shall be subject to the exclusive jurisdiction of the English courts in the event of a dispute.
+
+7\. Promoter: Arcadia Group Brands Limited Miss Selfridge registered no.237511 Registered office: Colegrave House, 70 Berners Street, London, W1T 3NL.
+
+We may run further delivery promotions from time to time. Please see the Promotions section of these terms and conditions to check whether we are running any at this time.
+
+VIP Delivery – Terms and Conditions
+
+1\. By taking advantage of the VIP delivery offer (the “Offer”) you agree to these terms and conditions.
+
+2\. This offer entitles selected UK customers to free VIP delivery from one of the following UK delivery options: Standard Delivery, Express/Nominated Day Delivery or Collect from Store (standard or express) at www.missselfridge.com between 04.09.16 and 11.03.17 (inclusive).
+
+3\. To receive your free delivery, you will need to login using the email address your email invite was sent to. No other email address will be accepted. Then simply select your chosen delivery method at checkout, and once selected, your free delivery will then be applied.
+
+4\. The Offer is only available to selected customers who receive the original invite email from Miss Selfridge, and cannot be shared.
+
+5\. Miss Selfridge’s normal refund and returns policy applies.
+
+6\. This Offer cannot be used in conjunction with any other offer or promotion and cannot be exchanged for cash.
+
+7\. Miss Selfridge reserves the right to (i) cancel this Offer at any time; (ii) refuse to allow any individual to participate in this Offer (iii) decline to accept order where, in its opinion, an Offer code is invalid for the order being placed and (iv) amend these terms and conditions (and will use reasonable endeavours to notify changes to all customers).
+
+8\. These terms and conditions shall be governed by and construed in accordance with English law and the English courts shall have exclusive jurisdiction in the event of a dispute.
+
+9\. Promoter: Miss Selfridge Retail Limited, registered no. 4251393. Registered office: Colegrave House, 70 Berners Street, London, United Kingdom, W1T 3NL.
+
   * Returns
   * Return To Store
   * Retun By Post
-  * Returns by Collect+
+  * Returns by MyHermes Parcelshop
   * International Returns Policy
-  * Contact Us
   * Types Of Returns
   * Rights To Cancel (EU Customers)
+  * Buy Now Pay Later Orders
 
 
 
@@ -216,25 +260,25 @@ International customers - Please note: unfortunately we currently do not offer r
 
 You can return an item by post within 14 days of receipt. Customers in the UK will receive a freepost returns label with their order.  International customers will not receive a freepost returns label and are required to return unwanted orders at their own cost.
 
-Please see [How do I return an item by post?](http://help.missselfridge.com/system/templates/selfservice/missselfridge/#!portal/403700000001007) in the Returns section of our FAQs for information on how to make a return by post. ,  
+Please see [How do I return an item by post?](https://web.archive.org/web/20170520205235id_/http%3A//www.missselfridge.com/webapp/wcs/stores/servlet/1.%20http://help.missselfridge.com/system/templates/selfservice/missselfridge/#!portal/403700000001057/article/Prod-2622/How-do-I-return-an-item-by-post) in the [Returns section](https://web.archive.org/web/20170520205235id_/http%3A//www.missselfridge.com/webapp/wcs/stores/servlet/2.%20http://help.missselfridge.com/system/templates/selfservice/missselfridge/#!portal/403700000001057/topic/403700000001141/Returns-Online) of our FAQs for information on how to make a return by post. ,  
 
 Please allow 28 days from the day the parcel is posted for your refund to be processed. We will email you to let you know once your parcel has been received and your refund has been processed.
 
 The refund will be processed once your goods are received into our warehouse. Please note that it may take 2-3 working days for the refund to show in your account. Each item returned is refunded separately, and will show on your statement as a refund / credit from Miss Selfridge. You will be refunded on to the card that the goods were purchased with. If your card expires before we process your refund please contact our Customer Services Team with your order number, postcode and new card details.
 
-If you have any questions, please contact our [Customer Services Team](http://help.missselfridge.com/system/templates/selfservice/missselfridge/#!portal/403700000001007) 
+If you have any questions, please contact our [Customer Services Team](https://web.archive.org/web/20170520205235id_/http%3A//www.missselfridge.com/webapp/wcs/stores/servlet/3.%20http://help.missselfridge.com/system/templates/selfservice/missselfridge/#!portal/403700000001057) 
 
-**Collect+ (for UK orders only)**
+**myHermes ParcelShop (for UK orders only)**
 
-You can also return your order via the Collect+ service. Collect+ has parcel drop points in 3800 local convenience stores, open early 'til late and 7 days a week, so you can return items at a time and place that suits you.
+You can also return your order via the myHermes ParcelShop service. myHermes ParcelShop has parcel drop points in 4,500 local convenience stores, open early 'til late and 7 days a week, so you can return items at a time and place that suits you.
 
-Write your order number onto the prepaid label inserted into your order. If you no longer have this leaflet, click here to print off a new Collect+ label.
+Write your order number onto the prepaid label inserted into your order. If you no longer have this leaflet, click here to print off a new myHermes ParcelShop label.
 
-Take your parcel to any of 3,800 local convenience stores offering Collect+ services. You'll receive proof of postage and a code to track your return online.
+Take your parcel to any of 4,500 local convenience stores offering myHermes ParcelShop services. You'll receive proof of postage and a code to track your return online.
 
-Please note: You cannot return a parcel via Collect+ to your local Miss Selfridge store.
+Please note: You cannot return a parcel via myHermes ParcelShop to your local Miss Selfridge store.
 
-You can find your nearest local convenience store offering Collect+ services at [www.collectplus.co.uk](http://www.collectplus.co.uk/)
+You can find your nearest local convenience store offering myHermes ParcelShop services at <https://www.myhermes.co.uk/parcelshop-finder.html> 
 
 We guarantee to refund any item purchased on our website that you are not completely happy with when you return it to us in a saleable condition by post within 14 days of receipt. International purchases can only be returned by post. You are required to return unwanted orders at your own cost. Our stores outside of the UK and Republic of Ireland currently do not offer refunds or exchanges on any items purchased online. We are sorry for any inconvenience this may cause you.
 
@@ -243,10 +287,6 @@ Refunds will be credited to your original method of payment. Orders paid for usi
 In the interests of hygiene we do not offer refunds on underwear or swimwear if the hygiene seal has been removed, or pierced jewellery or cosmetic products if they have been used or the hygiene seal is broken, unless they are of unsatisfactory quality or unfit for purpose. Please also note that items must be returned with all of the barcode tags intact and with the despatch note you received enclosed.
 
 If you are a customer in the European Union you have the right to cancel your contract with us and return your items by post within 14 calendar days from the day after the date you received your order.  Please see [RIGHT TO CANCEL (EU CUSTOMERS)](http://euro.missselfridge.com/en/msuk/category/terms-and-conditions-298982/home?TS=1402655425106#fragment-3) for details.
-
-**Need to contact us?**
-
-You can contact Customer services [here](http://help.missselfridge.com/system/templates/selfservice/missselfridge/#!portal/403700000001007)
 
 RETURNING GOODS BOUGHT AS SPECIAL OFFERS
 
@@ -260,17 +300,19 @@ Customers in the UK and EIRE can return these items to us using the freepost ret
 
 International customers can only return these items by post.
 
-For further information on how to return items by post please see [How do I return an item by post?](http://www.missselfridge.com/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd?catalogId=33055&storeId=12554&langId=-1&viewAllFlag=false&categoryId=281022&interstitial=true&TS=1303135066107?intcmpid=FAQ) in the Returns section of our FAQs.
+For further information on how to return items by post please see [How do I return an item by post?](http://help.missselfridge.com/system/templates/selfservice/missselfridge/#!portal/403700000001057/article/Prod-2622/How-do-I-return-an-item-by-post) in the Returns section of our FAQs.
 
-In addition to our returns policy, if you are a customer in the European Union you have the right to cancel your contract with us within 14 calendar days from the day after the date you received your order.  This right does not apply to the following items: (1) items that have been sealed for hygiene reasons (e.g make-up, underwear, swimwear or pierced jewellery) if the seal has been broken; (2) CDs and DVDs if the seal has been broken; and (3) items that have been made to the customer’s specification or that are personalised.  You will be responsible for the cost of returning a cancelled order to us.
+In addition to our returns policy, if you are a customer in the European Union you have the right to cancel your contract with us within 14 calendar days from the day after the date you received your order. This right does not apply to the following items: (1) items that have been sealed for hygiene reasons (e.g make-up, underwear, swimwear or pierced jewellery) if the seal has been broken; (2) CDs and DVDs if the seal has been broken; and (3) items that have been made to the customer’s specification or that are personalised. You will be responsible for the cost of returning a cancelled order to us.
 
-To exercise your right to cancel follow the steps below:
+To exercise your right to cancel follow the steps below:  
+1\. Print off the cancellation form provided in the “Information About your Right to Cancel” document in your order confirmation email and include it with the items when you return them. You can also access a copy of the Cancellation Form [here](https://web.archive.org/cms/pages/static/static-0000014577/files/cancellation_form_1.pdf). Alternatively, write to us by email ( **[customer.care@missselfridge.com](mailto:customer.care@missselfridge.com)** ) or include a letter with the items when you return them. Please state that you wish to cancel your contract and include your full name, address and order number.  
+2\. Return the items to us by post at your own cost and no later than 14 calendar days after the day that you sent us the Cancellation Form or other written notice of your cancellation. Please download a returns label [here](http://www.missselfridge.com/returns/return_label.pdf)  and once completed, affix it to the parcel and take it to your local posting office.
 
-1\. Log into your account at Miss Selfridge, download the cancellation form provided in the “my account” section and include it with the items when you return them.  If you would like a copy of your form to be emailed to you once it has been submitted, select 'email me a copy'
-
-We will refund to you the price paid for the items and (unless you did not pay for delivery) the delivery charges that you paid up to a maximum amount of the cost of our Standard Delivery option.  You will be refunded to your original method of payment within 14 calendar days of our receipt of the cancelled items or, if earlier, within 14 days from the day we receive proof of return from you. If we do not receive the cancelled items back, we may arrange to collect them from you at your cost. 
+We will refund to you the price paid for the items and (unless you did not pay for delivery) the delivery charges that you paid up to a maximum amount of the cost of our Standard Delivery option. You will be refunded to your original method of payment within 14 calendar days of our receipt of the cancelled items or, if earlier, within 14 days from the day we receive proof of return from you. Orders paid for using split payment (part gift card, part other payment method) will always be refunded to the gift card(s) first. Any remaining balance will be paid back to the other payment method originally used. If we do not receive the cancelled items back, we may arrange to collect them from you at your cost.
 
 Please note: if you do not wish to cancel your entire contract and just want to return some of the items in your order you can return them in accordance with out standard return policy.  Please see either UK Returns Policy or International Returns Policy (depending on where you are) for details.
+
+Orders purchased using Buy Now Pay Later (Klarna) can only be returned to the website.
 
 **For standard deliveries within the  ** **UK**
 
@@ -278,15 +320,15 @@ Log onto [www.hermes-europe.co.uk](http://www.hermes-europe.co.uk/) and use the 
 
 **For nominated day deliveries within the  ** **UK**
 
-Log on to  [www.hermes-europe.co.uk](http://www.hermes-europe.co.uk/) and use the tracking number provided in your despatch email or click the link in your despatch email. Please allow 24 hours from receipt of the email before tracking your order.
+Log on to  [www.hermes-europe.co.uk](http://www.hermes-europe.co.uk/) and use the tracking number provided in your despatch email or click the link in your despatch email. Please allow 24 hours from receipt of the email before tracking your order. 
 
 **For overseas deliveries**
 
-Unfortunately we are unable to offer order tracking at this time.
+Log on to <http://www.dpd.co.uk/content/how-can-we-help/index.jsp> and use the tracking number provided in your despatch email or click the link in your despatch email. Please allow 24 hours from receipt of the email before tracking your order.
 
 **Having trouble tracking your order?  **
 
-If you have any questions related to tracking your order please contact [Customer Services](http://help.missselfridge.com/system/templates/selfservice/missselfridge/#!portal/403700000001007). Please allow 5 working days before querying your order. We will check your order status and give you an update. 
+If you have any questions related to tracking your order please contact [Customer Services](http://help.missselfridge.com/system/templates/selfservice/missselfridge/#!portal/403700000001057). Please allow 5 working days before querying your order. We will check your order status and give you an update. 
 
 **Customer services opening times**
 
@@ -425,6 +467,10 @@ In assessing your request for goods or services, we may use your information for
 WHAT INFORMATION DO WE SHARE WITH OTHERS?
 
 We may contract with other companies to provide certain services, including credit card processing, shipping, name and address verification, email distribution, market research, marketing and advertising services (including advertising on third party websites, social media networks and profiling) and promotions management. We provide these companies with only the information they need to perform their services and work closely with them to ensure that your privacy is respected and protected. These companies are prohibited by contract from using this information for their own marketing purposes or from sharing this information with anyone other than Miss Selfridge. We may share your information with other Arcadia Group companies for internal business purposes (for example administering e-receipts or responding to customer queries). We may transfer personal data that we collect from you to third party data processors located in countries that are outside of the European Economic Area and to other Arcadia group companies in connection with the above purposes. Any such transfer of your personal data will be carried out in compliance with applicable laws and we will treat the information in a manner consistent with this Privacy Policy Statement. However, we will not pass your information on to any other Arcadia Group companies or other third parties for their own marketing purposes unless you have agreed for us to do so.
+
+We work with Klarna AB to offer our customers more convenient methods of payment. Klarna AB (“Klarna”) is a provider of financial services. Klarna's principal place of business is at Sveavägen 46, 111 34 Stockholm, Sweden. Klarna is registered with the Swedish companies register under the registration number 556737-0431 and licensed by and under the supervision of the Swedish Financial Supervisory Authority (www.fi.se), Box 7821, 10397 Stockholm, Sweden, and the Swedish Data Protection Authority (http://www.datainspektionen.se/in-english/), Box 8114, 10420 Stockholm, Sweden.
+
+We need to provide Klarna with certain information about you and the order to enable Klarna to assess whether you qualify for their credit products. We need to transfer to Klarna account details such as your name, address, email address, phone number, and payment history, as well as your order details, such as payment method, shipping details, what was ordered, and similar. This will not be done if you do not select Klarna as your payment method. The further use of this data will be governed by Klarna’s Privacy [Policy](http://cdn.klarna.com/1.0/shared/content/legal/terms/Klarna/en_gb/privacy)
 
 COOKIES
 
@@ -606,14 +652,14 @@ If you are not happy with the way that we use cookies then you should delete mis
   * Newsletter Sign-Up
   * £250 Newsletter Free Prize Draw
   * Store Feedback Prize
-  * Sale
-  * Free Standard Delivery
+  * HAWAIIAN TROPIC /MISS SELFRIDGE PRIZE DRAW
+  * 30% Off Jeans
 
 
 
 **Newsletter Sign-Up**
 
-Enjoy 15% off when you sign up to emails
+Enjoy 10% off when you sign up to emails
 
 1\. This offer entitles customers who subscribe to Style News Emails to receive a 10% off online code to use on any one transaction over £40.  
 2\. This offer will expire as specified within the Welcome Newsletter  
@@ -662,142 +708,52 @@ c. a £250 cheque or €335 cheque and the Prize will be posted to the Winner wi
 16\. Promoter: Arcadia Group Limited. Registered company no. 237511.  
 Registered office: Colegrave House, 70 Berners Street, London W1T 3NL.
 
-**Up to 50% off selected lines**
+**HAWAIIAN TROPIC /MISS SELFRIDGE PRIZE DRAW UK PRIZE DRAW TERMS AND CONDITIONS**
 
-1\. This discount entitles you to receive up to 50% off selected items on the UK Miss Selfridge website, www.missselfridge.com, us.missselfridge.com, euro.missselfridge.com, missselfridge.fr and missselfridge.de.  
-2\. Prices as shown on the website already have up to 50% discount applied  
-3\. Valid from 00:00:01 GMT on Tuesday 31st May 2016 for a limited time only.  
-4\. This discount can only be used by the recipient and is not transferable.  
-5\. Discount cannot be used in conjunction with any other offer or promotion and cannot be exchanged for cash.  
-6\. Discount cannot be used for the purchase of gift cards, gift vouchers or for paying store card accounts. Normal refund policy applies.  
-7\. Miss Selfridge reserves the right to withdraw this offer at any time.  
-8\. Promoter: Miss Selfridge Retail Limited registered no. 4251393. Registered office: Colegrave House, 70 Berners Street, London W1T 3NL.
-
-**Miss Selfridge Free Standard Delivery Promotion Terms and Conditions**
-
-  1. By taking advantage of the Free Delivery offer (the “ **Offer** ”) you agree to these terms and conditions.
-  2. The Offer entitles you to free standard delivery within the UK and worldwide on all online orders placed at www.missselfridge.com between 00:00:01 (GMT) on 7th June 2016 and 23:59:59 (GMT) on 13th June 2016 (the  **"Promotional Period"** ).
-  3. To redeem the Offer, you must enter the free delivery code SUMMERLOVE at the online checkout. You can only use the Offer on one transaction during the Promotional Period.
-  4. The Offer applies to UK standard delivery service only.
-  5. Miss Selfridge's normal refund and returns policy applies.
-  6. This Offer cannot be used in conjunction with any other offer or promotion and cannot be exchanged for cash.
-  7. This Offer is non-transferable, non-negotiable and non-refundable.
-  8. This Offer cannot be used when opening a Miss Selfridge Store Card, towards payment or part payment of an Arcadia Account Card balance or used for the purchase of gift cards.
-  9. Miss Selfridge reserves the right to (i) cancel this Offer at any time; (ii) refuse to allow any individual to participate in this Offer; (iii) decline to accept an order where, in its opinion, an Offer code is invalid for the order being placed; and (iv) amend these terms and conditions (and will use reasonable endeavours to notify changes to all customers).
-  10. This Offer is not open to employees of the Arcadia Group, BHS Limited, their families, agencies or anyone else associated with this promotion
-  11. These terms and conditions shall be governed by and construed in accordance with English law and the English courts shall have exclusive jurisdiction in the event of a dispute.
+  1. The Prize is non-transferable, non-refundable and non-negotiable. There is no cash alternative. Miss Selfridgereserves the right to substitute the Prize (or any part thereof) for one of its choosing which has a value the same or greater than the original Prize in the event of circumstances outside of its control. Prize is provided by Hawaiian Tropics.  Promoter is not responsible for the Prize.
 
 
+  2. Only one entry per person. Any person found to be sending multiple entries will be ineligible. Any entries by a person found to be using multiple Instagram accounts to enter the Prize Draw will be ineligible. Miss Selfridge does not accept responsibility for network, computer, hardware or software failures of any kind, which may restrict or delay the sending or receipt of your entry.
 
-Promoter: Miss Selfridge Retail Limited, registered no. 4251393. Registered office: Colegrave House, 70 Berners Street, London, United Kingdom, W1T 3NL.
 
-  * 24% off for 24 hours
-  * Free Standard Delivery
-  * Free Next Day Delivery
-  * O2 denim & t-shirt offer
-  * Spring Essentials
-  * Free Standard Delivery
-  * 24% off for 24 Hours
-  * Look Magazine
+  3. By entering this Prize Draw, you agree that your details, including but not limited to your email address, may be used to keep you informed about Miss Selfridge’s promotions, products and news. Miss Selfridge complies with the standard procedures laid down in the UK Data Protection Act to ensure that the personal information you give us is kept secure and processed fairly and lawfully. Miss Selfridge will not share your information with third parties for marketing purposes unless you have given us permission to do so. For further details please see our online Privacy Policy at www.missselfridge.com.
+
+
+  4. By entering the Prize Draw the Winner agreesto participate in such promotional activity and material as Miss Selfridge may require.
+
+
+  5. The Winner’s first name, surname and county will be available for 14 daysafter the Closing Date and can be requested by sending a stamped addressed envelope to ‘Miss Selfridge Hawaiian Tropic Ibiza Prize Draw’ at the address below. 
+
+
+  6. This Prize Draw is in no way sponsored, endorsed, administered by or associated with Instagram.
+
+
+  7. Miss Selfridge reserves the right to (i) cancel this Prize Draw, (ii) cancel or refuse any individual’s entry and (iii) amend these terms and conditions (and will use reasonable endeavors to notify changes to entrants and potential entrants).  These terms and conditions shall be governed by English law and the English courts shall have exclusive jurisdiction in the event of a dispute.
+
+
+  8. Promoter: Miss Selfridge Retail Limited. Company No. 4251393.
 
 
 
-**24% off for 24 hours**
+Registered office: Colegrave House, 70 Berners Street, London, W1T 3NL.
 
-1\. This discount entitles you to receive 24% off in one transaction on all full price items on the UK Miss Selfridge website, www.missselfridge.com. Discount cannot be used in-store.  
-2\. Redeem online by entering SPRING24 at the checkout.  
-3\. Valid from 12:00:01 GMT on Sunday 20th March 2016 to 11:59:59 GMT on Monday 21st March 2016.  
-4\. This discount can only be used by the recipient and is not transferable. Only one discount accepted per transaction.  
-5\. Discount cannot be used in conjunction with any other offer or promotion and cannot be exchanged for cash.  
-6\. Discount cannot be used for the purchase of gift cards, gift vouchers or for paying store card accounts. Normal refund policy applies.  
-7\. Miss Selfridge reserves the right to withdraw this offer at any time.  
-8\. Promoter: Miss Selfridge Retail Limited registered no. 4251393. Registered office: Colegrave House, 70 Berners Street, London W1T 3NL.
+**30% off Jeans**
 
-**Miss Selfridge Free Standard Delivery Promotion**
+1\.    This discount entitles you to receive 30% off jeans on the Miss Selfridge website, [www.missselfridge.com](http://www.missselfridge.com/), us.missselfridge.com, euro.missselfridge.com, missselfridge.fr and missselfridge.de. Discount also available in-store.
 
-1\. By taking advantage of the Free Delivery offer (the "Offer") you agree to these terms and conditions.  
-2\. The Offer entitles you to free standard delivery within the UK and worldwide on all online orders placed at www.missselfridge.com from 00:00:01 (GMT) on Sunday 13th March 2016 until Sunday 20th March  
-3\. To redeem the Offer, you must enter the free delivery code TREATME at the online checkout. You can only use the Offer on one transaction during the Promotional Period.  
-4\. The Offer applies to UK standard delivery service only.  
-5\. Miss Selfridge's normal refund and returns policy applies.  
-6\. This Offer cannot be used in conjunction with any other offer or promotion and cannot be exchanged for cash.  
-7\. This Offer is non-transferable, non-negotiable and non-refundable.  
-8\. This Offer cannot be used when opening a Miss Selfridge Store Card, towards payment or part payment of an Arcadia Account Card balance or used for the purchase of gift cards.  
-9\. Miss Selfridge reserves the right to (i) cancel this Offer at any time; (ii) refuse to allow any individual to participate in this Offer; (iii) decline to accept an order where, in its opinion, an Offer code is invalid for the order being placed; and (iv) amend these terms and conditions (and will use reasonable endeavours to notify changes to all customers).  
-10\. This Offer is not open to employees of the Arcadia Group, BHS Limited, their families, agencies or anyone else associated with this promotion  
-11\. These terms and conditions shall be governed by and construed in accordance with English law and the English courts shall have exclusive jurisdiction in the event of a dispute.  
-12\. Promoter: Miss Selfridge Retail Limited, registered no. 4251393. Registered office: Colegrave House, 70 Berners Street, London, United Kingdom, W1T 3NL.
+2\.   Prices as shown on the website already have 30% discount applied
 
-**Free Next Day Delivery on all UK orders**
+3\.   Valid from 00:00:01 GMT on Wednesday 17th May 2017 until 23:59:00 on Monday 22th May 2017.
 
-1\. By taking advantage of the free next day delivery on all UK orders (the "Offer") you agree on these terms and conditions.  
-2\. Enter the discount code HUMPDAY at the checkout.  
-3\. This promotion begins at 00.00.01 GMT and ends at 19.59.59 GMT on Wednesday 6th April 2016.  
-4\. This offer is not exchangeable for cash and is not to be used in conjunction with any other offer, discount or promotion. The discount cannot be used for the purchases of Gift Vouchers or Gift Cards.  
-5\. Miss Selfridge reserves the right to (i) cancel this Offer (ii) refuse to allow any individual to participate in the Offer (iii) decline to accept orders where, in its opinion, an Offer code is invalid for the order being placed and (iiii) amend these terms and conditions (and will use reasonable endeavours to notify changes to all customers).  
-6\. These terms and conditions shall be governed by and construed in accordance with English law and exclusive jurisdiction of the English courts in the event of a dispute.  
-Promoter: Arcadia Group Brands Limited Miss Selfridge registered no.237511 Registered office: Colegrave House, 70 Berners Street, London, W1T 3NL.
+4.   This discount can only be used by the recipient and is not transferable.
 
-This offer entitles you to receive a free Miss Selfridge Longline V Tee when you purchase any full priced Miss Selfridge jeans. This offer is valid from the 07/03/16 - 19/03/16 and is subject to availability whilst stocks last. To redeem the offer, you must enter your code online at http://www.misselfridge.com. One free V Tee per customer. Miss Selfridge's normal refund and returns policy applies. This offer cannot be used in conjunction with any other offer or promotion, including student discount, and cannot be exchanged for cash. This offer is non-transferable, non-negotiable and non-refundable. This offer cannot be used when opening a Miss Selfridge store card, towards payment or part payment of an Arcadia account card balance or used for the purchase of gift cards. Style of the V Tee may vary at Miss Selfridge’s sole discretion and cannot be exchanged for a different style at your request. Miss Selfridge reserve the right to substitute the V Tee with an equivalent gift of its choosing. In the event that you return the purchase you will be required to return the V Tee that you received in an unused and unworn state. Failure to do so will mean that the retail value of the V Tee is deducted from the value of the refund that you receive for the returned purchase. Miss Selfridge reserves the right to cancel this offer at any time or refuse to allow any individual to participate in this offer. This offer is not open to employees of the Arcadia Group, their families, agencies or anyone else associated with this offer.
+5.   Discount cannot be used in conjunction with any other offer or promotion and cannot be exchanged for cash.
 
-Redemption instruction: To redeem simply enter 'MISSSO2' at checkout
+6.   Discount cannot be used for the purchase of gift cards, gift vouchers or for paying store card accounts. Normal refund policy applies.
 
-**Up to £20 off Selected Items**
+7.   Miss Selfridge reserves the right to withdraw this offer at any time.
 
-1\. This discount entitles you to receive up to £20 off selected items on the Miss Selfridge website, www.missselfridge.com.  
-2\. Prices as shown on the website already have up to £20 discount applied  
-3\. Valid from 00:00:01 GMT on Wednesday 23rd March 2016 for a limited time only.  
-4\. This discount can only be used by the recipient and is not transferable.  
-5\. Discount cannot be used in conjunction with any other offer or promotion and cannot be exchanged for cash.  
-6\. Discount cannot be used for the purchase of gift cards, gift vouchers or for paying store card accounts. Normal refund policy applies.  
-7\. Miss Selfridge reserves the right to withdraw this offer at any time.  
-8\. Promoter: Miss Selfridge Retail Limited registered no. 4251393. Registered office: Colegrave House, 70 Berners Street, London W1T 3NL.
-
-**Free Standard Delivery**
-
-1\. By taking advantage of the Free Delivery offer (the "Offer") you agree to these terms and conditions.  
-2\. The Offer entitles you to free standard delivery within the UK and worldwide on all online orders placed at www.missselfridge.com between 00:00:01 (GMT) on 10th April 2016 and 23:59:59 (GMT) on 17th April 2016 (the "Promotional Period").  
-3\. To redeem the Offer, you must enter the free delivery code SPRINGSTYLE at the online checkout. You can only use the Offer on one transaction during the Promotional Period.  
-4\. The Offer applies to UK standard delivery service only.  
-5\. Miss Selfridge's normal refund and returns policy applies.  
-6\. This Offer cannot be used in conjunction with any other offer or promotion and cannot be exchanged for cash.  
-7\. This Offer is non-transferable, non-negotiable and non-refundable.  
-8\. This Offer cannot be used when opening a Miss Selfridge Store Card, towards payment or part payment of an Arcadia Account Card balance or used for the purchase of gift cards.  
-9\. Miss Selfridge reserves the right to (i) cancel this Offer at any time; (ii) refuse to allow any individual to participate in this Offer; (iii) decline to accept an order where, in its opinion, an Offer code is invalid for the order being placed; and (iv) amend these terms and conditions (and will use reasonable endeavours to notify changes to all customers).  
-10\. This Offer is not open to employees of the Arcadia Group, BHS Limited, their families, agencies or anyone else associated with this promotion  
-11\. These terms and conditions shall be governed by and construed in accordance with English law and the English courts shall have exclusive jurisdiction in the event of a dispute.  
-12\. Promoter: Miss Selfridge Retail Limited, registered no. 4251393. Registered office: Colegrave House, 70 Berners Street, London, United Kingdom, W1T 3NL.
-
-**24% off for 24 hours**
-
-  
-TERMS AND CONDITIONS  
-1\. This discount entitles you to receive 24% off in one transaction on all items on the UK Miss Selfridge website, www.missselfridge.com. Discount cannot be used in-store.  
-2\. Items on site automatically have the discount applied.  
-3\. Valid from 00:00:01 GMT to 23:59:59 GMT on Sunday 15th May 2016.  
-4\. This discount can only be used by the recipient and is not transferable.  
-5\. Discount cannot be used in conjunction with any other offer or promotion and cannot be exchanged for cash.  
-6\. Discount cannot be used for the purchase of gift cards, gift vouchers or for paying store card accounts. Normal refund policy applies.  
-7\. Miss Selfridge reserves the right to withdraw this offer at any time.  
-8\. Promoter: Miss Selfridge Retail Limited registered no. 4251393. Registered office: Colegrave House, 70 Berners Street, London W1T 3NL
-
-**Look Magazine 20% off**
-
-Terms & Conditions. 
-
-1.This voucher entitles you to receive a 20% discount on full-priced items in one transaction at Miss Selfridge standalone stores and on www.missselfridge.com. Excludes sale, offers and concession items. 
-
-2.Present this voucher at the till to redeem in store. Forged or photocopied vouchers will not be accepted. 
-
-3.To receive the offer online visit www.missselfridge.com and enter the code LOOK20 at the checkout, only one code per transaction. 
-
-4.Valid from 17th - 24th May 2016 inclusive.
-
-5\. Cannot be used to purchase gift cards or for paying store card accounts. Normal refund policy applies. 
-
-6.Miss Selfridge reserves the right to withdraw this offer at any time. 
-
-7.Promoter: Miss Selfridge registered no. 4251393. Registered office: Colegrave House, 70 Berners Street, London, W1T 3NL.
+8\.   Promoter:  Miss Selfridge Retail Limited registered no. 4251393. Registered office: Colegrave House, 70 Berners Street, London W1T 3NL.
 
 **Instore offer**
 
@@ -857,9 +813,9 @@ These exclusions of liability shall not apply to any damages arising from death 
 
 Times quoted in these terms and conditions are Greenwich Mean Time or British Summer Time (as applicable).
 
-Please note that Miss Selfridge facilitates the sale of certain products on missselfridge.com as agent for its concession brands. By making an order on this site you enter into a contract with the relevant concession brand itself rather than with Miss Selfridge.
+Please note that Miss Selfridge facilitates the sale of certain products on missselfridge.com as agent for its concession brands. Please see [click here](http://www.missselfridge.com/en/msuk/category/miss-selfridge-concessions-6050493/home?TS=1478172775525) for a list of concession brands. By making an order on this site you enter into a contract with the relevant concession brand itself rather than with Miss Selfridge.
 
-These terms and conditions shall be governed by and construed in accordance with English Law and it is agreed that the English courts shall have exclusive jurisdiction in the event of a dispute. If any terms shall be unlawful, void or for any reason unenforceable then that provision shall be deemed severed and shall not affect the validity and enforceability of the remaining provisions.
+These terms and conditions shall be governed by and construed in accordance with English Law and it is agreed that the English courts shall have exclusive jurisdiction in the event of a dispute. If any terms shall be unlawful, void or for any reason unenforceable then that provision shall be deemed severed and shall not affect the validity and enforceability of the remaining provisions. For EU customers only: If you enter into this contract as a consumer this clause does not affect your legal rights as a consumer in your jurisdiction.
 
 Copyright © Miss Selfridge
 
@@ -883,4 +839,8 @@ c[ustomer.service@missselfridge.com](mailto:Customer.service@missselfridge.com)
 
 Customer Service Telephone Number: 0844 984 0263 (calls charged at national rate)
 
-Customer Services are available to help with your queries. Click here to [contact us](http://help.missselfridge.com/system/templates/selfservice/missselfridge/#!portal/403700000001007)
+Customer Services are available to help with your queries. Click here to [contact us](http://help.missselfridge.com/system/templates/selfservice/missselfridge/#!portal/403700000001057)
+
+To donate £3, text MISSBOOBS to 70300.
+
+100% of your donation will be received by CoppaFeel! (registered charity number 1132366, and Scotland SC045970). You will be charged for one standard text message plus your donation. Please remember to always get the bill payer’s permission.
