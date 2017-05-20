@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the protonmail.com privacy policy that was archived on 2016-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160729202645id_/https%3A//protonmail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protonmail.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520044602id_/https%3A//protonmail.com/privacy-policy) for the most accurate reproduction.*
 
 # ProtonMail - Privacy Policy
 
-In the following policy, ProtonMail refers to the service offered by Proton Technologies AG (the "Company" or "We") through the protonmail.com website (the "Service"). This Privacy Policy explains (i) what information we collect through your access and use of our Service (ii) the use we make of such informatoin; and (iii) the security level we provide for protecting such information.
+In the following policy, ProtonMail refers to the service offered by Proton Technologies AG (the "Company" or "We") through the protonmail.com website (the "Service"). This Privacy Policy explains (i) what information we collect through your access and use of our Service (ii) the use we make of such information; and (iii) the security level we provide for protecting such information.
 
 By visiting protonmail.com and using the Services provided here, you consent to the terms outlined in this privacy policy.
 
