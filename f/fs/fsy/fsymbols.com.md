@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsymbols.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222051326id_/http%3A//fsymbols.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsymbols.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520223420id_/http%3A//fsymbols.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - fsymbols
 
@@ -18,7 +18,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 **How we use collected information**
 
-Ішеу may collect and use Users personal information for the following purposes:
+We may collect and use Users personal information for the following purposes:
 
   * _\- To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
@@ -59,5 +59,3 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 ihor.ibm@gmail.com
-
-(Privacy policy generated with help of [Generate Privacy Policy](http://www.generateprivacypolicy.com/)).
