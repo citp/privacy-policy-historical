@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcloud.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029060033id_/https%3A//www.pcloud.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcloud.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521015707id_/https%3A//www.pcloud.com/privacy_policy.html) for the most accurate reproduction.*
 
 # pCloud - Privacy Policy
 
