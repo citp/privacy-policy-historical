@@ -1,117 +1,109 @@
-> *The following text is extracted and transformed from the datingagency.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612173755id_/http%3A//app.datingagency.com/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingagency.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520221601id_/http%3A//us.datingagency.com/help/privacy.cfm) for the most accurate reproduction.*
 
-# DatingAgency.com :: DatingAgency.com Member Privacy Policy
+# Dating Agency US Mature :: Dating Agency US Mature Member Privacy Policy
 
-_Last updated on 15 March 2016_
+_Last updated on March 15, 2016_
 
-### Data Controller
+### Proprietor
 
-For the purposes of the Data Protection Act 1998, we confirm that the data controller of this website including any mobile website (together the “Website”) is Venntro Media Group Ltd., a company registered under the laws of England, whose registered office is Minton Place, Victoria Street, Windsor, SL4 1EG, United Kingdom and who also trades as Global Personals and White Label Dating (“Venntro Media Group”, “we”, “us” and “our”). Venntro Media Group can be contacted via the contact section on the Website or by writing to our registered address. 
+The owners and operators of this website including any mobile website (the "Website") and the dating and networking service offered via the Website (the "Service") is Venntro Inc. also trading as White Label Dating; Venntro Inc. is a corporation organized under the laws of the State of Delaware whose registered office is 425 Boylston Street, 3rd Floor, Boston, MA 02116, USA (“we”, “us” and “our”). 
 
-This Privacy Policy (together with our [Terms of Use](https://web.archive.org/terms "Terms of Use") and any other documents referred to in it) outlines the manner in which we manage personal information obtained through or displayed on the Website or otherwise provided by users (“you”, “your”) of our dating and networking services (“Services”) via the Website.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By using the Website, you are taken to have read and agreed to the collection, use, disclosure and handling of your personal information in accordance with this Privacy Policy. 
+We respect the privacy of each user accessing the Website ("User", “you”, “your”) and are committed to protecting your privacy. This Privacy Policy explains how we handle and protect personally identifiable information received from Users, and what Users can do to help protect that information. 
 
-We may from time to time review and amend this Privacy Policy to take into account changes in law, technology and our operations. We will post any changes to this Privacy Policy on the Website from time to time and, where appropriate, notify you by e-mail. Please periodically review this Privacy Policy before using the Website as continued use of the Website shall indicate your acceptance of any changes. All personal information held by us will be governed by the most recent Privacy Policy posted on the Website. 
+### Submission and Processing of Information
 
-### What personal information do we collect?
+When you subscribe or sign up to the Website and/or the Service, we may ask you for certain personally identifiable information. This personally identifiable information may include information that can be used to identify or contact you, such as your name, email address, mailing address and telephone number ("Personal Information"). 
 
-When you subscribe or sign up to use the Website, we may collect a variety of information from you, which may include: 
+If a User elects to subscribe for the Service or access one of our other fee-based services, the Personal Information of that User may also include certain financial information such as debit or credit card information provided by that User. By making a purchase, or engaging in any other kind of activity or transaction that uses financial information on the Website, you consent to our providing your financial information to our service providers and to such third parties as we determine necessary to support and process your activities and transactions, as well as to your debit or credit card issuer for their purposes. These third parties may include the debit/credit card companies, data processing companies and banking institutions used to process and support your transaction or activity. 
 
-  * personal information required to subscribe or create a member profile, such as your name, phone number, postal address, email address, contact details, photographs, age, gender, nationality, interests, marital status, location and bank/credit card details; 
-  * personal information provided to us if you contact us, such as our records of that correspondence; 
-  * personal Information that you provide to us via our customer service live chat application, such as the transcripts of the chats; 
-  * personal information provided to us if you choose to complete any surveys or questionnaires for us, enter a competition or promotion of ours or participate in forums, discussion boards or other social media functions on our Website; 
-  * personal information if you post or transmit information via the Website to other users; 
-  * information that may not be personal information, such as information detailing your visits to the Website including, but not limited to, traffic data, location data, weblogs and other communication data; and 
-  * information we receive from other sources. For example may receive information about you if you use any of the other websites we operate or the other services we provide. In this case we will have informed you when we collected that data that it may be shared internally and combined with data collected on this site. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them. 
+In addition, the Website automatically collects anonymous information about Users. For example, the Website automatically gathers a User's Internet Protocol address, which Internet Service Provider the User utilizes, statistics about how Users navigate through and use the Website, and information gathered through the use of a device known as a "cookie". Cookies are small pieces of removable data that are stored by the web browser on your computer, mobile phone or other device that identifies your computer, mobile phone or other device when you visit the Website. We use cookies to improve the Website and the services available to you. 
 
+For more information about the cookies we use and the purposes for which we use them, please see our [Cookie Policy](https://web.archive.org/cookie_policy "Cookie Policy"). 
 
+Personal Information collected on the Website may be stored and processed in the United States or any other country in which we or our affiliates, subsidiaries, agents or customers maintain facilities. You acknowledge and agree that Personal Information you provide to us may be transferred outside of the country in which you reside. Providing such information will constitute your consent to any such transfer. 
 
-We may also record which of our Services you are interested in and which Services you purchase. In the course of providing the Website and our Services to you, we may collect some sensitive personal information about you. Sensitive personal information means information or opinion about an individual’s racial or ethnic origin, political opinions, membership of a political association, religious beliefs, philosophical beliefs, memberships of a professional or trade association or trade union, sexual preferences or practices, criminal record or health information. If you disclose sensitive personal information to us, unless you have agreed otherwise, we will only use it for the purposes for which it was provided or as allowed by law. 
+### User Postings
 
-### Why do we collect your personal information and how do we use it?
+Except as otherwise expressly described in this Privacy Policy, this policy only addresses the use and disclosure of Personal Information and other information we collect from you. 
 
-The primary purpose for which we collect information about you is to provide you with Services you have requested in subscribing or signing up to use the Website. We also collect information about you to: 
+In the course of your use of the Website or Service, including when you create a profile on the Website, you may elect to post or otherwise disclose information about yourself and others, which may include Personal Information or other personally identifiable information. You may also elect to communicate with others or upload content such as photographs. Such postings are governed by our [Terms of Use](https://web.archive.org/terms "Terms of Use"). Whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected or used by others. Such postings may also appear on other websites or when searches are executed on the subject of your posting. 
 
-  * process your communications, your membership of and subscription to the Website and to enable your use of the Website and the Services; 
-  * provide you with an up to date, efficient and reliable Service; 
-  * help prevent fraudulent activity, including on your account (for example, if we collect your card details we will check these details with credit agencies and reserve the right to refuse to make available the Website and/or our Services if, for example, the card details provided are reported to be fraudulent or credit agencies report the activities as being fraudulent); 
-  * provide customer care services. For the avoidance of doubt, we will only store limited Credit Card or Debit Card information for the purpose of assisting with customer care enquiries; 
-  * open and run your account; 
-  * administer prize draws, competitions or promotions; 
-  * for statistical and demographic analysis; 
-  * investigate any complaints about or made by you, or if we have reason to suspect that you are in breach of the Website terms of use or that you have otherwise engaged in any unlawful activity; 
-  * provide you with information, products or services that you request from us or which we feel may interest you (except where you have requested not to be contacted for such purposes); 
-  * generally run the Website and for internal operations; 
-  * monitor and record telephone calls for training purposes and to improve the Service to you; and 
-  * comply with any law (including the Data Protection Act 1998). 
+Furthermore, although we restrict access to portions of the Website to members of the Service, since the Service is offered through and accessible through a number of other websites in addition to the Website, any information that you post to the Website for access by members of the Website may be searchable and available to users of the Service who access it via different websites from the Website. 
 
+You may also receive unsolicited messages from other parties as a result of such disclosure. 
 
+Such activities are beyond our control and this Privacy Policy. You should therefore exercise discretion and extreme caution when disclosing any Personal Information or other information when using the Website or the Service. 
+
+### Third Party Websites
+
+The Website contains links to other websites. We are not responsible for the privacy practices of such websites. It is the User's responsibility to review the privacy policies at those websites to confirm that they are acceptable prior to use. A link does not constitute an endorsement of the content, viewpoint or accuracy of such websites. 
 
 ### Marketing Communications
 
 By subscribing to the Services you agree that we may use your information to contact you by electronic mail (e.g. by email and SMS) (“Marketing Communications”) about offers, events, competitions, items or related activities that you may find useful, as well as other similar products and services offered by us or any of our related entities from time to time. 
 
-You may receive Marketing Communications from us or any of our trading names, for example White Label Dating, both during the term of your membership (whether full or basic) and after termination of your membership (or deletion of your account) unless you unsubscribe from receiving such Marketing Communications as set out below. 
+You may receive Marketing Communications from us or any of our trading names, for example Venntro Inc., both during the term of your membership (whether full or basic) and after termination of your membership (or deletion of your account) unless you unsubscribe from receiving such Marketing Communications as set out below. 
 
-We do not sell, trade or rent your personal information to other companies and partners, but if you give us your express consent, we may share your data with other reputable companies both within and outside the EU who may have interesting offers and information for you. If you wish to receive Marketing Communications from selected third parties, or if you would like to receive Marketing Communications from us about our non-dating related products and services or other third party products and services, you can indicate your consent by ticking the relevant opt-in tick box during the registration process. 
+We do not sell, trade or rent Personal Information of Users to other companies and partners, but if you give us your express consent, we may share your Personal Information (other than credit card information) with affiliates of ours and with other carefully selected companies that we believe offer services and products that would potentially be of interest to you. In no event will the Company share any credit card information of any User. 
+
+If you wish to receive Marketing Communications from selected third parties, or if you would like to receive Marketing Communications from us about our non-dating related products and services or other third party products and services, you can indicate your consent by ticking the relevant opt-in tick box during the registration process. 
 
 #### How to unsubscribe from receiving Marketing Communications?
 
-If you have consented to receive Marketing Communications, you may always revoke that consent at any time by changing your settings on the Website or exercising the "unsubscribe" option in any Marketing Communications you get from us or from our marketing partners. 
+If you have consented to receive Marketing Communications, you may always revoke that consent at any time by changing your settings at the Website or exercising the "unsubscribe" option in any Marketing Communications you get from us or from our marketing partners. 
 
-### Who do we disclose your information to?
+### Confidentiality and Security of Personal Information
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006. 
+Transmission of data and information via the Website is not a secure or encrypted transmission method for sending your Personal Information, unless otherwise indicated on the Website. Accordingly, your attention is drawn to the fact that any information and Personal Information carried over the Internet is not secure. Personal Information may be intercepted, lost, redirected, corrupted, changed and accessed by other people. 
 
-We may also disclose your personal information to third parties: 
+Nevertheless, we are committed to using all reasonable efforts to protect Personal Information collected through the Website against unauthorized access, use or disclosure. Consequently, we limit employees' access to Personal Information collected through the Website to only those employees who need access to the information in the performance of their official duties. Employees who have access to this information are required to follow appropriate procedures in connection with any disclosures of Personal Information. 
 
-  * authorised by you to receive information held by us (including other members using the Website, associated websites and our Services); 
-  * for the purpose of asking that third party to provide goods or services on our behalf, including but not limited to carrying out data analysis, cleansing, processing credit card information, mail outs, debt collection, marketing, research and advertising; 
-  * that are our agents, business partners or joint venture entities or partners; 
-  * that are associated websites (our Services may be offered through and accessible via a number of other websites in addition to this Website (“Associated Websites”) and data that you post to the Website for access by members of the Website may be searchable and available to users of the Website Services who access it via Associated Websites); 
-  * that sponsor or promote any competition that we conduct or promote via our Services; 
-  * in the event that we sell, trade or licence any part of the business or assets of the business that include your personal information (excluding cookies); 
-  * for the purpose of contacting you directly about their offers, promotions, goods or services (if you have requested to be contacted for such purposes); or 
-  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use; or to protect the rights, property, or our safety, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction, or to the Police and any relevant authority or enforcement body (including your Internet Service Provider or network administrator). 
+The Company protects any debit or credit card information provided by the User by revealing only the last four digits of a User's debit/credit card number when confirming a subscription or order, but is required to transmit the entire debit/credit card number to its debit/credit card processor during processing. The Company will only store limited Credit Card or Debit Card information for the purpose of assisting with customer care enquiries. 
 
+In addition, we set strict security standards to prevent any unauthorized access to your Personal Information once we have received it and wherever possible we will use adequate security software and working procedures to ensure the security of your personal data. To prevent unauthorized access, maintain accuracy, and ensure proper use of Personal Information, we have employed physical, electronic, and managerial processes to safeguard and secure the Personal Information we collect online. These measures include limiting the number of people who have physical access to our database servers, as well as electronic security systems and password protections which guard against unauthorized access. 
 
+### Disclosure of Personal Information
 
-If you use our Services via an Associated Website, your personal information will be managed in accordance with the privacy policy of that website. We are not in control of, and cannot accept responsibility for, any Associated Website or third party website linked to the Website. 
+We may disclose your Personal Information to any member of our group, which means our subsidiaries and our ultimate holding company and its subsidiaries and affiliates. 
 
-You agree that if we transfer ownership or management of the Website, our Services, the business and/or the assets (in whole or in part) to a third party, that we may also transfer your personal data or other personal data you have provided to us, including all sensitive personal data and any other information about you to such third party, provided such third party agrees to observe this policy. 
+We may disclose your Personal Information to third parties if you have consented to such disclosure. In addition, we may disclose or provide access to your Personal Information to third parties without your consent: 
 
-### How do we restrict access to your personal information on the Service?
-
-We respect and are committed to protecting your privacy and that of other users, and wherever possible we require you to provide login information and identify yourself to access the Website. 
-
-We also make an effort to ensure that members of the Service are not connected with other members that may be inappropriate. To do this we may apply classifications to Associated Websites that provide access to the Service, including to the Website. These classifications may restrict the availability of: 
-
-  * communications between yourself and other members of the Service; 
-  * the details of other members of the Service to yourself; and 
-  * your details to other members of the Service. 
+  * if we sell or buy any business or assets, in which case we may disclose your Personal Information to the prospective seller or buyer of such business or assets; 
+  * if we or substantially all of our assets are acquired by a third party, in which case Personal Information held by it about our customers will, in most instances, be one of the transferred assets; 
+  * if we ask a third party to carry out data analysis, cleansing and/or market research on our behalf; 
+  * for the purpose of validating the identity of the user and/or conducting background checks; or 
+  * if we have a good faith belief that we are under a duty to disclose or share your personal data in order to comply with any legal obligation (such as in connection with a law enforcement request, judicial proceeding, court order or legal process), or in order to enforce or apply our cookie, or to protect the rights, property, or safety of us, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction. 
 
 
 
-### Security of Personal Information
+### Changes to Personal Information
 
-Transmission of data and information via the Website is not a secure or encrypted transmission method for sending your personal data, unless otherwise indicated on the Website. Accordingly, your attention is drawn to the fact that any information and personal data carried over the internet is not secure and any transmission is at your own risk. Information and personal data may be intercepted, lost, redirected, corrupted, changed and accessed by other people. 
+It is both in our interest and yours to store and process accurate Personal Information. If the Personal Information we hold about you is inaccurate in any way, where appropriate, you may have your Personal Information corrected by us on request. Please contact us to update any of your Personal Information by addressing the "Information Officer" via email at [dataprotection@venntro.com](mailto:dataprotection@venntro.com "Send an email to dataprotection@venntro.com"). 
 
-We take reasonable steps to protect the personal information we hold from misuse and loss, and from unauthorised access, modification or disclosure. For example, we set strict security standards to prevent any unauthorised access to your personal information once we have received it and wherever possible we will use adequate security software and working procedures to ensure the security of your personal information. To prevent unauthorised access, maintain accuracy, and ensure proper use of personal information, we have employed physical, electronic, and managerial processes to safeguard and secure the information we collect online. 
+### Children's Online Privacy
 
-### Cookies
+It is important to us that parents and guardians have control over what information is collected from their children online and how such information is or may be used. The Children's Online Privacy Protection Act of 1998 ("COPPA") imposes restrictions on commercial websites, including ours. It is our policy to be compliant with the requirements of COPPA and not to solicit or collect information about or from children age 13 and under. 
 
-Our Website uses cookies to distinguish you from other users of our Website. Cookies are small pieces of removable data that are stored by the web-browser on your computer, mobile phone or other device that identifies your computer, mobile phone or other device when you visit the Website. We use cookies to improve the Website and the Services available to you. 
+Beyond the requirements of COPPA, we require that individuals be age 18 or over to register as a member of the Service and thus it is our policy not to solicit or collect information about or from anyone under the age of 18. Users are cautioned, however, that absent a clear indication an online communication has been submitted by a person under age 18, the collection of Personal Information submitted to the Website will be treated as though it was submitted by an adult, and may, unless exempted from access by federal or state law, be subject to public access. 
 
-For more information about the cookies we use and the purposes for which we use them, please see our [Cookie Policy](https://web.archive.org/cookie_policy "Cookie Policy"). 
+In the event that we receive an online communication clearly indicating that it has been submitted by a person under the age of 18, under no circumstances will any Personal Information be published on the Website, be used for a purpose not intended by its sender or shared with third parties. 
 
-### Your right to access your personal information
+If you would like more information about COPPA, please visit the Federal Trade Commission's official COPPA page at [www.ftc.gov](http://www.ftc.gov/). 
 
-The Data Protection Act 1998 gives you the right to access information held about you. Your right of access can be exercised in accordance with the Data Protection Act 1998. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. You can request access to your personal information via email to [dataprotection@venntro.com](mailto:dataprotection@venntro.com "Send an email to dataprotection@venntro.com"). We reserve the right to refuse to provide you with a copy of your personal data based on the exemptions set out in the Data Protection Act 1998, but if we do refuse we will give reasons for our refusal and allow you to challenge our decision. 
+### Changes to this Privacy Policy and Transfers of Ownership
 
-It is both in our interest and yours that any personal information we hold about you is accurate, complete and current. If the data we hold about you is inaccurate in any way, please contact us via email to [dataprotection@venntro.com](mailto:dataprotection@venntro.com "Send an email to dataprotection@venntro.com") to have your personal information corrected. 
+You agree that if we transfer ownership or management of the Website or our business and/or assets to a third party we may also transfer your Personal Information and any other data or information you have provided to us to such third party, provided such third party agrees to observe this Privacy Policy. 
 
-If you have any questions or comments about privacy or this Privacy Policy, or if you have already submitted information that you do not wish us to have or if you think that the Website has cookies or data about you that you don't want us to use or that is incorrect please contact us by email (at [dataprotection@venntro.com](mailto:dataprotection@venntro.com "Send an email to dataprotection@venntro.com")) and the information will be corrected as soon as possible or removed from the database as you request. 
+We may change this Privacy Policy from time to time to accurately reflect how we gather and manage User information. We will post any changes to this Privacy Policy on the Website and, where appropriate and practicable, notify you by e-mail. All changes to the Privacy Policy will be effective upon posting to the Website. Please be sure to regularly check our Privacy Policy before using the Website. Continued use of the Website shall indicate your acceptance of any changes to this Privacy Policy 
 
-### Third party links on the Website
+### Disclaimer
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
+The information provided in this Privacy Policy should not be construed as giving business, legal or other advice, or warranting as fail proof the integrity and security of information provided through this Website. While all reasonable attempts are made to provide accurate, current and reliable information, we recognize the possibility of human and/or mechanical error and the possibility that Users of the Site and other third parties may provide and/or publish information, graphics and images on the Site that are false, misleading, or inaccurate. Therefore, we make no representations as to the accuracy, completeness, currency or suitability of the information provided on this Website, and denies any expressed or implied warranty as to the same. For further disclaimers and limitations of liability regarding your use of the Website and Service, see our [Terms of Use](https://web.archive.org/terms "Terms of Use"). 
+
+### California Privacy Rights
+
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or affiliates for those third parties' or affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with whom it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request by email at  [dataprotection@venntro.com](mailto:dataprotection@venntro.com "Send an email to dataprotection@venntro.com"). Please note that it may take up to 60 days from receipt of your email to receive this notice. 
+
+### Further Information
+
+If you have any questions or comments about privacy or this Privacy Policy, please contact us by email at [dataprotection@venntro.com](mailto:dataprotection@venntro.com "Send an email to dataprotection@venntro.com"). 
