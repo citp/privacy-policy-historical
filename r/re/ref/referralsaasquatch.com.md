@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the referralsaasquatch.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529084523id_/http%3A//www.referralsaasquatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the referralsaasquatch.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520153829id_/https%3A//www.referralsaasquatch.com/privacy-policy) for the most accurate reproduction.*
 
-# Referral SaaSquatch Privacy Policy
+# Privacy Policy - Referral SaaSquatch
 
-[Important Note – You can also click here to view and download our Legal Documents](https://drive.google.com/folderview?id=0B5vfRSKkpokVWnNISTZ3d2o4UkE&usp=sharing)
+[Click here to view and download our legal documents.](https://drive.google.com/folderview?id=0B5vfRSKkpokVWnNISTZ3d2o4UkE&usp=sharing)
 
 At ReferralSaaSquatch.com. we are committed to protecting your privacy, and maintain a general policy of openness about how we collect, use and disclose your personal information.
 
@@ -108,14 +108,14 @@ You can help us maintain the accuracy of your personal information by notifying 
 
 E-mail:                         **privacy@saasquat.ch**
 
-Send Mail:                    **838 Fort St., Victoria, B.C., Canada, V8W 1H83Z9**
+Send Mail:                    **Suite 100 – 838 Fort St., Victoria, B.C., Canada, V8W 1H8**
 
 Telephone:                  **+1-250-483-3366**
 
 **Contacting Us**
 
-If you have any questions or requests about ReferralSaaSquatch.com’s   Privacy Policy or if you have reason to believe that ReferralSaaSquatch.com may have failed to adhere to this Privacy Policy, you may contact us at **privacy@saasquat.ch  **or call us at **613-271-5993**.
+If you have any questions or requests about ReferralSaaSquatch.com’s   Privacy Policy or if you have reason to believe that ReferralSaaSquatch.com may have failed to adhere to this Privacy Policy, you may contact us at **privacy@saasquat.ch  **or call us at **250-483-3366**.
 
-This Privacy Policy is intended to comply with the provisions of the _[Personal Information Protection and Electronic Documents Act](http://www.privcom.gc.ca/)_ (Canada).
+This Privacy Policy is intended to comply with the provisions of the _[Personal Information Protection and Electronic Documents Act](http://www.priv.gc.ca/)_ (Canada).
 
 Last Updated: June 13, 2013.
