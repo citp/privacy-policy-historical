@@ -1,992 +1,962 @@
-> *The following text is extracted and transformed from the gap.eu privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005020id_/http%3A//www.gap.eu/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gap.eu privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520224455id_/http%3A//www.gap.eu/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
 
 # Privacy Policy | Gap
 
-## Privacy Policy
+**Privacy Policy**
 
-_Last Updated: 1/08/2016_
+_Last Revised: 17 March 2017_
 
-### Our Commitment to Privacy
+**Our Commitment to Privacy**
 
-Gap Inc. and our affiliates and subsidiaries in the U.S. and the European Union, including GPS (Great Britain) Limited, Gap Europe Limited, Gap (UK Holdings) Limited, Gap (France) SAS, Gap Stores (Ireland) Limited and Gap (Italy) SRL (collectively, "Gap Companies") and our brands, including Gap, Banana Republic, and other Gap Inc. brands (collectively, our "Brands") value our customers and respect your privacy. We collect information about you in our stores and through our websites connected to this policy in an effort to improve your shopping experience and to communicate with you about our products, services, contests and promotions.
+Gap Inc. and our affiliates and subsidiaries in the U.S. and the European Union, including GPS (Great Britain) Limited, Gap Europe Limited, Gap (UK Holdings) Limited, Gap (France) SAS, Gap Stores (Ireland) Limited and Gap (Italy) SRL (collectively, "Gap Inc.") and our brands, including Gap, Banana Republic, Old Navy, Gap Factory, Banana Republic Factory, and Athleta (collectively, our "Brands") value our customers and respect your privacy. 
 
-Personal information collected by Gap Companies under this policy is subject to the rules set out in the Data Protection Act 1998 (the "Act") and any other applicable legislation and rules. For the purposes of the Act, the data processors in the United Kingdom are GPS (Great Britain) Limited and Gap Europe Limited t/a Gap and Banana Republic, companies registered in England and Wales (with company numbers 2275771 and 6279672 and; VAT number GB 676091512) and with their registered offices at TMF Corporate Services Limited, 6 St Andrew Street, London, EC4A 3AE. Gap Companies adhere to the Safe Harbor framework developed by the U.S. Department of Commerce in coordination with the European Commission. 
+Personal information collected by Gap Companies under this policy is subject to the rules set out in the Data Protection Act 1998 (the "Act") and any other applicable legislation and rules. For the purposes of the Act, the data processors in the United Kingdom are GPS (Great Britain) Limited and Gap Europe Limited t/a Gap and Banana Republic, companies registered in England and Wales (with company numbers 2275771 and 6279672 and; VAT number GB 676091512) and with their registered offices at TMF Corporate Services Limited, 6 St Andrew Street, London, EC4A 3AE. 
 
-This policy describes the personal information we collect about you, why we collect it, how we use it, and when we share it with third parties. Our policy also describes the choices you can make about how we collect, use, and disclose your information. If our information practices change, we will post an updated policy on our website. You can tell if the policy has changed by checking the Last Updated date that appears at the top of this policy. You can browse our site without providing any personal information, but if you choose not to provide us with certain personal information, this may result in your being unable to use certain services or features offered by us. If you have any questions about our privacy policy, please contact us as described in the section entitled, "How do I contact you?" below.
+This policy describes the personal information Gap Inc. and our Brands collect about you, why we collect it, how we use it, and when we share it with third parties. This policy covers our European stores and online experiences including our websites and mobile apps. Our policy also describes the choices you can make about how we collect and use your information. If our information practices change, we will post an updated policy on our website. You can tell if the policy has changed by checking the revision date that appears above. If we change this policy in a material way, we will provide appropriate notice to you. You may exercise your choices about how we collect and use your information consistent with this policy at any time. 
 
-### Privacy Policy
+If you have any questions about our privacy policy, please contact us as described in the section entitled, "How do I contact you?" below. 
 
-  * What kind of personal information do Gap Companies collect?
-  * How do Gap Companies use personal information?
-  * Do Gap Companies share personal information about me?
-  * How do I access or change personal information?
-  * How do I make choices about personal information?
-  * What about children's personal information?
-  * How do Gap Companies collect and use non-personal information?
-  * How do Gap Companies collect and use cookies?
-  * How do Gap Companies collect and use pixel tags and similar technologies?
-  * How do Gap Companies collect and use IP addresses?
-  * How do I know personal information about me is secure?
-  * I received a suspicious email from a Gap Inc. brand regarding an order I did not place. What should I do?
-  * I responded to an online job posting for a Gap Inc. job that requires me to upload personal financial information. Is this part of your hiring process?
+**Privacy Policy**
+
+  * What kind of information does Gap Inc. collect?
+  * How does Gap Inc. use my information?
+  * How does Gap Inc. share my information?
+  * What other information does Gap Inc. collect?
+  * What if I connect to Gap Inc’s in-store Wi-Fi services? 
+  * What if I use different devices to visit Gap Inc’s. websites or mobile applications? 
+  * Why did I receive a marketing email after I made a purchase in a Gap Inc. store? 
+  * How do I access or change my information?
+  * How do I make choices about receiving promotional communications? 
+  * How does Gap Inc. protect kids’ privacy?
+  * How is my information used for behavioural or targeted advertising and what choices do I have? 
+  * What if I participate in local store programs? 
+  * How do I know my personal information is secure? 
+  * What is "phishing"?
+  * I received a suspicious email from a Gap Inc. brand regarding an order I did not place. What should I do? 
+  * I responded to an online job posting for a Gap Inc. job that requires me to upload personal financial information. Is this part of your hiring process? 
   * What about links to other websites?
   * How long do you retain my information?
   * How do I contact you?
-  * Customer Complaints
 
 
 
-### What kind of personal information do Gap Companies collect?
+**What kind of information does Gap Inc. collect?**
 
-We may collect personal information from you, such as your name, email address, postal address, phone number or credit card number and details of maternity (where applicable), when you visit one of our websites or stores, place an order online or by phone, make an in-store purchase or return, save your information with us online, contact us or participate in a contest, promotion or survey. We may maintain a record of your product interests and the purchases you make online or by phone and in our stores. As detailed below, we may combine all of this personal information with personal information about you that we acquire from our joint marketing partners, from unrelated third parties, and from our other Brands.
+We may collect personal information from you, such as your name, email address, postal address, phone number, credit card number, gender, birthday, personal interests, etc., when you visit one of our websites or stores, install or use our mobile apps, place an order online or by phone, make an in-store purchase, save your information with us online, contact us with a question or concerns, or participate in a contest, promotion, or survey. We maintain a record of your product interests and the purchases you make online, through a mobile app, by phone and in our stores. 
 
-Personal information about you may be processed or stored on servers hosted in various countries, whether within or outside of the European Economic Area ("EEA"). Accordingly, this means that your personal information may be transferred outside of the EEA to various countries, including the United States. Your personal information may be subject to the laws of the countries in which it is stored or used, and those countries may have a different data protection regime than the country in which you reside. By providing us with any personal information, you consent to such transfer, processing and storage of your personal information. Gap Companies adhere to the Safe Harbor framework developed by the U.S. Department of Commerce in coordination with the European Commission. For more information, please visit: [www.export.gov/safeharbor](http://www.export.gov/safeharbor/).
+We may combine personal information with information about your online and in-store transactions and other interactions with us, including your purchases. We may also combine your personal information with information we receive from other sources, such as joint marketing partners, public databases, publicly available pages on social media platforms and other third parties. In addition, if you choose to engage in social sharing, such as by connecting your social media account to your customer account or by logging into your customer account from your social media account, the social media site may share information with us about your use of their services, including profile information, information about your contacts and content you have viewed or liked. Please refer to the social media site’s privacy settings to control how your information is shared. 
 
-back to top
+If you submit any personal information relating to other people to us or to our service providers, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy. 
 
-### How do Gap Companies use personal information?
-
-We may use your personal information in the following ways:
-
-  * To process and fulfil your order(s), including to send you emails to confirm your order status and shipment
-  * To process merchandise returns
-  * To administer and fulfil contests, loyalty programs, and other promotions and programs in which you participate
-  * To help us address problems with and improve our site design, products and services
-  * To enhance your shopping experience
-  * To help us learn more about your shopping preferences
-  * To understand your shopping interests and purchasing history so that we can tailor offers and promotions to you
-  * For our internal business purposes, such as to analyse trends and statistics, for audits, to develop new products, to enhance our websites, to improve our services, to identify usage trends and to determine the effectiveness of our promotional campaigns
-  * To protect the security or integrity of our websites and our business
-  * To contact you if necessary regarding your transactions with us, changes to our terms, conditions, and policies and/or for other administrative purposes
-  * With your consent when required, to communicate with you and to send you information by email, postal mail, telephone, text message, or other means about our products, services, contests, and promotions, unless you have directed us not to contact you with promotional communications
-
-
+Personal information about you may be processed or stored on servers hosted in various countries, whether within or outside of the European Economic Area ("EEA"). Accordingly, this means that your personal information may be transferred outside of the EEA to various countries, including the United States. Your personal information may be subject to the laws of the countries in which it is stored or used, and those countries may have a different data protection regime than the country in which you reside. By providing us with any personal information, you consent to such transfer, processing and storage of your personal information. 
 
 back to top
 
-### Do Gap Companies share personal information about me?
+**How does Gap Inc. use my information?**
 
-We may share your personal information in the following ways:
+We may use your personal information in the following ways: 
 
-  * _Gap Companies_ : When you provide personal information to one of our Gap Companies, we may share that information with our other Gap Companies so that they may use and disclose it for the purposes described in this privacy policy.  
+  * To process and fulfil your order, including to send you emails to confirm your order status and shipment 
+  * To communicate with you and to send you information by email, postal mail, telephone, text message, or other means about our products, services, contests, and promotions, including marketing communications that we believe may be of interest to you 
+  * To make your shopping experience easier, more enjoyable and more efficient 
+  * To address problems with and improve our products, brands, services and technologies, as well as to develop new products and services 
+  * To allow you to use our in-store and online technologies 
+  * To provide consistent, personalised services across all channels and all of our Brands, including to personalise our advertising, marketing communications, shopping experiences and promotional offers 
+  * To organize local community events, promotions and in-store experiences 
+  * To facilitate social sharing 
+  * To allow you to apply for an offer of credit from a payment card provider 
+  * To allow you to enroll and participate in a loyalty or customer relationship program 
+  * To administer and fulfill our contests and other promotions 
+  * To help us learn more about your shopping preferences 
+  * To prevent, detect, mitigate and investigate fraud, security breaches and activities that are or potentially may be prohibited or illegal 
+  * To enforce our [ Terms of Sale and Use ](https://web.archive.org/customerService/info.do?cid=6754)
+  * _As we believe to be required or appropriate to protect the rights, property, safety and security of Gap Inc. and our employees, customers and others_
+  * _As we believe to be required or appropriate under applicable law, to respond to requests from government authorities and to comply with the legal process_
 
-  * _Service Providers_ : We engage service providers who manage our customer information and perform services on our behalf. We require that our service providers appropriately protect personal information and use it only to provide services to us.  
-
-  * _Third Parties_ : We may share your personal information with third party sponsors of contests, promotions or loyalty programs, or otherwise in accordance with the terms and conditions applicable to any such contests, promotions or programs. You should carefully review any such terms and conditions, as they may contain additional important information about a sponsor's or other third party's use of your personal information. To the extent that the terms and conditions conflict with this privacy policy, the terms and conditions of such contests, promotions and programs shall prevail. To ensure that your credit or debit cards are not being used without your consent, we may also validate name, address and other personal information provided by you during the order process against appropriate third party databases. If we suspect fraud or identity fraud, we may record this and retain such records for the purposes of fraud prevention in the future. By accepting this privacy policy, you consent to such processing, storage and use.  
-
-  * _Corporate Transactions_ : In the unlikely event of a reorganisation, merger, sale, joint venture, assignment, transfer or other disposition of whatsoever nature of all or any portion of the business, assets or stock of the Gap Companies or any of our businesses, personal information about our customers and other information we have collected as described in this policy may be among the transferred business assets and may be shared with other relevant parties.  
-
-  * _Other Disclosures_ : Gap Companies may also disclose personal information about you in order to: 
-    1. protect the legal rights, privacy or safety of Gap Companies or our employees, agents and contractors;
-    2. protect the safety and security of visitors to our websites or other properties;
-    3. protect against fraud or other illegal activity or for risk management purposes;
-    4. respond to inquiries or requests from government or public authorities in any country in which we operate, including the U.S.;
-    5. permit us to pursue available remedies or limit the damages that we may sustain;
-    6. enforce our Terms of Use of any website we may operate or the terms and conditions applicable to any contest, promotion or program; or
-    7. comply with the law or legal process.
 
 
-
-back to top
-
-### How do I access or change personal information?
-
-You can contact us as described in the section entitled "How do I contact you?" to request access to or more information about the use of personal information or to ask us to change, update, delete and/or suppress personal information. Please note that certain personal information may be exempt from such access, correction, deletion or suppression rights pursuant to local data protection laws. We will respond as required by applicable law. Further, if we provide functionality on any of our websites that permits you to set up an account on the site, you may log into your account to access and change your personal information.
-
-In any contact with us in this regard, you must clearly indicate: the information that you wish to have changed; the information that you wish to have suppressed from our database; or the limitations you wish to put on our use of your personal information. We may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed. We are not responsible for changing, updating, deleting or suppressing personal information in the databases of third parties with whom we have already shared your personal information, or limiting their use of your personal information.
+You always have the choice not to receive marketing information or calls. For instructions on opting out, please see the section entitled, "How do I make choices about receiving promotional communications?", below. 
 
 back to top
 
-### How do I make choices about personal information?
-
-Gap Companies and our Brands want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information, such as information about special offers and sales events, from one or more of our Brands, you can let us know by contacting our customer service as described in the section entitled, "How do I contact you?", below or by following the "unsubscribe" instructions provided in promotional emails sent to you.
-
-Please be sure to include your full name and the email address you used when you registered with or made a purchase from our Brand(s). If you ask us to remove your name and address from promotional lists, we will maintain your name in a "do not contact" file in order to honour your request.
-
-If you change your mind, you can start receiving promotional communications from us again by signing up when you visit our websites or our stores or when you enter a prize draw or contest, or by contacting customer service.
-
-back to top
-
-### What about children's personal information?
-
-Our websites are not targeted to or intended for use by children. We ask that children under 18 not transmit any personal information to us. Where specifically requested, we welcome the parent or guardian of a child under the age of 18 to provide relevant information about the child.
-
-back to top
-
-### How do Gap Companies collect and use non-personal information?
-
-Non-personal information is information that does not identify you. It may include information you have provided to us such as demographic data, for example, your gender, birthday, and personal interests. Non-personal information also includes aggregate information, for example, using personal information to calculate the percentage of our customers who like a particular Brand.
-
-When you visit our websites, the Gap Companies collect non-personal information that may include your MAC address, your computer type, screen resolution, OS version, Internet browser, IP address (as further described below), cookies (as further described below), pixel tags, web beacons, and other similar technologies (as further described below) to better serve you with more tailored information and facilitate your ongoing use of our websites.
-
-The Gap Companies may use non-personal information and share non-personal information with other third parties for any purpose. The Gap Companies may combine non-personal information with personal information, such as combining your geographic location with your name, but if we do this the information will be treated by us as personal information for so long as it is combined.
-
-back to top
-
-### How do Gap Companies collect and use cookies?
-
-Our websites use "cookies," which are small data files containing small amounts of information that, if you agree, are downloaded to and stored on your computer when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user's device. Cookies may be used in a variety of ways to enhance or personalise your online experience. For example, we may use cookies to enable you to use certain website features, store your preferences, recognise you when you return to our website, and monitor and maintain information about your use of our websites. Cookies may also be used to collect transaction information needed by a loyalty program to which you have authorised us to provide your personal information. (See the section entitled, "Do Gap Companies share my information?", above.) They may also be used to provide you with personalised advertisement banners while browsing other reputable sites. These advertisements will relate to products which have been viewed while browsing this website on your computer or any other device. We are committed to only providing you with information which is relevant to you and which you want to receive.
-
-Read more about the individual cookies we use and how to recognise them [here](https://web.archive.org/customerService/info.do?cid=81901).
-
-You can choose to either agree or not agree to our use of such cookies on our websites. If you agree to our use of cookies, you can withdraw your consent at any time by using your browser settings; for more information on how to do this, please visit <http://www.allaboutcookies.org/manage-cookies>. If you do not agree to our use of cookies, however, certain features of our websites may not then be available to you.
-
-To learn more about cookies, please visit <http://www.allaboutcookies.org/>.
-
-back to top
-
-### How do Gap Companies collect and use pixel tags and similar technologies?
-
-If you agree, we use "pixel tags" (also called "web beacons" or "clear gifs"), which are tiny graphic images, and other similar technologies on our websites and in our emails. Pixel tags help us analyse our customers' online behaviour and measure the effectiveness of our websites and our advertising. We work with service providers that help us track, collect, and analyse this information. Pixel tags on our websites may be used to collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the websites. This information may include your browser type, your operating system, date and time information, and other technical information about your computer. We may also track certain information about the identity of the website you visited immediately before coming to our site. Pixel tags and cookies in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us.
-
-We may combine the information we collect through cookies and pixel tags with other information we have collected from you. This information may be used to improve our websites, to personalise your online experience, to tailor our communications with you, to determine the effectiveness of our advertising, to understand your preferences and for other internal business purposes.
-
-We also work with third-party companies that use tracking technologies to serve advertisements on our behalf across the Internet. If you agree, these companies may collect information about your visits to our websites and your interaction with our advertising and other communications. We are committed to only providing you with information which is relevant to you and which you want to receive. Read more about the individual pixel tags we use and how to recognise them [here](https://web.archive.org/customerService/info.do?cid=81901).
-
-You can choose to either agree or not agree to our use of such pixel tags on our websites. If you agree to our use of pixel tags, you can withdraw your consent at any time by changing your Targeting cookie preference [here](https://web.archive.org/customerService/info.do?cid=81901). If you do not agree to our use of such pixel tags, however, certain features of our websites may not be available to you.
-
-To learn more about online behavioural advertising, or to opt out from receiving targeted ads, please visit the European Interactive Digital Advertising Alliance: [http://www.edaa.eu](http://www.edaa.eu/)/.
-
-back to top
-
-### How do Gap Companies collect and use IP addresses?
-
-Your IP address is a number that is automatically assigned to your computer by your Internet Service Provider (ISP). This number may be different each time you log onto the Internet or it may remain the same. The IP address is logged automatically in our server log files whenever you visit our websites, along with the time of your visit and the pages that you visited. It is also collected by pixel tags, as described above. Collecting IP addresses is standard practice on the Internet and is done automatically by many websites.
-
-We may use IP addresses for the same purposes for which we use personal information, as well as for calculating website usage levels, helping diagnose server problems, and administering our websites and your use of our websites including providing opportunities to you and fulfilling your requests and purchases. Except where otherwise required by law, we treat IP addresses, server log files and related information as non-personal information.
-
-back to top
-
-### How do I know personal information about me is secure?
-
-We have in place physical, electronic, contractual, and managerial safeguards to help protect the security and privacy of your personal information from unauthorised access, acquisition or disclosure. When you enter your personal information on our websites, we use Secure Sockets Layer (SSL) technology to protect your personal information as it is transmitted to us.
-
-Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. Please do not send us sensitive information through email. If you have reason to believe that your interaction with us is no longer secure, you must immediately notify us of the problem by contacting us as described in the section entitled, ["How do I contact you?"](https://web.archive.org/customerService/info.do?cid=2331#contact)below. If you choose to notify us by post this will delay the time it takes for us to respond to the problem.
-
-back to top
-
-### I received a suspicious email from a Gap Inc. brand regarding an order I did not place. What should I do?
-
-We are aware of phony emails sent out under our Brand names. These emails did not originate from Gap Inc., and individuals who received fraudulent order status emails have not been charged. For your protection, do not click links or open any files attached to suspicious, unsolicited emails. If you believe your personal computer has been compromised as a result of the scam, please consult an IT professional. For more information, contact Action Fraud, the National Fraud and Cyber Crime Reporting Centre at <http://www.actionfraud.police.uk/>. 
-
-back to top
-
-### I responded to an online job posting for a Gap Inc. job that requires me to upload personal financial information. Is this part of your hiring process?
-
-No. Gap Inc. does not ask prospective job applicants for information about their bank accounts, credit history or passwords to financial accounts. If you are asked for personal financial or security information in response to a job application, this is likely a fraudulent job listing hosted by spammers posing as Gap Inc. to mislead job applicants. You can validate all Gap Inc. job postings in the UK on http://www.gapcareers.co.uk/. Spammers also create phony aliases to mimic our company and/or Brand names in an effort to commit identity theft or other forms of fraud. If you receive this type of suspicious email activity, please alert Action Fraud, the National Fraud and Cyber Crime Reporting Centre at <http://www.actionfraud.police.uk/>.
-
-back to top
-
-### What about links to other websites?
-
-For your convenience and information, our websites may contain links to other websites, which may have privacy practices and policies that differ from our own. We are not responsible for the content or practices of any linked website. We recommend that you review the privacy policy of any site that you access through our sites. The inclusion of a link to a third-party site on our websites does not imply that any of the Gap Companies endorses the website.
-
-back to top
-
-### How long do you retain my information?
-
-We will retain your personal information for the period necessary to fulfil the purposes outlined in this policy unless a longer retention period is required or permitted by law.
-
-back to top
-
-### How do I contact you?
-
-For questions about our privacy policy, to make choices about receiving promotional communications, to update or change personal information about you in our databases or to request that we delete or suppress your personal information, you can contact our Brands by email, telephone, or post:
-
-_Email_ :[custserv@gap.eu](mailto:custserv@gap.eu)
-
-_Telephone_ :
-
-Calling within the UK 0800 368 0674  
-Calling international: click [here](https://web.archive.org/customerService/info.do?cid=7886) for phone numbers outside of the UK.
-
-_Post_ :
-
-Gap EHQ  
-Freepost WD 3719  
-Castle Mound Way  
-Rugby, Warwickshire,  
-CV23 0BR  
-United Kingdom 
-
-### Customer Complaints 
-
-If your inquiry has not been satisfactorily addressed by custserv@gap.com, the European Online Dispute Resolution Platform at: http://ec.europa.eu/odr is available to you as a means to take the matter further. Whilst you also have the right to contact The Retail Ombudsman, a CTSI approved alternative dispute resolution provider, at www.theretailombudsman.org.uk, please note that Gap Companies conduct alternative dispute resolution via the International Centre for Dispute Resolution, the international division of the American Arbitration Association (ICDR/AAA) at: https://www.icdr.org.
-
-## Privacy Policy
-
-_Last Updated: 1/08/2016_
-
-### Our Commitment to Privacy
-
-Gap Inc. and our affiliates and subsidiaries in the U.S. and the European Union, including GPS (Great Britain) Limited, Gap Europe Limited, Gap (UK Holdings) Limited, Gap (France) SAS, Gap Stores (Ireland) Limited and Gap (Italy) SRL (collectively, "Gap Companies") and our brands, including Gap, Banana Republic, and other Gap Inc. brands (collectively, our "Brands") value our customers and respect your privacy. We collect information about you in our stores and through our websites connected to this policy in an effort to improve your shopping experience and to communicate with you about our products, services, contests and promotions.
-
-Personal information collected by Gap Companies under this policy is subject to the rules set out in the Data Protection Act 1998 (the "Act") and any other applicable legislation and rules. For the purposes of the Act, the data processors in the United Kingdom are GPS (Great Britain) Limited and Gap Europe Limited t/a Gap and Banana Republic, companies registered in England and Wales (with company numbers 2275771 and 6279672 and; VAT number GB 676091512) and with their registered offices at TMF Corporate Services Limited, 6 St Andrew Street, London, EC4A 3AE. Gap Companies adhere to the Safe Harbor framework developed by the U.S. Department of Commerce in coordination with the European Commission. 
-
-This policy describes the personal information we collect about you, why we collect it, how we use it, and when we share it with third parties. Our policy also describes the choices you can make about how we collect, use, and disclose your information. If our information practices change, we will post an updated policy on our website. You can tell if the policy has changed by checking the Last Updated date that appears at the top of this policy. You can browse our site without providing any personal information, but if you choose not to provide us with certain personal information, this may result in your being unable to use certain services or features offered by us. If you have any questions about our privacy policy, please contact us as described in the section entitled, "How do I contact you?" below.
-
-### Privacy Policy
-
-  * What kind of personal information do Gap Companies collect?
-  * How do Gap Companies use personal information?
-  * Do Gap Companies share personal information about me?
-  * How do I access or change personal information?
-  * How do I make choices about personal information?
-  * What about children's personal information?
-  * How do Gap Companies collect and use non-personal information?
-  * How do Gap Companies collect and use cookies?
-  * How do Gap Companies collect and use pixel tags and similar technologies?
-  * How do Gap Companies collect and use IP addresses?
-  * How do I know personal information about me is secure?
-  * I received a suspicious email from a Gap Inc. brand regarding an order I did not place. What should I do?
-  * I responded to an online job posting for a Gap Inc. job that requires me to upload personal financial information. Is this part of your hiring process?
-  * What about links to other websites?
-  * How long do you retain my information?
-  * How do I contact you?
-  * Customer Complaints 
-
-
-
-### What kind of personal information do Gap Companies collect?
-
-We may collect personal information from you, such as your name, email address, postal address, phone number or credit card number and details of maternity (where applicable), when you visit one of our websites or stores, place an order online or by phone, make an in-store purchase or return, save your information with us online, contact us or participate in a contest, promotion or survey. We may maintain a record of your product interests and the purchases you make online or by phone and in our stores. As detailed below, we may combine all of this personal information with personal information about you that we acquire from our joint marketing partners, from unrelated third parties, and from our other Brands.
-
-Personal information about you may be processed or stored on servers hosted in various countries, whether within or outside of the European Economic Area ("EEA"). Accordingly, this means that your personal information may be transferred outside of the EEA to various countries, including the United States. Your personal information may be subject to the laws of the countries in which it is stored or used, and those countries may have a different data protection regime than the country in which you reside. By providing us with any personal information, you consent to such transfer, processing and storage of your personal information. Gap Companies adhere to the Safe Harbor framework developed by the U.S. Department of Commerce in coordination with the European Commission. For more information, please visit: [www.export.gov/safeharbor](http://www.export.gov/safeharbor/).
-
-back to top
-
-### How do Gap Companies use personal information?
-
-We may use your personal information in the following ways:
-
-  * To process and fulfil your order(s), including to send you emails to confirm your order status and shipment
-  * To process merchandise returns
-  * To administer and fulfil contests, loyalty programs, and other promotions and programs in which you participate
-  * To help us address problems with and improve our site design, products and services
-  * To enhance your shopping experience
-  * To help us learn more about your shopping preferences
-  * To understand your shopping interests and purchasing history so that we can tailor offers and promotions to you
-  * For our internal business purposes, such as to analyse trends and statistics, for audits, to develop new products, to enhance our websites, to improve our services, to identify usage trends and to determine the effectiveness of our promotional campaigns
-  * To protect the security or integrity of our websites and our business
-  * To contact you if necessary regarding your transactions with us, changes to our terms, conditions, and policies and/or for other administrative purposes
-  * With your consent when required, to communicate with you and to send you information by email, postal mail, telephone, text message, or other means about our products, services, contests, and promotions, unless you have directed us not to contact you with promotional communications
+**How does Gap Inc. share my information?**
+
+We may share your personal information in the following ways: 
+
+  * **Brands** : When you provide personal information to one of our Brands, we may share that information with our other Brands. 
+  * **By You.** You may disclose personal information when you post content to our websites, in-store technologies or other public forums, such as our brands’ social media pages, blogs, and online product reviews. Any information that you disclose through these services will become public. 
+  * **Social Sharing.** Your personal information may be disclosed in connection with your social sharing activity, such as if you log into your customer account from your social media account. By connecting your customer account and your social media account, you authorise us to share information with your social media account provider, and you understand that the use of the information we share will be governed by the social media site’s privacy policy. 
+  * **Service Providers** **:** We may share your information with our service providers who manage our customer information and perform services on our behalf, such as fulfilling promotions, sending communications to our customers, conducting surveys, etc. We do not authorize any of these service providers to make any other use or disclosure of your information. 
+  * **Third Parties** : We may share your information when we team up with another company to offer or provide products, services, contests, or promotions to our customers. 
+  * **Legal Requirements:** We may share information about you if necessary or appropriate, in our good faith judgement, to comply with laws or regulations or in response to a valid subpoena, order, or government request, or to protect the operations, privacy, safety, property or rights of Gap Inc. or others. 
+  * **Scrip or Loyalty Programs:** If you choose to participate in any third-party scrip, loyalty, or similar program in which a Gap Inc. Brand is a participating vendor, and you authorize Gap Inc. or our credit card processor to provide information about your purchases to the company administering the program, we will share your personal information with that program. Scrip programs allow you to instruct us to divert a percentage of the amount you spend on Gap Inc. purchases to participating schools and other non-profit organizations. Loyalty programs allow you to earn “points” on purchases at Gap Inc. brands, which you may then use toward certain rewards offered by the loyalty programs in which you participate. The information you authorize us to disclose to the third-party scrip or loyalty program may include your credit card number and the date and amount of your purchase, and may also include your name and other information you have asked us to provide. Please note that once we disclose this information, the scrip or loyalty company may use and share it with others in accordance with its own privacy policy. You should review these policies carefully, as we have no control over them. 
+  * **Business Transfer:** In the unlikely event of a sale or merger of Gap Inc. or any of our businesses, our customers’ personal information and other information we have collected as described in this policy may be among the transferred business assets. 
 
 
 
 back to top
 
-### Do Gap Companies share personal information about me?
+**What other information does Gap Inc. collect?**
 
-We may share your personal information in the following ways:
+We may collect information that does not reveal your specific identity or does not directly relate to an individual, such as browser and device information; information collected through cookies, pixel tags and other technologies, demographic information and other information provided by you; and aggregated information. 
 
-  * _Gap Companies_ : When you provide personal information to one of our Gap Companies, we may share that information with our other Gap Companies so that they may use and disclose it for the purposes described in this privacy policy.  
+We may use and disclose such information for any lawful purpose. If required, we will treat such information as personal information in accordance with this policy. We will also treat such information as personal information to the extent it is combined with personal information. For example, when you use our technologies, we may keep a record of your product interests, the purchases you make and other content you generate (such as adding items to your shopping cart). 
 
-  * _Service Providers_ : We engage service providers who manage our customer information and perform services on our behalf. We require that our service providers appropriately protect personal information and use it only to provide services to us.  
+We may collect information in a variety of ways, including: 
 
-  * _Third Parties_ : We may share your personal information with third party sponsors of contests, promotions or loyalty programs, or otherwise in accordance with the terms and conditions applicable to any such contests, promotions or programs. You should carefully review any such terms and conditions, as they may contain additional important information about a sponsor's or other third party's use of your personal information. To the extent that the terms and conditions conflict with this privacy policy, the terms and conditions of such contests, promotions and programs shall prevail. To ensure that your credit or debit cards are not being used without your consent, we may also validate name, address and other personal information provided by you during the order process against appropriate third party databases. If we suspect fraud or identity fraud, we may record this and retain such records for the purposes of fraud prevention in the future. By accepting this privacy policy, you consent to such processing, storage and use.  
+  * **Your browser or device** : Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version, and browser click-through and usage data. 
+  * **Mobile applications** : When you download and use one of our mobile applications, we may track and collect usage data, such as the date and time the app on your device accesses our servers and what information and files have been accessed, viewed and/or downloaded to the app based on your device number or other identifier. 
+  * **Cookies** : Cookies are pieces of information stored directly on the computer that you are using. Our websites, online advertisements, and emails use cookies, pixel tags, and other technologies to automatically collect information about your interactions, such as browser type, pages viewed, links clicked, and other actions you take in connection with our websites, online ads, and email. We use the information for a variety of purposes, including to facilitate navigation, to display information more effectively, to personalize your experience, to understand how our websites are used, to measure the success of our marketing campaigns, and for security purposes. If your browser is set to decline cookies, you may not be able to access your customer account or make a purchase on our websites. To learn how we use cookies for advertising, please see the section, "How is my information used for behavioral or targeted advertising and what choices do I have?" below. 
 
-  * _Corporate Transactions_ : In the unlikely event of a reorganisation, merger, sale, joint venture, assignment, transfer or other disposition of whatsoever nature of all or any portion of the business, assets or stock of the Gap Companies or any of our businesses, personal information about our customers and other information we have collected as described in this policy may be among the transferred business assets and may be shared with other relevant parties.  
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies or be given the choice of declining or accepting the transfer to your computer of a particular cookie (or cookies) from a particular site. If you do not accept cookies, you may experience some inconvenience in your use of our sites. For example, you may not be able to access your account information or make a purchase on our websites. 
 
-  * _Other Disclosures_ : Gap Companies may also disclose personal information about you in order to: 
-    1. protect the legal rights, privacy or safety of Gap Companies or our employees, agents and contractors;
-    2. protect the safety and security of visitors to our websites or other properties;
-    3. protect against fraud or other illegal activity or for risk management purposes;
-    4. respond to inquiries or requests from government or public authorities in any country in which we operate, including the U.S.;
-    5. permit us to pursue available remedies or limit the damages that we may sustain;
-    6. enforce our Terms of Use of any website we may operate or the terms and conditions applicable to any contest, promotion or program; or
-    7. comply with the law or legal process.
-
+  * **Using pixel tags and** **other similar technologies** : We may use pixel tags to, among other things, track the actions of users of our sites and services (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of our sites and services and response rates. 
+  * **Analytics** : We use third-party service providers, including Google and Adobe, which use cookies and similar technologies to collect and analyze information about use of our websites and mobile applications and in-store technologies. This service may also collect information regarding the use of other websites, apps and online resources. You can learn about Google’s practices at [http://www.google.com/policies/privacy/‌partners/](http://www.google.com/policies/privacy/partners/), and opt out by using the Google Analytics Opt-Out Browser Add-on, available at <https://tools.google.com/dlpage/gaoptout> . You can learn about Adobe’s practices and opt out at <http://www.adobe.com/privacy/opt-out.html>. 
+  * **Adobe Flash** : We may use Adobe Flash technology, including Flash Local Shared Objects (“Flash LSOs”), and other similar technologies to collect and store information about your use of our websites and mobile applications. You can adjust your Flash player settings to block Flash LSO storage on your computer using the tools contained in the [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). You can also control Flash LSOs by going to the [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs (referred to as “information” on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to limit acceptance of Flash LSOs may interfere with the functionality of some Flash applications, including those used in connection with our websites and mobile apps. 
+  * **IP Address** : Your Internet Protocol (“IP”) address is a number that is automatically assigned to the computer that you are using by your Internet service provider. An IP address may be identified and logged automatically in our server log files whenever you access our websites, along with the time of the visit and the pages that were visited. Your IP address may also indicate your approximate physical location. Collecting IP addresses is standard practice and is done automatically by many websites, applications and other technologies. We use IP addresses for purposes such as calculating usage levels and diagnosing server problems. 
+  * **Physical Location:** We may collect the physical location of your device by, for example, using satellite, cell phone tower or Wi-Fi signals. We may use your device’s physical location to provide you with personalized location-based services and content. You may be permitted to allow or deny such uses, but if you do deny them, we may not be able to provide you with a personalized user experience. ****
+  * **In-** **Store Technologies** : We may provide in-store technologies to help personalize and improve your shopping experience. These technologies may require the collection of certain information about your mobile device, such as your MAC address or other device identification information and may also permit you to submit personal details for increased levels of personalization, such as your interests, shopping preferences, and sizing information. 
+  * **Aggregated information** : We may collect and use aggregated personal information, which does not personally identify you. For example, we may calculate the percentage of our site users who have a particular telephone area code. 
 
 
-back to top
-
-### How do I access or change personal information?
-
-You can contact us as described in the section entitled "How do I contact you?" to request access to or more information about the use of personal information or to ask us to change, update, delete and/or suppress personal information. Please note that certain personal information may be exempt from such access, correction, deletion or suppression rights pursuant to local data protection laws. We will respond as required by applicable law. Further, if we provide functionality on any of our websites that permits you to set up an account on the site, you may log into your account to access and change your personal information.
-
-In any contact with us in this regard, you must clearly indicate: the information that you wish to have changed; the information that you wish to have suppressed from our database; or the limitations you wish to put on our use of your personal information. We may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed. We are not responsible for changing, updating, deleting or suppressing personal information in the databases of third parties with whom we have already shared your personal information, or limiting their use of your personal information.
 
 back to top
 
-### How do I make choices about personal information?
+**What if I connect to Gap Inc’s in-store Wi-Fi services?**
 
-Gap Companies and our Brands want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information, such as information about special offers and sales events, from one or more of our Brands, you can let us know by contacting our customer service as described in the section entitled, "How do I contact you?", below or by following the "unsubscribe" instructions provided in promotional emails sent to you.
+If you choose to connect to our in-store Wi-Fi services, Gap Companies will receive information about you and your device, including your device’s MAC address, IP address, received signal strength indicator (RSSI) and technical details about your device such as its operating system and device type (including make and model) and technical capabilities. If you have given your device a name, we may receive it. We will also receive information about how you use our Wi-Fi network while you are connected, including the store location, the areas of the store you visit, the names and/or Internet addresses of the websites you visit and the applications you use, and how long you interact with such sites or applications. We collect this information each time you connect to the Wi-Fi services and may associate it with other information we have collected from and about you. 
 
-Please be sure to include your full name and the email address you used when you registered with or made a purchase from our Brand(s). If you ask us to remove your name and address from promotional lists, we will maintain your name in a "do not contact" file in order to honour your request.
+If your mobile device is configured to search for available Wi-Fi networks, we may receive information about your device even if you choose not to connect to our Wi-Fi services. 
 
-If you change your mind, you can start receiving promotional communications from us again by signing up when you visit our websites or our stores or when you enter a prize draw or contest, or by contacting customer service.
+As a convenience, we may provide you with an option to stay connected to the Gap Companies’ Wi-Fi networks. If you choose this option, you will be automatically logged into the Wi-Fi network of any Gap Companies’ store offering Wi-Fi services, and we may collect the information described above even if you do not actively use your Internet browser or your mobile applications during your time in our store. You can choose to disconnect from the Gap Wi-Fi network at any time through your device’s Wi-Fi settings. However, please note that disconnecting from one store’s Wi-Fi network will only disconnect you from that network during your current visit. You can opt out of the auto-reconnect feature at any time by visiting [http://www.smart-places.org](http://www.smart-places.org/) . 
 
-back to top
-
-### What about children's personal information?
-
-Our websites are not targeted to or intended for use by children. We ask that children under 18 not transmit any personal information to us. Where specifically requested, we welcome the parent or guardian of a child under the age of 18 to provide relevant information about the child.
+For full details about our in-store Wi-Fi practices, please see our [Wi-Fi Terms of Use. ](https://secure-www.gap.com/customerwifi/splash?base_grant_url=https%3A%2F%2Fsecure-www.gap.com%2Fcustomerwifi%2FmerakiTestDouble&node_mac=00:18:0a:da:4e:f0&client_mac=xx:xx:xx:xx:xx:xx)
 
 back to top
 
-### How do Gap Companies collect and use non-personal information?
+**What if I use different devices to visit Gap Inc. websites or mobile applications?**
 
-Non-personal information is information that does not identify you. It may include information you have provided to us such as demographic data, for example, your gender, birthday, and personal interests. Non-personal information also includes aggregate information, for example, using personal information to calculate the percentage of our customers who like a particular Brand.
-
-When you visit our websites, the Gap Companies collect non-personal information that may include your MAC address, your computer type, screen resolution, OS version, Internet browser, IP address (as further described below), cookies (as further described below), pixel tags, web beacons, and other similar technologies (as further described below) to better serve you with more tailored information and facilitate your ongoing use of our websites.
-
-The Gap Companies may use non-personal information and share non-personal information with other third parties for any purpose. The Gap Companies may combine non-personal information with personal information, such as combining your geographic location with your name, but if we do this the information will be treated by us as personal information for so long as it is combined.
+In order to provide you with a more efficient and convenient shopping experience, you may be able to access various content or sign into your account from many different devices. If you use many different devices to access our sites or our mobile applications, such as your home computer, laptop and/or mobile device, we may be able to link each of your devices with your account. For example, our sites may allow you to access your favourite items or shopping cart via an email link that is unique to your account. By clicking on the link, you will be automatically signed into your account in order for you to continue your shopping experience where you left off. If you choose to click the email link on a new device, we will be able to associate your current device with your account information. Information we have collected from your different devices may be combined with other information you have provided us, including information that is saved in your customer account, and we may use such information to help provide more tailored experiences and consistent services and experiences across all of your devices as explained in this privacy notice. You may choose to browse our site without your device being recognized by signing out of your account. ****
 
 back to top
 
-### How do Gap Companies collect and use cookies?
+**Why did I receive a marketing email after I made a purchase in a Gap Inc. store?**
 
-Our websites use "cookies," which are small data files containing small amounts of information that, if you agree, are downloaded to and stored on your computer when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user's device. Cookies may be used in a variety of ways to enhance or personalise your online experience. For example, we may use cookies to enable you to use certain website features, store your preferences, recognise you when you return to our website, and monitor and maintain information about your use of our websites. Cookies may also be used to collect transaction information needed by a loyalty program to which you have authorised us to provide your personal information. (See the section entitled, "Do Gap Companies share my information?", above.) They may also be used to provide you with personalised advertisement banners while browsing other reputable sites. These advertisements will relate to products which have been viewed while browsing this website on your computer or any other device. We are committed to only providing you with information which is relevant to you and which you want to receive.
-
-Read more about the individual cookies we use and how to recognise them [here](https://web.archive.org/customerService/info.do?cid=81901).
-
-You can choose to either agree or not agree to our use of such cookies on our websites. If you agree to our use of cookies, you can withdraw your consent at any time by using your browser settings; for more information on how to do this, please visit <http://www.allaboutcookies.org/manage-cookies>. If you do not agree to our use of cookies, however, certain features of our websites may not then be available to you.
-
-To learn more about cookies, please visit <http://www.allaboutcookies.org/>.
+To provide you with a more seamless customer experience, we keep records of all your Gap Inc. transactions with us, both online and in-store. For example, if you use a credit or debit card or give the sales associate your email address when you make a purchase in our store, we may associate that information with your online customer account. As described above, we may use information about your purchases to email you about other products and services that we believe may be of interest to you. 
 
 back to top
 
-### How do Gap Companies collect and use pixel tags and similar technologies?
+**How do I access or change my information?**
 
-If you agree, we use "pixel tags" (also called "web beacons" or "clear gifs"), which are tiny graphic images, and other similar technologies on our websites and in our emails. Pixel tags help us analyse our customers' online behaviour and measure the effectiveness of our websites and our advertising. We work with service providers that help us track, collect, and analyse this information. Pixel tags on our websites may be used to collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the websites. This information may include your browser type, your operating system, date and time information, and other technical information about your computer. We may also track certain information about the identity of the website you visited immediately before coming to our site. Pixel tags and cookies in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us.
+You can review and change certain personal information related to your use of our online sites (such as your name and contact information). To access your information at a Gap Inc. website, simply sign in to your account using your email address and password, and you will be able to edit your personal information in your account profile. 
 
-We may combine the information we collect through cookies and pixel tags with other information we have collected from you. This information may be used to improve our websites, to personalise your online experience, to tailor our communications with you, to determine the effectiveness of our advertising, to understand your preferences and for other internal business purposes.
-
-We also work with third-party companies that use tracking technologies to serve advertisements on our behalf across the Internet. If you agree, these companies may collect information about your visits to our websites and your interaction with our advertising and other communications. We are committed to only providing you with information which is relevant to you and which you want to receive. Read more about the individual pixel tags we use and how to recognise them [here](https://web.archive.org/customerService/info.do?cid=81901).
-
-You can choose to either agree or not agree to our use of such pixel tags on our websites. If you agree to our use of pixel tags, you can withdraw your consent at any time by changing your Targeting cookie preference [here](https://web.archive.org/customerService/info.do?cid=81901). If you do not agree to our use of such pixel tags, however, certain features of our websites may not be available to you.
-
-To learn more about online behavioural advertising, or to opt out from receiving targeted ads, please visit the European Interactive Digital Advertising Alliance: [http://www.edaa.eu](http://www.edaa.eu/)/.
+You can also ask us to update your personal information by contacting us as described in the section entitled, “How do I contact you?”, below. Please note that any request to update your personal information may take up to 10 days for your email request and 6-8 weeks for your postal mail request. 
 
 back to top
 
-### How do Gap Companies collect and use IP addresses?
+**How do I make choices about receiving promotional communications?**
 
-Your IP address is a number that is automatically assigned to your computer by your Internet Service Provider (ISP). This number may be different each time you log onto the Internet or it may remain the same. The IP address is logged automatically in our server log files whenever you visit our websites, along with the time of your visit and the pages that you visited. It is also collected by pixel tags, as described above. Collecting IP addresses is standard practice on the Internet and is done automatically by many websites.
+Gap Inc. and our Brands want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information, such as information about special offers and sales events, from one or more of our brands, you can le us know by contacting our customer service as described in the section entitled, "How do I contact you?", below or you can click on the self-service unsubscribe links below. 
 
-We may use IP addresses for the same purposes for which we use personal information, as well as for calculating website usage levels, helping diagnose server problems, and administering our websites and your use of our websites including providing opportunities to you and fulfilling your requests and purchases. Except where otherwise required by law, we treat IP addresses, server log files and related information as non-personal information.
+Gap [ Unsubscribe ](https://secure-www.gap.co.uk/profile/info.do?cid=82639)
 
-back to top
-
-### How do I know personal information about me is secure?
-
-We have in place physical, electronic, contractual, and managerial safeguards to help protect the security and privacy of your personal information from unauthorised access, acquisition or disclosure. When you enter your personal information on our websites, we use Secure Sockets Layer (SSL) technology to protect your personal information as it is transmitted to us.
-
-Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. Please do not send us sensitive information through email. If you have reason to believe that your interaction with us is no longer secure, you must immediately notify us of the problem by contacting us as described in the section entitled, ["How do I contact you?"](https://web.archive.org/customerService/info.do?cid=2331#contact)below. If you choose to notify us by post this will delay the time it takes for us to respond to the problem.
+Banana Republic [Unsubscribe](https://secure-bananarepublic.gap.co.uk/profile/info.do?cid=82771)
 
 back to top
 
-### I received a suspicious email from a Gap Inc. brand regarding an order I did not place. What should I do?
+**How does Gap Inc. protect kids’ privacy?**
 
-We are aware of phony emails sent out under our Brand names. These emails did not originate from Gap Inc., and individuals who received fraudulent order status emails have not been charged. For your protection, do not click links or open any files attached to suspicious, unsolicited emails. If you believe your personal computer has been compromised as a result of the scam, please consult an IT professional. For more information, contact Action Fraud, the National Fraud and Cyber Crime Reporting Centre at <http://www.actionfraud.police.uk/>. 
-
-back to top
-
-### I responded to an online job posting for a Gap Inc. job that requires me to upload personal financial information. Is this part of your hiring process?
-
-No. Gap Inc. does not ask prospective job applicants for information about their bank accounts, credit history or passwords to financial accounts. If you are asked for personal financial or security information in response to a job application, this is likely a fraudulent job listing hosted by spammers posing as Gap Inc. to mislead job applicants. You can validate all Gap Inc. job postings in the UK on http://www.gapcareers.co.uk/. Spammers also create phony aliases to mimic our company and/or Brand names in an effort to commit identity theft or other forms of fraud. If you receive this type of suspicious email activity, please alert Action Fraud, the National Fraud and Cyber Crime Reporting Centre at <http://www.actionfraud.police.uk/>.
+Gap Inc. is concerned about the privacy and safety of children when they use the Internet. We will never knowingly request personal information online from anyone under the age of 13 without prior verifiable parental consent. Our websites are general audience sites and are not targeted to or intended for use by children. 
 
 back to top
 
-### What about links to other websites?
+**How is my information used for behavioural or targeted advertising and what choices do I have?**
 
-For your convenience and information, our websites may contain links to other websites, which may have privacy practices and policies that differ from our own. We are not responsible for the content or practices of any linked website. We recommend that you review the privacy policy of any site that you access through our sites. The inclusion of a link to a third-party site on our websites does not imply that any of the Gap Companies endorses the website.
+We use our own cookies to help determine which of our ads are shown to you on other websites. To opt out of this targeted online advertising by Gap Companies that utilizes our cookies, please click [here](http://www.gap.co.uk/customerService/info.do?cid=81901). 
 
-back to top
-
-### How long do you retain my information?
-
-We will retain your personal information for the period necessary to fulfil the purposes outlined in this policy unless a longer retention period is required or permitted by law.
+We also work with third-party companies that use tracking technologies (including cookies and pixel tags) on our websites in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications and use this information to determine which ads you see on third- party websites and applications. These technologies and the information collected about you may also be used to track your activity across multiple devices. For more information about this practice and to understand your options including how to opt-out of receiving these tailored advertisements, please visit the European Interactive Digital Advertising Alliance: <http://www.edaa.eu/>. 
 
 back to top
 
-### How do I contact you?
+**What if I apply for a Gap Inc. branded credit card on your site?**
 
-For questions about our privacy policy, to make choices about receiving promotional communications, to update or change personal information about you in our databases or to request that we delete or suppress your personal information, you can contact our Brands by email, telephone, or post:
+In certain eligible countries, we may provide you with opportunities to apply for an offer of credit from a payment card issuer in our stores or online. To create a more convenient application process, we may provide information from your customer account to a payment card issuer in order to generate a pre-approved credit offer and/or populate your online credit card application with information from your customer account. By submitting a credit card application either in store or online, you acknowledge and agree that Gap Inc. may provide your information to the payment card issuer in accordance with the terms and conditions of the application. For more information about the privacy practices associated with your credit card application, please contact the payment card issuer. 
 
-_Email_ :[custserv@gap.eu](mailto:custserv@gap.eu)
+**What if I participate in local store programs?**
 
-_Telephone_ :
+We may provide special opportunities for customers in certain stores or locations to receive personalized shopping or other services, such as notification when your favourite products will be in your local store, product recommendations, unique offers for certain community members such as teachers or fitness instructors, and invitations to special local events. 
 
-Calling within the UK 0800 368 0674  
-Calling international: click [here](https://web.archive.org/customerService/info.do?cid=7886) for phone numbers outside of the UK.
+In order to provide these personalized services, a sales associate may ask for information about your interests, activities, shopping preferences and other people for whom you are shopping. We may also keep records of your sizing preferences, product wish lists, local store transaction history, and contact information. We may use your information to contact you by phone or text message, in accordance with this policy. In certain instances you may also be able to authorize a sales associate to make purchases on your behalf using payment information you have previously provided during an online or in-store transaction. 
 
-_Post_ :
+back to top
 
-Gap EHQ  
-Freepost WD 3719  
-Castle Mound Way  
-Rugby, Warwickshire,  
-CV23 0BR  
-United Kingdom 
+**How do I know my personal information is secure?**
 
-### Customer Complaints 
+We do our best to provide you with a safe and convenient shopping experience. We have in place certain physical, electronic, contractual, and managerial safeguards to help protect the security and privacy of your personal information. 
 
-If your inquiry has not been satisfactorily addressed by custserv@gap.com, the European Online Dispute Resolution Platform at: http://ec.europa.eu/odr is available to you as a means to take the matter further. Whilst you also have the right to contact The Retail Ombudsman, a CTSI approved alternative dispute resolution provider, at www.theretailombudsman.org.uk, please note that Gap Companies conduct alternative dispute resolution via the International Centre for Dispute Resolution, the international division of the American Arbitration Association (ICDR/AAA) at: https://www.icdr.org.
+If for any reason you cannot access the secure server, or if you’re not quite comfortable shopping online at any of our websites, please feel free to place your order with us by telephone at the number listed in the section entitled, "How do I contact you?" below. 
 
-## Privacybeleid
+back to top
 
-_Voor het laatst herzien op 1/08/2016_
+**What is "phishing"?**
 
-### Ons commitment voor uw privacy
+"Phishing" is a scam designed to steal your personal information. If you receive an email that looks like it is from us asking you for your personal information, do not respond. We will never request your password, user name, credit card information or other personal information through email. 
 
-Bij Gap Inc. en onze filialen en dochterondernemingen in de VS en de Europese Unie, inclusief GPS (Groot-Britannië) Limited, Gap Europe Limited, Gap (UK Holdings) Limited, Gap (France) SAS, en Gap Stores (Ierland) Limited (collectief aangeduid met de naam "Gap Bedrijven") en onze Merken, waaronder Gap, Banana Republic en andere merken van Gap Inc. (collectief aangeduid als onze "Merken"), waarderen we onze klanten en respecteren we uw privacy. In onze winkels en op onze website verzamelen wij informatie over u die verband houdt met dit beleid; dit doen we om uw koopervaring te verbeteren en u berichten te sturen over producten, diensten, wedstrijden en aanbiedingen. 
+back to top
 
-Persoonlijke informatie die onder dit beleid door Gap Bedrijven wordt verzameld, is onderworpen aan de bepalingen van de Wet op de Gegevensbescherming van 1998 (de "Wet") en aan alle andere van toepassing zijn wet- en regelgeving. Voor de toepassing van de Wet zijn de gegevensverwerkers in het Verenigd Koninkrijk GPS (Groot-Britannië) Limited handelend onder de naam Gap en Banana Republic, bedrijven geregistreerd in Engeland en Wales (met bedrijfsnumers 2275771 en 6279672 en; BTW-nummers GB 676091512) en met maatschappelijke zetel te TMF Corporate Services Limited, 6 St Andrew Street, London, EC4A 3AE. Gap Bedrijven houden zich aan de Safe Harbor-principes die werden opgesteld door het Department of Commerce van de VS, in samenwerking met de Europese Commissie. Meer informatie vindt u op: <http://www.export.gov/safeharbor/>. 
+**I received a suspicious email from a Gap Inc brand regarding an order I did not place. What should I do?**
 
-In dit beleid wordt de persoonlijke informatie beschreven die we over u verzamelen en wordt aangegeven waarom we die verzamelen, hoe we die gebruiken en aan welke derde partijen we die doorgeven. Ons beleid beschrijft ook de keuzes die u kunt maken in verband met het verzamelen, gebruiken en openbaar maken van uw informatie. Indien veranderingen optreden in onze informatiepraktijken, plaatsen we een bijgewerkt beleid op onze website. Of het beleid veranderd is, kunt u zien aan de datum "Voor het laatst herzien", boven aan dit beleid. U kunt onze site doorbladeren zonder persoonlijke informatie te verstrekken. Als u er echter voor kiest om ons bepaalde persoonlijke informatie niet te geven, kan het zijn dat u bepaalde diensten of functies die wij aanbieden, niet kunt gebruiken. Als u vragen hebt over ons privacybeleid, neem contact met ons op. Hoe u dit doet, leest u in het gedeelte "Hoe neem ik contact met u op?" hieronder.
+We are aware of phony emails sent out under our Brand names. These emails did not originate from Gap Inc., and individuals who received fraudulent order status emails have not been charged. For your protection, do not click links or open any files attached to suspicious, unsolicited emails. If you believe your personal computer has been compromised as a result of a scam, please consult an IT professional. For more information, contact Action Fraud, the National Fraud and Cyber Crime Reporting Centre at <http://www.actionfraud.police.uk/>. We work with law enforcement on their investigations of these kinds of fraudulent emails. 
 
-### Privacybeleid
+_back to top _
 
-  * Welke persoonlijke informatie verzamelen Gap Bedrijven?
-  * Hoe verzamelen Gap Bedrijven persoonlijke informatie?
-  * Geven Gap Bedrijven mijn persoonlijke informatie door aan anderen?
-  * Hoe krijg ik toegang tot, of breng ik wijzigingen aan in, mijn persoonlijke informatie?
-  * Hoe duid ik mijn keuze aan in verband met mijn persoonlijke informatie?
-  * Hoe staat het met persoonlijke informatie over kinderen?
-  * Hoe verzamelen en gebruiken Gap Bedrijven niet-persoonlijke informatie?
-  * Hoe verzamelen en gebruiken Gap Bedrijven cookies?
-  * Hoe verzamelen en gebruiken Gap Bedrijven pixeltags en vergelijkbare technologieën?
-  * Hoe verzamelen en gebruiken Gap Bedrijven IP-adressen?
-  * Hoe weet ik of mijn persoonlijke informatie beveiligd is?
-  * Hoe staat het met koppelingen naar andere websites?
-  * Hoelang bewaart u mijn informatie?
-  * Hoe neem ik contact met u op?
-  * Reclames of klachten van klanten
+**I responded to an online job posting for a Gap Inc. job that requires me to upload personal financial information. Is this part of your hiring process?**
 
+No. Gap Inc. does not ask prospective job applicants for information about their bank accounts, credit history or passwords to financial accounts. If you are asked for personal financial or security information in response to a job application, this is likely a fraudulent job listing hosted by spammers to mislead job applicants. You can validate all Gap Inc. job postings on [https://jobs.gapinc.com](https://jobs.gapinc.com/) . Spammers also create phony aliases such as the-gap.co.uk to mimic our company and/or Brand names in an effort to commit identity theft or other forms of fraud. If you receive this type of suspicious email activity, please alert Action Fraud, the National Fraud and Cyber Crime Reporting Centre at <http://www.actionfraud.police.uk/>. 
 
+back to top
 
-### Welke persoonlijke informatie verzamelen Gap Bedrijven? 
+**What about links to other websites?**
 
-We verzamelen persoonlijke informatie over u zoals uw naam, e-mailadres, postadres, telefoonnummer of creditcardnummer en zwangerschapsgegevens (indien van toepassing) wanneer u een van onze websites of winkels bezoekt, een order plaatst, online of per telefoon, wanneer u in de winkel iets aanschaft of retourneert, bij het online opslaan van uw informatie, wanneer u contact met ons opneemt of wanneer u meedoet aan een wedstrijd, een aanbieding of een enquête. We houden gegevens bij over uw interesse voor bepaalde producten en over uw aankopen online, via de telefoon en in onze winkels. Hieronder staat in detail beschreven hoe we al deze persoonlijke informatie combineren met persoonlijke informatie die we over u verkrijgen van onze gezamenlijke marketingpartners, van niet-verbonden derden en van onze andere Merken. 
+For your convenience and information, our websites may contain links to other sites, which may have privacy policies that differ from our own. We are not responsible for the content or practices of any linked site. We recommend that you review the privacy policy of any site that you access through our sites. 
 
-Uw persoonlijke informatie kan worden verwerkt of opgeslagen op servers die in verschillende landen worden gehost, al dan niet binnen of buiten de Europese Economische Ruimte ("EER"). Dit betekent dus dat uw persoonlijke informatie kan worden overgebracht naar verschillende landen buiten de EER, waaronder de Verenigde Staten. Uw persoonlijke informatie kan zijn onderworpen aan de wetgeving van de landen waar de informatie wordt opgeslagen of gebruikt. In deze landen kan een andere wetgeving inzake gegevensbescherming van kracht zijn dan in het land waar u woont. Wanneer u ons persoonlijke informatie geeft, gaat u akkoord met deze overdracht, verwerking en opslag van uw persoonlijke informatie. Gap Bedrijven houden zich aan de Safe Harbor-principes die werden opgesteld door het Department of Commerce van de VS, in samenwerking met de Europese Commissie. Meer informatie vindt u op: <http://www.export.gov/safeharbor/>. 
+back to top
 
-terug naar boven
+**How long do you retain my information?**
 
-### Hoe verzamelen Gap Bedrijven persoonlijke informatie?
+We will retain your personal information for the period necessary to fulfil the purposes outlined in this policy unless a longer retention period is required or permitted by law. 
 
-We kunnen uw persoonlijke informatie op de volgende manieren gebruiken:
+back to top
 
-  * Om uw order te verwerken en uit te voeren, en om u e-mails te sturen ter bevestiging van de status en de verzending van uw order 
-  * Om het retourneren van artikelen te verwerken 
-  * Om wedstrijden, loyaliteitsprogramma's, en andere aanbiedingen en programma's waaraan u deelneemt, te beheren en uit te voeren 
-  * Om ons te helpen bij het oplossen van problemen en het verbeteren van het ontwerp van onze website en van onze producten en diensten /li>
-  * Om uw koopervaring te verbeteren 
-  * Om te weten waar uw voorkeur naar uitgaat bij het winkelen 
-  * Om te begrijpen waar uw voorkeur en interesse naar uitgingen bij uw vroegere aankopen; zo kunnen we aanbiedingen en promoties op uw voorkeuren afstemmen. 
-  * Voor onze interne zakelijke doeleinden, zoals het analyseren van trends en statistieken, voor audits, voor het ontwikkelen van nieuwe producten, voor verbetering van onze websites en onze diensten, voor het identificeren van gebruikerstrends en voor het vaststellen van de effectiviteit van onze promotiecampagnes.
-  * Voor het beschermen van de veiligheid of integriteit van onze websites en ons bedrijf
-  * Om zo nodig contact met u op te nemen in verband met uw transacties met ons, veranderingen in onze voorwaarden en ons beleid, en/of voor andere administratieve doeleinden 
-  * Om, indien nodig, met uw toestemming, met u te kunnen communiceren en u informatie te sturen via e-mail, post, telefoon, sms of andere middelen, over onze producten, diensten, westrijden en promoties, tenzij u ons hebt opgedragen geen contact met u op te nemen voor promotionele communicatie /li>
+**How do I contact you?**
 
+For questions about our privacy policy, to make choices about receiving promotional communications, to update or change personal information, or to place an order, you can contact any of our Brands by email, telephone, or postal mail: 
 
+_Email_ : [custserv@gap.eu](mailto:custserv@gap.eu)
 
-terug naar boven
+_Telephone_ : 
 
-### Geven Gap Bedrijven mijn persoonlijke informatie door aan anderen?
-
-We kunnen uw persoonlijke informatie op de volgende manieren doorgeven: 
-
-  * _Gap Bedrijven:_ Wanneer u persoonlijke informatie doorgeeft aan een van onze Gap Bedrijven, kunnen we deze informatie doorgeven aan onze andere Gap Bedrijven; zij kunnen deze informatie dan gebruiken voor de in dit privacybeleid beschreven doeleinden. 
-  * _Dienstverleners:_ We maken gebruik van de diensten van dienstverleners die in onze naam onze klanteninformatie beheren en diensten uitvoeren. We eisen van onze dienstverleners dat ze persoonlijke informatie goed beveiligen en de informatie alleen gebruiken voor dienstverlening aan ons. 
-  * _Derde partijen:_ We kunnen uw persoonlijke informatie doorgeven aan externe sponsors van wedstrijden, aanbiedingen, waardebon- en loyaliteitsprogramma's, of op een andere wijze overeenkomstig de op dergelijke wedstrijden, aanbiedingen of programma's van toepassing zijnde voorwaarden. U moet al deze voorwaarden zorgvuldig doornemen, want ze kunnen belangrijke informatie bevatten over het gebruik van uw persoonlijke informatie door een sponsor of een derde partij. Indien de voorwaarden strijdig zijn met dit privacybeleid, hebben de voorwaarden van dergelijke wedstrijden en programma's de bovenhand. Om zeker te zijn dat uw creditcard of betaalkaart niet worden gebruikt zonder uw toestemming, kan het zijn dat we ook naam, adres en andere persoonlijke informatie die u hebt gegeven, tijdens de orderverwerking controleren in toepasselijke databases van derden. Wanneer we vermoeden dat er fraude of identiteitsfraude in het spel is, kunnen we dit registreren en dergelijke gegevens bewaren voor fraudepreventie in de toekomst. Wanneer u dit privacybeleid accepteert, stemt u toe in deze verwerking, opslag en gebruik. 
-  * _Zakelijke transacties:_ In het onwaarschijnlijke geval van een reorganisatie, fusie, joint venture, toewijzing, overdracht of een andere beschikking van welke aard ook van het volledige of gedeeltelijke bedrijf, de activa of aandelen van de Gap Bedrijven of eender welk van onze bedrijven, kan persoonlijke informatie over onze klanten en andere informatie die we zoals in dit beleid beschreven hebben verzameld, deel uitmaken van de overgedragen zakelijke activa en worden doorgegeven aan andere relevante partijen. 
-  * _Andere manieren van openbaarmaking:_ Gap Bedrijven kunnen ook persoonlijke informatie over u openbaar maken om de volgende redenen: 
-    1. 1ter bescherming van de wettelijke rechten, de privacy of de veiligheid van Gap Bedrijven of onze werknemers, agenten en contractanten;
-    2. ter bescherming en beveiliging van de klanten op onze websites of andere locaties;
-    3. ter bescherming tegen fraude of andere illegale activiteiten of voor risicobeheer;
-    4. voor het beantwoorden van vragen om informatie of verzoeken vanwege de overheid of openbare instanties in elk land waar we actief zijn, inclusief de VS;
-    5. om ons de mogelijkheid te bieden beschikbare rechtsmiddelen toe te passen of de door ons geleden schade te beperken;
-    6. voor het ten uitvoer brengen van de gebruiksvoorwaarden van onze websites of de voorwaarden van wedstrijden, aanbiedingen of programma's; of 
-    7. voor naleving van de wet of een wettelijke procedure. 
-
-
-
-terug naar boven
-
-### Hoe krijg ik toegang tot, of breng ik wijzigingen aan in, mijn persoonlijke informatie?
-
-Om contact met ons op te nemen volgt u de aanwijzingen in de rubriek "Hoe neem ik contact met u op?" voor toegang tot of meer informatie over het gebruik van persoonlijke informatie, of om ons te vragen persoonlijke informatie te wijzigen, bij te werken, te verwijderen en/of te onderdrukken. Opmerking: voor bepaalde persoonlijke informatie kan een uitzondering gelden met betrekking tot de rechten op toegang, correctie, verwijdering of onderdrukking onder de lokale wetgeving op de gegevensbescherming. We zullen reageren in overeenstemming met de vereisten van de toepasselijke wetgeving. Indien we op een van onze websites een functie aanbieden waarmee u een account kunt aanmaken op de site, kunt u ook inloggen op uw account om toegang te verkrijgen tot uw persoonlijke informatie en deze te wijzigen. 
-
-Telkens wanneer u hiervoor met ons contact opneemt moet u duidelijk de volgende zaken aangeven: de informatie die u wenst te wijzigen; de informatie die u uit onze database wilt verwijderen of de beperkingen die u wilt stellen aan het gebruik van uw persoonlijke informatie door ons. Het kan zijn dat we bepaalde informatie moeten houden voor gegevensbewaring, en het kan ook zijn dat er restinformatie en andere gegevens in onze databases achterblijven die we niet kunnen verwijderen. We zijn niet verantwoordelijk voor het wijzigen, bijwerken, verwijderen of onderdrukken van persoonlijke informatie in de databases van derde partijen aan wie we uw persoonlijke informatie hebben doorgegeven, noch voor het beperken van hun gebruik van uw persoonlijke informatie. 
-
-terug naar boven
-
-### Hoe duid ik mijn keuze aan in verband met mijn persoonlijke informatie?
-
-Gap Bedrijven en onze Merken willen alleen met u communiceren als u dat zelf wilt. Als u liever geen promotionele informatie ontvangt, zoals informatie over speciale aanbiedingen en koopjesdagen, van een of meer van onze Merken, dan kunt u dit aan ons melden. Hiervoor neemt u contact op met onze klantendienst en volgt u de aanwijzingen in de onderstaande rubriek "Hoe neem ik met u contact op?" Of u kunt de instructies voor "opt out" volgen in de promotionele e-mails die u krijgt. 
-
-Zorg dat u uw volledige naam opgeeft en het e-mailadres dat u hebt gebruikt bij registratie of wanneer u producten van onze Merken hebt aangeschaft. Als u vraagt uw naam en adres van onze promotionele lijsten te verwijderen, bewaren we uw naam in een "geen contact opnemen" bestand, om aan uw wens te voldoen.
-
-Wanneer u zich bedenkt, kunt u weer promotionele berichten van ons ontvangen door daarvoor in te schrijven wanneer u onze websites of onze winkels bezoekt, of wanneer u meedoet aan promotionele kansspelen of wedstrijden, of door contact op te nemen met de klantendienst. 
-
-terug naar boven
-
-### Hoe staat het met persoonlijke informatie over kinderen?
-
-Onze websites zijn niet bestemd voor gebruik door kinderen. We vragen dat kinderen jonger dan 18 jaar ons geen persoonlijke informatie doorsturen. Waar dit specifiek wordt gevraagd, willen we dat de ouder of voogd van een minderjarig kind de relevante informatie over het kind opgeeft. 
-
-terug naar boven
-
-### Hoe verzamelen en gebruiken Gap Bedrijven niet-persoonlijke informatie?
-
-Niet-persoonlijke informatie is informatie die u niet identificeert. Dit kan informatie zijn die u hebt doorgegeven zoals demografische gegevens, bijvoorbeeld uw geslacht, geboortedatum en persoonlijke interesses. Niet-persoonlijke informatie is ook samengevoegde informatie, bijvoorbeeld persoonlijke informatie die werd gebruikt voor de berekening van het percentage klanten dat een bepaald merk leuk vindt. 
-
-Wanneer u onze websites bezoekt, verzamelen Gap Bedrijven niet-persoonlijke informatie over u, zoals uw MAC-adres, uw computertype, schermresolutie, de versie van uw besturingssysteem, uw internetbrowser, IP-adres (verder meer hierover), cookies (verder meer hierover), pixeltags, webbakens en andere vergelijkbare technologieën (verder meer hierover) om u beter van dienst te zijn met informatie op maat, voor een vlot gebruik van onze websites. 
-
-Gap Bedrijven kunnen ook niet-persoonlijke informatie gebruiken en niet-persoonlijke informatie doorgeven aan derden voor welk doel ook. Gap Bedrijven kunnen niet-persoonlijke informatie met persoonlijke informatie combineren, zoals de combinatie van uw geografische locatie met uw naam. Wanneer we dit doen, zal deze informatie, zolang ze gecombineerd is, door ons worden behandeld als persoonlijke informatie. 
-
-terug naar boven
-
-### Hoe verzamelen en gebruiken Gap Bedrijven cookies?
-
-Onze websites maken gebruik van "cookies". Dit zijn kleine gegevensbestanden die op uw computer worden geplaatst wanneer u een website bezoekt. Cookies kunnen op heel wat manieren worden gebruikt om uw online ervaring te verbeteren of te personaliseren. Bijvoorbeeld, we maken gebruik van cookies om u bepaalde functies van de website te laten gebruiken, uw voorkeuren op te slaan, u te herkennen wanneer u naar onze website terugkeert, en informatie over uw gebruik van onze websites te monitoren en bij te houden. Cookies kunnen ook worden gebruikt om transactiegegevens te verzamelen voor waardebon- of loyaliteitsprogramma's waarvoor u ons toestemming voor het gebruik van uw persoonlijke informatie hebt gegeven. (Zie de bovenstaande rubriek "Geven Gap Bedrijven mijn informatie door aan anderen?") Ze worden ook gebruikt om u gepersonaliseerde advertentiebanners aan te bieden terwijl u andere betrouwbare websites bezoekt. Dit zullen advertenties zijn met betrekking tot producten die u op deze website hebt bekeken op uw computer of op een ander apparaat. We stellen alles in het werk om u alleen informatie te bieden die voor u relevant is en die u wenst te ontvangen. U kunt uw browser ook zo instellen dat cookies niet worden geaccepteer, of dat u een seintje ontvangt wanneer u een cookie wordt toegestuurd. Zo kunt u zelf beslissen of u cookies accepteert of niet. Als u echter geen cookies accepteert, is het mogelijk dat bepaalde functies van onze websites niet voor u beschikbaar zijn. Meer over cookies vindt u op <http://www.allaboutcookies.org/>. 
-
-terug naar boven
-
-We maken gebruik van "pixeltags" (heel kleine grafische afbeeldingen die ook "webbakens" of "clear gifs" worden genoemd) en andere vergelijkbare technologieën op onze websites en in onze e-mails. Pixeltags helpen ons het online klantgedrag te analyseren en de doeltreffendheid van onze websites en onze reclame te meten. We werken met dienstverleners die ons helpen deze informatie bij te houden, te verzamelen en te analyseren. Pixeltags op onze websites kunnen worden gebruikt om informatie te verzamelen over uw bezoek, bijvoorbeeld de pagina's die u bekijkt, de functies waarvan u gebruikmaakt, de koppelingen die u aanklikt en andere zaken die u doet op de websites. Deze informatie kan uw browsertype, uw besturingssysteem, datum en tijd, en andere technische informatie over uw computer bevatten. We kunnen ook bepaalde informatie volgen over de identiteit van de website die u net vóór onze website hebt bezocht. Pixeltags en cookies in onze e-mails kunnen worden gebruikt om uw interacties met deze berichten te volgen, bijvoorbeeld wanneer u het bericht hebt geopend of op een koppeling in een van onze e-mails hebt geklikt. 
-
-We kunnen de via cookies en pixeltags verzamelde informatie combineren met andere over u verzamelde informatie. Deze informatie kan worden gebruikt om onze websites te verbeteren, uw online ervaring te verbeteren, communicatie op maat met u te verzorgen, de doeltreffendheid van onze reclame te meten, uw voorkeuren te bepalen en voor andere interne zakelijke doeleinden. 
-
-We werken ook met derde bedrijven die traceringstechnologieën toepassen om in onze naam reclame te maken op het internet. Deze bedrijven kunnen informatie verzamelen over uw bezoeken aan onze websites en over uw interactie met onze reclame en andere communicatie. We stellen alles in het werk om u alleen informatie te bieden die voor u relevant is en die u wenst te ontvangen. Als u meer informatie wenst over deze praktijken of meer wilt weten over uw keuzemogelijkheden om deze informatie niet te laten gebruiken door deze bedrijven, ga naar <http://www.networkadvertising.org/managing/opt_out.asp>. 
-
-U heeft de keuze om wel of niet in te stemmen met het gebruik van deze pixeltags op onze websites. Indien u toestemming verleent voor het gebruik van pixeltags, kunt u die toestemming op ieder moment intrekken door uw targeting cookie instellingen hier te wijzigen. Indien u ervoor kiest op geen pixeltags te gebruiken, kunnen sommige functies op onze websites mogelijk niet beschikbaar zijn voor u. Om meer te weten te komen over online behavioural advertising, of om aan te geven dat u geen gepersonaliseerde advertenties wenst te ontvangen, kunt u de website van de European Interactive Digital Advertising Alliance: <http://www.edaa.eu/raadplegen>.
-
-terug naar boven
-
-### Hoe verzamelen en gebruiken Gap Bedrijven IP-adressen?
-
-Uw IP-adres is een getal dat automatisch door uw internetprovider (ISP) aan uw computer wordt toegekend. Dit getal kan telkens u inlogt op het internet veranderen, of het kan ook hetzelfde blijven. Het IP-adres wordt automatisch vastgelegd in onze serverlogbestanden telkens als u onze websites bezoekt, samen met de tijd van uw bezoek en de pagina's die u hebt bekeken. Dit wordt ook met pixeltags verzameld, zoals hierWe kunnen IP-adressen gebruiken voor dezelfde doeleinden als waarvoor we uw persoonlijke informatie gebruiken, en ook voor het berekenen van websitegebruik, het diagnosticeren van serverproblemen en het beheren van onze websites en uw gebruik van onze websites, met inbegrip van het doen van aanbiedingen en het uitvoeren van uw verzoeken en aankopen. Behalve wanneer anders vereist door de wet, behandelen we IP-adressen, serverlogbestanden en gerelateerde informatie, als niet-persoonlijke informatie. 
-
-terug naar boven
-
-### Hoe weet ik of mijn persoonlijke informatie beveiligd is?
-
-We hebben fysieke, elektronische, contractuele en bestuurlijke beveiligingsmechanismen ingesteld ter bescherming van de veiligheid en vertrouwelijkheid van uw persoonlijke informatie tegen ongeoorloofde inzage, verwerving of openbaarmaking. Wanneer u uw persoonlijke informatie op onze websites invoert, gebruiken we SSL-technologie (Secure Sockets Layer) ter bescherming van uw persoonlijke informatie terwijl die aan ons wordt doorgegeven. 
-
-Helaas kan voor geen enkele gegevensoverdracht over het internet noch voor enig gegevensopslagsysteem een 100% veiligheidsgarantie worden geboden. Stuur ons geen gevoelige informatie via e-mail. Als u redenen hebt om te vermoeden dat uw interactie met ons niet langer veilig is, moet u ons onmiddellijk op de hoogte stellen van het probleem. Hiervoor neemt u contact met ons op volgens de aanwijzingen in het gedeelte "Hoe neem ik contact met u op?" hieronder. Als u er de voorkeur aan geeft om ons op de hoogte te stellen via de gewone post, zal onze reactie op het probleem wel vertraging oplopen.
-
-terug naar boven
-
-### Hoe staat het met koppelingen naar andere websites?
-
-Voor uw gemak en informatie kunnen onze websites koppelingen bevatten naar andere websites, die er mogelijk andere praktijken en een ander beleid inzake privacy op nahouden dan wijzelf. We zijn niet verantwoordelijk voor de inhoud of de praktijken van gekoppelde sites. We raden u aan het privacybeleid te lezen van de sites die u via onze site aanklikt. De aanwezigheid van een koppeling naar een site van derden op onze website betekent geenszins dat Gap Bedrijven de website ondersteunt. 
-
-terug naar boven
-
-### Hoelang bewaart u mijn informatie?
-
-We zullen uw persoonlijke informatie bewaren zolang dit nodig is voor de in dit beleid samengevatte doeleinden, tenzij een langere bewaarperiode vereist of toegestaan is door de wet. 
-
-terug naar boven
-
-### Hoe neem ik contact met u op?
-
-Voor vragen over ons privacybeleid, om uw keuze aan te duiden voor onze promotionele communicatie, voor het bijwerken of wijzigen van persoonlijke informatie over u in onze databases of om ons te vragen uw persoonlijke informatie te wissen of te onderdrukken, kunt u contact met ons opnemen per e-mail, telefoon of post:
-
-_E-mail_ : [custserv@gap.eu](mailto:custserv@gap.eu)
-
-_Telefoon_ :
-
-Bellen binnen het Verenigd Koninkrijk 0800 368 0674  
-Internationale oproepen: klik [hier](https://web.archive.org/customerService/info.do?cid=7886) voor telefoonnummers buiten het Verenigd Koninkrijk.
+Calling within the UK 0800 368 0674   
+Calling international: click [here](https://web.archive.org/customerService/info.do?cid=2136) for phone numbers outside of the UK. 
 
 _Post_ : 
 
-Gap EHQ  
-Freepost WD 3719  
-Castle Mound Way  
-Rugby, Warwickshire,  
-CV23 0BR  
+Gap EHQ   
+Freepost WD 3719   
+Castle Mound Way   
+Rugby, Warwickshire,   
+CV23 0BR   
 United Kingdom 
 
-### Reclames of klachten van klanten
+**Datenschutzrichtlinie**
 
-Indien uw verzoek of klacht niet naar tevredenheid is afgehandeld door custserv@gap.eu, dan kunt u het ODR platform van de Europese Unie http://ec.europa.eu/odr raadplegen om verdere stappen te ondernemen. 
+_Letzte Aktualisierung: 14 März 2017_
 
-terug naar boven
+**Unsere Verpflichtung zum Datenschutz**
 
-## Datenschutzrichtlinie
+Gap Inc. und unsere verbundenen Unternehmen und Tochtergesellschaften in den USA und der Europäischen Union, einschließlich GPS (Great Britain) Limited, Gap Europe Limited, Gap (UK Holdings) Limited, Gap (France) SAS, Gap Stores (Ireland) Limited und Gap (Italy) SRL (gemeinsam bezeichnet als "Gap Inc.“), und unsere Marken, einschließlich Gap, Banana Republic, Old Navy, Gap Factory, Banana Republic Factory und Athleta (gemeinsam bezeichnet als unsere "Marken“), schätzen unsere Kunden und respektieren ihre Privatsphäre. 
 
-_Letzte Aktualisierung 1/8/2016_
+Die unter dieser Richtlinie von den Gap Unternehmen erfassten personenbezogenen Informationen unterliegen den Bestimmungen des Data Protection Act 1998 (das „Datenschutzgesetz“) und anderen geltenden Gesetzen und Vorschriften. Für die Zwecke des Datenschutzgesetzes sind die Datenverarbeiter im Vereinten Königreich GPS (Großbritannien) Limited und Gap Europe Limited t/a Gap und Banana Republic, beide jeweils in England und Wales registrierte Unternehmen (mit den Gesellschaftsnummern 2275771 und 6279672 und der Steuernummer GB 676091512) und mit eingetragenem Unternehmenssitz in TMF Corporate Services Limited, 6 St Andrew Street, London, EC4A 3AE. 
 
-### Unsere Verpflichtung zum Datenschutz
+In dieser Richtlinie wird die Art der personenbezogenen Informationen beschrieben, die Gap Inc. und unsere Marken über Sie erheben, warum wir diese Daten sammeln, wie wir sie einsetzen und wann wir sie an Dritte weiterleiten. Diese Richtlinie umfasst unsere europäischen Geschäfte und Online-Auftritte, einschließlich unserer Websites und mobilen Applikationen. In unserer Richtlinie wird auch beschrieben, inwiefern Sie die Art der Erhebung und Verwendung Ihrer Informationen beeinflussen können. Sollte sich unsere Informationspraxis ändern, aktualisieren wir unsere Richtlinie und veröffentlichen die neue Version auf unserer Website. Ob sich unsere Richtlinie geändert hat, erfahren Sie, indem Sie das oben genannte Änderungsdatum prüfen. Sollten wir eine wesentliche Änderung vornehmen, werden wir Ihnen dies entsprechend mitteilen. Sie können jederzeit im Einklang mit dieser Richtlinie Ihre Rechte ausüben und Einfluss darauf nehmen, wie wir Ihre Informationen sammeln und nutzen. 
 
-Gap Inc. und unsere verbundenen Unternehmen und Tochtergesellschaften in den USA und der Europäischen Union, einschließlich GPS (Great Britain) Limited, Gap Europe Limited, Gap (UK Holdings) Limited , Gap (France) SAS, Gap Stores (Ireland) Limited und Gap (Italy) SRL (gemeinsam bezeichnet als die "Gap Unternehmen") und unsere Marken, einschließlich Gap, Banana Republic und sonstige Gap Inc. Marken (gemeinsam bezeichnet als unsere "Marken") schätzen unsere Kunden und respektieren ihre Privatsphäre. Wir erfassen im Rahmen der vorliegenden Datenschutzerklärung Informationen über Sie in unseren Geschäften und über unsere Websites, um Ihr Einkaufserlebnis zu verbessern und um Sie über Produkte, Dienstleistungen, Wettbewerbe und Angebote zu informieren.
+Bei Fragen zu unserer Datenschutzrichtlinie setzen Sie sich bitte, wie im nachfolgenden Abschnitt „Wie nehme ich Kontakt mit Ihnen auf?“ beschrieben, mit uns in Verbindung. 
 
-Die unter dieser Richtlinie von den Gap Unternehmen erfassten personenbezogenen Informationen unterliegen den Bestimmungen des Data Protection Act 1998 (das „Datenschutzgesetz“) und anderen geltenden Gesetzgebungen und Vorschriften. Für die Zwecke des Gesetzes sind die Datenverarbeiter im Vereinten Königreich GPS (Großbritannien) Limited und Gap Europe Limited t/a Gap und Banana Republic, beide jeweils in England und Wales registrierte Unternehmen (mit den Gesellschaftsnummern 2275771 und 6279672 und der Steuernummer GB 676091512) und mit eingetragenem Unternehmenssitz in TMF Corporate Services Limited, 6 St Andrew Street, London, EC4A 3AE. Die Gap Unternehmen unterliegen den vom US-Handelsministerium in Zusammenarbeit mit der Europäischen Kommission ausgearbeiteten Safe Harbor-Richtlinien. Für ausführlichere Informationen besuchen Sie bitte <http://www.export.gov/safeharbor/>.
+**Datenschutzrichtlinie**
 
-In dieser Richtlinie wird die Art der personenbezogenen Informationen beschrieben, die wir über Sie erfassen, warum wir diese Daten sammeln, wie wir sie einsetzen und wann wir sie an Dritte weiterleiten. In unserer Richtlinie wird auch beschrieben, inwiefern Sie die Art der Datenerhebung, die Verwendung und die Weitergabe Ihrer Informationen beeinflussen können. Sollten sich unsere Informationspraktiken ändern, aktualisieren wir unsere Richtlinie und veröffentlichen die neue Version auf unserer Website. Ob sich unsere Richtlinie verändert hat, erfahren Sie, indem Sie das Datum der letzten Aktualisierung prüfen, das zu Beginn dieser Richtlinie bekanntgegeben wird. Sie können unsere Website besuchen, ohne jedwede personenbezogenen Informationen angeben zu müssen. Wenn Sie sich jedoch entschließen, keine personenbezogenen Informationen an uns zu senden, kann dies unter Umständen zur Folge haben, dass Sie bestimmte von uns angebotene Services oder Funktionen nicht nutzen können. Bei Fragen zu unserer Datenschutzrichtlinie, setzen Sie sich bitte entsprechend den unter dem nachfolgenden Abschnitt "Wie nehme ich Kontakt mit Ihnen auf?" beschriebenen Kontaktmethoden mit uns in Verbindung.
-
-### Datenschutzrichtlinie
-
-  * Welche Art von personenbezogenen Informationen erfassen die Gap Unternehmen?
-  * Wie nutzen die Gap Unternehmen personenbezogene Informationen?
-  * Geben die Gap Unternehmen meine personenbezogenen Informationen weiter?
-  * Wie kann ich auf meine personenbezogenen Informationen zugreifen und diese ggf. ändern?
-  * Wie kann ich die Nutzung meiner personenbezogenen Informationen beeinflussen?
-  * Wie ist es um den Datenschutz von Kindern bestellt?
-  * Wie erfassen und nutzen die Gap Unternehmen nicht-personenbezogene Informationen?
-  * Wie erfassen und nutzen die Gap Unternehmen Cookies?
-  * Wie erfassen und nutzen die Gap Unternehmen Pixel-Tags und ähnliche Technologien?
-  * Wie erfassen und nutzen die Gap Unternehmen IP-Adressen?
-  * Wie kann ich mir sicher sein, dass meine personenbezogenen Informationen sicher aufbewahrt werden?
-  * Wie sieht es mit Links zu fremden Websites aus?
+  * Welche Art von Informationen erhebt Gap Inc.? 
+  * Wie nutzt Gap Inc. meine Informationen?
+  * Wie teilt Gap Inc. meine Informationen?
+  * Welche sonstigen Informationen erhebt Gap Inc.? 
+  * Was passiert, wenn ich mich mit dem in Geschäften von Gap Inc. angebotenen WLAN-Netz verbinde? 
+  * Was passiert, wenn ich unterschiedliche Geräte verwende, um die Websites oder mobilen Applikationen von Gap Inc. aufzurufen? 
+  * Warum habe ich eine Marketing-E-Mail erhalten, nachdem ich einen Kauf in einem Geschäft von Gap Inc. getätigt habe? 
+  * Wie kann ich auf meine Informationen zugreifen und diese ändern? 
+  * Wie kann ich die Zusendung von Werbeinformationen beeinflussen?
+  * Wie schützt Gap Inc. die Privatsphäre von Kindern? 
+  * Wie werden meine Informationen für verhaltensbasierte oder zielgerichtete Werbung verwendet und wie kann ich dies beeinflussen?
+  * Was passiert, wenn ich an Programmen lokaler Geschäfte teilnehme? 
+  * Wie kann ich wissen, dass meine personenbezogenen Informationen sicher sind? 
+  * Was ist „Phishing“?
+  * Ich habe von einer Gap Inc.-Marke eine verdächtige E-Mail zu einer Bestellung erhalten, die ich nicht aufgegeben habe. Was soll ich tun? 
+  * Ich habe auf eine Online-Stellenausschreibung zu einer Vakanz bei Gap Inc. geantwortet und soll dazu persönliche Finanzinformationen hochladen. Ist dies Teil Ihres Einstellungsverfahrens? 
+  * Wie sieht es mit Links zu fremden Websites aus? 
   * Wie lange bewahren Sie meine Daten auf?
   * Wie nehme ich Kontakt mit Ihnen auf?
-  * Kundenbeschwerden 
 
 
 
-### Welche Art von personenbezogenen Informationen erfassen die Gap Unternehmen?
+**Welche Art von Informationen erhebt Gap Inc.?**
 
-Wir erfassen personenbezogene Informationen über Sie, wie etwa Ihren Namen, E-Mail-Adresse, Anschrift, Telefonnummer oder Kreditkartennummer, und die Einzelheiten der Mutterschaft (soweit anwendbar), wenn Sie eine unserer Websites oder eines unserer Geschäfte besuchen, online oder telefonisch eine Bestellung aufgeben, in einem Geschäft einen Artikel einkaufen oder umtauschen, online Ihre Informationen übermitteln, sich mit uns in Kontakt setzen oder an einem Wettbewerb, einer Promotion oder Umfrage teilnehmen. Wir speichern ggf. Informationen zu Ihren Produktvorlieben und den Einkäufen, die Sie online, telefonisch oder in unseren Geschäften getätigt haben. Wie nachfolgend beschrieben, können wir all diese personenbezogenen Informationen mit jenen personenbezogenen Informationen über Sie kombinieren, die wir von unseren verbundenen Marketingunternehmen, von unbeteiligten Dritten oder über unsere Marken beziehen.
+Wir erfassen ggf. personenbezogene Informationen über Sie, wie etwa Ihren Namen, E-Mail-Adresse, Anschrift, Telefonnummer, Kreditkartennummer, Geschlecht, Geburtsdatum, persönliche Interessen, etc., wenn Sie eine unserer Websites oder eines unserer Geschäfte besuchen, unsere mobilen Apps installieren oder nutzen, online oder telefonisch eine Bestellung aufgeben, in einem Geschäft einen Einkauf tätigen, Ihre Informationen online bei uns speichern, sich mit einer Frage oder einem Anliegen an uns wenden oder an einem Wettbewerb, einer Promotion oder einer Umfrage teilnehmen. Wir speichern Informationen zu Ihren Produktvorlieben und den Einkäufen, die Sie online, über eine mobile App, telefonisch oder in unseren Geschäften tätigen. 
 
-Ihre personenbezogenen Informationen werden ggf. auf Servern in verschiedenen Ländern sowohl innerhalb als auch außerhalb des Europäischen Wirtschaftsraumes ("EWR") verarbeitet oder gespeichert. Dies hat zur Folge, dass Ihre personenbezogenen Informationen in andere Länder außerhalb des EWR, einschließlich den USA, übertragen werden können. Ihre personenbezogenen Informationen unterliegen ggf. den Gesetzen der Länder, in denen sie gespeichert oder genutzt werden, und diese Länder haben unter Umständen andere Datenschutzgesetze als Ihr Wohnsitzland. Indem Sie uns Ihre personenbezogenen Informationen bereitstellen, erklären Sie sich mit der Übertragung, Verarbeitung und Speicherung dieser Daten einverstanden. Die Gap Unternehmen unterliegen den vom US-Handelsministerium in Zusammenarbeit mit der Europäischen Kommission ausgearbeiteten Safe Harbor-Richtlinien. Für ausführlichere Informationen besuchen Sie bitte <http://www.export.gov/safeharbor/>. 
+Wir können personenbezogene Informationen mit Informationen über Ihre online, in Geschäften oder anderweitig mit uns vorgenommenen Transaktionen, einschließlich Ihrer Einkäufe, kombinieren. Wir können diese personenbezogenen Informationen auch mit solchen Informationen kombinieren, die wir von anderen Quellen beziehen, etwa von unseren verbundenen Marketingunternehmen, öffentlichen Datenbanken, öffentlich zugänglichen Seiten auf Plattformen sozialer Medien und von sonstigen Dritten. Überdies, sollten Sie sich für sog. „Social Sharing“ entscheiden, wenn Sie etwa ein Konto bei einem sozialen Netzwerk mit Ihrem Kundenkonto verknüpfen oder sich von einem Konto bei einem sozialen Netzwerk aus in Ihr Kundenkonto einloggen, wird die Seite des sozialen Netzwerks unter Umständen Informationen über Ihre Nutzung deren Services mit uns teilen, einschließlich Profilinformationen, Informationen über Ihre Kontakte und Inhalte, die Sie aufgerufen oder gelikt haben. Bitte rufen Sie die Einstellungen zum Datenschutz auf der Seite des sozialen Netzwerks auf, um zu prüfen, wie Ihre Informationen geteilt werden. 
 
-Zurück zum Seitenanfang
+Sollten Sie personenbezogene Informationen sonstiger Personen an uns oder unsere Dienstleister weiterleiten, bestätigen Sie damit, dass Sie dazu befugt sind, und erlauben uns, die Informationen gemäß dieser Datenschutzrichtlinie zu nutzen. 
 
-### Wie nutzen die Gap Unternehmen personenbezogene Informationen?
-
-Wir verwenden Ihre personenbezogenen Informationen unter Umständen wie folgt:
-
-  * Zur Bearbeitung und Abwicklung Ihrer Bestellung(en), einschließlich um Ihnen Bestätigungs-E-Mails zum Auftragsstatus und Versand zu senden;
-  * Zur Bearbeitung von Warenrücksendungen;
-  * Zur Verwaltung und Durchführung von Wettbewerben, Treueprogrammen und anderen Angeboten und Programmen, an denen Sie teilnehmen;
-  * Als Unterstützung bei der Lösung von Problemen und zur Verbesserung des Designs unserer Website, unserer Produkte und Dienstleistungen;
-  * Zur Verbesserung Ihres Einkaufserlebnisses;
-  * Um mehr über Ihre Einkaufsvorlieben zu erfahren;
-  * Um Ihre Kaufinteressen und Einkaufshistorie nachzuvollziehen und somit auf Sie zugeschnittene Angebote und Promotionen zusammenstellen zu können;
-  * Für unsere internen Geschäftszwecke, wie etwa zur Analyse von Trends und Statistiken, für Audits, zur Entwicklung neuer Produkte, zur Verbesserung unserer Websites und Dienstleistungen, zur Erkennung von Nutzungstrends und zur Bestimmung des Erfolgs unserer Werbekampagnen.
-  * Zum Schutz der Sicherheit und Integrität unserer Websites und unseres Geschäfts;
-  * Um mit Ihnen ggf. bezüglich Ihrer Transaktionen mit uns, Änderungen unserer Bestimmungen, Konditionen und Richtlinien und/oder zu sonstigen verwaltungstechnischen Zwecken Kontakt aufzunehmen;/li>
-  * Um uns ggf. mit Ihrem Einverständnis mit Ihnen in Verbindung zu setzen und Ihnen Informationen per E-Mail, per Post, telefonisch, per SMS oder anderweitig über unsere Produkte, Dienstleistungen, Wettbewerbe und Angebote zukommen zu lassen, sofern Sie uns nicht angewiesen haben, Ihnen kein Werbematerial zuzuschicken.
-
-
+Ihre personenbezogenen Informationen werden ggf. auf Servern in verschiedenen Ländern sowohl innerhalb als auch außerhalb des Europäischen Wirtschaftsraumes ("EWR") verarbeitet oder gespeichert. Dies hat zur Folge, dass Ihre personenbezogenen Informationen in andere Länder außerhalb des EWR, einschließlich den USA, übertragen werden können. Ihre personenbezogenen Informationen unterliegen ggf. den Gesetzen der Länder, in denen sie gespeichert oder genutzt werden, und diese Länder haben unter Umständen ein anderes Datenschutzrecht als Ihr Wohnsitzland. Indem Sie uns Ihre personenbezogenen Informationen bereitstellen, erklären Sie sich mit der Übertragung, Verarbeitung und Speicherung dieser Daten einverstanden. 
 
 Zurück zum Seitenanfang
 
-### Geben die Gap Unternehmen meine personenbezogenen Informationen weiter?
+**Wie nutzt Gap Inc. meine Informationen?**
 
-Wir geben Ihre personenbezogenen Informationen unter Umständen wie folgt weiter:
+Wir verwenden Ihre personenbezogenen Informationen wie folgt: 
 
-  * Gap Unternehmen: Wenn Sie einem unserer Gap Unternehmen personenbezogene Informationen bereitstellen, sind wir berechtigt, diese Informationen an unsere anderen Gap Unternehmen weiterzuleiten, damit diese die genannten Daten zu den in der vorliegenden Datenschutzrichtlinie beschriebenen Zwecken nutzen und offenlegen können.
-  * _Dienstleister:_ Wir beauftragen Dienstleister mit der Verwaltung unserer Kundeninformationen und mit der Erbringung von Dienstleistungen in unserem Namen. Wir fordern von unseren Dienstleistern einen angemessenen Schutz personenbezogener Informationen und erlauben deren Nutzung ausschließlich zur Erbringung der von uns in Auftrag gegebenen Dienstleistungen.
-  * _Dritte:_ Wir leiten Ihre personenbezogenen Informationen unter Umständen an unabhängige Sponsoren von Wettbewerben, Angeboten, Scrip- und Treueprogrammen oder sonstigen Aktionen im Sinne der geltenden Bestimmungen und Konditionen dieser Wettbewerbe, Angebote oder Programmen weiter. Bitte lesen Sie sich die Bestimmungen und Konditionen sorgfältig durch, da diese ggf. wichtige zusätzliche Informationen über die Nutzung Ihrer personenbezogenen Informationen durch einen Sponsor oder durch Dritte enthalten. Sollten die Bestimmungen und Konditionen mit der vorliegenden Datenschutzrichtlinie in Konflikt stehen, überwiegen die Bestimmungen und Konditionen der jeweiligen Wettbewerbe, Angebote und Programme. Um sicherzustellen, dass Ihre Kredit- und Debitkarten nicht ohne Ihre Zustimmung verwendet werden, sind wir berechtigt, den von Ihnen während des Bestellvorgangs angegebenen Namen, Ihre Anschrift und andere personenbezogene Informationen mit den in Datenbanken Dritter gespeicherten Angaben abzugleichen. Sollten wir Anlass zum Verdacht eines Betrugsversuches oder Identitätsdiebstahls haben, sind wir berechtigt, Informationen zu diesem Vorfall zu speichern, um zukünftigen Betrugsversuchen entgegenzuwirken. Indem Sie dieser Datenschutzrichtlinie zustimmen, erklären Sie sich mit der Verarbeitung, Speicherung und Nutzung einverstanden.
-  * _Unternehmenstransaktionen:_ In dem unwahrscheinlichen Fall eines Sanierungsverfahrens, einer Fusion, eines Joint Ventures, einer Abtretung, Übertragung oder ähnlicher Sachverhalte betreffend aller Teile oder eines Teils des Geschäfts, der Anlagen oder Lagerbestände der Gap Unternehmen oder eines unserer Geschäfte, können sich unter dem übertragenen Betriebsvermögen ggf. auch personenbezogene Informationen über unsere Kunden befinden, die wir gemäß der vorliegenden Richtlinie gesammelt haben, und an andere relevante Parteien weitergeleitet werden.
-  * _Sonstige Offenlegungen:_ Die Gap Unternehmen können Ihre personenbezogenen Daten auch weiterleiten, um: 
-    1. die Rechte, Datenschutzrechte und die Sicherheit der Gap Unternehmen oder unserer Mitarbeiter, Vertreter und Erfüllungsgehilfen zu schützen und zu wahren;
-    2. die Sicherheit der Besucher unserer Websites oder anderer Anlagen aufrechtzuerhalten;
-    3. sich vor betrügerischen oder anderen illegalen Aktivitäten zu schützen oder zu Risikomanagementzwecken;
-    4. Anträgen oder Anfragen behördlicher oder öffentlicher Einrichtungen eines Landes, in dem wir tätig sind, einschließlich den USA, entgegenzukommen;
-    5. verfügbare Rechtsmittel einzulegen oder eventuelle Schäden zu begrenzen;
-    6. die Allgemeinen Nutzungsbestimmungen einer unserer Websites oder die Bestimmungen und Konditionen jeglicher Wettbewerbe, Angebote oder Programme durchzusetzen; oder
-    7. den Gesetzen oder gerichtlichen Verfahren zu entsprechen.
+  * Zur Bearbeitung und Abwicklung Ihrer Bestellung, unter anderem um Ihnen Bestätigungs-E-Mails zum Auftragsstatus und Versand zu senden; 
+  * Um uns mit Ihnen in Verbindung zu setzen und Ihnen Informationen per E-Mail, per Post, telefonisch, per SMS oder anderweitig über unsere Produkte, Dienstleistungen, Wettbewerbe und Angebote zukommen zu lassen, einschließlich Marketingmaterial, das unseres Erachtens für Sie von Interesse sein könnte; 
+  * Um Ihr Einkaufserlebnis einfacher, angenehmer und effizienter zu gestalten; 
+  * Um unsere Produkte, Marken, Dienstleistungen und Technologien zu verbessern, damit bestehende Probleme anzugehen, sowie um neue Produkte und Dienstleistungen zu entwickeln; 
+  * Um Ihnen zu ermöglichen, unsere Technologien in den Geschäften und online zu nutzen; 
+  * Um einheitliche, individuell angepasste Dienstleistungen über alle Kanäle und für all unsere Marken bereitzustellen, einschließlich der individuellen Anpassung unserer Werbung, des Marketingmaterials, des Einkaufserlebnisses und beworbener Angebote; 
+  * Um Aktionen, Angebote und das Erlebnis in den Geschäften in lokalen Gemeinschaften zu organisieren; 
+  * Um „Social Sharing“ zu erleichtern; 
+  * Um es Ihnen zu ermöglichen, einen Kredit von einem Anbieter von Zahlungskarten zu beantragen; 
+  * Um es Ihnen zu ermöglichen, sich für Kundenbindungsprogramme anzumelden und daran teilzunehmen; 
+  * Um unsere Wettbewerbe und sonstigen Werbeaktionen zu verwalten; 
+  * Um mehr über Ihre Einkaufsvorlieben zu erfahren; 
+  * Um Betrug, Sicherheitsverletzungen und Aktivitäten, die (potenziell) verboten oder gesetzeswidrig sind, vorzubeugen, sie zu erkennen, abzuminldern und zu untersuchen; 
+  * Um unsere [Verkaufs- und Nutzungsbedingungen](https://web.archive.org/customerService/info.do?cid=6754) durchzusetzen; 
+  * _Soweit wir dies als erforderlich und angemessen erachten, um die Rechte, das Eigentum und die Sicherheit von Gap Inc. und unseren Beschäftigten, Kunden und anderen Personen zu schützen;_
+  * _Soweit wir dies nach geltendem Recht als erforderlich und angemessen erachten, um auf ein etwaiges Ersuchen staatlicher Behörden zu reagieren und den Rechtsweg einzuhalten._
+
+
+
+Sie haben jederzeit die Möglichkeit, sich gegen den Erhalt von Marketinginformationen oder -anrufen zu entscheiden. Für nähere Erläuterungen zur Abmeldung gehen Sie bitte zum untenstehenden Abschnitt  „Wie kann ich die Zusendung von Werbeinformationen beeinflussen?“  . 
+
+Zurück zum Seitenanfang
+
+**Wie teilt Gap Inc. meine Informationen?**
+
+Wir geben Ihre personenbezogenen Informationen unter Umständen wie folgt weiter: 
+
+  * **Marken:** Wenn Sie einer unserer Marken personenbezogene Informationen bereitstellen, teilen wir diese Informationen möglicherweise mit unseren anderen Marken. 
+  * **Durch Sie.** Sie legen ggf. personenbezogene Informationen offen, wenn Sie Inhalte auf unseren Websites, über die Technologien in unseren Geschäften oder auf sonstigen öffentlichen Foren, wie etwa den Seiten unseres sozialen Netzwerks, Blogs und Online-Produktrezensionen, posten. Jegliche Informationen, die Sie über einen dieser Dienste offenlegen, werden öffentlich. 
+  * **„Social Sharing“.** Ihre personenbezogenen Informationen werden unter Umständen im Zusammenhang mit Ihren „Social Sharing“-Aktivitäten, d.h. dem Teilen von Informationen über soziale Netzwerke, offengelegt, etwa wenn Sie sich von Ihrem Konto bei einem sozialen Netzwerk in Ihr Kundenkonto einloggen. Indem Sie Ihr Kundenkonto und Ihr Konto bei einem sozialen Netzwerk verknüpfen, erlauben Sie uns, Informationen mit dem Betreiber des entsprechenden sozialen Netzwerks zu teilen, und Sie verstehen, dass die Nutzung der von uns geteilten Informationen durch die Datenschutzrichtlinie des sozialen Netzwerks geregelt wird. 
+  * **Dienstleister:** Wir teilen Ihre Informationen unter Umständen mit unseren Dienstleistern, die unsere Kundeninformationen verwalten und Dienstleistungen in unserem Namen erbringen, so etwa Werbeaktionen vornehmen, Mitteilungen an unsere Kunden senden, Umfragen durchführen, etc. Wir ermächtigen keinen dieser Dienstleister dazu, Ihre Informationen anderweitig zu nutzen oder offenzulegen. 
+  * **Dritte:** Wir teilen Ihre Informationen unter Umständen, wenn wir uns mit anderen Unternehmen zusammentun, um unseren Kunden Produkte und Dienstleistungen anzubieten, für diese Wettbewerbe auszurichten oder Werbeaktionen durchzuführen. 
+  * **Gesetzliche Anforderungen:** Wir teilen unter Umständen Informationen über Sie, soweit wir dies nach unserem Ermessen in gutem Glauben als notwendig oder angemessen erachten, um Gesetze und Regelungen einzuhalten, oder um rechtsgültigen Vorladungen, Verfügungen oder behördlichen Ersuchen nachzukommen, oder um das operative Geschäft, die Privatsphäre, die Sicherheit, das Eigentum oder die Rechte von Gap Inc. oder anderen zu schützen. 
+  * **Spenden- oder Treueprogramme:** Sollten Sie sich dazu entscheiden, an einem Spenden-, Treue- oder ähnlichen Programm eines Dritten teilzunehmen, in das eine Gap Inc.-Marke als teilnehmender Händler involviert ist, und Sie ermächtigen Gap Inc. oder unsere Abwicklungsgesellschaft für Kreditkartenzahlungen dazu, Informationen über Ihre Einkäufe an die Gesellschaft weiterzuleiten, die das jeweilige Programm verwaltet, werden wir Ihre personenbezogenen Informationen mit diesem Programm teilen. Spendenprogramme erlauben Ihnen, uns anzuweisen, einen Prozentsatz des Betrags, den Sie für Einkäufe bei Gap Inc. aufwenden, an teilnehmende Schulen und andere gemeinnützige Organisationen umzuleiten. Treueprogramme erlauben Ihnen, für Einkäufe bei Gap Inc.-Marken „Punkte“ zu verdienen, die Sie dann in bestimmte Belohnungen umwandeln können, die durch das jeweilige Treueprogramm angeboten werden. Unter die Informationen, die Sie uns ermächtigen, dem Spenden- oder Treueprogramm eines Dritten offenzulegen, können Ihre Kreditkartennummer sowie das Datum und der Betrag Ihres getätigten Einkaufs fallen, außerdem Ihr Name oder andere Informationen, um deren Bereitstellung Sie uns gebeten haben. Beachten Sie bitte, dass die Gesellschaft, die das jeweilige Programm verwaltet, die Informationen, sobald offengelegt, entsprechend ihrer eigenen Datenschutzrichtlinie nutzen und mit anderen teilen kann. Sie sollten diese Richtlinien sorgfältig durchlesen, da wir darüber keine Kontrolle haben. 
+  * **Geschäftsübergang:** In dem unwahrscheinlichen Fall eines Verkaufs oder einer Fusion von Gap Inc. oder eines unserer Geschäfte können sich unter dem übertragenen Betriebsvermögen ggf. auch personenbezogene Informationen unserer Kunden und andere Informationen befinden, die wir, wie in der vorliegenden Richtlinie beschrieben, gesammelt haben. 
 
 
 
 Zurück zum Seitenanfang
 
-### Wie kann ich auf meine personenbezogenen Informationen zugreifen und diese ggf. ändern?
+**Welche sonstigen Informationen erhebt Gap Inc.?**
 
-Sie können sich mit uns entsprechend der im Abschnitt "Wie nehme ich Kontakt mit Ihnen auf?" beschriebenen Kontaktmethoden in Verbindung setzen, um den Zugriff auf personenbezogene Informationen oder weitere Informationen zu der Nutzung personenbezogener Informationen zu beantragen oder um eine Anfrage zur Änderung, Aktualisierung, Löschung und/oder Ausfilterung personenbezogener Informationen einzureichen. Bitte beachten Sie, dass gemäß lokalen Datenschutzgesetzen bestimmte personenbezogene Informationen von den genannten Rechten auf Zugriff, Korrektur, Löschung oder Ausfilterung ausgeschlossen sind. Wir werden auf Ihre Anfrage entsprechend den jeweils gültigen Gesetzen reagieren. Sollten wir darüber hinaus auf einer unserer Websites die Möglichkeit zur Einrichtung eines Kontos auf der Seite anbieten, können Sie sich in Ihrem Konto anmelden und dort auf Ihre personenbezogenen Informationen zugreifen und diese ggf. ändern.
+Wir können Informationen erfassen, die Ihre spezifische Identität nicht preisgeben bzw. die sich nicht direkt auf eine Einzelperson beziehen, wie etwa Browser- und Geräteinformationen; Informationen, die über Cookies, Pixel-Tags und sonstige Technologien gesammelt werden, demografische Informationen und sonstige Informationen, die Sie zur Verfügung stellen; sowie auch zusammengeführte Daten. 
 
-Bei jeglichen Mitteilungen an uns zu diesem Thema, müssen Sie unmissverständlich folgende Informationen angeben: die Daten, die geändert werden sollen; die Daten, die aus unserer Datenbank ausgefiltert werden sollen; oder die Beschränkungen in der Nutzung Ihrer personenbezogenen Informationen, die von uns beachtet werden sollen. Aufgrund der Aufbewahrungspflicht bestimmter Unterlagen sind wir unter Umständen verpflichtet, gewisse Informationen zu speichern. Ferner bleiben auf unseren Datenbanken und in anderen Datensätzen ggf. Restdaten zurück, die nicht gelöscht werden. Wir sind weder für die Änderung, Aktualisierung, Löschung oder Ausfilterung personenbezogener Informationen in den Datenbanken Dritter, an die wir Ihre personenbezogenen Informationen weitergeleitet haben, noch für die Einschränkung deren Nutzung ihrer personenbezogenen Informationen verantwortlich.
+Wir sind berechtigt, solche Informationen für jedweden rechtmäßigen Zweck zu nutzen und offenzulegen. Bei Bedarf werden wir solche Informationen als personenbezogene Informationen gemäß dieser Richtlinie behandeln. Wir werden solche Informationen ebenfalls als personenbezogene Informationen behandeln, soweit sie mit personenbezogenen Informationen kombiniert sind. Beispielsweise sind wir berechtigt, wenn Sie unsere Technologien verwenden, Informationen zu Ihren Produktvorlieben, den Einkäufen, die Sie tätigen, und anderen Inhalten, die Sie generieren (etwa wenn Sie Ihrem Einkaufswagen Gegenstände hinzufügen), aufzubewahren. 
 
-Zurück zum Seitenanfang
+Wir können Informationen auf verschiedene Art erfassen, darunter: 
 
-### Wie kann ich die Nutzung meiner personenbezogenen Informationen beeinflussen?
+  * **Ihr Browser oder Gerät:** Bestimmte Informationen werden von den meisten Browsern gesammelt oder automatisch durch Ihr Gerät erfasst, wie etwa Ihre MAC-Adresse, Ihr Computertyp (Windows oder Macintosh), Bildschirmauflösung, Name und Version Ihres Betriebssystems, Gerätehersteller und -modell, Sprache, Art und Version des Internetbrowsers, sowie Browserverlauf und Nutzungsdaten. 
+  * **Mobile Applikationen:** Wenn Sie eine unserer mobilen Applikationen herunterladen und nutzen, verfolgen und erfassen wir gegebenenfalls Ihre Nutzungsdaten, wie etwa, basierend auf Ihrer Gerätenummer oder einer sonstigen Kennung, das Datum und die Uhrzeit, wann die App von Ihrem Gerät auf unsere Server zugreift, und welche Informationen und Dateien abgerufen, angesehen und/oder in die App heruntergeladen worden sind. 
+  * **Cookies:** Cookies sind kleine Informationseinheiten, die direkt auf dem Computer gespeichert werden, den Sie nutzen. Unsere Websites, Online-Werbeanzeigen und E-Mails nutzen Cookies, Pixel-Tags und sonstige Technologien, um automatisch Informationen über Ihre Interaktionen zu sammeln, wie etwa die Art des Browsers, die aufgerufenen Seiten, die angeklickten Links und sonstige Aktionen, die Sie im Zusammenhang mit unseren Websites, Online-Werbeanzeigen und E-Mails vornehmen. Wir nutzen die Informationen für verschiedene Zwecke, unter anderem, um die Navigation zu erleichtern, Informationen effektiver darzustellen, Ihr Erlebnis individuell zu gestalten, zu verstehen, wie unsere Websites genutzt werden, den Erfolg unserer Marketingkampagnen zu bestimmen, und für Sicherheitszwecke. Sollte Ihr Browser so eingestellt sein, dass Cookies abgelehnt werden, können Sie unter Umständen Ihr Kundenkonto nicht aufrufen oder keine Käufe auf unseren Websites tätigen. Um mehr darüber zu erfahren, wie wir Cookies zu Werbezecken einsetzen, gehen Sie bitte zum untenstehenden Abschnitt  „Wie werden meine Informationen für verhaltensbasierte oder zielgerichtete Werbung verwendet und wie kann ich dies beeinflussen?“  . 
 
-Die Gap Unternehmen und unsere Marken schicken Ihnen ausschließlich dann Mitteilungen zu, wenn Sie dies wünschen. Wenn Sie es vorziehen, keine Werbeinformationen beispielsweise zu Sonderangeboten oder Verkaufsveranstaltungen von einer oder mehreren unserer Marken zu erhalten, können Sie sich diesbezüglich entsprechend den unter dem nachstehenden Abschnitt "Wie nehme ich Kontakt mit Ihnen auf?" beschriebenen Kontaktmethoden an unseren Kundendienst wenden oder die in den an Sie adressierten Werbe-E-Mails vorhandenen Anweisungen zur Abbestellung von Mitteilungen befolgen.
 
-Bitte stellen Sie sicher, dass Sie Ihren vollständigen Namen und die E-Mail-Adresse eingeben, die Sie zur Zeit Ihrer Registrierung oder anlässlich eines Einkaufs bei einer oder mehrerer unserer Marken angegeben haben. Wenn Sie möchten, dass Ihr Name und Ihre Adresse aus den Werbelisten gelöscht werden, speichern wir Ihren Namen in einer "Nicht kontaktieren"-Datei, um Sie nicht weiter zu belästigen.
 
-Sollten Sie Ihre Meinung ändern und wieder Werbeinformationen von uns erhalten wollen, können Sie sich hierzu bei einem Besuch auf unseren Websites oder in einem unserer Läden, bei der Teilnahme an einem Gewinnspiel oder Wettbewerb oder per Kontaktaufnahme mit dem Kundendienst wieder anmelden.
+Sollten Sie nicht wünschen, dass Informationen durch den Einsatz von Cookies erfasst werden, stehen in den meisten Browsern einfache Maßnahmen zur Verfügung, um Cookies automatisch abzulehnen oder vor die Wahl gestellt zu werden, den Transfer eines bestimmten Cookies (oder mehrerer Cookies) von einer bestimmten Seite auf Ihren Computer abzulehnen oder zuzulassen. Wenn Sie keine Cookies zulassen, kann dies gewisse Unannehmlichkeiten bei der Nutzung unserer Websites zur Folge haben. Beispielsweise können Sie unter Umständen Ihre Kontoinformationen nicht aufrufen oder keine Käufe auf unseren Websites tätigen. 
 
-Zurück zum Seitenanfang
+  * **Einsatz von Pixel-Tags und sonstigen ähnlichen Technologien:** Wir verwenden möglicherweise Pixel-Tags, um, unter anderem, die Aktionen der Nutzer unserer Websites und Dienstleistungen (einschließlich E-Mail-Empfänger) nachzuverfolgen, den Erfolg unserer Marketingkampagnen zu bestimmen und Statistiken über die Nutzung unserer Websites und Dienstleistungen sowie zu Antwortquoten zu erstellen. 
+  * **Analyse:** Wir nutzen Drittanbieter, darunter Google und Adobe, die Cookies und ähnliche Technologien verwenden, um Informationen über die Nutzung unserer Websites, unserer mobilen Applikationen und unserer Technologien in den Geschäften zu sammeln und zu analysieren. Diese Dienstleistung beinhaltet unter Umständen auch die Erfassung von Informationen hinsichtlich der Nutzung anderer Websites, Applikationen und Online-Ressourcen. Um mehr über die Praktiken von Google zu erfahren, besuchen Sie bitte [ http://www.google.com/policies/privacy/‌partners/](http://www.google.com/policies/privacy/partners/) , und um die Erfassung dieser Informationen zu untersagen, nutzen Sie das Google Analytics Opt-Out Browser Add-on, verfügbar unter [ https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout) . Um mehr über die Praktiken von Adobe zu erfahren und um die Erfassung dieser Informationen zu untersagen, besuchen Sie bitte [ http://www.adobe.com/privacy/opt-out.html ](http://www.adobe.com/privacy/opt-out.html) . 
+  * **Adobe Flash** : Wir nutzen unter Umständen Adobe Flash-Technologie, unter anderem Flash Local Shared Objects („Flash LSOs“) und sonstige ähnliche Technologien, um Informationen über Ihre Nutzung unserer Websites und mobilen Applikationen zu sammeln und zu speichern. Sie können Ihren Flash Player so einstellen, dass die Speicherung von Flash LSOs auf Ihrem Computer blockiert wird, indem Sie die Tools im [Bedienfeld Website-Speichereinstellungen ](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) nutzen. Sie können Flash LSOs auch steuern, indem Sie in das [Bedienfeld Globale Speichereinstellungen](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) gehen und die Anweisungen befolgen (darunter finden sich ggf. Anweisungen, die beispielsweise erklären, wie Sie vorhandene Flash LSOs (auf der Macromedia-Seite „Informationen“ genannt) löschen, wie Sie der ungefragten Platzierung von Flash LSOs entgegenwirken, und (bei Flash Player 8 und späteren Versionen) wie Sie Flash LSOs blockieren, die nicht vom Betreiber der Seite stammen, auf der Sie gerade sind). Bitte beachten Sie, wenn Sie den Flash Player so einstellen, dass die Zulassung von Flash LSOs eingeschränkt ist, dass dies Auswirkungen auf die Funktionalität einiger Flash-Applikationen haben kann, unter anderem solcher Applikationen, die im Zusammenhang mit unseren Websites und mobilen Apps Anwendung finden. 
+  * **IP-Adresse:** Ihre Internetprotokolladresse (IP-Adresse) ist eine Nummer, die dem von Ihnen genutzten Computer automatisch von Ihrem Internet Service Provider (ISP) erteilt wird. Die IP-Adresse wird ggf. neben der Dauer Ihres Besuchs und den aufgerufenen Seiten automatisch in unseren Server-Protokolldateien ausgewiesen und vermerkt, wenn Sie unsere Websites besuchen. Ihre IP-Adresse weist ggf. auch auf Ihren ungefähren physischen Standort hin. Die Erfassung von IP-Adressen ist ein Standardverfahren und erfolgt auf vielen Websites, in Applikationen und sonstigen Technologien automatisch. Wir nutzen IP-Adressen zu solchen Zwecken wie der Berechnung von Nutzerquoten und der Diagnose von Serverproblemen. 
+  * **Physischer Standort:** Wir erfassen ggf. den physischen Standort Ihres Geräts, indem wir beispielsweise Satelliten-, Mobilfunkmast- oder WLAN-Signale nutzen. Wir nutzen den physischen Standort Ihres Geräts unter Umständen, um Sie mit individuell angepassten ortsbasierten Dienstleistungen und Inhalten zu versorgen. Es ist Ihnen gestattet, eine solche Nutzung zu erlauben oder diese abzulehnen. Im Falle einer Ablehnung werden wir jedoch unter Umständen nicht in der Lage sein, Ihnen ein individuell angepasstes Benutzererlebnis zu bieten. ****
+  * **Technologien in den Geschäften:** Wir bieten ggf. Technologien in den Geschäften, die dazu beitragen, Ihr Einkaufserlebnis individuell anzupassen und zu verbessern. Diese Technologien erfordern unter Umständen eine Erhebung bestimmter Informationen über Ihr mobiles Gerät, wie etwa Ihre MAC-Adresse oder andere Daten zur Gerätekennung, und gestatten es Ihnen außerdem, personenbezogene Daten zum Zwecke einer besseren individuellen Anpassung zu übermitteln, etwa zu Ihren Interessen, Ihren Einkaufsvorlieben und Informationen zu Ihrer Größe. 
+  * **Zusammengeführte Informationen:** Wir erfassen und nutzen ggf. zusammengeführte personenbezogene Informationen, die nicht Ihre Identität erkennen lassen. Beispielsweise berechnen wir unter Umständen den Prozentsatz an Nutzern unserer Website, die eine bestimmte Telefonvorwahl haben. 
 
-### Wie ist es um den Datenschutz von Kindern bestellt?
 
-Unsere Websites sind weder auf Kinder ausgerichtet noch zur Benutzung durch Minderjährige bestimmt. Wir bitten Besucher unter 18 Jahren, keine personenbezogenen Informationen an uns weiterzuleiten. Auf ausdrücklichen Wunsch können uns die Eltern oder Erziehungsberechtigten eines Kindes unter 18 Jahren Informationen über das Kind zukommen lassen.
-
-Zurück zum Seitenanfang
-
-### Wie erfassen und nutzen die Gap Unternehmen nicht-personenbezogene Informationen?
-
-Nicht-personenbezogene Informationen sind Informationen, aus denen Ihre Identität nicht ersichtlich wird. Dazu gehören demographische Daten, wie etwa Ihr Geschlecht, Ihr Geburtsdatum und persönliche Interessen. Nicht-personenbezogene Informationen umfassen auch Informationen in zusammengefasster Form, z. B. personenbezogene Informationen zur Berechnung des prozentualen Anteils unserer Kunden, die an einer bestimmten Marke interessiert sind.
-
-Wenn Sie unsere Websites besuchen, erfassen die Gap Unternehmen nicht-personenbezogene Informationen wie etwa Ihre MAC-Adresse, Ihren Computertyp, die Bildschirmauflösung, die Version Ihres Betriebssystems, Internetbrowser, IP-Adresse (wie nachstehend beschrieben), Cookies (wie nachstehend beschrieben), Pixel-Tags, Web Beacons oder ähnliche Technologien (wie nachstehend beschrieben), um Sie mit auf Ihre Interessen zugeschnittenen Informationen besser bedienen und Ihnen den ununterbrochenen Zugriff auf unsere Websites gewährleisten zu können.
-
-Die Gap Unternehmen sind berechtigt, nicht-personenbezogene Informationen zu nutzen und zu beliebigen Zwecken an Dritte weiterzuleiten. Die Gap Unternehmen sind berechtigt, nicht-personenbezogene Informationen mit personenbezogenen Informationen zu kombinieren (z. B. Ihren Standort mit Ihrem Namen). In diesem Fall werden die Daten jedoch solange als personenbezogene Informationen behandelt, wie diese an personenbezogene Informationen geknüpft sind.
 
 Zurück zum Seitenanfang
 
-### Wie erfassen und nutzen die Gap Unternehmen Cookies?
+**Was passiert, wenn ich mich mit dem in Geschäften von Gap Inc. angebotenen WLAN-Netz verbinde?**
 
-Auf unseren Websites verwenden wir kleine Dateneinheiten, die auf Ihrem Computer gespeichert werden, wenn Sie eine Website besuchen, auch bekannt unter der Bezeichnung "Cookies". Cookies können vielfältig eingesetzt werden, um Ihr Benutzererlebnis auf unseren Seiten zu verbessern oder zu personalisieren. Beispielsweise setzen wir Cookies ein, um Ihnen die Nutzung bestimmter Funktionen auf unseren Websites oder die Speicherung Ihrer Präferenzen zu ermöglichen oder um Sie bei einem wiederholten Besuch unserer Websites wiederzuerkennen und um Ihre Nutzung unserer Websites zu überwachen und entsprechende Informationen zu speichern. Cookies können auch verwendet werden, um die für ein Treueprogramm erforderlichen Transaktionsdaten zu erfassen, bezüglich derer Sie uns ermächtigt haben, Ihre personenbezogenen Informationen weiterzuleiten. (Siehe Abschnitt "Geben die Gap Unternehmen meine personenbezogenen Informationen weiter?"). Des Weiteren können sie eingesetzt werden, um Ihnen personalisierte Werbebanner anzuzeigen, wenn Sie sich auf anderen bekannten Websites befinden. Diese Anzeigen beziehen sich auf Produkte, die Sie während Ihres Besuchs dieser Website auf Ihrem Computer oder einem anderen Gerät betrachtet haben. Wir bemühen uns, Ihnen ausschließlich Informationen zuzuschicken, die für Sie von Interesse sind.
+Wenn Sie sich mit dem in unseren Geschäften angebotenen WLAN-Netz verbinden, werden die Gap Unternehmen Informationen über Sie und Ihr Gerät erhalten, unter anderem die MAC-Adresse Ihres Geräts, die IP-Adresse, den RSSI-Indikator und technische Daten zu Ihrem Gerät, wie etwa dessen Betriebssystem und Gerätetyp (darunter Hersteller und Modell) und technische Fähigkeiten. Sollten Sie Ihrem Gerät einen Namen zugewiesen haben, können wir diesen erhalten. Außerdem werden wir Informationen darüber erhalten, wie Sie unser WLAN-Netz nutzen, während Sie damit verbunden sind, unter anderem den Standort des Geschäfts, die Bereiche innerhalb des Geschäfts, die Sie aufsuchen, die Namen und/oder Internetadressen der Websites, die Sie besuchen, und die Applikationen, die Sie nutzen, und auch darüber, wie lange Sie mit solchen Websites oder Applikationen interagieren. Wir erheben diese Informationen jedes Mal, wenn Sie sich mit dem WLAN-Netz verbinden, und bringen diese unter Umständen in Verbindung mit anderen Informationen, die wir von Ihnen eingeholt und über Sie gesammelt haben. 
 
-Dementsprechend können Sie Ihren Browser so einstellen, dass Cookies generell abgelehnt oder Sie darüber informiert werden, sobald ein Cookie geschickt wird, damit Sie von Fall zu Fall entscheiden können, ob sie das Cookie akzeptieren möchten oder nicht. Wenn Sie Cookies ablehnen, kann dies jedoch zur Folge haben, dass Ihnen bestimmte Funktionen unserer Websites nicht zur Verfügung stehen. 
+Sollte Ihr mobiles Gerät so konfiguriert sein, dass es nach verfügbaren WLAN-Netzen sucht, erhalten wir ggf. Informationen über Ihr Gerät, selbst wenn Sie sich nicht dazu entschließen, sich mit unserem WLAN-Netz zu verbinden. 
 
-Für ausführlichere Informationen über Cookies besuchen Sie bitte <http://www.allaboutcookies.org/>.
+Als Annehmlichkeit können wir Ihnen die Möglichkeit anbieten, mit dem WLAN-Netz der Gap Unternehmen verbunden zu bleiben. Sollten Sie sich dafür entscheiden, werden Sie automatisch in das WLAN-Netz eines jeden Gap Unternehmens eingeloggt, das ein solches anbietet, und wir können die oben beschriebenen Informationen erfassen, selbst wenn Sie während Ihres Aufenthalts in unserem Geschäft nicht aktiv Ihren Internetbrowser oder Ihre mobilen Applikationen nutzen. Sie können jederzeit über die WLAN-Einstellungen Ihres Geräts die Verbindung zum Gap-WLAN-Netz unterbrechen. Doch beachten Sie bitte, dass die Unterbrechung der Verbindung zum WLAN-Netz eines Geschäfts Sie nur während Ihres aktuellen Aufenthalts von diesem Netz trennt. Sie können sich jederzeit gegen die automatische Verbindungsherstellung entscheiden, indem Sie [http://www.smart-places.org](http://www.smart-places.org/) besuchen. 
 
-Zurück zum Seitenanfang
-
-### Wie erfassen und nutzen die Gap Unternehmen Pixel-Tags und ähnliche Technologien?
-
-Auf unseren Websites und in unseren E-Mails verwenden wir kleine Grafiken, auch "Pixel-Tags", "Web Beacons" oder "Clear Gifs" genannt, sowie vergleichbare Technologien. Pixel-Tags helfen uns dabei, das Online-Verhalten unserer Kunden zu analysieren und den Erfolg unserer Websites und Werbung zu messen. Wir arbeiten mit Dienstleistern zusammen, die uns helfen, diese Informationen nachzuverfolgen, zu erfassen und zu analysieren. Pixel-Tags werden auf unseren Websites ggf. genutzt, um Informationen zu Ihrem Besuch zu sammeln, einschließlich den Seiten, die Sie aufgerufen haben, den Funktionen, die Sie genutzt haben, den Links, auf die Sie geklickt haben, sowie anderen Aktionen, die Sie in Zusammenhang mit diesen Seiten vorgenommen haben. Zu diesen Informationen zählen u. a. Ihr Browsertyp, Ihr Betriebssystem, Datums- und Zeitangaben und andere technische Angaben zu Ihrem Computer. Wir verfolgen unter Umständen auch Informationen über die Website, die Sie unmittelbar vor Ihrem Besuch auf unserer Seite besucht haben. In unseren E-Mail-Kommunikationen verwenden wir Pixel-Tags und Cookies, um Ihre Interaktion mit diesen Mitteilungen nachzuverfolgen, beispielsweise wenn Sie eine E-Mail von uns erhalten, öffnen oder auf einen darin enthaltenen Link klicken. 
-
-Wir sind berechtigt, die Informationen, die wir anhand von Cookies und Pixel-Tags erfassen, mit anderen Informationen über Sie zu kombinieren. Diese Informationen können neben internen Geschäftszwecken eingesetzt werden, um unsere Websites zu verbessern, Ihre Online-Benutzererfahrung sowie unsere Mitteilungen an Sie zu personalisieren, den Erfolg unserer Werbung zu bestimmen und Ihre Vorlieben nachzuvollziehen.
-
-Darüber hinaus arbeiten wir mit Drittunternehmen zusammen, welche Verfolgungstechnologien einsetzen, um in unserem Namen Online-Werbeanzeigen zu schalten. Diese Unternehmen sind berechtigt, Informationen über Ihre Besuche auf unseren Websites und Ihre Interaktion mit unserer Werbung und anderen Mitteilungen zu erfassen. Wir bemühen uns, Ihnen ausschließlich Informationen zuzuschicken, die für Sie von Interesse sind. Wenn Sie in diesem Sinne gern mehr zu diesem Vorgehen und Ihrem Recht, die Nutzung Ihrer Daten durch diese Unternehmen zu untersagen, erfahren möchten, besuchen Sie bitte <http://www.networkadvertising.org/managing/opt_out.asp>.
-
-Sie können entscheiden, ob Sie der Nutzung solcher Pixel Tags auf unserer Website zustimmen oder der Nutzung nicht zustimmen. Wenn Sie der Nutzung von Pixel Tags zustimmen, können Sie die Zustimmung jederzeit widerrufen, indem Sie ihre Targeting Cookie Einstellung hier ändern. Wenn Sie der Nutzung solcher Pixel Tags nicht zustimmen, kann es sein, dass Ihnen gewisse Inhalte unserer Website nicht zur Verfügung stehen. 
-
-Um mehr über Online Behavioural Advertising zu erfahren oder um gegen den Erhalt zielgerichteter Werbung zu optieren, besuchen Sie bitte die European Interactive Digital Advertising Alliance: [http://www.edaa.eu](http://www.edaa.eu/)
+Um umfassende Einzelheiten zu den WLAN-Praktiken in unseren Geschäften zu erhalten, lesen Sie bitte unsere [ WLAN-Nutzungsbedingungen. ](https://secure-www.gap.com/customerwifi/splash?base_grant_url=https%3A%2F%2Fsecure-www.gap.com%2Fcustomerwifi%2FmerakiTestDouble&node_mac=00:18:0a:da:4e:f0&client_mac=xx:xx:xx:xx:xx:xx)
 
 Zurück zum Seitenanfang
 
-### Wie erfassen und nutzen die Gap Unternehmen IP-Adressen?
+**Was passiert, wenn ich unterschiedliche Geräte verwende, um die Websites oder mobilen Applikationen von Gap Inc. aufzurufen?** ****
 
-Ihre IP-Adresse ist eine Nummer, die Ihrem Computer automatisch von Ihrem Internet Service Provider (ISP) erteilt wird. Es ist möglich, dass Ihnen jedes Mal, wenn Sie das Internet betreten, eine neue Nummer zugeteilt wird; sie kann jedoch auch immer dieselbe sein. Die IP-Adresse wird neben der Dauer Ihres Besuchs und der aufgerufenen Seiten automatisch in unseren Server-Protokolldateien vermerkt, wenn Sie unsere Websites besuchen. Sie wird auch wie oben beschrieben über Pixel-Tags erfasst. Die Erfassung von IP-Adressen ist ein Standardverfahren im Internet und erfolgt auf vielen Websites automatisch.
-
-Wir verwenden IP-Adressen ggf. für dieselben Zwecke, für die wir auch Ihre personenbezogenen Informationen nutzen, einschließlich zur Berechnung unserer Website-Nutzerquoten, zur Diagnose von Serverproblemen, zur Verwaltung unserer Websites und Ihrer Nutzung unserer Websites, um Ihnen Angebote zuzuschicken und Ihre Anfragen und Bestellungen zu bearbeiten. Sofern nicht anderweitig gesetzlich vorgeschrieben, behandeln wir IP-Adressen, Server-Protokolldateien und zugehörige Daten als nicht-personenbezogene Informationen.
+Um Ihnen ein effizienteres und angenehmeres Einkaufserlebnis zu bieten, wird es Ihnen ermöglicht, auf unterschiedliche Inhalte zuzugreifen oder sich von vielen verschiedenen Geräten aus in Ihr Konto einzuloggen. Sollten Sie viele verschiedene Geräte nutzen, um unsere Websites oder mobilen Applikationen zu nutzen, wie etwa Ihren Heimcomputer, Laptop und/oder mobile Geräte, können wir unter Umständen jedes dieser Geräte mit Ihrem Konto verknüpfen. Beispielsweise werden unsere Websites es Ihnen gestatten, Ihre bevorzugten Artikel oder Ihren Einkaufswagen über einen E-Mail-Link, der einzig Ihrem Konto zugewiesen ist, aufzurufen. Wenn Sie auf den Link klicken, werden Sie automatisch in Ihr Konto eingeloggt, so dass Sie Ihren Einkauf dort fortsetzen können, wo Sie ihn unterbrochen haben. Wenn Sie diesem E-Mail-Link nun auf einem neuen Gerät folgen, können wir Ihr aktuelles Gerät mit Ihren Kontoinformationen verknüpfen. Die Informationen, die wir von Ihren unterschiedlichen Geräten gesammelt haben, können mit anderen Informationen kombiniert werden, die Sie uns zur Verfügung gestellt haben, auch mit Informationen, die in Ihrem Kundenkonto gespeichert sind. Wir sind berechtigt, solche Informationen zu nutzen, um, wie in dieser Datenschutzrichtlinie dargelegt, ein besser auf Sie zugeschnittenes Erlebnis sowie konsequente Dienstleistungen und Erlebnisse auf all Ihren Geräten zu bieten. Sie haben die Wahl, unsere Website zu besuchen, ohne dass Ihr Gerät erkannt wird, indem Sie sich aus Ihrem Konto ausloggen. ****
 
 Zurück zum Seitenanfang
 
-### Wie kann ich mir sicher sein, dass meine personenbezogenen Informationen sicher aufbewahrt werden?
+**Warum habe ich eine Marketing-E-Mail erhalten, nachdem ich einen Einkauf in einem Geschäft von Gap Inc. getätigt habe?**
 
-Wir haben physische, elektronische, vertragliche und verwaltungstechnische Sicherheitsvorkehrungen zum Schutz Ihrer Sicherheit und der Vertraulichkeit Ihrer personenbezogenen Informationen vor unerlaubten Zugriffen, Offenlegungen und einer rechtswidrigen Erfassung eingerichtet. Wenn Sie Ihre personenbezogenen Informationen auf unseren Websites eingeben, schützen wir Ihre Daten während der Übertragung mittels einer Secure Sockets Layer (SSL) Technologie.
-
-Leider gibt es keine hundertprozentige Garantie für die Sicherheit von Datenübertragungen über das Internet oder Datenspeichersysteme. Bitte schicken Sie uns keine vertraulichen Informationen per E-Mail zu. Wenn Sie Grund zur Annahme haben, dass Ihre Interaktion mit uns nicht länger sicher ist, sind Sie verpflichtet, uns umgehend über das Problem zu informieren, indem Sie sich mit uns über die im nachstehenden Abschnitt "Wie nehme ich Kontakt mit Ihnen auf?" beschriebenen Kontaktmethoden in Verbindung setzen. Wenn Sie sich entscheiden, uns auf dem Postweg über das Problem in Kenntnis zu setzen, dauert es länger, bis wir uns zu diesem Sachverhalt äußern können.
+Um Ihnen ein reibungsloseres Kundenerlebnis zu bieten, führen wir Aufzeichnungen über all Ihre sowohl online als auch im Geschäft vorgenommenen Gap Inc.-Transaktionen. Beispielsweise können wir, wenn Sie beim Einkauf in unserem Geschäft eine Kredit- oder Debitkarte nutzen oder dem Verkaufspersonal Ihre E-Mail-Adresse geben, diese Information mit Ihrem Online-Kundenkonto verknüpfen. Wie oben beschrieben nutzen wir Informationen über Ihre Einkäufe unter Umständen, um Ihnen E-Mails zu anderen Produkten und Dienstleistungen zuzusenden, die unseres Erachtens von Interesse für Sie sein können. 
 
 Zurück zum Seitenanfang
 
-### Wie sieht es mit Links zu fremden Websites aus?
+**Wie kann ich auf meine Informationen zugreifen und diese ändern?**
 
-Zu Ihrer Bequemlichkeit und Information enthalten unsere Websites Links zu anderen Seiten, welche unter Umständen Datenschutzpraktiken und -richtlinien haben, die von den unsrigen abweichen. Wir haften nicht für den Inhalt oder die Praktiken verlinkter Websites. Wir empfehlen Ihnen, die Datenschutzrichtlinien aller Seiten zu lesen, auf die Sie über unsere Websites zugreifen. Ein Link auf unseren Websites zu einer fremden Website bedeutet nicht, dass die Gap Unternehmen diese Seite in jedweder Art unterstützen.
+Sie können bestimmte personenbezogene Informationen betreffend Ihre Nutzung unserer Online-Auftritte (wie etwa Ihren Namen und Ihre Kontaktdaten) überprüfen und ändern. Um Ihre Informationen auf einer Gap Inc.-Website aufzurufen, melden Sie sich einfach über Ihre E-Mail-Adresse und Ihr Passwort in Ihrem Konto an. In Ihrem Kundenprofil können Sie dann Ihre personenbezogenen Informationen bearbeiten. 
 
-Zurück zum Seitenanfang
-
-### Wie lange bewahren Sie meine Daten auf?
-
-Wir speichern Ihre personenbezogenen Informationen nur so lange, wie sie benötigt werden, um die in der vorliegenden Richtlinie beschriebenen Zwecke zu erfüllen, oder solange es gesetzlich vorgeschrieben oder zulässig ist.
+Sie können auch uns darum bitten, Ihre personenbezogenen Informationen zu aktualisieren, indem Sie sich wie im Abschnitt „Wie nehme ich Kontakt mit Ihnen auf?“ beschrieben mit uns in Verbindung setzen. Bitte beachten Sie, dass eine Aktualisierung Ihrer personenbezogenen Informationen im Falle einer E-Mail-Anfrage bis zu 10 Tage und im Falle einer postalischen Anfrage 6 bis 8 Wochen dauern kann. 
 
 Zurück zum Seitenanfang
 
-### Wie nehme ich Kontakt mit Ihnen auf?
+**Wie kann ich die Zusendung von Werbeinformationen beeinflussen?**
 
-Bei Fragen zu unserer Datenschutzrichtlinie, zum Abonnement oder der Abbestellung von Werbeinformationen, zur Aktualisierung oder Änderung Ihrer personenbezogenen Informationen in unseren Datenbanken oder zur Einreichung einer Anfrage auf Löschung oder Ausfilterung Ihrer personenbezogenen Informationen, wenden Sie sich bitte per E-Mail, telefonisch oder auf dem Postweg an unsere Marken:
+Gap Inc. und unsere Marken kommunizieren nur dann mit Ihnen, wenn Sie dies wünschen. Wenn Sie es vorziehen, keine Werbeinformationen, beispielsweise zu Sonderangeboten oder Verkaufsveranstaltungen, von einer oder mehreren unserer Marken zu erhalten, können Sie sich diesbezüglich, wie im Abschnitt "Wie nehme ich Kontakt mit Ihnen auf?" beschrieben, an unseren Kundendienst wenden oder die untenstehenden Links zur Abbestellung von Mitteilungen anklicken. 
+
+Gap [ Abbestellen ](https://secure-www.gap.co.uk/profile/info.do?cid=82639)
+
+Banana Republic [ Abbestellen ](https://secure-bananarepublic.gap.co.uk/profile/info.do?cid=82771)
+
+Zurück zum Seitenanfang
+
+**Wie schützt Gap Inc. die Privatsphäre von Kindern?**
+
+Für Gap Inc. ist die Privatsphäre und der Schutz von Kindern bei der Nutzung des Internets wichtig. Wir werden niemals wissentlich ohne vorherige nachweisliche Zustimmung der Eltern online personenbezogene Informationen von Personen unter 13 Jahren anfragen. Unsere Websites sind für ein allgemeines Publikum bestimmt, und weder auf Kinder ausgerichtet noch zur Benutzung durch Kinder vorgesehen. 
+
+Zurück zum Seitenanfang
+
+**Wie werden meine Informationen für verhaltensbasierte oder zielgerichtete Werbung verwendet und wie kann ich dies beeinflussen?** ****
+
+Wir verwenden unsere eigenen Cookies, um anhand dessen festzulegen, welche unserer Werbeanzeigen Ihnen auf anderen Websites angezeigt werden. Um diese zielgerichtete Online-Werbung durch Gap Unternehmen, die auf unseren Cookies basiert, zu untersagen, folgen Sie bitte diesem [Link](http://www.gap.co.uk/customerService/info.do?cid=81901) . 
+
+Darüber hinaus arbeiten wir mit Drittunternehmen zusammen, welche auf unseren Websites Tracking-Technologie (einschließlich Cookies und Pixel-Tags) einsetzen, um in unserem Namen und im Namen anderer Werbekunden im gesamten Internet verteilt auf den Nutzer zugeschnittene Werbeanzeigen zu platzieren. Diese Unternehmen sammeln gegebenenfalls Informationen über Ihre Aktivität auf unseren Websites und Ihre Interaktion mit unserer Werbung und anderen Mitteilungen und nutzen diese Informationen, um zu bestimmen, welche Werbung Ihnen auf den Websites und Applikationen Dritter gezeigt wird. Diese Technologien und die über Sie erfassten Informationen können auch genutzt werden, um Ihre Aktivität über mehrere Geräte hinweg nachzuverfolgen. Um mehr über diese Praxis zu erfahren und Ihre Einflussmöglichkeiten zu verstehen, unter anderem wie Sie die Anzeige dieser auf Sie zugeschnittenen Werbungen unterbinden können, gehen Sie bitte auf die Seite der European Interactive Digital Advertising Alliance: [http://www.edaa.eu](http://www.edaa.eu/) /. 
+
+Zurück zum Seitenanfang
+
+**Was passiert, wenn ich auf Ihrer Website eine Kreditkarte der Gap Inc.-Marken beantrage?**
+
+In bestimmten Ländern können wir Ihnen die Möglichkeit bieten, in unseren Geschäften oder online ein Kreditangebot von einem Zahlungskartenaussteller zu beantragen. Um das Antragsverfahren für Sie komfortabler zu gestalten, können wir Informationen aus Ihrem Kundenkonto an einen Zahlungskartenaussteller weitergeben, um ein im Voraus genehmigtes Kreditangebot zu generieren und/oder Ihren Online-Kreditkartenantrag mit Informationen aus Ihrem Kundenkonto zu bestücken. Durch Einreichung eines Kreditkartenantrags entweder im Geschäft oder online bestätigen Sie und erklären sich damit einverstanden, dass Gap Inc. Ihre Informationen gemäß den Antragsbedingungen an den Zahlungskartenaussteller weitergeben wird. Um mehr über die mit Ihrem Kreditkartenantrag verbundenen datenschutzrechtlichen Praktiken zu erfahren, wenden Sie sich bitte an den Zahlungskartenaussteller. ****
+
+**Was passiert, wenn ich an Programmen lokaler Geschäfte teilnehme?** ****
+
+Wir bieten ggf. in bestimmten Geschäften oder an bestimmten Standorten besondere Gelegenheiten für Kunden, individuell angepasste Einkaufs- oder sonstige Dienstleistungen zu beziehen, etwa eine Mitteilung, wenn Ihr Lieblingsprodukt in Ihrem lokalen Geschäft verfügbar ist, Produktempfehlungen, Sonderangebote für bestimmte Gemeinschaftsmitglieder, wie etwa Lehrer oder Fitnesstrainer, sowie Einladungen zu besonderen lokalen Ereignissen. 
+
+Um diese auf Sie ausgerichteten Dienstleistungen bereitstellen zu können, wird ein Verkaufsmitarbeiter Sie unter Umständen um Informationen zu Ihren Interessen, Aktivitäten, Einkaufsvorlieben und zu anderen Personen, für die Sie einkaufen, bitten. Wir sind auch berechtigt, Aufzeichnungen zu Ihrer bevorzugten Größe, Ihren Produktwunschlisten, dem Verlauf Ihrer Transaktionen in lokalen Geschäften und Ihren Kontaktinformationen zu führen. Diese Informationen werden wir ggf. nutzen, um Sie gemäß dieser Richtlinie per Telefon oder SMS zu kontaktieren. In bestimmten Fällen können Sie auch einen Verkaufsmitarbeiter dazu ermächtigen, in Ihrem Auftrag mittels der Zahlungsdaten, die Sie zuvor im Rahmen einer online oder im Geschäft vorgenommenen Transaktion bereitgestellt haben, einen Einkauf zu tätigen. 
+
+Zurück zum Seitenanfang
+
+**Wie kann ich wissen, dass meine personenbezogenen Informationen sicher sind?**
+
+Wir tun unser Bestes, um Ihr Einkaufserlebnis sicher und komfortabel zu gestalten. Wir haben bestimmte physische, elektronische, vertragliche und geschäftsleitende Sicherheitsvorkehrungen zum Schutz Ihrer Sicherheit und der Vertraulichkeit Ihrer personenbezogenen Informationen eingerichtet. 
+
+Sollten Sie aus irgendeinem Grund nicht auf einen sicheren Server zugreifen können, oder sollten Sie sich nicht damit wohlfühlen, online auf einer unserer Websites Einkäufe zu tätigen, geben Sie Ihre Bestellung gerne telefonisch unter der im Abschnitt „Wie nehme ich Kontakt mit Ihnen auf?“ genannten Telefonnummer auf. 
+
+Zurück zum Seitenanfang
+
+**Was ist „Phishing“?** ****
+
+„Phishing“ ist Betrügerei, die darauf ausgelegt ist, Ihre personenbezogenen Informationen zu stehlen. Sollten Sie eine E-Mail erhalten, die von uns zu sein scheint und in der Sie um Ihre personenbezogenen Informationen gebeten werden, antworten Sie bitte nicht darauf. Unter keinen Umständen werden wir Ihr Passwort, Ihren Nutzernamen, Kreditkarteninformationen oder sonstige personenbezogene Informationen per E-Mail erfragen. 
+
+Zurück zum Seitenanfang
+
+** Ich habe von einer Gap Inc.-Marke eine verdächtige E-Mail zu einer Bestellung erhalten, die ich nicht aufgegeben habe. Was soll ich tun? **
+
+Wir wissen, dass gefälschte E-Mails unter unseren Markennamen versandt werden. Diese E-Mails stammen nicht von Gap Inc. Auch wurde Personen, die betrügerische Bestellstatus-E-Mails erhalten haben, dies nicht in Rechnung gestellt. Zu Ihrem eigenen Schutz sollten Sie nicht auf Links klicken oder Anhänge zu verdächtigen, nicht angeforderten E-Mails öffnen. Sollten Sie der Meinung sein, dass Ihr PC in Folge von Betrügerei kompromittiert wurde, ziehen Sie bitte einen IT-Experten hinzu. Wenn Sie mehr erfahren möchten, nehmen Sie bitte über [http://www.actionfraud.police.uk/ ](http://www.actionfraud.police.uk/) Kontakt mit „Action Fraud“ („Aktion Betrug“), Großbritanniens Meldestelle für Betrugsfälle und Cyberkriminalität, auf. Wir arbeiten mit den Strafverfolgungsbehörden im Rahmen ihrer Untersuchungen von betrügerischen E-Mails dieser Art zusammen. 
+
+Zurück zum Seitenanfang
+
+** Ich habe auf eine Online-Stellenausschreibung zu einer Vakanz bei Gap Inc. geantwortet und soll dazu persönliche Finanzinformationen hochladen. Ist dies Teil Ihres Einstellungsverfahrens? **
+
+Nein. Gap Inc. erfragt von Bewerbern keine Informationen zu ihren Bankkonten, ihrer Kredithistorie oder Passwörtern zu Finanzkonten. Sollten Sie im Rahmen einer Stellenausschreibung um persönliche Finanz- oder Sicherheitsdaten gebeten werden, handelt es sich wahrscheinlich um ein betrügerisches Stellenangebot, das von Spammern eingestellt wurde, um Bewerber in die Irre zu führen. Sie können alle Stellenausschreibungen von Gap Inc. auf [https://jobs.gapinc.com](https://jobs.gapinc.com/) finden und gegenprüfen. Spammer kreieren auch gefälschte Alias, wie etwa the-gap.co.uk, um unsere Unternehmens- und/oder Markennamen in dem Bemühen nachzuahmen, Identitätsdiebstahl oder andere Formen der Betrügerei zu begehen. Wenn Sie verdächtige E-Mail-Aktivitäten dieser Art beobachten, melden Sie dies bitte „Action Fraud“ („Aktion Betrug“), Großbritanniens Meldestelle für Betrugsfälle und Cyberkriminalität, über [http://www.actionfraud.police.uk/ ](http://www.actionfraud.police.uk/) . 
+
+Zurück zum Seitenanfang
+
+**Wie sieht es mit Links zu fremden Websites aus?**
+
+Zu Ihrer Bequemlichkeit und Information enthalten unsere Websites Links zu anderen Seiten, welche unter Umständen Datenschutzrichtlinien haben, die von den unsrigen abweichen. Wir haften nicht für den Inhalt oder die Praktiken verlinkter Seiten. Wir empfehlen Ihnen, die Datenschutzrichtlinien aller Seiten zu lesen, auf die Sie über unsere Websites zugreifen. 
+
+Zurück zum Seitenanfang
+
+**Wie lange bewahren Sie meine Daten auf?**
+
+Wir speichern Ihre personenbezogenen Informationen nur so lange, wie sie benötigt werden, um die in der vorliegenden Richtlinie beschriebenen Zwecke zu erfüllen, oder solange es gesetzlich vorgeschrieben oder zulässig ist. 
+
+Zurück zum Seitenanfang
+
+**Wie nehme ich Kontakt mit Ihnen auf?**
+
+Bei Fragen zu unserer Datenschutzrichtlinie, zum Abonnement oder der Abbestellung von Werbeinformationen, zur Aktualisierung oder Änderung Ihrer personenbezogenen Informationen oder zur Aufgabe einer Bestellung, wenden Sie sich bitte per E-Mail, telefonisch oder auf dem Postweg an unsere Marken: 
 
 _E-Mail_ : [custserv@gap.eu](mailto:custserv@gap.eu)
 
-_Telefon_ : 
+_Telefon:_
 
-Anrufe aus Großbritannien: 0800 368 0674  
-Aufruf international: Klicken Sie [hier](https://web.archive.org/customerService/info.do?cid=7886) für Telefonnummern außerhalb des Vereinigten Königreichs.
+Anruf aus Großbritannien: 0800 368 0674   
+Anruf international: Klicken Sie [hier](https://web.archive.org/customerService/info.do?cid=2136) __ für Telefonnummern außerhalb des Vereinigten Königreichs. 
 
-_Per Post_ : 
+_Per Post:_
 
-Gap EHQ  
-Freepost WD 3719  
-Castle Mound Way  
-Rugby, Warwickshire,  
-CV23 0BR  
-Großbritannien 
+Gap EHQ   
+Freepost WD 3719   
+Castle Mound Way   
+Rugby, Warwickshire,   
+CV23 0BR   
+Vereinigtes Königreich 
 
-Wenn Sie keine Antwort erhalten oder Ihr Anliegen nicht zufriedenstellend bearbeitet wurde, wenden Sie sich bitte an das International Centre for Dispute Resolution, die internationale Abteilung der American Arbitration Association (ICDR/AAA) unter http://go.adr.org/safeharbor. ICDR/AAA wird als Bindeglied zu den Gap Unternehmen bei der Lösung Ihres Problems behilflich sein. 
+Privacybeleid 
 
-### Kundenbeschwerden 
+_Voor het laatst herzien op 14 maart 2017_
 
-Sollte ihre Anfrage nicht zufriedenstellend durch custserv@gap.eucustserv@gap.com beantwortet worden sein, steht Ihnen die Europäische Plattform zur Online-Streitbeilegung unter: http://ec.europa.eu/odr als Mittel zur Verfügung, um die Angelegenheit weiterzuverfolgen. Während Sie auch das Recht haben The Retail Ombudsman, einen CTSI-zertifizierten Anbieter alternativer Streitbeilegung, unter www.theretailombudsman.org.uk zu kontaktieren, weisen wir daraufhin, dass die Gap Gesellschaften alternative Streitbeilegung durch das International Centre for Dispute Resolution, der internationalen Abteilung der American Arbitration Association (ICDR/AAA), unter: https://www.icdr.org durchführen.
+**Onze inzet voor uw privacy**
 
-Zurück zum Seitenanfang
+Bij Gap Inc. en onze filialen en dochterondernemingen in de VS en de Europese Unie, inclusief GPS (Groot-Britannië) Limited, Gap Europe Limited, Gap (UK Holdings) Limited, Gap (France) SAS, en Gap Stores (Ierland) Limited (collectief aangeduid met de naam "Gap Inc.") en onze Merken, waaronder Gap, Banana Republic Old Navy, Gap Factory, Banana Republic Factory, en Athleta van Gap Inc. (collectief aangeduid als onze "Merken"), waarderen we onze klanten en respecteren we uw privacy. 
 
-## Política de privacidad
+Persoonsgegevens die onder dit beleid door Gap Bedrijven wordt verzameld, is onderworpen aan de bepalingen van de Wet Bescherming Persoonsgegevens (de "Wet") en aan alle andere van toepassing zijn wet- en regelgeving. Voor de toepassing van de Wet zijn de gegevensverwerkers in het Verenigd Koninkrijk GPS (Groot-Britannië) Limited en GAP Europe Limited handelend onder de naam Gap en Banana Republic, bedrijven geregistreerd in Engeland en Wales (met bedrijfsnumers 2275771 en 6279672 en; BTW-nummer GB 676091512) en met statutaire zetel te TMF Corporate Services Limited, 6 St Andrew Street, London, EC4A 3AE. 
 
-_Última Actualización: 1/08/2016_
+In dit beleid wordt de persoonsgegevens beschreven die Gap Inc. en onze Merken over u verzamelen en wordt aangegeven waarom we die verzamelen, hoe we die gebruiken en wanneer we die doorgeven aan derde partijen. Dit beleid betreft onze Europese winkels en online ervaringen, onze websites en mobiele apps inbegrepen. Ons beleid beschrijft ook de keuzes die u kunt maken in verband met het verzamelen en gebruiken van uw informatie. Indien veranderingen optreden in ons informatiegebruik, plaatsen we een bijgewerkt beleid op onze website. Of het beleid veranderd is, kunt u zien aan de datum die bovenaan verschijnt. U kunt op elk gewenst moment uw keuzes aanpassen over de wijze waarop wij uw informatie verzamelen en gebruiken in overeenstemming met dit beleid. Als u vragen hebt over ons privacybeleid, neem contact met ons op. Hoe u dit doet, leest u in het gedeelte " Hoe neem ik contact met u op? " hieronder. 
 
-### Nuestro compromiso con la privacidad
+**Privacybeleid**
 
-En Gap Inc. y en nuestras filiales y subsidiarias de Estados Unidos y la Unión Europea, incluidas GPS (Gran Bretaña) Limited, Gap Europe Limited, Gap (UK Holdings) Limited, Gap (Francia) SAS, Gap Stores (Irlanda) Limited y Gap (Italy) SRL (en su conjunto, "Empresas Gap") y nuestras marcas, incluidas Gap, Banana Republic, y otras marcas de Gap Inc. (en su conjunto, nuestras "Marcas") valoramos a nuestros clientes y respetamos su privacidad. La información que recogemos de los clientes en nuestras tiendas y a través de nuestros sitios web en relación con esta política nos sirve para mejorar su experiencia de compra y la comunicación que podamos establecer con usted para informarle sobre productos, servicios, concursos y promociones.
+  * Welke gegevens verzamelt Gap Inc.?
+  * Hoe gebruikt Gap Inc. mijn gegevens?
+  * Geeft Gap Inc. mijn gegevens door aan anderen?
+  * Welke andere informatie verzamelt Gap inc.?
+  * Wat als ik verbinding maak met de WiFi diensten in de winkels van Gap Inc.? 
+  * Wat als ik gebruik maak van verschillende apparaten om de website of mobiele applicaties van Gap Inc. bezoek? 
+  * Waarom ontvang ik een marketing email na mijn aankoop in een Gap Inc. winkel? 
+  * Hoe krijg ik toegang tot, of breng ik wijzigingen aan in, mijn gegevens? 
+  * Hoe duid ik mijn keuze aan in verband met het ontvangen van promotionele mededelingen? 
+  * Hoe beschermt Gap Inc. de privacy van kinderen?
+  * Hoe worden mijn gegevens gebruikt voor gedrags- of gerichte reclame en welke keuzes heb ik hierin? 
+  * Wat als ik deelneem in een lokaal winkel programma?
+  * Hoe weet ik of mijn persoonsgegevens beveiligd zijn ? 
+  * Wat is phising?
+  * Ik heb een verdachte email ontvangen van een merk van Gap Inc. betreffende een bestelling die ik niet heb geplaatst. Wat moet ik doen? 
+  * Ik heb gereageerd op een online vacature voor een baan bij Gap Inc. die mij verplicht om persoonlijke financiële informatie up te loaden. Is dit onderdeel van uw sollicitatieprocedure? 
+  * Hoe staat het met koppelingen naar andere websites?
+  * Hoelang bewaart u mijn informatie?
+  * Hoe neem ik contact met u op?
 
-La información personal recogida por las Empresas Gap en relación con esta política está sujeta a las disposiciones establecidas en la ley británica de protección de datos de 1998 (la "Ley") y en cualquier otra regulación o normativa aplicable. A los efectos de la Ley, las entidades encargadas del tratamiento de datos en Reino Unido son GPS (Gran Bretaña) Limited y Gap Europe Limited con los nombres de Gap y Banana Republic, empresas registradas en Inglaterra y Gales (con los números de empresa 2275771 y 6279672, y número de IVA GB 676091512) y con domicilio social en TMF Corporate Services Limited, 6 St Andrew Street, London, EC4A 3AE. Las Empresas Gap se acogen al Acuerdo de Puerto Seguro desarrollado por el Departamento de Comercio de EE. UU. en coordinación con la Comisión Europea. Para obtener más información, visite: <http://www.export.gov/safeharbor/>. 
 
-En esta política se describe la información personal que recopilamos sobre nuestros clientes, los motivos de la recopilación, el modo en que la usamos y cuándo la compartimos con terceros. En ella también se describen las opciones de los clientes respecto al modo en que recopilamos, usamos y revelamos su información. Si se produce cualquier cambio en nuestras prácticas de información, publicaremos una política actualizada en nuestro sitio web. Para saber si la política ha cambiado, basta con comprobar la fecha de la última actualización que aparece en la parte superior de esta política. Puede navegar por nuestro sitio sin proporcionar ninguna información personal pero, si opta por esta posibilidad, puede ocurrir que no pueda usar ciertos servicios o funciones que ofrecemos. Ante cualquier duda sobre nuestra política de privacidad, póngase en contacto con nosotros según se describe en la sección titulada "¿Cómo me pongo en contacto con ustedes?" que encontrará más adelante.
 
-### Política de privacidad
+**Welkegegevens verzamelt Gap Inc.?**
 
-  * ¿Qué tipo de información personal recopilan las empresas Gap?
-  * ¿Cómo usan las empresas Gap la información personal?
-  * ¿Comparten las empresas Gap información personal sobre mí?
-  * ¿Cómo puedo acceder a mi información personal o cambiarla?
-  * ¿Qué opciones tengo respecto al tratamiento de mi información personal?
-  * ¿Qué ocurre con la información personal de los niños?
-  * ¿Cómo recopilan y usan las empresas Gap la información que no es personal?
-  * ¿Cómo recopilan y usan las cookies las empresas Gap?
-  * ¿Cómo recopilan y usan los contadores de visitas y otras tecnologías similares las empresas Gap?
-  * ¿Cómo recopilan y usan las direcciones IP las empresas Gap?
-  * ¿Cómo puedo saber si la información personal sobre mí está segura?
+Wij kunnen persoonsgegevens over u verzamelen zoals uw naam, e-mailadres, postadres, telefoonnummer, creditcardnummer, geslacht, verjaardag, persoonlijke interesses, etc., wanneer u een van onze websites of winkels bezoekt, onze mobiele apps installeert of gebruikt, een order plaatst, online of op uw mobiel, een aankoop doet in een van onze winkels, uw gegevens opslaat bij ons online, contact met ons opneemt voor een vraag of opmerking, of deelneemt in een wedstrijd, promotie, of een enquête. We houden gegevens bij over uw interesse voor bepaalde producten en over uw aankopen online, via een mobiele app, via de telefoon en in onze winkels. 
+
+Wij kunnen persoonsgegevens combineren met informatie over uw online en in-store transacties en andere interacties met ons, met inbegrip va uw aankopen. Ook kunnen wij uw persoonsgegevens combineren met informatie die wij ontvangen uit andere bronnen, zoals gezamenlijke marketing partners, publieke databanken, publiek toegankelijke pagina's op social media platforms en andere derde partijen. Bovendien, indien u ervoor kiest om mee te doen aan sociaal delen, bijvoorbeeld door het verbinden van uw social media account met uw klantaccount of door in te loggen op uw klantaccount vanuit uw social media account, deelt de social media website informatie met ons over uw gebruik van hun diensten, met inbegrip van profiel informatie, informatie over uw contacten en content die u heeft bekeken of leuk heeft gevonden. Wij verwijzen u naar de privacy instellingen van uw social media website om te controleren hoe uw informatie wordt gedeeld. 
+
+Indien u enige informatie met betrekking tot andere mensen invult bij ons of onze dienstaanbieders, dan verklaart u dat u de bevoegdheid heeft om dat te doen en staat u ons toe om de informatie te gebruiken in overeenstemming met dit Privacybeleid. 
+
+Uw persoonsgegevens kan worden verwerkt of opgeslagen op servers die in verschillende landen worden gehost, al dan niet binnen of buiten de Europese Economische Ruimte ("EER"). Dit betekent dus dat uw persoonsgegevens kan worden overgebracht naar verschillende landen buiten de EER, waaronder de Verenigde Staten. Uw persoonsgegevens kan zijn onderworpen aan de wetgeving van de landen waar de informatie wordt opgeslagen of gebruikt. In deze landen kan andere wetgeving inzake bescherming van persoonsgegevensg van kracht zijn dan in het land waar u woont. Wanneer u ons persoonsgegevens geeft, gaat u akkoord met deze overdracht, verwerking en opslag van uw persoonsgegevens. 
+
+terug naar boven 
+
+**Hoe gebruikt Gap Inc. mijn gegevens?**
+
+We kunnen uw persoonsgegevens op de volgende manieren gebruiken: 
+
+  * Om uw order te verwerken en uit te voeren, en om u e-mails te sturen ter bevestiging van de status en de verzending van uw order 
+  * Om met u te communiceren en per email, post, telefoon, sms of andere middelen, over onze producten, diensten, westrijden en promoties, waaronder marketingcommunicatie waarvan we geloven dat die interessant voor u is 
+  * Om uw koopervaring gemakkelijker, leuker en efficiënter te maken 
+  * Voor het aanpakken van problemen met, en het verbeteren van onze producten, merken, diensten en technologieën evenals voor het ontwikkelen van nieuwe producten en diensten 
+  * Om voor u het gebruik van onze in-store en online technologieën mogelijk te maken 
+  * Om te voorzien in consistente, persoonlijke diensten via alle kanalen en voor al onze merken, inclusief het verpersoonlijken van onze reclame, marketingcommunicatie, winkelervaringen en promotie-aanbiedingen 
+  * Voor het organiseren van lokale maatschappelijke evenementen, promoties en in-store ervaringen 
+  * Voor het faciliteren van sociaal delen 
+  * Om het voor u mogelijk te maken om u aan te melden voor een kredietaanbod van een betaalkaart aanbieder 
+  * Om het voor u mogelijk te maken om u in te schrijven en deel te nemen aan een loyaliteits-, of klantrelatieprogramma 
+  * Om te beheren en te voldoen aan onze wedstrijden en andere promoties 
+  * Om ons te helpen meer over uw winkel voorkeuren te leren 
+  * Om fraude, inbreuken in de beveiliging en activiteiten die verboden of illegaal zijn of kunnen zijn te voorkomen, op te sporen, te beperken en te onderzoeken 
+  * Om onze Algemene Voorwaarden te handhaven 
+  * Omdat we vinden dat het nodig of wenselijk is om de rechten, eigendom, veiligheid en beveiliging van Gap Inc. en ons personeel, klanten en anderen te beschermen 
+  * Omdat we vinden dat het nodig of passend is onder de toepasselijke wetgeving, om te reageren op verzoeken van overheden en om te voldoen aan de juridische procedure. 
+
+
+
+U heeft altijd de keuze om geen marketinginformatie of telefoonoproepen te ontvangen. Voor instructies om u hieraan te onttrekken gaat u naar de onderstaande rubriek getiteld, " Hoe duid ik mijn keuze aan in verband met het ontvangen van promotionele meldingen? ". 
+
+terug naar boven 
+
+**Hoe deelt Gap Inc. mijn gegevens?**
+
+We kunnen uw persoonsgegevens op de volgende manieren doorgeven: 
+
+  * **Merken:** Wanneer u persoonsgegevens doorgeeft aan een van onze Gap Merken, kunnen we deze informatie doorgeven aan onze andere Gap Merken. 
+  * **Door u:** U kunt persoonsgegevens openbaar maken wanneer u content post op onze websites, in-store technologieën of andere publieke fora, zoals de social media pagina's, blogs, en online product recensies van onze merken. Informatie die u openbaart via deze diensten worden openbaar. 
+  * **Sociaal delen:** Uw persoonsgegevens kunnen openbaar worden gemaakt met betrekking tot uw sociaal delen activiteit, zoals wanneer u inlogt op uw klantaccount vanuit uw social media account. Door uw klantaccount te verbinden met uw social media account, verleent u ons de bevoegdheid om informatie te delen met de aanbieden van uw social media account en erkent u dat het gebruik van de gegevens die wij delen zal zijn onderwopren aan het privacybeleid van de social media website. 
+  * **Dienstverleners:** Wij kunnen uw gegevens delen met de dienstverleners die onze klantgegevens beheren en die in onze naam en opdracht diensten uitvoeren, zoals het uitvoeren van aanbiedingen, het communiceren met onze klanten, het uitvoeren van enquetes, etc. Wij verlenen geen van deze dienstverleners toestemming voor enig andere gebruik of openbaarmaking van uw. persoonsgegevens. 
+  * **Derde partijen:** We kunnen uw gegevens doorgeven wanneer we samenwerken met een ander bedrijf om producten, diensten, wedstrijden of promoties aan te bieden of in te voorzien aan onze klanten. 
+  * **Wettelijke Vereisten:** We kunnen gegevens over u delen als dit noodzakelijk of passend is, in onze goede trouw, om te voldoen aan wet - en regelgeving of naar aanleiding van een geldige dagvaarding, bevel of verzoek van de overheid, of om operaties, privacy, veiligheid, eigendom of rechten van Gap Inc. of anderen te beschermen. 
+  * **Scrip of Loyaliteitsprogramma's:** Als u ervoor kiest om deel te nemen in een derde partij scrip, loyaliteit, of een soortgelijk programma waarin een Gap Inc. Merk een deelnemende verkoper is, en Gap Inc. of onze creditcardverwerker om informatie over uw aankopen te verstrekken aan het bedrijf dat het programma beheert, zullen wij uw persoonsgegevens met dat programma delen. Scrip programma's staat toe dat u om opdracht te geven aan ons om een percentage van het bedrag dat u heeft uitgegeven aan een aankoop van Gap Inc. te besteden aan deelnemende scholen en andere non-profit organisaties. Loyaliteitsprogramma's staat u toe dat u punten kunt verdienen bij aankopen van de Gap Inc. Merken, die u vervolgens kunt gebruiken voor bepaalde beloningen aangeboden door het loyaliteitsprogramma waaraan u deelneemt. De informatie waarvoor u ons machtigt om te openbaren aan een derde partij scrip of een loyaliteitsprogramma kan uw creditcard nummer en de datum en het bedrag van uw aankoop bevatten, en ook uw naam en andere informatie die u ons heeft gevraagd om in te voorzien. Houd er rekening mee dat zodra we deze informatie openbaren, het scrip- of loyaliteitsbedrijf deze informatie kan gebruiken en delen met anderen in overeenstemming met hun eigen Privacy beleid. U dient dit beleid zorgvuldig te controleren, want wij hebben geen controle over hen.
+  * **Zakelijke transacties:** In het onwaarschijnlijke geval van een verkoop of een fusie van Gap Inc., of enige andere onderneming van ons, kunnen persoonsgegevens over onze klanten en andere informatie die we zoals in dit beleid beschreven hebben verzameld, deel uitmaken van de overgedragen zakelijke activa. 
+
+
+
+terug naar boven
+
+**Welke andere gegevens verzamelt de Gap Inc.?**
+
+Wij kunnen gegevens verzamelen die niet uw specifieke identiteit onthullen of direct aan te relateren zijn aan een individu, zoals browser- en apparaatgegevens, gegevens verzameld met gebruik van cookies, pixel tags en andere technologieën, demografische gegevens en andere gegevens door u verleend, en gecombineerde gegevens. 
+
+We kunnen dergelijke gegevens gebruiken en openbaarmaken met een rechtmatig doel. Indien nodig, zullen we dergelijke gegevens behandelen als persoonsgegevens in overeenstemming met dit beleid. Ook zullen we dergelijke gegevens als persoonsgegevens behandelen wanneer het is gecombineerd met persoonsgegevens. Bijvoorbeeld, wanneer u onze tochnologieën gebruikt, kunnen wij uw product-interesses, de aankopen die u doet, en andere content die u doet ontstaan bijhouden (zoals het toevoegen van artikelen aan uw winkelwagen). 
+
+Wij kunnen gegevens op verschillende manieren verzalemen, waaronder: 
+
+  * **Uw browser of apparaat:** Bepaalde gegevens worden verzameld door de meeste brwosers of automatisch via uw apparaat, zoals uw Media Acces Control (MAC) adres, type computer (Windows of Macintosh), schermresolutie, versie en naam van het besturingssysteem, fabrikant en model van het apparaat, taal, type en versie van internetbrowser en browser doorklik- en gebruiksgegevens. 
+  * **Mobiele applicaties:** Indien u een van onze mobiele applicaties download en gebruikt, dan kunnen wij gebruiksgegevens volgen en verzamelen, zoals de datum en tijd waarop de app op uw apparaat toegang krijgt tot onze servers en welke gegevens en bestanden zijn bereikt, bekeken en/of gedownload naar de app, gebaseerd op uw apparaatnummer of andere identificatiewijzen. 
+  * **Cookies:** Cookies zijn kleine gegevensbestanden die direct op uw computer worden geplaatst wanneer u een website bezoekt. Onze websites, online reclame en e-mails gebruiken cookies, pixel tags en andere technologieën om automatisch informatie te verzamelen over uw interacties, zoals het browsertype, bekeken pagina's aangeklikte links en andere handelingen die u doet gerelateerd aan onze websites, online reclame en e-mail. Wij gebruiken de gegevens voor verschillende doelen, waaronder het faciliteren van navigatie, het effectiever tonen van informatie, het verpersoonlijken van uw ervaring, het begrip van hoe onze websites worden gebruikt, het meten van het succes van marketing campagnes en voor beveiligingsdoeleinden. Indien uw browser is ingesteld om cookies af te wijzen, dan kan het voor u onmogelijk zijn om toegang tot uw klantaccount te verkrijgen of om aankopen te doen via onze websites. Om te leren hoe wij cookies voor reclame gebruiken verwijzen wij u naar de onderstaande rubriek, "Hoe worden mijn gegegevens gebruikt voor gedrags-, of doelgerichte reclame en welke keuzes heb ik?". 
+
+
+
+Indien u niet wenst dat gegevens worden verzameld met gebruik van cookies, dan is er een eenvoudige procedure in de meeste browsers wat het voor u mogelijk maakt om automatisch cookies af te wijzen of te keuze te worden angeboden van afwijzing of aanvaarding van de overplaatsing van een bepaalde cookie (of cookies) van een bepaalde website naar uw computer. Indien u cookies niet aanvaardt, dan kunt u enig ongemak ervaren bij het gebruik van onze websites. Het kan bijvoorbeeld voor u onmogelijk zijn om toegang te verkrijgen tot uw accountgegegevens, of om een aankoop te doen via onze websites. 
+
+  * **Gebruik van pixel tags en andere gelijksoortige technologieën:** Wij kunnen pixel tags gebruiken om onder meer de handelingen van gebruikers van onze websites en diensten (inclusief de ontvangers van e-mail) te volgen, het succes van onze marketing campagnes te meten en statistieken over het gebruik van onze websties en diensten en de responspercentages samen te stellen. Zie voor meer informatie de rubriek "Hoe worden mijn gegegevens gebruikt voor gedrags-, of doelgerichte reclame en welke keuzes heb ik?". 
+  * **Analytics:** Wij gebruiken derde-partij dienstverleners, waaronder Google en Adobe, welke cookies en gelijksoortige technologieën gebruiken voor het verzamelen en analyseren van gegevens over het gebruik van onze websites en mobiele applicaties en in-store technologieën. Deze dienst kan ook gegevens verzamelen over het gebruik van andere websites, apps en online bronnen. U kunt over Google's handelen leren op [http://www.google.com/policies/privacy/‌partners/](http://www.google.com/policies/privacy/partners/) en u hieraan onttrekken door gebruik van de Google Analytics Opt-out Browser Add-on, te bereiken via <https://tools.google.com/dlpage/gaoptout>. U kunt over Adobe's handelen leren en u hieraan onttrekken op <http://www.adobe.com/privacy/opt-out.html>. 
+  * **Adobe Flash:** We kunnen gebruik maken van de Adobe Flash technologie, waaroner Flash Local Shared Objects ("Flash LSOs"), en andere gelijksoortige technologieën om informatie over uw gebruik van onze websites en mobiele applicaties te verzamelen en op te slaan. U kunt de instellingen van uw Flash speler aanpassen ter blokkade van Flash LSO opslag op uw computer met gebruik van de middelen welke staan op [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). U kunt de Flash LSO ook controleren door te gaan naar [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) en de instructies op te volgen (welke instructies kunnen omvatten die bijvoorbeeld uitleggen hoe bestaande Flash LSOs (op de Macromedia website "information" genoemd) te verwijderen, hoe te voorkomen dat Flash LSOs op uw computer worden geplaatst zonder dat het u wordt gevraagd, en (voor Flash 8 en latere versies) hoe de Flash LSOs die niet worden aangeleverd door de uitvoerder van de website van de pagina die u op dat moment bezoekt). Neem in acht dat het instellen van de Flash speler om de aanvaarding van Flash LSOs te beperken kan storen met de functionaliteit van sommige Flash applicaties, inclusief die welke gebruikt worden met betrekking tot onze websites en mobiele apps. 
+  * **IP adres:** Uw Internet Protcol (IP) adres is een nummer dat automatisch is toegekend aan de computer die u gebruikt door uw Internet Service Provider (" **ISP** "). Een IP adres kan worden geïdentificeerd en automatisch worden ingelogd in onze server log bestanden wanneer u onze websites bereikt, evenals de tijd van het bezoek en de bezochte pagina's. Uw IP adres kan ook een indicatie geven van uw fysieke locatie. Het verzamelen van IP adressen is standaard gebruik en wordt automatisch uitgevoerd door veel websites, applicaties en andere technologieën. Wij gebruiken IP adressen voor doeleinden als het berekenen van gebruiks niveaus en het diagnosticeren van serverproblemen. 
+  * **Fysieke locatie:** Wij kunnen de fysieke locatie van uw apparaat verzamelen door, bijvoorbeeld, gebruik van satelliet, torens voor mobiele telefonie, of Wi-Fi signalen. Wij kunnen de fysieke locatie van uw apparaat gebruiken om u te voorzien van gepersonaliseerde diensten en content, gebaseerd op uw locatie. het kan voor u mogelijk zijn om zulk gebruik toe te staan of te weigeren, maar indien u deze daadwerkelijk weigert, dan kan het voor ons onmogelijk zijn om u gepersonaliseerde gebruikservaring the verschaffen. 
+  * **In-Store Technologieën:** We kunnen voorzien in in-store technologieën om te helpen in het personaliseren en verbeteren van uw winkel-ervaring. Deze technologieën kunnen de verzameling van bepaalde informatie over uw mobiele apparaat vereisen, zoals uw MAC adres of andere apparaat identificatiegegevens en kan het ook voor u mogelijk maken om persoonlijke gegevens toe te voegen voor hogere niveaus van personalisering, zoals uw interesses, winkel-voorkeuren en maatgegevens. 
+  * **Gecombineerde informatie:** Wij kunnen gecombineerde persoonsgegevens verzamelen en gebruiken, welke u niet persoonlijk identificeerd. Wij kunnen bijvoorbeeld het percentage uitrekenen van de gebruikers van onze website dat een bepaalde telefoon gebiedscode bezit. 
+
+
+
+**Wat als ik verbinding maak met de WiFi-dienst van de Gap Inc. ?**
+
+Indien u ervoor kiest om verbinding te maken met onze in-store Wifi-dienst, dan zullen Gap Bedrijven informatie over u en uw apparaat ontvangen, waaronder het MAC adres, IP adres, de ontvangen signaalsterkte indicator (RSSI) en technische details van uw apparaat, zoals het besturingssysteem, het type apparaat (inclusief merk en model) en de technische capaciteiten. Indien u uw apparaat een naam heeft gegeven, dan kunnen wij deze ontvangen. Wij zullen ook informatie ontvangen over hoe u ons Wi-Fi netwerk gebruikt wanneer u verbonden bent, inclusief de locatie van de winkel, the gebieden binnen de winkel die u bezoekt, de namen en/of internetadressen van de websites die u bezoekt en de applicaties die u gebruikt en hoe lang u dergelijke sites en applicaties gebruikt. Wij verzamelen deze gegevens iedere keer dat u verbinding maakt met de Wi-Fi diensten en wij kunnen deze associëren met andere gegevens die we van en over u hebben verzameld. 
+
+Indien uw mobiele apparaat is ingesteld om te zoeken naar beschikbare WiFi netwerken, dan kunnen wij informatie ontvangen over uw apparaat zelfs wanneer u ervoor kiest om geen verbinding te maken met onze Wi-Fi diensten. 
+
+Voor het gemak kunnen we u voorzien van de optie om verbonden te blijven met de Wi-fi netwerken van de Gap Bedrijven. Wanneer u voor deze optie kiest, zult u automatisch ingelogd worden in het Wi-Fi netwerk van een Gap Bedrijf dat WiFi-diensten aanbiedt, en kunnen we de hierboven beschreven gegevens verzamelen zelfs wanneer u niet actief uw internetbrowser of uw mobiele aqpplicaties gebruikt tijdens het bezoek aan onze winkel. U kunt ervoor kiezen om de verbinding met het Gap Bedrijf WiFi netwerk te verbreken op iedere gewenste tijd via de WiFi instellingen van uw apparaat. Echter, let op dat het verbreken van de verbinding van het WiFi netwerk van één winkel slechts de verbreking van de verbincing met dat netwerk oplevert tijdens dat bezoek. U kunt u uitschrijven voor de automatische her-verbinding mogelijkheid op iedere gewenste tijd via [http://www.smart-places.org](http://www.smart-places.org/) . 
+
+Voor meer informatie over ons in-store WiFi gebruik bezoekt u [Wi-Fi Terms of Use.](https://secure-www.gap.com/customerwifi/splash?base_grant_url=https%3A%2F%2Fsecure-www.gap.com%2Fcustomerwifi%2FmerakiTestDouble&node_mac=00:18:0a:da:4e:f0&client_mac=xx:xx:xx:xx:xx:xx)
+
+**Wat als ik verschillende apparaten gebruik om de websites of mobiele applicaties van Gap Inc. te bezoeken?**
+
+Om u te voorzien van een efficiëntere en gemakkelijkere winkel-ervaring, kunt u toegang hebben tot verschillende content, of inloggen op uw account vanaf verschillende apparaten. Indien u veel verschillende apparaten gebruikt voor toegang tot onze websites of mobiele applicaties, zoals uw PC, laptop en/of mobiel apparaat, dan kan het voor ons mogelijk zijn om ieder apparaat te verbinden met uw account. Onze websites kunnen het bijvoorbeeld voor u mogelijk maken om uw favoriete artikelen of uw winkelwagen te bereiken via een e-mail link die uniek is voor uw account. Door op de link te klikken wordt u automatisch ingelogd op uw account zodat u uw winkel-ervaring voort kunt zetten waar u was gestopt. Indien u ervoor kiest om de link aan te klikken op een nieuw apparaat, dan zal het voor ons mogelijk zijn om het huidgie apparaat te associëren met uw accountgegevens. Gegevens die wij hebben verzameld van uw verschillende apparaten kunnen worden gecombineerd met andere gegevens van welke u ons hebt voorzien, inclusief gegevens die zijn opgeslagen op uw klantaccount, en wij kunnen dergelijke gegevens gebruiken om te helpen in het voorzien in meer op maat gemaakte ervaringen en consistente diensten en ervaringen op al uw apparaten zoals genoemd in dit privacybeleid. U kunt ervoor kiezen om op onze website te bladeren zonder dat uw apparaat wordt herkend, door uit te loggen van uw account. 
+
+terug naar boven
+
+**Waarom ontving ik een marketing e-mail nadat ik een aankoop heb gedaan in een winkel van de Gap Inc.?**
+
+Om u te voorzien van een soepelere klant-ervaring, registreren wij al uw transacties van Gap Inc. met ons, zowel online als in-store. Bijvoorbeeld indien u een creditcard of bankpas gebruikt, of wanneer u de verkoopmedewerker uw e-mailadres geeft bij een aankoop in een winkel, dan kunnen wij deze gegevens met uw online klantaccount associëren. Zoals hierboven beschreven, kunnen wij gegevens over uw aankopen gebruiken om u te e-mailen over andere producten en diensten waarvan wij geloven dat deze interessant voor u zijn. 
+
+terug naar boven
+
+**Hoe krijg ik toegang tot, of wijzig ik, mijn gegevens?**
+
+U kunt bepaalde persoonsgegevens gerelateerd aan uw gebruik van onze online websites bekijken en beheren (zoals uw naam en contact informatie). Voor toegang tot uw informatie in een Gap Inc. website, kunt u zich gewoon aanmelden op uw account met uw e-mailadres en wachtwoord, en bent u in staat uw persoonsgegevens te wijzigen in uw account profiel. 
+
+U kunt ons ook vragen om uw persoonsgegevens bij te werken door ons te contacteren zoals beschreven staat onder 'Hoe kan ik contact met u opnemen?' hieronder. Houd er rekening mee dat elk verzoek om u persoonsgegevens bij te werken tot 10 dagen kan duren voor uw e-mailverzoek en 6 tot 8 weken indien u uw per brief aan ons stuurt. 
+
+terug naar boven
+
+**Hoe duid ik mijn keuze aan in verband het ontvangen van promotionele mededelingen ?**
+
+Gap Inc. en onze Merken willen alleen met u communiceren als u dat zelf wilt. Als u liever geen promotionele informatie ontvangt, zoals informatie over speciale aanbiedingen en koopjesdagen, van een of meer van onze Merken, dan kunt u dit aan ons melden door contact op te nemen met onze klantenservice zoals beschreven in het gedeelte van " Hoe neem ik met u contact op " hieronder of kunt u klikken op de self-service uitschrijf koppelingen hieronder. 
+
+Gap [Uitschrijven](https://secure-www.gap.co.uk/profile/info.do?cid=82639)
+
+Banana Republic [uitschrijven](https://secure-bananarepublic.gap.co.uk/profile/info.do?cid=82771) . 
+
+terug naar boven
+
+**Hoe beschermt Gap Inc. de privacy van kinderen?**
+
+Gap Inc. is begaan over de privacy en veiligheid van kinderen als ze het internet gebruiken. We zullen nooit bewust online persoonsgegevens vragen aan enig persoon onder de leeftijd van 13 jaar zonder voorafgaande controleerbare toestemming van de ouders. Onze websites zijn algemeen openbare sites en zijn niet gericht en bestemd voor gebruik door kinderen. 
+
+terug naar boven
+
+**Hoe worden mijn gegegevens gebruikt voor gedrags-, of doelgerichte reclame en welke keuzes heb ik?**
+
+Wij gebruiken onze eigen cookies om te helpen bij het bepalen welke van onze advertenties aan u worden laten zien op andere websites. Om zich te onttrekken aan dergelijke doelgerichte online reclame door Gap Bedrijven met gebruik van cookies klikt u [hier](http://www.gap.co.uk/customerService/info.do?cid=81901) .
+
+We werken ook met derde bedrijven die traceringstechnologieën (inclusief cookies en pixeltags) op onze websites om op maat gemaakte advertenties aan te bieden namens ons en namens andere adverteerders over het internet. Deze bedrijven kunnen gegevens verzamelen over uw activiteit op onze websites and uw interactie met onze advertenties en andere meldingen en deze informatie te kunnen gebruiken om te bepalen welke advertenties u heeft gezien op derde partij websites en applicaties. Deze technologieen en de verzamelde informatie over u kan ook gebruikt worden om uw activiteit te volgen over meerdere apparaten. Voor meer informatie over dit onderwerp en om uw opties te begrijpen, inclusief de wijze hoe u moet uitschrijven (opt-out) van op maat gemaakte advertenties, bezoek alstublieft de European Interactive Digital Advertising Alliance: <http://www.edaa.eu/> . 
+
+terug naar boven
+
+**Wat als ik een merk creditcard van Gap Inc. aanvraag op uw site?**
+
+In bepaalde in aanmerking komende landen kunnen wij u voorzien in gelegenheden tot een aanvraag van een aanbod van krediet van een uitgever van een betaalkaart (betaaldienstverlener) in onze winkels of online. Om een geschiktere aanvraagprocedure te maken kunnen we informatie van uw klantaccount aan de betaaldienstverlener geven om een pre-goedgekeurde krediet aanbod en/of het automatisch overnemen van bepaalde velden in uw online creditcard aanvraagformulier met informatie van uw klantaccount. Door het indienen van een creditcard applicatie, hetzij in de winkel of online, gaat u akkoord dat Gap Inc. uw informatie doorgeeft aan de betaaldienstverlener in overeenstemming met de Algemene Voorwaarden van deze applicatie. Voor meer informatie over de privacy praktijken in verband met uw creditcard applicatie kunt u contact opnemen met de betaaldienstverlener. 
+
+terug naar boven
+
+**Wat als ik deelneem aan locale winkelprogramma's?**
+
+Wij kunnen speciale mogelijkheden bieden voor klanten in bepaalde winkels of locaties om gepersonaliseerd winkelen of andere diensten te ontvangen, zoals meldingen wanneer uw favoriete producten in uw lokale winkel beschikbaar zullen zijn, aanbevelingen, unieke aanbiedingen voor bepaalde maatschappelijke groepen, zoals leraren of fitness instructeurs, en uitnodigingen voor speciale lokale evenementen. 
+
+Om te voorzien in deze diensten kan een verkoopmedewerker vragen naar uw interesses, activiteiten, winkelvoorkeuren en andere mensen voor wie u winkelt. We kunnen ook uw maat-voorkeuren, producten verlanglijsten, de lokale winkeltransactiegeschiedenis en uw contactgegevens registreren. Wij kunnen uw gegevens gebruiken om contact met u op te nemen per telefoon of per SMS, in overeenstemming met dit beleid. In bepaalde gevallen kunt u ook in staat zijn om een verkoopmedewerker te machtigen om aankopen namens u te doen, gebruikmakend van betalingsgegevens die u reeds heeft verstrekt tijdens een online of in de winkel transactie. 
+
+**Hoe weet ik dat mijn gegevens beveiligd zijn?** We doen onze best om u te voorzien in een veilige en gemakkelijke winkelervaring.We hebben bepaalde fysieke, elektronische, contractuele en organisatorische beveiligingsmechanismen ingesteld ter bescherming van de veiligheid en vertrouwelijkheid van uw persoonsgegevens 
+
+Als u een bepaalde reden heeft waardoor u geen toegang heeft in de veiligheidsserver of als u niet helemaal gerust bent met het online winkelen op een van onze websites, aarzel dan niet om uw bestelling te plaatsen bij ons per telefoon volgenss de aanwijzingen in het gedeelte "Hoe neem ik contact met u op?" hieronder. Als u er de voorkeur aan geeft om ons op de hoogte te stellen via de gewone post, zal onze reactie op het probleem wel vertraging oplopen. 
+
+terug naar boven
+
+**Wat is "phishing"?**
+
+"Phishing" is een kunstgreep om uw persoonsgegevens te stelen. Indien u een e-mail ontvangt die door ons lijkt te zijn verstuurd, waarin wordt gevraagd om uw persoonsgegevens, antwoord hier dan niet op. We zullen u nooit per e-mail vragen om uw wachtwoord, gebruikersnaam, creditcard gegevens of andere persoonsgegevens. 
+
+terug naar boven
+
+**Ik heb een verdachte e-mail ontvangen van een Gap Inc. Merk betreffende een bestelling die ik niet heb geplaatst. Wat moet ik doen?**
+
+We zijn ons ervan bewust dat onechte e-mails worden verstuurd met gebruik van onze Merknamen. Deze emails zijn niet afkomstig van Gap Inc. en individuen die emails met onechte aankoop statussen hebben ontvangen zijn niet in rekening gebracht. Voor uw bescherming, klik geen links aan en open geen aangehechte bestanden bij verdachte, ongevraagde e-mails. Indien u gelooft dat uw PC is aangetast als het resultaat van een truc, benadert u dan een IT deskundige. Voor meer informatie, neemt u contact op met de politie via [ http://www.actionfraud.police.uk/](http://www.actionfraud.police.uk/) . 
+
+terug naar boven
+
+**Ik heb gereageerd op een online vacature voor een baan bij Gap Inc. die mij verplicht om persoonlijke financiële informatie up te loaden. Is dit onderdeel van uw sollicitatieprocedure?**
+
+Nee. Gap Inc. vraagt sollicitanten niet om gegevens betreffende hun bankrekening, kredietgeschiedenis of wachtwoorden voor financiële rekeningen. Indien u wordt gevraagd om persoonlijke financiële- of veiligheids gegevens in een reactie op een vacature, dan is dit waarschijnlijk een frauduleuze vacature gehost door spammers om sollicitanten te misleiden. U kunt alle banen van Gap Inc. valideren op https://jobs.gaspinc.com Spammers creëren ook valse schuilnamen zoals the-gap.co.uk om ons bedrijf en/of onze Merknamen te imiteren met als doel het plegen van identiteitsdiefstal of andere vormen van fraude. Indien u dit type e-mails ontvangt dient u dit te melden bij de politie via [ http://www.actionfraud.police.uk/](http://www.actionfraud.police.uk/) . 
+
+terug naar boven
+
+**Hoe staat het met koppelingen naar andere websites?**
+
+Voor uw gemak en informatie kunnen onze websites koppelingen bevatten naar andere sites, die er mogelijk andere privacybeleid op nahouden dan wijzelf. We zijn niet verantwoordelijk voor de inhoud of de praktijken van gekoppelde sites. We raden u aan het privacybeleid te lezen van de sites die u via onze site aanklikt. 
+
+terug naar boven
+
+**Hoelang bewaart u mijn informatie?**
+
+We zullen uw persoonsgegevens bewaren zolang dit nodig is voor de in dit beleid samengevatte doeleinden, tenzij een langere bewaarperiode vereist of toegestaan is door de wet. 
+
+terug naar boven
+
+**Hoe neem ik contact met u op?**
+
+Voor vragen over ons privacybeleid, om uw keuze aan te duiden voor onze promotionele communicatie, voor het bijwerken of wijzigen van persoonlijke informatie, of om een order te plaatsen, kunt u contact met ons opnemen per e-mail, telefoon of post: 
+
+_E-mail_ : [custserv@gap.eu](mailto:custserv@gap.eu)
+
+_Telefoon_ : 
+
+Bellen vanuit Nederland: 0800 265 9048
+
+Internationale oproepen: klik [hier](https://web.archive.org/customerService/info.do?cid=2136) voor telefoonnummers buiten het Verenigd Koninkrijk. 
+
+_Post_ : 
+
+Gap EHQ   
+Freepost WD 3719   
+Castle Mound Way   
+Rugby, Warwickshire,   
+CV23 0BR   
+United Kingdom 
+
+**Política de privacidad**
+
+_Última Actualización: 14 marzo, 2017._
+
+**Nuestro compromiso con la privacidad**
+
+En Gap Inc. y en nuestras filiales y subsidiarias de Estados Unidos y la Unión Europea, incluidas GPS (Gran Bretaña) Limited, Gap Europe Limited, Gap (UK Holdings) Limited, Gap (Francia) SAS, Gap Stores (Irlanda) Limited y Gap (Italy) SRL (en su conjunto, " Gap Inc.") y nuestras marcas, incluidas Gap, Banana Republic, Old Navy, Gap Factory, Banana Republic Factory y Athleta (en su conjunto, nuestras "Marcas") valoramos a nuestros clientes y respetamos su privacidad. 
+
+La información personal recogida por las Empresas Gap en relación con esta política está sujeta a las disposiciones establecidas en la ley británica de protección de datos de 1998 (la "Ley") y en cualquier otra regulación o normativa aplicable. A los efectos de la Ley, las entidades encargadas del tratamiento de datos en Reino Unido son GPS (Gran Bretaña) Limited y Gap Europe Limited con los nombres de Gap y Banana Republic, empresas registradas en Inglaterra y Gales (con los números de empresa 2275771 y 6279672, y número de IVA GB 676091512) y con domicilio social en TMF Corporate Services Limited, 6 St Andrew Street, London, EC4A 3AE. 
+
+En esta política se describe la información personal que Gap Inc. y nuestras marcas recopilan sobre nuestros clientes, los motivos de la recopilación, el modo en que la usamos y cuándo la compartimos con terceros. Esta política cubre nuestras tiendas en Europa y las operaciones online incluyendo nuestras páginas web y aplicaciones móviles. En ella también se describen las opciones de los clientes respecto al modo en que recopilamos y usamos su información. Si se produce cualquier cambio en nuestras prácticas de información, publicaremos una política actualizada en nuestro sitio web. Para saber si la política ha cambiado, basta con comprobar la fecha de la revisión que aparece en la parte superior. Si cambiamos esta política de forma material, le notificaremos adecuadamente. Puede ejercer sus derechos sobre cómo recopilamos y usamos su información en relación con esta política en cualquier momento.Ante cualquier duda sobre nuestra política de privacidad, póngase en contacto con nosotros según se describe en la sección titulada " ¿Cómo me pongo en contacto con ustedes ?" que encontrará más adelante. 
+
+**Política de privacidad**
+
+  * ¿Qué tipo de información recopila Gap Inc.?
+  * ¿Cómo usa Gap Inc. la información personal?
+  * ¿Cómo comparte Gap Inc. información personal sobre mí? 
+  * ¿Qué otra información recopila Gap Inc.?
+  * ¿Qué ocurre si me conecto a los servicios de WI-FI en Gap Inc.? 
+  * ¿Qué ocurre si utilizo dispositivos diferentes para visitar los sitios web o aplicaciones móviles de Gap Inc.? 
+  * ¿Por qué recibí un correo electrónico de Marketing después de hacer una compra en una tienda de Gap Inc.? 
+  * ¿Cómo puedo acceder o cambiar mi información?
+  * ¿Cómo puedo elegir cómo recibo las comunicaciones promocionales? 
+  * ¿Cómo Gap Inc. proteje la privacidad de los niños?
+  * ¿Cómo usa las cookies Gap Inc. y qué opciones tengo respecto a ello? 
+  * ¿Qué ocurre si participo en programas de tiendas locales? 
+  * ¿Cómo puedo saber si mi información personal está segura? 
+  * ¿Qué es el "phishing" o suplantación de identidad?
+  * Recibí un correo electrónico sospechoso de la marca Gap Inc. respecto a un pedido que no cursé. ¿Qué debería hacer? 
+  * Respondí a la publicación de una oferta de empleo en Gap Inc. la cual requiere que suba información financiera personal. ¿Es esto parte de su proceso de contratación? 
   * ¿Qué ocurre con los enlaces a otros sitios web?
   * ¿Durante cuánto tiempo conservan mi información?
   * ¿Cómo me pongo en contacto con ustedes?
-  * Reclamaciones de clientes
 
 
 
-### ¿Qué tipo de información personal recopilan las empresas Gap?
+**¿Qué tipo de información recopila Gap Inc.?**
 
-Podemos recopilar información personal sobre usted (nombre, dirección de correo electrónico, dirección postal, número de teléfono o número de tarjeta de crédito, y detalles acerca de sus hijos (de haberlos)) cuando visita uno de nuestros sitios web o tiendas, cursa un pedido en línea o por teléfono, realiza una compra o devolución en la tienda, guarda su información con nosotros en línea, se pone en contacto con nosotros o participa en algún concurso, promoción o encuesta. Podemos mantener un registro de sus intereses sobre productos y de las compras que haya realizado en línea o por teléfono en nuestras tiendas. Tal y como se detalla más adelante, podemos combinar toda esta información personal con información personal sobre usted que consigamos de nuestros socios de marketing, de terceras partes no relacionadas y de nuestras otras Marcas. 
+Podemos recopilar información personal sobre usted (nombre, dirección de correo electrónico, dirección postal, número de teléfono o número de tarjeta de crédito, género, fecha de nacimiento, intereses personales, etc.cuando visita uno de nuestros sitios web o tiendas, instala o usa nuestras aplicaciones móviles, cursa un pedido en línea o por teléfono, realiza una compra en nuestras tiendas, guarda su información online, nos llama para hacer alguna pregunta o sugerencia, o cuando, o participa en algún concurso, promoción o encuesta. Tenemos un registro de sus intereses sobre productos y de las compras que haya realizado en línea, a través de una aplicación móvil, por teléfono y en nuestras tiendas. 
 
-La información personal sobre usted puede procesarse o almacenarse en servidores que se encuentren en diversos países, tanto de dentro como de fuera del Espacio Económico Europeo ("EEE"). En consecuencia, es posible que su información personal pueda transferirse a diversos países de fuera del EEE, incluidos los Estados Unidos. Su información personal puede estar sometida a las leyes de los países en los que se almacene o utilice, y es posible que dichos países tengan un régimen de protección de datos distinto del país en el que usted reside. Al proporcionarnos cualquier información personal, da su consentimiento para que se produzca la transferencia, el procesamiento y el almacenamiento de su información personal. Las empresas Gap se acogen al Acuerdo de Puerto Seguro desarrollado por el Departamento de Comercio de EE. UU. en coordinación con la Comisión Europea. Para obtener más información, visite: <http://www.export.gov/safeharbor/>.
+Podemos combinar información personal con información sobre sus transacciones en línea y en tienda así como otras realizadas con nosotros, incluidas las compras. También podemos combinar información personal sobre usted con información que consigamos de otras fuentes tales como nuestros socios conjuntos de marketing, bases de datos públicas, páginas públicamente disponibles en plataformas de medios sociales y de otras terceras partes. Además, si usted decide involucrarse en redes sociales conectando su cuenta de redes sociales a la de su cuenta de cliente o iniciando sesión en su cuenta de cliente desde su cuenta de redes sociales, el sitio web de las redes sociales puede compartir información con nosotros sobre el uso que usted haga de sus servicios, incluyendo datos de su perfil, información sobre sus contactos y contenido que haya visualizado o que le haya gustado. Consulte la configuración de privacidad del sitio web de la red social para controlar cómo se comparte su información. 
 
-volver al principio
+Cualquier dato personal que usted nos envíe en relación con otras personas o a uno de nuestros proveedores, dará a entender que tiene autoridad para ello y para permitir que nosotros hagamos uso de esa información de acuerdo con esta Política de Privacidad. 
 
-### ¿Cómo usan las empresas Gap la información personal?
-
-Podemos usar su información personal de los siguientes modos:
-
-  * Para procesar y satisfacer sus pedidos, incluido el envío de correos electrónicos de confirmación del estado del pedido y del envío 
-  * Para procesar devoluciones de mercancías 
-  * Para administrar y cumplir con lo establecido en concursos, programas de fidelidad y otras promociones y programas en los que participe
-  * Para ayudarnos a resolver problemas con el diseño de nuestro sitio, nuestros productos y servicios, y así mejorarlos
-  * Para mejorar su experiencia de compra
-  * Para saber más sobre sus preferencias de compra 
-  * Para comprender sus intereses de compra y su historial de compra de modo que podamos adaptar a sus gustos ofertas y promociones
-  * Para nuestros fines empresariales internos (análisis de tendencias y estadísticas, auditorías, desarrollo de nuevos productos, mejora de nuestros sitios web, identificación de tendencias de uso y determinación de la eficacia de nuestras campañas promocionales)
-  * Para proteger la seguridad o integridad de nuestros sitios web y nuestra empresa
-  * Para ponernos en contacto con usted en caso necesario en relación con las transacciones que efectúe con nosotros, modificaciones en nuestros términos, condiciones y políticas, o por otros motivos administrativos
-  * Con su consentimiento cuando sea necesario, para comunicarnos con usted y enviarle información por correo electrónico, correo postal, teléfono, mensaje de texto u otros medios sobre nuestros productos, servicios, concursos y promociones, a menos que nos haya dejado instrucciones para que no nos pongamos en contacto con usted con fines promocionales
-
-
+La información personal sobre usted puede procesarse o almacenarse en servidores que se encuentren en diversos países, tanto de dentro como de fuera del Espacio Económico Europeo ("EEE"). En consecuencia, es posible que su información personal pueda transferirse a diversos países de fuera del EEE, incluidos los Estados Unidos. Su información personal puede estar sometida a las leyes de los países en los que se almacene o utilice, y es posible que dichos países tengan un régimen de protección de datos distinto del país en el que usted reside. Al proporcionarnos cualquier información personal, da su consentimiento para que se produzca la transferencia, el procesamiento y el almacenamiento de su información personal. 
 
 volver al principio
 
-### ¿Comparten las empresas Gap información personal sobre mí?
+**¿ Cómo usa Gap Inc .mi información?**
 
-Podemos compartir su información personal de los siguientes modos:
+Podemos usar su información personal de los siguientes modos: 
 
-  * _Empresas Gap:_ Cuando proporcione información personal a una de nuestras empresas Gap, podemos compartir dicha información con el resto de empresas Gap para que la usen y la revelen con los fines descritos en esta política de privacidad. 
-  * _Proveedores de servicios:_ Tenemos acuerdos con proveedores de servicios que gestionan la información sobre nuestros clientes y prestan servicios en nombre nuestro. Exigimos a nuestros proveedores de servicios que protejan adecuadamente la información personal y la usen sólo para proporcionarnos servicios. 
-  * _Terceros:_ Podemos compartir su información personal con patrocinadores de concursos, promociones, programas de fidelidad, o similares, en calidad de terceros, según los términos y condiciones pertinentes en tales concursos, promociones o programas. Recomendamos que revise detenidamente tales términos y condiciones, ya que pueden contener importante información adicional sobre el uso de su información personal por parte de un patrocinador u otra tercera persona. En caso de conflicto entre los términos y condiciones dispuestos en esta política de privacidad y los de dichos concursos, promociones o programas, serán estos últimos los que prevalezcan. Para garantizar que sus tarjetas de débito o crédito no se utilicen sin su consentimiento, podemos validar también el nombre, la dirección y otra información personal que nos proporcione durante el proceso de pedido con bases de datos apropiadas de terceros. Ante cualquier sospecha de fraude o de suplantación de identidad, podemos registrar estos datos y mantenerlos con el fin de evitar fraudes en el futuro. Al aceptar esta política de privacidad, da su consentimiento para que se procesen, almacenen y usen sus datos según lo expuesto. 
-  * _Transacciones corporativas:_ En el improbable caso de una reorganización, fusión, venta, joint-venture, cesión, transferencia u otra disposición de cualquier naturaleza de todo o parte de la empresa, los activos o las existencias de las Empresas Gap o de cualquiera de nuestros negocios, la información personal sobre nuestros clientes y cualquier otra información recopilada según lo descrito en esta política puede encontrarse entre los activos empresariales transferidos y puede compartirse con otras partes relevantes. 
-  * _Otras revelaciones:_ Las Empresas Gap pueden también revelar información sobre usted con los siguientes propósitos: 
-    1. proteger los derechos legales, la privacidad o la seguridad de empresas Gap o de nuestros empleados, agentes y contratistas;
-    2. proteger la seguridad de los visitantes de nuestros sitios web y otras propiedades;
-    3. proteger contra fraudes u otras actividades ilegales, o con fines de gestión de riesgos;
-    4. responder a investigaciones o solicitudes de autoridades públicas o gubernamentales en cualquier país en el que operemos, incluidos los EE.UU.;
-    5. permitirnos buscar las soluciones disponibles o limitar los daños que hayan podido infringirnos;
-    6. aplicar las condiciones de uso de cualquier sitio web que operemos, o los términos y condiciones que regulen cualquier concurso, promoción o programa; o
-    7. cumplir con la ley o procedimientos legales.
+* Para procesar y satisfacer sus pedidos, incluido el envío de correos electrónicos de confirmación del estado del pedido y del envío 
+* Para comunicarnos con usted y para enviarle información por correo electrónico, correo postal, teléfono, mensaje de texto u otros medios sobre los productos, servicios, concursos, y promociones, inluidas las comunicaciones publicitarias que creemos puedan ser de su interés. 
+* Para hacer su experiencia de compra más fácil, más agradable y más eficiente. 
+* Para ayudarnos a resolver problemas y mejorar nuestros productos, marcas, servicios y tecnologías, así como para desarrollar nuevos productos y servicios. 
+* Para permitirle utilizar nuestras tecnologías en tienda y en línea. 
+* Para proporcionar servicios consistentes y personalizados en todos los canales y en todas nuestras Marcas, incluyendo personalizar nuestra publicidad, comunicaciones de marketing, experiencias de compras y ofertas promocionales. 
+* Para organizar eventos en la comunidad local, promociones y experiencias en tienda. 
+* Para facilitar el intercambio social. 
+* Para permitirle solicitar una oferta de crédito de un proveedor de tarjetas de pago. 
+* Para permitirle inscribirse y participar en un programa de fidelización o relación con el cliente. 
+* Para administrar y cumplir con lo establecido en concursos y otras promociones 
+* Para saber más sobre sus preferencias de compra 
+* Para prevenir, detectar, mitigar e investigar sobre el fraude, incumplimiento de la seguridad y actividades que són o pueden ser ilegales o estar prohibidas. 
+* Para reforzar nuestros [Términos de Venta y Uso](https://web.archive.org/customerService/info.do?cid=6754) . 
+* Creemos que es necesario o apropiado para proteger los derechos, propiedad, y la seguridad de Gap Inc. y la de nuestros empleados, clientes y otros. 
+* Creemos que es necesario o apropiado en relación a la ley aplicable, para respnder a las peticiones de las autoridades y para cumplir con el proceso legal. 
+
+Siempre tiene la opción de no recibir información publicitaria o llamadas. Praa instrucciones de exclusión, vea la sección titulada, "Qué opciones tengo respecto a la recepción de comunicaciones promocionales?" , abajo. 
+
+volver al principio
+
+**¿Cómo comparte Gap Inc mi información personal?**
+
+Podemos compartir su información personal de los siguientes modos: 
+
+  * **Marcas** _:_ Cuando proporcione información personal a una de nuestras Marcas, podemos compartir dicha información con el resto de Marcas. 
+  * **Por usted** . Puede revelar información personal al publicar contenido en nuestros sitios web, en tecnologías en tiendas o en otros foros de carácter público, como las páginas de medios sociales de nuestra marca y reseñas de productos en línea. Cualquier información que usted pueda revelar a través de estos servicios pasará a ser pública. 
+  * **Compartir socialmente.** Su información personal puede ser revelada al compartir su actividad social, como al iniciar sesión en su cuenta de cliente desde su cuenta de red social. Al conectar su cuenta de cliente y su cuenta de red social, usted nos autoriza a compartir información con el proveedor de su cuenta de la red social, y con ello entiende que el uso de la información que compartimos se regirá por la política de privacidad del portal de la red social. ****
+  * **_Proveedores de servicios_** _:_ Podemos compartir su información con proveedores de servicios que gestionan la información sobre nuestros clientes y prestan servicios en nombre nuestro, como cuando se promueve el cumplimiento de la red de seguridad enviando comunicaciones a nuestros clientes, al realizar encuestas,etc. No autorizamos a efectuar ningún otro uso o a revelar su información a ninguno de esos proveedores de servicio 
+  * **_Terceros:_** Podemos compartir su información si es necesario o apropiado, según nuestro buen juicio, para cumplir con leyes o regulaciones o para dar respuesta a una orden o petición del Gobierno, o para proteger las operaciones, privacidad, seguridad, propiedad o derechos de Gap Inc. o de otros. **Sorteos o Programas de Fidelización:** Si decide participar en cualquier programa de recaudación de fondos organizado por terceros, fidelización, o programas similares en los cuales la Marca Gap Inc. participa como proveedor, y usted autoriza a Gap Inc. y usted autoriza a Gap Inc. o a nuestro procesador de tarjetas de crédito a facilitar información sobre sus compras a la compañía que administra el programa, compartiremos su información personal con ese programa. Los programas para recaudar forndos le permiten indicarnos si quiere desviar una cantidad de la cantidad que gaste en las compras de Gap Inc. para escuelas que participen y otras organizaciones sin ánimo de lucro. Los programas de fidelización le permiten ganar "puntos" en compras de las marcas Gap Inc., que luego puede usar para conseguir ciertas recompensas que le ofrecen los programas de fidelización en los que participe. La información que nos permita difundir a terceras partes o programas de fidelización pueden incluir su número de tarjeta de crédito y la fecha y el total de su compra, y puede incluir su nombre y otra información que usted nos pida. Por favor, tenga en cuenta que una vez facilitemos la información, la fundación o la compañía de fidelización puede usarla y compartirla con otros de acuerdo con sus propias políticas de privacidad. Debería revisar esas políticas minuciosamente, puesto que nosotros no tenemos control sobre ellas. 
+  * **_Traspaso del negocio:_** **** En el improbable caso de una venta o fusiónde Gap Inc. o de cualquiera de nuestros negocios, la información personal de nuestros clientes y cualquier otra información recopilada según lo descrito en esta política puede encontrarse entre los activos empresariales transferidos. 
 
 
 
 volver al principio
 
-### ¿Cómo puedo acceder a mi información personal o cambiarla?
+**¿Qué otra información recopila Gap Inc.?**
 
-Puede ponerse en contacto con nosotros según se describe en la sección "¿Cómo me pongo en contacto con ustedes?" para solicitar acceso o más datos sobre el uso de su información personal o para pedirnos que modifiquemos, actualicemos, eliminemos o suprimamos información personal. Tenga en cuenta que es posible que haya información personal que esté exenta de dichos derechos de acceso, modificación, eliminación o supresión de acuerdo con las leyes de protección de datos locales. Responderemos en la medida que lo exijan las leyes pertinentes. Además, si proporcionamos en cualquiera de nuestros sitios web una funcionalidad que permita configurar una cuenta en el sitio, puede iniciar sesión en su cuenta para acceder a su información personal y cambiarla. 
+Podemos recopilar información que no revele su indentidad específica que no se relacione directamente a un individuo, como la información del navegador y del dispositivo; información recopilada a través de cookies, contadores de visitas y otras tecnologías, información demográfica y otra información proporcionada por usted: e información agregada. 
 
-Si establece contacto con nosotros a este respecto, debe indicar claramente la información que desea que se cambie, la información que desea que se suprima de nuestra base de datos, o las limitaciones que desea imponer sobre el uso que hagamos de su información personal. Puede que necesitemos mantener cierta información con fines de registro y también puede haber información residual que quedará en nuestras bases de datos y otros registros y que no se eliminará. No somos responsables de modificar, actualizar, eliminar o suprimir información personal de las bases de datos de terceros con los que ya hayamos compartido su información personal, ni de limitar el uso que ellos hagan de dicha información.
+Podemos usar y revelar esa información con cualquier fin lícito. Si es necesario, trataremos dicha información como información personal de acuerdo con esta política. Del mismo modo, trataremos dicha información como información personal en la medida en que se combine con información personal. Por ejemplo, cuando utilice nuestras tecnologías, podemos mantener un registro de los intereses de su producto, de las compras que realiza y de otros contenidos que genere (como agregar artículos a su carrito de compras). 
 
-volver al principio
+Podemos recolectar información en una variedad de formas, incluyendo: 
 
-### ¿Qué opciones tengo respecto al tratamiento de mi información personal?
+  * **Su navegador o dispositivo** . Cierta información es recogida por la mayoría de navegadores o automáticamente a través de su dispositivo, como su dirección de Media Access Control (MAC), tipo de equipo informático (Windos o Macintosh), resolución de la pantalla, sistema operativo y versión, fabricante del dispositivo y modelo, idioma, navegador de Internet y versión, y datos de acceso y uso del navegador. 
+  * **Aplicaciones móviles** . Cuando descargue y utilice una de nuestras aplicaciones móviles, podremos rastrear y recopilar datos de uso, como la fecha y la hora en que la aplicación de su dispositivo accede a nuestros servidores y qué información y archivos se han accedido, visto y / o descargado a la aplicación basado en su número de dispositivo u otro identificador. 
+  * **Cookies** : Son piezas de información almacenadas directamente en el equipo informático que está utilizando. Nuestros sitios web, anuncios en línea y mensajes de correo electrónico utilizan cookies, contadores de visitas y otras tecnologías para recopilar de forma automática información sobre sus interacciones, como el tipo de navegador, las páginas visitadas, los enlaces realizados y otras acciones que realice en relación con nuestros sitios web, anuncios en línea y correo electrónico. Utilizamos la información para una variedad de propósitos, incluyendo facilitar la navegación, mostrar la información de manera más efectiva, personalizar su experiencia, entender cómo se usan nuestros sitios web, medir el éxito de nuestras campañas de marketing y por razones de seguridad. Si su navegador está configurado para rechazar las cookies, es posible que no pueda acceder a su cuenta de cliente ni realizar una compra en nuestros sitios web. Para saber cómo utilizamos las cookies para fines publicitarios, consulte la sección, "¿Cómo usan las cookies las empresas Gap y qué opciones tengo respecto a ello?" abajo. 
 
-Las Empresas Gap y nuestras Marcas quieren comunicarse con usted sólo si quiere tener noticias nuestras. Si prefiere no recibir información promocional (sobre nuestras ofertas especiales y eventos de ventas, de una o más de nuestras Marcas) puede hacérnoslo saber contactando con nuestro servicio al cliente según lo descrito en la sección "¿Cómo me pongo en contacto con ustedes?", más adelante, o siguiendo las instrucciones para dar de baja la suscripción a los correos electrónicos promocionales que le enviamos. 
+Si no desea obtener información recopilada mediante el uso de cookies, en la mayoría de los navegadores hay un procedimiento sencillo que le permite rechazar automáticamente las cookies o tener la opción de rechazar o aceptar la transferencia a su computadora de una determinada cookie (o cookies) Desde un sitio en particular. Si no acepta cookies, puede experimentar algunos inconvenientes en el uso de nuestros sitios. Por ejemplo, es posible que no pueda acceder a la información de su cuenta ni realizar una compra en nuestros sitios web.
 
-Asegúrese de incluir su nombre completo y la dirección de correo electrónico que utilizó al registrarse o realizar una compra en nuestras Marcas. Si nos pide que eliminemos su nombre y dirección de las listas promocionales, mantendremos su nombre en un archivo "no contactar" para cumplir con su solicitud. 
+  * **Usar contadores de visita y otras tecnologías similares** : Podemos utilizar contadores de visitas para, entre otras cosas, rastrear las acciones de los usuarios de nuestros sitios y servicios (incluidos los destinatarios de correo electrónico), medir el éxito de nuestras campañas de marketing y compilar estadísticas sobre el uso de nuestros sitios y servicios y tasas de respuesta. 
+  * **Análisis** : Utilizamos proveedores de servicios de terceros, como Google y Adobe, que utilizan cookies y tecnologías similares para recopilar y analizar información sobre el uso de nuestros sitios web y aplicaciones móviles y tecnologías en la tienda. Este servicio también puede recopilar información sobre el uso de otros sitios web, aplicaciones y recursos en línea. Puede obtener más información sobre las prácticas de Google en <http://www.google.com/policies/privacy/partners/> y optar por no utilizar el complemento de explorador de exclusión de Google Analytics, disponible en [https://tools.google. Com / dlpage / gaoptout](https://tools.google.com/dlpage/gaoptout) . Puede obtener más información sobre las prácticas de Adobe y optar por no participar en <http://www.adobe.com/privacy/opt-out.html> . 
+  * **Adobe Flash** : Podemos utilizar la tecnología Adobe Flash, incluyendo Flash Local Shared Objects ("Flash LSOs") y otras tecnologías similares para recopilar y almacenar información sobre el uso de nuestros sitios web y aplicaciones móviles. Puede ajustar la configuración del reproductor de Flash para bloquear el almacenamiento de Flash LSO en su computadora usando las herramientas contenidas en el [Panel de configuración de almacenamiento](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) de sitios web. También puede controlar Flash LSO al ir al [Panel de configuración de almacenamiento global](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) y seguir las instrucciones (que pueden incluir instrucciones que explican, por ejemplo, cómo eliminar los Flash LSO existentes (conocidos como "información" en el sitio de Macromedia), cómo Evitar que Flash LSO se coloque en su computadora sin que se le pregunte, y (para Flash Player 8 y posterior) cómo bloquear Flash LSO que no están siendo entregados por el operador de la página en la que se encuentra en ese momento). Tenga en cuenta que la configuración de Flash Player para limitar la aceptación de Flash LSO puede interferir con la funcionalidad de algunas aplicaciones de Flash, incluidas las utilizadas en conexión con nuestros sitios web y aplicaciones para móviles. 
+  * **Dirección IP** : Su dirección de Protocolo de Internet ("IP") es un número asignado automáticamente por su proveedor de servicios de Internet al equipo que está utilizando. Una dirección IP puede ser identificada y registrada automáticamente en nuestros archivos de registro del servidor cada vez que acceda a nuestros sitios web, junto con la hora de la visita y las páginas visitadas. Su dirección IP también puede indicar su ubicación física aproximada. La recopilación de direcciones IP es una práctica estándar y se realiza automáticamente por muchos sitios web, aplicaciones y otras tecnologías. Usamos direcciones IP para propósitos tales como calcular niveles de uso y diagnosticar problemas de servidor. 
+  * **Ubicación física** : Podemos recopilar la ubicación física de su dispositivo, por ejemplo, utilizando señales de satélite, torre de teléfono móvil o Wi-Fi. Podemos usar la ubicación física de su dispositivo para proporcionarle servicios y contenido personalizado basado en la ubicación. Es posible que se le permita permitir o denegar tales usos, pero si los niega, es posible que no podamos proporcionarle una experiencia de usuario personalizada. 
+  * **Tecnologías en la tienda** : Podemos proporcionar tecnologías en la tienda para ayudar a personalizar y mejorar su experiencia de compra. Estas tecnologías pueden requerir la recopilación de cierta información sobre su dispositivo móvil, como su dirección MAC u otra información de identificación del dispositivo y también le permiten enviar datos personales para aumentar los niveles de personalización, como sus intereses, preferencias de compra e información de tallas. . 
+  * **Información agregada** : Podemos recopilar y usar información personal agregada, la cual no le identifica personalmente. Por ejemplo, podemos calcular el porcentaje de usuarios de nuestro sitio que tienen un código de área de teléfono particular. 
 
-Si cambia de opinión, puede empezar a recibir de nuevo nuestros comunicados promocionales inscribiéndose cuando visite nuestros sitios web o nuestras tiendas o cuando quiera participar en un sorteo o concurso, o bien, poniéndose en contacto con nuestro servicio al cliente.
 
-volver al principio
 
-### ¿Qué ocurre con la información personal de los niños?
+**¿Qué ocurre si me conecto a los servicios de WI-FI en Gap Inc.?**
 
-Nuestros sitios web no están dirigidos ni diseñados para niños. Pedimos que los niños menores de 18 años no nos transmitan ninguna información personal. Cuando se pida específicamente, agradecemos que sean los padres o tutores de un menor de 18 años los que proporcionan información pertinente sobre el niño.
+Si elige conectarse a nuestros servicios Wi-Fi en la tienda, las empresas Gap recibirán información sobre usted y su dispositivo, incluida la dirección MAC, la dirección IP, el indicador de intensidad de la señal recibida (RSSI) y los detalles técnicos del dispositivo, como su sistema operativo y tipo de dispositivo (incluyendo marca y modelo) y capacidades técnicas. Si ha dado un nombre a su dispositivo, lo recibiremos. También recibiremos información acerca de cómo usa nuestra red Wi-Fi mientras está conectado, incluyendo la ubicación de la tienda, las áreas de la tienda que visita, los nombres y / o direcciones de Internet de los sitios web que visita y las aplicaciones que usa, Y cuánto tiempo interactúa con dichos sitios o aplicaciones. Recopilamos esta información cada vez que se conecta a los servicios Wi-Fi y puede asociarlo con otra información que hemos recopilado de usted. 
 
-### ¿Cómo recopilan y usan las empresas Gap la información que no es personal?
+Si su dispositivo móvil está configurado para buscar redes Wi-Fi disponibles, es posible que recibamos información sobre su dispositivo incluso si decide no conectarse a nuestros servicios Wi-Fi. 
 
-La información no personal es la que no le identifica. Puede incluir información que nos haya proporcionado, como datos demográficos (género, fecha de nacimiento e intereses personales, por ejemplo). La información no personal incluye también información agregada, por ejemplo, el uso de información personal para calcular el porcentaje de nuestros clientes a los que les gusta una Marca concreta. 
+Como conveniencia, podemos ofrecerle una opción para estar conectado a las redes Wi-Fi de las empresas Gap. Si elige esta opción, se registrará automáticamente en la red Wi-Fi de cualquier tienda de las empresas Gap que ofrezca servicios Wi-Fi y podemos recopilar la información descrita anteriormente aunque no utilice activamente su navegador de Internet o las aplicaciones de su teléfono móvil durante su tiempo en nuestra tienda. Puede elegir desconectarse de la red Wi-Fi Gap en cualquier momento a través de la configuración Wi-Fi de su dispositivo. Sin embargo, tenga en cuenta que al desconectarse de la red Wi-Fi de una tienda sólo se desconectará de esa red durante su visita actual. Puede inhabilitarla función de autoconectarse en cualquier momento visitando: [http://www.smart-places.org](http://www.smart-places.org/). 
 
-Cuando visita nuestros sitios web, las empresas Gap recopilan información no personal que puede incluir su dirección MAC, su tipo de equipo informático, la resolución de su pantalla, la versión de su SO, el navegador de Internet, la dirección IP (como se explicará con más detalle a continuación), las cookies (como se explicará con más detalle a continuación), contadores de visitantes y otras tecnologías similares (como se explicará con más detalle a continuación) para proporcionarle un mejor servicio con información más adaptada a sus gustos y facilitar el uso continuado de nuestros sitios web.
+Para obtener detalles completos sobre nuestras prácticas de Wi-Fi en la tienda, consulte nuestros [Términos de uso de Wi-F](https://secure-www.gap.com/customerwifi/splash?base_grant_url=https%3A%2F%2Fsecure-www.gap.com%2Fcustomerwifi%2FmerakiTestDouble&node_mac=00:18:0a:da:4e:f0&client_mac=xx:xx:xx:xx:xx:xx) i. 
 
-Las empresas Gap pueden usar información no personal y compartirla con terceros para cualquier fin. Las empresas Gap pueden combinar información no personal con información personal, por ejemplo, su ubicación geográfica con su nombre, pero en caso de hacerlo, trataremos la información como información personal durante todo el tiempo en que esté combinada.
+**¿Qué ocurre si utilizo dispositivos diferentes para visitar los sitios web deGap Inc. o aplicaciones móviles?**
 
-volver al principio
+Con el fin de proporcionarle una experiencia de compra más eficiente y conveniente, es posible que pueda acceder a varios contenidos o iniciar sesión en su cuenta desde muchos dispositivos diferentes. Si utiliza muchos dispositivos diferentes para acceder a nuestros sitios oa nuestras aplicaciones móviles, como su ordenador, portátil y / o dispositivo móvil, es posible que podamos vincular cada uno de sus dispositivos con su cuenta. Por ejemplo, nuestros sitios pueden permitirle acceder a sus artículos favoritos o al carro de la compra a través de un enlace de correo electrónico que es exclusivo de su cuenta. Al hacer clic en el enlace, se iniciará automáticamente en su cuenta para que continúe con su experiencia de compra donde lo dejó. Si elige hacer clic en el enlace de correo electrónico de un nuevo dispositivo, podremos asociar su dispositivo actual con la información de su cuenta. La información que hemos recopilado de sus diferentes dispositivos se puede combinar con otra información que nos ha proporcionado, incluida la información que se guarda en su cuenta de cliente, y podemos utilizar dicha información para proporcionar experiencias más personalizadas y servicios consistentes y experiencias en todos sus dispositivos como se explica en este aviso de privacidad. Usted puede elegir navegar por nuestro sitio sin que su dispositivo sea reconocido al cerrar sesión en su cuenta. 
 
-### ¿Cómo recopilan y usan las cookies las empresas Gap?
+**¿Por qué recibí un correo electrónico de Marketing después de hacer una compra en una tienda de Gap Inc.?**
 
-Nuestros sitios web utilizan "cookies," que son pequeños archivos de datos que se almacenan en su equipo cuando visita un sitio web. Las cookies pueden usarse de muy diversos modos para mejorar o personalizar su experiencia en línea. Por ejemplo, podemos usar cookies para permitirle usar ciertas funciones del sitio web, almacenar sus preferencias, reconocerle cuando vuelve a nuestro sitio web, y supervisar y mantener información sobre el uso que haga de nuestros sitios web. Las cookies pueden usarse también para recopilar información necesaria por un programa de fidelización para el que nos haya autorizado a proporcionar su información personal. (Consulte la sección "¿Comparten las Empresas Gap información personal sobre mí?", más arriba.) También pueden usarse para proporcionarle anuncios de publicidad personalizados mientras navega por otros sitios de confianza. Estos anuncios estarán relacionados con productos que haya visto mientras navega por este sitio web en su equipo o en cualquier otro dispositivo. Nos comprometemos a proporcionarle sólo la información que pueda serle pertinente y que desee recibir.
+Para ofrecerle una experiencia de cliente más transparente y de calidad, mantenemos registros de todas sus transacciones con Gap Inc., tanto en línea como en la tienda. Por ejemplo, si utiliza una tarjeta de crédito o débito o le da al asociado de ventas su dirección de correo electrónico cuando realiza una compra en nuestra tienda, podemos asociarla a su cuenta de cliente en línea. Como se describió anteriormente, podemos utilizar la información sobre sus compras para enviarle un correo electrónico sobre otros productos y servicios que creemos que pueden ser de su interés. 
 
-En consecuencia, puede configurar su navegador para que no acepte cookies o para que le avise cuando se le envíe una cookie, con lo que tendrá la oportunidad de decidir aceptarla o no. Si no acepta cookies, no obstante, es posible que no encuentre disponibles ciertas funciones de nuestros sitios web. 
+**¿Cómo puedo acceder a mi información o cambiarla?**
 
-Para obtener más información sobre cookies, visite <http://www.allaboutcookies.org/>. 
+Puede revisar y cambiar cierta información personal relacionada con su uso de nuestras páginas en línea (como su nombre e información de contacto). Para acceder a su información en la página web de Gap Inc., simplemente entre en su cuenta usando su dirección de correo electrónico y su contraseña, y podrá editar su información personal en el perfil de su cuenta. 
 
-volver al principio
-
-### ¿Cómo recopilan y usan los contadores de visitas y otras tecnologías similares las empresas Gap?
-
-Utilizamos "contadores de visitantes" (también llamados "web beacons" o "clear GIF"), que son diminutas imágenes gráficas, y otras tecnologías similares en nuestros sitios web y nuestros correos electrónicos. Los contadores de visitas nos ayudan a analizar el comportamiento en línea de nuestros clientes y a medir la eficacia de nuestros sitios web y nuestra publicidad. Trabajamos con proveedores de servicios que nos ayudan a realizar el seguimiento de esta información, recopilarla y analizarla. Los contadores de visitas en nuestros sitios web pueden usarse para recopilar información sobre su visita, incluidas las páginas que vio, las funciones que usó, los enlaces en los que hizo clic y otras acciones que emprendiera en relación con los sitios web. Esta información puede incluir su tipo de navegador, su sistema operativo, información de fecha y hora y otra información técnica sobre su equipo. También podemos realizar el seguimiento de cierta información sobre la identidad del sitio web que visitó inmediatamente antes de llegar a nuestro sitio. Los contadores de visitas y las cookies de nuestros correos electrónicos pueden usarse para realizar el seguimiento de sus interacciones con dichos mensajes como, por ejemplo, cuando recibió, abrió o hizo clic en un enlace presente en un correo electrónico recibido de nosotros.
-
-Podemos combinar la información que recopilamos a través de cookies y contadores de visitas con otra información que hayamos recopilado de usted. Esta información puede usarse para mejorar nuestros sitios web, personalizar su experiencia en línea, adaptar nuestros comunicados a usted, determinar la eficacia de nuestra publicidad, comprender sus preferencias y para otros fines empresariales internos.
-
-También trabajamos con terceras empresas que usan tecnologías de seguimiento para proporcionar anuncios en nombre nuestro a través de Internet. Estas empresas pueden recopilar información sobre sus visitas a nuestros sitios web y su interacción con nuestra publicidad y otras comunicaciones. Nos comprometemos a proporcionarle sólo la información que pueda serle pertinente y que desee recibir. En consecuencia, si desea recibir más información sobre esta práctica y sobre las opciones con las que cuenta para impedir que estas empresas usen su información, visite <http://www.networkadvertising.org/managing/opt_out.asp>.
-
-Para más información sobre publicidad comportamental en línea o para rehusar la recepción de anuncios publicitarios personalizados, puede visitar la European Interactive Advertising Alliance: <http://www.edaa.eu/>
+También puede pedirnos que actualizemos su información personal contactándonos como se describe en la sección titulada "¿Cómo me pongo en contacto con ustedes?" más abajo. Por favor, tenga en cuenta que cualquier petición para actualizar su información personal puede tardar hasta 10 días en caso de que se haga por correo electrónico y 6-8 semanas para sus peticiones por correo postal. 
 
 volver al principio
 
-### ¿Cómo recopilan y usan las direcciones IP las empresas Gap?
+**¿Qué opciones tengo respecto a recibir comunicaciones promocionales?**
 
-Su dirección IP es un número que un proveedor de servicios de Internet (ISP) asigna automáticamente a su equipo informático. Este número puede diferir cada vez que inicia sesión en Internet o puede seguir siendo el mismo. La dirección IP se registra automáticamente en los archivos de registro de nuestro servidor cada vez que visita nuestros sitios web, junto con la hora de su visita y las páginas que visitó. También la recopilan los contadores de visitas, tal y como se ha explicado arriba. La recogida de direcciones IP es una práctica estándar en Internet y muchos sitios web la realizan de forma automática. 
+Gap Inc. y nuestras Marcas quieren comunicarse con usted solo si usted quiere. Si prefiere no recibi información promocional, como por ejemplo información sobre ofertas especiales y rebajas, de una o más de nuestras marcas, puede hacérnoslo saber contactando con nuestro servicio de atención al cliente tal como se describe en la sección titulada "¿Cómo me pongo en contacto con ustedes?" más abajo o puede hacer clic en los enlaces para darse de baja que aparecen más abajo usted mismo. 
 
-Podemos usar direcciones IP para los mismos propósitos para los que usamos la información personal, además de para calcular los niveles de uso del sitio web, ayudarnos a diagnosticar problemas del servidor y administrar nuestros sitios web y su uso de ellos. En este último apartado incluimos el proporcionarle oportunidades como cliente y el satisfacer sus solicitudes y compras. Excepto si la ley establece lo contrario, tratamos las direcciones IP, los archivos de registro de los servidores y la información relacionada como información no personal.
+[Darse de baja en Gap](https://secure-www.gap.co.uk/profile/info.do?cid=82639)
 
-volver al principio
-
-### ¿Cómo puedo saber si la información personal sobre mí está segura?
-
-Hemos implementado salvaguardas físicas, electrónicas, contractuales y directivas para ayudar a proteger la seguridad y privacidad de su información personal frente a apropiación, divulgación o accesos no autorizados. Cuando especifica su información personal en nuestros sitios web, usamos tecnología Secure Sockets Layer (SSL) para protegerla durante el proceso de transmisión.
-
-Lamentablemente, no es posible garantizar con el 100% de seguridad la transmisión de datos a través de Internet o los sistemas de almacenamiento de datos. No nos envíe información confidencial a través del correo electrónico. Si tiene motivos para creer que su interacción con nosotros ha dejado de ser segura, deberá avisarnos inmediatamente del problema poniéndose en contacto con nosotros según lo descrito en la sección "¿Cómo me pongo en contacto con ustedes?" que encontrará más adelante. Si opta por avisarnos mediante correo postal, supondrá un retraso en el tiempo que nos lleva responder al problema.
+[Darse de baja en Banana Republic](https://secure-bananarepublic.gap.co.uk/profile/info.do?cid=82771)
 
 volver al principio
 
-### ¿Qué ocurre con los enlaces a otros sitios web?
+**¿Cómo protege Gap Inc. la privacidad de los niños?**
 
-Con vistas a su comodidad y su información, es posible que nuestros sitios web contengan enlaces a otros sitios web cuyas políticas y prácticas de privacidad difieran de las nuestras. No somos responsables del contenido ni de las prácticas de cualquier sitio web al que se enlace desde nuestro sitio web. Recomendamos que revise la política de privacidad de cualquier sitio web al que acceda a través de nuestros sitios web. La inclusión de un enlace al sitio de un tercero en nuestros sitios web no implica la promoción del sitio web por parte de ninguna de las Empresas Gap.
-
-### ¿Durante cuánto tiempo conservan mi información?
-
-Conservaremos su información personal durante el periodo necesario para satisfacer los fines descritos en esta política a menos que la ley requiera o permita un periodo de conservación más prolongado.
+A Gap Inc. le preocupan la privacidad y la seguridad de kis niños cuando usan interne. No pediremos nunca a propósito información en línea a nadie que tenga menos de 13 años sin el consentimiento demostrado de sus padres. Nuestros sitios web son para el público general y no están dirigidos ni diseñados para niños. 
 
 volver al principio
 
-### ¿Cómo me pongo en contacto con ustedes?
+**¿Cómo recopila y usa las cookies Gap Inc.?**
 
-Para cuestiones relacionadas con nuestra política de privacidad, decidir si recibir o no comunicados promocionales, actualizar o modificar información personal sobre usted en nuestras bases de datos, o solicitar que se elimine o suprima su información personal, puede contactar con nuestras Marcas por correo electrónico, teléfono o correo postal:
+Utilizamos nuestras propias cookies para ayudar a determinar cuáles de nuestros anuncios se muestran en otros sitios web. Para excluir esta publicidad en línea dirigida por las empresas Gap que utiliza nuestras cookies, por favor haga clic [aquí](http://www.gap.co.uk/customerService/info.do?cid=81901). 
 
-_Correo electrónico:[custserv@gap.eu ](mailto:custserv@gap.eu)_
+También trabajamos con terceras compañías que utilizan tecnologías de seguimiento (incluyendo cookies y pixel tags) en nuestras páginas web para integrar anuncios a medida de nuestra parte y de parte de otros anunciantes en internet, estas compañías pueden recopilar información sobre sus actividad en nuestras páginas y su interacción con nuestros anuncios y otras comunicaciones y usa esta información para determinar qué anuncios ve en páginas de terceros y en aplicaciones. Estas tecnologías y la información que se recoge sobre usted también puede ser usada para rastrear su actividad en distintos dispositivos. Para más información sobre ésta práctica y para entender sus opciones incluyendo como dejar de recibir estos anuncios a medida, por favor visite la Alianza Europea de Publicidad Digital Interactiva: <http://www.edaa.eu/>. 
+
+volver al principio
+
+**¿Qué ocurre si solicito una tarjeta de crédito Gap Inc. a través de su página?**
+
+En determinados países, le ofreceremos la posibilidad de solicitar una tarjeta de crédito para poder realizar pagos en nuestras tiendas o también en línea. Para conseguir un proceso de solicitud más eficiente, podemos proporcionar información desde su cuenta de cliente al emisor de la tarjeta de crédito para generar una tarjeta de crédito pre-validada y/o para completar su solicitud online de la tarjeta de crédito con la información de su cuenta de cliente. Mediante su solicitud de tarjeta de crédito ya sea en una tienda física o en línea, usted reconoce y acepta que Gap Inc puede facilitar su información al emisor de la tarjeta de crédito, de acuerdo con los términos y condiciones de la solicitud. Para más información sobre la privacidad asociada con su solicitud de tarjeta de crédito, por favor póngase en contacto con el emisor de las tarjetas de crédito. 
+
+**¿Qué sucede si quiero participar en programas de una tienda concreta?**
+
+Ofreceremos promociones especiales para nuestros clientes en determinadas tiendas o lugares para recibir asesoría personalizada para ayudarles en sus compras o bien otros servicios, tales como notificaciones sobre cuando sus productos favoritos se encuentren en su tienda habitual; recomendaciones de productos, ofertas únicas para aquellos miembros de la comunidad como monitores de fitness, e invitaciones para eventos locales especiales. 
+
+Con la finalidad de ofrecer estos servicios personalizados, un comercial le preguntará sobre sus intereses, actividades, preferencias de compra y preferencias de otras personas a las que les va a comprar algo. También tendremos un registro de sus preferencias en cuanto a tallas, listas de productos deseados, su historial de transacciones en su tienda local y su información de contacto. Utilizaremos su información para contactar con usted a por teléfono o mediante mensajes de texto, de acuerdo con esta política. En determinados casos, usted podrá autorizar a un comercial para que pueda realizar compras en su nombre usando información de pago que haya facilitado previamente en alguna de sus transacciones online o en alguna de nuestras tiendas. 
+
+**¿Cómo puedo saber si mi información personal está segura?**
+
+Dedicamos todos nuestros esfuerzos en proporcionarle una experiencia de compras segura y conveniente. Hemos colocado ciertos protectores físicos, electrónicos, contractuales y de gestión para ayudar a proteger la seguridad y la privacidad de su información personal. 
+
+Si por alguna razón no puede acceder al servidor seguro, o si no se siente cómodo comprando en línea en cualquiera de nuestras páginas web, por favor no dude en realizar su pedido por teléfono en el número que aparece en la rección titulada "¿Cómo me pongo en contacto con ustedes?" más abajo. 
+
+volver al principio
+
+**¿Qué es el "phishing" o suplantación de identidad?**
+
+"Phishing" es una estafa diseñada para robar su información personal. Si recibe un correo electrónico que parece ser nuestro pidiendo su información personal, no responda. Nunca solicitaremos su contraseña, nombre de usuario, información de tarjeta de crédito u otra información personal a través de correo electrónico. 
+
+**Recibí un correo electrónico sospechoso de una marca de Gap Inc respecto a un pedido que no cursé. ¿Qué debería hacer?**
+
+Somos conscientes de correos electrónicos falsos enviados bajo nuestros nombres de Marca. Esos correos no provienen de Gap Inc., y las personas que reciban correos electrónicos fraudulentos sobre estados pedidos no han recibido ningún cargo. Para su protección, no haga clic en vínculos o abra ningún archivo adjunto a correos electrónicos sospechosos y no solicitados. Si usted cree que su equipo informático personal ha sido afectado como resultado de una estafa, por favor consulte a un profesional de TI. Para obtener más información, comuníquese con Fraude de Acción, el Centro Nacional de Información sobre Fraudes y Delitos Cibernéticos en [ http://www.actionfraud.police.uk/](http://www.actionfraud.police.uk/) . Trabajamos con organismos legales para investigar este tipo de correos electrónicos fraudulentos. 
+
+**Respondí a la publicación de una oferta de empleo en Gap Inc. la cual requiere que suba información financiera personal. ¿Es esto parte de su proceso de contratación?**
+
+No. En Gap Inc. no pedimos a los posibles solicitantes de empleo información sobre sus cuentas bancarias, historial de crédito o contraseñas de las cuentas financieras. Si se le solicita información financiera o de seguridad personal en respuesta a una solicitud de empleo, es probable que se trate de una oferta de trabajo fraudulenta alojada por spammers para inducir a error a los solicitantes de empleo.Puede validar todas las ofertas de empleo de Gap Inc. en <https://jobs.gapinc.com/> Los spammers también crean alias falsos para imitar a nuestra compañía y / o nombres de marca en un esfuerzo para cometer robo de identidad u otras formas de fraude. Si recibe este tipo de actividad de correo electrónico sospechoso, por favor, avise a Action Fraud, al Centro Nacional de Fraudes y Delitos Cibernéticos en [ http://www.actionfraud.police.uk/](http://www.actionfraud.police.uk/) . 
+
+volver al principio
+
+**¿Qué ocurre con los enlaces a otros sitios web?**
+
+Con vistas a su comodidad y su información, es posible que nuestros sitios web contengan enlaces a otros sitios cuyas políticas y prácticas de privacidad difieran de las nuestras. No somos responsables del contenido ni de las prácticas de cualquier sitio web al que se enlace desde nuestro sitio. Recomendamos que revise la política de privacidad de cualquier sitio web al que acceda a través de nuestros sitios web. 
+
+**¿Durante cuánto tiempo conservan mi información?**
+
+Conservaremos su información personal durante el periodo necesario para satisfacer los fines descritos en esta política a menos que la ley requiera o permita un periodo de conservación más prolongado. 
+
+volver al principio
+
+**¿Cómo me pongo en contacto con ustedes?**
+
+Para cuestiones relacionadas con nuestra política de privacidad, decidir si recibir o no comunicados promocionales, actualizar o modificar información personal, o para realizar un pedidopuede contactar con cualquiera de nuestras Marcas por correo electrónico, teléfono o correo postal: 
+
+_Correo electrónico:_ [_custserv@gap.eu_](mailto:custserv@gap.eu)
 
 _Teléfono:_
 
-Llamada desde Reino Unido 0800 368 0674  
-Llamada internacional: haga clic [aquí](https://web.archive.org/customerService/info.do?cid=7886) para números de teléfono fuera del Reino Unido.
+Si llama desde Reino Unido 0800 368 0674   
+Si llama desde el extranjero: haga clic [aquí](https://web.archive.org/customerService/info.do?cid=2136) para números de teléfono fuera del Reino Unido. 
 
-_Correo_ :
+_Correo_ : 
 
 Gap EHQ   
-Freepost WD 3719  
+Freepost WD 3719   
 Castle Mound Way   
-Rugby, Warwickshire,  
+Rugby, Warwickshire,   
 CV23 0BR   
 Reino Unido 
-
-Si usted no recibe una respuesta o su consulta no es satisfactoriamente resuelta, puede entonces ponerse en contacto con la división internacional de la Asociación Americana de Arbitraje del Centro Internacional de Resolución de Conflictos (ICDR/AAA en sus siglas en inglés) en: http://go.adr.org/safeharbor. La ICDR/AAA servirá de enlace con las Empresas Gap para resolver sus preocupaciones.
-
-### Reclamaciones de clientes
-
-Si su consulta no es satisfactoriamente resuelta por custserv@gap.eu, tiene a su disposición la Plataforma Online de Resolución de Disputas en: http://ec.europa.eu/odr donde podrá ejercer las acciones pertinentes. 
-
-volver al principio
