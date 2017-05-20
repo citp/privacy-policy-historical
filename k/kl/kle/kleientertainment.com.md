@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kleientertainment.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222203637id_/http%3A//www.kleientertainment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kleientertainment.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520091826id_/https%3A//www.kleientertainment.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Klei Entertainment
+
+_Last Updated: Feb/14/2017_
 
 ### OUR COMMITMENT TO PRIVACY
 
@@ -74,8 +76,11 @@ We will take due care when destroying personal information so as to prevent unau
 
 ### OTHER INFORMATION
 
-We may collect non-personally identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. We collect this non-personally identifying information to better understand how our visitors use our site and our games. We may release aggregate non-personally identifying information from time to time, e.g., by publishing reports on trends in the usage of our site or games.  
+We may collect non-personally identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. We collect this non-personally identifying information to better understand how our visitors use our site and our games. We may release aggregate non-personally identifying information from time to time, e.g., by publishing reports on trends in the usage of our site or games.
+
 We also collect potentially personally-identifying information like Internet Protocol (IP) addresses for visitors that log into our site or a game. We only use and disclose logged-in user IP addresses under the same circumstances that we use and disclose personal information as described in this Privacy Policy.
+
+We collect metrics regarding your use of the game, including how long and how often you play the game. We use this information to help us troubleshoot problems with the game, to provide player rewards, and to improve the game and your gaming experience.
 
 ### E-MAIL COMMUNICATION
 
