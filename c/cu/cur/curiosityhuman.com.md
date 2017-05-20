@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the curiosityhuman.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233810id_/http%3A//curiosityhuman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curiosityhuman.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520210438id_/http%3A//curiosityhuman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[vc_row][vc_column][vc_column_text]Privacy Policy:
 
 CH Team operates curiosityhuman.com and may operate other websites. It is CH’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
@@ -31,5 +29,3 @@ The information that we received from <https://automattic.com/privacy/> to make 
 Contact us
 
 Any further queries and questions regarding policy please feel free to send us – http://curiosityhuman.com/contact-us/
-
-[/vc_column_text][/vc_column][/vc_row]
