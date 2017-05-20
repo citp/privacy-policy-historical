@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contractwarsgame.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120185402id_/http%3A//www.contractwarsgame.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contractwarsgame.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520213631id_/http%3A//contractwarsgame.com/privacy.html) for the most accurate reproduction.*
 
 # Contract Wars - бесплатный f2p шутер от первого лица
 
