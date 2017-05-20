@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the jackandjilltravel.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109080743id_/http%3A//jackandjilltravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackandjilltravel.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521003617id_/http%3A//jackandjilltravel.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Jack and Jill Travel
+# Privacy Policy
 
 The privacy of our visitors to is important to us.
 
 We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit our site, and how we safeguard your information. We never sell your personal information to third parties.
 
- **Email Address**  
+**Email Address**  
 This is a free content site. We do not require any information from you (not even a user name or password). We do not sell any information from our site to any outside party. The only e-mail sent from our websites is in response to an inquiry that you may send us or as a result of joining our double opt-in e-mail list. If anything comes to your attention which could potentially be a violation of this policy, please let us know immediately so that we can investigate it and try to correct it.
 
- **Cookies and Web Beacons**  
+**Cookies and Web Beacons**  
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
 We also use third party advertisements to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
