@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegesimply.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119093535id_/http%3A//www.collegesimply.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegesimply.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520234401id_/http%3A//collegesimply.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CollegeSimply.com
 
