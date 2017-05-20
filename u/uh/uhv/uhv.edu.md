@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhv.edu privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119032525id_/http%3A//www.uhv.edu/about-uhv/privacy-and-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhv.edu privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520155449id_/http%3A//uhv.edu/about-uhv/privacy-and-policies) for the most accurate reproduction.*
 
 # Privacy and Policies - About UHV - University of Houston-Victoria
 
@@ -13,25 +13,3 @@ If you send us an electronic mail message with a question or comment that contai
 For site management functions, information is collected for analysis and statistical purposes. We do not report or use this information in any manner that would reveal personally identifiable information, and will not release it to any outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings.
 
 We use log analysis tools to create summary statistics, which are used for purposes such as assessing what information is of most interest, determining technical design specifications, and identifying system performance or problem areas.
-
-## UHV Web Policy
-
-Web Services at the University of Houston-Victoria (UHV) make every effort to ensure that all content hosted on UHV web servers is accessible, regardless of any disability.
-
-  * All web content must follow current UHV Web Policies and Guidelines.  
-NOTE: Due to the evolving nature of UHV, technology, and the World Wide Web, UHV Web Policies and Guidelines are subject to change.
-
-
-  * All questions and concerns about UHV Web Policies and Guidelines should email [WebRequest@UHV.edu](mailto:WebRequest@UHV.edu?subject=Questions%2FConcerns%20RE:%20UHV%20Web%20Policies%20And%20Guidelines&cc=WebServices@uhv.edu).
-
-
-
-UHV Web Policies and Guidelines are in compliance with the laws, regulations, policies, and standards as stated in the following documents:
-
-  * Section 508 Standards for Electronic and Information Technology. Particularly, [§ 1194.22 Web-based intranet and internet information and applications.](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards#22)
-  * Texas Dept. of Information Resources (DIR). [Texas EIR Accessibility statutes and rules](http://dir.texas.gov/View-Resources/Pages/Content.aspx?id=36).
-  * Texas Administrative Code (TAC) Chapter 206: State Websites.Particularly, [Subchapter C: Institution of Higher Education Websites](http://www.uhv.edu/it/Web_guidelines/TAC20670.aspx)
-  * Web Content Accessibility Guidelines ([WCAG](http://www.w3.org/WAI/intro/wcag))
-
-
-  *[WCAG]: Web Content Accessibility Guidelines
