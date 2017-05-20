@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xidax.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119103952id_/http%3A//www.xidax.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xidax.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520224259id_/http%3A//www.xidax.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
