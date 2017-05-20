@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partstree.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119093257id_/http%3A//www.partstree.com/resources/%3Fc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partstree.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520231329id_/http%3A//www.partstree.com/resources/%3Fc%3Dprivacy) for the most accurate reproduction.*
 
 # Lawn Mower Parts, Small Engine Parts & Much More! | PartsTree.com - Briggs, MTD, Toro, Cub Cadet, Husqvarna, Troy-bilt...
 
@@ -17,7 +17,7 @@ This notice applies to all information collected or submitted on the PartsTree.c
 >  Credit/Debit Card Information  
 > 
 
-On some pages, you can submit information about other people. For example, if you make an order and want to sent it to a different billing address, you will need to submit the recipient's address. In this circumstance, the types of information collected are:
+On some pages, you can submit information about other people. For example, if you make an order and want to send it to a different billing address, you will need to submit the recipient's address. In this circumstance, the types of information collected are:
 
 > Name  
 >  Address  
