@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devitrianto.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205173427id_/http%3A//www.devitrianto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devitrianto.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520153154id_/http%3A//www.devitrianto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Android APK Download
 
