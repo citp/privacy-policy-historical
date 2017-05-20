@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the picsart.com privacy policy that was archived on 2016-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160917162401id_/https%3A//picsart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picsart.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520065010id_/https%3A//picsart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PicsArt
+
+Last Updated October 16, 2015 
 
 This Privacy Policy describes how PicsArt, Inc. ( **"PicsArt"** , **"picsart"** , **"We"** , **"Us"** , or **"Our"** ) protects your privacy when you use PicsArt (the **"PicsArt Service"** ) which includes the Web site located at www.picsart.com (the **"Site"** ) and all PicsArt mobile phone applications except for our Kids apps ( **"Mobile"** ). The privacy policy that applies to our Kids app can be found [here.](https://web.archive.org/kids/privacy-policy)
 
@@ -85,5 +87,4 @@ We may change this Privacy Policy from time to time. If we make any changes to t
 
 ##  QUESTIONS 
 
-If you have any questions about this Privacy Policy, please visit our query page at [PicsArt troubleshooting.](https://web.archive.org/troubleshooting)   
-
+If you have any questions about this Privacy Policy, please visit our query page at [PicsArt troubleshooting.](https://web.archive.org/troubleshooting)
