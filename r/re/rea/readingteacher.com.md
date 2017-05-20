@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readingteacher.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218221742id_/http%3A//readingteacher.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingteacher.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521005428id_/http%3A//readingteacher.com/privacy) for the most accurate reproduction.*
 
 # ReadingTeacher.com - Teach beginning reading with systematic phonics
 
@@ -54,7 +54,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Your Consent**    
-By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our web site privacy policy.
 
 **Changes to our Privacy Policy**    
 If we decide to change our privacy policy, we will post those changes on this page.
