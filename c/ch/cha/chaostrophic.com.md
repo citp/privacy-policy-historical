@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chaostrophic.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231513id_/http%3A//www.chaostrophic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaostrophic.com privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520181116id_/http%3A//www.chaostrophic.com/privacy-policy) for the most accurate reproduction.*
 
 # Chaostrophic ⋆Privacy Policy
 
@@ -63,25 +63,6 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 **Third party links**
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**Google**
-
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users.  [Google support link](https://support.google.com/adwordspolicy/answer/1316548?hl=en).
-
-We use Google AdSense Advertising on our website.
-
-Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
-
-**We have implemented the following:**
-
-**•** Google Display Network Impression Reporting
-
-**•** Demographics and Interests Reporting
-
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
-
-Opting out:  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
 
 **California Online Privacy Protection Act**
 
