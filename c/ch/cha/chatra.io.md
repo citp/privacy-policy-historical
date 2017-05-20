@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatra.io privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512223113id_/https%3A//chatra.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatra.io privacy policy that was archived on 2017-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170520194104id_/https%3A//chatra.io/privacy-policy) for the most accurate reproduction.*
 
 # ··· Chatra Privacy Policy
 
@@ -81,6 +81,48 @@ Chatra is very concerned with safeguarding your information. The security of you
 ## International Transfer
 
 Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, chatra transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. 
+
+## Users outside of the U.S.
+
+**Important Information for Users Outside of the U.S. – Transfer of Data**
+
+WE PRIMARILY STORE DATA ABOUT YOU, INCLUDING PRIVATE INFORMATION, ON SERVERS LOCATED AND OPERATED WITHIN THE UNITED STATES. IF YOU RESIDE OUTSIDE OF THE UNITED STATES, IN ORDER TO PROVIDE AND OPERATE THE SERVICES, WE MAY SEND AND STORE YOUR PRIVATE INFORMATION (ALSO COMMONLY REFERRED TO AS PERSONAL DATA) OUTSIDE OF THE COUNTRY WHERE YOU RESIDE OR ARE LOCATED, TO THE UNITED STATES. THEREFORE, OUR COLLECTION AND USE OF YOUR PRIVATE INFORMATION IS SUBJECT TO THE UNITED STATES' LAWS RELATED TO PRIVACY AND USE OF PERSONAL DATA AND INFORMATION. THESE LAWS, INCLUDING WHAT IS DETERMINED TO BE "PERSONAL DATA AND/OR INFORMATION," ARE DIFFERENT AND MAY BE LESS PROTECTIVE THAN THOSE APPLICABLE TO YOU IN YOUR COUNTRY OF RESIDENCE. BY ACCEPTING THE TERMS OF THIS PRIVACY POLICY, YOU ACKNOWLEDGE, AGREE AND CONSENT TO (1) THE TRANSFER TO AND PROCESSING OF PRIVATE INFORMATION ON SERVERS LOCATED OUTSIDE OF THE COUNTRY WHERE YOU RESIDE, (2) OUR COLLECTION AND USE OF YOUR PRIVATE INFORMATION AS DESCRIBED HEREIN AND IN ACCORDANCE WITH THE LAWS OF THE UNITED STATES THAT MAY BE DIFFERENT AND MAY BE LESS PROTECTIVE THAN THOSE IN YOUR COUNTRY AND (3) THAT YOU ARE TAKING A RISK BY USING THE SERVICES. IF YOUR PERSONAL INFORMATION IS TRANSFERRED FROM THE EUROPEAN ECONOMIC AREA TO CHATRA LOCATED IN THE UNITED STATES, PLEASE SEE THE PRIVACY SHIELD SECTION BELOW. 
+
+## 
+
+EU-US Privacy Shield
+
+**Chatra's commitment to comply with the Privacy Shield Principles**
+
+Chatra is a participant in the Privacy Shield and has self-certified to the Privacy Shield framework. Chatra confirms it commitment to comply with the EU-US Privacy Shield as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Chatra has certified that it adheres to each of the Privacy Shield Principles: Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit www.privacyshield.gov. 
+
+**Accountability for onward transfers**
+
+Chatra's accountability for personal data that it receives under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, Chatra remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless Chatra proves that it is not responsible for the event giving rise to the damage. 
+
+**Right of access**
+
+You have a legal right to request the personal information about you held by us. On request, we will provide you with a copy of this information. You also have a right to correct, amend or delete such personal information where it is inaccurate or has been processed in violation of the Privacy Shield Principles. 
+
+**Resolution of disputes and complaint mechanism**
+
+In compliance with the Privacy Shield Principles, Chatra commits to resolve complaints about your privacy and our collection or use of your personal information. If European Union citizens have any queries related to the processing of your personal information under the Privacy Shield framework, we encourage you to contact us directly in the first instance at: info@chatra.io or Chatra Privacy, 76 S. Park St. San Francisco, CA 94107. 
+
+**Independent recourse mechanism**
+
+Chatra has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint. 
+
+**Binding arbitration**
+
+As further explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means. 
+
+**Enforcement**
+
+Chatra is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC). Disclosure of EU personal data to public authorities and law enforcement agencies Chatra may be required to share your personal information in response to lawful by public authorities, including to meet national security and law enforcement requirements. 
+
+## Do not track signals.
+
+You may have implemented a "do not track" signal through your browser. As there currently is no fixed standard for do not track signals, we currently do not respond to do not track signals from your web browser. 
 
 ## Links to Other Sites
 
