@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the water.org privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227165928id_/http%3A//water.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the water.org privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521132321id_/http%3A//water.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ Water.org is grateful for the donations that help us continue our valuable work.
 
 #### Registration Information:
 
-You are not required to provide any personal information on our website unless you choose to do so.  We do ask for personal information on our online donation pages to properly enable donation transaction processing. When you donate to Water.org online, you will provide us information about yourself, your firm or company, and your practices when you donate, you may choose register for certain services, or register for email newsletters and alerts.  When you choose to participate in various fundraising or awareness campaigns of Water.org, we may request additional information including, but not limited to, your name, an image or photograph, contact information, and narratives authored by you. By choosing to provide any of this information, you are explicitly granting Water.org permission to use any provided information for pubic use, posting, and consumption. If you have any questions regarding the security of your registration information, please [contact us](https://web.archive.org/contact/) or call (816) 877-8400 for more information.
+You are not required to provide any personal information on our website unless you choose to do so.  We do ask for personal information on our online donation pages to properly enable donation transaction processing. When you donate to Water.org online, you will provide us information about yourself, your firm or company, and your practices when you donate, you may choose register for certain services, or register for email newsletters and alerts.  When you choose to participate in various fundraising or awareness campaigns of Water.org, we may request additional information including, but not limited to, your name, an image or photograph, contact information, and narratives authored by you. By choosing to provide any of this information, you are explicitly granting Water.org permission to use any provided information for public use, posting, and consumption. If you have any questions regarding the security of your registration information, please [contact us](https://web.archive.org/contact/) or call (816) 877-8400 for more information.
 
 #### Email Information:
 
