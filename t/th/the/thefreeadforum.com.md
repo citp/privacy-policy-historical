@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefreeadforum.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015500id_/http%3A//www.thefreeadforum.com/classifieds/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefreeadforum.com privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522000303id_/http%3A//www.thefreeadforum.com/classifieds/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # Best Craigslist Alternative! Post Your Free Classified Ads
 
@@ -21,8 +21,8 @@ We are committed to conducting our business in accordance with these principles 
 
 ### Contact Us
 
-Need assistance? Have a question that isn't answered in our [help](http://www.thefreeadforum.com/classifieds/index.php?a=28&b=141) sections? You can contact support by visiting our [contact us](http://www.thefreeadforum.com/classifieds/index.php?a=28&b=136) page.
+Need assistance? Have a question that isn't answered in our [help](http://thefreeadforum.com/classifieds/index.php?a=28&b=141) sections? You can contact support by visiting our [contact us](http://thefreeadforum.com/classifieds/index.php?a=28&b=136) page.
 
-#### Copyright © 2016 The Free Ad Forum Classifieds. All Rights Reserved.
+#### Copyright © 2017 The Free Ad Forum Classifieds. All Rights Reserved.
 
-Use of this Web site constitutes acceptance of the [User Agreement](http://www.thefreeadforum.com/classifieds/index.php?a=28&b=140) and [Privacy Policy](http://www.thefreeadforum.com/classifieds/index.php?a=28&b=145). Designated trademarks and brands are the property of their respective owners.
+Use of this Web site constitutes acceptance of the [User Agreement](http://thefreeadforum.com/classifieds/index.php?a=28&b=140) and [Privacy Policy](http://thefreeadforum.com/classifieds/index.php?a=28&b=145). Designated trademarks and brands are the property of their respective owners.
