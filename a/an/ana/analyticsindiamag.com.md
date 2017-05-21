@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the analyticsindiamag.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120151028id_/http%3A//analyticsindiamag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analyticsindiamag.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521202658id_/http%3A//analyticsindiamag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Analytics India Magazine
 
-[vc_row][vc_column][vc_column_text]Analyticsindiamag.com (Analytics India Magazine) respects the privacy of its users and is committed to protect it in all respects.
+Analyticsindiamag.com (Analytics India Magazine) respects the privacy of its users and is committed to protect it in all respects.
 
 To avail subscription on our site, users are required to provide certain information for the registration process namely: – a) email address (All required information is Service Dependent). The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience.
 
@@ -20,4 +20,4 @@ However the internet is an ever evolving medium. We may change our privacy polic
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
 
-Any questions or clarifications with respect to this Policy can be sent to : Email: [info@Analyticsindiamag.com](mailto:info@Analyticsindiamag.com)[/vc_column_text][/vc_column][/vc_row] 
+Any questions or clarifications with respect to this Policy can be sent to : Email: [info@Analyticsindiamag.com](mailto:info@Analyticsindiamag.com)
