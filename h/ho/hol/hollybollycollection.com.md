@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hollybollycollection.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118230642id_/http%3A//www.hollybollycollection.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollybollycollection.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521105744id_/http%3A//www.hollybollycollection.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HollyBollyCollection
-
-[ ](http://bit.ly/Watch---Now)         [ ](http://bit.ly/Download--Now)
 
 At www.hollybollycollection.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.hollybollycollection.com and how we use it.
 
@@ -42,5 +40,3 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 **Update**  
 This Privacy Policy was last updated on: Sunday, July 17th, 2016.  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
-
-[ ](http://bit.ly/Watch---Now)            [ ](http://bit.ly/Download--Now)
