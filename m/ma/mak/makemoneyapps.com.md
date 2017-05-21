@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the makemoneyapps.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411001844id_/http%3A//www.incomenation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemoneyapps.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521075014id_/http%3A//www.thebillionaire.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Income Nation
+# Privacy Policy - THEBILLIONAIRE
 
 Last updated: March 4, 2013
 
-This Privacy Policy applies to incomenation.com (“Website”), which is operated by Tricraft LLC (its subsidiary and affiliate corporations, successors, and assigns collectively referred to as “Tricraft”).  Throughout this Privacy Policy (“Policy”) the words “we,” “us,” and “our” refer to Tricraft and its corporate affiliates. By accessing or using this Website or by registering as a member of this Website, you consent to the use of your Personal Data (defined below) as described in this Policy. This Policy applies to all users of the Website, including users who are also registered members. If you are unwilling to consent to our collection and use of your Personal Data as described in this Policy or to accept the terms in the Terms of Use that apply to use of the Website, you should not use the Website. We may revise this Policy at any time by updating the Website.
+This Privacy Policy applies to thebillionaire.com (“Website”), which is operated by Tricraft LLC (its subsidiary and affiliate corporations, successors, and assigns collectively referred to as “Tricraft”).  Throughout this Privacy Policy (“Policy”) the words “we,” “us,” and “our” refer to Tricraft and its corporate affiliates. By accessing or using this Website or by registering as a member of this Website, you consent to the use of your Personal Data (defined below) as described in this Policy. This Policy applies to all users of the Website, including users who are also registered members. If you are unwilling to consent to our collection and use of your Personal Data as described in this Policy or to accept the terms in the Terms of Use that apply to use of the Website, you should not use the Website. We may revise this Policy at any time by updating the Website.
 
 At Tricraft, the privacy of our visitors is of extreme importance to us. This Privacy Policy document outlines the types of personal information is received and collected by Tricraft and how it is used.
 
@@ -63,8 +63,6 @@ Consistent with the Children’s Online Privacy Protection Act:
 •           In the event that a child under the age of 13 attempts to register on our site, we will NOT accept the registration and will delete information received from the child.
 
 •           In the event that a child posts personal information in a public forum such as a chat room, we will attempt to delete that information once we become aware of it.
-
-Check out the FTC’s site <http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html> for tips on protecting children’s privacy online.
 
 **General Information**
 
