@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realitysportsonline.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122054557id_/http%3A//realitysportsonline.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realitysportsonline.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521115101id_/http%3A//realitysportsonline.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
