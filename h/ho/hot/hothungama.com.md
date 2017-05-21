@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hothungama.com privacy policy that was archived on 2016-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160925021724id_/http%3A//www.hothungama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hothungama.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521131841id_/http%3A//www.hothungama.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hothungama - Latest News and Updates
 
