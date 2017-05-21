@@ -1,75 +1,92 @@
-> *The following text is extracted and transformed from the timeofgist.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611231839id_/http%3A//timeofgist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeofgist.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521111917id_/http%3A//timeofgist.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Gist & Entertainment News-Latest Update in Nigeria | timeofgist.com
+# Privacy Policy | Timeofgist.com
 
-[](http://timeofgist.com/wp-content/uploads/2014/10/banner_privacy_policy-1.jpg)
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-This Privacy Policy governs the manner in which Time Of Gist collects, uses, maintains and discloses information collected from users (each, a “User”) of the [timeofgist.com](http://localhost/Time%20of%20gist/timeofgist.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Time Of Gist.
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-**Personal identification information**
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, phone number or other details to help you with your experience.
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+**When do we collect information?**
 
-**Non-personal identification information**
+We collect information from you when you subscribe to a newsletter, fill out a form or enter information on our site.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+**How do we use your information?**
 
-**Web browser cookies**
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+**•** To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-**How we use collected information**
+**•** To improve our website in order to better serve you.
 
-Time Of Gist may collect and use Users personal information for the following purposes:
+**•** To allow us to better service you in responding to your customer service requests.
 
-  * _– To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _– To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _– To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  * _– To send periodic emails_  
-We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+**•** To administer a contest, promotion, survey or other site feature.
 
+**How do we protect visitor information?**
 
+We do not use vulnerability scanning and/or scanning to PCI standards.
 
-**How we protect your information**
+We do not use an SSL certificate
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+**•** We only provide articles and information, and we never ask for personal or private information
 
-**Sharing your personal information**
+**Do we use ‘cookies’?**
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+We do not use cookies for tracking purposes
 
-**Third party websites**
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+If you disable cookies off, some features will be disabled that make your site experience more efficient and some of our services will not function properly.
 
-**Advertising**
+However, you can still place orders .
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+**Third Party Disclosure**
 
-**Google Adsense**
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Changes to this privacy policy**
+**Third party links**
 
-Time Of Gist has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**Your acceptance of these terms**
+**Google**
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
-**Contacting us**
+We use Google AdSense Advertising on our website.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Time Of Gist](http://localhost/Time%20of%20gist/timeofgist.com)  
-[timeofgist.com](http://localhost/Time%20of%20gist/timeofgist.com)  
-EKO Island, Lagos State, Nigeria  
-+2347089907023  
-support@timeofgist.com
+Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-This document was last updated on September 25, 2014
+**We have implemented the following:**
 
-(Visited 355 times, 2 visits today)
+**•** Remarketing with Google AdSense
+
+**•** Google Display Network Impression Reporting
+
+**•** Demographics and Interests Reporting
+
+**•** DoubleClick Platform Integration
+
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
+
+Opting out:  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+
+**COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+We do not specifically market to children under 13.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+Timeofgist Media  
+Yaba, Lagos State, Nigeria
+
+Email: timeofgist(@)gmail.com  
+Phone No: +2347084474739
