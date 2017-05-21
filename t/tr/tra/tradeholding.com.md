@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradeholding.com privacy policy that was archived on 2016-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160903080104id_/http%3A//www.tradeholding.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeholding.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521194043id_/http%3A//www.tradeholding.com/privacypolicy.html) for the most accurate reproduction.*
 
 # TradeHolding.com - International B2B Network
 
