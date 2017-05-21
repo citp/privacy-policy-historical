@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the towerhobbies.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026082519id_/http%3A//towerhobbies.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the towerhobbies.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521202729id_/http%3A//towerhobbies.com/help/privacy.html) for the most accurate reproduction.*
 
 # Tower Hobbies - Privacy
 
@@ -11,9 +11,12 @@ When magazine subscriptions are purchased or free magazines are requested as a b
 We use your IP address to help diagnose problems with our server, administer our Web site and to provide security. Our site uses "cookies" to keep track of your shopping cart contents. 
 
   * Email addresses are collected only for the purpose of contacting you in the future. We WILL NOT sell or rent your email address to other companies or individuals. We may use third-party data processors to process email addresses.
-  * Whenever sensitive personal or financial information is transmitted, it is sent via a secured connection directly to our mainframe computer using secure sockets layer (SSL) technology. This is the most successfully used method of ensuring private, [secure transmission](https://web.archive.org/web/20151026082519id_/http%3A//towerhobbies.com/help/security.html) of personal information over the Internet. 
+  * Whenever sensitive personal or financial information is transmitted, it is sent via a secured connection directly to our mainframe computer using secure sockets layer (SSL) technology. This is the most successfully used method of ensuring private, [secure transmission](https://web.archive.org/web/20170521202729id_/http%3A//towerhobbies.com/help/security.html) of personal information over the Internet. 
   * We do not respond to "do not track" signals or other similar mechanisms.
   * When you use our web site, other parties may receive personal information relating to your online activities.
+  * Third party vendors, including Google, use cookies to serve ads based on your prior visits to our website.
+  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to our sites and/or other sites on the Internet.
+  * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
   * We do not collect the personal information for children under the age of 13. We are prohibited from conditioning a child's participation in an activity on the child disclosing more personal information than is reasonably necessary. In cases where we have inadvertently collected personal information of a child, the parent can always review this information, choose to have this information deleted from our records and refuse to permit further collection or use of this information.
   * We do occasionally share portions of our customer postal mailing list with trusted and approved high-quality companies. We choose these companies on a very high standard and will only allow postal mailings for offers which we feel you may be interested in. _We never sell or rent email addresses, phone numbers or financial information_. 
   * In some cases products are drop-shipped directly from the manufacturer. We share only the information the manufacturer needs to fulfill the order and contact the customer.
