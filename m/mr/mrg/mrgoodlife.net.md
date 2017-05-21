@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mrgoodlife.net privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405121218id_/http%3A//www.mrgoodlife.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrgoodlife.net privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521115104id_/http%3A//www.mrgoodlife.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MR. GOODLIFE
+# Privacy Policy | MR.GOODLIFE - Your Online Magazine for the Goodlife
 
 This Privacy Policy covers our treatment of personal information that MR.GOODLIFE LLC gathers when you are on our websites and when you are using MR.GOODLIFE LLC services. Also, this Privacy Policy covers MR.GOODLIFE LLC ’s treatment of any personal information that MR.GOODLIFE LLC’s business partners share with us. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to and from the website as well as the practices of third parties that MR.GOODLIFE LLC does not control or own, or individuals thatMR.GOODLIFE LLC does not employ or manage.
 
@@ -57,4 +57,6 @@ We may amend this Privacy Policy from time to time, and the amended version will
 
 11\. Contact
 
-Any inquiries about your rights under this Privacy Policy, or any other matters regarding your privacy, can be directed to info@mrgoodlife.net
+Any inquiries about your rights under this Privacy Policy, or any other matters regarding your privacy, can be directed to info(@)mrgoodlife.net
+
+* 
