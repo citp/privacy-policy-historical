@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pluspremieres.us privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405185351id_/http%3A//www.pluspremieres.us/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluspremieres.us privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521193551id_/http%3A//www1.pluspremieres.us/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Plus Premieres
 
-This Privacy Policy governs the manner in which Plus Premieres collects, uses, maintains and discloses information collected from users of http://www.pluspremieres.us. This privacy policy applies to the site and all products and services offered by Plus Premieres.
+This Privacy Policy governs the manner in which Plus Premieres collects, uses, maintains and discloses information collected from users of http://www.pluspremieres.ca. This privacy policy applies to the site and all products and services offered by Plus Premieres.
 
 Personal identification information
 
@@ -61,6 +61,6 @@ By using this site, you signify your acceptance of this policy. If you do not ag
 
 Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [contact@pluspremieres.us](mailto:contact@pluspremieres.us) or by submitting a message on our [contact page](http://www.pluspremieres.us/p/contact.html).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [contact@pluspremieres.de](mailto:contact@pluspremieres.de) or by submitting a message on our [contact page](https://web.archive.org/p/contact.html).
 
 This document was last updated on December 1, 2015 
