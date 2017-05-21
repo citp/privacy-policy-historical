@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cssdeck.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231928id_/http%3A//cssdeck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssdeck.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521113002id_/http%3A//cssdeck.com/privacy) for the most accurate reproduction.*
 
 # None
 
