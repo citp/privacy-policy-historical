@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the commerce.gov privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210072555id_/https%3A//www.commerce.gov/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commerce.gov privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521140658id_/https%3A//www.commerce.gov/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Department of Commerce
+
+_Visit  [www.commerce.gov/privacy](http://www.osec.doc.gov/opog/privacy/default.html) for more information on the Department of Commerce's Privacy Office and its policies, resources, and reports._
 
 Thank you for visiting the Department of Commerce Web site, a service of the U.S. Department of Commerce. This policy establishes how we will handle information we learn about you from your visit to our site. Please be assured that the privacy of our visitors is of utmost importance to us.  **We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us.**
 
@@ -68,10 +70,10 @@ Before collecting personally identifiable information, we will prominently discl
 
 For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage to the information on our Web sites. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
-Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with [National Archives and Records Administration General Schedule 20](http://www.archives.gov/records-mgmt/grs/grs20.html).
+Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with the following National Archives and Records Administration General Records Schedules: [GRS 3.1 (General Technology Management Records)](https://www.archives.gov/files/records-mgmt/grs/grs03-1.pdf), [GRS 3.2 (Information Systems Security Records)](https://www.archives.gov/files/records-mgmt/grs/grs03-2.pdf), and [GRS 4.3 (Input Records, Output Records, and Electronic Copies)](https://www.archives.gov/files/records-mgmt/grs/grs04-3.pdf).
 
 The Office of the Secretary may share information received from its Web sites with other Federal agencies. For example, if a breach of our IT security protections were to occur, the information collected by our servers and staff could be shared with appropriate law enforcement and Homeland Security officials.
 
 **Department of Commerce Endorsement Policy:**  links to web sites outside the U.S. Federal Government or the use of trade, firm, or corporation names within the Department of Commerce web sites are for the convenience of the user. Such use does not constitute an official endorsement or approval by the U.S. Commerce Department of any private sector website, product, or service.
 
-**Dispute Resolution:**  If for some reason you believe this site has not adhered to these principles, please notify the U.S Department of Commerce, Office of the CIO by e-mail at [webmaster@doc.gov](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=webmaster@doc.gov). If our Web pages are not fully in compliance with our stated policies, they will be corrected.
+**Dispute Resolution:**  If for some reason you believe this site has not adhered to these principles, please notify the U.S Department of Commerce, Office of the CIO by e-mail at [webmaster@doc.gov](mailto:webmaster@doc.gov). If our Web pages are not fully in compliance with our stated policies, they will be corrected.
