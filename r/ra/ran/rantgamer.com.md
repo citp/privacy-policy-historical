@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the rantgamer.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128201515id_/http%3A//www.rantgamer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rantgamer.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521085342id_/http%3A//www.rantnow.com/privacy-policy) for the most accurate reproduction.*
 
 # – Privacy Policy
 
 PRIVACY POLICY  
-Rant, Inc. (“Rant,” “we,” “us,” or “our”) knows that you care about how your personal information is used and shared, and we take your privacy very seriously. This Privacy Policy addresses Rant’s practices regarding information collected from visitors of [RantGamer](https://web.archive.org/). The website is hereinafter referred to as the “Site”.  
+Rant, Inc. (“Rant,” “we,” “us,” or “our”) knows that you care about how your personal information is used and shared, and we take your privacy very seriously. This Privacy Policy addresses Rant’s practices regarding information collected from visitors of RantNOW. The website is hereinafter referred to as the “Site”.  
 This Privacy Policy only addresses information collected directly through or from the Site – it does not address or govern any information-gathering, use, or dissemination practices related to information collected from you (sometimes referred to as a “visitor,” “user,” “you,” or “your”) other than directly through or from the Site, such as from telephone, facsimile, postal mail, personal delivery, or other or additional offline means or media.  
 This Privacy Policy is incorporated into Rant’s [Terms of Service](https://web.archive.org/terms-of-service/), which must be reviewed and accepted by you as a condition of use of the Site. The Site is not intended for children under the age of 18. It does not knowingly collect personal information online from visitors in this age group, and will delete information from a person in that age group as quickly as possible upon receipt of notice that such information has been collected.  
-If you have any questions concerning this Privacy Policy, please contact Rant by email to info@rantmn.com, by telephone at 949-464-4020, or by mail to Rant, Inc., 668 N. Coast Hwy, #1318, Laguna Beach, CA 92651.  
+If you have any questions concerning this Privacy Policy, please contact Rant by email to info@rantmn.com, by telephone at 949-464-4020, or by mail to Rant, Inc., 4 Park Plaza, Suite 950, Irvine, CA 92614.  
 1\. COLLECTION OF INFORMATION  
 We only collect personal information that is relevant to the purpose of the Site. This information allows us to provide you with a customized and efficient experience. We receive and store any information you submit to us through our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.  
 We receive and store certain types of information whenever you interact with us. Rant and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, cookie information, and the page you requested. Rant uses this information to help diagnose problems with its servers, analyze trends and administer the website. Rant may also collect and display the total counts that page has been viewed. Many companies offer programs that help you to visit websites anonymously. While Rant will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.  
@@ -30,9 +30,9 @@ Rant may amend this Privacy Policy from time to time, at its sole discretion. Us
 California Civil Code Section 1798.83 (also known as the “Shine The Light” law) permits users who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third-parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third-parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request by email or post to:  
 Email: info@rantmn.com  
 Post: Rant, Inc.  
-668 N. Coast Hwy  
-#1318  
-Laguna Beach, CA 92651
+4 Park Plaza  
+Suite 950  
+Irvine, CA 92614
 
-Last Updated: September 30, 2014  
-Copyright © 2014 Rant, Inc.; All rights reserved.
+Last Updated: July 21, 2015  
+Copyright © 2015 Rant, Inc.; All rights reserved.
