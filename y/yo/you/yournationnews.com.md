@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yournationnews.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218001033id_/http%3A//yournationnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yournationnews.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521122954id_/http%3A//yournationnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,9 +12,9 @@ KOM LLC, (KOM LLC), is committed to keeping any and all personal information col
 
 This website collects various types of information, such as:
 
-·
+Â·
 
-· Information automatically collected when visiting our website, which may include cookies, third party tracking technologies and server logs. 
+Â· Information automatically collected when visiting our website, which may include cookies, third party tracking technologies and server logs. 
 
 Please rest assured that this site shall only collect personal information that you knowingly and willingly provide by way of surveys, completed membership forms, and emails. It is the intent of this site to use personal information only for the purpose for which it was requested and any additional uses specifically provided on this site. 
 
