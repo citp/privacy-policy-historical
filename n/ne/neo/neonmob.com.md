@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neonmob.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806104933id_/https%3A//www.neonmob.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neonmob.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521230941id_/https%3A//www.neonmob.com/about/privacy) for the most accurate reproduction.*
 
 # NeonMob - Privacy Policy
 
