@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cheershopping.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212073706id_/http%3A//www.cheershopping.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheershopping.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521214638id_/http%3A//www.cheershopping.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | CheerShopping.com
-
-## Privacy Policy
 
 This Privacy Policy commits to protecting your privacy online. Please read the following points of Privacy Policy carefully, as by accessing or using our website, you acknowledge that you have read, understand, and agree to be bound to all the terms of this Privacy Policy and our website terms of use. 
 
