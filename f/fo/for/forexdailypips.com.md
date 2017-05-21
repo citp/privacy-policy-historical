@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexdailypips.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222041928id_/http%3A//forexdailypips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexdailypips.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521104247id_/http%3A//forexdailypips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — ForexDailyPips.com
 
@@ -46,4 +46,4 @@ if you have previously agreed to us using your personal information for direct m
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please write tosupport@forexdailypips.com
+You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please write to support@forexdailypips.com
