@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apnic.net privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325065609id_/https%3A//www.apnic.net/apnic-info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnic.net privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521091226id_/https%3A//www.apnic.net/about-apnic/corporate-documents/documents/corporate/privacy) for the most accurate reproduction.*
 
-# APNIC Privacy Statement | APNIC
+# APNIC Privacy Statement – APNIC
 
   * 1\. Introduction
   * 2\. How your personal information is collected and used
@@ -25,12 +25,12 @@ The APNIC Secretariat respects your privacy and is committed to protecting the p
 
 Personal information means information or an opinion about an identified individual, or an individual who is reasonably identifiable:
 
-  * whether the information or opinion is true or not; and 
+  * whether the information or opinion is true or not; and
   * whether the information or opinion is recorded in a material form or not.
 
 
 
-As the Regional Internet Registry (RIR) in the Asia Pacific region, APNIC distributes "Internet resources" comprising Internet protocol (IP) addresses such as IPv4 and IPv6 addresses and Autonomous System Numbers (ASNs). In so doing, the APNIC Secretariat collects personal information that is necessary to support its role as the RIR for the Asia Pacific region.
+As the Regional Internet Registry (RIR) in the Asia Pacific region, APNIC distributes “Internet resources” comprising Internet protocol (IP) addresses such as IPv4 and IPv6 addresses and Autonomous System Numbers (ASNs). In so doing, the APNIC Secretariat collects personal information that is necessary to support its role as the RIR for the Asia Pacific region.
 
 APNIC works to ensure that all information it holds is accurate, complete, and up-to-date.
 
@@ -67,7 +67,7 @@ The APNIC Secretariat uses this information to evaluate resource requests and ad
 
 Some of the personal information you provide may be publicly registered in the APNIC Whois Database. This is limited to contact details relating to the allocation of specific public Internet resources.
 
-Please note that in relation to these network contact details, the APNIC Whois Database allows organizations to register "role objects" in place of personal details.
+Please note that in relation to these network contact details, the APNIC Whois Database allows organizations to register “role objects” in place of personal details.
 
 Also, APNIC policies allow for resource holders to choose whether their assignment details should be publicly visible.
 
@@ -85,11 +85,13 @@ Top
 
 ### 2.3. Data used for conferences, meetings, training, and communication activities
 
-In order to administer conferences, meetings, training sessions, and public discussion lists, it is necessary for the APNIC Secretariat to use registration forms and voluntary subscription procedures to collect the required information.
+In order to administer conferences, meetings, training sessions, and communication activities such as public discussion lists, it is necessary for the APNIC Secretariat to use registration forms and voluntary subscription procedures to collect information.
 
 The information gathered by registration forms is used to help plan and conduct public conferences, meetings, and training sessions. The APNIC Secretariat archives registration details to help plan future events and develop services.
 
 The information gathered by subscription procedures is used only in the mailing lists you specify and may be visible to other list members. The APNIC Secretariat provides simple online tools to allow you to manage your own subscription status on mailing lists.
+
+We may collect non-personal information about your computer and your visits to APNIC websites such as your IP address, geographical location, browser type, referral source, length of visit and number of page views. We may use this information in the administration of this website, to improve the website’s usability, and for communication purposes. We may also use that information to recognize your computer when you visit our website, and to personalize our website for you.
 
 Certain events such as APNIC Conferences require photography and videography and such media may be used in APNIC publications, on the APNIC website, or on social media platforms. APNIC takes all care to inform event attendees that photography and videography make take place.
 
@@ -97,7 +99,7 @@ Top
 
 ### 2.4. Data used for APNIC measurements and Ad serving
 
-APNIC uses online advertisements to measure aspects of the Internet's infrastructure and support for new technologies, such as the deployment of IPv6 or the support of DNSSEC. APNIC does not collect personal information in such advertisements placed by APNIC. For more information about APNIC's practices for APNIC measurements and Ad serving, please see:
+APNIC uses online advertisements to measure aspects of the Internet’s infrastructure and support for new technologies, such as the deployment of IPv6 or the support of DNSSEC. APNIC does not collect personal information in such advertisements placed by APNIC. For more information about APNIC’s practices for APNIC measurements and Ad serving, please see:
 
 <http://labs.apnic.net/privacy.shtml>
 
@@ -151,13 +153,13 @@ You may modify any information you have used in a web-based form at any time. Yo
 
 If you have subscribed to any APNIC mailing lists, you are able to unsubscribe yourself at any time.
 
-If you have concerns about the accuracy or appropriateness of any other personal information held by the APNIC Secretariat, please [contact us](https://www.apnic.net/about-APNIC/organization/contact-APNIC). The APNIC Secretariat will seek to correct any problems as soon as possible.
+If you have concerns about the accuracy or appropriateness of any other personal information held by the APNIC Secretariat, please [contact us](https://web.archive.org/about-apnic/organization/contact-APNIC/). The APNIC Secretariat will seek to correct any problems as soon as possible.
 
 Top
 
 ## 6\. Complaints
 
-If you believe that APNIC has breached any Australian Privacy Principle, you may make a complaint to APNIC by emailing [helpdesk@apnic.net](mailto:helpdesk@apnic.net), or in writing to:
+If you believe that APNIC has breached any Australian Privacy Principle, you may make a complaint to APNIC by emailing [](https://web.archive.org/), or in writing to:
 
 APNIC  
 PO Box 3646  
@@ -177,8 +179,6 @@ Top
 
 ## 8\. Questions or suggestions
 
-If you have questions or concerns about the issues discussed, please [contact us](https://www.apnic.net/about-APNIC/organization/contact-APNIC) via the contact details listed in section 6.
-
-Top
+If you have questions or concerns about the issues discussed, please [contact us](https://web.archive.org/about-apnic/organization/contact-APNIC/) via the contact details listed in section 6.
 
 Top
