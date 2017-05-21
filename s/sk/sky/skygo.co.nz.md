@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skygo.co.nz privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604153712id_/http%3A//www.skytv.co.nz/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skygo.co.nz privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521121330id_/http%3A//www.skytv.co.nz/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | SKY
 
