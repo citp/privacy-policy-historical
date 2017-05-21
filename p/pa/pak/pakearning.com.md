@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pakearning.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127002109id_/http%3A//www.pakearning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakearning.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521050515id_/http%3A//www.pakearning.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Online Earning, SEO, Blogging and Affiliate Marketing Courses
+# Privacy Policy | Blogging, SEO and Affiliate Marketing
 
 **Pakearning.com Privacy Policy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
