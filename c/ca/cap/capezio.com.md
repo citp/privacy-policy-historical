@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the capezio.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226062105id_/http%3A//www.capezio.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capezio.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521125800id_/http%3A//www.capezio.com/support/privacy-policy) for the most accurate reproduction.*
 
-# Capezio® Privacy Policy
+# Privacy Policy Capezio®
 
 Capezio wants to assure you that your privacy is safe at Capezio.com.
 
