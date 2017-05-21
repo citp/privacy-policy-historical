@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the backpage.ca privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627031830id_/http%3A//alberta.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpage.ca privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521142213id_/http%3A//www.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
 
-# Alberta classifieds for apts, jobs, and items for sale - backpage.com
+# backpage.com
 
 **Privacy Policy  
-Last Revised: _June 1, 2015_**
+Last Revised: _September 26, 2016_**
 
 backpage.com and its affiliates (collectively, the “Site”) respect your privacy. Here is our Privacy Policy for this Site:
 
@@ -17,14 +17,14 @@ We collect personal information about you whenever you engage in commerce transa
 
 We may use the information we collect to: 
 
-  *      Provide superior services; 
-  *      Keep you apprised of information and developments that you may find of interest; 
-  *      Alert you to new features, terms, content, products or services; 
-  *      Contact you regarding your posts, replies, and/or account information; 
-  *      Process and respond to your inquires; 
-  *      Improve the Site; 
-  *      Administer, monitor and control use of the Site, including posts, replies, and account information; and 
-  *      Enforce the [Terms of Use](https://web.archive.org/en-ca/online/TermsOfUse) (collectively, the “Activities”).
+  * Provide superior services; 
+  * Keep you apprised of information and developments that you may find of interest; 
+  * Alert you to new features, terms, content, products or services; 
+  * Contact you regarding your posts, replies, and/or account information; 
+  * Process and respond to your inquires; 
+  * Improve the Site; 
+  * Administer, monitor and control use of the Site, including posts, replies, and account information; and 
+  * Enforce the [Terms of Use](https://web.archive.org/en-us/online/TermsOfUse) (collectively, the “Activities”).
 
 
 
@@ -33,6 +33,8 @@ You authorize the Site to transmit email to you to respond to your communication
  **Disclosure of Personal Information to Third Parties**
 
 We may disclose your personal information to agents and operators under confidentiality or similar agreements, including shippers, vendors, payment processors, and advertisers, who we believe reasonably need to come into contact with that information: (i) to provide products or services to you; (ii) to administer our business or the Site, including fulfilling and shipping orders; (iii) to provide customer service; (iv) to update account information; (v) to forward updates, announcements, and newsletters; (vi) to respond to your communications, and communicate with you about the Site and other activities related to the Site; (vii) in the event of any reorganization, merger, sale, joint venture, assignment, transfer or disposition of all or any portion of the Site’s business or operations (including without limitation in connection with bankruptcy or any similar proceedings); or (viii) as otherwise authorized by you. 
+
+We integrate third party software which collects information about users for security purposes. Information collected by reCAPTCHA is held in accordance with the Google Privacy Policy.
 
 **Disclosure in Other Circumstances**
 
@@ -56,17 +58,21 @@ From time to time, we may send you information with announcements and updates ab
 
 If your personal information changes, you may review/correct/update your personal information previously provided at any time by sending us an email at [support@backpage.com](mailto:support@backpage.com). You may also have your personal profile data deleted from our database by sending us an email to [support@backpage.com](mailto:support@backpage.com). However, if you have your personal profile data deleted from our database, you may forfeit entrance rights to areas restricted to account members and certain benefits for account members.
 
- **Contact Us:**
+**Notice of Privacy Rights of California Residents**
+
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. Under the law, a business must either provide this information or permit California residents to opt in to, or opt out of, this type of sharing. We qualify for this alternative option. To opt out of having information about you shared with third parties for direct marketing purposes, please contact us at [support@backpage.com](mailto:support@backpage.com).  
+****
+
+**Contact Us:**
 
 Email: [Contact us](http://posting.www.backpage.com/classifieds/Contact)   
-Telephone: +44 1929290057
+Telephone: +44 1929290057  
 
-Postal Address:   
-International Correspondence:   
-Payment Solutions BV.  
-Keizersgracht 127  
-1015 CJ Amsterdam  
-The Netherlands
+
+Mailing Address:  
+Post Sol.  
+PO Box 802426  
+Dallas, TX USA 75380-2426
 
 **Children**
 
