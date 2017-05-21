@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enkord.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119021032id_/http%3A//www.enkord.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enkord.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521041131id_/http%3A//www.enkord.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Enkord
 
