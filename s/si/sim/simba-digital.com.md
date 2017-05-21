@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simba-digital.com privacy policy that was archived on 2016-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160916160334id_/http%3A//www.simba-digital.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simba-digital.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521164313id_/http%3A//simba-digital.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Simba
 
