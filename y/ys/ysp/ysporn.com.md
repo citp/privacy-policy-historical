@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ysporn.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120195747id_/http%3A//www.ysporn.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ysporn.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521051107id_/http%3A//www.ysporn.com/static/privacy) for the most accurate reproduction.*
 
-# World Star Porn | World Star XXX | Free Black Amateur Porn of Black Girls Having Sex
+# WorldStar XXX | WorldStar Porn | Free Black Amateur Girls Having Sex
 
 **PRIVACY POLICY**
 
