@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the headlinepolitics.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207040650id_/http%3A//www.headlinepolitics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headlinepolitics.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521095802id_/http%3A//www.headlinepolitics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Headline Politics
 
 **Intermarkets, Inc. Privacy Policy**
 
-Revised: May 7, 2015
+Revised: June 14, 2016
 
 Intermarkets, Inc. (“Intermarkets”, “we”, “our” or “us”) is an online advertising management services firm that offers advertisers opportunities to display their interactive ads on our website, http://stage.headlinepolitics.com.php53-18.ord1-1.websitetestlink.com (our “Website” or “Site”). Our Website delivers political news and provides opportunities to participate in polls, among other items.
 
@@ -12,7 +12,7 @@ Your privacy is important to us, and we are committed to protecting the personal
 
 By using the Site, you consent to this Privacy Policy. This Privacy Policy does not apply to the practices of third parties that Intermarkets does not own, control, manage, or employ.
 
-Intermarkets uses ADTECH as its ad server. ADTECH’s privacy policy can be found [here](http://www.adtech.com/en/bottomnavigation/privacy-policy.html).  
+Intermarkets uses OpenX as its ad server. OpenX ’s privacy policy can be found [here](http://openx.com/legal/privacypolicy/).  
 We are committed to following the National Advertising Initiative’s (NAI) privacy principles.
 
 Information We Collect through the Site
