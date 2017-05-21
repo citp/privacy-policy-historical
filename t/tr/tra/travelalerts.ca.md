@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelalerts.ca privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230050526id_/http%3A//www.travelalerts.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelalerts.ca privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521183336id_/http%3A//www.travelalerts.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Travelalerts
 
