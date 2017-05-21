@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the play2learnwithsarah.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105011401id_/http%3A//lifeloveandthyme.com/gourmet-ads-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play2learnwithsarah.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521150841id_/http%3A//lifeloveandthyme.com/gourmet-ads-privacy-policy) for the most accurate reproduction.*
 
 # Gourmet Ads Privacy Policy - Life, Love and Thyme
 
