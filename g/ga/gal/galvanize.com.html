@@ -1,510 +1,373 @@
-<!--The following is the downloaded HTML source of the galvanize.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119081238id_/http%3A//www.galvanize.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the galvanize.com privacy policy that was archived on 2017-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170521170712id_/http%3A//www.galvanize.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-		<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script src="https://js-agent.newrelic.com/nr-974.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NRH7D9"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script src="//cdn.optimizely.com/js/2974420093.js"></script>
-		<meta charset="utf-8">
-    	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(u(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(2),u=t(3),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],p="api-",l=p+"ixn-";a(s,function(t,e){f[e]=o(p+e,!0,"api")}),f.addPageAction=o(p+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],2:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],3:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?u(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var s=f[m[n]];return s&&s.push([w,n,r,i]),i}function p(t,e){g[t]=l(t).concat(e)}function l(t){return g[t]||[]}function d(t){return s[t]=s[t]||o(n)}function v(t,e){c(t,function(t,n){e=e||"feature",m[n]=e,e in f||(f[e]=[])})}var g={},m={},w={on:p,emit:n,get:d,listeners:l,context:e,buffer:v};return w}function i(){return new r}var a="nr@context",u=t("gos"),c=t(2),f={},s={},p=e.exports=o();p.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!h++){var t=y.info=NREUM.info,e=s.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(m,function(e,n){t[e]||(t[e]=n)});var n="https"===g.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=t("handle"),c=t(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-974.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
-	    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<!DOCTYPE html><html><head>
+        <title>Galvanize | Privacy</title>
+        <link rel="shortcut icon" href="https://s3-us-west-2.amazonaws.com/galvanize.com-dev/favicon.ico" type="image/x-icon">
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+        <link href="https://api.mapbox.com/mapbox.js/v3.0.1/mapbox.css" rel="stylesheet">
+        <link rel="stylesheet" href="/style-8beddbfda7.css">
+        <script id="embedly-platform" async="" src="https://cdn.embedly.com/widgets/platform.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NRH7D9"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/bluebird/3.3.5/bluebird.min.js"></script>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <style>
+          .my-icon {
+          	color: #fff;
+          	font-size: 16px;
+          	font-weight: 300;
+          	width: 160px;
+          	height: 41px;
+          	line-height: 41px;
+          	background-color: #EA882D;
+          	box-shadow: 0 1px 4px 0 rgba(0,0,0,0.2);
+          	text-transform: uppercase;
+          }
 
-	    <title>Privacy - Galvanize</title>
-		<script type="text/javascript">
-			if (top != self) {
-				document.getElementsByTagName("HTML")[0].style.display = "none";
-				top.location=self.location;
-			}
-		</script>
-		<link rel="icon" type="image/png" href="http://www.galvanize.com/wp-content/themes/galvanize/favicon.ico">
-		<link rel="stylesheet" type="text/css" href="http://www.galvanize.com/wp-content/themes/galvanize/css/bootstrap.min.css">
-		<link rel="stylesheet" type="text/css" href="http://www.galvanize.com/wp-content/themes/galvanize/style.css">
-		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
-		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-	    <!--[if lt IE 9]>
-	      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-	      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-	    <![endif] -->
+          /* arrow tick at bottom of location icon */
+          .my-icon:after {
+          	content:'';
+          	position: absolute;
+          	top: 100%;
+          	left: 0;
+          	right: 0;
+          	margin: 0 auto;
+          	width: 0;
+          	height: 0;
+          	border-top: solid 10px #EA882D;
+          	border-left: solid 10px transparent;
+          	border-right: solid 10px transparent;
+          }
+          </style>
+        
+  <meta name="geo.region" content="US-AZ">
+  <meta name="geo.placename" content="Phoenix">
+  <meta name="geo.position" content="33.450012;-112.075619">
+  <meta name="ICBM" content="33.450012, -112.075619">
 
-		<meta charset="UTF-8">
-		
-<!-- This site is optimized with the Yoast SEO plugin v3.4.2 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="Galvanize Privacy Policy includes the types of information we may collect or that you may provide when you access or use any of our websites or mobile applications.">
-<meta name="robots" content="noodp">
-<link rel="canonical" href="http://www.galvanize.com/privacy/">
-<meta property="og:locale" content="en_US">
-<meta property="og:type" content="article">
-<meta property="og:title" content="Privacy - Galvanize">
-<meta property="og:description" content="Galvanize Privacy Policy includes the types of information we may collect or that you may provide when you access or use any of our websites or mobile applications.">
-<meta property="og:url" content="http://www.galvanize.com/privacy/">
-<meta property="og:site_name" content="Galvanize">
-<meta property="article:publisher" content="https://www.facebook.com/GalvanizeHQ">
-<meta property="fb:admins" content="10105610264486859">
-<meta property="og:image" content="http://galvanize-wp.s3.amazonaws.com/wp-content/uploads/2016/04/01220032/from-the-source-hero1.png">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="Galvanize Privacy Policy includes the types of information we may collect or that you may provide when you access or use any of our websites or mobile applications.">
-<meta name="twitter:title" content="Privacy - Galvanize">
-<meta name="twitter:site" content="@galvanize">
-<meta name="twitter:image" content="http://galvanize-wp.s3.amazonaws.com/wp-content/uploads/2016/04/01220032/from-the-source-hero1.png">
-<meta name="twitter:creator" content="@galvanize">
-<!-- / Yoast SEO plugin. -->
+  <meta name="geo.region" content="US-CA">
+  <meta name="geo.placename" content="San Francisco">
+  <meta name="geo.position" content="37.787601;-122.396643">
+  <meta name="ICBM" content="37.787601, -122.396643">
 
-<link rel="dns-prefetch" href="//s.w.org">
-<link rel="alternate" type="application/rss+xml" title="Galvanize » Feed" href="http://www.galvanize.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="Galvanize » Comments Feed" href="http://www.galvanize.com/comments/feed/">
-<link rel="alternate" type="text/calendar" title="Galvanize » iCal Feed" href="http://www.galvanize.com/events/?ical=1">
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.galvanize.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
-			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.galvanize.com/wp-includes/js/wp-emoji-release.min.js?ver=4.6.1" type="text/javascript"></script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-<link rel="stylesheet" id="widget-this-week-pro-style-css" href="http://www.galvanize.com/wp-content/plugins/events-calendar-pro/src/resources/css/widget-this-week-full.css?ver=4.2.4" type="text/css" media="all">
-<link rel="stylesheet" id="tribe_events-widget-this-week-pro-style-css" href="http://www.galvanize.com/wp-content/plugins/events-calendar-pro/src/resources/css/widget-this-week-theme.min.css?ver=4.2.4" type="text/css" media="all">
-<script type="text/javascript">
-/* <![CDATA[ */
-var tribe_events_linked_posts = {"post_types":{"tribe_venue":"venue","tribe_organizer":"organizer"}};
-/* ]]> */
+  <meta name="geo.region" content="US-CO">
+  <meta name="geo.placename" content="Denver">
+  <meta name="geo.position" content="39.757657;-105.006953">
+  <meta name="ICBM" content="39.757657, -105.006953">
+
+  <meta name="geo.region" content="US-CO">
+  <meta name="geo.placename" content="Boulder">
+  <meta name="geo.position" content="40.016545;-105.281686">
+  <meta name="ICBM" content="40.016545, -105.281686">
+
+  <meta name="geo.region" content="US-CO">
+  <meta name="geo.placename" content="Fort Collins">
+  <meta name="geo.position" content="40.588511;-105.074243">
+  <meta name="ICBM" content="40.588511, -105.074243">
+
+  <meta name="geo.region" content="US-NY">
+  <meta name="geo.placename" content="New York">
+  <meta name="geo.position" content="40.726388;-74.007792">
+  <meta name="ICBM" content="40.726388, -74.007792">
+
+  <meta name="geo.region" content="US-TX">
+  <meta name="geo.placename" content="Austin">
+  <meta name="geo.position" content="30.265326;-97.74955">
+  <meta name="ICBM" content="30.265326, -97.74955">
+
+  <meta name="geo.region" content="US-WA">
+  <meta name="geo.placename" content="Seattle">
+  <meta name="geo.position" content="47.598962;-122.333799">
+  <meta name="ICBM" content="47.598962, -122.333799">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        
+<!-- Optimizely -->
+<script async="" src="https://cdn.optimizely.com/js/2974420093.js"></script>
+<!-- End Optimizely -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NRH7D9');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-35669009-1', 'auto');
+ga('send', 'pageview');
 </script>
-<script type="text/javascript" src="http://www.galvanize.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-<script type="text/javascript" src="http://www.galvanize.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var tribe_this_week = {"ajaxurl":"http:\/\/www.galvanize.com\/wp-admin\/admin-ajax.php"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.galvanize.com/wp-content/plugins/events-calendar-pro/src/resources/js/widget-this-week.min.js?ver=4.2.4"></script>
-<link rel="https://api.w.org/" href="http://www.galvanize.com/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.galvanize.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.galvanize.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.6.1">
-<link rel="shortlink" href="http://www.galvanize.com/?p=415">
-<link rel="alternate" type="application/json+oembed" href="http://www.galvanize.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.galvanize.com%2Fprivacy%2F">
-<link rel="alternate" type="text/xml+oembed" href="http://www.galvanize.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.galvanize.com%2Fprivacy%2F&amp;format=xml">
-		<!-- Bing Webmaster tools -->
-		<meta name="msvalidate.01" content="C1A120D43AAE931FD2BC9EECCB22B12A">
+<!-- End Google Analytics -->
 
-		<!-- <script>
-		window['_fs_debug'] = false;
-		window['_fs_host'] = 'www.fullstory.com';
-		window['_fs_org'] = '1uSG';
-		(function(m,n,e,t,l,o,g,y){
-		  g=m[e]=function(a,b){g.q?g.q.push([a,b]):g._api(a,b);};g.q=[];
-		  o=n.createElement(t);o.async=1;o.src='https://'+_fs_host+'/s/fs.js';
-		  y=n.getElementsByTagName(t)[0];y.parentNode.insertBefore(o,y);
-		  g.identify=function(i,v){g(l,{uid:i});if(v)g(l,v)};g.setUserVars=function(v){FS(l,v)};
-		  g.clearUserCookie=function(d,i){d=n.domain;while(1){n.cookie='fs_uid=;domain='+d+
-		  ';path=/;expires='+new Date(0);i=d.indexOf('.');if(i<0)break;d=d.slice(i+1)}}
-		})(window,document,'FS','script','user');
-		</script> -->
-		<!-- start Mixpanel -->
-			<script type="text/javascript">(function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+"=([^&]*)")))?l[1]:null};g&&c(g,"state")&&(i=JSON.parse(decodeURIComponent(c(g,"state"))),"mpeditor"===i.action&&(b.sessionStorage.setItem("_mpcehash",g),history.replaceState(i.desiredHash||"",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(".");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,
-			0)))}}var d=a;"undefined"!==typeof f?d=a[f]=[]:f="mixpanel";d.people=d.people||[];d.toString=function(b){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);b||(a+=" (stub)");return a};d.people.toString=function(){return d.toString(1)+".people (stub)"};k="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
-			for(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElement("script");b.type="text/javascript";b.async=!0;b.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";c=e.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c)}})(document,window.mixpanel||[]);
-			mixpanel.init("cd6683b534dd8294a2376d117b2cb324");
-			</script>
-		<!-- end Mixpanel -->
-	</head>
-	<body class="page page-id-415 page-template-default"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
-		<!-- Google Tag Manager -->
-		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NRH7D9"
-		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-		})(window,document,'script','dataLayer','GTM-NRH7D9');</script>
-		<!-- End Google Tag Manager -->
+<!-- begin olark code -->
+<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+f[z]=function(){
+(a.s=a.s||[]).push(arguments)};var a=f[z]._={
+},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
+f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+0:+new Date};a.P=function(u){
+a.p[u]=new Date-a.p[0]};function s(){
+a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
+b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
+b.contentWindow[g].open()}catch(w){
+c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
+b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.identify('7195-711-10-1930');/*]]>*/</script><noscript><a href="https://www.olark.com/site/7195-711-10-1930/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
+<!-- end olark code —>
 
-		<!-- navbar -->
-		<nav class="navbar navbar-galvanize navbar-fixed-top">
-			<div class="container">
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-						<span class="sr-only">Toggle navigation</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-					<a class="navbar-brand" href="http://www.galvanize.com/">
-						<!--[if gte IE 9]><!-->
-						<img alt="Galvanize Logo" src="http://www.galvanize.com/wp-content/themes/galvanize/img/galvanize-logo.svg" width="169px">
-						<!--<![endif]-->
-						<!--[if lte IE 8]>
-						<img src="http://www.galvanize.com/wp-content/themes/galvanize/img/galvanize-logo.png">
-						<![endif]-->
-					</a>
-				</div>
-				<div id="navbar" class="navbar-collapse collapse pull-right"><ul id="menu-menu-1" class="nav navbar-nav"><li id="menu-item-271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-271 dropdown"><a title="Learn" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Learn <span class="caret"></span></a>
-<ul role="menu" class=" dropdown-menu">
-	<li id="menu-item-278" class="menu-item menu-item-type-post_type menu-item-object-courses menu-item-278"><a title="Web Development" href="http://www.galvanize.com/courses/web-development/">Web Development</a></li>
-	<li id="menu-item-277" class="menu-item menu-item-type-post_type menu-item-object-courses menu-item-277"><a title="Data Science" href="http://www.galvanize.com/courses/data-science/">Data Science</a></li>
-	<li id="menu-item-3853" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3853"><a title="Data Engineering" href="http://www.galvanize.com/courses/data-engineering/">Data Engineering</a></li>
-	<li id="menu-item-730" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-730"><a title="Masters in Data Science" target="_blank" href="http://www.galvanizeu.com/">Masters in Data Science</a></li>
-	<li id="menu-item-7155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7155"><a title="Part-time Courses" href="http://www.galvanize.com/workshops/">Part-time Courses</a></li>
-	<li id="menu-item-9440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9440"><a title="Info Sessions" href="http://www.galvanize.com/info-sessions/">Info Sessions</a></li>
-	<li id="menu-item-9439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9439"><a title="Local Meetups" href="http://www.galvanize.com/meetups/">Local Meetups</a></li>
-	<li id="menu-item-30755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30755"><a title="Tutorials" href="http://www.galvanize.com/learn/learn-to-code/">Tutorials</a></li>
-</ul>
-</li>
-<li id="menu-item-9442" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9442"><a title="Events" href="/events/">Events</a></li>
-<li id="menu-item-613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-613 dropdown"><a title="Workspace" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Workspace <span class="caret"></span></a>
-<ul role="menu" class=" dropdown-menu">
-	<li id="menu-item-9443" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9443"><a title="Join Our Community" href="/become-a-member/">Join Our Community</a></li>
-	<li id="menu-item-5822" class="menu-item menu-item-type-post_type menu-item-object-campuses menu-item-5822"><a title="Austin – 2nd Street District" href="http://www.galvanize.com/campuses/austin-2nd-street-district/">Austin – 2nd Street District</a></li>
-	<li id="menu-item-624" class="menu-item menu-item-type-post_type menu-item-object-campuses menu-item-624"><a title="Boulder – Walnut" href="http://www.galvanize.com/campuses/boulder-walnut/">Boulder – Walnut</a></li>
-	<li id="menu-item-623" class="menu-item menu-item-type-post_type menu-item-object-campuses menu-item-623"><a title="Galvanize Denver – Golden Triangle" href="http://www.galvanize.com/campuses/denver-golden-triangle/">Galvanize Denver – Golden Triangle</a></li>
-	<li id="menu-item-643" class="menu-item menu-item-type-post_type menu-item-object-campuses menu-item-643"><a title="Denver – Platte" href="http://www.galvanize.com/campuses/denver-platte/">Denver – Platte</a></li>
-	<li id="menu-item-640" class="menu-item menu-item-type-post_type menu-item-object-campuses menu-item-640"><a title="Fort Collins – Old Town" href="http://www.galvanize.com/campuses/fort-collins-old-town/">Fort Collins – Old Town</a></li>
-	<li id="menu-item-8955" class="menu-item menu-item-type-post_type menu-item-object-campuses menu-item-8955"><a title="New York – West SoHo" href="http://www.galvanize.com/campuses/new-york-west-soho/">New York – West SoHo</a></li>
-	<li id="menu-item-5821" class="menu-item menu-item-type-post_type menu-item-object-campuses menu-item-5821"><a title="Phoenix – Warehouse District" href="http://www.galvanize.com/campuses/phoenix-warehouse-district/">Phoenix – Warehouse District</a></li>
-	<li id="menu-item-15894" class="menu-item menu-item-type-post_type menu-item-object-campuses menu-item-15894"><a title="San Francisco – SoMa" href="http://www.galvanize.com/campuses/san-francisco-soma/">San Francisco – SoMa</a></li>
-	<li id="menu-item-641" class="menu-item menu-item-type-post_type menu-item-object-campuses menu-item-641"><a title="Seattle – Pioneer Square" href="http://www.galvanize.com/campuses/seattle-pioneer-square/">Seattle – Pioneer Square</a></li>
-</ul>
-</li>
-<li id="menu-item-9444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9444 dropdown"><a title="Enterprise" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Enterprise <span class="caret"></span></a>
-<ul role="menu" class=" dropdown-menu">
-	<li id="menu-item-29828" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29828"><a title="Training" href="http://www.galvanize.com/enterprise/">Training</a></li>
-	<li id="menu-item-9446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9446"><a title="Experts" href="http://www.galvanize.com/experts/">Experts</a></li>
-	<li id="menu-item-404541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404541"><a title="Cloud Native Technology" href="http://www.galvanize.com/enterprise/cnt/">Cloud Native Technology</a></li>
-</ul>
-</li>
-<li id="menu-item-10174" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10174"><a title="Hire Our Grads" target="_blank" href="https://talent.galvanize.com/">Hire Our Grads</a></li>
-<li id="menu-item-284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-284"><a title="Blog" href="http://www.galvanize.com/blog/">Blog</a></li>
-</ul></div>			</div>
-		</nav>
-		<!-- / navbar -->
+<!-- start Mixpanel -->
+<script type="text/javascript">(function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+"=([^&]*)")))?l[1]:null};g&&c(g,"state")&&(i=JSON.parse(decodeURIComponent(c(g,"state"))),"mpeditor"===i.action&&(b.sessionStorage.setItem("_mpcehash",g),history.replaceState(i.desiredHash||"",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(".");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,
+0)))}}var d=a;"undefined"!==typeof f?d=a[f]=[]:f="mixpanel";d.people=d.people||[];d.toString=function(b){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);b||(a+=" (stub)");return a};d.people.toString=function(){return d.toString(1)+".people (stub)"};k="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+for(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElement("script");b.type="text/javascript";b.async=!0;b.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";c=e.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c)}})(document,window.mixpanel||[]);
+mixpanel.init("cd6683b534dd8294a2376d117b2cb324");</script>
+<!-- end Mixpanel —>
 
-		<!-- <div id=""> -->
-<div class="secondary-page">
-	<div class="ceiling"></div><div class="ceiling"></div><div class="ceiling"></div>
-	
-	<h1 class="secondary-header">
-		Privacy	</h1>
-	<div class="ceiling"></div>
-	<div class="container">
-		<section id="content" role="main">
-				<article id="post-415" class="post-415 page type-page status-publish hentry">
-		<!-- <header class="header">
-		<h1 class="entry-title">Privacy</h1> 		</header> -->
-		<section class="entry-content">
-		<p><em>Last revised: September 23, 2016</em></p>
-<p>This privacy policy (our “<strong>Policy</strong>”) describes how Galvanize, Inc., also known as Galvanize (referred to collectively as “<strong>Us</strong>” or “<strong>We</strong>” in this Policy) may collect information from you, how we use it, and with which parties it may be shared.  Please read this policy carefully.  If you do not agree with this Policy, please do not provide any information to us.  By accessing or using this Website or any App (each as defined below) or by otherwise providing information to use in any of the ways covered by this Policy, you are agreeing to the current terms of this Policy.  Please check the policy periodically for updates.</p>
-<p><strong>What Does This Policy Cover?</strong><br>
-This Policy covers all information provided by you to us using one of the following methods (each a “<strong>Covered Method</strong>”):</p>
+      </head>
+      <body id="dotcom-body" class="">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NRH7D9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+        <script src="https://api.mapbox.com/mapbox.js/v3.0.1/mapbox.js"></script>
+
+        </head><body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div><div id="root"><div data-reactroot="" data-reactid="1" data-react-checksum="1292116257"><div data-reactid="2"><nav class="bootstrap-style navbar navbar-legacy navbar-fixed-top" data-reactid="3"><div class="nav" data-reactid="4"><div class="navbar-header" data-reactid="5"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar" data-reactid="6"><span class="sr-only" data-reactid="7">Toggle navigation</span><span class="icon-bar" data-reactid="8"></span><span class="icon-bar" data-reactid="9"></span><span class="icon-bar" data-reactid="10"></span></button><a class="navbar-brand" href="/" data-reactid="11"><img alt="Galvanize Logo" src="https://s3-us-west-2.amazonaws.com/galvanize.com-dev/galvanize-logo.svg" width="150px" data-reactid="12"></a></div><div id="navbar" class="navbar-collapse collapse pull-right" data-reactid="13"><ul id="menu-menu-1" class="nav navbar-nav" data-reactid="14"><li class="nav-item" data-reactid="15"><a href="" title="Learn" class="dropdown-toggle" aria-haspopup="true" data-reactid="16"><!-- react-text: 17 -->Learn<!-- /react-text --><!-- react-text: 18 --> <!-- /react-text --><span class="caret" data-reactid="19"></span></a><ul role="menu" class=" dropdown-menu dropdown-menu-left" data-reactid="20"><li class="nav-item" data-reactid="21"><a title="Web Development" href="https://new.galvanize.com/web-development" data-reactid="22">Web Development</a></li><li class="nav-item" data-reactid="23"><a title="Data Science" href="https://new.galvanize.com/data-science" data-reactid="24">Data Science</a></li><li class="nav-item" data-reactid="25"><a title="Data Engineering" href="http://www.galvanize.com/courses/data-engineering" data-reactid="26">Data Engineering</a></li><li class="nav-item" data-reactid="27"><a title="Masters in Data Science" href="http://www.galvanizeu.com/" data-reactid="28">Masters in Data Science</a></li><li class="nav-item" data-reactid="29"><a title="Part-time Courses" href="http://www.galvanize.com/workshops/" data-reactid="30">Part-time Courses</a></li><li class="nav-item" data-reactid="31"><a title="Info Sessions" href="http://www.galvanize.com/info-sessions/" data-reactid="32">Info Sessions</a></li><li class="nav-item" data-reactid="33"><a title="Meetups" href="http://www.galvanize.com/meetups/" data-reactid="34">Meetups</a></li><li class="nav-item" data-reactid="35"><a title="Tutorials" href="http://www.galvanize.com/learn/learn-to-code/" data-reactid="36">Tutorials</a></li></ul></li><li class="nav-item" data-reactid="37"><a title="Event" href="http://www.galvanize.com/events/" data-reactid="38">Event</a></li><li class="nav-item" data-reactid="39"><a href="" title="Workspace" class="dropdown-toggle" aria-haspopup="true" data-reactid="40"><!-- react-text: 41 -->Workspace<!-- /react-text --><!-- react-text: 42 --> <!-- /react-text --><span class="caret" data-reactid="43"></span></a><ul role="menu" class=" dropdown-menu dropdown-menu-left" data-reactid="44"><li class="nav-item" data-reactid="45"><a title="Join Our Community" href="http://www.galvanize.com/become-a-member/" data-reactid="46">Join Our Community</a></li><li class="nav-item" data-reactid="47"><a title="Austin – 2nd Street District" href="http://www.galvanize.com/campuses/austin-2nd-street-district/" data-reactid="48">Austin – 2nd Street District</a></li><li class="nav-item" data-reactid="49"><a title="Boulder – Walnut" href="http://www.galvanize.com/campuses/boulder-walnut/" data-reactid="50">Boulder – Walnut</a></li><li class="nav-item" data-reactid="51"><a title="Denver – Golden Triangle" href="http://www.galvanize.com/campuses/denver-golden-triangle/" data-reactid="52">Denver – Golden Triangle</a></li><li class="nav-item" data-reactid="53"><a title="Denver – Platte" href="http://www.galvanize.com/campuses/denver-platte/" data-reactid="54">Denver – Platte</a></li><li class="nav-item" data-reactid="55"><a title="New York – West SoHo" href="http://www.galvanize.com/campuses/new-york-west-soho/" data-reactid="56">New York – West SoHo</a></li><li class="nav-item" data-reactid="57"><a title="Phoenix – Warehouse District" href="http://www.galvanize.com/campuses/phoenix-warehouse-district/" data-reactid="58">Phoenix – Warehouse District</a></li><li class="nav-item" data-reactid="59"><a title="San Francisco – SoMa" href="http://www.galvanize.com/campuses/san-francisco-soma/" data-reactid="60">San Francisco – SoMa</a></li><li class="nav-item" data-reactid="61"><a title="Seattle – Pioneer Square" href="http://www.galvanize.com/campuses/seattle-pioneer-square/" data-reactid="62">Seattle – Pioneer Square</a></li></ul></li><li class="nav-item" data-reactid="63"><a href="" title="Enterprise" class="dropdown-toggle" aria-haspopup="true" data-reactid="64"><!-- react-text: 65 -->Enterprise<!-- /react-text --><!-- react-text: 66 --> <!-- /react-text --><span class="caret" data-reactid="67"></span></a><ul role="menu" class=" dropdown-menu dropdown-menu-left" data-reactid="68"><li class="nav-item" data-reactid="69"><a title="Training" href="http://www.galvanize.com/enterprise/" data-reactid="70">Training</a></li><li class="nav-item" data-reactid="71"><a title="Experts" href="http://www.galvanize.com/experts/" data-reactid="72">Experts</a></li><li class="nav-item" data-reactid="73"><a title="Cloud Native Essentials" href="https://new.galvanize.com/enterprise/cne/" data-reactid="74">Cloud Native Essentials</a></li><li class="nav-item" data-reactid="75"><a title="Cloud Native Developer" href="http://www.galvanize.com/enterprise/cnd/" data-reactid="76">Cloud Native Developer</a></li><li class="nav-item" data-reactid="77"><a title="Data Science for Executives" href="http://www.galvanize.com/enterprise/ds4e/" data-reactid="78">Data Science for Executives</a></li></ul></li><li class="nav-item" data-reactid="79"><a title="Blog" href="http://www.galvanize.com/blog/" data-reactid="80">Blog</a></li><li class="location-item" data-reactid="81"><a title="Location" id="location" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true" data-reactid="82"><svg class="svg svg-location" data-reactid="83"><use xlink:href="../../images/svg-sprite/svg-sprite-maps.svg#ic_place_24px" data-reactid="84"></use></svg><!-- react-text: 85 --> <!-- /react-text --><span data-reactid="86">Pick a Location</span></a><ul role="menu" class="dropdown-menu dropdown-menu-right" data-reactid="87"><li class="location-item" data-reactid="88"><a href="javascript:void(0)" data-tag="austin" data-reactid="89">Austin, TX (2nd Street District)</a></li><li class="location-item" data-reactid="90"><a href="javascript:void(0)" data-tag="boulder" data-reactid="91">Boulder, CO (Walnut St.)</a></li><li class="location-item" data-reactid="92"><a href="javascript:void(0)" data-tag="denver-platte" data-reactid="93">Denver, CO (Platte)</a></li><li class="location-item" data-reactid="94"><a href="javascript:void(0)" data-tag="denver-golden-triangle" data-reactid="95">Denver, CO (Golden Triangle)</a></li><li class="location-item" data-reactid="96"><a href="javascript:void(0)" data-tag="new-york" data-reactid="97">New York, NY (West SoHo)</a></li><li class="location-item" data-reactid="98"><a href="javascript:void(0)" data-tag="phoenix" data-reactid="99">Phoenix, AZ (Warehouse District)</a></li><li class="location-item" data-reactid="100"><a href="javascript:void(0)" data-tag="san-francisco" data-reactid="101">San Francisco, CA (SoMa)</a></li><li class="location-item" data-reactid="102"><a href="javascript:void(0)" data-tag="seattle" data-reactid="103">Seattle, WA (Pioneer Square)</a></li></ul></li></ul></div></div></nav></div><main role="main" class="-gray" data-reactid="104"><div class="course-parttime-layout" data-reactid="105"><div class="section fulltime-header-section" data-reactid="106"><div class="container" data-reactid="107"><div class="section-headline" data-reactid="108"><h2 class="headline" data-reactid="109">Privacy</h2></div><div class="grid grid--gutters grid--2of3 grid--center" data-reactid="110"><div class="grid-cell" data-reactid="111"><p class="lead" data-reactid="112"><em>Last revised: September 23, 2016</em>
+</p><p>This privacy policy (our “<strong>Policy</strong>”) describes how Galvanize, Inc., also known as Galvanize (referred to collectively as “<strong>Us</strong>” or “<strong>We</strong>” in this Policy) may collect information from you, how we use it, and with which parties it may be shared. Please read this policy carefully. If you do not agree with this Policy, please do not provide any information to us. By accessing or using this Website or any App (each as defined below) or by otherwise providing information to use in any of the ways covered by this Policy, you are agreeing to the current terms of this Policy. Please check the policy periodically for updates.</p>
+<p><strong>What Does This Policy Cover?</strong><br>This Policy covers all information provided by you to us using one of the following methods (each a “<strong>Covered Method</strong>”):</p>
 <ul>
-<li> visit or use any websites owned or operated by or on behalf of Galvanize, including galvanize.com(our “<strong>Websites</strong>”); </li>
-<li> provide information to use via e-mail, text, or electronic communications, such as filling out forms on one of our Websites (“<strong>Submitted Forms</strong>”). </li>
-<li> install and use any of the software applications that we may develop for use on tablets or  mobile devices (each an “<strong>App</strong>”);</li>
-<li> information that you post or upload to one of our pages on a social media site, including tweets, images, user-generated content, Personal Information, digital sounds, and pictures (“<strong>Social Information</strong>”)</li>
-<li> interact with our advertising or applications that we serve on third-party websites and services (“<strong>Served Ads</strong>”)</li>
+<li>visit or use any websites owned or operated by or on behalf of Galvanize, including galvanize.com(our “<strong>Websites</strong>”);</li>
+<li>provide information to use via e-mail, text, or electronic communications, such as filling out forms on one of our Websites (“<strong>Submitted Forms</strong>”).</li>
+<li>install and use any of the software applications that we may develop for use on tablets or mobile devices (each an “<strong>App</strong>”);</li>
+<li>information that you post or upload to one of our pages on a social media site, including tweets, images, user-generated content, Personal Information, digital sounds, and pictures (“<strong>Social Information</strong>”)</li>
+<li>interact with our advertising or applications that we serve on third-party websites and services (“<strong>Served Ads</strong>”)</li>
 </ul>
 <p>This Policy does not apply to information collected any way other than via a Covered Method (including as a result of you using or clicking on any application or content that may link to or be accessible from or on the Website (“<strong>Linked Sites</strong>”) or any advertising displayed on one of our Websites that is provided by anyone other than us (“<strong>Third Party Ads</strong>”).</p>
-<p>Because Galvanize is an educational institution, it is likely that you will provide the same information to us multiple different ways during the course of application, enrollment, registration, attendance, and graduation.  </p>
-<p>If you enroll in Galvanize, in addition to this Policy, under the U.S. Federal Family Educational Rights and Privacy Act (“FERPA”), then you will have the right to limit access to certain directory information about you, as defined in FERPA.  You may request to access or limit access to your directory information by contacting us at the address below.</p>
-<p><strong> What Information Do We Collect? </strong></p>
-<p>Any time that you use one of our Websites or Apps, provide information via a Submitted Form or click on or interact with a Served Ad, we will likely collect some types of information from you as a result of that action.  Depending on the action you take, we may collect any of the following types of information:</p>
+<p>Because Galvanize is an educational institution, it is likely that you will provide the same information to us multiple different ways during the course of application, enrollment, registration, attendance, and graduation.</p>
+<p>If you enroll in Galvanize, in addition to this Policy, under the U.S. Federal Family Educational Rights and Privacy Act (“FERPA”), then you will have the right to limit access to certain directory information about you, as defined in FERPA. You may request to access or limit access to your directory information by contacting us at the address below.</p>
+<p><strong>What Information Do We Collect?</strong><br>Any time that you use one of our Websites or Apps, provide information via a Submitted Form or click on or interact with a Served Ad, we will likely collect some types of information from you as a result of that action. Depending on the action you take, we may collect any of the following types of information:</p>
 <ul>
-<li> personally identifiable information (“<strong>PII</strong>”) that you provide to us;
-</li>
-<li> certain types of financial and payment information to complete transactions with us, including to pay registration fees or tuition fees (“<strong>Financial Information</strong>”);
-</li>
-<li> information that relates directly to you other than your PII that  you provide to us such as records and copies of your correspondence, responses to surveys, details of transactions you carry out, interactions with our students, and search queries on the Websites (“<strong>Volunteered Information</strong>”);</li>
-<li> certain information that we automatically collect as you navigate through the Site or use an App  about your equipment, devices and browsers, and your use of our Websites and Apps (“<strong>Usage Information</strong>”); and</li>
-<li> information that is provided to us from third parties, for example, our business partners (“<strong>Third Party Information</strong>”). </li>
+<li>personally identifiable information (“<strong>PII</strong>”) that you provide to us;</li>
+<li>certain types of financial and payment information to complete transactions with us, including to pay registration fees or tuition fees (“<strong>Financial Information</strong>”);</li>
+<li>information that relates directly to you other than your PII that you provide to us such as records and copies of your correspondence, responses to surveys, details of transactions you carry out, interactions with our students, and search queries on the Websites (“<strong>Volunteered Information</strong>”);</li>
+<li>certain information that we automatically collect as you navigate through the Site or use an App about your equipment, devices and browsers, and your use of our Websites and Apps (“<strong>Usage Information</strong>”); and</li>
+<li>information that is provided to us from third parties, for example, our business partners (“<strong>Third Party Information</strong>”).</li>
 </ul>
 <p>Following is a more detailed description of each of these types of information:</p>
-<p><strong>PII.</strong></p>
-<p>When you use our Websites or Apps, we may ask you to provide the following PII:</p>
+<p><strong>PII</strong><br>When you use our Websites or Apps, we may ask you to provide the following PII:</p>
 <ul>
-<li> First, middle and last name, previous names</li>
-<li> E-mail address</li>
-<li> Gender</li>
-<li> Date of birth</li>
-<li> Mailing address</li>
-<li> Organization name</li>
-<li> Valid day or evening telephone number</li>
-<li> Cell phone number</li>
+<li>First, middle and last name, previous names</li>
+<li>E-mail address</li>
+<li>Gender</li>
+<li>Date of birth</li>
+<li>Mailing address</li>
+<li>Organization name</li>
+<li>Valid day or evening telephone number</li>
+<li>Cell phone number</li>
 </ul>
 <p>If you apply to Galvanize, we will require additional PII to evaluate your application, including:</p>
 <ul>
-<li> Educational history and transcripts</li>
-<li> Social Security number</li>
-<li> Government issued ID (such as driver’s license)</li>
-<li> Race</li>
-<li> Ethnicity</li>
-<li> Country of origin</li>
-<li> Employment status and history</li>
-<li> Citizenship</li>
-<li> Military affiliation</li>
-<li> Credits earned</li>
-<li> Certificate, licensure or other professional information</li>
-<li> High school diploma or GED</li>
-<li> Career goals</li>
+<li>Educational history and transcripts</li>
+<li>Social Security number</li>
+<li>Government issued ID (such as driver’s license)</li>
+<li>Race</li>
+<li>Ethnicity</li>
+<li>Country of origin</li>
+<li>Employment status and history</li>
+<li>Citizenship</li>
+<li>Military affiliation</li>
+<li>Credits earned</li>
+<li>Certificate, licensure or other professional information</li>
+<li>High school diploma or GED</li>
+<li>Career goals</li>
 </ul>
-<p><strong>Financial Information</strong></p>
-<p>Certain features of our Websites and Apps may permit you to provide us with Financial Information in order to complete transactions for products and services that you request. </p>
-<p>Financial Information may include credit card information or payment card information. </p>
-<p>In such case, it is our policy to direct you to our designated third party payment processing portal which is hosted by a third party payment processor.  We do not collect, access, store, or process your credit card information or debit card information.  Please read the privacy policy published on our payment processor’s website regarding the use, storage, and protection of your credit card information before submitting credit card information and debit card information.</p>
+<p><strong>Financial Information</strong><br>Certain features of our Websites and Apps may permit you to provide us with Financial Information in order to complete transactions for products and services that you request.</p>
+<p>Financial Information may include credit card information or payment card information.</p>
+<p>In such case, it is our policy to direct you to our designated third party payment processing portal which is hosted by a third party payment processor. We do not collect, access, store, or process your credit card information or debit card information. Please read the privacy policy published on our payment processor’s website regarding the use, storage, and protection of your credit card information before submitting credit card information and debit card information.</p>
 <p>We may also request other Financial Information and information related to financial aid eligibility.</p>
-<p><strong>Volunteered Information</strong></p>
-<p>First, you may correspond with us directly, answer surveys on our Websites, or provide us with unsolicited information. Except for PII or Financial Information, we do not assume any obligation of confidentiality or nondisclosure for Volunteered Information. You should be selective about the information you choose to disclose as Volunteered Information.</p>
+<p><strong>Volunteered Information</strong><br>First, you may correspond with us directly, answer surveys on our Websites, or provide us with unsolicited information. Except for PII or Financial Information, we do not assume any obligation of confidentiality or nondisclosure for Volunteered Information. You should be selective about the information you choose to disclose as Volunteered Information.</p>
 <p>Second, certain of our Websites or Apps may permit you to communicate with other users or post certain content or comments to public forums that can be viewed by other users. Anything that you post in these areas is public and not protected. You should not post any PII or Financial Information to any public forum. We cannot control the actions of other users of the Websites and do not guarantee that Volunteered Information will not be viewed by unauthorized persons or competitors.</p>
-<p><strong>Usage Information</strong></p>
-<p>When you use our Websites or Apps, we may use certain technologies to automatically collect certain Usage Information, including:</p>
+<p><strong>Usage Information</strong><br>When you use our Websites or Apps, we may use certain technologies to automatically collect certain Usage Information, including:</p>
 <ul>
-<li> IP address</li>
-<li> Operating system</li>
-<li> Browser type</li>
-<li> Collection date</li>
-<li> Day of week, time of day (hour)</li>
-<li> Language settings</li>
-<li> Country, state, designated market area (DMA), city (relating to IP address, if available)</li>
-<li> Domain (.com, .net, .mil, .org, .edu, etc.)</li>
-<li> Web pages viewed</li>
-<li> Email clicks or other actions taken</li>
-<li> Logs</li>
+<li>IP address</li>
+<li>Operating system</li>
+<li>Browser type</li>
+<li>Collection date</li>
+<li>Day of week, time of day (hour)</li>
+<li>Language settings</li>
+<li>Country, state, designated market area (DMA), city (relating to IP address, if available)</li>
+<li>Domain (.com, .net, .mil, .org, .edu, etc.)</li>
+<li>Web pages viewed</li>
+<li>Email clicks or other actions taken</li>
+<li>Logs</li>
 </ul>
-<p>We also may use certain technologies, such as cookies, to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking) for the purpose of using such data to deliver advertising that is based on your web-viewing behaviors. </p>
+<p>We also may use certain technologies, such as cookies, to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking) for the purpose of using such data to deliver advertising that is based on your web-viewing behaviors.</p>
 <p>Using cookies also helps us to improve our Website and to deliver a better and more personalized service, including enabling us to:</p>
 <ul>
-<li> Estimate our audience size and usage patterns.</li>
-<li> Store information about your preferences, allowing us to customize our Websites according to your individual interests.</li>
-<li> Speed up your searches.</li>
-<li> Recognize you when you return to our Websites. </li>
+<li>Estimate our audience size and usage patterns.</li>
+<li>Store information about your preferences, allowing us to customize our Websites according to your individual interests.</li>
+<li>Speed up your searches.</li>
+<li>Recognize you when you return to our Websites.</li>
 </ul>
 <p>We may use the following types of cookies:</p>
 <ul>
-<li> <strong>Cookies (or browser cookies)</strong>. A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Websites. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Websites.
-</li>
-<li> <strong>Flash Cookies</strong>. Certain features of our Websites may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Websites. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, see <i>Choices about How We Use and Disclose Your Information.</i></li>
-<li> <strong>Web Beacons.</strong> Pages of our  Websites and our e-mails may contain small electronic files known as Web Beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). </li>
+<li><strong>Cookies (or browser cookies)</strong>. A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Websites. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Websites.</li>
+<li><strong>Flash Cookies</strong>. Certain features of our Websites may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Websites. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, see Choices about How We Use and Disclose Your Information.</li>
+<li><strong>Web Beacons</strong>. Pages of our Websites and our e-mails may contain small electronic files known as Web Beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).</li>
 </ul>
-<p>In using behavioral tracking, we follow the Self-Regulatory Principles for Online Behavioral Advertising&nbsp;developed by the Digital Advertising Alliance (a coalition of marketing, online advertising, and consumer advocacy organizations).</p>
+<p>In using behavioral tracking, we follow the Self-Regulatory Principles for Online Behavioral Advertising developed by the Digital Advertising Alliance (a coalition of marketing, online advertising, and consumer advocacy organizations).</p>
 <ul>
-<li> We do not associate your interaction with unaffiliated sites with your Personal Information in providing you with interest-based ads.</li>
-<li> We do not provide any Personal Information to advertisers or to third party sites that display our interest-based ads. </li>
-<li> We may use information provided about you by third parties (such as the sites where you have been shown ads or demographic information) that we may use to provide you more relevant and useful advertising. </li>
-<li> Our ads are delivered with an AdChoices Icon, an industry trust symbol that helps consumers understand how their data is being used and&nbsp;provides options to consumers who want to opt-out of behavioral tracking.  By clicking on the AdChoices Icon and following the instructions, you can opt out of behavioral tracking, although you will continue to receive generic ads.</li>
+<li>We do not associate your interaction with unaffiliated sites with your Personal Information in providing you with interest-based ads.</li>
+<li>We do not provide any Personal Information to advertisers or to third party sites that display our interest-based ads.</li>
+<li>We may use information provided about you by third parties (such as the sites where you have been shown ads or demographic information) that we may use to provide you more relevant and useful advertising.</li>
+<li>Our ads are delivered with an AdChoices Icon, an industry trust symbol that helps consumers understand how their data is being used and provides options to consumers who want to opt-out of behavioral tracking. By clicking on the AdChoices Icon and following the instructions, you can opt out of behavioral tracking, although you will continue to receive generic ads.</li>
 </ul>
-<p><strong>How Do We Use Your Information?</strong></p>
-<p>We use information that we collect about you or that you provide to us, including any Personal Information:</p>
+<p><strong>How Do We Use Your Information?</strong><br>We use information that we collect about you or that you provide to us, including any Personal Information:</p>
 <ul>
-<li> to present our Websites and Apps to you; </li>
-<li> to determine your admissibility and to register you for your selected educational programs at Galvanize; </li>
-<li> to contact you regarding your status with Galvanize; </li>
-<li> to provide requested products and services; </li>
-<li> to respond to your inquiries and provide customer support; </li>
-<li> to administer promotions in which you have indicated an interest; </li>
-<li> for our internal marketing purposes, which include, but are not limited to, sending you material about products, services, updates, etc. that we think may be of interest to you; </li>
-<li> for investigation of information security and information asset protection-related incidents; </li>
-<li> to test, correct and improve our content, applications and services; </li>
-<li> to develop new applications, products and services; </li>
-<li> for behavioral tracking purposes; </li>
-<li> to prevent potentially illegal activities (including illegal downloading of copyrighted materials in accordance with our Copyright Infringement policy); </li>
-<li> to investigate suspicious activity and financial aid fraud; </li>
-<li> to obtain or collect payment; </li>
-<li> to provide you with information concerning arrangements and other options for the repayment of funds loaned to you for your education; </li>
-<li> to maintain educational and business records for reasonable periods; </li>
-<li> to enforce our&nbsp;Terms of Use; </li>
-<li> in connection with the contemplated or actual reorganization, merger, acquisition, financing, securitization, insuring, sale or other disposal of all or part of our business or assets; </li>
-<li> for any other purpose for which you provide it; </li>
-<li> to notify you about changes to our Websites or Apps or any products or services we offer or provide through it; </li>
-<li> to allow you to participate in interactive features on our Websites; </li>
-<li> as may be required or permitted by legal, regulatory, industry self-regulatory, insurance, audit or security requirements applicable to us; </li>
-<li> in any other way we may describe when you provide the information; and </li>
-<li> for any other purpose with your consent. </li>
+<li>to present our Websites and Apps to you;</li>
+<li>to determine your admissibility and to register you for your selected educational programs at Galvanize;</li>
+<li>to contact you regarding your status with Galvanize;</li>
+<li>to provide requested products and services;</li>
+<li>to respond to your inquiries and provide customer support;</li>
+<li>to administer promotions in which you have indicated an interest;</li>
+<li>for our internal marketing purposes, which include, but are not limited to, sending you material about products, services, updates, etc. that we think may be of interest to you;</li>
+<li>for investigation of information security and information asset protection-related incidents;</li>
+<li>to test, correct and improve our content, applications and services;</li>
+<li>to develop new applications, products and services;</li>
+<li>for behavioral tracking purposes;</li>
+<li>to prevent potentially illegal activities (including illegal downloading of copyrighted materials in accordance with our Copyright Infringement policy);</li>
+<li>to investigate suspicious activity and financial aid fraud;</li>
+<li>to obtain or collect payment;</li>
+<li>to provide you with information concerning arrangements and other options for the repayment of funds loaned to you for your education;</li>
+<li>to maintain educational and business records for reasonable periods;</li>
+<li>to enforce our Terms of Use;</li>
+<li>in connection with the contemplated or actual reorganization, merger, acquisition, financing, securitization, insuring, sale or other disposal of all or part of our business or assets;</li>
+<li>for any other purpose for which you provide it;</li>
+<li>to notify you about changes to our Websites or Apps or any products or services we offer or provide through it;</li>
+<li>to allow you to participate in interactive features on our Websites;</li>
+<li>as may be required or permitted by legal, regulatory, industry self-regulatory, insurance, audit or security requirements applicable to us;</li>
+<li>in any other way we may describe when you provide the information; and</li>
+<li>for any other purpose with your consent.</li>
 </ul>
-<p><strong>When Would We Disclose Your Information?</strong></p>
-<p>We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.</p>
+<p><strong>When Would We Disclose Your Information?</strong><br>We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.</p>
 <p>We may disclose Personal Information:</p>
 <ul>
 <li>for any of the purposes listed above for which we may use your Personal Information;</li>
 <li>to fulfill the purpose for which you provide it;</li>
 <li>for any other purpose disclosed by us when you provided the information;</li>
-<li> with your consent;</li>
-<li> to comply with any court order, law or legal process, including to respond to any government or regulatory request; and </li>
-<li> if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Galvanize, our customers or others.  </li>
+<li>with your consent;</li>
+<li>to comply with any court order, law or legal process, including to respond to any government or regulatory request; and</li>
+<li>if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Galvanize, our customers or others.</li>
 </ul>
 <p>In addition, your Social Information will be displayed to other users of our social media sites. For example, if you comment on our Facebook page, other users of Facebook will see any comment you post and will be able to view any public information on your Facebook page.</p>
-<p><strong>What Are Your Options For Managing Your Information?</strong></p>
-<p>You can review and change your Personal Information by logging into the Websites and visiting your account profile page.</p>
-<p>You may also send us an e-mail at softwaresupport@galvanize.com to request access to, correct or delete any Personal Information that you have provided to us.  We cannot delete your Personal Information except by also deleting your user account.  We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.</p>
+<p><strong>What Are Your Options For Managing Your Information?</strong><br>You can review and change your Personal Information by logging into the Websites and visiting your account profile page.</p>
+<p>You may also send us an e-mail at softwaresupport@galvanize.com to request access to, correct or delete any Personal Information that you have provided to us. We cannot delete your Personal Information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.</p>
 <p>Even if you delete your Volunteered Information, anything that was posted to a public forum may remain viewable in cached and archived pages, or might have been copied or stored by other Websites users.</p>
-<p>If you have provided us with your prior express written consent to receive communications via an automatic telephone dialing system (auto-dialer), artificial or prerecorded voice messages, or text messages, you may opt out at any time by texting&nbsp;<strong>STOP</strong>&nbsp;to cancel future text messages except for one additional confirmation message stating that you’ve opted out.</p>
+<p>If you have provided us with your prior express written consent to receive communications via an automatic telephone dialing system (auto-dialer), artificial or prerecorded voice messages, or text messages, you may opt out at any time by texting <strong>STOP</strong> to cancel future text messages except for one additional confirmation message stating that you’ve opted out.</p>
 <p>If you do not wish to receive marketing e-mail or direct mail communications from us, you may express your choice where indicated on the applicable e-mail or other communication.</p>
-<p>If you do not wish to receive marketing telephone calls, including calls from an automated telephone dialing system, you may express your choice to opt-out by&nbsp;e-mailing <strong>softwaresupport@galvanize.com</strong>.</p>
-<p>If you are a Galvanize student or alumni, you may limit access to certain portions of your educational records by sending us an e-mail at <strong>softwaresupport@galvanize.com</strong>.</p>
-<p>Submitting any of the opt-out requests described above will only remove you from our list.  We are not responsible for the use any other party may make of any information that has been transferred in accordance with this Policy prior to our receipt of your opt-out.</p>
-<p><strong>What About Children Under the Age of 13?</strong></p>
-<p>Our Websites and Apps are not intended for children under 13 years of age. If you are under 13, do not use or provide any information via a Website or App, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received Personal Information from a child under 13 without verification of parental consent, we will delete that information.  If you believe we might have any information from or about a child under 13, please contact us at <strong>softwaresupport@galvanize.com</strong>.</p>
-<p><strong> What Are My California Privacy Rights?</strong></p>
-<p>California Civil Code Section § 1798.83 permits users of our Website who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to <strong>softwaresupport@galvanize.com</strong>.</p>
-<p><strong> Do We Record or Monitor Any Communications? </strong></p>
-<p>We may monitor, record, and retain all incoming and outgoing communications, including e-mails and phone calls for training of our representatives and for quality assurance purposes.  By electing to call us or e-mail us, you agree that your call may be recorded or your e-mail may be retained.  We only retain recordings and records for as long as necessary to adequately discharge the legitimate business purpose related to the call or e-mail purposes, unless a specific communication needs to be retained for legal reasons.</p>
-<p><strong>How Do We Protect Your Information?</strong><br>
-We take commercially reasonable precautions and have implemented commercially reasonable technical measures intended to protect against the risks of unauthorized access to, erroneous disclosure of, and unlawful interception of Personal Information submitted via the Website.  However, your e-mail transmissions and/or other communications containing Personal Information may be unlawfully intercepted or accessed by third parties and/or the Website may be subject to hostile network attacks or administrative errors.  We cannot and do not guarantee the security of any information transmitted over the Internet.  Once we receive your Personal Information, we take steps that we believe are commercially reasonable to limit access to your Personal Information to only those employees and service providers whom we determine need access to the Personal Information to provide the requested products, services, offers or opportunities that may be of interest to you. However, even after we receive your Personal Information, we cannot guarantee that your Personal Information may not be accessed, disclosed, altered, or destroyed as a result of a breach of our commercially reasonable efforts or as a result of any other event beyond our reasonable control.  Accordingly, we cannot and do not guarantee that your Personal Information is completely secure and safe from such risks. <strong>FOR THE AVOIDANCE OF DOUBT, EXCEPT AS REQUIRED BY APPLICABLE LAW OR THE PCI STANDARDS, WE EXPRESSLY DISCLAIM ANY REPRESENTATION OR WARRANTY, WHETHER EXPRESS OR IMPLIED, WITH RESPECT TO ENSURING, GUARANTEEING OR OTHERWISE OFFERING ANY DEFINITIVE PROMISE OF SECURITY IN CONNECTION WITH YOUR PERSONAL INFORMATION OR USAGE INFORMATION</strong>.</p>
-<p><strong> What about international users of the Websites and Apps?  </strong><br>
-By using a Website or App, you agree and acknowledge that the Website or App is hosted in the United States.</p>
+<p>If you do not wish to receive marketing telephone calls, including calls from an automated telephone dialing system, you may express your choice to opt-out by e-mailing <strong>softwaresupport@galvanize.com</strong>.</p>
+<p>If you are a Galvanize student or alumni, you may limit access to certain portions of your educational records by sending us an e-mail at softwaresupport@galvanize.com.</p>
+<p>Submitting any of the opt-out requests described above will only remove you from our list. We are not responsible for the use any other party may make of any information that has been transferred in accordance with this Policy prior to our receipt of your opt-out.</p>
+<p><strong>What About Children Under the Age of 13?</strong><br>Our Websites and Apps are not intended for children under 13 years of age. If you are under 13, do not use or provide any information via a Website or App, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received Personal Information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at <strong>softwaresupport@galvanize.com</strong>.</p>
+<p><strong>What Are My California Privacy Rights?</strong><br>California Civil Code Section § 1798.83 permits users of our Website who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to <strong>softwaresupport@galvanize.com</strong>.</p>
+<p><strong>Do We Record or Monitor Any Communications?</strong><br>We may monitor, record, and retain all incoming and outgoing communications, including e-mails and phone calls for training of our representatives and for quality assurance purposes. By electing to call us or e-mail us, you agree that your call may be recorded or your e-mail may be retained. We only retain recordings and records for as long as necessary to adequately discharge the legitimate business purpose related to the call or e-mail purposes, unless a specific communication needs to be retained for legal reasons.</p>
+<p><strong>How Do We Protect Your Information?</strong><br>We take commercially reasonable precautions and have implemented commercially reasonable technical measures intended to protect against the risks of unauthorized access to, erroneous disclosure of, and unlawful interception of Personal Information submitted via the Website. However, your e-mail transmissions and/or other communications containing Personal Information may be unlawfully intercepted or accessed by third parties and/or the Website may be subject to hostile network attacks or administrative errors. We cannot and do not guarantee the security of any information transmitted over the Internet. Once we receive your Personal Information, we take steps that we believe are commercially reasonable to limit access to your Personal Information to only those employees and service providers whom we determine need access to the Personal Information to provide the requested products, services, offers or opportunities that may be of interest to you. However, even after we receive your Personal Information, we cannot guarantee that your Personal Information may not be accessed, disclosed, altered, or destroyed as a result of a breach of our commercially reasonable efforts or as a result of any other event beyond our reasonable control. Accordingly, we cannot and do not guarantee that your Personal Information is completely secure and safe from such risks. <strong>FOR THE AVOIDANCE OF DOUBT, EXCEPT AS REQUIRED BY APPLICABLE LAW OR THE PCI STANDARDS, WE EXPRESSLY DISCLAIM ANY REPRESENTATION OR WARRANTY, WHETHER EXPRESS OR IMPLIED, WITH RESPECT TO ENSURING, GUARANTEEING OR OTHERWISE OFFERING ANY DEFINITIVE PROMISE OF SECURITY IN CONNECTION WITH YOUR PERSONAL INFORMATION OR USAGE INFORMATION</strong>.</p>
+<p><strong>What about international users of the Websites and Apps?</strong><br>By using a Website or App, you agree and acknowledge that the Website or App is hosted in the United States.</p>
 <p>If you are accessing a Website or App from a physical location outside the United States (other than the European Union), your use of the Website or App is governed by U.S. law and you are transferring your Personal Information to the United States. Any claim or dispute between you and us that arises in whole or in part from your use of a Website or App shall be decided exclusively by arbitration.</p>
 <p>If you are accessing a Website or App from a physical location inside the European Union, we comply with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information transferred from the European Union to the United States and have certified our compliance to the Department of Commerce. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <strong>www.privacyshield.gov</strong>.</p>
 <p>Our participation in the Privacy Shield applies to all Personal Information that is received from the European Union and European Economic Area.</p>
 <p>We remain responsible and liable under the Privacy Shield Principles if third-party agents that we engage to process Personal Information on our behalf do so in a manner inconsistent with the Principles, unless we can prove that we are not responsible for the event giving rise to the damage.</p>
-<p>If you believe that we have not adhered to this Policy, please contact us by e-mail at <strong>softwaresupport@galvanize.com</strong>.  We will do our best to address your concerns.  If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation.  For any complaints that cannot be resolved directly, we will settle the dispute exclusively under the JAMS Streamlined Arbitration Rules or JAMS International Mediation Rules).  We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC). </p>
-<p><strong> How Do We Notify You About Changes To This Policy? </strong></p>
-<p>It is our policy to post any changes we make to our privacy policy on this page with a notice that the privacy policy has been updated on the Website’s home page.  If we make material changes to how we treat our users’ Personal Information, we will notify you by e-mail to the e-mail address specified in your account.  The date the privacy policy was last revised is identified at the top of the page.  You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Websites and this privacy policy to check for any changes.&nbsp;</p>
-<p><strong> What Is Our Contact Information? </strong><br>
-To ask questions or comment about this privacy policy and our privacy practices, contact us at:<br>
-1062 Delaware Street<br>
-Denver, CO 80204<br>
-info@galvanize.com</p>
-		<div class="entry-links"></div>
-		</section>
-		</article>
-		<section id="comments">
-</section>				</section>
-	</div>
-	<div class="box-container container-fluid">
-		<div class="row">
-					</div>
+<p>If you believe that we have not adhered to this Policy, please contact us by e-mail at <strong>softwaresupport@galvanize.com</strong>. We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation. For any complaints that cannot be resolved directly, we will settle the dispute exclusively under the JAMS Streamlined Arbitration Rules or JAMS International Mediation Rules). We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).</p>
+<p><strong>How Do We Notify You About Changes To This Policy?</strong><br>It is our policy to post any changes we make to our privacy policy on this page with a notice that the privacy policy has been updated on the Website’s home page. If we make material changes to how we treat our users’ Personal Information, we will notify you by e-mail to the e-mail address specified in your account. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Websites and this privacy policy to check for any changes. </p>
+<p><strong>What Is Our Contact Information?</strong><br>To ask questions or comment about this privacy policy and our privacy practices, contact us at:<br>1062 Delaware Street<br>Denver, CO 80204<br>info@galvanize.com</p>
+<p></p></div></div></div></div><div data-reactid="113"><div class="callout-banner" data-reactid="114"><div class="container" data-reactid="115"><p class="callout-text" data-reactid="116">Stay current. Stay connected. Sign up for our newsletter!</p><div class="action" data-reactid="117"><button id="newsletter" type="button" name="button" class="button-primary open-default" data-reactid="118">Sign Up</button></div><div data-reactid="119"><div class="modal-success open-success" data-reactid="120"><div id="modal-success-demo" data-izimodal-title="Success!" data-reactid="121"></div></div><div class="modal-default" data-reactid="122"><div class="modal-window" data-reactid="123"><div class="modal-wrap" data-reactid="124"><div class="close" data-reactid="125"><a data-reactid="126"><svg class="svg svg-24px" data-reactid="127"><use xlink:href="/images/svg-sprite/svg-sprite-navigation-symbol.svg#ic_close_24px" data-reactid="128"></use></svg></a></div><div class="modal-content" style="text-align:left;" data-reactid="129"><div class="modal-header" data-reactid="130"><h3 id="modal-title" class="modal-title" data-reactid="131">It's all happening!</h3><h4 class="modal-subtitle" data-reactid="132">Sign up for our newsletter and get the 411 on all things Galvanize: courses, programs, membership, events &amp; more.</h4></div><div class="modal-body" data-reactid="133"><div class="grid grid--gutters grid--1of2 grid--nested" data-reactid="134"><div class="grid-cell" data-reactid="135"><div data-reactid="136"><div data-reactid="137"><label class="form-label" data-reactid="138">First Name</label></div><input type="text" id="newsletter-first-name" placeholder="Your First Name" data-reactid="139"><span class="form-note" data-reactid="140"></span></div></div><div class="grid-cell" data-reactid="141"><div data-reactid="142"><div data-reactid="143"><label class="form-label" data-reactid="144">Last Name</label></div><input type="text" id="newsletter-last-name" placeholder="Your Last Name" data-reactid="145"><span class="form-note" data-reactid="146"></span></div></div></div><div class="grid grid--full" data-reactid="147"><div class="grid-cell" data-reactid="148"><div data-reactid="149"><div data-reactid="150"><label class="form-label" data-reactid="151">Email</label></div><input type="text" id="newsletter-email" placeholder="Email" data-reactid="152"><span class="form-note" data-reactid="153"></span></div></div></div><div class="grid grid--full" data-reactid="154"><div class="grid-cell" data-reactid="155"><div data-reactid="156"><label class="form-label" data-reactid="157">Which campus do you want to stay connected with?</label></div><select name="select-normal" id="modal-campus" class="select" data-reactid="158"><option disabled="" data-reactid="159">Please choose a location</option><option value="Austin-2nd St District" data-reactid="160">Austin, TX (2nd Street District)</option><option value="Boulder-Walnut St." data-reactid="161">Boulder, CO (Walnut St.)</option><option value="Denver-Platte" data-reactid="162">Denver, CO (Platte)</option><option value="Denver-Golden Triangle" data-reactid="163">Denver, CO (Golden Triangle)</option><option value="NYC-SoHo" data-reactid="164">New York, NY (West SoHo)</option><option value="Phoenix-Warehouse District" data-reactid="165">Phoenix, AZ (Warehouse District)</option><option value="San Francisco-SoMa" data-reactid="166">San Francisco, CA (SoMa)</option><option value="Seattle-Pioneer Square" data-reactid="167">Seattle, WA (Pioneer Square)</option></select></div></div><br data-reactid="168"><br data-reactid="169"><div data-reactid="170">What are you interested in learning more about?</div><div class="grid grid--gutters grid--1of2 grid--nested" data-reactid="171"><div class="grid-cell grid-checkbox" data-reactid="172"><label data-reactid="173"><input type="checkbox" id="newsletter-checkbox-events" value="Events_Flag__c" class="checkbox-input" data-reactid="174"><!-- react-text: 175 -->Events<!-- /react-text --></label></div><div class="grid-cell grid-checkbox" data-reactid="176"><label data-reactid="177"><input type="checkbox" id="newsletter-checkbox-startups" value="Startups_Flag__c" class="checkbox-input" data-reactid="178"><!-- react-text: 179 -->Startups<!-- /react-text --></label></div><div class="grid-cell grid-checkbox" data-reactid="180"><label data-reactid="181"><input type="checkbox" id="newsletter-checkbox-data-engineering" value="Data_Engineering_Flag__c" class="checkbox-input" data-reactid="182"><!-- react-text: 183 -->Data Engineering<!-- /react-text --></label></div><div class="grid-cell grid-checkbox" data-reactid="184"><label data-reactid="185"><input type="checkbox" id="newsletter-checkbox-data-science" value="Data_Science_Flag__c" class="checkbox-input" data-reactid="186"><!-- react-text: 187 -->Data Science<!-- /react-text --></label></div><div class="grid-cell grid-checkbox" data-reactid="188"><label data-reactid="189"><input type="checkbox" id="newsletter-checkbox-web-development" value="Web_Development_Flag__c" class="checkbox-input" data-reactid="190"><!-- react-text: 191 -->Web Development<!-- /react-text --></label></div></div></div><div class="modal-footer" data-reactid="192"><button id="modal-cancel" type="button" name="button" class="button-secondary" data-reactid="193">Cancel</button><button id="form-submit" type="button" name="button" class="button-primary" data-reactid="194">Submit</button><p class="footer-note" data-reactid="195"><!-- react-text: 196 -->By providing us with your email, you agree to the terms of our<!-- /react-text --><a id="modal-privacy" href="https://www.galvanize.com/privacy" target="_blank" data-reactid="197"> Privacy Policy </a><!-- react-text: 198 -->and<!-- /react-text --><a id="modal-terms" href="https://www.galvanize.com/terms-of-use" target="_blank" data-reactid="199"> Terms of Service </a><!-- react-text: 200 -->.<!-- /react-text --></p></div></div></div></div><div class="modal-bg" data-reactid="201"></div></div></div></div></div><footer class="bootstrap-style footer-legacy clearfix" data-reactid="202"><div class="container" data-reactid="203"><div class="row" data-reactid="204"><div class="col-md-12" data-reactid="205"><table width="100%" style="border:0;" cellpadding="0" cellspacing="0" data-reactid="206"><tbody data-reactid="207"><tr data-reactid="208"><td width="55" style="vertical-align:top;" class="hidden-sm hidden-xs" data-reactid="209"><a href="/" data-reactid="210"><img alt="Galvanize G Logo" src="/images/galvanize-g.svg" width="55px" data-reactid="211"></a></td><td width="20" class="hidden-sm hidden-xs" data-reactid="212"></td><td style="vertical-align:top;" data-reactid="213"><div class="footer-nav" data-reactid="214"><ul id="menu-footer" class="" data-reactid="215"><li id="menu-item-2294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2294" data-reactid="216"><a title="Press" href="/press" data-reactid="217">Press</a></li><li id="menu-item-281" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-281" data-reactid="218"><a title="FAQ" target="_blank" href="https://support.galvanize.com/hc/en-us" data-reactid="219">FAQ</a></li><li id="menu-item-9432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9432" data-reactid="220"><a title="About" href="/about" data-reactid="221">About</a></li><li id="menu-item-402679" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402679" data-reactid="222"><a title="Mentors" href="/mentors" data-reactid="223">Mentors</a></li><li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123" data-reactid="224"><a title="Careers" href="/careers" data-reactid="225">Careers</a></li><li id="menu-item-9437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9437" data-reactid="226"><a title="Venture" href="/venture" data-reactid="227">Venture</a></li><li id="menu-item-9483" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9483" data-reactid="228"><a title="Scholarships" href="/tuition-assistance" data-reactid="229">Scholarships</a></li><li id="menu-item-9502" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9502" data-reactid="230"><a title="Login" href="https://members.galvanize.com" data-reactid="231">Login</a></li></ul></div><div class="address" data-reactid="232"><div data-reactid="233"><ul class="social-links" data-reactid="234"><li data-reactid="235"><a href="https://twitter.com/galvanize" target="_blank" class="twitter" data-reactid="236"><i class="fa fa-twitter fa-fw" data-reactid="237"></i></a></li><li data-reactid="238"><a href="https://www.facebook.com/GalvanizeHQ" target="_blank" class="facebook" data-reactid="239"><i class="fa fa-facebook fa-fw" data-reactid="240"></i></a></li><li data-reactid="241"><a href="https://instagram.com/GalvanizeHQ/" target="_blank" class="instagram" data-reactid="242"><i class="fa fa-instagram fa-fw" data-reactid="243"></i></a></li><li data-reactid="244"><a href="https://www.linkedin.com/company/galvanize-it" target="_blank" class="linkedin" data-reactid="245"><i class="fa fa-linkedin fa-fw" data-reactid="246"></i></a></li><li data-reactid="247"><a href="https://www.youtube.com/channel/UC6CFuXHLJQ_30gOxUTEFj_g" target="_blank" class="youtube-footer" data-reactid="248"><i class="fa fa-youtube fa-fw" data-reactid="249"></i></a></li></ul></div><address data-reactid="250"><strong data-reactid="251">Galvanize, Inc.</strong><br data-reactid="252"><!-- react-text: 253 -->1062 Delaware Street<!-- /react-text --><br data-reactid="254"><!-- react-text: 255 -->Denver, CO 80204<!-- /react-text --></address></div></td></tr></tbody></table></div></div><div class="row" data-reactid="256"><div class="col-md-12 sup-info" data-reactid="257"><small data-reactid="258"><div class="pull-right hidden-sm hidden-xs" data-reactid="259"><abbr title="Email" data-reactid="260">E:</abbr><!-- react-text: 261 --> <!-- /react-text --><a href="mailto:info@galvanize.com" class="sup-link" data-reactid="262">info@galvanize.com</a></div><span data-reactid="263">© 2013 - 2017 Galvanize, Inc.</span><!-- react-text: 264 -->&nbsp;&nbsp;&nbsp;<!-- /react-text --><span class="hidden-sm hidden-xs" data-reactid="265"><a href="/privacy" target="_blank" class="sup-link" data-reactid="266">Privacy Policy</a><!-- react-text: 267 -->&nbsp;&nbsp;&nbsp;<!-- /react-text --><a href="/terms-of-use" target="_blank" class="sup-link" data-reactid="268">Terms of Use</a><!-- react-text: 269 -->&nbsp;&nbsp;&nbsp;<!-- /react-text --><a href="/regulatory-information" target="_blank" class="sup-link" data-reactid="270">Regulatory Information</a><!-- react-text: 271 -->&nbsp;&nbsp;&nbsp;<!-- /react-text --><a href="/citations" target="_blank" class="sup-link" data-reactid="272">Citations</a></span><div class="visible-sm visible-xs" data-reactid="273"><a href="/privacy" target="_blank" class="sup-link" data-reactid="274">Privacy Policy</a><!-- react-text: 275 -->&nbsp;&nbsp;&nbsp;<!-- /react-text --><a href="/terms-of-use" target="_blank" class="sup-link" data-reactid="276">Terms of Use</a><!-- react-text: 277 -->&nbsp;&nbsp;&nbsp;<!-- /react-text --><a href="/regulatory-information" target="_blank" class="sup-link" data-reactid="278">Regulatory Information</a><!-- react-text: 279 -->&nbsp;&nbsp;&nbsp;<!-- /react-text --><a href="/citations" target="_blank" class="sup-link" data-reactid="280">Citations</a></div><div class="visible-sm visible-xs" data-reactid="281"><abbr title="Email" data-reactid="282">E:</abbr><!-- react-text: 283 --> <!-- /react-text --><a href="mailto:info@galvanize.com" class="sup-link" data-reactid="284">info@galvanize.com</a></div></small></div></div></div></footer></div></div></main></div></div>
 
-		
-	</div>
-</div>
-<div class="ceiling"></div>
+        <script>
+          if (!Array.prototype.includes) {
+            Object.defineProperty(Array.prototype, 'includes', {
+              value: function(searchElement, fromIndex) {
+                if (this == null) {
+                  throw new TypeError('"this" is null or not defined');
+                }
+                var o = Object(this);
+                var len = o.length >>> 0;
+                if (len === 0) return false;
+                var n = fromIndex | 0;
+                var k = Math.max(n >= 0 ? n : len - Math.abs(n), 0);
+                while (k < len) {
+                  if (o[k] === searchElement) return true;
+                  k++;
+                }
+                return false;
+              }
+            });
+          }
+          if (!String.prototype.includes) {
+            String.prototype.includes = function(search, start) {
+              'use strict';
+              if (typeof start !== 'number') {
+                start = 0;
+              }
+              if (start + search.length > this.length) {
+                return false;
+              } else {
+                return this.indexOf(search, start) !== -1;
+              }
+            };
+          }
+        </script>
+        <textarea id="state" style="display:none">{"content":{"url":"/privacy","pageName":"Privacy","titleTag":"Privacy","introHeadline":"Privacy","mainNavigation":{"sys":{"id":"2krLJXmSewSSeyk0G2Ms2m","type":"Entry","space":{"sys":{"id":"hu62i9v1xxtm","type":"Link","linkType":"Space"}},"locale":"en-US","revision":4,"createdAt":"2017-03-13T19:13:17.801Z","updatedAt":"2017-03-13T20:06:49.917Z","contentType":{"sys":{"id":"mainNavigation","type":"Link","linkType":"ContentType"}}},"fields":{"links":[{"url":"","text":"Learn","subnav":[{"url":"https://new.galvanize.com/web-development","text":"Web Development"},{"url":"https://new.galvanize.com/data-science","text":"Data Science"},{"url":"http://www.galvanize.com/courses/data-engineering","text":"Data Engineering"},{"url":"http://www.galvanizeu.com/","text":"Masters in Data Science"},{"url":"http://www.galvanize.com/workshops/","text":"Part-time Courses"},{"url":"http://www.galvanize.com/info-sessions/","text":"Info Sessions"},{"url":"http://www.galvanize.com/meetups/","text":"Meetups"},{"url":"http://www.galvanize.com/learn/learn-to-code/","text":"Tutorials"}]},{"url":"http://www.galvanize.com/events/","text":"Event","subnav":[]},{"url":"","text":"Workspace","subnav":[{"url":"http://www.galvanize.com/become-a-member/","text":"Join Our Community"},{"url":"http://www.galvanize.com/campuses/austin-2nd-street-district/","text":"Austin – 2nd Street District"},{"url":"http://www.galvanize.com/campuses/boulder-walnut/","text":"Boulder – Walnut"},{"url":"http://www.galvanize.com/campuses/denver-golden-triangle/","text":"Denver – Golden Triangle"},{"url":"http://www.galvanize.com/campuses/denver-platte/","text":"Denver – Platte"},{"url":"http://www.galvanize.com/campuses/new-york-west-soho/","text":"New York – West SoHo"},{"url":"http://www.galvanize.com/campuses/phoenix-warehouse-district/","text":"Phoenix – Warehouse District"},{"url":"http://www.galvanize.com/campuses/san-francisco-soma/","text":"San Francisco – SoMa"},{"url":"http://www.galvanize.com/campuses/seattle-pioneer-square/","text":"Seattle – Pioneer Square"}]},{"url":"","text":"Enterprise","subnav":[{"url":"http://www.galvanize.com/enterprise/","text":"Training"},{"url":"http://www.galvanize.com/experts/","text":"Experts"},{"url":"https://new.galvanize.com/enterprise/cne/","text":"Cloud Native Essentials"},{"url":"http://www.galvanize.com/enterprise/cnd/","text":"Cloud Native Developer"},{"url":"http://www.galvanize.com/enterprise/ds4e/","text":"Data Science for Executives"}]},{"url":"http://www.galvanize.com/blog/","text":"Blog","subnav":[]}],"descriptiveName":"Main Navigation - New Galvanize.com"}},"templateVersion":"Info","introDescription":"*Last revised: September 23, 2016*\n\nThis privacy policy (our “__Policy__”) describes how Galvanize, Inc., also known as Galvanize (referred to collectively as “__Us__” or “__We__” in this Policy) may collect information from you, how we use it, and with which parties it may be shared. Please read this policy carefully. If you do not agree with this Policy, please do not provide any information to us. By accessing or using this Website or any App (each as defined below) or by otherwise providing information to use in any of the ways covered by this Policy, you are agreeing to the current terms of this Policy. Please check the policy periodically for updates.\n\n__What Does This Policy Cover?__  \nThis Policy covers all information provided by you to us using one of the following methods (each a “__Covered Method__”):\n\n- visit or use any websites owned or operated by or on behalf of Galvanize, including galvanize.com(our “__Websites__”);\n- provide information to use via e-mail, text, or electronic communications, such as filling out forms on one of our Websites (“__Submitted Forms__”).\n- install and use any of the software applications that we may develop for use on tablets or mobile devices (each an “__App__”);\n- information that you post or upload to one of our pages on a social media site, including tweets, images, user-generated content, Personal Information, digital sounds, and pictures (“__Social Information__”)\n- interact with our advertising or applications that we serve on third-party websites and services (“__Served Ads__”)\n\nThis Policy does not apply to information collected any way other than via a Covered Method (including as a result of you using or clicking on any application or content that may link to or be accessible from or on the Website (“__Linked Sites__”) or any advertising displayed on one of our Websites that is provided by anyone other than us (“__Third Party Ads__”).\n\nBecause Galvanize is an educational institution, it is likely that you will provide the same information to us multiple different ways during the course of application, enrollment, registration, attendance, and graduation.\n\nIf you enroll in Galvanize, in addition to this Policy, under the U.S. Federal Family Educational Rights and Privacy Act (“FERPA”), then you will have the right to limit access to certain directory information about you, as defined in FERPA. You may request to access or limit access to your directory information by contacting us at the address below.\n\n__What Information Do We Collect?__  \nAny time that you use one of our Websites or Apps, provide information via a Submitted Form or click on or interact with a Served Ad, we will likely collect some types of information from you as a result of that action. Depending on the action you take, we may collect any of the following types of information:\n\n- personally identifiable information (“__PII__”) that you provide to us;\n- certain types of financial and payment information to complete transactions with us, including to pay registration fees or tuition fees (“__Financial Information__”);\n- information that relates directly to you other than your PII that you provide to us such as records and copies of your correspondence, responses to surveys, details of transactions you carry out, interactions with our students, and search queries on the Websites (“__Volunteered Information__”);\n- certain information that we automatically collect as you navigate through the Site or use an App about your equipment, devices and browsers, and your use of our Websites and Apps (“__Usage Information__”); and\n- information that is provided to us from third parties, for example, our business partners (“__Third Party Information__”).\n\nFollowing is a more detailed description of each of these types of information:\n\n__PII__  \nWhen you use our Websites or Apps, we may ask you to provide the following PII:\n\n- First, middle and last name, previous names\n- E-mail address\n- Gender\n- Date of birth\n- Mailing address\n- Organization name\n- Valid day or evening telephone number\n- Cell phone number\n\nIf you apply to Galvanize, we will require additional PII to evaluate your application, including:\n\n- Educational history and transcripts\n- Social Security number\n- Government issued ID (such as driver’s license)\n- Race\n- Ethnicity\n- Country of origin\n- Employment status and history\n- Citizenship\n- Military affiliation\n- Credits earned\n- Certificate, licensure or other professional information\n- High school diploma or GED\n- Career goals\n\n__Financial Information__  \nCertain features of our Websites and Apps may permit you to provide us with Financial Information in order to complete transactions for products and services that you request.\n\nFinancial Information may include credit card information or payment card information.\n\nIn such case, it is our policy to direct you to our designated third party payment processing portal which is hosted by a third party payment processor. We do not collect, access, store, or process your credit card information or debit card information. Please read the privacy policy published on our payment processor’s website regarding the use, storage, and protection of your credit card information before submitting credit card information and debit card information.\n\nWe may also request other Financial Information and information related to financial aid eligibility.\n\n__Volunteered Information__  \nFirst, you may correspond with us directly, answer surveys on our Websites, or provide us with unsolicited information. Except for PII or Financial Information, we do not assume any obligation of confidentiality or nondisclosure for Volunteered Information. You should be selective about the information you choose to disclose as Volunteered Information.\n\nSecond, certain of our Websites or Apps may permit you to communicate with other users or post certain content or comments to public forums that can be viewed by other users. Anything that you post in these areas is public and not protected. You should not post any PII or Financial Information to any public forum. We cannot control the actions of other users of the Websites and do not guarantee that Volunteered Information will not be viewed by unauthorized persons or competitors.\n\n__Usage Information__  \nWhen you use our Websites or Apps, we may use certain technologies to automatically collect certain Usage Information, including:\n\n- IP address\n- Operating system\n- Browser type\n- Collection date\n- Day of week, time of day (hour)\n- Language settings\n- Country, state, designated market area (DMA), city (relating to IP address, if available)\n- Domain (.com, .net, .mil, .org, .edu, etc.)\n- Web pages viewed\n- Email clicks or other actions taken\n- Logs\n\nWe also may use certain technologies, such as cookies, to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking) for the purpose of using such data to deliver advertising that is based on your web-viewing behaviors.\n\nUsing cookies also helps us to improve our Website and to deliver a better and more personalized service, including enabling us to:\n\n- Estimate our audience size and usage patterns.\n- Store information about your preferences, allowing us to customize our Websites according to your individual interests.\n- Speed up your searches.\n- Recognize you when you return to our Websites.\n\nWe may use the following types of cookies:\n\n- __Cookies (or browser cookies)__. A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Websites. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Websites.\n- __Flash Cookies__. Certain features of our Websites may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Websites. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, see Choices about How We Use and Disclose Your Information.\n- __Web Beacons__. Pages of our Websites and our e-mails may contain small electronic files known as Web Beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).\n\nIn using behavioral tracking, we follow the Self-Regulatory Principles for Online Behavioral Advertising developed by the Digital Advertising Alliance (a coalition of marketing, online advertising, and consumer advocacy organizations).\n\n- We do not associate your interaction with unaffiliated sites with your Personal Information in providing you with interest-based ads.\n- We do not provide any Personal Information to advertisers or to third party sites that display our interest-based ads.\n- We may use information provided about you by third parties (such as the sites where you have been shown ads or demographic information) that we may use to provide you more relevant and useful advertising.\n- Our ads are delivered with an AdChoices Icon, an industry trust symbol that helps consumers understand how their data is being used and provides options to consumers who want to opt-out of behavioral tracking. By clicking on the AdChoices Icon and following the instructions, you can opt out of behavioral tracking, although you will continue to receive generic ads.\n\n__How Do We Use Your Information?__  \nWe use information that we collect about you or that you provide to us, including any Personal Information:\n\n- to present our Websites and Apps to you;\n- to determine your admissibility and to register you for your selected educational programs at Galvanize;\n- to contact you regarding your status with Galvanize;\n- to provide requested products and services;\n- to respond to your inquiries and provide customer support;\n- to administer promotions in which you have indicated an interest;\n- for our internal marketing purposes, which include, but are not limited to, sending you material about products, services, updates, etc. that we think may be of interest to you;\n- for investigation of information security and information asset protection-related incidents;\n- to test, correct and improve our content, applications and services;\n- to develop new applications, products and services;\n- for behavioral tracking purposes;\n- to prevent potentially illegal activities (including illegal downloading of copyrighted materials in accordance with our Copyright Infringement policy);\n- to investigate suspicious activity and financial aid fraud;\n- to obtain or collect payment;\n- to provide you with information concerning arrangements and other options for the repayment of funds loaned to you for your education;\n- to maintain educational and business records for reasonable periods;\n- to enforce our Terms of Use;\n- in connection with the contemplated or actual reorganization, merger, acquisition, financing, securitization, insuring, sale or other disposal of all or part of our business or assets;\n- for any other purpose for which you provide it;\n- to notify you about changes to our Websites or Apps or any products or services we offer or provide through it;\n- to allow you to participate in interactive features on our Websites;\n- as may be required or permitted by legal, regulatory, industry self-regulatory, insurance, audit or security requirements applicable to us;\n- in any other way we may describe when you provide the information; and\n- for any other purpose with your consent.\n\n__When Would We Disclose Your Information?__  \nWe may disclose aggregated information about our users, and information that does not identify any individual, without restriction.\n\nWe may disclose Personal Information:\n\n- for any of the purposes listed above for which we may use your Personal Information;\n- to fulfill the purpose for which you provide it;\n- for any other purpose disclosed by us when you provided the information;\n- with your consent;\n- to comply with any court order, law or legal process, including to respond to any government or regulatory request; and\n- if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Galvanize, our customers or others.\n\nIn addition, your Social Information will be displayed to other users of our social media sites. For example, if you comment on our Facebook page, other users of Facebook will see any comment you post and will be able to view any public information on your Facebook page.\n\n__What Are Your Options For Managing Your Information?__  \nYou can review and change your Personal Information by logging into the Websites and visiting your account profile page.\n\nYou may also send us an e-mail at softwaresupport@galvanize.com to request access to, correct or delete any Personal Information that you have provided to us. We cannot delete your Personal Information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.\n\nEven if you delete your Volunteered Information, anything that was posted to a public forum may remain viewable in cached and archived pages, or might have been copied or stored by other Websites users.\n\nIf you have provided us with your prior express written consent to receive communications via an automatic telephone dialing system (auto-dialer), artificial or prerecorded voice messages, or text messages, you may opt out at any time by texting __STOP__ to cancel future text messages except for one additional confirmation message stating that you’ve opted out.\n\nIf you do not wish to receive marketing e-mail or direct mail communications from us, you may express your choice where indicated on the applicable e-mail or other communication.\n\nIf you do not wish to receive marketing telephone calls, including calls from an automated telephone dialing system, you may express your choice to opt-out by e-mailing __softwaresupport@galvanize.com__.\n\nIf you are a Galvanize student or alumni, you may limit access to certain portions of your educational records by sending us an e-mail at softwaresupport@galvanize.com.\n\nSubmitting any of the opt-out requests described above will only remove you from our list. We are not responsible for the use any other party may make of any information that has been transferred in accordance with this Policy prior to our receipt of your opt-out.\n\n__What About Children Under the Age of 13?__  \nOur Websites and Apps are not intended for children under 13 years of age. If you are under 13, do not use or provide any information via a Website or App, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received Personal Information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at __softwaresupport@galvanize.com__.\n\n__What Are My California Privacy Rights?__  \nCalifornia Civil Code Section § 1798.83 permits users of our Website who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to __softwaresupport@galvanize.com__.\n\n__Do We Record or Monitor Any Communications?__  \nWe may monitor, record, and retain all incoming and outgoing communications, including e-mails and phone calls for training of our representatives and for quality assurance purposes. By electing to call us or e-mail us, you agree that your call may be recorded or your e-mail may be retained. We only retain recordings and records for as long as necessary to adequately discharge the legitimate business purpose related to the call or e-mail purposes, unless a specific communication needs to be retained for legal reasons.\n\n__How Do We Protect Your Information?__  \nWe take commercially reasonable precautions and have implemented commercially reasonable technical measures intended to protect against the risks of unauthorized access to, erroneous disclosure of, and unlawful interception of Personal Information submitted via the Website. However, your e-mail transmissions and/or other communications containing Personal Information may be unlawfully intercepted or accessed by third parties and/or the Website may be subject to hostile network attacks or administrative errors. We cannot and do not guarantee the security of any information transmitted over the Internet. Once we receive your Personal Information, we take steps that we believe are commercially reasonable to limit access to your Personal Information to only those employees and service providers whom we determine need access to the Personal Information to provide the requested products, services, offers or opportunities that may be of interest to you. However, even after we receive your Personal Information, we cannot guarantee that your Personal Information may not be accessed, disclosed, altered, or destroyed as a result of a breach of our commercially reasonable efforts or as a result of any other event beyond our reasonable control. Accordingly, we cannot and do not guarantee that your Personal Information is completely secure and safe from such risks. __FOR THE AVOIDANCE OF DOUBT, EXCEPT AS REQUIRED BY APPLICABLE LAW OR THE PCI STANDARDS, WE EXPRESSLY DISCLAIM ANY REPRESENTATION OR WARRANTY, WHETHER EXPRESS OR IMPLIED, WITH RESPECT TO ENSURING, GUARANTEEING OR OTHERWISE OFFERING ANY DEFINITIVE PROMISE OF SECURITY IN CONNECTION WITH YOUR PERSONAL INFORMATION OR USAGE INFORMATION__.\n\n__What about international users of the Websites and Apps?__   \nBy using a Website or App, you agree and acknowledge that the Website or App is hosted in the United States.\n\nIf you are accessing a Website or App from a physical location outside the United States (other than the European Union), your use of the Website or App is governed by U.S. law and you are transferring your Personal Information to the United States. Any claim or dispute between you and us that arises in whole or in part from your use of a Website or App shall be decided exclusively by arbitration.\n\nIf you are accessing a Website or App from a physical location inside the European Union, we comply with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information transferred from the European Union to the United States and have certified our compliance to the Department of Commerce. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit __www.privacyshield.gov__.\n\nOur participation in the Privacy Shield applies to all Personal Information that is received from the European Union and European Economic Area.\n\nWe remain responsible and liable under the Privacy Shield Principles if third-party agents that we engage to process Personal Information on our behalf do so in a manner inconsistent with the Principles, unless we can prove that we are not responsible for the event giving rise to the damage.\n\nIf you believe that we have not adhered to this Policy, please contact us by e-mail at __softwaresupport@galvanize.com__. We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation. For any complaints that cannot be resolved directly, we will settle the dispute exclusively under the JAMS Streamlined Arbitration Rules or JAMS International Mediation Rules). We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).\n\n__How Do We Notify You About Changes To This Policy?__  \nIt is our policy to post any changes we make to our privacy policy on this page with a notice that the privacy policy has been updated on the Website’s home page. If we make material changes to how we treat our users’ Personal Information, we will notify you by e-mail to the e-mail address specified in your account. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Websites and this privacy policy to check for any changes. \n\n__What Is Our Contact Information?__   \nTo ask questions or comment about this privacy policy and our privacy practices, contact us at:\n1062 Delaware Street\nDenver, CO 80204\ninfo@galvanize.com\n\n"},"path":"/privacy"}</textarea>
+        <script src="https://use.typekit.net/dgr7rdu.js"></script>
+        <script>try{Typekit.load({ async: true });}catch(e){ console.log(e) }</script>
+        <script src="/styleguide.min.js"></script>
+        <script src="/vendor-eecdbdbe637a5ecb9458.js"></script>
+        <script>
+          window.__APP_INITIAL_STATE__ = JSON.parse($('#state').val());
+        </script>
+        <script src="/info-486e29ee4e31f30d51ef.js"></script>
 
-<!-- </div> -->
+        <script>
+          $(document).on('click', '[data-track]', function(e) {
+            var $el = $(e.target).closest('[data-track]');
+            mixpanel.track($el.data('track'), $el.data('trackData'));
+          });
+        </script>
 
-<footer class="footer clearfix">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<table width="100%" cellpadding="0" cellspacing="0" border="0">
-					<tbody><tr>
-						<td width="55" valign="top" class="hidden-sm hidden-xs">
-							<!--[if gte IE 9]><!-->
-							<a href="http://www.galvanize.com/"><img alt="Galvanize G Logo" src="http://www.galvanize.com/wp-content/themes/galvanize/img/galvanize-g.svg" width="55px"></a>
-							<!--<![endif]-->
-							<!--[if lte IE 8]>
-							<img src="http://www.galvanize.com/wp-content/themes/galvanize/img/galvanize-g.png">
-							<![endif]-->
-						</td>
-						<td width="20" class="hidden-sm hidden-xs"></td>
-						<td valign="top">
-							<div class="footer-nav"><ul id="menu-footer" class=""><li id="menu-item-281" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-281"><a title="FAQ" target="_blank" href="/faq/">FAQ</a></li>
-<li id="menu-item-9432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9432"><a title="About" href="http://www.galvanize.com/about/">About</a></li>
-<li id="menu-item-402679" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402679"><a title="Mentors" href="http://www.galvanize.com/mentors/">Mentors</a></li>
-<li id="menu-item-2294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2294"><a title="Press" href="http://www.galvanize.com/press/">Press</a></li>
-<li id="menu-item-9437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9437"><a title="Venture" href="http://www.galvanize.com/venture/">Venture</a></li>
-<li id="menu-item-9483" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9483"><a title="Scholarships" href="http://www.galvanize.com/scholarships/">Scholarships</a></li>
-<li id="menu-item-402948" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402948"><a title="Careers" href="http://www.galvanize.com/careers/">Careers</a></li>
-<li id="menu-item-9502" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9502"><a title="Login" href="https://members.galvanize.com/">Login</a></li>
-</ul></div>					        <div class="address">
-					        	<div>
-					        		<ul class="social-links">
-										<li><a href="https://twitter.com/galvanize" target="_blank" class="twitter"><i class="fa fa-twitter fa-fw"></i></a></li>
-										<li><a href="https://www.facebook.com/GalvanizeHQ" target="_blank" class="facebook"><i class="fa fa-facebook fa-fw"></i></a></li>
-										<li><a href="https://instagram.com/GalvanizeHQ/" target="_blank" class="instagram"><i class="fa fa-instagram fa-fw"></i></a></li>
-										<li><a href="https://www.linkedin.com/company/galvanize-it" target="_blank" class="linkedin"><i class="fa fa-linkedin fa-fw"></i></a></li>
-										<li><a href="https://plus.google.com/104456246601890468626/posts" target="_blank" class="google"><i class="fa fa-google-plus fa-fw"></i></a></li>
-										<li><a href="https://www.youtube.com/channel/UC6CFuXHLJQ_30gOxUTEFj_g" target="_blank" class="youtube-footer"><i class="fa fa-youtube fa-fw"></i></a></li>
-									</ul>
-					        	</div>
-					        	<address>
-					        		<strong>Galvanize, Inc.</strong><br>
-					        		1062 Delaware Street<br>
-					        		Denver, CO 80204
-					        	</address>
-					        </div>
-						</td>
-					</tr>
-				</tbody></table>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-md-12 sup-info">
-				<small>
-					<div class="pull-right hidden-sm hidden-xs">
-						<abbr title="Email">E:</abbr> <a href="mailto:info@galvanize.com">info@galvanize.com</a>
-					</div>
-					© 2013 - 2016 Galvanize, Inc. All Rights Reserved.&nbsp;&nbsp;&nbsp;<span class="hidden-sm hidden-xs"><a href="/privacy/">Privacy Policy</a>&nbsp;&nbsp;&nbsp;<a href="/terms-of-use/">Terms of Use</a>&nbsp;&nbsp;&nbsp;<a href="/regulatory-information/">Regulatory Information</a>&nbsp;&nbsp;&nbsp;<a href="/citations/">Citations</a></span>
-					<div class="visible-sm visible-xs"><a href="/privacy/">Privacy Policy</a>&nbsp;&nbsp;&nbsp;<a href="/terms-of-use/">Terms of Use</a>&nbsp;&nbsp;&nbsp;<a href="/regulatory-information/">Regulatory Information</a>&nbsp;&nbsp;&nbsp;<a href="/citations/">Citations</a></div>
-					<div class="visible-sm visible-xs"><abbr title="Email">E:</abbr> <a href="mailto:info@galvanize.com">info@galvanize.com</a></div>
-
-				</small>
-			</div>
-		</div>
-	</div>
-</footer>
-<script type="text/javascript" src="http://www.galvanize.com/wp-includes/js/wp-embed.min.js?ver=4.6.1"></script>
-
-
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script type="text/javascript" src="http://www.galvanize.com/wp-content/themes/galvanize/js/bootstrap.min.js"></script>
-
-<!-- Scripts Moved from Header to Improve Load Time -->
-	<script src="//use.typekit.net/ghm7jyv.js"></script>
-	<script>try{Typekit.load();}catch(e){}</script>
-
-<script type="text/javascript" src="http://www.galvanize.com/wp-content/themes/galvanize/js/bootstrap.youtubepopup.min.js"></script>
-<script type="text/javascript">
-$(function () {
-	$(".youtube").YouTubeModal({autoplay:0, width:640, height:360, useYouTubeTitle:false, cssClass:"ytModal"});
-});
-</script>
-
-	<!-- begin olark code -->
-	<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
-	f[z]=function(){
-	(a.s=a.s||[]).push(arguments)};var a=f[z]._={
-	},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
-	f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
-	0:+new Date};a.P=function(u){
-	a.p[u]=new Date-a.p[0]};function s(){
-	a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
-	hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
-	return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
-	b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
-	b.contentWindow[g].open()}catch(w){
-	c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
-	var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
-	b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
-	loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
-	/* custom configuration goes here (www.olark.com/documentation) */
-	olark.identify('7195-711-10-1930');/*]]>*/</script><noscript><a href="https://www.olark.com/site/7195-711-10-1930/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
-	<!-- end olark code -->
-
-	
-<script type="text/javascript">
-piAId = '69402';
-piCId = '1096';
-
-(function() {
-	function async_load(){
-		var s = document.createElement('script'); s.type = 'text/javascript';
-		s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
-		var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
-	}
-	if(window.attachEvent) { window.attachEvent('onload', async_load); }
-	else { window.addEventListener('load', async_load, false); }
-})();
-</script>
-
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"06153d497a","applicationID":"29189594","transactionName":"MlNWYUBZD0NYABZYXwsZdVZGUQ5eFhMDVlU=","queueTime":0,"applicationTime":313,"atts":"HhRVFwhDHE0=","errorBeacon":"bam.nr-data.net","agent":""}</script>
-
-
-<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
-
-Page Caching using memcached
-
- Served from: www.galvanize.com @ 2016-11-19 01:12:37 by W3 Total Cache --></body></html>
+        
+        <script>
+          var loadDeferredStyles = function() {
+            var addStylesNode = document.getElementById("deferred-styles");
+            var replacement = document.createElement("div");
+            replacement.innerHTML = addStylesNode.textContent;
+            document.body.appendChild(replacement)
+            addStylesNode.parentElement.removeChild(addStylesNode);
+          };
+          var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+              webkitRequestAnimationFrame || msRequestAnimationFrame;
+          if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+          else window.addEventListener('load', loadDeferredStyles);
+        </script>
+        <script>
+          (function(w, d){
+           var id='embedly-platform', n = 'script';
+           if (!d.getElementById(id)){
+             w.embedly = w.embedly || function() {(w.embedly.q = w.embedly.q || []).push(arguments);};
+             var e = d.createElement(n); e.id = id; e.async=1;
+             e.src = ('https:' === document.location.protocol ? 'https' : 'http') + '://cdn.embedly.com/widgets/platform.js';
+             var s = d.getElementsByTagName(n)[0];
+             s.parentNode.insertBefore(e, s);
+           }
+          })(window, document);
+        </script>
+      
+    
+    <div>
+          <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+        </div></body></html>
