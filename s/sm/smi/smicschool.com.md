@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smicschool.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531051128id_/http%3A//www.smicschool.com/page.cfm%3Fp%3D272) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smicschool.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521223549id_/http%3A//www.smicschool.com/page.cfm%3Fp%3D272) for the most accurate reproduction.*
 
 # SMIC Private School: Privacy Policy
 
