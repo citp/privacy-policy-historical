@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earningstation.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119071449id_/http%3A//www.earningstation.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earningstation.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521123108id_/http%3A//www.earningstation.com/home/privacy) for the most accurate reproduction.*
 
 # EarningStation – Free Gift Cards for Surveys and Videos
 
@@ -99,5 +99,5 @@ If you have questions or comments about this Privacy Policy, desire not to recei
 
 Customer Service   
 EarningStation.com   
-300 Trade Center, Suite 3590   
+400 Trade Center, Suite 4960   
 Woburn, MA 01801 
