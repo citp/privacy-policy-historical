@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the academicearth.org privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203021359id_/http%3A//academicearth.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academicearth.org privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521091940id_/http%3A//academicearth.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Academic Earth
 
-Terms of Use and Privacy Policy for Use of AcademicEarth.org (Effective January 14, 2016)
+Terms of Use and Privacy Policy for Use of AcademicEarth.org® (Effective January 14, 2016)
 
 Thank you for your interest in AcademicEarth.org, and for utilizing our content and resources. We will go over our terms of use and privacy policy on this page, explaining the conditions in which you may use our website, as well as what data AcademicEarth.org collects and how that data is used. 
 
