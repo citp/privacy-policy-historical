@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidfilehost.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229083326id_/https%3A//www.androidfilehost.com%3Fw%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidfilehost.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521024334id_/https%3A//www.androidfilehost.com%3Fw%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AndroidFileHost.com | Download GApps, PA GApps, Roms, Kernels, Themes, Firmware and more. Free file hosting for all Android developers
 
