@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hideme.be privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119083604id_/http%3A//www.hideme.be/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hideme.be privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521041009id_/http%3A//hideme.be/privacy.php) for the most accurate reproduction.*
 
 # HideMe - Free Web Proxy & Anonymous Surfing
 
-[Home](https://web.archive.org/web/20161119083604id_/http%3A//www.hideme.be/index.php) | [Make Money online!](http://nmnetmedia.com/free) | [My Ip](https://web.archive.org/web/20161119083604id_/http%3A//www.hideme.be/myip.php) | [How To Stay Anonymous](https://web.archive.org/web/20161119083604id_/http%3A//www.hideme.be/tips.php) | [Contact](https://web.archive.org/web/20161119083604id_/http%3A//www.hideme.be/contact.php)
+[Home](https://web.archive.org/web/20170521041009id_/http%3A//hideme.be/index.php) | [Online Advertising Marketing](https://www.nmnetmedia.com/) | [My Ip](https://web.archive.org/web/20170521041009id_/http%3A//hideme.be/myip.php) | [How To Stay Anonymous](https://web.archive.org/web/20170521041009id_/http%3A//hideme.be/tips.php) | [Contact](https://web.archive.org/web/20170521041009id_/http%3A//hideme.be/contact.php)
 
 ## Privacy Policy
 
@@ -57,13 +57,14 @@ Although most changes are likely to be minor, HideMe may change its Privacy Poli
   * _January 3, 2011:_ Added court order
 
 
-  * [Prodigy-5](http://prodigy-5.me/)|
-  * [Make Money online!](http://aspir.link/vsl1/?da=lifechanger&t=hmvid)
-  * [Edit Browser](https://web.archive.org/web/20161119083604id_/http%3A//www.hideme.be/edit-browser.php)
-  * [Cookies](https://web.archive.org/web/20161119083604id_/http%3A//www.hideme.be/cookies.php)
-  * [Privacy Policy](https://web.archive.org/web/20161119083604id_/http%3A//www.hideme.be/privacy.php)
-  * [Disclaimer](https://web.archive.org/web/20161119083604id_/http%3A//www.hideme.be/disclaimer.php)
-  * [Terms of Use](https://web.archive.org/web/20161119083604id_/http%3A//www.hideme.be/terms.php)
-  * [FAQ](https://web.archive.org/web/20161119083604id_/http%3A//www.hideme.be/faq.php)
+  * [Social Media Agency](https://www.nmnetmedia.com/)
+  * [Samata](http://extragoldenmilk.com/)|
+  * [Prodigy-5](http://phytoplankton.me/)|
+  * [Edit Browser](https://web.archive.org/web/20170521041009id_/http%3A//hideme.be/edit-browser.php)
+  * [Cookies](https://web.archive.org/web/20170521041009id_/http%3A//hideme.be/cookies.php)
+  * [Privacy Policy](https://web.archive.org/web/20170521041009id_/http%3A//hideme.be/privacy.php)
+  * [Disclaimer](https://web.archive.org/web/20170521041009id_/http%3A//hideme.be/disclaimer.php)
+  * [Terms of Use](https://web.archive.org/web/20170521041009id_/http%3A//hideme.be/terms.php)
+  * [FAQ](https://web.archive.org/web/20170521041009id_/http%3A//hideme.be/faq.php)
 
 
