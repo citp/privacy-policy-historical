@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcteach.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119014202id_/http%3A//www.abcteach.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcteach.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521033753id_/http%3A//www.abcteach.com/privacy_policy.php) for the most accurate reproduction.*
 
 # abcteach: Printable Worksheets for Teachers, Common Core, Smart Board
 
