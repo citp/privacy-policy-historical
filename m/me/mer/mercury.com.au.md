@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mercury.com.au privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013005120id_/http%3A//www.mercury.com.au/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercury.com.au privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521172354id_/http%3A//www.mercury.com.au/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mercury
+# Privacy Policy | Mercury
 
 Mercury Group of Companies Pty Ltd (“Mercury”, “we”, “us”, “our”) is committed to your privacy and complies with the State and Federal Privacy Laws including the Privacy Act 1988 (Cth) and the Australian Privacy Principles
 
