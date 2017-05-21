@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nanacast.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609070306id_/https%3A//nanacast.com/index.php%3F%26req%3Ddoc%26id%3D10006) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanacast.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521121357id_/https%3A//nanacast.com/index.php%3F%26req%3Ddoc%26id%3D10006) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,7 +46,7 @@ We can be reached by contacting:
 
 Internet Business Ideas Inc.
 
-1900 grassmere Street Boise, ID 83709
+1841 Wildwood Street Boise, ID 83713
 
 Changes to this Policy
 
