@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snesfun.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223010310id_/http%3A//www.snesfun.com/page/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snesfun.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521081841id_/http%3A//www.snesfun.com/page/pp) for the most accurate reproduction.*
 
 # Privacy Policy | SNESFUN Play Retro Super Nintendo / SNES / Super Famicom games online in your web browser free
 
