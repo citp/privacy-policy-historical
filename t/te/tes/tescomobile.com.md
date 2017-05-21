@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tescomobile.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005552id_/http%3A//www.tescomobile.com/about-us/terms-and-conditions/general/privacy-and-cookies-policy/%3Ficid%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescomobile.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521072944id_/http%3A//www.tescomobile.com/about-us/terms-and-conditions/general/privacy-and-cookies-policy/%3Ficid%3Dfooter) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | General | Terms and Conditions | About us | Tesco Mobile
 
@@ -150,7 +150,7 @@ Manage and improve our Websites and Mobile Apps
 
 | 
 
-Not entirely. We use cookies and similar technologies on our websites and apps to improve your customer experience. Some cookies are necessary so should not be disabled if you want to make use of the full functionality of our Websites and Mobile Apps. Other cookies can be disabled, but this may affect your customer experience. For more information about cookies and how you can disable some of them, see the Cookies and similar technologies section.  
+We use cookies and similar technologies on our websites and apps to improve your customer experience. Some cookies are necessary so should not be disabled if you want to make use of the full functionality of our Websites and Mobile Apps. Other cookies can be disabled, but this may affect your customer experience. For more information about cookies and how you can disable some of them, see the Cookies and similar technologies section.  
   
   | 
 
@@ -194,7 +194,7 @@ Provide you with relevant marketing communications (including by text, email, po
 
 | 
 
-Not entirely. It is in our legitimate interest to provide you with marketing communications, including online advertising, that are relevant to your interests.  
+It is in our legitimate interest to provide you with marketing communications, including online advertising, that are relevant to your interests.  
 However, you can __change your marketing choices__ , at any time.  
 You also have choices when it comes to online advertising.  Please see your choices when it comes to cookies below, and how you can control your online behavioural advertising preferences.  
   
@@ -220,7 +220,7 @@ Invite you to participate in and manage customer surveys, questionnaires and oth
 
 | 
 
-Not entirely. It is in our legitimate interest to carry out market research. However, while we may contact you about this, you are of course not obliged to take part in these activities. __If you tell us__ that you do not want to be contacted for market research, we will respect this choice and you will not receive any further market research communications from us.
+It is in our legitimate interest to carry out market research. However, while we may contact you about this, you are of course not obliged to take part in these activities. __If you tell us__ that you do not want to be contacted for market research, we will respect this choice and you will not receive any further market research communications from us.
 
 This will not affect your ability to use our Services or your Clubcard.  
   
