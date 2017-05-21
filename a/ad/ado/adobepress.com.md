@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adobepress.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120080014id_/http%3A//www.adobepress.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adobepress.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521121612id_/http%3A//www.adobepress.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -61,10 +61,6 @@ We communicate with users on a regular basis to provide requested services and i
 ## Surveys & Contests
 
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as ZIP code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
-
-## Email A Friend
-
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. AdobePress.com will automatically send the friend a one-time email inviting them to visit the site. AdobePress.com stores this information for the sole purpose of sending this one-time email. The friend may contact AdobePress.com at [customer-service@informit.com](mailto:customer-service@informit.com) to request the removal of this information from the database.
 
 ## Security
 
