@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trusearch.net privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106204049id_/http%3A//trusearch.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trusearch.net privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521051006id_/http%3A//trusearch.net/privacy-policy.php) for the most accurate reproduction.*
 
 # TruSearch.net - Privacy Policy
 
