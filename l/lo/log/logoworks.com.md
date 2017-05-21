@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logoworks.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230094107id_/http%3A//www.logoworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logoworks.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521074051id_/http%3A//logoworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Logoworks | Professional Logo Design, Website Design, and much, much more
 
