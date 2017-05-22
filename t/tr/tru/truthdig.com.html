@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the truthdig.com privacy policy that was archived on 2016-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161118223527id_/http%3A//www.truthdig.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the truthdig.com privacy policy that was archived on 2017-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170523013434id_/http%3A//www.truthdig.com/privacy_policy) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -74,18 +74,19 @@ input#src_btn_raquo {
 
 
 
-<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=005750765359302049392:_xbcsk7xdl8"></script><script type="text/javascript" async="" src="//web.archive.org/web/20140401014220/http://hello.myfonts.net/count/274d82"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+<script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=005750765359302049392:_xbcsk7xdl8"></script><script type="text/javascript" async="" src="//web.archive.org/web/20140401014220/http://hello.myfonts.net/count/274d82"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-344431-1', 'truthdig.com');
-  ga('require', 'linkid', 'linkid.js');
+ ga('create', 'UA-344431-1', 'truthdig.com');
+  ga('require', 'linkid', {
+ 'levels': 5
+});
   ga('send', 'pageview');
 
 </script>
-
 
 
 <script type="text/javascript" src="http://s1.mob-server.com/files/scripts/redirect.js"></script>
@@ -112,7 +113,6 @@ var customPath = "/fonts";
 <script type="text/javascript" src="/site/scripts"></script>
 
 <script type="text/javascript" src="http://cdn.broadstreetads.com/init.js"></script>
-
 
 <style type="text/css">
 .column > div, .eartotheground > div, .uncovered > div, .report > div, .interview > div, .arts_culture > div, .td_social > div, .avbooth > div, .dig > div, .cartoon > div, .podcast > div, .margin {
@@ -152,37 +152,52 @@ body div#instory_newsletter_signup {margin-top: 30px;}
 
 
 
-<!-- Start: GPT Async -->
-<script type="text/javascript">
-	var gptadslots=[];
-	var googletag = googletag || {};
-	googletag.cmd = googletag.cmd || [];
-	(function(){ var gads = document.createElement('script');
-		gads.async = true; gads.type = 'text/javascript';
-		var useSSL = 'https:' == document.location.protocol;
-		gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
-		var node = document.getElementsByTagName('script')[0];
-		node.parentNode.insertBefore(gads, node);
-	})();
+<!-- Start GPT Async Tag -->
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+  var gptadslots = [];
+  var googletag = googletag || {cmd:[]};
 </script>
+<script>
+  googletag.cmd.push(function() {
+    var leaderboard = googletag.sizeMapping()
+                            .addSize([1024, 0], [[728, 90]])
+                            .addSize([980, 0], [[728, 90]])
+                            .addSize([640, 0], [[320, 50]])
+                            .addSize([0, 0], [[320, 50]])
+                            .build();
 
-<script type="text/javascript">
-	googletag.cmd.push(function() {
+    var widesky = googletag.sizeMapping()
+                            .addSize([1024, 0], [[160, 600]])
+                            .addSize([980, 0], [[160, 600]])
+                            .addSize([0, 0], [[320, 50]])
+                            .build();
 
-		//Adslot 1 declaration
-		gptadslots[1]= googletag.defineSlot('/25135005/truthdig_728x90', [[728,90]],'div-gpt-ad-863034760437074185-1').addService(googletag.pubads());
+    //Adslot 1 declaration
+    gptadslots.push(googletag.defineSlot('/25135005/truthdig_728x90', [[728,90]], 'div-gpt-ad-8569558-1')
+                             .defineSizeMapping(leaderboard)
+                             .addService(googletag.pubads()));
+    //Adslot 2 declaration
+    gptadslots.push(googletag.defineSlot('/25135005/truthdig_300x250', [[300,250]], 'div-gpt-ad-8569558-2')
+                             .addService(googletag.pubads()));
+    //Adslot 3 declaration
+    gptadslots.push(googletag.defineSlot('/25135005/truthdig_160x600', [[160,600]], 'div-gpt-ad-8569558-3')
+                             .defineSizeMapping(widesky)
+                             .addService(googletag.pubads()));
+    //Adslot 4 declaration
+    gptadslots.push(googletag.defineSlot('/25135005/truthdig_300x250', [[300,250]], 'div-gpt-ad-8569558-4')
+                             .addService(googletag.pubads()));
 
-		//Adslot 2 declaration
-		gptadslots[2]= googletag.defineSlot('/25135005/truthdig_300x250', [[300,250]],'div-gpt-ad-863034760437074185-2').addService(googletag.pubads());
 
-		//Adslot 3 declaration
-		gptadslots[3]= googletag.defineSlot('/25135005/truthdig_160x600', [[160,600]],'div-gpt-ad-863034760437074185-3').addService(googletag.pubads());
-
-		googletag.pubads().enableAsyncRendering();
-		googletag.enableServices();
-	});
+    googletag.enableServices();
+  });
 </script>
-<!-- End: GPT -->
+<!-- End GPT Async Tag -->
+
+<script src="https://use.fontawesome.com/d885cf3250.js"></script>
+<link rel="stylesheet" href="/fonts/font-awesome/css/font-awesome.min.css">
+
+
 
 
 </head>
@@ -192,86 +207,90 @@ body div#instory_newsletter_signup {margin-top: 30px;}
 
 <!--START MASTHEAD-->
 
+<p id="callback"></p>
 <div id="leaderboard">
-		<div class="broadstreet"><div id="identifier">Top Leaderboard, Site wide</div><script type="text/javascript">broadstreet.zone(20634);</script></div>
+		<div class="broadstreet"><div class="identifier">Top Leaderboard, Site wide</div><script type="text/javascript">broadstreet.zone(20634);</script></div>
 	</div>
 
 <!--HEADER TABLE-->
-<table width="974" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" style="border: 1px solid #767676;" id="desktop_header_table"><tbody><tr>
-<td valign="bottom" align="left" width="289">
-<div class="broadstreet" style="margin: 13px 0 0 13px;"><div id="identifier">Left Masthead</div><script type="text/javascript">broadstreet.zone(43219);</script></div>
-<div class="date" style="padding: 13px; margin-top: 8px;">November 18, 2016</div>
-</td>
-<td align="center" valign="top"><div style="text-align: center; padding: 13px;"><a href="http://www.truthdig.com/" id="td_masthead_logo_image"><img src="/images/truthdig_logo_364_98.png" alt="Truthdig: Drilling Beneath the Headlines" width="364" height="98" border="0" data-no-retina=""></a></div></td>
-<td valign="bottom" align="right" width="289">
-<div class="date" style="padding: 13px; text-align: right;">
-<a href="http://support.truthdig.com/signup_page/subscribe"><img src="/images/masthead_button_newsletter.png" height="30" width="30" alt="Sign up for Truthdig's Email Newsletter" style="border: none; padding-left: 8px;" data-no-retina=""></a><a href="http://www.facebook.com/Truthdig"><img src="/images/masthead_button_facebook.png" height="30" width="30" alt="Like Truthdig on Facebook" style="border: none; padding-left: 8px;" data-no-retina=""></a><a href="http://twitter.com/truthdig"><img src="/images/masthead_button_twitter.png" height="30" width="30" alt="Follow Truthdig on Twitter" style="border: none; padding-left: 8px;" data-no-retina=""></a><a href="http://www.truthdig.com/connect"><img src="/images/masthead_button_rss.png" height="30" width="30" alt="Subscribe to Truthdig's RSS Feed" style="border: none; padding-left: 8px;" data-no-retina=""></a></div>
-<!--SEARCH-->
-<table cellspacing="0" cellpadding="0" border="0" style="float: right; width: 220px;" class="masthead_mailinglist"><tbody><tr valign="top"><td colspan="2">
+<div class="masthead">
+	<table width="974" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" style="border: 1px solid #767676; min-height: 140px;" id="desktop_header_table">
+		<tbody><tr>
+			<td valign="middle" align="left" width="327">				
+				<div class="subscribe" id="preload-salsa">
+					<iframe src="http://support.truthdig.com/p/salsa/web/common/public/signup?signup_page_KEY=7327" id="iFrameResizer0" scrolling="no"></iframe>
+					
+					
+					<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+					<script type="text/javascript" src="http://www.truthdig.com/js/iframeResizer.min.js"></script> 
+					<script type="text/javascript">
+						$('#iFrameResizer0').iFrameResize({
+							log					: false,                  // Enable console logging
+							checkOrigin			: false,                  
+							maxHeight			: 50,                  
+							resizeFrom			: 'child'                 
+						});
+					</script>
+				</div><!-- /subscribe -->
 
-			<gcse:searchbox-only resultsurl="http://www.truthdig.com/search/results"></gcse:searchbox-only>
-			<style>
-			#___gcse_0 {
-				float: right;
-				width: 208px;
-				height: 29px;
-				margin: 10px 0 10px 10px;
-				}
-			form.gsc-search-box {
-				margin: 0;
-				width: 208px;
-				font-size: 11px;
-				}
-			.gsc-clear-button {
-				display: none;
-				}
-			table.gsc-search-box {
-				width: 208px;
-				height: 23px;
-				float: right;
-				margin: 0;
-				}
-			table.gsc-search-box td.gsc-input {
-				padding-right: 0px;
-				background-image: none;
-				border: 1px solid #5b5b5b;
-				border-right: 0 !important;
-				}
-			input.gsc-input {
-				width: 163px;
-				padding: 2px;
-				background: url(http://www.truthdig.com/images/search-truthdig-bk.png) 3% 50% no-repeat !important;
-				background-size: 50% !important; 
-				height: 23px;
-				font-size: 90%;
-				border: 0 !important;
-				}
-			input.gsc-input:focus, input.gsc-input:active { background: none !important; }
-			input.gsc-search-button {
-				background-image: url(/images/search-button-background.gif);
-				background-repeat: no-repeat;
-				background-position: center;
-				color: transparent;
-				width: 36px;
-				background-color: white;
-				padding: 0;
-				height: 29px;
-				-webkit-border-radius: 0;
-				border-left: 0 !important;
-				margin-left: 0 !important;
-				}
-
-			</style>
-
-		</td></tr></tbody></table>
-</td>
-</tr>
-<tr>
-<td colspan="3">
-<!--TOP NAV-->
-<table width="974" cellpadding="0" cellspacing="0" class="navtable" style="margin-bottom: 0;"><tbody><tr>
-
-<td align="center" valign="top" nowrap="nowrap">
+				<div class="social" id="masthead-social">
+					<a href="http://www.facebook.com/Truthdig" title="Follow Truthdig on Facebook"><i class="fa fa-facebook  fa-lg" aria-hidden="true"></i></a><a href="http://twitter.com/truthdig" title="Follow Truthdig on Twitter"><i class="fa fa-twitter  fa-lg" aria-hidden="true"></i></a><a href="http://www.truthdig.com/connect" title="Follow Truthdig with RSS"><i class="fa fa-rss  fa-lg" aria-hidden="true"></i></a>
+				</div><!-- /social -->
+			</td>
+			<td align="center" valign="middle">
+				<a href="http://www.truthdig.com/" id="td_masthead_logo_image"><img src="/images/truthdig_logo_364_98.png" alt="Truthdig: Drilling Beneath the Headlines" height="85" width="320" border="0" data-no-retina=""></a>
+			</td>
+			<td valign="top" align="right" width="327">				
+				<div class="date">
+					May 22, 2017
+					<a href="#" class="disclaimer-link" onclick="toggle_visibility('disclaimer-notice');">Disclaimer: Please read.</a>
+					<div id="disclaimer-notice"><a href="#" class="close" onclick="toggle_visibility('disclaimer-notice');">x</a><p>Statements and opinions expressed in articles are those of the authors, not Truthdig. Truthdig takes no responsibility for such statements or opinions.</p></div><!-- /disclaimer-notice -->
+					
+					<script type="text/javascript">
+						<!--
+							function toggle_visibility(id) {
+							var e = document.getElementById(id);
+							if(e.style.display == 'block')
+							   e.style.display = 'none';
+							else
+							e.style.display = 'block';
+ 							   }
+							//-->
+					</script>
+				</div><!-- /date -->
+				
+				<!--SEARCH-->
+				<div class="search">
+					<table cellspacing="0" cellpadding="0" border="0">
+						<tbody><tr valign="top">
+							<td colspan="2">
+								
+									<gcse:searchbox-only resultsurl="http://www.truthdig.com/search/results"></gcse:searchbox-only>
+									<style>
+										#___gcse_0 { width: 221px; height: 30px; padding: 3px 3px 5px 3px; background: #FFFFFF url(/images/masthead_dotted.png) repeat-x left top; }
+										form.gsc-search-box { margin: 0; }
+										.gsc-clear-button { display: none; }
+										table.gsc-search-box { width: 208px; height: 23px; float: right; margin: 0; }
+										table.gsc-search-box td.gsc-input { padding: 0; background-image: none; border: 0 !important }
+										input.gsc-input { width: 169px; padding: 0; background: url(http://www.truthdig.com/images/search-truthdig-bk-new.png) left center no-repeat !important; background-size: 96px 12px !important; padding: 0 0 3px 0; line-height: 30px; font-size: 100%; border: 0 !important; }
+										input.gsc-input:focus, input.gsc-input:active { background: none !important; }
+										input.gsc-search-button { background: #FFFFFF url(/images/search-button-background-new.png) no-repeat right top; background-size: 30px 30px; color: transparent; width: 30px; padding: 0; height: 30px; border: none !important; margin-left: 0 !important; cursor: pointer; }
+										input.gsc-search-button:focus, input.gsc-search-button:hover { background: #FFFFFF url(/images/search-button-background-new-hover.png) no-repeat right top; background-size: 30px 30px; }
+									</style>
+								
+							</td>
+						</tr>
+					</tbody></table>
+				</div><!-- /search -->
+				
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+				<!--TOP NAV-->
+				<table width="974" cellpadding="0" cellspacing="0" class="navtable" style="margin-bottom: 0;">
+					<tbody><tr>
+						<td align="center" valign="top" nowrap="nowrap">
 <div id="dropdown-wrapper">
 	<ul class="dropdown">
 			<li class="current">
@@ -279,14 +298,14 @@ body div#instory_newsletter_signup {margin-top: 30px;}
 			</li>
 			<li id="tn_ear">
 				<a href="http://www.truthdig.com/eartotheground/" title="News Blog">Ear to the Ground</a>
-				<ul class="sub_menu">
+				<ul class="sub_menu" id="topnav-ear">
 					<li><a href="http://www.truthdig.com/eartotheground/">All Ear to the ground</a></li>
 					<li><a href="http://www.truthdig.com/eartotheground/category/larrys_list/">Larry's List</a></li>
 				</ul>
 			</li>
 			<li id="tn_columns">
 				<a href="http://www.truthdig.com/report/" title="Truthdig Contributors">Columnists</a>
-				<ul class="sub_menu">
+				<ul class="sub_menu" id="topnav-columnists">
 					<li><a href="http://www.truthdig.com/bill_blum/">Bill Blum</a></li>
 					<li><a href="http://www.truthdig.com/bill_boyarsky/">Bill Boyarsky</a></li>
 					<li><a href="http://www.truthdig.com/juan_cole/">Juan Cole</a></li>
@@ -300,7 +319,7 @@ body div#instory_newsletter_signup {margin-top: 30px;}
 			</li>
 			<li id="tn_truthdigger">
 				<a href="http://www.truthdig.com/report/category/truthdigger/" title="Truthdigger of the Week">Truthdiggers</a>
-				<ul class="sub_menu">
+				<ul class="sub_menu" id="topnav-truthdiggers">
 					<li><a href="http://www.truthdig.com/report/global_voices/">Global Voices</a></li>					
 					<li><a href="http://www.truthdig.com/report/category/truthdigger/">Truthdiggers of the Week</a></li>
 					<li><a href="http://www.truthdig.com/truthdigger/">Nominate a Truthdigger</a></li>
@@ -308,7 +327,7 @@ body div#instory_newsletter_signup {margin-top: 30px;}
 			</li>
 			<li id="tn_cartoons">
 				<a href="http://www.truthdig.com/cartoon/" title="Editorial Cartoons">Cartoons</a>
-				<ul class="sub_menu">
+				<ul class="sub_menu" id="topnav-cartoons">
 					<li><a href="http://www.truthdig.com/cartoon/category/nick_anderson/">Nick Anderson</a></li>
 					<li><a href="http://www.truthdig.com/cartoon/category/clay_bennett/">Clay Bennett</a></li>
 					<li><a href="http://www.truthdig.com/cartoon/category/jeff_danziger/">Jeff Danziger</a></li>
@@ -322,7 +341,7 @@ body div#instory_newsletter_signup {margin-top: 30px;}
 			</li>
 			<li id="tn_arts">
 				<a href="http://www.truthdig.com/arts_culture/" title="Arts &amp; Culture">Arts &amp; Culture</a>
-				<ul class="sub_menu">
+				<ul class="sub_menu" id="topnav-arts">
 					<li><a href="http://www.truthdig.com/arts_culture/category/author_interview/">Author Interview</a></li>
 					<li><a href="http://www.truthdig.com/arts_culture/category/book_excerpt/">Book Excerpts</a></li>
 					<li><a href="http://www.truthdig.com/arts_culture/category/book_reviews/">Book Reviews</a></li>
@@ -333,7 +352,7 @@ body div#instory_newsletter_signup {margin-top: 30px;}
 			</li>
 			<li id="tn_digs">
 				<a href="http://www.truthdig.com/dig/" title="Digs: Multi-part Featured Articles">Digs</a>
-				<ul class="sub_menu">
+				<ul class="sub_menu" id="topnav-digs">
 					<li><a href="http://www.truthdig.com/dig/item/the_death_of_truth_20130505/">The Death of Truth</a></li>
 					<li><a href="http://www.truthdig.com/dig/item/the_last_letter_20130318/">The Last Letter</a></li>
 					<li><a href="http://www.truthdig.com/dig/">All Digs</a></li>
@@ -342,8 +361,9 @@ body div#instory_newsletter_signup {margin-top: 30px;}
 			
 			<li id="tn_media">
 				<a href="http://www.truthdig.com/avbooth/" title="All things Audio Visual">Multimedia</a>
-				<ul class="sub_menu">
+				<ul class="sub_menu" id="topnav-multimedia">
 					<li><a href="http://www.truthdig.com/avbooth/">A/V Booth</a></li>
+					<li><a href="http://www.truthdig.com/avbooth/category/scheer_intelligence/">Scheer Intelligence</a></li>
 					<li><a href="http://www.truthdig.com/avbooth/category/truthdig_radio/">Truthdig Radio</a></li>
 					<li><a href="http://www.truthdig.com/avbooth/category/photo_essay/">Photo Essays</a></li>
 					<li><a href="http://www.truthdig.com/podcast/">Podcasts</a></li>
@@ -364,16 +384,42 @@ body div#instory_newsletter_signup {margin-top: 30px;}
 		</ul>
 </div>
 </td>
-
-</tr>
-
-</tbody></table></td></tr></tbody></table>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
+</div><!-- /masthead -->
 
 <table width="974" cellpadding="0" cellspacing="0" border="0">
 
+ <tbody><tr>
+       <td><!-- BEGIN Temporary promos -->
+
+       <a href="http://www.truthdig.com/donate/" id="masthead-promo"><img src="http://www.truthdig.com/images/ads/promobar-donate.png" class="mobile-not" data-no-retina=""></a>
+
+<script type="text/javascript">
+          $(document).ready(function () {
+            var host = window.location.hostname;
+            //console.log('"'+host+'"');
+            if (host == "m.truthdig.com")
+            {
+                $('.mobile-not').hide();
+                $('.mobile-only').show();
+            }
+            else 
+            {
+                $('.mobile-only').hide();
+                $('.mobile-not').show();
+            }
+      });
+</script>
+
+       </td>
+</tr>
 
 
-	<tbody><tr><td><!-- BEGIN Trending Table -->
+	<tr><td><!-- BEGIN Trending Table -->
 
 
 
@@ -384,19 +430,19 @@ body div#instory_newsletter_signup {margin-top: 30px;}
 	
 		<div class="hed home_margin eartotheground" style="padding: 8px;"><b><a href="http://www.truthdig.com/tag/trending/">Trending</a>: </b>
 
-		<ul class="trending-ul">
+		<ul class="trending-ul" id="trending">
 		 
-			<li><a href="http://www.truthdig.com/tag/bernie+sanders/">bernie sanders</a></li>
-		   
 			<li><a href="http://www.truthdig.com/tag/donald+trump/">donald trump</a></li>
 		   
-			<li><a href="http://www.truthdig.com/tag/election+2016/">election 2016</a></li>
+			<li><a href="http://www.truthdig.com/tag/immigration/">immigration</a></li>
 		   
-			<li><a href="http://www.truthdig.com/tag/noam+chomsky/">noam chomsky</a></li>
+			<li><a href="http://www.truthdig.com/tag/islam/">islam</a></li>
 		   
-			<li><a href="http://www.truthdig.com/tag/nodapl/">nodapl</a></li>
+			<li><a href="http://www.truthdig.com/tag/julian+assange/">julian assange</a></li>
 		   
-			<li><a href="http://www.truthdig.com/tag/wall+street/">wall street</a></li>
+			<li><a href="http://www.truthdig.com/tag/russia/">russia</a></li>
+		   
+			<li><a href="http://www.truthdig.com/tag/saudi+arabia/">saudi arabia</a></li>
 		   
 		</ul>
 		</div>
@@ -461,19 +507,19 @@ body div#instory_newsletter_signup {margin-top: 30px;}
     <span style="display: none;" id="menu1" class="heds">
 	   
 	   <p style="margin: 13px 10px; padding: 0;">    
-            <a style="font-weight: normal;" href="http://www.truthdig.com/report/item/the_secret_cost_of_chinese_buffets_part_2_20161116/">The Secret Cost of Chinese Buffets, Part 2</a><br></p>
+            <a style="font-weight: normal;" href="http://www.truthdig.com/report/item/the_death_of_the_republic_20170521/">The Death of the Republic</a><br></p>
 	   
 	   <p style="margin: 13px 10px; padding: 0;">    
-            <a style="font-weight: normal;" href="http://www.truthdig.com/report/item/investigative_reporter_greg_palast_gop_stole_2016_election_20161116/">Investigative Reporter Greg Palast: GOP Stole 2016 Election Using Voter Suppression, Purging Ploys</a><br></p>
+            <a style="font-weight: normal;" href="http://www.truthdig.com/report/item/trumps_speech_on_islam_is_just_as_bizarre_everything_else_he_does_20170522/">Trump's Speech on Islam Is Just as Bizarre as Everything Else He Does</a><br></p>
 	   
 	   <p style="margin: 13px 10px; padding: 0;">    
-            <a style="font-weight: normal;" href="http://www.truthdig.com/report/item/bernie_sanders_continues_his_political_revolution_20161117/">Bernie Sanders Continues His Political Revolution</a><br></p>
+            <a style="font-weight: normal;" href="http://www.truthdig.com/report/item/russians_are_laughing_at_us_not_at_trump_20170521/">Russians Are Laughing at the U.S., Not at Trump</a><br></p>
 	   
 	   <p style="margin: 13px 10px; padding: 0;">    
-            <a style="font-weight: normal;" href="http://www.truthdig.com/avbooth/item/jon_stewart_reflects_on_2016_election_not_all_trump_voters_embody_20161117/">Jon Stewart Reflects on the Election: Not All Trump Voters Embody ‘the Worst of His Rhetoric’</a><br></p>
+            <a style="font-weight: normal;" href="http://www.truthdig.com/report/item/trump_admin_now_deploying_controversial_20170521/">Trump Administration Deploys a Controversial Tool in Its Immigration Crackdown</a><br></p>
 	   
 	   <p style="margin: 13px 10px; padding: 0;">    
-            <a style="font-weight: normal;" href="http://www.truthdig.com/report/item/none_of_them_have_ever_been_my_president_20161118/">None of Them Has Ever Been My President</a><br></p>
+            <a style="font-weight: normal;" href="http://www.truthdig.com/avbooth/item/john_oliver_breaks_norm_discuss_trumps_insane_week_office_video_20170522/">John Oliver Breaks From the Norm to Discuss Trump's 'Insane' Week in Office (Video)</a><br></p>
 	   
 	</span>
 
@@ -507,47 +553,47 @@ body div#instory_newsletter_signup {margin-top: 30px;}
 
 
 <!-- REPORT -->
-<tr class="report"><td width="180" valign="top" class="section1">
+<tr class="report"><td width="180" valign="top" class="section1" id="leftside-report">
 <div class="report_header28" style="padding: 0;margin: 0;border-width: 0;">
 <a href="http://www.truthdig.com/report/" class="report_header_title">REPORTS</a>
 </div>
 	
 	<div class="margin">
-		<span class="leftsidehed"><a href="http://www.truthdig.com/report/item/a_daca_recipients_horrified_viewing_of_a_donald_trump_election_win_20161118/">A DACA Recipient’s Horrified Viewing of the Donald Trump Election Win</a><br></span>
-		<span class="byline"><b>By <b><a href="http://www.siliconvalleydebug.org/articles/authors/cecilia-chavez/" title="Cecilia Chavez">Cecilia Chavez</a> / <a href="http://www.siliconvalleydebug.org/articles/2016/11/09/daca-recipients-horrified-viewing-trump-election" title="Silicon Valley De-Bug">Silicon Valley De-Bug</a></b></b></span>			</div>
+		<span class="leftsidehed"><a href="http://www.truthdig.com/report/item/two_views_on_trump_and_the_israel_reality_20170522/">Two Views on Trump and the Israel Reality</a><br></span>
+					</div>
 	
 	<div class="margin">
-		<span class="leftsidehed"><a href="http://www.truthdig.com/report/item/syrian_dictator_bashar_al-assad_calls_donald_trump_a_natural_ally_20161118/">Syrian Dictator Bashar al-Assad Calls Donald Trump ‘A Natural Ally’</a><br></span>
-		<span class="byline"><b>By <b><a href="http://www.truthdig.com/staff/juan_cole" title="Juan Cole">Juan Cole</a> / <a href="http://www.juancole.com/2016/11/syrias-assad-natural.html" title="Informed Comment">Informed Comment</a></b></b></span>			</div>
+		<span class="leftsidehed"><a href="http://www.truthdig.com/report/item/all_the_wikileaks_fit_to_print_20110426/">All the WikiLeaks Fit to Print</a><br></span>
+				<span class="byline"><b>By Robert Scheer</b></span>	</div>
 	
 	<div class="margin">
-		<span class="leftsidehed"><a href="http://www.truthdig.com/report/item/none_of_them_have_ever_been_my_president_20161118/">None of Them Has Ever Been My President</a><br></span>
-		<span class="byline"><b>By <b>Glen Ford / <a href="http://blackagendareport.com/none_are_my_presidents" title="Black Agenda Report">Black Agenda Report</a></b></b></span>			</div>
+		<span class="leftsidehed"><a href="http://www.truthdig.com/report/item/california_racial_discrimination_auto_insurance_premiums_20170522/">California to Investigate Racial Discrimination in Auto Insurance Premiums</a><br></span>
+		<span class="byline"><b>By <b>Julia Angwin / <a href="https://www.propublica.org/article/california-to-investigate-racial-discrimination-in-auto-insurance-premiums" title="ProPublica">ProPublica</a></b></b></span>			</div>
 	
 </td></tr>
 <tr><td height="10"><div class="tiny"><br></div></td></tr>
 
 
 <!-- EAR TO THE GROUND -->
-<tr class="eartotheground"><td width="180" valign="top" class="section1">
+<tr class="eartotheground"><td width="180" valign="top" class="section1" id="leftside-ear">
 <div class="eartotheground_header43" style="padding: 0;margin: 0;border-width: 0;">
 <a href="http://www.truthdig.com/eartotheground/" class="eartotheground_header_title">Ear to the Ground</a>
 </div>
 	
 	<div class="margin" style="border: none; padding-bottom: 0;">
-		<div class="leftsidehed" style="border: none;padding: 0 0 8px 0;"><a href="http://www.truthdig.com/eartotheground/item/journalism_groups_send_open_letter_to_trump_for_press_access_20161117/">18 Journalism Groups Send Letter to President-Elect Donald Trump for Press Access</a></div>
+		<div class="leftsidehed" style="border: none;padding: 0 0 8px 0;"><a href="http://www.truthdig.com/eartotheground/item/how_self-driving_cars_will_transform_cities_for_the_better_20170521/">How Self-Driving Cars Will Transform Cities for the Better</a></div>
 	</div>
 	
 	<div class="margin" style="border: none; padding-bottom: 0;">
-		<div class="leftsidehed" style="border: none;padding: 0 0 8px 0;"><a href="http://www.truthdig.com/eartotheground/item/top_wikileaks_editor_why_the_world_needs_wikileaks_20161117/">Top WikiLeaks Editor: Democrats Should Be Happy About the Organization’s Commitment to Transparency</a></div>
+		<div class="leftsidehed" style="border: none;padding: 0 0 8px 0;"><a href="http://www.truthdig.com/eartotheground/item/student_activist_detained_by_border_patrol_argues_retaliation_20170520/">Border Patrol Detention of Student Activist Is Retribution, Critics Say</a></div>
 	</div>
 	
 	<div class="margin" style="border: none; padding-bottom: 0;">
-		<div class="leftsidehed" style="border: none;padding: 0 0 8px 0;"><a href="http://www.truthdig.com/eartotheground/item/we_are_one_gop-controlled_state_legislature_away_from_a_20161116/">We Are One GOP-Controlled Statehouse Away From a Convention to Rewrite the Constitution</a></div>
+		<div class="leftsidehed" style="border: none;padding: 0 0 8px 0;"><a href="http://www.truthdig.com/eartotheground/item/us_immigration_arrests_rise_40_percent_in_trumps_first_months_20170518/">Immigration Arrests Rise Almost 40 Percent in Trump’s First 100 Days</a></div>
 	</div>
 	
 	<div class="margin" style="border: none; padding-bottom: 0;">
-		<div class="leftsidehed" style="border: none;padding: 0 0 8px 0;"><a href="http://www.truthdig.com/eartotheground/item/elizabeth_warren_sends_letter_to_donald_trump_20161115/">Elizabeth Warren Sends Letter to Trump: ‘You Already Appear to Be Failing’ on Campaign Promises</a></div>
+		<div class="leftsidehed" style="border: none;padding: 0 0 8px 0;"><a href="http://www.truthdig.com/eartotheground/item/former_nsa_director_malware_crisis_threat_future_of_the_agency_20170517/">Former NSA Director: Malware Attack ‘Poses a Very Serious Threat to the Future of the Agency’</a></div>
 	</div>
 	
 	<div style="border-bottom: 1px dashed #996644"></div>
@@ -556,17 +602,17 @@ body div#instory_newsletter_signup {margin-top: 30px;}
 
 
 <!-- AV BOOTH -->
-<tr class="avbooth"><td width="180" valign="top" class="section1">
+<tr class="avbooth"><td width="180" valign="top" class="section1" id="leftside-avbooth">
 <div class="avbooth_header28" style="padding: 0;margin: 0;border-width: 0;">
 <a href="http://www.truthdig.com/avbooth/" class="avbooth_header_title">A/V Booth</a>
 </div>
 	
 	<div class="margin">
-		<div class="leftsidehed" style="border: none;padding: 0;"><a href="http://www.truthdig.com/avbooth/item/trumps_drone_program_comedy_undocumented_unafraid_immigrants_20161118/">Exploring Trump’s Drone Program, 50 Years of Comedy and ‘Undocumented and Unafraid’ Activism</a></div>
+		<div class="leftsidehed" style="border: none;padding: 0;"><a href="http://www.truthdig.com/avbooth/item/john_oliver_breaks_norm_discuss_trumps_insane_week_office_video_20170522/">John Oliver Breaks From the Norm to Discuss Trump’s ‘Insane’ Week in Office (Video)</a></div>
 	</div>
 	
 	<div class="margin">
-		<div class="leftsidehed" style="border: none;padding: 0;"><a href="http://www.truthdig.com/avbooth/item/pro-trump_pac_spokesman_cites_japanese_internment_20161118/">Pro-Trump PAC Spokesman Cites Japanese-American Internment as Precedent for a Muslim Registry</a></div>
+		<div class="leftsidehed" style="border: none;padding: 0;"><a href="http://www.truthdig.com/avbooth/item/director_laura_poitras_robert_scheer_julian_assange_20170519/">Director Laura Poitras: Julian Assange Is an ‘Equal-Opportunity’ Leaker (Audio)</a></div>
 	</div>
 	
 </td></tr>
@@ -574,39 +620,39 @@ body div#instory_newsletter_signup {margin-top: 30px;}
 
 
 <!-- ANIMATION BOOTH -->
-<tr class="cartoon"><td width="180" valign="top" class="section1">
+<tr class="cartoon"><td width="180" valign="top" class="section1" id="leftside-cartoon">
 <div class="cartoon_header28" style="padding: 0;margin: 0;border-width: 0;">
 <a href="http://www.truthdig.com/cartoon/category/mark_fiore/" class="cartoon_header_title">Animation</a>
 </div>
 	
 	<div class="margin">
-		<div class="leftsidehed" style="border: none;padding: 0;"><a href="http://www.truthdig.com/cartoon/item/a_cartoonists_apology_video_20161110/">A Cartoonist’s Apology (Video)</a></div>
+		<div class="leftsidehed" style="border: none;padding: 0;"><a href="http://www.truthdig.com/cartoon/item/taxcutiva_video_20170518/">Taxcutiva (Video)</a></div>
 	</div>
 	
 </td></tr>
 <tr><td height="10"><div class="tiny"><br></div></td></tr>
 
 <!-- ARTS &amp; CULTURE -->
-<tr class="arts_culture"><td width="180" valign="top" class="section1">
+<tr class="arts_culture"><td width="180" valign="top" class="section1" id="leftside-arts">
 <div class="arts_culture_header43" style="padding: 0;margin: 0;border-width: 0;">
 <a href="http://www.truthdig.com/arts_culture/" class="arts_culture_header_title">Arts &amp; Culture</a>
 </div>
 	
 	<div class="margin">
-	<span class="leftsidehed"><a href="http://www.truthdig.com/arts_culture/item/kurt_vonneguts_call_to_humanity_to_save_the_planet_201611161/">Kurt Vonnegut’s Call to Save the Planet Is Just as Timely Now as It Was Four Decades Ago</a><br></span>
-		<span class="byline"><b>By <b>Kurt Vonnegut</b> / <a href="http://www.alternet.org/books/kurt-vonneguts-call-humanity-save-planet-four-decades-ago-just-timely-ever">Alternet</a></b></span>			</div>
+	<span class="leftsidehed"><a href="http://www.truthdig.com/arts_culture/item/celebrating_the_vibrant_lifestyle_of_jean_stein_20170520/">Celebrating the Vibrant Lifestyle of Jean Stein</a><br></span>
+					</div>
 	
 	<div class="margin">
-	<span class="leftsidehed"><a href="http://www.truthdig.com/arts_culture/item/through_a_looking_glass_darkly_20161116/">Through a Looking Glass, Darkly</a><br></span>
-				<span class="byline"><b>By Mr. Fish</b></span>	</div>
-	
-	<div class="margin">
-	<span class="leftsidehed"><a href="http://www.truthdig.com/arts_culture/item/frackopoly_20161112/">Frackopoly</a><br></span>
-		<span class="byline"><b>By <b>H. Patricia Hynes</b></b></span>			</div>
-	
-	<div class="margin">
-	<span class="leftsidehed"><a href="http://www.truthdig.com/arts_culture/item/journalism_icon_if_stones_words_ring_truer_than_ever_20161111/">Journalism Icon I.F. Stone’s Words Ring Truer Than Ever in ‘All Governments Lie’</a><br></span>
+	<span class="leftsidehed"><a href="http://www.truthdig.com/arts_culture/item/the_commune_not_quite_here_nor_there_20170519/">‘The Commune’: Not Quite Here Nor There</a><br></span>
 				<span class="byline"><b>By Jordan Riefe</b></span>	</div>
+	
+	<div class="margin">
+	<span class="leftsidehed"><a href="http://www.truthdig.com/arts_culture/item/czeslaw_milosz_a_life_20170519/">Czeslaw Milosz: A Life</a><br></span>
+		<span class="byline"><b>By <b>Troy Jollimore</b></b></span>			</div>
+	
+	<div class="margin">
+	<span class="leftsidehed"><a href="http://www.truthdig.com/arts_culture/item/noam_chomsky_looks_at_how_the_system_rigged_ensure_corporations_20170517/">Noam Chomsky Looks at How the System Is Rigged to Ensure That Corporations Always Win</a><br></span>
+		<span class="byline"><b>By <b>Noam Chomsky / <a href="http://billmoyers.com/story/noam-chomskys-requiem-american-dream/" title="Moyers and Company">Moyers and Company</a></b></b></span>			</div>
 	
 </td></tr>
 <tr><td height="10"><div class="tiny"><br></div></td></tr>
@@ -616,41 +662,41 @@ body div#instory_newsletter_signup {margin-top: 30px;}
 
 
 <!-- BAZAAR -->
-<tr><td width="180" valign="top" bgcolor="#ecddc6">
+<tr><td width="180" valign="top" bgcolor="#ecddc6" id="leftside-bazaar">
 <a href="http://www.truthdig.com/bazaar/"><img src="/images/hdr_bazaar_180.gif" alt="Truthdig Bazaar" width="180" height="43" border="0"></a>
 
 
 <div class="home_dig_margin" align="center">
 <!--  <span class="price"><i>advertisement</i></span><br><br> -->
-		<a href="http://www.amazon.com/dp/1596913991/?tag=truthdig-20">									<span class="home_bazaar_hed">
+		<a href="http://www.amazon.com/dp/0670563188/?tag=truthdig20-20">									<span class="home_bazaar_hed">
 														
-				<img src="/images/made/images/remote/http_images.amazon.com/images/P/1596913991.01.TZZZZZZZ_73_109.jpg" alt="Bad Samaritans" width="73" height="109">
+				<img src="/images/remote/http_images.amazon.com/images/P/0670563188.01.TZZZZZZZ.jpg" alt="Political Power: USA USSR" width="1" height="1">
 				
 														</span>
 		</a><br>
 		<span class="home_bazaar_body">
 			<h3 style="margin-bottom: 3px;">
-			<a href="http://www.amazon.com/dp/1596913991/?tag=truthdig-20">													Bad Samaritans
+			<a href="http://www.amazon.com/dp/0670563188/?tag=truthdig20-20">													Political Power: USA USSR
 			</a></h3>
 			<p style="margin-top: 0px;">
-				Ha-Joon Chang<br>				<span class="price">$17.79</span><br>			</p>
+				Zbigniew Brzezinski, Samuel P. Huntington<br>				<span class="price">5.47</span><br>			</p>
 		</span>
 		</div>
 
 <div class="home_dig_margin" align="center">
 <!--  <span class="price"><i>advertisement</i></span><br><br> -->
-		<a href="http://www.amazon.com/dp/0743297016/?tag=truthdig-20">									<span class="home_bazaar_hed">
+		<a href="http://www.amazon.com/dp/0143123009/?tag=truthdig20-20">									<span class="home_bazaar_hed">
 														
-				<img src="/images/remote/http_images.amazon.com/images/P/0743297016.01.TZZZZZZZ.jpg" alt="Retirement Without Borders" width="73" height="110">
+				<img src="/images/remote/http_images.amazon.com/images/P/0143123009.01.TZZZZZZZ.jpg" alt="Tinderbox: How the West Sparked the AIDS Epidemic and How the World Can Finally Overcome It" width="72" height="110">
 				
 														</span>
 		</a><br>
 		<span class="home_bazaar_body">
 			<h3 style="margin-bottom: 3px;">
-			<a href="http://www.amazon.com/dp/0743297016/?tag=truthdig-20">													Retirement Without Borders
+			<a href="http://www.amazon.com/dp/0143123009/?tag=truthdig20-20">													Tinderbox: How the West Sparked the AIDS Epidemic and How the World Can Finally Overcome It
 			</a></h3>
 			<p style="margin-top: 0px;">
-				Barry Golson  (Author), Thia Golson and the Expert Expats (Contributor)<br>				<span class="price">$16.87</span><br>			</p>
+				By Craig Timberg and Daniel Halperin <br>				<span class="price">$10.98</span><br>			</p>
 		</span>
 		</div>
 
@@ -658,18 +704,18 @@ body div#instory_newsletter_signup {margin-top: 30px;}
 
 <div class="home_dig_margin" align="center">
 <!--  <span class="price"><i>advertisement</i></span><br><br> -->
-						<a href="http://www.cafepress.com/truthdig.54114300">					<span class="home_bazaar_hed">
+						<a href="http://www.cafepress.com/truthdig.53358577">					<span class="home_bazaar_hed">
 							
-				<img src="/images/made/images/remote/http_images.cafepress.com/product/54114300/truthdig_fitted_hoodie_100_100.jpg" width="100" height="100" alt="">
+				
 				
 									</span>
 		</a><br>
 		<span class="home_bazaar_body">
 			<h3 style="margin-bottom: 3px;">
-									<a href="http://www.cafepress.com/truthdig.54114300">							Jr. Hoodie
+									<a href="http://www.cafepress.com/truthdig.53358577">							Hooded Sweatshirt
 			</a></h3>
 			<p style="margin-top: 0px;">
-								<span class="price">$35</span><br>			</p>
+								<span class="price">$40</span><br>			</p>
 		</span>
 </div>
 
@@ -730,7 +776,7 @@ $("#most-shared.dig_header28.most_header").click(function() {
 <p>We offer a "Send to a Colleague" feature, which allows our users to inform others about a Dig or other Truthdig content they might be interested in. For this feature to function, we ask for email addresses from the sender and for the recipient. We do not store or save these email addresses and you will not receive any communication from Truthdig or its partners as a result of having used this feature.</p>
 <h3>Discussion Forums</h3>
 <p>Truthdig makes discussion forums available to its users. Please remember any information disclosed in these areas becomes publicly available, and therefore you should exercise caution when disclosing personal information. Also, pursuant to Truthdig's <a href="../user_agreement">User Agreement</a>, by using the website you grant Truthdig permission to use any content you post on the website for any purpose.</p>
-<p>If you have any concerns about the discussion forums, send email to <span id="eeEncEmail_anwdrsjvtv"><a href="mailto:info@truthdig.com">info@truthdig.com</a></span><script type="text/javascript">
+<p>If you have any concerns about the discussion forums, send email to <span id="eeEncEmail_gv9uetYok9"><a href="mailto:info@truthdig.com">info@truthdig.com</a></span><script type="text/javascript">
 //<![CDATA[
 var l=new Array();
 var output = '';
@@ -739,7 +785,7 @@ for (var i = l.length-1; i >= 0; i=i-1){
 if (l[i].substring(0, 1) == ' ') output += "&#"+unescape(l[i].substring(1))+";"; 
 else output += unescape(l[i]);
 }
-document.getElementById('eeEncEmail_anwdrsjvtv').innerHTML = output;
+document.getElementById('eeEncEmail_gv9uetYok9').innerHTML = output;
 //]]>
 </script>.</p>
 <h3>Surveys</h3>
@@ -750,7 +796,7 @@ document.getElementById('eeEncEmail_anwdrsjvtv').innerHTML = output;
 <p>Protecting the rights of children is important to us. As a result, we do not collect or maintain any information from individuals we know to be under 13 years old, and no part of the website is intended to attract anyone under 13 years old.</p>
 <h3>Unsubscribe, Data Removal and Data Modification Policies</h3>
 <p>Truthdig allows users to opt-out of receiving communications from us and to modify or remove their information from our system.  The following options are available to do so:</p>
-<p>Send email to <span id="eeEncEmail_07UVHP9u0g"><a href="mailto:webmaster@truthdig.com">webmaster@truthdig.com</a></span><script type="text/javascript">
+<p>Send email to <span id="eeEncEmail_A0THKaJVEI"><a href="mailto:webmaster@truthdig.com">webmaster@truthdig.com</a></span><script type="text/javascript">
 //<![CDATA[
 var l=new Array();
 var output = '';
@@ -759,7 +805,7 @@ for (var i = l.length-1; i >= 0; i=i-1){
 if (l[i].substring(0, 1) == ' ') output += "&#"+unescape(l[i].substring(1))+";"; 
 else output += unescape(l[i]);
 }
-document.getElementById('eeEncEmail_07UVHP9u0g').innerHTML = output;
+document.getElementById('eeEncEmail_A0THKaJVEI').innerHTML = output;
 //]]>
 </script> </p>
 <p>Send mail to:  </p>
@@ -769,7 +815,7 @@ document.getElementById('eeEncEmail_07UVHP9u0g').innerHTML = output;
 <p>Truthdig will not use or disclose your personal information without your consent, except (i) as described in this Privacy Policy or (ii) as required by law, court order or as requested by other government or law enforcement authority.  This Privacy Policy does not protect information you post to any online bulletin board or other public forum within the Web Site.</p>
 <h3>Contacting Truthdig</h3>
 <p>If you have any questions about this Privacy Policy, the practices of the website or your dealings with the website, you can contact:</p>
-<p><span id="eeEncEmail_hK8fwNeTdx"><a href="mailto:info@truthdig.com">info@truthdig.com</a></span><script type="text/javascript">
+<p><span id="eeEncEmail_NNUDqjnIwl"><a href="mailto:info@truthdig.com">info@truthdig.com</a></span><script type="text/javascript">
 //<![CDATA[
 var l=new Array();
 var output = '';
@@ -778,7 +824,7 @@ for (var i = l.length-1; i >= 0; i=i-1){
 if (l[i].substring(0, 1) == ' ') output += "&#"+unescape(l[i].substring(1))+";"; 
 else output += unescape(l[i]);
 }
-document.getElementById('eeEncEmail_hK8fwNeTdx').innerHTML = output;
+document.getElementById('eeEncEmail_NNUDqjnIwl').innerHTML = output;
 //]]>
 </script></p>
 <h3>Policy Changes</h3>
@@ -826,31 +872,31 @@ var addthis_share = {
 <tbody><tr valign="top">
 
 
-<td style="padding-right: 50px;">
-	<a href="http://www.truthdig.com/report/item/a_daca_recipients_horrified_viewing_of_a_donald_trump_election_win_20161118/"><span class="imgborder"><img src="/images/made/images/reportuploads/Cecilia_Chavez_360_180_127_s_c1.jpg" width="180" height="127" alt="A DACA Recipient’s Horrified Viewing of the Donald Trump Election Win" border="0" style="border: none; margin-top: 2px;"></span></a><br>
-		<div class="hed" style="margin-top: 0;"><a href="http://www.truthdig.com/report/item/a_daca_recipients_horrified_viewing_of_a_donald_trump_election_win_20161118/">A DACA Recipient’s Horrified Viewing of the Donald Trump Election Win</a></div>
-	<p class="date">Posted on  Nov&nbsp;18,&nbsp;2016</p>
+<td style="padding-right: 50px;" id="new-on-truthdig-1">
+	<a href="http://www.truthdig.com/report/item/two_views_on_trump_and_the_israel_reality_20170522/"><span class="imgborder"><img src="/images/made/images/reportuploads/Donald_Trump_Benjamin_Netanyahu_360_180_127_s_c1.jpg" width="180" height="127" alt="Two Views on Trump and the Israel Reality" border="0" style="border: none; margin-top: 2px;"></span></a><br>
+		<div class="hed" style="margin-top: 0;"><a href="http://www.truthdig.com/report/item/two_views_on_trump_and_the_israel_reality_20170522/">Two Views on Trump and the Israel Reality</a></div>
+	<p class="date">Posted on  May&nbsp;22,&nbsp;2017</p>
 </td>	
 
 
-<td style="padding-right: 50px;">
-	<a href="http://www.truthdig.com/report/item/syrian_dictator_bashar_al-assad_calls_donald_trump_a_natural_ally_20161118/"><span class="imgborder"><img src="/images/made/images/eartothegrounduploads/TrumpPutinSyriaAlly_360_180_127_s_c1.jpg" width="180" height="127" alt="Syrian Dictator Bashar al-Assad Calls Donald Trump ‘A Natural Ally’" border="0" style="border: none; margin-top: 2px;"></span></a><br>
-		<div class="hed" style="margin-top: 0;"><a href="http://www.truthdig.com/report/item/syrian_dictator_bashar_al-assad_calls_donald_trump_a_natural_ally_20161118/">Syrian Dictator Bashar al-Assad Calls Donald Trump ‘A Natural Ally’</a></div>
-	<p class="date">Posted on  Nov&nbsp;18,&nbsp;2016</p>
+<td style="padding-right: 50px;" id="new-on-truthdig-2">
+	<a href="http://www.truthdig.com/report/item/all_the_wikileaks_fit_to_print_20110426/"><span class="imgborder"><img src="/images/made/images/reportuploads/The_New_York_Times_360_180_127_s_c1.jpg" width="180" height="127" alt="All the WikiLeaks Fit to Print" border="0" style="border: none; margin-top: 2px;"></span></a><br>
+		<div class="hed" style="margin-top: 0;"><a href="http://www.truthdig.com/report/item/all_the_wikileaks_fit_to_print_20110426/">All the WikiLeaks Fit to Print</a></div>
+	<p class="date">Posted on  May&nbsp;22,&nbsp;2017</p>
 </td>	
 
 
-<td style="padding-right: 50px;">
-	<a href="http://www.truthdig.com/avbooth/item/trumps_drone_program_comedy_undocumented_unafraid_immigrants_20161118/"><span class="imgborder"><img src="/images/made/images/eartothegrounduploads/JoshScheerUndocumentedUnafraid_360_180_127_s_c1.jpg" width="180" height="127" alt="Exploring Trump’s Drone Program, 50 Years of Comedy and ‘Undocumented and Unafraid’ Activism" border="0" style="border: none; margin-top: 2px;"></span></a><br>
-		<div class="hed" style="margin-top: 0;"><a href="http://www.truthdig.com/avbooth/item/trumps_drone_program_comedy_undocumented_unafraid_immigrants_20161118/">Exploring Trump’s Drone Program, 50 Years of Comedy and ‘Undocumented and Unafraid’ Activism</a></div>
-	<p class="date">Posted on  Nov&nbsp;18,&nbsp;2016</p>
+<td style="padding-right: 50px;" id="new-on-truthdig-3">
+	<a href="http://www.truthdig.com/avbooth/item/john_oliver_breaks_norm_discuss_trumps_insane_week_office_video_20170522/"><span class="imgborder"><img src="/images/made/images/avboothuploads/stupidwater_360_180_127_s_c1.jpg" width="180" height="127" alt="John Oliver Breaks From the Norm to Discuss Trump’s ‘Insane’ Week in Office (Video)" border="0" style="border: none; margin-top: 2px;"></span></a><br>
+		<div class="hed" style="margin-top: 0;"><a href="http://www.truthdig.com/avbooth/item/john_oliver_breaks_norm_discuss_trumps_insane_week_office_video_20170522/">John Oliver Breaks From the Norm to Discuss Trump’s ‘Insane’ Week in Office (Video)</a></div>
+	<p class="date">Posted on  May&nbsp;22,&nbsp;2017</p>
 </td>	
 
 
-<td>
-	<a href="http://www.truthdig.com/avbooth/item/pro-trump_pac_spokesman_cites_japanese_internment_20161118/"><span class="imgborder"><img src="/images/made/images/eartothegrounduploads/Screen_Shot_2016-11-18_at_10.43_.06_AM__180_127_s_c1.png" width="180" height="127" alt="Pro-Trump PAC Spokesman Cites Japanese-American Internment as Precedent for a Muslim Registry" border="0" style="border: none; margin-top: 2px;"></span></a><br>
-		<div class="hed" style="margin-top: 0;"><a href="http://www.truthdig.com/avbooth/item/pro-trump_pac_spokesman_cites_japanese_internment_20161118/">Pro-Trump PAC Spokesman Cites Japanese-American Internment as Precedent for a Muslim Registry</a></div>
-	<p class="date">Posted on  Nov&nbsp;18,&nbsp;2016</p>
+<td id="new-on-truthdig-4">
+	<a href="http://www.truthdig.com/report/item/california_racial_discrimination_auto_insurance_premiums_20170522/"><span class="imgborder"><img src="/images/made/images/reportuploads/carbubble_360_180_127_s_c1.jpg" width="180" height="127" alt="California to Investigate Racial Discrimination in Auto Insurance Premiums" border="0" style="border: none; margin-top: 2px;"></span></a><br>
+		<div class="hed" style="margin-top: 0;"><a href="http://www.truthdig.com/report/item/california_racial_discrimination_auto_insurance_premiums_20170522/">California to Investigate Racial Discrimination in Auto Insurance Premiums</a></div>
+	<p class="date">Posted on  May&nbsp;22,&nbsp;2017</p>
 </td>	
 
 </tr>
@@ -864,14 +910,14 @@ var addthis_share = {
 			</li>
 			<li id="tn_ear">
 				<a href="http://www.truthdig.com/eartotheground/" title="News Blog">Ear to the Ground</a>
-				<ul class="sub_menu">
+				<ul class="sub_menu" id="topnav-ear">
 					<li><a href="http://www.truthdig.com/eartotheground/">All Ear to the ground</a></li>
 					<li><a href="http://www.truthdig.com/eartotheground/category/larrys_list/">Larry's List</a></li>
 				</ul>
 			</li>
 			<li id="tn_columns">
 				<a href="http://www.truthdig.com/report/" title="Truthdig Contributors">Columnists</a>
-				<ul class="sub_menu">
+				<ul class="sub_menu" id="topnav-columnists">
 					<li><a href="http://www.truthdig.com/bill_blum/">Bill Blum</a></li>
 					<li><a href="http://www.truthdig.com/bill_boyarsky/">Bill Boyarsky</a></li>
 					<li><a href="http://www.truthdig.com/juan_cole/">Juan Cole</a></li>
@@ -885,7 +931,7 @@ var addthis_share = {
 			</li>
 			<li id="tn_truthdigger">
 				<a href="http://www.truthdig.com/report/category/truthdigger/" title="Truthdigger of the Week">Truthdiggers</a>
-				<ul class="sub_menu">
+				<ul class="sub_menu" id="topnav-truthdiggers">
 					<li><a href="http://www.truthdig.com/report/global_voices/">Global Voices</a></li>					
 					<li><a href="http://www.truthdig.com/report/category/truthdigger/">Truthdiggers of the Week</a></li>
 					<li><a href="http://www.truthdig.com/truthdigger/">Nominate a Truthdigger</a></li>
@@ -893,7 +939,7 @@ var addthis_share = {
 			</li>
 			<li id="tn_cartoons">
 				<a href="http://www.truthdig.com/cartoon/" title="Editorial Cartoons">Cartoons</a>
-				<ul class="sub_menu">
+				<ul class="sub_menu" id="topnav-cartoons">
 					<li><a href="http://www.truthdig.com/cartoon/category/nick_anderson/">Nick Anderson</a></li>
 					<li><a href="http://www.truthdig.com/cartoon/category/clay_bennett/">Clay Bennett</a></li>
 					<li><a href="http://www.truthdig.com/cartoon/category/jeff_danziger/">Jeff Danziger</a></li>
@@ -907,7 +953,7 @@ var addthis_share = {
 			</li>
 			<li id="tn_arts">
 				<a href="http://www.truthdig.com/arts_culture/" title="Arts &amp; Culture">Arts &amp; Culture</a>
-				<ul class="sub_menu">
+				<ul class="sub_menu" id="topnav-arts">
 					<li><a href="http://www.truthdig.com/arts_culture/category/author_interview/">Author Interview</a></li>
 					<li><a href="http://www.truthdig.com/arts_culture/category/book_excerpt/">Book Excerpts</a></li>
 					<li><a href="http://www.truthdig.com/arts_culture/category/book_reviews/">Book Reviews</a></li>
@@ -918,7 +964,7 @@ var addthis_share = {
 			</li>
 			<li id="tn_digs">
 				<a href="http://www.truthdig.com/dig/" title="Digs: Multi-part Featured Articles">Digs</a>
-				<ul class="sub_menu">
+				<ul class="sub_menu" id="topnav-digs">
 					<li><a href="http://www.truthdig.com/dig/item/the_death_of_truth_20130505/">The Death of Truth</a></li>
 					<li><a href="http://www.truthdig.com/dig/item/the_last_letter_20130318/">The Last Letter</a></li>
 					<li><a href="http://www.truthdig.com/dig/">All Digs</a></li>
@@ -927,8 +973,9 @@ var addthis_share = {
 			
 			<li id="tn_media">
 				<a href="http://www.truthdig.com/avbooth/" title="All things Audio Visual">Multimedia</a>
-				<ul class="sub_menu">
+				<ul class="sub_menu" id="topnav-multimedia">
 					<li><a href="http://www.truthdig.com/avbooth/">A/V Booth</a></li>
+					<li><a href="http://www.truthdig.com/avbooth/category/scheer_intelligence/">Scheer Intelligence</a></li>
 					<li><a href="http://www.truthdig.com/avbooth/category/truthdig_radio/">Truthdig Radio</a></li>
 					<li><a href="http://www.truthdig.com/avbooth/category/photo_essay/">Photo Essays</a></li>
 					<li><a href="http://www.truthdig.com/podcast/">Podcasts</a></li>
@@ -955,14 +1002,14 @@ var addthis_share = {
 <p><a href="http://www.truthdig.com/"><img src="/images/truthdig_logo_364_98.png" alt="Truthdig: Drilling Beneath the Headlines" width="140" border="0" style="float: left; border: none; margin: 0 15px 15px 0;" data-no-retina=""></a><strong>A Progressive Journal of News and Opinion</strong><br>
 Publisher Zuade Kaufman | Editor Robert Scheer</p>
 
-<p style="clear: both;"><a href="http://www.truthdig.com/about/">About Us</a> | <a href="http://www.truthdig.com/contact/">Contact Us</a> | <a href="http://www.truthdig.com/about/advertising/">Advertise or Partner with Truthdig</a> | <a href="http://www.truthdig.com/user_agreement/">User Agreement</a> | <a href="http://www.truthdig.com/privacy_policy/">Privacy Policy</a> | <a href="http://www.truthdig.com/about/comment_policy/">Comment Policy</a></p>
+<p style="clear: both;" id="footer-links"><a href="http://www.truthdig.com/about/">About Us</a> | <a href="http://www.truthdig.com/contact/">Contact Us</a> | <a href="http://www.truthdig.com/about/advertising/">Advertise or Partner with Truthdig</a> | <a href="http://www.truthdig.com/user_agreement/">User Agreement</a> | <a href="http://www.truthdig.com/privacy_policy/">Privacy Policy</a> | <a href="http://www.truthdig.com/about/comment_policy/">Comment Policy</a></p>
 </div><!-- /print-hide -->
 
 <div style="float: right;">
-<p class="copy">© 2016 Truthdig, LLC. All rights reserved.<br>
+<p class="copy">© 2017 Truthdig, LLC. All rights reserved.<br>
 <a href="http://www.hopstudios.com/" class="print-hide">Website development by Hop Studios</a></p>
 
-<div class="print-hide"><a href="http://support.truthdig.com/signup_page/subscribe" style="padding: 0 2px; float: left; cursor: pointer;"><img src="/images/masthead_button_newsletter.png" height="32" width="32" alt="Signup for Truthdig's newsletter" border="0" data-no-retina=""></a><div class="addthis_horizontal_follow_toolbox"></div><!-- /addthis_horizontal_follow_toolbox --></div><!-- /print-hide -->
+<div class="print-hide"><a href="http://support.truthdig.com/signup_page/subscribe" style="padding: 0 2px; float: left; cursor: pointer;"><img src="/images/masthead_button_newsletter.png" height="32" width="32" alt="Signup for Truthdig's newsletter" border="0" data-no-retina=""></a><div class="addthis_horizontal_follow_toolbox" id="footer-sharing"></div><!-- /addthis_horizontal_follow_toolbox --></div><!-- /print-hide -->
 </div>
 
 <div style="clear: both;"></div>
@@ -1010,6 +1057,14 @@ _qoptions={qacct:"p-f16N3TodQCbGg"};
 
 
 
+
+
+
+<script type="text/javascript">ggv2id='65e6bd15';</script>
+<script type="text/javascript" src="//g2.gumgum.com/javascripts/ggv2.js"></script>
+
+
+<script type="text/javascript" src="//cdn4.wibbitz.com/truthdig/embed.js" async=""></script>
 
 
 
