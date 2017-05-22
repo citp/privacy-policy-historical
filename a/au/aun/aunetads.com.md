@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aunetads.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119001153id_/http%3A//www.aunetads.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aunetads.com privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522231741id_/http%3A//www.aunetads.com/info/privacy.php) for the most accurate reproduction.*
 
 # AUNetAds.com - Privacy Policy
 
