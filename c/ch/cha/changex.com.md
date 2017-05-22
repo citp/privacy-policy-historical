@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the changex.com privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821100220id_/https%3A//changex.com/en/c/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changex.com privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522142852id_/https%3A//changex.com/en/c/privacy-policy) for the most accurate reproduction.*
 
 # Changex.com
 
