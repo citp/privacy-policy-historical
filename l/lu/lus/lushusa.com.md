@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the lushusa.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224316id_/http%3A//www.lushusa.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lushusa.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523003425id_/https%3A//www.lushusa.com/on/demandware.store/Sites-Lush-Site/en_US/CustomerService-Page%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[ ](https://web.archive.org/on/demandware.store/Sites-Lush-Site/en_US/CustomerService-Page?cid=customer-care) [ ](https://web.archive.org/on/demandware.store/Sites-Lush-Site/en_US/CustomerService-Page?cid=contact-us) [ ](https://web.archive.org/on/demandware.store/Sites-Lush-Site/en_US/CustomerService-Page?cid=shipping-info) [ ](https://web.archive.org/on/demandware.store/Sites-Lush-Site/en_US/CustomerService-Page?cid=returns) [ ](https://web.archive.org/on/demandware.store/Sites-Lush-Site/en_US/CustomerService-Page?cid=faqs) [ ](https://web.archive.org/on/demandware.store/Sites-Lush-Site/en_US/CustomerService-Page?cid=policies)
+
+[Policies](http://www.lushusa.com/on/demandware.store/Sites-Lush-Site/en_US/CustomerService-Page?cid=policies)
 
 Effective Date: This Privacy Policy was last revised on August 29, 2014
 
@@ -58,7 +62,7 @@ If you request information from third parties, request that we send information 
 
 Our vendors may collect your information or we may share it with them. More on sharing information
 
-**(c)Administrative and Legal Reasons**
+ **(c)Administrative and Legal Reasons**
 
 There are a variety of administrative and legal reasons for which we may share your information. More on reasons for sharing information
 
