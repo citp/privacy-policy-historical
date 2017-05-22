@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmice.com privacy policy that was archived on 2016-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160730134752id_/http%3A//www.webmice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmice.com privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522092118id_/http%3A//www.webmice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
