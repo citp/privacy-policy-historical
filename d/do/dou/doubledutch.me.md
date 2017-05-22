@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doubledutch.me privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128155458id_/http%3A//doubledutch.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubledutch.me privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522185833id_/http%3A//doubledutch.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DoubleDutch
 
@@ -6,7 +6,7 @@
 
 Last modified: February 16, 2016
 
-**DoubleDutch, Inc., our subsidiaries DoubleDutch EMEA B.V. and DoubleDutch (Hong Kong) Limited, and our international subsidiaries  **(collectively “DoubleDutch”, “we”, “us” or “our”), cares about your privacy and data protection. We recommend that you carefully review this privacy and cookies policy. We may change this policy from time to time, but if we do so we will announce this on our website [https://www.doubledutch.me](https://www.doubledutch.me/) or in our [event applications](https://web.archive.org/product/event-app). If any changes are material and/or retroactive, we may provide additional notice as appropriate under the circumstances. Our use and disclosure of particular information will be governed by the Privacy Policy in effect at the time we gather that information.
+**DoubleDutch, Inc., our subsidiary DoubleDutch EMEA B.V., and our international subsidiaries  **(collectively “DoubleDutch”, “we”, “us” or “our”), cares about your privacy and data protection. We recommend that you carefully review this privacy and cookies policy. We may change this policy from time to time, but if we do so we will announce this on our website [https://www.doubledutch.me](https://www.doubledutch.me/) or in our [event applications](https://web.archive.org/product/event-app). If any changes are material and/or retroactive, we may provide additional notice as appropriate under the circumstances. Our use and disclosure of particular information will be governed by the Privacy Policy in effect at the time we gather that information.
 
 By accessing and using the Website or App, you represent and warrant that you have read and understood, and that you agree to be bound by, this privacy policy.
 
@@ -51,7 +51,7 @@ We use cookies and web beacons in our App and on our Website. A cookie is a smal
 Attn: Legal Department  
 350 Rhode Island Street, Suite 375  
 San Francisco, CA 94103 USA  
-[privacy@doubledutch.me](https://web.archive.org/web/20161128155458id_/http://doubledutch.me/privacy-policy/privacy@doubledutch.me)
+[privacy@doubledutch.me](https://web.archive.org/web/20170522185833id_/http%3A//doubledutch.me/privacy@doubledutch.me)
 
 **Appendix 1: Cookies and Purpose**
 
