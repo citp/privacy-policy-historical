@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the asda.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119041530id_/http%3A//www.asda.com/help/privacy-policy.html%3Fcmpid%3Dahc-_-ahc-_-asdacom-_-hp-_-footer-_-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asda.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523004546id_/http%3A//www.asda.com/help/privacy-policy.html%3Fcmpid%3Dahc-_-ahc-_-asdacom-_-hp-_-footer-_-privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ASDA
 
-## **Our Privacy Mission Statement:**
+## Our Privacy Mission Statement:
 
 > "At ASDA, we value the trust placed in us by customers, suppliers and colleagues who give us their personal data. Data security is one of our highest priorities and we aim to be as clear as possible about what we do with personal data and why we do it." 
 
-## **Our Privacy Statement for ASDA websites**
+## Our Privacy Statement for ASDA websites
 
 Your privacy is really important to us, and we understand how important it is to you. Our aim is to be as clear and open as possible about what we do and why we do it. ASDA is committed to the online privacy of all its users. 
 
@@ -16,7 +16,7 @@ This ASDA website is run by the ASDA group of companies and its partners (" **we
 
 We run this site in order to promote products and services and, where these are provided by our partners, to be the link between our customers and our partners. Our partners may have their own privacy policies which you should also look at. 
 
-## **Information We Collect**
+## Information We Collect
 
 To be able to order from us we have to collect certain information from you. As part of this, you are required to give your contact information. We use the information given to us by you to provide the service you request from us in the way that is set out in this privacy policy. You can change your registration details easily through the account facilities available on the website or by getting in touch with our Data Protection Officer at the address below 
 
@@ -47,9 +47,9 @@ Where you submit information on an ASDA Money website, our partners will collect
 
 You may also provide us with personal information if you contact customer services, if you enter promotions or competitions run by us or if you get in touch with us in some other way, for example by way of an email facility provided on the website. 
 
-## **How We Use The Information We Collect**
+## How We Use The Information We Collect
 
-Our main uses of your information are explained above which in general is to process your orders, as well as to help us understand your needs and provide you with a better service. Your account may be used to store information about your previous purchases, personal preferences and shopping lists. But you should also be aware of the following uses - 
+Our main uses of your information are explained above which in general is to process your orders, as well as to help us understand your needs and provide you with a better service. Your account may be used to store information about your previous purchases, personal preferences and shopping lists. But you should also be aware of the following uses -
 
 **Marketing** \- we (including our group companies and partners) and carefully selected third parties may use the information we collect to inform you, by letter, phone, SMS, push notification or equivalent, or email, about offers, products and services that we think may be of interest to you and we may tell you about other organisations' products and services. We will tell you about this when we collect your information and if you do not wish to receive these communications, please let us know. You can change your mind at any time by going to the account facilities available on the website or by contacting our Data Protection Officer at the address below. You can also unsubscribe following the instructions that we will include in any communication, such as email or text, we send to you. 
 
@@ -63,7 +63,7 @@ Our main uses of your information are explained above which in general is to pro
 
 **Fraud Prevention** \- in order to protect our customers and us from fraud and theft, we may look at the information that we get from making identity checks and other information in our customer records, including how you conduct your account, and may pass this to other group companies, other retailers and to financial and other organisations (including law enforcement agencies) involved in fraud prevention and detection, to use in the same way. When you apply for products or services through our website you may also be required to go through a more detailed credit check on terms which will tell you about you first. 
 
-## **Cookies**
+## Cookies
 
 Our sites use a number of different cookies. Below we explain the cookies we use and why we use them.   
 What is a cookie?   
@@ -71,7 +71,7 @@ Cookies we use and why we use them
 Your right to refuse cookies and what happens if you refuse them
 
 **What is a cookie?**   
-A cookie is a small text file that may be placed on your device when you visit our sites. When you next visit our sites the cookie allows us to distinguish you from other users. 
+A cookie is a small text file that may be placed on your device when you visit our sites. When you next visit our sites the cookie allows us to distinguish you from other users.
 
 **There are two broad categories of cookies:**
 
@@ -97,23 +97,9 @@ Marketing cookies record your visits to our sites, the pages you have visited an
 
 
 **Your right to refuse cookies and what happens if you refuse them**   
-You can refuse cookies by activating the relevant setting on your browser. However, if you do so you may not be able to access all or parts of our sites. If you carry on using our sites and do not change your browser settings we will assume you consent to us using cookies as described above. 
+You can refuse cookies by activating the relevant setting on your browser. However, if you do so you may not be able to access all or parts of our sites. If you carry on using our sites and do not change your browser settings we will assume you consent to us using cookies as described above.
 
-## **Who We Share The Information With**
-
-We will not sell your personal information to third parties other than our subsidiaries, affiliates or parent companies unless you say we can (for example for carefully selected third parties to contact you) or are required by law. We may share your information with third parties to process and fulfil your order, to provide services you request, for business analysis purposes, for the purposes of fraud prevention or if ASDA itself, or any of our business is bought or sold. 
-
-**Market Research** \- we may provide information at an aggregated statistical level about our customers, sales, traffic patterns and related site information to third parties, but this information will not identify individuals. 
-
-**Processing by third parties** \- from time to time we may employ other companies and individuals to perform functions on our behalf. Examples include completing orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, confirming contact details, looking at information, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments and providing customer service (such as through our call centre staff located in the UK or South Africa). They have access to personal information needed to perform their functions, but may not use it for other purposes. They must also process the personal information as set out in this Privacy Policy and as permitted by the UK's Data Protection Act. 
-
-**International transfers** \- in order to carry out the steps set out above we may send your personal information outside of the European Economic Area and, if necessary, across international borders. The data protection laws in these countries may not be as comprehensive as in the European Economic Area. However, we have taken appropriate steps to make sure the same level of protection for the processing carried out in these countries as within the European Economic Area. Any details you provide may be electronically sent to the US to our parent company Wal-Mart Stores Inc., which helps us in running our websites. However, any such information will be dealt with in accordance with the UK's Data Protection Act. 
-
-## **Storage of Data**
-
-We will not store your personal information for any longer than we need to, however we may be obliged by law to store your communications and personal information including activity logs and we may need to show details of these to government or authorised officials upon request. Like many websites, we use log files to monitor the effectiveness of our online marketing programmes. 
-
-## **Access Rights**
+## Access Rights
 
 You have a right to access the personal information that is held about you. To obtain a copy of the personal information ASDA holds about you, please write to us at the following address enclosing your postal details and a cheque for £10, which we are entitled by law to charge, payable to ASDA Stores Limited:   
 Data Protection Officer,   
@@ -159,19 +145,19 @@ Un-install - You can stop all collection of information by our mobile applicatio
 
 Adjust permissions - You may at any time opt-out from further allowing us to have access to your location data by adjusting the permissions in your mobile device. 
 
-## **Links**
+## Links
 
 Our website may contain links to let you to visit other websites of interest easily. Once you have used these links to leave our website, you should be aware that we do not have any control over that other website. As such we cannot be responsible for the protection and privacy of any information which you provide whilst visiting these websites, and they are not governed by this Privacy Policy. ASDA is not responsible for any products and/or services featured on any third party website. You should exercise caution and look at the Privacy Policy applicable to the website in question. 
 
-## **Notification of Changes to This Policy**
+## Notification of Changes to This Policy
 
 If we decide to change our Privacy Policy, we will post these changes on this website so you know what information we collect and how we use it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will tell you. You will have a choice as to whether or not we use your information in this different manner. 
 
-## **Feedback**
+## Feedback
 
 We want to make sure we're giving you the information about privacy and security that you want - let us know what you think. If you have any feedback, questions or concerns, please email us at [dataprotection@asda.co.uk](mailto:dataprotection@asda.co.uk). 
 
-## **ASDA group of companies:**
+## ASDA group of companies:
 
 **Asda Stores Limited**   
 Asda House   
