@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecamplace.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224172027id_/http%3A//www.freecamplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecamplace.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523011303id_/http%3A//www.freecamplace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Freecamplace
 
@@ -45,10 +45,6 @@ Your personal information is not shared with any third parties and is used mainl
 9\. Changing the information stored by our website 
 
 You can modify your email preferences and opt-out from certain communications or change your personal information by updating your profile here. Please note that due to server synchronization updates, changes may take a few hours to appear on the website. You can also contact our customer service by clicking here or delete your account. The data will be saved by us but your profile will not be visible anymore.
-
-**%s :** %s
-
-**%s :** %s
 
 **Tip from %s: %d tokens.**
 
