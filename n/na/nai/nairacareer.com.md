@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nairacareer.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210001303id_/http%3A//www.nairacareer.com/2012/04/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nairacareer.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523003557id_/http%3A//www.nairacareer.com/2012/04/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | NairaCareer
 
@@ -46,7 +46,7 @@ This Privacy Policy was last updated on: Thursday, April 12th, 2012.
 
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
 
-_Disclaimer: Note that we make every effort to verify the authenticity of our daily posts, we encourage our readers to also confirm before application, we're in no way affiliated to any of the companies. Our advice for you is never to pay any amount of money to any recruiter for job aid or educational consultant for admission aid_.
+_Disclaimer: Note that we make every effort to verify the authenticity of our daily posts, we encourage our readers to also confirm before application. Our advice for you is never to pay any amount of money to any recruiter for job aid or educational consultant for admission aid_.
 
 [ ](https://www.blogger.com/rearrange?blogID=8301075955387038017&widgetType=Text&widgetId=Text1&action=editWidget&sectionId=main "Edit")
 
