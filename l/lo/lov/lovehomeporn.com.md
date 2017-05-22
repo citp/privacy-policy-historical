@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovehomeporn.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231102id_/http%3A//lovehomeporn.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovehomeporn.com privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522235634id_/https%3A//lovehomeporn.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LoveHomePorn - Homemade Porn Tube
 
@@ -18,4 +18,4 @@ By accepting the Terms and Conditions in registration, a member/subscriber (you)
 
 Please note that your personal information will be stored and processed on our computers in the Netherlands. The laws on holding personal data in the Netherlands may be less stringent than the laws of your country but we will hold and transmit your personal information in a safe, confidential and secure environment. If you object to your personal information being transferred or used as described in this Privacy Policy, please do not subscribe, join or seek membership at our website. If you send us correspondence, including e-mails, we retain such information in the records of your account. We will also retain customer service correspondence and other correspondence from us to you. We retain these records in order to measure and improve our customer service, and to investigate potential fraud and violations of our User Agreement. We may, over time, delete these records if permitted by law.
 
-For questions regarding this privacy statement, please [contact us](http://lovehomeporn.com/static/contact).
+For questions regarding this privacy statement, please [contact us](https://lovehomeporn.com/static/contact).
