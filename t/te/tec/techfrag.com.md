@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techfrag.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119182216id_/http%3A//techfrag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techfrag.com privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522224433id_/http%3A//techfrag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TechFrag
 
-Privacy of our visitors is very important to us, at TechFrag. We acknowledge the importance of your privacy and want to notify you of what type of information is being collected from our website when you visit TechFrag.Com, and how we safeguard your personal information. We assure you that we will never sell your personal information to third parties. 
+Privacy of our visitors is very important to us, at TechFrag. We acknowledge the importance of your privacy and want to notify you of what type of information is being collected from our website when you visit TechFrag.Com, and how we safeguard your personal information. We assure you that we will never sell your personal information to third parties.
 
 **Personal Information**  
 The information may include your name, IP address, email address, ISP, your location, the browser you used to visit our site, time you spent, and which pages you visited through the site. This information is collected by every site in the World, so we are no different. Your personal information will never be released, sold, or rented to any entities or individuals outside TechFrag.Com.
