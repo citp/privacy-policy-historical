@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the import.io privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023142842id_/https%3A//www.import.io/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the import.io privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522174820id_/https%3A//www.import.io/about/privacy) for the most accurate reproduction.*
 
 # Privacy - import.io
+
+([Download a PDF of this policy here](https://29sx8n2t96ugksl9wwp9ah1f-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/Import-Privacy-Policy.pdf).)
 
 This Privacy Policy (the “ **Policy** “) explains how information about that directly identifies you (“ **personal information** “) is collected, used and disclosed by Import.io Corporation (“ **Company** ,” “ **we** ” or “ **us** “) and its affiliates, which own and operate Company in connection with our website at [www.import.io](http://www.import.io/) (the “ **Site** “) as well as the tools and services accessed through it (collectively with the Site, our “ **Service** “).  The Policy also may describe some of our practices about other information that we collect from you or computers or devices that you use in connection with the Service which we may, in our sole discretion, choose to treat as personal information.  By accessing or using our Service, you signify that you have read, understood and agree to our collection, storage, use and disclosure of your personal information as described in this Policy.
 
