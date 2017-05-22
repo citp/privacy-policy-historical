@@ -1,55 +1,100 @@
-> *The following text is extracted and transformed from the chill.ie privacy policy that was archived on 2012-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120419032435id_/http%3A//www.chill.ie/privacy-policy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chill.ie privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523003501id_/https%3A//www.chill.ie/company/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Statement | Chill Insurance - Ireland
+# Privacy Policy Statement | Legal | Chill Insurance Ireland
 
-| 
+## Ensuring your privacy is protected
 
-Chill Insurance respect your right to privacy and comply with our obligations under the Data Protection Acts 1988 and 2002. The purpose of this Website Privacy Policy is to outline how we deal with any personal data you provide to us while visiting this website. By visiting this website, you are accepting the terms of this Website Privacy Policy. Any external links to other websites are clearly identifiable as such, and we are not responsible for the content or the privacy policies of these other websites.
+Chill Insurance Limited (“Chill Insurance”) respect your right to privacy and comply with our obligations under the Data Protection Acts 1988 and 2003 (the “Acts”). The purpose of this Privacy Policy is to outline how we deal with any personal data you provide to us or we collect from you. We take great care with any personal data we hold, so that we provide the highest standard of service to you, whilst taking steps to keep it secure and to ensure it is only used for legitimate purposes.
+
+By using our services you explicitly consent to the processing of your personal or sensitive data as set out in this Privacy Policy. In circumstances where you provide personal or sensitive data relating to persons other than you, you are confirming that you have obtained the consent of such other persons to the processing of their personal and sensitive data as set out in this Privacy Policy. 
+
+* * *
+
+### Types of Information Collected
 
 We retain two types of information:
 
-(a) Personal Data
+Personal Data
+    This is data that identifies you or can be used to identify, contact you or process applications on your behalf. You may give us information about you or other persons by filling in forms on our website or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you use our services, seek a quotation, or when you report a problem with our website or services. The personal data you give us may include your name, address, e-mail address and phone number, detailed financial information, billing and credit history information. Such information is only collected from you if you voluntarily submit it to us or have authorised us to obtain it.
+Non-Personal Data
+    Like most websites, we gather statistical and other analytical information collected on an aggregate basis of all visitors to our website. This non-personal data comprises information that cannot be used to identify or contact you, such as demographic information regarding, for example, user IP addresses where they have been clipped or anonymised, browser types and other anonymous statistical data involving the use of our website.
 
-This is data that identifies you or can be used to identify, contact you or process applications on your behalf and may include your name, address, email address, detailed financial information, user IP addresses in circumstances where they have not been deleted, clipped or anonymised, telephone number, and billing and credit history information. Such information is only collected from you if you voluntarily submit it to us or have authorised us to obtain it.
+* * *
 
-(b) Non-Personal Data
+### Purposes for which we hold your Information
 
-Like most web sites, we gather statistical and other analytical information collected on an aggregate basis of all visitors to our web site. This Non-Personal Data comprises information that cannot be used to identify or contact you, such as demographic information regarding, for example, user IP addresses where they have been clipped or anonymised, browser types and other anonymous statistical data involving the use of our web site.
+Personal Data
+    We will process any personal data you provide to us for the following purposes: 
 
-(a) Personal Data
+  1. To carry out our obligations arising from any contracts entered into between you and us and / or to provide you with the quotations, information, products and services that you request from us.
+  2. When you request a quote from us, we may contact you by phone, SMS or email in relation to that quote. There may also be requirements to contact you for the purposes of discussing renewal terms of an existing policy with us or any other query directly related to an existing policy with us.
+  3. To provide you with information about other products and services we, other members of our group or other trusted third parties, may offer from time to time.
+  4. To provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you, including issuing monthly newsletters.
+  5. To notify you about changes to our services.
+  6. To ensure that content from our website or services is presented in the most effective manner for you and for your computer.
 
-We will process any Personal Data you provide to us for the following purposes:
 
-(i) To provide you with the goods or services you have ordered;
 
-(ii) To contact you if required in connection with your order or to respond to any communications you might send to us
+Where you provide us with an email address, you authorise us to send your insurance documents to you by email to the address provided, or by post, or both. 
 
-(iii) To send various promotional material such as monthly newsletters.
+Phone calls, both inbound and outbound to Chill Insurance, may be recorded and monitored for regulatory, training and quality purposes and to verify information and help prevent and detect fraud. 
 
-(b) Non-Personal Data
+Non-Personal Data
+    We may use non-personal data gathered from visitors to our website in an aggregate form to get a better understanding of where our visitors come from and to help us better design and organise our website.
 
-We use the Non-Personal Data gathered from visitors to our website in an aggregate form to get a better understanding of where our visitors come from and to help us better design and organise our website.
+* * *
 
- 
+### Cookies
 
-The Chill.ie website uses "cookie" technology. A cookie is a little piece of text stored by the browser on your computer, at the request of our server. We may use cookies to deliver content specific to your interests and to save your personal preferences so you do not have to re-enter them each time you connect to our website - our cookies are not available to other websites. You are always free to decline our cookies, if your browser permits, or to ask your browser to indicate when a cookie is being sent. You can also delete cookie files from your computer at your discretion. Note that if you decline our cookies or ask for notification each time a cookie is being sent, this may affect your ease of use of this website.
+Our website uses "cookie" technology. A cookie is a small piece of text stored by the browser on your computer, at the request of our server. We may use cookies to deliver content specific to your interests and to save your personal preferences so you do not have to re-enter them each time you connect to our website - our cookies are not available to other websites. You are always free to decline our cookies, if your browser permits, or to ask your browser to indicate when a cookie is being sent. You can also delete cookie files from your computer at your discretion. Note that if you decline our cookies or ask for notification each time a cookie is being sent, this may affect your ease of use of this website.
 
- 
+* * *
 
-We may provide Non-Personal Data to third parties, where such information is combined with similar information of other users of our web site. For example, we might inform third parties regarding the number of unique users who visit our web site, the demographic breakdown of our community users of our web site, or the activities that visitors to our web site engage in while on our web site. The third parties to whom we may provide this information may include potential or actual advertisers, providers of advertising services (including web site tracking services), commercial partners, sponsors, licensees, researchers and other similar parties. We will not disclose your Personal Data to third parties unless you have consented to this disclosure or unless the third party is required to fulfil your service order (in such circumstances, the third party is bound by similar data protection requirements. We will disclose your Personal Data if we believe in good faith that we are required to disclose it in order to comply with any applicable law, a summons, a search warrant, a court or regulatory order, or other statutory requirement.
+### Disclosure of Information to Third Parties
 
- 
+We may share your personal data with selected third parties including:
 
-We reserve the right to transfer information (including your Personal Data) to a third party in the event of a sale, merger, liquidation, receivership or transfer of all or substantially all of the assets of our company provided that the third party agrees to adhere to the terms of the Web Site Privacy Policy and provided that the third party only uses your Personal Data for the purposes that you provided it to us. You will be notified in the event of any such transfer and you will be afforded an opportunity to opt-out.
+  * Insurance service providers’ information we hold about you and your claims history. Our insurance companies may subscribe to insurance industry databases for fraud prevention purposes. We may also use your personal data for the purposes of complying with regulatory or legislative requirements, offering renewals, for research/statistical analysis and crime prevention.
+  * Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users. We may also use such aggregate information to help advertisers reach an audience they wish to target.
 
- 
+We may share your personal data with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries. 
 
-Your Personal Data is held on secured servers at our premises. The nature of the Internet is such that we cannot guarantee or warrant the security of any information you transmit to us via the Internet. No data transmission over the Internet can be guaranteed to be 100% secure. However, we will take all reasonable steps (including appropriate technical and organisational measures) to protect your Personal Data.
+We may provide non-personal data to third parties, where such information is combined with similar information of other users of our website. 
 
- 
+We may disclose your personal data to third parties: 
 
-You may inform us of any changes in your Personal Data, and in accordance with our obligations under the Data Protection Acts 1988 and 2003, Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the Protection of Individuals with regard to the Processing of Personal Data and on the Free Movement of Such Data, and any implementing and/or amending legislation as may be adopted in Ireland from time to time, we will update or delete your Personal Data accordingly. To find out what Personal Data we hold on you or to have your Personal Data updated, amended or removed from our database, please contact Chill.ie on 1890 30 20 20\. Any such data subject requests may be subject to the prescribed fee.
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * If Chill Insurance or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms of Business and other agreements; or to protect the rights, property, or safety of Chill Insurance, our customers, or others.
 
- 
 
-Any changes to this Web Site Privacy Policy will be posted on this web site so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any time we decide to use Personal Data in a manner significantly different from that stated in this Web Site Privacy Policy, or otherwise disclosed to you at the time it was collected, we will notify you by email, and you will have a choice as to whether or not we use your information in the new manner.
+
+* * *
+
+### Security
+
+The data that we collect from you will be stored within the European Economic Area. Chill Insurance will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. Once we have received your information, we will use reasonable procedures and security features to try to prevent unauthorised access.
+
+* * *
+
+### Updating, Verifying and Deleting Personal Data
+
+You may inform us of any changes in your personal data, and in accordance with our obligations under the Acts; we will update or delete your personal data accordingly. 
+
+The Acts give you the right to access personal data held about you. Your right of access can be exercised in accordance with the Acts. Any access request will incur a fee of €6.35, to meet our costs in providing you with details of the personal data we hold about you. In complying with your right of access we may request you to provide reasonable identity documentation. 
+
+To access personal data we hold on you or to have your personal data updated, amended or removed from our database, please contact The Compliance Officer, Chill Insurance, Freepost (F4571), Chill Insurance House, Ravenscourt Office Park, Sandyford, Dublin 18. 
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your personal data to any third party for such purposes, in accordance with this Privacy Policy. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data or alternatively you may email us at [hello@chill.ie](mailto:hello@chill.ie) or follow any additional opt-out instructions that may be received in communications. If you have more than one e-mail address, telephone number, mobile telephone number or address please make sure to notify changes for each e-mail, telephone number, mobile telephone number or address you have registered with us. 
+
+Our website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
+
+* * *
+
+### Changes to the Website Privacy Policy
+
+Any changes to this Privacy Policy will be posted on this website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+**Privacy Policy valid from:** August 2016
