@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chamber-international.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209021921id_/http%3A//www.chamber-international.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chamber-international.com privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522060905id_/http%3A//www.chamber-international.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
