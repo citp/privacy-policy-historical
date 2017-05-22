@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inspiringquotes.in privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627231737id_/http%3A//inspiringquotes.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiringquotes.in privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522054244id_/http%3A//www.inspiringquotes.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Inspiring Quotes - Inspirational, Motivational Quotations, Thoughts and Sayings
+# Privacy Policy - Inspiring Quotes for Spiritual and Personal Growth
 
 At [www.inspiringquotes.in](http://inspiringquotes.in/), we care for the privacy of our visitors.
 
