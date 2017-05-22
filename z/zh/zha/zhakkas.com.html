@@ -1,390 +1,497 @@
-<!--The following is the downloaded HTML source of the zhakkas.com privacy policy that was archived on 2016-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160401032047id_/https%3A//zhakkas.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zhakkas.com privacy policy that was archived on 2017-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170522234240id_/https%3A//www.zhakkas.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd"><html class=" js cssanimations csstransitions"><head>
-<!-- <script type="text/javascript" src="./common/js/jquery.js"></script> -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
-<script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="./common/js/jquery.min.js"></script>
-<script type="text/javascript" src="./common/js/jquery.cslider.js"></script>
-<script type="text/javascript" src="./common/js/modernizr.custom.28468.js"></script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=medium-dpi">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="juicyads-site-verification" content="504488dbcdb721f610c6a70be25d6b5e">
+<meta name="keywords" content="Zhakkas privacy policy governs the manner in which Zhakkas collects, uses, maintains and discloses information collected from users of the site.">
+<meta name="description" content="Zhakkas privacy policy governs the manner in which Zhakkas collects, uses, maintains and discloses information collected from users of the site.">
+<meta property="og:title" content="Privacy - Zhakkas">
+<meta property="og:description" content="Zhakkas privacy policy governs the manner in which Zhakkas collects, uses, maintains and discloses information collected from users of the site.">
+<meta property="og:image" content="">
+
+<script src="//bat.bing.com/bat.js" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="./common/js/au_jquery.min.js"></script>
 <script type="text/javascript" src="./common/js/jquery-ui-1.8.23.custom.min.js"></script>
-<script type="text/javascript" src="./common/js/jquery.selectBoxIt.min.js"></script>
+<script type="text/javascript" src="./common/js/au_bootstrap.min.js"></script>
+<script type="text/javascript" src="./common/js/au_jquery.simplyscroll.js"></script>
 
+
+
+<link rel="stylesheet" type="text/css" media="all" href="https://www.zhakkas.com/css/au_bootstrap.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="./common/font-awesome/css/font-awesome.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.zhakkas.com/css/au_animate.min.css">
 <link href="https://fonts.googleapis.com/css?family=Economica:700,400italic" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Wire+One" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.zhakkas.com/css/au_public-style.css">
 
-<link rel="stylesheet" href="https://zhakkas.com/css/public-style.css" type="text/css">
-<link rel="stylesheet" type="text/css" media="all" href="https://zhakkas.com/css/jquery.selectBoxIt.css">
+
+
+
+
 
 <script type="text/javascript">
-$(document).ready(function() {
-    //Calls the selectBoxIt method on your HTML select box.
-    $("select").selectBoxIt();
-  });
+function LoadLocaleFile()
+{
+	language=$('#language-list').val();
+	if(language !="")
+	{
+		languageurl='https://www.zhakkas.com/addons/language/locale/change-language/';
+		$.ajax(
+		{
+			type: "GET",
+			url: languageurl+language,
+			success: function(msg)
+			{
+				window.location.reload();
+			}
+		});
+	} 
+}
+
+
+
+function LoadNotifications()
+{
+	admvaluestring=$('#admvaluestring').val();
+
+
+	if(admvaluestring !="")
+	{
+		var currentcookie=Get_Cookie('adm_content');
 	
-//Executes your code when the DOM is ready.  Acts the same as $(document).ready().
- $(window).load(function() {
-    //Calls the selectBoxIt method on your HTML select box.
-    $("select").selectBoxIt();
-  }); 
+		if(currentcookie != null && currentcookie !="")
+		currentcookie=currentcookie+'-'+admvaluestring;
+		else
+		currentcookie=admvaluestring;	
+	
+		Set_Cookie('adm_content',currentcookie,20000,"/") ;
+	
+		$('#admvaluestring').val('');
+	}
+
+	
+
+
+	window.location.href="https://www.zhakkas.com/dispatch/ultimate/40";
+}
+
+var today = new Date();
+today.setTime(today.getTime());
+today.setHours(0);
+today.setMinutes(0);
+today.setSeconds(0);
+
+function Get_Cookie( name )
+{
+	var start = document.cookie.indexOf( name + "=" );
+	var len = start + name.length + 1;
+	if ( ( !start ) && ( name != document.cookie.substring( 0, name.length ) ) )
+	{
+		return null;
+	}
+
+	if ( start == -1 ) return null;
+	var end = document.cookie.indexOf( ";", len );
+	if ( end == -1 ) end = document.cookie.length;
+	return unescape( document.cookie.substring( len, end ) );
+}
+
+function Set_Cookie( name, value, expires, path, domain, secure ) 
+{	
+	if(expires)
+	expires = expires * 1000 * 60 * 60 ;
+
+	var expires_date = new Date( today.getTime() + (expires) );
+	document.cookie = name + "=" +escape( value ) + ";expires=" + expires_date.toGMTString()  + ( ( path ) ? ";path=" + path : "" ) + ( ( domain ) ? ";domain=" + domain : "" ) + ( ( secure ) ? ";secure" : "" );
+}
+
+
+
 </script>
 
 
 
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-<meta name="juicyads-site-verification" content="504488dbcdb721f610c6a70be25d6b5e">
-
-<meta name="keywords" content="Zhakkas privacy policy governs the manner in which Zhakkas collects, uses, maintains and discloses information collected from users of the site.">
-<meta name="description" content="Zhakkas privacy policy governs the manner in which Zhakkas collects, uses, maintains and discloses information collected from users of the site.">
-
-
 <title>
 Privacy - Zhakkas</title>
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+</head>
 <body>
 
-<div style="background-color: #000000;height: 15px;width: 100%;color: #FFFFFF;">
-<div class="wrapper" style="width: 950px;min-width: 1100px;">
+<!-- <div style="background-color: #000000;height: 20px;color: #FFFFFF;">
+<div class="wrapper" style="padding-right:8%;">
 <div style="float: right;font-weight: bold;margin-top: 0px;">
-Call: (+91) 9863027167
-|
-<div id="livezilla_tracking" style="display:none;color: #FFFFFF"><script async="" type="text/javascript" src="https://zhakkas.com/helpcenter/server.php?a=ab51c&amp;rqst=track&amp;output=jcrpt&amp;nct=MQ__&amp;hfk=MQ__&amp;fbpos=10&amp;fbml=0&amp;fbmt=0&amp;fbmr=0&amp;fbmb=0&amp;fbw=37&amp;fbh=123&amp;nse=0.9350081035176858"></script></div><script type="text/javascript">
-var script = document.createElement("script");script.async=true;script.type="text/javascript";var src = "https://zhakkas.com/helpcenter/server.php?a=1843b&rqst=track&output=jcrpt&nct=MQ__&hfk=MQ__&nse="+Math.random();setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)",1);</script><noscript><img src="https://zhakkas.com/helpcenter/server.php?a=1843b&amp;rqst=track&amp;output=nojcrpt" width="0" height="0" style="visibility:hidden;" alt=""></noscript><script type="text/javascript" id="lz_textlink" src="https://zhakkas.com/helpcenter/image.php?a=ffcd4&amp;tl=1&amp;srv=aHR0cHM6Ly96aGFra2FzLmNvbS9oZWxwY2VudGVyL2NoYXQucGhwP2E9YWQxNTQmbmN0PU1RX18maGZrPU1RX18mZXBjPUkyWm1abVptWmdfXyZldGM9STJabVptWm1aZ19f&amp;tlont=SGVscCBDZW50ZXI_&amp;tloft=SGVscCBDZW50ZXI_&amp;nct=MQ__&amp;hfk=MQ__&amp;epc=I2ZmZmZmZg__&amp;etc=I2ZmZmZmZg__"></script>
+Ph: (+91) 9863027167
 </div>
 </div>
-</div>
+</div> -->
 
-	<!--- Header Section -->
-		<div class="logo-header">
-			<div class="wrapper" style="width: 950px;min-width: 1100px;">
-				<div class="logo left">
-				
-				
-<a href="//zhakkas.com/"><img src="https://zhakkas.com/upload/logo/logo.png" alt="Zhakkas" title="Zhakkas"></a>
-				
-			 
+
+
+<header id="header">
+        <div class="top-bar">
+            <div class="container">
+                <div class="row">
                 
-				</div>
-				
-				
-				
-				
-				
-				
-<div style="float: right;background-color: #FFFFFF;padding: 2px 10px;">			
-<script language="javascript" type="text/javascript">function trim(str){return str.replace(/(^\s*|\s*$)/, "");}function notNull(str){if (trim(str).length == 0) return false; else return true;}function validate_loginheader(){if(document.loginheader.username1 && !notNull(document.loginheader.username1.value)){alert("Please fill up the mandatory fields");document.loginheader.username1.focus();return false;}if(document.loginheader.password1 && !notNull(document.loginheader.password1.value)){alert("Please fill up the mandatory fields");document.loginheader.password1.focus();return false;} return true;}</script><form name="loginheader" id="loginheader" class="" enctype="multipart/form-data" method="post" action="" onsubmit="return validate_loginheader()"><table cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td><input type="text" name="username1" id="username1" value="" style="width: 133px;" placeholder="User Name"></td>
-<td style="width: 20px;"></td>
-<td><input type="password" name="password1" id="password1" value="" style="width: 133px;" placeholder="Password"></td>
-<td style="width: 10px;"></td>
-<td><input type="submit" name="submit_login" id="submit_login" class="submit" value="Sign In !"></td>
-</tr>
-<tr>
-<td><a class="special_atag" href="https://zhakkas.com/register">Register !</a></td>
-<td></td>
-<td><img alt="Forgot Password?" title="Forgot Password?" src="images/forgot_password.png" style="vertical-align: middle;"><a href="https://zhakkas.com/forgot-password">Forgot Password?</a></td>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>			
-</form>		
-</div>				
-				
-				
-				
                 
-
-			</div>	
-		</div>
-		<div class="menu-row">
-			<div class="wrapper" style="width: 950px;min-width: 1100px;">
-				<div class="menuwrapper" style="width:100%;">
-					
-					
-					<a href="//zhakkas.com" class="first "><span><img class="smalllogo" src="images/home.png">&nbsp;&nbsp;Home</span></a>
-					
-					
-										
-									
-					
-					
-					
-
-										
-					<a href="https://zhakkas.com/advertisers"><span><img class="smalllogo" src="images/advertisericon.png">&nbsp;&nbsp;Advertiser</span></a>
-					
-					<a href="https://zhakkas.com/publishers"><span><img class="smalllogo" src="images/publishericon.png">&nbsp;&nbsp;Publisher</span></a>
-				
-				
-					<a href="https://zhakkas.com/faq"><span><img class="smalllogo" src="images/faq.png">&nbsp;&nbsp;FAQ</span></a> 
-					
-					
-					
-					
-					
-					
+                
+                <!--<div class="col-md-5 col-sm-6 col-xs-12 outer-social">
+                       <div class="social social-hide">
+                            <ul class="social-share">
+                                
+                                
+                                
+                                
+                                       
+                            </ul>
+                            
+                     </div>
+                    </div>-->
+                
+                           			
+                           			
+                           			
+           <div class="col-md-12 col-sm-12 col-xs-12">
 			
-					
-					<a href="https://zhakkas.com/contact" class="last "><span style="padding-right: 16px;"><img class="smalllogo" src="images/support.png">&nbsp;&nbsp;Help Center&nbsp;&nbsp;</span></a>                     
-
-
-
-                                       					
-					
-					<ul class="page-list-ul" style="top: 142px;">
-					
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/online-advertising">Online Advertising</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/cpc-advertising">CPC Advertising</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/cpm-advertising">CPM Advertising</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/text-advertising">Text Advertising</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/display-advertising">Display Advertising</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/mobile-advertising">Mobile Advertising</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/video-advertising">Video Advertising</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/ads-network">Ads Network</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/ads-for-publishers">Ads for Publishers</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/website-traffic">Website Traffic</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/ppc-advertising">PPC Advertising</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/affiliate-program">Affiliate Program</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/cpm-ad-network">CPM Ad Network</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/cpc-ad-network">CPC Ad Network</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/online-marketing">Online Marketing</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/internet-marketing">Internet Marketing</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/advertising-agency">Advertising Agency</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/internet-advertising">Internet Advertising</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/affiliate-marketing">Affiliate Marketing</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/online-ads">Online Ads</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/adsense-alternative">Adsense Alternative</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/facebook-ads">Facebook Ads</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/bing-ads">Bing Ads</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/adwords">Adwords</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/ad-network">Ad Network</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/earn-money-online">Earn Money Online</a></li>
-										<li><img src="images/arrow-icon.png" style="vertical-align: middle;float: left;">&nbsp;<a href="https://zhakkas.com/make-money-online">Make Money Online</a></li>
-										</ul>	
-					
-
-					
-										
-					
-					
-					
-				</div>
-			</div>
-		</div>
-		<div class="clear"></div><div class="wrapper" style="width:950px;min-width:1100px;margin: 0px auto;padding: 0px;">
-<div class="content-wrapper">
-
-<div class="smallBanner"><h1>Privacy Policy</h1></div>
-<table style="width: 100%;" cellpadding="0" cellspacing="0">
-<tbody><tr><td colspan="2" height="10px;"></td></tr>
-
-<tr><td></td><td>
-
-This Privacy Policy governs the manner in which Zhakkas collects, uses, 
-maintains and discloses information collected from users (each, a "User") of the 
-zhakkas.com website ("Site"). This privacy policy applies to the Site and all 
-products and services offered by Zhakkas.<br>
-<br>
-<b>Personal identification information</b><br>
-<br>
-We may collect personal identification information from Users in a variety of 
-ways, including, but not limited to, when Users visit our site, register on the 
-site, place an order, subscribe to the newsletter, fill out a form, and in 
-connection with other activities, services, features or resources we make 
-available on our Site. Users may be asked for, as appropriate, name, email 
-address, phone number. Users may, however, visit our Site anonymously. We will 
-collect personal identification information from Users only if they voluntarily 
-submit such information to us. Users can always refuse to supply personally 
-identification information, except that it may prevent them from engaging in 
-certain Site related activities.<br>
-<br>
-<b>Non-personal identification information</b><br>
-<br>
-We may collect non-personal identification information about Users whenever they 
-interact with our Site. Non-personal identification information may include the 
-browser name, the type of computer and technical information about Users means 
-of connection to our Site, such as the operating system and the Internet service 
-providers utilized and other similar information.<br>
-<br>
-<b>Web browser cookies:</b><br>
-<br>
-Our Site may use "cookies" to enhance User experience. User's web browser places 
-cookies on their hard drive for record-keeping purposes and sometimes to track 
-information about them. User may choose to set their web browser to refuse 
-cookies, or to alert you when cookies are being sent. If they do so, note that 
-some parts of the Site may not function properly.<br>
-<br>
-<b>How we use collected information:</b><br>
-<br>
-Zhakkas may collect and use Users personal information for the following 
-purposes:<br>
-- To improve customer service<br>
-Information you provide helps us respond to your customer service requests and 
-support needs more efficiently.<br>
-- To personalize user experience<br>
-We may use information in the aggregate to understand how our Users as a group 
-use the services and resources provided on our Site.<br>
-- To improve our Site<br>
-We may use feedback you provide to improve our products and services.<br>
-- To process payments<br>
-We may use the information Users provide about themselves when placing an order 
-only to provide service to that order. We do not share this information with 
-outside parties except to the extent necessary to provide the service.<br>
-- To share your information with third parties<br>
-We may share or sell information with third parties for marketing or other 
-purposes.<br>
-- To run a promotion, contest, survey or other Site feature<br>
-To send Users information they agreed to receive about topics we think will be 
-of interest to them.<br>
-- To send periodic emails<br>
-We may use the email address to send User information and updates pertaining to 
-their order. It may also be used to respond to their inquiries, questions, 
-and/or other requests. If User decides to opt-in to our mailing list, they will 
-receive emails that may include company news, updates, related product or 
-service information, etc. If at any time the User would like to unsubscribe from 
-receiving future emails, we include detailed unsubscribe instructions at the 
-bottom of each email.<br>
-<br>
-<b>How we protect your information:</b><br>
-<br>
-We adopt appropriate data collection, storage and processing practices and 
-security measures to protect against unauthorized access, alteration, disclosure 
-or destruction of your personal information, username, password, transaction 
-information and data stored on our Site.<br>
-<br>
-<b>Advertising:</b><br>
-<br>
-Ads appearing on our site may be delivered to Users by advertising partners, who 
-may set cookies. These cookies allow the ad server to recognize your computer 
-each time they send you an online advertisement to compile non personal 
-identification information about you or others who use your computer. This 
-information allows ad networks to, among other things, deliver targeted 
-advertisements that they believe will be of most interest to you. This privacy 
-policy does not cover the use of cookies by any advertisers.<br>
-<br>
-<b>Changes to this privacy policy:<br>
-</b>
-<br>
-Zhakkas has the discretion to update this privacy policy at any time. When we 
-do, we will post a notification on the main page of our Site, revise the updated 
-date at the bottom of this page and send you an email. We encourage Users to 
-frequently check this page for any changes to stay informed about how we are 
-helping to protect the personal information we collect. You acknowledge and 
-agree that it is your responsibility to review this privacy policy periodically 
-and become aware of modifications.<br>
-<br>
-<b>Your acceptance of these terms:</b><br>
-<br>
-By using this Site, you signify your acceptance of this policy. If you do not 
-agree to this policy, please do not use our Site. Your continued use of the Site 
-following the posting of changes to this policy will be deemed your acceptance 
-of those changes.<br>
-<br>
-<b>Contacting us:</b><br>
-<br>
-If you have any questions about this Privacy Policy, the practices of this site, 
-or your dealings with this site, please contact us at:<br>
-Zhakkas.com<br>
-Police-Bazar, Shillong-793001, Meghalaya-(INDIA)<br>
-<br>
-This document was last updated on January 14, 2015<p></p>
-
-
-
-</td></tr>
-</tbody></table>
-</div></div>
+         <div class="col-md-12 col-sm-12 col-xs-12 contact-details-header"><p>Ph: (+91) 9863027167 | Skype: zhakkas</p></div>                     			
+                           			
+       <!-- <div class="col-md-3 col-sm-3 col-xs-3 login-padding" style="float:right;">         			
+   		<div class="login-head">	-->	
+				
+				
+	
+<!--<div class="dropdown">
+  <button class="btn btn-success dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
+    </a> -->
+	
+	
 	
 
 
+				
+				
+		                        			
+                           			
+<!-- </div>   </div>--></div> 
+                </div>
+            </div><!--/.container-->
+        </div><!--/.top-bar-->                        			
+        
+        <script>
+        	$(document).ready(function(){
+				$(".header_div > .container").append('<div class="visible-xs header_buttons"><a class="btn btn-success" role="button" href="https://www.zhakkas.com/login">Login</a><a class="btn btn-success" role="button" href="https://www.zhakkas.com/register">Register</a></div>');
+			});
+        </script>                 	
+                           	
+            <nav class="navbar navbar-inverse" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle toggle-button" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">toggle navigation</span>
+                        <span class="icon-bar" style="background-color: #CCCCCC !important;"></span>
+                        <span class="icon-bar" style="background-color: #CCCCCC !important;"></span>
+                        <span class="icon-bar" style="background-color: #CCCCCC !important;"></span>
+                    </button>
+                                  	
+                      <a class="navbar-brand" href="https://www.zhakkas.com/"><img src="https://www.zhakkas.com/upload/logo/logo.png" alt="Zhakkas" title="Zhakkas"></a>
+  
+          
+                </div>             	
+                           	
+                           	
+                      <div class="collapse navbar-collapse navbar-right">
+                    <ul class="nav navbar-nav icon_style">
+                    
+                    <li><a href="https://www.zhakkas.com/" class="first "><i class="fa fa-home"></i>Home</a></li>
+                    
+                    					
+					<li><a href="https://www.zhakkas.com/advertisers"><i class="fa fa-user"></i>Advertiser</a></li>
+					
+					<li><a href="https://www.zhakkas.com/publishers"><i class="fa fa-bullhorn"></i>Publisher</a></li>
+					<li><a href="https://www.zhakkas.com/faq"><i class="fa fa-newspaper-o"></i>FAQ</a></li>
+				
+				
+				
+					<!-- <li><a href="https://www.zhakkas.com/faq" ><i class="fa fa-comments"></i>FAQ</a> </li>-->
+					
+					
+					<li><a href="https://www.zhakkas.com/contact"><i class="fa fa-phone"></i>Help Center</a></li>
+										<li id="li_login"><a href="https://www.zhakkas.com/login"><i class="fa fa-sign-in"></i>Login</a></li>
+															<li id="li_register"><a href="https://www.zhakkas.com/register"><i class="fa fa-user-plus"></i>Register</a></li>
+										
+
+					
+										
+                    
+                    </ul>
+                    
+                    
+                    
+                </div>
+            </div><!--/.container-->
+        </nav><!--/nav-->                     	
+</header><style type="text/css">
+	.outer_div{
+		padding-top: 20px;
+		padding-bottom: 20px;
+		padding-left: 5%;
+		padding-right: 5%;
+		font-family: Arial, Helvetica, sans-serif !important;
+    	font-size: 14px;
+    	color:#000000;
+    	text-align: justify;
+    	line-height: 16px;
+	}
+	.margin_outer{
+		margin-bottom: 1%;
+	}
+	@media screen and (max-width: 1199px) {
+	  .margin_outer{
+		margin-left:1%;
+		margin-right: 1%;
+		margin-bottom: 1%;
+		}
+	}
+	body > section {
+    padding-top: 0px ;
+	}
+</style>
+
+<script>
+$(document).ready(function(){
+	if(screen.width > 767){
+		var min_height = (window.innerHeight) - 410;
+		$(".min_height").css("min-height", min_height+"px");
+	}
+});
+
+</script>
+
+<div class="header_div">
+	<div class="container">
+		<h2 class="page_header">Privacy Policy</h2>
+	<div class="visible-xs header_buttons"><a class="btn btn-success" role="button" href="https://www.zhakkas.com/login">Login</a><a class="btn btn-success" role="button" href="https://www.zhakkas.com/register">Register</a></div></div>
+</div>
+
+<section class="container min_height mh_section" style="min-height: 358px;">
+	 <div class="row body_bg margin_outer">
+
+		<div class="col-xs-12 outer_div ">
+
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This Privacy Policy governs the manner in which Zhakkas collects, uses, 
+			maintains and discloses information collected from users (each, a "User") of the 
+			zhakkas.com website ("Site"). This privacy policy applies to the Site and all 
+			products and services offered by Zhakkas.<br>
+			<br>
+			<b>Personal identification information :</b><br>
+			<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We may collect personal identification information from Users in a variety of 
+			ways, including, but not limited to, when Users visit our site, register on the 
+			site, place an order, subscribe to the newsletter, fill out a form, and in 
+			connection with other activities, services, features or resources we make 
+			available on our Site. Users may be asked for, as appropriate, name, email 
+			address, phone number. Users may, however, visit our Site anonymously. We will 
+			collect personal identification information from Users only if they voluntarily 
+			submit such information to us. Users can always refuse to supply personally 
+			identification information, except that it may prevent them from engaging in 
+			certain Site related activities.<br>
+			<br>
+			<b>Non-personal identification information :</b><br>
+			<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We may collect non-personal identification information about Users whenever they 
+			interact with our Site. Non-personal identification information may include the 
+			browser name, the type of computer and technical information about Users means 
+			of connection to our Site, such as the operating system and the Internet service 
+			providers utilized and other similar information.<br>
+			<br>
+			<b>Web browser cookies :</b><br>
+			<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our Site may use "cookies" to enhance User experience. User's web browser places 
+			cookies on their hard drive for record-keeping purposes and sometimes to track 
+			information about them. User may choose to set their web browser to refuse 
+			cookies, or to alert you when cookies are being sent. If they do so, note that 
+			some parts of the Site may not function properly.<br>
+			<br>
+			<b>How we use collected information :</b><br>
+			<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zhakkas may collect and use Users personal information for the following 
+			purposes:<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- To improve customer service<br>
+			Information you provide helps us respond to your customer service requests and 
+			support needs more efficiently.<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- To personalize user experience<br>
+			We may use information in the aggregate to understand how our Users as a group 
+			use the services and resources provided on our Site.<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We may use feedback you provide to improve our products and services.<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- To process payments<br>
+			We may use the information Users provide about themselves when placing an order 
+			only to provide service to that order. We do not share this information with 
+			outside parties except to the extent necessary to provide the service.<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- To share your information with third parties<br>
+			We may share or sell information with third parties for marketing or other 
+			purposes.<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- To run a promotion, contest, survey or other Site feature<br>
+			To send Users information they agreed to receive about topics we think will be 
+			of interest to them.<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- To send periodic emails<br>
+			We may use the email address to send User information and updates pertaining to 
+			their order. It may also be used to respond to their inquiries, questions, 
+			and/or other requests. If User decides to opt-in to our mailing list, they will 
+			receive emails that may include company news, updates, related product or 
+			service information, etc. If at any time the User would like to unsubscribe from 
+			receiving future emails, we include detailed unsubscribe instructions at the 
+			bottom of each email.<br>
+			<br>
+			<b>How we protect your information :</b><br>
+			<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We adopt appropriate data collection, storage and processing practices and 
+			security measures to protect against unauthorized access, alteration, disclosure 
+			or destruction of your personal information, username, password, transaction 
+			information and data stored on our Site.<br>
+			<br>
+			<b>Advertising :</b><br>
+			<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ads appearing on our site may be delivered to Users by advertising partners, who 
+			may set cookies. These cookies allow the ad server to recognize your computer 
+			each time they send you an online advertisement to compile non personal 
+			identification information about you or others who use your computer. This 
+			information allows ad networks to, among other things, deliver targeted 
+			advertisements that they believe will be of most interest to you. This privacy 
+			policy does not cover the use of cookies by any advertisers.<br>
+			<br>
+			<b>Changes to this privacy policy :<br>
+			</b>
+			<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zhakkas has the discretion to update this privacy policy at any time. When we 
+			do, we will post a notification on the main page of our Site, revise the updated 
+			date at the bottom of this page and send you an email. We encourage Users to 
+			frequently check this page for any changes to stay informed about how we are 
+			helping to protect the personal information we collect. You acknowledge and 
+			agree that it is your responsibility to review this privacy policy periodically 
+			and become aware of modifications.<br>
+			<br>
+			<b>Your acceptance of these terms :</b><br>
+			<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By using this Site, you signify your acceptance of this policy. If you do not 
+			agree to this policy, please do not use our Site. Your continued use of the Site 
+			following the posting of changes to this policy will be deemed your acceptance 
+			of those changes.<br>
+			<br>
+			<b>Contacting us :</b><br>
+			<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you have any questions about this Privacy Policy, the practices of this site, 
+			or your dealings with this site, please contact us at:<br>
+			Zhakkas.com<br>
+			Police-Bazar, Shillong-793001, Meghalaya-(INDIA)<br>
+			<br>
+			This document was last updated on January 14, 2015<p></p>
 
 
 
-
-
-	<div class="footerDiv">
-	<div class="wrapper" style="width:950px;min-width:1100px;margin: 0px auto;padding: 0px;">
-    	<div class="footer">
-        	<div class="left">
+			
+		</div>	
+	</div>
+</section>
+<section id="bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-2 col-sm-6">
+                    <div class="widget">
         	
         	
         	        	
         	
-            		
-      <h2>Company Info</h2>
-      <a href="https://zhakkas.com/about">About Us</a>
-      <a href="https://zhakkas.com/terms">Terms &amp; Conditions</a>
-      <a href="https://zhakkas.com/privacy">Privacy Policy</a> 
+         		
+      <h3>Company Info</h3>
+
+      <ul>
+          <li> <a href="https://www.zhakkas.com/about">About Us</a></li>
+          <li><a href="https://www.zhakkas.com/terms">Terms &amp; Conditions</a></li>
+          <li><a href="https://www.zhakkas.com/privacy">Privacy Policy</a></li> 
       
       
       
       
-                <a href="https://zhakkas.com/contact">Help Center</a>  		
+                <li><a href="https://www.zhakkas.com/contact">Help Center</a></li>  		
             		
-            		
-            		
-			</div>
-                <div class="left">   
+             </ul>
+      </div>    
+                </div>
+                <div class="col-md-2 col-sm-6">
+                    <div class="widget">
+                  
                    
-                   <h2>Quick Links</h2>
-      <a href="https://zhakkas.com/">Home</a>
-      
-           				  <a href="https://zhakkas.com/advertisers">Advertiser</a>
-				  <a href="https://zhakkas.com/publishers">Publisher</a>
-                                  <a href="https://zhakkas.com/faq">FAQ</a>
-                         
+                   <h3>Quick Links</h3>
+                   <ul>
+                      <li><a href="https://www.zhakkas.com/">Home</a></li>
+                      
+                           				  <li><a href="https://www.zhakkas.com/advertisers">Advertiser</a></li>
+				  <li><a href="https://www.zhakkas.com/publishers">Publisher</a></li>
+                                 <li> <a href="https://www.zhakkas.com/faq">FAQ</a></li>
+                      </ul>   
                    
                    
             	</div>
+              </div>
     
-        <div class="left">
-      <h2>Payment Method</h2>
-      <p><img src="images/payments.png" alt="Payments"></p>
+       <div class="col-md-5 col-sm-6">
+       <div class="widget">
+      <h3>Payment Method</h3>
+      <ul>
+      <li><img src="images/payments.png" alt="Payments" class="img-responsive"></li>
+      </ul>
+      </div>
     </div>        	
-            	
-            	
-            <div class="right">
-            	<div class="social"><img border="0" usemap="#Map" src="images/s-icons.png">
+            
+            <div class="col-md-3 col-sm-6">
+                    <div class="widget">
+                       <h3>Connect With Us</h3>
+                        <ul>
+                        
+                        
+                   
+                        
+                            <li><div class="social"><img border="0" usemap="#Map" src="images/ss-icons.png">
 <map id="Map" name="Map">
-
 <area coords="13,34,7,26,4,11,10,5,17,5,29,12,31,25" shape="poly" target="_blank" href="https://plus.google.com/108759930725080342216/" class="xyz_gplus">
  
   
-  
-
 <area coords="44,1,82,33" shape="rect" target="_blank" href="http://twitter.com/zhakkas">
-
-
 
 <area coords="92,-1,126,30" shape="rect" target="_blank" href="http://facebook.com/zhakkas">
 
-
-
-
-
 <area coords="141,-5,173,32" shape="rect" target="_blank" href="http://linkedin.com/company/zhakkas">
 
+<area coords="187,-2,226,32" shape="rect" target="_blank" href="http://youtube.com/channel/UC9_W3IYjrAqNikV5QZyBD1Q">
+</map></div></li>
 
-<area coords="187,-2,226,32" shape="rect" target="_blank" href="http://youtube.com/zhakkas">
-</map></div>
-                <p>
-                	
-<br>
+ 
 
 
-                </p>
-            </div>
+
+<!--<li></li>-->
+                            
+                        </ul>
+                    </div>    
+                </div>
         </div>
         
     </div>
-</div>
-<div class="brandings">
-        <div class="wrapper" style="width:950px;min-width:1100px;margin: 0px auto;padding: 0px;">
-            <div class="right" style="text-align: center !important;float: none;">Copyright © 2016, All Rights Reserved. Powered By <a target="_blank" href="https://zhakkas.com">Zhakkas</a></div>
+
+        
+        
+        </section>
+        
+<footer id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;">
+                   Copyright © 2017, All Rights Reserved. Powered By <a target="_blank" href="https://zhakkas.com">Zhakkas</a>                </div>
             </div>
         </div>
+ 
+    </footer>
 
 
 
@@ -395,55 +502,33 @@ This document was last updated on January 14, 2015<p></p>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-46702911-1', 'auto');
+  ga('create', 'UA-91673929-1', 'auto');
   ga('send', 'pageview');
 
 </script>
 
-<!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 975899036;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1859643757616380'); // Insert your pixel ID here.
+fbq('track', 'PageView');
 </script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/975899036/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1859643757616380&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
 
 
-<script type="text/javascript">
-adroll_adv_id = "2C3ZONAZFVC3HGKPXSKZHB";
-adroll_pix_id = "6KEO7HSA25AL5LHD5V3SHQ";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
-</script>
-
-<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5011243"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5011243&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
-
-<div id="livezilla_tracking" style="display:none"></div><script type="text/javascript">
-var script = document.createElement("script");script.async=true;script.type="text/javascript";var src = "https://zhakkas.com/helpcenter/server.php?a=ab51c&rqst=track&output=jcrpt&nct=MQ__&hfk=MQ__&fbpos=10&fbml=0&fbmt=0&fbmr=0&fbmb=0&fbw=37&fbh=123&nse="+Math.random();setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)",1);</script><noscript><img src="https://zhakkas.com/helpcenter/server.php?a=ab51c&amp;rqst=track&amp;output=nojcrpt" width="0" height="0" style="visibility:hidden;" alt=""></noscript><div style="display:none;"><a href="javascript:void(window.open('https://zhakkas.com/helpcenter/chat.php?a=2ac93&amp;nct=MQ__&amp;hfk=MQ__','','width=610,height=760,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))" class="lz_fl"><img id="chat_button_image" src="https://zhakkas.com/helpcenter/image.php?a=d3cfc&amp;id=1&amp;type=overlay" width="37" height="123" style="border:0px;" alt="LiveZilla Live Chat Software"></a></div><style>
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5562234"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5562234&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript><style>
 #system_notice_area {
 	position: fixed;
 	top: 0px;
