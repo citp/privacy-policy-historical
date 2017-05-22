@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truthdig.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118223527id_/http%3A//www.truthdig.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthdig.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523013434id_/http%3A//www.truthdig.com/privacy_policy) for the most accurate reproduction.*
 
 # Truthdig - Privacy Policy
 
@@ -22,7 +22,7 @@ We offer a "Send to a Colleague" feature, which allows our users to inform other
 
 ### Discussion Forums
 
-Truthdig makes discussion forums available to its users. Please remember any information disclosed in these areas becomes publicly available, and therefore you should exercise caution when disclosing personal information. Also, pursuant to Truthdig's [User Agreement](https://web.archive.org/web/20161118223527id_/http%3A//user_agreement), by using the website you grant Truthdig permission to use any content you post on the website for any purpose.
+Truthdig makes discussion forums available to its users. Please remember any information disclosed in these areas becomes publicly available, and therefore you should exercise caution when disclosing personal information. Also, pursuant to Truthdig's [User Agreement](https://web.archive.org/web/20170523013434id_/http%3A//user_agreement), by using the website you grant Truthdig permission to use any content you post on the website for any purpose.
 
 If you have any concerns about the discussion forums, send email to [info@truthdig.com](mailto:info@truthdig.com).
 
