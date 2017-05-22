@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstplace.com privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805174402id_/http%3A//firstplace.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstplace.com privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522113403id_/http%3A//firstplace.com/privacy.html) for the most accurate reproduction.*
 
 # FirstPlace.com® - Your First Place on the Internet®
 
