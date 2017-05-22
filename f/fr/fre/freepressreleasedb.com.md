@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepressreleasedb.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119110801id_/http%3A//freepressreleasedb.com/pr-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepressreleasedb.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523004750id_/http%3A//freepressreleasedb.com/pr-privacy-policy.php) for the most accurate reproduction.*
 
 # Free Press Release Db - Privacy Policy
 
@@ -61,7 +61,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.freepressreleasedb.com](https://web.archive.org/web/20161119110801id_/http%3A//freepressreleasedb.com/pr-terms-conditions.php "Free Press Release DB - Terms & Conditions")
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.freepressreleasedb.com](https://web.archive.org/web/20170523004750id_/http%3A//freepressreleasedb.com/pr-terms-conditions.php "Free Press Release DB - Terms & Conditions")
 
  **Your Consent**
 
