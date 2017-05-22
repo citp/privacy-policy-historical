@@ -1,70 +1,76 @@
-> *The following text is extracted and transformed from the asic.gov.au privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606005248id_/http%3A//www.asic.gov.au/about-asic/dealing-with-asic/summary-of-asic-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asic.gov.au privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522234329id_/http%3A//www.asic.gov.au/about-asic/dealing-with-asic/privacy) for the most accurate reproduction.*
 
-# Summary of ASIC Privacy Policy | ASIC - Australian Securities and Investments Commission
+# Privacy | ASIC - Australian Securities and Investments Commission
 
 You are here:
 
   1. [Home](https://web.archive.org/)
   2. [About ASIC](https://web.archive.org/about-asic/)
   3. [Dealing with ASIC](https://web.archive.org/about-asic/dealing-with-asic/)
-  4. [Summary of ASIC Privacy Policy](https://web.archive.org/about-asic/dealing-with-asic/summary-of-asic-privacy-policy/)
+  4. [Privacy](https://web.archive.org/about-asic/dealing-with-asic/privacy/)
 
 
 
-Issue date 12 March 2014
+We are bound by the Australian Privacy Principles (APPs) under the _Privacy Act 1988_ with respect to collection, use and disclosure of personal information. [See our Privacy Policy](https://web.archive.org/about-asic/dealing-with-asic/privacy/asic-privacy-policy-summary/ "Summary of ASIC Privacy Policy").
 
-This summary of our privacy policy provides you with a short overview of how ASIC handles personal information.
+While every effort is made to secure information transmitted to this website over the internet, there is a possibility that this information could be accessed by a third party while in transit.
 
-[Read our complete privacy policy](https://web.archive.org/about-asic/dealing-with-asic/summary-of-asic-privacy-policy/asic-privacy-policy/ "ASIC Privacy Policy")
+## Information logged
 
-## Our personal information handling practices
+When you browse our website, we use cookies to collect anonymous traffic data about how you interact with us. A cookie is small bits of code in the form of an electronic token that is passed to your browser and your browser passes it back to the server whenever a page is sent to you. This helps us measure how our services are used and what we can do to improve.
 
-### Purposes for collection
+We won't try to identify you unless there's an investigation, for example if we issue a warrant or subpoena. Your personal information will be disclosed to third parties only if it's required or authorised by law.
 
-We only collect personal information that is reasonably necessary for, or directly related to, one or more of our functions or activities under the legislation we administer. For further information, see [The laws we administer](https://web.archive.org/about-asic/what-we-do/laws-we-administer/ "Laws we administer"). 
+Examples of data logged by our server when you visit this website includes:
 
-## How we collect information
-
-We collect personal information from individuals, or their authorised representatives. 
-
-In some circumstances we may collect personal information about individuals from third parties. These include:
-
-  * personal information collected from third parties about individuals who are the subject of reports of misconduct made to us
-  * personal information collected from third parties about individuals in the course of our compliance or investigation activities
-  * information provided to us in the course of our registration, licensing and other statutory functions may contain personal information about individuals
-  * other documents provided to us, such as tender documents and curriculum vitaes, may contain personal information about individuals.
+  * what device you are using including the type of browser and operating system you are using
+  * your top level domain name, for example, .com, .gov, .au, .uk etc. and how you came to our website, such as the address of the referring site such as the previous site that you visited
+  * your server's IP address which is a number which is unique to the machine through which you are connected to the internet
+  * the date and time of your visit
+  * the address of the pages accessed and the documents downloaded.
 
 
 
-The Australian Privacy Principles place a general obligation on Australian Government agencies to inform individuals when they collect personal information about them from third parties. However, in many cases where we collect information from third parties, we do not inform the individuals because one of the following exceptions applies:
+Any information logged is stored securely, and archived for a period of at least 2 years and possibly up to 10 years.
 
-  * we expect that the individual will have consented to us collecting the information
-  * we are required or authorised to collect the personal information from third parties by law
-  * it would not be reasonable for the individual to know that we have collected the information because, for example, it may relate to the investigation of a report of misconduct.
+## Google Analytics and Google Tag Manager
+
+In addition to web service logs, we use Google Analytics (including the Advertising Features) and Google Tag Manager, which are web analysis services provided by Google Inc. ('Google').
+
+All the information we collect using Google Analytics and Google Tag Manager is for internal purposes only. We cannot identify individuals based on the data we collect and we won't publish any of it on our website.
+
+Reports obtained from Google Analytics are used to improve the efficiency and usability of this website. Google Analytics uses cookies to help analyse how users use this site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. The Advertising Features is a function within Google Analytics to get more advanced information about our users, such as user demographics, user interests, and frequency of visits. For more information on how Google uses the data collected, visit [Google's Privacy Policy](https://www.google.com/intl/en/policies/privacy/) and [Google Analytics Terms of Service](http://www.google.com/analytics/tos.html). To opt out and prevent your data from being collected by Google Analytics, you can download [Google's opt out add-on](https://tools.google.com/dlpage/gaoptout?hl=en).
+
+Google Tag Manager lets us combine codes on different areas of the website and collect data in ways that we can't do with Google Analytics. For more information on how Google uses the data collected, visit [Google's Privacy Policy](https://www.google.com/intl/policies/privacy/).
+
+By using this website, you consent to Google processing data about you in the manner and for the purposes set out above.
+
+## Electronic mail addresses
+
+We will record your email address only if you send us a message or enter it on a form. It will only be used for the purpose for which you provide it, and will not be added to a mailing list unless you request that this be done. We will not disclose it without your consent, unless required by law.
+
+## Subscriptions or logins
+
+To subscribe or login to some parts of our website, you must provide either a valid email address or a specific user name and password. These details will only be used for the purpose for which you have provided them and will not be added to any other mailing lists unless you specifically ask us to. Email mailing list addresses are stored on a separate server and can be accessed by authorised staff only. Your email address will not be disclosed without your consent, unless required by law.
+
+## Electronic newsletters
+
+When we send you a newsletter that you have subscribed to we have access to data about whether you opened that newsletter and clicked links.
+
+## Searches
+
+We keep a record of any search terms you use if you're searching our website, but we don't associate that information with other information that we collect. We use these search terms to identify what people are looking for on our website and to improve the services that we provide.
+
+## Links to other sites
+
+We might include links to other sites and we use social media sites, for example, Facebook, YouTube, and Twitter, to make it easy to share information. These other sites might use web measurement tools, customisation technologies and persistent cookies to inform the service they provide to their users. We are not responsible for the privacy practices or the content of other websites, and we do not use, maintain or share personal information that is collected by other websites.
+
+## Site feedback
+
+We want your feedback so we can improve the services our website provides.
+
+If you have any comments on the technical operations, functionality or usability of the pages of our website, please email [feedback@asic.gov.au](mailto:feedback@asic.gov.au). You can use a pseudonym, or you do not have to identify yourself, when you email us to provide us with site feedback.
+
+  * For more information [see our Privacy Policy](https://web.archive.org/about-asic/dealing-with-asic/privacy/asic-privacy-policy-summary/ "Summary of ASIC Privacy Policy").
 
 
-
-## Use and disclosure
-
-We only use personal information for the purpose for which it was collected unless one of the following applies:
-
-  * the individual consents to, or would reasonably expect us to use the information for a different purpose
-  * we are required or authorised by law to use the information
-  * we reasonably believe that the use or disclosure is necessary for our or other agencies' enforcement activities.
-
-
-
-We only disclose personal information to bodies or persons if one of the following applies:
-
-  * the individual has consented
-  * the individual would reasonably expect us to disclose the personal information
-  * we are required or authorised by law to disclose the information
-  * we reasonably believe that the use or disclosure is necessary for our enforcement activities.
-
-
-
-## Security of information
-
-We take steps to protect the personal information we hold against loss, unauthorised access, use, modification or disclosure, and against other misuse. These steps include password protection and access privileges for accessing our electronic IT systems, securing paper files in locked cabinets and physical access restrictions.
-
-## Access, correction and complaints
