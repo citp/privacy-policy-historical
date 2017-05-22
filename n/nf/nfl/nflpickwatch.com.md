@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nflpickwatch.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324090441id_/http%3A//nflpickwatch.com/privacy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nflpickwatch.com privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522053951id_/http%3A//nflpickwatch.com/privacy-2) for the most accurate reproduction.*
 
 # Pickwatch Privacy Policy
 
@@ -48,4 +48,4 @@ Like many services, Google Analytics uses first-party cookies to track visitor i
 
 Cookies contain information that is transferred to your computer’s hard drive. These cookies are used to store information, such as the time that the current visit occurred, whether the visitor has been to the site before and what site referred the visitor to the web page.
 
-Google Analytics collects information anonymously. It reports website trends without identifying individual visitors. **You can opt out of Google Analytics without affecting how you visit our site** – for more information on opting out of being tracked by Google Analytics across all websites you use, visit this [Google page](http://tools.google.com/dlpage/gaoptout).
+Google Analytics collects information anonymously. It reports website trends without identifying individual visitors. **You can opt out of Google Analytics without affecting how you visit our site** – for more information on opting out of being tracked by Google Analytics across all websites you use, visit this [Google page](https://tools.google.com/dlpage/gaoptout).
