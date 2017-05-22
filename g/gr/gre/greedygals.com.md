@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greedygals.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426181946id_/http%3A//network.newsensations.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greedygals.com privacy policy that was archived on 2017-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170522215317id_/http%3A//network.newsensations.com/privacy.htm) for the most accurate reproduction.*
 
 # New Sensations Network - Privacy Policy
 
