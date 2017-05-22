@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acustica-audio.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121132902id_/http%3A//www.acustica-audio.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D257%26Itemid%3D326) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acustica-audio.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523000818id_/http%3A//www.acustica-audio.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D257%26Itemid%3D326) for the most accurate reproduction.*
 
 # Privacy Policy
 
