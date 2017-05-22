@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocawear.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224000708id_/http%3A//rocawear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocawear.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523003315id_/http%3A//www.rocawear.com/privacy-policy) for the most accurate reproduction.*
 
 # Rocawear :: Privacy Policy
 
