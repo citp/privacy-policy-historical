@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dodo.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119014926id_/http%3A//www.dodo.com/media/104481/DOD_A0800_Terms_Booklet_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dodo.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523002342id_/http%3A//www.dodo.com/media/104481/DOD_A0800_Terms_Booklet_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
