@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dottoro.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120104329id_/http%3A//www.dottoro.com/privstat.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dottoro.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523084529id_/http%3A//www.dottoro.com/privstat.php) for the most accurate reproduction.*
 
 # 
 
