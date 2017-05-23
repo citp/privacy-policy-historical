@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hides.at privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120151854id_/http%3A//hides.at/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hides.at privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523122457id_/http%3A//hides.at/privacy.php) for the most accurate reproduction.*
 
 # Hides.at
 
@@ -64,4 +64,4 @@ Third party links maybe be discovered on our site. These third party links have 
 
 ### 6\. Contacting us
 
-Please feel free to contact us with any questions or problems related to our Privacy Policy, also feel free to contact us with any questions related to our website via our [contact form](https://web.archive.org/web/20161120151854id_/http%3A//hides.at/contact.php) . 
+Please feel free to contact us with any questions or problems related to our Privacy Policy, also feel free to contact us with any questions related to our website via our [contact form](https://web.archive.org/web/20170523122457id_/http%3A//hides.at/contact.php) . 
