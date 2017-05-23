@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bluenationreview.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121163915id_/http%3A//bluenationreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluenationreview.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523210242id_/http%3A//bluenationreview.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BNR
+# Privacy Policy | Bluenation Review
 
 ### **Blue Nation Review Privacy Policy**
 
@@ -81,7 +81,7 @@ If you sign an online petition, you understand that such petition is public info
 
 We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services.  These entities may use cookies, web beacons and other technologies to collect information about your use of the Sites and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information.  This information may be used by True Blue Media and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Sites and other websites and better understand your online activity.
 
-For example, we may use various Google Analytics products, including Google Analytics for Display Advertising and Google Analytics Demographics and Interests Reporting, that may use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) to provide advertising and analytics services and inform, optimize, and serve ads based on your activities.  This Policy does not apply to, and we are not responsible for, cookies or other technologies used by third parties. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](https://web.archive.org/web/20161121163915id_/http://bluenationreview.com/privacy-policy/www.aboutads.info/choices "www.aboutads.info/choices"). For information on how you can opt out of Google’s use of cookies for interest-based ads please see Google’s Ads Settings tool: <https://www.google.com/settings/ads>.
+For example, we may use various Google Analytics products, including Google Analytics for Display Advertising and Google Analytics Demographics and Interests Reporting, that may use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) to provide advertising and analytics services and inform, optimize, and serve ads based on your activities.  This Policy does not apply to, and we are not responsible for, cookies or other technologies used by third parties. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](https://web.archive.org/web/20170523210242id_/http://bluenationreview.com/privacy-policy/www.aboutads.info/choices "www.aboutads.info/choices"). For information on how you can opt out of Google’s use of cookies for interest-based ads please see Google’s Ads Settings tool: <https://www.google.com/settings/ads>.
 
 * * *
 
@@ -91,7 +91,7 @@ True Blue Media takes reasonable measures to help protect information about you 
 
 **Cookies**
 
-Most web browsers are set to accept cookies by default.  If you prefer, you can usually choose to set your browser to remove or reject browser cookies.  Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Sites.  To delete or disable flash cookies please visit [www.adobe.com/products/flashplayer/security](https://web.archive.org/web/20161121163915id_/http://bluenationreview.com/privacy-policy/www.adobe.com/products/flashplayer/security "www.adobe.com/products/flashplayer/security") for more information.
+Most web browsers are set to accept cookies by default.  If you prefer, you can usually choose to set your browser to remove or reject browser cookies.  Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Sites.  To delete or disable flash cookies please visit [www.adobe.com/products/flashplayer/security](https://web.archive.org/web/20170523210242id_/http://bluenationreview.com/privacy-policy/www.adobe.com/products/flashplayer/security "www.adobe.com/products/flashplayer/security") for more information.
 
 Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Sites.
 
