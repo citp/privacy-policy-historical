@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musictimes.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204040859id_/http%3A//www.musictimes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musictimes.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523195820id_/http%3A//www.musictimes.com/privacypolicy) for the most accurate reproduction.*
 
 # Music Times
 
@@ -211,31 +211,3 @@ Further, if you use any of the Communities features and functions made available
 **d. Other:** Please review our Terms of Use Agreement which governs your use of the Site. Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement.
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.
-
-  * [](https://web.archive.org/articles/74603/20161130/primavera-sound-2017-lineup-frank-ocean-arcade-fire-bon-iver-aphex-twin-headline.htm)
-
-### [Primavera Sound 2017 Lineup: Frank Ocean, Arcade Fire, Bon Iver, Aphex Twin Headline](https://web.archive.org/articles/74603/20161130/primavera-sound-2017-lineup-frank-ocean-arcade-fire-bon-iver-aphex-twin-headline.htm)
-
-  * [](https://web.archive.org/articles/74602/20161130/7-artists-headline-2017-festival-circuit-frank-ocean-arcade-fire.htm)
-
-### [7 Artists Who Should Headline 2017 Festival Circuit: Frank Ocean, Arcade Fire & More](https://web.archive.org/articles/74602/20161130/7-artists-headline-2017-festival-circuit-frank-ocean-arcade-fire.htm)
-
-  * [](https://web.archive.org/articles/74585/20161129/hangout-festival-2017-lineup-frank-ocean-chance-the-rapper-twenty-one-pilots-headline.htm)
-
-### [Hangout Festival 2017 Lineup: Frank Ocean, Chance The Rapper, Twenty One Pilots Headline](https://web.archive.org/articles/74585/20161129/hangout-festival-2017-lineup-frank-ocean-chance-the-rapper-twenty-one-pilots-headline.htm)
-
-  * [](https://web.archive.org/articles/74575/20161129/frank-ocean-headline-lovebox-northside-festivals.htm)
-
-### [Frank Ocean To Headline Lovebox, Northside Festivals, Announcing First Shows In 3 Years](https://web.archive.org/articles/74575/20161129/frank-ocean-headline-lovebox-northside-festivals.htm)
-
-  * [](https://web.archive.org/articles/74521/20161122/diplo-marshmello-young-thug-life-in-color-10-year-anniversary-miami-festival.htm)
-
-### [Diplo, Marshmello, Young Thug Headline Life In Color 10-Year Anniversary Miami Festival](https://web.archive.org/articles/74521/20161122/diplo-marshmello-young-thug-life-in-color-10-year-anniversary-miami-festival.htm)
-
-
-
-
-[](https://web.archive.org/contest)
-
-[Music Times Network is always looking for well-versed, enthusiastic contributors and interns.  
-Submit your application today!](https://web.archive.org/application/)
