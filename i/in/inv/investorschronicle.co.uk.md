@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the investorschronicle.co.uk privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122101002id_/http%3A//www.investorschronicle.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorschronicle.co.uk privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523151753id_/http%3A//www.investorschronicle.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Financial Times privacy policy | FT Help | FT.com
+# Help | FT Help | FT.com Privacy Policy
 
-Financial Times group takes the privacy of its users seriously. We are committed to safeguarding the privacy of our users while providing a personalised and valuable service. This Privacy Policy statement explains the data processing practices of Financial Times businesses. If you have any requests concerning your personal information or any queries with regard to these practices please contact our Privacy Officer by e-mail at [privacy.officer@ft.com](mailto:privacy.officer@ft.com).
+## Financial Times privacy policy
+
+Financial Times group takes the privacy of its users seriously. We are committed to safeguarding the privacy of our users while providing a personalised and valuable service. This Privacy Policy statement explains the data processing practices of Financial Times businesses. If you have any requests concerning your personal information or any queries with regard to these practices please contact our Privacy Officer by e-mail at [privacy.officer@ft.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=privacy.officer@ft.com).
 
 Our sites contain links to third party sites which are not subject to this privacy policy. We recommend that you read the privacy policy of any such sites that you visit.
 
@@ -10,29 +12,29 @@ Our sites contain links to third party sites which are not subject to this priva
 
 Personal information is collected by the FT companies listed below on behalf of the Financial Times group of companies and its trading entities (including FDI Intelligence and Exec-Appointments). Each of these FT companies are registered with the UK’s Information Commission as Data Controllers in accordance with the Data Protection Act 1998. References in this privacy policy to “FT”, “we”, “us”, “our” or similar refer to the FT group company operating the relevant website and references to “FT sites” refer to any of our websites from which you have accessed this privacy policy.
 
-> Company:The Financial Times Ltd
-> 
-> Registered Office:Number One Southwark Bridge, London SE1 9HL
-> 
-> Registered Number: 879531
-> 
-> Data Protection Registration Number:Z7087146
-> 
-> Company:FT Personal Finance Ltd
-> 
-> Registered Office:Number One Southwark Bridge, London SE1 9HL
-> 
-> Registered Number:3855520
-> 
-> Data Protection Registration Number:Z7670392
-> 
-> Company:The Financial Times (M-M UK) Limited, trading as Money-Media or Ignites Europe
-> 
-> Registered Office:Number One Southwark Bridge, London SE1 9HL
-> 
-> Registered Number:139844
-> 
-> Data Protection Registration Number:ZVK463
+**Company:** The Financial Times Ltd
+
+Registered Office:Number One Southwark Bridge, London SE1 9HL
+
+Registered Number: 227590
+
+Data Protection Registration Number: Z7087146
+
+**Company:** FT Personal Finance Ltd
+
+Registered Office:Number One Southwark Bridge, London SE1 9HL
+
+Registered Number: 3855520
+
+Data Protection Registration Number: Z7670392
+
+**Company:** The Financial Times (M-M UK) Limited, trading as Money-Media or Ignites Europe
+
+Registered Office:Number One Southwark Bridge, London SE1 9HL
+
+Registered Number:139844
+
+Data Protection Registration Number: ZVK463
 
 We collect personally identifiable information about you (your “Data”) through:
 
@@ -61,7 +63,8 @@ The elements of your Data that we collect may include:
 
 We may also collect information that we request from you regarding your use of our service or that we collect automatically about your visit to our sites. Please see our [Cookie Policy](http://help.ft.com/tools-services/how-the-ft-manages-cookies-on-its-websites/) for more details.
 
-**Use and Disclosure of Personal Information**  
+**Use and Disclosure of Personal Information**
+
 We use your Data for purposes which may include:
 
   * providing our users with a personalised service
@@ -108,39 +111,59 @@ The Internet is a global environment. Using the Internet to collect and process 
 
 **User Access and Control of Data**
 
-If you wish to amend any of the Data which we hold about you, or update your marketing preferences, please contact help@ft.com visit the “Contact Us” section of our website (excluding Investors Chronicle, FDI Intelligence, FT Adviser, Exec-Appointments, MBA-Direct.com, Non-execs.com, Ignites Europe and Mandatewire.com websites).
+If you wish to amend any of the Data which we hold about you, or update your marketing preferences, please contact [help@ft.com](mailto:help@ft.com) or visit the “Contact Us” section of our website.
 
-Investors Chronicle
+If you are a user of other FT Group products and you wish to amend any of the Data that we hold about you, or update your marketing preferences, you can call or email us on the numbers below, or visit ‘My Account’ or ‘User Preferences’. Please note that calls made to these numbers may be recorded for training and quality control purposes.
 
-If you are a user of www.InvestorsChronicle.co.uk and you wish to amend any of the Data which we hold about you, or update your marketing preferences, please contact ic.cs@ft.com, visit manage account or phone +44(0)844 848 0106. Calls made to these numbers may be recorded for training and quality control purposes.
+**_Agenda_** **:** [cssupport@money-media.com](mailto:cssupport@money-media.com) or +1 212-542-1245
 
-FDI Intelligence
+**_Analyse Africa_** **:** [analyseafrica@ft.com](mailto:analyseafrica@ft.com) or +44(0) 207 775 6900
 
-If you are a user of FDI products and you wish to amend any of the Data that we hold about you, or update your marketing preferences, please contact fdiintelligence@ft.com, visit manage my account or ph +44 (0)20 7775 6896.
+**_BoardIQ_** **:** [cssupport@money-media.com](mailto:cssupport@money-media.com) or +1 212-542-1245 __
 
-FT Adviser
+**_dpn: Deutsche Pensions & Investment Nachrichten_** **:** [dpn.subscription@mup-pv.de](mailto:dpn.subscription@mup-pv.de)
 
-If you are an FT Adviser user and you wish to amend any of the Data that we hold about you, or update your marketing preferences, please contact ftadviser.enquiries@ft.com, phone 0845 456 1516 or visit manage my account
+**_Exec-appointments.com:_**  [contactus@exec-appointments.com](mailto:contactus@exec-appointments.com) or +44 (0) 207 873 4909
 
-Exec-Appointments, MBA-Direct.com and Non-execs.com
+**_fDi Intelligence_** _(including www.fDiintelligence.com, www.fDimarkets.com, www.fDireports.com and www.fDibenchmark.com)_ : [fDicustomerservice@ft.com](mailto:fDicustomerservice@ft.com) or +44(0) 207 873 4240 __
 
-If you wish to amend any of the Data that we hold about you or update your marketing preferences, please sign into your account below and go to your personal profile or phone +44 (0) 207 873 4909.
+**_Financial Adviser_** **:** [ft@subscription.co.uk](mailto:ft@subscription.co.uk) or +44(0) 845 456 1516
 
-exec-appointments.com account
+**_FinancialAdvisor IQ_** **:** [cssupport@money-media.com](mailto:cssupport@money-media.com) or +1 212-542-1245 __
 
-mba-direct.com account
+**_FT Adviser_** **:**[ ft@subscription.co.uk](mailto:ft@subscription.co.uk) or +44(0) 845 456 1516
 
-non-execs.com account
+**_FT Live:_**[ ftlive@ft.com](mailto:ftlive@ft.com) or + 44 (0) 207 775 6653
 
-Ignites Europe
+**_FundFire_** **:** [cssupport@money-media.com](mailto:cssupport@money-media.com) or +1 212-542-1245 __
 
-If you wish to amend any of the Data which we hold about you, or update your marketing preferences, please visit the “Preferences” or “Contact Us” section of our website or phone UK +44 (0) 20 7775 6668 or US +1 212 542 1245.
+**_Global Risk Regulator_** **:** [grr@ft.com](mailto:grr@ft.com) or +44(0) 207 873 4240 __
 
-Calls made to these numbers may be recorded for training and quality control purposes.
+**_Ignites Asia_** **:** [cssupport@money-media.com](mailto:cssupport@money-media.com) or +852-21693575 or +1 212-542-1245
 
-Mandatewire
+**_Ignites Europe_** **:** [cssupport@money-media.com](mailto:cssupport@money-media.com) or +44 (0) 20 7775 6668 or +1 212-542-1245
 
-If you wish to amend any of the date which we hold about you, or update your marketing preferences, please contact contact.mandatewire@ft.com or phone (UK)+44 (0)20 7775 6080 or (NYC) +1212-542-1245
+**_Ignites_** **:** [cssupport@money-media.com](mailto:cssupport@money-media.com) or +1 212-542-1245 __
+
+**_Investment Adviser_** **:** [ft@subscription.co.uk](mailto:ft@subscription.co.uk) or +44(0) 845 456 1516 __
+
+**_Investors Chronicle_** **:** [help.ic@ft.com](mailto:help.ic@ft.com) or phone +44(0) 207 873 3202
+
+**_MandateWire_** **:** [cssupport@money-media.com](mailto:cssupport@money-media.com) or +1 212-542-1245
+
+**_Money Management_** **:** [ft@subscription.co.uk](mailto:ft@subscription.co.uk) or +44(0) 845 456 1516
+
+**_Non-Executive Directors’ Club_** **:**[ contact@non-execs.com](mailto:contact@non-execs.com) or +44 (0) 207 873 4909
+
+**_Pensions Expert_** **:** [ft@subscription.co.uk](mailto:ft@subscription.co.uk) or +44(0) 845 456 1516 __
+
+**_Professional Wealth Management_** **:** [pwm@ft.com](mailto:pwm@ft.com) or +44(0) 207 873 4240
+
+**_The Banker Database_** **:** [thebankerdatabase@ft.com](mailto:thebankerdatabase@ft.com) or +44(0)20 7775 6370
+
+**_The Banker_** **:** [thebanker@ft.com](mailto:thebanker@ft.com) or +44(0) 207 873 4240 __
+
+**_This is Africa_** **:** [thisisafrica@ft.com](mailto:thisisafrica@ft.com) or +44(0) 207 775 6342 __
 
 All users
 
