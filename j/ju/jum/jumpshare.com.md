@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the jumpshare.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120181916id_/https%3A//jumpshare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpshare.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523060159id_/https%3A//jumpshare.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Jumpshare
+# Jumpshare: Free File Sharing, Send Big Files, View Files Online
+
+Share any number of files in seconds. View over 200 file types online.
+
+[Sign Up](https://web.archive.org/signup) [Log In](https://web.archive.org/login)
 
 #### 1\. Definitions
 
