@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the hem.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318160952id_/http%3A//www.hem.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hem.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523132649id_/https%3A//www.hem.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Hem
-
-### Hem FAL Sweden AB Privacy Policy
+# Hem Design Studio Sweden AB Privacy Policy
 
 #### Privacy Policy
 
-The Hem website is provided by Hem FAL Sweden AB, Sankt Eriksgatan 48E, 112 34, Stockholm, Sweden (hereinafter referred to as "Hem"). This data protection declaration provides information on how we use and protect your data on the Hem website. Using the Hem website implies that you accept the terms set forth in this data protection declaration. If you do not agree with these terms, please do not use the Hem website. This data protection declaration applies from the time you begin using the Hem website.
+The Hem website is provided by Hem Design Studio Sweden AB, Eastmansvägen 12A, 113 61 Stockholm, Stockholm, Sweden (hereinafter referred to as "Hem"). This data protection declaration provides information on how we use and protect your data on the Hem website. Using the Hem website implies that you accept the terms set forth in this data protection declaration. If you do not agree with these terms, please do not use the Hem website. This data protection declaration applies from the time you begin using the Hem website.
 
 #### Data Collection
 
@@ -62,4 +60,4 @@ Hem uses physical, electronic and administrative security measures, including an
 
 #### General
 
-We may change this declaration from time to time by informing you of any changes and publishing the amended terms on the Hem website. For new users, the amended terms will be effective immediately; or existing users, they will come into effect 30 days after they have been communicated, excepting any users who object to them. If you have questions concerning this data protection declaration or the use of personal data at Hem, you can send an email to service@hem.com or contact Hem FAL Sweden AB, Sankt Eriksgatan 48E, 112 34, Stockholm, Sweden.
+We may change this declaration from time to time by informing you of any changes and publishing the amended terms on the Hem website. For new users, the amended terms will be effective immediately; or existing users, they will come into effect 30 days after they have been communicated, excepting any users who object to them. If you have questions concerning this data protection declaration or the use of personal data at Hem, you can send an email to service@hem.com or contact Hem Design Studio Sweden AB, Eastmansvägen 12A, 113 61 Stockholm, 112 34, Stockholm, Sweden.
