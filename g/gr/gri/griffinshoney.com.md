@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the griffinshoney.com privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822012231id_/http%3A//www.griffinshoney.com/aboutus/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the griffinshoney.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523201544id_/http%3A//www.griffinshoney.com/aboutus/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Griffin's Honey Blog
 
