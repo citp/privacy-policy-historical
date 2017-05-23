@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploadify.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119001914id_/http%3A//www.uploadify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadify.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523072710id_/http%3A//www.uploadify.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Uploadify
 
@@ -14,7 +14,7 @@ _Anonymous Information_ - Reactive Apps will track visitor activity to our site
 
 _Registration Information_ – If a visitor to our site fills out the Registration form, this information will be used to process any orders, or initiate contact with Reactive Apps only. The registrant has the choice of being added to email or postal mailing lists but is not required to do so. No one outside of Reactive Apps will ever have access to your personal information.
 
-Registration information is stored in a database on a secure server. The database is password protected and is only accessible by Reactive Apps’s servers and authorized personnel of Reactive Apps.
+[](http://www.buygenericmds.com/soma-carisoprodol/ "buy soma")Registration information is stored in a database on a secure server. The database is password protected and is only accessible by Reactive Apps’s servers and authorized personnel of Reactive Apps.
 
 **Third-Party Privacy Policies**
 
