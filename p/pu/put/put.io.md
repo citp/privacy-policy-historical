@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the put.io privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223014519id_/https%3A//put.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the put.io privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523114051id_/https%3A//put.io/privacy) for the most accurate reproduction.*
 
 # online storage re-imagined | put.io
 
