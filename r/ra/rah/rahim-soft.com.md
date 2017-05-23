@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rahim-soft.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122062139id_/http%3A//rahim-soft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rahim-soft.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523101735id_/http%3A//rahim-soft.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Rahim Free Softwares and Games Downloads
+# Privacy Policy - Rahim soft
+
+Last Updated: 28th July, 2016, 6:39 PM
 
 Please read this Privacy policy carrefully. Is available using our site. For any further informations we can be contacted via e-mail (see the link Contact us)
 
