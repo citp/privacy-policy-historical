@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incomepress.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421092016id_/http%3A//www.incomepress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incomepress.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523060934id_/http%3A//www.incomepress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
