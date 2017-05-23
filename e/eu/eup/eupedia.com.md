@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eupedia.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111104625id_/http%3A//www.eupedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eupedia.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523045957id_/http%3A//www.eupedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Cookie Information - Eupedia
 
@@ -26,4 +26,4 @@ Cookies are small text files that are placed on your computer by websites that y
 
 We also use cookies for targeted advertising and campaign tracking, notably DoubleCclick (Google), Quantcast (Disqus by-product) and ScoreCard (Disqus by-product). These cookies are used by third parties to gather and send information to other websites so that they can present you with adverts that you might be interested in.
 
-If you have concerns or questions about any aspect of our privacy policies, please do not hesitate to [contact us](http://www.eupedia.com/contact/). We welcome your feedback.
+If you have concerns or questions about any aspect of our privacy policies, please do not hesitate to [contact us](https://www.eupedia.com/contact/). We welcome your feedback.
