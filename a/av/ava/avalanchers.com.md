@@ -1,17 +1,63 @@
-> *The following text is extracted and transformed from the avalanchers.com privacy policy that was archived on 2013-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130419055434id_/http%3A//www.avalanchers.com/pages/priv.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avalanchers.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523155707id_/http%3A//www.avalanchers.com/privacy-policy) for the most accurate reproduction.*
 
-# Avalanchers - Privacy Policy
+# Privacy Policy - Avalanchers
 
-[](http://www.avalanchers.com/)
+### Your privacy is critically important to us. At Automattic we have a few fundamental principles:
 
-At Avalanchers.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit Avalanchers.com, and how we safeguard your information. We never sell your personal information to third parties. 
+This is Interesting Things privacy policy. This document explains Interesting Things policies for the collection, use and disclosure of personal information. Interesting Thingsabides by applicable privacy legislation.
 
-### Log Files
+Interesting Things provides social photo community and entertainment website.
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
+**The Information we collect**
 
-### Cookies and Web Beacons
+Interesting Things collects information by various methods including information actively provided by its customers, and tools such as cookies to enhance the user’s website experience.
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. We also use third party advertisements on Avalanchers.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
+The types of personal information we collect include the user’s name and contact information, IP address, as well as any information you voluntarily post on the website. Interesting Things also collects personal information about users from various social media or other sites that the user identifies with, but only to the extent that users have given their permission to those sites to share such information. Information collected from such sites may include, without limitation, interests, friends, birthday, city, and likes.
 
-### Avalanchers Team
+**How we use this information**
+
+This information is used to provide our web based services.
+
+Awesome Nature may use aggregate or anonymous information which will not be linked to identify individuals for various other uses for itself and third parties.
+
+**Who we share this information with**
+
+Interesting Things does not share personal information with any third parties except as disclosed in this policy. Interesting Things may provide personal information to its consultants, subcontractors and professional advisers (which shall be bound by privacy obligations) to assist Interesting Things uses disclosed herein.
+
+If at any time we wish to disclose personal information to third parties for that third party’s use, we will obtain your explicit permission. If you do grant such permission, you may revoke it at any time.
+
+Our websites contain links to third party sites where you may purchase items. Interesting Things makes commissions from those sales, and does some tracking so the third party knows what site you came from, but Interesting Things does not provide your personal information to the third party.
+
+**Advertisers**
+
+Each time you visit a Interesting Things website, third party advertisers and advertising companies, including Google, may collect personal and other information, through your IP address, and by using technology such as cookies. Advertisements appearing on the website are delivered to you by third party advertisers, often based on what you do on various websites. This is sometimes referred to as behavioral advertising, or contextual advertising. Third party advertisers and advertising companies use information about you (not including your name or email address), including your IP address and cookies collected through your use of websites, to provide advertisements on this website about goods and services that may be of interest to you. The use of this information collected by third party advertisers and advertising companies through this website is not covered by this privacy policy and Interesting Things is not responsible for the use of this information by third parties.
+
+You may opt out of the use of Google’s cookies for interest-based advertising by visiting the Google ads preference manager on the Google website. You may opt out of Google and other third-party’s use of cookies and other similar technology for interest-based advertising.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies.
+
+**Your Privacy Choices**
+
+Users may post information on the website (user registration may be required), which you may or may not want to share with certain other users. Users may make privacy choices by selecting options here. Your default privacy settings will be the most privacy friendly settings with the least sharing. Users should keep the privacy choices they have made in mind and avoid posting information they do not want to be shared in light of those choices. User information is retained by Interesting Things for as long as you maintain a login ID and profile, and for a period of up to 2 years after you terminate your profile. Users may however choose to terminate their profile and require Interesting Things to delete all their personal information.
+
+**Security**
+
+Personal information is protected by security measures appropriate to the nature of the information.
+
+**Accessing information**
+
+If an individual believes that any of their personal information on the website is inaccurate, and it is information that the user cannot change, you can contact Interesting Things privacy officer to request appropriate corrections.
+
+**General**
+
+Interesting Things may amend this policy from time to time by posting an updated version on our website. If such amendments affect how Interesting Things uses or discloses personal information already held by Interesting Things in a material way, Interesting Things will obtain consent.
+
+This policy was last updated on August 10, 2015.
+
+Notwithstanding the general terms of this policy, the collection, use, and disclosure of personal information may be made outside of the terms herein to the extent provided for in any applicable privacy or other legislation in effect from time to time, or pursuant to court orders.
+
+Interesting Things may disclose personal information to another entity purchasing (including for diligence purposes prior to purchase) the assets of Interesting Things, provided that entity abides by this or a similar privacy policy.
+
+**Contact us**
+
+For more information on Interesting Things and privacy please contact at: [contact@avalanchers.com](mailto:contact@awesomenature.co)
