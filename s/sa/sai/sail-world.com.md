@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sail-world.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229171643id_/http%3A//www.sail-world.com/USA/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sail-world.com privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524001822id_/http%3A//www.sail-world.com/USA/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,4 +30,4 @@ If you'd rather not receive news and updates via e-mail, simply click on the uns
 
 We do not specifically target children to register. However, should someone register on our site and tell us they are 12 or younger (where age is asked) they will not be added to our database or sent any information.
 
-[](http://www.bakewell-white.com/)[](http://www.barzoptics.com/)[](http://www.ancasta.com/boats-for-sale/new-boats/mcconaghy/ker/33/)
+[](http://www.marinersmuseum.org/)[](http://www.predictwind.com/)[](https://www.zhik.com/page/zhik-partner-with-akzonobel-for-vor.html)
