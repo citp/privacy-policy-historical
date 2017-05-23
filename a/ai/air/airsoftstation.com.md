@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airsoftstation.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219033322id_/http%3A//www.airsoftstation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airsoftstation.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523020518id_/http%3A//www.airsoftstation.com/privacy-policy) for the most accurate reproduction.*
 
-# Airsoft Station Privacy Policy
+# Airsoft Station Privacy Policy - Airsoft Guns Gear & Accessories
 
 Your privacy is important to us. To better protect your privacy the following notice explains the information we collect, how it is used, how it is safeguarded, and how to contact us if you have any concerns.
 
