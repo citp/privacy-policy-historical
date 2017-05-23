@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rewards-ph.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119013635id_/http%3A//www.rewards-ph.com/cgi-bin/global.pl%3Ftodo%3Dshow_page%26ident%3Ddatenschutz%26wingame_pk%3D41%26freetest_pk%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewards-ph.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523195817id_/http%3A//www.rewards-ph.com/cgi-bin/global.pl%3Ftodo%3Dshow_page%26ident%3Ddatenschutz%26wingame_pk%3D41%26freetest_pk%3D1) for the most accurate reproduction.*
 
 # PRIVACY POLICY & DATA PROTECTION
 
