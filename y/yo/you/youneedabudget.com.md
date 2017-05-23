@@ -1,8 +1,40 @@
-> *The following text is extracted and transformed from the youneedabudget.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110215146id_/https%3A//www.youneedabudget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youneedabudget.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523115531id_/https%3A//www.youneedabudget.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | YNAB
+# Privacy Policy | You Need a Budget
 
-## Last modified: December 30, 2015
+On average, new budgeters save $200 their first month and more than $3,300 by month nine! Pretty solid return on investment.
+
+  * **1**
+
+Try YNAB FREE for 34 days
+
+  * **2**
+
+Start taking control of your money
+
+  * **3**
+
+After your trial, continue for $50/year
+
+
+
+
+  * **Bank Syncing** Easily connect all your bank accounts in one place.
+  * **On the Go** Easily budget together, across devices, in real-time!  
+
+  * **Personal Support** Personal support and teaching, 7 days a week.  
+
+  * **Debt Paydown** The tools you need to get debt-free & stay that way.
+  * **Reporting Bliss** Measuring tangible progress leads to more progress. 
+  * **Goal Tracking** Set, track, and reach your goals—faster!
+
+
+
+### Sign up for a free trial today!
+
+No credit card required.
+
+Close 
 
 ## Introduction
 
@@ -97,14 +129,14 @@ We may also disclose your personal information:
 
 
 
-​We will not, under any circumstances, sell your personal information.
+We will not, under any circumstances, sell your personal information.
 
 ## Choices About How We Use and Disclose Your Information
 
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
   * **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
-  * **Promotional Offers from the Company.** If you do not wish to have your e-mail address/contact information used by the Company to promote the Company's products or services, you can opt-out by clicking on the Unsubscribe link at the bottom of every email. This opt out does not apply to information provided to the Company as a result of a product purchase, warranty registration, product service experience or other transactions.
+  * **Promotional Offers from the Company.** If you do not wish to have your e-mail address/contact information used by the Company to promote the Company’s products or services, you can opt-out by clicking on the Unsubscribe link at the bottom of every email. This opt out does not apply to information provided to the Company as a result of a product purchase, warranty registration, product service experience or other transactions.
 
 
 
@@ -115,14 +147,6 @@ You can review and change your personal information by logging into the Website 
 ## Your California Privacy Rights
 
 California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to privacy@youneedabudget.com.
-
-## EU and Swiss Safe Harbors
-
-We adhere to the U.S. Department of Commerce’s US-EU Safe Harbor Framework and the [US-Swiss Safe Harbor Framework](http://export.gov/safeharbor/) (the “Safe Harbors”) with respect to the collection, use, and retention of personal information from European Union member countries and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. For more information about the Safe Harbors and to view our certification, visit the U.S. Department of Commerce’s Safe Harbor Web site.
-
-We will obtain assurances from our agents that they will safeguard Personal Data in accordance with these Safe Harbors.
-
-We have committed to provide recourse for individuals to whom privacy data relates and to remedy problems arising out of its failure to comply with the US-EU and US-Swiss Safe Harbor Principles by cooperating with European Union Data Protection Authorities (DPAs). We will cooperate with the DPAs in the investigation and resolution of complaints brought under the Safe Harbor; and we will comply with any advice given by the DPAs where the DPAs take the view that we need to take specific action to comply with the Safe Harbor Principles, including remedial or compensatory measures for the benefit of individuals affected by any non-compliance with the Principles, and will provide the DPAs with written confirmation that such action has been taken. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the DPA in your jurisdiction for more information and to file a complaint.
 
 ## Changes to Our Privacy Policy
 
