@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the directiq.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215135606id_/http%3A//www.directiq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directiq.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523133014id_/https%3A//www.directiq.com/privacy-policy) for the most accurate reproduction.*
 
-# Send easy email marketing campaigns with DirectIQ
+# Privacy Policy | DirectIQ Email Marketing
 
 ### Privacy Policy
 
