@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htmedia.in privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121044237id_/http%3A//www.htmedia.in/Privacy3219.html%3FPage%3DPage-HTMedia-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmedia.in privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523042942id_/http%3A//htmedia.in/Privacy3219.html%3FPage%3DPage-HTMedia-Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Important: Please read
 
 The Privacy Policy (hereinafter "the policy") provided below is with respect to our use and protection of any personal information you provide to us through the HT Media website.
 
-HT Media Ltd. is the sole owner of the website [www.htmedia.in](https://web.archive.org/web/20161121044237id_/http%3A//www.htmedia.in/index.html) (hereinafter "website"). The Policy is applicable to the website. It may also be applicable generally to our other related websites provided it appears at the footer of the page therein.
+HT Media Ltd. is the sole owner of the website [www.htmedia.in](https://web.archive.org/web/20170523042942id_/http%3A//htmedia.in/index.html) (hereinafter "website"). The Policy is applicable to the website. It may also be applicable generally to our other related websites provided it appears at the footer of the page therein.
 
 You may be required to provide personally identifiable information at several different points on our website. By accepting the policy at the time of registration, you expressly approve and consent to our collection, storage, use and disclosure of your personal information as described in this Policy. 
 
@@ -90,4 +90,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
   
 
 
-If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20161121044237id_/http%3A//www.htmedia.in/ContactUs9941.html?Page=Page-HTMedia-ContactUs)
+If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20170523042942id_/http%3A//htmedia.in/ContactUs9941.html?Page=Page-HTMedia-ContactUs)
