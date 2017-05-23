@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coolfunnyquotes.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209092820id_/http%3A//www.coolfunnyquotes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolfunnyquotes.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523050646id_/http%3A//www.coolfunnyquotes.com/privacy) for the most accurate reproduction.*
 
-# CoolFunnyQuotes.com Privacy Policy
+# Privacy Policy for CoolFunnyQuotes.com
 
 CoolFunnyQuotes.com respects your privacy! We do not collect any personal information at our site. We analyze our website logs to constantly improve the value of the materials available on our website. Our website logs are not personally identifiable, and we make no attempt to link them with the individuals that actually browse the site.
 
