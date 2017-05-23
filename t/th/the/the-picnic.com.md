@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the the-picnic.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329130043id_/http%3A//the-picnic.com/privacy-and-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-picnic.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523072200id_/http%3A//the-picnic.com/privacy-and-terms) for the most accurate reproduction.*
 
-# Privacy & Terms | The Picnic
+# Privacy & terms | The Picnic
 
 **PICNIC Privacy Policy  
 Information we collect and how we use it**  
@@ -23,4 +23,4 @@ This Privacy Policy applies to this Website only. We do not exercise control ove
 **Changes to this policy**  
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page. Each version of this Policy will be identified at the top of the page by its effective date. If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at PICNIC EXPERIENCE S.L. Calle Alfonso XII 36, 5D. CP 28014. Madrid, Spain
 
-Política de cookies: Nuestra web utiliza cookies propias para ofrecerle un mejor servicio. Si continúa navegando, consideramos que acepta su uso. Cerrar [Leer más](http://the-picnic.com/es/politica-de-cookies)
+Cookies policy: This website uses 'cookies' to give you the best, most relevant experience. Using this website means you are Ok with this. You can change which cookies are set at any time - and find out more about them - by following this link: [Read more](http://the-picnic.com/cookies-policy) Close
