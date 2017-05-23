@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitemerit.info privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026223047id_/http%3A//sitemerit.info/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitemerit.info privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523110003id_/http%3A//sitemerit.info/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
