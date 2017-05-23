@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legalbeagles.info privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226050714id_/http%3A//legalbeagles.info/forums/showthread.php%3F8476-Legal-Beagles-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalbeagles.info privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523202548id_/http%3A//legalbeagles.info/forums/showthread.php%3F8476-Legal-Beagles-Privacy-Policy) for the most accurate reproduction.*
 
 # Legal Beagles - Privacy Policy
 
