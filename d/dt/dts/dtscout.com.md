@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dtscout.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214050549id_/http%3A//www.dtscout.com/techpolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtscout.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523035532id_/http%3A//www.dtscout.com/techpolicy.html) for the most accurate reproduction.*
 
 # Technology Privacy Policy
 
@@ -46,8 +46,8 @@ Disclaimer:
 
 Please note the following reservations with regard to our Partners, for which we have no affiliation with or responsibility for any of their activities:
 
-  * We recommend you review Partners’ respective privacy policies, links available in our “[data Partners](https://web.archive.org/web/20161214050549id_/http%3A//www.dtscout.com/index.html#partners)” section. Partners’ activity is subject to their respective policies and practices.
-  * You may be required to visit Partners’ websites in order to opt out their cookies. Relevant links may be present in our “[data Partners](https://web.archive.org/web/20161214050549id_/http%3A//www.dtscout.com/index.html#partners)” section.
+  * We recommend you review Partners’ respective privacy policies, links available in our “[data Partners](https://web.archive.org/web/20170523035532id_/http%3A//www.dtscout.com/index.html#partners)” section. Partners’ activity is subject to their respective policies and practices.
+  * You may be required to visit Partners’ websites in order to opt out their cookies. Relevant links may be present in our “[data Partners](https://web.archive.org/web/20170523035532id_/http%3A//www.dtscout.com/index.html#partners)” section.
   * While we require our partners to uphold this privacy policy, we do not monitor or control such third parties cookies and accordingly we are not responsible or liable in any manner to the type of information collected by such third parties cookies. If you would like to file a compliant regarding such third party activity you can contact us at [info@dtscout.com](mailto:info@dtscout.com).
   * We are not responsible for any of the content published on supply Partners’ websites.
   * We may offer in our documentation and/or website Partners’ summaries, logos and links to their websites and third party publications and/or websites may refer or link to our website; this should not be seen as notice of affiliation, endorsement, authorization or representation.
@@ -64,7 +64,7 @@ A cookie is a small text file that is stored in a web browser directory by a web
   
 
 
-DTS respects your choices with regard to online privacy, you can opt-out at any time using the following [opt out link](https://web.archive.org/web/20161214050549id_/http%3A//www.dtscout.com/opt-out.php) in order to opt-out from all/some of our data Partners. Please note that your browser enables you to disable all cookies (if you do not know how to do this, consult with your browsers’ "Help" tab), however, this may interfere with your use of various online services and websites.
+DTS respects your choices with regard to online privacy, you can opt-out at any time using the following [opt out link](https://web.archive.org/web/20170523035532id_/http%3A//www.dtscout.com/opt-out.php) in order to opt-out from all/some of our data Partners. Please note that your browser enables you to disable all cookies (if you do not know how to do this, consult with your browsers’ "Help" tab), however, this may interfere with your use of various online services and websites.
 
 Opting out results in embedding opt-out cookies on your browser that notify demand side servers not to interact with your browser: if you delete/purge cookies and remove the said opt out cookie, upgrade or use a different computer or browser, or take any action which results in the deletion of the "opt out" cookie than you will need to opt out again.
 
