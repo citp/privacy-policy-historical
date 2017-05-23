@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nylas.com privacy policy that was archived on 2016-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160828063856id_/https%3A//www.nylas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nylas.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523100528id_/https%3A//nylas.com/privacy-policy) for the most accurate reproduction.*
 
-# Nylas N1
+# Nylas Mail - The best free email app | Nylas - The best free email app
 
 Protecting your privacy is really important to us. With this in mind, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive through our Services. This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized terms used in this Privacy Policy have the same meanings as in our Terms of Service. So, please make sure that you have read and understand our Terms of Service.
 
