@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prismic.io privacy policy that was archived on 2016-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160730032058id_/https%3A//prismic.io/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prismic.io privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523160800id_/https%3A//prismic.io/legal/privacy) for the most accurate reproduction.*
 
-# prismic.io | Privacy Policy
+# prismic.io
 
 This Privacy Policy applies to information collected by our website, [www.prismic.io](https://www.prismic.io/) (the “Site”) or through our other commercial solution offerings (collectively, our “Service”). Zengularity has created this Privacy Policy to explain what information we gather from you when you use our Service, how we may use this information, and the security approaches we use to protect your information. 
 
