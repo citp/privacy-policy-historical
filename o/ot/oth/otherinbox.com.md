@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the otherinbox.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624001718id_/https%3A//returnpath.com/data-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otherinbox.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523134317id_/https%3A//returnpath.com/data-privacy-policy) for the most accurate reproduction.*
 
 # Data Privacy Policy - Return Path
 
-Effective Date: June 13, 2016
+Effective Date: March 13, 2017
 
 ## Introduction
 
 Thank you for taking the time to read our Privacy Policy. Your privacy is of the utmost importance to us. Our business depends on the trust of thousands of companies and millions of people. Violating that trust is simply not an option. We want you to be fully informed about the information we collect, how it is used, shared, and protected, and the choices you have with it.
 
-The following explains the privacy and data practices at Return Path, Inc. (“Return Path”, “We”, “Us”, or “Our”). After you read it, if you have any questions please contact the Return Path Privacy Office by emailing us at [privacy@returnpath.com](mailto:privacy@returnpath.com) and submitting a ticket under privacy department. We’ll be glad to help.
+The following explains the privacy and data practices at Return Path, Inc. (“Return Path”, “We”, “Us”, or “Our”). This privacy policy (“Privacy Policy”) is provided to inform you of our policies and practices and of the choices you can make about the way your information is collected and how that information is used. After you read it, if you have any questions please contact the Return Path Privacy Office by emailing us at [privacy@returnpath.com](mailto:privacy@returnpath.com) and submitting a ticket under privacy department. We’ll be glad to help.
 
 Our Privacy Policy will tell you about:
 
@@ -29,31 +29,36 @@ Thank you for visiting our website and using our products and services.
 Sincerely,  
 Matt Blumberg, CEO
 
-## TRUSTe Program and Scope  [](http://privacy.truste.com/privacy-seal/Return-Path,-Inc-/validation?rid=2b1fe89b-61a4-425e-9b74-668528efd5f6)
+[](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=555&sealid=112)          [](https://privacy.truste.com/privacy-seal/validation?rid=0edae3d1-ca78-4f18-bd1a-a44ff3c47228 "TRUSTe Privacy Certification")
 
-Return Path, Inc. has received TRUSTe’s Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. The TRUSTe certification does not cover information that may be collected through downloadable software. The TRUSTe certification covers only our collection, use and disclosure of information we collect through our websites: [www.otherinbox.com](http://www.otherinbox.com/), [http://context.io](http://context.io/), [www.shopami.com](http://www.shopami.com/), [www.whiskerwidget.com](http://www.whiskerwidget.com/) and [www.getunsubscriber.com](http://www.getunsubscriber.com/) and information that may be collected through our Shopami mobile application.
+## EU – U.S. Privacy Shield
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=555&sealid=112)
+Return Path, Inc. participates in and has certified its compliance with the EU – U.S. Privacy Shield Framework. Return Path, Inc. is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list).
 
-WhiskerWidget for Chrome is certified as a Trusted Download application by TRUSTe signifying that the WhiskerWidget application has been tested by TRUSTe for compliance with TRUSTe’s TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding WhiskerWidget, please contact us at privacy@returnpath.com. If you are not satisfied with our response you can contact TRUSTe [here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=555&sealid=112).
+Return Path, Inc. is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Return Path, Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Return Path, Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Return Path, Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-## E.U. and Swiss Safe Harbor
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our [U.S.-based third party dispute resolution provider](https://feedback-form.truste.com/watchdog/request) (free of charge).
 
-Return Path, Inc. complies with the U.S. — E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Return Path, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Return Path, Inc.’s certification, please visit [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/)
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+## U.S. – Swiss Safe Harbor
+
+Return Path, Inc. complies with the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. Return Path, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Return Path, Inc.’s certification, please visit [https://safeharbor.export.gov/swisslist.aspx](https://safeharbor.export.gov/swisslist.aspx.).
 
 ## The Organization Collecting Information at This Website
 
 The mission of Return Path and its subsidiary companies is to make email better for everyone. We build products and provide services to make your inbox a safe and manageable place filled with email you want to receive and nothing more.
 
-Our products and services include Context.IO (a product of our subsidiary, DokDok, Inc.), OtherInbox, and Shopami.com. We operate and own the websites (the “Sites”) located at:
+The products and services of Return Path, Inc. and its subsidiaries include Context.IO, OtherInbox, and Shopami.com. We operate and own the websites (the “Sites”) located at:
 
   * [http://context.io](http://context.io/)
   * [http://www.otherinbox.com](http://www.otherinbox.com/)
   * [http://www.shopami.com](http://www.shopami.com/)
   * [http://www.whiskerwidget.com](http://www.whiskerwidget.com/)
   * [http://www.getunsubscriber.com](http://www.getunsubscriber.com/)
+  * [http://getorganizer.com](https://www.otherinbox.com/organizer/)
 
 
 
@@ -77,7 +82,7 @@ The services Return Path offers are:
 
 #### Developers
 
-The Context.IO Developer Terms of Service contain some specific obligations applicable to you regarding your privacy and data practices. These obligations include things such as ensuring that you are publishing a sufficient privacy policy to your End Users, that it is available to your users for review in a sufficient manner, and that specific disclosures exist which allow for the Context.IO Services to be utilized within your mobile or web product or service, and data to be shared with Return Path. If you are a developer and have powered your mobile or email application with Context.IO, please review your [Developer Terms of Service](http://context.io/terms-of-service)
+The Context.IO Developer Terms of Service contain some specific obligations applicable to you regarding your privacy and data practices. These obligations include things such as ensuring that you are publishing a sufficient privacy policy to your End Users, that it is available to your users for review in a sufficient manner, and that specific disclosures exist which allow for the Context.IO Services to be utilized within your mobile or web product or service, and data to be shared with Return Path. If you are a developer and have powered your mobile or email application with Context.IO, please review your [Developer Terms of Service](http://context.io/terms-of-service).
 
 #### Service End-Users
 
@@ -89,7 +94,7 @@ With your permission, Return Path connects your email account(s) to one or more 
 
 ### Return Path Consumer Applications
 
-With your permission, our Consumer Applications (Shopami, Whisker Widget, and Unsubscriber), connect to your email account(s) that you choose in order to provide you services such as indexing coupons, offers and promotions from your inbox and helping you manage your preferences for commercial emails. When you connect your email accounts to our Consumer Applications, Our servers scan your mailbox and store information, including personal information, in order to help us provide services to you, improve or develop new services, features or applications and to develop anonymized data products. We may retain message level information (like what’s described above in our OtherInbox product) as well as your location data (e.g., when you use a location-enabled feature in Shopami, we may collect and process information about your location), device information (such as product model, operating system and the device identifier or “UDID”), log information (such as device event information, system activity, hardware settings, internet protocol address, and details of how you used our services). If you do not want us to collect or use your location for the purposes set forth above, you should turn off the location services for Shopami located in your account settings on your mobile device and or within the Shopami application itself. If you choose not to share your location information, then certain features may be limited or unavailable.
+With your permission, our Consumer Applications (Shopami, Whisker Widget, Organizer, and Unsubscriber), connect to your email account(s) that you choose in order to provide you services such as indexing coupons, offers and promotions from your inbox and helping you manage your preferences for commercial emails. When you connect your email accounts to our Consumer Applications, Our servers scan your mailbox and store information, including personal information, in order to help us provide services to you, improve or develop new services, features or applications and to develop anonymized data products. We may retain message level information (like what’s described above in our OtherInbox product) as well as your location data (e.g., when you use a location-enabled feature in Shopami, we may collect and process information about your location), device information (such as product model, operating system and the device identifier or “UDID”), log information (such as device event information, system activity, hardware settings, internet protocol address, and details of how you used our services). If you do not want us to collect or use your location for the purposes set forth above, you should turn off the location services for Shopami located in your account settings on your mobile device and or within the Shopami application itself. If you choose not to share your location information, then certain features may be limited or unavailable.
 
 ## Aggregate Information
 
@@ -101,15 +106,15 @@ In cases where you use a mobile device to access our Sites, we will receive info
 
 ## Cookies and Other Tracking Technologies
 
-Technologies such as: cookies, beacons, tags and scripts are used by Return Path, Inc. and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies to remember users’ settings (e.g. language preference), tracking for marketing purposes, and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+Technologies such as: cookies, beacons, tags and scripts are used by Return Path, Inc. and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies to remember users’ settings (e.g. language preference), tracking for marketing purposes, and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. To read more about how we use cookies, [click here](https://getunsubscriber.com/storage.pdf).
 
 ### Log Files
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you.
 
-### Local Storage Objects (Flash/HTML5)
+### Local Storage Objects (HTML5)
 
-We use Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also uses Flash cookies and HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+We use Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also uses HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5.
 
 ### Behavioral Targeting / Re-Targeting
 
@@ -179,11 +184,11 @@ We may occasionally send you push notifications through our consumer application
 
 ## Correcting, Updating or Removing Your Personal Information
 
-Return Path will make commercially reasonable efforts to provide you reasonable access to any of your personal information we maintain within 30 days of your access request. We provide this access so you can review it, make corrections or request deletion of your data. If we cannot honor your request within the 30-day period, we will tell you when we will provide access. In the unlikely event that we cannot provide you access to this information, we will explain why we cannot do so. To review and update your personal information to ensure it is accurate, contact the Return Path Privacy Office by emailing us at [privacy@returnpath.com](mailto:privacy@returnpath.com).
+Upon request Return Path will provide you with information about whether we hold any of your personal information. Return Path will make commercially reasonable efforts to provide you reasonable access to any of your personal information we maintain within 30 days of your access request. We provide this access so you can review it, make corrections or request deletion of your data. If we cannot honor your request within the 30-day period, we will tell you when we will provide access. In the unlikely event that we cannot provide you access to this information, we will explain why we cannot do so. To review and update your personal information to ensure it is accurate, contact the Return Path Privacy Office by emailing us at [privacy@returnpath.com](mailto:privacy@returnpath.com).
 
 ## Security and Information Protection
 
-The security of your information is important to us. When you enter sensitive information (such as your registration information, we encrypt that information using Secure Socket Layer (SSL) technology. We follow generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. You should, therefore, always use caution when submitting personal information online. If you have any questions about security on our website, you can contact the Return Path Privacy Office by emailing us at [privacy@returnpath.com](mailto:privacy@returnpath.com).
+The security of your information is important to us. When you enter sensitive information (such as your registration information and/or geo-location data) we encrypt that information using Secure Socket Layer (SSL) technology. We follow generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. You should, therefore, always use caution when submitting personal information online. If you have any questions about security on our website, you can contact the Return Path Privacy Office by emailing us at [privacy@returnpath.com](mailto:privacy@returnpath.com).
 
 ## Blog
 
