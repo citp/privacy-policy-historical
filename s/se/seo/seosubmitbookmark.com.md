@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seosubmitbookmark.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120133312id_/http%3A//www.seosubmitbookmark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seosubmitbookmark.com privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524005547id_/http%3A//www.seosubmitbookmark.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy › SEOSubmitBookmark.com : Submit dofollow bookmarks to public website for higher SEO rankings, increase traffic and visitors | Manual directory submission & store, manage & organize social bookmarks
 
