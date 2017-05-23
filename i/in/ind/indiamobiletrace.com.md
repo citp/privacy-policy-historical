@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiamobiletrace.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211215730id_/http%3A//indiamobiletrace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiamobiletrace.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523073242id_/http%3A//indiamobiletrace.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
