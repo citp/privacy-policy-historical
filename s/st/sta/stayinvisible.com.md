@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stayinvisible.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119024642id_/http%3A//www.proxy4free.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stayinvisible.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523061413id_/http%3A//www.proxy4free.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
