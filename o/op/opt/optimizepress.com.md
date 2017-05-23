@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimizepress.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045942id_/http%3A//www.optimizepress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimizepress.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523155450id_/https%3A//www.optimizepress.com/privacy-policy) for the most accurate reproduction.*
 
 # OptimizePress - Club Special Offer — OptimizePress
 
