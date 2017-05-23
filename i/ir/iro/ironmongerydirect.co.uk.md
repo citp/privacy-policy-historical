@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ironmongerydirect.co.uk privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121030405id_/http%3A//www.ironmongerydirect.co.uk/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironmongerydirect.co.uk privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523023927id_/http%3A//www.ironmongerydirect.co.uk/information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | IronmongeryDirect
 
 IronmongeryDirect is committed to providing the safest and most secure shopping experience available, and we take the security of your personal details very seriously. We use industry leading secure server technology that implements Secure Socket Layering (SSL) to protect your details and assist your shopping experience. SSL is the industry standard for encryption and enables millions of secure online transactions on a daily basis.
 
-This is the web site of IronmongeryDirect Ltd - http://www.IronmongeryDirect.co.uk. Ironmongery Direct take your privacy seriously as outlined in the details below. We will only use the information that we collect about you lawfully in accordance with the Data Protection Act 1998.
+This is the web site of IronmongeryDirect Ltd - //www.ironmongerydirect.co.uk. Ironmongery Direct take your privacy seriously as outlined in the details below. We will only use the information that we collect about you lawfully in accordance with the Data Protection Act 1998.
 
 We collect information about you for 2 reasons: firstly, to process your order and secondly, to provide you with the best possible service.
 
