@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photolab.me privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226110951id_/http%3A//photolab.me/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photolab.me privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523211306id_/http%3A//photolab.me/terms) for the most accurate reproduction.*
 
 # Terms and Privacy
 
