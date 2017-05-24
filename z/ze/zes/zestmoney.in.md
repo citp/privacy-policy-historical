@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zestmoney.in privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121131752id_/http%3A//zestmoney.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zestmoney.in privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524200441id_/http%3A//zestmoney.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ZestMoney | Buy on EMI without Credit Card
 
-"Zest" is a trading name of Chalk Farm Ventures Private Limited (referred to, including its affiliates, as "we" or "us"). We are the data controller. Throughout this Privacy Policy "you" means the customer.
+”Zest/ ZestMoney” and domain name www.zestmoney.in have been assigned to Camden Town Technologies Pvt Ltd through an assignment agreement (referred to, including its affiliates, as "we" or "us"). We are the data controller. Throughout this Privacy Policy "you" means the customer.
 
 We believe you deserve the utmost respect when it comes to the security and use of your personal information, so we have described how we look after your information as clearly as possible.
 
@@ -40,7 +40,7 @@ We have trusted relationships with carefully selected banking and financial enti
 
 We may share information about you:
 
-  * to transfer data, personal information etc. with any Chalk Farm related entity, other banking or financial entity’s, third party firm, agency organisation or person for the purposes of storage and safe keeping of the data or information about you.
+  * to transfer data, personal information etc. with any Camden Town related entity, other banking or financial entity’s, third party firm.
   * to analyze usage of the website or to improve the Service as provided by Zest.
   * to send communications relevant to your use of Service or product/services as offered by us.
   * to enable you to apply for certain products and services for which you have chosen to apply.
