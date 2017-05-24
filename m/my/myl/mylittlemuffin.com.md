@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mylittlemuffin.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020181604id_/http%3A//www.mylittlemuffin.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylittlemuffin.com privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524021440id_/http%3A//mylittlemuffin.com/terms) for the most accurate reproduction.*
 
 # Terms and Privacy policy » My Little Muffin
+
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fmylittlemuffin.com%2Fterms%2F&media=&description=Terms%20and%20Privacy%20policy)
 
 ### Content provided on this site is for entertainment or informational purposes only and should not be construed as medical or health, safety, legal or financial advice.
 
@@ -49,12 +51,16 @@ We may amend this Privacy Policy from time to time.  Use of information we coll
 
 ### [Preetjyot](http://www.mylittlemuffin.com/)
 
-I am Preetjyot K. Mehra. I am a dreamer, a dreamer who believes in her dreams, and keeps going strong till she gives life to her dreams. I have my own little corner of the web called www.mylittlemuffin.com (follow me on https://www.facebook.com/mylittlemuffin ), a place where I share interesting articles and ideas , to help you break all the stereotypes.
+Becoming a parent, flipped my world upside down, and there was no way I was going to miss the first laugh, the first word, the first step, or any milestone in between.Staying at home not only meant quality time with my daughter, but also allowed more time to do what I love…Pen my thoughts down on my blog.  
+I strongly believe in breaking all the stereotype ways of parenting.   
+For me parenting is all about love and fun. My girls and I believe in jamming out in the car, in dancing in the rains, and in miracles. We believe in smiling till our cheek hurt and laughing till our neighbours’ ears burst. Parenting definitely comes with loads of challenges,but trust me facing these challenges becomes much more easier by having a fun and a happy attitude towards it.
 
 [](http://www.mylittlemuffin.com/ "Preetjyot")
 
-#### Latest posts by Preetjyot ([see all](http://www.mylittlemuffin.com/author/admin/))
+#### Latest posts by Preetjyot ([see all](http://mylittlemuffin.com/author/admin/))
 
 ### Comments
 
 comments
+
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fmylittlemuffin.com%2Fterms%2F&media=&description=Terms%20and%20Privacy%20policy)
