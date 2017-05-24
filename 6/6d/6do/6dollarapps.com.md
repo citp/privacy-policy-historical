@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6dollarapps.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105223846id_/http%3A//6dollarapps.com/en/Privacy-Policy-i3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6dollarapps.com privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524195434id_/http%3A//6dollarapps.com/en/Privacy-Policy-i3.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
