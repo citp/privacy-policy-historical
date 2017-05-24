@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zingiri.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113095120id_/http%3A//www.zingiri.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zingiri.com privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524133035id_/http%3A//www.zingiri.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Zingiri
 
@@ -43,7 +43,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 #### How You Can Access Or CorrectYour Information
 
-You can access all your personally identifiable information that we collect online and maintain by [calling us or sending us an email](http://www.zingiri.com/contact-us). We use this procedure to better safeguard your information.
+You can access all your personally identifiable information that we collect online and maintain by [calling us or sending us an email](http://www.zingiri.com/contact). We use this procedure to better safeguard your information.
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
@@ -51,4 +51,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 #### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please [contact us](http://www.zingiri.com/contact-us).
+Should you have other questions or concerns about these privacy policies, please [contact us](http://www.zingiri.com/contact).
