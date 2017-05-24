@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the semeasy.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130215433id_/http%3A//semeasy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semeasy.com privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524031859id_/http%3A//semeasy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SEMeasy | The Future of SEO
 
