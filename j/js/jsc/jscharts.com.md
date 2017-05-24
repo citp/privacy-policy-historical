@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jscharts.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235209id_/http%3A//www.jumpeyecomponents.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jscharts.com privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524163244id_/http%3A//www.jumpeyecomponents.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Web site privacy policy
 
