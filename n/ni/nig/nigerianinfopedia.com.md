@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nigerianinfopedia.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505142710id_/http%3A//www.nigerianinfopedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigerianinfopedia.com privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524174206id_/http%3A//www.nigerianinfopedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nigerian Infopedia
 
@@ -21,4 +21,4 @@ Like many other Web sites, this site makes use of log files. When visitors acces
 **Right to Change Policy**  
 We reserve every right to edit or change the policy of this website without prior notice.
 
-[](http://www.copyscape.com/)
+[](https://www.nigerianinfopedia.com/ask-question)
