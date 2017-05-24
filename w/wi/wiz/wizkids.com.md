@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wizkids.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210071333id_/http%3A//wizkids.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizkids.com privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524171103id_/http%3A//wizkids.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wizkids
 
@@ -10,9 +10,9 @@ By using the Site and by submitting information on this Site, you agree to the p
 
 ### 1\. Information about Cookies
 
-Some features and advertisements on the Site may contain “cookies” or similar preference-tracking technologies. A cookie is a small data file stored by your Internet browser, provided that your computer is set to accept cookies. Cookies help improve the user experience by identifying and gathering information about a user, their browser and preferences for websites they have already visited. The use of cookies allows us to better understand how our users interact with the Site so we can work to improve your user experience.
+Some features and advertisements on the Site may contain "cookies" or similar preference-tracking technologies. A cookie is a small data file stored by your Internet browser, provided that your computer is set to accept cookies. Cookies help improve the user experience by identifying and gathering information about a user, their browser and preferences for websites they have already visited. The use of cookies allows us to better understand how our users interact with the Site so we can work to improve your user experience.
 
-Most modern Internet browsers allow you to change your settings to prevent the storage of new cookies, receive warnings prior to their storage, or to delete cookies from your computer altogether. Please review your browser’s instructions for more information, or visit http://www.cookiecentral.com/faq. Please be aware that if you choose to disable cookies, some portions of the Site may cease functioning properly.
+Most modern Internet browsers allow you to change your settings to prevent the storage of new cookies, receive warnings prior to their storage, or to delete cookies from your computer altogether. Please review your browser's instructions for more information, or visit http://www.cookiecentral.com/faq. Please be aware that if you choose to disable cookies, some portions of the Site may cease functioning properly.
 
 ### 2\. Third-Party Providers
 
@@ -34,7 +34,7 @@ Your use of the Site will be anonymous unless you provide us with personally ide
 
 We are committed to maintaining and protecting your privacy and is committed to protecting personally identifiable information that you provide in connection with your use of the Site.
 
-In order to use certain features on the Site, including, without limitation, user comments, forums, instant messaging, e-mail, or social networking functions, if any, you may need to register and create a user account (“User Account”). During the registration process, you may be asked to provide certain personally identifiable information and other information about yourself, such as your full name, contact information and date of birth. It is your responsibility to maintain and update the information in your User Account with current, complete and accurate information.
+In order to use certain features on the Site, including, without limitation, user comments, forums, instant messaging, e-mail, or social networking functions, if any, you may need to register and create a user account ("User Account"). During the registration process, you may be asked to provide certain personally identifiable information and other information about yourself, such as your full name, contact information and date of birth. It is your responsibility to maintain and update the information in your User Account with current, complete and accurate information.
 
 Once you give us your personal information, you are no longer anonymous to us. By providing us with personal information, you consent to our collection and storage of your information.
 
@@ -44,11 +44,11 @@ Your use of the Site and your provision of any personally identifiable informati
 
 ### 6\. Children and Privacy
 
-This Site is NOT directed towards children under the age of 13. We recognizes the importance of maintaining the privacy of children, especially those under the age of 13. We are committed to complying with all applicable laws and regulations regarding children, including the Children’s Online Privacy Protection Act (“COPPA”), 15 U.S.C. § 6501, et seq.
+This Site is NOT directed towards children under the age of 13. We recognizes the importance of maintaining the privacy of children, especially those under the age of 13. We are committed to complying with all applicable laws and regulations regarding children, including the Children's Online Privacy Protection Act ("COPPA"), 15 U.S.C. § 6501, et seq.
 
 Except in limited and permitted circumstances allowed by COPPA, we do not and will not knowingly request, collect, store, maintain, or share any personally identifiable information of children under the age of 13, without first obtaining the consent of a legal guardian. In those limited instances, we will only collect reasonably necessary information, and we will not share with third parties any personally identifiable information of a child under the age of 13 without the explicit consent of a legal guardian, or as permitted by COPPA or other applicable law.
 
-You may revoke your consent and request the removal of your child’s information at any time. If you are the legal guardian of a child under the age of 13 and discover that your child has submitted their personally identifiable information without securing your consent, we will use commercially reasonable efforts to remove this information. If at any point you wish to review, amend, or request the removal of your child’s information, please send an e-mail to alexism[at]necaonline[dot]com, and provide the name and account information for your child’s user account.
+You may revoke your consent and request the removal of your child's information at any time. If you are the legal guardian of a child under the age of 13 and discover that your child has submitted their personally identifiable information without securing your consent, we will use commercially reasonable efforts to remove this information. If at any point you wish to review, amend, or request the removal of your child's information, please send an e-mail to alexism[at]necaonline[dot]com, and provide the name and account information for your child's user account.
 
 ### 7\. How We Use Your Information
 
