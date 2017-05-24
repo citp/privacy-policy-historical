@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esea.net privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211005655id_/https%3A//play.esea.net/index.php%3Fs%3Dcontent%26d%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esea.net privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524042055id_/https%3A//play.esea.net/index.php%3Fs%3Dcontent%26d%3Dprivacy_policy) for the most accurate reproduction.*
 
 # ESEA - ESEA Privacy Policy
 
