@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eeslindia.org privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612082542id_/http%3A//eeslindia.org/User_Panel/UserView.aspx%3FTypeID%3D1045) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eeslindia.org privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524230633id_/http%3A//www.eeslindia.org/User_Panel/UserView.aspx%3FTypeID%3D1045) for the most accurate reproduction.*
 
-# Energy Efficiency Services Limited
+# Energy Efficiency Services Limited (A Joint Venture Company of PSUs of Ministry of Power, Govt. of India)
 
 EESC portal does not automatically capture any specific personal information from you,(like name, phone number or e-mail address),that allows us to identify you individually.  
 if the EESC portal requests you to provide personal information, you will be informed for the particular purposes for which the information is gathered and adequate security measures will be taken to protect your personal information.
