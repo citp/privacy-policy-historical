@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fruitshootusa.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526104112id_/http%3A//www.fruitshoot.com/en/united-states/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fruitshootusa.com privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524222221id_/http%3A//www.fruitshoot.com/united-states/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
