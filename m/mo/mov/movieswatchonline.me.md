@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movieswatchonline.me privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221113651id_/http%3A//movieswatchonline.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieswatchonline.me privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524042311id_/http%3A//movieswatchonline.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Full Movies Watch Online Free Movies Watch Online
 
