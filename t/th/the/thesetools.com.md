@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesetools.com privacy policy that was archived on 2016-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160830120837id_/http%3A//www.thesetools.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesetools.com privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524085531id_/http%3A//www.thesetools.com/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Toolsite
 
