@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 6dollarapps.com privacy policy that was archived on 2016-11-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161105223846id_/http%3A//6dollarapps.com/en/Privacy-Policy-i3.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 6dollarapps.com privacy policy that was archived on 2017-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170524195434id_/http%3A//6dollarapps.com/en/Privacy-Policy-i3.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en"><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -66,7 +66,7 @@
     <div class="row">
       <div class="col-sm-4">
         <div id="logo">
-                    <a href="http://6dollarapps.com/en"><img src="http://6dollarapps.com/image/catalog/Untitled-2.png" title="6DollarApps.com" alt="6DollarApps.com" class="img-responsive"></a>
+                    <a href="http://6dollarapps.com/en"><img src="http://6dollarapps.com/image/catalog/Untitled-3.png" title="6DollarApps.com" alt="6DollarApps.com" class="img-responsive"></a>
                   </div>
       </div>
       <div class="col-sm-5"><div id="search" class="input-group">
@@ -94,19 +94,19 @@
     </div>
     <div class="collapse navbar-collapse navbar-ex1-collapse">
       <ul class="nav navbar-nav">
-                        <li class="dropdown"><a href="http://6dollarapps.com/en/Mobile-App-Templates-c59.html" class="dropdown-toggle" data-toggle="dropdown">Mobile Apps Project Files</a>
+                        <li class="dropdown"><a href="http://6dollarapps.com/en/Mobile-App-Templates-c59.html" class="dropdown-toggle" data-toggle="dropdown">Android App Templates</a>
           <div class="dropdown-menu">
             <div class="dropdown-inner">
                             <ul class="list-unstyled">
-                                <li><a href="http://6dollarapps.com/en/Mobile-App-Templates/Appy-Builder-Templates-c59c65.html">Appybuilder Apps Project Files</a></li>
-                                <li><a href="http://6dollarapps.com/en/Mobile-App-Templates/App-Inventor-Templates-c59c66.html">App Inventor Apps Project Files</a></li>
+                                <li><a href="http://6dollarapps.com/en/Mobile-App-Templates/Appy-Builder-Templates-c59c65.html">Apps Made using Appy Builder</a></li>
+                                <li><a href="http://6dollarapps.com/en/Mobile-App-Templates/App-Inventor-Templates-c59c66.html">Apps Made Using App Inventor 2</a></li>
                               </ul>
                           </div>
-            <a href="http://6dollarapps.com/en/Mobile-App-Templates-c59.html" class="see-all">Show All Mobile Apps Project Files</a> </div>
+            <a href="http://6dollarapps.com/en/Mobile-App-Templates-c59.html" class="see-all">Show All Android App Templates</a> </div>
         </li>
-                                <li><a href="http://6dollarapps.com/en/Mobile-Apps-c63.html">Mobile Apps Ownership for Sale</a></li>
                                 <li><a href="http://6dollarapps.com/en/Services-c70.html">Services</a></li>
                                 <li><a href="http://6dollarapps.com/en/About-Us-c64.html">About Us</a></li>
+                                <li><a href="http://6dollarapps.com/en/eBooks-c78.html">eBooks</a></li>
                       </ul>
     </div>
   </nav>
@@ -128,7 +128,6 @@
         <h5>Information</h5>
         <ul class="list-unstyled">
                     <li><a href="http://6dollarapps.com/en/About-Us-i4.html">About Us</a></li>
-                    <li><a href="http://6dollarapps.com/en/Delivery-Information-i6.html">Delivery Information</a></li>
                     <li><a href="http://6dollarapps.com/en/Privacy-Policy-i3.html">Privacy Policy</a></li>
                     <li><a href="http://6dollarapps.com/en/Terms-and-Conditions-i5.html">Terms &amp; Conditions</a></li>
                   </ul>
@@ -161,7 +160,7 @@
       </div>
     </div>
     <hr>
-    <p>Powered By <a href="http://www.opencart.com">OpenCart</a><br> 6DollarApps.com © 2016</p>
+    <p>Powered By <a href="http://www.opencart.com">OpenCart</a><br> 6DollarApps.com © 2017</p>
   </div>
 </footer>
 
@@ -171,5 +170,6 @@ Please donate via PayPal to donate@opencart.com
 //-->
 
 <!-- Theme created by Welford Media for OpenCart 2.0 www.welfordmedia.co.uk -->
+<script> function showForm(data){ $.ajax({ url: 'index.php?route=product/fastorder/getForm', type: 'post', data: {product_name: data['product_name'], price: data['price'] ,product_id: data['product_id'], product_link: data['product_link']}, beforeSend: function() { }, complete: function() { }, success: function(result) { $('#fastorder-form-container'+data['product_id']).html(result); }, error: function(xhr, ajaxOptions, thrownError) { alert(thrownError + "\r\n" + xhr.statusText + "\r\n" + xhr.responseText); } }); }; </script>
 
 </body></html>
