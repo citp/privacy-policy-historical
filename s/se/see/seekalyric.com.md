@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekalyric.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101010703id_/http%3A//www.seekalyric.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekalyric.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525004559id_/http%3A//www.seekalyric.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at SeekaLyric.com
 
