@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the shoutmix.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119073521id_/http%3A//www.shoutmix.com/v3/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutmix.com privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524091415id_/http%3A//www.shoutmix.com/v3/privacy.php) for the most accurate reproduction.*
 
 # ShoutMix - Privacy Policy
+
+**IMPORTANT ANNOUNCEMENT  
+ShoutMix Web Services will cease all its operations permanently on May 31, 2017.  
+ShoutMix has stayed in service for as long as possible but the service has finally come to an end.  
+The platform and most of the software involved have reached their end of life.  
+**
 
 ShoutMix Web Services (“ShoutMix”) operates several websites including shoutmix.com, shoutmix.net, and sht.mx. It is ShoutMix’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
