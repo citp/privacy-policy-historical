@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the moshtix.com.au privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226051206id_/http%3A//www.moshtix.com.au/v2/faq/faq-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moshtix.com.au privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524223836id_/http%3A//m.moshtix.com.au/v2/faq/faq-privacy-policy) for the most accurate reproduction.*
 
 # FAQ | moshtix
 
 **The Ticket Group Incorporating moshtix Privacy Policy**
 
-**Last updated: 27 August 2015**
+**Last updated: 16 February 2017** ****
 
-This is the Privacy Policy for The Ticket Group Pty Ltd incorporating moshtix (“TTG”).
+This is the Privacy Policy for The Ticket Group Pty Ltd incorporating moshtix **("TTG")**.
 
-TTG’s primary role is to provide event publishing, registration, ticketing, and related software, goods and services to Australian and New Zealand users of The Ticket Group and Moshtix and The Ticket Group and the Moshtix platforms.
+TTG's primary role is to provide event publishing, registration, ticketing, and related software, goods and services to Australian and New Zealand users of The Ticket Group and moshtix and The Ticket Group and the moshtix platforms.
 
-TTG recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Policy, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. For the purposes of the Privacy Policy, the phrase 'Event Organiser' means the venue operators and/or promoter(s) of a particular event that sell tickets via the TTG platforms.
+TTG recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Policy, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. For the purposes of the Privacy Policy, the phrase 'Event Organiser' means the venue operators, and/or artist(s) and/or promoter(s) of a particular event that sell tickets via the TTG platforms.
 
 We are bound by the Australian Privacy Principles in the Privacy Amendment (Enhancing Privacy Protection) Act 2012 (Cth), and the Information Privacy Principles in Part 2 of the Privacy Act 1993 (New Zealand), in relation to the handling of personal information.
 
@@ -32,17 +32,17 @@ We may share your information with other companies which are related to TTG, wit
 
 If you have registered a TTG account with us, we will hold your contact and billing details. Those details are primarily used to provide you with the ticketing services and related services you have requested and to send you information about the TTG platform, any upgrades that become available, new developments and forthcoming features and to charge you for service fees in relation to tickets (or non-ticket items) you have acquired through the TTG platform. If you have booked or registered for events that are listed by an Event Organiser using TTG and the TTG platform, we keep a record of your booking data to report to the Event Organiser. Your booking data will be provided to the Event Organiser if requested for their records and analysis. Event Organisers shall only be entitled to contact you directly in respect of future events or offers if, at the time of purchase, you agree to receiving such information. We will also keep a record of your billing information to allow you to make quick purchases by simply using an email address and password to login to your TTG account.
 
-You can opt-out of receiving email campaigns from TTG and our partners either during the ticket purchase or registration process or by logging into your profile on the TTG or Moshtix website and unselecting the various options relating to weekly newsletters, special offers, and special offers from partners. All SMS messages are sent with an opportunity to reply and unsubscribe from future broadcasts in your expressed category of interest.
+You can opt-out of receiving email campaigns from TTG and our partners either during the ticket purchase or registration process or by logging into your profile on the TTG or moshtix website and unselecting the various options relating to weekly newsletters, special offers, and special offers from partners. All SMS messages are sent with an opportunity to reply and unsubscribe from future broadcasts in your expressed category of interest.
 
 Our partners include third party businesses we have entered into contracts with for marketing and client relationship purposes.
 
-**Use By Event Organiser**
+**Use By Event Organisers**
 
-If at the time of purchase you agreed to receive information and offers about future events directly from the venue operator and/or promoter(s) of the event, then we may provide your contact details to the Event Organiser for this purpose. Event Organiser may use these details to contact you with information and offers regarding future events and promotions. If you wish to change this choice you can contact us but it may be necessary to contact the Event Organiser directly if your contact details have already been provided to them. Event Organisers will use your personal information in accordance with their own privacy policies. If the Event Organiser contacts you and you wish to unsubscribe from this communication or have any questions regarding their privacy policy you should contact the Event Organiser directly.
+If at the time of purchase you agreed to receive information and offers directly from the venue, promoter and/or artist of that event, then we may provide your contact details to the applicable venue, promoter and/or artist for this purpose. The applicable venue, promoter and/or artist may use these details to contact you with information and offers regarding future events and promotions. If you wish to change this choice you can contact us, but it may be necessary to contact the applicable venue, promoter and/or artist directly if your contact details have already been provided to them. These parties will use your personal information in accordance with their own privacy policies. If the applicable venue, promoter and/or artist contacts you and you wish to unsubscribe from this communication or if you have any questions regarding their privacy policy you should contact them directly.
 
 **Use by Third Parties**
 
-TTG may disclose your information to its service providers and contractors from time to time to help us to provide and market our goods and services to you. Examples of such third party service providers and contractors include call centre operators, software contractors and email/sms broadcast providers. We may also share your information with third parties who provide prizes for competitions or special offers in connection with our goods and services. If we do this we require these parties to protect your information in the same way we do.
+TTG may disclose your information to its service providers and contractors from time to time to help us to provide and market our goods and services to you. Examples of such third party service providers and contractors include call centre operators, software contractors and email/SMS broadcast providers. We may also share your information with third parties who provide prizes for competitions or special offers in connection with our goods and services. If we do this we require these parties to protect your information in the same way we do.
 
 **Use of Aggregate Data**
 
@@ -62,8 +62,10 @@ You have a right to access most personal information we hold about you and if we
 
 You can access or correct your personal information by logging onto your account via:
 
-\- The Ticket Group website at [tickets.theticketgroup.com.au](https://tickets.theticketgroup.com.au/Online/default.asp); or  
-\- The moshtix website at [moshtix.com.au](http://www.moshtix.com.au/v2/);
+  
+\- The Ticket Group website at [www.ttg.com.au](http://www.ttg.com.au/); or
+
+\- The moshtix website at [www.moshtix.com.au](http://www.moshtix.com.au/);
 
 You can also use the link which is at the bottom of every email to log in to your moshtix or TTG account.
 
@@ -105,6 +107,6 @@ Please contact our Privacy Officer to ask for access to your information or if y
 
 TTG Privacy Officer
 
-Email: [help@tixsupport.com](mailto:Privacy@theticketgroup.com.au)
+Email: [help@tixsupport.com](mailto:help@tixsupport.com)
 
 Contact Address: PO Box 1272, Darlinghurst, NSW, 1300.
