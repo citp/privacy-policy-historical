@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indear.in privacy policy that was archived on 2016-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160816003013id_/http%3A//indear.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indear.in privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525011047id_/http%3A//theweddingbrigade.com/inspirations/privacy-policy) for the most accurate reproduction.*
 
 # Indian Wedding Planning Ideas | Indear.in
 
