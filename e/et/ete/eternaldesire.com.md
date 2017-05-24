@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eternaldesire.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123052939id_/http%3A//www.eternaldesire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eternaldesire.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525000625id_/http%3A//www.eternaldesire.com/privacy) for the most accurate reproduction.*
 
 # Eternal Desire - Privacy
 
