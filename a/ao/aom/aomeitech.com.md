@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the aomeitech.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119025405id_/http%3A//www.aomeitech.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aomeitech.com privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524065722id_/http%3A//www.aomeitech.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy – AOMEI Technology
+# AOMEI Software: Data Backup & Restore, Hard Drive Partition, Disk Clone
 
 AOMEI Tech Co., Ltd. is committed to protecting your privacy. We will only collect your personal information for defined purposes. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you. We may share your information only with partners who adhere to AOMEI Tech Co., Ltd.'s commitment to protecting your privacy. AOMEI Tech Co., Ltd. will not sell your personal information in any manner whatsoever.
 
 ## Collection, processing and passing on of personal data
 
 In principle you can visit our website without leaving any personal data. Personal data is only collected if you give it voluntarily, e.g.:
+
+  
+
 
   * When you open a support ticket on our website.
   * When you place an order in our web shop.
