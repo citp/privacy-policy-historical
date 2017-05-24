@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appnexus.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121231220id_/https%3A//www.appnexus.com/en/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appnexus.com privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524162515id_/https%3A//www.appnexus.com/en/company/privacy-policy) for the most accurate reproduction.*
 
 # AppNexus - Corporate Privacy Policy
 
@@ -51,7 +51,10 @@ For choices relating to interest-based advertising on the AppNexus Platform, see
 
 **U.S.-E.U. SAFE HARBOR FRAMEWORK AND U.S.-SWISS SAFE HARBOR FRAMEWORK**
 
-****For personal information we transfer from the European Union to the United States, we adhere to the principles of the U.S.-E.U. Safe Harbor Framework and U.S.-Swiss Safe Harbor Framework, as set forth by the U.S. Department of Commerce ([ **http://export.gov/safeharbor/**](http://export.gov/safeharbor/)). For questions or complaints related to the collection, retention, or use of data under either of the Safe Harbor Frameworks, you can contact us[  **here**](https://web.archive.org/en/company/privacy-form). Unresolved privacy complaints under either of the Safe Harbors will be referred to the American Arbitration Association as an independent dispute resolution mechanism.
+****If we transfer personal information from the European Union to the United States, we comply with the EU-U.S. Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. AppNexus has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view our certification, please visit  <https://www.privacyshield.gov/>.  
+
+
+For any questions or complaints regarding our compliance with either the EU-U.S. Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework, please contact us [here](https://www.appnexus.com/en/company/privacy-form "Follow link"). If AppNexus does not resolve your complaint, you may submit your complaint free of charge to [ICDR/AAA](http://go.adr.org/privacyshield.html "Follow link"), AppNexus' designated independent dispute resolution provider. Under certain conditions specified by the principles of the EU-U.S. and the Swiss - U.S. Privacy Shield Frameworks, respectively, you may also be able to invoke binding arbitration to resolve your complaint. AppNexus is subject to the investigatory and enforcement powers of the FTC. If AppNexus shares EU Data with a third-party service provider that processes the data solely on AppNexus' behalf, then AppNexus will be liable for that third party's processing of EU Data in violation of the Principles, unless AppNexus can prove that it is not responsible for the event giving rise to the damage.
 
 **CHANGES TO THIS POLICY**
 
