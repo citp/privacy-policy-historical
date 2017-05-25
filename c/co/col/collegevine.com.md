@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegevine.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221190046id_/https%3A//www.collegevine.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegevine.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526012822id_/https%3A//www.collegevine.com/legal/privacy) for the most accurate reproduction.*
 
 # CollegeVine Privacy Policy
 
@@ -8,7 +8,7 @@ We at CollegeVine (“Company”,” “we,” “us,” “our”) know that ou
 
 This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our website. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage. **Information you choose to disclose publicly on the website (i.e., information which is viewable to other Website users) will not be considered Personal Information.**
 
-Company does not knowingly collect or solicit Personal Information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for the Website or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to Company or on the Website. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at info@admissionshero.com. 
+Company does not knowingly collect or solicit Personal Information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for the Website or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to Company or on the Website. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at info@collegevine.com. 
 
 ####  What information does CollegeVine collect? 
 
@@ -64,4 +64,4 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 ####  Questions or concerns 
 
-If you have any questions or concerns regarding our privacy policies, please send us a detailed message to info@admissionshero.com. We will make every effort to resolve your concerns. 
+If you have any questions or concerns regarding our privacy policies, please send us a detailed message to info@collegevine.com. We will make every effort to resolve your concerns. 
