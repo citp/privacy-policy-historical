@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the idreampost.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622034244id_/http%3A//www.idreampost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idreampost.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525082428id_/http%3A//www.idreampost.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | idreampost
+# Privacy policy - Telugu Cinema News | Latest Telugu Movie Updates | iDreamPost.com
 
 iDream Movies values your privacy. This Privacy Policy describes the types of personal information we collect, the way it is used and shared, and the choices you can make about our collection, use and disclosure of the information. We ensure to protect the security of the information.
 
