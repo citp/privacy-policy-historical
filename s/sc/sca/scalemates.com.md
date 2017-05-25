@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the scalemates.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221054211id_/https%3A//www.scalemates.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scalemates.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525135243id_/http%3A//www.scalemates.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement - Scalemates, scale modeling database
+# Privacy statement - scale modeling database | stash manager
 
-At scalemates.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by scalemates.com and how it is used.
+At scalemates.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by us and how it is used.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at _scalemates at gmail dot com_.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by e-mail at tim@scalemates.com.
 
 __Last Updated: 7th of June 2013
 
@@ -32,7 +32,7 @@ In case comments have been added the privacy settings can only be changed in a m
 
 ### **Log Files**
 
-Like many other Web sites, scalemates.com makes use of log files stored ou our server. The information inside the log files on our servers includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user�s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, scalemates.com makes use of log files stored ou our server. The information inside the log files on our servers includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google").
 
@@ -40,7 +40,7 @@ Next to the local logfiles stored on our server we use Google Analytics, a web a
 
 scalemates.com has no access to or control over these cookies that are used by the Google analytics service.
 
-Google Analytics's privacy policy may be found here: <http://www.google.com/analytics/en-GB/tos.html> _(see section 8 for privacy related info)_
+Google Analytics's privacy policy may be found here: [www.google.com/analytics/terms/gb.html](https://www.google.com/analytics/terms/gb.html) _(see section 8 for privacy related info)_
 
 ### **Cookies and Web Beacons**
 
@@ -78,10 +78,10 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 ### **Links to Independent Websites**
 
-Articles, forum topics and comments hosted on scalemates.com may link to independently run web sites outside of the http://www.scalemates.com domain. scalemates.com is not responsible for the privacy practices or content of such web sites.
+Articles, forum topics and comments hosted on scalemates.com may link to independently run web sites outside of the https://www.scalemates.com domain. scalemates.com is not responsible for the privacy practices or content of such web sites.
 
 ### More info
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at _scalemates at gmail dot com_ or using the contact form.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by e-mail at tim@scalemates.com or using the contact form.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above address.
