@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amenclinics.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121100031id_/http%3A//www.amenclinics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amenclinics.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525143311id_/http%3A//www.amenclinics.com/privacy-policy) for the most accurate reproduction.*
 
-# Amen Clinic's Privacy Policy - Amen Clinics
+# Amen Clinic's Privacy Policy | Amen Clinics
 
 Amen Clinics, Inc. values the privacy of all of our readers. We take very seriously the need to respect and protect your privacy and the security of any information you may share with us. We’ve built a site that allows you to control how much information you give us and how that information is used. This privacy policy (“Policy”) describes the data collection, use, and disclosure practices of Amen Clinics, Inc. in connection with the Web Site, www.AmenClinics.com (the “Web Site” or “Site”).
 
@@ -49,20 +49,20 @@ Also, in most instances we include certain tracking links that allow us to monit
 
 When you register with AmenClinics.com, we use your Personal Information to create a customized Web experience for you and to improve our services. We may use Personal Information to:
 
-  * Determine your brain type and process your answers to quizzes in ways that provide you with tailored information regarding your health.
-  * Present you with advertising on the Site, based on the health interests you listed in Personal Information.
-  * Improve the content and layout of AmenClinics.com.
-  * Statistically analyze user behavior.
-  * Receive feedback on editorial content.
-  * Develop products, marketing, and promotions internally at AmenClinics.com.
-  * Contact you regarding your account status or changes to our Terms and Conditions, including our Privacy Policy.
-  * Merging your Registration Information with other, optional types of Personal Information that you provide to us voluntarily, such as merging your health-related information from taking the AmenClinics.com tests with your responses to surveys, health assessments, and questionnaires. In other words, we will combine basic Registration Information you provide to us (e-mail address, username, password, age, gender, and zip code) with additional information you provide.
-  * Combining your Personal Information with outside records, such as postal data and other demographic data. We do this to conduct research, improve the quality of our services, and send you printed health and wellness information by postal mail that we believe may be of interest to you.
-  * Participating in market research activities through AmenClinics.com, including health surveys. When you take part in such activities, we may ask you to submit Personal Information such as health and lifestyle data about you and your family. However, our reports and analyses to clients and partners are made only on an anonymous basis, using Anonymous Data.
+    * Determine your brain type and process your answers to quizzes in ways that provide you with tailored information regarding your health.
+    * Present you with advertising on the Site, based on the health interests you listed in Personal Information.
+    * Improve the content and layout of AmenClinics.com.
+    * Statistically analyze user behavior.
+    * Receive feedback on editorial content.
+    * Develop products, marketing, and promotions internally at AmenClinics.com.
+    * Contact you regarding your account status or changes to our Terms and Conditions, including our Privacy Policy.
+    * Merging your Registration Information with other, optional types of Personal Information that you provide to us voluntarily, such as merging your health-related information from taking the AmenClinics.com tests with your responses to surveys, health assessments, and questionnaires. In other words, we will combine basic Registration Information you provide to us (e-mail address, username, password, age, gender, and zip code) with additional information you provide.
+    * Combining your Personal Information with outside records, such as postal data and other demographic data. We do this to conduct research, improve the quality of our services, and send you printed health and wellness information by postal mail that we believe may be of interest to you.
+    * Participating in market research activities through AmenClinics.com, including health surveys. When you take part in such activities, we may ask you to submit Personal Information such as health and lifestyle data about you and your family. However, our reports and analyses to clients and partners are made only on an anonymous basis, using Anonymous Data.
+
+
 
 We do not send or support the delivery of unsolicited bulk e-mail (a.k.a. “spam”).
-
-
 
 * ### Your Choices Regarding Your Personal Data
 
@@ -118,7 +118,7 @@ AmenClinics.com is a wholly owned subsidiary of Amen Clinics. Inc. These are our
 
 AmenClinics.com services and Web Sites are not directed at children. They are designed for individuals who are 20 years of age or older. We will not request or knowingly collect information from an individual under age 20.
 
-If you are a parent and you’re worried about your children’s activities or their privacy on our Site, we encourage you to e-mail us at 
+If you are a parent and you’re worried about your children’s activities or their privacy on our Site, we encourage you to e-mail us at
 
 [privacy@amenclinic.com](mailto:privacy@amenclinic.com).
 
