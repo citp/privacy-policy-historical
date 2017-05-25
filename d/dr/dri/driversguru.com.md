@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driversguru.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122045437id_/http%3A//www.driversguru.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driversguru.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525083547id_/http%3A//www.driversguru.com/privacy.php) for the most accurate reproduction.*
 
 # Official Drivers Download Center - Update PC Drivers Now - DriversGuru
 
