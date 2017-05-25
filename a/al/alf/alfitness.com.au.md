@@ -1,47 +1,387 @@
-> *The following text is extracted and transformed from the alfitness.com.au privacy policy that was archived on 2007-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071102182618id_/http%3A//alfitness.com.au/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfitness.com.au privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525110451id_/http%3A//www.alfitness.com.au/common/advertise/privacy.htm) for the most accurate reproduction.*
 
-# Australian Lifestyle & Fitness - Privacy Policy
+# Privacy Policy
 
-Your Privacy  
-Your privacy is important to Australian Lifestyle & Fitness. By agreeing to this User Agreement, you also consent to the privacy practices detailed in our Privacy Policy, which may be modified as set out in the Privacy Policy. To the extent you are covered by laws requiring your consent for data transfer to Australia, you agree that your data may be transferred to Australia and collected and used accordance with our Privacy Policy. 
+**Introduction**
 
-Passwords and Security  
-You are responsible for maintaining the confidentiality of any password(s) you are given to access the Site, and are fully responsible for all activities that occur under your password(s). You agree to notify Australian Lifestyle & Fitness Pty Ltd immediately of any unauthorized use of your password(s).
+|  | 
 
-Australian Lifestyle & Fitness Pty Ltd is concerned about the security of personal information we have collected from you and has taken reasonable steps to prevent unauthorized access to that information.
+This statement includes: 
 
-Indemnity  
-You agree to indemnify and hold Australian Lifestyle & Fitness directors, agents, and employees, harmless from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of your breach of this Agreement or your violation of any law or the rights of a third party. 
+  * our _collection statement_ , explaining aspects of our collection and use of personal information 
 
-Cookies  
-Like many web sites, we use "cookies," which are stored on your computer and contain small amounts of information sent by www.alfitness.com.au to your computer and read by www.alfitness.com.au when you visit the different pages of our website. For example, cookies allow us to remember your username and password as you navigate around our site. Cookies also allow us to ensure that you may only respond once per day to polls or contests.
+  * our _privacy policy_ , further explaining how we manage personal information. 
 
-Activity Tags  
-Like many web sites, we use "activity tags" (also called "Spotlight tags"). These invisible tags provide information to third parties about the flow of users on our site and other web sites. www.alfitness.com.au also receives reports generated from that information. Information collected through the use of activity tags on our site is never linked to any personally identifiable information you provided to www.alfitness.com.au
 
-How We Use That Information 
+  
+|  |   
+|  | 
 
-We do not rent, sell, transfer or otherwise disclose your personally identifiable information to any third party, except as expressly stated below. 
+**COLLECTION STATEMENT**  
+  
+|  |   
+  
+**Who we are**
 
-As noted, we gather the information discussed above for purposes of providing and improving www.alfitness.com.au for you. For example, we use the information to allocate system resources and communicate with you about updates and new features, among other things. 
+|  | 
 
-As described above, we also aggregate information supplied by users during registration and information about their use of www.alfitness.com.au to maintain our services and describe our user base to potential partners, investors and advertisers. In providing this information, however, we do not reveal any personally identifiable information, only supply summary data about our community of users. 
+Dark Blue Sea Pty Ltd ABN 47 091 509 796 
 
-There are some limited circumstances in which we may need to disclose personally identifiable information about you, and we want you to know about them. 
+Fabulous.com Pty Ltd ABN 64 094 218 443 
 
-We may employ other companies to perform functions on our behalf, such as fulfilling orders, delivering packages, providing customer service, sending mail, processing credit card payments, holding live chats, hosting message boards or other functions necessary for us to provide services to you. We may need to share your personally identifiable information with these companies. However, we will provide them with only the information necessary to perform their functions, and will not allow them to use that information for any other purposes. 
+Fabulous Parking Pty Ltd ABN 16 094 225 091 
 
-In the interest of enhancing our service, we form partnerships with other web-based services. Some of these partnerships include the sharing of some of your personal information with our partners in order to extend these services to you. We require that our partners respect your privacy and not disclose your information to other organizations without your consent, but beyond that, our partners' use of your information is governed by their privacy policies. You will be given the opportunity to opt out of joining any of our partner services at the time of registration. 
+Roar.com Pty Ltd ABN 99 094 225 064 
 
-We may reveal user information if we believe that user is harming or interfering with other www.alfitness.com.au users, anyone else, or violating (either intentionally or unintentionally) our User Agreement, or infringing any of www.alfitness.com.au's rights, or trespassing on, damaging, or abusing any of www.alfitness.com.au's property. 
+Pageseeker.com Pty Ltd ABN 45 090 513 849 
 
-Australian Lifestyle & Fitness Pty Ltd will reveal information, including personally identifiable information, to the extent it believes it is required to do so by law. If we are asked by subpoena or other legal means to disclose any of your personally identifiable information we will, if permitted by law, attempt to notify you via the e-mail address you supplied during registration at least ten days before we respond to the request. 
+Darkblue.com Pty Ltd ABN 14 094 225 082 
 
-Australian Lifestyle & Fitness Pty Ltd may transfer any information, including any personally identifiable information, in connection with a sale of all or most of the assets of the company. 
+Yexa.com Pty Ltd ABN 12 094 225 073 
 
-Data Security  
-Your www.alfitness.com.au account is password protected so that only you may use it. We recommend that you do not divulge your password to anyone and www.alfitness.com.au will never ask for your password by phone or e-mail. Also remember to log out from www.alfitness.com.au and close your browser window when you have finished your work to ensure that others cannot access your personal information and correspondence. 
+Whois Privacy Services Pty Ltd ABN 65 133 058 741 
 
-Australian Lifestyle & Fitness Pty Ltd employees and contractors are only given access to member data on a password-protected basis. It is our employment policy that this information is to be treated with the utmost confidentiality, and any misuse of this information is grounds for disciplinary action, including termination. 
+('the DBS Group', 'we' or 'our')   
+  
+|  |   
+  
+**Our contact details**
 
-While Australian Lifestyle & Fitness Pty Ltd takes reasonable steps to secure your personal information, no system is fault proof. If Australian Lifestyle & Fitness Pty Ltd security systems are breached we may attempt to notify you electronically. By using this web site or providing personal information to us you agree that we can notify you electronically. Australian Lifestyle & Fitness Pty Ltd may post a notice on our web site if a security breach occurs. If this happens, you will need a web browser enabling you to view the www.alfitness.com.au web site. www.alfitness.com.au may also send an email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
+|  | 
+
+  * Email: [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com)
+
+
+  
+|  |   
+  
+**Collection from third party sources**
+
+|  | 
+
+We may collect personal information from someone other than you, and you may not be aware of the collection, when it is not reasonable or practicable to collect it from you, and it is available from: 
+
+  * publicly available sources like phone books 
+
+  * other companies in our group that you may have dealt with 
+
+  * third parties like our business partners, your authorised representative/s 
+
+  * information brokers 
+
+  * fraud checking agencies 
+
+  * our affiliates, resellers, contractors and other representatives that you may deal with 
+
+  * our websites and how you use them (through the use of cookies) 
+
+  * various parties listed under _Disclosing personal information_ in our Privacy Policy. 
+
+
+  
+|  |   
+  
+**Collection under law**
+
+|  | 
+
+We may be required to collect personal information in order to comply with the law.   
+  
+|  |   
+  
+**Why we collect and hold personal information**
+
+|  | 
+
+We collect and hold personal information because: 
+
+  * we may need to use it to operate our business 
+
+  * we may need to provide it to other parties in connection with our business. 
+
+
+
+
+The uses and disclosures we may make of personal information are detailed in our Privacy Policy.   
+  
+|  |   
+  
+**Unavailability of personal information**
+
+|  | 
+
+If we cannot collect the information we need about you, we may not be able to supply the products or service you want.   
+  
+|  |   
+  
+**Disclosing personal information**
+
+|  | 
+
+We may disclose personal information as reasonably required to contractors and suppliers whose goods and services that we use to operate our business and provide products and support to you, to comply with our contractual obligations with regulatory authorities including publishing personal information in Whois records for domain names, and to other parties detailed in our Privacy Policy. 
+
+Some of these parties may be based overseas eg America.  
+  
+|  |   
+  
+**Access and correction**
+
+|  | 
+
+Our privacy policy contains information about how the you can access and seek correction of the personal information about you that we hold.   
+  
+|  |   
+  
+**Complaints**
+
+|  | 
+
+Our privacy policy explains how you can complain about a breach of the Australian Privacy Principles, and how we will deal with such a complaint.   
+  
+|  |   
+|  | 
+
+**PRIVACY POLICY**  
+  
+|  |   
+  
+**Personal information**
+
+|  | 
+
+This refers to information or an opinion about a living person who is identified or reasonably identifiable, whether or not true and whether or not recorded in material form.   
+  
+|  |   
+  
+**Kinds of personal information we collect and hold**
+
+|  | 
+
+Broadly, we may collect and hold: 
+
+  * _personal details_ like name, date of birth, gender, and occupation 
+
+  * _contact details_ like physical, postal, work and email addresses and phone numbers 
+
+  * _financial details_ like credit card numbers and your billing and payment history with us 
+
+  * _service-related details_ like your user name, encrypted password and service usage history, support incidents, data from cookies, enquiries and complaints 
+
+  * _other details_ relating to special situations. 
+
+
+
+
+In any case, we only collect personal information that is reasonably necessary to support our functions and activities. If we cannot collect the information we need about you, we may not be able to supply the products or service you want.   
+  
+|  |   
+  
+**Collecting personal information**
+
+|  | 
+
+Unless it is not reasonable or practicable to do so, and in other cases allowed by law, we will collect personal information about you directly from you (eg when you contact us by phone or online, or apply for domain names or services on our website). 
+
+In other cases, we may collect personal information about you from: 
+
+  * publicly available sources like phone books 
+
+  * other companies in our group that you may have dealt with 
+
+  * third parties like our business partners, your authorised representative/s 
+
+  * information brokers 
+
+  * fraud checking agencies 
+
+  * our affiliates, resellers, contractors and other representatives that you may deal with 
+
+  * our websites and how you use them (through the use of cookies) 
+
+  * various parties listed under _Disclosing personal information_ below. 
+
+
+  
+|  |   
+  
+**Holding personal information**
+
+|  | 
+
+We hold personal information in hard and/or soft copy at our offices and in other facilities that we own or license from third parties, like data centres. We take reasonable steps to keep it secure and to protect it from unauthorised access, use or alteration.   
+  
+|  |   
+  
+**Why we collect and hold personal information**
+
+|  | 
+
+We collect and hold personal information because: 
+
+  * we may need to use it to operate our business 
+
+  * we may need to provide it to other parties in connection with our business. 
+
+
+  
+|  |   
+  
+**Using personal information**
+
+|  | 
+
+We may use personal information: 
+
+  * to identify you 
+
+  * for credit checks 
+
+  * to prevent fraud 
+
+  * to supply products (including goods and/or services) to you 
+
+  * to give you information about us and our products, and product offers 
+
+  * for direct marketing – see _Direct marketing_ for details 
+
+  * to improve our products, our marketing and our website 
+
+  * to answer your enquiries 
+
+  * to give you customer support and service 
+
+  * to better understand your needs and respond to them 
+
+  * to manage and plan our products and business 
+
+  * to charge and bill you for products you use 
+
+  * to collect payment from you or make payment to you 
+
+  * to monitor, manage, test and improve our network and facilities 
+
+  * to comply with various laws or contractual obligations that apply to us 
+
+  * for other purposes related to the operation of our business. 
+
+
+  
+|  |   
+  
+**Disclosing personal information**
+
+|  | 
+
+We may disclose personal information as reasonably required: 
+
+  * to contractors and suppliers who supply or support us in: 
+
+    * market research, sales and marketing 
+
+    * direct marketing – see _Direct marketing_ for details 
+
+    * identity and fraud checking 
+
+    * credit management 
+
+    * service provisioning 
+
+    * installation, maintenance and repairs 
+
+    * helpdesk and enquiries 
+
+    * support and complaint management 
+
+    * communications and mailing 
+
+    * billing, debt recovery and credit management 
+
+    * network and product design and maintenance 
+
+    * corporate strategy 
+
+    * legal and regulatory advice and compliance 
+
+    * accounting and financial planning 
+
+    * risk management 
+
+    * otherwise providing goods and services that we use to operate our business and provide products and support to you 
+
+  * to your authorised representative/s 
+
+  * to identify you as a registrant of a domain name in publicly available Whois record 
+
+  * if you ask us to do so 
+
+  * to our agents, resellers, affiliates and members of our corporate group 
+
+  * to our business partners and wholesale suppliers 
+
+  * to organisations that provide credit or finance to us 
+
+  * to persons who invest in or acquire all or part of our business or company, or are considering doing so. 
+
+
+
+
+Some of these parties may be based overseas eg America.  
+  
+|  |   
+  
+**Direct marketing**
+
+|  | 
+
+We may use and disclose personal information to direct market to you products offered by us, our agents, resellers, affiliates and members of our corporate group (including each member of the DBS Group), and our business partners, where we think the offers will be of interest to you, using: 
+
+  * post 
+
+  * email 
+
+  * electronic messaging 
+
+  * social media 
+
+  * targeted web content 
+
+  * other direct marketing channels. 
+
+
+
+
+Direct marketing may continue until you opt-out by calling the number in _Contacting us_ even if you are no longer our customer.   
+  
+|  |   
+  
+**Accessing and correcting personal information**
+
+|  | 
+
+Please contact us for these purposes using the details in _Contacting us_ below. We shall process and respond to your request in accordance with Australian Privacy Principle 12. There is no charge for making a request but a reasonable administrative charge, on a cost recovery basis, may be payable before we agree to provide access.   
+  
+|  |   
+  
+**Complaints**
+
+|  | 
+
+If you wish to complain about a breach of the Australian Privacy Principles, please contact us using the details in _Contacting us_ below. We shall: 
+
+  * acknowledge your complaint within a reasonable time 
+
+  * give you an estimated first response time 
+
+  * allocate your complaint to a suitably senior staff member 
+
+  * process and respond to your complaint as soon as we reasonably can. 
+
+
+  
+|  |   
+  
+**Contacting us**
+
+|  | 
+
+Questions, requests and complaints regarding our Privacy Statement or our compliance with privacy laws should be directed to us by email to [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com), or by post The Privacy Officer, The DBS Group, Level 2, 100 Harris Street, Pyrmont, NSW 2009. 
