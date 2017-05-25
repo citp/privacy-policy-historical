@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promodirect.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123220238id_/http%3A//www.promodirect.com/info/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promodirect.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525104001id_/http%3A//www.promodirect.com/info/privacy.jsp) for the most accurate reproduction.*
 
 # Promo Direct Privacy Policy
 
@@ -10,7 +10,7 @@ Promo Direct has created this privacy statement to demonstrate our firm commitme
 
 ## What Happens to the information we collect from you?
 
-All information you provide will be kept confidential and is used to support our business relationship and the service we provide. This website uses an order inquiry form to allow you to request information, products and services. We collect your contact information (such as your e-mail address or your company information) to allow us to send samples, orders, information about our products, and promotional materials. Your contact information is also used to get in touch with you when necessary. You may opt-out of receiving future communication. Just send an email to info@promodirect.com to make this request. 
+All information you provide will be kept confidential and is used to support our business relationship and the service we provide. This website uses an order inquiry form to allow you to request information, products and services. We collect your contact information (such as your e-mail address or your company information) to allow us to send samples, orders, information about our products, and promotional materials. Your contact information is also used to get in touch with you when necessary. You may opt-out of receiving future communication. Just send an email to [info@promodirect.com](mailto:info@promodirect.com) to make this request. 
 
 ## Personal Information Disclosure
 
