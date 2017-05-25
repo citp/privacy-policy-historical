@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegames.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120170131id_/http%3A//freegames.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegames.org privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525024556id_/http%3A//freegames.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FreeGames.org
 
@@ -31,3 +31,10 @@ On some pages FreeGames.org may link to external websites. If you follow a link 
 ## Questions/Complaints
 
 If you have any questions or complaints about our privacy policy please contact us using [this form](http://freegames.org/blog/contact-us/).
+
+[
+
+  
+We need you! I'm working with the Psychology boffins at Bangor University to better understand why people enjoy casual games. Click here to complete a short and fun survey and you could win a Kindle!
+
+](http://www.surveygizmo.eu/s3/90030332/Bangor-gaming-survey?refer=freegames.org)
