@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pornpassforall.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026183044id_/http%3A//www.21sextury.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornpassforall.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525212215id_/http%3A//tour1.21sextury.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# 21sextury
 
 **Last revised on 22 July 2015**
 
@@ -61,4 +61,4 @@ This policy does not apply to any linked websites to 21sextury. Please consult t
 
 By using/navigating 21sextury Users acknowledge they have read, understood and agree to be bound by this privacy policy and the terms and conditions of 21sextury. Headings are for ease of reference only.
 
-Feel free to contact Us at Gamma Entertainment, 3300 Boulevard Cote Vertu, Suite 406, Montreal, QC, H4R 2B7, Canada. [**support@famesupport.com**](mailto:support@famesupport.com) , online chat or by telephone at 1-877- 711-7334. For any questions regarding credit card or other billing matters if your billing descriptor is *INTERACTIV, please feel free to contact Epoch (https://epoch.com/billing_support) or Vendo if your billing descriptor is VendoStore*Chargepay or VendoStore*Vendo, at https://secure.vend-o.com/customers/support/billing-questions. For any other credit card or billing matters please contact Chargepay BV at http://www.chargepay.net.
+Feel free to contact Us at Gamma Entertainment, 3300 Boulevard Cote Vertu, Suite 406, Montreal, QC, H4R 2B7, Canada. [**support@famesupport.com**](mailto:support@famesupport.com) , online chat or by telephone at 1-877-711-7334. Any questions regarding credit card or other billing matters, please feel free to contact Chargepay B.V. at chargepay.net 
