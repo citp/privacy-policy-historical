@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hannygamez.net privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527001101id_/http%3A//www.hannygamez.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hannygamez.net privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525105206id_/http%3A//www.hannygamez.net/p/privacy-policy.html) for the most accurate reproduction.*
 
 # HannyGamez: Download Games & Play Now! > A Free Game Daily!
 
