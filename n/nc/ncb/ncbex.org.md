@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncbex.org privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123101836id_/http%3A//www.ncbex.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncbex.org privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525102051id_/http%3A//www.ncbex.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NCBE
 
