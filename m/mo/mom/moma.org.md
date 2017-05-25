@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moma.org privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111025059id_/http%3A//www.moma.org/about/about_site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moma.org privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525174556id_/https%3A//www.moma.org/about/about_site/privacy) for the most accurate reproduction.*
 
 # MoMA | Privacy & Security
 
@@ -16,10 +16,10 @@
     * [Klaus Biesenbach](/about/senior_staff/klaus_biesenbach)
     * [Todd Bishop](/about/senior_staff/todd_bishop)
     * [Christophe Cherix](/about/senior_staff/christophe_cherix)
-    * [James L. Coddington](/about/senior_staff/james_coddington)
     * [Stuart Comer](/about/senior_staff/stuart_comer)
     * [James Gara](/about/senior_staff/james_gara)
     * [Kathy Halbreich](/about/senior_staff/kathy_halbreich)
+    * [Kate Lewis](/about/senior_staff/kate_lewis)
     * [Peter Reed](/about/senior_staff/peter_reed)
     * [Rajendra Roy](/about/senior_staff/rajendra_roy)
     * [Martino Stierli](/about/senior_staff/martino_stierli)
@@ -31,6 +31,10 @@
   * [Jobs](/about/jobs)
   * [Internships](/about/internships)
   * [Volunteering](/about/volunteering)
+  * [Neighborhood](/about/neighborhood)+
+    * [Benefits and Qualifications](/about/neighborhood/benefits)
+    * [Staff](/about/neighborhood/staff)
+    * [Archives](/about/neighborhood/archives)
   * [About MoMA FAQ](/about/faq)
   * [About This Site](/about/about_site)+
     * [Privacy & Security](/about/about_site/privacy)
