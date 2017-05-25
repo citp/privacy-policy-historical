@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akersolutions.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226122918id_/http%3A//akersolutions.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akersolutions.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525120750id_/http%3A//akersolutions.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement for Aker Solutions | Aker Solutions
 
@@ -14,7 +14,11 @@ Visitors to this website who order products or services or submit other informat
 
 ## Use of personal data
 
-We will use personal data for the purpose it is collected for, and we will keep the data only for as long as it is necessary for that purpose. Access to personal data is strictly limited to personnel of Aker Solutions and its controlled subsidiaries and affiliates who have appropriate authorization and a clear business need for that data. The Aker Solutions website uses cookies to ensure you get the best user experience. Cookies are small text files that are placed on your device to track usage patterns and record preferences. Our cookies do not contain information that can identify persons. If you continue browsing, we assume you accept the use of cookies.
+We will use personal data for the purpose it is collected for, and we will keep the data only for as long as it is necessary for that purpose. Access to personal data is strictly limited to personnel of Aker Solutions and its controlled subsidiaries and affiliates who have appropriate authorization and a clear business need for that data.
+
+## Cookies
+
+The Aker Solutions website uses cookies to ensure you get the best user experience. Cookies are small text files that are placed on your device to track usage patterns and record preferences. Our cookies do not contain information that can identify persons. If you continue browsing, we assume you accept the use of cookies.
 
 ## Sharing of personal data
 
