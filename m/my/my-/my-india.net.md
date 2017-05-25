@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the my-india.net privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111111605id_/http%3A//www.my-india.net/docs/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-india.net privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525214916id_/http%3A//my-india.net/docs/privacy.shtml) for the most accurate reproduction.*
 
 # My-India.net: Privacy Policy
 
 ## The below privacy policy applies to all the MINET sites. 
 
-This Privacy Policy applies exclusively to information practices related to our websites listed [here](https://web.archive.org/web/20161111111605id_/http%3A//www.my-india.net/docs/index.shtml). Although this website contains links to other websites, please be aware that we are not responsible for the privacy practices of those, or any other sites. If you follow a link to another website you should carefully read their privacy policy. 
+This Privacy Policy applies exclusively to information practices related to our websites listed [here](https://web.archive.org/web/20170525214916id_/http%3A//my-india.net/docs/index.shtml). Although this website contains links to other websites, please be aware that we are not responsible for the privacy practices of those, or any other sites. If you follow a link to another website you should carefully read their privacy policy. 
 
 ## Email address or any other Personal Information Collected on this Website
 
@@ -40,4 +40,4 @@ As  we evolve, this Privacy Policy may be revised to reflect those changes, whe
 
 ## Questions?
 
-Please [contact us](https://web.archive.org/web/20161111111605id_/http%3A//www.my-india.net/docs/contact.shtml) with any questions about this website Privacy Policy. 
+Please [contact us](https://web.archive.org/web/20170525214916id_/http%3A//my-india.net/docs/contact.shtml) with any questions about this website Privacy Policy. 
