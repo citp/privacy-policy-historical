@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevver.com privacy policy that was archived on 2016-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160920142945id_/http%3A//www.clevver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevver.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525221429id_/http%3A//www.clevver.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Clevver
 
