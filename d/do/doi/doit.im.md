@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doit.im privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119020016id_/http%3A//doit.im/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doit.im privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525205420id_/http%3A//doit.im/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Best Online GTD Service for Getting Things Done, Always Online, Always With You!
 
