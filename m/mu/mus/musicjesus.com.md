@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicjesus.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108055215id_/http%3A//www.musicjesus.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicjesus.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525125638id_/http%3A//www.musicjesus.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
