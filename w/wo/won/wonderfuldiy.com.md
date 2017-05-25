@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wonderfuldiy.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528081717id_/http%3A//wonderfuldiy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonderfuldiy.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525024208id_/http%3A//wonderfuldiy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WonderfulDIY
 
