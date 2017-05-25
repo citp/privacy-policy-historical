@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makemoneyadultcontent.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203073431id_/http%3A//makemoneyadultcontent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemoneyadultcontent.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526001036id_/http%3A//www.makemoneyadultcontent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Make Money Adult content
 
@@ -33,11 +33,9 @@ Google Analytics employs cookies to define user sessions, which allows for the c
 If you want, you can opt out by turning off cookies in the preferences settings in your web browser.
 
   
-You can always reach me at [Contact US](http://makemoneyadultcontent.com/contact-us/) or through **contact@makemoneyadultcontent.com** for any queries. I will be quick to reply. 
+Cheers,   
 
-Like us on FaceBook: 
 
-Follow us on Twitter: 
-
-  
-
+You can always reach me at [Contact US](http://makemoneyadultcontent.com/contact-us/) or through **contact@makemoneyadultcontent.com** for any queries. I will be quick to reply.   
+Join our FREE Private VIP [Facebook Group](https://www.facebook.com/groups/makemoneyadultcontent/)   
+This single step (takes 5 minutes and baby easy) is helping me make more than $10,000/month. Thank god i did this 7 years back, cant imagine my life without it. Check it out for free: [Click Here](http://www.makemoneyadultcontent.com/hostgator-review-best-web-hosting-adult-porn-websites/)
