@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afreecodec.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122154454id_/http%3A//www.afreecodec.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afreecodec.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525143347id_/http%3A//www.afreecodec.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - afreeCodec.com
 
