@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theozone.net privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127060347id_/http%3A//theozone.net/Ohio-State/All-Sports/All-Seasons/Ozone-Links/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theozone.net privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525232341id_/http%3A//www.theozone.net/Ohio-State/All-Sports/All-Seasons/Ozone-Links/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
