@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 99acres.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231157id_/http%3A//www.99acres.com/load/Company/privacy%3FlstAcn%3DCP_R%26lstAcnId%3D20%26src%3DFTR) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99acres.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526004311id_/http%3A//www.99acres.com/load/Company/privacy%3FlstAcn%3DCP_R%26lstAcnId%3D1%26src%3DFTR) for the most accurate reproduction.*
 
 # Privacy policy is subject to the terms of the Site Policy (User agreement) of 99acres.
 
