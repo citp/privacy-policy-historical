@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drewrynewsnetwork.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019021756id_/http%3A//drewrynewsnetwork.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drewrynewsnetwork.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525065237id_/http%3A//drewrynewsnetwork.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - DrewryNewsNetwork.com
 
