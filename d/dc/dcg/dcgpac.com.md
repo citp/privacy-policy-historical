@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcgpac.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224103051id_/http%3A//www.dcgpac.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcgpac.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526112453id_/http%3A//www.dcgpac.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DCGpac
 
@@ -10,7 +10,7 @@ When you purchase products from DCG Tech India or register with us for any servi
 
 We are also bound to cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer. We may share non-personal, non-individual statistical or demographic information in aggregate form with our marketing partners, advertisers or other third-parties for research and advertising purposes. In other words, we will not tell our marketing partners that you purchased a specific product, but we may tell them how many customers purchased that product.
 
- ****How we many use information.****
+****How we many use information.****
 
 General: We use your Collected Information to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our Site's content, layout and service specifically for you. We may use your Collected Information to service your Account with us, including but not limited to investigating problems, resolving disputes and enforcing agreements with us. We do not sell, rent, trade or exchange any personally-identifying information of our Members. We may share certain aggregate information based on analysis of Collected Information with our partners, customers, advertisers or potential Members. We may use your Collected Information to execute marketing campaigns, promotions or advertising messages on behalf of third parties; however, in these circumstances, your Collected Information will not be disclosed to such third parties unless you respond to the marketing, promotion or advertising message.
 
@@ -18,7 +18,7 @@ Registration Information: We may use your Registration Information to provide se
 
 Statistical Information: We use Statistical Information to help diagnose problems with and maintain our computer servers, to manage our Site, and to enhance our Site and services based on the usage pattern data we receive. We may generate reports and analysis based on the Statistical Information for internal analysis, monitoring and marketing decisions. We may provide Statistical Information to third parties, but when we do so, we do not provide personally-identifying information without your permission.
 
- ** **How do we use "cookies"?****
+****How do we use "cookies"?****
 
 "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do enable us to identify you in case you have visited us earlier and to store items in your shopping cart between visits. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without a cookie, you can still use most of the features in our store, including placing items in your shopping cart and purchasing them.
 
@@ -34,14 +34,14 @@ As a Registered Member, your Registration Information and Publishing Information
 
 No data transmission over the Internet or any wireless network can be guaranteed to be perfectly secured. As a result, while we try to protect your information, no web site or company, including ourselves, can absolutely ensure or guarantee the security of any information you transmit to us and you do so at your own risk.
 
- ** **Changes to Privacy Policy****
+****Changes to Privacy Policy****
 
 Any changes to this Privacy Policy will be communicated through our posting an amended and restated Privacy Policy on our Site. Our posting the amended and restated Privacy Policy will make such new Privacy Policy immediately effective. You agree that all Collected Information (whether or not collected prior to or after the new policy became effective) will be governed by the newest Privacy Policy then in effect. If you do not agree to the new changes in our Privacy Policy, you should contact DCG Tech India in writing (seema@dcgpac.com) and specifically request that DCG Tech India return and/or destroy all copies of all or part of your Collected Information in DCG Tech India’s possession. This Privacy Policy was last amended on Jan 2012.
 
- ** **Correcting Your Information****
+****Correcting Your Information****
 
 You can access, view and edit your Registration Information and Publishing Information (if any) through your Account with DCG Tech India.
 
- ** **Your feedback****
+****Your feedback****
 
 DCG Tech India welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to [sahil@dcgpac.com](mailto:seema@dcgpac.com)
