@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the profootballfocus.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421165855id_/https%3A//www.profootballfocus.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profootballfocus.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526232252id_/https%3A//www.profootballfocus.com/about/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | ProFootballFocus.com
+# Privacy Statement | Pro Football Focus
 
 This privacy policy sets out how ProFootballFocus.com uses and protects any information that you give us when you use this website.
 
