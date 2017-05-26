@@ -1,100 +1,135 @@
-> *The following text is extracted and transformed from the imf9.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imf9.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526233106id_/https%3A//www.crazydomains.com/privacy/terms-privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - Terms of Service | Crazydomains.com
 
-**Go Daddy Respects Your Privacy**
+This privacy policy applies to www.crazydomains.com owned and operated by DreamScape Networks FZ-LLC ("DreamScape", "Us", or "We"). This privacy policy describes how DreamScape Networks FZ-LLC collects and uses the personal information you provide on our website: www.crazydomains.com, www.crazydomains.com.au, www.crazydomains.co.nz, www.crazydomains.co.uk, www.crazydomains.in, www.crazydomains.ae, www.crazydomains.hk, www.crazydomains.ph, www.crazydomains.my, www.crazydomains.id, www.crazydomains.sg ("website"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+DreamScape Networks FZ, LLC has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+The TRUSTe program covers only information that is collected through this website, and does not cover mobile applications.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+This policy governs the use and disclosure by us of personal information of our users and outlines how users can access that information. It is only applicable on the assumption that:
 
-**Information Collection and Use**
+7.1 Information collection and use
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We collect or maintain the following personal information about our users:
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+  * Name
+  * Address
+  * Telephone Number
+  * Email Address
+  * Username & Password
+  * Credit Card details (if applicable)), including a protected scan/photo of the card
+  * Photo/Official Identification
+  * Business/entity/organisation details and identification
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+This information will be collected with your knowledge and participation. If you choose not to provide this information we may decline to accept your registration. It will not be possible for you to deal with us anonymously. We use this information to fulfill your order, respond to your customer service requests, administer your account, assess the needs of your business to determine suitable products and to protect against fraud and abuse.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+7.2 Tracking technologies
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We use cookies for to remember users' settings and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.
 
-**Security**
+We, and/or our partners, affiliates, or analytics or service providers, may use tracking technologies such as cookies, beacons, tags, and scripts to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies from these companies on an individual or aggregated basis.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+The third parties with whom we partner to provide certain features on our website or to display advertising based on your web browsing activity, use Local Shared Objects (Flash cookies) to store content information and preferences. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
-**Updating Your Information**
+As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+We do link this automatically-collected data to personal information. IP addresses are tied to personal information for the purposes of logging site actions (updating information, buying products, etc) so that in the event of a bug or a dispute, we can review the actions taken that led to the outcome and attempt to reproduce the issues.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+7.3 Behavioural targeting
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+We partner with a third party ad network to either display advertising on our website or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
-      iii.      You may call us at: (480) 505-8800
+7.4 Sensitive information
 
-       iv.      You may fax us at: (480) 505-8844
+We will not collect information revealing your racial or ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership, or details of health, disability or sexual activity or orientation, unless compelled to do so by law.
 
-**Sending Emails**
+The personal information we collect may be used for the following purposes:
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+  * To administer our network;
+  * For billing purposes;
+  * If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the account settings in your members console or you can contact us at [customercare@crazydomains.com](mailto:customercare@crazydomains.com); or
+  * For any other purpose for which you would reasonably expect your personal information to be used.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+7.5 Disclosure of your personal information
 
-**Third Party Service Providers**
+We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Your personal information may be disclosed, and you hereby irrevocably consent to such disclosure, in the following circumstances:
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+  * To our authorised officers and our agents for the purpose of administering our network or for billing or credit collection purposes;
+  * To companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us;
+  * Under compulsion of law, for example if a warrant or court order is received or such as to comply with a subpoena, or similar legal process;
+  * To lessen or prevent a serious and imminent threat to an individual's life or health;
+  * If DreamScape Networks FZ, LLC is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information; or
+  * To you or with your consent,
 
-**Supplementation of Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-**Contests/Surveys**
+Otherwise we will use reasonable endeavours to avoid the disclosure of your personal information, save that aggregated demographic information may be disclosed so long as the information is unable to identify you or any other individual.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+7.6 Accessing your personal information
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+You can contact us to request a copy of your personal information by emailing our Privacy Officer at [customercare@crazydomains.com](mailto:customercare@crazydomains.com), or by contacting us by telephone or postal mail at the contact information listed below. The Privacy Officer shall attend to your request on a confidential basis within fourteen (14) days of the request being received. No fee will be levied for access to this information.
 
-**Tell-A-Friend**
+7.7 Refusal of access
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+Access of your personal information may be refused if:
 
-**What Happens to my Personal Information if I Opt Out?**
+  * Providing access would pose a serious and imminent threat to life or health of a person;
+  * Providing access would create an unreasonable impact on the privacy of others;
+  * The request is frivolous and vexatious; or
+  * Denial of access is authorised or required by law.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-**Transfer of Data Abroad**
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+7.8 Data quality
 
-**Changes in Our Practices**
+We will use all reasonable endeavours to ensure the accuracy and quality of the information collected about you. If your personal information changes, or if you no longer desire our service, you may correct, update, amend, or deactivate your account by making the change on our member information page or by emailing us at [customercare@crazydomains.com](mailto:customercare@crazydomains.com). Alternatively, you can contact us via other avenues specified on our [Contact Us](https://www.crazydomains.com/contact/) page. Should personal information that you know has been collected about you change, it is your responsibility to bring the changes to our attention.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+We will retain your information for as long as your account is active or as needed to provide you services. Deactivation of your account will not delete your personal information from our database entirely We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+7.9 Data security
 
-**Contacting Our Site**
+We will endeavour to keep your personal information as secure as reasonably possible. Without limitation, registration information is not accessible over the Internet, but only from a secure password-protected internal workstation. Our Internet server utilises a modern Linux-based operating system that is maintained with the latest available security patches and updates.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-* * *
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [customercare@crazydomains.com](mailto:customercare@crazydomains.com).
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+7.10 WHOIS
+
+For .ae domain registrations please see .aeDA's WhoIs Data Collection and Display Policy www.aeda.ae which sets out the guidelines on the collection, disclosure and use of WhoIs data.
+
+7.11 Links to 3rd party sites
+
+Our Site includes links to other websites whose privacy practices may differ from those of DreamScape Networks FZ, LLC. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
+
+7.12 Social media widgets
+
+Our website includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our website. These Features may collect your IP address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+7.13 Import contacts
+
+You can import contacts from your email account address book(s) to invite your contacts to join our website. We collect the username and password for the email account(s) from which you wish to import contacts, and we will only use your username(s) and password(s) for the purpose of importing contacts.
+
+7.14 Use of Non-personal information
+
+You acknowledge and agree that any testimonials or feedback you provide to us may be used for training and/or marketing purposes. We reserve the right to use any testimonials or feedback for any purpose at our sole discretion. You acknowledge and agree that any feedback you provide may be shared with third parties via social media and associated programs.
+
+You acknowledge that you relinquish any proprietary rights you may hold over information, data, or opinions that you provide to us by way of a testimonial, complaint, or feedback.
+
+If you wish to update or delete your testimonial or feedback, you can contact us at [customercare@crazydomains.com](mailto:customercare@crazydomains.com).
+
+7.15 Changes to this policy
+
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+7.16 Contact us
+
+If you have questions about this privacy policy, you may contact us at:
