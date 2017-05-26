@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourhrworld.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220064926id_/http%3A//www.yourhrworld.com/formats/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourhrworld.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526094805id_/http%3A//www.yourhrworld.com/formats/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HR Letter Formats
 
@@ -31,9 +31,3 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 ****[Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.](http://www.google.com/privacy/ads/)
-
-#### Search Sample Formats:
-
-  * [ashak bogale](http://www.yourhrworld.com/formats/privacy-policy/ "ashak bogale")
-
-
