@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racinggames.me privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123132432id_/http%3A//racinggames.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racinggames.me privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526092424id_/http%3A//racinggames.me/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Racinggames.me
 
