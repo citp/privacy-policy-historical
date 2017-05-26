@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siliconrepublic.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117212813id_/https%3A//www.siliconrepublic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconrepublic.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526222414id_/https%3A//www.siliconrepublic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Silicon Republic
 
