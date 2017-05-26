@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nonprofitquarterly.org privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125072531id_/https%3A//nonprofitquarterly.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonprofitquarterly.org privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527013400id_/https%3A//nonprofitquarterly.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Non Profit News For Nonprofit Organizations | Nonprofit Quarterly
 
