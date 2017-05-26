@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfbcovers.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119193055id_/http%3A//myfbcovers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfbcovers.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526182630id_/http%3A//myfbcovers.com/privacy.php) for the most accurate reproduction.*
 
 # Facebook Covers, Timeline Covers, Facebook Banners - myFBCovers
 
