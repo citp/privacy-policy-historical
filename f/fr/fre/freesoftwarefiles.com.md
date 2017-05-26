@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freesoftwarefiles.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122164555id_/http%3A//www.freesoftwarefiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesoftwarefiles.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526094956id_/http%3A//www.freesoftwarefiles.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Free Software Files, Freeware software, 2016 Best PC Softwares, Free Software Download
+# Privacy Policy - Free Software Files, Freeware software, 2017 Best PC Softwares, Free Software Download
 
 This Privacy Policy governs the manner in which FreeSoftwaeFiles collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.freesoftwarefiles.com](http://www.freesoftwarefiles.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Free Software Files.
 
@@ -61,5 +61,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[Free Software Files](http://www.freesoftwarefiles.com/)  
-contact@freesoftwarefiles.com
+**freesoftfiles@gmail.com**
