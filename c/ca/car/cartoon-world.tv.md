@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoon-world.tv privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116203827id_/http%3A//www.cartoon-world.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoon-world.tv privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526223816id_/http%3A//www.cartoon-world.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cartoon-World.tv
 
