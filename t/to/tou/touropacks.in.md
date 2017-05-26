@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the touropacks.in privacy policy that was archived on 2016-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160823132326id_/http%3A//www.touropacks.in/privacy-policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touropacks.in privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527002214id_/http%3A//www.touropacks.in/privacy-policies.html) for the most accurate reproduction.*
 
 # TouroPacks - A search engine of all tour packages in India
 
