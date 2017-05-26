@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historyhole.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203103158id_/http%3A//historyhole.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historyhole.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527002213id_/http%3A//historyhole.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - History Hole
 
