@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peakpotentials.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025152719id_/http%3A//newpeaks.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peakpotentials.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526101357id_/http%3A//newpeaks.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - New Peaks
 
@@ -18,15 +18,15 @@ We may disclose Participant and Visitor information to the following third parti
 
 Companies who work on our behalf: We may contract with other companies to perform business support functions on our behalf, which may involve limited access to your personal information. We require these companies to use the information only to provide the contracted services; they are prohibited from transferring the information to another party except as needed to provide those services. Some examples of these business support functions include order fulfillment, survey execution and information systems management. We also may make aggregate non-personal information available to select service providers.
 
-**Subsidiaries and joint ventures:** A subsidiary or a joint venture is an organization in which we own at least a 50% interest. If we share your information with a subsidiary or joint venture partner, we will require that they not transfer your information to another party for marketing purposes or use your information contrary to your expressed choices. If you have indicated that you do not want to receive any marketing information from us, we will not share your information with our subsidiary or joint venture partner for their marketing purposes.
+ **Subsidiaries and joint ventures:** A subsidiary or a joint venture is an organization in which we own at least a 50% interest. If we share your information with a subsidiary or joint venture partner, we will require that they not transfer your information to another party for marketing purposes or use your information contrary to your expressed choices. If you have indicated that you do not want to receive any marketing information from us, we will not share your information with our subsidiary or joint venture partner for their marketing purposes.
 
-**Referring Ambassadors:** If you have been referred to us by an Ambassador, under the terms of our Ambassador Program, we may share information concerning your registration with your referring Ambassador.
+ **Referring Ambassadors:** If you have been referred to us by an Ambassador, under the terms of our Ambassador Program, we may share information concerning your registration with your referring Ambassador.
 
-**Business Transfers:** We reserve the right to transfer your personal information in connection with the sale or transfer of all or a portion of our business or assets. If the business is sold or transferred, we will give you an opportunity to tell us not to transfer your personal information. In some cases, this may mean that the new organization will not be able to continue providing to you the services or products that we provided.
+ **Business Transfers:** We reserve the right to transfer your personal information in connection with the sale or transfer of all or a portion of our business or assets. If the business is sold or transferred, we will give you an opportunity to tell us not to transfer your personal information. In some cases, this may mean that the new organization will not be able to continue providing to you the services or products that we provided.
 
-**Law Enforcement:** We may disclose personal information to third parties without your consent for any of the following reasons: to comply with any law, regulation or court order, to cooperate with Government investigations, to help prevent fraud or to enforce or protect the rights of our Company or its subsidiaries.
+ **Law Enforcement:** We may disclose personal information to third parties without your consent for any of the following reasons: to comply with any law, regulation or court order, to cooperate with Government investigations, to help prevent fraud or to enforce or protect the rights of our Company or its subsidiaries.
 
-**With Your Consent:** In all other cases, we will obtain your express consent before sharing your information with third parties. For example, we may conduct a joint offer or contest with a third party and you will be asked whether your personal information should be shared with that third party.
+ **With Your Consent:** In all other cases, we will obtain your express consent before sharing your information with third parties. For example, we may conduct a joint offer or contest with a third party and you will be asked whether your personal information should be shared with that third party.
 
 #### Online Registrations
 
@@ -40,7 +40,7 @@ We may take the information we receive from individuals responding to our survey
 
 #### Automatic Collection of Information
 
-**Cookies:** We may use "Cookies" to collect information. Cookies are small pieces of information stored by your browser on your computer's hard drive, at a web site's request. Our Cookies do not contain any personal information, but are used primarily as follows:
+ **Cookies:** We may use "Cookies" to collect information. Cookies are small pieces of information stored by your browser on your computer's hard drive, at a web site's request. Our Cookies do not contain any personal information, but are used primarily as follows:
 
   * to keep track of temporary information. For example, Cookies allow us to keep track of the pictures you upload and download;
   * to register you in special programs. Cookies allow us to remember you when you login to the places on our site that require Membership;
@@ -52,9 +52,9 @@ We may take the information we receive from individuals responding to our survey
 
 
 
-**Web Beacons:** We may also place small "tracker gifs" or "beacons" on many of the pages on our website, in online advertising with third parties, and in our email. We use these beacons, in connection with Cookies, to collect non-personal data on the usage of our site including but not limited to the date and time of the visit, the pages visited, the referring web page, the type of browser (e.g., Internet Explorer, NetScape), the type of operating system (e.g., Windows, Linux, or Mac), and the domain name of the visitor's Internet service provider (e.g., AOL). This information is collected about thousands of site visits and analyzed as a whole. This information is useful in, for example, tracking the performance of our online advertising such as online banner ads and to determine where to place future advertising on other web sites.
+ **Web Beacons:** We may also place small "tracker gifs" or "beacons" on many of the pages on our website, in online advertising with third parties, and in our email. We use these beacons, in connection with Cookies, to collect non-personal data on the usage of our site including but not limited to the date and time of the visit, the pages visited, the referring web page, the type of browser (e.g., Internet Explorer, NetScape), the type of operating system (e.g., Windows, Linux, or Mac), and the domain name of the visitor's Internet service provider (e.g., AOL). This information is collected about thousands of site visits and analyzed as a whole. This information is useful in, for example, tracking the performance of our online advertising such as online banner ads and to determine where to place future advertising on other web sites.
 
-**Disabling Cookies and Beacons:** If you are uncomfortable with the collection of such information through the use of Cookies and Beacons, we recommend disabling these features through your browser preferences, though please understand this will limit the performance and functionality of our Web site. Your browser documentation should provide specific procedures for disabling cookie and beacon support.
+ **Disabling Cookies and Beacons:** If you are uncomfortable with the collection of such information through the use of Cookies and Beacons, we recommend disabling these features through your browser preferences, though please understand this will limit the performance and functionality of our Web site. Your browser documentation should provide specific procedures for disabling cookie and beacon support.
 
 #### Child Privacy
 
