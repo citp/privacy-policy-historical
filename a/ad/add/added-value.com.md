@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the added-value.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026082822id_/http%3A//added-value.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the added-value.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526113905id_/http%3A//added-value.com/privacy-policy) for the most accurate reproduction.*
 
-# Added Value | Privacy Policy
+# Privacy Policy – Kantar Added Value
 
-## Privacy Policy
-
-We, Added Value Limited, are committed to protecting and respecting your privacy.
+We, Kantar Added Value Limited, are committed to protecting and respecting your privacy.
 
 This Privacy Policy relates to our website at [www.added-value.com](http://www.added-value.com/), our mobile applications and any of our other online or mobile products, content and services (collectively, the “ **Service** ”).
 
-This Privacy Policy explains how we use any personal information that we collect about you when you use the Service.  Further details of how we use your information is set out in our [Cookies Policy](https://web.archive.org/cookies-privacy/ "Added Value's Cookie Policy"), which forms part of this Privacy Policy.
+This Privacy Policy explains how we use any personal information that we collect about you when you use the Service.  Further details of how we use your information are set out in our [Cookies Policy](http://added-value.com/cookies-policy/) and in each additional privacy and/or cookies policy for any particular part of the Service, each of which forms part of this Privacy Policy.
 
 By using the Service, you consent to the collection, storage and use of your personal information as described below.  If you do not agree to this Privacy Policy, please do not use the Service and (if relevant) please uninstall the related application.
 
-**Topics:** ****
+**Topics:**
 
 — Data protection compliance  
 — The information we collect from you  
@@ -31,7 +29,7 @@ By using the Service, you consent to the collection, storage and use of your per
 
 **Data protection compliance**
 
-The Service is controlled by us from our offices in the United Kingdom (“ **UK** ”). Personal information collected from the Service is processed in accordance with the Data Protection Act 1998 (the “ **Act** “), which regulates the processing of personal data in the UK.  We are registered as a data controller in accordance with the Act and comply with UK data protection and privacy law, together with the Market Research Society’s guidance on data protection compliance.
+The Service is controlled by us from our offices in the United Kingdom (“ **UK** ”). Personal information collected from the Service is processed in accordance with the Data Protection Act 1998 (the “ **Act** ”), which regulates the processing of personal data in the UK.  We are registered as a data controller in accordance with the Act and comply with UK data protection and privacy law, together with the Market Research Society’s guidance on data protection compliance.
 
 If you choose to use the Service from outside the UK, you do so at your own risk, with the understanding that personal information collected from the Service may be collected, stored and used in a country whose privacy laws may be different and less protective than those of your home country.
 
@@ -43,19 +41,19 @@ Whenever you provide such personal information (whether to us direct or to other
 
 You may decide to make certain information available for other users of the Service to see (for example, where commenting on a blog post).  In this context, you should only provide information that you are entirely comfortable with providing, and we strongly recommend that you do not provide any details that could be used to make personal contact with you.
 
-We may also collect certain anonymous usage data, such as pages visited and services used within the Service.  This information is not personally identifiable information and generally is not aggregated with your personal information.  If it is aggregated with personal information in a way that makes you personally identifiable, we will treat the aggregated information as personal information under this Privacy Policy.  We generally use usage data to improve our services to you and to customise and enhance your experience of the Service.
+We may also collect certain anonymous usage data, such as pages visited and services used within the Service.  This information is not personally identifiable information and generally is not aggregated with your personal information.  If it is aggregated with personal information in a way that makes you personally identifiable, we will treat the aggregated information as personal information under this Privacy Policy.  We generally use usage data to improve our services to you and to customize and enhance your experience of the Service.
 
 **An important note to parents or guardians**
 
 We encourage parents or guardians to take an active interest in their children’s use of online or mobile platforms, including the Service.  Their involvement is essential to help ensure a safe and rewarding experience for their children.  Parents or guardians should be aware that there are software tools available that screen objectionable content and allow you to prevent children from disclosing their personal information without your permission.
 
-We will not intentionally collect any personal information from children under the age of 13. Children under the age of 13 can participate in all activities on the Service that do not require submission of personal information.  They may view, but may not under any circumstances participate in activities that require submission of personal information, such as message boards, contests or sweepstakes.
+We will not intentionally collect any personal information from children under the age of 16. Children under the age of 16 can participate in all activities on the Service that do not require submission of personal information.  They may view, but may not under any circumstances participate in activities that require submission of personal information, such as message boards, contests or sweepstakes.
 
-In addition we take particular care when processing the personal information of children aged 13 or older to ensure that such information is processed in accordance with the Act.
+In addition we take particular care when processing the personal information of children aged 16 or older to ensure that such information is processed in accordance with the Act.
 
 **How we use personal information**
 
-We may use personal information collected from the Service to enable your efficient use of the Service, as well as for marketing, promotions, research and analysis.  Where permitted, we may occasionally use your personal information to contact you by telephone, fax, email, SMS or otherwise in writing to inform you about our services.
+We may use personal information collected from the Service to enable your efficient use of the Service, as well as for research and analysis and, if permitted by you, marketing and promotions.  Where permitted, we may occasionally use your personal information to contact you by telephone, fax, email, SMS or otherwise in writing to inform you about our services.
 
 We will not use your personal information for marketing or promotional purposes without having first obtained your consent to do so.  In any further marketing or promotional communications we send to you, we will give you the opportunity to withdraw your consent to receiving such communications in the future.  To do so, please follow the unsubscribe instructions on the communications you receive.
 
@@ -81,7 +79,7 @@ We reserve the right to monitor your account and records to check any complaint 
 
 **Disclosure of your personal information**
 
-Added Value is part of the WPP Group.  We may disclose your personal information to any member of our group of companies, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006 (whether based within or outside the European Economic Area).
+Kantar Added Value is part of the WPP Group.  We may disclose your personal information to any member of our group of companies, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006 (whether based within or outside the European Economic Area).
 
 We may disclose your personal information to third parties where:
 
@@ -103,19 +101,19 @@ Except as required or allowed by law or as set out in this Privacy Policy, we wi
 
 We may collect and process certain information about your device and your use of the Service for system administration and/or to provide certain parts of the Service, including (where available) your IP address, geolocation information, mobile network information, hardware model, device serial number, unique device identifier, operating system and browser type, as well as details of how and when you access and use the Service.  This comprises statistical data about our users’ browsing actions and patterns, and does not, in itself, identify any individual.
 
-We may, however, link IP addresses and other unique identifiers to personal data (such as a user’s country or a user ID) and/or non-personal data (such as a user’s access location or usage record) in order to provide certain parts of the Service and/or to enforce our Terms of Use, and we may block certain IP addresses from accessing all or any part of the Service in the event of a user abuse.
+We may, however, link IP addresses and other unique identifiers to personal data (such as a user’s country or a user ID) and/or non-personal data (such as a user’s access location or usage record) in order to provide certain parts of the Service and/or to enforce our  _Terms of Use_ , and we may block certain IP addresses from accessing all or any part of the Service in the event of a user abuse.
 
 **Cookie technology**
 
-A “cookie” is a small text file deposited on your device when you access an online or mobile site. We may use cookies to monitor your use of the Service and to customise your experience of it.
+A “cookie” is a small text file deposited on your device when you access an online or mobile site. We may use cookies and/or similar technology to monitor your use of the Service and to customise your experience of it.
 
-For further details, please refer to our [Cookies Policy](https://web.archive.org/cookies-privacy/ "Added Value's Cookie Policy").
+For further details, please refer to our [Cookies Policy](http://added-value.com/cookies-policy/).
 
 **Where we store your personal information**
 
 All information you provide to us is stored on secure servers hosted by us or third parties providing hosting or other services for us.
 
-The information we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“ **EEA** “), including any destination where the privacy laws of the country concerned may be different and less protective than those of EEA countries.  It may also be processed by personnel operating outside the EEA who work for us or for one of our suppliers.  Such personnel may be engaged in, among other things, the processing of your payment details (where applicable) and the provision of support services.
+The information we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“ **EEA** ”), including any destination where the privacy laws of the country concerned may be different and less protective than those of EEA countries.  It may also be processed by personnel operating outside the EEA (such as, in particular, in the United States of America) who work for us or for one of our suppliers.  Such personnel may be engaged in, among other things, the processing of your payment details (where applicable) and the provision of support services.
 
 By submitting your personal information, you agree to this transfer, storing and processing.
 
@@ -141,12 +139,14 @@ You can check and edit the personal information we hold about you at any time by
 
 If you would like a copy of the personal information that we hold about you, please contact us by email or post.  Please include your full name and email address in the message.  If requested, we will use reasonable efforts to supply, correct or (as appropriate) delete information about you on our files.  Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-**How to contact us** ****
+**How to contact us**
 
-If you have any questions on this Privacy Policy or our use of your personal information, you can email us at [enquiries@added-value.com](mailto:enquiries@added-value.com) or write to us at Added Value Limited, Rivermead, 6 Lower Teddington Road, Hampton Wick, Surrey KT1 4ER, United Kingdom.  That is also our registered address, and our company number is  2285286.
+If you have any questions on this Privacy Policy or our use of your personal information, you can email us at [enquiries@added-value.com](mailto:enquiries@added-value.com) or write to us at Kantar Added Value Limited, Sea Containers House, 18 Upper Ground, London, SE1 9PD, United Kingdom.  That is also our registered address, and our company number is 2285286.
 
 **Changes to this Privacy Policy**
 
 We keep our Privacy Policy under regular review, and we may at any time update or otherwise modify this Privacy Policy.  We will notify you of any changes to our Privacy Policy by posting the modified Privacy Policy on the Service.  By then continuing to use the Service, you will be bound by the modified Privacy Policy.  You are encouraged to check the terms of our Privacy Policy whenever you access the Service.
 
-_**Last modified: 21 March 2014**_
+**_Last modified:  March 2017_**
+
+Please see [_here_](http://added-value.com/privacy-policy-march-2014/) for a copy of the previous version of this Privacy Policy.
