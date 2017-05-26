@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapgene.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620120048id_/http%3A//www.snapgene.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapgene.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526092639id_/http%3A//www.snapgene.com/privacy) for the most accurate reproduction.*
 
 # SnapGene.com Privacy Policy
 
