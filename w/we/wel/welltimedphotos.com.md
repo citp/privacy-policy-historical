@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the welltimedphotos.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122231142id_/http%3A//welltimedphotos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welltimedphotos.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526083906id_/http%3A//welltimedphotos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Well Timed Photos
 
