@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gifthulk.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119082629id_/http%3A//www.gifthulk.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gifthulk.com privacy policy that was archived on 2017-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170526174116id_/https%3A//www.gifthulk.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -77,6 +77,7 @@
 <script type="text/javascript" src="//www.gifthulk.com/wp-content/themes/gifthulk/js/slimbox2.js?ver=3.5.1"></script>
 <script type="text/javascript" src="//www.gifthulk.com/wp-content/themes/gifthulk/js/script.js?ver=3.5.1"></script>
 <script type="text/javascript" src="//www.gifthulk.com/wp-content/themes/gifthulk/js/custom.js?ver=3.5.1"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?ver=3.5.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.gifthulk.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.gifthulk.com/wp-includes/wlwmanifest.xml"> 
 
@@ -205,7 +206,7 @@ Report – The security of your personal information is important to us. We foll
             </li>
         </ul>
         <div class="brand right"></div>
-        <p class="copyright">GiftHulk © 2011-2016 All Rights Reserved</p>
+        <p class="copyright">GiftHulk © 2011-2017 All Rights Reserved</p>
     </div>
 </div>
 <!--  twitter load -->
@@ -255,6 +256,7 @@ Report – The security of your personal information is important to us. We foll
                 dataType: 'json',
                 data: {
                     action: 'user_check_login_info_ajax',
+                    grecaptcha: grecaptcha.getResponse(),
                     log: log,
                     pwd: pwd
                 },
@@ -285,7 +287,7 @@ Report – The security of your personal information is important to us. We foll
             jQuery.ajax({
                 url: admin_root_url,
                 type: 'post',
-                dataType: 'jsonp',
+                dataType: 'json',
                 crossDomain: true,
                 data: {
                     action: 'check_forgot_password_ajax',
@@ -293,7 +295,7 @@ Report – The security of your personal information is important to us. We foll
                 },
                 success: function(data) {
                     if (data.status === 'success') {
-                        alert('Password sent');
+                        alert('Password was sent');
                         jQuery('#forgot-password-form').submit();
                     } else {
                         alert(data.status_message);
