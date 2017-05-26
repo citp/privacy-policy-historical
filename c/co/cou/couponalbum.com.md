@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponalbum.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116004141id_/http%3A//www.couponalbum.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponalbum.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526174043id_/http%3A//www.couponalbum.com/policy.htm) for the most accurate reproduction.*
 
 # Couponalbum's Privacy Policy
 
