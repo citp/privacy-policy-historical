@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costumeexpress.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220014257id_/http%3A//www.costumeexpress.com/info/21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumeexpress.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526024035id_/http%3A//www.costumeexpress.com/info/21) for the most accurate reproduction.*
 
 # Costume Express
 
