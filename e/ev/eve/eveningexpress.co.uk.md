@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eveningexpress.co.uk privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015151412id_/https%3A//www.eveningexpress.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eveningexpress.co.uk privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527015827id_/https%3A//www.eveningexpress.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Evening Express
 
@@ -7,7 +7,7 @@
 
 
 
-© 2016 Aberdeen Journals Ltd.
+© 2017 Aberdeen Journals Ltd.
 
 **Privacy Statement**
 
