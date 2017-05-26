@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrabulizer.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122191543id_/http%3A//www.scrabulizer.com/static/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrabulizer.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526081417id_/http%3A//www.scrabulizer.com/static/policy) for the most accurate reproduction.*
 
 # Disclaimer, Privacy and Cookies Policy - Scrabulizer
 
@@ -44,8 +44,9 @@ Please see the links below for instructions on enabling, disabling and deleting 
 
   * [Chrome](https://support.google.com/chrome/answer/95647)
   * [Firefox](https://support.mozilla.org/kb/cookies-information-websites-store-on-your-computer)
-  * [Internet Explorer](http://windows.microsoft.com/en-gb/internet-explorer/delete-manage-cookies)
-  * [Safari](https://support.apple.com/kb/PH19214)
+  * [Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+  * [Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy)
+  * [Safari](https://support.apple.com/kb/ph21411)
 
 
 
@@ -59,6 +60,7 @@ Name | Purpose | Expires
 ---|---|---  
 `_scrabulizer_session` |  Used to store information about your interaction with the Scrabulizer website during a single browser session (primarily used to remember who you are when you log in).  |  Expires when you close your browser.   
 `remember_me` |  This cookie will be set if you tick the remember me option when you log in. It enables you to be automatically logged back in when you return to the site.  |  Expires one year after it was set. Automatically deleted if you click logout.   
+`https` |  Used to track whether your browser is able to reach our servers using the secure https protocol.  |  Expires up to one year after it was set.   
   
 #### Third-Party Cookies
 
@@ -67,10 +69,11 @@ Scrabulizer use suppliers who may set their own cookies. Scrabulizer does not co
 Provider | Purpose | More Info  
 ---|---|---  
 AddThis |  Scrabulizer includes links provided by AddThis. Cookies set by AddThis are used to store your preferences relating to the AddThis service and to collect information about links shared on social network sites.  |  [AddThis Privacy Information](http://www.addthis.com/privacy)  
-CloudFlare |  Scrabulizer uses CloudFlare to optimize page load performance and protect our servers from online attacks. CloudFlare sets a cookie to help distinguish between legitimate Scrabulizer users and attackers.  |  [What does the CloudFlare cfduid cookie do?](https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-CloudFlare-cfduid-cookie-do-)  
+Cloudflare |  Scrabulizer uses Cloudflare to optimize page load performance and protect our servers from online attacks. Cloudflare sets a cookie to help distinguish between legitimate Scrabulizer users and attackers.  |  [What does the Cloudflare cfduid cookie do?](https://support.cloudflare.com/hc/articles/200170156-What-does-the-Cloudflare-cfduid-cookie-do-)  
+Facebook |  Scrabulizer includes widgets from Facebook. Facebook widgets use cookies to tailor content to you and to collect statistics.  |  [Facebook Cookie Policy](https://www.facebook.com/policies/cookies/)  
 Google Analytics |  Cookies set by Google Analytics are used to collect information about how visitors use Scrabulizer. We use the information to produce reports and to help make improvements to the site. The cookies collect information in an anonymous form. Information collected includes links that were followed to reach Scrabulizer, pages that were visited and the number of visitors to the site.  | 
 
-[Google Analytics Privacy](https://www.google.com/analytics/learn/privacy.html)
+[Google Analytics - Safeguarding your data](https://support.google.com/analytics/answer/6004245)
 
 [Cookies set by Google Analytics](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage#analyticsjs)  
   
@@ -79,7 +82,7 @@ Twitter |  Scrabulizer includes widgets from Twitter. Twitter widgets use cookie
   
 ### Third-Party Advertising
 
-We may use third-party advertising companies to serve ads when you visit our web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
+We may use third-party advertising companies to serve ads when you visit our web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://optout.networkadvertising.org/). 
 
 ### Log Files
 
