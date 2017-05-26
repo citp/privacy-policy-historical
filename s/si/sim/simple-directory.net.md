@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simple-directory.net privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208192308id_/http%3A//www.simple-directory.net/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simple-directory.net privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527012746id_/http%3A//www.simple-directory.net/privacy.txt) for the most accurate reproduction.*
 
 # 
 
