@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mardenkane.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014093150id_/http%3A//www.mardenkane.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mardenkane.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526102916id_/http%3A//www.mardenkane.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Marden-Kane
 
@@ -6,13 +6,13 @@ Marden-Kane, Inc. and its wholly-owned subsidiary, Bolt Apps (“Marden-Kane”,
 
 If you have questions or complaints regarding our privacy policy or practices, please contact us at [expert@mardenkane.com](mailto:expert@mardenkane.com). 
 
-Marden-Kane, Inc. complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Marden-Kane Inc. has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
+Marden-Kane, Inc. complies with the EU-US Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland to the United States, respectively. Marden-Kane Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
 
-In compliance with the EU-US Privacy Shield Principles, Marden-Kane, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Marden-Kane, Inc.at: [expert@mardenkane.com](mailto:expert@mardenkane.com).
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, Marden-Kane, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Marden-Kane, Inc.at: [expert@mardenkane.com](mailto:expert@mardenkane.com).
 
 The Federal Trade Commission has jurisdiction over Marden-Kane, Inc.’s compliance with the Privacy Shield. 
 
-Marden-Kane, Inc. has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint.
+Marden-Kane, Inc. has further committed to refer unresolved privacy complaints under the EU-US and Swiss Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint.
 
 Under certain limited conditions, individuals may invoke binding arbitration as a last resort before the Privacy Shield Panel.
 
@@ -99,4 +99,4 @@ Phone: 516.365.3999
 
 We can be reached via e-mail at: [expert@mardenkane.com](mailto:expert@mardenkane.com).
 
-Last revised on July 29, 2016
+Last revised on April 12, 2017.
