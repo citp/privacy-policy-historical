@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rescueme.org privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101031310id_/http%3A//www.world.org/weo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rescueme.org privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527102613id_/http%3A//www.world.org/weo/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - World Environmental Organization - World.Org
 
