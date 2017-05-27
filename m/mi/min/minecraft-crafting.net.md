@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraft-crafting.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119114525id_/http%3A//www.minecraft-crafting.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft-crafting.net privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527120715id_/http%3A//www.minecraft-crafting.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy for minecraftcrafting.info
 
