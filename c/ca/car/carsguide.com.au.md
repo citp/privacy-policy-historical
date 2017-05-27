@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsguide.com.au privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119064302id_/http%3A//www.carsguide.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsguide.com.au privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527090301id_/https%3A//www.carsguide.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CarsGuide
 
@@ -8,7 +8,7 @@ Effective 30 November 2015
 
 ### 1\. Introduction
 
-One Way Traffic Ltd  ("Company" or "we") wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through all our services including advertising services, websites, mobile sites, applications ("apps"), the Member Centre and widgets, competitions and customer surveys (collectively, the "Company Services").  By using Company Services, you agree to the terms and conditions of this Privacy Policy. 
+One Way Traffic Pty Ltd  ("Company" or "we") wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through all our services including advertising services, websites, mobile sites, applications ("apps"), the Member Centre and widgets, competitions and customer surveys (collectively, the "Company Services").  By using Company Services, you agree to the terms and conditions of this Privacy Policy. 
 
 This Privacy Policy applies to all persons who interact with us, including those who are advertisers, subscribers to our goods or services and registered and unregistered users of Company Services.  This Privacy Policy applies to Company's collection and use of your personal information (i.e. information about an identified or reasonably identifiable individual, such as full name or name and postal address).   
 
@@ -111,6 +111,6 @@ DriveChat Privacy Policy: <http://www.drivechat.com.au/privacy/>
 
 If you have questions about this Privacy Policy, please contact our Privacy Officer at:  
 Customer Service Representative  
-One Way Traffic  
-[Contact us](http://www.carsguide.com.au/contact-us) through [this online form](http://www.carsguide.com.au/contact-us)  
+One Way Traffic Pty Ltd  
+[Contact us](https://www.carsguide.com.au/contact-us) through [this online form](https://www.carsguide.com.au/contact-us)  
 Tel: 1300 662 133
