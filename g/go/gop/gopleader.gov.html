@@ -1,0 +1,303 @@
+<!--The following is the downloaded HTML source of the gopleader.gov privacy policy that was archived on 2017-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170527154555id_/https%3A//www.majorityleader.gov/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TQHB58"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy - House Majority Leader</title>
+  <link rel="shortcut icon" href="https://www.majorityleader.gov/wp-content/themes/majority-leader/assets/img/favicon.png">
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-TQHB58');</script>
+  <!-- End Google Tag Manager -->
+  
+<!-- This site is optimized with the Yoast SEO plugin v4.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.majorityleader.gov/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - House Majority Leader">
+<meta property="og:description" content="Privacy Policy Last Updated: April 12, 2016 This Privacy Policy explains how information about you is collected, used and disclosed by the House of Representatives and its affiliated organizations. This Privacy Policy applies to information we collect when you use the websites, mobile sites, mobile applications and other online services that link to this Privacy …">
+<meta property="og:url" content="https://www.majorityleader.gov/privacy-policy/">
+<meta property="og:site_name" content="House Majority Leader">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="Privacy Policy Last Updated: April 12, 2016 This Privacy Policy explains how information about you is collected, used and disclosed by the House of Representatives and its affiliated organizations. This Privacy Policy applies to information we collect when you use the websites, mobile sites, mobile applications and other online services that link to this Privacy […]">
+<meta name="twitter:title" content="Privacy Policy - House Majority Leader">
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+<link rel="dns-prefetch" href="//s.w.org">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.majorityleader.gov\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.majorityleader.gov/wp-includes/js/wp-emoji-release.min.js?ver=4.7.5" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="google-fonts-css" href="https://fonts.googleapis.com/css?family=Lato:400,400i|Montserrat:400,700" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="base-styles-css" href="https://www.majorityleader.gov/wp-content/themes/majority-leader/assets/css/styles.min.css?ver=0aec08c2a727c9" type="text/css" media="all">
+<script>
+if (document.location.protocol != "https:") {
+    document.location = document.URL.replace(/^http:/i, "https:");
+}
+</script>
+<script type="text/javascript" src="https://www.majorityleader.gov/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://www.majorityleader.gov/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<link rel="https://api.w.org/" href="https://www.majorityleader.gov/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.majorityleader.gov/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.majorityleader.gov/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.7.5">
+<link rel="shortlink" href="https://www.majorityleader.gov/?p=11036">
+<link rel="alternate" type="application/json+oembed" href="https://www.majorityleader.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.majorityleader.gov%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.majorityleader.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.majorityleader.gov%2Fprivacy-policy%2F&amp;format=xml">
+
+  <script type="text/javascript" async="" src="https://platform.twitter.com/widgets.js"></script>
+
+  <!--[if lt IE 9]>
+     <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+     <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+     <![endif]-->
+
+   <!--[if lt IE 10]>
+     <script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/4.0.1/placeholders.jquery.min.js"></script>
+     <![endif]-->
+
+   </head>
+   <body class="page-template-default page page-id-11036">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TQHB58"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+	
+	<header class="sitewide " role="banner">
+
+				<button class="mobile-menu-opener" aria-hidden="true"><i class="fa fa-bars"></i></button>
+
+				<div class="container">
+			<div class="row row-flex">
+				<div class="col-sm-12 col-md-3">
+					<a href="https://www.majorityleader.gov">
+						<div class="header-logo ">
+							<span class="sr-only">Kevin McCarthy, Majority Leader</span>
+						</div>
+					</a>
+				</div>
+				<div class="col-sm-6 col-md-5">
+											<nav class="header-nav" role="navigation">
+							<ul>
+																	<li><a href="https://www.majorityleader.gov/news/">News</a></li>
+																	<li><a href="https://www.majorityleader.gov/schedule/">Schedule</a></li>
+																	<li><a href="https://www.majorityleader.gov/kevin/">About</a></li>
+																	<li><a href="https://innovation.majorityleader.gov/">Innovation</a></li>
+															</ul>
+						</nav>
+									</div>
+				<div class="col-sm-5 col-md-3 align-right">
+					<ul class="header-socials">
+													<li><a href="http://www.facebook.com/CongressmanKevinMcCarthy" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i><span class="sr-only">Facebook</span></a></li>
+																			<li><a href="https://twitter.com/GOPLeader" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i><span class="sr-only">Twitter</span></a></li>
+																			<li><a href="https://medium.com/@GOPLeader" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i><span class="sr-only">Medium</span></a></li>
+																									<li><a href="http://www.youtube.com/user/RepKevinMcCarthy" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i><span class="sr-only">YouTube</span></a></li>
+											</ul>
+					<div class="header-search-input gone">
+						<form method="get" role="search" aria-hidden="true" action="https://www.majorityleader.gov">
+							<input type="search" name="s" placeholder="Search" class="ml-text-input" id="header-search">
+						</form>
+					</div>
+				</div>
+				<div class="col-sm-1 align-right">
+					<button class="header-search-button"><i class="fa fa-search"></i><span class="sr-only">Search</span></button>
+				</div>
+
+			</div>
+		</div>
+
+				<div class="mobile-controls" aria-hidden="true">
+			<ul class="mobile-nav">
+									<li><a href="https://www.majorityleader.gov/news/">News</a></li>
+									<li><a href="https://www.majorityleader.gov/schedule/">Schedule</a></li>
+									<li><a href="https://www.majorityleader.gov/kevin/">About</a></li>
+									<li><a href="https://innovation.majorityleader.gov/">Innovation</a></li>
+							</ul>
+			<div class="mobile-search">
+				<form method="get" role="search" aria-hidden="true" action="https://www.majorityleader.gov">
+					<input type="search" name="s" placeholder="Search" class="ml-text-input" required="required">
+					<button type="submit"><i class="fa fa-search"></i></button>
+				</form>
+			</div>
+			<ul class="mobile-socials">
+									<li><a href="http://www.facebook.com/CongressmanKevinMcCarthy" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i><span class="sr-only">Facebook</span></a></li>
+													<li><a href="https://twitter.com/GOPLeader" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i><span class="sr-only">Twitter</span></a></li>
+																	<li><a href="http://www.youtube.com/user/RepKevinMcCarthy" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i><span class="sr-only">YouTube</span></a></li>
+							</ul>
+		</div>
+
+	</header>
+
+	
+	
+	<section class="subpage-header">
+		
+				
+		<div class="container">
+			<h1 class="subpage-title">Privacy Policy</h1>
+
+						
+		</div>
+	</section>
+
+		<main class="main-content post-content">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-10 col-md-offset-1">
+					<h2 data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=10">Privacy Policy</h2>
+<p data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=11"><strong data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=11.0">Last Updated: April 12, 2016</strong></p>
+<p data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=12">This Privacy Policy explains how information about you is collected, used and disclosed by the House of Representatives and its affiliated organizations. This Privacy Policy applies to information we collect when you use the websites, mobile sites, mobile applications and other online services that link to this Privacy Policy.</p>
+<p data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=13">We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy.</p>
+<p data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=14">The House of Representatives is committed to protecting individual privacy and securing the personal information made available to us when you visit our websites. We respect the privacy of our visitors.</p>
+<h3 data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=15">Information We Collect Automatically</h3>
+<p data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=16">If you visit our website to browse, read, or download information:</p>
+<ul data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=17">
+<li data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=17.$=10"><span data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=17.$=10.0">Your web browser automatically sends us (and we may retain) information such as the:</span>
+<ul data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=17.$=10.$=11">
+<li data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=17.$=10.$=11.$=10">Internet domain through which you access the Internet (e.g., yourServiceProvider.com if you use a commercial Internet service provider, or yourSchool.edu if you use an Internet account from your school);</li>
+<li data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=17.$=10.$=11.$=11">Internet Protocol address of the computer you are using;</li>
+<li data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=17.$=10.$=11.$=12">type of browser software and operating system you are using;</li>
+<li data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=17.$=10.$=11.$=13">date and time you access our site; and</li>
+<li data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=17.$=10.$=11.$=14">the Internet address of the site from which you linked directly to our site.</li>
+</ul>
+</li>
+<li data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=17.$=11">We will use this information as aggregate data to help us maintain this site, e.g., to determine the number of visitors to different sections of our site, to ensure the site is working properly, and to help us make our site more accessible and useful.</li>
+<li data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=17.$=12">We will not use this information to identify individuals, except for site security or law enforcement purposes.</li>
+<li data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=17.$=13">We will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information.</li>
+</ul>
+<h3 data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=18">Other Information We Collect</h3>
+<p data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=19">If you choose to identify yourself (or otherwise provide us with personal information) when you use our online forms:</p>
+<ul data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1a">
+<li data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1a.$=10">We will collect (and may retain) any personally identifying information, such as your name, street address, email address, and phone number, and any other information you provide. We will use this information to try to fulfill your request and may use it provide you with additional information at a later time. We will not disclose such information to third parties, except as specified in this privacy policy.</li>
+<li data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1a.$=11">If you request information, services, or assistance, we may disclose your personal information to those third parties that (in our judgment) are appropriate in order to fulfill your request. If, when you provide us with such information, you specify that you do not want us to disclose the information to third parties, we will honor your request. Note, however, that if you do not provide such information, it may be impossible for us to refer, respond to or fulfill your request.</li>
+<li data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1a.$=12">If your communication relates to a law enforcement matter, we may disclose the information to law enforcement agencies that we deem appropriate.</li>
+</ul>
+<h3 data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1b">How Long We Keep Information</h3>
+<p data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1c">We may keep information that we collect for an unlimited period of time.</p>
+<h3 data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1d">Security</h3>
+<p data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1e">We take reasonable precautions to protect our site and information automatically collected by this website or voluntarily submitted to us or our related pages on a third-party site.</p>
+<p data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1f">Please do not send sensitive data (e.g., Social Security, bank account, or credit card numbers) by email or web form.</p>
+<h3 data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1g">Cookies</h3>
+<p data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1h">We may use cookies in order to customize this site. Additionally, third-party widgets such as YouTube or Flickr may install cookies depending on their configuration.</p>
+<h3 data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1i">Google Analytics</h3>
+<p data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1j"><span data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1j.0">We use a tool called “Google Analytics” to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the </span><a href="http://www.google.com/analytics/terms/us.html" data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1j.$=11">Google Analytics Terms of Use</a><span data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1j.2"> (as </span><a href="http://www.howto.gov/sites/default/files/google-analytics-tos-amendment.pdf" data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1j.$=13">amended for government websites</a><span data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1j.4">) and the </span><a href="http://www.google.com/policies/privacy/" data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1j.$=15">Google Privacy Policy</a><span data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1j.6">. You can prevent Google Analytics from recognizing you on return visits to this site by </span><a href="https://www.usa.gov/optout-instructions" data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1j.$=17">disabling cookies</a><span data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1j.8"> on your browser.</span></p>
+<h3 data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1k">Social Sharing Features</h3>
+<p data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1l">We may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take with other media. The use of such features enables the sharing of information with your friends or the public. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.</p>
+<h3 data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1m">Site Monitoring</h3>
+<p data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1n">For site security purposes this government computer system employs software programs to monitor network traffic. Anyone using this system consents to the monitoring of their use by system or security personnel.</p>
+<p data-reactid=".0.2.$=1$privacy-policy.$=11.0.$=1o">Unauthorized use, tampering with or modification of this system—or its supporting hardware or software—may violate federal or other statutes and may subject the violator to criminal and civil penalties. In the event of unauthorized intrusion, all relevant information regarding possible violation of law may be provided to law enforcement officials.</p>
+
+				</div>
+			</div>
+		</div>
+	</main>
+
+
+	
+	<footer class="sitewide">
+		<div class="footer-signup">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-8 col-md-7 col-md-offset-1">
+						<input type="email" placeholder="Enter your email address to receive updates" id="footer_signup_email">
+					</div>
+					<div class="col-sm-4 col-md-3">
+						<a class="green-button" id="signup-submit" href="#">Sign Up</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer-bottom">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-2 col-md-push-10 footer-logo-container">
+						<a href="https://www.majorityleader.gov">
+							<img src="https://www.majorityleader.gov/wp-content/themes/majority-leader/assets/img/logo.png" class="footer-logo" alt="Kevin McCarthy, Majority Leader">
+						</a>
+						<p class="footer-contact">
+							H-107, The Capitol<br>
+							Washington, D.C. 20515<br>
+							202-225-4000
+						</p>
+					</div>
+
+					
+										<div class="col-sm-3 col-md-2 col-md-pull-2">
+						<h3 class="footer-header">Home</h3>
+	<ul class="footer-links">
+					<li><a href="https://www.majorityleader.gov/kevin/">About Kevin McCarthy</a></li>
+					<li><a href="https://www.majorityleader.gov/category/press/">Press Releases</a></li>
+					<li><a href="https://kevinmccarthy.house.gov/">California's 23rd District</a></li>
+					<li><a href="https://www.majorityleader.gov/schedule/">Schedule</a></li>
+					<li><a href="https://www.majorityleader.gov/category/blog/">Blog</a></li>
+					<li><a href="https://innovation.majorityleader.gov/">Innovation Initiative</a></li>
+			</ul>
+					</div>
+
+										<div class="col-sm-3 col-md-2 col-md-pull-2">
+						<h3 class="footer-header">Schedule</h3>
+	<ul class="footer-links">
+					<li><a href="https://www.majorityleader.gov/2017-calendar/">Session Calendar</a></li>
+					<li><a href="https://www.majorityleader.gov/daily-schedule/">Daily Floor Schedule</a></li>
+					<li><a href="https://www.majorityleader.gov/weekly-schedule/">Weekly Floor Schedule</a></li>
+			</ul>
+					</div>
+
+										<div class="col-sm-3 col-md-2 col-md-pull-2">
+						<h3 class="footer-header">Resources</h3>
+	<ul class="footer-links">
+					<li><a href="http://abetterway.speaker.gov/">A Better Way Agenda</a></li>
+					<li><a href="https://innovation.majorityleader.gov/">Innovation Initiative</a></li>
+			</ul>
+					</div>
+
+										<div class="col-sm-3 col-md-2 col-md-pull-2">
+						<h3 class="footer-header"></h3>
+					</div>
+
+				</div>
+				<p class="copyright">© 2016 U.S. House of Representatives. All Rights Reserved. <a href="https://www.majorityleader.gov/privacy-policy/" class="privacy-policy-link">Privacy Policy</a></p>
+			</div>
+		</div>
+	</footer>
+
+		
+
+    <script type="text/javascript" src="https://www.majorityleader.gov/wp-content/themes/majority-leader/assets/js/isotope.pkgd.js"></script>
+<script type="text/javascript" src="https://www.majorityleader.gov/wp-content/themes/majority-leader/assets/js/pickmeup.min.js"></script>
+<script type="text/javascript" src="https://www.majorityleader.gov/wp-content/themes/majority-leader/assets/js/featherlight.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var theme = {"url":"https:\/\/www.majorityleader.gov\/wp-content\/themes\/majority-leader"};
+var site = {"url":"https:\/\/www.majorityleader.gov"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.majorityleader.gov/wp-content/themes/majority-leader/assets/js/scripts.min.js?ver=945d2d53af805e"></script>
+<script type="text/javascript" src="https://www.majorityleader.gov/wp-includes/js/wp-embed.min.js?ver=4.7.5"></script>
+
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"f1ed88c7fb","applicationID":"31371549","transactionName":"ZgcGMEZVC0JWAEANXF9NJQdAXQpfGBNVA1Y=","queueTime":0,"applicationTime":1335,"atts":"SkAFRg5PGEw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+  </body></html>
