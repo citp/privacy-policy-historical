@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cloudvpsfiles.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607233536id_/http%3A//www.cloudvpsfiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudvpsfiles.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527025651id_/http%3A//www.cloudvpsfiles.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cloud VPS Files
+# Privacy Policy – Cloud VPS Files
 
 This Privacy Policy governs the manner in which Cloud VPS Files collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.cloudvpsfiles.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Cloud VPS Files.
 
