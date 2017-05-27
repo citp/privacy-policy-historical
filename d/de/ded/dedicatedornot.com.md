@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dedicatedornot.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125061047id_/http%3A//dedicatedornot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dedicatedornot.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527213837id_/http%3A//dedicatedornot.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Dedicated Webserver or Not
 
@@ -49,11 +49,11 @@ Shared web hosting, sometimes called a virtual host, multi-host, or self-serve w
 
 ## Updated Queries
 
-  1. [doctorbillwood.net](http://doctorbillwood.net.dedicatedornot.com/)
-  2. [www.hyysa.com](http://www.hyysa.com.dedicatedornot.com/)
-  3. [www.librariahomeopata.ro](http://www.librariahomeopata.ro.dedicatedornot.com/)
-  4. [greatdarkhorde.org](http://greatdarkhorde.org.dedicatedornot.com/)
-  5. [mingxue.cn](http://mingxue.cn.dedicatedornot.com/)
-  6. [www.reitverein-holtensen.de](http://www.reitverein-holtensen.de.dedicatedornot.com/)
+  1. [visionstop.com](http://visionstop.com.dedicatedornot.com/)
+  2. [elite-consults.com](http://elite-consults.com.dedicatedornot.com/)
+  3. [mmmc.org](http://mmmc.org.dedicatedornot.com/)
+  4. [baby-toys.co.uk](http://baby-toys.co.uk.dedicatedornot.com/)
+  5. [ygex.com](http://ygex.com.dedicatedornot.com/)
+  6. [marukan.nayutaya.jp](http://marukan.nayutaya.jp.dedicatedornot.com/)
 
 
