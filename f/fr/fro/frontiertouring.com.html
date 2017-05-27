@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the frontiertouring.com privacy policy that was archived on 2016-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161220152607id_/http%3A//www.frontiertouring.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the frontiertouring.com privacy policy that was archived on 2017-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170527030804id_/https%3A//www.frontiertouring.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
-    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T9WBG9"></script><script type="text/javascript" async="" src="https://fast.fonts.net/jsapi/9ae7126b-2806-47d6-b18d-6d7ed933a4ea.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcCVV5RGwIIUVRQBwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T9WBG9"></script><script type="text/javascript" async="" src="https://fast.fonts.net/jsapi/9ae7126b-2806-47d6-b18d-6d7ed933a4ea.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
     
     <meta content="width=device-width" name="viewport">
     
@@ -14,7 +14,7 @@
     <meta name="keywords" content="Home">
     <meta name="description" content="Home">
     <meta property="og:title" content="Privacy Policy | Frontier Touring Australia &amp; New Zealand">
-        <meta property="og:url" content="http://www.frontiertouring.com/">
+        <meta property="og:url" content="//www.frontiertouring.com/">
     <meta property="og:description" content="Home">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Frontier Touring Australia &amp; New Zealand">
@@ -34,7 +34,8 @@
     </script>
 
   
-    
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,900|Open+Sans:400,700" rel="stylesheet">
+
     <link href="https://c4ikmd.corednacdn.com/css/dist/all.min.css" rel="stylesheet">
 
 
@@ -66,180 +67,165 @@
         <div class="large-2 columns">
           <ul class="title-area">
             <li class="name">
-              <h2><a class="icon-frontier" href="http://www.frontiertouring.com/" title="return to Frontier Touring home page"><span></span><span class="accessibly_hidden">Frontier Touring</span></a></h2>
+              <h2><a class="icon-frontier" href="//www.frontiertouring.com/" title="return to Frontier Touring home page"><span></span><span class="accessibly_hidden">Frontier Touring</span></a></h2>
             </li>
           </ul>
         </div>
         <div class="large-8 columns">
           <ul class="headertest">
             <li class="divider hide_home"></li>
-            <li class="hide_home"><a href="http://www.frontiertouring.com/">Home</a></li>
+            <li class="hide_home"><a href="//www.frontiertouring.com/">Home</a></li>
             <li class="divider"></li>
             <li class="has-dropdown dd-current-tours">
-              <a href="http://www.frontiertouring.com/tours">Tours</a>
+              <a href="//www.frontiertouring.com/tours">Tours</a>
               <div class="dropdown">
                 <!-- block_on_tour_medu_split.html -->
 
-																																																																										
+																																																																																														
 
 <ul class="left">
 	<li>
-		<a title="Bliss n Eso" href="http://www.frontiertouring.com/blissneso">Bliss n Eso</a>
+		<a title="alt-J" href="//www.frontiertouring.com/altj">alt-J</a>
 	</li>
 	
 	<li>
-		<a title="Blood Orange" href="http://www.frontiertouring.com/bloodorange">Blood Orange</a>
+		<a title="Andy Grammer" href="//www.frontiertouring.com/andygrammer">Andy Grammer</a>
 	</li>
 	
 	<li>
-		<a title="Bruce Springsteen and the E Street Band" href="http://www.frontiertouring.com/brucespringsteen">Bruce Springsteen and the E Street Band</a>
+		<a title="Anna Netrebko &amp; Yusif Eyvazov" href="//www.frontiertouring.com/netrebko">Anna Netrebko &amp; Yusif Eyvazov</a>
 	</li>
 	
 	<li>
-		<a title="Bruce Springsteen | Hanging Rock" href="http://www.frontiertouring.com/brucespringsteenhangingrock">Bruce Springsteen - Hanging Rock</a>
+		<a title="Apia Good Times Tour" href="//www.frontiertouring.com/apiagoodtimes">Apia Good Times Tour</a>
 	</li>
 	
 	<li>
-		<a title="Cyndi Lauper &amp; Blondie" href="http://www.frontiertouring.com/cyndilauperblondie">Cyndi Lauper and Blondie</a>
+		<a title="Bliss n Eso" href="//www.frontiertouring.com/blissneso">Bliss n Eso</a>
 	</li>
 	
 	<li>
-		<a title="Don Henley" href="http://www.frontiertouring.com/donhenley">Don Henley</a>
+		<a title="Ed Sheeran" href="//www.frontiertouring.com/edsheeran">Ed Sheeran</a>
 	</li>
 	
 	<li>
-		<a title="Green Day" href="http://www.frontiertouring.com/greenday">Green Day</a>
+		<a title="Fist Full Of Rock" href="//www.frontiertouring.com/fistfullofrock">Fist Full Of Rock</a>
+	</li>
+	
+	<li>
+		<a title="Harry Styles" href="//www.frontiertouring.com/harrystyles">Harry Styles</a>
+	</li>
+	
+	<li>
+		<a title="John Farnham" href="//www.frontiertouring.com/johnfarnham">John Farnham</a>
+	</li>
+	
+	<li>
+		<a title="Jon Stevens" href="//www.frontiertouring.com/jonstevens">Jon Stevens</a>
+	</li>
+	
+	<li>
+		<a title="Julia Jacklin" href="//www.frontiertouring.com/juliajacklin">Julia Jacklin</a>
 	</li>
 	</ul>
 <ul class="right">
 	
 	<li>
-		<a title="Jimmy Barnes" href="http://www.frontiertouring.com/jimmybarnes">Jimmy Barnes</a>
+		<a title="Keith Sweat" href="//www.frontiertouring.com/keithsweat">Keith Sweat</a>
 	</li>
 	
 	<li>
-		<a title="Jimmy Eat World" href="http://www.frontiertouring.com/jimmyeatworld">Jimmy Eat World</a>
+		<a title="LCD Soundsystem" href="//www.frontiertouring.com/lcdsoundsystem">LCD Soundsystem</a>
 	</li>
 	
 	<li>
-		<a title="Justin Bieber" href="http://www.frontiertouring.com/justinbieber">Justin Bieber</a>
+		<a title="Mark Seymour &amp; The Undertow" href="//www.frontiertouring.com/markseymour">Mark Seymour &amp; The Undertow</a>
 	</li>
 	
 	<li>
-		<a title="Simple Minds &amp; The B-52s" href="http://www.frontiertouring.com/simplemindsb52s">Simple Minds and The B52s</a>
+		<a title="Midnight Oil" href="//www.frontiertouring.com/midnightoil">Midnight Oil</a>
 	</li>
 	
 	<li>
-		<a title="Teenage Fanclub" href="http://www.frontiertouring.com/teenagefanclub">Teenage Fanclub</a>
+		<a title="Midnight Oil - Hanging Rock" href="//www.frontiertouring.com/midnightoilhangingrock">Midnight Oil - Hanging Rock</a>
 	</li>
 	
 	<li>
-		<a title="Yellowcard" href="http://www.frontiertouring.com/yellowcard">Yellowcard</a>
+		<a title="One Electric Day" href="//www.frontiertouring.com/oneelectricday">One Electric Day</a>
+	</li>
+	
+	<li>
+		<a title="Queens Of The Stone Age" href="//www.frontiertouring.com/qotsa">Queens Of The Stone Age</a>
+	</li>
+	
+	<li>
+		<a title="Royal Blood" href="//www.frontiertouring.com/royalblood">Royal Blood</a>
+	</li>
+	
+	<li>
+		<a title="Ryan Adams" href="//www.frontiertouring.com/ryanadams">Ryan Adams</a>
+	</li>
+	
+	<li>
+		<a title="Shawn Mendes" href="//www.frontiertouring.com/shawnmendes">Shawn Mendes</a>
 	</li>
 	
 
 </ul>
 <!-- End of block_on_tour_medu_split.html -->
+
               </div>
             </li>
             <li class="divider"></li>
 
             <li class="has-dropdown dd-current-tours dd-comedy">
-              <a href="http://www.frontiercomedy.com/">Comedy</a>
+              <a href="//www.frontiercomedy.com/">Comedy</a>
               <div class="dropdown">
                 <!-- block_on_tour_menu_split_comedy.html -->
 
-																																																																																																					
+																																																													
 
 <ul class="left">
 			<li>
-			<a title="Alex Williamson" href="http://www.frontiercomedy.com/alexwilliamson">Alex Williamson</a>
+			<a title="Alan Cumming" href="//www.frontiercomedy.com/alancumming">Alan Cumming</a>
 		</li>
 	
 			<li>
-			<a title="Alice Fraser" href="http://www.frontiercomedy.com/alicefraser">Alice Fraser</a>
+			<a title="Alex Williamson" href="//www.frontiercomedy.com/alexwilliamson">Alex Williamson</a>
 		</li>
 	
 			<li>
-			<a title="Amos Gill" href="http://www.frontiercomedy.com/amosgill">Amos Gill</a>
+			<a title="Alice Fraser" href="//www.frontiercomedy.com/alicefraser">Alice Fraser</a>
 		</li>
 	
 			<li>
-			<a title="Ash Williams" href="http://www.frontiercomedy.com/ashwilliams">Ash Williams</a>
+			<a title="Bridget Everett &amp; Murray Hill" href="//www.frontiercomedy.com/bridgetandmurray">Bridget Everett &amp; Murray Hill</a>
 		</li>
 	
 			<li>
-			<a title="Bridget Everett" href="http://www.frontiercomedy.com/bridgeteverett">Bridget Everett</a>
-		</li>
-	
-			<li>
-			<a title="Chris D'Elia" href="http://www.frontiercomedy.com/chrisdelia">Chris D'Elia</a>
-		</li>
-	
-			<li>
-			<a title="Dixie Longate" href="http://www.frontiercomedy.com/dixielongate">Dixie Longate</a>
-		</li>
-	
-			<li>
-			<a title="Em Rusciano" href="http://www.frontiercomedy.com/emrusciano">Em Rusciano</a>
-		</li>
-	
-			<li>
-			<a title="Em Rusciano's BIG Mardi Gras Comedy Podcast" href="http://www.frontiercomedy.com/emruscianomardigras">Em Rusciano's Big Mardi Gras Comedy Podcast</a>
-		</li>
-	
-			<li>
-			<a title="Emily Tresidder" href="http://www.frontiercomedy.com/emilytresidder">Emily Tresidder</a>
-		</li>
-	
-			<li>
-			<a title="Eric Andre" href="http://www.frontiercomedy.com/ericandre">Eric Andre</a>
+			<a title="Effie - The Virgin Bride" href="//www.frontiercomedy.com/effie">Effie The Virgin Bride</a>
 		</li>
 	</ul>
 <ul class="right">
 	
 			<li>
-			<a title="Frenchy" href="http://www.frontiercomedy.com/frenchy">Frenchy</a>
+			<a title="Frenchy" href="//www.frontiercomedy.com/frenchy">Frenchy</a>
 		</li>
 	
 			<li>
-			<a title="Gillian Cosgriff" href="http://www.frontiercomedy.com/gilliancosgriff">Gillian Cosgriff</a>
+			<a title="Jim Gaffigan" href="//www.frontiercomedy.com/jimgaffigan">Jim Gaffigan</a>
 		</li>
 	
 			<li>
-			<a title="Jeff Green" href="http://www.frontiercomedy.com/jeffgreen">Jeff Green</a>
+			<a title="Khaled Khalafalla" href="//www.frontiercomedy.com/khaledkhalafalla">Khaled Khalafalla</a>
 		</li>
 	
 			<li>
-			<a title="Jim Jefferies NZ" href="http://www.frontiercomedy.com/jimjefferiesnz">Jim Jefferies NZ</a>
+			<a title="Star-Spangled Stand-Up" href="//www.frontiercomedy.com/starspangledstandup">Star-Spangled Stand-Up</a>
 		</li>
 	
 			<li>
-			<a title="Josh Wade" href="http://www.frontiercomedy.com/joshwade">Josh Wade</a>
-		</li>
-	
-			<li>
-			<a title="Late Night Letters and Numbers" href="http://www.frontiercomedy.com/latenightlettersandnumbers">Late Night Letters and Numbers</a>
-		</li>
-	
-			<li>
-			<a title="Liam Ryan" href="http://www.frontiercomedy.com/liamryan">Liam Ryan</a>
-		</li>
-	
-			<li>
-			<a title="Mardi Gras Comedy Festival" href="http://www.frontiercomedy.com/mardigras">Mardi Gras Comedy Festival</a>
-		</li>
-	
-			<li>
-			<a title="Neel Kolhatkar" href="http://www.frontiercomedy.com/neelkolhatkar">Neel Kolhatkar</a>
-		</li>
-	
-			<li>
-			<a title="Panti Bliss" href="http://www.frontiercomedy.com/pantibliss">Panti Bliss</a>
-		</li>
-	
-			<li>
-			<a title="The Wudidonga Arts Revue" href="http://www.frontiercomedy.com/wudidongaartsrevue">The Wudidonga Arts Revue</a>
+			<a title="Vir Das" href="//www.frontiercomedy.com/virdas">Vir Das</a>
 		</li>
 	
 	
@@ -251,86 +237,83 @@
 
             <li class="divider"></li>
             <li class="has-dropdown dd-past-tours">
-              <a href="http://www.frontiertouring.com/pasttours">Past Tours</a>
+              <a href="//www.frontiertouring.com/pasttours">Past Tours</a>
               <div class="dropdown">
                 <!-- menu.html -->
 		<ul class="left">
-			<li><h5><a href="http://www.frontiertouring.com/page/2010-2019">2010s</a></h5></li>
-					
-							<li><a href="http://www.frontiertouring.com/page/2016">2016</a></li>
-						<li><a href="http://www.frontiertouring.com/page/2015">2015</a></li>
-						<li><a href="http://www.frontiertouring.com/page/2014">2014</a></li>
-						<li><a href="http://www.frontiertouring.com/page/2013">2013</a></li>
-						<li><a href="http://www.frontiertouring.com/page/2012">2012</a></li>
-						<li><a href="http://www.frontiertouring.com/page/2011">2011</a></li>
-						<li><a href="http://www.frontiertouring.com/page/2010">2010</a></li>
+			<li><h5><a href="//www.frontiertouring.com/page/2010-2019">2010s</a></h5></li>
 		
-		 
-	</ul>
+							<li><a href="//www.frontiertouring.com/page/2017">2017</a></li>
+						<li><a href="//www.frontiertouring.com/page/2016">2016</a></li>
+						<li><a href="//www.frontiertouring.com/page/2015">2015</a></li>
+						<li><a href="//www.frontiertouring.com/page/2014">2014</a></li>
+						<li><a href="//www.frontiertouring.com/page/2013">2013</a></li>
+						<li><a href="//www.frontiertouring.com/page/2012">2012</a></li>
+						<li><a href="//www.frontiertouring.com/page/2011">2011</a></li>
+						<li><a href="//www.frontiertouring.com/page/2010">2010</a></li>
+		
+		</ul>
 		<ul class="left">
-			<li><h5><a href="http://www.frontiertouring.com/page/2000-2009">2000s</a></h5></li>
-					
-							<li><a href="http://www.frontiertouring.com/page/2009">2009</a></li>
-						<li><a href="http://www.frontiertouring.com/page/2008">2008</a></li>
-						<li><a href="http://www.frontiertouring.com/page/2007">2007</a></li>
-						<li><a href="http://www.frontiertouring.com/page/2006">2006</a></li>
-						<li><a href="http://www.frontiertouring.com/page/2005">2005</a></li>
-						<li><a href="http://www.frontiertouring.com/page/2004">2004</a></li>
-						<li><a href="http://www.frontiertouring.com/page/2003">2003</a></li>
-						<li><a href="http://www.frontiertouring.com/page/2002">2002</a></li>
-						<li><a href="http://www.frontiertouring.com/page/2001">2001</a></li>
-						<li><a href="http://www.frontiertouring.com/page/2000">2000</a></li>
+			<li><h5><a href="//www.frontiertouring.com/page/2000-2009">2000s</a></h5></li>
 		
-		 
-	</ul>
+							<li><a href="//www.frontiertouring.com/page/2009">2009</a></li>
+						<li><a href="//www.frontiertouring.com/page/2008">2008</a></li>
+						<li><a href="//www.frontiertouring.com/page/2007">2007</a></li>
+						<li><a href="//www.frontiertouring.com/page/2006">2006</a></li>
+						<li><a href="//www.frontiertouring.com/page/2005">2005</a></li>
+						<li><a href="//www.frontiertouring.com/page/2004">2004</a></li>
+						<li><a href="//www.frontiertouring.com/page/2003">2003</a></li>
+						<li><a href="//www.frontiertouring.com/page/2002">2002</a></li>
+						<li><a href="//www.frontiertouring.com/page/2001">2001</a></li>
+						<li><a href="//www.frontiertouring.com/page/2000">2000</a></li>
+		
+		</ul>
 		<ul class="left">
-			<li><h5><a href="http://www.frontiertouring.com/page/1990-1999">1990s</a></h5></li>
-					
-							<li><a href="http://www.frontiertouring.com/page/1999">1999</a></li>
-						<li><a href="http://www.frontiertouring.com/page/1998">1998</a></li>
-						<li><a href="http://www.frontiertouring.com/page/1997">1997</a></li>
-						<li><a href="http://www.frontiertouring.com/page/1996">1996</a></li>
-						<li><a href="http://www.frontiertouring.com/page/1995">1995</a></li>
-						<li><a href="http://www.frontiertouring.com/page/1994">1994</a></li>
-						<li><a href="http://www.frontiertouring.com/page/1993">1993</a></li>
-						<li><a href="http://www.frontiertouring.com/page/1992">1992</a></li>
-						<li><a href="http://www.frontiertouring.com/page/1991">1991</a></li>
-						<li><a href="http://www.frontiertouring.com/page/1990">1990</a></li>
+			<li><h5><a href="//www.frontiertouring.com/page/1990-1999">1990s</a></h5></li>
 		
-		 
-	</ul>
+							<li><a href="//www.frontiertouring.com/page/1999">1999</a></li>
+						<li><a href="//www.frontiertouring.com/page/1998">1998</a></li>
+						<li><a href="//www.frontiertouring.com/page/1997">1997</a></li>
+						<li><a href="//www.frontiertouring.com/page/1996">1996</a></li>
+						<li><a href="//www.frontiertouring.com/page/1995">1995</a></li>
+						<li><a href="//www.frontiertouring.com/page/1994">1994</a></li>
+						<li><a href="//www.frontiertouring.com/page/1993">1993</a></li>
+						<li><a href="//www.frontiertouring.com/page/1992">1992</a></li>
+						<li><a href="//www.frontiertouring.com/page/1991">1991</a></li>
+						<li><a href="//www.frontiertouring.com/page/1990">1990</a></li>
+		
+		</ul>
 		<ul class="left">
-			<li><h5><a href="http://www.frontiertouring.com/page/1980-1989">1980s</a></h5></li>
-					
-							<li><a href="http://www.frontiertouring.com/page/1989">1989</a></li>
-						<li><a href="http://www.frontiertouring.com/page/1988">1988</a></li>
-						<li><a href="http://www.frontiertouring.com/page/1987">1987</a></li>
-						<li><a href="http://www.frontiertouring.com/page/1986">1986</a></li>
-						<li><a href="http://www.frontiertouring.com/page/1985">1985</a></li>
-						<li><a href="http://www.frontiertouring.com/page/1984">1984</a></li>
-						<li><a href="http://www.frontiertouring.com/page/1983">1983</a></li>
-						<li><a href="http://www.frontiertouring.com/page/1982">1982</a></li>
-						<li><a href="http://www.frontiertouring.com/page/1981">1981</a></li>
-						<li><a href="http://www.frontiertouring.com/page/1980">1980</a></li>
+			<li><h5><a href="//www.frontiertouring.com/page/1980-1989">1980s</a></h5></li>
 		
-		 
-	</ul>
+							<li><a href="//www.frontiertouring.com/page/1989">1989</a></li>
+						<li><a href="//www.frontiertouring.com/page/1988">1988</a></li>
+						<li><a href="//www.frontiertouring.com/page/1987">1987</a></li>
+						<li><a href="//www.frontiertouring.com/page/1986">1986</a></li>
+						<li><a href="//www.frontiertouring.com/page/1985">1985</a></li>
+						<li><a href="//www.frontiertouring.com/page/1984">1984</a></li>
+						<li><a href="//www.frontiertouring.com/page/1983">1983</a></li>
+						<li><a href="//www.frontiertouring.com/page/1982">1982</a></li>
+						<li><a href="//www.frontiertouring.com/page/1981">1981</a></li>
+						<li><a href="//www.frontiertouring.com/page/1980">1980</a></li>
+		
+		</ul>
 		<ul class="left">
-			<li><h5><a href="http://www.frontiertouring.com/page/1970-1979">1970s</a></h5></li>
-					
-							<li><a href="http://www.frontiertouring.com/page/1979">1979</a></li>
+			<li><h5><a href="//www.frontiertouring.com/page/1970-1979">1970s</a></h5></li>
 		
-		 
-	</ul>
+							<li><a href="//www.frontiertouring.com/page/1979">1979</a></li>
+		
+		</ul>
 <!-- End of menu.html -->
+
               </div>
             </li>
             <li class="divider"></li>
-            <li><a href="http://www.frontiertouring.com/photos">Photos</a></li>
+            <li><a href="//www.frontiertouring.com/photos">Photos</a></li>
             <li class="divider"></li>
-            <li><a href="http://www.frontiertouring.com/help">FAQ</a></li>
+            <li><a href="//www.frontiertouring.com/help">FAQ</a></li>
             <li class="divider"></li>
-            <li><a href="http://www.frontiertouring.com/contact">Contact</a></li>
+            <li><a href="//www.frontiertouring.com/contact">Contact</a></li>
             <li class="divider"></li>
             <li>
               <form class="tb-search" action="/" method="get">
@@ -349,14 +332,14 @@
             </li>
             <li class="divider"></li>
                         <li class="has-dropdown dd-login">
-              <a href="/login" class="login_with_uri" data-return-uri="http://www.frontiertouring.com/privacypolicy">Log in</a>
+              <a href="/login" class="login_with_uri" data-return-uri="//www.frontiertouring.com/privacypolicy">Log in</a>
               <div class="dropdown">
                 <div class="left">
                   <form class="custom login_frm" action="/login" method="post">
                     <input type="hidden" name="form_name" value="login">
                     <input type="hidden" name="action" value="login">
                     <input type="hidden" name="form_action" value="login">
-                                          <input type="hidden" name="ret_page" value="http://www.frontiertouring.com/privacypolicy">
+                                          <input type="hidden" name="ret_page" value="//www.frontiertouring.com/privacypolicy">
                                         <h5>Log into your account:</h5>
                     <input placeholder="Email" type="text" name="login">
                     <input placeholder="Password" type="password" name="password">
@@ -371,7 +354,7 @@
                 <ul class="right">
                   <li><span class="plain_text">Or login with:</span></li>
                   <li>
-                    <a class="button small fblogin" href="/index.php?action=register&amp;form_name=register_plugin&amp;form_action=fb_login&amp;return_url=https://www.frontiertouring.com%2Fprivacypolicy          ">
+                    <a class="button small fblogin" href="/index.php?action=register&amp;form_name=register_plugin&amp;form_action=exist_fb_login&amp;return_url=https://www.frontiertouring.com%2Fprivacypolicy          ">
                       <span class="icon-facebook"><span class="visuallyhidden">Facebook</span></span>
                       Login With Facebook
                     </a>
@@ -400,13 +383,13 @@
       <header class="mobile-top-nav show-for-medium-down top-bar-section">
         <nav class="top-bar hide-for-print">
           <a class="sidebar-button" href="#sidebar" id="sidebarButton"><span class="icon-nav"></span><span class="accessibly_hidden">Navigation</span></a>
-          <h4><a class="icon-frontier" href="http://www.frontiertouring.com/" title="return to Frontier Touring home page"><span></span><span class="accessibly_hidden">Frontier Touring</span></a></h4>
+          <h4><a class="icon-frontier" href="//www.frontiertouring.com/" title="return to Frontier Touring home page"><span></span><span class="accessibly_hidden">Frontier Touring</span></a></h4>
           <ul class="right">
             <li class="divider"></li>
-            <li class="show-for-medium"><a class="icon-home" href="http://www.frontiertouring.com/"><span></span><span class="accessibly_hidden">Home</span></a></li>
+            <li class="show-for-medium"><a class="icon-home" href="//www.frontiertouring.com/"><span></span><span class="accessibly_hidden">Home</span></a></li>
             <li class="show-for-medium divider"></li>
             <li class="show-for-medium">
-              <form class="tb-search-med" action="http://www.frontiertouring.com/" method="post">
+              <form class="tb-search-med" action="//www.frontiertouring.com/" method="post">
                 <input type="hidden" name="action" value="retail">
                 <input type="hidden" name="form_name" value="search">
                 <input type="hidden" name="category" value="">
@@ -429,14 +412,14 @@
               <div class="mobile_login_dropdown">
                 <ul>
                                           <li>
-                        <a href="http://www.frontiertouring.com/login">Log in</a>
+                        <a href="//www.frontiertouring.com/login">Log in</a>
                       </li>
                       <li>
-                        <a href="http://www.frontiertouring.com/login">Forgotten your log in password?</a>
+                        <a href="//www.frontiertouring.com/login">Forgotten your log in password?</a>
                       </li>
                       <li><a href="/presalecodereminder">Forgotten your pre-sale code?</a></li>
-                      <li><a href="http://www.frontiertouring.com/signup">Sign up</a></li>
-                                        <li><a href="https://www.frontiertouring.com/unsubscribe">Unsubscribe</a></li>
+                      <li><a href="//www.frontiertouring.com/signup">Sign up</a></li>
+                                        <li><a href="//www.frontiertouring.com/unsubscribe">Unsubscribe</a></li>
                 </ul>
               </div>
             </li>
@@ -451,7 +434,7 @@
 
             <div class="side-panel-container" id="side_tiny_scrollbar"><!-- relative -->
 
-                            <h6><a href="http://www.frontiertouring.com/tours">Tours</a></h6>
+                            <h6><a href="//www.frontiertouring.com/tours">Tours</a></h6>
               <hr>
                             <div class="scrollbar disable"><div class="track"><div class="thumb"><div class="start"></div><div class="end"></div></div></div></div>
 
@@ -462,49 +445,73 @@
 
                 
                 
-                	                                                  	                                                  	                                                  	                                                  	                                                    <li>
-                    <a title="Bliss n Eso" href="http://www.frontiertouring.com/blissneso">Bliss n Eso</a>
+                	                                                  	                                                  	                                                  	                                                    <li>
+                    <a title="alt-J" href="//www.frontiertouring.com/altj">alt-J</a>
                   </li>
                                   	                                                    <li>
-                    <a title="Blood Orange" href="http://www.frontiertouring.com/bloodorange">Blood Orange</a>
-                  </li>
-                                  	                                                  	                                                    <li>
-                    <a title="Bruce Springsteen and the E Street Band" href="http://www.frontiertouring.com/brucespringsteen">Bruce Springsteen and the E Street Band</a>
+                    <a title="Andy Grammer" href="//www.frontiertouring.com/andygrammer">Andy Grammer</a>
                   </li>
                                   	                                                    <li>
-                    <a title="Bruce Springsteen | Hanging Rock" href="http://www.frontiertouring.com/brucespringsteenhangingrock">Bruce Springsteen - Hanging Rock</a>
-                  </li>
-                                  	                                                  	                                                    <li>
-                    <a title="Cyndi Lauper &amp; Blondie" href="http://www.frontiertouring.com/cyndilauperblondie">Cyndi Lauper and Blondie</a>
-                  </li>
-                                  	                                                  	                                                    <li>
-                    <a title="Don Henley" href="http://www.frontiertouring.com/donhenley">Don Henley</a>
-                  </li>
-                                  	                                                  	                                                  	                                                  	                                                  	                                                  	                                                  	                                                    <li>
-                    <a title="Green Day" href="http://www.frontiertouring.com/greenday">Green Day</a>
-                  </li>
-                                  	                                                  	                                                  	                                                    <li>
-                    <a title="Jimmy Barnes" href="http://www.frontiertouring.com/jimmybarnes">Jimmy Barnes</a>
+                    <a title="Anna Netrebko &amp; Yusif Eyvazov" href="//www.frontiertouring.com/netrebko">Anna Netrebko &amp; Yusif Eyvazov</a>
                   </li>
                                   	                                                    <li>
-                    <a title="Jimmy Eat World" href="http://www.frontiertouring.com/jimmyeatworld">Jimmy Eat World</a>
-                  </li>
-                                  	                                                  	                                                    <li>
-                    <a title="Justin Bieber" href="http://www.frontiertouring.com/justinbieber">Justin Bieber</a>
-                  </li>
-                                  	                                                  	                                                  	                                                  	                                                  	                                                  	                                                    <li>
-                    <a title="Simple Minds &amp; The B-52s" href="http://www.frontiertouring.com/simplemindsb52s">Simple Minds and The B52s</a>
+                    <a title="Apia Good Times Tour" href="//www.frontiertouring.com/apiagoodtimes">Apia Good Times Tour</a>
                   </li>
                                   	                                                    <li>
-                    <a title="Teenage Fanclub" href="http://www.frontiertouring.com/teenagefanclub">Teenage Fanclub</a>
+                    <a title="Bliss n Eso" href="//www.frontiertouring.com/blissneso">Bliss n Eso</a>
                   </li>
                                   	                                                  	                                                    <li>
-                    <a title="Yellowcard" href="http://www.frontiertouring.com/yellowcard">Yellowcard</a>
+                    <a title="Ed Sheeran" href="//www.frontiertouring.com/edsheeran">Ed Sheeran</a>
                   </li>
-                                                  
+                                  	                                                  	                                                    <li>
+                    <a title="Fist Full Of Rock" href="//www.frontiertouring.com/fistfullofrock">Fist Full Of Rock</a>
+                  </li>
+                                  	                                                  	                                                    <li>
+                    <a title="Harry Styles" href="//www.frontiertouring.com/harrystyles">Harry Styles</a>
+                  </li>
+                                  	                                                  	                                                    <li>
+                    <a title="John Farnham" href="//www.frontiertouring.com/johnfarnham">John Farnham</a>
+                  </li>
+                                  	                                                    <li>
+                    <a title="Jon Stevens" href="//www.frontiertouring.com/jonstevens">Jon Stevens</a>
+                  </li>
+                                  	                                                    <li>
+                    <a title="Julia Jacklin" href="//www.frontiertouring.com/juliajacklin">Julia Jacklin</a>
+                  </li>
+                                  	                                                    <li>
+                    <a title="Keith Sweat" href="//www.frontiertouring.com/keithsweat">Keith Sweat</a>
+                  </li>
+                                  	                                                  	                                                    <li>
+                    <a title="LCD Soundsystem" href="//www.frontiertouring.com/lcdsoundsystem">LCD Soundsystem</a>
+                  </li>
+                                  	                                                    <li>
+                    <a title="Mark Seymour &amp; The Undertow" href="//www.frontiertouring.com/markseymour">Mark Seymour &amp; The Undertow</a>
+                  </li>
+                                  	                                                    <li>
+                    <a title="Midnight Oil" href="//www.frontiertouring.com/midnightoil">Midnight Oil</a>
+                  </li>
+                                  	                                                    <li>
+                    <a title="Midnight Oil - Hanging Rock" href="//www.frontiertouring.com/midnightoilhangingrock">Midnight Oil - Hanging Rock</a>
+                  </li>
+                                  	                                                    <li>
+                    <a title="One Electric Day" href="//www.frontiertouring.com/oneelectricday">One Electric Day</a>
+                  </li>
+                                  	                                                    <li>
+                    <a title="Queens Of The Stone Age" href="//www.frontiertouring.com/qotsa">Queens Of The Stone Age</a>
+                  </li>
+                                  	                                                    <li>
+                    <a title="Royal Blood" href="//www.frontiertouring.com/royalblood">Royal Blood</a>
+                  </li>
+                                  	                                                    <li>
+                    <a title="Ryan Adams" href="//www.frontiertouring.com/ryanadams">Ryan Adams</a>
+                  </li>
+                                  	                                                    <li>
+                    <a title="Shawn Mendes" href="//www.frontiertouring.com/shawnmendes">Shawn Mendes</a>
+                  </li>
+                                  	                                                  	                                                                  
               </ul>
               
-              <h6><a href="http://www.frontiercomedy.com/">Comedy</a></h6>
+              <h6><a href="//www.frontiercomedy.com/">Comedy</a></h6>
               <hr>
 
               <ul>
@@ -512,72 +519,36 @@
                 
                 
                                                                 <li>
-                  <a title="Alex Williamson" class="icon-comedy2" href="http://www.frontiercomedy.com/alexwilliamson">Alex Williamson</a>
+                  <a title="Alan Cumming" class="icon-comedy2" href="//www.frontiercomedy.com/alancumming">Alan Cumming</a>
                 </li>
                                                                                 <li>
-                  <a title="Alice Fraser" class="icon-comedy2" href="http://www.frontiercomedy.com/alicefraser">Alice Fraser</a>
+                  <a title="Alex Williamson" class="icon-comedy2" href="//www.frontiercomedy.com/alexwilliamson">Alex Williamson</a>
                 </li>
                                                                                 <li>
-                  <a title="Amos Gill" class="icon-comedy2" href="http://www.frontiercomedy.com/amosgill">Amos Gill</a>
+                  <a title="Alice Fraser" class="icon-comedy2" href="//www.frontiercomedy.com/alicefraser">Alice Fraser</a>
                 </li>
-                                                                                <li>
-                  <a title="Ash Williams" class="icon-comedy2" href="http://www.frontiercomedy.com/ashwilliams">Ash Williams</a>
-                </li>
-                                                                                                                                                                                <li>
-                  <a title="Bridget Everett" class="icon-comedy2" href="http://www.frontiercomedy.com/bridgeteverett">Bridget Everett</a>
-                </li>
-                                                                                                                                                                                <li>
-                  <a title="Chris D'Elia" class="icon-comedy2" href="http://www.frontiercomedy.com/chrisdelia">Chris D'Elia</a>
+                                                                                                                                                                                                                                                                                                                                <li>
+                  <a title="Bridget Everett &amp; Murray Hill" class="icon-comedy2" href="//www.frontiercomedy.com/bridgetandmurray">Bridget Everett &amp; Murray Hill</a>
                 </li>
                                                                                                                                 <li>
-                  <a title="Dixie Longate" class="icon-comedy2" href="http://www.frontiercomedy.com/dixielongate">Dixie Longate</a>
+                  <a title="Effie - The Virgin Bride" class="icon-comedy2" href="//www.frontiercomedy.com/effie">Effie The Virgin Bride</a>
                 </li>
                                                                                                                                 <li>
-                  <a title="Em Rusciano" class="icon-comedy2" href="http://www.frontiercomedy.com/emrusciano">Em Rusciano</a>
-                </li>
-                                                                                <li>
-                  <a title="Em Rusciano's BIG Mardi Gras Comedy Podcast" class="icon-comedy2" href="http://www.frontiercomedy.com/emruscianomardigras">Em Rusciano's Big Mardi Gras Comedy Podcast</a>
-                </li>
-                                                                                <li>
-                  <a title="Emily Tresidder" class="icon-comedy2" href="http://www.frontiercomedy.com/emilytresidder">Emily Tresidder</a>
-                </li>
-                                                                                <li>
-                  <a title="Eric Andre" class="icon-comedy2" href="http://www.frontiercomedy.com/ericandre">Eric Andre</a>
-                </li>
-                                                                                <li>
-                  <a title="Frenchy" class="icon-comedy2" href="http://www.frontiercomedy.com/frenchy">Frenchy</a>
-                </li>
-                                                                                <li>
-                  <a title="Gillian Cosgriff" class="icon-comedy2" href="http://www.frontiercomedy.com/gilliancosgriff">Gillian Cosgriff</a>
+                  <a title="Frenchy" class="icon-comedy2" href="//www.frontiercomedy.com/frenchy">Frenchy</a>
                 </li>
                                                                                                                                 <li>
-                  <a title="Jeff Green" class="icon-comedy2" href="http://www.frontiercomedy.com/jeffgreen">Jeff Green</a>
+                  <a title="Jim Gaffigan" class="icon-comedy2" href="//www.frontiercomedy.com/jimgaffigan">Jim Gaffigan</a>
+                </li>
+                                                                                                                                                                                                                                                                                <li>
+                  <a title="Khaled Khalafalla" class="icon-comedy2" href="//www.frontiercomedy.com/khaledkhalafalla">Khaled Khalafalla</a>
+                </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li>
+                  <a title="Star-Spangled Stand-Up" class="icon-comedy2" href="//www.frontiercomedy.com/starspangledstandup">Star-Spangled Stand-Up</a>
                 </li>
                                                                                 <li>
-                  <a title="Jim Jefferies NZ" class="icon-comedy2" href="http://www.frontiercomedy.com/jimjefferiesnz">Jim Jefferies NZ</a>
+                  <a title="Vir Das" class="icon-comedy2" href="//www.frontiercomedy.com/virdas">Vir Das</a>
                 </li>
-                                                                                                                                                                                <li>
-                  <a title="Josh Wade" class="icon-comedy2" href="http://www.frontiercomedy.com/joshwade">Josh Wade</a>
-                </li>
-                                                                                                                                <li>
-                  <a title="Late Night Letters and Numbers" class="icon-comedy2" href="http://www.frontiercomedy.com/latenightlettersandnumbers">Late Night Letters and Numbers</a>
-                </li>
-                                                                                <li>
-                  <a title="Liam Ryan" class="icon-comedy2" href="http://www.frontiercomedy.com/liamryan">Liam Ryan</a>
-                </li>
-                                                                                <li>
-                  <a title="Mardi Gras Comedy Festival" class="icon-comedy2" href="http://www.frontiercomedy.com/mardigras">Mardi Gras Comedy Festival</a>
-                </li>
-                                                                                <li>
-                  <a title="Neel Kolhatkar" class="icon-comedy2" href="http://www.frontiercomedy.com/neelkolhatkar">Neel Kolhatkar</a>
-                </li>
-                                                                                <li>
-                  <a title="Panti Bliss" class="icon-comedy2" href="http://www.frontiercomedy.com/pantibliss">Panti Bliss</a>
-                </li>
-                                                                                                                                                                                <li>
-                  <a title="The Wudidonga Arts Revue" class="icon-comedy2" href="http://www.frontiercomedy.com/wudidongaartsrevue">The Wudidonga Arts Revue</a>
-                </li>
-                                                                                                
+                                                
               </ul>
 
               </div> <!-- Both UL Wrapper -->
@@ -590,9 +561,9 @@
           <ul class="social-icons right hide-for-print">
             <li><a class="icon-facebook" target="_blank" href="https://www.facebook.com/frontiertouring"><span></span><span class="accessibly_hidden">Facebook</span></a></li>
             <li><a class="icon-twitter" target="_blank" href="https://twitter.com/frontiertouring"><span></span><span class="accessibly_hidden">Twitter</span></a></li>
-            <li><a class="icon-instagram" target="_blank" href="http://instagram.com/frontiertouring"><span></span><span class="accessibly_hidden">Instagram</span></a></li>
-            <li><a class="icon-pinterest" target="_blank" href="http://pinterest.com/frontiertouring/"><span></span><span class="accessibly_hidden">Pinterest</span></a></li>
-            <li><a class="icon-youtube" target="_blank" href="http://www.youtube.com/user/frontiertouring"><span></span><span class="accessibly_hidden">Youtube</span></a></li>
+            <li><a class="icon-instagram" target="_blank" href="https://instagram.com/frontiertouring"><span></span><span class="accessibly_hidden">Instagram</span></a></li>
+            <li><a class="icon-pinterest" target="_blank" href="https://pinterest.com/frontiertouring/"><span></span><span class="accessibly_hidden">Pinterest</span></a></li>
+            <li><a class="icon-youtube" target="_blank" href="https://www.youtube.com/user/frontiertouring"><span></span><span class="accessibly_hidden">Youtube</span></a></li>
           </ul>
           <hr><!-- End of header.html -->
 
@@ -779,9 +750,9 @@
         <ul class="social-icons right">
           <li><a class="icon-facebook" target="_blank" href="https://www.facebook.com/frontiertouring"><span></span><span class="accessibly_hidden">Facebook</span></a></li>
           <li><a class="icon-twitter" target="_blank" href="https://twitter.com/frontiertouring"><span></span><span class="accessibly_hidden">Twitter</span></a></li>
-          <li><a class="icon-instagram" target="_blank" href="http://instagram.com/frontiertouring"><span></span><span class="accessibly_hidden">Instagram</span></a></li>
-          <li><a class="icon-pinterest" target="_blank" href="http://pinterest.com/frontiertouring/"><span></span><span class="accessibly_hidden">Pinterest</span></a></li>
-          <li><a class="icon-youtube" target="_blank" href="http://www.youtube.com/user/frontiertouring"><span></span><span class="accessibly_hidden">Youtube</span></a></li>
+          <li><a class="icon-instagram" target="_blank" href="https://instagram.com/frontiertouring"><span></span><span class="accessibly_hidden">Instagram</span></a></li>
+          <li><a class="icon-pinterest" target="_blank" href="https://pinterest.com/frontiertouring/"><span></span><span class="accessibly_hidden">Pinterest</span></a></li>
+          <li><a class="icon-youtube" target="_blank" href="https://www.youtube.com/user/frontiertouring"><span></span><span class="accessibly_hidden">Youtube</span></a></li>
         </ul>
       </div>
     </div>
@@ -798,7 +769,7 @@
     
         <!-- li 1 -->
         <li>
-          <a href="http://www.frontiertouring.com/">
+          <a href="/">
             Home
           </a>
         </li>
@@ -806,7 +777,7 @@
           
         <!-- li 2 -->
         <li>
-          <a target="_blank" href="http://www.hangingrockconcerts.com">
+          <a target="_blank" href="//www.hangingrockconcerts.com">
             Hanging Rock Microsite
           </a>
         </li>
@@ -814,7 +785,7 @@
           
         <!-- li 3 -->
         <li>
-          <a href="http://www.frontiertouring.com/tours">
+          <a href="/tours">
             Current Tours
           </a>
         </li>
@@ -822,7 +793,7 @@
           
         <!-- li 4 -->
         <li>
-          <a href="http://www.frontiertouring.com/pasttours">
+          <a href="/pasttours">
             Past Tours
           </a>
         </li>
@@ -830,7 +801,7 @@
           
         <!-- li 5 -->
         <li>
-          <a href="http://www.frontiertouring.com/photos">
+          <a href="/photos">
             Photos
           </a>
         </li>
@@ -846,7 +817,7 @@
                 
         <!-- li 6 -->
         <li>
-          <a href="http://www.frontiertouring.com/competitions">
+          <a href="/competitions">
             Competitions
           </a>
         </li>
@@ -854,7 +825,7 @@
           
         <!-- li 7 -->
         <li>
-          <a href="http://www.frontiertouring.com/login">
+          <a href="/login">
             Log in
           </a>
         </li>
@@ -862,7 +833,7 @@
           
         <!-- li 8 -->
         <li>
-          <a href="http://www.frontiertouring.com/signup">
+          <a href="/signup">
             Sign Up
           </a>
         </li>
@@ -870,7 +841,7 @@
           
         <!-- li 9 -->
         <li>
-          <a href="http://www.frontiertouring.com/passwordreset">
+          <a href="/passwordreset">
             Reset My Log In Password
           </a>
         </li>
@@ -878,7 +849,7 @@
           
         <!-- li 10 -->
         <li>
-          <a href="https://www.frontiertouring.com/update">
+          <a href="/update">
             Update My Details
           </a>
         </li>
@@ -894,7 +865,7 @@
                 
         <!-- li 11 -->
         <li>
-          <a href="https://www.frontiertouring.com/unsubscribe">
+          <a href="/unsubscribe">
             Unsubscribe
           </a>
         </li>
@@ -902,7 +873,7 @@
           
         <!-- li 12 -->
         <li>
-          <a target="_blank" href="http://www.frontiertouring.com/privacypolicy">
+          <a target="_blank" href="/page/privacypolicy">
             Privacy Policy
           </a>
         </li>
@@ -910,7 +881,7 @@
           
         <!-- li 13 -->
         <li>
-          <a href="http://www.frontiertouring.com/contact">
+          <a href="/contact">
             Contact
           </a>
         </li>
@@ -918,7 +889,7 @@
           
         <!-- li 14 -->
         <li>
-          <a href="http://www.frontiertouring.com/about">
+          <a href="/page/about">
             About
           </a>
         </li>
@@ -926,7 +897,7 @@
           
         <!-- li 15 -->
         <li>
-          <a href="http://www.frontiertouring.com/help">
+          <a href="/help">
             Help/FAQs
           </a>
         </li>
@@ -936,7 +907,7 @@
                         
         <!-- li 16 -->
         <li>
-          <a target="_blank" href="http://www.frontiertouring.com/terms-of-use">
+          <a target="_blank" href="/page/terms-of-use">
             Terms of Use
           </a>
         </li>
@@ -944,7 +915,7 @@
           
         <!-- li 17 -->
         <li>
-          <a href="http://www.frontiertouring.com/terms-of-sale">
+          <a href="/page/terms-of-sale">
             Terms Of Sale
           </a>
         </li>
@@ -964,7 +935,7 @@
 
           
         <li>
-          <a target="_blank" href="http://www.hangingrockconcerts.com">Hanging Rock Microsite</a>
+          <a target="_blank" href="http://www.frontiertouring.com//www.hangingrockconcerts.com">Hanging Rock Microsite</a>
         </li>
 
           
@@ -1018,7 +989,7 @@
 
           
         <li>
-          <a target="_blank" href="http://www.frontiertouring.com/privacypolicy">Privacy Policy</a>
+          <a target="_blank" href="http://www.frontiertouring.com/page/privacypolicy">Privacy Policy</a>
         </li>
 
           
@@ -1028,7 +999,7 @@
 
           
         <li>
-          <a href="http://www.frontiertouring.com/about">About</a>
+          <a href="http://www.frontiertouring.com/page/about">About</a>
         </li>
 
           
@@ -1038,12 +1009,12 @@
 
           
         <li>
-          <a target="_blank" href="http://www.frontiertouring.com/terms-of-use">Terms of Use</a>
+          <a target="_blank" href="http://www.frontiertouring.com/page/terms-of-use">Terms of Use</a>
         </li>
 
           
         <li>
-          <a href="http://www.frontiertouring.com/terms-of-sale">Terms Of Sale</a>
+          <a href="http://www.frontiertouring.com/page/terms-of-sale">Terms Of Sale</a>
         </li>
 
             </ul>
@@ -1052,7 +1023,7 @@
 
     <div class="small-10 medium-3 large-3 columns">
       <div class="ql-logotype right">
-        <a class="icon-frontier" href="http://www.frontiertouring.com/"><span></span><span class="accessibly_hidden">Frontier</span></a><a class="icon-mushroom" href="http://mushroomgroup.com/" target="_blank"><span></span><span class="accessibly_hidden">Part of the Mushroom Group</span></a>
+        <a class="icon-frontier" href="//www.frontiertouring.com/"><span></span><span class="accessibly_hidden">Frontier</span></a><a class="icon-mushroom" href="http://mushroomgroup.com/" target="_blank"><span></span><span class="accessibly_hidden">Part of the Mushroom Group</span></a>
       </div>
     </div>
   </div>
@@ -1060,38 +1031,31 @@
   <div class="row sign-off">
     <div class="small-10 medium-8 large-8 columns">
       <p class="left">
-        © 2016 Frontier Touring. All Rights Reserved.
+        © 2017 Frontier Touring. All Rights Reserved.
       </p>
       <ul class="inline-list left hide-for-print">
         <li>
-          <a href="http://www.frontiertouring.com/privacypolicy">Privacy Policy</a>
+          <a href="//www.frontiertouring.com/privacypolicy">Privacy Policy</a>
         </li>
         <li>
-          <a href="http://www.frontiertouring.com/sitemap">Sitemap</a>
+          <a href="//www.frontiertouring.com/sitemap">Sitemap</a>
         </li>
       </ul>
     </div>
     <div class="small-10 medium-2 large-2 columns hide-for-print">
       <div class="right">
-        <h6>Website by</h6>
-        <div class="bwlogo_container">
-	<style scoped="" type="text/css">
-		.bwlogo_container{height:30px;width:60px;background:transparent;}
-		.bwlogo{width:30px; height:30px; float:right; background-image:url("https://www.coredna.com/template_images/footer_icons/logo_white.png");}
-		.bwlogo.bwired{background-position:left top;}
-		.bwlogo.bwired:hover{background-position:left bottom;}
-		.bwlogo.coredna{background-position:right top;}
-		.bwlogo.coredna:hover{background-position:right bottom;}
-	</style>
-	<div class="bwlogo coredna"><a href="https://www.coredna.com/" title="Powered by CoreDNA" target="_blank"><img src="https://www.coredna.com/template_images/footer_icons/space.png" alt="Powered by CoreDNA" width="30" height="30"></a></div>
-	<div class="bwlogo bwired"><a href="http://www.bwired.com.au/" title="Website by bwired" target="_blank"><img src="https://www.coredna.com/template_images/footer_icons/space.png" alt="Website by bwired" width="30" height="30"></a></div>
-</div>
+        <a href="https://www.bwired.com.au/" class="bwired-global-footer" title="Website by bwired" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" overflow="hidden"><g fill-opacity="0.1"><title>Website design and development by bwired</title><desc>Website design and development by bwired - a full service digital agency based in Melbourne, Australia where your brands digital empowerment is our passion. We craft connected experiences and deliver measurable results for our clients whether we are collaborating to develop CMS generated responsive websites, e-commerce websites, mobile apps, intranets or campaign related experiences such as landing pages, content or social strategies, email marketing &amp; SEM.</desc><text>Our website strategists work as an extension of our clients marketing teams to develop inbound digital marketing strategies to attract, engage, and convert website visitors by leveraging the full power of content marketing. Our web site designers focus on the user experience through human centred design principles to create responsive, mobile friendly solutions that delight users and drive customer engagement. Our web site developers use best practices to create websites that perform, rank and are easily maintainable by digital marketers looking to consistently &amp; effectively generate content. Our Google certified specialists ensure that your brand is found where it matters most through social, organic and paid searches, through both on page and off page execution. They work with your analytical data and session tracking to identify opportunities to improve user experience and conversion. Find out more about bwired and our approach to digital marketing at www.bwired.com.au</text></g><circle cx="15" cy="15" r="15"></circle><g><path fill="#E12726" d="M22.2 20.3h2.34v2.33H22.2z"></path><path fill="#fff" d="M16 22.67c-1.44 0-2.58-.5-3.56-1.54v1.32H8.8V6.02h3.64v5.73c.95-1.12 2.1-1.66 3.55-1.66 2.74 0 5.53 2.14 5.53 6.26v.04c0 4.3-2.88 6.27-5.53 6.27zm-.87-9.44c-1.58 0-2.73 1.32-2.73 3.13v.04c0 1.82 1.15 3.14 2.73 3.14 1.6 0 2.75-1.32 2.75-3.13v-.04c0-1.78-1.17-3.13-2.75-3.13z"></path></g></svg>
+</a>
+<a href="https://www.coredna.com/" class="core-dna-global-footer" title="Powered by Core dna" target="_blank">
+	<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30"><circle cx="15" cy="15" r="15"></circle><path fill="#fff" d="M16.5 5.32c-2.94 0-5.28 2.4-5.28 5.27 0 2.9 2.4 5.26 5.27 5.26 2.9 0 5.25-2.4 5.25-5.27C21.8 7.7 19.4 5.3 16.5 5.3zm0 7.6c-1.28 0-2.3-1-2.3-2.28s1.02-2.3 2.3-2.3c1.25 0 2.28 1.03 2.28 2.3s-1.03 2.3-2.3 2.3zm-5.96 9.76c-1.27 0-2.3-1.03-2.3-2.3 0-1.26 1.03-2.3 2.3-2.3 1.27.02 2.3 1.04 2.3 2.3 0 1.28-1.03 2.3-2.3 2.3z"></path></svg>
+</a>
 
-        
-      </div>  
+      </div>
     </div>
   </div>
 </footer><!-- End of footer-quicklinks.html -->
+
 		        </div>
       </div>
 
@@ -1103,125 +1067,113 @@
     <section id="sidebar">
       <div class="secondary-links">
     <!-- <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x=0 y=0 width="100" height="1" viewBox="0 0 100 1" style="padding:0; margin:0; display:block; height:1px;"><title>Website design by bwired</title><g transform="translate(0,-5)"><text>Website design and development by bwired - a full service digital agency based in Melbourne, crafting connected experiences and delivering measurable results for our clients.</text><desc>Our website strategists work as an extension of our clients marketing teams to develop inbound digital strategies to attract, engage, and convert website visitors.</desc><text>Our website developers and designers specialise in developing search engine optimised (SEO), responsive, mobile friendly solutions that delight users.</text><text>Our Google certified specialists ensure that your brand is found where it matters most through social, organic and paid searches, through both on page and off page execution.</text><text>Talk to us about your next project at www.bwired.com.au</text></g></svg> -->
-        
-                <h6><a href="http://www.frontiertouring.com/tours">Tours</a></h6>
+
+                <h6><a href="//www.frontiertouring.com/tours">Tours</a></h6>
         <nav id="sideMenu-secondary">
           <ul class="nav-bar" id="sideMainNav-secondary">
             
-                	                                                  	                                                  	                                                  	                                                  	                                                    <li>
-                    <a title="Bliss n Eso" href="http://www.frontiertouring.com/blissneso">Bliss n Eso</a>
+                	                                                  	                                                  	                                                  	                                                    <li>
+                    <a title="alt-J" href="//www.frontiertouring.com/altj">alt-J</a>
                   </li>
                                   	                                                    <li>
-                    <a title="Blood Orange" href="http://www.frontiertouring.com/bloodorange">Blood Orange</a>
-                  </li>
-                                  	                                                  	                                                    <li>
-                    <a title="Bruce Springsteen and the E Street Band" href="http://www.frontiertouring.com/brucespringsteen">Bruce Springsteen and the E Street Band</a>
+                    <a title="Andy Grammer" href="//www.frontiertouring.com/andygrammer">Andy Grammer</a>
                   </li>
                                   	                                                    <li>
-                    <a title="Bruce Springsteen | Hanging Rock" href="http://www.frontiertouring.com/brucespringsteenhangingrock">Bruce Springsteen - Hanging Rock</a>
-                  </li>
-                                  	                                                  	                                                    <li>
-                    <a title="Cyndi Lauper &amp; Blondie" href="http://www.frontiertouring.com/cyndilauperblondie">Cyndi Lauper and Blondie</a>
-                  </li>
-                                  	                                                  	                                                    <li>
-                    <a title="Don Henley" href="http://www.frontiertouring.com/donhenley">Don Henley</a>
-                  </li>
-                                  	                                                  	                                                  	                                                  	                                                  	                                                  	                                                  	                                                    <li>
-                    <a title="Green Day" href="http://www.frontiertouring.com/greenday">Green Day</a>
-                  </li>
-                                  	                                                  	                                                  	                                                    <li>
-                    <a title="Jimmy Barnes" href="http://www.frontiertouring.com/jimmybarnes">Jimmy Barnes</a>
+                    <a title="Anna Netrebko &amp; Yusif Eyvazov" href="//www.frontiertouring.com/netrebko">Anna Netrebko &amp; Yusif Eyvazov</a>
                   </li>
                                   	                                                    <li>
-                    <a title="Jimmy Eat World" href="http://www.frontiertouring.com/jimmyeatworld">Jimmy Eat World</a>
-                  </li>
-                                  	                                                  	                                                    <li>
-                    <a title="Justin Bieber" href="http://www.frontiertouring.com/justinbieber">Justin Bieber</a>
-                  </li>
-                                  	                                                  	                                                  	                                                  	                                                  	                                                  	                                                    <li>
-                    <a title="Simple Minds &amp; The B-52s" href="http://www.frontiertouring.com/simplemindsb52s">Simple Minds and The B52s</a>
+                    <a title="Apia Good Times Tour" href="//www.frontiertouring.com/apiagoodtimes">Apia Good Times Tour</a>
                   </li>
                                   	                                                    <li>
-                    <a title="Teenage Fanclub" href="http://www.frontiertouring.com/teenagefanclub">Teenage Fanclub</a>
+                    <a title="Bliss n Eso" href="//www.frontiertouring.com/blissneso">Bliss n Eso</a>
                   </li>
                                   	                                                  	                                                    <li>
-                    <a title="Yellowcard" href="http://www.frontiertouring.com/yellowcard">Yellowcard</a>
+                    <a title="Ed Sheeran" href="//www.frontiertouring.com/edsheeran">Ed Sheeran</a>
                   </li>
-                                                  
+                                  	                                                  	                                                    <li>
+                    <a title="Fist Full Of Rock" href="//www.frontiertouring.com/fistfullofrock">Fist Full Of Rock</a>
+                  </li>
+                                  	                                                  	                                                    <li>
+                    <a title="Harry Styles" href="//www.frontiertouring.com/harrystyles">Harry Styles</a>
+                  </li>
+                                  	                                                  	                                                    <li>
+                    <a title="John Farnham" href="//www.frontiertouring.com/johnfarnham">John Farnham</a>
+                  </li>
+                                  	                                                    <li>
+                    <a title="Jon Stevens" href="//www.frontiertouring.com/jonstevens">Jon Stevens</a>
+                  </li>
+                                  	                                                    <li>
+                    <a title="Julia Jacklin" href="//www.frontiertouring.com/juliajacklin">Julia Jacklin</a>
+                  </li>
+                                  	                                                    <li>
+                    <a title="Keith Sweat" href="//www.frontiertouring.com/keithsweat">Keith Sweat</a>
+                  </li>
+                                  	                                                  	                                                    <li>
+                    <a title="LCD Soundsystem" href="//www.frontiertouring.com/lcdsoundsystem">LCD Soundsystem</a>
+                  </li>
+                                  	                                                    <li>
+                    <a title="Mark Seymour &amp; The Undertow" href="//www.frontiertouring.com/markseymour">Mark Seymour &amp; The Undertow</a>
+                  </li>
+                                  	                                                    <li>
+                    <a title="Midnight Oil" href="//www.frontiertouring.com/midnightoil">Midnight Oil</a>
+                  </li>
+                                  	                                                    <li>
+                    <a title="Midnight Oil - Hanging Rock" href="//www.frontiertouring.com/midnightoilhangingrock">Midnight Oil - Hanging Rock</a>
+                  </li>
+                                  	                                                    <li>
+                    <a title="One Electric Day" href="//www.frontiertouring.com/oneelectricday">One Electric Day</a>
+                  </li>
+                                  	                                                    <li>
+                    <a title="Queens Of The Stone Age" href="//www.frontiertouring.com/qotsa">Queens Of The Stone Age</a>
+                  </li>
+                                  	                                                    <li>
+                    <a title="Royal Blood" href="//www.frontiertouring.com/royalblood">Royal Blood</a>
+                  </li>
+                                  	                                                    <li>
+                    <a title="Ryan Adams" href="//www.frontiertouring.com/ryanadams">Ryan Adams</a>
+                  </li>
+                                  	                                                    <li>
+                    <a title="Shawn Mendes" href="//www.frontiertouring.com/shawnmendes">Shawn Mendes</a>
+                  </li>
+                                  	                                                  	                                                                  
             </ul>
         </nav>
         
-        <h6><a href="http://www.frontiercomedy.com/">Comedy</a></h6>
+        <h6><a href="//www.frontiercomedy.com/">Comedy</a></h6>
         <nav id="sideMenu-secondary2">
           <ul class="nav-bar" id="sideMainNav-secondary2">
             
                                                                 <li>
-                  <a title="Alex Williamson" class="icon-comedy2" href="http://www.frontiercomedy.com/alexwilliamson">Alex Williamson</a>
+                  <a title="Alan Cumming" class="icon-comedy2" href="//www.frontiercomedy.com/alancumming">Alan Cumming</a>
                 </li>
                                                                                 <li>
-                  <a title="Alice Fraser" class="icon-comedy2" href="http://www.frontiercomedy.com/alicefraser">Alice Fraser</a>
+                  <a title="Alex Williamson" class="icon-comedy2" href="//www.frontiercomedy.com/alexwilliamson">Alex Williamson</a>
                 </li>
                                                                                 <li>
-                  <a title="Amos Gill" class="icon-comedy2" href="http://www.frontiercomedy.com/amosgill">Amos Gill</a>
+                  <a title="Alice Fraser" class="icon-comedy2" href="//www.frontiercomedy.com/alicefraser">Alice Fraser</a>
                 </li>
-                                                                                <li>
-                  <a title="Ash Williams" class="icon-comedy2" href="http://www.frontiercomedy.com/ashwilliams">Ash Williams</a>
-                </li>
-                                                                                                                                                                                <li>
-                  <a title="Bridget Everett" class="icon-comedy2" href="http://www.frontiercomedy.com/bridgeteverett">Bridget Everett</a>
-                </li>
-                                                                                                                                                                                <li>
-                  <a title="Chris D'Elia" class="icon-comedy2" href="http://www.frontiercomedy.com/chrisdelia">Chris D'Elia</a>
+                                                                                                                                                                                                                                                                                                                                <li>
+                  <a title="Bridget Everett &amp; Murray Hill" class="icon-comedy2" href="//www.frontiercomedy.com/bridgetandmurray">Bridget Everett &amp; Murray Hill</a>
                 </li>
                                                                                                                                 <li>
-                  <a title="Dixie Longate" class="icon-comedy2" href="http://www.frontiercomedy.com/dixielongate">Dixie Longate</a>
+                  <a title="Effie - The Virgin Bride" class="icon-comedy2" href="//www.frontiercomedy.com/effie">Effie The Virgin Bride</a>
                 </li>
                                                                                                                                 <li>
-                  <a title="Em Rusciano" class="icon-comedy2" href="http://www.frontiercomedy.com/emrusciano">Em Rusciano</a>
-                </li>
-                                                                                <li>
-                  <a title="Em Rusciano's BIG Mardi Gras Comedy Podcast" class="icon-comedy2" href="http://www.frontiercomedy.com/emruscianomardigras">Em Rusciano's Big Mardi Gras Comedy Podcast</a>
-                </li>
-                                                                                <li>
-                  <a title="Emily Tresidder" class="icon-comedy2" href="http://www.frontiercomedy.com/emilytresidder">Emily Tresidder</a>
-                </li>
-                                                                                <li>
-                  <a title="Eric Andre" class="icon-comedy2" href="http://www.frontiercomedy.com/ericandre">Eric Andre</a>
-                </li>
-                                                                                <li>
-                  <a title="Frenchy" class="icon-comedy2" href="http://www.frontiercomedy.com/frenchy">Frenchy</a>
-                </li>
-                                                                                <li>
-                  <a title="Gillian Cosgriff" class="icon-comedy2" href="http://www.frontiercomedy.com/gilliancosgriff">Gillian Cosgriff</a>
+                  <a title="Frenchy" class="icon-comedy2" href="//www.frontiercomedy.com/frenchy">Frenchy</a>
                 </li>
                                                                                                                                 <li>
-                  <a title="Jeff Green" class="icon-comedy2" href="http://www.frontiercomedy.com/jeffgreen">Jeff Green</a>
+                  <a title="Jim Gaffigan" class="icon-comedy2" href="//www.frontiercomedy.com/jimgaffigan">Jim Gaffigan</a>
+                </li>
+                                                                                                                                                                                                                                                                                <li>
+                  <a title="Khaled Khalafalla" class="icon-comedy2" href="//www.frontiercomedy.com/khaledkhalafalla">Khaled Khalafalla</a>
+                </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li>
+                  <a title="Star-Spangled Stand-Up" class="icon-comedy2" href="//www.frontiercomedy.com/starspangledstandup">Star-Spangled Stand-Up</a>
                 </li>
                                                                                 <li>
-                  <a title="Jim Jefferies NZ" class="icon-comedy2" href="http://www.frontiercomedy.com/jimjefferiesnz">Jim Jefferies NZ</a>
+                  <a title="Vir Das" class="icon-comedy2" href="//www.frontiercomedy.com/virdas">Vir Das</a>
                 </li>
-                                                                                                                                                                                <li>
-                  <a title="Josh Wade" class="icon-comedy2" href="http://www.frontiercomedy.com/joshwade">Josh Wade</a>
-                </li>
-                                                                                                                                <li>
-                  <a title="Late Night Letters and Numbers" class="icon-comedy2" href="http://www.frontiercomedy.com/latenightlettersandnumbers">Late Night Letters and Numbers</a>
-                </li>
-                                                                                <li>
-                  <a title="Liam Ryan" class="icon-comedy2" href="http://www.frontiercomedy.com/liamryan">Liam Ryan</a>
-                </li>
-                                                                                <li>
-                  <a title="Mardi Gras Comedy Festival" class="icon-comedy2" href="http://www.frontiercomedy.com/mardigras">Mardi Gras Comedy Festival</a>
-                </li>
-                                                                                <li>
-                  <a title="Neel Kolhatkar" class="icon-comedy2" href="http://www.frontiercomedy.com/neelkolhatkar">Neel Kolhatkar</a>
-                </li>
-                                                                                <li>
-                  <a title="Panti Bliss" class="icon-comedy2" href="http://www.frontiercomedy.com/pantibliss">Panti Bliss</a>
-                </li>
-                                                                                                                                                                                <li>
-                  <a title="The Wudidonga Arts Revue" class="icon-comedy2" href="http://www.frontiercomedy.com/wudidongaartsrevue">The Wudidonga Arts Revue</a>
-                </li>
-                                                                                                
+                                                
           </ul>
         </nav>
 
@@ -1230,28 +1182,28 @@
         <nav id="sideMenu" role="navigation">
           <ul class="nav-bar" id="sideMainNav">
             <li>
-              <a href="http://www.frontiertouring.com/index.php">Home</a>
+              <a href="//www.frontiertouring.com/index.php">Home</a>
             </li>
             <li>
-              <a href="http://www.frontiertouring.com/pasttours">Past Tours</a>
+              <a href="//www.frontiertouring.com/pasttours">Past Tours</a>
             </li>
             <li>
-              <a href="http://www.frontiertouring.com/photos">Photos</a>
+              <a href="//www.frontiertouring.com/photos">Photos</a>
             </li>
             <li>
-              <a href="http://www.frontiertouring.com/help">FAQ</a>
+              <a href="//www.frontiertouring.com/help">FAQ</a>
             </li>
             <li>
-              <a href="http://www.frontiertouring.com/contact">Contact</a>
+              <a href="//www.frontiertouring.com/contact">Contact</a>
             </li>
             <li>
-                              <a href="http://www.frontiertouring.com/login">Log in</a>
+                              <a href="//www.frontiertouring.com/login">Log in</a>
                           </li>
             <li>
-              <a href="https://www.frontiertouring.com/unsubscribe">Unsubscribe</a>
+              <a href="//www.frontiertouring.com/unsubscribe">Unsubscribe</a>
             </li>
             <li>
-              <a href="http://www.frontiertouring.com/signup">Sign up</a>
+              <a href="//www.frontiertouring.com/signup">Sign up</a>
             </li>
           </ul>
         </nav>
@@ -1306,7 +1258,7 @@
     </script>
 
 
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"24fe916fc1","applicationID":"1855207,1855213,15675271","transactionName":"NlxRNktYXBEABRBRXw8WcBdKTV0PTgULSlUFV1JNW1VdAQpJBVxGBEtHC0pcXwcPEktLWA5ObANdSg==","queueTime":0,"applicationTime":22,"atts":"GhtGQANCT05DB0YCSxxE","errorBeacon":"bam.nr-data.net","agent":""}</script>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"24fe916fc1","applicationID":"23008218,1855213,15675271","transactionName":"NlxRNktYXBEABRBRXw8WcBdKTV0PTgULSlUFV1JNW1VdAQpJCFlJDkxHTUpRXRU+AAtXRARL","queueTime":0,"applicationTime":2,"atts":"GhtGQANCT05DB0YCSxxE","errorBeacon":"bam.nr-data.net","agent":""}</script>
   
 
-	<!-- coredna.heartbeat 1482247568.0305 --></body></html>
+	<!-- coredna.heartbeat 1495854485.0713 --></body></html>
