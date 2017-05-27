@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schedulefly.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206192927id_/http%3A//www.schedulefly.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schedulefly.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527043835id_/http%3A//www.schedulefly.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Simple Restaurant Staff Scheduling and Communication Software
 
