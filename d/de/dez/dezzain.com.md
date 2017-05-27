@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the dezzain.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121132513id_/http%3A//www.dezzain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dezzain.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527184849id_/http%3A//www.dezzain.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DEZZAIN.COM
+
+[](http://www.dezzain.com/ "DEZZAIN.COM - SEO Tips, Business and Development Guides")
+
+[DEZZAIN.COM](http://www.dezzain.com/ "DEZZAIN.COM - SEO Tips, Business and Development Guides")Dezzain is a website about search engine optimization tutorials, offline or online business development guides, web tools, services and hosting reviews.
 
 At **Dezzain.com** we have no intention of trying to capture any of your personal information, and we do not use cookies to track your online activity. You have no reason to be concerned about the use of your personal information because we’ll never ask you for it.
 
@@ -26,8 +30,4 @@ We use outside advertising companies to display ads on this blog. These ads may 
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-<http://www.dezzain.com/privacy-policy/>Privacy Policy2010-01-25T21:50:26+00:00Richie KS Article
-
-This is the privacy policy page for Dezzain.com. We have no intention of trying to capture any of your personal information, and we do not use cookies to track your online activity.
-
-Richie KS[https://plus.google.com/115731118758085402501](https://plus.google.com/115731118758085402501?rel=author)Richard Kiewrkcorp@dezzain.comAdministratorThe creator and author of Dezzain.com. He also a WordPress, BuddyPress, BBPress and Ecommerce Theme Developer.DEZZAIN.COM
+<http://www.dezzain.com/privacy-policy/>Privacy Policy2010-01-25T21:50:26+00:00Richie KS ArticleThis is the privacy policy page for Dezzain.com. We have no intention of trying to capture any of your personal information, and we do not use cookies to track your online activity. Richie KS[https://plus.google.com/115731118758085402501](https://plus.google.com/115731118758085402501?rel=author)Richard Kiewrkcorp@dezzain.comAdministratorThe creator and author of Dezzain.com. He also a WordPress, BuddyPress, BBPress and Ecommerce Theme Developer.DEZZAIN.COM
