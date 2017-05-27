@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savannahnow.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122102259id_/http%3A//savannahnow.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savannahnow.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527173151id_/http%3A//savannahnow.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
