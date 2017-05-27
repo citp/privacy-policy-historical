@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playcow.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315081041id_/http%3A//www.playcow.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playcow.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527135307id_/http%3A//www.playcow.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Games, Walkthroughs, Help, Hints and Hacked Version
 
