@@ -1,97 +1,143 @@
-> *The following text is extracted and transformed from the cafepress.ca privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125135423id_/http%3A//www.cafepress.ca/cp/info/help/index.aspx%3Fpage%3Dprivacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafepress.ca privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528014505id_/http%3A//www.cafepress.ca/cp/info/help/index.aspx%3Fpage%3Dprivacy_policy.aspx) for the most accurate reproduction.*
 
-# CafePress.com : Customer Service : Privacy Policy
+# CafePress Privacy Statement
 
-**Effective Date: April 24, 2013**
+Effective: May 2016
 
-CafePress values the users of the www.cafepress.ca website (the "Website"). Your privacy and trust are very important to us. We recognize that you may be concerned about our collection, use, and disclosure of the personally identifiable information ("Personal Information") that we collect when you use the Website and the services offered on or through the Website ("CafePress Service"). This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it. By using the Website you are accepting the practices described in this Privacy Policy. If you have any questions or comments regarding this Privacy Policy, please contact us at [privacy@cafepress.com](mailto:privacy@cafepress.com).
+CafePress values the trust you place in us when you use CafePress.com and our affiliated websites, applications or tools (collectively, our “Websites”).Your privacy and trust are important to us and who we are as a company.This Privacy Statement describes our collection, use, disclosure, retention, and protection of your information. This Privacy Statement applies to our Websites that link to it, regardless of how you access or use them, including through mobile devices.
 
-## Does CafePress Ever Make Changes to its Privacy Policy?
+By using our services and/or registering with us, you are accepting the terms of this privacy statement and our user agreement, and you are consenting to our collection, use, disclosure, retention, and protection of your personal information as described in this privacy statement. If you do not provide the information we require, we may not be able to provide all of our services to you.
 
-We may make changes to the Privacy Policy from time to time. We will notify you of any material changes by sending you an email, posting a notice on the home page of the Website, or posting a notice in your account when you first login after we have made changes. If you receive notification of a change in our Privacy Policy, you must review the new Privacy Policy carefully to make sure you understand our practices and procedures. If any change is unacceptable to you, your only recourse is to not use the Website or CafePress Service. Your continued use of the Website and CafePress Service following posting of a change notice or new Privacy Policy on the Website will constitute binding acceptance of the changes.
+If you do not agree to the terms of this Privacy Statement, please do not use our Websites. We may make changes to this Privacy Statement from time to time. We will post any changes to our Websites. Your continued use of our Websites following the posting of any changes will mean you accept those changes.
 
-## What Types of Information Does CafePress Collect From Me?
+  * Information we collect about you
+  * How we use your information
+  * How we share your information with others
+  * Tracking and interest-based advertising
+  * How We Secure Your Information
+  * How to Access and Modify your information
+  * How to limit the use of your information
+  * Other important information
+  * Questions or report a problem
 
-**Personal Information.** We collect Personal Information that you provide to us, such as your name, mailing address, phone number, email address, credit card number, and financial information.
 
-**Non-Personal Information.** We also collect non-personal information from you, such as your browser type, the URL of the previous website you visited, your ISP, operating system, a unique identifier for your computer and your Internet protocol (IP) address ("Non-Personal Information"). Non-Personal Information cannot be easily used to personally identify you.
 
-## How and When Does CafePress Collect This Information?
+## Information we collect about you
 
-**Providing Information to CafePress.** We collect Personal Information from you when you provide it to us. For example, if you purchase a product sold through a shop or the marketplace, we may collect your name, mailing address, telephone number, credit card number, and email address. If you create a Content Owner Account, we may collect your name, tax identification number, mailing address, email address, other information that we request during the registration process, and any information that you post on the Website. If you sign up to receive a newsletter, we will collect your email address.
+We collect, process, and retain information from you and any devices (including mobile devices) you may use when you use our Websites or services, register for an account with us, provide us information on a web form, update or add information to your account, participate in community discussions, chats, or dispute resolution, or when you otherwise correspond with us. The specific information we collect depends upon your use of the Websites, as described below.
 
-**Communications with CafePress.** If you communicate with us regarding the Website or the CafePress Service, we will collect any information that you provide to us in any such communication.
+Information You Give Us: We receive and store information you enter on our Websites or give us in any other way, including your name, physical address, phone number, email address, and payment information.
 
-**Analytic and Reporting Technologies.** Like the operators of most websites, we use analytic and reporting technologies to record Non-Personal Information such as Internet domain and host names, Internet protocol (IP) addresses, browser software, operating system types, clickstream patterns, Website activity and the dates and times that the Website and the CafePress Service are accessed. We also contract with several online partners to help manage, monitor and optimize our Website and the CafePress Service and to help us measure the effectiveness of our advertising, communications, services and how visitors use the Website. To do this, we may use cookies, web beacons, or other types of tracking pixels.
+Information About Your Interaction With Our Websites: We collect information about your interactions with our Websites, such as the purchases you make or the advertisements you view.
 
-**Signing In via Social Network Account.** CafePress may allow you to sign in to a CafePress website or application using a social networking account, such as a Facebook account. These social networking sign-on features may also enable you to create an account more easily by prepopulating our registration form with the information you provided to the social networking site. Typically, the first time you use one of these sign-on services, the social networking site will inform you of the information that will be shared with CafePress. We may use that information for purposes described in this Privacy Policy. To learn more about what information the social networking site collects when you use it to sign in to our website or application, please refer to the privacy policy for that social networking site.
+Information We Automatically Collect: We receive and store certain types of information whenever you interact with us or our Websites. Our Websites use “cookies,” tagging and other tracking technologies to help enable you to shop on our Websites, and enable us to enhance or personalize your online browsing and shopping experience. This information includes computer and connection information such as statistics on your page views, traffic to and from our Websites, referral URL, ad data, your IP address, and device identifiers; this information may also include your browsing history, transaction history, and your web log information.
 
-## How Does CafePress Use My Information?
+Location Information: When you download or use apps created by CafePress or our subsidiaries, we may receive information about your location and your mobile device, including a unique identifier for your device. Geo-location information allows us to provide location-based services, such as advertising, search results, and other personalized content.
 
-**Personal Information.** We use Personal Information primarily for our own internal purposes, such as providing, maintaining, evaluating, personalizing and improving the CafePress Service and the Website, fulfilling requests for information, fulfilling orders, administering accounts, producing and shipping the products that you order, and providing customer support. For example, if you create a Content Owner Account, we will use the information that you provide us to communicate with you and pay you any royalties that you earn. Similarly, if you sign up to receive a CafePress newsletter, we will use the email address you provide to send you the newsletters.
+Information From Social Media and Other Sites: When you interact with our Websites or services on a social media platform, we may collect the personal information that you make available to us on that page, including your account ID or username and other information included in your posts. If you choose to log in to your CafePress account with or through a social networking service, CafePress and that service may share certain information about you and your activities.
 
-**Non-Personal Information.** We use Non-Personal Information to track the use of the Website and the CafePress Service and for other internal purposes, such as providing, maintaining, evaluating, and improving the CafePress Service and the Website.
+Information From Other Sources: We may supplement the personal information we collect with information from third parties and add it to your account information. Information from third parties may include, but is not limited to, demographic information that is publically available, additional contact information, group affiliations, occupational information, and educational background.
 
-## When Will CafePress Disclose My Information to Third Parties?
+## How we use your information
 
-**Disclosure to Successors.** We may disclose your Personal Information to any successor-in-interest of ours, such as a company that acquires us. In the event CafePress goes through a business transition, such as a merger or acquisition by or with another company, or sale of all or a portion of our assets, your Personal Information will likely be among the assets transferred. You will be notified via email or by a notice on our Website of any such change in ownership or control of your Personal Information.
+We use your information to help us personalize and continually improve your experience on the Websites, including fulfilling your orders and requests for information, analyzing and compiling trends and statistics, and communicating with you. For information about how to manage your information and the choices you have, see how to limit the use of your information below.
 
-**Disclosure to Unaffiliated Third Parties.** We may disclose your Personal Information to prevent an emergency, to prevent harm to others, to respond to legal requirements, to protect or enforce our rights and policies, to protect or enforce the rights of a third party, or as required or permitted by law (including without limitation, to comply with an order made by a court or regulatory body). In particular, if you are a Content Owner, we may disclose your information to a third party that alleges that you have infringed their intellectual property rights through the products sold through your shop. Similarly, if you allege that a Content Owner is infringing upon your intellectual property rights, we may disclose your information to that Content Owner.
+General Uses
 
-**Disclosure to Third Party Service Providers and Online Partners.** We may contract with various third parties who help us provide, maintain and improve the Website and the CafePress Service. For example, we use a third party to process payments made to us, and may subcontract out production, fulfillment, analytics, reporting or other operations. We also contract with several online partners to help manage, monitor and optimize our Website and the CafePress Service and to help us measure the effectiveness of our advertising, communications and how visitors use the Website. We will use commercially reasonable efforts to prevent such third parties from disclosing your Personal Information, except for the purpose of providing the services. We cannot guarantee that such third parties will not disclose your Personal Information. CafePress does not share, rent or trade your Personal Information with third parties for their promotional purposes.
+We may use your information to:
 
-**Disclosure to Content Owners.** If you purchase a product from a shop, CafePress may provide your name, and the city and state information provided by you to the Content Owner. In the Content Owner Agreement, CafePress contractually obligates each Content Owner not to use or disclose this information for any purposes other than internal record keeping and for marketing their shops. We cannot guarantee all Content Owners will comply with this obligation. You will only receive marketing materials from a Content Owner if you have opted in to receive marketing communications and you may opt out at any time.
+  * Provide, maintain, and improve the Websites for internal or other business purposes;
+  * Fulfill requests for information;
+  * Provide, produce, and ship the products that you order or the services you request;
+  * Provide customer support;
+  * Track and evaluate the use of the Websites;
+  * Communicate with you about your Customer Account, Content Owner Account, profile or transactions with us, or changes to our policies or terms;
+  * Send you information about features and enhancements on or to our Websites;
+  * Send you newsletters or other materials;
+  * Send you offers or other communications about our products and services, such as special or promotional events, including services, products, or events for which we collaborate or co-offer with a third party;
+  * Administer contests, sweepstakes, promotions, and surveys;
+  * Detect, investigate, and prevent activities that may violate our policies or be fraudulent or illegal;
+  * Optimize or improve our products, services and operations; and
+  * Perform statistical, demographic, and marketing analyses of users of the Websites and their viewing patterns.
 
-**Disclosure of Non-Personal Information.** We will disclose Non-Personal Information, in aggregate form, to potential strategic partners, advertisers, investors, customers, and others. You may not opt out of the sharing of this information. However, it cannot be easily used to identify you personally.
 
-**Internet Advertising.** We may use third party service providers to serve ads on our behalf across the Internet and sometimes on the Website. They may collect anonymous information about your visits to our Website, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a web beacon, which is industry standard technology used by most major websites. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service providers, please click here.
 
-## What About Cookies and Web Beacons?
+We may use the information from one portion of the Websites on other portions of the Websites, and we may combine information gathered from multiple portions of the Websites into a single record. We may also use or combine information that we collect offline or we collect or receive from third-party sources for many reasons, including to enhance, expand, and check the accuracy of our records.
 
-A cookie is a small file placed on the hard drive of your computer. Most websites use cookies. We use cookies to track your use of the Website and the CafePress Service, analyze Website activity, provide you with a more personalized and effective user experience, and to allow you to login and begin use of the CafePress Service automatically when you visit the Website.
+## Tracking and interest-based advertising
 
-A web beacon is an often-transparent graphic image, usually no larger than a 1x1 pixel that is placed on a web page or in an e-mail that is used to monitor the behavior of the user visiting the Website or receiving the e-mail.
+Like many websites, we use tracking technologies such as cookies, web beacons and similar technologies to record your preferences, track the use of our Websites and exposure to our online advertisements. We may also use these technologies to monitor traffic, improve the Websites, and make it easier to use and more relevant.
 
-Cookies and web beacons used by CafePress and our online partners are not linked to Personal Information. Some of our Content Owners may use cookies or web beacons on our Website. We have no access to or control over these cookies and web beacons. This Privacy Policy covers the use of cookies and web beacons by CafePress and our online partners only and does not cover the use of cookies or web beacons by any other third party, Content Owner or advertiser.
+We partner with third party advertising companies who also use these tracking tools to provide advertisements on our Websites or other websites. These third parties may use these technologies to collect information about you when you use the Websites. They may collect information about your online activities over time and across different websites and other online services. They may also use persistent identifiers to track your Internet usage across other websites in their networks beyond the Websites. They may use this information to provide you with interest-based advertising or other targeted content. While we do not knowingly provide these entities with information that personally identifies you such third parties may, with sufficient data from other sources, be able to personally identify you, unknown to us. To learn more about the third-party collection and use of your information, please visit the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp) and/or the [Digital Advertising Alliance](http://www.aboutads.info/choices/).
 
-Most browsers allow you to turn off cookies or to receive a warning before a cookie is stored on your hard drive. Please refer to your browser instructions or help screen to learn more about how to do this. Please note that if you disable any cookies we place on your computer you may not be able to access certain areas or use certain services on the Website.
+Some content or applications, including advertisements, on the Websites may be served by unaffiliated third parties. We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement, you should contact the responsible advertiser directly. We are not responsible for the content or privacy practices on any website not operated by CafePress to which our Websites link or that link to our Websites.
 
-## Internet-based Transfers
+Your browser or device may include “Do Not Track” functionality. CafePress’ information collection and disclosure practices, and the choices that we provide to customers, will continue to operate as described in this Privacy Statement, whether or not a Do Not Track signal is received.
 
-Given that the Internet is a global environment, using the Internet to collect and process Personal Information necessarily involves the transmission of data on an international basis. By providing CafePress with your Personal Information you acknowledge and agree that we may store your Personal Information and transfer it to and from our servers located in the United States and throughout the world. We endeavour to protect all Personal Information collected through the Website in a safe, confidential and secure manner.
+## How we secure your information
 
-## Does CafePress Protect My Personal Information?
+We do our best to provide you with a safe and convenient shopping experience. Our Websites incorporate physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including the use of encryption, firewalls, limited access and other controls where appropriate. While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
 
-**Personal Information.** Whenever we obtain your Personal Information, we use commercially reasonable efforts to protect it from unauthorized access or disclosure. However, we are not insurers of the security of your Personal Information. Accordingly, we assume no liability for any disclosure of data due to errors in transmission, unauthorized third party access or other acts of third parties, or acts or omissions beyond our reasonable control.
+You can help protect the privacy of your own information by using encryption and other techniques to prevent unauthorized interception of your personal information. You are responsible for the security of your information when using unencrypted, public or otherwise unsecured networks.
 
-**Website Content.** The content that you store, post, or transmit on or through the Website, such as message board postings, storefront pages, and images on your products, may be accessed by other users, including people that you do not know. We are not responsible for the actions of others. Therefore, you should use care in communicating with other users and only disclose your Personal Information to other users that you know to be trustworthy. You should not assume that your content will be kept private.
+## How to access and modify your information
 
-## How Can I Review and Make Changes to My Personal Information?
+We take steps to ensure that the personal information we collect is accurate and up to date, and that you have the ability to access and make corrections to it. This includes:
 
-You have a right to access the Personal Information held about you and you can obtain a copy of and request that we correct errors in your Personal Information by emailing us at [privacy@cafepress.com](mailto:privacy@cafepress.com). For your protection, you will be required to provide proof of your identity to obtain a copy of your Personal Information. If your Personal Information changes or if you no longer want to use the CafePress Service, you may correct, update or deactivate your Personal Information and/or your account through the account management screen. If you would like to deactivate or terminate your account you can also contact [Customer Service](http://help.cafepress.com/hc/s-74058960/cmd/kbresource/kb-6097643737278397423/escalate!PAGETYPE).
+  1. Giving you the ability to see, review, and change your personal information by signing in to your account at CafePress.com.
+  2. Honoring any statutory right you might have to access, modify or erase your personal information. To request access and to find out whether any fees may apply, if permitted by applicable state, federal, or national law (outside of the United States), please contact [privacy@cafepress.com](mailto:privacy@cafepress.com).
 
-## Security
 
-The security of your Personal Information is important to us. When you enter sensitive information such as a credit card number and/or social security number on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
 
-We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+We may not be able to delete your personal information without also deleting your user account. You will not be permitted to examine the personal information of any other person or entity. In order to verify your identity, you may be required to provide us with personal information prior to accessing any records containing information about you. We may not accommodate a request to change or delete personal information if we believe doing so would violate any law or legal requirement, or cause the information to be incorrect.
 
-## Does This Privacy Policy Apply When I Access Third Party Websites?
+## How to limit the use of your information
 
-You may be able to access third party websites directly from the Website. This Privacy Policy does not apply when you access third party websites. We cannot control how third parties may use Personal Information you disclose to them, so you should carefully review the privacy policy of any third party website you visit before using it or disclosing your Personal Information to its provider.
+In many instances, you have choices about the information you provide and limiting how we use your information. These choices, and any related consequences, are described in detail below.
 
-## What About Children's Privacy?
+Personal Information: You may choose not to provide your personal information, such as your name, address, phone number or payment information, but then you might not be able to take advantage of many of our site and/or checkout features.
 
-**Under Thirteen.** The CafePress Service is intended for users ages 13 and older only. Accordingly, we will not knowingly collect or use any Personal Information from children that we know to be under the age of 13. In addition, we will delete any information in our database that we know originates from a child under the age of 13.
+Emails, Newsletters, and other Communications: When you create an account through our Websites, you are required to provide us with an accurate e-mail address through which we may contact you. Registration through our Websites or apps constitutes your express acknowledgment that CafePress may use your e-mail address to communicate with you about product offerings from CafePress, its affiliates, selected vendors, and/or partners. While you cannot opt-out of receiving notifications and other communications regarding your account or your transactions, you can opt-out of receiving newsletters and promotional emails and other marketing communications from us by using the “unsubscribe” feature in our marketing e-mails or contacting Customer Service.
 
-**Thirteen to Seventeen.** Prospective users between the ages of 13 and 17 can only use the CafePress Service under the supervision of a parent or legal guardian. If you are between the ages of 13 and 17, you, your parent, or your legal guardian may request that we deactivate any of your Personal Information in our database and/or opt out from receiving communications from us. If you wish to do so, please contact us at [privacy@cafepress.com](mailto:privacy@cafepress.com).
+Location Tracking: Most mobile devices allow you to control or disable the use of location services by any application on your mobile device through the device’s settings’ menu.
 
-## Can I Opt-Out From Receiving Communications From CafePress?
+Online Tracking and Interest-Based Advertising: You also have choices to limit some tracking mechanisms that collect information when you use the Websites. Many web browsers automatically accept cookies, but you can usually modify your browser’s setting to decline cookies if you prefer. If you choose to decline cookies, certain features of our Websites, including the Websites themselves, may not function properly or remain accessible to you. In addition, you may also render some web beacons unusable by rejecting or removing their associated cookies. Note that if you choose to remove cookies, you may remove opt-out cookies that affect your advertising preferences.
 
-We provide you the opportunity to opt out of having your Personal Information used for certain purposes. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
+You may opt out of tracking of analytics data by Google Analytics, one of our customer usage analytics providers, by clicking [here](http://www.google.com/intl/en/policies/privacy/).
 
-If you no longer wish to receive our newsletters and promotional communications, you may opt out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@cafepress.com](mailto:privacy@cafepress.com).We also offer you an opportunity to opt-out of certain communications through the account management screen. If you need assistance you may contact us at [privacy@cafepress.com](mailto:privacy@cafepress.com); [Customer Service](http://help.cafepress.com/hc/s-74058960/cmd/kbresource/kb-6097643737278397423/escalate!PAGETYPE); or via mail sent to 1850 Gateway Drive, Suite 300, San Mateo, California 94404, USA.
+Many of the third party advertisers that place tracking tools on our Websites are members of programs that offer you additional choices regarding the collection and use of your information. You can learn more about the options available to limit these third parties’ collection and use of your information by visiting the websites for the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance](http://www.youradchoices.com/aboutus.aspx), as well as the webpages for [Facebook’s ad preferences tool](https://www.facebook.com/about/ads/) and [privacy policy](https://www.facebook.com/policy.php).
 
-If we disclose your Personal Information to a third party in a manner that is not set forth in this Privacy Policy you will be notified so that you can make an informed choice about sharing your Personal Information with that third party.
+Similarly, you can learn about your options to opt-out of mobile app tracking by certain advertising networks through your device settings. For more information about how to change these settings for Apple, Android or Windows devices, see:
 
-**top**
+Apple: <http://support.apple.com/kb/HT4228>
+
+Android: <http://www.google.com/policies/technologies/ads/>
+
+Windows: <http://choice.microsoft.com/en-US/opt-out>
+
+Please note that opting-out of advertising networks services does not mean that you will not receive advertising while using our Websites or on other websites, nor will it prevent the receipt of interest-based advertising from third parties that do not participate in these programs. It will, however, exclude you from interest-based advertising conducted through participating networks, as provided by their policies and choice mechanisms.
+
+## Other Important Information
+
+Users Under Thirteen: Our Services are intended for users ages 13 and older only. Accordingly, we will not knowingly collect or use any personal information from children that we know to be under the age of 13. In addition, we will delete any information in our database that we know originates from a child under the age of 13.
+
+Users Thirteen to Seventeen: Prospective users between the ages of 13 and 17 can only use our Services under their parents or legal guardians supervision. If you are between the ages of 13 and 17, you, your parent, or your legal guardian may request that we deactivate any of your personal information in our database and/or opt-out from receiving communications from us. If you wish to do so, please contact us at [privacy@cafepress.com](mailto:privacy@cafepress.com).
+
+Users Outside of the United States: If you use our Websites outside of the United States, you understand and consent to the transfer of your personal information to, and the collection, processing, and storage of your personal information in, the United States and other countries. The laws in the U.S. regarding personal information may be different than the laws of your state or country.
+
+Notice to California Residents: If you are a California resident, California Civil Code Section 1798.83 permits you to request certain information regarding the disclosure of your personal information by CafePress and its related companies to third parties for the third parties direct marketing purposes. To make such a request, please send your request, by mail, to:
+
+CafePress Inc.  
+Attn: Legal - CA Privacy  
+11909 Shelbyville Road  
+Louisville, KY 40243 
+
+## Questions or report a problem
+
+For questions about our Privacy Statement, to make choices about receiving promotional communications, to update your personal information, or to place an order, you can contact CafePress Inc. by email, telephone or postal mail:
+
+CafePress Customer Service  
+6901 A Riverport Drive  
+Louisville, KY 40258  
+(877) 809-1659  
+Email: [Customer Service](http://help.cafepress.com/hc/s-74058960/cmd/kbresource/kb-895837539590351752/escalate!PAGETYPE)
