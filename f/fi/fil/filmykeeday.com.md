@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmykeeday.com privacy policy that was archived on 2016-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160902075630id_/http%3A//www.filmykeeday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmykeeday.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527023233id_/https%3A//www.filmykeeday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
