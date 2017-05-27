@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdsentinel.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000736id_/http%3A//www.hdsentinel.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdsentinel.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527033059id_/http%3A//www.hdsentinel.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy and information use
 
@@ -6,7 +6,7 @@
 
 ### Introduction
 
-Our company respects each individual's right to personal privacy. We will collect and use information through our Web site and products only in the ways disclosed in this statement. This statement applies solely to information collected at [www.hdsentinel.com](http://www.hdsentinel.com/) Web site, and through software available from that site.
+Our company respects each individual's right to personal privacy. We will collect and use information through our Web site and products only in the ways disclosed in this statement. This statement applies solely to information collected at [www.hdsentinel.com](https://www.hdsentinel.com/) Web site, and through software available from that site.
 
 This Privacy Policy describes the policies and procedures of H.D.S. Hungary, concerning the collection, use and disclosure of personally identifiable information. H.D.S. Hungary receives such information through the pages of our web site, services and software. When using any of our Services, you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
@@ -47,6 +47,6 @@ Our Services are not directed to people under 13. We do not actively market to c
 
 ### Changes to this Policy
 
-Please note that we may revise this Privacy Policy from time to time. The most current version of this Privacy Policy will govern our use of your information and will always be available at <http://www.hdsentinel.com/privacy.php>. If we make a significant change to this policy, in our sole discretion, we will notify you via email to the address we have on record. By continuing to access or use our Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+Please note that we may revise this Privacy Policy from time to time. The most current version of this Privacy Policy will govern our use of your information and will always be available at <https://www.hdsentinel.com/privacy.php>. If we make a significant change to this policy, in our sole discretion, we will notify you via email to the address we have on record. By continuing to access or use our Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
 **Effective as of January 1st, 2010.**
