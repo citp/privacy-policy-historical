@@ -1,56 +1,98 @@
-> *The following text is extracted and transformed from the kohi.net privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128143324id_/https%3A//www.badlion.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kohi.net privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527082418id_/https%3A//www.badlion.net/privacy) for the most accurate reproduction.*
 
-# Competitive Minecraft PvP | Badlion Network
+# Privacy Policy | Badlion Network
 
-This Privacy Policy governs the manner in which Badlion Network (a software as a service created by Badlion, LLC) collects, uses, maintains and discloses information collected from users (each, a "User") of the www.badlion.net website ("Site"). This privacy policy applies to the Site and all products and services offered by Badlion Network [includes but not limited to Minecraft Servers, Email Support, Teamspeak, Discord, etc].
+1\. Overview
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users log onto our servers or utilize one of our services [including but not limited to Minecraft Servers, Email Support, Teamspeak, Discord, etc], when Users visit our site, register on the site, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site/Services. Users may be asked for, as appropriate, email address. Users may, however, visit our Site anonymously if they do not wish to disclose their email address and register for our Site. We will collect personal identification information automatically upon joining the Site or any our services including but not limited to Internet Protocol (IP) Address, user ids, usernames, cookies. Further information we collect based on user submission includes but is not limited to email addresses, addresses, zip codes, telephone numbers, user ids (for Site), passwords, billing and transaction information. Users can always refuse to supply personally identification information (except for the exceptions which are applied to all Users), except that it may prevent them from engaging in certain Site/Service related activities. Exceptions in which information is automatically gathered and you can not opt out of unless you choose not to use the Site/Services provided are based upon Internet Protocol (IP) Address information (which we use to gather information including but not limited to your geolocation, internet provider, connection type, etc), user ids (if utilizing a service).
+Turtle Entertainment Online, Inc. and its subsidiaries (collectively, "TEO" or “Badlion” or "we" or "our") respect your privacy. This privacy policy (this "Policy") informs you of our privacy practices and the choices you can make about the way your information is collected online and how that information is used.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+This Policy applies to all websites, servers and services owned or provided by TEO (collectively, "TEO Sites"). TEO may add new sites, domain names or services from time to time. As explained below, this Policy applies only to websites owned and services maintained by TEO and not to websites or services to which links may be provided on TEO Sites.
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.s
+BY USING THIS SITE, OR ANY PRODUCT OR SERVICE OFFERED ON THIS SITE, YOU CONSENT TO THE COLLECTION, USE AND DISCLOSURE OF INFORMATION AS DESCRIBED IN THIS POLICY.
 
-Badlion Network may collect and use Users personal information for the following purposes: 
+Collection of Personal Information TEO collects personal information from users of TEO Sites in connection with the access and use of the various products and services available to you on TEO Sites. These products and services may include: (i) registration as a TEO user and/or subscribing to Badlion Premium; (ii) use of the Badlion Client; (iii) registration for competitions and events; (iv) registration for receipt of communications like email updates and newsletters; (v) registration for certain online community services and tools like message boards, chat rooms, forums, news groups or other community services; (vi) user surveys and polls; (vii) participation in sweepstakes, contests or promotions by sponsored by TEO or third parties; and (viii) purchasing products and services.
 
-  * To enforce our rules found at www.badlion.net/wiki/rules
-  * To enforce bans on our Site/Services
-  * Creation of accounts
-  * To improve customer service
-  * Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * To personalize user experience
-  * We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * To improve our Site
-  * We may use feedback you provide to improve our products and services.
-  * To process payments
-  * We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * To run a promotion, contest, survey or other Site feature
-  * To send Users information they agreed to receive about topics we think will be of interest to them.
-  * To send periodic emails
+A. Types of Information Collected. TEO collects information you provide to us. This may include your name, address, ZIP code, telephone number, email address, user IDs and passwords, age and date of birth, gender, billing and transaction information, product and service preferences and contact preferences. In certain instances, you may also submit similar information about other people (such as when shipping products purchased on TEO Sites).
 
+B. Automatic Data Collection. In addition to the information you provide us, TEO may also automatically collect information regarding your use of TEO Sites. Our automatic data collection may include:
 
+1\. Cookies, web beacons or other commonly used website analytics tools. These tools collect certain standard information that your browser sends to our website such as your browser type and language and access times. These tools may also collect information about your Internet Protocol (IP) address, clickstream behavior (i.e., the pages you view, the links you click and other actions you take in connection with TEO Sites) and products and services you use.
 
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+2\. Pixel tags, web beacons or other commonly used email analytics tools. These tools may collect information when you open an email or click a link contained in an email.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+C. Anti-cheat functionality in the Badlion Client. Certain information regarding your computer and software it contains is required for effective operation of our anti-cheat services. By using the Badlion Client, you consent to the collection and analysis of information from your computer that TEO deems reasonably necessary to identify and prevent the use of cheat software, files used to gain an unfair advantage, and to enforce bans. This information collection is not strictly limited to when you are logged in to the Badlion Client. Information analyzed or collected by the Badlion Client may include hardware, network and software identifiers; running programs; system configuration information; files or data suspected of being used to cheat or gain an unfair advantage; or screenshots while you are logged in and playing a game through the Badlion Client.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+D. Commingled Information. TEO may also collect information from commercially available sources that it deems credible. Such information may include your name, address, email address and demographic data. The information TEO collects from its commercial sources may be used along with the information TEO collects when you visit TEO Sites. For example, TEO may compare the geographic information acquired from commercial sources with your IP address to derive your general geographic area.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+E. Community Tools. From time to time, TEO may make message boards, chat rooms, forums, news groups and other community tools available to you on TEO Sites. Please keep in mind that whenever you voluntarily disclose personal information in these public areas, your information becomes public information and can be viewed and used by TEO and others.
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+2\. How We Use Your Personal Information
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+We use the personal information you provide to us (i) in the manner described in this Policy, (ii) to improve and customize this site and the products and services offered to you, and (iii) as directed by you as indicated by your use of the products and services offered on this site. For example, we may use your personal information in connection with the following:
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp. 
+A. Creation of membership accounts;  
+B. Detection and prevention of cheats  
+C. Enforce bans;  
+D. Offers to participate in competitions and event;  
+E. Delivery of email updates and newsletters;  
+F. Communications of offers for promotions, sweepstakes and contests;  
+G. Invitations to participate in user surveys and polls;  
+H. Execution of purchases of products and services; and  
+I. Providing software updates and interactive materials.
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+We may also use your personal information to contact you offline concerning the products and services offered on this site.
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+3\. Sharing of Personal Information
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:   
-www.badlion.net   
-adam (at) badlion (dot) net 
+TEO will not sell, rent or lease the personal information you provide. TEO will only share your personal information:
 
-Badlion Network has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+A. With entities owned or controlled by TEO;  
+B. With your consent;  
+C. With persons or entities engaged by TEO to carry out or fulfill TEO operations or business activities;  
+D. In connection with a merger, acquisition, reorganzization or sale of assets by TEO;  
+E. As required by a duly authorized request from a government authority, to comply with any law, regulation, warrant, subpoena or order from a court or governmental authority, and to help prevent or investigate suspected fraud, harassment or violation of any law, rule, regulation, TEO policy or TEO terms and conditions; and  
+F. As otherwise stated in this Policy.
 
-Last Updated: May 18th 2016
+4\. Use and Disclosure of Anonymous Information
+
+We may collect certain non-personally identifiable information (i.e., generic information that does not identify you personally) when you visit any TEO Site. We may use non-personally identifiable information that we collect to improve the design and content of TEO Sites and to enable us to personalize the products and services offered on TEO Sites. We may also aggregate non-personally identifiable information collected in a manner which does not identify any individual. We reserve the right to use this information in any manner we deem appropriate.
+
+5\. Children Under 13
+
+TEO Sites are not directed to children under the age of 13. TEO Sites prohibit registration by, and TEO will not knowingly collect personally identifiable information from, anyone under the age of 13. If you believe TEO has collected personal information about your child, you may contact us at the address set forth below to request removal of such information.
+
+6\. California Do Not Track Disclosure
+
+TEO does not collect personal information from users over time and across third party websites or online services. However, we work with third party partners who use unique identifiers to help us understand use of TEO Sites. The unique identifiers used by third parties on our sites may be combined with information collected about you over time and across third party websites or online services.
+
+7\. Links to Third Party Sites
+
+TEO Sites may include links to third party websites or services. TEO does not control such third party sites and their privacy practices are not covered by this policy. The presence of a link on TEO Sites does not constitute an endorsement or representation regarding any third party website or service.
+
+8\. Information Storage and Security
+
+The protection of your personal information is important to TEO. To prevent unauthorized access or disclosure of this information, TEO utilizes appropriate physical, technical and administrative procedures to safeguard the information we collect. However, no system can ever be fully protected against every possible hazard and we cannot guarantee that communications between you and us or the information stored on TEO Sites or our servers (or those of our agents and service providers) will be completely free from unauthorized access and disclosure and your use of any TEO Site demonstrates your assumption of this risk.
+
+9\. Your Choices
+
+TEO provides you with the opportunity to choose and alter your preferences regarding the communications you receive from us. You will be provided with the opportunity to indicate whether you want to receive general communications about products, services, special offers or invitations to participate in various programs. You may opt out of receiving these general communications by using one of the following methods: (i) select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each communication, or (ii) write to TEO at the address below. Be sure to provide your name, email and postal address, and specific relevant information about your privacy preferences. Subscription communications may include email newsletters and updates expressly requested by you. After you request such communications, you may opt out of receiving them by using one of the following methods: (i) select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each subscription communication, or (ii) return to the Web page(s) where you originally requested such services and follow the opt-out instructions.
+
+You may change or edit information you have provided as part of your user profile by logging in to your TEO account and changing the information.
+
+10\. Changes to this Policy
+
+We reserve the right, at our discretion, to make changes to this Policy at any time and from time to time. TEO will undertake reasonable efforts to notify you of material changes to this Policy. We encourage you to review this Policy regularly for changes. Your continued use of TEO Sites following the posting of any changes to this Policy indicates your agreement to be bound by the terms of this Policy as revised.
+
+If you have any other questions, comments or complaints about this Policy, please contact us via email at privacy (at) badlion (dot) net or write to us at:
+
+Legal Counsel  
+Turtle Entertainment Online, Inc.  
+1212 Chestnut Street  
+Burbank, California 91506  
+USA
+
+11\. International Users
+
+If you are visiting this site from a location outside the United States, your connection will be through servers located in the United States and all information you provide will be processed and maintained in our web servers and internal systems located within the United States. By using this site, you authorize the export of personal information to the United States and its storage and use as specified above.
+
+Last updated: December 20, 2016
