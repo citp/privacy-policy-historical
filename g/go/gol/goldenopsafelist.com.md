@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenopsafelist.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120132646id_/http%3A//goldenopsafelist.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenopsafelist.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527114231id_/http%3A//www.goldenopsafelist.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # Golden Op Safelist
 
