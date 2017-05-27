@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the environmentalleader.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124111158id_/http%3A//www.environmentalleader.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environmentalleader.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527050833id_/https%3A//www.environmentalleader.com/privacy) for the most accurate reproduction.*
 
-# Privacy · Environmental Leader · Environmental Management News
-
-## Privacy
+# Privacy Policy | Environmental Leader
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy:
 
