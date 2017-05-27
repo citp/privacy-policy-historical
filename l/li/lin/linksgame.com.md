@@ -1,20 +1,55 @@
-> *The following text is extracted and transformed from the linksgame.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207141848id_/http%3A//linksgame.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksgame.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527201133id_/http%3A//linksgame.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Links Game
+# Privacy Policy – Linksgame.com
 
-**Online Advertising**  
-Links Game uses third-party advertising companies to serve ads and collect information when you visit our Web site.  This isn’t always the case, but when you see advertising it in many cases is from a third party.   These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on our Web Site, other web sites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out [](http://www.networkadvertising.org/managing/opt_out.asp)
+## Introduction
 
-[ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+This privacy policy (“Policy”) and this site’s Terms of Service (together the “Terms”) govern all use of [http://linksgame.com](http://linksgame.com/) and that site’s services (together the “Site” or “Services”). The owners and contributors to the Site will be referred to as “we,” “us,” or “our” in this Policy. By using the Site or its Services, and/or by clicking anywhere on this Site to agree to the Terms and this Policy, you are deemed to be a “user” for purposes of this Policy. You and every other user (“you” or “User” as applicable) are subject to this Policy. You and each user also agree to the Terms by using the Services. In these Terms, the word “Site” includes the site referenced above, its owner(s), contributors, suppliers, licensors, and other related parties.
 
-[ ](http://www.networkadvertising.org/managing/opt_out.asp). 
+We provide this privacy statement explaining our online information practices, so that you can decide whether and how to interact with the Site and the Services.
 
-**Internet User Information**  
-When we display an advertisement on your computer, we do not collect any personally identifying information about you, such as your name, address, telephone number or email address. .com does collect certain information which can not personally identify you, like cookies.   This category of information is generally referred to as non-personally-identifiable information includes information like the server or internet service provider you use,and the  type of browser used to visit our site. There are some cases where you, the Internet user, may voluntarily provide personal information in response to a particular ad. In such cases the third party advertising with .com may collect this information on behalf of an advertiser. The advertiser in turn uses this information to reply to your request.  WE DO NOT, and WILL NOT EVER divulge  information regarding the users who use email for correspondence with the webmaster or any representatives.
+We may release your information when we deem it appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
 
-**Common Sense Policy**  
-Hackers, and Scam Artists are constantly on the lookout for easy prey. The best protection is to use common sense in all of your on-line activities.  Third parties are sometimes able to illegally intercept your unencrypted messages, including online greetings. Anytime you visit a chat room or post a message to an on-line bulletin board, your e-mail address can be accessed by advertisers looking to compile lists for unsolicited commercial e-mail, which is better known as SPAM.  Make sure that you only disclose your e-mail address in circumstances in which it is safe to do so. Beware of scams in which persons unknown to you request your screen name, password, or credit card information. Make sure you verify the identity of anyone asking for personal information.
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-Ok, that about covers it.  Take Care.
+Please also review our Terms of Use section that governs the use and the users of the Site.
 
-Say Something
+By using our site, you consent to our privacy policy.
+
+If we decide to change our privacy policy, we will post those changes on this page. If we have your email address, we may also send an email notifying you of any changes.
+
+## Contact Data and Other Identifiable Information
+
+This site collects certain user information, which may include a username and password, contact information, or any other data that you type in to the site. It may also identify your IP address to help identify you on future visits to the site. At our discretion, the Site may use this data to:
+
+  * Personalize the user experience and/or customer service
+  * Improve the site
+  * To process transactions
+  * Administer a contest, promotion, survey or other site feature or function
+  * Send email to users
+
+
+
+## Mobile Device Privacy
+
+The following applies to our site, when viewed on a mobile device:  
+When accessed with a mobile deivce, our site may collect information automatically, such as the type of mobile device you have, device identifiers, and information about your use of the site. Regardless of the device you use to access the site, it will also collect information you provide, as well as information about your interaction with the site and its content.  
+If location services are activated on your mobile device, our site may collect information about the location of your device. Your mobile network service providers may collect device-specific information, such as a device identifier, when you use our website or one of our mobile applications. This information collected by your mobile network service will not be associated with your user account with us, or with your personally identifiable information.
+
+We use Google as an advertising services provider for the Site. Users may opt out of Google’s use of the DART use-tracking cookie by visiting the Google advertising Policies & Principles page. If you opt out of ad tailoring, you will still see ads, but they will not be based on your browsing history, and they may appear in other languages.
+
+## Disputes
+
+We are based in United States and you are contracting to use our Site. This Policy and all matters arising from your use of the Site are governed by and will be construed according to the laws of United States, without regard to any choice of laws rules of any jurisdiction. The federal courts and state courts that have geographical jurisdiction over disputes arising at our office location in United States will be the only permissible venues for any and all disputes arising out of or in connection with this Policy or the Site and Service.
+
+## No Users Under the Age of 13
+
+The Site is not intended for children under the age of 13. Children under the age of 13 should not use the Site at any time. We do not knowingly collect personal information from children under the age of 13. If we obtain actual knowledge that we have collected information from anyone under the age of 13, we will erase that information from our servers. It is a violation of our Terms of Service for children under the age of 13 to use the Site. 
+
+## Terms Contact
+
+If you have any questions about these Terms, please address them to andrew@linksgame.com.
+
+## Last Updated
+
+These terms were last updated on _December 6, 2016_
