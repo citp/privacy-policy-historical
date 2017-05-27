@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallis.co.uk privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123162446id_/http%3A//www.wallis.co.uk/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33058%26storeId%3D12557%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D281007%26interstitial%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallis.co.uk privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527020358id_/http%3A//www.wallis.co.uk/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33058%26storeId%3D12557%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D281007%26interstitial%3Dtrue) for the most accurate reproduction.*
 
 # Privacy Policy - Wallis
 
