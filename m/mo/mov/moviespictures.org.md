@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviespictures.org privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331184253id_/http%3A//moviespictures.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviespictures.org privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527162127id_/http%3A//movies.pics/privacy.php) for the most accurate reproduction.*
 
 # www.moviespictures.org : Privacy Notice
 
@@ -14,7 +14,7 @@ The use of this website is subject to the following terms of use:
 
 
 
-If you believe that any information we are holding on you is incorrect or incomplete, please **[write us](http://moviespictures.org/contact_moviespictures)** as soon as possible. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please **[write us](http://movies.pics/contact_moviespictures)** as soon as possible. We will promptly correct any information found to be incorrect.
 
 **What information do we collect?**
 
@@ -57,7 +57,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://moviespictures.org ](http://moviespictures.org/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://movies.pics ](http://movies.pics/)
 
 **Your Consent**
 
@@ -68,4 +68,4 @@ By using our site, you consent to our [websites privacy policy](http://www.freep
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 www.moviespictures.org   
-[Contact Us](http://moviespictures.org/contact_moviespictures)
+[Contact Us](http://movies.pics/contact_moviespictures)
