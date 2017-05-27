@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ziffy.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119062209id_/http%3A//ziffy.in/content/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziffy.in privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527164511id_/http%3A//ziffy.in/content/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Toll Free 1800 Numbers
 
