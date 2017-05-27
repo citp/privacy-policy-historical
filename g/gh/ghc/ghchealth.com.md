@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the ghchealth.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119053915id_/http%3A//www.globalhealingcenter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghchealth.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527090014id_/http%3A//www.globalhealingcenter.com/privacy) for the most accurate reproduction.*
 
 # Global Healing Center Privacy Policy
-
-[](https://web.archive.org/)
 
 ### General Disclaimer
 
 Thank you for visiting Global Healing Center online and for reviewing our Privacy Policy. We strive to ensure that our customers and visitors are well-informed of the measures we have set in place to protect any personal information collected through our website, as well as the storage and disposal of that information.
 
-This Privacy Policy discloses the privacy practices we utilize through operation of [www.globalhealingcenter.com](http://www.globalhealingcenter.com/), and applies solely to the information collected by this website through such operation. Through this notice, you will be informed of the following:
+This Privacy Policy discloses the privacy practices we utilize through operation of [www.globalhealingcenter.com](https://www.globalhealingcenter.com/), and applies solely to the information collected by this website through such operation. Through this notice, you will be informed of the following:
 
-  1. What personal information is collected from your use of [www.globalhealingcenter.com](http://www.globalhealingcenter.com/), as well as how that information is used and with whom that information may be shared; 
+  1. What personal information is collected from your use of [www.globalhealingcenter.com](https://www.globalhealingcenter.com/), as well as how that information is used and with whom that information may be shared; 
   2. What choices are available to you regarding the use of the information;
   3. The security procedures in place to protect the misuse of your information; and
   4. How you may correct any potential inaccuracies in your information.
@@ -35,7 +33,7 @@ When you visit websites from your computer, the web servers utilized by those we
 
 There are two different types of cookies utilized by websites. The first is what is known as a “Session” cookie. A session cookie temporarily records a small amount of information in your internet browser’s memory, but this information expires and is destroyed when you close your internet browser. The second type of cookie is known as a “Persistent” cookie. Persistent cookies save the small amount of information created by your visit to a website to your computer’s hard drive and in the event you re-visit a website, your computer accesses the persistent cookie. Persistent cookies allow a website to understand what your interests were the last time you visited the website, and uses that information to enhance your experience with the website.
 
-We use session and persistent cookies on our website in order to enhance our users’ experience with [www.globalhealingcenter.com](http://www.globalhealingcenter.com/). By doing this we are able to offer specific promotions or company information to you based on your previous orders and interests with Global Healing Center. For example, if you were interested in a specific product we offer, we could use your information from your visit to our website to send you a special offer for that product or invite you to try a related product you may have been interested in but were unaware that we also offer. Our goal is that by using this information we can optimize your experience with our website by catering to your interests. We also want to use this information to help us make improvements to our website where necessary.
+We use session and persistent cookies on our website in order to enhance our users’ experience with [www.globalhealingcenter.com](https://www.globalhealingcenter.com/). By doing this we are able to offer specific promotions or company information to you based on your previous orders and interests with Global Healing Center. For example, if you were interested in a specific product we offer, we could use your information from your visit to our website to send you a special offer for that product or invite you to try a related product you may have been interested in but were unaware that we also offer. Our goal is that by using this information we can optimize your experience with our website by catering to your interests. We also want to use this information to help us make improvements to our website where necessary.
 
 ### Surveys & Contests
 
@@ -43,7 +41,7 @@ From time to time, our website may request information from you in the form of s
 
 The contact information you provide through our contests will be used by us in order to notify winners and award prizes. The information you provide through our surveys will be used by us to monitor and improve the use and satisfaction of our website, as previously discussed above.
 
-Some of the surveys we utilize to monitor and enhance our website and our customers’ experience with our website are interactive surveys which ask you for certain personal information in order to join discussion forums, blogs, and other interactive Global Healing Center community features such as signing up to receive e-mail notifications or newsletters. When you participate in one of these activities, the information that you provide may be visible to other web users of [www.globalhealingcenter.com](http://www.globalhealingcenter.com/). Any information you provide will be protected to the extent permissible under the Freedom of Information Act and Privacy Act.
+Some of the surveys we utilize to monitor and enhance our website and our customers’ experience with our website are interactive surveys which ask you for certain personal information in order to join discussion forums, blogs, and other interactive Global Healing Center community features such as signing up to receive e-mail notifications or newsletters. When you participate in one of these activities, the information that you provide may be visible to other web users of [www.globalhealingcenter.com](https://www.globalhealingcenter.com/). Any information you provide will be protected to the extent permissible under the Freedom of Information Act and Privacy Act.
 
 ### Information Disposal
 
@@ -72,7 +70,7 @@ Instagram: <https://www.instagram.com/about/legal/privacy/>
 
 ### General Security and Options
 
-We take your personal information quite seriously and understand that you do too. Thus, you may choose to decline any future contact from us at any time. Also, you may [contact us](http://www.globalhealingcenter.com/contact-us.html) in order to:
+We take your personal information quite seriously and understand that you do too. Thus, you may choose to decline any future contact from us at any time. Also, you may [contact us](https://www.globalhealingcenter.com/contact-us.html) in order to:
 
   1. See what information of yours we have collected;
   2. Change or correct any information we have for you;
@@ -81,10 +79,10 @@ We take your personal information quite seriously and understand that you do too
 
 
 
-We also take several precautions to protect your information. When you submit sensitive personal information to us through [www.globalhealingcenter.com](http://www.globalhealingcenter.com/), your information is protected both online and offline. Wherever we collect this information (such as your credit card data), we encrypt and securely transmit this information to our servers. You can verify our secure methods by looking for a closed-lock icon at the bottom of your internet browser or for looking for “https” at the beginning of the website at the top of your internet browser.
+We also take several precautions to protect your information. When you submit sensitive personal information to us through [www.globalhealingcenter.com](https://www.globalhealingcenter.com/), your information is protected both online and offline. Wherever we collect this information (such as your credit card data), we encrypt and securely transmit this information to our servers. You can verify our secure methods by looking for a closed-lock icon at the bottom of your internet browser or for looking for “https” at the beginning of the website at the top of your internet browser.
 
 While we utilize encryption to protect the information you submit online, we also take serious steps to ensure the protection of your information offline. Only Global Healing Center employees who are required to access your information to perform a specific job (such as billing a customer or providing customer service) are granted access to your personal information. Even further, the computers and servers where we store your information are kept in secure locations and environments.
 
-In the event you feel that we are not completely abiding by the terms of this Privacy Policy or have a suggestion on how we can improve this Policy, please feel free to [contact us](http://www.globalhealingcenter.com/contact-us.html).
+In the event you feel that we are not completely abiding by the terms of this Privacy Policy or have a suggestion on how we can improve this Policy, please feel free to [contact us](https://www.globalhealingcenter.com/contact-us.html).
 
-We hope you enjoy your visit to [www.globalhealingcenter.com](http://www.globalhealingcenter.com/), and we appreciate your support and involvement in the Global Healing Center community!
+We hope you enjoy your visit to [www.globalhealingcenter.com](https://www.globalhealingcenter.com/), and we appreciate your support and involvement in the Global Healing Center community!
