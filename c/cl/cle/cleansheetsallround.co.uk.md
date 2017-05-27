@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleansheetsallround.co.uk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229202906id_/http%3A//www.cleansheetsallround.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleansheetsallround.co.uk privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528002057id_/http%3A//www.cleansheetsallround.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
