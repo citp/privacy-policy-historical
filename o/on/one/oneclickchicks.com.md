@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneclickchicks.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608020620id_/http%3A//www.oneclickchicks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneclickchicks.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527205554id_/http%3A//www.oneclickchicks.com/privacy) for the most accurate reproduction.*
 
 # One Click Chicks - Privacy Policy
 
