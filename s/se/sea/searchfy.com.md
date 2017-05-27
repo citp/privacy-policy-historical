@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchfy.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123031700id_/http%3A//www.searchfy.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchfy.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527021926id_/http%3A//www.searchfy.com/about/privacy) for the most accurate reproduction.*
 
 # searchfy.com
 
@@ -158,16 +158,6 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy, you may contact us using the information below.
+If there are any questions regarding this privacy policy, you may contact us by using the contact form.
 
-www.searchr.net
-
-Paradise Beach
-
-****Mikonos, MYK 846 00****
-
-Greece
-
-info@searchr.net
-
-Last Edited on 2016-09-01
+Last Edited on 2017-03-27
