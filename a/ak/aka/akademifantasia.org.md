@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akademifantasia.org privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108234359id_/http%3A//www.akademifantasia.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akademifantasia.org privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527211054id_/http%3A//www.akademifantasia.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Akademi Fantasia Travel
 
