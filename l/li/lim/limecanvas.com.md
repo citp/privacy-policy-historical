@@ -1,87 +1,154 @@
-> *The following text is extracted and transformed from the limecanvas.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922140531id_/http%3A//www.limecanvas.com/services/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limecanvas.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527124205id_/http%3A//www.limecanvas.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Lime Canvas
+# Privacy Policy - Lime Canvas
 
-Lime Canvas Limited is a leading Web site design agency incorporated in Ireland.  Lime Canvas Limited provides an online information blog where our customers can learn about Internet Marketing, web design, content marketing, social media and find out about our products and services.
+## Effective date: 24th April 2017
 
-Our office is IMI Business Campus, Sandyford Road, Dundrum, Dublin 16.
+Lime Canvas Ltd. and its Affiliates (“ **Lime Canvas** ” or “ **We** “) know that you care about how the information we receive from you is used and shared, and we take your privacy seriously. This Privacy Policy describes Lime Canvas’s privacy practices in relation to information that we collect through websites operated by us from which you are accessing this Privacy Policy (collectively, the “ **Domains** ”), through the software applications made available by us for use on or through computers and mobile devices that link to this Privacy Policy (the “ **Apps** ”), through our social media pages and apps located at:
 
-## Us and your information
+[**https://www.facebook.com/Limecanvas**](https://www.facebook.com/LimeCanvas),
 
-We may use information that you provide or that is obtained by us:
+[**https://twitter.com/limecanvas**](https://twitter.com/limecanvas),
 
-  * To administer our website services
-  *  For assessment and analysis (e.g. market, customer and product analysis) to enable us to review, develop and improve the services which we offer and to enable us to provide you and other customers with relevant information through our marketing programme.  We would like to keep you informed of such products and services (including special offers, discounts, offers, competitions and so on) by any of the following methods: 
-    * Email
-    * telephone (including automated calls)
-    * SMS text message and other electronic messages such as picture messaging
-    * Post
-    * Fax
-    * or otherwise (including products and services of other companies and organisations) which we consider may be of interest to you. If you do not wish to receive information about such products and services, please tick the opt-out box provided when we collect your details.
-    * To administer any prize draws or competitions you may enter.
+[**https://www.youtube.com/limecanvas**](https://www.youtube.com/limecanvas) and
+
+[**https://www.linkedin.com/company/limecanvas**](https://www.linkedin.com/company-beta/2706841/?pathWildcard=2706841)
+
+(collectively, the “ **Social Media Pages** ”), and other services provided by us both online and offline; as well as through HTML-formatted email messages that we send to you that link to this Privacy Policy (collectively, including the Domains, the Apps and the Social Media Pages, the “ **Sites** ”). “ **You** ” or a “ **user** ” refers to any individual who visits or otherwise uses the Sites. By using the Sites, you are accepting and agreeing to the practices outlined in this Privacy Policy.
+
+This Privacy Policy does not apply to the practices of third parties that Lime Canvas does not own or control, or to individuals that Lime Canvas does not employ or manage.
+
+This Privacy Policy also does not apply to information that we receive or handle on behalf of our subscribers in our role as a service provider, such as information that we receive through the Lime Canvas Digital Engagement Platform or other Lime Canvas services, including any features we make available for use by Services subscribers (collectively, the “ **Services** ”). Such information is governed by the terms of the applicable services agreement, rather than this Privacy Policy.
+
+### What Types of Information Does Lime Canvas Collect About its Users?
+
+  *     * **Personal Information.**  “ **Personal Information** ” is information that identifies you as an individual or relates to an identifiable individual, including: name, title, company name, job function, expertise, postal address, telephone number, or email address. If you submit any Personal Information relating to other people to us or to our service providers in connection with the Sites, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.
+    * **Other Information.**  “ **Other Information** ” is any information that does not reveal your specific identity or does not directly relate to an identifiable individual. This might include, for instance, browser and device information; App usage data; information collected through cookies, pixel tags, and other technologies; demographic information and other information provided by you; or aggregated information. We use this information to facilitate our operation of the Sites and for other purposes described below.
+    * **IP Address.**  Your “IP Address” is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP Address may be identified and logged automatically in our server log files whenever you access the Sites, along with the time of the visit and the page(s) that you visited. Collecting IP Addresses is standard practice and is done automatically by many websites, applications and other services. Lime Canvas uses IP Addresses to calculate usage levels of the Sites, help diagnose problems with its servers, administer the Sites, and monitoring the regions from which you navigate to Lime Canva’s Sites.
 
 
 
-## How we will protect your information
+### How Does Lime Canvas Collect Information?
 
-User names and Passwords are encrypted and stored in a secure database.We understand the sensitive data you provide us with & will always protect your privacy.
+**Personal Information.**  We and our service providers may collect Personal Information in a variety of ways, including:
 
-According to the Directive 2009/136/EC according to article 5 (3):
+  *     * **Through the Sites:**  We may collect Personal Information through the Sites, e.g., when you request a free trial or demo, register for a webinar, contact us, subscribe to our email newsletter, download content (e.g. whitepapers), or register to use our Sites.
+    * **Offline:**  We may collect Personal Information from you offline, such as when you attend one of our events, during phone calls with sales representatives, or when you contact customer service.
+    * **Through You:**  Lime Canvas may collect information such as your location or your preferred means of communication when you voluntarily provide it. Unless combined with Personal Information, this information does not personally identify you or any other user of the Sites. Note that there is no legal obligation for you to provide us with personal information and any information collected by us will be provided by you at your own will and with your consent.
+    * **Information From Other Sources:**  In order to enhance our ability to provide relevant marketing, offers, and services to you, we may obtain information about you from other sources, such as public databases, joint marketing partners, social media platforms, as well as from other third parties.
 
-“Member States shall ensure that the storing of information, or the gaining of access to information already stored, in the terminal  equipment of a subscriber or user is only allowed on condition that the subscriber or user  **concerned has given his or her  consent, having been provided with clear and comprehensive information**, in accordance with Directive 95/46/EC, inter alia, about the purposes of the processing. This shall not prevent any technical storage or access for the sole purpose of carrying out the transmission of a communication over an electronic communications network, or as strictly necessary in order for the provider of an information society service explicitly requested by the subscriber or user to provide the service.”
 
-## Disclosure of Your Information
 
-We will never give, sell or rent your information to any external body or 3rd party unless compelled to by agents of the law.
+**Other Information.**  We and our service providers may collect Other Information in a variety of ways, including:
 
-## Cookies
+**Through Your Browser or Device:**  Certain information is collected by most browsers or automatically through your device, such as your MAC address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version, and the name and version of the Sites (such as the Apps) you are using.
 
-This site uses cookies which are text files which contain small amounts of information that a website can send to, and store on, your computer or device through your browser. Cookies may be used by us to provide you with, for example, customised information from our website to make our website more user-friendly.
+**Through Your Use of the Apps:**  When you download and use an App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.
 
-This may include, for example, remembering your postcode for you so you don’t have to re-enter it every time you check the stock levels for an item you are interested in. In addition, cookies allow us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of our website.
+**Through Cookies and Other Similar Technologies:**  Cookies and other similar technologies may be used to collect Other Information. We may use third parties to serve advertisements on other websites that may be of interest to you, based on information collected about your use of our Sites and other websites.  To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags and web beacons).  Please review our Cookies Policy for more information. Lime Canvas does not recognize automated browser signals regarding tracking mechanisms, which may include ‘do not track’ instructions.
 
-** ** **1)       ** **Geotargeting cookies**
+Lime Canvas also uses web analytics services, which currently includes Google Analytics.
 
-Completely anonymous and identifies the  **country**  that the user comes from.
+Google Analytics is a web analytics service provided by Google Inc. (“ **Google** “). Google Analytics uses cookies and similar technologies to analyze how users use the Domains. The information generated about Domain usage (including your shortened IP address) is transmitted to Google in the U.S. This information is used to evaluate visitors’ use of the Domain, compile statistical reports on Domain activity, and provide other services related to the Site and Internet use. Google may also collect information about Domain visitors’ use of other websites. For more information about Google Analytics, or to opt out of Google Analytics, please go to:[ **https://tools.google.com/dlpage/gaoptout**](https://tools.google.com/dlpage/gaoptout).
 
-**2)       ** **Third party cookies**
+**By Aggregating Information:**  Aggregated Personal Information does not personally identify you or any other user of the Sites.
 
-Social media sharing buttons (e.g. Tweet Share, Facebook, Google+ etc)
+### How Does Lime Canvas Use Personal Information?
 
-**3)       ** **Registration Cookies**
+We may use Personal Information:
 
-These cookies identify on which  **account**  the user is signed in with. Also it enables the use of other server-side technologies such as  **sessions**.
+  *     * To respond to your inquiries and fulfill your requests, such as to send you newsletters.
+    * To send administrative information to you, for example, information regarding the Sites and changes to our terms, conditions, and policies.
+    * To communicate with you and provide you with related customer service.
+    * To send you marketing communications, including via email and SMS in compliance with applicable laws, that we believe may be of interest to you.
+    * To personalize your experience on the Sites by presenting products and offers tailored to you.
+    * To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully.
+    * For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Sites and services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.
+    * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our Affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our Affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-**4)       ** **Google Analytics cookies**
 
-They are also completely anonymous as they do not recognise the true identity of the user. These cookies are solely used to collect information on how users use the website, which pages they use more often, from which country they come etc.
 
-We are required to provide you with clear and comprehensive information about the cookies which we use on the site and to obtain your consent to the use of the cookies. In order to comply with these requirements we have prepared a cookies policy setting out information about cookies, detailing the cookies we use and providing information on how to manage cookies on your computer.
+### How Will Lime Canvas Share Personal Information It Receives?
 
-The information collected via cookies on our website does not recognise the true identity of the visitor
+Information about our users is an integral part of our business. We only share your Personal Information as described in this Privacy Policy.
 
-By using the Lime Canvas website, you are agreeing to our Privacy and Cookie Policies and consent to the use of cookies.
+**Affiliates:**  
+We may disclose Personal Information to our  **Affiliates**  (Lime Canvas Inc.) for the purposes described in this Privacy Policy. Lime Canvas Ltd. is the party responsible for the management of the jointly-used Personal Information.
 
-## Security
+**Third-Party Business Partners:**  
+Lime Canvas partners with a variety of businesses and works closely with them to market or sell products or services. In certain situations, these businesses operate within the Sites. We may disclose Personal Information to our partners for the purposes described above.  Some of our third-party business partners may co-sponsor events and other offerings with Lime Canvas.  We may share Personal Information with these co-sponsors when you sign up for events or offerings to allow our partners to send you marketing communications and information that may be of interest to you, as permitted under applicable law.
 
-We endeavor to take all reasonable steps to protect your personal information. However, we cannot guarantee the security of any data you disclose online. You accept the inherent security risks of providing information and dealing online over the Internet and will not hold us responsible for any breach of security unless this is due to our negligence or wilful default.
+**Agents and Service Providers:**  
+We contract with other companies and people to perform tasks on our behalf and may share your Personal Information with them to provide products or services to you, or to otherwise communicate with you, such as to provide marketing or offers on our behalf.  Examples may include removing repetitive information from customer lists, analyzing data, providing marketing assistance, conducting billing, processing credit card payments, engaging technical support for our services, providing customer service, and performing analysis related to our products or services. We may also provide your Personal Information to agents and service providers to verify or compile aggregate usage data that we provide to our partners. When we share this information in this way, we seek to require the agent or service provider to maintain the privacy, confidentiality and security of the Personal Information.
 
-## General
+**Competitions:**  
+We may share Personal Information with business partners or other third party sponsors of contests and similar promotions.
 
-You have the right to access personal data (as defined in the Data Protection Acts 1988 and 2003) that we keep about you, upon receipt of a written request and payment of a small fee. Requests should be directed to the address below. If you are concerned that any of the information we hold on you is incorrect, please contact us (see details below).
+**Lime Canvas Blog and Social Media Pages:**  
+Personal Information may also be disclosed by you through the Sites, on message boards, community forum, chat, profile pages and blogs and other services to which you are able to post information and materials (including, without limitation, our Lime Canvas Blog, at  **[http://www.limecanvas.com/blog](http://www.limecanvas.com/blog/) **and the Social Media Pages). This information may appear in public ways, such as through search engines or other publicly available platforms, and may be “crawled” or searched by third parties. Please do not post any information that you do not want to reveal to the public at large.
 
-Please be aware that our site may link to other websites which may be accessed through our site. We are not responsible for the data policies or procedures or the content of these linked websites.
+**Business Transfers:**  
+In some cases, we may buy or sell assets or businesses. In these types of transactions, user information is typically one of the business assets that is transferred. Lime Canvas may disclose Personal Information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings).
 
-## How can I get my email address removed from the Lime Canvas mailing list?
+**Protection of Lime Canvas and Others:**  
+We may release Personal Information when we believe that release is necessary or appropriate (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce or apply our conditions of use and other agreements; (e) to protect our operations or those of any of our Affiliates; (f) to allow us to pursue available remedies or limit the damages that we may sustain; and (g) to protect the rights, privacy, property, or safety of Lime Canvas, our employees, our Affiliates, our users, or any other person or entity. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-If you want to be removed from our mailing list, simply click the unsubscribe button at the bottom of every email sent.
+**How Does Lime Canvas Use and Disclose Other Information?**
 
-Unsubscription is immediate.
+We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then we may use it for all the purposes for which we use and disclose Personal Information.
 
-Lime Canvas
+In some instances, we may combine Other Information with Personal Information (such as combining your name with your geographical location). If we do, we will treat the combined information as Personal Information for as long as it is combined.
 
-IMI Business Campus, Sandyford Road, Dundrum, Dublin 16
+### How Does Lime Canvas Secure Personal Information About Me?
 
-+353-1-6877077
+We have implemented organizational, technical, and administrative measures to protect Personal Information within our organization, including security controls to prevent unauthorized access to our systems. While we take reasonable steps to secure your Personal Information from loss, misuse, interference and unauthorized access, modification and disclosure, you should be aware no security procedures or protocols are ever guaranteed to be 100 percent secure from intrusion or hacking, and there is therefore always some risk assumed by sharing Personal Information online. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of your account has been compromised), please immediately notify us in accordance with the “Questions, Concerns and Complaints” section below.
 
-Privacy Policy  September 2012
+### How Can I Correct or Remove Information About Me?
+
+If you feel that any Personal Information about you that has been collected and stored by Lime Canvas is incorrect, or if you would Personal Information about you removed from our systems, please notify us at **[hello@limecanvas.com](mailto:hello@limecanvas.com)**  so that we may consider and response to your request in accordance with applicable law. You may also request access to your Personal Information held by Lime Canvas, by sending a written request to [ **hello@limecanvas.com**](mailto:hello@limecanvas.com).
+
+For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable, subject to applicable law.
+
+Please note that we may need to retain certain information for record keeping purposes and/or to complete any transactions that you began prior to requesting such change or deletion.
+
+**For How Long Will Lime Canvas Retain My Personal Information?**
+
+We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+
+**What Choices Do I Have?**
+
+You can always opt not to disclose information. However, if you elect to do so, we may be limited in responding to your inquiry or providing services to you.
+
+You may opt-out of receiving marketing messages from Lime Canvas or our Affiliates by sending an email to [ **hello@limecanvas.com**](mailto:hello@limecanvas.com), by unsubscribing through the unsubscribe or opt-out link in an email.
+
+**Can Children Use Lime Canvas’s Sites?**
+
+The Sites are not intended for minors under the age of 18. Lime Canvas does not knowingly or specifically collect information about minors under the age of 18 and believes that children of any age should get their parents’ or legal guardians’ consent before providing any Personal Information. If you believe that we have mistakenly or unintentionally collected such information, please notify us at [ **hello@limecanvas.com**](mailto:hello@limecanvas.com) so that we may delete the information from our servers.
+
+**Third Party Sites**
+
+The Sites may permit you to link to other websites on the Internet through direct links or through applications such as “share” or “Like” buttons, and other websites likewise may contain links to the Sites. The information practices or content of such other websites is governed by the privacy statements of those websites and not by this Privacy Policy.  We encourage you to review the privacy policies found on such other websites, services, and applications to understand how your information may be collected and used.
+
+Similarly, please note that we are not responsible for the collection, use and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM, or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider, or device manufacturer, including any Personal Information you disclose to other organizations through or in connection with the Apps or the Social Media Pages.
+
+**Sensitive Information**
+
+We ask that you not send us or disclose any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background, or trade union membership) on or through the Sites or via other means.
+
+### Changes to this Privacy Policy
+
+Lime Canvas may amend this Privacy Policy from time to time. The “Effective Date” legend at the top of this page indicates when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Sites. Your use of the Sites following these changes means that you accept the revised Privacy Policy.
+
+### Safe Harbor Certification
+
+Lime Canvas complies with the U.S.-EU Safe Harbor Framework regarding the collection, use, and retention of Personal Information.
+
+### International Transfer of Data
+
+Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Sites or disclosing information to us you consent to the transfer of information to countries outside of your country of residence, including Ireland, the United States, Australia and the UK, which may have different data protection rules than those of your country or the country in which you were located when you initially provided the information.
+
+### Questions, Concerns or Complaints
+
+Your privacy is important to us. If you have any questions, concerns, or complaints regarding the way we collect and handle your information, please contact us by email at **[hello@limecanvas.com](mailto:hello@limecanvas.com)**  or by mail at Lime Canvas, Suite 17, The Cube Offices, Beacon South Quarter, Sandyford Dublin 18, Ireland. Because email communications are not always secure, please do not include credit card information or other sensitive information in your emails to us.
+
+Lime Canvas will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need.
