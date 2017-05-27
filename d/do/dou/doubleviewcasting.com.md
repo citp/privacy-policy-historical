@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doubleviewcasting.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120155101id_/http%3A//www.doubleviewcasting.com/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubleviewcasting.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527023713id_/http%3A//www.doubleviewcasting.com/terms.html) for the most accurate reproduction.*
 
 # Документ без названия
 
