@@ -1,17 +1,19 @@
-<!--The following is the downloaded HTML source of the eastpak.com privacy policy that was archived on 2016-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161124150517id_/http%3A//www.eastpak.com/oc-en/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eastpak.com privacy policy that was archived on 2017-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170527025041id_/http%3A//www.eastpak.com/oc-en/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <title>Privacy policy</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NDMRTH"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NDMRTH"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
     <meta name="description" content="From street-smart backpacks to convenient shoulder bags and ingenious luggage and travel items. Discover all our collections on eastpak.com">
     <meta name="keywords" content="privacy, policy, data, purposes, cookies, personal data, security, quality, privacy rights">
     <meta name="robots" content="INDEX,FOLLOW">
     <meta name="google-site-verification" content="rZMpf8XhKYBQoDl5qxd-vGKBfRb2mdIWZjbuVWOzJSg">
     <meta name="p:domain_verify" content="c8268b8a5625e6e853afa49af03dc3bf">
-    <link rel="canonical" href="http://www.eastpak.com/oc-en/">    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="http://www.eastpak.com/oc-en/privacy_policy/">    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="http://www.eastpak.com/skin/frontend/vf/eastpak/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="http://www.eastpak.com/skin/frontend/vf/eastpak/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="http://www.eastpak.com/skin/frontend/vf/eastpak/images/apple-touch-icon.png">
+
     <!--[if lt IE 7]>
     <script type="text/javascript">
     //<![CDATA[
@@ -27,32 +29,31 @@
 //]]>
 </script>
 
-<link rel="alternate" hreflang="en-AS" href="http://www.eastpak.com/as-en/privacy_policy/">
-<link rel="alternate" hreflang="nl-BE" href="http://www.eastpak.com/be-nl/privacy_policy/">
-<link rel="alternate" hreflang="en" href="http://www.eastpak.com/oc-en/privacy_policy/">
-<link rel="alternate" hreflang="de-DE" href="http://www.eastpak.com/de-de/privacy_policy/">
-<link rel="alternate" hreflang="es-ES" href="http://www.eastpak.com/es-es/privacy_policy/">
+<link rel="alternate" hreflang="nl" href="http://www.eastpak.com/oc-nl/privacy_policy/">
+<link rel="alternate" hreflang="es" href="http://www.eastpak.com/oc-es/privacy_policy/">
+<link rel="alternate" hreflang="fr-AT" href="http://www.eastpak.com/eu-fr/privacy_policy/">
+<link rel="alternate" hreflang="de" href="http://www.eastpak.com/oc-de/privacy_policy/">
+<link rel="alternate" hreflang="en-BE" href="http://www.eastpak.com/be-en/privacy_policy/">
+<link rel="alternate" hreflang="es-PT" href="http://www.eastpak.com/eu-es/privacy_policy/">
+<link rel="alternate" hreflang="fr-CH" href="http://www.eastpak.com/oc-fr/privacy_policy/">
+<link rel="alternate" hreflang="fr-BE" href="http://www.eastpak.com/be-fr/privacy_policy/">
+<link rel="alternate" hreflang="de-AT" href="http://www.eastpak.com/eu-de/privacy_policy/">
+<link rel="alternate" hreflang="it-CH" href="http://www.eastpak.com/oc-it/privacy_policy/">
+<link rel="alternate" hreflang="de-BE" href="http://www.eastpak.com/be-de/privacy_policy/">
+<link rel="alternate" hreflang="en-GB" href="http://www.eastpak.com/uk-en/privacy_policy/">
+<link rel="alternate" hreflang="nl-NL" href="http://www.eastpak.com/nl-nl/privacy_policy/">
+<link rel="alternate" hreflang="it" href="http://www.eastpak.com/it-it/privacy_policy/">
+<link rel="alternate" hreflang="it-IT" href="http://www.eastpak.com/it-it/privacy_policy/">
+<link rel="alternate" hreflang="fr-FR" href="http://www.eastpak.com/fr-fr/privacy_policy/">
 <link rel="alternate" hreflang="en-PT" href="http://www.eastpak.com/eu-en/privacy_policy/">
 <link rel="alternate" hreflang="en-IE" href="http://www.eastpak.com/eu-en/privacy_policy/">
-<link rel="alternate" hreflang="fr" href="http://www.eastpak.com/fr-fr/privacy_policy/">
-<link rel="alternate" hreflang="fr-FR" href="http://www.eastpak.com/fr-fr/privacy_policy/">
-<link rel="alternate" hreflang="it-IT" href="http://www.eastpak.com/it-it/privacy_policy/">
-<link rel="alternate" hreflang="nl-NL" href="http://www.eastpak.com/nl-nl/privacy_policy/">
-<link rel="alternate" hreflang="en-GB" href="http://www.eastpak.com/uk-en/privacy_policy/">
-<link rel="alternate" hreflang="de-BE" href="http://www.eastpak.com/be-de/privacy_policy/">
-<link rel="alternate" hreflang="it" href="http://www.eastpak.com/oc-it/privacy_policy/">
-<link rel="alternate" hreflang="de-AT" href="http://www.eastpak.com/eu-de/privacy_policy/">
-<link rel="alternate" hreflang="fr-BE" href="http://www.eastpak.com/be-fr/privacy_policy/">
-<link rel="alternate" hreflang="fr" href="http://www.eastpak.com/oc-fr/privacy_policy/">
-<link rel="alternate" hreflang="es-PT" href="http://www.eastpak.com/eu-es/privacy_policy/">
-<link rel="alternate" hreflang="en-BE" href="http://www.eastpak.com/be-en/privacy_policy/">
-<link rel="alternate" hreflang="de" href="http://www.eastpak.com/oc-de/privacy_policy/">
-<link rel="alternate" hreflang="fr-AT" href="http://www.eastpak.com/eu-fr/privacy_policy/">
-<link rel="alternate" hreflang="es" href="http://www.eastpak.com/oc-es/privacy_policy/">
-<link rel="alternate" hreflang="nl" href="http://www.eastpak.com/oc-nl/privacy_policy/"><link rel="stylesheet" type="text/css" href="http://www.eastpak.com/media/css/1a1a32b29fa2c16d3c54d19ced880221.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.eastpak.com/media/css/780fccfd19e9c7494630fe4f69022bf5.css" media="print">
-<script type="text/javascript" src="http://www.eastpak.com/media/js/cd1976f34ed9bf06f828caf2416eabc6.js"></script>
-<script type="text/javascript" src="http://www.eastpak.com/media/js/40ed88b2fb39ceecfac17659f7852ef1.js" 1000=""></script>
+<link rel="alternate" hreflang="es-ES" href="http://www.eastpak.com/es-es/privacy_policy/">
+<link rel="alternate" hreflang="de-DE" href="http://www.eastpak.com/de-de/privacy_policy/">
+<link rel="alternate" hreflang="en" href="http://www.eastpak.com/oc-en/privacy_policy/">
+<link rel="alternate" hreflang="nl-BE" href="http://www.eastpak.com/be-nl/privacy_policy/"><link rel="stylesheet" type="text/css" href="http://www.eastpak.com/media/css/2cf8b464f4b2384bba98d07e471498b7.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.eastpak.com/media/css/8a72598a36e992c0d8de1a9bd7dc0679.css" media="print">
+<script type="text/javascript" src="http://www.eastpak.com/media/js/9ec72a0ae729dc403b21644e366bed82.js"></script>
+<script type="text/javascript" src="http://www.eastpak.com/media/js/85cf4884b6e97d0175cd439829a49a06.js" 1000=""></script>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -66,7 +67,23 @@ Mage.Cookies.domain   = '.eastpak.com';
 optionalZipCountries = [];
 //]]>
 </script>
-<script type="text/javascript">//<![CDATA[
+
+
+<script type="text/javascript">
+    //<![CDATA[
+    var globalJsHelper = {
+        currentStoreCode: 'oc',
+        currentLangCode: 'en',
+        navMenuHoverDelay: '600',
+        doGeolocationUrl: 'http://www.eastpak.com/oc-en/geolocation/index/ajax/',
+        searchMessage: 'Search',
+        searchSuggestUrl: 'http://www.eastpak.com/oc-en/catalogsearch/ajax/suggest/',
+        newsletterSubscriberUrl: 'http://www.eastpak.com/oc-en/newsletter/subscriber/newajax/',
+        newsletterWrongNotification: 'Something went wrong ...'
+    };
+    var fullPriceRetailStoreCodes = [];
+    //]]>
+</script><script type="text/javascript">//<![CDATA[
         var Translator = new Translate({"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.":"Please enter a valid phone number. For example 01234 567890,  (123) 456-7890 or 123-456-7890.","Please enter a valid email address. For example johndoe@domain.com.":"Please enter a valid email address. For example johndoe@example.com.","Please enter a valid zip code. For example 90602 or 90602-1234.":"Please enter a valid postcode or zip. For example AB1 1AB, 90602 or 90602-1234.","Please enter a valid zip code.":"Please enter a valid postcode or zip.","Please enter a valid $ amount. For example $100.00.":"Please enter a valid \u00a3 amount. For example \u00a3100.00.","Please select State\/Province.":"Please select County\/State.","Add to Cart":"Add to Basket","Add to Wishlist":"Add to wishlist"});
         //]]></script>
         </head>
@@ -81,9 +98,6 @@ optionalZipCountries = [];
     pageData.userID.hccn = (customerHccn == null) ? '' : customerHccn;
     pageData.userID.event = (customerEvent == null) ? '' : customerEvent;
 </script>
-
-<script type="text/javascript" src="//s.btstatic.com/tag.js#site=hTLkbSD&amp;mode=sync"></script>
-
 <!-- end Bright Tag tracking script -->
 
 
@@ -124,36 +138,35 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div style="display: none">
             <div id="language-popup" class="lightbox">
                 <div class="language-popup">
-                    
-                                            <h2>Select your country</h2>
-                                                <p>You are currently on the online shop shipping to <strong>CATALOG</strong>.</p>
+                                                                <h2>Select your country</h2>
+                                                <p>You are currently on the online shop shipping to <strong>UNITED KINGDOM</strong>.</p>
                         <div class="box">
                             <h3>Eastpak Online Shop</h3>
                             <ul class="list online-shops">
                                                                     <li>
-                                                                                                                                <a href="http://www.eastpak.com/uk-en/privacy_policy/"><span class="flag uk"></span> United kingdom</a>
+                                                                                                                                <a href="http://www.eastpak.com/uk-en/privacy_policy"><span class="flag uk"></span> United Kingdom </a>
                                                                                                                                                                                                                                                     </li>
                                                                     <li>
-                                                                                                                                <a href="http://www.eastpak.com/de-de/privacy_policy/"><span class="flag de"></span> Deutschland</a>
+                                                                                                                                <a href="http://www.eastpak.com/de-de/privacy_policy"><span class="flag de"></span> Deutschland </a>
                                                                                                                                                                                                                                                     </li>
                                                                     <li>
-                                                                                                                                <a href="http://www.eastpak.com/fr-fr/privacy_policy/"><span class="flag fr"></span> France</a>
+                                                                                                                                <a href="http://www.eastpak.com/fr-fr/privacy_policy"><span class="flag fr"></span> France </a>
                                                                                                                                                                                                                                                     </li>
                                                                     <li>
-                                                                                                                                <a href="http://www.eastpak.com/it-it/privacy_policy/"><span class="flag it"></span> Italia</a>
+                                                                                                                                <a href="http://www.eastpak.com/it-it/privacy_policy"><span class="flag it"></span> Italia </a>
                                                                                                                                                                                                                                                     </li>
                                                                     <li class="wide">
-                                                                                                                                <a href="http://www.eastpak.com/be-nl/privacy_policy/"><span class="flag be"></span> Belgie &amp; luxemburg</a>
-                                                                                            (<a href="http://www.eastpak.com/be-nl/privacy_policy/">NL</a>
-                                                                                                                                                                                                                        | <a href="http://www.eastpak.com/be-de/privacy_policy/">DE</a>
-                                                                                                                                                                        | <a href="http://www.eastpak.com/be-fr/privacy_policy/">FR</a>
-                                                                                                                                                                        | <a href="http://www.eastpak.com/be-en/privacy_policy/">EN</a>
+                                                                                                                                <a href="http://www.eastpak.com/be-nl/privacy_policy"><span class="flag be"></span> Belgie &amp; Luxemburg </a>
+                                                                                            (<a href="http://www.eastpak.com/be-nl/privacy_policy">NL</a>
+                                                                                                                                                                                                                        | <a href="http://www.eastpak.com/be-de/privacy_policy">DE</a>
+                                                                                                                                                                        | <a href="http://www.eastpak.com/be-fr/privacy_policy">FR</a>
+                                                                                                                                                                        | <a href="http://www.eastpak.com/be-en/privacy_policy">EN</a>
                                                                                                                                                                 )                                    </li>
                                                                     <li>
-                                                                                                                                <a href="http://www.eastpak.com/nl-nl/privacy_policy/"><span class="flag nl"></span> Nederland</a>
+                                                                                                                                <a href="http://www.eastpak.com/nl-nl/privacy_policy"><span class="flag nl"></span> Nederland </a>
                                                                                                                                                                                                                                                     </li>
                                                                     <li class="wide2">
-                                                                                                                                <a href="http://www.eastpak.com/es-es/privacy_policy/"><span class="flag es"></span> España</a>
+                                                                                                                                <a href="http://www.eastpak.com/es-es/privacy_policy"><span class="flag es"></span> España </a>
                                                                                                                                                                                                                                                     </li>
                                                                 <li>
     <a href="http://www.eastpak.com/eu-de/" data-store="at_de" onclick="changeStore('http://www.eastpak.com/eu-de/','at')"><span class="flag austria"></span> Austria</a>
@@ -165,16 +178,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <a href="http://www.eastpak.com/eu-es/" data-store="pt_es" onclick="changeStore('http://www.eastpak.com/eu-es/','pt')"><span class="flag portugal"></span> Portugal</a> (<a href="http://www.eastpak.com/eu-en/" data-store="pt_en" onclick="changeStore('http://www.eastpak.com/eu-en/','pt')">EN</a> | <a href="http://www.eastpak.com/eu-es/" data-store="pt_es" onclick="changeStore('http://www.eastpak.com/eu-es/','pt')">ES</a>)
 </li>                            </ul>
                         </div>
-                                                                            <div class="box">
+                                                    <div class="box">
                                 <h3>Catalog Only</h3>
                                 <ul class="list catalog-only-shops">
                                                                             <li class="wide full-width">
-                                                                                                                                            <a href="http://www.eastpak.com/oc-en/privacy_policy/?___from_store=oc-en"><span class="flag other"></span> Online Catalog</a> ( <a href="http://www.eastpak.com/oc-en/privacy_policy/?___from_store=oc-en">EN</a>
-                                                                                                                                                                                                                                        | <a href="http://www.eastpak.com/oc-it/privacy_policy/?___from_store=oc-en">IT</a>
-                                                                                                                                                                                        | <a href="http://www.eastpak.com/oc-fr/privacy_policy/?___from_store=oc-en">FR</a>
-                                                                                                                                                                                        | <a href="http://www.eastpak.com/oc-de/privacy_policy/?___from_store=oc-en">DE</a>
-                                                                                                                                                                                        | <a href="http://www.eastpak.com/oc-es/privacy_policy/?___from_store=oc-en">ES</a>
-                                                                                                                                                                                        | <a href="http://www.eastpak.com/oc-nl/privacy_policy/?___from_store=oc-en">NL</a>
+                                                                                                                                            <a href="http://www.eastpak.com/oc-en/privacy_policy"><span class="flag other"></span> Online Catalog</a>
+                                                ( <a href="http://www.eastpak.com/oc-en/privacy_policy">EN</a>
+                                                                                                                                                                                                                                        | <a href="http://www.eastpak.com/oc-it/privacy_policy">IT</a>
+                                                                                                                                                                                        | <a href="http://www.eastpak.com/oc-fr/privacy_policy">FR</a>
+                                                                                                                                                                                        | <a href="http://www.eastpak.com/oc-de/privacy_policy">DE</a>
+                                                                                                                                                                                        | <a href="http://www.eastpak.com/oc-es/privacy_policy">ES</a>
+                                                                                                                                                                                        | <a href="http://www.eastpak.com/oc-nl/privacy_policy">NL</a>
                                                                                                                                     )
                                         </li>
                                                                     </ul>
@@ -183,9 +197,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                  <div class="box">
     <h3>Partner Stores</h3>
     <ul class="list">
-        <li>
-            <a href="http://www.lycshop.gr"><span class="flag greece"></span> Greece</a>
-        </li>
+
         <li>
             <a href="http://www.eastpak.jp"><span class="flag japan"></span> Japan</a>
         </li>
@@ -201,78 +213,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <li>
             <a href="http://www.eastpak.cn"><span class="flag china"></span> China</a>
         </li>
+          <li>
+            <a href="http://www.eastpak.com.cy"><span class="flag other"></span> Cyprus</a>
+        </li>
     </ul>
 </div>
                             </div>
                                                             </div>
             </div>
         </div>
-        <script type="text/javascript">
-                                    
-            Event.observe(window, 'load', function() {
-                Mage.Cookies.set('storeSelected', 'oc');
-                Mage.Cookies.set('langSelected', 'en');
-            });
-
-            $j("a.language-link").fancybox({
-                scrolling : 'no',
-                hideOnContentClick: true,
-                fitToView : false,
-                autoScale: true,
-                padding: 0,
-                onStart: function () {
-                    $j("#fancybox-wrap").addClass("language-popup-wrap");
-                },
-                onClosed: function () {
-                    $j("#fancybox-wrap").removeClass("language-popup-wrap");
-                }
-            });
-
-            /**
-             * update country flag and set country selector cookie from geoip
-             *
-             * @param {string} geoipCountry geoip country
-             */
-            function updateCountryFlag(geoipCountry) {
-                var storeCode = 'oc';
-                if (storeCode == 'eu') {
-                    if (!Mage.Cookies.get('country-selector')) {
-                        Mage.Cookies.set('country-selector', geoipCountry);
-                    }
-                    if (geoipCountry.length === 0 && !Mage.Cookies.get('country-selector')) {
-                        geoipCountry = 'eu';
-                    }
-                    //replace current flag with selected store css
-                    jQuery('.header-flag').each( function(index, elem) {
-                        var cssClasses = jQuery(elem).attr('class').toString().split(' ');
-                        jQuery.each(cssClasses, function (i, cssClass) {
-                            if (cssClass.indexOf('flag-') !== -1) {
-                                jQuery(elem).removeClass(cssClass);
-                            }
-                        });
-                    });
-                    jQuery('.header-flag').each(function(i, item) {
-                        jQuery(item).addClass('flag-' + geoipCountry);
-
-                    });
-                    //mobile css
-                }
-            }
-
-            /**
-             * call by desktop store view for ireland and portugal store
-             * @param url
-             * @param storeLang
-             */
-            function changeStore(url, storeLang)
-            {
-                Mage.Cookies.set('country-selector', storeLang);
-                window.location.href = url;
-            }
-        </script>
     </div>
-            <div class="store-locator-item">
-                                <a class="header-link store-locator" href="http://www.eastpak.com/oc-en/catalog/category/view/id/7529/" title="Store locator">Store locator</a>
+                                    <div class="store-locator-item">
+                <a class="header-link store-locator" href="http://www.eastpak.com/oc-en/catalog/category/view/id/7529/" title="Store locator">Store locator</a>
             </div>
             
             
@@ -331,32 +283,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
     <div id="drop" class="ajax-holder search-autocomplete"></div>
 </form>
-
-<script type="text/javascript">
-    //<![CDATA[
-    var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search');
-    searchForm.initAutocomplete('http://www.eastpak.com/oc-en/catalogsearch/ajax/suggest/', 'drop');
-
-    jQuery('#search').on('keyup', function(){
-        var searchInput = jQuery(this);
-        if (searchInput.val() === '') {
-            jQuery('#search-clear:visible').hide();
-        } else {
-            searchInput.addClass('in-search');
-            jQuery('#search-clear').show();
-        }
-    });
-
-    jQuery('#search-clear').on('click', function(){
-        var searchInput = jQuery('#search');
-        searchInput.val('');
-        searchInput.focus();
-        searchInput.removeClass('in-search');
-        jQuery(this).hide();
-    });
-    //]]>
-</script>
-
         <div class="menu-container">
             <nav class="nav-container">
                 <ul id="nav">
@@ -371,7 +297,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <ul class="level1 nav-1 cf">
                                 
                                                                                                         <li class="level1 nav-1-0 ">
-                                        <a href="http://www.eastpak.com/oc-en/backpacks/shop-by-c7651.html" class="link">
+                                        <a href="http://www.eastpak.com/oc-en/backpacks-c120.html" class="link">
                                             <span>Shop by</span>
                                         </a>
                                         <ul class="level2 nav-1-0">
@@ -381,28 +307,28 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-1-0-1 ">
-                                                    <a href="http://www.eastpak.com/oc-en/backpacks/shop-by/new-c7650.html" class="link" title="New">
-                                                        <span>New</span>
-                                                    </a>
-                                                </li>
-                                                                                                                                                                                                <li class="level2 nav-1-0-2 ">
                                                     <a href="http://www.eastpak.com/oc-en/backpacks/shop-by/bestsellers-c7705.html" class="link" title="Bestsellers">
                                                         <span>Bestsellers</span>
                                                     </a>
                                                 </li>
+                                                                                                                                                                                                <li class="level2 nav-1-0-2 ">
+                                                    <a href="http://www.eastpak.com/oc-en/backpacks/shop-by/new-c7650.html" class="link" title="New">
+                                                        <span>New</span>
+                                                    </a>
+                                                </li>
                                                                                                                                                                                                 <li class="level2 nav-1-0-3 ">
-                                                    <a href="http://www.eastpak.com/oc-en/backpacks/shop-by/padded-pak-rr-c7259.html" class="link" title="Padded Pak'r®">
+                                                    <a href="http://www.eastpak.com/oc-en/backpacks/shop-by/the-iconic-c7259.html" class="link" title="Padded Pak'r®">
                                                         <span>Padded Pak'r®</span>
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-1-0-4 ">
-                                                    <a href="http://www.eastpak.com/oc-en/backpacks/shop-by/leather-c204.html" class="link" title="Leather">
-                                                        <span>Leather</span>
+                                                    <a href="http://www.eastpak.com/oc-en/backpacks/shop-by/mini-c7540.html" class="link" title="Mini ">
+                                                        <span>Mini </span>
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-1-0-5 ">
-                                                    <a href="http://www.eastpak.com/oc-en/backpacks/shop-by/mini-c7540.html" class="link" title="Mini ">
-                                                        <span>Mini </span>
+                                                    <a href="http://www.eastpak.com/oc-en/backpacks/shop-by/leather-backpacks-c204.html" class="link" title="Leather">
+                                                        <span>Leather</span>
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-1-0-6 ">
@@ -418,18 +344,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                                         </ul>
                                     </li>
                                                                                                             <li class="level1 nav-1-1 ">
-                                        <a href="http://www.eastpak.com/oc-en/backpacks/function-c7652.html" class="link">
+                                        <a href="http://www.eastpak.com/oc-en/backpacks-c120.html" class="link">
                                             <span>Function</span>
                                         </a>
                                         <ul class="level2 nav-1-1">
                                                                                                                                                                                             <li class="level2 nav-1-1-0 ">
-                                                    <a href="http://www.eastpak.com/oc-en/backpacks/function/work-c7653.html" class="link" title="Work">
-                                                        <span>Work</span>
+                                                    <a href="http://www.eastpak.com/oc-en/backpacks/function/study-c7643.html" class="link" title="Study">
+                                                        <span>Study</span>
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-1-1-1 ">
-                                                    <a href="http://www.eastpak.com/oc-en/backpacks/function/study-c7643.html" class="link" title="Study">
-                                                        <span>Study</span>
+                                                    <a href="http://www.eastpak.com/oc-en/backpacks/function/work-c7653.html" class="link" title="Work">
+                                                        <span>Work</span>
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-1-1-2 ">
@@ -438,18 +364,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-1-1-3 ">
+                                                    <a href="http://www.eastpak.com/oc-en/backpacks/function/around-town-c7654.html" class="link" title="Around Town">
+                                                        <span>Around Town</span>
+                                                    </a>
+                                                </li>
+                                                                                                                                                                                                <li class="level2 nav-1-1-4 ">
                                                     <a href="http://www.eastpak.com/oc-en/backpacks/function/travel-c205.html" class="link" title="Travel">
                                                         <span>Travel</span>
                                                     </a>
                                                 </li>
-                                                                                                                                                                                                <li class="level2 nav-1-1-4 ">
-                                                    <a href="http://www.eastpak.com/oc-en/backpacks/function/sport-c206.html" class="link" title="Sport">
-                                                        <span>Sport</span>
-                                                    </a>
-                                                </li>
                                                                                                                                                                                                 <li class="level2 nav-1-1-5 ">
-                                                    <a href="http://www.eastpak.com/oc-en/backpacks/function/around-town-c7654.html" class="link" title="Around Town">
-                                                        <span>Around Town</span>
+                                                    <a href="http://www.eastpak.com/oc-en/backpacks/function/leisure-sport-backpack-c206.html" class="link" title="Sport">
+                                                        <span>Sport</span>
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-1-1-6 ">
@@ -462,20 +388,66 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                 </ul>
                         </div>
                                                     <div class="visual-holder">
-                                                                <img src="http://www.eastpak.com/media/wysiwyg/Bckapcks_Nav_banner.jpg" alt="">
-<div class="image-description" style="background: #000;"><strong class="title">Leather Backpacks</strong> 
-<a class="button" href="http://www.eastpak.com/oc-en/backpacks/shop-by/leather-c204.html">SEE MORE</a></div>
+                                                                <img src="http://www.eastpak.com/media/wysiwyg/leather_combo_HP.jpg" alt="">
+<div class="image-description" style="background: #000;"><strong class="title">LEATHER BACKPACKS</strong> 
+<a class="button promo_banner" data-banner="backpacks-navigation.backpacks-navigation-leather.leather-combo.backpacks-navigation " href="http://www.eastpak.com/oc-en/backpacks/shop-by/leather-c204.html">DISCOVER PRODUCTS</a></div>
 
 
 
                             </div>
+                                                                            
+    <div class="silhouettes">
+                    <div class="silhouettes-title">What's your style?</div>
+                            <div class="silhouettes-items">
+                                    <div class="silhouettes-box">
+                        <a href="http://www.eastpak.com/oc-en/backpacks/shop-by/the-iconic-c7259.html">
+                                                            <span class="silhouettes-icon">
+                                    <img src="http://www.eastpak.com/media/catalog/category/paddedpakr3x.png" alt="Padded Pak'r®">
+                                </span>
+                                                        <span class="silhouettes-name">Padded Pak'r®</span>
+                        </a>
+                    </div>
+                                    <div class="silhouettes-box">
+                        <a href="http://www.eastpak.com/oc-en/backpacks/shop-by/back-to-wyoming-c7835.html">
+                                                            <span class="silhouettes-icon">
+                                    <img src="http://www.eastpak.com/media/catalog/category/backtowyoming3x.png" alt="Back To Wyoming">
+                                </span>
+                                                        <span class="silhouettes-name">Back To Wyoming</span>
+                        </a>
+                    </div>
+                                    <div class="silhouettes-box">
+                        <a href="http://www.eastpak.com/oc-en/backpacks/shop-by/floid-c7836.html">
+                                                            <span class="silhouettes-icon">
+                                    <img src="http://www.eastpak.com/media/catalog/category/floid3x.png" alt="Floid">
+                                </span>
+                                                        <span class="silhouettes-name">Floid</span>
+                        </a>
+                    </div>
+                                    <div class="silhouettes-box">
+                        <a href="http://www.eastpak.com/oc-en/backpacks/shop-by/london-c7837.html">
+                                                            <span class="silhouettes-icon">
+                                    <img src="http://www.eastpak.com/media/catalog/category/london3x.png" alt="London">
+                                </span>
+                                                        <span class="silhouettes-name">London</span>
+                        </a>
+                    </div>
+                                    <div class="silhouettes-box">
+                        <a href="http://www.eastpak.com/oc-en/backpacks/shop-by/bust-c7838.html">
+                                                            <span class="silhouettes-icon">
+                                    <img src="http://www.eastpak.com/media/catalog/category/bust3x.png" alt="Bust">
+                                </span>
+                                                        <span class="silhouettes-name">Bust</span>
+                        </a>
+                    </div>
+                            </div>
+            </div>
                                             </div>
                     <div class="featured-holder">
                                             </div>
                 </div>
                     </li>
                         <li class="level0 level-top nav-2 columns-3">
-            <a href="http://www.eastpak.com/oc-en/luggage/shop-by/view-all-c7545.html" class="level-top
+            <a href="http://www.eastpak.com/oc-en/luggage/shop-by/city-break-c7545.html" class="level-top
                 link  " title="Luggage">
                                 <span>Luggage</span>
             </a>
@@ -485,7 +457,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <ul class="level1 nav-2 cf">
                                 
                                                                                                         <li class="level1 nav-2-0 ">
-                                        <a href="http://www.eastpak.com/oc-en/luggage/shop-by-c7661.html" class="link">
+                                        <a href="http://www.eastpak.com/oc-en/luggage-c140.html" class="link">
                                             <span>Shop by</span>
                                         </a>
                                         <ul class="level2 nav-2-0">
@@ -495,60 +467,60 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-2-0-1 ">
-                                                    <a href="http://www.eastpak.com/oc-en/luggage/shop-by/new-c410.html" class="link" title="New">
-                                                        <span>New</span>
-                                                    </a>
-                                                </li>
-                                                                                                                                                                                                <li class="level2 nav-2-0-2 ">
                                                     <a href="http://www.eastpak.com/oc-en/luggage/shop-by/bestsellers-c7707.html" class="link" title="Bestsellers">
                                                         <span>Bestsellers</span>
                                                     </a>
                                                 </li>
+                                                                                                                                                                                                <li class="level2 nav-2-0-2 ">
+                                                    <a href="http://www.eastpak.com/oc-en/luggage/shop-by/new-c410.html" class="link" title="New">
+                                                        <span>New</span>
+                                                    </a>
+                                                </li>
                                                                                                                                                                                                 <li class="level2 nav-2-0-3 ">
+                                                    <a href="http://www.eastpak.com/oc-en/luggage/shop-by/2-wheeled-luggage-c7129.html" class="link" title="2 Wheels">
+                                                        <span>2 Wheels</span>
+                                                    </a>
+                                                </li>
+                                                                                                                                                                                                <li class="level2 nav-2-0-4 ">
+                                                    <a href="http://www.eastpak.com/oc-en/luggage/shop-by/4-wheeled-luggage-c7059.html" class="link" title="4 Wheels">
+                                                        <span>4 Wheels</span>
+                                                    </a>
+                                                </li>
+                                                                                                                                                                                                <li class="level2 nav-2-0-5 ">
                                                     <a href="http://www.eastpak.com/oc-en/luggage/shop-by/premium-c403.html" class="link" title="Premium">
                                                         <span>Premium</span>
                                                     </a>
                                                 </li>
-                                                                                                                                                                                                <li class="level2 nav-2-0-4 ">
-                                                    <a href="http://www.eastpak.com/oc-en/luggage/shop-by/2-wheels-c7129.html" class="link" title="2 Wheels">
-                                                        <span>2 Wheels</span>
-                                                    </a>
-                                                </li>
-                                                                                                                                                                                                <li class="level2 nav-2-0-5 ">
-                                                    <a href="http://www.eastpak.com/oc-en/luggage/shop-by/4-wheels-c7059.html" class="link" title="4 Wheels">
-                                                        <span>4 Wheels</span>
-                                                    </a>
-                                                </li>
                                                                                                                                                                                                 <li class="level2 nav-2-0-6 ">
-                                                    <a href="http://www.eastpak.com/oc-en/luggage/shop-by/hard-luggage-c404.html" class="link" title="Hard Luggage">
-                                                        <span>Hard Luggage</span>
+                                                    <a href="http://www.eastpak.com/oc-en/luggage/shop-by/duffle-bags-holdalls-c409.html" class="link" title="Duffles &amp; Holdalls">
+                                                        <span>Duffles &amp; Holdalls</span>
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-2-0-7 ">
-                                                    <a href="http://www.eastpak.com/oc-en/luggage/shop-by/duffles-holdalls-c409.html" class="link" title="Duffles &amp; Holdalls">
-                                                        <span>Duffles &amp; Holdalls</span>
+                                                    <a href="http://www.eastpak.com/oc-en/luggage/shop-by/hard-luggage-c404.html" class="link" title="Hard Luggage">
+                                                        <span>Hard Luggage</span>
                                                     </a>
                                                 </li>
                                                                                         </ul>
                                     </li>
                                                                                                             <li class="level1 nav-2-1 ">
-                                        <a href="http://www.eastpak.com/oc-en/luggage/function-c7662.html" class="link">
+                                        <a href="http://www.eastpak.com/oc-en/luggage-c140.html" class="link">
                                             <span>Function</span>
                                         </a>
                                         <ul class="level2 nav-2-1">
                                                                                                                                                                                             <li class="level2 nav-2-1-0 ">
-                                                    <a href="http://www.eastpak.com/oc-en/luggage/function/cabin-size-c401.html" class="link" title="Cabin Size">
+                                                    <a href="http://www.eastpak.com/oc-en/luggage/function/hand-cabin-luggage-c401.html" class="link" title="Cabin Size">
                                                         <span>Cabin Size</span>
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-2-1-1 ">
-                                                    <a href="http://www.eastpak.com/oc-en/luggage/function/business-travel-c7133.html" class="link" title="Business Travel">
-                                                        <span>Business Travel</span>
+                                                    <a href="http://www.eastpak.com/oc-en/luggage/function/long-haul-c408.html" class="link" title="Long Haul">
+                                                        <span>Long Haul</span>
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-2-1-2 ">
-                                                    <a href="http://www.eastpak.com/oc-en/luggage/function/long-haul-c408.html" class="link" title="Long Haul">
-                                                        <span>Long Haul</span>
+                                                    <a href="http://www.eastpak.com/oc-en/luggage/function/business-travel-c7133.html" class="link" title="Business Travel">
+                                                        <span>Business Travel</span>
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-2-1-3 ">
@@ -561,18 +533,56 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                 </ul>
                         </div>
                                                     <div class="visual-holder">
-                                                                <img src="http://www.eastpak.com/media/wysiwyg/Luggage_Nav_banner_.jpg" alt="">
+                                                                <img src="http://www.eastpak.com/media/wysiwyg/1216_Nav_banner_Luggage.jpg" alt="">
 <div class="image-description" style="background:#000">
 <strong class="title">Wheeled Luggage</strong>
-<a href="http://www.eastpak.com/oc-en/uk-en/luggage/shop-by/2-wheels-c7129.html" class="button">SEE MORE</a></div>
+<a class="button promo_banner" data-banner="luggage-navigation.luggage-navigation-2wheels.tranverzMapplepickred.luggage-navigation" href="http://www.eastpak.com/oc-en/luggage/shop-by/2-wheels-c7129.html">SEE MORE</a></div>
                             </div>
+                                                                            
+    <div class="silhouettes">
+                    <div class="silhouettes-title">What's your style?</div>
+                            <div class="silhouettes-items">
+                                    <div class="silhouettes-box">
+                        <a href="http://www.eastpak.com/oc-en/luggage/shop-by/tranverz-c402.html">
+                                                            <span class="silhouettes-icon">
+                                    <img src="http://www.eastpak.com/media/catalog/category/tranverz3x.png" alt="Tranverz">
+                                </span>
+                                                        <span class="silhouettes-name">Tranverz</span>
+                        </a>
+                    </div>
+                                    <div class="silhouettes-box">
+                        <a href="http://www.eastpak.com/oc-en/luggage/shop-by/tranzshell-c7839.html">
+                                                            <span class="silhouettes-icon">
+                                    <img src="http://www.eastpak.com/media/catalog/category/transhell3x.png" alt="Tranzshell">
+                                </span>
+                                                        <span class="silhouettes-name">Tranzshell</span>
+                        </a>
+                    </div>
+                                    <div class="silhouettes-box">
+                        <a href="http://www.eastpak.com/oc-en/luggage/shop-by/container-c7840.html">
+                                                            <span class="silhouettes-icon">
+                                    <img src="http://www.eastpak.com/media/catalog/category/container3x.png" alt="Container">
+                                </span>
+                                                        <span class="silhouettes-name">Container</span>
+                        </a>
+                    </div>
+                                    <div class="silhouettes-box">
+                        <a href="http://www.eastpak.com/oc-en/luggage/shop-by/station-c7841.html">
+                                                            <span class="silhouettes-icon">
+                                    <img src="http://www.eastpak.com/media/catalog/category/double3x.png" alt="Station">
+                                </span>
+                                                        <span class="silhouettes-name">Station</span>
+                        </a>
+                    </div>
+                            </div>
+            </div>
                                             </div>
                     <div class="featured-holder">
                                             </div>
                 </div>
                     </li>
                         <li class="level0 level-top nav-3 columns-3">
-            <a href="http://www.eastpak.com/oc-en/shoulderbags/shop-by/view-all-c7397.html" class="level-top
+            <a href="http://www.eastpak.com/oc-en/shoulderbags/shop-by/go-there-c7397.html" class="level-top
                 link  " title="Shoulder bags">
                                 <span>Shoulder bags</span>
             </a>
@@ -582,7 +592,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <ul class="level1 nav-3 cf">
                                 
                                                                                                         <li class="level1 nav-3-0 ">
-                                        <a href="http://www.eastpak.com/oc-en/shoulderbags/shop-by-c301.html" class="link">
+                                        <a href="http://www.eastpak.com/oc-en/shoulderbags-c130.html" class="link">
                                             <span>Shop by</span>
                                         </a>
                                         <ul class="level2 nav-3-0">
@@ -602,22 +612,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-3-0-3 ">
-                                                    <a href="http://www.eastpak.com/oc-en/shoulderbags/shop-by/leather-c304.html" class="link" title="Leather">
-                                                        <span>Leather</span>
-                                                    </a>
-                                                </li>
-                                                                                                                                                                                                <li class="level2 nav-3-0-4 ">
-                                                    <a href="http://www.eastpak.com/oc-en/shoulderbags/shop-by/messengers-c307.html" class="link" title="Messengers">
+                                                    <a href="http://www.eastpak.com/oc-en/shoulderbags/shop-by/messenger-bags-c307.html" class="link" title="Messengers">
                                                         <span>Messengers</span>
                                                     </a>
                                                 </li>
-                                                                                                                                                                                                <li class="level2 nav-3-0-5 ">
-                                                    <a href="http://www.eastpak.com/oc-en/shoulderbags/shop-by/mini-c303.html" class="link" title="Mini ">
+                                                                                                                                                                                                <li class="level2 nav-3-0-4 ">
+                                                    <a href="http://www.eastpak.com/oc-en/shoulderbags/shop-by/satchels-c303.html" class="link" title="Mini ">
                                                         <span>Mini </span>
                                                     </a>
                                                 </li>
+                                                                                                                                                                                                <li class="level2 nav-3-0-5 ">
+                                                    <a href="http://www.eastpak.com/oc-en/shoulderbags/shop-by/leather-shoulder-bags-c304.html" class="link" title="Leather">
+                                                        <span>Leather</span>
+                                                    </a>
+                                                </li>
                                                                                                                                                                                                 <li class="level2 nav-3-0-6 ">
-                                                    <a href="http://www.eastpak.com/oc-en/shoulderbags/shop-by/totes-c302.html" class="link" title="Totes">
+                                                    <a href="http://www.eastpak.com/oc-en/shoulderbags/shop-by/shoppers-tote-bags-c302.html" class="link" title="Totes">
                                                         <span>Totes</span>
                                                     </a>
                                                 </li>
@@ -629,7 +639,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                                         </ul>
                                     </li>
                                                                                                             <li class="level1 nav-3-1 ">
-                                        <a href="http://www.eastpak.com/oc-en/shoulderbags/function-c7655.html" class="link">
+                                        <a href="http://www.eastpak.com/oc-en/shoulderbags-c130.html" class="link">
                                             <span>Function</span>
                                         </a>
                                         <ul class="level2 nav-3-1">
@@ -639,17 +649,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-3-1-1 ">
-                                                    <a href="http://www.eastpak.com/oc-en/shoulderbags/function/study-c7511.html" class="link" title="Study">
+                                                    <a href="http://www.eastpak.com/oc-en/shoulderbags/function/colors-c7511.html" class="link" title="Study">
                                                         <span>Study</span>
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-3-1-2 ">
-                                                    <a href="http://www.eastpak.com/oc-en/shoulderbags/function/laptop-c305.html" class="link" title="Laptop ">
+                                                    <a href="http://www.eastpak.com/oc-en/shoulderbags/function/laptop-shoulderbags-c305.html" class="link" title="Laptop ">
                                                         <span>Laptop </span>
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-3-1-3 ">
-                                                    <a href="http://www.eastpak.com/oc-en/shoulderbags/function/around-town-c7438.html" class="link" title="Around Town">
+                                                    <a href="http://www.eastpak.com/oc-en/shoulderbags/function/mexicoco-c7438.html" class="link" title="Around Town">
                                                         <span>Around Town</span>
                                                     </a>
                                                 </li>
@@ -658,18 +668,56 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                 </ul>
                         </div>
                                                     <div class="visual-holder">
-                                                                <img src="http://www.eastpak.com/media/wysiwyg/Nav_banner_opgrade_shoulderbags.jpg" alt="">
+                                                                <img src="http://www.eastpak.com/media/wysiwyg/1216_Nav_banner_shoulderbags.jpg" alt="">
 <div class="image-description" style="background:#000"><strong class="title">Messenger Bags</strong>
-<a href="http://www.eastpak.com/oc-en/shoulderbags/shop-by/messengers-c307.html" class="button">SHOP NOW</a></div>
+<a class="button promo_banner" data-banner="shoulderbags-navigation.shoulderbags-navigation-messengers.Delegate-brownieleather.shoulderbags-navigation" href="http://www.eastpak.com/oc-en/shoulderbags/shop-by/messengers-c307.html">SHOP NOW</a></div>
 
                             </div>
+                                                                            
+    <div class="silhouettes">
+                    <div class="silhouettes-title">What's your style?</div>
+                            <div class="silhouettes-items">
+                                    <div class="silhouettes-box">
+                        <a href="http://www.eastpak.com/oc-en/shoulderbags/shop-by/delegate-c7842.html">
+                                                            <span class="silhouettes-icon">
+                                    <img src="http://www.eastpak.com/media/catalog/category/delegate3x.png" alt="Delegate">
+                                </span>
+                                                        <span class="silhouettes-name">Delegate</span>
+                        </a>
+                    </div>
+                                    <div class="silhouettes-box">
+                        <a href="http://www.eastpak.com/oc-en/shoulderbags/shop-by/flask-c7843.html">
+                                                            <span class="silhouettes-icon">
+                                    <img src="http://www.eastpak.com/media/catalog/category/flask3x.png" alt="Flask">
+                                </span>
+                                                        <span class="silhouettes-name">Flask</span>
+                        </a>
+                    </div>
+                                    <div class="silhouettes-box">
+                        <a href="http://www.eastpak.com/oc-en/shoulderbags/shop-by/tomec-c7844.html">
+                                                            <span class="silhouettes-icon">
+                                    <img src="http://www.eastpak.com/media/catalog/category/tomek3x.png" alt="Tomec">
+                                </span>
+                                                        <span class="silhouettes-name">Tomec</span>
+                        </a>
+                    </div>
+                                    <div class="silhouettes-box">
+                        <a href="http://www.eastpak.com/oc-en/shoulderbags/shop-by/the-one-c7845.html">
+                                                            <span class="silhouettes-icon">
+                                    <img src="http://www.eastpak.com/media/catalog/category/theone3x.png" alt="The One">
+                                </span>
+                                                        <span class="silhouettes-name">The One</span>
+                        </a>
+                    </div>
+                            </div>
+            </div>
                                             </div>
                     <div class="featured-holder">
                                             </div>
                 </div>
                     </li>
                         <li class="level0 level-top nav-4 columns-3">
-            <a href="http://www.eastpak.com/oc-en/bumbags-pouches/shop-by/view-all-c7544.html" class="level-top
+            <a href="http://www.eastpak.com/oc-en/bumbags-pouches/shop-by/out-about-c7544.html" class="level-top
                 link  " title="Accessories">
                                 <span>Accessories</span>
             </a>
@@ -679,59 +727,59 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <ul class="level1 nav-4 cf">
                                 
                                                                                                         <li class="level1 nav-4-0 ">
-                                        <a href="http://www.eastpak.com/oc-en/bumbags-pouches/shop-by-c7660.html" class="link">
+                                        <a href="http://www.eastpak.com/oc-en/bumbags-pouches-c150.html" class="link">
                                             <span>Shop by</span>
                                         </a>
                                         <ul class="level2 nav-4-0">
                                                                                                                                                                                             <li class="level2 nav-4-0-0 ">
-                                                    <a href="http://www.eastpak.com/oc-en/accessories-c150.html" class="link" title="View all">
+                                                    <a href="http://www.eastpak.com/oc-en/bumbags-pouches-c150.html" class="link" title="View all">
                                                         <span>View all</span>
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-4-0-1 ">
-                                                    <a href="http://www.eastpak.com/oc-en/bumbags-pouches/shop-by/new-c504.html" class="link" title="New">
-                                                        <span>New</span>
-                                                    </a>
-                                                </li>
-                                                                                                                                                                                                <li class="level2 nav-4-0-2 ">
                                                     <a href="http://www.eastpak.com/oc-en/bumbags-pouches/shop-by/bestsellers-c7706.html" class="link" title="Bestsellers">
                                                         <span>Bestsellers</span>
                                                     </a>
                                                 </li>
+                                                                                                                                                                                                <li class="level2 nav-4-0-2 ">
+                                                    <a href="http://www.eastpak.com/oc-en/bumbags-pouches/shop-by/new-c504.html" class="link" title="New">
+                                                        <span>New</span>
+                                                    </a>
+                                                </li>
                                                                                                                                                                                                 <li class="level2 nav-4-0-3 ">
-                                                    <a href="http://www.eastpak.com/oc-en/bumbags-pouches/shop-by/premium-c7649.html" class="link" title="Premium">
-                                                        <span>Premium</span>
-                                                    </a>
-                                                </li>
-                                                                                                                                                                                                <li class="level2 nav-4-0-4 ">
-                                                    <a href="http://www.eastpak.com/oc-en/bumbags-pouches/shop-by/leather-c7261.html" class="link" title="Leather ">
-                                                        <span>Leather </span>
-                                                    </a>
-                                                </li>
-                                                                                                                                                                                                <li class="level2 nav-4-0-5 ">
                                                     <a href="http://www.eastpak.com/oc-en/bumbags-pouches/shop-by/bum-bags-c501.html" class="link" title="Bum Bags">
                                                         <span>Bum Bags</span>
                                                     </a>
                                                 </li>
-                                                                                                                                                                                                <li class="level2 nav-4-0-6 ">
+                                                                                                                                                                                                <li class="level2 nav-4-0-4 ">
                                                     <a href="http://www.eastpak.com/oc-en/bumbags-pouches/shop-by/pencil-cases-c505.html" class="link" title="Pencil Cases">
                                                         <span>Pencil Cases</span>
                                                     </a>
                                                 </li>
-                                                                                                                                                                                                <li class="level2 nav-4-0-7 ">
+                                                                                                                                                                                                <li class="level2 nav-4-0-5 ">
                                                     <a href="http://www.eastpak.com/oc-en/bumbags-pouches/shop-by/wallets-c503.html" class="link" title="Wallets">
                                                         <span>Wallets</span>
                                                     </a>
                                                 </li>
+                                                                                                                                                                                                <li class="level2 nav-4-0-6 ">
+                                                    <a href="http://www.eastpak.com/oc-en/bumbags-pouches/shop-by/premium-c7649.html" class="link" title="Premium">
+                                                        <span>Premium</span>
+                                                    </a>
+                                                </li>
+                                                                                                                                                                                                <li class="level2 nav-4-0-7 ">
+                                                    <a href="http://www.eastpak.com/oc-en/bumbags-pouches/shop-by/leather-c7261.html" class="link" title="Leather ">
+                                                        <span>Leather </span>
+                                                    </a>
+                                                </li>
                                                                                                                                                                                                 <li class="level2 nav-4-0-8 ">
-                                                    <a href="http://www.eastpak.com/oc-en/bumbags-pouches/shop-by/toiletry-bags-c502.html" class="link" title="Toiletry Bags">
+                                                    <a href="http://www.eastpak.com/oc-en/bumbags-pouches/shop-by/toilet-bags-c502.html" class="link" title="Toiletry Bags">
                                                         <span>Toiletry Bags</span>
                                                     </a>
                                                 </li>
                                                                                         </ul>
                                     </li>
                                                                                                             <li class="level1 nav-4-1 ">
-                                        <a href="http://www.eastpak.com/oc-en/bumbags-pouches/function-c7656.html" class="link">
+                                        <a href="http://www.eastpak.com/oc-en/bumbags-pouches-c150.html" class="link">
                                             <span>Function</span>
                                         </a>
                                         <ul class="level2 nav-4-1">
@@ -746,7 +794,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-4-1-2 ">
-                                                    <a href="http://www.eastpak.com/oc-en/bumbags-pouches/function/tablet-laptop-c7052.html" class="link" title="Tablet &amp; Laptop ">
+                                                    <a href="http://www.eastpak.com/oc-en/bumbags-pouches/function/tablets-smartphones-accessories-c7052.html" class="link" title="Tablet &amp; Laptop ">
                                                         <span>Tablet &amp; Laptop </span>
                                                     </a>
                                                 </li>
@@ -755,19 +803,82 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                 </ul>
                         </div>
                                                     <div class="visual-holder">
-                                                                <img src="http://www.eastpak.com/media/wysiwyg/Nav_banners_acc.jpg" alt="">
+                                                                <img src="http://www.eastpak.com/media/wysiwyg/Nav_banner_bumbags.jpg" alt="">
 <div class="image-description" style="background:#000">
-<strong class="title">Bum Bags</strong><a href="http://www.eastpak.com/oc-en/bumbags-pouches/shop-by/bum-bags-c501.html" class="button">SHOP NOW</a></div>
+<strong class="title">Bum bags</strong>
+<a class="button promo_banner" data-banner="accessories-navigation.accessories-navigation-bumbags.model-green-springer.accessories-navigation" href="http://www.eastpak.com/oc-en/bumbags-pouches/shop-by/bum-bags-c501.html">SHOP NOW</a></div>
 
 
+<style media="screen" type="text/css">body .menu-container .visual-holder {
+    position: relative;
+}
+body .menu-container .visual-holder .image-description {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: auto;
+    padding-bottom: 20px;
+    background: none!important;
+}
+body .menu-container .visual-holder .image-description .title {
+    margin-bottom: 14px;
+    font-size: 24px;
+    text-transform: none;
+}
+body .menu-container .visual-holder .image-description .button promo_banner {
+    padding-top: 0;
+    border: none;
+}
+body .menu-container .visual-holder .image-description .button promo_banner:hover {
+    background: none!important;
+}
+</style>                            </div>
+                                                                            
+    <div class="silhouettes">
+                    <div class="silhouettes-title">What's your style?</div>
+                            <div class="silhouettes-items">
+                                    <div class="silhouettes-box">
+                        <a href="http://www.eastpak.com/oc-en/bumbags-pouches/shop-by/springer-c7846.html">
+                                                            <span class="silhouettes-icon">
+                                    <img src="http://www.eastpak.com/media/catalog/category/springer3x.png" alt="Springer">
+                                </span>
+                                                        <span class="silhouettes-name">Springer</span>
+                        </a>
+                    </div>
+                                    <div class="silhouettes-box">
+                        <a href="http://www.eastpak.com/oc-en/bumbags-pouches/shop-by/buddy-c7847.html">
+                                                            <span class="silhouettes-icon">
+                                    <img src="http://www.eastpak.com/media/catalog/category/buddy3x.png" alt="Buddy">
+                                </span>
+                                                        <span class="silhouettes-name">Buddy</span>
+                        </a>
+                    </div>
+                                    <div class="silhouettes-box">
+                        <a href="http://www.eastpak.com/oc-en/bumbags-pouches/shop-by/oval-c7848.html">
+                                                            <span class="silhouettes-icon">
+                                    <img src="http://www.eastpak.com/media/catalog/category/oval_3x.png" alt="Oval">
+                                </span>
+                                                        <span class="silhouettes-name">Oval</span>
+                        </a>
+                    </div>
+                                    <div class="silhouettes-box">
+                        <a href="http://www.eastpak.com/oc-en/bumbags-pouches/shop-by/crew-c7849.html">
+                                                            <span class="silhouettes-icon">
+                                    <img src="http://www.eastpak.com/media/catalog/category/crew3x.png" alt="Crew">
+                                </span>
+                                                        <span class="silhouettes-name">Crew</span>
+                        </a>
+                    </div>
                             </div>
+            </div>
                                             </div>
                     <div class="featured-holder">
                                             </div>
                 </div>
                     </li>
-                        <li class="level0 level-top nav-5 columns-3">
-            <a href="http://www.eastpak.com/oc-en/about_eastpak/" class="level-top
+                        <li class="level0 level-top nav-5 columns-2">
+            <a href="http://www.eastpak.com/oc-en/ourstory/" class="level-top
                 link  " title="Discover Eastpak">
                                 <span>Discover Eastpak</span>
             </a>
@@ -777,145 +888,97 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <ul class="level1 nav-5 cf">
                                 
                                                                                                         <li class="level1 nav-5-0 ">
-                                        <a href="/about_eastpak" class="link">
+                                        <a href="http://www.eastpak.com/oc-en/ourstory/" class="link">
                                             <span>About Eastpak</span>
                                         </a>
                                         <ul class="level2 nav-5-0">
                                                                                                                                                                                             <li class="level2 nav-5-0-0 ">
-                                                    <a href="/about_eastpak" class="link" title="Our story">
+                                                    <a href="http://www.eastpak.com/oc-en/ourstory/" class="link" title="Our story">
                                                         <span>Our story</span>
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-5-0-1 ">
-                                                    <a href="/lookbook/" class="link" title="Lookbook">
+                                                    <a href="http://www.eastpak.com/oc-en/lookbook-fall/" class="link" title="Lookbook">
                                                         <span>Lookbook</span>
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-5-0-2 ">
-                                                    <a href="/news/" class="link" title="Eastpak News">
+                                                    <a href="http://www.eastpak.com/oc-en/news/" class="link" title="Eastpak News">
                                                         <span>Eastpak News</span>
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-5-0-3 ">
-                                                    <a href="http://cityguides.eastpak.com" class="link" title="City Guides">
+                                                    <a href="http://cityguides.eastpak.com" target="_blank" class="link" title="City Guides">
                                                         <span>City Guides</span>
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-5-0-4 ">
-                                                    <a href="http://artiststudio.eastpak.com/" class="link" title="Artist Studio">
+                                                    <a href="http://artiststudio.eastpak.com/" target="_blank" class="link" title="Artist Studio">
                                                         <span>Artist Studio</span>
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-5-0-5 ">
-                                                    <a href="/40-years-padded/" class="link" title="40 years padded">
-                                                        <span>40 years padded</span>
+                                                    <a href="http://www.eastpak.com/oc-en/our-iconic-shape/" class="link" title="Our iconic backpack shape">
+                                                        <span>Our iconic backpack shape</span>
+                                                    </a>
+                                                </li>
+                                                                                                                                                                                                <li class="level2 nav-5-0-6 ">
+                                                    <a href="http://www.eastpak.com/oc-en/artist-collabs/" class="link" title="Collaborations overview">
+                                                        <span>Collaborations overview</span>
+                                                    </a>
+                                                </li>
+                                                                                                                                                                                                <li class="level2 nav-5-0-7 ">
+                                                    <a href="http://www.eastpak.com/oc-en/travel-gear/" class="link" title="Travel gear">
+                                                        <span>Travel gear</span>
+                                                    </a>
+                                                </li>
+                                                                                                                                                                                                <li class="level2 nav-5-0-8 ">
+                                                    <a href="http://www.eastpak.com/oc-en/eastpakstyle/" class="link" title="Eastpak Style">
+                                                        <span>Eastpak Style</span>
                                                     </a>
                                                 </li>
                                                                                         </ul>
                                     </li>
                                                                                                             <li class="level1 nav-5-1 ">
-                                        <a href="http://www.eastpak.com/oc-en/about-eastpak/collaborations-c7665.html" class="link">
+                                        <a href="http://www.eastpak.com/oc-en/artist-collabs/" target="_blank" class="link">
                                             <span>Collaborations</span>
                                         </a>
                                         <ul class="level2 nav-5-1">
                                                                                                                                                                                             <li class="level2 nav-5-1-0 ">
-                                                    <a href="/japanese-denim/" class="link" title="Kuroki">
+                                                    <a href="http://www.eastpak.com/oc-en/about-eastpak/collaborations/kuroki-c7804.html" class="link" title="Kuroki">
                                                         <span>Kuroki</span>
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-5-1-1 ">
-                                                    <a href="/timberland/" class="link" title="Timberland">
+                                                    <a href="http://www.eastpak.com/oc-en/timberland/" class="link" title="Timberland">
                                                         <span>Timberland</span>
                                                     </a>
                                                 </li>
                                                                                                                                                                                                 <li class="level2 nav-5-1-2 ">
-                                                    <a href="/tim-coppens/" class="link" title="Tim Coppens">
+                                                    <a href="http://www.eastpak.com/oc-en/tim-coppens/" class="link" title="Tim Coppens">
                                                         <span>Tim Coppens</span>
+                                                    </a>
+                                                </li>
+                                                                                                                                                                                                <li class="level2 nav-5-1-3 ">
+                                                    <a href="http://www.eastpak.com/oc-en/vetements/" class="link" title="Vetements">
+                                                        <span>Vetements</span>
                                                     </a>
                                                 </li>
                                                                                         </ul>
                                     </li>
                                                                 </ul>
                         </div>
-                                                    <div class="visual-holder">
-                                                                <img src="http://www.eastpak.com/media/wysiwyg/About_EAST_banner.jpg" alt="">
-<div class="image-description" style="background:#000"><strong class="title">EASTPAK ARTIST STUDIO</strong><a href="http://artiststudio.eastpak.com/artists" class="button">Find out more</a></div>                            </div>
+                                                                            
                                             </div>
                     <div class="featured-holder">
                                             </div>
                 </div>
                     </li>
-        
-<script>
-    (function () {
-        jQuery(function () {
-            initNavigationMenu();
-        });
-
-        var initNavigationMenu = function () {
-            jQuery('#nav').children('.level-top').each(function () {
-                $this = jQuery(this);
-                // To prevent shifting due to bold on hover
-                //        $this.css({'width': jQuery(this).width()+2});
-                // Manage a second row in menu
-                if ($this.position().top > ($this.height() / 2)) {
-                    $this.addClass('second-row-menu');
-                }
-                // Manage a third row in menu
-                if ($this.position().top > ($this.height() * 3 / 2)) {
-                    $this.addClass('third-row-menu');
-                }
-            }).hover(function () {
-                jQuery(this).toggleClass('active').find('.nav-container-level1').toggleClass('active');
-            });
-
-            jQuery("#nav").mouseleave(function () {
-                jQuery(this).children('.level-top').removeClass('active').find('.nav-container-level1').removeClass('active');
-            });
-        }
-    })();
-
-    var fullPriceRetailStoreCodes = [];
-</script>
-                </ul>
+                        </ul>
             </nav>
         </div>
     </div>
 </header>
-
-<script type="text/javascript">
-    document.observe("dom:loaded", function() {
-        doGeolocation("http://www.eastpak.com/oc-en/geolocation/index/ajax//");
-        var vCarousel = null;
-
-        //$("topCart").show();
-        if ($("minicart-show") == null) {
-            return
-        }
-    });
-    jQuery('.menu-control-li').on('click', function(){
-        jQuery('ul.level1 li.level1:first-child').addClass('active-tab');
-    });
-    if (
-        null !== document.querySelector('header.header-container')
-        && window.innerWidth <= 979
-    ) {
-        document.observe("scroll", function(){
-            var header = $$('header.header-container')[0],
-                panelBlock = $$('header.header-container .panel-block')[0],
-                scroll = window.pageYOffset;
-
-            if (scroll >= header.getHeight()) {
-                header.addClassName('header-fixed');
-                panelBlock.hide();
-            } else {
-                header.removeClassName('header-fixed');
-                panelBlock.show();
-            }
-        });
-    }
-</script>
-
                 <div class="main col2-left-layout">
             <div class="breadcrumbs">
     <ul>
@@ -1012,7 +1075,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
                 <footer class="footer-container">
     <div id="back-to-top" class="back-to-top"><span>Back to top</span></div>    <div class="footer">
+        <a href="http://www.eastpak.com/oc-en/" class="logo-eastpak">
+            <img src="http://www.eastpak.com/skin/frontend/vf/eastpak/images/logo.png" alt="Eastpak">
+        </a>
         <section class="footer-holder">
+            <div class="footer-links">
             <div class="column">
     <h3>Customer Service</h3>
     <ul>
@@ -1031,14 +1098,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="column">
     <h3>Eastpak</h3>
     <ul>
-        <li><a href="http://www.eastpak.com/oc-en/about_eastpak">About Eastpak</a></li>
+        <li><a href="http://www.eastpak.com/oc-en/ourstory">About Eastpak</a></li>
         <li><a href="http://www.eastpak.com/oc-en/frequently_asked_questions">FAQ</a></li>
         <li><a href="https://www.linkedin.com/jobs2/view/205991440?refId=266859571473927830592&amp;trk=vsrp_jobs_res_name&amp;trkInfo=VSRPsearchId%3A266859571473927830592%2CVSRPtargetId%3A205991440%2CVSRPcmpt%3Aprimary" target="_blank">Jobs</a></li>
         <li><a href="http://www.eastpak.com/oc-en/storelocator-c7529.html">Store Locator</a></li>
+<li><a href="http://www.eastpak.com/oc-en/counterfeit/">Counterfeit</a></li>
     </ul>
-</div>            <div class="newsletter-container">
+</div>            </div>
+            <div class="newsletter-container">
             <h3><i>Subscribe</i> to our Newsletter</h3>
             <form action="http://www.eastpak.com/oc-en/newsletter/subscriber/new/" method="post" id="newsletter-subscribe">
+                <input name="form_key" type="hidden" value="esBgqDRlcd3ptHhI">
                 <div class="newsletter_offer">
                     <div>And get <span class="yellow">15% off</span> on your first order</div>                </div>
                                     <div class="block-content">
@@ -1301,7 +1371,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <input type="email" class="input-text required-entry validate-email" title="Sign up for our newsletter" id="newsletter" name="email" spellcheck="false" autocorrect="off" autocapitalize="off" placeholder="Enter your email address">
                         </div>
                         <div class="actions">
-                            <button class="button" title="Subscribe" type="submit" onclick="submitSubscribeNewsletter(); return false;"><span>Subscribe</span></button>
+                            <button class="button submit-subscribe-newsletter" title="Subscribe" type="submit"><span>Subscribe</span></button>
                         </div>
                    </div>
                     <div class="checkbox-row agree-block">
@@ -1316,132 +1386,50 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </form>
         </div>
         </section>
-                            
-        <div class="social-container">
-            <a href="http://www.eastpak.com/oc-en/" class="logo-eastpak visible-mobile">
-                <img src="http://www.eastpak.com/skin/frontend/vf/eastpak/images/logo.png" alt="Eastpak">
-            </a>
-                                        <strong>Follow us</strong>
-                <ul class="social-networks">
-                                            <li class="facebook">
-                            <a href="https://www.facebook.com/eastpak" title="Facebook" target="_blank">
-                                Facebook                            </a>
-                        </li>
-                                                                <li class="twitter">
-                            <a href="https://twitter.com/eastpak" title="Twitter" target="_blank">
-                                Twitter                            </a>
-                        </li>
-                                                                <li class="pinterest">
-                            <a href="http://www.pinterest.com/eastpak/" title="Pinterest" target="_blank">
-                                Pinterest                            </a>
-                        </li>
-                                                                <li class="instagram">
-                            <a href="http://instagram.com/eastpak" title="Instagram" target="_blank">
-                                Instagram                            </a>
-                        </li>
-                                                                <li class="youtube">
-                            <a href="http://www.youtube.com/eastpakeurope" title="Youtube" target="_blank">
-                                Youtube                            </a>
-                        </li>
-                                                                <li class="gplus">
-                            <a href="https://plus.google.com/" title="Google +" target="_blank">
-                                Google +                            </a>
-                        </li>
-                                    </ul>
-                    </div>
-        <div class="clear"></div>
+
+        
+            </div>
+    <div class="copyright-block-wrapper">
         <div class="copyright-block">
-            <span class="copyright">© Copyright Eastpak 2016.</span>
+            <span class="copyright">© Copyright Eastpak 2017</span>
             <ul class="footer-links">
-    <li><a href="http://www.eastpak.com/oc-en/catalog/seo_sitemap/category/">Site Map</a></li>
     <li><a href="http://www.eastpak.com/oc-en/privacy_policy">Privacy policy</a></li>
     <li><a href="http://www.eastpak.com/oc-en/disclaimer">Disclaimer</a></li>
     <li><a href="http://www.eastpak.com/oc-en/cookie_policy">Cookie policy</a></li>
     <li><a href="http://www.eastpak.com/oc-en/newsletter">Unsubscribe</a></li>
-</ul>        </div>
+</ul>
+<br><br>
+<p>
+VF INTERNATIONAL S.A.G.L., whose registered office is at Via Laveggio, 5, 6855 – Stabio, Switzerland, Company Registration number Stabio - CH-514.4.028.163-8, VAT Number CHE-111.650.898
+</p>        </div>
     </div>
 </footer>
-
-<script type="text/javascript">
-    //<![CDATA[
-    jQuery(function(){
-        // IE8 fix ( do not recognize change event )
-        jQuery('.validate-policy-container').on('mouseup', '.chk-area', function(){
-            setTimeout(function(){ jQuery('#validate-policy').change();}, 500);
-        });
-
-        jQuery('#validate-policy').change(function() {
-            checkErrorPrivacy(this);
-        });
-    });
-
-    function checkErrorPrivacy(that){
-        if(that.checked){
-            jQuery('#advice-required-entry-validate-policy').hide();
-        }
-    }
-
-    var newsletterSubscribeOnLoad = false;
-    var newsletterForm = new VarienForm('newsletter-subscribe');
-    function submitSubscribeNewsletter() {
-        if (!newsletterSubscribeOnLoad && newsletterForm.validator && newsletterForm.validator.validate()) {
-            new Ajax.Request('http://www.eastpak.com/oc-en/newsletter/subscriber/newajax/',
-            {
-                method:'post',
-                parameters: $('newsletter-subscribe').serialize(true),
-                onLoading: function(){
-                    newsletterSubscribeOnLoad = true;
-                    jQuery('#newsletter-subscribe-loading').show();
-                },
-                onSuccess: function(transport){
-                    var response = transport.responseText.evalJSON();
-                    showNotificationMessage(response.message,response.type);
-                    if(response.type == "success" ){
-                        jQuery('#newsletter-email').val('');
-                    }
-                },
-                onFailure: function(){
-                    showNotificationMessage("Something went wrong ...",response.type);
-                },
-                onComplete: function(){
-                    newsletterSubscribeOnLoad = false;
-                    jQuery('#newsletter-subscribe-loading').hide();
-                }
-            });
-        }
-    }
-    //]]>
-</script>
             <div id="cookie-banner" class="cookie-banner" style="display: none; background-color: #FFFFFF">
         <div class="cookie-banner-wrapper">
-            <a href="#" class="close"><img src="http://www.eastpak.com/skin/frontend/vf/default/images/transparent.png" class="sprite_close">close</a>
-            <div class="cookie-banner-content"><h2>Cookie policy</h2>
-<!--
-<p>We use cookies to give you a fabulous customer experience and enable you to checkout on our website. By continuing to browse or shop we will assume you are happy to receive all cookies, otherwise you can review more information on cookies <a href="http://www.eastpak.com/oc-en/cookie-policy/" _mce_href="http://www.eastpak.com/oc-en/cookie-policy/">here</a>.</p>
--->
-<p>Welcome to http://www.eastpak.com/oc-en/ This website uses Cookies for marketing purposes, web analytics and to give you a more personalized experience. Please see our <a onclick="truste.eu &amp;&amp; truste.eu.clickListener(1); ga('send', 'event', 'User interaction', 'Click', 'Truste Cookie consent window open');" style="cursor:pointer;color:#ca4040;">Cookie Policy</a> for further information on how to disable cookies and exercise your privacy rights. Click here or on any part of the screen to accept cookies.</p></div>
+            <a href="#" class="close"><img src="http://www.eastpak.com/skin/frontend/vf/default/images/transparent.png" class="sprite_close" alt="">close</a>
+            <div class="cookie-banner-content"><table border="0">
+<tbody>
+<tr>
+<td>
+<h4>Cookie Policy</h4>
+<p class="cookie">Eastpak uses own and third party cookies for marketing, profiling and analytics purposes, and to ease your navigation on the site. Please see our <a style="cursor: pointer; color: #ca4040;" href="http://www.eastpak.com/oc-en/cookie_policy/"><span style="text-decoration: underline;">cookie policy</span></a> or manage your <a style="cursor: pointer; color: #ca4040;" onclick="truste.eu &amp;&amp; truste.eu.clickListener(1); ga('send', 'event', 'User interaction', 'Click', 'Truste Cookie consent window open');"><span style="text-decoration: underline;"> cookie preferences</span>.</a> Click CLOSE to accept cookies.</p>
+</td>
+</tr>
+</tbody>
+</table><style media="screen" type="text/css">.cookie { font-size: 8px; }</style></div>
         </div>
     </div>
-
-    <script type="text/javascript">
-        Event.observe(window, 'load', function() {
-            if (Mage.Cookies.get('cookie_policy') != 1) {
-                function acceptCookiePolicy() {
-                    Mage.Cookies.set('cookie_policy', 1);
-                    $('cookie-banner').hide();
-                }
-
-                $('cookie-banner').show();
-
-                $('cookie-banner').observe('click', acceptCookiePolicy);
-            }
-        });
-    </script>
 <div id="wishlist_edit_action_container"></div>
+<script type="text/javascript">
+    BlocksAjax.addBlock('form_key', '', '', 'addFormKey', '');
+    function addFormKey(resp) {
+        jQuery('body').prepend(resp.form_key);
+    }
+</script>
     </div>
 </div>
 <div id="global_notification_message" class="popup-product global_notification_message">
-    <a href="#" class="close"><img src="http://www.eastpak.com/skin/frontend/vf/default/images/transparent.png" class="sprite_close">Close</a>
+    <a href="#" class="close"><img src="http://www.eastpak.com/skin/frontend/vf/default/images/transparent.png" class="sprite_close" alt="">Close</a>
     <div class="holder">
         <p class="adjustable">&nbsp;</p>
         <div class="notification-message">
@@ -1451,7 +1439,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
 </div>
 <div id="newsletter_footer_popup" class="popup-product">
-    <a href="#" class="close"><img src="http://www.eastpak.com/skin/frontend/vf/default/images/transparent.png" class="sprite_close">Close</a>
+    <a href="#" class="close"><img src="http://www.eastpak.com/skin/frontend/vf/default/images/transparent.png" class="sprite_close" alt="">Close</a>
     <div class="holder">
         <p class="adjustable">&nbsp;</p>
         <div class="notification-message">
@@ -1466,6 +1454,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
     </div>
 </div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"bc82db396f","applicationID":"27264051","transactionName":"b11UNxdXV0VWVUxRWFYXdwARX1ZYGFVVSxhIWVEGSkBQU0A=","queueTime":0,"applicationTime":582,"atts":"QxpXQV9NREs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"bc82db396f","applicationID":"27264051","transactionName":"b11UNxdXV0VWVUxRWFYXdwARX1ZYGFVVSxhIWVEGSkBQU0A=","queueTime":0,"applicationTime":422,"atts":"QxpXQV9NREs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
