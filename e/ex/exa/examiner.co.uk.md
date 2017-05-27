@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examiner.co.uk privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121122126id_/http%3A//www.examiner.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examiner.co.uk privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527184155id_/http%3A//www.examiner.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Huddersfield Examiner: Huddersfield and West Yorkshire news and sport
 
