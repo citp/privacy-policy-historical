@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the festivalsherpa.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017233350id_/https%3A//www.festivalsherpa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the festivalsherpa.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527020310id_/https%3A//www.festivalsherpa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Festival Sherpa | Online Guide to Festivals
 
@@ -115,3 +115,6 @@ We cannot ensure that all of your private communications and other personal info
 **17\. CONTACTING US**
 
 If there are any questions regarding this privacy policy you may contact us at [thesherp@festivalsherpa.com](mailto:thesherp@festivalsherpa.com).
+
+  
+
