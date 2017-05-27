@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ladyboy-ladyboy.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119175826id_/http%3A//www.ladyboy-ladyboy.com/compliance/privacypolicy.php%3Fsite%3DLadyboy-Ladyboy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladyboy-ladyboy.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527180901id_/http%3A//www.ladyboy-ladyboy.com/compliance/privacypolicy.php%3Fsite%3DLadyboy-Ladyboy) for the most accurate reproduction.*
 
 # Ladyboy-Ladyboy - Privacy Policy
 
