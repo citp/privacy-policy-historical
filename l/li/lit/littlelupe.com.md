@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlelupe.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205083307id_/http%3A//littlelupe.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlelupe.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527093959id_/http%3A//www.littlelupe.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
