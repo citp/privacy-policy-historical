@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thechalkboardmag.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128171542id_/http%3A//thechalkboardmag.com/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechalkboardmag.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527080320id_/http%3A//www.thechalkboardmag.com/policy/privacy.html) for the most accurate reproduction.*
 
 # The Chalkboard Magazine: Privacy Policy
+
+**Privacy Policy for TheChalkboardMag.com Website**
 
 **1\. Our Commitment to Privacy**
 
