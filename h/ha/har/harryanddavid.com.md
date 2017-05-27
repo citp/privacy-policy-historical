@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the harryanddavid.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010065814id_/https%3A//www.harryanddavid.com/About-Us-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harryanddavid.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527232457id_/https%3A//www.harryanddavid.com/About-Us-Privacy-Policy) for the most accurate reproduction.*
 
 # About Us - Privacy Policy
 
-Last Updated June 29, 2016
+[](https://privacy.truste.com/privacy-seal/validation?rid=5390b55e-b9d5-4405-ae18-eedba5120955)
+
+Last Updated January 3, 2017
 
 The 1-800-FLOWERS.COM® family of brands, recognizes and respects the importance of maintaining the privacy of our customers, registered members, gift recipients and users, and has established this Privacy Policy as a result. The purpose of this Privacy Policy is to inform you of:
 
@@ -10,7 +12,7 @@ The 1-800-FLOWERS.COM® family of brands, recognizes and respects the importance
   * why we gather information from you,
   * how we collect it,
   * how we use it, and
-  * the choices you have regarding our use of personal information you have provided.
+  * the choices you have regarding our use, access and correction of personal information you have provided.
 
 
 
@@ -54,11 +56,13 @@ Information you provide to us may be collected by us even if an order, registrat
 
 **How we use "Cookies" and "Action Tags".**
 
-A "cookie" is a small data file sent to your browser from a web server and stored on your computer. We use cookies to let us know that you are a prior customer, user or Member and to provide certain features to you. Most web browsers allow you to instruct the browser to prevent the use of cookies. However, if you disable this feature, certain aspects of the Services, such as the shopping basket, may not function properly.
+A "cookie" is a small data file sent to your browser from a web server and stored on your computer. We use cookies to let us know that you are a prior customer, user or Member and to provide certain features to you. Most web browsers allow you to instruct the browser to prevent the use of cookies. However, if you disable this feature, certain aspects of the Services, such as the shopping basket, may not function properly. To manage Flash cookies, please click here: [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
 We have relationships with third parties who may collect or receive non-personal information directly from the cookies placed by our Services on your computer to assist in analyzing our business and customers.
 
 Our Service may also use a common web technology called "action tags" (also called single pixel gifs or web beacons) to anonymously track purchase, usage and other web activity information. Action tags may be used to provide data to third parties for tracking purposes. However, our Service does not use action tags to collect or transfer personal information. In addition, third parties may set their own cookies and tags through our Services (such as through interest-based advertising, described below). We do not control such third parties or their privacy practices. If you do not want third parties to be able to use such methods, you should modify your browser settings to limit such access.
+
+As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site.
 
 **Interest-based advertising**
 
@@ -68,7 +72,7 @@ Advertisements for our products and services may appear on third party websites 
 
 We collect data from you for use in interest-based advertising when you use our Services. Other companies may serve interest-based advertisements on our Services. We comply with the Self-Regulatory Principles for Online Behavioral Advertising as administered by the Digital Advertising Alliance ([www.aboutads.info](https://www.aboutads.info/)).
 
-You may opt-out of being tracked online by certain companies who are listed at [www.aboutads.info/choices/](https://www.aboutads.info/choices/) OR [www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp) and may also learn more about online behavioral advertising at such websites. If you opt-out, you will still receive advertisements, but they will not be delivered to you by such companies from whom you have opted out based upon your behavioral data possessed by the companies from whom you have opted-out. This process relies upon an opt-out cookie, for each browser and each device, so if you delete your cookies or use a different computer, you will have to repeat this process. We do not respond to or honor "do not track" (a/k/a DNT) signals or similar mechanisms transmitted by web browsers.
+You may opt-out of being tracked online by certain companies who are listed at [www.aboutads.info/choices/](https://www.aboutads.info/choices/) OR [www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp) and may also learn more about online behavioral advertising at such websites. If you opt-out, you will still receive generic advertisements, but they will not be delivered to you by such companies from whom you have opted out based upon your behavioral data possessed by the companies from whom you have opted-out. This process relies upon an opt-out cookie, for each browser and each device, so if you delete your cookies or use a different computer, you will have to repeat this process. We do not respond to or honor "do not track" (a/k/a DNT) signals or similar mechanisms transmitted by web browsers.
 
 **How we use the information we collect**
 
@@ -76,17 +80,19 @@ We use information we collect to communicate with you, to process your orders, t
 
 Please Note:
 
-We may provide your information to our Company Affiliates for use in connection with their businesses, including sending you offers and promotions. However, in connection with information collected under this Privacy Policy, they are required to comply with this Privacy Policy. "Affiliates" are persons or entities directly or indirectly controlling, controlled by, or under common control with, or in the same corporate family as, 800-Flowers, Inc. 
+We may provide your information to our Company Affiliates for use in connection with their businesses, including sending you offers and promotions. However, in connection with information collected under this Privacy Policy, they are required to comply with this Privacy Policy. "Affiliates" are persons or entities directly or indirectly controlling, controlled by, or under common control with, or in the same corporate family as, 1-800-Flowers, Inc.
 
-We may also share your information with our subcontractors, agents, consultants, financial institutions, credit/debit card payment processors, business partners, vendors and service providers, but we generally only authorize them to use such information for our benefit, for instance, to process your order and to better communicate and provide appropriate offers to you as a consumer. We may transfer your information in connection with the sale, lease, license, assignment (of part or all of our business), merger, reorganization or change of control of us or the division responsible for the Service with which your information is associated, or as part of a bankruptcy proceeding. 
+We may also share your information with our subcontractors, agents, consultants, financial institutions, credit/debit card payment processors, business partners, vendors and service providers, but we generally only authorize them to use such information for our benefit, for instance, to process your order and to better communicate and provide appropriate offers to you as a consumer. We may transfer your information in connection with the sale, lease, license, assignment (of part or all of our business), merger, reorganization or change of control of us or the division responsible for the Service with which your information is associated, or as part of a bankruptcy proceeding.
 
 We may combine information we receive from you via our Service with information from our Affiliates and third parties. We use the combined information to enhance and personalize your shopping experience with us and to communicate with you in accordance with this Privacy Policy.
 
-We may use your information to match it with other public and private data sources in order to enhance our records, such as appending addition information to your profile, or the records of our business partners. We also may work with other providers who also possess your information in order to engage in advertising and other promotional services, such as sharing your personal information with a third party who also has your personal information in order to enhance one or both of our advertising or promotional endeavors.
+We may use your information to match it with other public and private data sources in order to enhance our records, such as appending additional information to your profile, or the records of our business partners. We also may work with other providers who also possess your information in order to engage in advertising and other promotional services, such as sharing your personal information with a third party who also has your personal information in order to enhance one or both of our advertising or promotional endeavors.
 
-We reserve the right to disclose information we collect from you, or that you provide to us, as required by law, in response to legal process and law enforcement requests and as necessary or appropriate, in our view, to operate the Service, process orders or registrations, to conduct promotions, contests, and sweepstakes you participate in, and to protect the rights or property of the Company, its Affiliates, users, customers, recipients, Members, Sponsors, Providers, Licensors, Merchants and Associates (as these terms are defined in the [Terms of Use](https://web.archive.org/About-Us-Terms-of-Use)).
+In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We reserve the right to disclose information we collect from you, or that you provide to us, as required by law, in response to legal process and law enforcement requests, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, respond to a government request, and as necessary or appropriate, in our view, to operate the Service, process orders or registrations, to conduct promotions, contests, and sweepstakes you participate in, and to protect the rights or property of the Company, its Affiliates, users, customers, recipients, Members, Sponsors, Providers, Licensors, Merchants and Associates (as these terms are defined in the [Terms of Use](https://web.archive.org/About-Us-Terms-of-Use)).
 
-**Please note that any personal information you reveal or post on one our public forums (as defined in the[Terms of Use](https://web.archive.org/About-Us-Terms-of-Use)), such as a message board, chat room, discussion group, folder, survey, contest, sweepstakes, user review and rate forum, and all User Submissions, are not protected by this Privacy Policy and may be collected, shared and used by us and with third parties, including to contact you. Information you give out or post on our public forums you disclose at your own risk.**
+We may retain your information in accordance with our data retention policies and for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements.
+
+**Please note that any personal information you reveal or post on one our public forums (as defined in the[Terms of Use](https://web.archive.org/About-Us-Terms-of-Use)), such as a message board, chat room, discussion group, folder, survey, contest, sweepstakes, user review and rate forum, and all User Submissions, are not protected by this Privacy Policy and may be collected, shared and used by us and with third parties, including to contact you. Information you give out or post on our public forums you disclose at your own risk. **
 
 **Consent to Transfer and Submission**
 
@@ -102,6 +108,8 @@ We may provide you with the ability to log into our Service using a social media
 
 **Security and Passwords**
 
+The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at [feedback@1800flowers.com](mailto:feedback@1800flowers.com).
+
 If you place an order on our website, it encrypts the credit/debit card number you submit prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the website is viewed using Microsoft IE®, Google Chrome®, Mozilla Firefox®, and Apple Safari® browsers. However, no transmission of data over the Internet or any other network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard personal information once we receive it, we cannot warrant the security of information we receive.
 
 Portions of the Service (such as our Member registration and Address Book) may require registration and log-in processes in which you will select a user ID and password (collectively, the "Password"). Passwords provided to you by us are the confidential property of the Company and may be used by you solely for your individual use of the Service (and otherwise as specified by us). You are responsible for maintaining the confidentiality of any Password and for all activities that occur using your Password, whether or not authorized by you. You agree to immediately notify us of any unauthorized use of your Password or accounts.
@@ -110,7 +118,7 @@ Portions of the Service (such as our Member registration and Address Book) may r
 
 We want to communicate with you only to the extent you want to hear from us.
 
-Any promotional email we send to you or your gift or message recipients will include a link to use to unsubscribe or opt-out of receiving further promotional emails from the sender.
+Any promotional email we send to you or your gift or message recipients will include an “unsubscribe” link to use or a link to opt-out of receiving further promotional emails from the sender.
 
 If you wish to set your preferences concerning promotional communications, or you prefer not to have your contact information shared with third parties, please let us know by emailing, writing or calling us as described below and identify your preferences regarding promotional communications and the sharing of your contact information. Your instructions will be processed as soon as reasonably practicable and in accordance with law.
 
@@ -124,7 +132,7 @@ One Old Country Road
 Suite 500  
 Carle Place, NY 11514
 
-Telephoning us at _1-800-Flowers_ (1-800-356-9377)
+Telephoning us at 1-800-Flowers (1-800-356-9377)
 
 (Please, include or tell us your mailing address, and if you have a catalog, brochure or other mailing label from us, please include it with your request or have it ready when you call).
 
@@ -140,9 +148,9 @@ Attn: General Counsel
 
 **Corrections**
 
-If you would like to update or correct information previously provided to us, please send an e-mail with your new information, including your complete name, postal address, and email address to [update@1800flowers.com](mailto:update@1800flowers.com).
+If you would like to update or correct information previously provided to us, please send an e-mail with your new information, including your complete name, postal address, and email address to [update@1800flowers.com](mailto:update@1800flowers.com). Upon your written request, we will provide you with information about whether we hold any of your personal information. We will respond to your request within a reasonable timeframe.
 
-Members can modify and update their membership information (including name, mailing address, birth date, telephone number and email address) by accessing the password-protected "Update Membership" page.
+Members can access, modify and update their membership information (including name, mailing address, birth date, telephone number and email address) by accessing the password-protected "Update Membership" page.
 
 **Your Consent and Changes to this Policy**
 
@@ -155,3 +163,5 @@ By using the Website and the Service, after such changes take effect, you agree 
 **Your Comments**
 
 1-800-FLOWERS.COM® family of brands welcomes feedback concerning this Privacy Policy. Please send your comments and questions to: [feedback@1800flowers.com](mailto:feedback@1800flowers.com).
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
