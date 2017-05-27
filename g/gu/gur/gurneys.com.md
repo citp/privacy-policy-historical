@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurneys.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206002848id_/http%3A//www.gurneys.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurneys.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527023051id_/https%3A//www.gurneys.com/privacy_policy) for the most accurate reproduction.*
 
 # Gurney's Seed & Nursery Company's Privacy & Security
 
