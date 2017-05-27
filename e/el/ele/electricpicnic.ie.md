@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electricpicnic.ie privacy policy that was archived on 2016-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160927140703id_/http%3A//www.electricpicnic.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricpicnic.ie privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527172654id_/https%3A//www.electricpicnic.ie/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Electric Picnic
 
@@ -7,7 +7,7 @@ The websites [www.electricpicnic.ie](http://www.electricpicnic.ie/) (it being 
 ### 1\. INTRODUCTION
 
 1.1 Protecting your privacy as a user of the Website is important to us and we strive to keep all information relating to you confidential in accordance with this statement. As part of the normal operation of our services you may voluntarily provide us with information about yourself ("Personal Data"). The purpose of this Privacy Statement is to explain what Personal Data we collect about you, how that Personal Data might be used and how we protect your Personal Data and privacy.  
-1.2 We will be happy to answer any enquiries from you regarding this Privacy Statement, the Personal Data we hold about you or the use we make of it. If you have any queries or comments please contact us here [<http://www.electricpicnic.ie/contact]> If you (as a subscriber) wish to correct, update, amend or remove any information we hold about you, you may also use the "Personal Details" section in your member area once you use your email and password to sign in. If you submit a data subject access request, we may charge a small fee towards the cost of administering your request”.  
+1.2 We will be happy to answer any enquiries from you regarding this Privacy Statement, the Personal Data we hold about you or the use we make of it. If you have any queries or comments please contact us [here](https://web.archive.org/contact). If you (as a subscriber) wish to correct, update, amend or remove any information we hold about you, you may also use the "Personal Details" section in your member area once you use your email and password to sign in. If you submit a data subject access request, we may charge a small fee towards the cost of administering your request”.  
 1.3 For the purposes of the Irish Data Protection Act 1998 we are registered as a data controller with the Information Commissioner (Registration Number: 467070).
 
 ### 2\. WHAT DATA DO WE COLLECT AND HOW?
@@ -37,7 +37,7 @@ Public Forums
 
 ### 5\. COOKIES
 
-5.1 The Website makes use of cookies which are files placed on your computer that enable us to track certain information relating to your use of the Website. You may be able to configure your web browser to prevent the use of cookies although some functions or services may not be available. We also allow third party advertisers to advertise on the Website and such advertisers may also use cookies to record information about your use of the advertisement which you have seen and the types of things you appear interested in. For more information on the use of cookies and how to disable them, we recommend that you visit[www.allaboutcookies.org.](http://www.allaboutcookies.org./)
+5.1 The Website makes use of cookies which are files placed on your computer that enable us to track certain information relating to your use of the Website. You may be able to configure your web browser to prevent the use of cookies although some functions or services may not be available. We also allow third party advertisers to advertise on the Website and such advertisers may also use cookies to record information about your use of the advertisement which you have seen and the types of things you appear interested in. For more information on the use of cookies and how to disable them, we recommend that you visit [www.allaboutcookies.org.](http://www.allaboutcookies.org./)
 
 ### 6\. SALE OR MERGER
 
@@ -45,7 +45,7 @@ Public Forums
 
 ### 7\. THIRD PARTIES
 
-7.1 From time to time we may enter into a special relationship with another company that is not owned by us to provide additional features on the Website. As a result of these special relationships, the Website may sometimes feature co-branded micro sites or webpages, for example, a page with our name and TicketMaster's name.  
+7.1 From time to time we may enter into a special relationship with another company that is not owned by us to provide additional features on the Website. As a result of these special relationships, the Website may sometimes feature co-branded micro sites or webpages, for example, a page with our name and Ticketmaster's name.  
 7.2 You should look for a specific privacy statement on any such co-branded page. Any Personal Data that you provide when signing up on one of these co-branded pages may be shared with our third party partner in accordance with the privacy statement on that page.  
 7.3 We may also provide links to other websites or resources operated by third parties who are not connected or affiliated with us. This Privacy Policy only relates to this Website and does not apply to third party websites which are not operated by us. You should check the privacy policy of any linked third party website to make sure you understand it fully prior to submitting your Personal Data to that website.
 
