@@ -1,128 +1,100 @@
-> *The following text is extracted and transformed from the hk-magazine.com privacy policy that was archived on 2016-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160810215700id_/https%3A//hk-magazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hk-magazine.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527233000id_/http%3A//www.scmp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | HK Magazine
+# Privacy Policy | South China Morning Post
 
-Effective February 4, 2016
+_Last updated on: Tuesday, 5 April 2016_
 
-**Overview**
+South China Morning Post Publishers Limited (“SCMPP”) intends to collect and use your personal data as set out in paragraph 3.1 of the Personal Information Collection Statement (“PICS”)  for direct marketing of the services, facilities or products referred in paragraph 3.2 of the PICS but SCMPP will not do so unless we have received your consent.
 
-HK Magazine Online takes great care of, and respects, your privacy and your data. This policy is intended to make you aware of how we acquire your information as you sign up for our products and services, how we manage it, and how we will (and will not) use it to provide you with great new products, special deals, offers, services, contests, party invitations, and more.  We adhere to the regulations of the Personal Data (Privacy) Ordinance laws of Hong Kong as well as industry best practices.  We will not automatically add you to any email list, only those you wish to join. You can unsubscribe from any list at any time. 
+**PERSONAL INFORMATION COLLECTION STATEMENT**
 
-If you have any questions on any of the below policies, please contact us [here](mailto:hk@hkmagmedia.com).
+South China Morning Post Publishers Limited (referred to hereinafter as the “ **SCMPP** ”) recognises its responsibilities in relation to the collection, holding, processing, use and/or transfer of personal data under the Personal Data (Privacy) Ordinance (Cap. 486) (“ **PDPO** ”) and all applicable laws and regulations in force from time to time. Personal data will be collected only for lawful and relevant purposes and all practicable steps will be taken to ensure that personal data held by SCMPP is accurate. SCMPP will take all practicable steps to ensure security of the personal data and to avoid unauthorised or accidental access, erasure or other use.
 
-**Access to Site Content and Services**
+Please note that if you do not provide us with your personal data, we may not be able to provide the information, products or services you need or process your request.
 
-Most of the content and services offered through websites operated by HK Magazine Online are freely accessible to all users.  However, the following services require users to either become Registered Members of our sites or provide some personal information:
+1\. **Purpose** : From time to time it is necessary for SCMPP to collect your personal data which may be used, stored, processed, transferred, disclosed or shared by SCMPP for purposes, including:
 
-You must become a  **Registered Member**  of the site if you wish to:
+1.1 offering, providing and marketing to you the products/services of SCMPP, other companies of the SCMPP (“ **our affiliates** ”) or our business partners (see “ **Use and provision of personal data in direct marketing** ” below), and administering, maintaining, managing and operating such products/services;
 
-  * Post a comment in the forums or create a forum topic
-  * Participate in members-only giveaways
-  * Receive a free newsletter
-  * Download a guide
-  * Make a purchase from the online Store
-  * Subscribe to a flipbook of our print magazine issue
-  * Receive notices of special offers, promotions and deals from selected advertisers
+1.2 processing and evaluating any registration, subscription orders, deliveries, uses, enquiries, feedbacks or requests made by you for products/services offered by SCMPP and our affiliates;
 
+1.3 processing your subscriptions and related-billing and payment in relation to any products/services offered by SCMPP and our affiliates;
 
+1.4 providing subsequent services to you, including but not limited to administering the policies issued; 
 
-Registered Members are  _required_  to provide:
+1.5 running competitions, prize draws and promotions;
 
-  * First name
-  * Last name
-  * A valid email address
-  * Gender
-  * Birth date
-  * Interests
+1.6 designing products/services for you;
 
+1.7 conducting market research for statistical or other purposes;
 
+1.8 matching any data held which relates to you from time to time for any of the purposes listed herein;
 
-In addition, Registered Members may  _choose_  to provide:
+1.9 any purposes in connection with any claims made by or against or otherwise involving you in respect of any products/services provided by SCMPP and/or our affiliates, including investigation of claims;
 
-  * Mobile phone number
-  * Country of origin
-  * Country of residence
-  * Duration in country of residence
-  * Monthly income
-  * Occupation
+1.10 making disclosure as required by any applicable law, rules, regulations, codes of practice or guidelines or to assist in law enforcement purposes, investigations by police or other government or regulatory authorities in Hong Kong or elsewhere;
 
+1.11 contacting you about specific recruitment opportunities if you register search criteria information on our recruitment sites;
 
+1.12 carrying out other services in connection with the operation of SCMPP’s business; and
 
-In order to complete a purchase (including free guide download) from the Store, Registered Members are also required to provide: phone number, billing and shipping addresses and credit card information.
+1.13 all other incidental and associated purposes relating to any of the above, including seeking professional advices.
 
-**Non-members**  may take part in the following activities, but may be asked to provide some personal information in order to do so:
+**2\. Transfer of personal data** : Personal data held by SCMPP relating to an individual will be kept confidential but may be provided to the following parties within Hong Kong for the purposes set out in paragraph 1 above except that any transfer of data to another party for sales and marketing purpose will be subject to paragraph 3 below:
 
-  * Enter a competition/giveaway/promotion
-  * Get an invitation to attend an event
-  * Complete an online survey
-  * View our tablet products
+2.1 any of the SCMPP’s affiliates;
 
+2.2 delivery agents of SCMPP for delivering the newspapers and/or other products in respect of your subscription or free trial;
 
+2.3 any agent, contractor or third party who provides administrative, technology or other services (including direct marketing services) to SCMPP and/or our affiliates in Hong Kong and who has a duty of confidentiality to the same;
 
-This personal information may include first name, last name, email address, gender, date of birth, interests, or other information related to a particular promotion or event.  This information may be shared with companies or promoters involved in organizing the activity, but it will not be used for marketing purposes without your permission.
+2.4 credit reference agencies or, in the event of default, debt collection agencies;
 
-In either case, HK Magazine Online will  _not_  automatically add you into any list.  You will only become part of a list if you  _opt in by choosing to receive that product from us_.
+2.5 any actual or proposed assignee, transferee, participant or sub-participant of our rights or business; and
 
-From time to time, we may communicate to Registered Members about HK Magazine Online products or services that they have not opted in to, and encourage them to do so.  This may also apply to new products that are launched by HK Magazine Online.
+2.6 any government department or other appropriate governmental or regulatory authority in Hong Kong or elsewhere.
 
-Non-members who take part in one of the above online activities, or who have taken part in an HK Magazine Media Ltd. offline event, will receive an email within 14 days acknowledging their activity, and providing opportunity for them to become a Registered Member.
+**3\. Use and provision of personal data in direct marketing** : SCMPP intends to use your personal data in direct marketing and SCMPP requires your consent (which includes an indication of no objection) for that purpose. In this connection, please note that:
 
-  **Registered Members**
+3.1 use your name, age, date of birth, home address, home telephone number, mobile telephone number and email address held by SCMPP from time to time be used by SCMPP for direct marketing;
 
-Please note that Registered Members agree to the following:
+3.2 conduct direct marketing (including but not limited to providing reward, loyalty or privileges programmes) in relation to the following classes of products and services that SCMPP, our affiliates, our co-branding partners and our business partners may offer:
 
-  * You may never use another's account without permission.
-  * When creating your account, you must provide accurate and complete information.
-  * If you take part in activities such as competitions, events, promotions or surveys on this website, your information may be shared with promoters of the competition or to others that are involved in the organisation of the competition or the prize-giving.
-  * You are solely responsible for the activity that occurs on your account, and you must keep your account password secure.
-  * You must notify HK Magazine Online immediately of any breach of security or unauthorized use of your account.
-  * Although HK Magazine Online will not be liable for your losses caused by any unauthorized use of your account, you may be liable for the losses of HK Magazine Online or others due to such unauthorized use.
-  * If you sign up to receive any of our online products (such as, but not limited to, newsletters, PDF e-books, or promotional emailers), you will become part of that email list and remain on it until you unsubscribe from it.
-  * Each online product has its own list.  You may choose to subscribe to or unsubscribe from any list at any time by going to the “Manage My Account” section at the bottom of the email that has been sent to you.
-  * If you provide mobile phone information, either HK Magazine Media Ltd. or its Privilege partners may send SMS messages to you.
-  * HK Magazine Online may use your personal information for auditing, research and analysis to operate and improve HK Magazine Online technologies and services.
-  * We may combine personal information collected from you with information from other HK Magazine Online services or third parties to provide a better user experience, including customizing content for you or informing you of products or services that are relevant to your stated interests.
-  * We may share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services.
-  * HK Magazine Online may also share profile information and aggregate usage information in a non-personally identifiable manner to advertisers and other third parties in order to accurately explain the demographic profile of site users, and to present to potential advertisers more targeted advertising, products and services.
-  * As a matter of policy, except where you are expressly informed otherwise, we do not sell, rent, share, trade or give away personal information of our Registered Members.
-  * We will never disclose information that will be used to personally identify you. In the event that we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures.
+ a) insurance, banking, provident fund or scheme, IPO, financial services, securities and related products and services;
 
+ b) products and services on airlines, hotel and resort, sauna and health club, travel and transportation, tourism board, entertainment, spa and similar relaxation activities.
 
+ c) products and services on cosmetics, beauty and skin care, biotech, health, medical devices, pharmacy and medicine, wellness and medical.
 
-**Our Privileges List**
+ d) products and services on eyewear and optical companies, fashion and apparel, sports equipment, sports event, sporting activities and membership, jewellery and watch, flower shop, stationery and toys, department stores and shopping malls
 
-Registered Members who join the Privileges email list will receive announcements, promotions, deals and offers from selected advertisers.  
+ e) I.T., electronics goods and electrical appliances, mobile phones and accessories, telecommunications, media and related products and services.
 
-In such cases, HK Magazine Online performs the email service on behalf of the advertiser; your account or personal information is not provided to the advertiser.  However, if you respond to an offer contained in a Privilege email, the advertiser may choose to market to you in accordance with the laws of the country in which you live.
+ f) food and beverage, restaurants, wine related products and services.
 
-Based on the personal information you provide, HK Magazine Online may select members of the Privileges email list for greater relevance to the advertiser (e.g., selecting those who said they are interested in Restaurants and Food for a dining offer).
+ g) products and services on design, automotive, education, antique and auction, arts and gallery, boat and accessories, children, china government, local and oversea property, China property, furniture and household item, interior design, constructions, consulate, listed company, holding company, industry association, non-governmental organization, energy, exhibitions, general trade and association, government services, personal announcement, pets and accessories, post services, public utilities, professional services, publication, career, security services, shipping and logistics.
 
-Privilege List members who also provide mobile phone information may receive SMS messages from Privileges advertisers.
+3.3 the above products and services may be provided by SCMPP and/or:
 
-**Registering with Facebook Connect**
+a) any of our affiliates;
 
-The Facebook Connect platform may be used to register for this site.  If you choose to use the Facebook Connect option then Facebook's terms and conditions, guidelines and privacy policies also apply to your use of this site. By registering for our site with Facebook Connect you allow us to have access to certain information from your Facebook profile (eg: Name, e-mail address, gender, birthdate and location). When you provide this information you help us personalize your experience on our site by providing exclusive content and being able to contact you with news and offers. This Privacy Policy applies to information collected by us through your Facebook Connect login.  Your activities on Facebook are covered by the [Facebook privacy policy](http://www.facebook.com/policy.php) and the [Facebook terms of use](http://www.facebook.com/terms.php) **.**
+b) the business partners or co-branding partners of SCMPP and/or affiliates providing the products and services set out in paragraph 3.2 above;
 
-**Our Emailing Technology**
+c) third party reward, loyalty or privileges programme providers supporting SCMPP or any of the above listed entities
 
-HK Magazine Online retains a third-party Vendor to provide its emailing services.  The Vendor hosts HK Magazine Online’s email lists on its own servers, and provides services and security which are industry standard.
+3.4 in addition to marketing the above products and services, SCMPP also intends to provide the data described in paragraph 3.1 above to all or any of the persons described in paragraph 3.3 above for use by them in marketing those products and services, and SCMPP requires your written consent (which includes an indication of no objection) for that purpose;
 
-**Changes in Our Privacy Policy**
+3.5 SCMPP may receive money or other property in return for providing the data to the other persons in paragraph 3.4 above and, when requesting your consent or no objection as described in paragraph 3.4 above, SCMPP will inform you if it will receive any money or other property in return for providing the data to the other persons.
 
-If we change this Privacy Policy, we will post those changes on the Website so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email or by placing a prominent notice on the Website.
+**If you do not wish SCMPP to use or provide to other persons your personal data for use in direct marketing as described above, you may exercise your opt-out right by notifying SCMPP at any time and without charge. To opt-out, please inform us in writing to the address in the section on “Access and correction of personal data”.**
 
-**Public Forums  **
+**4\. Access and correction of personal data** : Under the PDPO, you have the right to ascertain whether SCMPP holds your personal data, to obtain a copy of the data, and to correct any data that is inaccurate. You may also request SCMPP to inform you of the type of personal data held by it.
 
-Please keep in mind that whenever you voluntarily disclose personal information online, for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return.
+Requests for access and correction or for information regarding policies and practices and kinds of data held by SCMPP should be addressed in writing to our "Customer Relationship management Team" at:
 
-**Online Store**
+South China Morning Post Publishers Limited  
+Morning Post Centre  
+22 Dai Fat Street, Tai Po Industrial Estate  
+New Territories, Hong Kong
 
-We are committed to protecting the information we receive from you. Credit card numbers for purchases made on our online store are collected by PayPal on our behalf and their privacy policies can be viewed at [Paypal Privacy Policy](https://cms.paypal.com/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_US)
-
-**Business Transfers**
-
-We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes.
-
-**Terms and Conditions**
-
-Users of HK Magazine Online websites and digital products are also subject to the [Terms and Conditions](http://hk-magazine.com/terms-conditions).
+A reasonable fee may be charged to offset SCMPP’s administrative and actual costs incurred in complying with your data access requests.
