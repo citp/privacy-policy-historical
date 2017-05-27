@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercedes-benz.com.au privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524212639id_/http%3A//www2.mercedes-benz.com.au/content/australia/mpc/mpc_australia__website/en/home_mpc/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercedes-benz.com.au privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527132938id_/http%3A//www2.mercedes-benz.com.au/content/australia/mpc/mpc_australia__website/en/home_mpc/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
