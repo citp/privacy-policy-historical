@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the intermountainhealthcare.org privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013090254id_/https%3A//intermountainhealthcare.org/website-information/privacy-notices) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intermountainhealthcare.org privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527203746id_/https%3A//intermountainhealthcare.org/website-information/privacy-notices) for the most accurate reproduction.*
 
-# Privacy Notices | Intermountain Healthcare, Salt Lake City, UT | Intermountain Healthcare
+# Privacy Notices | Intermountain Healthcare
 
 Intermountain Healthcare protects the privacy of your medical and personal information. We follow federal and state laws that govern the use of your health information and your personal information used on the website and personnel records.
 
