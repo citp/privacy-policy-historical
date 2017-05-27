@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteslike.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209011906id_/http%3A//siteslike.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteslike.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527052150id_/https%3A//siteslike.com/privacy) for the most accurate reproduction.*
 
 # Sites Like - Privacy Policy
 
@@ -58,4 +58,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: <http://www.siteslike.com/contact>
 
-[redtube](http://www.siteslike.com/similar/redtube.com)
+[redtube](https://www.siteslike.com/similar/redtube.com)
