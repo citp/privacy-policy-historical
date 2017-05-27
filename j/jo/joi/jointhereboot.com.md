@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jointhereboot.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121121839id_/http%3A//www.rebootwithjoe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jointhereboot.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527180008id_/http%3A//www.rebootwithjoe.com/privacy-policy) for the most accurate reproduction.*
 
 # Reboot with Joe Privacy Policy | Reboot With Joe
 
@@ -113,7 +113,7 @@ _Use of Personal Information_
 
 We use the information we obtain from you to provide Reboot products and services, fulfill your requests, improve our products and services, personalize and tailor your experience on our web site, operate our business, and understand how users are engaging with Reboot. In addition, we may use information from you to facilitate the delivery of content or advertisements that we believe may be of interest to you, or to communicate with you about new or existing products and services or special offers.
 
-Reboot does not make your Personal Information available to third parties for marketing purposes.
+Other than with respect to third parties providing marketing services directly on Reboot’s behalf (e.g., vendors who send printed materials on our behalf to users who we think may interested in our products and services), Reboot does not make your Personal Information available to third parties for marketing purposes.
 
 _Use of Non-Personal Information_
 
@@ -123,9 +123,29 @@ We also use Cookies in order to conduct surveys for our own use and on behalf of
 
 _Remarketing on Third Party Web Sites_
 
-The Reboot web site employs Google AdWords Remarketing ( _“Adwords”_ ) to advertise Reboot goods and services across the Internet. This is how it works: AdWords uses Cookies to track which parts of the Reboot web site you have viewed. Then, using the Non-Personal Information obtained through those Cookies, third party vendors (e.g., Google) display Reboot ads specifically tailored to you on third party web sites that you visit. This way, we are able to advertise Reboot goods and services in a way that best suits your specific needs.
+Reboot employs interest-based advertising, including retargeting or remarketing technology provided by third parties (“Third Party Providers”), to advertise Reboot goods and services across the Internet. Such Third Party Providers include: 
 
-If you do not wish to participate in AdWords, you can opt out by visiting Google’s Ads Preferences Manager. You can also opt out of any third-party vendor’s use of Cookies by visiting [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices).
+  * Criteo SA,
+  * Facebook, Inc.,
+  * Google Adwords, a service of Google Inc.,
+  * Instagram LLC, and
+  * Twitter Inc.
+
+
+
+This is how such technology works: such Third Party Providers use Cookies to track which parts of the Reboot web site you have viewed. Then, using the Non-Personal Information obtained through those Cookies, third party vendors (e.g., Google) display Reboot ads specifically tailored to you on third party web sites that you visit. This way, we are able to advertise Reboot goods and services in a way that best suits your specific needs.
+
+If you do not wish such Third Party Providers to collect any such information from you, you can use each Third Party Provider’s opt-out function set forth below:
+
+  * Criteo: [www.criteo.com/privacy](http://www.criteo.com/privacy)
+  * Facebook: <https://www.facebook.com/help/164968693837950>
+  * Google Adwords: <https://www.google.com/settings/ads/>
+  * Instagram: <https://www.instagram.com/about/legal/privacy/>
+  * Twitter: <https://twitter.com/privacy>
+
+
+
+You can also opt out of any third-party vendor’s use of Cookies by visiting [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices). 
 
 _Research and Measurement Activities_
 
@@ -224,14 +244,14 @@ Your Personal Information may be stored and processed in any country where Reboo
 
 **How to Contact Us**
 
-If you have questions about our Privacy Policy, please contact us at alex@rebootwithjoe.com. You can also contact Reboot’s Privacy Office at:
+If you have questions about our Privacy Policy, please [contact us](https://support.rebootwithjoe.com/hc/en-us). You can also contact Reboot’s Privacy Office at:
 
-99 University Place 3rd Floor  
-New York, NY 10003  
+433 Broadway, Suite 415  
+New York, NY 10013  
 Attn: Alex Tibbetts
 
 **Changes to this Privacy Policy**
 
 We may change this Privacy Policy from time to time, so it is suggested that you check the Reboot web site from time to time to ensure that you know about our current policy. We reserve the right to change or modify this Privacy Policy or any of our tools or services at any time and any changes will be effective upon being posted unless we advise otherwise. If we make any material changes to this policy we will notify you by email (sent to the email address specified when you register) and/or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this website for the latest information on our privacy practices. If you do not accept the terms of this Privacy Policy, we ask that you do not register with us and that you do not use the Reboot web site. Please exit the Reboot web site immediately if you do not agree to the terms of this Privacy Policy.
 
-Effective December 28, 2015
+Effective December 23, 2016
