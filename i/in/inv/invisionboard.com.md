@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the invisionboard.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222025157id_/https%3A//invisionpower.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invisionboard.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527093205id_/https%3A//invisionpower.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - IPS, Inc. - Invision Power Services
+# Privacy Policy - IPS, Inc. - Invision Community
 
 Our privacy policy describes how we use and store the data that we gather from you in order to provide our products and services. 
 
