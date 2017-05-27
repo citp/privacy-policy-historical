@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tenedonlineshop.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012054325id_/http%3A//www.tenedonlineshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenedonlineshop.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527131346id_/http%3A//www.tenedonlineshop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Tened Online Shop
+# Privacy Policy - Online Health Shop
 
 This Privacy Policy governs the manner in which Tened Online Shop collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.tenedonlineshop.com/ website (“Site”).
 
