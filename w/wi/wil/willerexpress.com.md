@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the willerexpress.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121071733id_/http%3A//willerexpress.com/st/3/en/pc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willerexpress.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527230545id_/http%3A//willerexpress.com/st/3/en/pc/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Bus, Night Bus, Booking in Japan / WILLER EXPRESS/
 
@@ -64,7 +64,7 @@ When the customer used this website, such customer is deemed to have agreed to t
 
 The affiliated companies are listed below. 
 
-  1. WILLER ALLIANCE, Inc
+  1. WILLER, Inc
   2. WILLER Sompo Service, Inc.
   3. WILLER TRAINS COMPANY
   4. WILLER TOURISM & CONSULTING, Inc.
@@ -80,7 +80,7 @@ The affiliated companies are listed below.
   14. Nihon Highway Bus, Inc.
   15. WILLER EXPRESS Kansai, Inc.
   16. Hotel Hakuba
-  17. Other companies which cooperate financially with WILLER ALLIANCE, Inc.
+  17. Other companies which cooperate financially with WILLER, Inc.
 
 
 
