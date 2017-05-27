@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the quizscope.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203004905id_/http%3A//quizscope.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizscope.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527121157id_/http%3A//www.quizscope.com/privacy-policy) for the most accurate reproduction.*
 
-# QuizScope | Privacy Policy
+# QuizScope - Privacy Policy
+
+  1. [Terms](https://web.archive.org/terms-of-use)
+  2. Privacy
+  3. [Copyright](https://web.archive.org/copyright-policy)
+  4. [Uninstall](https://web.archive.org/uninstall)
+  5. [About](https://web.archive.org/about)
+  6. [Contact](https://web.archive.org/contact)
+
+
 
 QuizScope PRIVACY POLICY
 
@@ -30,7 +39,7 @@ If you do not want us to collect your PII as described above or to use and share
 
 **Updating Your Personally Identifiable Information.**
 
-If your PII changes, or if you no longer desire our service, you may correct, update, amend, or remove it by emailing our Customer Support at support@QuizScope.com or by contacting us using our [Contact Us](http://quizscope.com/contact) page.
+If your PII changes, or if you no longer desire our service, you may correct, update, amend, or remove it by emailing our Customer Support by contacting us using our [Contact Us](http://quizscope.com/contact) page.
 
 We will retain your information for as long as your account is active or as needed to provide you services. In addition, we will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -102,10 +111,10 @@ Premium Users who have downloaded the Software and who do not want their NPII co
 
 **Your California Privacy Rights**
 
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request by email to legal@QuizScope.com. Please allow 30 days for a response.
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request by email Please allow 30 days for a response.
 
 **QUESTIONS AND CONCERNS**
 
-If you have any questions or concerns about this Policy or its implementation, or any general questions, please email us at support@quizscope.com.
+If you have any questions or concerns about this Policy or its implementation, or any general questions, please email us 
 
 Last Updated: December 14, 2015
