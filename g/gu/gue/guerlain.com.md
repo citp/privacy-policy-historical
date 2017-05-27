@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the guerlain.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226095406id_/https%3A//wws.guerlain.com/int/en-int/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guerlain.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527114250id_/http%3A//www.guerlain.com/int/en-int/p/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Guerlain
 
 Last modified: October 2014
 
-The guidelines below detail the data protection policy of the company GUERLAIN (hereinafter “GUERLAIN”) with regard to personal data provided on its website [www.guerlain.com](http://www.guerlain.com/). 
+The guidelines below detail the data protection policy of the company GUERLAIN (hereinafter “GUERLAIN”) with regard to personal data provided on its website [https://www.guerlain.com](https://www.guerlain.com/). 
 
 GUERLAIN respects your concerns regarding the confidentiality of personal information and data provided by you. By providing your personal information and data, you consent to the use, analysis and, where applicable, disclosure of such information by us for purposes associated in particular with your requests for our newsletters and information about the company, its activities as well marketing information. Consequently, we encourage you to read this policy carefully. This Data Protection policy applies to all personal data provided by you to GUERLAIN.
 
@@ -53,7 +53,7 @@ GUERLAIN will only send your personal data to a third party if:
 
 For the purposes of technical management of the storage of your personal data, your data will be stored on a centralized basis on servers hosted by our provider, based in France.
 
-[www.guerlain.fr](http://www.guerlain.fr/) is hosted by the following provider:
+[https://www.guerlain.com](https://www.guerlain.com/) is hosted by the following provider:
 
 LINKBYNET  
 Société par actions simplifiées (S.A.S.) with a capital of 373.000 €  
@@ -127,12 +127,11 @@ If you refuse the registration of cookies on your Terminal, or if you remove coo
 Configuration of your browser is different depending on the management of the cookies and your choices. The configuration is explained in the help menu on your browser and describes how to amend your wishes in terms of cookies.   
 For Internet ExplorerTM: <http://windows.microsoft.com/fr-FR/windows-vista/Block-or-allow->  
 cookies,   
-For SafariTM: <http://docs.info.apple.com/article.html?path=Safari/3.0/fr/9277.html>,   
-For ChromeTM:   
-[http://support.google.com/chrome/bin/answer.py?hl=fr&hlrm=en&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=fr&hlrm=en&answer=95647),   
-For FirefoxTM:  
-[http://support.mozilla.org/fr/kb/Activer%20et%20d%C3%A9sactiver%20les%20...](http://support.mozilla.org/fr/kb/Activer%20et%20d%C3%A9sactiver%20les%20cookies),   
-For OperaTM: <http://help.opera.com/Windows/10.20/fr/cookies.html>, 
+Internet Explorer™: [https://support.microsoft.com/fr-fr/help/17442/windows-internet-explorer...](https://support.microsoft.com/fr-fr/help/17442/windows-internet-explorer-delete-manage-cookies),  
+Safari™: <https://support.apple.com/kb/PH21411>,  
+Chrome™: [https://support.google.com/chrome/answer/95647?hl=fr&hlrm=en](https://support.google.com/chrome/answer/95647?hl=fr&hlrm=en),  
+Firefox™: <https://support.mozilla.org/fr/kb/activer-desactiver-cookies>,  
+Opera™: <http://help.opera.com/Windows/10.20/fr/cookies.html>,
 
 4.2 Your choices are expressed online on interprofessional platforms   
 Regarding marketing cookies, you can also connect to the Youronlinechoices website, which is offered by digital marketing professionals at the European Digital Advertising Alliance (EDAA) and is managed in France by the Interactive Advertising Bureau France.   
@@ -141,7 +140,7 @@ This European platform is shared by hundreds of Internet marketing professionals
 
 5\. If you share your terminal with other people 
 
-If your terminal is used by several people and if one same terminal has several browsing softwares, we cannot fully guarantee that the services and adverts intended for your Terminal really relate to your own use of this terminal and not the use of another Terminal user. Sharing the use of your Terminal and the cookie configuration of the parameters on your browser with other people is your own choice and responsibility. For more information regarding cookies and their use, you can consult the dossier of the French Data Protection Authority at the following address: [http://www.cnil.fr](http://www.cnil.fr/). 
+If your terminal is used by several people and if one same terminal has several browsing softwares, we cannot fully guarantee that the services and adverts intended for your Terminal really relate to your own use of this terminal and not the use of another Terminal user. Sharing the use of your Terminal and the cookie configuration of the parameters on your browser with other people is your own choice and responsibility. For more information regarding cookies and their use, you can consult the dossier of the French Data Protection Authority at the following address: [https://www.cnil.fr](https://www.cnil.fr/). 
 
 6\. Changes to Data Protection Policy 
 
