@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hdrinc.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127205343id_/http%3A//www.hdrinc.com/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdrinc.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527044128id_/http%3A//www.hdrinc.com/terms-privacy) for the most accurate reproduction.*
 
 # Terms/Privacy < HDR, Inc.
 
 #### Copyright Statement
 
-The content provided by HDRinc.com unless otherwise noted, is copyrighted © 2014 HDR, Inc. All use of the HDRinc.com site is subject to the terms and conditions set forth below.
+The content provided by HDRinc.com unless otherwise noted, is copyrighted © 2017 HDR, Inc. All use of the HDRinc.com site is subject to the terms and conditions set forth below.
 
 #### Legal Notice
 
@@ -12,7 +12,7 @@ All materials used on this site, including all images, are copyrighted and are p
 
 The materials on this website are provided by HDR, Inc. for informational purposes only. Pages may be printed out for your personal use only.
 
-This website is the property of or leased by HDR, Inc.  It is for Authorized Use Only. Any use is intended for HDR. Users may be subject to administrative disciplinary action, civil charge, or criminal penalty for the unauthorized or improper use of this system. By continuing to use this website, you indicate your awareness of and consent to these terms and conditions of use. 
+This website is the property of or leased by HDR, Inc. It is for Authorized Use Only. Any use is intended for HDR. Users may be subject to administrative disciplinary action, civil charge, or criminal penalty for the unauthorized or improper use of this system. By continuing to use this website, you indicate your awareness of and consent to these terms and conditions of use. 
 
 #### Images
 
@@ -20,7 +20,7 @@ Photographs, illustrations, computer drawings, video clips, etc. may be the prop
 
 #### Privacy
 
-The only specific personal identification, such as your name or e-mail address, collected via our site(s) is the information you choose to give us. HDR, Inc. gathers this information for our use only. Such information will be used as a means of contacting you only with your permission. None of this information is provided to third party groups.
+The only specific personal identification, such as your name or email address, collected via our site(s) is the information you choose to give us. HDR, Inc. gathers this information for our use only. Such information will be used as a means of contacting you only with your permission. None of this information is provided to third party groups.
 
 In order to identify usage trends and evaluate our site(s), HDR, Inc. collects information provided by our servers and user surveys. This information is compiled and analyzed on an aggregate basis and is used only by HDR, Inc. Specifically, this information may include your IP address, host name, pages you visit on our site, certain browser information and the referring URL. In addition, our server logs give us the capacity to determine which host names or host addresses received and responded to our surveys.
 
