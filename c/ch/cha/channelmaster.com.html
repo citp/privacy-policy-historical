@@ -1,24 +1,21 @@
-<!--The following is the downloaded HTML source of the channelmaster.com privacy policy that was archived on 2016-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161207154408id_/http%3A//www.channelmaster.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the channelmaster.com privacy policy that was archived on 2017-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170527020904id_/http%3A//www.channelmaster.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="Description" content="Web Site Privacy Policy.  This document explains what kind of information Channel Master and its subsidiaries and affiliates collects and stores, including personal information in connection with the operation of channelmaster.com.">
 <meta name="Keywords" content="Privacy Policy">
 <title>Privacy | Channel Master</title>
-<meta name="robots" content="index, follow">
-<meta name="GOOGLEBOT" content="INDEX, FOLLOW">
 
-<link rel="canonical" href="http://www.channelmaster.com/terms_privacy.asp">
+<link rel="canonical" href="https://www.channelmaster.com/terms_privacy.asp">
 		
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
 <link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
-
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://web.archive.org/web/20150410070934/https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
+
 
 
 <script type="text/javascript">
@@ -34,7 +31,7 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
-<script type="text/javascript" src="/a/j/volusion.js?7.44.0.1640"></script>
+<script type="text/javascript" src="/a/j/volusion.js?7.57.1.2354"></script>
 <script type="text/javascript">
     (function ($) {
         volusion.ready(function () {
@@ -57,27 +54,66 @@
     } (jQuery));
 </script>
 <link type="text/css" rel="stylesheet" href="/a/contentbuilder/assets/default/content.css">
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_7.44.0.1640"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_7.57.1.2354"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
 </script>
 
 
+
+<!-- Image Management -->
+<script>
+// Only do image optimizations on outdoor antenna category for now
+if (document.URL.indexOf('Outdoor_Antennas_s') > 0) {
+
+function hasClass(element, cls) {
+    return (' ' + element.className + ' ').indexOf(' ' + cls + ' ') > -1;
+}
+function removeImagesBeforeTheyAreRequested(options) {
+  // remove Divider image background image
+  var dividerImages = document.querySelectorAll('[background="/v/vspfiles/templates/254/images/Divider_Horizontal.gif"]');
+  for (var i = 0; i < dividerImages.length; i++) { 
+    dividerImages[i].removeAttribute('background');
+  }
+  // all images
+  var images = document.getElementsByTagName('img'),
+      spacerString = 'clear1x1';
+
+  for (var i = 0; i < images.length; i++) { 
+    var orgSrc = images[i].src,
+        orgSrcAttr = images[i].getAttribute('src'),
+        imgModified = false;
+
+    imgModified = hasClass(images[i],'img-modified');
+
+    if (orgSrc.length > 0 && !imgModified) {
+        // if spacer image or free shipping, remove from dom
+        if (orgSrc.includes(spacerString) || orgSrc.includes('FreeShipping_') || orgSrc.includes('FeaturedProducts.gif') || orgSrc.includes('ContactUsPhotoHex.jpg')) {
+            images[i].removeAttribute('src');
+            images[i].style.display = 'none';
+        }
+    }
+  }
+}
+var timer = setInterval(function() {
+   removeImagesBeforeTheyAreRequested();
+}, 1);
+
+setTimeout(function() { clearInterval(timer); }, 3000);
+} // only outdoor for now
+</script>
 <meta name="google-site-verification" content="bm7pW6pysaowIbkQn_iZwueEZU1eU1Yx0InSLBXv9Cw">
 <meta name="google-site-verification" content="MEZSY2lpOB8j_v6rJRflXqDghRJ6WlJjJGag4Vt58OQ">
+<meta name="msvalidate.01" content="C16237DB15C8CB8F7522C087383C0A90">
+
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-<meta name="description" content="">
 <meta id="v65-layout-mode" data-cart="storedot" data-checkout="storedot" data-use-simplified-checkout="true">
 <meta id="v65-logo-dimensions" data-height="90" data-width="240">
 
-<link href="/v/vspfiles/templates/254/css/imports.css?v=10" rel="stylesheet">
-<script src="/v/vspfiles/templates/254/js/b7custom.js?v=2"></script>
-
-<script src="/v/vspfiles/templates/254/js/design-toolkit_min.js"></script>
-<script>DTK.loadCSS("254");</script>
+<link href="https://downloads.channelmaster.com/v/vspfiles/templates/254/t/style-c12903a2908f88b42a4a23b02ce1fdda-2.css" rel="stylesheet">
 
 <!-- Variable to show/hide the Email Signup Exit Popup on a page by page basis. Set to false by default -->
 <script>var showEmailSignupOnPage = 'false';</script>
@@ -86,16 +122,32 @@
 <script src="/v/vspfiles/templates/254/js/html5shiv.js"></script>
 <![endif]-->
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body class="cbp-spmenu-push">
+<!-- Facebook Pixel Code (1040935702679690) -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1040935702679690');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1040935702679690&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script></head>
+<body>
 <!--[if lt IE 7]>
     <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 <![endif]-->
 
 <!-- Sitewide Alert -->
 <div id="siteAlert" class="site-alert" style="display:none;">
-    <a href="#" class="close-alert" rel="close-site-alert"><img src="/v/vspfiles/templates/254/images/close-white-80.png" alt="Close Alert"></a>
-    <span>FALL TV FREEDOM BUNDLES ARE HERE! While Supplies Last.</span><a class="cta" rel="close-site-alert-link" href="/SearchResults.asp?Cat=364&amp;Click=47158">Shop Now</a>
+    <a href="#" class="close-alert" rel="close-site-alert"><span class="nav-icon icon-close">&nbsp;</span></a>
+    <span>Pause and record live TV with DVR+. No subscription required.</span><a class="cta" rel="close-site-alert-link" href="https://www.channelmaster.com/Antenna_DVR_s/336.htm?Click=47158">Shop Now</a>
 </div><!-- #siteAlert -->
 
 <script>
@@ -122,138 +174,124 @@ $(document).ready(function(){
 });
 </script>
 
-<!-- Mobile ******************************************************************** -->
-<nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left" id="push-menu">
+<header class="header cm-site-header">
+<!-- Mobile ___________________________________________ -->
+<div class="cm-mobile-nav-overlay hide">&nbsp;</div>
+<div class="cm-mobile-nav">
     <div class="search-mobile">
-        <form class="form-inline" action="http://www.channelmaster.com/SearchResults.asp" method="get" name="SearchBoxForm" role="search">
+        <form class="form-inline" action="/SearchResults.asp" method="get" name="SearchBoxForm" role="search">
           <div class="form-group">
             <input type="text" name="Search" class="search-mobile__input" placeholder="Search...">
             <button type="submit" name="Submit" class="btn btn-xs btn-primary search-mobile__submit">Go!</button>
           </div>
         </form>
     </div>
-    <h3><div id="Menu1_Title" class="menu_title">Menu</div></h3>
-    <div id="display_menu_1" class="menu"><script type="text/javascript">var breadCrumb="||";</script>
-<link rel="stylesheet" type="text/css" href="/a/c/vnav.css">
-<script src="/a/j/vnav.js"></script>
-<ul class="vnav vnav--horizontal vnav--level1">
-<li class="vnav__item"><a href="/Why_Channel_Master_s/314.htm" class="vnav__link">TV Freedom</a>
-<ul class="vnav vnav__subnav vnav--level2">
-<li class="vnav__item"><a href="/Why_Channel_Master_s/314.htm" class="vnav__link">Why Channel Master</a>
-</li><li class="vnav__item"><a href="/Why_Channel_Master_s/314.htm#channels" class="vnav__link">What Do I Get</a>
-</li><li class="vnav__item"><a href="/Why_Channel_Master_s/314.htm#get-started" class="vnav__link">Get Started</a>
-</li></ul>
-</li>
-<li class="vnav__item"><a href="/#" class="vnav__link">Products</a>
-<ul class="vnav vnav__subnav vnav--level2">
-<li class="vnav__item"><a href="/Antenna_DVR_s/336.htm" class="vnav__link">DVR</a>
-</li><li class="vnav__item"><a href="http://www.channelmaster.com/TV_Antennas_s/35.htm" class="vnav__link">Antennas</a>
-</li><li class="vnav__item"><a href="/Amplifiers_s/23.htm" class="vnav__link">Signal Amplifiers</a>
-</li><li class="vnav__item"><a href="/Products_s/291.htm" class="vnav__link">Shop All Products</a>
-</li></ul>
-</li>
-<li class="vnav__item"><a href="/#" class="vnav__link">Support</a>
-<ul class="vnav vnav__subnav vnav--level2">
-<li class="vnav__item"><a href="http://support.channelmaster.com/hc/en-us" class="vnav__link">Support and Information</a>
-</li><li class="vnav__item"><a href="/Antenna-Selection-a/134.htm" class="vnav__link">Antenna Guide</a>
-</li><li class="vnav__item"><a href="/Cord_Cutting_Guide_a/332.htm" class="vnav__link">Cord Cutting Guide</a>
-</li></ul>
-</li>
-</ul>
+    <ul>
+        <li><a href="https://www.channelmaster.com/">Home</a></li>
+        <li><a href="https://www.channelmaster.com/Why_Channel_Master_s/314.htm">TV Freedom</a>
+            <ul>
+                <li><a href="https://www.channelmaster.com/Why_Channel_Master_s/314.htm"><span>Why Channel Master?</span></a></li>
+                <li><a href="https://www.channelmaster.com/Why_Channel_Master_s/314.htm#channels"><span>What Do I Get?</span></a></li>
+                <li class="get-started-nav"><a href="https://www.channelmaster.com/Why_Channel_Master_s/314.htm#get-started"><span>Get Started</span></a></li>
+            </ul>
+        </li>
+        <li><a href="https://www.channelmaster.com/All_Products_s/291.htm">Products</a>
+            <ul>
+                <li><a href="https://www.channelmaster.com/Antenna_DVR_s/336.htm"><span>DVRs</span></a></li>
+                <li><a href="https://www.channelmaster.com/TV_Antennas_s/35.htm"><span>Antennas</span></a></li>
+                <li><a href="https://www.channelmaster.com/Amplifiers_s/23.htm"><span>Signal Amplifiers</span></a></li>
+                <li class="last"><a href="https://www.channelmaster.com/Installation_Products_s/291.htm"><span>Shop All Products</span></a></li>
+            </ul>
+        </li>
+        <li><a href="https://support.channelmaster.com/hc/en-us/">Support</a>
+            <ul>
+                <li><a href="https://support.channelmaster.com/hc/en-us"><span>Support Site</span></a></li>
+                <li><a href="https://www.channelmaster.com/Antenna-Selection-a/134.htm"><span>Antenna Selection Guide</span></a></li>
+                <li><a href="https://www.channelmaster.com/Cord_Cutting_Guide_a/332.htm"><span>Cord Cutting Guide</span></a></li>
+                <li><a href="https://www.channelmaster.com/Shipping-and-Return-Policies-a/57.htm">Shipping &amp; Returns</a></li>
+            </ul>
+        </li>
+        <li><hr>
+            <ul>
+                <li><a href="https://www.channelmaster.com/AboutUs.asp">About Us</a></li>
+                <li><a href="https://www.channelmaster.com/Contact-Us-a/281.htm">Contact Us</a></li>
+                <li><a href="https://www.channelmaster.com/Careers-a/297.htm">Careers</a></li>
+                <li><a href="https://www.channelmaster.com/Affiliate-Program-a/8.htm">Become an Affiliate</a></li>
+                <li><a href="https://channelmastertv.com/register;jsessionid=2C1AA5924CA082F82868C54540CB000F">Register/Activate DVR+</a></li>
+                <li><a href="https://www.channelmaster.com/Special_Offers_s/364.htm">Special Offers</a></li>
+            </ul><br><br>
+        </li>
+    </ul>
 </div>
-</nav>
-
-<!-- Desktop ******************************************************************** -->
-<div class="header-wrap">
-    <div class="container">
-        <div class="navbar navbar-default" role="navigation">
-            <header class="header">
-                <div class="row">
-
-                    <div class="col-xs-4 visible-xs-block visible-sm-block">
-                        <div class="vertical-center text-left">
-                            <!-- Brand and toggle get grouped for better mobile display -->
-
-                            <div class="navbar-header">
-                                <button type="button" id="showLeftPush" class="navbar-toggle" data-toggle="collapse">
-                                    <span class="sr-only">Toggle navigation</span>
-                                    <span class="icon-bar"></span>
-                                    <span class="icon-bar"></span>
-                                    <span class="icon-bar"></span>
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="col-xs-4 col-md-8">
-                        <div class="logo mobile-logo visible-xs-block visible-sm-block"><a href="/"><img src="/v/vspfiles/templates/254/images/logo-white.png" alt="Channel Master"></a></div>
-
-                        <div class="logo visible-md-block visible-lg-block"><a href="/"><img src="/v/vspfiles/templates/254/images/logo-white.png" alt="Channel Master"></a></div>
-                    </div>
-
-                    <div class="col-xs-4 col-md-4">
-                        <div class="vertical-center text-right">
-                            
-                            <div class="nav-actions">
-                                <div class="search visible-md-block visible-lg-block">
-                                    <form name="SearchBoxForm" method="get" action="/SearchResults.asp" autocomplete="off">
-                                        <input type="text" class="input transition" name="Search">
-                                        <input type="submit" value="" class="submit" name="Submit">
-                                    </form>
-                                </div>
-                                <div class="cart-summary">
-                                    <a class="cart" href="/shoppingcart.asp">
-                                        <span class="cart-summary__count" data-v-observable="cart-count">1</span>
-                                        <i class="icon-cart"></i>
-                                    </a>
-                                </div>
-                                <div class="login hidden-xs">
-                                    <a href=""></a>
-                                </div>
-                            </div>
-                            
-                         </div>
-                    </div>
-                </div>
-<!--/TV_Freedom_s/314.htm-->
-                <div class="mega_menu visible-md-block visible-lg-block">
-                <ul>
-                    <li><a onclick="">TV Freedom</a>
-                        <ul class="menu_bar items-3">
-                            <li><a href="/Why_Channel_Master_s/314.htm"><span>Why Channel Master?</span><img src="/v/vspfiles/templates/254/images/nav-lg-whycm.png"></a></li>
-                            <li><a href="/Why_Channel_Master_s/314.htm#channels"><span>What do I get?</span><img src="/v/vspfiles/templates/254/images/nav-lg-channels.png"></a></li>
-                            <li class="get-started-nav"><a href="/Why_Channel_Master_s/314.htm#get-started"><span>Get Started </span><img src="/v/vspfiles/templates/254/images/nav-lg-getcm.png"></a></li>
-                        </ul>
-                    </li>
-                    
-                    <li><a href="/All_Products_s/291.htm">Products</a>
-                        <ul class="menu_bar">
-                            <li><a href="/Antenna_DVR_s/336.htm"><span>DVRs</span><img src="/v/vspfiles/templates/254/images/nav-dvr.png"></a></li>
-                            <li><a href="/TV_Antennas_s/35.htm"><span>Antennas</span><img src="/v/vspfiles/templates/254/images/nav-outdoor.png"></a></li>
-                            <li><a href="/Amplifiers_s/23.htm"><span>Signal Amplifiers</span><img src="/v/vspfiles/templates/254/images/nav-amplifier.png"></a></li>
-                            <li class="last"><a href="/Installation_Products_s/291.htm"><span>Shop All Products</span><img src="/v/vspfiles/templates/254/images/nav-allproducts.png"></a></li>
-                        </ul>
-                    </li>
-                    <li><a href="http://support.channelmaster.com/hc/en-us/">Support</a>
-                        <ul class="menu_bar items-3 support-subnav">
-                            <li><a href="http://support.channelmaster.com/hc/en-us"><span>Support Site</span><img src="/v/vspfiles/templates/254/images/nav-techsupport.png"></a></li>
-                            <li><a href="/Antenna-Selection-a/134.htm"><span>Antenna Selection Guide</span><img src="/v/vspfiles/templates/254/images/nav-selection.png"></a></li>
-                            <li><a href="/Cord_Cutting_Guide_a/332.htm"><span>Cord Cutting Guide</span><img src="/v/vspfiles/templates/254/images/nav-cordcut.png"></a></li>
-                        </ul>
-                    </li>
-                </ul>
-                </div>
-
-            </header> <!-- /.header -->
-
+<!-- Desktop __________________________________________ -->
+<div class="header-ctr">
+    <div class="navbar" role="navigation">
+        <div class="nav-actions">
+            <!-- Phone -->
+            <div class="phone visible-md-block visible-lg-block">Questions? Call <a href="tel:877-746-7261">(877) 746-7261</a></div>
+        
+            <!-- Search & Cart -->
+            <div class="search visible-md-block visible-lg-block">
+                <form name="SearchBoxForm" method="get" action="https://www.channelmaster.com/SearchResults.asp" autocomplete="off">
+                    <input type="text" class="input transition" name="Search">
+                    <input type="submit" value="" class="submit" name="Submit">
+                </form>
+            </div>
+            <div class="cart-summary">
+                <a class="cart" href="https://www.channelmaster.com/shoppingcart.asp">
+                    <span class="cart-summary__count" data-v-observable="cart-count">1</span>
+                    <span class="nav-icon icon-cart">&nbsp;</span>
+                </a>
+            </div>
+            <div class="login hidden-xs">
+                <a href=""></a>
+            </div>
+        
         </div>
-    </div> <!-- /.navbar -->
-</div> <!-- /.header-wrap -->
+<!-- Mobile Nav Toggle -->
+        <div class="mobile-toggle-ctr">
+            <button type="button" id="cmMobileNavToggle">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+<!-- Logo -->
+        <div class="logo"><a href="https://www.channelmaster.com/"><span class="nav-icon logo-img">Channel Master</span></a></div>
+<!-- Desktop Mega Nav -->
+        <div class="mega_menu visible-md-block visible-lg-block">
+        <ul>
+            <li><a onclick="">TV Freedom</a>
+                <ul class="menu_bar items-3">
+                    <li><a href="https://www.channelmaster.com/Why_Channel_Master_s/314.htm"><span>Why Channel Master?</span><span class="image large whycm">&nbsp;</span></a></li>
+                    <li><a href="https://www.channelmaster.com/Why_Channel_Master_s/314.htm#channels"><span>What do I get?</span><span class="image large channels">&nbsp;</span></a></li>
+                    <li class="get-started-nav"><a href="https://www.channelmaster.com/Why_Channel_Master_s/314.htm#get-started"><span>Get Started </span><span class="image large getcm">&nbsp;</span></a></li>
+                </ul>
+            </li>
+            
+            <li><a href="https://www.channelmaster.com/All_Products_s/291.htm">Products</a>
+                <ul class="menu_bar">
+                    <li><a href="https://www.channelmaster.com/Antenna_DVR_s/336.htm"><span>DVRs</span><span class="image dvr">&nbsp;</span></a></li>
+                    <li><a href="https://www.channelmaster.com/TV_Antennas_s/35.htm"><span>Antennas</span><span class="image antenna">&nbsp;</span></a></li>
+                    <li><a href="https://www.channelmaster.com/Amplifiers_s/23.htm"><span>Signal Amplifiers</span><span class="image amps">&nbsp;</span></a></li>
+                    <li class="last"><a href="https://www.channelmaster.com/Installation_Products_s/291.htm"><span>Shop All Products</span><span class="image allprod">&nbsp;</span></a></li>
+                </ul>
+            </li>
+            <li><a href="https://support.channelmaster.com/hc/en-us/">Support</a>
+                <ul class="menu_bar items-3 support-subnav">
+                    <li><a href="https://support.channelmaster.com/hc/en-us"><span>Support Site</span><span class="image support">&nbsp;</span></a></li>
+                    <li><a href="https://www.channelmaster.com/Antenna-Selection-a/134.htm"><span>Antenna Selection Guide</span><span class="image antennaselect">&nbsp;</span></a></li>
+                    <li><a href="https://www.channelmaster.com/Cord_Cutting_Guide_a/332.htm"><span>Cord Cutting Guide</span><span class="image cordcut">&nbsp;</span></a></li>
+                </ul>
+            </li>
+        </ul>
+        </div>
+    </div>
+</div>
+</header> <!-- /.header -->
 
 <div class="page-wrap">
-  <div id="if_hompage">
-    <div id="slider_div"></div>
-  </div>
   <!-- Add your site or application content here -->
   <div class="content">
       <main class="container" id="content_area" role="main">
@@ -377,119 +415,7 @@ By using our site, you consent to our privacy policy.
 	}
 </style>
 </div><!-- .vcb-article -->
-<textarea style="display:none;" id="articleBody_5" readonly="true">&lt;div class="container"&gt;
-	&lt;div class="row"&gt;
-    &lt;h1 class="orange"&gt;PRIVACY POLICY&lt;/h1&gt;
-    &lt;div class="col-sm-12"&gt;
-	&lt;h3&gt;What information do we collect?&lt;/h3&gt;
-	&lt;p&gt;
-We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or
-communication such as e-mail, or participate in another site feature. When ordering or registering, we may ask you for your name, e-mail
-address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
-We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not
-used for marketing purposes. Like many websites, we use "cookies" to enhance your experience and gather information about visitors and
-visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
-	&lt;/p&gt;
-	&lt;h3&gt;How do we use your information?&lt;/h3&gt;
-	&lt;p&gt;
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or
-marketing communication, surf the website, or use certain other site features in the following ways:
-		&lt;br/&gt;&lt;br/&gt;
-		To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.&lt;br/&gt;
-		To allow us to better service you in responding to your customer service requests.&lt;br/&gt;
-		To quickly process your transactions.&lt;br/&gt;
-		To administer a contest, promotion, survey or other site feature.
-		&lt;br/&gt;&lt;br/&gt;
-		If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional
-e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have
-not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as
-marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail
-communications from us.
-	&lt;/p&gt;
-	
-	&lt;h3&gt;How do we protect visitor information?&lt;/h3&gt;
-	&lt;p&gt;
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained
-behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are
-required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server.
-All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to
-be only accessed as stated above.
-	&lt;/p&gt;
-	&lt;h3&gt;Do we use "cookies"?&lt;/h3&gt;
-	&lt;p&gt;
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow)
-that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance,
-we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences
-based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile
-aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-		&lt;br/&gt;&lt;br/&gt;
-		We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not
-permitted to use the information collected on our behalf except to help us conduct and improve our business. You can choose to have your
-computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape
-Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify
-your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our
-services will not function properly. However, you can still place orders over the telephone by contacting customer service.
-	&lt;/p&gt;
-	&lt;h3&gt;Do we disclose the information we collect to outside parties?&lt;/h3&gt;
-	&lt;p&gt;
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance
-notice, except as described below. The term "outside parties" does not include www.ChannelMaster.com. It also does not include website
-hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties
-agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the
-law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may
-be provided to other parties for marketing, advertising, or other uses.
-	&lt;/p&gt;
-	&lt;h3&gt;How can you opt-out, remove or modify information you have provided to us?&lt;/h3&gt;
-	&lt;p&gt;
-To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to
-email production schedules you may receive any emails already in production. To delete all of your online account information from our
-database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses &amp; payment information. Please
-note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
-	&lt;/p&gt;
-	&lt;h3&gt;Third Party Links&lt;/h3&gt;
-	&lt;p&gt;
-In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and
-independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless,
-we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
-	&lt;/p&gt;
-	&lt;h3&gt;Changes to Our Policy&lt;/h3&gt;
-	&lt;p&gt;
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after
-the date of the change. This policy was last modified on August 6, 2003.
-	&lt;/p&gt;
-	&lt;h3&gt;Questions and Feedback&lt;/h3&gt;
-	&lt;p&gt;
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any
-other issue.
-	&lt;/p&gt;
-	&lt;h3&gt;Online Policy Only&lt;/h3&gt;
-	&lt;p&gt;
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-	&lt;/p&gt;
-	&lt;h3&gt;Terms and Conditions&lt;/h3&gt;
-	&lt;p&gt;
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.
-	&lt;/p&gt;
-	&lt;h3&gt;Your consent&lt;/h3&gt;
-	&lt;p&gt;
-By using our site, you consent to our privacy policy.
-	&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;style&gt;
-	.orange strong {
-		font-size: 16px;
-		text-decoration: underline;
-	}
-	h1 {
-		color: #5a5a5c;
-		-webkit-text-size-adjust: none;
-		font-family: Verdana, Geneva, sans-serif;
-		font-size: 24px;
-		font-weight: normal;
-		line-height: 1.3;
-		text-align: center;
-	}
-&lt;/style&gt;</textarea>
+<textarea style="display:none;" id="articleBody_5" readonly="true"></textarea>
 
 
 	  
@@ -503,101 +429,194 @@ By using our site, you consent to our privacy policy.
 </div> <!-- /.page-wrap -->
 
 <!-- FOOTER -->
-<div id="siteFooter">
+<div id="siteFooter" class="cm-site-footer">
+
 <div class="container clearfix">
     <div class="row footer-bar">
         <div class="col-xs-3">
-            <a href="/" class="icon-cm">Channel Master</a>
+            <a href="https://www.channelmaster.com/" class="icon-cm-ctr"><span class="nav-icon icon-cm">Channel Master</span></a>
         </div>
         <div class="col-xs-9">
-            <div class="phone">(877) 746-7261</div>
+            <div class="phone"><a href="tel:877-746-7261">(877) 746-7261</a></div>
         </div>
     </div>
 </div>
+
 <div class="footer-content">
+    
     <div class="container clearfix">
         <div class="row">
             <div class="hidden-xs col-sm-3 link-list">
-                <a href="/AboutUs.asp">About Us</a><br>
-                <a href="/Contact-Us-a/281.htm">Contact Us</a><br>
-                <a href="/Careers-a/297.htm">Careers</a><br>
-                <!--a href="/terms_privacy.asp">Privacy Policy</a><br>
-                <a href="/terms.asp">Terms &amp; Conditions</a><br-->
-                <a href="/Antenna-Selection-a/134.htm">Antenna Selection Guide</a><br>
-                <a href="/Cord_Cutting_Guide_a/332.htm">Cord Cutting Guide</a><br>
+                <a href="https://www.channelmaster.com/AboutUs.asp">About Us</a><br>
+                <a href="https://www.channelmaster.com/Contact-Us-a/281.htm">Contact Us</a><br>
+                <a href="https://www.channelmaster.com/Careers-a/297.htm">Careers</a><br>
+                <!--a href="https://www.channelmaster.com/terms_privacy.asp">Privacy Policy</a><br>
+                <a href="https://www.channelmaster.com/terms.asp">Terms &amp; Conditions</a><br-->
+                <a href="https://www.channelmaster.com/Antenna-Selection-a/134.htm">Antenna Selection Guide</a><br>
+                <a href="https://www.channelmaster.com/Cord_Cutting_Guide_a/332.htm">Cord Cutting Guide</a><br>
                 <a href="https://channelmastertv.com/register;jsessionid=2C1AA5924CA082F82868C54540CB000F">Register/Activate DVR+</a><br>
-                <a href="/Affiliate-Program-a/8.htm">Become an Affiliate</a><br>
+                <a href="https://www.channelmaster.com/Affiliate-Program-a/8.htm">Become an Affiliate</a><br>
             </div>
             <div class="hidden-xs col-sm-3 link-list">
-                <a href="/Why_Channel_Master_s/314.htm">Why Channel Master?</a><br>
-                <a href="/Antenna_DVR_s/336.htm">DVRs</a><br>
-                <a href="/TV_Antennas_s/35.htm">Antennas</a><br>
-                <a href="/Amplifiers_s/23.htm">Signal Amplifiers</a><br>
-                <!--a href="/All_Products_s/291.htm">Shop All Products</a><br-->
-                <a href="http://support.channelmaster.com/hc/en-us">Support</a><br>
-                <a href="/Shipping-and-Return-Policies-a/57.htm">Shipping &amp; Returns</a><br>
-                <a href="/Special_Offers_s/364.htm">Special Offers</a><br>
+                <a href="https://www.channelmaster.com/Why_Channel_Master_s/314.htm">Why Channel Master?</a><br>
+                <a href="https://www.channelmaster.com/Antenna_DVR_s/336.htm">DVRs</a><br>
+                <a href="https://www.channelmaster.com/TV_Antennas_s/35.htm">Antennas</a><br>
+                <a href="https://www.channelmaster.com/Amplifiers_s/23.htm">Signal Amplifiers</a><br>
+                <!--a href="https://www.channelmaster.com/All_Products_s/291.htm">Shop All Products</a><br-->
+                <a href="https://support.channelmaster.com/hc/en-us">Support</a><br>
+                <a href="https://www.channelmaster.com/Shipping-and-Return-Policies-a/57.htm">Shipping &amp; Returns</a><br>
+                <a href="https://www.channelmaster.com/Special_Offers_s/364.htm">Special Offers</a><br>
             </div>
             <div class="col-xs-12 col-sm-6 footer-newsletter">
                 <strong>Stay Connected, Sign Up For Updates</strong>
                 <ul class="social">
                     <li class="newsletter"><a style="display:none;" rel="open-emailsignup" class="cta-button secondary">Join Newsletter</a></li>
-                    <li><a href="https://www.instagram.com/tvfreedom/" class="cta-button secondary insta" target="_blank"><span></span></a></li>
-                    <li><a href="https://www.youtube.com/user/channelmasterstore" class="cta-button secondary yt" target="_blank"><span></span></a></li>
-                    <li><a href="https://www.facebook.com/mychannelmaster" class="cta-button secondary fb" target="_blank"><span></span></a></li>
-                    <li><a href="https://twitter.com/ChannelMaster" class="cta-button secondary tw" target="_blank"><span></span></a></li>
+                    <li><a href="https://www.instagram.com/mychannelmaster/" class="cta-button secondary insta" target="_blank" onclick="ga('send', 'event', 'Social Link', 'click', 'Social Link Footer - Instagram');"><span class="nav-icon icon-social instagram">Instagram</span></a></li>
+                    <li><a href="https://www.youtube.com/user/channelmasterstore" class="cta-button secondary yt" target="_blank" onclick="ga('send', 'event', 'Social Link', 'click', 'Social Link Footer - YouTube');"><span class="nav-icon icon-social youtube">YouTube</span></a></li>
+                    <li><a href="https://www.facebook.com/mychannelmaster" class="cta-button secondary fb" target="_blank" onclick="ga('send', 'event', 'Social Link', 'click', 'Social Link Footer - Facebook');"><span class="nav-icon icon-social facebook">Facebook</span></a></li>
+                    <li><a href="https://twitter.com/ChannelMaster" class="cta-button secondary tw" target="_blank" onclick="ga('send', 'event', 'Social Link', 'click', 'Social Link Footer - Twitter');"><span class="nav-icon icon-social twitter">Twitter</span></a></li>
                 </ul>
             </div>
         </div>
     </div>
+
     <div class="container clearfix">
         <div class="row">
             <div class="col-sm-12 copyright-foot">
-                Copyright © <span class="insertYear">2020</span>&nbsp;<a href="/terms.asp" title="Terms">Channel Master.</a> All Rights Reserved. | <a href="/terms_privacy.asp">Privacy Policy</a> | <a href="/terms.asp">Terms &amp; Conditions</a><br>
+                Copyright © <span class="insertYear">2017</span>&nbsp;<a href="https://www.channelmaster.com/terms.asp" title="Terms">Channel Master.</a> All Rights Reserved. | <a href="https://www.channelmaster.com/terms_privacy.asp">Privacy Policy</a> | <a href="https://www.channelmaster.com/terms.asp">Terms &amp; Conditions</a><br>
             </div>
         </div>
     </div>
 </div>
 </div><!-- #siteFooter -->
 
-<script src="/v/vspfiles/templates/254/js/jquery-1.11.1.min.js"></script>
-
-<script type="text/javascript">
-    var $jQueryModern = jQuery.noConflict(true);
-</script>
-
-<script src="/v/vspfiles/templates/254/js/push-menu/classie.js"></script>
 <script>
-  var menuLeft = document.getElementById( 'push-menu' ),
-      showLeftPush = document.getElementById( 'showLeftPush' ),
-      body = document.body;
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-	showLeftPush.onclick = function() {
-    classie.toggle( this, 'active' );
-    classie.toggle( body, 'cbp-spmenu-push-toright' );
-    classie.toggle( menuLeft, 'cbp-spmenu-open' );
-    disableOther( 'showLeftPush' );
-	};
-	function disableOther( button ) {
-	    if( button !== 'showLeftPush' ) {
-	        classie.toggle( showLeftPush, 'disabled' );
-	    }
+ga('create', 'UA-9866665-4', 'auto');
+ga('require', 'ec');
+
+// Products
+if (document.URL.indexOf('_p/') > 0) {
+	var productName = $('[itemprop="name"]').text().trim(),
+		productPrice = $('[itemprop="price"]').text().trim(),
+		productID = $('meta[itemprop="productID"]').attr('content');
+		//productID = $('input[name="ProductCode"]').val();
+	//console.log('productID:'+productID+', productName:'+productName+', productPrice:'+productPrice);
+	ga('ec:addProduct', {
+		'id': productID,
+		'name': productName,
+		'price': productPrice
+	});
+
+	ga('set','dimension1',productID); //Product ID
+	ga('set','dimension2','product detail'); //Pagetype
+	ga('set','dimension3',productPrice); //Total value
+
+	ga('ec:setAction', 'detail');
+}
+// Category List
+if (document.URL.indexOf('_s/') > 0) {
+	// Analytics Tracking - Add Impression (product was viewed in a list)
+	$('.v-product').each(function(index) {
+		var productName = $(this).find('.v-product__title').text().trim(),
+			productPrice = $(this).find('.product_productprice').text(),
+			productPrice = productPrice.replace('Price:','').trim(),
+			productID = $(this).find('div meta[itemprop="productID"]').attr('content');
+
+		var productSalePrice = $(this).find('.product_saleprice').text(),
+			productSalePrice = productSalePrice.replace('Sale Price:','').trim();
+
+		if (productSalePrice.length != 0) {
+			productPrice = productSalePrice;
+		}
+		//console.log('prod:'+index+'; productID:'+productID+', productName:'+productName+', productPrice:'+productPrice);
+		ga('ec:addImpression', {
+			'id': productID,
+			'name': productName,
+			'list': 'Category Page',
+			'position': index+1,
+			'price': productPrice
+		});
+		// add click tracking to links
+		$(this).find('a').each(function(index) {
+			var productLink = $(this).attr('href');
+			$(this).attr('onClick','gaProductCatClick('+productID+',\''+productName+'\','+(index+1)+','+productPrice+',\''+productLink+'\'); return !ga.loaded;');
+		});
+	});
+}
+// Cart Page
+if (document.URL.indexOf('ShoppingCart.asp') > 0 || document.URL.indexOf('shoppingcart.asp') > 0) {
+	$('.v65-cart-details-row').each(function(index) {
+		var productID = $(this).find('.v65-cart-detail-productimage img').attr('src'),
+			productName = $(this).find('.colors_productname').text().trim(),
+			productPrice = $(this).find('td[width="70"]').text().trim(),
+			productQty = $(this).find('input').val();
+		if (typeof(productID) != 'undefined') {
+			productID = productID.replace('/v/vspfiles/photos/','').replace('-0.jpg','');
+			//console.log('productID = '+productID+'; productName = '+productName+'; productPrice = '+productPrice+'; productQty ='+productQty+';');
+			ga('ec:addProduct', {
+				'id': productID,
+				'name': productName,
+				'price': productPrice,
+				'quantity': productQty
+			});
+		}
+	});
+	ga('ec:setAction','checkout', {
+		'step': 1
+	});
+}
+// Checkout Page
+if (document.URL.indexOf('one-page-checkout.asp') > 0) {
+	$('#v65-onepage-ordersummary-items tr').each(function(index) {
+		var isHeader = $(this).is('#v65-onepage-ordersummary-header-row');
+		if (isHeader == false) {
+			var productID = $(this).find('.v65-onepage-ordersummary-itemcode').text().trim(),
+				productName = $(this).find('.v65-onepage-ordersummary-itemname').text().trim(),
+				productTotal = $(this).find('.v65-onepage-ordersummary-itemtotal').text().trim(),
+				productTotal = productTotal.replace('$',''),
+				productQty = $(this).find('.v65-onepage-ordersummary-itemqty').text().trim(),
+				productPrice = parseInt(productTotal)/parseInt(productQty);
+			//console.log('productID = '+productID+'; productName = '+productName+';productTotal = '+productTotal+'; productPrice = '+productPrice+'; productQty ='+productQty+';');
+			ga('ec:addProduct', {
+				'id': productID,
+				'name': productName,
+				'price': productPrice,
+				'quantity': productQty
+			});
+		}
+	});
+	ga('ec:setAction','checkout', {
+		'step': 2
+	});
+}
+// Confirmation Page
+if (document.URL.indexOf('OrderFinished.asp') > 0 || document.URL.indexOf('orderfinished.asp') > 0) {
+	// loop though products
+	for (var i=0; i < OrderDetails.length; i++) {
+		ga('ec:addProduct', {
+			'id': OrderDetails[i][0], // Transaction ID. Required.
+			'name': OrderDetails[i][3], // Product name. Required.
+			'sku': OrderDetails[i][2], // SKU/code.
+			'price': OrderDetails[i][5], // Unit price.
+			'quantity': OrderDetails[i][6] // Quantity.
+		});	
 	}
+	ga('ec:setAction', 'purchase', {
+		'id': Order[0], // Transaction ID. Required.
+		'revenue': Order[2], // Grand Total.
+		'shipping': Order[5], // Shipping.
+		'tax': Order[4] // Tax.
+	});
+}
+
+ga('send', 'pageview');
 </script>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-9866665-4', 'auto');
-  ga('send', 'pageview');
-</script>
-
-<script type="text/javascript">
-  $('#slider_div').append($('#vSlider'));
-</script>
 
 <div id="exitpopup_bg" rel="close-signup" style="display: none;">&nbsp;</div>
 <div id="exitpopup" style="display:none;">
@@ -605,7 +624,7 @@ By using our site, you consent to our privacy policy.
 <!--Begin CTCT Sign-Up Form-->
 <div class="ctct-embed-signup">
       <span id="success_message" style="display:none;"><strong>Congrats, you're in the loop!</strong><br><br><a rel="close-signup">Close Window</a></span>
-   <div>
+   <div class="ctct-content">
       <h2><em>There's a lot happening in TV.</em> Stay informed!</h2>
       <p>Stay up to date with important TV industry information that directly affects cord cutters, and be the first to hear about Channel Master special offers and promotions. Channel Master does not share your contact information.</p>
       <form data-id="embedded_signup:form" class="ctct-custom-form Form" name="embedded_signup" method="POST" action="https://visitor2.constantcontact.com/api/signup">
@@ -615,7 +634,7 @@ By using our site, you consent to our privacy policy.
         <input data-id="source:input" type="hidden" name="source" value="EFD">
         <input data-id="required:input" type="hidden" name="required" value="list,email">
         <input data-id="url:input" type="hidden" name="url" value="">
-        <div class="signup-form"><p data-id="Email Address:p"><label data-id="Email Address:label" data-name="email" class="ctct-form-required">Email Address</label> <input placeholder="Email address..." data-id="Email Address:input" type="text" name="email" value="" maxlength="80"></p><button type="submit" class="Button ctct-button Button--block Button-secondary" data-enabled="enabled">Yes, I want to stay informed!</button></div>
+        <div class="signup-form"><p data-id="Email Address:p"><label data-id="Email Address:label" data-name="email" class="ctct-form-required">Email Address</label> <input placeholder="Email address..." data-id="Email Address:input" type="text" name="email" value="" maxlength="80"></p><button type="submit" class="Button ctct-button Button--block Button-secondary" data-enabled="enabled" onclick="ga('send', 'event', 'Newsletter Signup', 'click', 'Newsletter Signup Popup');fbq('track', 'Lead', {value: 0.00,currency: 'USD'});">Yes, I want to stay informed!</button></div>
       </form>
       <script type="text/javascript">
    var localizedErrMap = {};
@@ -966,59 +985,68 @@ function main($) {
 }
 </script>
       <a rel="close-signup" class="no-thanks">No thank you.</a>
+      <img class="background" src="https://downloads.channelmaster.com/Images/signup-photo-v2.jpg">
    </div>
 </div>
-<img class="background" src="/v/vspfiles/templates/254/images/signup-photo.jpg?v=2">
 <!--End CTCT Sign-Up Form-->
 </div>
 
 <script>
 
-$(document).ready(function(){
+jQuery(document).ready(function(){
     // Exit Popup, Created by kristenzirkler 6/13/2016
+
+
     // Check Cookie
     var showEmailSignupCookie = getCookie('show-email-signup1');
 
     // If page level setting is turned on
     if (showEmailSignupOnPage != 'false') {
       // If cookie is not set to false and the popup is on page.
-      if ($('#exitpopup').length && showEmailSignupCookie != 'false') {
-        $('#exitpopup_bg').delay(5000).fadeIn();
-        $('#exitpopup').delay(5000).fadeIn();
+      if (jQuery('#exitpopup').length && showEmailSignupCookie != 'false') {
+        jQuery('#exitpopup_bg').delay(5000).fadeIn();
+        jQuery('#exitpopup').delay(5000).fadeIn();
       }
     }
-    $('[rel="close-signup"]').click(function(event){
+
+    jQuery('[rel="close-signup"]').click(function(event){
         event.preventDefault();
+
         createCookie('show-email-signup1', 'false', 14);
+
         showEmailSignupCookie = 'false';
         
-        $('#exitpopup_bg').fadeOut();
-        $('#exitpopup').slideUp();
+        jQuery('#exitpopup_bg').fadeOut();
+        jQuery('#exitpopup').slideUp();
 
     });
-    $('[rel="open-emailsignup"]').click(function(event){
+    jQuery('[rel="open-emailsignup"]').click(function(event){
         event.preventDefault();
-        $('#exitpopup_bg').fadeIn();
-        $('#exitpopup').fadeIn();
-
+        jQuery('#exitpopup_bg').fadeIn();
+        jQuery('#exitpopup').fadeIn();
     });
     //End Exit Popup
-    $('[rel="open-emailsignup"]').show();
+    jQuery('[rel="open-emailsignup"]').show();
 });
 </script>
 
-<!-- Adroll pixel -->
-<script type="text/javascript"> adroll_adv_id = "KYFXYF4DLBFNDJB74Q5VPQ"; adroll_pix_id = "BRXB44R4TFBC5EG3LCVEPK"; /* OPTIONAL: provide email to improve user identification */ /* adroll_email = "username@example.com"; */ (function () { var _onload = function(){ if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return} if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return} var scr = document.createElement("script"); var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com"); scr.setAttribute('async', 'true'); scr.type = "text/javascript"; scr.src = host + "/j/roundtrip.js"; ((document.getElementsByTagName('head') || [null])[0] || document.getElementsByTagName('script')[0].parentNode).appendChild(scr); }; if (window.addEventListener) {window.addEventListener('load', _onload, false);} else {window.attachEvent('onload', _onload)} }()); </script>
+
+<script src="https://downloads.channelmaster.com/v/vspfiles/templates/254/t/customjs-a5f1c456ecaf6a2639c06a31a7588032.js"></script>
+
+
+<script src="https://downloads.channelmaster.com/t/design-toolkit_min.js"></script>
+<script>DTK.loadCSS("254");</script>
 
 <script type="text/javascript"> 
 //<![CDATA[ 
-var onHomePage = (location.pathname == "/") ||
- (location.pathname.indexOf("/default.asp") != -1); 
+var onHomePage = (location.pathname == "/") || 
+	(location.pathname.indexOf("/default.asp") != -1) || (location.pathname.indexOf("/Default.asp") != -1); 
 if (onHomePage) {
   document.body.className += ' ' + 'is-home-page';
 }
 //]]>
 </script>
+
 
 
 
