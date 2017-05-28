@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zapier.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109093602id_/https%3A//zapier.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapier.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528050331id_/https%3A//zapier.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Zapier
 
@@ -6,13 +6,13 @@
 
 Welcome to Zapier! Here on the left you'll find our plain-english privacy policy and the corresponding legal policy on the right.
 
-We last updated this policy on September 28, 2016.
+We last updated this policy on May 15, 2017.
 
 Onward!
 
 ## Legal Privacy Policy
 
-Date of Last Revision: September 28, 2016
+Date of Last Revision: May 15, 2017
 
 Welcome to the web site (the "Site") of Zapier, Inc. ( "Zapier", "we", "us" and/or "our"). This Site is operated by Zapier and has been created to provide information about our company and its content and data linking platform and related services (together with the Site, the "Service(s)") to our Service visitors ("you", "your"). This Privacy Policy sets forth Zapier's policy with respect to information including personally identifiable data ("Personal Data") and other information that is collected from visitors to the Site and Services.
 
@@ -42,9 +42,9 @@ For your convienence, we use cookies so you don't have to log in every time you 
 
 When you interact with us through the Services, we may collect Personal Data and other information from you, as further described below:
 
-**Personal Data That You Provide Through the Services** : We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for access to the Zapier Services or use certain Zapier Services. Wherever Zapier collects Personal Data we make an effort to provide a link to this Privacy Policy.
+**Personal Data That You Provide Through the Services** : We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for access to the Zapier Services or use certain Zapier Services. Wherever Zapier collects Personal Data we make an effort to provide a link to this Privacy Policy. You can choose at any time to opt out by contacting support at contact@zapier.com, you can also contact us to opt out of your information being used for purposes other than it was originally collected.
 
-By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to the Services, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of Zapier and the authorized third parties referred to herein located in the United States.
+By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to the Services, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of Zapier and the authorized third parties referred to herein located in the United States. The Personal Information that you provide can be accessed at any time through your account or you can contact our customer support at contact@zapier.com if you need help accessing your account.
 
 **Cookies** : In operating the Services, we may use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Services gives to your browser when you access the Services. Our cookies help provide additional functionality to the Services and help us analyze Services usage more accurately. For instance, our Services may set a cookie on your browser that allows you to access the Services without needing to remember and then enter a password more than once during a visit to the Services. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a "help" section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Services's features. **Aggregated Personal Data** : In an ongoing effort to better understand and serve the users of the Zapier Services, Zapier often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and Zapier may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. Zapier may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
 
@@ -72,17 +72,15 @@ Zapier is not in the business of selling your information. We consider this info
 
 **Business Transfers** : As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets. In cases of onward transfer of personal information to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Zapier remains liable. **Related Companies** : We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy. **Agents, Consultants and Related Third Parties** : Zapier, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function. **Legal Requirements** : Zapier may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Zapier, (iii) act in urgent circumstances to protect the personal safety of users of the Services or the public, or (iv) protect against legal liability.
 
-## EU-U.S. Privacy Shield
+## EU-U.S. & Swiss-U.S. Privacy Shield
 
-Zapier is EU-U.S. Privacy Shield compliant.
+Zapier is EU-U.S. & Swiss-U.S. Privacy Shield compliant.
 
-Zapier is a participant in the U.S. Department of Commerce's EU-U.S. Privacy Shield and has certified that we adhere to the EU-U.S. Privacy Shield Principles. Zapier is subject to the investigatory and enforcement powers of the Federal Trade Commission. 
+Zapier complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Zapier has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. 
 
-For more information about the EU-U.S. Privacy Shield Framework, visit the U.S. Department of Commerce's Privacy Shield website at https://www.commerce.gov/privacyshield 
+In compliance with the Privacy Shield Principles, Zapier commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Zapier at: [contact@zapier.com](mailto:contact@zapier.com).
 
-You may contact us regarding the EU-U.S. Privacy Shield as follows: [contact@zapier.com](mailto:contact@zapier.com).
-
-If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, you can also submit your complaint to Privacy Trust, an independent third party. Visit https://www.privacytrust.com/drs/zapier to file a complaint. 
+Zapier has further committed to refer unresolved Privacy Shield complaints to PrivacyTrust, an alternative dispute resolution provider located in the United Kingdom. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact Communications House, 26 York Street, London, W1U 6PZ for more information or to file a complaint. The services of Communications House are provided at no cost to you. 
 
 Finally, as a last resort and in limited situations, EU individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism. 
 
