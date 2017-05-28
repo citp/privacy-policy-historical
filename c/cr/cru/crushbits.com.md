@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crushbits.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205164134id_/http%3A//crushbits.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crushbits.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529005928id_/http%3A//crushbits.com/terms) for the most accurate reproduction.*
 
 # CrushBits - Love Calculator
 
