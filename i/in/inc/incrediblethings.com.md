@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incrediblethings.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121082737id_/http%3A//incrediblethings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incrediblethings.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528150522id_/http%3A//incrediblethings.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Incredible Things
 
