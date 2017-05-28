@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teknobites.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211043755id_/http%3A//www.teknobites.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teknobites.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528195022id_/http%3A//www.teknobites.com/disclaimer) for the most accurate reproduction.*
 
 # Disclaimer & Privacy Policy • Technology Bites
 
