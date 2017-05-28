@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resalerightssolution.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120004327id_/http%3A//mybusinessin20minutes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resalerightssolution.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528173444id_/http%3A//mybusinessin20minutes.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
