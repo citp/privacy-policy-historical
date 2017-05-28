@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gowatchseries.biz privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233950id_/http%3A//gowatchseries.to/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowatchseries.biz privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529002158id_/http%3A//gowatchseries1.to/privacy-policy.html) for the most accurate reproduction.*
 
 # WS PRIVACY POLICY
 
