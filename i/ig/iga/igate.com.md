@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the igate.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016002430id_/https%3A//www.capgemini.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igate.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528024530id_/https%3A//www.capgemini.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Capgemini Worldwide
 
 Capgemini believes that the establishment of trust and privacy is instrumental to the continued growth of the Internet.  We also believe that the efficient collection, use and transfer of information serve to enhance the development of the Internet and electronic commerce, provided that such information is handled in a fair and responsible manner.
 
-##  Introduction
+##  **Introduction**
 
 In order to inform you of its policies and activities with respect to the collection, use and transfer of Personal Data on its websites, Capgemini is providing you with an electronic copy of this Privacy Policy (the “ **Policy** ”). This Policy applies to all websites that are owned and operated by Cap Gemini S.A. and/or companies that Cap Gemini S.A. controls, directly or indirectly (collectively, “ **Capgemini** ”), unless a particular website displays its own privacy policy. 
 
@@ -12,7 +12,7 @@ In order to inform you of its policies and activities with respect to the collec
 
 In this Policy, “Personal Data” means information which relates to an individual and which identifies that individual, either directly or indirectly (together with other information that is reasonably likely to come into Capgemini’s possession), such as your name, email address or telephone number.
 
-##  Collection of Personal Data
+##  **Collection of Personal Data**
 
 Generally, you can visit Capgemini websites without providing any Personal Data about yourself. However, in order to access some parts of our websites, such as to download certain documents, or in connection with another specific purpose, we may need to collect Personal Data from you.  Providing Personal Data to us in these events is voluntary.  If you do not provide Personal Data to us, then you will not be able to benefit from the respective functionality offered by our websites, such as communication, downloading of documents or recruitment. The purposes, for which your Personal Data is collected, are described below, along with a brief description of how your Personal Data may be handled in each case.
 
@@ -27,7 +27,7 @@ Generally, you can visit Capgemini websites without providing any Personal Data 
 
 When providing Personal Data on this website, you acknowledge that you have the necessary authorization and consent to disclose Personal Data to be used by Capgemini as described in this Policy.
 
-##  Cookies 
+##  **Cookies  **
 
 Cookies are used on this website. By using our website, you agree that cookies are to be placed on your device as further explained below.
 
@@ -108,16 +108,16 @@ Here is a list of the main cookies we use on our website:
 **Registered visitor cookie** |  Cookie given to each registered user.  
 **Registered visitor functionality cookie** |  Cookies used to remember the unique identifier given to each registered user.  
 **Social plug-in content sharing cookie** |  Cookies set by services such as **Facebook Connect or Twitter Button** , which allow social networks users to share the content of our websites on social networks.  
-**Unregistered visitor cookie** |  Cookies used to give to unregistered visitors a unique identifier in order to recognize them and to analyze how they use the website.  
-**Analytic cookie** |  Cookies used to store URLs of the previous page visited, enabling to track visitors navigating from inside or from outside the website. If you click on a Capgemini advertisement on a non-Capgemini website, a cookie may be used to log which website you are on, in order to ensure our advertisements are served effectively and to measure whether our advertisements are viewed. 
+**Unregistered visitor cookie** |  Cookies used to give to unregistered users a unique identifier in order to recognize them and to analyze how they use the website.  
+**Analytic cookie** |  Cookies used to store URLs of the previous page visited, enabling to track usres navigating from inside or from outside the website. If you click on a Capgemini advertisement on a non-Capgemini website, a cookie may be used to log which website you are on, in order to ensure our advertisements are served effectively and to measure whether our advertisements are viewed. 
 
   * **Addthis:** cookies set by Addthis are used for user measurements and analytical features. Please refer to the [Addthis privacy statement](http://www.addthis.com/) for any further information on their use and your rights related to the use of such cookies.
-  * **Marketo:** cookies set by Marketo are used to track visitors on our website. Visits are tracked for known visitors. Unknown visitors are recorded as anonymous users. Please refer to [Marketo privacy statement](http://eu.marketo.com/) for any further information on their use and your rights related to the use of such cookies.
   * **Google Analytics:** cookies set by Google analytics are used for web analytical purpose, but are not used to track individual users. For further information on how Google Analytics collects and uses information on our behalf and the right to use such cookies, please refer to the [Google Analytics products and services privacy statement.](http://www.google.com/analytics/) If you object to your Personal Data being collected by Google Analytics, you may download and install the [Google Analytics Opt-out Browser Add-on.](https://tools.google.com/dlpage/gaoptout?hl=en)
   * **Doubleclick Floodlight:** cookies are used for retargeting campaigns. Please refer to [Doubleclick Floodlight privacy statement](https://support.google.com/dfa/partner/) for further information on the use of such cookies.
   * **Bluekai:** cookies are used for retargeting on LinkedIn. Please refer to [Bluekai privacy statement](http://bluekai.com/) for further information on the use of such cookies.
   * **Mediamath:** cookies are used for retargeting through Affiperf. Please refer to [Mediamath privacy statement](http://www.mediamath.com/) for further information on the use of such cookies.
   * **Pingdom:** cookies used for analytic purposes on our website. Please refer to [Pingdom privacy statement](https://www.pingdom.com/legal/privacy-policy/) for further information on the use of such cookies.
+  * **Pardot:** cookies set by Pardot are used to track users on our website. Visits are tracked for known users only. Unknown users are recorded as anonymous users. Please refer to [Pardot privacy policy](http://www.pardot.com/legal/privacy-policy/) for any further information on their use and your rights related to the use of such cookies.
 
   
   
