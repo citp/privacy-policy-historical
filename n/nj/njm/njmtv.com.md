@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the njmtv.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127093937id_/http%3A//www.njmtv.com/njmtv-privacy-policy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the njmtv.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528212930id_/http%3A//www.njmtv.com/njmtv-privacy-policy-and-security.html) for the most accurate reproduction.*
 
 # Privacy Policy And Security
 
