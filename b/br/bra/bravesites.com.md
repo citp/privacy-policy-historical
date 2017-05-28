@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bravesites.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022131045id_/https%3A//www.bravenet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravesites.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528160202id_/https%3A//www.bravenet.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Bravenet.com
 
