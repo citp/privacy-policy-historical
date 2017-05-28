@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepoplook.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122034255id_/http%3A//poplook.com/en/content/6-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepoplook.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528214950id_/http%3A//poplook.com/en/content/6-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Poplook.com
 
@@ -66,4 +66,4 @@ If you require further information about our Privacy Policy, please go to the Cu
 
 In compliance with the Personal Data Protection Act 2010 and its regulations, this Notice is issued to all our valued customers and/or prospective customers. This Notice explains how POPLOOK collect and handle your personal information in accordance with the Malaysian Personal Data Protection Act 2010.
 
-Please check [here](https://web.archive.org/web/20161122034255id_/http%3A//poplook.com/en/content/15-personal-data-protection) for more information on the Personal Data Protection Notice.
+Please check [here](https://web.archive.org/web/20170528214950id_/http%3A//poplook.com/en/content/15-personal-data-protection) for more information on the Personal Data Protection Notice.
