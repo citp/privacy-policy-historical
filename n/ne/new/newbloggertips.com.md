@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newbloggertips.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025032550id_/http%3A//newbloggertips.com/p/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbloggertips.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528232248id_/http%3A//newbloggertips.com/p/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - New Blogger Tips
 
