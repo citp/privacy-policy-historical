@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrp.org.uk privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121092420id_/http%3A//www.hrp.org.uk/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrp.org.uk privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528081605id_/http%3A//www.hrp.org.uk/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Historic Royal Palaces
 
