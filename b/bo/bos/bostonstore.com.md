@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bostonstore.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018002451id_/http%3A//www.bostonstore.com/sc1/customer-service-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostonstore.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528163102id_/http%3A//www.bostonstore.com/sc1/customer-service-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Boston Store
 
@@ -63,7 +63,7 @@ By opting in to mobile text alerts, the Bon-Ton customer agrees to receive a max
 
 Bon-Ton collects certain information automatically, such as the type of mobile device you use, device identifier, your mobile operating system, pages you visit on our mobile site, search terms, the type of mobile Internet browsers you use and information about the way you use our mobile website and applications.
 
-Read the [Mobile Terms & Conditions](https://web.archive.org/sc1/customer-service-mobile-terms-and-conditions)
+Read the [Mobile Terms & Conditions](https://web.archive.org/sc1/customer-service-mobile-terms-conditions)
 
 ### Changes To This Privacy Policy
 
