@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ogero.gov.lb privacy policy that was archived on 2012-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120318012826id_/http%3A//www.ogero.gov.lb/Published/EN/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ogero.gov.lb privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528204555id_/https%3A//www.ogero.gov.lb/Published/EN/privacypolicy.html) for the most accurate reproduction.*
 
 # OGERO - Privacy Policy
 
