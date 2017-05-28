@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foscam.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227141415id_/http%3A//www.foscam.com/company/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foscam.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528233947id_/http%3A//foscam.com/company/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Foscam Privacy Policy System
 
