@@ -1,94 +1,83 @@
-> *The following text is extracted and transformed from the vancouver2010.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226025542id_/http%3A//www.vancouver2010.com/more-2010-information/about-vanoc/organizing-committee/terms-and-policies/privacy/vanoc-web-site-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vancouver2010.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528193952id_/https%3A//www.olympic.org/privacy-policy) for the most accurate reproduction.*
 
-# VANOC Web Site Privacy Policy : Vancouver 2010 Winter Olympics
+# Olympics | Olympic Games, Medals, Results, News | IOC
 
-Respecting the privacy and confidentiality of your personal information is important to the Vancouver Organizing Committee for the 2010 Olympic and Paralympic Winter Games (“VANOC”). This website Privacy Policy explains how VANOC collects, uses and discloses your personal information on the VANOC website (the “Website”).
+This Privacy Policy, as updated from time to time, explains what information about you is collected and how it is processed in relation to your use of the website Olympic.org and, subject to other privacy terms being applicable, other websites, mobiles applications, newsletters or digital services managed by the International Olympic Committee (“IOC Digital Properties”). By using the IOC Digital Properties, you agree to your information being collected and processed in accordance with this Privacy Policy by the International Olympic Committee (“IOC”). When we refer to ‘’we’’, ‘’our’’ or “us”, we are referring to the IOC, and when we refer to “you” or “your” we refer to you as a user of the IOC Digital Properties. 
 
-  
-The purpose of this Policy is to make visitors to this Website aware of how VANOC protects the privacy and confidentiality of your personal information and the circumstances under which VANOC uses your personal information.
+**WHAT INFORMATION DO WE COLLECT?**
 
-  
- **Jurisdiction**
+**Information that you provide to us**  
+You may provide us with information, including personally identifiable information when you use the IOC Digital Properties, for instance to communicate with us, create a user account, complete certain transactions or subscribe to a newsletter or other services.
 
-This terms and conditions under which you use this Website (including as it relates to this privacy policy) are governed by and interpreted solely in accordance with the laws of the Province of British Columbia and no other jurisdiction. You are responsible for informing yourself of the laws of the jurisdiction and complying with those laws. Any litigation relating to the terms and conditions of use of this Website (including as it relates to this privacy policy) shall be brought solely within the Province of British Columbia and shall be within the exclusive jurisdiction of the Courts of the Province of British Columbia.
+If you want to create a user account, we ask you to provide us with your name, email address, country of residence, login information, and password. We may also invite you to provide us with additional information (e.g. date of birth), or to indicate your interests or preferences so that we can personalise your use of the IOC Digital Properties. 
 
-  
- **What is personal information?**
+If you register with us by using an account you hold with a third party service (such as Facebook, Google, or other social media sites), the third party service will provide us with some personal information about you, which may include your first and last name, username, unique identifiers and access tokens, e-mail address, date of birth and preferences.
 
-Personal information is information about an identifiable individual, not including business contact information (i.e. information that would allow an individual to be contacted at their place of business, or work product information). For example, personal information includes such things as your name, date of birth, personal e-mail address, credit card information and other financial information about you.
+**Information that is collected automatically**  
+We may implement automatic tracking processes (cookies) gathering information (such as browser type, operating systems, IP address and the date and time of access) on the IOC Digital Properties to help improve their content, customise them based on users’ preferences and conduct research on traffic and audience. Cookies may also be used to store user names and passwords so that users don’t have to log in at each session. You may block cookies by changing your browser settings.
 
- **What are the purposes for collection, use and disclosure of personal information?**
+**Publicly available information**  
+IOC Digital Properties may aggregate certain publicly available information (e.g. texts, photos and videos) sourced from publicly accessible accounts opened by third parties on third party social media services such as Twitter, Facebook and Instagram. Any person whose social media content is displayed on IOC Digital Media Properties may contact the IOC at [privacy@olympic.org](mailto:privacy@olympic.org), in order to have such content removed from the IOC Digital Properties.
 
-VANOC collects, uses and discloses your personal information with your knowledge and consent and only for purposes that we have identified prior to or at the time we collect the information. Some of the purposes for which VANOC may collect, use and disclose your personal information on this Website are:  
+**HOW DO WE USE THE INFORMATION WE COLLECT?**
 
+We use the information we collect about you to: 
 
-  * To facilitate communication with you
-  * To grant you/enable you to access certain special features or areas of the Website
-  * To facilitate the processing of any order for Vancouver 2010 merchandise or tickets
-  * To process any of your requests for information
-  * To make available to you through the Website certain services
-  * To permit you to subscribe to an E-mail List to receive updates on the Games
-  * To administer participation in contests
-  * To administer the pre-Games volunteer program application process
-  * To administer the “E-mail-to-a-Friend” function of the Website
-  * To administer a Media-only extranet
-  * To administer the polling function of the Website
-  * To announce special events
-  * To advise you of changes to our Website
+  * facilitate  your use of the IOC Digital Properties, enable your registration and the management of your user account;
+  * maintain and develop the IOC Digital Properties;
+  * gather statistics to help diagnose problems and enhance your experience of the IOC Digital Properties; 
+  * ensure the security of the IOC Digital Properties and that the IOC Digital Properties are used in compliance with the relevant terms of services and applicable laws;
+  * offer you a personalized experience of the IOC Digital Properties, based on your preferences and choice of content, and deliver relevant advertising to you;
+  * perform any transaction with you concluded through IOC Digital Properties 
+  * provide to you services, information and content that you have requested; and
+  * send you communications, including by email, about our activities and the activities of the Olympic Movement partners, while offering you the possibility to opt-out from such communications at any time.
 
 
 
-VANOC will not sell, trade, lend or otherwise voluntarily disclose to any third parties any personal information that you have provided to us for any purpose not identified under this Privacy Policy. VANOC may share your personal information with third parties to assist us to administer activities on this Website, such as for website administration and maintenance, administration of contests and data processing, to our professional advisors or otherwise for legitimate and reasonable purposes for which we have obtained your prior consent.
+If we intend to use your personal information for any other purpose, we will seek your consent where necessary. You agree that, in order to enhance your experience of the IOC Digital Properties and to the extent permitted by law, we may also combine information collected in accordance with this Privacy Policy with information that you have made publicly available for similar purposes or that you have explicitly agreed to share with us.
 
-  
-In certain circumstances, VANOC may disclose your personal information to a government institution that has asserted its lawful authority to obtain the information or where we have reasonable grounds to believe the information could be used in the investigation of an unlawful activity, or to comply with a subpoena or warrant or an order made by a court, person or body with jurisdiction to compel production of information or to comply with court rules regarding a production of records and information, or to our own legal counsel.
+**WHO DO WE SHARE YOUR INFORMATION WITH?**
 
-When you provide VANOC with your personal information, such as to sign up to receive e-mails about our activities or participate in a contest, you are consenting to the collection, use and disclosure of your personal information for these purposes in accordance with the principles that are outlined in the Privacy Policy.
+In addition to any information you may decide to make publicly available through your use of IOC Digital Properties, we may share information you provide us for the purposes outlined in this Privacy Policy with some of our affiliates (including the Olympic Foundation for Culture and Heritage, Olympic Channel Services SA, Olympic Channel Services SL, IOC Television & Marketing Services SA, Olympic Broadcasting Services SA or Olympic Broadcasting Services SL) and other third parties, who provide services (such as data hosting, email communications, or analytics) to us and help us deliver the IOC Digital Properties and other services to you and ensure the security of the IOC Digital Properties.
 
-If you have given us your consent, you may at any time withdraw your consent upon giving us reasonable notice.
+From time to time, we may offer you the possibility to receive communications (including communications related to products and services) from selected third parties such as our commercial partners and members of the Olympic Movement. If you agree to receive such communications, we may share your information with the relevant third parties, while leaving you the possibility to opt-out at any time.    
 
-  
- **Use of technology on the website**
+We reserve the right to disclose personal information we hold about you if we are required to do so under applicable laws or pursuant to any judicial or administrative process, and to the extent necessary to investigate, prevent, or take action regarding unlawful activities, or violation of our Terms of Service.
 
-The Website uses cookie technology to make your use of the Website more convenient. A cookie is a text file which enables the Website to store any information about your activities on the Website or the length of your stay. Personal information about your visits to the Website is used on an aggregate basis, which means it is used for statistical purposes to assist us in enhancing your online experience, or to evaluate the materials that we may carry on the Website.
+**HOW DO WE PROTECT YOUR PERSONAL INFORMATION?**
 
-VANOC will also use the cookies to monitor polling results. The cookies will monitor results to discourage voting twice in one poll. This will give us the ability to properly count activity reports and polling results.
+  1. **Data security**  
+We use technical and organisational measures in order to protect your personal information against the risks of damage, destruction, loss or unauthorised access, in accordance with applicable laws. 
 
-In addition, the cookie will store your e-mail address, which is your unique identifier, so that on return visits the Website will be able to match you to your identity in the database. This is an opt-in feature which will only be made operational if you choose to do so.  
-If you choose to disable cookies associated with the Website, this may affect your use of the Website and your ability to access certain features of the Website.
 
-  
- **E-mail list**
+  1. **International transfer**  
+While the information we collect will usually be processed in the European Economic Area or in Switzerland, you explicitly agree that we may also transfer your information for the purposes allowed by this Privacy Policy to the above-mentioned recipients, some of which may be based in countries that, like the United States of America, do not provide in their laws for a level of protection of your privacy equivalent to the one applied within the European Union and Switzerland.
 
-The Website allows you to provide us with your e-mail address in order that we may send you information and updates about VANOC and about the Games. In order to administer the E-mail List we will collect your name, e-mail address, geographical location and your language of preference for communication. We may also collect information such as your date of birth and information you provide to us about your preference for being considered for volunteer or employment positions with VANOC.
 
-  
- **E-mail to a friend**  
-The Website allows you to provide an e-mail address of a friend and personal information about your friend. The Website will send new stories, links, e-cards, or other information to the friend’s e-mail address. We will assume that, to the extent that we are provided the e-mail address of your friends, you have the consent of your friend to provide us with their e-mail address. We will also assume that you have consented to the friend having your e-mail address. In order to administer this option, we may collect your name, e-mail address, any comments that you provide, as well as the e-mail address of your friend.
+  1. **Age limitation**  
+IOC Digital Properties are intended for people who are 13 years old or older. By using the IOC Digital Properties, you confirm that you are 13 years old (or older) and that you are either of legal age under the laws of your country of residence, or that you have obtained the consent of a parent or guardian to use the IOC Digital Properties. 
 
-  
- **Media extranet**
+If we become aware that a child has provided us with personal information without parental or guardian consent, we will take steps to delete this information and close the child’s account. If you become aware that your child has provided us with personal information without your consent, please contact us at [privacy@olympic.org](mailto:privacy@olympic.org).
 
-There will be a separate part of the Website for the use of the Media. We will require that members of the Media who wish to use this secure part of the Website obtain a secure authentication offline. Members of the Media will be required to provide this authentication in order to access this part of the Website. We will also collect personal information for members of the Media, such as user name, e-mail address, phone number and name of media outlet for verification and statistical purposes.
 
- **Job Opportunities**
 
-The Website allows you to submit an application for employment and your resume. The Website will be integrated with an electronic resume management system accessible to our human resources personnel. To administer the resume management system, we will collect your name, address and other information relating to your employment application including information regarding your education, work history and other qualifications.
+  1. **Data retention**  
+We will retain your information only for the duration necessary for the purposes identified in this Privacy Policy or as required to meet our legal requirements. 
 
-  
- **Links to other sites**
 
-This Website contains links to other small websites. When you click on of those links, you are contacting another internet resource. VANOC has no responsibility or liability for, or control over those websites, or internet resources or their collection, use and disclosure of your personal information. Please refer to the privacy policy and terms of use contained in any linked site you choose to go to, and familiarize yourself with that website’s terms and conditions of use.
 
-  
- **How do we protect your personal information**
+**YOUR RIGHTS**
 
-The Website endeavours to maintain appropriate procedural and technological measures and storage facilities to prevent any unauthorized use or disclosure of your personal information. We exercise care in the secure transmission of your information, however no transmission of information over the internet is one hundred percent secure. We cannot guarantee that information disclosed through the internet cannot be intercepted by third parties. However, VANOC is taking the steps that are reasonably available to it to protect any personal information that is provided to it through this Website including, in its disposal or destruction.
+You have the right, in accordance with the law, to withdraw your consent regarding our use of your or your child’s personal information, to request access to your data, to request the deletion or correction of any erroneous or incomplete data and to object their use. For these purposes, please contact us at the following address: [privacy@olympic.org](mailto:privacy@olympic.org).
 
-  
- **Contacting us about your privacy**
+If you do not wish to continue receiving communications from us, you can also unsubscribe from our newsletters and other communications by clicking on the link provided in our email communications. If you have created a user account, you can access and modify your data or change the parameters of your account at any time by modifying the settings and preferences.
 
-You may request access to your personal information and information about our collection, use and disclosure of information by contacting us at [](mailto:info@vancouver2010.com)[info@vancouver2010.com](mailto:info@vancouver2010.com). VANOC attempts to keep records as accurate and complete as possible. You can help us maintain the accuracy of your information by notifying us of any changes to your personal information. If you have any questions about this Privacy Policy, you may contact our privacy officer at the following address: [](mailto:info@vancouver2010.com)[info@vancouver2010.com](mailto:info@vancouver2010.com).  
-This Privacy Policy may be changed from time to time at our sole discretion and without any prior notice. New versions of this Privacy Policy will be posted here. Your continued use of this Website, subsequent to any changes to the Privacy Policy, will signify that you consent to VANOC’s collection, use and disclosure of your personal information in accordance with the revised Privacy Policy.
+**CHANGES TO THIS PRIVACY POLICY**
 
-This version has been in effect since November, 2007.
+We reserve the right to make changes to this Privacy Policy, at any time. When we make changes, we will revise the "last updated" date at the bottom of the Privacy Policy and any change will be effective immediately upon posting. We will use reasonable efforts to inform you about any material changes made to this Privacy Policy, for example by posting a relevant notice on the IOC Digital Properties.  Your continued use of the IOC Digital Properties following the notification of changes will constitute your acceptance of such changes. We encourage you to review our Privacy Policy regularly.
+
+**This Privacy Policy was last updated on 1 November 2016**
+
+International Olympic Committee, Château de Vidy, 1007 Lausanne, Switzerland 
+
+[www.olympic.org](http://www.olympic.org/) 
