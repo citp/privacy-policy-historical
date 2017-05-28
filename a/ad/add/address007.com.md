@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the address007.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122032009id_/http%3A//address007.com/StaticPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the address007.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528094726id_/http%3A//address007.com/StaticPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Address007.com Privacy policy Page
 
@@ -20,9 +20,10 @@ We make you able to edit your account information and preferences at any time. T
 
 You ratify that you are disclosing Personal Info. with your own will.
 
+we are no way responsible for the information presented on websites like [address0007.net](https://address0007.net/), [allservicecenters.net](https://allservicecenters.net/), [allcustomercarenumbers.net](https://allcustomercarenumbers.net/), [customercarenumbers.net](https://customercarenumbers.net/), [allbusinessnumbers.com](https://allbusinessnumbers.com/), [findbusinessaddress.com](https://findbusinessaddress.com/), [addressofcustomerservicenumber.com](https://addressofcustomerservicenumber.com/), [customerservicecontactphonenumber.com](https://customerservicecontactphonenumber.com/) and many more sites like this. so we request you to contact the website owner of these websites for any issue rather than contacting [ address007.com](https://address007.com/)  
 If you are our corporate client, it is acceptable that we have entered into a contract with you for non-disclosure of confidential information. The contract should not be affected by this Policy in any manner.
 
-If you have queries or concerns about this policy; please contact us at info@grotal.com
+If you have queries or concerns about this policy; please contact us via contact us page below.
 
 **Third Party ad Networks**  
 By using address007.com you agree and accept that third party ad networks that are serving ads on address007.com may be placing and reading cookies on your browsers, or using web beacons to collect information as a result of ad serving. 
