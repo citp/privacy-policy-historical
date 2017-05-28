@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jpl.jobs privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622095620id_/http%3A//www.jpl.nasa.gov/copyrights.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpl.jobs privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528172702id_/https%3A//www.jpl.nasa.gov/copyrights.php) for the most accurate reproduction.*
 
 # Copyrights
 
