@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywood-elsewhere.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221044111id_/http%3A//www.hollywood-elsewhere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywood-elsewhere.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528234952id_/http%3A//www.hollywood-elsewhere.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hollywood Elsewhere
 
@@ -24,7 +24,3 @@ We may disclose personal information if we or one of our affiliated companies is
 
 There are numerous links to third parties contained on our site. Our Privacy Policy does not apply to those companies’ web sites, so you should refer to each of those sites to obtain information on their privacy policies. If you cannot find the privacy policy on any of these sites once you have arrived at their site via a link from our site, you should contact that site directly for more information.  
 The web is an evolving medium. If we need to change our Privacy Policy at some point in the future, we will post the changes before they take effect if we believe that the change in the way we use your personal information is significant or material. Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later.
-
-  
-  
-
