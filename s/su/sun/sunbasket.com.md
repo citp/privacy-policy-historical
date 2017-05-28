@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunbasket.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224173246id_/https%3A//sunbasket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunbasket.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528234226id_/https%3A//www.sunbasket.com/privacy) for the most accurate reproduction.*
 
 # Sun Basket: Privacy Policy
 
