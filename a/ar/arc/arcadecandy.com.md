@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadecandy.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214025119id_/http%3A//www.arcadecandy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadecandy.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528044049id_/http%3A//www.arcadecandy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ArcadeCandy
 
@@ -39,7 +39,7 @@ If you do not want us to collect your PII as described above or to use and share
 
 **Updating Your Personally Identifiable Information.**
 
-If your PII changes, or if you no longer desire our service, you may correct, update, amend, or remove it by emailing our Customer Support at [info@arcadecandy.com](mailto:info@arcadecandy.com) or by contacting us using our contact form [here](https://web.archive.org/web/20161214025119id_/http%3A//www.arcadecandy.com/Contact.ac).
+If your PII changes, or if you no longer desire our service, you may correct, update, amend, or remove it by emailing our Customer Support at [info@arcadecandy.com](mailto:info@arcadecandy.com) or by contacting us using our contact form [here](https://web.archive.org/web/20170528044049id_/http%3A//www.arcadecandy.com/Contact.ac).
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [info@arcadecandy.com](mailto:info@arcadecandy.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -103,7 +103,7 @@ The Site provides links to the websites of many third parties. If you click thro
 
 **Uninstall Software**
 
-Premium Users who have downloaded the Software and who do not want their NPII collected as described above should immediately uninstall the Software. You may uninstall the Software by going to [here](https://web.archive.org/web/20161214025119id_/http%3A//www.arcadecandy.com/Deactivate.ac) and following the directions to remove the Software from your computer, or by selecting the appropriate entry in your Control Panel using the "Add or Remove Programs" icon. Uninstalling the Software means that you will no longer have access to the Premium Games on the Site.
+Premium Users who have downloaded the Software and who do not want their NPII collected as described above should immediately uninstall the Software. You may uninstall the Software by going to [here](https://web.archive.org/web/20170528044049id_/http%3A//www.arcadecandy.com/Deactivate.ac) and following the directions to remove the Software from your computer, or by selecting the appropriate entry in your Control Panel using the "Add or Remove Programs" icon. Uninstalling the Software means that you will no longer have access to the Premium Games on the Site.
 
 **Your California Privacy Rights**
 
