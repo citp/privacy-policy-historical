@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cebuanas.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119052500id_/http%3A//www.cebuanas.com/faq/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cebuanas.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528175450id_/http%3A//www.cebuanas.com/faq/privacy.php) for the most accurate reproduction.*
 
 # Cebuanas.com Privacy Policy Statement
 
