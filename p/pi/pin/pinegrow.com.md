@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pinegrow.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326060129id_/http%3A//docsbeta.pinegrow.com/privacy-and-anti-spam-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinegrow.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528110208id_/http%3A//docs.pinegrow.com/privacy-and-anti-spam-policy) for the most accurate reproduction.*
 
 # Privacy and Anti-spam policy - Pinegrow Web Editor - Documentation and Tutorials
 
-* * *
+Privacy policy Pinegrow is a desktop app, so all your data (HTML, CSS, JS code, images and so on) never leaves your computer and is never read or stored on our servers. We maintain the licensing database with emails, serial codes and information about orders. We do not have access to customer’s credit card information […]
 
 ## Privacy policy
 
@@ -36,3 +36,7 @@ Poklukarjeva 22
 Slovenia
 
 info@pinegrow.com
+
+Last updated on January 6, 2016 at 7:08 pm
+
+Print this article
