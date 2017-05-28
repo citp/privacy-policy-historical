@@ -1,17 +1,21 @@
-> *The following text is extracted and transformed from the mybusinessin20minutes.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybusinessin20minutes.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528173444id_/http%3A//mybusinessin20minutes.com/privacy.html) for the most accurate reproduction.*
 
-# Legal
+# 
 
-* * *
+**Privacy Policy**
 
-**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
+117Network, LLC has been in business since 2008. We take your privacy and security very seriously. 
 
-  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
-  * the date and time you access the website and pages you visit;
-  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
-  * demographic and other non-personally identifiable profile information about you; and
-  * information to combat fraud or misuse
+In order to demonstrate our commitment to share our policies on information gathering, privacy, security, return, and more...
 
+Our company Privacy Policies are:
 
+1\. Your Personal Information: Our site uses forms for information requests and orders. Contact information from all forms (including name, address, email address, payment info, etc.) is used to process information requests and deliver orders. At no time will we share any of this information with any other person or company. Any financial information our customers submit, such as credit card number and expiration date is used only to charge the customer for what they are purchasing. 
 
-**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+2\. Security: This site has extensive security measures in place to protect the loss, misuse and alteration of the information under our control. All orders are processed using SSL technology via secure server. All customer contact information including credit card number and name and address is guarded with the utmost security and discretion. 
+
+3\. Return Policies: We offer a "no questions asked" return policy on all our products. If you're not 100% satisfied, we want you to tell us! 
+
+4\. Unsolicited email: We do not use, nor do we condone the use of unsolicited bulk email. Validated complaints against our affiliates result in cancellation of their account(s). We take this issue very seriously. Please report any incidents of unsolicited email coming from or mentioning the HenryGoldSecret.com domain to: abuse@henrygoldsecret.com for a prompt and personal reply. All matters will be investigated and dealt with promptly. 
+
+5\. Cookies: Cookies are small bits of data that can be stored on visitors computers. This site uses cookies to ensure proper commission tracking for our affiliates. We also use cookies to limit the appearance of special popup windows which contain giveaways and limited offers. 
