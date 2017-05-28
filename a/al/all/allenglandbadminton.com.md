@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allenglandbadminton.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114005918id_/http%3A//www.allenglandbadminton.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allenglandbadminton.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529004951id_/http%3A//www.allenglandbadminton.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Yonex All England Open Badminton Championships
 
