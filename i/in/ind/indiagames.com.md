@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiagames.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222124622id_/http%3A//www.indiagames.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiagames.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528100036id_/http%3A//indiagames.com/privacy.jsp) for the most accurate reproduction.*
 
 # IndiaGames
 
@@ -114,7 +114,7 @@ We provide you the ability to exercise certain controls and choices regarding ou
 * You may change your choices for subscriptions, newsletters and alerts
 * You may choose whether to receive from us offers and promotions for our products and services, or products and services that we think may be of interest to you
 * You may choose whether we share your _personal information_ with other companies so they can send you offers and promotions about their products and services
-* You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers [_here_](https://web.archive.org/web/20161222124622id_/http%3A//www.indiagames.com/www.youronlinechoices.com)
+* You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers [_here_](https://web.archive.org/web/20170528100036id_/http%3A//indiagames.com/www.youronlinechoices.com)
 * You may request access to the personal information we hold about you and that we amend or delete it and we request third parties with whom we have shared the information do the same
 
 You may exercise your controls and choices, or request access to your personal information, by contacting 
