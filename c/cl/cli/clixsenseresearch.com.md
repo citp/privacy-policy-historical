@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clixsenseresearch.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203194652id_/http%3A//www.clixsenseresearch.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clixsenseresearch.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528051032id_/http%3A//www.clixsenseresearch.com/Privacy.aspx) for the most accurate reproduction.*
 
 # ClixSense Research
 
