@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salestools.io privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112051235id_/https%3A//salestools.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salestools.io privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528112445id_/https%3A//salestools.io/privacy) for the most accurate reproduction.*
 
 # Terms - Salestools
 
