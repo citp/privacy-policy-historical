@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowpages-uae.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123181341id_/http%3A//www.yellowpages-uae.com/pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpages-uae.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528162927id_/http%3A//www.yellowpages-uae.com/pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policies of online business directory Yellow Pages UAE. yellowpages-uae.com
 
