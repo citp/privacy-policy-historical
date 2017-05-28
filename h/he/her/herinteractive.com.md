@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herinteractive.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222195608id_/http%3A//www.herinteractive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herinteractive.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528124936id_/https%3A//www.herinteractive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nancy Drew Games | Her Interactive
 
@@ -8,7 +8,7 @@ These provisions may be changed from time to time and without notice, at Her Int
 
 ### General
 
-The site is intended to be interesting and useful to visitors of all ages. Her Interactive values the privacy and safety of children (and adults) who may visit the site. If you are under age 13, you must obtain your parent or guardian’s consent before providing any personal information to the site or participating in the Message Board. This Privacy Policy explains what you need to do. If you are a child under age 13 and have questions about these Terms, or anything else on the site, please ask your parent or guardian for help. If you are a parent of guardian of a child under age 13 or are interested in the Site’s policy for collection of personal information from children, please see our [Message to Parents](http://www.herinteractive.com/about-us/for-parents/ "For Parents").
+The site is intended to be interesting and useful to visitors of all ages. Her Interactive values the privacy and safety of children (and adults) who may visit the site. If you are under age 13, you must obtain your parent or guardian’s consent before providing any personal information to the site or participating in the Message Board. This Privacy Policy explains what you need to do. If you are a child under age 13 and have questions about these Terms, or anything else on the site, please ask your parent or guardian for help. If you are a parent of guardian of a child under age 13 or are interested in the Site’s policy for collection of personal information from children, please see our [Message to Parents](https://www.herinteractive.com/about-us/for-parents/ "For Parents").
 
 ### What We Collect
 
@@ -60,21 +60,21 @@ If you want your name removed from Her Interactive’s database or to change or 
 Her Interactive  
 Opt-Out  
 Her Interactive  
-1150 – 114th Ave. S.E., Suite 200  
-Bellevue, WA 98004
+325 – 118th Ave. S.E., Suite 209  
+Bellevue, WA 98005
 
 In addition, if you are registered with the site, you may review and/or update your contact information, or request that we remove your information from Her Interactive’s database by the following the second, third or fourth contact option set forth above. Please include your screen name and/or the Email address you used when you registered, so that Her Interactive can verify your request.
 
 ### Conditions of Use
 
 Your access and use of the Site is subject to this Privacy Policy, and your use of the Message Board is subject to the Terms and Rules  
-View the Rules at [Messageboard Rules](http://www.herinteractive.com/privacy-policy/message-board-policies/ "Message Board Policies")  
-View the Terms at [Terms of Use](http://www.herinteractive.com/privacy-policy/terms-of-use/)
+View the Rules at [Messageboard Rules](https://www.herinteractive.com/privacy-policy/message-board-policies/ "Message Board Policies")  
+View the Terms at [Terms of Use](https://www.herinteractive.com/privacy-policy/terms-of-use/)
 
 ### Contacting the Site
 
 If you have questions about this Privacy Policy or the site, please contact:
 
 Her Interactive Inc. c/o Privacy  
-1150 – 114th Ave. S.E., Suite 200  
-Bellevue, WA 98004
+325 – 118th Ave. S.E., Suite 209  
+Bellevue, WA 98005
