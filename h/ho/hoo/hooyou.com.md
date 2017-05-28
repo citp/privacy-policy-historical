@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hooyou.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202041339id_/http%3A//www.hooyou.com/ppolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hooyou.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528211741id_/https%3A//www.hooyou.com/ppolicy.htm) for the most accurate reproduction.*
 
 # Zhang & Associates, P.C. - Immigration Attorneys in New York, Houston, Silicon Valley, Seattle, Chicago, Austin, Los Angeles
 
