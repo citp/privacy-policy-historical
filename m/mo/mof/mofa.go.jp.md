@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mofa.go.jp privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119043915id_/http%3A//www.mofa.go.jp/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mofa.go.jp privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529055006id_/http%3A//www.mofa.go.jp/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy ｜ Ministry of Foreign Affairs of Japan
 
-Official Website of the Ministry of Foreign Affairs of Japan
+### Official Website of the Ministry of Foreign Affairs of Japan
 
 March 31, 2009 
 
