@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4tnz.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120153419id_/http%3A//profile.bauerpublishing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4tnz.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529193439id_/http%3A//profile.bauerpublishing.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Bauer Publishing Profile
 
@@ -185,7 +185,7 @@ In order for behavioral advertising opt-outs to work on your Device, your browse
 
 Browser "Do Not Track" Signals
 
-Some third party browsers provide "do not track" machine readable signals for websites or other online Services which are automatically applied by default and therefore do not necessarily reflect our visitors’ choice as to whether they wish to receive advertisements tailored to their interests. As a result we do not respond to these signals. Go to [www.networkadvertising.org](https://web.archive.org/web/20161120153419id_/http%3A//profile.bauerpublishing.com/www.networkadvertising.org) or [www.aboutads.info](https://web.archive.org/web/20161120153419id_/http%3A//profile.bauerpublishing.com/www.aboutads.info) if you wish to learn more about your options to not accept tracking cookies for the purpose of receiving targeted interest-based advertisements.
+Some third party browsers provide "do not track" machine readable signals for websites or other online Services which are automatically applied by default and therefore do not necessarily reflect our visitors’ choice as to whether they wish to receive advertisements tailored to their interests. As a result we do not respond to these signals. Go to [www.networkadvertising.org](https://web.archive.org/web/20170529193439id_/http%3A//profile.bauerpublishing.com/www.networkadvertising.org) or [www.aboutads.info](https://web.archive.org/web/20170529193439id_/http%3A//profile.bauerpublishing.com/www.aboutads.info) if you wish to learn more about your options to not accept tracking cookies for the purpose of receiving targeted interest-based advertisements.
 
 ## 6\. What About Information I Disclose Publicly?
 
