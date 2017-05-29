@@ -1,115 +1,71 @@
-> *The following text is extracted and transformed from the hsx.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218035331id_/http%3A//www.hsx.com/about/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsx.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529062839id_/http%3A//www.hsx.com/about/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # HSX.com – Privacy Policy
 
-### Our Privacy Policy
+### OUR PRIVACY POLICY
 
-Please read the following to learn more about the privacy policy of Hollywood Stock Exchange, LLC ("HSX"), the owner and operator of the Hollywood Stock Exchange, with respect to the web site located at www.hsx.com and www.hollywoodstockexchange.com (the "Site"). This statement is intended to inform casual visitors of the Site, and visitors who participate in the Hollywood Stock Exchange, of the data collection and use practices of the Site. Amendments to this statement will be posted on this Site and will be effective when posted. Your continued use of this Site following the posting of any amendment, modification, or change shall constitute your acceptance thereof, except if your personally identifiable information will be used in a materially different manner. See our Notification of Changes section below.
+Please read the following Privacy Policy to learn more about the privacy policy of the website located at www.hsx.com and www.hollywoodstockexchange.com (the "Site") operated by Hollywood Stock Exchange, LLC ("HSX"), the owner and operator of the Hollywood Stock Exchange. This Privacy Policy is intended to inform users of the Site, who are either casual visitors of the Site or registered participants of the Hollywood Stock Exchange, of the data collection and use practices of the Site.
 
-### Personally Identifiable Information
+### PERSONALLY IDENTIFIABLE INFORMATION
 
-We only collect personally identifiable information, such as names, home addresses, e-mail addresses, and telephone numbers, from our visitors when such information is voluntarily provided. For example, when registering to participate in the Hollywood Stock Exchange, a visitor may be asked to provide, amongst other things, their first and last name, date of birth, gender, zip code, and e-mail address.
+The Site may collect personally identifiable information, such as names, home addresses, e-mail addresses, and/or telephone numbers, when such information is voluntarily provided by users of the Site. For example, when registering on the Site to participate in the Hollywood Stock Exchange, a user of the Site may be asked to provide, amongst other things, their first and last name, zip code, and e-mail address.
 
-The personally identifiable information that HSX collects is used to provide services to participants of the Hollywood Stock Exchange, to customize content, product offerings and/or layout of our Site for each individual visitor, to notify visitors about updates to and activities on the Site, and to contact visitors for information verification purposes. Personally identifiable information collected on the Site is not shared with third parties without your prior express consent. While HSX uses personally identifiable information to learn more about how visitors use the Site and to provide visitors with information about goods and services that we feel may be of interest to you, we will not release any personally identifiable information to third parties without your consent.
+This information may be used (and shared with HSX’s third party services providers) to provide services to participants of the Hollywood Stock Exchange, customize content, product offerings and/or layout of the Site for each individual user of the Site, notify users of the Site about updates to and activities on the Site, and contact users of the Site for information verification purposes. This information may also be used (and shared with HSX’s third party services providers) to learn more about how users use the Site and to provide them with information that we feel may be of interest to them. This information may be shared with our third party service providers as necessary for them to provide services to help us with our business activities such as shipping your order or offering customer service. Lastly, this information may be used as agreed to by the user of the Site. Please note that, as of the latest update of this Privacy Policy, the Site does not currently take actions to respond to “Do Not Track” signals in browsers.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at support@hsx.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+From time to time we may also provide users of the Site with the ability to add to their profile certain information about themselves, such as buying preferences, street address, marital status, income, education level, occupation, industry, and country. This information may be used (and shared with HSX’s third party services providers and business partners) in an aggregated, anonymized form in the regular course of HSX’s business.
 
-In order to participate in our community talk boards, users must be registered member of our web site. Upon participating in our talk board, members will be asked for their user name and password. Always remember that in order to protect your privacy users should not post any personal information, such as their home address or credit card information, as this information is made available to all visitors. To request removal of your personal information from our community talk boards, contact us at support@hsx.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+We will retain the information you voluntarily provided to us for as long as your Hollywood Stock Exchange account is active or as needed to provide you services. If you wish to cancel your Hollywood Stock Exchange account or request that we no longer use such information, please contact us at support@hsx.com.
 
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us. 
+Notwithstanding the foregoing, we may retain and/or disclose any information we receive or collect in connection with our users’ use of the Site to the extent that we determine in good faith to be required by any applicable laws, rules or regulations or order or in enforcement of our rights or property or the defense of claims. Without limiting the foregoing and in addition thereto, we may transfer your information to another entity if we are acquired by or merged with another entity, if all or substantially all of our assets or business are acquired by another company, or as part of a bankruptcy proceeding.
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, or legal process served on our web site.
+### SPECIAL OFFERS AND UPDATES
 
-If Hollywood Stock Exchange is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
-
-### Enhancement of Personal Information
-
-We enhance our user database information with third party data to better manage the content of our site and provide pertinent offers we think our users would be interested in. Certain summary demographics are also used in our research product offerings. Individual information is never used in our research product offering and is never tied back to the individual or resold for any purposes.
-
-Visitors that provide us with their postal address will be automatically eligible to receive special offers concerning new products and services or learn of upcoming events via postal mail. If you do not wish to receive such mailings, please notify us by e-mail at support@hsx.com. Please provide us with your exact user name and address. We will be sure your name is removed from the lists we use for these purposes.
-
-### Service Announcements
-
-On rare occasions it is necessary to send out a service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. These communications are not promotional in nature.
-
-### Special Offers and Updates
-
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter from time to time. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out section.
-
-### Choice and Opt-out
-
-We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
+We send all newly registered users of the Site a welcoming email to verify password and username. In addition, registered users of the Site may occasionally receive information on products, services, special deals, and a newsletter from time to time. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out section.
 
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at support@hsx.com. We offer an opportunity to opt-out of certain communications in your Account Settings page, or you may write to: Hollywood Stock Exchange, LLC 1925 Century Park East, Los Angeles, CA 90067, attn: Support, to opt-out.
 
-You will be notified when your personally identifiable information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
+### SURVEYS & CONTESTS
 
-### Customer Service
+From time-to-time our Site may request information from users via surveys and/or contests. Participation in these surveys and/or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Such requested information may be used (and shared with the contest or survey sponsors) to notify the winners and award prizes. Users' personally identifiable information provided by such users in connection with surveys and/or contests is not shared with third parties unless we give prior notice and obtain users’ agreement. Though we may use an intermediary to conduct these surveys or contests, these intermediaries will not use the users' personally identifiable information for any secondary purposes.
 
-We communicate with users on a regular basis to provide requested services and in regard to issues relating to their account we reply via email or phone, in accordance with the users' wishes.
+### NON-PERSONALLY IDENTIFIABLE INFORMATION
 
-### Surveys & Contests
+The Site automatically receives and store users’ domain name and Internet Protocol addresses (where possible). The Site may also collect statistical information about the users' online experience, preferences, and the pages they request. This information, which is collected and maintained in anonymous, non-personal, aggregate form, may be used (and shared with our third parties services providers) to monitor and improve the use and content of the Site, facilitate market research and for the same purpose as set out above. Sometimes, we utilize the services of third party web analytics service providers to help us understand this information better, though the information that is disclosed to these entities remains at all times in anonymous, non-personal form. Other than improving the Site and providing our visitors with the best experience possible, we make no other use of this information.
 
-From time-to-time our Site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be shared with the contest or survey sponsors to notify the winners and award prizes. Anonymous Survey information will be used for purposes of monitoring or improving the use and satisfaction of this Site. Users' personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, these intermediaries will not use the users' personally identifiable information for any secondary purposes.
+### COOKIES
 
-### Non-Personally Identifiable Information
+"Cookies" are commonly used pieces of information in the form of small files that are placed on an individual's computer hard drive to enable the individual to more easily communicate and interact with the Site. We may use cookies to save certain information about users of the Hollywood Stock Exchange and users of the Site in order to facilitate and enhance future activities with the Hollywood Stock Exchange and/or on the Site.
 
-Our server automatically recognizes visitors' domain name and Internet Protocol addresses (where possible). Our server does not collect any personal information about our visitors unless such information is voluntarily provided by the visitor. We also collect information about how visitors use the Site (for example what terms are searched for). This information, which is collected and maintained in anonymous, non-personal, aggregate form, allows us to improve the content of the Site and facilitate market research. Sometimes, we utilize the services of third party web analytics service providers to help us understand this information better, though the information that is disclosed to these entities remains at all times in anonymous, non-personal form. Other than improving the Site and providing our visitors with the best experience possible, we make no other use of this information.
-
-From time to time we also ask our visitors for certain information about themselves, such as buying preferences, street address, marital status, income, education level, occupation, industry, and country. We request this information to provide visitors with notices of special offers from HSX and others that may be of interest to such visitors. This information is kept in a database by HSX and not distributed to 3rd parties.
-
-### Cookies
-
-"Cookies" are commonly used pieces of information in the form of small files that are placed on an individual's computer hard drive to enable the individual to more easily communicate and interact with the Site. We use cookies to save certain information about users of the Hollywood Stock Exchange and others who visit the Site, in order to facilitate and enhance future activities with the Hollywood Stock Exchange and/or Site. HSX does not use cookies to retrieve information from a computer that is unrelated to HSX or the Site.
-
-We do not link the information we store in cookies to any personally identifiable information you submit while on our Site.
-
-We use an outside advertisement serving company to display advertisements on the Site. The advertisement serving company may place and collect cookies when it displays an advertisement on the Site. We do not have access to information that would confirm the use of cookies by the advertisement serving company.
+We may from time to time use outside advertisement serving companies to display advertisements on the Site. These companies may place and collect cookies when they display an advertisement on the Site, and may collect certain non-personally identifiable information when users visit and/or use the Site. These companies may use such information during their visits to the Site and other websites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or a third party web beacon to collect this information. To learn more about this behavioral advertising practice, you can visit www.networkadvertising.org.
 
 Most browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions.
 
-### Web beacons
+### WEB BEACONS
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+Web pages of the Site may contain electronic images known as Web beacons (sometimes called single-pixel gifs) that may be used along with cookies to compile aggregated statistics to analyze how the Site is used, and may be used in some of our emails to let us know which emails and links have been opened by recipients. This may allow us to gauge the effectiveness of our customer communications and marketing campaigns.
 
-### Access, Review, Update
+### FACEBOOK CONNECT
 
-Visitors who have registered with the Site may access, delete, review, and update the personal information that was previously provided to us by clicking on "Account Settings" after logging into your portfolio, or emailing us at [support@hsx.com](mailto:support@hsx.com), or by writing us at Customer Support, Hollywood Stock Exchange, LLC, 1925 Century Park East, Century City, CA 90067.
+You may from time to time have the ability to sign up for an account on the Site using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you with the option to share with us (and agree that we can use) certain of your information such as your name and email address to pre-populate our sign up form. We will collect, store, and use such information in accordance with this Privacy Policy. Services like Facebook Connect give you the option to post information about your activities on the Site to your profile page on such services and/or to share with others within your network on such services.
 
-### Facebook Connect
+### TELL-A-FRIEND
 
-You can log in to our site using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+We may make available on the Site a tell-a-friend feature. If a user elects to use this feature to inform a friend about the Site, they will provide the friend's name and email address. The Site may use this information to automatically send this friend a one-time email inviting them to visit the Site and tracking the success of our referral program. You or your friend may contact Customer Support by email at support@hsx.com to request the removal of this information from our database.
 
-### Social Media Widgets
+### OTHER WEB SITES; LINKS
 
-Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+The Site may from time to time display call-to-action buttons, such as the Facebook Like button, and/or include links to websites that are not owned or operated by us. We are not responsible for, do not endorse and have not reviewed the privacy practices of such buttons, websites, their owners or operators.
 
-### Tell-A-Friend
+### ACCESS, REVIEW, UPDATE
 
-If a user elects to use our referral service for informing a friend about our Site, we ask them for the friend's name and email address. HSX will automatically send the friend a one-time email inviting them to visit the Site. HSX does store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact Customer Support by email at support@hsx.com to request the removal of this information from our database.
+The laws of your state of residence may give you the right to request certain information from us. To request a copy of such information, please contact us by clicking on the link provided below and include your name, state of residence and specific information requested.
 
-### Other Web Sites; Links
+### CHANGES TO PRIVACY POLICY
 
-Our Site contains links to other web sites. HSX is not responsible for the privacy practices or the content of such other web sites.
+We may modify this privacy policy from time to time upon written notice or posting to the Site. It is your responsibility to review this privacy policy periodically. You agree that your access to or use of the Site after such notice or posting implies your acknowledgement and agreement to the modification and this privacy policy.
 
-### Consent to Processing
+### HSX CONTACT INFO
 
-By visiting this Site, all visitors consent to the collection, maintenance, and processing of their personal and non-personal information in the United States.
+All inquiries concerning this statement and the Site in general may be sent to Customer Support, Hollywood Stock Exchange, LLC, 1925 Century Park East, Century City, CA 90067 or support@hsx.com.
 
-### Notification of Changes
-
-If we decide to change our privacy policy, we will post material changes on the Site so our users are aware of what information we collect, how we use it, and if we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will provide prior notice to users by way of an e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. However, if you deleted/deactivated your personal account information you will not be contacted, nor will your information be used in this new manner.
-
-### Security
-
-Our Site has industry standard security measures in place to protect the loss, misuse, and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, we will take all reasonable steps to insure the safety of your personal information.
-
-Only employees who need the information to perform a specific job are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Finally, the servers that we store personally identifiable information on are kept in a secure environment.
-
-### HSX Contact Info
-
-All inquiries concerning this statement and the Site in general may be sent to Customer Support, Hollywood Stock Exchange, LLC, 1925 Century Park East, Century City, CA 90067 or support@hsx.com. 
-
-Thank you for visiting Hollywood Stock Exchange. 
-
-This page was last updated on February 4, 2014. 
+Last updated: March 2017.
