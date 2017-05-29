@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksb.gov.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119113041id_/http%3A//www.ksb.gov.in/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksb.gov.in privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529022021id_/http%3A//ksb.gov.in/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Kendriya Sainik Board, Department of Ex-Servicemen Welfare
 
@@ -20,6 +20,6 @@ Your email address will only be recorded if you choose to send a message. It wil
 
 ### Collection of Personal Information
 
-If you are asked for any other personal information you will be informed how it will be used if you choose to give it, if at any time you believe the principles referred to in this privacy statement have not been followed, or have any other comments on these principles, please notify the webmaster through the [ "CONTACT US"](https://web.archive.org/web/20161119113041id_/http%3A//www.ksb.gov.in/contact-us.htm "CONTACT US") page.
+If you are asked for any other personal information you will be informed how it will be used if you choose to give it, if at any time you believe the principles referred to in this privacy statement have not been followed, or have any other comments on these principles, please notify the webmaster through the [ "CONTACT US"](https://web.archive.org/web/20170529022021id_/http%3A//ksb.gov.in/contact-us.htm "CONTACT US") page.
 
 Note: The use of the term "Personal Information” in this privacy statement refers to any information from which your identity is apparent or can be reasonably ascertained.
