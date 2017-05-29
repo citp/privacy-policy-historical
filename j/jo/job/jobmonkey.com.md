@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobmonkey.com privacy policy that was archived on 2016-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160701201020id_/http%3A//www.jobmonkey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobmonkey.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529235539id_/http%3A//www.jobmonkey.com/privacy) for the most accurate reproduction.*
 
 # JobMonkey Privacy Policy
 
