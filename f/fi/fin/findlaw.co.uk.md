@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findlaw.co.uk privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516202654id_/http%3A//www.sweetandmaxwell.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findlaw.co.uk privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529042908id_/http%3A//www.sweetandmaxwell.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # Our Privacy Policies
 
@@ -55,14 +55,14 @@ Our products and/or websites may contain links to sites maintained by others, or
 
 
 Marketing Information Data Management  
-Friars House, 160 Blackfriars Road, London SE1 8EZ 
+5 Canada Square, Canary Wharf, London E14 5AQ
 
 Or by email at:  
 [Sweetandmaxwell.marketingdata@thomson.com](mailto:Sweetandmaxwell.marketingdata@thomson.com)
 
 Or by phone   
 Customer services on   
-0845 600 9 355 (UK)  
+0345 600 9355 (UK)  
 +44 1264 388 560 (International)
 
   
