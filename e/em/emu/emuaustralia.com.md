@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emuaustralia.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205121431id_/http%3A//www.emuaustralia.com/us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emuaustralia.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529183209id_/http%3A//www.emuaustralia.com/us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
