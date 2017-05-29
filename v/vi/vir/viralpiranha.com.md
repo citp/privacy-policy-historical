@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralpiranha.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108041544id_/http%3A//www.viralpiranha.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralpiranha.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529211503id_/http%3A//www.viralpiranha.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - viralpiranha
 
@@ -68,13 +68,15 @@ We only disclose or share your non-public personal information with third partie
 
 **To complete a merger or sale of assets.** If we sell all or part of our business or make a sale or transfer of our assets or are otherwise involved in a merger or transfer of all or a material part of our business, we may transfer your information to the party or parties involved in the transaction as part of that transaction.
 
-We do not control third parties’ collection or use of your information to serve interest­based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative ( **“NAI”** ) on the NAI’s website http://www.networkadvertising.org/choices/.
+We do not control third parties’ collection or use of your information to serve interest­based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative ( **“NAI”** ) on the NAI’s website http://www.networkadvertising.org/choices/. You may go to the Digital Advertising Alliance site to set advertising preferences for participating companies here: http://www.aboutads.info/choices/. If you are outside of the United States, you may set advertising choices for participating companies here: http://youronlinechoices.eu/.
 
 **_Third Party Content and Data Collection_**
 
 We do not control any third party content that may be displayed to you when you use our  Viral Piranha Website.  We are neither affiliated with nor responsible for the privacy practices of any partners or third parties who advertise or link to any websites, products, services or offers through the Viral Piranha Website, or who otherwise provide third party content.  Once you view or click on anadvertisement or link, you should carefully review the applicable privacy policy of such third party service or site.   Even if a third party is affiliated with us, we do not control its content or websites, each of which may have a separate privacy policy.  We encourage you to read the privacy policies of each site you visit.
 
 We have contracted with Yahoo to monitor certain pages of our website for the purpose of reporting web traffic, statistics, advertisement ‘click-throughs,’ and/or other activities on our website. No personally identifiable data is transferred to Yahoo by us. Where authorized by us, Yahoo may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. However, if you choose, you may opt out from Yahoo’s collection of such information outside of the Yahoo distribution network, by clicking on the following link:<http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html> .
+
+We use a service by Criteo to offer targeted advertising to you. You may deactivate the Criteo Service by following following instructions in Criteo’s privacy policy (http://www.criteo.com/privacy/).
 
 **_Location of Collected Data_**
 
@@ -98,4 +100,4 @@ To ask questions or comment about this privacy policy and our privacy practices,
 
 contact@viralpiranha.com
 
-Last updated: October 11, 2016
+Last updated: February 07, 2017
