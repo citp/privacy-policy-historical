@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longrangehunting.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129181800id_/http%3A//www.longrangehunting.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longrangehunting.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529201602id_/https%3A//www.longrangehunting.com/privacy.php) for the most accurate reproduction.*
 
 # Long Range Hunting, LLC Privacy Policy
 
