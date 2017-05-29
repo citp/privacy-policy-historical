@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newrepublic.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229032501id_/https%3A//newrepublic.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newrepublic.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529201447id_/https%3A//newrepublic.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | New Republic
 
