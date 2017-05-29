@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dss.gov.au privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112021435id_/https%3A//www.dss.gov.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dss.gov.au privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529042837id_/https%3A//www.dss.gov.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Department of Social Services, Australian Government
 
@@ -10,8 +10,7 @@ The Department of Social Services (‘DSS’) has responsibility for a broad ran
   * communities and vulnerable people
   * disability and carers
   * mental health
-  * ageing and aged care
-  * settlement  and multicultural affairs
+  * settlement and multicultural affairs
   * income support
   * disability employment services
   * the non-profit sector and volunteering.
@@ -60,7 +59,7 @@ Generally, members of the public will have the right to remain anonymous or adop
 
 ## 1.5 Information covered under this Privacy Policy
 
-This Privacy Policy covers how DSS collects, holds, uses and discloses your personal information, including any financial information you provide to DSS (such as your credit card details). This Policy applies to all personal information collected by DSS, including personal information collected through our social media websites.
+This Privacy Policy covers how DSS collects, holds, uses and discloses your personal information, including any financial information you provide to DSS (such as your credit card details). This Policy applies to all personal information collected by DSS, including personal information collected through our social media websites and from service providers funded to deliver services under DSS funding agreements.
 
 ## 1.6 Information held by contractors
 
@@ -70,7 +69,7 @@ Under the Privacy Act, DSS is required to take contractual measures to ensure co
 
 Personal information about you may be collected by DSS from you, your representative or a third party. We generally use forms, online portals and other electronic or paper correspondence to collect this information.
 
-Information may be collected directly by DSS or by people or organisations acting on behalf of DSS (e.g. contracted service providers). DSS may also obtain personal information collected by other Commonwealth agencies, State or Territory government bodies, or other organisations.
+Information may be collected directly by DSS, by people or organisations acting on behalf of DSS (e.g. contracted service providers), or by service providers funded to deliver services under DSS funding agreements. DSS may also obtain personal information collected by other Commonwealth agencies, State or Territory government bodies, or other organisations.
 
 From time to time personal information is provided to DSS by members of the public without being requested by DSS.
 
@@ -84,7 +83,7 @@ DSS collects and holds a broad range of personal information in records relating
   * the management of audits (both internal and external)
   * correspondence from members of the public to DSS and our Ministers and Parliamentary Secretaries
   * complaints (including privacy complaints) made and feedback provided to DSS
-  * requests made to DSS under the Freedom of Information Act 1982 (Cth)
+  * requests made to DSS under the [_Freedom of Information Act 1982_](https://www.legislation.gov.au/Series/C2004A02562) (Cth)
   * the provision of legal advice by internal and external lawyers.
 
 
@@ -95,7 +94,7 @@ When we collect personal information, we are required under the Privacy Act to n
 
 ## 2.2 Some personal information may be protected by other legislation
 
-Some personal information collected by DSS may be protected under secrecy provisions in its portfolio legislation (e.g. the Aged Care Act 1997; the social security law; the family assistance law). These secrecy provisions contain rules for the collection, use and disclosure of information (which may include personal information) governed by the relevant legislation. These rules operate alongside the rules in the Privacy Act. A full list of DSS’s portfolio legislation can be found in the current Administrative Arrangements Order available from the [Department of Prime Minister and Cabinet website](http://www.dpmc.gov.au/).
+Some personal information collected by DSS may be protected under secrecy provisions in its portfolio legislation (e.g. the social security law; the family assistance law). These secrecy provisions contain rules for the collection, use and disclosure of information (which may include personal information) governed by the relevant legislation. These rules operate alongside the rules in the Privacy Act. A full list of DSS’s portfolio legislation can be found in the current Administrative Arrangements Order available on the [Federal Register of Legislation](https://www.legislation.gov.au/Browse/ByRegDate/AdministrativeArrangementsOrders/InForce).
 
 ## 2.3 Kinds of personal information collected and held
 
@@ -132,8 +131,9 @@ DSS collects personal information through a variety of different methods includi
   * telephone communications
   * email communications
   * communications by fax
-  * DSS websites and
-  * DSS social media websites and accounts.
+  * DSS websites
+  * DSS social media websites and accounts; and
+  * the DSS Data Exchange.
 
 
 
@@ -143,7 +143,7 @@ Storage of personal information (and the disposal of information when no longer 
 
 ## 2.5 Purposes for which personal information is collected, held, used and disclosed
 
-DSS collects personal information for a variety of different purposes relating to its functions and activities including:
+DSS collects and holds personal information for a variety of different purposes relating to its functions and activities including:
 
   * performing its employment and personnel functions in relation to DSS staff and contractors
   * performing its legislative and administrative functions
@@ -155,6 +155,8 @@ DSS collects personal information for a variety of different purposes relating t
 
 
 
+DSS also collects and holds personal information in the DSS Data Exchange to enable service providers funded to deliver services under DSS funding agreements to use the Data Exchange for client management purposes.
+
 DSS uses and discloses personal information for the primary purposes for which it is collected. You will be given information about the primary purpose of collection at the time the information is collected.
 
 DSS will only use your personal information for secondary purposes where it is able to do so in accordance with the Privacy Act.
@@ -165,7 +167,7 @@ You have a right under the Privacy Act to access personal information we hold ab
 
 You also have a right under the Privacy Act to request corrections to any personal information that DSS holds about you if you think the information is inaccurate, out-of-date, incomplete, irrelevant or misleading.
 
-However, the Privacy Act sets out circumstances in which DSS can decline access to or correction of personal information (e.g. where access is unlawful under a secrecy provision in portfolio legislation, such as the Aged Care Act 1997).
+However, the Privacy Act sets out circumstances in which DSS can decline access to or correction of personal information (e.g. where access is unlawful under a secrecy provision in portfolio legislation, or where the personal information held is an opinion and not an objective fact).
 
 To access or seek correction of personal information we hold about you, please contact DSS using the contact details set out at section 5.1 of this Policy.
 
@@ -211,39 +213,7 @@ There are inherent risks associated with the transmission of information over th
 
 DSS only records email addresses when a person sends a message or subscribes to a mailing list. Any personal information provided, including email addresses, will only be used or disclosed for the purpose for which it was provided.
 
-## 2.12 MailChimp and privacy consent – subscription services
-
-To provide our news we use MailChimp, which provides online platforms that can be used to create, send, and manage emails. In providing this service, MailChimp may collect personal information, such as distribution lists which contain email addresses that Members have sent, or intend to send, emails to, and all information relating to those email addresses.  The types of information MailChimp collects include:
-
-  * Information provided to MailChimp;
-  * List and email information;
-  * Information from Use of the Service (including IP addresses and related data);
-  * Cookies;
-  * Web Beacons; and
-  * Information from Other Sources.
-
-
-
-For further information please refer to their [Privacy Policy](http://mailchimp.com/legal/privacy/ "undefined  \(This is a link to an external site. By following this link you will be leaving the Questacon website.\)").
-
-The Department of Social Services (DSS) will only use information subscribers have provided for the purpose of creating, sending and managing emails relating to the work of DSS, in accordance with the preferences chosen by subscribers. DSS will also use this information to measure Email Campaign performance and to improve the features for specific segments of customers, evaluate your use of our website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.
-
-MailChimp may transfer this information to third parties where required to do so by law, or where such third parties process the information on MailChimps's behalf. MailChimp uses cookies, Web Beacons and Flash player code to collect information about when you visit the website, when you use the services, your browser type and version, your operating system, and other similar information.
-
-As MailChimp is based in the United States of America (USA) and the information generated by cookies about your use of the website (including your IP address) will be transmitted to and stored by MailChimp on servers located outside Australia, we are required to inform you that by subscribing to our eNewsletter:
-
-  * you consent to your personal information being collected, used, disclosed and stored as set out in Mail Chimp’s [Privacy Policy](http://mailchimp.com/legal/privacy/) and agree to abide by Mail Chimp’s [Terms of Use](http://mailchimp.com/legal/terms/ "undefined  \(This is a link to an external site. By following this link you will be leaving the Questacon website.\)"); you understand and acknowledge that this service utilises a MailChimp platform, which is located in the USA and relevant legislation of the USA will apply. Accordingly, Australian Privacy Principle 8.1 contained in Schedule 1 of the [Privacy Act](http://www.oaic.gov.au/privacy/privacy-act/the-privacy-act "undefined  \(This is a link to an external site. By following this link you will be leaving the Questacon website.\)") **will not apply** ; and
-  * you understand and acknowledge that you will not be able to seek redress under the _Privacy Act 1988_ (Cth) but will need to seek redress under the laws of the USA.
-
-
-
-Principle 8.1 requires the Department to take steps as are reasonable in the circumstances to ensure that MailChimp does not breach the Australian Privacy Principles in relation to the information given by the subscriber.  This would no longer apply if you sign up to a subscription service of the Department in which MailChimp is used.
-
-You can opt out of our mailing list if you chose the ‘unsubscribe’ service provided by MailChimp in every email, or contact DSS. You can also disable or refuse cookies or disable Flash player; however, you may not be able to use the services provided by MailChimp if cookies are disabled. Should you wish to contact MailChimp, you can find contact details on [Contact MailChimp](http://mailchimp.com/contact/ "undefined  \(This is a link to an external site. By following this link you will be leaving the Questacon website.\)") page.
-
-MailChimp has the endorsement of TRUSTe's Privacy Seal, which means this privacy policy has been reviewed by [TRUSTe](http://www.truste.com/ "undefined  \(This is a link to an external site. By following this link you will be leaving the Questacon website.\)") for compliance with their [program requirements](http://www.truste.com/privacy-program-requirements/ "undefined  \(This is a link to an external site. By following this link you will be leaving the Questacon website.\)") including transparency, accountability, and choice related to the collection and use of your Personal Information. TRUSTe is an independent third party that operates a globally-recognised privacy trustmark.
-
-## 2.13 Disclosure of personal information overseas
+## 2.12 Disclosure of personal information overseas
 
 DSS will, on occasion, disclose personal information to overseas recipients. The situations in which DSS may transfer personal information overseas include:
 
@@ -267,13 +237,13 @@ We will respond to your complaint or request promptly if you provide your contac
 
 ## 3.3 How to complain to the OAIC
 
-You also have the option of contacting the OAIC if you wish to make a privacy complaint against DSS.
+You also have the option of contacting the OAIC if you wish to make a privacy complaint against DSS, or if you are not satisfied with how we have handled a complaint made to us in the first instance.
 
 The [OAIC website](http://www.oaic.gov.au/) contains information on how to make a privacy complaint.
 
 If you make a complaint directly to the OAIC rather than to DSS, the OAIC may recommend you try to resolve the complaint directly with DSS in the first instance.
 
-This Privacy Policy will be reviewed frequently and updated as required.
+This Privacy Policy will be reviewed regularly and updated as required.
 
 ## 5.1 General enquiries and requests to access or correct personal information
 
@@ -285,21 +255,21 @@ If you wish to:
 
 
 
-please contact the DSS Compliments and Enquiries area using the following contact details:
+please contact the DSS Feedback and Complaints Team using the following contact details:
 
   * **email:** [complaints@dss.gov.au](mailto:complaints@dss.gov.au)
-  * **post:** DSS Feedback, GPO Box 9820, Canberra, ACT, 2600.
+  * **telephone:** 1800 634 035
+  * **post:** DSS Feedback, GPO Box 9280, Canberra ACT 2601.
 
 
 
 ## 5.2 Contact details for privacy complaints
 
-If you wish to make a complaint about a breach of your privacy, please contact the DSS Feedback and Coordination team using the following contact details:
+If you wish to make a complaint about a breach of your privacy, please contact the DSS Feedback and Complaints team using the following contact details:
 
-  * **telephone:** 1800 634 035
-  * **fax:** (02) 6133 8442
   * **email:** [complaints@dss.gov.au](mailto:complaints@dss.gov.au)
-  * **post:** DSS Feedback, GPO Box 9820, Canberra, ACT, 2601
+  * **telephone:** 1800 634 035
+  * **post:** DSS Feedback, GPO Box 9280, Canberra ACT 2601.
 
 
 
@@ -307,6 +277,6 @@ If you wish to make a complaint about a breach of your privacy, please contact t
 
 If you wish to access this Policy in an alternative format (e.g. hard copy) please contact DSS using the contact details set out at section 5.1 of this Policy.
 
-This Policy will be made available free of charge.
+This Policy is available free of charge.
 
-Last updated: 21 April 2016 - 12:14pm
+Last updated: 10 February 2017 - 8:54am
