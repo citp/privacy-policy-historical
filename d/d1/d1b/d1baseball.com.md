@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the d1baseball.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326123301id_/http%3A//www.d1baseball.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d1baseball.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529122301id_/https%3A//d1baseball.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - D1Baseball.com
+
+## Privacy Policy 
 
 **D1 baseball HoldingS, LLC dba d1baseball.com**
 
@@ -8,7 +10,7 @@
 
 **Last Updated: January 15, 2015**
 
-The [http://www.d1baseball.com](http://www.d1baseball.com/) website (the “Site”) is provided by D1 Baseball Holdings, LLC. Collectively, this website and D1 Baseball Holdings, LLC shall be referred to as “D1” throughout this and all other agreements pertaining to the use of the Site.
+The [http://d1baseball.com](http://d1baseball.com/) website (the “Site”) is provided by D1 Baseball Holdings, LLC. Collectively, this website and D1 Baseball Holdings, LLC shall be referred to as “D1” throughout this and all other agreements pertaining to the use of the Site.
 
 We value the relationship we have with our customers and Site visitors. We take the privacy of our Site visitors very seriously and want you to feel comfortable whenever you visit our Site, make a reservation, or participate in our online offerings. This Privacy Policy represents our general privacy approach to the information practices of our Site.
 
@@ -20,7 +22,7 @@ Our approach to responsible information handling is based on the Fair Informatio
 
 You may browse our Site without providing personal information to us. However, if you want to receive our online products and services, or participate in other online activities (e.g., surveys and contests), we may request that you provide us with information about yourself. When you provide personal information to us that may be used for secondary purposes, (i.e., uses not related to the purpose for which the information was collected), we give you the opportunity to opt out of such uses.
 
-If you make a purchase on the Site or subscribe to premium content on the Site, you will be asked for information such as name, address, telephone number, email address, credit card number, and any other information that is necessary to complete your reservation. D1 may store credit card information after the transaction is complete in order to process any agreed to recurring charges as part of an online purchase or subscription to the Site. If you provide your email address to us, D1 may contact you via email: (i) to verify your purchase; and (ii) to send you special offers and/or updates solely relating to the Site and D1 products and services. D1 will not use your email address for any third party advertisements or notices. If D1 sends you a marketing email, you may opt out of receiving further marketing emails by sending your opt out request to D1 via email at info@D1baseball.com or by calling D1, care of its website operator and digital marketing partner, [B2 Interactive](http://www.b2interactive.com/), at 402-932-9990.
+If you make a purchase on the Site or subscribe to premium content on the Site, you will be asked for information such as name, address, telephone number, email address, credit card number, and any other information that is necessary to complete your reservation. D1 may store credit card information after the transaction is complete in order to process any agreed to recurring charges as part of an online purchase or subscription to the Site. If you provide your email address to us, D1 may contact you via email: (i) to verify your purchase; and (ii) to send you special offers and/or updates solely relating to the Site and D1 products and services. D1 will not use your email address for any third party advertisements or notices. If D1 sends you a marketing email, you may opt out of receiving further marketing emails by sending your opt out request to D1 via email at info@D1baseball.com or by calling D1 at 402-201-7623.
 
 D1 may use your name and contact information to compile aggregated demographic information for market studies, data trending, or similar uses that will make the services offered by D1 more effective and useful. D1 may share the aggregated demographic information with its partners, affiliates, and advertisers. The aggregated information and studies will not be linked to any personal information that can uniquely identify you.
 
@@ -30,7 +32,7 @@ In addition, we may disclose your information (i) if required by law or legal pr
 
 As you navigate through and interact with our Site, we may automatically collect information through cookies, such as information about the/your device (e.g., the IP address and the characteristics of the device, browser, and operating system type), pages viewed, and other information about your browsing actions and pattern. The cookies that we place on your hard drive are persistent cookies. This means that you will have to manually delete them from your browser after using the D1 website ** _.   _**Please note that cookies are necessary to complete the reservation process.
 
-In addition, we may collect cookies from visitors to our Site in order to deliver our online advertising through third party vendors, including Google, on a variety of sites on the Internet.  You may opt out of receiving cookie-based advertising from Google by visiting https://support.google.com/ads/answer/2662922?hl=en and following the opt-out instructions.  You may opt out of receiving cookie-based advertising from members of the Network Advertising Initiative (“NAI”) on the NAI opt-out page at http://www.networkadvertising.org/choices/.
+In addition, we may collect cookies from visitors to our Site in order to deliver our online advertising through third party vendors, including Google, on a variety of sites on the Internet.  You may opt out of receiving cookie-based advertising from Google by visiting https://support.google.com/ads/answer/2662922?hl=en and following the opt-out instructions.  You may opt out of receiving cookie-based advertising from members of the Network Advertising Initiative (“NAI”) on the NAI opt-out page at http://networkadvertising.org/choices/.
 
 Your web browser may let you choose your preference as to whether you want to allow websites to collect personal information over time about your online activities across different websites or online services.  At this time, our Site does respond to the preferences you may have set in your web browser regarding the collection of such personal information, and our Site may continue to collect personal information in the manner described in this Privacy Policy.
 
@@ -55,8 +57,9 @@ We reserve the right to update or modify this Privacy Policy at any time.  If w
 If you have any questions regarding this Privacy Policy, you may contact us by sending us an email at info@D1Baseball.com or by writing to us at:
 
 D1Baseball.com  
-c/o B2 Interactive, LLC  
-4219 South 143rd Circle  
-Omaha, NE 68137
+13253 Hamilton St  
+Omaha, NE 68154  
+Phone: 402-201-7623  
+Email: info@D1baseball.com
 
 The effective date of this Privacy Policy is: January 15, 2015
