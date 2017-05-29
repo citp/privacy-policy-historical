@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hci.edu.sg privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206183931id_/http%3A//www.hci.edu.sg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hci.edu.sg privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529144630id_/http%3A//www.hci.edu.sg/privacy) for the most accurate reproduction.*
 
 # Terms & Conditions | Hwa Chong Institution
 
