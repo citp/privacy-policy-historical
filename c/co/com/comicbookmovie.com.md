@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicbookmovie.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229035625id_/https%3A//www.comicbookmovie.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicbookmovie.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529205851id_/https%3A//www.comicbookmovie.com/about/privacy) for the most accurate reproduction.*
 
 # Comic Book Movie Privacy Policy
 
@@ -14,7 +14,7 @@ With respect to cookies: We use cookies to store visitors preferences.
 
 * * *
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](https://www.networkadvertising.org/). 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/). 
 
 * * *
 
@@ -36,7 +36,7 @@ Quantcast's use of cookies enables it to serve ads based on your visit and other
 
 * * *
 
-Users may opt out of the use of the Quantcast cookie by visiting the [Quantcast opt-out page](https://www.quantcast.com/docs/display/legal/Opt-out+of+Quantcast+Delivery) on their site.
+Users may opt out of the use of the Quantcast cookie by visiting the [Quantcast opt-out page](http://www.quantcast.com/docs/display/legal/Opt-out+of+Quantcast+Delivery) on their site.
 
 If you do not want to receive e-mail from us in the future, please let us know by visiting us at [www.comicbookmovie.com/members/](http://www.comicbookmovie.com/members/).
 
