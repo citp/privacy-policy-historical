@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the experts-exchange.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229032329id_/https%3A//www.experts-exchange.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experts-exchange.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529200454id_/https%3A//www.experts-exchange.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This policy is presented to you in order to help you make an informed decision about using this service and to explain to you what information we collect, how we store that information and how we may use it. By using our products and/or services, you are consenting to have your personal data transferred to and/or processed in the United States in accordance with the terms of this Privacy Policy. 
 
-Experts Exchange, LLC complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Experts Exchange, LLC has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>. 
-
-Experts Exchange, LLC complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. Experts Exchange, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, accountability, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
+Experts Exchange, LLC complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union and Switzerland to the United States, respectively. Experts Exchange, LLC has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>. 
 
 ## 1\. What information do we collect?
 
@@ -142,7 +140,7 @@ You have the right to request a copy of the personal information Experts Exchang
 
 ## 14\. Privacy Complaints by European Union and Swiss Citizens, Recourse, Enforcement and Liability
 
-In compliance with the EU-US Privacy Shield Principles, Experts Exchange, LLC commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Experts Exchange, LLC at:
+In compliance with the EU-US and the Swiss-US Privacy Shield Principles, Experts Exchange, LLC commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Experts Exchange, LLC at:
 
 Mail: Experts Exchange, LLC. Attn: Chief Privacy Officer, PO Box 1062, San Luis Obispo, CA 93406-1062
 
@@ -150,21 +148,11 @@ Email: [privacy@experts-exchange.com](mailto:privacy@experts-exchange.com)
 
 Telephone: 805.787.0603
 
-Experts Exchange, LLC has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint.
-
-In compliance with the US-Swiss Safe Harbor Principles, Experts Exchange, LLC commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Experts Exchange, LLC at:
-
-Mail: Experts Exchange, LLC Att: Chief Privacy Officer, PO Box 1062 San Luis Obispo, CA 93406-1062
-
-Email: [privacy@experts-exchange.com](mailto:privacy@experts-exchange.com)
-
-Telephone: 805.787.0603
-
-Experts Exchange, LLC has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+Experts Exchange, LLC has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint.
 
 This service verifies adherence to the EU Privacy Shield Policy by means of in-house verification by the management of this company. Experts Exchange, LLC is subject to the investigatory and enforcement powers of the Federal Trade Commission.
 
 Finally, as a last resort and in limited situations, EU individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism.
 
   
-_This policy was last modified on 06 September, 2016_
+_This policy was last modified on 12 April, 2017_
