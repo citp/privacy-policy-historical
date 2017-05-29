@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qatarhire.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222224535id_/http%3A//www.qatarhire.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qatarhire.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529180726id_/http%3A//qatarhire.com/privacy_policy) for the most accurate reproduction.*
 
 # Qatar Hire
 
