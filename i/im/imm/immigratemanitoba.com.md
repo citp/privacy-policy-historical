@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immigratemanitoba.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207015701id_/http%3A//www.gov.mb.ca/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immigratemanitoba.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529190940id_/http%3A//www.gov.mb.ca/legal/privacy.html) for the most accurate reproduction.*
 
 # Province of Manitoba | Privacy Notification
 
@@ -25,5 +25,3 @@ In some other instances, it may be necessary for us to collect additional person
 If you have questions concerning the collection of personal information on a Manitoba government web page, please contact the official listed on that page.
 
 If you have any general questions about Manitoba’s Freedom of Information and Protection of Privacy Act, please visit the [FIPPA website](http://www.gov.mb.ca/fippa).
-
-[](http://www.addthis.com/bookmark.php?v=250&username=csmwebeditor)
