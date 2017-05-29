@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openclipart.org privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229035232id_/https%3A//openclipart.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openclipart.org privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529203427id_/https%3A//openclipart.org/privacy) for the most accurate reproduction.*
 
 # Openclipart
 
