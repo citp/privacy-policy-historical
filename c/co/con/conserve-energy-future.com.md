@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the conserve-energy-future.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227162752id_/http%3A//www.conserve-energy-future.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conserve-energy-future.com privacy policy that was archived on 2017-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170529154859id_/http%3A//www.conserve-energy-future.com/privacy-policy) for the most accurate reproduction.*
 
-# PrivacyPolicy - Conserve Energy Future
-
-**Our Privacy Policy**
+# Privacy Policy - Conserve Energy Future
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use www.conserve-energy-future.com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
@@ -45,18 +43,3 @@ www.conserve-energy-future.com reserves the right to make changes in this policy
 If you do not agree to www.conserve-energy-future.com Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
 
 Your use of this site indicates acceptance of this privacy policy.
-
-  * [About](http://www.conserve-energy-future.com/privacypolicy.php#abh_about)
-  * [Latest Posts](http://www.conserve-energy-future.com/privacypolicy.php#abh_posts)
-
-
-
-[](http://www.conserve-energy-future.com/author/rinkesh "Rinkesh")
-
-### [Rinkesh](http://www.conserve-energy-future.com/author/rinkesh)
-
-Rinkesh is passionate about clean and green energy. He is running this site since 2009 and writes on various environmental and renewable energy related topics. He lives a green lifestyle and is often looking for ways to improve the environment around him.
-
-[](http://www.conserve-energy-future.com/author/rinkesh "Rinkesh")
-
-#### Latest posts by Rinkesh ([see all](http://www.conserve-energy-future.com/author/rinkesh))
