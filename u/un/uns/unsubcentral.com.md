@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unsubcentral.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021185322id_/https%3A//www.unsubcentral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unsubcentral.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530020518id_/https%3A//www.unsubcentral.com/privacy) for the most accurate reproduction.*
 
 # UnsubCentral | Privacy Policy
 
