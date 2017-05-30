@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the certifiedpsychics.com privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820053112id_/http%3A//www.certifiedpsychics.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the certifiedpsychics.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530143820id_/http%3A//certifiedpsychics.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Psychic Readings - Our Privacy Policy
 
 | 
 
-The American Associaiton of Professional Psychics, Inc. knows you are concerned about your privacy. We take the issue of Internet Privacy very seriously. By using using our site and/or our services, you consent to the use and disclosure of the personal imformation you provide to us as outlined in this Privacy Policy. Please see [Terms of Use](https://web.archive.org/web/20160820053112id_/http%3A//www.certifiedpsychics.com/_components/terms-of-use.html) for additional information. 
+The American Associaiton of Professional Psychics, Inc. knows you are concerned about your privacy. We take the issue of Internet Privacy very seriously. By using using our site and/or our services, you consent to the use and disclosure of the personal imformation you provide to us as outlined in this Privacy Policy. Please see [Terms of Use](https://web.archive.org/web/20170530143820id_/http%3A//certifiedpsychics.com/_components/terms-of-use.html) for additional information. 
 
 If you have any questons or concerns, email us at customerservice@certifiedpsychics.com.
 
