@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsnicethat.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218054109id_/http%3A//www.itsnicethat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsnicethat.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530160417id_/http%3A//www.itsnicethat.com/privacy-policy) for the most accurate reproduction.*
 
 # It's Nice That | Privacy Policy and Cookies
 
@@ -85,7 +85,7 @@ _ga | Used to distinguish users. | Persistent
 _gat | Used to throttle request rate | Persistent  
 10 minutes  
   
-For more information on Google Analystics cookies please visit [this link](https://web.archive.org/web/20161218054109id_/http%3A//www.itsnicethat.com/developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
+For more information on Google Analystics cookies please visit [this link](https://web.archive.org/web/20170530160417id_/http%3A//www.itsnicethat.com/developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
 
 To opt out of being tracked by Google Analytics across all websites visit: [tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout)
 
@@ -114,9 +114,9 @@ dependent on the privacy settings you have chosen on these networks.
 **Other Third Party Content Cookies**  
 Our site, like most websites, includes functionality provided by third parties. As a publisher we are embedding content from other sources regularly to enrich your experience. These embedded pieces of content may contain cookies, and listed below are all of the third parties on our site as of 21 February 2016. For details about the cookies they use, or if you encounter any that are not on this list, please contact the suppliers directly for further details.
 
-  * YouTube ([https://www.youtube.com/static?template=privacy_guidelines](https://web.archive.org/web/20161218054109id_/http%3A//www.itsnicethat.com/www.youtube.com/static?template=privacy_guidelines))
-  * Disqus ([https://help.disqus.com/customer/portal/articles/466235-use-of-cookies](https://web.archive.org/web/20161218054109id_/http%3A//www.itsnicethat.com/help.disqus.com/customer/portal/articles/466235-use-of-cookies))
-  * EventBrite ([www.eventbrite.co.uk/support/articles/en_US/Troubleshooting/eventbrite-cookie-policy?lg=en_GB](https://web.archive.org/web/20161218054109id_/http%3A//www.itsnicethat.com/www.eventbrite.co.uk/support/articles/en_US/Troubleshooting/eventbrite-cookie-policy?lg=en_GB))
+  * YouTube ([https://www.youtube.com/static?template=privacy_guidelines](https://web.archive.org/web/20170530160417id_/http%3A//www.itsnicethat.com/www.youtube.com/static?template=privacy_guidelines))
+  * Disqus ([https://help.disqus.com/customer/portal/articles/466235-use-of-cookies](https://web.archive.org/web/20170530160417id_/http%3A//www.itsnicethat.com/help.disqus.com/customer/portal/articles/466235-use-of-cookies))
+  * EventBrite ([www.eventbrite.co.uk/support/articles/en_US/Troubleshooting/eventbrite-cookie-policy?lg=en_GB](https://web.archive.org/web/20170530160417id_/http%3A//www.itsnicethat.com/www.eventbrite.co.uk/support/articles/en_US/Troubleshooting/eventbrite-cookie-policy?lg=en_GB))
   * Vimeo ([www.vimeo.com/cookie_policy](https://vimeo.com/cookie_policy))
   * Spotify ([www.spotify.com/uk/legal/privacy-policy](https://www.spotify.com/uk/legal/privacy-policy))
   * Google Maps ([www.google.com/policies/privacy/](https://www.google.com/policies/privacy/))
