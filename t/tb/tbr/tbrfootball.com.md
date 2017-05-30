@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tbrfootball.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129162617id_/http%3A//tbrfootball.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tbrfootball.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530140914id_/http%3A//tbrfootball.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | The Boot Room
 
@@ -59,3 +59,6 @@ The IP address of the computer you use to access this web site is automatically 
 ### HOW SECURE IS MY PERSONAL INFORMATION?
 
 The security of your personal information is very important to The Boot Room and it takes all steps it deems reasonably necessary to ensure such security. However, the transmission of data over Internet cannot be guaranteed to be completely secure and failsafe. As such, The Boot Room is not able to warrant or guarantee the complete security of any personal information that you provide and it is important that you are aware that providing any such information is done so entirely at your own risk.
+
+  
+
