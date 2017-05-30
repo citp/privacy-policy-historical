@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the industrysourcing.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211090655id_/http%3A//www.industrysourcing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the industrysourcing.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530102104id_/http%3A//www.industrysourcing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Industry Sourcing
 
@@ -35,4 +35,4 @@ From time to time, information may be placed on your computer to allow us to ide
 We may change this Privacy Policy, or change, modify or withdraw access to this Site or the content of these pages at any time with or without notice.
 
 Copyright： Industrysourcing.cn，Industrysourcing.com are owned by Ringier Trade Media Ltd.  
-Company Address:9/F., Cheong Sun Tower,118 Wing Lok Street,Sheung Wan,Hong Kong
+Company Address:Unit 2305,23/F Nam Wo Hong Building,148 Wing Lok Street,Sheung Wan,Hong Kong
