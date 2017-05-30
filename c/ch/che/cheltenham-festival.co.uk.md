@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the cheltenham-festival.co.uk privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323133146id_/http%3A//www.cheltenham-festival.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheltenham-festival.co.uk privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530104556id_/http%3A//www.jumpsracing.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Cheltenham Festival About Us | Advertising | Privacy Policy
 
-Our Platform, [Cheltenham Festival](http://www.cheltenham-festival.co.uk/) is one of the platforms owned by us and our company name is Moneta Communications Limited. All our sites offer information on many sporting events primarily in the UK. We provide our readers with free sports betting news, odds, tips and free bets with our gaming partners in the online gaming sector.
+Our Platform, [Cheltenham Festival](http://www.jumpsracing.co.uk/) is one of the platforms owned by us and our company name is Moneta Communications Limited. All our sites offer information on many sporting events primarily in the UK. We provide our readers with free sports betting news, odds, tips and free bets with our gaming partners in the online gaming sector.
 
 ## Privacy Policy
 
-We would like to advise all our customers that your privacy is our top priority. We run promotions occasionally and it is important that you are aware of the terms and conditions surrounding the capture and use of that information. Please find below our privacy policy. We are [Moneta Communications Limited](http://www.moneta-communications.com/) and we own and operate this website (www. cheltenham-festival.co.uk), our registered address is Tower House, Parkstone Road, Poole, Dorset, BH15 2JH. Please read the following policy to understand how we will deal with your personal data after it has been collected by us through your use of one of our platforms. Those platforms include our website, and any other channels as they evolve.
+We would like to advise all our customers that your privacy is our top priority. We run promotions occasionally and it is important that you are aware of the terms and conditions surrounding the capture and use of that information. Please find below our privacy policy. We are [Moneta Communications Limited](http://www.moneta-communications.com/) and we own and operate this website (www. jumpsracing.co.uk), our registered address is Tower House, Parkstone Road, Poole, Dorset, BH15 2JH. Please read the following policy to understand how we will deal with your personal data after it has been collected by us through your use of one of our platforms. Those platforms include our website, and any other channels as they evolve.
 
-The operator of this website, Moneta Communications Limited, is committed to protecting your privacy. References to "we", "us" and "our" in this Policy are references to this site [www.cheltenham-festival.co.uk](http://www.cheltenham-festival.co.uk/). This Policy describes what happens to the information which you supply to us, where that information identifies you individually :- e.g. your name and address details.
+The operator of this website, Moneta Communications Limited, is committed to protecting your privacy. References to "we", "us" and "our" in this Policy are references to this site [www.jumpsracing.co.uk](http://www.jumpsracing.co.uk/). This Policy describes what happens to the information which you supply to us, where that information identifies you individually :- e.g. your name and address details.
 
 We reserve the right to change the terms of this Privacy Policy from time to time.
 
 Website Administration:  
 Business Name : Moneta Communications Ltd  
-Address : 31 Sleaford Close, Office One, Bury  
-Post Code : BL8 1XF  
+Address : 7th Floor, Steam Packet House, 72-76 Cross Street, Manchester  
+Post Code : M2 4JG  
 Country : England  
-Website URL : http://www.cheltenham-festival.co.uk  
+Website URL : http://www.jumpsracing.co.uk  
 Website email : info@betting-directory.com  
 Tel: 0161 797 1036
 
@@ -50,14 +50,6 @@ If you are from outside of the European Union or if you do not agree with these 
 
 This site in no way wishes to infringe on anyone's copyright. It is our policy to make every effort to respect the copyrights of outside parties. If you believe that your copyright has been misused, please email us and we will remove the picture(s) or acknowledge the source, as soon as we receive your email. In view of this, please do not submit any material to us that you do not hold copyright over or have permission to distribute freely.
 
-## Cookies
-
-A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site's computers and stored on your computer's hard drive. Whenever you visit our website (unless you elect not to receive cookies), then your computer will store an identifying code in the cookie. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set.
-
-We use cookies to help us (i) estimate and report our total audience size and traffic (ii) conduct research to improve our content and services (iii) to make your user experience more simple in a variety of different ways, for example you do not need to type in your user name each time you return to the site.
-
-Please note that we allow other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not our Privacy Policy.
-
 ## Third Party Advertising
 
 The ads appearing on this Website are delivered to you, on our behalf, by our web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or any other personal information), is used to serve ads.
@@ -86,4 +78,4 @@ Some information and e-mails sent to us may be used as testimonials but no e-mai
 
 ## Contacting Us
 
-If you have any questions or concerns about the information we hold about you, please feel free to [contact us](https://web.archive.org/web/20160323133146id_/http%3A//www.cheltenham-festival.co.uk/contact-us.php).
+If you have any questions or concerns about the information we hold about you, please feel free to [contact us](https://web.archive.org/web/20170530104556id_/http%3A//www.jumpsracing.co.uk/contact-us.php).
