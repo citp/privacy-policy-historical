@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the inspiremore.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231040200id_/http%3A//www.inspiremore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiremore.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530201644id_/http%3A//www.inspiremore.com/privacy) for the most accurate reproduction.*
 
 # Privacy - InspireMore
 
-InspireMore Privacy Policy. Last Updated March 4, 2014
+InspireMore Privacy Policy. Last Updated January 19, 2017
 
 **InspireMore** values the privacy of those who use our website (“Site”), products and services and makes all commercially reasonable efforts to protect it. This privacy policy discloses the privacy practices of InspireMore (“InspireMore,” “we,” “our” or “us”), which owns and operates a website, [InspireMore.com](http://inspiremore.com/ "InspireMore"). Your access to and use of the services on InspireMore website (collectively, “InspireMore Services”) are subject to InspireMore Terms of Service and all applicable laws.
 
 This privacy policy describes how and when InspireMore collects, uses, and shares information when you use InspireMore Services. InspireMore may receive your information through your mobile device, website, email notifications, or other interactions with InspireMore Services. When using any InspireMore Services you consent to the collection, transfer, manipulation, storage, disclosure or other uses of your information as described in this Privacy Policy. Regardless of which country you reside in or supply information from, you authorize InspireMore to use your information in the United States and any other country where InspireMore operates.
 
-We value your comments about our privacy statement and invite you to e-mail us with inquiries, suggestions and complaints at: [  
-hello@inspiremore.com](mailto:hello@inspiremore.com?Subject=Question%20Regarding%20Privacy%20Policy). Please read the following to learn more about what information we collect, what we do with that information, and how we may use your personal information.
+We value your comments about our privacy statement and invite you to e-mail us with inquiries, suggestions and complaints at: [Contact Us](http://www.inspiremore.com/contact-us/). Please read the following to learn more about what information we collect, what we do with that information, and how we may use your personal information.
 
 **Information Collected.**
 
@@ -49,7 +48,7 @@ We believe it is necessary to investigate potential violations of our Terms of S
 
 We have a relationship with an affiliate or partner you have an online or off-line (non-Internet) relationship with, or have visited the affiliate or partner’s website that links to or mentions InspireMore Services, and have registered for InspireMore Services through the partner or affiliate’s program or website.
 
-**With Whom Information is Shared**
+**With Whom Information Is Shared**
 
 Public Information – InspireMore may share as it sees fit information that you voluntarily make public. Since such public information can be accessed by the public and used by any member of the public, such use by third parties is beyond the control of InspireMore.
 
@@ -80,6 +79,8 @@ When you first launch any features of the InspireMore Service that collect locat
 **Cookies**
 
 Cookies are small data files that a website you visit may save on your hard drive that usually includes an anonymous unique identifier. A cookie cannot retrieve any other data from your hard drive, pass on computer viruses, or capture your e-mail address. InspireMore Services use cookies for user authentication, keeping track of your preferences, promotional campaigns that require user identification, keeping track of our audience size and traffic patterns, and in certain other cases. You can configure your browser to accept cookies, reject cookies or notify you when a cookie is being used.
+
+If you would like more information about web tags and cookies associated with online advertising or to opt-out of third-party collection of this information, please visit the [ Network Advertising Initiative](http://www.networkadvertising.org/choices/) or [ Digital Advertising Alliance](http://www.aboutads.info/choices/). To the greatest extent permissible under applicable law, we are not responsible for the tracking practices of third parties in connection with the InspireMore website.
 
 **Links**
 
