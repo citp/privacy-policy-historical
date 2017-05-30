@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imtcdl.ac.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012633id_/http%3A//www.imtcdl.ac.in/compliance/privacy-policy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imtcdl.ac.in privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530221004id_/http%3A//www.imtcdl.ac.in/compliance/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy IMT CDL
 
 Welcome to imtcdl.ac.in (the "Site") and the IMT CDL community. We believe safeguarding your privacy online is important and we are committed protecting it in an appropriate manner. Take a moment to read about our policy on privacy protection and how it pertains to you.
 
