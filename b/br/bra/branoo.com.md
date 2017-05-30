@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the branoo.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109025118id_/http%3A//www.branoo.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the branoo.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531015729id_/http%3A//www.branoo.com/privacypolicy) for the most accurate reproduction.*
 
 # Branoo: Privacy policy
 
@@ -12,8 +12,8 @@
 
 **ব্যক্তিগত তথ্য নীতিঃ**
 
-১। আমরা গ্রাহকের নিজের পরিচয় ও যোগাযোগ সংক্রান্ত ব্যক্তিগত তথ্য সংরক্ষণ করি।
+১। আমরা গ্রাহকের নিজের পরিচয় ও যোগাযোগ সংক্রান্ত ব্যক্তিগত তথ্য সংরক্ষণ করি।
 
-২। যোগাযোগের তথ্য যা আপনার সাথে যোগাযোগের জন্য আমাদের অনুমতি দেয় যেমন আপনার নাম, পোস্টাল ঠিকানা, ইমেইল ঠিকানা, সামাজিক যোগাযোগ সাইটে ব্যবহৃত একাউন্টের নাম, টেলিফোন নাম্বার অথবা অন্যান্য ঠিকানা যার মাধ্যমে ব্র্যানোর সাথে আপনার যোগাযোগ হবে।
+২। যোগাযোগের তথ্য যা আপনার সাথে যোগাযোগের জন্য আমাদের অনুমতি দেয় যেমন আপনার নাম, পোস্টাল ঠিকানা, ইমেইল ঠিকানা, সামাজিক যোগাযোগ সাইটে ব্যবহৃত একাউন্টের নাম, টেলিফোন নাম্বার অথবা অন্যান্য ঠিকানা যার মাধ্যমে ব্র্যানোর সাথে আপনার যোগাযোগ হবে।
 
 ৩। আমরা কখনো গ্রাহকের কোন ব্যক্তিগত তথ্য প্রকাশ করি না।
