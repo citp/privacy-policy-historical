@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoemoney.net privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403030532id_/http%3A//shoemoney.net/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoemoney.net privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530211738id_/http%3A//shoemoney.net/pp.php) for the most accurate reproduction.*
 
-# ShoeMoney Network Get Paid To Learn Internet Marketing
+# BlogNinja - Learn Internet Marketing
 
 **PLEASE READ THE FOLLOWING PRIVACY POLICY CAREFULLY BEFORE USING OR ACCESSING ANY PART OF THE WEBSITE OR ITS SERVICES.**
 
