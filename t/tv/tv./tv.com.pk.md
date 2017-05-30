@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tv.com.pk privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817104246id_/http%3A//www.tv.com.pk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tv.com.pk privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530132018id_/http%3A//www.tv.com.pk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
