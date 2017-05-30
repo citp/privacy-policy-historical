@@ -1,32 +1,27 @@
-> *The following text is extracted and transformed from the makestar.co privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420120418id_/http%3A//www.makestar.co/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makestar.co privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530172709id_/https%3A//www.makestar.co/about/privacy) for the most accurate reproduction.*
 
 # Makestar : Privacy Policy
 
-1\. General
+#### 1\. General
 
-    Makestar Corporation which provides service on Makestar.co, values the personal information provided by members for use of our service, and we set and strictly follow the privacy policy.
-    The company’s privacy policy follows related laws and the privacy policy established by the Korean Ministry of Information and Communication, and we will do our best to protect personal information so member will not experience any loss from leak of personal information.
+Makestar Corporation which provides service on Makestar.co, values the personal information provided by members for use of our service, and we set and strictly follow the privacy policy. The company’s privacy policy follows related laws and the privacy policy established by the Korean Ministry of Information and Communication, and we will do our best to protect personal information so member will not experience any loss from leak of personal information.
 
-2\. The collecting purpose and use purpose of personal information
+#### 2\. The collecting purpose and use purpose of personal information
 
-    The reason of collecting personal information and the use purpose of personal information is to provide optimum service to the member, and we are collecting personal information needed in order to do so. The personal information provided by the member are used to provide useful information to the members or to provide answer to various opinions requested by members.
+The reason of collecting personal information and the use purpose of personal information is to provide optimum service to the member, and we are collecting personal information needed in order to do so. The personal information provided by the member are used to provide useful information to the members or to provide answer to various opinions requested by members.
 
-3\. The range of collecting and collecting method of personal information
-
-    
+#### 3\. The range of collecting and collecting method of personal information
 
   1. Collecting range
     * The company collects the personal information that has been agreed on by the members and it is through legal and fair procedure. For this, we included a step when member can press “Agree” button, so when the “Agree” button is pressed, it is assumed that the member has agreed on the collecting of personal information.
     * Personal information that is collected by the company
       * Information received at time of member registration : User’s name, email address, password, nickname
       * Information received at the time of funding participation : Address, phone number
-  2. Collecting method : Member registration and information change through website, inquiry mail, phone call, etc./li>
+  2. Collecting method : Member registration and information change through website, inquiry mail, phone call, etc.
 
 
 
-4\. Use and provision of personal information
-
-    
+#### 4\. Use and provision of personal information
 
   1. The company may use the collected personal information for following purpose
     * Website member management : Identification/identity check for membership service use, etc., prevention of members’ illegal use and prevention of unauthorized use, confirmation of intention to register, limitation of registration and number of registration, delivery of announcement, processing of consultation, etc.
@@ -52,18 +47,13 @@
 
 
 
-5\. Disclosure to Third Parties
-
-    
+#### 5\. Disclosure to Third Parties
 
   1. The company does not disclose your private personal information without the user’s explicit consent except in the limited circumstances stipulated under section 4 and in the following instances.
     * The user has previously agreed to disclosure of private personal information to a third party.
     * When it is reasonably necessary to comply with a law, regulation, legal process, or governmental request.
     * When necessary to process transactions.
-  2. In the event that disclosure of private personal information is required outside of the above mentioned instances, the company should receive consent from the user and provide the information to a third party for the purpose outlined below in order to provide for the proper implementation of transaction between users
-
-Disclosure of private personal information to a third party
-    
+  2. In the event that disclosure of private personal information is required outside of the above mentioned instances, the company should receive consent from the user and provide the information to a third party for the purpose outlined below in order to provide for the proper implementation of transaction between users **Disclosure of private personal information to a third party**
     * Receiver : Project creator
     * Information Provided : Name, ID, mobile phone number, email address, phone number
     * Usage : Delivery of reward
@@ -71,9 +61,7 @@ Disclosure of private personal information to a third party
 
 
 
-6\. The Rights and Exert of the user regarding individual information
-
-    
+#### 6\. The Rights and Exert of the user regarding individual information
 
   1. The company always respects each individual right to all information.
   2. Users have the rights to track the information such as record of visit history, e-signature by his ID as well as error correcting and withdraw a motion, and the company needs to take steps after checking the user’s personal information.
@@ -82,13 +70,12 @@ Disclosure of private personal information to a third party
 
 
 
-7\. Possession and use period of personal information
+#### 7\. Possession and use period of personal information
 
-    In principle after the purpose of personal information collection and use purpose have been fulfilled (membership cancellation and email service cancellation)
-    
+In principle after the purpose of personal information collection and use purpose have been fulfilled (membership cancellation and email service cancellation)
 
   1. Reason for storing information by the company’s internal Regulations
-    * email address 
+    * email address
       * Reason for storing : To prevent abuse by rogue members and unauthorized use, and to prevent crossing of service use
       * Storing period : 1 year
   2. Reason for storing information by related laws
@@ -109,13 +96,11 @@ Disclosure of private personal information to a third party
       * Storing period : 5 years
     * Records related to processing consumer complaint or dispute
       * Reason for storing : Korean laws related to protecting consumers in electronic transaction, etc.
-      * Storing period : 3 years
+    * Storing period : 3 years
 
 
 
-8\. Technical and administrative measures for personal information protection
-
-    
+#### 8\. Technical and administrative measures for personal information protection
 
   1. The company will do their best to seek technical and administrative measures in order to prevent personal information from leaking.
   2. In regards to handling user’s personal information, the company is doing best to guarantee stability by preventing loss, theft, leak, falsification or damage. To do so, the company is seeking technical measures by using security device with password, computer virus prevention device using vaccine program, and encrypted algorithm, etc., and access restriction device with Firewall and other technical device needed to secure stability by using security device that can safely transfer personal information within the network.
@@ -123,9 +108,7 @@ Disclosure of private personal information to a third party
 
 
 
-9\. Regarding Cookie management
-
-    
+#### 9\. Regarding Cookie management
 
   1. The company uses “Cookie” that stores members’ information and finds them frequently. Cookie is minimal information that website sends to members’ computer browser. When the member accesses the website, the company’s computer will read the contents of Cookie in the member’s browser, it finds rest of member’s information, so service can be provided without additionally entering name, website, address, etc.
   2. Cookie distinguishes member’s computer but does not distinguish members individually. Also, members can have option to adjust web browser options to accept all Cookie, get notice when Cookie is installed, or block all Cookie
@@ -133,15 +116,28 @@ Disclosure of private personal information to a third party
 
 
 
-10\. Advertisement information delivery
+#### 10\. Advertisement information delivery
 
-    The company does not send advertisement information for commercial use against members’ expression of intention to refuse receiving. Company’s mailing service may send newsletter or service information guide, or have surveys and events to provide better service and for better expression of intention to refuse receiving, it will be marked on the bottom. The minimum personal information collected for statistics and prize delivery will be destroyed after prize delivery/return (1 month after completion).
+The company does not send advertisement information for commercial use against members’ expression of intention to refuse receiving. Company’s mailing service may send newsletter or service information guide, or have surveys and events to provide better service and for better expression of intention to refuse receiving, it will be marked on the bottom. The minimum personal information collected for statistics and prize delivery will be destroyed after prize delivery/return (1 month after completion).
 
-11\. Personal information management duty and announcement of person in charge
+#### 11\. Liiv Mate New Member Third-Party Information Agreement
 
-    The company has assigned a personal information management personnel who is in charge of receiving opinions and processing complaints. Person in charge of personal information management is as following
+  1. Audience: Member of the 'Liiv Mate' App on the 'Co-sponsored'
+  2. Provided for: LG UPLUS Co., Ltd.
+  3. Provided information:
+    * 1)Pledger's information provided at Makestar sign-up: name, age, sex, contact number, e-mail address, etc.
+    * 2)Pledger statistics involving project and funding(payment): funded project name, funding amount, reward etc.
+    * 3)Pledger statistics involving Makestar service usage history: Makestar visit history, project name etc.
+  4. Use of personal information: The provided information is used for statistical analysis of service usage pattern for the purpose of service development, personalization, customer management (delivery of notices, checking of service usage status, etc.), events, etc.
+  5. Information retention period: Duration of Liiv Mate App 'Pledge Together' service use.
+
+
+
+#### 12\. Personal information management duty and announcement of person in charge
+
+The company has assigned a personal information management personnel who is in charge of receiving opinions and processing complaints. Person in charge of personal information management is as following
+
 [Person in charge of personal information management]
-    
 
   * Name : Oh Jongmyung
   * Phone : +82-2-6959-2076
