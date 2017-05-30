@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the casualmale.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503155121id_/http%3A//casual-male-big-and-tall.destinationxl.com/mens-big-and-tall-store/static/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casualmale.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530191247id_/http%3A//casual-male-big-and-tall.destinationxl.com/mens-big-and-tall-store/static/privacypolicy) for the most accurate reproduction.*
 
-# Editorial Page - Casual Male XL
+# Privacy Statement
 
 Last updated September 23, 2014
 
