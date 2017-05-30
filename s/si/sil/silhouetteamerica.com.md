@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silhouetteamerica.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229123821id_/https%3A//www.silhouetteamerica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silhouetteamerica.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530022412id_/https%3A//www.silhouetteamerica.com/privacy-policy) for the most accurate reproduction.*
 
 # Silhouette America - Silhouette America - Privacy Policy
 
@@ -161,7 +161,7 @@ Silhouette
 Lindon Tech Center, Building 2 618 North 2000 West  
 Lindon, UT 84042  
 USA  
-[support@silhouetteamerica.com](https://web.archive.org/web/20161229123821id_/https%3A//www.silhouetteamerica.com/support@silhouetteamerica.com)  
+[support@silhouetteamerica.com](https://web.archive.org/web/20170530022412id_/https%3A//www.silhouetteamerica.com/support@silhouetteamerica.com)  
 801.983.8937 
 
 Last Edited on 2016-06-15
