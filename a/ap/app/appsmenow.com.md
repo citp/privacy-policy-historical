@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appsmenow.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229142805id_/http%3A//appsmenow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsmenow.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530162136id_/http%3A//appsmenow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
