@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happythreads.ie privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117062601id_/http%3A//www.happythreads.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happythreads.ie privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531003032id_/http%3A//www.happythreads.ie/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Happythreads
 
@@ -38,5 +38,3 @@ When ordering products or services on the site, you may be asked to provide a cr
 Happythreads may periodically update this Privacy & Security Policy for new, unanticipated uses not previously disclosed. Any changes made will be posted here. By visiting our website you agree to accept any changes made to this policy. The Happythreads Privacy & Security Policy only addresses the use and disclosure of information we collect from you on our website.
 
 Feel free to contact us with any questions about our Privacy & Security Policy by emailing info@happythreads.com 
-
-Please wait...
