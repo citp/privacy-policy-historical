@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markertek.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212122905id_/http%3A//www.markertek.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markertek.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530080631id_/http%3A//www.markertek.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy: Markertek Video Supply
 
@@ -71,7 +71,7 @@ Should you have other questions or concerns about these privacy policies, please
 
 Third party vendors, including Google, use cookies to serve the badge on this website and to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](https://support.google.com/ads/answer/2662922?hl=en "Google Opt-Out"). In addition, you may view third party vendor's use of cookies by visiting the [Network Advertising Initiative Opt-Out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
-Back to Top
+[Back to Top](http://www.markertek.com/privacy.asp#top)
 
 ## 
 
