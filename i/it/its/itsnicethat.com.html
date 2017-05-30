@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the itsnicethat.com privacy policy that was archived on 2016-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161218054109id_/http%3A//www.itsnicethat.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the itsnicethat.com privacy policy that was archived on 2017-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170530160417id_/http%3A//www.itsnicethat.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="reset-html default-layout"><!--<![endif]--><head>
   <title>It's Nice That | Privacy Policy and Cookies</title>
@@ -36,8 +36,9 @@ We at It’s Nice That Ltd are committed to ensuring that our website (“It’s
 
 
 
-<link href="http://assets.itsnicethat.com/assets/application-35f4ace2f0ff27a0cc45176ce88015a2.css" media="screen" rel="stylesheet" type="text/css">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="http://assets.itsnicethat.com/assets/application-e49b6d9f43acb70e6f89f34cc9dc7954.js" type="text/javascript"></script>
+<link href="http://assets.itsnicethat.com/assets/application-848c756563ed1094b8a2b1d3acadb629.css" media="screen" rel="stylesheet" type="text/css">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://assets.itsnicethat.com/assets/application-380ce2d549e17808342577d8620cc30f.js" type="text/javascript"></script>
+<!-- Test text -->
 <script src="//use.typekit.net/tpq0ajk.js"></script>
 <script>try{Typekit.load();}catch(e){}</script>
 
@@ -47,8 +48,49 @@ We at It’s Nice That Ltd are committed to ensuring that our website (“It’s
 
 <link href="http://feeds2.feedburner.com/itsnicethat/SlXC" rel="alternate" title="It's Nice That" type="application/atom+xml">
 
-<!-- VICE Digital Master Tag - Place in header of website --> 
-<script type="text/javascript" src="https://vice-ads-cdn.vice.com/publishers/UK/isthatnice-viceads.js"></script>
+<!-- VICE Digital Master Tag - Place in header of website -->
+<!-- <script type='text/javascript' src='https://vice-ads-cdn.vice.com/publishers/UK/isthatnice-viceads.js'></script> -->
+
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+  googletag.cmd.push(function() {
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().disableInitialLoad();
+    googletag.enableServices();
+  });
+</script>
+
+<script type="text/javascript">
+$(document).on('ready int:ready', function() {
+  if (isTabletPortraitDown()) return;
+    console.log('ad slice go');
+  $('.advert-slice [data-id]').each(function() {
+    var $el = $(this);
+    var name = $el.data('name');
+    var sizes = $el.data('sizes');
+    var id = $el.data('id');
+    $el.replaceWith('<div id="' + id + '" />');
+    console.log('Load ' + id);
+    googletag.cmd.push(function() {
+      var slot = googletag.defineSlot(name, sizes, id).addService(googletag.pubads());
+      googletag.display(id);
+      googletag.pubads().refresh([slot]);
+      googletag.pubads().collapseEmptyDivs();
+    });
+  });
+});
+</script>
 
 <!-- Facebook Pixel Code -->
 <script>
@@ -113,7 +155,7 @@ fbq('track', "PageView");
       <ul id="primary_navigation"><li class="first nav-features"><a href="/features">Features</a></li>
 <li class="nav-articles"><a href="/articles">Work</a></li>
 <li class="nav-news"><a href="/news">News</a></li>
-<li class="nav-jobs"><a href="http://ifyoucouldjobs.com/">Jobs</a></li>
+<li class="nav-events"><a href="/events">Events</a></li>
 <li class="nav-shop"><a href="http://www.companyofparrots.com/">Shop</a></li>
 <li class="last nav-search"><a href="/search">Search</a></li>
 </ul>
@@ -145,12 +187,12 @@ fbq('track', "PageView");
 <h3>Network</h3>
 <ul>
 	<li><a href="/categories/printed-pages">Printed Pages Magazine</a></li>
-	<li><a href="http://bit.ly/int-hl">Here London Symposium</a></li>
+	<li><a href="http://www.itsnicethat.com/here-london">Here London Symposium</a></li>
 	<li><a href="http://bit.ly/int-nt">Nicer Tuesdays Event</a></li>
 	<li><a href="http://bit.ly/int-cop">Company of Parrots Shop</a></li>
 	<li><a href="http://bit.ly/int-iyc">If You Could Jobsboard</a></li>
 	<li><a href="http://www.lectureinprogress.com/">Lecture in Progress</a></li>
-	<li><a href="http://www.anyways.co/">Anyways</a></li>
+	<li><a href="http://www.anyways.co/">Anyways Creative Agency</a></li>
 </ul>
     </div>
 
@@ -170,10 +212,11 @@ fbq('track', "PageView");
 	<li><a href="/categories/things">Things</a></li>
 	<li><a href="/categories/bookshelf">Bookshelf</a></li>
 	<li><a href="/categories/best-of-the-web">Best of the Web</a></li>
-	<li><a href="/categories/the-graduates-2016">The Graduates</a></li>
+	<li><a href="/categories/friday-mixtape">Friday Mixtape</a></li>
+	<li><a href="/the-graduates">The Graduates</a></li>
 	<li><a href="/regulars/review-of-the-year">Review of the Year</a></li>
-	<li><a href="/regulars/ones-to-watch/2016">Ones to Watch</a></li>
-	<li><a href="/partnerships/squarespace-submit-saturdays">Submit Saturdays</a></li>
+	<li><a href="/regulars/ones-to-watch">Ones to Watch</a></li>
+	<li><a href="/categories/the-its-nice-that-podcast">The It’s Nice That Podcast</a></li>
 </ul>
     </div>
 
@@ -190,6 +233,7 @@ fbq('track', "PageView");
 	<li><a href="/categories/graphic-design">Graphic Design</a></li>
 	<li><a href="/categories/illustration">Illustration</a></li>
 	<li><a href="/categories/interactive">Interactive</a></li>
+	<li><a href="/categories/its-nice-that-podcast">It’s Nice That Podcast</a></li>
 	<li><a href="/categories/miscellaneous">Miscellaneous</a></li>
 	<li><a href="/categories/photography">Photography</a></li>
 	<li><a href="/categories/product-design">Product Design</a></li>
@@ -374,8 +418,8 @@ The IAB has provided the following website to give information specifically abou
   <div class="container">
     <div class="site-footer-slice__column">
       <p><strong>It’s Nice That</strong><br>
-<a href="https://www.google.co.uk/maps/place/21+Downham+Rd,+London+N1/@51.5390029,-0.0776614,17z/data=!3m1!4b1!4m2!3m1!1s0x48761c96f3701705:0x4a767d9bd360179e">21 Downham Road<br>
-London N1 5AA</a></p>
+<a href="https://www.google.co.uk/maps/place/21+Downham+Rd,+London+N1/@51.5390029,-0.0776614,17z/data=!3m1!4b1!4m2!3m1!1s0x48761c96f3701705:0x4a767d9bd360179e">21 Downham Road,<br>
+London, N1 5AA, UK</a></p>
     </div>
 
     <div class="site-footer-slice__column">
@@ -426,24 +470,28 @@ Nice Face Logo © Print Liberation<sup>®</sup></p>
     /*
     AW: 27/09/2016: Navigation event tracking: See what people are actually clicking on
     */
+    if(window.ga) {
 
-    //Primary top left nav
-    jQuery('#primary_navigation li a').on('click', function(event) {
+        //Primary top left nav
+        jQuery('#primary_navigation li a').on('click', function(event) {
 
-        var label_text = jQuery(this).text();
-        ga('send', 'event', 'top nav - desktop', 'click', label_text);
+            var label_text = jQuery(this).text();
+            ga('send', 'event', 'top nav - desktop', 'click', label_text);
 
-    });
+        });
 
-    //Extended blue background nav
-    jQuery('.site-header-slice__more li a').on('click', function(event) {
+        //Extended blue background nav
+        jQuery('.site-header-slice__more li a').on('click', function(event) {
 
-        var label_text = jQuery(this).text();
-        ga('send', 'event', 'extended nav - desktop', 'click', label_text);
+            var label_text = jQuery(this).text();
+            ga('send', 'event', 'extended nav - desktop', 'click', label_text);
 
-    });
+        });
+
+    }
 
 </script>
+
   <!-- AW DEPLOY! -->
 
 
