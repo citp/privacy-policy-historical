@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iknowthatgirl.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119014619id_/http%3A//static.mofos.com/policy_files/pp.php%3Fsite%3Diktg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iknowthatgirl.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530064524id_/http%3A//static.mofos.com/policy_files/pp.php%3Fsite%3Diktg) for the most accurate reproduction.*
 
 # Privacy Policy - IKnowThatGirl.com
 
@@ -6,7 +6,7 @@
 
 We respect your privacy and are committed to protecting it through our compliance with this privacy policy. 
 
-This privacy policy describes the types of information we may collect from you or that you may provide when you visit www.mofos.com or any of its following sub sites: Busted Babysitters, Can She Take It, Don't Break Me, Drone Hunter, I Know That Girl, In Gang We Bang, Latina Sex Tapes, Let's Try Anal, Milfs Like It Black, Mofos Network, Mofos Old School, Mofos World Wide, Pervs On Patrol, Public Pick-ups, Real Slut Party, She's A Freak, Stranded Teens, Teens At Work, Share My BF, Babes Premium, Erito Premium, Twistys Premium, Wicked Premium, When Girls Play Premium (hereinafter "Mofos" or the "Website"), our practices for collecting, using, maintaining, protecting and disclosing that information and your choices about such uses and disclosures. 
+This privacy policy describes the types of information we may collect from you or that you may provide when you visit www.mofos.com or any of its following sub sites: Busted Babysitters, Can She Take It, Don't Break Me, Drone Hunter, I Know That Girl, In Gang We Bang, Latina Sex Tapes, Let's Try Anal, Milfs Like It Black, Mofos Network, Mofos Old School, Mofos World Wide, Pervs On Patrol, Public Pick-ups, Real Slut Party, She's A Freak, Stranded Teens, Teens At Work, Share My BF, Babes Premium, Erito Premium, Twistys Premium, Wicked Premium, When Girls Play Premium, Hentai Pros Premium (hereinafter "Mofos" or the "Website"), our practices for collecting, using, maintaining, protecting and disclosing that information and your choices about such uses and disclosures. 
 
 We encourage you to read this privacy policy carefully when visiting our Website. By using our Website, you are accepting the practices described in this privacy policy. 
 
