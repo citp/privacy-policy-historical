@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the jiskha.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228053143id_/http%3A//www.jiskha.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiskha.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530043917id_/http%3A//www.jiskha.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Jiskha Homework Help - Legal: Privacy Policy
 
-  * [Post a New Question](https://web.archive.org/post_form.cgi)
-  * [Current Questions](https://web.archive.org/)
-
-
+[**Post a New Question**](https://web.archive.org/post_form.cgi)
 
 This is the website of **Jiskha Homework Help** located online at <http://www.jiskha.com/>. Jiskha Homework Help is abbreviated as "we" and "us" in the following privacy policy.
 
@@ -42,3 +39,5 @@ From time to time, we may use customer information for new, unanticipated uses n
 ## Conclusion
 
 Thank you for taking the time to read this privacy policy. Jiskha Homework Help intends to abide by this policy at all times.
+
+[**Post a New Question**](https://web.archive.org/post_form.cgi)
