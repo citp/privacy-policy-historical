@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the trygigster.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401211718id_/https%3A//gigster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trygigster.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530231353id_/https%3A//gigster.com/privacy-policy) for the most accurate reproduction.*
 
-# Gigster - Hire a quality developer
+# Privacy Policy | Gigster
+
+Overview
+
+## Your privacy is important to us.
+
+##### Find answers to common questions about Gigster's privacy policy or [contact support.](mailto:support@gigster.com)
 
 ## Our Policy
 
@@ -18,33 +24,19 @@ Other Information:
 
 Non-Identifiable Data: When you interact with Gigster through the Services, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Gigster may store such information itself or such information may be included in databases owned and maintained by Gigster affiliates, agents or service providers. The Services may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors' Internet service providers. It is important to note that no Personal Data is available or used in this process.
 
-In operating the Services, we may use a technology called "cookies." A cookie is a piece of
+In operating the Services, we may use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Services gives to your browser when you access the Services. Our cookies help provide additional functionality to the Services and help us analyze Services usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Services without needing to remember and then enter a password more than once during a visit to the Site. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Service features.
 
-information that the computer that hosts our Services gives to your browser when you access the Services. Our cookies help provide additional functionality to the Services and help us analyze
+Aggregated Personal Data: In an ongoing effort to better understand and serve the users of the Services, Gigster often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and Gigster may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. Gigster may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
 
-Services usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Services without needing to remember and then enter a password more than once during a visit to the Site. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Service features.
-
-Aggregated Personal Data: In an ongoing effort to better understand and serve the users of the Services, Gigster often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and Gigster may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. Gigster may also disclose aggregated user statistics in order to describe our services to current and
-
-prospective business partners, and to other third parties for other lawful purposes.
-
-Third Party Tracking and Analytics: We may allow third party service providers to use cookies or similar technologies to collect information about your browsing activities over time and across different websites following your use of the Services. For example, we may use Google Analytics, a web analytics service provided by Google, Inc. (“Google”), and Mixpanel, a mobile and web analytics platform provided by Mixpanel, Inc. (“Mixpanel”). Google and Mixpanel use cookies or similar technologies to help us analyze how users function and use our mobile applications and the Site to improve our Service. We may also implement Google Analytics features based on Display
-
-Advertising (which may include Remarketing with Google Analytics). Visitors can opt out by using Google’s Ads Settings or going to https://tools.google.com/dlpage/gaoptout/. To opt-out of
-
-Mixpanel’s collection of your data, go to https://mixpanel.com/optout/. Please note that if you get a new computer, install a new browser, erase or otherwise alter your browser's cookie file (including upgrading certain browsers) you may also clear the Mixpanel opt-out cookie.
+Third Party Tracking and Analytics: We may allow third party service providers to use cookies or similar technologies to collect information about your browsing activities over time and across different websites following your use of the Services. For example, we may use Google Analytics, a web analytics service provided by Google, Inc. (“Google”), and Mixpanel, a mobile and web analytics platform provided by Mixpanel, Inc. (“Mixpanel”). Google and Mixpanel use cookies or similar technologies to help us analyze how users function and use our mobile applications and the Site to improve our Service. We may also implement Google Analytics features based on Display Advertising (which may include Remarketing with Google Analytics). Visitors can opt out by using Google’s Ads Settings or going to [tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/). To opt-out of Mixpanel’s collection of your data, go to [mixpanel.com/optout/](https://mixpanel.com/optout/). Please note that if you get a new computer, install a new browser, erase or otherwise alter your browser's cookie file (including upgrading certain browsers) you may also clear the Mixpanel opt-out cookie.
 
 ## Our Use of Your Personal Data and Other Information
 
 Gigster uses the Personal Data you provide in a manner that is consistent with this Privacy Policy.
 
-If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the
+If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services.
 
-Personal Data you provide to answer your question or resolve your problem. Also, if you provide
-
-Personal Data in order to obtain access to the Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. Gigster and its subsidiaries and affiliates (the “Related Companies”) may also use your Personal Data and other personally non-identifiable information collected through the Services to help us improve the content and functionality of the Services, to better understand our users and to improve the
-
-Services. Gigster and its affiliates may use this information to contact you in the future to tell you about services we believe will be of interest to you. If we do so, each marketing communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.
+Gigster and its subsidiaries and affiliates (the “Related Companies”) may also use your Personal Data and other personally non-identifiable information collected through the Services to help us improve the content and functionality of the Services, to better understand our users and to improve the Services. Gigster and its affiliates may use this information to contact you in the future to tell you about services we believe will be of interest to you. If we do so, each marketing communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.
 
 If Gigster intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.
 
@@ -82,10 +74,8 @@ Gigster takes reasonable steps to protect the Personal Data provided via the Ser
 
 ## Other Terms and Conditions
 
-Your access to and use of the Services is subject to the Terms of Service at <https://gigster.com/terms>.
+## Access to Information; Contacting Gigster Policy:
 
-To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Services.
-
-Please also feel free to contact us if you have any questions about Gigster’s Privacy Policy or the information practices of the Services.
+To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Services. Please also feel free to contact us if you have any questions about Gigster’s Privacy Policy or the information practices of the Services.
 
 You may contact us as follows: [support@gigster.com](mailto:support@gigster.com).
