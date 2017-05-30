@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kissonline.com privacy policy that was archived on 2016-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120074813id_/http%3A//www.kissonline.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kissonline.com privacy policy that was archived on 2017-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170530070719id_/http%3A//www.kissonline.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" style=""><!--<![endif]--><head>
 
@@ -178,11 +178,11 @@ IDENTITY('trackPageview');
 					<input type="hidden" value="mini" name="type">
 					<label for="email">Join the <span class="kiss-yellow">Kiss</span> Mailing List</label>
 					
-					<input type="text" id="fname" name="fname" onfocus="if(this.value == 'First Name'){this.value = '';}" onblur="if(this.value == ''){this.value='First Name';}" value="First Name">
+					<input type="text" id="fname" name="fname" onfocus="if(this.value == 'First Name'){this.value = '';}" onblur="if(this.value == ''){this.value='First Name';}" value="First Name" class="js-mailchecker-first-name">
 					
-					<input type="text" id="lname" name="lname" onfocus="if(this.value == 'Last Name'){this.value = '';}" onblur="if(this.value == ''){this.value='Last Name';}" value="Last Name">
+					<input type="text" id="lname" name="lname" onfocus="if(this.value == 'Last Name'){this.value = '';}" onblur="if(this.value == ''){this.value='Last Name';}" value="Last Name" class="js-mailchecker-last-name">
 					
-					<input type="text" id="email" name="email" onfocus="if(this.value == 'Email Address'){this.value = '';}" onblur="if(this.value == ''){this.value='Email Address';}" value="Email Address">
+					<input type="text" id="email" name="email" onfocus="if(this.value == 'Email Address'){this.value = '';}" onblur="if(this.value == ''){this.value='Email Address';}" value="Email Address" class="js-mailchecker-email-validation" data-options="hint subscribeForce" data-token="da6bc05c039306497336af1af7ebd99c">
 						
 					
 					<button id="submit" type="submit">Sign Up</button>
@@ -304,7 +304,7 @@ IDENTITY('trackPageview');
 					</div>
 					
 					<div id="copyright">
-						Copyright © 2016 Kiss. All&nbsp;Rights&nbsp;Reserved.
+						Copyright © 2017 KISS. All&nbsp;Rights&nbsp;Reserved.
 						<ul id="copyright-meta">
 							<li><a href="/privacy">Privacy Policy</a></li><li><a href="/terms">Terms and Conditions</a></li><li><a href="/support">Support</a></li><li><a href="/sitemap">Site Map</a></li>
 						</ul>
@@ -398,8 +398,13 @@ jQuery('.back-to-top').click(function () {
 </div>
 		
 	</div>
-	
 
+
+<!--ConnectMail Forms-->
+<script src="https://mailchecker.bubbleup.net/js/tools/validation/email-validator.js"></script>
+<script src="/javascript/connect-mail.js"></script>
+<link rel="stylesheet" href="https://mailchecker.bubbleup.net/js/tools/validation/email-validator-default.css">
+<!--EoF ConnectMail Forms-->
 
 
 
