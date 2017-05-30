@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hipages.com.au privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120133230id_/http%3A//www.homeimprovementpages.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipages.com.au privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530040714id_/https%3A//www.homeimprovementpages.com.au/privacy) for the most accurate reproduction.*
 
 # Home Improvement Pages, Privacy Policy
 
@@ -13,7 +13,7 @@
   
 **Collection and use of information**
 
-4. | Some information provided to us by clients, customers, contractors and other third parties might be considered private or personal. Without these details we would not be able to carry on our business and provide our services to you. We will only collect such personal information if it is necessary for one of our functions or activities. We retain the right to use or disclose personal information about you that is required in the provision of information about or the promotion or delivery of hipages.com.au and services to the user, such as newsletters, promotional materials or direct marketing campaigns relevant to the services that we offer. We may also disclose your personal information to a third party payment processing provider in connection with payment or billing for the provision of services to the user.   
+4. | Some information provided to us by clients, customers, contractors and other third parties might be considered private or personal. Without these details we would not be able to carry on our business and provide our services to you. We will only collect such personal information if it is necessary for one of our functions or activities. We retain the right to use or disclose personal information about you that is required in the provision of information about or the promotion or delivery of hipages.com.au and services to the user, such as newsletters, promotional materials or direct marketing campaigns relevant to the services that we offer. If you no longer wish to receive our emails there is an Unsubscribe link located in the footer of all emails that we send. We may also disclose your personal information to a third party payment processing provider in connection with payment or billing for the provision of services to the user.   
 ---|---  
 5. | Personal information about you may be collected by us from devices or browsers which you use to access our webpages or other webpages, where we keep a record and a copy of your contact with us, where you submit information through web forms, by logging your IP address, collecting GPS data, by use of cookies, by recording phone numbers and email addresses from which you contact us, by any smart phone, browser plugin or other application we use which might collect information from the device or browser used by you and in other ways which rely on technical access to information available from devices and operating systems that you might use.   
 6. | We may also obtain your personal information from our affiliates or advertising partners, customers and other third parties that we consider helps us to deliver or advertise our services, understand online activity and collect information that we consider important to managing the quality or content of the services that we deliver.   
@@ -55,7 +55,7 @@
   
 **Contacting us**
 
-22\.  | If you require further information regarding our Privacy Policy, please contact us at the following address: E-mail:info@hipages.com.au   
+22\.  | If you require further information regarding our Privacy Policy, please contact us at the following address: Email: info@hipages.com.au Physical Address: Hipages Group, Level 2, 338 Pitt St, Sydney NSW 2000 Australia   
 ---|---  
 23. | Should you wish to read more information on privacy legislation or the National Privacy Principles we recommend that you visit the Federal Privacy Commissioner's website at privacy@privacy.gov.au   
   
