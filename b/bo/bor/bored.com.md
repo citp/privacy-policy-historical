@@ -1,76 +1,147 @@
-> *The following text is extracted and transformed from the bored.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612131311id_/http%3A//www.bored.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bored.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530093640id_/http%3A//www.bored.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Bored.com
+# Privacy Policy
 
-Bored.com, Ltd (the "Company") is committed to maintaining robust privacy protections for its users. Our Privacy Policy ("Privacy Policy") is designed to help you understand how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Service. 
+**PRIVACY POLICY**
 
-For purposes of this Agreement, "Service" refers to the Company's service which can be accessed via our website at Bored.com. in which users can browse our content and submit their own content. The terms "we," "us," and "our" refer to the Company. "You" refers to you, as a user of Service. By accepting our Privacy Policy and [Terms of Service](https://web.archive.org/tos.html), you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
+**For bored.com**
 
-* * *
+-
 
-## INFORMATION WE COLLECT
+Effective Date: April 23, 2013
 
-We collect "Non-Personal Information" and "Personal Information." Non-Personal Information includes information that cannot be used to personally identify you, such as anonymous usage data, general demographic information we may collect, referring/exit pages and URLs, platform types, preferences you submit and preferences that are generated based on the data you submit and number of clicks. Personal Information includes only your email, which you submit to us through the registration process at the Site.
+Last Modified: March 24, 2015
 
-### Information collected via Technology
+**1\. General**
 
-To activate the Service you do not need to submit any Personal Information other than your email address. To use the Service thereafter, you do not need to submit further Personal Information. However, in an effort to improve the quality of the Service, we track information provided to us by your browser or by our software application when you view or use the Service, such as the website you came from (known as the "referring URL"), the type of browser you use, the device from which you connected to the Service, the time and date of access, and other information that does not personally identify you. We track this information using cookies, or small text files which include an anonymous unique identifier. Cookies are sent to a user's browser from our servers and are stored on the user's computer hard drive. Sending a cookie to a user's browser enables us to collect Non-Personal information about that user and keep a record of the user's preferences when utilizing our services, both on an individual and aggregate basis. For example, the Company may use cookies to collect the following information:
+**1.1.** The website bored.com ('Site') is brought to you by Flora ICT B.V. ('We', 'Us', 'Our'). We receive personal information about Our Site's visitors ('You', 'Your'). This Privacy Policy is intended to explain to You what personal information We collect and what We do with that information. This does not include information that did not reach Us through Your use of the Site. We care much about Your privacy, therefore We do Our best to comply with relevant laws and regulations regarding the processing of personal data, such as the Dutch Data Protection Act (Wet Bescherming Persoonsgegevens). By visiting Our Site, You automatically agree to the terms stated in this Privacy Policy.
 
-  * Pages you have visited
-  * Number of times you have visited the site
-  * Your site activity such comments and votes
-  * Any other information related to your activity
+ 
+
+**2.** **What (personal) information do We collect?**
+
+ **2.1. Active collection**
+
+The Site does not provide memberships, subscriptions or any other means that lead to an agreement between You and Us. Therefore We do not actively collect Your personal data. In the event that You come across a feature of this Site that requests Your personal information (for example a registration request, membership form or discussion board), You should be aware that this is a request originating from a third party, not from Us, and We can not be held responsible for any use of Your personal data by a third party. With that said, We may temporarily collect Your personal data when You decide to provide this to Us when using one of Our report features. For example, You may voluntarily provide Us with Your emailaddress when reporting malware.
+
+**2.2. Passive collection**
+
+The Site passively collects personal data through cookies. A cookie is a small file that is being delivered to You through the pages of this Site and that is being stored on Your computer. The information stored on this cookie is being sent back to Us each time You visit Our Site. Cookies help Us to deliver Our visitors a better, _personalized_ experience on Our Site. The information We collect through Our cookies includes Your IP Address, browser user agent details, geographical locations and any other data that is related to Your visit of Our Site. We do Our best to anonymize this personal data as much as possible and We store this information only for as long as necessary regarding the purpose for which these cookies are being placed. Your browser settings allow You to block and/or delete certain cookies. If You do not agree to the use of cookies, We recommend that You change Your preferences and use the right browser settings. Changing these settings and preferences may limit Your ability to take full advantage of Our Site.
+
+For more information about how to adjust Your cookies in Your browser settings:
+
+  * Internet Explorer (<http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies#ie=ie-11>)
+  * Google Chrome (<https://support.google.com/chrome/answer/95647?hl=en>)
+  * Mozilla Firefox (<https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer#w_cookie-settings>)
+  * Safari (<https://support.apple.com/kb/ph17191>)
+
+ 
+
+**3\. Which cookies do We use?**
+
+ **3.1.** **Persistent cookies**
+
+By using a persistent cookie We can recognize You when You visit Our Site. The Site can therefore be tailored to Your preferences. Also, when You have given consent for the placing of cookies, We can remember this by means of a cookie. This way You do not have to repeat Your preferences every time You visit Our Site, thus saving time and making Your use of Our Site more pleasant. Persistent cookies can be removed through the settings of Your browser.
+
+**3.2. Session cookies**
+
+By using a session cookie, We can see which parts of the Site You have viewed during Your visit. With that information, We can optimize and adapt the Site as much as possible to the surfing behavior of Our visitors. These cookies are automatically deleted when You close Your web browser.
+
+**3.3. Analytical cookies**
+
+This websites uses analytical cookies to track and get information about Your visit to this Site. First, we place Our own analytical cookie. The information in this cookie has a short retention period and any information, such as IP-address, is anonymized as much as possible. We do not share this information with third parties, unless we are required to do so to satisfy any laws, regulations or other legal purposes. We may disclose aggregated and non-personal information to third parties to operate Our services properly.
+
+Second, an analytical cookie is placed as part of Our Use of the service Google Analytics. Google may transfer this information to third parties only when required by law or in cases where third parties process the information on Google's behalf. We have no influence on this. We have not allowed Google to use the information acquired through the analytical cookies for other Google services. The information Google collects, such as Your IP-address, is anonymized as much as possible. The information is transmitted to Google and stored on its servers in the United States. Google states that it complies to the US-EU Safe Harbor Framework and the Safe Harbor principles, regarding the collection, use and retention of personal information from European Union member countries and Switzerland. This means that there is an adequate level of protection for the processing of any personal data. We have concluded a Data Processing Agreement with Google for their Google Analytics service.
+
+**3.4.** **Tracking cookies**
+
+**3.4.1.** **Advertising cookies**
+
+Third parties may place an advertising cookie to offer You interest based advertisements. These cookies may collect information about Your browsing activity across multiple online services and websites, to offer You advertisements based on Your interests. These cookies do not include Your name, address, email etc., but solely the information needed to build a profile about Your online surfing behaviour to make sure You receive relevant advertisements. We have no control over these cookies and what information they collect.
+
+For example: Google Adsense, an advertising service provided by Google, delivers a"DoubleClick"-cookie to You, which tracks Your use of this Site and Your behavior concerning advertisements, products and the services We offer. This results in the offering of advertising to You based on Your prior website visits and interests. You can manage Your "DoubleClick"-cookie settings here:<http://www.google.com/settings/ads/onweb/optout?hl=en>
+
+For more information on interest based advertising, cookies and opting-out:
+
+  * <http://www.youronlinechoices.com/>
+  * <http://www.aboutads.info/choices/>
 
 
 
-The Company may use both persistent and session cookies; persistent cookies remain on your computer after you close your session and until you delete them, while session cookies expire when you close your browser.
+Please note: opting-out for interest based advertisements may still result in the appearance of standard, non-interest based advertisements on the Site.
 
-### Information you provide us by registering for an account
+**3.4.2.** **Social media cookies**
 
-In addition to the information provided automatically by your browser when you visit the Site, to become a subscriber to the Service you will need to create a personal profile. You can create a profile by registering with the Service and entering your email address, and creating a user name and a password. By registering, you are authorizing us to collect, store and use your email address in accordance with this Privacy Policy.
+Third parties, such as Facebook and Twitter, may place social media tracking cookies. These cookies may collect information about Your browsing activity across multiple online services and websites and offer You social media sharing options. We have no control over these cookies and what information they collect. For more information on social media cookies, how third parties use them and which (personal) data they collect, please check the (privacy) policies of the respective social networks regularly:
 
-* * *
+  * <https://www.facebook.com/about/privacy/>
+  * <https://twitter.com/privacy/>
+  * <http://www.google.com/intl/en/policies/privacy>
 
-## HOW WE USE AND SHARE INFORMATION
+ 
 
-### Personal Information
+**4.** **Our use of Your personal information**
 
-Except as otherwise stated in this Privacy Policy, we do not sell, trade, rent or otherwise share for marketing purposes your Personal Information with third parties without your consent. We do share Personal Information with vendors who are performing services for the Company, such as the servers for our email communications who are provided access to user's email address for purposes of sending emails from us. Those vendors use your Personal Information only at our direction and in accordance with our Privacy Policy.
+ **4.1.** The passively collected, aggregated and non-personal information collected through cookies is being used for market research, marketing purposes, to optimize Our Services and to optimize Your experience on Our Site.
 
-In general, the Personal Information you provide to us is used to help us communicate with you. For example, we use Personal Information to contact users in response to questions, solicit feedback from users, provide technical support, and inform users about promotional offers.
+**4.2.** We do not provide third parties with Your personal information, or information regarding Your use of the Services or Site(s) accesible through Our services, unless this is strictly necessary in Our sole discretion, and We believe that it is reasonable to do so, including:
 
-### Non-personal Information
+i) To satisfy any laws, regulations or legal requests for such information;
 
-In general, we use Non-Personal Information to help us improve the Service and customize the user experience. We also aggregate Non-Personal Information in order to track trends and analyze use patterns on the Site. This Privacy Policy does not limit in any way our use or disclosure of Non-Personal Information and we reserve the right to use and disclose such Non-Personal Information to our partners, advertisers and other third parties at our discretion.
+ii) To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating Our Terms of Use or other policies;
 
-In the event we undergo a business transaction such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Personal Information may be among the assets transferred. You acknowledge and consent that such transfers may occur and are permitted by this Privacy Policy, and that any acquirer of our assets may continue to process your Personal Information as set forth in this Privacy Policy. If our information practices change at any time in the future, we will post the policy changes to the Site so that you may opt out of the new information practices. We suggest that you check the Site periodically if you are concerned about how your information is used.
+iii) To operate Our services properly;
 
-* * *
+iv) To protect Ourselves, Our Site's visitors, and the general public. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if We are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process;
 
-## HOW WE PROTECT INFORMATION
+v) To cooperate with law enforcement authorities, government agencies and/or private-party litigants seeking information about Our users, to the extent required by applicable law and/or if We are legally advised to do so. Examples of such cooperation include but are not limited to, lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
 
-We implement security measures designed to protect your information from unauthorized access. Your account is protected by your account password and we urge you to take steps to keep your personal information safe by not disclosing your password and by logging out of your account after each use. We further protect your information from potential security breaches by implementing certain technological security measures including encryption, firewalls and secure socket layer technology. However, these measures do not guarantee that your information will not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software. By using our Service, you acknowledge that you understand and agree to assume these risks.
+ 
 
-* * *
+**5\. Security**
 
-## YOUR RIGHTS REGARDING THE USE OF YOUR PERSONAL INFORMATION
+ **5.1.** We take Your privacy serious and therefore We have taken appropriate technical and organizational measures to prevent and minimize the risk of unauthorized access, inappropriate use and inaccuracy of (personal) data stored on Our network and systems, insofar as this is reasonably possible and expected of Us. However, given the resourcefulness of cyber-criminals, We are unable to guarantee that Our security is one hundred percent (100%) breach-proof. You assume the risk of such breaches to the extent that they occur despite Our reasonable security measures.
 
-You have the right at any time to prevent us from contacting you for marketing purposes. When we send a promotional communication to a user, the user can opt out of further promotional communications by following the unsubscribe instructions provided in each promotional e-mail. You can also indicate that you do not wish to receive marketing communications from us in the "Settings" section of the Site. Please note that notwithstanding the promotional preferences you indicate by either unsubscribing or opting out in the Settings section of the Site, we may continue to send you administrative emails including, for example, periodic updates to our Privacy Policy.
+ 
 
-* * *
+**6\. Third party websites**
 
-## LINKS TO OTHER WEBSITES
+ **6.1.** This Privacy Policy does not cover any processing of personal data from websites that are linked to or from this Site. We cannot guarantee that those third parties have the same level of caution and trustworthy in handling personal data. We recommend that You read the privacy policies of those websites before You enter, or when You leave, Our Site.
 
-As part of the Service, we may provide links to or compatibility with other websites or applications. However, we are not responsible for the privacy practices employed by those websites or the information or content they contain. This Privacy Policy applies solely to information collected by us through the Site and the Service. Therefore, this Privacy Policy does not apply to your use of a third party website accessed by selecting a link on our Site or via our Service. To the extent that you access or use the Service through or on another website or application, then the privacy policy of that other website or application will apply to your access or use of that site or application. We encourage our users to read the privacy statements of other websites before proceeding to use them.
+ 
 
-* * *
+**7\. Public Forums & interactive communication**
 
-## CHANGES TO OUR PRIVACY POLICY
+ **7.1.** If at any time during Your visit to the Site, You enter into a public forum or interactive communication feature such as, registration requests, chat sessions, or discussion boards, You have exited Our Site. We do not provide such features on Our Site, therefore, You understand and agree that the Site is not responsible for any content shared or distributed via such interactive features.
 
-The Company reserves the right to change this policy and our Terms of Service at any time. We will notify you of significant changes to our Privacy Policy by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site. Significant changes will go into effect 30 days following such notification. Non-material changes or clarifications will take effect immediately. You should periodically check the Site and this privacy page for updates.
+ 
 
-* * *
+**8\. Changes to this Privacy Policy**
 
-## CONTACT US
+ **8.1.** We reserve the right to make changes to this Privacy Policy. We recommend that You regularly visit this page and check if You have read the latest version of the Privacy Policy, which is indicated by the 'Last Modified' date stated above. Please refresh Your browser when You re-visit this page to make sure that Your browser shows You the latest version of this Privacy Policy.
 
-If you have any questions regarding this Privacy Policy or the practices of this Site, please contact us by sending an email to webmaster [at] bored dot com
+ 
+
+**9\. Who are We?**
+
+ **9.1.** Flora ICT B.V. Is a Dutch company, based in Haarlem. Our services mainly consist of providing webtraffic to Our clients. Our contact information: Flora ICT B.V.
+
+Wagenweg 40
+
+2012 NE, Haarlem
+
+The Netherlands
+
++31 (0)23 5298683
+
+Company Registration#: 57378320
+
+VAT# : NL852554564B01
+
+**10\. Any Questions?**
+
+ **10.1.** If You have any questions about Our Privacy Policy or about the inspection, modification and/or removal of Your personal information, please contact Us on: [support@floraict.com](mailto:support@floraict.com)
+
+\- End -
+
+© Flora ICT B.V.
