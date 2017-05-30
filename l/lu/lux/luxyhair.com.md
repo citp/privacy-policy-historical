@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxyhair.com privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909003312id_/http%3A//www.luxyhair.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxyhair.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530143120id_/https%3A//www.luxyhair.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Luxy Hair
 
