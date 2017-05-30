@@ -1,73 +1,33 @@
-> *The following text is extracted and transformed from the ereader.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918211530id_/http%3A//www.ereader.com/ereader/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ereader.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530082515id_/https%3A//www.barnesandnoble.com/h/help/privacy-policy) for the most accurate reproduction.*
 
-# eReader.com Privacy Policy
+# Privacy Policy Introduction | Barnes & Noble®
 
-[](http://www.barnesandnoble.com/u/nook-glowlight-ereader/379004122?sourceid=H000000044&cm_mmc=FW-_-Avocet-_-NA-_-NA)
+At Barnes & Noble we value all of our customers and understand that you care about the privacy and security of your personal information. The Privacy Principles set out below apply to Barnes & Noble's collection, storage, use and disclosure of personal information that may be collected by us when you interact with Barnes & Noble, such as when you visit our stores or websites, or use our devices or applications, participate in our Member program, or deal with customer service.
 
-| 
+Protecting the privacy and security of your personal information is a priority at Barnes & Noble, and we do our best to ensure that your personal information is always handled in a safe and responsible manner in accordance with the following Privacy Principles.
 
-Your privacy is important to us. This Privacy Policy will tell you what information we collect, how we collect it, how we use it, how we disclose it, how we protect it, and what choices you have with respect to all of the above. We urge you to read this Privacy Policy so that you will understand both our commitment to you and your privacy, and how you can participate in that commitment.
+### CLARITY
 
-This Privacy Policy governs the information collection and disclosure practices for the web sites operated by Fictionwise, Inc.,  hereafter referred to as the "Company", "we" or "us". The Company's web sites include, but are not necessarily limited to, all of the following web sites, each of which is operated (either directly or through one or more wholly-owned subsidiaries) by the Company: [www.ereader.com](http://www.ereader.com/) and [www.palmdigitalmedia.com](http://www.palmdigitalmedia.com/) (each a "Web Site" and collectively the "Web Sites").
+Barnes & Noble strives to communicate clearly about your privacy and how we handle your personal information.
 
-**1\. Changes to this Policy**  
-We reserve the right to modify this Privacy Policy at any time, so please review it regularly. If we make changes to this Privacy Policy, we will post the revised Privacy Policy on the Web Sites and other places we deem appropriate. All such changes shall be binding on you 30 days after they are initially posted on the Web Sites unless you are a new user, in which case they are binding on you immediately.
+### SECURITY
 
-**2\. Information Collection**  
+Barnes & Noble follows security standards, processes and procedures that are designed to protect your personal information.
 
+### INTEGRITY
 
-  1. **_General._** In general, you can browse the Web Sites without telling us who you are or revealing any personal information about yourself. However, if you wish to purchase or download any of the products or use any of the services offered by the Web Sites, you may be required to disclose certain information to us. You always have the option to not provide information by choosing not to purchase or download a particular product or use a particular service or feature. The Company is the sole owner of the information collected on the Web Site.
-  2. **_Registration._** In order to purchase or download products or use the services offered by this Web Site, you must first create an account with us. You may have to establish a separate account if you use the services or purchase or download products from more than one Web Site. During the account set-up process, you are required to give certain contact information, including your name, email address, and in some cases your approximate age. We use this information to contact you about the products services on our site in which you have expressed interest, and, the case of your approximate age, to determine whether you old enough to use the Web Sites. You may have the option to provide additional demographic information (such as income level, location, and gender) to us; we encourage you to submit this information so we can provide you a more personalized experience on our site. Where possible, we indicate which fields are required and which fields are optional.
-  3. **_Orders._** If you purchase or download a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and address) and, where applicable, financial information (such as credit card number, expiration date). We use this information for billing purposes and to fulfill your orders. If we have trouble processing an order, we will use this information to contact you.
-  4. **_Surveys or Contests._** From time-to-time we may provide you the opportunity to participate in contests or surveys on the Web Sites. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and email address), and demographic information (such as zip code). We use this information to notify contest winners and to award prizes. We may use a third party service provider to conduct these surveys or contests.
-  5. **_Log Files._** As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information.
-  6. **_Cookies._** A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site, unless you have elected to have the Web Site "remember" you, in which case the cookie will be linked to your user name. We may use both session ID cookies and/or persistent cookies. We use session ID cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. We set a persistent cookie to store your password, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. This Privacy Policy covers the use of cookies by this Web Site only and does not cover the use of cookies by any advertisers or third parties. See the sections on "Third Party Advertisers" and "Co-Branded Pages" below. We may also use a third-party tracking service that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate. We do not control the use of cookies by third parties.
+Barnes & Noble does not sell or rent your personal information and respects your preferences with respect to your personal information, in accordance with these Privacy Principles, as well as our Privacy Policy.
 
+To read the complete Barnes & Noble Privacy Policy, [please click here](https://web.archive.org/h/help/privacy-policy-complete). In it you will find the answers to the following questions:
 
-
-**3\. Use of Information**  
-
-
-  1. **_Generally._** We use your personal information to fulfill orders and to facilitate the services you purchase or request from us. We use your personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Web Sites to: resolve disputes; troubleshoot problems; collect fees owed; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our Terms and Conditions of Use; and as otherwise described to you at the time of collection. We may compare and review your personal information for errors, omissions and for accuracy.
-  2. **_Communications from Us._**  
-
-    1. _Special Offers and Updates._ We will occasionally send you information on special deals or promotions. Out of respect for your privacy, you have the option not to receive these types of communications. Please see the "Choice and Opt-out" section.
-    2. _Newsletters._ If you wish to subscribe to our newsletters, we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you have the option to unsubscribe from receiving some or all of the newsletters. Please see the "Choice and Opt-out" section.
-    3. _Service-related Announcements._ We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
-    4. _Customer Service._ Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account.
-  3. **_Profile._** We store information that we collect through your stated preferences, cookies, log files, clear gifs, and/or third party sources to create a "profile" of your preferences. We tie your personally identifiable information, and your activity history, to information in the profile, in order to provide tailored promotions and marketing offers and to improve the content of the site for you. We do not share your profile with other third parties, other than in aggregate, de-identified form.
+  * [What is the personal information that we collect?](https://web.archive.org/h/help/privacy-policy-complete#q1)
+  * [Why do we collect personal information?](https://web.archive.org/h/help/privacy-policy-complete#q2)
+  * [How do we collect your personal information?](https://web.archive.org/h/help/privacy-policy-complete#q3)
+  * [How do we use personal information?](https://web.archive.org/h/help/privacy-policy-complete#q4)
+  * [With whom do we share personal information?](https://web.archive.org/h/help/privacy-policy-complete#q5)
+  * [How do we secure personal information?](https://web.archive.org/h/help/privacy-policy-complete#q6)
+  * [How do we respect your choices about your personal information?](https://web.archive.org/h/help/privacy-policy-complete#q7)
+  * [Whom do I contact if I have questions or concerns?](https://web.archive.org/h/help/privacy-policy-complete#q8)
+  * [What other information about Barnes & Noble's Privacy Policy would I want to know?](https://web.archive.org/h/help/privacy-policy-complete#q9)
 
 
-
-**4\. Disclosure of Information**  
-
-
-  1. **_Generally._** As a matter of policy, we do not sell or rent any of your personal information to third parties for their marketing purposes without first providing you with an opportunity to opt-out. However, the following describes some of the ways that we may disclose your personal information in the normal course of providing our services.
-  2. **_Suppliers & Developers._** Where you purchase or download a product or service on one of our Web Sites, we may disclose your name and email address to our partner who is our supplier of that product or service. For example, if you download a particular software application, we may disclose your name and email address to the developer of that software application. This disclosure is to enable the developer or supplier to provide support to you, and in certain cases to allow you to benefit from certain levels of support that are only available to registered users. We have no control over what these third parties do with the information that we disclose to them.
-  3. **_Aggregate Information (non-personally identifiable)._** We share aggregated, non-personally identifiable information about our user base with our partners and advertisers. This information does not identify individual users.
-  4. **_Agents and Service Providers._** We may use third parties to provide, on our behalf, some portions of the products and services available on the Web Sites. For instance, we use a credit card processing company to bill you for services, and we may use third party service providers to provide certain fulfillment services for some of our products or services. We use our best efforts, to the extent commercially reasonable, to ensure that these companies do not retain, share, store or use personally identifiable information that we disclose to them for such purposes for any other purposes.
-  5. **_Your Use of the Web Site._** If you participate in a bulletin board or other public forum offered by the Web Sites, your User ID will be displayed on any content that you post and will therefore be available to the public. Therefore, if you associate your name with your User ID, your name will be available to the public. Any other information about yourself that you include in such posts will be publicly available.
-  6. **_Legal Requests._** We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web Sites.
-  7. **_Disclaimer._** We cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose personal information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the Web Sites.
-
-
-
-**5\. Choice / Opt-Out**  
-We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you register with us but do not wish to receive any additional marketing material from us, you can indicate your preference on our registration form. If you no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by contacting us at [http://www.ereader.com/servlet/mw?t=support&si=59](http://www.ereader.com/servlet/mw?t=support&si=59). You may also update your preferences at any time by accessing our member information area. You will be notified before your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
-
-**6\. Links to Other Sites**  
-This privacy statement applies only to information collected by these Web Sites. The Web Sites contain links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware of when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information.
-
-**7\. Access to Personal Information**  
-If your personally identifiable information changes, or if you no longer desire some or all of our services, you may correct, update, delete or deactivate it by making the change on our account information pages or by contacting us at [http://www.ereader.com/servlet/mw?t=support&si=59](http://www.ereader.com/servlet/mw?t=support&si=59). Please note that, if you have established an account with more than one of our Web Sites, you may have to make these changes on each Web Site.
-
-**8\. Security**  
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personal information submitted to us from unauthorized access, disclosure, alteration, or destruction, both during transmission and once we receive it.
-
-**9\. Business Transition**  
-In the event we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of our assets, your personally identifiable information will likely be among the assets transferred.
-
-**10\. Contact Us**  
-If you have any questions or suggestions regarding our privacy policy, please contact us at [http://www.ereader.com/servlet/mw?t=support&si=59](http://www.ereader.com/servlet/mw?t=support&si=59).  
-  
----|---
