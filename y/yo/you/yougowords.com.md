@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yougowords.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129192130id_/http%3A//www.yougowords.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yougowords.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531011616id_/http%3A//www.yougowords.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - You Go Words!
 
@@ -90,15 +90,15 @@ This document was last updated on October 24, 2014
 
 loading...
 
-#### Commenting On This Word Finder.
+#### Word Finder Social Comments.
 
-On your [downloads](https://web.archive.org/member/downloads) page area, there is information on why word downloads are not available. Please read the [about page](https://web.archive.org/about-me.html) to learn who I am, and how this word finding tool works behind the scenes. This is currently a free word website, made by one dude - so to expect everything to work perfectly is terrible sense of entitlement. If you are not happy with this **free website** , I ask you to please send feedback or comment your thoughts below in a kind manner. I do want to improve the finding capabilities, and am working to do so. Your constructive and kind criticism is appreciated. You Go Words! is massive and the time it takes is tremendous. It earns money, but does not cover the expenses. Share this website with your word loving friends and comment feedback. I promise to continue to improve the finding, rhyming, poetry and filtering tools. Thank you for using You Go Words!
+You guys and gals are all awesome. Please read the [about page](https://web.archive.org/about-me.html) to learn who I am, and how this word finding tool works behind the scenes. This is a free word website, made by one dude. If you are not happy with this **free website** , I ask that you please send feedback or comment your thoughts below. Your constructive and kind criticism is appreciated.
 
   * Google+
   * Page Specific
 
 
 
-Thank you for visting. I will be adding a comments tool for all members to comment, interact and associate with the word pages!
+Thank you for visting. I will be adding a comments tool for all writers, authors and members to interact and associate yourselves with words!
 
-All comments will be moderated.
+All comments will be moderated by authorized editors.
