@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaymu.com.np privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130144201id_/http%3A//www.kaymu.com.np/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaymu.com.np privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531173911id_/http%3A//www.kaymu.com.np/privacy-policy) for the most accurate reproduction.*
 
 # Kaymu - Privacy and Confidentiality
 
