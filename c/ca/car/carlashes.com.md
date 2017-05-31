@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carlashes.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230013215id_/http%3A//carlashes.com/index.php%3Fl%3Dpage_view%26p%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carlashes.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531092022id_/http%3A//www.carlashes.com/index.php%3Fl%3Dpage_view%26p%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Car Lashes, Car Eyelashes, Eyelashes for Cars, eyelashes4cars
 
