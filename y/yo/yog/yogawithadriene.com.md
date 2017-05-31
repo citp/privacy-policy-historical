@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the yogawithadriene.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123003034id_/http%3A//yogawithadriene.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogawithadriene.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531171536id_/http%3A//yogawithadriene.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Yoga With Adriene, LLC
 
-The last update to our Privacy Policy was posted on March 7, 2016. This document governs the privacy policy of our Website, [yogawithadriene.com](https://web.archive.org/web/20161123003034id_/http://yogawithadriene.com/privacy_policy/yogawithadriene.com). Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our Website.
+The last update to our Privacy Policy was posted on March 7, 2016. This document governs the privacy policy of our Website, [yogawithadriene.com](https://web.archive.org/web/20170531171536id_/http://yogawithadriene.com/privacy_policy/yogawithadriene.com). Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our Website.
 
 ### Definitions
 
