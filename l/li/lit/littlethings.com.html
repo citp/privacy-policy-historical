@@ -1,8 +1,163 @@
-<!--The following is the downloaded HTML source of the littlethings.com privacy policy that was archived on 2016-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161123150743id_/http%3A//www.littlethings.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the littlethings.com privacy policy that was archived on 2017-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170531175655id_/https%3A//www.littlethings.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" class="no-js"><head>
-    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-52BVHT"></script><script async="" src="//cdn.taboola.com/libtrc/littlethings-littlethings/loader.js" id="tb_loader_script"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-52BVHT"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script type="text/javascript" src="//wurfl.io/wurfl.js"></script>
+    <script type="text/javascript">
+        var ajax_url = 'https://www.littlethings.com/wp/wp-admin/admin-ajax.php';
+
+        // Extract into LT Util Class for reuse - Dru
+        var is_mobile = false;
+        var is_tablet = false;
+
+        if (typeof WURFL !== 'undefined' && (WURFL.form_factor == 'Smartphone' || WURFL.form_factor == 'Feature Phone')) {
+            is_mobile = true;
+            window.device = 'mobile';
+        } else if (typeof WURFL !== 'undefined' && WURFL.form_factor == 'Tablet') {
+            is_tablet = true;
+            window.device = 'tablet';
+        }else{
+            window.device = 'desktop';
+        }
+
+      var refresh_slideshow_ads = [];
+    </script>
+
+    <!-- Rounding function -->
+    <script type="text/javascript">
+        function calcBidVal(bid_price, rev_share, penny_amount) {
+             rev_share = typeof rev_share !== 'undefined' ? rev_share : 1;
+             penny_amount = typeof penny_amount !== 'undefined' ? penny_amount : 1;
+             var cents_bid = bid_price;
+             cents_bid = cents_bid * rev_share;
+             if (isNaN(cents_bid)) {
+                 final_bid = 0;
+             } else {
+                 if (cents_bid > 0 && cents_bid <= 8) {
+                     final_bid = Math.round((Math.round(cents_bid * 4) / 4) * 100);
+                 } else if (cents_bid > 8 && cents_bid <= 12) {
+                     final_bid = Math.round((Math.round(cents_bid * 2) / 2) * 100);
+                 }  else if (cents_bid > 12) {
+                     final_bid = 1200;
+                 }
+                    else {
+                      final_bid = 0;
+                  }
+             }
+             if (!penny_amount) {
+                 final_bid = final_bid / 100;
+             }
+             return final_bid;
+        };
+
+        fb_bid_l = '';
+        fb_bid_id_l = '';
+        fb_bid_r = '';
+        fb_bid_id_r = '';
+        if (is_tablet == true){
+            function reqListener () {
+                fb_response = JSON.parse(this.responseText);
+                try{
+                    anId = '544862049022228_762365403938557'
+                    fb_bid_l = fb_response.bids[anId][0].bid_price_cents;
+                    fb_bid_id_l = fb_response.bids[anId][0].bid_id;
+                    fb_bid_l = calcBidVal((parseFloat(fb_bid_l) / 100));
+                } catch (e) {}
+                try{
+                    anId = '544862049022228_762365517271879'
+                    fb_bid_r = fb_response.bids[anId][0].bid_price_cents;
+                    fb_bid_id_r = fb_response.bids[anId][0].bid_id;
+                    fb_bid_r = calcBidVal((parseFloat(fb_bid_r) / 100));
+                } catch (e) {}
+            }
+            var oReq = new XMLHttpRequest();
+            oReq.addEventListener("load", reqListener);
+            oReq.open("GET", "https://an.facebook.com/v2/placementbid.json?sdk=5.3.web&placementids[]=544862049022228_762365403938557&adformats[]=native&placementids[]=544862049022228_762365517271879&adformats[]=native");
+            oReq.withCredentials = true;
+            oReq.send();
+        }
+    </script>
+    <!-- end FB -->
+    <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+    <!-- Index Header Tag -->
+    <script async="" src="//js-sec.indexww.com/ht/p/183649-131226622119371.js"></script>
+    <!-- lotame -->
+    <script type="text/javascript" src="//ad.crwdcntrl.net/5/c=9173/pe=y/var=ccauds"></script>
+            <script src="//content.jwplatform.com/libraries/kuN9KKGG.js"></script>
+        <!-- DFP Setup -->
+    <script>
+      var googletag = googletag || {};
+      googletag.cmd = googletag.cmd || [];
+    </script>
+
+    <script type="text/javascript">
+        var utm_medium = "";
+        var refferer = document.referrer;
+        var organic_referrers = ["google", "bing", "yahoo", "aol", "ask", "images.google", "yandex", "msn", "baidu", "littlebudha"];
+
+        if (utm_medium === "" && typeof refferer != 'undefined' && refferer !== ""){
+            for (i in organic_referrers){
+                if (refferer.indexOf(organic_referrers[i]) !== -1 ){
+                    utm_medium = organic_referrers[i];
+                    break;
+                }
+            }
+        }
+    </script>
+
+            <script>
+
+            googletag.cmd.push(function() {
+                                   googletag.defineSlot('/58585122/LT_Video_Sidebar_300x600', [[300, 250],[300,600]], 'div-gpt-ad-1420484321255-2').setTargeting('pos', 'desk_sidebar').addService(googletag.pubads());
+                    googletag.defineSlot('/58585122/LT_Video_Responsive_Rectangle', [[300, 250]], 'div-gpt-ad-1423078719853-2').setTargeting('pos', 'desk_rec').addService(googletag.pubads());
+                                        if (is_tablet == true){
+                        googletag.defineSlot('/58585122/LT_Tablet_Right', [[300, 250]], 'div-gpt-ad-1471349140327-0').setTargeting('pos', 'tab_right').addService(googletag.pubads());
+                    }
+                                googletag.defineSlot('/58585122/LT_1x1', [[1, 1]], 'div-gpt-ad-1425403661677-0').setTargeting('pos', 'high_impact').addService(googletag.pubads());
+                var dartCCKey = "ccaud";
+                var dartCC = "";
+                if (typeof(ccauds) != 'undefined') {
+                    for (var cci = 0; cci < ccauds.Profile.Audiences.Audience.length; cci++) {
+                        if (cci > 0) dartCC += ",";
+                        dartCC += ccauds.Profile.Audiences.Audience[cci].abbr;
+                    }
+                }
+                var jw_vid = 'false';
+                                    jw_vid = 'true';
+                                                                googletag.pubads().setTargeting("utm_source","home");
+                googletag.pubads().setTargeting("utm_medium", utm_medium);
+                googletag.pubads().setTargeting("utm_campaign","");
+                googletag.pubads().setTargeting("vpage","");
+                googletag.pubads().setTargeting(dartCCKey, [dartCC]);
+                googletag.pubads().setTargeting("jw_vid",jw_vid);
+                                if (is_tablet == true){
+                    googletag.pubads().setTargeting("fb_bid_l", fb_bid_l.toString());
+                    googletag.pubads().setTargeting("fb_bid_id_l", fb_bid_id_l.toString());
+                    googletag.pubads().setTargeting("fb_bid_r", fb_bid_r.toString());
+                    googletag.pubads().setTargeting("fb_bid_id_r", fb_bid_id_r.toString());
+                }
+                googletag.enableServices();
+            });
+        </script>
+        <script type="text/javascript">
+            !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function()
+            {q("f",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore( A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+            // initialize apstag and have apstag set bids on the googletag slots when they are returned to the page
+            cat = "";
+            apstag.init({
+            pubID: '3242', adServer: 'googletag', videoAdServer: 'DFP', bidTimeout: 8e2, params:{sis_sitesection: ("littlethings.com: " + cat)}
+            });
+            // request the bids for the four googletag slots
+                        apstag.fetchBids({ slots: [
+                            ]
+            }, function(bids) {
+            // trigger the first request to DFP
+            googletag.cmd.push(function() { apstag.setDisplayBids();
+            }); }
+            );
+        </script>
+    
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
     <meta charset="UTF-8">
     <title>Privacy Policy/Rights</title>
 
@@ -16,183 +171,89 @@
     <link rel="dns-prefetch" href="//cdn7.littlethings.com">
     <link rel="dns-prefetch" href="//cdn8.littlethings.com">
     <link rel="dns-prefetch" href="//cdn9.littlethings.com">
-    <link rel="dns-prefetch" href="//web.adblade.com">
-    <link rel="dns-prefetch" href="//publishers.revcontent.com">
     <link rel="dns-prefetch" href="//fonts.googleapis.com">
     <link rel="dns-prefetch" href="//d9etzk30b05yg.cloudfront.net">
     <link rel="dns-prefetch" href="//launch.newsinc.com">
-    <link rel="dns-prefetch" href="//pixel.quantserve.com">
-        <link rel="dns-prefetch" href="//a.postrelease.com">
+        <link rel="dns-prefetch" href="//s.ntv.io/serve/load.js">
         <link rel="dns-prefetch" href="//www.googletagservices.com">
-    <link rel="dns-prefetch" href="//cdn.yldbt.com">
     <link rel="dns-prefetch" href="//c.amazon-adsystem.com">
     <link rel="dns-prefetch" href="//content.jwplatform.com">
     <link rel="dns-prefetch" href="//www.googletagmanager.com">
     <link rel="dns-prefetch" href="//www.facebook.com">
     <link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
     <link rel="dns-prefetch" href="//www.littlethings.com">
-    <link rel="dns-prefetch" href="//www.spot.im">
-    <link rel="dns-prefetch" href="//app-cdn.spot.im">
-    <link rel="dns-prefetch" href="//cdn.taboola.com">
 
-    <link href="http://cdn0.littlethings.com/app/themes/littlethings/img/icons/favicon.ico" rel="shortcut icon">
-    <link href="http://cdn7.littlethings.com/app/themes/littlethings/img/icons/093015/touch.png" rel="apple-touch-icon-precomposed">
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Sans:400,700|Bree+Serif|Architects+Daughter|Alegreya:400,700|Montserrat:400,600,700|Raleway:300,400,500,600,700,800" media="screen">
-    <link rel="stylesheet" href="http://cdn7.littlethings.com/app/themes/littlethings/css/font-awesome.min.css" type="text/css">
+    <link href="https://cdn0.littlethings.com/app/themes/littlethings/img/icons/favicon.ico" rel="shortcut icon">
+    <link href="https://cdn7.littlethings.com/app/themes/littlethings/img/icons/093015/touch.png" rel="apple-touch-icon-precomposed">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Sans:400,700|Bree+Serif|Architects+Daughter|Alegreya:400,700|Montserrat:400,600,700|Raleway:300,400,500,600,700,800" media="screen">
+    <link rel="stylesheet" href="https://cdn7.littlethings.com/app/themes/littlethings/css/font-awesome.min.css" type="text/css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta property="fb:app_id" content="663436973736133">
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
         
 <!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.4 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="http://www.littlethings.com/privacy/">
+<link rel="canonical" href="https://www.littlethings.com/privacy/">
 <link rel="publisher" href="https://plus.google.com/+Littlethingscom">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="Privacy Policy [wc_accordion collapse=&quot;0&quot; leaveopen=&quot;0&quot; layout=&quot;box&quot;] [wc_accordion_section title=&quot;Privacy Policy&quot;] The LittleThings™ website located at www.littlethings.com (the “Site”) is an Internet property of LittleThings Inc. (“LittleThings™,” “we” or “us”). This LittleThings™ Website Privacy Policy (“Privacy Policy”) covers our treatment of personal information and other information that we collect when you: (a) access or use the Site;...">
+<meta name="twitter:description" content="Privacy Policy Privacy Policy The LittleThings™ website located at www.littlethings.com (the “Site”) is an Internet property of LittleThings Inc. (“LittleThings™,” “we” or “us”). This LittleThings™ Website Privacy Policy (“Privacy Policy”) covers our treatment of personal information and other information that we collect when you: (a) access or use the Site; (b) access and/or view any...">
 <meta name="twitter:title" content="Privacy Policy/Rights">
 <meta name="twitter:site" content="@littlethingsusa">
-<meta name="twitter:domain" content="LittleThings.com">
-<meta name="twitter:image:src" content="http://cdn0.littlethings.com/app/uploads/2014/08/privacy_thumb.png">
+<meta name="twitter:domain" content="LittleThings">
+<meta name="twitter:image:src" content="https://cdn0.littlethings.com/app/uploads/2014/08/privacy_thumb.png">
 <meta name="twitter:creator" content="@littlethingsusa">
-<meta name="twitter:url" content="http://www.littlethings.com/privacy/">
+<meta name="twitter:url" content="https://www.littlethings.com/privacy/">
 <!-- / Yoast WordPress SEO plugin. -->
 
-<link rel="stylesheet" id="lt-infinite-posts-sidebarstyle-css" href="http://cdn1.littlethings.com/app/plugins/littlethings-infinite-posts-sidebar/css/style-0a9ecc50f7f3126a8bcac32a70ae52a9.css" media="all"><link rel="stylesheet" id="perfect-scrollbar-css" href="http://cdn4.littlethings.com/app/plugins/littlethings-infinite-posts-sidebar/css/perfect-scrollbar.min-0a9ecc50f7f3126a8bcac32a70ae52a9.css" media="all"><link rel="stylesheet" id="postsocial_style-css" href="http://cdn5.littlethings.com/app/plugins/petflow-postsocial/css/postsocial-style-0a9ecc50f7f3126a8bcac32a70ae52a9.css" media="all"><link rel="stylesheet" id="stylesheet-css" href="http://cdn7.littlethings.com/app/plugins/littlethings-custom-team-manager/css/stylesheet-0a9ecc50f7f3126a8bcac32a70ae52a9.css" media="all"><link rel="stylesheet" id="rs-plugin-settings-css" href="http://cdn9.littlethings.com/app/plugins/revslider/rs-plugin/css/settings-0a9ecc50f7f3126a8bcac32a70ae52a9.css" media="all"><style type="text/css">
+<link rel="stylesheet" id="lt-infinite-posts-sidebarstyle-css" href="https://cdn5.littlethings.com/app/plugins/littlethings-infinite-posts-sidebar/css/style-eb5d0fdff7f3d722d08eeac9bc111dda.css" media="all"><link rel="stylesheet" id="perfect-scrollbar-css" href="https://cdn6.littlethings.com/app/plugins/littlethings-infinite-posts-sidebar/css/perfect-scrollbar.min-eb5d0fdff7f3d722d08eeac9bc111dda.css" media="all"><link rel="stylesheet" id="postsocial_style-css" href="https://cdn5.littlethings.com/app/plugins/petflow-postsocial/css/postsocial-style-eb5d0fdff7f3d722d08eeac9bc111dda.css" media="all"><link rel="stylesheet" id="stylesheet-css" href="https://cdn7.littlethings.com/app/plugins/littlethings-custom-team-manager/css/stylesheet-eb5d0fdff7f3d722d08eeac9bc111dda.css" media="all"><link rel="stylesheet" id="rs-plugin-settings-css" href="https://cdn1.littlethings.com/app/plugins/revslider/rs-plugin/css/settings-eb5d0fdff7f3d722d08eeac9bc111dda.css" media="all"><style type="text/css">
 .tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
 </style>
-<link rel="stylesheet" id="wc-shortcodes-style-css" href="http://cdn2.littlethings.com/app/plugins/wc-shortcodes/includes/css/style-f187328fe310f9059e463737feb85d97.css" media="all"><link rel="stylesheet" id="littlethings-jw-rss-css" href="http://cdn5.littlethings.com/app/plugins/littlethings-jw-rss/assets/css/style-0a9ecc50f7f3126a8bcac32a70ae52a9.css" media="all"><link rel="stylesheet" id="normalize-css" href="http://cdn2.littlethings.com/app/themes/littlethings/normalize-0a9ecc50f7f3126a8bcac32a70ae52a9.css" media="all"><link rel="stylesheet" id="html5blank-css" href="http://cdn1.littlethings.com/app/themes/littlethings//style-0a9ecc50f7f3126a8bcac32a70ae52a9.css" media="all"><link rel="stylesheet" id="jquery-bxslider-css" href="http://cdn9.littlethings.com/app/themes/littlethings/js/lib/jquery-bxslider/jquery.bxslider-0a9ecc50f7f3126a8bcac32a70ae52a9.css" media="all"><link rel="stylesheet" id="wordpresscanvas-font-awesome-css" href="http://cdn5.littlethings.com/app/plugins/wc-shortcodes/includes/css/font-awesome-f187328fe310f9059e463737feb85d97.css" media="all"><script type="text/javascript" src="http://cdn5.littlethings.com/app/themes/littlethings/js/jquery.min-0a9ecc50f7f3126a8bcac32a70ae52a9.js?ver=1.10.2"></script>
-<script type="text/javascript" src="http://cdn9.littlethings.com/app/plugins/littlethings-infinite-posts-sidebar/js/jquery.cookie-0a9ecc50f7f3126a8bcac32a70ae52a9.js"></script>
-<script type="text/javascript" src="http://cdn3.littlethings.com/app/plugins/littlethings-infinite-posts-sidebar/js/perfect-scrollbar.min-0a9ecc50f7f3126a8bcac32a70ae52a9.js"></script>
-<script type="text/javascript" src="http://cdn2.littlethings.com/app/plugins/littlethings-infinite-posts-sidebar/js/jquery.ddslick-0a9ecc50f7f3126a8bcac32a70ae52a9.js"></script>
-<script type="text/javascript" src="http://cdn6.littlethings.com/app/themes/littlethings/js/clipboard-0a9ecc50f7f3126a8bcac32a70ae52a9.js?ver=3.9.2"></script>
-<script type="text/javascript" src="http://cdn5.littlethings.com/app/themes/littlethings/js/queryCommandSupported-0a9ecc50f7f3126a8bcac32a70ae52a9.js?ver=3.9.2"></script>
-<script type="text/javascript" src="http://cdn6.littlethings.com/app/themes/littlethings//js/scripts-0a9ecc50f7f3126a8bcac32a70ae52a9.js?ver=1.1.1"></script>
-<script type="text/javascript" src="http://cdn5.littlethings.com/app/plugins/littlethings-infinite-posts-sidebar/js/post_sidebar-0a9ecc50f7f3126a8bcac32a70ae52a9.js"></script>
-<script type="text/javascript" src="http://cdn7.littlethings.com/app/themes/littlethings/js/jquery_mobile_check-0a9ecc50f7f3126a8bcac32a70ae52a9.js?ver=3.9.2"></script>
+<link rel="stylesheet" id="wc-shortcodes-style-css" href="https://cdn3.littlethings.com/app/plugins/wc-shortcodes/includes/css/style-fa98e0c6ace7b3b15f28de45caa991b2.css" media="all"><link rel="stylesheet" id="littlethings-jw-rss-css" href="https://cdn1.littlethings.com/app/plugins/littlethings-jw-rss/assets/css/style-eb5d0fdff7f3d722d08eeac9bc111dda.css" media="all"><link rel="stylesheet" id="normalize-css" href="https://cdn8.littlethings.com/app/themes/littlethings/normalize-eb5d0fdff7f3d722d08eeac9bc111dda.css" media="all"><link rel="stylesheet" id="general-css" href="https://cdn7.littlethings.com/app/themes/littlethings/css/general-eb5d0fdff7f3d722d08eeac9bc111dda.css" media="all"><link rel="stylesheet" id="html5blank-css" href="https://cdn7.littlethings.com/app/themes/littlethings//style-eb5d0fdff7f3d722d08eeac9bc111dda.css" media="all"><link rel="stylesheet" id="jquery-bxslider-css" href="https://cdn5.littlethings.com/app/themes/littlethings/js/lib/jquery-bxslider/jquery.bxslider-eb5d0fdff7f3d722d08eeac9bc111dda.css" media="all"><link rel="stylesheet" id="wordpresscanvas-font-awesome-css" href="https://cdn8.littlethings.com/app/plugins/wc-shortcodes/includes/css/font-awesome-fa98e0c6ace7b3b15f28de45caa991b2.css" media="all"><script type="text/javascript" src="https://cdn1.littlethings.com/app/themes/littlethings/js/jquery.min-eb5d0fdff7f3d722d08eeac9bc111dda.js?ver=1.10.2"></script>
+<script type="text/javascript" src="https://cdn5.littlethings.com/app/plugins/littlethings-infinite-posts-sidebar/js/jquery.cookie-eb5d0fdff7f3d722d08eeac9bc111dda.js"></script>
+<script type="text/javascript" src="https://cdn1.littlethings.com/app/plugins/littlethings-infinite-posts-sidebar/js/perfect-scrollbar.min-eb5d0fdff7f3d722d08eeac9bc111dda.js"></script>
+<script type="text/javascript" src="https://cdn6.littlethings.com/app/plugins/littlethings-infinite-posts-sidebar/js/jquery.ddslick-eb5d0fdff7f3d722d08eeac9bc111dda.js"></script>
+<script type="text/javascript" src="https://cdn8.littlethings.com/app/themes/littlethings/js/clipboard-eb5d0fdff7f3d722d08eeac9bc111dda.js?ver=3.9.2"></script>
+<script type="text/javascript" src="https://cdn9.littlethings.com/app/themes/littlethings/js/queryCommandSupported-eb5d0fdff7f3d722d08eeac9bc111dda.js?ver=3.9.2"></script>
+<script type="text/javascript" src="https://cdn4.littlethings.com/app/themes/littlethings//js/scripts-eb5d0fdff7f3d722d08eeac9bc111dda.js?ver=1.1.1"></script>
+<script type="text/javascript" src="https://cdn1.littlethings.com/app/plugins/littlethings-infinite-posts-sidebar/js/post_sidebar-eb5d0fdff7f3d722d08eeac9bc111dda.js"></script>
+<script type="text/javascript" src="https://cdn3.littlethings.com/app/themes/littlethings/js/jquery_mobile_check-eb5d0fdff7f3d722d08eeac9bc111dda.js?ver=3.9.2"></script>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js?ver=1.0"></script>
-<script type="text/javascript" src="http://cdn7.littlethings.com/app/plugins/petflow-postsocial/js/postsocial-scripts-0a9ecc50f7f3126a8bcac32a70ae52a9.js?ver=1.1"></script>
-<script type="text/javascript" src="http://cdn3.littlethings.com/app/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min-0a9ecc50f7f3126a8bcac32a70ae52a9.js?rev=4.5.95&amp;ver=3.9.2"></script>
-<script type="text/javascript" src="http://cdn5.littlethings.com/app/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min-0a9ecc50f7f3126a8bcac32a70ae52a9.js?rev=4.5.95&amp;ver=3.9.2"></script>
-<script type="text/javascript" src="http://cdn3.littlethings.com/app/themes/littlethings/js/jquery.devicedetector-0a9ecc50f7f3126a8bcac32a70ae52a9.js?ver=3.9.2"></script>
-<script type="text/javascript" src="http://cdn6.littlethings.com/app/themes/littlethings/js/lib/jquery-bxslider/jquery.bxslider-0a9ecc50f7f3126a8bcac32a70ae52a9.js?ver=1.0.0"></script>
-<script type="text/javascript" src="http://cdn3.littlethings.com/app/themes/littlethings/js/hermes-0a9ecc50f7f3126a8bcac32a70ae52a9.js?ver=3.9.2"></script>
-<script type="text/javascript" src="http://cdn3.littlethings.com/app/themes/littlethings/js/pubfood.min-0a9ecc50f7f3126a8bcac32a70ae52a9.js?ver=3.9.2"></script>
-<script type="text/javascript" src="http://cdn8.littlethings.com/app/themes/littlethings/js/streamsense.5.1.1.160316.min-0a9ecc50f7f3126a8bcac32a70ae52a9.js?ver=3.9.2"></script>
-<style type="text/css">
-			.wpsdc-drop-cap {
-				float : left;				
-				padding : 0.25em 0.05em 0.25em 0;				
-				font-size : 5em;
-				line-height : 0.4em;}
-		</style><script type="text/javascript"> var ajax_url = 'http://www.littlethings.com/wp/wp-admin/admin-ajax.php';  </script><script type="text/javascript">var littlethingsGlobalConfigs = {};littlethingsGlobalConfigs.user_survey_utm_sources    = "borispark";littlethingsGlobalConfigs.user_survey_ab_enabled     = "";littlethingsGlobalConfigs.user_survey_ab_case_a      = "0";littlethingsGlobalConfigs.user_survey_ab_case_b      = "0";littlethingsGlobalConfigs.user_survey_ab_case_c      = "0";littlethingsGlobalConfigs.next_post_excluding_gallery = {};littlethingsGlobalConfigs.is_jwVideo      = "";littlethingsGlobalConfigs.is_native = "0";</script><script type="text/javascript">littlethingsGlobalConfigs.ltabt_mobile_video_position = {"LTcom":{"holdout":"100","control":"0","variant":"0"}};littlethingsGlobalConfigs.ltabt_subscribe_popup = {"":{"holdout":"0","control":"0","variant":"50","variant_1":"50"},"LTcom":{"holdout":"100","control":"0","variant":"0","variant_1":"0"},"variant":{"holdout":"0","control":"0","variant":"100","variant_1":"0"},"variant_1":{"holdout":"0","control":"0","variant":"0","variant_1":"100"}};littlethingsGlobalConfigs.ltabt_subscribe_popup_ad_blocker = {"pop_variant":{"holdout":"0","control":"0","variant":"100"},"pop_control":{"holdout":"0","control":"100","variant":"0"},"":{"holdout":"80","control":"10","variant":"10"}};littlethingsGlobalConfigs.ltabt_push_notifications_popup = {"push_on":{"holdout":"0","control":"0","variant":"100"},"":{"holdout":"100","control":"0","variant":"0"},"LTcom":{"holdout":"0","control":"0","variant":"100"}};littlethingsGlobalConfigs.ltabt_streamline_share = {"share_old":{"holdout":"0","control":"100","variant":"0"},"share_new":{"holdout":"0","control":"0","variant":"100"},"":{"holdout":"0","control":"50","variant":"50"}};littlethingsGlobalConfigs.ltabt_more_videos_mobile_bta = {"more_stories":{"holdout":"0","control":"100","variant":"0"},"more_videos":{"holdout":"0","control":"0","variant":"100"},"jwrec":{"holdout":"0","control":"0","variant":"100"},"jwnorec":{"holdout":"0","control":"100","variant":"0"}};</script>    
+<script type="text/javascript" src="https://cdn1.littlethings.com/app/plugins/petflow-postsocial/js/postsocial-scripts-eb5d0fdff7f3d722d08eeac9bc111dda.js?ver=1.1"></script>
+<script type="text/javascript" src="https://cdn1.littlethings.com/app/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min-eb5d0fdff7f3d722d08eeac9bc111dda.js?rev=4.5.95&amp;ver=3.9.2"></script>
+<script type="text/javascript" src="https://cdn7.littlethings.com/app/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min-eb5d0fdff7f3d722d08eeac9bc111dda.js?rev=4.5.95&amp;ver=3.9.2"></script>
+<script type="text/javascript" src="https://cdn7.littlethings.com/app/themes/littlethings/js/jquery.devicedetector-eb5d0fdff7f3d722d08eeac9bc111dda.js?ver=3.9.2"></script>
+<script type="text/javascript" src="https://cdn6.littlethings.com/app/themes/littlethings/js/lib/jquery-bxslider/jquery.bxslider-eb5d0fdff7f3d722d08eeac9bc111dda.js?ver=1.0.0"></script>
+<script type="text/javascript" src="https://cdn9.littlethings.com/app/themes/littlethings/js/hermes-eb5d0fdff7f3d722d08eeac9bc111dda.js?ver=3.9.2"></script>
+<script type="text/javascript" src="https://cdn5.littlethings.com/app/themes/littlethings/js/pubfood.min-eb5d0fdff7f3d722d08eeac9bc111dda.js?ver=3.9.2"></script>
+<script type="text/javascript" src="https://cdn0.littlethings.com/app/themes/littlethings/js/streamsense.5.1.1.160316.min-eb5d0fdff7f3d722d08eeac9bc111dda.js?ver=3.9.2"></script>
+<script type="text/javascript">var littlethingsGlobalConfigs = {};littlethingsGlobalConfigs.user_survey_utm_sources    = "borispark";littlethingsGlobalConfigs.user_survey_ab_enabled     = "";littlethingsGlobalConfigs.user_survey_ab_case_a      = "0";littlethingsGlobalConfigs.user_survey_ab_case_b      = "0";littlethingsGlobalConfigs.user_survey_ab_case_c      = "0";littlethingsGlobalConfigs.next_post_excluding_gallery = {};littlethingsGlobalConfigs.is_jwVideo      = "";littlethingsGlobalConfigs.is_native = "0";littlethingsGlobalConfigs.onesignal = "7240848c-32a6-4d0e-8faa-587f5cc8e68b";littlethingsGlobalConfigs.onesignal_safari = "web.onesignal.auto.2cb21d9d-922f-420a-8137-99f511b7fc1b";</script><script type="text/javascript">littlethingsGlobalConfigs.ltabt_subscribe_popup_ad_blocker = [];littlethingsGlobalConfigs.ltabt_signup_fb_messenger = [];littlethingsGlobalConfigs.ltabt_signup_fb_messenger_tablet = [];littlethingsGlobalConfigs.ltabt_signup_fb_messenger_mobile = {"fbsp1":{"holdout":"100","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0"},"fbsp3":{"holdout":"100","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0"},"fbsp4":{"holdout":"100","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0"},"fbsp5":{"holdout":"100","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0"},"fbsp6":{"holdout":"100","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0"},"fbsp7":{"holdout":"100","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0"},"fbsp8":{"holdout":"100","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0"},"fbsp9":{"holdout":"100","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0"},"fbsp10":{"holdout":"100","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0"},"messenger_controlm":{"holdout":"0","control":"100","variant":"0","expires":86400,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0"},"messenger_variantm":{"holdout":"0","control":"0","variant":"100","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0"},"messenger_variant1m":{"holdout":"0","control":"0","variant":"0","expires":604800,"variant_1":"100","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0"},"messenger_variant14m":{"holdout":"0","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"100","variant_15":"0"},"messenger_variant15m":{"holdout":"0","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"100"},"fbsp":{"holdout":"100","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0"},"fbsp2":{"holdout":"100","control":"0","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"0"},"":{"holdout":"0","control":"10","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"90"},"LTcom":{"holdout":"0","control":"10","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"90"},"ltts":{"holdout":"0","control":"10","variant":"0","expires":604800,"variant_1":"0","variant_2":"0","variant_3":"0","variant_4":"0","variant_5":"0","variant_6":"0","variant_7":"0","variant_8":"0","variant_9":"0","variant_10":"0","variant_11":"0","variant_12":"0","variant_13":"0","variant_14":"0","variant_15":"90"}};littlethingsGlobalConfigs.ltabt_push_notifications_popup = {"notify_me":{"holdout":"0","control":"0","variant":"100","expires":604800},"all_partners_utm":{"holdout":"0","control":"0","variant":"100","expires":604800,"all_utms":"borispark"}};littlethingsGlobalConfigs.ltabt_push_notifications_popup_mobile = {"all_partners_utm":{"holdout":"0","control":"0","variant":"100","expires":604800,"all_utms":"borispark"}};littlethingsGlobalConfigs.ltabt_push_notifications_popup_safari = {"":{"holdout":"","control":"","variant":"","expires":0},"safaritest":{"holdout":"","control":"","variant":"100","expires":86400},"all_partners_utm":{"holdout":"0","control":"0","variant":"100","expires":604800,"all_utms":"borispark"}};littlethingsGlobalConfigs.ltabt_mobile_video_position = {"":{"holdout":"","control":"","variant":"","expires":0}};littlethingsGlobalConfigs.ltabt_slide_show_components_removing = [];littlethingsGlobalConfigs.ltabt_more_videos_live = {"":{"holdout":"0","control":"50","variant":"50","expires":0},"LTcom":{"holdout":"0","control":"50","variant":"50","expires":0},"force":{"text":"variant","number":"2","timestamp":"1493830543","duration":null}};littlethingsGlobalConfigs.ltabt_new_geo_ip = {"":{"holdout":"0","control":"100","expires":0},"all_partners_utm":{"holdout":"50","control":"50","variant":null,"expires":0,"all_utms":"cosmic"}};littlethingsGlobalConfigs.ltabt_1x1pixel_removing = {"loud":{"holdout":"0","control":"50","variant":"50","expires":0},"flys":{"holdout":"0","control":"50","variant":"50","expires":0}};littlethingsGlobalConfigs.ltabt_one_click_newsletter_signup = {"control":{"holdout":"0","control":"100","expires":86400},"":{"holdout":"95","control":"5","expires":1814400}};</script>    
             <meta name="Googlebot-News" content="noindex, nofollow">
     
     
 
-            <meta property="og:url" content="http://www.littlethings.com/">
+            <meta property="og:url" content="https://www.littlethings.com/">
         <meta property="og:title" content="LittleThings - Life's about the Little Things.">
         <meta property="og:description" content="LittleThings - Uplifting, touching and interesting stories from around the world. In just a few minutes, you'll laugh, smile and appreciate the wonderful world that we live in. Remember, it's the little things in life that matter the most!">
-        <meta property="og:image" content="http://cdn2.littlethings.com/app/themes/littlethings/img/icons/logo-big.png">
+        <meta property="og:image" content="https://cdn2.littlethings.com/app/themes/littlethings/img/icons/logo-big.png">
         <meta property="og:image:width" content="1200">
         <meta property="og:image:height" content="627">
         <meta property="og:type" content="article">
     
     <meta property="og:site_name" content="LittleThings.com">
 
-    <!-- additional quantcast -->
-    <script type="text/javascript">
-    quantSegs="";
-    function qc_results(result) {
-        for (var i = 0; i < result.segments.length; i++) {
-            quantSegs += result.segments[i].id + ",";
-        }
-    }
-    </script>
-    <script type="text/javascript" src="//pixel.quantserve.com/api/segments.json?a=p-6yuc2rTQUYXnR&amp;callback=qc_results"></script>
-    <!-- end of additional quantcast tag -->
-
-    	<script type="text/javascript" src="http://a.postrelease.com/serve/load.js?async=true"></script>
+    	   <script type="text/javascript" src="//s.ntv.io/serve/load.js" async=""></script>
     
-    <!-- /index -->
-   <script type="text/javascript">
-    function cygnus_index_parse_res(){}function cygnus_index_start(){function e(e){var t=a[e];return"string"==typeof t?t:"\\u"+("0000"+e.charCodeAt(0).toString(16)).slice(-4)}function t(t){return o.lastIndex=0,o.test(t)?t.replace(o,e):t}function i(e,t,i){if(this.initialized=!1,"number"!=typeof e||e%1!==0||0>e)throw"Invalid Site ID";if("number"==typeof i&&i%1==0&&i>=0&&(this.timeoutDelay=i),this.siteID=e,this.impressions=[],this._parseFnName=void 0,top===self?(this.sitePage=location.href,this.topframe=1):(this.sitePage=document.referrer,this.topframe=0),"undefined"!=typeof t){if("function"!=typeof t)throw"Invalid jsonp target function";this._parseFnName="cygnus_index_args.parseFn"}"undefined"==typeof _IndexRequestData.requestCounter?_IndexRequestData.requestCounter=Math.floor(256*Math.random()):_IndexRequestData.requestCounter=(_IndexRequestData.requestCounter+1)%256,this.requestID=String((new Date).getTime()%2592e3*256+_IndexRequestData.requestCounter+256),this.initialized=!0}if(cygnus_index_primary_request){for(var s=[],n=0;n<cygnus_index_args.slots.length;n++){var r=cygnus_index_args.slots[n],u={id:"T1_"+r.id,width:r.width,height:r.height,siteID:166406};({id:"T2_"+r.id,width:r.width,height:r.height,siteID:444444});s.push(u)};for(var n=0;n<s.length;n++)cygnus_index_args.slots.push(s[n]);cygnus_index_primary_request=!1}cygnus_index_args.parseFn=cygnus_index_parse_res;var o=/[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,a={"\b":"\\b","":"\\t","\n":"\\n","\f":"\\f","\r":"\\r",'"':'\\"',"\\":"\\\\"};i.prototype.serialize=function(){var e='{"id":'+this.requestID+',"site":{"page":"'+t(this.sitePage)+'"';"string"==typeof document.referrer&&(e+=',"ref":"'+t(document.referrer)+'"'),e+='},"imp":[';for(var i=0;i<this.impressions.length;i++){var s=this.impressions[i],n=[];e+='{"id":"'+s.id+'", "banner":{"w":'+s.w+',"h":'+s.h+',"topframe":'+String(this.topframe)+"}","number"==typeof s.bidfloor&&(e+=',"bidfloor":'+s.bidfloor,"string"==typeof s.bidfloorcur&&(e+=',"bidfloorcur":"'+t(s.bidfloorcur)+'"')),"string"!=typeof s.slotID||s.slotID.match(/^\s*$/)||n.push('"sid":"'+t(s.slotID)+'"'),"number"==typeof s.siteID&&n.push('"siteID":'+s.siteID),n.length>0&&(e+=',"ext": {'+n.join()+"}"),e+=i+1==this.impressions.length?"}":"},"}return e+="]}"},i.prototype.setPageOverride=function(e){return"string"!=typeof e||e.match(/^\s*$/)?!1:(this.sitePage=e,!0)},i.prototype.addImpression=function(e,t,i,s,n,r){var u={id:String(this.impressions.length+1)};if("number"!=typeof e||1>=e)return null;if("number"!=typeof t||1>=t)return null;if(("string"==typeof n||"number"==typeof n)&&String(n).length<=50&&(u.slotID=String(n)),u.w=e,u.h=t,void 0!=i&&"number"!=typeof i)return null;if("number"==typeof i){if(0>i)return null;if(u.bidfloor=i,void 0!=s&&"string"!=typeof s)return null;u.bidfloorcur=s}if("undefined"!=typeof r){if(!("number"==typeof r&&r%1===0&&r>=0))return null;u.siteID=r}return this.impressions.push(u),u.id},i.prototype.buildRequest=function(){if(0!=this.impressions.length&&this.initialized===!0){var e=encodeURIComponent(this.serialize()),t="https:"===window.location.protocol?"https://as-sec.casalemedia.com":"http://as.casalemedia.com";return t+="/headertag?v=9&x3=1&fn=cygnus_index_parse_res&s="+this.siteID+"&r="+e,"number"==typeof this.timeoutDelay&&this.timeoutDelay%1==0&&this.timeoutDelay>=0&&(t+="&t="+this.timeoutDelay),t}};try{if("undefined"==typeof cygnus_index_args||"undefined"==typeof cygnus_index_args.siteID||"undefined"==typeof cygnus_index_args.slots)return;"undefined"==typeof _IndexRequestData&&(_IndexRequestData={},_IndexRequestData.impIDToSlotID={},_IndexRequestData.reqOptions={});var d=new i(cygnus_index_args.siteID,cygnus_index_args.parseFn,cygnus_index_args.timeout);cygnus_index_args.url&&"string"==typeof cygnus_index_args.url&&d.setPageOverride(cygnus_index_args.url),_IndexRequestData.impIDToSlotID[d.requestID]={},_IndexRequestData.reqOptions[d.requestID]={};for(var f,h,s=0;s<cygnus_index_args.slots.length;s++)f=cygnus_index_args.slots[s],h=d.addImpression(f.width,f.height,f.bidfloor,f.bidfloorcur,f.id,f.siteID),h&&(_IndexRequestData.impIDToSlotID[d.requestID][h]=String(f.id));return"number"==typeof cygnus_index_args.targetMode&&(_IndexRequestData.reqOptions[d.requestID].targetMode=cygnus_index_args.targetMode),"function"==typeof cygnus_index_args.callback&&(_IndexRequestData.reqOptions[d.requestID].callback=cygnus_index_args.callback),d.buildRequest()}catch(g){}}cygnus_index_args={timeout:300,siteID:166404,slots:[{id:"1",width:320,height:50,siteID:166404},{id:"2",width:300,height:250,siteID:174043},{id:"3",width:300,height:250,siteID:174041},{id:"6",width:300,height:250,siteID:174039},{id:"8",width:300,height:600,siteID:174040},{id:"9",width:300,height:600,siteID:186650}]};var cygnus_index_primary_request=!0;
-    </script>
-    <!-- /index -->
-
-
     <script type="text/javascript">
         window.google_analytics_uacct = "UA-54477860-1";
-
-        // begin pubfood
-        window.googletag = window.googletag || {};
-        googletag.cmd = googletag.cmd || [];
-        var ybotq = ybotq || [];
-        var amznads = amznads || {};
-        amznads.tasks = amznads.tasks || [];
-        window.ADTECH = window.ADTECH || {};
-        window.ADTECH.dacAsyncLoad = true;
-        // end pubfood top
     </script>
 
-    <script type="text/javascript">
-		(function() {
-			var gads = document.createElement('script');
-			gads.async = true;
-			gads.type = 'text/javascript';
-			var useSSL = 'https:' == document.location.protocol;
-			gads.src = (useSSL ? 'https:' : 'http:') +
-			'//www.googletagservices.com/tag/js/gpt.js';
-			var node = document.getElementsByTagName('script')[0];
-			node.parentNode.insertBefore(gads, node);
-		})();
-    </script>
-
-    <!-- Pubfood rounding function -->
-    <script type="text/javascript">
-         function calcBidVal(bid_price, rev_share, penny_amount) {
-             rev_share = typeof rev_share !== 'undefined' ? rev_share : 1;
-             penny_amount = typeof penny_amount !== 'undefined' ? penny_amount : 1;
-             var cents_bid = bid_price;
-             cents_bid = cents_bid * rev_share;
-             if (isNaN(cents_bid)) {
-                 final_bid = 0;
-             } else {
-                 if (cents_bid <= 1.49) {
-                     final_bid = cents_bid;
-                 } else if (cents_bid > 1.50 && cents_bid <= 8) {
-                     final_bid = Math.round((Math.round(cents_bid * 4) / 4) * 100);
-                 } else if (cents_bid > 8 && cents_bid <= 12) {
-                     final_bid = Math.round((Math.round(cents_bid * 2) / 2) * 100);
-                 }  else {
-                     final_bid = 1200;
-                 }
-             }
-             if (!penny_amount) {
-                 final_bid = final_bid / 100;
-             }
-             return final_bid;
-         };
-     </script>
-     <!-- End of Pubfood rounding function -->
-
-    <script type="text/javascript" src="http://aka-cdn.adtechus.com/dt/common/DAC.js"></script>
-
-    
-
-                <!-- standard video sidebar ad -->
-                        <!-- end standard video sidebar ad -->
-    
-    
-                    <!-- begin video ads -->
-                    <!-- end video ads -->
-            
     <script type="text/javascript">
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-	ga('create', 'UA-54477860-1', 'auto');
-        </script>
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-54477860-1', 'auto');
+            </script>
 
 
     <!--[if gte IE 9]>
@@ -205,369 +266,44 @@
 
     <script type="text/javascript">
         var qsAppend = '';
-                qsAppend = "";
+                qsAppend = $.parseJSON('[]');
+
+        //append utm_medium for orrganic source
+        if (!("utm_medium" in qsAppend) && utm_medium !== ""){
+            qsAppend["utm_medium"] = utm_medium;
+        }
+
         $(document).ready(function(){
             if(typeof carryParams != 'undefined'){
                 carryParams();
             }
         });
-            </script>
+        
+     //script.js is loaded at this point, pass the ads needed for refresh
+    if (typeof LTCommonScripts != 'undefined'){
+        LTCommonScripts.slideshowGalleryCarousel.registerADs(refresh_slideshow_ads);
+    }
 
-    <!-- lotame -->
-    <script type="text/javascript" src="http://ad.crwdcntrl.net/5/c=9173/pe=y/var=ccauds"></script>
+    </script>
 
-            <script src="https://content.jwplatform.com/libraries/ORnmBoDZ.js"></script>
-    
-    <script type="text/javascript">!function (t, e, n) { function a(t) { var a = e.createElement("script"); a.type = "text/javascript", a.async = !0, a.src = ("https:" === e.location.protocol ? "https" : "http") + ":" + n, (t || e.body || e.head).appendChild(a) } function o() { var t = e.getElementsByTagName("script"), n = t[t.length - 1]; return n.parentNode } var p = o(); t.spotId = "sp_6Md8natL", t.parentElement = p, a(p) }(window.SPOTIM = { features: { miniNwesfeed: false, newsfeed: false } }, document, "//www.spot.im/launcher/bundle.js");</script><script type="text/javascript" async="" src="https://www.spot.im/launcher/bundle.js"></script>
 
-    
             <script type="application/ld+json">
           {
-	  "@context": "http://schema.org",
-	                          "@type": "NewsArticle",
+      "@context": "http://schema.org",
+                              "@type": "NewsArticle",
             "headline": "Privacy Policy/Rights",
             "author": "vladimir n",
-            "url": "http://www.littlethings.com/privacy/",
-            "thumbnailUrl": "http://cdn0.littlethings.com/app/uploads/2014/08/privacy_thumb.png",
+            "url": "https://www.littlethings.com/privacy/",
+            "thumbnailUrl": "https://cdn0.littlethings.com/app/uploads/2014/08/privacy_thumb.png",
             "dateCreated": "2014-08-22T19:03:21+00:00",
             "datePublished": "2014-08-22T19:03:21+00:00",
             "articleSection": "",
             "creator": "vladimir n",
             "keywords": [],
-            "image": "http://cdn0.littlethings.com/app/uploads/2014/08/privacy_thumb.png"
+            "image": "https://cdn0.littlethings.com/app/uploads/2014/08/privacy_thumb.png"
                     }
         </script>
-
-        <script type="text/javascript">
-            var pf = new pubfood();
-            pf.omitDefaultBidKey(true);
-
-                        var slotConfig = {
-                name: '/58585122/LT_Video_Sidebar_300x600',
-                elementId: 'div-gpt-ad-1420484321255-2',
-                sizes: [[300, 600]],
-                bidProviders: [
-                    'yieldbot',
-                    'amazon',
-                    'index',
-                    'sovrn'
-                ]
-            };
-            var slot = pf.addSlot(slotConfig).setParam('sovrn', {
-                id: 383527,
-                alias: 'sovn300x600ltdesksidebar',
-                banner: {"w": 300, "h": 600}
-            });
-
-            
-            
-
-            
-            
-            var pfSlots = window.pf.getSlots();
-
-            var bidProviderConfig = {
-                name: 'yieldbot',
-                libUri: '//cdn.yldbt.com/js/yieldbot.intent.js',
-                slotParams: {
-                    "/58585122/LT_Gallery_Sidebar_300x600": "sidebar",
-                    "/58585122/LT_Video_Sidebar_300x600": "sidebar",
-                    "/58585122/LT_Gallery_Responsive_Rectangle_ATF": "rec",
-                    "/58585122/LT_Video_Responsive_Rectangle": "rec"
-                },
-
-                init: function(slots, pushBid, done){
-                    var slotMap = {};
-                    var slotParams = this.slotParams;
-
-                    ybotq.push(function() {
-                        yieldbot.psn('6594');
-                        for (var k = 0; k < slots.length; k++) {
-                            var slot = slots[k];
-                            var ybslot = slotParams[slot.name];
-
-                            yieldbot.defineSlot(ybslot, {
-                                sizes: slot.sizes
-                            });
-                            slotMap[ybslot] = slot.name;
-                        }
-                        yieldbot.enableAsync();
-                        yieldbot.go();
-                    });
-                    ybotq.push(function() {
-                        window.pageCriteria = yieldbot.getPageCriteria();
-                        var pageSlots = pageCriteria !== '' ? pageCriteria.split(',') : [];
-                        for (var i = 0; i < pageSlots.length; i++) {
-                            var slotInfo = pageSlots[i].split(':');
-                            var slot = slotInfo[0];
-                            var size = slotInfo[1];
-                            var bid = 0;
-                            if (slotInfo.length && slotInfo[2]) {
-                                bid = parseFloat(slotInfo[2], 10);
-                            }
-                            var sizes = size.split('x');
-                            sizes[0] = parseInt(sizes[0], 10);
-                            sizes[1] = parseInt(sizes[1], 10);
-                            // submit my bid...
-                            var bidObject = {
-                                slot: slotMap[slot] || 'undefined_slot',
-                                value: bid,
-                                sizes: sizes,
-
-                            };
-                            pushBid(bidObject);
-                        }
-
-                        done();
-                    });
-                },
-                refresh: function(slots, pushBid, done){
-
-                },
-            };
-            pf.addBidProvider(bidProviderConfig);
-
-            var bidProviderConfig = {
-                name: 'amazon',
-                libUri: '//c.amazon-adsystem.com/aax2/amzn_ads.js',
-                init: function(slots, pushBid,done){
-                    amznads.asyncParams = {
-                        'id': '3242',
-                        'callbackFn': function() {
-                            try {
-                                var amzCriteria = amznads.getTokens();
-                                var bidObject = {
-
-                                    targeting: {
-                                        amznslots: amzCriteria.join(',')
-                                    }
-                                };
-                                pushBid(bidObject);
-                                amznads.setTargetingForGPTAsync('amznslots');
-                            } catch (e) { /*ignore*/ }
-                            done();
-                        }
-                    };
-                },
-                refresh: function(slots, pushBid, done){
-                },
-            };
-            pf.addBidProvider(bidProviderConfig);
-
-
-            // INDEX
-            var bidProviderConfig = {
-                name: 'index',
-                libUri: ' ',
-                init: function(slots, pushBid, done) {
-
-                    var scriptTag = document.createElement("script");
-                    scriptTag.setAttribute("src", cygnus_index_start());
-
-                    scriptTag.setAttribute("type", "text/javascript");
-                    var firstScript = document.getElementsByTagName("script")[0];
-                    if (firstScript.parentNode) {
-                        firstScript.parentNode.insertBefore(scriptTag, firstScript);
-                    }
-
-
-                    done();
-                },
-                refresh: function(slots, pushBid, done) {}
-            };
-            pf.addBidProvider(bidProviderConfig);
-
-            // END INDEX
-
-            // sovrn setup
-            var url = 'http://gslbeacon.lijit.com/beacon?viewId=littlethings';
-            url = url + '&rand=' + Math.floor(9e3 * Math.random());
-            url = url + '&informer=12761363&type=fpads';
-            url = url + "&loc=" +  window.location.hostname;
-            url = url + "&v=1.2";
-            (new Image()).src = url;
-
-            var sovrn_keys = [];
-            for (var index in pfSlots) {
-                if(pfSlots[index].getParam('sovrn')){
-                    var item = {
-                        'id': pfSlots[index].params_.sovrn.alias,
-                        'banner': pfSlots[index].params_.sovrn.banner,
-                        'tagid': pfSlots[index].params_.sovrn.id
-                    }
-                    sovrn_keys.push(item)
-                }
-            }
-
-            var sovrn_json = {
-                "id": 12761363,
-                "site": {
-                    "domain": window.location.host,
-                    "page":  window.location.pathname
-                },
-                "imp": sovrn_keys
-            };
-
-
-            var sovrn_json_string = JSON.stringify(sovrn_json);
-
-            var encodedSovrn = encodeURIComponent(sovrn_json_string);
-
-            window.sovrn_render = function (e, slt) {
-                try {
-                    for (var j=0; j<sovrn_results.length; j++) {
-                        var bid_obj = sovrn_results[j];
-                        if (bid_obj.impid == slt) {
-                            (new Image()).src = decodeURIComponent(bid_obj.nurl);
-                            var svrn_ad = decodeURIComponent(bid_obj.adm);
-                            e.write(svrn_ad);
-                            break;
-                        }
-                    }
-
-                } catch (s) {}
-            };
-
-            var bidProviderConfig = {
-                name:'sovrn',
-                libUri: 'http://ap.lijit.com/rtb/bid?callback=sovrn_callback&br=' + encodedSovrn + '&rand=' + Math.floor(9e6 * Math.random()),
-                init: function(slots,pushBid,done){
-                    window.sovrn_callback = function (sovrn_data) {
-
-                        try {
-                            window.sovrn_results = sovrn_data.seatbid[0].bid;
-                            for (var j=0; j<sovrn_data.seatbid[0].bid.length; j++) {
-                                var bid_obj = sovrn_data.seatbid[0].bid[j];
-                                if (bid_obj.impid && bid_obj.adm && bid_obj.nurl.length != 0) {
-                                    var sovrn_bid = calcBidVal(bid_obj.price);
-                                    var sizes;
-                                    var svrn_slot = bid_obj.impid;
-
-                                    var auction_slot = 'undefined_slot';
-
-                                    for (var k = 0; k < slots.length; k++) {
-                                        if(slots[k].params_.sovrn.alias == svrn_slot){
-                                            sizes = [slots[k].params_.sovrn.banner.w, slots[k].params_.sovrn.banner.h]
-                                            auction_slot = slots[k].name;
-                                            break;
-                                        }
-                                    }
-                                    var slotTargeting = {};
-                                    slotTargeting['svrn_alias'] = svrn_slot;
-                                    slotTargeting['svrn_bid'] = sovrn_bid;
-
-
-                                    var bidObject = {
-                                        slot: auction_slot,
-                                        value: sovrn_bid,
-                                        sizes: sizes,
-                                        targeting: slotTargeting
-                                    };
-
-                                    pushBid(bidObject);
-                                }
-                            }
-                        } catch (e) {}
-                            done();
-                        };
-                    },
-                refresh: function(slots,pushBid,done){}
-            };
-            pf.addBidProvider(bidProviderConfig);
-
-            var auctionProviderConfig = {
-                name: 'Google',
-                libUri: '//www.googletagservices.com/tag/js/gpt.js',
-                init: function(targeting, done) {
-                    googletag.cmd.push(function() {
-                        var slots = {};
-                        for (var i = 0; i < targeting.length; i++) {
-                            var tgtObject = targeting[i];
-                            var gptObject;
-                            if (tgtObject.name) {
-                                gptObject = googletag.defineSlot(tgtObject.name, tgtObject.sizes, tgtObject.elementId)
-                                    .addService(googletag.pubads());
-                                slots[tgtObject.name] = gptObject;
-                            } else {
-                                gptObject = googletag.pubads();
-                            }
-                            for (var p in tgtObject.targeting) {
-                                gptObject.setTargeting(p, tgtObject.targeting[p]);
-                            }
-                        }
-                        pf.getAuctionProvider().setParam('slots', slots);
-                    });
-
-
-                    googletag.cmd.push(function() {
-                        
-
-                        // lotame prepare key/value pair of user audiences.  Example result: 'ccaud=sports;ccaud=movie;ccaud=blogger'
-                        var dartCCKey = "ccaud";
-                        var dartCC = "";
-                        if (typeof(ccauds) != 'undefined') {
-                            for (var cci = 0; cci < ccauds.Profile.Audiences.Audience.length; cci++) {
-                                if (cci > 0) dartCC += ",";
-                                dartCC += ccauds.Profile.Audiences.Audience[cci].abbr;
-                            }
-                        }
-
-                        var jw_vid = 'false';
-                                                    jw_vid = 'true';
-                        
-                        googletag.pubads().setTargeting("utm_source","home");
-                        googletag.pubads().setTargeting("utm_medium","");
-			            googletag.pubads().setTargeting("utm_campaign","");
-			            googletag.pubads().setTargeting("vpage","");
-                        googletag.pubads().setTargeting("quantSegs", quantSegs);
-                        googletag.pubads().setTargeting("spage", String(hermes['spage']));
-                        googletag.pubads().setTargeting("ybot", window.pageCriteria || '');
-                        googletag.pubads().setTargeting(dartCCKey, [dartCC]);
-                        googletag.pubads().setTargeting("jw_vid",jw_vid);
-
-                        googletag.enableServices();
-
-                        done();
-                    });
-                },
-
-                refresh: function(){
-
-                },
-            };
-            pf.setAuctionProvider(auctionProviderConfig);
-
-            var now = +(new Date());
-            var onStart = function(hasErrors, details){
-                if(hasErrors){
-                    console.log('error details', details);
-                }else {
-                    console.log('no error');
-                }
-            };
-
-            pf.timeout(800);
-            pf.start(now, onStart);
-            // end pubfood test
-        </script>
-
-    <script type="text/javascript">
-        window._taboola = window._taboola || [];
-        _taboola.push({video:'auto'});
-        !function (e, f, u, i) {
-            if (!document.getElementById(i)){
-                e.async = 1;
-                e.src = u;
-                e.id = i;
-                f.parentNode.insertBefore(e, f);
-            }
-        }(document.createElement('script'),
-            document.getElementsByTagName('script')[0],
-            '//cdn.taboola.com/libtrc/littlethings-littlethings/loader.js',
-            'tb_loader_script');
-    </script>
-
-</head>
+    </head>
 <body class="page page-id-162703 page-template-default wc-shortcodes-font-awesome-enabled privacy">
     <!-- Google Tag Manager -->
     <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-52BVHT"
@@ -578,7 +314,7 @@
             '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-52BVHT');</script>
     <!-- End Google Tag Manager -->
-    	   <script id="set_device_script" name="set_device_script" type="text/javascript">
+           <script id="set_device_script" name="set_device_script" type="text/javascript">
             window.is_single=0;
 
             function randomWithProbability(e){
@@ -593,70 +329,15 @@
         afterContentAds['desktop'] = new Array();
         afterContentAds['tablet'] = new Array();
 
-        afterContentAds['desktop'][1] = '<div id="rcjsload_littlethingsba"><\/div><script type="text/javascript"> (function() {function ad_block_test(e,o){if("undefined"!=typeof document.body){var t="0.1.2-dev",o=o?o:"sponsorText",n=document.createElement("DIV");n.id=o,n.style.position="absolute",n.style.left="-999px",n.appendChild(document.createTextNode("&nbsp;")),document.body.appendChild(n),setTimeout(function(){if(n){var o=0==n.clientHeight;try{}catch(d){console&&console.log&&console.log("ad-block-test error",d)}e(o,t),document.body.removeChild(n)}},175)}}ad_block_test(function(is_blocked){var widget_id = 43585;if (is_blocked === true) {widget_id = 44052;}var referer="";try{if(referer=document.referrer,"undefined"==typeof referer)throw"undefined"}catch(exception){referer=document.location.href,(""==referer||"undefined"==typeof referer)&&(referer=document.URL)}referer=referer.substr(0,700);var rcel = document.createElement("script");rcel.id = "rc_" + Math.floor(Math.random() * 1000);rcel.type = "text/javascript";rcel.src = "http://trends.revcontent.com/serve.js.php?w="+widget_id+"&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth) +"&referer="+referer + "&is_blocked=" + is_blocked;rcel.async = true;var rcds = document.getElementById("rcjsload_littlethingsba"); rcds.appendChild(rcel);});})();<\/script>';
-
-                afterContentAds['tablet'][1] = '<div id="taboola-below-video-thumbnails"><\/div><script type="text/javascript">window._taboola = window._taboola || [];_taboola.push({mode: "thumbnails-a", container: "taboola-below-video-thumbnails", placement: "Below Video Thumbnails", target_type: "mix"});<\/script>';
-
-        header_ad = '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"><\/script><ins class="adsbygoogle"style="display:block"data-ad-client="ca-pub-9042764826004540"data-ad-slot="3823141716"data-ad-format="auto"><\/ins><script>(adsbygoogle = window.adsbygoogle || []).push({});<\/script>';
-	</script>
-        
-        <div class="modal-popup-overlay subscribe-close ab-subscribe">
-            <div class="modal-popup"><!-- popup box -->
-                <a class="modal-close subscribe-close" href="#"></a>
-                <div class="modal-subscribe iner-module"><!-- screen 1 -->
-                    <img class="modal-logo" src="http://cdn2.littlethings.com/app/themes/littlethings/img/logo-sign.png">
-                    <h2>Get the best <span>LittleThings</span></h2>
-                    <p class="sub-description">Delivered to you weekly!</p>
-                    <form class="sbscribe-wrap" method="post" action="" enctype="application/x-www-form-urlencoded">
-                        <div class="error-message"></div>
-                        <input type="text" name="target_email" placeholder="Enter email address">
-                        <input type="hidden" name="device" value="homepage">
-                        <input type="hidden" name="utm_source" value="">
-                        <button type="submit">Sign Up</button>
-                        <a class="click-dismiss" href="#">Click here to dismiss</a>
-                    </form>
-                </div><!-- screen 1 END -->
-                <div class="modal-loader iner-module">
-                    <div class="loader-cloud"></div>
-                </div>
-                <div class="modal-thankyou iner-module"><!-- screen 2 -->
-                    <h3><span>Thank You</span> for subscribing</h3>
-                    <img class="thank-you-envelope" src="http://cdn0.littlethings.com/app/themes/littlethings/img/thankyou-envelope.jpg">
-                    <a class="click-dismiss" href="#">Click here to dismiss</a>
-                </div><!-- screen 2 END -->
-            </div><!-- popup box END -->
-        </div>
-        <div class="modal-popup-overlay subscribe-close ab-subscribe-emoji">
-            <div class="modal-popup"><!-- popup box -->
-                <a class="modal-close subscribe-close" href="#"></a>
-                <div class="modal-subscribe iner-module"><!-- screen 1 -->
-                    <img class="modal-logo" src="http://cdn2.littlethings.com/app/themes/littlethings/img/logo-sign.png">
-                    <h2>Get the best <span>LittleThings</span></h2>
-                    <p class="sub-description">delivered to you.</p>
-                    <form class="sbscribe-wrap" method="post" action="" enctype="application/x-www-form-urlencoded">
-                        <div class="error-message"></div>
-                        <input type="text" name="target_email" placeholder="Enter email address">
-                        <input type="hidden" name="device" value="homepage">
-                        <input type="hidden" name="utm_source" value="">
-                        <button type="submit">Sign Up</button>
-                    </form>
-                </div><!-- screen 1 END -->
-                <div class="modal-loader iner-module">
-                    <div class="loader-cloud"></div>
-                </div>
-                <div class="modal-thankyou iner-module"><!-- screen 2 -->
-                    <img class="modal-logo" src="http://cdn2.littlethings.com/app/themes/littlethings/img/logo-sign.png">
-                    <h3><span>Thank You</span> for subscribing.</h3>
-                    <img class="thank-you-envelope" src="http://cdn0.littlethings.com/app/themes/littlethings/img/thankyou-envelope.jpg">
-                </div><!-- screen 2 END -->
-            </div><!-- popup box END -->
-        </div>
-        <div class="modal-popup-overlay survey-close ab-survey">
+        afterContentAds['desktop'][1] = '<div id="rcjsload_littlethingsba"><\/div><script type="text/javascript"> (function() {function ad_block_test(e,o){if("undefined"!=typeof document.body){var t="0.1.2-dev",o=o?o:"sponsorText",n=document.createElement("DIV");n.id=o,n.style.position="absolute",n.style.left="-999px",n.appendChild(document.createTextNode("&nbsp;")),document.body.appendChild(n),setTimeout(function(){if(n){var o=0==n.clientHeight;try{}catch(d){console&&console.log&&console.log("ad-block-test error",d)}e(o,t),document.body.removeChild(n)}},175)}}ad_block_test(function(is_blocked){var widget_id = 43585;if (is_blocked === true) {widget_id = 44052;}var referer="";try{if(referer=document.referrer,"undefined"==typeof referer)throw"undefined"}catch(exception){referer=document.location.href,(""==referer||"undefined"==typeof referer)&&(referer=document.URL)}referer=referer.substr(0,700);var rcel = document.createElement("script");rcel.id = "rc_" + Math.floor(Math.random() * 1000);rcel.type = "text/javascript";rcel.src = "";rcel.async = true;var rcds = document.getElementById("rcjsload_littlethingsba"); rcds.appendChild(rcel);});})();<\/script>';
+            header_ad = '<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"><\/script><ins class="adsbygoogle"style="display:block"data-ad-client="ca-pub-9042764826004540"data-ad-slot="3823141716"data-ad-format="auto"><\/ins><script>(adsbygoogle = window.adsbygoogle || []).push({});<\/script>';
+    </script>
+                <div class="modal-popup-overlay survey-close ab-survey">
             <div class="modal-popup"><!-- popup box -->
                 <a class="modal-close survey-close" href="#"></a>
                 <div class="modal-survey iner-module"><!-- screen 1 -->
-                    <img src="http://cdn9.littlethings.com/app/themes/littlethings/img/logo-no-text.png" alt="Logo" class="logo-inpopup">
-                    <h2>We Welcome Your Feedback</h2>
+                    <img src="https://cdn9.littlethings.com/app/themes/littlethings/img/logo-no-text.png" alt="Logo" class="logo-inpopup">
+                    <div class="modal-header">We Welcome Your Feedback</div>
                     <p>Please help us improve LittleThings by taking our short survey.</p>
                     <a target="_blank" href="https://www.surveymonkey.com/r/333K5F6_D" class="survey-link">Give Feedback</a>
                     <a class="no-thanks survey-close" href="#">x No Thanks</a>
@@ -668,74 +349,112 @@
                 <a class="modal-close push-notifications-close" href="#"></a>
                 <a class="click-happi" href="#">
                     <div class="modal-dont-miss modal-push-notifications iner-module"><!-- screen 1 -->
-                        <img class="modal-logo" src="http://cdn2.littlethings.com/app/themes/littlethings/img/logo-sign.png">
-                        <h2>Thank you!</h2>
+                        <img class="modal-logo" src="https://cdn2.littlethings.com/app/themes/littlethings/img/logo-sign.png">
+                        <div class="modal-header">Thank you!</div>
                         <p class="sub-description">Thank you for subscribing to our Push Notifications </p>
                         <form class="sbscribe-wrap" method="post" action="">
                             <button class="click-happi" type="submit">Close</button>
                         </form>
-                        <img class="heart-icon" src="http://cdn1.littlethings.com/app/themes/littlethings/img/heart-icon-popup.png">
+                        <img class="heart-icon" src="https://cdn1.littlethings.com/app/themes/littlethings/img/heart-icon-popup.png">
                     </div><!-- screen 1 END -->
                 </a>
             </div><!-- popup box END -->
         </div><!-- popap new dont miss END -->
+        <div class="modal-popup-overlay push-notifications-close ab-push-safari happi-popup"><!-- popap new dont miss -->
+            <div class="modal-popup"><!-- popup box -->
+                <a class="modal-close push-notifications-close" href="#"></a>
+                <a class="click-happi" href="#">
+                    <div class="modal-dont-miss modal-push-notifications iner-module"><!-- screen 1 -->
+                        <img class="modal-logo" src="https://cdn2.littlethings.com/app/themes/littlethings/img/logo-sign.png">
+                        <div class="modal-header">Don’t Miss Out!</div>
+                        <p class="sub-description">Instantly get the most heartwarming &amp; meaningful stories </p>
+                        <form class="sbscribe-wrap" method="post" action="">
+                            <button class="click-happi" type="submit">Click here for happiness</button>
+                        </form>
+                        <img class="heart-icon" src="https://cdn1.littlethings.com/app/themes/littlethings/img/heart-icon-popup.png">
+                    </div><!-- screen 1 END -->
+                </a>
+            </div><!-- popup box END -->
+        </div><!-- popap new dont miss END -->
+
+        <!-- AB test new -->
+        <div class="modal-popup-overlay subscribe-close ab-test-ver2">
+            <div class="modal-popup"><!-- popup box -->
+                <a class="modal-close subscribe-close" href="#"></a>
+                <div class="modal-subscribe iner-module"><!-- screen 1 -->
+                    <img class="modal-logo" src="https://cdn2.littlethings.com/app/themes/littlethings/img/logo-sign.png">
+                    <div class="modal-header">Get the best <span>LittleThings</span></div>
+                    <p class="sub-description">delivered to you weekly!</p>
+                    <form class="sbscribe-wrap" method="post" action="" enctype="application/x-www-form-urlencoded">
+                        <div class="error-message"></div>
+                        <input type="text" name="target_email" placeholder="Enter email address">
+                        <input type="hidden" name="device" value="homepage">
+                        <input type="hidden" name="utm_source" value="">
+                        <button type="submit">Sign Up</button>
+                        <a class="click-dismiss" href="#">No Thanks</a>
+                    </form>
+                </div><!-- screen 1 END -->
+                <div class="modal-loader iner-module">
+                    <div class="loader-cloud"></div>
+                </div>
+                <div class="modal-thankyou iner-module"><!-- screen 2 -->
+                    <img class="modal-logo" src="https://cdn2.littlethings.com/app/themes/littlethings/img/logo-sign.png">
+                    <h3><span class="thankyounote">Thank You</span> for subscribing to <span>LittleThings</span></h3>
+                    <a class="keep-reading subscribe-close" href="#">Back to My Story</a>
+                </div><!-- screen 2 END -->
+            </div><!-- popup box END -->
+        </div>
+
+
+        <div class="abtest-overlay abtest-overlay-abtest1-cloud">
+          <a class="modal-close" href="#"></a>
+          <div class="abtest1-cloud">
+            <div class="inner-wrap">
+              <img class="abtest1-logo" src="https://cdn2.littlethings.com/app/themes/littlethings/img/logo-sign.png">
+              <h2 class="abtest1-main-title">Get more <span>feel-good stories</span></h2>
+              <span class="abtest1-sub-title">from LittleThings</span>
+              <div class="abtest1-fbwidget">
+                  <div class="fb-send-to-messenger" messenger_app_id="1678638095724206" page_id="266691943540185" data-ref="home" color="blue" size="xlarge">
+                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="abtest-overlay abtest-overlay-abtest2-topblock">
+        <a class="modal-close" href="#"></a>
+          <div class="abtest2-topblock">
+            <div class="center-content">
+              <h2 class="abtest2-main-title">Get more <span>feel-good stories</span></h2>
+              <span class="abtest2-sub-title">from LittleThings</span>
+              <div class="abtest2-fbwidget">
+                  <div class="fb-send-to-messenger" messenger_app_id="1678638095724206" page_id="266691943540185" data-ref="home" color="blue" size="xlarge">
+                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
         <header class="site-header collapsed"><!-- header -->
             <div class="center">
-                <div class="navig-left">
-                    <a class="hamburg-activation" href="#"></a>
-                    <div class="hamburger-menu-wrapper">
-                        <div class="hamburg-dd"><!-- hamburg dd -->
-                            <ul class="sub-navig" style="background-image:url('http://cdn5.littlethings.com/app/themes/littlethings/img/homepage-dummy/sub-nav-bg1.jpg');"><li data-submenu="1784196" data-cover="http://cdn6.littlethings.com/app/themes/littlethings/img/menu-images/menu-diy.png"><a href="http://www.littlethings.com/category/diy-2/">DIY <span></span></a></li><li data-submenu="1784181" data-cover="http://cdn7.littlethings.com/app/themes/littlethings/img/menu-images/menu-food.png"><a href="http://www.littlethings.com/category/food-2/">FOOD <span></span></a></li><li data-submenu="1784191" data-cover="http://cdn1.littlethings.com/app/themes/littlethings/img/menu-images/menu-life.png"><a href="http://www.littlethings.com/category/lifestyle-2/">LIFE <span></span></a></li><li data-submenu="1784186" data-cover="http://cdn3.littlethings.com/app/themes/littlethings/img/menu-images/menu-parenting.png"><a href="http://www.littlethings.com/category/parenting-2/">PARENTING <span></span></a></li><li data-submenu="1784176" data-cover="http://cdn7.littlethings.com/app/themes/littlethings/img/menu-images/menu-pets.png"><a href="http://www.littlethings.com/category/pets-2/">PETS <span></span></a></li><li class="about-lt-nav" data-submenu="aboutlt" data-cover="http://cdn7.littlethings.com/app/themes/littlethings/img/menu-images/menu-about.png"><a href="/about.html">About LittleThings <span></span></a></li></ul><div class="subnav-stories"><div class="substory-wrapper" data-content="1784196"><h2><a href="#">Top Stories in <span>DIY</span></a></h2><div data-slug="Diy" class="sub-story">
-                        <a href="http://www.littlethings.com/penny-floor-parquet/"><figure><img src="http://cdn8.littlethings.com/app/uploads/2016/11/pennfloorthumbhp-350x182.jpg"></figure></a>
-                        <h3><a href="http://www.littlethings.com/penny-floor-parquet/">Woman Glues $150 In Pennies To Her Ugly Floor To Create A Stunning Design</a></h3>
-                        </div><div data-slug="Diy" class="sub-story">
-                        <a href="http://www.littlethings.com/duct-tape-trick/"><figure><img src="http://cdn9.littlethings.com/app/uploads/2016/04/Screen-Shot-2016-04-05-at-11.46.22-AM-350x182.jpg"></figure></a>
-                        <h3><a href="http://www.littlethings.com/duct-tape-trick/">She Puts Duct Tape On Her Bikini Top, Then Her Breasts Are Totally Transformed</a></h3>
-                        </div><div data-slug="Diy" class="sub-story">
-                        <a href="http://www.littlethings.com/lip-balm-uses/"><figure><img src="http://cdn6.littlethings.com/app/uploads/2016/11/homePage_thumb_1280x627_Chapstick_1-350x182.jpg"></figure></a>
-                        <h3><a href="http://www.littlethings.com/lip-balm-uses/">8 Surprising Ways To Use ChapStick You Might Not Know About</a></h3>
-                        </div></div><div class="substory-wrapper" data-content="1784181"><h2><a href="#">Top Stories in <span>FOOD</span></a></h2><div data-slug="Food" class="sub-story">
-                        <a href="http://www.littlethings.com/mesmerizing-cake-decoration/"><figure><img src="http://cdn1.littlethings.com/app/uploads/2016/03/cake-cake-2-350x182.jpg"></figure></a>
-                        <h3><a href="http://www.littlethings.com/mesmerizing-cake-decoration/">Baker Puts Cake On A Pottery Wheel And Decorates As It Spins</a></h3>
-                        </div><div data-slug="Food" class="sub-story">
-                        <a href="http://www.littlethings.com/mini-cheesecake-pumpkin-pies/"><figure><img src="http://cdn0.littlethings.com/app/uploads/2016/11/recipe_card_MiniCheesecakePumpkinPies-350x182.jpg"></figure></a>
-                        <h3><a href="http://www.littlethings.com/mini-cheesecake-pumpkin-pies/">Mini Cheesecake Pumpkin Pies: The Easy, Delicious Recipe That's Perfect For Thanksgiving</a></h3>
-                        </div><div data-slug="Food" class="sub-story">
-                        <a href="http://www.littlethings.com/banoffee-pie/"><figure><img src="http://cdn4.littlethings.com/app/uploads/2016/10/recipe_card_Banoffee-350x182.jpg"></figure></a>
-                        <h3><a href="http://www.littlethings.com/banoffee-pie/">Banoffee Pie Combines Banana And Toffee For The Most Unique And Delicious Dessert Ever</a></h3>
-                        </div></div><div class="substory-wrapper" data-content="1784191"><h2><a href="#">Top Stories in <span>LIFE</span></a></h2><div data-slug="Life" class="sub-story">
-                        <a href="http://www.littlethings.com/cheating-husband-transformation/"><figure><img src="http://cdn3.littlethings.com/app/uploads/2016/11/revenge-thumb-350x182.jpg"></figure></a>
-                        <h3><a href="http://www.littlethings.com/cheating-husband-transformation/">Husband Says He Cheated Because She's Fat, Then Wife Transforms As Revenge</a></h3>
-                        </div><div data-slug="Life" class="sub-story">
-                        <a href="http://www.littlethings.com/toshi-pretty-face/"><figure><img src="http://cdn0.littlethings.com/app/uploads/2016/11/Screen-Shot-2016-11-21-at-121-350x182.jpg"></figure></a>
-                        <h3><a href="http://www.littlethings.com/toshi-pretty-face/">After Years Of Hiding Her Face, Woman Sobs When TV Producers Tell Her To Remove All Her Makeup </a></h3>
-                        </div><div data-slug="Life" class="sub-story">
-                        <a href="http://www.littlethings.com/guardian-angel-photo/"><figure><img src="http://cdn2.littlethings.com/app/uploads/2016/11/angelthumbhp1-350x182.jpg"></figure></a>
-                        <h3><a href="http://www.littlethings.com/guardian-angel-photo/">Mom Snaps Final Photo With Her Dying Teen, Then Spots The ‘Guardian Angel’ Behind Her</a></h3>
-                        </div></div><div class="substory-wrapper" data-content="1784186"><h2><a href="#">Top Stories in <span>PARENTING</span></a></h2><div data-slug="Parenting" class="sub-story">
-                        <a href="http://www.littlethings.com/homecoming-dance-surprise/"><figure><img src="http://cdn9.littlethings.com/app/uploads/2016/11/surprise-350x182.jpg"></figure></a>
-                        <h3><a href="http://www.littlethings.com/homecoming-dance-surprise/">Teen Son Is Rejected Before Homecoming Dance. But When A Stranger Shows Up, Mom Loses It</a></h3>
-                        </div><div data-slug="Parenting" class="sub-story">
-                        <a href="http://www.littlethings.com/sienna-blisters/"><figure><img src="http://cdn9.littlethings.com/app/uploads/2016/11/Screen-Shot-2016-11-17-at-7.52.34-AM-copy-350x182.jpg"></figure></a>
-                        <h3><a href="http://www.littlethings.com/sienna-blisters/">Family Member Kisses 3-Year-Old, Then She Breaks Out In Bleeding Blisters</a></h3>
-                        </div><div data-slug="Parenting" class="sub-story">
-                        <a href="http://www.littlethings.com/a-mom-caught-her-baby-talking-to-their-dog-their-conversation-amazed-me/"><figure><img src="http://cdn5.littlethings.com/app/uploads/2014/09/Screen-Shot-2014-09-11-at-11.10.03-AM-350x182.png"></figure></a>
-                        <h3><a href="http://www.littlethings.com/a-mom-caught-her-baby-talking-to-their-dog-their-conversation-amazed-me/">Mom Caught Her Baby Talking To The Dog. Their Conversation? Unbelievable.</a></h3>
-                        </div></div><div class="substory-wrapper" data-content="1784176"><h2><a href="#">Top Stories in <span>PETS</span></a></h2><div data-slug="Pets" class="sub-story">
-                        <a href="http://www.littlethings.com/tired-dog-note/"><figure><img src="http://cdn7.littlethings.com/app/uploads/2015/08/tired-350x182.jpg"></figure></a>
-                        <h3><a href="http://www.littlethings.com/tired-dog-note/">Strange Dog Keeps Wandering Into Her Home To Sleep, Then She Finds A Note Tied To His Collar</a></h3>
-                        </div><div data-slug="Pets" class="sub-story">
-                        <a href="http://www.littlethings.com/panda-birth-3-day-labor/"><figure><img src="http://cdn5.littlethings.com/app/uploads/2016/11/HP-panda-350x182.jpg"></figure></a>
-                        <h3><a href="http://www.littlethings.com/panda-birth-3-day-labor/">Keepers Think Mom’s Baby Is Dead After Labor Lasts 3 Days, Then She Rolls Over To Give Birth</a></h3>
-                        </div><div data-slug="Pets" class="sub-story">
-                        <a href="http://www.littlethings.com/watchdog-fail/"><figure><img src="http://cdn2.littlethings.com/app/uploads/2016/11/A-dogs1-350x182.jpg"></figure></a>
-                        <h3><a href="http://www.littlethings.com/watchdog-fail/">Burglars Ignore Signs Warning About Two Dogs, Then Meet Them Face-To-Face Inside Home</a></h3>
-                        </div></div><div class="substory-wrapper sub-aboutit" data-content="aboutlt"><div class="aboutlt-sub"><div class="menu1"><a href="/about.html">About Us </a><a href="/advertising.html">Advertising </a><a href="/partnerships.html">Partnerships </a><a href="/press.html">Press </a><a href="/team.html">Team </a><a href="/careers.html">Careers </a><a href="/contact.html">Contact Us </a><a href="https://www.theloyalist.com/littlethings" target="_blank">LittleThings Goods </a></div><div class="menu2"><a href="http://www.littlethings.com/dmca-removal/">DMCA Removal </a><a href="http://www.littlethings.com/privacy/">Privacy </a><a href="http://www.littlethings.com/terms-of-service/">Terms </a><p><span>Want to use LittleThings’ editorial content?</span> Please contact us at <a href="mailto:rights@littlethings.com">Rights@LittleThings.com</a></p></div></div></div></div>                        </div><!-- hamburg dd END -->
-                    </div>
+                <div class="main-nav-wrap">
+                    <div class="menu-overlay"></div>
+                    <a class="mainnav-activation" href="#" data-slug="Menu Activation"></a>
+                    <div class="side-navigation"><!-- side nav -->
+                      <div class="nav-duplicate">
+                        <a class="mainnav-activation action-duplicate" href="#" data-slug="Menu Deactivation"></a>
+                      </div>
+                      <div class="section-first"><!-- section first --><a href="https://www.littlethings.com/category/diy-2/" data-slug="Diy">DIY</a><a href="https://www.littlethings.com/category/food-2/" data-slug="Food">FOOD</a><a href="https://www.littlethings.com/category/parenting-2/" data-slug="Parenting">PARENTING</a><a href="https://www.littlethings.com/category/pets-2/" data-slug="Pets">PETS</a><a href="/live" data-slug="Live LT"><img alt="live logo" src="https://cdn5.littlethings.com/app/themes/littlethings/img/live-logo.png"></a></div><!-- section first END -->
+          <div class="section-second"><!-- section first --><a href="/about.html" data-slug="About us">About Us </a><a href="/advertising.html" data-slug="Advertising">Advertising </a><a href="/partnerships.html" data-slug="Partnerships">Partnerships </a><a href="/press.html" data-slug="Press">Press </a><a href="/careers.html" data-slug="Careers">Careers </a><a href="/contact.html" data-slug="Contact us">Contact Us </a></div><div class="section-third"><a href="https://www.zazzle.com/littlethingsusa" data-slug="Littlethings goods">LittleThings Goods </a><a href="https://www.littlethings.com/dmca-removal/" data-slug="Dmca removal">DMCA Removal </a><a href="https://www.littlethings.com/privacy/" data-slug="Privacy">Privacy </a><a href="https://www.littlethings.com/terms-of-service/" data-slug="Terms">Terms </a></div><!-- section first END --><div class="contact-box">
+            <p class="strong-tagline">Want to use<br> LittleThings' editorial content?</p>
+            <p class="contact-line">Please contact us at <a href="mailto:Rights@LittleThings.com">Rights@LittleThings.com</a></p>
+          </div>                    </div><!-- side nav END -->
+
                 </div>
-                                    <h1 class="lt-logo">
-                        <a href="http://www.littlethings.com"><img alt="Little Things" src="http://cdn6.littlethings.com/app/themes/littlethings/img/littlethings-logo.png"></a>
-                    </h1><!-- LT logo -->
+                                    <div class="lt-logo">
+                        <a href="https://www.littlethings.com"><img alt="Little Things" src="https://cdn6.littlethings.com/app/themes/littlethings/img/littlethings-logo.png"></a>
+                    </div><!-- LT logo -->
                     <div class="navig-right social-nav"><!-- header social -->
 
                         <a class="soc-facebook" target="_blank" href="https://www.facebook.com/littlethingscom"></a>
@@ -745,7 +464,7 @@
                             <a class="soc-email" href="#"></a>
                         </div>
                         <a class="fa fa-ellipsis-h social-button" href="#"></a>
-                        <form class="navig-search" method="get" action="http://www.littlethings.com" role="search">
+                        <form class="navig-search" method="get" action="https://www.littlethings.com" role="search">
                             <input class="search-input" type="search" name="s" placeholder="Search LittleThings">
                             <button class="search-submit" type="submit" role="button"></button>
                             <a class="fa fa-search site-search"></a>
@@ -753,7 +472,6 @@
                     </div><!-- header social END -->
                             </div>
             
-
         </header><!-- header END -->
                 <div class="menu-hover-overlay"></div>
     
@@ -766,8 +484,8 @@
             <article class="privacy-article">
                 <header>
                 	<h1>LittleThings® Website Privacy Policy</h1>
-                    <small>Last Updated: October 22, 2014</small>
-                </header>    
+                    <small>Last Updated: January 4, 2017</small>
+                </header>
                 <p>The LittleThings® website located at www.littlethings.com (the “Site”) is an Internet property of LittleThings Inc. (“LittleThings®,” “we” or “us”).  This LittleThings® Website Privacy Policy (“Privacy Policy”) covers our treatment of personal information and other information that we collect when you: (a) access or use the Site; (b) access and/or view any of the video, audio, stories, text, photographs, graphics, artwork and/or other content featured on the Site as made available by other Users (collectively, “User Submitted Content”) and/or LittleThings® (“LT Content,” and together with the User Submitted Content, “Content”); (c) access links to LittleThings®’ social media pages/accounts on third party social media websites, such as Facebook® (collectively, “Social Media Pages”); and/or (d) utilize the Site’s many interactive features designed to facilitate interaction between you, LittleThings® and other Users including, but not limited to, comment sections located in designated areas of the Site (collectively, the “Interactive Services” and together with the Site, Content and Social Media Pages, the “LittleThings® Offerings”). </p>
                 <p>Capitalized terms not defined herein shall have the meanings set forth in the LittleThings® Website Terms and Conditions (“Terms and Conditions”).  <b>IF YOU DO NOT AGREE TO TERMS OF THIS PRIVACY POLICY IN THEIR ENTIRETY, YOU MAY NOT ACCESS OR OTHERWISE USE THE LITTLETHINGS® OFFERINGS.</b></p>
                 <p>Facebook® is a registered trademark of Facebook, Inc. (“Facebook”).  Please be advised that LittleThings® is not in any way affiliated with Facebook, and the LittleThings® Offerings are not endorsed, administered or sponsored by Facebook.</p>
@@ -794,7 +512,8 @@
                 <p>When a User visits the Site, we send one (1) or more cookies and/or gif files (collectively, “Cookies”) to assign an anonymous, unique identifier to the applicable User’s computer or other device.  A Cookie is a piece of data stored on your hard drive containing non-personally identifiable information about you.  Cookies have many benefits to enhance your experience at the Site.  To find out more about Cookies, please visit www.cookiecentral.com.  We use Cookies to improve the quality of the LittleThings® Offerings, including for storing user preferences and tracking Site-user trends (such as pages opened and length of stay at the Site).</p>
                 <p>Most Internet browsers are initially set up to accept Cookies, but you can reset your browser to refuse all Cookies or to indicate when a Cookie is being sent.  To disable and reject certain Cookies, follow the instructions associated with your Internet browser.  Even in the case where a user rejects a Cookie, he or she may still use the LittleThings® Offerings; provided, however, that certain functions of the LittleThings® Offerings may be impaired or rendered inoperable if the use of Cookies is disabled.  We reserve the right to retain Cookie data indefinitely.</p>
                 <h3>Behavioral Tracking</h3>
-                <p>LittleThings® uses Cookies, pixels and other tracking technology on the Site for purposes of tracking Users’ activities after they leave the Site.  LittleThings® uses these Cookies to target applicable Users with advertisements regarding LittleThings® Offerings and other products and/or services that LittleThings® thinks may be of interest to applicable Users.  In addition, third parties such as Google® may engage in a similar form of behavioral tracking of Users that visit the Site.  Users may be able to disable some, but not all, of this tracking activity by utilizing the “Do Not Track” setting or similar options within most major Internet browsers.  To the greatest extent permissible under applicable law, we are not responsible for the tracking practices of third parties in connection with the Site.</p>
+                <p>LittleThings® uses Cookies, pixels and other tracking technology on the Site for purposes of tracking Users’ activities (such as websites visited, advertisements selected and pages viewed) after they leave the Site.  LittleThings® uses these Cookies to target applicable Users with advertisements regarding LittleThings® Offerings and other products and/or services that LittleThings® thinks may be of interest to applicable Users.  In addition, third parties such as Google® may engage in a similar form of behavioral tracking of, and targeted advertising to, Users that visit the Site.  Users may be able to disable some, but not all, of this tracking activity by utilizing the “Do Not Track” setting or similar options within most major Internet browsers.  In addition, Users may be able to opt-out of this form of tracking utilizing the options made available by the <a target="_blank" href="http://www.networkadvertising.org/choices/">Network Advertising Initiative</a> or <a target="_blank" href="http://www.aboutads.info/choices/">Digital Advertising Alliance</a>.  To the greatest extent permissible under applicable law, we are not responsible for the tracking practices of third parties in connection with the Site.</p>
+
                 <h3>Aggregate Data</h3>
                 <p>LittleThings® reserves the right to transfer and/or sell aggregate or group data about users of the LittleThings® Offerings for lawful purposes.  Aggregate or group data is data that describes the demographics, usage or other characteristics of LittleThings® Offerings Users as a group, without disclosing personally identifiable information.</p>
                <h2>Third-Party Websites</h2>
@@ -823,32 +542,36 @@
     </main>
 </div>
  
-<footer class="site-footer"><!-- site footer -->
+<footer class="site-footer"><!-- site footer v3-->
         <div class="center">
-            <ul class="footer-link-list"><li><a href="/about.html">About Us</a></li><li><a href="/advertising.html">Advertising</a></li><li><a href="/partnerships.html">Partnerships</a></li><li><img class="footer-logo" alt="Little Things" src="http://cdn2.littlethings.com/app/themes/littlethings/img/logo-sign.png"></li><li><a href="/team.html">Team</a></li><li><a href="/careers.html">Careers</a></li><li><a href="/contact.html">Contact Us</a></li><li><a href="/press.html">Press</a></li></ul>        </div>
+            <ul class="footer-link-list"><li><a href="/about.html">About Us</a></li><li><a href="/advertising.html">Advertising</a></li><li><a href="/partnerships.html">Partnerships</a></li><li><img class="footer-logo" alt="Little Things" src="https://www.littlethings.com/app/themes/littlethings/img/LT-cloud-logo.svg"></li><li><a href="/press.html">Press</a></li><li><a href="/careers.html">Careers</a></li><li><a href="/contact.html">Contact Us</a></li></ul>        </div>
         <div class="sub-footer"><!-- sub footer -->
             <div class="center">
-                <div class="sub-footer-nav"><a href="http://www.littlethings.com/category/lifestyle-2/news-2/">news</a><a href="http://www.littlethings.com/privacy/">Privacy Policy</a><a href="http://www.littlethings.com/terms-of-service/">Terms Of Service</a><a href="http://www.littlethings.com/dmca-removal/">DMCA REMOVAL</a></div>                <p class="copy-r">Copyright 2014 - 2016 LittleThings Inc.</p>
+                <div class="sub-footer-nav"><a href="https://www.littlethings.com/category/food-2/">FOOD</a><a href="https://www.littlethings.com/category/lifestyle-2/">LIFE</a><a href="https://www.littlethings.com/category/parenting-2/">PARENTING</a><a href="https://www.littlethings.com/category/pets-2/">PETS</a><a href="https://www.littlethings.com/category/lifestyle-2/news-2/">NEWS</a><a href="https://www.littlethings.com/live/">LIVE</a></div>                <div class="sub-footer-nav"><a href="https://www.littlethings.com/privacy/">Privacy Policy</a><a href="https://www.littlethings.com/terms-of-service/">Terms Of Service</a><a href="https://www.littlethings.com/dmca-removal/">DMCA REMOVAL</a></div>            </div>
+        </div><!-- sub footer END -->
+        <div class="sub-footer"><!-- sub footer -->
+            <div class="center">
+                <p class="copy-r">© 2014 - 2017 LittleThings Inc.</p>
             </div>
         </div><!-- sub footer END -->
     </footer><!-- site footer END -->
-<div id="bottomAd" style="font-size: 2px;">&nbsp;</div>
-<script type="text/javascript" src="http://cdn1.littlethings.com/wp/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4"></script>
-<script type="text/javascript" src="http://cdn6.littlethings.com/wp/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.4"></script>
-<script type="text/javascript" src="http://cdn3.littlethings.com/wp/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js?ver=1.10.4"></script>
-<script type="text/javascript" src="http://cdn5.littlethings.com/wp/wp-includes/js/jquery/ui/jquery.ui.sortable.min.js?ver=1.10.4"></script>
-<script type="text/javascript" src="http://cdn5.littlethings.com/app/plugins/lazy-load/js/jquery.sonar.min-0a9ecc50f7f3126a8bcac32a70ae52a9.js?ver=0.5"></script>
-<script type="text/javascript" src="http://cdn1.littlethings.com/app/plugins/lazy-load/js/lazy-load-0a9ecc50f7f3126a8bcac32a70ae52a9.js?ver=0.5"></script>
-<script type="text/javascript" src="http://cdn1.littlethings.com/wp/wp-includes/js/masonry.min.js?ver=3.1.2"></script>
-<script type="text/javascript" src="http://cdn6.littlethings.com/wp/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2"></script>
+<div id="bottomAd" style="font-size: 2px; display:none;">&nbsp;</div>
+<script type="text/javascript" src="https://cdn1.littlethings.com/wp/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4"></script>
+<script type="text/javascript" src="https://cdn6.littlethings.com/wp/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.4"></script>
+<script type="text/javascript" src="https://cdn3.littlethings.com/wp/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js?ver=1.10.4"></script>
+<script type="text/javascript" src="https://cdn5.littlethings.com/wp/wp-includes/js/jquery/ui/jquery.ui.sortable.min.js?ver=1.10.4"></script>
+<script type="text/javascript" src="https://cdn9.littlethings.com/app/plugins/lazy-load/js/jquery.sonar.min-eb5d0fdff7f3d722d08eeac9bc111dda.js?ver=0.5"></script>
+<script type="text/javascript" src="https://cdn9.littlethings.com/app/plugins/lazy-load/js/lazy-load-eb5d0fdff7f3d722d08eeac9bc111dda.js?ver=0.5"></script>
+<script type="text/javascript" src="https://cdn1.littlethings.com/wp/wp-includes/js/masonry.min.js?ver=3.1.2"></script>
+<script type="text/javascript" src="https://cdn6.littlethings.com/wp/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var WCShortcodes = {"ajaxurl":"http:\/\/www.littlethings.com\/wp\/wp-admin\/admin-ajax.php"};
+var WCShortcodes = {"ajaxurl":"https:\/\/www.littlethings.com\/wp\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://cdn6.littlethings.com/app/plugins/wc-shortcodes/includes/js/rsvp-f187328fe310f9059e463737feb85d97.js?ver=1.48"></script>
-<script type="text/javascript" src="http://cdn2.littlethings.com/app/themes/littlethings/js/lib/modernizr-2.7.1.min-0a9ecc50f7f3126a8bcac32a70ae52a9.js?ver=2.7.1"></script>
-<script type="text/javascript" src="http://cdn3.littlethings.com/app/themes/littlethings//js/menu-0a9ecc50f7f3126a8bcac32a70ae52a9.js?ver=1.0.0"></script>
+<script type="text/javascript" src="https://cdn8.littlethings.com/app/plugins/wc-shortcodes/includes/js/rsvp-fa98e0c6ace7b3b15f28de45caa991b2.js?ver=1.48"></script>
+<script type="text/javascript" src="https://cdn2.littlethings.com/app/themes/littlethings/js/lib/modernizr-2.7.1.min-eb5d0fdff7f3d722d08eeac9bc111dda.js?ver=2.7.1"></script>
+<script type="text/javascript" src="https://cdn9.littlethings.com/app/plugins/wc-shortcodes/includes/js/accordion-fa98e0c6ace7b3b15f28de45caa991b2.js?ver=1.48"></script>
 
 <script type="text/javascript">
     jQuery(document).ready(function(){
@@ -871,17 +594,27 @@ var WCShortcodes = {"ajaxurl":"http:\/\/www.littlethings.com\/wp\/wp-admin\/admi
 <script>
     var isSingle = (new helperFunctions()).isSinglePost();
         window.setTimeout( function() {
-        ga('send', 'pageview');
+        if(!$('body').hasClass('slideshow-page')) {
+            ga('send', 'pageview');
+        }
     }, 1);
 </script>
 
-    
+    <!-- 1x1 -->
+    <script type="text/javascript">
+        if(Pixel1x1Removing.getAbString() != 'variant'){
+            responsiveAdsPrinter.add('div-gpt-ad-1425403661677-0-placeholder', "<div id='div-gpt-ad-1425403661677-0' style='width:1px; height:1px;'><\/div>", {}, 'google', 'div-gpt-ad-1425403661677-0');
+        }
+    </script>
+    <!-- end 1x1 -->
+
+
 <script type="text/javascript">
     //Print ads
     responsiveAdsPrinter.display();
 </script>
 <!-- lotame -->
-<script type="text/javascript" src="http://tags.crwdcntrl.net/c/9174/cc.js?ns=_cc9174" id="LOTCC_9174"></script>
+<script type="text/javascript" src="//tags.crwdcntrl.net/c/9174/cc.js?ns=_cc9174" id="LOTCC_9174"></script>
 <script type="text/javascript" language="javascript">
         _cc9174.bcp();
 </script>
@@ -893,4 +626,4 @@ var WCShortcodes = {"ajaxurl":"http:\/\/www.littlethings.com\/wp\/wp-admin\/admi
 
 Content Delivery Network via cdn0.littlethings.com
 
- Served from: www.littlethings.com @ 2016-11-23 09:07:51 by W3 Total Cache --></body></html>
+ Served from: www.littlethings.com @ 2017-05-31 13:49:08 by W3 Total Cache --></body></html>
