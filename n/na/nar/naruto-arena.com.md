@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naruto-arena.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119022401id_/http%3A//naruto-arena.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naruto-arena.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531183944id_/http%3A//www.naruto-arena.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Naruto Arena
 
@@ -8,7 +8,26 @@ The following webpage outlines Naruto-Arena's collection and use of personal inf
 
 ##### Cookies
 
-A cookie is a very small text file placed on your system upon logging on to Naruto-Arena (and most other websites). This file serves as your identification card and is uniquely yours, and can only be read by the server that gave it to you. Cookies tell us that you have returned to a specific web page on Naruto-Arena and help us track your preferences and transactional habits. The basic function of cookies is to help our server remember who you are. 
+A cookie is a small text file that is stored in a user's web browser by a website or ad server. We use cookies to personalize content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information you’ve provided to them or they’ve collected from your use of their services. 
+
+##### What we collect
+
+We may collect the following information:  
+\- information your web browser automatically sends to our server like the IP address and page you requested  
+\- demographic and geographic information such as a country, age or gender via google analytics  
+\- contact information including email address
+
+##### What we do with the information we gather
+
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:  
+\- Internal record keeping.  
+\- We may use the information to improve our products and services.  
+\- We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.  
+\- From time to time, we may also use your information to contact you for market research purposes. We may contact you by email. We may use the information to customise the website according to your interests. 
+
+##### Can I opt-out for Google Analytics features?
+
+You can opt-out by using [the following url.](https://tools.google.com/dlpage/gaoptout/)
 
 ##### Children's Privacy
 
