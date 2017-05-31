@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the carlashes.com privacy policy that was archived on 2016-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161230013215id_/http%3A//carlashes.com/index.php%3Fl%3Dpage_view%26p%3Dprivacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carlashes.com privacy policy that was archived on 2017-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170531092022id_/http%3A//www.carlashes.com/index.php%3Fl%3Dpage_view%26p%3Dprivacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -11,12 +11,11 @@
 
 	<meta name="keywords" content="">
 
-	<meta content="Eyelashes for your car! Carlashes™ will fit on most vehicles headlights. We have different styles designed specifically for all different styles of headlights" name="description">
-
+	<meta content="Eyelashes for your car! Carlashes%u2122 will fit on most vehicles headlights. We have different styles designed specifically for all different styles of headlights" name="description">
 	
 			<meta property="og:title" content="Privacy Policy">
 			<meta property="og:type" content="website">
-			<meta property="og:url" content="http://carlashes.com/index.php?l=page_view&amp;p=privacy_policy">
+			<meta property="og:url" content="http://www.carlashes.com/index.php?l=page_view&amp;p=privacy_policy">
 			<meta property="og:image" content="http://carlashes.com/themes/custom-1/images/logo.gif">
 			<meta property="og:site_name" content="CarLashes">
 			<meta property="og:description" content="">
@@ -37,7 +36,7 @@
     .slideshow img { padding: 0px; border: 0px solid #ccc; background-color: #eee; }
     </style>
     
-	<script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" language="Javascript" src="themes/custom-1/js/global.js"></script>
+	<script type="text/javascript" language="Javascript" src="themes/custom-1/js/global.js"></script>
     
 
 	<link rel="stylesheet" href="themes/custom-1/css/slideShow.css" type="text/css">
@@ -51,8 +50,140 @@
             fx: 'fade' // choose your transition type, ex: fade, scrollUp, shuffle, etc...
         });
     });
+	
+	
+	
+	
     </script>
 
+	
+	
+<script>
+
+    function del_cookie(name) {
+    document.cookie = name +
+    '=; expires=Thu, 01-Jan-70 00:00:01 GMT;';
+    } 
+
+    function SetCookie(cookieName,cookieValue,nDays) {
+     var today = new Date();
+     var expire = new Date();
+     if (nDays==null || nDays==0) nDays=1;
+     expire.setTime(today.getTime() + 3600000*24*nDays);
+     document.cookie = cookieName+"="+escape(cookieValue)
+                     + ";expires="+expire.toGMTString();
+    }
+
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+        }
+        return null;
+    }
+
+   //Created / Generates the captcha function    
+    function DrawCaptcha()
+    {
+        var a = Math.ceil(Math.random() * 10)+ '';
+        var b = Math.ceil(Math.random() * 10)+ '';       
+        var c = Math.ceil(Math.random() * 10)+ '';  
+        var d = Math.ceil(Math.random() * 10)+ '';  
+        var e = Math.ceil(Math.random() * 10)+ '';  
+        var f = Math.ceil(Math.random() * 10)+ '';  
+        var g = Math.ceil(Math.random() * 10)+ '';  
+        var code = a + ' ' + b + ' ' + ' ' + c + ' ' + d + ' ' + e + ' '+ f + ' ' + g;
+        document.getElementById("txtCaptcha").value = code
+    }
+
+    // Validate the Entered input aganist the generated security code function   
+    function ValidCaptcha(){
+        var str1 = removeSpaces(document.getElementById('txtCaptcha').value);
+        var str2 = removeSpaces(document.getElementById('txtInput').value);
+        if (str1 == str2) return true;        
+        return false;
+        
+    }
+
+    // Remove the spaces from the entered and generated code
+    function removeSpaces(string)
+    {
+        return string.split(' ').join('');
+    }
+    
+
+
+
+ //document.getElementById('overlay').style.display='block';
+var xmlhttp=false;
+function startAjax()
+{
+	if (!xmlhttp && typeof XMLHttpRequest!='undefined') {
+		try {
+			xmlhttp = new XMLHttpRequest();
+		} catch (e) {
+			xmlhttp=false;
+		}
+	}
+	if (!xmlhttp && window.createRequest) {
+		try {
+			xmlhttp = window.createRequest();
+		} catch (e) {
+			xmlhttp=false;
+		}
+	}
+}
+
+function sendEmailAddress()
+{
+	startAjax();
+	var vemail = document.getElementById('vemail').value;
+	xmlhttp.open("GET", "sendMail.php?vemail="+vemail,true);
+	xmlhttp.onreadystatechange=completeRequest;
+	xmlhttp.send(null);
+}
+
+function completeRequest() 
+{
+  if (xmlhttp.readyState==4) 
+  {
+	alert("Thanks, your information has been sent");
+	document.getElementById('overlay').style.display='none'		
+  }
+}
+
+
+
+
+
+ 
+function checkEmail(inputvalue){	
+    var pattern=/^([a-zA-Z0-9_.-])+@([a-zA-Z0-9_.-])+.([a-zA-Z])+([a-zA-Z])+/;
+    if(pattern.test(inputvalue)){         
+		return true;
+    }else{   
+		return false;
+    }
+}
+
+ 
+function sendEmail()
+{
+	if(!ValidCaptcha())
+		alert("Incorrect Code, please try again");	
+	else
+		if(!checkEmail(document.getElementById('vemail').value))
+				alert("Please enter a valid email address");
+		else
+	 		sendEmailAddress();
+}
+ 
+</script>	
+	
+	
 </head>
 
 
@@ -70,12 +201,13 @@
         	<table id="headerTable" cellpadding="0" cellspacing="0" border="0">
             	<tbody><tr>
                 	<td id="logo">
-                    	<a href="index.php"><img src="themes/custom-1/images/logo.png" border="0"></a>                    </td>
-<td valign="top" align="right">
+                    	<a href="index.php"><img src="themes/custom-1/images/logo.png"></a>
+                    </td>
+                    <td valign="top" align="right">
                     	<div id="topMenuBar">
 							<a href="http://carlashes.com/index.php?l=account">Sign In</a>		|
                             <a href="http://carlashes.com/index.php?l=account">Register</a>	|
-                            <a href="http://carlashes.com/index.php?l=cart_view" class="viewCart">View Cart</a>
+                            <a href="http://carlashes.com/index.php?l=cart_view" class="viewCart">View Cart </a>
 						</div>
                         <div id="searchBox">
                         	 <form action="http://carlashes.com/index.php?l=search_list" method="post" id="searchForm">
@@ -105,6 +237,7 @@
 	</fieldset>
 
 </form>
+							 
                         </div>
                     </td>
                 	
@@ -117,28 +250,72 @@
        	  <img src="themes/custom-1/images/menu.png" usemap="#menuMap">
             <map id="menuMap" name="menuMap">
       			<area shape="rect" href="index.php" coords="14,1,54,18" title="Home">
-                <area shape="rect" href="/?l=product_list&amp;c=featured" coords="90,2,159,17" title="Products">
+                <area shape="rect" href="index.php?l=page_view&amp;p=products" coords="90,2,159,17" title="Products">
                 <area shape="rect" href="gallery.html" coords="191,1,251,18" title="Gallery">
-                <area shape="rect" href="blog/" coords="281,3,322,17" title="Blog">
+                <area shape="rect" href="press.html" coords="281,3,322,17" title="Blog">
                 <area shape="rect" href="instructions.html" coords="357,1,452,20" title="Instructions">
                 <area shape="rect" href="press.html" coords="485,-1,526,19" title="Press">
                 <area shape="rect" href="faq.html" coords="557,1,593,19" title="Faq">
                 <area shape="rect" href="diva_club.html" coords="630,0,700,19" title="Diva Club">
                 <area shape="rect" href="beware_copies.html" coords="736,1,840,18" title="Beware Copies">
-                <area shape="rect" href="http://carlashes.com/index.php?l=page_view&amp;p=contact_us" coords="873,-1,962,17" title="Contact Us">
+                <area shape="rect" href="index.php?l=page_view&amp;p=contact_us" coords="873,-1,962,17" title="Contact Us">
           </map>
       </td>
     </tr>
     <tr>
     	<td id="content" valign="top">
-        	<table id="innerTable" cellpadding="0" cellspacing="0" border="0" align="center">
-                    
-
-                    
-
-                    <tbody><tr><td id="left" valign="top">
+        	<table id="innerTable" cellpadding="0" cellspacing="0" border="0" align="center" width="100%">
+    			<tbody><tr>
+                    <td id="left" valign="top">
                    
 					<div id="maincontent">
+					
+					    <div id="catList">
+						   <div class="box column categoryList ">
+	<img src="themes/custom-1/images/categories.png">
+	<div class="box-content box-category">
+	  <ul id="custom_accordion" class="list" style="padding-left:10px;">
+		<li class="category2 title"><a class="cuuchild side_link cat_hover" href="http://carlashes.com/index.php?l=product_list&amp;c=2">COMPLETE SETS</a><!--// Start Hide Expand //--> <span class="down"></span><!--// End Hide Expand //-->
+
+	<ul id="parent-" class="list-unstyled panel-collapse collapse" role="menu"><li class="category32"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=32">CLASSIC Complete Set</a></li><li class="category33"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=33">CHROME Complete Set</a></li><li class="category34"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=34">OMBRE Complete Set</a></li><li class="category45"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=45">TAIL LIGHT Complete Set</a></li><li class="category51"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=51">SPARKLE Complete Set</a></li></ul>
+
+</li><li class="category56 title"><a class="cuuchild side_link cat_hover" href="http://carlashes.com/index.php?l=product_list&amp;c=56">STEERING WHEEL COVERS</a><!--// Start Hide Expand //--> <span class="down"></span><!--// End Hide Expand //-->
+
+	<ul id="parent-" class="list-unstyled panel-collapse collapse" role="menu"><li class="category57"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=57">Plush Steering Wheel Covers</a></li></ul>
+
+</li><li class="category4 title"><a class="cuuchild side_link cat_hover" href="http://carlashes.com/index.php?l=product_list&amp;c=4">CARLASHES</a><!--// Start Hide Expand //--> <span class="down"></span><!--// End Hide Expand //-->
+
+	<ul id="parent-" class="list-unstyled panel-collapse collapse" role="menu"><li class="category31"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=31">Classic CarLashes</a></li><li class="category50"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=50">Sparkle CarLashes</a></li><li class="category53"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=53">INTER-CHANGE-ABLE</a></li><li class="category21"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=21">Iridescent CarLashes</a></li><li class="category10"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=10">OMBRE CarLashes</a></li><li class="category18"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=18">Chrome CarLashes</a></li><li class="category37"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=37">Seasonal CarLashes</a></li><li class="category23"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=23">Lighted CarLashes</a></li></ul>
+
+</li><li class="category28 title"><a class="cuuchild side_link cat_hover" href="http://carlashes.com/index.php?l=product_list&amp;c=28">BLING</a><!--// Start Hide Expand //--> <span class="down"></span><!--// End Hide Expand //-->
+
+	<ul id="parent-" class="list-unstyled panel-collapse collapse" role="menu"><li class="category3"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=3">Crystal Eyeliner</a></li><li class="category38"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=38">Mirror Pendants</a></li><li class="category48"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=48">Mirror Edge Covers</a></li><li class="category29"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=29">Crystal Stickers</a></li><li class="category7"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=7">Crystal Accents</a></li></ul>
+
+</li><li class="category20 title"><a class="cuuchild side_link cat_hover" href="http://carlashes.com/index.php?l=product_list&amp;c=20">LICENSE PLATE FRAMES</a><!--// Start Hide Expand //--> <span class="down"></span><!--// End Hide Expand //-->
+
+	<ul id="parent-" class="list-unstyled panel-collapse collapse" role="menu"><li class="category35"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=35">Crystal Frames</a></li></ul>
+
+</li><li class="category22 title"><a class="cuuchild side_link cat_hover" href="http://carlashes.com/index.php?l=product_list&amp;c=22">DASH DECOR</a><!--// Start Hide Expand //--> <span class="down"></span><!--// End Hide Expand //-->
+
+	<ul id="parent-" class="list-unstyled panel-collapse collapse" role="menu"><li class="category52"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=52">Solar Dancing</a></li></ul>
+
+</li><li class="category12 title"><a class="cuuchild side_link cat_hover" href="http://carlashes.com/index.php?l=product_list&amp;c=12">EXTRAS TAPE STICKERS</a><!--// Start Hide Expand //--> <span class="down"></span><!--// End Hide Expand //-->
+
+	<ul id="parent-" class="list-unstyled panel-collapse collapse" role="menu"><li class="category43"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=43">Adhesion Promotor Kit</a></li><li class="category39"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=39">3M Tape Remover Kit</a></li><li class="category41"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=41">CarLashes Sticker</a></li><li class="category42"><a class="nochild" href="http://carlashes.com/index.php?l=product_list&amp;c=42">3M Tape</a></li></ul>
+
+</li><li class="category55 title"><a class="nochild side_link cat_hover" href="http://carlashes.com/index.php?l=product_list&amp;c=55">PACKAGES</a>
+
+	
+
+</li><li class="category1 title"><a class="nochild side_link cat_hover" href="http://carlashes.com/index.php?l=product_list&amp;c=1">SPECIAL OFFERS</a>
+
+	
+
+</li>
+	  
+	</ul></div>
+</div>
+						</div>
                         <h2><img src="themes/custom-1/images/gray_h_arrow.gif" border="0" alt="" class="left_float_3_px"> Privacy Policy</h2>
 
 <div class="content">
@@ -172,10 +349,8 @@
 </div>
                     </div>
         			</td>
-                
-                    <!--// Start Hide RightPane //-->
    			    	<td id="right" valign="top">
-                  
+					<div id="rightBox">
                     
 
 <div class="column">
@@ -214,11 +389,9 @@
 	<span class="bot">&nbsp;</span>
 
 </div>
+                    
 					<div class="videoBox">
                     	<a href="index.php?l=page_view&amp;p=cnn_video"><img src="themes/custom-1/images/cnn-video.png"></a>
-                    </div>
-                    <div class="videoBox">
-                    	<a href="http://www.carlashes.com/catalog/crystal-stickers-29-1.html"><img src="themes/custom-1/images/scroll_tiara3.jpg"></a>
                     </div>
                     <div class="videoBox">
                     	<a href="index.php?l=page_view&amp;p=cute_video"><img src="themes/custom-1/images/cute-video.png"></a>
@@ -230,70 +403,65 @@
                     	<a href="index.php?l=page_view&amp;p=crystal_eyeliner"><img src="themes/custom-1/images/crystal-eyeliner-video.png"></a>
                     </div>
                    
-
                     
                     <div id="socialLinks">
                     	<map id="socialLinksMap" name="socialLinksMap">
-                        	<area shape="rect" coords="21,6,49,33" href="http://www.facebook.com/carlashes" target="_blank">
-                            <area shape="rect" coords="58,6,86,33" href="http://www.pinterest.com/carlashes" target="_blank">
-                            <area shape="rect" coords="95,6,122,33" href="http://www.twitter.com/carlashes" target="_blank">
-                   	  </map>
+                        	<area shape="rect" coords="21,6,49,33" href="">
+                            <area shape="rect" coords="58,6,86,33" href="">
+                            <area shape="rect" coords="95,6,122,33" href="">
+                            <area shape="rect" coords="133,8,155,33" href="">
+                            <area shape="rect" coords="166,5,190,33" href="">
+                            <area shape="rect" coords="203,7,227,34" href="">
+                      </map>
                    	  <img src="themes/custom-1/images/social_links.png" usemap="#socialLinksMap"> 
                     
-                        
                     
-					   
-					                       
+                    
+					
+					
+					
+					
+					
                     </div>
+					
+					</div>
+        			</td>
 
-         			</td>
-                <!--// End Hide RightPane //-->
     			</tr>
             </tbody></table>
         </td>
     </tr>
     
     <tr>
-    	<td valign="top" id="footer">
-        	<table cellspacing="0" cellpadding="0" border="0" id="footerTable">
+    	<td id="footer" valign="top">
+        	<table id="footerTable" cellpadding="0" cellspacing="0" border="0">
             	<tbody><tr>
-                	<td valign="top" class="fmenu" id="Col1">
-                    	<span>GIFT &amp; SALES</span>
-                        <a href="/index.php?l=page_view&amp;p=registry">Gift Registry</a>
-						<a href="/index.php?l=page_view&amp;p=gift_certificates">Gift Certificates</a>
-                        <a href="/index.php?l=page_view&amp;p=trade_sales">Trade Sales</a>
-                        <a href="/index.php?l=product_list&amp;c=bestsellers">Top Customer Picks</a>                        
-	                   </td>
-                    <td valign="top" class="fmenu" id="Col2">
-                    	<span>CUSTOMER SERVICE</span>
-                        <a href="/faq.html">Frequently Asked Questions</a>
-						<a href="/index.php?l=page_view&amp;p=receive_email">Receive Email Promotions</a>
-						<a href="/index.php?l=page_view&amp;p=contact_us">Contact Us</a>                        
-                        <a href="/index.php?l=page_view&amp;p=returns">Returns</a>
-                        <a href="/index.php?l=page_view&amp;p=feedback">Feedback Submission</a>
+                	<td id="Col1" class="fmenu" valign="top">
+                    	<span>Menu Title</span>
+                        <a href="">Returns</a>
+                        <a href="">Privacy Statement</a>
+                        <a href="">About Us</a>
                     </td>
-                    <td valign="top" class="fmenu" id="Col3">
-                    	<span>OUR COMPANY</span>
-                        <a href="/index.php?l=page_view&amp;p=press">Press</a>
-                        <a href="/index.php?l=page_view&amp;p=about_us">About Us</a>                        
-                        <a href="/index.php?l=page_view&amp;p=privacy_policy">Privacy Statement</a>
-                        <a href="/index.php?l=page_view&amp;p=site_map">Sitemap</a>
+                    <td id="Col2" class="fmenu" valign="top">
+                    	<span>Menu Title</span>
+                        <a href="http://carlashes.com/index.php">Home</a>
+						<a href="http://carlashes.com/index.php?l=page_view&amp;p=registry">Gift Registry</a>
+						<a href="http://carlashes.com/index.php?l=page_view&amp;p=gift_certificates">Gift Certificates</a>
+						<a href="http://carlashes.com/index.php?l=page_view&amp;p=about_us">About Us</a>
                     </td>
-                </tr>
-                     <tr><td valign="top" class="fmenu">
-                    	<span>MAVINS</span>
-                        <a href="/diva_club.html">Diva Club</a>
-                        <a href="http://carlashes.com/affiliate/signup.php">Affiliate Program</a>                        
+                    <td id="Col3" class="fmenu" valign="top">
+                    	<span>Menu Title</span>
+                        <a href="">ideas/Feedback/Opinions Submission</a>
+                        <a href="">Contact</a>
+                        <a href="">Sitemap</a>
                     </td>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
                 </tr>
             </tbody></table>
         </td>
     </tr>
-		<tr>
-    	<td valign="top" class="tc">
-          <p style="height:27px;overflow:hidden"> COPYRIGHT 2013 TURBO STYLE PRODUCTS, LLC <br> <a href="http://www.carlashes.com/bootsau">cheap uggs</a></p>
+    <tr>
+    	<td class="tc" valign="top">
+            Carlashes.com © 2012
         </td>
      </tr>
     </tbody></table>
@@ -310,16 +478,7 @@
 
 </div>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-81020797-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
 
 
 			<script type="text/javascript">
@@ -335,10 +494,20 @@
 		
 
 
+<script>
 
 
-<map name="Map" id="Map"><area shape="rect" coords="335,12,709,94" href="winkpink.html"></map>
-<map name="Map2" id="Map2"><area shape="rect" coords="460,13,706,93" href="http://www.carlashes.com/catalog/special-offers-1-1.html"></map>
+if (document.getElementById("catList").style.display=='block')
+	document.getElementById("right").style.display='none'; 
+	
+
+if(readCookie('save20') == null){
+    document.getElementById('overlay').style.display='block';
+    DrawCaptcha();
+    SetCookie('save20',1,365);
+}
+</script>
+
 
 
 
