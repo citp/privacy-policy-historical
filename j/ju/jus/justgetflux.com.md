@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the justgetflux.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206113245id_/https%3A//justgetflux.com/news/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justgetflux.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531083153id_/https%3A//justgetflux.com/news/pages/privacy) for the most accurate reproduction.*
 
-# f.lux and Privacy
+# f.lux Privacy Policy
 
-### First, an overview
+### Overview
 
 When you visit the f.lux website or use our software, we work hard to protect your privacy.
 
-Like most websites, our Website uses cookies and Google Analytics, and we also use communication services provided to us by companies including Facebook, Twitter, Pinterest, and Disqus.
+Like most websites, our Website uses cookies and Google Analytics, and we also use communication services provided to us by companies including Facebook, Disqus, and Twitter.
 
-Our Software uses online mapping services (including Google Maps) to find your location, usually just once when you set things up. f.lux needs this information to calculate the times of your sunrise and sunset. Since operating systems and hardware are changing quickly, f.lux also has an automatic update feature that does daily checks and sends some information about your computer configuration to us. We collect information about which versions and features of the f.lux software are used. When you tell us to, we integrate with your home lighting (and to make this work, sometimes we talk to web services owned and operated by other companies over the Internet).
+Our Software uses online mapping services (including Google Maps) to find your location, usually just once when you set things up. f.lux needs this information to calculate the times of your sunrise and sunset. Since operating systems and hardware are changing quickly, f.lux also has an automatic update feature that does daily checks and sends some information about your computer configuration to us. We collect information about which versions and features of the f.lux software are used. When you tell us to, we integrate with your home lighting (and to make this work, sometimes we talk to web services owned and operated by other companies).
 
-We intend that everything we do that could impact your privacy is visible to you. For example, on our Website, you can see a Facebook Like button, and in the Software, you can see a Google Map displayed in a window, and updates to the software can be skipped (but we’ll try to make them worth your while).
+We intend that everything we do that could impact your privacy is visible to you. For example, on our Website, you can see a Facebook Like button, and in the Software, you can see a Google Map displayed in a window, and updates to the software can be skipped.
 
 You can read our full legal policy, below.
 
@@ -18,7 +18,7 @@ You can read our full legal policy, below.
 
 We at F.lux Software LLC (“Company”) know you care about the information we may collect from you and that you may provide to us and how that information is used and shared. Please read the following to learn more about our Privacy Policy. For the purposes of this Privacy Policy, “Software” means the f.lux software you are about to (or have already) downloaded and/or installed, and “Website” refers to the [justgetflux.com](https://justgetflux.com/) website and related online services operated by the Company. By using the Software in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.
 
-Remember that your use of Company’s Software is at all times subject to the [End User License Agreement](https://web.archive.org/web/20161206113245id_/https://justgetflux.com/news/pages/eula/), which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the [End User License Agreement](https://web.archive.org/web/20161206113245id_/https://justgetflux.com/news/pages/eula/).
+Remember that your use of Company’s Software is at all times subject to the [End User License Agreement](https://web.archive.org/web/20170531083153id_/https://justgetflux.com/news/pages/eula/), which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the [End User License Agreement](https://web.archive.org/web/20170531083153id_/https://justgetflux.com/news/pages/eula/).
 
 ### What does this Privacy Policy cover?
 
@@ -28,7 +28,7 @@ We do not knowingly collect or solicit personal information from anyone under th
 
 ### Will Company ever change this Privacy Policy?
 
-We’re constantly trying to improve our Software, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by placing a notice on [justgetflux.com](https://web.archive.org/web/20161206113245id_/https://justgetflux.com/news/pages/privacy/justgetflux.com), by sending you a Notification (as described in more detail below), and/or by some other means. Please note that if you’ve opted not to receive legal notices from us, those legal notices will still govern your use of the Software, and you are still responsible for reading and understanding them. If you use the Software after any changes to the Privacy Policy have been posted, that means you agree to all of the changes. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.
+We’re constantly trying to improve our Software, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by placing a notice on [justgetflux.com](https://web.archive.org/web/20170531083153id_/https://justgetflux.com/news/pages/privacy/justgetflux.com), by sending you a Notification (as described in more detail below), and/or by some other means. Please note that if you’ve opted not to receive legal notices from us, those legal notices will still govern your use of the Software, and you are still responsible for reading and understanding them. If you use the Software after any changes to the Privacy Policy have been posted, that means you agree to all of the changes. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.
 
 ### What Information does Company Collect?
 
@@ -46,21 +46,29 @@ Whenever you interact with our Website or Software using your browser or device,
 
 When we collect the usage information described above, we only use this data in aggregate form, and not in a manner that would identify you personally. For example, this aggregate data can tell us how many users speak a particular language, or how many people use a particular feature of the Software, and we can use that knowledge to make the Software useful to as many users as possible.
 
+#### Information Collected if you synchronize your settings
+
+Some versions of f.lux will allow you to synchronize settings with our networked servers. This feature allows you to subscribe to networked lighting schedules, to use the same schedule across your devices, and to control third-party lighting products.
+
+When you choose to use this synchronization feature, you agree that our servers may transmit, record, and change your f.lux settings. You will have the option to disconnect at any time.
+
 ### How will Company use information that it Collects?
 
 #### Notifications
 
-From time to time, Company may send Notifications or messages (each, a “Notification”) to you on the device(s) on which you are using the Software as part of our automatic updates. Company may send you Notifications to highlight new features or tell you about changes to the Software. Notifications will display using your default web browser (because this is the most secure way for Company to communicate these messages to you). You may opt out of receiving Notifications by disabling Software updates.
+From time to time, Company may send notifications or messages (each, a “Notification”) to you on the device(s) on which you are using the Software as part of our automatic updates. Company may send you Notifications to highlight new features or tell you about changes to the Software. Notifications will display using a system notifier, or your default web browser (because this is the most secure way for Company to communicate these messages to you). You may opt out of receiving Notifications by disabling Software updates.
 
 We neither rent nor sell your information in personally identifiable form to anyone. However, we may share your information with third parties as described in this section:
 
-**Third Parties:** On our Website or in the Software, we may utilize free services available to us (such as Google Maps, Twitter, Disqus, Facebook, Philips Hue, and email providers), and we may partner or work with third party services (such as geolocation providers, fitness, or home automation companies) to offer you certain features in connection with the Software, and such third party services may collect information from our users. We have no control over the policies and practices of third party services as to privacy or anything else, so please familiarize yourself with their policies.
+**Third Parties:** On our Website or in the Software, we may utilize services available to us (such as Google Maps, Twitter, Disqus, Facebook, Philips Hue, and email providers), and we may partner or work with third party services (such as lighting controls, fitness, geolocation providers, or home automation companies) to offer you certain features in connection with the Software, and such third party services may collect information from our users. We have no control over the policies and practices of third party services as to privacy or anything else, so please familiarize yourself with their policies.
 
 **Agents:** We may employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or Software to you. Unless we tell you differently, our agents do not have any right to use the information we share with them beyond what is necessary to assist us.
 
 **Business Transfers:** We may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that would be transferred. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, information could be one of the assets transferred to or acquired by a third party.
 
-**Protection of Company and Others:** We reserve the right to access, read, preserve, and disclose any information that we believe is necessary to comply with law or court order; enforce or apply our [End User License Agreement](https://web.archive.org/web/20161206113245id_/https://justgetflux.com/news/pages/eula/) and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others.
+**Partners:** We may work with select Partners to distribute the software (for example, to install f.lux with a new PC). In these cases, we may share aggregate traffic data (number of installs, number of active users) with these third parties.
+
+**Protection of Company and Others:** We reserve the right to access, read, preserve, and disclose any information that we believe is necessary to comply with law or court order; enforce or apply our [End User License Agreement](https://web.archive.org/web/20170531083153id_/https://justgetflux.com/news/pages/eula/) and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others.
 
 ### How can I be sure f.lux is safe to install?
 
