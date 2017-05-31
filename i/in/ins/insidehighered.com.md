@@ -1,23 +1,44 @@
-> *The following text is extracted and transformed from the insidehighered.com privacy policy that was archived on 2016-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160722154515id_/https%3A//www.insidehighered.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidehighered.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531081715id_/https%3A//www.insidehighered.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-_Inside Higher Ed  _values and vows to protect your privacy. We guarantee that we will not, under any circumstances, sell, trade or make public your personal information, unless you specifically designate otherwise (participants in our credentials database, for instance, can request that we provide information about them to specific employers). We'll keep confidential all personal information that you give us. In addition, you will always have the option to edit the information you've given us or to have your personal information removed from our records.
+_Inside Higher Ed_ values your privacy and promises to protect your personally identifiable information. The privacy policy below applies to all _Inside Higher Ed_ sites and services, including those hosted by other parties. Please note that some third-party service providers may also have their own privacy policy and _Inside Higher Ed_ is not responsible for the privacy policies or any other practices of these sites.
 
-Traffic Data
+By continuing to utilize _Inside Higher Ed_ , you acknowledge that your information will be handled in the following ways.
 
-When you visit  _Inside Higher Ed,_  our systems collect basic information about your computer, including IP address (your computer's unique signature), operating system, browser software, or Internet service provider. We also collect information about what our readers view on the site. This information is designed to help us understand the needs and preferences of the  _Inside Higher Ed_  audience as a whole.
+**Information We Collect About You**
 
-**Use of Cookies and Clear gifs**
+When you visit _Inside Higher Ed,_ our systems collect basic information about your computer, including IP address, operating system, browser software, or Internet service provider. We also collect information about what our readers view on the site. This information is designed to help us understand the needs and preferences of the _Inside Higher Ed_ audience as a whole. _Inside Higher Ed_ may also use publicly available information from third party services to improve the data we have about our users.
 
-_Inside Higher Ed_  employs cookies - small text files placed on your computer's hard drive - to track the type of content and sites to which our users link, the length of time they spend at any particular site and the  _Inside Higher Ed_  services they use. Cookies also help us diagnose problems with our server. Your own computer browser program will allow you to stop accepting cookies from this site or any other one. You are not required to accept cookies in order to browse the  _Inside Higher Ed_  site or to take advantage of many of the site's features.
+**Information We Collect From You**
 
-To help us understand the effectiveness of our efforts to market our site,  _Inside Higher Ed_  makes use of a software technology called clear gifs (a.k.a. Web beacons, Web bugs or 1x1 pixel images). Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users (for example when a user clicks from an ad for  _Inside Higher Ed_  on Google to the  _Inside Higher Ed_  site itself). Clear gifs are not tied to users' personally identifiable information.
+When registering on our site or making a purchase transaction, you will be asked to provide information, which may include but is not limited to: your name, email address, job title, organization, mailing address, phone number, credit card information or other information to help facilitate your experience or purchase. The only time we will ask for credit card information is when you are making a purchase on our site.
 
-_Inside Higher Ed_  may employ a hosted service, such as WebTrends, which uses 1st party cookies and images for the purposes of gathering Web site usage information (also known as Web analytics). These tracking images and cookies cannot identify you personally when you visit our site.
+**When We Collect Information From You**
 
-_Inside Higher Ed_  does not use third-party cookies - cookies that come from domains other than our own - anywhere on this site. In addition,  _Inside Higher Ed_  provides hyperlinks to Web sites not under our control. Under such circumstances,  _Inside Higher Ed_  is not responsible for the privacy policies or any other practices of these sites.
+We collect information from you when you subscribe to a newsletter, register on our site, make a purchase, or otherwise enter information on our site (including to apply to a job or access specific content such as a booklet/survey or webinar).
 
-When you provide information to any public or private area of  _Inside Higher Ed,_  we will not build lists, collate that information, or extract usernames and passwords, to sell, rent, release or give away to third party vendors for marketing purposes.
+**How We Use Your Information**
 
-If you have questions about the privacy policy at  _Inside Higher Ed,_  please send an e-mail to [info@insidehighered.com](mailto:info@insidehighered.com).
+We may use your information in one or more of the following ways: statistical analysis of our website(s); customizing your experience by providing resources or advertising (both on site and via email) that are relevant to your interests; sending you emails, including newsletters and other messages. Those other messages may include marketing messages from _Inside Higher Ed_ partners. You have the right to opt out of getting those messages while still getting content from _Inside Higher Ed_. To opt out of marketing messages from our partners, click the “Manage Subscription Preferences” link in your email. You may also email us at [i](mailto:info@insidehighered.com)[nfo@insidehighered.com](mailto:info@insidehighered.com) for assistance.
+
+**When We May Share Your Data With Third Parties**
+
+Data may be shared with third-party services acting on _Inside Higher Ed_ ’s behalf, including, but not limited to, third-party authentication, email or newsletter distribution, or data service providers. In some cases, when you enter information on our site (including to apply to a job or access specific content such as a booklet/survey or webinar), your information may be shared with specific third parties as follows:
+
+  * _Applying to a job_ : If you are applying for a job through our site, your name and email, as well as the resume and cover letter that you provide with the application, will be shared with the employer.
+  * _Creating a searchable jobseeker profile_ : If you choose to create and share a searchable jobseeker profile, it may be viewed by employers who are searching for candidates. You can opt-out of the jobseeker profile search database or you can block specific employers from viewing your profile.
+  * _Accessing specific content and/or registering for an event_ : In some cases, we may ask for your information to facilitate the access of site content or to register for an event. This content and/or event is made possible in part by the support of advertiser(s) and the information you provide will be shared with the advertiser(s) stated on the download or registration form. The download or registration form will also clearly state that your information will be shared.
+
+
+
+**Use of Cookies**
+
+This site uses cookies. We use them to understand and save user logins or preferences and we also use them to analyze traffic and behavior on our site. You can modify your cookie preferences via your browser if you wish to change how your computer accepts cookies.
+
+**Contact Us**
+
+If you have questions regarding this privacy policy or if you would like to opt-out of receiving communications from us, you may reach us at [info@insidehighered.com](mailto:info@insidehighered.com)
+
+  
+Last Updated: 11-22-2016
