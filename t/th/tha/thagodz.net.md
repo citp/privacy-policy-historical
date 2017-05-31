@@ -1,36 +1,23 @@
-> *The following text is extracted and transformed from the thagodz.net privacy policy that was archived on 2011-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110405021612id_/http%3A//thagodz.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thagodz.net privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531150507id_/http%3A//www.thagodz.net/privacy-policy) for the most accurate reproduction.*
 
-# PPC Search Engine Affiliate Program | Privacy Policy
+# Privacy Policy | Thagodz Technology
 
-**The Information you provide Thagodz**
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-Our site's registration form requires users to give us contact information (name, email address, etc). We use the contact information from the registration form to send users information needed to maintain their accounts and to notify users of news about Thagodz. Users may opt-out of receiving mailings (other than those required for account administration) at the time they create their accounts or at any later date. We do not sell mailing lists or give out user names to advertisers, business partners, or anyone else.
+**Google Adsense and the DoubleClick DART Cookie**  
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
- **Use of Cookies**
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. 
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, has no access or control over these cookies that may be used by third party advertisers.
 
-We use cookies to save your preferences and to save your password so you don't have to re-enter it each time you visit our site. When you visit our site, we gather information that does not identify individual users. Cookies are used to track your IP address only for the purposes of tracking unique user sessions, to help diagnose problems with our server, and to administer our web site. We merely use aggregate information along with other data to make improvements to and update our site for our visitors. 
+**Collection of Personal Information**  
+When visiting , the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-We do not sell, trade, or rent your personal information to others. We may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors. However, these statistics will not include personal identifying information. Account information may be released when we believe, in good faith, that such release is reasonably necessary to:   
-(1)comply with applicable law,   
-(2)enforce or apply the terms of any of our user agreements, or   
-(3)protect the rights, property or safety of our users, products and/or any third parties. 
+**Links to third party Websites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
-**Email Newsletters**
+**Changes to this Privacy Statement**  
+The contents of this statement may be altered at any time, at our discretion.
 
-Thagodz Email Newsletters are optional benefits for members that keep you up to date with the latest news and information. Thagodz stores customer email address to mail pertinent information to our clients. These emails are sent to provide you with valuable information on Thagodz and/or domain name.
-
- **Security**
-
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. In addition to normal server security measures, the use of your password OR confirmed email from the address on record with the account is required to make changes. 
-
-**Correct/Update**
-
-This site gives users the following options for changing and modifying information previously provided.   
-(1)Visit "Modify My Account" after log in, and edit the profile.   
-(2)If you are unable to make the edit, email info@Thagodz.com (include your id) 
-
-**Contacting the Web Site**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can email info@Thagodz.com.
+If you have any questions regarding the privacy policy of then you may contact us
