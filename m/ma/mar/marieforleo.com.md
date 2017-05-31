@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the marieforleo.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107044947id_/http%3A//www.marieforleo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marieforleo.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531091143id_/https%3A//www.marieforleo.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Marie Forleo
 
 #### Privacy Policy
 
-Last Updated May 2015
+Last Updated March 2017
 
-We at Marie Forleo International, Inc. (“Marie Forleo,” “we,” “us,” or “our”) have created this privacy policy (this “Privacy Policy”) because we know that you care about how information you provide to us is used and shared. This Privacy Policy applies to our information collection and use practices: (i) online when you visit any of our websites, including, without limitation, marieforleo.com, marieforleobschool.com, thecopycure.com, and makeeverymanwantyou.com (the “Websites”); and (ii) offline when you provide information to us.
+We at Marie Forleo International, Inc. (“Marie Forleo,” “we,” “us,” or “our”) have created this privacy policy (this “Privacy Policy”) because we know that you care about how information you provide to us is used and shared. This Privacy Policy applies to our information collection and use practices: (i) online when you visit any of our websites, including, without limitation, marieforleo.com, marieforleobschool.com, thecopycure.com, makeeverymanwantyou.com, and starttherightbusiness.com (the “Websites”); and (ii) offline when you provide information to us.
 
 Capitalized terms not defined in this Privacy Policy shall have the meaning set forth in our Terms of Service.
 
