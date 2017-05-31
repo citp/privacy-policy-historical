@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmeagift.co.uk privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223110355id_/http%3A//www.findmeagift.co.uk/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmeagift.co.uk privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531220436id_/http%3A//www.findmeagift.co.uk/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Find Me A Gift
 
@@ -42,10 +42,6 @@ _”Web security is stronger than in virtually any other area of commerce. If yo
 
 We process all purchase and member login transactions over our secure server using secure socket layer technology (SSL), to ensure that your account and order details are safe and secure. We also utilise additional encryption techniques in the shopping basket and account system to shield sensitive data from malicious hackers or prying eyes. In the database, passwords and credit cards are encrypted for storage using advanced crypto techniques and their details are kept in a separate section of the database from your account information. For added peace of mind, it would take 4,000 programmers over a year to exhaust all 72 quadrillion decoding keys in order to crack one small phrase passed from your computer to our secure servers.
 
-#### Thawte Certificate
-
-We are Thawte certified. This certificate acts as our digital ID card and proves we are who we say we are. To obtain this certificate we have had to prove our identity, location and authenticity.
-
 #### Lock & Key Symbol
 
 To prove our transaction pages are secure, look in the bottom corner of your browser window for the locked padlock or key symbol. (You must be using Netscape 2.0+ or any version of Explorer to see these symbols).
@@ -53,10 +49,6 @@ To prove our transaction pages are secure, look in the bottom corner of your bro
 #### Paypal or Amazon Payments - Alternative Payment Options
 
 You can place an order and keep your details private by paying with Amazon or Paypal – two of the most well-known internet payment options. Simply click on the 'Checkout with Amazon' or 'Checkout with Paypal' button on your basket page.
-
-#### Your Statutory Rights
-
-Our terms and conditions do not affect your statutory rights as a consumer. Your rights are the same on the web as they are on the high street.
 
 #### SPAM (UCE - Unsolicited Commercial E-mail)
 
@@ -66,12 +58,15 @@ Find Me A Gift in no way participates in mass unsolicited e-mailing (i.e. spammi
 
 We take Credit Card fraud very seriously and we will prosecute to the fullest extent of the law. All orders have strict security clearance protocols in place with orders from overseas requiring maximum Code 10 security authentication. This means we contact the credit card issuing bank to confirm the name and address of the cardholder along with all the other regular security procedures. We pass all details of credit card fraud to the relevant authorities and ensure that issuing banks are made aware when their client's credit cards have been compromised.
 
-  1. Similar to other commercial websites, our Website uses a technology called "cookies" and web server logs to collect information about how our Website is used. A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies
-  2. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at our Website, and the websites visited just before and just after our Website.
-  3. Cookies, in conjunction with our web server's log files, allow us to calculate the aggregate number of people visiting our Website and which parts of the website are most popular. This helps us gather feedback so that we can improve our Website and better serve our customers. Cookies do not allow us to gather any personal Information about you and we do not generally store any personal Information that you provided to us in your cookies.
-  4. We use 'session' cookies which enable you to carry information across pages of the Website and avoid having to re-enter information. Session cookies enable us to compile statistics that help us to understand how the Website is being used and to improve its structure.
-  5. We also use 'persistent' cookies which remain in the cookies file of your browser for longer and help us to recognise you as a unique visitor to the Website, tailoring the content of certain areas of the Website to offer you content that match your preferred interests.
-  6. You can refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Website.
-  7. Please note that where we feature third party advertisements on our Website our advertisers may also use cookies, over which we have no control.
+  
+
+
+  1. 1\. Similar to other commercial websites, our Website uses a technology called "cookies" and web server logs to collect information about how our Website is used. A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies
+  2. 2\. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at our Website, and the websites visited just before and just after our Website.
+  3. 3\. Cookies, in conjunction with our web server's log files, allow us to calculate the aggregate number of people visiting our Website and which parts of the website are most popular. This helps us gather feedback so that we can improve our Website and better serve our customers. Cookies do not allow us to gather any personal Information about you and we do not generally store any personal Information that you provided to us in your cookies.
+  4. 4\. We use 'session' cookies which enable you to carry information across pages of the Website and avoid having to re-enter information. Session cookies enable us to compile statistics that help us to understand how the Website is being used and to improve its structure.
+  5. 5\. We also use 'persistent' cookies which remain in the cookies file of your browser for longer and help us to recognise you as a unique visitor to the Website, tailoring the content of certain areas of the Website to offer you content that match your preferred interests.
+  6. 6\. You can refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Website.
+  7. 7\. Please note that where we feature third party advertisements on our Website our advertisers may also use cookies, over which we have no control.
 
 
