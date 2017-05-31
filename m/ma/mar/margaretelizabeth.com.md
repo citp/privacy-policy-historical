@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the margaretelizabeth.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229135356id_/http%3A//www.margaretelizabeth.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the margaretelizabeth.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531105902id_/http%3A//www.margaretelizabeth.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Margaret Elizabeth
 
