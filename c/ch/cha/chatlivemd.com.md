@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatlivemd.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623012730id_/http%3A//www.chatlivemd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatlivemd.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531023800id_/http%3A//www.chatlivemd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chat Live MD
 
@@ -58,82 +58,3 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 This Privacy Policy was last updated on: Monday, August 10th, 2015.  
 [](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
-
-Common uses of Chat Live MD
-
-  
-
-
-  * Sinus Problems
-  * Cold & Flu Symptoms
-  * Allergies
-  * Ear Infections
-  * Pink Eye
-  * Bronchitis
-
-
-
-  
-
-
-  * Pediatric Care
-  * Respiratory infection
-  * Urinary Tract Infections
-  * Poison Ivy
-  * AND MORE!
-
-
-
-  
-
-
-#### Need a short-term prescription?
-
-If appropriate, your online doctor can write a short-term prescription and have it sent to the pharmacy of your choice. Some common prescriptions include:
-
-  
-
-
-  * Amoxicillin™
-  * Azithromycin™
-  * Bactrim DS™
-  * Augmentin™
-  * Cipro™
-
-
-
-  
-
-
-  * Tessalon Perles™
-  * Flonase Nasal Spray™
-  * Pyridium™Prednisone™
-  * Diflucan™
-  * AND MORE!
-
-
-
-  
-
-
-#### Need a dermatologist?
-
-Receive treatment for common skin problems like:
-
-  * Rash
-  * Acne
-  * Skin infection
-  * Ringworm
-
-
-
-  * Mouth sores
-  * Fungal infection
-  * Shingles
-  * AND MORE!
-
-
-
-**Remember for all emergencies dial 911**
-
-CLOSE
