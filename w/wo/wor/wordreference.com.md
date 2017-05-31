@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordreference.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125051618id_/http%3A//www.wordreference.com/english/Privacy%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordreference.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531043639id_/http%3A//www.wordreference.com/english/Privacy%2520Policy.htm) for the most accurate reproduction.*
 
 # WordReference.com Privacy Policy
 
@@ -23,4 +23,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 **Cookies and Opt Out** If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please search the web to find out how.   If you wish to opt out of the data collection, please refer to the link above. There are also web browser add-ons that can accomplish this and even keep cookies from WordReference and other sites and advertisers that you choose off of your browser.
 
-If you have any additional questions about WordReference.com's dedication to consumer privacy, please write the site administrator through the "Contact Us" form in the [WordReference language forums](http://forum.wordreference.com/misc/contact).
+If you have any additional questions about WordReference.com's dedication to consumer privacy, please write the site administrator through the "Contact Us" form in the [WordReference language forums](https://forum.wordreference.com/misc/contact).
