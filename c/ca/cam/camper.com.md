@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camper.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122022041id_/http%3A//www.camper.com/html/legal/privacy_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camper.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531034503id_/https%3A//www.camper.com/html/legal/privacy_en.html) for the most accurate reproduction.*
 
 # Camper. Legal Information and Privacy Policy.
 
@@ -75,11 +75,13 @@ Drupal JS-Elemente  |  has_js  |  www.camper.com  |  This cookie informs the sys
 EXTERNAL COOKIES   
 Type  |  Denomination  |  Technical name  |  Domain  |  Description   
 Identification  |  Userzoom.com  |  AWSELB  |  cdn3.userzoom.com  |  It enables users of other websites to conduct surveys. It is deleted at the end of the session.   
-Analysis  |  Browsing analysis  |  __utma  |  .camper.com  |  They make it possible to monitor user access to the website using the Google Analytics tool. You can find further information at: https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage   
-__utmb  |  .camper.com   
-__utmc  |  .camper.com   
-__utmz  |  .camper.com   
-__utmz0  |  .camper.com   
+Advertising | Navigation analysis | _hjClosedSurveyInvites | var.hotjar.com | They allow the user to access the website through the Hotjar tool.  
+_hjDonePolls | var.hotjar.com  
+_hjMinimizedPolls | var.hotjar.com  
+_hjDoneTestersWidgets | var.hotjar.com  
+_hjMinimizedTestersWidgets | var.hotjar.com  
+_hjDoneSurveys | var.hotjar.com  
+_hjIncludedInSample | var.hotjar.com  
 Advertising  |  .w55c.net  |  matchgoogle  |  .w55c.net  |  It makes it possible to delimit the advertising offered to the users at other sites. It is deleted at the end of the month   
 wfivefivec  |  .w55c.net  |  It makes it possible to delimit the advertising offered to the users at other sites. It is deleted after two years.   
 apis.google.com  |  NID  |  .google.com  |  Google uses these cookies to customize the advertisements that are shown in Google's services, such as, for example, Google Search, especially when a session has not been initiated with a Google account. The cookies are also used to show advertisements beyond Google. They are deleted after six months.   
