@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweettunnel.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223194933id_/http%3A//tweettunnel.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweettunnel.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531021819id_/http%3A//tweettunnel.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -35,7 +35,7 @@ This online privacy policy applies only to information collected through our web
 
  **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](https://web.archive.org/web/20161223194933id_/http%3A//tweettunnel.com/privacy.php).
+By using our site, you consent to our [websites privacy policy](https://web.archive.org/web/20170531021819id_/http%3A//tweettunnel.com/privacy.php).
 
  **Changes to our Privacy Policy**
 
