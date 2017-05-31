@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the imyfone.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411021621id_/http%3A//www.imyfone.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imyfone.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531173858id_/https%3A//www.imyfone.com/company/privacy-policy) for the most accurate reproduction.*
 
-# iMyfone Privacy Policy
+# iMyFone Privacy Policy
 
-iMyfone is committed to protecting your privacy. We will only collect your personal information for defined purposes. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you. We may share your information only with partners who adhere to iMyfone's commitment to protecting your privacy. iMyfone will not sell your personal information in any manner whatsoever.
+iMyFone is committed to protecting your privacy. We will only collect your personal information for defined purposes. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you. We may share your information only with partners who adhere to iMyFone's commitment to protecting your privacy. iMyFone will not sell your personal information in any manner whatsoever.
 
 ###### Information Collection
 
 When place an order on our website, you may be requested to provide us with certain personally identifiable information includes full name, email address, mailing address, phone number, credit card number, and credit card expiration date. The personal information you voluntarily provided will be used to fulfill your request, such as completing transaction, helping us provide better support and services to you.
 
-All purchasers will automatically subscribe to iMyfone Newsletters, and you shall cancel it at any time as you wish.
+All purchasers will automatically subscribe to iMyFone Newsletters, and you shall cancel it at any time as you wish.
 
 ###### Cookies
 
