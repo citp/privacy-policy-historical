@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the gigstart.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604214440id_/http%3A//www.gigstart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigstart.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531050550id_/http%3A//gigstart.com/site/privacy-policy) for the most accurate reproduction.*
 
-# Gigstart | Privacy Policy
+# Gigstart
 
-### External Links
+## External Links
 
-This site contains links to other sites. [gigstart.com](https://web.archive.org/ "gigstart.com") is not responsible for the privacy practices or the content of such Web sites.
+This site contains links to other sites. gigstart.com is not responsible for the privacy practices or the content of such Web sites.
 
 ##### Registration Forms
 
-Our site’s registration form requires members to give us contact information (such as their name and email address).
+Our site's registration form requires members to give us contact information (such as their name and email address).
 
-Contact information from the registration forms is used to create a unique record to identify the user to the system and for sending information to the member, but is not used for any other purpose. We never sell or rent our users’ information. Demographic and profile data is also collected at our site. This is used for your profiles and is made available to talent buying members for the purpose of contacting you in the event that they would like to make a gig inquiry.
+Contact information from the registration forms is used to create a unique record to identify the user to the system and for sending information to the member, but is noused for any other purpose. We never sell or rent our users’ information. Demographic and profile data is also collected at our site. This is used for your profiles and is made available to talent buying members for the purpose of contacting you in the event that they would like to make a gig inquiry.
 
 ##### Data Retention
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [contact@gigstart.com](mailto:contact@gigstart.com?subject=New%20Request%20from%20Gigstart! "contact@gigstart.com"). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at contact@gigstart.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ##### Information Automatically Logged
 
@@ -26,7 +26,7 @@ Our site uses cookies to save unique key information so you don’t have to re-e
 
 ##### Privacy for Children and Minors
 
-Protecting the privacy of children is important to us. We will never knowingly collect any personal information about children under the age of 18. If you are under the age of 18, you are not allowed to become a registered member of Gigstart unless a parent or legal guardian who agrees to be bound by our Privacy Policy and Terms of Use registers you on your behalf. It is important to remember that we cannot always determine that a member is a child under the age of 18. Members under the age of 18 must have written parental consent to release their name or other personal information.
+Protecting the privacy of children is important to us. We will never knowingly collect any personal information about children under the age of 18. If you are under the age of 18, you are not allowed to become a registered member of Gigstart unless a parent or legal guardian who agrees to be bound by our Privacy Policy and Terms of Use registers you on your behalf. It is important to remember that we cannot always determine that a member is a child under the age of 18. Members under the age of 18 must have written parental consent to release their name or other personal information.
 
 ##### Practices of Third Parties
 
@@ -38,7 +38,7 @@ The Privacy Policy may be updated to increase our members’ privacy protection 
 
 ##### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [contact@gigstart.com](mailto:contact@gigstart.com?subject=New%20Request%20from%20Gigstart! "contact@gigstart.com")
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: contact@gigstart.com
 
 ##### Testimonials
 
