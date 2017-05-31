@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landingpagemonkey.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120073626id_/http%3A//landingpagemonkey.com/members/terms/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landingpagemonkey.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531023833id_/http%3A//landingpagemonkey.com/members/terms/privacy.htm) for the most accurate reproduction.*
 
 # Landing Page Monkey | PRIVACY POLICY
 
@@ -46,7 +46,7 @@ Your personal information is never shared outside the company without your permi
 You also have a significant role in protecting your information. No one can share these see or edit your personal information without knowing your user name and password, so do not with others.
 
  **NOTICE CONCERNING CHILDREN AND TO PARENTS**  
-We adhere to the Children's Privacy Act. You must be 18 years of age to join or use LandingPageMonkey.com or any of the recommended or linked sites. This site follow the guidelines, policies and laws of the Federal Trade Commission (www.ftc.gov). We retain the right to refuse anyone membership in any of our sites. If we learn or have reason to believe that a User is underage according to the guidelines, policies and laws of the Federal Trade Commission, we will promptly revoke that User’s account and delete any personal information.
+We adhere to the Children's Privacy Act. You must be 18 years of age to join or use LandingPageMonkey.com or any of the recommended or linked sites. This site follow the guidelines, policies and laws of the Federal Trade Commission (www.ftc.gov). We retain the right to refuse anyone membership in any of our sites. If we learn or have reason to believe that a User is underage according to the guidelines, policies and laws of the Federal Trade Commission, we will promptly revoke that User�s account and delete any personal information.
 
  **ENFORCEMENT**  
 If for some reason you believe LandingPageMonkey.com has not adhered to these principles, please notify us  by certified mail, return receipt requested, 2248 Meridian Boulevard Suite H., Minden, NV 89423, United States. We will do our best to determine and correct the problem promptly. 
@@ -57,7 +57,7 @@ When you buy and install a new product, we may ask you to register your purchase
  **CUSTOMER PROFILES**  
 As mentioned above, every registered customer has a unique personal profile. Each profile is assigned a unique personal identification username, which helps us ensure that only you can access your profile.
 
-When you register, you create your profile, your username and password. It is your passport to seamless travel across your member area, allowing you to download software and order more plug-in modules without having to fill out registration forms with information you've already provided. Even if you switch computers, you won't have to re-register – just use your Registration ID to identify yourself. 
+When you register, you create your profile, your username and password. It is your passport to seamless travel across your member area, allowing you to download software and order more plug-in modules without having to fill out registration forms with information you've already provided. Even if you switch computers, you won't have to re-register � just use your Registration ID to identify yourself. 
 
 **WHAT WE DO WITH THE INFORMATION YOU SHARE**  
 When you join us, you provide us with your contact information, including your name and email address. We use this information to send you updates about your order, questionnaires to measure your satisfaction with our service and announcements about new and exciting services that we offer. When you order from us, our 3rd party payment processors such as PayPal ask for your credit card number and billing address. They use this information only to bill you for the product(s) you order at that time. 
