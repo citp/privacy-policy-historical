@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gftuk.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235328id_/http%3A//www.forex.com/uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gftuk.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531021243id_/http%3A//www.forex.com/uk/privacy-policy.html) for the most accurate reproduction.*
 
 # GAIN Capital Group's Privacy Policy | FOREX.com UK
 
