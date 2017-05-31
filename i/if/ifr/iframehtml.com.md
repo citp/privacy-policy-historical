@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iframehtml.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125190450id_/http%3A//www.iframehtml.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iframehtml.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531124258id_/http%3A//www.iframehtml.com/privacy.html) for the most accurate reproduction.*
 
 # Set Browser - Browser Shortcuts
 
