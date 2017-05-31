@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homegardenpro.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129061756id_/http%3A//www.homegardenpro.com/serv/homegardenpro/buyer/Content.jsp%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homegardenpro.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531030432id_/http%3A//www.homegardenpro.com/serv/homegardenpro/buyer/Content.jsp%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
 
 # HomeGardenPro - Privacy Policy
 
