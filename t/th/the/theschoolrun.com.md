@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theschoolrun.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126164929id_/http%3A//www.theschoolrun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theschoolrun.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531235104id_/http%3A//www.theschoolrun.com/privacy-policy) for the most accurate reproduction.*
 
 # TheSchoolRun's privacy policy | TheSchoolRun
 
@@ -31,11 +31,7 @@ Other information we may keep:
 
 We will never collect sensitive information about you without your explicit consent.
 
-The information we hold will be accurate, relevant and up to date. You can check the information that we hold about you by emailing us at 
-
-[enquiries@theschoolrun.com](mailto:enquiries@theschoolrun.com)
-
-. If you find any inaccuracies we will delete or correct them promptly. The Access to Information Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+The information we hold will be accurate, relevant and up to date. You can check the information that we hold about you by emailing us at [enquiries@theschoolrun.com](mailto:enquiries@theschoolrun.com). If you find any inaccuracies we will delete or correct them promptly. The Access to Information Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
 All personal information will be held in accordance with our internal security policy and the law. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
@@ -71,8 +67,4 @@ Our site may, from time to time, contain links to and from the websites of our p
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email.
 
-If you have any questions or comments about privacy, please email us at 
-
-[enquiries@theschoolrun.com](mailto:enquiries@theschoolrun.com)
-
-.
+If you have any questions or comments about privacy, please email us at [enquiries@theschoolrun.com](mailto:enquiries@theschoolrun.com).
