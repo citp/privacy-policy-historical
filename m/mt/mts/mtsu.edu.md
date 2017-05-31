@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtsu.edu privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126135648id_/http%3A//www.mtsu.edu/policies/general-policies/I-03-05.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtsu.edu privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531174835id_/http%3A//www.mtsu.edu/policies/general-policies/I-03-05.php) for the most accurate reproduction.*
 
 # I:03:05 Privacy of Information | Middle Tennessee State University
 
@@ -26,15 +26,15 @@ C. The Individual’s Right to Know: While most employment-related records are p
 
 **III. STUDENT AND EMPLOYEE RECORDS**
 
-A. Student Records: With regard to students’ educational records, MTSU adheres to the federal Family Educational Rights and Privacy Act of 1974 (“FERPA”). [MTSU Policy III:00:01 Access to Educational Records](http://www.mtsu.edu/policies/student-affairs/III-00-01.php) and FERPA provide students with the right to inspect and review education records, the right to seek to amend these records, and to limit disclosure of information from the records. 
+A. Student Records: With regard to students’ educational records, MTSU adheres to the federal Family Educational Rights and Privacy Act of 1974 (“FERPA”). [MTSU Policy III:00:01 Access to Educational Records](https://web.archive.org/policies/student-affairs/III-00-01.php) and FERPA provide students with the right to inspect and review education records, the right to seek to amend these records, and to limit disclosure of information from the records. 
 
-1\. The release of student information in any medium (including the internet), therefore, should be done only in accordance with FERPA and [MTSU Policy III:00:01](http://www.mtsu.edu/policies/student-affairs/III-00-01.php). 
+1\. The release of student information in any medium (including the internet), therefore, should be done only in accordance with FERPA and [MTSU Policy III:00:01](https://web.archive.org/policies/student-affairs/III-00-01.php). 
 
 a. Students have the right to restrict release of directory information as outlined in MTSU Policy III:00:01. 
 
 b. Records are retained in accordance with [Tennessee Board of Regents Guideline G-070](https://policies.tbr.edu/guidelines/records-retention-and-disposal-records "G-070") and the American Association of Collegiate Registrars and Admissions Officers (AACRAO) guidelines. 
 
-B. Employee Records: The Office of Human Resource Services maintains the official personnel files for the employees, except faculty. Official faculty personnel files are maintained in the Provost Office. [See MTSU Policy IV:07:17 Personnel Records](http://www.mtsu.edu/policies/business-and-finance/IV-07-17.php). With the exception of records that include medical information or other confidential information, all Human Resource Services information is public and accessibility is granted in compliance with [MTSU Policy I:03:01 Public Records – Inspecting/Copying Public Records](http://www.mtsu.edu/policies/general-policies/I-03-01.php). 
+B. Employee Records: The Office of Human Resource Services maintains the official personnel files for the employees, except faculty. Official faculty personnel files are maintained in the Provost Office. [See MTSU Policy IV:07:17 Personnel Records](https://web.archive.org/policies/business-and-finance/IV-07-17.php). With the exception of records that include medical information or other confidential information, all Human Resource Services information is public and accessibility is granted in compliance with [MTSU Policy I:03:01 Public Records – Inspecting/Copying Public Records](https://web.archive.org/policies/general-policies/I-03-01.php). 
 
 **IV. WEB AND SOCIAL MEDIA SITES**
 
@@ -92,23 +92,23 @@ I. Google Analytics: Some MTSU websites use Google Analytics, a web analytics se
 
 Several current MTSU policies are directly or indirectly related to information privacy issues, illustrating the nature and complexity of the topic. These include the following: 
 
-A. [I:01:24 Protection of Human Subjects in Research](http://www.mtsu.edu/policies/general-policies/I-01-24.php)
+A. [I:01:24 Protection of Human Subjects in Research](https://web.archive.org/policies/general-policies/I-01-24.php)
 
-B. [I:03:03 Information Technology Resources](http://www.mtsu.edu/policies/general-policies/I-03-03.php)
+B. [I:03:03 Information Technology Resources](https://web.archive.org/policies/general-policies/I-03-03.php)
 
-C. [I:03:06 Information Security](http://www.mtsu.edu/policies/general-policies/I-03-06.php "I:03:06")
+C. [I:03:06 Information Security](https://web.archive.org/policies/general-policies/I-03-06.php "I:03:06")
 
-D. [I:03:10 Social Networking and Media](http://www.mtsu.edu/policies/general-policies/I-03-10.php)
+D. [I:03:10 Social Networking and Media](https://web.archive.org/policies/general-policies/I-03-10.php)
 
-E. [II:01:10 Misconduct in Scholarly Activities and Research](http://www.mtsu.edu/policies/academic-affairs/II-01-10.php)
+E. [II:01:10 Misconduct in Scholarly Activities and Research](https://web.archive.org/policies/academic-affairs/II-01-10.php)
 
-F. [III:04:00 Guidance and Counseling Center](http://www.mtsu.edu/policies/student-affairs/III-04-00.php)
+F. [III:04:00 Guidance and Counseling Center](https://web.archive.org/policies/student-affairs/III-04-00.php)
 
-G. [IV:07:02 Conditions of Employment](http://www.mtsu.edu/policies/business-and-finance/IV-07-02.php)
+G. [IV:07:02 Conditions of Employment](https://web.archive.org/policies/business-and-finance/IV-07-02.php)
 
 **VI.  DISCIPLINARY ACTIONS**
 
-Employees who access files or browse data of others, or access any information technology resources for personal gratification or unauthorized dissemination of information obtained from these resources, may have violated the privacy of others. If so, such behaviors are subject to disciplinary actions that are in proportion to the nature of the offense. MTSU Policy [IV:07:10 Disciplinary Procedures – Classified Personnel](http://www.mtsu.edu/policies/business-and-finance/IV-07-10.php) and [II:01:05A Policies and Procedures for Tenure](http://www.mtsu.edu/policies/academic-affairs/II-01-05A.php) prescribe disciplinary actions and processes. In cases where employees dispute a charge, they may respond based on MTSU Policies  [IV:07:11 Employee Grievance/Complaint Procedures](http://www.mtsu.edu/policies/business-and-finance/IV-07-11.php) or [II:01:05C Tenure and Promotion Appeals Process](http://www.mtsu.edu/policies/academic-affairs/II-01-05C.php). Refer to the Student Handbook for disciplinary actions regarding students. 
+Employees who access files or browse data of others, or access any information technology resources for personal gratification or unauthorized dissemination of information obtained from these resources, may have violated the privacy of others. If so, such behaviors are subject to disciplinary actions that are in proportion to the nature of the offense. MTSU Policy [IV:07:10 Disciplinary Procedures – Classified Personnel](https://web.archive.org/policies/business-and-finance/IV-07-10.php) and [II:01:05A Policies and Procedures for Tenure](https://web.archive.org/policies/academic-affairs/II-01-05A.php) prescribe disciplinary actions and processes. In cases where employees dispute a charge, they may respond based on MTSU Policies  [IV:07:11 Employee Grievance/Complaint Procedures](https://web.archive.org/policies/business-and-finance/IV-07-11.php) or [II:01:05C Tenure and Promotion Appeals Process](https://web.archive.org/policies/academic-affairs/II-01-05C.php). Refer to the Student Handbook for disciplinary actions regarding students. 
 
 **_Revision: February 8, 2000; March 16, 2004; March 25, 2015._**
 
