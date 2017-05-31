@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4allmemory.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129153431id_/http%3A//www.4allmemory.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4allmemory.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531152117id_/http%3A//www.4allmemory.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | 4AllMemory.com
 
