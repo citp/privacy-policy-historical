@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miamidolphins.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207032709id_/http%3A//www.miamidolphins.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamidolphins.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531054726id_/http%3A//www.miamidolphins.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Miami Dolphins | Privacy Policy
 
@@ -87,7 +87,7 @@ We are committed to maintaining your trust, and we want you to understand when a
   * **Subsidiaries and Affiliates:** We may share your information with the subsidiaries and affiliates of the Miami Dolphins, LTD. including but not limited to South Florida Stadium LLC and Dolphins Cycling Challenge, Inc..  In addition, we may share your information with all members of the NFL Family, including, without limitation, NFL Properties LLC, NFL International LLC, NFL Enterprises LLC, NFL Ventures, L.P., and NFL Ventures, Inc.
 
 
-  * **Select Business Partners:**   your information with select business partners so that they can provide you with special offers, promotional materials, and other materials that may be of interest to you. We take measures to help ensure that our partners protect the confidentiality, integrity, and security of any information we share with them.  However, we are not responsible for the privacy practices of our business partners, which may use your information for their own purposes. 
+  * **Select Business Partners:** We may share your information with select business partners so that they can provide you with special offers, promotional materials, and other materials that may be of interest to you. We take measures to help ensure that our partners protect the confidentiality, integrity, and security of any information we share with them.  However, we are not responsible for the privacy practices of our business partners, which may use your information for their own purposes. 
 
 
   * **Third-Party Ad Serving and Audience and Traffic Measurement Services:** We may use third-parties to serve advertisements on the Services and Traffic Management Services such as Google Analytics. These third parties may set their own cookies or similar web technologies to collect information about users’ online activities over time and across different websites. To manage your preferences you may opt out here http://preferences-mgr.truste.com/.
