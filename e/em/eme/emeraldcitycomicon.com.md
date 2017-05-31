@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emeraldcitycomicon.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125104359id_/http%3A//www.emeraldcitycomicon.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emeraldcitycomicon.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531073507id_/http%3A//www.emeraldcitycomicon.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Emerald City Comicon
 
@@ -89,9 +89,6 @@ url referrer | Reed Exhibitions | Session | If you have arrived at an RX website
 voviciSurvey_invitationDateTime | Reed Exhibitions | 60 minutes | This is another Vovici© cookie. It ensures that a survey is only served to you, after you have been on the site for more than two minutes.  
 voviciSurvey_noInvitations | Reed Exhibitions | 10 years | Vovici© is the company used by RX to supply website surveys, often to elicit feedback on the websites themselves. This cookie remembers when you have completed a survey and prevents it from being served to you again.  
 webtolead.site.[THIS SITE] | Reed Exhibitions | 1 Year | When you have: Submitted a request to attend, exhibit or advertise at an RX show OR Provided your details in order to access premium content on an RX site. This cookie remembers that you have already done so and ensures that you do not have to re-submit your request or re-enter your details.  
-f_hash  | Feathr  | 2 Years  | Feathr is an analytics and digital marketing solution. Feathr helps us determine which content is most active, and associates individuals with the content they consume. This cookie helps Feathr determine whether or not the visitor and page view represent legitimate traffic or potentially come from a bot or search engine crawler.   
-f_id  | Feathr  | 2 Years  | This is another Feathr cookie. It establishes a unique identification per user. It helps Feathr determine number of unique visitors to an RX site as well as to tailor marketing behavior by user.   
-f_opt_out  | Feathr  | 5 Years  | This is another Feathr cookie. It is set when you enable or disable a global opt-out of Feathr's behavioral tracking at <https://feathr.co/opt-out/>. If this cookie exists in the affirmative, all other Feathr cookies are either erased or ignored.   
   
 ## Children’s Privacy
 
