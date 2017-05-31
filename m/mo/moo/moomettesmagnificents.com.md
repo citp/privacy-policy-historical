@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moomettesmagnificents.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324082650id_/http%3A//moomettesmagnificents.com/blog/disclosure-policy/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moomettesmagnificents.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531233805id_/http%3A//moomettesmagnificents.com/blog/disclosure-policy/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement – Moomettes Magnificents
 
