@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ajaxblender.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210073140id_/http%3A//www.ajaxblender.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajaxblender.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531121706id_/http%3A//www.ajaxblender.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy & NDA — ajaxBlender.com
 
@@ -61,7 +61,7 @@ companies, for the purpose of resolving disputes that arise in the normal course
 
 #### Questions/Changes in Policy
 
-If you have questions or concerns with respect to our privacy policy, please feel free to [contact us](https://web.archive.org/web/20161210073140id_/http%3A//www.ajaxblender.com/contact.html). ajaxBlender reserves the right to change, modify, add or remove portions of this policy at any time. Any changes will become effective immediately upon being posted unless stated otherwise.
+If you have questions or concerns with respect to our privacy policy, please feel free to [contact us](https://web.archive.org/web/20170531121706id_/http%3A//www.ajaxblender.com/contact.html). ajaxBlender reserves the right to change, modify, add or remove portions of this policy at any time. Any changes will become effective immediately upon being posted unless stated otherwise.
 
 If elements of this document change, we will post the policy changes in on this Web site. If you are concerned about how your personal information is used, please visit our site often for this and other important announcements about our policies, products and services.
 
