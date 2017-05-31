@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tversity.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120021507id_/http%3A//tversity.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tversity.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531051436id_/http%3A//tversity.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy · TVersity Media Server - Official Site
 
