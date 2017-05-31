@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opensocietyfoundations.org privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015001756id_/https%3A//www.opensocietyfoundations.org/about/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensocietyfoundations.org privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531034221id_/https%3A//www.opensocietyfoundations.org/about/policies/privacy) for the most accurate reproduction.*
 
-# Privacy | Open Society Foundations (OSF)
+# Privacy
 
 _Last updated: August 15, 2012_
 
