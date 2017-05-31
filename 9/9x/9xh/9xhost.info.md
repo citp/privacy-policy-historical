@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9xhost.info privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516211337id_/http%3A//www.9xhost.info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9xhost.info privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531065552id_/http%3A//www.9xhost.net/privacy-policy.html) for the most accurate reproduction.*
 
 # 9xhost - Privacy Policy
 
