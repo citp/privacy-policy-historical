@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funtoosh.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503181913id_/http%3A//www.funtoosh.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funtoosh.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601144648id_/http%3A//www.funtoosh.com/policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Funtoosh.com
 
