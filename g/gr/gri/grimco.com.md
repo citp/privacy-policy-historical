@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grimco.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223130432id_/http%3A//www.grimco.com/Info/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grimco.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602002926id_/http%3A//www.grimco.com/Info/PrivacyPolicy) for the most accurate reproduction.*
 
 # - Grimco.com
 
@@ -8,7 +8,7 @@ We collect information from you when you register on our site, place an order, r
 
 Any of the information we collect from you may be used in one of the following ways:
 
-  * To personalize your experience ((your information helps us to better respond to your individual needs)
+  * To personalize your experience (your information helps us to better respond to your individual needs)
   * To improve our website(we continually strive to improve our website offerings based on the information and feedback we receive from you)
   * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
   * To process transactions 
@@ -25,15 +25,27 @@ Any of the information we collect from you may be used in one of the following w
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) will be kept on file for more than 60 days. 
 
-## Do we use cookies?
+## Tracking Technologies
 
-We do not use cookies.
+### Cookies
 
-## Do we disclose any information to ouside parties?
+Grimco.com may use a variety of tracking technologies such as cookies, statistical IDs or your unique user ID to help us recognize you throughout the site, to monitor usage and web traffic trends, and to customize and improve your experience. 
+
+### Analytics 
+
+**Google Analytics (Google Inc.)**  
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services. Google may use the Data collected to contextualize and personalize the ads of its own advertising network. https://www.google.com/intl/en/policies/privacy/ 
+
+**User ID extension for Google Analytics (Google Inc.)**  
+Google Analytics on this Application makes use of a feature called User ID. This setup allows for a more accurate tracking of Users by associating that User with the same ID over various sessions and devices. It is set up in a way that doesn’t allow Google to personally identify an individual or permanently identify a particular device. The User ID extension might make it possible to connect Data from Google Analytics with other Data about the User collected by this Application. The opt-out link below will only opt you out for the device you are on, but not from tracking performed independently by the Owner. Contact the Owner via the email address provided in this privacy policy to object to the aforementioned tracking as well. 
+
+[Learn more about privacy at Google and to opt-out of this feature by installing the Google Analytics Opt-out Browser Add-on.](http://www.google.com/analytics/learn/privacy.html)
+
+## Do we disclose any information to outside parties?
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
-## Third Pary Inks
+## Third Party Links
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
@@ -41,9 +53,9 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-## Childrens Online Privacy Protection Act Compliance
+## Children's Online Privacy Protection Act Compliance
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 ## Online Privacy Policy Only
 
@@ -53,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms & Conditions](https://www.grimco.com/Info/TermsConditions)
 
-## Your Concent
+## Your Consent
 
 By using our site, you consent to our Grimco's privacy policy.
 
@@ -61,7 +73,7 @@ By using our site, you consent to our Grimco's privacy policy.
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on 6.28.2016.
+This policy was last modified on 4.24.2017.
 
 ## Contacting Us
 
