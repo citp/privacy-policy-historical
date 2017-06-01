@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the retweetrank.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623192224id_/http%3A//www.retweetrank.com/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retweetrank.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601034636id_/http%3A//www.retweetrank.com/view/privacy) for the most accurate reproduction.*
 
 # Retweet Rank - Maximize your social media ROI through actionable analytics
-
-### Hiding your tweets or Retweet Rank profile
-
-Retweet Rank user pages are just another view for your twitter account. If you mark your twitter account as private, your retweets will not show up on your page at retweetrank. If you delete your twitter account, your retweet rank page will go away. If you just marked your account as private or deleted it, it may take upto 24 hours to reflect on retweetrank.com.
 
 ### Privacy Policy
 
