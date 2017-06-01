@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubislate.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121160916id_/http%3A//www.ubislate.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubislate.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601141412id_/http%3A//www.ubislate.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Welcome to Datawind
 
