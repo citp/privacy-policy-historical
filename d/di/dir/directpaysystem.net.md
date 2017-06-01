@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directpaysystem.net privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208173446id_/http%3A//sixfigureempire.com/disclaimers/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directpaysystem.net privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601092705id_/http%3A//sixfigureempire.com/disclaimers/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
