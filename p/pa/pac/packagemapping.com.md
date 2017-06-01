@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the packagemapping.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109140437id_/https%3A//www.packagemapping.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packagemapping.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601062435id_/https%3A//www.packagemapping.com/terms) for the most accurate reproduction.*
 
-# Privacy Policy @ PackageMapping.com
+# None
 
 Thank you for reading this Privacy Notice. This notice applies ONLY to information collected or provided when visiting www.PackageMapping.com public web site or using E-mail. This notice covers the following topics:
 
