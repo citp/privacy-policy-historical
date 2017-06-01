@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faithtap.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212105006id_/http%3A//www.faithtap.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithtap.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601021834id_/http%3A//faithtap.com/privacypolicy.html) for the most accurate reproduction.*
 
 # FaithTap: Privacy Policy
 
