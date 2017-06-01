@@ -1,39 +1,124 @@
-> *The following text is extracted and transformed from the missmalini.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127220658id_/http%3A//www.missmalini.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missmalini.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601113434id_/https%3A//www.missmalini.com/privacy) for the most accurate reproduction.*
 
-# Privacy - MissMalini
+# Privacy | MissMalini
 
-The privacy policy (hereinafter referred to as the “Privacy Policy”) provided below is with respect to our use and protection of any personal information you provide to us through the MissMalini.com website. You may be required to provide personally identifiable information at several different points on our website. By accepting the policy at the time of registration the user expressly approves and consents to our collection, storage, use and disclosure of personal information as described in this Privacy Policy.
+This privacy policy (“ **Policy** ”) forms an electronic contract within the provisions of the Information Technology Act, 2000 and does not require any physical, electronic or digital signature. By visiting this Website the User agrees to be bound by the terms and conditions of this Policy. In the event a User is not agreeable with the terms and conditions hereof, the User is requested to please refrain from using this Website.  
+This Policy shall, at all times be read and construed in consonance and along with theTnC’s.  
+This Policy is subject to change at any time without notice and the Website encourages its Users to review this policy periodically.  
+This Policy highlights inter alia the type of data shared/collected from a User/the Website in the course of the User’s usage of the Website. The Policy further intends to apprise the User of the purposes for which the data of the user is collected and the Website’s policy with regard to sharing such personal information with third party entities.  
+All defined terms used within this Policy but not specifically defined herein shall draw their meaning from the definition ascribed to such term under the TnC’s.  
+**1\. Collection of information**
 
-1\. MissMalini.com respects the privacy of its users and is committed to protecting the personally identifiable information (any information or data by which you can be identified, such as names, addresses, zip/postal codes, email addresses, telephone numbers, credit or debit card details, etc.) that the users share with us, in all respects. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our home page and at every point where personally identifiable information may be requested. We assure that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy.
+The Website may during the course of the User’s usage of the Website collect the following personal and non-personal information and such other information from the Users for accessing the Website (“ **Information** ”), as may be required from time to time. The Information shall be collected in order to conduct operations on the Website.
 
-2\. In general, you can visit MissMalini.com website without telling us who you are or revealing any personal information about yourself. We track the internet address of the domains from which people visit us and analyze this data for trends and statistics, but the individual user remains anonymous. Please keep in mind that whenever you voluntarily disclose any personal information online, for example through e-mail, discussion lists, forums, blogs, reviews or elsewhere, that information can be collected and used by others.
+1.1. Personal information:
 
-3\. MissMalini.com feels strongly about protecting the privacy of children and encourages children to involve their parents in any interactive activity they participate in online. If you are 16 years or younger and we collect your age through the registration process, you are not eligible to use this website. If you are under 16, MissMalini.com encourages you to use this website only with the help and in the presence of your parents or guardians of legal age.
+(i) Name of the User;
 
-4\. MissMalini.com may use the information in its databases, including personal information you’ve submitted, and other server and usage logs, to analyze the site and user behavior, troubleshoot technical problems, resolve disputes and address complaints, and prepare aggregated reports that are shared with others, including the management of MissMalini.com.
+(ii) Phone number (mobile and/or residence and/or alternative) of the User;
 
-5\. To improve the responsiveness of the websites for our users, some of our webpages may use “cookies”, or similar electronic tools to collect information to assign each visitor a unique random number to understand the user’s individual interests using the identified computer. Cookies are small text files that are stored on the hard drive of the user’s computer and are used for record-keeping purposes and are identifiers, which a website can send to your browser to keep on your computer to facilitate your next visit to our website. You can however choose to accept or refuse the cookies by changing the settings of your browser accordingly. If you choose not to accept these cookies, your experience at our website and other websites may be diminished and some features may not work as intended. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. The information we collect and analyze is used to improve our service to you. A cookie cannot read data off your hard drive. Advertisers may also assign their own cookies to your browser (if you click on their advertisements), and we do not control use of these cookies and disclaim any responsibility whatsoever for information collected through them.
+(iii) Gender of the User;
 
-6. There are times when we may collect personal information from you such as name, emails, physical address and/or telephone number. Generally, you will have the option not to provide such information, and in the future you will be able to “opt out” of certain uses of the information. If you choose not to provide the information we request, you can still visit MissMalini.com, but you may be unable to access certain options, offers and services.
+(iv) Date of birth of the User;
 
-7\. Our web servers automatically collect limited information about your computer’s connection to the Internet, including your IP address, when you visit our site (Your IP address is a number that lets computers attached to the internet know where to send you data, such as the web pages you view). Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come.
+(v) Address (official/residence/other) of the User;
 
-8\. From time to time, we may conduct online surveys or run a contest for promotional purposes, during which, we may ask users for contact information (like email addresses) and demographic information (like zip code, age, or income level). We use contact data to notify people if they win the contest. We understand, though, that you may want to participate in these surveys or contests but may not want us to send you an email. Accordingly, as part of these surveys or contests, we will always give you the option of declining to receive information from MissMalini.com.
+(vi) Email Id (primary/alternative) of the User;
 
-9\. MissMalini.com contains many links to other websites. For instance, we use third-party advertising companies to serve ads when you visit our website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Such third party sites are governed by their respective privacy policies and MissMalini.com is not responsible for the privacy practices or the content of such websites. Once you leave our servers, use of any information you provide is governed by the Privacy Policy of the operator of the site you are visiting. That policy may differ from ours. If you cannot find the Privacy Policy of any of these sites via a link from the site’s homepage, you should contact the site directly for more information. MissMalini.com does not share any of the individual personal information you provide with the sites to which MissMalini.com links, although MissMalini.com may share aggregate data with such sites (such as how many people use our site). This includes other third party sites on the Internet for which MissMalini.com provides search services.
+(vii) Credit and/or Debit card details including card number, date of expiry, CVV or CVV2 number, password, and name on the card of the User;
 
-10\. MissMalini.com will take appropriate steps to protect the information you share with us. We have implemented technology and security features and strict policy guidelines to safeguard the privacy of your personally identifiable information from unauthorized access and improper use or disclosure. MissMalini.com will continue to enhance its security procedures as new technology becomes available.
+(viii) Other details of the User, where applicable;
 
-11\. All information gathered on MissMalini.com is securely stored within the MissMalini.com (controlled) database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. However, any information you include in a posting to the discussion areas becomes public information and is available to anyone with internet access.
+(ix) Personal information received from social networking sites through which the User has registered to the Website including name, profile picture, email address or friends list, and any information made public in connection with that social media service;
 
-12\. MissMalini.com will not sell, rent, share, trade or disclose to third parties any information derived from the registration for, or use of, any online service offered by MissMalini.com without the consent of the user or customer, except if such disclosure is required by law or is pertinent to judicial or governmental investigations or proceedings including search warrants, or to help investigate, prevent or take action regarding unlawful activities, suspected fraud, potential threat of security of any person, violation of our website use or defend legal claims; special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or agencies requiring such disclosure or any other legal process or in the case of imminent physical harm to the user or others. You also consent to MissMalini.com disclosing information about you to actual or potential parties to a lawsuit that MissMalini.com is or may become involved in (a) if it is required to do so, (b) if it reasonably believes that such disclosures will potentially mitigate its liability, or (c) to enforce its rights.
+(x) Internet protocol(IP) address of the User;
 
-13\. Circumstances may also arise where we are required to disclose your personal information (including our associated customer lists), to third parties for purposes other than to support your customer relationship with MissMalini.com, such as in connection with a corporate divestiture or dissolution or to its subsidiaries or parent company (if any), or to a potential acquirer or merger partner, in which case MissMalini.com will ask such entities to honour this Privacy Policy. In addition, as part of a diligence review, MissMalini.com would try to restrict the disclosure of such information.
+(xi) Any other personal data or information of the User as may be stated in the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data of Information) Rules, 2011 enacted under the Information Technology Act, 2000; and
 
-14\. Specific uses of personal information that vary from this Privacy Policy (if any) may be found throughout the site. To the extent that, during your submission of information on the site, you are notified of privacy practices that are different from those described in this Privacy Policy, those alternative disclosures will govern that submission. A site and service as complicated as MissMalini.com is never perfect, and thus MissMalini.com may inadvertently make uses or disclosures of your information in ways not contemplated by, or in direct contravention of, this Privacy Policy. For example, if the software has a temporary glitch, your personal information could be displayed on the site even though you’ve configured your preferences otherwise. MissMalini.com might also make ad hoc uses of your information in ways it can’t contemplate here. MissMalini.com will do its best to work with you if these types of situations arise, but your sole remedy in these cases is to have MissMalini.com try to rectify the problem as soon as it can.
+(xii) Such other information that may be required to access and operate the Website
 
-15\. If our Privacy Policy changes in the future, it will be posted here and a new effective date will be shown. You are advised to access our Privacy Policy regularly to ensure that you understand our current policies. MissMalini.com reserves all rights to revise, amend, modify or change this Privacy Policy in its sole discretion, from time to time and in any manner it deems appropriate.
+1.2. Non-personal information:
 
-16\. Please also visit our Terms of Use section establishing the use, disclaimers and limitations of liabilities governing the use of our website at Terms of Use.
+(i) Details of internet or telecom service provider of the User;
 
-17\. Any questions or clarifications with respect to this Privacy Policy can be sent to MissMalini.com using our [contact page](http://beta.missmalini.com/contact-us "Contact Us") or addressed to MissMalini Publishing Pvt Ltd, Amardeep, Suite #4, 1st Floor, 17th North Ave., Santacruz West, Mumbai, Maharashtra, India 400054. MissMalini.com will attempt to respond to all reasonable concerns or inquiries.
+(ii) Location of a User;
+
+(iii) Type of internet browser being used by the User; and
+
+(iv) Such other information that may be required to access and operate the Website
+
+1.3. Please be advised that in addition to the above, the duration of use of the Website by the User may also be logged and stored by the Website.
+
+1.4. The Information may be collected and/or stored in electronic form, however, the Website is hereby authorized by the User to collect/store such information is physical form as well.
+
+1.5. The Website may share the Information of a User with any third party entities subject to such entities adopting reasonable safety standards with respect to the use of such Information.
+
+ **2\. Representation and Warranties**  
+Every User hereby represents and warrants to the Website that:  
+a) all Information derived are true, correct, current and updated;
+
+b) all Information derived from in relation to the Products do not belong to any third party, and if they do belong to a third party, the User is duly authorized by such Third Party to use, access and disseminate such Information;
+
+c) storage, collection, usage, transfer, access or processing of the same shall not be in violation of any third party agreement, laws, charter documents, judgments, orders and decree;
+
+d) the officers, directors, contractors or agents of the Website shall not be responsible in any manner whatsoever with regard to the authenticity or veracity of the Information that a User may provide to the Website; and
+
+e) the User shall indemnify and hold harmless the Website and each of the Website’s officers, directors, contracts or agents and any third party relying on the Information provided by the User in the event the User is in breach of this Policy;
+
+ **3\. Purpose and use of information**  
+All Information collected/stored by the Website shall be used for:  
+a) providing information about new products, existing products and offers to the Users;
+
+b) to promote, advertise, market products of new sellers operating on the Website and continually improve the existing product and service offerings;
+
+c) to conduct research and surveys for business development;
+
+d) to implement the necessary security practices to ensure that all personal data are protected;
+
+e) to administer the User accounts in normal course of business;
+
+f) to contact the Users in case where fraud, illegal activities or breach of privacy is recorded;
+
+g) to enable a future investor to analyze the business of the Website; and
+
+h) such other purposes at the Website, at its sole discretion, however subject to the principles contained in this Policy, may deem fit.
+
+ **4\. Sharing of information**
+
+4.1. Every User hereby expressly agrees and that the Website may share the Information collected from the them with its affiliates, employees, agents, third party service provider, sellers, suppliers, banks, payment gateway operators (if any) and such other individuals and institutions located within or outside India from time to time to ensure efficient management of User accounts and such other purposes as the Website may deem fit, including to detect and prevent identity theft and other illegal acts, to provide specialized, respond to legal, judicial, quasi judicial law enforcement agencies or in connection with an investigation on matters related to public safety.
+
+4.2. Every User hereby represents and warrants that that sharing of such Information shall not cause any wrongful loss/gain or damage to either the User or to any third party.
+
+ **5\. Third party website links**
+
+The Website may contain links that will redirect the Users to third party websites that may have access to the personal information of the User to which this Policy shall not be applicable. Thereby every User agrees and acknowledges that accessing third party websites through links provided in the Website will solely be at the User’s discretion. Additionally, the Website shall under no circumstance be held liable for breach of privacy by such third party website nor shall it be liable for any objectionable content that may be displayed on such third party website.
+
+ **6\. Protection of Information**
+
+6.1. The Website understands and acknowledges the importance of security and protection of the Information provided by and/ or collected from the Users. Pursuant to the same the Website shall make the best efforts to ensure protection of Information by use of such security measures and programmes that it may deem fit for the purpose. The Website shall employ best efforts to protect the Information against any unauthorized, illegal and fraudulent use of such Information by third parties.
+
+6.2. Notwithstanding anything to the contrary, the Website shall not be held responsible for any loss, damage or misuse of the Information caused to the User, if such loss, damage or misuse is attributable to a force majeure event.
+
+6.3. The Website shall adopt appropriate encryption and security measures to prevent any hacking of the information of the Users and third parties and shall ensure that the User shall not be required or asked to disclose any Information, which may be prejudicial to interests of the User.
+
+6.4. The Website shall use the Information collected from the Users in accordance with applicable laws including but the Information Technology Act, 2000 and the rules made there under and use the data only for the purpose of completing the transaction for which it was furnished, and shall not sell or otherwise furnish such information.
+
+6.5. All information pertaining to payment instruments like debit card, credit card and other instruments shall be stored in compliance with industry standards/ recommended data security standard for security of financial information such as the Payment Card Industry Data Security Standard (PCI-DSS).
+
+6.6. The User agrees and acknowledges that the Website shall be entitled to share the Information with third party entities for such purposes as it may deem fit, however, such sharing of information shall be subject to such third parties being bound by appropriate data protection provisions.
+
+ **7\. Withdrawal of Information**
+
+7.1. All Information provided and/ or collected by the Website may be withdrawn at any time during or pursuant to usage of the Website by a User.
+
+7.2. Users desirous of withdrawing the Information shall send an email to the Grievance Officer and request for such withdrawal.
+
+ **8\. Grievance Redressal**
+
+8.1. The User may, report violation of breach of privacy, Information or identity theft or grievances in relation to the Information shared, collected, stored or disseminated in accordance with this Policy, to the Grievance Officer appointed by the Website in accordance with the Information Technology Act, 2000 at the following:
+
+Grievance Redressal  
+Attn : Grievance Officer  
+Address : Amardeep, 3rd Floor, 17th North Ave, Santacruz West, Mumbai 400054, India  
+Phone Number : (+91) (22) 2661 2022  
+E-Mail Address : info@missmalini.com
