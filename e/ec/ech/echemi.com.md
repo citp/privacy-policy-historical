@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the echemi.com privacy policy that was archived on 2016-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160912010406id_/http%3A//www.echemi.com/cmsShow/cmsShow.html%3FcmsType%3D4%26cmsId%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the echemi.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601030050id_/http%3A//www.echemi.com/privacy.html) for the most accurate reproduction.*
 
-# Make Chemical Transaction Easier_Echemi.com
+# Optimize the Global Chemical Resources_Echemi.com
 
 Welcome to visit ECHEMI.COM! We promise to protect visitors privacy by this Privacy Policy. The following words is published the situation of using & collecting information by us (Echemi.com).  Our Privacy Policy is updating whenever necessary. We welcome you look over this policy at any time, and response your valuable comments to info@echemi.com
 
