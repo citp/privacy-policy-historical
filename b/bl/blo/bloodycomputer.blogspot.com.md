@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloodycomputer.blogspot.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227052037id_/http%3A//bloodycomputer.blogspot.com/2007/07/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloodycomputer.blogspot.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601065824id_/http%3A//bloodycomputer.blogspot.com/2007/07/privacy-policy.html) for the most accurate reproduction.*
 
 # Bloody Computer!: Privacy Policy
 
