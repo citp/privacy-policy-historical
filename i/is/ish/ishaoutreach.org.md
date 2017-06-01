@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the ishaoutreach.org privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020111948id_/http%3A//ishaoutreach.org/projects/49) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ishaoutreach.org privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601153746id_/http%3A//www.ishaoutreach.org/projects/49) for the most accurate reproduction.*
 
 # Copyright & Privacy
 
-#### Copyright Information and Privacy Policy (updated 12/18/2009)
+#### Copyright Information and Privacy Policy (updated 11/02/2016)
 
 This is the website of Isha Outreach. Our postal address is:
 
 #### India:
 
 Isha Outreach  
-23/7 Raja nagar,   
-IInd street , Sowripalayam,  
-Coimbatore-641 028, INDIA  
+17,Govindasamy Naidu Layout, Singanallur  
+Coimbatore - 641 005, INDIA  
 Email us at [info@ishaoutreach.org](mailto:info@ishaoutreach.org)   
 Telephone us at +91(422)2580186.
 
@@ -47,21 +46,35 @@ Isha Outreach reserves the right to change our policy regarding how visitor info
 
 When we request certain types of sensitive information, such as health or financial information, we will notify visitors through a pop-up screen and redirect them to a secure server. Other transactions regarding sensitive information will also be performed using a secure server.
 
-If you feel that this website is not following this privacy policy, you may contact us at the addresses or telephone numbers provided above. Copyright Information and Privacy Policy (updated 12/18/2009), This is the website of Isha Outreach. Our postal address is:
-
-Isha Outreach  
-23/7 Raja Nagar,  
-2nd Street , Sowripalayam,  
-Coimbatore-641 028, INDIA  
-Email us at [info@ishaoutreach.org](mailto:info@ishaoutreach.org)   
-Telephone us at +91(422)2580186.
+If you feel that this website is not following this privacy policy, you may contact us at the addresses or telephone numbers provided above.
 
 #### Refund Policy for online donations:
 
 Donation made online will not be refunded under any circumstances whatsoever.
 
-#### [ IOR FCRA Disclosure for the Fiscal Year 2015](http://www.ishaoutreach.org/docs/IOR-FCRA-Financials-2015.pdf)
+  
 
-#### [ IOR FCRA Disclosure for Quarterly Report Year 2015](http://www.ishaoutreach.org/docs/IOR-FCRA-Rcpts-Q3-2016.pdf)
 
-#### [ IOR FCRA Disclosure for Quarterly Report Year January to March 2016](http://www.ishaoutreach.org/docs/IOR_FCRA_Rcpts_Q4_2016.pdf)
+_FCRA Disclosure Reports_
+
+**FCRA 2014-15 :**
+
+#### [Audited Financials 2014-15](http://www.ishaoutreach.org/docs/IOR-FCRA-Financials-2015.pdf)
+
+**FCRA 2015-16 :**
+
+#### [Quarter 3 - Oct 1, 2015 to Dec 31, 2015](http://www.ishaoutreach.org/docs/IOR-FCRA-Rcpts-Q3-2016.pdf)
+
+#### [Quarter 4 - Jan 1, 2016 to Mar 31, 2016](http://www.ishaoutreach.org/docs/IOR_FCRA_Rcpts_Q4_2016.pdf)
+
+#### [Audited Financials 2015-16](http://www.ishaoutreach.org/docs/IOR-FCRA-Financials-2016.pdf)
+
+**FCRA 2016-17 :**
+
+#### [Quarter 1 - Apr 1, 2016 to Jun 30, 2016](http://www.ishaoutreach.org/docs/IOR-FCRA-Rcpts-Q1-2016-17.pdf)
+
+#### [Quarter 2 - Jul 1, 2016 to Sep 30, 2016](http://www.ishaoutreach.org/docs/IOR-FCRA-Rcpts-Q2-2016-17.pdf)
+
+#### [Quarter 3 - Oct 1, 2016 to Dec 31, 2016](http://www.ishaoutreach.org/docs/IOR-FCRA-Rcpts-Q3-2016-17.pdf)
+
+#### [Quarter 4 - Jan 1, 2017 to Mar 31, 2017](http://www.ishaoutreach.org/docs/IOR-FCRA-Rcpts-Q4-2016-17.pdf)
