@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the affiliatebloggerpro.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126061440id_/http%3A//affiliatebloggerpro.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatebloggerpro.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601214031id_/http%3A//affiliatebloggerpro.com/privacy-statement) for the most accurate reproduction.*
 
-# Affiliate Blogger PRO » Privacy
+# Privacy
 
 Thank you for visiting AffiliateBloggerPro (“Affiliate Blogger Pro”) e-commerce Internet web site (“Site”) located at the URL www.affiliatebloggerpro.com. This Privacy Policy details certain policies implemented throughout Affiliate Blogger Pro governing Affiliate Blogger Pro’s use of personally identifiable information provided to Affiliate Blogger Pro via this Site.
 
@@ -50,6 +50,3 @@ Affiliate Blogger Pro provides you with the ability to review, correct and delet
 If you have any questions regarding this Privacy Policy please contact us or via email at: privacy@affiliatebloggerpro.com.
 
 This Privacy Policy is effective as of: July 14, 2009
-
-  
-
