@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friv.rest privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127225934id_/http%3A//friv.rest/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friv.rest privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601054244id_/http%3A//friv.rest/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Friv Games - Juegos Friv , Jogos Friv , Jeux de Friv
 
@@ -30,4 +30,4 @@ To disable cookies, do it through your individual browser options or settings.
 
 **Links**
 
-All the websites to which we hyperlink are responsible for their own privacy policy. Be aware of them and make sure to read all the lines of their privacy policy to know their specific conditions. This privacy statement applies solely to this website.
+All the websites to which we hyperlink are responsible for their own privacy policy. Be aware of them and make sure to read all the lines of their privacy policy to know their specific conditions. This privacy statement applies solely to this website. 
