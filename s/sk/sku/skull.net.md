@@ -1,27 +1,48 @@
-> *The following text is extracted and transformed from the skull.net privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520001941id_/http%3A//www.ebusinessdomains.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skull.net privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601084134id_/http%3A//www.widest.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – eBusinessDomains
+# Privacy Policy | Widest
 
-Widest Media (eBusinessDomains.com) is deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.
+[](http://www.widest.com/)
 
-### Consumer Information
+You are here: [Home](http://www.widest.com/ "Widest") / Privacy Policy
 
-During the process of delivering our content and information to you, we may collect some personally identifiable information about you such as name, address, phone number, or e-mail address. We may also obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). This non-personally identifiable information collected by us is used for the purpose of analyzing our traffic and sometimes for targeting ads.
+### Privacy and Cookies Policy
 
-When you place a domain name or website for sale on our site, we may collect certain personal information to identify you, and to assist you in selling your site. We will not disclose your personal information to third parties without your permission, except in the following circumstances: (i) to protect ourselves from liability; or (ii) to respond to a legal process or comply with the law.
+Our Commitment  
+At Widest.com we understand how serious you are about protecting your private information. We’re serious about it, safeguarding your information too. To help you understand our privacy policies better, we’ve chosen to explain it below in plain English. That way, you can feel comfortable that we are just as dedicated to your privacy as we are to ours.
 
-### Cookies
+The bottom line is that any information we collect from you remains completely private unless you give us permission to give it to another website. We do not knowingly collect private information from children, and we don’t sell your information to any other websites for any reason. If you have any questions about our privacy policy, please contact us via email by using the form on the Contact page.
 
-eBusinessDomains.com, as well as most sites on the Internet, use cookies to enhance your experience on the Internet. Generally, we cannot use these cookies to personally identify you in any way. The only time we can use cookies to personally identify you is when you use the password-protected areas of eBusinessDomains.com and you choose to enable cookie identification. Basically, we use cookies to allow you to enjoy our site more and to make your visit to our site easier. While we believe that cookies enhance your Internet experience, they are not required to use our site.
+Our computers collect non-personally identifiable data (your IP address, how often you visit our site, which pages you visit, etc.) each time you visit Widest.com. We use this information to make the site better and easier to use.
 
-If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser’s Help documentation for more information.
+We do not collect or hold any booking information, or payment details. We will only collect personally identifiable data (your name, email address, phone number, etc.) on forms YOU complete. This information might be used for promotions, specials, or to contact you when you have a question. YOU are in complete control of what personally identifiable information you give us.  
+Use of Collected Information
 
-### Third Party Ads
+We will never sell your information to anyone else, including other websites or spammers. However, if we have another company help us perform some function of our website, we will give them only the information needed to perform the function, and they are prohibited from using the information in any other way.
 
-At times Widest Media works with third parties that serve ads to and on eBusinessDomains.com. Some of these third parties may also use cookies in conjunction with their ads. Widest Media may also work with advertisers who may collect information that you would voluntarily provide to them. Please refer to those advertisers individual privacy policies for information on how they manage the privacy of information.
+Also, we might share your non-personally identifiable data with third party advertisers – that’s folks who want to advertise on our website in order to offer you products and services that, as a world traveller, you might like.
 
-### Opting Out
+Finally, we may disclose personal information if required to by law or if we believe such disclosure is necessary to  
+a) conform to the requirements of the law,  
+b) comply with a legal process served on our Company or the website, and  
+c) protect and/or defend our Company, website, employees, and users.  
+Children
 
-If, at any time, you no longer wish to receive the information you originally requested to receive from us, please contact us and we will remove your information from our system.
+Widest.com does not knowingly collect any information from children.
 
-If you have any additional questions or concerns about our dedication to consumer privacy, please do not hesitate to contact us.
+Cookies  
+Cookies are a standard Internet technology, a small text file that is put on your hard drive by the server that hosts a web page. Cookies cannot be used to gain control of your computer or to put a virus on your computer. No one else can read our cookies, and we only use them to improve the quality of our service to you. Your Internet browser was probably originally set up to accept cookies, but you can always reset it to refuse them or to ask you each time a site tries to put one on your computer. Please note, if you don’t let us install our cookie on your computer, you can still use the Widest.com website, but some parts of it might not work correctly.
+
+Acquisition  
+If Widest.com is sold merged with another company in the future, your information might be transferred to the new company.
+
+Security  
+Widest.com as highly committed to the security of your computer system as we are to your privacy. We use various types of standard Internet security technologies and procedures to help protect your personal information from unauthorized access, use, and disclosure.
+
+Changes in Privacy Policy  
+Widest.com might choose to update our privacy policy occasionally. If we do, we will post a notice on the website so you can review any changes and how they might affect you. Also, please review this page from time to time to make sure you haven’t missed any such notices. By continuing to use Widest.com, you are agreeing to this privacy policy and any updates we make to it.
+
+Effective Date  
+This Privacy Statement is effective as of February 1, 2016.
+
+Scroll to top
