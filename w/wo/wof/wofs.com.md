@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wofs.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201083410id_/http%3A//www.wofs.com/index.php%3Foption%3Dcom_jumi%26fileid%3D29) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wofs.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601121402id_/http%3A//www.wofs.com/index.php%3Foption%3Dcom_jumi%26fileid%3D29) for the most accurate reproduction.*
 
 # Privacy
 
