@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telecomgyaan.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219173044id_/http%3A//telecomgyaan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telecomgyaan.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602014500id_/http%3A//telecomgyaan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | telecomGyaan
 
@@ -6,7 +6,7 @@ We, at **‘telecomGyaan.com’** , are committed to respecting your online priv
 
 “Personal Information” means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit telecomGyaan.com’s Web pages without telling us who you are or revealing any Personal Information about yourself. 
 
-**How we use Cookies**
+ **How we use Cookies**
 
 A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
@@ -16,7 +16,7 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-**Your Consent**
+ **Your Consent**
 
 This Privacy Policy is incorporated into and subject to the terms of the telecomGyaan.com. By using our Web site and services, you consent to the collection and use of the information described in this Privacy Policy by telecomGyaan.com. If we decide to alter or amend that policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
@@ -24,11 +24,11 @@ Information Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**Links to other websites**
+ **Links to other websites**
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-**DoubleClick DART Cookie** – Google Adsense is our main Third Party Advertiser and
+ **DoubleClick DART Cookie** – Google Adsense is our main Third Party Advertiser and
 
 -Google, as a third party vendor, uses cookies to serve ads on telecomGyaan.com,
 
@@ -36,7 +36,7 @@ Our website may contain links to other websites of interest. However, once you h
 
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html.
 
-**Information Sharing and Disclosure**
+ **Information Sharing and Disclosure**
 
 We use the information we gather on the Web Site, whether personal, demographic, collective or technical, for the purposes of operating and improving the Web Site, fostering a positive user experience, and delivering the products and services that we offer.
 
@@ -46,12 +46,12 @@ We may use your contact information or permit Selected Third Party to use your c
 
 telecomGyaan.com cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Commitment. Therefore, although we are committed to protecting your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. As a user of the Web Site, you understand and agree that you assume all responsibility and risk for your use of the Web Site, the internet generally, and the documents you post or access and for your conduct on and off the Web Site.
 
-**Confidentiality and Security**
+ **Confidentiality and Security**
 
 We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
 
 We have physical, electronic, and procedural safeguards that comply with the laws prevalent in India to protect personal information about you. We seek to ensure compliance with the requirements of the Information Technology Act, 2000 and Rules made thereunder to ensure the protection and preservation of your privacy.
 
-**Changes to this Privacy Policy**
+ **Changes to this Privacy Policy**
 
 The contents of this statement may be altered at any time, at our discretion. The policy shall come to effect from the date of such update, change or modification.
