@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 95rockfm.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012232829id_/http%3A//95rockfm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 95rockfm.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602005105id_/http%3A//95rockfm.com/privacy) for the most accurate reproduction.*
 
-# 95 Rock -- Western Colorado's Best Rock
+# 95 Rock – Western Colorado's Best Rock – Grand Junction Rock Radio
 
 Townsquare Media, Inc. and its subsidiaries and affiliates (individually or collectively, “we/our/us”) respect your privacy and are committed to protecting it through our compliance with this policy. 
 
