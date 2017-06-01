@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the imoderate.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224042042id_/http%3A//www.imoderate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imoderate.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601042542id_/http%3A//www.imoderate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iModerate Qualitative Research Company
 
-This Privacy Policy governs the manner in which iModerate collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://imoderate.com](http://imoderate.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by iModerate.
+This Privacy Policy governs the manner in which iModerate collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://184.72.72.106](http://184.72.72.106/) website (“Site”). This privacy policy applies to the Site and all products and services offered by iModerate.
 
  **Personal identification information**
 
@@ -58,11 +58,11 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
  **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[iModerate](http://imoderate.com/)  
-[http://imoderate.com](http://imoderate.com/)  
+[iModerate](http://184.72.72.106/)  
+[http://184.72.72.106](http://184.72.72.106/)  
 720 South Colorado Blvd. Suite 500 N Denver, CO. 80246  
 (303) 333-7880  
-info@imoderate.com
+info@184.72.72.106
 
 This document was last updated on June 10, 2014
 
