@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teercounter.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228183346id_/http%3A//teercounter.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teercounter.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601191204id_/http%3A//teercounter.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Teer | Shillong | Teer Results Online | Contact Us: TeerCounter.com
 
