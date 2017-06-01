@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csschopper.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127054148id_/http%3A//www.csschopper.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csschopper.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601154657id_/http%3A//www.csschopper.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # CSSChopper's Privacy Policy
 
@@ -49,17 +49,17 @@ Email: [sales@csschopper.com](mailto:sales@csschopper.com)
 
 **SUBSCRIBE for discounts & news **
 
-Rated 4.9 out of 5.0 for CSSChopper service by 9694 clients on over 14000\+ projects.
+Rated 4.9 out of 5.0 for CSSChopper service by 9817 clients on over 14000\+ projects.
 
 ### From the blog
 
-[Responsive web design: Consider 6 points while designing a website](http://www.csschopper.com/blog/responsive-web-design-consider-6-points-while-designing-a-website "Responsive web design: Consider 6 points while designing a website")
+[Reasons To Hire Reputed Web Development Company For Business Site](http://www.csschopper.com/blog/reasons-to-hire-reputed-web-development-company-for-business-site "Reasons To Hire Reputed Web Development Company For Business Site")
 
-Amazing ways for all the businesses enterprises may it be small, medium or big has been opened worldwide due to rapid advancement in web technology. In such scenario, the... [ read more](http://www.csschopper.com/blog/responsive-web-design-consider-6-points-while-designing-a-website)
+Expanding a business online requires a useful business website that can help you get growth of the business across the world. However, it’s much needed to take care of... [ read more](http://www.csschopper.com/blog/reasons-to-hire-reputed-web-development-company-for-business-site)
 
-[CSSChopper Welcomes You to Enjoy 10% Diwali Discount on All Projects](http://www.csschopper.com/blog/csschopper-welcomes-you-to-enjoy-10-diwali-discount-on-all-projects "CSSChopper Welcomes You to Enjoy 10% Diwali Discount on All Projects")
+[Get PSD to Bootstrap 4 with Outstanding Features](http://www.csschopper.com/blog/get-psd-to-bootstrap-4-with-outstanding-features "Get PSD to Bootstrap 4 with Outstanding Features")
 
-Celebrations are in the air. Diwali has knocked the doors and the people are preparing to make the most out of this illuminating eve. CSSChopper also walked on the same... [ read more](http://www.csschopper.com/blog/csschopper-welcomes-you-to-enjoy-10-diwali-discount-on-all-projects)
+Bootstrap is the most popular JS, HTML and CSS framework that creates responsive plus mobile websites on the web to give an alluring feel to the users. Bootstrap 4 holds... [ read more](http://www.csschopper.com/blog/get-psd-to-bootstrap-4-with-outstanding-features)
 
 ### CLIENT ASKED QUESTIONS
 
