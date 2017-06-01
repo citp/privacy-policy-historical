@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdwallpapers.org privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202090124id_/http%3A//www.hdwallpapers.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpapers.org privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602010608id_/http%3A//www.hdwallpapers.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
