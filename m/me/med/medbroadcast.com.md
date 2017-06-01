@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the medbroadcast.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018071608id_/http%3A//www.medbroadcast.com/channel_section_details.asp%3Fchannel_id%3D1031%26relation_id%3D6743%26text_id%3D2229) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medbroadcast.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601085349id_/http%3A//www.medbroadcast.com/channel/about/mediresource-policies/mediresource-privacy-policy) for the most accurate reproduction.*
 
-# MediResource Privacy Policy - MedBroadcast
+# MediResource Privacy Policy - About - MedBroadcast.com
 
 **Welcome**
 
@@ -32,6 +32,10 @@ As you navigate through a Website, certain information can be passively collecte
 
 We are using Google Analytics cookies and have enabled the [Demographics and Interest Reporting](https://support.google.com/analytics/answer/2799357) which provides us with data from Google's Interest-based advertising and 3rd-party audience data (such as age, gender, and interests). This feature allows us to better evaluate who our users are, how their behaviour varies by demographics and interests, and ultimately help us create more appropriate content for our users. You can choose to opt-out of this feature using [Google Ads Settings](https://www.google.com/settings/ads) or [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/). 
 
+We follow industry privacy standards for online advertising. The advertisements displayed on our websites are served through one or more reputable third party advertisement-serving companies, including Google. We are using Google Adsense cookies. You can control advertising cookies from Google by using its Ad Preferences Manager, available here: <https://support.google.com/ads/answer/2662922?hl=en>. If you are interested in more information about tailored browser advertising and how you control cookies from being put on your computer by other companies you can visit <http://youradchoices.ca/>.
+
+We also use the Sovrn third party ad network to serve ads on our site and are using the Sovrn cookies. If you are interested in more information about the Sovrn ad network you can visit <http://www.sovrn.com/>.
+
 **Use and Disclosure of Information**
 
 Except as otherwise stated, we may use your information to improve the content of our site, to customize the site to your preferences, to communicate information to you, for our marketing and research purposes, and for the purposes specified in this Privacy Policy. If you provide personally identifiable information to this site, we may combine such information with other actively collected information unless we specify otherwise at the point of collection. We will take reasonable measures to prevent personally identifiable information from being combined with passively collected information, unless you consent otherwise. We may disclose your personally identifiable information to our affiliates that agree to treat it in accordance with this Privacy Policy. In addition, we may disclose your personally identifiable information to third parties, but only: 
@@ -62,14 +66,14 @@ This site has a number of social media tools (Reddit, Digg, Facebook "like" butt
 
 **Other Terms**
 
-Your use of this site is subject to our [Terms and Conditions](https://web.archive.org/web/20151018071608id_/http%3A//www.medbroadcast.com/channel_section_details.asp?text_id=2230&channel_id=1031&relation_id=6743&rot=5). 
+Your use of this site is subject to our [Terms and Conditions](https://web.archive.org/web/20170601085349id_/http%3A//www.medbroadcast.com/channel/about/mediresource-policies/channel_section_details.asp?text_id=2230&channel_id=1031&relation_id=126600&rot=5). 
 
 **How to Contact Us**
 
 If you have any questions, comments, or concerns about this Privacy Policy or the information practices of this site, please contact us as follows: 
 
 [privacyofficer@mediresource.com](mailto:%20privacyofficer@mediresource.com?subject=Contact%20Privacy%20Officer%20at%20MediResource.com) or  
-[webmaster@mediresource.com](https://web.archive.org/web/20151018071608id_/http%3A//www.medbroadcast.com/contact_us.asp)
+[webmaster@mediresource.com](https://web.archive.org/web/20170601085349id_/http%3A//www.medbroadcast.com/channel/about/mediresource-policies/contact_us.asp)
 
 MediResource Inc.  
 789 Don Mills Road, Suite 400  
@@ -80,3 +84,5 @@ M3C 1T5
 **Changes to This Privacy Policy**
 
 If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on September 18, 2014. 
+
+* * *
