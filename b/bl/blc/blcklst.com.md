@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blcklst.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219161243id_/https%3A//blcklst.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blcklst.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601192323id_/https%3A//blcklst.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Black List
 
@@ -81,5 +81,3 @@ If we decide to change our privacy policy in whole or in part, we will inform yo
 #### Effective Date of Privacy Policy
 
 The privacy policy is effective as of March 13, 2013. 
-
-Last updated: September 9, 2013, to see what has changed [click here](https://web.archive.org/web/20161219161243id_/https%3A//blcklst.com/legal/privacy_policy_previous.html#change). 
