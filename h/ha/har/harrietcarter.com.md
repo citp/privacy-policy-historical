@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the harrietcarter.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630093155id_/http%3A//www.harrietcarter.com/index.cfm/fuseaction/content.page/nodeID/6c002c72-34ac-4daa-99fc-cf3be2f16786) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrietcarter.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601031219id_/http%3A//www.harrietcarter.com/index.cfm/fuseaction/content.page/nodeID/6c002c72-34ac-4daa-99fc-cf3be2f16786) for the most accurate reproduction.*
 
 # Privacy Statement | HarrietCarter.com
 
 HarrietCarter.com has created this privacy statement because we believe you have a right to a safe, secure online shopping experience. We are committed both to protecting your privacy and informing you how information from you will be used. If you still have concerns or questions after reading this policy, please let us know. We'll do all we can to make you feel comfortable at HarrietCarter.com.
 
-  **When I visit HarrietCarter.com, what information is gathered about me and why?**
+ 
+
+**When I visit HarrietCarter.com, what information is gathered about me and why?**
 
   Harriet Carter does collect certain customer information. We use this information to process orders, enhance your shopping experience and communicate with our customers.
 
@@ -22,6 +24,8 @@ HarrietCarter.com has created this privacy statement because we believe you have
 
   Our site does use cookies to keep track of your shopping cart. We also use cookies to help make your shopping experience more enjoyable and if you choose to register with us or request to receive email, we will use cookies to deliver content specific to your interests.
 
+If you do not wish for cookies or pixel tags to be placed on your computer, most commercially available web browsers permit you to prevent that from taking place.
+
   **Who Else Has Access to the Information I Provide to HarrietCarter.com?**
 
  _Mailings_
@@ -30,32 +34,33 @@ Once you make a purchase from HarrietCarter.com your name becomes a part of our 
 
   You may also receive mailings from other carefully screened companies with whom we sometimes share our valued customer list. If you would prefer not to receive these mailings, please send an email to our Customer Service Department, or write us at: Mail Preference Service, Harriet Carter Gifts, Inc., 425 Stump Road, North Wales, PA 19454.
 
-_Email  
-_
+_Email_
 
 Harriet Carter **does not sell or rent your email address**.
 
  _Third Party_
 
-Another form of third party information that may be used is personally identifiable information submitted for another person by you. For instance, if you want to buy a gift for a friend and have it shipped to them. Other than that, HarrietCarter.com does not sell, rent, or give away your personal information to anyone. Also, we may release account information when we believe, in good faith, that such release is reasonably necessary to: 
+Another form of third party information that may be used is personally identifiable information submitted for another person by you. For instance, if you want to buy a gift for a friend and have it shipped to them. Other than that, HarrietCarter.com does not sell, rent, or give away your personal information to anyone. Also, we may release account information when we believe, in good faith, that such release is reasonably necessary to:
 
-1. comply with the law,   
-2. enforce or apply the terms of any of our user agreements or   
+1. comply with the law,  
+2. enforce or apply the terms of any of our user agreements or  
 3. protect the rights, property, or safety of HarrietCarter.com and our users, or others.
 
- _When you complete the mailing address section on “My Account”…  
-_
+We may from time to time contract with third party vendors to serve ads to our customers on our behalf across the Internet or to send our catalogs to customers whom we think may be interested in our products or services. To do this, the vendors will collect anonymous information about your visits to our Web site and your interaction with our products and services. This anonymous information is collected through the use of a cookie or pixel tag – industry standard technology used by most major Web sites. No personally identifiable information is collected in this process. They may also pool the anonymous information that they collect with other sources of information not collected during your visit to our website, which may include your name and mailing address.
 
+By signing up for the Harriet Carter Advantage third party program offered on our Web site, you will be providing your information to the host of that program for the fulfillment and processing of that program's benefits and services.
+
+_When you complete the mailing address section on “My Account”…_  
 If you elect to have HarrietCarter.com retain frequent mailing addresses in our database,  these individual(s) are not considered Harriet Carter customers, and they will not be added to our catalog mailing list.
 
-_When you use the "Email-A-Friend" option...  
-_This unique feature allows you to share information about a particular item or wish list that you think may be interesting to another individual. We do not retain your friend’s name or email address, share their information with outside parties, nor does Harriet Carter contact them.  However, if this individual purchases any of the items from HarrietCarter.com, whether these items appear on your wish list or not, this individual becomes a customer of Harriet Carter and we will include their name on the mailing list of customers for our catalog.
+_When you use the "Email-A-Friend" option..._  
+This unique feature allows you to share information about a particular item or wish list that you think may be interesting to another individual. We do not retain your friend’s name or email address, share their information with outside parties, nor does Harriet Carter contact them.  However, if this individual purchases any of the items from HarrietCarter.com, whether these items appear on your wish list or not, this individual becomes a customer of Harriet Carter and we will include their name on the mailing list of customers for our catalog.
 
-**How Do I Manage How Much Information I Share or if I Share Any At All?  
-**   
-You can opt out of receiving e-mail and other communications from us. Here's how: 
+**How Do I Manage How Much Information I Share or if I Share Any At All?**
 
-• You can send an email to: [customerservice@harrietcarter.com](mailto:customerservice@harrietcarter.com)   
+  You can opt out of receiving e-mail and other communications from us. Here's how:
+
+• You can send an email to: [customerservice@harrietcarter.com](mailto:customerservice@harrietcarter.com)  
 • You can mail your request to the following postal address:  
 Harriet Carter Gifts, Inc.  
 425 Stump Rd  
@@ -79,7 +84,7 @@ Placing an order does not create an account. Creating an account does not automa
   There are certain steps within a normal purchase routine that require the web servers to send an automated email to confirm that a process you requested has been completed. This includes, but is not limited to:
 
 • Emailing your password after you have registered for an account  
-• Emailing a confirmation of your order after your have clicked “submit”  
+• Emailing a confirmation of your order after your have clicked “Place Order”  
 • Emailing information regarding status of a pending order.
 
 These emails are not promotional in nature, they are necessary communications to assure you, our customer, that your order has been received and processed. If you prefer that these required emails are sent to a specific address (for example, you would prefer not to receive these at your place of business) use a personal email address when the forms on the site require one. This includes, but is not limited to:
