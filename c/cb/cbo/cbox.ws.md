@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbox.ws privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213170815id_/https%3A//www.cbox.ws/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbox.ws privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601060654id_/https%3A//www.cbox.ws/privacy) for the most accurate reproduction.*
 
 # Privacy Policy · Cbox
 
@@ -40,7 +40,7 @@ Internet Protocol (IP) addresses are stored in the course of your using this web
 
 Note that while we do not publish IP addresses, your IP address is stored with each message you post to any Cbox, and is available to the administrator and moderators of that Cbox. Cbox administrators are bound by our Terms of Service to extend our privacy policy to you. 
 
-IP addresses do not generally translate directly to personally identifiable information. They can usually be used to geo-locate your device to the country or city level, based on information published by your ISP. Cbox does not, however, collect precise geographic location. 
+IP addresses do not generally translate directly to personally identifiable information. They can usually be used to geo-locate your device to the country or city level, based on information published by your ISP. Cbox does not, however, collect your precise geographic location. 
 
 ## Passwords and security
 
@@ -58,4 +58,4 @@ When you authenticate or register your name with Cbox using a third party provid
 
 ## Removal of data
 
-Cbox will accommodate requests to remove personally identifing information from our systems. To place a request, please [contact us](https://web.archive.org/contact). 
+Cbox will accommodate requests to remove personally identifyng information from our systems. To place a request, please [contact us](https://web.archive.org/contact). 
