@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nv.gov privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229201638id_/http%3A//nv.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nv.gov privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601042205id_/http%3A//nv.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
