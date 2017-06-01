@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizfreak.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122124420id_/http%3A//www.quizfreak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizfreak.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601092820id_/https%3A//www.quizfreak.com/privacy) for the most accurate reproduction.*
 
 # QuizFreak
 
@@ -69,4 +69,4 @@ By using our site, you consent to our privacy policy.
   
 
 
-[**Quizfreak.com**](http://www.quizfreak.com/) © 2015 - All rights reserved. 
+[**Quizfreak.com**](https://www.quizfreak.com/) © 2015 - All rights reserved. 
