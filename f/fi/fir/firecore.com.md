@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firecore.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604154856id_/https%3A//firecore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firecore.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602232911id_/https%3A//firecore.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | FireCore
+# Privacy Policy | Firecore
 
 **Introduction**  
 Your privacy is important to us. Below are details about the information we collect, and what we do with it.
