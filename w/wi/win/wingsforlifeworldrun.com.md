@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wingsforlifeworldrun.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502124106id_/http%3A//www.wingsforlifeworldrun.com/us/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wingsforlifeworldrun.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602190956id_/http%3A//www.wingsforlifeworldrun.com/us/en/privacy) for the most accurate reproduction.*
 
-# Privacy - Wings for Life World Run
+# Privacy - Wings for Life World Run 2018
 
 **1\. Introduction**
 
