@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdsource.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204064443id_/http%3A//www.crowdsource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdsource.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602180604id_/https%3A//www.crowdsource.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - CrowdSource
 
@@ -11,13 +11,13 @@ CrowdSource knows that you care how information about you is used and shared, an
 The information we learn from users helps us personalize and continually improve your experience with CrowdSource, the Sites and the Services. Here are the types of information we gather:
 
   * **Information You Give Us** : We receive and store any information you enter on the Sites or through the Services. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing the Services, improving the Sites, and communicating with you.
-  * **Automatic Information** : We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use “cookies,” and we obtain certain types of information when your Web browser accesses the Sites. Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; e-mail address; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) clickstream to, through, and from our Web site, including date and time; cookie number; and pages you viewed or searched for.
+  * **Automatic Information** : We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses the Sites. Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; e-mail address; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) clickstream to, through, and from our Web site, including date and time; cookie number; and pages you viewed or searched for.
 
 
 
 ### What About Cookies?
 
-  * Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as personalization.
+  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as personalization.
   * The “Help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.  However, cookies allow you to take full advantage of the CrowdSource Site’s features.
 
 
@@ -42,7 +42,9 @@ Information about our users is an important part of our business, and we are not
 
 ### What Choices and Access Do I Have?
 
-    * As discussed above, you can always choose not to provide information, even though it might be needed to take advantage of the CrowdSource Sites and/or Services.
+
+
+  * As discussed above, you can always choose not to provide information, even though it might be needed to take advantage of the CrowdSource Sites and/or Services.
 
 
 
@@ -59,9 +61,3 @@ If you choose to visit the CrowdSource Site or participate in the Services, your
 If you have any concern about privacy at CrowdSource, please [contact us](http://www.crowdsource.com/contact-us/) with a thorough description, and we will try to resolve it. Pursuant to this Privacy Policy and the [Terms of Service](http://www.crowdsource.com/terms-of-service), you agree not to pursue CrowdSource through any means, including regulatory agencies, courts, or the media, until and unless CrowdSource has had a minimum of 30 days to respond to the initial communication and while CrowdSource and you are conducting a dialogue about the matter.
 
 Our business changes constantly, and our Privacy Policy and the [Terms of Service](http://www.crowdsource.com/terms-of-service), will also change. We may e-mail periodic reminders of our notices and conditions, but you should check the CrowdSource Sites frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
-
-  
-
-
-  
-
