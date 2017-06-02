@@ -1,39 +1,55 @@
-> *The following text is extracted and transformed from the edinarealty.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019020037id_/http%3A//www.edinarealty.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinarealty.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602070854id_/https%3A//www.edinarealty.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | Edina Realty
 
-**Our Privacy Policy**
+Because we value you as our customer, we want to address any privacy concerns you may have. To that end, we have set forth our privacy policy for handling the information you share with us online. We want your decision to do business with us to be an informed one.
 
-At Edina Realty, we recognize that you expect privacy and security when it comes to information that personally identifies you and allows you to be individually contacted ('Personal Information'). Edina Realty has adopted the following online privacy policy because we understand the need to safeguard the information you may be providing to us at our web site.
+1\. Collecting Information
 
-**Why we request information about you**
+When you visit our consumer applications, we may collect information about you that you share with us by using our consumer applications. This identification information may include, but is not limited to, your name, physical address, e-mail address, telephone and fax numbers, details of your real estate and lending needs and references, and other details of your life.
 
-Edina Realty offers a variety of programs and services to you from personalized home searches to online mortgage applications. We collect and retain information about you only when we believe it will help us provide you with the services and products that you desire.
+As you may be aware, it is a common practice that when you visit our consumer applications, we may collect data involving your usage through the use of “cookies” (i.e. small text files placed on your computer by consumer applications), web server logs, and other web tools. This technology allows us to customize your online experience as well as track your use of our system so that we can improve your experience. The tracking data we collect may include, but is not limited to, the date, time and location of your visit, the time you spend, the web pages you view, the other consumer applications you visit, your search queries, and basic information about your computer, such as your Internet Protocol (“IP”) address, your domain name, your browser type, and the name of your internet service provider. You may deactivate cookies if you do not want your browsing to be tracked, but doing so may hinder your online experience.
 
-****Online Forms****
+When visiting our consumer-facing applications, you may be directed, through hyperlinks, to other consumer applications that are beyond our control. Furthermore, when you are visiting our consumer applications, other companies, such as third party advertisers and sponsors, may be gathering information about you. This Privacy Policy does not cover the collection of information by those other companies and consumer applications. Although we encourage third parties to provide their own privacy policies, we are not responsible for their activities, such as how they handle the information they collect online.
 
-When you provide us with Personal Information through our various forms, we may use that information to occasionally notify you about important functionality changes to our web site, new Edina Realty products or services, the products and services of our affiliates, and special offers we think you'll find valuable.
+2\. Using Information Collected
 
-We may need to know your name, e-mail address, mailing address and telephone numbers so we can be sure to get in touch with you when and how you ask us to. For instance, when you apply for an online mortgage loan, we need to know your name, social security number, e-mail address, mailing address, income, debt and asset information. This information is necessary to process your mortgage application and to obtain your credit report. We will not obtain your credit report without your authorization, but we cannot approve you for a mortgage loan without it. We can, however, pre-qualify you for a mortgage loan without your credit report.  We will share the information collected on these forms only with our affiliates and those entities providing services necessary to complete your transaction.  We do not sell your information to any person or entity.
+We primarily use the identification information you voluntarily share with us to customize your online experience and to do what you have asked of us. We also use your identification information to tell you about our products and services, but you may instruct us not to send communications to you by following the procedure indicated below under “Contacting Us.” On occasion, we use your identification information to validate your identity. As for usage tracking data, we primarily use that information to operate and improve our consumer applications, and to further our marketing efforts. As a general rule, we do not share your information with unaffiliated third parties. We may, however, share your information with our own personnel and our service providers to the extent necessary to fulfill your requests. We may also share your information with our affiliates, but we will not share it with unaffiliated third parties for direct marketing purposes. We reserve the right to disclose your information under limited circumstances, such as to cooperate with law enforcement or judicial authorities as required by law or legal process, to protect our own legal rights, or to protect the public good.
 
-**How we protect your financial information**
+Whenever you are online or on our applications, you run the risk that the information you give out will fall into the wrong hands. Although we implement and maintain commercially reasonable security procedures and practices to safeguard your privacy, we cannot guarantee the security of any information you provide to us. We accept no responsibility or liability for the activities of third parties. By using our consumer applications and applications, you agree to our Terms of Use.
 
-When you apply for an online mortgage loan, we offer the use of a secure server. The secure socket layer software (SSL) encrypts all information you input before it is sent to us. Even though you may not see a padlock in the bottom of your browser window, rest assured that all the information you enter is encrypted before being sent to our order center. The information we receive from you also is protected against unauthorized access once we receive it. We limit access to your financial information to employees who have a business reason for accessing it. We also educate our employees about the importance of your privacy through our educational programs and company policies.
+3\. Updating Information
 
-**About Our Cookies**
+If you would like to review the information about you that we have collected through our consumer applications, or to change that information, you can make that request by following the procedure indicated below under “Contacting Us.” We may require that you verify your identity before we process your request.
 
-Cookies are small pieces of information that are stored by your browser on your computer hard drive. Our cookies allow us to welcome you back to our site and provide you with your personalized home searches. Most web browsers automatically accept cookies, but you can change your browser to prevent cookies from being placed on your computer without your consent. You can still use our regular home search feature and every other function on our site even though your computer will not accept cookies. Cookies, by themselves, cannot be used to discover your identity and we do not know your identity unless you tell us.
+4\. Anti-Fraud Disclosure
 
-**Links to other web sites**
+While Edina Realty has adopted policies and procedures to aid in avoiding fraud, even the best security protections can still be bypassed by unauthorized parties. Broker will never send you any electronic communication with instructions to transfer funds or to provide nonpublic personal information, such as credit card or debit numbers or bank account and/or routing numbers, by email. If you receive an email message like this concerning any transaction involving Edina Realty, do not respond to the email and immediately contact your agent via phone, or contact us as indicated below.
 
-Our web site contains links to and from other web sites and may be in the form of display advertising. We cannot guarantee that web sites other than edinarealty.com will respect and protect your Personal Information in the same manner that we do. We urge you to go to and read the Privacy Statements of other web sites when you visit them for your own protection. We also are not responsible for the content of web sites other than EdinaRealty.com.
+5\. Updating Our Privacy Policy
 
-**Your consent**
+We may, from time to time, change our Privacy Policy. We will notify you of any changes by posting our updated Privacy Policy on our consumer applications and inserting a new “Effective Date.”
 
-When you provide us with Personal Information, you consent to the collection and use of this information by Edina Realty, its affiliates, and those entities providing services necessary to complete your transaction. If we decide to change our privacy policy, we will post changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+6\. Contacting Us
 
-© 2003-2015 Edina Realty, Inc. All Rights Reserved.
+If you would like to send us a request as indicated above, or if you have any other questions or concerns regarding our Privacy Policy, you may contact us by email at [customercareteam@edinarealty.com](mailto:customercareteam@edinarealty.com).
 
-[](https://www.mcafeesecure.com/RatingVerify?ref=www.edinarealty-stage.com)
+7\. Effective Date
 
- 
+This Privacy Policy is effective as of October 19, 2016.
+
+8\. International Users
+
+Our consumer applications are hosted by servers in the United States. If you are located outside of the United States, your personal information may be transferred to the United States. By submitting your personal information, you consent to its transfer to the United States and to its storage, processing, and use there in accordance with this Privacy Policy.
+
+#### Status Definitions
+
+**For Sale:** Properties which are available for showings and purchase 
+
+**Active Contingent:** Properties which are available for showing but are under contract with another buyer 
+
+**Pending:** Properties which are under contract with a buyer and are no longer available for showings 
+
+**Sold:** Properties on which the sale has closed. 
+
+Contingent and Pending statuses may not be available for all listings
