@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monroecc.edu privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123034855id_/http%3A//www.monroecc.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monroecc.edu privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602130431id_/http%3A//www.monroecc.edu/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Monroe Community College
 
