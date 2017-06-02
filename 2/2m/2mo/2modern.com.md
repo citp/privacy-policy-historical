@@ -1,46 +1,111 @@
-> *The following text is extracted and transformed from the 2modern.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224183525id_/https%3A//www.2modern.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2modern.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602155343id_/https%3A//www.2modern.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy & Security Policy
 
-**Privacy & Security Policy  
-**Updated May 2015
+**OUR PRIVACY POLICY  
+**Last updated:  May 15, 2017
 
-**Your Privacy  
-** Thank you for shopping at 2Modern.com. 2Modern is committed to ensuring the privacy and security of our customers. We value your business and your trust. We do not sell any information we gather and we are extremely careful with the data we collect. We continually review and invest in superior technology infrastructure to encrypt and guard your information.
+2Modern, an online website accessible at www.2Modern.com (the “Website”) recognizes that you care how information about you is used and shared and we respect your privacy. This Privacy Policy describes the information we may collect from you, how we collect that information, how we use that information, and your choices with respect to how your information is collected and used. By using our website, mobile applications, or providing information to us, you agree to be bound by this Privacy Policy. 
 
-This privacy and security policy ("Policy") outlines the information we collect about you, how we use the information and the choices you have to review, revise and/or restrict our usage of this information.
+  This Privacy Policy was last updated May 15, 2017, and may be updated from time to time. Please check back periodically for further updates and changes to the Privacy Policy. The most updated version will be available on our website.
 
-**Collected Information  
-** 2Modern.com collects customer information for a variety of reasons, including as part of our ongoing efforts to provide superior customer service, improve our customer's shopping experience and to communicate with our customers about our products, services and promotions, including those that we believe may be of particular interest to you based on information we have collected. We collect personal information such as your name, financial information, telephone number, e-mail and postal address ("Personal Information") that you provide to us when you save your information with us or when you participate in a sweepstakes, promotion or survey. We use this information to process any transaction, inquiry or promotion that you initiate with us, and provide you with 2Modern advertising tailored to your interests. In addition, we maintain a record of your product interests, purchases and whatever else might enable us or our business partners to enhance and personalize your shopping experience on this or other websites and to provide you with offers, promotions or information that we believe may be of interest to you. We also monitor use of the Website and traffic patterns to improve the Website design and the products and services we offer as well as to determine what offers, promotions or information to send to you.
+**WHAT INFORMATION ABOUT ME IS COLLECTED AND STORED?  **
 
-2Modern.com may disclose specific personal information about you if required by law, governmental request or court order, if based on our good faith belief that it is necessary to conform or comply with such law, request or court. We may also disclose information about you to other members of the 2Modern corporate family, as well as a company contracted to help prevent the unauthorized use of credit and gift cards.
+  **Information Provided by You  **
 
-If you are under 16, we require that you inform a parent or guardian about 2Modern’s Privacy Policy and Terms and Conditions as well as requiring their consent to the Privacy Policy and Terms and Conditions before registering or placing an order with 2Modern. This Privacy Policy does not apply to websites maintained by other companies or organizations to which we link and 2Modern is not responsible for any personal information you submit to third parties via our website. Please ensure that you read the Privacy Policy of such other companies or organizations before submitting your details.
+  We collect and store information that you provide to us through our interactions with you, including through our website, blog, through our customer service representatives, through our sales representatives, through contests/sweepstakes, at events, through mobile applications, and through third parties.
 
-**Our Email List  
-** We offer those who sign-up for our email list advanced notice of sales, new merchandise, VIP notices and other 2Modern news. Email addresses collected at 2Modern.com are used internally and not sold/rented to any 3rd parties. If you would like to unsubscribe from our email list, you can do so at any time at the bottom of the newsletter or email. We will remove your name from our email list within a reasonable period of time. Please recognize that you may receive another email before we are able to remove you.
+You may elect not to provide certain information, which could result in you not being able to take advantage of certain capabilities of this website, our mobile applications or other services we offer.
 
-**Business Partners  
-** 2Modern contracts with outside service providers to help us better understand your use of 2Modern.com. Our service providers place cookies on your computer or use other technologies to collect various kinds of information for us related to your use of 2Modern.com, so that we and our business partners may continue to refine and improve the site and other sites for our customers, and provide advertising tailored to your interests. We do not allow our service providers to collect any credit card, user name or password information, and any Personal Information shared with our service providers is made anonymous. We may also use our own cookies to deliver enhanced online display advertising tailored to your interests. Please contact us: [support@2modern.com](mailto:support@2modern.com) or 888-222-4410 to opt out. We do not sell your details to third party marketing companies. We do collate information about site traffic, sales, wish lists, and other commercial information which we may pass on to third parties but this information does not include any information which can identify you personally. Finally, we may use your personal information for our internal marketing and demographic studies, together with non-personal data to monitor customer patterns so we can consistently improve our site design to better meet our visitors' needs. From time to time 2Modern may employ third party business partners to collect personal information on 2Modern’s behalf. 2Modern may also share your data with third party business partners to provide you with targeted advertising. In such cases, these third parties will be subject to confidentiality agreements and instructed by 2Modern to comply with applicable data protection law.  
- **  
-Cookies  
-** Our site uses cookies (very small files that are sent by us to your computer or other access device) which we can access when you visit our site in future. There are four types of cookies: **Website functionality cookies:** These cookies enable you to browse the website and use our features such as shopping baskets and wish lists. **Website analytics cookies:** We use these cookies to measure and analyze how our customers use the website. This allows us to continuously improve our website and your shopping experience. **Customer preference cookies:** When browsing or shopping online, the website will remember preferences you make (for example your user name, language or location). This makes your browsing experience simpler, easier and more personal to you. **Targeting cookies or advertising cookies:** These cookies are used to deliver adverts relevant to you. In addition, they limit the number of times you see an advertisement as well as helping us measure the effectiveness of our advertising campaigns. **By using our website you agree that we can place these types of cookies on your device and access them when you visit the site in the future.** If you want to delete any cookies that are already on your computer, please refer to the help and support area on your internet browser for instructions on how to locate the file or directory that stores cookies. Information on deleting or controlling cookies is available at [www.AboutCookies.org](http://www.aboutcookies.org/). Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our site. We also use other methods of automatic collection to determine information about visitors to our website, including the IP address, browser, language preferences, and computer identification numbers. We use the information obtained using these tools to provide better customer service, enhance our product offerings, and detect potential misuse or fraud. To opt out of any such data collection, contact us: [support@2modern.com](mailto:support@2modern.com) or 888-222-4410
+We may request, collect and store some or all of the following types of personal information: your name, billing address, shipping address, e-mail address, location, telephone number, financial and payment information, including your credit card number and expiration date, date of birth, and any information about a third party you provide accessing the website. If you access our website or mobile applications with your log-in credentials from a social networking site (e.g. Facebook, Google, or Twitter) or if you otherwise agree to associate your account with us with a social networking site, we may receive personal information about you from such social networking site, in accordance with the terms of use and privacy policy of such social networking site. This may include your email address, public profile (including your name, profile picture, gender, age, and the names of your other “friends” on such social networking sites). We may add this to the information we have already collected from you via other interactions. 
 
-**Secure Shopping  
-** Sensitive personal information contained in orders placed on the Website are encrypted using 128-bit secure sockets layer (SSL) technology.* In order for SSL security to work, you must use an SSL enabled browser. *Secure Socket Layer (SSL) is a technology used by vendors to ensure the security of online business. It negotiates and employs the essential functions of mutual authentication, data encryption and data integrity for secure transactions.
+**Automatically Collected Information**
 
-Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect you Personal Information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity, and privacy of any and all information and data exchanged between you and us through the Website cannot be guaranteed; (c) any such information and data may be viewed or tampered with in transit by a third party; and (d) WHEN YOU TRANSFER ANY INFORMATION TO US, YOU DO SO AT YOUR OWN RISK.
+We collect and store certain other non-personally identifiable information automatically whenever you interact with us. For example, we may collect your Internet Protocol (IP) address, browser information and reference site domain name when you visit this website.  We may analyze this data for preferences, trends, and site usage statistics.
 
-If you still have concerns about ordering electronically, feel free to call 888-222-4410 and place your order over the phone. You can also print your shopping cart page and mail it to:
+Other information we may collect includes your behavior on our site. We use this information to improve the user experience. This may include, but is not limited to: your activities and clicks on our website, maps accessed, comments, tags, notifications, and shares. This information may also include your interactions with other users on our site.
 
-2Modern  
-35 Miller Ave.  
-Mill Valley, CA 94941  
-Attn: Order Processing
+  We may also collect information by using cookies, web beacons, and related technologies in order to analyze and understand how the website is used and to improve your visits to the website. For example, we may use cookies and related technologies to: (i) customize account pages for you, (ii) track user visits and account features, (iii) determine what features and pages are most frequently requested or visited, and (iv) save your password so you do not have to provide it each time you visit the website.
 
-Please note that email is not encrypted and is not considered a secure means of transmitting credit card numbers. We will never ask for sensitive information via email. Secure Socket Layer (SSL) is a technology used by vendors to ensure the security of online business. It negotiates and employs the essential functions of mutual authentication, data encryption and data integrity for secure transactions.
+  "Cookies" are small text files that a website sends to a user's hard drive through the browser for data storage. Most browsers accept cookies automatically but allow you to disable them. By disabling or otherwise rejecting cookies, you may not be able to take full advantage of all offerings on this website. We recommend that you leave cookies "turned on" so that we can offer you a better overall experience on this website.
 
-**Policy Changes  
-** 2Modern.com may periodically update this Privacy & Security Policy for new, unanticipated uses not previously disclosed. Any changes made will be posted here. By visiting our website you agree to accept any changes made to this policy. The 2Modern.com Privacy & Security Policy only addresses the use and disclosure of information we collect from you on our website.
+  We use third-party companies to provide Internet data hosting and to help us measure and determine how visitors use our website and to evaluate the effectiveness of our website and promotions so that we can improve and optimize our website and the products and services we offer. We may use third-party companies to serve advertisements (banners or links) on our behalf throughout the Internet. These companies use tracking technologies (including cookies and pixel tags) to collect non-identifiable information about your visits to our website and your interactions with our products and services. 
 
-If you require further information about our Privacy Policy, please go to the Contact Us section of the web site, send an email to [support@2modern.com](mailto:support@2modern.com) or call 888-222-4410 or write to: 2Modern, 35 Miller Ave., Mill Valley, CA, 94941.
+  Our websites currently do not have a mechanism to recognize “Do Not Track” signals, but several of the third-party companies who utilize these cookies or beacons enable you to opt out of this advertising. If you wish to opt out of receiving this third-party interest-based advertising, you may obtain more information [HERE](http://www.networkadvertising.org/choices/). Please note this does not opt you out of receiving marketing communications from us.
+
+Some of our e-mail communications to you may include a "click-through URL" linked to a particular page on the website. By clicking on one of these URLs, you will automatically enter our website and we may collect information related to the "click-through." You may avoid having this information collected by not clicking on URL links in our e-mail communications.
+
+**How Do I Indicate Whether Or Not I Want To Receive Promotional Communications?** **  
+ **  
+You will be able to change your email preferences for receiving promotional emails by clicking on an "unsubscribe" hyperlink contained in promotional e-mails we send you. Please note that removal of personal information from our database or "opting-out" will not stop marketing or advertising content that is generated for distribution or is otherwise queued for transmission to you prior to the time when we can implement your request. 
+
+If you establish an account, you may receive certain types of communications even if you have not opted-in to receive them because these types of communications may be necessary in order to maintain an account on the website.
+
+  **Information from Other Sources    
+**   
+We may collect information about you from third-party sources and information that is publicly available. For example, information you submit in a public forum (e.g., a blog, chat room, or social network site) can be read, collected, or used by us and others, and could be used to personalize your experience. You are responsible for the information you choose to submit in these instances. Another example, is that we may receive demographic information about you from a third party to make our service and marketing efforts more efficient and personalized for you.  
+
+  **HOW IS YOUR INFORMATION USED?    
+**   
+We use the personal information we collect to communicate with you, analyze and develop our business, and to improve our products, services, and interactions with customers. We, or third-party service providers we engage, may use the information to provide services that you have requested, provide customer service, respond to your comments, questions or complaints, personalize your interactions with us, identify your preferences and online browsing habits, analyze trends and statistics, create, administer and fulfill our contests and other promotions, evaluate and improve the website and our services, and prepare and send you information regarding our services. We also use your information for business purposes such as security, legal compliance, payment processing, analytics, operations, fraud detection, reporting, and making back-ups. 
+
+    We may display personal testimonials/reviews of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at support@2modern.com.
+
+  **WITH WHOM DO WE SHARE THIS INFORMATION?**
+
+Except with your consent or as described in this Privacy Policy, we do not sell, rent, or share with third parties any of your personal information.
+
+We may share personal information with certain third parties that perform services on our behalf. The services provided by those third parties may include: operating or hosting the website, providing the products and services you request, authorization and processing of your payments, product fulfillment, fraud protection and credit risk reduction, product customization, marketing and promotional material distribution, loyalty program management, promotions fulfillment, web site evaluation, data analysis and, where applicable, data cleansing. Those third parties are not authorized to use or disclose personal information you provide to us on or through this website for any purpose other than to perform the services designated by us.
+
+We may share personal information with a third party if we are required by law to disclose that personal information. For example, we may be required to disclose personal information to respond to a subpoena, court order or other legal process. We may also disclose this information in response to a law enforcement agency's request, or if we believe disclosure is necessary to investigate or address unlawful acts or acts that may endanger the health or safety of a consumer or the general public, to verify or enforce compliance with the terms of use and policies that govern our website or as otherwise required or permitted by law. In addition, the personal information you provide to us may be transferred as an asset in connection with a merger or sale involving all or part of the 2Modern website or as part of a corporate reorganization, stock sale or other change of control.
+
+  **WHAT ABOUT THE PRIVACY OF CHILDREN UNDER 13?  **
+
+  We do not intend to collect personal information from anyone who is under the age of 13. If you are under the age of 13 you should not provide any personal information to us and you should use this website only with the involvement of a parent or guardian. If you are a parent or guardian of a child under the age of 13 and suspect he/she has provided personal information on or through the website, please contact us as set forth below under the section entitled "How Can I Contact You Regarding This Privacy Policy?"
+
+**HOW DO WE KEEP PERSONAL INFORMATION SECURE?    
+**   
+The security of your information is very important to us. We have instituted several measures and security procedures to protect our servers and networks that store personal information. However, no transmission of information over the Internet is 100% secure and, therefore, we cannot ensure or warrant the security of any information. In order to help protect personal information you provide to us: (i) you should not share your password or account information with anyone else, (ii) you should use a secure web browser, and (iii) you should change your password often. If you wish to cancel a password, or if you become aware of any loss, theft, or unauthorized use of a password, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
+
+**TrustGuard & Global Sign**
+
+Our website utilizes the latest technology for shopping and e-commerce security. We have multiple layers of protection from the best security-providers the internet has to offer, and we are certified by both TrustGuard and Global Sign.
+
+When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol. All of your personal information, including your credit card information and sign-in password, are stored in encrypted format at all times.
+
+  
+**HOW CAN I ACCESS, CORRECT, AND UPDATE PERSONAL INFORMATION?    
+**   
+You may access, correct and update certain personal information that you have provided to us by clicking on the "My Account" area of this website and following the instructions set forth therein or by contacting us with your request as set forth below under the section entitled "How Can I Contact You Regarding This Privacy Policy?"
+
+We reserve the right to retain any personal information reasonably necessary to appropriately document our business activities and for record retention purposes. We will store personal information for as long as is reasonably necessary for the purposes described in this Privacy Policy. You may find out more details regarding this Privacy Policy by contacting us as provided below under "How Can I Contact You Regarding This Privacy Policy?"
+
+**WHAT HAPPENS WHEN I LINK TO OR FROM ANOTHER WEBSITE?  **
+
+  This website may contain links to or from websites to which this Privacy Policy does not apply ("Linked Websites"). Please be advised that the practices described in this Privacy Policy do not reflect the practices regarding information collection, use and disclosure of Linked Websites or the owners or operators of those Linked Websites. Your use of Linked Websites will be governed by the terms of use, privacy policies, and other terms, notices, and policies set forth or referenced in those Linked Websites. We encourage you to be aware that when you leave this website you should read the privacy policies of each and every website that you visit to ensure protection of your information. 
+
+**Changes to this Statement**
+
+2Modern will occasionally update this Statement of Privacy to reflect company and customer feedback. 2Modern encourages you to periodically review this Statement to be informed of how Company is protecting your information
+
+**WHAT IF I AM AN INTERNATIONAL USER?**
+
+Our digital operations are conducted, in whole or in part, in the United States. Regardless of where you live, you consent to have your personal data transferred, processed, and stored in the United States, and allow 2Modern to use and collect your personal information in accordance with this Privacy Policy.
+
+**HOW CAN I CONTACT YOU REGARDING THIS PRIVACY POLICY?    
+**   
+If you have any questions or concerns regarding your privacy or the Privacy Policy you can send a request with your concerns or any further questions to us by using the contact information provided below:
+
+By Email: support@2modern.com  
+Subject:  Privacy Policy Questions
+
+By Mail:  
+Carve Media, Inc. (dba 2Modern)
+
+[www.2modern.com](http://www.2modern.com/)
+
+35 Miller Ave
+
+Mill Valley, CA, 94941
+
+Effective as of May 15, 2017
