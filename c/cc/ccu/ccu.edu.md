@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccu.edu privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231031924id_/http%3A//www.ccu.edu/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccu.edu privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602131659id_/http%3A//www.ccu.edu/privacypolicy) for the most accurate reproduction.*
 
 # Online Privacy Policy | Colorado Christian University
 
