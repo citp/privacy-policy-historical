@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quiz-maker.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113115105id_/https%3A//www.quiz-maker.com/Security-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quiz-maker.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602051746id_/https%3A//www.quiz-maker.com/Security-Privacy) for the most accurate reproduction.*
 
 # Security and Privacy Policy at Quiz Maker
 
