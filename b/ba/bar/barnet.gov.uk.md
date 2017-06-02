@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barnet.gov.uk privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107232629id_/https%3A//www.barnet.gov.uk/citizen-home/council-and-democracy/policy-and-performance/website-policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barnet.gov.uk privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602164338id_/https%3A//www.barnet.gov.uk/citizen-home/council-and-democracy/policy-and-performance/website-policies/privacy.html) for the most accurate reproduction.*
 
 # Privacy - barnet.gov.uk
 
