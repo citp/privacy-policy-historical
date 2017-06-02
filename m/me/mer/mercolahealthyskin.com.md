@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mercolahealthyskin.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224020846id_/http%3A//media.mercola.com/assets/html/privacy/security_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercolahealthyskin.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602044026id_/http%3A//media.mercola.com/assets/html/privacy/security_privacy.html) for the most accurate reproduction.*
 
 # Mercola Policy on Security, Privacy and Website Terms of Use
 
-## Effective Date: 7/11/2016
+## Effective Date: 3/7/2017
 
 This policy sets forth the type of information [Mercola.com](http://www.mercola.com/) collects from you via this website: [www.mercola.com](http://www.mercola.com/) (the "Website"), the way we use such information, and the procedures we use to keep such information confidential. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. 
 
@@ -16,7 +16,7 @@ By using the Website, you consent to the collection and use of certain informati
 
 ### Notification of Changes
 
-The practices and policies contained in this Policy are subject to change at any time without prior notice. If we decide to change our policies, we will post those changes on this Website. Information collected before changes are made will be secured according to the Policy in place at the time such information is collected notwithstanding future changes to this Policy. The practices and policies in this Policy replace all previous notices or statements with respect to the same subject matter. If we make any material changes, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+If we decide to change our policies, we will post those changes on this Website. Information collected before changes are made will be secured according to the Policy in place at the time such information is collected notwithstanding future changes to this Policy. The practices and policies in this Policy replace all previous notices or statements with respect to the same subject matter. If we make any material changes, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 ^ Back to Top
 
@@ -42,9 +42,9 @@ Hoffman Estates, IL 60169
 
 We are committed to preventing others from unauthorized access to the personal information you provide to us, and we maintain commercially reasonable procedures and technology designed for this purpose. The Website has reasonable technical and organizational security measures in place to protect the loss, misuse, or alteration of information under our control. However, we cannot guarantee that unauthorized third parties will never be able to defeat those security measures or use your personal information for improper purposes.
 
-When our registration/order form asks users to enter sensitive information, such as credit card number, that information is encrypted and is protected with the best encryption software in the industry, 128-bit SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just "surfing."
+When our registration/order form asks users to enter sensitive information, such as credit card number, that information is encrypted and is protected with the industry standard software, 256-bit SSL . While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just "surfing."
 
-While we use 128-bit SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers that store personally identifiable information are in a secure environment.
+While we use 256-bit SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers that store personally identifiable information are in a secure environment.
 
 ^ Back to Top
 
@@ -68,15 +68,15 @@ We do not knowingly collect or use personal information from children under 13. 
 
 ### Log Files
 
-Like most standard website servers, we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+Like most standard website servers, we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to other personally identifiable information.
 
 ^ Back to Top
 
 ### Cookies and Other Tracking Technologies
 
-Technologies such as: cookies, beacons, tags, and scripts are used by [Mercola.com](http://www.mercola.com/) and our partners [e.g. lifestyle-publishing websites, etc.], affiliates, or analytics or service providers [e.g. online customer support provider, etc.]. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as: cookies or similar technologies are used by [Mercola.com](http://www.mercola.com/) and our partners [e.g. lifestyle-publishing websites, etc.], affiliates, or analytics or service providers [e.g. online customer support provider, etc.]. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use Local Storage Objects (LSOs) such as HTML5 to store geographic information and user preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
+We use Local Storage Objects (LSOs) such as HTML5 to store geographic information and user preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
 **Why do we use these technologies?**
 
@@ -160,7 +160,7 @@ Additionally, we may use cookies to understand and improve how you are using soc
 
 ### User Access and Choice
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, amend, or delete it by making the change on your [member information page](http://shop.mercola.com/profile/myaccount.aspx), or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
+Upon request Mercola.com will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by making the change on your member information page, or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within a reasonable timeframe.
 
 MAIL
 
@@ -191,7 +191,7 @@ Mercola.com follows journalistic industry standards by using the Associated Pres
 
 ### Email-A-Friend
 
-If a user elects to use our Email-A-Friend service for informing a friend about an article, we we will ask for your friend's name and email address. Mercola.com will only use this information send the article to your friend, and does not retain the information once the request has been completed.
+If a user elects to use our Email-A-Friend service for informing a friend about an article, we will ask for your friend's name and email address. Mercola.com will only use this information send the article to your friend, and does not retain the information once the request has been completed.
 
 ^ Back to Top
 
@@ -209,7 +209,7 @@ Our Site includes Social Media Features, such as the Facebook and Twitter button
 
 ### Public Profiles
 
-The profile you create on the site will be publically accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal.
+The profile you create on the site will be publicly accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal.
 
 ^ Back to Top
 
@@ -227,16 +227,10 @@ We also use Google AdSense to publish ads on this site. When you view or click o
 
 ### Unsolicited Ideas
 
-We welcome feedback, questions, and comments about our products, services, and this Website. As a general policy, we do not accept unsolicited ideas for products or services through this Website. All communications and other materials (including, without limitation, unsolicited ideas, photographs, drawings, suggestions, or materials) you send to this Website by e-mail or otherwise are and shall remain the sole and exclusive property of [Mercola.com](http://www.mercola.com/) and may be used by us for any purpose whatsoever, commercial or otherwise, without compensation to you.
+We welcome feedback, questions, and comments about our products, services, and this Website. As a general policy, we do not accept unsolicited ideas for products or services through this Website. All communications and other materials (including, without limitation, unsolicited ideas, photographs, drawings, suggestions, or materials) you send to this Website by e-mail or otherwise are and shall remain the sole and exclusive property of Mercola.com and may be used by us for any purpose whatsoever, commercial or otherwise, without compensation to you.
 
 ^ Back to Top
 
-### TRUSTe
-
-[](https://privacy.truste.com/privacy-seal/Mercola-com/validation?rid=25d2a2d6-712e-4176-8b4f-67002e042b9f "TRUSTe online privacy certification")
-
-[Mercola.com](http://www.mercola.com/) has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [www.mercola.com](http://www.mercola.com/).
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 ^ Back to Top
