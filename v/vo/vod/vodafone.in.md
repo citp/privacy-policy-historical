@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.in privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227003144id_/http%3A//www.vodafone.in/privacy-policy%3Fsection%3Dconsumer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.in privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602082058id_/https%3A//www.vodafone.in/privacy-policy%3Fsection%3Dconsumer) for the most accurate reproduction.*
 
 # Privacy Policy | Vodafone India
 
