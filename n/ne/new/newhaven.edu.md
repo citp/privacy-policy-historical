@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the newhaven.edu privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221135820id_/http%3A//www.newhaven.edu/online-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newhaven.edu privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602075414id_/https%3A//www.newhaven.edu/online-privacy) for the most accurate reproduction.*
 
-# University of New Haven : Online Privacy Statement
+# Online Privacy Statement - University of New Haven
 
 The University of New Haven respects the privacy of all website visitors to the extent permitted by law. This online privacy statement is intended to inform you how this website collects information, how that information may be used, how we protect any information you choose to provide us.
-
-If you have questions about this site, its collection of information, and its online privacy statement, please send an email to [sitefeedback@newhaven.edu](mailto:sitefeedback@newhaven.edu "Email University of New Haven's website feedback mailbox")
 
  **There are four types of information that this site may collect during your visit:**
 
@@ -43,18 +41,16 @@ As adwords advertisers, we are restricted from and will not perform the followin
 
 (a) Running ads that collect Personally Identifiable Information (PII) including, but not limited to, email addresses, telephone numbers, and credit card numbers
 
-(b) Creating a remarketing list or creating ad text that specifically targets users in ways that are outlined as “prohibited” in the categories below
+(b) Creating a remarketing list or creating ad text that specifically targets users in ways that are outlined as “prohibited” in the categories below 
 
-Visitors can opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting the Ads Preferences Manager in Google, or by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+Visitors can opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting the Ads Preferences Manager in Google, or by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp "Link to Network Advertising Initiative opt-out page").
 
 **Definitions**
 
-“User” means a unique instance of a browser, application or similar technology.
+  * “User” means a unique instance of a browser, application or similar technology.
+  * “User Cookie” means the User identifier (of which a cookie is one example) associated with a User for remarketing or similar audiences. 
+  * “Remarketing Lists” means a list of User Cookies created or otherwise obtained by you and used in connection with remarketing or similar audiences. 
+  * “Similar Audiences Lists” means a list of Users created by Google based on a Remarketing List for use in connection with similar audiences. 
+  * “Properties” means properties or content on which advertisements are shown.
 
-“User Cookie” means the User identifier (of which a cookie is one example) associated with a User for remarketing or similar audiences.
 
-“Remarketing Lists” means a list of User Cookies created or otherwise obtained by you and used in connection with remarketing or similar audiences.
-
-“Similar Audiences Lists” means a list of Users created by Google based on a Remarketing List for use in connection with similar audiences.
-
-“Properties” means properties or content on which advertisements are shown.
