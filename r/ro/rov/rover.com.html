@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rover.com privacy policy that was archived on 2016-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161231120607id_/https%3A//www.rover.com/privacy/%3Fref%3Dfooter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rover.com privacy policy that was archived on 2017-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170602185831id_/https%3A//www.rover.com/privacy/%3Fref%3Dfooter) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en"><head>
         <meta charset="utf-8">
@@ -40,32 +40,35 @@
         
 
         
-            <meta property="og:image" content="https://www.rover.com/static/new_design/images/logo@200x200.253d97000483.png">
-            <meta name="twitter:image" content="https://www.rover.com/static/new_design/images/logo@200x200.253d97000483.png">
+            <meta property="og:image" content="https://www.rover.com/static/new_design/images/logo@200x200.ce2f57dbe3e4.png">
+            <meta name="twitter:image" content="https://www.rover.com/static/new_design/images/logo@200x200.ce2f57dbe3e4.png">
         
 
-        <meta property="al:ios:url" content="rover://">
-        <meta property="al:ios:app_store_id" content="547320928">
-        <meta property="al:ios:app_name" content="Rover - Dog Lovers for Hire">
 
-        <link rel="shortcut icon" href="/static/new_design/images/favicon.c50bdbfa17dc.png">
-        <link rel="apple-touch-icon" sizes="152x152" href="/static/icons/ios/apple-touch-icon-152x152.dc957518ea18.png">
+        
+            <meta property="al:ios:url" content="rover://">
+            <meta property="al:ios:app_store_id" content="547320928">
+            <meta property="al:ios:app_name" content="Rover - Dog Lovers for Hire">
+        
+
+        <link rel="shortcut icon" href="/static/new_design/images/favicon.1352439e5c9f.png?v=2">
+        <link rel="apple-touch-icon" sizes="152x152" href="/static/icons/rover-favicon.47651b11d3be.png">
 
         <!-- The purpose of this block is to be overridden in files that have phased out use of these monolithic globals. -->
         
-            <link type="text/css" href="/static/dist/vendor.3f3cbc73d99add9ceaa9a709759311dc.css" rel="stylesheet">
-            <link type="text/css" href="/static/dist/application.6d5a43becbf9e87b0a93f1282ee7f403.css" rel="stylesheet">
+            <link type="text/css" href="/static/dist/vendor.8760f1ef27cd384e34491236f417a9a6.css" rel="stylesheet">
+            <link type="text/css" href="/static/dist/application.80d41e0a79487b1409d43c9548c9701c.css" rel="stylesheet">
         
 
-        <link type="text/css" href="/static/dist/global.46c98793fc024c4c0263cb00c1bb4f20.css" rel="stylesheet">
+        <link type="text/css" href="/static/dist/global.644525598497a62c46449bea80392303.css" rel="stylesheet">
 
-        
-
-        
         
 
         
-        <script async="" src="https://cdn.branch.io/branch-v1.6.7.min.js"></script><script type="text/javascript" async="" src="//cdn.alooma.com/libs/alooma-latest.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T7QFMT"></script><script>
+        
+
+        
+        <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T7QFMT"></script><script type="text/javascript" async="" src="//cdn.alooma.com/libs/alooma-latest.min.js"></script><script>
             var Rover = Rover || {};
             Rover.perf = {
                 start: Date.now()
@@ -88,6 +91,11 @@
             Rover.models = Rover.models || {};
             Rover.views = Rover.views || {};
             Rover.userAgent = {};
+
+            
+                Rover.context.branchKey = 'key_live_aimy7xWhcDz0GVxOIYoBTmilvybwmZNx';
+            
+
 
             var next_url = encodeURIComponent(window.location.pathname + window.location.search);
             Rover.urls = {
@@ -139,26 +147,18 @@
             var dataLayer = dataLayer || [];  // Google Tag Manager
             var _kmq = _kmq || []; // KISS and GTM
 
-            // Configure error reporting to Sentry
-            Rover.sentry = {
-                enabled: true,
-                reportingUrl: JSON.parse('\u0022https://9c4df485116d4051adee5543193eeac3@app.getsentry.com/24119\u0022'),
-                whitelistUrls: JSON.parse('\u0022/\u005C\u005Cw*\u005C\u005C.rover\u005C\u005C.com/, /rover\u005C\u005C.com/, /dpg482mbzk9j5\u005C\u005C.cloudfront\u005C\u005C.net/\u0022'),
         
-                user: {
-                    isAuthenticated: false,
-                    email: JSON.parse('\u0022\u0022'),
-                    id: JSON.parse('null')
-                }
-            };
 
-            Rover.facebook = {
-                channelUrl: window.location.protocol + '//www.rover.com/facebook/fb-channel.html',
+        // TODO: remove this once contact page checkbox experiment is over
+        // (see https://roverdotcom.atlassian.net/browse/FE-742)
+        
+
+        Rover.facebook = {
                 appId: '268750723145812',
                 authCallbackUrl: '/facebook/auth-callback/',
                 clickbackPromoCode: 'FBSHAREPROMO25',
                 
-                    connected: false
+                    connected: false,
                 
             };
 
@@ -177,6 +177,21 @@
             
 
 
+
+    
+<!-- start Alooma --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.alooma=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="alooma";c.people=c.people||[];c.toString=function(b){var a="alooma";"alooma"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable time_event track track_custom_event track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" "); for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof ALOOMA_CUSTOM_LIB_URL?ALOOMA_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.alooma.com/libs/alooma-latest.min.js".match(/^\/\//)?"https://cdn.alooma.com/libs/alooma-latest.min.js":"//cdn.alooma.com/libs/alooma-latest.min.js";f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f)}})(document,window.alooma||[]);alooma.init("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnROYW1lIjoicm92ZXIiLCJpbnB1dExhYmVsIjoiV2ViQXBwX0pTIiwiaW5wdXRUeXBlIjoiSlNTREsifQ.ftZKM9hqSsOM4gchkmUUZeasTbULCnkZT8o_IZzk2t0", {"cookie_name": "rover_alooma", "api_host":"https://inputs.alooma.com"});</script><!-- end Alooma -->
+
+<script type="text/javascript">
+   (function() {
+        var d = new Date();
+        alooma.register({timezone_offset: d.getTimezoneOffset()});
+        alooma.register(JSON.parse('{\u0022environment\u0022: \u0022production\u0022, \u0022common_identifier\u0022: \u0022c033d52f\u002Dd83f\u002D4440\u002Db198\u002D07d7580777fc\u0022, \u0022is_bot\u0022: true, \u0022user_agent\u0022: \u0022Mozilla/5.0 (compatible\u003B archive.org_bot +http://www.archive.org/details/archive.org_bot)\u0022, \u0022session_id\u0022: \u0022cmeq2keBjPffmJc55Jn5o4\u0022}'));
+        
+            alooma.register({pageCategory: "uncategorized"});
+        
+    })();
+</script>
+
     
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T7QFMT"
                   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -185,22 +200,6 @@
         j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-T7QFMT');</script>
-
-    
-<!-- start Alooma -->
-<script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.alooma=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="alooma";c.people=c.people||[];c.toString=function(b){var a="alooma";"alooma"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable time_event track track_custom_event track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" "); for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof ALOOMA_CUSTOM_LIB_URL?ALOOMA_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.alooma.com/libs/alooma-latest.min.js".match(/^\/\//)?"https://cdn.alooma.com/libs/alooma-latest.min.js":"//cdn.alooma.com/libs/alooma-latest.min.js";f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f)}})(document,window.alooma||[]);alooma.init("rover", {"api_host":"https://rover.alooma.io"});</script>
-<!-- end Alooma -->
-
-<script type="text/javascript">
-    (function() {
-        var d = new Date();
-        alooma.register({timezone_offset: d.getTimezoneOffset()});
-        alooma.register(JSON.parse('{\u0022environment\u0022: \u0022production\u0022, \u0022common_identifier\u0022: \u00220fe2d988\u002D89e7\u002D4368\u002Db283\u002D12737b41f740\u0022, \u0022is_bot\u0022: true, \u0022user_agent\u0022: \u0022Mozilla/5.0 (compatible\u003B archive.org_bot +http://www.archive.org/details/archive.org_bot)\u0022, \u0022session_id\u0022: \u0022jHcFKWTXDLxJVRpxmgZ8tL\u0022}'));
-        
-            alooma.register({pageCategory: "uncategorized"});
-        
-    })();
-</script>
 
 
 
@@ -252,7 +251,7 @@
         
     </head>
 
-    <body class="  body-dark   static-navbars  " ontouchstart="return true;">
+    <body class="  body-dark   static-navbars  ">
         <div id="fb-root"></div>
 
         
@@ -409,6 +408,25 @@
 
         
 
+
+<div class="global-announcement-bar js-global-announcement-bar bg-dark ">
+    <div class="container">
+        <div class="cycle prevent-break js-cycle text-muted margin-right-x4 hidden">
+            <i class="rover-icon rover-icon-in-left js-previous-announcement"></i>
+            <i class="rover-icon rover-icon-in-right js-next-announcement"></i>
+        </div>
+        <div class="announcements">
+            
+            <div class="js-announcement " data-css-classes="" data-is-dismissable="true" data-show-once-cookie="gdx-3613bee8" data-show-once-requires-dismiss="true">
+                <strong>DogVacay has joined the Rover pack!</strong> If you have a DogVacay account, it's easy to move over to Rover.&nbsp;&nbsp;<div class="migrate-btn"><a href="https://www.rover.com/joining-forces/" class="rover-btn rover-btn-primary btn-sm">Migrate Your Account</a></div>
+            </div>
+            
+        </div>
+        <div class="dismiss js-dismiss margin-left-x4 ">
+            <i class="rover-icon rover-icon-in-times text-muted"></i>
+        </div>
+    </div>
+</div>
 
 
 
@@ -826,25 +844,17 @@
 <div class="new-design js-new-design">
     <div class="footer">
         <div class="container">
+            <hr class="margin-bottom-x12 visible-xs">
+
             
 
-            <div class="row visible-xs margin-bottom-x4">
-                <div class="col-xs-12">
-                    <h3 class="xs-join-pack-heading">Join Our Pack</h3>
-                    <div class="row footer-twitter">
-                        <div class="col-xs-6 text-center">
-                            <h5 class="nomargin">Follow Rover on Twitter</h5>
-                        </div>
-                        <div class="col-xs-6 text-center">
-                            <a class="link-dark" href="https://twitter.com/intent/follow?screen_name=roverdotcom" target="_blank"><i class="rover-icon rover-icon-in-twitter text-color-twitter"></i> Follow @roverdotcom</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row visible-xs">
-                <h3 class="xs-footer-header">Need Help?</h3>
+            <div class="row visible-xs margin-bottom-x8">
                 <ul class="xs-footer-links">
-                    <li class="xs-footer-link"><a href="https://support.rover.com/hc/en-us?ref=footer" target="_blank">Visit Our Help Center</a></li>
+                    <li><a href="https://support.rover.com/hc/en-us?ref=footer" target="_blank">Help Center</a></li>
+                    <li><a href="/about-us/?ref=footer">About Us</a></li>
+                    <li><a href="/joining-forces/?ref=footer">Joining Forces</a></li>
+                    <li><a href="/privacy/?ref=footer">Privacy Policy</a></li>
+                    <li><a href="/tos/?ref=footer">Terms of Service</a></li>
                 </ul>
             </div>
 
@@ -873,10 +883,12 @@
                             <h4>About Rover</h4>
                             <ul class="footer-list">
                                 <li><a href="/about-us/?ref=footer">About Us</a></li>
+                                <li><a href="https://support.rover.com/hc/en-us/requests/new?ref=footer">Contact Us</a></li>
+                                <li><a href="/joining-forces/?ref=footer">Joining Forces</a></li>
                                 <li><a href="/app/?ref=footer">Get the App</a></li>
                                 <li><a href="https://www.rover.com/blog/press?ref=footer">Press</a></li>
                                 <li><a href="/rover-cam/?ref=footer">RoverCam</a></li>
-                                <li><a href="http://jobs.rover.com/?ref=footer">Jobs</a></li>
+                                <li><a href="/jobs/?ref=footer">Jobs</a></li>
                                 <li><a href="/partners/?ref=footer">Partners</a></li>
                                 <li><a href="/privacy/?ref=footer">Privacy Policy</a></li>
                                 <li><a href="/tos/?ref=footer">Terms of Service</a></li>
@@ -886,8 +898,13 @@
                     <div class="row">
                         <div class="col-lg-12 col-md-12 col-sm-12">
                             <h4>Get cute puppies in your inbox</h4>
+                            <div class="js-email-capture-footer-form-failure hidden">
+                                <p class="margin-top-x1 margin-bottom-x1 text-tertiary">
+                                    Please enter a vaild email address.
+                                </p>
+                            </div>
                             <div class="js-email-capture-footer-form-initial">
-                                <form class="js-crispy-validate-form js-auto-disable-form js-email-capture-form form-inline" action="/newsletter-signup/" method="POST">
+                                <form class="js-email-capture-form form-inline" action="/newsletter-signup/" method="POST">
                                     <label for="email" class="sr-only">Email: </label>
                                     <input class="form-control email-capture-popup-input" type="email" name="email" placeholder="Email Address" data-track-event="" data-event-type="click" data-event="newsletter-submit" required="">
                                     <button class="rover-btn rover-btn-primary margin-left-2x" type="submit">Submit</button>
@@ -934,8 +951,6 @@
     <div class="col-lg-4 col-md-4 col-sm-4">
         <ul class="footer-list">
             
-                <li><a href="/anaheim--ca--dog-boarding/">Anaheim</a></li>
-            
                 <li><a href="/atlanta--ga--dog-boarding/">Atlanta</a></li>
             
                 <li><a href="/austin--tx--dog-boarding/">Austin</a></li>
@@ -943,6 +958,8 @@
                 <li><a href="/baltimore--md--dog-boarding/">Baltimore</a></li>
             
                 <li><a href="/boston--ma--dog-boarding/">Boston</a></li>
+            
+                <li><a href="/ca/calgary--ab--dog-boarding/">Calgary</a></li>
             
                 <li><a href="/charlotte--nc--dog-boarding/">Charlotte</a></li>
             
@@ -956,9 +973,15 @@
             
                 <li><a href="/dallas--tx--dog-boarding/">Dallas</a></li>
             
+                <li><a href="/denver--co--dog-boarding/">Denver</a></li>
+            
+                <li><a href="/ca/edmonton--ab--dog-boarding/">Edmonton</a></li>
+            
                 <li><a href="/fort-worth--tx--dog-boarding/">Fort Worth</a></li>
             
-                <li><a href="/fremont--ca--dog-boarding/">Fremont</a></li>
+                <li><a href="/houston--tx--dog-boarding/">Houston</a></li>
+            
+                <li><a href="/indianapolis--in--dog-boarding/">Indianapolis</a></li>
             
             
         </ul>
@@ -967,15 +990,13 @@
     <div class="col-lg-4 col-md-4 col-sm-4">
         <ul class="footer-list">
             
-                <li><a href="/houston--tx--dog-boarding/">Houston</a></li>
-            
-                <li><a href="/indianapolis--in--dog-boarding/">Indianapolis</a></li>
-            
                 <li><a href="/jacksonville--fl--dog-boarding/">Jacksonville</a></li>
+            
+                <li><a href="/kansas-city--mo--dog-boarding/">Kansas City</a></li>
             
                 <li><a href="/las-vegas--nv--dog-boarding/">Las Vegas</a></li>
             
-                <li><a href="/lexington--sc--dog-boarding/">Lexington</a></li>
+                <li><a href="/lexington--ky--dog-boarding/">Lexington</a></li>
             
                 <li><a href="/los-angeles--ca--dog-boarding/">Los Angeles</a></li>
             
@@ -987,11 +1008,19 @@
             
                 <li><a href="/minneapolis--mn--dog-boarding/">Minneapolis</a></li>
             
+                <li><a href="/ca/mississauga--on--dog-boarding/">Mississauga</a></li>
+            
+                <li><a href="/new-york-city--ny--dog-boarding/">New York City</a></li>
+            
                 <li><a href="/oakland--ca--dog-boarding/">Oakland</a></li>
             
                 <li><a href="/orlando--fl--dog-boarding/">Orlando</a></li>
             
+                <li><a href="/ca/ottawa--on--dog-boarding/">Ottawa</a></li>
+            
                 <li><a href="/philadelphia--pa--dog-boarding/">Philadelphia</a></li>
+            
+                <li><a href="/phoenix--az--dog-boarding/">Phoenix</a></li>
             
             
         </ul>
@@ -1000,11 +1029,9 @@
     <div class="col-lg-4 col-md-4 col-sm-4">
         <ul class="footer-list">
             
-                <li><a href="/phoenix--az--dog-boarding/">Phoenix</a></li>
-            
                 <li><a href="/portland--or--dog-boarding/">Portland</a></li>
             
-                <li><a href="/richmond--ky--dog-boarding/">Richmond</a></li>
+                <li><a href="/richmond--va--dog-boarding/">Richmond</a></li>
             
                 <li><a href="/sacramento--ca--dog-boarding/">Sacramento</a></li>
             
@@ -1016,15 +1043,19 @@
             
                 <li><a href="/san-diego--ca--dog-boarding/">San Diego</a></li>
             
-                <li><a href="/san-francisco--ca--dog-boarding/">San Francisco</a></li>
-            
                 <li><a href="/san-jose--ca--dog-boarding/">San Jose</a></li>
             
+                <li><a href="/seattle--wa--dog-boarding/">Seattle</a></li>
+            
                 <li><a href="/tampa--fl--dog-boarding/">Tampa</a></li>
+            
+                <li><a href="/ca/toronto--on--dog-boarding/">Toronto</a></li>
             
                 <li><a href="/tucson--az--dog-boarding/">Tucson</a></li>
             
                 <li><a href="/washington--dc--dog-boarding/">Washington, D.C.</a></li>
+            
+                <li><a href="/ca/winnipeg--mb--dog-boarding/">Winnipeg</a></li>
             
             
                 <li><a href="/top-dog-boarding-cities/">See more cities</a></li>
@@ -1038,12 +1069,10 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <hr class="shadow-line copyright-shadow-line">
-                <p class="copyright">
-                    © 2016 Rover.com. All Rights Reserved.
-                </p>
-            </div>
+            <p class="copyright">
+                © 2017 Rover.com. All Rights Reserved.
+            </p>
+            <p class="small-text text-center text-muted">2101 4th Ave #400 | Seattle, WA | 98121</p>
         </div>
     </div>
 </div>
@@ -1057,36 +1086,24 @@
 </script>
 
 
-        <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/header/logged_in_user']='<li class="visible-xs"><a href="{{urlInbox}}">Inbox</a>\n<li class="visible-xs"><a href="{{urlDashboard}}">Dashboard</a></li>\n{{#isSitter}}\n    <li class="visible-xs"><a href="{{urlProfile}}">Profile</a></li>\n    <li class="visible-xs"><a href="{{urlCalendar}}">Calendar</a></li>\n{{/isSitter}}\n{{#hasDog}}\n    <li class="visible-xs"><a href="{{urlDogPhotos}}">Photos</a></li>\n{{/hasDog}}\n{{^isSitter}}\n    <li class="visible-xs"><a href="{{urlProfile}}">Profile</a></li>\n    <li class="visible-xs"><a href="{{urlNotifications}}">Settings</a></li>\n{{/isSitter}}\n\n<li class="dropdown hidden-xs">\n    <a href="#" class="dropdown-toggle dropdown-with-avatar" data-toggle="dropdown">\n        <img src="{{smallPhotoUrl}}" class="avatar js-rover-avatar link-icon"> {{firstName}} <b class="caret"></b>\n    </a>\n\n    <ul class="dropdown-menu no-round">\n        <li data-view="performance-metrics__glanceview" class="performance-metrics performance-metrics__glanceview flex flex-dir-column flex-just-between padding-top-x4 padding-bottom-x2 rover-loading pointer"></li>\n\n        <li><a href="{{urlDashboard}}">Dashboard</a></li>\n\n        {{#performanceMetricsEnabled}}\n            <li>\n                <a href="{{urlProfile}}"\n                    data-track-event  data-event-type="click" data-event="sitterscores-glance-view-scores-displayed" data-event-merge=\'{"origin": "profile-link"}\'>\n                Profile\n                </a>\n            </li>\n        {{/performanceMetricsEnabled}}\n        {{^performanceMetricsEnabled}}\n            <li><a href="{{urlProfile}}">Profile</a></li>\n        {{/performanceMetricsEnabled}}\n\n        <li><a href="{{urlInbox}}">Inbox</a></li>\n        {{#isSitter}}\n            <li><a href="{{urlCalendar}}">Calendar</a></li>\n        {{/isSitter}}\n        {{#urlNotifications}}\n            <li><a href="{{urlNotifications}}">Settings</a></li>\n        {{/urlNotifications}}\n        {{#hasDog}}\n            <li><a href="{{urlDogPhotos}}">Photos</a></li>\n        {{/hasDog}}\n        <li class="divider"></li>\n        <li><a href="{{urlLogout}}">Log out</a></li>\n    </ul>\n</li>\n\n<li class="hidden-xs"><a href="{{urlInbox}}"><span class="rover-icon rover-icon-in-envelope link-icon"></span>({{unreadMessageCount}})</a></li>\n\n<li><a href="https://support.rover.com/hc/en-us?ref=header" target="_blank" data-track-event data-event-type="click" data-event="navigation-help"><span class="rover-icon rover-icon-in-question-circle link-icon"></span>Help</a></li>\n\n<li class="divider visible-xs"></li>\n<li class="visible-xs"><a href="{{urlLogout}}">Log out</a></li>\n';</script>
-        <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/common/alert']='<div class="alert alert-{{severity}} padded fade in js-alert">{{#showHideButton}}<button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>{{/showHideButton}}{{message}}</div>\n';</script>
-        <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/social/modal_sharing_buttons']='<div class="pull-left margin-left-x4 margin-bottom-x2 clearfix">\n    <div class="mfp-caption-display js-caption-display">{{caption}}</div>\n</div>\n\n<div class="text-right pull-left margin-left-x4 clearfix">\n    <div class="js-sharing-wrapper" data-image-to-share="{{imageToShare}}" data-image-thumbnail="{{imageThumbnail}}" data-url-to-share="{{urlToShare}}" data-content-type="{{contentType}}" data-object-id="{{objectId}}" data-campaign="{{campaign}}" data-share-location="{{shareLocation}}" data-tracking-content="{{trackingContent}}">\n\n        {{#hideable}}\n            <button class="btn btn-default btn-sm hide-photo-button js-hide-photo" data-object-id="{{objectId}}" data-hidden="{{hidden}}" data-loading-text="Loading..." data-hide-text="Hide photo" data-unhide-text="Unhide photo">\n                {{^hidden}}Hide photo{{/hidden}}{{#hidden}}Unhide photo{{/hidden}}\n            </button>\n        {{/hideable}}\n\n        <button class="button-as-link js-social-share-photo-button" data-network="facebook" title="Share on Facebook">\n            <span class="social-share-icon-wrapper facebook-share-outer">\n                <span class="table-row auto-centered">\n                    <span class="table-cell rover-icon rover-icon-in-facebook text-contrast rover-icon-2x"></span>\n                </span>\n            </span>\n        </button>\n\n        <button class="button-as-link js-social-share-photo-button" data-network="pinterest" title="Share on Pinterest">\n            <span class="social-share-icon-wrapper pinterest-share-outer">\n                <span class="table-row auto-centered">\n                    <span class="table-cell rover-icon rover-icon-in-pinterest text-contrast rover-icon-2x"></span>\n                </span>\n            </span>\n        </button>\n    </div>\n</div>\n';</script>
-        <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/social/facebook_share_form']='<input type="hidden" name="imageToShare" value="{{imageToShare}}"/>\n<input type="hidden" name="urlToShare" value="{{urlToShare}}"/>\n<input type="hidden" name="contentType" value="{{contentType}}"/>\n<input type="hidden" name="objectId" value="{{objectId}}"/>\n<input type="hidden" name="shareLocation" value="{{shareLocation}}"/>\n\n<div class="row">\n    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">\n        <div class="alert alert-danger js-need-connect-to-share hide">\n            In order to share this photo on Facebook, we need permission to post it on your behalf. Please <button class="rover-btn rover-btn-facebook js-connect-facebook" data-loading-text="<span class="rover-icon rover-icon-in-facebook rover-icon-lg btn-left-icon"></span> Connecting..." data-connect-location="photo_share"><span class="rover-icon rover-icon-in-facebook rover-icon-lg btn-left-icon"></span> Connect with Facebook</button>\n        </div>\n        <div class="alert alert-danger js-need-to-log-in hide">\n            In order to share this photo on Facebook, please <a href="{{signinUrl}}" class="alert-link">log in</a> to your Rover account\n        </div>\n    </div>\n</div>\n\n<div class="form-group">\n    <div class="row">\n        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">\n            <img src="{{imageThumb}}" class="js-share-image-thumb" height="80" width="80"/>\n        </div>\n        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-8">\n            <textarea class="form-control js-sharing-copy" rows="4" placeholder="Caption"></textarea>\n        </div>\n    </div>\n</div>\n';</script>
-        <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/social/pinterest_share_link']='http://www.pinterest.com/pin/create/button/?url={{url}}&amp;media={{imageUrl}}\n';</script>
-        <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/common/modal']='<div class="new-design">\n    <div class="js-rover-modal rover-modal {{#animate}}fade{{/animate}} {{classes}}" tabindex="-1" role="dialog" aria-hidden="true" {{&attrs}}>\n        <div class="js-modal-dialog modal-dialog {{ dialogClasses }}">\n            <div class="modal-content js-modal-content">\n                {{#title}}\n                    <div class="modal-header js-modal-header">\n                        {{^disableCancel}}\n                            <button type="button" class="close js-modal-close" data-dismiss="modal">\n                                <span aria-hidden="true">\n                                    <span class="rover-icon rover-icon-generic-none rover-icon-lg"></span>\n                                </span>\n                                <span class="sr-only">Close</span>\n                            </button>\n                        {{/disableCancel}}\n                        <h3 class="modal-title js-modal-title">{{title}}</h3>\n                    </div>\n                {{/title}}\n                <div class="modal-body {{^padding}}no-padding{{/padding}} js-modal-body">\n                    {{^title}}\n                        {{^disableCancel}}\n                            <button type="button" class="close js-modal-close" data-dismiss="modal">\n                                <span aria-hidden="true">\n                                    <span class="rover-icon rover-icon-generic-none rover-icon-lg"></span>\n                                </span>\n                                <span class="sr-only">Close</span>\n                            </button>\n                        {{/disableCancel}}\n                    {{/title}}\n                    <div class="modal-inner-body js-modal-inner-body">\n                        {{&content}}\n                    </div>\n                </div>\n                {{#showFooter}}\n                    <div class="modal-footer js-modal-footer">\n                        {{#showExtraButton}}\n                        <button type="button" class="rover-btn rover-btn-{{extraType}} pull-left js-modal-extra-action">\n                            {{#extraIcon}}<i class="fa {{extraIcon}}"></i>{{/extraIcon}}\n                            {{extraText}}\n                        </button>\n                        {{/showExtraButton}}\n\n                        {{^disableCancel}}\n                            {{#cancelText}}\n                                <button type="button" class="button-as-link js-modal-cancel margin-right-x2 text-muted" data-dismiss="modal">{{cancelText}}</button>\n                            {{/cancelText}}\n                        {{/disableCancel}}\n                        <button type="button" class="rover-btn rover-btn-{{okType}} js-modal-primary-action">\n                            {{#okIcon}}<i class="fa {{okIcon}}"></i>{{/okIcon}}\n                            {{okText}}\n                        </button>\n                    </div>\n                {{/showFooter}}\n            </div>\n        </div>\n    </div>\n</div>\n';</script>
-        <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/common/cta_popover']='<div class="popover rover-popover rover-popover-{{ popoverId }}" role="tooltip">\n    <div class="arrow"></div>\n    <div class="popover-content"></div>\n</div>\n';</script>
-        <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/common/cta_popover_content']='<div>\n    {{#headerButtonLabel}}\n    <div class="header">\n        <button class="rover-btn rover-btn-primary btn-block header-btn">\n            {{#headerButtonIcon}}\n            <i class="rover-icon rover-icon-{{ headerButtonIcon }}"></i>\n            {{/headerButtonIcon}}\n            {{ headerButtonLabel }}\n        </button>\n    </div>\n    {{/headerButtonLabel}}\n    <div class="content">\n        <p class="title">\n          {{ title }}\n        </p>\n        <p class="text">\n            {{ text }}\n        </p>\n    </div>\n    <div class="footer">\n        <button class="rover-btn footer-btn">\n           {{ footerButtonLabel }}\n        </button>\n    </div>\n</div>\n';</script>
-        <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/common/media_gallery/image']='<div class="rover-gallery-slide">\n    <a class="rsImg" href="{{src}}"></a>\n    {{#caption}}\n        <div class="rsCaption">\n            {{.}}\n        </div>\n    {{/caption}}\n    {{#unsafeHtmlCaption}}\n        {{! Only use unsafeHtmlCaption if you KNOW any user input in the caption has been escaped. }}\n        {{! See initializeGalleries in application.js for correct usage - note that it renders HTML via another Mustache template, with the user-entered caption in double brackets. }}\n        <div class="rsCaption">\n            {{{.}}}\n        </div>\n    {{/unsafeHtmlCaption}}\n</div>\n';</script>
-        <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/common/media_gallery/video']='<div class="rover-gallery-slide video" data-video-backup-src="{{ backupSrc }}">\n    <a class="rsImg" data-rsVideo="{{ src }}" href="{{ thumbnail }}"></a>\n    {{#caption}}\n        <div class="rsCaption">\n            {{{caption}}}\n        </div>\n    {{/caption}}\n</div>\n';</script>
-        <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/account_profile/performance_metrics/performance_metrics_glanceview']='{{#activePerformanceMetric}}\n<p class="margin-x0 text-center">{{ service_type.name }}</p>\n\n\n<div class="performance-metrics__glanceview__cards flex flex-dir-column flex-align-start margin-v-x1">\n    {{#activePerformanceMetric.bookingScoreBlocked}}\n    <!-- Locked State -->\n    <div class="performance-metrics__glanceview__card__blocked margin-bottom-x2 padding-h-x5 flex flex-dir-row flex-just-start flex-align-center">\n        <aside class="performance-metrics__glanceview__card__score semibold-text text-muted margin-x0 margin-right-x2">\n            <h4 class="performance-metrics__glanceview__card__score-num overall-performance heavy-text padding-x2 margin-x0">\n                NA<i class="rover-icon rover-icon-lock"></i>\n            </h4>\n        </aside>\n\n        <aside class="performance-metrics__glanceview__card-title flex flex-dir-column flex-just-center">\n            <p class="heavy-text margin-x0">Booking Score</p>\n        </aside>\n    </div>\n    {{/activePerformanceMetric.bookingScoreBlocked}}\n\n    {{^activePerformanceMetric.bookingScoreBlocked}}\n    {{#booking_score}}\n    <div class="performance-metrics__glanceview__card margin-bottom-x2 padding-h-x5 flex flex-dir-row flex-just-start flex-align-center">\n        <aside class="performance-metrics__glanceview__card__score semibold-text margin-x0 margin-right-x2 margin-bottom-x1">\n            <h4 class="\n                performance-metrics__glanceview__card__score-num overall-performance semibold-text padding-x2 margin-x0\n                {{^conditionalType.med_low}}{{performance_level}}-score{{/conditionalType.med_low}}\n                {{#conditionalType.med_low}}med-low-score{{/conditionalType.med_low}}\n            ">{{ value }}</h4>\n        </aside>\n\n        <aside class="performance-metrics__glanceview__card-title flex flex-dir-column flex-just-center">\n            <p class="heavy-text margin-x0">{{ title }}</p>\n            <p class="margin-x0">{{ caption }}</p>\n        </aside>\n    </div>\n    {{/booking_score}}\n    {{/activePerformanceMetric.bookingScoreBlocked}}\n\n    {{#activePerformanceMetric.repeatScoreBlocked}}\n    <!-- Locked State -->\n    <div class="performance-metrics__glanceview__card__blocked margin-bottom-x2 padding-h-x5 flex flex-dir-row flex-just-start flex-align-center">\n        <aside class="performance-metrics__glanceview__card__score semibold-text text-muted margin-x0 margin-right-x2">\n            <h4 class="performance-metrics__glanceview__card__score-num overall-performance heavy-text padding-x2 margin-x0">\n                NA<i class="rover-icon rover-icon-lock"></i>\n            </h4>\n        </aside>\n\n        <aside class="performance-metrics__glanceview__card-title flex flex-dir-column flex-just-center">\n            <p class="heavy-text margin-x0">Repeat Score</p>\n        </aside>\n    </div>\n    {{/activePerformanceMetric.repeatScoreBlocked}}\n\n    {{^activePerformanceMetric.repeatScoreBlocked}}\n    {{#repeat_score}}\n    <div class="performance-metrics__glanceview__card margin-bottom-x2 padding-h-x5 flex flex-dir-row flex-just-start flex-align-center">\n        <aside class="performance-metrics__glanceview__card__score semibold-text margin-x0 margin-right-x2 margin-bottom-x1">\n            <h4 class="\n                performance-metrics__glanceview__card__score-num overall-performance semibold-text padding-x2 margin-x0\n                {{^conditionalType.med_low}}{{performance_level}}-score{{/conditionalType.med_low}}\n                {{#conditionalType.med_low}}med-low-score{{/conditionalType.med_low}}\n            ">{{ value }}</h4>\n        </aside>\n\n        <aside class="performance-metrics__glanceview__card-title flex flex-dir-column flex-just-center">\n            <p class="heavy-text margin-x0">{{ title }}</p>\n            <p class="margin-x0">{{ caption }}</p>\n        </aside>\n    </div>\n    {{/repeat_score}}\n    {{/activePerformanceMetric.repeatScoreBlocked}}\n</div>\n\n<a class="margin-x0 padding-x0 text-center" href="{{performanceMetricsUrl}}"\n    data-track-event  data-event-type="click" data-event="sitterscores-navigate-to-scores" data-event-merge=\'{"origin": "glanceview-link"}\'>\n    View Performance Scores\n</a>\n{{/activePerformanceMetric}}\n';</script>
-        <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['js/app/services/pricing_field']='{{#proposedStay.total_price}}\nPrice:\n<span>\n   ${{proposedStay.total_price}}\n</span>\n{{/proposedStay.total_price}}\n{{^proposedStay.total_price}}\n<i class="rover-icon rover-icon-in-spinner fr-spin"></i> <em>calculating...</em>\n{{/proposedStay.total_price}}\n';</script>
-        <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['js/app/stays/rebook']='<div class="rover-modal js-rebook-modal rebook-modal">\n    <div class="modal-dialog">\n        <div class="modal-content">\n            <div class="modal-body" style="max-height: none">\n                <h3 class="margin-top-x0">\n                    New Stay for {{requester.short_name}}\n                </h3>\n                <p class="nopadding">\n                    Use this feature to book with past customers or providers when they contact you outside of Rover.\n                    Please do not send unsolicited requests.\n                </p>\n                <div class="row js-service-selection service-select-buttons">\n                    {{#services}}\n                        <div class="col-xs-6 col-sm-{{col_sm}} padding-bottom-x5 col-lopad-xs col-lopad-sm col-lopad-md col-lopad-lg">\n                            <div class="rover-button text-center js-stay-type-btn js-stickit-data-value padding-x1" data-slug="{{slug}}">\n                                <a>\n                                    <div class="hidden-xs">\n                                        <i class="rover-icon rover-icon-{{service_type.icon}} rover-icon-2x"></i>\n                                    </div>\n                                    <div>\n                                        <div>\n                                            {{top_name}}<br />\n                                            {{bottom_name}}\n                                        </div>\n                                    </div>\n                                </a>\n                            </div>\n                        </div>\n                    {{/services}}\n                </div>\n                <form class="rebook-form js-rebook-form" action="{{action}}" role="form" method="POST">\n                    <ul class="pet-list list-inline margin-bottom-x4">\n                        <li>Dog(s):</li>\n                        {{#pets}}\n                            <li class="pet">\n                                <label class="checkbox-inline">\n                                    <input class="js-dog-checkbox js-checkbox-bind-to-list js-validate-element" type="checkbox" name="pets" value="{{url}}" checked="checked" data-rule-required="true" data-msg-required="Please include at least one pet in the conversation.">{{name}}{{^last}}, {{/last}}\n                                </label>\n                            </li>\n                        {{/pets}}\n                    </ul>\n\n                    <div class="form-group stay-duration margined">\n                        <div class="js-dates-for-service"></div>\n                    </div>\n                    <div class="js-pricing margin-bottom-x4 form-group hidden">\n                        Price: <em>Select dates to calculate price</em>\n                    </div>\n                    <div class="form-group">\n                        <label class="control-label">Message</label>\n                        <textarea name="content" class="form-control content" rows="3">\nHi {{receiver.first_name}},\nI\'ve created a new stay for the dates we discussed. Looking forward to it!\n-{{sender.first_name}}</textarea>\n                    </div>\n                    {{#needsPhoneNumber}}\n                    <div class="form-group">\n                        <label class="control-label">Phone Number</label>\n                        <input type="text" pattern="\\d*" name="phone_number" class="phone-number-input form-control js-phone-number-input" placeholder="555-555-5555" data-rule-required="true" data-rule-phoneus="true">\n                    </div>\n                    {{/needsPhoneNumber}}\n                    <input type="hidden" name="provider" value="{{provider.url}}">\n                    <input type="hidden" name="service" value="{{service_url}}">\n                    <input type="hidden" name="requester" value="{{requester.url}}">\n                    <input type="hidden" name="sender" value="{{sender.url}}">\n                    <div class="form-group">\n                        <button class="rover-btn rover-btn-primary margin-right-x2 pull-left js-submit-rebook-request"\n                                data-loading-text="Creating request...">Create stay request</button>\n                        <span>You can adjust the dates, dogs, and price on the Message page before you finalize your booking</span>\n                    </div>\n                    <div class="form-group">\n                        <button type="button" class="rover-btn rover-btn-default js-cancel">Cancel</button>\n                    </div>\n                </form>\n            </div>\n        </div>\n    </div>\n</div>\n';</script>
-        <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['js/app/stays/extend']='<div class="rover-modal js-rebook-modal rebook-modal">\n    <div class="modal-dialog">\n        <div class="modal-content">\n            <div class="modal-body" style="max-height: none">\n                <h3 class="margin-top-x0">\n                    Extend stay with {{provider.short_name}}\n                </h3>\n                <p class="nopadding">\n                    Use this feature to extend the dates of this Rover stay. Once you create the request the booking process is the same as the original request\n                </p>\n                <div class="row js-service-selection service-select-buttons">\n                    {{#services}}\n                        <div class="col-xs-6 col-sm-{{col_sm}} padding-bottom-x5 col-lopad-xs col-lopad-sm col-lopad-md col-lopad-lg">\n                            <div class="rover-button text-center js-stay-type-btn js-stickit-data-value padding-x1" data-slug="{{slug}}">\n                                <a>\n                                    <div class="hidden-xs">\n                                        <i class="rover-icon rover-icon-{{service_type.icon}} rover-icon-2x"></i>\n                                    </div>\n                                    <div>\n                                        <div>\n                                            {{top_name}}<br />\n                                            {{bottom_name}}\n                                        </div>\n                                    </div>\n                                </a>\n                            </div>\n                        </div>\n                    {{/services}}\n                </div>\n                <form class="js-auto-disable-form rebook-form js-rebook-form" action="{{action}}" role="form" method="POST">\n                    <ul class="pet-list list-inline margin-bottom-x4">\n                        <li>Dog(s):</li>\n                        {{#pets}}\n                            <li class="pet">\n                                {{name}}{{^last}}, {{/last}}\n                                <input type="hidden" name="pets" value="{{url}}" />\n                            </li>\n                        {{/pets}}\n                    </ul>\n\n                    <div class="form-group stay-duration margined">\n                        <div class="js-dates-for-service"></div>\n                    </div>\n                    <div class="js-pricing margin-bottom-x4 form-group hidden">\n                        Price: <em>Select dates to calculate price</em>\n                    </div>\n                    <div class="form-group">\n                        <label class="control-label">Message</label>\n                        <textarea name="content" class="form-control content" rows="3">\nHi {{receiver.first_name}},\nI\'ve extended this stay for the dates we discussed. Looking forward to it!\n-{{sender.first_name}}</textarea>\n                    </div>\n                    <input type="hidden" name="provider" value="{{provider.url}}">\n                    <input type="hidden" name="service" value="{{service_url}}">\n                    <input type="hidden" name="requester" value="{{requester.url}}">\n                    <input type="hidden" name="sender" value="{{sender.url}}">\n                    <input type="hidden" name="extended_stay_conversation" value="1">\n                    <input type="hidden" name="original_conversation" value="{{conversation.url}}">\n                    <div class="form-group">\n                        <button class="rover-btn rover-btn-primary margin-right-x2 pull-left js-submit-rebook-request" data-loading-text="Creating request...">Extend stay request</button>\n                        <span>You can adjust the dates, dogs, and price on the Message page before you finalize your booking</span>\n                    </div>\n                    <div class="form-group">\n                        <button type="button" class="rover-btn rover-btn-default js-cancel">Cancel</button>\n                    </div>\n                </form>\n            </div>\n        </div>\n    </div>\n</div>\n';</script>
-        <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/dogs']='{{#dogs}}\n    <div class="col-lg-3 col-md-4 col-sm-4 col-xs-4">\n        <label for="dog-{{id}}" class="dog-label checkbox-inline"><input type="checkbox" value="{{id}}" name="pet" id="dog-{{id}}" checked="checked"> {{name}}</label>\n    </div>\n{{/dogs}}\n';</script>
-
         
-            
-            <div class="modal fade geo-popup-container">
-                <div class="modal-dialog">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-                        </div>
-                        <div class="modal-body">
-                            <iframe frameborder="0" style="height: 260px; width: 100%;" src="" scrolling="no"></iframe>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/header/logged_in_user']='<li class="visible-xs"><a href="{{urlInbox}}">Inbox</a>\n<li class="visible-xs"><a href="{{urlDashboard}}">Dashboard</a></li>\n{{#isSitter}}\n    <li class="visible-xs"><a href="{{urlProfile}}">Profile</a></li>\n    <li class="visible-xs"><a href="{{urlCalendar}}">Calendar</a></li>\n{{/isSitter}}\n{{#hasDog}}\n    <li class="visible-xs"><a href="{{urlDogPhotos}}">Photos</a></li>\n{{/hasDog}}\n{{^isSitter}}\n    <li class="visible-xs"><a href="{{urlProfile}}">Profile</a></li>\n    <li class="visible-xs"><a href="{{urlNotifications}}">Settings</a></li>\n{{/isSitter}}\n\n<li class="dropdown hidden-xs">\n    <a href="#" class="dropdown-toggle dropdown-with-avatar" data-toggle="dropdown">\n        <img src="{{smallPhotoUrl}}" class="avatar js-rover-avatar link-icon"> {{firstName}} <b class="caret"></b>\n    </a>\n\n    <ul class="dropdown-menu no-round">\n        <li data-view="performance-metrics__glanceview" class="performance-metrics performance-metrics__glanceview flex flex-dir-column flex-just-between padding-top-x4 padding-bottom-x2 rover-loading pointer"></li>\n\n        <li><a href="{{urlDashboard}}">Dashboard</a></li>\n\n        {{#performanceMetricsEnabled}}\n            <li>\n                <a href="{{urlProfile}}"\n                    data-track-event  data-event-type="click" data-event="sitterscores-glance-view-scores-displayed" data-event-merge=\'{"origin": "profile-link"}\'>\n                Profile\n                </a>\n            </li>\n        {{/performanceMetricsEnabled}}\n        {{^performanceMetricsEnabled}}\n            <li><a href="{{urlProfile}}">Profile</a></li>\n        {{/performanceMetricsEnabled}}\n\n        <li><a href="{{urlInbox}}">Inbox</a></li>\n        {{#isSitter}}\n            <li><a href="{{urlCalendar}}">Calendar</a></li>\n        {{/isSitter}}\n        {{#urlNotifications}}\n            <li><a href="{{urlNotifications}}">Settings</a></li>\n        {{/urlNotifications}}\n        {{#hasDog}}\n            <li><a href="{{urlDogPhotos}}">Photos</a></li>\n        {{/hasDog}}\n        <li class="divider"></li>\n        <li><a href="{{urlLogout}}">Log out</a></li>\n    </ul>\n</li>\n\n<li class="hidden-xs"><a href="{{urlInbox}}"><span class="rover-icon rover-icon-in-envelope link-icon"></span>({{unreadMessageCount}})</a></li>\n\n<li><a href="https://support.rover.com/hc/en-us?ref=header" target="_blank" data-track-event data-event-type="click" data-event="navigation-help"><span class="rover-icon rover-icon-in-question-circle link-icon"></span>Help</a></li>\n\n<li class="divider visible-xs"></li>\n<li class="visible-xs"><a href="{{urlLogout}}">Log out</a></li>\n';</script>
+            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/common/alert']='<div class="alert alert-{{severity}} padded fade in js-alert">{{#showHideButton}}<button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>{{/showHideButton}}{{message}}</div>\n';</script>
+            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/social/modal_sharing_buttons']='<div class="pull-left margin-left-x4 margin-bottom-x2 clearfix">\n    <div class="mfp-caption-display js-caption-display">{{caption}}</div>\n</div>\n\n<div class="text-right pull-left margin-left-x4 clearfix">\n    <div class="js-sharing-wrapper" data-image-to-share="{{imageToShare}}" data-image-thumbnail="{{imageThumbnail}}" data-url-to-share="{{urlToShare}}" data-content-type="{{contentType}}" data-object-id="{{objectId}}" data-campaign="{{campaign}}" data-share-location="{{shareLocation}}" data-tracking-content="{{trackingContent}}">\n\n        {{#hideable}}\n            <button class="btn btn-default btn-sm hide-photo-button js-hide-photo" data-object-id="{{objectId}}" data-hidden="{{hidden}}" data-loading-text="Loading..." data-hide-text="Hide photo" data-unhide-text="Unhide photo">\n                {{^hidden}}Hide photo{{/hidden}}{{#hidden}}Unhide photo{{/hidden}}\n            </button>\n        {{/hideable}}\n\n        <button class="button-as-link js-social-share-photo-button" data-network="facebook" title="Share on Facebook">\n            <span class="social-share-icon-wrapper facebook-share-outer">\n                <span class="table-row auto-centered">\n                    <span class="table-cell rover-icon rover-icon-in-facebook text-contrast rover-icon-2x"></span>\n                </span>\n            </span>\n        </button>\n\n        <button class="button-as-link js-social-share-photo-button" data-network="pinterest" title="Share on Pinterest">\n            <span class="social-share-icon-wrapper pinterest-share-outer">\n                <span class="table-row auto-centered">\n                    <span class="table-cell rover-icon rover-icon-in-pinterest text-contrast rover-icon-2x"></span>\n                </span>\n            </span>\n        </button>\n    </div>\n</div>\n';</script>
+            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/social/facebook_share_form']='<input type="hidden" name="imageToShare" value="{{imageToShare}}"/>\n<input type="hidden" name="urlToShare" value="{{urlToShare}}"/>\n<input type="hidden" name="contentType" value="{{contentType}}"/>\n<input type="hidden" name="objectId" value="{{objectId}}"/>\n<input type="hidden" name="shareLocation" value="{{shareLocation}}"/>\n\n<div class="row">\n    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">\n        <div class="alert alert-danger js-need-connect-to-share hide">\n            In order to share this photo on Facebook, we need permission to post it on your behalf. Please <button class="rover-btn rover-btn-facebook js-connect-facebook" data-loading-text="<span class="rover-icon rover-icon-in-facebook rover-icon-lg btn-left-icon"></span> Connecting..." data-connect-location="photo_share"><span class="rover-icon rover-icon-in-facebook rover-icon-lg btn-left-icon"></span> Connect with Facebook</button>\n        </div>\n        <div class="alert alert-danger js-need-to-log-in hide">\n            In order to share this photo on Facebook, please <a href="{{signinUrl}}" class="alert-link">log in</a> to your Rover account\n        </div>\n    </div>\n</div>\n\n<div class="form-group">\n    <div class="row">\n        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">\n            <img src="{{imageThumb}}" class="js-share-image-thumb" height="80" width="80"/>\n        </div>\n        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-8">\n            <textarea class="form-control js-sharing-copy" rows="4" placeholder="Caption"></textarea>\n        </div>\n    </div>\n</div>\n';</script>
+            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/social/pinterest_share_link']='http://www.pinterest.com/pin/create/button/?url={{url}}&amp;media={{imageUrl}}\n';</script>
+            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/common/modal']='<div class="new-design">\n    <div class="js-rover-modal rover-modal {{#animate}}fade{{/animate}} {{classes}}" tabindex="-1" role="dialog" aria-hidden="true" {{&attrs}}>\n        <div class="js-modal-dialog modal-dialog {{ dialogClasses }}">\n            <div class="modal-content js-modal-content">\n                {{#title}}\n                    <div class="modal-header js-modal-header">\n                        {{^disableCancel}}\n                            <button type="button" class="close js-modal-close" data-dismiss="modal">\n                                <span aria-hidden="true">\n                                    <span class="rover-icon rover-icon-generic-none rover-icon-lg"></span>\n                                </span>\n                                <span class="sr-only">Close</span>\n                            </button>\n                        {{/disableCancel}}\n                        <h3 class="modal-title js-modal-title">{{title}}</h3>\n                    </div>\n                {{/title}}\n                <div class="modal-body {{^padding}}no-padding{{/padding}} js-modal-body">\n                    {{^title}}\n                        {{^disableCancel}}\n                            <button type="button" class="close js-modal-close" data-dismiss="modal">\n                                <span aria-hidden="true">\n                                    <span class="rover-icon rover-icon-generic-none rover-icon-lg"></span>\n                                </span>\n                                <span class="sr-only">Close</span>\n                            </button>\n                        {{/disableCancel}}\n                    {{/title}}\n                    <div class="modal-inner-body js-modal-inner-body">\n                        {{&content}}\n                    </div>\n                </div>\n                {{#showFooter}}\n                    <div class="modal-footer js-modal-footer">\n                        {{#showExtraButton}}\n                        <button type="button" class="rover-btn rover-btn-{{extraType}} pull-left js-modal-extra-action">\n                            {{#extraIcon}}<i class="fa {{extraIcon}}"></i>{{/extraIcon}}\n                            {{extraText}}\n                        </button>\n                        {{/showExtraButton}}\n\n                        {{^disableCancel}}\n                            {{#cancelText}}\n                                <button type="button" class="button-as-link js-modal-cancel margin-right-x2 text-muted" data-dismiss="modal">{{cancelText}}</button>\n                            {{/cancelText}}\n                        {{/disableCancel}}\n                        <button type="button" class="rover-btn rover-btn-{{okType}} js-modal-primary-action">\n                            {{#okIcon}}<i class="fa {{okIcon}}"></i>{{/okIcon}}\n                            {{okText}}\n                        </button>\n                    </div>\n                {{/showFooter}}\n            </div>\n        </div>\n    </div>\n</div>\n';</script>
+            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/common/cta_popover']='<div class="popover rover-popover rover-popover-{{ popoverId }}" role="tooltip">\n    <div class="arrow"></div>\n    <div class="popover-content"></div>\n</div>\n';</script>
+            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/common/cta_popover_content']='<div>\n    {{#headerButtonLabel}}\n    <div class="header">\n        <button class="rover-btn rover-btn-primary btn-block header-btn">\n            {{#headerButtonIcon}}\n            <i class="rover-icon rover-icon-{{ headerButtonIcon }}"></i>\n            {{/headerButtonIcon}}\n            {{ headerButtonLabel }}\n        </button>\n    </div>\n    {{/headerButtonLabel}}\n    <div class="content">\n        <p class="title">\n          {{ title }}\n        </p>\n        <p class="text">\n            {{ text }}\n        </p>\n    </div>\n    <div class="footer">\n        <button class="rover-btn footer-btn">\n           {{ footerButtonLabel }}\n        </button>\n    </div>\n</div>\n';</script>
+            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/common/media_gallery/image']='<div class="rover-gallery-slide">\n    <a class="rsImg" href="{{src}}"></a>\n    {{#caption}}\n        <div class="rsCaption">\n            {{.}}\n        </div>\n    {{/caption}}\n    {{#unsafeHtmlCaption}}\n        {{! Only use unsafeHtmlCaption if you KNOW any user input in the caption has been escaped. }}\n        {{! See initializeGalleries in application.js for correct usage - note that it renders HTML via another Mustache template, with the user-entered caption in double brackets. }}\n        <div class="rsCaption">\n            {{{.}}}\n        </div>\n    {{/unsafeHtmlCaption}}\n</div>\n';</script>
+            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/common/media_gallery/video']='<div class="rover-gallery-slide video" data-video-backup-src="{{ backupSrc }}">\n    <a class="rsImg" data-rsVideo="{{ src }}" href="{{ thumbnail }}"></a>\n    {{#caption}}\n        <div class="rsCaption">\n            {{{caption}}}\n        </div>\n    {{/caption}}\n</div>\n';</script>
+            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/account_profile/performance_metrics/performance_metrics_glanceview']='{{#activePerformanceMetric}}\n<p class="margin-x0 text-center">{{ service_type.name }}</p>\n\n\n<div class="performance-metrics__glanceview__cards flex flex-dir-column flex-align-start margin-v-x1">\n    {{#activePerformanceMetric.bookingScoreBlocked}}\n    <!-- Locked State -->\n    <div class="performance-metrics__glanceview__card__blocked margin-bottom-x2 padding-h-x5 flex flex-dir-row flex-just-start flex-align-center">\n        <aside class="performance-metrics__glanceview__card__score semibold-text text-muted margin-x0 margin-right-x2">\n            <h4 class="performance-metrics__glanceview__card__score-num overall-performance heavy-text padding-x2 margin-x0">\n                NA<i class="rover-icon rover-icon-lock"></i>\n            </h4>\n        </aside>\n\n        <aside class="performance-metrics__glanceview__card-title flex flex-dir-column flex-just-center">\n            <p class="heavy-text margin-x0">Booking Score</p>\n        </aside>\n    </div>\n    {{/activePerformanceMetric.bookingScoreBlocked}}\n\n    {{^activePerformanceMetric.bookingScoreBlocked}}\n    {{#booking_score}}\n    <div class="performance-metrics__glanceview__card margin-bottom-x2 padding-h-x5 flex flex-dir-row flex-just-start flex-align-center">\n        <aside class="performance-metrics__glanceview__card__score semibold-text margin-x0 margin-right-x2 margin-bottom-x1">\n            <h4 class="\n                performance-metrics__glanceview__card__score-num overall-performance semibold-text padding-x2 margin-x0\n                {{^conditionalType.med_low}}{{performance_level}}-score{{/conditionalType.med_low}}\n                {{#conditionalType.med_low}}med-low-score{{/conditionalType.med_low}}\n            ">{{ value }}</h4>\n        </aside>\n\n        <aside class="performance-metrics__glanceview__card-title flex flex-dir-column flex-just-center">\n            <p class="heavy-text margin-x0">{{ title }}</p>\n            <p class="margin-x0">{{ caption }}</p>\n        </aside>\n    </div>\n    {{/booking_score}}\n    {{/activePerformanceMetric.bookingScoreBlocked}}\n\n    {{#activePerformanceMetric.repeatScoreBlocked}}\n    <!-- Locked State -->\n    <div class="performance-metrics__glanceview__card__blocked margin-bottom-x2 padding-h-x5 flex flex-dir-row flex-just-start flex-align-center">\n        <aside class="performance-metrics__glanceview__card__score semibold-text text-muted margin-x0 margin-right-x2">\n            <h4 class="performance-metrics__glanceview__card__score-num overall-performance heavy-text padding-x2 margin-x0">\n                NA<i class="rover-icon rover-icon-lock"></i>\n            </h4>\n        </aside>\n\n        <aside class="performance-metrics__glanceview__card-title flex flex-dir-column flex-just-center">\n            <p class="heavy-text margin-x0">Repeat Score</p>\n        </aside>\n    </div>\n    {{/activePerformanceMetric.repeatScoreBlocked}}\n\n    {{^activePerformanceMetric.repeatScoreBlocked}}\n    {{#repeat_score}}\n    <div class="performance-metrics__glanceview__card margin-bottom-x2 padding-h-x5 flex flex-dir-row flex-just-start flex-align-center">\n        <aside class="performance-metrics__glanceview__card__score semibold-text margin-x0 margin-right-x2 margin-bottom-x1">\n            <h4 class="\n                performance-metrics__glanceview__card__score-num overall-performance semibold-text padding-x2 margin-x0\n                {{^conditionalType.med_low}}{{performance_level}}-score{{/conditionalType.med_low}}\n                {{#conditionalType.med_low}}med-low-score{{/conditionalType.med_low}}\n            ">{{ value }}</h4>\n        </aside>\n\n        <aside class="performance-metrics__glanceview__card-title flex flex-dir-column flex-just-center">\n            <p class="heavy-text margin-x0">{{ title }}</p>\n            <p class="margin-x0">{{ caption }}</p>\n        </aside>\n    </div>\n    {{/repeat_score}}\n    {{/activePerformanceMetric.repeatScoreBlocked}}\n</div>\n\n<a class="margin-x0 padding-x0 text-center" href="{{performanceMetricsUrl}}"\n    data-track-event  data-event-type="click" data-event="sitterscores-navigate-to-scores" data-event-merge=\'{"origin": "glanceview-link"}\'>\n    View Performance Scores\n</a>\n{{/activePerformanceMetric}}\n';</script>
+            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['js/app/services/pricing_field']='{{#proposedStay.total_price}}\nPrice:\n<span>\n   ${{proposedStay.total_price}}\n</span>\n{{/proposedStay.total_price}}\n{{^proposedStay.total_price}}\n<i class="rover-icon rover-icon-in-spinner fr-spin"></i> <em>calculating...</em>\n{{/proposedStay.total_price}}\n';</script>
+            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['js/app/stays/rebook']='<div class="rover-modal js-rebook-modal rebook-modal">\n    <div class="modal-dialog">\n        <div class="modal-content">\n            <div class="modal-body" style="max-height: none">\n                <h3 class="margin-top-x0">\n                    New Stay for {{requester.short_name}}\n                </h3>\n                <p class="nopadding">\n                    Use this feature to book with past customers or providers when they contact you outside of Rover.\n                    Please do not send unsolicited requests.\n                </p>\n                <div class="row js-service-selection service-select-buttons">\n                    {{#services}}\n                        <div class="col-xs-6 col-sm-{{col_sm}} padding-bottom-x5 col-lopad-xs col-lopad-sm col-lopad-md col-lopad-lg">\n                            <div class="rover-button text-center js-stay-type-btn js-stickit-data-value padding-x1" data-slug="{{slug}}">\n                                <a>\n                                    <div class="hidden-xs">\n                                        <i class="rover-icon rover-icon-{{service_type.icon}} rover-icon-2x"></i>\n                                    </div>\n                                    <div>\n                                        <div>\n                                            {{top_name}}<br />\n                                            {{bottom_name}}\n                                        </div>\n                                    </div>\n                                </a>\n                            </div>\n                        </div>\n                    {{/services}}\n                </div>\n                <form class="rebook-form js-rebook-form" action="{{action}}" role="form" method="POST">\n                    <ul class="pet-list list-inline margin-bottom-x4">\n                        <li>Dog(s):</li>\n                        {{#pets}}\n                            <li class="pet">\n                                <label class="checkbox-inline">\n                                    <input class="js-dog-checkbox js-checkbox-bind-to-list js-validate-element" type="checkbox" name="pets" value="{{url}}" checked="checked" data-rule-required="true" data-msg-required="Please include at least one pet in the conversation.">{{name}}{{^last}}, {{/last}}\n                                </label>\n                            </li>\n                        {{/pets}}\n                    </ul>\n\n                    <div class="form-group stay-duration margined">\n                        <div class="js-dates-for-service"></div>\n                    </div>\n                    <div class="js-pricing margin-bottom-x4 form-group hidden">\n                        Price: <em>Select dates to calculate price</em>\n                    </div>\n                    <div class="form-group">\n                        <label class="control-label">Message</label>\n                        <textarea name="content" class="form-control content" rows="3">\nHi {{receiver.first_name}},\nI\'ve created a new stay for the dates we discussed. Looking forward to it!\n-{{sender.first_name}}</textarea>\n                    </div>\n                    {{#needsPhoneNumber}}\n                    <div class="form-group">\n                        <label class="control-label">Phone Number</label>\n                        <input type="text" pattern="\\d*" name="phone_number" class="phone-number-input form-control js-phone-number-input" placeholder="555-555-5555" data-rule-required="true" data-rule-phoneus="true">\n                    </div>\n                    {{/needsPhoneNumber}}\n                    <input type="hidden" name="provider" value="{{provider.url}}">\n                    <input type="hidden" name="service" value="{{service_url}}">\n                    <input type="hidden" name="requester" value="{{requester.url}}">\n                    <input type="hidden" name="sender" value="{{sender.url}}">\n                    <div class="form-group">\n                        <button class="rover-btn rover-btn-primary margin-right-x2 pull-left js-submit-rebook-request"\n                                data-loading-text="Creating request...">Create stay request</button>\n                        <span>You can adjust the dates, dogs, and price on the Message page before you finalize your booking</span>\n                    </div>\n                    <div class="form-group">\n                        <button type="button" class="rover-btn rover-btn-default js-cancel">Cancel</button>\n                    </div>\n                </form>\n            </div>\n        </div>\n    </div>\n</div>\n';</script>
+            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['js/app/stays/extend']='<div class="rover-modal js-rebook-modal rebook-modal">\n    <div class="modal-dialog">\n        <div class="modal-content">\n            <div class="modal-body" style="max-height: none">\n                <h3 class="margin-top-x0">\n                    Extend stay with {{provider.short_name}}\n                </h3>\n                <p class="nopadding">\n                    Use this feature to extend the dates of this Rover stay. Once you create the request the booking process is the same as the original request\n                </p>\n                <div class="row js-service-selection service-select-buttons">\n                    {{#services}}\n                        <div class="col-xs-6 col-sm-{{col_sm}} padding-bottom-x5 col-lopad-xs col-lopad-sm col-lopad-md col-lopad-lg">\n                            <div class="rover-button text-center js-stay-type-btn js-stickit-data-value padding-x1" data-slug="{{slug}}">\n                                <a>\n                                    <div class="hidden-xs">\n                                        <i class="rover-icon rover-icon-{{service_type.icon}} rover-icon-2x"></i>\n                                    </div>\n                                    <div>\n                                        <div>\n                                            {{top_name}}<br />\n                                            {{bottom_name}}\n                                        </div>\n                                    </div>\n                                </a>\n                            </div>\n                        </div>\n                    {{/services}}\n                </div>\n                <form class="js-auto-disable-form rebook-form js-rebook-form" action="{{action}}" role="form" method="POST">\n                    <ul class="pet-list list-inline margin-bottom-x4">\n                        <li>Dog(s):</li>\n                        {{#pets}}\n                            <li class="pet">\n                                {{name}}{{^last}}, {{/last}}\n                                <input type="hidden" name="pets" value="{{url}}" />\n                            </li>\n                        {{/pets}}\n                    </ul>\n\n                    <div class="form-group stay-duration margined">\n                        <div class="js-dates-for-service"></div>\n                    </div>\n                    <div class="js-pricing margin-bottom-x4 form-group hidden">\n                        Price: <em>Select dates to calculate price</em>\n                    </div>\n                    <div class="form-group">\n                        <label class="control-label">Message</label>\n                        <textarea name="content" class="form-control content" rows="3">\nHi {{receiver.first_name}},\nI\'ve extended this stay for the dates we discussed. Looking forward to it!\n-{{sender.first_name}}</textarea>\n                    </div>\n                    <input type="hidden" name="provider" value="{{provider.url}}">\n                    <input type="hidden" name="service" value="{{service_url}}">\n                    <input type="hidden" name="requester" value="{{requester.url}}">\n                    <input type="hidden" name="sender" value="{{sender.url}}">\n                    <input type="hidden" name="extended_stay_conversation" value="1">\n                    <input type="hidden" name="original_conversation" value="{{conversation.url}}">\n                    <div class="form-group">\n                        <button class="rover-btn rover-btn-primary margin-right-x2 pull-left js-submit-rebook-request" data-loading-text="Creating request...">Extend stay request</button>\n                        <span>You can adjust the dates, dogs, and price on the Message page before you finalize your booking</span>\n                    </div>\n                    <div class="form-group">\n                        <button type="button" class="rover-btn rover-btn-default js-cancel">Cancel</button>\n                    </div>\n                </form>\n            </div>\n        </div>\n    </div>\n</div>\n';</script>
+            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/dogs']='{{#dogs}}\n    <div class="col-lg-3 col-md-4 col-sm-4 col-xs-4">\n        <label for="dog-{{id}}" class="dog-label checkbox-inline"><input type="checkbox" value="{{id}}" name="pet" id="dog-{{id}}" checked="checked"> {{name}}</label>\n    </div>\n{{/dogs}}\n';</script>
+        
+
         
 
         <script>
@@ -1096,10 +1113,10 @@
 
 
         
-            <script type="text/javascript" src="/static/dist/vendor.34368462733a5eb7.js"></script>
-            <script type="text/javascript" src="/static/dist/common.b2b3f8a28f936718.js"></script>
-            <script type="text/javascript" src="/static/dist/js/utils.52c04d9ab5653d05.js"></script>
-            <script type="text/javascript" src="/static/dist/js/search-to-request.a051092d66f93ea0.js"></script>
+            <script type="text/javascript" src="/static/dist/vendor.682b0abc83cb3aa5.js"></script>
+            <script type="text/javascript" src="/static/dist/common.a7a152b200578459.js"></script>
+            <script type="text/javascript" src="/static/dist/js/utils.4ed683c0a0a3c2b2.js"></script>
+            <script type="text/javascript" src="/static/dist/js/search-to-request.3bc94851727b33e0.js"></script>
         
 
         
@@ -1108,117 +1125,55 @@
         
             
 
+    <div class="js-app-banner app-banner hidden">
+        <div class="banner-wrapper">
+            <div class="close-column">
+                <button type="button" class="js-close-app-banner close" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+            <div class="icon-column">
+                <img src="/static/icons/rover-favicon.47651b11d3be.png" class="icon">
+            </div>
+            <div class="info-column">
+                <div class="container">
+                    <div class="row">
+                        <div class="name-column">
+                            <strong>Rover App</strong>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="review-stars">
+                            <i class="rover-icon rover-icon-in-star"></i>
+                            <i class="rover-icon rover-icon-in-star"></i>
+                            <i class="rover-icon rover-icon-in-star"></i>
+                            <i class="rover-icon rover-icon-in-star"></i>
+                            <i class="rover-icon rover-icon-in-star-half"></i>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="review-column text-muted">
+                            <span class="js-review-count"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="button-column">
+                <a href="" class="js-app-install-link rover-btn rover-btn-primary btn-sm" target="_parent">
+                    Open
+                </a>
+            </div>
+        </div>
+    </div>
 
-<script type="text/javascript">
-    (function() {
-        (function(b,r,a,n,c,h,_,s,d,k){if(!b[n]||!b[n]._q){for(;s<_.length;)c(h,_[s++]);d=r.createElement(a);d.async=1;d.src="https://cdn.branch.io/branch-v1.6.7.min.js";k=r.getElementsByTagName(a)[0];k.parentNode.insertBefore(d,k);b[n]=h}})(window,document,"script","branch",function(b,r){b[r]=function(){b._q.push([r,arguments])}},{_q:[],_v:1},"init data first addListener removeListener setIdentity logout track link sendSMS referrals credits creditHistory applyCode validateCode getCode redeem banner closeBanner".split(" "), 0);
-
-        var data = {
-            '$after_click_url': window.location.href
-        };
-
-        var deeplink;
-        if (Rover.UTMParameters) {
-            deeplink = "rover://campaign/?";
-        }
-        if (Rover.deeplink) {
-            deeplink = Rover.deeplink;
-        }
-        if (deeplink) {
-            // append utm parameters if they exist
-            if(Rover.UTMParameters) {
-                joiner = '?';
-                if (deeplink.indexOf(joiner) !== -1) joiner = '&';
-                deeplink = deeplink + joiner + Rover.UTMParameters;
-            }
-
-            // Deeplink needs the protocol removed
-            data['$deeplink_path'] = deeplink.split("rover://")[1];
-        }
 
         
-            branch.init('key_live_aimy7xWhcDz0GVxOIYoBTmilvybwmZNx');
+
         
-        branch.banner({
-            icon: '/static/icons/ios/apple-touch-icon-152x152.dc957518ea18.png',
-            
-                title: 'Rover for iOS',
-            
-            description: 'View in the Rover app!',
-            showiOS: true,
-            showiPad: false,
-            showAndroid: true,
-            showDesktop: false,
-            customCSS: '#branch-banner .title { font-size: 16px !important; }'
-        }, {
-            data: data
-        });
-    })();
-</script>
-
-
             
                 
-
-<div class="help-button-container hidden-xs">
-    <div class="rover-btn rover-btn-primary btn-lg help-button heavy" onclick="Rover.helpDesk()">
-        <i class="rover-icon rover-icon-in-question-circle rover-icon-lg"></i>
-        Help
-    </div>
-</div>
-<script>
-    Rover.initZenDesk = function () {
-    if (!Rover.utils.isMobileBrowser()) {
-        window.zEmbed||function(e,t){
-            var n,o,d,i,s,a=[],
-                r=document.createElement("iframe");
-            window.zEmbed=function(){a.push(arguments)},
-            window.zE=window.zE||window.zEmbed,
-            r.src="javascript:false",
-            r.title="",
-            r.role="presentation",
-            (r.frameElement||r).style.cssText="display: none",
-            d=document.getElementsByTagName("script"),
-            d=d[d.length-1],
-            d.parentNode.insertBefore(r,d),
-            i=r.contentWindow,
-            s=i.document;
-
-            try {
-                o=s
-            }
-            catch(c) {
-                n=document.domain,
-                r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',
-                o=s
-            }
-            o.open()._l = function() {
-                var o=this.createElement("script");
-                n && (this.domain=n),
-                o.id="js-iframe-async",
-                o.src=e,
-                this.t=+new Date,
-                this.zendeskHost=t,
-                this.zEQueue=a,
-                this.body.appendChild(o)
-            },
-            o.write('<body onload="document._l();">'),
-            o.close()
-        }("//assets.zendesk.com/embeddable_framework/main.js","rover.zendesk.com");
-    }
-
-    };
-
-    Rover.helpDesk = function (event) {
-        Rover.initZenDesk();
-        window.setTimeout(function () {
-            $('.help-button-container').hide();
-            window.zE.activate();
-        }, 500);
-    };
-</script>
-
-
+                <!-- zendesk help off -->
+                
             
         
 
@@ -1280,7 +1235,7 @@
 
         <div class="hide">
     <form class="js-facebook-register" method="POST" action="/facebook/connect/">
-        <input type="hidden" name="csrfmiddlewaretoken" value="zX6EJHm7TuHoKGCebPgErMVZ7BSKGjIT">
+        <input type="hidden" name="csrfmiddlewaretoken" value="J6Zyi8k7N9b608RtS7KTLtBarvBMCTwh">
         <input type="hidden" name="access_token" value="">
         <input type="hidden" name="signed_request" value="">
         <input type="hidden" name="facebook_id" value="">
