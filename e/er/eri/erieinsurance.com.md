@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the erieinsurance.com privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009074710id_/https%3A//www.erieinsurance.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erieinsurance.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602111517id_/https%3A//www.erieinsurance.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice from Erie Insurance
+# Privacy Notice | Erie Insurance
 
 **FACTS**
 
@@ -116,7 +116,7 @@ We do not share
 | 
 
      • Call **1-800-458-0811** –Option 4 for Customer Service **or**  
-     • Visit us online: **[erieinsurance.com/optout](http://www.erieinsurance.com/optout)**
+     • Visit us online: [**erieinsurance.com/contact-erie/opt-out**](https://www.erieinsurance.com/contact-erie/opt-out)
 
 *** Please note:** If you are a **new** **** customer, we can begin sharing this information among the Erie Insurance affiliates 30 days from the date we provided this notice. When you are **no longer** our customer, we continue to share and protect your information as described in this notice. However, you can contact us at any time to limit our sharing.  
   
@@ -211,13 +211,14 @@ A formal agreement between nonaffiliated financial companies that together marke
      • Erie Insurance Exchange  
      • Erie Indemnity Company  
      • Erie Family Life Insurance Company   
-     • Erie Insurance Company
+     • Erie Insurance Company  
+     • Erie Insurance Company of New York 
 
 | 
 
-     • Erie Insurance Company of New York  
-     • Erie Insurance Property and Casualty Company  
+     • Erie Insurance Property and Casualty Company  
      • Flagship City Insurance Company  
-     • E I Service Corp  
+     • E I Service Corp  
+     • Erie Resource Management Corp  
   
 ---|---
