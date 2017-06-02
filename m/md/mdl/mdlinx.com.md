@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the mdlinx.com privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306043715id_/http%3A//usa.m3.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdlinx.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602054930id_/https%3A//usa.m3.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | M3 USA
 
-The privacy of our users on the Internet is of the utmost importance to us. Since M3 USA Corporation (“M3″), its related network of sites and services, including the MDLinx.com site, its specialty sites, thesmartestoncologist.com site and any similar M3 sites (all such sites collectively the “Sites”), do gather certain types of information about our users, we feel that you should completely understand the conditions and terms surrounding the gathering and use of information about those using our Sites and services. This Privacy Policy Statement divulges what information we gather, how we use it, and how to correct or change it. The services made available through M3 may be provided in a variety of media and devices now known or hereinafter developed including mobile applications, and include without limitation news, reference tools, and applications, sponsored programming, personalized content, continuing medical education, communication tools and discussion boards (collectively, the “Services”). In the policy, the pronouns “you” and “your” are used to refer to the end user, while “we,” “us” and “our” are used to refer to M3.
+The privacy of our users on the Internet is of the utmost importance to us. Since M3 USA Corporation (“M3″), its related network of sites and services, including:  MDLinx.com M3 Global Research, and its specialty sites including thesmartestoncologist.com or any similar M3 sites (all such sites collectively the “Sites”) do gather certain types of information about our users; we feel that you should completely understand the conditions and terms surrounding the gathering and use of information about those using our Sites and services. This Privacy Policy Statement divulges what information we gather, how we use it, and how to correct, change, or remove it. The services made available through M3 may be provided in a variety of media and devices now known or hereinafter developed including mobile applications, and include without limitation news, reference tools, and applications, sponsored programming, personalized content, continuing medical education, communication tools and discussion boards (collectively, the “Services”). In the policy, the pronouns “you” and “your” are used to refer to the end user, while “we,” “us” and “our” are used to refer to M3.
 
-By visiting one of the Sites, or by using the Services, you are accepting the practices described in this Privacy Policy Statement. We may amend this Statement at any time; if we make changes to this Statement, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. This Statement was last revised on December 9, 2015. Any questions regarding our Privacy Policy Statement should be directed to M3 ([support@usa.m3.com](mailto:support@usa.m3.com)) for clarification and further elaboration.
+We self-certify compliance with the U.S.-EU Privacy Shield Framework.
 
-### 1\. Collecting Information
+By visiting one of the Sites, or by using the Services, you are accepting the practices described in this Privacy Policy Statement.
+
+### 1\. **Information We Collected Via our Sites**
 
 ###### **Information We Collect from Unregistered Visitors**
 
 You must register to access our full Services; however, you may be able to access certain limited areas of the Sites without disclosing any personally identifiable information. We will collect non-personally identifiable information, i.e. information that is not traced back to any individual and is not used on its own to identify an individual. Even if you have not registered, M3 will collect such data including the referring website, if applicable, the type of browser you use, the time and date that you accessed the Services, the pages you visited and viewed throughout our Sites, and what computers responded to a market research survey. Taken in aggregate, this information enables us to better develop and fund the Services, provide content, and respond to our users’ needs. We will explain how this is done in the “Usage Tracking and Cookies” section of this Privacy Policy.
 
-###### Information We Collect from Registered Users
+###### **Information We Collect from Registered Users**
 
 You must register to access our full Services. When you register for the Services, you are asked to provide identifying information such as your name, email address, zip code and other professional information, e.g. specialty and profession. Additional information may be requested, which may be required to access some Services. We may collect additional information about registered users from third party sources to assist us in providing the Services. For example, we use such third party sources to verify and update registration information and confirm licensure status
 
@@ -34,7 +36,7 @@ We do not control the practices of the advertisers on their sites. When you clic
 
 **Discussion Lists:** Use of discussion lists requires separate opt-in and additional registration and agreement to the terms and conditions for this Service. Subscribing to any other Service does not also subscribe users to affiliated discussion lists. You may remove yourself from a discussion list at any time by following the instructions provided.
 
-**Category 2 CME Recorder:** This tool may be available through the Services. It collects your usage of select Category 2 CME-appropriate content,, such as date and time you read an article summary or took a quiz, and length of time you spent on a quiz. These data are used to create a customized report that is available to you upon your request.
+**Category 2 CME Recorder:** This tool may be available through the Services. It collects your usage of select Category 2 CME-appropriate content, such as date and time you read an article summary or took a quiz, and length of time you spent on a quiz. These data are used to create a customized report that is available to you upon your request.
 
 **Additional Forms and Emails:** We may also ask you to provide additional information after you register if you want to obtain additional services or information, or to resolve complaints or concerns.
 
@@ -46,15 +48,15 @@ Your email address will not be sold to a third party if you sign up to be includ
 
 M3 collects information about your activity on the Sites and through our advertisements using technologies such as cookies, including third-party cookies, web beacons and server log files.
 
-**Usage Tracking:** M3 uses traffic analysis software on our servers to track user traffic patterns throughout the Services. M3 uses this data to break down overall usage statistics according to IP address, domain name, browser type, and MIME type by reading this information from the data automatically sent by the browser whenever a web page is requested. Additionally, solely in connection with your voluntary participation in a market research study, your computer may be tracked by digital fingerprinting or watermarking to help ensure unique responders to a survey.
+**Usage Tracking:** M3 uses traffic analysis software on our servers to track user traffic patterns throughout the Services. M3 uses this data to break down overall usage statistics according to IP address, domain name, browser type, and MIME type by reading this information from the data automatically sent by the browser whenever a web page is requested. Additionally, solely in connection with your voluntary participation in a market research study or screening, your computer may (i) be tracked by digital fingerprinting or watermarking to help ensure unique responders to a survey, and (ii) accessed to assess browser compatibility and/or video cam usability.
 
-**Cookies & Web Beacon**: A cookie is a small text file placed in your computer’s browser to store your preferences. A cookie can be accessed only by the server that originally created the cookie. A cookie cannot store or send back any information to us that you have not specifically and voluntarily provided while on a Site, or that is not among the information mentioned above that is contained in every user’s browser (e.g., domain name, browser type). Cookies do not contain personally identifiable information; however, once you choose to furnish a Site with personally identifiable information, this information may be linked to the data stored in the cookie.
+**Cookies** : A cookie is a small text file placed in your computer’s browser to store your preferences. A cookie can be accessed only by the server that originally created the cookie. A cookie cannot store or send back any information to us that you have not specifically and voluntarily provided while on a Site, or that is not among the information mentioned above that is contained in every user’s browser (e.g., domain name, browser type). Cookies do not contain personally identifiable information; however, once you choose to furnish a Site with personally identifiable information, this information may be linked to the data stored in the cookie.
 
 M3 uses cookies to monitor and manage Service development and delivery, and potentially to permit greater personalization of the Service based on your preferences and specifications. We may assign cookies to devices that access our Services to help us dynamically generate advertising and content to users of the Services.
 
 Our Sites may also contain third-party cookies from advertising partners who help serve ads for M3 and other third parties on the Sites and elsewhere on the web.
 
-M3 and our third party business partners may also use “web beacons” or clear .gifs, or similar technologies, which are small pieces of code placed on a web page, to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons may be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.
+**Web Beacons** : M3 and our third party business partners may also use “web beacons” or clear .gifs, or similar technologies, which are small pieces of code placed on a web page, to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons may be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.
 
 We and our third party business partners use the information automatically generated by cookies and web beacons, as well as other information that we or they have, to provide you with an optimal website experience. This includes measuring the effectiveness of our ads and your interactions them, and tailoring offers and advertisements to you for products or services you may find helpful on the Sites and third-party sites.
 
@@ -78,9 +80,11 @@ M3 may target Services, advertising, and marketing (e.g. email and website commu
 
 In addition to aggregate information, we may share some kinds of personally identifiable information with third parties as described below.
 
-**Advertisers:  ** When you are exposed to an advertisement through the Services (whether on the Sites or in an email, mobile ad or another Service), M3 may provide your personal information (such as name, specialty, NPI number, and country of residence) and information about your engagement with the Services (e.g., whether you viewed, interacted with or requested information about promotional content) to advertisers and/or such advertisers’ agents as well as to potential advertisers and their agents. Additionally, when you become a registered user of the Services, we may provide your personal information to potential advertisers and their agents.  We will NEVER provide these third parties with your personal contact information such as email, phone number or mailing address without your consent. We are not responsible for how these third parties use your information and manage your privacy.
+**Advertisers:  **When you are exposed to an advertisement through the Services (whether on the Sites or in an email, mobile ad or another Service), M3 may provide your personal information (such as name, specialty, NPI number, and country of residence) and information about your engagement with the Services (e.g., whether you viewed, interacted with or requested information about promotional content) to advertisers and/or such advertisers’ agents as well as to potential advertisers and their agents. Additionally, when you become a registered user of the Services, we may provide your personal information to potential advertisers and their agents.
 
-**Market Research Studies:** From time to time, we may invite you to participate in sponsored or unsponsored market research studies. These studies are intended to give specific anonymous feedback to third parties. This feedback, while shared in the format it was collected, will not be shared in a manner that is correlated to your personally identifiable information used to pay honoraria for your time. All participants may be disclosed to such third parties by a unique identifier, but such identifier will not be associated with any specific feedback. When you take part in market research studies, your identity as a participant may be shared but your answers remain anonymous.
+We will NEVER provide these Advertisers with your personal contact information such as email, phone number or mailing address without your consent. We are not responsible for how these third parties use your information and manage your privacy.
+
+**Market Research Studies:** From time to time, we may invite you via e-mail to participate in sponsored or unsponsored market research studies.  When you agree to participate in a study, you agree to share with M3 personally identifiable information, such as your name, email address, zip code and professional information.  Generally, these studies provide specific feedback using aggregated, de-identified data to third parties used to analyze trends and statistics for medical marketing, research, and development purposes, and neither your identity nor your specific feedback is shared with third parties.  However, under the following circumstances, your identity may be shared with third parties and/or associated with specific feedback: (i) when we have your permission, (ii) when we match user information with such third party’s data, and (iii) when we believe in good faith that the law requires it.  In all circumstances, the privacy of our panel members is protected, and if such sharing is permitted or required, your answers and identity will remain confidential.
 
 **Industry Sponsored Programs:** Registered users will be asked to engage in industry-sponsored information programs from time to time in accordance with the [Terms of Service](http://usa.m3.com/terms-of-use/). Examples of Sponsored Programs include custom-developed emails or web-based information resources featuring branded or unbranded commercial content, or interactive programs that provide information about medical conditions, treatments and products. Other types of Sponsored Programs may be made available to you through the Services via emails and website communications.
 
@@ -103,8 +107,8 @@ If you elect to use the “Post My CV” service [and/or the “M3 Career Consul
   * Profession
   * Specialty(ies)
   * Board Status
-  * Years in Practice
-  * Citizenship Status
+  * Years in practice
+  * Citizenship status
   * Licensure information
   * Education
   * Job preferences
@@ -126,38 +130,71 @@ This option allows you to post your CV on the Sites without having it searchable
 
 We attempt to limit access to our searchable CV database to legitimate users such as paying employers, recruiters, hiring managers, headhunters and human resource professionals, but cannot guarantee that other parties will not gain access to this database. We cannot control the use of CVs by third parties who access such CVs while they are in our searchable database. You may remove your CV from our searchable database at any time. However, employers, recruiters and others who have paid for access to that database, as well as parties who have otherwise gained access to the database may have retained a copy of your CV in their own files or databases. We cannot control the retention, use or privacy of CVs or profiles that have been downloaded by third parties. Accordingly, you should not put information you would not want made public in your CV.
 
+**Affiliated Companies:  **M3 and its wholly-owned subsidiaries are part of the M3, Inc. group of companies that provide Internet services for physicians and other healthcare professionals around the world (collectively, “Affiliates”). M3 may share your personal information with Affiliates, which may use your personal information to send you emails about services they provide, new programs and selected information from their sponsors as it relates to your specialty or area of clinical practice.
+
 **Companies Who Work with Us:  **From time to time, we contract with third parties to help us provide or improve our services. For example, we may hire consultants who help us prevent fraud and violation of our terms of service, analyze data, provide marketing assistance, or provide customer service or fulfillment services. In order to provide these services, these third parties may have limited access to some of the personally identifiable information we maintain about users of our Services. We require all such parties to comply with the terms of this Privacy Policy, to limit their access to any personal information to the minimum necessary to perform their obligations, and not to use the information they may access for purposes other than fulfilling their responsibilities to us.
 
-**Quiz Games** : If you rank highly, your name or registered pseudonym may appear on the live leaderboards and in certain communications to our members. Your answers to quiz questions are not shared.
+**Quiz Games** : If you rank highly, your named or registered pseudonym may appear on the live leaderboards, and in certain circumstances, to our members.  Your answers to the quiz questions are not shared.
 
 **Legal Requirements:** We may release account and other personally identifiable information when we believe release (1) is required to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (2) is reasonably necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms and Conditions or this Privacy Policy, or as evidence in litigation in which we are involved. In the event that we are legally compelled to disclose your personally identifiable information to a third party, we will attempt to notify you unless doing so would violate the law, court order or government instruction.
 
 **Change of Control:** M3 shall have the right to transfer, sell and/or distribute all personal information collected through the Services to an affiliate, subsidiary, or third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or part of our business, assets or stock.
 
-**Affiliated Companies:** M3 and its wholly-owned subsidiaries are part of the M3, Inc. group of companies that provide Internet services for physicians and other healthcare professionals around the world (collectively, “Affiliates”). M3 may share your personal information with Affiliates, which may use your personal information to send you emails about services they provide, new programs and selected information from their sponsors as it relates to your specialty or area of clinical practice.
+### 3\. **Changes to this Privacy Policy**
 
-### 3\. Delete/deactivate policy
+We may amend this Statement at any time; if we make changes to this Statement, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. This Statement was last revised on July 31, 2016. Any questions regarding our Privacy Policy Statement should be directed to M3 ([support@usa.m3.com](mailto:support@usa.m3.com)) for clarification and further elaboration.
 
-Users may unsubscribe to any of our electronic newsletters or discussion lists at any time by following the instructions contained at the end of every newsletter or discussion list, and also on the Sites. If you no longer wish to use any of our services or receive any information from us, you may request to have your personal information removed from our databases by sending a request via email (support@usa.m3.com) or by fax (202-293-1690), including your first and last names and email address with which you originally registered. We may retain your information in our files however, to resolve disputes, enforce our Terms of Use, and due to technical and legal requirements related to the security, integrity and operation of the Sites. Changes or corrections to your information may be submitted in the same fashion, however, you may directly edit your personal profile any time by visiting the “My Account” page on the Sites.
+### 4\. **Opt Out**
 
-###### Security of Information
+M3 USA engages with users who register on our sites and elect for e-mail communication. For example, we may use your email address to send newsletters or discussion group updates, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law.
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information collected by us, both during transmission and in storage. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially reasonable means to protect your personal information, we cannot guarantee its absolute security.
+We provide you the opportunity to exercise an opt-out choice if you do not want to receive other types of communication from us, such as emails or updates from us regarding new services and products offered on the Sites or if you do not want us to share your personally identifiable information with third parties.
 
-  * _Note to Users Outside of the United States_  
+Users always have the opportunity to “opt– out” or change preferences via a link in the footer of all non–transactional email messages or by accessing the “My Account” page on the registered site. These options are made available in email messages delivered from our company. Alternatively, you may request to have your personal information modified or removed from our databases by sending a request via email at support@usa.m3.com or by fax to 202-293-1690, including your first and last names and email address with which you originally registered.
+
+### 5\. **Security of Information**
+
+M3 USA uses generally accepted industry standards and commercially reasonable security technology to protect the personal information collected by us, both during transmission and in storage. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially reasonable means to protect your personal information, we cannot guarantee its absolute security.
+
+###### **Note to Users Outside of the United States**
+
 M3 is located in the United States.  We collect, store and process your personal information and your use of the Services in the United States and these activities are governed by applicable United States laws and regulations and this Privacy Policy.  By using the Services, you consent to such collection, storage and processing in the United States, even though the United States may not afford the same level of data protection available in your own country.
 
+### 6\. **EU Privacy Shield Compliance**
+
+M3 USA complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States.  M3 USA has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
+
+In accordance to the U.S. – EU Privacy Shield principles, M3 USA has a liability in cases of onward transfers to third parties and complies with the Notice and Choice principles for all data disclosed or transferred to a third party.
+
+**Enforcement:** M3 USA submits to being subject to the investigatory and enforcement powers of the FTC, the Department of Transportation, or any other U.S. authorized statutory body with regards to our self-certification and implementation of the Principles, and acknowledges the right of the EU individual, under certain conditions, to invoke binding arbitration, at no cost to the individual, in filing a complaint disputing M3 USA’s adherence to these practices
+
+**Dispute Resolution and Arbitration:  **In the event of any controversy, claim or dispute related to or arising out of your use of the Sites, EU citizens may initiate the following dispute resolution procedure:
+
+  * Contact our organization directly at [privacy@usa.m3.com](mailto:privacy@usa.m3.com); we will respond to your request within 45 days
 
 
-###### Dispute Resolution and EU Safe Harbor Statement
+  * Alternatively, individuals may also contact our Third Party Dispute Resolution Body, TRUSTe, as defined in the “Independent Dispute Resolution Body”; see Section C below.
 
-M3 participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. To learn more about the Safe Harbor program, please visit http://www.export.gov/safeharbor/.  To view M3’s certification, please use the link entitled “U.S.-EU Safe Harbor List”.
 
-As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet here, fax to 415-520-3420, or mail to Watchdog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, click here or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
+
+**Independent Dispute Resolution Body:  **In compliance with the Privacy Shield Principles, M3 USA commits to resolve complaints about our collection or use of your personal information.  Individuals in the European Union with inquiries or complaints regarding our Private Shield policy should first contact M3 USA at:
+
+M3 USA Corporation  
+ATTN: Privacy Shield Compliance  
+501 Office Center Drive  
+Suite 410  
+Fort Washington, PA 19034
+
+Or via e-mail at: [privacy@usa.m3.com](mailto:privacy@usa.m3.com)
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+**Accessing and Updating your Personally Identifiable Information and Privacy Preferences:  **M3 USA will make commercially reasonable efforts to provide you reasonable access to any of your personally identifying information we maintain within 45 days of your access request. We provide this access so you can review it, make corrections or request deletion of your data. If we cannot honor your request within the 45-day period, we will tell you when we will provide access. In the unlikely event that we cannot provide you access to this information, we will explain why we cannot do so.
 
 ###### Mailing Address
 
   * M3 USA Corporation  
+ATTN: Privacy Shield Compliance  
 501 Office Center Drive  
 Suite 410  
 Fort Washington, PA 19034
