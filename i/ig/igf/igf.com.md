@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the igf.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227173321id_/http%3A//legal.us.ubm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igf.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602155431id_/http%3A//legal.us.ubm.com/privacy-policy) for the most accurate reproduction.*
 
 # UBM - UBM LLC Privacy Policy
 
-Last Updated: December 6, 2016
+Last Updated: April 25, 2017
 
 ## Scope
 
@@ -49,7 +49,7 @@ In addition to providing you with our own editorial content, we offer you the op
 
   * Access a specific webcast, online event, web site, newsletter, or other offering which is sponsored or co-sponsored by other companies. If you have enabled our automatic recognition cookie, as described below, you need only click to download or register for the asset or opportunity. You can learn about the sponsors and co-sponsors of the event for which you are registering on the registration website. Please visit our website frequently because the sponsors and co-sponsors for webcasts, online events, web sites, newsletters, and other offerings may be updated from time to time.
   * Register for one of our virtual events with our exhibitor(s). We may give all exhibitors at the event your name and contact details and we may give the exhibitor(s) whose booths and resources you accessed a record of your visit(s) to the exhibitorâ€™s booth, including your interactions with the content from that exhibitor.
-  * Attend one of our face-to-face events. An event attendance list may be given to all exhibitors at the event. It is up to you, however, to decide whether to leave your business card or allow your badge to be read by a particular exhibitor. Badges cannot be read remotely. A sponsor of a special, sponsored conference session will also be given information about you if you choose to attend that company's session. Your future interaction with online content from an exhibitor or sponsor to whom you provided your contact data to may also be tracked and disclosed to that exhibitor or sponsor.
+  * Attend one of our face-to-face events. An event attendance list may be given to all exhibitors at the event. It is up to you, however, to decide whether to leave your business card or allow your badge to be read by a particular exhibitor. Badges cannot be read remotely. If you allow your badge to be read by a particular exhibitor, we will share certain information about your use and enjoyment of our sites, including webinar participation, white papers downloaded, and clicks to our proprietary articles, and information about what sessions you attended at our event. A sponsor of a special, sponsored conference session will also be given information about you if you choose to attend that company's session. Your future interaction with online content from an exhibitor or sponsor to whom you provided your contact data to may also be tracked and disclosed to that exhibitor or sponsor.
 
 
 
