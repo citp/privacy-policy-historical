@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the albiononline.com privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805214028id_/https%3A//albiononline.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albiononline.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602041002id_/https%3A//albiononline.com/en/privacy_policy) for the most accurate reproduction.*
 
-# Albion Online
+# Brand New Sandbox MMORPG 2017 | Albion Online
 
-This privacy policy from Sandbox Interactive GmbH, Schoenhauser Allee 36, 10435 Berlin, Germany (hereinafter referred to as "Sandbox Interactive" or "we" or "us") informs you of the kind, the scope and the purpose, as well as your rights concerning your data collected and processed by Sandbox Interactive on and in relation to its website. Sandbox Interactive is committed to safeguarding your personal information. Whenever you provide such information, Sandbox Interactive is legally obliged to use your information in line with all laws concerning the protection of your personal information.
+This privacy policy from Sandbox Interactive GmbH, Pappelallee 78, 10437 Berlin, Germany (hereinafter referred to as "Sandbox Interactive" or "we" or "us") informs you of the kind, the scope and the purpose, as well as your rights concerning your data collected and processed by Sandbox Interactive on and in relation to its website. Sandbox Interactive is committed to safeguarding your personal information. Whenever you provide such information, Sandbox Interactive is legally obliged to use your information in line with all laws concerning the protection of your personal information.
 
 ### 1\. PERSONAL DATA AND ITS USE
 
@@ -44,13 +44,19 @@ Our website uses social plug-ins ("plug-ins") provided by the social network fac
 
 Our websites uses a social plugin provided by the social network "Twitter", operated by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. The plugins are identifiable by a "Tweet" or "Follow"- logo recognizable with a blue bird on white back-ground. When you visit a page of our websites that contains a "Twitter"-plugin, your browser establishes a direct connection to Twitter's servers. Twitter Inc. directly transfers the plugin content to your browser which embeds the latter into the website, enabling Twitter Inc. to receive information about your having accessed the respective page of our website. Thus we have no influence on the data gathered by any "Twitter"-plugin and inform you according to our state of knowledge. For the information on the purpose and scope of data collection and procession by Twitter Inc., as well as your rights in this respect and settings options for protecting your privacy please visit Twitter's privacy policy: http://twitter.com/privacy
 
-### 7\. DISCLOSUE TO THIRD PARTIES
+### 7\. DISCLOSURE TO THIRD PARTIES
 
 We will only disclose personal, aggregated information to third parties when this is legally allowed or when you agree. If any third party is organizing and/or managing any promotion, competition, survey or poll run through our websites on our behalf, we may disclose your information to that third party to enable them to do so but they will be prohibited from using your information for any other purpose, unless you have given them specific consent.
 
 ### 8\. SERVICE
 
-If you have any concern about privacy at our website, apply your rights to request a copy of the personal information we hold about you and want to have any inaccuracies corrected or require the deletion of this data, please get in touch: E-Mail: info@sandbox-interactive.com Web: https://albiononline.com/en/profile/support We will use reasonable efforts to supply, correct or delete personal information about you on our files. You can revoke all your consents at any time. Even if you have any questions or want more detailed information, please send us an e-mail.
+If you have any concern about privacy at our website, apply your rights to request a copy of the personal information we hold about you and want to have any inaccuracies corrected or require the deletion of this data, please get in touch:
+
+E-Mail: support@albiononline.com
+
+Web: https://albiononline.com/en/profile/support
+
+We will use reasonable efforts to supply, correct or delete personal information about you on our files. You can revoke all your consents at any time. Even if you have any questions or want more detailed information, please send us an e-mail.
 
 ### 9\. CHANGES TO PRIVACY POLICY
 
