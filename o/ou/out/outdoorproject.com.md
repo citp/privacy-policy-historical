@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the outdoorproject.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121140426id_/http%3A//www.outdoorproject.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorproject.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602153043id_/http%3A//www.outdoorproject.com/privacy.html) for the most accurate reproduction.*
 
-# 
+# Outdoor Project Privacy Policy
 
 Outdoor Project Privacy Policy
 
-The Outdoor Project LLC (“Outdoor Project,” “our,” “us,” or “we”) provides the Outdoor Project.com website and various related services (together, the “Site”). This Privacy Policy describes how Outdoor Project collects, uses and discloses the personal information we receive through your use of the Site. When you use the Site, you give your permission to allow us to collect, transfer, manipulate, store, disclose or otherwise use your email address or other personal information as described in this Privacy Policy. You agree to this Privacy Policy by accessing or using the Site. This Privacy Policy applies to Outdoor Project only. It does not apply to entities and third parties that Outdoor Project does not own or control.
+The Outdoor Project, Inc. (“Outdoor Project,” “our,” “us,” or “we”) provides the Outdoor Project.com website and various related services (together, the “Site”). This Privacy Policy describes how Outdoor Project collects, uses and discloses the personal information we receive through your use of the Site. When you use the Site, you give your permission to allow us to collect, transfer, manipulate, store, disclose or otherwise use your email address or other personal information as described in this Privacy Policy. You agree to this Privacy Policy by accessing or using the Site. This Privacy Policy applies to Outdoor Project only. It does not apply to entities and third parties that Outdoor Project does not own or control.
 
 If you have any questions or comments about this Privacy Policy, please contact us at support_at_outdoorproject.com.
 
@@ -48,7 +48,7 @@ Changes to this Policy. We may change or revise this Privacy Policy from time to
 
 If you have any questions about this Privacy Policy, please contact us at support_at_outdoorproject.com or:
 
-The Outdoor Project LLC  
+The Outdoor Project, Inc.  
 412 NW Couch Street  
 Suite 202  
 Portland, OR 97209 
