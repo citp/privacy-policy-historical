@@ -1,61 +1,64 @@
-<!--The following is the downloaded HTML source of the jins.com privacy policy that was archived on 2016-08-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160814215102id_/https%3A//www.jins.com/us/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jins.com privacy policy that was archived on 2017-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170602181842id_/https%3A//www.jins.com/us/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!--<![endif]--><head>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-963.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PWXSR8"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwEFU1NVGwUCUlFSBwE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),s.on(m,function(){this.bstStart=Date.now()}),s.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(17)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;c<s;c++)a[c].apply(i,r);var u=f[w[n]];return u&&u.push([v,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",w[n]=e,e in f||(f[e]=[])})}var m={},w={},v={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return v}function i(){return new r}var a="nr@context",s=t("gos"),c=t(15),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!g++){var t=y.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(w,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(15),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var m=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-963.min.js"},v=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:m,features:{},xhrWrappable:v};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),s("mark",["firstbyte",a()],null,"api");var g=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy policy | JINS</title>
 <meta name="description" content="Prescription Eyeglasses that suit your style &amp; budget. A wide variety of affordable,  high quality &amp; stylish prescription frames. Find your collection">
 <meta name="keywords" content="JINS, privacy, HIPAA">
 <meta name="robots" content="INDEX,FOLLOW">
-<link rel="icon" href="http://www.jins.com/us/skin/frontend/jins/default/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://www.jins.com/us/skin/frontend/jins/default/favicon.ico" type="image/x-icon">
+<link rel="icon" href="https://www.jins.com/us/skin/frontend/jins/default/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://www.jins.com/us/skin/frontend/jins/default/favicon.ico" type="image/x-icon">
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
-var BLANK_URL = 'http://www.jins.com/us/js/blank.html';
-var BLANK_IMG = 'http://www.jins.com/us/js/spacer.gif';
+var BLANK_URL = 'https://www.jins.com/us/js/blank.html';
+var BLANK_IMG = 'https://www.jins.com/us/js/spacer.gif';
 //]]>
 </script>
 <![endif]-->
 
  <meta property="og:title" content="Privacy policy | JINS">
  <meta property="og:type" content="article">
- <meta property="og:url" content="http://www.jins.com/us/privacy-policy">
+ <meta property="og:url" content="https://www.jins.com/us/privacy-policy">
  <meta property="og:description" content="Prescription Eyeglasses that suit your style &amp; budget. A wide variety of affordable,  high quality &amp; stylish prescription frames. Find your collection">
  <meta property="og:site_name" content="Default Store View">
 
-<link rel="stylesheet" type="text/css" href="http://www.jins.com/us/skin/frontend/jins/default/css/print.css" media="print">
-<link rel="stylesheet" type="text/css" href="http://www.jins.com/us/skin/frontend/jins/default/css/general.css" media="all">
-<script type="text/javascript" src="http://www.jins.com/us/js/prototype/prototype.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/js/lib/ccard.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/js/prototype/validation.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/js/scriptaculous/builder.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/js/scriptaculous/effects.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/js/scriptaculous/controls.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/js/varien/js.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/js/varien/form.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/js/mage/translate.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/js/mage/cookies.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/js/vendor/jquery-1.9.min.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/js/vendor/jquery.hoverIntent.min.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/js/vendor/matchMedia.min.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/js/vendor/modernizr-2.6.2.min.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/js/vendor/unveil.min.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/js/vendor/jquery.touchSwipe.min.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/js/vendor/respond.to.min.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/js/gorilla/utilities.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/js/gorilla/plugins.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/skin/frontend/jins/default/js/scripts.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/skin/frontend/jins/default/js/enterprise/catalogevent.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/skin/frontend/jins/default/js/enterprise/wishlist.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/skin/frontend/jins/default/js/RegionUpdater.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/skin/frontend/jins/default/js/main.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/skin/frontend/jins/default/js/shortlist.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/skin/frontend/jins/default/js/amasty/amconf/configurableList.js"></script>
+<link rel="stylesheet" type="text/css" href="https://www.jins.com/us/skin/frontend/jins/default/css/print.css" media="print">
+<link rel="stylesheet" type="text/css" href="https://www.jins.com/us/skin/frontend/jins/default/css/general.css" media="all">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PWXSR8"></script><script type="text/javascript" src="https://www.jins.com/us/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/js/lib/ccard.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/js/prototype/validation.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/js/varien/js.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/js/varien/form.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/js/mage/translate.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/js/mage/cookies.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/js/ebizmarts/mailchimp/campaignCatcher.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/js/vendor/jquery-1.9.min.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/js/vendor/jquery.hoverIntent.min.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/js/vendor/matchMedia.min.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/js/vendor/modernizr-2.6.2.min.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/js/vendor/unveil.min.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/js/vendor/jquery.touchSwipe.min.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/js/vendor/respond.to.min.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/js/gorilla/utilities.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/js/vendor/jquery.inputmask.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/js/gorilla/plugins.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/skin/frontend/jins/default/js/scripts.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/skin/frontend/jins/default/js/enterprise/catalogevent.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/skin/frontend/jins/default/js/enterprise/wishlist.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/skin/frontend/jins/default/js/RegionUpdater.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/skin/frontend/jins/default/js/main.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/skin/frontend/jins/default/js/egibility-check.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/skin/frontend/jins/default/js/validation-update.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/skin/frontend/jins/default/js/amasty/amconf/configurableList.js"></script>
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://www.jins.com/us/js/lib/ds-sleight.js"></script>
-<script type="text/javascript" src="http://www.jins.com/us/skin/frontend/base/default/js/iehover-fix.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="https://www.jins.com/us/skin/frontend/base/default/js/iehover-fix.js"></script>
 <![endif]-->
 
 <script type="text/javascript">
@@ -73,9 +76,32 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <script type="text/javascript">//<![CDATA[
         var Translator = new Translate({"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.":"Please enter a valid phone number. Example 123-456-7890.","Please enter a valid email address. For example johndoe@domain.com.":"Please enter a valid email address."});
         //]]></script><meta name="p:domain_verify" content="60578c7c803ead5f79c10c30e6b45349">
+<style>
+@media screen and (max-width: 1024px) {
+body.cms-index-index .glasses .keyImg-bkg:not('.bg-mob_md') {
+    background: none;
+    height: auto;
+  }
+  body.cms-index-index .glasses .keyImg-bkg:not('.bg-mob_md') img {
+    margin-bottom: -7px;
+  }
+body.cms-index-index .glasses .keyImg-bkg {
+    height: 756px;
+    background-image: inherit;
+}
+
+body.cms-index-index .keyImg-bkg {
+    background: none;
+    height: auto;
+  }
+  body.cms-index-index .keyImg-bkg img {
+    margin-bottom: -7px;
+  }
+}
+</style>
 <script>
-Mage.BaseUrl = 'http://www.jins.com/us/';
-Mage.MediaUrl = 'http://www.jins.com/us/media/';
+Mage.BaseUrl = 'https://www.jins.com/us/';
+Mage.MediaUrl = 'https://www.jins.com/us/media/';
 </script></head>
 <body class="wide  cms-page-view cms-privacy-policy">
 <div class="wrapper" id="mobile-wrap">
@@ -101,85 +127,89 @@ Mage.MediaUrl = 'http://www.jins.com/us/media/';
         </div>
     </noscript>
     <div class="page">
-        <div class="centering">
-            <div class="header-container">
-	<header class="header">
-        <div class="header-inner row">
-            <div class="grid-1 branding">
-                                    <a href="http://www.jins.com/us/" title="JINS Online Store (USA)" class="logo">
+        <header class="header" id="header">
+    <div class="header-container">
+        <div class="header-inner table-grid ">
+            <div class="header-background"></div>
+            <div class="branding table-cell">
+                                    <div class="logo-wrap">
                         <strong>JINS Online Store (USA)</strong>
-                        <img src="http://www.jins.com/us/skin/frontend/jins/default/images/logo.jpg" alt="JINS Online Store (USA)">
-                    </a>
+                        <a href="https://www.jins.com/us/" title="JINS Online Store (USA)" class="logo">   
+                            <img src="https://www.jins.com/us/skin/frontend/jins/default/images/logo.png" alt="JINS Online Store (USA)" width="120" height="40">
+                        </a>
+                    </div>
                             </div>
-            <div class="grid-5 nav-container accordion" id="navigation-container">
-                <div class="inner-container">
-                    <!--{TOPMENU_78c168e63f06522166a89c7901167277}-->    <nav class="nav-menu">
+
+            <div class="header-nav table-cell">
+                <div class="nav-container" id="navigation-container">
+                    <div class="inner-container">
+                        <div class="nav-mobile">
+                            <!--{TOPMENU_8606e542474d7044265ea734d1753919}-->    <nav class="nav-menu">
         <ul id="nav">
             
 
 	<li class="level-top level0 nav-1 parent">
-		<a href="http://www.jins.com/us/collections.html" class="level-top">
-			<span>COLLECTIONS</span>
+		<a href="https://www.jins.com/us/collections.html" title="Collections" class="level-top">
+			<span>Collections</span>
 		</a>
 
-									<div class="level0 row nav-1">
-				<ul>
+									<div class="level0 nav-1">
+				<ul class="collections">
 <li class="level1 first">
-	<a href="http://www.jins.com/us/collections/airframe.html">
-          <img src="http://www.jins.com/us/media/wysiwyg/Collections/Airframe/airframe_tile.jpg" alt="Airframe">
+	<a href="https://www.jins.com/us/collections/airframe.html">
+          <img src="https://www.jins.com/us/media/wysiwyg/Collections/Airframe/subNav_airframe.jpg" alt="">
           <span>Airframe</span>
 	</a>
 </li>
 
 <li class="level1">
-
-	<a href="http://www.jins.com/us//collections/neo-luxe.html">
-          <img src="http://www.jins.com/us/media/wysiwyg/Collections/Neoluxe/neoluxe-tile.jpg" alt="Neo Luxe">
-          <span>Neo Luxe</span>
+	<a href="https://www.jins.com/us/collections/classic.html">
+          <img src="https://www.jins.com/us/media/wysiwyg/Collections/Classic/subNav_classic.jpg" alt="">
+          <span>Classic</span>
 	</a>
 </li>
 
 <li class="level1">
-	<a href="http://www.jins.com/us/collections/woodtone.html">
-          <img src="http://www.jins.com/us/media/wysiwyg/Collections/Woodtone/downey1woodtone-340x160.jpg" alt="Woodtone">
+	<a href="https://www.jins.com/us/collections/woodtone.html">
+          <img src="https://www.jins.com/us/media/wysiwyg/Collections/Woodtone/subNav_woodtone.jpg" alt="">
           <span>Woodtone</span>
 	</a>
 </li>
 
-<li class="level1 last">
-	<a href="http://www.jins.com/us/collections.html">
-		<img src="http://www.jins.com/us/media/wysiwyg/Collections/allcollections2.jpg" alt="All Collections">
-		 <span>All Collections</span>
-	</a>
+<li class="level1 last view-all">
+	<a href="https://www.jins.com/us/collections.html">          
+            <img src="https://www.jins.com/us/media/wysiwyg/Collections/subNav_all_collections.jpg" alt="">
+          <span>All Collections</span>
+       </a>
 </li>
-</ul>			</div>
+</ul>
+			</div>
 			</li>
 
 	<li class="level-top level0 nav-2 parent">
-		<a href="http://www.jins.com/us/men.html" class="level-top">
-			<span>Men</span>
+		<a href="https://www.jins.com/us/women.html" title="Women" class="level-top">
+			<span>Women</span>
 		</a>
 
-									<div class="level0 row nav-2">
+									<div class="level0 nav-2">
 				<ul>
 <li class="level1 first">
-	<a href="http://www.jins.com/us/men/men-optical.html">
-          <img src="http://www.jins.com/us/media/catalog/category/MRF-13A-U699_92B_02_1.jpg" alt="Optical">
+	<a href="https://www.jins.com/us/women/women-optical.html">
+          <img src="https://www.jins.com/us/media/wysiwyg/spiffs/menu/sub_women_opt_LRF-16S-057_10.jpg" alt="WOMEN Optical">
           <span>Optical</span>
 	</a>
 </li>
 
 <li class="level1">
-
-	<a href="http://www.jins.com/us/men/men-sunglasses.html">
-          <img src="http://www.jins.com/us/media/catalog/category/URF-14A-U963_24_02_1.jpg" alt="Sunglasses">
+	<a href="https://www.jins.com/us/women/women-sunglasses.html">
+          <img src="https://www.jins.com/us/media/wysiwyg/spiffs/menu/sub_women_sun_LPF-15S-U1094_78.jpg" alt="WOMEN Sunglasses">
           <span>Sunglasses</span>
 	</a>
 </li>
 
 <li class="level1">
-	<a href="http://www.jins.com/us/jins-screen">
-          <img src="http://www.jins.com/us/media/wysiwyg/JINSSCREEN/FPC-14S-U103_48_02_tile.jpg" alt="">
+	<a href="https://www.jins.com/us/jins-screen">
+          <img src="https://www.jins.com/us/media/wysiwyg/spiffs/menu/sub_women_scr_FPC-14S-U103_69.jpg" alt="WOMEN JINS SCREEN">
           <span>JINS SCREEN</span>
 	</a>
 </li>
@@ -188,29 +218,29 @@ Mage.MediaUrl = 'http://www.jins.com/us/media/';
 			</li>
 
 	<li class="level-top level0 nav-3 parent">
-		<a href="http://www.jins.com/us/women.html" class="level-top">
-			<span>Women</span>
+		<a href="https://www.jins.com/us/men.html" title="Men" class="level-top">
+			<span>Men</span>
 		</a>
 
-									<div class="level0 row nav-3">
+									<div class="level0 nav-3">
 				<ul>
 <li class="level1 first">
-	<a href="http://www.jins.com/us/women/women-optical.html">
-          <img src="http://www.jins.com/us/media/catalog/category/CCF-14S-U138_92_02_1.jpg" alt="Optical">
+	<a href="https://www.jins.com/us/men/men-optical.html">
+          <img src="https://www.jins.com/us/media/wysiwyg/spiffs/menu/sub_men_opt_MRF-13A-U699_58D.jpg" alt="MEN Optical">
           <span>Optical</span>
 	</a>
 </li>
 
 <li class="level1">
-	<a href="http://www.jins.com/us/women/women-sunglasses.html">
-          <img src="http://www.jins.com/us/media/catalog/category/LCF-15S-1014_94_02_1.jpg" alt="Sunglasses">
+	<a href="https://www.jins.com/us/men/men-sunglasses.html">
+          <img src="https://www.jins.com/us/media/wysiwyg/spiffs/menu/sub_men_sun_UCF-14S-U922_92.jpg" alt="MEN Sunglasses">
           <span>Sunglasses</span>
 	</a>
 </li>
 
 <li class="level1">
-	<a href="http://www.jins.com/us/jins-screen">
-          <img src="http://www.jins.com/us/media/wysiwyg/JINSSCREEN/FPC-14S-U103_78_02_tile.jpg" alt="">
+	<a href="https://www.jins.com/us/jins-screen">
+          <img src="https://www.jins.com/us/media/wysiwyg/spiffs/menu/sub_men_scr_FPC-14S-U103_94.jpg" alt="MEN JINS SCREEN">
           <span>JINS SCREEN</span>
 	</a>
 </li>
@@ -218,157 +248,115 @@ Mage.MediaUrl = 'http://www.jins.com/us/media/';
 </ul>			</div>
 			</li>
 
-	<li class="level-top level0 nav-4">
-		<a href="http://www.jins.com/us/locations" class="level-top">
+	<li class="level-top level0 nav-4 parent">
+		<a href="https://www.jins.com/us/about-us" title="About" class="level-top">
+			<span>About</span>
+		</a>
+
+									<div class="level0 nav-4">
+				<ul>
+				
+						<li class="level1 nav-4-1 first">
+							<a href="https://www.jins.com/us/about-us/our-commitments" class="">
+															<img src="https://www.jins.com/us/media/catalog/category/Our-commitments.png" alt="Our Commitments"><br>
+															<span>Our Commitments</span>
+							</a>
+						</li>
+					
+						<li class="level1 nav-4-2 last">
+							<a href="https://www.jins.com/us/about-us/our-blog" class="">
+															<img src="https://www.jins.com/us/media/catalog/category/Our-blog.png" alt="Our Blog"><br>
+															<span>Our Blog</span>
+							</a>
+						</li>
+					
+								</ul>
+			</div>
+			</li>
+
+	<li class="level-top level0 nav-5 active">
+		<a href="https://www.jins.com/us/locations" title="Locations" class="level-top">
 			<span>Locations</span>
 		</a>
 
 							</li>
 
-	<li class="level-top level0 nav-5 parent">
-		<a href="http://www.jins.com/us/about-us" class="level-top">
-			<span>About Us</span>
-		</a>
 
-									<ul class="level0 row nav-5">
-			
-					<li class="level1 nav-5-1 first">
-						<a href="http://www.jins.com/us/about-us/our-commitments" class="">
-													<img src="http://www.jins.com/us/media/catalog/category/Our-commitments-340x160.png" alt="Our Commitments"><br>
-													<span>Our Commitments</span>
-						</a>
-					</li>
-				
-					<li class="level1 nav-5-2">
-						<a href="http://www.jins.com/us/about-us/cases-for-causes" class="">
-													<img src="http://www.jins.com/us/media/catalog/category/c4c-case-3-tile.jpg" alt="Cases for Causes"><br>
-													<span>Cases for Causes</span>
-						</a>
-					</li>
-				
-					<li class="level1 nav-5-3">
-						<a href="http://www.jins.com/us/about-us/lens-guide" class="">
-													<img src="http://www.jins.com/us/media/catalog/category/lens-guide-340x160.png" alt="Lens Guide"><br>
-													<span>Lens Guide</span>
-						</a>
-					</li>
-				
-					<li class="level1 nav-5-4 last">
-						<a href="http://www.jins.com/us/about-us/pricing-chart" class="">
-													<img src="http://www.jins.com/us/media/catalog/category/dollar-tile-340x160.png" alt="Pricing Chart"><br>
-													<span>Pricing Chart</span>
-						</a>
-					</li>
-				
-						</ul>
-			</li>
-
-	<li class="level-top level0 nav-6 parent">
-		<a href="http://www.jins.com/us/help" class="level-top">
-			<span>Help</span>
-		</a>
-
-									<ul class="level0 row nav-6">
-			
-					<li class="level1 nav-6-1 first">
-						<a href="http://www.jins.com/us/help/faqs" class="">
-													<img src="http://www.jins.com/us/media/catalog/category/faqs-340x160.png" alt="FAQs"><br>
-													<span>FAQs</span>
-						</a>
-					</li>
-				
-					<li class="level1 nav-6-2">
-						<a href="http://www.jins.com/us/help/returns" class="">
-													<img src="http://www.jins.com/us/media/catalog/category/Returns-340x160.png" alt="Returns"><br>
-													<span>Returns</span>
-						</a>
-					</li>
-				
-					<li class="level1 nav-6-3 last">
-						<a href="http://www.jins.com/us/help/contact-us" class="">
-													<img src="http://www.jins.com/us/media/catalog/category/ContactUs-340x160.jpg" alt="Contact Us"><br>
-													<span>Contact Us</span>
-						</a>
-					</li>
-				
-						</ul>
-			</li>
-
-
-            <li class="level0 level-top show700">
-                <a href="https://www.jins.com/us/customer/account/" class="level-top"><span>Account</span></a>
+            <li class="level0 level-top show1024">
+                <a href="https://www.jins.com/us/customer/account/" class="level-top"><span>My Account</span></a>
+            </li>
+            <li class="level0 level-top show1024">
+                <a href="https://www.jins.com/us/help/faqs/" class="level-top"><span>Help</span></a>
             </li>
         </ul>
+        <div class="show780">
+            <a href="javascript:void(0);" class="open-form icon-search"></a>
+        </div>
     </nav>
-<!--/{TOPMENU_78c168e63f06522166a89c7901167277}-->                </div>
-            </div>
-            <div class="grid-2 utility-nav hide700">
-                <div class="promo-search">
-                    <div class="promotional-container a-left"><!--{WIDGET_ENTERPRISE_BANNER_0edef30c9968ad04972b1719e7873565}--><div class="widget widget-banner">
-				<div class="banner">Free shipping</div>
-	</div>
-<!--/{WIDGET_ENTERPRISE_BANNER_0edef30c9968ad04972b1719e7873565}--></div>                    <form id="search_mini_form" action="http://www.jins.com/us/catalogsearch/result/" method="get" class="labelify">
-    <div class="form-search field">
-		<label for="search">Search</label>
-        <input id="search" type="text" name="q" value="" class="input-text" maxlength="128">
-        <button type="submit" title="Go" class="icon search text-hide"></button>
-        <div id="search_autocomplete" class="search-autocomplete" style="display: none;"></div>
-        <script type="text/javascript">
-        //<![CDATA[
-            var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
-            searchForm.initAutocomplete('http://www.jins.com/us/catalogsearch/ajax/suggest/', 'search_autocomplete');
-        //]]>
-        </script>
-        <a href="javascript:void(0);" class="close-form">x</a>
-    </div>
-</form>
-                    <a href="javascript:void(0);" class="open-form"></a>
+<!--/{TOPMENU_8606e542474d7044265ea734d1753919}-->                        </div>
+                    </div>
                 </div>
 
-                <div class="quick-access">
-                    <!--{CART_SIDEBAR_0e6891b9f06b1ab32c38c5233509d23d}-->
+
+                <div class="utility-nav">
+                    <div class="links v-middle hide1024 help">
+                                                    <a href="https://www.jins.com/us/help/faqs/" title="Help">Help</a>                                            </div>
+                    <div class="promo-search v-middle hide780">
+                        <div class="promotional-container a-left"><!--{WIDGET_ENTERPRISE_BANNER_0edef30c9968ad04972b1719e7873565}--><div class="widget widget-banner">
+		</div>
+<!--/{WIDGET_ENTERPRISE_BANNER_0edef30c9968ad04972b1719e7873565}--></div>                        <a href="javascript:void(0);" class="open-form icon-search" title="Search"></a>
+                    </div>
+                                            <div class="location-header v-middle">
+<a href="https://www.jins.com/us/locations" class="header-iconLink" title="Locations">
+<svg class="location_svg" width="14px" height="19px" viewBox="0 0 14 19" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                  <g transform="translate(-39.000000, -543.000000)" stroke="#E1002B" class="location-svg">
+                  <path d="M45.9900148,552.334432 C47.0853189,552.346423 47.9603891,551.407787 47.9898097,550.320863 C48.0222255,549.122828 47.0885948,548.193185 46.0370005,548.175134 C44.9093431,548.155747 44.0204205,549.117648 44.0054762,550.223373 C43.9896583,551.393874 44.9140229,552.343588 45.9900148,552.334432 M45.5925393,544 L46.4037138,544 C46.4375648,544.008407 46.4710725,544.021114 46.5053915,544.024275 C46.5622361,544.029521 46.6204223,544.022613 46.6765805,544.031313 C46.9883835,544.079634 47.299001,544.134929 47.603285,544.223361 C48.1667706,544.387093 48.6961868,544.632155 49.1889753,544.960272 C49.6817639,545.288389 50.1267868,545.6747 50.5092244,546.140222 C50.7979089,546.491571 51.0534289,546.865208 51.2656759,547.270678 C51.7025558,548.105307 51.9313382,549.002823 51.9903043,549.948758 C52.0166987,550.371921 51.9873404,550.794531 51.9248488,551.212285 C51.8584885,551.655846 51.74742,552.089241 51.5898649,552.508168 C51.4184575,552.963948 51.2033714,553.395876 50.9324079,553.796101 C50.4113218,554.565889 49.8883638,555.334275 49.3669034,556.10377 C48.9622209,556.70093 48.5592231,557.299328 48.1543534,557.896358 C47.5966397,558.718768 47.0360868,559.539093 46.4813058,560.363654 C46.3861488,560.505099 46.2781066,560.620087 46.1229226,560.68281 L45.8733305,560.68281 C45.7550862,560.626376 45.6473248,560.559481 45.5691088,560.443321 C45.0796273,559.71638 44.58765,558.991265 44.0955166,558.266247 C43.4774328,557.355665 42.8583194,556.445865 42.2398612,555.535544 C41.9006342,555.0362 41.5579129,554.539333 41.2245202,554.035721 C41.0477153,553.7686 40.8756839,553.496527 40.7224655,553.214255 C40.4394904,552.693015 40.2537626,552.130752 40.1305889,551.546495 C40.0581135,551.202771 40.0195203,550.853149 40.0047632,550.502158 C39.9897253,550.144781 40.011003,549.788707 40.0585815,549.432992 C40.1095607,549.051861 40.1859983,548.678388 40.2990324,548.312767 C40.4285395,547.893677 40.6046892,547.496482 40.815813,547.115547 C41.173385,546.47049 41.6254276,545.907999 42.1755912,545.434266 C42.5207148,545.137103 42.8936679,544.882397 43.2943881,544.671418 C44.0014203,544.29915 44.745049,544.070283 45.5376602,544.023134 C45.5563172,544.022027 45.5742566,544.007983 45.5925393,544"></path>
+                  </g>
+                  </g>
+                  </svg></a>
+</div>                                        <div class="quick-access v-middle">
+                        <!--{CART_SIDEBAR_0e6891b9f06b1ab32c38c5233509d23d}-->
 <div class="top-cart">
         <div class="cart-link">
-        <a href="http://www.jins.com/us/checkout/cart/" class="icon cart"><span>(0)</span></a>
+        <a href="https://www.jins.com/us/checkout/cart/" class="cart-icon" title="Shopping Cart">
+                <svg width="26px" height="23px" viewBox="1720 40 28 24" class="cart-svg">
+                  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1721.000000, 41.000000)">
+                  <path d="M0,0 L4.40909091,0 L10.0909091,15 L23.7272727,15 L26,4.61538462 L8.95454545,4.61538462" stroke="#3A4763" stroke-linecap="round" class="header-iconLink-svg"></path>
+                  <ellipse stroke="#3A4763" cx="12.0878906" cy="20.0878906" rx="2.08789062" ry="2.08789063" class="header-iconLink-svg"></ellipse>
+                  <ellipse stroke="#3A4763" cx="22.0878906" cy="20.0878906" rx="2.08789062" ry="2.08789063" class="header-iconLink-svg"></ellipse>
+                  </g>
+                </svg>
+            <span class="cart-item red">0</span></a>
     </div>
 </div>
-<!--/{CART_SIDEBAR_0e6891b9f06b1ab32c38c5233509d23d}-->                                        <div class="links">
-                        <a href="https://www.jins.com/us/customer/account/" class="icon person text-hide">Account</a>
-                                            </div>
+<!--/{CART_SIDEBAR_0e6891b9f06b1ab32c38c5233509d23d}-->                        <div class="account-links hide1024">
+                            <!--{ACCLINKS_438c91c6f01089cf19f426d033f37e88}--><ul class="links">
+                        <li class="first last"><a href="https://www.jins.com/us/customer/account/login/referer/aHR0cHM6Ly93d3cuamlucy5jb20vdXMvcHJpdmFjeS1wb2xpY3k_X19fU0lEPVU,/" title="Login">&nbsp;</a></li>
+            </ul>
+<!--/{ACCLINKS_438c91c6f01089cf19f426d033f37e88}-->                        </div>
+                    </div>
                 </div>
             </div>
-
-            <div id="mobile-utilities" class="show700 mobile-utilities">
-                <ul class="links">
-                    <li class="cart-link"><span class="placeholder"></span></li>
-                    <li><a href="#" class="icon search"></a></li>
-                    <li><a href="#" id="menu-trigger" class="show768 icon menu" data-menu="#navigation-container"><span></span></a></li>
-                </ul>
-            </div>
         </div>
-	</header>
-    <div id="menu-pane" class="closed menu-pane">
+
+
+        <div id="mobile-utilities" class="show700 mobile-utilities menuBtn">
+            <ul class="links table-cell">
+                <li><a href="#" id="menu-trigger" class="show1024 icon menu menu-toggle" data-menu="#navigation-container"><span></span></a></li>
+            </ul>
+        </div>
+    <div id="menu-pane" class="menu-pane row">
         <!-- sub menu clone area -->
     </div>
-	<form id="mobile_search_mini_form" action="http://www.jins.com/us/catalogsearch/result/" method="get" class="labelify">
-    <div class="form-search field">
-		<label for="search-mobile">Search products</label>
-        <input id="search-mobile" type="text" name="q" value="" class="input-text" maxlength="128">
-        <button type="submit" title="Go" class="icon search text-hide"></button><div id="search_autocomplete_mini" class="search-autocomplete" style="display: none;"></div>
-        <script type="text/javascript">
-        //<![CDATA[
-            var searchFormMini = new Varien.searchForm('mobile_search_mini_form', 'search-mobile', '');
-            searchFormMini.initAutocomplete('http://www.jins.com/us/catalogsearch/ajax/suggest/', 'search_autocomplete_mini');
-        //]]>
-        </script>
-    </div>
-</form>
-    </div>
+	        </div>
+</header>
 
+        <div class="centering">
             	<div class="breadcrumbs row">
 		<ul class="grid-8">
 							<li class="home">
-											<a href="http://www.jins.com/us/" title="Go to Home Page">Home</a>
+											<a href="https://www.jins.com/us/" title="Go to Home Page">Home</a>
 																<span>/</span>
 									</li>
 							<li class="cms_page">
@@ -379,155 +367,251 @@ Mage.MediaUrl = 'http://www.jins.com/us/media/';
             <!--{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}--><!--/{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}-->        </div>
         <div class="main col1-layout">
             <div class="col-main">
-                    <div class="page-title row copy-space">
-        <div class="grid-2 no-sub-title">
-            <h1>JINS PRIVACY POLICY</h1>
-
-			        </div>
+                <div class="std"><!--{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><!--/{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><!--Privacy Policy-->
+<div class="cms-page-title cms-copy-space">
+    <div>
+        <h1>PRIVACY POLICY</h1>
     </div>
-<div class="std"><!--{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><!--/{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><div class="row">
-<div class="grid-6">
-<p>Updated  Feb 1, 2014.</p>
-
-<p>JINS Eyewear US, Inc. (“JINS”) is committed to protecting your privacy, and this Policy describes the type of information we collect through our website and how it may be used, transferred, or disclosed.</p>
-<ul>
-    <li><a href="#privacy-1">Site Not for Use by Children</a></li>
-    <li><a href="#privacy-2">Changes to the Privacy Policy</a></li>
-    <li><a href="#privacy-3">How We Collect Information</a></li>
-    <li><a href="#privacy-4">Types of Information We Collect</a></li>
-    <li><a href="#privacy-5">How We Use Your Information</a></li>
-    <li><a href="#privacy-6">Disclosures of Information to Third Parties</a></li>
-    <li><a href="#privacy-7">Cookies</a></li>
-    <li><a href="#privacy-8">Health Information Collection</a></li>
-    <li><a href="#privacy-9">California Do Not Track Notice</a></li>
-    <li><a href="#privacy-10">Choosing to Not Receive Promotional Emails</a></li>
-    <li><a href="#privacy-11">Protecting Your Information</a></li>
-    <li><a href="#privacy-12">Third Party Sites</a></li>
-    <li><a href="#privacy-13">Inquiries</a></li>
-</ul>
-
-<h3 id="privacy-1">Site Not for Use by Children</h3>
-<p>Our website, products and services are not intended for use by children under the age of eighteen (18), and we do not knowingly collect any personal information from children.  Please refer to our Terms of Use that prohibit children from sending us information via our website.  If we discover that children have sent us personal information, we will take all reasonable measures to promptly delete such information.  Adults are welcome to place orders on behalf of children.</p>
-
-<h3 id="privacy-2">Changes to the Privacy Policy</h3>
-<p>JINS reserves the right to modify this Privacy Policy.  An updated or modified Privacy Policy will be posted on this website and shall include the date it was last updated.  The changes to the Privacy Policy shall be effective as of the date of posting.  Your use of this website confirms that you agree to the most current Privacy Policy.</p>
-
-<h3 id="privacy-3">How We Collect Information</h3>
-<p>We collect information based on the information that you provide to us, and information from your use of our website.  You must provide your personal information if you want to do things such as make purchases or create an account.   Once you have created an account, you will be able to edit your personal information in the <a href="http://www.jins.com/us/customer/account/">account settings</a>. </p> 
-
-<h3 id="privacy-4">Types of Information We Collect</h3>
-<p>The information we collect when you visit our website depends on things such as your browser settings, what information you actively provide us, and what links you click on.  The following information is information that we collect when you choose to provide it to us by actively sending it to us through our website:  </p>
-<ul>
-<li>Your name;</li>
-<li>Your mailing address;</li>
-<li>Your email address;</li>
-<li>Your telephone number;</li>
-<li>Names you use on social media sites;</li>
-<li>Photographs (such as a photo of your face to enable you to try on glasses virtually); and</li>
-<li>Credit card information.</li>
-</ul>
-
-<p>In addition to the information you actively send us, we may also automatically collect information such as Internet protocol (IP) addresses, the type of Internet browser you are using, your Internet service provider (ISP), the pages through which you entered or exited our website, the path you navigated through our website, the operating system of your computer or device, and date and time information.  We collect and store such automatically gathered information on an individual and aggregate basis.</p>
-
-<h3 id="privacy-5">How We Use Your Information</h3>
-<p>We use information that you provide to us to process your orders, answer inquiries, contact you when necessary, improve customer service, and other internal business purposes.  We use the information gathered from your use of the website to analyze website usage trends, administer and improve the website, and compile information about the types of people who visit and use our website.</p>
-
-<h3 id="privacy-6">Disclosure of Information to Third Parties</h3>
-<p>We may share your information with third party contractors we have engaged to support our operations.  Third party contractors may perform services such as sending emails, maintaining our website, processing and authorizing payment, fulfilling or shipping orders, or analyzing data.  Our third party contractors are required to maintain the confidentiality of your information.</p>
-
-<p>Other than as described in this Privacy Policy or with your approval, we do not rent, sell, or otherwise disclose your information to any third parties.</p>
-
-<h3 id="privacy-7">Cookies</h3>
-<p>A cookie is a small data file that is stored on your computer or device for record-keeping purposes when you visit a website.  Cookies may store information about your preferences or usage of the website.  We may link the information we store in cookies to your personal information in order to provide a faster and more efficient online experience.  You can choose to delete existing cookies and/or disable future cookies. Please note that if you disable future cookies, you may still use our website, but certain functionality or features may be limited.  We use both session cookies and persistent cookies on this website.</p>
-
-<p>We use temporary “session cookies” to make it easier for you to navigate our site.  We use session cookies to record session information, such as which web pages you have visited, and to track your activity on the site.  We also use session cookies to store any passwords used on the site (such as a password associated with your user account), so you don't have to enter your password more than once per session.  Session cookies expire when you explicitly log out, or after 90 days from your last login.</p>
-
-<p>We use persistent cookies to track and target the interests of our users to enhance the experience on our site.  Persistent cookies remain on your hard drive for an extended period of time.  You can delete persistent cookies by following directions provided in your browser's "help" file.</p>
-
-<h3 id="privacy-8">Health Information Collection</h3>
-<p>We maintain the privacy of your health information in accordance with the requirements of applicable federal and state law.  Please see our <a href="http://www.jins.com/us/hipaa-statement">HIPAA Privacy Statement</a> for details about your rights concerning your health information.  Any health information we collect from you on this site will be handled in accordance with the terms of our HIPAA Privacy Statement.</p>
-
-<h3 id="privacy-9">California Do Not Track Notice</h3>
-<p>We do not collect or track your information over time and across third party websites, and therefore we do  not respond to “do not track” (DNT) signals.  [Third parties that have content or services on our website, such a social feature or analytics service, may obtain information about your usage of this website, but these third parties cannot collect any of your personally identifiable information from our website unless you directly provide it to them.]  We never share your personal information with third parties for direct marketing purposes.</p>
-
-<h3 id="privacy-10">Choosing to Not Receive Promotional Emails</h3>
-<p>If you do not wish to receive promotional emails or newsletters from us, please let us know by selecting the option to not receive such emails when you create your account.    Also every promotional email or newsletter we send will have a link that allows you to unsubscribe and stop receiving all promotional emails or newsletters in the future.</p>
-
-<p>Please note that even if you choose to not receive promotional emails or newsletters, we may still email you administrative notices about this site or informational notices concerning your product orders or account.</p>
-
-<h3 id="privacy-11">Protecting Your Information</h3>
-<p>We understand the importance of maintaining the security of your personal information, and we follow commercially-reasonable and generally accepted industry standards to protect the personal information you submit to us.  When you enter sensitive and/or personally-identifying information during registration or while ordering, we encrypt the transmissions involving such information using secure protocols. </p>
-
-<p>Please note that while we encrypt the data for your protection, we do not guarantee that your information is 100% secure.  By sending us data, you are agreeing that we do not guarantee the security of such data, but that we will endeavor to protect it using commercially-reasonable and generally accepted industry standards. </p> 
-
-<h3 id="privacy-12">Third Party Sites</h3>
-<p>This Policy applies only to information collected by this website.  This website may contain links to other websites that are not owned or operated by JINS (“Third Party Sites”).  We do not provide your information to Third Party Sites, and we do not control the collection or use of any information on or by Third Party Sites.  Accordingly, we make no representations about how Third Party Sites use your information.  This means that a link from our site to a Third Party Site can take you to a page that does not follow this Policy.  If you choose to disclose personal information to any Third Party Sites, we encourage you to read the privacy policies of those sites.</p>
-
-<h3 id="privacy-13">Inquiries</h3>
-<p>If you have questions or concerns about this Policy, please <a href="http://www.jins.com/us/contact-us">contact us</a>.</p>
 </div>
+
+<div class="wrapper">
+    <section class="wide-content wide-content--center" style="text-align: left;">
+        <div class="contents contents--paragraph">
+            <div class="contents_text">
+                <p>Updated  Apr 11, 2017.</p>
+                <p>JINS Eyewear US, Inc. (“JINS”) is committed to protecting your privacy, and this Policy describes the type of information we collect through our website and how it may be used, transferred, or disclosed.</p>
+            </div>
+        </div>
+
+        <div class="contents contents--paragraph">
+            <div class="contents_text">
+                <h2 class="contents__title">Site Not for Use by Children</h2>
+                <p>Our website, products and services are not intended for use by children under the age of eighteen (18), and we do not knowingly collect any personal information from children.  Please refer to our Terms of Use that prohibit children from sending us information via our website.  If we discover that children have sent us personal information, we will take all reasonable measures to promptly delete such information.  Adults are welcome to place orders on behalf of children.</p>
+                <p>&nbsp;</p>
+            </div>
+
+            <div class="contents_text">
+                <h2 class="contents__title">Changes to the Privacy Policy</h2>
+                <p>JINS reserves the right to modify this Privacy Policy.  An updated or modified Privacy Policy will be posted on this website and shall include the date it was last updated.  The changes to the Privacy Policy shall be effective as of the date of posting.  Your use of this website confirms that you agree to the most current Privacy Policy.</p>
+                <p>&nbsp;</p>
+            </div>
+
+            <div class="contents_text">
+                <h2 class="contents__title">How We Collect Information</h2>
+                <p>We collect information based on the information that you provide to us, and information from your use of our website.  You must provide your personal information if you want to do things such as make purchases or create an account.   Once you have created an account, you will be able to edit your personal information in the <a href="https://www.jins.com/us/customer/account/" class="default-link">account settings</a>. </p> 
+                <p>&nbsp;</p>
+            </div>
+
+            <div class="contents_text">
+                <h2 class="contents__title">Types of Information We Collect</h2>
+                <p>The information we collect when you visit our website depends on things such as your browser settings, what information you actively provide us, and what links you click on.  The following information is information that we collect when you choose to provide it to us by actively sending it to us through our website:  </p>
+                <ol class="contents__list contents__list--disc">
+                    <li>Your name;</li>
+                    <li>Your mailing address;</li>
+                    <li>Your email address;</li>
+                    <li>Your telephone number;</li>
+                    <li>Names you use on social media sites;</li>
+                    <li>Photographs (such as a photo of your face to enable you to try on glasses virtually); and</li>
+                    <li>Credit card information.</li>
+                </ol>
+                <p>In addition to the information you actively send us, we may also automatically collect information such as Internet protocol (IP) addresses, the type of Internet browser you are using, your Internet service provider (ISP), the pages through which you entered or exited our website, the path you navigated through our website, the operating system of your computer or device, and date and time information.  We collect and store such automatically gathered information on an individual and aggregate basis.</p>
+                <p>&nbsp;</p>
+            </div>
+
+            <div class="contents_text">
+                <h2 class="contents__title">How We Use Your Information</h2>
+                <p>We use information that you provide to us to process your orders, answer inquiries, contact you when necessary, improve customer service, and other internal business purposes.  We use the information gathered from your use of the website to analyze website usage trends, administer and improve the website, and compile information about the types of people who visit and use our website.</p>
+                <p>&nbsp;</p>
+            </div>
+
+            <div class="contents_text">
+                <h2 class="contents__title">Disclosure of Information to Third Parties</h2>
+                <p>We may share your information with third party contractors we have engaged to support our operations.  Third party contractors may perform services such as sending emails, maintaining our website, processing and authorizing payment, fulfilling or shipping orders, or analyzing data.  Our third party contractors are required to maintain the confidentiality of your information.</p>
+                <p>Other than as described in this Privacy Policy or with your approval, we do not rent, sell, or otherwise disclose your information to any third parties.</p>
+                <p>&nbsp;</p>
+            </div>
+
+            <div class="contents_text">
+                <h2 class="contents__title">Cookies</h2>
+                <p>A cookie is a small data file that is stored on your computer or device for record-keeping purposes when you visit a website.  Cookies may store information about your preferences or usage of the website.  We may link the information we store in cookies to your personal information in order to provide a faster and more efficient online experience.  You can choose to delete existing cookies and/or disable future cookies. Please note that if you disable future cookies, you may still use our website, but certain functionality or features may be limited.  We use both session cookies and persistent cookies on this website.</p>
+                <p>We use temporary “session cookies” to make it easier for you to navigate our site.  We use session cookies to record session information, such as which web pages you have visited, and to track your activity on the site.  We also use session cookies to store any passwords used on the site (such as a password associated with your user account), so you don't have to enter your password more than once per session.  Session cookies expire when you explicitly log out, or after 90 days from your last login.</p>
+                <p>We use persistent cookies to track and target the interests of our users to enhance the experience on our site.  Persistent cookies remain on your hard drive for an extended period of time.  You can delete persistent cookies by following directions provided in your browser's "help" file.</p>
+                <p>&nbsp;</p>
+            </div>
+
+            <div class="contents_text">
+                <h2 class="contents__title">Health Information Collection</h2>
+
+                <p>We maintain the privacy of your health information in accordance with the requirements of applicable federal and state law.  Please see our <a href="https://www.jins.com/us/hipaa-statement" class="default-link">HIPAA Privacy Statement</a> for details about your rights concerning your health information.  Any health information we collect from you on this site will be handled in accordance with the terms of our HIPAA Privacy Statement.</p>
+                <p>&nbsp;</p>
+            </div>
+
+            <div class="contents_text">
+                <h2 class="contents__title">California Do Not Track Notice</h2>
+                <p>We do not collect or track your information over time and across third party websites, and therefore we do  not respond to “do not track” (DNT) signals.  [Third parties that have content or services on our website, such a social feature or analytics service, may obtain information about your usage of this website, but these third parties cannot collect any of your personally identifiable information from our website unless you directly provide it to them.]  We never share your personal information with third parties for direct marketing purposes.</p>
+                <p>&nbsp;</p>
+            </div>
+
+            <div class="contents_text">
+                <h2 class="contents__title">Choosing to Not Receive Promotional Emails</h2>
+                <p>If you do not wish to receive promotional emails or newsletters from us, please let us know by selecting the option to not receive such emails when you create your account.    Also every promotional email or newsletter we send will have a link that allows you to unsubscribe and stop receiving all promotional emails or newsletters in the future.</p>
+                <p>Please note that even if you choose to not receive promotional emails or newsletters, we may still email you administrative notices about this site or informational notices concerning your product orders or account.</p>
+                <p>&nbsp;</p>
+            </div>
+
+            <div class="contents_text">
+                <h2 class="contents__title">Protecting Your Information</h2>
+                <p>We understand the importance of maintaining the security of your personal information, and we follow commercially-reasonable and generally accepted industry standards to protect the personal information you submit to us.  When you enter sensitive and/or personally-identifying information during registration or while ordering, we encrypt the transmissions involving such information using secure protocols. </p>
+                <p>Please note that while we encrypt the data for your protection, we do not guarantee that your information is 100% secure.  By sending us data, you are agreeing that we do not guarantee the security of such data, but that we will endeavor to protect it using commercially-reasonable and generally accepted industry standards. </p> 
+                <p>&nbsp;</p>
+            </div>
+
+            <div class="contents_text">
+                <h2 class="contents__title">Third Party Sites</h2>
+                <p>This Policy applies only to information collected by this website.  This website may contain links to other websites that are not owned or operated by JINS (“Third Party Sites”).  We do not provide your information to Third Party Sites, and we do not control the collection or use of any information on or by Third Party Sites.  Accordingly, we make no representations about how Third Party Sites use your information.  This means that a link from our site to a Third Party Site can take you to a page that does not follow this Policy.  If you choose to disclose personal information to any Third Party Sites, we encourage you to read the privacy policies of those sites.</p>
+                <p>&nbsp;</p>
+            </div>
+
+            <div class="contents_text">
+                <h2 class="contents__title">Inquiries</h2>
+                <p>If you have questions or concerns about this Policy, please <a href="https://www.jins.com/us/contact-us" class="default-link">contact us</a>.</p>
+                <p>&nbsp;</p>
+            </div>
+        </div>
+    </section>
 </div></div>            </div>
         </div>
     </div>
         <div class="footer-container">
     <footer class="footer">
 		<div class="row accord">
-			<div class="grid-2 section">
-				<h4>SHOP <span class="toggle show780"></span></h4>
-<div>
-  <ul class="links">
-    <li><span class="widget widget-category-link-inline"><a href="http://www.jins.com/us/collections.html?___store=default" title="Collections"><span>Collections</span></a></span>
+			<div class="section">
+				<h4>SHOP <span class="icon-arrow-d show1024"></span></h4>
+<div class="footer-box">
+    <div class="footer-content">
+        <ul class="links">
+            <li><span class="widget widget-category-link-inline"><a href="https://www.jins.com/us/collections.html?___store=default" title="Collections"><span>Collections</span></a></span>
 </li>
-    <li><span class="widget widget-category-link-inline"><a href="http://www.jins.com/us/men/men-optical.html?___store=default" title="Men's Optical"><span>Men's Eyeglasses</span></a></span>
+            <li><span class="widget widget-category-link-inline"><a href="https://www.jins.com/us/men/men-optical.html?___store=default" title="Men's Optical"><span>Men's Eyeglasses</span></a></span>
 </li>
-    <li><span class="widget widget-category-link-inline"><a href="http://www.jins.com/us/men/men-sunglasses.html?___store=default" title="Men's Sunglasses"><span>Men's Sunglasses</span></a></span>
+            <li><span class="widget widget-category-link-inline"><a href="https://www.jins.com/us/men/men-sunglasses.html?___store=default" title="Men's Sunglasses"><span>Men's Sunglasses</span></a></span>
 </li>
-    <li><span class="widget widget-category-link-inline"><a href="http://www.jins.com/us/women/women-optical.html?___store=default" title="Women's Optical"><span>Women's Eyeglasses</span></a></span>
+            <li><span class="widget widget-category-link-inline"><a href="https://www.jins.com/us/women/women-optical.html?___store=default" title="Women's Optical"><span>Women's Eyeglasses</span></a></span>
 </li>
-    <li><span class="widget widget-category-link-inline"><a href="http://www.jins.com/us/women/women-sunglasses.html?___store=default" title="Women's Sunglasses"><span>Women's Sunglasses</span></a></span>
+            <li><span class="widget widget-category-link-inline"><a href="https://www.jins.com/us/women/women-sunglasses.html?___store=default" title="Women's Sunglasses"><span>Women's Sunglasses</span></a></span>
 </li>
-  </ul>
+        </ul>
+    </div>
 </div>			</div>
-			<div class="grid-2 section">
-				<h4>SUPPORT <span class="toggle show780"></span></h4>
-<div>
-<ul class="links">
-<li><span class="widget widget-cms-link"><a href="http://www.jins.com/us/prescriptions" title="Prescriptions"><span>Prescriptions</span></a></span>
+			<div class="section">
+				<h4>SUPPORT <span class="icon-arrow-d show1024"></span></h4>
+<div class="footer-box">
+    <div class="footer-content">
+        <ul class="links">
+            <li><span class="widget widget-cms-link"><a href="https://www.jins.com/us/prescriptions" title="Prescriptions"><span>Prescriptions</span></a></span>
 </li>
-<li><span class="widget widget-cms-link"><a href="http://www.jins.com/us/faqs" title="FAQs"><span>FAQs</span></a></span>
+            <li><span class="widget widget-cms-link"><a href="https://www.jins.com/us/faqs" title="FAQs"><span>FAQs</span></a></span>
 </li>
-<li><span class="widget widget-cms-link"><a href="http://www.jins.com/us/returns" title="Returns"><span>Returns</span></a></span>
+            <li><span class="widget widget-cms-link"><a href="https://www.jins.com/us/returns" title="Returns"><span>Returns</span></a></span>
 </li>
-<li><span class="widget widget-cms-link"><a href="http://www.jins.com/us/contact-us" title="Contact Us"><span>Contact Us</span></a></span>
+            <li><span class="widget widget-cms-link"><a href="https://www.jins.com/us/contact-us" title="Contact Us"><span>Contact Us</span></a></span>
 </li>
-</ul>
+        </ul>
+    </div>
 </div>			</div>
-			<div class="grid-2 section break">
-				<h4>ABOUT JINS <span class="toggle show780"></span></h4>
-<div>
-<ul class="links">
-<li><span class="widget widget-cms-link"><a href="http://www.jins.com/us/our-commitments" title="Our Commitments"><span>Our Commitments</span></a></span>
+			<div class="section break">
+				<h4>ABOUT US <span class="icon-arrow-d show1024"></span></h4>
+<div class="footer-box">
+    <div class="footer-content">
+        <ul class="links">
+            <li><span class="widget widget-cms-link"><a href="https://www.jins.com/us/our-commitments" title="Our Commitments"><span>Our Commitments</span></a></span>
 </li>
-<li><span class="widget widget-cms-link"><a href="http://www.jins.com/us/locations" title="Locations"><span>Locations</span></a></span>
+            <li><span class="widget widget-cms-link"><a href="https://www.jins.com/us/locations" title="Locations"><span>Locations</span></a></span>
 </li>
-<li><span class="widget widget-cms-link"><a href="http://www.jins.com/us/cases-for-causes" title="Cases for Causes"><span>Cases for Causes</span></a></span>
+            <li><span class="widget widget-cms-link"><a href="https://www.jins.com/us/cases-for-causes" title="Cases for Causes"><span>Cases for Causes</span></a></span>
 </li>
-<li><a href="http://corp.jins.com/us/careers/" target="_blank">Join Our Team</a></li>
-<li><a href="http://corp.jins.com/us/" target="_blank">Corporate Info</a></li>
-</ul>
+            <li><a href="http://corp.jins.com/us/careers/" target="_blank" title="Join Our Team">Join Our Team</a></li>
+            <li><a href="http://corp.jins.com/us/" target="_blank" title="Corporate Info">Corporate Info</a></li>
+        </ul>
+    </div>
 </div>			</div>
-			<div class="grid-2 newsletter-social">
+			<div class="section newsletter-social table-cell">
 				<a class="show780 to-top scrollable" href="#top">Back to Top</a>
-
-				<form action="https://www.jins.com/us/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail" class="labelify">
-	<div class="form-subscribe">
-		<h4 class="hide780">CONNECT WITH US</h4>
+				<div class="footer-box ">
+					<div class="footer-content">
+						<ul class="social links">
+	<li><a class="tw" href="https://twitter.com/jinseyewear" target="_blank"><svg width="31px" height="31px" viewBox="1474 6607 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <title>Twitter</title>
+                          <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1474.000000, 6607.000000)">
+                          <path class="fSNS-svg twitter-fill" d="M0,15.1230469 C0,6.7708183 6.78060272,0 15.144901,0 C23.5091993,0 30.289802,6.7708183 30.289802,15.1230469 C30.289802,23.4752754 23.5091993,30.2460938 15.144901,30.2460938 C6.78060272,30.2460938 0,23.4752754 0,15.1230469 Z" fill="#B9B9B9"></path>
+                          <path d="M14.7700586,12.0419668 L14.8017933,12.5652584 L14.2728804,12.5011819 C12.3476373,12.2555552 10.6656942,11.4225605 9.23762926,10.0235566 L8.53946419,9.32939436 L8.35963379,9.84200648 C7.97881648,10.9847043 8.22211643,12.1914787 9.01548583,13.0031146 C9.43861618,13.4516502 9.34341185,13.5157267 8.613512,13.2487412 C8.35963379,13.1633058 8.13749036,13.0992293 8.11633384,13.1312676 C8.04228603,13.2060235 8.29616424,14.1778507 8.49715116,14.5623098 C8.77218588,15.0962807 9.33283359,15.6195723 9.9463726,15.9292754 L10.4647073,16.1749021 L9.85116827,16.1855815 C9.25878578,16.1855815 9.23762926,16.1962609 9.30109882,16.4205287 C9.51266399,17.1146909 10.3483464,17.8515709 11.2792332,18.1719534 L11.9350852,18.3962212 L11.3638593,18.7379627 C10.5175986,19.2292159 9.52324225,19.5068808 8.52888593,19.5282397 C8.05286429,19.5389191 7.66146872,19.5816368 7.66146872,19.613675 C7.66146872,19.7204692 8.95201628,20.3185167 9.70307265,20.5534639 C11.9562417,21.2476262 14.6325412,20.9486024 16.6424103,19.7631869 C18.0704753,18.9195128 19.4985402,17.242844 20.1649705,15.6195723 C20.5246313,14.7545393 20.8842921,13.1739853 20.8842921,12.4157465 C20.8842921,11.9244932 20.9160269,11.8604167 21.5084093,11.2730487 C21.8574919,10.9313072 22.1854179,10.5575276 22.2488874,10.4507334 C22.35467,10.2478244 22.3440918,10.2478244 21.8046006,10.4293745 C20.9054486,10.7497571 20.7785095,10.7070394 21.2227964,10.2264656 C21.5507224,9.88472416 21.9421179,9.26531785 21.9421179,9.08376772 C21.9421179,9.05172946 21.7834441,9.10512656 21.6036137,9.20124133 C21.413205,9.30803552 20.9900747,9.46822681 20.6727269,9.56434158 L20.1015009,9.74589171 L19.5831663,9.39347088 C19.2975533,9.20124133 18.8955794,8.98765295 18.6840143,8.92357643 C18.1445231,8.77406456 17.3194189,8.7954234 16.832819,8.96629411 C15.5105367,9.44686797 14.6748542,10.6856806 14.7700586,12.0419668 Z" id="Path" fill="#FFFFFF"></path>
+                          <path d="M30.289802,15.1230469 C30.289802,23.4752754 23.5091993,30.2460937 15.144901,30.2460937 C12.0427809,30.2460937 9.15849691,29.3147728 6.75722409,27.716903 L24.1106977,2.93357419 C27.8580693,5.68659346 30.289802,10.121249 30.289802,15.1230469 Z" fill-opacity="0.08" fill="#000000"></path>
+                          </g>
+                          </svg></a></li>
+	<li><a class="fb" href="https://www.facebook.com/jinseyewear" target="_blank"><svg width="31px" height="31px" viewBox="1514 6606 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <title>Facebook</title>
+                          <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1514.000000, 6606.000000)">
+                          <path class="fSNS-svg facebook-fill" d="M0.0575491668,15.1230469 C0.0575491668,6.7708183 6.83815189,0 15.2024502,0 C23.5667484,0 30.3473511,6.7708183 30.3473511,15.1230469 C30.3473511,23.4752754 23.5667484,30.2460938 15.2024502,30.2460938 C6.83815189,30.2460938 0.0575491668,23.4752754 0.0575491668,15.1230469 Z" fill="#B9B9B9"></path>
+                          <path d="M16.4688543,23.3498195 L16.4688543,15.1220836 L18.7400692,15.1220836 L19.0410543,12.2867602 L16.4688543,12.2867602 L16.4727131,10.8676536 C16.4727131,10.1281576 16.5429751,9.73191871 17.6051049,9.73191871 L19.024976,9.73191871 L19.024976,6.89627424 L16.7534395,6.89627424 C14.0249588,6.89627424 13.0646044,8.27171112 13.0646044,10.5847634 L13.0646044,12.2870813 L11.3638461,12.2870813 L11.3638461,15.1224047 L13.0646044,15.1224047 L13.0646044,23.3498195 L16.4688543,23.3498195 Z" id="Path" fill="#FFFFFF"></path>
+                          <path d="M30.3473511,15.1230469 C30.3473511,23.4752754 23.5667484,30.2460937 15.2024502,30.2460937 C12.1003301,30.2460937 9.21604608,29.3147728 6.81477325,27.716903 L24.1682469,2.93357419 C27.9156184,5.68659346 30.3473511,10.121249 30.3473511,15.1230469 Z" fill-opacity="0.08" fill="#000000"></path>
+                          </g>
+                          </svg></a></li>
+	<li><a class="inst" href="https://www.instagram.com/jinseyewear/" target="_blank"><svg width="31px" height="32px" viewBox="1553 6606 31 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <title>Instagram</title>
+                          <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1553.000000, 6606.000000)">
+                          <path class="fSNS-svg instagram-fill" d="M0.406116744,15.5 C0.406116744,6.93958595 7.2418029,0 15.67405,0 C24.1062972,0 30.9419833,6.93958595 30.9419833,15.5 C30.9419833,24.060414 24.1062972,31 15.67405,31 C7.2418029,31 0.406116744,24.060414 0.406116744,15.5 Z" fill="#B9B9B9"></path>
+                          <path d="M22.1272436,23.3387591 C22.7612898,23.2021451 23.2793898,22.6651421 23.403317,22.0176325 C23.4166187,21.9476376 23.4263732,21.8765173 23.4376796,21.8062973 L23.4376796,9.19370269 C23.4268166,9.124608 23.4175054,9.05528825 23.4042038,8.98641862 C23.2683051,8.27994227 22.6943381,7.73168602 21.9895713,7.63378311 C21.9603077,7.62995702 21.9317091,7.62343016 21.9028888,7.61825369 L9.44521127,7.61825369 C9.37005685,7.6319826 9.29445903,7.64233555 9.22041308,7.65944043 C8.53249513,7.81856078 8.02348462,8.38099607 7.92549566,9.08859774 C7.92150516,9.11808114 7.91551941,9.14733948 7.91042044,9.17682288 L7.91042044,21.8238523 C7.92460888,21.9039751 7.9359153,21.9847732 7.95365086,22.0644459 C8.10573327,22.7472905 8.67992195,23.2766414 9.36296262,23.3657668 C9.3959951,23.3698179 9.42924927,23.3763448 9.46228175,23.3817463 L21.8858183,23.3817463 C21.9665151,23.3677923 22.0474336,23.3563141 22.1272436,23.3387591 Z M9.59019946,14.0523874 C9.59019946,16.3851773 9.58997776,18.7179671 9.59042115,21.050757 C9.59042115,21.3863276 9.87662872,21.6748598 10.2071752,21.6748598 C13.8509455,21.6750849 17.4944942,21.6750849 21.1382646,21.6748598 C21.4719147,21.6748598 21.7565704,21.3867777 21.7565704,21.0487314 C21.7567921,18.7186423 21.7565704,16.3887783 21.7565704,14.0589143 L21.7565704,14.0105255 L20.2743212,14.0105255 C20.4836008,14.689544 20.5478922,15.3802659 20.4658652,16.0842665 C20.3833949,16.7884922 20.1599268,17.443879 19.7959045,18.0490765 C19.4316605,18.6549492 18.9594513,19.1568422 18.3812721,19.5563311 C16.8826175,20.5925264 14.9095366,20.6836774 13.3193222,19.7775691 C12.515458,19.3200137 11.8842939,18.6819569 11.4442303,17.8597975 C10.787793,16.6329729 10.6829315,15.3453809 11.0680148,14.0094002 C10.5762965,14.0098503 10.0865734,14.0098503 9.59019946,14.0098503 L9.59019946,14.0523874 Z M12.5278729,15.4516112 C12.5030431,17.2388456 13.9123549,18.6556244 15.6018885,18.6925349 C17.3599257,18.7307958 18.781874,17.3047894 18.818897,15.5704451 C18.8568067,13.7818603 17.4357452,12.3045393 15.6741609,12.3056646 C13.9520382,12.3045393 12.5520376,13.7111902 12.5278729,15.4516112 Z M21.1597689,11.6610809 C21.4885418,11.6527535 21.7563487,11.366697 21.7563487,11.0324767 C21.7565704,10.5348599 21.7565704,10.037018 21.7563487,9.53940122 C21.7563487,9.18244949 21.4781222,8.89841854 21.1269581,8.89819347 C20.6381218,8.89796841 20.1492855,8.89774335 19.6602275,8.89819347 C19.3099502,8.8986436 19.0308369,9.18334974 19.0306152,9.54030148 C19.0303935,10.0336421 19.0290633,10.5269827 19.0323888,11.0205483 C19.0328321,11.0941443 19.0465772,11.1706661 19.0696334,11.240436 C19.1574244,11.5030859 19.3944158,11.6642318 19.6846139,11.6655822 C19.9204968,11.6660323 20.1563797,11.6653571 20.3924843,11.6653571 C20.6478764,11.6624313 20.9041552,11.6673827 21.1597689,11.6610809 Z" fill="#FFFFFF"></path>
+                          <path d="M30.9419833,15.5 C30.9419833,24.060414 24.1062972,31 15.67405,31 C12.5467293,31 9.63901434,30.0454652 7.21823434,28.4077673 L24.712682,3.0066957 C28.490496,5.828336 30.9419833,10.3735286 30.9419833,15.5 Z" fill-opacity="0.08" fill="#000000"></path>
+                          </g>
+                          </svg></a></li>
+	<li><a class="yt" href="https://www.youtube.com/channel/UC7mUVIOuX17LBCNGDv5azhQ" target="_blank"><svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <title>Youtube</title>
+                          <defs>
+                          <path d="M0.232245902,15.5 C0.232245902,6.93986667 7.0674918,0 15.5,0 C23.932,0 30.7677541,6.93986667 30.7677541,15.5 C30.7677541,24.06065 23.932,31 15.5,31 C7.0674918,31 0.232245902,24.06065 0.232245902,15.5 L0.232245902,15.5 Z" id="path-1"></path>
+                          <path d="M11.3856393,23.1900667 L11.3856393,17.87615 L12.4208361,17.87615 L12.4208361,16.9735333 L9.34878689,16.9735333 L9.34878689,17.87615 L10.3839836,17.87615 L10.3839836,23.1900667 L11.3856393,23.1900667 L11.3856393,23.1900667 Z M22.374377,15.7211333 C23.1071967,16.4620333 23.1148197,20.1200333 23.1148197,20.1412167 C23.1148197,20.1412167 23.1087213,23.8178167 22.374377,24.5613 C21.6451148,25.30065 15.4969508,25.3166667 15.4969508,25.3166667 C15.4969508,25.3166667 9.34980328,25.30065 8.6185082,24.5613 C7.88721311,23.8204 7.88518033,20.1686 7.88518033,20.1412167 C7.88518033,20.1200333 7.88721311,16.4620333 8.6185082,15.7211333 C9.34980328,14.9812667 15.4969508,14.97145 15.4969508,14.9719667 C15.4969508,14.97145 21.6451148,14.9812667 22.374377,15.7211333 L22.374377,15.7211333 Z M14.4607377,22.6858 L14.4607377,23.1900667 L15.3485574,23.1900667 L15.3485574,18.6031 L14.4607377,18.6031 L14.4607377,22.0875 C14.3758689,22.1867 14.2854098,22.2683333 14.1847869,22.3329167 C14.0851803,22.3969833 14.0013279,22.4295333 13.9367869,22.4295333 C13.8539508,22.4295333 13.7929672,22.4057667 13.7543443,22.3566833 C13.7182623,22.3081167 13.699459,22.2301 13.699459,22.1210833 L13.699459,18.6031 L12.8116393,18.6031 L12.8116393,22.4378 C12.8116393,22.71215 12.8644918,22.9152 12.9671475,23.0521167 C13.0723443,23.1900667 13.2248033,23.2567167 13.4311311,23.2567167 C13.5988361,23.2567167 13.7700984,23.2097 13.947459,23.1110167 C14.1258361,23.0144 14.2950656,22.8728333 14.4607377,22.6858 L14.4607377,22.6858 Z M17.757918,23.2479333 C18.0211639,23.2479333 18.2234262,23.1626833 18.3616557,22.9890833 C18.5014098,22.8154833 18.5710328,22.5669667 18.5710328,22.2425 L18.5710328,19.6974 C18.5710328,19.3217833 18.4973443,19.03555 18.3479344,18.8397333 C18.2005574,18.6454667 17.9860984,18.5478167 17.7040492,18.5478167 C17.5668361,18.5478167 17.4301311,18.5834667 17.2944426,18.6568333 C17.1612951,18.72865 17.0347541,18.8361167 16.9138033,18.9751 L16.9138033,16.9735333 L16.0163279,16.9735333 L16.0163279,23.1900667 L16.9138033,23.1900667 L16.9138033,22.8382167 C17.0296721,22.9792667 17.1582459,23.0820833 17.2934262,23.1487333 C17.4291148,23.2159 17.5836066,23.2479333 17.757918,23.2479333 L17.757918,23.2479333 Z M19.9523115,21.8705 L19.9523115,21.0066333 L21.6512131,21.0066333 L21.6512131,19.8374167 C21.6512131,19.4023833 21.542459,19.0691333 21.3239344,18.8376667 C21.105918,18.6056833 20.7928689,18.4894333 20.3863115,18.4894333 C19.9878852,18.4894333 19.6651803,18.6144667 19.4141311,18.86505 C19.1625738,19.1146 19.0360328,19.4406167 19.0360328,19.8374167 L19.0360328,21.89685 C19.0360328,22.3391167 19.1519016,22.6858 19.380082,22.9369 C19.6082623,23.1900667 19.9223279,23.3151 20.3197377,23.3151 C20.762377,23.3151 21.0952459,23.1973 21.3163115,22.9606667 C21.5404262,22.7219667 21.6512131,22.3675333 21.6512131,21.89685 L21.6512131,21.66125 L20.7374754,21.66125 L20.7374754,21.8705 C20.7374754,22.1407167 20.7064754,22.3143167 20.648541,22.3938833 C20.5895902,22.4729333 20.4869344,22.5127167 20.3395574,22.5127167 C20.1982787,22.5127167 20.0986721,22.4667333 20.0387049,22.3737333 C19.9812787,22.2797 19.9523115,22.1123 19.9523115,21.8705 L19.9523115,21.8705 Z M17.5627705,19.39515 C17.6252787,19.4752333 17.6562787,19.5930333 17.6562787,19.7475167 L17.6562787,22.1159167 C17.6562787,22.2636833 17.6293443,22.3675333 17.5785246,22.4316 C17.5277049,22.4972167 17.447918,22.5297667 17.3396721,22.5297667 C17.2639508,22.5297667 17.1933115,22.5122 17.1252131,22.4801667 C17.0566066,22.4481333 16.985459,22.3918167 16.9138033,22.3179333 L16.9138033,19.46025 C16.9747869,19.3972167 17.0357705,19.3502 17.0972623,19.3202333 C17.1592623,19.28975 17.2217705,19.2758 17.2858033,19.2758 C17.4052295,19.2758 17.4977213,19.3155833 17.5627705,19.39515 L17.5627705,19.39515 Z M20.0437869,19.4189167 C20.1057869,19.3326333 20.2074262,19.2923333 20.3487049,19.2923333 C20.483377,19.2923333 20.584,19.3326333 20.643459,19.4189167 C20.705459,19.499 20.7374754,19.6374667 20.7374754,19.8296667 L20.7374754,20.2926 L19.9523115,20.2926 L19.9523115,19.8296667 C19.9523115,19.6374667 19.9822951,19.499 20.0437869,19.4189167 L20.0437869,19.4189167 Z" id="path-3"></path>
+                          <path d="M9.91898361,6.2 L11.0527705,6.2 L11.7840656,8.9373 L11.8552131,8.9373 L12.5504262,6.2 L13.6953934,6.2 L12.3852623,10.20675 L12.3852623,13.0484167 L11.2590984,13.0484167 L11.2590984,10.3348833 L9.91898361,6.2 L9.91898361,6.2 Z M15.2657213,7.86831667 C15.6793934,7.86831667 16.019377,7.99076667 16.2841475,8.23566667 C16.5473934,8.48005 16.6800328,8.79521667 16.6800328,9.18013333 L16.6800328,11.7898167 C16.6800328,12.22175 16.5504426,12.5601667 16.2922787,12.8066167 C16.0310656,13.05255 15.6753279,13.1755167 15.2199836,13.1755167 C14.7834426,13.1755167 14.4327869,13.0484167 14.169541,12.79525 C13.9088361,12.54105 13.7761967,12.1995333 13.7761967,11.7701833 L13.7761967,9.15171667 C13.7761967,8.75956667 13.9108689,8.44801667 14.1807213,8.21655 C14.4495574,7.98456667 14.8124098,7.86831667 15.2657213,7.86831667 L15.2657213,7.86831667 Z M15.2179508,12.3002833 C15.3536393,12.3002833 15.4603607,12.2615333 15.5406557,12.1850667 C15.6204426,12.1065333 15.6605902,12.0001 15.6605902,11.8657667 L15.6605902,9.11348333 C15.6605902,9.00291667 15.6194262,8.91405 15.5376066,8.84533333 C15.4562951,8.77765 15.3495738,8.74406667 15.2179508,8.74406667 C15.0954754,8.74406667 14.9968852,8.77765 14.9201475,8.84533333 C14.8444262,8.91405 14.8052951,9.00291667 14.8052951,9.11348333 L14.8052951,11.8657667 C14.8052951,12.0037167 14.8423934,12.11015 14.9130328,12.1871333 C14.9836721,12.2630833 15.0853115,12.3002833 15.2179508,12.3002833 L15.2179508,12.3002833 Z M19.3445082,13.0484167 L19.3445082,12.4904167 C19.1620656,12.6955333 18.969459,12.8536333 18.7692295,12.9600667 C18.5700164,13.0675333 18.3769016,13.1212667 18.189377,13.1212667 C17.9561148,13.1212667 17.7838361,13.0458333 17.6664426,12.8954833 C17.5495574,12.7451333 17.4906066,12.5198667 17.4906066,12.2181333 L17.4906066,7.99593333 L18.4892131,7.99593333 L18.4892131,11.8693833 C18.4892131,11.98925 18.512082,12.0755333 18.5542623,12.12875 C18.594918,12.1824833 18.6635246,12.20935 18.757541,12.20935 C18.8302131,12.20935 18.9237213,12.1737 19.036541,12.1029167 C19.1478361,12.0321333 19.2515082,11.9417167 19.3445082,11.8306333 L19.3445082,7.99593333 L20.3446393,7.99593333 L20.3446393,13.0484167 L19.3445082,13.0484167 L19.3445082,13.0484167 Z" id="path-5"></path>
+                          </defs>
+                          <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                          <g id="Artboard-2">
+                          <g id="Group">
+                          <g stroke-width="1">
+                          <mask id="mask-2" fill="white">
+                          <use xlink:href="#path-1"></use>
+                          </mask>
+                          <g id="Clip-254"></g>
+                          <polygon class="fSNS-svg youtube-fill" id="Fill-253" fill="#B9B9B9" mask="url(#mask-2)" points="0.193114754 31.031 30.8068852 31.031 30.8068852 -0.031 0.193114754 -0.031"></polygon>
+                          <mask id="mask-4" fill="white">
+                          <use xlink:href="#path-3"></use>
+                          </mask>
+                          <g id="Clip-257"></g>
+                          <polygon id="Fill-256" fill="#FFFFFF" mask="url(#mask-4)" points="7.87704918 25.327 23.1229508 25.327 23.1229508 14.911 7.87704918 14.911"></polygon>
+                          <mask id="mask-6" fill="white">
+                          <use xlink:href="#path-5"></use>
+                          </mask>
+                          <g id="Clip-260"></g>
+                          <polygon id="Fill-259" fill="#FFFFFF" mask="url(#mask-6)" points="9.8895082 13.237 20.3786885 13.237 20.3786885 6.169 9.8895082 6.169"></polygon>
+                          </g>
+                          <path d="M30.723749,15.4933043 C30.723749,24.0537183 23.8880628,30.9933043 15.4558157,30.9933043 C12.328495,30.9933043 9.42078,30.0387695 7,28.4010716 L24.4944477,3 C28.2722617,5.8216403 30.723749,10.3668329 30.723749,15.4933043 Z" id="reflec" fill-opacity="0.08" fill="#000000"></path>
+                          </g>
+                          </g>
+                          </g>
+                          </svg></a></li>
+</ul>						<form action="https://www.jins.com/us/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail" class="">
+	<div class="form-subscribe form-list">
+		<h2 class="hide780">CONNECT WITH US</h2>
 		<div class="field">
-			<label for="newsletter">Enter your email address</label>
+			<label for="newsletter">Sign up</label>
 			<div class="input-box">
-				<input name="email" type="text" id="newsletter" value="" class="input-text required-entry validate-email">
-				<button type="submit" class="icon next text-hide" title="Subscribe"><span><span>Subscribe</span></span></button>
+                <input name="email" type="text" id="newsletter" value="" class="input-text required-entry validate-email" placeholder="name@domain.com">
+				<!--<div class="table-cell text">
+
+				</div>
+				<div class="table-cell submit">
+
+				</div>-->
 			</div>
+            <button type="submit" class="button" title="Subscribe"><span><span>Subscribe</span></span></button>
+			<div class="validation-advice" id="advice-validate-email-newsletter" style="display: none;">Please enter a valid email address.</div>
 		</div>
 	</div>
 </form>
@@ -536,90 +620,55 @@ Mage.MediaUrl = 'http://www.jins.com/us/media/';
 	var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
 	//]]>
 </script>
-				<ul class="social links">
-	<li><a class="icon before facebook" href="https://www.facebook.com/jinseyewear" target="_blank">Facebook</a></li>
-	<li><a class="icon before twitter" href="https://twitter.com/jinseyewear" target="_blank">Twitter</a></li>
-	<li><a class="icon before instagram" href="http://instagram.com/jinseyewear" target="_blank">Instagram</a></li>
-</ul>			</div>
+					</div>
+				</div>
+			</div>
 		</div>
-		<div class="row">
-			<div class="grid-8 copyright">
-				<address>Copyright © 2016 JINS Eyewear US, Inc., All Rights Reserved</address>
+		<div class="footer-aside">
+			<div class="copyright">
+				<address>Copyright ©&nbsp;JINS&nbsp;Eyewear&nbsp;US,&nbsp;Inc. <br class="show700">All&nbsp;Rights&nbsp;Reserved</address>
 				<ul class="links">
-<li><span class="widget widget-cms-link-inline"><a href="http://www.jins.com/us/privacy-policy" title="Privacy policy"><span>Privacy policy</span></a></span>
+<li><span class="widget widget-cms-link-inline"><a href="https://www.jins.com/us/privacy-policy" title="Privacy policy"><span>Privacy policy</span></a></span>
 </li>
-<li><span class="widget widget-cms-link-inline"><a href="http://www.jins.com/us/terms-of-use" title="Terms of use"><span>Terms of use</span></a></span>
+<li><span class="widget widget-cms-link-inline"><a href="https://www.jins.com/us/terms-of-use" title="Terms of use"><span>Terms of use</span></a></span>
 </li>
-<li><a href="http://www.jins.com/us/catalog/seo_sitemap/category/">Sitemap</a></li>
+<li><a href="https://www.jins.com/us/catalog/seo_sitemap/category/" title="Sitemap">Sitemap</a></li>
 </ul>			</div>
 		</div>
     </footer>
 </div>
+
         
 
-<!--{WISHLISTS_bf0f5c5cd66de5945c535171578eaa90}--><!--/{WISHLISTS_bf0f5c5cd66de5945c535171578eaa90}--><div class="shortlist-container">
-	<div class="centering">
-		<div id="shortlist">
-			<p class="top-bar title clearfix">
-				<a href="javascript:void(0);" class="icon heart favorite f-left" data-shortlist="preview">(<span class="total">0</span>)</a>
-				<a href="javascript:void(0);" class="view-shortlist f-left" data-shortlist="view">View Details</a>
-				<a href="javascript:void(0);" class="icon minimize f-right" data-shortlist="preview"></a>
-			</p>
-			<div class="content clearfix">
-				<script type="text/html" id="shortlist-template-small" class="no-display">
-					<li class="item" data-shortlist="{{id}}">
-						<a href="{{url}}"><img src="{{image}}"/></a>
-						<a href="javascript:void(0);" class="icon remove" data-product="{{id}}" data-shortlist="remove"></a>
-					</li>
-				</script>
-				<ul class="products-grid small" id="preview-small-grid"></ul>
-				<span id="preview-small-loader" class="shortlist-loader">
-					<span><img src="http://www.jins.com/us/skin/frontend/jins/default/images/ajax-loader.gif"></span>
-				</span>
-			</div>
-		</div>
-	</div>
+<!--{WISHLISTS_bf0f5c5cd66de5945c535171578eaa90}--><!--/{WISHLISTS_bf0f5c5cd66de5945c535171578eaa90}--><div id="form-search" class="form-search">
+    <div class="form-search-container">
+        <div class="form-search-inner">
+            <div class="form-search-inputarea">
+                <div class="form-inputbox">
+                    <form id="search_mini_form" name="search_mini_form" action="https://www.jins.com/us/catalogsearch/result/" method="get" class="labelify">
+                        <!--<label for="search"></label>-->
+                        <input id="search" type="text" placeholder="Search" name="q" value="" class="textinput" maxlength="128">
+                        <div id="search_autocomplete" class="search-autocomplete" style="display: none;"></div>
+                        <script type="text/javascript">
+                            //<![CDATA[
+                            var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
+                            searchForm.initAutocomplete('https://www.jins.com/us/catalogsearch/ajax/suggest/', 'search_autocomplete');
+                            //]]>
+                        </script>
+                        <!--<div class="form-search field">
+                        </div>-->
+                    </form>
+                </div>
+                <button type="submit" onclick="document.search_mini_form.submit();return false;" title="Go" class="icon-arrow-r search"></button>
+            </div>
+            <div class="form-search-textarea hide780">Type and press enter</div>
+            <div class="form-search-textarea show780">Type and hit the arrow</div>
+            <a href="javascript:void(0);" class="close-form icon-cancel"></a>
+        </div>
+    </div>
 </div>
-<div id="shortlist-moby" class="modal">
-	<div class="modal-inner">
-		<p class="top-bar title">
-			<a href="javascript:void(0);" class="icon heart favorite" data-shortlist="preview">(<span class="total">0</span>)</a>
-			<a href="javascript:void(0);" class="remove-all" data-shortlist="remove-all">Remove All</a>
-			<a href="javascript:void(0);" class="icon minimize f-right" data-moby="toggle" data-target="#shortlist-moby"></a>
-		</p>
-		<div class="content clearfix">
-			<script type="text/html" id="shortlist-template-swatches" class="no-display">
-				<li class="swatch{{selected}}" data-attribute="{{attribute-option-key}}"><img src="{{image}}" alt="{{alt}}"/></li>
-			</script>
-			<script type="text/html" id="shortlist-template-ribbons" class="no-display">
-				<span class="ribbon {{ribbon}}">{{ribbon}}</span>
-			</script>
-			<script type="text/html" id="shortlist-template-view" class="no-display">
-				<li class="item" data-shortlist="{{id}}">
-					<a href="{{url}}" class="product-image">
-						<figure class="product-image">
-							{{ribbon}}
-							<img src="{{image}}"/>
-						</figure>
-					</a>
-					<a href="javascript:void(0);" class="icon remove" data-product="{{id}}" data-shortlist="remove"></a>
-					<div class="additional">
-						<ul class="swatches">{{swatches}}</ul>
-						<div class="info clearfix">
-							<h2 class="product-name"><a href="{{url}}">{{name}}</a></h2>
-							<div class="price-box"><span class="price">{{price}}</span></div>
-						</div>
-					</div>
-				</li>
-			</script>
 
-			<ul class="products-grid large" id="full-large-grid"></ul>
-			<span id="full-large-loader" class="shortlist-loader">
-				<span><img src="http://www.jins.com/us/skin/frontend/jins/default/images/ajax-loader.gif"></span>
-			</span>
-		</div>
-	</div>
-</div>    </div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"655614796d","applicationID":"6260000","transactionName":"Z11QbUcHCxJXBxYIV14Xc1pBDwoPGQcPEhdAWVVcGhAMBEE=","queueTime":0,"applicationTime":423,"atts":"SxpTGw8dGBw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+                            <script src="https://use.typekit.net/yng6yot.js"></script><script>try{Typekit.load({ async: true });}catch(e){}</script>
+                            </div>
 
 </body></html>
