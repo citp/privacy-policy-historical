@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groovehq.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510080306id_/https%3A//www.groovehq.com/our/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groovehq.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602185442id_/https%3A//www.groovehq.com/our/privacy) for the most accurate reproduction.*
 
 # Groove Privacy Policy
 
