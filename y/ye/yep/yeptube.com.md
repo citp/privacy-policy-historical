@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yeptube.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119122747id_/http%3A//www.yeptube.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeptube.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602061054id_/http%3A//www.yeptube.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - YepTube.com
+# Политика Конфиденциальности - YepTube.com
 
 ### Updated May 24, 2012
 
