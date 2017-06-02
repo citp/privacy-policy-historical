@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120220223id_/http%3A//www.gottadeal.com/Article/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602051302id_/http%3A//www.gottadeal.com/Article/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GottaDeal.com
 
@@ -56,11 +56,7 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 Should you have other questions or concerns about these privacy policies, please call us at (414) 375-2359 or contact us using the form available here on the site. 
 
-|  | 
-
-[](http://blackfriday.gottadeal.com/)
-
-| 
+|  |  | 
 
 [](http://deals.gd/amazondotd "Check out the Amazon.com Gold Box Deals of the Day")
 
@@ -74,7 +70,7 @@ Should you have other questions or concerns about these privacy policies, please
 
 | 
 
-[](http://deals.gd/targetcomdeals "Check out the Target Deals of the Day")  
+[](http://gottadeal.com/Shop/Targetcom "Check out the Target Deals of the Day")  
   
 [](http://deals.gd/wootcom "Check out the woot.com Deal of the Day")
 
@@ -100,7 +96,7 @@ Should you have other questions or concerns about these privacy policies, please
 
 [](http://deals.gd/reideal "Check out the REI Outlet Deal of the Day")  
   
-[](http://deals.gd/grpn2017 "Check out the Groupon Deals for Your Area")
+[](http://deals.gd/grpn2018 "Check out the Groupon Deals for Your Area")
 
 | 
 
