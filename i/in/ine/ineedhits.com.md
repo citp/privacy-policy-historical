@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ineedhits.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219231646id_/http%3A//www.ineedhits.com/search-engine-help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ineedhits.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602072212id_/http%3A//www.ineedhits.com/search-engine-help/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Free Search Engine Submission Information - ineedhits
 
-|  [](http://secure.trust-guard.com/certificates/6495) |  We at ineedhits.com [Ineedhits.com Pty Ltd] pride ourselves on attention to detail regarding our customers’ privacy. Please read the following to learn more about our Privacy Policy.  
+|  [](http://secure.trust-guard.com/certificates/6495) |  We at ineedhits.com pride ourselves on attention to detail regarding our customers’ privacy. Please read the following to learn more about our Privacy Policy.  
 ---|---  
   
-**Last Updated on 11 November 2014**
+**Last Updated on 01 November 2016**
 
 This privacy statement covers the site [www.ineedhits.com]. 
 
