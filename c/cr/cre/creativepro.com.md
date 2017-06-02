@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativepro.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023131729id_/http%3A//creativepro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativepro.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602065717id_/http%3A//creativepro.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - CreativePro.com
 
