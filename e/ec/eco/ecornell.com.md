@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ecornell.com privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914112540id_/http%3A//www.ecornell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecornell.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602191342id_/https%3A//www.ecornell.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eCornell
+
+* * *
 
 eCornell is committed to protecting your privacy. The following Privacy Policy describes what information we collect from you when you visit this site, and how we use this information. Please read this Privacy Policy carefully so that you understand our privacy practices.
 
