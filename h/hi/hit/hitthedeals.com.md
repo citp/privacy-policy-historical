@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the hitthedeals.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126020321id_/http%3A//www.hitthedeals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitthedeals.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602120911id_/http%3A//www.hitthedeals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hit The Deals
 
 **Privacy Policy, Refunds &  
 Terms & Conditions**
 
-“WIRED Commercial Brokers LLC - [www.hitthedeals.com](http://www.hitthedeals.com/)”  
+“eBajco DMCC - [www.hitthedeals.com](http://www.hitthedeals.com/)”  
 will be referred to as “HTD”, “us” or “we” in the following Privacy Policy,  
 Refunds and Terms & Conditions on this page.
 
