@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rezgo.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215114103id_/https%3A//www.rezgo.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rezgo.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602101959id_/https%3A//www.rezgo.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Rezgo
+# Privacy Policy - Rezgo
 
 Rezgo is committed to protecting the privacy of its clients, employees and other individuals served by or providing services to Rezgo. The proper safeguarding of all personal information collected in the course of Rezgo's day-to-day activities is the cornerstone of this commitment. Personal information is any information that identifies and individual, or by which an individual's identity could be deduced.
 
