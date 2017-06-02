@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamemob.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205055942id_/http%3A//gamemob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamemob.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602061816id_/http%3A//gamemob.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Game Mob
 
