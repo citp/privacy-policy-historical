@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamworkpm.net privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118131356id_/https%3A//www.teamwork.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamworkpm.net privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602180453id_/https%3A//www.teamwork.com/privacypolicy) for the most accurate reproduction.*
 
 # Teamwork.com - Privacy Policy
 
@@ -9,7 +9,7 @@ We do not collect any personally identifiable information about individuals with
   * [Personal Information You Choose to Provide](https://www.teamwork.com/privacypolicy#personal_informat)
   * [Information Automatically Collected and Stored](https://www.teamwork.com/privacypolicy#information_autom)
   * [Linked Sites](https://www.teamwork.com/privacypolicy#linked_sites)
-  * [User's Data](https://www.teamwork.com/privacypolicy#user's_data)
+  * [User's Data](https://www.teamwork.com/privacypolicy#user_data)
   * [Security](https://www.teamwork.com/privacypolicy#security)
   * [Limitation of Liability](https://www.teamwork.com/privacypolicy#limitation_of_lia)
   * [Contact information](https://www.teamwork.com/privacypolicy#contact_informati)
