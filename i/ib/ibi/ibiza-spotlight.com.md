@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibiza-spotlight.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203041350id_/http%3A//www.ibiza-spotlight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibiza-spotlight.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603000953id_/https%3A//www.ibiza-spotlight.com/privacy) for the most accurate reproduction.*
 
 # Ibiza Spotlight Privacy Policy | Ibiza Spotlight
 
@@ -7,7 +7,7 @@ C/ Pontevedra 6
 Cala de Bou  
 San Antonio, Baleares 07820  
 Spain  
-You may contact us using the [contact form on this page](http://www.ibiza-spotlight.com/contact-us). Or you may call us at +34 971 34667, Monday to Friday, during office hours.
+You may contact us using the [contact form on this page](https://www.ibiza-spotlight.com/contact-us). Or you may call us at +34 971 34667, Monday to Friday, during office hours.
 
 This policy is valid until stated otherwise.
 
@@ -56,4 +56,4 @@ This type of information is deemed non-identifiable. This means that there is no
 
 We have the following dispute resolution mechanisms.
 
-Ibiza Spotlight complies with the Organic Law 15/1999 from 13th of December regarding Personal Data Protection, as confirmed by the Spanish Data Protection Agency. All disputes regarding the access to and storing of personal user information will be handled by our office. You may contact us using the [contact form on this page](http://www.ibiza-spotlight.com/contact-us).
+Ibiza Spotlight complies with the Organic Law 15/1999 from 13th of December regarding Personal Data Protection, as confirmed by the Spanish Data Protection Agency. All disputes regarding the access to and storing of personal user information will be handled by our office. You may contact us using the [contact form on this page](https://www.ibiza-spotlight.com/contact-us).
