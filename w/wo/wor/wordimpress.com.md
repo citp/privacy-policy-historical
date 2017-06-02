@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordimpress.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318172242id_/https%3A//wordimpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordimpress.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603013827id_/https%3A//wordimpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WordImpress
 
