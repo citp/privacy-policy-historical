@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the pearl.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125060625id_/http%3A//ww2.justanswer.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearl.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602161901id_/https%3A//ww2.justanswer.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | JustAnswer
 
-[](http://privacy.truste.com/privacy-seal/JustAnswer-LLC/validation?rid=ea4c4347-7e60-4f0c-89e2-e145831cd449)
+Updated: March 23, 2017
 
-Updated: July 7, 2016
+Inherent to transacting on the Internet is the collection of some personal information. JustAnswer LLC ("JustAnswer") is committed to protecting your personal information and privacy. This Privacy Statement applies exclusively to the Site [www.JustAnswer.com](http://www.justanswer.com/), which includes the Site ww2.justanswer.com and the Site [http://my.justanswer.com](http://my.justanswer.com/), which is owned and operated by JustAnswer (collectively, "Sites"). This policy describes the personal information we collect from you and how we use and secure it. It also describes your choices regarding use, access and correction of your personal information. "Personal Information" ("PII or Personally Identiable Information") defines information such as name and email that can identify an individual.
 
-Inherent to transacting on the Internet is the collection of some personal information. JustAnswer LLC ("JustAnswer") is committed to protecting your personal information and privacy. This Privacy Statement applies exclusively to the Site [www.JustAnswer.com](http://www.justanswer.com/), which includes the Site ww2.justanswer.com and the Site [http://my.justanswer.com](http://my.justanswer.com/), which is owned and operated by JustAnswer (collectively, "Sites"). This policy describes the personal information we collect from you and how we use and secure it. "Personal Information" defines information such as name and email that can identify an individual.
-
-JustAnswer LLC has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through the Sites.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 For queries and concerns pertaining to the Site, click [HERE](http://ww2.justanswer.com/help) to contact us.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [HERE](https://feedback-form.truste.com/watchdog/request).
 
 **Because your privacy is important to us, JustAnswer® operates by the following principles.**
 
@@ -20,7 +16,7 @@ Capitalized terms not defined in this Agreement will have the meanings set forth
 
 **Principle 1: Information We Collect**
 
-You may browse the JustAnswer® site without providing any personal information that may be used to identify you personally ("Personally Identifiable Information" or "PII"). If you choose to provide us with your PII, you are agreeing to the processing and storage of your information in the United States and countries outside of the United States which may have data protection laws that differ from laws in your country.
+If you choose to provide us with your PII, you are agreeing to the processing and storage of your information in the United States and countries outside of the United States which may have data protection laws that differ from laws in your country.
 
 JustAnswer generally explicitly asks when it needs PII. To help facilitate the question and response process, and the payment of Experts via PayPal™, JustAnswer requires basic data such as email address. To obtain payments from Customers, JustAnswer asks for either credit card information or PayPal™ email address, at the Customer's election. Expert applicants and/or referral participants may be asked for additional information, such as full names, addresses, telephone numbers, professional license and certification information, and payment-related information. Experts who win prizes on the site may be required to provide shipment addresses. If you choose to use our referral program to recommend potential Experts to the site, to tell a friend or others about JustAnswer, or send a copy of a question and answer sequence to a friend, you may need to provide your and their email addresses (and possibly their and your names). We will automatically send your friend a one-time email inviting him or her to visit the site.  JustAnswer stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at by clicking to request that we remove this information from our database. If you choose to have JustAnswer notify you of responses to your questions via text message, you will be asked for your cellular phone number and cellular phone company. Other PII may be requested in certain circumstances or collected on a voluntary basis such as on users' profile or signature pages. If you are a referral participant and elect to receive payments via check, we will receive all information necessary to distribute a check to you, such as your name and mailing address.
 
@@ -28,13 +24,9 @@ As explained in the JustAnswer Terms of Service, _information provided by you in
 
 In some cases, JustAnswer supplements portions of the PII you provide with data sent to us from your web browser including (depending on its settings) your IP address, browser type, internet service provider, referring/exit pages, operating system, date/time stamp, and click stream data ("Usage Statistics"). JustAnswer may also supplement your user profile with a phone number if you call our customer service center and the customer service agent who answers your call is able to identify your phone number. This allows customer service agents to better help you by allowing them to match your phone number when you next call to your user profile.
 
-We use cookies to remember users’ settings (e.g. language preference, to retrieve your username and password so you do not need to enter them again), and for authentication _._ Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
-
 As is true of most web sites, we gather certain information automatically and store it in log files.  This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do link this automatically collected data to other information we collect about you.
 
-Technologies such as: cookies, beacons, tags and scripts are used by JustAnswer and our partners such as our marketing partners, affiliates, or analytics or service providers including customer service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
-
-We use Local Storage Objects (LSOs) such as HTML5 to store marketing, affiliate management, analytics and optimization information. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
+Technologies such as: cookies and similar technologies are used by JustAnswer and our partners such as our marketing partners, affiliates, or analytics or service providers including customer service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
 JustAnswer is intended for adult use only. In addition, it does not knowingly solicit or collect PII from persons under 13 years old. We may delete from the site PII, as well as Posts and other information, from users we believe are under the age of 18.
 
@@ -50,13 +42,14 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 
 JustAnswer will share your personal information with third parties only in the ways that are described in this privacy policy. JustAnswer will not otherwise disclose your PII (unless you voluntarily provide it in your Posts), without your consent, unless acting under a good faith belief that such action:
 
+  * in certain situations, JustAnswer may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements;
   * conforms to legal requirements or complies with legal process, such as in complying with a formal request in a court order, subpoena, bankruptcy proceedings or judicial proceeding;
   * serves to protect or defend the rights, property, or safety of JustAnswer, its users, or others; or
   * enforces the JustAnswer Terms of Service or related Agreements.
 
 
 
-We may provide your personally identifiable information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. We may also share your personal information with other companies from whom you request to receive a specific product or service so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us [HERE](mailto:support@justanswer.com).
+We may provide your personally identifiable information to companies that provide services to help us with our business activities such as payment processing, sending marketing communications or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. We may also share your personal information with other companies from whom you request to receive a specific product or service so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us [HERE](mailto:support@justanswer.com).
 
 JustAnswer LLC may share your PII with any parent company, subsidiaries, joint venturers, or other companies under common control, in which event it will require that such companies follow this Policy with respect to your PII, unless you are provided with prior written notice. 
 
@@ -74,7 +67,7 @@ JustAnswer® will not send you any unsolicited information, including e-mail, ex
 
 **Principle 4: Updating and Deleting PII**
 
-If at any time you would like to update your PII, please log into your account and access your Edit Profile page. If at any time you would like your PII to be removed from our Site and/or database, or believe that JustAnswer® has not adhered to these privacy principles, please notify us by email by clicking [HERE](http://www.justanswer.com/help/contact.aspx). We will respond to your request within ten business days. We will use commercially reasonable efforts to delete your PII and/or promptly detect and remedy any problems.
+Upon request, JustAnswer will provide you with information about whether we hold any of your personal information. If at any time you would like to update your PII, please log into your account and access your Edit Profile page. If at any time you would like your PII to be removed from our Site and/or database, or believe that JustAnswer® has not adhered to these privacy principles, please notify us by email by clicking [HERE](http://www.justanswer.com/help/contact.aspx). We will respond to your request within ten business days. We will use commercially reasonable efforts to delete your PII and/or promptly detect and remedy any problems.
 
 **Principle 5: Links to Third-Party Sites and Use of Third Party Tools**
 
