@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planeteves.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231144330id_/http%3A//www.planeteves.com/pages/Privacy-Policy/pgid-699202.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planeteves.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602140313id_/http%3A//www.planeteves.com/pages/Privacy-Policy/pgid-699202.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -70,6 +70,10 @@ This site has security measures in place to protect against the loss, misuse and
 ### E-mail Notices
 
 We may send notices via e-mail to registered users who post and/or bookmark reviews and comments. These e-mails include but are not limited to confirmations that an item has been posted, notices that the item has received a reply, and notices that the listing has been deleted by an administrator. These e-mails are a necessary feature for the Website. If you do not want to receive such e-mail notices, please do not post any items on the Website.
+
+### SMS notifications
+
+We may send notices or promotions via SMS to registered users. These e-mails include but are not limited to confirmations or updates about the order processing or cancellation, returns or refunds and/or promotions of planeteves.com, its offers and sales. If you do not want to receive such SMS notices call our customer care or write to us at contact@planeteves.com saying you wish to unsubscribe to such service and the same will be done shortly.
 
 ### Your role in protecting your privacy
 
