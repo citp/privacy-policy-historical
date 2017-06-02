@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worx.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016144423id_/https%3A//www.worx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worx.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602171010id_/https%3A//www.worx.com/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | WORX
 
