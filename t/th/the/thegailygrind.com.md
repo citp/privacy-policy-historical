@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegailygrind.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119002640id_/http%3A//www.thegailygrind.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegailygrind.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602122830id_/https%3A//www.thegailygrind.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy|The Gaily Grind
 
@@ -59,4 +59,4 @@ If our store is acquired or merged with another company, your information may be
 
 **QUESTIONS AND CONTACT INFORMATION**
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer via our contact form by [clicking here](http://www.thegailygrind.com/contact-us-2/).
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer via our contact form by [clicking here](https://www.thegailygrind.com/contact-us-2/).
