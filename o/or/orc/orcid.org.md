@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the orcid.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120213308id_/http%3A//orcid.org/content/orcid-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orcid.org privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602075625id_/https%3A//orcid.org/content/orcid-privacy-policy) for the most accurate reproduction.*
 
 # ORCID Privacy Policy | ORCID
 
-_May 6, 2015_
+_Jan 17, 2017_
 
 * * *
 
@@ -45,11 +45,9 @@ If you have a question about our Privacy Policy, please contact ORCID at <http:/
 
 #### 2.0 TRUSTe Certification
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=086a5b1d-f929-4d0c-b94a-dc899980844d "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=0457b0e6-f622-42b6-b7f8-9258324d813a)
 
-The TRUSTe program covers only information that is collected through this website.
-
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily through the procedures set forth in this Privacy Policy, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily please contact our U.S.-based dispute resolution provider(free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 * * *
 
@@ -73,7 +71,7 @@ We are committed to providing you with meaningful choices about your privacy and
 
 ##### 4.1 Privacy - Settings for Visibility & Sharing
 
-When you create an ORCID Record, you can choose to make any element (other than the ORCID iD, which is always visible) visible by everyone (Public), visible only to a selected groups of Member institutions (Trusted Organizations) that you have indicated that you trust (Limited Access), or visible only to you and Trusted Individuals you designate (Private), as further described in the definitions of Public, Limited Access, and Private below.
+When you create an ORCID Record, you can choose to make any element (other than the ORCID iD, which is always visible) visible by everyone (Public), visible only to a selected groups of Member institutions (Trusted Organizations) that you have indicated that you trust (Limited Access), or visible only to you and Trusted Individuals you designate (Private), as further described in the definitions of Public, Limited Access, and Private below. You will choose your default visibility when you register, and can change this default and item-level visibility at any time.
 
 4.1.1 PUBLIC  
    visible by everyone |  | Accessible by: 
@@ -111,11 +109,11 @@ Data marked Limited Access (visible by those you trust) may be viewed through th
 Data marked as Private (visible by you) may be viewed through the Registry only by you, any Trusted Individual(s) you designate, and a Trusted Organization that added the data (if you gave it permission to do so). Private data are not shared with the public, Trusted Organizations or other Members of ORCID.  
  
 
-Only our staff, and our agents’ or contractors’ staff, with a “need to know” to manage the Registry and process data for us are able to view Private and Limited Access Data. See How We Use Information We Collect and Information Security, below. 
+Only our staff, and our agents’ or contractors’ staff, with a “need to know” to manage the Registry and process data for us are able to view Private and Limited Access Data. See How We Use Information We Collect and Information Security, below.
 
 ##### 4.2 Changing Settings
 
-You can change your settings for visibility & sharing at any time. However, the new settings will only apply after you have made the change. ORCID has no control over uses of data already made available via the Registry or disclosures made in places other than the Registry. 
+You can change your settings for visibility & sharing at any time. However, the new settings will only apply after you have made the change. ORCID has no control over uses of data already made available via the Registry or disclosures made in places other than the Registry.
 
 ##### 4.3 Trusted Individuals
 
@@ -145,7 +143,7 @@ Your Trusted Individuals may edit and deposit information in your Record. You ma
 
 **Members**
 
-The majority of ORCID Records are created by the individual to whom the Record refers. Historically, ORCID also provided an option for Members to create ORCID Records on behalf of their employees and students, including obtaining an ORCID identifier, populating the Record with data, and setting the initial settings for visibility & sharing on the Record. Such Members are referred to in this Section as “Member Creators”. We are in the process of phasing out this practice and eventually, we anticipate that all ORCID Records will be created by individuals. In the transition period, this Section describes how our privacy practices apply to such ORCID Records.
+The majority of ORCID Records are created by the individual to whom the Record refers. Historically, ORCID also provided an option for Members to create ORCID Records on behalf of their employees and students, including obtaining an ORCID identifier, populating the Record with data, and setting the initial settings for visibility & sharing on the Record. Such Members are referred to in this Section as “Member Creators”. We are in the process of phasing out this practice and only a very limited number of Members continue to use this feature. Additional information about Member-created ID's can be found here [Can someone else create an ORCID iD for me](http://support.orcid.org/knowledgebase/articles/1121332).
 
 Before a Member Creator creates an ORCID Record and has an ORCID identifier assigned on your behalf, we ask the entity to represent and warrant that it has the authority and your consent to provide us with information about you, to contact you about the Record, and to distribute certain information in the Record to the public. If the Member Creator represents to us that it has the authority to create an ORCID Record and have an ORCID identifier assigned, but not your consent to make the data available through the Registry, it must mark the data it deposits as Private, and the information will not be made publicly available unless you change the settings for visibility & sharing.
 
@@ -165,6 +163,8 @@ We and our analytics or online customer support service providers use cookies or
 
 We also use cookies to remember users’ settings such as language preference or interface display preferences. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Websites, but your ability to use some features or areas of our site may be limited.
 
+We partner with third party(ies) to provide better functionality to the ORCID website. While ORCID does not gather information about your activities, our third party(ies) may do so. Our third party(ies) may use technologies such as cookies to gather information about your activities on this website and other sites and may provide you advertising based upon your browsing activities and interest. We do not serve ads on our website, but rather the third party(ies) may use interest-based ads on other websites your browse. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://www.aboutads.info/choices) (or if located in the European Union click [here](http://youronlinechoices.eu/)). Please note this does not opt you out of being served ads on other websites. You will continue to receive generic ads on these websites.
+
 * * *
 
 #### 6.0 How We Use Information We Collect
@@ -183,7 +183,7 @@ We also use this information to send messages to you. We send messages either to
   * We will use personal information to contact you with service messages related to or affecting your ORCID Account, including, without limitation: changes to our Privacy Policy or functionality that affects how a user manages privacy; changes to terms and conditions; changes to registration procedures or fields included; any change in the type of information collected.
   * We may contact you to send you newsletters, and information about ORCID. You may subscribe or unsubscribe at [http://orcid.org/newsletter/subscriptions](https://web.archive.org/newsletter/subscriptions), by changing your email preferences in your Account Settings, or by clicking on the unsubscribe message included in each newsletter.
 
- You may regulate the frequency of these messages by adjusting your email and contact preferences in the Account Settings of your ORCID Record. Please note that we reserve the right to notify you about changes or updates to your ORCID account and the Registry as described in the preceding paragraph.  
+  You may regulate the frequency of these messages by adjusting your email and contact preferences in the Account Settings of your ORCID Record. Please note that we reserve the right to notify you about changes or updates to your ORCID account and the Registry as described in the preceding paragraph.  
 
 
 
@@ -193,7 +193,7 @@ We also use this information to send messages to you. We send messages either to
 
 #### 7.0 How We Share Information We Collect
 
-Except as set forth in this in this Privacy Policy, or as required by law, ORCID does not share any non-public information about you with other parties. For example, we do not share your information with Members except as set forth herein, and we do not sell your information to marketers, advertisers or other entities.
+Except as set forth in this in this Privacy Policy, or as required by law Section 7.4 , ORCID does not share any non-public information about you with other parties. For example, we do not share your information with Members except as set forth herein, and we do not sell your information to marketers, advertisers or other entities.
 
 ##### 7.1 With the Public & Members
 
@@ -213,7 +213,7 @@ In addition, annually, ORCID will release to the public a downloadable data file
 
 ##### 7.2 With our Vendors
 
-We may share your information with agents or contractors (for example, a vendor may host ORCID’s servers, or an ORCID contractor may need to check Records for inconsistencies), but only on a “need to know” basis to help us operate ORCID, the Registry and the Websites, and only if the vendor signs a written agreement which requires it to maintain the confidentiality and security of your information and not to use it for other purposes. These companies are authorized to use your personally identifiable information only as necessary to provide these services to us.
+We may share your information with agents or contractors (for example, a vendor may host ORCID’s servers, or an ORCID contractor may need to check Records for inconsistencies), but only on a “need to know” basis to help us operate ORCID, the Registry and the Websites, and only if the vendor agrees to maintain the confidentiality and security of your information and not to use it for other purposes. These companies are authorized to use your personally identifiable information only as necessary to provide these services to us.
 
 ##### 7.3 Commercial Use of Data
 
@@ -225,6 +225,8 @@ ORCID’s Terms and Conditions of Use for the Registry bar the following re-uses
 
 
 Because the Public Data File is released under a CC0 Waiver, we cannot impose any restrictions on use; however we do suggest that people follow [community norms](https://web.archive.org/content/orcid-public-data-file-use-policy) in using the Public Data File as well. ORCID does not otherwise limit commercial use of Public Data by third parties or of Limited Access Data by entities to which you (or a Trusted Individual) gives access. You can block commercial re-use of any data by marking it Private and by controlling whom you grant permissions as a Trusted Organization.
+
+* * *
 
 ##### 7.4 Government Data Requests
 
@@ -245,6 +247,7 @@ If we are required by law, public safety or public policy, or we are served with
 You may review, delete, and edit information in your ORCID Record and change preferences. Please note that changes will be applied prospectively. For example, if you change a setting for visibility & sharing from Public (visible by everyone) to Private (visible by you), or Limited Access (visible by those you trust), there is no way to stop people who have previously viewed or downloaded the Public data from using it.
 
   * You may review information about you and change your settings for visibility & sharing in your ORCID Record by logging into your ORCID Record. If you think that any information in your Record is wrong, we strive to give you ways to update it quickly or delete it, subject to legitimate business or legal purposes, including the Dispute Procedure outlined below in Transparency, Disputed Records and Removal of Data.
+  * You may not directly edit data provided by another source that you have given permission as a Trusted Party. However, you may change the item's visibility, delete the incorrect data, or [make your own corrected version of data](http://orcid.org/blog/2014/12/11/new-feature-friday-new-orcid-record-interface#Editing).
   * You may choose to disable your ORCID Record in the Registry by deactivating the Account from the Account Settings page of your Record. In the event that an ORCID Record is disabled, we will maintain as Private your email address, so as not to assign the same identifier to another person and to allow you to re-claim your identifier in the future.
   * You may make yourself “invisible” to the public by marking all fields other than the ORCID identifier Private.
   * You may revoke Trusted Organization or Trusted Individual status at any time using the Account Settings page.
@@ -252,6 +255,8 @@ You may review, delete, and edit information in your ORCID Record and change pre
   * If you discover that you accidentally have more than one ORCID iD/Record, you may combine the Records.
 
 
+
+In limited circumstances, ORCID may proactively correct data in a Record where errors are a result of system errors, changed standards specifications, or other obvious errors not caused by you or your trusted individuals or organizations. To ensure transparency of our processes, we will post information on our websites when we make record changes. See the [Integrity](http://orcid.org/about/trust/integrity) page for more information.
 
 * * *
 
@@ -273,7 +278,7 @@ An ORCID Record of a person that was created before the person deceased is maint
 
 #### 10.0 Transparency, Disputed Records, & Removal of Data
 
-To ensure the transparency of the ORCID Registry, we keep an audit trail of when and by whom Registry information has been deposited or changed and any changes to settings for visibility & sharing. ORCID will use this information to assist you in addressing concerns about the provenance of data in the Registry and questions about identity ambiguity or theft. If you have a concern about the accuracy of data in your ORCID Record or another ORCID Record or another ORCID Record, you may correct, update, amend, delete, or remove it by signing into your account and making the change, or by submitting a ticket to our [Help Desk](https://web.archive.org/help/contact-us) for assistance. If you have concerns about the accuracy of data in another ORCID Record, submit a ticket to our Help Desk. We will review your concerns in accordance with our [Dispute Procedure](https://web.archive.org/orcid-dispute-procedures) and will respond to your request within a reasonable timeframe. ORCID reserves the right (but shall not be required) to remove or hide from the Registry and its servers any Record data that violates the privacy, publicity or other rights of any person, is the subject of a dispute, or for any other good cause, including without limitation, in any situation in which ORCID is advised by legal counsel that the retention or public availability of such data poses a legal risk to ORCID.
+To ensure the transparency of the ORCID Registry, we keep an audit trail of when and by whom Registry information has been deposited or changed and any changes to settings for visibility & sharing. ORCID will use this information to assist you in addressing concerns about the provenance of data in the Registry and questions about identity ambiguity or theft. Upon request ORCID will provide you with information about whether we hold any of your personal information. If you have a concern about the accuracy of data in your ORCID Record or another ORCID Record or another ORCID Record, you may correct, update, amend, delete, or remove it by signing into your account and making the change, or by submitting a ticket to our [Help Desk](https://web.archive.org/help/contact-us) for assistance. If you have concerns about the accuracy of data in another ORCID Record, submit a ticket to our Help Desk. We will review your concerns in accordance with our [Dispute Procedure](https://web.archive.org/orcid-dispute-procedures) and will respond to your request within a reasonable timeframe. ORCID reserves the right (but shall not be required) to remove or hide from the Registry and its servers any Record data that violates the privacy, publicity or other rights of any person, is the subject of a dispute, or for any other good cause, including without limitation, in any situation in which ORCID is advised by legal counsel that the retention or public availability of such data poses a legal risk to ORCID.
 
 We will retain your information for as long as your Account is active, or as needed to provide you services, including reactivation. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -293,13 +298,15 @@ We are committed to protecting the Registry and our users from unauthorized acce
 
 Despite these measures, we cannot guarantee that unauthorized persons will not be able to hack our system or otherwise defeat our security measures.
 
-Your access to some of our services and content may be password protected. To maintain the security of your information (or information in another person’s ORCID Record that you are authorized to view), please keep your username(s) and password(s) strictly confidential and do not disclose them to anyone. We also recommend that you sign out of your Account at the end of each session. You may also wish to close your browser window when you have finished your work, especially if you share a computer with someone else or are using a computer in a public place. You will be solely responsible for any action, activities, and access to our Websites and Registry that were taken through your username and password, and that occurred before you notified us of their loss. If you have any questions about security on our Websites, please contact us at [http://orcid.org/help/contact-us](https://web.archive.org/help/contact-us).
+Your access to some of our services and content may be password protected. To maintain the security of your information (or information in another person’s ORCID Record that you are authorized to view), please keep your username(s) and password(s) strictly confidential and do not disclose them to anyone. We also recommend that you sign out of your Account at the end of each session. You may also wish to close your browser window when you have finished your work, especially if you share a computer with someone else or are using a computer in a public place. You will be solely responsible for any action, activities, and access to our Websites and Registry that were taken through your username and password, and that occurred before you notified us of their loss. More details can be found in our [ORCID Trust Program](https://orcid.org/about/trust/home). If you have any questions about security on our Websites, please contact us at [http://orcid.org/help/contact-us](https://web.archive.org/help/contact-us).
 
 * * *
 
 #### 12.0 International Data Transfer
 
-Note that we may store and process personal information on servers located outside of the country where you originally deposited the data. The data protection laws of the country or countries where this personal information will be stored or processed might not be as comprehensive as those in your country. Regardless of where we store and process data, we take steps to protect your information, consistent with the principles set forth in this Privacy Policy, which are intended to comply with Article 26 of the EU Data Protection Directive covering data transfers.
+Note that we may store and process personal information on servers located outside of the country where you originally deposited the data. The data protection laws of the country or countries where this personal information will be stored or processed might not be as comprehensive as those in your country. Regardless of where we store and process data, we take steps to protect your information, consistent with the principles set forth in this Privacy Policy, which are [intended to comply with the Privacy Shield Framework](https://web.archive.org/sites/default/files/ckfinder/userfiles/files/Letter%20of%20Attestation%20ORCID.pdf) issued by the U.S. Department of Commerce and with Article 26 of the EU Data Protection Directive covering data transfers.
+
+As a nonprofit organization, we are not subject to the jurisdiction of the United State Federal Trade Commision, which oversees the implementation of the Privacy Shield program. Consequently, ORCID cannot self-certify compliance.
 
 By using our Websites or Registry, or permitting the deposit and/or publication of personal information on or through the Registry, you agree that (i) your personal information may be transferred to our facilities and those of the third parties with whom we share it as described in this Privacy Policy and (ii) any claims of any kind that you have regarding this Privacy Policy and our use and sharing of data shall be resolved in accordance with the procedures set forth in Section 13.
 
@@ -307,13 +314,11 @@ By using our Websites or Registry, or permitting the deposit and/or publication 
 
 #### 13.0 Enforcement and Arbitration; Governing Law
 
-We engage in periodic self-assessment and annual external review by TRUSTEe to ensure compliance with our Privacy Policy. TRUSTe certifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, and completely implemented.
-
 If you have any concerns or claims with respect to our Privacy Policy, please contact us as indicated in Questions/Concerns. We will investigate and attempt to resolve any complaints and disputes regarding our use and disclosure of personal information. If you have questions or concerns about the accuracy of data in your or another person’s Record, please contact us as indicated in Transparency, Disputed Records, & Removal of Data.
 
-If the complaint or dispute cannot be resolved through our internal process, and ORCID does not adequately respond to your question, please contact TRUSTe as indicated in [Section 2 – TRUSTe Certification](https://web.archive.org/web/20161120213308id_/http%3A//orcid.org/content/TRUSTe).
+If the complaint or dispute cannot be resolved through our internal process, and ORCID does not adequately respond to your question, please contact our U.S. based third party dispute resolution provider as indicated in Section 2 – TRUSTe Certification.
 
-If you are not able to resolve your concerns through ORCID’s internal mechanism or through TRUSTe, arbitration as set forth in this paragraph will be your final and exclusive recourse for dispute resolution. If arbitration is necessary, it will be conducted by telephone and email, and if it must be done in person, it will be conducted in New York, NY, and by using our Websites and/or Registry, you consent to such jurisdiction. The arbitration will be conducted by one arbitrator who is a member of the American Arbitration Association, and under the rules of commercial arbitration of the American Arbitration Association. Both parties will bear equally the cost of arbitration (exclusive of legal fees and expenses). All decisions of the arbitrator(s) will be final and binding on both parties and enforceable in any court of competent jurisdiction.
+If you are not able to resolve your concerns through ORCID’s internal mechanism or through our third party dispute resolutions provider, arbitration as set forth in this paragraph will be your final and exclusive recourse for dispute resolution. If arbitration is necessary, it will be conducted by telephone and email, and if it must be done in person, it will be conducted in New York, NY, and by using our Websites and/or Registry, you consent to such jurisdiction. The arbitration will be conducted by one arbitrator who is a member of the American Arbitration Association, and under the rules of commercial arbitration of the American Arbitration Association. Both parties will bear equally the cost of arbitration (exclusive of legal fees and expenses). All decisions of the arbitrator(s) will be final and binding on both parties and enforceable in any court of competent jurisdiction.
 
 In addition, if an organization mandates that you use you ORCID iD, for example, in connection with the submission of a grant proposal or a publication, that organization has the authority under the ORCID Membership Agreement to enforce ORCID’s Privacy Policy on your behalf.
 
@@ -329,7 +334,7 @@ ORCID provides general audience Websites and does not offer services directed to
 
 #### 15.0 Single Sign On
 
-You may log in to our site using sign-in services such as Facebook Connect or with your eduGAIN credentials. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our signin form.
+You may log in to our site using sign-in services from providers such as Facebook, Google, or your employer/university. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our signin form.
 
 * * *
 
@@ -337,7 +342,7 @@ You may log in to our site using sign-in services such as Facebook Connect or wi
 
 Our Websites offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [http://orcid.org/help/contact-us](https://web.archive.org/help/contact-us). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. Alternatively, if you used a third-party application to post such information, you can remove it, by either logging into the said application and removing the information or by contacting the appropriate third party application.
 
-The Feedback & Support section of our Websites at support.orcid.org is built on a third-party platform operated by UserVoice, Inc. (“UserVoice”). UserVoice’s terms of service and privacy policy govern those sections of our Websites as well. Both ORCID and UserVoice have access to any content you post there. Please review their terms of service and privacy policy carefully before using this section of our Websites. We have supplied a link to UserVoice’s terms of service (which include a link to their privacy policy) at the bottom of the relevant pages of our Websites.
+The Feedback & Support section of our Websites at support.orcid.org is built on a third-party platform operated by UserVoice, Inc. (“UserVoice”). UserVoice’s terms of service and privacy policy govern those sections of our Websites as well. Both ORCID and UserVoice have access to any content you post there. Please review their terms of service and privacy policy carefully before using this section of our Websites. We have supplied a [link to UserVoice's terms of service](http://support.orcid.org/tos) (which include a link to their privacy policy) at the bottom of the relevant pages of our Websites.
 
 * * *
 
