@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games24x7.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315013743id_/https%3A//www.rummycircle.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games24x7.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602215025id_/https%3A//www.rummycircle.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - RummyCircle
 
@@ -16,18 +16,19 @@ Contents:
 
 
 
-1\. Policy objective
+## 1\. Policy objective
 
 RummyCircle respects your privacy and assures you that any information provided by you to RummyCircle is protected and will be dealt with according to this Policy and the applicable laws. To avail the services offered on www.RummyCircle.com (hereinafter referred as the "Website"), you may have to provide certain information to us. This Policy provides the procedure followed by RummyCircle to gather, uses, store, discloses and manages users' personal data. RummyCircle only collects personal data for the purpose of verifying user accounts, maintaining the accounts of the users, completing transactions of the users and for analyzing user behavior and requirements.
 
-Top ↑
+  
 
-2\. What is included in personal data?
 
-**User's personal data includes the following types of personal data or information:**
+## 2\. What is included in personal data?
+
+### **User's personal data includes the following types of personal data or information:**
 
   1. **Sensitive Personal Data:**
-    1. Username and account password
+    1. Account password
     2. Financial information such as Bank account or credit card or debit card or other payment instrument details
   2. **Other Personal Information:**
     1. Name
@@ -39,14 +40,14 @@ Top ↑
     7. The date and the time during which you accessed the site.
     8. The address of the website which you may have used to link to the Website
     9. Your photograph for testimonials and other promotions.
+    10. Such other information that is defined as sensitive personal data or information in law.
+
+  
 
 
+## 3\. User Consents:
 
-Top ↑
-
-3\. User Consents:
-
-  1. **Consent for use of Sensitive Personal Data and Other Personal Information:**
+  1. ### **Consent for use of Sensitive Personal Data and Other Personal Information:**
 
 All users of RummyCircle consent to the use of Sensitive Personal Data and Other Personal Information for the purpose stated in this policy. We restrict access of personal information to our employees, contractors and agents and only allow access to those who need to know that information in order to process it on our behalf. 
 
@@ -56,9 +57,9 @@ Photographs once provided by you for marketing purposes gives RummyCircle irrevo
 
 RummyCircle may also use software applications for website traffic analysis and to gather statistics, used for advertising and for determining the efficacy and popularity of RummyCircle among others.
 
-Presently, RummyCircle is using display advertising and [remarketing](https://support.google.com/analytics/answer/2611268?hl=en) through [Google Analytics](http://www.google.co.in/analytics/features/index.html), wherein third party vendors including google, display our ads on sites across the internet and uses first party cookies and third party cookies together to inform, optimize and serve ads based on visits of visitors to our website. Our visitors are free to opt out of Google Analytics for display advertising and customize google display network ads using [ads preference manager](https://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCg4VHd0m21adYaAg9yNDxJFQTiTSdorWliAwloVbVUTgmchctwp2GJgAjNVdX5eTnvU_liK7Nw1FGvAO2MinLUps2ts4sc__SSyVF7FCU6gglVus727677iacDuZaJDGl9s2vkWKy9gmbFnJTyVHgeNeMVjqG3WCh_5C10Gqr73KbdwD0__6mf5ax3UV_6tHffg9HzX).
+Presently, RummyCircle is using display advertising and [remarketing](https://support.google.com/analytics/answer/2611268?hl=en) through [Google Analytics](http://www.google.co.in/analytics/features/index.html), wherein third party vendors including google, display our ads on sites across the internet and uses first party cookies and third party cookies together to inform, optimize and serve ads based on visits of visitors to our website. Our visitors are free to opt out of Google Analytics for display advertising and customize google display network ads using [ads preference manager](https://www.google.com/settings/u/0/ads/authenticated?hl=en).
 
-  2. **Consent to use of Cookies:**
+  2. ### **Consent to use of Cookies:**
 
 What is a Cookie: A cookie is a small text file that uniquely identifies your browser.
 
@@ -66,16 +67,15 @@ You understand that when you visit the Website, cookies may be left in your comp
 
 Cookies may also be assigned by the advertisers of RummyCircle when you click on any of the advertisements which may be displayed on the Website in which case such cookies are controlled by these advertisers and not RummyCircle.
 
-  3. **Consent to email communication:**
+  3. ### **Consent to email communication:**
 
 When you register your email address with RummyCircle, you agree to receive email communication from RummyCircle, entities specifically authorized by RummyCircle and other users. You also agree and acknowledge that when you use our referral program for referring someone, RummyCircle will send emails to such person referred by you on your behalf and the email headers will carry your email address as the address from which such emails are sent.
 
 
+  
 
 
-Top ↑
-
-4\. Data Security:
+## 4\. Data Security:
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data. RummyCircle has a comprehensive information security program and information security policies which contain managerial, technical, operational and physical security control measures adopted by RummyCircle for the protection of Sensitive Personal Date and Other Personal Information.
 
@@ -85,13 +85,14 @@ When you register with RummyCircle, your account is protected by means of login 
 
 The Website may contain links to other websites. Such websites are governed by their own privacy policies and RummyCircle does not exercise any control over them. It is your responsibility to read and understand the privacy policy of such websites when you follow a link outside the Website. You are advised to exercise caution in sharing any personal information with any third party that advertises on the Website and RummyCircle shall not be responsible for such information provided by you on third party websites.
 
-RummyCircle has a policy of not sharing any personally identifiable information with anyone other than entities specifically authorized by RummyCircle which may include advertisers and sponsors of RummyCircle. However, RummyCircle may use your name, photo, Login ID and the state from where you are participating when announcing the results of any contests run on the Website. Such contests are further governed by terms and conditions which shall be available on the website as and when such a contest is run on the website. RummyCircle conducts periodic analysis and survey of the traffic to RummyCircle.com for market research and advertising purposes. RummyCircle reserves the right to share your registration information with RummyCircle appointed market research and advertising companies or firms from time to time for the said purposes. RummyCircle may also use cumulative non-personal information for auditing and analysis purposes with the aim of improving its services.
+RummyCircle has a policy of not sharing any personally identifiable information with anyone other than entities specifically authorized by RummyCircle which may include advertisers and sponsors of RummyCircle. However, RummyCircle may use your name, photo, Login ID and the state from where you are participating when announcing the results of any contests run on the Website. Such contests are further governed by terms and conditions which shall be available on the website as and when such a contest is run on the website. RummyCircle conducts periodic analysis and survey of the traffic to RummyCircle.com for market research and advertising purposes. RummyCircle reserves the right to share your registration information with RummyCircle appointed market research and advertising companies or firms from time to time for the saidpurposes. RummyCircle may also use cumulative non-personal information for auditing and analysis purposes with the aim of improving its services.
 
-Top ↑
+  
 
-5\. Exclusions:
 
-**RummyCircle may share Sensitive Personal Data and Other Personal Information if sharing of such information is necessary:**
+## 5\. Exclusions:
+
+### **RummyCircle may share Sensitive Personal Data and Other Personal Information if sharing of such information is necessary:**
 
   1. to comply with legal processes or governmental request;
   2. to enforce the Terms of Service and this Privacy Policy;
@@ -103,18 +104,19 @@ Top ↑
     2. rights of RummyCircle; and
     3. rights of the general public.
 
+  
 
 
-Top ↑
-
-6\. Limitation of Liability:
+## 6\. Limitation of Liability:
 
 RummyCircle confirms that this Privacy Policy is only a description of its operation regarding user information. This Policy is not intended to and does not create any legal rights in your favour or in the favour of any other person. RummyCircle reserves the right to change this Policy at any time without giving you prior notice. The liability of RummyCircle shall be limited to removal of Sensitive Personal Data from the system of the Website and removal of personally identifiable elements of the Other Personal Information. Notwithstanding anything to the contrary contained in this Policy and elsewhere, the aggregate liability of RummyCircle for all claims for damages pursuant to provisions of services on the Website, including claims in respect to the violation of this Policy, shall be limited to the aggregate maximum amount of liability as provided in the Terms of Service.
 
-Top ↑
+  
 
-7\. Grievance Officer:
+
+## 7\. Grievance Officer:
 
 RummyCircle currently appoints Mr. Hari Hara Sahu as the Grievance Officer. All complaints relating to personal data must be sent to the Grievance Officer at [support@RummyCircle.com](mailto:support@rummycircle.com).
 
-Top ↑
+  
+
