@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bi-lo.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017092749id_/https%3A//www.bi-lo.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bi-lo.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602105911id_/https%3A//www.bi-lo.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Policies | BI-LO
 
@@ -16,7 +16,7 @@ BI-LO may use Customer Information, or any part thereof, to: (i) complete and ma
 
 ### Cookies
 
-We may use cookies (a small, unique identifier text file), web beacons (a small graphic), and other technologies to receive and store certain types of information whenever you interact with the Digital Marketing Program through your computer or your internet-enabled device. The purpose of this technology is to identity you when you visit the Digital Marketing Program so that we can enhance and customize your online experience. You may set your browser so that it does not accept cookies. You may also manually delete cookies from your computer. For more information on how to disable cookies, you should consult with the provider of your browser services. If you disable cookies, however, portions of the Digital Marketing Program may not function properly.
+We may use cookies (a small, unique identifier text file), web beacons (a small graphic), and other technologies to receive and store certain types of information whenever you interact with the Digital Marketing Program through your computer or your internet-enabled device. The purpose of this technology is to identify you when you visit the Digital Marketing Program so that we can enhance and customize your online experience. You may set your browser so that it does not accept cookies. You may also manually delete cookies from your computer. For more information on how to disable cookies, you should consult with the provider of your browser services. If you disable cookies, however, portions of the Digital Marketing Program may not function properly.
 
 We may collect certain technical information from your computer or internet-enabled device when you visit our websites and other areas within our Digital Marketing Program, including, without limitation, your Internet Protocol (IP) address, your computer’s operating system, browser type, and any referring website address. We use this information to enhance your experience during your visit to our websites and other areas within our Digital Marketing Program and for system administration, security, and troubleshooting purposes.
 
@@ -37,6 +37,10 @@ BI-LO takes special precautions with your pharmacy records. See our [Pharmacy No
 ### Privacy of Children
 
 In an effort to comply with the Children’s Online Privacy Protection Act, we ask that children under the age of thirteen (13) not provide any PII on the Digital Marketing Program. If you are a parent or guardian of a child under the age of thirteen (13) and you believe that your child has provided PII to BI-LO, please [Contact Us](https://web.archive.org/about/contact). 
+
+### Data Security
+
+We maintain strict security protocols, including physical, electronic and procedural safeguards, to protect Customer Information. These protocols include compliance with federal law and regulations and the use of Secure Socket Layer (SSL) encryption to prevent any loss, misuse, unauthorized access, or disclosure of your personal information. Although we strive to maintain data security, we do not guarantee or warrant its security. 
 
 ### In-Store Cameras
 
