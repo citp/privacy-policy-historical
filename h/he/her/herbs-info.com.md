@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the herbs-info.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223222956id_/http%3A//www.herbs-info.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbs-info.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603002958id_/http%3A//www.herbs-info.com/privacy.html) for the most accurate reproduction.*
 
 # Herbs Info - Privacy Policy
 
 [Back To Homepage](http://www.herbs-info.com/)
 
-**February 27th, 2013**
+**December 4th, 2014**
 
 **1\. Introduction**
 
@@ -18,7 +18,7 @@ Click [here](http://www.herbs-info.com/privacy-old.html) to view previous privac
 
 **3\. Personally Identifiable Information**
 
-This Website does not feature an email list and does not collect names or email addresses from site visitors. 
+This Website may feature an email list and may collect names or email addresses submitted voluntarily by site visitors. These email addresses are used to send messages containing content and promotions. Our email list is managed by Aweber, Inc. and hosted on their servers - and the policy governing the manner in which such email addresses are utilized can be found at their email permission guidelines page here: <http://www.aweber.com/permission.htm>
 
 **4\. Children's Online Privacy**
 
