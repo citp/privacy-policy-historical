@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mma-core.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210014555id_/http%3A//www.mma-core.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mma-core.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602164026id_/https%3A//www.mma-core.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MMA-Core.com
 
@@ -17,10 +17,7 @@ If you do not want to receive e-mail from us in the future, you can update your 
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: 
 
-  * http://corp.mode.com/privacy/
-  * http://www.google.com/policies/privacy/
-  * http://technoratimedia.com/privacy-policy/
-  * http://www.media-strike.com/
+  * https://www.google.com/policies/privacy/
 
 
 
