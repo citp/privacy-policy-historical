@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japanhoppers.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531043935id_/https%3A//www.japanhoppers.com/japanhoppers/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japanhoppers.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602190531id_/https%3A//www.japanhoppers.com/en/japanhoppers/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Japan Travel Guide - Japan Hoppers
 
