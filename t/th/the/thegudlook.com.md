@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegudlook.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201131640id_/http%3A//thegudlook.com/content/11-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegudlook.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602092705id_/http%3A//thegudlook.com/content/11-privacy-policy) for the most accurate reproduction.*
 
 # The Good Look Privacy Policy - THE GUD LOOK
 
