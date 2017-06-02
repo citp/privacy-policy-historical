@@ -1,19 +1,6 @@
-> *The following text is extracted and transformed from the civilized.life privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204021736id_/https%3A//www.civilized.life/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilized.life privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602063540id_/https%3A//www.civilized.life/privacy) for the most accurate reproduction.*
 
 # We’re Sure You Know the Drill
-
-[Privacy __]()
-
-  * [About](https://www.civilized.life/about/)
-  * [Our People](https://www.civilized.life/our-people/)
-  * [Merchandise](https://shop.civilized.life/)
-  * [Responsible Use](https://www.civilized.life/responsible-use/)
-  * [Invest](https://www.civilized.life/invest/)
-  * [Advertise](https://www.civilized.life/advertise/)
-  * [Contact](https://www.civilized.life/contact/)
-  * [Privacy](https://www.civilized.life/privacy/)
-
-
 
 We've endeavored to keep our privacy policy as clear and concise as we possibly can. If you have a question about any of our policies, you can always email [privacy@civilized.life](mailto:privacy@civilized.life) and we promise we'll follow-up with you.
 
