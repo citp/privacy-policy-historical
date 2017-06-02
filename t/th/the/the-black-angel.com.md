@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-black-angel.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129013918id_/http%3A//www.the-black-angel.com/content/8-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-black-angel.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602165259id_/http%3A//www.the-black-angel.com/content/8-privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - The Black Angel
 
