@@ -1,6 +1,19 @@
-> *The following text is extracted and transformed from the boystown.com.au privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222224552id_/https%3A//www.yourtown.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boystown.com.au privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602204843id_/https%3A//www.yourtown.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | yourtown
+
+#### Our privacy policy
+
+Click here to view our corporate [Privacy Policy](https://web.archive.org/sites/default/files/document/yourtown-Privacy-Policy.pdf). You may also request a copy in an alternate format by contacting  **yourtown**  via:
+
+  * Email: privacy@yourtown.com.au
+  * Phone: (07) 3368 3399
+
+
+
+or by writing to us at the above address.
+
+This Privacy Statement was last updated on 18 November 2015.
 
 ## Fundraising Privacy Statement
 
@@ -97,8 +110,6 @@ The Chief Executive Officer
 GPO Box 2469  
 Brisbane QLD 4001
 
-An administration fee may be charged to access  **yourtown**  files.
-
 #### How to make a privacy complaint
 
 Inquiries, feedback and complaints concerning privacy can be emailed to privacy@yourtown.com.au or made in writing to:
@@ -107,16 +118,3 @@ The Chief Executive Officer
  **yourtown**  
 GPO Box 2469  
 Brisbane QLD 4001
-
-#### Our privacy policy
-
-Click here to view our corporate [Privacy Policy](https://web.archive.org/sites/default/files/document/yourtown-Privacy-Policy.pdf). You may also request a copy in an alternate format by contacting  **yourtown**  via:
-
-  * Email: privacy@yourtown.com.au
-  * Phone: (07) 3368 3399
-
-
-
-or by writing to us at the above address.
-
-This Privacy Statement was last updated on 20 March 2014.
