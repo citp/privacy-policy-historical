@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nerdrepository.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220094049id_/http%3A//nerdrepository.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdrepository.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602203454id_/http%3A//nerdrepository.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Nerd Repository
 
