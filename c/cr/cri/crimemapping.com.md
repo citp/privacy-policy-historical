@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crimemapping.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119074348id_/http%3A//www.crimemapping.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crimemapping.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603015447id_/https%3A//www.crimemapping.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # CrimeMapping.com - Helping You Build a Safer Community
 
