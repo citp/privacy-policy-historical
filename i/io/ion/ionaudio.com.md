@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ionaudio.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222190023id_/http%3A//www.ionaudio.com/company/privacy_policy/) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ionaudio.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603012509id_/http%3A//www.ionaudio.com/company/privacy_policy/) for the most accurate reproduction.*
 
 # Privacy Policy - ION Audio - Dedicated to Delivering Sound Experiences
 
