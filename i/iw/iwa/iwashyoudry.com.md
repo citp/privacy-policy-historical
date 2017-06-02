@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the iwashyoudry.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128224622id_/http%3A//www.iwashyoudry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwashyoudry.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602055457id_/http%3A//www.iwashyoudry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - I Wash... You Dry
 
-[Yum](https://yummly.com/)
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.iwashyoudry.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
+You are here: [Home](http://www.iwashyoudry.com/) / Privacy Policy
 
 **Privacy Policy for iwashyoudry.com**
 
