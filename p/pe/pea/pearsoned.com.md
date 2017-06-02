@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearsoned.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214151707id_/http%3A//www.pearsoned.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsoned.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602113137id_/http%3A//www.pearsoned.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement for Pearson Education
 
