@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skydesk.jp privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626123823id_/http%3A//www.fujixerox.com/eng/common/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skydesk.jp privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603011951id_/http%3A//www.fujixerox.com/eng/common/privacy_policy) for the most accurate reproduction.*
 
 # Fuji Xerox Privacy Policy (Handling of Personal Information) : FUJI XEROX
 
@@ -11,10 +11,17 @@ In the following cases, however, we may omit specifying the purpose of use;
 
   * When personal information is provided in a business meeting or in the exchange of business cards
   * When personal information is provided on business cards at events, fairs, or seminars etc.
+  * When the purpose of use is clear from the situation of acquisition.
 
 
 
-In these cases, Fuji Xerox may use personal information for introducing our products and services as well as providing various information by e-mail, and marketing activities including face-to-face marketing, except when the person rejects those activities.
+In these cases, Fuji Xerox may use personal information for the following purposes except when the person rejects;
+
+  * Introducing our products and services as well as providing various information by e-mail, direct mail, facsimile, etc.
+  * Marketing activities including face-to-face marketing, phone call, etc.
+  * Effort aimed at improving quality of customer relation activities
+
+
 
 ## 2\. Management of Personal Information
 
@@ -51,6 +58,22 @@ Fuji Xerox does not disclose personal information to any third parties except un
 
 A person who wishes to access, alter, or correct his/her own personal information should contact the section or staff in Fuji Xerox to whom the person has provided their personal information (contact information site that is displayed on the Web site through which personal information has been provided). Fuji Xerox will then respond to the person's request in a timely manner according to prescribed procedures.  
 In those cases, in order to prevent unlawful acquisition or alteration of personal information by third parties, Fuji Xerox will confirm whether the request is really done by the person himself/herself.
+
+  * For any inquiries about personal information, please communicate the point of contact of Fuji Xerox to which you provided your personal information, or that which Fuji Xerox noticed you.
+  * If the point of contact above is unknown, please contact us at Customer Information Center below;
+
+[Customer Information Center](http://www.fujixerox.co.jp/support/callcenter/cic/) (only available in Japanese)
+
+  * Please refer to the following Web site for handling of personal information at point of contact of Fuji Xerox.
+
+[Handling of personal information at point of contact of Fuji Xerox](http://www.fujixerox.co.jp/common/privacy_policy/callcenter.html) (only available in Japanese)
+
+  * Please refer to the following Web site for request based on Personal Information Protection Act, such as notice of the purpose of usage of personal information, disclosure, correction, addition, deletion, suspension, or erasing of personal information. 
+
+[How to make request based on Personal Information Protection Act](http://www.fujixerox.co.jp/common/privacy_policy/request.html) (only available in Japanese)
+
+
+
 
 ## 6\. Handling of Your Advice and Requests
 
@@ -93,16 +116,26 @@ However, these technologies may not be used in some rare cases because of the pe
 
 When extra provisions different from those of this Privacy Policy are settled on through a usage contract of Fuji Xerox sites, Fuji Xerox will preferentially apply said usage contract.
 
-### 7.5 Linked Sites From Fuji Xerox Sites
+### 7.5 Linked Sites from Fuji Xerox Sites
 
 Fuji Xerox sites may include links to Web sites outside Fuji Xerox.  
 Although Fuji Xerox pays full attention to the selection of the linked sites, we cannot assume responsibility for protection of personal information or contents on those Web sites outside Fuji Xerox.
 
-## 8\. Compliance With Laws and Regulations
+## 8\. Handling of the Specific Personal Information
+
+Fuji Xerox will comply with the “Act on the Use of Numbers to Identify a Specific Individual in the Administrative Procedure”, “Guidelines for proper handling of Specific Personal Information”, “Personal Information Protection Act” and will properly handle the Specific Personal Information.
+
+Fuji Xerox will notify concrete purpose of use of Specific Personal Information, when we request your Specific Personal Information to implement the Individual Number related business.
+
+As a security control measure of the Specific Personal Information, Fuji Xerox provides internal regulation “Specific Personal Information Management Regulation” etc.
+
+For any inquiries or claims regarding Fuji Xerox’s handling of Specific Personal Information, please communicate the point of contact of Fuji Xerox that you have deal with. If the point of contact is unknown, please contact us at [Customer Information Center.](http://www.fujixerox.co.jp/support/callcenter/cic/)
+
+## 9\. Compliance with Laws and Regulations
 
 Fuji Xerox strictly observes all Japanese laws and internal regulations that are applicable related to personal information.
 
-December, 2012
+December, 2015
 
 Fuji Xerox Co., Ltd.
 
@@ -114,6 +147,7 @@ Fuji Xerox will occasionally revise this Privacy Policy in accordance with revis
   * Note 4 “Web beacon” is technology to acquire aggregated site visitation statistics of access to the specified Web pages using cookies.
   * Note 5 “IP address” is a number that can specify the computer accessing the servers. (User of computer cannot be specified.)
   * Note 6 Some Fuji Xerox sites may not support SSL by restrictions of systems or other reasons. In these cases, Fuji Xerox will display on such Web sites that security cannot be preserved in communication process.
+  * Note 7 “Specific Personal Information” means Individual Numbers based on “Act on the Use of Numbers to Identify a Specific Individual in The Administrative Procedure” and personal information that includes Individual Numbers.
 
 
 
