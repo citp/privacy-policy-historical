@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigbrothernetwork.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203115241id_/http%3A//bigbrothernetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbrothernetwork.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602095737id_/http%3A//bigbrothernetwork.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Big Brother OTT
+# Privacy Policy | Big Brother 19
 
 ## Privacy Policy Statement
 
