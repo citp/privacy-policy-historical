@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukclassifieds.co.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120195114id_/http%3A//www.ukclassifieds.co.uk/index.php%3Fpage%3Dextra%26pg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukclassifieds.co.uk privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602115530id_/http%3A//www.ukclassifieds.co.uk/index.php%3Fpage%3Dextra%26pg%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
