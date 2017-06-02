@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotmomsclub.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120112152id_/http%3A//www.hotmomsclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotmomsclub.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603012512id_/http%3A//www.hotmomsclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hot Moms Club
 
@@ -22,7 +22,7 @@ Upon your request, we will provide you with a summary of the information we coll
 
 How to Unsubscribe
 
-You can unsubscribe from receiving HMC and HHM emails at any time. You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any HMC and HHM Buzz email or on the bottom of the HMC and HHM homepage and following the instructions. We, of course, do not want to see you go, but if for any reason you want to leave us and have trouble doing so please email [admin@hotmomsclub.com](mailto:admin@hotmomsclub.com)
+You can unsubscribe from receiving HMC and HHM emails at any time. You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any HMC and HHM Buzz email or on the bottom of the HMC and HHM homepage and following the instructions. We, of course, do not want to see you go, but if for any reason you want to leave us and have trouble doing so please email [admin@www.hotmomsclub.com](mailto:admin@www.hotmomsclub.com)
 
 Choice/Opt-Out
 
@@ -30,7 +30,7 @@ If we ever send you information by email concerning new products or services tha
 
 Third Party Advertising
 
-Some of the ads appearing on our Buzz Email and Web Site may be delivered to you by our Web advertising partner or partners. Information about your visit to a partner site or sites, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about our advertising partner or partners, cookies, and how to “opt-out”, please contact us at admin@hotmomsclub.com for more information.
+Some of the ads appearing on our Buzz Email and Web Site may be delivered to you by our Web advertising partner or partners. Information about your visit to a partner site or sites, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about our advertising partner or partners, cookies, and how to “opt-out”, please contact us at admin@www.hotmomsclub.com for more information.
 
 Occasionally, you’ll get an email marked “dedicated” or “sponsored” in the subject line and in the email header. These emails are not necessarily reflective of the opinions of the editorial staff. They are content paid for by our sponsors. You can unsubscribe from receiving these emails, however, if you do so, you will no longer receive HMC and HHM unsponsored emails either. Please see “How to unsubscribe.”
 
@@ -63,4 +63,4 @@ Android – <https://support.google.com/ads/answer/2662922?hl=en>
 
 Contact Us
 
-If you have any questions about this policy, the Buzz email or our site in general, please email [admin@hotmomsclub.com](mailto:info@purewow.com)
+If you have any questions about this policy, the Buzz email or our site in general, please email [admin@www.hotmomsclub.com](mailto:info@purewow.com)
