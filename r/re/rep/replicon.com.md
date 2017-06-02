@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the replicon.com privacy policy that was archived on 2016-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160808204040id_/https%3A//www.replicon.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replicon.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602182015id_/https%3A//www.replicon.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Replicon
 
@@ -183,7 +183,7 @@ the personal information is protected by any legal privilege;
 the disclosure of the information would reveal confidential commercial information and it is not unreasonable to withhold that information;  
 the personal information was collected by Replicon for an investigation or legal proceeding;  
 the disclosure of the personal information might result in similar information no longer being provided to us when it is reasonable that it would be provided;  
-the personal information was collected or created by a mediator or arbitrator in the conduct of a mediation or arbitration for which he or she was appointed to actunder an agreement,  
+the personal information was collected or created by a mediator or arbitrator in the conduct of a mediation or arbitration for which he or she was appointed to act under an agreement,  
 under an enactment, or  
 by a court; or  
 the personal information relates to and may be used in the exercise of prosecutorial discretion.  
