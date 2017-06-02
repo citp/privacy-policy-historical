@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentree.in privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804063643id_/http%3A//www.parentree.in/do/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentree.in privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602204748id_/http%3A//www.parentree.in/do/privacypolicy) for the most accurate reproduction.*
 
 # Parentree - Privacy POlicy
 
@@ -44,7 +44,7 @@ Members
 Your nickname, photo, city and country will be visible to all Visitors to the site. You can choose not to provide a photo and instead use a generic graphic.   
 All content you contribute to the Sites, except in your Inbox, will be visible to all Visitors to the site and is thus in the public domain.  
 When you generate content (blogs, comments, discussions, reviews, ratings) automatic updates are sent to other Members who you have specifically accepted as your friends or who have contributed to the same areas of content. These updates cannot be turned off.  
-To understand this in granular detail, please access the Feedback and Features groups at http://www.parentree.in/, which are incorporated herein by reference.  
+To understand this in granular detail, please access the Feedback and Features groups at http://www.parentree.in//, which are incorporated herein by reference.  
 Any enhanced personal profile information you choose to provide should reflect how much you want Members to know about you. We recommend that you guard your sensitive information and we encourage Members to think carefully about what information about themselves they disclose in their enhanced personal profile pages and in the content they post. You can review and revise your profile information at any time.
 
 Service Providers, Business Partners and Others
@@ -82,4 +82,4 @@ The Sites are not directed to anyone under the age of 18. We do not knowingly co
 
 If you have any questions about this Privacy Policy or need to contact us about privacy, please email to support [at] parentree.in 
 
-All Rights Reserved Copyright © 2008-2016 Parentree
+All Rights Reserved Copyright © 2008-2017 Parentree
