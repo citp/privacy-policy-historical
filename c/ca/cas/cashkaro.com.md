@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashkaro.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022012330id_/http%3A//cashkaro.com/privacy-policy%3Futm_source%3Dfooter%26utm_medium%3Dprivacycookiepolicy%26utm_campaign%3Dfooter-links) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashkaro.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602143315id_/http%3A//cashkaro.com/privacy-policy%3Futm_source%3Dfooter%26utm_medium%3Dprivacycookiepolicy%26utm_campaign%3Dfooter-links) for the most accurate reproduction.*
 
 # None
 
