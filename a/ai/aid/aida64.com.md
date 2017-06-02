@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aida64.com privacy policy that was archived on 2016-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160728115410id_/https%3A//www.aida64.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aida64.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602162415id_/https%3A//www.aida64.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | AIDA64
 
