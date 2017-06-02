@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the citibikenyc.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601113526id_/http%3A//www.citibikenyc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citibikenyc.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602221320id_/https%3A//www.citibikenyc.com/privacy) for the most accurate reproduction.*
 
 # Citi Bike Privacy Policy | Citi Bike NYC
 
 **Effective Date: October 1, 2015**  
-We at Motivate International Inc., along with our subsidiaries and affiliates (“Motivate”), respect your concerns about privacy. Motivate operates Citi Bike in New York City and Jersey City. This Privacy Notice applies to (i) the websites and apps listed in Appendix A (collectively, the “Sites”), (ii) the on-street kiosks associated with the Citi Bike bicycle sharing programs, (iii) our customer call center and (iii) your use of or other interaction with our bicycle sharing programs (the “Service”).
+We at Motivate International Inc., along with our subsidiaries and affiliates (“Motivate”), respect your concerns about privacy. Motivate operates Citi Bike in New York City and Jersey City. This Privacy Notice applies to (i) the websites and apps listed in Appendix A (collectively, the “Sites”), (ii) the on-street kiosks associated with the Citi Bike bicycle sharing programs, (iii) our customer call center and (iii) your use of or other interaction with our bicycle sharing programs (the “Service”).
 
 This Privacy Notice describes the types of personal information we collect about consumers, how we use the information, with whom we share it and the choices available to you regarding our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.
 
@@ -97,7 +97,7 @@ This Privacy Notice may be updated periodically and without prior notice to you 
 
 If you would like us to update information we have about you or if you have any questions or comments about this Privacy Notice, please contact us by email at [customerservice@citibikenyc.com](mailto:customerservice@citibikenyc.com "mailto:customerservice@citibikenyc.com") subject line Privacy Policy. You also may write to:
 
-Motivate International Inc.  
+Motivate International Inc.  
 Attention: Legal Department  
 5202 Third Avenue  
 Brooklyn, NY 11232
@@ -105,8 +105,8 @@ Brooklyn, NY 11232
 **Appendix A**
 
 Websites  
-[www.citibikenyc.com  
-](https://web.archive.org/web/20160601113526id_/http%3A//www.citibikenyc.com/%7Bsite_url\('http://www.citibikenyc.com/'\)%7D "http://www.citibikenyc.com/")[www.citibikejc.com](https://web.archive.org/web/20160601113526id_/http%3A//www.citibikenyc.com/%7Bsite_url\('http://www.citibikejc.com/'\)%7D "http://www.citibikejc.com/")
+[www.citibikenyc.com](https://www.citibikenyc.com/ "http://www.citibikenyc.com/")  
+[www.citibikejc.com](https://www.citibikejc.com/ "http://www.citibikejc.com/")
 
 Mobile Apps  
-[The Official Citi Bike App](https://web.archive.org/web/20160601113526id_/http%3A//www.citibikenyc.com/%7Bsite_url\('http://www.citibikenyc.com/get-the-app'\)%7D "http://www.citibikenyc.com/get-the-app")
+[The Official Citi Bike App](https://www.citibikenyc.com/how-it-works/app "http://www.citibikenyc.com/get-the-app")
