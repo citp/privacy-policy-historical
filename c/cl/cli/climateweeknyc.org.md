@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the climateweeknyc.org privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017185454id_/http%3A//www.climateweeknyc.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climateweeknyc.org privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602090644id_/http%3A//www.climateweeknyc.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Climate Week NYC 2016
+# Privacy Policy | Climate Week NYC 2017
 
 The Climate Change Organisation trading as The Climate Group ("We") are committed to protecting and respecting your privacy. This policy (together with our terms and conditions and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
