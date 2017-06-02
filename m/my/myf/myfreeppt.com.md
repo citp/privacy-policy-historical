@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myfreeppt.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912205112id_/http%3A//www.myfreeppt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreeppt.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602184737id_/http%3A//www.myfreeppt.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Free PowerPoint Templates
+# Privacy - Free PowerPoint Templates
 
 The privacy of our visitors is important to us. We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit our website, and how we safeguard your information. We never sell your personal information to third parties. 
 
