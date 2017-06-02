@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamwork.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413232828id_/https%3A//www.teamwork.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamwork.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602180453id_/https%3A//www.teamwork.com/privacypolicy) for the most accurate reproduction.*
 
 # Teamwork.com - Privacy Policy
 
@@ -6,9 +6,20 @@ Your privacy is of great importance to us. This Privacy Policy exists to tell yo
 
 We do not collect any personally identifiable information about individuals with two exceptions: when such information is voluntarily submitted by the visitor through forms, and some incidental statistics of site usage which are collected automatically.
 
+  * [Personal Information You Choose to Provide](https://www.teamwork.com/privacypolicy#personal_informat)
+  * [Information Automatically Collected and Stored](https://www.teamwork.com/privacypolicy#information_autom)
+  * [Linked Sites](https://www.teamwork.com/privacypolicy#linked_sites)
+  * [User's Data](https://www.teamwork.com/privacypolicy#user_data)
+  * [Security](https://www.teamwork.com/privacypolicy#security)
+  * [Limitation of Liability](https://www.teamwork.com/privacypolicy#limitation_of_lia)
+  * [Contact information](https://www.teamwork.com/privacypolicy#contact_informati)
+  * [Changes and Updates to this Policy](https://www.teamwork.com/privacypolicy#changes_and_updat)
+
+
+
 ###  Personal Information You Choose to Provide
 
-In order to enable visitors of our website to see certain pages, when specifically requested by them, we require some contact information, (such as name, and e-mail address). The information collected shall be used for the purposes specified when it was collected, to respond to visitor’s inquiries, and fulfil e-mail messaging programs to notify visitors about new content or services on our website.
+In order to enable visitors of our website to see certain pages, when specifically requested by them, we require some contact information, (such as name, and e-mail address). The information collected shall be used for the purposes specified when it was collected, to respond to visitor’s inquiries, and fulfill e-mail messaging programs to notify visitors about new content or services on our website.
 
 Any information given to us shall be stored and managed the greatest care, and will not be used in ways to which you have not consented. We will not sell, rent, or exchange such personally identifiable information to any other organization or entity. Notwithstanding the above, we may indeed disclose personal information if required to do so by subpoenas, court orders or legal process or when such disclosure is made for establishment or exercise of legal rights or in defending against legal claim, or as otherwise required by law.
 
