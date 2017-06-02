@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the attwooddigital.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512230757id_/http%3A//attwooddigital.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attwooddigital.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602152237id_/https%3A//attwooddigital.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-You are here: [Home](http://attwooddigital.com/) » **Privacy Policy**
+You are here: [Home](https://attwooddigital.com/) » **Privacy Policy**
 
   1. AttwoodDigital.com is committed to protecting your privacy and maintaining the security of any personal information received from you. We strictly adhere to the requirements of the data protection legislation in the UK, in particular the Data Protection Act 1988. The purpose of this statement is to explain to you what personal information we collect and how we may use it.
   2. When you order, we need to know your Name, Address, Contact Details and Delivery Details (if these are not the same). This allows us to process and fulfil your order. You have the option to withhold personal information that is not required for the order process.
@@ -21,10 +21,10 @@ You are here: [Home](http://attwooddigital.com/) » **Privacy Policy**
 
 Don’t just take our word for it, meet some of the people that have benefited from working with us to see what they have to say.
 
-[](http://attwooddigital.com/about-us/testimonials/)
+[](https://attwooddigital.com/about-us/testimonials/)
 
 ## Love Our Blog
 
 We haven't written any blog posts about this subject yet.
 
-[Click here to to go to the main blog and read our latest blog posts.](http://attwooddigital.com/blog/)
+[Click here to to go to the main blog and read our latest blog posts.](https://attwooddigital.com/blog/)
