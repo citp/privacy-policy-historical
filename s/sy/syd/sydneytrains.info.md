@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sydneytrains.info privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208163609id_/http%3A//www.sydneytrains.info/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydneytrains.info privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602050312id_/http%3A//www.sydneytrains.info/general/privacy) for the most accurate reproduction.*
 
 # Privacy - Sydney Trains
 
