@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eleague.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028112911id_/http%3A//www.eleague.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eleague.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602035029id_/http%3A//www.eleague.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — ELEAGUE
 
@@ -97,13 +97,13 @@ We may work with our Partners (for instance, third-party ad platforms) to synchr
 
  _3\. Locally Stored Objects._
 
-Services on the Turner Network may employ locally stored objects ("LSOs") and other client side storage tracking technologies in certain situations where they help to provide a better user experience, such as to remember settings, preferences and usage similar to browser cookies, or in order to target or help our Partners target advertisements, analyze advertisement performance, or perform user, website or market analytics. For LSOs utilized by Adobe Flash you can access Flash management tools from [**Adobe's website**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) directly. In addition, some, but not all browsers, provide the ability to remove LSOs, sometimes within cookie and privacy settings.
+Services on the Turner Network may employ locally stored objects ("LSOs") and other client side storage tracking technologies in certain situations where they help to provide a better user experience, such as to remember settings, preferences and usage similar to browser cookies, or in order to target or help our Partners target advertisements, analyze advertisement performance, or perform user, website or market analytics. For LSOs utilized by Adobe Flash you can access Flash management tools from [Adobe's website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) directly. In addition, some, but not all browsers, provide the ability to remove LSOs, sometimes within cookie and privacy settings.
 
  _4\. Disabling Cookies._
 
 Most web browsers are set up to accept cookies. You may be able to set your browser to warn you before accepting certain cookies or to refuse certain cookies. However, if you disable the use of cookies in your web browser, some features of the Services may be difficult to use or inoperable.
 
-We may work with certain third-party companies that use techniques other than HTTP cookies to recognize your computer or device and/or to collect and record information about your web surfing activity, including those integrated with our Services. Please keep in mind that your web browser may not permit you to block the use of these techniques, and those browser settings that block conventional cookies may have no effect on such techniques. To learn more about Interest-Based Advertising or to opt-out of this type of advertising by those third parties that are members of DAA's opt-out program, please go to [**http://www.aboutads.info**](http://www.aboutads.info/).
+We may work with certain third-party companies that use techniques other than HTTP cookies to recognize your computer or device and/or to collect and record information about your web surfing activity, including those integrated with our Services. Please keep in mind that your web browser may not permit you to block the use of these techniques, and those browser settings that block conventional cookies may have no effect on such techniques. To learn more about Interest-Based Advertising or to opt-out of this type of advertising by those third parties that are members of DAA's opt-out program, please go to [http://www.aboutads.info](http://www.aboutads.info/).
 
  _5\. Web Beacons._
 
@@ -121,9 +121,9 @@ Our unaffiliated Partners and third parties may themselves set and access their 
 
 Advertising enables us to provide the rich content for which Services on the Turner Network are known, and to provide much of this content free of cost to our Users. Thus, we strive to provide you with advertisements that are relevant to you and for products you may want.
 
-However, we also offer you choices with regard to interest-based ads. To learn more about interest-based ads and the choices available to you, please visit our Ad Choices  page, which has general information about certain companies that place these ads. You may also find more information about entities involved in online advertising and additional choices you may make through the Network Advertising Initiative ("NAI") at the [**NAI Service**](http://www.networkadvertising.org/), and the Digital Advertising Alliance (the "DAA") at the [**DAA consumer choice Service**](http://www.aboutads.info/). Turner is a participant in the online industry's self-regulatory program administered by the DAA and has agreed to adhere to the DAA's principles applicable to interest-based ads.
+However, we also offer you choices with regard to interest-based ads. To learn more about interest-based ads and the choices available to you, please visit our Ad Choices  page, which has general information about certain companies that place these ads. You may also find more information about entities involved in online advertising and additional choices you may make through the Network Advertising Initiative ("NAI") at the [NAI Service](http://www.networkadvertising.org/), and the Digital Advertising Alliance (the "DAA") at the [DAA consumer choice Service](http://www.aboutads.info/). Turner is a participant in the online industry's self-regulatory program administered by the DAA and has agreed to adhere to the DAA's principles applicable to interest-based ads.
 
-The tools provided on the Ad page, as well as the [**DAA opt-out page**](http://www.aboutads.info/choices) and the [**NAI opt-out page**](http://www.networkadvertising.org/managing/opt_out.asp) are provided by third parties, not Turner. Turner does not control or operate these tools or the choices that advertisers and others provide through these tools.
+The tools provided on the Ad page, as well as the [DAA opt-out page](http://www.aboutads.info/choices) and the [NAI opt-out page](http://www.networkadvertising.org/managing/opt_out.asp) are provided by third parties, not Turner. Turner does not control or operate these tools or the choices that advertisers and others provide through these tools.
 
 When using a mobile application you may receive tailored in-application advertisements. Depending on your device, you may be able to reset your mobile device’s advertising identifier at any time by accessing the privacy settings on your mobile device. In addition, each operating system, iOS for Apple phones, Android for Android devices, and Windows for Microsoft devices, provides its own instructions on how to prevent the delivery of tailored in-application advertisements. You may review the support materials and/or the privacy settings for the respective operating systems in order to opt-out of tailored in-application advertisements. For any other devices and/or operating systems, please visit the privacy settings for the applicable device or contact (or review the applicable privacy web page of) the applicable platform operator.
 
@@ -160,11 +160,11 @@ Attention: Privacy Policy Coordinator
 1015 Techwood Drive
 
 Atlanta, Georgia 30318  
-Email: [eleaguecopyrightagent@turner.com](mailto:eleaguecopyrightagent@turner.com)
+Email: [privacy@e-league.com](mailto:privacy@e-league.com)
 
  _6\. How to Contact Us/Opting Out of Marketing Communications._
 
-If you have any questions or concerns about the online Privacy Policy for this Service or its implementation, or if you would like to opt out from our sharing of your personal Information with unaffiliated third parties for the third parties' direct marketing purposes you may contact our Privacy Policy Coordinator at the above address or [eleaguecopyrightagent@turner.com](mailto:eleaguecopyrightagent@turner.com) and request that we opt you out of such sharing. We may ask you to provide additional information for identity verification purposes, or to verify that you are in possession of an applicable email account.
+If you have any questions or concerns about the online Privacy Policy for this Service or its implementation, or if you would like to opt out from our sharing of your personal Information with unaffiliated third parties for the third parties' direct marketing purposes you may contact our Privacy Policy Coordinator at the above address or [privacy@e-league.com](mailto:privacy@e-league.com) and request that we opt you out of such sharing. We may ask you to provide additional information for identity verification purposes, or to verify that you are in possession of an applicable email account.
 
 If you have signed up to receive our emails and prefer not to receive marketing information from this Service, follow the "unsubscribe" instructions provided on any marketing email you receive from this Service. If you have signed up to receive text messages from us and no longer wish to receive such messages, you may follow the instructions to stop the delivery of such messages, which may include by replying "STOP" to the received text message.
 
