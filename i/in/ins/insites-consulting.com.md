@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insites-consulting.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201143948id_/http%3A//www.insites-consulting.com/privacy-statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insites-consulting.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603015941id_/http%3A//www.insites-consulting.com/privacy-statements) for the most accurate reproduction.*
 
 # Privacy Statement | InSites Consulting
 
