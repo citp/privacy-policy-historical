@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notonthehighstreet.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222071753id_/http%3A//www.notonthehighstreet.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notonthehighstreet.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602074305id_/https%3A//www.notonthehighstreet.com/about/privacy) for the most accurate reproduction.*
 
 # privacy and data security | notonthehighstreet.com
 
@@ -178,7 +178,7 @@ If you use the buttons that allow you to share products and content with your fr
 
 <https://www.facebook.com/about/privacy/>
 
-[http://twitter.com/privacy ](http://twitter.com/privacy)
+[http://twitter.com/privacy ](http://twitter.com/privacy%20)
 
 <http://www.google.com/intl/en-GB/policies/privacy/>
 
