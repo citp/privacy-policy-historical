@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the petrolicious.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617095800id_/http%3A//petrolicious.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petrolicious.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602134146id_/https%3A//petrolicious.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Petrolicious
+# Privacy Policy • Petrolicious
 
-  
 At Petrolicious.com we appreciate your readership and value your personal privacy. In adopting this privacy policy, our intent is to balance our legitimate interests in improving our service by collecting and using your personal information with your reasonable expectations of privacy. The policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our policy.
 
 **When does Petrolicious.com collect my personal information?**
@@ -18,10 +17,8 @@ Non-personally identifiable information (such as stated above) may be shared in 
 
 **How Does Petrolicious Use Third Party Cookies?**
 
-Third party vendors, including Google, use cookies, including first-party (such as Google Analytics) and third party (such as DoubleClick) cookies, to inform, optimize, re-market and serve ads based on your prior visits to this website. You have the option to opt out of Google's use of cookies by visiting the Google advertising opt-out page or Google Analytics Opt-out Browser Add-on. Alternatively you can opt out of cookies by visiting the Network Advertising Initiative opt out page.
+Third party vendors, including Google, use cookies, including first-party (such as Google Analytics) and third party (such as DoubleClick) cookies, to inform, optimize, re-market and serve ads based on your prior visits to this website. You have the option to opt out of Google’s use of cookies by visiting the Google advertising opt-out page or Google Analytics Opt-out Browser Add-on. Alternatively you can opt out of cookies by visiting the Network Advertising Initiative opt out page.
 
 **Is there anything else I should know about my privacy and Petrolicious.com?**
 
 Any information you disclose voluntarily through submissions or in any forums we may develop in the future becomes public information. We cannot control the actions of our site users and advise you to use your discretion in sharing information about yourself on the internet. All information sharing is optional and done so at your own risk. Privacy is a very personal matter and we encourage you to be careful and responsible when disclosing personal information online.
-
-Petrolicious / May Moon Media 2015. All Rights.
