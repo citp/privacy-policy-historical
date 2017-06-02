@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the comparetv.com.au privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318225632id_/https%3A//www.comparetv.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparetv.com.au privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602044433id_/https%3A//www.comparetv.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CompareTV
 
-TWENTY/TWENTY DIGITAL PTY LTD, a company registered in Australia with business number   20 166 855 401 whose registered address is at 4/7 Alexander St. Tamarama, NSW, 2026.  (“CompareTV”, “We” or “Us”) takes your privacy very seriously. We want to assure you that your information and data is safe with Us. We employ highest standard of physical and electronic measures to protect the safety, security and secrecy of your personal information.
+TWENTY/TWENTY DIGITAL PTY LTD, a company registered in Australia with business number 20 166 855 401 whose registered address is at 296 Plateau Rd, Bilgola, New South Wales 2107.  (“CompareTV”, “We” or “Us”) takes your privacy very seriously. We want to assure you that your information and data is safe with Us. We employ highest standard of physical and electronic measures to protect the safety, security and secrecy of your personal information.
 
 We recommend you read this Privacy Policy (the “Privacy Policy”) carefully as it contains important information about what to expect when CompareTV, acting as data controller, collects personal information about you and how CompareTV will use your personal data.
 
@@ -22,7 +22,7 @@ You hereby consent and authorise CompareTV to use your personal information for 
 
 In order to be able to use the Service, You do not need to register but we are building an email database for newsletters. Should you wish to sign up for such newsletter We will ask for your first and last name as well as your email address.
 
-While using the Service We automatically record information from your Device and its software as well as your activity using the Service, including, but with no limitation to, your Device Internet Protocol address (the “IP address”), browser type, the web page visited before You were redirected or came to our website, information you search for on our website, identification numbers associated with Your Device(s), browser type and version, operating system, referral source, length of visit, page views, website navigation, Your locale preferences, system configuration information, your mobile carrier, other interactions with the Service, and other data recorded by Google Analytics that You ca read more about here: <https://support.google.com/analytics/answer/6004245?hl=en>.
+While using the Service We automatically record information from your Device and its software as well as your activity using the Service, including, but with no limitation to, your Device Internet Protocol address (the “IP address”), browser type, the web page visited before You were redirected or came to our website, information you search for on our website, identification numbers associated with Your Device(s), browser type and version, operating system, referral source, length of visit, page views, website navigation, Your locale preferences, system configuration information, your mobile carrier, other interactions with the Service, and other data recorded by Google Analytics that You can [read more about here.](https://support.google.com/analytics/answer/6004245?hl=en)
 
 ## Why and how We collect and use the information about You
 
@@ -38,19 +38,19 @@ d)     optimise user experience;
 
 e)     optimise Our content;
 
-f)       track conversions on other sites from Our site visitors;
+f)      track conversions on other sites from Our site visitors;
 
 g)     send you non-marketing commercial communications;
 
 h)     send you marketing communications relating to Our businesses further specified in this Privacy Policy;
 
-i)       provide third parties, such as Our media partners with statistical and traffic information about the Users of the Website (those third parties will not be able to identify any individual User from that information);
+i)      provide third parties, such as Our media partners with statistical and traffic information about the Users of the Website (those third parties will not be able to identify any individual User from that information);
 
-j)       deal with enquiries and complaints made by or about you relating to the Website and the Service;
+j)      deal with enquiries and complaints made by or about you relating to the Website and the Service;
 
 k)     keep the Website secure and prevent fraud;
 
-l)       verify compliance with the Terms of Service governing the use of the Website; and
+l)      verify compliance with the Terms of Service governing the use of the Website; and
 
 CompareTV will use contractual or other means to provide a comparable level of protection while the information is being processed by a third party.
 
