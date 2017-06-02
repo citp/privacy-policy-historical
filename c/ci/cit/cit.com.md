@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cit.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023230627id_/https%3A//www.cit.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cit.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602044906id_/https%3A//www.cit.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | CIT
 
@@ -23,7 +23,7 @@ CIT Group Inc. and its affiliates (collectively "CIT," "we," "us," or "our") res
 This Online Privacy Policy ("Policy") explains CIT's online practices to collect, use and share Personal Information from or about you except as otherwise provided in this Policy.  This Policy applies both to any CIT site and/or mobile application that links to this Policy (such sites and/or mobile applications, and all activities thereon, constituting "the Services").  This Policy applies regardless of what computer or device ("computer") you use to access the Services.        
 Throughout this Policy, we refer to nonpublic personal information that can directly and without additional information identify you or your accounts as "Personal Information."  "Personal Information" includes information such as your name, address, email address, or phone number and other information that is not otherwise publicly available (such as your date of birth, Social Security number and financial information).  Please read this Policy carefully.  When you visit this site you consent to the terms of this Policy and the information described herein.     
 
-Any dispute related to this Policy will be governed by our Terms of Use.  
+Any dispute related to this Policy will be governed by our [Terms of Use](https://web.archive.org/terms/ "CIT Terms of Use").  
 
 ##### Personal information we collect
 
