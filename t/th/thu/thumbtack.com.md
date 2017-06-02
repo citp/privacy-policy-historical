@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thumbtack.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201214451id_/https%3A//www.thumbtack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thumbtack.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602023107id_/https%3A//www.thumbtack.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Thumbtack
 
@@ -151,4 +151,4 @@ Our computer systems are currently based in the United States, so your personal 
 
 ### CONTACT US
 
-If you have any questions about the Privacy Policy or the Platform, please contact us by sending an email to [support@thumbtack.com](mailto:support@thumbtack.com), or by writing to: Thumbtack, Inc., 360 9th Street, San Francisco, CA 94103.
+If you have any questions about the Privacy Policy or the Platform, please contact us by sending an email to [support@thumbtack.com](mailto:support@thumbtack.com), or by writing to: Thumbtack, Inc., 1355 Market Street, Suite 600, San Francisco, CA 94103.
