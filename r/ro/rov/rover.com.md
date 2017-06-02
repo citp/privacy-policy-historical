@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rover.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231120607id_/https%3A//www.rover.com/privacy/%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rover.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602185831id_/https%3A//www.rover.com/privacy/%3Fref%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy | Rover.com Dog Boarding
 
