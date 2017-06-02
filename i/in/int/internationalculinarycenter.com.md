@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalculinarycenter.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209025742id_/http%3A//www.internationalculinarycenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalculinarycenter.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602201407id_/http%3A//www.internationalculinarycenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - www.internationalculinarycenter.com
 
