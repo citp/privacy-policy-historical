@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefrugalgirls.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122030343id_/http%3A//thefrugalgirls.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefrugalgirls.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602024048id_/http%3A//thefrugalgirls.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement - The Frugal Girls
 
@@ -31,6 +31,10 @@ For information about opting out of Gourmet Ads and ad serving partners please v
 
 A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
+ 
+
+ 
+
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
 We may use advertising service vendors to help present advertisements on the website, one of which is [http://www.gourmetads.com](http://www.gourmetads.com/). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
@@ -50,3 +54,9 @@ All giveaways hosted at TheFrugalGirls.com are open to U.S. residents age 18 and
 The Frugal Girls may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
 _This policy was last updated: December 2, 2014_
+
+     
+
+   
+
+   
