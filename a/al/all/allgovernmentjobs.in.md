@@ -1,35 +1,114 @@
-> *The following text is extracted and transformed from the allgovernmentjobs.in privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922041656id_/http%3A//www.allgovernmentjobs.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allgovernmentjobs.in privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602161108id_/http%3A//allgovernmentjobs.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy-All Government Jobs
+# Privacy Policy
 
-This Privacy Policy governs the manner in which Blogging Sensor collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.allgovernmentjobs.in/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Blogging Sensor.  
-**Personal identification information**  
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.  
-**Non-personal identification information**  
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.  
-**Web browser cookies**  
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.  
-**How we use collected information**  
-Blogging Sensor collects and uses Users personal information for the following purposes:  
-•    – To personalize user experience  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-•    – To improve our Site  
-We continually strive to improve our website offerings based on the information and feedback we receive from you.  
-•    – To improve customer service  
-Your information helps us to more effectively respond to your customer service requests and support needs.  
-•    – To send periodic emails  
-The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions.  
-**How we protect your information**  
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.  
-**Sharing your personal information**  
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.  
-**Advertising**  
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.  
-**Google Adsense**  
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html  
-**Changes to this privacy policy**  
-Blogging Sensor has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.  
-**Your acceptance of these terms**  
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-This Policy was last updated on December 15, 2014
+What personal information do we collect from the people that visit our blog, website or app?
+
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number or other details to help you with your experience.
+
+When do we collect information?
+
+We collect information from you when you register on our site, subscribe to a newsletter, fill out a form or enter information on our site.  
+How do we use your information?
+
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+
+• To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.  
+• To improve our website in order to better serve you.  
+• To allow us to better service you in responding to your customer service requests.  
+• To administer a contest, promotion, survey or other site feature.  
+• To quickly process your transactions.  
+• To send periodic emails regarding your order or other products and services.
+
+How do we protect visitor information?
+
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+
+We use regular Malware Scanning.
+
+We do not use an SSL certificate  
+• We only provide articles and information, we never ask for personal or private information like email addresses, or credit card numbers.
+
+Third Party Disclosure
+
+Do we disclose the information we collect to Third Parties?  
+We sell,trade, or otherwise transfer to outside parties your name personally identifiable information.  
+Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+Google
+
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+
+We use Google AdSense Advertising on our website.
+
+Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+We have implemented the following:  
+• Remarketing with Google AdSense  
+• Google Display Network Impression Reporting  
+• Demographics and Interests Reporting  
+• DoubleClick Platform Integration
+
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
+
+Opting out:  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+
+California Online Privacy Protection Act
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy.
+
+According to CalOPPA we agree to the following:  
+Users can visit our site anonymously  
+Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.  
+Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
+
+Users will be notified of any privacy policy changes:  
+• On our Privacy Policy Page  
+Users are able to change their personal information:  
+• By emailing us
+
+How does our site handle do not track signals?  
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+Does our site allow third party behavioral tracking?  
+It’s also important to note that we allow third party behavioral tracking
+
+COPPA (Children Online Privacy Protection Act)
+
+When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+We do not specifically market to children under 13.
+
+Fair Information Practices
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:  
+We will notify the users via email  
+• Other  
+30
+
+We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+
+CAN SPAM Act
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+We collect your email address in order to:
+
+To be in accordance with CANSPAM we agree to the following:
+
+If at any time you would like to unsubscribe from receiving future emails, you can email us at  
+and we will promptly remove you from ALL correspondence.  
+Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+http://allgovernmentjobs.in/contact-us/  
+Hyderabad, Telangana 500082  
+India
