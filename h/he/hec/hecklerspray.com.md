@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the hecklerspray.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125211322id_/http%3A//www.hecklerspray.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hecklerspray.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602120945id_/http%3A//www.hecklerspray.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
-This privacy policy describes in detail the types of personal information collected and recorded by **HecklerSpray.com** and how it?s used. If you require any more information or have any questions about our privacy policy, please feel free to contact us by email.
+This privacy policy describes in detail the types of personal information collected and recorded by **HecklerSpray.com** and how it's used. If you require any more information or have any questions about our privacy policy, please feel free to contact us by email.
 
 **Log Files:**
 
