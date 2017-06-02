@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenavagepatch.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120050430id_/http%3A//thenavagepatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenavagepatch.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602161813id_/http%3A//www.thenavagepatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Navage Patch
 
