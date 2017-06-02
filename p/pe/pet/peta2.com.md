@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the peta2.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215195703id_/http%3A//www.peta2.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peta2.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602063835id_/https%3A//www.peta2.com/about-peta2/privacy-policy) for the most accurate reproduction.*
 
-# peta2 Privacy Policy | About peta2 | peta2.com
+# peta2 Privacy Policy | peta2
 
-We at peta2 strongly believe in protecting the privacy of any personal information gathered from our Street Teamers and visitors to peta2.com. Since the protection of your privacy is important to us, we have created this privacy policy to let you know our practices regarding the collection and dissemination of personal information that can be linked to an individual, such as a name, address, phone number, e-mail address, or any other information provided to us by our members and Web site visitors.
+We at peta2 strongly believe in protecting the privacy of any personal information gathered from our peta2 members and visitors to peta2.com. Since the protection of your privacy is important to us, we have created this privacy policy to let you know our practices regarding the collection and dissemination of personal information that can be linked to an individual, such as a name, address, phone number, e-mail address, or any other information provided to us by our members and Web site visitors.
 
 **_Note:_  If you’re under 18, please make sure that your parent or guardian has read and agreed to these terms before you use this site. ‘Cause we don’t want to get yelled at. That would suck.**
 
@@ -11,7 +11,7 @@ We at peta2 strongly believe in protecting the privacy of any personal informati
 In order to participate in some activities, you might be asked to provide some personal information. This could be in connection to any one of the following:
 
   * Sending personalized e-mail messages when participating in action alerts
-  * Registering for peta2′s Street Team
+  * Registering for peta2
   * Signing up for the peta2 message boards
   * Participating in contests, surveys, petitions, information-pack requests, and giveaways
   * Subscribing to  _peta2 E-News_
@@ -24,7 +24,7 @@ We do not collect personal information from our visitors other than what is supp
 
 **How does peta2 use the information gathered from the above sources?**
 
-We use your information to send you details about our campaigns, events, activities, Street Team missions, and alerts.
+We use your information to send you details about our campaigns, events, activities, missions, and alerts.
 
 We also use the information gathered via our Web site to improve your peta2 Web experience. We perform statistical analyses of aggregate user behavior and characteristics in order to measure interest in and use of various areas on our Web sites and to use such information to improve our Web sites’ ability to serve you better.
 
@@ -44,9 +44,13 @@ If you have any questions about peta2 e-news, please e-mail [peta2@peta2.com](m
 
 **How does peta2 protect your information?**
 
-We at peta2 are extremely protective of the information gathered through our Street Team membership and Web site. Our Web site has security measures in place to protect against the loss, misuse, or alteration of the information under our control. Our Web server is located in a locked, secure environment.
+We at peta2 are extremely protective of the information gathered through our peta2 membership and Web site. Our Web site has security measures in place to protect against the loss, misuse, or alteration of the information under our control. Our Web server is located in a locked, secure environment.
 
 When you contribute to peta2 online or make a purchase through the PETA catalog, we use a secure server and encryption to protect your financial and other personal information during transmission.
+
+**What is Slaask?**
+
+Slaask is third party software that you can use to have a quick chat with us. By chatting with us using Slaask, you’re agreeing to Slaask’s collection, storage, and sharing of the information you send to us using Slaask in accordance with the Slaask privacy policy, and are also acknowledging that you’ve read and agree to the Slaask [Terms of Service](https://get.slaask.com/wp-content/uploads/2016/07/Slaask-SAAS-services-agreement.pdf) and [Privacy Policy](https://get.slaask.com/privacy-policy/).
 
 **Additional questions?**
 
