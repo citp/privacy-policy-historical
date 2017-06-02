@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the notgoingtouni.co.uk privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207152307id_/http%3A//www.notgoingtouni.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notgoingtouni.co.uk privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603001137id_/https%3A//www.notgoingtouni.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NotGoingtoUni - NGTU
 
-[www.notgoingtouni.co.uk](http://www.notgoingtouni.co.uk/) and [www.notgoingtouni.com](http://www.notgoingtouni.com/) (" **Website** ") are owned and operated by _not going to uni Limited_ (" **NGtU/we/us** ") (company number: 06464163). Our registered office is: 
+[www.notgoingtouni.co.uk](https://www.notgoingtouni.co.uk/) and [www.notgoingtouni.com](https://www.notgoingtouni.com/) (" **Website** ") are owned and operated by _not going to uni Limited_ (" **NGtU/we/us** ") (company number: 06464163). Our registered office is: 
 
 Not Going to Uni Limited,   
 3 Wey Court, Mary Road , Guildford, Surrey GU1 4QU 
