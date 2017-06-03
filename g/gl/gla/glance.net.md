@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glance.net privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112121508id_/https%3A//ww2.glance.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glance.net privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604010502id_/https%3A//ww2.glance.net/privacy-policy) for the most accurate reproduction.*
 
 # Glance Networks, Inc. - Glance Networks Inc
 
