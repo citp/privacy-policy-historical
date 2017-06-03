@@ -1,21 +1,21 @@
-<!--The following is the downloaded HTML source of the mku.com privacy policy that was archived on 2015-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151216062819id_/http%3A//www.mku.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mku.com privacy policy that was archived on 2017-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170603162742id_/http%3A//www.mku.com/en/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head id="Head1"><meta charset="utf-8"><title>
-	Privacy Policy - MKU
+	MKU Privacy Policy
 </title><meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Loading Bootstrap -->
-    <link href="assets/css/vendor/bootstrap.min.css" rel="stylesheet"><link href="assets/css/style.css" rel="stylesheet"><link href="assets/css/animate.css" rel="stylesheet">
+    <link href="http://www.mku.com/assets/css/vendor/bootstrap.min.css" rel="stylesheet">
+    <link href="http://www.mku.com/assets/css/style.css" rel="stylesheet">
+    <link href="http://www.mku.com/assets/css/animate.css" rel="stylesheet">
     <!-- Loading Flat UI -->
-    <link href="assets/css/flat-ui.min.css" rel="stylesheet"><link href="https://fonts.googleapis.com/css?family=Exo+2:400,300" rel="stylesheet" type="text/css"><link href="https://fonts.googleapis.com/css?family=Roboto:400,100" rel="stylesheet" type="text/css"><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"><link rel="shortcut icon" href="assets/img/favicon.ico">
+    <link href="http://www.mku.com/assets/css/flat-ui.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Exo+2:400,300" rel="stylesheet" type="text/css"><link href="https://fonts.googleapis.com/css?family=Roboto:400,100" rel="stylesheet" type="text/css"><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="shortcut icon" href="http://www.mku.com/assets/img/favicon.ico">
 
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
-    <!--[if lt IE 9]>
-      <script src="js/vendor/html5shiv.js"></script>
-      <script src="js/vendor/respond.min.js"></script>
-    <![endif]-->
+    <link id="linken" rel="alternate" href="http://www.mku.com/en/Privacy-Policy" hreflang="x-default"><link id="linkfr" rel="alternate" href="http://www.mku.com/fr/Privacy-Policy" hreflang="fr-fr"><link id="linkde" rel="alternate" href="http://www.mku.com/de/Privacy-Policy" hreflang="de-de"><link id="linkes" rel="alternate" href="http://www.mku.com/es/Privacy-Policy" hreflang="es-es"><link id="linkru" rel="alternate" href="http://www.mku.com/ru/Privacy-Policy" hreflang="ru-ru">
 
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script type="text/javascript">
         function SubscriptionAlert() {
             var Email = document.getElementById("txtEmail").value.trim();
             var filter = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
@@ -24,39 +24,74 @@
                 Email.focus;
                 return false;
             }
-           else if (!filter.test(Email)) {
+            else if (!filter.test(Email)) {
                 alert('Please provide a valid email address');
                 Email.focus;
                 return false;
-           }
-           else
-           {
-               $.ajax({
-                   type: "GET",
-                   url: "newsletter.aspx",
-                   data: "semail=" + $("#txtEmail").val(),
-                   cache: false,
-                   success: function (msg) {
-                       //alert(msg);
-                       if (msg == "ok") {
-                           $("#dvsignupthanks").show();
-                           $("#dvsignup").hide();
-                       }
-                       else {
-                           alert('Please provide a valid email address');
-                           Email.focus;
-                       }
-                   }
-               });
-               return false;
-           }
+            }
+            else {
+                $.ajax({
+                    type: "GET",
+                    url: "newsletter.aspx",
+                    data: "semail=" + $("#txtEmail").val(),
+                    cache: false,
+                    success: function (msg) {
+
+                        if (msg == "ok") {
+                            $("#dvsignupthanks").show();
+                            $("#dvsignup").hide();
+                        }
+                        else {
+                            alert('Please provide a valid email address');
+                            Email.focus;
+                        }
+                    }
+                });
+                return false;
+            }
         }
     </script>
     
-<meta name="keywords" content="privacy policy, mku">
-<meta name="Description" content="The privacy policy is committed to protects your personal privacy and outlines the types of information that are collected by MKU on its website, and how we use and protect it. ">
 
-    <script src="assets/js/vendor/jquery.min.js"></script>
+    <!-- Twitter universal website tag code -->
+
+    <script>
+        !function (e, t, n, s, u, a) {
+            e.twq || (s = e.twq = function () {
+                s.exe ? s.exe.apply(s, arguments) : s.queue.push(arguments);
+            }, s.version = '1.1', s.queue = [], u = t.createElement(n), u.async = !0, u.src = '//static.ads-twitter.com/uwt.js',
+            a = t.getElementsByTagName(n)[0], a.parentNode.insertBefore(u, a))
+        }(window, document, 'script');
+        // Insert Twitter Pixel ID and Standard Event data below
+        twq('init', 'nvyyx');
+        twq('track', 'PageView');
+    </script>
+
+    <!-- End Twitter universal website tag code -->
+
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+            n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1741564146165334');
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" src="https://www.facebook.com/tr?id=1741564146165334&ev=PageView&noscript=1" />
+    </noscript>
+    <!-- End Facebook Pixel Code -->
+    
+    
+
+    <script src="http://www.mku.com/assets/js/vendor/jquery.min.js"></script>
     <script>
         (function (i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
@@ -64,304 +99,400 @@
             }, i[r].l = 1 * new Date(); a = s.createElement(o),
   m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
         })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
+        function GAEventClick(element) {
+         // alert(element);
+            ga('send', 'event', element, 'click', element);
+        }
         ga('create', 'UA-11580818-10', 'mku.com');
         ga('send', 'pageview');
-
+        function GAEventClickProductSlider(element) {
+         // alert(element);
+            ga('send', 'event', element, 'click', element);
+        }
     </script>
+
     <style>
-        .mainconafh span p {
+        .mainconafh span p
+        {
             line-height: 16px !important;
         }
-    </style>
-</head>
-<body>
-    <form method="post" action="/PrivacyPolicy.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRk3YCi8WT53och5OaUVBd2Y8b9TfilmMFjVZRthDuC0t4=">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwL56ZDOBgKdj8gbAvKs7KMKLTIO3KvLoLmkIzjkKjrL3o5VZWz2a++e9QZE4vb2L3c=">
-        <section class="main_video_con" id="foo2">
-            <header>
+        .heroes
+        {
+            position: fixed;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            z-index: 25;
+            width: 250px;
+            height: 456px;
+        }
+
+        .closebt
+        {
+            position: absolute;
+            right: 2px;
+            top: 3px;
+            z-index: 26;
+        }
+    </style>
+
+<meta http-equiv="keywords" name="keywords" content="privacy policy, mku"><meta http-equiv="description" name="description" content="The privacy policy is committed to protects your personal privacy and outlines the types of information that are collected by MKU on its website, and how we use and protect it."></head>
+
+<body id="bodyClassLanguage" class="ruBody">
+
+   
+
+    <div class="media_icon">
+        <a class="one" href="https://www.facebook.com/mkuglobal/" target="_blank" onclick="GAEventClick('Facebook')"></a>
+        <a class="two" href="https://www.linkedin.com/company/mku-p-ltd.?trk=nav_account_sub_nav_company_admin" target="_blank" onclick="GAEventClick('Linkedin')"></a>
+        <a class="three" href="https://www.instagram.com/mku_official/?hl=en" target="_blank" onclick="GAEventClick('Instagram')"></a>
+        <a class="four" href="https://twitter.com/MKUofficial" target="_blank" onclick="GAEventClick('Tiwitter')"></a>
+        <a class="five" href="https://plus.google.com/111452680086434937094" target="_blank" onclick="GAEventClick('Google plus')"></a>
+    </div>
+
+    <form method="post" action="./Privacy-Policy" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTU1MTkwNjMzMA9kFgJmD2QWBAIBD2QWEAIDDxUEE2h0dHA6Ly93d3cubWt1LmNvbS8TaHR0cDovL3d3dy5ta3UuY29tLxNodHRwOi8vd3d3Lm1rdS5jb20vE2h0dHA6Ly93d3cubWt1LmNvbS9kAgcPFQETaHR0cDovL3d3dy5ta3UuY29tL2QCCA8WAh4EaHJlZgUkaHR0cDovL3d3dy5ta3UuY29tL2VuL1ByaXZhY3ktUG9saWN5ZAIJDxYCHwAFJGh0dHA6Ly93d3cubWt1LmNvbS9mci9Qcml2YWN5LVBvbGljeWQCCg8WAh8ABSRodHRwOi8vd3d3Lm1rdS5jb20vZGUvUHJpdmFjeS1Qb2xpY3lkAgsPFgIfAAUkaHR0cDovL3d3dy5ta3UuY29tL2VzL1ByaXZhY3ktUG9saWN5ZAIMDxYCHwAFJGh0dHA6Ly93d3cubWt1LmNvbS9ydS9Qcml2YWN5LVBvbGljeWQCDw8VARNodHRwOi8vd3d3Lm1rdS5jb20vZAIDDxYCHgVjbGFzcwUGcnVCb2R5FgRmD2QWBGYPZBY2Zg8VARNodHRwOi8vd3d3Lm1rdS5jb20vZAIBDxUBE2h0dHA6Ly93d3cubWt1LmNvbS9kAgIPFQETaHR0cDovL3d3dy5ta3UuY29tL2QCAw8VARNodHRwOi8vd3d3Lm1rdS5jb20vZAIEDxUBE2h0dHA6Ly93d3cubWt1LmNvbS9kAgUPFQETaHR0cDovL3d3dy5ta3UuY29tL2QCBg8VARNodHRwOi8vd3d3Lm1rdS5jb20vZAIHDxUBE2h0dHA6Ly93d3cubWt1LmNvbS9kAggPFQETaHR0cDovL3d3dy5ta3UuY29tL2QCCQ8VARNodHRwOi8vd3d3Lm1rdS5jb20vZAIKDxUBE2h0dHA6Ly93d3cubWt1LmNvbS9kAgsPFQETaHR0cDovL3d3dy5ta3UuY29tL2QCDA8VARNodHRwOi8vd3d3Lm1rdS5jb20vZAINDxUBE2h0dHA6Ly93d3cubWt1LmNvbS9kAg4PFQETaHR0cDovL3d3dy5ta3UuY29tL2QCDw8VARNodHRwOi8vd3d3Lm1rdS5jb20vZAIQDxUBE2h0dHA6Ly93d3cubWt1LmNvbS9kAhEPFQETaHR0cDovL3d3dy5ta3UuY29tL2QCEg8VARNodHRwOi8vd3d3Lm1rdS5jb20vZAITDxUBE2h0dHA6Ly93d3cubWt1LmNvbS9kAhQPFQETaHR0cDovL3d3dy5ta3UuY29tL2QCGg8WAh4JaW5uZXJodG1sBa8GPGEgaWQ9ImFua1J1c3NpYW4iIGNsYXNzPSJtYWlubGluayI+IFJ1c3NpYW4gPGltZyBzcmM9Imh0dHA6Ly93d3cubWt1LmNvbS9pbWcvcnVzc2lhLWZsYWcucG5nIi8+PC9hPjx1bD48bGk+PGEgaWQ9ImFua0VuZ2xpc2giIGhyZWY9ImphdmFzY3JpcHQ6X19kb1Bvc3RCYWNrKCYjMzk7Y3RsMDAkbG5rRW5nbGlzaCYjMzk7LCYjMzk7JiMzOTspIiBjbGFzcz0ibWFpbmxpbmsiPiBFbmdsaXNoIDxpbWcgc3JjPSJodHRwOi8vd3d3Lm1rdS5jb20vaW1nL2ZsYWcucG5nIi8+PC9hPjwvbGk+PGxpPjxhIGlkPSJhbmtGcmVuY2giICBocmVmPSJqYXZhc2NyaXB0Ol9fZG9Qb3N0QmFjaygmIzM5O2N0bDAwJGxua0ZyZW5jaCYjMzk7LCYjMzk7JiMzOTspIiBjbGFzcz0ibWFpbmxpbmsiPiBGcmVuY2ggIDxpbWcgc3JjPSJodHRwOi8vd3d3Lm1rdS5jb20vaW1nL2ZyZW5jaC1mbGFnLnBuZyIvPjwvYT48L2xpPjxsaT48YSBpZD0iYW5rR2VybWFuIiAgaHJlZj0iamF2YXNjcmlwdDpfX2RvUG9zdEJhY2soJiMzOTtjdGwwMCRsbmtHZXJtYW4mIzM5OywmIzM5OyYjMzk7KSIgY2xhc3M9Im1haW5saW5rIj4gR2VybWFuICA8aW1nIHNyYz0iaHR0cDovL3d3dy5ta3UuY29tL2ltZy9nZXJtYW4tZmxhZy5wbmciLz48L2E+PC9saT48bGk+PGEgaWQ9ImFua1NwYW5pc2giIGhyZWY9ImphdmFzY3JpcHQ6X19kb1Bvc3RCYWNrKCYjMzk7Y3RsMDAkbG5rU3BhbmlzaCYjMzk7LCYjMzk7JiMzOTspIiBjbGFzcz0ibWFpbmxpbmsiPiBTcGFuaXNoIDxpbWcgc3JjPSJodHRwOi8vd3d3Lm1rdS5jb20vaW1nL3NwYWluLWZsYWcucG5nIi8+PC9hPjwvbGk+PC91bD5kAhsPFQETaHR0cDovL3d3dy5ta3UuY29tL2QCHA8VARNodHRwOi8vd3d3Lm1rdS5jb20vZAIdDxUBE2h0dHA6Ly93d3cubWt1LmNvbS9kAh4PFQETaHR0cDovL3d3dy5ta3UuY29tL2QCHw8VARNodHRwOi8vd3d3Lm1rdS5jb20vZAIED2QWAgIBDxYCHgRUZXh0BbVyDQogICAgICA8c2VjdGlvbiBjbGFzcz0idG9wLWJhbm5lciBiZHJidG0iPiAgICAgICAgICA8ZGl2IGNsYXNzPSJQcmVzc3JlbGVzZSI+ICAgICAgICAgICAgICA8aDE+UHJpdmFjeSBQb2xpY3k8L2gxPiAgICAgICAgICA8L2Rpdj4gICAgICA8L3NlY3Rpb24+ICAgICAgPHN0eWxlPiAgICAgICAgICAucHJpb3ZlZHkgaDEgICAgICAgICAgeyAgICAgICAgICAgICAgZm9udC1zaXplOiAzMHB4ICFpbXBvcnRhbnQ7ICAgICAgICAgIH0gICAgICAgICAgLnByaW92ZWR5IGgyICAgICAgICAgIHsgICAgICAgICAgICAgIGZvbnQtc2l6ZTogMzBweDsgICAgICAgICAgICAgIG1hcmdpbjogMDsgICAgICAgICAgICAgIHBhZGRpbmc6IDA7ICAgICAgICAgIH0gICAgICAgICAgLnByaW92ZWR5IHN0cm9uZyAgICAgICAgICB7ICAgICAgICAgICAgICBmb250LXNpemU6IDE4cHggIWltcG9ydGFudDsgICAgICAgICAgICAgIGxpbmUtaGVpZ2h0OiAzMHB4ICFpbXBvcnRhbnQ7ICAgICAgICAgIH0gICAgICA8L3N0eWxlPiAgICAgIDxzZWN0aW9uIGNsYXNzPSJyb3cgY29uX3NlYyI+ICAgICAgICAgIDxkaXYgY2xhc3M9InJvd19mbHVpZCI+ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwb3N0X2NvbCBwcmVfY29sIHBvc3RfY29sIHByZV9jb2wgcHJlX2NvbF9hbHRyIHByaW92ZWR5Ij4gICAgICAgICAgICAgICAgICBUaGUgd2Vic2l0ZSB5b3UgaGF2ZSBlbnRlcmVkIGlzIG9wZXJhdGVkIGJ5IE0vcyBNS1UgTGltaXRlZCwgaGF2aW5nIGl0cyBwbGFjZSBvZiBidXNpbmVzcyBzaXR1YXRlZCBhdCAxMywgR2FuZGhpIEdyYW0sIEcuVC4gUm9hZCwgS2FucHVyLTIwODAwNywgVS5QLiwgSW5kaWEsIGhlcmVpbmFmdGVyIGtub3duIGFzIOKAnE1LVSIuIFRoZSBwcml2YWN5IHN0YXRlbWVudCBiZWxvdyBjb3ZlcnMgdGhlIHNpdGUgd3d3Lm1rdS5jb20uIE1LVSBpcyBjb21taXR0ZWQgdG8gcHJvdGVjdGluZyB5b3VyIHBlcnNvbmFsIHByaXZhY3kuIFRoaXMgUHJpdmFjeSBQb2xpY3kgb3V0bGluZXMgdGhlIHR5cGVzIG9mIGluZm9ybWF0aW9uIHRoYXQgYXJlIGNvbGxlY3RlZCBieSBNS1Ugb24gaXRzIHdlYnNpdGUsIGFuZCBob3cgd2UgdXNlIGFuZCBwcm90ZWN0IGl0LiANCiAgICAgIFRoaXMgUG9saWN5IGFsc28gZXhwbGFpbnMgdGhlIGNob2ljZXMgdGhhdCB5b3UgY2FuIG1ha2UgYWJvdXQgdGhlIHdheSB5b3VyIGluZm9ybWF0aW9uIGlzIGNvbGxlY3RlZCBhbmQgdXNlZC4gVGhpcyBQb2xpY3kgYXBwbGllcyBvbmx5IHRvIHd3dy5ta3UuY29tLCBhbmQgaXQgZG9lcyBub3QgYXBwbHkgdG8gYmFubmVycywgDQogICAgICBzd2VlcHN0YWtlcyBhbmQgb3RoZXIgYWR2ZXJ0aXNlbWVudHMgb3IgcHJvbW90aW9ucyB0aGF0IHdlIG1heSBzcG9uc29yIG9yIHBhcnRpY2lwYXRlIGluIG9uIHdlYiBzaXRlcyBvd25lZCBieSB0aGlyZCBwYXJ0aWVzLiBTb21lIHNlcnZpY2VzIG1lbnRpb25lZCBpbiB0aGlzIHN0YXRlbWVudCBtYXkgbm90IGJlIA0KICAgICAgYXZhaWxhYmxlIGF0IHRoaXMgdGltZS48YnIgLz4gICAgICAgICAgICAgICAgICA8YnIgLz4gICAgICAgICAgICAgICAgICA8aDI+SW5mb3JtYXRpb24gQ29sbGVjdGlvbiBhbmQgVXNlPC9oMj4gICAgICAgICAgICAgICAgICA8YnI+ICAgICAgICAgICAgICAgICAgDQogICAgICA8c3Ryb25nPkluZm9ybWF0aW9uIENvbGxlY3Rpb248L3N0cm9uZz48YnI+ICAgICAgICAgICAgICAgICAgTUtVIGlzIHRoZSBzb2xlIG93bmVyIG9mIHRoZSBpbmZvcm1hdGlvbiBjb2xsZWN0ZWQgb24gd3d3Lm1rdS5jb20uIA0KICAgICAgTUtVIGNvbGxlY3RzIFBlcnNvbmFsIEluZm9ybWF0aW9uIGZyb20gdXNlcnMgYXQgc2V2ZXJhbCBwb2ludHMgb24gb3VyIHdlYiBzaXRlLiBBcyB1c2VkIGluIHRoaXMgUHJpdmFjeSBQb2xpY3ksICJQZXJzb25hbCBJbmZvcm1hdGlvbiIgbWVhbnMgYW55IGluZm9ybWF0aW9uIHRoYXQgaXMgbGlua2VkIHRvIFVzZXIncyANCiAgICAgIGlkZW50aXR5IHN1Y2ggYXMgTmFtZSwgQWRkcmVzcywgVGVsZXBob25lIG51bWJlciBhbmQgRW1haWwgYWRkcmVzcyBldGMuICAgICAgICAgICAgICAgICAgPGJyPiAgICAgICAgICAgICAgICAgIDxicj4gICAgICAgICAgICAgICAgICA8c3Ryb25nPkVucXVpcnk8L3N0cm9uZz48YnI+ICAgICAgICAgICAgICAgICAgDQogICAgICBXZSByZXF1ZXN0IGluZm9ybWF0aW9uIGZyb20gdGhlIHVzZXIgb24gb3VyIGVucXVpcnkgZm9ybS4gQSB1c2VyIG11c3QgcHJvdmlkZSBjb250YWN0IGluZm9ybWF0aW9uIChzdWNoIGFzIG5hbWUsIGVtYWlsLCBhZGRyZXNzIGV0Yy4pLg0KICAgICAgIFRoaXMgaW5mb3JtYXRpb24gaXMgdXNlZCBmb3IgbWFpbGluZyBwdXJwb3NlLCB0byBmdWxmaWxsIGN1c3RvbWVyJ3MgZW5xdWlyeSBhbmQgdG8gY29udGFjdCB3aGVuIHJlcXVpcmVkLiAgICAgICAgICAgICAgICAgIDxicj4gICAgICAgICAgICAgICAgICA8YnI+ICAgICAgICAgICAgICAgICAgPHN0cm9uZz5JbmZvcm1hdGlvbiBVc2U8L3N0cm9uZz48YnI+ICAgICAgICAgICAgICAgICAgSW5mb3JtYXRpb24gaXMgY29sbGVjdGVkIGZyb20gdGhlIHVzZXIgYW5kIHVzZWQgcHJpbWFyaWx5IGZvciB0aGUgcHVycG9zZSBvZiByZXBseWluZyB0byBjdXN0b21lcidzIGVucXVpcnkuIA0KICAgICAgIEluIGFkZGl0aW9uIHRvIHRoZSBwcmltYXJ5IHB1cnBvc2VzIGZvciB3aGljaCBwZXJzb25hbCBpbmZvcm1hdGlvbiBpcyBjb2xsZWN0ZWQsIHdlIG1heSB1c2UgdGhlIHBlcnNvbmFsIGluZm9ybWF0aW9uIHRvIGNvbnRhY3QgYSB1c2VyIHRvIGNvbmZpcm0gaW5mb3JtYXRpb24gcmVsYXRlZCB0byBhIHB1cmNoYXNlIG9yZGVyLiAgICAgICAgICAgICAgICAgIDxicj4gICAgICAgICAgICAgICAgICA8YnI+ICAgICAgICAgICAgICAgICAgPHN0cm9uZz5XZSBtYXkgYWxzbyB1c2UgVXNlcidzIGluZm9ybWF0aW9uIGZvcjo8L3N0cm9uZz48YnI+ICAgICAgICAgICAgICAgICAgPHVsPiAgICAgICAgICAgICAgICAgICAgICANCiAgICAgICA8bGk+T3VyIGludGVybmFsIHN1cnZleXMgdG8gb2J0YWluIGZlZWRiYWNrIG9uIG91ciBwcm9kdWN0LCBzZXJ2aWNlcywgb3VyIHdlYiBzaXRlLCBvciBvbiBvdGhlciBhc3BlY3RzIG9mIG91ciBidXNpbmVzcyB0aGF0IGltcGFjdCB5b3UgYXMgYSBNS1UgY3VzdG9tZXI7PC9saT4gICAgICAgICAgICAgICAgICAgICAgPGxpPlRvIHByb21vdGUgb3RoZXIgcHJvZHVjdHMgYW5kIHNlcnZpY2VzIHRoYXQgd2UgdGhpbmsgbWF5IGJlIG9mIFVzZXIncyBpbnRlcmVzdDs8L2xpPiAgICAgICAgICAgICAgICAgICAgICA8bGk+VG8gc2VuZCBwcm9tb3Rpb25hbCBtYXRlcmlhbHM7PC9saT4gICAgICAgICAgICAgICAgICAgICANCiAgICAgICAgPGxpPlRvIHByb3ZpZGUgb3VyIGZyZWUgZW1haWwgbmV3c2xldHRlcnM7PC9saT4gICAgICAgICAgICAgICAgICA8L3VsPiAgICAgICAgICAgICAgICAgIDxicj4gICAgICAgICAgICAgICAgICA8c3Ryb25nPlByb2ZpbGU8L3N0cm9uZz48YnI+ICAgICAgICAgICAgICAgICAgV2Ugc3RvcmUgaW5mb3JtYXRpb24gdGhhdCB3ZSBjb2xsZWN0IHRocm91Z2ggY29va2llcywgbG9nIGZpbGVzLCBjbGVhciBnaWZzLCBhbmQvb3IgdGhpcmQgcGFydGllcyB0byBjcmVhdGUgYSBwcm9maWxlIG9mIG91ciB1c2Vycy4gQSBwcm9maWxlIGlzIHN0b3JlZCBpbmZvcm1hdGlvbiB0aGF0IHdlIGtlZXAgb24gaW5kaXZpZHVhbCB1c2VycyB0aGF0IGRldGFpbCB0aGVpciB2aWV3aW5nIHByZWZlcmVuY2VzLiBDb25zZXF1ZW50bHksIGNvbGxlY3RlZCBpbmZvcm1hdGlvbiBpcyB0aWVkIHRvIHRoZSB1c2Vy4oCZcyBwZXJzb25hbGx5IGlkZW50aWZpYWJsZSBpbmZvcm1hdGlvbiB0byBwcm92aWRlIG9mZmVycyBhbmQgaW1wcm92ZSB0aGUgY29udGVudCBvZiB0aGUgc2l0ZSBmb3IgdGhlIHVzZXIuIA0KICAgICAgICBUaGlzIHByb2ZpbGUgaXMgdXNlZCB0byB0YWlsb3IgYSB1c2VyJ3MgdmlzaXQgdG8gb3VyIFdlYiBzaXRlIGFuZCB0byBkaXJlY3QgcGVydGluZW50IG1hcmtldGluZyBwcm9tb3Rpb25zIHRvIHRoZW0uIFdlIGRvIG5vdCBzaGFyZSB5b3VyIHByb2ZpbGUgd2l0aCBvdGhlciB0aGlyZCBwYXJ0aWVzLsKgICAgICAgICAgICAgICAgICAgPGJyPiAgICAgICAgICAgICAgICAgIDxicj4gICAgICAgICAgICAgICAgICA8aDI+Q29tbXVuaWNhdGlvbnMgZnJvbSB0aGUgU2l0ZTwvaDI+ICAgICAgICAgICAgICAgICAgPGJyPiAgICAgICAgICAgICAgICAgICAgPHN0cm9uZz5TcGVjaWFsIE9mZmVycyBhbmQgVXBkYXRlczwvc3Ryb25nPjxicj4gICAgICAgICAgICAgICAgICBNZW1iZXJzIHdpbGwgb2NjYXNpb25hbGx5IHJlY2VpdmUgaW5mb3JtYXRpb24gb24gcHJvZHVjdHMsIHNlcnZpY2VzLCBzcGVjaWFsIGRlYWxzLCBhbmQgbmV3c2xldHRlcnMuIE91dCBvZiByZXNwZWN0IGZvciB0aGUgcHJpdmFjeSBvZiBvdXIgdXNlcnMgd2UgcHJvdmlkZSB0aGUgb3B0aW9uIHRvIG5vdCByZWNlaXZlIHRoZXNlIHR5cGVzIG9mIGNvbW11bmljYXRpb25zLiBQbGVhc2Ugc2VlIHRoZSBDaG9pY2UgYW5kIE9wdC1vdXQgc2VjdGlvbnMuICAgICAgICAgICAgICAgICAgPGJyPiAgICAgICAgICAgICAgICAgIDxicj4gICAgICAgICAgICAgICAgICA8c3Ryb25nPk5ld3NsZXR0ZXI8L3N0cm9uZz48YnI+ICAgICAgICAgICAgICAgICAgSWYgYSB1c2VyIHdpc2hlcyB0byBzdWJzY3JpYmUgdG8gb3VyIG5ld3NsZXR0ZXIsIHdlIGFzayBmb3IgY29udGFjdCBpbmZvcm1hdGlvbiBzdWNoIGFzIG5hbWUgYW5kIGVtYWlsIGFkZHJlc3MuIE91dCBvZiByZXNwZWN0IGZvciBvdXIgdXNlcnMgcHJpdmFjeSB3ZSBwcm92aWRlIGEgd2F5IHRvIG9wdC1vdXQgb2YgdGhlc2UgY29tbXVuaWNhdGlvbnMuIFBsZWFzZSBzZWUgdGhlIENob2ljZSBhbmQgT3B0LW91dCBzZWN0aW9ucy4gU2VydmljZSBBbm5vdW5jZW1lbnRzICAgICAgICAgICAgICAgICAgPGJyIC8+ICAgICAgICAgICAgICAgICAgT24gcmFyZSBvY2Nhc2lvbnMgaXQgaXMgbmVjZXNzYXJ5IHRvIHNlbmQgb3V0IGEgc3RyaWN0bHkgc2VydmljZSByZWxhdGVkIGFubm91bmNlbWVudHMuIEZvciBpbnN0YW5jZSwgaWYgb3VyIHNlcnZpY2UgaXMgdGVtcG9yYXJpbHkgc3VzcGVuZGVkIGZvciBtYWludGVuYW5jZSB3ZSBtaWdodCBzZW5kIHVzZXJzIGFuIGVtYWlsLiBHZW5lcmFsbHksIHVzZXJzIG1heSBub3Qgb3B0LW91dCBvZiB0aGVzZSBjb21tdW5pY2F0aW9ucywgdGhvdWdoIHRoZXkgY2FuIGRlYWN0aXZhdGUgdGhlaXIgYWNjb3VudC4gSG93ZXZlciwgdGhlc2UgY29tbXVuaWNhdGlvbnMgYXJlIG5vdCBwcm9tb3Rpb25hbCBpbiBuYXR1cmUuIFVzZXJzIG1heSBvcHQtb3V0IG9mIHRoZXNlIGNvbW11bmljYXRpb25zLiBQbGVhc2Ugc2VlIG91ciBDaG9pY2UgYW5kIE9wdC1vdXQgc2VjdGlvbi7CoCAgICAgICAgICAgICAgICAgIDxicj4gICAgICAgICAgICAgICAgICA8YnI+ICAgICAgICAgICAgICAgICAgPGgyPlNoYXJpbmc8L2gyPiAgICAgICAgICAgICAgICAgIDxicj4gICAgICAgICAgICAgICAgICA8c3Ryb25nPkxlZ2FsIERpc2NsYWltZXI8L3N0cm9uZz48YnI+ICAgICAgICAgICAgICAgICAgVGhvdWdoIHdlIG1ha2UgZXZlcnkgZWZmb3J0IHRvIHByZXNlcnZlIHVzZXIgcHJpdmFjeSwgd2UgbWF5IG5lZWQgdG8gZGlzY2xvc2UgcGVyc29uYWwgaW5mb3JtYXRpb24gd2hlbiByZXF1aXJlZCBieSBsYXcgd2hlcmVpbiB3ZSBoYXZlIGEgZ29vZC1mYWl0aCBiZWxpZWYgdGhhdCBzdWNoIGFjdGlvbiBpcyBuZWNlc3NhcnkgdG8gY29tcGx5IHdpdGggYSBjdXJyZW50IGp1ZGljaWFsIHByb2NlZWRpbmcsIGEgY291cnQgb3JkZXIgb3IgbGVnYWwgcHJvY2VzcyBzZXJ2ZWQgb24gb3VyIFdlYiBzaXRlLiAgICAgICAgICAgICAgICAgIDxicj4gICAgICAgICAgICAgICAgICA8YnI+ICAgICAgICAgICAgICAgICAgPHN0cm9uZz5BZ2dyZWdhdGUgSW5mb3JtYXRpb24gKG5vbi1wZXJzb25hbGx5IGlkZW50aWZpYWJsZSk8L3N0cm9uZz48YnI+ICAgICAgICAgICAgICAgICAgV2Ugc2hhcmUgYWdncmVnYXRlZCBkZW1vZ3JhcGhpYyBpbmZvcm1hdGlvbiB3aXRoIG91ciBwYXJ0bmVycyBhbmQgYWR2ZXJ0aXNlcnMuIFRoaXMgaXMgbm90IGxpbmtlZCB0byBhbnkgcGVyc29uYWxseSBpZGVudGlmaWFibGUgaW5mb3JtYXRpb24uwqAgICAgICAgICAgICAgICAgICA8YnI+ICAgICAgICAgICAgICAgICAgPGJyPiAgICAgICAgICAgICAgICAgIDxzdHJvbmc+VGhpcmQgUGFydHkgQWR2ZXJ0aXNlcnPCoDwvc3Ryb25nPiAgICAgICAgICAgICAgICAgIDxicj4gICAgICAgICAgICAgICAgICBNS1Ugc2hhcmVzIFdlYiBzaXRlIHVzYWdlIGluZm9ybWF0aW9uIGFib3V0IHVzZXJzIHdpdGggYSByZXB1dGFibGUgdGhpcmQgcGFydHkgYW5kIGl0cyB0ZWNobmljYWwgUGFydG5lciBmb3IgdGhlIHB1cnBvc2Ugb2YgdGFyZ2V0aW5nIG91ciBJbnRlcm5ldCBiYW5uZXIgYWR2ZXJ0aXNlbWVudHMgb24gb3RoZXIgd2ViIHNpdGVzLsKgICAgICAgICAgICAgICAgICAgPGJyPiAgICAgICAgICAgICAgICAgIDxicj4gICAgICAgICAgICAgICAgICA8c3Ryb25nPlNlcnZpY2UgUHJvdmlkZXJzPC9zdHJvbmc+PGJyPiAgICAgICAgICAgICAgICAgIFdlIHBhcnRuZXIgd2l0aCBvdGhlciB0aGlyZCBwYXJ0aWVzIHRvIHByb3ZpZGUgc3BlY2lmaWMgc2VydmljZXMgbGlrZSBEaXJlY3QgTWFpbGluZyBjYW1wYWlnbnMsIGJvdGggcG9zdGFsIG1haWxzIGFuZCBlLU1haWxzLiBXaGVuIHRoZSB1c2VyIHNpZ25zIHVwIGZvciB0aGVzZSBwYXJ0aWN1bGFyIHNlcnZpY2VzLCB3ZSBzaGFyZSBuYW1lcywgb3Igb3RoZXIgY29udGFjdCBpbmZvcm1hdGlvbiB0aGF0IGlzIG5lY2Vzc2FyeSBmb3IgdGhlIHRoaXJkIHBhcnR5IHRvIHByb3ZpZGUgdGhlc2Ugc2VydmljZXMuIFRoZXNlIHRoaXJkIHBhcnRpZXMgYXJlIG5vdCBhbGxvd2VkIHRvIHVzZSBwZXJzb25hbGx5IGlkZW50aWZpYWJsZSBpbmZvcm1hdGlvbiBleGNlcHQgZm9yIHRoZSBwdXJwb3NlIG9mIHByb3ZpZGluZyB0aGVzZSBzZXJ2aWNlcy7CoCAgICAgICAgICAgICAgICAgIA0KICAgICAgICA8YnI+ICAgICAgICAgICAgICAgICAgPGJyPiAgICAgICAgICAgICAgICAgIDxzdHJvbmc+QnVzaW5lc3MgVHJhbnNpdGlvbnM8L3N0cm9uZz48YnI+ICAgICAgICAgICAgICAgICAgSW4gdGhlIGV2ZW50IE1LVSBnb2VzIHRocm91Z2ggYSBidXNpbmVzcyB0cmFuc2l0aW9uLCBzdWNoIGFzIGEgbWVyZ2VyLCBiZWluZyBhY3F1aXJlZCBieSBhbm90aGVyIGNvbXBhbnkgb3Igc2VsbGluZyBhIHBvcnRpb24gb2YgaXRzIGFzc2V0cywgdXNlcnMnIHBlcnNvbmFsIGluZm9ybWF0aW9uIHdpbGwsIGluIG1vc3QgaW5zdGFuY2VzIHdpbGwgYmUgcGFydCBvZiB0aGUgYXNzZXRzIHRyYW5zZmVycmVkLCB1c2VycyB3aWxsIGJlIG5vdGlmaWVkIHZpYSBlbWFpbC9wb3N0YWwgbWFpbCBhbmQgYSBwcm9taW5lbnQgbm90aWNlIHdpbGwgYmUgcHV0IG9uIG91ciBXZWIgc2l0ZSwgMzAgZGF5cyBwcmlvciB0byBjaGFuZ2Ugb2Ygb3duZXJzaGlwIG9yIGNvbnRyb2wgb2YgdGhlaXIgcGVyc29uYWwgaW5mb3JtYXRpb24uIElmIGFzIGEgcmVzdWx0IG9mIHRoZSBidXNpbmVzcyB0cmFuc2l0aW9uLCB0aGUgdXNlcnMnIHBlcnNvbmFsbHkgaWRlbnRpZmlhYmxlIGluZm9ybWF0aW9uIHdpbGwgYmUgdXNlZCBpbiBhIG1hbm5lciBkaWZmZXJlbnQgZnJvbSB0aGF0IHN0YXRlZCBhdCB0aGUgdGltZSBvZiBjb2xsZWN0aW9uIHRoZXkgd2lsbCBiZSBnaXZlbiBjaG9pY2UgY29uc2lzdGVudCB3aXRoIG91ciBub3RpZmljYXRpb24gb2YgY2hhbmdlcyBzZWN0aW9uLsKgICAgICAgICAgICAgICAgICAgPGJyPiAgICAgICAgICAgICAgICAgIDxicj4gICAgICAgICAgICAgICAgICA8c3Ryb25nPkNob2ljZS9PcHQtb3V0PC9zdHJvbmc+ICAgICAgICAgICAgICAgICAgT3VyIHVzZXJzIGFyZSBnaXZlbiB0aGUgb3Bwb3J0dW5pdHkgdG8gJ29wdC1vdXQnIG9mIGhhdmluZyB0aGVpciBpbmZvcm1hdGlvbiB1c2VkIGZvciBwdXJwb3NlcyBub3QgZGlyZWN0bHkgcmVsYXRlZCB0byBvdXIgc2l0ZSBhdCB0aGUgcG9pbnQgd2hlcmUgd2UgYXNrIGZvciBpbmZvcm1hdGlvbi4gRm9yIGV4YW1wbGUsIG91ciBvcmRlciBmb3JtIGhhcyBhbiAnb3B0LW91dCcgbWVjaGFuaXNtIHNvIHVzZXJzIHdobyBidXkgYSBwcm9kdWN0IGZyb20gdXMsIGJ1dCBkb24ndCB3YW50IGFueSBtYXJrZXRpbmcgbWF0ZXJpYWwsIGNhbiBrZWVwIHRoZWlyIGVtYWlsIGFkZHJlc3Mgb2ZmIG9mIG91ciBsaXN0cy4gICAgDQogICAgICAgICAgICAgICAgICAgICAgPGJyIC8+ICAgICAgICAgICAgICAgICAgVXNlcnMgd2hvIG5vIGxvbmdlciB3aXNoIHRvIHJlY2VpdmUgb3VyIG5ld3NsZXR0ZXIgYW5kIHByb21vdGlvbmFsIGNvbW11bmljYXRpb25zIG1heSBvcHQtb3V0IG9mIHJlY2VpdmluZyB0aGVzZSBjb21tdW5pY2F0aW9ucyBieSByZXBseWluZyB0byB0aGUgbWFpbCB3aXRoIOKAnHVuc3Vic2NyaWJl4oCdIGluIHRoZSBzdWJqZWN0IGxpbmUgb3IgZW1haWwgdXMgYXQgcHJvdGVjdGlvbkBta3UuY29tLiBXZSBhbHNvIG9mZmVyIGFuIG9wdC1vdXQgbWVjaGFuaXNtIGF0IHRoZSBib3R0b20gb2YgZWFjaCBNYXJrZXRpbmcgY2FtcGFpZ24sIE9SIHRoZSB1c2VyIG1heSBjb250YWN0IHVzIGJ5IHBob25lLCBlLU1haWwgb3IgUG9zdGFsIG1haWwgdG8gb3B0LW91dC7CoCAgICAgICAgICAgICAgICAgIDxicj4gICAgICAgICAgICAgICAgICA8YnI+ICAgICAgICAgICAgICAgICAgPHN0cm9uZz5UZWxsLUEtRnJpZW5kPC9zdHJvbmc+PGJyPiAgICAgICAgICAgICAgICAgIElmIGEgdXNlciBlbGVjdHMgdG8gdXNlIG91ciByZWZlcnJhbCBzZXJ2aWNlIGZvciBpbmZvcm1pbmcgYSBmcmllbmQgYWJvdXQgb3VyIHNpdGUgLyBwcm9kdWN0LCB3ZSBhc2sgdGhlbSBmb3IgdGhlaXIgZnJpZW5kJ3MgbmFtZSBhbmQgZW1haWwgYWRkcmVzcy4gTUtVIHdpbGwgYXV0b21hdGljYWxseSBzZW5kIHRoZSBmcmllbmQgYW4gZW1haWwgaW52aXRpbmcgdGhlbSB0byB2aXNpdCB0aGUgc2l0ZSwgaW5mb3JtaW5nIGFib3V0IHRoZSBwcm9kdWN0LiBNS1Ugc3RvcmVzIHRoaXMgaW5mb3JtYXRpb24gZm9yIHRoZSBzb2xlIHB1cnBvc2Ugb2Ygc2VuZGluZyB0aGlzIGVtYWlsIGFuZCB0cmFja2luZyBzdWNjZXNzIG9mIHRoZSByZWZlcnJhbCBwcm9ncmFtLiBUaGUgZnJpZW5kIG1heSBjb250YWN0IE1LVSBieSByZXBseWluZyB0byB0aGUgbWFpbCB3aXRoIOKAnHVuc3Vic2NyaWJl4oCdIGluIHRoZSBzdWJqZWN0IGxpbmUgb3IgZW1haWwgdXMgYXQgcHJvdGVjdGlvbkBta3UuY29tIG9yIHVzZSB0aGUgb3B0LW91dCBtZWNoYW5pc20gYXQgdGhlIGJvdHRvbSBvZiB0aGUgZW1haWwgcmVjZWl2ZWQuICAgICAgICAgICAgICAgICAgPGJyPiAgICAgICAgICAgICAgICAgIDxicj4gICAgICAgICAgICAgICAgICA8c3Ryb25nPlNlY3VyaXR5PC9zdHJvbmc+PGJyPiAgICAgICAgICAgICAgICAgIFRoaXMgV2ViIHNpdGUgdGFrZXMgZXZlcnkgcHJlY2F1dGlvbiB0byBwcm90ZWN0IG91ciB1c2VycycgaW5mb3JtYXRpb24uIFdoZW4gdXNlcnMgc3VibWl0IHNlbnNpdGl2ZSBpbmZvcm1hdGlvbiB2aWEgdGhlIFdlYiBzaXRlLCB0aGVpciBpbmZvcm1hdGlvbiBpcyBwcm90ZWN0ZWQgYm90aCBvbmxpbmUgYW5kIG9mZi1saW5lLsKgICBXZSBkbyBldmVyeXRoaW5nIGluIG91ciBwb3dlciB0byBwcm90ZWN0IHVzZXItaW5mb3JtYXRpb24gb2ZmLWxpbmUuIE9ubHkgZW1wbG95ZWVzIHdobyBuZWVkIHRoZSBpbmZvcm1hdGlvbiB0byBwZXJmb3JtIGEgc3BlY2lmaWMgam9iIGZvciBleGFtcGxlLCBvdXIgYmlsbGluZyBjbGVyaywgY2FsbC1jZW50ZXIgb3IgY3VzdG9tZXIgc2VydmljZSByZXByZXNlbnRhdGl2ZXMgYXJlIGdyYW50ZWQgYWNjZXNzIHRvIHBlcnNvbmFsbHkgaWRlbnRpZmlhYmxlIGluZm9ybWF0aW9uLiBPdXIgZW1wbG95ZWVzIHVzZSBwYXNzd29yZC1wcm90ZWN0ZWQgc2NyZWVuLXNhdmVycyB3aGVuIHRoZXkgbGVhdmUgdGhlaXIgZGVzay4gV2hlbiB0aGV5IHJldHVybiwgdGhleSBtdXN0IHJlLWVudGVyIHRoZWlyIHBhc3N3b3JkIHRvIHJlLWdhaW4gYWNjZXNzIHRvIHVzZXIgaW5mb3JtYXRpb24uIEZ1cnRoZXJtb3JlLCBBTEwgZW1wbG95ZWVzIGFyZSBrZXB0IHVwLXRvLWRhdGUgb24gb3VyIHNlY3VyaXR5IGFuZCBwcml2YWN5IHByYWN0aWNlcy4gV2hlbmV2ZXIgbmV3IHBvbGljaWVzIGFyZSBhZGRlZCwgb3VyIGVtcGxveWVlcyBhcmUgbm90aWZpZWQgYW5kL29yIHJlbWluZGVkIGFib3V0IHRoZSBpbXBvcnRhbmNlIHdlIHBsYWNlIG9uIHByaXZhY3ksIGFuZCB3aGF0IHRoZXkgY2FuIGRvIHRvIGVuc3VyZSBvdXIgdXNlcnMnIA0KICAgICAgICAgICAgICAgICAgICAgIGluZm9ybWF0aW9uIGlzIHByb3RlY3RlZC4gRmluYWxseSwgdGhlIHNlcnZlcnMgdGhhdCBzdG9yZSBwZXJzb25hbGx5IGlkZW50aWZpYWJsZSBpbmZvcm1hdGlvbiBhcmUgaW4gYSBzZWN1cmUgZW52aXJvbm1lbnQuwqAgIElmIHVzZXJzIGhhdmUgYW55IHF1ZXN0aW9ucyBhYm91dCB0aGUgc2VjdXJpdHkgYXQgb3VyIFdlYiBzaXRlLCB1c2VycyBjYW4gc2VuZCBhbiBlbWFpbCB0byA8YSBocmVmPSJtYWlsdG86cHJvdGVjdGlvbkBta3UuY29tIj5wcm90ZWN0aW9uQG1rdS5jb20gPC9hPi4gICAgICAgICAgICAgICAgICA8YnI+ICAgICAgICAgICAgICAgICAgPGJyPiAgICAgICAgICAgICAgICAgIDxzdHJvbmc+U3VwcGxlbWVudGF0aW9uIG9mIEluZm9ybWF0aW9uPC9zdHJvbmc+PGJyPiAgICAgICAgICAgICAgICAgIEluIG9yZGVyIGZvciB0aGlzIFdlYiBzaXRlIHRvIHByb3Blcmx5IGZ1bGZpbGwgaXRzIG9ibGlnYXRpb24gdG8gdXNlcnMgaXQgaXMgbmVjZXNzYXJ5IGZvciB1cyB0byBzdXBwbGVtZW50IHRoZSBpbmZvcm1hdGlvbiB3ZSByZWNlaXZlIHdpdGggaW5mb3JtYXRpb24gZnJvbSAzcmQgcGFydHkgc291cmNlcy4gICAgICAgICAgICAgICAgICA8YnIgLz4gICAgICAgICAgICAgICAgICBXZSBjYWxsIFVzZXIgdG8gdmVyaWZ5IGhpcy9oZXIgaWRlbnRpdHkgLyBhZGRyZXNzIHRvIG1ha2Ugc3VyZSB0aGF0IHRoZSBkYXRhIHByb3ZpZGVkIGJ5IHRoZSB1c2VyIGlzIGNvcnJlY3QuPGJyPiAgICAgICAgICAgICAgICAgIDxicj4gICAgICAgICAgICAgICAgICA8c3Ryb25nPkVuaGFuY2VtZW50IG9mIE1hcmtldGluZyBQcm9maWxlPC9zdHJvbmc+PGJyPiAgICAgICAgICAgICAgICAgIFdlIHB1cmNoYXNlIHRoaXJkIHBhcnR5IG1hcmtldGluZyBkYXRhIGFuZCBhZGQgaXQgdG8gb3VyIGV4aXN0aW5nIHVzZXIgZGF0YWJhc2UgdG8gYmV0dGVyIHRhcmdldCBvdXIgYWR2ZXJ0aXNpbmcgYW5kIHByb3ZpZGUgcGVydGluZW50IG9mZmVycyB3ZSB0aGluayBvdXIgdXNlcnMgd291bGQgYmUgaW50ZXJlc3RlZCBpbi4gV2UgdXNlIHRoaXMgaW5mb3JtYXRpb24gdG8gZW5oYW5jZSBvciBvdmVybGF5IHRoZSAncHJvZmlsZScgb2YgaW5kaXZpZHVhbCB1c2Vycy4gVGhpcyBhZ2dyZWdhdGUgbWFya2V0aW5nIGRhdGEgaXMgdGhlcmVmb3JlIHRpZWQgdG8gdGhlIHVzZXJzJyBwZXJzb25hbGx5IGlkZW50aWZpYWJsZSBpbmZvcm1hdGlvbi4gQ29ycmVjdGluZy9VcGRhdGluZy9EZWxldGluZy9EZWFjdGl2YXRpbmcgUGVyc29uYWwgSW5mb3JtYXRpb27CoCAgSWYgYSB1c2VyJ3MgcGVyc29uYWxseSBpZGVudGlmaWFibGUgaW5mb3JtYXRpb24gY2hhbmdlcyBzdWNoIGFzIHppcCBjb2RlLCBwaG9uZSwgZW1haWwgb3IgcG9zdGFsIGFkZHJlc3MsIG9yIGlmIGEgdXNlciBubyBsb25nZXIgZGVzaXJlcyBvdXIgc2VydmljZSwgd2UgcHJvdmlkZSBhIHdheSB0byBjb3JyZWN0LCB1cGRhdGUgb3IgZGVsZXRlL2RlYWN0aXZhdGUgdXNlcnMnIHBlcnNvbmFsbHkgaWRlbnRpZmlhYmxlIGluZm9ybWF0aW9uLiBUaGlzIGNhbiB1c3VhbGx5IGJlIGRvbmUgYXQgdGhlIFVwZGF0ZSBwcm9maWxlIHBhZ2Ugb3IgYnkgZW1haWxpbmcgb3VyIEN1c3RvbWVyIFN1cHBvcnQgYXQgPGEgaHJlZj0ibWFpbHRvOnByb3RlY3Rpb25AbWt1LmNvbSI+cHJvdGVjdGlvbkBta3UuY29tPC9hPiBvciwgY29udGFjdCB1cyBieSB0ZWxlcGhvbmUgb3IgcG9zdGFsIG1haWwgYXQgdGhlIGNvbnRhY3QgaW5mb3JtYXRpb24gbGlzdGVkIGJlbG93LiAgICAgICAgICAgICAgICAgIDxicj4gICAgICAgICAgICAgICAgICA8YnI+ICAgICAgICAgICAgICAgICAgPHN0cm9uZz5Ob3RpZmljYXRpb24gb2YgQ2hhbmdlczwvc3Ryb25nPjxicj4gICAgICAgICAgICAgICAgICBJZiB3ZSBkZWNpZGUgdG8gY2hhbmdlIG91ciBwcml2YWN5IHBvbGljeSwgd2Ugd2lsbCBwb3N0IHRob3NlIGNoYW5nZXMgdG8gdGhpcyBwcml2YWN5IHN0YXRlbWVudCwgYW5kIG90aGVyIHBsYWNlcyB3ZSBkZWVtIGFwcHJvcHJpYXRlIHNvIG91ciB1c2VycyBhcmUgYWx3YXlzIGF3YXJlIG9mIHdoYXQgaW5mb3JtYXRpb24gd2UgY29sbGVjdCwgaG93IHdlIHVzZSBpdCwgYW5kIHVuZGVyIHdoYXQgY2lyY3Vtc3RhbmNlcywgaWYgYW55LCB3ZSBkaXNjbG9zZSBpdC4gV2Ugd2lsbCB1c2UgaW5mb3JtYXRpb24gaW4gYWNjb3JkYW5jZSB3aXRoIHRoZSBwcml2YWN5IHBvbGljeSB1bmRlciB3aGljaCB0aGUgaW5mb3JtYXRpb24gd2FzIGNvbGxlY3RlZC4gICAgICAgICAgICAgICAgICA8YnIgLz4gICAgICAgICAgICAgICAgICBJZiwgaG93ZXZlciwgd2UgYXJlIGdvaW5nIHRvIHVzZSB1c2VycycgcGVyc29uYWxseSBpZGVudGlmaWFibGUgaW5mb3JtYXRpb24gaW4gYSBtYW5uZXIgZGlmZmVyZW50IGZyb20gdGhhdCBzdGF0ZWQgYXQgdGhlIHRpbWUgb2YgY29sbGVjdGlvbiB3ZSB3aWxsIG5vdGlmeSB1c2VycyB2aWEgZW1haWwuIFVzZXJzIHdpbGwgaGF2ZSBhIGNob2ljZSBhcyB0byB3aGV0aGVyIG9yIG5vdCB3ZSB1c2UgdGhlaXIgaW5mb3JtYXRpb24gaW4gdGhpcyBkaWZmZXJlbnQgbWFubmVyLiBIb3dldmVyLCBpZiB1c2VycyBoYXZlIG9wdGVkIG91dCBvZiBhbGwgY29tbXVuaWNhdGlvbiB3aXRoIHRoZSBzaXRlLCBvciBkZWxldGVkL2RlYWN0aXZhdGVkIHRoZWlyIGFjY291bnQsIHRoZWlyIHBlcnNvbmFsIGluZm9ybWF0aW9uIHdpbGwgbm90IGJlIHVzZWQgaW4gdGhpcyBuZXcgbWFubmVyLiBJbiBhZGRpdGlvbiwgaWYgd2UgbWFrZSBhbnkgbWF0ZXJpYWwgY2hhbmdlcyBpbiBvdXIgcHJpdmFjeSBwcmFjdGljZXMgdGhhdCBkbyBub3QgYWZmZWN0IHVzZXIgaW5mb3JtYXRpb24gYWxyZWFkeSBzdG9yZWQgaW4gb3VyIGRhdGFiYXNlLCB3ZSB3aWxsIHBvc3QgYSBwcm9taW5lbnQgbm90aWNlIG9uIG91ciBXZWIgc2l0ZSBub3RpZnlpbmcgdXNlcnMgb2YgdGhlIGNoYW5nZS4gSW4gc29tZSBjYXNlcyB3aGVyZSB3ZSBwb3N0IGEgbm90aWNlIHdlIHdpbGwgYWxzbyBlbWFpbCB1c2Vycywgd2hvIGhhdmUgb3B0ZWQgdG8gcmVjZWl2ZSBjb21tdW5pY2F0aW9ucyBmcm9tIHVzLCBub3RpZnlpbmcgdGhlbSBvZiB0aGUgY2hhbmdlcyBpbiBvdXIgcHJpdmFjeSBwcmFjdGljZXMuICAgICAgICAgICAgICAgICAgPGJyPiAgICAgICAgICAgICAgICAgIDxicj4gICAgICAgICAgICAgICAgICANCiAgICAgICAgICAgICAgICAgICAgICA8c3Ryb25nPkNvbnRhY3QgSW5mb3JtYXRpb248L3N0cm9uZz48YnI+ICAgICAgICAgICAgICAgICAgSWYgdXNlcnMgaGF2ZSBhbnkgcXVlc3Rpb25zIG9yIHN1Z2dlc3Rpb25zIHJlZ2FyZGluZyBvdXIgcHJpdmFjeSBwb2xpY3ksIHBsZWFzZSBjb250YWN0IHVzIGF0Ojxicj4gICAgICAgICAgICAgICAgICA8YnI+ICAgICAgICAgICAgICAgICAgTUtVIExpbWl0ZWQ8YnI+ICAgICAgICAgICAgICAgICAgMTMsIEdhbmRoaSBHcmFtLDxicj4gICAgICAgICAgICAgICAgICBHIFQgUm9hZCwgS2FucHVyLTIwOCAwMDc8YnI+ICAgICAgICAgICAgICAgICAgVXR0YXIgUHJhZGVzaDxicj4gICAgICAgICAgICAgICAgICBJTkRJQTxicj4gICAgICAgICAgICAgICAgICBUZWwuIDogKzkxIDUxMiAzMDI2NzAwPGJyPiAgICAgICAgICAgICAgICAgIGVtYWlsIDogPGEgaHJlZj0ibWFpbHRvOnByb3RlY3Rpb25AbWt1LmNvbSI+cHJvdGVjdGlvbkBta3UuY29tIDwvYT4gICAgICAgICAgICAgICAgICA8YnIgLz4gICAgICAgICAgICAgICAgICA8YnIgLz4gICAgICAgICAgICAgICAgICAiVGhlIHRlcm1zIGFuZCBjb25kaXRpb24gYXBwZWFyaW5nIGhlcmVpbiBtYXkgZGlmZmVyIGluIGludGVycHJldGF0aW9uIG9yIGJlIGluIGNvbnRyYWRpY3Rpb24gd2l0aCBvdGhlciB0ZXJtcyBvZiB0aGlzIGRvY3VtZW50LCBpbiBzdWNoIGNhc2VzIGJ5IGFsbCBtZWFucyB0aGUgdGVybXMgc2hhbGwgYmUgaW50ZXJwcmV0ZWQgYW5kIHVuZGVyc3Rvb2QgYXMgbW9zdCBmYXZvdXJhYmxlIHRvIHRoZSBNS1UiPGJyIC8+ICAgICAgICAgICAgICAgICAgVGhpcyBwcml2YWN5IHN0YXRlbWVudCBpcyBhcHBsaWNhYmxlIHdpdGggZWZmZWN0IGZyb20gMXN0IGRheSBvZiBBdWd1c3QsIDIwMTQgYW5kIGlzIHN1YmplY3QgdG8gY2hhbmdlIGF0IGFueSB0aW1lIHdpdGhvdXQgcHJpb3Igbm90aWNlLiAgICAgICAgICAgICAgPC9kaXY+ICAgICAgICAgIDwvZGl2PiAgICAgIDwvc2VjdGlvbj4NCiAgICAgICBkAgEPZBYCZg8VCRNodHRwOi8vd3d3Lm1rdS5jb20vE2h0dHA6Ly93d3cubWt1LmNvbS8TaHR0cDovL3d3dy5ta3UuY29tLxNodHRwOi8vd3d3Lm1rdS5jb20vE2h0dHA6Ly93d3cubWt1LmNvbS8TaHR0cDovL3d3dy5ta3UuY29tLxNodHRwOi8vd3d3Lm1rdS5jb20vE2h0dHA6Ly93d3cubWt1LmNvbS8TaHR0cDovL3d3dy5ta3UuY29tL2RkAtRb6NNB9QyHrXocrcfjGiePUswHnZu50rMnPMkaoTk=">
+
+
+<script src="/ScriptResource.axd?d=zkvJ6YW01s4jiIUQxtPpdsahSpdln2-fD9lBQy2f971n9LRY2EhKfxHZuk9484LZDJsSmBs-HYrfYLFKHRx26m3NBa-ojwsiCGZpHuA4KY9eXYR9MXzZOlOql3l1ZFbUSWFjtL1TM5cJa_JGne4VopT0otHsZMSF1XgVK1bLz96xdlO9C20n_NQxSmk-LVno0&amp;t=2a48f442" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=v-bJn_eyflh_rT6IKbHVQvFmPsuZ0Jd_Ze7xfY0Zs3TIXpvF4fGE_clE6v79ox4xBXeM_rslSRGsT-jbWRadbcQSzcEBtIbO2BlGIhwVQp5qCntUTHFnbW1sEgq6xVSvQKXmB135t3ZExln0OMHWnAy4hITCviqPLLrKKuZ9I4s1&amp;t=6f05acf6" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=yjNmOOc3Yr3zNIv32wpOwAPNqe3PIL2DQ0CnqzpZQZ1llODYE4vgVQwtT8KT4_VRPgbUsqqwoUvyE_vFGuP2ERuHhQ7V3JBZHSnBMdN90Oe0gWEqQ4GY72krEqsQk3bS8B4xtLC6HIV33HoFWJ4cDFV-7FNxe7MYCA3898fmFSQ1&amp;t=6f05acf6" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=5cCc9tuvsPnNrSugeW60fCrAp00FOpob48JzWOIFaW51dVbK5whXnnDDM6ha7w1qBASFtCd2Y2qN0L4ecglYcjKO9akDmGcZx4a42VfkRCRX8EsCShIUAuIk-eggmLIZq-KiSAfI8uSpYPtjYXGroXpvzgwMNsO9DJyVmebvbsSOql9nAjoJ8B1JNW0mx8O10&amp;t=6f05acf6" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=8pneuoZEQiWBVRyH7NloNHVC5NN6eHhgCcp_spCb0nNGkk-4CrDPnyr_PFlnjEcPooKzeT5f9Wn7VvUS3qcxpZkVeXYXsD8K2ENeDXarJh1GKXqrEtZeLezOyN38Qnj3XhcBLZV1Agbtu50B_-QALRQbsQm3JLWerEacd2tRd_I1&amp;t=6f05acf6" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=v-0g5IgXiCUm4xLafaXrpBvFmzD4o9fo6-7qJ9f6xkrSWzaDPnDBzvsGw-rhFE5VgwTaNzuvxKvgsqYyXSPvKBbPdJi3PB-z06syH1nSL3UGBdfdvWnGqAaibkFkGnbY0A_sBoNmqWUZ8EeX9ErE6IucjJNbjJf-12XJR8TQ8BlEYsWvE8UsnS4l-SEcHm6h0&amp;t=6f05acf6" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=5JmIdTBugj31Bpl5feQcb6MkJ8OMNmLC9MsnU1EqTM42_uchAXmbfgvRD5j1LqBBU102rNBMx4IaRjH859RQkNBXdo_voJG-BZPRhxDP35H9xgou5VjwUm9C72Wi6CsBgHO8g7PkbAY1pb_-4oBygfC_RiiAV4vz-gmrrJaLUD0t1onXYMw2getqpbaCV_CaTh0brOMihPdqWYkssCaMIw2&amp;t=6f05acf6" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=NXcgvrXyOSBZfTq8GRF4hyqyEqOCh0wMNVz1DqeCnWRt9jVURdKOL7K-ztbAcdVqYiLBHIRGL5Vk4wD2W5_x4hIWB0rJG7uszkcaIMgWy3ahgA762DdEU3SAb1xN-PBtHH-xSUhsVC-xT_-hCYIDJUGr-4UQDnnAdTpg-xRFc3Rz-qvPnoq_n9-UI_cbx7Kt0&amp;t=6f05acf6" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=YTkTnQw3_LnnljFOMK-X-thc4nuX4xgd4O0KLZXUB9g6xkGJuZUVQ3ocstbr-GoErmpYBb0A-Z3lYHsiez10YUcmjAkdFMXBoP2AnLF2QWbB1gFaPnIK2vPUdp7bIeKRAfRc4kG7SwbjwNBVX7lmSLkjJ55VT-C2e23oWICdQHdIYLANv6s8HrifcLk7orD70&amp;t=6f05acf6" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=6gRhpjq42ZK3TW4leEmkypfaMo5xJK9rwX1XKIBPSY--U1pAjyH4ywN9_5FCYuQnUoAjx5ZeAHKzQOeCbqnce_ZJu0BcuALSDZQ61WUxajqSO6jsGyIymmBkwVXeIiII5DawxgiCtCZt4iYO-pjM2CMSqnqLSgiEPyYgmxViKwbmRc39ptCxwcXuhpQtBsk90&amp;t=6f05acf6" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7650BFE2">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAhkE9vDBO6oPQrkAN2aKy7Lo+JxbVPQGNUc2uX2OiQejGFv1edLusVmMaKZf6wF5b7zSSPKBm2ZzpdMQmTJvMqTUkT5fxkm+0ZqfTsmyQDl/xbf3UCjgiPOGP9iOle4XA4adux+TJ142ktxD+r25Ojfy2qtWQiUk3fpaAEwjGrrcI8QuRZm4zFnyqi9yGbI+SgqlNWDrSXkJPbj2UQw4raG">
+        <section class="main_video_con" id="foo111">
+            <header id="headermenu">
                 <div class="header_main">
-                    <div class="logo pull-left wow fadeInDown" data-wow-duration="2s" data-wow-delay=".5s" href="#"><a href="index.aspx">
-                        <img src="assets/img/mku_logo.png" alt="MKU" title="MKU"></a>  <a class="pull-right mob_menu"><i class="fa fa-bars"></i></a></div>
+                    <div class="logo pull-left wow fadeInDown" data-wow-duration="2s" data-wow-delay=".5s" href="#">
+                        <a href="http://www.mku.com/ru/index">
+                            <img src="http://www.mku.com/assets/img/mku_logo.png" alt="MKU" title="MKU"></a>  <a class="pull-right mob_menu"><i class="fa fa-bars"></i></a>
+                    </div>
                     <div class="mobilemenu">
                         <ul class="mainleft pull-left wow fadeInDown" data-wow-duration="2s" data-wow-delay=".5s">
-                            <li><a>corporate</a>
+                            <li><a>о Компании</a>
                                 <div class="menu_hover pull-left ">
                                     <div class=" mainconafh">
-                                        <span class="col-md-2 col-sm-2  col-xs-6" style="height: 100px; padding-top: 25px"><a href="Profile.aspx"><p>Profile</p>
+                                        <span class="col-md-2 col-sm-2  col-xs-6"><a href="http://www.mku.com/ru/Profile">
+                                            <img src="http://www.mku.com/img/profile-icons.png" alt="Profile">
+                                            <p>Профиль</p>
                                         </a></span>
                                         <div class=" mainconafh">
-                                            <span class="col-md-2 col-sm-2  col-xs-6" style="height: 100px; padding-top: 25px"><a href="Advanced-Technologies-Expert-Solutions.aspx"><p>Proven Expertise</p>
+                                            <span class="col-md-2 col-sm-2  col-xs-6"><a href="http://www.mku.com/ru/Advanced-Technologies-Expert-Solutions">
+                                                <img src="http://www.mku.com/img/provene-icon.png" alt="Proven Expertise">
+                                                <p>Опыт и Технологии</p>
                                             </a></span>
                                             <div class=" mainconafh">
-                                                <span class="col-md-2 col-sm-2  col-xs-6" style="height: 100px; padding-top: 25px"><a href="Robust-Infrastructure.aspx"><p>Robust Infrastructure</p>
-                                                </a></span>                                                
+                                                <span class="col-md-2 col-sm-2  col-xs-6"><a href="http://www.mku.com/ru/Robust-Infrastructure">
+                                                    <img src="http://www.mku.com/img/robust-infra-icons.png" alt="Robust Infrastructure">
+                                                    <p>Надежная Инфраструктура</p>
+                                                </a></span>
                                             </div>
                                         </div>
                             </div></div></li>
-                            <li><a>Personal protection</a>
+                            <li><a>Средства Личной Защиты</a>
+                                <div class="menu_hover">
+                                    <div class="mainconafh">
+                                        <div class="col-md-8">
+                                            <span class="col-md-3 col-sm-3  col-xs-6"><a href="http://www.mku.com/ru/Personal-protection">
+                                                <img src="http://www.mku.com/img/overvirew-personalp.png" alt="Personal protection">
+                                                <p>Обзор</p>
+                                            </a></span>
+
+                                            <span class="col-md-3 col-sm-3  col-xs-6"><a href="http://www.mku.com/ru/Balistic-Overvest">
+                                                <img src="http://www.mku.com/assets/img/Personal protection/m-ballstic.png" alt="Ballistic Overvest">
+                                                <p>Бронежилеты</p>
+                                            </a></span>
+
+                                            <span class="col-md-3 col-sm-3  col-xs-6"><a href="http://www.mku.com/ru/Armour-Insert">
+                                                <img src="http://www.mku.com/assets/img/Personal protection/m-armour.png" alt="Armour inserts">
+                                                <p>Броневые Вставки</p>
+                                            </a></span><span class="col-md-3 col-sm-3  col-xs-6"><a href="http://www.mku.com/ru/Helmet">
+                                                <img src="http://www.mku.com/assets/img/Personal protection/m-helmet.png" alt="Helmets"><p>Шлемы</p>
+                                            </a></span>
+                                            <span class="col-md-3 col-sm-3  col-xs-6"><a href="http://www.mku.com/ru/Ballistic-Shields">
+                                                <img src="http://www.mku.com/assets/img/Personal protection/m-adv-gear.png" alt="Ballistic shields"><p>Баллистические Щиты</p>
+                                            </a></span>
+
+                                            <span class="col-md-3 col-sm-3  col-xs-6"><a href="http://www.mku.com/ru/Ballistic-Blankets">
+                                                <img src="http://www.mku.com/assets/img/Personal protection/mblanket.png" alt="Ballistic Blankets"><p>
+                                                    Покрывала Баллистической Защиты
+                                                </p>
+                                            </a></span>
+
+                                            <span class="col-md-3 col-sm-3  col-xs-6"><a href="http://www.mku.com/ru/Demining-Suits">
+                                                <img src="http://www.mku.com/assets/img/Personal protection/mdimining.png" alt="Demining Suits"><p>Защитные Комплекты Для Разминирования</p>
+                                            </a></span>
+
+                                            <span class="col-md-3 col-sm-3  col-xs-6"><a href="http://www.mku.com/ru/products/Ballistic-Briefcase">
+                                                <img src="http://www.mku.com/img/mbrifcase.png" alt="BALLISTIC BRIEFCASE"><p>Противопульный Чемоданчик</p>
+                                            </a></span>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <a href="http://www.mku.com/ru/Network-Centric-Integrated-Combat-System-For-Soldiers">
+                                                <img class="menu-img" src="http://www.mku.com/img/nics-menu-link-ru.jpg" alt="NICS">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li><a>Защита Транспортных Средств</a>
                                 <div class="menu_hover">
                                     <div class=" mainconafh">
-
-                                        <span class="col-md-2 col-sm-2  col-xs-6"><a href="BalisticOvervest.aspx">
-                                            <img src="assets/img/Personal protection/m-ballstic.png" alt="Ballistic Overvest">
-                                            <p>BALLISTIC OVERVEST</p>
+                                        <span class="col-md-2 col-sm-2  col-xs-6"><a href="http://www.mku.com/ru/Platform-protection">
+                                            <img src="http://www.mku.com/img/overvirew-platformp.png" alt="Platform protection"><p>Обзор</p>
                                         </a></span>
-
-                                        <span class="col-md-2 col-sm-2  col-xs-6"><a href="ArmourInsert.aspx">
-                                            <img src="assets/img/Personal protection/m-armour.png" alt="Armour inserts">
-                                            <p>ARMOUR INSERTS</p>
-                                        </a></span><span class="col-md-2 col-sm-2  col-xs-6"><a href="Helmet.aspx">
-                                            <img src="assets/img/Personal protection/m-helmet.png" alt="Helmets"><p>HELMETS</p>
+                                        <span class="col-md-2 col-sm-2  col-xs-6"><a href="http://www.mku.com/ru/Land-Protection">
+                                            <img src="http://www.mku.com/img/land-icon.png" alt="Land Systems"><p>Наземные Системы</p>
                                         </a></span>
-                                        <span class="col-md-2 col-sm-2  col-xs-6"><a href="BallisticShields.aspx">
-                                            <img src="assets/img/Personal protection/m-adv-gear.png" alt="Ballistic shields"><p>BALLISTIC SHIELDS</p>
+                                        <span class="col-md-2 col-sm-2  col-xs-6"><a href="http://www.mku.com/ru/Aircraft-Protection">
+                                            <img src="http://www.mku.com/img/air-icon.png" alt="Airborne Systems"><p>Воздушные Системы</p>
                                         </a></span>
-
-                                        <span class="col-md-2 col-sm-2  col-xs-6"><a href="BallisticBlanket.aspx">
-                                            <img src="assets/img/Personal protection/mblanket.png" alt="Ballistic Blankets"><p>
-                                                BALLISTIC BLANKET
-                                            </p>
-                                        </a></span>
-
-                                        <span class="col-md-2 col-sm-2  col-xs-6"><a href="DeminingSuits.aspx">
-                                            <img src="assets/img/Personal protection/mdimining.png" alt="Balistic Overvest"><p>Demining Suits</p>
-                                        </a></span>
-
-                                        <span class="col-md-2 col-sm-2  col-xs-6"><a href="Product.aspx?PID=28">
-                                            <img src="img/mbrifcase.png" alt="BALLISTIC BRIEFCASE"><p>Ballistic Briefcase</p>
+                                        <span class="col-md-2 col-sm-2  col-xs-6"><a href="http://www.mku.com/ru/Sea-Protection">
+                                            <img src="http://www.mku.com/img/water-icon.png" alt="Naval Systems"><p>Морские Системы</p>
                                         </a></span>
                                     </div>
                                 </div>
                             </li>
-                            <li><a>Platform Protection</a>
+                            <li><a href="http://www.mku.com/ru/night-vision-device" style="cursor: pointer">Приборы Ночного Видения</a>
                                 <div class="menu_hover">
                                     <div class=" mainconafh">
-                                        <span class="col-md-2 col-sm-2  col-xs-6"><a href="LandProtection.aspx">
-                                            <img src="img/land-icon.png" alt="Land protection"><p>Land</p>
+                                        <span class="col-md-2 col-sm-2  col-xs-6"><a href="http://www.mku.com/ru/night-vision-device">
+                                            <img src="http://www.mku.com/img/nvd1-icon.png" alt="Jaguar7 night vision device"><p>Jaguar7</p>
                                         </a></span>
-                                        <span class="col-md-2 col-sm-2  col-xs-6"><a href="AircraftProtection.aspx">
-                                            <img src="img/air-icon.png" alt="Air protection"><p>Air</p>
-                                        </a></span>
-                                        <span class="col-md-2 col-sm-2  col-xs-6"><a href="SeaProtection.aspx">
-                                            <img src="img/water-icon.png" alt="sea protection"><p>Sea</p>
-                                        </a></span>
-                            </div></div></li>
-                            <li><a href="night-vision-device.aspx">Night Vision Devices</a>
-                                <div class="menu_hover">
-                                    <div class=" mainconafh">
-                                        <span class="col-md-2 col-sm-2  col-xs-6"><a href="night-vision-device.aspx">
-                                            <img src="img/nvd1-icon.png" alt="Jaguar7 night vision device"><p>Jaguar7</p>
-                                        </a></span>
-                                        <span class="col-md-2 col-sm-2  col-xs-6"><a href="night-vision-device.aspx">
-                                            <img src="img/nvd2-icon.png" alt="Jaguar14 night vision device">
+                                        <span class="col-md-2 col-sm-2  col-xs-6"><a href="http://www.mku.com/ru/night-vision-device">
+                                            <img src="http://www.mku.com/img/nvd2-icon.png" alt="Jaguar14 night vision device">
                                             <p>Jaguar14</p>
                                         </a></span>
                                     </div>
                                 </div>
                             </li>
-                            <li><a href="Safe.aspx">Technology</a></li>
-
+                            <li><a>Технологии</a>
+                                <div class="menu_hover">
+                                    <div class=" mainconafh">
+                                        <span class="col-md-2 col-sm-2  col-xs-6"><a href="http://www.mku.com/ru/technology">
+                                            <img src="http://www.mku.com/img/pp-nav-icons-ru.png" alt="Средства Личной Защиты">
+                                            <p>Средства Личной Защиты</p>
+                                        </a></span>
+                                        <span class="col-md-2 col-sm-2  col-xs-6"><a href="http://www.mku.com/ru/vehicle-protection">
+                                            <img src="http://www.mku.com/img/vp-nav-icons.png" alt="Platform Systems Protection">
+                                            <p>Защита Транспортных Средствa</p>
+                                        </a></span>
+                                    </div>
+                                </div>
+                            </li>
                         </ul>
-                        <ul class="menu_rit pull-right wow fadeInDown" data-wow-duration="1s" data-wow-delay=".5s">
-                            <li><a href="UpcomingEvents.aspx">EVENTS</a></li>
-                            <li><a href="PressRelease.aspx">MEDIA</a></li>
-                            <li><a href="Careers.aspx">CAREERS</a></li>
-                            <li><a href="GetInTouch.aspx">GET IN TOUCH</a></li>
+                        <div class="right-nav">
+                            <div class="right-one wow fadeInDown" data-wow-duration="1s" data-wow-delay=".5s" style="display: none;">
+                                <input type="text" placeholder="Search" style="margin: 0;" class="search-box">
+                                <input type="submit" class="submit">
+                            </div>
+                            <div class="right-two wow fadeInDown" data-wow-duration="1s" data-wow-delay=".5s">
 
-                        </ul>
+                                
+                                <div style="display: none;">
+                                    <a id="lnkEnglish" href="javascript:__doPostBack('ctl00$lnkEnglish','')">English</a>
+                                    <a id="lnkFrench" href="javascript:__doPostBack('ctl00$lnkFrench','')">French</a>
+                                    <a id="lnkGerman" href="javascript:__doPostBack('ctl00$lnkGerman','')">German</a>
+                                    <a id="lnkRussian" href="javascript:__doPostBack('ctl00$lnkRussian','')">Russian</a>
+                                    <a id="lnkSpanish" href="javascript:__doPostBack('ctl00$lnkSpanish','')">Spanish</a>
+                                </div>
+                                <ul class="menu_rit">
+                                    <li id="liLang"><a id="ankRussian" class="mainlink"> Russian <img src="http://www.mku.com/img/russia-flag.png"></a><ul><li><a id="ankEnglish" href="javascript:__doPostBack('ctl00$lnkEnglish','')" class="mainlink"> English <img src="http://www.mku.com/img/flag.png"></a></li><li><a id="ankFrench" href="javascript:__doPostBack('ctl00$lnkFrench','')" class="mainlink"> French  <img src="http://www.mku.com/img/french-flag.png"></a></li><li><a id="ankGerman" href="javascript:__doPostBack('ctl00$lnkGerman','')" class="mainlink"> German  <img src="http://www.mku.com/img/german-flag.png"></a></li><li><a id="ankSpanish" href="javascript:__doPostBack('ctl00$lnkSpanish','')" class="mainlink"> Spanish <img src="http://www.mku.com/img/spain-flag.png"></a></li></ul></li>
+                                </ul>
+                                
+                            </div>
+                            <div class="right-three">
+                                <a href="#" class=" wow fadeInDown" data-wow-duration="1s" data-wow-delay=".5s">
+                                    <img src="http://www.mku.com/img/button.png"></a>
+                                <ul class="menu_rit pull-right">
+                                    
+                                    <li><a href="http://www.mku.com/ru/Upcoming-Events">
+                                        <img src="http://www.mku.com/img/events.png">СОБЫТИЯ</a></li>
+                                    <li><a href="http://www.mku.com/ru/Press-Release">
+                                        <img src="http://www.mku.com/img/media.png">ПРЕСС-РЕЛИЗЫ</a></li>
+                                    <li><a href="http://www.mku.com/ru/Careers">
+                                        <img src="http://www.mku.com/img/user.png">
+                                        Вакансии</a></li>
+                                    <li><a href="http://www.mku.com/ru/GetInTouch">
+                                        <img src="http://www.mku.com/img/call.png">Контакты</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        
                     </div>
                     <div class="overlay2"></div>
                 </div>
             </header>
             
-
-<section class="top-banner bdrbtm">
-<div class="Pressrelese">
-<h1>Privacy Policy</h1>
+            
+            <div id="pnlProgress" class="pop-progress" style="display: none;">
+	
+                <div class="overlay-loader"></div>
+                <div class="loading">
+                    <img alt="" src="http://www.mku.com/img/spinningred.gif">
+                    <span style="font-size: 15px;">&nbsp; Processing, Please wait ....</span>
+                </div>
+            
 </div>
+            
+            
 
+            
+    
+      <section class="top-banner bdrbtm">          <div class="Pressrelese">              <h1>Privacy Policy</h1>          </div>      </section>      <style>          .priovedy h1          {              font-size: 30px !important;          }          .priovedy h2          {              font-size: 30px;              margin: 0;              padding: 0;          }          .priovedy strong          {              font-size: 18px !important;              line-height: 30px !important;          }      </style>      <section class="row con_sec">          <div class="row_fluid">              <div class="post_col pre_col post_col pre_col pre_col_altr priovedy">                  The website you have entered is operated by M/s MKU Limited, having its place of business situated at 13, Gandhi Gram, G.T. Road, Kanpur-208007, U.P., India, hereinafter known as “MKU". The privacy statement below covers the site www.mku.com. MKU is committed to protecting your personal privacy. This Privacy Policy outlines the types of information that are collected by MKU on its website, and how we use and protect it. 
+      This Policy also explains the choices that you can make about the way your information is collected and used. This Policy applies only to www.mku.com, and it does not apply to banners, 
+      sweepstakes and other advertisements or promotions that we may sponsor or participate in on web sites owned by third parties. Some services mentioned in this statement may not be 
+      available at this time.<br>                  <br>                  <h2>Information Collection and Use</h2>                  <br>                  
+      <strong>Information Collection</strong><br>                  MKU is the sole owner of the information collected on www.mku.com. 
+      MKU collects Personal Information from users at several points on our web site. As used in this Privacy Policy, "Personal Information" means any information that is linked to User's 
+      identity such as Name, Address, Telephone number and Email address etc.                  <br>                  <br>                  <strong>Enquiry</strong><br>                  
+      We request information from the user on our enquiry form. A user must provide contact information (such as name, email, address etc.).
+       This information is used for mailing purpose, to fulfill customer's enquiry and to contact when required.                  <br>                  <br>                  <strong>Information Use</strong><br>                  Information is collected from the user and used primarily for the purpose of replying to customer's enquiry. 
+       In addition to the primary purposes for which personal information is collected, we may use the personal information to contact a user to confirm information related to a purchase order.                  <br>                  <br>                  <strong>We may also use User's information for:</strong><br>                  <ul>                      
+       <li>Our internal surveys to obtain feedback on our product, services, our web site, or on other aspects of our business that impact you as a MKU customer;</li>                      <li>To promote other products and services that we think may be of User's interest;</li>                      <li>To send promotional materials;</li>                     
+        <li>To provide our free email newsletters;</li>                  </ul>                  <br>                  <strong>Profile</strong><br>                  We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that detail their viewing preferences. Consequently, collected information is tied to the user’s personally identifiable information to provide offers and improve the content of the site for the user. 
+        This profile is used to tailor a user's visit to our Web site and to direct pertinent marketing promotions to them. We do not share your profile with other third parties.&nbsp;                  <br>                  <br>                  <h2>Communications from the Site</h2>                  <br>                    <strong>Special Offers and Updates</strong><br>                  Members will occasionally receive information on products, services, special deals, and newsletters. Out of respect for the privacy of our users we provide the option to not receive these types of communications. Please see the Choice and Opt-out sections.                  <br>                  <br>                  <strong>Newsletter</strong><br>                  If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. Please see the Choice and Opt-out sections. Service Announcements                  <br>                  On rare occasions it is necessary to send out a strictly service related announcements. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. Users may opt-out of these communications. Please see our Choice and Opt-out section.&nbsp;                  <br>                  <br>                  <h2>Sharing</h2>                  <br>                  <strong>Legal Disclaimer</strong><br>                  Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.                  <br>                  <br>                  <strong>Aggregate Information (non-personally identifiable)</strong><br>                  We share aggregated demographic information with our partners and advertisers. This is not linked to any personally identifiable information.&nbsp;                  <br>                  <br>                  <strong>Third Party Advertisers&nbsp;</strong>                  <br>                  MKU shares Web site usage information about users with a reputable third party and its technical Partner for the purpose of targeting our Internet banner advertisements on other web sites.&nbsp;                  <br>                  <br>                  <strong>Service Providers</strong><br>                  We partner with other third parties to provide specific services like Direct Mailing campaigns, both postal mails and e-Mails. When the user signs up for these particular services, we share names, or other contact information that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.&nbsp;                  
+        <br>                  <br>                  <strong>Business Transitions</strong><br>                  In the event MKU goes through a business transition, such as a merger, being acquired by another company or selling a portion of its assets, users' personal information will, in most instances will be part of the assets transferred, users will be notified via email/postal mail and a prominent notice will be put on our Web site, 30 days prior to change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.&nbsp;                  <br>                  <br>                  <strong>Choice/Opt-out</strong>                  Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists.    
+                      <br>                  Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to the mail with “unsubscribe” in the subject line or email us at protection@mku.com. We also offer an opt-out mechanism at the bottom of each Marketing campaign, OR the user may contact us by phone, e-Mail or Postal mail to opt-out.&nbsp;                  <br>                  <br>                  <strong>Tell-A-Friend</strong><br>                  If a user elects to use our referral service for informing a friend about our site / product, we ask them for their friend's name and email address. MKU will automatically send the friend an email inviting them to visit the site, informing about the product. MKU stores this information for the sole purpose of sending this email and tracking success of the referral program. The friend may contact MKU by replying to the mail with “unsubscribe” in the subject line or email us at protection@mku.com or use the opt-out mechanism at the bottom of the email received.                  <br>                  <br>                  <strong>Security</strong><br>                  This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line.&nbsp;  We do everything in our power to protect user-information off-line. Only employees who need the information to perform a specific job for example, our billing clerk, call-center or customer service representatives are granted access to personally identifiable information. Our employees use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Whenever new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' 
+                      information is protected. Finally, the servers that store personally identifiable information are in a secure environment.&nbsp;  If users have any questions about the security at our Web site, users can send an email to <a href="mailto:protection@mku.com">protection@mku.com </a>.                  <br>                  <br>                  <strong>Supplementation of Information</strong><br>                  In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources.                  <br>                  We call User to verify his/her identity / address to make sure that the data provided by the user is correct.<br>                  <br>                  <strong>Enhancement of Marketing Profile</strong><br>                  We purchase third party marketing data and add it to our existing user database to better target our advertising and provide pertinent offers we think our users would be interested in. We use this information to enhance or overlay the 'profile' of individual users. This aggregate marketing data is therefore tied to the users' personally identifiable information. Correcting/Updating/Deleting/Deactivating Personal Information&nbsp;  If a user's personally identifiable information changes such as zip code, phone, email or postal address, or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done at the Update profile page or by emailing our Customer Support at <a href="mailto:protection@mku.com">protection@mku.com</a> or, contact us by telephone or postal mail at the contact information listed below.                  <br>                  <br>                  <strong>Notification of Changes</strong><br>                  If we decide to change our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.                  <br>                  If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, their personal information will not be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.                  <br>                  <br>                  
+                      <strong>Contact Information</strong><br>                  If users have any questions or suggestions regarding our privacy policy, please contact us at:<br>                  <br>                  MKU Limited<br>                  13, Gandhi Gram,<br>                  G T Road, Kanpur-208 007<br>                  Uttar Pradesh<br>                  INDIA<br>                  Tel. : +91 512 3026700<br>                  email : <a href="mailto:protection@mku.com">protection@mku.com </a>                  <br>                  <br>                  "The terms and condition appearing herein may differ in interpretation or be in contradiction with other terms of this document, in such cases by all means the terms shall be interpreted and understood as most favourable to the MKU"<br>                  This privacy statement is applicable with effect from 1st day of August, 2014 and is subject to change at any time without prior notice.              </div>          </div>      </section>
+       
+    
 
-
-
-</section>
-<style>
-.priovedy h1{font-size:30px !important; font-family:'yanone_kaffeesatz_regularRg' !important;}
-.priovedy strong{font-size:18px !important; line-height:30px !important;}   
-</style>
-<section class="row con_sec">
-<div class="row_fluid">
-<div class="post_col pre_col post_col pre_col pre_col_altr priovedy">
-The website you have entered is operated by MKU ("MKU"). The privacy statement below covers the site www.mku.com. MKU is committed to protecting your personal privacy. This Privacy Policy outlines the types of information that are collected by MKU on its website, and how we use and protect it. This Policy also explains the choices that you can make about the way your information is collected and used. This Policy applies only to www.mku.com, and it does not apply to banners, sweepstakes and other advertisements or promotions that we may sponsor or participate in on web sites owned by third parties. Some services mentioned in this statement may not be available at this time.<br><br>
-
-<h1>Information Collection and Use</h1>
-<br>
-<strong>Information Collection</strong><br>
-MKU is the sole owner of the information collected on www.mku.com. MKU collects Personal Information from users at several points on our web site. As used in this Privacy Policy, "Personal Information" means any information that is linked to User's identity such as Name, Address, Telephone number and Email address etc.
-<br><br>
-<strong>Enquiry</strong><br>
-We request information from the user on our enquiry form. A user must provide contact information (such as name, email, address etc.). This information is used for mailing purpose, to fulfill customer's enquiry and to contact when required.
-<br><br>
-<strong>Information Use</strong><br>
-Information is collected from the user and used primarily for the purpose of replying to customer's enquiry. In addition to the primary purposes for which personal information is collected, we may use the personal information to contact a user to confirm information related to a purchase order.
-<br><br>
-<strong>We may also use User's information for:</strong><br>
-<ul>
-    <li>Our internal surveys to obtain feedback on our product, services, our web site, or on other aspects of our business that impact you as a MKU customer;</li>
-<li>    To promote other products and services that we think may be of User's interest;</li>
-<li>    To send promotional materials;</li>
-<li>    To provide our free email newsletters;</li>
-</ul><br>
-<strong>Profile</strong><br>
-We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that detail their viewing preferences. Consequently, collected information is tied to the user’s personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site and to direct pertinent marketing promotions to them. We do not share your profile with other third parties.
-<br><br>
-<h1>Communications from the Site</h1><br>
-
-<strong>Special Offers and Updates</strong><br>
-Members will occasionally receive information on products, services, special deals, and newsletters. Out of respect for the privacy of our users we provide the option to not receive these types of communications. Please see the Choice and Opt-out sections.
-<br><br>
-<strong>Newsletter</strong><br>
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. Please see the Choice and Opt-out sections. Service Announcements<br>
-On rare occasions it is necessary to send out a strictly service related announcements. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. Users may opt-out of these communications. Please see our Choice and Opt-out section.
-<br><br>
-<h1>Sharing</h1><br>
-
-<strong>Legal Disclaimer</strong><br>
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
-<br><br>
-<strong>Aggregate Information (non-personally identifiable)</strong><br>
-We share aggregated demographic information with our partners and advertisers. This is not linked to any personally identifiable information.
-<br><br>
-<strong>Third Party Advertisers</strong><br>
-MKU shares Web site usage information about users with a reputable third party and its technical Partner for the purpose of targeting our Internet banner advertisements on other web sites.
-<br><br>
-<strong>Service Providers</strong><br>
-We partner with other third parties to provide specific services like Direct Mailing campaigns, both postal mails and e-Mails. When the user signs up for these particular services, we share names, or other contact information that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
-<br><br>
-<strong>Business Transitions</strong><br>
-In the event MKU goes through a business transition, such as a merger, being acquired by another company or selling a portion of its assets, users' personal information will, in most instances will be part of the assets transferred, users will be notified via email/postal mail and a prominent notice will be put on our Web site, 30 days prior to change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
-<br><br>
-<strong>Choice/Opt-out</strong>
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists.
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to the mail with “unsubscribe” in the subject line or email us at <a href="mailto:protection@mku.com">protection@mku.com </a>. We also offer an opt-out mechanism at the bottom of each Marketing campaign, OR the user may contact us by phone, e-Mail or Postal mail to opt-out.
-<br><br>
-<strong>Tell-A-Friend</strong><br>
-If a user elects to use our referral service for informing a friend about our site / product, we ask them for their friend's name and email address. MKU will automatically send the friend an email inviting them to visit the site, informing about the product. MKU stores this information for the sole purpose of sending this email and tracking success of the referral program. The friend may contact MKU by replying to the mail with “unsubscribe” in the subject line or email us at <a href="mailto:protection@mku.com">protection@mku.com </a> or use the opt-out mechanism at the bottom of the email received.
-<br><br>
-<strong>Security</strong><br>
-This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
-We do everything in our power to protect user-information off-line. Only employees who need the information to perform a specific job for example, our billing clerk, call-center or customer service representatives are granted access to personally identifiable information. Our employees use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Whenever new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in a secure environment.
-If users have any questions about the security at our Web site, users can send an email to <a href="mailto:protection@mku.com">protection@mku.com </a>.
-<br><br>
-<strong>Supplementation of Information</strong><br>
-In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources.
-We call User to verify his/her identity / address to make sure that the data provided by the user is correct.
-<br><br>
-<strong>Enhancement of Marketing Profile</strong><br>
-We purchase third party marketing data and add it to our existing user database to better target our advertising and provide pertinent offers we think our users would be interested in. We use this information to enhance or overlay the 'profile' of individual users. This aggregate marketing data is therefore tied to the users' personally identifiable information. Correcting/Updating/Deleting/Deactivating Personal Information
-If a user's personally identifiable information changes such as zip code, phone, email or postal address, or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done at the Update profile page or by emailing our Customer Support at <a href="mailto:protection@mku.com">protection@mku.com </a> or, contact us by telephone or postal mail at the contact information listed below.
-<br><br>
-<strong>Notification of Changes</strong><br>
-If we decide to change our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
-If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, their personal information will not be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
-<br><br>
-<strong>Contact Information</strong><br>
-If users have any questions or suggestions regarding our privacy policy, please contact us at:<br><br>
-
-MKU Pvt. Ltd.<br>
-13, Gandhi Gram,<br>
-G T Road, Kanpur-208 007<br>
-Uttar Pradesh<br>
-INDIA<br>
-Tel. : +91 512 3026700<br>
-email : <a href="mailto:protection@mku.com">protection@mku.com </a>
-
-</div>
-</div>
-</section>
-
-
+            
             <footer>
                 <div class="ft_main">
                     <div class="col-md-3 col-sm-3 col-xs-12">
-                        <h1>Corporate</h1>
+                        <h1>о Компании</h1>
                         <ul>
-                            <li><a href="Profile.aspx">Profile</a></li>
-                            <li><a href="Advanced-Technologies-Expert-Solutions.aspx">Proven Expertise</a></li>
-                            <li><a href="Robust-Infrastructure.aspx">Robust Infrastructure</a></li>
+                            <li><a href="http://www.mku.com/ru/Profile">Профиль</a></li>
+                            <li><a href="http://www.mku.com/ru/Advanced-Technologies-Expert-Solutions">Опыт и Технологии</a></li>
+                            <li><a href="http://www.mku.com/ru/Robust-Infrastructure">Надежная Инфраструктура</a></li>
+                        </ul>
+                    </div>
 
+                    <div class="col-md-3 col-sm-3 col-xs-12">
+                        <h1>Средства Личной Защиты</h1>
+                        <ul>
+                            <li><a href="http://www.mku.com/ru/Personal-protection">Обзор</a></li>
+                            <li><a href="http://www.mku.com/ru/Balistic-Overvest">Бронежилеты</a></li>
+                            <li><a href="http://www.mku.com/ru/Armour-Insert">Броневые Вставки</a></li>
+                            <li><a href="http://www.mku.com/ru/Helmet">Шлемы</a></li>
+                            <li><a href="http://www.mku.com/ru/Ballistic-Shields">Баллистические Щиты</a></li>
+                            <li><a href="http://www.mku.com/ru/Ballistic-Blankets">Покрывала Баллистической Защиты</a></li>
+                            <li><a href="http://www.mku.com/ru/Demining-Suits">Защитные Комплекты Для Разминирования</a></li>
+                            <li><a href="http://www.mku.com/ru/products/Ballistic-Briefcase">Противопульный Чемоданчик</a></li>
                         </ul>
                     </div>
                     <div class="col-md-3 col-sm-3 col-xs-12">
-                        <h1>Personal Protection</h1>
+                        <h1>Защита Транспортных Средств</h1>
                         <ul>
-                            <li><a href="Personal-protection.aspx">Overview</a></li>
-                            <li><a href="BalisticOvervest.aspx">Ballistic OverVest</a></li>
-                            <li><a href="ArmourInsert.aspx">Armour Inserts</a></li>
-                            <li><a href="Helmet.aspx">Helmets</a></li>
-                            <li><a href="BallisticShields.aspx">Ballistic Shields</a></li>
-                            <li><a href="BallisticBlanket.aspx">Ballistic Blanket</a></li>
-                            <li><a href="DeminingSuits.aspx">Demining Suits</a></li>
-                            <li><a href="Product.aspx?PID=28">Ballistic Briefcase</a></li>
-
+                            <li><a href="http://www.mku.com/ru/Platform-protection">Обзор</a></li>
+                            <li><a href="http://www.mku.com/ru/Land-Protection">Наземные Системы</a></li>
+                            <li><a href="http://www.mku.com/ru/Aircraft-Protection">Воздушные Системы</a></li>
+                            <li><a href="http://www.mku.com/ru/Sea-Protection">Морские Системы</a></li>
+                        </ul>
+                        <h1>Приборы Ночного Видения</h1>
+                        <ul>
+                            <li><a href="http://www.mku.com/ru/night-vision-device">Jaguar7</a></li>
+                            <li><a href="http://www.mku.com/ru/night-vision-device">Jaguar14</a></li>
                         </ul>
                     </div>
                     <div class="col-md-3 col-sm-3 col-xs-12">
-                        <h1>Platform Protection</h1>
+                        <h1>Технологии</h1>
                         <ul>
-                            <li><a href="LandProtection.aspx">Land</a></li>
-                            <li><a href="AircraftProtection.aspx">Air</a></li>
-                            <li><a href="SeaProtection.aspx">Sea</a></li>                            
+                            <li><a href="http://www.mku.com/ru/technology">Средства Личной Защиты</a></li>
+                            <li><a href="http://www.mku.com/ru/vehicle-protection">Защита Транспортных Средствa</a></li>
                         </ul>
-                        <h1>Night Vision Devices</h1>
-                        <ul>
-                            <li><a href="night-vision-device.aspx">Jaguar7</a></li>
-                            <li><a href="night-vision-device.aspx">Jaguar14</a></li>
-
-                        </ul>
-
                     </div>
                     <div class="col-md-3 col-sm-3 col-xs-12 lastlid ">
-
                         <ul>
-                            <li class="events"><a href="Safe.aspx">Technology</a></li>
-                            <li class="events"><a href="UpcomingEvents.aspx">Events</a></li>
-                            <li class="events"><a href="Careers.aspx">Careers</a></li>
-                            <li class="events"><a href="GetInTouch.aspx">Get in Touch</a></li>                          
+                            
+                            <li class="events"><a href="http://www.mku.com/ru/Upcoming-Events">СОБЫТИЯ</a></li>
+                            <li class="events"><a href="http://www.mku.com/ru/Press-Release">ПРЕСС-РЕЛИЗЫ</a></li>
+                            <li class="events"><a href="http://www.mku.com/ru/Careers">Вакансии</a></li>
+                            <li class="events"><a href="http://www.mku.com/ru/GetInTouch">Контакты</a></li>
                         </ul>
                         <div class="form_email" id="dvsignup">
-                            &nbsp;<b>Newsletter Signup </b>
+                            &nbsp;<b>Подписаться на новостную рассылку </b>
                             <br>
                             <input name="ctl00$txtEmail" type="text" maxlength="100" id="txtEmail" class="col-md-7" placeholder="Enter email id" value="Enter email id" onfocus="if(this.value=='Enter email id') this.value=''" onblur="if(this.value=='') this.value='Enter email id'">
-                            <input type="submit" name="ctl00$BtnSubmit" value="Submit" onclick="javascript:return SubscriptionAlert();" id="BtnSubmit" class="col-md-4">
+                            <input type="submit" name="ctl00$BtnSubmit" value="Отправить" id="BtnSubmit" class="col-md-4">
+                            
                         </div>
-                         <div class="form_email" id="dvsignupthanks" style="display:none;">
-                               &nbsp;<b>Newsletter Signup </b>
-                            <br> Thankyou for registering with us
-                             </div> 
+                        <div class="form_email" id="dvsignupthanks" style="display: none;">
+                            &nbsp;<b>Подписаться на новостную рассылку </b>
+                            <br>
+                            Thankyou for registering with us
+                        </div>
+
+                        
+                         <div class="language">
+                           <a id="anken" href="http://www.mku.com/en/">English</a>
+                        |  <a id="ankfr" href="http://www.mku.com/fr/">French</a>
+                        |  <a id="ankde" href="http://www.mku.com/de/">German</a>
+                        |  <a id="ankru" href="http://www.mku.com/ru/">Russian</a>
+                        |  <a id="ankes" href="http://www.mku.com/es/">Spanish</a>          
+                         </div>
+                        
+
                     </div>
                 </div>
+
+                
+
                 <div class="last_ft">
                     <div class="ft_main">
-                        <p class="pull-left">Copyrights © 2014-2015  |  MKU Pvt. Ltd. |  All Rights Reserved. |  <a href="Careers.aspx">Careers</a>  |  <a href="TermsofUse.aspx">Terms &amp; Conditions</a>  |  <a href="Sitemap.aspx">Sitemap</a></p>
+                        <p class="pull-left">
+                            Copyrights © 2014-2015   | MKU Limited | Все права защищены.   
+                            |  <a href="http://www.mku.com/ru/Careers">Вакансии</a>
+                            |  <a href="http://www.mku.com/ru/Privacy-Policy">Конфиденциальность</a>
+                            |  <a href="http://www.mku.com/ru/General-Conditions-of-Sale">Общие условия продаж</a>
+                            | <a href="http://www.mku.com/ru/General-Purchase-Agreement">Генеральное соглашение о закупках</a>
+                            | <a href="http://www.mku.com/ru/Terms-of-Use">Правила и условия</a>
+                            |  <a href="http://www.mku.com/ru/Sitemap">Карта сайта</a>
+                        </p>
                         <div class="pull-right socl_icon"></div>
                     </div>
                 </div>
+
+
             </footer>
     
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"fade","PopupControlID":"pnlProgress","dynamicServicePath":"/en/Privacy-Policy","id":"mpeProgress"}, null, null, $get("pnlProgress"));
+});
+//]]>
+</script>
+
     <!-- jQuery (necessary for Flat UI's JavaScript plugins) -->
 
     <!-- Include all compiled plugins (below), or include individual files as needed -->
 
-    <script>
+    <script type="text/javascript">
         $('.mainleft li').hover(
        function () { $(this).addClass('hover') },
        function () { $(this).removeClass('hover') }
          );
     </script>
-    <script>
+    <script type="text/javascript">
         $(".mob_menu").click(function () {
             $(".mobilemenu").animate({ "right": "0" }, "slow");
             $(".overlay2").fadeIn();
@@ -371,7 +502,7 @@ email : <a href="mailto:protection@mku.com">protection@mku.com </a>
             $(".overlay2").fadeOut();
         });
     </script>
-    <script>
+    <script type="text/javascript">
         $(document).ready(function () {
             var stickyNavTop = $('header').offset().top;
             var stickyNav = function () {
@@ -387,19 +518,25 @@ email : <a href="mailto:protection@mku.com">protection@mku.com </a>
                 stickyNav();
             });
         });
+
+        $('.closebt').click(function () {
+            $('.heroes').hide();
+        })
+
     </script>
 
     
-        <link href="css/main.css" rel="stylesheet" type="text/css">
-        <link href="css/responsive.css" rel="stylesheet" type="text/css">
-        <link href="css/mob-display.css" rel="stylesheet" type="text/css">
-        <link href="css/owl.carousel.css" rel="stylesheet">
-        <link href="css/owl.theme.css" rel="stylesheet">
+        <link href="http://www.mku.com/css/main.css" rel="stylesheet" type="text/css">
+        <link href="http://www.mku.com/css/responsive.css" rel="stylesheet" type="text/css">
+        <link href="http://www.mku.com/css/mob-display.css" rel="stylesheet" type="text/css">
+        <link href="http://www.mku.com/css/owl.carousel.css" rel="stylesheet">
+        <link href="http://www.mku.com/css/owl.theme.css" rel="stylesheet">
         <!-- Include all compiled plugins (below), or include individual files as needed -->
-        <script src="js/bootstrap.js"></script>
-        <script src="js/jquery-scrolltofixed-min.js" type="text/javascript"></script>
-        <script src="js/retina.js"></script>
-        <script src="js/master.js"></script>
+        <script src="http://www.mku.com/js/bootstrap.js"></script>
+        <script src="http://www.mku.com/js/jquery-scrolltofixed-min.js" type="text/javascript"></script>
+        <script src="http://www.mku.com/js/retina.js"></script>
+        <script src="http://www.mku.com/js/master.js"></script>
+
         <script type="text/javascript">
             $(document).ready(function () {
                 // grab the initial top offset of the navigation 
@@ -433,7 +570,7 @@ email : <a href="mailto:protection@mku.com">protection@mku.com </a>
                 });
             });
         </script>
-        <script>
+        <script type="text/javascript">
             $(function () {
                 $('a[href*=#]:not([href=#])').click(function () {
                     if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
@@ -449,7 +586,7 @@ email : <a href="mailto:protection@mku.com">protection@mku.com </a>
                 });
             });
         </script>
-        <script>
+        <script type="text/javascript">
             $(document).ready(function () {
                 $("#owl-demo").owlCarousel({
                     navigation: true,
@@ -493,6 +630,27 @@ email : <a href="mailto:protection@mku.com">protection@mku.com </a>
                 });
             });
         </script>
+
+    
+    
+    <script type="text/javascript">
+
+        Sys.Net.WebRequestManager.add_invokingRequest(onInvoke);
+        Sys.Net.WebRequestManager.add_completedRequest(onComplete);
+
+        function onInvoke(sender, args) {
+            $find('mpeProgress').show();
+        }
+
+        function onComplete(sender, args) {
+            $find('mpeProgress').hide();
+        }
+        function pageUnload() {
+            Sys.Net.WebRequestManager.remove_invokingRequest(onInvoke);
+            Sys.Net.WebRequestManager.remove_completedRequest(onComplete);
+        }
+
+    </script>
     
 
 
