@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techgyd.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231954id_/http%3A//www.techgyd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgyd.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603232926id_/http%3A//www.techgyd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ IP Adressess and other information we collects are not linked to any information
 
 ## Cookies and Web Beacons
 
- **www.techgyd.com** makes use of cookies to store information about visitors’ preferences, record user-specific information on which user visit, customize Web Page content according to users browser type or other infomation that the visitor sends via theri browser.
+**www.techgyd.com** makes use of cookies to store information about visitors’ preferences, record user-specific information on which user visit, customize Web Page content according to users browser type or other infomation that the visitor sends via theri browser.
 
 ## DoubleClick DART Cookies
 
@@ -37,7 +37,7 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 * * *
 
- **YOU COULD BE INTERESTED IN:**
+**YOU COULD BE INTERESTED IN:**
 
   * [Reading Our “About Us” Page](http://www.techgyd.com/about)
   * [Advertising Here](http://www.techgyd.com/about)
