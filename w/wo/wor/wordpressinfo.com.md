@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordpressinfo.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105000637id_/http%3A//wordpressinfo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordpressinfo.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603135730id_/http%3A//wordpressinfo.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY | WordPressInfo.com
 
@@ -18,4 +18,4 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless, you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-Copyright © 2015 WordPressInfo.com™ All Rights Reserved. E&OE.
+Copyright © 2017 WordPressInfo.com™ All Rights Reserved. E&OE.
