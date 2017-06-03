@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the skyhdwallpaper.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625125550id_/http%3A//www.skyhdwallpaper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyhdwallpaper.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603201419id_/http%3A//www.skyhdwallpaper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Sky HD Wallpaper
 
-All the wallpapers, pictures, photos, PC, Mac, Iphone, Ipad, 3d and photographs on “Skyhdwallpaper.Com” easily to download. [HD Wallpapers](http://www.skyhdwallpaper.com/hd-wallpapers) 3d, as the name implies takes you to the world of high resolution &  top quality wallpapers where you can freely and easily download HD wallpapers for your Desktop, Laptop and even the mobile phones. After a keen selection of high definition photos, HD wallpapers 3d offers its valued visitors a wide range of High Resolution pictures, to be used for their desktops as per their mood and requirement.  
+**Privacy policy**
+
+All the wallpapers, pictures, photos, PC, Mac, Iphone, Ipad, 3d and photographs on “Skyhdwallpaper.Com” easily to download. HD Wallpapers 3d, as the name implies takes you to the world of high resolution &  top quality wallpapers where you can freely and easily download HD wallpapers for your Desktop, Laptop and even the mobile phones. After a keen selection of high definition photos, HD wallpapers 3d offers its valued visitors a wide range of High Resolution pictures, to be used for their desktops as per their mood and requirement.  
 In view of world/cyber rights & limitations, all the wallpapers on the website “Skyhdwallpaper.Com”, hold copyright authorities/privileges given to the website holders, so, if you wish to download and use these wallpapers for your pc desktop, laptop or even mobile phone, you must acquire permission from the respective authors. Skyhdwallpaper.Com Team.
 
 The owners and operators of Skyhdwallpaper.Com take your online privacy seriously. This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.  
