@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kareo.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214015222id_/http%3A//www.kareo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kareo.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603192034id_/http%3A//kareo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kareo
 
@@ -7,12 +7,6 @@ Protecting your privacy on our web site
 What this privacy policy covers 
 
 This privacy policy pertains to the use of the Kareo web site at [**kareo.com**](http://www.kareo.com/). This privacy policy covers how Kareo, Inc. (“Kareo”, We”, “Us”, or “Our”) treats personal information that Kareo collects and receives through the website [**kareo.com**](http://www.kareo.com/) and Kareo Clinical (Electronic Health Records, or EHR), Kareo Billing (Practice Management), or Kareo Marketing (including Kareo DoctorBase), as well as the Kareo Patient Portal (collectively, the “Service” or “Services”). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. Personal information is information about you that is personally identifiable like your name, address, email address or phone number. Children under 13 are not permitted to use the Service, and so this privacy policy makes no provision for children's use of the site. 
-
-The TRUSTe certification covers only our collection, use and disclosure of information we collect through our web site [**kareo.com**](http://www.kareo.com/) and the Services. The use of information collected through our Service shall be limited to the purpose of providing the Service for which the Client has engaged Kareo. 
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=2ed20f1f-5832-4822-9f76-76ce2c70d1e7 "TRUSTe Privacy Certification")
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [**TRUSTe here**](https://feedback-form.truste.com/watchdog/request). 
 
 Information collection and how it is used 
 
