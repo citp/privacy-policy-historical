@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalbusinessfurniture.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226044039id_/http%3A//www.nationalbusinessfurniture.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalbusinessfurniture.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603112149id_/https%3A//www.nationalbusinessfurniture.com/privacy.aspx) for the most accurate reproduction.*
 
 # National Business Furniture Privacy Policy
 
@@ -40,7 +40,7 @@ You can click on the Norton Secured logo below to verify that our SSL Certificat
 
 ## Is Information Shared with Third Parties?
 
-NBF.com has been able to grow and expand its product line with its direct marketing efforts. In order to reach customers who would benefit from our products we do rent other companies' customer lists and, in turn, we occasionally rent our customer list to carefully selected companies. Information shared in this process consists only of company, name and address. NBF.com does not rent or sell email addresses or phone numbers. Your email address and phone number will only be used for order confirmations, to communicate about your order and for the company's email newsletters. We appreciate your business and want to keep you as a valued customer of NBF.com. If you would prefer we not share your information with other companies, please [email us](http://www.nationalbusinessfurniture.com/Contact-National-Business-Furniture.aspx) (please allow 4 – 6 weeks for this process). If you would like to opt-out of receiving our email newsletters, please [email us](http://www.nationalbusinessfurniture.com/Contact-National-Business-Furniture.aspx)
+NBF.com has been able to grow and expand its product line with its direct marketing efforts. In order to reach customers who would benefit from our products we do rent other companies' customer lists and, in turn, we occasionally rent our customer list to carefully selected companies. Information shared in this process consists only of company, name and address. NBF.com does not rent or sell email addresses or phone numbers. Your email address and phone number will only be used for order confirmations, to communicate about your order and for the company's email newsletters. We appreciate your business and want to keep you as a valued customer of NBF.com. If you would prefer we not share your information with other companies, please [email us](https://www.nationalbusinessfurniture.com/Contact-National-Business-Furniture.aspx) (please allow 4 – 6 weeks for this process). If you would like to opt-out of receiving our email newsletters, please [email us](https://www.nationalbusinessfurniture.com/Contact-National-Business-Furniture.aspx)
 
 We also provide your information to trustworthy organizations that assist in completing your order. These organizations include companies that validate and process credit card transactions, deliver your packages, schedule and perform product installations and manage service programs. It is possible that we may share your information with companies who help us analyze sales data, maintain our records, and provide other services for NBF.com . We may also disclose your information to companies that act on our behalf and at our guidance to inform you of other NBF.com products and services. These companies may conduct customer satisfaction surveys and manage additional customer services and benefits for us. These third parties are only authorized to use your information to execute their contractually assigned functions. 
 
@@ -50,7 +50,7 @@ We may allow third parties, such as Google, to place a cookie on your computer. 
 
 ## Opting-Out (Unsubscribing)
 
-If you would prefer to be excluded from the customer list that we occasionally rent to other companies, please [email us](http://www.nationalbusinessfurniture.com/Contact-National-Business-Furniture.aspx) (please allow 4 – 6 weeks for this process). To opt-out of receiving emails from us containing promotions and product updates, please [email us](http://www.nationalbusinessfurniture.com/Contact-National-Business-Furniture.aspx). If you no longer wish to receive our catalog or want to reduce the number of times per year you receive it, please submit our online form. 
+If you would prefer to be excluded from the customer list that we occasionally rent to other companies, please [email us](https://www.nationalbusinessfurniture.com/Contact-National-Business-Furniture.aspx) (please allow 4 – 6 weeks for this process). To opt-out of receiving emails from us containing promotions and product updates, please [email us](https://www.nationalbusinessfurniture.com/Contact-National-Business-Furniture.aspx). If you no longer wish to receive our catalog or want to reduce the number of times per year you receive it, please submit our online form. 
 
 * * *
 
@@ -62,7 +62,7 @@ It is the duty of NBF.com to safeguard the online privacy of all its visitors, i
 
 ## Who Should I Contact for More Information?
 
-If you have any questions regarding the privacy statement, the practices of this website, or your interactions with this site, please contact us by [email](http://www.nationalbusinessfurniture.com/Contact-National-Business-Furniture.aspx) , by phone at 800-558-1010, or in writing to: 
+If you have any questions regarding the privacy statement, the practices of this website, or your interactions with this site, please contact us by [email](https://www.nationalbusinessfurniture.com/Contact-National-Business-Furniture.aspx) , by phone at 800-558-1010, or in writing to: 
 
 National Business Furniture  
 770 South 70th Street  
