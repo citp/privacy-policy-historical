@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lifeinahouseoftestosterone.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017225037id_/https%3A//www.lifeinahouseoftestosterone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeinahouseoftestosterone.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603152504id_/http%3A//www.lifeinahouseoftestosterone.com/work-with-life-in-a-house/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • Life in a House of Testosterone
+# Privacy Policy
 
 This privacy policy sets out how Life in a House of Testosterone uses and protects any information that you give while using [lifeinahouseoftestosterone.com](http://lifeinahouseoftestosterone.com/).
 
@@ -70,4 +70,21 @@ If you wish to see which companies you have authorized cookies for, and opt-out 
 
 We love to answer any questions that you might have about anything on our website. If you have questions about our privacy policy or about collection of personally identifiable information, please send a direct inquiry via email to the owner of this website, Kim Miller, at [kim@lifeinahouseoftestosterone.com](mailto:kim@lifeinahouseoftestosterone.com).
 
-Surviving the Chaos One More Day,
+Thanks so much for stopping by. Remember to be kind to one another today.  
+You may be the answer to someone's prayers.
+
+## • We Appreciate Your Daily Vote •
+
+[](http://picketfenceblogs.com/vote/6227) [](http://www.topmommyblogs.com/index.php?a=in&u=tmww)
+
+## • Disclosure •
+
+I have hungry teenagers. Who eat constantly. As a result, you may find affiliate links to products and services in this post. If you click on one of our links and make a purchase, we will earn a small commission that will enable me to feed the bottomless pits or buy myself a glass of wine to keep my sanity intact. We also don't want to anger the Federal Trade Commission so in accordance with the FTC Guidelines, we want you to know that we may receive products, money, or other forms of compensation for reviews, posts and/or advertisements. All opinions are 100% our own and simply put, if we don't like it, you won't find it here because we won't endorse it. We bring you valuable, informative information and fun products to enhance your life because we're all about sharing the cool stuff.
+
+  * [ ](https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.lifeinahouseoftestosterone.com%2Fwork-with-life-in-a-house%2Fprivacy-policy%2F)
+  * [ ](https://twitter.com/intent/tweet?text=Privacy%20Policy&url=http%3A%2F%2Fwww.lifeinahouseoftestosterone.com%2Fwork-with-life-in-a-house%2Fprivacy-policy%2F)
+  * [ ](https://plus.google.com/share?url=http%3A%2F%2Fwww.lifeinahouseoftestosterone.com%2Fwork-with-life-in-a-house%2Fprivacy-policy%2F)
+  * [ ](https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.lifeinahouseoftestosterone.com%2Fwork-with-life-in-a-house%2Fprivacy-policy%2F&description=)
+  * [ ](https://linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.lifeinahouseoftestosterone.com%2Fwork-with-life-in-a-house%2Fprivacy-policy%2F&title=Privacy%20Policy)
+
+
