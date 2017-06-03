@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thezebra.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416051358id_/https%3A//www.thezebra.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thezebra.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603044048id_/https%3A//www.thezebra.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Zebra
 
-## SHARING OF PERSONAL INFORMATION
+#### Sharing of Personal Information
 
 The Zebra may rent, sell or share Personal Information or Location Based Information it collects about you to or with third parties. Personal Information and Location Based Information collected from you is commonly used to provide you with products and services and to comply with any requirements of law.
 
@@ -16,6 +16,6 @@ The Zebra or its agents or contractors may disclose Personal Information or Loca
 
 Finally, if The Zebra should ever merge with another organization, file for bankruptcy, or sell our assets, we may transfer the information you provide to us on through the Service to a third party or share your Personal Information to the company with which we enter into such transaction as a part of such transaction.
 
-#### Partner Companies
+#### Companies
 
-By submitting your information on The Zebra, the following companies or their agents or partners may contact you: 21st Century, AAA, Acceptance, AIS, Allstate, All Web Leads, American Family, AIG, Amica, Answer Financial, Auto Owners, Bankrate (InsuranceQuotes.com), Consumer United (Goji Insurance), Dairyland, Direct Auto, Discount Insurance Quotes, Encompass, Erie, Assurance, Farm Bureau, Farmers, GEICO, GMAC/NGIC, Hanover, The Hartford, InsuraMatch, Kemper, Liberty Mutual, Lighthouse Insurance, Mercury, MetLife, Nationwide, PemCo, Plymouth Rock, Progressive, Precise Leads, Prudential, QuoteWizard, Safeco, Safe Auto, SelectQuote, Sentry, State Farm, The General, TheZebra.com (Insurance Zebra), Travelers, Underground Elephant, Unitarian, or USAA. 
+By submitting your information on The Zebra, the following companies or their agents or partners may contact you: 21st Century, AAA, Acceptance, AIG, AIS, All Web Leads, Allstate, American Family, Amica, Answer Financial, Assurance, Astoria Company, Bankrate (InsuranceQuotes.com), Consumer United (Goji Insurance), Dairyland, Datalot, Direct Auto, Discount Insurance Quotes, DoublePositive, Encompass, Erie, Farm Bureau, Farmers, GEICO, The General, GMAC/NGIC, Hanover, The Hartford, Hometown Quotes, InsuraMatch, Katch, Kemper, Leadnomics, Liberty Mutual, Lighthouse Insurance, Match Media Group, MediaAlpha, Mercury, MetLife, Moss Corporation, Nationwide, Nexus Enterprise Solutions, PemCo, Plymouth Rock, Precise Leads, Progressive, Prudential, QuinStreet, QuoteWizard, Safe Auto, Safeco, SelectQuote, Sentry, State Farm, TheZebra.com (Insurance Zebra), Travelers, Underground Elephant, Unitarian, or USAA 
