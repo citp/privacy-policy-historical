@@ -1,95 +1,161 @@
-> *The following text is extracted and transformed from the appdynamics.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620202938id_/http%3A//www.appdynamics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appdynamics.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603021506id_/https%3A//www.appdynamics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AppDynamics
 
-**OUR POLICY**
+## Privacy Policy
 
-Welcome to the web site (the  **“Site”** ) of AppDynamics Inc. ( **“AppDynamics”** ,  **“we”** ,  **“us”**  and/or  **“our”** ). This Site is operated by AppDynamics and has been created to provide information about our company and its products and services (the  **“Products”** ) to you as a visitor to our Site or user of our Products ( **“you”**  and/or  **“your”** ). This Privacy Policy sets forth AppDynamics’ policy with respect to information, including personally identifiable data ( **“Personal Data”** ), that is collected from visitors to the Site and users of the Products.
+#### Updated as of September 14, 2016
 
-**INFORMATION WE COLLECT**
+### 1\. About AppDynamics
 
-When you interact with us through our Site or Products, we may collect Personal Data and other information from you, as further described below:
+AppDynamics, Inc. (“AppDynamics”) is a Delaware corporation located at 303 Second Street, 8th Floor, North Tower, San Francisco, CA 94107. Full company details of AppDynamics and AppDynamics affiliates that may process your personal information can be found [here](https://www.appdynamics.com/company/contact-us/)
 
-**Personal Data That You Provide Through the Site or Products**
+### 2\. About this Privacy Policy
 
-We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, purchase a Product, register your Product or otherwise use certain Products. In addition, when you access or use a Product we may collect metrics on your activities, such as web pages visited, length of visit, and which features of our product you use. In order to have access to certain Products and/or to purchase certain items, you may be required to provide credit card detail or other acceptable payment information. Wherever AppDynamics collects Personal Data we make an effort to provide a link to this Privacy Policy. 
+AppDynamics and our affiliates (" **we** ", " **us** ", or " **our** ") are committed to protecting and respecting your personal information and privacy.
 
-**By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to us through the Site or in connection with any Product, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of AppDynamics and the authorized third parties referred to herein located in the United States.  **
+This policy (together with our website [terms of use](https://www.appdynamics.com/terms-of-use/) and any other documents referred to in this policy) gives details of what information we may collect from you or that you may provide to us, and how we may store and use this information. Such information may be collected or provided when you communicate with us or use our mobile apps, websites or any of our products.
 
-**Other Information  **
+ **Please read the following carefully to understand how we collect and use your information. If you have any questions about this policy or our use of your information, you can contact us at[privacy@appdynamics.com](mailto:privacy@appdynamics.com) or one of our [local offices](https://www.appdynamics.com/company/contact-us).**
 
-**Non-Identifiable Data:  **When you interact with AppDynamics through the Site or any Product, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. AppDynamics may store such information itself or such information may be included in databases owned and maintained by AppDynamics affiliates, agents or service providers. We may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, the domain names of our visitors' Internet service providers and the use of our Products. It is important to note that no Personal Data is available or used in this process.
+Changes we may make to this policy will be made by updating this page and, where appropriate, notified to you by email. Please check back frequently to see any updates or changes to this policy.
 
-In operating the Site, we may use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Site gives to your browser when you access the Site. Additionally, third-party widgets such as YouTube or Twitter may install cookies depending on their configuration.  Our cookies help provide additional functionality to the Site and help us analyze Site usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Site without needing to remember and then enter a password more than once during a visit to the Site. However, these cookies are not required for site functionality and you are not required to accept any cookies to use this site. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Site’s features. The Site uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies to help the Site analyze how users use the Site. The information generated by the cookie about your use of the Site (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the Site, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. As noted above, on most web browsers you may refuse the use of cookies by selecting the appropriate settings, however please note that if you do this you may not be able to use the full functionality of the Site. By using the Site, you consent to the processing of data about you by Google in the manner and for the purposes set out above. The Site also automatically captures IP addresses. AppDynamics uses IP addresses to analyze trends, administer the Site, track user movement, ensure the security of your interaction with the Site and gather broad demographic information for aggregate use.
+### 3\. Where We Store Your Information
 
-**Managing Cookies and Do Not Track:**  You can inform the web services with which the Site or Products integrate (such as social buttons, widgets, and other embedded features or content) that you do not want certain information about your webpage visits to be collected. Enabling “Do Not Track” in your web browser settings is an easy way to accomplish this. The “Do Not Track” browser setting is supported by recent versions of major browsers, including Firefox 5+, Internet Explorer 9+, Safari 5.1+, and Google Chrome. Please consult [http://donottrack.us](http://donottrack.us/) on how to enable this privacy setting on your browser. You can also change the way your browser handles cookies. Already existing cookies can be deleted. Please consult [www.allaboutcookies.org](http://www.allaboutcookies.org/) on how to manage or delete cookies in your browser.
+We are a global organization and so the information that we collect from you may be transferred to, and stored at, a destination other than the country in which the information was collected (information is frequently transferred to the United States because that is where we are headquartered).
 
-**Aggregated Personal Data:  **In an ongoing effort to better understand and serve the users of the Site and Products, AppDynamics often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and AppDynamics may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. AppDynamics may also disclose aggregated user statistics in order to describe our Products to current and prospective business partners, and to other third parties for other lawful purposes.
+Your information may also be processed by our staff at any of our locations around the world or by the staff of our suppliers at any of their locations around the world. Such staff may be engaged in, among other things, the fulfillment of your order, the processing of your payment details and the provision of support services.
 
-**OUR USE OF YOUR PERSONAL DATA AND OTHER INFORMATION**
+Information you provide to us may be stored on our servers or those of our third party service providers. Where we have given you (or where you have chosen) a password that enables you to access certain parts of our website, you are responsible for keeping this password confidential. You should not share your password with anyone.
 
-AppDynamics uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to purchase or register a Product, we will use your Personal Data to permit you to conduct such activities. AppDynamics and its subsidiaries and affiliates (the “Related Companies”) may also use your Personal Data as well as personally non-identifiable information collected through the Site and Products to help us improve the content and functionality of the Site and Products, provide customers with Product updates, better understand our users and improve the Site and Products. AppDynamics and its Related Companies may use this information to contact you in the future to tell you about products or services we believe will be of interest to you. If we do so, each communication we send you will contain instructions permitting you to "opt-out" of receiving future communications.  In addition, if at any time you wish not to receive any future communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.
+### 4\. AppDynamics Products
 
-If AppDynamics intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.
+Some of our products may be used by our customers to collect information that is or could be personal information. We may have no direct relationship with the individuals whose personal information we process on behalf of our customers. An individual who seeks access, or who seeks to correct, amend or delete inaccurate data controlled by one of our customers should direct its query to our customer (the data controller). We use and disclose such information as specified in the agreement(s) between our customer and us and/or as required by law.
 
-**APPDYNAMICS AGENTS**
+### 5\. Information We May Collect From You
 
-Certain of our Products utilize applications (agents) that collect and capture information from users of the Products. 
+(a) **Information you give to us:** You may provide us with certain categories of personal information, which is information that could reasonably be used to identify you personally, including but not limited to, your name, email address and company information. We may collect this information through forms that you complete on our mobile apps and websites, by subscribing to our services (such as newsletters or white papers), using community forums on our website, attending training sessions, following us on social media, by attending our events or by corresponding with us by phone, email, social media or otherwise. This includes information you provide when you purchase products from us, contact our support helpdesk, participate in forums or other social media functions on our website, enter a competition, promotion or survey and when you report a problem with our website.
 
-**OUR DISCLOSURE OF YOUR PERSONAL DATA AND OTHER INFORMATION**
+(b) **  Information when you use our mobile apps:** When you use our mobile apps we may automatically collect the following information:
 
-AppDynamics is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:
+(i) **  Device information:** We may collect information about the device including, where available, the device's unique device identifiers, operating system, browser type and, if a mobile device, mobile network information as well as the device's telephone number;
 
-**Business Transfers**
+(ii) **  Location information:**If you use any location-enabled services that we may offer, we may collect and process information about your actual location. Some of these services may require your personal data for the feature to work. If you wish to use the particular feature, you will be asked to consent to your information being used for this purpose; and
 
-As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.
+(iii)  **Unique application numbers:** when you install or uninstall an app containing a unique application number or when such a service searches for automatic updates, that number and information about your installation, for example, the type of operating system, may be sent to us.
 
-**Related Companies  **
+(c)  **Information from visits to our websites:** Each time you visit our website we may automatically collect the following information:
 
-We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy. 
+(i)  **Technical information** , including the Internet protocol (“IP”) address used to connect your computer to the Internet (which may allow us to identify your geographic location), your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; and
 
-**Agents, Consultants and Related Third Parties**
+(ii)  **Information about your visit** , including the full Uniform Resource Locators (“URL”) clickstream to, through and from our website (including date and time); page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
 
-AppDynamics, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
+(d)  **Information from your use of our products:** If you use our software, we may automatically collect metrics on your activities, such as details of when you are using the software, web pages visited, length of visit, interactions with the user interface, , which features of our products you use and how often, how many agents have been installed and the application types being monitored and other information about your technology environment and devices used (including unique device identifiers, operating system, browser type and mobile network information). If you configure or use our products in a manner that collects information about your customers, then we will also receive that information.
 
-**Strategic Partners; Service Providers**
+Our products also collect metrics that relate to the performance, health and resource of servers, databases applications and other technology, as well as their components (transactions, code libraries) and the related infrastructure (nodes, tiers) that service those components.
 
-AppDynamics may make certain of your Personal Data available to third parties that AppDynamics has a strategic relationship with or that perform work for AppDynamics to provide the Products to you. These third parties may help AppDynamics process information, fulfill orders, deliver Products, manage and enhance user data, provide customer service, assess your interest in Products or conduct user research and surveys. These companies are obligated to protect your Personal Data and may have their own privacy policies if you link to or access their websites or systems.
+(e)  **Information we receive from other sources:** We work closely with third parties (for example, business partners, resellers, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers and credit reference agencies) and may receive information about you from them to enable us to customize your experience on our websites with personalized content. In addition, if you use our social login features (allowing you to log-in to your account using a third party platform such as LinkedIn or GitHub), such third party platform will provide us with access to certain information that you have provided to it, and we will use, store and disclose such information in accordance with this policy. However, please remember that the manner in which such third party platforms use, store and disclose your information is governed by the policies of such third parties, and we will have no liability or responsibility for the privacy practices or other actions of any such platforms.
 
-**Legal Requirements**
+### 6. Cookies
 
-AppDynamics may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of AppDynamics, (iii) act in urgent circumstances to protect the personal safety of users of the Site or Products or the public, or (iv) protect against legal liability. 
+Our websites use cookies to distinguish you from other users of our websites. This helps us to provide you with a smooth and personalized user experience when you use our websites and also allows us to improve our websites. For detailed information on the cookies we use and what we use them for see our [Cookie Policy](https://www.appdynamics.com/cookie-policy).
 
-**YOUR CHOICES**
+### 7. How We Use Your Information
 
-You can visit certain portions of the Site and use certain portions of the Products without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain portions of the Site or Products.
+We may use the information held about you to:
 
-**EXCLUSIONS**
+(a) carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;
 
-This Privacy Policy does not apply to any Personal Data collected by AppDynamics other than Personal Data collected through the Site or Products. This Privacy Policy shall not apply to any unsolicited information you provide to AppDynamics through the Site or Products or through any other means. This includes, but is not limited to, information posted to any public areas of the Site, such as bulletin boards (collectively, “Public Areas”), any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and AppDynamics shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
+(b) provide you with information about other products and services we offer;
 
-**CHILDREN**
+(c) respond to your requests and questions;
 
-AppDynamics does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Site or Products. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data through the Site or Products without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to AppDynamics through the Site or Products, please contact us, and we will endeavor to delete that information from our databases.
+(d) notify you about changes to our company, products or services, and changes to our terms and conditions; and
 
-**THIRD PARTY SITES AND PRODUCTS**
+(e) ensure that relevant content from our websites is presented in the most effective manner for you and for your device
 
-This Privacy Policy applies only to the Site and Products. The Site or Products may contain links to or otherwise interact with other web sites or products not operated or controlled by AppDynamics (the “Third Party Sites/Products”), including third party add-ons, applications and other software that could track your usage or collect Personal Data. The policies and procedures we described here do not apply to the Third Party Sites/Products. We suggest contacting those third parties directly for information on their privacy policies. 
+(f) administer our website and products, and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
 
-**SECURITY**
+(g) improve our website and products and to ensure that content is presented in the most effective manner for you and your device;
 
-AppDynamics takes reasonable steps to protect the Personal Data provided via the Site and Products from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail or messages sent to or from the Site or Products may not be secure. Therefore, you should take special care in deciding what information you send to us. Please keep this in mind when disclosing any Personal Data to AppDynamics via the Internet. 
+(h) allow you to participate in interactive features of our website, products and services when you choose to do so, including but not limited to sweepstakes, contests and social media engagements;
 
-**OTHER TERMS AND CONDITIONS**
+(i) help keep our website, products and services safe and secure;
 
-Your access to and use of the Site is subject to the Terms of Use at [www.appdynamics.com/terms-of-use](https://www.appdynamics.com/terms-of-use), and your use of any Product is subject to the applicable the end user terms and conditions for such Product.
+(j) measure and understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
 
-**CHANGES TO APPDYNAMICS’ PRIVACY POLICY**
+(k) make suggestions and recommendations to you and other users of our website about products or services that may interest you or them;
 
-The Site, our Products and our business may change from time to time. As a result, at times it may be necessary for AppDynamics to make changes to this Privacy Policy. AppDynamics reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Site or Products after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+(l) notify you about changes to our company or services; and
 
-**ACCESS TO INFORMATION; CONTACTING APPDYNAMICS**
+(m) comply with applicable legal requirements, relevant industry standards and our policies.
 
-To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Site or Products.
+We also may use the information in other ways for which we provide specific notice at the time of collection.
 
-Please also feel free to contact us if you have any questions about AppDynamics’ Privacy Policy or the information practices of the Site or Products.
+### 8. Marketing to you
+
+We may use information held about you to provide you, or permit selected third parties to provide you, with information about products or services we feel may interest you. This may be by contacting you by phone or by email.
+
+If you do not want us to use your information in this way, or to pass your details on to third parties for marketing purposes, you can unsubscribe from such emails using the link provided in emails, tell your AppDynamics contact, email us at [privacy@appdynamics.com](mailto:privacy@appdynamics.com) or check the relevant box on the form in which we are collecting your information. Note that you may still receive administrative emails (for example, regarding updates to our terms) or transactional emails (for example, related to a purchase you make) from us.
+
+### 9. Aggregated Information
+
+In an ongoing effort to better understand and serve the users of our websites and products, we often conduct research on customer demographics, interests and behavior based on the personal information and other data provided to us. This research may be compiled and analyzed on an aggregate basis, and we may share this aggregated data with our affiliates, agents and business partners. This aggregated information does not identify you personally.
+
+We may also disclose aggregated user statistics in order to describe our products to current and prospective business partners, and to other third parties for other lawful purposes.
+
+### 10. Disclosure of Your Information
+
+We will never sell your information for marketing purposes. However, there may be times when we need to share your personal information, as detailed below.
+
+We may share your personal information with any of our affiliates if necessary for the legitimate business purposes of the disclosing company or company receiving the information.
+
+We may also share your information with selected third parties including:
+
+(a) our affiliates, business partners, resellers, suppliers and sub-contractors for the performance of any contract we enter into with them or you. When we employ another company to perform a function of this nature, we strive to provide them with the minimum information that they need to perform their specific function;
+
+(b) partners and service providers with whom we have a strategic relationship or that perform work for us to provide the products to you. These third parties may help us host and/or analyze data, process information, fulfill orders, deliver products or information, manage and enhance user data, provide customer service, assess your interest in products or conduct user research and surveys. These companies are obligated to protect your personal information and may have their own privacy policies if you link to or access their websites or systems; and
+
+(c) analytics and search engine providers that assist us in the improvement and optimization of our website.
+
+We may disclose your personal information to third parties:
+
+(a) in the event that we sell or buy any business or assets, in which case we may disclose your information to the prospective seller or buyer of such business or assets;
+
+(b) if substantially all of our assets are acquired by a third party, in which case information held by us about our customers will be one of the transferred assets; or
+
+(c) if we are under a duty to disclose or share your information in order to comply with any legal obligation, or in order to enforce any agreements with you or to protect the rights, property, or safety of us, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+
+### 11. Security
+
+We take commercially reasonable steps to protect the personal information we receive from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error-free. In particular, email sent to or from us may not be secure. Therefore, you should take special care in deciding what information you send to us via email. Please keep this in mind when disclosing any personal information to us.
+
+We ask that you not send us, and you not disclose, any sensitive personal information to us directly or through our products (such as protected health information, passwords and authentication/authorization credentials for other services, credit card numbers or other financial information other than for the purpose of making payment to us, drivers license numbers, passport numbers, social security numbers or information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership).
+
+### 12. Your Rights
+
+Subject to applicable law, you can request to review, change, or delete your personal information by contacting us at [privacy@appdynamics.com](mailto:privacy@appdynamics.com).
+
+### 13. Withdrawing your consent to us using your information
+
+You may withdraw any consent you previously provided to us for the processing of your personal information by contacting us at [privacy@appdynamics.com](mailto:privacy@appdynamics.com). As required by applicable law, we will apply your preferences going forward, within a reasonable amount of time. Even where you withdraw your consent, we may still process your personal data for limited purposes, for example, to give effect to your request or to safeguard our business. In some circumstances, withdrawing your consent to our use or disclosure of your personal information will mean that you cannot use some of our products or services.
+
+### 14. Children
+
+We do not knowingly collect personal information from children under the age of 13. If you are under the age of 13, please do not submit any personal information through our websites or products. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our policy by instructing their children never to provide personal information through our websites or products without their permission. If you have reason to believe that a child under the age of 13 has provided personal information to us through our websites or products, please contact us, and we will endeavor to delete that information from our databases.
+
+### 15. Your California Privacy Rights
+
+Applicable California privacy legislation permits visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request to access such information, please contact us as follows: [privacy@appdynamics.com](mailto:privacy@appdynamics.com). Within 30 days after receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.
+
+### 16. Third Party Links
+
+Our website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these third parties. Please check these policies before you submit any information to these websites.
+
+### 17. Public Forums
+
+Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@appdynamics.com](mailto:privacy@appdynamics.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+### 18. Contact
+
+Questions, comments and requests regarding this policy are welcomed and should be addressed to [privacy@appdynamics.com](mailto:privacy@appdynamics.com).
