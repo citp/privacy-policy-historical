@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuffieldhealth.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102134731id_/https%3A//www.nuffieldhealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuffieldhealth.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603194003id_/https%3A//www.nuffieldhealth.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Nuffield Health
 
@@ -131,9 +131,11 @@ Nuffield Health collects these types of cookies.
 
 These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
 
+As an exception to the above statement that these cookies don’t collect information that identifies a visitor, we do use Google Analytics User ID which enables us to track you by your user ID across multiple devices by linking information associated with multiple user IDs.
+
 Web analytics that use cookies to gather data to enhance the performance of a website fall into this category. For example, they may be used for testing designs and ensuring a consistent look and feel is maintained for the user. This category does not include cookies used for behavioural/ targeted advertising networks.
 
-Nuffield Health collects these types of cookies by functional use in clause 2.1 . By using nuffieldhealth.com you agree that we can place these types of cookies on your device
+Nuffield Health collects these types of cookies by functional use in clause 2.1. By using nuffieldhealth.com you agree that we can place these types of cookies on your device
 
 #### Category 3 Cookies
 
