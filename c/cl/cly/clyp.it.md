@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clyp.it privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421064447id_/https%3A//clyp.it/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clyp.it privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603193033id_/https%3A//clyp.it/privacy) for the most accurate reproduction.*
 
-# Clyp - Privacy Policy
+# Privacy - Clyp
 
 ## Information we collect and what we do with it
 
