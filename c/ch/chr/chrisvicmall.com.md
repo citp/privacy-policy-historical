@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chrisvicmall.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233833id_/http%3A//chrisvicmall.com/privacy-policy/cvm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrisvicmall.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603031339id_/http%3A//chrisvicmall.com/privacy-policy/cvm) for the most accurate reproduction.*
 
 # Privacy Policy ChrisvicMall
 
