@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the tatango.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321154349id_/http%3A//www.tatango.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatango.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604005415id_/https%3A//www.tatango.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tatango
-
-* * *
-
-At Tatango, we are committed to protecting your privacy and strive to make our site a safe environment for everyone who visits and uses Tatango services.
 
 The purpose of this policy statement is to share with you the following:
 
@@ -21,11 +17,11 @@ The purpose of this policy statement is to share with you the following:
 
 We will never collect sensitive information about you without your explicit consent. When you register to become a group administrator with Tatango by filling out and submitting a group registration form on the Tatango website, an account will be created for you automatically. The registration process for group administrators will collect your name, group name, address, phone number, service provider, email address and information regarding the type, location and demographics of your group. The registration process to join a group will include submitting your phone number and service provider.
 
-When you visit the Tatango website, our web servers may use technology to track the behavior patterns of visitors to our site by collecting number of visits, average time spent, page views, the name of the domain you used to access the Internet and the website you came from and visit next. We also use “cookies” which would be stored on your browser. These cookies have a finite lifetime. You can usually modify your browser to prevent this from happening.
+When you visit the Tatango website, our web servers may use technology to track the behavior patterns of visitors to our site by collecting number of visits, average time spent, page views, the name of the domain you used to access the Internet and the website you came from and visit next. We also use "cookies" which would be stored on your browser. These cookies have a finite lifetime. You can usually modify your browser to prevent this from happening.
 
 **2\. How We Use the Information Gathered About Our Users**
 
-Your personal information will not be used or disclosed for purposes other than those set out in this Tatango Privacy Policy. We will not sell or rent personally identifiable information provided by you to us. We use your information to keep track of the Tatango services you have signed up to receive and to statistically analyze site usage, to improve our content and product offerings and to customize our site’s content and layout. We do this in an attempt to improve our site and better tailor it to meet our users’ needs. We use information in the file we maintain about you, and other information we obtain from your current and past activities on the site, to resolve disputes, troubleshoot problems and enforce our Terms and Conditions. Tatango may use any e-mail address, cell phone number, or physical address that you provide to us to communicate with you from time to time regarding administrative notices, account information, updates and upgrades to Tatango, and other Tatango products that become available. In addition, we must comply with court orders, information requests from government agencies and regulators, and other legal and regulatory processes that may require the disclosure of your personally identifiable information.
+Your personal information will not be used or disclosed for purposes other than those set out in this Tatango Privacy Policy. We will not sell or rent personally identifiable information provided by you to us. We use your information to keep track of the Tatango services you have signed up to receive and to statistically analyze site usage, to improve our content and product offerings and to customize our site's content and layout. We do this in an attempt to improve our site and better tailor it to meet our users' needs. We use information in the file we maintain about you, and other information we obtain from your current and past activities on the site, to resolve disputes, troubleshoot problems and enforce our Terms and Conditions. Tatango may use any e-mail address, cell phone number, or physical address that you provide to us to communicate with you from time to time regarding administrative notices, account information, updates and upgrades to Tatango, and other Tatango products that become available. In addition, we must comply with court orders, information requests from government agencies and regulators, and other legal and regulatory processes that may require the disclosure of your personally identifiable information.
 
 If Tatango or all of Tatango assets are acquired, we may transfer customer information, including your personal information provided to us as part of the registration process, to the acquirer. Otherwise, we will not use or share your personal information with any third party except to our service providers as required to operate Tatango.
 
@@ -35,7 +31,7 @@ Any information sent to Tatango for text messaging and/or storage purposes will 
 
 **4\. Reviewing/Changing Your Information**
 
-It is Tatango policy that just as a user must subscribe to a messaging group, they have the right to unsubscribe from a particular messaging group. When a user unsubscribes from a particular group, they will no longer receive any messages unless they were to subscribe again. Tatango is not responsible for the messages sent by our clients or customers that are using Tatango products or services to send messages. It is the user’s sole responsibility to acquire necessary permission to send messages to their recipients.
+It is Tatango policy that just as a user must subscribe to a messaging group, they have the right to unsubscribe from a particular messaging group. When a user unsubscribes from a particular group, they will no longer receive any messages unless they were to subscribe again. Tatango is not responsible for the messages sent by our clients or customers that are using Tatango products or services to send messages. It is the user's sole responsibility to acquire necessary permission to send messages to their recipients.
 
 If at any time you would like to change any information in your account, login from the home page. Here you can change or update your information.
 
@@ -45,12 +41,10 @@ Although your privacy is very important to us, due to the existing legal and tec
 
 **6\. Complaints Procedure**
 
-If you have any complaints relating to any aspect of our service, please [message us](http://www.tatango.com/contact/ "Contact Tatango"). Please state clearly the nature of the complaint. We will acknowledge your complaint within 5 working days. You will also be assigned a contact name that will be responsible for keeping you informed of the progress of any complaint.
-
-* * *
+If you have any complaints relating to any aspect of our service, please [message us](https://www.tatango.com/contact/ "Contact Tatango"). Please state clearly the nature of the complaint. We will acknowledge your complaint within 5 working days. You will also be assigned a contact name that will be responsible for keeping you informed of the progress of any complaint.
 
 Tatango may reserve the right to change this online privacy policy from time to time at its discretion. Changes will be posted in the privacy policy web page and will be effective upon posting. Your continued use of Tatango after changes to this online privacy policy have been posted is deemed acceptance of those changes. It is your sole responsibility to monitor the privacy policy to determine whether any such changes have been posted. This privacy policy is subject to and applicable to all privacy laws.
 
 You acknowledge that acceptance of this privacy policy is a condition to your use of our services and you agree to be bound by all of its terms and conditions.
 
-If you have further questions about our privacy policy or its implementation, please [contact us](http://www.tatango.com/contact/ "Contact Tatango").
+If you have further questions about our privacy policy or its implementation, please [contact us](https://www.tatango.com/contact/ "Contact Tatango").
