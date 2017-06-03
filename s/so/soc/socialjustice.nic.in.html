@@ -1,198 +1,567 @@
-<!--The following is the downloaded HTML source of the socialjustice.nic.in privacy policy that was archived on 2016-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606204453id_/http%3A//socialjustice.nic.in/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the socialjustice.nic.in privacy policy that was archived on 2017-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170603231928id_/http%3A//socialjustice.nic.in/UserView%3Fmid%3D1379) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
-<title>Privacy Policy: Ministry of Social Justice and Empowerment, Government of India</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="Cache-Control" content="no-cache">
- <meta name="Description" content="Ministry of Social Justice and Empowerment is entrusted with the welfare, social justice &amp; empowerment of disadvantaged and marginalised section of the society viz, Scheduled Caste, Backward Classes, Persons with Disabilities, Aged Persons, and victims of Drug Abuse etc.">
-<meta name="Keywords" content="Social Justice, Introduction to Empowerment of Persons with Disabilities, Constitutional Provisions, meet the ministers, associated organisation, Social Defence, Legislations, National Policies, NGO's Schemes, Scholarship Schemes, Economic Assistance, Parliamentary Committees, UN Conventions, International Cooperation">
-<meta name="Keyphrases" content="Ministry of Social Justice and Empowerment, Government of india, Introduction to Empowerment of Persons with Disabilities, Planning, Research, Evaluation &amp; Monitoring, Grants in Aid to NGOs, Five year/Annual Plans, Right to Information">
-<link rel="shortcut icon" href="favicon.ico">
-<link href="internal.css" rel="stylesheet" type="text/css">
+<!DOCTYPE html><html lang="en" style="" class=" js no-touch csstransforms csstransitions"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <script src="/bundles/jqueryNewFront?v=LDRcMn-YX_bgmEqa5cxJBoO4hq0A-FsRlxpdT180AKM1" type="text/javascript"></script>
+    <link href="/NewDesignCSS/jquery.fancybox.css" rel="stylesheet">
+    <link href="/NewDesignCSS/jquery.bxslider.css" rel="stylesheet">
+    <script src="/Scripts/jquery-1.10.1.min.js"></script>
+    <script src="/Scripts/bjqs-1.3.min.js"></script>
+    <script type="text/javascript">
 
-
-
-<style type="text/css" media="screen, projection">@import url( TJK_keyBoardDropDown.css );
-</style>
- <script language="javascript" type="text/javascript">
-
-var nodes = new Array("Scheduled", "welback","empower","social","planning","language","media1","ngo");
-
-function shw(x,y)
-	{
-		if(document.getElementById(x).style.display == "none")
-		{
-			for (i=0; i < nodes.length; i++)
-			{
-				document.getElementById(nodes[i]).style.display = "none";
-	            document.getElementById(y).innerHTML='(Open List)';
-                document.getElementById(x).parentNode.childNodes[0].childNodes[0].title='Open List';
-                document.getElementById(x).parentNode.childNodes[0].childNodes[0].className='';
-			}
-			document.getElementById(x).style.display = "block";
-			document.getElementById(y).innerHTML='(Close List)';
-            document.getElementById(x).parentNode.childNodes[0].childNodes[0].title='Close List';
-            document.getElementById(x).parentNode.childNodes[0].childNodes[0].className='arrowLeft';
-		}
-	else
-		{
-            document.getElementById(x).style.display = "none";
-		    document.getElementById(y).innerHTML='(Open List)';
-            document.getElementById(x).parentNode.childNodes[0].childNodes[0].title='Open List';
-            document.getElementById(x).parentNode.childNodes[0].childNodes[0].className='';
-		}
-	}
-
-function init()
-	{
-          for (i=0; i < nodes.length; i++)
-	{
-             if(document.getElementById(nodes[i])){
-			document.getElementById(nodes[i]).style.display = "none";
+        function button_click() {
+            var marquee = document.getElementById("scroll_news4");
+            if (document.getElementById('b1').value == "Start") {
+                document.getElementById('b1').value = "Stop";
+                $('#scroll_news4').attr('scrollamount', 6);
+                marquee.start();
+            } else {
+                document.getElementById('b1').value = "Start";
+                $('#scroll_news4').attr('scrollamount', 0);
+                marquee.stop();
             }
-                                                                          }
-      }
- -->
-</script>
-<!--[if lt IE 7]><noscript>
-<style type="text/css" media=screen>@import url( TJK_keyBoardDropDownJSoff.css );
-</style>
-</noscript><![endif]--><!--[if IE 5.5000]>
-<style type="text/css" media="screen">
-@import "TJK_keyboardDropDown_ie5-5.css";
-</style>
-<![endif]--><!--[if IE 5]>
-<style type="text/css" media="screen">
-@import "TJK_keyboardDropDown_ie5.css";
-</style>
-<![endif]-->
+        }
 
-<script src="script/TJK_keyBoardDropDown.js" type="text/javascript"></script><style type="text/css" media="screen">@import "TJK_keyBoardDropDownModernBrowsersWithScriptSupport.css";</style>
+
+    </script>
+    <script type="text/javascript">
+        function SearchSite() {
+            if ($("#SearchTxt").val() != '') {
+                var text = $("#SearchTxt").val();
+                window.location.href = '/Home/SiteSearch?search=' + text;
+            } else {
+                alert('Please enter search text');
+            }
+        }
+    </script>
+
+    <script type="text/javascript">
+        var MAXDav = 2;
+        var MINDav = -2;
+        var davSize = 0; //to store current daviation from actual size. Initial value is 0
+        var lblDavSizeContainer;
+        $(document).ready(function () {
+            lblDavSizeContainer = document.getElementById('ctl00_fDav');
+            davSize = 0;
+            if (lblDavSizeContainer.value != 0) {
+                HandlePostBack();
+            }
+        });
+        function HandlePostBack() {
+            davSize = lblDavSizeContainer.value;
+            ResetForm(lblDavSizeContainer.value);
+        }
+
+        function ChangeFont(size) {
+            davSize = lblDavSizeContainer.value;
+            if (size == '0') size = -davSize; //to reset font size to its actual value           
+            davSize = parseInt(davSize) + parseInt(size);
+            if (davSize > MAXDav) {
+                alert("it is maximum size" + davSize);
+                lblDavSizeContainer.value = parseInt(davSize) - parseInt(size);
+                return;
+            }
+            else {
+                if (davSize < MINDav) {
+                    alert("it is minimum size");
+                    lblDavSizeContainer.value = parseInt(davSize) - parseInt(size);
+                    return;
+                }
+            }
+            lblDavSizeContainer.value = davSize;
+            ResetForm(size);
+        }
+
+        function ResetForm(size) {
+            //$('#container p').add('#container li').add('#container td').add('#container th').add('.scroller p').add('#container .link_right h3').each(function () {
+            //    this.style.fontSize = (parseInt(getStyle(this, 'font-size').replace("px", "")) + parseInt(size)) + 'px';
+            //});
+            $('body').add('h1, h2').add('td').add('th').add('a').add('span').each(function () {
+                this.style.fontSize = (parseInt(getStyle(this, 'font-size').replace("px", "")) + parseInt(size)) + 'px';
+            });
+        }
+
+        function getStyle(el, styleProp) {
+            var camelize = function (str) {
+                return str.replace(/\-(\w)/g, function (str, letter) {
+                    return letter.toUpperCase();
+                });
+            };
+
+            if (el.currentStyle) {
+                return el.currentStyle[camelize(styleProp)];
+            } else if (document.defaultView && document.defaultView.getComputedStyle) {
+                return document.defaultView.getComputedStyle(el, null)
+                                       .getPropertyValue(styleProp);
+            } else {
+                return el.style[camelize(styleProp)];
+            }
+        }
+    </script>
+
+<link href="/NewDesignCSS/jquery-ui.css" rel="stylesheet">
+<link href="/NewDesignCSS/normal.css" rel="stylesheet">
+<link href="/NewDesignCSS/bjqs.css" rel="stylesheet">
+<link href="/NewDesignCSS/demo.css" rel="stylesheet">
+<link href="/NewDesignCSS/Mhupa.css" rel="stylesheet">
+<link href="/Content/common.css" rel="stylesheet">
+<link href="/Content/standsize.css" rel="stylesheet">
+<link href="/Content/standletter.css" rel="stylesheet">
+
+
+        <meta name="language" content="english">
+        <title>Privacy Policy : Ministry of Social Justice and Empowerment - Government of India  </title>
+    <meta name="description" content="Ministry of Social Justice and Empowerment">
+    <meta name="keywords" content="Ministry of Social Justice and Empowerment, Government of India, Caste Welfare, Social Justice">
+
+
+    <script type="text/javascript">
+        dw_Event.add(window, 'load', dw_fontSizerDX.init);
+    </script>
+    <style>
+        a > img {
+            border: 0;
+        }
+
+        .rightborder {
+            padding: 0 12px;
+        }
+
+        .ptqcss {
+            border-right: 1px dashed #fff;
+            display: inline-block;
+        }
+
+        #ScreenReaderSpan > img {
+            margin-left: -7px;
+            margin-top: -2px;
+        }
+    </style>
+    
+
+    <style>
+        .commonListing {
+            float: left;
+            line-height: 25px;
+        }
+
+            .commonListing td {
+                /*border-bottom: #ccc dotted 1px;*/
+            }
+    </style>
+
+    <style type="text/css">
+        .commonListing p {
+            border: none;
+        }
+
+        .treeviewparent label {
+            border: none;
+        }
+    </style>
+
+
+
 </head>
-<body onload="TJK_keyBoardDropDown(); init();">
 
-<div id="header">
-<div class="headerRight1">
-<div class="skipLink">
-<a href="#maincontent">Skip to main content</a> <span class="hidethis">|</span>
-</div>
+<body onload="startTime()" class="has_js has_tabjs" style="">
+    <div class="topMainstrip" role="navigation" aria-label="main">
+        <span class="topMainstrpleft">
+Sunday, June 4, 2017            
+            <span id="txt">18:25:08</span>&nbsp;IST
+        </span>
+        <div class="right-top-container" role="link" aria-label="links">
+            <span class="topMainScreen ptqcss">
+                <a class="colorblack screenreader rightborder" id="ScreenReaderSpan" href="/UserView?mid=1396" title="Screen Reader">
+                    <img title="Screen Reader Access" alt="Screen Reader Access" src="/Images/screenreader.png"></a>
+            </span>
+            <span class="rightborder topMainskip ptqcss">
+                    <a class="colorblack underline" style="font-size: 11px !important;" href="#skipmaincontent" title="Main Content">Skip to Main Content</a>
+            </span>
+            <span id="sizer" class="rightborder topMainFont ptqcss" style="display: block;"><span class="floatleft marginright">Font Size</span>
+                <input id="fSmall" type="button" class="increase" title="Decrease font size" value="-" onclick="ChangeFont('-1')">
+                <input id="fNormal" type="button" class="reset" title="Normal font size" value="A" onclick="ChangeFont('0')">
+                <input id="fBig" type="button" class="decrease" title="Increase font size" value="+" onclick="ChangeFont('1')">
+                <input name="ctl00$fDav" type="hidden" id="ctl00_fDav" value="0">
+            </span>
+            <span class="topMainnorm ptqcss">
+                <span class="fleft">
+                    <a href="/Home/ChangeTheme?theme=w&amp;url=http%3A%2F%2Fwww.socialjustice.nic.in%2FUserView%3Fmid%3D1379" title="Normal Theme">
+                        <img src="/Images/norma.png" alt="ChangeTheme normal" title="Normal Theme">
+                    </a>
+                </span>
+                <span class="topMainblk">
+                    <a href="/Home/ChangeTheme?theme=blk&amp;url=http%3A%2F%2Fwww.socialjustice.nic.in%2FUserView%3Fmid%3D1379" title="Black Theme">
+                        <img src="/Images/black.png" alt="ChangeTheme black" title="Black Theme">
+                    </a>
+                </span>
+            </span>
+            <span class="rightborder" id="choosecolor">
+                <span class="abcolor">
+                    <span style="float: left; padding: 0 5px;">Select Theme</span>
+                    <a id="normal" class="fleft" href="/Home/ChangeTheme?theme=n&amp;url=http%3A%2F%2Fwww.socialjustice.nic.in%2FUserView%3Fmid%3D1379" title="Default Theme">
+                        <span class="defaultcolor"></span>
+                    </a>
+                    <a id="yellow" class="fleft" href="/Home/ChangeTheme?theme=y&amp;url=http%3A%2F%2Fwww.socialjustice.nic.in%2FUserView%3Fmid%3D1379" title="Yellow Theme">
+                        <span class="yellowcolor"></span></a>
+                    <a id="pinkColor" class="fleft" href="/Home/ChangeTheme?theme=g&amp;url=http%3A%2F%2Fwww.socialjustice.nic.in%2FUserView%3Fmid%3D1379" title="Pink Theme"><span class="pinkcolor"></span>
+                    </a>
+                    <a id="bluecolor" class="fleft" href="/Home/ChangeTheme?theme=b&amp;url=http%3A%2F%2Fwww.socialjustice.nic.in%2FUserView%3Fmid%3D1379" title="Blue Theme">
+                        <span class="bluecolor"></span>
+                    </a>
+                </span>
+            </span>
+            <span class="topMainhindi">
 
-<div class="textChange">
-<div class="imgGroup1">
+                <a href="/Home/ChangeLanguage?url=http://www.socialjustice.nic.in/UserView?mid=1379" title="Change Language">
+                        <img id="languageBtnEng" alt="language hindi" class="rightborder btnback" src="/Images/hindimei.png" title="हिन्दी में">
+                </a>
+            </span>
+        </div>
+    </div>
+    <div class="mhupa_header" role="heading" aria-label="Logo">
+        <div class="mhupa_lefthead" role="link" aria-label="links">
+            <a href="/" title="Home" class="logoimg">
+                <img src="/writereaddata/UploadFile/msje_logo636009017694972469.png" id="usrPnlLogo" alt="Emblem" title="Emblem">
+            </a>
+            <ul class="logotext">
 
-<a href="?textsize=Smaller&amp;pageid=" title="Decrease text size"><img src="images/textsizeMinus.gif" alt="Decrease text size"></a> <span class="hidethis">|</span>
-    <a href="?textsize=Medium&amp;pageid=" title="Normal text size"><img src="images/textsizeNormal.gif" alt="Normal text size"></a> <span class="hidethis">|</span>
-    <a href="?textsize=Larger&amp;pageid=" title="Increase text size"><img src="images/textsizePlus.gif" alt="Increase text size"></a>
- 
-</div>
-</div>
-</div>
-
-<div class="logo">
-  <!--<a href="subject.php"><img src="images/msj_logo.jpg" alt="Ministry of Social Justice and Empowerment Government of India"></a> -->
-  <a> <img src="images/msj_logo.jpg" alt="Ministry of Social Justice and Empowerment Government of India"></a>
-</div>
-
-<div class="headerRight2">
-<ul>
-<li><a href="index.php" class="home">Home</a></li>
-<li><a href="cont.php" class="contact">Contact Us</a></li>
-<li><a href="sitemap.php" class="sitemap">Sitemap</a></li>
-</ul>
-</div>
+                    <li class="gotwo"><a href="/" title="Ministry of Social Justice and Empowerment"><span id="WebsiteNameLbl">
+                        Ministry of Social Justice and Empowerment</span> </a></li>
+                    <li tabindex="0" class="goone">Department of Social Justice and Empowerment</li>
+                    <li tabindex="0" class="goone">Government of India </li>
+                            </ul>
 
 
-<div class="screenR">
-<a href="screenreaderaccess.php" class="screenR-image">Screen Reader Access</a>
-</div>
+        </div>
+            <div class="mhupa-righthead" role="link" aria-label="Links" style="margin-top: 20px;">
 
 
-<form method="get" action="search.php" id="searchbox_013656481690645681878:urfdi2mcdwc">
-
-  <input name="cx" value="013656481690645681878:urfdi2mcdwc" type="hidden">
-  <input type="hidden" name="ie" value="UTF-8">
-  <input name="cof" value="FORID:11" type="hidden">
-
-  <script type="text/javascript" src="http://www.google.com/cse/brand?form=searchbox_013656481690645681878:urfdi2mcdwc&amp;lang=en"></script>
-
-  <!-- Google CSE Search Box Ends -->
-  <div>
-  <label for="search">Search:</label>
-<input name="q" class="bg-color" value="" id="search" onfocus="ufc2();" type="text" size="8" maxlength="255">
+                 <span class="helplinenocls">     National Toll Free Drug de- addiction helpline Number 1800-11-0031</span>
+                <span class="srchboxcommonsocial">
+                    <a href="/Home/SiteMap" title="Sitemap">
+                        <img src="/images/sitemap.jpg" alt="Sitemap_alt" style="width:23px;" title="Sitemap">Sitemap</a>
+                    <a href="https://mail.gov.in" style="color: #002040;" title="Mail" onclick="openChild(this.href,'win','1'); return false;">
+                        <img src="/images/messaging.jpg" alt="Messaging" style="width:23px;" title="Mail">Mail</a>
+                    <a href="/UserView?mid=76595" title="Contact Us">
+                        <img src="/images/contact_us.png" alt="Contact" style="width:25px; height:25px;" title="Contact Us">Contact Us</a>
+                </span>
 
 
-<span class="inputimg">
-	<input type="image" src="images/search.gif" name="btnG" value="Go" class="go-btn" alt="Search">
-</span>
-</div>
+<form action="/Home/SiteSearch1" method="post">                    <fieldset style="border: none">
+                        <legend style="display: none">Search</legend>
+                        <span class="full">
+                            <label for="Search" style="display: none">Search</label>
+                            <span style="float: left; margin-top: 15px;" class="srchboxcommon">
+                                <input name="Search" type="text" id="Search" title="Search" autocomplete="off" placeholder="Search" style="color: #5E5E5E; width: 110px; border: none;">
+                                <input type="image" name="ctl00$ImageButton1" id="ImageButton1" alt="search" title="search" src="/images/search.png">
+                            </span>
+                        </span>
+                    </fieldset>
 </form>
+                
+            </div>
+    </div>
+
+    <div class="mhupa_navigation cf" role="menu" aria-label="Menu">
+            <ul id="ulMenu">
+                    <li>
+                        <a href="/Home/Index" title="Home">Home </a>
+
+                        
+
+
+      
+
+                    </li>
+                    <li>
+                        <a href="/UserView/index?mid=1508" title="About Us">About Us </a>
+                            <ul>
+
+                        
+
+    <li>
+<a href="/UserView/index?mid=1508" title="Brief History">Brief History</a>
+
+
+          </li>
+    <li>
+<a href="/UserView/index?mid=1509" title="Subjects Allocated">Subjects Allocated</a>
+
+
+          </li>
+    <li>
+<a href="/UserView/index?mid=1510" title="Organisational Set-Up">Organisational Set-Up</a>
+
+
+          </li>
+    <li>
+<a href="/UserView/index?mid=1511" title="Organisation Chart">Organisation Chart</a>
+
+
+          </li>
+    <li>
+<a href="/UserView/index?mid=76721" title="Who's Who">Who's Who</a>
+
+
+          </li>
+    <li>
+<a href="/UserView/index?mid=76722" title="Citizen Charter">Citizen Charter</a>
+
+
+          </li>
+
+      
+            </ul>
+
+                    </li>
+                    <li>
+                        <a href="/Viewdata?mid=76656" title="Constitutional Provisions">Constitutional Provisions </a>
+
+                        
+
+
+      
+
+                    </li>
+                    <li>
+                        <a href="/UserView/index?mid=76661" title="Sector Overview">Sector Overview </a>
+                            <ul>
+
+                        
+
+    <li>
+<a href="/UserView/index?mid=76661" title="Brief overview">Brief overview</a>
+
+
+          </li>
+    <li>
+<a href="/UserView/index?mid=76662" title="Sector-wise detailed information">Sector-wise detailed information</a>
+
+
+          </li>
+
+      
+            </ul>
+
+                    </li>
+                    <li>
+                        <a href="/UserView/index?mid=1512" title="Meet The Ministers">Meet The Ministers </a>
+                            <ul>
+
+                        
+
+    <li>
+<a href="/UserView/index?mid=1512" title="Cabinet Minister">Cabinet Minister</a>
+
+
+          </li>
+    <li>
+<a href="/UserView/index?mid=1513" title="Minister Of State">Minister Of State</a>
+
+
+          </li>
+
+      
+            </ul>
+
+                    </li>
+                    <li>
+                        <a href="/UserView/index?mid=1514" title="Associated Organisations">Associated Organisations </a>
+                            <ul>
+
+                        
+
+    <li>
+<a href="/UserView/index?mid=1514" title="Commissions">Commissions</a>
+
+
+          </li>
+    <li>
+<a href="/UserView/index?mid=1516" title="National Institutes">National Institutes</a>
+
+
+          </li>
+    <li>
+<a href="/UserView/index?mid=1517" title="Corporations">Corporations</a>
+
+
+          </li>
+    <li>
+<a href="/UserView/index?mid=1518" title="Foundations">Foundations</a>
+
+
+          </li>
+
+      
+            </ul>
+
+                    </li>
+                    <li>
+                        <a href="/Viewdata?mid=76762" title="DBT">DBT </a>
+                            <ul>
+
+                        
+
+    <li>
+    <a href="http://10.21.92.29/DBT" target="_blank" onclick="return confirm('This link shall take you to a page/website outside this website.For any query regarding the contents of the linked page/website, please contact the webmaster of the concerned website.')" title="DBT MIS">DBT MIS</a>
+
+
+          </li>
+    <li>
+<a href="/Viewdata?mid=76763" title="Notifications under Aadhaar Act">Notifications under Aadhaar Act</a>
+
+
+          </li>
+    <li>
+    <a href="https://dbtbharat.gov.in/" target="_blank" onclick="return confirm('This link shall take you to a page/website outside this website.For any query regarding the contents of the linked page/website, please contact the webmaster of the concerned website.')" title="DBT BHARAT Portal">DBT BHARAT Portal</a>
+
+
+          </li>
+    <li>
+    <a href="http://scholarships.gov.in/" target="_blank" onclick="return confirm('This link shall take you to a page/website outside this website.For any query regarding the contents of the linked page/website, please contact the webmaster of the concerned website.')" title="NSP (National Scholarship Portal)">NSP (National Scholarship Portal)</a>
+
+
+          </li>
+    <li>
+<a href="/Viewdata?mid=76766" title="Integration of States Portal with NSP">Integration of States Portal with NSP</a>
+
+
+          </li>
+    <li>
+<a href="/Viewdata?mid=76767" title="Migration of Scholarship Schemes to NSP">Migration of Scholarship Schemes to NSP</a>
+
+
+          </li>
+
+      
+            </ul>
+
+                    </li>
+                    <li>
+                        <a href="/ViewData/?mid=76658" title="Annual Reports">Annual Reports </a>
+
+                        
+
+
+      
+
+                    </li>
+                    <li>
+                        <a href="/Viewdata?mid=76643" title="RTI">RTI </a>
+
+                        
+
+
+      
+
+                    </li>
+                    <li>
+                        <a href="/home/gallery" title="Gallery">Gallery </a>
+                            <ul>
+
+                        
+
+    <li>
+<a href="/home/gallery" title="Photo Gallery">Photo Gallery</a>
+
+
+          </li>
+    <li>
+<a href="/home/mediacoverage" title="Media Coverage">Media Coverage</a>
+
+
+          </li>
+
+      
+            </ul>
+
+                    </li>
+                    <li>
+                        <a href="/Viewdata?mid=76726" title="Useful Link">Useful Link </a>
+                            <ul>
+
+                        
+
+    <li>
+<a href="/Viewdata?mid=76726" title="Tenders">Tenders</a>
+
+
+          </li>
+    <li>
+<a href="/Viewdata?mid=76727" title="Vacancies">Vacancies</a>
+
+
+          </li>
+    <li>
+<a href=" Viewdata?mid=76798 " title="Advertisement">Advertisement</a>
+
+
+          </li>
+
+      
+            </ul>
+
+                    </li>
+            </ul>
+
+    </div>
+
+
+
+    <div id="path" class="mhupa_mainheaderbox" role="link">
+        
+
+        
+
+
+
+<div class="breadcrum">
+
+        <span>
+            <a href="/" title="Home">Home</a> &gt; 
+           
+        </span> 
+        <span>Privacy Policy</span>        
+
 </div>
 
- <div class="clr"></div>
-
-<div class="topLinks">
-
-<ul id="TJK_dropDownMenu">
- <li id="AB" class="trigger"><a href="#" title="Show/Hide the sub menu">About Us<span class="hidethis"> (Show/Hide the sub menu)</span></a>
-    <ul>
-<li><a href="breif.php">Brief History</a></li><li><a href="subject.php">Subjects Allocated</a></li><li><a href="orgi.php">Organisational Set-up</a></li><li><a href="orgchart.php">Organisation Chart</a></li>
-    </ul>
-</li>
-<li id="CF" class="trigger"><a href="constprov.php">Constitutional Provisions</a>
-</li>
-
-<li id="GJ" class="trigger"><a href="sectoroverview.php">Sector Overview</a>
-</li>
-
-
-<li id="KR" class="trigger"><a href="#" title="Show/Hide the sub menu">Meet The Ministers<span class="hidethis"> (Show/Hide the sub menu)</span></a>
-<ul>
-    <li><a href="cabinetminister.php">Cabinet Minister</a></li>
-        <li><a href="ministerofstate.php">Minister of State</a></li>
-         </ul>
-</li>
-
-<li id="ST" class="trigger"><a href="#" title="Show/Hide the sub menu">Associated Organisations<span class="hidethis"> (Show/Hide the sub menu)</span></a>
-<ul>
-<li><a href="commission.php">Commissions</a></li><li><a href="sbody.php">Other Statutary Bodies</a></li><li><a href="ninstitute.php">National Institutes</a></li><li><a href="corporation.php">Corporations</a></li><li><a href="foundation.php">Foundations</a></li></ul>
-</li>
-<li id="UZ" class="trigger"><a href="annualreports.php">Annual Reports</a>
-</li>
-</ul>
-
-
- </div>
- <div class="clr"></div>
-<div class="topContainer">
-<div class="breadcrumb">
-You are here:
-<ol>
-<li><a href="index.php">Home</a></li>
-<li>Privacy Policy</li>
-</ol>
-
-</div>
-<div class="printIcons">
-<!--<a href="pdfhtml.php?page=privacypolicy.php"><img src="images/pdf_icon.gif" alt=""> Save as PDF</a>-->
-    <a href="?format=print" class="print1" target="_blank" title="Opens in a new window">Print<span class="hidethis"> (Opens in a new window)</span></a>
-    <a href="?format=largeprint" class="print2" target="_blank" title="Opens in a new window">Large Print<span class="hidethis"> (Opens in a new window)</span></a>
-</div></div>
-
-
-<div class="clr"></div>
-<div id="columnColours">
-<div id="mainContentWrapper">
-<div id="mainContentWrapper1">
-<div id="mainContentWrapper2">
 
 
 
-<div class="mainContent">
-<a id="maincontent" name="maincontent"></a>
+        
+    </div>
+    <span class="clear"></span>
+    
+    <section class="content-wrapper main-content clear-fix" id="skipmaincontent" role="main" aria-label="Child Page">
+        
 
+
+<div class="mhupa_mainheaderbox">
+    <div class="commonforcont">
+        <span class="hdtitle">
+            <span id="setTitle">Privacy Policy</span>
+            <span class="printsmatcont">
+                
+                <a title="Print Preview" class="printpage" href="/UserView/PrintUserView?mid=1379" target="_blank">Print</a>
+                <a class="backpage" title="Back">Back</a>
+            </span>
+        </span>
+    </div>
+    <div class="divpartition" id="setContent">
+<form action="/UserView" method="post">            <table class="commonListing" summary="Description">
+                <tbody><tr>
+                    <th style="display: none;" scope="col">Description</th>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="midcontncls general">
 <h1>Privacy Policy</h1>
- 
+
 <p>As a general rule, this website does not collect Personal Information about you when you visit the site. You can generally visit the site without revealing Personal Information, unless you choose to provide such information.</p>
 
 <h2>Site Visit data:</h2>
@@ -206,238 +575,346 @@ You are here:
 <p>A cookie is a piece of software code that an internet web site sends to your browser when you access information at that site. This site does not use cookies.</p>
 
 <h2>Email management:</h2>
+
 <p>Your email address will only be recorded if you choose to send a message. It will only be used for the purpose for which you have provided it and will not be added to a mailing list. Your email address will not be used for any other purpose, and will not be disclosed, without your consent.</p>
 
 <h2>Collection of Personal Information:</h2>
 
 <p>If you are asked for any other Personal Information you will be informed how it will be used if you choose to give it. If at any time you believe the principles referred to in this privacy statement have not been followed, or have any other comments on these principles, please notify the webmaster through the contact us page.</p>
 
-<p><strong>Note:</strong> The use of the term "Personal Information" in this privacy statement refers to any information from which your identity is apparent or can be reasonably ascertained.</p>
-
- 
-</div>
-
-</div><!-- end of #mainContentWrapper2 -->
-
-
-<div id="leftColumnWrapper">
-<div class="leftContent">
+<p><strong>Note:</strong>&nbsp;The use of the term "Personal Information" in this privacy statement refers to any information from which your identity is apparent or can be reasonably ascertained.</p>
+                        </div>
+                    </td>
+                </tr>
+                
 
 
- 
-<ul class="menu" id="leftmenulinks">
-            <li class="nodes"><span class="welfare1"><a href="javascript:shw('Scheduled','Scheduledimg');" title="Open List">Scheduled Caste Welfare <span class="hidethis" id="Scheduledimg">(Open List)</span></a></span>
 
-<ul id="Scheduled" style="display: none;">
-<li class="first-list"><a href="aboutdivision1.php" title="Scheduled Caste Welfare">About the Division<span class="hidethis"> - Scheduled Caste Welfare</span></a></li>
-<li><a href="sclist.php">List of Scheduled Castes</a></li>
-<li><a href="sscv.php">SC Concentration Villages</a></li>
-
-        <li><a href="schemespro1.php" title="Scheduled Caste Welfare">Schemes / Programmes<span class="hidethis"> - Scheduled Caste Welfare</span></a></li>
-        <li><a href="orgdivisionunder1.php" title="Scheduled Caste Welfare">Organisations under Division<span class="hidethis"> - Scheduled Caste Welfare</span></a></li>
-        <li><a href="policiesacts1.php" title="Scheduled Caste Welfare">Policies / Acts / Rules / Codes / Circulars<span class="hidethis"> - Scheduled Caste Welfare</span></a></li>
-        <li><a href="downloadforms1.php" title="Scheduled Caste Welfare">Download Forms<span class="hidethis"> - Scheduled Caste Welfare</span></a></li>
-        <li><a href="faqs1.php" title="Scheduled Caste Welfare">FAQs<span class="hidethis"> - Scheduled Caste Welfare</span></a></li>
-        <li><a href="contactperson1.php" title="Scheduled Caste Welfare">Contact Person<span class="hidethis"> - Scheduled Caste Welfare</span></a></li></ul>
-
- </li>
- <li class="nodes"><span class="welfare2"><a href="javascript:shw('welback','welbackimg');" title="Open List">Welfare of Other Backward Classes <span class="hidethis" id="welbackimg">(Open List)</span></a></span>
-
-<ul id="welback" style="display: none;">
-<li class="first-list"><a href="aboutdivision4.php" title="Welfare of Other Backward Classes">About the Division<span class="hidethis"> - Welfare of Other Backward Classes</span></a></li>
-
-        <li><a href="schemespro.php" title="Welfare of Backward Classes">Schemes / Programmes<span class="hidethis"> - Welfare of Backward Classes</span></a></li>
-        <li><a href="orgdivisionunder4.php" title="Welfare of Backward Classes">Organisations under Division<span class="hidethis"> - Welfare of Backward Classes</span></a></li>
-        <li><a href="policiesacts4.php" title="Welfare of Backward Classes">Policies / Acts / Rules / Codes / Circulars<span class="hidethis"> - Welfare of Backward Classes</span></a></li>
-        <li><a href="downloadforms4.php" title="Welfare of Backward Classes">Download Forms<span class="hidethis"> - Welfare of Backward Classes</span></a></li>
-        <li><a href="faqs4.php" title="Welfare of Backward Classes">FAQs<span class="hidethis"> - Welfare of Backward Classes</span></a></li>
-        <li><a href="contactperson4.php" title="Welfare of Backward Classes">Contact Person<span class="hidethis"> - Welfare of Backward Classes</span></a></li></ul>
-
- </li>
-  <li><span class="epwd"><a href="javascript:shw('empower','empowerimg');" title="Open List">Empowerment of Persons with Disabilities <span class="hidethis" id="empowerimg">(Open List)</span></a></span>
-  <ul id="empower" style="display: none;">
-  <li class="first-list"><a href="aboutdivision3.php" title="Empowerment of Persons with Disabilities">About the Division<span class="hidethis"> - Empowerment of Persons with Disabilities</span></a></li>
-
-        <li><a href="schemespro3.php" title="Empowerment of Persons with Disabilities">Schemes / Programmes<span class="hidethis"> - Empowerment of Persons with Disabilities</span></a></li>
-        <li><a href="orgdivisionunder3.php" title="Empowerment of Persons with Disabilities">Organisations under Division<span class="hidethis"> - Empowerment of Persons with Disabilities</span></a></li>
-        <li><a href="policiesacts3.php" title="Empowerment of Persons with Disabilities">Policies / Acts / Rules / Codes / Circulars<span class="hidethis"> - Empowerment of Persons with Disabilities</span></a></li>
-        <li><a href="downloadforms3.php" title="Empowerment of Persons with Disabilities">Download Forms<span class="hidethis"> - Empowerment of Persons with Disabilities</span></a></li>
-        <li><a href="faqs3.php" title="Empowerment of Persons with Disabilities">FAQs<span class="hidethis"> - Empowerment of Persons with Disabilities</span></a></li>
-        <li><a href="contactperson3.php" title="Empowerment of Persons with Disabilities">Contact Person<span class="hidethis"> - Empowerment of Persons with Disabilities</span></a></li></ul>
-  </li>
-
-    <li><span class="defence"><a href="javascript:shw('social','socialimg');" title="Open List">Social Defence <span class="hidethis" id="socialimg">(Open List)</span></a></span>
-   <ul class="subList">
-   <li class="senior-citizen"><span>Senior Citizens</span></li>
-   <li class="substace-abuse"><span>Victims of Substance Abuse</span></li>
-   </ul>
-  <ul id="social" style="display: none;">
-  <li class="first-list"><a href="aboutdivision2.php" title="Social Defence">About the Division<span class="hidethis"> - Social Defence</span></a></li>
-  
-        <li><a href="schemespro2.php" title="Social Defence">Schemes / Programmes<span class="hidethis"> - Social Defence</span></a></li>
-        <li><a href="orgdivisionunder2.php" title="Social Defence">Organisations under Division<span class="hidethis"> - Social Defence</span></a></li>
-        <li><a href="policiesacts2.php" title="Social Defence">Policies / Acts / Rules / Codes / Circulars<span class="hidethis"> - Social Defence</span></a></li>
-        <li><a href="downloadforms2.php" title="Social Defence">Download Forms<span class="hidethis"> - Social Defence</span></a></li>
-        <li><a href="faqs2.php" title="Social Defence">FAQs<span class="hidethis"> - Social Defence</span></a></li>
-        <li><a href="contactperson2.php" title="Social Defence">Contact Person<span class="hidethis"> - Social Defence</span></a></li></ul>
- </li>
-
-    <li><span class="prem"><a href="javascript:shw('planning','planimg');" title="Open List">Planning, Research, Evaluation &amp; Monitoring <span class="hidethis" id="planimg">(Open List)</span></a></span>
-   <ul id="planning" style="display: none;">
-    <li class="first-list"><a href="aboutdivision5.php" title="Planning, Research, Evaluation &amp; Monitoring">About the Division<span class="hidethis"> - Planning, Research, Evaluation &amp; Monitoring</span></a></li>
-  
-            <li><a href="schemespro5.php" title="Planning, Research, Evaluation &amp; Monitoring">Schemes / Programmes<span class="hidethis"> - Planning, Research, Evaluation &amp; Monitoring</span></a></li>
-            <li><a href="orgdivisionunder5.php">List of Research / Evaluation Studies</a></li>
-            <li><a href="policiesacts5.php" title="Planning, Research, Evaluation &amp; Monitoring">Policies / Acts / Rules / Codes / Circulars<span class="hidethis"> - Planning, Research, Evaluation &amp; Monitoring</span></a></li>
-            <li><a href="downloadforms5.php" title="Planning, Research, Evaluation &amp; Monitoring">Download Forms<span class="hidethis"> - Planning, Research, Evaluation &amp; Monitoring</span></a></li>
-            <li><a href="faqs5.php">List of Seminars</a></li>
-            <li><a href="contactperson5.php" title="Planning, Research, Evaluation &amp; Monitoring">Contact Person<span class="hidethis"> - Planning, Research, Evaluation &amp; Monitoring</span></a></li></ul>
- </li>
+            </tbody></table>
+            <table summary="Adobe Reader">
+                <tbody><tr>
+                    <td>
+                        <br>
+                        <span class="commonListingSpan" style="float: left;">If you are not able to view the document: Click here to</span>
+                        <a target="_blank" href="https://get.adobe.com/reader/" title="Adobe Reader Download" onclick="openChild(this.href,'win','1'); return false;">
+                            <img height="25" border="0" style="margin-top: -6px; float: left; margin-left: 10px;" title="Adobe Reader Download" alt="Adobe Reader Download" src="/Images/get_adobe_reader.png"></a>
+                    </td>
 
 
-<li><span class="lang"><a href="javascript:shw('language','languageimg');" title="Open List">Official Language <span class="hidethis" id="languageimg">(Open List)</span></a></span>
- <ul id="language" style="display: none;">
- <li class="first-list"><a href="olbackground.php">Background</a></li>
- <li><a href="olact1963.php">Official Language Act</a></li>
- <li><a href="olactivities.php">Activities of the Ministry</a></li>
- </ul>
- </li>
-    <li><span class="media"><a href="javascript:shw('media1','mediaimg');" title="Open List">Media <span class="hidethis" id="mediaimg">(Open List)</span></a></span>
-     <ul id="media1" style="display: none;">
-     <li class="first-list"><a href="radiotvpro.php">Radio and Television Programmes</a></li>
-<li><a href="printmedia.php">Print Media</a></li>
-<li><a href="outdoormedia.php">Outdoor Media</a></li>
-</ul>
-    </li>
-    <li><span class="ngo"><a href="javascript:shw('ngo','ngoimg');" title="Open List">Grants in Aid to NGOs <span class="hidethis" id="ngoimg">(Open List)</span></a></span>
-     <ul id="ngo" style="display: none;">
-     <li class="first-list"><a href="guidelines.php">Guidelines</a></li>
- 
-            <li><a href="state.php">Grants Released to NGOs</a></li>
-            <li><a href="grantrelstategovt.php">Grants Released to State Govts</a></li>
-            <li><a href="proformappli.php">Proformae for Application</a></li>
-            <li><a href="newsanction.php">Screening Committees</a></li>
-            <li><a href="suspended.php">Grants Suspended List / Blacklisted NGOs</a></li>
-            <li><a href="faq.php" title="Grants in Aid to NGOs">FAQs<span class="hidethis"> - Grants in Aid to NGOs</span></a></li>
-            <li><a href="contactinformation.php">Contact Information</a></li></ul>
-    </li>
-        <li><span class="ngo-partner"><a href="ngopartnership.php">NGO Partnership System</a></span></li>
-        </ul>
+                </tr>
+                <tr>
+                    <td style="font-size: 15px;">
+                        <span class="commonListingSpan" style="float: left;">Note:- If the script is disabled, PDF preview function will get affected in some browsers . </span>
+                    </td>
+                </tr>
+            </tbody></table>
+            <div>
+                <br>
+            <div style="float: right;">
+                    <p>This page is maintained by</p>
+                    <p>Name :   Gyanendra Kumar  Dwivedi</p>
+                    <p>Email : gyanendrakr.d@nic.in</p>
+                    <p>Phone No :   01123385491</p>
 
-
-	<table width="100%">
-	<tbody><tr>
-	<td align="center"><h2><strong>Important Links</strong></h2></td>
-	</tr>
-	<!--<tr>
-	<td bgcolor="#FFFFFF"><font color="red"><a href="http://pmindia.gov.in/report_to_people/2012-2013/report_PMO_English.pdf" target="_blank" title="External website that opens in a new window" >Report to the People 2012-2013 <span class="hidethis"> (External website that opens in a new window)</span></a></font></td>
-	</tr>-->
-	<!--<tr>
-	<td bgcolor="#FFFFFF"><font color="red"><a href="http://pmindia.gov.in/ebook/2004-2013/ebook_PMO_English.pdf" target="_blank" title="External website that opens in a new window" >eBook 2004-2013 <span class="hidethis"> (External website that opens in a new window)</span></a></font></td>
-	</tr>
-	<-->
-	
-	<!--<tr>
-	<td bgcolor="#FFFFFF"><font color="red"><a href="e-book/index.html" target="_blank" title="External website that opens in a new window" ><b>e-Book (DoSJ&E)</b> <span class="hidethis"> (External website that opens in a new window)</span></a> and <a href="ebook-dda/index.html" target="_blank" title="External website that opens in a new window" ><b>(DoEPwD)</b> <span class="hidethis"> (External website that opens in a new window)</span></a></font></td>
-	</tr>-->
-	<tr>
-	    <td bgcolor="#FFFFFF"><font color="red"><a href="e-book/index.html" target="_blank" title="External website that opens in a new window"><b>e-Book (DoSJ&amp;E),</b> <span class="hidethis"> (External website that opens in a new window)</span></a> 
-	    <a href="ebook-hindi/index.html" target="_blank" title="External website that opens in a new window"><b>(Hindi Ver.)</b> <span class="hidethis"> (External website that opens in a new window)</span></a>
-		and <a href="ebook-dda/index.html" target="_blank" title="External website that opens in a new window"><b>(DoEPwD)</b> <span class="hidethis"> (External website that opens in a new window)</span></a></font></td>
-	</tr>
-	<tr>
-	<td bgcolor="#FFFFFF"><font color="red"><a href="http://egazette.nic.in" target="_blank" title="External website that opens in a new window">e-Gazette <span class="hidethis"> (External website that opens in a new window)</span></a></font></td>
-	</tr>
-	<tr>
-	<td bgcolor="#FFFFFF"><font color="red"><a href="https://pmnrf.gov.in" target="_blank" title="External website that opens in a new window">Prime Minister's National Relief Fund <span class="hidethis"> (External website that opens in a new window)</span></a></font></td>
-	</tr>
-	<tr>
-	<td bgcolor="#FFFFFF"><font color="red"><a href="http://nvsp.in" target="_blank" title="External website that opens in a new window">National Voters' Service Portal (NVSP) <span class="hidethis"> (External website that opens in a new window)</span></a></font></td>
-	</tr>
-	<tr>
-	<td bgcolor="#FFFFFF"><font color="red"><a href="http://scholarships.gov.in/main.do" target="_blank" title="External website that opens in a new window">National eScholarship Portal <span class="hidethis"> (External website that opens in a new window)</span></a></font></td>
-	</tr>
-	
-	</tbody></table>
-	
-	 
-	
-	
-</div>
-</div><!-- end of #leftColumnWrapper -->
-
- </div><!-- end of #mainContentWrapper1 -->
-
-
-</div><!-- end of #mainContentWrapper -->
-
-</div><!-- end of #columnColours -->
-<div class="clr"></div>
-<div class="relatedLinks">
-    <div class="content">
-<ul>
-
-    
-            <li><a class="current" href="legislations.php">Legislations</a></li>
-            <li><a href="nationalpolicies.php">National Policies</a></li>
-            <li><a href="pdf/fiveyearplan.pdf" target="_blank" title="PDF file that opens in a new window">Five year/Annual Plans (-1 ) <span class="hidethis"> (PDF file that opens in a new window)</span> <img src="images/pdf_icon.gif" alt=""></a></li>
-            <li><a href="ngoschemes.php">NGO's Schemes</a></li>
-            <li><a href="scholarships.php">Scholarship Schemes</a></li>
-            <li><a href="ecoassist.php">Concessional Loans for Economic Activities</a></li>
-            <li><a href="ConsultCommittee.php">Parliamentary Committees</a></li>
-            <li><a href="unconventions.php">UN Conventions</a></li>
-            <li><a href="intercoop.php">International Cooperation</a></li>
-            <li><a href="rti.php">Right to Information</a></li>
-            <li><a href="publication.php">Publications</a></li>
-            <li><a class="last" href="photogallery.php">Photo Gallery</a></li></ul>
+            </div>
+            </div>
+</form>
     </div>
-</div><div id="footer">
-<div class="footerLinks1">
-<ul>
-	    <li><a href="parliament.php">Parliament Questions</a></li>
-	        <li><a href="statistics.php">Statistics</a></li>
-           <li><a href="vacancies.php">Vacancies</a></li>
-       <li><a href="moreinfotender.php">Tenders</a></li>
-            <li><a href="mailto:msje@nic.in">Feedback</a></li>
-            <li><a href="contactmin.php">Who's Who</a></li>
-            <li><a href="pay&amp;account.php">Chief Controller of Accounts</a></li>
-    	   <li><a href="committee.php">Committees</a></li>
-    			<li><a href="citizencharter.php">Citizen Charter</a></li>	
-	<!--<li><a href="pdf/ccc-2014.pdf" target="_blank" title="PDF file that opens in a new window">Citizen Charter-2014 <span class="hidethis"> (PDF file that opens in a new window)</span> <img src="images/pdf_icon.gif" alt=""></a></li>-->	
-        	
-	   <li><a href="telephone.php">Telephone Directory</a></li>
-    	
-		   <li><a class="last" href="allfaqs.php">FAQs</a></li>
-        </ul>
-     </div>
-
-
-
-      <div class="footerLinks2">
-    <ul>
-        <li><a href="accessibilityoptions.php">Accessibility Options</a></li>
-    
-        <li><a href="termscond.php">Terms &amp; Conditions</a></li>
-        
-	<li><span class="current">Privacy Policy</span></li>	
-	    <li><a href="copyrightpolicy.php">Copyright Policy</a></li>
-    	
-	    <li><a href="hyperlinkingpolicy.php">Hyperlinking Policy</a></li>
-    
-          <li><a href="accessibilityhelp.php">Help</a></li>
-             <li><a class="last" href="accessibilitystatement.php">Accessibility Statement</a></li>
-      </ul>
+    <div class="divfloat">
+    </div>
 </div>
-<div class="cr">
-<div class="cr2">
-  <p>Site is designed and hosted by <a href="http://www.nic.in" target="_blank" title="External Website that opens in a new window">National Informatics Centre<span class="hidethis">(External Website that opens in a new window)</span></a>.</p>
 
-  <p>Contents on this website is published and managed by the Ministry of Social Justice and Empowerment. For any query regarding this website Please contact the "Web Information Manager: Shri Shyam Kapoor, Joint Secretary and eMail: <a href="mailto:shyam.kapoor@nic.in">shyam.kapoor@nic.in </a></p>
+    </section>
+    <span class="clear"></span>
+    <section class="wrapper carousel-wrapper">
+        <div class="footer_slider" role="img">
+            <div class="logo_slider" role="region" aria-label="Important Links">
+                <div class="bx-wrapper" style="max-width: 830px; margin: 0px auto;"><div class="bx-viewport" style="width: 100%; left: 34%; top: 204px; height: 400px;"><p class="moveSlides" style="width: 2215%; position: absolute; transition-duration: 0s; transform: translate3d(-840px, 0px, 0px);"><span class="slide bx-clone" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="http://nskfdc.nic.in/" title="NSKFDC" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/NSKFDC.png" alt="digital" title="NSKFDC"></a>
+                    </span><span class="slide bx-clone" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="http://secc.gov.in/" title="SECC" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/SECC2011.png" alt="digital" title="SECC"></a>
+                    </span><span class="slide bx-clone" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="http://ngograntsje.gov.in/" title="ONPTS" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/ONPTS.png" alt="digital" title="ONPTS"></a>
+                    </span><span class="slide bx-clone" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="http://disabilityaffairs.gov.in/" title="disabilityaffairs" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/disabilityaffairs.png" alt="digital" title="disabilityaffairs"></a>
+                    </span>
+                     <span class="slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="http://www.narendramodi.in/mann-ki-baat" title="Mann Ki Baat" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/img-002.png" alt="img-002" title="Mann Ki Baat"></a>
+                    </span>
+                    <span class="slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="https://www.mygov.in/" title="My Gov" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/mygov1.png" title="My Gov" alt="mygov1"></a>
+                    </span>
 
-<p>© 2009 Ministry of Social Justice and Empowerment. All rights reserved.</p>
-</div>
-</div>
-</div>
+                    <span class="slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="http://www.makeinindia.com/" title="Make In India" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/makeinindia.png" title="Make In India" alt="makeinindia"></a>
+                    </span>
+                    <span class="slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="https://india.gov.in/" title="National Portal Of India" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/india-gov.png" title="National Portal Of India" alt="india-gov"></a>
+                    </span>
+                    <span class="slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="https://data.gov.in/" title="Open Government Data (OGD) Platform India" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/data-gov_0.png" alt="data-gov_0" title="Open Government Data (OGD) Platform India"></a>
+                    </span>
+                    <span class="slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="http://www.digitalindia.gov.in/" title="Digital India Program" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/digital-india_1.png" alt="digital" title="Digital India Program"></a>
+                    </span>
+ 		<span class="slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="http://canarabankcsis.in/ACSIS/" title="ACSIS-OBC-EBC" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/ACSIS-OBC-EBC.png" alt="ACSIS-OBC-EBC image" title="ACSIS-OBC-EBC"></a>
+                    </span>     <span class="slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="http://www.ncbc.nic.in" title="National Commission for Backward Classes" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/backward-classes.png" alt="digital" title="National Commission for Backward Classes"></a>
+                    </span>
+                        <span class="slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="http://ncsc.nic.in/" title="National Commission for Scheduled Castes" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/national-commission.png" alt="digital" title="National Commission for Scheduled Castes"></a>
+                    </span>
+                  
+                        <span class="slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="http://ambedkarfoundation.nic.in" title="Dr Ambedkar Foundation" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/ambedkar-foundation.png" alt="digital" title="Dr Ambedkar Foundation"></a>
+                    </span>
+                        <span class="slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="http://jagjivanramfoundation.nic.in/" title="Babu Jagjivan Ram" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/babu-jagjivan-ram.png" alt="digital" title="Babu Jagjivan Ram"></a>
+                    </span>
+                     
+                        <span class="slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="http://ncdnt.gov.in" title="National Commission for Denotified, Nomadic &amp; Semi-Nomadic Tribes" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/enotified-nomadic.png" alt="digital" title="National Commission for Denotified, Nomadic &amp; Semi-Nomadic Tribes" "=""></a>
+                    </span>
+                    
+                        <span class="slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="http://nbcfdc.gov.in/" title="NBCFDC" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/NBCFDC.png" alt="digital" title="NBCFDC"></a>
+                    </span>
+                    
+                        <span class="slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="http://ncsk.nic.in/" title="NCSK" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/ncsk.png" alt="digital" title="NCSK"></a>
+                    </span>
+                      <span class="slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="http://www.nisd.gov.in/" title="NISD" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/nisd.png" alt="digital" title="NISD"></a>
+                    </span>
+                      <span class="slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;"> 
+                        <a href="http://www.nsfdc.nic.in/" title="NSCFDC" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/NSCFDC.png" alt="digital" title="NSCFDC"></a>
+                    </span>
+                      <span class="slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="http://nskfdc.nic.in/" title="NSKFDC" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/NSKFDC.png" alt="digital" title="NSKFDC"></a>
+                    </span>
+                      <span class="slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="http://secc.gov.in/" title="SECC" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/SECC2011.png" alt="digital" title="SECC"></a>
+                    </span>
+                      <span class="slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="http://ngograntsje.gov.in/" title="ONPTS" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/ONPTS.png" alt="digital" title="ONPTS"></a>
+                    </span>
+    <span class="slide" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="http://disabilityaffairs.gov.in/" title="disabilityaffairs" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/disabilityaffairs.png" alt="digital" title="disabilityaffairs"></a>
+                    </span>
+                <span class="slide bx-clone" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="http://www.narendramodi.in/mann-ki-baat" title="Mann Ki Baat" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/img-002.png" alt="img-002" title="Mann Ki Baat"></a>
+                    </span><span class="slide bx-clone" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="https://www.mygov.in/" title="My Gov" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/mygov1.png" title="My Gov" alt="mygov1"></a>
+                    </span><span class="slide bx-clone" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="http://www.makeinindia.com/" title="Make In India" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/makeinindia.png" title="Make In India" alt="makeinindia"></a>
+                    </span><span class="slide bx-clone" style="float: left; list-style: none; position: relative; width: 200px; margin-right: 10px;">
+                        <a href="https://india.gov.in/" title="National Portal Of India" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/india-gov.png" title="National Portal Of India" alt="india-gov"></a>
+                    </span></p></div><div class="bx-controls bx-has-controls-direction"><div class="bx-controls-direction"><a class="bx-prev" href="">Prev</a><a class="bx-next" href="">Next</a></div></div></div>
+            </div>
+
+
+        </div>
+    </section>
+    <script src="/Scripts/jquery.bxslider.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            $('.moveSlides').bxSlider({
+                auto: true,
+                slideWidth: "200px",
+                minSlides: 1,
+                maxSlides: 4,
+                moveSlides: 1,
+                slideMargin: 10,
+                pager: false
+
+            });
+
+        });
+    </script>
+
+
+    <footer class="footer_bg">
+            <div class="mhupa_footer mhupa_mainheaderbox" role="link">
+                <span class="divvisitor">Visitor No. <span id="VisitorLbl"></span><strong>7226654 </strong>&nbsp;&nbsp; I&nbsp;&nbsp;
+                           
+                            Last Updated:  <strong><span id="MadifiedLbl">Friday, July 10, 2015</span></strong>
+                    <span style="float: right; line-height: normal; margin: 4px 8px 0px 0px;">
+                        <a href="https://www.facebook.com/ministryofsocial.justice.and.empowerment1" target="_blank" title="Facebook" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/fb_icon.png" title="facebook" alt="Facebook"></a>
+                        <a href="https://twitter.com/msjegoi" target="_blank" title="twitter" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/twittricon.png" title="twitter" alt="Twitter"></a>
+                        <a href="http://maps.google.com/maps/place/Shastri+Bhavan/28.615681,77.215726,17z" target="_blank" title="Google Map" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/Images/map_icon.png" title="Map" alt="Google Map"></a>
+                    </span>
+                </span>
+                <div class="mhupa_footer_bg" id="EngfooterDiv" role="region">
+                    <ul>
+                        <li><a href="/Feedback/AddFeedback" title="Feedback">Feedback</a></li>
+                        
+                        <li><a href="/UserView?mid=1382" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+                        <li><a href="/UserView?mid=1379" title="Privacy Policy">Privacy Policy</a></li>
+                        <li><a href="/UserView?mid=1380" title="Hyperlinking Policy">Hyperlinking Policy </a></li>
+                        <li><a href="/UserView?mid=1381" title="Copyright Policy">Copyright Policy</a></li>
+                        <li><a href="/UserView?mid=1377" title="Accessibility Statement">Accessibility Statement</a></li>
+                        <li><a href="/Home/AccessibilityOptions" title="Accessibility Options">Accessibility Options</a></li>
+                        <li><a href="/UserView?mid=76595" title="Contact Us">Contact Us</a> </li>
+                        
+<li><a href="/UserView?mid=76787" title="Telephone Directory">Telephone Directory</a></li>
+                        
+                        <li style="border: none;"><a href="/UserView?mid=1376" title="Help">Help</a></li>
+                    </ul>
+                </div>
+                <div class="footer" role="region">
+                    <div class="divfoot-img" role="link">
+                        <a href="/writereaddata/UploadFile/MOSJE STQC CERTIFICATE.pdf" title="STQC" target="_blank">
+                            <img src="/images/stqc_icon.png" alt="STQC" title="STQC">
+                        </a>
+                        <a href="https://validator.w3.org/" title="w3c HTML Validation" target="_blank" onclick="openChild(this.href,'win','1'); return false;">
+                            <img src="/images/w3c_html_icon.png" alt="w3c HTML Validation" title="w3c HTML Validation">
+                        </a>
+                        <a href="http://jigsaw.w3.org/css-validator/check/referer" onclick="openChild(this.href,'win','1'); return false;" title="w3c CSS Validation">
+                            <img src="/images/w3c_css_icon.png" alt="w3c CSS Validation" title="w3c CSS Validation">
+                        </a>
+                    </div>
+                    <div class="divfoot-mid" role="region">
+                        <span class="divfoot-mid-1">Site is hosted by : <strong><a href="http://www.nic.in" target="_blank" onclick="openChild(this.href,'win','1'); return false;" title="National Informatics Centre">National Informatics Centre</a></strong><br>
+
+                            © Contents of this website is published and managed by MSJE, Government Of India.
+                                                       <br>
+                            For any queries regarding this website please contact <strong><a href="/UserView?mid=1478" title="Web Information Manager"><u>Web Information Manager.</u></a></strong></span>.
+                          
+                        
+                    </div>
+
+                </div>
+
+            </div>
+    </footer>
+
+
+
+
+
+
+
+    <script type="text/javascript">
+        function dropdown(dropdownId, hoverClass, mouseOffDelay) { if (dropdown = document.getElementById(dropdownId)) { var listItems = dropdown.getElementsByTagName("li"); for (var i = 0; i < listItems.length; i++) { listItems[i].onmouseover = function () { this.className = addClass(this) }; listItems[i].onmouseout = function () { var that = this; setTimeout(function () { that.className = removeClass(that) }, mouseOffDelay); this.className = that.className }; var anchor = listItems[i].getElementsByTagName("a"); anchor = anchor[0]; anchor.onfocus = function () { tabOn(this.parentNode) }; anchor.onblur = function () { tabOff(this.parentNode) } } } function tabOn(li) { if (li.nodeName == "LI") { li.className = addClass(li); tabOn(li.parentNode.parentNode) } } function tabOff(li) { if (li.nodeName == "LI") { li.className = removeClass(li); tabOff(li.parentNode.parentNode) } } function addClass(li) { return li.className + " " + hoverClass } function removeClass(li) { return li.className.replace(hoverClass, "") } } function buildmenu() { var $mainmenu = $("#smoothmenu1 ul") && $("#sidebarmenu1 li"); var $headers = $mainmenu.find("ul").parent(); $($headers).hover(function (e) { $(this).children("a:eq(0)").addClass("selected") }, function (e) { $(this).children("a:eq(0)").removeClass("selected") }) } rightarrow = ''; $(document).ready(function () {
+            $("#ulMenu ul li").has("ul").addClass("addArrow"); $("#ulMenu ul li").has("ul").append(rightarrow); $("#ulMenu > li, #ulMenu > li > li").hover(function () { $(this).addClass("hover") }, function () { $(this).removeClass("hover") }); buildmenu(); var BodyW = $("body").innerWidth(); var BodyW3 = BodyW / 4;
+            $(".TopStrip").width(BodyW3); $(window).resize(function () { var BodyW = $("body").innerWidth(); var BodyW3 = BodyW / 3.5; $(".TopStrip").width(BodyW3) })
+        });
+        /*-------------------------------- Common Functions -------------------------------*/
+        function setVisibility(id, visibility, status) { if (status == "over") { document.getElementById(id).style.display = visibility; } else { document.getElementById(id).style.display = visibility; } }
+        ; (function ($) {
+            /*---------------------------------------------------------------------*/
+            $(document).ready(function () {
+                /*---------------------------------------------------------------------*/
+                $('body').removeClass("noJS").addClass('has_js has_tabjs');
+                dropdown('ulMenu', 'hover', 1);
+            });
+        })(jQuery);
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#AutoCompleteEx_completionListElem li:even').addClass('bgAlternatRow');
+            $('table.dataTable tbody > tr:even').addClass('bgAlternatRow');
+
+            $('.jumpnav li a').click(function () {
+                $(this).blur();
+            });
+            $('.jumpnav li').mouseover(function () {
+                $(this).stop().animate({ height: '100px' }, { queue: false, duration: 600, easing: 'easeOutBounce' })
+            });
+            $('.jumpnav li').mouseout(function () {
+                $(this).stop().animate({ height: '30px' }, { queue: false, duration: 600, easing: 'easeOutBounce' })
+            });
+            $('#MainContent_1112').mouseover(function () {
+                $('.innerboxcsnw').stop().animate({ marginLeft: '-313px' }, { queue: false, duration: 600, easing: 'easeOutBounce' })
+            });
+            $('#MainContent_1112').mouseout(function () {
+                $('.innerboxcsnw').stop().animate({ marginLeft: '0' }, { queue: false, duration: 600, easing: 'easeOutBounce' })
+            });
+        });
+
+        function openChild(file, windowmn, val) {
+            if (parseInt(val) == 1) {
+                if (!confirm('This link shall take you to a page/website outside this website.For any query regarding the contents of the linked page/website, please contact the webmaster of the concerned website.')) {
+                    return false;
+                }
+            }
+            else if (parseInt(val) != 0) {
+                var arr = file.split(".");
+                var ext = arr[arr.length - 1].toLowerCase();
+                if (ext == "pdf" || ext == "doc" || ext == "xls" || ext == "ppt" || ext == "docx" || ext == "jpg" || ext == "jpeg" || ext == "gif" || ext == "png" || ext == "txt") {
+                }
+                else {
+                    if (!confirm('This link shall take you to a page/website outside this website.For any query regarding the contents of the linked page/website, please contact the webmaster of the concerned website.')) {
+                        return false;
+                    }
+                }
+
+            }
+
+            childWindow = window.open(file, windowmn, 'width=600,height=500,screenX=100,screenY=0,scrollbars=yes,menubar=yes,location=yes,toolbar=yes,resizable=yes');
+            childWindow.focus();
+        }
+
+        //Generating Pop-up Print Preview page
+        function printMe(print_area, title) {
+            //Creating new page
+            var pp = window.open('', '_blank', 'width=1000,height=600, scrollbars=1')
+            // pp.window.open();
+            //Adding HTML opening tag with <HEAD> … </HEAD> portion 
+            pp.document.writeln('<HTML><HEAD><title>' + document.getElementById(title).innerHTML + '</title>')
+            pp.document.writeln('</HEAD>')
+            //Adding Body Tag
+            pp.document.writeln('<body MS_POSITIONING="GridLayout" bottomMargin="0" leftMargin="0" topMargin="0" rightMargin="0">');
+            //Adding form Tag
+            pp.document.writeln('<form autocomplete="off"  method="post">');
+            //Creating two buttons Print and Close within a table
+            pp.document.writeln('<TABLE width=100%><TR><TD></TD></TR><TR><TD></TD></TR></TABLE>');
+            //Writing print area of the calling page
+            var docInnerHTML = document.getElementById(print_area).innerHTML;
+            pp.document.writeln(docInnerHTML);
+            //Ending Tag of </form>, </body> and </HTML>
+            pp.document.writeln('</form></body></HTML>');
+            pp.print();
+        }
+    </script>
+
+
+
+
 
 
 </body></html>
