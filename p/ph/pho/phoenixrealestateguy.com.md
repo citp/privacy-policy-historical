@@ -1,84 +1,123 @@
-> *The following text is extracted and transformed from the phoenixrealestateguy.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419125039id_/http%3A//www.phoenixrealestateguy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenixrealestateguy.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603031517id_/http%3A//www.phoenixrealestateguy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Phoenix Real Estate Guy
 
-Below is the Privacy Policy for the Phoenix Real Estate Guy website and blog. The Phoenix Real Estate Guy is owned and operated by tPREG Marketing LLC.
+PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE SITES OR SERVICES, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY.
 
-**What information do we collect?** We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or phone number. You may, however, visit our site anonymously.Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the ‘do we use cookies?’ section below for information about cookies and how we use them.
+IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE EXIT THIS PAGE AND DO NOT ACCESS OR USE THE SITES OR SERVICES.
 
-**What do we use your information for?**
+**1.0 Our Commitment to Privacy**
 
-Any of the information we collect from you may be used in one of the following ways:
+a. Suited Connector, LLC respects the importance of applicant information security and personal privacy. Further, Suited Connector, LLC is committed to handling an applicant’s information in a secure environment. Therefore, we have made it a critical focus to protect the confidentiality and security of the personal information you provide us.
 
-* To personalize your experience  
-(your information helps us to better respond to your individual needs)
+b. This Privacy Policy discloses the privacy practices of Suited Connector LLC, an Arizona limited liability company and its affiliates and subsidiaries, (collectively “Suited Connector”, “we”, “us”, “our”, or “Company”) and governs the use of the this website, or other Company products and services (collectively, the “Services”) by users of the Services (“you” or “your” ).
 
-* To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+c. We have created this Privacy Policy to inform you about what information we collect, how we use and share your information, and our privacy practices.
 
-* To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+**2.0 The Information We Collect**
 
-* To process transactions
+a. We may collect two types of information: Personally Identifiable Information (“PII”) and Non-Personally Identifiable Information (“Non-PII).
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+b. PII- PII is information that identifies a specific user of the Services and is provided by the user.
 
-* To administer a contest, promotion, survey or other site feature
+1\. When you engage in certain activities on the Services, such as when you register to use the Services, we may ask you to provide certain information about yourself that we will collect and store.
 
-* To send periodic emails
+2\. Depending on what activity you are engaged in, some of the information that we request will be identified as mandatory or as voluntary.
 
-> The email address you provide for additional information will only be used to send you information and updates pertaining to your request.
+3\. If you do not provide the mandatory information for a particular activity, you will not be permitted to engage in that activity.
 
-**How do we protect your information?**
+4\. We log Internet protocol (IP) server addresses for system administration purposes and catalog traffic patterns through the Sites. This information may or may not be linked to an applicant’s personal information at our discretion.
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information.
+5\. You do not have to engage in the activities in which we ask you to provide such information. But if you choose to do so, we may ask you to provide information, such as your first and last name, gender, email address or date of birth.
 
-**Do we use cookies?**
+c. Non-PII: Non-PII is information that identifies your computer and its navigational patterns through the Services (but not a specific user).
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+1\. We may automatically collect Non-PII information when you visit the Services, through the use of a variety of tools including cookies (small text files that are stored on a user’s computer for record-keeping purposes and which contain information about that user’s computer), or other available data analysis or collection technologies.
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+**3.0 How We Use and Share Information**
 
-**Do we disclose any information to outside parties?**
+a. We use the information we collect to (a) provide, maintain, and protect the Services; (b) notify you of promotions, special events, new services and special offers, for example, through e-mails; (c) tailor our product offerings, customer service and overall experience; (d) improve the content, operation, appearance and utility of the Services; (e) conduct surveys, research and evaluations; (f) troubleshoot and resolve disputes; (g) gather demographic data and (h) accomplish other administrative tasks.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+b. Third Parties: When you register with the Sites, you explicitly authorize us to share your information with our email marketing partners to contact you via email, SMS, telephone and/or direct mail. We may also share your information collected on the Services with our subsidiaries and other affiliated companies, and with other trusted vendors and business partners. Such business partners include companies who provide business services to us or on our behalf, such as to market products or services to you, monitor Services activity, help to maintain our customer database, and administer e-mails, surveys or other contests.
 
-**Third party links**
+c. Opt-Out: If you decide that you are no longer interested in receiving sms or email communications from us, you may follow the instructions in our sms or emails to unsubscribe from our email list or by emailing us at: info@suitedconnector.com. If you wish to opt-out of disclosure and to be excluded from our mailing list, please email us at: info@suitedconnector.com.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+d. Legal Compliance: We also reserve the right to disclose your information in good faith as required by law, in response to legal process including law enforcement requests, and with any person or entity that may acquire all or any part of our business or assets, in connection with any change in control of us, and where needed to prevent fraud and to protect the safety, property, or legal rights of users of the Services or our affiliates.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information ( **not** including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+**4.0 Unsubscribe, Opt Out or Revoke**
 
-Google, as a third party vendor, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads to site users based on their visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+a. You may revoke consent at any time for any use of PII collected from you under this Privacy Policy. To revoke consent, indicate by emailing us at info@suitedconnector.com with the word “revoke Personal Information” in the subject line.
 
-**California Online Privacy Protection Act Compliance**
+**5.0 Privacy Policies of Third Parties**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+a. This Privacy Policy only addresses the Services offered by us.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by [contacting the site administrator](http://www.phoenixrealestateguy.com/contact-us).
+b. Other websites or services, such as those websites we provide links to, websites or services you may have clicked-on that directed you to the Services, or websites that may be accessible to you through the Services, have their own privacy policies regarding data collection, use and disclosure practices. If you visit any such website, we encourage you to review that website or service’s privacy policy.
 
-**Online Privacy Policy Only**
+c. We are not responsible for the policies or practices of third parties.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+**6.0 Editing and Requesting Your Information**
 
-**Your Consent**
+a. We will permit you to change your profile settings. Even after you remove your information from your profile, copies of your information may remain viewable elsewhere to the extent it has been shared with others or it was copied or stored by other users. We may also be required to retain your information by law or for legitimate business purposes, such as to prevent identity theft or other misconduct.
 
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
+b. We will permit you to request a copy of your PII that we have collected about you by emailing us at info@suitedconnector.com.
 
-**Changes to our Privacy Policy**
+c. You can also correct factual inaccuracies in this information by emailing us at info@suitedconnector.com.
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+**7.0 Storage and Security**
 
-This policy was last modified on May 20, 2015
+a. We will retain PII, including user location information, only as long as our business needs require. We will then destroy or render unreadable any such information upon disposal.
 
-**Contacting Us**
+b. We believe the security of your information is a serious issue and we are committed to protecting the information we receive from you. We use commercially reasonable security measures to protect against the loss, misuse and alteration of your information under our control.
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+c. Depending on site requirements, we may employ Secure Sockets Layer (SSL) encryption technology to transmit data between an applicant’s browser and our web server. To use our websites, an applicant will need an SSL-capable browser such as MS Internet Explorer 4.0 (or higher) or Netscape Navigator 4.0 or higher.
 
-tPREG Marketing LLC  
-1400 E Southern Ave #100  
-Tempe, AZ 85282
+d. We require that affiliated partners handle applicant information under confidential conditions.
 
-info@phoenixrealestateguy.com
+e. Notwithstanding such security measures, please be aware that no security measures are perfect or 100% secure, and we cannot guarantee the security of any information transmitted to or from the Services.
 
-480-542-0100
+d. We also are not responsible for the actions of any third parties that may receive any such information.
+
+**8.0 Minors and Privacy Issues**
+
+a. Children’s Online Privacy Protection Act- This site is intended to be used by people the age of 18 and older. We do not knowingly allow any users under the age of thirteen to use our service. However, if you become aware of the existence of a user who is under the age of thirteen, or that an individual under thirteen has provided their information to us, contact us immediately with details at info@suitedconnector.com. If you have been reported as being below thirteen by another person, we may request that you verify your age to us, including providing us a copy of your photo ID as a condition of your continued use of our service.
+
+b. No part of the Services is designed to attract anyone under the age of 18.
+
+c. Children under the age of 18 may not use the Services.
+
+d. If you are a parent or guardian and believe that your child under the age of 13 has provided personal information to us, you may contact us to request this information be deleted.
+
+e. California Privacy Rights-We permit residents of the State of California to use its Service, and complies with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. In summary, you must presume that we collect electronic information from all visitors. You may contact us at info@suitedconnector.com with any questions.
+
+**9.0 Specific Industry Disclaimers**
+
+a. Financial Services- Please note that we are not a mortgage lender, debt servicer, debt settlement, real estate company, insurance agent, auto sales company or automotive warranty organization. This is not, and is not intended to be, any type of application for any financial product.
+
+i. Our sites use short forms which enable you to be matched with one or more companies within our network. In order to be contacted, an applicant must complete a financial services request by completing an application located on one of our sites.
+
+ii. Once you have completed this expression of interest (or information request form), your information will be sent to our participating companies. Our application technology will match a consumer with one to four companies within our network.
+
+iii. You agree to share your information with Secure Rights and up to 4 of its Premier Partners and for them to contact you (including through automated means; e.g. autodialing, text and pre-recorded messaging) via telephone, mobile device (including SMS and MMS) and/or email, even if your telephone number is currently listed on any state, federal or corporate Do Not Call list. To participate in this service without authorizing the use of an automated dialer, please call (877) 897-0614. Secure Rights Privacy Policy. Secure Rights Licenses. NMLS: 3175. In the event that you are matched with one of our partners outside of the Secure Rights network, you agree to allow us to share your information with any Suited Connector, LLC partner or affiliate who can help you with the product or service that you have requested more information about.
+
+iv. In most cases, a company will contact a consumer regarding requests within 24 hours. There is no fee charged or billed to an applicant by us for the above service.
+
+v. A company may utilize an applicant’s information submitted at one of our Sites. In addition, a company may use this information to evaluate an applicant’s eligibility, process an application or initiate and close a transaction. Many companies have proprietary privacy policies regarding dissemination of personal information.
+
+vi. Licensed organizations are subject to Federal and State laws and regulations that for their practices. We have no direct control over information handling practices within our network. However, we require companies within our network to refrain from disclosing confidential consumer information to third parties that are not affiliated with the application process.
+
+**10.0 Changes to Privacy Policy**
+
+a. We may change this Privacy Policy at any time. The revised Privacy Policy will be effective immediately when posted on the Services.
+
+b. It is the responsibility of each user to review the Services and the Privacy Policy to learn of any revisions to this Privacy Policy.
+
+c. Your continued use of the Services after the effectiveness of such revisions will constitute your acknowledgment and acceptance of the terms of the revised Privacy Policy.
+
+d. If a change would authorize the use of your PII for a new or materially different purpose, then we will send you an email notification.
+
+**11.0 Contact Information**
+
+a. If you have any comments or questions regarding our Privacy Policy, or to report abuse of any PII collected under this Privacy Policy, please email us at info@suitedconnector.com or write to us with your specific instructions at: Suited Connector, LLC Attention: Consumer Services, 8149 N. 87th Place, Suite 211 Scottsdale, AZ 85258.
+
+b. For more information about protecting your privacy, you may wish to visit: http://www.ftc.gov.
