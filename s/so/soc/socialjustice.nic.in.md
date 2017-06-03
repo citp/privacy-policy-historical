@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the socialjustice.nic.in privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606204453id_/http%3A//socialjustice.nic.in/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialjustice.nic.in privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603231928id_/http%3A//socialjustice.nic.in/UserView%3Fmid%3D1379) for the most accurate reproduction.*
 
-# Privacy Policy: Ministry of Social Justice and Empowerment, Government of India
+# Privacy Policy : Ministry of Social Justice and Empowerment - Government of India
 
+Sunday, June 4, 2017 18:25:08 IST   
+  
 As a general rule, this website does not collect Personal Information about you when you visit the site. You can generally visit the site without revealing Personal Information, unless you choose to provide such information.
 
 ## Site Visit data:
@@ -22,4 +24,20 @@ Your email address will only be recorded if you choose to send a message. It wil
 
 If you are asked for any other Personal Information you will be informed how it will be used if you choose to give it. If at any time you believe the principles referred to in this privacy statement have not been followed, or have any other comments on these principles, please notify the webmaster through the contact us page.
 
-**Note:** The use of the term "Personal Information" in this privacy statement refers to any information from which your identity is apparent or can be reasonably ascertained.
+**Note:**  The use of the term "Personal Information" in this privacy statement refers to any information from which your identity is apparent or can be reasonably ascertained.  
+  
+  
+If you are not able to view the document: Click here to [ ](https://get.adobe.com/reader/ "Adobe Reader Download")  
+---  
+Note:- If the script is disabled, PDF preview function will get affected in some browsers .   
+  
+  
+
+
+This page is maintained by
+
+Name : Gyanendra Kumar Dwivedi
+
+Email : gyanendrakr.d@nic.in
+
+Phone No : 01123385491
