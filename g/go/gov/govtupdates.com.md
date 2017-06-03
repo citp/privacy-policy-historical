@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govtupdates.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108014500id_/http%3A//govtupdates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtupdates.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603020551id_/http%3A//govtupdates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GovtUpdates.com
 
