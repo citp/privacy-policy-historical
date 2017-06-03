@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ohmyabc.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119041402id_/http%3A//ohmyabc.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohmyabc.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603130045id_/http%3A//www.ohmyabc.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# OhMyABC & DocuComm - Docs, Data & Contents Harmoniously
+# OhMyABC - World News Digest & DocuComm - My-Project Tools
 
 This privacy policy discloses the privacy practices for **docucomm.com** and **ohmyabc.com**. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
     
