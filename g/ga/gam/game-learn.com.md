@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the game-learn.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317025359id_/https%3A//game-learn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game-learn.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603023528id_/https%3A//game-learn.com/privacy-policy) for the most accurate reproduction.*
 
 # Gamelearn Privacy Policy
 
-The Gamelearn Privacy Policy was updated on May 15, 2015
+The Gamelearn Privacy Policy was updated on October 5, 2016
 
 ### What information do we collect?
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+Pursuant to Organic Law 15/1999, we inform you that the data obtained in this form will be included in a computerized file under the responsibility of GAMELEARN SL for the purpose of responding to your inquiries and sending you related information that may be of interest to you. You can exercise your rights of access, rectification, cancellation and opposition by writing to us at SAN JAVIER 8 28224, POZUELO DE ALARCON (MADRID).
+
+Unless you indicate otherwise, we will understand that your data has not changed, that you agree to notify us of any variation, and that we have your consent to use them for the purposes mentioned above.
+
+Sending these data implies acceptance of this clause.
 
 ### What do we use your information for?
 
@@ -53,7 +57,7 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
 We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by requesting it by mail (info@game-learn.com)
 
-### Save Harbor Online Privacy Protection Act Compliance
+### Safe Harbor Online Privacy Protection Act Compliance
 
 GAMELEARN USA INC complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor http://www.ex-port.gov/safeharbor/
 
@@ -81,8 +85,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.game-learn.com  
-info@game-learn.com  
-Avda. Europa 34 C  
-Madrid 28023  
-Spain
+Gamelearn  
+c/ San Javier 8,  
+Pozuelo de Alarcón 28224  
+Madrid, Spain  
+info@game-learn.com
