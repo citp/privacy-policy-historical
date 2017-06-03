@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the nybits.com privacy policy that was archived on 2016-03-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160323224409id_/http%3A//www.nybits.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nybits.com privacy policy that was archived on 2017-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170603204205id_/https%3A//www.nybits.com/privacy_policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html lang="en"><head>
 
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Privacy Policy -- NY Bits</title>
+<title>Privacy Policy -- NYBits</title>
 <style type="text/css">
 body {
 	margin: 0;
@@ -19,12 +19,10 @@ h1 {
 	font-family: arial,sans-serif;
 	font-size: 20px;
 	padding: 0;
-	margin: 4px 0 25px 0;	
 }
 h2 {
 	font-family: arial,sans-serif;
 	font-size: 16px;
-	padding: 10px 0 0 0;
 	margin: 5px 0 5px 0;
 	color: #333333;
 	clear: both;
@@ -35,8 +33,8 @@ h3 {
 	font-size: 14px;
 }
 
-a { color: #003399; }
-a:visited { color: #444444; }
+a { color: #3333aa;text-decoration: none; }
+a:visited { color: #333388; }
 a:hover{text-decoration: underline; color: #3399ff;}
 
 ul li {
@@ -50,12 +48,10 @@ ul li {
 #upperenvelope {
 	margin-left: auto;
 	margin-right: auto;
-	width: 860px; 	/* was: 880 */
 }
 #lowerenvelope {
 	margin-left: auto;
 	margin-right: auto;
-	width: 860px; 	/* was: 880 */
 }
 #footer {
 	margin-left: auto;
@@ -70,7 +66,7 @@ ul li {
 	float: left;
 	margin: 15px 0 0 0;
 	width: 700px; /* was: 700 */
-	line-height: 18px;
+	line-height: 1.36;
 }
 
 #logodiv {
@@ -104,6 +100,28 @@ ul li {
 	margin: 0 10px 0 0;
 }
 
+#homepage_quicksearch {
+	margin-top: 15px;
+	background-color:#daedff;
+	border: 1px #cccccc solid;
+	overflow: auto;
+}
+#homepage_quicksearch > div {
+	padding: 5px 8px 5px 5px;
+	overflow: auto;
+}
+#homepage_quicksearch div:nth-of-type(1) {
+	float: left;
+	padding-top: 6px;
+	padding-right: 20px;
+}
+#homepage_quicksearch div:nth-of-type(2) {
+	float: left; padding-right: 20px;
+}
+#homepage_quicksearch div:nth-of-type(3) {
+	float: left;
+}
+
 div.tooldivbutton {
 	margin: 16px 0 0 0;
 	padding: 5px;
@@ -116,6 +134,19 @@ div.tooldivbutton a {
 	text-decoration: none;
 	color: #555555;
 }
+
+#searchboxdiv {
+	float: left;
+	margin: 19px 0 0 0;
+}
+#searchboxdiv input[type="text"] {
+	color: #3399ff;
+	background-color: #fefefe;
+	font-family:Courier;
+	font-size:14px;
+	width: 200px;
+}
+
 
 #breadcrumbs {
 	clear: both;
@@ -195,7 +226,7 @@ td.lasttab {
 	border-right: 0px;
 }
 
-#bannerdiv {
+#bannerdiv, #rental_listing_banner_div, #building_banner_div {
 	float: right;
 	width: 300px;
 	text-align: center;
@@ -230,14 +261,17 @@ td.summaryright {
 }
 
 table.rentallistingtable {
-    margin: 12px 0 0 8px; /* was: 12 0 0 16 */
+	margin: 12px 0 0 8px; /* was: 12 0 0 16 */
 	border-spacing:0;
 	border-collapse:collapse;
 }
 .rentallistingtable td {
-    text-align: left;
-    border-bottom: 1px #ddddff solid;
-    padding: 4px;
+	text-align: left;
+	border-bottom: 1px #ddddff solid;
+	padding: 4px;
+}
+.rentallistingtable tbody tr:nth-of-type(even) {
+	background-color: #f2f2ff;
 }
 
 div.contentleft {
@@ -335,8 +369,8 @@ ul.compactul {
 } 
 
 ul.buildingul {
-	margin-left: 3px;
-	padding-left: 2em;
+	margin-left: 5px;
+	padding-left: 1em;
 	padding-top: 1px;
 	text-indent: 0em;
 }
@@ -350,14 +384,16 @@ ul.buildingul {
 	padding: 1px;
 }
 #directorylinksdiv a {
-   border: 1px solid #eeeeee;
-   margin: 0 1px 0 1px;
-   padding: 3px;
-   text-transform:uppercase;
-}      
+	border: 1px solid #ddddee;
+	margin: 0;
+	padding: 3px;
+	text-transform:lowercase;
+}
 #directorylinksdiv a:hover {
-   border: 1px solid #0000cc;
-}      
+	border: 1px solid #0000cc;
+	background-color: #3333ff;
+	color: #ffffff;
+}
 
 div.photocolumntitle {
 	background-color: #666666;
@@ -365,9 +401,14 @@ div.photocolumntitle {
 	font-size: 11px;
 	font-weight: bold;
 }
+
 div.listingimages {
 	text-align: center;
 }
+div.listingimages img {
+	image-orientation: from-image;
+}
+
 div.listingmeatdiv {
 	font-size: 16px;
 	clear:both;
@@ -458,7 +499,7 @@ li.standardli {
 	background-color: #ffffff;
 }
 li.shadedli {
-	background-color: #f4f4fa;
+	background-color: #f9f9fa;
 }
 
 
@@ -484,25 +525,41 @@ input[type='radio'] {
 	margin: 5px 0 5px 0;
 }
 .neiiframe {
-	width:700px; /* was: 720 */
-	height:110px;
 	border:0;
 	marginwidth:0;
-	text-align:left;
 	margin: 5px 0 5px 0;
 }
 
-
-
 @media only screen 
-and (max-device-width:720px) {
+and (min-device-width:720px){
+	h1 {
+		margin: 4px 0 25px 0;	
+	}
+	h2 {
+		padding: 10px 0 0 0;
+	}
+	iframe.neiiframe {
+		width:700px; 
+		height:110px;
+		text-align:left;
+	}
+	#upperenvelope {
+		width: 860px;
+	}
+	#lowerenvelope {
+		width: 860px;	
+	}
+
+}
+@media only screen 
+and (max-device-width:720px){
 	/* Styles */
 
 	h1 {
-		padding: 0 0 0 4px;
+		padding: 0 0 0 2px;
 	}
 	h2 {
-        padding: 4px 0 0 4px;
+		padding: 4px 0 0 4px;
 	}
 	
 	iframe.neiiframe {
@@ -556,7 +613,7 @@ and (max-device-width:720px) {
 		padding: 4px;
 		float: left;
 		font-family: arial,sans-serif; 
-		font-size: 13px;
+		font-size: 14px;
 		border-bottom: 1px solid #999999;
 	}
 	#neighborhoodnav a {
@@ -566,13 +623,41 @@ and (max-device-width:720px) {
 		float: left;
 		margin: 15px 0 0 0;
 		width: 320px;
-		line-height: 18px;
 		font-family: arial,sans-serif;
 		font-size: 13px;
+		line-height: 1.36;
 	}
 	#dancefloor p {
 		padding: 4px;
 	}
+	#searchboxdiv {
+		float: left;
+		margin: 14px 0 0 0;
+	}
+	#searchboxdiv input[type="text"] {
+		color: #3399ff;
+		background-color: #fefefe;
+		font-family:Courier;
+		font-size:14px;
+		width: 92px;
+	}
+	#homepage_quicksearch div:first-of-type {
+		padding-top: 8px;
+	}
+	#homepage_quicksearch div:nth-of-type(2) {
+		float: left;
+		padding-right: 5px;
+	}
+	#homepage_quicksearch div:nth-of-type(3) {
+		break: all;
+		padding-right: 5px;
+		border-top: 1px #333333 solid;
+		width: 98%;
+		background-color:#aaaacc;
+	}
+	
+	
+	
 	div.tooldivbutton {
 		display: none; 
 	}
@@ -622,9 +707,9 @@ and (max-device-width:720px) {
 		border-collapse:collapse;
 	}
 	.rentallistingtable td {
-	    text-align: left;
-	    border-bottom: 1px #ddddff solid;
-	    padding: 2px;
+		text-align: left;
+		border-bottom: 1px #ddddff solid;
+		padding: 2px;
 		font-size: 13px;
 		font-family: arial,sans-serif;
 	}
@@ -679,21 +764,40 @@ and (max-device-width:720px) {
 		width: 300px;
 	}
 
+
+	/* Mobile divs for showing banners correctly */
+
+	#mob_both_content_and_banner_ad { 
+		display: table; 
+	}
+	#mob_only_banner_ad {
+		display: table-footer-group;
+	}
+	#mob_content_but_not_banner_ad {
+		display: table-header-group;
+	}	
+	#rental_listing_banner_div, #building_banner_div {
+		float: center;
+		padding: 0;
+		margin: 10px 10px 10px 10px;
+	}
+
+
 	
 }
 
 </style>
-<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
 <!-- // JavaScript
 var logo_i_over;
 if(document.images) {
 	logo_i_over=new Image();
-	logo_i_over.src="http://www.nybits.com/images/icons/logo_over.gif";
+	logo_i_over.src="https://www.nybits.com/images/icons/logo_over.gif";
 }
 
 function x__disableall() { 
 	if(document.images) { 
-		document.images["logo_i"].src="http://www.nybits.com/images/icons/logo.gif";
+		document.images["logo_i"].src="https://www.nybits.com/images/icons/logo.gif";
 	} 
 }
 function x__mouseover(x__n,x__v) {
@@ -717,84 +821,94 @@ node.parentNode.insertBefore(gads, node);
 </script>
 
 <script type="text/javascript">
-if ((typeof screen.width == 'undefined') || (screen.width>screen.height?screen.width:screen.height)>720){
-
 googletag.cmd.push(function() {
 googletag.defineSlot('/16693021/NYBits_300x250_ROS', [300, 250], 'div-gpt-ad-1357602231722-0').addService(googletag.pubads());
 googletag.pubads().enableSingleRequest();
 googletag.enableServices();
 });
-}
 </script>
 </head>
 <body>
 
+<header>
 <div id="upperbackground">
 	<div id="upperenvelope">
 		<div id="logodiv">
-		<a href="http://www.nybits.com/" onmouseover="x__mouseover(&quot;logo_i&quot;,logo_i_over)" onmouseout="x__disableall()"><img alt="NY Bits" class="logopic" name="logo_i" src="http://www.nybits.com/images/icons/logo.gif"></a>
+		<a href="https://www.nybits.com/" onmouseover="x__mouseover(&quot;logo_i&quot;,logo_i_over)" onmouseout="x__disableall()"><img alt="NYBits" class="logopic" name="logo_i" src="https://www.nybits.com/images/icons/logo.gif"></a>
 		</div>
-<div id="tooldiv"><div class="tooldivbutton"> <a href="http://www.nybits.com/nyc/nyb?_ust_todo_=65630&amp;_rid_=12&amp;_xid_=4S5f3IUhrIZvqW-1252336232&amp;">my account</a> </div></div>	</div>
+
+		<div id="searchboxdiv"> 
+		<form action="/nyc/nyb?_ust_todo_=65771" method="GET">
+		<input type="hidden" name="_ust_todo_" value="65771">
+		<input type="text" name="!!txtsearch" placeholder="address or name">
+		<input type="submit" value="go">
+		</form>
+		</div>
+<div id="tooldiv"><div class="tooldivbutton"> <a href="https://www.nybits.com/nyc/nyb?_ust_todo_=65630&amp;_rid_=12&amp;_xid_=4S5f3IUhrIZvqW-1252336232&amp;">my account</a> </div></div>	</div>
 </div>
+</header>
+<nav>
 <div id="midnavigation">
 		<div id="horizontalnav">
-	    <a href="http://www.nybits.com/search/">Search</a> ·
-		<a href="http://www.nybits.com/apartments.html">Buildings</a> ·
-	    <a href="http://www.nybits.com/managers/residential_property_managers.html">Managers</a>  ·
-	    <a href="http://www.nybits.com/brokers.html">Agents</a>
+	    <a href="https://www.nybits.com/search/">Search</a> ·
+		<a href="https://www.nybits.com/apartments.html">Buildings</a> ·
+	    <a href="https://www.nybits.com/managers/residential_property_managers.html">Managers</a>  ·
+	    <a href="https://www.nybits.com/brokers.html">Agents</a>
 		</div>
 		<div id="neighborhoodnav">
-		<a href="http://www.nybits.com/manhattan/">Manhattan</a> ·
-		<a href="http://www.nybits.com/brooklyn/">Brooklyn</a> ·
-		<a href="http://www.nybits.com/queens/">Queens</a> ·
-		<a href="http://www.nybits.com/bronx/">Bronx</a> · 
- 		<a href="http://www.nybits.com/staten_island/">SI</a> ·
-		<a href="http://www.nybits.com/new_jersey/">NJ</a>
+		<a href="https://www.nybits.com/manhattan/">Manhattan</a> ·
+		<a href="https://www.nybits.com/brooklyn/">Brooklyn</a> ·
+		<a href="https://www.nybits.com/queens/">Queens</a> ·
+		<a href="https://www.nybits.com/bronx/">Bronx</a> · 
+ 		<a href="https://www.nybits.com/staten_island/">SI</a> ·
+		<a href="https://www.nybits.com/new_jersey/">NJ</a>
 		</div>
 </div>
+</nav>
 <div id="lowerenvelope">
 
+	<nav>
 	<div id="verticalmainnav"> 
 		<div class="vnavheader">APARTMENTS</div>
 		<div class="vnavlinks">
-		 <a href="http://www.nybits.com/search/">Search Rentals</a>
+		 <a href="https://www.nybits.com/search/">Search Rentals</a>
 		</div>
 
 		<div class="vnavheader">BUILDINGS</div>
 		<div class="vnavlinks">
-		 <a href="http://www.nybits.com/apartments.html">Rental Buildings</a><br>
-		 <a href="http://www.nybits.com/condos.html">Condo Buildings</a><br>
-		 <a href="http://www.nybits.com/coops.html">Co-op Buildings</a><br>
+		 <a href="https://www.nybits.com/apartments.html">Rental Buildings</a><br>
+		 <a href="https://www.nybits.com/condos.html">Condo Buildings</a><br>
+		 <a href="https://www.nybits.com/coops.html">Co-op Buildings</a><br>
 		</div>
 
 		<div class="vnavheader">COMPANIES</div>
 		<div class="vnavlinks">
-		 <a href="http://www.nybits.com/managers/residential_property_managers.html">Property Managers</a><br>
-		 <a href="http://www.nybits.com/brokerages.html">Brokerage Firms</a><br>
-		 <a href="http://www.nybits.com/brokers.html">Individual Brokers</a><br>
+		 <a href="https://www.nybits.com/managers/residential_property_managers.html">Property Managers</a><br>
+		 <a href="https://www.nybits.com/brokerages.html">Brokerage Firms</a><br>
+		 <a href="https://www.nybits.com/brokers.html">Individual Brokers</a><br>
 		</div>
 
 		<div class="vnavheader">NEIGHBORHOODS</div>
 		<div class="vnavlinks">
-		 <a href="http://www.nybits.com/manhattan/">Manhattan</a><br>
-		 <a href="http://www.nybits.com/brooklyn/">Brooklyn</a><br>
-		 <a href="http://www.nybits.com/queens/">Queens</a> ·  <a href="http://www.nybits.com/bronx/">Bronx</a><br>
-		 <a href="http://www.nybits.com/staten_island/">SI</a> ·  <a href="http://www.nybits.com/westchester/">WR</a> ·
-		 <a href="http://www.nybits.com/long_island/">LI</a> ·  <a href="http://www.nybits.com/new_jersey/">NJ</a>
+		 <a href="https://www.nybits.com/manhattan/">Manhattan</a><br>
+		 <a href="https://www.nybits.com/brooklyn/">Brooklyn</a><br>
+		 <a href="https://www.nybits.com/queens/">Queens</a> ·  <a href="https://www.nybits.com/bronx/">Bronx</a><br>
+		 <a href="https://www.nybits.com/staten_island/">SI</a> ·  <a href="https://www.nybits.com/westchester/">WR</a> ·
+		 <a href="https://www.nybits.com/long_island/">LI</a> ·  <a href="https://www.nybits.com/new_jersey/">NJ</a>
 		</div>
-
 	</div>
+	</nav>
 
 	<div id="dancefloor">	
 
  <h1>Privacy Policy</h1><p>
-Gromco, Inc owns and operates the NY Bits web site. Gromco considers privacy to be an extremely important issue. We are committed to protecting your personal information. Below is an outline of our policy.
+Gromco, Inc owns and operates the NYBits web site. Gromco considers privacy to be an extremely important issue. We are committed to protecting your personal information. Below is an outline of our policy.
 </p>
 
 <h2>Log Files</h2>
 
 <p>
-Like most standard Web site servers, NY Bits uses log files and records
+Like most standard Web site servers, NYBits uses log files and records
 IP addresses, browser types, referring/exit pages and similar information to analyze trends, administer the site and track users' movements in the aggregate. This data is not linked to personally identifiable information.
 </p>
 
@@ -807,10 +921,7 @@ A cookie is a piece of data stored on the user's computer tied to information ab
 <h2>Third Party Advertising</h2>
 
 <p>
-The ads appearing on this Web site may be delivered through our business partners, including
-Google AdSense, Media.net and other third-party networks. In the course of serving advertisements
-to this site, our partners may place or recognize a unique cookie in your browser. This information
-is used to serve ads to you.  
+The ads appearing on this Web site may be delivered through our business partners, including Google DoubleClick and other third-party servers. In the course of serving advertisements to this site, our partners may place or recognize a unique cookie in your browser. This information is used to serve ads to you.  
 </p>
 
 <h2>Third Party Cookies</h2>
@@ -825,30 +936,6 @@ For more information on Google's use of cookies, please consult:
 <a href="http://www.google.com/privacy.html">www.google.com/privacy.html</a>
 </p>
 
-<p>
-For more information on Casale Media's cookie policy, please consult:
-<br>
-<a href="http://casalemedia.com/privacy/">http://casalemedia.com/privacy/</a>
-</p>
-
-<p>
-For more information on Pointroll's cookie policy, please consult:
-<b>
-<a href="https://wiki.pointroll.com/pages/viewpage.action?pageId=149328415">https://wiki.pointroll.com/pages/viewpage.action?pageId=149328415</a>
-</b></p><b>
-
-
-
-<h2>Discussion Boards</h2>
-
-<p>
-NY Bits contains discussion boards. To be able to post on discussion boards, you need to register. Reading them does not require registration. The only piece of personally identifiable information required for discussion boards registration is your email address. 
-</p><p>
-If you wish, you can also personalize your profile, which users can view when you post. This profile may be modified at any time. You can opt to have your email address hidden by logging in and checking the appropriate checkbox in your user profile manager. Our software also allows you to edit your postings at a later time. 
-</p><p>
-Our discussion boards are a public forum. We do not protect information from use or misuse nor do we guarantee the accuracy of information posted on the boards.
-</p>
-
 <h2>Legal Disclaimer</h2>
 
 <p>
@@ -860,26 +947,27 @@ Though we make every effort to preserve user privacy, Gromco may need to disclos
 <p>
 Gromco has taken measures to protect the loss, misuse or alteration of information under our control. Gromco's networking systems include standard networking equipment designed to prevent unauthorized access to any information stored within our network. All information is regularly backed up and copies are stored at a secure location.
 </p>
-	</b></div><b>	<!-- dancefloor -->
-</b></div><b> <!-- lower env -->
+	</div>	<!-- dancefloor -->
+</div> <!-- lower env -->
 
-
+<footer>
 <div id="footer">
 	<div id="breadcrumbs">
-	<a href="http://www.nybits.com/">NY Bits</a> » Privacy Policy
+	<a href="https://www.nybits.com/">NYBits</a> » Privacy Policy
 	</div>
 
 	<div id="copyright">
-		Copyright © 2005-2015 Gromco
+		Copyright © 2005-2017 Gromco
 	</div>
 	<div id="footernav">
-<a href="http://www.nybits.com/add.html">Post Your Rental(s)</a>  |
-<a href="http://www.nybits.com/advertise.html">Advertise</a>  |
-<a href="http://www.nybits.com/contact.html">Contact Us</a>  |
-<a href="http://www.nybits.com/privacy_policy.html">Privacy Policy</a> |
-<a href="http://www.nybits.com/terms.html">Terms of Use</a>  
+<a href="https://www.nybits.com/add.html">Post Your Rental(s)</a>  |
+<a href="https://www.nybits.com/advertise.html">Advertise</a>  |
+<a href="https://www.nybits.com/contact.html">Contact Us</a>  |
+<a href="https://www.nybits.com/privacy_policy.html">Privacy Policy</a> |
+<a href="https://www.nybits.com/terms.html">Terms of Use</a>  
 	</div>
 </div>
+</footer>
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -891,15 +979,30 @@ var pageTracker = _gat._getTracker("UA-1215429-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
 
-<!-- Start Quantcast tag -->
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">_qacct="p-449hLRCVQrUcc";quantserve();</script>
+_qevents.push({
+qacct:"p-449hLRCVQrUcc"
+});
+</script>
+
 <noscript>
-<a href="http://www.quantcast.com/p-449hLRCVQrUcc" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-449hLRCVQrUcc.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"></a>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-449hLRCVQrUcc.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
 </noscript>
 <!-- End Quantcast tag -->
 
 
 
-</b></body></html>
+</body></html>
