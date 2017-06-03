@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freshmenu.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110010716id_/https%3A//freshmenu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshmenu.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603232146id_/https%3A//freshmenu.com/privacy-policy) for the most accurate reproduction.*
 
-# Fresh tasty meals - delivered!
+# Fresh and tasty food delivery
 
 ## _**CANCELLATION, RETURN AND REFUND POLICY**_
 
