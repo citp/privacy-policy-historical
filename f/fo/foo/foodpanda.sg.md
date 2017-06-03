@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodpanda.sg privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224090348id_/https%3A//www.foodpanda.sg/contents/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodpanda.sg privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603040406id_/https%3A//www.foodpanda.sg/contents/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy | Food delivery in Singapore | foodpanda
 
