@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the namepros.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229055301id_/https%3A//www.namepros.com/pages/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namepros.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603064434id_/https%3A//www.namepros.com/pages/terms) for the most accurate reproduction.*
 
 # Terms and Policies - NamePros
+
+[ ](https://www.name.com/names?utm_source=namepros&utm_medium=banner&utm_campaign=highDUM_2017.Q2.05)
 
 Legal terms for use of NamePros
 
@@ -63,8 +65,6 @@ You agree to create **only a single account**. This includes banned accounts, ac
 
 You agree not to use Tor, a VPN, SOCKS, or any other proxying mechanism ("proxy") that masks your computer's identity on the Internet ("IP address") unless such a proxy is necessary to access the Service. If you require the use of a proxy for another reason, you agree to obtain written permission from NamePros before posting any content via the proxy, and within 24 hours of your first use of the proxy to access NamePros. If the request is denied, or remains unanswered/indeterminate for more than 72 hours, you agree to cease using the proxy to access NamePros unless you are later granted written permission stating otherwise. Under no condition will you deny the use of a proxy if you are using or have used one, nor will you refuse to provide accurate information in a timely fashion about the proxy, when the proxy was used, or your real IP address, when asked for such information by NamePros staff, even if you have been granted written permission to use a proxy or must use a proxy to access the Service. Requests for permission to use a proxy should be e-mailed to `techsupport@namepros.com`. Users accessing the service from within Iran or mainland China are granted implicit permission to use proxies as necessary.
 
-Changes to this clause must be copied to the identical clause in the Privacy Policy.
-
 You agree to allow us to track your usage of the Service in an effort to prevent fraud, abuse, and/or illegal activities. You will not attempt to impede, evade, or mislead our abuse-oriented tracking. This includes actions such as clearing cookies or your browser cache to clear tracking information. By creating an account, logging into an account, and/or using this Service as a registered user, you grant us irrevocable permission to use tracking methods resilient to obstruction ("Persistent Tracking"); this may involve storing information ("Persistent Tracking Information") on your computer that is difficult to view and/or remove. Persistent Tracking is used to prevent fraud, abuse, and/or illegal activities; it is not used for marketing or demographics, and information obtained through Persistent Tracking is governed by our Privacy Policy. Information obtained through Persistent Tracking will not be sold to third parties and will only be released to third parties as necessary to prevent fraud, abuse, and/or illegal activities. Examples of Persistent Tracking methods include ETag pseudo-cookies and Flash-based local storage objects (LSOs). **If you object to Persistent Tracking for the prevention of fraud, abuse, and/or illegal activities, you must not use the Service as a registered user.** NamePros may interpret attempts to hinder the effectiveness of Persistent Tracking as malicious activity and/or intent to defraud.
 
 You agree that you are at least 13 years of age at the time of creating your account and at least 18 years of age when using the marketplace.
@@ -103,8 +103,6 @@ As a User, you agree to follow all rules and guidelines posted by authorized Nam
 **You agree to abide by all international and federal regulations in the United States.** Your region may enforce additional restrictions that apply to your use of the Service.
 
 You agree to ensure the integrity of any encryption implementations ("Encryption") that the Service employs, including HTTPS (HTTP over SSL or TLS). You must not undermine the Encryption or allow third parties to intercept unencrypted communications with the Service. If regional laws and/or organizations prevent you from using Encryption, you must not use the Service. You must not allow proxying servers to decrypt communications with the Service.
-
-Changes to this clause must be copied to the identical clause in the Terms of Service.
 
 You agree to allow us to track your usage of the Service in an effort to prevent fraud, abuse, and/or illegal activities. You will not attempt to impede, evade, or mislead our abuse-oriented tracking. This includes actions such as clearing cookies or your browser cache to clear tracking information. By creating an account, logging into an account, and/or using this Service as a registered user, you grant us irrevocable permission to use tracking methods resilient to obstruction ("Persistent Tracking"); this may involve storing information ("Persistent Tracking Information") on your computer that is difficult to view and/or remove. Persistent Tracking is used to prevent fraud, abuse, and/or illegal activities; it is not used for marketing or demographics, and information obtained through Persistent Tracking is governed by our Privacy Policy. Information obtained through Persistent Tracking will not be sold to third parties and will only be released to third parties as necessary to prevent fraud, abuse, and/or illegal activities. Examples of Persistent Tracking methods include ETag pseudo-cookies and Flash-based local storage objects (LSOs). **If you object to Persistent Tracking for the prevention of fraud, abuse, and/or illegal activities, you must not use the Service as a registered user.** NamePros may interpret attempts to hinder the effectiveness of Persistent Tracking as malicious activity and/or intent to defraud.
 
@@ -179,7 +177,7 @@ NamePros utilizes Mandrill to send transactional e-mails. Mandrill maintains a l
 
 [¶](https://web.archive.org/pages/terms/#privacy-collectors-google)
 
-Our services integrate with Google Analytics to collect heavily-anonymized statistics about our users. It allows us to observe trends, such as which browsers are most often used to visit our website, common traffic flow patterns as users enter, browser, and leave the website, and much more. When there aren't enough data points to ensure anonymity, Google excludes any statistics that could be used to obtain an identity. Google Analytics is a reputable, industry-standard tool used on a large number of websites.
+Our services integrate with Google Analytics to collect heavily-anonymized statistics about our users. It allows us to observe trends, such as which browsers are most often used to visit our website, common traffic flow patterns as users enter, browse, and leave the website, and much more. When there aren't enough data points to ensure anonymity, Google excludes any statistics that could be used to obtain an identity. Google Analytics is a reputable, industry-standard tool used on a large number of websites.
 
 In addition to the basic Google Analytics services, NamePros has opted to enable a single feature of [Google Analytics Display Advertising](https://support.google.com/analytics/answer/3450482?hl=en&ref_topic=3413645). Analytics Display Advertising is a service that integrates Google Analytics with Google's [DoubleClick ad network technology](http://www.google.com/doubleclick/). In our case, the primary purpose is to provide more information for Google Analytics, particularly [demographics and interest reporting](https://support.google.com/analytics/answer/2799357?hl=en&ref_topic=2799375).
 
@@ -217,7 +215,7 @@ In order to function, PayPal requires the use of Personally Identifiable Informa
 
 [¶](https://web.archive.org/pages/terms/#privacy-collectors-newrelic)
 
-New Relic provides a combination of services that NamePros uses to monitor its servers, applications, and the exeriences of its users. The information gathered is, to the best of NamePros' knowledge, anonymous. Data gathered from web browsers is low-level and typically includes details such as how long a page took to load and whether any errors were encountered. NamePros uses this data to detect degradations in its services and to aid in the optimization of new and existing services.
+New Relic provides a combination of services that NamePros uses to monitor its servers, applications, and the experiences of its users. The information gathered is, to the best of NamePros' knowledge, anonymous. Data gathered from web browsers is low-level and typically includes details such as how long a page took to load and whether any errors were encountered. NamePros uses this data to detect degradations in its services and to aid in the optimization of new and existing services.
 
 ### Datadog
 
@@ -304,7 +302,5 @@ We reserve the right to redistribute and/or publicize any communication regardin
 **By contacting us about DMCA takedown requests, copyright infringement, and/or other intellectual property matters, you agree to forfeit all confidentiality, regardless of any notices requesting otherwise.**
 
 DMCA takedown requests should be sent to `dmca@namepros.com`. Requests sent elsewhere are still subject to the above terms.
-
-[ ](https://web.archive.org/login/)
   *[domain]: namepros.com
   *[ISPs]: Internet Service Providers
