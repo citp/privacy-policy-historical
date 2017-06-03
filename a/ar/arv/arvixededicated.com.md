@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the arvixededicated.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202084959id_/https%3A//www.arvixe.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arvixededicated.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603060455id_/https%3A//www.arvixe.com/pp.php) for the most accurate reproduction.*
 
 # Arvixe Privacy Policy
 
-Last Updated:  **April 5th, 2016**
+Last Updated:  **April 26th, 2017**
 
 Arvixe, LLC ("Arvixe") is committed to upholding the integrity, privacy, and security of customer and/or user ("Customer") information. This Privacy Policy serves to establish our commitment to Customer privacy and security, as well as explain the policies and procedures Arvixe adheres to regarding the collection and use of Customer data.
 
