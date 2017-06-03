@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noodles.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231209id_/http%3A//www.noodles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noodles.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603071738id_/http%3A//www.noodles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Noodles & Company
 
@@ -137,6 +137,6 @@ From time to time, we may update this Privacy Policy. If our information practic
 
 Your web browser may let you choose your preference as to whether you want to allow websites to collect personal information over time about your online activities across different websites or online services.  At this time our website does not respond to the preferences you may have set in your web browser regarding the collection of your information, and our website may continue to collect information in the manner described in this privacy policy.
 
-If you are a California resident and customer of Noodles, you have the right to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [thecavalry@noodles.com](mailto:thecavalry@noodles.com) or write us at: Noodles & Company, attn.: 520 Zang Street, Broomfield, CO 80021.
+If you are a California resident and customer of Noodles, you have the right to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [guestrelations@noodles.com](mailto:guestrelations@noodles.com) or write us at: Noodles & Company, attn.: 520 Zang Street, Broomfield, CO 80021.
 
 Copyright © 2016 NOODLES & Company. All rights reserved.
