@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brand-yourself.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114221230id_/https%3A//brandyourself.com/info/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brand-yourself.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603112918id_/https%3A//brandyourself.com/info/about/privacy) for the most accurate reproduction.*
 
 # Reputation Services, Privacy and Security
 
