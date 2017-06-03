@@ -1,195 +1,178 @@
-> *The following text is extracted and transformed from the usaherald.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/en/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaherald.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603154543id_/http%3A//usaherald.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Privacy & Terms – Google
+# USA Herald Privacy Policy > USA Herald
 
-[Download PDF version](https://www.google.com/intl/en/policies/privacy/google_privacy_policy_en.pdf)
+USA Herald Privacy Policy
 
-There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a [Google Account](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-account), we can make those services even better – to show you [more relevant search results](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/more-relevant-search-results.html) and ads, to help you [connect with people](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/connect-with-people.html) or to make [sharing with others quicker and easier](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/sharing-with-others.html). As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. 
+**Please take the time to read the full privacy policy. You consent to the data collection, use, disclosure and storage practices described in this privacy policy when you use any of our Services (as described below), including when you access any content or videos.**
 
-Our Privacy Policy explains: 
+Thank you for visiting this website, a digital service presented to you by USA HERALD, LLC (“USAH”, “we” or “us”). Your privacy is important to us. As such, we provide this privacy policy (“Privacy Policy”) explaining our online information practices and the choices you can make about the way your information is collected and used by this digital service and among our network of affiliated and operated digital services (“USAH Affiliates”), which includes any online or mobile websites, applications or digital services owned, operated or offered by, on behalf of, or in conjunction with USAH or its Affiliates, including any online or mobile website, application or digital service installation through which this Privacy Policy appears (each a “Service,” collectively the “Services”). “Users” are persons that use the Services.
 
-  * What information we collect and why we collect it. 
-  * How we use that information. 
-  * The choices we offer, including how to access and update information.
+  1. **The Information We Collect**
 
 
 
-We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these [key terms](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/key-terms/) first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions [consult this page](http://support.google.com/policies/troubleshooter/2990837?hl=en&rd=2). 
+We receive both information that is directly provided to us, such as personal information you provide when you visit the Services, and information that is passively or automatically collected from you, such as anonymous information collected from your browser or device. In this Privacy Policy, we refer to all of this as the “Information”.
 
-## Information we collect
+  1. _Information You Provide To Us._ At some Services, you can register, order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters or text message alerts, or participate in one of our online forums or communities. In the course of these various offerings, we often seek to collect from you various forms of information, such as: name, address, e-mail address, telephone number, fax number and credit card information.
 
-We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which [ads you’ll find most useful](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/ads-youll-find-most-useful.html), [the people who matter most to you online](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/the-people-who-matter-most.html), or which YouTube videos you might like. 
 
-We collect information in two ways: 
 
-  * **Information you give us.** For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for [personal information](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-personal-info), like your name, email address, telephone number or [credit card](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/credit-card.html). If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible [Google Profile](http://support.google.com/accounts/bin/answer.py?hl=en&answer=112783), which may include your name and photo. 
+At some Services, you may also be able to submit Information about other people. For example, you might submit a person’s name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient’s name and address. This Information may include, for instance, a recipient’s name, address, e-mail address, and telephone number.
 
-  * **Information we get from your use of our services.** We [collect information](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/collect-information.html) about the services that you use and how you use them, like when you watch a video on YouTube, visit a website that uses our advertising services, or you [view and interact with our ads](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/view-and-interact-with-our-ads.html) and content. This information includes: 
+  2. _Information That is Passively or Automatically Collected._ We, and our “Partners” who include USAH Affiliates, third party service providers, advertisers, advertising networks and platforms, agencies, and distribution or other partners may use automated means to collect various types of Information about you, your computer or other device used to access our Services. A representative, non-exhaustive list of the types of automatically collected information may include: network or Internet protocol address and type of browser you are using (e.g., Chrome, Safari, Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS), the name of your Internet service provider (e.g., Comcast, Verizon or AT&T) and domains used by such providers, mobile network, device identifiers (such as an Apple IDFA or an Android Advertising ID), device settings, browser settings, the web pages of the Services you have visited, Services visited before and after you visit a Service, the type of handheld or mobile device used to view the Service (e.g., iOS, Android), location information, and the content and advertisements you have accessed, seen, forwarded and/or clicked on. Please see our Section titled Cookies, and Other User and Ad-Targeting Technologies for more information about how the foregoing Information may be collected and used.
+  3. _Geo-location Information._ If you are accessing a Service from a mobile device or through a mobile application, you may be asked to share your precise (GPS level) geo-location information with us so we can customize your experience on our Services or on other Services, when we work with a Partner such as a third party mobile ad platform. If you agree to such collection, in most cases, you will be able to turn off such data collection at any time by accessing the privacy settings of your mobile device and/or through the settings in the applicable mobile application.
+  4. _Information Collected By and From Social Media Services and Other Third Party Platforms._ You also can engage with our content, such as video, games, applications, and other offerings, on or through social media services or other third party platforms, such as Facebook, or other third-party social media plug-ins, integrations and applications. When you engage with our content on or through social media services or other third party platforms, plug-ins, integrations or applications, you may allow us to have access to certain Information in your profile. This may include your name, e-mail address, photo, gender, birthday, location, an ID associated with the applicable third party platform or social media account user files, like photos and videos, your list of friends or connections, people you follow and/or who follow you, or your posts or “likes.” For a description on how social media services and other third party platforms, plug-ins, integrations or applications handle your information, please refer to their respective privacy policies and terms of use, which may permit you to modify your privacy settings.
 
-    * **[Device information](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-device)**
 
-We collect [device-specific information](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/device-specific-information.html) (such as your hardware model, operating system version, [unique device identifiers](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-unique-device-id), and mobile network information including phone number). Google may associate your [device identifiers](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/device-identifiers.html) or [phone number](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/phone-number.html) with your Google Account. 
 
-    * **Log information**
+When we interact with you through our content on third party websites, applications, integrations or platforms, we may obtain any information regarding your interaction with that content, such as content you have viewed, your game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on.
 
-When you use our services or view content provided by Google, we automatically collect and store certain information in [server logs](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-server-logs). This includes: 
+  1. **How We Use the Information**
 
-      * details of how you used our service, such as your search queries. 
-      * telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls. 
-      * [Internet protocol address](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-ip). 
-      * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL. 
-      * cookies that may uniquely identify your browser or your Google Account.
-    * **Location information**
 
-When you use Google services, we [may collect and process information about your actual location](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/may-collect-and-process-information.html). We use various technologies to determine location, including IP address, GPS, and other sensors that may, for example, provide Google with information on nearby devices, [Wi-Fi access points and cell towers](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/wifi-access-points-and-cell-towers.html). 
 
-    * **Unique application numbers**
+We, along with our Partners, may use the Information to:
 
-Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Google when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates. 
+  1. provide and communicate with you about the Services or your account with us,
+  2. fulfill your requests regarding the Services, including without limitation requests for newsletters and notifications,
+  3. respond to your inquiries, and notify you if you have won a contest,
+  4. communicate with you about other products, programs or services that we believe may be of interest to you,
+  5. enforce the legal terms (including without limitation our policies and terms of service) that govern your use of our Services, and/or for the purposes for which you provided the Information,
+  6. provide technical support for the Services,
+  7. prevent fraud or potentially illegal activities (including, without limitation, copyright infringement) on or through the Services,
+  8. protect the safety of our Users,
+  9. customize or personalize ads, offers and content made available to you based on your visits to and/or usage of the Services or other online or mobile websites, applications, platforms or services, and analyze the performance of those ads, offers and content, as well as your interaction with them,
+  10. perform analysis regarding how you use the Services or any part thereof,
+  11. send gifts, cards, invitations or emails if you use these services, to your designated recipients.
 
-    * **Local storage**
 
-We may collect and store information (including personal information) locally on your device using mechanisms such as [browser web storage](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-browser-web-storage) (including HTML 5) and [application data caches](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-application-data-cache). 
 
-    * **Cookies and anonymous identifiers**
+When you provide information from your social media account, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our Services, (3) contact you through the social media service or directly by sending you the latest news, special offerings, and rewards, and (4) enable you to share your experience and content via social media services. When you provide information about yourself to us through an application, through our Services, or on social media services or other third party platforms, it may be publicly viewed by other members of these services and we cannot prevent further use of the information by third parties.
 
-We [and our partners](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/our-partners.html) use various technologies to collect and store information when you visit a Google service, and this may include sending one or more [cookies](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-cookie) or [anonymous identifiers](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-identifier) to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as [advertising services](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/advertising-services.html) or Google features that may appear on other sites.
+We or a Partner may use “cookies” or similar technologies to associate certain of the Information with a unique identifier that then associates the Information with your device or browser.
 
+Sometimes, we may associate cookies with the Information, including de-identified, “hashed,” or anonymous versions of Information you have provided (such as during registration), in order to send or help our Partners send ads and offers based on your presumed interests or demographic information.
 
+We may combine any of the Information we collect, for any of the above purposes, and may sometimes enhance the Information with other information that we obtain from third party sources. Please also be aware that if you choose to submit Information or content for publication (e.g., a letter to our editors, comments sent to our television personalities, a posting to a blog or a discussion board, or a video), we may publish that Information and content, along with other Information about you (such as your name, screen name or location). Likewise, if you register and create a profile with our Service, the screen name you select as well as other content you submit to your profile (e.g., photos, comments, video, reviews) will be displayed publicly on the Service, is searchable, can be found by third parties and may be reused and redistributed by us in our sole discretion. See our Terms of Use for details on our use of content you submit.
 
+**III. Information Sharing and Disclosure**
 
-## How we use information we collect
+We may disclose the Information as follows:
 
-We use the information we collect from all of our services to provide, maintain, protect and improve them, to [develop new ones](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/develop-new-ones.html), and to [protect Google and our users](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/protect-google-and-our-users.html). We also use this information to offer you tailored content – like giving you more relevant search results and ads. 
+  1. To service providers or Partners that we have engaged to perform business-related functions on our behalf. This may include service providers that: (a) conduct research and analytics; (b) create content; (c) provide customer, technical or operational support; (d) conduct or support marketing (such as email or advertising platforms); (e) fulfill orders and user requests; (f) handle payments; (g) host our Services, forums and online communities; (h) administer contests; (i) maintain databases; (j) send or support online or mobile advertising; and (k) otherwise support our Services.
+  2. In response to legal process, for example, in response to a court order or a subpoena, a law enforcement or government agency’s request or similar request.
+  3. With third parties in order to investigate, prevent, or take action (in our sole discretion) regarding potentially illegal activities, suspected fraud, situations involving potential threats to any person, us, or the Services, or violations of our policies, the law or our Terms of Use, to verify or enforce compliance with the policies governing our Services.
+  4. We may transfer some or all of your Information if we, or one of our business units, undergoes a business transition, like a merger, acquisition by another company, or sale of all or part of our assets, or if a substantial portion of our or of a business unit’s assets is sold or merged in this way.
+  5. We may share the Information with USAH Affiliates, so they can provide, improve and communicate with you about their own, or their marketing partners’ products and services.
+  6. We may share the Information with unaffiliated Partners and third parties (e.g., our third party service providers, advertisers, advertising networks and platforms, agencies, other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that wish to market products or services to you.
 
-We may use the name you provide for your Google Profile across all of the services we offer that require a Google Account. In addition, we may replace past names associated with your Google Account so that you are represented consistently across all our services. If other users already have your email, or other information that identifies you, we may show them your publicly visible Google Profile information, such as your name and photo. 
 
-If you have a Google Account, we may display your Profile name, Profile photo, and actions you take on Google or on third-party applications connected to your Google Account (such as +1’s, reviews you write and comments you post) in our services, including displaying in ads and other commercial contexts. We will respect the choices you make to [limit sharing or visibility settings](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/limit-sharing-or-visibility-settings.html) in your Google Account. 
 
-When you contact Google, we keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. 
+Please note that the Services covered by this Privacy Policy may offer content (e.g., contests, sweepstakes, promotions, games, applications, or social network integrations) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain information from their visitors. We have no control over these third parties’ use of this information, which is subject to their own privacy policies.
 
-We use information collected from cookies and other technologies, like [pixel tags](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-pixel), to [improve your user experience](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/improve-your-user-experience.html) and the overall quality of our services. One of the products we use to do this on our own services is Google Analytics. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate a cookie or anonymous identifier with [sensitive categories](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-sensitive-categories), such as those based on race, religion, sexual orientation or health. 
+  1. **Cookies and Other User and Ad-Targeting Technologies.**
 
-Our automated systems analyze your content (including emails) to provide you personally relevant product features, such as customized search results, tailored advertising, and spam and malware detection. 
 
-We may [combine personal information from one service with information, including personal information, from other Google services](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/combine-personal-information.html) – for example . We will not combine DoubleClick cookie information with personally identifiable information unless we have your opt-in consent. 
 
-We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy. 
+We use cookies and other technologies both to provide our Services to you and to advertise to you. We also may work with Partners to help them advertise to you when you visit other websites or mobile applications, and to help them perform user analytics. These technologies may also be used to analyze how our Users interact with advertising on our Services and elsewhere, and more generally, to learn more about our Users and what services or offers you might prefer to receive. We describe some of these technologies below.
 
-Google processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live. 
+  1. Cookies. To enhance your online experience, we and our Partners use “cookies”, “web beacons” or other tracking technologies. Cookies are text files placed in your computer’s browser to store your preferences. We use cookies or other tracking technologies to understand Service and Internet usage and to improve or customize the products, content, offerings, services or advertisements on our Services. For example, we may use cookies to personalize your experience at our Services (e.g., to recognize you by name when you return to a Service), save your password in password-protected areas, and enable you to use shopping carts on our Services. We also may use cookies or other tracking technologies to help us offer you products, content, offerings or services that may be of interest to you and to deliver relevant advertising when you visit this Service, a USAH Affiliate’s Service, or when you visit other websites or applications. We or a third party platform with whom we work may place or recognize a unique cookie on your browser to enable you to receive customized content, offers, services or advertisements on our Services or other sites. These cookies contain no information intended to identify you personally. The cookies may be associated with de-identified demographic or other data linked to or derived from data you voluntarily have submitted to us (e.g., your email address) that we may share with a service provider solely in hashed, non-human readable form.
 
-## Transparency and choice
 
-People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can: 
 
-  * [Review and control](https://www.google.com/dashboard/?hl=en) certain types of information tied to your Google Account by using Google Dashboard. 
-  * [View and edit](https://www.google.com/settings/ads/preferences?hl=en) your preferences about the ads shown to you on Google and across the web, such as which categories might interest you, using Ads Settings. You can also opt out of certain Google advertising services here. 
-  * [Use our editor](http://support.google.com/accounts/bin/answer.py?hl=en&answer=112783) to see and adjust how your Google Profile appears to particular individuals. 
-  * [Control](http://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347) who you share information with. 
-  * [Take information](http://www.dataliberation.org/) out of many of our services. 
-  * [Choose](https://plus.google.com/settings/endorsements) whether your Profile name and Profile photo appear in shared endorsements that appear in ads.
+We, our third party service providers, advertisers, advertising networks and platforms, agencies, or our Partners also may use cookies or other tracking technologies to manage and measure the performance of advertisements displayed on or delivered by or through the USAH Network and/or other networks or Services. This also helps us, our service providers and Partners provide more relevant advertising.
 
+  2. Syncing Cookies and Identifiers. We may work with our Partners (for instance, third party ad platforms) to synchronize unique, anonymous identifiers (such as those associated with cookies) in order to match our Partners’ uniquely coded user identifiers to our own. We may do this, for instance, to enhance data points about a particular unique browser or device, and thus enable us or others to send ads that are more relevant, match Users to their likely product interests, or better synchronize, cap, or optimize advertising.
+  3. Locally Stored Objects. Services on the USAH Network may employ locally stored objects (“LSOs”) and other client side storage tracking technologies in certain situations where they help to provide a better user experience, such as to remember settings, preferences and usage similar to browser cookies, or in order to target or help our Partners target ads, analyze ad performance, or perform user, website or market analytics. For LSOs utilized by Adobe Flash you can access Flash management tools from [Adobe’s website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). In addition, some, but not all browsers, provide the ability to remove LSOs, sometimes within cookie and privacy settings.
+  4. Disabling Cookies
 
 
-You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services [may not function properly](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/may-not-function-properly.html) if your cookies are disabled. For example, we may not remember your language preferences. 
 
-## Information you share
+Most web browsers are set up to accept cookies. You may be able to set your browser to warn you before accepting certain cookies or to refuse certain cookies. However, if you disable the use of cookies in your web browser, some features of the Services may be difficult to use or inoperable.
 
-Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on [sharing](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/sharing.html) and [removing your content](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/removing-your-content.html). 
+We may work with certain third-party companies that use techniques other than HTTP cookies to recognize your computer or device and/or to collect and record information about your web surfing activity, including those integrated with our Services. Please keep in mind that your web browser may not permit you to block the use of these techniques, and those browser settings that block conventional cookies may have no effect on such techniques. To learn more about Interest-Based Advertising or to opt-out of this type of advertising by those third parties that are members of DAA’s opt-out program, please go to [http://www.aboutads.info](http://www.aboutads.info/).
 
-## Accessing and updating your personal information
+  5. Web Beacons. We and our Partners may also use “web beacons” or clear GIFs, or similar technologies, which are small pieces of code placed on a Service or in an email, to monitor the behavior and collect data about the visitors viewing a Service or email. For example, web beacons may be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that Service. Web beacons may also be used to provide information on the effectiveness of our email campaigns (e.g., open rates, clicks, forwards, etc.).
+  6. Mobile Device Identifiers and SDKs.
 
-Whenever you use our services, we aim to provide you with [access to your personal information](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/access-to-your-personal-information.html). If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request. 
 
-We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems). 
 
-Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. 
+We also sometimes use, or partner with publishers, publisher-facing, or app developer platforms that use mobile Software Development Kits (“SDKs”), or use an SDK with a mobile app that we offer, to collect Information, such as mobile identifiers (e.g., IDFAs and Android Advertising IDs), and Information connected to how mobile devices interact with our Services and those using our Services. A mobile SDK is the mobile app version of a web beacon (see “Web Beacons” above). The SDK is a bit of computer code that app developers can include in their apps to enable ads to be shown, data to be collected, and related services or analytics to be performed. We may use this technology to deliver or help our Partners deliver certain advertising through mobile applications and browsers based on information associated with your mobile device. If you’d like to opt-out from having ads tailored to you in this way on your mobile device, please follow the instructions in the “Your Ad Choices” section below.
 
-## Information we share
+By visiting the Service, whether as a registered user or otherwise, you acknowledge, and agree that you are giving us your consent to track your activities and your use of the Service through the technologies described above, as well as similar technologies developed in the future, and that we may use such tracking technologies in the emails we send to you.
 
-We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances applies: 
+Our unaffiliated Partners and third parties may themselves set and access their own tracking technologies when you visit our Services and they may have access to information about you and your online activities over time and across different websites or applications when you use the Service. Their use of such tracking technologies is not in our control and is subject to their own privacy policies.
 
-  * **With your consent**
+  1. **Your Ad Choices**
 
-We will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-sensitive-info). 
 
-  * **With domain administrators**
 
-If your Google Account is managed for you by a [domain administrator](http://support.google.com/a/bin/answer.py?hl=en&answer=178897) (for example, for Google Apps users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to: 
+Advertising enables us to provide the rich content for which Services on the USAH Network are known, and to provide much of this content free of cost to our Users. Thus, we strive to provide you with ads that are relevant to you and for products you may want.
 
-    * view statistics regarding your account, like statistics regarding applications you install. 
-    * change your account password. 
-    * suspend or terminate your account access. 
-    * access or retain information stored as part of your account. 
-    * receive your account information in order to satisfy applicable law, regulation, [legal process or enforceable governmental request](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/legal-process.html). 
-    * restrict your ability to delete or edit information or privacy settings.
+However, we also offer you choices with regard to interest-based ads.
 
-Please refer to your domain administrator’s privacy policy for more information. 
+You may also find more information about entities involved in online advertising and additional choices you may make through the Network Advertising Initiative (“NAI”) at the [NAI Service](http://www.networkadvertising.org/), and the [Digital Advertising Alliance](http://www.aboutads.info/) (the “DAA”) at the [DAA consumer choice Service](http://www.aboutads.info/).
 
-  * **For external processing**
+The tools provided on the Ad Choices page, as well as the [DAA opt-out page](http://www.aboutads.info/choices) and the [NAI opt-out page](http://www.networkadvertising.org/managing/opt_out.asp) are provided by third parties, not USAH. USAH does not control or operate these tools or the choices that advertisers and others provide through these tools.
 
-We provide personal information to our [affiliates](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-affiliates) or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. 
+When using a mobile application you may receive tailored in-application advertisements. Depending on your device, you may be able to reset your mobile device’s advertising identifier at any time by accessing the privacy settings on your mobile device. In addition, each operating system, iOS for Apple phones, Android for Android devices and Windows for Microsoft devices, provides its own instructions on how to prevent the delivery of tailored in-application advertisements. You may review the support materials and/or the privacy settings for the respective operating systems in order to opt-out of tailored in-application advertisements. For any other devices and/or operating systems, please visit the privacy settings for the applicable device or contact (or review the applicable privacy web page of) the applicable platform operator.
 
-  * **For legal reasons**
+  1. **Other Important Information About Your Privacy**
+  2. How We Respond to Do Not Track Signals
 
-We will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
 
-    * meet any applicable law, regulation, legal process or enforceable governmental request. 
-    * enforce applicable Terms of Service, including investigation of potential violations. 
-    * detect, prevent, or otherwise address fraud, security or technical issues. 
-    * protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
 
+At this time Services on the USAH Network do not recognize automated browser signals regarding tracking mechanisms, which may include “do not track” instructions.
 
+  2. Linked Services
 
-, [non-personally identifiable information](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-info) publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly [to show trends](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/example/to-show-trends.html) about the general use of our services. 
 
-If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy. 
 
-## Information security
+Some of the Services contain links to or integrations with other services such as Facebook, Twitter, LinkedIn, and other media services and platforms whose information practices may be different than ours. Visitors should consult these other services’ privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
-We work hard to protect Google and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular: 
+  3. International Transfer
 
-  * We encrypt many of our services [using SSL](http://support.google.com/websearch/bin/answer.py?answer=173733&en). 
-  * We offer you [two step verification](https://www.google.com/intl/en/landing/2step/) when you access your Google Account, and a [Safe Browsing feature](http://www.google.com/chrome/intl/en/more/security.html) in Google Chrome. 
-  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems. 
-  * We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
 
 
+This Service is governed by and operated in accordance with US law. If you are located outside of the US, you use this Service at your own risk. USAH is a company that operates globally so it is necessary to transfer your Information internationally. In particular, your Information will be transferred to and processed in the United States where many of our central databases operate. By using this Service, you (a) acknowledge that the data protection and other laws of other countries, such as the United States, may provide a less comprehensive or protective standard of protection than those in your country, and consent to your Information being collected, processed and transferred as set forth in this Privacy Policy and US law.
 
-## When this Privacy Policy applies
+  4. Data Security
 
-Our Privacy Policy applies to all of the services offered by Google Inc. and its affiliates, including YouTube, and services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. 
 
-Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads. 
 
-## Compliance and cooperation with regulatory authorities
+We have put in place physical, electronic, and managerial procedures designed to help prevent unauthorized access, to maintain data security, and to use correctly the Information we collect online. These safeguards vary based on the sensitivity of the Information that we collect and store.
 
-We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/frameworks/). When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly. 
+Although we take appropriate measures to safeguard against unauthorized disclosures of Information, we cannot assure you that Information will never be disclosed, altered or destroyed in a manner that is inconsistent with this Privacy Policy.
 
-## Changes
+  5. How You Can Access or Correct Information
 
-Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
 
-## Specific product practices
 
-The following notices explain specific privacy practices with respect to certain Google products and services that you may use: 
+Access to certain personal Information that is collected from our Services and that we maintain may be available to you. For example, if you created a password-protected account within our Service, you can access that account to review the Information you provided.
 
-  * [Chrome and Chrome OS](http://www.google.com/chrome/intl/en/privacy.html)
-  * [Books](http://books.google.com/intl/en/googlebooks/privacy.html)
-  * [Wallet](http://wallet.google.com/files/privacy.html?hl=en)
-  * [Fiber](https://fiber.google.com/legal/privacy.html)
+You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personal Information. Please include your registration information for such service such as first name, last name and e-mail address in the request. We may ask you to provide additional information for identity verification purposes, or to verify that you are in possession of an applicable email account.
 
+E-mail Administration
 
+USA Herald, LLC
 
-For more information about some of our most popular services, you can visit the [Google Product Privacy Guide](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/technologies/product-privacy/). 
+1201 N Orange St #600
 
-Further useful privacy and security related materials can be found through Google’s [policies and principles pages](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/), including: 
+Wilmington, DE 19801
 
-  * Information about our [technologies and principles](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/technologies/), which includes, among other things, more information on 
-    * [how Google uses cookies](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/technologies/cookies/). 
-    * technologies we use for [advertising](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/technologies/ads/). 
-    * how we [recognize patterns like faces](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/technologies/pattern-recognition/).
-  * A [page](https://web.archive.org/web/20141231204440id_/https%3A//www.google.com/intl/policies/privacy/partners/) that explains what data is shared with Google when you visit websites that use our advertising, analytics and social products. 
-  * Google’s [safety center](https://www.google.com/intl/en/safetycenter/), which provides information on how to stay safe and secure online.
+email: admin@usaherald.com
 
+  6. How to Contact Us/Opting Out of Marketing Communications
 
+
+
+If you have any questions or concerns about the online Privacy Policy for this Service or its implementation, or if you would like to opt out from our sharing of your personal Information with unaffiliated third parties for the third parties’ direct marketing purposes you may contact our Privacy Policy Coordinator at the above address and request that we opt you out of such sharing. We may ask you to provide additional information for identity verification purposes, or to verify that you are in possession of an applicable email account.
+
+If you have signed up to receive our e-mails and prefer not to receive marketing information from this Service, follow the “unsubscribe” instructions provided on any marketing e-mail you receive from this Service. If you have signed up to receive text messages from us and no longer wish to receive such messages, you may follow the instructions to stop the delivery of such messages, which may include by replying “STOP” to the received text message.
+
+  7. California Residents — Your California Privacy Rights
+
+
+
+California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternately, businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place.
