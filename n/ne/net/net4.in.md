@@ -1,22 +1,6 @@
-> *The following text is extracted and transformed from the net4.in privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231194711id_/http%3A//www.net4.in/aspx/general/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the net4.in privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603084610id_/http%3A//www.net4.in/aspx/general/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Net4
-
-Policy 
-
-We, at Net4India, value your trust and confidence. We believe that we earn your trust and confidence when we continue to bring you exceptional products and services and do so in a very private and secure manner. We believe that trust and confidence is sustained as we honour that commitment to you, day in and day out. Our privacy statement sets forth your and our rights and responsibilities with regard to your personal information.   
-This Privacy Policy describes how Net4India collects information from users of Net4India’s Internet services, how we use the information collected, and the choices you have concerning the collection and use of such information. The Privacy Policy applies only to Net4India and those web sites that carry the Net4India brand. It does not apply to any other organization’s web sites that we provide links to.   
-You agree that we, in our sole discretion, may modify our privacy statement. We will post such revised statement on our Web site at least thirty (30) calendar days before it becomes effective. You agree that, by using our services after modifications to the privacy statement become effective, you have agreed to these modifications. You acknowledge that if you do not agree to any such modification, we have the right to terminate this agreement forthwith without notice to you. We will not refund any fees paid by you if you terminate your Agreement with us. We will not process the personal data that we collect from you in a way incompatible with the purposes and other limitations described in our privacy statement and we will take reasonable precautions to protect your personal data from loss, misuse and unauthorized access, disclosure, alteration or destruction. By visiting any of the sites offered by Net4India, you are accepting the practices described in this Privacy Policy. You agree to provide Net4India with accurate, current and complete information, to the extent required by Net4India for your registration as a subscriber of Services and/or Products or at any time thereafter and to maintain and to update this information as required to keep it accurate, current and complete in all respects. You agree that you have not impersonated and will not impersonate any other person or entity, and you represent that you are of legal age to contract for and use the Services and/or Products or that you have obtained consent to use the Services and/or Products from your parent or guardian. 
-
-What Information Does Net4India Collect? 
-
-Here are the types of information we gather from visitors to Net4India: 
-
-**Information You Give Us:** We receive and store any information you enter on our Web site or you provide to us in any other way, such as by telephone or by electronic mail. For example, we are required by the Internet Corporation for Assigned Names and Numbers ("ICANN"), the organization which assumes responsibility for domain name allocation, to collect information about you during the domain name registration process. This information includes your full name, mailing address, phone number, email address, and, where provided, your facsimile number. We also collect certain financial information from you during the domain name registration process. Namely, when you apply to register a domain name through Net4India and the payment option selected by you is via Credit card, we require you to provide a credit card number and billing address before we process that application. 
-
-**Automatic Information:** Net4India does not use "cookies." We do, however, receive and store certain types of information whenever you interact with us. For example, our servers track the type of Web browser you are using, and the page to which you link from Net4India. We collect this information to better develop a sense of what services our customers need and not to track your individual usage patterns. 
-
-Does Net4India Share the Information It Receives? 
 
 **WHOIS:** We are required by the Internet Corporation for Assigned Names and Numbers ("ICANN"), the organization that assumes responsibility for domain name allocation, to collect information about you during the domain name registration process. This information includes your full name, mailing address, phone number, email address, and, where provided, your facsimile number. ICANN then requires all registrars to make your full name, mailing address, phone number, email address, and, where provided, your facsimile number, as well as the creation and expiration dates of your domain name registration and the name server information associated with your domain name, to the public via an interactive web page and a "port 43" WHOIS service. For the purposes of this Privacy Notice we will refer to this information as your "WHOIS Information". 
 
@@ -34,32 +18,4 @@ Except as set out in this Privacy Notice, you will receive notice when personal 
 
 **Advertisers:** We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. Partners: We partner with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. 
 
-**Compliance:** We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Services Agreement and other agreements; or protect the rights, property, or safety of Net4India, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
-
-Electronic Mail 
-
-From time to time, Net4India may use your personal information to contact you by electronic mail concerning your use of our services. These communications are intended to inform you of important information regarding your account, or about general services provided by Net4India. If you do not want to receive email from us regarding service updates, please click the "unsubscribe link" at the bottom of any email you receive from Net4India. We will, however, continue to send you email regarding your account administration and necessary information, such as renewal information. 
-
-How Secure Is Information About Me? 
-
-We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL), which encrypts information you input. We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. You can further help to ensure your security by taking a few simple precautions. For instance, it is important for you to protect against unauthorized access to your Net4India username and password and to your computer. Be sure to sign off when finished using a shared computer. 
-
-What Information Can I Access? 
-
-Net4India gives you access to certain information about you for the limited purpose of viewing and, in certain cases, updating that information. 
-
-Sites Other Than Net4India 
-
-Although Net4India is committed to protecting your privacy, not all other Web sites are as conscientious. Therefore, Net4India cannot be responsible for the content or privacy policies of other Web sites including those of advertisers to which it may link and those which link to Net4India. This Privacy Notice applies only to the information collected by this Web site. We ask that you review the privacy policies of every online service you use before submitting personal information. 
-
-Children 
-
-Net4India does not sell services for purchase by children. If you are under 18, you may use Net4India only with the active and explicit involvement of a parent or guardian. Any transaction carried out by a minor shall stand null and void. Net4India shall be at liberty to take any such other further action(s) in order to enforce its rights, as it deems fit. 
-
-Conditions of Use, Notices, and Revisions 
-
-If you choose to visit Net4India, your visit and any dispute over privacy is subject to this Notice and our Services Agreement, including limitations on damages, and application of the law of the Union of India and exclusive jurisdiction of Courts in NCT of Delhi. If you have any concern about privacy at Net4India, please click here to contact Customer Support and we will try to resolve it. We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Other companies' use of their cookies is subject to their own privacy policies, not this one. If you would like more information about this practice and to know your choices about not having this information used by these companies, please contact our Customer Support. 
-
-Changes to this Privacy Policy 
-
-Net4India may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Net4India account or by placing a prominent notice on our site. We will post such revised statement on our Web site at least thirty (30) calendar days before it becomes effective. 
+**Compliance:** We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Services Agreement and other agreements; or protect the rights, property, or safety of Net4India, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
