@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vecree.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030195724id_/http%3A//vecree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vecree.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603022207id_/http%3A//vecree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vecree.com
 
