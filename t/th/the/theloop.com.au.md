@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theloop.com.au privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129094940id_/https%3A//www.theloop.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theloop.com.au privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603202932id_/https%3A//www.theloop.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Online Creative Portfolios and Creative Jobs - The Loop
 
@@ -19,7 +19,7 @@ When you use The Loop we will collect various information about you or relating 
 
 **Becoming a user of The Loop**
 
-Before you can access and use all of The Loop’s features and services, you must register to become a user of The Loop (by agreeing to The Loop’s [Terms & Conditions](http://www.theloop.com.au/terms "The Loop Terms & Conditions")).
+Before you can access and use all of The Loop’s features and services, you must register to become a user of The Loop (by agreeing to The Loop’s [Terms & Conditions](https://www.theloop.com.au/terms "The Loop Terms & Conditions")).
 
 To register, we ask that you provide us with certain personal information, which will generally include your name, address, phone number, email address, date of birth, academic record, profile picture and personal website (each to allow The Loop to customise your experience), a username and a password created by you. You may also elect to upload materials to your profile that include personal information.
 
