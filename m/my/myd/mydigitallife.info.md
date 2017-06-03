@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydigitallife.info privacy policy that was archived on 2016-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160902010208id_/http%3A//www.mydigitallife.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydigitallife.info privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603093219id_/https%3A//www.mydigitallife.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « My Digital Life
 
