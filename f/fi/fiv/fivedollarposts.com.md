@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fivedollarposts.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201041453id_/http%3A//www.fivedollarposts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivedollarposts.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604015607id_/http%3A//www.fivedollarposts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Five Dollar Posts
+# Privacy Policy – Five Dollar Posts
 
 The following describes the Privacy Policy for our website.
 
