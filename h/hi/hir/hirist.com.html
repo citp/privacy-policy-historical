@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hirist.com privacy policy that was archived on 2016-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161210191058id_/http%3A//www.hirist.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hirist.com privacy policy that was archived on 2017-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170603135533id_/http%3A//www.hirist.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=edge,chrome=1">
@@ -30,18 +30,18 @@
 <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" type="text/css" rel="Stylesheet" />
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-theme.min.css" type="text/css" rel="Stylesheet" />
 -->
-            <link href="http://www.hirist.com/resources/css/stylesheet.min.css?ver=1481185591" type="text/css" rel="Stylesheet">
+            <link href="http://www.hirist.com/resources/css/stylesheet.min.css?ver=1496406905" type="text/css" rel="Stylesheet">
                 <link href="http://netdna.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.css" rel="stylesheet">
         <link href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" type="text/css">
         <!--<link href='http://fonts.googleapis.com/css?family=Noto+Sans:400,700' rel='stylesheet' type='text/css' />
         <link href='http://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet' type='text/css' /> -->
 
         <!--[if IE 7]>
-             <link rel="stylesheet" href="http://www.hirist.com/resources/css/ie7.css?ver=1481185591" />
+             <link rel="stylesheet" href="http://www.hirist.com/resources/css/ie7.css?ver=1496406905" />
         <![endif]-->
 
         <!--[if gt IE 7]>
-             <script src="http://www.hirist.com/resources/js/modernizr-2.6.2-respond-1.1.0.min.js?ver=1478509676"></script>
+             <script src="http://www.hirist.com/resources/js/modernizr-2.6.2-respond-1.1.0.min.js?ver=1496314948"></script>
         <![endif]-->
 
         <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>window.jQuery || document.write('<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"><\/script>')</script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
@@ -49,16 +49,16 @@
         <script type="text/javascript">
             //<![CDATA[
             var host = "hirist";
-            window.onerror = function (errmessage, errweburl, errlineno) {
-                var errimg = new Image();
-                errimg.src = 'http://www.hirist.com/jserror.php?errweburl=' + escape(errweburl) + '&errmessage=' + escape(errmessage) + '&errlineno=' + errlineno;
-            }
+//            window.onerror = function (errmessage, errweburl, errlineno) {
+//                var errimg = new Image();
+//                errimg.src = '/jserror.php?errweburl=' + escape(errweburl) + '&errmessage=' + escape(errmessage) + '&errlineno=' + errlineno;
+//            }
             if (!window.fullpath)
                 window.fullpath = "http://www.hirist.com";
             if (!window.realdomain)
                 window.realdomain = window.location.hostname;
             window.ajaxurl = "http://www.hirist.com/includes/getajaxresponse.php";
-            window.apiurl = "http://www.hirist.com/api5";
+            window.apiurl = "http://www.hirist.com/api7";
             window.loadingimage = "<img src= 'http://www.hirist.com/resources/images/loading_ani.gif' alt='loading..' />";
             //]]>
         </script>       
@@ -81,17 +81,17 @@
 <style type="text/css">
 	#menubar.open .logoutmenu{display:block !important;}
 </style>
- <!-- mobile Version -->
+<!-- mobile Version -->
 <div id="sidebar-wrapper" class="col-md-12 navbar-default navbar-fixed-top pd0 visible-xs">
         <div class="visible-xs col-xs-12 clearfix pdlr0">
-       		<div class="text-right navbar-header">
+       		<div class="text-right navbar-header hidden-xs">
 	               <a href="/" class="navbar-brand" style="padding-left:0;">
 	                       <h3>hirist</h3>
 	                       <h5>.com</h5>
 	               </a>
 	       </div>
                 <form name="searchformheadermobile" id="searchformheadermobile" method="get" action="http://www.hirist.com/search/">
-                        <div class="searchbox mb15">
+                        <div class="searchbox mb15 hidden-xs">
                         <input type="text" class="sidebarsearch" maxlength="40" id="qh" name="q" value="search for jobs..." autocomplete="off">
                         <a href="javascript:void(0);" class="searchimage"><img src="http://www.hirist.com/resources/img/search.png"></a>
                         </div>
@@ -335,7 +335,7 @@
 
 <div id="sidebar-wrapper" class="hidden-xs col-md-12 horizontal-menu">
         <div class="sidebar-brand pull-left text-right col-md-1 pd0">
-	        <a href="/" class="sitename">
+	        <a href="http://www.hirist.com/jobfeed" class="sitename">
 	        	<h3>hirist</h3>
 	        	<span>.com</span>
 	        </a>
@@ -448,12 +448,15 @@
 <script>
     $('#verifyemaillinkid').click(function() {
             window.open('http://www.hirist.com/verification', '_blank');
-       });
-       $('#verifyemailmob').click(function() {
-            window.open('http://www.hirist.com/verification', '_blank');
-       });
-</script>
-            <div id="page-content-wrapper" style="" class="top-header">
+    });
+    $('#verifyemailmob').click(function() {
+         window.open('http://www.hirist.com/verification', '_blank');
+    });
+    $("body").on('click',".panelgrpchanges .panelchanges",function() {
+        jQuery(this).toggleClass("expanded");
+        jQuery(this).siblings().removeClass("expanded");
+    }); 
+</script>            <div id="page-content-wrapper" style="" class="top-header">
             <div id="body_overlay" style="display:none;"></div>
                 <div class="clearfix"></div>
                 
@@ -817,9 +820,9 @@
 
 
 
-<script src="http://www.hirist.com/resources/js/javascript.min.js?ver=1478509676"></script>
-   <!--[if lt IE 9]>
-  <script language="javascript" src="http://www.hirist.com/resources/js/html5shiv.js?ver=1478509676" ></script>
+            <script src="http://www.hirist.com/resources/js/javascript.min.js?ver=1496314948"></script>
+    <!--[if lt IE 9]>
+  <script language="javascript" src="http://www.hirist.com/resources/js/html5shiv.js?ver=1496314948" ></script>
 <![endif]-->
 
 
@@ -895,7 +898,7 @@
 
 
     $(".amex_sponsorlogo_listpage").live('click', function () {
-        _gaq.push(['_trackEvent', 'amex_sponsorlogo_listpage', 'click', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'amex_sponsorlogo_listpage', 'click', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
 
@@ -905,138 +908,138 @@
 
 
     $(".adhulflexicareers").live('click', function () {
-        _gaq.push(['_trackEvent', 'hulflexicareers', 'hulflexicareers_clicks', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'hulflexicareers', 'hulflexicareers_clicks', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     /*
-     // _gaq.push(['_trackEvent', 'niitimperia', 'niitimperia_views', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+     // _gaq.push(['_trackEvent', 'niitimperia', 'niitimperia_views', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
      */
 
     $("#app-alert-close").live('click', function () {
-        _gaq.push(['_trackEvent', 'MobileApp_Notify', 'MobileApp_Notify_close', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'MobileApp_Notify', 'MobileApp_Notify_close', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".appnotifyreadmore").live('click', function () {
-        _gaq.push(['_trackEvent', 'MobileApp_Notify', 'MobileApp_Notify_readmore', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'MobileApp_Notify', 'MobileApp_Notify_readmore', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".Buynow_Premium_Popup_Banner").live('click', function () {
-        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'Buynow_Premium_Popup_Banner', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'Buynow_Premium_Popup_Banner', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".blogrightbutton").live('click', function () {
-        _gaq.push(['_trackEvent', 'Blog_Right_Button_Link', 'Blog_Right_Button_Link', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'Blog_Right_Button_Link', 'Blog_Right_Button_Link', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".emp_profile_visit").live('click', function () {
-        _gaq.push(['_trackEvent', 'Employers_Profile_Visit', 'Employers_Profile_Clicks', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'Employers_Profile_Visit', 'Employers_Profile_Clicks', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".cover_skip").live('click', function () {
-        _gaq.push(['_trackEvent', 'cover_letter', 'cover_letter_skipped', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'cover_letter', 'cover_letter_skipped', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".coverletterShow").live('click', function () {
-        _gaq.push(['_trackEvent', 'cover_letter', 'cover_letter_recruiter_views', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'cover_letter', 'cover_letter_recruiter_views', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".adniitimperia").live('click', function () {
-        _gaq.push(['_trackEvent', 'niitimperia', 'niitimperia_clicks', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'niitimperia', 'niitimperia_clicks', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".adupgradebanner").live('click', function () {
-        _gaq.push(['_trackEvent', 'Premium_Popup', 'popup_upgrade_from_banner_ad', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'Premium_Popup', 'popup_upgrade_from_banner_ad', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".Buynow_Premium_Popup_Ad").live('click', function () {
-        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'Buynow_Premium_Popup_Ad', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'Buynow_Premium_Popup_Ad', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".buynow_upgrade_from_menu").live('click', function () {
-        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'buynow_upgrade_from_menu', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'buynow_upgrade_from_menu', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".buynow_status_applied").live('click', function () {
-        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'buynow_status_applied', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'buynow_status_applied', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
     $(".buynow_insights_applied_jobs").live('click', function () {
-        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'buynow_insights_applied_jobs', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'buynow_insights_applied_jobs', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".buynow_insights_status").live('click', function () {
-        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'buynow_insights_status', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'buynow_insights_status', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".buynow_show_company_jobs").live('click', function () {
-        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'buynow_show_company_jobs', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'Buynow_Premium_Account', 'buynow_show_company_jobs', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".Renew_Popup_top_notification").live('click', function () {
-        _gaq.push(['_trackEvent', 'Pro_Account_Renewal', 'Renew_Popup_top_notification', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'Pro_Account_Renewal', 'Renew_Popup_top_notification', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".Pro_Dropdown_popup").live('click', function () {
-        _gaq.push(['_trackEvent', 'Pro_Account_Renewal', 'Pro_Dropdown_popup', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'Pro_Account_Renewal', 'Pro_Dropdown_popup', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".probuynow").live('click', function () {
-        _gaq.push(['_trackEvent', 'insightpopup', 'probuynow', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'insightpopup', 'probuynow', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".procompjobs").live('click', function () {
-        _gaq.push(['_trackEvent', 'insightpopup', 'procompjobs', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'insightpopup', 'procompjobs', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".prostatusview").live('click', function () {
-        _gaq.push(['_trackEvent', 'insightpopup', 'prostatusview', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'insightpopup', 'prostatusview', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".trackpromempopdet").live('click', function () {
-        _gaq.push(['_trackEvent', 'insightpopup', 'insightpopupdet', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'insightpopup', 'insightpopupdet', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".trackpromempop").live('click', function () {
-        _gaq.push(['_trackEvent', 'insightpopup', 'insightpopup', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'insightpopup', 'insightpopup', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".adeconomisthometop").live('click', function () {
-        _gaq.push(['_trackEvent', 'adeconomist', 'hometop', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'adeconomist', 'hometop', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".adiimblog").live('click', function () {
-        _gaq.push(['_trackEvent', 'adiimblog', 'freemium', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'adiimblog', 'freemium', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".donateblood").live('click', function () {
-        _gaq.push(['_trackEvent', 'donateblood', 'donateblood', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'donateblood', 'donateblood', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".adeconomistrightfloat").live('click', function () {
-        _gaq.push(['_trackEvent', 'adeconomist', 'rightfloat', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'adeconomist', 'rightfloat', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".adrado").live('click', function () {
-        _gaq.push(['_trackEvent', 'adrado', 'adrado', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'adrado', 'adrado', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $(".iimadmob").live('click', function () {
-        _gaq.push(['_trackEvent', 'iimadmob', 'iimadmob', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'iimadmob', 'iimadmob', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $("#premiumapply").live('click', function () {
-        _gaq.push(['_trackEvent', 'premiumapply', 'premiumapply', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'premiumapply', 'premiumapply', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $("#buy_nowbutton").live('click', function () {
-        _gaq.push(['_trackEvent', 'premiumbuynowclick', 'premiumbuynowclick', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'premiumbuynowclick', 'premiumbuynowclick', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $("#appicon_iphone").live('click', function () {
-        _gaq.push(['_trackEvent', 'appicon_iphone_click', 'appicon_iphone_click', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'appicon_iphone_click', 'appicon_iphone_click', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
     $("#appicon_android").live('click', function () {
-        _gaq.push(['_trackEvent', 'appicon_android_click', 'appicon_android_click', 'r0egmmvi4gljvn3votiom885i7_-_52.86.176.3']);
+        _gaq.push(['_trackEvent', 'appicon_android_click', 'appicon_android_click', 'oc4iurofa8t8f5kestchj7nag6_-_54.165.59.7']);
     });
 
 //]]>
