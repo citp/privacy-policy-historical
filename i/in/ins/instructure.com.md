@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instructure.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107223220id_/https%3A//www.instructure.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instructure.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603044644id_/https%3A//www.instructure.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy
 
