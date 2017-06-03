@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennyauctionwatch.com privacy policy that was archived on 2016-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160913044725id_/http%3A//www.pennyauctionwatch.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennyauctionwatch.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603102837id_/http%3A//www.pennyauctionwatch.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms - Penny Auction Watch®
 
