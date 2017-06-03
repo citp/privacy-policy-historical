@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faithpot.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201004256id_/http%3A//www.faithpot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithpot.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603205740id_/http%3A//www.faithpot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FaithPot
 
