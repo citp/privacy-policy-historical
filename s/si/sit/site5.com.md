@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the site5.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202091240id_/https%3A//www.site5.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site5.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603093242id_/https%3A//site5.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Site5 - Privacy Policy
 
@@ -14,7 +14,7 @@ This Privacy Policy describes what personal information of our customers (“Cus
 
 Site5 provides a variety of web presence solutions and related services (the “Services”). Site5 is a part of The Endurance International Group, Inc. (“Endurance”). [Learn more about the Endurance corporate family.](http://endurance.com/)
 
-The Services offered by Site5 are hosted on servers located in the United States (U.S.) unless otherwise provided. By using the Services, you freely and specifically give Site5 your consent to export your information and data to the U.S.
+The information that Site5 collects in connection with the Services is hosted on servers located in the United States (U.S.) unless otherwise provided, and may be processed or accessed outside of the European Economic Area countries by us or our service providers. By using the Services, you freely and expressly give Site5 your consent to export your information and data outside of the European Economic Area.
 
 ## Information We Collect
 
@@ -45,7 +45,7 @@ We may share personal information with the entities and brands within the Endura
   * **Non-Personally Identifying Information.** Site5 may release non-personally-identifying information in the aggregate. e.g., by publishing a report on trends in the usage of its website.
   * **Personally Identifying Information.** Site5 discloses personally identifying information only to those of its employees, contractors and affiliated organizations that: (i) need to know such information in order to process it to provide the Services, and (ii) have agreed to keep such information confidential. Site5 will not rent or sell personally identifying information to anyone.
   * **Aggregated Statistics.** Site5 may display this information publicly or provide it to others. However, Site5 does not disclose personally identifying information other than as described herein.
-  * **Law Enforcement and Special Cases.** Site5 or our service providers, may disclose personal information about Users, or information regarding your use of the Services in response to governmental or legal requests (such as to a subpoena, search warrant, or court order), or as otherwise required to comply with applicable laws. We may also disclose information that is necessary to identify, contact, or bring legal action against a party that threatens us, our systems or our Users (for example, to prevent a Distributed Denial of Service, or DDoS, attack).
+  * **Legal Reasons**. We may access, preserve and share information about Users with companies, organizations, governmental entities or individuals outside of Site5 if we believe, in good faith, that the law requires us to do so. This may include, but is not limited to, responding to subpoenas, court orders or other legal processes (such as law enforcement requests). We may also access, preserve and share information about Users as necessary to: (i) establish or exercise Site5’s legal rights or defend against any legal claim including threatened claims involving Site5 based on the anonymity of a domain name; (ii) investigate, prevent, or take action regarding suspected fraud or other illegal activities; (iii) prevent death or serious physical harm to any person; or (iv) investigate violations of Site5's Terms of Service.
   * **Sale of Business.** If Site5 is involved in a merger, acquisition, or sale of all or a material portion of its assets that results in a change in corporate control, or insolvency or bankruptcy proceedings, you will be notified via email and/or a prominent notice on our website of any such change in ownership or use of your personal information as well as any choices you may have regarding your personal information.
   * **Domain Registration.** In certain jurisdictions or pursuant to the rules of the Internet Corporation for Assigned Names and Numbers ("ICANN") or certain registries, the contact information you provide to register a domain name ("Domain Name Registration Information") has to be made available and accessible to the public through a "WHOIS" search. The WHOIS database is a publicly accessible database that lists the Domain Name Registration Information for a particular domain name, the name server(s) to which the domain name points, and the domain name's creation and expiration date. The Domain Name Registration Information you provide is hosted by us or a third party service provider and is made available to the public through WHOIS searches. At times, Customers may receive solicitations that result from searches of the publicly available WHOIS database by other companies or individuals. Any such solicitations or SPAM do not come from us and we do not control the use of WHOIS information by third parties. We may also deposit your Domain Name Registration Information with a third-party escrow provider to comply with ICANN requirements.
 
@@ -68,4 +68,4 @@ We reserve the right to revise, amend, or modify this Privacy Policy at any time
 
 If you have any questions about this Privacy Policy or the practices described herein, you may contact: Legal Department, Site5, 2500 Ridgepoint Drive, Austin, TX 78754.
 
-_Last Modified on: July 27, 2016_
+_Last Modified on: June 1, 2017_
