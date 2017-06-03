@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pagecloud.com privacy policy that was archived on 2016-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160810151836id_/https%3A//www.pagecloud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagecloud.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603180626id_/http%3A//www.pagecloud.com/privacy-policy) for the most accurate reproduction.*
 
 # PageCloud - Privacy Policy
-
-PageCloud’s Privacy Policy
 
 In General Terms
 
@@ -78,3 +76,5 @@ Further Information
 PageCloud has appointed our General Counsel in our Ottawa office as Chief Privacy Officer to oversee compliance with this Privacy Policy and applicable privacy laws. For information on PageCloud’s privacy practices, please contact the PageCloud Chief Privacy Officer at: 
 
 Email: generalcounsel@pagecloud.com
+
+Crafted lovingly with PageCloud.
