@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the business-opportunities.biz privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123161713id_/http%3A//www.business-opportunities.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business-opportunities.biz privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603063922id_/http%3A//www.business-opportunities.biz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Business Opportunities
-
-## Privacy Policy
-
-Effective on June 15, 2016
+# Privacy Policy
 
 This privacy policy describes how Business-Opportunities.biz owned and operated by Dig Deep Investments, LLC collects and uses the personal information you provide on our Web site: Business-Opportunities.biz. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
