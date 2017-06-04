@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livingkool.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612065930id_/https%3A//www.livingkool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingkool.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604102937id_/https%3A//www.livingkool.com/privacy-policy) for the most accurate reproduction.*
 
-# Living kool | Privacy Policy
+# Living kool - Privacy Policy
 
 “All credit/debit cards details and personally identifiable information will NOT be stored, sold, shared, rented or leased to any third parties”. Your personal information is stored by LIVING KOOL for the purpose of sending email about the daily deals that LIVING KOOL brings to its subscribers, and also to confirm/verify the process of payments for the vouchers purchased by the subscriber/user at LIVING KOOL. Your personal information is safe with LIVING KOOL, and we will not disclose, rent, share or sell any subscriber/user information with any Third Party that is not affiliated or partners/merchants of LIVING KOOL. Your personal information will also be used to better understand the requirement of LIVING KOOL & its’ subscribers/users in order to bring you the best deals in town. 
 
