@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the speedmaxpc.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427115219id_/http%3A//speedmaxpc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedmaxpc.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604134103id_/http%3A//speedmaxpc.com/privacy-policy) for the most accurate reproduction.*
 
-# SpeedMaxPc Privacy Policy » SpeedMaxPc
+# SpeedMaxPc Privacy Policy » Speedmaxpc
 
 ##  SpeedMaxPc Privacy Policy 
 
-SpeedMaxPc is committed to protecting the privacy &  personal information you may provide to us when using any of our online services or products. This Privacy Policy describes how we treat information we receive when you transmit data to our websites.
+SpeedMaxPc is committed to protecting the privacy & personal information you may provide to us when using any of our online services or products. This Privacy Policy describes how we treat information we receive when you transmit data to our websites.
 
 **Information Collection**  
 When you purchase, download trials or use evaluation versions, of our software, we may collect personal information including your name, address, email address, etc. for the purpose of recording the transaction when you engage in activities on our web site or within our recommended software. When we use a payment processing merchant we ensure that the same strict privacy criteria are in place. We do not (knowingly) collect personal information from persons under the age of eighteen. We also give users the option of receiving useful product information (such as updates, pest alerts and associated product offerings), via opt-in permission based email. We fully ensure your privacy and value your trust. We will never sell, rent, lease, or give your information to a third party unless required to do so by law. By choosing to enter and submit the requested information when prompted, you are consenting to SpeedMaxPc collection, use, and disclosure of such information for the purposes as outlined herein.
@@ -17,17 +17,11 @@ We may automatically collect IP addresses and Web site usage information when yo
 **How Information Is Used When Collected**  
 We may use information collected in the following ways:
 
-**To process,** validate and verify purchases.
-
-**To contact** you to reconfirm or verify accuracy of information provided.
-
-**To register** you as a customer.To open and maintain a support account for you.
-
-**To send email** notifications about new, existing, enhanced products or services.
-
+**To process,** validate and verify purchases.  
+**To contact** you to reconfirm or verify accuracy of information provided.  
+**To register** you as a customer.To open and maintain a support account for you.  
+**To send email** notifications about new, existing, enhanced products or services.  
 **To send** information on special offers, or to obtain your feedback to help enhance existing features or provide added products and services.
-
-To assist with the completion of your purchase. By registering you agree to receive information related to the price of this product via electronic communication.
 
 **To enable** us to personalize content, advertising and promotions based on preferences, needs, suggestions, or recommendations.
 
@@ -51,4 +45,4 @@ We may change this Privacy Policy at any time without notice to you in order to 
 By using the SpeedMaxPc.com services, and web site, or purchasing SpeedMaxPc products you are consenting to the practices relating to information collection and use that are described in this Privacy Policy.
 
 **Opting Out of Our Website, Services & Products**  
-You may opt out of SpeedMaxPc website and or products at anytime, click here to learn more about uninstalling our software >>> [How to Uninstall SpeedMaxPc Video](http://speedmaxpc.com/videos/uninstall-speedmaxpc/)
+You may opt out of SpeedMaxPc website and or products at anytime, click here to learn more about uninstalling our software >>> [How to Uninstall SpeedMaxPc Video](http://speedmaxpc.com/videos/uninstall-speedmaxpc/ "How to Uninstall SpeedMaxPc Software")
