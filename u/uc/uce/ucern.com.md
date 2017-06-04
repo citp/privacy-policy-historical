@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ucern.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230011948id_/http%3A//www.cerner.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucern.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604034457id_/http%3A//www.cerner.com/Privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Cerner
 
 Cerner has self-certified to the [EU-U.S. Privacy Shield](https://web.archive.org/globalprivacy) and the [U.S.-Swiss Safe Harbor Framework](https://web.archive.org/globalprivacy#us-swiss-safe-harbor-framework).
 
-This site uses cookies to ensure you get the best experience on our website. By continuing to use this site, you consent to the use of cookies. [More information](https://web.archive.org/#).
+This site uses cookies to ensure you get the best experience on our website. By continuing to use this site, you consent to the use of cookies. [More information](https://web.archive.org/cookie-policy).
 
 ## Overview
 
