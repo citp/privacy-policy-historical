@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thonky.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024071911id_/http%3A//www.thonky.com/globalpriv.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thonky.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604173237id_/http%3A//thonky.com/globalpriv.php) for the most accurate reproduction.*
 
 # None
 
