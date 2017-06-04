@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the careerwebsite.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112100205id_/http%3A//www.yourmembership.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerwebsite.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605002419id_/http%3A//www.yourmembership.com/legal) for the most accurate reproduction.*
 
-# Legal / DMCA / Privacy Policy - YourMembership
+# Legal | YourMembership
 
 ## Trademarks
 
@@ -41,7 +41,7 @@ Please be aware that there are substantial penalties for false claims. If a noti
 
 
 
-This information should not be construed as legal advice. YourMembership.com advises that you seek independent legal counsel before filing a notification or counter-notification. For further information about the DMCA, please visit the Website of the U.S. Copyright Office at:[ http://www.copyright.gov/onlinesp.](http://www.copyright.gov/onlinesp/)
+This information should not be construed as legal advice. YourMembership.com advises that you seek independent legal counsel before filing a notification or counter-notification. For further information about the DMCA, please visit the Website of the U.S. Copyright Office at: http://www.copyright.gov/onlinesp.
 
 ### YourMembership.com Privacy Policy
 
@@ -51,13 +51,13 @@ YourMembership.com, Inc. is not responsible for the content or privacy practices
 
 Please note that the practices of YourMembership.com, Inc., its affiliates, and agents (“YM”), with respect to data collected and used by YM in connection with this website and all other YM affiliated websites, and its affiliates with links to this policy (collectively, the “Site”) and YM services available or enabled via the Site (“Services”), are governed by this online privacy policy (“Privacy Policy”) as amended from time to time, and not the privacy policy in effect at the time the data was collected. Please regularly review our Privacy Policy. If you have objections to the Privacy Policy, you should immediately discontinue use of the Site and the Services enabled by the Site. This Privacy Policy does not govern privacy practices associated with offline activities, websites other than the Site, or any products or services not available or enabled via the Site.
 
-### EU-U.S. Privacy Shield Framework
+EU-U.S. Privacy Shield Framework
 
-YourMembership complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union member countries to the United States. YourMembership has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/welcome)
+YourMembership complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union member countries to the United States. YourMembership has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/)
 
 As participants in the Privacy Shield Framework, we are subject to the investigatory and enforcement powers of the United States Federal Trade Commission (FTC), In compliance with the Privacy Shield Principles, YourMembership commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Private Shield policy should first contact YourMembership.com at:
 
-[privacy-complaints@yourmembership.com](https://web.archive.org/web/20161112100205id_/http://www.yourmembership.com/legal/privacy-complaints@yourmembership.com)  
+[privacy-complaints@yourmembership.com](mailto:privacy-complaints@yourmembership.com)  
 YourMembership.com, Inc.  
 Attn: Privacy Officer  
 9620 Executive Center Dr. N #200  
@@ -92,7 +92,7 @@ You have the right to access and correct your personal information and privacy p
 
 By using this site you also acknowledge that in certain countries or with respect to certain activities, the collection, transfer, storage, and processing of your information may be undertaken by trusted third parties. Such third parties are bound by contract with YM not to use your personal information for their own purposes or provide it to any third parties. YM shares personal information with third parties who act as our agents to help us fulfill our service. These third parties constitute credit card processors and email providers for marketing and bulk mailings. Individuals who receive marketing materials from us and wish to opt-out may do so by following the instructions on the emails.
 
-We do not rent or share personal data with third parties who are not acting as our agents. If in the future, this policy changes, we will notify individuals within our privacy policy and provide an opt-out choice prior to the sharing of any data. 
+We do not rent or share personal data with third parties who are not acting as our agents. If in the future, this policy changes, we will notify individuals within our privacy policy and provide an opt-out choice prior to the sharing of any data.
 
 YM may be responsible for the authorized transfer of personal data to third parties. Please note that we may also be required to disclose personal information in response to lawful requests by public authorities including to accommodate national security and law enforcement requirements.
 
@@ -102,13 +102,13 @@ Unless expressly provided to the contrary, personal information that you provide
 
 ### Privacy complaints
 
-YM takes its users’ privacy concerns seriously. If you believe that YM has not complied with this Privacy Policy with respect to your personal information, you may [write to the YM Privacy Officer](https://web.archive.org/contact/) at the following address or fill out a privacy complaint form including: 
+YM takes its users’ privacy concerns seriously. If you believe that YM has not complied with this Privacy Policy with respect to your personal information, you may [write to the YM Privacy Officer ](https://main.wp.ymem.net/contact-us/)at the following address or fill out a privacy complaint form including:
 
 YourMembership.com, Inc.  
 Attn: Privacy Officer  
 9620 Executive Center Dr. N #200  
 St. Petersburg, FL 33702  
-USA 
+USA
 
 In your letter, please describe in as much detail as possible the ways in which you believe that the Privacy Policy has not been complied with. We will investigate your complaint promptly.
 
