@@ -1,47 +1,145 @@
-> *The following text is extracted and transformed from the sportbible.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208140236id_/http%3A//www.sportbible.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportbible.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604054634id_/http%3A//www.ladbiblegroup.com/privacy-cookies) for the most accurate reproduction.*
 
-# SportBible.com > Home
+# Privacy - LADbible Group
 
-SportBible.com is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the SportBible.com Web site and governs data collection and usage. By using the SportBible.com website, you consent to the data practices described in this statement.
+**PRIVACY POLICY**
 
-Collection of your Personal Information
+The websites, located at <http://www.ladbible.com/> <http://www.sportbible.com/> or [http://www.pretty52.com/](https://www.pretty52.com/) (together “our sites”), ire operated by The LADbible Group Limited trading as ‘LADbible Group’ (“LBG”, “our”, “us” or “we”), a company incorporated in England (registered number 08018627) and whose registered office is at 20 Dale Street, Manchester, M1 1EZ (we, us, our). We are a private limited company.
 
-SportBible.com collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. SportBible.com also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+During your use of our sites we will collect personal information about you. This Privacy Policy sets out the information practices used by us, including the type of personal information we gather, how the information is used, and with whom the information is shared.
 
-There is also information about your computer hardware and software that is automatically collected by SportBible.com. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by SportBible.com for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the SportBible.com Web site.
+**This Privacy Policy and our Cookies Policy forms a part of our Terms of Use.**
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through SportBible.com public message boards, this information may be collected and used by others. Note: SportBible.com does not read any of your private online communications.
+Please read this Privacy Policy, our Cookies Policy and our Terms of Use carefully before you use our sites or send us any information. These documents constitute a legally binding agreement and contain important information about your legal rights and obligations.
 
-SportBible.com encourages you to review the privacy statements of Web sites you choose to link to from SportBible.com so that you can understand how those Web sites collect, use and share your information. SportBible.com is not responsible for the privacy statements or other content on Web sites outside of the SportBible.com and SportBible.com family of Web sites.
+By using our sites and submitting information to our sites you accept this Privacy Policy, our Cookies Policy and our Terms of Use and agree to abide by them. If you do not agree to this Privacy Policy, our Cookies Policy and our Terms of Use, please do not use our sites or submit information to us via our sites.
 
-Use of your Personal Information
+**Your Personal Information**
 
-SportBible.com collects and uses your personal information to operate the SportBible.com Web site and deliver the services you have requested. SportBible.com also uses your personally identifiable information to inform you of other products or services available from SportBible.com and its affiliates. SportBible.com may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+1.1 We are committed to protecting and respecting your privacy. Personal information collected during your visits to our sites is processed by us in accordance with applicable data privacy and data protection legislation.
 
-SportBible.com does not sell, rent or lease its customer lists to third parties. SportBible.com may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, SportBible.com may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to SportBible.com, and they are required to maintain the confidentiality of your information.
+1.2 For the purpose of the Data Protection Act 1998 (Act), the data controller is The LADbible Group Limited of 20 Dale Street, Manchester, M1 1EZ.
 
-SportBible.com does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+1.3 We collect certain information about you when you visit our sites, register to use our sites and otherwise. We may collect and process the following information about you:
 
-SportBible.com keeps track of the Web sites and pages our customers visit within SportBible.com, in order to determine what SportBible.com services are the most popular. This data is used to deliver customized content and advertising within SportBible.com to customers whose behavior indicates that they are interested in a particular subject area.
+1.3.1 Information that you provide by filling in forms on our sites. This includes information provided at the time of registering to use our sites (if applicable), subscribing to any service provided by us, posting material on our sites or requesting further services. We may also ask you for information when you enter any competition or promotion set up or sponsored by us and when you report a problem with our sites;
 
-SportBible.com Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on SportBible.com or the site; (b) protect and defend the rights or property of SportBible.com; and, (c) act under exigent circumstances to protect the personal safety of users of SportBible.com, or the public.
+1.3.2 If you contact us, we may keep a record of any correspondence;
 
-Use of Cookies
+1.3.3 We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them;
 
-The SportBible.com Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+1.3.4 Details of your visits to our sites including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize SportBible.com pages, or register with SportBible.com site or services, a cookie helps SportBible.com to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same SportBible.com Web site, the information you previously provided can be retrieved, so you can easily use the SportBible.com features that you customized.
+1.4 When you use our sites we will track your use of our sites by using cookies. By submitting your information to us (including, but not limited to, all personal information and User Content (as defined in the Terms of Use)), you are agreeing to the processing of your information by us in accordance with this Privacy Policy and our Cookies Policy.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the SportBible.com services or Web sites you visit.
+**IP addresses**
 
-Security of your Personal Information
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
 
-SportBible.com secures your personal information from unauthorized access, use or disclosure. SportBible.com secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+**Where we store your personal information**
 
-Changes to this Statement
+3.1 The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (EEA). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting your personal information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your information is treated securely and in accordance with this Privacy Policy.
 
-SportBible.com will occasionally update this Statement of Privacy to reflect company and customer feedback. SportBible.com encourages you to periodically review this Statement to be informed of how SportBible.com is protecting your information.
+**SECURITY**
 
-Contact Information
+4.1 We will implement reasonable physical, administrative and technical safeguards to help protect your personal information from unauthorised access, use and disclosure, including requiring any third party to whom we disclose your personal information to implement similar safeguards.
 
-SportBible.com welcomes your comments regarding this Statement of Privacy. If you believe that SportBible.com has not adhered to this Statement, please contact SportBible.com at [info@sportbible.com](mailto:info@sportbible.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+4.2 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our sites and therefore any transmission is at your own risk.
+
+**Uses made of the information**
+
+5.1 We use information held about you:
+
+5.1.1 To ensure that content from our sites is presented in the most effective manner for you and for your computer;
+
+5.1.2 To provide you with information, products or services that you request or which we feel may interest you, from us or from third parties, where you have consented to be contacted for such purposes including contact by email, post and telephone;
+
+5.1.3 To carry out our obligations arising from any contracts entered into between you and us;
+
+5.1.4 To allow you to participate in interactive features on our sites, when you choose to do so;
+
+5.1.5 To notify you about changes to our sites or any services; and
+
+5.1.6 For other purposes clearly stated on our sites or by another method at the point at which you provide your information to us.
+
+5.2 We may use User Content (as defined in the Terms of Use) as set out in the Terms of Use.
+
+5.3 If you do not want us to use your information as described at condition 4.1.2 above, or to pass your details on to third parties for marketing purposes, please make the appropriate selection on the form on which we collect your information (the registration form) or notify us in accordance with condition 6.1 below.
+
+5.4 We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day).
+
+We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in the LS1 postcode). We may make use of the personal information we have collected from you to enable us to comply with our advertisers’ wishes by displaying their advertisement to that target audience.
+
+**Disclosure of your information**  
+6.1 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+
+6.2 You agree that we may share your personal information with third parties:
+
+6.2.1 If of The LADbible Group Limited or some of its assets are acquired by a third party, where personal information about our users and customers is one of the transferred assets;
+
+6.2.2 If we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our Terms of Use and any other agreements, or to protect the rights, property, or safety of The LADbible Group Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction;
+
+6.2.3 Where you have given your consent, so that such third parties may contact you directly in relation to goods or services which may be of interest to you; and
+
+6.2.4 In the event that we use third parties to process personal information on our behalf (for example, we may use a third party to provide website hosting services or to facilitate the provision of information to you or to provide services on our behalf).
+
+6.3 Where third parties process your personal information on our behalf, we will ensure that they have adequate security measures in place and are governed by our privacy policies in respect of the use of your personal information.
+
+**Your rights**  
+7.1 You have the right to ask us not to process your personal information for marketing purposes. We will usually inform you (before collecting your personal information) if we intend to use your personal information for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by making the relevant selection on the forms we use to collect your data. You can also exercise the right at any time by contacting us in writing at 20 Dale Street, Manchester, M1 1EZ or by emailing us at [contact@ladbible.com](mailto:contact@ladbible.com)
+
+7.2 Our sites may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites may have their own privacy policies and that we do not accept any responsibility or liability for any third party policies, including those of our affiliated companies and group companies. Please check any policies before you submit any personal information to any of these websites.
+
+**Access to information**  
+8.1 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10.00 to meet our costs in providing you with details of the information we hold about you. We will respond to any access request as soon as reasonably practicable following receipt of payments by cash or cheque made payable to by The LADbible Group Limited.
+
+**COOKIES POLICY**  
+This websites, located at <http://www.ladbible.com/> <http://www.sportbible.com/> or [http://www.pretty52.com/](https://www.pretty52.com/) (together “our sites”), are operated by The LADbible Group Limited, a company incorporated in England (registered number 08018627) and whose registered office is at 20 Dale Street, Manchester, M1 1EZ (we, us, our). We are a private limited company.
+
+This Cookies Policy sets out the cookie practices used by us, including the type of cookies we may use, the purposes for using the cookies and how you may refuse to accept or block the cookies.
+
+This Cookies Policy and our Privacy Policy forms a part of our Terms of Use.
+
+Please read this Cookies Policy, our Privacy Policy and our Terms of Use carefully before you use our sites or send us any information. These documents constitute a legally binding agreement and contain important information about your legal rights and obligations.
+
+By using our sites you accept this Cookies Policy, Privacy Policy and our Terms of Use and agree to abide by them. If you do not agree to this Cookies Policy, our Privacy Policy and our Terms of Use, please do not use our sites.
+
+**Cookies**
+
+**What is a cookie?**
+
+1.1. A cookie is a small text file that is downloaded onto your computer when you visit certain websites and allows a website to recognise a user’s computer or other device. Cookies are used to help users navigate websites more efficiently and to perform certain functions, as well as to provide information to the owners of the website.
+
+**What cookies do we use?**  
+1.2 We may from time to time use the following cookies:
+
+1.2.1 Strictly necessary cookies. These are cookies that are required for the operation of our sites. They include, for example, cookies that enable you to log into any secure areas of our sites.
+
+1.2.2 Analytical/performance cookies. They allow us to recognise and count the number of visitors and to see how visitors move around our sites when they are using it. These cookies may enable us to estimate our audience size and usage pattern and may also help us to improve the way our sites work, for example, by ensuring that users are finding what they are looking for easily.
+
+1.2.3 Functionality cookies. These are used to recognise you when you return to our sites. This may enable us to personalise our content for you and remember your preferences.
+
+1.2.4 Targeting cookies. These cookies record your visit to our sites, the pages you have visited and the links you have followed. We may use this information to make our sites and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+
+1.3 We may also use cookies for additional purposes, including but not limited to:
+
+1.3.1 identifying you when you sign-in to our sites (where applicable);
+
+1.3.2 delivering content, including advertisements, relevant to your interests;
+
+1.3.3 conducting research and diagnostics to improve our sites content and any services; and
+
+1.3.4 preventing fraudulent activities.
+
+1.4 Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue certain cookies as soon you visit our sites.
+
+1.5 Please note that our advertisers and those websites linking to our sites may also use cookies, over which we have no control or responsibility.
+
+**How do you restrict or delete cookies?**
+
+1.6 Some of the cookies we use are essential for parts of our sites to operate and have already been set. You may delete and block all cookies from our sites, but please be aware that restricting or deleting cookies may impact on the functionality of our sites and your ability to use our sites.
+
+1.7 Your web browser may allow you to restrict or delete cookies set by our sites. The Help function within your browser should tell you how. Alternatively, you can visit www.allaboutcookies.org which provides general information about cookies and how you can manage cookies on your computer.
+
+**Changes to our cookies policy**  
+We may revise and update this Cookies Policy at any time. Please periodically review the Cookies Policy, as your continued use of our sites indicates your agreement with any changes that we make.
