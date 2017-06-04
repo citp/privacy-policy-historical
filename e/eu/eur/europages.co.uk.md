@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europages.co.uk privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223074756id_/http%3A//corporate.europages.co.uk/terms-and-conditions/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europages.co.uk privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604180600id_/http%3A//corporate.europages.co.uk/terms-and-conditions/privacy) for the most accurate reproduction.*
 
 # EUROPAGES privacy policy | Europages
 
@@ -170,7 +170,7 @@ Such a company may, at any time, have access to the information given during the
 
   * either sending an e-mail to: [administration@europages.com](mailto:administration@europages.com "Send an email")
   * or sending a fax to: **_33 (1)_** 41 16 49 50 ; [33 (0) 141 164 95]
-  * or sending a letter to: EUROPAGES SA – Service Juridique – 127, Avenue Charles de Gaulle 92200 – Neuilly sur Seine – France
+  * or sending a letter to: EUROPAGES SA – Service Juridique – 159 rue Anatole France – Hall B – 92300 Levallois-Perret – France
 
 
 
