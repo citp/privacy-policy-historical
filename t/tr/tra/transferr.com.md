@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transferr.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225210915id_/http%3A//www.transferr.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transferr.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605001731id_/http%3A//transferr.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Transferr - Privacy Policy -
 
