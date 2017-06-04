@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralands.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203181811id_/http%3A//www.viralands.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralands.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604194430id_/http%3A//www.viralands.com/privacy-policy) for the most accurate reproduction.*
 
 # Viralands - Privacy Policy
 
