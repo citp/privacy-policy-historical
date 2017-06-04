@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobify.site privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119022514id_/http%3A//minify.mobi/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobify.site privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604095848id_/http%3A//mobify.site/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Mobify Site
 
 This Privacy Policy is meant to help you understand what data we collect, why we collect it, and what we do with it. This is important; we hope you will take time to read it carefully.
 
@@ -38,7 +38,7 @@ We take many precautions to prevent the loss, misuse or alteration of your perso
 
   * Hardware stored in secured datacentres behind firewalls 
   * All access to information restricted by password and/or secure key 
-  * Restrictions to what information can be accessed via any location 
+  * Restrictions to what information can be accessed via any location
 
 
 
