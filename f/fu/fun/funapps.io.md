@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funapps.io privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121055854id_/http%3A//www.funapps.io/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funapps.io privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604022007id_/http%3A//www.funapps.io/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - funapps.io - The Apps Designed for Your Entertainment
 
