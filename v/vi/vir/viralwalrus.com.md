@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralwalrus.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121235517id_/http%3A//viralwalrus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralwalrus.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604223310id_/http%3A//viralwalrus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ViralWalrus
 
