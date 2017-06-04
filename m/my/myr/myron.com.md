@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myron.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127145805id_/http%3A//www.myron.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myron.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604021649id_/https%3A//www.myron.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Myron Promotional Products & Gifts
 
@@ -51,14 +51,6 @@ a)The fastest and easiest way to opt-out of our emails is to click on the "Unsub
 b)You can also unsubscribe by unchecking the "Newsletter Status" box found under "My Profile" in the "My Account" section.
 
 c)Call us at 1-877-803-3358 or write to [service@myron.com](mailto:service@myron.com) requesting we remove your name from our mailing lists. Please note that we will use all our reasonable efforts to do so in a timely fashion. 
-
-## Safe Harbor Privacy Principles
-
-Myron Corp. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Myron Corp. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Myron Corp.'s certification, please visit <http://www.export.gov/safeharbor/>.
-
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Myron commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Myron as described below in the How To Contact Us section.
-
-Myron has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Myron, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ## Links to other web sites
 
