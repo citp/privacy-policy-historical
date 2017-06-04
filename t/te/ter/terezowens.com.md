@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terezowens.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121063427id_/http%3A//terezowens.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terezowens.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604032915id_/http%3A//terezowens.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Terez Owens - #1 Sports Gossip Blog
 
@@ -17,17 +17,3 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
 
 If you have any question about this privacy, please contact us using the contact form.
-
-#### Trending on TEREZ
-
-### Jimmy Kimmel Tries to Prove Dinosaurs Are Real to LA Rams Player
-
-### Tristan Thompson and Khloe Have Said ‘I Love You’
-
-### Nate Diaz Female Friendly At 1 Oak In NYC
-
-### Josh Norman Kicks It On His Ranch
-
-### Lochte’s Fiancee Opens Up About ‘Bad Boob Job’
-
-### Golden State Warriors ‘Mom’ Fan Back at It
