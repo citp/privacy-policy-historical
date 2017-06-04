@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the visitdallas.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006041317id_/http%3A//www.visitdallas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitdallas.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604022716id_/http%3A//www.visitdallas.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Dallas, Texas
+# About the Visit Dallas | Privacy Policy
 
 VISITDALLAS.COM PRIVACY POLICY
 
 Date of Last Revision: 05-30-14
 
-The Dallas Convention and Visitors Bureau, a Texas nonprofit corporation ( “DCVB”), has created this Privacy Policy (“Policy”) in order to demonstrate our firm commitment to the privacy of your personal information. The following discloses our information gathering and dissemination practices for this website located at VisitDallas.com and DCVB.com (the “Site”).
+The Dallas Convention and Visitors Bureau, a Texas nonprofit corporation ( "DCVB"), has created this Privacy Policy ("Policy") in order to demonstrate our firm commitment to the privacy of your personal information. The following discloses our information gathering and dissemination practices for this website located at VisitDallas.com and DCVB.com (the "Site").
 
 This Policy tells you, among other things, what information we gather from you through our Site, how we may use or disclose that information, and our efforts to protect it.  
 
- **Collection of Personal Information**  
+**Collection of Personal Information**  
 User information is collected primarily to provide a more efficient DCVB online experience, as well as new, updates and information to help the DCVB meet your needs.
 
 We may request that you voluntarily supply us with personal information such as your home zip/postal code and other such information. By voluntarily providing personal information, you are consenting to the collection and use of your personal information in accordance with the terms of this Policy.
@@ -19,7 +19,7 @@ You may choose not to use any service that requires the use of your personal inf
  **  
 **
 
- **Use of Information**  
+**Use of Information**  
 The information we collect via the registration process on the Site is used to better serve your online needs. It is the policy of DCVB not to sell, share, transfer, or rent to third parties any information you provide to DCVB, through the use of the Site, without your written consent except as required by operation of the law or in compliance with legal authorities; provided, however DCVB may share your personal information with certain third parties ("Target Third Parties") without your written consent in order to further the purpose for which you voluntarily provide the DCVB with the information or as expressly provided below. For example, DCVB engages third party information management service providers to help maintain efficient operations. Because such information management service providers may access our systems, such information management service providers may have access to your information. The DCVB does not transfer or relinquish ownership of information maintained about you within DCVB systems and databases to such information management service providers but requires these information management service providers to sign confidentiality agreements to keep all confidential information and other proprietary information found in our systems confidential.
 
 If you choose to create a DCVB profile or receive information, or to otherwise give us personal information, we may store some or all of that information and use it for marketing research and marketing purposes. The information is not collected for sale to third party marketers and we do not sell or distribute the information collected from the site for commercial marketing purposes.  DCVB is the owner of the information collected on this Site.    
@@ -31,7 +31,7 @@ You authorize us to disclose any information about you to law enforcement or oth
 
 We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
 
- **Sharing of Non-Public Personal Information**  
+**Sharing of Non-Public Personal Information**  
 We reserve the right to, without notice to you, share non-public personal information with companies that work for us for the sole purpose of providing you with valuable services you've requested or already have through the Site. These companies may assist us in fulfilling your requests or processing your transactions. Except as otherwise provided above, we will only share information with companies that work for us to provide marketing and other services or services related to planning of an event in our region in response to your communications with the Site.  We may also share the information with non-affiliated persons and entities with whom we have entered into a joint marketing agreement, where we together market either our services or products and services of our marketing partner. These companies are contractually forbidden from disclosing or using our customer information other than to carry out the purposes for which the information was disclosed. These companies are in no way authorized to sell, rent or trade your personal information. While there are such contractual obligations in place, we cannot and do not guarantee that a third party could breach its obligation and use your non-public personal information in a way contrary to our policy.
 
 We may disclose information, including non-public personal information, in special cases when we have a good faith belief that such action is necessary to: (a) conform to legal requirements or comply with the legal process such as, but not limited to situations when we are required to do so by federal, state or local laws and regulations or when we receive a subpoena or are ordered by a court to do so; (b) protect and defend our rights; or (c) act to protect the interests of our users or others. 
@@ -42,12 +42,12 @@ We use cookies (a small data file that certain Web sites write to your hard driv
 You can refuse cookies by turning them off in your browser. You do not need to have cookies turned on to use the Site.  However, if you turn off cookies, then you may not be able to utilize certain features of the Site.  
 
  **Collection and Use of IP Addresses**  
-We may use IP addresses to analyze trends, administer the Site, track user’s movement, and gather broad demographic information for aggregate use.  IP addresses are not linked to personally identifiable information.   Please see  Collection of Personal Information and Use of Information  for more information.
+We may use IP addresses to analyze trends, administer the Site, track user's movement, and gather broad demographic information for aggregate use.  IP addresses are not linked to personally identifiable information.   Please see  Collection of Personal Information and Use of Information  for more information.
 
- **Google Analytics**  
+**Google Analytics**  
 On this website, we collect demographic data from Google's Interest-based advertising with Google Analytics. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings. Google Analytics' opt-out browser add-on is available at <https://tools.google.com/dlpage/gaoptout/>.  
 
- **Privacy on Public Forums**  
+**Privacy on Public Forums**  
 This Site may make chat rooms, forums, and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information  Such information may be disseminated or used by DCVB or its affiliates for any purpose whatsoever, including, but not limited to, marketing related to attracting conventions and visitors to the Dallas area. 
 
 **Surveys & Contests**  
@@ -55,7 +55,7 @@ From time-to-time our Site may request information from users via surveys or con
 
  **Viewing and Updating Your Information**  
 You can review and revise your personal information at any time by accessing your DCVB profile on the Site.   DCVB provides users the following options for changing and modifying information previously submitted.   
-You can send e-mail to privacy@dallascvb.com.   
+You can send e-mail to byoung@dallascvb.com.   
 You can send mail to the following postal address: 
 
 Dallas Convention & Visitors Bureau  
@@ -69,7 +69,7 @@ Please note that after DCVB processes a change or deletes your personal informat
 
  **  
 E-Mail Communication From DCVB**  
-You will only receive e-mail from the DCVB if you have registered for one of our mailing lists or otherwise provided your email address to us. If you are currently on our list and do not wish to receive further information from us, [click here](mailto:ndukowitz@dallascvb.com?subject=Remove%20From%20E-List). To sign up for news, updates and information from the DCVB via e-mail, [click here](http://www.visitdallas.com/visitors/enews).
+You will only receive e-mail from the DCVB if you have registered for one of our mailing lists or otherwise provided your email address to us. If you are currently on our list and do not wish to receive further information from us, [click here](mailto:ndukowitz@dallascvb.com?subject=Remove%20From%20E-List). To sign up for news, updates and information from the DCVB via e-mail, [click here](https://web.archive.org/newsletter-signup.html).
 
  **  
 Electronic Newsletters**  
@@ -86,21 +86,21 @@ You may, of course, decline to submit personally identifiable information throug
 
 **  
 Choice/Opt Out**  
-If you prefer that we not disclose nonpublic personal information about you to nonaffiliated third parties, you may opt out of those disclosures; that is, you may direct us not to make those disclosures (other than disclosures permitted by law).  If you receive communications from us that you do not want to receive, you can opt out from receiving these communications, by specifically telling us to stop sending them to you.  We will generally be able to give effect to your withdrawal on 30 days’ notice.  If you wish to opt out of disclosures to nonaffiliated third parties, you may e-mail your request to DCVB at privacy@dallascvb.com. 
+If you prefer that we not disclose nonpublic personal information about you to nonaffiliated third parties, you may opt out of those disclosures; that is, you may direct us not to make those disclosures (other than disclosures permitted by law).  If you receive communications from us that you do not want to receive, you can opt out from receiving these communications, by specifically telling us to stop sending them to you.  We will generally be able to give effect to your withdrawal on 30 days' notice.  If you wish to opt out of disclosures to nonaffiliated third parties, you may e-mail your request to DCVB at byoung@dallascvb.com. 
 
 **Security**  
-This website takes every reasonable precaution to protect our users’ information.  When you submit sensitive information via the website, your information is protected both online and off-line.  For your security, our credit card processing vendor encrypts sensitive information (such as credit card number) on our order forms using secure socket layer technology (SSL). In order for SSL to work, though, you must have a browser that supports SSL technology.  While on a secure page, the lock icon on the bottom of Web browsers, such as Netscape Navigator, Microsoft Internet Explorer or Mozilla Firefox, becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’.  To learn more about SSL, follow this link:  [http://www.webopedia.com/TERM/S/SSL.html.  
+This website takes every reasonable precaution to protect our users' information.  When you submit sensitive information via the website, your information is protected both online and off-line.  For your security, our credit card processing vendor encrypts sensitive information (such as credit card number) on our order forms using secure socket layer technology (SSL). In order for SSL to work, though, you must have a browser that supports SSL technology.  While on a secure page, the lock icon on the bottom of Web browsers, such as Netscape Navigator, Microsoft Internet Explorer or Mozilla Firefox, becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.  To learn more about SSL, follow this link:  [http://www.webopedia.com/TERM/S/SSL.html.  
 ](http://www.webopedia.com/TERM/S/SSL.html)  
-It should be noted that information you elect to post our the Site, e-mails and other information you send to us, except that which you send us on a secure page, is not encrypted and such transmissions cannot be considered a secure means of transmitting sensitive information.  DCVB will never ask you to submit your financial data, such as your credit card account numbers, via e-mail.  IF YOU RECEIVE AN E-MAIL REQUESTING THAT YOU FORWARD INFORMATION OF THIS NATURE BY E-MAIL, PLEASE CONTACT US DIRECTLY AT privacy@dallascvb.com.  DO NOT REPLY DIRECTLY TO THE E-MAIL.  You should be aware of the limitations of security, authentication, encryption, and privacy measures used in connection with the Internet and that any information you transmit through the Site may be damaged, corrupted, "sniffed" and/or accessed by another person without your permission. 
+It should be noted that information you elect to post our the Site, e-mails and other information you send to us, except that which you send us on a secure page, is not encrypted and such transmissions cannot be considered a secure means of transmitting sensitive information.  DCVB will never ask you to submit your financial data, such as your credit card account numbers, via e-mail.  IF YOU RECEIVE AN E-MAIL REQUESTING THAT YOU FORWARD INFORMATION OF THIS NATURE BY E-MAIL, PLEASE CONTACT US DIRECTLY AT byoung@dallascvb.com.  DO NOT REPLY DIRECTLY TO THE E-MAIL.  You should be aware of the limitations of security, authentication, encryption, and privacy measures used in connection with the Internet and that any information you transmit through the Site may be damaged, corrupted, "sniffed" and/or accessed by another person without your permission. 
 
 Finally, the servers on which we store personally identifiable information are kept in a secure environment, with access restricted.
 
-Regardless of the precautions taken by you or by us, “perfect security” does not exist on the Internet. We cannot ensure or warrant the ultimate security of any information you transmit. 
+Regardless of the precautions taken by you or by us, "perfect security" does not exist on the Internet. We cannot ensure or warrant the ultimate security of any information you transmit. 
 
 **Linked Sites**  
 The Site may contain links to other sites. Please be aware that DCVB may not be responsible for content or the privacy practices of such other sites.  We encourage our users to be aware when they leave our Site and recommend that they read the privacy statements of each and every website they visit.  This Policy applies solely to information collected by this Site.
 
- **Age Restrictions; Children’s Privacy**  
+ **Age Restrictions; Children's Privacy**  
 This Site is not directed at children under the age of 13 and does not knowingly collect personal information from children under the age of 13.  If DCVB obtains actual knowledge that it has obtained personal information about a child under the age of 13, that information is immediately and permanently deleted from our records.
 
  **Changes to Privacy Policy**  
@@ -109,7 +109,7 @@ We may occasionally change this Privacy Policy.  If we do, we will post the cha
  **  
 Contact Information**  
 If you have a comment, question or request, or if you need to contact DCVB for any other reason, there are four easy ways to do so.  
-(a)    E-mail:  You can e-mail at privacy@dallascvb.com.  
+(a)    E-mail:  You can e-mail at byoung@dallascvb.com.  
 (b)    U.S. Mail:  Send mail to DCVB at: 
 
 Dallas Convention & Visitors Bureau  
