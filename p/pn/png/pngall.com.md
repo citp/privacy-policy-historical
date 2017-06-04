@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pngall.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120070355id_/http%3A//www.pngall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pngall.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604060139id_/http%3A//www.pngall.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PNG All
 
@@ -53,7 +53,7 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
 ##  Third Party Site Privacy Policy’s
 
- **Google +1 Button –** <http://www.google.com/intl/en/privacy/plusone/>  
+**Google +1 Button –** <http://www.google.com/intl/en/privacy/plusone/>  
 **Feedburner** – Newsletter at <http://www.feedburner.com/fb/a/privacy>  
 **Facebook.com** – fan page, FaceBook like, share and send buttons; <http://www.facebook.com/policy.php>  
 **Twitter.com** – Twitter tweet button; Twitter <http://twitter.com/privacy>  
