@@ -1,10 +1,59 @@
-> *The following text is extracted and transformed from the bigislandvideonews.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508052458id_/http%3A//www.bigislandvideonews.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigislandvideonews.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604034430id_/http%3A//www.bigislandvideonews.com/2009/01/01/privacy-policy) for the most accurate reproduction.*
 
-# Big Island Video News | Privacy Policy
+# Privacy Policy
 
 **Big Island Video News – Privacy Policy**
 
-Big Island Video News (bigislandvideonews.com) respects the privacy of its users and visitors, and is committed to maintaining the following privacy policy in that regard.
+**Information Provided To Us**
+
+Users contacting this website and/or its owners – using our email address, online contact forms, website comments or message boards, surveys, or other electronic means – do so at their own discretion and provide any such personal details at their own risk. 
+
+Big Island Video News may use any information you supply – names, email addresses, and/or demographic information – in order to provide you with further information about the services we offer or to assist you in answering any questions or queries you may have submitted. 
+
+**Information Passively Collected**
+
+Big Island Video News, like most web sites, may collect and log information automatically and through the use of electronic tools. The log information may include your IP address, the name and location of your Internet Service Provider, the type and version of your browser, the length of time that you stay on bigislandvideonews.com, search queries, your click-stream data, the location that referred you to bigislandvideonews.com and the average number of pages viewed. If you visit another Web site prior to browsing bigislandvideonews.com, that Web site might place personally identifiable information within a URL, which may also be logged by us. 
+
+**Use of Cookies**
+
+This website uses “cookies” to better the users experience while visiting the website. Cookies are small files saved to the user’s computers hard drive that track, save and store information about the user’s interactions and usage of the website. This allows the website, through its server to provide the users with a tailored experience within this website. Our use of cookie technology will likely be transparent to you and is used to recognize you and hold information from one visit to the next. Cookies may be turned off using your browser preference options, but doing so may limit your access to bigislandvideonews.com.
+
+Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to bigislandvideonews.com. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to this site and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings (http://www.google.com/ads/preferences/). 
+
+Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and its external serving vendors.
+
+**Email Newsletter**
+
+This website operates an email newsletter program, used to inform subscribers about news stories published to bigislandvideonews.com or other related products. Users can subscribe through an online automated process should they wish to do so but do so at their own discretion. Some subscriptions may be manually processed through prior written agreement with the user.
+
+Subscriptions are taken in compliance with UK Spam Laws detailed in the Privacy and Electronic Communications Regulations 2003. All personal details relating to subscriptions are held securely and in accordance with the Data Protection Act 1998. No personal details are passed on to third parties nor shared with companies / people outside of the company that operates this website. Under the Data Protection Act 1998 you may request a copy of personal information held about you by this website’s email newsletter program. A small fee will be payable. If you would like a copy of the information held on you please write to the business address at the bottom of this policy.
+
+Email marketing campaigns published by this website or its owners may contain tracking facilities within the actual email. Subscriber activity is tracked and stored in a database for future analysis and evaluation. Such tracked activity may include; the opening of emails, forwarding of emails, the clicking of links within the email content, times, dates and frequency of activity [this is by no far a comprehensive list]. This information is used to refine future email campaigns and supply the user with more relevant content based around their activity.
+
+**External Links**
+
+Although this website only looks to include quality, safe and relevant external links, or clickable text / banner / image links to other websites, users are advised adopt a policy of caution before clicking any external web links mentioned throughout this website. 
+
+Big Island Video News cannot guarantee or verify the contents of any externally linked website despite our best efforts. Users should therefore note they click on external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
+
+**Adverts and Sponsored Links**
+
+This website may contain sponsored links and adverts. These will typically be served through our advertising partners, to whom may have detailed privacy policies relating directly to the adverts they serve.
+
+Clicking on any such adverts will send you to the advertisers website through a referral program which may use cookies and will track the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your computers hard drive. Users should therefore note they click on sponsored external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
+
+**Social Media Platforms**
+
+Communication, engagement and actions taken through external social media platforms that this website and its owners participate on are custom to the terms and conditions as well as the privacy policies held with each social media platform respectively.
+
+Users are advised to use social media platforms wisely and communicate / engage upon them with due care and caution in regard to their own privacy and personal details. 
+
+This website may use social sharing buttons which help share web content directly from web pages to the social media platform in question. Users are advised before using such social sharing buttons that they do so at their own discretion and note that the social media platform may track and save your request to share a web page respectively through your social media platform account.
+
+**Shortened Links in Social Media**
+
+This website and its owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy urls [web addresses] (this is an example: http://bit.ly/zyVUBo).  
+Users are advised to take caution and good judgement before clicking any shortened urls published on social media platforms by this website and its owners. Despite the best efforts to ensure only genuine urls are published many social media platforms are prone to spam and hacking and therefore this website and its owners cannot be held liable for any damages or implications caused by visiting any shortened links.
 
 **_What information do we collect?_**
 
@@ -73,12 +122,11 @@ By using our site, you consent to our websites privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-This policy was last modified on January 28, 2010
+This policy was last modified in April 2016
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 Big Island Video News  
-Hilo, Hawaii 96720  
-davidcorrigan@bigislandvideonews.com
+news@bigislandvideonews.com
