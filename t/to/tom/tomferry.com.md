@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tomferry.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208145700id_/http%3A//tomferry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomferry.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604062851id_/http%3A//tomferry.com/privacy) for the most accurate reproduction.*
 
 # Website and App Privacy Policy
 
-Tom Ferry – Your Coach provides coaching and training strategies to professionals in the real estate industry.
+Ferry International, LLC dba Tom Ferry, provides coaching and training strategies to professionals in the real estate industry.
 
-This Privacy Policy discloses the privacy practices for the Tom Ferry – Your Coach (sometimes referred to as TFYC, Success Strategies Institute or SSI) website and its mobile app and various related services (together referred to as the “sites”). TFYC is referred to as “us” or “we, and is committed to protecting your privacy online.
+This Privacy Policy discloses the privacy practices for the Tom Ferry (sometimes referred to as TF, Ferry International) website and its mobile app and various related services (together referred to as the “sites”). Tom Ferry is referred to as “us” or “we, and is committed to protecting your privacy online.
 
 You acknowledge that this Privacy Policy is part of our Sites’ Terms of Use, and by accessing or using our sites, you agree to be bound by all of the sites’ terms and conditions. If you do not agree to these terms, please do not access or use these sites.
 
@@ -64,7 +64,8 @@ We will primarily use your Personally Identifiable Information to provide our se
 
 
 
-We do not sell, trade, or rent your Personally Identifiable Information to others outside of the network. We do provide some of our services through contractual arrangements with affiliates, therefore, for example, upon your election (i.e. upon your checking a box), certain information is provided during transactions on our eCommerce store. We and our service partners use your Personally Identifiable Information to operate our sites and to deliver their services. For example, we must release your credit card information to the card-issuing bank to confirm payment for products and services purchased on these sites; release your address information to the delivery service to deliver products that you ordered; and provide order information to third parties that help us provide customer service.
+We do not sell, trade, or rent your Personally Identifiable Information to others outside of the network. We do provide some of our services through contractual arrangements with affiliates, therefore, for example, upon your election (i.e. upon your checking a box), certain information is provided during transactions on our eCommerce store. We and our service partners use your Personally Identifiable Information to operate our sites and to deliver their services. For example, we must release your credit card information to the card-issuing bank to confirm payment for products and services purchased on these sites; release your address information to the delivery service to deliver products that you ordered; and provide order information to third partie  
+s that help us provide customer service.
 
 We will encourage our service partners to adopt and post privacy policies. However, the use of your Personally Identifiable Information by our service partners is governed by the privacy policies of those service partners, and is not subject to our control.
 
@@ -106,7 +107,8 @@ Personal information that you provide that is not Personally Identifiable Inform
 
 In order to most efficiently serve you, credit card transactions and order fulfillment are handled by established third party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order.
 
-Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your Personally Identifiable Information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through these sites cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party.
+Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your Personally Identifiable Information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through these sites cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third pa  
+rty.
 
   7. Do we use “cookies”?
 
