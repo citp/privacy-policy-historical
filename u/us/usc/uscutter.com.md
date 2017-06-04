@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uscutter.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122103637id_/http%3A//www.uscutter.com/index/page/static/subpage/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscutter.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604023904id_/http%3A//www.uscutter.com/index/page/static/subpage/privacy_policy) for the most accurate reproduction.*
 
-# USCutter - Vinyl Cutters, Digital Color Printers, 3D Printers, Heat Transfer, Flat Beds, Engravers, Craft, Vinyl Supplies, Tools
+# USCutter - Vinyl Cutters, Heat Transfer, Flat Beds, Craft, Vinyl Supplies, Tools
 
 **USCUTTER INC. PRIVACY POLICY STATEMENT**
 
