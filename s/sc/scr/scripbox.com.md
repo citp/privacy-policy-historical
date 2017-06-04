@@ -1,99 +1,150 @@
-> *The following text is extracted and transformed from the scripbox.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429124936id_/https%3A//scripbox.com/pages/privacy-policy%3Fref%3Dscripbox-footer-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripbox.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604153656id_/http%3A//scripbox.com/pages/privacy-policy%3Fref%3Dfooter) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Scripbox
 
-Date of last revision: May 8, 2012
+Date of last revision: July 11, 2016 
 
-At Scripbox.com, we endeavor to ensure the confidentiality, integrity, and security of your and your family’s personal information, at all times.This Privacy Policy explains:
+By using the website https://scripbox.com and signing up for our services, ("Scripbox" or "Services"), or providing us your personal information for any other purpose, you agree to this Privacy Policy, and the Terms of Use of Website and Services available at [https://scripbox.com/pages/terms-of-us](https://web.archive.org/pages/terms-of-use). 
 
-1\. How We Collect and Use   
-Your Personal Information 
+Scripbox's main goal is to provide features that benefit you directly. Information is only collected if it directly supports features made for you. We take the protection and proper use of your personal information seriously and are committed to protecting your personal information in our possession. 
 
-2\. How you can Access   
-and Update Your   
-Personal Information 
+This policy will help you understand the types of information we collect from you, the purpose for which the information is collected; how the information is used; the intended recipients of such information; and how the information is protected. If you would like more details, please contact us at [https://scripbox.com/pages/contact-us](https://web.archive.org/pages/contact-us). 
 
-3\. Sharing Your Personal   
-Information 
+For the purposes of this policy, "personal information" means any information that can be used to identify you personally. 
 
-4\. Your Information Will   
-Always Be Safe With Us 
+* * *
 
-5\. Our Legal Obligation   
-To You 
+1\. Using Scripbox as a Visitor 
 
-6\. Changes to this   
-Privacy Policy 
+If you are a first-time visitor to Scripbox: 
 
-For the purposes of this policy, “personal information” means any information that can be used to identify you personally.
+  1. We don't know who you are.
+  2. We collect technical data about your interaction with the Services. This is data we get from your use of our services. We collect data about your interaction with our website, such as pages visited and average time spent on the website, your internet protocol address, the unique identifier of your device and device information such as operating system, operating system version, browser plugins, crashes, system activity, hardware settings, date and time of your request and referral URL, and cookies that may uniquely identify your browser and mobile application. 
+  3. We use this data to analyse how you use our website and improve the services provided through the website;
 
-**If you have any questions regarding this policy, do get in touch with Mr. Sanjiv Singhal at the following address:**
 
+
+* * *
+
+2\. Using Scripbox as a Registered User 
+
+If you have provided us your email address:
+
+  1. You are a registered user of Scripbox.
+  2. You may be asked to give us additional information such as your name or mobile number in order to use certain features of the Services.
+  3. We collect technical data about your interaction with the Services.
+  4. We use all the collected data to:
+    * Respond to your queries about the Services;
+    * Deliver to you any notices, alerts, or communications relevant to your use of the Services;
+    * Offer you other products or services that we believe may be of interest to you. You have the option to opt-out of receiving such communication;
+    * Aggregate your anonymised information with information from other registered users to perform market research, project planning, product development, troubleshoot problems, analyse user behaviour, marketing purposes, and promotions;
+    * Enforce our Terms of Use of Website and Services;
+
+
+
+* * *
+
+3\. Using Scripbox as an Investor 
+
+If you wish to start investing in mutual funds through Scripbox:
+
+  1. You will be asked for basic registration information, such as an email address and password.
+  2. You will be asked to provide personal details including your name, address, age, marital status, sex, and income.
+  3. You will be asked for financial information like your bank account and other payment instrument details.
+  4. We use this information to:
+    * Fulfil your requests for mutual fund investments and the related services we provide;
+    * Comply with regulations to prevent fraud, money laundering or any other criminal activity;
+    * Enforce the terms of the Investor Services Agreement;
+
+
+
+* * *
+
+Your email address is used to send you updates regarding the Services. You can select what communication you'd like to receive from us by modifying your account settings after you login to your Scripbox account. 
+
+Your password is encrypted before being stored in our database and no one other than you knows or has access to it. Under no circumstance do we know or share your password with anyone. 
+
+In order to start investing through Scripbox, we will need to verify your identity. To do so, we may, directly or through third parties, use the identification information you provide to verify it against databases maintained by a KYC (Know Your Client) Registration Agency, registered under the Securities and Exchange Board of India {KYC (Know Your Client) Registration Agency} Regulations, 2011, and the Unique Identification Authority of India. 
+
+We may also use your information to verify your identity in the event you contact us for assistance with the site or services. 
+
+We use cloud-based software tools to perform certain business-related functions. Examples of such functions include, maintaining databases and servers, processing text messages, phone calls, chats and emails, and marketing and sales analytics. A full list of our third-party service providers is available at [https://scripbox.com/pages/company](https://web.archive.org/pages/company). Please note that these providers are bound by the same standards of data security practices and procedures as we are under law and contract. 
+
+* * *
+
+5\. How We Use Your Financial Information 
+
+We use your financial information to make investment recommendations, and to execute your investment instructions only. For more information on how we do this, do read our FAQ on security at <https://scripbox.com/help/security>. 
+
+* * *
+
+6\. How We Use Technical Data 
+
+Scripbox uses Google Analytics, a web analytics service provided by Google, Inc. Google Analytics uses first-party cookies to report on user interactions with our web-based services. These cookies store non-personally identifiable information. 
+
+Google Analytics aggregates technical data (non personally identifiable data relating to your usage of our website) with data collected from other Scripbox users. We use this information to identify the most popular areas of the Services and how to best present and customise them. 
+
+We may use the unique identifier of your device for security purposes to track suspicious activity. For instance, if we detect that your Scripbox is being accessed from multiple devices, we may contact you to ensure that you have authorised such access. 
+
+Under no circumstance will your email, password, any personal financial data be collected by or shared with Google Analytics. 
+
+For more information about how Google handles technical information, please visit the site, "How Google uses data when you use our partners' sites or apps", ( located at: [ www.google.com/policies/privacy/partners ](https://www.google.com/policies/privacy/partners) ). 
+
+* * *
+
+7\. Access Your Information 
+
+Your personal information is yours. Under Indian law, you have the right to ask us for a readable copy of all your personal information stored with us. 
+
+If you have any questions about the accuracy or safety of your information, please do contact us at the address given below: 
+
+Grievance officer: Balika Krishnan Nair   
 Scripbox.com India Private Limited.   
 6th Floor, Golden Tower,   
 Old Airport Road,   
-Bangalore - 560017, India.   
-[ ](mailto:help@scripbox.com)
+Bengaluru - 560017, India.   
+Email: 
 
 * * *
 
-1 How We Collect and Use   
-Your Personal Information 
+8\. Disclosure of Information 
 
-Pre-registration - You can access certain sections and features of Scripboxsm without registering or disclosing any personal information. As a visitor to the website, remember that your web browser or computer makes anonymous visitor data available to us in the form of HTTP cookies. We use this data together with similar data from other visitors to understand which areas of Scripbox.com are the most popular and how to best present and customize our website. 
+Simply put, under no circumstance will we sell or rent your personal information to anyone, for any reason, at any time. 
 
-Registration - To avail the functionality of our services and start investing, you will be asked to register for an investment account (“Scripboxsm”). This involves creating a username and password (collectively, “Login Credentials”) and disclosing to us sensitive information that can identify you personally like your email address, correspondence address, and financial information such as your bank account or other payment instrument details (collectively, your “Registration Information”). 
+Just like any other financial services company, we use authorized third party service providers who are bound by the same standards of data security practices and procedures as we are under law and contract. They are subject to the same penalties as we are for the unauthorised disclosure of your personal information. 
 
-We need physical evidence of your personal details like PAN and the Scripboxsm Investor Application Form to satisfy regulatory requirements while your bank details are required to honour your investment instructions. 
-
-We may also ask for additional personal information from time to time to meet new regulatory requirements or to provide you with other benefits of our services. As always, the information that we seek will only be for the purpose stated. 
-
-We use this information to contact you and undertake activities that you have specifically authorised us to do. 
+However, under Indian law, Scripbox remains liable to you, our customer, for any unauthorised disclosure of your sensitive personal information. 
 
 * * *
 
-2 How you can Access   
-and Update Your   
-Personal Information 
+9\. Security Practices and Procedures 
 
-Your personal information is yours. To access or update your information, please login and make changes as required. Some of these changes may require you to provide documentary evidence. In any event, upon your request, Scripbox has a legal obligation and will provide every registered user of the website and services with a readable copy of the personal data that we keep about you. As an added security measure, we may require additional proof of identity prior to such disclosure.
+Scripbox follows industry best practices, using open and known principles when transferring and storing your data. 
 
-Remember to keep your Login Credentials safe and secret to prevent unauthorized access to your Scripboxsm. If you think that the security of your Scripboxsm has been compromised, change your password and contact us immediately for further assistance. 
+We believe the biggest threat to the security and privacy of your data is if someone – probably someone you know – gains access to any of your devices. Remember to keep your password safe and secret to prevent unauthorised access to your Scripbox account. 
 
-* * *
-
-3 Sharing Your Personal   
-Information 
-
-Simply put, under no circumstance will we sell or rent your personal information to anyone, for any reason, at any time.
-
-Access to your Login Credentials, Registration Information, and any other personal information you provide is restricted and used in accordance with specific internal procedures in order to operate, develop or improve our services. All our employees have been selected in accordance with our security policies and practices and are bound by confidentiality obligations. They are subject to stern disciplinary action, including termination, civil liability, and criminal prosecution, if they fail to meet these obligations.
-
-We may also use third party vendors or service providers to help us provide services to you, such as couriering documents to you on our behalf or operating the payment gateway functionality of the website. Such third parties are required to maintain the confidentiality of the information we provide to them under contract and under law.
+If you think that the security of your Scripbox account has been compromised, change your password and contact us immediately for further assistance. 
 
 * * *
 
-4 Your Information Will   
-Always Be Safe With Us 
+10\. How Your Information is Transmitted 
 
-Scripbox has appropriate security measures to protect against unauthorised access to or unauthorised alteration, disclosure and/or destruction of data. Our website is authenticated by Geotrust. All stored information is appropriately encrypted and secured against unauthorised access.
-
-* * *
-
-5\. Our Legal Obligation   
-To You 
-
-We are bound by the (Indian) Information Technology Act, 2000, and comply with all its provisions ( [available here](http://www.mit.gov.in/content/cyber-laws) ). Under Section 43A of the (Indian) Information Technology Act, 2000, Scripbox is obliged to maintain reasonable security procedures to safeguard your data.Should there be any accidental disclosure of your personally identifiable personal information, you have the right to compensation from Scripbox. 
-
-Under Regulation 4 of the Information Technology (Reasonable Security and Procedures and Sensitive Personal Data or Information) Rules, 2011, Scripbox is obliged to provide every registered user of Scripbox.com with a readable copy of the information that it keeps about you. If you would like a copy, do get in touch with us at the address provided above.
+Your data is transmitted between your device and our servers using HTTPS protocol for encryption. HTTPS is the same technology used to create secure connections for your web browser, and is indicated by a padlock icon in your browser. 
 
 * * *
 
-6\. Changes to this Privacy   
-Policy 
+11\. Our Legal Obligation to You 
 
-This Privacy Policy is published on the website in compliance with Regulation 4 of the (Indian) Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Information) Rules, 2011 (available here).
+We are bound by the (Indian) Information Technology Act, 2000, and comply with all its provisions available at <http://deity.gov.in/content/it-act-2000-dpl-cyber-laws>. Under Section 43A of the (Indian) Information Technology Act, 2000, Scripbox.com and all its service providers are obliged to maintain reasonable security procedures to safeguard your data. Should there be any accidental disclosure of your personally identifiable personal information, you have the right to compensation from Scripbox. 
 
-We update this Privacy Policy periodically. We will not reduce your rights under this Privacy Policy without your explicit consent. We will notify you of any changes to this Privacy Policy.
+Under Regulation 5 of the Information Technology (Reasonable Security and Procedures and Sensitive Personal Data or Information) Rules, 2011, we are obliged to provide every registered user of Scripbox with a readable copy of the personal information you have provided us. If you would like a copy, do get in touch with us at the address provided above. 
 
-The date of last revision appears at the top and all changes take effect immediately upon posting.
+* * *
+
+12\. Changes to This Privacy Policy 
+
+This Privacy Policy is published on the website in compliance with Regulation 4 of the (Indian) Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Information) Rules, 201. 
+
+We update this Privacy Policy periodically. We will notify you of any changes to this Privacy Policy. The date of last revision appears at the top and all changes take effect immediately upon posting. 
+
+If you do not agree with the terms of this Privacy Policy or any changes made to this Policy, please cease using all Services immediately and write to us at the address mentioned above. 
