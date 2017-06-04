@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapgrades.net privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128000145id_/http%3A//www.jupitered.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapgrades.net privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605005953id_/http%3A//jupitered.com/privacy.html) for the most accurate reproduction.*
 
 # Jupiter Ed Privacy Policy
 
