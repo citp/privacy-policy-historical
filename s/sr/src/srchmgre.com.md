@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the srchmgre.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201062941id_/http%3A//support.srchmgre.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srchmgre.com privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604184048id_/http%3A//support.srchmgre.com/pp.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy (the **"Policy"** ) describes the privacy practices with respect to the service ("Services", as such term is defined in the end user license agreement available here: [http://srchmgre.com/eula.html](http://support.srchmgre.com/eula.html) ("EULA"). Please also review the EULA as your use of the Services is subject to the terms of this Policy and the EULA. 
+This Privacy Policy (the **"Policy"** ) describes the privacy practices with respect to the service ("Services", as such term is defined in the end user license agreement available here: <http://support.searchmgr.com/eula.html> ("EULA"). Please also review the EULA as your use of the Services is subject to the terms of this Policy and the EULA. 
 
 By downloading and/or installing and/or using the Services and/or by accepting this Policy and the EULA, you also consent to the following privacy policy of Yahoo, whose product is offered to you as part of the Services (as explained in the EULA). We recommend that you review such privacy policy. Yahoo privacy policy, available in the following link: <https://info.yahoo.com/privacy/us/yahoo/search/details.html> ( **"Third Party's Policies"** ). Nothing herein shall deem to imply an affiliation between us and any third parties whose products are included in the Services. 
 
@@ -46,4 +46,4 @@ We may change this Policy from time to time. If we make changes, that are signif
 
 7\. **_Contact Information_**
 
-If you have any questions or comments about this Policy, please contact us at [v](mailto:support@searchmgr.com). 
+If you have any questions or comments about this Policy, please contact us at [support@searchmgr.com](mailto:support@searchmgr.com). 
