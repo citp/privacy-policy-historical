@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the catchmyparty.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109022626id_/http%3A//catchmyparty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchmyparty.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013615id_/http%3A//catchmyparty.com/page/privacy) for the most accurate reproduction.*
 
-# Help and Frequently Asked Questions | Catch My Party
+# Privacy Policy | Catch My Party
 
 ## Privacy Policy
 
