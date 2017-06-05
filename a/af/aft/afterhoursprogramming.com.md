@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afterhoursprogramming.com privacy policy that was archived on 2016-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160905221458id_/http%3A//www.afterhoursprogramming.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afterhoursprogramming.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012827id_/http%3A//www.afterhoursprogramming.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,6 +37,12 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 ## Third party links
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+## Affiliate Disclaimer – AfterHoursProgramming.com
+
+**Affiliate Disclaimer:** Some links on this page redirect you to Amazon. Amazon is one of the biggest reliable online shops. AfterHoursProgramming.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. We or our advertising partners may use cookies to monitor clicks or for informational basis only.
+
+Prices may have changed and we have no control over it. We may earn money from referring you to Amazon. Clicking any of the links on this website does not increase the cost or affect the price for any product you purchase from Amazon. Our main purpose is for informational purpose and not for earning.
 
 ## California Online Privacy Protection Act Compliance
 
