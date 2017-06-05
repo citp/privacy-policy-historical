@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awem.com privacy policy that was archived on 2016-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160119021556id_/http%3A//www.awem.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awem.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003249id_/http%3A//www.awem.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Awem Games
 
@@ -20,7 +20,7 @@ Awem may use tools or third party analytical software to automatically collect a
 
 ### Cookies
 
-The Services may use cookies to store information about your visits such asbut not limited to your preferences or a user name and password. You can disable cookies at any time, although you may not be able to access or use features of the services. 
+The Services may use cookies to store information about your visits such as but not limited to your preferences or a user name and password. You can disable cookies at any time, although you may not be able to access or use features of the services. 
 
 You specifically consent to our collection of the information by automated means, such as cookies or the intended functionality of the Services, and to our subsequent processing and using of the information in accordance with this Privacy Policy, and to the storage and transfer of the information to locations wherever we and our service providers have facilities. 
 
@@ -59,9 +59,9 @@ Awem does not share your Personal Information to third-parties except as describ
 
 ## IV. THIRD-PARTY WEBSITES AND SERVICES
 
-Third parties may collect your information. There are a number of places on or through the Services where you may click on a link to access other websites, services or web resources that are not affiliated or connected with us and do not operate under thisPrivacy Policy. For example, if you click on an ad, you may be taken to a website that we do not control. These third-party websites may independently collect information, including your Personal Information, from you. We advise you to check the privacy policies of all third-party websites you visit. 
+Third parties may collect your information. There are a number of places on or through the Services where you may click on a link to access other websites, services or web resources that are not affiliated or connected with us and do not operate under this Privacy Policy. For example, if you click on an ad, you may be taken to a website that we do not control. These third-party websites may independently collect information, including your Personal Information, from you. We advise you to check the privacy policies of all third-party websites you visit. 
 
-We may allow third-party advertising companies or ad networks to display advertisements or place ad tags through the Services. We do not provide any your Personal Information to these companies. These third-party companies and their partners may use tracking tools, such as cookies, to collect information about computers used to view or interact with their ads. In some cases you may visit these third-party companies’ websites to opt out of the use of third-partiescookie (e.g Google’s DoubleClick cookie for interest-based advertising). 
+We may allow third-party advertising companies or ad networks to display advertisements or place ad tags through the Services. We do not provide any your Personal Information to these companies. These third-party companies and their partners may use tracking tools, such as cookies, to collect information about computers used to view or interact with their ads. In some cases you may visit these third-party companies’ websites to opt out of the use of third-parties cookie (e.g Google’s DoubleClick cookie for interest-based advertising). 
 
 ## V. SECURITY
 
