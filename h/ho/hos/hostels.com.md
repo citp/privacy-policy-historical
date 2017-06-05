@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostels.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121114757id_/http%3A//www.hostels.com/d/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostels.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606004711id_/http%3A//www.hostels.com/d/privacy.php) for the most accurate reproduction.*
 
 # Hostels.com | Privacy Policy & Security Statement
 
@@ -99,11 +99,11 @@ Video guides, travel podcasts, city maps & free city guides. What to eat, where 
 
 [Find a guide »](http://www.hostels.com/d/guides "Find a travel guide")
 
-##### [Latest Blog Post](http://www.hostels.com/d/blog/travel-destinations/offbeat-amsterdam-six-unusual-things-to-do/)
+##### [Latest Blog Post](http://www.hostels.com/d/blog/city-focus/partying-in-paris-where-to-go/)
 
-Amsterdam is a playground for the weird and wonderful. Sometimes nothing seems mundane in this buzzing city. There will always be a never-ending list of quirky and offbeat thing...
+We want to make sure that you get to explore as much of Paris as possible and that includes the nightlife scene. We've compiled some of the best places in Paris to check out if ...
 
-[Read more »](http://www.hostels.com/d/blog/travel-destinations/offbeat-amsterdam-six-unusual-things-to-do/ "Latest blog post")
+[Read more »](http://www.hostels.com/d/blog/city-focus/partying-in-paris-where-to-go/ "Latest blog post")
 
 ##### [Great Value and Choice](http://www.hostels.com/hostel.menu.html)
 
