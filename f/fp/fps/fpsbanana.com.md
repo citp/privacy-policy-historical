@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fpsbanana.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012905id_/http%3A//gamebanana.com/wikis%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fpsbanana.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606011426id_/http%3A//gamebanana.com/wikis%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy (Wikis > Rules) - GAMEBANANA
 
@@ -23,14 +23,15 @@ You represent and warrant that:
 Company may revise this privacy policy at any time without notice by updating this Policy. You should visit this webpage periodically to review the Policy.   
 
 
-### Comments
+### Posts
 
-  * 5 years ago: good Tom. finally... :) 
-  * 5 years ago: Yes. 
+  * 5y good Tom. finally... :) 
+  * 5y Yes. 
 
-Now all the kids beneath the age of 13 can leave. The spam will stop. Sort of. 
+Now all the kids beneath the age of 13 can leave. The spam will stop. Sort of.
 
-    * Funny x 1
+    * Funny x 2
+    * Agree x 1
 
 
 
@@ -39,23 +40,13 @@ Send a Private Message to the submitter
 ### Stats
 
 Posts
-     1 
+     1
 Views
-    222,678
+    230,708
 Date Added
-     5 years ago
-
-May 9 2012 @ 6:16pm UTC 
-
+     5y
 Date Modified
-     15 days ago
-
-Nov 4 2016 @ 8:52am UTC 
-
-Date Updated
-     5 years ago
-
-May 9 2012 @ 6:16pm UTC 
+     7mo
 
   * [ Feedback ](http://gamebanana.com/ideas/add)
   * [ Bugs ](http://gamebanana.com/bugs/add)
