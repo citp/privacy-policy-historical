@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the dominos.co.in privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222043622id_/http%3A//www.dominos.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.co.in privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605025010id_/http%3A//www.dominos.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  * [LOCATION](http://pizza-restaurants.dominos.co.in/)
-  * [GIFT VOUCHERS](http://www.dominos.co.in/great-deals/gift-vouchers)
-  * [CALL US](http://www.dominos.co.in/feedback)
-  * [BLOG](http://dominos.co.in/blog/)
-  * [INVESTORS](http://www.jubilantfoodworks.com/investors/)
-  * [ADS](http://www.dominos.co.in/advertisement)
-
-
 
 Welcome At Domino's we recognize that privacy is important!!
 
@@ -25,20 +16,22 @@ In general, you can visit this Web site without telling us who you are or reveal
 
 Domino's may collect personal information from you including your first and last name, address, telephone and mobile number(s), email address, credit card details and any other information, when you knowingly provide us with this information. This will generally occur when you either:
 
-  * Visit Online ordering site to place order.
-  * Enter into a competition or promotion.
-  * Participate in a survey.
-  * Subscribe to our mailing list.
-  * Register as a WOW club member.
-  * Apply for a job.
-  * Request information regarding our Franchise system.
-  * Submit website feedback
+  1. Visit Online ordering site to place order.
+  2. Enter into a competition or promotion.
+  3. Participate in a survey.
+  4. Subscribe to our mailing list.
+  5. Register as a WOW club member.
+  6. Apply for a job.
+  7. Request information regarding our Franchise system.
+  8. Submit website feedback
 
 
 
 Where ever Domino's collects personal information about you from someone else, Domino's or the franchisee will take reasonable steps to advise you.
 
 Use and Disclosure
+
+By using this site, you agree to the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use and disclosure of the information in accordance with this Privacy Policy.
 
 Except as otherwise stated, we may use information collected via this site to improve the content of our site, to customize the site to your preferences, to communicate information to you (if you have requested it), and for any other purpose specified.
 
@@ -78,11 +71,11 @@ Third Party Disclosure
 
 Domino's may share statistics and personal information between themselves and with companies that are related to Domino's including our international branches.Personal information that you submit to Domino's may be disclosed to a third party: Such as our suppliers, as mailing houses, who are employed to provide some of our services such; to meet the purpose for which it was submitted.
 
-  * If you have provided your express consent to share the information.
-  * If Domino's are required or authorized by law to disclose the information.
-  * If your personal information is collected in connection with a joint promoter, to that joint promoter for marketing and research purposes.
-  * If Domino's feel you might like to know about a third party's goods and services we may supply that personal information to that third party. (We know that many of our guests enjoy receiving these excellent offers).
-  * Or if you place an order via our internet order system, your details will be passed on to Verisign, who receive your credit card details for internet order payment. Verisign is a secure internet payment gateway that secures your credit card number during transmission. See: www.verisign.com for further details.
+  1. If you have provided your express consent to share the information.
+  2. If Domino's are required or authorized by law to disclose the information.
+  3. If your personal information is collected in connection with a joint promoter, to that joint promoter for marketing and research purposes.
+  4. If Domino's feel you might like to know about a third party's goods and services we may supply that personal information to that third party. (We know that many of our guests enjoy receiving these excellent offers).
+  5. Or if you place an order via our internet order system, your details will be passed on to Verisign, who receive your credit card details for internet order payment. Verisign is a secure internet payment gateway that secures your credit card number during transmission. See: www.verisign.com for further details.
 
 
 
@@ -109,5 +102,3 @@ If this Privacy Policy is changed, the revised policy will be posted on this sit
 Links to other sites
 
 Domino's may provide links
-
-Privacy policy
