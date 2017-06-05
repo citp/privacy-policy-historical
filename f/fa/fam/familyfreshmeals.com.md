@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyfreshmeals.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128091637id_/http%3A//www.familyfreshmeals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyfreshmeals.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606004520id_/http%3A//www.familyfreshmeals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Family Fresh Meals
 
@@ -48,8 +48,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 ## Contacting Me
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact me at:  
-familyfreshmeals@gmail.com
+corey@familyfreshmeals.com
 
-This document was last updated on October 27, 2014
+This document was last updated on October 27, 2016
 
 Privacy policy created by Generate Privacy Policy
