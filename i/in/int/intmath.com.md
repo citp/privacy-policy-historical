@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intmath.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225215152id_/http%3A//www.intmath.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intmath.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005808id_/http%3A//www.intmath.com/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,7 +74,7 @@ IntMath is hosted on WiredTree servers in Chicago, USA. We strictly abide by the
 
 ## Questions or Concerns
 
-Please use the [Comments](https://web.archive.org/web/20161225215152id_/http%3A//www.intmath.com/help/comments.php) facility to raise any concerns you may have about your privacy on Interactive Mathematics.
+Please use the [Comments](https://web.archive.org/web/20170606005808id_/http%3A//www.intmath.com/help/comments.php) facility to raise any concerns you may have about your privacy on Interactive Mathematics.
 
 top 
 
