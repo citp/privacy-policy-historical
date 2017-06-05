@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipchecking.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315225217id_/http%3A//www.ipchecking.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipchecking.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606014045id_/http%3A//www.ipchecking.com/privacy) for the most accurate reproduction.*
 
 # IP Address Lookup, Reverse IP Lookup and RBL Lookup
 
