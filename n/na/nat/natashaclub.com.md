@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natashaclub.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119025148id_/http%3A//www.natashaclub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natashaclub.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606000623id_/http%3A//www.natashaclub.com/privacy.html) for the most accurate reproduction.*
 
 # Natasha Club privacy statement
 
@@ -6,7 +6,7 @@
 
 **Effective Date: 29.06.2012**
 
-Services on the Natasha Club Website ([www.natashaclub.com](http://www.natashaclub.com/)) (the “Website”) are provided by Dot Com Productions LLC(“Us” or We”) **We have created this privacy policy in order to demonstrate our firm commitment to privacy.** This Privacy Policy is designed to answer your questions regarding our privacy policies and principles.  ****
+Services on the Natasha Club Website ([www.natashaclub.com](https://www.natashaclub.com/)) (the “Website”) are provided by Dot Com Productions LLC(“Us” or We”) **We have created this privacy policy in order to demonstrate our firm commitment to privacy.** This Privacy Policy is designed to answer your questions regarding our privacy policies and principles.  ****
 
 **Age of Users**
 
