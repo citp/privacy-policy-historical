@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gstagelove.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210235700id_/http%3A//gslovesme.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gstagelove.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606011600id_/http%3A//www.gslovesme.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Junior Clothing & Plus Size Clothing- Trendy Affordable Fashion | GS-Love
 
