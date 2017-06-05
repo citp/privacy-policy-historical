@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatrightpro.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120213725id_/http%3A//www.eatrightpro.org/resources/about-us/our-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatrightpro.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606010904id_/http%3A//www.eatrightpro.org/resources/about-us/our-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,6 +81,14 @@ The Academy of Nutrition and Dietetics does not approve of this practice and has
 #### Security
 
 These sites have security measures in place to protect the loss, misuse and alteration of the information under our control.
+
+#### Other Uses of Personal Information
+
+The Academy of Nutrition and Dietetics (the Academy) also uses Personal Information, including information provided to us from our Service Providers, to continually assess and improve the products and services we offer. To serve you better, we may combine Personal Information that you give us on our Sites or via phone, email or mail with publicly available information and information we receive from or cross-reference with our marketing partners and others. We use that combined information to enhance and personalize your experience with us, to communicate with you about services and events that may be of interest to you, and for other informational purposes.
+
+Academy provides member/customer names and preferred postal addresses (home or work as specified by each individual member/customer) and access to an email deployment (email addresses are never released) to list renters that may be used only for a one-time use mail/email piece approved by (the Academy). Phone numbers and fax numbers are not made available for rental. Email addresses are not released to any third party except contracted service providers who act on behalf of the Academy. The Academy reserves the right to send email communication to Academy members/ customers via email on behalf of a third party, subject to approval by the Academy. Academy members/ customers have the ability to opt out of such mailings and email communications, resulting in such customer's name and address not being included in mailing list rentals and customer's email address being excluded from third party communication.
+
+If you do not wish to receive screened third party offerings via email or postal mail, please email us at [membership@eatright.org](mailto:membership@eatright.org).
 
 #### Tell Us What You Think
 
