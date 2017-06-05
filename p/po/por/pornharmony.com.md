@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornharmony.com privacy policy that was archived on 2016-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160120025322id_/http%3A//pornharmony.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornharmony.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606001540id_/http%3A//pornharmony.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -8,7 +8,7 @@
 
 **Last Updated: July 10, 2015**
 
-DH Digital Services, Inc. respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the website [www.pornharmony.com](http://www.pornharmony.com/) (“ _ **Website**_ ”) and our practices for collecting, using, keeping, protecting, and disclosing that information. 
+DH Digital Services, Inc. respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the website [pornharmony.com](http://pornharmony.com/) (“ _ **Website**_ ”) and our practices for collecting, using, keeping, protecting, and disclosing that information. 
 
 This policy applies to information we collect:
 
