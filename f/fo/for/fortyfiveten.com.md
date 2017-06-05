@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortyfiveten.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105090336id_/http%3A//fortyfiveten.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortyfiveten.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013757id_/http%3A//fortyfiveten.com/privacy-policy) for the most accurate reproduction.*
 
 # Forty Five Ten | Privacy Policy
 
