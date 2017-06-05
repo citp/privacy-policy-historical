@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the simpleorganiclife.org privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123143928id_/http%3A//www.simpleorganiclife.org/section/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleorganiclife.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606002936id_/http%3A//www.simpleorganiclife.org/st/privacy_policy) for the most accurate reproduction.*
 
 # Simple Organic Life
 
-This privacy policy is your guarantee that any personal information given to [Simpleorganiclife.org](https://web.archive.org/) will remain private. Any personal information gathered will never be sold to any third party for any reason. [Simpleorganiclife.org](https://web.archive.org/) only collects personal information from visitors in order to process requests initiated by the filling out of forms on our site. [Simpleorganiclife.org](https://web.archive.org/) is committed to keeping your personal information private. Please review our privacy policy below for more detailed information. At [Simpleorganiclife.org](https://web.archive.org/), we are committed to protecting your privacy. We promise to keep all the information that you share with us confidential. We use your personal information only to process requests for information; we do not share your information with any third parties. That would be really lame of us, wouldn’t it?
+This privacy policy is your guarantee that any personal information given to [Simpleorganiclife.org](http://www.simpleorganiclife.org/) will remain private. Any personal information gathered will never be sold to any third party for any reason. [Simpleorganiclife.org](http://www.simpleorganiclife.org/) only collects personal information from visitors in order to process requests initiated by the filling out of forms on our site. [Simpleorganiclife.org](http://www.simpleorganiclife.org/) is committed to keeping your personal information private. Please review our privacy policy below for more detailed information. At [Simpleorganiclife.org](http://www.simpleorganiclife.org/), we are committed to protecting your privacy. We promise to keep all the information that you share with us confidential. We use your personal information only to process requests for information; we do not share your information with any third parties. That would be really lame of us, wouldn’t it?
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
@@ -17,3 +17,11 @@ We will protect personal information by reasonable security safeguards against l
 We will make readily available to customers information about our policies and practices relating to the management of personal information.
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+
+tment because of what you’ve read here. 
+
+POPULAR CONTENT
+
+HEALTHY DRINKS
+
+DIET & WEIGHT LOSS
