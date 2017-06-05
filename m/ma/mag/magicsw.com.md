@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicsw.com privacy policy that was archived on 2016-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160918080357id_/http%3A//www.magicsw.com/%3Fp%3D4571) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicsw.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003546id_/http%3A//www.magicsw.com/%3Fp%3D4571) for the most accurate reproduction.*
 
 # Privacy Policy « Magic Software | Digital Learning
 
@@ -8,19 +8,19 @@ This **privacy policy** is applicable to our websites – [www.magicsw.com](http
 
 Click on the links below to access the section you wish to:
 
-#####  **What information is collected?**
+##### **What information is collected?**
 
-#####  **Where do we store this data?**
+##### **Where do we store this data?**
 
-#####  **How do we use the information collected?**
+##### **How do we use the information collected?**
 
-#####  **How do we secure information collected?**
+##### **How do we secure information collected?**
 
-#####  **Can this information be reviewed?**
+##### **Can this information be reviewed?**
 
 #### Data Privacy is important to us and we strive to be transparent in our data collection and use practices
 
-#####  **What information is collected?**
+##### **What information is collected?**
 
 1\. Personal information collected on our website
 
@@ -48,11 +48,11 @@ We may collect information when you interact with our social networking pages or
 
 We provide hosted services to many companies that may sometimes require the collection of information through cookies and other technology to collect analytic data required by the product and to understand our users and their likely interests. No information is collected without consent.
 
-#####  **Where do we store this data?**
+##### **Where do we store this data?**
 
 Information and data files are stored on our servers and the servers of companies we hire to provide services to us. We do not share, sell or lease any kind of information collected to any third parties for their marketing uses.
 
-#####  **How do we use the information collected?**
+##### **How do we use the information collected?**
 
 We use this information to:
 
@@ -70,7 +70,7 @@ In all cases this information is not shared with any third party. It is used by 
 
 If we merge with or are acquired by another company, and if all of our assets are acquired by another company, this information will most likely be one of the assets to be transferred. However, we will not transfer any personal information of our customers until absolutely necessary to provide you with a continuity of service and only when the new owner maintains and provides the same level of data privacy standards as we do. In such cases, we will provide you with notice and an opportunity to opt-out of the transfer of identifiable data.
 
-#####  **How do we secure information collected?**
+##### **How do we secure information collected?**
 
 We understand that the security of your information is vital and have in place strong administrative, technical, and physical security controls and measures to keep data safe and secure. Our privacy practices are designed to provide protection for your personal information, all over the world.
 
@@ -80,10 +80,10 @@ We would like to caution our visitors about phishing attacks, wherein unscrupulo
 
 Magic Software also recognizes the receipt, transmission or distribution of spam emails (unsolicited bulk emails) as a major concern and has taken reasonable measures, to minimize the transmission and effect of spam emails in its computing environment.
 
-#####  **Can this information be reviewed?**
+##### **Can this information be reviewed?**
 
 In some cases and at our discretion this information may be accessed by respective organizations to correct any mistake in that information, and to delete any information we no longer have business reasons for retaining. You can do this by sending us an email.
 
 Magic Software strives to comply with all applicable laws around the globe that are designed to protect your privacy and information, no matter where that information is collected, transferred, or retained. Although legal requirements may vary from country to country, we intend to adhere to the principles set forth in this Privacy Policy even if information is transferred from your country to other countries that may not require an adequate level of protection for your information.
 
-###  **Any concerns? Please contact us at:** [mail@magicsw.com](mailto:mail@magicsw.com)
+### **Any concerns? Please contact us at:** [mail@magicsw.com](mailto:mail@magicsw.com)
