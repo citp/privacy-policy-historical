@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breastcancer.org privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213040910id_/http%3A//www.breastcancer.org/about_us/bco_commitment/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breastcancer.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003612id_/http%3A//www.breastcancer.org/about_us/bco_commitment/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -119,5 +119,9 @@ Breastcancer.org
 Ardmore, PA 19003
 
 [comments@breastcancer.org](mailto:comments@breastcancer.org)
+
+* * *
+
+Was this article helpful? Yes / No
 
 * * *
