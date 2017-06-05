@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeseer.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229035921id_/http%3A//www.homeseer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeseer.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005842id_/http%3A//www.homeseer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - HomeSeer Home Automation Systems
 
@@ -13,6 +13,10 @@ We collect this information primarity through web forms on our site. The informa
 
 HomeSeer uses Google Analytics cookies to collect and analyze visitor data and to serve re-marketing ads on Google's display network. If you do not wish to allow Google Analytics to use your data, you can opt out of this process by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/). 
 
+The HomeSeer MyHS remote access service requires an email address, license ID and password of a user's HomeSeer system. This is information is saved and used only for creating a connection to a user's HomeSeer system. During a connection, the user's local and remote IP address are collected solely for creating the remote connection. This information is not saved and is discarded once a system disconnects from the MyHS service. Passwords are stored encrypted.
+
+Our HomeSeer HS3 systems collect optional information when a system license is registered. This includes name, address, phone # and other information. The user is not required to give this information.
+
  **Part II. Information Usage**.   
 The information collected by HomeSeer Technologies will be used primarily for our own marketing initiatives. Visitors who provide information may receive HomeSeer newsletters, promotions or new product/service announcements.  Out of respect for the privacy of our visitors we present the option to not receive these types of communications.
 
@@ -23,6 +27,10 @@ We may share data with the following third parties: shipping companies (like UPS
 We offer links to other web sites. Please note: When you click on links to other web sites, we encourage you to read their privacy policies. Their standards may differ from ours.
 
 Our web site offers public message boards. Please be advised that information posted in these venues becomes public knowledge.
+
+MyHS remote access information is not shared with any 3rd party and is kept private.
+
+Information gathered when an HS3 system is registered is saved for the sole use of identifying the owner of a purchased license.
 
 If our policy on information collection or uses changes, we will update this online web policy statement to reflect the changes.
 
