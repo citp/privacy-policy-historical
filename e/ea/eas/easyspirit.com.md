@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the easyspirit.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121163957id_/http%3A//www.easyspirit.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyspirit.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606004700id_/http%3A//www.easyspirit.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Comfortable Shoes for Women | Handbags for Women | Easy Spirit
 
-This easyspirit.com website is a service of Nine West Holdings, Inc. for its Easy Spirit brand (“Easy Spirit”).
+This easyspirit.com website is a service of Easy Spirit LLC, a division of Marc Fisher Footwear (“Easy Spirit”).
 
-This Privacy Policy applies to information that may be collected by or on behalf of Easy Spirit, such as in Easy Spirit’s stores, online at easyspirit.com, and through customer service representatives. Our Privacy Policy tells you the types of information we collect, how we use this information, and when we share it with third parties or our affiliated brands and affiliated companies.
+This Privacy Policy applies to information that may be collected by or on behalf of Easy Spirit, such as in an Easy Spirit store, online at easyspirit.com, and through customer service representatives. Our Privacy Policy tells you the types of information we collect, how we use this information, and when we share it with third parties or our affiliated brands and affiliated companies.
 
-The information on this website and our Privacy Policy are subject to change from time to time. We will post at the top of this Privacy Policy the date that modifications were last made, which should alert you to any changes since your last visit to the website. Any material changes to our Privacy Policy and practices will be reflected on this page. Please read and refer to this Privacy Policy from time to time so that you are aware of our current privacy practices. Your continued use of the website after the posted effective date constitutes your agreement to the then revised Privacy Policy. By doing business with Easy Spirit and by accessing and using our website or by providing personal information at one of our store locations, you consent to the collection and use of this information by Easy Spirit as described in this Privacy Policy.
+The information on this website and our Privacy Policy are subject to change from time to time. We will post at the top of this Privacy Policy the date that modifications were last made, which should alert you to any changes since your last visit to the website. Any material changes to our Privacy Policy and practices will be reflected on this page. Please read and refer to this Privacy Policy from time to time so that you are aware of our current privacy practices. Your continued use of the website after the posted effective date constitutes your agreement to the then revised Privacy Policy. By doing business with Easy Spirit and by accessing and using our website or by providing personal information online or at one of the Easy Spirit store locations, you consent to the collection and use of this information by Easy Spirit as described in this Privacy Policy.
+
+.
 
 Easy Spirit may collect and store two types of information: “personal information” and “automatic information.” 
 
@@ -20,11 +22,15 @@ is information that we may collect automatically whenever you interact with this
 
 We may associate automatic information with your personal information. In the event of such association, such automatic information will be considered personal information. 
 
-Easy Spirit collects data that you provide to us in the following ways: (i) on easyspirit.com; (ii) through transactions, email registrations, participation in sweepstakes, contests, quizzes and surveys, or online memberships; (iv) by communicating with our sales associates in our company-owned Easy Spirit stores and outlets; (v) through phone, mail and fax interactions or paper registrations that you submit to Easy Spirit; and (vi) from information collected about you by our affiliated brands and shared with Easy Spirit. For information about Easy Spirit’s affiliated brands, please click here. 
+.
+
+Easy Spirit collects data that you provide to us in the following ways: (i) on easyspirit.com; (ii) through transactions, email registrations, participation in sweepstakes, contests, quizzes and surveys, or online memberships; (iii) by communicating with the sales associates in Easy Spirit stores and outlets; (iv) through phone, mail and fax interactions or paper registrations that you submit to Easy Spirit; and (v) from information collected about you by our affiliated brands or certain other brands and shared with Easy Spirit. For information about Easy Spirit’s affiliated brands and other brands with whom we may share information, please click here. 
 
 Easy Spirit also collects data that we obtain from third parties. We occasionally obtain email addresses of active Easy Spirit store customers who requested emails regarding fashion on other websites. Easy Spirit also may obtain publicly accessible customer demographics and information about you from commercially available databases and sources.
 
 Easy Spirit also collects automatic information through the use of cookies or pixel tags (also known as web beacons). 
+
+.
 
 A “cookie” is a small text file that is sent to your browser from a web server and stored on your computer's hard drive. Among other things, cookies provide a means for us to keep track of your online patterns and preferences. By understanding which areas of the site you visit, cookies allow us to present information, products and services that are of personal interest and make our website more efficient. Some of the ways we may use cookies include enabling your log-in, identifying your shopping carts, tracking where you travel on our websites and what you look at and purchase, and for marketing testing and product recommendations. 
 
@@ -34,7 +40,9 @@ Most browsers are initially set up to accept cookies but allow you to change you
 
 Easy Spirit also uses third party internet analytics firms, such as Adobe Analytics and others, to place cookies and pixel tags on your computer or browser when you visit our website. These third parties collect automatic information to track and analyze usage and volume statistical information regarding your visits to our website, such as what you browsed and purchased, what web page linked you to our site and what traffic is driven by banner ads and e-mails. To learn more about Adobe Analytics and how to opt out, please visit <http://www.adobe.com/privacy/analytics.html#1>. 
 
-We may also collect geolocation data based on your then current location, including that of any mobile devices you may have used to access our website, to provide location-based services. We may also work with third party vendors to use wi-fi networks to analyze the physical traffic patterns of anonymous users of mobile phone or other devices near and in our stores as a means to measuring the effectiveness of our store displays or promotions. 
+We may also collect geolocation data based on your then current location, including that of any mobile devices you may have used to access our website, to provide location-based services. 
+
+.
 
 Easy Spirit may use the information it collects in order to: 
   * Confirm, process and fulfill sales transactions
@@ -53,9 +61,11 @@ Easy Spirit may use the information it collects in order to:
 
 We may use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, [click here](http://dtmc.easyspirit.com/adinfo/choice/prod/?type=fpc&cid=3061&cname=Easy%20Spirit&cmagic=4aa0e9&clogo=3061.png&loc=us&lang=en-us%27,%27_blank%27,%27status=0,toolbar=0,location=0,menubar=0,directories=0,scrollbars=1,width=921,height=758). 
 
-We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services on our website and the websites of others. To learn more, or to opt-out of receiving online display advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/). 
+We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services on our website. Some of these third parties may also use cookies to collect and use anonymous information about your visits to and interactions on our website and other websites for analytical purposes and for delivering online display advertisements on other websites that are directed to products and services that are tailored to your interests. To learn more, or to opt-out of receiving online display advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/). 
 
 We may use geolocation information by automatically detecting the IP addresses of visitors on our website from international jurisdictions in order to customize their visit to our website and display international currency pricing. 
+
+.
 
 Unfortunately, no data transmission over the Internet can be unconditionally guaranteed to be secure. Therefore, any information you transmit to us is sent at your own risk.
 
@@ -63,51 +73,73 @@ However, when you place an order online, we use encryption technology, such as S
 
 In addition, when you create an online account on easyspirit.com, you must select a personal password. As a member of Easy Spirit’s website, you will be able to view, among other things, your account profile, contact preferences, order history and address book. We store this type of information so that you do not have to reenter it each time you make a purchase or visit the website. Should you decide to become a member of Easy Spirit’s website, you will be asked to provide an accurate email address and create a password. In order to help protect your personal information, you should be careful about maintaining the secrecy of your password and any username associated with your account. 
 
-Nine West Holdings, Inc. maintains a single database of customer information for several brands owned by or licensed to the Nine West Holdings, Inc. family of companies. In addition to Easy Spirit, these brands include Nine West, Bandolino and Anne Klein. Nine West Holdings, Inc. (including through its affiliates and predecessor companies) also has provided marketing, retail store or e-commerce services to other companies, which has included operating certain retail outlet stores under the Jones New York and Kasper brands. Customer information that has been collected at those stores while operated by Nine West Holdings, Inc. is maintained in the shared database. When you establish or update your customer profile information with the Nine West, Easy Spirit, Anne Klein and Kasper brands, whether through a purchase, registration or email sign-up at a company-owned or operated website, specialty store or outlet store for one of these brands, or through a customer service representative, or in other communications you may have with us, we will update your customer record on the Nine West Holdings, Inc. database.
+.
+
+Easy Spirit maintains a database of customer information collected by Easy Spirit. The database is maintained and operated by third party service providers and also houses customer information collected by certain other brands. In addition to Easy Spirit, these brands include Nine West, Bandolino, Anne Klein and Kasper. When you establish or update your customer profile information with Easy Spirit, whether through a purchase, registration or email sign-up at the Easy Spirit website, at an Easy Spirit store, or through a customer service representative, or in other communications you may have with Easy Spirit, your name and address on the database will be shared with and updated for any of the brands on the shared database for which you have established a customer profile. 
 
 All of the information that Easy Spirit collects may be shared with the Nine West, Bandolino, Anne Klein and Kasper brands and with other affiliated brands of Nine West Holdings, Inc., including Enzo Angiolini, Joan & David, Pappagallo, lonna & lilly, Napier, Judith Jack, Gloria Vanderbilt, L.e.i. and Energie, among others.
 
-We may disclose personal information about you to third parties who provide services to us. These third parties may use the information in connection with the services they provide to us, such as hosting our website, assisting us in fulfilling your transactions and customer service inquiries, and managing and updating your customer information, or to improve their services generally. We may also share your information with third parties to assist us in managing our sites, understanding and optimizing the performance and functionality of the site, or so they can market and advertise their products and services to you that may be of interest to you. 
+We may disclose personal information about you to third parties who provide services to us. These third parties may use the information in connection with the services they provide to us, such as hosting our website, assisting us in fulfilling your transactions and customer service inquiries, and managing and updating your customer information, or to improve their services generally. We may also share your information with third parties to assist us in managing our sites, understanding and optimizing the performance and functionality of the site, or so they can market and advertise to you our products and services or others that they believe may be of interest to you. 
 
-We may share your information (such as your name, email address, mailing address and transactional history with us) with third parties by participating or joining a shared membership or cooperative database. In such a case, other third party members in the membership or cooperative database may use your information to market and promote their products and services to you. If you prefer not to have your personal information shared with these cooperative or membership databases for their own marketing purposes, please contact us as indicated in this Privacy Policy below under the heading “Contact Information”. 
+We may share your information (such as your name, email address, mailing address and transactional history with us) with third parties by participating or joining a shared membership or cooperative database. In such a case, other third party members in the membership or cooperative database may use your information to market and promote their products and services to you. If you prefer not to have your personal information shared with these cooperative or membership databases for their own marketing purposes, please contact us as indicated in this Privacy Policy below under the heading “How do I contact Easy Spirit?”. 
 
 We may also use and/or disclose to others information about your demographics and use of our website in a manner that does not reveal your identity. We also may match and use information collected from you at our website with information obtained collected from other sources or third parties. 
 
-From time to time, we may partner with one or more co-sponsor(s) to conduct a contest, sweepstakes or other promotional event. In those situations, each of the participating co-sponsor(s) and the websites of each participating co-sponsor(s) may collect or receive personal information from you and will have the right to use your personal information in accordance with their own respective privacy policies. 
+From time to time, we may partner with one or more co-sponsor(s) to conduct a contest, sweepstakes or other promotional event. In those situations, each of the participating co-sponsor(s) and the websites of each participating co-sponsor(s) may collect or receive personal information from you and will have the right to use your personal information in accordance with their own respective privacy policies 
 
 We may disclose personal information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may have breached our [Terms and Conditions of Use](http://www.easyspirit.com/on/demandware.store/Sites-easyspirit-Site/default/Link-PageByDate?cid=TERMS) or who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other users of our website, or anyone else who could be harmed by such activities. 
 
 We may also disclose personal information when we reasonably believe that the law requires it. We might sell or buy subsidiaries, or business units. In such transactions, personally identifiable information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing privacy policy unless subsequent consent otherwise has been obtained from you. Also, in the event that assets of Easy Spirit are sold, personal information collected through this website or other means may be one of the transferred assets. Accordingly, we reserve the right to assign our rights and duties under this Privacy Policy to any third party at any time without notice to you, and such assignment rights shall include the ability to make an assignment in connection with any sale, merger, acquisition, divestiture or liquidation of all or part of our business or assets related to the website, all or substantially all of our other business or assets, or as part of any reorganization or restructuring of our business or assets. 
 
+.
+
 You may access and edit the information that you provide online by signing in at easyspirit.com. Simply click on the "Sign In" link from the home page and enter your email address and password to access your information. You can request password help at any time by clicking on the "I don’t have/know my password?" link at which time easyspirit.com will email your password to the associated email address. Currently, we do not provide online access to information that you provided to Easy Spirit offline. But at any time you may request access to your information from our customer service representatives. 
+
+.
 
 Yes. Easy Spirit honors requests to [unsubscribe](http://www.easyspirit.com/UNSUBSCRIBE/UNSUB_PRIVACY,default,pg.html) from receipt of emails, not only for promotional emails that Easy Spirit sends, but also for emails about Easy Spirit that we permit other companies to send to their own list of subscribers. Please note that you may continue to receive emails from Easy Spirit until such requests become effective. 
 
-We do not currently respond to signals we may receive from web browsers or other mechanisms asking that our website or related properties not track you and your behavior on our website and such properties. Please review this Privacy Policy for more information about ways to disable or opt out of certain cookies. You may also contact us as indicated in this Privacy Policy under the heading “Contact Information”. 
+.
+
+We do not currently respond to signals we may receive from web browsers or other mechanisms asking that our website or related properties not track you and your behavior on our website and such properties. Please review this Privacy Policy for more information about ways to disable or opt out of certain cookies. You may also contact us as indicated in this Privacy Policy under the heading ““How do I contact Easy Spirit?””. 
+
+.
 
 While this site is a general audience website, we do not intentionally collect personally identifiable information from children under the age of thirteen (13). If we become aware that we have collected personally identifiable information from a user of the site who is under the age of thirteen (13), we will remove that child's personal information from our files. 
+
+.
 
 While you are using this website, you may be linked or directed to other third party sites outside of the website that are beyond our control. Each of these third parties may have a privacy policy different from ours. For example, you might click on a link or banner ad or place orders for delivery outside the United States (see “International” below”) that will take you off the website. These links and banners may take you to sites of advertisers, sponsors and co-branding partners. 
 
 Please review the privacy policies of these sites. We are not responsible for any actions or policies of such third parties. For more information, please read our [Terms of Use and Conditions of Service](http://www.easyspirit.com/on/demandware.store/Sites-easyspirit-Site/default/Link-PageByDate?cid=TERMS). 
 
+.
+
 You may also seek to place an order on our site for shipment to a country outside the United States. When you click on our international shipping menu, select another country and indicate you would like to have an order shipped to that country, you will be redirected to a checkout page hosted by a third party (Borderfree, Inc.) with whom we have partnered to process and fulfill such orders internationally. Borderfree will present you with its terms and conditions and process your personal information under its own privacy policy. Once you place your order, you will be prompted to confirm whether you would like to receive marketing and other communications from Easy Spirit. If you agree that Borderfree may share your data with Easy Spirit, we will handle and use your information to supply you with such communications and as otherwise allowed in this Privacy Policy. 
 
 This easyspirit.com website at present is hosted on servers located in the United States, although we reserve the right to host the website on servers located in other countries. By using this website, you consent to the personal information collected by us being transferred to, and being stored and handled in, countries (including the United States) that may be outside of your country of residence and which may have different data protection rules than in your country of residence. 
 
-Easy Spirit customers living in the State of California may request and obtain once a year, free of charge, information regarding our disclosure of personal information to third parties for their direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information shared and the names and addresses of those third parties with which we shared your information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please contact using the contact information indicated below in this Privacy Policy. 
+.
 
-If you are a user under 18 years of age and reside in California, you may request and obtain removal of, content or information that you have posted on the website. You may send us any such requests by one of the methods noted below under “Contact Information”. We will review the request and respond promptly. You should be aware that a request to remove content or information posted by you on the website does not ensure or require complete or comprehensive removal of such content or information from our databases. 
+.
+
+Easy Spirit customers living in the State of California may request and obtain once a year, free of charge, information regarding our disclosure of personal information to third parties for their direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information shared and the names and addresses of those third parties with which we shared your information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please contact us using the contact information indicated below in this Privacy Policy. 
+
+.
+
+If you are a user under 18 years of age and reside in California, you may request and obtain removal of, content or information that you have posted on the website. You may send us any such requests by one of the methods noted below under “How do I contact Easy Spirit?” We will review the request and respond promptly. You should be aware that a request to remove content or information posted by you on the website does not ensure or require complete or comprehensive removal of such content or information from our databases. 
+
+.
 
 We welcome your comments regarding this Privacy Policy. Please send any comments to: 
 
 Write to us at:  
 Easy Spirit Customer Relations - Privacy Policy  
-1411 Broadway, 20th Floor  
+1411 Broadway, 22th Floor  
 New York, NY 10018
 
 Email us at:  
 [customer_relations@easyspirit.com](mailto:customer_relations@easyspirit.com)
 
 Call us by phone at:  
-1-800-999-1877 (between 9am – 10pm EST) 
+1-888-327-9772 (between 9am – 10pm EST) 
