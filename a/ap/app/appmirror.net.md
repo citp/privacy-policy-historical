@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appmirror.net privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110142054id_/http%3A//appmirror.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appmirror.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015416id_/http%3A//appmirror.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
