@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenextdigit.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027062659id_/http%3A//thenextdigit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenextdigit.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015606id_/http%3A//thenextdigit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TND
 
@@ -47,3 +47,6 @@ Readers, visitors and returning visitors can address us questions, can make sugg
 ### **Sole Statement**
 
 The terms of our Privacy Policy as presented on our website, is our sole statement of privacy policy. For that matter, we will not consider other versions, except for the revisited Privacy Policies that we post on our website. Members are not allowed to make changes in our Privacy Policy without having the prior consent of our editorial group.
+
+  
+
