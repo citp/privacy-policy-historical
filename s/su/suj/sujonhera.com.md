@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the sujonhera.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224700id_/http%3A//sujonhera.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sujonhera.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003423id_/http%3A//sujonhera.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-__Last Updated: January 20, 2015 at 10:04 pm
-
-__1236 Views
-
- **Personal Data collected for the following purposes and using the following services:**
+**Personal Data collected for the following purposes and using the following services:**
 
 Analytics:
 
