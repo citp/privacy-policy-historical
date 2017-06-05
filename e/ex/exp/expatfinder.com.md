@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the expatfinder.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205130328id_/http%3A//www.expatfinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatfinder.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606001010id_/http%3A//www.expatfinder.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
-  1. [Home](https://web.archive.org/)
+  * [Home](https://web.archive.org/)
 
 
 
@@ -45,3 +45,8 @@ If you have questions or suggestions email us at [contact@expatfinder.com](mailt
 
 ### Purchase your relocation   
 City Guide Now
+
+### International School Fee Survey 2016   
+
+
+##### As seen on:
