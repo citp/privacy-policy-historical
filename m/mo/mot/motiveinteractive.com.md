@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the motiveinteractive.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203082820id_/http%3A//motiveinteractive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motiveinteractive.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606011854id_/http%3A//motiveinteractive.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Motive Interactive Website Privacy Policy
 
 * * *
-
-**Last Updated: 2-6-2013**
 
 Thank you for your interest in Motive Interactive, Inc. (referred to herein as “Motive Interactive,” “we” or “us”) and our website located at http://new.motiveinteractive.com (the “Site”). We are pleased to provide this privacy policy to inform you of our practices with respect to how we collect and use Personal Information (defined below) about visitors to the Site. By using this Site, you consent to the following terms. 
 
@@ -31,7 +29,15 @@ Motive Interactive uses certain third party vendors (e.g., data storage and proc
 
 ### How to Opt-Out
 
-If you do not wish your information shared with third parties by Motive Interactive for marketing purposes, you may opt-out of such disclosure by notifying Motive Interactive using the contact information provided below. Upon opting-out, Motive Interactive will not make further disclosures of your Personal Information to third parties for marketing purposes. Please allow up to seven (7) business days to be completely opted-out from such use. Keep in mind that if you take advantage of an offer from a Motive Interactive business partner, they may independently wish to send offers to you. In the event that you wish to opt-out of receiving future offers from these third parties, you must contact them directly to make such a request. 
+     If you do not wish your information shared with third parties by Motive Interactive for marketing purposes, you may opt-out of such disclosure by notifying Motive Interactive using the contact information provided below. Upon opting-out, Motive Interactive will not make further disclosures of your Personal Information to third parties for marketing purposes. Please allow up to seven (7) business days to be completely opted-out from such use. Keep in mind that if you take advantage of an offer from a Motive Interactive business partner, they may independently wish to send offers to you. In the event that you wish to opt-out of receiving future offers from these third parties, you must contact them directly to make such a request. 
+  
+     Should you wish to opt out of seeing personalized ads, please follow the links below for general instructions on how you can reset your Adertising IDs (AAID/IDFA) for both Android and iOS devices. 
+  
+     Mobile In-App Opt Out (Android)  
+[Google Support](https://support.google.com/ads/answer/2662922?hl=en)
+  
+     Mobile In-App Opt Out (iOS)  
+[Apple Support](https://support.apple.com/en-us/HT205223)
 
 ### How You Can Change, Correct and Update Your Information
 
