@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iqtest.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119035250id_/http%3A//www.iqtest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iqtest.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606011656id_/http%3A//www.iqtest.com/privacy.html) for the most accurate reproduction.*
 
 # IQTest.com
 
