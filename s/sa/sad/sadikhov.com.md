@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sadikhov.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108085950id_/http%3A//www.sadikhov.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sadikhov.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606010806id_/http%3A//www.sadikhov.com/privacypolicy.php) for the most accurate reproduction.*
 
 # IT Certification Forum on Sadikhov.com, Certification Exams, MCITP, MCTS, CCNA, CCNP, CCIE
 
