@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ourisa.com privacy policy that was archived on 2016-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160827015125id_/http%3A//www.ourisa.com/Privacy-Policy-i158.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourisa.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015257id_/http%3A//www.ourisa.com/Privacy-Policy-i158.html) for the most accurate reproduction.*
 
 # Privacy Policy - Wholesale Lingerie,Sexy Clothes,Dresses,Jewelry,China Lingerie Supplier
 
 [Home](https://web.archive.org/) > Privacy Policy
 
- Moonosa.com is committed to protecting our site visitors & customers privacy. Information about customers will not be disclosed to any third parties accept to fulfill the delivery of goods to you, customer research, carrying out credit & security checks and where necessary to process debit or credit card payments. By placing an order with us you consent to us collecting and using personal data about you as specified below in accordance with this policy statement. Any changes made to these terms will be posted here so that you are always kept informed about the collection and use of your personal information. 
+ Ourisa.com is committed to protecting our site visitors & customers privacy. Information about customers will not be disclosed to any third parties accept to fulfill the delivery of goods to you, customer research, carrying out credit & security checks and where necessary to process debit or credit card payments. By placing an order with us you consent to us collecting and using personal data about you as specified below in accordance with this policy statement. Any changes made to these terms will be posted here so that you are always kept informed about the collection and use of your personal information. 
 
 Secure Socket Layer (SSL), to process securely online credit card transaction. Your payment details is encrypted and cannot be read as it travels over the internet. Credit card numbers are not held in clear text within our web site.
 
