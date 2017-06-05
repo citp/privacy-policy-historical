@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcnaija.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121005736id_/http%3A//fcnaija.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcnaija.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606001541id_/http%3A//fcnaija.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FCnaija Pages
 
@@ -7,7 +7,7 @@ FCNAIJA PAGES
 * * *
 
 * __Sun, November 08 , 2015
-* __394 views
+* __595 views
 
 **Share:**
 
