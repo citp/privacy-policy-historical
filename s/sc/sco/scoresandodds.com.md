@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the scoresandodds.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118221556id_/http%3A//www.scoresandodds.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoresandodds.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015443id_/http%3A//www.scoresandodds.com/privacy.php) for the most accurate reproduction.*
 
 # Free sports betting trends and statistical analysis at ScoresAndOdds.com
 
 [Refresh]()  
 
-  Page last updated on Fri Nov 18 16:55:58 EST 2016
+  Page last updated on Mon Jun 05 21:43:11 EDT 2017
 
 ScoresAndOdds.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.ScoresAndOdds.com 
 
