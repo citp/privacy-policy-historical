@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingsocial.com.au privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219215825id_/http%3A//livingsocial.com.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingsocial.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003444id_/http%3A//livingsocial.com.au/info/privacy-policy) for the most accurate reproduction.*
 
 # LivingSocial - Privacy Policy
 
@@ -243,9 +243,8 @@ Livingsocial may, in its sole discretion, update this Privacy Policy at any time
 
 If you have any questions about this privacy policy, any privacy related dealings with us or a possible breach of your privacy or would like further information about our information management practices, you can contact the Chief Operating Officer of Livingsocial, care of the following details:
 
-Chief Operating Officer  
+Privacy Officer  
 Livingsocial  
-Level 1  
-259 Coventry Street  
+Level 1, 50-56 York St  
 South Melbourne, VIC 3205  
 Email: [customersupport@livingsocial.com.au](mailto:customersupport@livingsocial.com.au)
