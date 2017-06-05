@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynewsla.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202221532id_/http%3A//mynewsla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynewsla.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606001744id_/http%3A//mynewsla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MyNewsLA.com
 
@@ -31,3 +31,5 @@ _Special Note to Parents:_ We encourage you to get involved with your childrenâ€
 We often update and develop new services, features, activities and content from time to time and will need to change our privacy policy accordingly. We will provide notice via postings on our website, and we will also post the date when the privacy policy was last updated and effective. Your continued use of our website constitutes your acceptance of any changes in our privacy policy, except where further steps are required by applicable law.
 
 _Updated and effective February 1, 2015_
+
+Privacy Policy was last modified:  February 1st, 2015 by 
