@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralnetworks.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124131654id_/http%3A//viralnetworks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralnetworks.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005856id_/https%3A//viralnetworks.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -42,7 +42,7 @@ When you visit a website of Add2it.com Marketing Pty Ltd, we may collect the fol
 
 **Email Usage**
 
-While we take care that the personal information you give us on our websites is protected, the Internet is not a secure environment. If you send us information, including your email address, it is sent at your own risk. Our websites do not capture email addresses without your permission. If, however, you provide your email address to us, it may be used by Add2it.com Marketing Pty Ltd to send you information relating to our and related products and services. If we send you an email which you do not wish to receive in the future, please use the unsubscribe link or follow the unsubscribe instructions at the bottom of that email or [notify us](http://reply2frank.com/) and your email address will be removed from our system.
+While we take care that the personal information you give us on our websites is protected, the Internet is not a secure environment. If you send us information, including your email address, it is sent at your own risk. Our websites do not capture email addresses without your permission. If, however, you provide your email address to us, it may be used by Add2it.com Marketing Pty Ltd to send you information relating to our and related products and services. If we send you an email which you do not wish to receive in the future, please use the unsubscribe link or follow the unsubscribe instructions at the bottom of that email or [notify us](https://reply2frank.com/) and your email address will be removed from our system.
 
 **Private Information Security**
 
@@ -62,7 +62,7 @@ P.O. Box 620
 Sydney NSW 2001  
 Australia  
 Phone: +61-2-8005-8475  
-Support: [http://Reply2Frank.com](http://reply2frank.com/)
+Support: [Reply2Frank.com](https://reply2frank.com/)
 
 **Changes to this privacy statement**
 
