@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsc.org privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114064227id_/http%3A//www.rsc.org/help-legal/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsc.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606001408id_/http%3A//www.rsc.org/help-legal/legal/privacy) for the most accurate reproduction.*
 
 # Privacy & cookies
 
@@ -20,7 +20,7 @@ Your privacy is very important to us, which is why we make sure you are always i
 
 ## Our simple promise
 
-  * We will never pass your personal details to anyone outside The Royal Society of Chemistry for them to use for their own marketing purposes.
+  * We will never pass your personal details to anyone outside The Royal Society of Chemistry for them to use for their own marketing purposes unless you have previously provided us with your informed and specific consent.
   * We will ensure that we obtain your express consent before we contact you by any method for any purpose.
   * We will make sure our contact with you is relevant, based upon the preference information you give us.
   * You can change your contact preferences at any time. All you need to do is update your preferences by contacting us at marketing@rsc.org. But remember, you may miss out on important news and developments in the chemical sciences.
@@ -719,9 +719,15 @@ You can request that your personal data is transferred directly to another ‘da
 
 * * *
 
+## Right to request a correction
+
+You can request that we correct or update your personal data at any time to ensure that your information is accurate and up-to-date.
+
+* * *
+
 ## Right to be forgotten
 
-We may be required to archive your personal information, however you have the right to request that we delete your personal information in certain circumstances, ie where the purpose for collecting your personal information no longer exists and we are not obligated to retain all or any part of your personal information for legal reasons.
+We may be required to archive your personal information however, we will not retain personal data for longer than is necessary for the purpose we obtained it and only in accordance with our Document Retention Policy.  You have the right to request that we delete your personal information in certain circumstances, ie where the purpose for collecting your personal information no longer exists and we are not obligated to retain all or any part of your personal information for legal reasons.
 
 * * *
 
