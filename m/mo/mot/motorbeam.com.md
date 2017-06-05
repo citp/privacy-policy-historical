@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorbeam.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413224542id_/http%3A//www.motorbeam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorbeam.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605104548id_/https%3A//www.motorbeam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MotorBeam
 
@@ -23,4 +23,4 @@ The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of MotorBeam.com then you may contact us at webmaster@motorbeam.com
 
-Last updated Mon, 28 Dec 2013 18:45
+Last updated Monday, 9th January 2017 18:45
