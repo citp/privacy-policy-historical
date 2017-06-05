@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the johnpye.co.uk privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606194940id_/http%3A//www.johnpye.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnpye.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015243id_/http%3A//www.johnpye.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - John Pye Auctions
 
 **Introduction**
 
-This policy (together with the Terms of Website Use [www.johnpye.co.uk/website-conditions/](http://www.johnpye.co.uk/website-conditions/) and any other documents referred to on it) sets out the basis on which any data John Pye & Sons Ltd (“we” or “us”) collect from you, or  that you provide to us, will be processed by us, referred to in this policy as your “Data”.  We are committed to safeguarding the privacy of our users and the following policy shows the practices in place regarding your Data and how we treat it. Please read the following carefully. By visiting our website [www.johnpye.co.uk](http://www.johnpye.co.uk/) (“the Site”) you are accepting and consenting to the practices described in this policy.
+This policy (together with the Terms of Website Use [www.johnpye.co.uk/website-conditions/](http://www.johnpye.co.uk/website-conditions/) and any other documents referred to on it) sets out the basis on which any data John Pye & Sons Ltd (“we” or “us”) collect from you, or that you provide to us, will be processed by us, referred to in this policy as your “Data”. We are committed to safeguarding the privacy of our users and the following policy shows the practices in place regarding your Data and how we treat it. Please read the following carefully. By visiting our website [www.johnpye.co.uk](http://www.johnpye.co.uk/) (“the Site”) you are accepting and consenting to the practices described in this policy.
 
 **Information We may collect from you**
 
@@ -48,7 +48,7 @@ We may use your Data and information in the following ways:
 
 We may disclose your information to business partners and to third party suppliers we engage to provide services which involve processing data on our behalf, successors in title to our business or in accordance with a properly executed court order or otherwise required to do so by law.
 
-We may also use your Data, or permit selected third parties to use your Data, to provide you with information about other goods and services which may be of interest to you and we or they may contact you about these.  If you do not want us to use your Data in this way, or to pass your details on to third parties for marketing purposes, then please let us know when we collect your Data.
+We may also use your Data, or permit selected third parties to use your Data, to provide you with information about other goods and services which may be of interest to you and we or they may contact you about these. If you do not want us to use your Data in this way, or to pass your details on to third parties for marketing purposes, then please let us know when we collect your Data.
 
 We will retain your Data for a reasonable period or for as long as is required by law.
 
@@ -68,7 +68,7 @@ Our Site may, from time to time, contain links to and from the websites of our p
 
 **Access to Information**
 
-You have the right to access information held about you. Your right of access can be exercised in accordance with the Data Protection Act 1998.  Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+You have the right to access information held about you. Your right of access can be exercised in accordance with the Data Protection Act 1998. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
 **Changes to our Privacy Policy**
 
@@ -76,4 +76,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 **Contact**
 
-Questions, comments and requests regarding this privacy policy should be addressed to: privacy@johnpye.co.uk.
+Questions, comments and requests regarding this privacy policy should be addressed to: privacy@johnpye.co.uk.
