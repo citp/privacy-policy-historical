@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tampaelectric.com privacy policy that was archived on 2013-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130113173003id_/http%3A//www.tecoenergy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tampaelectric.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605201148id_/http%3A//www.tecoenergy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement - TECO Energy
 
