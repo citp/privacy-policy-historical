@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addgene.org privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608142455id_/http%3A//www.addgene.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addgene.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012720id_/http%3A//www.addgene.org/privacy) for the most accurate reproduction.*
 
 # Addgene: Privacy Policy
 
@@ -10,8 +10,22 @@ Addgene, Inc. values your trust and understands your concerns of how your inform
 
 We collect and store any personal information that you provide us through our website, communications, or certain other ways. Personal Information means any information that may be used to identify an individual, including, but not limited to, name, address, phone number, e-mail address, credit card number and expiration date, and other personally identifiable information.
 
-Additionally, some of our web pages automatically collect non-personally identifiable information and track website usage, which we may occasionally aggregate with similar information from other visitors. Such information may include Internet domain and host names; Internet protocol ("IP") addresses; browser software and operating system types; dates and times; frequency and length of page visits; and site navigation. This information helps us evaluate our visitors' experiences and improve our website.
+## Use of Cookies
 
+Additionally, some of our web pages automatically collect non-personally identifiable information and track website usage, which we may occasionally aggregate with similar information from other visitors. Such information may include Internet domain and host names; Internet protocol (“IP”) addresses; browser software and operating system types; dates and times; frequency and length of page visits; and site navigation. This information helps us evaluate our visitors’ experiences and improve our website. These collection tools are generally referred to as “cookies”, which can be assigned to specific users. However, for clarity, cookies alone cannot be used to identify any specific user. If you are logged into your Addgene account, a cookie will identify your computer to our server but not you personally. Unless you specifically tell us who you are, a cookie will not identify you to us. Upon visiting our web pages for the first time and every year (365 days) thereafter, you will be asked to consent to our use of cookies. Addgene shall not be responsible for users that intentionally bypass this consent and make continued use of Addgene Sites. You are free to remove these cookies at any time by deleting them in your browser as applicable. Please see your applicable browser’s instructions. 
+
+For more information about our cookies, please refer to the table below:
+
+Cookie Name | Purpose  
+---|---  
+Django (addgene-messages) | Addgene - Used to track which dismissible Addgene messages have already been dismissed  
+Django (csrftoken) | Addgene - Used as a security measure in forms processing  
+Django (django_language) | Addgene - Used to identify the language in which the Addgene website is presented  
+Django (addgene) | Addgene - Used to identify the logged in user account  
+CloudFlare (__cfduid) | 3rd party - This cookie is set by our CloudFlare service, which we use to protect our website from security threats. [ More information about Cloudflare](https://support.cloudflare.com/entries/22437336-What-does-the-CloudFlare-cfduid-cookie-do-)  
+Google Analytics (__ga) | 3rd party - This is used to evaluate our visitors' experiences so that we can make improvements to our website. [ More information about Google Analytics](https://support.google.com/analytics/answer/6004245)  
+Hubspot (__hs) | 3rd party - This is used to evaluate our visitors' experiences so that we can make improvements to our website. [ More information about Hubspot](https://knowledge.hubspot.com/articles/kcs_article/account/hubspot-cookie-security-and-privacy)  
+  
 ## Communications from the Site
 
 We collect personal information so we can communicate with you as described below. However, you may opt-out of or unsubscribe to these communications. Please see our Choice/Opt-out section below.
@@ -32,13 +46,13 @@ _Institutions/Employers._ We typically receive plasmids from academic and resear
 
 _Shipping and Billing._ We use an outside shipping company to ship orders and a credit card processing company to bill customers for goods and services. These companies should not be retaining, sharing, storing or using personally identifiable information for any secondary purposes.
 
-_Third Party Services._ We may, from time to time, also allow other companies and individuals to perform functions on our behalf. This may include analyzing customer lists and data and providing marketing assistance. Any access to personal information will be limited to the extent needed to perform the employed function. The information will not be used for any other purpose, and we will take reasonable steps to ensure that third party service providers are obligated to protect any disclosed personal information on our behalf.
+_Third Party Services._ We may, from time to time, also allow other companies and individuals to perform functions on our behalf. This may include distributing and facilitating material shipments, analyzing customer lists and data, and providing marketing assistance. We may also engage third party service providers for the purposes of website hosting, optimization and maintenance. These service providers may make use of cookies or other technologies to collect information about you and your browsing and other usage activities over time. Any access to personal information will be limited to the extent needed to perform the employed function. The information will not be used for any other purpose, and we will take reasonable steps to ensure that third party service providers are obligated to protect any disclosed personal information on our behalf.
 
 _Business Transitions._ In the event of a business transition, such as a merger, being acquired by another company, consolidation, change in control, reorganization, liquidation or selling a portion of our assets, we may transfer, sell or assign information concerning your use of this site, including without limitation, your personal information that you provide and other information concerning your use of the site, to such acquiring company. You will be notified via email and prominent notice on our site for thirty (30) days prior to a change of ownership or control of your personal information. If as a result of the business transition, your personally identifiable information will be used in a manner different from that stated at the time of collection, you will be given choice consistent with our Notification of Changes section below.
 
 ## Choice/Opt-out
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving these communications by replying to "unsubscribe" in the subject line in the email or contacting the Customer Care Team at the contact information below in the manner most convenient for you.
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving these communications by replying to "unsubscribe" in the subject line in the email or contacting the Customer Support Team at the contact information below in the manner most convenient for you.
 
 ## Consent
 
@@ -68,7 +82,4 @@ If, however, we were going to use your personally identifiable information in a 
 
 If you have any questions or concerns, please [contact us](https://web.archive.org/contact/).
 
-  
-
-
-_**Last modified: May 23, 2013**_
+_**Last modified: January 23rd, 2017**_
