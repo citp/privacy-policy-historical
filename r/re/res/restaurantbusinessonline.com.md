@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the restaurantbusinessonline.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130170856id_/http%3A//www.restaurantbusinessonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restaurantbusinessonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003756id_/http%3A//www.restaurantbusinessonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Restauant Business Magazine | Restaurant Business
+# Privacy Policy - Restauant Business Magazine
 
 ## Your Privacy Rights
 
@@ -86,7 +86,7 @@ For purposes of California residents, this Privacy Policy pertains to all inform
 
 #### Non-U.S. Residents
 
-If you do not reside in the U.S. and are visiting our Site, and you provide Personal Information to us, it may be transferred to and processed on computers in the U.S. and other countries.  Do not provide your Personal Information to us if you do not want this information to be transferred outside of your country, or if the laws in your country restrict these types of transfers.  Instead, please contact us at [cspinquire@cspnet.com](mailto:cspinquire@cspnet.com?subject=Non-US%20Resident%20Privacy%20Policy%20inquiry) to make your inquiry.  Your provision of Personal Information to us will be handled in accordance with this Privacy Policy. Your provision of Personal Information to us through this Site means that you agree to the terms of this Privacy Policy.
+If you do not reside in the U.S. and are visiting our Site, and you provide Personal Information to us, it may be transferred to and processed on computers in the U.S. and other countries.  Do not provide your Personal Information to us if you do not want this information to be transferred outside of your country, or if the laws in your country restrict these types of transfers.  Instead, please contact us at [inquire@winsightmedia.com](mailto:inquire@winsightmedia.com?subject=Non-US%20Resident%20Privacy%20Policy%20inquiry) to make your inquiry.  Your provision of Personal Information to us will be handled in accordance with this Privacy Policy. Your provision of Personal Information to us through this Site means that you agree to the terms of this Privacy Policy.
 
 #### Compliance with Laws
 
@@ -94,11 +94,11 @@ We reserve the right to disclose any Personal Information or Usage Data to compl
 
 ## How to Contact Us
 
-Should you have any questions or concerns regarding these privacy policies, please call us at 630-574-5075 or send us an email at [cspinquire@cspnet.com](mailto:cspinquire@cspnet.com). This e-mail address is being protected from spam. You need JavaScript enabled to view it.
+Should you have any questions or concerns regarding these privacy policies, please call us at (312) 876-0004 or send us an email at [inquire@winsightmedia.com](mailto:inquire@winsightmedia.com). This e-mail address is being protected from spam. You need JavaScript enabled to view it.
 
  **Winsight, LLC**  
-1 Tower Lane, Suite 2000,  
-Oakbrook Terrace, IL 60181
+300 S. Riverside Plaza, Suite 1600  
+Chicago, IL 60606
 
-Phone: 630-574-5075  
-Fax: 630-574-5175
+Phone: (312) 876-0004  
+Fax: (312) 876-1158
