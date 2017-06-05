@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lancasteronline.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023205823id_/http%3A//steinmancommunications.com/your-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lancasteronline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003644id_/http%3A//steinmancommunications.com/your-privacy-rights) for the most accurate reproduction.*
 
 # Your Privacy Rights - Steinman Communications
 
@@ -7,8 +7,6 @@ Steinman Communications is an innovative multi-channel communications group that
 [](https://web.archive.org/lnp-media-group-inc)
 
 [](https://web.archive.org/lnp) [](https://web.archive.org/lancasteronline)
-
-[](https://web.archive.org/steinman-marketing-solutions/)
 
 [](https://web.archive.org/lancaster-farming) [](https://web.archive.org/the-ephrata-review) [](https://web.archive.org/the-lititz-record-express)
 
@@ -19,8 +17,6 @@ Steinman Communications is an innovative multi-channel communications group that
 [](https://web.archive.org/the-pressroom)
 
 [](https://web.archive.org/delmarva-broadcasting-company) [](https://web.archive.org/dbc-interactive)
-
-[](https://web.archive.org/intelligencer)
 
 [](https://web.archive.org/the-steinman-foundation)
 
@@ -148,6 +144,10 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 If you have questions about this privacy policy, or if you would like to correct or update your personal information, or remove it from our data base, you may contact us as follows:
 
+**Delmarva Broadcasting Network**  
+(302) 478-2700  
+[privacy@dbcmedia.com](mailto:privacy@dbcmedia.com)
+
 **News Desk**  
 (717) 291-8622  
 [news@LNPnews.com](mailto:news@LNPnews.com)
@@ -155,15 +155,6 @@ If you have questions about this privacy policy, or if you would like to correct
 **Technical Support**  
 (717) 291-8622  
 [digital@LNPnews.com](mailto:digital@LNPnews.com)
-
-**[Intellprintondemand.com](http://intellprintondemand.com/)**  
-To update your personal information, logon with the credentials you used to register on the site and then click Profile Settings button at the top of the webpage. This displays the current registration information that can be edited and saved. You can also change your password from this screen.
-
-**[Ondemand.intellprinting.com](http://ondemand.intellprinting.com/)**  
-To update your personal information, logon with the credentials you received from us when your account was created and then click the link with your name at the top of the webpage. This displays the current information that can be edited and saved. You can also customize the email notifications that you receive and change your password from this screen.
-
-**www.intellprinting.com**  
-<http://www.intellprinting.com/contact.html>
 
 ## Updates & Effective Date
 
