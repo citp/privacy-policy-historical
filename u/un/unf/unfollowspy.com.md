@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unfollowspy.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012926id_/http%3A//www.unfollowspy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfollowspy.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012230id_/http%3A//www.unfollowspy.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,4 +57,4 @@ We are in compliance with the requirements of COPPA (Children's Online Privacy P
 
 **Trademarks, Logos and Copyright**
 
-Unfollowspy is not linked to Twitter™, SoundCloud™ or Instagram™ and solely uses there individual API interfaces. All trademarks acknowledged and property of there owners.
+Unfollowspy is not linked to Twitter™, SoundCloud™ or Instagram™ and solely uses there individual API interfaces. All trademarks acknowledged and property of their respective owners.
