@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trannyland.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120061512id_/http%3A//www.baitbus.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trannyland.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605160911id_/http%3A//www.baitbus.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
