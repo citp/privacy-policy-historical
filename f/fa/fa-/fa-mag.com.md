@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fa-mag.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230234611id_/http%3A//www.fa-mag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fa-mag.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013856id_/http%3A//www.fa-mag.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
