@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the currencynewstrading.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020224732id_/http%3A//www.currencynewstrading.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currencynewstrading.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606002348id_/http%3A//www.currencynewstrading.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Currency News Trading
 
 ### Privacy Policy
 
-At **CurrencyNewsTrading.com** , we are committed to protecting your privacy. Whenever we collect personal information from you, we will always explain to you how we intend to use that information.
+At **CurrencyNewsTrading.com** , we are committed to protecting your privacy. Whenever we collect personal information from you, we will always explain to you how we intend to use that information. 
 
 For example, we will use the information you give us to process your requests and transactions, or to provide you with information about relevant products and services..
 
- **CurrencyNewsTrading.com** will not share or sell information regarding its customers and/or prospective customers.
+**CurrencyNewsTrading.com** will not share or sell information regarding its customers and/or prospective customers.
 
- **CurrencyNewsTrading.com** may disclose information regarding Customer and Customer’s transactions to federal or state regulatory agencies and law enforcement authorities in response to a request for such information or in response to a court order or subpoena.
+**CurrencyNewsTrading.com** may disclose information regarding Customer and Customer’s transactions to federal or state regulatory agencies and law enforcement authorities in response to a request for such information or in response to a court order or subpoena.
 
 We emphasize to our employees the confidential nature of user information and the high level of importance we place on maintaining this confidentiality. Furthermore, any companies we hire to provide support services must comply with our privacy policies.
 
