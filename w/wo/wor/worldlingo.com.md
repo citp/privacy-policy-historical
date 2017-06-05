@@ -1,39 +1,35 @@
-> *The following text is extracted and transformed from the worldlingo.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413115915id_/http%3A//www.worldlingo.com/en/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldlingo.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605181142id_/http%3A//www.worldlingo.com/en/company/privacy.html) for the most accurate reproduction.*
 
-# WorldLingo Translations LLC Privacy Policy
+# WorldLingo Privacy Policy
 
-Effective from 17th October 2008.
-
-[](https://www.truste.org/ivalidate.php?url=www.worldlingo.com&sealid=102) _Worldlingo Translation is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.worldlingo.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe._
-
-_If you have questions or concerns regarding this statement, you should firs contact Victoria Pratt at[privacy@worldlingo.com](mailto:privacy@worldlingo.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns._
+Effective from 17th September 2013
 
   1. **EU Safe Harbor.**
 
-Worldlingo Translation LLC, complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. If you have questions or concerns regarding this statement, you should first contact Victoria Pratt (privacy@worldlingo.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concern.
+WorldLingo complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. WorldLingo has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view WorldLingo's certification, please visit <http://www.export.gov/safeharbor/>
 
-  2. Dispute Resolution with Worldlingo Translation LLC. Worldlingo Translation LLC participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the Safe Harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <http://www.truste.org/consumers/watchdog_complaint.php>, fax at 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 Second Street, 2nd Floor San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <http://www.truste.org/consumers/watchdog_complaint.php> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
-  3. Worldlingo Translation LLC. will fulfill your request to update, change or delete your personal information within 30 days by contacting Victoria Pratt ([privacy@worldlingo.com](mailto:privacy@worldlingo.com)).
+  2. Dispute Resolution with WorldLingo. If you have questions or concerns regarding this Policy, you should contact [privacy@worldlingo.com](mailto:privacy@worldlingo.com)
+  3. WorldLingo. will fulfill your request to update, change or delete your personal information within 30 days by contacting Victoria Munday ([privacy@worldlingo.com](mailto:privacy@worldlingo.com)).
 
 
 
-Your privacy is of the uppermost importance to us. We take seriously our responsibility to keep your data safe and protected. To this end we adhere to the following principles:
+Your privacy is of the utmost importance to us. We take seriously our responsibility to keep your data safe and protected. To this end we adhere to the following principles:
 
   * We will not exchange or sell your personal data to third parties for any purpose.
-  * We will not share your contact information with another user or third party without your express consent.
-  * Any personal data that you provide will be secured with industry standard protocols and technology.
+  * We will not share your contact information with another user or third party without your express consent. 
+  * Any personal data that you provide will be secured with industry standard protocols and technology. 
 
 
 
 Notice of any changes that may affect your personal data or how it is used or shared will be posted in updates to our Privacy Policy online. We will notify you of any changes to the Privacy Policy via our website 30 days prior to the changes taking effect.
 
-If you choose to continue to use WorldLingo Translations LLC services after notice of changes have been sent to you or published on our site, you thereby opt into the new Privacy Policy and accept the changed practices.
+If you choose to continue to use WorldLingo services after notice of changes have been sent to you or published on our site, you thereby opt into the new Privacy Policy and accept the changed practices.
 
-WorldLingo Translations LLCs' Privacy Policy is designed to help you understand how we collect and use the personal data you provide. Helping you make informed decisions when using WorldLingo products and services located at www.worldlingo.com and its directly associated domains (collectively, "WorldLingo" or "Website").
+WorldLingo' Privacy Policy is designed to help you understand how we collect and use the personal data you provide. Helping you make informed decisions when using WorldLingo products and services located at www.worldlingo.com and its directly associated domains (collectively, "WorldLingo" or "Website").
 
 By using or accessing WorldLingo, you are accepting the practices described in this Privacy Policy.
 
-If you have questions or concerns regarding this statement, you should contact our privacy staff at [privacy@worldlingo.com](https://web.archive.org/web/20100413115915id_/http%3A//www.worldlingo.com/en/company/privacy@worldlingo.com).
+If you have questions or concerns regarding this statement, you should contact our privacy staff at [privacy@worldlingo.com](https://web.archive.org/web/20170605181142id_/http%3A//www.worldlingo.com/en/company/privacy@worldlingo.com).
 
 * * *
 
@@ -55,7 +51,7 @@ In order to become a WorldLingo user or future customer, you can create an accou
 
 You have the option to provide us with demographic information such as preferred currency and gender; we encourage you to submit this information so we can provide you a more personalized experience on our site.
 
-WorldLingo Translations LLC is the sole owner of the information collected on WorldLingo's Web site.
+WorldLingois the sole owner of the information collected on WorldLingo's Web site.
 
 ## 1.2 Profile Information
 
@@ -147,21 +143,31 @@ We post customer testimonials on our web site which may contain personally ident
 
 The adverts appearing on the Web site are delivered to users by our advertising partners. We share aggregated Web site usage information about users with third party advertisers for the purpose of targeting advertisements on the site.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org. 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/). 
 
 ## 4\. Links to Other Sites
 
-This Web site contains links to other sites that are not owned or controlled by WorldLingo Translations LLC. Please be aware that we, WorldLingo Translations LLC, are not responsible for the privacy practices of other such sites.
+This Web site contains links to other sites that are not owned or controlled by WorldLingo Please be aware that we, WorldLingo are not responsible for the privacy practices of other such sites.
 
 We encourage you to be aware of this when you leave our site and to read the privacy statements of each and every Web site that collects personal data.
 
 This privacy statement applies only to information collected by this Web site.
+
+## Social Media (Features) and Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+## Public Forums
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@worldlingo.com](mailto:privacy@worldlingo.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ## 5\. Access to Personally Identifiable Information
 
 If your personally identifiable information changes, or if you no longer wish to use our service, you may correct and/or update it through the Manage My Account feature accessible when you sign into your account.
 
 In the case of deactivating or canceling your account you may do this through the Manage My Account feature, however, if you have an active subscription or jobs pending you will not be able to deactivate or delete your account and must email Customer Support at [unsubscribe@worldlingo.com](mailto:unsubscribe@worldlingo.com).
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at the email address listed above. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## 6\. Security
 
@@ -173,17 +179,19 @@ If you have any questions about security on our Web site, you can send email us 
 
 ## 7\. Business Transitions
 
-In the event WorldLingo Translations LLC goes through a business transition, such as a merger, acquisition by another company or sale of all or part of its assets, your personal data will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personal information.
+In the event WorldLingogoes through a business transition, such as a merger, acquisition by another company or sale of all or part of its assets, your personal data will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personal information.
 
 ## 8\. Changes in this Privacy Policy
 
 We reserve the right to modify or change this Privacy Policy at any time. If we decide to change or modify our Privacy Policy, we will post those changes or modifications to this Privacy Policy. We will notify you of any changes to the Privacy Policy via our website 30 days prior to the changes taking effect.
 
+If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
 ## 9\. Contact Us
 
 If you have any questions or comments please email us at [privacy@worldlingo.com](mailto:privacy@worldlingo.com) or contact us at:
 
-WorldLingo Translations LLC  
+WorldLingo  
 Attn.: Privacy policy issues  
 6375 S Pecos Road, Suite #203  
 Las Vegas, NV 89120
