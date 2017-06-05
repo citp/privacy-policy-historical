@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanow.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119004815id_/http%3A//www.americanow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanow.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013329id_/http%3A//www.americanow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,6 +78,10 @@ We may use third party advertising companies to collect data and/or serve ads wh
 
 We use electronic, physical, and administrative safeguards, including firewalls and advanced password protection, to protect the security of your information. We limit access to your personal information to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information and private communications will always remain private.
 
+### 10\. How to Opt Out
+
+You can opt-out of targeted advertising delivered on Sites by visiting http://www.networkadvertising.org/choices/ or http://www.aboutads.info/choices/ 
+
 You should take steps to protect yourself as well. For example:
 
   * Do not share your password with anyone else, and take measures to prevent unauthorized access or disclosure.
@@ -91,4 +95,4 @@ We may change this Privacy Policy from time to time, and we will post the amende
 
 To contact us for more information about this privacy policy or how your information is treated, please contact us by email at [admin@opposingviews.com](mailto:admin@opposingviews.com).
 
-Last updated August 26, 2015
+Last updated December 21, 2016
