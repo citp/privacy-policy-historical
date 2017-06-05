@@ -1,20 +1,28 @@
-> *The following text is extracted and transformed from the tinyhousetalk.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101064334id_/http%3A//tinyhousetalk.com/disclaimer-privacy-policy-dmca-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyhousetalk.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012459id_/http%3A//tinyhousetalk.com/disclaimer-privacy-policy-dmca-policy) for the most accurate reproduction.*
 
 # Disclaimer, Privacy Policy & DMCA Policy
 
-Tiny House Media, LLC (doing business as TinyHouseTalk.com) Privacy Policy
+TinyHouseTalk.com Privacy Policy
 
-We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use TinyHouseTalk.com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
+We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use TinyHouseTalk.com, as well as some of the steps we take to safeguard information.
 
 TinyHouseTalk.com strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers’, consumers’ and online visitors’ privacy on our website.
 
 Personal Information
 
-TinyHouseTalk.com collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number.
+TinyHouseTalk.com collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include your name, postal address, email address, company name, telephone number, and any other information you provide us.
 
-This information is collected if you request information from us, participate in a contest or sweepstakes, and sign up to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates, and respond to visitor inquiries.
+This information is collected if you request information from us, participate in a contest or sweepstakes, participate in the comments, share your own content, and sign up to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates, and respond to visitor inquiries.
 
-Once information is reviewed, it is discarded or stored in our files. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties.
+Once information is reviewed, it is discarded or stored in our files and third party servers. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties.
+
+Your Content
+
+TinyHouseTalk.com allows you to post content (including photos, comments, links, and other materials). You retain all rights in, and are solely responsible for, the content you post to TinyHouseTalk.com. This is referred to as User Content.
+
+How User Content Is Used
+
+You grant TinyHouseTalk.com and our users a non-exclusive, royalty-free, transferable, sub-licensable, worldwide license to use, store, display, reproduce, save, modify, create derivative works, perform, and distribute User Content on TinyHouseTalk.com solely for the purpose of operating, developing, providing, using, and promoting TinyHouseTalk.com. We reserve the right to remove or modify User Content for any reason, including User Content that we believe violates these terms (or any of our other policies).
 
 Use of Cookies and Web Beacons
 
@@ -32,7 +40,7 @@ Browsers can be set to accept or reject cookies or notify you when a cookie is b
 
 Children’s Online Privacy Protection Act
 
-This website is directed to adults; it is not directed to children under the age of 13. We operate our site in compliance with the Children’s Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 13 years of age.
+This website is directed to adults; it is not directed to children under the age of 18. We operate our site in compliance with the Children’s Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 18 years of age.
 
 Non-Personal Information
 
@@ -48,17 +56,17 @@ We provide this privacy policy as a statement to you of our commitment to protec
 
 Legal
 
-The information and other content within this website are provided for entertainment purposes only and should not be considered advice. While all information shared here is believed to be accurate, the owner(s) and operator(s) of this website disclaim all warranties expressed, implied or statutory, regarding the accuracy, timeliness, and/or completeness of the information contained within these pages. Please seek advice from a qualified professional before doing anything.
+The information and other content within this website are provided for entertainment purposes only and should not be considered professional advice. While all information shared here is believed to be accurate and our goal is to be helpful, the owner(s) and operator(s) of this website disclaim all warranties expressed, implied or statutory, regarding the accuracy, timeliness, and/or completeness of the information contained within these pages.
 
 Third Party Affiliate Links
 
-TinyHouseTalk.com is an affiliate with some of the companies whose products are occasionally mentioned, linked to and recommended on this site. This allows us to earn commissions for sales generated through this website without any extra cost on your part. This, along with advertising, helps support our efforts while helping you find solutions.
+TinyHouseTalk.com is an affiliate with some of the companies whose products are occasionally mentioned, linked to and recommended on this site. This allows TinyHouseTalk.com to earn commissions for sales generated through this website without any extra cost on your part. This, along with advertising, helps support our free services.
 
 DMCA Policy
 
 TinyHouseTalk.com and Tiny House Media LLC are in compliance with 17 U.S.C. * 512 and the Digital Millennium Copyright Act (DMCA). Our policy is to respond to any infringement notices and take appropriate actions under the DMCA and other applicable intellectual property laws.
 
-If your copyrighted material has been posted on TinyHouseTalk.com and you want this material removed, you must provide a written communication that details the information listed in the following section. Please be aware that you will be liable for damages (including potential court costs and attorneys’ fees) if you misrepresent information listed on our site that is infringing on your copyrights.
+If you believe that copyrighted material has been posted on TinyHouseTalk.com and you want this material removed, you must provide a written communication that details the information listed in the following section. Please be aware that you will be liable for damages (including potential court costs and attorneys’ fees) if you misrepresent information listed on our site that is infringing on your copyrights.
 
 The following elements must be included in your copyright infringement claim:
 
@@ -94,7 +102,7 @@ Once the proper bona fide infringement notification is received by the Designate
 
 Updates and Effective Date
 
-TinyHouseTalk.com reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
+TinyHouseTalk.com reserves the right to make changes in this policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
 
 Agreeing to Terms (Usage Policy)
 
