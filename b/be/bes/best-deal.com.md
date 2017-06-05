@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the best-deal.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124181412id_/http%3A//www.best-deal.com/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-deal.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606014710id_/http%3A//www.best-deal.com/service/privacy) for the most accurate reproduction.*
 
-# Privacy | Price comparison and reviews at best-deal.com
+# Privacy Preisvergleich und Test bei PREISVERGLEICH.de
 
-The security of your personal information and your privacy is very important to us as operator of BEST-DEAL.com (in the following just called BEST-DEAL.com). Since your trust in us means a lot to us, we'll do all that's possible to warrant and keep this trust. Against this background BEST-DEAL.com tries by all means to ensure the compliance of privacy. In this regard we ask you to read the privacy policy to get informed about the way we'll treat your personal information if you use our online services. Changes in this policy might happen from time to time and will be posted on the BEST-DEAL.com website.
+The security of your personal information and your privacy is very important to us as operator of BEST-DEAL.com (in the following just called BEST-DEAL.com). Since your trust in us means a lot to us, we'll do all that's possible to warrant and keep this trust. Against this background BEST-DEAL.com tries by all means to ensure the compliance of privacy. In this regard we ask you to read the privacy policy to get informed about the way we'll treat your personal information if you use our online services. Changes in this policy might happen from time to time and will be posted on the BEST-DEAL.comwebsite.
 
 #### a) Your Privacy
 
-BEST-DEAL.com is brought to you by Unister GmbH. BEST-DEAL.com believes that trust is an important component of the service we provide to our customers. To ensure that we earn and keep that trust, BEST-DEAL.com makes every effort to protect your privacy and the confidentiality of your personal information. This Privacy Policy is provided to inform you about BEST-DEAL.com's collection, use and disclosure of information you choose to share with us through our website.
+BEST-DEAL.com is brought to you by GET AG. BEST-DEAL.com believes that trust is an important component of the service we provide to our customers. To ensure that we earn and keep that trust, BEST-DEAL.com makes every effort to protect your privacy and the confidentiality of your personal information. This Privacy Policy is provided to inform you about BEST-DEAL.com's collection, use and disclosure of information you choose to share with us through our website.
 
 This Privacy Policy is considered to be a part of BEST-DEAL.com's User Agreement. By using the site you agree to the terms and conditions of the User Agreement, including this Privacy Policy. By using the site, you are also consenting to BEST-DEAL.com's privacy practices, including the use and disclosure of any personally identifiable information that you have shared with us, as described in this Privacy Policy.
 
@@ -14,7 +14,7 @@ This Privacy Policy is considered to be a part of BEST-DEAL.com's User Agreement
 
 BEST-DEAL.com is not targeted towards, or intended for use by anyone under the age of 18. By using the website you represent and warrant that you are 18 years of age or older.
 
-#### c) Use Of Cookies On Our Website
+####  c) Use Of Cookies On Our Website
 
 BEST-DEAL.com uses "cookies" to automatically recognize returning users. A cookie is a small file on your hard drive that allows us to display your previously defined search criteria and notification preferences whenever you visit our site. The information saved is used for the functionality of the site, for example, by recording your display preferences or regulating the frequency of pop-ups. Advertising partners also use cookies over which BEST-DEAL.com has no control. These are used to select customer-specific advertising.
 
@@ -38,4 +38,4 @@ BEST-DEAL.com guarantees that we will only use your e-mail address with your exp
 
 #### h) Changes To These Privacy Guidelines
 
-Any changes to the privacy guidelines will be posted on the BEST-DEAL.com website.
+Any changes to the privacy guidelines will be posted on the BEST-DEAL.comwebsite.
