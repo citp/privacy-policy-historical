@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wedding.com.my privacy policy that was archived on 2016-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161205084655id_/http%3A//www.wedding.com.my/content/12-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wedding.com.my privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606012814id_/http%3A//www.wedding.com.my/content/12-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		<meta charset="utf-8">
@@ -13,9 +13,9 @@
 		<meta name="apple-mobile-web-app-capable" content="yes"> 
 		<meta property="fb:app_id" content="823266714412336">
 
-		<link rel="icon" type="image/vnd.microsoft.icon" href="/img/favicon-1.ico?1466582017">
-		<link rel="shortcut icon" type="image/x-icon" href="/img/favicon-1.ico?1466582017">
-			<link rel="stylesheet" href="http://media.wedding.nuren.my/themes/default-bootstrap/cache/v_219_ce9dc8dfdb90a49f7f11d8ca3d781498_all.css" type="text/css" media="all">
+		<link rel="icon" type="image/vnd.microsoft.icon" href="/img/favicon-1.ico?1483676330">
+		<link rel="shortcut icon" type="image/x-icon" href="/img/favicon-1.ico?1483676330">
+			<link rel="stylesheet" href="http://media2.wedding.nuren.my/themes/default-bootstrap/cache/v_224_ce9dc8dfdb90a49f7f11d8ca3d781498_all.css" type="text/css" media="all">
 			<!-- Start Override Custom Styling -->
 		<link rel="stylesheet" href="/themes/default-bootstrap/css/global-override.css?20161011" type="text/css">
 		<!-- End Override Custom Styling -->
@@ -37,7 +37,7 @@ var delete_txt = 'Delete';
 var displayList = false;
 var freeProductTranslation = 'Free!';
 var freeShippingTranslation = 'Free shipping!';
-var generated_date = 1480927625;
+var generated_date = 1496712555;
 var id_lang = 1;
 var img_dir = 'http://media3.wedding.nuren.my/themes/default-bootstrap/img/';
 var instantsearch = false;
@@ -59,7 +59,7 @@ var usingSecureMode = false;
 var wishlistProductsIds = false;
 </script>
 
-		<script type="text/javascript" src="http://media.wedding.nuren.my/themes/default-bootstrap/cache/v_230_921b7952df485c05e0825b56ea092418.js"></script>
+		<script type="text/javascript" src="http://media3.wedding.nuren.my/themes/default-bootstrap/cache/v_242_972a551eb413b13bae9993e18f510df0.js"></script>
 			<script language="javascript" type="text/javascript">
 var header_logo_mode = 0;
 var base_dir_default = "http://www.wedding.com.my/";
@@ -281,12 +281,11 @@ $('document').ready(function() {
   fbq('init', '799052446894649');
   fbq('track', 'PageView');
 
+	
 
 
 
 
-
-  
   
 $(function() {
 
@@ -303,8 +302,12 @@ $(function() {
       }
   }
 
+  ShopApps_CompleteRegister = function() {
+	fbq('track', 'CompleteRegistration');
+  }
+
   ShopApps_AddedToCart = function(id_product) {
-    var ids = [];
+	var ids = [];
     ids.push(id_product);
     fbq('track', 'AddToCart', {
       content_name:     '', 
@@ -313,30 +316,33 @@ $(function() {
       content_type:     'product',
       value:            '',
       currency:         'MYR'
-    });  
+    });
+
+	var tagScript = $("<script />");
+	tagScript.attr("src", "//www.googleadservices.com/pagead/conversion.js");
+
+	var imgNoScript = $("<img height='1' width='1' style='border-style:none;'></img>");
+	imgNoScript.attr("alt", "");
+	imgNoScript.attr("src", "//www.googleadservices.com/pagead/conversion/953362167/?label=xJtlCPzov2MQ983MxgM&guid=ON&script=0");
+	var divNoScript = $("<div style='display:inline;'>");
+	divNoScript.append(imgNoScript);
+	var tagNoScript = $("<noscript></noscript>");
+	tagNoScript.append(divNoScript);
+
+	$("#addToCartAdwords").html("");
+	$("#addToCartAdwords").append(tagScript);
+	$("#addToCartAdwords").append(tagNoScript);
   }
 
 
-  $( '.ajax_add_to_cart_button' ).click(function(){
-    var idProduct =  parseInt($(this).data('id-product'));
-    if(idProduct === undefined || !idProduct)
-      idProduct = ShopApps_GetURLParameter($(this).attr('href'), 'id_product');
-    ShopApps_AddedToCart(idProduct);
-  });
 
-  $(document).off('click', '#add_to_cart button').on('click', '#add_to_cart button', function(e){
-    var idProduct = $('#product_page_product_id').val();
-    var idAttribute = $('#idCombination').val();
-    var qty = $('#quantity_wanted').val();
-    if(idAttribute) idProduct += '_'+idAttribute;
-    ShopApps_AddedToCart(idProduct);
+ 
   });
-
-});
 
 </script>
 <noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=799052446894649&amp;ev=PageView&noscript=1" /></noscript>
 <!-- End Facebook Pixel Code -->
+</head><body id="cms" class="cms cms-12 cms-privacy-policy hide-left-column hide-right-column lang_en"><div id="addToCartAdwords"></div>
 	
 	
 		
@@ -436,12 +442,15 @@ jQuery(window).ready(init_rating_defer);
 	
 <!--  product list settings -->
 
+			<link rel="alternate" hreflang="en-us" href="http://www.wedding.com.my/content/12-privacy-policy">
+				<link rel="alternate" hreflang="x-default" href="http://www.wedding.com.my/content/12-privacy-policy">
+			
 		<!--[if IE 8]>
 		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 		<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 		<![endif]-->
-	</head>
-	<body id="cms" class="cms cms-12 cms-privacy-policy hide-left-column hide-right-column lang_en">
+	
+	
 			
 		<div id="fb-root"></div>
 
@@ -461,7 +470,7 @@ jQuery(window).ready(init_rating_defer);
 							<div class="row">
 								<nav><!-- Block user information module NAV -->
 <div class="header_user_info">
-			<a class="login" href="http://login.nuren.co/signup/Bl052II2X0" rel="nofollow" title="Join us now">
+			<a class="login" href="https://login.nuren.co/signup/Bl052II2X0" rel="nofollow" title="Join us now">
 			Signup
 		</a>
 		</div>
@@ -474,11 +483,12 @@ jQuery(window).ready(init_rating_defer);
 <!-- Block languages module -->
 <!-- /Block languages module -->
 <ul class="top-left-menu">
-  <li> <a href="http://www.wedding.com.my/bridal/vendor"> <strong>Vendors</strong> </a> </li>
-  <li> <a href="http://www.wedding.com.my/bridal/story"> <strong>Stories</strong> </a> </li>
-  <li> <a href="http://www.wedding.com.my/bridal/event"> <strong>Events</strong> </a> </li>
-  <li> <a href="http://www.wedding.com.my/bridal/browse/discover"> <strong>Ideas</strong> </a> </li>
-  <!--- <li> <a href="http://www.wedding.com.my" target="_blank"> <strong>Shop</strong> </a> </li> -->
+  <li> <a href="http://www.wedding.com.my/vendor"> <strong>Vendors</strong> </a> </li>
+  <li> <a href="http://www.wedding.com.my/story" target="_blank"> <strong>Stories</strong> </a> </li>
+  <li> <a href="http://www.wedding.com.my/event" target="_blank"> <strong>Events</strong> </a> </li>
+  <li> <a href="http://www.wedding.com.my/browse/discover" target="_blank"> <strong>Ideas</strong> </a> </li>
+      <li> <a href="http://www.wedding.com.my/bridal/business-signup" target="_blank"> <strong>Be a Vendor</strong> </a> </li>
+  <!--- <li> <a href="http://shop.wedding.com.my" target="_blank"> <strong>Shop</strong> </a> </li> -->
 <!--  <li> <a href="http://www.wedding.com.my/about-vendor" target="_blank"> <strong>Be A Vendor?</strong> </a> </li> -->
 </ul>
 
@@ -488,10 +498,10 @@ jQuery(window).ready(init_rating_defer);
  <div class="dropdown mobile-dropdown">
   <button class="btn btn-mobile-menu dropdown-toggle" type="button" id="Trigger" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">MORE</button>
    <ul class="dropdown-menu" aria-labelledby="Trigger">
-   <li> <a href="http://www.wedding.com.my/bridal/vendor"> <strong>Vendors</strong> </a> </li>
-  <li> <a href="http://www.wedding.com.my/bridal/story"> <strong>Stories</strong> </a> </li>
-  <li> <a href="http://www.wedding.com.my/bridal/event"> <strong>Events</strong> </a> </li>
-  <li> <a href="http://www.wedding.com.my/bridal/browse/discover"> <strong>Ideas</strong> </a> </li>
+   <li> <a href="http://www.wedding.com.my/vendor"> <strong>Vendors</strong> </a> </li>
+  <li> <a href="http://www.wedding.com.my/story" target="_blank"> <strong>Stories</strong> </a> </li>
+  <li> <a href="http://www.wedding.com.my/event" target="_blank"> <strong>Events</strong> </a> </li>
+  <li> <a href="http://www.wedding.com.my/browse/discover" target="_blank"> <strong>Ideas</strong> </a> </li>
  <!--  <li class="blog"><a href="http://www.motherhood.com.my/mam/story">Blog</a></li>
  <li class="sales"><a href="http://www.motherhood.com.my/sales">Sales</a></li> -->
   </ul>
@@ -511,6 +521,7 @@ $(document).ready(function(){
     );
 });
   </script>
+  
 
 
 </nav>
@@ -522,34 +533,35 @@ $(document).ready(function(){
 							<div class="row top-header-spacer"> 
                                                   
                         <!-- -->
-<div class="col-md-5">
+<div class="col-md-4">
 <!--
  <div  class="pull-left motherhood-logo">
 <a href="#"><img class="logo img-responsive" src="/img/motherhood-logo.png" alt="Motherhood Shop"></a>
 </div> -->
-<div id="header_logo" class="pull-left wedding-logo">
+<div id="header_logo" class="wedding-logo">
 	<a href="http://www.wedding.com.my/" title="Wedding Shop">
-		<img class="logo img-responsive" src="http://media2.wedding.nuren.my/img/wedding-shop-1432004414.jpg" alt="Wedding Shop" width="257" height="80">
+		<img class="logo img-responsive" src="http://media2.wedding.nuren.my/img/wedding-shop-1432004414.jpg" alt="Wedding Shop" width="298" height="60">
 	</a>
 </div>
-<div class="pull-left">
+<!--
+<div class="pull-left ">
  <a href="http://www.nurengroup.com/">
 <div class="nuren-link"></div>
 </a>
  </div>
+ 
 <div class="pull-left">
  <a href="http://www.motherhood.com.my/">
 <div class="motherhood-link"></div>
 </a>
   </div>
-<!-- -->
+ -->
      </div>                           
                                 
                                  <!-- -->
 								<!-- Block search module TOP -->
-<div class="m-clearfix"></div>
-<div id="search_block_top" class="col-md-4">
-	<form id="searchbox" method="get" action="http://www.wedding.com.my/search">
+  <div id="search_block_top" class="col-md-5 affix-search" data-spy="affix" data-offset-top="100">
+ 	<form id="searchbox" method="get" action="http://www.wedding.com.my/search">
 		<input type="hidden" name="controller" value="search">
 		<input type="hidden" name="orderby" value="position">
 		<input type="hidden" name="orderway" value="desc">
@@ -559,7 +571,31 @@ $(document).ready(function(){
 		</button>
 	</form>
 </div>
-<!-- /Block search module TOP --><!-- MODULE Block cart -->
+<!-- /Block search module TOP -->
+
+<script>
+$(window).scroll(function() {    
+    var scroll = $(window).scrollTop();
+
+     //>=, not <=
+    if (scroll >= 100) {
+        //clearHeader, not clearheader - caps H
+        $(".affix-search").addClass("affix-search-add");
+        $(".affix-search").slideDown("slow");
+
+    }
+}); //missing );
+
+$(window).scroll(function() {    
+    var scroll = $(window).scrollTop();
+
+    if (scroll >= 100) {
+        $(".affix-search").addClass("affix-search-add");
+    } else {
+        $(".affix-search").removeClass("affix-search-add");
+    }
+});
+</script><!-- MODULE Block cart -->
 <div class="m-clearfix"></div>
 <div class="col-md-3">
  	<div class="shopping_cart">
@@ -689,94 +725,99 @@ $(document).ready(function(){
 	</div> <!-- #layer_cart -->
 	<div class="layer_cart_overlay"></div>
 
-<!-- /MODULE Block cart --> <section>
- 	<!-- Menu -->
-	<div id="block_top_menu" class="sf-contener clearfix col-lg-12">
-		<div class="cat-title"></div>
-		<ul class="sf-menu clearfix menu-content" id="main-nav">
-			<li><a href="http://www.wedding.com.my/12-fashion" title="Fashion">Fashion</a><ul><li><a href="http://www.wedding.com.my/16-bride" title="Bride"><div>Bride</div></a><ul><li><a href="http://www.wedding.com.my/158-wedding-gowns" title="Wedding Gowns">Wedding Gowns</a><ul><li><a href="http://www.wedding.com.my/240-a-line" title="A-Line">A-Line</a></li><li><a href="http://www.wedding.com.my/241-ball-gowns" title="Ball Gowns">Ball Gowns</a></li><li><a href="http://www.wedding.com.my/242-mermaid-trumpet" title="Mermaid / Trumpet">Mermaid / Trumpet</a></li><li><a href="http://www.wedding.com.my/243-midi-length" title="Midi Length">Midi Length</a></li><li><a href="http://www.wedding.com.my/244-sheath" title="Sheath">Sheath</a></li><li><a href="http://www.wedding.com.my/245-mini" title="Mini">Mini</a></li><li><a href="http://www.wedding.com.my/246-convertible" title="Convertible">Convertible</a></li></ul></li><li><a href="http://www.wedding.com.my/14-evening-gowns" title="Evening Gowns">Evening Gowns</a><ul><li><a href="http://www.wedding.com.my/262-malay-dresses" title="Malay Dresses">Malay Dresses</a></li><li><a href="http://www.wedding.com.my/263-indian-dresses" title="Indian Dresses">Indian Dresses</a></li><li><a href="http://www.wedding.com.my/264-western-dresses" title="Western Dresses">Western Dresses</a></li><li><a href="http://www.wedding.com.my/270-chinese-dresses" title="Chinese Dresses">Chinese Dresses</a></li></ul></li><li><a href="http://www.wedding.com.my/160-chinese-traditional" title="Chinese Traditional">Chinese Traditional</a><ul><li><a href="http://www.wedding.com.my/247-cheong-sam" title="Cheong Sam">Cheong Sam</a></li><li><a href="http://www.wedding.com.my/248-threaded-qun-kwa" title="Threaded Qun Kwa">Threaded Qun Kwa</a></li></ul></li><li><a href="http://www.wedding.com.my/162-indian-traditional" title="Indian Traditional">Indian Traditional</a><ul><li><a href="http://www.wedding.com.my/249-wedding-saree" title="Wedding Saree">Wedding Saree</a></li><li><a href="http://www.wedding.com.my/250-bridal-saree" title="Bridal Saree">Bridal Saree</a></li></ul></li><li><a href="http://www.wedding.com.my/166-bridal-accessories" title="Bridal Accessories">Bridal Accessories</a><ul><li><a href="http://www.wedding.com.my/251-hair-accessories" title="Hair Accessories">Hair Accessories</a></li><li><a href="http://www.wedding.com.my/252-lingerie" title="Lingerie">Lingerie</a></li><li><a href="http://www.wedding.com.my/253-tudung-shawl" title="Tudung / Shawl">Tudung / Shawl</a></li><li><a href="http://www.wedding.com.my/254-hijab-pins-brooches" title="Hijab Pins &amp; Brooches">Hijab Pins &amp; Brooches</a></li><li><a href="http://www.wedding.com.my/255-watches" title="Watches">Watches</a></li><li><a href="http://www.wedding.com.my/256-clutches" title="Clutches">Clutches</a></li><li><a href="http://www.wedding.com.my/323-petticoatscan-can" title="Petticoats/Can Can">Petticoats/Can Can</a></li></ul></li><li><a href="http://www.wedding.com.my/23-bridal-shoes" title="Bridal Shoes">Bridal Shoes</a><ul><li><a href="http://www.wedding.com.my/113-flats" title="Flats">Flats</a></li><li><a href="http://www.wedding.com.my/114-peep-toe" title="Peep Toe">Peep Toe</a></li><li><a href="http://www.wedding.com.my/115-wedges" title="Wedges">Wedges</a></li><li><a href="http://www.wedding.com.my/116-pumps" title="Pumps">Pumps</a></li><li><a href="http://www.wedding.com.my/117-platforms" title="Platforms">Platforms</a></li><li><a href="http://www.wedding.com.my/118-booties" title="Booties">Booties</a></li></ul></li><li><a href="http://www.wedding.com.my/73-wedding-veils-gloves" title="Wedding Veils &amp; Gloves">Wedding Veils &amp; Gloves</a></li></ul></li><li><a href="http://www.wedding.com.my/19-groom" title="Groom"><div>Groom</div></a><ul><li><a href="http://www.wedding.com.my/167-suits" title="Suits">Suits</a></li><li><a href="http://www.wedding.com.my/168-coats-blazers" title="Coats &amp; Blazers">Coats &amp; Blazers</a></li><li><a href="http://www.wedding.com.my/169-shirts" title="Shirts">Shirts</a></li><li><a href="http://www.wedding.com.my/171-chinese-traditional" title="Chinese Traditional">Chinese Traditional</a></li><li><a href="http://www.wedding.com.my/173-groom-accessories" title="Groom Accessories">Groom Accessories</a><ul><li><a href="http://www.wedding.com.my/257-ties-bow-ties" title="Ties &amp; Bow Ties">Ties &amp; Bow Ties</a></li><li><a href="http://www.wedding.com.my/258-tie-clips" title="Tie Clips">Tie Clips</a></li><li><a href="http://www.wedding.com.my/259-cufflinks" title="Cufflinks">Cufflinks</a></li><li><a href="http://www.wedding.com.my/260-suspenders" title="Suspenders">Suspenders</a></li><li><a href="http://www.wedding.com.my/261-cummberbund-tuxedo-belts" title="Cummberbund / Tuxedo Belts">Cummberbund / Tuxedo Belts</a></li></ul></li><li><a href="http://www.wedding.com.my/199-groom-shoes" title="Groom Shoes">Groom Shoes</a></li><li><a href="http://www.wedding.com.my/308-best-man-t-shirts" title="Best Man T-Shirts">Best Man T-Shirts</a></li></ul></li><li><a href="http://www.wedding.com.my/18-baby-kids" title="Baby &amp; Kids"><div>Baby &amp; Kids</div></a><ul><li><a href="http://www.wedding.com.my/174-baby-girls" title="Baby Girls">Baby Girls</a></li><li><a href="http://www.wedding.com.my/175-baby-boys" title="Baby Boys">Baby Boys</a></li><li><a href="http://www.wedding.com.my/176-girls" title="Girls">Girls</a></li><li><a href="http://www.wedding.com.my/20-boys" title="Boys">Boys</a></li><li><a href="http://www.wedding.com.my/326-flower-girl-accessories" title="Flower Girl Accessories">Flower Girl Accessories</a></li></ul></li><li><a href="http://www.wedding.com.my/17-bridesmaids" title="Bridesmaids"><div>Bridesmaids</div></a><ul><li><a href="http://www.wedding.com.my/328-evening-dress" title="Evening Dress">Evening Dress</a></li><li><a href="http://www.wedding.com.my/327-bridesmaid-dress" title="Bridesmaid Dress">Bridesmaid Dress</a><ul><li><a href="http://www.wedding.com.my/179-a-line" title="A-Line">A-Line</a></li><li><a href="http://www.wedding.com.my/182-midi-length" title="Midi Length">Midi Length</a></li><li><a href="http://www.wedding.com.my/183-sheath" title="Sheath">Sheath</a></li><li><a href="http://www.wedding.com.my/184-mini" title="Mini">Mini</a></li><li><a href="http://www.wedding.com.my/185-convertible" title="Convertible">Convertible</a></li></ul></li><li><a href="http://www.wedding.com.my/186-bridesmaid-accessories" title="Bridesmaid Accessories">Bridesmaid Accessories</a></li><li><a href="http://www.wedding.com.my/309-bridesmaid-t-shirts" title="Bridesmaid T-Shirts">Bridesmaid T-Shirts</a></li></ul></li><li><a href="http://www.wedding.com.my/22-rings-jewelleries" title="Rings &amp; Jewelleries"><div>Rings &amp; Jewelleries</div></a><ul><li><a href="http://www.wedding.com.my/188-rings" title="Rings">Rings</a></li><li><a href="http://www.wedding.com.my/21-necklaces" title="Necklaces">Necklaces</a></li><li><a href="http://www.wedding.com.my/189-bracelets" title="Bracelets">Bracelets</a></li><li><a href="http://www.wedding.com.my/190-earrings" title="Earrings">Earrings</a></li><li><a href="http://www.wedding.com.my/191-jewelry-sets" title="Jewelry Sets">Jewelry Sets</a></li><li><a href="http://www.wedding.com.my/330-anklet" title="Anklet">Anklet</a></li></ul></li><li><a href="http://www.wedding.com.my/187-couples" title="Couples"><div>Couples</div></a><ul><li><a href="http://www.wedding.com.my/194-t-shirts" title="T-Shirts">T-Shirts</a></li><li><a href="http://www.wedding.com.my/195-accessories" title="Accessories">Accessories</a></li></ul></li><li><a href="http://www.wedding.com.my/294-prestige-collection" title="Prestige Collection"><div>Prestige Collection</div></a><ul><li><a href="http://www.wedding.com.my/295-wedding-gowns" title="Wedding Gowns">Wedding Gowns</a></li><li><a href="http://www.wedding.com.my/296-rings-jewelry" title="Rings &amp; Jewelry">Rings &amp; Jewelry</a></li><li><a href="http://www.wedding.com.my/297-bridal-shoes-" title="Bridal Shoes ">Bridal Shoes </a></li><li><a href="http://www.wedding.com.my/298-grooms-attire" title="Grooms Attire">Grooms Attire</a></li></ul></li><li><a href="http://www.wedding.com.my/310-mother-of-bride-groom" title="Mother of Bride &amp; Groom"><div>Mother of Bride &amp; Groom</div></a><ul><li><a href="http://www.wedding.com.my/311-evening-gowns" title="Evening Gowns">Evening Gowns</a></li><li><a href="http://www.wedding.com.my/329-plus-size-dress" title="Plus Size Dress">Plus Size Dress</a></li></ul></li></ul></li><li><a href="http://www.wedding.com.my/24-makeup" title="Makeup">Makeup</a><ul><li><a href="http://www.wedding.com.my/201-beauty-services" title="Beauty Services"><div>Beauty Services</div></a><ul><li><a href="http://www.wedding.com.my/208-hair" title="Hair">Hair</a></li><li><a href="http://www.wedding.com.my/209-face" title="Face">Face</a></li><li><a href="http://www.wedding.com.my/210-body" title="Body">Body</a></li><li><a href="http://www.wedding.com.my/211-grooming" title="Grooming">Grooming</a></li></ul></li><li><a href="http://www.wedding.com.my/25-hair-makeup" title="Hair &amp; Makeup"><div>Hair &amp; Makeup</div></a><ul><li><a href="http://www.wedding.com.my/274-bridal-makeup" title="Bridal Makeup">Bridal Makeup</a></li></ul></li><li><a href="http://www.wedding.com.my/26-health-beauty" title="Health &amp; Beauty"><div>Health &amp; Beauty</div></a><ul><li><a href="http://www.wedding.com.my/275-supplements" title="Supplements">Supplements</a></li><li><a href="http://www.wedding.com.my/278-beauty-tools" title="Beauty Tools">Beauty Tools</a></li></ul></li><li><a href="http://www.wedding.com.my/74-cosmetics" title="Cosmetics"><div>Cosmetics</div></a><ul><li><a href="http://www.wedding.com.my/202-face" title="Face">Face</a></li><li><a href="http://www.wedding.com.my/203-eyes" title="Eyes">Eyes</a></li><li><a href="http://www.wedding.com.my/204-lips" title="Lips">Lips</a></li><li><a href="http://www.wedding.com.my/205-body" title="Body">Body</a></li><li><a href="http://www.wedding.com.my/271-nails" title="Nails">Nails</a></li></ul></li><li><a href="http://www.wedding.com.my/200-hair-skin-care" title="Hair &amp; Skin Care"><div>Hair &amp; Skin Care</div></a><ul><li><a href="http://www.wedding.com.my/206-face" title="Face">Face</a></li><li><a href="http://www.wedding.com.my/207-body" title="Body">Body</a></li><li><a href="http://www.wedding.com.my/273-hair" title="Hair">Hair</a></li></ul></li></ul></li><li><a href="http://www.wedding.com.my/28-venue-decor" title="Venue &amp; Decor">Venue &amp; Decor</a><ul><li><a href="http://www.wedding.com.my/31-decoration-kits-packages" title="Decoration Kits &amp; Packages"><div>Decoration Kits &amp; Packages</div></a><ul><li><a href="http://www.wedding.com.my/215-malay-indian-decorations" title="Malay / Indian Decorations">Malay / Indian Decorations</a></li><li><a href="http://www.wedding.com.my/216-chinese-decorations" title="Chinese Decorations">Chinese Decorations</a></li><li><a href="http://www.wedding.com.my/217-western-decorations" title="Western Decorations">Western Decorations</a></li><li><a href="http://www.wedding.com.my/136-decoration-packages" title="Decoration Packages">Decoration Packages</a></li></ul></li><li><a href="http://www.wedding.com.my/33-florist" title="Florist"><div>Florist</div></a><ul><li><a href="http://www.wedding.com.my/281-corsages-boutonnieres" title="Corsages &amp; Boutonnieres">Corsages &amp; Boutonnieres</a></li><li><a href="http://www.wedding.com.my/282-bouquets" title="Bouquets">Bouquets</a></li><li><a href="http://www.wedding.com.my/283-décor-floral-arrangements" title="Décor &amp; Floral Arrangements">Décor &amp; Floral Arrangements</a></li></ul></li><li><a href="http://www.wedding.com.my/30-restaurants" title="Restaurants"><div>Restaurants</div></a><ul><li><a href="http://www.wedding.com.my/220-oriental-cuisine" title="Oriental Cuisine">Oriental Cuisine</a></li></ul></li><li><a href="http://www.wedding.com.my/29-hotels" title="Hotels"><div>Hotels</div></a><ul><li><a href="http://www.wedding.com.my/284-5-stars" title="5 Stars">5 Stars</a></li><li><a href="http://www.wedding.com.my/285-4-stars" title="4 Stars">4 Stars</a></li><li><a href="http://www.wedding.com.my/286-3-stars" title="3 Stars">3 Stars</a></li></ul></li><li><a href="http://www.wedding.com.my/35-pelamin" title="Pelamin"><div>Pelamin</div></a><ul><li><a href="http://www.wedding.com.my/280-pakej-lengkap" title="Pakej Lengkap">Pakej Lengkap</a></li></ul></li><li><a href="http://www.wedding.com.my/156-private-venues" title="Private Venues"><div>Private Venues</div></a><ul><li><a href="http://www.wedding.com.my/287-cruises" title="Cruises">Cruises</a></li></ul></li></ul></li><li><a href="http://www.wedding.com.my/38-services" title="Services">Services</a><ul><li><a href="http://www.wedding.com.my/39-bridal-house" title="Bridal House"><div>Bridal House</div></a><ul><li><a href="http://www.wedding.com.my/85-pre-wedding-" title="Pre-Wedding ">Pre-Wedding </a></li><li><a href="http://www.wedding.com.my/71-bridal-house-package" title="Bridal House Package">Bridal House Package</a></li></ul></li><li><a href="http://www.wedding.com.my/41-photography" title="Photography"><div>Photography</div></a><ul><li><a href="http://www.wedding.com.my/69-pre-wedding-" title="Pre-Wedding ">Pre-Wedding </a></li><li><a href="http://www.wedding.com.my/107-destination-pre-wedding" title="Destination Pre-Wedding">Destination Pre-Wedding</a></li><li><a href="http://www.wedding.com.my/70-actual-day" title="Actual Day">Actual Day</a></li><li><a href="http://www.wedding.com.my/78-rom-engagement" title="ROM &amp; Engagement">ROM &amp; Engagement</a></li><li><a href="http://www.wedding.com.my/148-family-photo-shooting" title="Family Photo Shooting">Family Photo Shooting</a></li></ul></li><li><a href="http://www.wedding.com.my/42-videography" title="Videography"><div>Videography</div></a><ul><li><a href="http://www.wedding.com.my/81-actual-day" title="Actual Day">Actual Day</a></li><li><a href="http://www.wedding.com.my/83-rom-engagement" title="ROM &amp; Engagement">ROM &amp; Engagement</a></li><li><a href="http://www.wedding.com.my/82-proposal-" title="Proposal ">Proposal </a></li></ul></li><li><a href="http://www.wedding.com.my/47-entertainment" title="Entertainment"><div>Entertainment</div></a><ul><li><a href="http://www.wedding.com.my/44-live-band" title="Live Band">Live Band</a></li><li><a href="http://www.wedding.com.my/46-dj-emcee" title="DJ &amp; Emcee">DJ &amp; Emcee</a></li><li><a href="http://www.wedding.com.my/43-photobooth" title="Photobooth">Photobooth</a></li><li><a href="http://www.wedding.com.my/276-magician" title="Magician">Magician</a></li><li><a href="http://www.wedding.com.my/277-comedian" title="Comedian">Comedian</a></li></ul></li><li><a href="http://www.wedding.com.my/279-wedding-coordinators" title="Wedding Coordinators"><div>Wedding Coordinators</div></a><ul><li><a href="http://www.wedding.com.my/109-traditional-marriage-services" title="Traditional Marriage Services">Traditional Marriage Services</a></li><li><a href="http://www.wedding.com.my/32-wedding-planner" title="Wedding Planner">Wedding Planner</a></li></ul></li></ul></li><li><a href="http://www.wedding.com.my/48-fb" title="F&amp;B">F&amp;B</a><ul><li><a href="http://www.wedding.com.my/49-wedding-cakes" title="Wedding Cakes"><div>Wedding Cakes</div></a><ul><li><a href="http://www.wedding.com.my/68-cake-toppers" title="Cake Toppers">Cake Toppers</a></li><li><a href="http://www.wedding.com.my/222-cupcakes" title="Cupcakes">Cupcakes</a></li><li><a href="http://www.wedding.com.my/223-round-oval-cakes" title="Round / Oval Cakes">Round / Oval Cakes</a></li><li><a href="http://www.wedding.com.my/224-square-rectangular-cakes" title="Square / Rectangular Cakes">Square / Rectangular Cakes</a></li><li><a href="http://www.wedding.com.my/225-other-cakes" title="Other Cakes">Other Cakes</a></li></ul></li><li><a href="http://www.wedding.com.my/50-catering" title="Catering"><div>Catering</div></a><ul><li><a href="http://www.wedding.com.my/142-halal-cuisine" title="Halal Cuisine">Halal Cuisine</a></li><li><a href="http://www.wedding.com.my/145-western-cuisine" title="Western Cuisine">Western Cuisine</a></li><li><a href="http://www.wedding.com.my/239-high-tea-canapes" title="High Tea &amp; Canapes">High Tea &amp; Canapes</a></li></ul></li><li><a href="http://www.wedding.com.my/51-wine-liquor" title="Wine &amp; Liquor"><div>Wine &amp; Liquor</div></a><ul><li><a href="http://www.wedding.com.my/226-red-wine" title="Red Wine">Red Wine</a></li><li><a href="http://www.wedding.com.my/227-white-wine" title="White Wine">White Wine</a></li><li><a href="http://www.wedding.com.my/228-champagne" title="Champagne">Champagne</a></li><li><a href="http://www.wedding.com.my/229-hard-liquor-spirits" title="Hard Liquor / Spirits">Hard Liquor / Spirits</a></li></ul></li><li><a href="http://www.wedding.com.my/52-petite-sweets" title="Petite Sweets"><div>Petite Sweets</div></a><ul><li><a href="http://www.wedding.com.my/236-sweets-mini-cakes" title="Sweets &amp; Mini Cakes">Sweets &amp; Mini Cakes</a></li><li><a href="http://www.wedding.com.my/237-chocolates" title="Chocolates">Chocolates</a></li></ul></li><li><a href="http://www.wedding.com.my/112-wedding-biscuits" title="Wedding Biscuits"><div>Wedding Biscuits</div></a><ul><li><a href="http://www.wedding.com.my/232-chinese-biscuits" title="Chinese Biscuits">Chinese Biscuits</a></li></ul></li></ul></li><li><a href="http://www.wedding.com.my/53-gifts-cards" title="Gifts &amp; Cards">Gifts &amp; Cards</a><ul><li><a href="http://www.wedding.com.my/57-invitation-cards" title="Invitation Cards"><div>Invitation Cards</div></a><ul><li><a href="http://www.wedding.com.my/151-kad-kahwin" title="Kad Kahwin">Kad Kahwin</a><ul><li><a href="http://www.wedding.com.my/153-kraft-paper-card" title="Kraft Paper Card">Kraft Paper Card</a></li><li><a href="http://www.wedding.com.my/154-folded-invitation-card" title="Folded Invitation Card">Folded Invitation Card</a></li><li><a href="http://www.wedding.com.my/155-flat-cards" title="Flat Cards">Flat Cards</a></li></ul></li><li><a href="http://www.wedding.com.my/152-chinese-invitation-cards" title="Chinese Invitation Cards">Chinese Invitation Cards</a></li><li><a href="http://www.wedding.com.my/137-laser-cut-cards" title="Laser Cut Cards">Laser Cut Cards</a><ul><li><a href="http://www.wedding.com.my/265-folded-laser-cards" title="Folded Laser Cards">Folded Laser Cards</a></li></ul></li><li><a href="http://www.wedding.com.my/77-kraft-paper-cards" title="Kraft Paper Cards">Kraft Paper Cards</a><ul><li><a href="http://www.wedding.com.my/266-folded-kraft-cards" title="Folded Kraft Cards">Folded Kraft Cards</a></li></ul></li><li><a href="http://www.wedding.com.my/108-photo-wedding-cards" title="Photo Wedding Cards">Photo Wedding Cards</a><ul><li><a href="http://www.wedding.com.my/267-folded-photo-cards" title="Folded Photo Cards">Folded Photo Cards</a></li></ul></li><li><a href="http://www.wedding.com.my/111-wedding-tickets" title="Wedding Tickets">Wedding Tickets</a><ul><li><a href="http://www.wedding.com.my/268-folded-wedding-tickets" title="Folded Wedding Tickets">Folded Wedding Tickets</a></li></ul></li><li><a href="http://www.wedding.com.my/121-designer-flat-cards" title="Designer Flat Cards">Designer Flat Cards</a><ul><li><a href="http://www.wedding.com.my/269-folded-flat-cards" title="Folded Flat Cards">Folded Flat Cards</a></li></ul></li></ul></li><li><a href="http://www.wedding.com.my/54-wedding-favors" title="Wedding Favors"><div>Wedding Favors</div></a><ul><li><a href="http://www.wedding.com.my/104-gift-boxes-bags-containers" title="Gift Boxes, Bags &amp; Containers">Gift Boxes, Bags &amp; Containers</a></li><li><a href="http://www.wedding.com.my/91-thematic-favors" title="Thematic Favors">Thematic Favors</a></li><li><a href="http://www.wedding.com.my/92-customized-favors" title="Customized Favors">Customized Favors</a></li></ul></li><li><a href="http://www.wedding.com.my/55-wedding-gifts" title="Wedding Gifts"><div>Wedding Gifts</div></a><ul><li><a href="http://www.wedding.com.my/97-gifts-for-brides" title="Gifts for Brides">Gifts for Brides</a></li><li><a href="http://www.wedding.com.my/212-gifts-for-grooms" title="Gifts for Grooms">Gifts for Grooms</a></li><li><a href="http://www.wedding.com.my/213-others" title="Others">Others</a></li><li><a href="http://www.wedding.com.my/214-customized-gifts" title="Customized Gifts">Customized Gifts</a></li></ul></li><li><a href="http://www.wedding.com.my/56-hantaran" title="Hantaran"><div>Hantaran</div></a><ul></ul></li><li><a href="http://www.wedding.com.my/58-stationeries" title="Stationeries"><div>Stationeries</div></a><ul><li><a href="http://www.wedding.com.my/67-license-car-plates" title="License Car Plates">License Car Plates</a></li><li><a href="http://www.wedding.com.my/98-customized-canvas" title="Customized Canvas">Customized Canvas</a></li><li><a href="http://www.wedding.com.my/100-guestbook" title="Guestbook">Guestbook</a></li><li><a href="http://www.wedding.com.my/101-ring-pillow" title="Ring Pillow">Ring Pillow</a></li><li><a href="http://www.wedding.com.my/103-place-cards" title="Place Cards">Place Cards</a></li><li><a href="http://www.wedding.com.my/105-money-box" title="Money Box">Money Box</a></li><li><a href="http://www.wedding.com.my/312-guidebook" title="Guidebook">Guidebook</a></li></ul></li></ul></li><li><a href="http://www.wedding.com.my/75-destinations" title="Destinations">Destinations</a><ul><li><a href="http://www.wedding.com.my/36-honeymoon" title="Honeymoon"><div>Honeymoon</div></a><ul><li><a href="http://www.wedding.com.my/302-indonesia" title="Indonesia">Indonesia</a></li><li><a href="http://www.wedding.com.my/303-philippines" title="Philippines">Philippines</a></li><li><a href="http://www.wedding.com.my/304-thailand" title="Thailand">Thailand</a></li><li><a href="http://www.wedding.com.my/305-hong-kong" title="Hong Kong">Hong Kong</a></li><li><a href="http://www.wedding.com.my/306-malaysia" title="Malaysia">Malaysia</a></li><li><a href="http://www.wedding.com.my/307-maldives" title="Maldives">Maldives</a></li><li><a href="http://www.wedding.com.my/321-japan" title="Japan">Japan</a></li></ul></li><li><a href="http://www.wedding.com.my/120-destination-weddings" title="Destination Weddings"><div>Destination Weddings</div></a><ul><li><a href="http://www.wedding.com.my/76-indonesia" title="Indonesia">Indonesia</a></li></ul></li></ul></li>
-							<li class="menu-planner pull-right "><a id="plannerlink" href="http://www.wedding.com.my/bridal/planning">ASK OUR PLANNER</a></li>
-				
-				<li class="menu-pakej pull-right" style="background-color: #3fb8af;"><a href="http://www.wedding.com.my/bridal/vendor" style="background-color: #3fb8af;">VENDORS</a></li>
-		</ul>
-	</div>
-	<!--/ Menu -->
-	<!-- Modal -->
-	<div id="planningMask"></div>
-	<div class="modal fade" id="planningModal" role="dialog">
-		<div class="modal-dialog" id="planningModalDialog">
-    	  <!-- Modal content-->
-		  <div class="modal-content">
-			<div class="modal-header">
-			  <img class="plannerTitle" src="http://www.wedding.com.my/img/planner logo.png">
-			</div>
-			<div class="modal-body">
-			  <div>
-				<span class="plannerDivider">
-					<a href="http://www.wedding.com.my/bridal/pakej-kahwin" title="pakej-kahwin">
-						
-						<div id="pakejImg" class="zoomImg palannerImg"></div>
-						<span class="plannerButton">PAKEJ KAHWIN</span>
-					</a>
-				</span>
-				<span class="plannerDivider">
-					<a href="http://www.wedding.com.my/bridal/planning" title="pakej-kahwin">
-						<div id="planningImg" class="zoomImg plannerImg"></div>
-						<span class="plannerButton">ASK OUR PLANNER</span>
-					</a>
-				</span>
-			  </div>
-			</div>
-		  </div>
-		</div>
-	</div>
-	<div id="askPlannerMask"></div>
-	<div class="modal fade zoomAskPlanner" id="askPlannerModal" role="dialog">
-		<div class="modal-dialog" id="askPlannerModalDialog">
-    	  <!-- Modal content-->
-		  <div class="modal-content">
-			<div class="modal-body">
-			  
-			  <form class="form-horizontal" role="form" id="form-quote" action="/bridal/planning" method="post">
-				<div class="col-md-12">
-				<div class="col-md-9 mrgn-bottom-5p col-sm-9 col-sm-offset-1" style="background:whitesmoke;"> 
-				
-				<label><b>ASK PLANNER</b></label><br>
-				
-<input type="hidden" id="Quotation_expectedDate_" name="Quotation[expectedDate_]" value="01/01/1980">
-
-<input type="hidden" value="9c0b39836ba704975f5af6d8715bc4868d2f8e0b" name="YII_CSRF_TOKEN">        
-<input id="Quotation_categories__0" value="26" type="checkbox" checked="" name="Quotation[categories_][]" style="display:none">
-				<label for="name" class="mrgn-top-3p">Full Name</label>
-				<input class="form-control input" placeholder="" required="required" name="Quotation[name_]" id="Quotation_name_" type="text">
-				<label for="email" class="mrgn-top-3p">Email</label>
-				<input type="text" class="form-control input" placeholder="" required="required" name="Quotation[email_]" id="Quotation_email_">
-				<label for="contact" class="mrgn-top-3p">Phone Number</label>
-				<input class="form-control input intlphone" placeholder="" required="required" name="Quotation[contactNo_]" id="Quotation_contactNo_" type="text">
-				<label for="categories" class="mrgn-top-3p">How do you like us to reach you?</label>
-				<div data-toggle="buttons">
-				<input id="ytQuotation_contactMethods_" type="hidden" value="" name="Quotation[contactMethods_]"><span id="Quotation_contactMethods_"><label class="btn btn-cat-selection-o"><input id="Quotation_contactMethods__0" value="1" type="checkbox" name="Quotation[contactMethods_][]">Call</label><label class="btn btn-cat-selection-o"><input id="Quotation_contactMethods__1" value="3" type="checkbox" name="Quotation[contactMethods_][]">Whatsapp</label><label class="btn btn-cat-selection-o"><input id="Quotation_contactMethods__2" value="2" type="checkbox" name="Quotation[contactMethods_][]">Email</label></span>   
-				</div>
-				<input class="form-control input" placeholder="" readonly="" required="required" value="hello" name="Quotation[message_]" id="Quotation_message_" type="text">										
-
-				<!-- Hidden Content -->
-				<!--div class="collapse mrgn-top-3p mrgn-bottom-5p" id="collapseContent">
+<!-- /MODULE Block cart --><section> 
+  <!-- Menu -->
+  <div id="block_top_menu" class="sf-contener clearfix col-lg-12">
+    <div class="cat-title"></div>
+    <ul class="sf-menu clearfix menu-content" id="main-nav">
+      <li><a href="http://www.wedding.com.my/12-fashion" title="Fashion">Fashion</a><ul><li><a href="http://www.wedding.com.my/16-bride" title="Bride"><div>Bride</div></a><ul><li><a href="http://www.wedding.com.my/158-wedding-gowns" title="Wedding Gowns">Wedding Gowns</a><ul><li><a href="http://www.wedding.com.my/240-a-line" title="A-Line">A-Line</a></li><li><a href="http://www.wedding.com.my/241-ball-gowns" title="Ball Gowns">Ball Gowns</a></li><li><a href="http://www.wedding.com.my/242-mermaid-trumpet" title="Mermaid / Trumpet">Mermaid / Trumpet</a></li><li><a href="http://www.wedding.com.my/243-midi-length" title="Midi Length">Midi Length</a></li><li><a href="http://www.wedding.com.my/244-sheath" title="Sheath">Sheath</a></li><li><a href="http://www.wedding.com.my/245-mini" title="Mini">Mini</a></li><li><a href="http://www.wedding.com.my/246-convertible" title="Convertible">Convertible</a></li></ul></li><li><a href="http://www.wedding.com.my/14-evening-gowns" title="Evening Gowns">Evening Gowns</a><ul><li><a href="http://www.wedding.com.my/262-malay-dresses" title="Malay Dresses">Malay Dresses</a></li><li><a href="http://www.wedding.com.my/263-indian-dresses" title="Indian Dresses">Indian Dresses</a></li><li><a href="http://www.wedding.com.my/264-western-dresses" title="Western Dresses">Western Dresses</a></li><li><a href="http://www.wedding.com.my/270-chinese-dresses" title="Chinese Dresses">Chinese Dresses</a></li></ul></li><li><a href="http://www.wedding.com.my/160-chinese-traditional" title="Chinese Traditional">Chinese Traditional</a><ul><li><a href="http://www.wedding.com.my/247-cheong-sam" title="Cheong Sam">Cheong Sam</a></li><li><a href="http://www.wedding.com.my/248-threaded-qun-kwa" title="Threaded Qun Kwa">Threaded Qun Kwa</a></li></ul></li><li><a href="http://www.wedding.com.my/162-indian-traditional" title="Indian Traditional">Indian Traditional</a><ul><li><a href="http://www.wedding.com.my/249-wedding-saree" title="Wedding Saree">Wedding Saree</a></li><li><a href="http://www.wedding.com.my/250-bridal-saree" title="Bridal Saree">Bridal Saree</a></li></ul></li><li><a href="http://www.wedding.com.my/166-bridal-accessories" title="Bridal Accessories">Bridal Accessories</a><ul><li><a href="http://www.wedding.com.my/251-hair-accessories" title="Hair Accessories">Hair Accessories</a></li><li><a href="http://www.wedding.com.my/252-lingerie" title="Lingerie">Lingerie</a></li><li><a href="http://www.wedding.com.my/253-tudung-shawl" title="Tudung / Shawl">Tudung / Shawl</a></li><li><a href="http://www.wedding.com.my/254-hijab-pins-brooches" title="Hijab Pins &amp; Brooches">Hijab Pins &amp; Brooches</a></li><li><a href="http://www.wedding.com.my/255-watches" title="Watches">Watches</a></li><li><a href="http://www.wedding.com.my/256-clutches" title="Clutches">Clutches</a></li><li><a href="http://www.wedding.com.my/323-petticoatscan-can" title="Petticoats/Can Can">Petticoats/Can Can</a></li></ul></li><li><a href="http://www.wedding.com.my/23-bridal-shoes" title="Bridal Shoes">Bridal Shoes</a><ul><li><a href="http://www.wedding.com.my/113-flats" title="Flats">Flats</a></li><li><a href="http://www.wedding.com.my/114-peep-toe" title="Peep Toe">Peep Toe</a></li><li><a href="http://www.wedding.com.my/115-wedges" title="Wedges">Wedges</a></li><li><a href="http://www.wedding.com.my/116-pumps" title="Pumps">Pumps</a></li><li><a href="http://www.wedding.com.my/117-platforms" title="Platforms">Platforms</a></li><li><a href="http://www.wedding.com.my/118-booties" title="Booties">Booties</a></li></ul></li><li><a href="http://www.wedding.com.my/73-wedding-veils-gloves" title="Wedding Veils &amp; Gloves">Wedding Veils &amp; Gloves</a></li></ul></li><li><a href="http://www.wedding.com.my/19-groom" title="Groom"><div>Groom</div></a><ul><li><a href="http://www.wedding.com.my/167-suits" title="Suits">Suits</a></li><li><a href="http://www.wedding.com.my/168-coats-blazers" title="Coats &amp; Blazers">Coats &amp; Blazers</a></li><li><a href="http://www.wedding.com.my/169-shirts" title="Shirts">Shirts</a></li><li><a href="http://www.wedding.com.my/171-chinese-traditional" title="Chinese Traditional">Chinese Traditional</a></li><li><a href="http://www.wedding.com.my/173-groom-accessories" title="Groom Accessories">Groom Accessories</a><ul><li><a href="http://www.wedding.com.my/257-ties-bow-ties" title="Ties &amp; Bow Ties">Ties &amp; Bow Ties</a></li><li><a href="http://www.wedding.com.my/258-tie-clips" title="Tie Clips">Tie Clips</a></li><li><a href="http://www.wedding.com.my/259-cufflinks" title="Cufflinks">Cufflinks</a></li><li><a href="http://www.wedding.com.my/260-suspenders" title="Suspenders">Suspenders</a></li><li><a href="http://www.wedding.com.my/261-cummberbund-tuxedo-belts" title="Cummberbund / Tuxedo Belts">Cummberbund / Tuxedo Belts</a></li></ul></li><li><a href="http://www.wedding.com.my/199-groom-shoes" title="Groom Shoes">Groom Shoes</a></li><li><a href="http://www.wedding.com.my/308-best-man-t-shirts" title="Best Man T-Shirts">Best Man T-Shirts</a></li></ul></li><li><a href="http://www.wedding.com.my/18-baby-kids" title="Baby &amp; Kids"><div>Baby &amp; Kids</div></a><ul><li><a href="http://www.wedding.com.my/174-baby-girls" title="Baby Girls">Baby Girls</a></li><li><a href="http://www.wedding.com.my/175-baby-boys" title="Baby Boys">Baby Boys</a></li><li><a href="http://www.wedding.com.my/176-girls" title="Girls">Girls</a></li><li><a href="http://www.wedding.com.my/20-boys" title="Boys">Boys</a></li><li><a href="http://www.wedding.com.my/326-flower-girl-accessories" title="Flower Girl Accessories">Flower Girl Accessories</a></li></ul></li><li><a href="http://www.wedding.com.my/17-bridesmaids" title="Bridesmaids"><div>Bridesmaids</div></a><ul><li><a href="http://www.wedding.com.my/328-evening-dress" title="Evening Dress">Evening Dress</a></li><li><a href="http://www.wedding.com.my/327-bridesmaid-dress" title="Bridesmaid Dress">Bridesmaid Dress</a><ul><li><a href="http://www.wedding.com.my/179-a-line" title="A-Line">A-Line</a></li><li><a href="http://www.wedding.com.my/182-midi-length" title="Midi Length">Midi Length</a></li><li><a href="http://www.wedding.com.my/183-sheath" title="Sheath">Sheath</a></li><li><a href="http://www.wedding.com.my/184-mini" title="Mini">Mini</a></li><li><a href="http://www.wedding.com.my/185-convertible" title="Convertible">Convertible</a></li></ul></li><li><a href="http://www.wedding.com.my/186-bridesmaid-accessories" title="Bridesmaid Accessories">Bridesmaid Accessories</a></li><li><a href="http://www.wedding.com.my/309-bridesmaid-t-shirts" title="Bridesmaid T-Shirts">Bridesmaid T-Shirts</a></li></ul></li><li><a href="http://www.wedding.com.my/22-rings-jewelleries" title="Rings &amp; Jewelleries"><div>Rings &amp; Jewelleries</div></a><ul><li><a href="http://www.wedding.com.my/188-rings" title="Rings">Rings</a></li><li><a href="http://www.wedding.com.my/21-necklaces" title="Necklaces">Necklaces</a></li><li><a href="http://www.wedding.com.my/189-bracelets" title="Bracelets">Bracelets</a></li><li><a href="http://www.wedding.com.my/190-earrings" title="Earrings">Earrings</a></li><li><a href="http://www.wedding.com.my/191-jewelry-sets" title="Jewelry Sets">Jewelry Sets</a></li><li><a href="http://www.wedding.com.my/330-anklet" title="Anklet">Anklet</a></li></ul></li><li><a href="http://www.wedding.com.my/187-couples" title="Couples"><div>Couples</div></a><ul><li><a href="http://www.wedding.com.my/194-t-shirts" title="T-Shirts">T-Shirts</a></li><li><a href="http://www.wedding.com.my/195-accessories" title="Accessories">Accessories</a></li></ul></li><li><a href="http://www.wedding.com.my/294-prestige-collection" title="Prestige Collection"><div>Prestige Collection</div></a><ul><li><a href="http://www.wedding.com.my/295-wedding-gowns" title="Wedding Gowns">Wedding Gowns</a></li><li><a href="http://www.wedding.com.my/296-rings-jewelry" title="Rings &amp; Jewelry">Rings &amp; Jewelry</a></li><li><a href="http://www.wedding.com.my/297-bridal-shoes-" title="Bridal Shoes ">Bridal Shoes </a></li><li><a href="http://www.wedding.com.my/298-grooms-attire" title="Grooms Attire">Grooms Attire</a></li></ul></li><li><a href="http://www.wedding.com.my/310-mother-of-bride-groom" title="Mother of Bride &amp; Groom"><div>Mother of Bride &amp; Groom</div></a><ul><li><a href="http://www.wedding.com.my/311-evening-gowns" title="Evening Gowns">Evening Gowns</a></li><li><a href="http://www.wedding.com.my/329-plus-size-dress" title="Plus Size Dress">Plus Size Dress</a></li></ul></li></ul></li><li><a href="http://www.wedding.com.my/24-makeup" title="Makeup">Makeup</a><ul><li><a href="http://www.wedding.com.my/201-beauty-services" title="Beauty Services"><div>Beauty Services</div></a><ul><li><a href="http://www.wedding.com.my/208-hair" title="Hair">Hair</a></li><li><a href="http://www.wedding.com.my/209-face" title="Face">Face</a></li><li><a href="http://www.wedding.com.my/210-body" title="Body">Body</a></li><li><a href="http://www.wedding.com.my/211-grooming" title="Grooming">Grooming</a></li></ul></li><li><a href="http://www.wedding.com.my/25-hair-makeup" title="Hair &amp; Makeup"><div>Hair &amp; Makeup</div></a><ul><li><a href="http://www.wedding.com.my/274-bridal-makeup" title="Bridal Makeup">Bridal Makeup</a></li></ul></li><li><a href="http://www.wedding.com.my/26-health-beauty" title="Health &amp; Beauty"><div>Health &amp; Beauty</div></a><ul><li><a href="http://www.wedding.com.my/275-supplements" title="Supplements">Supplements</a></li><li><a href="http://www.wedding.com.my/278-beauty-tools" title="Beauty Tools">Beauty Tools</a></li></ul></li><li><a href="http://www.wedding.com.my/74-cosmetics" title="Cosmetics"><div>Cosmetics</div></a><ul><li><a href="http://www.wedding.com.my/202-face" title="Face">Face</a></li><li><a href="http://www.wedding.com.my/203-eyes" title="Eyes">Eyes</a></li><li><a href="http://www.wedding.com.my/204-lips" title="Lips">Lips</a></li><li><a href="http://www.wedding.com.my/205-body" title="Body">Body</a></li><li><a href="http://www.wedding.com.my/271-nails" title="Nails">Nails</a></li></ul></li><li><a href="http://www.wedding.com.my/200-hair-skin-care" title="Hair &amp; Skin Care"><div>Hair &amp; Skin Care</div></a><ul><li><a href="http://www.wedding.com.my/206-face" title="Face">Face</a></li><li><a href="http://www.wedding.com.my/207-body" title="Body">Body</a></li><li><a href="http://www.wedding.com.my/273-hair" title="Hair">Hair</a></li></ul></li></ul></li><li><a href="http://www.wedding.com.my/28-venue-decor" title="Venue &amp; Decor">Venue &amp; Decor</a><ul><li><a href="http://www.wedding.com.my/31-decoration-kits-packages" title="Decoration Kits &amp; Packages"><div>Decoration Kits &amp; Packages</div></a><ul><li><a href="http://www.wedding.com.my/215-malay-indian-decorations" title="Malay / Indian Decorations">Malay / Indian Decorations</a></li><li><a href="http://www.wedding.com.my/216-chinese-decorations" title="Chinese Decorations">Chinese Decorations</a></li><li><a href="http://www.wedding.com.my/217-western-decorations" title="Western Decorations">Western Decorations</a></li><li><a href="http://www.wedding.com.my/136-decoration-packages" title="Decoration Packages">Decoration Packages</a></li></ul></li><li><a href="http://www.wedding.com.my/33-florist" title="Florist"><div>Florist</div></a><ul><li><a href="http://www.wedding.com.my/281-corsages-boutonnieres" title="Corsages &amp; Boutonnieres">Corsages &amp; Boutonnieres</a></li><li><a href="http://www.wedding.com.my/282-bouquets" title="Bouquets">Bouquets</a></li><li><a href="http://www.wedding.com.my/283-décor-floral-arrangements" title="Décor &amp; Floral Arrangements">Décor &amp; Floral Arrangements</a></li></ul></li><li><a href="http://www.wedding.com.my/30-restaurants" title="Restaurants"><div>Restaurants</div></a><ul><li><a href="http://www.wedding.com.my/220-oriental-cuisine" title="Oriental Cuisine">Oriental Cuisine</a></li></ul></li><li><a href="http://www.wedding.com.my/29-hotels" title="Hotels"><div>Hotels</div></a><ul><li><a href="http://www.wedding.com.my/284-5-stars" title="5 Stars">5 Stars</a></li><li><a href="http://www.wedding.com.my/285-4-stars" title="4 Stars">4 Stars</a></li><li><a href="http://www.wedding.com.my/286-3-stars" title="3 Stars">3 Stars</a></li></ul></li><li><a href="http://www.wedding.com.my/35-pelamin" title="Pelamin"><div>Pelamin</div></a><ul><li><a href="http://www.wedding.com.my/280-pakej-lengkap" title="Pakej Lengkap">Pakej Lengkap</a></li></ul></li><li><a href="http://www.wedding.com.my/156-private-venues" title="Private Venues"><div>Private Venues</div></a><ul><li><a href="http://www.wedding.com.my/287-cruises" title="Cruises">Cruises</a></li></ul></li></ul></li><li><a href="http://www.wedding.com.my/38-services" title="Services">Services</a><ul><li><a href="http://www.wedding.com.my/39-bridal-house" title="Bridal House"><div>Bridal House</div></a><ul><li><a href="http://www.wedding.com.my/85-pre-wedding-" title="Pre-Wedding ">Pre-Wedding </a></li><li><a href="http://www.wedding.com.my/71-bridal-house-package" title="Bridal House Package">Bridal House Package</a></li></ul></li><li><a href="http://www.wedding.com.my/41-photography" title="Photography"><div>Photography</div></a><ul><li><a href="http://www.wedding.com.my/69-pre-wedding-" title="Pre-Wedding ">Pre-Wedding </a></li><li><a href="http://www.wedding.com.my/107-destination-pre-wedding" title="Destination Pre-Wedding">Destination Pre-Wedding</a></li><li><a href="http://www.wedding.com.my/70-actual-day" title="Actual Day">Actual Day</a></li><li><a href="http://www.wedding.com.my/78-rom-engagement" title="ROM &amp; Engagement">ROM &amp; Engagement</a></li><li><a href="http://www.wedding.com.my/148-family-photo-shooting" title="Family Photo Shooting">Family Photo Shooting</a></li></ul></li><li><a href="http://www.wedding.com.my/42-videography" title="Videography"><div>Videography</div></a><ul><li><a href="http://www.wedding.com.my/81-actual-day" title="Actual Day">Actual Day</a></li><li><a href="http://www.wedding.com.my/83-rom-engagement" title="ROM &amp; Engagement">ROM &amp; Engagement</a></li><li><a href="http://www.wedding.com.my/82-proposal-" title="Proposal ">Proposal </a></li></ul></li><li><a href="http://www.wedding.com.my/47-entertainment" title="Entertainment"><div>Entertainment</div></a><ul><li><a href="http://www.wedding.com.my/44-live-band" title="Live Band">Live Band</a></li><li><a href="http://www.wedding.com.my/46-dj-emcee" title="DJ &amp; Emcee">DJ &amp; Emcee</a></li><li><a href="http://www.wedding.com.my/43-photobooth" title="Photobooth">Photobooth</a></li><li><a href="http://www.wedding.com.my/276-magician" title="Magician">Magician</a></li><li><a href="http://www.wedding.com.my/277-comedian" title="Comedian">Comedian</a></li></ul></li><li><a href="http://www.wedding.com.my/279-wedding-coordinators" title="Wedding Coordinators"><div>Wedding Coordinators</div></a><ul><li><a href="http://www.wedding.com.my/109-traditional-marriage-services" title="Traditional Marriage Services">Traditional Marriage Services</a></li><li><a href="http://www.wedding.com.my/32-wedding-planner" title="Wedding Planner">Wedding Planner</a></li><li><a href="http://www.wedding.com.my/333-kursus-kahwin" title="Kursus Kahwin">Kursus Kahwin</a></li></ul></li></ul></li><li><a href="http://www.wedding.com.my/48-fb" title="F&amp;B">F&amp;B</a><ul><li><a href="http://www.wedding.com.my/49-wedding-cakes" title="Wedding Cakes"><div>Wedding Cakes</div></a><ul><li><a href="http://www.wedding.com.my/68-cake-toppers" title="Cake Toppers">Cake Toppers</a></li><li><a href="http://www.wedding.com.my/222-cupcakes" title="Cupcakes">Cupcakes</a></li><li><a href="http://www.wedding.com.my/223-round-oval-cakes" title="Round / Oval Cakes">Round / Oval Cakes</a></li><li><a href="http://www.wedding.com.my/224-square-rectangular-cakes" title="Square / Rectangular Cakes">Square / Rectangular Cakes</a></li><li><a href="http://www.wedding.com.my/225-other-cakes" title="Other Cakes">Other Cakes</a></li></ul></li><li><a href="http://www.wedding.com.my/50-catering" title="Catering"><div>Catering</div></a><ul><li><a href="http://www.wedding.com.my/142-halal-cuisine" title="Halal Cuisine">Halal Cuisine</a></li><li><a href="http://www.wedding.com.my/145-western-cuisine" title="Western Cuisine">Western Cuisine</a></li><li><a href="http://www.wedding.com.my/239-high-tea-canapes" title="High Tea &amp; Canapes">High Tea &amp; Canapes</a></li></ul></li><li><a href="http://www.wedding.com.my/52-petite-sweets" title="Petite Sweets"><div>Petite Sweets</div></a><ul><li><a href="http://www.wedding.com.my/236-sweets-mini-cakes" title="Sweets &amp; Mini Cakes">Sweets &amp; Mini Cakes</a></li><li><a href="http://www.wedding.com.my/237-chocolates" title="Chocolates">Chocolates</a></li></ul></li><li><a href="http://www.wedding.com.my/112-wedding-biscuits" title="Wedding Biscuits"><div>Wedding Biscuits</div></a><ul><li><a href="http://www.wedding.com.my/232-chinese-biscuits" title="Chinese Biscuits">Chinese Biscuits</a></li></ul></li></ul></li><li><a href="http://www.wedding.com.my/53-gifts-cards" title="Gifts &amp; Cards">Gifts &amp; Cards</a><ul><li><a href="http://www.wedding.com.my/57-invitation-cards" title="Invitation Cards"><div>Invitation Cards</div></a><ul><li><a href="http://www.wedding.com.my/151-kad-kahwin" title="Kad Kahwin">Kad Kahwin</a><ul><li><a href="http://www.wedding.com.my/153-kraft-paper-card" title="Kraft Paper Card">Kraft Paper Card</a></li><li><a href="http://www.wedding.com.my/154-folded-invitation-card" title="Folded Invitation Card">Folded Invitation Card</a></li><li><a href="http://www.wedding.com.my/155-flat-cards" title="Flat Cards">Flat Cards</a></li></ul></li><li><a href="http://www.wedding.com.my/152-chinese-invitation-cards" title="Chinese Invitation Cards">Chinese Invitation Cards</a></li><li><a href="http://www.wedding.com.my/137-laser-cut-cards" title="Laser Cut Cards">Laser Cut Cards</a><ul><li><a href="http://www.wedding.com.my/265-folded-laser-cards" title="Folded Laser Cards">Folded Laser Cards</a></li></ul></li><li><a href="http://www.wedding.com.my/77-kraft-paper-cards" title="Kraft Paper Cards">Kraft Paper Cards</a><ul><li><a href="http://www.wedding.com.my/266-folded-kraft-cards" title="Folded Kraft Cards">Folded Kraft Cards</a></li></ul></li><li><a href="http://www.wedding.com.my/108-photo-wedding-cards" title="Photo Wedding Cards">Photo Wedding Cards</a><ul><li><a href="http://www.wedding.com.my/267-folded-photo-cards" title="Folded Photo Cards">Folded Photo Cards</a></li></ul></li><li><a href="http://www.wedding.com.my/111-wedding-tickets" title="Wedding Tickets">Wedding Tickets</a><ul><li><a href="http://www.wedding.com.my/268-folded-wedding-tickets" title="Folded Wedding Tickets">Folded Wedding Tickets</a></li></ul></li><li><a href="http://www.wedding.com.my/121-designer-flat-cards" title="Designer Flat Cards">Designer Flat Cards</a><ul><li><a href="http://www.wedding.com.my/269-folded-flat-cards" title="Folded Flat Cards">Folded Flat Cards</a></li></ul></li></ul></li><li><a href="http://www.wedding.com.my/54-wedding-favors" title="Wedding Favors"><div>Wedding Favors</div></a><ul><li><a href="http://www.wedding.com.my/104-gift-boxes-bags-containers" title="Gift Boxes, Bags &amp; Containers">Gift Boxes, Bags &amp; Containers</a></li><li><a href="http://www.wedding.com.my/91-thematic-favors" title="Thematic Favors">Thematic Favors</a></li><li><a href="http://www.wedding.com.my/92-customized-favors" title="Customized Favors">Customized Favors</a></li></ul></li><li><a href="http://www.wedding.com.my/55-wedding-gifts" title="Wedding Gifts"><div>Wedding Gifts</div></a><ul><li><a href="http://www.wedding.com.my/97-gifts-for-brides" title="Gifts for Brides">Gifts for Brides</a></li><li><a href="http://www.wedding.com.my/212-gifts-for-grooms" title="Gifts for Grooms">Gifts for Grooms</a></li><li><a href="http://www.wedding.com.my/213-others" title="Others">Others</a></li><li><a href="http://www.wedding.com.my/214-customized-gifts" title="Customized Gifts">Customized Gifts</a></li></ul></li><li><a href="http://www.wedding.com.my/56-hantaran" title="Hantaran"><div>Hantaran</div></a><ul></ul></li><li><a href="http://www.wedding.com.my/58-stationeries" title="Stationeries"><div>Stationeries</div></a><ul><li><a href="http://www.wedding.com.my/67-license-car-plates" title="License Car Plates">License Car Plates</a></li><li><a href="http://www.wedding.com.my/98-customized-canvas" title="Customized Canvas">Customized Canvas</a></li><li><a href="http://www.wedding.com.my/100-guestbook" title="Guestbook">Guestbook</a></li><li><a href="http://www.wedding.com.my/101-ring-pillow" title="Ring Pillow">Ring Pillow</a></li><li><a href="http://www.wedding.com.my/103-place-cards" title="Place Cards">Place Cards</a></li><li><a href="http://www.wedding.com.my/105-money-box" title="Money Box">Money Box</a></li><li><a href="http://www.wedding.com.my/312-guidebook" title="Guidebook">Guidebook</a></li></ul></li></ul></li><li><a href="http://www.wedding.com.my/75-destinations" title="Destinations">Destinations</a><ul><li><a href="http://www.wedding.com.my/36-honeymoon" title="Honeymoon"><div>Honeymoon</div></a><ul><li><a href="http://www.wedding.com.my/302-indonesia" title="Indonesia">Indonesia</a></li><li><a href="http://www.wedding.com.my/303-philippines" title="Philippines">Philippines</a></li><li><a href="http://www.wedding.com.my/304-thailand" title="Thailand">Thailand</a></li><li><a href="http://www.wedding.com.my/305-hong-kong" title="Hong Kong">Hong Kong</a></li><li><a href="http://www.wedding.com.my/306-malaysia" title="Malaysia">Malaysia</a></li><li><a href="http://www.wedding.com.my/307-maldives" title="Maldives">Maldives</a></li><li><a href="http://www.wedding.com.my/321-japan" title="Japan">Japan</a></li></ul></li><li><a href="http://www.wedding.com.my/120-destination-weddings" title="Destination Weddings"><div>Destination Weddings</div></a><ul><li><a href="http://www.wedding.com.my/76-indonesia" title="Indonesia">Indonesia</a></li></ul></li></ul></li>
+            <li class="menu-planner pull-right "><a href="#" onclick="$('.open-popup-notification').trigger('click');">ASK OUR PLANNER</a></li>
+      
+      <li class="menu-pakej pull-right" style="background-color: #3fb8af;"><a href="http://www.wedding.com.my/bridal/vendor" style="background-color: #3fb8af;">VENDORS</a></li>
+    </ul>
+  </div>
+  <!--/ Menu --> 
+  <!-- Modal -->
+  <div id="planningMask"></div>
+  <div class="modal fade" id="planningModal" role="dialog">
+    <div class="modal-dialog" id="planningModalDialog"> 
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header"> <img class="plannerTitle" src="http://www.wedding.com.my/img/planner logo.png"> </div>
+        <div class="modal-body">
+          <div> <span class="plannerDivider"> <a href="http://www.wedding.com.my/bridal/pakej-kahwin" title="pakej-kahwin"> 
+            <div id="pakejImg" class="zoomImg palannerImg"></div>
+            <span class="plannerButton">PAKEJ KAHWIN</span> </a> </span> <span class="plannerDivider"> <a href="http://www.wedding.com.my/bridal/planning" title="pakej-kahwin">
+            <div id="planningImg" class="zoomImg plannerImg"></div>
+            <span class="plannerButton">ASK OUR PLANNER</span> </a> </span> </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <!-- -->
+  <div id="askPlannerMask"></div>
+  <div class="modal fade zoomAskPlanner" id="askPlannerModal" role="dialog">
+    <div class="modal-dialog" id="askPlannerModalDialog"> 
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-body">
+          <form class="form-horizontal" role="form" id="form-quote" action="/bridal/planning" method="post">
+            <div class="col-md-12">
+<h4>ASK PLANNER</h4>
+                <input type="hidden" id="Quotation_expectedDate_" name="Quotation[expectedDate_]" value="01/01/1980">
+                <input type="hidden" value="9c0b39836ba704975f5af6d8715bc4868d2f8e0b" name="YII_CSRF_TOKEN">
+                <input id="Quotation_categories__0" value="26" type="checkbox" checked="" name="Quotation[categories_][]" style="display:none">
+                <div>
+                <label for="name" class="mrgn-top-3p">Full Name</label>
+                <input class="form-control input" placeholder="" required="required" name="Quotation[name_]" id="Quotation_name_" type="text">
+                </div>
+                <div>
+                <label for="email" class="mrgn-top-3p">Email</label>
+                <input type="text" class="form-control input" placeholder="" required="required" name="Quotation[email_]" id="Quotation_email_">
+                </div>
+                <div>
+                <label for="contact" class="mrgn-top-3p">Phone Number</label>
+                <input class="form-control input intlphone" placeholder="" required="required" name="Quotation[contactNo_]" id="Quotation_contactNo_" type="text">
+                </div>
+                
+                <div>
+                <label for="categories" class="mrgn-top-3p">How do you like us to reach you?</label>
+                <div data-toggle="buttons" id="Quotation_contactMethods_">
+                  <input id="ytQuotation_contactMethods_" type="hidden" value="" name="Quotation[contactMethods_]">
+                  <label class="btn btn-cat-selection">
+                    <input id="Quotation_contactMethods__0" value="1" type="radio" name="Quotation[contactMethods_][]">
+                    Call</label>
+                  <label class="btn btn-cat-selection">
+                    <input id="Quotation_contactMethods__1" value="3" type="radio" name="Quotation[contactMethods_][]">
+                    Whatsapp</label>
+                  <label class="btn btn-cat-selection">
+                    <input id="Quotation_contactMethods__2" value="2" type="radio" name="Quotation[contactMethods_][]">
+                    Email</label>
+                   </div>
+                  </div>
+                <input class="form-control input" placeholder="" readonly="" required="required" value="hello" name="Quotation[message_]" id="Quotation_message_" type="text">
+                
+                <!-- Hidden Content --> 
+                <!--div class="collapse mrgn-top-3p mrgn-bottom-5p" id="collapseContent">
 				<label for="location" class="mrgn-top-3p">WHERE'S YOUR WEDDING LOCATION?</label>
-				<input class="form-control" placeholder="Your City &amp; State" name="Quotation[location_]" id="Quotation_location_" type="text" />                    </div-->
-				<!-- Button -->
-				
-				<button class="btn btn-green pull-left btn-lg" role="button" onclick="closeEmailPlanner();">Close</button>
-				<button type="submit" class="btn btn-pink pull-right btn-lg" role="button">Submit</button>
-				<!-- -->
-				</div>
-				</div>
-				<input name="Quotation[password_]" id="Quotation_password_" type="hidden">        </form>
+				<input class="form-control" placeholder="Your City &amp; State" name="Quotation[location_]" id="Quotation_location_" type="text" />                    </div--> 
+                <!-- Button -->
+                
+                <button class="btn btn-default pull-left" role="button" onclick="closeEmailPlanner();">Close</button>
+                <button type="submit" class="btn btn-default pull-right" role="button">Submit</button>
+                          <div class="clearfix"></div>
+                <!-- --> 
+            </div>
+            <input name="Quotation[password_]" id="Quotation_password_" type="hidden">
+          </form>
 
-			</div>
-		  </div>
-		</div>
-	</div>
-	</section>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+ 
 <script>
 $(document).click(function (e) {
     e.stopPropagation();
@@ -870,164 +911,10 @@ else {
 
 	}
 </script>
-<style>
-	#planningMask
-	{
-		top: 0;
-		left: 0;
-		width: 100%;
-		height: 100%;
-		z-index: 9990;
-		overflow: hidden;
-		position: fixed;
-		background: #0b0b0b;
-		opacity: 0.8;
-		display:none;
-	}
-	
-	#planningModal {
-		width:100%; 
-		display:none;
-		position: fixed;
-		text-align: center;
-		top: 3%;
-		left: 0;
-		z-index:9999;
-	}
 
-	#planningModal #planningModalDialog {
-		max-width: 90%;
-		margin: 0 auto;
-	}
+<!-- Calling  --->
+ 
 
-	#planningModal .modal-content {
-		max-width:500px;
-		margin: 0 auto;
-	}
-	#planningModal .modal-body {
-		background:white;	
-	}
-	
-	#askPlannerMask
-	{
-		top: 0;
-		left: 0;
-		width: 100%;
-		height: 100%;
-		z-index: 9990;
-		overflow: hidden;
-		position: fixed;
-		background: #0b0b0b;
-		opacity: 0.8;
-		display:none;
-	}
-	
-	#askPlannerModal {
-		width:100%; 
-		display:none;
-		position: fixed;
-		text-align: center;
-		top: 3%;
-		left: 0;
-		z-index:9999;
-	}
-
-	#askPlannerModal #askPlannerModalDialog {
-		max-width: 90%;
-		margin: 0 auto;
-	}
-
-	#askPlannerModal .modal-content {
-		max-width:500px;
-		margin: 0 auto;
-	}
-	
-
-	#planningImg {
-		background-image: url("http://www.wedding.com.my/img/planning.jpg");
-	}
-
-	#pakejImg {
-		background-image: url("http://www.wedding.com.my/img/pakej kahwin.jpg");
-	}
-
-	div.zoomImg {
-		display: inline-block;
-		width: 100%;
-		height: 100%;
-
-		background-size: 100% 100%;
-		background-repeat: no-repeat;
-		background-position: center center;
-		transition: all 0.4s ease-in;
-	}
-
-	div.zoomImg:hover {
-		cursor: pointer;
-		
-		background-size: 110% 110%;
-	}
-
-	#planningModal img.plannerTitle {
-		max-width: 50%;
-		margin: 20px;
-	}
-	#planningModal span.plannerDivider {
-		display:inline-block;
-		width:49%;
-	}
-	#planningModal img.plannerImg {
-		max-width: 100%;
-	}
-	#planningModal .plannerButton {
-		display:block;
-		background: #F06B88;
-		text-align: center;
-		color: white;
-		margin: 15px auto;
-		font-size: 14px;
-		width: 170px;
-		padding: 10px 20px;
-	}
-	
-	#askPlannerModal img.plannerTitle {
-		max-width: 50%;
-		margin: 20px;
-	}
-	#askPlannerModal span.plannerDivider {
-		display:inline-block;
-		width:49%;
-	}
-	#askPlannerModal img.plannerImg {
-		max-width: 100%;
-	}
-	#askPlannerModal .plannerButton {
-		display:block;
-		background: #F06B88;
-		text-align: center;
-		color: white;
-		margin: 15px auto;
-		font-size: 14px;
-		width: 170px;
-		padding: 10px 20px;
-	}
-
-	@media(max-width: 767px) {
-		#planningModal .plannerButton {
-			font-size: 10px;
-			width: 110px;
-			padding: 5px;
-			margin: 5px auto;
-		}
-		
-		#askPlannerModal .plannerButton {
-			font-size: 10px;
-			width: 110px;
-			padding: 5px;
-			margin: 5px auto;
-		}
-	}
-</style>
 	<!-- ShopApps: shopappsaddtracking top called -->
 
   
@@ -1131,7 +1018,7 @@ else {
 	<h4>LEARN MORE</h4>
 	<ul class="bullet">
 		<li>
-			<a href="http://www.wedding.com.my/weddingkarren/contact-us" title="Contact Us">
+			<a href="http://www.wedding.com.my/contact-us" title="Contact Us">
 				Contact Us
 			</a>
 		</li>
@@ -1226,7 +1113,7 @@ else {
 	<h4>Learn More</h4>
 	<ul class="bullet">
 		<li>
-			<a href="http://www.wedding.com.my/weddingkarren/contact-us" title="Contact Us">
+			<a href="http://www.wedding.com.my/contact-us" title="Contact Us">
 				Contact Us
 			</a>
 		</li>
@@ -1287,17 +1174,17 @@ else {
 			</a>
 		</li>
 		<li>
-			<a href="http://www.wedding.com.my/weddingkarren/new-products" title="New Arrivals">
+			<a href="http://www.wedding.com.my/new-products" title="New Arrivals">
 				New Arrivals
 			</a>
 		</li>
 		<li>
-			<a href="http://www.wedding.com.my/weddingkarren/best-sales" title="Best Sellers">
+			<a href="http://www.wedding.com.my/best-sales" title="Best Sellers">
 				Best Sellers
 			</a>
 		</li>
 		<li>
-			<a href="http://www.wedding.com.my/weddingkarren/shops-name-start-with-all-by-country-in-0-all" title="Store Directory">
+			<a href="http://www.wedding.com.my/shops-name-start-with-all-by-country-in-0-all" title="Store Directory">
 				Store Directory
 			</a>
 		</li>
@@ -1416,14 +1303,14 @@ else {
 		<div class="list">
 		<ul class="tree dhtml">
 									<li class="category_64">
-	<a href="http://www.wedding.com.my/64-campaign" title="Latest wedding sales campaign, offers, bridal sales, discount &amp;amp; promotion packages.">Campaign(693)</a>
+	<a href="http://www.wedding.com.my/64-campaign" title="Latest wedding sales campaign, offers, bridal sales, discount &amp;amp; promotion packages.">Campaign(635)</a>
 			<ul>
 									<li class="category_138">
-	<a href="http://www.wedding.com.my/138-forever-love-deal" title="">FOREVER LOVE DEAL(171)</a>
+	<a href="http://www.wedding.com.my/138-forever-love-deal" title="">FOREVER LOVE DEAL(148)</a>
 	</li>
 
 												<li class="category_149">
-	<a href="http://www.wedding.com.my/149-shoes50" title="">SHOES50(236)</a>
+	<a href="http://www.wedding.com.my/149-shoes50" title="">SHOES50(235)</a>
 	</li>
 
 												<li class="category_157">
@@ -1431,7 +1318,7 @@ else {
 	</li>
 
 												<li class="category_150">
-	<a href="http://www.wedding.com.my/150-simply-stylish-dress-collection" title="">SIMPLY STYLISH DRESS COLLECTION(26)</a>
+	<a href="http://www.wedding.com.my/150-simply-stylish-dress-collection" title="">SIMPLY STYLISH DRESS COLLECTION(22)</a>
 	</li>
 
 												<li class="category_272">
@@ -1439,19 +1326,19 @@ else {
 	</li>
 
 												<li class="category_288">
-	<a href="http://www.wedding.com.my/288-be-my-bridesmaid" title="~Keep Calm I'm The Bridesmaid~">Be My Bridesmaid(137)</a>
+	<a href="http://www.wedding.com.my/288-be-my-bridesmaid" title="~Keep Calm I'm The Bridesmaid~">Be My Bridesmaid(89)</a>
 	</li>
 
 												<li class="category_289">
-	<a href="http://www.wedding.com.my/289-bridal-hair-accessories" title="~Own your unique piece of hair accessories on your big day~">Bridal Hair Accessories(93)</a>
+	<a href="http://www.wedding.com.my/289-bridal-hair-accessories" title="~Own your unique piece of hair accessories on your big day~">Bridal Hair Accessories(47)</a>
 	</li>
 
 												<li class="category_291">
-	<a href="http://www.wedding.com.my/291-ties-are-cool" title="✮ Neckties Satisfy Desire To Dress In Art&nbsp;✮">Ties Are Cool(125)</a>
+	<a href="http://www.wedding.com.my/291-ties-are-cool" title="✮ Neckties Satisfy Desire To Dress In Art&nbsp;✮">Ties Are Cool(99)</a>
 	</li>
 
 												<li class="category_292">
-	<a href="http://www.wedding.com.my/292-2016-latest-korean-bridal-fashion" title="✿ That Moment: When You Find The Dress&nbsp;✿">2016 Latest Korean Bridal Fashion(51)</a>
+	<a href="http://www.wedding.com.my/292-2016-latest-korean-bridal-fashion" title="✿ That Moment: When You Find The Dress&nbsp;✿">2016 Latest Korean Bridal Fashion(46)</a>
 	</li>
 
 												<li class="category_293">
@@ -1459,15 +1346,23 @@ else {
 	</li>
 
 												<li class="category_322">
-	<a href="http://www.wedding.com.my/322-year-end-sales-evening-dress" title="Shop from our hand-picked selection of party, occasion &amp;amp; evening wear to mesmerize every event!">Year End Sales - Evening Dress(159)</a>
+	<a href="http://www.wedding.com.my/322-wedding-evening-gowns-galore" title="Wedding Gowns and Evening Gowns for every occasion!">Wedding &amp; Evening Gowns Galore(170)</a>
 	</li>
 
 												<li class="category_324">
-	<a href="http://www.wedding.com.my/324-baby-kids-formal-wear" title="Shop from our array of flowergirl dresses, rompers, and tuxedo suits for Little Boys and Girls!!&nbsp;">Baby &amp; Kids Formal Wear(104)</a>
+	<a href="http://www.wedding.com.my/324-baby-kids-formal-wear" title="Shop from our array of flowergirl dresses, rompers, and tuxedo suits for Little Boys and Girls!!&nbsp;">Baby &amp; Kids Formal Wear(96)</a>
 	</li>
 
-												<li class="category_325 last">
-	<a href="http://www.wedding.com.my/325-pre-wedding-packages" title="The Beginning Of Your Romantic Journey">Pre-Wedding Packages(28)</a>
+												<li class="category_325">
+	<a href="http://www.wedding.com.my/325-pre-wedding-packages" title="The Beginning Of Your Romantic Journey">Pre-Wedding Packages(20)</a>
+	</li>
+
+												<li class="category_332">
+	<a href="http://www.wedding.com.my/332-be-my-valentine" title="Valentine's day - One of the special day of the year. Don't missed out the special gift for your loved one. Hurry up and purchase now!">Be My Valentine(42)</a>
+	</li>
+
+												<li class="category_331 last">
+	<a href="http://www.wedding.com.my/331-gift-cards" title="">Gift Cards(3)</a>
 	</li>
 
 							</ul>
@@ -1475,33 +1370,33 @@ else {
 
 					
 													<li class="category_12">
-	<a href="http://www.wedding.com.my/12-fashion" title="Wedding gown, bridesmaid dress, flower girl, kids formal wear, accessories, ring, jewelries, shoes.">Fashion(1927)</a>
+	<a href="http://www.wedding.com.my/12-fashion" title="Get all your wedding fashion needs here with us. 
+ Find all your fashion needs for your upcoming wedding with Wedding.com.my. With products ranging from mother of groom dresses or mother of bride dresses, dresses for weddings and cheap wedding dresses...">Fashion(2295)</a>
 			<ul>
 									<li class="category_16">
-	<a href="http://www.wedding.com.my/16-bride" title="Slim, plus size, A-line, ball gown, mermaid, trumpet, sheath, princess, designer.  
-  &nbsp;  Featuring &nbsp; Absolute Bride  &nbsp;">Bride(926)</a>
+	<a href="http://www.wedding.com.my/16-bride" title="A bride’s most important asset during their special day is their wedding dress. At Wedding.com.my, find the perfect dress for your special day with cheap wedding dresses online. With a range of dresses like plus size wedding dresses and Indian wedding...">Bride(1108)</a>
 			<ul>
 									<li class="category_158">
-	<a href="http://www.wedding.com.my/158-wedding-gowns" title="">Wedding Gowns(184)</a>
+	<a href="http://www.wedding.com.my/158-wedding-gowns" title="Get dream wedding gowns from Wedding.com.my. With a wide variety of wedding dress styles to suit the style and body type of any bride, you will definitely find suitable wedding dresses for your special day....">Wedding Gowns(212)</a>
 			<ul>
 									<li class="category_240">
-	<a href="http://www.wedding.com.my/240-a-line" title="">A-Line(58)</a>
+	<a href="http://www.wedding.com.my/240-a-line" title="">A-Line(68)</a>
 	</li>
 
 												<li class="category_241">
-	<a href="http://www.wedding.com.my/241-ball-gowns" title="">Ball Gowns(51)</a>
+	<a href="http://www.wedding.com.my/241-ball-gowns" title="">Ball Gowns(63)</a>
 	</li>
 
 												<li class="category_242">
-	<a href="http://www.wedding.com.my/242-mermaid-trumpet" title="">Mermaid / Trumpet(27)</a>
+	<a href="http://www.wedding.com.my/242-mermaid-trumpet" title="">Mermaid / Trumpet(28)</a>
 	</li>
 
 												<li class="category_243">
-	<a href="http://www.wedding.com.my/243-midi-length" title="">Midi Length(2)</a>
+	<a href="http://www.wedding.com.my/243-midi-length" title="">Midi Length(3)</a>
 	</li>
 
 												<li class="category_244">
-	<a href="http://www.wedding.com.my/244-sheath" title="">Sheath(8)</a>
+	<a href="http://www.wedding.com.my/244-sheath" title="">Sheath(10)</a>
 	</li>
 
 												<li class="category_245">
@@ -1517,7 +1412,9 @@ else {
 
 												<li class="category_14">
 	<a href="http://www.wedding.com.my/14-evening-gowns" title="Evening, cocktail dinner, plus size, formal, prom, tulle, tea length, sheath, a-line, ball gown, designer.  
-  &nbsp;  Featuring &nbsp; BeautyOne  &nbsp;">Evening Gowns(170)</a>
+   
+   
+ Get the perfect evening gown to make a statement during your wedding. With a variety of formal dresses in various styles like long...">Evening Gowns(170)</a>
 			<ul>
 									<li class="category_262">
 	<a href="http://www.wedding.com.my/262-malay-dresses" title="">Malay Dresses</a>
@@ -1528,32 +1425,32 @@ else {
 	</li>
 
 												<li class="category_264">
-	<a href="http://www.wedding.com.my/264-western-dresses" title="">Western Dresses(128)</a>
+	<a href="http://www.wedding.com.my/264-western-dresses" title="">Western Dresses(119)</a>
 	</li>
 
 												<li class="category_270 last">
-	<a href="http://www.wedding.com.my/270-chinese-dresses" title="">Chinese Dresses(3)</a>
+	<a href="http://www.wedding.com.my/270-chinese-dresses" title="">Chinese Dresses(2)</a>
 	</li>
 
 							</ul>
 	</li>
 
 												<li class="category_160">
-	<a href="http://www.wedding.com.my/160-chinese-traditional" title="">Chinese Traditional(15)</a>
+	<a href="http://www.wedding.com.my/160-chinese-traditional" title="Get the Chinese traditional dress for your wedding ceremony at Wedding.com.my. With a variety of Chinese dress to suit every body type and look, you are sure to find the perfect one for your wedding....">Chinese Traditional(88)</a>
 			<ul>
 									<li class="category_247">
-	<a href="http://www.wedding.com.my/247-cheong-sam" title="">Cheong Sam(14)</a>
+	<a href="http://www.wedding.com.my/247-cheong-sam" title="">Cheong Sam(13)</a>
 	</li>
 
 												<li class="category_248 last">
-	<a href="http://www.wedding.com.my/248-threaded-qun-kwa" title="">Threaded Qun Kwa(1)</a>
+	<a href="http://www.wedding.com.my/248-threaded-qun-kwa" title="">Threaded Qun Kwa(75)</a>
 	</li>
 
 							</ul>
 	</li>
 
 												<li class="category_162">
-	<a href="http://www.wedding.com.my/162-indian-traditional" title="">Indian Traditional(51)</a>
+	<a href="http://www.wedding.com.my/162-indian-traditional" title="Get the perfect traditional Indian dress for your wedding at Wedding.com.my. With a range of Indian wedding dresses in a variety of colours and designs, you are sure to find the one that is perfect for you, and follows the theme of your wedding....">Indian Traditional(118)</a>
 			<ul>
 									<li class="category_249">
 	<a href="http://www.wedding.com.my/249-wedding-saree" title="">Wedding Saree(33)</a>
@@ -1567,14 +1464,14 @@ else {
 	</li>
 
 												<li class="category_166">
-	<a href="http://www.wedding.com.my/166-bridal-accessories" title="">Bridal Accessories(151)</a>
+	<a href="http://www.wedding.com.my/166-bridal-accessories" title="Accessories are essential to complete any look. For a bride to look their best, they need the best accessories, which can be found at Wedding.com.my. With a range of accessories like hair accessories, hair clips and headband, you can be sure that you...">Bridal Accessories(133)</a>
 			<ul>
 									<li class="category_251">
-	<a href="http://www.wedding.com.my/251-hair-accessories" title="">Hair Accessories(103)</a>
+	<a href="http://www.wedding.com.my/251-hair-accessories" title="">Hair Accessories(88)</a>
 	</li>
 
 												<li class="category_252">
-	<a href="http://www.wedding.com.my/252-lingerie" title="">Lingerie(14)</a>
+	<a href="http://www.wedding.com.my/252-lingerie" title="">Lingerie(13)</a>
 	</li>
 
 												<li class="category_253">
@@ -1602,26 +1499,28 @@ else {
 
 												<li class="category_23">
 	<a href="http://www.wedding.com.my/23-bridal-shoes" title="Bridal shoes, heels, peep toes, closed toe, sandles, stiletto, platform, pumps, wedges, flats.  
-   &nbsp;  Featuring &nbsp;Kate Mosella">Bridal Shoes(340)</a>
+   
+   
+ Bridal shoes are important to complement your wedding dress. Get the perfect wedding shoes from Wedding.com.my. With a variety of wedding shoes...">Bridal Shoes(376)</a>
 			<ul>
 									<li class="category_113">
-	<a href="http://www.wedding.com.my/113-flats" title="">Flats(8)</a>
+	<a href="http://www.wedding.com.my/113-flats" title="">Flats(12)</a>
 	</li>
 
 												<li class="category_114">
-	<a href="http://www.wedding.com.my/114-peep-toe" title="">Peep Toe(193)</a>
+	<a href="http://www.wedding.com.my/114-peep-toe" title="">Peep Toe(201)</a>
 	</li>
 
 												<li class="category_115">
-	<a href="http://www.wedding.com.my/115-wedges" title="">Wedges(2)</a>
+	<a href="http://www.wedding.com.my/115-wedges" title="">Wedges(6)</a>
 	</li>
 
 												<li class="category_116">
-	<a href="http://www.wedding.com.my/116-pumps" title="">Pumps(197)</a>
+	<a href="http://www.wedding.com.my/116-pumps" title="">Pumps(217)</a>
 	</li>
 
 												<li class="category_117">
-	<a href="http://www.wedding.com.my/117-platforms" title="">Platforms(118)</a>
+	<a href="http://www.wedding.com.my/117-platforms" title="">Platforms(122)</a>
 	</li>
 
 												<li class="category_118 last">
@@ -1632,37 +1531,36 @@ else {
 	</li>
 
 												<li class="category_73 last">
-	<a href="http://www.wedding.com.my/73-wedding-veils-gloves" title="Fashionable wedding veils from single tier to two tier veils, from finger tips to cathedral length, with hand knitted lace, sequins, swarovskis or pearls, in white or ivory.">Wedding Veils &amp; Gloves(33)</a>
+	<a href="http://www.wedding.com.my/73-wedding-veils-gloves" title="Walk down the aisle with the perfect bridal veil to complete your look. With a variety of products like wedding veils and wedding gloves, you are sure to find what you need with Wedding.com.my....">Wedding Veils &amp; Gloves(27)</a>
 	</li>
 
 							</ul>
 	</li>
 
 												<li class="category_19">
-	<a href="http://www.wedding.com.my/19-groom" title="Men clothing, tuxedo, accessories, suits, eton, vest, shirts, bow, tie, shoes, cuffs.  
-  &nbsp;  Featuring &nbsp; Elite&amp;amp;Luck Cufflinks  &nbsp;">Groom(279)</a>
+	<a href="http://www.wedding.com.my/19-groom" title="Be the groom with style with groom’s fashion from Wedding.com.my. With a variety of fashionable threads ranging from suits to best man t-shirts, you can be sure that you and your wedding party will be attending your wedding in style....">Groom(250)</a>
 			<ul>
 									<li class="category_167">
-	<a href="http://www.wedding.com.my/167-suits" title="">Suits(44)</a>
+	<a href="http://www.wedding.com.my/167-suits" title="Make sure the groom looks just as good as the bride with the right outfit from Wedding.com.my. With a variety of mens fashion like mens suits available in a variety of styles and colours, you are sure to find the perfect suits to suit the wedding...">Suits(62)</a>
 	</li>
 
 												<li class="category_168">
-	<a href="http://www.wedding.com.my/168-coats-blazers" title="">Coats &amp; Blazers(12)</a>
+	<a href="http://www.wedding.com.my/168-coats-blazers" title="Look extra sharp for your wedding with the right coat or blazer from Wedding.com.my. With a huge range of products like jacket, and blazers of various colours like white blazer and black blazer, you are sure to find the right one to complete your...">Coats &amp; Blazers(12)</a>
 	</li>
 
 												<li class="category_169">
-	<a href="http://www.wedding.com.my/169-shirts" title="">Shirts(26)</a>
+	<a href="http://www.wedding.com.my/169-shirts" title="Even with the best suits, your outfit could still be ruined without the right shirts. Get mens shirts from Wedding.com.my. With a variety of dress shirts and shirts for men available in a variety of colours and styles, you are sure to find the perfect...">Shirts(12)</a>
 	</li>
 
 												<li class="category_171">
-	<a href="http://www.wedding.com.my/171-chinese-traditional" title="">Chinese Traditional(2)</a>
+	<a href="http://www.wedding.com.my/171-chinese-traditional" title="During the wedding ceremony, Chinese traditional clothing is a must for both the bride and groom. Therefore, get the best Chinese dress from Wedding.com.my. With Chinese clothing with a variety of styles, you can choose the one that best suits you and...">Chinese Traditional(10)</a>
 	</li>
 
 												<li class="category_173">
-	<a href="http://www.wedding.com.my/173-groom-accessories" title="">Groom Accessories(165)</a>
+	<a href="http://www.wedding.com.my/173-groom-accessories" title="As with the bride, a groom’s accessories will also help complete the overall look for the wedding. Offering a variety of groom accessories like bow tie, necktie and mens cufflinks, you can find the perfect look for you on your wedding day. For example,...">Groom Accessories(124)</a>
 			<ul>
 									<li class="category_257">
-	<a href="http://www.wedding.com.my/257-ties-bow-ties" title="">Ties &amp; Bow Ties(136)</a>
+	<a href="http://www.wedding.com.my/257-ties-bow-ties" title="">Ties &amp; Bow Ties(105)</a>
 	</li>
 
 												<li class="category_258">
@@ -1670,7 +1568,7 @@ else {
 	</li>
 
 												<li class="category_259">
-	<a href="http://www.wedding.com.my/259-cufflinks" title="">Cufflinks(9)</a>
+	<a href="http://www.wedding.com.my/259-cufflinks" title="">Cufflinks(7)</a>
 	</li>
 
 												<li class="category_260">
@@ -1678,172 +1576,174 @@ else {
 	</li>
 
 												<li class="category_261 last">
-	<a href="http://www.wedding.com.my/261-cummberbund-tuxedo-belts" title="">Cummberbund / Tuxedo Belts(12)</a>
+	<a href="http://www.wedding.com.my/261-cummberbund-tuxedo-belts" title="">Cummberbund / Tuxedo Belts(5)</a>
 	</li>
 
 							</ul>
 	</li>
 
 												<li class="category_199">
-	<a href="http://www.wedding.com.my/199-groom-shoes" title="">Groom Shoes(8)</a>
+	<a href="http://www.wedding.com.my/199-groom-shoes" title="No outfit is complete without the right pair of shoes. For the groom, the perfect dress shoes are essential to look sharp. At Wedding.com.my, you will be able to find a variety of men dress shoes like leather shoes for men and other mens shoes in...">Groom Shoes(11)</a>
 	</li>
 
 												<li class="category_308 last">
-	<a href="http://www.wedding.com.my/308-best-man-t-shirts" title="">Best Man T-Shirts(18)</a>
+	<a href="http://www.wedding.com.my/308-best-man-t-shirts" title="Looking for outfits that you can dress your best man in for your wedding ceremony? With Wedding.com.my, we offer a wide range of T-shirts for men, including a wide variety of T-shirt design like funny T-shirts. With so many mens T-shirts to choose...">Best Man T-Shirts(18)</a>
 	</li>
 
 							</ul>
 	</li>
 
 												<li class="category_18">
-	<a href="http://www.wedding.com.my/18-baby-kids" title="Flower girl dress, junior gowns, by size, style, colour, price, silhouette.">Baby &amp; Kids(97)</a>
+	<a href="http://www.wedding.com.my/18-baby-kids" title="Make sure the little ones attending your wedding look stunning with baby clothes by Wedding.com.my. With a wide array of clothing like baby girl clothes, baby boy clothes and flower girl dresses for your wedding, get the ones that best suit the theme...">Baby &amp; Kids(179)</a>
 			<ul>
 									<li class="category_174">
-	<a href="http://www.wedding.com.my/174-baby-girls" title="">Baby Girls(19)</a>
+	<a href="http://www.wedding.com.my/174-baby-girls" title="Get the best baby girl clothes for your wedding at Wedding.com.my. With a wide range of products like baby girl dresses, flower girl dresses and baby dress available in various designs and colours, you are sure to find the right one to suit the theme...">Baby Girls(22)</a>
 	</li>
 
 												<li class="category_175">
-	<a href="http://www.wedding.com.my/175-baby-boys" title="">Baby Boys(6)</a>
+	<a href="http://www.wedding.com.my/175-baby-boys" title="Get the best baby boy clothes for your wedding at Wedding.com.my. With a variety of products ranging from baby suit to baby clothes for boys which are available in various designs and colours, you are sure to find the perfect baby clothes for your...">Baby Boys(9)</a>
 	</li>
 
 												<li class="category_176">
-	<a href="http://www.wedding.com.my/176-girls" title="">Girls(75)</a>
+	<a href="http://www.wedding.com.my/176-girls" title="Have a lovely procession as you walk down the aisle during your wedding ceremony with kids clothes from Wedding.com.my. With a variety of dresses for girls like flower girls dresses, you are sure to find the perfect girls dresses for your wedding....">Girls(155)</a>
 	</li>
 
 												<li class="category_20">
 	<a href="http://www.wedding.com.my/20-boys" title="Kids formal wear, boy suits, tuxedo, etons, vest, shirt &amp;amp; shorts set, accessories.  
-  &nbsp;  Featuring &nbsp; Kids Fashion  &nbsp;">Boys(13)</a>
+   
+   
+ Make sure the kids at your wedding are dressed according to the theme of your wedding with kids wear from Wedding.com.my. With a variety of boys clothes...">Boys(15)</a>
 	</li>
 
 												<li class="category_326 last">
-	<a href="http://www.wedding.com.my/326-flower-girl-accessories" title="">Flower Girl Accessories(15)</a>
+	<a href="http://www.wedding.com.my/326-flower-girl-accessories" title="Get the right flower girl accessories to complete the look and feel of your wedding. Offering a variety of products like flower crown, tiara and headbands, you are sure to find the perfect accessories for them at Wedding.com.my. Get the right...">Flower Girl Accessories(14)</a>
 	</li>
 
 							</ul>
 	</li>
 
 												<li class="category_17">
-	<a href="http://www.wedding.com.my/17-bridesmaids" title="Bridesmaid dress, plus size, tea length, strapless, spaghetti strap, tank, halter, one shoulder, cap sleeves.  
-  &nbsp;  Featuring &nbsp;  Emcee Couture   &nbsp;">Bridesmaids(169)</a>
+	<a href="http://www.wedding.com.my/17-bridesmaids" title="Make sure your bridal party looks good with a large array of bridesmaid dresses from Wedding.com.my. Find cheap bridesmaid dresses of various designs and colours like navy bridesmaid dresses for your bridesmaids to suit your wedding theme and to make...">Bridesmaids(146)</a>
 			<ul>
 									<li class="category_328">
-	<a href="http://www.wedding.com.my/328-evening-dress" title="">Evening Dress(55)</a>
+	<a href="http://www.wedding.com.my/328-evening-dress" title="Make sure your bridesmaids look stunning with evening gowns from Wedding.com.my. With a variety of formal dresses ranging from cocktail dresses to gown of various designs and colours, you are sure to find the most suitable for all your bridesmaids that...">Evening Dress(48)</a>
 	</li>
 
 												<li class="category_327">
-	<a href="http://www.wedding.com.my/327-bridesmaid-dress" title="">Bridesmaid Dress(88)</a>
+	<a href="http://www.wedding.com.my/327-bridesmaid-dress" title="Bridesmaids are important to help with the aesthetics of your wedding ceremony too, so why not make sure they look good with bridesmaid dresses from Wedding.com.my. With a wide range of cheap bridesmaid dresses like formal dresses and gown, you can be...">Bridesmaid Dress(85)</a>
 			<ul>
 									<li class="category_179">
-	<a href="http://www.wedding.com.my/179-a-line" title="">A-Line(28)</a>
+	<a href="http://www.wedding.com.my/179-a-line" title="">A-Line(20)</a>
 	</li>
 
 												<li class="category_182">
-	<a href="http://www.wedding.com.my/182-midi-length" title="">Midi Length(8)</a>
+	<a href="http://www.wedding.com.my/182-midi-length" title="">Midi Length(6)</a>
 	</li>
 
 												<li class="category_183">
-	<a href="http://www.wedding.com.my/183-sheath" title="">Sheath(15)</a>
+	<a href="http://www.wedding.com.my/183-sheath" title="">Sheath(11)</a>
 	</li>
 
 												<li class="category_184">
-	<a href="http://www.wedding.com.my/184-mini" title="">Mini(39)</a>
+	<a href="http://www.wedding.com.my/184-mini" title="">Mini(25)</a>
 	</li>
 
 												<li class="category_185 last">
-	<a href="http://www.wedding.com.my/185-convertible" title="">Convertible(5)</a>
+	<a href="http://www.wedding.com.my/185-convertible" title="">Convertible(4)</a>
 	</li>
 
 							</ul>
 	</li>
 
 												<li class="category_186">
-	<a href="http://www.wedding.com.my/186-bridesmaid-accessories" title="">Bridesmaid Accessories(2)</a>
+	<a href="http://www.wedding.com.my/186-bridesmaid-accessories" title="Complete your bridesmaids’ looks with the right accessories. At Wedding.com.my, you can get the best bridesmaids accessories to make not only the bridesmaids look good, but also help complement the look of the bride. When the bridesmaids look good, so...">Bridesmaid Accessories(2)</a>
 	</li>
 
 												<li class="category_309 last">
-	<a href="http://www.wedding.com.my/309-bridesmaid-t-shirts" title="">Bridesmaid T-Shirts(14)</a>
+	<a href="http://www.wedding.com.my/309-bridesmaid-t-shirts" title="For those having a less formal wedding ceremony, or bachelorette parties, get special T-shirt for your bridesmaids! Wedding.com.my offers a range of shirts with various T-shirt design, and unique printed T-shirts to help celebrate your marriage....">Bridesmaid T-Shirts(14)</a>
 	</li>
 
 							</ul>
 	</li>
 
 												<li class="category_22">
-	<a href="http://www.wedding.com.my/22-rings-jewelleries" title="Wedding band, engagement ring, anniversary jewelry set, pendant, necklace, earrings, diamond, gold, pearl, swarovski.  
-  &nbsp;  Featuring &nbsp; Diamond &amp;amp; Platinum  &nbsp;">Rings &amp; Jewelleries(360)</a>
+	<a href="http://www.wedding.com.my/22-rings-jewelleries" title="Get the perfect jewelry for your loved one with Wedding.com.my. With a variety of jewelry ranging from engagement rings to diamond rings and wedding rings, as well as earrings and jewelry sets, show how much you care with the perfect bling....">Rings &amp; Jewelleries(355)</a>
 			<ul>
 									<li class="category_188">
-	<a href="http://www.wedding.com.my/188-rings" title="Shop from our selection of Rings and Jewelleries for every beautiful bride.">Rings(44)</a>
+	<a href="http://www.wedding.com.my/188-rings" title="Planning to pop the question? Or just looking for something to spoil and surprise your significant other? At Wedding.com.my, we offer a wide range of jewellery, including a variety of rings. From engagement rings to diamond rings and wedding bands, you...">Rings(89)</a>
 	</li>
 
 												<li class="category_21">
 	<a href="http://www.wedding.com.my/21-necklaces" title="Wedding veils, bridal tiara, fashion jewelries, nubra, head pieces, headbands, bags.  
-  &nbsp;  Featuring &nbsp; Wedding Karren  &nbsp;">Necklaces(144)</a>
+   
+   
+ Thinking of surprising your loved one with something special or just looking to treat yourself, look no further than Wedding.com.my. With a wide range of...">Necklaces(112)</a>
 	</li>
 
 												<li class="category_189">
-	<a href="http://www.wedding.com.my/189-bracelets" title="Shop from our selection of Rings and Jewelleries for every beautiful bride.">Bracelets(44)</a>
+	<a href="http://www.wedding.com.my/189-bracelets" title="Looking to treat someone or yourself, visit Wedding.com.my to find the perfect bracelet. With a variety of bracelets for women like gold bracelets for women and so on, you are sure to find the perfect one to suit your personality....">Bracelets(36)</a>
 	</li>
 
 												<li class="category_190">
-	<a href="http://www.wedding.com.my/190-earrings" title="Shop from our selection of Rings and Jewelleries for every beautiful bride.">Earrings(144)</a>
+	<a href="http://www.wedding.com.my/190-earrings" title="Looking to complete your look with some jewellery, well look no further than at Wedding.com.my. With jewelry like a variety of earrings like diamond earrings, you are sure to find the perfect pair of earrings to help you sparkle....">Earrings(91)</a>
 	</li>
 
 												<li class="category_191">
-	<a href="http://www.wedding.com.my/191-jewelry-sets" title="Shop from our selection of Rings and Jewelleries for every beautiful bride.">Jewelry Sets(99)</a>
+	<a href="http://www.wedding.com.my/191-jewelry-sets" title="Looking for something to match wedding rings or your wedding dress? At Wedding.com.my, we offer a wide range of bridal jewelry sets that you can wear not only during your wedding, but also for any other occasion. Make your outfit sparkle and stand out...">Jewelry Sets(93)</a>
 	</li>
 
 												<li class="category_330 last">
-	<a href="http://www.wedding.com.my/330-anklet" title="">Anklet(6)</a>
+	<a href="http://www.wedding.com.my/330-anklet" title="Looking for simple and understated jewelry to complete your look? Why not try anklets from Wedding.com.my. With a variety of ankle bracelets to suit any look, you can be sure that you would be able to find the perfect one to suit your outfit and...">Anklet(2)</a>
 	</li>
 
 							</ul>
 	</li>
 
 												<li class="category_187">
-	<a href="http://www.wedding.com.my/187-couples" title="Wedding Couple's Fashion &nbsp;| &nbsp;T-Shirts, Couple Rings, Accessories.&nbsp;Sweeten the bonds between couples with our wedding couple fashion.">Couples(132)</a>
+	<a href="http://www.wedding.com.my/187-couples" title="Showcase the love you have for one another with matching couple clothes and accessories from Wedding.com.my. With products ranging from couple shirts to couple rings, you are sure to find the most suitable way to profess your love for one another....">Couples(129)</a>
 			<ul>
 									<li class="category_194">
-	<a href="http://www.wedding.com.my/194-t-shirts" title="">T-Shirts(107)</a>
+	<a href="http://www.wedding.com.my/194-t-shirts" title="For the couples out there who are looking to showcase your love for one another, why not get couple shirts? With a variety of couple T-shirts available, there are sure to be designs that would suit any couple at Wedding.com.my....">T-Shirts(107)</a>
 	</li>
 
 												<li class="category_195 last">
-	<a href="http://www.wedding.com.my/195-accessories" title="">Accessories(25)</a>
+	<a href="http://www.wedding.com.my/195-accessories" title="For couples who are looking for something to showcase their love but in a more understated way, couple accessories could be for you. At Wedding.com.my, you can find a variety of couple accessories like couple rings to make both of you happy....">Accessories(22)</a>
 	</li>
 
 							</ul>
 	</li>
 
 												<li class="category_294">
-	<a href="http://www.wedding.com.my/294-prestige-collection" title="">Prestige Collection(177)</a>
+	<a href="http://www.wedding.com.my/294-prestige-collection" title="Wow your wedding guests with the prestige and glamour you get from the prestige collection at Wedding.com.my. With a variety of glamorous products ranging from wedding shoes to jewelry and wedding gowns, you are sure to be the star of the show at your...">Prestige Collection(182)</a>
 			<ul>
 									<li class="category_295">
-	<a href="http://www.wedding.com.my/295-wedding-gowns" title="">Wedding Gowns(52)</a>
+	<a href="http://www.wedding.com.my/295-wedding-gowns" title="For those looking for a bit of prestige and glamour, why not have a look at our prestige collection? With our wide range of higher end wedding gowns, showcasing a variety of wedding dresses with different styles of gown to suit your look and style....">Wedding Gowns(52)</a>
 	</li>
 
 												<li class="category_296">
-	<a href="http://www.wedding.com.my/296-rings-jewelry" title="">Rings &amp; Jewelry(35)</a>
+	<a href="http://www.wedding.com.my/296-rings-jewelry" title="For those with a bigger budget looking for something classier, have a look at the jewelry from our prestige collection at Wedding.com.my. With a wide range of rings like engagement rings, wedding rings and diamond rings, as well as other jewelry like...">Rings &amp; Jewelry(40)</a>
 	</li>
 
 												<li class="category_297">
-	<a href="http://www.wedding.com.my/297-bridal-shoes-" title="">Bridal Shoes (89)</a>
+	<a href="http://www.wedding.com.my/297-bridal-shoes-" title="For brides who are looking to make more of a statement during their wedding, wedding shoes from the prestige collection of Wedding.com.my could be your solution. With a variety of higher end wedding shoes like designer wedding shoes, you will...">Bridal Shoes (89)</a>
 	</li>
 
 												<li class="category_298 last">
-	<a href="http://www.wedding.com.my/298-grooms-attire" title="">Grooms Attire(1)</a>
+	<a href="http://www.wedding.com.my/298-grooms-attire" title="For grooms who take pride in looking their best during their wedding or at all times, get grooms attire from the prestige collection at Wedding.com.my. With mens suits that can be custom-made to fit you perfectly, you can be sure that the suits are of...">Grooms Attire(1)</a>
 	</li>
 
 							</ul>
 	</li>
 
 												<li class="category_310 last">
-	<a href="http://www.wedding.com.my/310-mother-of-bride-groom" title="">Mother of Bride &amp; Groom(19)</a>
+	<a href="http://www.wedding.com.my/310-mother-of-bride-groom" title="Your mother is the person who brought you into this world, so why not make sure that she looks amazing during your wedding? At Wedding.com.my, we offer a wide range of mother of bride dresses and mother of groom dresses to make sure that your mothers...">Mother of Bride &amp; Groom(197)</a>
 			<ul>
 									<li class="category_311">
-	<a href="http://www.wedding.com.my/311-evening-gowns" title="">Evening Gowns(11)</a>
+	<a href="http://www.wedding.com.my/311-evening-gowns" title="Your mother deserves only the best always, especially for your wedding. With the prestige collection from Wedding.com.my, get the perfect mother of bride dresses or mother of groom dresses for her to shine. With a wide variety of dresses for weddings...">Evening Gowns(9)</a>
 	</li>
 
 												<li class="category_329 last">
-	<a href="http://www.wedding.com.my/329-plus-size-dress" title="">Plus Size Dress(9)</a>
+	<a href="http://www.wedding.com.my/329-plus-size-dress" title="Make sure your mother looks perfect during your wedding, regardless of her size. At Wedding.com.my, we offer a wide range of mother of bride dresses and mother of groom dresses, including plus size dresses. With these plus size cocktail dresses, you...">Plus Size Dress(3)</a>
 	</li>
 
 							</ul>
@@ -1854,95 +1754,94 @@ else {
 
 					
 													<li class="category_24">
-	<a href="http://www.wedding.com.my/24-makeup" title="Women's makeup, hairdo, beauty, health, nail, slimming.">Makeup(92)</a>
+	<a href="http://www.wedding.com.my/24-makeup" title="Make sure that you look your best on your special day with us. 
+ Get the best skin care products and makeup at Wedding.com.my. With a wide range of products like skin care products, beauty services, health products and cosmetics, you can be sure that...">Makeup(99)</a>
 			<ul>
 									<li class="category_201">
-	<a href="http://www.wedding.com.my/201-beauty-services" title="">Beauty Services(36)</a>
+	<a href="http://www.wedding.com.my/201-beauty-services" title="Find all things grooming and beauty in preparation for your special day at Wedding.com.my. Makeup is not the only thing that can help make you look perfect on your wedding day. With the beauty services offered, you will definitely be the most radiant...">Beauty Services(36)</a>
 			<ul>
 									<li class="category_208">
-	<a href="http://www.wedding.com.my/208-hair" title="">Hair(1)</a>
+	<a href="http://www.wedding.com.my/208-hair" title="Although your hair style during your wedding is important, all that hair styling could be detrimental to your hair. As such, get hair services from Wedding.com.my to ensure that your hair remains healthy and beautiful....">Hair(1)</a>
 	</li>
 
 												<li class="category_209">
-	<a href="http://www.wedding.com.my/209-face" title="">Face(22)</a>
+	<a href="http://www.wedding.com.my/209-face" title="For the brides that are worried about aging signs affecting their look during their wedding, Wedding.com.my offers a wide range of beauty services targeted for the face. Featuring a range of services like anti-wrinkle, anti-aging and facelift, you no...">Face(22)</a>
 	</li>
 
 												<li class="category_210">
-	<a href="http://www.wedding.com.my/210-body" title="">Body(11)</a>
+	<a href="http://www.wedding.com.my/210-body" title="Make sure you look your best from head to toe with beauty services from Wedding.com.my. Offering a range of services for your body like diet, slimming and detox, you are sure to find the right service to suit your needs in order to look your best on...">Body(11)</a>
 	</li>
 
 												<li class="category_211 last">
-	<a href="http://www.wedding.com.my/211-grooming" title="">Grooming(4)</a>
+	<a href="http://www.wedding.com.my/211-grooming" title="Make sure all your grooming needs are covered with beauty services offered at Wedding.com.my. With services like hair removal through the use of wax and so on, you are sure to be well-groomed and ready for anything on your wedding day....">Grooming(4)</a>
 	</li>
 
 							</ul>
 	</li>
 
 												<li class="category_25">
-	<a href="http://www.wedding.com.my/25-hair-makeup" title="Bridal makeup, hairdo, ampoules, eyelashes for pre-wedding &amp;amp; actual day.  
-  &nbsp;  Featuring &nbsp; Shang Studio  &nbsp;">Hair &amp; Makeup(8)</a>
+	<a href="http://www.wedding.com.my/25-hair-makeup" title="Complete your look with the perfect makeup from Wedding.com.my. With the bridal makeup packages, make sure your eye makeup and lipstick is perfect on your special day. Be the queen of the day with bridal makeup to compliment your wonderful wedding...">Hair &amp; Makeup(8)</a>
 			<ul>
 									<li class="category_274 last">
-	<a href="http://www.wedding.com.my/274-bridal-makeup" title="">Bridal Makeup(7)</a>
+	<a href="http://www.wedding.com.my/274-bridal-makeup" title="Make sure your hair and makeup looks flawless during your wedding day by hiring a professional hair and makeup artist. Offering a variety of choices at Wedding.com.my, you can be sure that you get the perfect artist to do your bridal makeup for your...">Bridal Makeup(7)</a>
 	</li>
 
 							</ul>
 	</li>
 
 												<li class="category_26">
-	<a href="http://www.wedding.com.my/26-health-beauty" title="Wedding health &amp;amp; beauty packages, facial, slimming, spa, nail, teeth, detox.  
-  &nbsp;  Featuring &nbsp; Totalife  &nbsp;">Health &amp; Beauty(23)</a>
+	<a href="http://www.wedding.com.my/26-health-beauty" title="Health is an important factor to making sure that you look your best on your wedding day. With products from Wedding.com.my, you can ensure that you are receiving the right nutrition to stay healthy and happy for your wedding day and beyond. With a...">Health &amp; Beauty(24)</a>
 			<ul>
 									<li class="category_275">
-	<a href="http://www.wedding.com.my/275-supplements" title="">Supplements(20)</a>
+	<a href="http://www.wedding.com.my/275-supplements" title="Health plays an important role in maintaining your beauty and to ensure that you look your best during your wedding. Wedding.com.my offers a range of health supplements and food supplements in order to supplement your diet and to ensure that you are...">Supplements(20)</a>
 	</li>
 
 												<li class="category_278 last">
-	<a href="http://www.wedding.com.my/278-beauty-tools" title="">Beauty Tools(3)</a>
+	<a href="http://www.wedding.com.my/278-beauty-tools" title="Make sure you always look your best, be it during your wedding or everyday with your own set of beauty tools from Wedding.com.my. With a variety of tools ranging from manicure set to pedicure set, you are sure to find the suitable beauty tools for you....">Beauty Tools(3)</a>
 	</li>
 
 							</ul>
 	</li>
 
 												<li class="category_74">
-	<a href="http://www.wedding.com.my/74-cosmetics" title="Cosmetic &amp;amp; skincare products - ampoules, eyelashes, makeup brushes, foundation, eye shadow, lip gloss, eyeliner, skincare and beauty">Cosmetics(8)</a>
+	<a href="http://www.wedding.com.my/74-cosmetics" title="Get a variety of cosmetics for everyday use or for your special day. With a variety of makeup and products like lipstick, eye makeup, concealer and makeup brushes, you are bound to find the perfect products for you. You can also save on bridal makeup...">Cosmetics(15)</a>
 			<ul>
 									<li class="category_202">
-	<a href="http://www.wedding.com.my/202-face" title="">Face(4)</a>
+	<a href="http://www.wedding.com.my/202-face" title="Looking to save a bit of money for your wedding? Why not do your own makeup? With a large range of cosmetics like concealer at Wedding.com.my, you will definitely find all that you need to get your perfect look....">Face(4)</a>
 	</li>
 
 												<li class="category_203">
-	<a href="http://www.wedding.com.my/203-eyes" title="">Eyes(3)</a>
+	<a href="http://www.wedding.com.my/203-eyes" title="The eyes are the window to your soul, so why not make sure that they always look amazing? With eye makeup from Wedding.com.my like mascara and eyeshadow, you can always make sure that your eyes are always looking perfect and express exactly who you...">Eyes(3)</a>
 	</li>
 
 												<li class="category_204">
-	<a href="http://www.wedding.com.my/204-lips" title="">Lips(1)</a>
+	<a href="http://www.wedding.com.my/204-lips" title="Enhance your smile with the perfect lip makeup from Wedding.com.my. With a variety of lip makeup like lipstick and lipgloss and a wide array of colours, get the perfect one to suit your needs and look....">Lips(6)</a>
 	</li>
 
 												<li class="category_205">
-	<a href="http://www.wedding.com.my/205-body" title="">Body</a>
+	<a href="http://www.wedding.com.my/205-body" title="Get the best deals in body cosmetics with Wedding.com.my. With a wide range of cosmetics available, you can be sure that you look amazing from head to toe on your wedding day....">Body</a>
 	</li>
 
 												<li class="category_271 last">
-	<a href="http://www.wedding.com.my/271-nails" title="">Nails</a>
+	<a href="http://www.wedding.com.my/271-nails" title="Good nails are important to complete your overall look. At Wedding.com.my, we offer a variety of nail products including nail polish and tools for you to do nail art and nail designs to help you express yourself and look your best on your wedding day....">Nails</a>
 	</li>
 
 							</ul>
 	</li>
 
 												<li class="category_200 last">
-	<a href="http://www.wedding.com.my/200-hair-skin-care" title="">Hair &amp; Skin Care(17)</a>
+	<a href="http://www.wedding.com.my/200-hair-skin-care" title="Hair and skin care are very important for your overall health and wellbeing. Get the best skin care products from Wedding.com.my. With a wide variety of hair and skin care products, you are sure to find the one that’s perfect for you....">Hair &amp; Skin Care(15)</a>
 			<ul>
 									<li class="category_206">
-	<a href="http://www.wedding.com.my/206-face" title="">Face(5)</a>
+	<a href="http://www.wedding.com.my/206-face" title="Skin care is very important to ensure you stay looking young and healthy. With a wide range of skin care products at Wedding.com.my ranging from moisturizer to anti-aging cream, you no longer have to worry about aging signs with the anti-aging and...">Face(5)</a>
 	</li>
 
 												<li class="category_207">
-	<a href="http://www.wedding.com.my/207-body" title="">Body(1)</a>
+	<a href="http://www.wedding.com.my/207-body" title="Taking care of your body is very important as without a healthy body, we would be severely limited. With body care products like feminine wash and intimate wash at Wedding.com.my, you can be sure that your body is well taken care of....">Body(1)</a>
 	</li>
 
 												<li class="category_273 last">
-	<a href="http://www.wedding.com.my/273-hair" title="">Hair(11)</a>
+	<a href="http://www.wedding.com.my/273-hair" title="Taking good care of your hair is important to ensure that it stays healthy and to prevent hair loss. With hair care products like shampoo, hair loss treatment and hair growth products from Wedding.com.my, you can be sure that your hair is always...">Hair(9)</a>
 	</li>
 
 							</ul>
@@ -1953,14 +1852,17 @@ else {
 
 					
 													<li class="category_53">
-	<a href="http://www.wedding.com.my/53-gifts-cards" title="Wedding favors, gifts, hantaran, invitation card, bridal stationeries.">Gifts &amp; Cards(701)</a>
+	<a href="http://www.wedding.com.my/53-gifts-cards" title="Get the perfect wedding favors and gifts for your wedding here. 
+ With our huge range of gifts and cards at Wedding.com.my, you will definitely find the right ones to suit your theme and needs. From invitation cards as wedding invitations for your...">Gifts &amp; Cards(743)</a>
 			<ul>
 									<li class="category_57">
 	<a href="http://www.wedding.com.my/57-invitation-cards" title="Personalized wedding invitation card, kad kahwin, undangan nikah, guestbook.  
-  &nbsp;  Featuring &nbsp; Kad Kahwinmu  &nbsp;">Invitation Cards(310)</a>
+   
+   
+ Wedding invitations are very important when organizing a wedding. Getting the right invitation to suit the theme of your wedding, even more so. Therefore, get your...">Invitation Cards(310)</a>
 			<ul>
 									<li class="category_151">
-	<a href="http://www.wedding.com.my/151-kad-kahwin" title="">Kad Kahwin(127)</a>
+	<a href="http://www.wedding.com.my/151-kad-kahwin" title="The perfect wedding invitation helps set the tone for your wedding, as well as act as an invitation and notice for your upcoming nuptials. As such, invitation card is something important that cannot be left out. With a large variety of cards for you to...">Kad Kahwin(127)</a>
 			<ul>
 									<li class="category_153">
 	<a href="http://www.wedding.com.my/153-kraft-paper-card" title="">Kraft Paper Card(17)</a>
@@ -1978,11 +1880,11 @@ else {
 	</li>
 
 												<li class="category_152">
-	<a href="http://www.wedding.com.my/152-chinese-invitation-cards" title="">Chinese Invitation Cards(131)</a>
+	<a href="http://www.wedding.com.my/152-chinese-invitation-cards" title="For those opting for the more traditional route, our range of Chinese invitation card would be suitable for you. At Wedding.com.my, there are a wide range of wedding cards ranging from traditional to modern wedding invitation for you to choose from....">Chinese Invitation Cards(131)</a>
 	</li>
 
 												<li class="category_137">
-	<a href="http://www.wedding.com.my/137-laser-cut-cards" title="">Laser Cut Cards(17)</a>
+	<a href="http://www.wedding.com.my/137-laser-cut-cards" title="For those looking for a more unique wedding invitation for your wedding, why not try laser cut wedding invitations? With a variety of invitation card of unique designs and colours for you to choose from at Wedding.com.my, buy your perfect wedding cards...">Laser Cut Cards(17)</a>
 			<ul>
 									<li class="category_265 last">
 	<a href="http://www.wedding.com.my/265-folded-laser-cards" title="">Folded Laser Cards(16)</a>
@@ -1992,7 +1894,7 @@ else {
 	</li>
 
 												<li class="category_77">
-	<a href="http://www.wedding.com.my/77-kraft-paper-cards" title="">Kraft Paper Cards(18)</a>
+	<a href="http://www.wedding.com.my/77-kraft-paper-cards" title="Looking for wedding cards with a more rustic feel, and is more environmentally friendly? Why not go with kraft paper cards as your invitation card. With a wide range of wedding invitation for you to choose from at Wedding.com.my, you will definitely...">Kraft Paper Cards(18)</a>
 			<ul>
 									<li class="category_266 last">
 	<a href="http://www.wedding.com.my/266-folded-kraft-cards" title="">Folded Kraft Cards</a>
@@ -2002,7 +1904,7 @@ else {
 	</li>
 
 												<li class="category_108">
-	<a href="http://www.wedding.com.my/108-photo-wedding-cards" title="">Photo Wedding Cards(5)</a>
+	<a href="http://www.wedding.com.my/108-photo-wedding-cards" title="Personalize your wedding invitation with photo wedding cards. By containing a photo of the both of you on the invitation card, there will be no doubt on who’s wedding the invitation is for. Get a variety of photo wedding cards from Wedding.com.my. Buy...">Photo Wedding Cards(5)</a>
 			<ul>
 									<li class="category_267 last">
 	<a href="http://www.wedding.com.my/267-folded-photo-cards" title="">Folded Photo Cards</a>
@@ -2012,7 +1914,7 @@ else {
 	</li>
 
 												<li class="category_111">
-	<a href="http://www.wedding.com.my/111-wedding-tickets" title="">Wedding Tickets(5)</a>
+	<a href="http://www.wedding.com.my/111-wedding-tickets" title="For couples looking for a more creative wedding invitation, wedding tickets could be for you. With a customisable design to suit the theme of your wedding, these wedding cards are sure to impress your guests when they receive their invitation. Get...">Wedding Tickets(5)</a>
 			<ul>
 									<li class="category_268 last">
 	<a href="http://www.wedding.com.my/268-folded-wedding-tickets" title="">Folded Wedding Tickets</a>
@@ -2022,7 +1924,7 @@ else {
 	</li>
 
 												<li class="category_121 last">
-	<a href="http://www.wedding.com.my/121-designer-flat-cards" title="">Designer Flat Cards(45)</a>
+	<a href="http://www.wedding.com.my/121-designer-flat-cards" title="For those who are looking for wedding cards that are simple yet elegant, the designer flat cards are for you. With customisable colours and designs, you are sure to get the perfect wedding invitation for your wedding. Get the invitation card or other...">Designer Flat Cards(45)</a>
 			<ul>
 									<li class="category_269 last">
 	<a href="http://www.wedding.com.my/269-folded-flat-cards" title="">Folded Flat Cards(19)</a>
@@ -2036,18 +1938,20 @@ else {
 
 												<li class="category_54">
 	<a href="http://www.wedding.com.my/54-wedding-favors" title="Wedding favors, doorgift, chocolate, sweets, soap, candle, salt &amp;amp; pepper shakers.  
-  &nbsp;  Featuring &nbsp; Gentilezza  &nbsp;">Wedding Favors(174)</a>
+   
+   
+ Get the perfect wedding favours for your wedding guests to show your appreciation for the guests at Wedding.com.my. Wedding favors are important to show...">Wedding Favors(215)</a>
 			<ul>
 									<li class="category_104">
-	<a href="http://www.wedding.com.my/104-gift-boxes-bags-containers" title="Gift boxes">Gift Boxes, Bags &amp; Containers(64)</a>
+	<a href="http://www.wedding.com.my/104-gift-boxes-bags-containers" title="Wedding favors and door gifts are something that cannot be left out when organising a wedding. The right type of wedding gift box is also important as it helps complete the theme of your wedding. In addition to that, the gift box can also show your...">Gift Boxes, Bags &amp; Containers(89)</a>
 	</li>
 
 												<li class="category_91">
-	<a href="http://www.wedding.com.my/91-thematic-favors" title="Door gift, chocolate, sweets, soap, candle, salt &amp;amp; pepper shakers.">Thematic Favors(88)</a>
+	<a href="http://www.wedding.com.my/91-thematic-favors" title="For those looking for the perfect wedding favours for guests, why not have a look at your range of thematic wedding favors? With a variety of customisable wedding souvenirs like salt and pepepr shakers available for you to choose from at...">Thematic Favors(87)</a>
 	</li>
 
 												<li class="category_92 last">
-	<a href="http://www.wedding.com.my/92-customized-favors" title="Shop for wedding favors. Door gift, chocolate, sweets, soap, candle, salt &amp;amp; pepper shakers.">Customized Favors(67)</a>
+	<a href="http://www.wedding.com.my/92-customized-favors" title="For those who are looking to put a more personal touch to their wedding favours, why not browse our range of custom wedding favors. With a wide range of wedding favours for you to choose from at Wedding.com.my, you can be sure that you will be able to...">Customized Favors(69)</a>
 	</li>
 
 							</ul>
@@ -2055,22 +1959,24 @@ else {
 
 												<li class="category_55">
 	<a href="http://www.wedding.com.my/55-wedding-gifts" title="Wedding gifts, souvenirs, presents for wedding, anniversary, engagement, bridal shower.  
-  &nbsp;  Featuring &nbsp; Wedding And You  &nbsp;">Wedding Gifts(143)</a>
+   
+   
+ Congratulate the married couple or send a special gift to your significant other with wedding gifts from Wedding.com.my. With a wide variety of wedding...">Wedding Gifts(152)</a>
 			<ul>
 									<li class="category_97">
-	<a href="http://www.wedding.com.my/97-gifts-for-brides" title="Souvenirs, presents for wedding, anniversary, engagement, bridal shower &amp;amp; hen's night.">Gifts for Brides(96)</a>
+	<a href="http://www.wedding.com.my/97-gifts-for-brides" title="To celebrate and congratulate the happy couple for their marriage, wedding gifts can be given as a token. With our range of unique wedding gifts and wedding presents for the bride, like perfumes, shirts and flowers, at Wedding.com.my, you are sure to...">Gifts for Brides(100)</a>
 	</li>
 
 												<li class="category_212">
-	<a href="http://www.wedding.com.my/212-gifts-for-grooms" title="">Gifts for Grooms(30)</a>
+	<a href="http://www.wedding.com.my/212-gifts-for-grooms" title="To congratulate and celebrate the happy couple, getting wedding gifts for them is an option. With a range of unique wedding gifts for the groom like shirts, car plates and so on at Wedding.com.my, you are sure to find perfect wedding presents for every...">Gifts for Grooms(30)</a>
 	</li>
 
 												<li class="category_213">
-	<a href="http://www.wedding.com.my/213-others" title="">Others(19)</a>
+	<a href="http://www.wedding.com.my/213-others" title="For a more unique way to celebrate your union, why not get a personalized license plate? With a variety of special license plate and custom license plates for you to choose from to celebrate your wedding at Wedding.com.my, you are sure to find the...">Others(19)</a>
 	</li>
 
 												<li class="category_214 last">
-	<a href="http://www.wedding.com.my/214-customized-gifts" title="">Customized Gifts(42)</a>
+	<a href="http://www.wedding.com.my/214-customized-gifts" title="Get something special for the married couple with customised gifts from Wedding.com.my. With a variety of personalised gifts like 3D figurines available in a variety of designs, you are sure the get the perfect custom gifts for the married couple....">Customized Gifts(42)</a>
 	</li>
 
 							</ul>
@@ -2078,39 +1984,43 @@ else {
 
 												<li class="category_56">
 	<a href="http://www.wedding.com.my/56-hantaran" title="Gubahan hantaran &amp;amp; bunga packages for perkahwinan, pertunangan, akad nikah.   
-  &nbsp;  Featuring &nbsp; Lavish  &nbsp;">Hantaran(64)</a>
+   
+   
+ For Malay weddings, ‘hantaran’ is a custom that cannot be forgotten. Therefore, get the perfect gift to wow your bride or groom with at Wedding.com.my. With a...">Hantaran(64)</a>
 	</li>
 
 												<li class="category_58 last">
 	<a href="http://www.wedding.com.my/58-stationeries" title="Wedding photobook, guestbook, just married car plate, place card, ring pillows, flower basket.  
-  &nbsp;  Featuring &nbsp; Ezy Poster  &nbsp;">Stationeries(113)</a>
+   
+   
+ Stationery plays an important role in every wedding. With wedding stationery like place cards and guest books, you will be able to find all your...">Stationeries(113)</a>
 			<ul>
 									<li class="category_67">
-	<a href="http://www.wedding.com.my/67-license-car-plates" title="">License Car Plates(38)</a>
+	<a href="http://www.wedding.com.my/67-license-car-plates" title="For a more unique way to celebrate your union, why not get a personalized license plate? With a variety of special license plate and custom license plates for you to choose from to celebrate your wedding at Wedding.com.my, you are sure to find the...">License Car Plates(38)</a>
 	</li>
 
 												<li class="category_98">
-	<a href="http://www.wedding.com.my/98-customized-canvas" title="">Customized Canvas</a>
+	<a href="http://www.wedding.com.my/98-customized-canvas" title="To add a bit of flair to your wedding, why not have a custom canvas done for it? With a variety of options to choose from at Wedding.com.my, you are sure to be able to buy the best customised canvas to suit your wedding....">Customized Canvas</a>
 	</li>
 
 												<li class="category_100">
-	<a href="http://www.wedding.com.my/100-guestbook" title="Photobook, guestbook, just married car plate, place card, ring pillows, flower basket.">Guestbook(7)</a>
+	<a href="http://www.wedding.com.my/100-guestbook" title="For well wishes from your guests and as a way to remember your wedding by, a wedding guest book can be used. Offering a wide range of wedding guest book ideas at Wedding.com.my, you can buy the perfect guest book to fit the theme of your wedding....">Guestbook(7)</a>
 	</li>
 
 												<li class="category_101">
-	<a href="http://www.wedding.com.my/101-ring-pillow" title="Photobook, guestbook, just married car plate, place card, ring pillows, flower basket.">Ring Pillow(23)</a>
+	<a href="http://www.wedding.com.my/101-ring-pillow" title="When planning a wedding, bridal accessories like the ring pillow cannot be forgotten as they play an essential part to the wedding ceremony. With a variety of ring bearer pillows for you to choose from at Wedding.com.my, make sure you get the perfect...">Ring Pillow(23)</a>
 	</li>
 
 												<li class="category_103">
-	<a href="http://www.wedding.com.my/103-place-cards" title="Photobook, guestbook, just married car plate, place card, ring pillows, flower basket.">Place Cards(26)</a>
+	<a href="http://www.wedding.com.my/103-place-cards" title="To make your wedding guests feel valued and to keep track of all your guests while planning, why not get place cards? With a variety of wedding place cards that can be customised to suit the theme of your wedding at Wedding.com.my, you are sure to be...">Place Cards(26)</a>
 	</li>
 
 												<li class="category_105">
-	<a href="http://www.wedding.com.my/105-money-box" title="Photobook, guestbook, just married car plate, place card, ring pillows, flower basket.">Money Box(2)</a>
+	<a href="http://www.wedding.com.my/105-money-box" title="Keep track of the money you receive in style by having a money box at your wedding ceremony. This as well as other essential bridal accessories are important in order to ensure that the wedding goes smoothly. Not only that, the money box will make sure...">Money Box(2)</a>
 	</li>
 
 												<li class="category_312 last">
-	<a href="http://www.wedding.com.my/312-guidebook" title="">Guidebook(1)</a>
+	<a href="http://www.wedding.com.my/312-guidebook" title="After all the planning, your wedding is finally over and it’s time for your honeymoon. Take the opportunity to spend time together at the best honeymoon destinations like Indonesia. With a variety of honeymoon destinations and honeymoon packages...">Guidebook(1)</a>
 	</li>
 
 							</ul>
@@ -2121,26 +2031,28 @@ else {
 
 					
 													<li class="category_28">
-	<a href="http://www.wedding.com.my/28-venue-decor" title="Bridal venue, wedding decoration, pelamin, destination wedding, honeymoon.">Venue &amp; Decor(262)</a>
+	<a href="http://www.wedding.com.my/28-venue-decor" title="Get the perfect wedding venue for your wedding. 
+ Find the perfect wedding venues and decorations to fulfill your fairytale wedding at Wedding.com.my. With various services for the bride and the wedding party like hotel deals and flowers online, you...">Venue &amp; Decor(537)</a>
 			<ul>
 									<li class="category_31">
 	<a href="http://www.wedding.com.my/31-decoration-kits-packages" title="Wedding venue decoration &amp;amp; themes, ballroom, restaurant, garden, beach, malay, chinese, indian.  
-  &nbsp;  Featuring &nbsp; Perfect Wedding  &nbsp;">Decoration Kits &amp; Packages(195)</a>
+   
+ Get the perfect decoration for your special day to suit your theme with Wedding.com.my. With a range of decorations kits ranging from wedding...">Decoration Kits &amp; Packages(279)</a>
 			<ul>
 									<li class="category_215">
-	<a href="http://www.wedding.com.my/215-malay-indian-decorations" title="">Malay / Indian Decorations</a>
+	<a href="http://www.wedding.com.my/215-malay-indian-decorations" title="Get all your decoration needs for Malay and Indian weddings at Wedding.com.my. With a variety of wedding decorations and wedding supplies available to suit any wedding, you are sure to find the perfect decorations for your wedding....">Malay / Indian Decorations</a>
 	</li>
 
 												<li class="category_216">
-	<a href="http://www.wedding.com.my/216-chinese-decorations" title="">Chinese Decorations(119)</a>
+	<a href="http://www.wedding.com.my/216-chinese-decorations" title="For a traditional Chinese wedding ceremony, there are a few things required in order to complete the ceremony. Wedding.com.my offers these products as well as Chinese decor and bridal accessories in order for you to conduct your ceremony with less...">Chinese Decorations(203)</a>
 	</li>
 
 												<li class="category_217">
-	<a href="http://www.wedding.com.my/217-western-decorations" title="">Western Decorations(13)</a>
+	<a href="http://www.wedding.com.my/217-western-decorations" title="Wedding decorations are an essential part to completing the whole theme and look of your wedding. For all your wedding supplies, look to Wedding.com.my. With a wide range of products like wedding centerpieces as well as other decorations, you are sure...">Western Decorations(13)</a>
 	</li>
 
 												<li class="category_136 last">
-	<a href="http://www.wedding.com.my/136-decoration-packages" title="Shop for wedding decoration packages. Venue theme decoration package for ballroom, restaurant, garden, beach, western, traditional, malay, chinese, indian.">Decoration Packages(15)</a>
+	<a href="http://www.wedding.com.my/136-decoration-packages" title="If trying to coordinate decorations is too much work and stress, then go for wedding decoration packages. With various decoration packages to suit your budget and needs at Wedding.com.my, you are sure to find the perfect one to help achieve your dream...">Decoration Packages(15)</a>
 	</li>
 
 							</ul>
@@ -2148,18 +2060,20 @@ else {
 
 												<li class="category_33">
 	<a href="http://www.wedding.com.my/33-florist" title="Wedding florist, bridal flower arrangement, bouquets, corsages, flower crown, basket.  
-  &nbsp;  Featuring &nbsp; Kechara Blooms  &nbsp;">Florist(44)</a>
+   
+   
+ Flowers are a very important part of weddings. At Wedding.com.my, you will be able to get all your florist needs. From flower delivery to flower bouquet,...">Florist(234)</a>
 			<ul>
 									<li class="category_281">
-	<a href="http://www.wedding.com.my/281-corsages-boutonnieres" title="">Corsages &amp; Boutonnieres(3)</a>
+	<a href="http://www.wedding.com.my/281-corsages-boutonnieres" title="For those looking to add a little bit of colour to their bridal outfit, a wrist corsage could be an option. With a wide range of corsage and boutonniere available in various types of flowers, you will be sure to get the most suitable corsage for the...">Corsages &amp; Boutonnieres(69)</a>
 	</li>
 
 												<li class="category_282">
-	<a href="http://www.wedding.com.my/282-bouquets" title="">Bouquets(17)</a>
+	<a href="http://www.wedding.com.my/282-bouquets" title="Wedding bouquets are a must for a bride walking down the aisle. At Wedding.com.my, we offer a wide range of wedding flowers for you to form the perfect flower bouquet, and to make sure that the bouquet is perfect for your wedding day....">Bouquets(141)</a>
 	</li>
 
 												<li class="category_283 last">
-	<a href="http://www.wedding.com.my/283-décor-floral-arrangements" title="">Décor &amp; Floral Arrangements(3)</a>
+	<a href="http://www.wedding.com.my/283-décor-floral-arrangements" title="Flowers can be an essential part to completing your wedding decorations. At Wedding.com.my, offering a wide range of flower decorations like wedding centerpieces as well as other floral arrangements, you are sure to find what you are looking for here....">Décor &amp; Floral Arrangements(3)</a>
 	</li>
 
 							</ul>
@@ -2167,10 +2081,12 @@ else {
 
 												<li class="category_30">
 	<a href="http://www.wedding.com.my/30-restaurants" title="Restaurant's wedding packages by location, venue size, banquet menu, price, food tasting.  
-  &nbsp;  Featuring &nbsp; Marco Polo Chinese Cuisine  &nbsp;">Restaurants(2)</a>
+   
+   
+ For those who are looking to have good food served at their wedding without the more expensive fees charged by hotels, restaurants might be a good...">Restaurants(1)</a>
 			<ul>
 									<li class="category_220 last">
-	<a href="http://www.wedding.com.my/220-oriental-cuisine" title="">Oriental Cuisine</a>
+	<a href="http://www.wedding.com.my/220-oriental-cuisine" title="If a hotel is too pricey, why not opt for a restaurant to host your wedding instead? For example, a Chinese restaurant which could also serve the Chinese food that is normally served at wedding. With Wedding.com.my, you will be able to find the perfect...">Oriental Cuisine</a>
 	</li>
 
 							</ul>
@@ -2178,18 +2094,20 @@ else {
 
 												<li class="category_29">
 	<a href="http://www.wedding.com.my/29-hotels" title="Hotel's wedding packages by location, venue size, banquet menu, price, food tasting.  
-  &nbsp;  Featuring &nbsp; Sheraton Imperial KL  &nbsp;">Hotels(13)</a>
+   
+   
+ For wedding venues that are classy and all-inclusive, have a look at the hotel deals from Wedding.com.my. With a variety of hotels for you to choose from,...">Hotels(15)</a>
 			<ul>
 									<li class="category_284">
-	<a href="http://www.wedding.com.my/284-5-stars" title="">5 Stars(9)</a>
+	<a href="http://www.wedding.com.my/284-5-stars" title="Treat your wedding guests to opulence and grandeur by having your wedding at a five star hotel. With a hotel wedding, you are sure to wow and impress your wedding guests and help you get your dream wedding. Get the best deals in hotel packages with...">5 Stars(12)</a>
 	</li>
 
 												<li class="category_285">
-	<a href="http://www.wedding.com.my/285-4-stars" title="">4 Stars(1)</a>
+	<a href="http://www.wedding.com.my/285-4-stars" title="Want a wedding that is classy and yet kinder to your wallet? Well why not have your wedding at a four star hotel instead. With a hotel wedding, your guests will definitely be impressed, and there is less hassle for you with hotel packages by...">4 Stars(1)</a>
 	</li>
 
 												<li class="category_286 last">
-	<a href="http://www.wedding.com.my/286-3-stars" title="">3 Stars(1)</a>
+	<a href="http://www.wedding.com.my/286-3-stars" title="Get the best hotel wedding packages to get your fairytale wedding with Wedding.com.my. With the best wedding packages for a variety of hotels, including three star ones, you are sure to find the perfect wedding venue that fits both your needs and your...">3 Stars(1)</a>
 	</li>
 
 							</ul>
@@ -2197,20 +2115,22 @@ else {
 
 												<li class="category_35">
 	<a href="http://www.wedding.com.my/35-pelamin" title="Koleksi pelamin tunang, hiasan pelamin, pakej perkahwinan untuk akad nikah, majlis tunang, berinai, bersanding.  
-  &nbsp;  Featuring &nbsp; NBC Banquet Hall  &nbsp;">Pelamin(13)</a>
+   
+   
+ For Malay weddings, having a ‘pelamin’ or bridal bed is a must during the wedding ceremony. With Wedding.com.my, you will be able...">Pelamin(13)</a>
 			<ul>
 									<li class="category_280 last">
-	<a href="http://www.wedding.com.my/280-pakej-lengkap" title="">Pakej Lengkap(3)</a>
+	<a href="http://www.wedding.com.my/280-pakej-lengkap" title="For traditional Malay weddings, bridal accessories like the ‘pelamin’ or bridal bed is a must. With Wedding.com.my, you will be able to get the complete package for your wedding needs in order to lessen the burden and to make your wedding ceremony run...">Pakej Lengkap(3)</a>
 	</li>
 
 							</ul>
 	</li>
 
 												<li class="category_156 last">
-	<a href="http://www.wedding.com.my/156-private-venues" title="Rental Packages on cruise charter">Private Venues(6)</a>
+	<a href="http://www.wedding.com.my/156-private-venues" title="Have you wedding in splendor and style by having a private wedding on a yacht. With cruise deals for weddings on cruises, you are sure to get the best deals for the most unforgettable wedding at Wedding.com.my. Make your wedding one that will be talked...">Private Venues(6)</a>
 			<ul>
 									<li class="category_287 last">
-	<a href="http://www.wedding.com.my/287-cruises" title="">Cruises(5)</a>
+	<a href="http://www.wedding.com.my/287-cruises" title="Make your wedding something unforgettable and special by having it on a yacht or cruise. At Wedding.com.my, you can get attractive cruise deals to help make your wedding unique. Your guests will definitely be impressed and will be talking about your...">Cruises(5)</a>
 	</li>
 
 							</ul>
@@ -2221,18 +2141,21 @@ else {
 
 					
 													<li class="category_38">
-	<a href="http://www.wedding.com.my/38-services" title="Bridal house, photography, videography, photobooth, car rental, live band &amp;amp; entertainment.">Services(87)</a>
+	<a href="http://www.wedding.com.my/38-services" title="Get all the services you need for your wedding here. 
+ Employ a range of services for your special day at Wedding.com.my. With services ranging from hiring a photographer or videographer to document your wedding, or a wedding planner to help ease the...">Services(94)</a>
 			<ul>
 									<li class="category_39">
 	<a href="http://www.wedding.com.my/39-bridal-house" title="Packages on pre-wedding &amp;amp; actual day photoshoot, gown rental, photo album, car decoration.  
-  &nbsp;  Featuring &nbsp; My Dream Wedding &nbsp;&nbsp;">Bridal House</a>
+   
+   
+ To make sure that the bride gets the perfect outfit for her wedding, a visit to a bridal house is a must. With a variety of wedding dresses and...">Bridal House</a>
 			<ul>
 									<li class="category_85">
-	<a href="http://www.wedding.com.my/85-pre-wedding-" title="Photographer packages on studio photography, outdoor photography and overseas photography.">Pre-Wedding </a>
+	<a href="http://www.wedding.com.my/85-pre-wedding-" title="Pre-wedding photos are important to celebrate your upcoming nuptials. With a professional photographer, you can be sure that the photos taken compliments you and your spouse. With the best photography packages, both in the country and out of the...">Pre-Wedding </a>
 	</li>
 
 												<li class="category_71 last">
-	<a href="http://www.wedding.com.my/71-bridal-house-package" title="">Bridal House Package(2)</a>
+	<a href="http://www.wedding.com.my/71-bridal-house-package" title="Looking for a place that not only helps you find your dream wedding dress but also offers pre-wedding photos? A bridal house package deals from Wedding.com.my would be perfect for you. Offering pre-wedding photography by a professional photographer, as...">Bridal House Package(1)</a>
 	</li>
 
 							</ul>
@@ -2240,26 +2163,28 @@ else {
 
 												<li class="category_41">
 	<a href="http://www.wedding.com.my/41-photography" title="Wedding photographer packages on marriage registration, pre-wedding, destination wedding, studio, actual day.  
-  &nbsp;  Featuring &nbsp; GooseBumps Studio  &nbsp;">Photography(75)</a>
+   
+   
+ In order to memorialise your union with your loved one, hiring a wedding photographer could be the perfect solution. Offering a...">Photography(61)</a>
 			<ul>
 									<li class="category_69">
-	<a href="http://www.wedding.com.my/69-pre-wedding-" title="Photographer packages on studio photography, outdoor photography and overseas photography.">Pre-Wedding (12)</a>
+	<a href="http://www.wedding.com.my/69-pre-wedding-" title="Pre-wedding photos are important to celebrate your upcoming nuptials. With a professional photographer, you can be sure that the photos taken compliments you and your spouse. With the best photography packages in Malaysia, you are sure to find the...">Pre-Wedding (7)</a>
 	</li>
 
 												<li class="category_107">
-	<a href="http://www.wedding.com.my/107-destination-pre-wedding" title="Photographer packages on studio photography, outdoor photography and overseas photography.">Destination Pre-Wedding(29)</a>
+	<a href="http://www.wedding.com.my/107-destination-pre-wedding" title="Instead of having your pre-wedding photos taken locally, why not make an adventure out of it and have a destination photo shoot? At Wedding.com.my, we offer a wide range of deals for various pre-wedding destinations like Indonesia, Japan, Korea and...">Destination Pre-Wedding(22)</a>
 	</li>
 
 												<li class="category_70">
-	<a href="http://www.wedding.com.my/70-actual-day" title="Photographer packages on actual day and reception.">Actual Day(24)</a>
+	<a href="http://www.wedding.com.my/70-actual-day" title="After a long time of planning and stress, it is now your wedding day. After so much effort being put in to make it happen and to celebrate the union between you and your partner, why not hire a photographer to help immortalise the moments? With various...">Actual Day(23)</a>
 	</li>
 
 												<li class="category_78">
-	<a href="http://www.wedding.com.my/78-rom-engagement" title="Photographer packages on ROM and engagement.">ROM &amp; Engagement(2)</a>
+	<a href="http://www.wedding.com.my/78-rom-engagement" title="Aside from pre-wedding photos and actual day photography, why not also remember the day when you popped the question, or when you legally became a married couple with a professional photographer? With the photography deals offered at Wedding.com.my,...">ROM &amp; Engagement(1)</a>
 	</li>
 
 												<li class="category_148 last">
-	<a href="http://www.wedding.com.my/148-family-photo-shooting" title="Family Photo Shooting">Family Photo Shooting(2)</a>
+	<a href="http://www.wedding.com.my/148-family-photo-shooting" title="Haven’t had any family pictures taken lately with your kids all grown up? Or just had a new arrival and looking to get a complete family portrait? Why not visit Wedding.com.my, where we offer deals and packages for you to get the perfect family photos...">Family Photo Shooting(2)</a>
 	</li>
 
 							</ul>
@@ -2267,18 +2192,20 @@ else {
 
 												<li class="category_42">
 	<a href="http://www.wedding.com.my/42-videography" title="Wedding cinematography &amp;amp; videographer packages on proposal, marriage registration, save the date, pre-wedding, actual day.  
-  &nbsp;  Featuring &nbsp; Cine Wedding Studio  &nbsp;">Videography(10)</a>
+   
+   
+ Never miss anything with a professional videographer from Wedding.com.my. By having a video instead of...">Videography(12)</a>
 			<ul>
 									<li class="category_81">
-	<a href="http://www.wedding.com.my/81-actual-day" title="Videographper packages on actual day and reception.">Actual Day(10)</a>
+	<a href="http://www.wedding.com.my/81-actual-day" title="Ever seen those wedding videos that can’t help but bring tears to your eyes? Well now you can have that for your wedding as well! With various wedding videography deals with professional videographers at Wedding.com.my, you are sure to find the...">Actual Day(12)</a>
 	</li>
 
 												<li class="category_83">
-	<a href="http://www.wedding.com.my/83-rom-engagement" title="Videographer packages on ROM and engagement.">ROM &amp; Engagement</a>
+	<a href="http://www.wedding.com.my/83-rom-engagement" title="Never worry about missing a moment with a professional videographer. With various packages for ROM and engagement videography available at Wedding.com.my, be sure to get the perfect package to suit your needs....">ROM &amp; Engagement</a>
 	</li>
 
 												<li class="category_82 last">
-	<a href="http://www.wedding.com.my/82-proposal-" title="Videographer packages on wedding proposals.">Proposal </a>
+	<a href="http://www.wedding.com.my/82-proposal-" title="Never forget the moment she said yes by having a videographer capture the moment. With a variety of deals and packages for proposal videos at Wedding.com.my, you are sure to find the perfect one to fit your needs. Capture the magic of the moment with a...">Proposal </a>
 	</li>
 
 							</ul>
@@ -2286,44 +2213,58 @@ else {
 
 												<li class="category_47">
 	<a href="http://www.wedding.com.my/47-entertainment" title="Wedding entertainments packages, magic show, kompang kahwin, comedian &amp;amp; more.  
-  &nbsp;  Featuring &nbsp; Peony Romance  &nbsp;">Entertainment(10)</a>
+   
+   
+ Make sure that all your guests enjoy your wedding with wedding entertainment from Wedding.com.my. With a wide variety of entertainment ranging from live band...">Entertainment(10)</a>
 			<ul>
 									<li class="category_44">
 	<a href="http://www.wedding.com.my/44-live-band" title="Wedding live band performance, vocalist, musician, love songs.   
-  &nbsp;  Featuring &nbsp; Z Yan Music  &nbsp;">Live Band(5)</a>
+   
+   
+ Worried that your guests might end up being bored on your special day? Why not invest in some wedding entertainment from Wedding.com.my. With various types of live band and...">Live Band(5)</a>
 	</li>
 
 												<li class="category_46">
 	<a href="http://www.wedding.com.my/46-dj-emcee" title="DJ &amp;amp; emcee services on wedding actual day &amp;amp; party.  
-  &nbsp;  Featuring &nbsp; KL Mobile Djs  &nbsp;">DJ &amp; Emcee(5)</a>
+   
+   
+ For those looking to save a bit of cost and yet still have their guests entertained, hiring a DJ or emcee for your wedding could be the way to go. Entertain your guests with DJ music...">DJ &amp; Emcee(5)</a>
 	</li>
 
 												<li class="category_43">
 	<a href="http://www.wedding.com.my/43-photobooth" title="Photobooth packages &amp;amp; props rental for wedding event &amp;amp; party.  
-  &nbsp;  Featuring &nbsp; Dream Photohaus  &nbsp;">Photobooth(18)</a>
+   
+   
+ At this day and age, there’s nothing more that most people like than having their pictures taken. Therefore, why not rent a photo booth for your wedding? With a wide range...">Photobooth(18)</a>
 	</li>
 
 												<li class="category_276">
-	<a href="http://www.wedding.com.my/276-magician" title="">Magician(2)</a>
+	<a href="http://www.wedding.com.my/276-magician" title="If you’re looking for something unique for your wedding, why not hire a magician as a form of wedding entertainment for your guests? With a variety of packages and deals available at Wedding.com.my, you can be sure that you find the perfect one for...">Magician(2)</a>
 	</li>
 
 												<li class="category_277 last">
-	<a href="http://www.wedding.com.my/277-comedian" title="">Comedian(5)</a>
+	<a href="http://www.wedding.com.my/277-comedian" title="A form of wedding entertainment that will definitely bring smiles to your guests’ faces is definitely comedians. With many types of comedy ranging from stand up comedy to clowns available at Wedding.com.my, you are sure to find the perfect one that...">Comedian(5)</a>
 	</li>
 
 							</ul>
 	</li>
 
 												<li class="category_279 last">
-	<a href="http://www.wedding.com.my/279-wedding-coordinators" title="">Wedding Coordinators(2)</a>
+	<a href="http://www.wedding.com.my/279-wedding-coordinators" title="Cure all your wedding woes and stress with wedding coordinators at Wedding.com.my. With a coordinator or planner, you can be sure that your wedding is planned with you in mind to reduce stress associated with planning a wedding. Your wedding planner...">Wedding Coordinators(3)</a>
 			<ul>
 									<li class="category_109">
-	<a href="http://www.wedding.com.my/109-traditional-marriage-services" title="">Traditional Marriage Services(2)</a>
+	<a href="http://www.wedding.com.my/109-traditional-marriage-services" title="Chinese tradition follows certain rules and customs, especially when it comes to weddings. For the engaged couples, Wedding.com.my offers a range of services like a fortune teller for your marriage and feng shui, as well as services to choose...">Traditional Marriage Services(2)</a>
 	</li>
 
-												<li class="category_32 last">
+												<li class="category_32">
 	<a href="http://www.wedding.com.my/32-wedding-planner" title="Wedding planner, bridal services, pre-wedding checklist, planning guide for western, malay, chinese, indian.  
-  &nbsp;  Featuring &nbsp; Sincerite Wedding  &nbsp;">Wedding Planner(5)</a>
+   
+   
+ Lighten the load and reduce stress with a wedding planner for your upcoming nuptials. Offering different wedding planners and deals...">Wedding Planner(5)</a>
+	</li>
+
+												<li class="category_333 last">
+	<a href="http://www.wedding.com.my/333-kursus-kahwin" title="">Kursus Kahwin(1)</a>
 	</li>
 
 							</ul>
@@ -2334,31 +2275,33 @@ else {
 
 					
 													<li class="category_48">
-	<a href="http://www.wedding.com.my/48-fb" title="Wedding catering, cakes, canopy rental, wine, liquor &amp;amp; other dining deals. &nbsp; 
-  &nbsp;  Featuring &nbsp; GoodMorning Global ® VPlus 18 Grains &nbsp;&nbsp;">F&amp;B(118)</a>
+	<a href="http://www.wedding.com.my/48-fb" title="Make sure that your wedding guests are satisfied with the food served at your wedding.&nbsp; 
+ With Wedding.com.my, all your food and beverage needs for your wedding is covered. Find the perfect wedding cake or wedding biscuits to make a statement. Make...">F&amp;B(104)</a>
 			<ul>
 									<li class="category_49">
 	<a href="http://www.wedding.com.my/49-wedding-cakes" title="Wedding cakes, cup cakes, toppers, candy bars for bridal event &amp;amp; party.  
-  &nbsp;  Featuring &nbsp; Puffy Cupcake  &nbsp;">Wedding Cakes(70)</a>
+   
+   
+ Wedding cakes are part of every wedding tradition, therefore, it is definitely a part of your wedding that should not be left out. At Wedding.com.my, we offer a...">Wedding Cakes(69)</a>
 			<ul>
 									<li class="category_68">
-	<a href="http://www.wedding.com.my/68-cake-toppers" title="">Cake Toppers(29)</a>
+	<a href="http://www.wedding.com.my/68-cake-toppers" title="Every wedding cake needs cake toppers to complete its look. Get you wedding cake toppers online now with Wedding.com.my. With a variety of cake toppers for weddings, you are sure to find the perfect one to suit the theme of your wedding, as well as...">Cake Toppers(28)</a>
 	</li>
 
 												<li class="category_222">
-	<a href="http://www.wedding.com.my/222-cupcakes" title="">Cupcakes(11)</a>
+	<a href="http://www.wedding.com.my/222-cupcakes" title="If a wedding cupcake is too costly, why not go for cupcakes instead? Customisable and smaller to reduce food wastage, wedding cupcakes are an alternative for the traditional wedding cake. Not only do they look good, but they can also be given to your...">Cupcakes(11)</a>
 	</li>
 
 												<li class="category_223">
-	<a href="http://www.wedding.com.my/223-round-oval-cakes" title="">Round / Oval Cakes(25)</a>
+	<a href="http://www.wedding.com.my/223-round-oval-cakes" title="If you’re looking to go the more traditional route, a round wedding cake could be the one for you. With a wide range of cake flavours and designs, you are sure to find the perfect one for your wedding or any other occasion. At Wedding.com.my, you will...">Round / Oval Cakes(25)</a>
 	</li>
 
 												<li class="category_224">
-	<a href="http://www.wedding.com.my/224-square-rectangular-cakes" title="">Square / Rectangular Cakes(1)</a>
+	<a href="http://www.wedding.com.my/224-square-rectangular-cakes" title="For couples looking for something more unique for their wedding, a square cake would be suitable. With a variety of designs available at Wedding.com.my, you are sure to find the perfect wedding cake to suit the theme of your wedding. The cake will also...">Square / Rectangular Cakes(1)</a>
 	</li>
 
 												<li class="category_225 last">
-	<a href="http://www.wedding.com.my/225-other-cakes" title="">Other Cakes(11)</a>
+	<a href="http://www.wedding.com.my/225-other-cakes" title="For those looking for a less traditional take to the wedding cake, Wedding.com.my offers a range of alternatives for you to choose from. With products like pavlova towers and layer cake, you are sure to impress your guests with how unique your cake is...">Other Cakes(11)</a>
 	</li>
 
 							</ul>
@@ -2366,41 +2309,20 @@ else {
 
 												<li class="category_50">
 	<a href="http://www.wedding.com.my/50-catering" title="Wedding catering, buffet package, banquet menu, food catering, canopy rental.  
-  &nbsp;  Featuring &nbsp; Seri Mutiara Catering  &nbsp;">Catering(12)</a>
+   
+   
+ Food is important, especially in Malaysia. Therefore, make sure you get the right catering at Wedding.com.my. Offering a wide range of wedding catering packages...">Catering(25)</a>
 			<ul>
 									<li class="category_142">
-	<a href="http://www.wedding.com.my/142-halal-cuisine" title="">Halal Cuisine(9)</a>
+	<a href="http://www.wedding.com.my/142-halal-cuisine" title="For those looking for halal food like halal meat to be served at their wedding, Wedding.com.my offers a wide range of packages to suit your needs. With all the food offered certifiably halal, it is guaranteed that your wedding guests will all be able...">Halal Cuisine(20)</a>
 	</li>
 
 												<li class="category_145">
-	<a href="http://www.wedding.com.my/145-western-cuisine" title="">Western Cuisine(3)</a>
+	<a href="http://www.wedding.com.my/145-western-cuisine" title="Instead of traditional food for your wedding, you could also go for Western cuisine if it goes in accordance with the theme of your wedding. At Wedding.com.my, there is a range of Western food that you can choose from so that you can ensure you find...">Western Cuisine(5)</a>
 	</li>
 
 												<li class="category_239 last">
-	<a href="http://www.wedding.com.my/239-high-tea-canapes" title="">High Tea &amp; Canapes(1)</a>
-	</li>
-
-							</ul>
-	</li>
-
-												<li class="category_51">
-	<a href="http://www.wedding.com.my/51-wine-liquor" title="Wine, liquor, cocktail, beer for wedding.  
-  &nbsp;  Featuring &nbsp; WW Wine Warehouse  &nbsp;">Wine &amp; Liquor(26)</a>
-			<ul>
-									<li class="category_226">
-	<a href="http://www.wedding.com.my/226-red-wine" title="">Red Wine(19)</a>
-	</li>
-
-												<li class="category_227">
-	<a href="http://www.wedding.com.my/227-white-wine" title="">White Wine(3)</a>
-	</li>
-
-												<li class="category_228">
-	<a href="http://www.wedding.com.my/228-champagne" title="">Champagne(2)</a>
-	</li>
-
-												<li class="category_229 last">
-	<a href="http://www.wedding.com.my/229-hard-liquor-spirits" title="">Hard Liquor / Spirits(2)</a>
+	<a href="http://www.wedding.com.my/239-high-tea-canapes" title="For those looking for tidbits or canapes to be served for afternoon tea or during your wedding reception, Wedding.com.my offers a range of high tea catering deals that could suit your needs. Offering a range of different canapes, you are sure to...">High Tea &amp; Canapes(1)</a>
 	</li>
 
 							</ul>
@@ -2408,24 +2330,26 @@ else {
 
 												<li class="category_52">
 	<a href="http://www.wedding.com.my/52-petite-sweets" title="F&amp;amp;B venue deals, dinning promotion on wedding, anniversary &amp;amp; special occasions.  
-  &nbsp;  Featuring &nbsp; Lestari Wedding  &nbsp;">Petite Sweets(8)</a>
+   
+   
+ If getting a whole wedding cake is too expensive or too much of a waste, opt for petite sweets from Wedding.com.my instead. With products like mini...">Petite Sweets(8)</a>
 			<ul>
 									<li class="category_236">
-	<a href="http://www.wedding.com.my/236-sweets-mini-cakes" title="">Sweets &amp; Mini Cakes(10)</a>
+	<a href="http://www.wedding.com.my/236-sweets-mini-cakes" title="For those looking for door gifts or wedding favors to give your wedding guests as a token of appreciation, you can now give edible ones from Wedding.com.my. With a range of products ranging from mini cakes like layer cake and sweets like personalised...">Sweets &amp; Mini Cakes(10)</a>
 	</li>
 
 												<li class="category_237 last">
-	<a href="http://www.wedding.com.my/237-chocolates" title="">Chocolates(1)</a>
+	<a href="http://www.wedding.com.my/237-chocolates" title="Chocolate is always a favourite of the masses, so why not give your wedding guests a chocolate bar with personalised wrapping as a wedding favor instead? Offering a range of chocolates like dark chocolate from Wedding.com.my, you are sure to find the...">Chocolates(1)</a>
 	</li>
 
 							</ul>
 	</li>
 
 												<li class="category_112 last">
-	<a href="http://www.wedding.com.my/112-wedding-biscuits" title="">Wedding Biscuits(1)</a>
+	<a href="http://www.wedding.com.my/112-wedding-biscuits" title="For Chinese weddings, wedding biscuits are essential for the ceremony. Therefore, why not get biscuits that are delicious as well from Wedding.com.my. Offering a variety of biscuit with various flavours, your biscuits will definitely be enjoyed after...">Wedding Biscuits(1)</a>
 			<ul>
 									<li class="category_232 last">
-	<a href="http://www.wedding.com.my/232-chinese-biscuits" title="">Chinese Biscuits(1)</a>
+	<a href="http://www.wedding.com.my/232-chinese-biscuits" title="For traditional Chinese weddings, Chinese biscuits are a must to signify your marriage. At Wedding.com.my, get the best deals on a variety of Chinese biscuits available in various flavours....">Chinese Biscuits(1)</a>
 	</li>
 
 							</ul>
@@ -2436,48 +2360,52 @@ else {
 
 					
 													<li class="category_75 last">
-	<a href="http://www.wedding.com.my/75-destinations" title="Popular Destination weddings for local and oversea such as Bali, Phuket, Langkawi, Japan, Taiwan, China, Paris &amp;amp; more.">Destinations(32)</a>
+	<a href="http://www.wedding.com.my/75-destinations" title="Have your happily ever after with the various destinations offered at Wedding.com.my. Wow and impress your guests with destination wedding packages, or celebrate being married to the love of your life with attractive honeymoon packages at various...">Destinations(32)</a>
 			<ul>
 									<li class="category_36">
 	<a href="http://www.wedding.com.my/36-honeymoon" title="Honeymoon packages, destination wedding, resort wedding at romantic locations around the world.  
-  &nbsp;  Featuring &nbsp; The Andaman Langkawi  &nbsp;">Honeymoon(13)</a>
+   
+   
+ Fully celebrate your union to one another with the perfect honeymoon. With a variety of honeymoon destinations with attractive honeymoon packages...">Honeymoon(13)</a>
 			<ul>
 									<li class="category_302">
-	<a href="http://www.wedding.com.my/302-indonesia" title="">Indonesia(5)</a>
+	<a href="http://www.wedding.com.my/302-indonesia" title="After all the planning, your wedding is finally over and it’s time for your honeymoon. Take the opportunity to spend time together at the best honeymoon destinations like Indonesia. With a variety of honeymoon destinations and honeymoon packages...">Indonesia(5)</a>
 	</li>
 
 												<li class="category_303">
-	<a href="http://www.wedding.com.my/303-philippines" title="">Philippines(1)</a>
+	<a href="http://www.wedding.com.my/303-philippines" title="After all the planning, your wedding is finally over and it’s time for your honeymoon. Take the opportunity to spend time together at the best honeymoon destinations like Phillipines. With a variety of honeymoon destinations and honeymoon packages...">Philippines(1)</a>
 	</li>
 
 												<li class="category_304">
-	<a href="http://www.wedding.com.my/304-thailand" title="">Thailand(1)</a>
+	<a href="http://www.wedding.com.my/304-thailand" title="After all the planning, your wedding is finally over and it’s time for your honeymoon. Take the opportunity to spend time together at the best honeymoon destinations like Thailand. With a variety of honeymoon destinations and honeymoon packages...">Thailand(1)</a>
 	</li>
 
 												<li class="category_305">
-	<a href="http://www.wedding.com.my/305-hong-kong" title="">Hong Kong(1)</a>
+	<a href="http://www.wedding.com.my/305-hong-kong" title="After all the planning, your wedding is finally over and it’s time for your honeymoon. Take the opportunity to spend time together at the best honeymoon destinations like Hong Kong. With a variety of honeymoon destinations and honeymoon packages...">Hong Kong(1)</a>
 	</li>
 
 												<li class="category_306">
-	<a href="http://www.wedding.com.my/306-malaysia" title="">Malaysia(3)</a>
+	<a href="http://www.wedding.com.my/306-malaysia" title="After all the planning, your wedding is finally over and it’s time for your honeymoon. Take the opportunity to spend time together at the best honeymoon destinations locally in Malaysia. With a variety of honeymoon destinations and honeymoon packages...">Malaysia(4)</a>
 	</li>
 
 												<li class="category_307">
-	<a href="http://www.wedding.com.my/307-maldives" title="">Maldives(1)</a>
+	<a href="http://www.wedding.com.my/307-maldives" title="After all the planning, your wedding is finally over and it’s time for your honeymoon. Take the opportunity to spend time together at the best honeymoon destinations like the Maldives. With a variety of honeymoon destinations and honeymoon packages...">Maldives(1)</a>
 	</li>
 
 												<li class="category_321 last">
-	<a href="http://www.wedding.com.my/321-japan" title="">Japan</a>
+	<a href="http://www.wedding.com.my/321-japan" title="After all the planning, your wedding is finally over and it’s time for your honeymoon. Take the opportunity to spend time together at the best honeymoon destinations like Japan. With a variety of honeymoon destinations and honeymoon packages available...">Japan</a>
 	</li>
 
 							</ul>
 	</li>
 
 												<li class="category_120 last">
-	<a href="http://www.wedding.com.my/120-destination-weddings" title="Find spectacular wedding venues overseas featuring romantic sancturies, wedding chapels, water weddings to luxury getaway.">Destination Weddings(19)</a>
+	<a href="http://www.wedding.com.my/120-destination-weddings" title="Have a truly fairytale wedding with destination weddings. Instead of having your wedding locally, why not travel to different countries to get your dream wedding? With attractive destination wedding packages at Wedding.com.my, you will surely find the...">Destination Weddings(19)</a>
 			<ul>
 									<li class="category_76 last">
-	<a href="http://www.wedding.com.my/76-indonesia" title="Find spectacular wedding venues in Bali featuring romantic sancturies, wedding chapels, water weddings to luxury getaway.">Indonesia(19)</a>
+	<a href="http://www.wedding.com.my/76-indonesia" title="Find spectacular wedding venues in Bali featuring romantic sancturies, wedding chapels, water weddings to luxury getaway.  
+   
+ For a wedding that will impress all your wedding guests, why not have a destination wedding? With various destination...">Indonesia(19)</a>
 	</li>
 
 							</ul>
@@ -2694,7 +2622,7 @@ Whatsapp: +6016-7715880 </li>
 						<li>
 				<div> <span><i class="icon-phone"></i></span> <span>
 				<div style="font-size:14px;line-height:12px;">Call us now:</div>
-				<div style="font-size:16px;">+603-79320050</div>
+				<div style="font-size:16px;">+603-79320049</div>
 				</span> </div>
 			</li>
 									<li>
@@ -2743,13 +2671,12 @@ Whatsapp: +6016-7715880 </li>
 					<span>Facebook</span>
 				</a>
 			</li>
-				<!-- --			<li class="twitter">
+							<li class="twitter">
 				<a target="_blank" href="http://www.twitter.com/weddingcommy">
 					<span>Twitter</span>
 				</a>
 			</li>
-		-->
-        <li class="instagram">
+		        <li class="instagram">
 				<a target="_blank" href="https://www.instagram.com/wedding.com.my/">
 					<span> </span>
 				</a>
@@ -2764,13 +2691,13 @@ Whatsapp: +6016-7715880 </li>
         			<span>Youtube</span>
         		</a>
         	</li>
-                        	<li class="google-plus">
-        		<a  target="_blank" href="https://plus.google.com/+WeddingMy">
+        -->
+                	<li class="google-plus">
+        		<a target="_blank" href="https://plus.google.com/+WeddingMy">
         			<span>Google Plus</span>
         		</a>
         	</li>
-        -->
-                	<li class="pinterest">
+                        	<li class="pinterest">
         		<a target="_blank" href="https://www.pinterest.com/weddingmalaysia">
         			<span>Pinterest</span>
         		</a>
@@ -2779,7 +2706,26 @@ Whatsapp: +6016-7715880 </li>
 
 </section>
 <div class="clearfix"></div>
-<!--Start of Zopim Live Chat Script Mediacom87-->
+
+				<script type="text/javascript">
+					$(document).ready(function() {
+						plugins = new Object;
+						plugins.adobe_director = (PluginDetect.getVersion("Shockwave") != null) ? 1 : 0;
+						plugins.adobe_flash = (PluginDetect.getVersion("Flash") != null) ? 1 : 0;
+						plugins.apple_quicktime = (PluginDetect.getVersion("QuickTime") != null) ? 1 : 0;
+						plugins.windows_media = (PluginDetect.getVersion("WindowsMediaPlayer") != null) ? 1 : 0;
+						plugins.sun_java = (PluginDetect.getVersion("java") != null) ? 1 : 0;
+						plugins.real_player = (PluginDetect.getVersion("RealPlayer") != null) ? 1 : 0;
+
+						navinfo = { screen_resolution_x: screen.width, screen_resolution_y: screen.height, screen_color:screen.colorDepth};
+						for (var i in plugins)
+							navinfo[i] = plugins[i];
+						navinfo.type = "navinfo";
+						navinfo.id_guest = "3938997";
+						navinfo.token = "07eb2ff39f5d796030eec351d470abd0f8ea3134";
+						$.post("http://www.wedding.com.my/index.php?controller=statistics", navinfo);
+					});
+				</script><!--Start of Zopim Live Chat Script Mediacom87-->
 <script type="text/javascript">
 	window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set._.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
 	$.src='//v2.zopim.com/?22vsXjMQuPX8WVyS0n0QmZ8sKy7Vskrm';z.t=+new Date;$.type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
