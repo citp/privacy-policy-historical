@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxythais.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025082329id_/http%3A//www.ilovethaipussy.com/tour1/index.php%3Fsection%3D172%26nats%3DNDQ4NDoyOjc%2C6%2C0%2C0%2C0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxythais.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005050id_/http%3A//www.ilovethaipussy.com/tour1/index.php%3Fsection%3D172%26nats%3DNDQ4NDoyOjc%2C6%2C0%2C0%2C0) for the most accurate reproduction.*
 
 # I Love Thai Pussy - Real Young Thai Girls - Asian Teen Porn - Thai Pussy Guide
 
