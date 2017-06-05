@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sk-gaming.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121110605id_/http%3A//www.sk-gaming.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sk-gaming.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606001629id_/http%3A//www.sk-gaming.com/privacy) for the most accurate reproduction.*
 
 # SK Gaming | Privacy Policy
 
