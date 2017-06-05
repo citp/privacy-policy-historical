@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mailermailer.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125170712id_/http%3A//www.mailermailer.com/privacy-policy.rwp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailermailer.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013039id_/http%3A//www.mailermailer.com/company/privacy-policy.rwp) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This privacy policy covers all services provided by **MailerMailer LLC** , including MailerMailer.com, Presstacular.com, and MailerMailer Curated Newsletters. 
 
-To report any abuse or violations of the MailerMailer services, please send email to [abuse@mailermailer.com](mailto:abuse@mailermailer.com) and attach an unedited copy of the email message that you feel was sent to you in error or without your permission. Include all header information so that we can trace origin of the message. Also include any notes or other information that you feel are pertinent. Any questions or concerns regarding this privacy policy may be directed to [privacy@mailermailer.com](mailto:privacy@mailermailer.com). 
+To report any abuse or violations of the MailerMailer services, please send email to [abuse@mailermailer.com](mailto:abuse@mailermailer.com) and attach an unedited copy of the email that you feel was sent to you in error or without your permission. Include all header information so that we can trace origin of the email. Also include any notes or other information that you feel are pertinent. Any questions or concerns regarding this privacy policy may be directed to [privacy@mailermailer.com](mailto:privacy@mailermailer.com). 
 
 ### Web Site Information Collection
 
@@ -20,7 +20,7 @@ We may share collected information with another company in the event that we mer
 
 ### Use of Your Email List Information
 
-MailerMailer is not an email list rental service and does not rent or sell any email addresses or other contact information that you provide or collect regarding your email list members. At all times, you retain ownership and control of your email lists and list information. When you schedule an email message to be broadcast to your list members, MailerMailer sends your message based on the personalization, targeting, click tracking, and other criteria that you specified when you created and scheduled your message. Please keep your Login ID and password secure at all times, changing your password regularly as you would on other computer systems to prevent unauthorized access or use. 
+MailerMailer is not an email list rental service and does not rent or sell any email addresses or other contact information that you provide or collect regarding your email list members. At all times, you retain ownership and control of your email lists and list information. When you schedule an email campaign to be broadcast to your list members, MailerMailer sends your campaign based on the personalization, targeting, click tracking, and other criteria that you specified when you created and scheduled your campaign. Please keep your Login ID and password secure at all times, changing your password regularly as you would on other computer systems to prevent unauthorized access or use. 
 
 In order to comply with government legislation, email addresses which have requested no further contact will be placed on a suppression list which may be accessed by other organizations to maintain suppression of such addresses in their mailings as well as ours. 
 
