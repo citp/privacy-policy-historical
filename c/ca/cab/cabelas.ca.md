@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabelas.ca privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111231627id_/http%3A//www.cabelas.ca/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabelas.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015151id_/http%3A//www.cabelas.ca/pages/privacy) for the most accurate reproduction.*
 
 # Cabela's Canada
 
