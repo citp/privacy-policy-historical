@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technologieyvonlheureux.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209174645id_/http%3A//www.technologieyvonlheureux.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technologieyvonlheureux.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605203325id_/http%3A//technologieyvonlheureux.com/privacy) for the most accurate reproduction.*
 
 # Social2Search.com | Privacy
 
@@ -8,7 +8,7 @@ Effective Date: 01 May, 2016
 
 This privacy policy ("Privacy Policy") is designed to make important and transparent disclosures about how we collect, share and use our users' information. Our users' privacy is important to us. We encourage you to read the Privacy Policy carefully and use it to make informed decisions.
 
-This Privacy Policy governs the data collection practices by Social2Search Internet Technology Inc. ("Social2Search", "us", "we" and "our") while you use our (i) www.http://www.technologieyvonlheureux.com.com site; OR (ii) browser extensions; OR (iii) our software product (if applicable) (collectively "Social2Search Products").
+This Privacy Policy governs the data collection practices by Iron Mountain Technology. ("Social2Search", "us", "we" and "our") while you use our (i) www.http://www.technologieyvonlheureux.com.com site; OR (ii) browser extensions; OR (iii) our software product (if applicable) (collectively "Social2Search Products").
 
 By using the Social2Search Products you agree to the terms of this Privacy Policy. Your continued use of the Social2Search Products constitutes your agreement to this Privacy Policy. This Privacy Policy is part of our [End User License Agreement](http://www.technologieyvonlheureux.com/terms-of-service) and the definitions herein shall have the same meaning as defined in the [End User License Agreement](http://www.technologieyvonlheureux.com/terms-of-service). If you do not agree to these terms, please do not access or use the Social2Search Products.
 
