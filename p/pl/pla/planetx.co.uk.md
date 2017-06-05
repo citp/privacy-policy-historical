@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetx.co.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120015704id_/http%3A//www.planetx.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetx.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606002936id_/http%3A//www.planetx.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Planet X
 
@@ -15,7 +15,17 @@ We may collect the following information:
 
 
 
-For the exhaustive list of cookies we collect see the [List of cookies we collect](https://web.archive.org/#list) section.
+## Remarketing
+
+We use remarketing to advertise Planet X across the Internet. Remarketing will display relevant ads tailored to you based on what parts of the Planet X website you have viewed by placing a cookie on your machine. The cookie is used to say “This person visited this page, so show them ads relating to that page”. As always we respect your privacy and are not collecting any identifiable information through the use of Google’s or any other 3rd party remarketing system
+
+Facebook remarketing is achieved through the use of the Facebook tracking Pixel, this is not the same as a cookie and does not gather any personal information from your interaction with our website. The Facebook Pixel gathers the users Facebook profile and the page the users interacted with and then displays this back to the user when browsing the Facebook network.
+
+Third parties, including Facebook, may use cookies, web beacons, and other storage technologies to collect or receive information from our websites and elsewhere on the internet and use that information to provide measurement services and target 
+
+Remarketing allows us to tailor our marketing to better suit your needs and only display ads that are relevant to you.
+
+ 
 
 ## What we do with the information we gather
 
@@ -48,7 +58,7 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purpose. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or  **[emailing us here.](http://www.planetx.co.uk/contactus)**
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purpose. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or  **[emailing us here.](https://web.archive.org/contactus)**
   * We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
 
