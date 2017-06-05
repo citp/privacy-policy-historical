@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superbuy.my privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204202154id_/http%3A//www.superbuy.my/shop/t-privacyandsecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbuy.my privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012125id_/http%3A//www.superbuy.my/shop/t-privacyandsecurity.aspx) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -40,7 +40,7 @@ In order for us to provide you with our Products and Services, and to operate in
 
 We may collect your personal data from your when you:- 
 
-  * you register/subscribe as as new member
+  * you register/subscribe as new member
   * you use our Products and/or Services
   * participate in any of our surveys
   * participate in any of our marketing campaign and/or promotions
