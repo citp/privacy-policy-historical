@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veganricha.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121202009id_/http%3A//www.veganricha.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veganricha.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003059id_/http%3A//www.veganricha.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vegan Richa
 
@@ -50,7 +50,7 @@ _For customers who use Google Analytics Advertising Features, Google advertising
 
 Our advertisers may also use similar means to track such visits. Privacy policy of the networks being used are below where you should be able to find more information.
 
-<http://www.blogher.com/privacy-policy>
+[http://www.adthrive.com/adthrive-privacy-statement](http://www.adthrive.com/adthrive-privacy-statement/)
 
 <http://www.google.com/policies/privacy/>
 
@@ -78,8 +78,8 @@ You may choose to restrict the collection or use of your personal information in
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.
+We do not sell, rent, trade, or otherwise share personal information we have unless we have prior consent or we are required by the law. 
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
 
-_Last updated on: 12/21/14_
+_Last updated on: 11/27/16_
