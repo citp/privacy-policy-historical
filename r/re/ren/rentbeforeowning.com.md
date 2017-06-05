@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rentbeforeowning.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501065318id_/http%3A//www.rentbeforeowning.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentbeforeowning.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012433id_/http%3A//www.rentbeforeowning.com/privacy-policy.html) for the most accurate reproduction.*
 
-# RentBeforeOwning: Contact Us to find out more about Foreclosure Listings in your area
+# RentBeforeOwning: Contact Us to find out more about Rent to Own Listings in your area
 
 Last Updated: April 9, 2014
 
