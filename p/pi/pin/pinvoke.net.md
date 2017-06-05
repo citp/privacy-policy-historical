@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinvoke.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119062223id_/http%3A//www.red-gate.com/our-company/about/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinvoke.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005753id_/http%3A//www.red-gate.com/our-company/about/legal) for the most accurate reproduction.*
 
 # Legal Information About Redgate Software
 
@@ -37,9 +37,11 @@ We will use the personal information provided to us in order to:
 
 
 
-We may collect any personal information provided by you to us through this website or via use of our products, or we may collect this information via one of our telephone operators or through your email or other communications with us. Certain information is collected automatically, as described later in the privacy policy.
+We may collect any personal information provided by you to us through this website or via use of our products, or we may collect this information via one of our telephone operators or through your email or other communications with us. We may collect anonymous answers to surveys or anonymous and aggregated information about how our products are used. Certain information is collected automatically, as described later in the privacy policy.
 
 We may also ask you for other optional information such as what sort of equipment/device/software you use and what other subjects interest you. If you choose to give us this information, we will use it to help us to provide you with the best possible service that is personalized to your needs and preferences.
+
+We may also combine personal information with Product Usage Data to provide and improve our products, services, content, and advertising.
 
 Although we do not make it compulsory to give us every item of information we ask for, the more information volunteered by our customers (and the more accurate it is), the better we can match our services to the needs of the body of our customers.
 
@@ -47,9 +49,26 @@ During the installation process we may give you the opportunity to choose what �
 
 We also collect information from you if you choose to take part in any of our on-site surveys or promotions. We will use this information to administer the promotion, help us to plan other promotions and improve the services we provide.
 
+### Information automatically collected about your use of Redgate Products
+
+  *  **Product Usage Data** – We collect product usage data which records certain 'in-product' actions and activities such as 'starting a product', 'creating a workflow', 'open a project', 'run deployment wizard', 'format SQL', 'autocomplete', and 'use a snippet'. We do not scan or collect the content of any file or information that might be displayed by an application or used whilst performing such actions or activities.
+
+  *  **Device Data** – We collect information about your computer, such as operating system, amount of memory, region, language, time zone, browser version, version of SQL Server.
+
+  *  **Error reports** – If you experience problems with our products we may collect data about the products and any problems you experience with them. This data helps us improve our products and services, to diagnose problems in the products you use, and provide solutions. Depending on your product and settings, error reports can include data such as the type or severity of the problem, details of the software or hardware related to an error, contents of files you were using when an error occurred and the current state of the software.
+
+
+
+
+### Preview, Freeware and Free Edition Software
+
+Redgate offers preview, freeware and free edition software or other optional features that will enable you to use them while providing feedback and usage data to Redgate.
+
+As a result, these releases may automatically collect additional data, provide fewer controls, and otherwise employ different privacy and security measures than those typically present in our products. If you participate in previews or pre-release programs, we may contact you about your feedback or your interest in continuing to use the product after general release.
+
 ### Third-Parties and their sites
 
-Certain Redgate services, such as payment processing or assisting with user evaluation of our products, are offered in conjunction with our (third-party) business partners. In such cases, we may need to share your personal information with them in order to provide these services. In this instance, please note that certain services may be unavailable if you do not want to disclose the personal information you are asked for.
+Certain Redgate services, such as payment processing, information processing or assisting with user evaluation of our products, are offered in conjunction with our (third-party) business partners. In such cases, we may need to share your personal information with them in order to provide these services. In this instance, please note that certain services may be unavailable if you do not want to disclose the personal information you are asked for.
 
 Where our services make use of hosted tools, hosted data storage and payment services provided by third parties any of your personal information stored by such third parties shall be subject to their privacy provisions.
 
@@ -77,7 +96,7 @@ Cookies are very small text files saved to your computer used to track user navi
 
 At Redgate session cookies are used when users log-in to the website. Redgate will use such cookies to identify unique users to our websites. They are not cross-referenced with any other information such that an individual person could be identified.
 
-Redgate uses a cookie called Hubspot to identify and track your movement within our websites, and your engagement with our other services such as blogs and newsletters. You'll receive this cookie when you visit one of our websites but the information it collects will remain anonymous until you share your email address with us through one of our websites.
+Redgate use tracking cookies track your movement within our websites, and your engagement with our other services such as blogs and newsletters. You'll receive this cookie when you visit one of our websites but the information it collects will remain anonymous until you share your email address with us through one of our websites.
 
 Redgate may use a third party to serve advertisements on our websites. The advertisers may use cookies to track the number of users responding to the campaign. Redgate does not have access to or control of cookies placed by third parties.
 
@@ -109,7 +128,7 @@ We have implemented technology and policies to help safeguard your privacy from 
 
 ### Transfers of your personal information outside of the European Economic Area
 
-Information you provide to us may be transferred by us to Red Gate Software Inc. and/or our service providers that are situated outside the European Economic Area (EEA) and may be processed by staff operating outside the EEA. Any of our servers may also be temporarily located in a country outside the EEA. If we transfer your information outside the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected.
+Information you provide to us may be transferred by us to Red Gate Software Inc. and/or our service providers that are situated outside the European Economic Area (EEA) and may be processed by staff operating outside the EEA. Any of our servers may also be temporarily located in a country outside the EEA. If we transfer your information outside the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected in accordance with EU data protection law.
 
 ### Your consent
 
@@ -135,6 +154,6 @@ To cancel, please complete our cancellation form, and send it to Red Gate Softwa
 
 ## Legal
 
-Red Gate Software Ltd (No. 3857576) was incorporated on 12/10/1999 under UK law and, where applicable, complies with all UK laws and regulations.
+Red Gate Software Ltd. (No. 3857576) was incorporated on 12/10/1999 under UK law and, where applicable, complies with all UK laws and regulations.
 
-Red Gate Software Inc was incorporated on 21/1/2011, under the laws of the State of California (US) and, where applicable, complies with all federal and state laws and regulations.
+Red Gate Software Inc. was incorporated on 21/1/2011, under the laws of the State of California (US) and, where applicable, complies with all federal and state laws and regulations.
