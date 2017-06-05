@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the hollywood.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119045458id_/http%3A//www.hollywood.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywood.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012343id_/http%3A//www.hollywood.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hollywood.com
 
-**Updated January  2016**
+**Updated November  2016**
 
-Hollywood.com, LLC (“Hollywood.com” or “we”) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. Hollywood.com strives to respect and protect the privacy of individuals that visit our web sites. This notice constitutes our Privacy Policy.
+Hollywood.com, LLC (“Hollywood.com” or “we”) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. Hollywood.com strives to respect and protect the privacy of individuals that visit our websites. This notice constitutes our Privacy Policy.
 
-By using our services, you expressly consent this Privacy Policy and our Terms of Use, including our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into and subject to our Terms of Use.
+By using our services, you expressly consent to this Privacy Policy and our Terms of Use, including our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into and subject to our Terms of Use.
 
-No Hollywood.com services are directed to children under 13. Federal law requires that Hollywood.com may not collect any personally identifiable information from persons under 13 years of age. If you are under 13 years of age, you may not register for any Hollywood.com services or provide any of your personal information to Hollywood.com.
+No Hollywood.com services, including the Hollywood.com website and its subdomains, are directed to children under 13. Federal law requires that Hollywood.com may not collect any personally identifiable information from persons under 13 years of age. If you are under 13 years of age, you may not register for any Hollywood.com services or provide any of your personal information to Hollywood.com.
 
-This Privacy Policy applies to the all of the following web sites and services of Hollywood.com and all of its sub-domains.
+This Privacy Policy applies to the all of the websites and services of Hollywood.com and all of its subdomains.
 
 **What Information We Collect and For What Purposes**
 
 To most effectively offer our services, we may collect information from you in the following ways:
 
-– **Information You Provide to Register for Services.** If you wish to register for the Hollywood.com newsletter or to participate in a contest or giveaway, we request you to provide your email address and zip code (or foreign postal area). You may also include any additional information in a space provided. You are not required to provide this information, but then you may not receive the services.
+– **Information You Provide to Register.** If you wish to register for the Hollywood.com newsletter or to participate in a contest or giveaway, we request you to provide your email address and zip code (or foreign postal area). You may also include any additional information in a space provided. You are not required to provide this information, but then you may not receive the services.
 
-– **Server Log Information.** Our servers automatically log certain basic technical information when a user accesses the website, which may include your Internet Protocol (IP) address, your browser’s request to the Hollywood.com server, the date and time of the request, the language and type of browser you use, the referring web page, your computer’s operating system, and any Hollywood.com cookies associated with your browser.
+– **Server Log Information.** Our servers automatically log certain basic technical information when a user accesses the website, which may include your Internet Protocol (IP) address, your browser’s request to the Hollywood.com server, the date and time of the request, the language and type of browser you use, certain mobile device information, the referring web page, your computer or mobile device operating system, and any Hollywood.com cookies associated with your browser.
 
 – **Communications From You to Us.** If you send correspondence or email to us or otherwise communicate with us, we may retain copies of the communications to assist you or for our records.
 
-– **Cookies.** When you browse to www.hollywood.com, our system sends a small file called a “cookie” to your computer that identifies your browser. This allows us to recognize you for purposes of saving your preferences or providing personalized service. We use cookies to record session information, record user-specific information on what pages users access or visit, or customize Web page content based on visitors’ browser type or other information that the visitor sends. Since we use cookies to make your web site visit more user friendly, please be aware that refusing cookies may not allow you to take full advantage of some our web site features.
+– **Cookies.** When you browse to www.hollywood.com, our system sends a small file called a “cookie” to your computer that identifies your browser. This allows us to recognize you for purposes of saving your preferences or providing personalized service. We use cookies to record session information, to record user-specific information on what pages users access or visit, or to customize Web page content based on visitors’ browser type or other information that the visitor sends. Since we use cookies to make your website visit more user friendly, please be aware that refusing cookies may not allow you to take full advantage of some our website features. We also use third-party analytical services such as Google Analytics and those services may use cookies to collect information regarding users that is not personally identifiable. If you enable a Do Not Track (“DNT”) setting in your browser, we will not set cookies.
 
 – **Social Networking.** We allow you to sign into social networking and other online profiles through Hollywood.com so you can interact with our services using those accounts. Hollywood.com can only recognize you through these accounts if you specifically agree to share that information by signing in.
 
@@ -38,19 +38,19 @@ The only purposes for which Hollywood.com processes personal information are tho
 
 – To communicate with you or respond to a request.
 
-– To better understand, market to and serve our membership.
+– To better understand, market to and serve our users.
 
 – To protect the rights of property or safety of Hollywood.com or its members.
 
 – To run contests or giveaways. We may run contests on our sites in which we ask visitors for contact information (such as their name and email address) and demographic information (such as their zip code or foreign postal area). The user’s contact information is used to contact the user when necessary, such as if they win a contest or to notify users of upcoming contests.
 
-**Information You Reveal to the Hollywood.com or Publish or Post is Public**
+**Information You Reveal to Hollywood.com or Publish or Post is Public**
 
-Any information you contribute as a “comment” to an article or feature on Hollywood.com is public. Once you post information as a “comment,” Hollywood.com cannot prevent others from reviewing it.
+Any information you contribute as a “comment” to an article or feature on Hollywood.com is public. Once you post information as a “comment,” Hollywood.com does not prevent others from reviewing it.
 
 **NOTICE: CALIFORNIA MINORS (CALIFORNIA RESIDENTS UNDER AGE 18)**
 
-If you are a California resident under age 18 you may request Hollywood.com remove comments previously posted by you from public view on Hollywood.com. If you’d like to request removal of a comment, please email [membership@hollywood.com](mailto:membership@hollywood.com) with the following information: the URL where the content exists and the exact content you would like to remove. Please include “request for removal” in the subject of the email.
+If you are a California resident under age 18 you may request Hollywood.com to remove comments previously posted by you from public view on Hollywood.com. If you’d like to request removal of a comment, please email [membership@hollywood.com](mailto:membership@hollywood.com) with the following information: the URL where the content exists and the exact content you would like to remove. Please include “request for removal” in the subject of the email.
 
 **Where Information is Processed**
 
@@ -70,7 +70,7 @@ Hollywood.com will not share your personal information with third parties unless
 
 Hollywood.com may share with third parties certain pieces of aggregated demographic data that will not identify you or anyone personally, such as the number of users who viewed a particular page in a given time-period, or geographic statistics about our members.
 
-Ads appearing on this web site are displayed on your screen by either (a) one of our web advertising partners or (b) by us. Information about your visit to this site, such as the number of times you have viewed an ad, your browser, the type of computer operating system you use, and whether or not you responded to the ad delivered, (but not your name, address, phone number or other personally identifying information), is used to serve advertisements to your screen. We may use your zip code or geographical location information to serve appropriate advertisements. In the course of serving advertisements to this site, our third party advertiser may place or recognize a unique cookie on your browser.
+Ads appearing on this website are displayed on your screen by either (a) one of our web advertising partners or (b) by us. Information about your visit to this site, such as the number of times you have viewed an ad, your browser, the type of computer operating system you use, and whether or not you responded to the ad delivered, (but not your name, address, phone number or other personally identifying information), is used to serve advertisements to your screen. We may use your zip code or geographical location information to serve appropriate advertisements. In the course of serving advertisements to this site, our third party advertiser may place or recognize a unique cookie on your browser.
 
 We may also use third party advertisements placed by ad networks to support our Site. Some of these advertisers and ad networks may use your zip code or geographic location and technology including, but not limited to, cookies or web beacons when they advertise on our Site. These advertisers and ad networks may collect and use the non-personal information described above to provide you with relevant advertisements based on your online behavior, activities on our Site and other third party sites, demographic information, or information relevant to your general location so that the advertising you see on our Site more closely reflects your interests. If you would like more information about this practice or to opt-out of this type of advertising, please [click here](http://www.networkadvertising.org/choices/).
 
@@ -100,7 +100,7 @@ To correct, update, or remove information from our records and databases, or to 
 
 – Users may unsubscribe to the Hollywood.com newsletter via the link within it (each time it is sent), or by sending email to the above email address or U.S. mail to the below address.
 
-– Users may send mail to the following postal address: Membership Information, Hollywood.com, LLC, 560 Broadway, Suite 404, New York, New York 10012
+– Users may send mail to the following postal address: Membership Information, Hollywood.com, LLC, 100 Crosby St., Suite 404, New York, New York 10012. All requests for personal data modifications are acted upon in the ordinary course of business, and Hollywood.com reserves the right to retain backup copies of such requests.
 
 **California Residents**
 
@@ -108,7 +108,7 @@ It is not Hollywood.com’s practice to disclose your personal information to an
 
 Please address such requests to:
 
-California Privacy Matters, Hollywood.com, LLC, 560 Broadway, Suite 404, New York, New York 10012
+California Privacy Matters, Hollywood.com, LLC, 100 Crosby St., Suite 404, New York, New York 10012
 
 **Changes to this Privacy Policy**
 
@@ -122,7 +122,7 @@ Sensitive personal information will never be disclosed to third parties or used 
 
 **Third Party Collection of Information**
 
-Certain third parties including, but not limited to, Facebook, whose pixels or data are used by our website, may use cookies, web beacons, and similar technologies to collect or receive information from your website, and elsewhere on the internet, and use that information to provide measurement services and target ads. You can opt-out of the collection and use of your information for ad targeting by accessing  [www.aboutads.info/choices](http://cp.mcafee.com/d/1jWVIe4zqb3XRT4QnXCXCQrLn7fECzBxASztWUVZd6WpJ6XRNPW9EVoodETuKevjoKCrx8H854WDDBz5qEsKr9Rffb6aRgVsS-MOMZXz_nVxxBZeX7nKnjpd7b7fcfFEIKth5dqWqJTQul3PWApmU6CQjrVKVKVI05F2HsZgFQEeRONeIHvgSpJkf1hWR3ZVsSOzteVI5zihEw2Qp6tImd40mGvaNr1spd40Bm1DUQBm1Ew1ctIlB0yrohdAj1DbRxT)  and following the opt-out instructions contained there.
+Certain third parties including, but not limited to, Facebook, whose pixels or data are used by our website, may use cookies, web beacons, and similar technologies to collect or receive information from your website, and elsewhere on the internet, and use that information to provide measurement services and target ads. You can opt-out of the collection and use of your information for ad targeting by accessing [www.aboutads.info/choices](http://http//www.aboutads.info/choices/) and following the opt-out instructions contained there.
 
 **Nielsen Digital Measurement and Your Right to Opt-Out**
 
@@ -136,7 +136,7 @@ Recourse Mechanisms. If you have any complaints regarding the compliance of Holl
 
 Steven Marder  
 Hollywood.com, LLC  
-560 Broadway, Suite 404  
+100 Crosby St., Suite 404  
 New York, NY 10012  
 (212) 817-9105 Phone  
 [safeharbor@hollywood.com](mailto:safeharbor@hollywood.com)
@@ -149,8 +149,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 Privacy Matters  
 Hollywood.com, LLC  
-560 Broadway  
-Suite 404  
+100 Crosby St.,Suite 404  
 New York, New York 10012
 
 or email us at [membership@hollywood.com](mailto:membership@hollywood.com)
