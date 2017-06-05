@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exeter.ac.uk privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232221id_/http%3A//www.exeter.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exeter.ac.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003948id_/http%3A//www.exeter.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies - University of Exeter
 
@@ -35,7 +35,7 @@ Where you require a password to access parts of the University’s website you a
 
 The University website contains links to other websites which may be of interest to users. We are not responsible for the content of these websites and have no control over any information you may provide to third parties.
 
-More information on security can be accessed at: <http://as.exeter.ac.uk/it/regulations/infosec/>
+More information on security can be accessed at: http://as.exeter.ac.uk/it/regulations/infosec/
 
 ### Your Rights
 
