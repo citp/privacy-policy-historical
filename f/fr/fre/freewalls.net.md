@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewalls.net privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102023755id_/http%3A//freewalls.net/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewalls.net privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605125256id_/http%3A//freewalls.net/page/privacy) for the most accurate reproduction.*
 
 # Privacy - Free Wallpapers Collection
 
