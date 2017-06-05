@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cobrasmarketview.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204134343id_/http%3A//www.cobrasmarketview.com/%3Fpage_id%3D243) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cobrasmarketview.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606002218id_/http%3A//www.cobrasmarketview.com/%3Fpage_id%3D243) for the most accurate reproduction.*
 
 # Privacy Policy | Cobra's Market View
 
@@ -21,7 +21,6 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google'
 Any of the information we collect from you may be used in one of the following ways: 
 
 ; To send periodic emails   
-  
 
 
 > The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
