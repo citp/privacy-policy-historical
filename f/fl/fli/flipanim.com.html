@@ -1,0 +1,200 @@
+<!--The following is the downloaded HTML source of the flipanim.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606012712id_/http%3A//flipanim.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+	<link rel="icon" href="favicon.ico">
+	<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="Description" content="Create flipbook animations online!">
+	<meta charset="UTF-8">
+	<link href="https://fonts.googleapis.com/css?family=Indie+Flower|Quicksand" rel="stylesheet" type="text/css">
+	<meta property="fb:app_id" content="255131981492510">
+	<meta property="og:title" content="FlipAnim">
+	<meta property="og:description" content="Create flipbook animations online!">
+	<meta name="theme-color" content="#2980b9">
+	<title>FlipAnim - create flipbook animations online!</title>
+<meta property="og:image" content="http://flipanim.com//gfx/logo_fb.png">
+<meta property="og:url" content="http://flipanim.com/">
+<link rel="canonical" href="http://flipanim.com/">
+	<link rel="stylesheet" type="text/css" href="styles/style.css">
+	
+	</head>
+<body>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '255131981492510',
+      xfbml      : true,
+      version    : 'v2.5'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+
+<div class="header">
+	<div class="header_active">
+		<span>
+			<a href="/">
+				<div class="logo"></div>
+			</a>
+			<span class="logo_text"> - create flipbook animations online!</span>
+		</span>
+		<span style="float:right;">
+			<div class="fb-like" data-href="https://www.facebook.com/FlipAnim" data-layout="button_count" data-share="false" data-width="300 " data-colorscheme="light" data-show-faces="true"></div>
+			<a href="register" class="flipButton">Register</a><a href="login" class="flipButton">Login</a>			<!--
+			<div style="float:right; margin: 4px;">
+				<a class="twitter-follow-button"
+				  href="https://twitter.com/FlipAnim"
+				  data-show-screen-name="true" data-show-count="false">
+				Follow @FlipAnim</a>
+			</div>
+			-->
+			<!--
+			<a href="https://reddit.com/r/FlipAnim" target="_blank" style="float:right; margin:4px;" class="download_button">/r/FlipAnim</a>
+			-->
+		</span>
+	</div>
+</div>
+
+<div id="mainDiv" class="main">
+
+	<div id="mainDivActive" class="main_active">
+
+<!--	
+	<div style="text-align: center; font-family: 'Indie Flower'; font-size: 15px; color: #c0392b; font-weight:bold;">
+		<a href="http://reddit.com/r/FlipAnim" style="text-align: center; font-family: 'Indie Flower'; font-size: 15px; color: #c0392b; font-weight:bold;">Gallery on /r/FlipAnim</a>
+	</div>
+-->
+
+	<div class="menu_div" style="vertical-align: middle">
+		<a class="flipTooltip" href="/" style="vertical-align: middle;">
+			<div class="menu_item" style="background:url(&quot;gfx/gfx.png&quot;) -0px -320px;"></div>
+			<span class="flipTooltiptext">
+				<div class="thumb_title">Draw animation</div>
+			</span>
+		</a>
+		<a class="flipTooltip" href="/rand" style="vertical-align: middle;">
+			<div class="menu_item" style="background:url(&quot;gfx/gfx.png&quot;) -128px -256px;"></div>
+			<span class="flipTooltiptext">
+				<div class="thumb_title">Random animation</div>
+			</span>
+		</a>
+		<a class="flipTooltip" href="/browse" style="vertical-align: middle;">
+			<div class="menu_item" style="background:url(&quot;gfx/gfx.png&quot;) -192px -256px;"></div>
+			<span class="flipTooltiptext">
+				<div class="thumb_title">Browse animations</div>
+			</span>
+		</a>
+		<div style="display:inline-block; height:64px;">
+			<input id="searchInput" type="text" placeholder="Search..." style="border-radius:10px; border:2px solid; border-color: #27ae60; padding: 5px; vertical-align: middle; display: none;">
+			<a id="searchButton" class="flipTooltip" href="" style="vertical-align: middle;">
+				<div class="menu_item" style="background:url(&quot;gfx/gfx.png&quot;) -256px -256px;"></div>
+				<span class="flipTooltiptext">
+					<div class="thumb_title">Search animations</div>
+				</span>
+			</a>
+		</div>
+		<a class="flipTooltip" href="/comments" style="vertical-align: middle;">
+			<div class="menu_item" style="background:url(&quot;gfx/gfx.png&quot;) -64px -320px;"></div>
+			<span class="flipTooltiptext">
+				<div class="thumb_title">Animation comments</div>
+			</span>
+		</a>
+	</div>
+	
+	<script>
+		function search() {
+			window.location.href = "/search?text="+encodeURIComponent(searchInput.value);
+		}
+	
+		searchButton.addEventListener("click",function(evt) {
+				if (searchInput.style.display == "none") {
+					searchInput.style.display = "inline";
+					searchInput.focus();
+				} else {
+					if (searchInput.value=="") {
+						searchInput.style.display = "none";
+					} else {
+						search();
+					}
+				}
+				evt.preventDefault();
+			}
+		);
+		
+		searchInput.addEventListener("keyup",function(evt) {
+			if(event.keyCode == 13){
+				search();
+			}
+		});
+	</script>
+
+<div style="text-align:center; font-size:30px;" class="text_formatted">Privacy Policy</div>
+
+<div class="text_normal inputFormGroup" style="width: 90%; padding: 25px; text-align: left;">
+
+<p>Your privacy is very important to us. Accordingly, we have developed this policy in order for you to understand how we collect, use, communicate, disclose and make use of personal information. The following outlines our privacy policy.</p>
+
+<ul>
+  <li>Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.</li>
+  <li>We will collect and use personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain additional consent for other uses of the information from of the individual concerned or as required by law.</li>
+  <li>We will only retain personal information as long as necessary for the fulfillment of those purposes.</li>
+  <li>Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up to date.</li>
+  <li>We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.</li>
+  <li>We will make information about our policies and practices relating to the management of personal information readily available to site visitors.</li>
+  <li>We will use 'cookies' and 'local storage' to store information required to properly operate FlipAnim site. Addidtionaly third party libraries like Google Adsense and Google Analytics can use 'cookies' and 'local storage' to work properly. You can disable storing data in your browsers privacy properties, but we not guearantee that FlipAnim will be working properly after disabling it.</li>
+</ul>
+
+<p>
+We are committed to conducting our site in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. Please <a href="contact" style="color: blue;">contact us</a> if you detect any unauthorized access to your or others account or data on FlipAnim website.
+</p>
+
+</div>
+
+	</div>
+
+</div>
+
+
+
+<div class="footer"><div class="footer_active">
+	<div style="display:inline-block;width:30%;vertical-align:top;">
+		<div style="font-weight: bold;">Special thanks to:</div>
+		<div><a href="https://jnordberg.github.io/gif.js/" target="_blank">Johan Nordbergs gif.js</a></div>
+		<div><a href="https://flatuicolors.com/" target="_blank">FlatUI Colors</a></div>
+	</div>
+	<div style="display:inline-block;width:30%;vertical-align:top">
+		<div style="font-weight: bold;">Legals:</div>
+		<div><a href="tos">Terms of Service</a></div>
+		<div><a href="privacy">Privacy Policy</a></div>
+	</div>
+	<div style="display:inline-block;width:30%;vertical-align:top">
+		<div style="font-weight: bold;">Feedback? Suggestions?</div>
+		<div><a href="contact">Contact with me here!</a></div>
+	</div>
+	<div style="text-align: center; font-size: 12px; margin-top: 10px;">This site uses cookies and local storage for your better experience.</div>
+	<div style="text-align: center; font-size: 12px;">2016-2017 Poklik</div>
+</div>
+</div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-76003036-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+</body></html>
