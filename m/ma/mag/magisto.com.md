@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magisto.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130141535id_/https%3A//www.magisto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magisto.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605101354id_/https%3A//www.magisto.com/privacy) for the most accurate reproduction.*
 
 # Magisto | Privacy
 
@@ -63,7 +63,7 @@ Magisto has put into place security measures in an effort to protect personal in
 By registering you agree to receive promotional messages from Magisto. If at any time you wish to stop receiving promotional information from Magisto, you may opt out by:   
 
 
-  1. Contacting us on [www.magisto.com/support](https://web.archive.org/web/20161130141535id_/https%3A//www.magisto.com/support)
+  1. Contacting us on [www.magisto.com/support](https://web.archive.org/web/20170605101354id_/https%3A//www.magisto.com/support)
   2. Writing us at: Customer Service, 3 Hamazmera St., POB 2038, Ness-Ziona 74120, Israel
   3. Accessing your registration information and checking the box that allows you to opt out of receiving promotional emails.
 
