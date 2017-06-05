@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the silversea.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121161818id_/http%3A//www.silversea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silversea.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606014817id_/http%3A//www.silversea.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy. Silversea Cruises
 
-  1. [Home](http://www.silversea.com/)
-  2. Privacy Policy
 
 
 
@@ -50,7 +48,12 @@ You can update your personal information, such as your name, email address, post
 Silversea keeps all personal information on a secure server that is accessible to designated employees of Silversea and their website agencies. Silversea has appropriate security measures in place in their physical facilities to protect against the loss, misuse or alteration of information that has been collected from you at the Silversea website.  Unfortunately, Silversea cannot guarantee that data transmitted over the Internet will always be secure.  As a result, while we endeavor to protect your personal information transmitted to us or from our online products and services, you do so at your own risk.  Once we receive your transmission, we will use reasonable efforts to ensure its security on our system.
 
 Silversea Cruises Ltd.  
-110 East Broward Boulevard  
-Fort Lauderdale, FL 33301 USA
+333 Avenue of the Americas, Suite 2600  
+(333 Southeast 2nd Avenue)  
+Miami, FL 33131  
+United States
+
+(954) 522-4477  
+[info@silverseacruises.com](mailto:info@silverseacruises.com)
 
 For more information, please contact Silversea by filling out the form located **[here](http://www.silversea.com/send-an-email/ "Send an Email").**
