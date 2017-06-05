@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msparp.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316160239id_/http%3A//help.msparp.com/kb/faq.php%3Fid%3D23) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msparp.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013807id_/http%3A//help.msparp.com/kb/faq.php%3Fid%3D23) for the most accurate reproduction.*
 
 # MSPARP Help Desk
 
