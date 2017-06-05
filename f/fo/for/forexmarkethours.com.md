@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the forexmarkethours.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125051318id_/http%3A//www.forexmarkethours.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexmarkethours.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013259id_/http%3A//www.forexmarkethours.com/privacy) for the most accurate reproduction.*
 
 # Forex Market Hours
 
 |   
+
+
+[](http://forexdailypips.com/free-winning-forex-indicator-markethours/)
+
+  
+
+
 | | | | | | |   
 
 
