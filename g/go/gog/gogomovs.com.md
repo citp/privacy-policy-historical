@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the gogomovs.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126120442id_/http%3A//www.gogomovs.com/i/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogomovs.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606011259id_/http%3A//www.gogomovs.com/i/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GoGoMovs.com
 
-Updated: November 26, 2016  
-Site: GoGoMovs.com 
+Effective Date: June 06, 2017  
+Sites Covered: www.GoGoMovs.com 
 
-Pursuant to our [Terms of Use](http://www.gogomovs.com/i/terms/), , this document describes how we treat personal information related to your use of GoGoMovs.com (the “Website”), including information you provide when using it.
+Pursuant to our [Terms of Use](http://www.gogomovs.com/i/terms/), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
 
 We expressly and strictly limit use of the Website to adults over 18 years of age or the age of majority in the individual’s jurisdiction, whichever is greater. Anyone under this age is strictly forbidden from using the Website. We do not knowingly seek or collect any personal information or data from persons who have not attained this age.
 
   * I.  **Data Collected**
 
-    * _**Browsing the Website.**_ You can watch videos and access other parts of the Website without having an account, in which case only your IP address, country of origin and other non-personal information about your computer or device (such as web requests, browser type, browser language, referring URL, operating system and date and time of requests) will be recorded for log file information, aggregated traffic information and in the event that there is any misappropriation of information and/or content.
+    * _**Browsing the Website.**_ You can use the search function and access other parts of the Website without having an account, in which case only your IP address, country of origin and other non-personal information about your computer or device (such as web requests, browser type, browser language, referring URL, operating system and date and time of requests) will be recorded for log file information, aggregated traffic information and in the event that there is any misappropriation of information and/or content.
 
-    * _**Registering on the Website.**_ Registration of an account is required for uploading videos and accessing other features on the Website. We require the following personal information at the time of registration: your username and password (which you generate), e-mail address, age confirmation and gender. Your IP address is recorded automatically. Your username and gender will become publicly accessible on the Website.
+    * _**Registering on the Website.**_ From time to time and at our discretion, we may allow you to register an account on the Website. Registration of an account may be required for saving your preferences, saving favorites and accessing other features on the Website. We may require the following personal information in addition to others at the time of registration: your username (which you generate) and e-mail address. You may be assigned a password which you may choose to change. Your IP address is recorded automatically.
 
-    * _**Usage Information.**_ We may record information about your usage of the Website such as your subscriptions, which users you communicate with, the videos you watch, the frequency and size of data transfers and other statistics. If you have registered and are logged in, we may associate that information with your account.
+    * _**Usage Information.**_ We may record information about your usage of the Website such as the videos you watch, the frequency and size of data transfers and other statistics. If you have registered and are logged in, we may associate that information with your account.
 
     * _**Uploaded Content.**_ Any personal information or content you voluntarily disclose online, including videos, comments and your profile page, becomes publicly available and may be collected and used by others.
 
@@ -27,7 +27,7 @@ We expressly and strictly limit use of the Website to adults over 18 years of ag
 
     * We may use your information to provide you with certain features and to create a personalized experience on the Website. We may also use that information to operate, maintain and improve features and functionality of the Website.
 
-    * We will not use your e-mail address or other personal information to send commercial or marketing messages without your consent. We may use your e-mail without further consent for non-marketing or administrative purposes.
+    * We may use your e-mail address or other personal information to send commercial or marketing messages without your consent. We may use your e-mail without further consent for non-marketing or administrative purposes.
 
     * We use cookies, web beacons and other information to store information so that you will not have to re-enter it on future visits, provide personalized content and information, monitor the effectiveness of the Website and monitor aggregate metrics such as the number of visitors and page views (including for use in monitoring visitors from affiliates). They may also be used to provide targeted advertising based on your country of origin and other personal information.
 
