@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flir.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219164201id_/http%3A//www.flir.com/corporate/display/%3Fid%3D60309) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flir.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606011126id_/http%3A//www.flir.com/corporate/display/%3Fid%3D60309) for the most accurate reproduction.*
 
 # FLIR Systems, Inc. Privacy Policy
 
