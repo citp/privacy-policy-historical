@@ -1,25 +1,12 @@
-> *The following text is extracted and transformed from the brightidea.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114160209id_/http%3A//www.brightidea.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightidea.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606002328id_/http%3A//www.brightidea.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Brightidea
 
 **Introduction  
-**Brightidea, Inc. (“Brightidea”) is committed to protecting the privacy of your personal information while using our Web site and our hosted application service and related support services. Brightidea has therefore established this Privacy Policy to assist you to understand how Brightidea collects and uses personally identifiable information. By using our Web site or our hosted application service or related support services, you are agreeing to the collection and use of personal information in the manner described in this Privacy Policy.
-
-**Safe Harbor Certification  
-**Your personal information may be transferred abroad (including outside the EU and Switzerland for our users in the EU or Switzerland) in connection with our providing our hosted application service and related support services.
-
-Brightidea is self-certified to the United States/European Union and United States/Switzerland Safe Harbor Programs and is thus committed to complying with theU.S.-EU and U.S.-Swiss Safe Harbor principles with respect to all personal data received from the EU and Switzerland (see <http://export.gov/safeharbor/>).
-
-Brightidea agrees to cooperate with the EU Data Protection Authorities and the Swiss Federal Data Protection and Information Commissioner, and to participate in the dispute resolution program provided by the European Data Protection Authorities Panel.
-
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Brightidea commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Brightidea at [support@Brightidea.com](mailto:support@Brightidea.com).
-
-Brightidea has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Brightidea, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
-
-If you have a complaint concerning Brightidea’ Safe Harbor compliance, please contact [support@Brightidea.com](mailto:support@Brightidea.com).
-
-**Web Site Data Collection Overview  
-**Our server software gathers in log files, general demographic information from all users of our Web site and for users of our hosted application service and related support services. For each visitor to the Brightidea Web site, our Web server automatically recognizes the visitor’s domain name, browser type, operating system, referring domains, entry page, exit page, and average time on the Web site. This information is used for internal purposes only, to help us improve our Web site and better understand our visitors’ needs.
+**Brightidea, Inc. (“Brightidea”) is committed to protecting the privacy of your personal information while using our Web site and our hosted application service and related support services. Brightidea has therefore established this Privacy Policy to assist you to understand how Brightidea collects and uses personally identifiable information. By using our Web site or our hosted application service or related support services, you are agreeing to the collection and use of personal information in the manner described in this Privacy Policy.  
+   
+**Web Site Data Collection Overview** **  
+** Our server software gathers in log files, general demographic information from all users of our Web site and for users of our hosted application service and related support services. For each visitor to the Brightidea Web site, our Web server automatically recognizes the visitor’s domain name, browser type, operating system, referring domains, entry page, exit page, and average time on the Web site. This information is used for internal purposes only, to help us improve our Web site and better understand our visitors’ needs.
 
 We may use the services of marketing companies to help us collect and/or log Internet Protocol addresses, Internet domain names, the web browser and operating system used to access the Brightidea Web site, the files visited, the time spent in each file, and the time and date of each visit. We use Web beacons and cookies. Cookies are identifiers that can be sent from a Web site via your browser to be placed on your computer’s hard drive. Thereafter when you visit a Web site, a message is sent back to the Web server by the browser accessing the Web site. You may elect not to accept cookies by changing the designated settings on your Web browser. However, not utilizing cookies may prevent you from using certain functions and features of our Web site. The information collected from the use of cookies is used and analyzed to improve our Web site. We use cookies to personalize the experience of our visitors, provide support to customers, record visitor preferences, provide personalized and specialized content, record session information, track visitor clickstream behavior throughout the Web site, and customize site content based on your browser type, operating system, and preferences. By gathering such information to supplement our records,we learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers liketo see. Although we or our marketing companies log the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can opt-out of this Web site analysis tool by disabling your cookies. If you disable your cookies, you may still use our Web site; however, you may not be able to access certain areas within it.
 
@@ -59,5 +46,5 @@ Written inquiries may be addressed to:
 
 Brightidea, Inc.  
 Attn: Support  
-255 California Street  
+25 Pacific Avenue  
 San Francisco, CA 94111 – USA.
