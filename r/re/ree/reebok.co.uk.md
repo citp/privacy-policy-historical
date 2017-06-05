@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the reebok.co.uk privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117065114id_/http%3A//www.reebok.co.uk/help-topics-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reebok.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606004947id_/http%3A//www.reebok.co.uk/help-topics-privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## 1\. Who is in charge of the protection of your data
 
-adidas International Trading BV, Hoogoorddreef 9a, 1101BA Amsterdam, Netherlands ( **Reebok** , **we** or **us** ) determines the purposes and means of the processing of your data and is the controller for this website and all (mobile) applications which refer to this Privacy Policy, according Dutch Data Protection legislation. Reebok is committed to take all responsibility to protect and secure your personal data.   
+adidas International Trading BV, Hoogoorddreef 9a, 1101BA Amsterdam, Netherlands ( **Reebok** , **we** or **us** ) determines the purposes and means of the processing of your data and is the controller for this website and all (mobile) applications which refer to this Privacy Policy, according Dutch Data Protection legislation. Reebok is committed to take all responsibility to protect and secure your personal data.  
 For this Privacy Policy, the adidas Group consists of all group entities which are involved with or responsible for the adidas Group brands (including Reebok and TaylorMade).
 
 ##   
@@ -35,14 +35,14 @@ _2.1.2 What you should know about cookies_
 
 **First of all… what are cookies?**
 
-Cookies are small text files that are stored on your computer or mobile device. For this section, we conveniently use "cookies" as an umbrella term for techniques such as cookies, Flash cookies, web beacons and JavaScript. They don’t take much space and they will be removed automatically when expired. Some cookies expire at the end of your internet session, while others will be saved for a limited amount of time. 
+Cookies are small text files that are stored on your computer or mobile device. For this section, we conveniently use "cookies" as an umbrella term for techniques such as cookies, Flash cookies, web beacons and JavaScript. They don’t take much space and they will be removed automatically when expired. Some cookies expire at the end of your internet session, while others will be saved for a limited amount of time.
 
 **Secondly… why do we use cookies?**
 
 Reebok uses cookies to ensure your visit to our website is as pleasant as possible. There are different types of cookies with different uses. Some are there just to allow you to browse the website and see certain features. Some give us an idea on your browsing experience, i.e. when you have trouble finding what you are looking for, so we can improve and make your future visit as pleasant as possible.
 
-**Next… what are the different cookie types we use?  
-**  
+**Next… what are the different cookie types we use?**
+
 The most important cookies are the **required cookies**. They are essential and help you to navigate on the website and to use basic features. Then there are **functionality cookies** that enable you to save your shopping bag, create a wish list and to save your shipping details for a quicker checkout. The **performance cookies** we use to improve our website. We also like to show you relevant offers. To manage this we collect browsing data. **Interaction cookies** are used for you to interact with social media or to submit reviews. **Targeting cookies**. These cookies capture your preferences in order to show you relevant ads outside Reebok sites. Below you see a more elaborate overview of the types of cookies we are using:
 
 1\. REQUIRED COOKIES  
@@ -52,27 +52,27 @@ are essential and help you navigate, move around on the website and see certain 
 are there so we can give you an even smoother customer experience. These cookies help you to save and remind you about your shopping bag and enable you to create a wish list.
 
 3\. PERFORMANCE COOKIES  
-help us to understand shopping behavior of our visitors. This enables us to keep improving our website, so shopping becomes easier and more pleasant for you. 
+help us to understand shopping behavior of our visitors. This enables us to keep improving our website, so shopping becomes easier and more pleasant for you.
 
 4\. INTERACTION COOKIES  
-are used for you to express your opinion. We love to know what you think about our product, our website and about us in general. These cookies will enable you to like or recommend us on social media and to chat with our service agents. But you can also advise our other (potential) customers by rating and reviewing our products. 
+are used for you to express your opinion. We love to know what you think about our product, our website and about us in general. These cookies will enable you to like or recommend us on social media and to chat with our service agents. But you can also advise our other (potential) customers by rating and reviewing our products.
 
 5\. TARGETING COOKIES  
 will remember your product and buying preferences. We believe advertising is all about relevance. These cookies enable us to share what you like with our advertisers. So if you are browsing on i.e. Google, the advertisement you see can be more relevant to your preferences.  
 Finally… what if you don’t like cookies?  
 You can change your browser settings to delete or prevent cookies from being stored on your computer or mobile device without your explicit consent. The ‘help’ section in your browser should provide information on how to manage your cookie settings. Find out how this works for your browser here:
 
-_Internet Explorer:<http://support.microsoft.com/gp/cookies/en>
+_Internet Explorer:<https://support.microsoft.com/help/17442/windows-internet-explorer-delete-manage-cookies>
 
-Mozilla Firefox: <http://support.mozilla.com/en-US/kb/Cookies>[  
-](http://support.mozilla.com/en-US/kb/Cookies)  
+Mozilla Firefox: <http://support.mozilla.com/en-US/kb/Cookies>
+
 Google Chrome: [http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647](http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647)
 
 Safari: <http://support.apple.com/kb/PH5042>
 
 Opera: <http://www.opera.com/browser/tutorials/security/privacy/>
 
-Adobe (plug-in for flash cookies): <http://www.adobe.com/security/flashplayer/articles/lso/>
+Adobe (plug-in for flash cookies): <http://www.adobe.com/privacy/policies/flash-player.html>
 
 _
 
@@ -96,11 +96,11 @@ All of this data is characterized by the fact that you have provided this inform
 
 We will use your personal data for purposes relating to your order; e.g., to notify you regarding the status of your order or delivery. We may use your data to assess your creditworthiness, for which we may use third parties.
 
-If you have provided us with your personal data in relation to a promotion, event, (mobile) application, etc, we may send you emails or other messages which relate to the service you have requested. 
+If you have provided us with your personal data in relation to a promotion, event, (mobile) application, etc, we may send you emails or other messages which relate to the service you have requested.
 
-If you contact customer service, we will use your personal data (including your contact history) so that customer service is able to process your request and provide you with the best service possible. 
+If you contact customer service, we will use your personal data (including your contact history) so that customer service is able to process your request and provide you with the best service possible.
 
-If you have given us your personal data during the sale of a product or service, we will inform you about similar products and services. We may also contact you to ask for your feedback after the sale of a product or service. In case of an interrupted sales process we will send you a reminder. You can immediately unsubscribe from any of these notifications at any time at no cost by clicking on a link in the corresponding e-mail or other message (see further below in parapraph 5). 
+If you have given us your personal data during the sale of a product or service, we will inform you about similar products and services. We may also contact you to ask for your feedback after the sale of a product or service. In case of an interrupted sales process we will send you a reminder. You can immediately unsubscribe from any of these notifications at any time at no cost by clicking on a link in the corresponding e-mail or other message (see further below in parapraph 5).
 
 With your explicit consent, we may contact you via the contact details provided by you (including per regular mail, e-mail, SMS, telephone or any other electronic means) for marketing, advertising and opinion research purposes of the adidas Group. This includes for example information related to products of the adidas Group, ecommerce activities, special offers, promotions as well as information on local store openings, local store activities of the adidas Group or sporting events. In order to be able to contact you with information which is of special interest for you, your overall interaction with Reebok and adidas AG (such as but not limited to your shopping behaviour in e-shops, in Reebok physical stores, your use of loyalty programmes, your ratings and reviews of products, your contact history with our customer service, your newsletter clicks/ opening results, your surfing behaviour (web tracking), the newsletter types you are subscribed to, your participation in promotions or events, your interactions with mi coach and your use of (mobile) applications), will be combined analysed and used. We may provide your contact data to adidas AG for marketing, advertising and opinion research purposes. In section 5 you can find information on your rights, for example on how you can withdraw your consent or correct your personal details.
 
@@ -109,7 +109,7 @@ With your explicit consent, we may contact you via the contact details provided 
 
 One of our core principles is that we will treat your data with care and confidentiality. We will not sell your data to third parties. If required by law, your data may be disclosed to third parties. Provided that this is allowed under applicable law, we may transfer your data to other companies of the adidas Group.
 
-We may use service providers and data processors working on behalf of Reebok. The services can include hosting and maintenance services, analysis services, e-mail messaging services, delivery services, handling of payment transactions, solvency check and address check, etc. These third parties are granted access to such personal data they require in order to be able to carry out the particular service. The service providers and data processors are contractually obliged to treat such information in the strictest confidence. It is also contractually forbidden for them to use the data in any other way than required. The necessary steps are taken to ensure that our service providers and the processors working on behalf of Reebok protect confidentiality of your data. 
+We may use service providers and data processors working on behalf of Reebok. The services can include hosting and maintenance services, analysis services, e-mail messaging services, delivery services, handling of payment transactions, solvency check and address check, etc. These third parties are granted access to such personal data they require in order to be able to carry out the particular service. The service providers and data processors are contractually obliged to treat such information in the strictest confidence. It is also contractually forbidden for them to use the data in any other way than required. The necessary steps are taken to ensure that our service providers and the processors working on behalf of Reebok protect confidentiality of your data.
 
 There may be occasions on which we disclose non-personal data to our partners in an anonymous form. Such non-personal data includes, for example, information about the number of visitors to a website or a (mobile) application during a certain period of time. Such information is generally only disclosed in a ‘bundled’ form.
 
@@ -122,9 +122,9 @@ If you provide us with personal data via our websites or other channels, this is
 ###   
 5.1 Right to object and unsubscribe
 
-E-mails that Reebok sends to you that for instance contain a newsletter or marketing content, include the option to unsubscribe to the receipt of such e-mails by following the relevant instructions in the respective e-mail. If you want to stop receiving emails from us, you can simply click on this unsubscribe hyperlink and we will stop sending you emails forthwith. 
+E-mails that Reebok sends to you that for instance contain a newsletter or marketing content, include the option to unsubscribe to the receipt of such e-mails by following the relevant instructions in the respective e-mail. If you want to stop receiving emails from us, you can simply click on this unsubscribe hyperlink and we will stop sending you emails forthwith.
 
-If you do not wish information about your behavior at our website or (mobile) application being collected and assessed, you can opt-out of the gathering of the web analytics data as described below in subsection 10. 
+If you do not wish information about your behavior at our website or (mobile) application being collected and assessed, you can opt-out of the gathering of the web analytics data as described below in subsection 10.
 
 If you wish to object to receiving promotional information and offers in general, including by regular mail, e-mail, per SMS, by telephone or by any other electronic means, or if you want to withdraw your consent, you may also do so at any time by writing to adidas International Trading BV, Hoogoorddreef 9a, 1101BA Amsterdam, the Netherlands, reference: data protection, or sending an [e-mail](http://adidas-group-co.uk.custhelp.com/app/ask). In case we have doubt about your identity, we can ask you to identify yourself (e.g. by sending a copy of your passport ID). Other than regular costs for communication this is free of charge.
 
@@ -158,14 +158,14 @@ If a child under the age of 13 attempts to submit a registration application, th
 ##   
 8\. Social Networks
 
-Our website and (mobile) applications provide you with Social Plug-ins from various social networks. If you choose to interact with a social network, your activity on our website or via our (mobile) applications will also be made available to social networks such as Facebook and Twitter. 
+Our website and (mobile) applications provide you with Social Plug-ins from various social networks. If you choose to interact with a social network, your activity on our website or via our (mobile) applications will also be made available to social networks such as Facebook and Twitter.
 
-If you are logged in on one of these social networks during your visit to one of our websites or (mobile) applications, the social network might add this information to your profile. If you are interacting with one of the Social Plug-ins, this information will be transferred to the social network. In case you do not wish such a data transfer, please log off on your social network before you enter one of our websites or (mobile) applications. 
+If you are logged in on one of these social networks during your visit to one of our websites or (mobile) applications, the social network might add this information to your profile. If you are interacting with one of the Social Plug-ins, this information will be transferred to the social network. In case you do not wish such a data transfer, please log off on your social network before you enter one of our websites or (mobile) applications.
 
 We cannot influence this data collection and data transfer via the Social Plug-ins. Please read the privacy policies of those social networks for detailed information about the collection and transfer of personal data, what rights you have and how you can achieve satisfactory privacy settings.
 
-Facebook: <http://www.facebook.com/about/privacy/>[  
-](http://www.facebook.com/about/privacy/)  
+Facebook: <http://www.facebook.com/about/privacy/>
+
 Twitter: <http://twitter.com/privacy>
 
 Google +: <http://www.google.com/intl/en/policies/privacy/>
@@ -173,23 +173,23 @@ Google +: <http://www.google.com/intl/en/policies/privacy/>
 ##   
 9\. Geolocation Services
 
-We offer location-enabled services within some of our (mobile) applications, such as Google Maps and Bing Maps. If you use those (mobile) applications, they may receive information about your actual location (such as GPS signals sent by a mobile device) or information that can be used to approximate a location. You can generally enable or disable your location services in your device or browser settings.   
+We offer location-enabled services within some of our (mobile) applications, such as Google Maps and Bing Maps. If you use those (mobile) applications, they may receive information about your actual location (such as GPS signals sent by a mobile device) or information that can be used to approximate a location. You can generally enable or disable your location services in your device or browser settings.  
 We use the Google Maps service or the Bing Maps service to assist you in finding the next Reebok store. To facilitate this, we load an image from Google Maps or Bing Maps, saving the route data and map image on our server.
 
-For further Information on Google Maps and their privacy policy please read their privacy policy. 
+For further Information on Google Maps and their privacy policy please read their privacy policy.
 
 Google: <http://www.google.com/intl/en/policies/privacy/>
 
 For further information on Bing Maps and their Privacy Policy please read their privacy policy.
 
-Bing Maps: <http://privacy.microsoft.com/en-us/fullnotice.mspx>
+Bing Maps: <https://privacy.microsoft.com/privacystatement>
 
 ##   
 10\. Web analytics by Coremetrics
 
-The web analytic services on our website and (mobile) applications are provided by Coremetrics (www.coremetrics.com). This means that when you visit our website or (mobile) applications, a cookie by Coremetrics will be stored on your computer or mobile device, except when your browser settings do not allow for such cookies (see section 2.1.2). 
+The web analytic services on our website and (mobile) applications are provided by Coremetrics (www.coremetrics.com). This means that when you visit our website or (mobile) applications, a cookie by Coremetrics will be stored on your computer or mobile device, except when your browser settings do not allow for such cookies (see section 2.1.2).
 
-This further means that when you visit our website or (mobile) application, the web analytics data described above in chapter 2 – including the “click-stream data”, the data from “web beacons and tracking links” and information stored in Coremetrics’ cookies – will be sent to Coremetrics for analysis for and on behalf of Reebok. Please note that if you have created an online profile at our website or (mobile) application and if you are logged on in this profile, a unique number identifying this profile is also being sent to Coremetrics in order to be able to match the web analytics data to this profile. 
+This further means that when you visit our website or (mobile) application, the web analytics data described above in chapter 2 – including the “click-stream data”, the data from “web beacons and tracking links” and information stored in Coremetrics’ cookies – will be sent to Coremetrics for analysis for and on behalf of Reebok. Please note that if you have created an online profile at our website or (mobile) application and if you are logged on in this profile, a unique number identifying this profile is also being sent to Coremetrics in order to be able to match the web analytics data to this profile.
 
 Coremetrics acts as an agent to Reebok, which means that Reebok solely determines the purposes for which the data is being used and that Coremetrics will not disclose the information to any third parties (except when required to do so by law or court order). In privacy terms, this means that Reebok is the “controller” and Coremetrics the “processor”. You can find out more about the relationships between Reebok and Coremetrics in the Coremetric’s privacy policy under “Privacy Policy for Our Provision of Services” at <http://www.coremetrics.com/company/privacy.php#services>.
 
@@ -219,11 +219,11 @@ You can send an email to our [Customer Service](http://adidas-group-co.uk.custhe
 
 Or you can call Customer Service at 0800 - 279 49 79 (freephone)
 
-Alternatively you can contact the Group Data Protection Officer at 
+Alternatively you can contact the Group Data Protection Officer at
 
-adidas AG   
-Adi-Dassler-Straße 1   
-91074 Herzogenaurach   
+adidas AG  
+Adi-Dassler-Straße 1  
+91074 Herzogenaurach  
 Germany  
 [DataProtection@adidas-Group.com](mailto:DataProtection@adidas-Group.com)
 
