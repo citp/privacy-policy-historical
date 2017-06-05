@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mentertained.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030043528id_/http%3A//mentertained.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentertained.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606011424id_/http%3A//mentertained.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy - Mentertained
 
-This Privacy Policy governs the manner in which Mentertained LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.mentertained.com](https://web.archive.org/web/20161030043528id_/http://mentertained.com/privacy-policy/www.mentertained.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Mentertained LLC.
+This Privacy Policy governs the manner in which Mentertained LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.mentertained.com](https://web.archive.org/web/20170606011424id_/http://mentertained.com/privacy-policy/www.mentertained.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Mentertained LLC.
 
  **Personal identification information**
 
@@ -72,8 +72,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
  **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Mentertained LLC](https://web.archive.org/web/20161030043528id_/http://mentertained.com/privacy-policy/www.mentertained.com)  
-[www.mentertained.com](https://web.archive.org/web/20161030043528id_/http://mentertained.com/privacy-policy/www.mentertained.com)  
+[Mentertained LLC](https://web.archive.org/web/20170606011424id_/http://mentertained.com/privacy-policy/www.mentertained.com)  
+[www.mentertained.com](https://web.archive.org/web/20170606011424id_/http://mentertained.com/privacy-policy/www.mentertained.com)  
 [contact@mentertained.com](mailto:contact@mentertained.com)
 
 This document was last updated on April 23, 2015
