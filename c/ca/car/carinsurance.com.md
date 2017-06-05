@@ -1,145 +1,186 @@
-> *The following text is extracted and transformed from the carinsurance.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822172659id_/http%3A//www.carinsurance.com/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carinsurance.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606004659id_/http%3A//www.carinsurance.com/PrivacySecurity.aspx) for the most accurate reproduction.*
 
 # CarInsurance.com Privacy Policy
 
-Updated as of February 1, 2013
+**QUINSTREET, INC.**
 
-**Company Practices Regarding Your Privacy**
+**PRIVACY POLICY**
 
-Welcome to CarInsurance.com, a website owned by QuinStreet, Inc. We at QuinStreet, Inc. and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any information you share with us by using our web sites.
+[](https://privacy.truste.com/privacy-seal/QuinStreet/validation?rid=ab9e93be-4fe1-4b3f-a561-51afa2436d36 "TRUSTe online privacy certification")
 
-QuinStreet has established the following Online Privacy Policy so that you can understand the care with which we intend to treat your information. This policy describes the overall privacy practices of QuinStreet regarding information we collect on our network of web sites and through our other Internet advertising mediums, including but not limited to email, newsletters, and leave-behinds. This policy also describes the specific privacy practices regarding information you voluntarily disclose while taking advantage of the insurance-quoting services on [www.carinsurance.com](http://www.carinsurance.com/), which we provide through our wholly owned subsidiary, QuinStreet Insurance Agency, Inc. (fka Car Insurance.com, Inc.). This policy does not apply to the practices of companies that QuinStreet does not own or control, or to people that QuinStreet does not employ.
+**LAST UPDATED:   **May 2, 2016
 
-**Your California Privacy Rights**
+This website is owned and operated by QuinStreet, Inc. or a QuinStreet, Inc. subsidiary, division or line of business (collectively, “QuinStreet”). For a list of QuinStreet, Inc. subsidiaries, divisions or lines of business (the “QuinStreet Businesses”), please see the section entitled “QuinStreet Businesses” below.
 
-California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer’s personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information.
+ We are concerned about privacy issues and want you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we collect through this website owned and controlled by us which display or link to this Privacy Policy (the “Site”).  By using our Sites, you agree to the terms and conditions of this Privacy Policy.
 
-If you are a California resident you may request this information from QuinStreet or any of its affiliates by writing to us via email at info@quinstreet.com or you may send us correspondence at the following address: QuinStreet, Attn: Privacy, 950 Tower Lane, 6th Floor, Foster City, CA 94404. QuinStreet is not obligated to respond to more than one such request from a customer per calendar year.
+**CERTIFICATIONS**
 
-**Information Collected by CarInsurance.com**
+QuinStreet has received TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with the [TRUSTe program](https://www.truste.com/privacy-certification-standards/program-requirements/). The TRUSTe program covers only information that is collected through this Site. If you have questions or complaints regarding our privacy policy or practices, please contact us as described below, or if you are not satisfied with our response, you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
-**Non-Personally Identifiable Consumer Information**
+**1.     ****Personal Information**
 
-QuinStreet collects various types of information from you to better meet your needs and to provide you with a more relevant user experience. Some of this information is collected automatically through cookies (a small text file placed on your computer which can identify your operating system and session ID) or other Internet tracking technologies. The type of information your browser or Internet session may automatically provide us with can include the browser you are using, your Internet domain, the operating system on your computer, your IP address and the URL you saw just before coming to the QuinStreet site, the pages of the site you visited and the URL of the page you visited upon leaving the site. If you take advantage of our insurance-quoting services, we may also use web beacons, which allow our partners to place a cookie on an end user’s computer when they visit one of our partner sites so that when the end user visits our sites, that cookie data is tracked by our partner and our partner can identify that the end user achieved a certain milestone (a commonly used concept also referred to as “pixel tracking”).
+**a.     ****Personal Information We Collect** **.** We collect personally identifiable information that can identify you as an individual (“Personal Information”), such as:
 
-QuinStreet may also contract with reputable third-party advertising companies to serve ads on our behalf. These companies may also use cookies or other measures to collect your non-personally identifiable information. We have no access to or control over these cookies, and this policy does not cover the use of cookies by any advertisers.
+  * Name
+  * Postal address
+  * Telephone number
+  * Email address
+  * Credit or debit card number
+  * Social Security number
+  * Driver’s license number
 
-**Personally Identifiable Consumer Information**
 
-In addition, at some of the QuinStreet web sites, we collect information that you may choose to provide to us when requesting additional information from us or from one or more of our clients. Examples of personally identifiable data that you may provide to us include name, address, and email address. If you provide personally identifiable data to us, you may later elect to have your information deleted from our files, or kept from being used for purposes other than for the service requested, by following the opt-out procedures set forth below.  
-Where you provide your personal information to us to receive an auto insurance quote, this information may include phone number, social security number, marital status, date of birth, gender, occupation, education level, driver’s license number, prior insurance coverage, vehicle identification number (VIN), make, model and number of vehicles on your household.
 
-**How Collected Information is Used**
+With your written authorization, we may collect your social security number to verify your identity with one of the three national credit bureaus and obtain your credit report and/or credit score.
 
-The non-personally identifiable information that QuinStreet collects is used for marketing and sales efforts to better target advertisements and other content in an effort to create a more personally relevant experience. The information is also used to predict responses to advertisements, and to help determine which ads perform best and which content is most appropriate for different individuals. If you take advantage of our insurance-quoting services, we may also provide non-personally identifiable information about your use of our websites to quoting aggregators, participating insurance carriers and our business partners.
+In some cases, we may collect information, such as your age, date of birth, weight, health conditions, whether you’re a non-smoker, insurance type, mortgage information, marital status, gender, occupation, education level, vehicle identification number, car make,  and number of care in your household, combined with your Personal Information.  We will treat all such information as Personal Information as long as it is combined with Personal Information.
 
-If you elect to provide QuinStreet with personally identifiable information, we may utilize such information for marketing purposes, and this use may result in follow-up communications from QuinStreet and from our clients. By submitting such information to us, you understand and agree that such submission constitutes making an “inquiry” to us and our affiliated entities, who may contact you via telephone for a limited period even if the telephone number you submitted appears on any state and/of federal Do Not Call list because your inquiry serves as an exception to state and/or federal Do Not Call laws. In addition, that information may be combined with information collected from other sources to assist with targeting ads to your preferences and behaviors, both on our own websites and on certain third party websites, including Facebook, and for other QuinStreet sales and marketing efforts.
+**b.     ****How We Collect Personal Information.** We collect Personal Information directly from you when you interact with us on the Site, for example, when you register for the Site or fill in an Internet form on our Site.  We may also collect Personal Information from third parties, such as a credit reporting agency or social media website (Facebook, LinkedIn or others). We may associate the Personal Information you provide through the Site with Personal Information collected from the third party sources.  We will use the combined information in accordance with this Privacy Policy as long as it is combined. ****
 
-If you provide your personal information to us to receive an auto insurance quote, we may utilize such information for the following purposes:
+QuinStreet may also allow you to register and log into the Site using a social media account, such as Facebook, Twitter, LinkedIn or Google+. When you use your social media account to register or log into the Site, you are asking that social media service to send us certain information from those social media accounts, and you are authorizing us to collect, store, and use what they send us in accordance with this Privacy Policy. Social media registration features may collect basic account information such as name, age, photo and other details you choose to share according to your social media account settings. Social media features and widgets are either hosted by a third party or hosted directly on our Site. You can unlink your social media accounts or control what they share from their privacy controls.
 
-  * Online Interview. In order to take advantage of the services on our Sites you must provide certain Personal Information to us during the online client interview process (“Interview”). Personal Information is used to facilitate your requests for insurance
-  * Offline Interview. If you take advantage of our services through our call center with one of our licensed insurance agents, your Personal Information will be collected during such offline interview (“Interview”) and incorporated into our electronic system so we can fulfill the products/services selected by you.
-  * Post-Interview Information. Additional Personal Information, such as method of payment and social security numbers will be collected from you during the post Interview process in order to fulfill any orders for services or products made by you.
-  * Transaction Information. Your Personal Information may be collected and used by us to track transactions conducted on our Sites including which products/services you selected and information we require for payment.
-  * Sweepstakes and Surveys. You will be asked to disclose Personal Information if you elect to participate in any sweepstakes or surveys we offer on the Sites from time to time.
+**c.     ****How We Use Personal Information**. We may use Personal Information:
 
+  * When you request, to connect you with vendors who will provide you with information about products and services.
+  * When you’ve submitted your Personal Information to us, which submission you understand and agree to constitute making an “inquiry” to us and our affiliated entities, to contact you or allow our vendors to contact you via telephone for a limited period even if the telephone number you submitted appears on any state and/or federal Do Not Call list, because your inquiry serves as an exception to state and/or federal Do Not Call laws.
+  * To respond to your inquiries and fulfill your requests, such as to send you newsletters.
+  * To send you important information regarding the Site, changes to our terms, conditions, and policies and/or other administrative information.
+  * To send you surveys and marketing communications that we believe may be of interest to you; participation in surveys is voluntary and you have a choice of disclosing information such as name and demographic information.
+  * To personalize your experience on the Site and our other websites by presenting advertising, products and offers tailored to you.
+  * To present you with advertisements tailored to you on certain third party websites, including on Facebook.
+  * To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities.  Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully.
+  * To allow you to send messages to a friend through the Site.  By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address.
+  * For our business purposes, such as data analysis, audits, developing new products, enhancing our Site, improving our services, identifying usage trends, and determining and improving the effectiveness of our promotional campaigns.
+  * If you purchase a product or service from us, to complete and fulfill your purchase, for example, to have your payments processed, communicate with you regarding your purchase and provide you with related customer service.
 
 
-**Sharing Information with Third Parties**
 
-All personally identifiable information you provide is maintained in confidence by QuinStreet. There are instances, however, in which your personally identifiable and non-personally identifiable information is shared with third parties, as described below.
+**d.     ****How Personal Information is Disclosed**. We will share your personal information with third parties only in the ways that are described in this privacy policy. ****
 
-Your non-personally identifiable data may be shared with third-party partners of QuinStreet on an anonymous basis.
+Your Personal Information may be disclosed:
 
-When you request information from QuinStreet or one or more of our clients, we may transfer that information within QuinStreet or route your information to our client(s), across borders and from your country or jurisdiction to other countries or jurisdictions around the world, so that they may provide the information on their product or service that you requested.
+  * To other QuinStreet Businesses for the purposes described in this Privacy Policy.  QuinStreet, Inc. is the party responsible for the management of the jointly-used Personal Information.
+  * To our third party service providers who provide services such as contact information verification, payment processing, order fulfillment, customer service, website hosting, data analysis, infrastructure provision, IT services, email delivery services, auditing services and other similar services to enable them to provide services.  These companies are authorized to use your personal information only as necessary to provide these services to us.
+  * To a third party national credit bureau to verify your identity and obtain your credit report and/or credit score.
+  * If you seek insurance quotes, to financial service providers who provide comparative rates.
+  * If you seek insurance quotes, to the Department of Motor Vehicles to verify your driving record, previous claims history, vehicles and VIN.
+  * If you request information from vendors so that they (or so that third parties who provide similar services) can provide you with information about their products and services. WE ARE NOT RESPONSIBLE OR LIABLE FOR VENDORS' USE OF YOUR PERSONAL INFORMATION. 
+  * If you choose to download a white paper, eBook, or other resource, to our clients, partners and current and future sponsors of that resource.  If you do not want to be contacted by these third parties, please do not download, view or otherwise access the white papers, eBooks and other resources.
+  * If you post your resume on the Site and elect to permit it to be searched by potential employers and staffing agencies, to these potential employers and staffing agencies.  We do not control the use and disclosure of Personal Information by these potential employers and staffing agencies.  While it is our goal that only employers or staffing agencies will gain access to Personal Information in resumes, we cannot guarantee that no other persons or entities will gain such access. WE ARE NOT RESPONSIBLE FOR THE USE OR DISCLOSURE BY OTHERS OF ANY PERSONAL INFORMATION YOU DISCLOSE IN YOUR RESUME. ****
+  * To third party sponsors of sweepstakes, contests and similar promotions.
+  * If you choose to send messages through the Site, and to identify you as the sender to the recipient as indicated by you. We will ask you for such recipient’s name and email address and we store both email addresses for the purpose of sending such message.
+  * By you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials.  Please note that any information you post or disclose through these services will become public information, and may be available to visitors to the Site and to the general public. To request removal of your personal information from message boards, blogs or community forum, contact us at [info@quinstreet.com](mailto:info@quinstreet.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+  * By you, if you have provided a testimonial about a site and given us permission to post that testimonial on our Site.
+  * To a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
+  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-We may also disclose information to a third party who provides substantially similar services as the original service about which you requested more information. In such situations, we will provide you with an opportunity to opt-out of such sharing. Please be aware that QuinStreet is very careful in selecting companies with whom it does business.
 
-In addition to the above situations where your information may be shared with others, there is also the possibility that QuinStreet, or part(s) of the company, may one day be purchased by, or merged with, another company. In the event of such transaction, the acquiring (or merging) company will have access to all collected personally identifiable information.
 
-If you provide your personal information to us to receive an auto insurance quote, such information will be shared with our licensed agency, QuinStreet Insurance Agency, Inc. (fka Car Insurance.com, Inc.). In addition, we may share such information with:
+**2.     ****NON-personal Information**
 
-  * Clients. Insurance carriers, independent insurance agencies appointed by insurance carriers, and independent insurance agents will use your personal information in combination with other information you provide about your insurance needs contact you and/or create an insurance premium estimate. Third party marketing organizations may also use your personal information in connection with distributing such information to their clients who are insurance carriers, independent insurance agencies and independent insurance agents. Ratings criteria vary between participating providers, with each carrier placing emphasis on particular items of information you provide. Please Note: Third party insurance carriers have their own privacy policies and we are not responsible for these policies nor the products and/or services offered by third party providers so please make sure to review the privacy policy of any third party carrier from whom you may purchase a policy.
-  * Financial, Credit and Government Agencies. In order to provide you with our services, and only where permitted by law, we share your personal information with: (1) financial service providers who provide comparative rates; (2) certified credit bureaus to verify information about your credit report; (3) Department of Motor Vehicles to verify your driving record, previous claims history, vehicles and VIN and other relevant information. Your personal information is maintained by credit agencies and disclosed by them to others as permitted by law.
-  * Service Providers. Sometimes third party service providers are retained or utilized by us and may have access to our visitors' personal information. This information is required in order to generate accurate and bindable insurance rates. Please be aware, while we take steps to protect third party use of Personal Information through confidentiality agreements and restrictions on access to and use of such information, there is no means for us to police the activities of third parties' use of Personal Information disclosed to them.
-  * QuinStreet Insurance Agency, Inc. (fka Car Insurance.com, Inc.). Licensed insurance agents of our wholly owned subsidiary, QuinStreet Insurance Agency, Inc. (fka Car Insurance.com, Inc.)., may contact you to assist you in obtaining insurance information from our clients.
+**a.     ****Non-Personal Information We Collect** **.** “Non-Personal Information” is any information that does not reveal your specific identity, such as:
 
+  * Browser information
+  * Information collected through cookies, pixel tags and other technologies
+  * Demographic information and other information provided by you
+  * Aggregated information
 
 
-Finally, QuinStreet may share your information as necessary to comply with a court order, to cooperate with government and law enforcement officials, protect our company's rights and/or property, investigate reports of visitors providing false or misleading information, protect against misuse or unauthorized use of our sites and/or service, prevent or investigate reports of credit card fraud or unauthorized use, or during emergencies, such as when we believe someone's physical safety is at risk.
 
-**Security**
+**b.     ****How We Collect Non-Personal Information** **.** We and our third party service providers may collect Non-Personal Information from you, including your MAC address, your computer type, screen resolution, OS version, Internet browser, as well as demographic data, for example, your location, educational degree, balance on mortgage, value of real estate, income, age, weight, type of insurance, diabetic or smoking-related statistics.  We also aggregate Personal Information in a manner such that the end-product does not personally identify you or any other user of the Site, for example, by using Personal Information to calculate the percentage of our users who have a particular telephone area code.  We also collect Non-Personal Information through the use of cookies, pixel tags, web beacons, or other similar technologies for example to help identify you and maintain your signed-in status or to measure the effectiveness of e-mail communications. We may link the information we store in cookies to any personally identifiable information you submit while on our Site. 
 
-Wherever your personally identifiable information may be held within QuinStreet or on its behalf, we intend to take reasonable and appropriate steps to protect the information you shared with us from unauthorized access or disclosure. Please note that while QuinStreet will make every reasonable effort to protect your information, no transmission of data over the Internet is 100% secure.
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies.  To learn more about cookies, please visit <http://www.allaboutcookies.org/>.
 
-If you provide your personal information to us to receive an auto insurance quote, we encrypt such information by using advanced encryption technology known as Secure Socket Layer (SSL) to protect the transfer and storage of your personal information. In addition, during the Interview process, you are on secure pages of our sites and a lock or key icon appears on the bottom of your web browser screen. With regard to physical security, the personal information you provide to receive an auto insurance quote is restricted to the offices of QuinStreet (including its wholly owned subsidiary, QuinStreet Insurance Agency, Inc., fka Car Insurance.com, Inc.), whose employees are only granted access on a need-to-know basis. In addition, the servers on which we store such personal information are kept in a secure environment. Such servers are operated from a dedicated Internet hosting facility with state-of-the-art physical security features, including smoke detection and fire suppression systems, motion sensors, and 24x7 secured access, as well as video camera surveillance and security breach alarms.
+**c.     ****How We Use and Disclose Non-Personal Information** **.** Because Non-Personal Information does not personally identify you, we may use and disclose Non-Personal Information for any purpose.  In some instances, we may combine Non-Personal Information with Personal Information (such as combining your name with your geographical location).  If we combine any Non-Personal Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
 
-**Choice**
+**3.     ****IP ADDRESSES**
 
-**Non-Personally Identifiable Consumer Information - Use of Cookies & Opting-Out**  
-Some of our web sites utilize cookies to collect information about your website activities and to recall the personal information you previously shared with us. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.  
-You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. Blocking cookies may result in a lower quality experience for you while you are visiting QuinStreet web sites.
+Your “ **IP Address** ” is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). 
 
-**Personally Identifiable Consumer Information - Opting-Out**
+**a.     ****How We Log IP Addresses** **.** An IP Address is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited.  Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites. 
 
-You may choose whether or not to provide personally identifiable information to QuinStreet. If you choose to provide such information to QuinStreet, you have the right to tell us not to make some of the uses of such information described herein or may have such information deleted in its entirety. If you no longer wish to receive our newsletters, surveys or promotional communications via email, you may opt-out by clicking here and following the instructions to unsubscribe. To have your personal information completely removed from our databases, simply contact us at info@quinstreet.com and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. Once we receive your instruction, we will promptly take corrective action.
+**b.     ****How We Use and Disclose IP Addresses?** We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, geographic mapping and administering the Site.  We may also use and disclose IP Addresses for all the purposes for which we use and disclose Personal Information.  Please note that we treat IP Addresses, server log files and related information as Non-Personal Information, except where we are required to do otherwise under applicable law. 
 
-If you provide your personal information to us in an Interview process to receive an auto insurance quote, you may also opt-out by clicking on the “contact us” link in our application. Please be aware that each Interview is considered a new visitor session. This means that if you opt-out during the Interview you will not receive any email from us. However, if you begin a new Interview at a later time, unless you opt-out during that session, you will receive an email from us.
+**4.     ****THIRD PARTY SITES**
 
-Also, if you provide your personal information to us in an Interview process to receive an auto insurance quote:
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party websites that are linked to from this Site or any widgets on our Site that are hosted by a third party. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates. If you submit personal information to any of those third party sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any site you visit. 
 
-  * How to Correct or Change Your Quote Information. You can access the quote information you provided and update it at any point during the Interview by navigating to previous pages and making the necessary changes. Upon completing the Interview, you may review and/or modify your personal information and/or email address by selecting the “modify” button on the rates page and get a revised quote reflecting the changes you have made. When you save your quote information, you can return to the Sites and change your information at anytime as long as you have not yet purchased a policy. Simply log onto the Sites, select the applicable insurance for which you requested a quote, and select Retrieve My Quote. To change your information type the new data and click the Continue button.
-  * Editing Your Personal Information. If your personal information or email address changes or you want to edit or update your information you can do so by emailing our Customer Support, or by contacting us by telephone or postal mail at the contact information listed below.
+We may also utilize framing techniques that may make it appear that you are still on the Site when you are actually on a third party web site. Please be aware that you are providing your personal information to these third parties and not to this Site.
 
+If this Site includes any mapping features, those mapping features are powered by Google Inc., the use of which is also governed by Google’s privacy policy located at <http://www.google.com/policies/privacy/>, as amended by Google from time to time.  
 
+**5.     ****Third Party VENDORS**
 
-Customer Support E-mail: contact@carinsurance.com
+We also work with vendors and partners in operating and improving the Site.  These vendors and other partners include advertisers (including both banner and text advertising), retargeters and web analytics companies, including Google Analytics (we have enabled, among others, Google Analytics Demographics and Interest Reporting).  These partners and vendors use cookies, web beacons and other technologies to collect information about your online activity (e.g., the sites and pages you have visited at the Site and at times other third party sites) in order to: help manage ad campaigns, understand user interests and trends and deliver personalized content and advertising to you while you are on the Site or on other sites.  You can opt out of some of our vendors' use of cookies and other technologies, some of which may be on this Site, to tailor personalized content or advertising to you by visiting <http://www.networkadvertising.org/choices/>, <http://assets.invitemedia.com/opt-out.html> and <http://www.clicktale.net/disable.html>.  Please note that if you delete all cookies, the opt-out cookie may be deleted and you will need to perform the opt out again.  For more information, see  <http://www.networkadvertising.org/faq#question_11>. Please note that opting out of targeted/ personalized advertising does not opt you out of being served advertising.  You will continue to receive generic ads. At this time we do not respond to browser do not track signals.
 
-Customer Support Address: QuinStreet, Inc., 950 Tower Lane, 6th Floor, Foster City, CA 94404.
+Our Site may include social media features, such as the Facebook Like or Tweet this button.  These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the feature to function properly.  These features are either hosted by a third party or hosted directly on our Site.  Your interactions with these features are governed by the privacy policy of the company providing it.
 
-  * Implementing Change Request. We will use reasonable efforts to make the changes you requested but it is not always possible to modify database information. In addition, if your personal information and email address has been provided to third parties, we will not be able to make changes to it. Further, such information is never completely removed from our database due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personal information would be removed from our database in response to your request.
-  * Live Chat. We provide a live chat feature on our Sites. When used during business hours, this feature does not collect any personally identifiable information. When used after business hours to send us a message, this feature collects your name and email address. We use this information to communicate with you regarding your inquiry.
+Data Providers: We may also allow data providers to collect web log data from you (including IP address and information about your browser or operating system), when you visit our Site, or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with data providers solely in hashed, non-human readable form.
 
+PLEASE NOTE THAT WE ARE NOT RESPONSIBLE OR LIABLE FOR THE ACTS AND/OR OMISSIONS OF THIRD PARTY VENDORS. 
 
+**6.     ****SECURITY**
 
-**Other Matters**
+We use reasonable organizational, technical and administrative measures to protect Personal Information under our control.  Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure.  If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the _“Contacting Us”_ section below.
 
-**Third Party Links**
+The security of your personal information is important to us.  When you enter sensitive information (such as credit card number and personal health information) on our forms, we encrypt that information once it is entered.
 
-In some states, or for certain lines of coverage (including, but not limited to, homeowners or renters coverage, certain health coverage, life coverage, auto coverage) we may provide direct links to insurance company or agency web sites if we cannot obtain comparative quote information. If you purchase insurance from these third party carriers as a result of visiting our sites the carrier may share your personal information with us regarding the policy which is purchased and related information but we will not share the information with unaffiliated third parties. Please Note: when you purchase third party products and/or services from third party web sites, you become their customer and are subject to their privacy policies. Please be aware that we are not responsible for third party privacy practices even if our name or logos appear on third party sites. We encourage you to review these companies' privacy policies and only do business with those who adhere to personal information practices with which you are comfortable.
+**7.     ****CHOICES AND ACCESS**
 
-**Do Not Share Disclosure**
+**a.     ****Your choices regarding our use and disclosure of your Personal Information** **.** We give you choices regarding our use and disclosure of your Personal Information for marketing purposes.  You may opt-out from:
 
-We do not sell, rent or trade your personal information or email address that you provide in requesting an auto insurance quote with third parties for their promotional purposes. However, we may use the information to direct traffic to approved partner sites. If that practice were to change, we would offer you the means to opt out of this type of information sharing.
+  * **Receiving electronic communications from us and our affiliates** :  If you no longer want to receive marketing-related emails from us and our affiliates on a going-forward basis, you may opt-out of receiving these marketing-related emails by clicking [here](http://www.emchoice.com/unsubscribe/index.jsp?MERID=3589) and following the instructions to unsubscribe.  
+  * **Our sharing of your Personal Information with unaffiliated third parties** :  If you would prefer that we do not share your Personal Information on a going-forward basis with unaffiliated third parties for their marketing purposes, you may opt-out of this sharing by contacting us at as further explained in “How you can access, change or suppress your Personal Information” below and requesting that we suppress all of your Personal Information on a going-forward basis.  Please note that if you opt-out of such sharing, we will not be able to remove your Personal Information from the databases of third parties with which we have already shared your Personal Information (i.e., to which we have already provided your Personal Information as of the date that we implement your opt-out request).  If you wish to cease receiving marketing-related e-mails from these third parties, please contact them directly or utilize any opt-out mechanisms in their privacy policies or marketing-related e-mails.
 
-**Access/Accuracy**
 
-To the extent that you do provide us with personally identifiable information, QuinStreet wishes to maintain the accuracy of this information. Where we collect personally identifiable information from you on the Web, our goal is to provide a means of contacting QuinStreet should you need to update or correct that information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your personally identifiable information to info@quinstreet.com and we will make reasonable efforts to incorporate the changes in the information that we hold as soon as practicable.
 
-**Children's Privacy**
+We will seek to comply with your request(s) as soon as reasonably practicable.  Please note that if you do opt-out of receiving marketing-related messages from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
 
-In compliance with the Children's Online Privacy Protection Act (COPPA), QuinStreet.com is not structured to attract children. Accordingly, we do not intend to collect personally identifiable information from anyone we know to be under 13 years of age.
+**b.     ****How you can access, change or suppress your Personal Information** **.** If you would like to review, correct, update, suppress, delete or otherwise limit our use, on a going-forward basis, of your Personal Information that has been previously provided to us, you may do so by contacting us at [info@quinstreet.com](mailto:info@quinstreet.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process.  For your protection, we will only implement such requests with respect to the Personal Information associated with the particular e-mail address that you use to send us your request, and we may need to verify your identity before implementing your request. ****
 
-**Refer a Friend**
+In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information.  We will try to comply with your request as soon as reasonably practicable.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-Some of QuinStreet's web sites offer you the opportunity to easily notify a friend of the offer or information promoted on the site. If you choose to use our referral service to tell a friend about a QuinStreet site, we will ask you for your friend's personally identifiable information, including name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. QuinStreet stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+**8.     ****RETENTION PERIOD**
 
-Your friend may contact us at info@quinstreet.com to request that we remove this information from our database. Our one-time email to your friend will inform him or her of this fact.
+We will retain your Personal Information for as long as your account is active or as needed to provide you services and for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law or as necessary to resolve disputes and enforce our agreements.  If you wish to request that we no longer use your information, please follow the instructions above.
 
-**Commitment**
+**9.     ****USE OF SITE BY MINORS**
 
-Protecting your privacy online is an evolving area, and QuinStreet's web sites are constantly changing to meet these demands.  
-If you have any comments or questions regarding our Online Privacy Policy, please contact us at info@quinstreet.com. While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as practicable after you bring it to our attention.
+The Site is not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the Site. 
 
-**Your Consent**
+**10.   ****OPERATION OF OUR SERVICES** ****
 
-By using this web site, you consent to the terms of our Online Privacy Policy and to QuinStreet's processing of personally identifiable information for the purposes given above. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time and by amending this privacy policy.
+Our Services are operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Services or providing us with your information, you consent to this transfer.
 
-**Contacting Us**
+**11.   YOUR CALIFORNIA PRIVACY RIGHTS**
 
-For more information, or if you have questions or concerns regarding QuinStreet's Privacy Policy, you may email us at info@quinstreet.com or you can send correspondence to the following address:
+California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer's personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. If you are a California resident you may request this information by writing to us at the address below. QuinStreet, Inc. is not obligated to respond to more than one such request from you per calendar year.
 
-Privacy   
-QuinStreet  
-950 Tower Lane, 6th Floor  
+**12.   ****UPDATES TO THIS PRIVACY POLICY**
+
+We may change this Privacy Policy.  Please take a look at the “ **LAST UPDATED** ” legend at the top of this page to see when this Privacy Policy was last revised.  We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here in this policy, by email, or by means of a notice on our home page prior to the change becoming effective.  Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site.  Your use of the Site following these changes means that you accept the revised Privacy Policy.
+
+**13.   ****CONTACTING US**
+
+If you have any questions about this Privacy Policy, please contact us by email at [info@quinstreet.com](mailto:info@quinstreet.com), or please write to the following address:
+
+Privacy
+
+QuinStreet
+
+950 Tower Lane, 6th Floor
+
 Foster City, CA 94404
+
+**14.   ****QUINSTREET BUSINESSES**
+
+For purposes of this Privacy Policy, “you” or “your” means the person(s) using the Site or the products or services offered through the Site. “QuinStreet”, “us” or “we” means, but is not limited to the following entities or business lines:
+
+QuinStreet, Inc.
+
+QuinStreet Media, Inc.
+
+QuinStreet Insurance Agency, Inc.
+
+GuideToLenders
