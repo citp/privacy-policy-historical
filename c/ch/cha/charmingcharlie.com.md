@@ -1,135 +1,209 @@
-> *The following text is extracted and transformed from the charmingcharlie.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119163817id_/http%3A//www.charmingcharlie.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charmingcharlie.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605030211id_/http%3A//www.charmingcharlie.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Charming Charlie
 
-## Your Privacy Rights
+## Privacy Policy
 
-This Privacy Policy ("Privacy Policy") explains how Charming Charlie LLC and its subsidiaries and affiliates (collectively "Charming Charlie") collects, protects, uses, and discloses your personal information when you use our websites including http://www.charmingcharlie.com ("charmingcharlie.com" or "website"), shop at our retail stores or through our other interactions with you. 
+Last Updated: December 5, 2016 
 
-We request that you read this Privacy Policy before using this website. Your continued use of [charmingcharlie.com](http://www.charmingcharlie.com/) constitutes your acceptance of the Privacy Policy provided below and your agreement to follow and be bound by these terms. By agreeing to this Privacy Policy, you also agree to the Terms of Use. Any dispute between you and Charming Charlie will be resolved according to the Terms of Use. 
+Charming Charlie is committed to the relationship of trust we have with you – our consumers. We value your business and, more importantly, your loyalty. We recognize that privacy is an important issue. We have developed this Privacy Policy (this “Policy”) to explain the practices of Charming Charlie Holdings Inc. and its direct and indirect subsidiaries (collectively, “Charming Charlie,” “we,” or “us”) regarding the personal information and data we collect from you or about you through our online platforms. This Policy governs your use of any online service location, including any website or mobile application, that posts a link to this Policy, and it also applies to your use of interactive features, widgets, plug-ins, applications, content, downloads and other services that we may own and control and make available through our sites (collectively, this Policy governs our “Service”). Your use of our Service is also governed by our [Terms of Use](http://www.charmingcharlie.com/terms/conditions/). 
 
-We appreciate the trust you place in Charming Charlie and we are committed to respecting your privacy and the security of your personal information. This Privacy Policy, last updated in October 2014, is subject to change as our retail practices and website content, practices, and features evolve. We encourage you to read this Policy each time you visit  [charmingcharlie.com](http://www.charmingcharlie.com/).
+It is important that you read this entire Policy as well as our Terms of Use before you access our Service, but you may click on one of the links below to jump to a specific section:
 
-We always welcome your questions and feedback. For privacy-related questions or comments, please contact us at:
-
-Charming Charlie, Inc.   
-5999 Savoy   
-Houston, Texas 77036   
-Phone: 713-579-1936   
-Email: [feedback@charmingcharlie.com](mailto:feedback@charmingcharlie.com)
-
-## Types of Personal Information We Collect
-
-We collect the personal information you provide to us. This personal information may include for example: your name, billing and shipping addresses, payment card information, telephone number, email address, password, survey and user poll responses, employment-related information (such as that provided in a cover letter or resume), information related to your interaction with our social media accounts, and optional identifying demographic information. In addition, our stores are subject to video monitoring for loss prevention and security purposes.
-
-## Types of Website Data We Collect
-
-We may also collect data related to your visit to our website. This information may include your browser type and version, operating system, internet service provider, IP address, and domain type. We use this information to understand how visitors access [http://www.charmingcharlie.com](http://www.charmingcharlie.com/). This helps us build and optimize the best website for our audience.
-
-## How We Collect Personal Information
-
-Charming Charlie may receive information from its customers and website users in several ways, including information submitted by you on our website or in our retail stores. For example, we may collect personal information when you:
-
-  * Make a purchase at one of our retail stores
-  * Return an item or make an exchange
-  * Inquire about our services
-  * Visit, create an account, or participate in an online forum at [charmingcharlie.com](http://www.charmingcharlie.com/)
-  * Sign up for Charming Charlie email updates or other communications
-  * Enter a contest or sweepstakes
-  * Participate in a marketing survey or user poll, promotion, or event
-  * Connect with Charming Charlie through social media, such as Facebook 
-  * Apply for employment 
+  * Personal Information We Collect
+  * Information You Provide to Us
+  * Sensitive Information
+  * Automatically Collected Information
+  * Third-Party Tracking and Do Not Track
+  * Personal Information We Collect from Third Parties
+  * Analytics Services and Targeted Ads
+  * Use of Personal Information Collected About You
+  * How We Share Personal Information
+  * Retaining Personal Information
+  * Personal Information From Children
+  * Links to Third-Party Websites
+  * Protecting Personal Information
+  * Changing and Accessing Your Personal Information
+  * Choices – Marketing Communications
+  * Special Notification for California Residents
+  * Special Notification for European Residents
+  * Policy Modifications
+  * Contact Us
+  * Definitions 
 
 
 
-We may also collect information from you about your friends and family members in the context of a refer-a-friend or similar marketing promotion. In such instances, we may send an email or other communication to your friend or family member on your behalf. Please ensure that you only submit email addresses of individuals with whom you have a personal or family relationship and who would want to receive the message from you. We do not use the names or email addresses submitted in these circumstances for any other purpose without the consent of you or the email recipient to do so.
+## Personal Information We Collect
 
-From time to time we may supplement the personal information of our customers with information from publicly available sources, such as information to validate the accuracy of your address or other information you have provided us. This helps us maintain the accuracy of your personal information and better understand and improve the nature of our product and service offerings.
+In every aspect of our business, we may collect personal information or data. Some of this personal information you may provide to us directly, and some may be passively collected from you as you access and use our Service. 
 
-We also gather information about how visitors navigate through our website. We collect this “clickstream data” by means of browser cookies and/or other online tools such as pixel tags. We may also partner with third party vendors to learn more about your demographics and shopping patterns in order to complete our understanding of you and your preferences.
+## Information You Provide to Us
 
-## How We Use Information We Collect
+Examples of personal information that you may provide to us include: your contact information (including your name, physical address, fax number, telephone number, and email address); your date of birth; details about your preferences, product interests, orders and transactions with us; whether you participate or have participated in a membership or loyalty program; whether you participate or have participated in a sweepstakes or marketing program; details about your personal characteristics, nationality, and income; and your reviews and opinions of our products or services. 
 
-At Charming Charlie, we always want to provide you with the best possible shopping experience. In order to do this, we collect information that allows us to:
+## Sensitive Information
 
-  * Provide the products and services you request
-  * Send you promotional offers and communications we believe will be of interest to you
-  * Send you Charming Charlie direct communications, such as email and mail
-  * Identify your product and service preferences
-  * Complete your customer profile by obtaining missing data
-  * Provide information concerning product recalls or products you have purchased
-  * Improve our merchandise selection and customer service
-  * Administer your participation in Charm Club Rewards program and send you program-related email communications and email alerts of special offers and events 
-  * Respond to your inquiries 
-  * Administer your participation in contests, sweepstakes, surveys or polls
-  * Process and respond to your application for current and future employment 
+The term “sensitive information” refers to information related to your racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership. We do not generally collect sensitive information unless it is specifically volunteered to us by you. 
 
+## Payment Information
 
+Charming Charlie does not collect or store your credit card information. If you choose to make an online purchase from Charming Charlie, you may be given the option to make payment directly on our online platform or on a third-party processor’s website, like PayPal. The portion of our website platform where credit card information is entered is currently operated and controlled by CyberSource, a third-party payment management platform. We do not review your credit card information when you engage in a payment transaction, whether you submit the information directly on our payment page or whether you submit it on a third-party website, like PayPal. All payment processing is handled by a third-party payment processor, which we do not control. As such, we encourage you to review the [CyberSource privacy policy](https://www.cybersource.com/privacy/) before making any payments through our website, and we encourage you to review the privacy policy of any other third-party payment processor before you submit your payment information to their website. The PayPal privacy policy is available [here](https://www.paypal.com/us/webapps/mpp/ua/privacy-full). 
 
-## Why We Collect Information at charmingcharlie.com
+The following are examples of features on our service where you may provide us with your personal information: 
 
-When you visit [charmingcharlie.com](http://www.charmingcharlie.com/), we may ask you for personal information so that we can provide you with the products, services, or information that you have requested. For example, if you choose to express an opinion in an online forum, respond to user polls, or enter any contests, we may ask you for personal information.
-
-## Why We Gather Information by Cookies & Pixel Tags
-
-Cookies are pieces of information that our website transfers to your computer so that Charming Charlie can enhance your shopping experience and tailor our website to your needs. For example, cookies can improve your experience on our website by identifying the types of browsers and operating systems used most by our customers, and how visitors found our website (via a search engine, directory, other website, etc.). We may use cookies on our website to let us know who you are and personalize the website in accordance with your preferences.
-
-We also use pixel tags - tiny graphic images - to tell us what parts of our website you have visited or to measure the effectiveness of any searches you may do on our site. Pixel tags also enable us to send you email in a format you can read and let us know when you have opened an email message from us. All of this information enables Charming Charlie to improve the website and tailor it to individual customer needs and preferences.
-
-We may also contract with other companies who use cookies or other online tools such as pixel tags to measure the performance of a marketing effort on our behalf. 
-
-At any time, you can disable the use of cookies in your browser and still have access to most of the information on [charmingcharlie.com](http://www.charmingcharlie.com/). However, you may not be able to take full advantage of the Charming Charlie website.
-
-## Why We Gather Information at our Retail Stores
-
-When you visit a Charming Charlie retail store, we may ask you for personal information to complete your purchase transaction, sign you up to receive promotional offers and communications, collect comments, enter you in a sweepstakes, send you a survey, or provide you with other in-store opportunities or services. All information collected in our stores is subject to the terms of this Privacy Policy.
-
-## Your Choices about Communications from Us
-
-When visiting Charming Charlie's retail stores or charmingcharlie.com, you may provide personal information and choose to receive e-mail and/or SMS text updates, invitations, product announcements, or other information from Charming Charlie. We may use a third party e-mail service provider to send e-mail communications from Charming Charlie about our products and services. At any time, you can choose to remove your name from our e-mail list by:
-
-  * Using the Unsubscribe link at the bottom of each e-mail sent by Charming Charlie
-  * Using our online form
-  * Contacting Customer Service at 1-888-675-2275
+  * Membership and Rewards Programs: When you enroll in a membership or rewards program through our Service, such as our Charm Club Program, we may ask you for certain personal information, including your name, e-mail address, mailing and billing address, phone number, and date of birth. You may also create and share with us login information that we will store in connection with your account, including a user ID and password. When you manage your membership or rewards program profile online, you may have the opportunity to provide additional information about your language preferences, payment information, and email subscription preferences. In addition, when you use our Service while logged in to your membership or rewards program account, you may have the opportunity to share your product preferences with us by “favoriting” items. 
+  * Purchases: When you make purchases through our Service we may request certain personal information, including your name, your mailing and billing address, your telephone number, and your payment information. For more information about collection and use of your payment information, please read the section above labeled “Payment Information.” 
+  * Surveys: If you choose to participate in a customer survey, we may request demographic data or other personal information. 
+  * Sweepstakes and Promotions: If you submit an online application for a sweepstakes or other promotion, we may ask you to provide personal information as described in this Personal Information We Collect section. Please be aware that such Sweepstakes and Promotions may carry their own terms of use and privacy policy, in which case those policies would govern your participation. 
+  * Social Media: If you choose to participate in our sponsored social media activities or offerings, you may choose to give us access to certain information from your social media account consistent with your settings within the social media service, such as your location, check-ins, activities, interests, demographics, photos, status updates and friends list. You should understand that you are subject to the terms and conditions and any privacy policies of the social media site when using and sharing information on that site, and Charming Charlie is not responsible for the use and collection of your information on any third-party website. 
+  * Information You Post: All information you share about yourself in a public, open forum, whether it can personally identify you or not, will be considered public information for the purposes of this policy. 
+  * Refer-a-Friend: From time to time, we may offer a feature that allows you to send an electronic postcard or otherwise share a message with a friend. If you choose to do so, we may ask you for the recipient's name and email address, along with the text of any message you choose to include, and we may identify you when we reach out to your friend. [While the information you provide about your friend may be used to facilitate the communication, it will not be used for other marketing purposes unless your friend consents to such use.] By using this feature, you represent that you are entitled to use and provide us with the recipient's name and email address for this purpose. 
 
 
 
-We will make every effort to promptly remove your e-mail address from our distribution lists in accordance with applicable legal requirements.
+## Automatically Collected Information
 
-If you do not wish to receive postal mailings from Charming Charlie, or third-party organizations, please notify Charming Charlie by using our online form or contacting Customer Service at 1-888-675-2275.
+In addition to personal information you provide to us directly, we may gather and store information about you automatically when you access and use our Service using tracking technologies, such as cookies, web beacons, embedded scripts, browser fingerprinting, entity tag, recognition technologies, and GPS or other location-identifying technologies. Examples of information that may be collected and stored automatically include: certain details about your browser, operating system, and hardware; your location; the URL that referred you to our Service; your activities on our Service; your mobile service provider (if accessing our service with a mobile device, like a smart phone); and the date and time of your visit to our Service. This browsing information is linked to your anonymous IP address (or another unique device identifier) and not to you personally. If for any reason your browsing information is linked to information that can personally identify you, we treat it as personal information. 
 
-## We Comply with the Children's Online Privacy Protection Act of 1998
+## Third-Party Tracking and Do Not Track
 
-Our website in not intended for use by children under the age of 13. Consistent with the Children's Online Privacy Protection Act of 1998, Charming Charlie does not knowingly collect personal information on children under the age of 13.
+Third parties may use tracking technologies in connection with our site, which may include the collection of information about your online activities over time and across third-party websites. This Privacy Policy does not apply to such third-party use of tracking technologies because we may not control them and we are not responsible for them. Do Not Track is a technology that enables users to opt out of tracking by websites they do not visit. Currently, we do not monitor or take any action with respect to Do Not Track technology. 
 
-## We Comply with California Law Governing the Privacy of California Residents
+## Personal Information We Collect from Third Parties
 
-California Civil Code Section 1798.83 permits users that are California residents to request that we not share your personally identifiable information with third parties if we know or have reason to know that the third parties use the personally identifiable information for the third parties' direct marketing purposes. For their protection, we exercise this right on behalf of our California customers and require third parties hired by us to keep all personally identifiable information related to California customers secure and to not permit any use of personally identifiable information for direct marketing or any other purposes not authorized by us.
+In addition to the information we collect from you directly, we may also infer information about you based on the information you provide to us or from information we receive using third-party analytics services, as described below under “Analytics Services and Targeted Ads.” We may also collect information about you from our partners, from social media sites, and from other third-party sources. For instance, we may receive your telephone number or mailing addresses from our partners or from other sources, which we may use for telemarketing purposes. We may append this information to the information we have on file for you and share it with others consistent with this Policy. 
 
-## How We Share Information
+Back to Top
 
-We may transmit your personal information to our affiliates and third party service providers in the US and other jurisdictions who assist us in processing orders and payments, shipping products, sending catalogs or direct mail, performing surveys, conducting sweepstakes, processing job applications, sending e-mails and newsletters, and helping us decide whether to extend credit to you via arrangements that we may have with credit card issuers. We provide these companies with only the information they need to perform their services. We have agreements with these third party service providers directing them to protect your privacy by implementing appropriate security measures and using your information only as authorized by Charming Charlie. For additional information about the way in which our service providers treat your personal information, contact us as set out above.
+## Analytics Services and Targeted Ads
 
-We may transfer any information we have about you as an asset in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of Charming Charlie or the website as part of a corporate reorganization or stock sale or other change in corporate control. We may also disclose personal information where necessary for the establishment, exercise or defence of legal claims.
+We may use third-party analytics services, which track details about your online activities over time and across different sites. These services help us to improve our site and the products and services that we offer you. These services may also allow us and others to provide you with targeted advertisements or other content that you may be interested in based on your online activities. If you would like to learn more about targeted ads that may be based on your online activities, and the choices that you may exercise for certain sites and advertisers, you may wish to visit the [ "Network Advertising Initiative](https://web.archive.org/web/20170605030211id_/http%3A//www.charmingcharlie.com/terms/networkadvertising.org) or the [Digital Advertising Alliance](https://web.archive.org/web/20170605030211id_/http%3A//www.charmingcharlie.com/terms/aboutads.info). 
 
-## How We Handle Legally Required Disclosures
+Back to Top
 
-If we or our Canadian, US or other foreign affiliates or service providers receive a search warrant, subpoena, court order or other legal process requesting your personal information, we may disclose your personal information pursuant to such legal process without providing notice to you. We may also share personal information with companies or investigative bodies to assist in fraud protection or an investigation, or as otherwise required or permitted by applicable Canadian, US or other law. 
+## Use of Personal Information Collected About You
 
-## How We Protect Personal Information
+We may use your personal information for a variety of purposes, including to: (1) facilitate your online shopping and provide the products and services you request from Charming Charlie, or which are part of a program you have joined or a purchase you have made, including processing online purchases and e-mailing purchase receipts; (2) provide you with information about marketing, promotions, and meeting and event planning services; (3) improve Charming Charlie's products and services to provide you with the expected level of products and services; (4) ensure our site, products and services are of interest to you; (5) process enrollments and applications; (6)facilitate collections; and (7) provide or offer you newsletters, promotions and featured specials, other marketing communications, product or service awareness marketing, to conduct surveys, sweepstakes, prize draws, and other contests. We may provide these communications online, via email, telephone, mobile/text messaging (including SMS and MMS) and postal mail.
 
-To the extent required by applicable law, we have implemented reasonable administrative, technical and physical safeguards in an effort to protect against loss, theft, and unauthorized or unlawful access, use, modification and disclosure of personal information in our custody and control. 
+We may also aggregate your personal information, including your date of birth, gender, marital status, and location, with data from third-party sources for purposes of data hygiene and analytics, as described above under the heading “Analytics Services and Targeted Ads.” As long as this data is anonymized, it may be used and disclosed in a variety of ways. If any data is tied to personally identifying information about you, such as your name, we will treat it as personal information and it will be protected as such. 
 
-Your online access to certain of your personal information may be protected with a password you select. We strongly recommend that you do not disclose your password to anyone.
+Back to Top
 
-## How to Access or Correct Your Personal Information
+## How We Share Your Personal Information.
 
-To the extent required by applicable law, you may have the right to access, update, and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. You may request access, updating and corrections of inaccuracies in your personal information in our custody or control by emailing or writing to us at the contact information set out above. We may request certain personal information for the purposes of verifying the identity of the individual seeking access to their personal information records.
+Our Service is operated in the United States. If you are located outside of the United States, please be aware that information we collect, including personal information, will be transferred to, and processed, stored, and used in the United States by us as well as by our third-party service providers. As noted above, different countries have different data protection laws, so please be aware that the United States data protection and privacy laws may differ from the laws in your own country. By using our Service or providing us with any information, you consent to the transfer to, and processing, usage, sharing and storage of your information, including personal information, in the United States. 
 
-## How We Interact With Other Websites
+As a global company, we endeavor to provide you with the same level of service that you have come to expect at Charming Charlie whether you are in Houston, New York City, or LA. To provide this service, we may share your personal information among members of the Charming Charlie companies, franchisees or service providers and business partners that may be located in countries outside your own. Although the data protection laws of these various countries may not be as comprehensive as those in your own country, Charming Charlie takes appropriate steps to ensure that your personal information is handled as described in this Policy. 
 
-Occasionally we provide links on our website to other sites to enhance the functionality and shopping experience. These sites operate independently of Charming Charlie and have established their own privacy and security policies. For the best online experience, we strongly encourage you to review these policies at any site you visit.
+  * Franchises: We may share personal information with owners and operators of Charming Charlie franchises. 
+  * Electronic Receipt Program: If you participate in electronic receipt program, billing information will be shared with the credit card provider and if you use a corporate credit card, possibly, your employer. 
+  * Business Partners: From time to time we may partner with other companies to provide products or services and may share your information with our business partners to provide those products or services to you. 
+  * Co-Sponsors of Promotions: We also may co-sponsor promotions, sweepstakes, prize draws, competitions or contests with other companies, or we may provide prizes for sweepstakes and contests sponsored by other companies. If you enter one of these sweepstakes or contests, we may share your information with our co-sponsor or the third-party sponsor. 
+  * Service Providers and Business Partners: We rely on service providers to provide certain products and services, such as to facilitate administrative functions and information technology operations, credit card billing, online ordering/return services, fulfillment services, administering our membership and loyalty programs, providing services in connection with our websites, communicating news and delivering promotional and transactional materials via email and via online and mobile advertising; processing credit card transactions, data hygiene and enhancement services; professional services such as accounting, auditing and legal advice; investigating accident reports; processing insurance claims; and administering sweepstakes, prize draws, competitions and customer surveys. Charming Charlie will disclose personal information to service providers and business partners as appropriate. 
+  * Business Transactions: As we develop our business, we might sell, buy, restructure or reorganize businesses or assets. In the event of a merger, consolidation, sale, liquidation or transfer of assets, Charming Charlie may, in its sole and absolute discretion, transfer, sell or assign information collected, including, without limitation, information you have provided to us and information we have automatically collected about you, to one or more affiliated or unaffiliated third parties. 
+  * Telemarketing: If you purchase products from Charming Charlie or its website or are a member of any of our loyalty or membership programs, we may share your telephone number among our Affiliated Companies for purposes of telemarketing. 
+  * Other: In addition, Charming Charlie may disclose personal information in order to: (i) comply with applicable laws, (ii) respond to governmental inquiries or requests from public authorities, (iii) comply with valid legal process, (iv) protect the rights, privacy, safety or property of Charming Charlie, site visitors, customers, employees or the public, (v) permit us to pursue available remedies or limit the damages that we may sustain, (vi) enforce our websites' terms and conditions, and (vii) respond to an emergency. 
 
-## What Happens When We Update Our Privacy Policy
 
-We reserve the right to change our Privacy Policy at any time without notice. We will alert you to these changes by noting the date that this Privacy Policy was last updated at the beginning of the Privacy Policy. We encourage you to review this Privacy Policy from time to time to make sure that you understand how Charming Charlie may gather, secure, and use your personal information. Your continued use of charmingcharlie.com and patronage of Charming Charlie's retail stores constitutes your agreement to and acceptance of the Privacy Policy and any changes to it.
+
+Back to Top
+
+## Retaining Personal Information
+
+We retain personal information about you for the period necessary to fulfill the purposes outlined in this Policy, unless a longer retention period is required or permitted by applicable law. 
+
+Back to Top
+
+## Personal Information From Children
+
+We do not knowingly collect personal information from individuals under 18 years of age. As a parent or legal guardian, please do not to allow your children to submit personal information without your permission. In accordance with the Child Online Privacy Protection Act, in the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any personal information from or about a child, please contact us immediately by writing to Charming Charlie Customer Privacy Department, Attn. to Legal, 5999 Savoy Drive, Houston, Texas 77036, USA. 
+
+Back to Top
+
+## Links to Third-Party Websites
+
+Our Service may contain links to third-party websites, and may allow you to use your account from other online services, including social media providers (such as Facebook, Instagram and Twitter). For example, we may use third parties to allow you to send messages, tweets, or make postings on social media sites, like Facebook. If you use accounts from other services on our Service, those third parties may share information about you with us, and we may share information that we collect with them. In addition, Charming Charlie may maintain social media accounts or fan pages where you may be able to post information and materials on sites that are owned or operated by a third party. 
+
+Please note that we are not responsible for the collection, use, maintenance, sharing, or disclosure of data and information by such third parties. 
+
+If you link to a third party through our Service, or if you otherwise provide information on third-party sites, the privacy policy and terms of service on those sites are applicable. We encourage you to read the privacy policies of websites that you visit so that you understand how they collect and use your information before using such websites. 
+
+Back to Top
+
+## Protecting Personal Information
+
+Charming Charlie takes reasonable measures to: (1) protect your personal information from unauthorized access, disclosure, alteration or destruction; (2) keep your personal information accurate and up-to-date, as appropriate; and (3) ensure our affiliates and service providers with whom we share your personal information exercise reasonable efforts to maintain the confidentiality of such personal information. Unfortunately, however, no security system or system of transmitting data over the Internet can be guaranteed to be entirely secure, and we do not control the data security practices of any third-parties. 
+
+For your own privacy protection, we encourage you not to include sensitive personal information in any emails you send to us. Additionally, please do not send credit card numbers or other payment information to us via email. 
+
+We will not contact you by mobile/text messaging or email to ask for your confidential personal information or credit card details. We will only ask for your confidential personal information or credit card details by telephone when you are making a purchase by telephone. We will not contact you to ask for any membership or loyalty program account log-in information. If you receive this type of request, you should not respond to it. We also ask that you please notify us at helpdesk@Charming Charlie.com. 
+
+Back to Top
+
+## Changing and Accessing Your Personal Information
+
+If you are a member or one of our loyalty or membership programs, or if have an account on our website, you may access, review and update the information you provided to us at the time of registration any time by signing in to your account with our Service. 
+
+To the extent required by applicable law, you may be able to request that we inform you about the personal information we maintain about you and, where appropriate, request that we update, correct and/or suppress personal information about you that we maintain in our active database. We will make all required updates and changes within the time specified by applicable law and, where permitted by law, we may charge an appropriate fee to cover the costs of responding to any such request. Such requests must be submitted in writing to the following address: Charming Charlie Customer Privacy Department, Attn. to Legal, 5999 Savoy Drive, Houston, Texas 77036, USA. To protect your confidentiality, we can only respond to such requests to the email address that you have registered or otherwise provided to us. Please remember that if you make such a request, we may not be able to provide you with the same quality and variety of services to which you are accustomed. 
+
+In addition, in some circumstances based on applicable law, you may request that we cease sharing personal information about you with our business partners or that Charming Charlie cease using personal information about you by sending your written request to Charming Charlie Customer Privacy Department, Attn. to Legal, 5999 Savoy Drive, Houston, Texas77036, USA. We will honor any such requests consistently with applicable law. 
+
+Back to Top
+
+## Choices – Marketing Communications
+
+If you have given us your contact information (mailing address, fax number, email address or phone number), we may want to inform you about our products and services or invite you to events by email, telephone, mobile/text messaging (including SMS and MMS) or post. 
+
+If you are a member of one of our membership or loyalty programs or have an online profile, you may receive additional communications from us, including loyalty program statements, current status, points reminders, third-party news and offers, and co-branded messages from our business partners. You may change the communications you receive from us by: (1) logging on to your online account and managing your subscriptions; (2) using the “unsubscribe” function in any marketing e-mails; or (3) writing to us (and including your email address and your specific request) at Charming Charlie Customer Privacy Department, Attn. to Legal 5999 Savoy Drive, Houston, Texas 77036, USA. 
+
+If you opt-out of any of our communications, we aim to update your communication preferences promptly, and we will do so within any legally imposed deadline. Please note, however, that if you change the communications you receive from us as described above, we will not be able to remove your personal information from the databases of affiliates, franchisees or business partners with whom we have already shared your personal information (i.e., to whom we have already provided your personal information as of the date of your opt-out request). 
+
+Back to Top
+
+## Special Notification for California Residents
+
+Individual customers who reside in California and have provided their personal information to Charming Charlie may request information about our disclosures of certain categories of personal information to third parties for their direct marketing purposes. You can submit such a request by writing to us at Charming Charlie, Attn. to Legal, 5999 Savoy Drive, Houston, Texas 77036, USA. Within thirty days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted to addresses other than the addresses specified in this paragraph. 
+
+Back to Top
+
+## Special Notification for European Residents
+
+Individual customers who are residents of a member state of the European Union may have the right to ask us not to process their personal information for marketing purpose. You can submit such a request by writing to us at Charming Charlie, Attn. to Legal, 5999 Savoy Drive, Houston, Texas 77036, USA. 
+
+Back to Top
+
+## Policy Modifications
+
+We may modify this Policy from time to time. When we make material changes to this Policy we will prominently post a link to the revised Policy on the homepage of our site (www.charmingcharlie.com). You can tell when this Policy was last updated by looking at the link and at the date at the top of this Policy. Any changes to our Policy will become effective upon posting of the revised Policy on the site. Use of the site following such changes constitutes your acceptance of the revised Policy then in effect. 
+
+Back to Top
+
+## Contact Us
+
+If you have any questions about this Policy or how Charming Charlie processes your personal information, please contact us by calling 1-888-675-2275 or by sending us postal mail at Charming Charlie Customer Privacy Department, Attn. to Legal 5999 Savoy Drive, Houston, Texas, USA. 
+
+Back to Top
+
+## DEFINITIONS OF TERMS USE IN PRIVACY STATEMENT
+
+**Cookies**  
+A “cookie” is a computer file that acts as an identification card for your computer. When you visit our sites, unique cookies are placed on your browser. The purpose of the cookie is to distinguish your browser from all other browsers that visit our sites. However, by recognizing your browser, we can serve you better. For example, the cookies allow us to hold the selections in your shopping cart when you navigate away from the order page and then return to complete the order; because of the cookie, you don’t have to start over with your shopping. We can also keep track of what pages of our website your browser visited and whether you purchased a product. This helps us judge the success of our advertising campaigns. Working with third-party advertising companies, the use of cookies also enables us to provide you with customized banner ads that we think will be more useful than randomly-generated ads because they are based on your past purchases and page visits to our sites. 
+
+**Web Beacons**  
+When you visit our ecommerce sites, web beacons will recognize specific cookies that have been placed on your browser. Web beacons can convey information that a browser with a recognized cookie has accessed a page or a certain part of a page on our website, depending on where the web beacon is located on the website. For example, a web beacon located on our purchase confirmation page will record that a browser with a recognized cookie accessed that page which means that we can conclude that the browser was used to purchase a product. The web beacon does not, however, tell us that you specifically (by reference to PII) have purchased a product because the cookie is only the browser’s identification card; it is not your personal identification card. 
+
+We use web beacons to measure the effectiveness of our advertising campaigns and to improve our websites by recognizing which pages are visited and whether those visits result in purchases. Web beacons also allow third-party advertising companies we work with to select and serve banner advertisements to your browser that you would be most likely to be interested in. 
+
+**Business Partners**  
+We work with industry-leading business partners who help us operate our websites and provide important services to our customers and visitors. Our business partners may change over time but we are committed to building relationships with third parties who are dedicated to providing you a safe and satisfying experience on our websites. Our business partners are obligated to collect and use any information collected from you on a Charming Charlie site or on behalf of Charming Charlie in a manner that is consistent with applicable data security laws. 
+
+**Third-Party Advertising Companies**  
+We allow certain companies to collect information from browsers of our websites to use to serve interest-based ads. These companies are usually third party ad servers, ad agencies, technology vendors or providers of sponsored content. Using cookies and web beacons, these companies collect data from a particular browser about web viewing behaviors over time and across unrelated websites and use such data to predict user preferences and to deliver advertisements to that browser which are calculated to target that browser’s predicted preferences. 
+
+**Analytics Data**  
+Information collected through cookies and web beacons to keep track of what products you viewed and purchased and what areas or pages you viewed on our websites is called “analytics data”. We use analytics data to improve the design and content of our websites, to help us learn things like what pages are most attractive to all of our visitors and what promotions visitors like to see, and to gauge the success of our advertising campaigns. 
+
+**Interest-Based Advertising**  
+Interest-based advertising has become commonplace across the Web. It is the term we use for the activity that enables us to tailor ads to your interests and activities. Either Charming Charlie or third-party advertising companies we work with may look at your browsing activity, such as the types of content you access, ads you click on, and searches you conduct. We can then infer certain interests you have and place ads and offer you deals that meet your needs. Our goal for interest-based advertising is to show ads to people likely to be interested in the products we offer at Charming Charlie. 
+
+Back to Top
