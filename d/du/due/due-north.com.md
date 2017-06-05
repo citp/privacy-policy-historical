@@ -1,38 +1,39 @@
-> *The following text is extracted and transformed from the due-north.com privacy policy that was archived on 2010-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100701191104id_/http%3A//www.due-north.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the due-north.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606002613id_/http%3A//www.proactis.com/Footer-Links/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Spend Control and eProcurement solutions - PROACTIS
 
-  * [Home](https://web.archive.org/index.html)
-  *  / [Privacy Policy](https://web.archive.org/privacy-policy.html)
+This Privacy Policy sets out how PROACTIS Holdings PLC ("PROACTS" , "we" , "us" , "our") uses and protects any information that you ("you" , "your") make available to us in connection with or when you use this website.
 
+PROACTIS is committed to ensuring that your privacy is protected and will only use your information in accordance with the Data Protection Act 1998. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this Privacy Policy.
 
+**(1) What information do we collect?**
 
-**Statement of Intent**
+We may collect, store and use the following kinds of personal data: 
 
-Due North is committed to supplying you with the best possible information and to protecting your privacy. In order for us to do this we will occasionally require you to supply us with some personal information and this privacy policy explains how we handle this information.
+(a) information about your visits to and use of this website; (b) information about any transactions carried out between you and us on or in relation to this website; (c) information that you provide to us for the purpose of registering with us and/or subscribing to our website services and/or email notifications.
 
- **Legal Compliance**
+We may collect, store and use non-personal data about your visits to and use of this website.
 
-Due North are registered under the UK Data Protection Act 1998 and guarantee that all supplied personal information is kept securely in accordance with the Act.
+**(2) Information about website visits**
 
- **Collection of Information**
+We may collect information about your computer and your visits to this website such as your IP address, geographical location, browser type, referral source, length of visit and number of page views. We may use this information in the administration of this website, to improve the website’s usability, and for marketing purposes.
 
-There are three types of information Due North collects:
+We use cookies on this website. For further details, see our [Cookie Policy](https://web.archive.org/Footer-Links/Cookie-Policy). 
 
-1) Cookies:  these are small text files that are saved to your computer (if you allow them) that will note your route around the website. They may also hold some personalisation details (for example what 'skin' of the website you have selected). This information is solely for the purpose of keeping the website relevant to your needs. To ensure your privacy there is no link between these cookies and any other collected information, in fact you can disable cookies on your browser and visit our site completely anonymously (however you won't be able to access any personalisation features on the site).
+**3) Using your personal data**
 
-2) Site Visit Statistics:  Visitor statistics are automatically logged by our web server. This information may include your IP address, where you have come from, your operating system, your browser make and version and your service provider. This information is used solely to build up a picture of how our website is being used by the visitors.
+Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website. In addition to the uses identified elsewhere in this privacy policy, we may use your personal information to:
 
-3) Contact Details:  Email addresses and other contact information are collected in order to supply you with services that you have requested, such as articles, newsletters, brochures and press packs.
+(a) improve your browsing experience by personalising the website; (b) send information (other than marketing communications) to you which we think may be of interest to you by post or by email or similar technology; (c) send to you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology. (d) provide other companies with statistical information about our users – but this information will not be used to identify any individual user.
 
- **Use of Personal Information** In general any personal information you supply to [www.due-north.com](http://www.due-north.com/) will only be used by Due North and its service providers. We will never share user information to any third party without your permission unless we are required by law to do so.
+We (and our business partners) may contact you from time to time to tell you about products or services the same or similar to those that you have enquired about or about other matters that we believe may be of interest to you.
 
- **Storage of Personal Information** We will store your personal information for as long as it is required to supply you with the information you have requested. At anytime you can request that your information be removed from our system.
+If you do not want us to contact you in this way you can “opt-out” by: clicking the unsubscribe link on received emails or by writing to us at PROACTIS, Riverview Court, Castle Gate, Wetherby, LS22 6LE (marking your correspondence FAO The Marketing Team) or via email to [info@proactis.com](mailto:info@proactis.com).
 
- **Access to Personal Information  
-**  
-You have the right to access your information at any time and alter it or remove it if required. For more information please contact us via, Data Protection Department, Due North Ltd, 3 Enterprise Court, Crosland Park, Cramlington, Northumberland, NE23 1LZ.
+**(4) Third party websites**
 
-  
-  
+The website contains links to other websites. We are not responsible for the privacy policies of third party websites.
 
+**(5) Policy amendments**
+
+We may update this Privacy Policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
