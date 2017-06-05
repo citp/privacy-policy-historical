@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purpleclover.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218134721id_/http%3A//www.purpleclover.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purpleclover.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013650id_/https%3A//www.purpleclover.com/privacy-policy) for the most accurate reproduction.*
 
 # Purple Clover Privacy Policy
 
