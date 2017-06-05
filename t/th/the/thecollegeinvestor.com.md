@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecollegeinvestor.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215111554id_/http%3A//thecollegeinvestor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecollegeinvestor.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005032id_/https%3A//thecollegeinvestor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -89,7 +89,3 @@ robert <at> thecollegeinvestor.com
 6.2. UPDATES AND CHANGES
 
 We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
-
-### Discover How You Can Be Debt Free
-
-Join the 21,000 other members who've already taken the first steps towards student loan freedom. Sign up and get my five free tactics to lower your student loan debt.
