@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savevy.com privacy policy that was archived on 2016-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160203042519id_/http%3A//www.savevy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savevy.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606010647id_/http%3A//www.savevy.com/privacy) for the most accurate reproduction.*
 
 # Savevy's Privacy Policy
 
