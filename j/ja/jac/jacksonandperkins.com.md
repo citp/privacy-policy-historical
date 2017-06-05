@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacksonandperkins.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606195944id_/http%3A//www.jacksonandperkins.com/privacy-policy/a/534) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacksonandperkins.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005419id_/http%3A//www.jacksonandperkins.com/privacy-policy/a/534) for the most accurate reproduction.*
 
 # Privacy Policy | Jackson and Perkins
 
@@ -28,7 +28,7 @@ Please note that your use of the jacksonandperkins.com website and services is s
 
 **Sharing Your Information**
 
-Jackson & Perkins recognizes that gardeners may want products other than the high-quality roses, plants, bulbs, and accessories that we offer. Therefore, from time to time, Jackson & Perkins may make customer information available to other reputable companies whose products or services we think you might find interesting. Please remember that, although Jackson & Perkins endeavors to select only reputable companies who share our commitment to customer privacy, we are in no way responsible for the actions or policies of these other organizations. If you do not want to share your information with such other companies, call us toll free at 1-800-292-4769 (or for local calls use 1-864-330-2029) to speak to a customer service representative, email us at [service@jacksonandperkins.com](mailto:service@jacksonandperkins.com), or send a postcard to: Mailing Address Don't Share, Jackson & Perkins Company, 2 Floral Avenue, Hodges, SC 29653. Be sure to include your own mailing address on your postcard or email. 
+Jackson & Perkins recognizes that gardeners may want products other than the high-quality roses, plants, bulbs, and accessories that we offer. Therefore, from time to time, Jackson & Perkins may make customer information available to other reputable companies whose products or services we think you might find interesting. Please remember that, although Jackson & Perkins endeavors to select only reputable companies who share our commitment to customer privacy, we are in no way responsible for the actions or policies of these other organizations. If you do not want to share your information with such other companies, call us toll free at 1-800-292-4769 (or for local calls use 1-864-330-2029) to speak to a customer service representative, email us at [info@jacksonandperkins.com](mailto:info@jacksonandperkins.com), or send a postcard to: Mailing Address Don't Share, Jackson & Perkins Company, 2 Floral Avenue, Hodges, SC 29653. Be sure to include your own mailing address on your postcard or email. 
 
 **Other Uses of Information**
 
@@ -49,7 +49,7 @@ You can always choose not to provide information, to opt-out of receiving commun
 
   1. Use the "Change Preferences" feature after entering your member name and password to receive access to your account page. At this location, you can subscribe or unsubscribe from our e-mail newsletters and you can update any information that you have provided to us.
   2. Click on the "Unsubscribe" link included at the bottom of each of our e-mails and follow the instructions on the web page.
-  3. Send an e-mail to our friendly Customer Service representatives at [service@jacksonandperkins.com](mailto:service@jacksonandperkins.com).
+  3. Send an e-mail to our friendly Customer Service representatives at [info@jacksonandperkins.com](mailto:info@jacksonandperkins.com).
   4. Call our Customer Service representatives toll free at 1-800-292-4769 or for local calls use 1-864-330-2029. 
   5. Drop us a line. Send mail to the following postal address: Jackson & Perkins, 2 Floral Avenue, Hodges, SC 29653.
 
@@ -98,4 +98,4 @@ If you choose to visit jacksonandperkins.com, your visit and any dispute over pr
 >  Toll Free: 1-800-292-4769   
 >  Local: 1-864-330-2029   
 >  Fax: 1-800-242-0329  
->  E-mail: [service@jacksonandperkins.com](mailto:service@jacksonandperkins.com)
+>  E-mail: [info@jacksonandperkins.com](mailto:info@jacksonandperkins.com)
