@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirtgame.net privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914041106id_/http%3A//www.dirtgame.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirtgame.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013224id_/http%3A//www.dirtgame.net/privacy) for the most accurate reproduction.*
 
 # dirtgame.net - Privacy Policy
 
