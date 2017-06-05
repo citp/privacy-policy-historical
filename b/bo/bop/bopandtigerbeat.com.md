@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bopandtigerbeat.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122102101id_/http%3A//tigerbeat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bopandtigerbeat.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012948id_/http%3A//tigerbeat.com/privacy) for the most accurate reproduction.*
 
 # Privacy | TigerBeat
 
@@ -66,9 +66,9 @@ back to top
 
 **Privacy Options**
 
-If you prefer not to receive traditional mail or other off-line promotions from this or any other Tiger Beat Media, Inc. property or any companies not owned by Tiger Beat Media, Inc., please [click here](https://web.archive.org/web/20161122102101id_/http://tigerbeat.com/privacy/%3C?php%20bloginfo\(%27url%27\);?%3E/opt-out/).
+If you prefer not to receive traditional mail or other off-line promotions from this or any other Tiger Beat Media, Inc. property or any companies not owned by Tiger Beat Media, Inc., please [click here](https://web.archive.org/web/20170606012948id_/http://tigerbeat.com/privacy/%3C?php%20bloginfo\(%27url%27\);?%3E/opt-out/).
 
-If a Tiger Beat Media, Inc. site discloses personally identifiable information to companies not owned by Tiger Beat Media, Inc. who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. Tiger Beat Media, Inc. may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive online marketing information from this or any other Tiger Beat Media, Inc. site, please [click here](https://web.archive.org/web/20161122102101id_/http://tigerbeat.com/privacy/%3C?php%20bloginfo\(%27url%27\);?%3E/opt-out/).
+If a Tiger Beat Media, Inc. site discloses personally identifiable information to companies not owned by Tiger Beat Media, Inc. who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. Tiger Beat Media, Inc. may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive online marketing information from this or any other Tiger Beat Media, Inc. site, please [click here](https://web.archive.org/web/20170606012948id_/http://tigerbeat.com/privacy/%3C?php%20bloginfo\(%27url%27\);?%3E/opt-out/).
 
 Finally, Tiger Beat Media, Inc. sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
