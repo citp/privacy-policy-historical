@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the budgetinginthefunstuff.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016024115id_/http%3A//www.budgetinginthefunstuff.com/quick-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetinginthefunstuff.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606002939id_/http%3A//www.budgetinginthefunstuff.com/quick-info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy PolicyBudgeting In the Fun Stuff
+# Privacy Policy
+
+**New to BFS?** Please [click here](http://www.budgetinginthefunstuff.com/quick-info/new-bfs/) to get started.   
+You can also sign up for my [FREE Weekly Newsletter](http://www.budgetinginthefunstuff.com/quick-info/receive-bfs-posts-email/) to get access to EXCLUSIVE monthly giveaways!!!   
+See you in the comments soon!
+
+This post may contain affiliate links. 
 
 **Personal Information Collected on this Website**  
 No personally-identifiable information is collected on this website from persons that browse our website. The only personally-identifiable information collected on this website is gathered in our comment area, where fields are provided so that you can provide your name and email address to leave a comment. We collect this information so that we can respond to the comments or questions that you post.
