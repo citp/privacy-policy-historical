@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the easyspirit.com privacy policy that was archived on 2016-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161121163957id_/http%3A//www.easyspirit.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the easyspirit.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606004700id_/http%3A//www.easyspirit.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -53,7 +53,7 @@
 
 
 
-<script src="https://tags.tiqcdn.com/utag/thejonesgroup/easyspirit/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript">var utag_data = {"product_color":[],"product_size":[],"product_id":[],"product_is_preorder":[],"product_is_promo":[],"product_is_strikethrough":[],"product_discount_amount":[],"product_listing_location":[],"product_name":[],"product_original_price":[],"product_price":[],"product_sku":[],"product_upc":[],"product_width":[],"product_promo_code":[],"product_quantity":[],"product_addition_source":[],"channel":"","ip_address":"52.86.176.3","customer_id":"cdxmZLWaKOxRgubip19coVPhKo","customer_status":"Not Registered","rewards_program":"","page_name":"easy spirit:content:privacy","page_type":"easy spirit:content","event_name":"content"};</script>
+<script src="https://tags.tiqcdn.com/utag/thejonesgroup/easyspirit/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript">var utag_data = {"product_color":[],"product_size":[],"product_id":[],"product_is_preorder":[],"product_is_promo":[],"product_is_strikethrough":[],"product_discount_amount":[],"product_listing_location":[],"product_name":[],"product_original_price":[],"product_hardmark_price":[],"product_price":[],"product_sku":[],"product_upc":[],"product_width":[],"product_promo_code":[],"product_quantity":[],"product_addition_source":[],"channel":"","ip_address":"207.241.229.149","customer_id":"abGOhNXQExKgX6ZPyb9N1UU3Mt","customer_status":"Not Registered","rewards_program":"","page_name":"easy spirit:content:privacy","page_type":"easy spirit:content","event_name":"content"};</script>
 <script type="text/javascript">
 
 	try {
@@ -67,7 +67,8 @@
 	} catch (e) {
 		//alert("pevPageCookie Error: "+e);
 	}
-	var PDPDetailsExpanded = true;
+	var PDPDetailsExpanded = false;
+	var PDPDetailsExpanded2 = true;
 	function updateOmniturePageName(_pageName,_pageType) {
 		try {
 			utag_data.checkout_section = _pageType;
@@ -109,11 +110,24 @@
 				} else {
 					PDPDetailsExpanded = true;
 					utag.link({
-					    "event_name" : "expand details"
+					    "event_name" : "expand details: description"
 					});	
-				}	
+				}
 				fireEvent = false;
 				break;
+
+			case "DetailsClick":
+				if(PDPDetailsExpanded2 == true) {
+					PDPDetailsExpanded2 = false;
+				} else {
+					PDPDetailsExpanded2 = true;
+					utag.link({
+					    "event_name" : "expand details: detail"
+					});	
+				}
+				fireEvent = false;
+				break;			
+			
 			case "FISClick":
 				fireEvent = false;
 				break;		
@@ -174,10 +188,9 @@
 			utag_data.product_discount_amount = new Array();
 			utag_data.product_discount_amount.push(diss);
 		
-			utag_data.product_origional_price = new Array(productDataa[1]);
+			utag_data.product_original_price = new Array(productDataa[1]);
+			utag_data.product_hardmark_price = new Array(productDataa[2]);
 			utag_data.product_price = new Array(productDataa[2]);
-			
-			
 			
 			utag_data.event_name = productObject.trackingEvent;
 			utag_data.product_sku = new Array(productObject.trackingPID);
@@ -211,32 +224,34 @@ var lpCurrCurrencyCode = 'null';
 var freeShippingThreshold = 100000.0;
 var freeShippingCallout = 'FREE SHIPPING';
 </script>
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/js/GlobalNWG.min.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/lib/js/jquery-1.5.1.min.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/lib/js/jquery.dropdownPlain.js" type="text/javascript" async=""></script>
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/lib/js/jquery-ui-1.8.14.custom.min.js" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/js/GlobalNWG.min.js" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/lib/js/jquery-1.5.1.min.js" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/lib/js/jquery.dropdownPlain.js" type="text/javascript" async=""></script>
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/lib/js/jquery-ui-1.8.14.custom.min.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 jQuery.noConflict();
 </script>
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/lib/js/prototype.min.js" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/lib/js/prototype.min.js" type="text/javascript"></script>
 <script type="text/javascript">
-var staticRoot = 'http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/';
-var staticLibraryRoot = 'http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1479704665242/';
+var staticRoot = 'http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/';
+var staticLibraryRoot = 'http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1496636064057/';
 var predata = {};
 </script>
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/js/searchsuggest.js" type="text/javascript" async=""></script>
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/js/app.js" type="text/javascript" async=""></script>
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/js/formutils.js" type="text/javascript" async=""></script>
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/js/topnavselections.js" type="text/javascript" async=""></script>
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/js/cookie.js" type="text/javascript"></script>
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/js/powerreviews.js" async=""></script>
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/js/searchsuggest.js" type="text/javascript" async=""></script>
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/js/app.js" type="text/javascript" async=""></script>
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/js/formutils.js" type="text/javascript" async=""></script>
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/js/topnavselections.js" type="text/javascript" async=""></script>
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/js/cookie.js" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/js/powerreviews.js" async=""></script>
 
 
 
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/js/skupicker.js" type="text/javascript"></script>
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/js/skupicker.js" type="text/javascript"></script>
 <script>
 	var pipelineurl='/on/demandware.store/Sites-easyspirit-Site/default/FluidProduct-GetProductAvailability';
+	var limitedQuantityThreshold = 8.0;
+	var limitedQuantityMessage = "Hurry, limited quantities left!";
 	jQuery(document).ready(function()
 	{
 		try{var skuPDP = new skuviewer("#contentHolder");} catch (err){}
@@ -268,8 +283,8 @@ easyViewerAddToBag: true
 
 <script type="text/javascript">
 // PowerReview related settings
-var pr_zip_location = "http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-catalog/default/v1479704665242";
-var pr_style_sheet = "http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/css/reviews.css";
+var pr_zip_location = "http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-catalog/default/v1496636064057";
+var pr_style_sheet = "http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/css/reviews.css";
 var pr_merchant_id = "196159";
 </script>
 <script type="text/javascript">
@@ -293,8 +308,7 @@ var siteOmniturePrefix = "";
 
 
 
-</head><body><div class="contentasset" contentid="AJAX_TRACKING">
-
+</head><body><div class="contentasset contentid_AJAX_TRACKING" contentid="AJAX_TRACKING">
 
 
 <script type="text/javascript">
@@ -322,7 +336,10 @@ var siteOmniturePrefix = "";
 						document.location.href="/on/demandware.store/Sites-easyspirit-Site/default/Cart-Show";
         			} else {
 	        			var splitted = data.split('$$$SPLITHERE$$$');
+                                                // Taking the value for splitted[0] and extracting the bag quantity
+                                                var bagQuantity = jQuery( '#shoppingBagAnchor', jQuery(splitted[0]) ).text();
 						jQuery('#shoppingBagMain').html(splitted[0]);
+                                                jQuery('.mainCart a').text(bagQuantity); // Overwriting mobile cart bag quantity with new values
 						jQuery('#ShopBagContent').html(splitted[1]);
 						if (jQuery('#shopBagAction')) {
 							jQuery('#shopBagAction').show();
@@ -484,7 +501,6 @@ jQuery(document).ready(function(){
 </script>
 
 
-
 </div>
 
 
@@ -495,8 +511,7 @@ jQuery(document).ready(function(){
 
 
 
-<div class="contentasset" contentid="ZENDESK_CHAT">
-
+<div class="contentasset contentid_ZENDESK_CHAT" contentid="ZENDESK_CHAT">
 
 
 <!--Start of Zopim Live Chat Script-->
@@ -516,14 +531,13 @@ if(!isMobile) {
 jQuery(document).ready(function() {
    $zopim(function() {
      $zopim.livechat.theme.setColor('#fd8689');
-     $zopim.livechat.concierge.setAvatar('http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1479704665242/images/chat/50x50_chatIcon.gif');
+     $zopim.livechat.concierge.setAvatar('http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1496636064057/images/chat/50x50_chatIcon.gif');
      $zopim.livechat.window.setTitle('Easy Spirit');
      $zopim.livechat.theme.reload(); // apply new theme settings
     });
 });
 }
 </script>
-
 
 
 </div>
@@ -538,8 +552,9 @@ jQuery(document).ready(function() {
 	 
 
 	
-<link rel="icon" href="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/css/jquery-ui-1.8.13.custom.css">
 
 <script type="text/javascript">//<!--
 /* <![CDATA[ (head-active_data.js) */
@@ -611,12 +626,10 @@ CQuotient.getCQUserId = function () {
 
 
 
-<div class="contentasset" contentid="NON_SHOPPER_BIZRATE">
-
+<div class="contentasset contentid_NON_SHOPPER_BIZRATE" contentid="NON_SHOPPER_BIZRATE">
 
 
 <span></span>
-
 
 
 </div>
@@ -656,6 +669,11 @@ CQuotient.getCQUserId = function () {
 
 
 
+
+
+
+
+
 	 
 
 
@@ -667,26 +685,10 @@ CQuotient.getCQUserId = function () {
 
 
 
-<div class="contentasset" contentid="HEADER_GLOBAL_UI">
+<div class="contentasset contentid_HEADER_GLOBAL_UI" contentid="HEADER_GLOBAL_UI">
 
 
-
-<!-- UI update 2016.11.21 -->  
-<!-- Live End: 11/24/2016 11:59 PM -->  
-<!-- do not remove, but change the date -->
-
-<style type="text/css">
-#globalUIHolder {background-color: #fff; width:100%; float:left; }
-#outerGlobalU {background-color: #fff; margin:0 auto; width:980px;}
-#outerGlobalU img {width:980px;}
-</style>
-
-<div id="globalUIHolder">
-	<div id="outerGlobalU">
-		<a href="http://www.easyspirit.com/Comfortable-Shoes-Women/2881093,default,sc.html?ep_tag=UI%3a1%3a1%3apromo%3acustomer-appreciation-event" alt="Customer appreciation event. 30% off everything. Shop now." title="Customer appreciation event. 30% off everything. Shop now."><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1479704665242/images/uiMessages/November2016/easy-spirit_banner_11.21.16.gif"></a>
-	</div>
-</div>
-
+<div></div>
 
 
 </div>
@@ -698,13 +700,18 @@ CQuotient.getCQUserId = function () {
 
  
 	
-<div id="headerHolder">
+<div id="headerHolder" class="app_fluidnwg">
 <div id="outerHeader">
 <div id="header">
 
-<div id="headerInterior">
-<div class="header1Container">
-<div id="mainHeaderUI">
+
+
+<form action="">
+
+<input type="hidden" id="currentlySelectedContentId" value="PRIVACY">
+
+</form>
+
 
 	 
 
@@ -717,8 +724,15 @@ CQuotient.getCQUserId = function () {
 
 
 
-<div class="contentasset" contentid="UI_MSG_HEADER_PROMO">
+<div class="contentasset contentid_HEADER_PROMO_MESSAGE" contentid="HEADER_PROMO_MESSAGE">
 
+
+
+
+
+
+
+<div class="contentasset contentid_UI_MSG_HEADER_PROMO" contentid="UI_MSG_HEADER_PROMO">
 
 
 <style>
@@ -743,7 +757,7 @@ function closeHeaderPopup(){
 }
 </script>
 <div id="topImage">
-<a href="javascript:showHeaderPopup();">Free standard shipping on all orders <div id="shipDetails">Details</div></a>
+<a href="javascript:showHeaderPopup();">Free shipping on orders $50+ <div id="shipDetails">Details</div></a>
 </div>
 
 
@@ -752,17 +766,17 @@ function closeHeaderPopup(){
 		<div id="theheaderpopupIn2">
 			<div id="theheaderpopupClose"><a href="javascript:closeHeaderPopup();">X</a></div>
 			<div id="theheaderpopupContent">
-				Free standard shipping on all orders is available for a limited time only. Free
-				shipping offers are valid on 5-7 business day standard ground shipping within
-				the 48 contiguous United States (excludes Alaska, Hawaii and U.S. Territories)
-				for internet and phone orders only. Qualifying purchase amount includes
-				merchandise only, does not include taxes, gift cards or previous purchases and
-				must be met after any coupons or discounts are applied.
-
+				Free shipping on all orders over $50 is available for a limited time only. Free shipping offers are valid on 5-7  business day standard ground shipping within the 48 contiguous United States (excludes Alaska, Hawaii and U.S. Territories) for internet and phone orders only. Qualifying purchase amount includes merchandise only, does not include taxes, gift cards or previous purchases and must be met after any coupons or discounts are applied.
 			</div>
 		</div>
 	</div>
 </div>
+
+
+</div>
+
+
+
 
 
 
@@ -775,16 +789,7 @@ function closeHeaderPopup(){
 
  
 	
-</div>
-<div id="topLineHolder">
-
-
-<form action="">
-
-<input type="hidden" id="currentlySelectedContentId" value="PRIVACY">
-
-</form>
-
+<div id="topHdrGlobal">
 
 
 
@@ -941,21 +946,20 @@ right:0; width:300px;
 
 
 
-<div class="contentasset" contentid="HEADERACCOUNT_NAV">
-
+<div class="contentasset contentid_HEADERACCOUNT_NAV" contentid="HEADERACCOUNT_NAV">
 
 
 <a href="http://www.easyspirit.com/on/demandware.store/Sites-easyspirit-Site/default/Customer-Show" class="myaccountLink headernavlink">My account</a>
 <a href="http://www.easyspirit.com/on/demandware.store/Sites-easyspirit-Site/default/Customer-Profile" class="profileLink headernavlink loggedin">Profile</a>
-<a href="http://www.easyspirit.com/on/demandware.store/Sites-easyspirit-Site/default/Order-Track" class="ordersLink headernavlink loggedin">Orders</a>
-<a href="http://www.easyspirit.com/on/demandware.store/Sites-easyspirit-Site/default/Order-ShipTrackOrder" class="ordersLink headernavlink loggedout">Orders</a>
+<a href="http://www.easyspirit.com/on/demandware.store/Sites-easyspirit-Site/default/Customer-Orders" class="ordersLink headernavlink loggedin">Orders</a>
+<a href="http://www.easyspirit.com/on/demandware.store/Sites-easyspirit-Site/default/Customer-Order" class="ordersLink headernavlink loggedout">Orders</a>
 <a href="http://www.easyspirit.com/on/demandware.store/Sites-easyspirit-Site/default/Customer-WishList" class="wishlistLink headernavlink loggedin">Wishlist</a>
 <a href="http://www.easyspirit.com/on/demandware.store/Sites-easyspirit-Site/default/Customer-AddressBook" class="addressbookLink headernavlink loggedin">Address book</a>
+<a href="http://www.easyspirit.com/on/demandware.store/Sites-easyspirit-Site/default/Customer-Payments" class="walletkLink headernavlink loggedin">Wallet</a>
 <style type="text/css">
 .isAuthenticated .loggedout {display:none;}
 .notAuthenticated .loggedin {display:none;}
 </style>
-
 
 
 </div>
@@ -977,8 +981,8 @@ jQuery("#headerAccountNavHolder").show();
 function hideAccountNav() {
 jQuery("#headerAccountNavHolder").hide();
 }
-jQuery("#account").mouseenter(function() {showAccountNav();});
-jQuery("#account").mouseleave(function() {hideAccountNav();});
+jQuery("#account").mouseover(function() {showAccountNav();});
+jQuery("#account").mouseout(function() {hideAccountNav();});
 jQuery("#account").click(function() {showAccountNav();});
 </script>
 
@@ -1017,25 +1021,23 @@ jQuery("#account").click(function() {showAccountNav();});
 <div id="countrySelectWidget">
 <div id="countrySelectHolder" class="countrySelectHolder">
 <span class="countrySelectLabel countryHeadingSpan"></span>
-<span class="countrySelectLabel countryFlagSpan"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/US.gif"></span>
+<span class="countrySelectLabel countryFlagSpan"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/US.gif"></span>
 <span class="currencySelectLabel currencyNameSpan">USD</span>
 <span style="display:none;" class="countrySelectLabel countryNameSpan">United States ()</span>
 </div>
 <div id="currencySelectHolder" class="currencySelectHolder">
 <form action="" method="get" name="currencyForm" id="currencyForm">
-<div id="currencyCloseHolder"><a href="#" id="currencyClose"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/productDetail/close_icon.gif" alt="Close"></a></div>
+<div id="currencyCloseHolder"><a href="#" id="currencyClose"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/productDetail/close_icon.gif" alt="Close"></a></div>
 <div id="currencyHeader">
 
 
 
 
-<div class="contentasset" contentid="COUNTRY_HEADER">
-
+<div class="contentasset contentid_COUNTRY_HEADER" contentid="COUNTRY_HEADER">
 
 
 <p>Welcome International Customers</p>
 <div>We make it easy to shop and ship to your country. Select your shipping destination and choose your currency.</div>
-
 
 
 </div>
@@ -1046,7 +1048,7 @@ jQuery("#account").click(function() {showAccountNav();});
 <div id="countriesDD" class="countriesDD">
 <div id="countryLabelHolder">
 <span class="countrySelectLabel countryHeadSpan">Selected country:</span>
-<span class="countrySelectLabel countryFlagSpan"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/US.gif"></span>
+<span class="countrySelectLabel countryFlagSpan"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/US.gif"></span>
 <span class="countrySelectLabel countryNameSpan">United States</span>
 </div>
 <div class="countrySelectList">
@@ -1055,151 +1057,151 @@ jQuery("#account").click(function() {showAccountNav();});
 
 
 
-<option value="AU" title="AUD" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/AU.gif);">Australia (AUD)</option>
+<option value="AU" title="AUD" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/AU.gif);">Australia (AUD)</option>
 
 
-<option value="AT" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/AT.gif);">Austria (EUR)</option>
+<option value="AT" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/AT.gif);">Austria (EUR)</option>
 
 
-<option value="BH" title="BHD" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/BH.gif);">Bahrain (BHD)</option>
+<option value="BH" title="BHD" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/BH.gif);">Bahrain (BHD)</option>
 
 
-<option value="BD" title="BDT" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/BD.gif);">Bangladesh (BDT)</option>
+<option value="BD" title="BDT" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/BD.gif);">Bangladesh (BDT)</option>
 
 
-<option value="BE" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/BE.gif);">Belgium (EUR)</option>
+<option value="BE" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/BE.gif);">Belgium (EUR)</option>
 
 
-<option value="BM" title="USD" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/BM.gif);">Bermuda (USD)</option>
+<option value="BM" title="USD" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/BM.gif);">Bermuda (USD)</option>
 
 
-<option value="BO" title="BOB" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/BO.gif);">Bolivia (BOB)</option>
+<option value="BO" title="BOB" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/BO.gif);">Bolivia (BOB)</option>
 
 
-<option value="BN" title="USD" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/BN.gif);">Brunei Darussalam (USD)</option>
+<option value="BN" title="USD" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/BN.gif);">Brunei Darussalam (USD)</option>
 
 
-<option value="BG" title="BGN" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/BG.gif);">Bulgaria (BGN)</option>
+<option value="BG" title="BGN" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/BG.gif);">Bulgaria (BGN)</option>
 
 
-<option value="CL" title="CLP" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/CL.gif);">Chile (CLP)</option>
+<option value="CL" title="CLP" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/CL.gif);">Chile (CLP)</option>
 
 
-<option value="HR" title="HRK" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/HR.gif);">Croatia (HRK)</option>
+<option value="HR" title="HRK" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/HR.gif);">Croatia (HRK)</option>
 
 
-<option value="CY" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/CY.gif);">Cyprus (EUR)</option>
+<option value="CY" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/CY.gif);">Cyprus (EUR)</option>
 
 
-<option value="DK" title="DKK" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/DK.gif);">Denmark (DKK)</option>
+<option value="DK" title="DKK" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/DK.gif);">Denmark (DKK)</option>
 
 
-<option value="EG" title="EGP" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/EG.gif);">Egypt (EGP)</option>
+<option value="EG" title="EGP" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/EG.gif);">Egypt (EGP)</option>
 
 
-<option value="EE" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/EE.gif);">Estonia (EUR)</option>
+<option value="EE" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/EE.gif);">Estonia (EUR)</option>
 
 
-<option value="FI" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/FI.gif);">Finland (EUR)</option>
+<option value="FI" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/FI.gif);">Finland (EUR)</option>
 
 
-<option value="GR" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/GR.gif);">Greece (EUR)</option>
+<option value="GR" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/GR.gif);">Greece (EUR)</option>
 
 
-<option value="IT" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/IT.gif);">Italy (EUR)</option>
+<option value="IT" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/IT.gif);">Italy (EUR)</option>
 
 
-<option value="JO" title="JOD" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/JO.gif);">Jordan (JOD)</option>
+<option value="JO" title="JOD" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/JO.gif);">Jordan (JOD)</option>
 
 
-<option value="KW" title="KWD" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/KW.gif);">Kuwait (KWD)</option>
+<option value="KW" title="KWD" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/KW.gif);">Kuwait (KWD)</option>
 
 
-<option value="LV" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/LV.gif);">Latvia (EUR)</option>
+<option value="LV" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/LV.gif);">Latvia (EUR)</option>
 
 
-<option value="LI" title="CHF" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/LI.gif);">Liechtenstein (CHF)</option>
+<option value="LI" title="CHF" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/LI.gif);">Liechtenstein (CHF)</option>
 
 
-<option value="LT" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/LT.gif);">Lithuania (EUR)</option>
+<option value="LT" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/LT.gif);">Lithuania (EUR)</option>
 
 
-<option value="LU" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/LU.gif);">Luxembourg (EUR)</option>
+<option value="LU" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/LU.gif);">Luxembourg (EUR)</option>
 
 
-<option value="MV" title="MVR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/MV.gif);">Maldives (MVR)</option>
+<option value="MV" title="MVR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/MV.gif);">Maldives (MVR)</option>
 
 
-<option value="MT" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/MT.gif);">Malta (EUR)</option>
+<option value="MT" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/MT.gif);">Malta (EUR)</option>
 
 
-<option value="MX" title="MXN" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/MX.gif);">Mexico (MXN)</option>
+<option value="MX" title="MXN" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/MX.gif);">Mexico (MXN)</option>
 
 
-<option value="MC" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/MC.gif);">Monaco (EUR)</option>
+<option value="MC" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/MC.gif);">Monaco (EUR)</option>
 
 
-<option value="NL" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/NL.gif);">Netherlands (EUR)</option>
+<option value="NL" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/NL.gif);">Netherlands (EUR)</option>
 
 
-<option value="NZ" title="NZD" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/NZ.gif);">New Zealand (NZD)</option>
+<option value="NZ" title="NZD" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/NZ.gif);">New Zealand (NZD)</option>
 
 
-<option value="NO" title="NOK" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/NO.gif);">Norway (NOK)</option>
+<option value="NO" title="NOK" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/NO.gif);">Norway (NOK)</option>
 
 
-<option value="OM" title="OMR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/OM.gif);">Oman (OMR)</option>
+<option value="OM" title="OMR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/OM.gif);">Oman (OMR)</option>
 
 
-<option value="PK" title="PKR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/PK.gif);">Pakistan (PKR)</option>
+<option value="PK" title="PKR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/PK.gif);">Pakistan (PKR)</option>
 
 
-<option value="PY" title="PYG" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/PY.gif);">Paraguay (PYG)</option>
+<option value="PY" title="PYG" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/PY.gif);">Paraguay (PYG)</option>
 
 
-<option value="PE" title="PEN" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/PE.gif);">Peru (PEN)</option>
+<option value="PE" title="PEN" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/PE.gif);">Peru (PEN)</option>
 
 
-<option value="PL" title="PLN" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/PL.gif);">Poland (PLN)</option>
+<option value="PL" title="PLN" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/PL.gif);">Poland (PLN)</option>
 
 
-<option value="QA" title="QAR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/QA.gif);">Qatar (QAR)</option>
+<option value="QA" title="QAR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/QA.gif);">Qatar (QAR)</option>
 
 
-<option value="RO" title="RON" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/RO.gif);">Romania (RON)</option>
+<option value="RO" title="RON" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/RO.gif);">Romania (RON)</option>
 
 
-<option value="RU" title="RUB" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/RU.gif);">Russian Federation (RUB)</option>
+<option value="RU" title="RUB" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/RU.gif);">Russian Federation (RUB)</option>
 
 
-<option value="RE" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/RE.gif);">Réunion (EUR)</option>
+<option value="RE" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/RE.gif);">Réunion (EUR)</option>
 
 
-<option value="SA" title="SAR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/SA.gif);">Saudi Arabia (SAR)</option>
+<option value="SA" title="SAR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/SA.gif);">Saudi Arabia (SAR)</option>
 
 
-<option value="ZA" title="ZAR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/ZA.gif);">South Africa (ZAR)</option>
+<option value="ZA" title="ZAR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/ZA.gif);">South Africa (ZAR)</option>
 
 
-<option value="ES" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/ES.gif);">Spain (EUR)</option>
+<option value="ES" title="EUR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/ES.gif);">Spain (EUR)</option>
 
 
-<option value="LK" title="LKR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/LK.gif);">Sri Lanka (LKR)</option>
+<option value="LK" title="LKR" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/LK.gif);">Sri Lanka (LKR)</option>
 
 
-<option value="SE" title="SEK" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/SE.gif);">Sweden (SEK)</option>
+<option value="SE" title="SEK" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/SE.gif);">Sweden (SEK)</option>
 
 
-<option value="CH" title="CHF" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/CH.gif);">Switzerland (CHF)</option>
+<option value="CH" title="CHF" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/CH.gif);">Switzerland (CHF)</option>
 
 
-<option value="TR" title="TRY" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/TR.gif);">Turkey (TRY)</option>
+<option value="TR" title="TRY" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/TR.gif);">Turkey (TRY)</option>
 
 
-<option value="AE" title="AED" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/AE.gif);">United Arab Emirates (AED)</option>
+<option value="AE" title="AED" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/AE.gif);">United Arab Emirates (AED)</option>
 
 
-<option value="US" title="USD" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/flags/US.gif);" selected="">United States (USD)</option>
+<option value="US" title="USD" style="background-repeat:no-repeat; background-position:left center; background-image:url(http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/flags/US.gif);" selected="">United States (USD)</option>
 
 </select>
 </div>
@@ -1345,12 +1347,10 @@ jQuery("#account").click(function() {showAccountNav();});
 
 
 
-<div class="contentasset" contentid="COUNTRY_FOOTER">
-
+<div class="contentasset contentid_COUNTRY_FOOTER" contentid="COUNTRY_FOOTER">
 
 
 <div>Now offering international shipping for more information please see our <a href="http://www.easyspirit.com/International-shipping-page/INTERNATIONAL_SHIPPING_PAGE,default,pg.html">International Shipping page</a>.</div>
-
 
 
 </div>
@@ -1385,43 +1385,16 @@ jQuery('#currency').attr('disabled', 'disabled');
 
 
 </div>
-</div>
-<div class="header2Container">
-<div id="logoHolder">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div id="outerNavSearchHolder">
+<div id="navSearchHolder">
+<div id="navSearchHolderContent">
+<div id="navSearchHolderContent2">
 <div id="logo">
 
 
 
 
-<div class="contentasset" contentid="LOGO">
-
+<div class="contentasset contentid_LOGO" contentid="LOGO">
 
 
 <style>
@@ -1430,37 +1403,32 @@ body #shell #header #topNavNew {border-top:none;}
 </style>
 
 <div id="esLogo">
-  <a href="/"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1479704665242/CSS/fall2016/easy-spirit_logo.svg" alt="Comfortable shoes for women at Easy Spirit" title="Comfortable shoes for women at Easy Spirit"></a>
+  <a href="/"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1496636064057/CSS/fall2016/easy-spirit_logo.svg" alt="Comfortable shoes for women at Easy Spirit" title="Comfortable shoes for women at Easy Spirit"></a>
+</div>
+
+
 </div>
 
 
 
 </div>
 
-
-
-</div>
-</div>
-<div id="searchHolder">
-<div id="search">
 <div id="topSearch">
-<form action="/on/demandware.store/Sites-easyspirit-Site/default/Search-ShowRedirect" method="get" name="SimpleSearchForm" id="SimpleSearchForm">
+<form action="/on/demandware.store/Sites-easyspirit-Site/default/Search-Show" method="get" name="SimpleSearchForm" id="SimpleSearchForm">
 <input type="hidden" name="SearchSource" value="Simple Search">
 <table align="right">
 <tbody>
 <tr>
-<td><input id="query" class="textBox shellInput initialInputField" name="q" value="SEARCH KEYWORD OR PHRASE" onkeyup="doSearchSuggestion(this.value);" onblur="clearSearchSuggestion();" autocomplete="off" maxlength="50" type="text"></td>
+<td><input id="query" class="textBox shellInput" name="q" value="" placeholder="search" onkeyup="doSearchSuggestion(this.value);" onblur="clearSearchSuggestion();" autocomplete="off" maxlength="50" type="text"></td>
 <td>
 
 
 
 
-<div class="contentasset" contentid="SEARCH_BTN_IMG">
+<div class="contentasset contentid_SEARCH_BTN_IMG" contentid="SEARCH_BTN_IMG">
 
 
-
-<input type="image" alt="Search" id="searchBtn" name="searchBtn" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1479704665242/images/header/button_arrow2.gif">
-
+<input type="image" alt="Search" id="searchBtn" name="searchBtn" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1496636064057/images/header/button_arrow2.gif">
 
 
 </div>
@@ -1473,12 +1441,10 @@ body #shell #header #topNavNew {border-top:none;}
 
 
 
-<div class="contentasset" contentid="ADVANCE_SEARCH_LINK">
-
+<div class="contentasset contentid_ADVANCE_SEARCH_LINK" contentid="ADVANCE_SEARCH_LINK">
 
 
 <!--<a href="http://www.easyspirit.com/on/demandware.store/Sites-easyspirit-Site/default/Search-AdvancedInc">Advanced Search</a>-->
-
 
 
 </div>
@@ -1496,12 +1462,10 @@ body #shell #header #topNavNew {border-top:none;}
 
 
 
-<div class="contentasset" contentid="ADVANCE_SEARCH_TEXTBOX">
+<div class="contentasset contentid_ADVANCE_SEARCH_TEXTBOX" contentid="ADVANCE_SEARCH_TEXTBOX">
 
 
-
-ENTER KEYWORD
-
+search by keyword
 
 
 </div>
@@ -1509,16 +1473,8 @@ ENTER KEYWORD
 
 
 </div>
-<script type="text/javascript">try{$('query').value = $$('#searchBoxValueHolder div')[0].innerHTML.replace(/^\s+|\s+$/g, '');}catch(err){}</script>
 </div>
-</div>
-</div>
-</div>
-</div>
-<div id="outerNavSearchHolder">
-<div id="navSearchHolder">
-<div id="navSearchHolderContent">
-<div id="navSearchHolderContent2">
+
 
 	 
 
@@ -1531,14 +1487,13 @@ ENTER KEYWORD
 
 
 
-<div class="contentasset" contentid="HEADER_TOPNAV">
-
+<div class="contentasset contentid_HEADER_TOPNAV" contentid="HEADER_TOPNAV">
 
 
 <style type="text/css">
 #topNavNew .topNavEle .topNavElesecondary .submenuImg {padding-left:0; background:none;}
-#shell #header #topNavNew {padding: 0 0 0 10px !important; width:980px !important;}
-#header #topNavNew .divider {float:left; width:46px !important;}
+#shell #header #topNavNew {padding: 0 0 0 1px !important; width:980px !important;}
+#header #topNavNew .divider {float:left; width:37px !important;}
 .catLinksSandals {float:left; width:50px;}
 div .catLinks {font-size:10pt;}
 #shell #header #topNavNew #athleticdropdown {left:-29px;}
@@ -1555,6 +1510,13 @@ div .catLinks {font-size:10pt;}
 #shell .posFixed4 {position:fixed; top:70px; z-index:100; background-color:#ffffff; width:821px;}
 #leftNav {background-color:#ffffff;}
 #saleImg img {width: 254px;}
+.thetopnavdropdownbox3 {display: none; float:left; left:-8px; padding:15px; position:absolute; top: 42px; width: 260px; border-top: solid 1px #c2c2c2; background-color: #fff; border:solid 1px #c2c2c2;}
+
+.checkoutOnly {display:none;}
+#header .checkoutOnly {display:block; text-indent:10px;}
+#checkoutHeader {float:left; width:100%;}
+#checkoutHeaderLeft {float:left; width:50%; font-size:14pt; color:#000000; text-transform:uppercase; font-weight:bold;}
+#checkoutHeaderRight {float:left; text-align:right; width:50%; color:#000000; font-size:10pt; font-weight:bold; padding-top:5px;}
 </style>
 
 <div id="topNavNew">
@@ -1566,8 +1528,7 @@ div .catLinks {font-size:10pt;}
 
 
 
-<div class="contentasset" contentid="TOPNAV_SHOP_BY_SIZE">
-
+<div class="contentasset contentid_TOPNAV_SHOP_BY_SIZE" contentid="TOPNAV_SHOP_BY_SIZE">
 
 
 <style type="text/css">
@@ -1680,7 +1641,6 @@ function setSize(sizeValue) {
 </script></span>
 
 
-
 </div>
 
 
@@ -1694,9 +1654,9 @@ function setSize(sizeValue) {
   <!--New Arrivals-->
   <div class="topNavEleHolder" onmouseover="javascript:jQuery('#newarrivalsdropdown').css('display','block')" onmouseout="javascript:jQuery('#newarrivalsdropdown').css('display','none')">
     <a data-topcategory="newArrivals" href="http://www.easyspirit.com/comfortable-shoes-women-new-arrivals/2881128,default,sc.html?ep_tag=ZT_TOPNA" class="topNavEle">New Arrivals</a>
-      <div id="newarrivalsdropdown" class="thetopnavdropdownbox2">
-        <div class="catGraphicsFull">
-      <a data-topcategory="newArrivals" class="submenuImg" href="http://www.easyspirit.com/comfortable-shoes-women-new-arrivals/2881128,default,sc.html?ep_tag=ZT_TOPDDNEWARIVIMG"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1479704665242/images/header/top_nav/fall2016/easy-spirit_newArrivals.jpg" alt="Easy Spirit shoes, new arrivals" title="New arrivals for women from Easy Spirit"></a>
+      <div id="newarrivalsdropdown" class="thetopnavdropdownbox3">
+        <div class="catGraphics">
+      <a data-topcategory="newArrivals" class="submenuImg" href="http://www.easyspirit.com/comfortable-shoes-women-new-arrivals/2881128,default,sc.html?ep_tag=ZT_TOPDDNEWIMG"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1496636064057/images/header/top_nav/spring2017/easy-spirit-newArrivals_dropdown.jpg" alt="Easy Spirit New Arrivals for women" title="Easy Spirit New Arrivals for women"></a>
       </div>
     </div>
   </div>
@@ -1708,18 +1668,16 @@ function setSize(sizeValue) {
   <a data-topcategory="shoes" href="http://www.easyspirit.com/Comfortable-Shoes-Women/2881093,default,sc.html?ep_tag=ZT_TOPSHOES" class="topNavEle">Shoes</a>
     <div id="shoesdropdown" class="thetopnavdropdownbox">
        <div class="catLinks">
-          <a data-topcategory="shoes" href="http://www.easyspirit.com/easy-collection/63209061,default,sc.html?ep_tag=ZT_TOPSHOESeasycollection" class="topNavElesecondary" alt="Easy Collection" title="Easy Collection">Easy Collection</a>
-          <a data-topcategory="shoes" href="http://www.easyspirit.com/traveltime-athletic-shoes-women/52146528,default,sc.html?ep_tag=ZT_TOPSHOESDDTRVLTIME" class="topNavElesecondary" alt="Easy Spirit Traveltime shoes" title="Easy Spirit Traveltime shoes">Traveltime</a>
           <a data-topcategory="shoes" href="http://www.easyspirit.com/comfortable-flats-women/51503731,default,sc.html?ep_tag=ZT_TOPSHOESDDFLATS" class="topNavElesecondary" alt="Easy Spirit flats for women" title="Easy Spirit flats for women">FLATS</a>
-          <a data-topcategory="shoes" href="http://www.easyspirit.com/womens-heels/50438757,default,sc.html?ep_tag=ZT_TOPSHOESDDHEELS" class="topNavElesecondary" alt="Easy Spirit heels for women" title="Easy Spirit heels for women">HEELS</a>
           <a data-topcategory="shoes" href="http://www.easyspirit.com/womens-wedges/52803851,default,sc.html?ep_tag=ZT_TOPSHOESDDWEDGES" class="topNavElesecondary" alt="Easy Spirit wedges for women" title="Easy Spirit wedges for women">WEDGES</a>
+          <a data-topcategory="shoes" href="http://www.easyspirit.com/womens-heels/50438757,default,sc.html?ep_tag=ZT_TOPSHOESDDHEELS" class="topNavElesecondary" alt="Easy Spirit heels for women" title="Easy Spirit heels for women">HEELS</a>
           <a data-topcategory="shoes" href="http://www.easyspirit.com/clogs-mules-for-women/51777240,default,sc.html?ep_tag=ZT_TOPSHOESDDCLOGS" class="topNavElesecondary" alt="Easy Spirit mules and clogs for women" title="Easy Spirit mules and clogs for women">MULES &amp; CLOGS</a>
-          <a data-topcategory="shoes" href="http://www.easyspirit.com/comfortable-sandals-women/2881132,default,sc.html?ep_tag=ZT_TOPSHOESDDSANDALS" class="topNavElesecondary" alt="Easy Spirit sandals for women" title="Easy Spirit casual shoes for women">SANDALS</a>
+          <a data-topcategory="shoes" href="http://www.easyspirit.com/womens-boots-and-booties/64283875,default,sc.html?ep_tag=ZT_TOPSHOESbootsbooties" class="topNavElesecondary" alt="Easy Spirit boots and booties for women" title="Easy Spirit boots and booties for women">Boots &amp; Booties</a>
           <a data-topcategory="shoes" href="http://www.easyspirit.com/womens-casual-shoes/2881131,default,sc.html?ep_tag=ZT_TOPSHOESDDCASUAL" class="topNavElesecondary" alt="Easy Spirit casual shoes for women" title="Easy Spirit casual shoes for women">CASUAL</a>
           <a data-topcategory="shoes" href="http://www.easyspirit.com/dress-shoes-women/2881133,default,sc.html?ep_tag=ZT_TOPSHOESDDDRESS" class="topNavElesecondary" alt="Easy Spirit dress shoes for women" title="Easy Spirit dress shoes for women">DRESS</a>
       </div>
       <div class="catGraphics">
-    <a data-topcategory="shoes" class="submenuImg" href="http://www.easyspirit.com/Comfortable-Shoes-Women/2881093,default,sc.html?ep_tag=ZT_TOPSHOESIMG"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1479704665242/images/header/top_nav/fall2016/easy-spirit_shoes.jpg" alt="Easy Spirit comfortable shoes for women" title="Easy Spirit comfortable shoes for women"></a>
+    <a data-topcategory="shoes" class="submenuImg" href="http://www.easyspirit.com/Comfortable-Shoes-Women/2881093,default,sc.html?ep_tag=ZT_TOPSHOESIMG"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1496636064057/images/header/top_nav/spring2017/easy-spirit_shoes_dropdown.jpg" alt="Easy Spirit comfortable shoes for women" title="Easy Spirit comfortable shoes for women"></a>
       </div>
     </div>
   </div>
@@ -1727,20 +1685,33 @@ function setSize(sizeValue) {
   <span class="divider">&nbsp;</span>
 
 
-    <!--Boots & Booties-->
+    <!--Sandals-->
   
-  <div class="topNavEleHolder" onmouseover="javascript:jQuery('#bootsbootiesdropdown').css('display','block')" onmouseout="javascript:jQuery('#bootsbootiesdropdown').css('display','none')">
-  <a data-topcategory="boots" href="http://www.easyspirit.com/BOOTS-BOOTIES/64283875,default,sc.html?ep_tag=ZT_TOPBOOTSBOOTIES" class="topNavEle">Boots &amp; Booties</a>
-    <div id="bootsbootiesdropdown" class="thetopnavdropdownbox">
+  <div class="topNavEleHolder" onmouseover="javascript:jQuery('#sandals').css('display','block')" onmouseout="javascript:jQuery('#sandals').css('display','none')">
+  <a data-topcategory="sandals" href="http://www.easyspirit.com/comfortable-sandals-women/2881132,default,sc.html?ep_tag=ZT_TOPSANDALS" class="topNavEle">SANDALS</a>
+    <div id="sandals" class="thetopnavdropdownbox">
       <div class="catLinks">
-        <a data-topcategory="boots" href="http://www.easyspirit.com/Flats/64563079,default,sc.html?ep_tag=ZT_TOPBOOTSBOOTIESflat" class="topNavElesecondary" alt="Flat boots &amp; booties for women" title="Flat boots &amp; booties for women">FLAT</a>
-        <a data-topcategory="boots" href="http://www.easyspirit.com/Heeled/64563083,default,sc.html?ep_tag=ZT_TOPBOOTSBOOTIESheeled" class="topNavElesecondary" alt="Heeled boots &amp; booties for women" title="Heeled boots &amp; booties for women">HEELED</a>
-        <a data-topcategory="boots" href="http://www.easyspirit.com/Wedge/64563088,default,sc.html?ep_tag=ZT_TOPBOOTSBOOTIESwedge" class="topNavElesecondary" alt="Wedge boot &amp; booties for women" title="Wedge boot &amp; booties for women">WEDGE</a>
-        <a data-topcategory="boots" href="http://www.easyspirit.com/Cold-Weather/64563096,default,sc.html?ep_tag=ZT_TOPBOOTSBOOTIEScold" class="topNavElesecondary" alt="Cold weather boots &amp; booties for women" title="Cold weather boots &amp; booties for women">COLD WEATHER</a>
-      <a data-topcategory="booties" href="http://www.easyspirit.com/boot-and-booties-fit-guide/64282386,default,sc.html?ep_tag=ZT_TOPBOOTSguide" class="topNavElesecondary" alt="Easy Spirit Boot Guide" title="Easy Spirit Boot Guide">BOOT GUIDE</a>
+        <a data-topcategory="sandals" href="http://www.easyspirit.com/womens-active-sandals/62130029,default,sc.html?ep_tag=ZT_TOPSANDALSACTIVE" class="topNavElesecondary" alt="Active sandals for women" title="Active sandals for women">Active Sandals</a>
+        <a data-topcategory="sandals" href="http://www.easyspirit.com/dress-sandals-women/65488818,default,sc.html?ep_tag=ZT_TOPSANDALSDRESS" class="topNavElesecondary" alt="Dress sandals for women" title="Dress sandals for women">Dress Sandals</a>
+        <a data-topcategory="sandals" href="http://www.easyspirit.com/womens-flat-sandals/62130031,default,sc.html?ep_tag=ZT_TOPSANDALSFLAT" class="topNavElesecondary" alt="Flat sandals for women" title="Flat sandals for women">Flat Sandals</a>
+        <a data-topcategory="sandals" href="http://www.easyspirit.com/wedge-sandals/62130034,default,sc.html?ep_tag=ZT_TOPSANDALSWEDGE" class="topNavElesecondary" alt="Wedge sandals for women" title="Wedge sandals for women">Wedge Sandals</a>
+        <a data-topcategory="sandals" href="http://www.easyspirit.com/womens-flip-flops/62130038,default,sc.html?ep_tag=ZT_TOPSANDALSFLIP" class="topNavElesecondary" alt="Flip Flops">Flip Flops</a>
       </div>
       <div class="catGraphics">
-    <a class="submenuImg" href="http://www.easyspirit.com/BOOTS-BOOTIES/64283875,default,sc.html?ep_tag=ZT_TOPBOOTSBOOTIESIMG"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1479704665242/images/header/top_nav/fall2016/easy-spirit_boots_booties.jpg" alt="Boots &amp; Booties for women" title="Boots &amp; Booties for women"></a>
+    <a class="submenuImg" href="http://www.easyspirit.com/comfortable-sandals-women/2881132,default,sc.html?ep_tag=ZT_TOPSANDALSIMG"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1496636064057/images/header/top_nav/spring2017/easy-spirit_sandals_dropdown.jpg" alt="Easy Spirit comfortable sandals for women" title="Easy Spirit comfortable sandals for women"></a>
+      </div>
+    </div>
+  </div>
+
+  <span class="divider">&nbsp;</span>
+
+
+  <!-- Traveltime -->
+  <div class="topNavEleHolder" onmouseover="javascript:jQuery('#traveltime').css('display','block')" onmouseout="javascript:jQuery('#traveltime').css('display','none')">
+    <a data-topcategory="traveltime" href="http://www.easyspirit.com/traveltime-athletic-shoes-women/52146528,default,sc.html?ep_tag=ZT_TOPTRAVELTIME" class="topNavEle">Traveltime</a>
+      <div id="traveltime" class="thetopnavdropdownbox3">
+        <div class="catGraphics">
+      <a data-topcategory="traveltime" class="submenuImg" href="http://www.easyspirit.com/traveltime-athletic-shoes-women/52146528,default,sc.html?ep_tag=ZT_TOPTRAVELIMG"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1496636064057/images/header/top_nav/spring2017/easy-spirit_traveltime_dropdown.jpg" alt="Easy Spirit Traveltime shoes for women" title="Easy Spirit Traveltime shoes for women"></a>
       </div>
     </div>
   </div>
@@ -1757,38 +1728,12 @@ function setSize(sizeValue) {
         <a data-topcategory="atheltic" href="http://www.easyspirit.com/classic-athletic-shoes-women/54274179,default,sc.html?ep_tag=ZT_TOPATHDDCLASSIC" class="topNavElesecondary" alt="Easy Spirit classic athletic shoes for women" title="Easy Spirit classic athletic shoes for women">CLASSIC</a>
         <a data-topcategory="atheltic" href="http://www.easyspirit.com/fashion-athletic-shoes/60688465,default,sc.html?ep_tag=ZT_TOPATHDDFASHION" class="topNavElesecondary" alt="Fashionable athletic shoes for women" title="Fashionable athletic shoes for women">FASHION</a>
         <a data-topcategory="atheltic" href="http://www.easyspirit.com/outdoor/62130020,default,sc.html?ep_tag=ZT_TOPATHDDOUTDOOR" class="topNavElesecondary" alt="Easy Spirit outdoor athletic shoes for women" title="Easy Spirit outdoor athletic shoes for women">OUTDOOR</a>
-        <a data-topcategory="atheltic" href="http://www.easyspirit.com/performance-athletic-shoes-women/62130024,default,sc.html?ep_tag=ZT_TOPATHDDPERFORM" class="topNavElesecondary" alt="Easy Spirit performance athletic shoes for women" title="Easy Spirit performance athletic shoes for women">PERFORMANCE</a>
         </div>
       <div class="catGraphics">
-      <a data-topcategory="atheltic" class="submenuImg" href="http://www.easyspirit.com/womens-walking-shoes-athletic/2881130,default,sc.html?ep_tag=ZT_TOPATHLETICIMG"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1479704665242/images/header/top_nav/fall2016/easy-spirit_athletic.jpg" alt="Athletic shoes for women" title="Athletic shoes for women"></a>
+      <a data-topcategory="atheltic" class="submenuImg" href="http://www.easyspirit.com/womens-walking-shoes-athletic/2881130,default,sc.html?ep_tag=ZT_TOPATHLETICIMG"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1496636064057/images/header/top_nav/spring2017/easy-spirit_athletic_dropdown.jpg" alt="Athletic shoes for women" title="Easy Spirit Athletic shoes for women"></a>
       </div>
     </div>
   </div>
-
-  <span class="divider">&nbsp;</span>
-
-  
-<!--Holiday-->
-<div class="topNavEleHolder" onmouseover="javascript:jQuery('#holiday').css('display','block')" onmouseout="javascript:jQuery('#holiday').css('display','none')">
-  <a data-topcategory="holiday" href="http://www.easyspirit.com/Easy-Holiday/64487393,default,sc.html?ep_tag=ZT_TOPEasyHoliday" class="topNavEle">Holiday</a>
-    <div id="holiday" class="thetopnavdropdownbox">
-      <div class="catLinks">
-        <a data-topcategory="holiday" href="http://www.easyspirit.com/Easy-Holiday-Guide/64514612,default,sc.html?ep_tag=ZT_TOPEasyHoliday%3aeasy-holiday" class="topNavElesecondary" alt="Easy Spirit, Easy Holiday" title="Easy Spirit, Easy Holiday">Easy Holiday</a>
-        <a data-topcategory="holiday" href="http://www.easyspirit.com/Shopping-Sprints/64487395,default,sc.html?ep_tag=ZT_TOPEasyHoliday%3ashopping-sprints" class="topNavElesecondary" alt="Easy Spirit, Shopping Sprints" title="Easy Spirit, Shopping Sprints">Shopping Sprints</a>
-        <a data-topcategory="holiday" href="http://www.easyspirit.com/Family-Functions/64487397,default,sc.html?ep_tag=ZT_TOPEasyHoliday%3afamily-functions" class="topNavElesecondary" alt="Easy Spirit, Family Functions" title="Easy Spirit, Family Functions">Family Functions</a>
-        <a data-topcategory="holiday" href="http://www.easyspirit.com/Out-of-Office/64487399,default,sc.html?ep_tag=ZT_TOPEasyHoliday%3aout-of-office" class="topNavElesecondary" alt="Easy Spirit, Out of Office" title="Easy Spirit, Out of Office">Out of Office</a>
-        <a data-topcategory="holiday" href="http://www.easyspirit.com/Renew-Year/64487401,default,sc.html?ep_tag=ZT_TOPEasyHoliday%3arenew-year" class="topNavElesecondary" alt="Easy Spirit, Renew Year" title="Easy Spirit, Renew Year">Renew Year</a>
-        <a data-topcategory="holiday" href="http://www.easyspirit.com/Ward-off-Winter/64487403,default,sc.html?ep_tag=ZT_TOPEasyHoliday%3award-off-winter" class="topNavElesecondary" alt="Easy Spirit, Ward off Winter" title="Easy Spirit, Ward off Winter">Ward off Winter</a>
-        <a data-topcategory="holiday" href="http://www.easyspirit.com/Travel-Light/64487405,default,sc.html?ep_tag=ZT_TOPEasyHoliday%3atravel-light" class="topNavElesecondary" alt="Easy Spirit, Travel Light" title="Easy Spirit, Travel Light">Travel Light</a>
-      </div>
-      
-  <div class="catGraphics">
-     <div id="saleImg">
-      <a data-topcategory="holiday" class="submenuImg" href="http://www.easyspirit.com/Easy-Holiday/64487393,default,sc.html?ep_tag=ZT_TOPEasyHolidayIMG"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1479704665242/images/header/top_nav/fall2016/easy-spirit_holidayTopNav.jpg" alt="Easy Spirit Easy Holiday Guide" title="Easy Spirit Easy Holiday Guide"></a>
-     </div>
-    </div>
-  </div>
-</div>
 
   <span class="divider">&nbsp;</span>
 
@@ -1799,16 +1744,15 @@ function setSize(sizeValue) {
       <div id="saledropdown" class="thetopnavdropdownbox">
         <div class="catLinks">
             <a data-topcategory="sale" href="http://www.easyspirit.com/walking-and-athletic-shoes-sale-women/50485994,default,sc.html?ep_tag=ZT_TOPSSALEDDATH" class="topNavElesecondary" alt="Easy Spirit athletic sale shoes for women" title="Easy Spirit athletic sale shoes for women">ATHLETIC</a>
-            <a data-topcategory="sale" href="http://www.easyspirit.com/Boots-Booties-Sale/64563159,default,sc.html?ep_tag=ZT_TOPSSALEDDBOOTS" class="topNavElesecondary" alt="Easy Spirit boot sale shoes for women" title="Easy Spirit boot sale shoes for women">boots</a>
+            <a data-topcategory="sale" href="http://www.easyspirit.com/boots/64563159,default,sc.html?ep_tag=ZT_TOPSSALEDDBOOTS" class="topNavElesecondary" alt="Easy Spirit boot sale shoes for women" title="Easy Spirit boot sale shoes for women">boots</a>
             <a data-topcategory="sale" href="http://www.easyspirit.com/comfortable-casual-shoes-sale-women/50485995,default,sc.html?ep_tag=ZT_TOPSSALEDDCASUAL" class="topNavElesecondary" alt="Easy Spirit casual shoe sale for women" title="Easy Spirit casual shoe sale for women">CASUAL</a>
             <a data-topcategory="sale" href="http://www.easyspirit.com/dress-shoes-career-shoes-sale-women/50485996,default,sc.html?ep_tag=ZT_TOPSSALEDDDRESS" class="topNavElesecondary" alt="Easy Spirit casual dress shoes sale for women" title="Easy Spirit casual dress shoes sale for women">DRESS</a>
             <a data-topcategory="sale" href="http://www.easyspirit.com/sandals-sale-women/3000805,default,sc.html?ep_tag=ZT_TOPSALEDDSANDAL" class="topNavElesecondary" alt="Easy Spirit sandal sale for women" title="Easy Spirit sandal sale for women">SANDAL</a>
             <a data-topcategory="sale" href="http://www.easyspirit.com/clearance-womens-shoes/51973157,default,sc.html?ep_tag=ZT_TOPSALEDDCLEARANCE" class="topNavElesecondary" alt="Easy Spirit clearance for women" title="Easy Spirit clearance for women">CLEARANCE</a>
         </div>
-
       <div class="catGraphics">
         <div id="saleImg">
-        <a data-topcategory="sale" class="submenuImg" href="http://www.easyspirit.com/sale-womens-shoes/2881127,default,sc.html?ep_tag=ZT_TOPSALE70IMG"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1479704665242/images/header/top_nav/saleDropdowns/easy-spirit_0818_dropdown.gif" title="Easy Spirit sale, up to 70% off! Shop now." alt="Easy Spirit sale, up to 70% off! Shop now."></a>
+        <a data-topcategory="sale" class="submenuImg" href="http://www.easyspirit.com/sale-womens-shoes/2881127,default,sc.html?ep_tag=ZT_TOPSALEIMG"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1496636064057/images/header/top_nav/saleDropdowns/easy-spirit_sale60.gif" title="Easy Spirit sale shoes for women" alt="Easy Spirit sale shoes for women"></a>
        </div>
      </div>
    </div>
@@ -1828,25 +1772,35 @@ function setSize(sizeValue) {
       </div>
       
      <div class="catGraphics">
-       <a class="submenuImg"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1479704665242/images/header/top_nav/fall2016/easy-spirit_easyExtra.gif" title="Easy Spirit easy extras" alt="Easy Spirit easy extras"></a>
+       <a class="submenuImg"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1496636064057/images/header/top_nav/fall2016/easy-spirit_easyExtra.gif" title="Easy Spirit easy extras" alt="Easy Spirit easy extras"></a>
       </div>
     </div>
   </div>
+</div>
 
+<div id="checkoutHeader" class="checkoutOnly">
+	<div id="checkoutHeaderLeft">Checkout</div>
+	<div id="checkoutHeaderRight">Customer Service 1-888-327-9772</div>
 </div>
 
 
 <script type="text/javascript">
 jQuery(document).ready(function() {
-  var i1 = jQuery('#navSearchHolder').offset().top + 10;
+  var i1 = jQuery('#navSearchHolder').offset().top + 65;
   var i2 = jQuery('#headerHolder').height() - 50;
   var i3 = (jQuery('#SearchHeaderBar').length > 0) ? jQuery('#SearchHeaderBar').offset().top - 60 : -1;
   var i4 = (jQuery('#filtersHolder').length > 0) ? jQuery('#filtersHolder').offset().top - 90 : -1;
   
   jQuery(window).scroll(function() {
     // topnav
-    if(jQuery(window).scrollTop() < i1) jQuery("#navSearchHolder").removeClass('posFixed');
-    else if(!jQuery("#navSearchHolder").hasClass('posFixed')) jQuery("#navSearchHolder").addClass('posFixed');
+	if(jQuery(window).scrollTop() < i1) {
+		jQuery("#navSearchHolder").removeClass('posFixed');
+		jQuery("#outerNavSearchHolder").removeClass('addPadding');
+	}
+	else if(!jQuery("#navSearchHolder").hasClass('posFixed')) {
+		jQuery("#navSearchHolder").addClass('posFixed');
+		jQuery("#outerNavSearchHolder").addClass('addPadding');
+	}
 
     // left nav
     if(jQuery('#leftNav').length > 0) {
@@ -1873,8 +1827,7 @@ jQuery(document).ready(function() {
 
 
 
-<div class="contentasset" contentid="TOPNAV_SELECTIONS">
-
+<div class="contentasset contentid_TOPNAV_SELECTIONS" contentid="TOPNAV_SELECTIONS">
 
 
 <span id="topnavSelectionsJS"><script type="text/javascript">
@@ -1921,9 +1874,7 @@ function parseCatID(s) {
 </script></span>
 
 
-
 </div>
-
 
 
 
@@ -1943,40 +1894,26 @@ function parseCatID(s) {
 </div>
 </div>
 </div>
+
+</div>
+</div>
+</div>
+<div id="promoHolder">
+<div id="outerPromo">
+<div id="promoContent">
 
 	 
 
-
 	
-
-
-
-
-
-
-
-<div class="contentasset" contentid="GLOBAL_TOP_PROMO">
-
-
-
-<div id="globalTopPromoBar"></div>
-
-
-
-</div>
-
-
-
-
-
-
- 
-	
-
 </div>
 </div>
 </div>
-
+<script type="text/javascript">
+backtopbtn_middle = true;
+function checkZoom() {
+if(jQuery("#pdetailCenterHolder").length > 0) zoomLargeSwitch(true);
+}
+</script>
 
 <div id="outerContentHolder">
 <div id="outerContent">
@@ -2015,8 +1952,7 @@ function parseCatID(s) {
 
 
 
-<div class="contentasset" contentid="PRIVACY">
-
+<div class="contentasset contentid_PRIVACY" contentid="PRIVACY">
 
 
 <script type="text/javascript">var staticPageName="Static: Privacy Policy";</script>
@@ -2025,15 +1961,21 @@ function parseCatID(s) {
 #content .privacyContent {float:left; padding:15px 40px 0; width:900px;}
 ul {list-style-position:inside;}
 #contMain ul li{padding-left:10px;}
+a.anchor {
+    display: block;
+    position: relative;
+    top: -46px;
+    visibility: hidden;
+}
 </style>
-<div id="contHeader" class="privacyHeader"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1479704665242/images/siteHeaders/hdr_privacy.gif" alt="Privacy Policy" title="Privacy Policy"></div>
+<div id="contHeader" class="privacyHeader"><img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1496636064057/images/siteHeaders/hdr_privacy.gif" alt="Privacy Policy" title="Privacy Policy"></div>
 <div id="contMain" class="privacyContent">
 	<div class="contHeader">Easy Spirit Privacy Policy</div>
-    <div class="contHeader">Last revised and effective as of April 6, 2016.</div>
+    <div class="contHeader">Last revised and effective as of March 10, 2017.</div>
 	<div class="textBlock">
-	  <p>This easyspirit.com website is a service of Nine West Holdings, Inc. for its Easy Spirit brand (“Easy Spirit”).</p>
-	  <p>This Privacy Policy applies to information that may be collected by or on behalf of Easy Spirit, such as in Easy Spirit’s stores, online at easyspirit.com, and through customer service representatives.  Our Privacy Policy tells you the types of information we collect, how we use this information, and when we share it with third parties or our affiliated brands and affiliated companies.</p>
-	  <p>The information on this website and our Privacy Policy are subject to change from time to time.  We will post at the top of this Privacy Policy the date that modifications were last made, which should alert you to any changes since your last visit to the website.  Any material changes to our Privacy Policy and practices will be reflected on this page.  Please read and refer to this Privacy Policy from time to time so that you are aware of our current privacy practices.  Your continued use of the website after the posted effective date constitutes your agreement to the then revised Privacy Policy.  By doing business with Easy Spirit and by accessing and using our website or by providing personal information at one of our store locations, you consent to the collection and use of this information by Easy Spirit as described in this Privacy Policy.</p>
+	  <p>This easyspirit.com website is a service of Easy Spirit LLC, a division of Marc Fisher Footwear (“Easy Spirit”).</p>
+	  <p>This Privacy Policy applies to information that may be collected by or on behalf of Easy Spirit, such as in an Easy Spirit store, online at easyspirit.com, and through customer service representatives. Our Privacy Policy tells you the types of information we collect, how we use this information, and when we share it with third parties or our affiliated brands and affiliated companies.</p>
+	  <p>The information on this website and our Privacy Policy are subject to change from time to time. We will post at the top of this Privacy Policy the date that modifications were last made, which should alert you to any changes since your last visit to the website. Any material changes to our Privacy Policy and practices will be reflected on this page. Please read and refer to this Privacy Policy from time to time so that you are aware of our current privacy practices. Your continued use of the website after the posted effective date constitutes your agreement to the then revised Privacy Policy. By doing business with Easy Spirit and by accessing and using our website or by providing personal information online or at one of the Easy Spirit store locations, you consent to the collection and use of this information by Easy Spirit as described in this Privacy Policy.</p>
 	</div>
 	<div class="contHeader">Table of Contents</div>
 	<div class="textBlock">
@@ -2056,39 +1998,43 @@ ul {list-style-position:inside;}
        <a href="#contact">How do I contact Easy Spirit?</a>
 	  </p>
 	</div>
-	<div class="contHeader"><a name="info" id="info"></a>What information does Easy Spirit collect?</div>
+	<a name="info" class="anchor" id="info">.</a>
+	<div class="contHeader">What information does Easy Spirit collect?</div>
 	<div class="textBlock">
 		Easy Spirit may collect and store two types of information: “personal information” and “automatic information.”  
 		<br>
 		<br>
 		<u>Personal information</u> tells us who you are such as your name, gender, billing address, shipping address, email address, telephone number, date of birth or age, any personal preferences you choose to provide, transaction details such as style, size, price, discount, date, store, your credit card number and expiration date used for transactions, and any assigned password used to protect your privacy.<br>
 		<br> 
-		<u>Automatic information</u> is information that we may collect automatically whenever you interact with this website, such as your IP address, the type of computer you use, the web browser you use, the web page that linked you to our site, and the way you navigated our website and the products you viewed.  An IP address is a number assigned to your computer when you connect to the Internet.  Each time you visit this website, our web server may automatically recognize and collect this information.  Automatic information also includes information generated by the use of “cookies” and “web beacons”. You may <a href="#cookies">click here</a> to find out more about the use of cookies and web beacons.  
+		<u>Automatic information</u> is information that we may collect automatically whenever you interact with this website, such as your IP address, the type of computer you use, the web browser you use, the web page that linked you to our site, and the way you navigated our website and the products you viewed. An IP address is a number assigned to your computer when you connect to the Internet. Each time you visit this website, our web server may automatically recognize and collect this information. Automatic information also includes information generated by the use of “cookies” and “web beacons”. You may click <a href="#cookies">here</a> to find out more about the use of cookies and web beacons.  
 		<br><br>
 		We may associate automatic information with your personal information.   In the event of such association, such automatic information will be considered personal information.
 	</div>
-	<div class="contHeader"><a name="collect" id="collect"></a>How does Easy Spirit collect information?</div>
+	<a name="collect" class="anchor" id="collect">.</a>
+	<div class="contHeader">How does Easy Spirit collect information?</div>
 	<div class="textBlock">
-		Easy Spirit collects data that you provide to us in the following ways: (i) on easyspirit.com; (ii) through transactions, email registrations, participation in sweepstakes, contests, quizzes and surveys, or online memberships; (iv) by communicating with our sales associates in our company-owned Easy Spirit stores and outlets; (v) through phone, mail and fax interactions or paper registrations that you submit to Easy Spirit; and (vi) from information collected about you by our affiliated brands and shared with Easy Spirit.  For information about Easy Spirit’s affiliated brands, please <a href="#disclose">click here</a>.
+		Easy Spirit collects data that you provide to us in the following ways: (i) on easyspirit.com; (ii) through transactions, email registrations, participation in sweepstakes, contests, quizzes and surveys, or online memberships; (iii) by communicating with the sales associates in Easy Spirit stores and outlets; (iv) through phone, mail and fax interactions or paper registrations that you submit to Easy Spirit; and (v) from information collected about you by our affiliated brands or certain other brands and shared with Easy Spirit. For information about Easy Spirit’s affiliated brands and other brands with whom we may share information, please click  <a href="#disclose">here</a>.
 		<br>
 		<br>
-		Easy Spirit also collects data that we obtain from third parties.  We occasionally obtain email addresses of active Easy Spirit store customers who requested emails regarding fashion on other websites.  Easy Spirit also may obtain publicly accessible customer demographics and information about you from commercially available databases and sources.<br>
+		Easy Spirit also collects data that we obtain from third parties. We occasionally obtain email addresses of active Easy Spirit store customers who requested emails regarding fashion on other websites. Easy Spirit also may obtain publicly accessible customer demographics and information about you from commercially available databases and sources.<br>
 		<br>
 		Easy Spirit also collects automatic information through the use of cookies or pixel tags (also known as web beacons).   
 	</div>
-	<div class="contHeader"><a name="cookies" id="cookies"></a>Use of Cookies and Web Beacons or Pixel Tags</div>
+	<a name="cookies" class="anchor" id="cookies">.</a>
+	<div class="contHeader">Use of Cookies, Web Beacons or Pixel Tags</div>
 	<div class="textBlock">
-		A “cookie” is a small text file that is sent to your browser from a web server and stored on your computer's hard drive.  Among other things, cookies provide a means for us to keep track of your online patterns and preferences.   By understanding which areas of the site you visit, cookies allow us to present information, products and services that are of personal interest and make our website more efficient.  Some of the ways we may use cookies include enabling your log-in, identifying your shopping carts, tracking where you travel on our websites and what you look at and purchase, and for marketing testing and product recommendations.
+		A “cookie” is a small text file that is sent to your browser from a web server and stored on your computer's hard drive. Among other things, cookies provide a means for us to keep track of your online patterns and preferences. By understanding which areas of the site you visit, cookies allow us to present information, products and services that are of personal interest and make our website more efficient. Some of the ways we may use cookies include enabling your log-in, identifying your shopping carts, tracking where you travel on our websites and what you look at and purchase, and for marketing testing and product recommendations. 
 		<br><br>
-		Most browsers are initially set up to accept cookies but allow you to change your browser so that it will not automatically accept cookies. Various browsers have different ways to inform you when a cookie has been sent to you, limit the kinds of cookies that can be placed on your computer and let you delete cookies.  Please refer to your browser instructions or help screen to learn more about these functions.  Additionally, if you have a Flash player installed on your computer, flash cookies may be stored.  Flash cookies are different from browser cookies and the cookie management tools provided by your browser will not necessarily remove Flash cookies. The latest versions of many browsers let you control or delete Flash cookies through the browser’s settings.  If you use an older version of one of these browsers, upgrade to the most recent version, and set it to update automatically.  However, if you delete or remove cookies, it is possible that some portions of the site may not function as intended. 
+		Most browsers are initially set up to accept cookies but allow you to change your browser so that it will not automatically accept cookies. Various browsers have different ways to inform you when a cookie has been sent to you, limit the kinds of cookies that can be placed on your computer and let you delete cookies. Please refer to your browser instructions or help screen to learn more about these functions. Additionally, if you have a Flash player installed on your computer, flash cookies may be stored. Flash cookies are different from browser cookies and the cookie management tools provided by your browser will not necessarily remove Flash cookies. The latest versions of many browsers let you control or delete Flash cookies through the browser’s settings. If you use an older version of one of these browsers, upgrade to the most recent version, and set it to update automatically. However, if you delete or remove cookies, it is possible that some portions of the site may not function as intended. 
 		<br><br>
-		“Web beacons” also known as pixel tags, clear GIFs or single-pixel GIFs, or similar technologies are small image files that we may place on web pages and within web-based email newsletters that we send.  Working in conjunction with cookies, web beacons allow us to accurately count the number of unique users who have visited a specific page and the number of times those pages are displayed.  We can also use web beacons to let us know how many people opened a web-based email newsletter or message.
+		“Web beacons” also known as pixel tags, clear GIFs or single-pixel GIFs, or similar technologies are small image files that we may place on web pages and within web-based email newsletters that we send. Working in conjunction with cookies, web beacons allow us to accurately count the number of unique users who have visited a specific page and the number of times those pages are displayed. We can also use web beacons to let us know how many people opened a web-based email newsletter or message. 
 		<br><br>
-		Easy Spirit also uses third party internet analytics firms, such as Adobe Analytics and others, to place cookies and pixel tags on your computer or browser when you visit our website.  These third parties collect automatic information to track and analyze usage and volume statistical information regarding your visits to our website, such as what you browsed and purchased, what web page linked you to our site and what traffic is driven by banner ads and e-mails.  To learn more about Adobe Analytics and how to opt out, please visit <a href="http://www.adobe.com/privacy/analytics.html#1" target="_blank">http://www.adobe.com/privacy/analytics.html#1</a>.
+		Easy Spirit also uses third party internet analytics firms, such as Adobe Analytics and others, to place cookies and pixel tags on your computer or browser when you visit our website. These third parties collect automatic information to track and analyze usage and volume statistical information regarding your visits to our website, such as what you browsed and purchased, what web page linked you to our site and what traffic is driven by banner ads and e-mails. To learn more about Adobe Analytics and how to opt out, please visit <a href="http://www.adobe.com/privacy/analytics.html#1" target="_blank">http://www.adobe.com/privacy/analytics.html#1</a>.
 		<br><br>
-		We may also collect geolocation data based on your then current location, including that of any mobile devices you may have used to access our website, to provide location-based services.  We may also work with third party vendors to use wi-fi networks to analyze the physical traffic patterns of anonymous users of mobile phone or other devices near and in our stores as a means to measuring the effectiveness of our store displays or promotions.
+		We may also collect geolocation data based on your then current location, including that of any mobile devices you may have used to access our website, to provide location-based services.
 	</div>
-	<div class="contHeader"><a name="use" id="use"></a>How does Easy Spirit use this information?</div>
+	<a name="use" class="anchor" id="use">.</a>
+	<div class="contHeader">How does Easy Spirit use this information?</div>
 	<div class="textBlock">
 		<ul>Easy Spirit may use the information it collects in order to:
 			<li>Confirm, process and fulfill sales transactions</li>
@@ -2107,11 +2053,12 @@ ul {list-style-position:inside;}
 	<div class="textBlock">
 		We may use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests.  To opt out of our cookies used for this online advertising, <a href="http://dtmc.easyspirit.com/adinfo/choice/prod/?type=fpc&amp;cid=3061&amp;cname=Easy%20Spirit&amp;cmagic=4aa0e9&amp;clogo=3061.png&amp;loc=us&amp;lang=en-us%27,%27_blank%27,%27status=0,toolbar=0,location=0,menubar=0,directories=0,scrollbars=1,width=921,height=758" target="_blank">click here</a>.
 		<br><br>
-		We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services on our website and the websites of others. To learn more, or to opt-out of receiving online display advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at <a href="http://www.networkadvertising.org/choices/" target="_blank">www.networkadvertising.org/choices</a>. 
+		We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services on our website.  Some of these third parties may also use cookies to collect and use anonymous information about your visits to and interactions on our website and other websites for analytical purposes and for delivering online display advertisements on other websites that are directed to products and services that are tailored to your interests. To learn more, or to opt-out of receiving online display advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at <a href="http://www.networkadvertising.org/choices/" target="_blank">www.networkadvertising.org/choices</a>. 
 		<br><br>
-		We may use geolocation information by automatically detecting the IP addresses of visitors on our website from international jurisdictions in order to customize their visit to our website and display international currency pricing.
+		We may use geolocation information by automatically detecting the IP addresses of visitors on our website from international jurisdictions in order to customize their visit to our website and display international currency pricing. 
 	</div>
-	<div class="contHeader"><a name="protect" id="protect"></a>How does Easy Spirit protect your information?</div>
+	<a name="protect" class="anchor" id="protect">.</a>
+	<div class="contHeader">How does Easy Spirit protect your information?</div>
 	<div class="textBlock">
 		Unfortunately, no data transmission over the Internet can be unconditionally guaranteed to be secure.  Therefore, any information you transmit to us is sent at your own risk.<br>
 		<br> 
@@ -2119,79 +2066,89 @@ ul {list-style-position:inside;}
 		<br> 
 		In addition, when you create an online account on easyspirit.com, you must select a personal password.  As a member of Easy Spirit’s website, you will be able to view, among other things, your account profile, contact preferences, order history and address book.  We store this type of information so that you do not have to reenter it each time you make a purchase or visit the website.  Should you decide to become a member of Easy Spirit’s website, you will be asked to provide an accurate email address and create a password.  In order to help protect your personal information, you should be careful about maintaining the secrecy of your password and any username associated with your account.
 	</div>
-	<div class="contHeader"><a name="disclose" id="disclose"></a>Does Easy Spirit disclose your information to others?</div>
+	<a name="disclose" class="anchor" id="disclose">.</a>
+	<div class="contHeader">Does Easy Spirit disclose your information to others?</div>
 	<div class="textBlock">
-		Nine West Holdings, Inc. maintains a single database of customer information for several brands owned by or licensed to the Nine West Holdings, Inc. family of companies.  In addition to Easy Spirit, these brands include Nine West, Bandolino and Anne Klein.  Nine West Holdings, Inc. (including through its affiliates and predecessor companies) also has provided marketing, retail store or e-commerce services to other companies, which has included operating certain retail outlet stores under the Jones New York and Kasper brands.  Customer information that has been collected at those stores while operated by Nine West Holdings, Inc. is maintained in the shared database.  When you establish or update your customer profile information with the Nine West, Easy Spirit, Anne Klein and Kasper brands, whether through a purchase, registration or email sign-up at a company-owned or operated website, specialty store or outlet store for one of these brands, or through a customer service representative, or in other communications you may have with us, we will update your customer record on the Nine West Holdings, Inc. database.<br>
+		Easy Spirit maintains a database of customer information collected by Easy Spirit.  The database is maintained and operated by third party service providers and also houses customer information collected by certain other brands.  In addition to Easy Spirit, these brands include Nine West, Bandolino, Anne Klein and Kasper.  When you establish or update your customer profile information with Easy Spirit, whether through a purchase, registration or email sign-up at the Easy Spirit website, at an Easy Spirit store, or through a customer service representative, or in other communications you may have with Easy Spirit, your name and address on the database will be shared with and updated for any of the brands on the shared database for which you have established a customer profile.  <br>
 		<br> 
 		All of the information that Easy Spirit collects may be shared with the Nine West, Bandolino, Anne Klein and Kasper brands and with other affiliated brands of Nine West Holdings, Inc., including Enzo Angiolini, Joan &amp; David, Pappagallo, lonna &amp; lilly, Napier, Judith Jack, Gloria Vanderbilt, L.e.i. and Energie, among others.<br>
 		<br>
-		We may disclose personal information about you to third parties who provide services to us.  These third parties may use the information in connection with the services they provide to us, such as hosting our website, assisting us in fulfilling your transactions and customer service inquiries, and managing and updating your customer information, or to improve their services generally.  We may also share your information with third parties to assist us in managing our sites, understanding and optimizing the performance and functionality of the site, or so they can market and advertise their products and services to you that may be of interest to you.
+		We may disclose personal information about you to third parties who provide services to us. These third parties may use the information in connection with the services they provide to us, such as hosting our website, assisting us in fulfilling your transactions and customer service inquiries, and managing and updating your customer information, or to improve their services generally. We may also share your information with third parties to assist us in managing our sites, understanding and optimizing the performance and functionality of the site, or so they can market and advertise to you our products and services or others that they believe may be of interest to you.  
 		<br><br>
-		We may share your information (such as your name, email address, mailing address and transactional history with us) with third parties by participating or joining a shared membership or cooperative database.  In such a case, other third party members in the membership or cooperative database may use your information to market and promote their products and services to you.  If you prefer not to have your personal information shared with these cooperative or membership databases for their own marketing purposes, please contact us as indicated in this Privacy Policy below under the heading “<a href="#contact">Contact Information</a>”.     
+		We may share your information (such as your name, email address, mailing address and transactional history with us) with third parties by participating or joining a shared membership or cooperative database. In such a case, other third party members in the membership or cooperative database may use your information to market and promote their products and services to you. If you prefer not to have your personal information shared with these cooperative or membership databases for their own marketing purposes, please contact us as indicated in this Privacy Policy below under the heading “<a href="#contact">How do I contact Easy Spirit?</a>”.     
 		<br>
 		<br> 
-		We may also use and/or disclose to others information about your demographics and use of our website in a manner that does not reveal your identity.  We also may match and use information collected from you at our website with information obtained collected from other sources or third parties.
+		We may also use and/or disclose to others information about your demographics and use of our website  in a manner that does not reveal your identity. We also may match and use information collected from you at our website with information obtained collected from other sources or third parties. 
 		<br>
 		<br>
-		From time to time, we may partner with one or more co-sponsor(s) to conduct a contest, sweepstakes or other promotional event.  In those situations, each of the participating co-sponsor(s) and the websites of each participating co-sponsor(s) may collect or receive personal information from you and will have the right to use your personal information in accordance with their own respective privacy policies.
+		From time to time, we may partner with one or more co-sponsor(s) to conduct a contest, sweepstakes or other promotional event. In those situations, each of the participating co-sponsor(s) and the websites of each participating co-sponsor(s) may collect or receive personal information from you and will have the right to use your personal information in accordance with their own respective privacy policies
 		<br><br> 
 		We may disclose personal information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may have breached our <a href="http://www.easyspirit.com/on/demandware.store/Sites-easyspirit-Site/default/Link-PageByDate?cid=TERMS">Terms and Conditions of Use</a> or who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other users of our website, or anyone else who could be harmed by such activities.
 		<br><br>
-		We may also disclose personal information when we reasonably believe that the law requires it. We might sell or buy subsidiaries, or business units. In such transactions, personally identifiable information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing privacy policy unless subsequent consent otherwise has been obtained from you. Also, in the event that assets of Easy Spirit are sold, personal information collected through this website or other means may be one of the transferred assets.  Accordingly, we reserve the right to assign our rights and duties under this Privacy Policy to any third party at any time without notice to you, and such assignment rights shall include the ability to make an assignment in connection with any sale, merger, acquisition, divestiture or liquidation of all or part of our business or assets related to the website, all or substantially all of our other business or assets, or as part of any reorganization or restructuring of our business or assets.
+		We may also disclose personal information when we reasonably believe that the law requires it. We might sell or buy subsidiaries, or business units. In such transactions, personally identifiable information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing privacy policy unless subsequent consent otherwise has been obtained from you. Also, in the event that assets of Easy Spirit are sold, personal information collected through this website or other means may be one of the transferred assets. Accordingly, we reserve the right to assign our rights and duties under this Privacy Policy to any third party at any time without notice to you, and such assignment rights shall include the ability to make an assignment in connection with any sale, merger, acquisition, divestiture or liquidation of all or part of our business or assets related to the website, all or substantially all of our other business or assets, or as part of any reorganization or restructuring of our business or assets.
 	</div>
-	<div class="contHeader"><a name="access" id="access"></a>How can you access your information?</div>
+	<a name="access" class="anchor" id="access">.</a>
+	<div class="contHeader">How can you access your information?</div>
 	<div class="textBlock">
-		You may access and edit the information that you provide online by signing in at easyspirit.com. Simply click on the "Sign In" link from the home page and enter your email address and password to access your information. You can request password help at any time by clicking on the "I don’t have/know my password?" link at which time easyspirit.com will email your password to the associated email address.  Currently, we do not provide online access to information that you provided to Easy Spirit offline.  But at any time you may request access to your information from our customer service representatives.
+		You may access and edit the information that you provide online by signing in at easyspirit.com. Simply click on the "Sign In" link from the home page and enter your email address and password to access your information. You can request password help at any time by clicking on the "I don’t have/know my password?" link at which time easyspirit.com will email your password to the associated email address. Currently, we do not provide online access to information that you provided to Easy Spirit offline. But at any time you may request access to your information from our customer service representatives.
 	</div>
-	<div class="contHeader"><a name="unsubscribe" id="unsubscribe"></a>Can I unsubscribe?</div>
+	<a name="unsubscribe" class="anchor" id="unsubscribe">.</a>
+	<div class="contHeader">Can I unsubscribe?</div>
 	<div class="textBlock">
 		Yes. Easy Spirit honors requests to <a href="http://www.easyspirit.com/UNSUBSCRIBE/UNSUB_PRIVACY,default,pg.html">unsubscribe</a> from receipt of emails, not only for promotional emails that Easy Spirit sends, but also for emails about Easy Spirit that we permit other companies to send to their own list of subscribers.  Please note that you may continue to receive emails from Easy Spirit until such requests become effective.
 	</div>
-	<div class="contHeader"><a name="optout" id="optout"></a>How Does Easy Spirit Respond to a Do Not Track Signal?</div>
+	<a name="optout" class="anchor" id="optout">.</a>
+	<div class="contHeader">What are my choices to opt out of tracking features?</div>
 	<div class="textBlock">
-		We do not currently respond to signals we may receive from web browsers or other mechanisms asking that our website or related properties not track you and your behavior on our website and such properties.  Please review this Privacy Policy for more information about ways to disable or opt out of certain cookies.  You may also contact us as indicated in this Privacy Policy under the heading “<a href="#contact">Contact Information</a>”.
+		We do not currently respond to signals we may receive from web browsers or other mechanisms asking that our website or related properties not track you and your behavior on our website and such properties. Please review this Privacy Policy for more information about ways to disable or opt out of certain cookies. You may also contact us as indicated in this Privacy Policy under the heading “<a href="#contact">“How do I contact Easy Spirit?”</a>”.
 	</div>
-	<div class="contHeader"><a name="child" id="child"></a>How does Easy Spirit protect a child’s privacy?</div>
+	<a name="child" class="anchor" id="child">.</a>
+	<div class="contHeader">How does Easy Spirit protect a child’s privacy?</div>
 	<div class="textBlock">
-		While this site is a general audience website, we do not intentionally collect personally identifiable information from children under the age of thirteen (13).  If we become aware that we have collected personally identifiable information from a user of the site who is under the age of thirteen (13), we will remove that child's personal information from our files.
+		While this site is a general audience website, we do not intentionally collect personally identifiable information from children under the age of thirteen (13). If we become aware that we have collected personally identifiable information from a user of the site who is under the age of thirteen (13), we will remove that child's personal information from our files.
 	</div>
-	<div class="contHeader"><a name="links" id="links"></a>Does easyspirit.com have links to other web sites?</div>
+	<a name="links" class="anchor" id="links">.</a>
+	<div class="contHeader">Does easyspirit.com have links to other web sites?</div>
 	<div class="textBlock">
 		While you are using this website, you may be linked or directed to other third party sites outside of the website that are beyond our control. Each of these third parties may have a privacy policy different from ours. For example, you might click on a link or banner ad or place orders for delivery outside the United States (see “<a href="#international">International</a>” below”) that will take you off the website. These links and banners may take you to sites of advertisers, sponsors and co-branding partners.
 		<br><br>
 		Please review the privacy policies of these sites. We are not responsible for any actions or policies of such third parties.  For more information, please read our <a href="http://www.easyspirit.com/on/demandware.store/Sites-easyspirit-Site/default/Link-PageByDate?cid=TERMS">Terms of Use and Conditions of Service</a>.
 	</div>
-	<div class="contHeader"><a name="international" id="international"></a>International</div>
+	<a name="international" class="anchor" id="international">.</a>
+	<div class="contHeader">International</div>
 	<div class="textBlock">
-		You may also seek to place an order on our site for shipment to a country outside the United States. When you click on our international shipping menu, select another country and indicate you would like to have an order shipped to that country, you will be redirected to a checkout page hosted by a third party (Borderfree, Inc.) with whom we have partnered to process and fulfill such orders internationally.  Borderfree will present you with its terms and conditions and process your personal information under its own privacy policy.  Once you place your order, you will be prompted to confirm whether you would like to receive marketing and other communications from Easy Spirit. If you agree that Borderfree may share your data with Easy Spirit, we will handle and use your information to supply you with such communications and as otherwise allowed in this Privacy Policy.
+		You may also seek to place an order on our site for shipment to a country outside the United States. When you click on our international shipping menu, select another country and indicate you would like to have an order shipped to that country, you will be redirected to a checkout page hosted by a third party (Borderfree, Inc.) with whom we have partnered to process and fulfill such orders internationally. Borderfree will present you with its terms and conditions and process your personal information under its own privacy policy. Once you place your order, you will be prompted to confirm whether you would like to receive marketing and other communications from Easy Spirit. If you agree that Borderfree may share your data with Easy Spirit, we will handle and use your information to supply you with such communications and as otherwise allowed in this Privacy Policy. 
 		<br><br> 
 		This easyspirit.com website at present is hosted on servers located in the United States, although we reserve the right to host the website on servers located in other countries. By using this website, you consent to the personal information collected by us being transferred to, and being stored and handled in, countries (including the United States) that may be outside of your country of residence and which may have different data protection rules than in your country of residence.
 	</div>
-	<div class="contHeader"><a name="caprivacy" id="caprivacy"></a>Additional Notices to California Residents</div>
-	<div class="contHeader"><a name="marketing" id="marketing"></a>Information on Marketing Disclosures</div>
+	<a name="caprivacy" class="anchor" id="caprivacy">.</a>
+	<div class="contHeader">Additional Notices to California Residents</div>
+	<a name="marketing" class="anchor" id="marketing">.</a>
+	<div class="contHeader">Information on Marketing Disclosures</div>
 	<div class="textBlock">
-		Easy Spirit customers living in the State of California may request and obtain once a year, free of charge, information regarding our disclosure of personal information to third parties for their direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information shared and the names and addresses of those  third parties with which we shared your information in the immediately preceding calendar year.  If you are a California resident and would like to make such a request, please contact using the contact information indicated below in this Privacy Policy.
+		Easy Spirit customers living in the State of California may request and obtain once a year, free of charge, information regarding our disclosure of personal information to third parties for their direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information shared and the names and addresses of those third parties with which we shared your information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please contact us using the contact information indicated below in this Privacy Policy.
 	</div>
-	<div class="contHeader"><a name="remove" id="remove"></a>Content Removal Requests for Users Under 18 Years Old</div>
+	<a name="remove" class="anchor" id="remove">.</a>
+	<div class="contHeader">Content Removal Requests for Users Under 18 Years Old</div>
 	<div class="textBlock">
-		If you are a user under 18 years of age and reside in California, you may request and obtain removal of, content or information that you have posted on the website.  You may send us any such requests by one of the methods noted below under “Contact Information”.  We will review the request and respond promptly.  You should be aware that a request to remove content or information posted by you on the website does not ensure or require complete or comprehensive removal of such content or information from our databases.
+		If you are a user under 18 years of age and reside in California, you may request and obtain removal of, content or information that you have posted on the website. You may send us any such requests by one of the methods noted below under “How do I contact Easy Spirit?” We will review the request and respond promptly. You should be aware that a request to remove content or information posted by you on the website does not ensure or require complete or comprehensive removal of such content or information from our databases.
 	</div>
-	<div class="contHeader"><a name="contact" id="contact"></a>Contact Information</div>
+	<a name="contact" class="anchor" id="contact">.</a>
+	<div class="contHeader">How do I contact Easy Spirit?</div>
 	<div class="textBlock">
 		We welcome your comments regarding this Privacy Policy. Please send any comments to:
 		<br><br>
 		Write to us at:<br>		 
 		Easy Spirit Customer Relations - Privacy Policy<br>
-		1411 Broadway, 20<sup>th</sup> Floor<br>
+		1411 Broadway, 22<sup>th</sup> Floor<br>
 		New York, NY 10018<br><br>
 		Email us at:<br>
 		<a href="mailto:customer_relations@easyspirit.com">customer_relations@easyspirit.com</a>
 		<br><br>
 		Call us by phone at:<br>
-		1-800-999-1877 (between 9am – 10pm EST)
+		1-888-327-9772  (between 9am – 10pm EST)
 	</div>
 </div>
-
 
 
 </div>
@@ -2359,212 +2316,22 @@ return true;
 <div id="footer">
 
 
-<div id="footerNav">
 
 
 
 
 
-<div class="contentasset" contentid="FOOTER">
+<div class="contentasset contentid_FOOTER_SOCIAL_BANNER" contentid="FOOTER_SOCIAL_BANNER">
 
 
-
-<div class="footernav1">
-	<div class="footernavHeader">Assistance</div>
-	<div class="footernavContent">
-		<div class="footernav11">
-                        <a href="http://www.easyspirit.com/Easy-Holiday/64487393,default,sc.html">Easy Holiday</a>
-			<a href="http://www.easyspirit.com/on/demandware.store/Sites-easyspirit-Site/default/Customer-Account">My Account</a>
-			<a href="http://www.easyspirit.com/Contact-Us/CONTACT_US,default,pg.html">Contact Us</a>
-			<a class="no51" href="http://www.easyspirit.com/easy-spirit-gift-cards/2881146,default,sc.html">Gift Cards</a>
-			<a href="http://www.easyspirit.com/Size-Conversion/SIZE_CONVERSION,default,pg.html">Size Guide</a>
-			
-		</div>
-		<div class="footernav12 no51">
-			<a href="http://www.easyspirit.com/Customer-Service/CUSTOMER_SERVICE,default,pg.html">FAQ</a>
-            <a href="http://www.easyspirit.com/on/demandware.store/Sites-easyspirit-Site/default/Order-ShipTrackOrder?ep_tag=CSLPOS">Order Status</a>
-			<a href="http://www.easyspirit.com/Easyreturns/EASYRETURNS,default,pg.html">Returns</a>
-			<a href="http://www.easyspirit.com/Sitemap/SITEMAP,default,pg.html">Site Map</a>
-			<a class="no51" href="http://www.easyspirit.com/on/demandware.store/Sites-easyspirit-Site/default/mHome-Show">Mobile Site</a>
-			<div class="livepersonLink no51">
-
-
-
-
-<div class="contentasset" contentid="LIVE_PERSON">
-
-
-
-<span class="liveperson_footer" style="display:none;"><script type="text/javascript">
-var lpErr = '';
-var sSection = null;
-
-function callLpAddVars(scope,name,value) {
-	if(typeof(lpAddVars)!='undefined') lpAddVars(scope,name,value);
-}
-
-function callLpSendData(varscope,varname,varvalue) {
-	if(typeof(lpSendData)!='undefined') lpSendData(varscope,varname,varvalue);
-}
-
-function checkErrors() {
-	lpErr = '';
-	// get ShoppingCartError
-	if(sSection == 'Shopping Bag') {
-		jQuery('.error,.code-error').each(function() {
-			if(jQuery(this).is(":visible")) lpErr += jQuery(this).text();
-		});
-		if(lpErr.length > 0) callLpAddVars('page','ShoppingCartError','True');
-		else callLpAddVars('page','ShoppingCartError','False');
-	}
-	
-	// get CheckoutError
-	if(sSection == 'Checkout' || sSection == 'Checkout Summary' || sSection == 'Checkout Confirmation') {
-		jQuery('.error,.code-error').each(function() {
-			if(jQuery(this).is(":visible")) lpErr += jQuery(this).text();
-		});
-		if(lpErr.length > 0) callLpAddVars('page','CheckoutError','True');
-		else callLpAddVars('page','CheckoutError','False');
-	}
-	//console.log('checkErrors(): lpErr = ' + lpErr);
-}
-
-//jQuery(document).ready(function() {
-if(sShippingCountry == 'United States') {
-	callLpAddVars('page','ShippingCountry',sShippingCountry); // set in fiftyone_countrySelect2.isml
-	callLpSendData('page','cartTotal',window.lpCurrentTotalCart); // set in minicartcontent.isml
-	
-	// get Section
-	sSection = 'none';
-	if(typeof(forlpSection)!='undefined') sSection = forlpSection;
-	else if(typeof(staticPageName)!='undefined') sSection = staticPageName;
-	else if(jQuery('#homepageMain,#homeImgHolder').size() > 0) sSection = 'Home';
-	else if(jQuery('#zoomImg').size() > 0) sSection = 'Product Detail';
-	else if(jQuery('#productsgallery').size() > 0) sSection = 'Product Category';
-	else if(jQuery('.fluid-templates-CartTemplate').size() > 0 || window.location.href.indexOf('RenderCart') > -1) sSection = 'Shopping Bag';
-	else if(jQuery('.fluid-templates-CheckoutTemplate').size() > 0) sSection = 'Checkout';
-	else if(jQuery('.fluid-templates-OrderConfirmationTemplate').size() > 0) sSection = 'Checkout Confirmation';
-	callLpAddVars('page','Section',sSection);
-	
-	if(sSection == 'Shopping Bag' || sSection == 'Checkout' || sSection == 'Checkout Summary' || sSection == 'Checkout Confirmation') {
-		jQuery('.secondary-button').click(function() {
-			checkErrors();
-			var lpWait = setTimeout(function() {checkErrors();},5000);
-		});
-	}
-
-	// get AccountLoginError
-	if(sSection == 'Checkout Login' || sSection == 'Account: Login') {
-		if(jQuery('#errorText').text().length > 0 || jQuery('.errormessage').text().length) callLpAddVars('page','AccountLoginError','True');
-		else callLpAddVars('page','AccountLoginError','False');
-	}
-	
-	// get productCategories
-	var sProductCategories = 'none';
-	if(jQuery('#productCrumbs').text().length > 0) sProductCategories = jQuery('#productCrumbs a:last').attr('content').replace('>','').trim();
-	else if(jQuery('#contentBreadCrumbs').text().length > 0) sProductCategories = jQuery('#contentBreadCrumbs').text().replace(/\n/g,'').replace('Home','').trim();
-	callLpAddVars('page','productCategories',sProductCategories);
-	
-	// get SizeError
-	callLpAddVars('page','SizeError','False');
-	
-	/*
-	// wait for LivePerson to load
-	var t = 0;
-	function lpTimer() {
-		if(typeof(lpMTagConfig)!='undefined') {
-			clearInterval(lpWait);
-			
-			// add listeners for QuickView links
-			jQuery('.qvLinkA').click(function() {
-				lpMTagConfig.onLoadAll()
-			});
-		}
-		else jQuery('#lpButtonHolder').attr('title',t++);
-	}
-	var lpWait = setInterval(function() {lpTimer()},1000);
-	*/
-}
-//}
-</script></span>
-<!-- End LP Custom Variables-->
-
-<!-- LP Image Button Div-->
-<style>
-#lpButtonHolder {padding-top:3px;}
-</style>
-<div id="lpButtonHolder" title=""><div id="lpButtonDiv2"></div></div>
-
-
-
+<div id="footerSocialBanner">
+	<img src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/-/Sites-easyspirit-Library/default/v1496636064057/images/footer/es_footerSocialMap.gif" usemap="#footerSocialLinks">
+	<map name="footerSocialLinks" id="footerSocialLinks">
+		<area shape="rect" coords="0,0,32,30" href="https://www.facebook.com/easyspirit/" target="_blank" alt="Easy Spirit on Facebook" title="Easy Spirit on Facebook">
+		<area shape="rect" coords="36,0,65,30" href="https://www.instagram.com/easyspiritofficial/" target="_blank" alt="Easy Spirit on Instagram" title="Easy Spirit on Instagram">
+		<area shape="rect" coords="76,0,105,30" href="https://www.pinterest.com/easyspirit/" target="_blank" alt="Easy Spirit on Pinterest" title="Easy Spirit on Pinterest">
+	</map>
 </div>
-
-
-
-</div>
-		</div>
-	</div>
-</div>
-<div class="footernav2">
-	<div class="footernavHeader">About Easy Spirit</div>
-	<div class="footernavContent">
-		<a href="http://www.easyspirit.com/About/ABOUT,default,pg.html">Our Story</a>
-		<a target="_blank" href="http://careers.peopleclick.com/careerscp/client_ninewest/external/search.do">Careers</a>
-		<a href="http://www.easyspirit.com/on/demandware.store/Sites-easyspirit-Site/default/Stores-Find">Store Locator</a>
-		<a target="_blank" href="http://www.jonesgroupinc.com/images/JNY/documents/2014/california_transparency_nw_2014.pdf">CA Transparency</a>
-		<a href="http://www.easyspirit.com/null/TERMS,default,pg.html">Terms of Use (Updated 2016)</a>
-		<a href="http://www.easyspirit.com/Privacy/PRIVACY,default,pg.html">Privacy Policy (Updated 2016)</a>
-	</div>
-</div>
-
-<!-- temp include for shoprenner css fix -->
-<style>
-
-
-
-
-
-<div class="contentasset" contentid="CSS_SHOPRUNNER">
-
-
-
-<div></div>
-
-
-
-</div>
-
-
-
-
-</style>
-
-<script>
-function linkFunction() {
-	window.location.assign("http://www.easyspirit.com/Help/HELP,default,pg.html")
-}
-</script>
-
-
-
-</div>
-
-
-
-
-</div>
-<div id="footerNavTop">
-
-
-
-
-
-<div class="contentasset" contentid="FOOTER_TOP">
-
-
-
-<div></div>
-
 
 
 </div>
@@ -2579,11 +2346,8 @@ function linkFunction() {
 	
 		<table id="optInTable">
 			<tbody><tr>
-				<td colspan="2" class="optin_label">Get News &amp; Updates  &nbsp;</td>
-			</tr>
-			<tr>
-				<td><input id="optInEmail" name="dwfrm_optin_email" class="textBox shellInput initialInputField" value="ENTER EMAIL ADDRESS" maxlength="40" type="text"></td>
-				<td><input src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/images/buttons/button_arrow.gif" name="emailBtn" id="emailBtn" type="image"></td>
+				<td id="inputField" class="email"><input id="optInEmail" name="dwfrm_optin_email" class="textBox shellInput" value="" placeholder="Enter Your Email Address" maxlength="40" type="text"></td>
+				<td><input src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/images/buttons/button_email.gif" name="emailBtn" id="emailBtn" type="image"></td>
 			</tr>
 		</tbody></table>
 	
@@ -2594,42 +2358,78 @@ function linkFunction() {
 		<span style="display:none;"><script type="text/javascript">if(GetCookie('OptedIn')=='true') $('optInTable').hide();</script></span>
 	
 </div>
+<div id="footerNav" class="footerNav app_fluidnwg">
+
+
+
+
+<div class="contentasset contentid_FOOTER" contentid="FOOTER">
+
+
+<div class="footerLinksHolder">
+	<div id="footerLinksAssistance" class="footerLinksColumn">
+		<div class="footernavHeader">Assistance</div>
+		<div class="footerLink"><a href="http://www.easyspirit.com/Contact-Us/CONTACT_US,default,pg.html">Contact Us</a></div>
+		<div class="footerLink"><a href="http://www.easyspirit.com/Customer-Service/CUSTOMER_SERVICE,default,pg.html">FAQ</a></div>
+		<div class="footerLink"><a href="http://www.easyspirit.com/on/demandware.store/Sites-easyspirit-Site/default/Order-ShipTrackOrder?ep_tag=CSLPOS">Order Status</a></div>
+		<div class="footerLink"><a href="http://www.easyspirit.com/Easyreturns/EASYRETURNS,default,pg.html">Returns</a></div>
+		<div class="footerLink"><a href="http://www.easyspirit.com/Sitemap/SITEMAP,default,pg.html">Site Map</a></div>
+	</div>
+	<div id="footerLinksServices" class="footerLinksColumn">
+		<div class="footernavHeader">Services</div>
+		<div class="footerLink"><a href="http://www.easyspirit.com/on/demandware.store/Sites-easyspirit-Site/default/Customer-Account">My Account</a></div>
+		<div class="footerLink"><a class="no51" href="http://www.easyspirit.com/easy-spirit-gift-cards/2881146,default,sc.html">Gift Cards</a></div>
+		<div class="footerLink"><a href="http://www.easyspirit.com/on/demandware.store/Sites-easyspirit-Site/default/Link-PageByDate?cid=SIZE_CHART">Size Guide</a></div>
+		<div class="footerLink"><a class="no51" href="http://www.easyspirit.com/on/demandware.store/Sites-easyspirit-Site/default/mHome-Show">Mobile Site</a></div>
+	</div>
+	<div id="footerLinksAbout" class="footerLinksColumn">
+		<div class="footernavHeader">About Easy Spirit</div>
+		<div class="footerLink"><a href="http://www.easyspirit.com/About/ABOUT,default,pg.html">Our Story</a></div>
+		<div class="footerLink"><a target="_blank" href="http://www.jonesgroupinc.com/images/JNY/documents/2014/california_transparency_nw_2014.pdf">CA Transparency</a></div>
+		<div class="footerLink"><a href="http://www.easyspirit.com/null/TERMS,default,pg.html">Terms of Use (Updated 2017)</a></div>
+		<div class="footerLink"><a href="http://www.easyspirit.com/Privacy/PRIVACY,default,pg.html">Privacy Policy (Updated 2017)</a></div>
+	</div>
 </div>
-<div id="seoFooter">
+<script>
+function linkFunction() {
+	window.location.assign("http://www.easyspirit.com/Help/HELP,default,pg.html")
+}
+</script>
+
+
+</div>
+
+
+
+</div>
+<div id="seoFooter" class="app_fluidnwg">
 
 
 
 
-
-<div class="contentasset" contentid="SEO_FOOTER">
-
+<div class="contentasset contentid_SEO_FOOTER" contentid="SEO_FOOTER">
 
 
-<div id="copyRight">© 2016 Easy Spirit. All rights reserved.</div>
+<div id="copyRight">© 2017 Easy Spirit. All rights reserved.</div>
 <div id="seocontent" style="text-align:center;">
 	<a href="http://www.easyspirit.com/dress-shoes-women/2881133,default,sc.html?ep_tag=zt_footDRESS" class="link notfirst">Dress Shoes</a>	
 	<a href="http://www.easyspirit.com/womens-casual-shoes/2881131,default,sc.html?ep_tag=zt_footCASUAL" class="link notfirst">Casual Shoes</a>
     <a href="http://www.easyspirit.com/clogs-mules-for-women/51777240,default,sc.html?ep_tag=zt_footmulesclogs" class="link notfirst">Mules &amp; Clogs</a>
-	<a href="http://www.easyspirit.com/booties-for-women/57118698,default,sc.html?ep_tag=zt_footbooties" class="link notfirst">Booties</a>
-	<a href="http://www.easyspirit.com/womens-boots-and-booties/64282378,default,sc.html?ep_tag=zt_footboots" class="link notfirst">Boots</a>
-	<a href="http://www.easyspirit.com/boot-and-booties-fit-guide/64282386,default,sc.html?ep_tag=zt_footbootguide" class="link notfirst">Boot Guide</a>
+	<a href="http://www.easyspirit.com/womens-wedges/52803851,default,sc.html?ep_tag=ZT_footWEDGES" class="link notfirst">Wedges</a>
+	<a href="http://www.easyspirit.com/comfortable-sandals-women/2881132,default,sc.html?ep_tag=zt_footSANDALS" class="link notfirst">Sandals</a>
         <a href="http://www.easyspirit.com/womens-walking-shoes-athletic/2881130,default,sc.html?ep_tag=zt_footAthletic" class="link notfirst">Athletic</a>     
 	<a href="http://www.easyspirit.com/traveltime-athletic-shoes-women/52146528,default,sc.html?ep_tag=zt_foottraveltime" class="link notfirst">Traveltime</a>
-	<a href="http://www.easyspirit.com/easy-collection/63209061,default,sc.html?ep_tag=zt_footEasyColl" class="link notfirst">Easy Collection</a>
 	<a href="http://www.easyspirit.com/wide-shoes-women/52744831,default,sc.html?ep_tag=zt_footWIDE" class="link notfirst">Wide Shoes</a>  
 	<a href="http://www.easyspirit.com/sale-womens-shoes/2881127,default,sc.html?ep_tag=zt_footSALE" class="link notfirst">Sale</a>
-	<a href="http://www.easyspirit.com/easy-spirit-gift-cards/2881146,default,sc.html?ep_tag=zt_footGc" class="link notfirst">Gift Cards</a>  
+
+</div>
+
+
 </div>
 
 
 
 </div>
-
-
-
-
-</div>
-
 
 <div class="clear"></div>
 </div>
@@ -2640,7 +2440,7 @@ function linkFunction() {
 
 
 <div id="pdqvHolder" style="width:100%;float:left;position:absolute;top:0;left:0;"><div id="centered" style="margin:auto;padding:auto;z-index:91;position:relative;"><div class="jag_popups" id="pdqv" style="text-align:left;"></div></div></div>
-<div id="popUps">
+<div id="popUps" class="popUps">
 <div id="minicartcontent">
 
 <div id="evShopBag" class="box2 minibagPopup minibagHolder easyviewer_minicart_empty app_fluidnwg">
@@ -2650,6 +2450,119 @@ function linkFunction() {
 </div>
 
 </div>
+
+	 
+
+
+	
+
+
+
+
+
+
+
+<div class="contentasset contentid_SHIPPING_TIP" contentid="SHIPPING_TIP">
+
+
+<style type="text/css">
+#taxesToolTipContent {display:none;}
+.ui-button {outline:0 none transparent;}
+body .ui-dialog {border-radius:0; padding:5px 5px 5px 25px; text-align:left; z-index:1002;}
+body .ui-dialog .ui-dialog-content {font-size:14px; min-height:65px !important; line-height:19px; padding:0; width:95% !important; overflow:visible !important;}
+body #dialog-overlay {background-color:#ffffff !important; opacity:0.5; z-index:1001;}
+a.tax-label.js-tax-info {cursor:pointer; text-decoration:underline;}
+a.shipping-label.js-shipping-info {cursor:pointer; text-decoration:underline;}
+#shippingTipHolder {float:left; padding:0 0 20px 0; width:100%;}
+#shippingInfoToolTipContent {display:none;}
+.tipHeader {color:#000000; float:left; font-size:17px; padding-bottom:5px; width:100%;}
+.tipText {float:left; width:100%;}
+.tipText p {float:left; width:100%; margin:0; padding:6px 0; font-size:12px; color:#000000;}
+.tipHR {float:left; height:0; border-top:solid 1px #cccccc; margin:20px 0 25px; width:100%;}
+.tipTblHolder {float:left; margin:10px 0; width:100%;}
+.tipTblCell {border:solid 1px #cccccc; float:left; padding:7px 0; width:24.8%; margin:-1px 0 0 -1px;}
+.shipDesc {color:#000000; float:left; font-size:13px; line-height:24px; text-align:center; width:100%;}
+.shipValue {color:#000000; float:left; font-size:13px; line-height:24px; text-align:center; width:100%;}
+.tipBtnHolder {float:left; width:100%;}
+.tipBtnClose {border:solid 1px #000000; cursor:pointer; float:left; background-color:#000000; color:#ffffff; height:35px; margin:25px 25% 0; text-align:center; text-transform:uppercase; width:50%; font-size:17px !important; letter-spacing:1px; outline:none; -webkit-appearance:none; -moz-appearance:none;}
+</style>
+<div id="shippingInfoToolTipContent">
+	<div id="shippingTipHolder">
+		<div class="tipHeader">Shipping</div>
+		<div class="tipText">
+			<p>Easy Spirit is only able to ship within the Continental United States, Hawaii and Alaska. Unfortunately at this time, we are not able to ship to the US Virgin Islands or other territories, Puerto Rico or Guam. We are unable to ship to PO Box or APO/DPO/military addresses.</p>
+			<p>Please note (for US shipments only):<br>If your order includes multiple items, they may ship from different locations, experience different travel times and will often arrive on different days.</p>
+			<p>If your order status is "Processing", we have received your order and we are locating your product. Depending upon order volume, this may take a few days. Please see below for approximate order processing times.</p>
+			<p>When your order leaves our warehouse you will be sent an email with a tracking number for your order.<br>Please note that it may take 24 hours before tracking information appears.</p>
+		</div>
+		<div class="tipHR"></div>
+		<div class="tipHeader">Shipping Options</div>
+		<div class="tipTblHolder">
+			<div class="tipTblCell">
+				<div class="shipDesc">5-7 business days</div>
+				<div class="shipValue">$5</div>
+			</div>
+			<div class="tipTblCell">
+				<div class="shipDesc">3-5 business days</div>
+				<div class="shipValue">$7</div>
+			</div>
+			<div class="tipTblCell">
+				<div class="shipDesc">2 business days</div>
+				<div class="shipValue">$15</div>
+			</div>
+			<div class="tipTblCell">
+				<div class="shipDesc">Next business day</div>
+				<div class="shipValue">$30</div>
+			</div>
+		</div>
+		<div class="tipText">
+			<p>5-7 business day delivery often requires the United States Postal Service (USPS) to make the final delivery. If USPS delivery is not an option for you, please select another delivery method.</p>
+			<p>Shipments will be processed the same day that the order is placed if credit card authorization is approved and it is received and authorized by noon EST.</p>
+			<p>Orders placed on a Saturday, Sunday, after noon (EST) on Friday, or on a holiday will begin processing on the next business day.</p>
+			<p>Deliveries are made Monday through Friday (except holidays).</p>
+			<p>Express deliveries must have signature for release.</p>
+			<p>Gift certificates are shipped separately and should arrive within 5-7 business days. If you need to express ship a gift certificate, please contact Customer Service.</p>
+		</div>
+	</div>
+</div>
+
+
+</div>
+
+
+
+
+
+
+ 
+	
+
+	 
+
+
+	
+
+
+
+
+
+
+
+<div class="contentasset contentid_TAX_TIP" contentid="TAX_TIP">
+
+
+<div id="taxesToolTipContent">Taxes will be calculated once your shipping information is entered in checkout.</div>
+
+
+</div>
+
+
+
+
+
+
+ 
+	
 </div>
 
 
@@ -2658,8 +2571,7 @@ function linkFunction() {
 
 
 
-<div class="contentasset" contentid="GOOGLE_REMARKET_NONSECURE">
-
+<div class="contentasset contentid_GOOGLE_REMARKET_NONSECURE" contentid="GOOGLE_REMARKET_NONSECURE">
 
 
 <!-- Google Code for Easy Spirit Remarketing Pixel - 6.28.12 Remarketing List
@@ -2697,7 +2609,6 @@ document.write('<img height="1" width="1" src="'+href+'"/>');}} try{rkg_track_si
 <!-- END RKG Attribution Management Tracking Tag -->
 
 
-
 </div>
 
 
@@ -2715,7 +2626,7 @@ winNamePar[2] = (jQuery('#productsgallery').size() > 0) ? '1' : '0'; // is viewa
 window.name = winNamePar.join('-');
 //--></script></span>
 
-<input type="hidden" name="ajaxToken" id="ajaxToken" value="1ak7au1z9ydc7cvexg5lph">
+<input type="hidden" name="ajaxToken" id="ajaxToken" value="dc9h5y6f9c6lwd8q7zlqa">
 </div>
 
 
@@ -2723,12 +2634,10 @@ window.name = winNamePar.join('-');
 
 
 
-<div class="contentasset" contentid="COOKIE_TEST">
-
+<div class="contentasset contentid_COOKIE_TEST" contentid="COOKIE_TEST">
 
 
 <div id="cookietest"></div>
-
 
 
 </div>
@@ -2751,7 +2660,6 @@ document.getElementById("cookietest").innerHTML = "<b>ATTENTION:</b> You need to
 
 
 <!-- Demandware Analytics code 1.0 (body_end-analytics-tracking-asynch.js) -->
-<script type="text/javascript" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/internal/jscript/dwanalytics-16.9.js" async="async" onload="trackPage()"></script>
 <script type="text/javascript">//<!--
 /* <![CDATA[ */
 function trackPage() {
@@ -2767,8 +2675,10 @@ function trackPage() {
 }
 /* ]]> */
 // -->
-</script><!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1479704665242/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
-<script src="//cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
+</script>
+<script type="text/javascript" src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/internal/jscript/dwanalytics-16.9.js" async="async" onload="trackPage()"></script>
+<!-- Demandware Active Data (body_end-active_data.js) -->
+<script src="http://demandware.edgesuite.net/aaca_prd/on/demandware.static/Sites-easyspirit-Site/-/default/v1496636064057/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 </body></html>
