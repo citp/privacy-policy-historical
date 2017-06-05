@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indusladies.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123164346id_/http%3A//www.indusladies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indusladies.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606010257id_/http%3A//www.indusladies.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Indusladies.com
 
 By visiting and using the [www.IndusLadies.com](http://www.indusladies.com/) website (“IndusLadies”) you acknowledge you have read and agree to be bound by the Privacy Policy contained in this document. If you do not wish to agree to the Privacy Policy, please close this browser session and refrain from using IndusLadies.
 
