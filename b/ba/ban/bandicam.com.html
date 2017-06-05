@@ -1,27 +1,20 @@
-<!--The following is the downloaded HTML source of the bandicam.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119034004id_/http%3A//www.bandicam.com/support/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bandicam.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606005911id_/http%3A//www.bandicam.com/company/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-    <title>Bandisoft/Bandicam Privacy Policy</title>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-	
-    <meta property="fb:admins" content="100001679068610">
-    <meta property="fb:app_id" content="145049605586133">
-    <meta property="og:type" content="website">
-    <meta property="og:image" content="https://www.bandicam.com/img/1200x630-bandicam-pack.png">
-    <meta property="og:image:height" content="1200">
-    <meta property="og:image:width" content="630">    
-    <meta property="og:title" content="Bandicam - Game Recording Software, Screen Recorder">
-    <meta property="og:description" content="Bandicam is the most advanced game recorder and screen recorder and webcam recorder on the planet. Try our screen recording software to capture screen on your PC!">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="msapplication-config" content="none">
+    <title>Bandicam Company Privacy Policy</title>
 
-    <link rel="home" href="/">
-    <link rel="canonical" href="https://www.bandicam.com/support/privacy/">
-    <link rel="stylesheet" type="text/css" href="//static.bandicam.com/style.min.css?20160902">
-	<!--link rel="stylesheet" type="text/css" href="/style.css?20160825" /-->
-    
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//static.bandicam.com/js/jquery-1.8.3.custom.min.js"></script><script type="text/javascript">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="//do4p79iyorcrd.cloudfront.net/style.min.css?20161221">
+	<!--link rel="stylesheet" type="text/css" href="/style.css?20161208" /-->	
+    <link rel="dns-prefetch" href="//static.bandicam.com">	
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Bandicam">
+    <meta name="keywords" content="Privacy Policy, privacy">
+    <meta name="description" content="Bandicam Company respects your right to privacy. You may browse and access information contained in certain parts of this website without providing...">
+	<meta name="msapplication-config" content="none">
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//do4p79iyorcrd.cloudfront.net/js/jquery-1.8.3.custom.min.js"></script><script type="text/javascript">
 	function loadScript(src, callback)
 	{
 		var s, r, t;
@@ -50,12 +43,12 @@
 	{
 		$("#slides").slidesjs({
 			start: Math.floor((Math.random()*3)+1),
-			width: 750,
-			height: 380,
+			width: 970,
+			height: 800,
 			play: {         
 				auto: true,
 				pauseOnHover: true,
-				interval: 4000      
+				interval: 6000      
 			}
 		});
 	}
@@ -70,23 +63,23 @@
     		{
 				loadScript("//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js", onLoaded_Adsense);
 			}
-        			
 			/* Load social.js */
 			if($("fb\\:like").length || $(".fb-like").length || $("fb\\:comments").length || $("g\\:plusone").length)
 			{
-				loadScript("//static.bandicam.com/js/social.js", null);
+				loadScript("//do4p79iyorcrd.cloudfront.net/js/social.js", null);
 			}
+		
 			
 			/* Load magnific-popup.min.js */
-			if($(".popup-gallery").length)
+			if($(".popup-gallery").length || $(".popup-youtube").length)
 			{				
-				loadScript("//static.bandicam.com/js/jquery.magnific-popup.min.js", null);
+				loadScript("//do4p79iyorcrd.cloudfront.net/js/jquery.magnific-popup.min.js", null);
             }
 
 			/* Load jquery.slides.min.js */
 			if($("#slides").length)
 			{
-				loadScript("//static.bandicam.com/js/jquery.slides.min.js", onLoaded_Slide);
+				loadScript("//do4p79iyorcrd.cloudfront.net/js/jquery.slides.min.js", onLoaded_Slide);
 			}
 
 			/* scroll-up */
@@ -101,23 +94,7 @@
 				$("html, body").animate({ scrollTop: 0 }, 600);
 				return false;
 			});
-
-			/* Head Hight Change */
-			var sticky_navigation_offset_top = $('#Header').offset().top;
-			var sticky_navigation = function () {
-				var scroll_top = $(window).scrollTop();
-
-				if (scroll_top > sticky_navigation_offset_top + 50) {
-					$('#Header').removeClass('nav_default').addClass('nav_fixed');
-				} else {
-					$('#Header').removeClass('nav_fixed').addClass('nav_default');
-				}
-			};
-			sticky_navigation();
-			$(window).scroll(function () {
-				sticky_navigation();
-			});
-
+			
 			/* Languqge Select */
 			function runEffect() {                
 				$("#Language-Select-Box").toggle("blind", 200, 500);
@@ -141,119 +118,80 @@
 				    $(".exp1").hide();
 				}
 			});
+			
+        });
+    }
+    
+    function onInput(obj) {
+        obj.value = "";
+    }
 
-			/* Jquery Copy */
-			$("div#Wrapper").addcopyright({ htmlcopytxt: '<br><br>Read more: <a href="https://www.bandicam.com/" title="Bandicam Screen Recorder">https://www.bandicam.com/</a>', minlen: 30, addcopyfirst: false });
-		});
-	}
+    function setFocus(itemID) {
+        if (document.getElementById(itemID)) {
+            document.getElementById(itemID).className = "Menu_Selected";
+        }
+    }
+    function killFocus(itemID) {
+        if (document.getElementById(itemID)) {
+            document.getElementById(itemID).className = "";
+        }
+    }	            
 
-	loadScript("//static.bandicam.com/js/jquery-1.8.3.custom.min.js", onLoaded_JQuery);
-    </script>
+	loadScript("//do4p79iyorcrd.cloudfront.net/js/jquery-1.8.3.custom.min.js", onLoaded_JQuery);
+    </script>  
 </head>
 <body id="Sub" class="US">
 
-	<script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+<!-- goggle analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-		ga('create', 'UA-20339103-2', 'www.bandicam.com');
-		ga('send', 'pageview');
+  ga('create', 'UA-20339103-2', 'bandicam.com');
+  ga('send', 'pageview');
+</script>
 
-		// Load the plugin.
-		ga('require', 'linker');
-		// Define which domains to autoLink.
-		ga('linker:autoLink', ['secure.avangate.com']);
-	</script>
-	
-	<script type="text/javascript">
-	function onInput(obj) {
-	    obj.value = "";
-	}
 
-	function setFocus(itemID) {
-
-	    if (document.getElementById(itemID)) {
-		document.getElementById(itemID).className = "Menu_Selected";
-	    }
-	}
-    </script>
-<div id="Header" class="nav_default">
-
+<div id="Header" class="Company">
+	<div id="Topmenu">
+	<div class="Inner-Spec">
+    <ul>
+        <li id="Topmenu-bandicam"><a href="/">Bandicam Screen Recorder</a></li>
+        <li id="Topmenu-bandicut"><a href="/bandicut-video-cutter/">Bandicut Video Cutter</a></li>
+        <li id="Topmenu-sdk"><a href="/company/sdk/">SDK</a></li>
+        <li id="Topmenu-forum"><a href="//forum.bandicam.com/">Forum</a></li>
+        <li id="Topmenu-contact"><a href="/company/">About</a></li>
+    </ul>
+    <div id="Topmenu-Banner">
+    <a href="//www.bandicam.com/buy/package/">SAVE UP TO <b>28% OFF</b></a>
+    </div>
+</div>	</div>
     <div id="Header-Inner" class="Inner-Spec">
 	    <div id="Brand">
-            <a href="/" title="Bandicam - Game Recording Software, Screen Recorder">Bandicam - Game Recording Software, Screen Recorder</a>
+            <a href="/company/"></a>
         </div>	
-        <ul id="Menu">
-    <li><a href="/" id="nav_item_home" title="Bandicam - Game Recording Software and Screen Recorder">Home</a></li>
-	<li><a href="/support/screenshot/" id="nav_item_screenshot" title="Bandicam Screenshot">Screenshot</a></li>
-	<li><a href="/product/" id="nav_item_tutorial" title="Game Recording / Screen Recording Tutorial">Tutorial</a></li>
-	<li><a href="/downloads/" id="nav_item_download" title="Software Download" class="Menu_Selected">Download</a></li>
-	<li><a href="/buy/" id="nav_item_buy" title="Buy Bandicam">Buy Now</a></li>
-	<li><a href="/faqs/" id="nav_item_product" title="Support">Support</a></li>
-	<li><a href="//forum.bandisoft.com/" id="nav_item_forum" target="bandisoft_forum" title="Forum">Forum</a></li>
-</ul>         <div id="Language-Menu-Box">
+        <ul id="Menu">    
+		    <li><a href="/company/" id="nav_item_about" title="About">About</a></li>
+			<li><a href="/company/news/" id="nav_item_news" title="News">News</a></li>
+			<li><a href="/company/sdk/" id="nav_item_sdk" title="SDK">SDK</a></li>			
+			<li><a href="/company/contact/" id="nav_item_contact" title="Contact">Contact</a></li>
+		</ul>
+
+         <div id="Language-Menu-Box">
             <div id="Language-Menu-Inner">
                 <a href="#" id="Language" class="img_flag now_flag" title="Click to select language">English</a>
                 <div id="Language-Select-Box" class="blR brR">
 
-                    <ul id="Language-Select">
-					                        <li><a href="/us/"><div class="Lang-Txt">English</div><div class="img_flag us_flag"></div></a></li>  
-                        <li><a href="/jp/"><div class="Lang-Txt">日本語</div><div class="img_flag jp_flag"></div></a></li>       
-                        <li><a href="/de/"><div class="Lang-Txt">Deutsch</div><div class="img_flag de_flag"></div></a></li>                 
-                        <li><a href="//www.bandicam.co.kr"><div class="Lang-Txt">한국어</div><div class="img_flag kr_flag"></div></a></li>    
-                        <li><a href="/cn/"><div class="Lang-Txt">中文(简体)</div><div class="img_flag cn_flag"></div></a></li>
-                        <li><a href="http://www.bandicam.com.tw"><div class="Lang-Txt">中文(繁體)</div><div class="img_flag tw_flag"></div></a></li>
-                    </ul>
-                    <div class="clear"></div>
-                     
-                    <ul id="Language-Select-Global">
-                        <li><a href="/ru/" class="img_flag ru_flag" title="русский">русский</a></li>
-                        <li><a href="/es/" class="img_flag es_flag" title="Español">Español</a></li>
-                        <li class="rside"><a href="/br/" class="img_flag br_flag" title="Português">Português</a></li>
-
-                        <li><a href="/pl/" class="img_flag pl_flag" title="polski">polski</a></li>
-                        <li><a href="/se/" class="img_flag se_flag" title="svenska">svenska</a></li>
-                        <li class="rside"><a href="/nl/" class="img_flag nl_flag" title="Nederlands">Nederlands</a></li>
-
-                        <li><a href="/fr/" class="img_flag fr_flag" title="français">français</a></li>
-                        <li><a href="/ua/" class="img_flag ua_flag" title="Україна">Україна</a></li>
-                        <li class="rside"><a href="/id/" class="img_flag id_flag" title="Bahasa Indonesia">Bahasa Indonesia</a></li>
-
-                        <li><a href="/it/" class="img_flag it_flag" title="italiano">italiano</a></li>
-                        <li><a href="/tr/" class="img_flag tr_flag" title="Türkçe">Türkçe</a></li>
-                        <li class="rside"><a href="/no/" class="img_flag no_flag" title="norsk">norsk</a></li>
-
-                        <li><a href="/dk/" class="img_flag dk_flag" title="dansk">dansk</a></li>
-                        <li><a href="/fi/" class="img_flag fi_flag" title="suomi">suomi</a></li>
-                        <li class="rside"><a href="/bg/" class="img_flag bg_flag" title="Български">Български</a></li>
-
-                        <li><a href="/sk/" class="img_flag sk_flag" title="slovenčina">slovenčina</a></li>
-                        <li><a href="/si/" class="img_flag si_flag" title="slovenščina">slovenščina</a></li>
-                        <li class="rside"><a href="/ro/" class="img_flag ro_flag" title="română">română</a></li>
-
-                        <li><a href="/vn/" class="img_flag vn_flag" title="tiếng Việt">tiếng Việt</a></li>
-                        <li><a href="/rs/" class="img_flag rs_flag" title="српски">српски</a></li>
-                        <li class="rside"><a href="/gr/" class="img_flag gr_flag" title="Ελληνικά">Ελληνικά</a></li>
-
-                        <li><a href="/cz/" class="img_flag cz_flag" title="čeština">čeština</a></li>
-                        <li><a href="/sa/" class="img_flag sa_flag" title="العربية">العربية</a></li>
-                        <li class="rside"><a href="/az/" class="img_flag az_flag" title="Azerbaijan">Azerbaijan</a></li>
-
-                        <li><a href="/ba/" class="img_flag ba_flag" title="bosanski">bosanski</a></li>
-                        <li><a href="/ge/" class="img_flag ge_flag" title="საქართველო">საქართველო</a></li>
-                        <li class="rside"><a href="/hr/" class="img_flag hr_flag" title="hrvatski">hrvatski jezik</a></li>
-
-                        <li><a href="/ir/" class="img_flag ir_flag" title="فارسی">فارسی</a></li>                        
-                        <li><a href="/th/" class="img_flag th_flag" title="Tailand">Tailand</a></li>
-                        <li class="rside"><a href="/am/" class="img_flag am_flag" title="հայերէն">հայերէն</a></li>
-
-                        <li><a href="/w/" class="more_flag" title="See more">»</a></li>
+                    <ul id="Language-Select" style="border:none;">
+					                        <li><a href="/company/"><div class="Lang-Txt">English</div><div class="img_flag us_flag"></div></a></li>
+						<li><a href="/company/jp/"><div class="Lang-Txt">日本語</div><div class="img_flag jp_flag"></div></a></li>
+                        <li><a href="//www.bandicam.co.kr/company/"><div class="Lang-Txt">한국어</div><div class="img_flag kr_flag"></div></a></li>
                     </ul>
                     
-                    <a href="#" id="Language1" class="lang-close" title="Close">∧</a>
-
+					<a href="#" id="Language1" class="lang-close" title="Close">∧</a>
+					
                 </div>
             </div>
         </div>
@@ -266,34 +204,18 @@
 <div class="clear"><hr></div>
 
 <!-- Body Start -->
-<div id="Wrapper"><script type="text/javascript">setFocus("nav_item_download");
-</script><script type="text/javascript"><!--
-document.title = "Bandisoft/Bandicam Privacy Policy"; 
---></script>
-
+<div id="Wrapper">
 <!-- Begin Context -->
 <div id="Context">
-<div id="TitleBar">
-  <div id="TitleBar-Inner" class="Inner-Spec">
-      <div id="TopHelpSrch-Box">
-      <form id="searchbox" action="/support/search/" class="TopHelpSrch SmallForm">
-      <input id="q" name="q" value="Help Keyword Search" size="50" type="text" onclick="onInput(this)" class="FormInput tlR blR">
-      <input value="Search" name="" type="submit" class="FormBtn trR brR">
-      </form>
-      </div>
-      <h1>Bandisoft/Bandicam Privacy Policy</h1>
-  </div>
-</div>
+<h1>Bandicam Company Privacy Policy</h1>
 
- * Bandisoft/Bandicam Privacy Policy
-
-Bandisoft respects your right to privacy. You may browse and access information contained in certain parts of this website without providing any personal information. 
+"Bandicam Company" respects your right to privacy. You may browse and access information contained in certain parts of this website without providing any personal information. 
 However, some sections of this website require you to provide personal information in order to provide services that you request, and so the following privacy statement explains collection, dissemination and use of your personal data in those situations. 
 This information may be expanded or updated as we change or develop our site. For this reason, we recommend that you review this policy from time to time to see if anything has changed. 
 <br><br>
 
 <h2>Cookies</h2>
-Bandisoft uses a cookie to store your visiting and referrer information. A cookie is a small text file, stored on your computer's hard drive, that can be read by our system when you return to our site.
+"Bandicam Company" uses a cookie to store your visiting and referrer information. A cookie is a small text file, stored on your computer's hard drive, that can be read by our system when you return to our site.
 Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. 
 
 <br><br>
@@ -323,23 +245,22 @@ We maintain reasonable and appropriate security procedures, but we cannot guaran
 
 <h2>Disclosures</h2>
 Other than the disclosures referred to in this policy, we will not disclose any personal information without your permission unless we are legally obliged or entitled to do so.
-We will only disclose your personal information to a third party either as part of a reorganization or a sale of the assets of Bandisoft, and/or having ensured that steps have been taken to ensure that your privacy rights continue to be protected.
+We will only disclose your personal information to a third party either as part of a reorganization or a sale of the assets of "Bandicam Company", and/or having ensured that steps have been taken to ensure that your privacy rights continue to be protected.
 
 <br><br>
 
 <h2>Forum</h2>
 We offer you the ability to post information and exchange ideas. All users shouldn't disclose any personal information as part of their posts, even if requested to do so by other posters. 
-Bandisoft will not be responsible in the event that you disclose personal information in your posts or during any other communication with other site users. 
+"Bandicam Company" will not be responsible in the event that you disclose personal information in your posts or during any other communication with other site users. 
 
 <br><br>
 
 <h2>Changes</h2>
-Bandisoft will occasionally update this Privacy Policy to reflect company and customer feedback or changes to privacy legislation. We encourage you to periodically review this Privacy Policy to be informed of how Bandisoft is protecting your personal information.
+"Bandicam Company" will occasionally update this Privacy Policy to reflect company and customer feedback or changes to privacy legislation. We encourage you to periodically review this Privacy Policy to be informed of how "Bandicam Company" is protecting your personal information.
 
 <br><br>
 <b>* Related FAQ</b><br>
-- <a href="/support/tos/"><u>End User License Agreement and Terms of Service</u></a> <br>
-- <a href="/support/privacy/"><u>Bandisoft/Bandicam Privacy Policy</u></a><br><br>
+- <a href="/company/tos/"><u>End User License Agreement and Terms of Service</u></a> <br>
   
 </div> 
 <div class="clear"></div>
@@ -355,84 +276,28 @@ Bandisoft will occasionally update this Privacy Policy to reflect company and cu
         
 <!-- Footer -->
 <div id="Footer">
-   
-    <div id="Foot-Menu-Outter">
-        <div id="Foot-Menu">
-            <a href="/" title="Bandicam - Game Recording Software and Screen Recorder">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-            <a href="/downloads/">Download</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-            <a href="/buy/">Buy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-            <a href="/product/">Tutorial</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-            <a href="/faqs/">FAQs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-            <a href="//forum.bandisoft.com/">Forum</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-            <a href="/faqs/contact/">Contact</a>
-        </div>
+    <div id="Footer-Inner" class="Inner-Spec" style="padding-bottom:15px;"> 
+        <a href="/">Bandicam Screen Recorder</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+        <a href="/bandicut-video-cutter/">Bandicut Video Cutter</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+        <a href="/company/sdk/">SDK</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+        <a href="/forum/">Forum</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+        <a href="/company/">About</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+        <a href="/company/contact/">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+        <a href="/company/tos/">EULA</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+        <a href="/company/privacy/">PRIVACY POLICY</a>
+        <br><br>
+        
+        <address>Copyright © 2008-2017 <a href="/company/" title="Click to learn about Bandicam's developer">Bandicam Company</a>. All rights reserved.</address>
+
+         
     </div>
 
-    <div id="Footer-Inner" class="Inner-Spec"> 
-        <div id="Footer-left"> 
-            <ul id="Foot-Copy">
-                <li><a href="/support/tos/">EULA</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="/support/privacy/">PRIVACY POLICY</a></li>
-                <li>E-Mail: <a href="mailto:bandicam@bandisoft.com">bandicam@bandisoft.com</a> <!-- Bitte schicken Sie uns Ihre E-Mail auf Englisch. ---></li>
-                <li><address>Copyright © 2008-2016 <a href="//www.bandisoft.com/" target="bandisoft" title="Click to learn about Bandicam's developer, Bandisoft">Bandisoft</a>. All rights reserved.</address></li>
-                            
-            </ul>
-        </div>
-
-        <div id="Footer-right">
-
-            <div id="Foot-lang">
-                <a href="/us/">English</a>&nbsp;·
-                <a href="/jp/">日本語</a>&nbsp;·
-                <a href="/de/">Deutsch</a>&nbsp;·
-                <a href="//www.bandicam.co.kr">한국어</a>&nbsp;·          
-                <a href="/cn/">中文(简体)</a>&nbsp;·
-                <a href="http://www.bandicam.com.tw">中文(繁體)</a>&nbsp;·
-                
-                <select id="siteTarget" name="target" class="dropmenu" onchange="window.location=document.getElementById('siteTarget').options[document.getElementById('siteTarget').selectedIndex].value;return false">
-                    <option selected="selected" value="">Other Languages</option>
-                    <option value="/az/">Azərbaycanca</option>
-                    <option value="/ba/">bosanski</option>
-                    <option value="/bg/">Български</option>
-                    <option value="/br/">Português </option>
-                    <option value="/cz/">čeština</option>
-                    <option value="/dk/">dansk</option>
-                    <option value="/es/">Español</option>
-                    <option value="/fi/">suomi</option>
-                    <option value="/fr/">français</option>
-                    <option value="/ge/">ქართული ენა</option>
-                    <option value="/gr/">Ελληνική</option>
-                    <option value="/hr/">hrvatski jezik</option>
-                    <option value="/id/">Bahasa Indonesia</option>
-                    <option value="/ir/">فارسی</option>
-                    <option value="/it/">italiano</option>
-                    <option value="/nl/">Nederlands</option>
-                    <option value="/no/">norsk</option>
-                    <option value="/pl/">polski</option>
-                    <option value="/ro/">română</option>
-                    <option value="/rs/">српски</option>
-                    <option value="/ru/">русский</option>
-                    <option value="/sa/">العربية</option>
-                    <option value="/se/">svenska</option>
-                    <option value="/si/">slovenščina</option>
-                    <option value="/sk/">slovenčina</option>
-                    <option value="/tr/">Türkçe</option>
-                    <option value="/ua/">українська</option>
-                    <option value="/vn/">tiếng Việt</option>
-                </select>
-            </div>
-            <div class="clear"></div>
-
-            <div id="SNS-Channels">
-            <a href="https://www.facebook.com/bandisoft" id="fb" target="_blank" title="Become a fan"></a><a href="https://twitter.com/bandisoft" id="tw" target="_blank" title="Follow us"></a><a href="https://google.com/+bandicam" id="gl" target="_blank" title="Follow us"></a>
-            </div>
-            <div id="SNS-Count">
-              <!--div class="fb-like" data-href="https://www.bandicam.com" data-width="400" data-layout="standard" data-action="like" data-colorscheme="dark" data-show-faces="false" data-share="false"></div-->
-            </div>
-
-        </div>
-                
-        <div class="clear"></div>
+    <div id="SNS-Channels">
+    <a href="https://www.facebook.com/bandicam" id="fb" target="_blank" title="Become a fan"></a><a href="https://twitter.com/bandicam" id="tw" target="_blank" title="Follow us"></a><a href="https://google.com/+bandicam" id="gl" target="_blank" title="Follow us"></a>
     </div>
+    <!--div id="SNS-Count">
+        <div class="fb-like" data-href="https://www.bandicam.com" data-width="400" data-layout="standard" data-action="like" data-colorscheme="dark" data-show-faces="false" data-share="false"></div>
+    </div-->
 </div>
 <!-- Footer -->
 
