@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reecenichols.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019185155id_/http%3A//www.reecenichols.com/pages/home-match-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reecenichols.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606010638id_/http%3A//www.reecenichols.com/pages/home-match-privacy-policy) for the most accurate reproduction.*
 
 # Home Match Privacy Policy
 
