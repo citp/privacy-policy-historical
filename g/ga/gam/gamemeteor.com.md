@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamemeteor.com privacy policy that was archived on 2016-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161001192342id_/http%3A//www.gamemeteor.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamemeteor.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606002151id_/http%3A//www.gamemeteor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -144,4 +144,4 @@ VAT# : NL852554564B01
 
 \- End -
 
-Â© Flora ICT B.V.
+© Flora ICT B.V.
