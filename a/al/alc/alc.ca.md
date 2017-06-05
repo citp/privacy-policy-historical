@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alc.ca privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122090851id_/http%3A//corp.alc.ca/LegalPrivacy.aspx%3Frdr%3Dtrue%26LangType%3D1033%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alc.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012343id_/http%3A//corp.alc.ca/LegalPrivacy.aspx%3Frdr%3Dtrue%26LangType%3D1033%23privacy) for the most accurate reproduction.*
 
 # Atlantic Lottery – Richer Moments / Loto Atlantique – Moments plus Riches
 
@@ -190,7 +190,7 @@ In keeping with its mission, vision and values, AL has implemented reasonable pl
 
 _Last Updated: September 20, 2013_
 
-Atlantic Lottery (“AL”, “we”, “us”) takes your right to privacy seriously.  You have a right to know what we do with your personal information and we want to make sure you understand the choices available to you when we collect it.  [Canada’s Personal Information Protection and Electronic Documents Act (PIPEDA)](http://laws.justice.gc.ca/eng/P-8.6/page-1.html "Canada’s Personal Information Protection and Electronic Documents Act \(PIPEDA\)") applies to Atlantic Lottery and directs how we can use your personal information.  Our commitment to privacy is based upon the 10 principles outlined in PIPEDA and this privacy notice demonstrates how we abide by these principles.  It explains:  
+Atlantic Lottery (“AL”, “we”, “us”) takes your right to privacy seriously.  You have a right to know what we do with your personal information and we want to make sure you understand the choices available to you when we collect it.  [Canada’s Personal Information Protection and Electronic Documents Act (PIPEDA)](http://laws-lois.justice.gc.ca/eng/acts/P-8.6/index.html "Canada’s Personal Information Protection and Electronic Documents Act \(PIPEDA\)") applies to Atlantic Lottery and directs how we can use your personal information.  Our commitment to privacy is based upon the 10 principles outlined in PIPEDA and this privacy notice demonstrates how we abide by these principles.  It explains:  
 
 
 -what information we collect, why we collect it and how we use it;  
@@ -338,7 +338,7 @@ Our sites may contain links to other websites. Please be aware that privacy poli
 
 ## Online Research – “Atlantic Lottery Insiders” panel 
 
-In coordination with our research suppliers, Atlantic Lottery runs an online research panel called “Atlantic Lottery Insiders” [[www.alcinsiders.ca](http://www.alcinsiders.ca/)]. Through this venue we collect online market research, in accordance with MRIA standards and Canada’s Personal Information Protection and Electronic Documents ACT (PIPEDA). The voluntary information we collect from online research is used to help Atlantic Lottery bring better products and services to Atlantic Canadians. Please know that the information you provide, along with your responses to any online survey conducted by Atlantic Lottery is kept confidential. Your identity cannot be mapped back to your survey responses. Communication with Atlantic Lottery surrounding the panel will only contain information regarding participation or information on or around past or future research projects. 
+In coordination with our research suppliers, Atlantic Lottery runs an online research panel called “Atlantic Lottery Insiders” [[www.alcinsiders.com](http://www.alcinsiders.com/ "www.alcinsiders.com")]. Through this venue we collect online market research, in accordance with MRIA standards and Canada’s Personal Information Protection and Electronic Documents ACT (PIPEDA). The voluntary information we collect from online research is used to help Atlantic Lottery bring better products and services to Atlantic Canadians. Please know that the information you provide, along with your responses to any online survey conducted by Atlantic Lottery is kept confidential. Your identity cannot be mapped back to your survey responses. Communication with Atlantic Lottery surrounding the panel will only contain information regarding participation or information on or around past or future research projects. 
 
 ## Important Information
 
