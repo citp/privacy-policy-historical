@@ -1,72 +1,68 @@
-> *The following text is extracted and transformed from the routesms.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127065152id_/http%3A//www.routemobile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routesms.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606004122id_/http%3A//www.routemobile.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | RouteMobile
+# Privacy Policy - Route Mobile
 
-This privacy policy sets out how RouteSms Solutions Limited (registered number: U72900MH2004PLC146323) whose registered office is at 4th Floor, Office 401 , Evershine Mall Mind Space New Link Road , Malad ( West ) Mumbai 400064 (“Us” “We” “Our”) uses and protects any information that You give Us when You use this website (referred to as the “Website”).
+**Route Mobile Limited** and its affiliated Companies (Collectively known as “RML”) is sensitive to privacy issues on the Internet. We believe it is important to you to know how we treat the information we receive from you, while visiting RML websites. This privacy policy has been compiled to better serve those who are concerned with how their ‘Personal Information’ (“PI”) is being used online. PI, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personal Information in accordance with our website.
 
-We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, and then you can be assured that it will only be used in accordance with this privacy statement?
+* ##### 1\. What personal information do we collect from the people that visit our website, blog or app?
 
-We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+When registering on our site, as appropriate, you may be asked to enter your name, email address, phone number, Company Name, Country, queries or other details to help you with your experience.
 
-01\. What we collect
+While sharing personal information, you recognize and understand that there is no compulsion on you to provide us with your personal information and any and all personal information provided by you to us is with your full consent, own volition and desire to provide such personal information. You also understand that we are under no obligation to verify the source from which the personal information about you is provided to us, and they are deemed to be provided by you, unless you demonstrate to us within a period of fifteen days from the date of providing of such information to us, to our satisfaction, that the information was provided to us without your free consent.
 
-We may collect the following information :
+* ##### 2\. When do we collect information?
 
-  * Name and Job title
-  * Contact information including email address
-  * Credit or Debit Card Information
-  * Mobile Telephone Number and Network details
-  * Other information relevant to customer surveys and/or offers
+We collect information from you when you fill out a form or enter information on our website.
 
+* ##### 3\. How do we use your information?
 
+We may use the information:
 
-02\. What we do with the information
-
-We gather we require this information to understand your needs and provide You with a better service, and in particular for the following reasons :
-
-  * Your information will enable us to provide you with the access to all parts of Our Website and to supply the goods or services you have requested.
-  * Your information will also enable us to bill you and to contact you where necessary concerning your orders and your ongoing account with us.
-  * We may use the information to administer, improve and develop our products and services.In particular, we may use the information to contact you for your views on our services and to notify you occasionally about important changes or developments to the Website or Our services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the Website according to your interests. Internal record keeping
+  * i) To follow up after correspondence (email or phone inquiries);
+  * ii) To understand your requirements;
+  * iii) To send you promotional emails;
+  * iv) To research and update the services as per your requirement;
+  * v) To serve you better.
 
 
+* ##### 4\. How do we protect your information?
 
-03\. Security
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible. We secure your personal information through regular malware scanning.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. We will retain your information for a reasonable period or as long as the law requires.
+Your personal information is secured behind networks which is accessible to a limited Company Personnel who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. 
 
-04\. How we use cookies
+We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
 
-  * A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to You as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-  * We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve Our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-  * Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-  * You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+Also, all transactions are processed through a gateway provider which are not stored or processed on our servers.
+
+* ##### 5\. Do we use'cookies'?
+
+Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we may use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We may also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+We may use cookies to:
+
+  * • Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
 
 
-05\. Links to other websites
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+If users disable cookies in their browser:
 
-06\. Controlling your personal information
+some features will be disabled. Some of the features that make your site experience more efficient and may not function properly.
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+* ##### 6\. Third-party disclosure
 
-Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
-If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us  
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+We do not sell, trade, or otherwise transfer to outside parties your Personal Information.
 
-07\. Accessing and updating
+* ##### 7\. Third-party links
 
-You are entitled to see the information held about you and you may ask Us to make any necessary changes to ensure that it is accurate and kept up to date.  
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable.
+We do not include or offer third-party products or services on our website.
 
-08\. Contact
+* ##### 8\. Other Websites Link
 
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to:
+RML Web site may contain links to other sites such as RML partners and affiliates. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by other sites.
 
-The Data Security Manager  
-Office 401, Evershine Mall, Mind Space,  
-New Link Road, Malad ( West ), Mumbai 400064  
-Email: support@routesms.com, Phone no: +91 22 40337676-99
+##### CONTACTING US
+
+If there are any questions regarding this privacy policy, you may contact us using the Contact us page available on the website.
