@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedding.com.my privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205084655id_/http%3A//www.wedding.com.my/content/12-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedding.com.my privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012814id_/http%3A//www.wedding.com.my/content/12-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Malaysia Best Wedding Shop & E-Commerce Website
 
