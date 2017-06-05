@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basementsystems.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130161351id_/http%3A//www.basementsystems.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basementsystems.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605081300id_/http%3A//www.basementsystems.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement by Basement Systems for Customers and Site Visitors
 
