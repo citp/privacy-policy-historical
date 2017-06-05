@@ -1,103 +1,81 @@
-> *The following text is extracted and transformed from the easily.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201623id_/http%3A//easily.co.uk/index.php3%3Fexe%3Dterms%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easily.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606002734id_/https%3A//easily.co.uk/privacypolicy.php) for the most accurate reproduction.*
 
 # Easily Privacy Policy
 
-| 
+PRIVACY POLICY
 
-This website is provided by Easily Limited (also known as "Easily.co.uk").
+INTRODUCTION
 
-Easily Limited (hereinafter referred to as Easily) is committed to protecting the privacy of its customers. This privacy policy applies to the websites managed by Easily (including but not limited to Easily.co.uk and all subdomains of these) as well as the services and products provided through those sites. From to time we may make alterations to our website and to the products and services provided through it. This, and our commitment to protecting the privacy of your personal information may result in periodic changes to the privacy policy. Any such changes will be posted on this page and we would ask that you refer back to it regularly in order to review any amendments.
+1.    This is the privacy policy of Easily Limited (company number 03900580, with registered office at 25 Canada Square, Canary Wharf, London E14 5LQ) (hereinafter “Easily” or “We”) (the "Privacy Policy"). 
 
-Use of the Easily websites and services indicates your consent to the collection and use of information as described below.
+2.    Easily is a domain name registrar and registers domain names throughout the world in compliance with rules adopted by domain name regulatory entities.  The purpose of this Privacy Policy is to tell our customers (i.e. any individual customer contracting with us, hereinafter "You") how We process personal data (i.e. data about any identified or identifiable living person) in the course of the services We provide to fulfil our customers’ orders. Easily is the processor of your personal data.
 
-Any questions which you may have regarding this privacy policy should be directed to [helpdesk@easily.co.uk](mailto:helpdesk@easily.co.uk)
+3.    This Privacy Policy only applies to personal data submitted by customers of Easily.
 
-* * *
+  
+WHAT PERSONAL DATA DO WE COLLECT?
 
-1.What information is collected and how is it used?
+4.    When You place an order for the registration of a domain name and/or when You correct or update registration information, You are required to provide information such as your first name, last name, postal address, fax number (where available), e-mail address and telephone number. All such information is mandatory to provide the service requested unless otherwise stated at the time. You shall also be required to provide the name, postal address, fax number (where available), e-mail address and telephone number of the technical, administrative and billing contacts associated with the domain name. Once the domain name has been registered, our terms and conditions require You to correct and update this information promptly. 
 
-We ask you to supply certain information when you sign up with us as a customer. This information includes your name, the name of your business (if applicable), your postal address, email address, telephone number, fax number (if applicable) and how you heard of us. This information will be used in the management of our own database and to enable us to contact you about the service you have requested (for example, to confirm the registration of a domain name or to inform you of the need to renew your registration when it expires). 
+5.    Such provision of personal data is mandatory under the rules adopted by the Internet Corporation for Assigned Names and Numbers (“ICANN”) and/or local domain name registries, notably for publication in the applicable domain name WHOIS (a service offered by each domain name registry that allows users to check domain name registration details). In compliance with our obligations as a domain name registrar, We collect further mandatory data in relation to domain names including (1) the domain name (2) original creation date (3) expiration date and (4) the names of the primary and secondary name servers for the domain together with IP addresses.  
 
-We may also use your email address to send you our regular Easily newsletters. If you wish you may opt out from receiving these newsletters (see "Easily Newsletter" below).
+6.    We also log other identifying details necessary for the provision of our services and to ensure We only act on your instructions, such as written communications, confirmations, modifications and any other related correspondence, payment source information, log files, billing records, other communications information such as source IP address, HTTP headers and other records concerning registration such as dates, times, zones and sessions.  
 
-In addition, when you use our website we store your IP address and may use this information to administer our website and help to diagnose any network or server problems. Our website uses cookies to keep track of your use of our website and e-commerce system. Information passed to us from your web browser may be stored and used for our internal statistical analysis. We may also automatically collect non-personal information about you such as the type of internet browsers you use or the site from which you linked to our website. You cannot be identified from this information and it is only used to assist us in providing an effective service on our website.
+OTHER PERSONAL DATA  
 
-Our cookie usage policy is as follows:
+7.    In providing any related or optional services to You, such as email accounts and hosting services, We may request additional information at the time of order so that We can successfully provide our services to You.  
 
-1\. This website uses cookies to help us improve your experience of the website.   
-2\. Cookies are small files placed on your computer's hard drive, or in your browser memory, when you visit. They help us find out what parts of the site you visit, what you like and what is most relevant to you. What cookies do not do is store any personal or confidential information about you.   
-3\. To ensure you get the best from our website, we advise that users keep cookies active on their machine whilst visiting our website.   
-4\. This website uses cookies specifically for:   
-i. Session cookies - session cookies last only for the duration of your visit and are deleted when you close your browser. No personally-identifiable data is collected. We store one session cookie which enables us to identify that the same person is moving from page to page.   
-ii. Persistent cookies - we also use certain cookies that are persistent, meaning that they last beyond your session enabling us to improve your experience of the website.   
-iii. This site uses [Google Analytics](http://www.google.com/analytics/ "Google analytics") to allow us to track how popular our site is and to record visitor trends over time. Google Analytics uses three cookies to help track which pages are accessed. The cookies contain no personally-identifiable information, but it does use your computer's IP address to determine where in the world you are accessing the site from, and to track your page visits within the site. 
+CREDIT/DEBIT CARDS
 
-5\. Additional information:  
-i. From time to time, we may embed external content from third party websites (e.g. Facebook, YouTube) within our website. These websites may utilise cookies and the Privacy Policy that will apply to such third-party content will be published on the website of that third-party content provider.  
-ii. Like many other companies we use remarketing features whereby third party vendors (including Google) display Easily.co.uk's adverts on sites on the internet and use cookies to serve adverts based on a user's prior visits to the Easily.co.uk website.
+8.    Easily uses a third party payment provider to process any payments made by You. Easily does not store full debit or credit card details but will record the last four digits of your primary account number and the expiry date of the last card used on Your account.  
+HOW DO WE USE YOUR PERSONAL DATA?
 
-6\. Opting out of cookie usage:  
-i. You can stop third party cookies (such as those we use for Google Analytics) being stored on your computer by blocking third party cookies from within your browser. Or you can block cookies completely.   
-ii. Alternatively, if you wish to keep your cookie settings but want to opt-out of Google Analytics tracking, you can download an add-on [here](https://tools.google.com/dlpage/gaoptout "Google analytics Opt-out browser add-on").   
-iii. For further information about managing and disabling cookies, you can refer to your browser's help section or user [guide](http://www.allaboutcookies.org/ "all about cookies"). Alternatively, the Interactive Advertising Bureau has produced a guide which explains to users how cookies work and can be managed.  
+9.    The information You provide when registering a domain name is required to allow us to properly handle your domain name registration, administer your account, including notifying You about matters related to the domain name, such as renewal or updates and to provide other services that You have ordered from us. 
 
-2\. Do we share the information with anyone else?
+DO WE USE YOUR PERSONAL DATA FOR MARKETING PURPOSES?
 
-Easily will not, without your consent, divulge your personal information to a third party except in the following circumstances:
+10.    Easily might also use your personal data to offer You new services and for marketing purposes in line with applicable law. You can withdraw your consent for such usage for marketing purposes at any time with the consequence that Easily will have to refrain from using your personal data for marketing purposes. Please address such withdrawal to: Data Officer, Easily Limited, 25 Canada Square, Canary Wharf, London, E14 5LQ. 
 
-  *   * in order to register a domain name we are required to send your name, business name (if applicable), postal address and email address to organisations that formally record the registration; this information may be available to others via a "Whois" search;
-  * if required to do so by law or by any organisation with appropriate authority;
-  * if you have signed up for optional services which require us to pass your personal information to another company (see "Optional Services" below);
-  * to any financial institution with whom we hold an account for the purpose of verifying credit status and / or validating financial transactions;
-  * we may provide aggregate statistics about our sales, customers, traffic patterns and other site information to third parties, but these statistics will not include any information that could personally identify you;
-  * in order to assist us in understanding our customer base some anonymous information (i.e not name or specific address) may from time to time be passed on to a third party for data analysis. If you do not wish your details to be utilised in this way you should follow the instructions on the page where you submit your details or contact the helpdesk;
-  * as part of a sale or transfer of the shares and/or assets of Easily Limited;
-  * in order to help customers complete abandoned orders, using any information you enter into our Site.  
+HOW DO WE PROTECT PERSONAL DATA?
 
+11.    Security is a high priority for Easily. We take industry standard reasonable precautions to protect personal data from loss, misuse, unauthorised access or disclosure, alteration or destruction.   
 
+TO WHOM DO WE DISCLOSE PERSONAL DATA?
 
+12\.     Personal data provided to Us for domain name registrations is first disclosed to Ascio Technologies, Inc. Danmark – Filial af Ascio Technologies, Inc. USA, Danish CVR Number 25163532 (“Ascio”) with registered office at Arne Jacobsens Alle 15, 2300 Copenhagen S, Denmark.  Ascio is a domain name registrar accredited with ICANN and part of Easily’s wider corporate group.   The personal data is disclosed to Ascio to fulfil your order. 
 
-In addition, when you use our website we store information you enter on to our website including your IP address and may use this information to administer our website and help to diagnose any network or server problems. Our website uses cookies to keep track of your use of our website and e-commerce system. Information passed to us from your web browser may be stored and used for our internal statistical analysis. We may also automatically collect non-personal information about you such as the type of internet browsers you use or the site from which you linked to our website. You cannot be identified from this information and it is only used to assist us in providing an effective service on our website.
+13.    In accordance with the requirements as a domain name registrar, We are required to disclose your information which may include personal data as follows:  
+(i)    WHOIS data is available to the public for free query-based access;  
+(ii)    We make domain related data, including communications with You, available to ICANN and domain name registries pursuant to their rules and regulations;   
+(iii)    We escrow domain related data as often as is required to reputable third parties appointed by ICANN or domain registries; and  
+(iv)    Third parties are able to access WHOIS data in bulk provided they agree, amongst other things, not to use them improperly such as for the transmission of unsolicited commercial emails.
 
-3\. Credit Cards
+14.    If You order any additional products and services, this may require disclosure of personal data to additional third parties in order to provide the services to you.  You shall be notified at the time of the order about the scope of any disclosure and the respective third parties.  
 
-Credit card payment for our services is processed by our secure payment service provider. We do not record your credit card details on our database and the payment service provider does not record any other information about you. 
+15.    We may also disclose your personal data to (i) any financial institution with whom we hold an account for the purpose of verifying your credit status and/or validating financial transactions and (ii) as part of a sale or transfer of the shares and/or assets of Easily.    
+DO WE TRANSFER YOUR PERSONAL DATA TO COUNTRIES OUTSIDE THE EU/EEA?
 
-4\. Easily Newsletter
+16.    The disclosure of your personal data to ICANN and domain name registries involves the transfer of your personal data to entities located outside the European Economic Area (“EEA”) in order to perform the services. Information regarding which countries your personal data is transferred to will be included in the individual agreements for these registrations and is available for review on our Policy page.  Likewise, as described in section 15, other third parties may be located outside the EEA.   
 
-From time to time Easily will send newsletters to those customers who have opted to be included on our various customer mailing lists. New customers have the opportunity to decide to opt in or out of these mailing lists when they first sign up with us to create an account. Existing customers or other people who are interested in the newsletters may opt in or out on the Easily.co.uk website or by sending an email request to our [helpdesk support team](https://web.archive.org/web/20150607201623id_/http://easily.co.uk/index.php3?exe=contact). 
+17.    Easily would like to point out that the technical safety measures and data protection regulations in certain non-EU or non-EEA countries can fall short of safety measures and data protection regulations within the EU or the EEA and so the security or confidentiality of your personal data cannot be guaranteed as effectively as for equivalent data handling within the EU or EEA. When passing on personal data for purposes stated in this Privacy Policy, it might not be possible to ensure an adequate level of data protection within the meaning of Article 26 of the EU Data Protection Directive 95/46/EC. 
 
-5\. Optional Services
+18.     **By agreeing to this Privacy Policy You therefore explicitly consent to the transfer of your personal data to such non-EU or non-EEA countries although the level of data protection may be insufficient compared to the EU or EEA level.** Should You refuse such transfer, We would not be able to provide You with the services You have ordered.   
 
-From time to time Easily will offer additional services to our customers. In some cases these services may require us to pass personal data held by us to a third party. Any such service will be optional and the opt-in process will clearly show that personal data will be shared with another company. 
+HOW CAN YOU ACCESS AND RECTIFY PERSONAL DATA?
 
-6\. How long will we hold data on you?
+19.    You are able to access, update and rectify your personal data at any time if it is or has become erroneous or out-of-date by contacting Easily in writing and We will promptly act upon your instructions. You also have to right to oppose to the collection of your data and request for the deletion of your data by contacting Easily in writing.
 
-Easily will not hold data for longer than is reasonably necessary for the purposes of the proper conduct of its business or as required by law. 
+INFORMATION YOU PROVIDE ABOUT OTHERS
 
-7\. Where is the data we hold stored?
+20.    In providing personal data about other individuals (such as someone in whose name You are registering or the domain name’s technical or billing contacts) You represent that You have notified them of (i) the purposes for which information will be used (ii) the recipients of their personal data and (iii) how they can access and correct the information.  You further represent that You have obtained all necessary consents from them.  
 
-Information which you submit via our website is stored on a computer and sometimes on paper at our offices located in the European Economic Area. This is necessary in order to process the information and to send you any information you have requested. 
+UPDATES/WITHDRAWAL 
 
-8\. Security
+21.    From time to time, We shall update this Privacy Policy. You are advised to regularly check for updates. Any continuation of services provided by Easily for a time period longer than two (2) weeks shall constitute acceptance of the amended Privacy Policy.   
+22.    If You have any queries concerning this Privacy Policy, please write to us at: Data Officer, Easily Limited, 25 Canada Square, Canary Wharf, London, E14 5LQ.  
+23.    If You want to withdraw your consent to the data processing regulated by this Privacy Policy, please address your withdrawal to:  Data Officer, Easily Limited, 25 Canada Square, Canary Wharf, London, E14 5LQ.
 
-Easily places great importance on the security of all information associated with its customers and has security measures in place to attempt to protect against the loss, misuse and alteration of customer data under our control. For example, our security and privacy policies are periodically reviewed and enhanced as necessary and only authorised personnel have access to user information. With regard to our website, we may use secure server software (SSL) to encrypt information you input before it is sent to us. While we cannot ensure or guarantee that loss, misuse or alteration of data will not occur, we use our best efforts to prevent this. 
+GOVERNING LAW
 
-9\. Links to Other Sites
-
-The Easily website contains advertising and links to other websites. No personal information is passed to other websites if you follow one of these links. Easily is not responsible for the privacy practices or content of linked websites. We would encourage you to read the privacy statements of other websites, since their privacy policy may differ from ours. 
-
-10\. Changes to Personal Information
-
-If you need to change the information that we keep, for example because you have moved or to correct an error, please [contact us](https://web.archive.org/contactus.php). 
-
-11\. Consent
-
-Use of the Easily.co.uk website and services indicates your consent to the collection and use of information as described in this policy. Any changes to the policy will be posted on this page. 
-
-12\. Governing Law
-
-Easily Limited is a UK company and this privacy policy is intended to be interpreted under English law.
-
-**^ top of page  
-**
+24.    This Privacy Policy is intended to be interpreted and governed in accordance with English law.  
+Last updated:  [  ] December 2016 
