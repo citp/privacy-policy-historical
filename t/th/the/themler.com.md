@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themler.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227201055id_/http%3A//themler.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themler.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015742id_/http%3A//themler.com/themler-privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,27 +6,27 @@
 
 ##### **Overview**
 
-This Privacy Policy introduces to your our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of the BillionDigital websites (included but not limited to [billiondigital.com](http://billiondigital.com/), [themler.com](http://themler.com/), [billionphotos.com](http://billionphotos.com/), [templates.themler.com](http://templates.themler.com/) and [answers.themler.com](http://answers.themler.com/) to be hereinafter referred to as the "Website"). By using the Website you consent to the collection, use and disclosure of your personal information in accordance with this Policy. If you have questions or concerns regarding this policy, you should first contact [BillionDigital Support](http://answers.themler.com/Topic/Create?term=%5Blicense%5D&private=1).
+This Privacy Policy introduces to your our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of the Themler.com websites (included but not limited to [themler.com](http://themler.com/) and [answers.themler.com](http://answers.themler.com/) to be hereinafter referred to as the "Website"). By using the Website you consent to the collection, use and disclosure of your personal information in accordance with this Policy. If you have questions or concerns regarding this policy, you should first contact [themler.com Support](http://answers.themler.com/Topic/Create?term=%5Blicense%5D&private=1).
 
 #####  **Users**
 
-This Site is not directed to children under 18. We do not intentionally gather Personal Information about visitors who are under the age of 13. In case that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact [BillionDigital Support](http://answers.themler.com/Topic/Create?term=%5Blicense%5D&private=1).
+This Site is not directed to children under 18. We do not intentionally gather Personal Information about visitors who are under the age of 13. In case that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact [themler.com Support](http://answers.themler.com/Topic/Create?term=%5Blicense%5D&private=1).
 
 #####  **Collected Information**
 
-When you visit this Website, we may collect certain non-personal information such as your Internet Protocol ('IP') address, browser type, and operating system. This type of information does not identify you personally. When you register with BillionDigital, we may also collect the personal information that you submit such as your name, address, email address, credit card numbers, and country of origin ('Registration Information'). For contributors (as identified on our Website), Registration Information may include verification of your identity with a government issued ID. Additionally, we may collect certain information from our contributors for tax purposes.
+When you visit this Website, we may collect certain non-personal information such as your Internet Protocol ('IP') address, browser type, and operating system. This type of information does not identify you personally. When you register with Themler.com, we may also collect the personal information that you submit such as your name, address, email address, credit card numbers, and country of origin ('Registration Information'). For contributors (as identified on our Website), Registration Information may include verification of your identity with a government issued ID. Additionally, we may collect certain information from our contributors for tax purposes.
 
-We may also collect non-Registration Information from our users, including the number of uploads and downloads on the Website, profile changes, content changes, and forum activity. BillionDigital uses an outside third party credit card processing company to bill you for your purchases or compensate you for your uploads, which may in some instances include the storage of your personal information by the third party, such as your credit card number. Additionally, BillionDigital may track copyright infringement claims through its membership management module. Information related to copyright infringement claims may be stored by BillionDigital.
+We may also collect non-Registration Information from our users, including the number of uploads and downloads on the Website, profile changes, content changes, and forum activity. Themler.com uses an outside third party credit card processing company to bill you for your purchases or compensate you for your uploads, which may in some instances include the storage of your personal information by the third party, such as your credit card number. Additionally, Themler.com may track copyright infringement claims through its membership management module. Information related to copyright infringement claims may be stored by Themler.com.
 
 #####  **Cookies**
 
-BillionDigital may place small data files called cookies on your computer that hold information which allows a website to recognize your account. Cookies may be used irrespective of whether you register with us or not. The type of information a cookie collects includes the date and time you visited, your browsing history, your preferences, and your username.
+Themler.com may place small data files called cookies on your computer that hold information which allows a website to recognize your account. Cookies may be used irrespective of whether you register with us or not. The type of information a cookie collects includes the date and time you visited, your browsing history, your preferences, and your username.
 
-You have the ability to prevent your computer from accepting cookies but, if you do, certain functionality on the Site may be impaired, for example, you may have difficulty logging in or using certain interactive features of our Website, such as our member-only areas, payment features, etc. You should be able to experience the basic functions on BillionDigital's Website, even if you decline the use of cookies.
+You have the ability to prevent your computer from accepting cookies but, if you do, certain functionality on the Site may be impaired, for example, you may have difficulty logging in or using certain interactive features of our Website, such as our member-only areas, payment features, etc. You should be able to experience the basic functions on Themler.com's Website, even if you decline the use of cookies.
 
 #####  **Personal Information Use**
 
-BillionDigital may collect and use your personal information:
+Themler.com may collect and use your personal information:
 
   1. to create and to manage your account;
   2. to verify a user's identity for security purposes;
@@ -43,11 +43,11 @@ We may also convert your information into anonymous data in order to help us mon
 
 #####  **Protection of Personal Data**
 
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from BillionDigital, at all times.
+To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Themler.com, at all times.
 
 The Personal Data that you provide in connection with the use of the Site is protected in several ways:
 
-  1. Personal Data is encrypted whenever it is transmitted to BillionDigital.
+  1. Personal Data is encrypted whenever it is transmitted to Themler.com.
   2. Access by you to your account profile is available through a password and unique customer ID selected by you.
   3. Access is limited to those of our employees who require it to provide services to you.
   4. We ensure that third-party service providers sign confidentiality agreements to maintain the confidentiality and not to use it for any unauthorized purposes.
@@ -59,13 +59,13 @@ The Personal Data that you provide in connection with the use of the Site is pro
 
 ##### **Choice**
 
-You may review and change the information you provide to us by going to the 'Profile' section of the Website. You may opt out of receiving our newsletters when you register with BillionDigital. By opting out, you will no longer receive certain special offers or promotions. BillionDigital may still continue to send you any legally required notifications and certain notifications, including but not limited to service related notices or notices regarding a change to any of BillionDigital's policies. Generally, you may not opt-out of these communications, which are not promotional in nature. If you wish not to receive them, you have the option of deactivating your account.
+You may review and change the information you provide to us by going to the 'Profile' section of the Website. You may opt out of receiving our newsletters when you register with Themler.com. By opting out, you will no longer receive certain special offers or promotions. Themler.com may still continue to send you any legally required notifications and certain notifications, including but not limited to service related notices or notices regarding a change to any of Themler.com's policies. Generally, you may not opt-out of these communications, which are not promotional in nature. If you wish not to receive them, you have the option of deactivating your account.
 
 #####  **Disclosures**
 
-BillionDigital may be required to disclose your personal information due to legal or regulatory requirements. In such cases, we reserve the right to disclose your personal information as required in order to comply with BillionDigital's legal obligations, including, but not limited to, complying with court orders, warrants, subpoenas, service of process requirements, or discovery requests.
+Themler.com may be required to disclose your personal information due to legal or regulatory requirements. In such cases, we reserve the right to disclose your personal information as required in order to comply with Themler.com's legal obligations, including, but not limited to, complying with court orders, warrants, subpoenas, service of process requirements, or discovery requests.
 
 #####  **Change Notification**
 
-We reserve the right to change this Policy from time to time, and at our sole discretion. Please note that if you have limited your account preferences, we will not change your preferences without your consent. If our company or our assets related to the Site are acquired by another company, BillionDigital will notify you of the transaction. The acquiring company will be given access to your personal information without your consent. If BillionDigital sells only a part of its business, the acquiring entity will have access to your personal information without your consent and BillionDigital will attempt to notify you so that you may make an informed decision about this new use of your Personal Information.  
+We reserve the right to change this Policy from time to time, and at our sole discretion. Please note that if you have limited your account preferences, we will not change your preferences without your consent. If our company or our assets related to the Site are acquired by another company, Themler.com will notify you of the transaction. The acquiring company will be given access to your personal information without your consent. If Themler.com sells only a part of its business, the acquiring entity will have access to your personal information without your consent and Themler.com will attempt to notify you so that you may make an informed decision about this new use of your Personal Information.  
 
