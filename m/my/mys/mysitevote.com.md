@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysitevote.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628232359id_/http%3A//mysitevote.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysitevote.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606014652id_/http%3A//mysitevote.com/privacy.html) for the most accurate reproduction.*
 
 # MySiteVote.com Privacy Policye
 
