@@ -1,44 +1,49 @@
-<!--The following is the downloaded HTML source of the eboom.com privacy policy that was archived on 2014-10-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141006010410id_/http%3A//www.eboom.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eboom.com privacy policy that was archived on 2017-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170605130501id_/http%3A//eboom.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head class="default_layout_template_la">
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Search eboom</title>
 
-<link href="/css/style1.css" rel="stylesheet" type="text/css">
+<script src="/js/jquery/js/jquery-1.4.4.min.js"></script>
+<script src="/js/jquerytools.js" type="text/javascript"></script>
+<script src="/js/jquery/js/jquery-ui-1.8.7.custom.min.js"></script>
+<script src="/js/jquery/plugin/jquery.qtip-1.0.js"></script>
+<script src="/js/jquery/js/jquery.base64.js"></script>
 
-    <!-- 2 CSS files are required: -->
-    <!--   * Tag-it's base CSS (jquery.tagit.css). -->
-    <!--   * Any theme CSS (either a jQuery UI theme such as "flick", or one that's bundled with Tag-it, e.g. tagit.ui-zendesk.css as in this example.) -->
-    <!-- The base CSS and tagit.ui-zendesk.css theme are scoped to the Tag-it widget, so they shouldn't affect anything else in your site, unlike with jQuery UI themes. -->
-    <link href="/js/tag-it/css/jquery.tagit.css" rel="stylesheet" type="text/css">
-    <link href="/js/tag-it/css/tagit.ui-zendesk.css" rel="stylesheet" type="text/css"> 
+<!--
+<script src="/js/jquery/plugin/jquery.validate.js"></script>
+<script src="/js/jquery/plugin/tinysort/scripts/jquery.tinysort.min.js"></script>
+<script src="/js/combined.js" type="text/javascript"></script>
+-->
 
-    <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
-    <script src="/js/jquery.form.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/main.menu.js" type="text/javascript"></script>
+<script src="/lib/masterdef.js" type="text/javascript"></script>
+<script src="/js/lib/masterdef/console.js" type="text/javascript"></script>
 
-    <!-- The real deal -->
-    <script src="/js/tag-it/js/tag-it.js" type="text/javascript" charset="utf-8"></script> 
-
+<link rel="stylesheet" href="/js/jquery/css/ui-lightness/jquery-ui-1.8.7.custom.css" type="text/css">
+<link href="/css/style.css" rel="stylesheet" type="text/css">
+<link href="/css/style_mod.css" rel="stylesheet" type="text/css">
 
 <script language="javascript">
-	//$j	= jQuery.noConflict();
+	$j	= $;//jQuery.noConflict();
 </script>
 
 <script type="text/javascript">
     $(document).ready(function () {
             
+      $('#features').scrollable();
+      $('.specialoffers').scrollable({next: '.spof-next', prev: '.spof-prev'});			     
       $('.search-input').focus(function () {
 
-			if ($(this).attr('value')=="") 
+			if ($(this).attr('value')=="Shop For ...") 
 				$(this).attr('value','');
 			});
 			
       $('.search-input').blur(function () {
         if ($(this).attr('value')=="") 
-          $(this).attr('value',"");
+          $(this).attr('value',"Shop For ...");
 			});
 			     
     });
@@ -65,9 +70,10 @@
 </head>
 
 <body>
-      <div class="header">
-      <div class="headerin">
-          <h1><a href="/" title="videolist.eboom.com">videolist.eboom</a></h1>
+
+  <div class="header">
+    <div class="headerin">
+        <h1><a href="/" title="eboom.com">eboom.com</a></h1>
         
     <div class="login">
       <!--
@@ -76,20 +82,144 @@
       <a href="#" title="Register">Register</a>
       -->
     </div>
+    <div class="templateSearchField"></div>
+    <div class="headerSearch"><form id="search" action="/" method="get">
+      <input type="hidden" name="pid" value="">
+      <input type="hidden" name="src" value="">
+      <input id="input_query" class="search-input" type="text" name="q" value="Shop For ...">
+        <input name="search" class="search-submit" type="submit" value="">
+    </form></div>
 
 </div><!--headerin-->
 
 
 
-    </div><!--header-->
+  </div><!--header-->
 
-    <div id="menu">
-      <ul class="menuin">
-                </ul>
-    </div> <!--menu-->
-    <div class="layout_menu_top"></div>
-  
-  <div class="margin">
+  <div id="menu">
+    <ul class="menuin">
+               
+          <li><a title="Men">Men</a>
+        <ul>
+                                        <li><a href="/?q=Navigation" title="Navigation">Navigation</a></li>
+                              <li><a href="/?q=Razors" title="Razors">Razors</a></li>
+                              <li><a href="/?c=30020100&amp;s=Watches" title="Watches">Watches</a></li>
+                              <li><a href="/?c=25000500&amp;s=Tools" title="Tools">Tools</a></li>
+                              <li><a href="/?c=10011200&amp;s=Wallets" title="Wallets">Wallets</a></li>
+                              <li><a href="/?c=88&amp;s=Perfumes" title="Perfumes">Perfumes</a></li>
+                        </ul>
+          </li>
+          <li class="separator"></li>
+               
+          <li><a title="Women">Women</a>
+        <ul>
+                                        <li><a href="/?c=30010108&amp;s=Jewelry" title="Jewelry">Jewelry</a></li>
+                              <li><a href="/?q=Womens Watches" title="Watches">Watches</a></li>
+                              <li><a href="/?c=88&amp;s=Perfumes" title="Perfumes">Perfumes</a></li>
+                              <li><a href="/?q=Womens Accessories" title="Accessories">Accessories</a></li>
+                              <li><a href="/?q=Health and Beauty" title="Wellness">Wellness</a></li>
+                              <li><a href="/?c=95&amp;s=Cosmetics" title="Cosmetics">Cosmetics</a></li>
+                        </ul>
+          </li>
+          <li class="separator"></li>
+               
+          <li><a title="Boys">Boys</a>
+        <ul>
+                                        <li><a href="/?c=14000000&amp;s=Toys" title="Toys">Toys</a></li>
+                              <li><a href="/?q=Lego" title="Lego">Lego</a></li>
+                              <li><a href="/?q=Beyblade" title="Beyblade">Beyblade</a></li>
+                              <li><a href="/?q=Boys Shoes" title="Shoes">Shoes</a></li>
+                              <li><a href="/?q=Boys Bikes" title="Bikes">Bikes</a></li>
+                              <li><a href="/?c=14010700&amp;s=Games" title="Games">Games</a></li>
+                        </ul>
+          </li>
+          <li class="separator"></li>
+               
+          <li><a title="Girls">Girls</a>
+        <ul>
+                                        <li><a href="/?q=Barbie" title="Barbie">Barbie</a></li>
+                              <li><a href="/?q=Cuddly toys" title="Cuddly toys">Cuddly toys</a></li>
+                              <li><a href="/?c=14010600&amp;s=Dolls" title="Dolls">Dolls</a></li>
+                              <li><a href="/?c=100001746&amp;s=Dresses" title="Dresses">Dresses</a></li>
+                              <li><a href="/?q=girls shoes" title="Shoes">Shoes</a></li>
+                        </ul>
+          </li>
+          <li class="separator"></li>
+               
+          <li><a title="Colleagues">Colleagues</a>
+        <ul>
+                                        <li><a href="/?c=10160200&amp;s=T-shirts" title="T-shirts">T-shirts</a></li>
+                              <li><a href="/?c=10011200&amp;s=Wallets" title="Wallets">Wallets</a></li>
+                              <li><a href="/?q=tools" title="Tools">Tools</a></li>
+                              <li><a href="/?q=Alarm Clock" title="Alarm Clock">Alarm Clock</a></li>
+                              <li><a href="/?c=24&amp;s=Office" title="Office">Office</a></li>
+                              <li><a href="/?q=Office Supplies" title="Supplies">Supplies</a></li>
+                        </ul>
+          </li>
+          <li class="separator"></li>
+               
+          <li><a title="Family">Family</a>
+        <ul>
+                                        <li><a href="/?c=13050803&amp;s=Espresso machines" title="Espresso machines">Espresso machines</a></li>
+                              <li><a href="/?c=100000050&amp;s=Ties" title="Ties">Ties</a></li>
+                              <li><a href="/?c=402&amp;s=Cameras" title="Cameras">Cameras</a></li>
+                              <li><a href="/?c=13020203&amp;s=Frame" title="Frame">Frame</a></li>
+                              <li><a href="/?q=Navigation" title="Navigation">Navigation</a></li>
+                              <li><a href="/?q=Hoover" title="Hoover">Hoover</a></li>
+                        </ul>
+          </li>
+          <li class="separator"></li>
+               
+          <li><a title="Boss">Boss</a>
+        <ul>
+                                        <li><a href="/?c=329&amp;s=Mugs" title="Mugs">Mugs</a></li>
+                              <li><a href="/?c=16011100&amp;s=Wine" title="Wine">Wine</a></li>
+                              <li><a href="/?c=24&amp;s=Supplies" title="Supplies">Supplies</a></li>
+                              <li><a href="/?c=10011200&amp;s=Wallets" title="Wallets">Wallets</a></li>
+                        </ul>
+          </li>
+          <li class="separator"></li>
+               
+          <li><a title="Students">Students</a>
+        <ul>
+                                        <li><a href="/?c=80&amp;s=Books" title="Books">Books</a></li>
+                              <li><a href="/?c=5108&amp;s=Music" title="Music">Music</a></li>
+                              <li><a href="/?c=10060900&amp;s=T-shirts" title="T-shirts">T-shirts</a></li>
+                              <li><a href="/?c=212&amp;s=Office" title="Office">Office</a></li>
+                        </ul>
+          </li>
+          <li class="separator"></li>
+               
+          <li><a title="Spouses">Spouses</a>
+        <ul>
+                                        <li><a href="/?c=197&amp;s=Cameras" title="Cameras">Cameras</a></li>
+                              <li><a href="/?q=Sofas" title="Sofas">Sofas</a></li>
+                              <li><a href="/?q=living room decoration" title="Decor">Decor</a></li>
+                              <li><a href="/?c=12000000&amp;s=Sport" title="Sport">Sport</a></li>
+                              <li><a href="/?q=Alarm Clock" title="Alarm Clock">Alarm Clock</a></li>
+                              <li><a href="/?q=notebooks" title="Notebooks">Notebooks</a></li>
+                        </ul>
+          </li>
+          <li class="separator"></li>
+               
+          <li><a title="Lovers">Lovers</a>
+        <ul>
+                                        <li><a href="/?c=30000000&amp;s=Jewelry" title="Jewelry">Jewelry</a></li>
+                              <li><a href="/?c=10011200&amp;s=Wallets" title="Wallets">Wallets</a></li>
+                              <li><a href="/?c=10100000&amp;s=Lingerie" title="Lingerie">Lingerie</a></li>
+                              <li><a href="/?c=88&amp;s=Perfumes" title="Perfumes">Perfumes</a></li>
+                              <li><a href="/?q=rings" title="Rings">Rings</a></li>
+                              <li><a href="/?q=lovers gifts" title="Lovers gifts">Lovers gifts</a></li>
+                        </ul>
+          </li>
+          <li class="separator"></li>
+            <li><a title="more" href="/categories/">More</a>
+      </li>
+      </ul>
+  </div> <!--menu-->
+  <div class="layout_menu_top"></div>
+
+<div class="margin">
 <p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
 normal;text-autospace:none"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Eboom.com
 Privacy Policy</span></p>
@@ -229,9 +359,7 @@ normal;text-autospace:none"><span style="font-size:10.0pt;font-family:&quot;Aria
 
 </div>
 
-  <p><br></p>
-
-      <div class="footer">
+<div class="footer">
 	<div class="footerin">
 		<div class="left">
 			<!--
@@ -242,7 +370,7 @@ normal;text-autospace:none"><span style="font-size:10.0pt;font-family:&quot;Aria
             <a href="#" title="About Us">About Us</a> |
             <a href="#" title="Product Guidelines">Product Guidelines</a> |
 			-->
-			© 2014 eboom.com |
+			© 2017 eboom.com |
             <a href="/tou/" title="Terms &amp; Conditions">Terms &amp; Conditions</a> |
             <a href="/privacy/" title="Privacy Policy">Privacy Policy</a> |
             <a href="/contact/post" title="Contact">Contact</a>
@@ -255,49 +383,16 @@ normal;text-autospace:none"><span style="font-size:10.0pt;font-family:&quot;Aria
 </div><!--footer-->
 
 
-<!-- domdex code -->
-<!-- see_base_url:http://eboom.xpscommerce.com/ -->
+<!-- see_base_url:http://sw.eboom.com/ -->
 
   <!-- see_request_data: -->
 
 
 
-<script type="text/javascript">
-  $(document).ready(function(){
-    console.log('footer__load');
 
-    // pro-market lazy load
-    //$j.getScript('http://ads.pro-market.net/ads/scripts/site-134625.js');
 
-    /*
-    <iframe src="http://forless.t.domdex.com/search.html?k=" width="0" height="0" frameborder="0"></iframe>
-    $j('<iframe/>', {
-      src: 'http://forless.t.domdex.com/search.html?k=',
-      width: '0',
-      height: '0',
-      frameborder: '0'
-    }).appendTo('body');
-    */
-    // Domdex plugin
-    try {
-      var _mag = _mag || {};
-      _mag.kw = 'keyword';
-      _mag.shortName = 'forless';
-      _mag.startTime = (new Date()).getTime();
-      (function(d,t) {
-      var mag = d.createElement('script'); mag.type =
-'text/javascript'; mag.async = true; mag.src = t;
-      var head = d.getElementsByTagName('head')[0] ||
-d.documentElement; head.insertBefore(mag, head.firstChild);
-      })(document, '//d3ezl4ajpp2zy8.cloudfront.net/forless_tag.js');
-    } catch (e) {}
-  });
-</script>
 
-  
-  <div class="hidden" id="loader-icon">
-    <img src="/images/bx_loader.gif">
-  </div>
+
 
 
 
