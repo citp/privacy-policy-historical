@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crunchsci.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602061629id_/http%3A//www.crunchsci.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crunchsci.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005645id_/http%3A//crunchsci.com/site.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy | CrunchSCI
+# CrunchSCI | Privacy
 
 Privacy
 
