@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nopcommerce.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119010407id_/http%3A//www.nopcommerce.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nopcommerce.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606011219id_/http%3A//www.nopcommerce.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - nopCommerce
 
