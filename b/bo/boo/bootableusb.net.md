@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bootableusb.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119002845id_/http%3A//bootableusb.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootableusb.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013751id_/http%3A//bootableusb.net/privacy) for the most accurate reproduction.*
 
 # Privacy - Bootable USB | Bootable USB
 
