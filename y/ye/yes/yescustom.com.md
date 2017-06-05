@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yescustom.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318010320id_/http%3A//www.customdropshipping.com/article-agreement/n/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yescustom.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606011206id_/http%3A//www.customdropshipping.com/article-agreement/n/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,7 +48,7 @@ Customdropshipping is intended for users aged 13 or older. We will not knowingl
 
 A cookie is a small text file that is placed on your hard disk by a webpage server. Cookies contain information that can later be read by a web server in the domain that issued the cookie. Cookies cannot be used to run programs or deliver viruses to your computer. Customdropshipping  uses cookies to store information that uniquely identifies our users and secures their personal information. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can modify this in your browser settings if you prefer to decline cookies.
 
-If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at [order.yescustom@yahoo.com](mailto:order.yescustom@yahoo.com) .We welcome your comments regarding our Privacy Policy. If you have questions or comments, please feel free to e-mail us at [order.yescustom@yahoo.com](mailto:order.yescustom@yahoo.com).
+If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at [order@yescustom.com](mailto:order.yescustom@yahoo.com) .We welcome your comments regarding our Privacy Policy. If you have questions or comments, please feel free to e-mail us at order@yescustom.com
 
   
 
