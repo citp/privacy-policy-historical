@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcam.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120002325id_/http%3A//www.abcam.com/index.html%3Fpageconfig%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcam.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606004120id_/http%3A//www.abcam.com/index.html%3Fpageconfig%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy policy
 
