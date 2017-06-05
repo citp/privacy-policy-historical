@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rainmaker.fm privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124141119id_/http%3A//rainmaker.fm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainmaker.fm privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606010207id_/http%3A//rainmaker.fm/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Digital Commerce and Content Marketing Podcast Network
+# Privacy Policy | Rainmaker.FM
 
 The Rainmaker.FM Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. Rainmaker.FM is a service offering of Rainmaker Digital LLC (“Rainmaker Digital”), and references in this document to “us,” “our,” and “we” refer to Rainmaker Digital.
 
