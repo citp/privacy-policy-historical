@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bee-ads.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122044523id_/http%3A//www.bee-ads.com/page-terms-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bee-ads.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605195640id_/http%3A//bee-ads.com/page-terms-privacy.html) for the most accurate reproduction.*
 
 # Bee-ads.com | Terms And Privacy Policy
 
