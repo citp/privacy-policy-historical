@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safexbikes.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120155454id_/http%3A//www.safexbikes.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safexbikes.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015339id_/http%3A//safexbikes.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Safexbikes Motorcycle Superstore - Our Privacy Policy
 
@@ -63,8 +63,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
   * info@safexbikes.com
 
 
-
-### Why shop at Safexbikes.com Motorcycle Superstore?
 
 22 years of Acquiring an Outstanding Reputation for Service and Quality Safexbikes have some superior products for motorcycles in store for you. Everything from Front Mudguards and Front Fairings to Side Panels and Tail Cowls, Indicators, Head Lights, Engine Parts, Gear Parts, Clutch parts, you ask it we have it all. Our products are made from nothing less than the best materials, and our prices are great as well. So if you want the best products, be sure to come to us. We are the first Indian Company to sell Motorcycle parts and accessories online. "BY Harpreet Sethi" 
 
