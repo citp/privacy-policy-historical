@@ -1,32 +1,26 @@
-> *The following text is extracted and transformed from the parkincafe.com privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720010620id_/http%3A//www.parkincafe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkincafe.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012417id_/http%3A//www.creative-commons-images.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Park In My Cafe
+# Privacy Policy
 
-**Privacy Policy for www.parkincafe.com**
+**Creative Commons Images privacy policy.**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at DanaWBorges@jourrapide.com.
+This privacy policy is for this website Creative Commons Images and governs the privacy of its users who choose to use it. 
 
-At www.parkincafe.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.parkincafe.com and how it is used.
+The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy. 
 
-**Log Files**  
-Like many other Web sites, www.parkincafe.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+The Website 
 
-**Cookies and Web Beacons**  
-www.parkincafe.com does not use cookies.
+This website and its owners take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience. 
 
-**DoubleClick DART Cookie**  
-.:: Google, as a third party vendor, uses cookies to serve ads on www.parkincafe.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.parkincafe.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+Users contacting this website and/or its owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk. 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense  
-Amazon
+This website and its owners use any information submitted to provide you with further information about the products and services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if this was made clear to you and your express permission was granted when submitting any form to email process. Your details are not passed on to any third parties. 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.parkincafe.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+Adverts and Sponsored Links 
 
-www.parkincafe.com has no access to or control over these cookies that are used by third-party advertisers.
+This website may contain sponsored links and adverts. These will typically be served through our advertising partners, to whom may have detailed privacy policies relating directly to the adverts they serve. 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.parkincafe.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+Clicking on any such adverts will send you to the advertisers website through a referral program which may use cookies and will track the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your computers hard drive. Users should therefore note they click on sponsored external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned. 
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+Advert  
+[](http://www.dreamstime.com/#res13617354 "Stock Photos & Images")
