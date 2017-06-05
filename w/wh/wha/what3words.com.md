@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the what3words.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123103745id_/http%3A//what3words.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the what3words.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605193928id_/http%3A//what3words.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | what3words
+# Privacy | what3words
 
 What3Words Limited (“We”) are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms and conditions](http://what3words.com/terms/ "Terms & Conditions") and any other documents referred to in them) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [terms and conditions](http://what3words.com/terms/) and any other documents referred to in them) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is What3Words Limited of Dewmead House, Hinxworth, Baldock, Herts, SG7 5HD.
 
@@ -53,7 +53,7 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
   * If What3Words Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its clients will be one of the transferred assets;
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms and conditions](http://what3words.com/terms/ "Terms & Conditions") and other agreements; or to protect the rights, property, or safety of What3Words Limited, our clients, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms and conditions](http://what3words.com/terms/) and other agreements; or to protect the rights, property, or safety of What3Words Limited, our clients, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
