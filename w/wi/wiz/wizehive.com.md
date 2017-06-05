@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wizehive.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126120659id_/http%3A//www.wizehive.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizehive.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605145330id_/http%3A//www.wizehive.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | WizeHive
 
@@ -13,7 +13,9 @@ We may collect personal information when you register to use the Site. Personal 
 
 Like most web-based services, we may automatically collect information that your browser sends whenever you visit a website. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personal information or the WizeHive user ID.
 
-Like many websites, we may also use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We may use "persistent cookies" to save your registration ID and login password for future logins to the Site; and we may use "session ID cookies" to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage and web traffic routing on the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of our services.
+Like many websites, we also use "cookies," Web beacons, HTML5 local storage and other similar technologies. These technologies allow us to manage access to and use of the Site, recognize you and provide personalization, and help us understand how people use our Site. You will not be able to access certain areas of our Site if your computer does not accept cookies from us. We do not respond to browser-based "do not track" signals.
+
+We may also transmit non-personally identifiable website usage information to third parties in order to show you our advertising when you visit other sites. If you do not wish to have this information used for the purpose of serving you such targeted ads, you may [opt-out here](http://preferences-mgr.truste.com/).
 
   
 
@@ -87,4 +89,4 @@ Our site is designed to be used by people over 13 years of age. The Children's O
 
 For more information, contact us at 1-877-767-9493
 
-Updated January 2014
+Updated March 2017
