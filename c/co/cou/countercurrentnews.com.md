@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the countercurrentnews.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119163400id_/http%3A//countercurrentnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countercurrentnews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012938id_/http%3A//countercurrentnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Counter Current News
+# Privacy Policy – Counter Current News
 
 **CounterCurrentNews.com – PRIVACY POLICY**
 
-Last Updated: January 1, 2014
-
 **A. Our Commitment to Privacy**
 
-COUNTER CURRENT NEWS INC (“COUNTER CURRENT NEWS”) realizes the importance of respecting and protecting your privacy.
+COUNTERCURRENTNEWS.COM (“COUNTER CURRENT NEWS”) realizes the importance of respecting and protecting your privacy.
 
 This privacy policy (“Privacy Policy”) discloses the information that COUNTER CURRENT NEWS gathers on the web site COUNTERCURRENTNEWS.COM that COUNTER CURRENT NEWS owns (the “Site”), as well as ways in which COUNTER CURRENT NEWS processes and, sometimes, shares such information and how you can correct or change that information. The Site also includes versions designed for browsing on mobile devices and the use of such devices is governed by this Privacy Policy as well.
 
@@ -63,7 +61,7 @@ During your use of the Site, you may encounter Web Beacons, which may come from 
 
 **(4) E-mail Communications**
 
-When you send an e-mail to COUNTER CURRENT NEWS, either through the <Contact Us> button on the Site or otherwise, COUNTER CURRENT NEWS may retain your e-mail address and the contents of the e-mail that you send. If you want to keep the information in your e-mail(s) or posting(s) private or proprietary, please do not send such information in an e-mail or otherwise post such information to COUNTER CURRENT NEWS. To help COUNTER CURRENT NEWS make its e-mails more interesting and helpful, COUNTER CURRENT NEWS also may receive a confirmation when you open an e-mail from COUNTER CURRENT NEWS if your computer supports this type of program.
+When you send an e-mail to COUNTER CURRENT NEWS, either through the contact form on the Site or otherwise, COUNTER CURRENT NEWS may retain your e-mail address and the contents of the e-mail that you send. If you want to keep the information in your e-mail(s) or posting(s) private or proprietary, please do not send such information in an e-mail or otherwise post such information to COUNTER CURRENT NEWS. To help COUNTER CURRENT NEWS make its e-mails more interesting and helpful, COUNTER CURRENT NEWS also may receive a confirmation when you open an e-mail from COUNTER CURRENT NEWS if your computer supports this type of program.
 
 **(b) Information Collected by Third Parties**
 
@@ -139,7 +137,7 @@ You may instruct COUNTER CURRENT NEWS to stop sending you certain promotional m
 
 COUNTER CURRENT NEWS provides you with the following options for removing your Personally Identifiable Information from COUNTER CURRENT NEWS’s database for marketing purposes:
 
-  1. You can send an email to CounterCurrentNews@gmail.com
+  1. You can [send an email to Counter Current News](http://countercurrentnews.com/contact-counter-current-news/)
 
 
 
@@ -177,8 +175,6 @@ Under the law, however, a business is not required to provide this information i
 
 Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party’s privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as COUNTER CURRENT NEWS has no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how it will handle your information.
 
-Please note that COUNTER CURRENT NEWS is only required to respond to one request per customer each year. COUNTER CURRENT NEWS is not required to respond to requests made by means other than through this e-mail address **CounterCurrentNews@gmail.com**.
-
 **7\. Users From Outside the United States**
 
 By visiting the Site, submitting information or using any of COUNTER CURRENT NEWS’s products or services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy and consent to having your data transferred to and processed in the United States. If you do not agree to this Privacy Policy, please do not use COUNTER CURRENT NEWS’s Site.
@@ -191,6 +187,4 @@ This Privacy Policy does not create rights enforceable by third parties.
 
 **9\. Contacting  COUNTER CURRENT NEWS**
 
-If you have any questions about this Privacy Policy, the practices of the Site or your dealings with us, please feel free to contact COUNTER CURRENT NEWS at:
-
-Email: CounterCurrentNews@gmail.com
+If you have any questions about this Privacy Policy, the practices of the Site or your dealings with us, please feel free to [Contact COUNTER CURRENT NEWS](http://countercurrentnews.com/contact-counter-current-news/)
