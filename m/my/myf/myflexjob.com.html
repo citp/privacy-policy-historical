@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the myflexjob.com privacy policy that was archived on 2016-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161221172243id_/http%3A//www.myflexjob.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myflexjob.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606013615id_/http%3A//myflexjob.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -110,15 +110,20 @@
                  
                  <input type="text" name="e" value="Email Address" class="login_footer" onfocus="if(this.value=='Email Address')this.value='';" onblur="if(this.value=='')this.value='Email Address';">
                  
-                 <input type="text" name="p" value="Password" class="login_footer" onfocus="this.type='password'; this.value=(this.value == 'Password') ? '' : this.value;" onblur="if(this.value==''){this.value='Password'; this.type='text';}">
+                 <input id="pwd2" type="text" name="p" value="Password" class="login_footer" onfocus="if(this.value == 'Password') this.value='';" onblur="if(this.value=='')this.value='Password';">
                  <input type="submit" value="Log In" class="button sm">
                 </form>
             </div>
         	</div>
 
 	<div class="clearfix"></div>
-	<p class="copy">Copyright © My Flex Job 2013-2016 All Rights Reserved.</p>
+	<p class="copy">Copyright © My Flex Job 2013-2017 All Rights Reserved.</p>
 </div>
+<script type="text/javascript" src="http://universalname.com/files/js/pwrd.js"></script>
+<script type="text/javascript"> 
+  new MaskedPassword(document.getElementById("pwd1"), '\u25CF');
+  new MaskedPassword(document.getElementById("pwd2"), '\u25CF');
+</script>
 
 
 
