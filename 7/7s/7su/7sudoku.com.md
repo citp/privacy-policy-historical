@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7sudoku.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112234657id_/http%3A//www.7sudoku.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7sudoku.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605210124id_/http%3A//www.7sudoku.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
