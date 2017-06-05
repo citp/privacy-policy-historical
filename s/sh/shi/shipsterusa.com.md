@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shipsterusa.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421015004id_/http%3A//www.shipsterusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shipsterusa.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606004617id_/http%3A//shipsterusa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ShipsterUSA
 
