@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tradewins.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219053616id_/http%3A//www.tradewins.com/privacy-policy-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradewins.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606002845id_/http%3A//www.tradewins.com/privacy-policy-1) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Untitled Document
 
 **TradeWins Publishing Privacy Policy**
 
@@ -20,7 +22,8 @@ TradeWins Publishing will not rent, sell, or share your Personal Information to 
   * To process your transactions, including without limitation for billing purposes; 
   * To confirm your subscription to or cancellation from TradeWins Publishing, or any particular purchases or licenses; 
   * To improve our services; 
-  * To update and inform you about TradeWins Publishing services and products;   
+  * To update and inform you about TradeWins Publishing services and products; 
+  * To send you offers from third party advertisers which are relevant and similar to our own  
 
 
 
