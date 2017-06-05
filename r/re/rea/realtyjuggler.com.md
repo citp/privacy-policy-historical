@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtyjuggler.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120154032id_/http%3A//www.realtyjuggler.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtyjuggler.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606011732id_/http%3A//www.realtyjuggler.com/Privacy) for the most accurate reproduction.*
 
 # RealtyJuggler Real Estate Software Privacy Policy
 
@@ -32,11 +32,15 @@ In order to request sales and support, Members need to fill out a Contact Us for
 
 ### Email & Phone
 
-RealOrganized, Inc. may periodically call you and send you emails regarding changes to the Site, the status of your membership, or as part of the sales & support process. RealOrganized, Inc. does not make available your Email address or phone number to third parties, except as required to complete a transaction. You may opt out this communication by contacting us via our online HelpDesk or via phone at: (970) 672-3467.
+RealOrganized, Inc. may periodically call you and send you emails regarding changes to the Site, the status of your membership, or as part of the sales & support process. RealOrganized, Inc. does not make available your Email address or phone number to third parties, except as required to complete a transaction.
 
-### Your Ability to Edit and Delete Your Account Information and Preferences
+### Your Ability to Edit Your Account Information and Preferences
 
-All personally identifiable information RealOrganized, Inc. collects on a Member is available for viewing and editing by our Member by accessing their profile. You can edit or delete your Account Information at any time from our website by signing in and changing your profile.
+All personally identifiable information RealOrganized, Inc. collects on a Member is available for viewing and editing by our Member by accessing their profile. You can edit your Account Information at any time from our website by signing in and changing your profile.
+
+### Your Ability to Delete Your Account
+
+You can delete your RealtyJuggler Account by contacting us via our online HelpDesk or via phone at: (970) 672-3467.
 
 ### Data Retention
 
