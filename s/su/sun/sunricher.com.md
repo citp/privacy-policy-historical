@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunricher.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218111923id_/http%3A//www.sunricher.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunricher.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606001243id_/http%3A//www.sunricher.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,6 +13,10 @@ To better protect your privacy, we provide this notice explaining our online inf
 We collect transaction information and email addresses. We collect only the minimum information necessary to complete your order online; this is the same information required to complete telephone orders - name, billing and shipping address, telephone number, and payment information. We require customer email address for online orders so that we may notify you of your order status or merchandise return status  
 If you purchase from sunricher.com, your email will be added to the sunricher.com's e-newsletter list and database. We may send you emails promoting our products, announcing special events and offering other special limited-time discounts, such as free shipping, that may be used by online customers. You may opt-out of receiving any email promotional communication at any time.  
 We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows 7 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
+
+## Information Collected by Sunricher APP
+
+When you use the APP of Sunricher Technology Limited, all personal information generated is limited to your use in the APP, we will not upload your personal information, all your personal information will not be leaked and used for other purposes.
 
 Currently ,we are using Piwik analytics to collect limited data for website performance and user accessibility improvement ONLY.
 
