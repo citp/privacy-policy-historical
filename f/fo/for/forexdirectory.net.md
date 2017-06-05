@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexdirectory.net privacy policy that was archived on 2016-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160918082442id_/http%3A//www.forexdirectory.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexdirectory.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003623id_/http%3A//www.forexdirectory.net/privacy.html) for the most accurate reproduction.*
 
 # Forex Directory
 
@@ -75,12 +75,3 @@ Except as otherwise stated in this Privacy Statement, this document only address
 
 Changes to this Privacy Statement  
 We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Statement, simply by posting such change, update, or modification on our Website and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on our Website. 
-
-Contact Us:  
-By Phone:  
-647 955 2739  
-Mon-Fri From 10am to 10pm Eastern Time 
-
-By Address:  
-Forex Directory  
-10 Lucinda Court, Toronto, Ontario, M3L 1R3 
