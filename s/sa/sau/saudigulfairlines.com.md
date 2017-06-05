@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the saudigulfairlines.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126160131id_/http%3A//www.saudigulfairlines.com/en/help-centre/view/HTML/30/9/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saudigulfairlines.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003644id_/http%3A//www.saudigulfairlines.com/en/help-centre/view/HTML/30/9/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | SaudiGulf Airlines
 
 ## Sites covered by this Privacy Policy
 
 This Privacy Policy applies to all SaudiGulf Airline owned websites and domains, and our wholly owned subsidiaries ("SaudiGulf Airline websites.")
+
+ 
+
+ 
 
 ## Types of information we collect
 
