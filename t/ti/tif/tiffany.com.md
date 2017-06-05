@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiffany.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119014902id_/http%3A//www.tiffany.com/Service/policy_vis.aspx%3FisMenu%3D1%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiffany.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012021id_/http%3A//www.tiffany.com/Service/policy_vis.aspx%3FisMenu%3D1%26) for the most accurate reproduction.*
 
 # Privacy Policy | Tiffany & Co.
 
@@ -26,7 +26,7 @@ In addition, when you visit our websites, open our emails, use our apps or inter
 
 The providers of third-party apps, tools, widgets and plug-ins on our websites and apps, such as Facebook “Like” buttons, also may use automated means to collect information regarding your interactions with these features. This information is collected directly by the providers of the features and is subject to the privacy policies or notices of these providers. To the extent permitted by applicable law, Tiffany is not responsible for these providers’ information practices.
 
-This Global Privacy Notice does not govern the collection or use of the information you provide in connection with a Tiffany charge card account. We notify our charge account holders of our privacy practices annually, or as otherwise required by law. If you are a charge account holder, you annually receive our Privacy Notice to Tiffany & Co. Charge Card Account Holders by mail. The information you provide in connection with your Tiffany charge card account is managed solely pursuant to that notice.
+This Global Privacy Notice does not govern the collection or use of the information you provide in connection with a Tiffany credit card account. We notify our charge account holders of our privacy practices annually, or as otherwise required by law. If you are a charge account holder, you annually receive our Privacy Notice to Tiffany & Co. Credit Card Account Holders by mail. The information you provide in connection with your Tiffany credit card account is managed solely pursuant to that notice.
 
 ### How We Use The Information We Collect
 
