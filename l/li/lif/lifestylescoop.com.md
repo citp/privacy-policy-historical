@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifestylescoop.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025225015id_/http%3A//lifestylescoop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestylescoop.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606011204id_/http%3A//lifestylescoop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Life Style Scoop
 
