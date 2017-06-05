@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the latinospost.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231151638id_/http%3A//www.latinospost.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinospost.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606001047id_/http%3A//latinospost.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Latinos Post
 
-Last Modified: February 12, 2012
+Last Modified: February 12, 2017
 
 This is the privacy policy ("Privacy Policy") for LatinosPost.com ("Site," "we," "us," or "our"). This Privacy Policy is intended to explain our privacy practices and covers the following areas:
 
