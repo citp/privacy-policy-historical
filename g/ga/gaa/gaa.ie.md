@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gaa.ie privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129070953id_/http%3A//www.gaa.ie/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaa.ie privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606014426id_/http%3A//www.gaa.ie/privacy-statement) for the most accurate reproduction.*
 
-# GAA.ie
+# GAA.ie - GAA Match Video and Highlights, Fixtures and Results, Latest News
 
 **Privacy Policy**  
 This statement discloses the privacy policy for www.GAA.ie, the official website of the Gaelic Athletic Association.
