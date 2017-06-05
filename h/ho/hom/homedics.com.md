@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homedics.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124203841id_/http%3A//www.homedics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedics.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605225018id_/http%3A//www.homedics.com/privacy-policy) for the most accurate reproduction.*
 
 # HoMedics.com | Privacy Policy
 
@@ -11,6 +11,8 @@ HoMedics, LLC collects and uses your personal information to give you superior c
 ## How we collect personal information
 
 We collect information about you in several ways. For example, we ask for your contact information when you correspond with us or ask to be included in an email mailing list. We collect and store the information you provide in a secure database.
+
+Our Ellia App requires that you allow us access to your camera and photos. The Ellia App captures an image and deletes the image captured within the amount of time it takes the App to recognize the color from your surroundings and match it to the mood light on your Ellia Aroma Diffuser, generally several seconds.
 
 ## When we disclose personal information
 
@@ -50,6 +52,6 @@ The HoMedics, LLC Customer Privacy Policy is subject to change at any time. We e
 
 Please contact privacy@homedics.com to report any known or suspected privacy or security breaches or to submit privacy-related questions or complaints about privacy.
 
-©2016 HoMedics, LLC. All Rights Reserved.
+©2017 HoMedics, LLC. All Rights Reserved.
 
-Last updated January 28, 2016
+Last updated February 3, 2017
