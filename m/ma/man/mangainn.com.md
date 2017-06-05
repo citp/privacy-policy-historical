@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangainn.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223203157id_/http%3A//www.mangainn.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangainn.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005103id_/http%3A//www.mangainn.net/privacy) for the most accurate reproduction.*
 
 # mangainn.net | Privacy Policy
 
