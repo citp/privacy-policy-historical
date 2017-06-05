@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ammoseek.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121003226id_/http%3A//ammoseek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ammoseek.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606010151id_/http%3A//ammoseek.com/privacy.html) for the most accurate reproduction.*
 
 # Ammoseek.com Privacy Policy
 
-[Find Ammo](https://web.archive.org/)  |  [Help](http://help.ammoseek.com/)  |  [About AmmoSeek](https://web.archive.org/about.html)  |  [Contact Us](https://web.archive.org/contact/)  |  [Store](https://web.archive.org/store/)  |  [Certified Retailers](https://web.archive.org/acr.html)  |  [Advertise](https://web.archive.org/advertising.html)  |  [FAQ](https://web.archive.org/faq.html)  |  [Friends](https://web.archive.org/friends.html)  |  [Deals & Coupons](https://web.archive.org/deals/)
+[Find Ammo](https://web.archive.org/)  |  [Help](http://help.ammoseek.com/)  |  [About AmmoSeek](https://web.archive.org/about.html)  |  [Contact Us](https://web.archive.org/contact/)  |  [Store](https://web.archive.org/store/)  |  [Certified Retailers](https://web.archive.org/acr.html)  |  [Advertise](https://web.archive.org/advertising.html)  |  [FAQ](https://web.archive.org/faq.html)  |  [Friends](https://web.archive.org/friends.html)  |  [Retailer Reviews](https://web.archive.org/?ratings=x)  |  [Deals & Coupons](https://web.archive.org/deals/)
 
 ## AmmoSeek Privacy Policy
 
@@ -23,6 +23,6 @@ We may share information with governmental agencies or other companies assisting
 Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
 
 **Privacy Contact Information**  
-If you have any questions, concerns, or comments about our privacy policy please [contact us using this form](http://ammoseek.com/contact/) or via telephone number: 615-AMMO-4U-4. 
+If you have any questions, concerns, or comments about our privacy policy please [contact us using this form](http://ammoseek.com/contact/) or via telephone number: 615-AMMO-4U-4. Please do not use this number for customer service, billing, or any other inquries. Please [contact us](http://ammoseek.com/contact/) though our web site. Thanks. 
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
