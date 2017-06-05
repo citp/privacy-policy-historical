@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americansignaturefurniture.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228130032id_/http%3A//www.americansignaturefurniture.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americansignaturefurniture.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003732id_/http%3A//www.americansignaturefurniture.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Signature Furniture
 
@@ -20,7 +20,7 @@ From American Signature's interactions with you: We collect information about yo
 
 From Third Party Sources: We may combine your information with information we collect or receive about you from other online and offline sources, which helps us to customize our services.
 
-If you are applying for or financing your purchase using a American Signature, Inc. credit card, issued by Synchrony Financial ("Sychrony") ("Credit Card"), we collect, use and disclose your information including personal information and/or financial information, on our own behalf and as agent for Sychrony, and Synchrony’s affiliates for the purposes set out in this policy, the Credit Card application, the cardholder agreement for the Credit Card and Synchrony’s Privacy Agreement found at [www.synchronyfinancial.com](https://web.archive.org/web/20161228130032id_/http%3A//www.americansignaturefurniture.com/www.synchronyfinancial.com). American Signature, Inc. may be providing Customer Service on the Credit Card Accounts for Synchrony. Synchrony and American Signature, Inc. may share your information including personal, financial and/or transaction information with each other and with their affiliates or others for that purpose and as described in this policy, the Credit Card application, the cardholder agreement for the Credit Card and Sychrony’s Privacy Agreement found at [www.synchronyfinancial.com](https://web.archive.org/web/20161228130032id_/http%3A//www.americansignaturefurniture.com/www.synchronyfinancial.com).
+If you are applying for or financing your purchase using a American Signature, Inc. credit card, issued by Synchrony Financial ("Sychrony") ("Credit Card"), we collect, use and disclose your information including personal information and/or financial information, on our own behalf and as agent for Sychrony, and Synchrony’s affiliates for the purposes set out in this policy, the Credit Card application, the cardholder agreement for the Credit Card and Synchrony’s Privacy Agreement found at [www.synchronyfinancial.com](http://www.synchronyfinancial.com/). American Signature, Inc. may be providing Customer Service on the Credit Card Accounts for Synchrony. Synchrony and American Signature, Inc. may share your information including personal, financial and/or transaction information with each other and with their affiliates or others for that purpose and as described in this policy, the Credit Card application, the cardholder agreement for the Credit Card and Sychrony’s Privacy Agreement found at [www.synchronyfinancial.com](http://www.synchronyfinancial.com/).
 
 We sometimes ask you for certain kinds of personal information to provide the services you request. This information includes:
 
@@ -129,3 +129,6 @@ We encourage interested persons to raise any concerns using the contact informat
 ### How To Contact Us
 
 If you have any questions about your privacy or security on our website, please contact us at [privacy@blueport.com](mailto:privacy@blueport.com). Alternatively, you may mail your request to Blueport Commerce 580 Harrison Ave, Boston, MA 02118 Attention: Privacy.
+
+  
+
