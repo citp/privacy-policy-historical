@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hobowars.com privacy policy that was archived on 2016-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161206160635id_/http%3A//hobowars.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hobowars.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606013554id_/http%3A//hobowars.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -10,14 +10,13 @@
 <meta name="title" content="HoboWars - The Best Free Online Game">
 <meta name="description" content="Fight other hobos, train, join a gang, race in shopping carts, own and train rats, beg for money, complete fun adventures and heaps more!">
 <link rel="image_src" href="http://www.hobowars.com/images/hobowars1.jpg">
-<link rel="stylesheet" href="/a/c/A.style.css,qver=0.pagespeed.cf.4gVIoLAqAx.css" type="text/css">
+<link rel="stylesheet" href="/a/c/style.css?ver=0" type="text/css">
 </head>
 <body>
 <div id="fb-root"></div>
-<script src="http://connect.facebook.net/en_US/all.js"></script>
-<script>FB.init({appId:'123145127848',status:true,cookie:true,xfbml:true,oauth:true});FB.Event.subscribe('auth.login',handleStatusChange);function handleStatusChange(response){updateUserInfo(response);}
-function updateUserInfo(response){window.location.reload();}
-function logout(){FB.logout(function(response){destroySession();window.location.reload();});}</script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script>function handleStatusChange(response){console.log(response);window.location.reload();}
+function checkLoginState(){FB.getLoginStatus(function(response){handleStatusChange(response);});}
+window.fbAsyncInit=function(){FB.init({appId:'123145127848',cookie:true,xfbml:true,version:'v2.8'});};(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/en_US/sdk.js";fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));function logout(){FB.logout(function(response){destroySession();window.location.reload();});}</script>
 <script type="text/javascript" src="/a/j/jquery.js.pagespeed.jm.BU703oBcNI.js"></script>
 <script type="text/javascript" src="/a/j/jquery.tools.min.js.pagespeed.jm.sbYNemFU7X.js"></script>
 <div id="wrapper">
@@ -33,7 +32,7 @@ We have detected that JavaScript is disabled. You should be able to play the gam
 <div class="acol">
 <div class="title">Username:</div>
 <div class="input"><input class="textinput" name="login" type="text" id="login" value="" maxlength="15" tabindex="1"></div>
-<div style="margin-top:3px;"><fb:login-button size="small" scope="email,publish_stream,user_photos">Login with Facebook</fb:login-button></div>
+<div style="margin-top:3px;"><fb:login-button size="small" scope="email,user_photos" onlogin="checkLoginState();">Login with Facebook</fb:login-button></div>
 </div>
 <div class="acol">
 <a href="/password/" id="forgot">forgot it?</a>
