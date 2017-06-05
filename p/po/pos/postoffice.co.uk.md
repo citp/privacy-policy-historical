@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postoffice.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000326id_/http%3A//www.postoffice.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postoffice.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005718id_/http%3A//www.postoffice.co.uk/privacy) for the most accurate reproduction.*
 
 # Our Policies - Privacy | Post Office
 
@@ -53,7 +53,7 @@ We may receive personal information about you from information providers, for ex
 
 ###  Who sees your personal information? 
 
-The personal information we collect about you will be used within the Post Office Limited and, where appropriate, by and on behalf of our partner companies (see below). Exactly who sees your personal information depends on the context in which you provided it and whether or not you have given any marketing preferences. You can change your mind about your marketing preferences at any time by contacting our customer services team on 0845 611 2970, or contact us in the manner set out in any relevant product or service literature you are in receipt of.
+The personal information we collect about you will be used within the Post Office Limited and, where appropriate, by and on behalf of our partner companies (see below). Exactly who sees your personal information depends on the context in which you provided it and whether or not you have given any marketing preferences. You can change your mind about your marketing preferences at any time by contacting our customer services team using our online [contact form](http://www.postoffice.co.uk/general-enquiry), or contact us in the manner set out in any relevant product or service literature you are in receipt of.
 
 Sometimes we'll share your personal information with third parties outside the Post Office. We may do this for the following reasons:
 
@@ -84,13 +84,13 @@ How long we keep your personal information depends on the context in which you p
 
 ###  Maintaining the personal information we hold for you 
 
-We aim to give you control over the personal information we hold about you. You can update the personal information we hold for you at any time by contacting our customer services team on 0845 611 2970, or contact us in the manner set out in any relevant product or service literature you are in receipt of.
+We aim to give you control over the personal information we hold about you. You can update the personal information we hold for you at any time by contacting our customer services team using our [contact form](http://www.postoffice.co.uk/general-enquiry), or contact us in the manner set out in any relevant product or service literature you are in receipt of.
 
-You can request details of all the personal information we hold about you by contacting our Information Rights Team. They will send you an application form which you should complete and return. The charge for this service is £10 for each request. You can contact the team by writing to: Information Rights Team, 1st Floor, Finsbury Dials, 20 Finsbury Street, London EC2Y 9AQ. Email: [foia@postoffice.co.uk](mailto:foia@postoffice.co.uk) Telephone: 0345 611 2970.
+You can request details of all the personal information we hold about you by contacting our Information Rights Team. They will send you an application form which you should complete and return. The charge for this service is £10 for each request. You can contact the team by writing to: Information Rights Team, 1st Floor, Finsbury Dials, 20 Finsbury Street, London EC2Y 9AQ. Email: [foia@postoffice.co.uk](mailto:foia@postoffice.co.uk).
 
 ###  Marketing preferences 
 
-If you have given your consent, we at the Post Office or our partner companies may provide you with information about products, services and promotions that we at the Post Office, our partner companies believe will be of interest to you. You can change your mind about your marketing preferences at any time by contacting our customer services team on 0845 611 2970, or contact us in the manner set out in any relevant product or service literature you are in receipt of.
+If you have given your consent, we at the Post Office or our partner companies may provide you with information about products, services and promotions that we at the Post Office, our partner companies believe will be of interest to you. You can change your mind about your marketing preferences at any time by contacting our customer services team using our [contact form](http://www.postoffice.co.uk/general-enquiry), or contact us in the manner set out in any relevant product or service literature you are in receipt of.
 
 Please note:
 
@@ -142,6 +142,6 @@ Post Office Limited is registered in England and Wales. Registered Number 215454
 For further information about our privacy practices please contact our Information Right Team. You can contact the team by:
 
   * **Writing** to Finsbury Dials, 20 Finsbury Street, London, EC2Y 9AQ
-  * **Calling** 08457 22 33 44
+  * Online via our [contact form](http://www.postoffice.co.uk/general-enquiry)
 
 
