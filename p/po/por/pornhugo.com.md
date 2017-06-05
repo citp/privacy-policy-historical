@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornhugo.com privacy policy that was archived on 2016-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160921115821id_/http%3A//www.pornhugo.com/privacyy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornhugo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606001902id_/http%3A//www.pornhugo.com/privacyy) for the most accurate reproduction.*
 
 # Terms and Conditions - PornHugo.Com
 
