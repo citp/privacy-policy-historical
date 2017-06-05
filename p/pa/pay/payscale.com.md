@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022113225id_/http%3A//www.payscale.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013652id_/http%3A//www.payscale.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
