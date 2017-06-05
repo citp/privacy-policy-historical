@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bharatvyapar.in privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202124727id_/http%3A//www.bharatvyapar.in/Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharatvyapar.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013506id_/http%3A//www.bharatvyapar.in/policy) for the most accurate reproduction.*
 
 # Policy | Bharat Vyapar
 
