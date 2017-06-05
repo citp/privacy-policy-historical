@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the utrader.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122101239id_/http%3A//en.utrader.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utrader.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605120548id_/https%3A//en.utrader.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-AUDJPY
-
-73.74700 / 73.75000
-
-XAUUSD
-
-1662.710 / 1662.810
-
-[online chat]()
 
 Privacy Policy
 
@@ -24,7 +14,7 @@ _**Information Collection**_
 
 **Personally Identifiable Information**
 
-During use of our Service, we will ask for specific personally identifiable information which will be used to identify you, contact you and administer your account (known herein as “Personal Information”). This information will also be used to allow you to access some restricted parts of the Site and Service. The Personal information we request may include, but is not limited to, your name, email address, mailing address, telephone number and your bank account or credit card details. We may maintain information regarding your trading activity in addition to monitoring and recording some or all of the communications between you and uTrader. Some links on the Site may also allow us to track which of these links have been followed by you.
+During use of our Service, we will ask for specific personally identifiable information which will be used to identify you, contact you and administer your account (known herein as “Personal Information”). This information will also be used to allow you to access some restricted parts of the Site and Service. The Personal information we request may include, but is not limited to, your name, email address, mailing address, telephone number. We may maintain information regarding your trading activity in addition to monitoring and recording some or all of the communications between you and uTrader. Some links on the Site may also allow us to track which of these links have been followed by you.
 
 **Non-Personally Identifiable Information**
 
@@ -62,7 +52,7 @@ With respect to certain services, we may also post additional ancillary privacy 
 
 _**Changing or Deleting Your Information**_
 
-Our users are welcome to review, correct, update or deled their Personal information as long as it is not being retained for legitimate business purposes or by law. If you choose to delete all such information, we may deactivate your account. According to our policies in effect at the time, we may remove any information related to you or provided by you.
+Our users are welcome to review, correct, update or delete their Personal information as long as it is not being retained for legitimate business purposes or by law. If you choose to delete all such information, we may deactivate your account. According to our policies in effect at the time, we may remove any information related to you or provided by you.
 
 _**Security**_
 
