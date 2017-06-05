@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the londonfog.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218232945id_/http%3A//www.londonfog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonfog.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606011638id_/http%3A//www.londonfog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**
 
 LondonFog.com respects the privacy of our customers and the users of our website and has instituted the policies and practices described below to ensure that your personal information is handled appropriately. Our online privacy policy describes the types of personal information we may collect from you when you visit our website and when we share it with third parties. The information on this website and our privacy policy are subject to change from time to time. Any material changes to our privacy policy and practices will be reflected on this page so that you can be aware of what information we collect and how we are using and/or disclosing it. By using our website, you consent to the collection and use of this information by London Fog.com.
 
@@ -29,17 +27,3 @@ Yes. LondonFog.com honors requests to unsubscribe from receipt of emails, not on
 ## Does LondonFog.com have links to other web sites?
 
 While you are using this website, you may be linked or directed to other third party sites outside of the website that are beyond our control. Each of these third parties may have a privacy policy different from ours. For example, you might click on a link or banner ad that will take you off the website. These links and banners may take you to sites of advertisers, sponsors and co-branding partners. Please review the privacy policies of these sites. We are not responsible for any actions or policies of such third parties. We welcome your comments regarding this privacy policy. Please send any concerns to: LondonFog.com 1615 Kellogg Drive Douglas, GA 31535
-
-**
-
-**
-
-Close
-
-Close
-
-## Welcome to the New London Fog Website!
-
-### Sign up for the London Fog newsletter to receive the latest promotions and sales
-
-**
