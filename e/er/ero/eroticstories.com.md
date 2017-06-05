@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eroticstories.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127163329id_/http%3A//eroticstories.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eroticstories.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605195041id_/http%3A//www.eroticstories.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
