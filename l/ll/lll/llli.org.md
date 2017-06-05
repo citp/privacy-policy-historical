@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the llli.org privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123163239id_/http%3A//www.llli.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the llli.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015256id_/http%3A//www.llli.org/privacy) for the most accurate reproduction.*
 
 # LLLI | Privacy Policy
 
@@ -96,8 +96,8 @@ telephone (office administration): 1+919-459-2167
 facsimile: 1+919-459-2167
 
 La Leche League International  
-2501 Aerial Center Parkway., Suite 103   
-Morrisville, NC 27560  
+110 Horizon Drive, Suite 210  
+Raleigh, NC 27615  
 USA
 
 ####   
