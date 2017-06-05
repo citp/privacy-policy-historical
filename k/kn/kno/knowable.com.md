@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowable.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608100904id_/http%3A//www.knowable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowable.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606014027id_/http%3A//knowable.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
