@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the partstown.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119105420id_/http%3A//www.partstown.com/is-bin/INTERSHOP.enfinity/WFS/Reedy-PartsTown-Site/en_US/-/USD/ptExtraPage-Start%3FTemplateName%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partstown.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606004022id_/http%3A//www.partstown.com/is-bin/INTERSHOP.enfinity/WFS/Reedy-PartsTown-Site/en_US/-/USD/ptExtraPage-Start%3FTemplateName%3Dprivacy) for the most accurate reproduction.*
 
 # Restaurant Equipment Parts, Commercial Kitchen Parts | Parts Town
 
 PRIVACY STATEMENT 
 
-This is the Parts Town online privacy policy ("Policy"). This Policy applies only to activities Parts Town engages in on its website (the �Web site") and does not apply to Parts Town activities that are "offline" or unrelated to the website. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
+This is the Parts Town online privacy policy ("Policy"). This Policy applies only to activities Parts Town engages in on its website (the “Web site") and does not apply to Parts Town activities that are "offline" or unrelated to the website. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
 
 Collection of your Personal Information 
 
