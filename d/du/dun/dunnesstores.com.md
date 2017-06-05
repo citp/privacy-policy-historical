@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunnesstores.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125094717id_/http%3A//www.dunnesstores.com/privacy-policy/content/fcp-content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunnesstores.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606014824id_/http%3A//www.dunnesstores.com/privacy-policy/content/fcp-content) for the most accurate reproduction.*
 
 # Privacy Policy | Dunnes Stores | Dunnes Stores
 
@@ -10,7 +10,7 @@ We ask for your personal details when you use the guest checkout function during
 
 This information is used to reply to your enquiries, process your online order(s) or gift voucher order, to send subscriber emails/text messages and to improve our services and knowledge of you as a valued customer.
 
-This information is not released to any third parties with the exception of our data processing and support services providers, all of whom are appointed by us in compliance with the requirements of the Data Protection Acts of 1988-2003.
+This information is not released to any third parties with the exception of our data processing and support services providers, all of whom are appointed by us in compliance with the requirements of the Data Protection Acts of 1988-2003. We are not responsible for any loss, destruction, alteration or disclosure of your information which is caused by any third party. 
 
 ### Contacting us
 
