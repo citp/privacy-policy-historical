@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsandpromotions.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222190953id_/http%3A//www.newsandpromotions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsandpromotions.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606004634id_/http%3A//www.newsandpromotions.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - News & Promotions
+# Privacy Policy
 
 This Privacy Policy outlines important information regarding the use and disclosure of information collected via this Website. NewsAndPromotions.com provides this Privacy Policy to help users make an informed decision as to whether to use or continue using the Website. PLEASE NOTE: OUR PRIVACY POLICY CHANGES FROM TIME TO TIME AND CHANGES ARE EFFECTIVE UPON POSTING. PLEASE CHECK BACK FREQUENTLY FOR UPDATES AS IT IS YOUR SOLE RESPONSIBILITY TO BE AWARE OF CHANGES. NewsAndPromotions.com DOES NOT PROVIDE NOTICES OF CHANGES IN ANY MANNER OTHER THAN BY POSTING THE CHANGES AT THIS WEBSITE. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY PLEASE DO NOT PROVIDE ANY INFORMATION TO NewsAndPromotions.com OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF THE WEB SITES REFERRED TO IN THIS PRIVACY POLICY.
 
