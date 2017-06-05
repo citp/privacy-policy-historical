@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stream-tv2.to privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124014702id_/http%3A//stream-tv2.to/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stream-tv2.to privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606000634id_/http%3A//stream-tv3.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stream TV Free | Stream TV Free
 
