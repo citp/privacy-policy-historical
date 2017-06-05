@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topsimilarsites.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111053150id_/http%3A//www.topsimilarsites.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsimilarsites.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606014431id_/http%3A//www.topsimilarsites.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Top Similar Sites
 
@@ -42,4 +42,4 @@ This policy was last modified on 20/06/2013
 
 ### Popular Tags
 
-sports printer weather world drivers india fresh comic sharing videos translation network soul albums celebrity convert chicago vacances pictures warehouse massage advice silver skiing foro hotels educational power hill connecticut earth wall london standard dealer current hunter specialty corporation ireland
+facebook scores birds website phoenix bay calgary dead files hits manhattan magic couple hard ideal chevrolet fresh type albums videos authentic hill earth marchex wall girl standard workshop corporation international minneapolis battle play heights los fund jones songs provide dvd
