@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fitstylelife.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316213250id_/http%3A//www.fitstylelife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitstylelife.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013957id_/http%3A//www.fitstylelife.com/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy
-
-Last modified: March 27, 2014.
+# Privacy Policy - FitStyleLife
 
 **Introduction**  
 FitStyleLife.com (“Company” or “We”) respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the type of information we may collect from you or that you may provide when you visit the website FitStyleLife.com (our “Website”) and our practices for collecting, using, maintaining, protecting and disclosing that information.
@@ -17,7 +15,7 @@ It does not apply to information collected by:
 Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
 **Children Under the Age of 13**  
-Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please [contact us](http://www.fitstylelife.com/contact-us/).
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us.
 
 **Information We Collect About You and How We Collect It**  
 We do not collect personal information about you. We only collect your IP address, which we use to attempt to determine your zip code. We use this information to decide which insurance company links to display to you. We only use this information internally and do not share this information with any third parties. We collect this information:  
@@ -45,7 +43,7 @@ We will not disclose your personal information:
 • If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of FitStyleLife.com, our customers or others. We may disclose aggregated information that does not identify any individual without restriction.
 
 **Your California Privacy Rights**  
-California Civil Code Section § 1798.83 may permit users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please [contact us](http://www.fitstylelife.com/contact-us/). At this time, we do not respond to browser “do not track” signals.
+California Civil Code Section § 1798.83 may permit users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please [“>contact us](https://web.archive.org/web/20170606013957id_/http://www.fitstylelife.com/privacy-policy/%3Ca%20href=). At this time, we do not respond to browser “do not track” signals.
 
 **Data Security**  
 We have implemented measures designed to secure our Website from unauthorized access, use, and alteration, but cannot guarantee its security.
