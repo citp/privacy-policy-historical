@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paulfredrick.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223132634id_/http%3A//www.paulfredrick.com/custservice/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulfredrick.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606001001id_/http%3A//www.paulfredrick.com/custservice/privacy.aspx) for the most accurate reproduction.*
 
-# Men's Clothing, Smart Style for Professional Men | Paul Fredrick
+# Safety/Privacy Using Your Information | Paul Fredrick
 
 ### Paul Fredrick is committed to respecting the privacy of our customers.
 
