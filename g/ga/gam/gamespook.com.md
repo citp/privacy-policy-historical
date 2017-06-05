@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamespook.com privacy policy that was archived on 2016-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160730011527id_/http%3A//www.gamespook.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamespook.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606011848id_/http%3A//www.gamespook.com/privacy.html) for the most accurate reproduction.*
 
 # Free Online FunGames to Play
 
