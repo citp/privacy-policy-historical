@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techmagnifier.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206211534id_/http%3A//www.techmagnifier.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techmagnifier.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605203128id_/http%3A//www.techmagnifier.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 We, Techmagnifier, the creator of this Privacy Policy ensure our firm commitment to your privacy _vis-à-vis_ the protection of your priceless information. The Privacy Policy contains information about ‘[ **www.techmagnifier.com**](http://www.techmagnifier.com/)’. In order to endow you with our uninterrupted use of services, we may collect and, in some circumstances, disclose information about you. To enhance better protection of your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used.
 
-If you have any questions or concerns regarding this privacy policy, you should contact our Customer Support Desk at [info@techmagnifier.com ]
+If you have any questions or concerns regarding this privacy policy, you should contact our Customer Support Desk at [info@techmagnifier.com ] 
 
   1. **OVERVIEW**
 
@@ -113,3 +113,6 @@ We treat data as an asset that must be protected against loss and unauthorized a
 
 
 We cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. Therefore, although we are committed to protecting your privacy, we do not promise, and you should not expect, that your personal information will always remain private. As a user of the Site, you understand and agree that you assume all responsibility and risk for your use of the website, the internet generally, and the documents you post or access and for your conduct on and off the Site.
+
+  
+
