@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affinonline.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012205454id_/http%3A//affinonline.com/Corporate-Internet-Banking/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affinonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005547id_/http%3A//affinonline.com/Corporate-Internet-Banking/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # affinOnline - Privacy Policy
 
