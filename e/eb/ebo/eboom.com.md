@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eboom.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006010410id_/http%3A//www.eboom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eboom.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605130501id_/http%3A//eboom.com/privacy) for the most accurate reproduction.*
 
 # Search eboom
 
