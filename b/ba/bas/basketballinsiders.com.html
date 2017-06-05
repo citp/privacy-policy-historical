@@ -1,17 +1,11 @@
-<!--The following is the downloaded HTML source of the basketballinsiders.com privacy policy that was archived on 2016-11-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161111021013id_/http%3A//www.basketballinsiders.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the basketballinsiders.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606014557id_/http%3A//www.basketballinsiders.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head>
-
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-
-
 <title>Privacy Policy | Basketball Insiders | NBA Rumors And Basketball News</title>
-
-
 
 
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.basketballinsiders.com/feed/">
@@ -24,23 +18,13 @@
 
 
 
-
-
-
-
 <meta property="og:description" content=""> 
 
 
 
 
 
-
-
-
-
-
-
-<!-- All in One SEO Pack 2.3.11 by Michael Torbert of Semper Fi Web Design[261,343] -->
+<!-- All in One SEO Pack 2.3.12.5 by Michael Torbert of Semper Fi Web Design[251,333] -->
 <meta name="description" content="Privacy Policy Protecting your private information is our priority. This Statement of Privacy applies to the http://www.basketballinsiders.com and">
 
 <link rel="canonical" href="http://www.basketballinsiders.com/privacy-policy/">
@@ -49,10 +33,17 @@
 <link rel="alternate" type="application/rss+xml" title="Basketball Insiders | NBA Rumors And Basketball News » Feed" href="http://www.basketballinsiders.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Basketball Insiders | NBA Rumors And Basketball News » Comments Feed" href="http://www.basketballinsiders.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Basketball Insiders | NBA Rumors And Basketball News » Privacy Policy Comments Feed" href="http://www.basketballinsiders.com/privacy-policy/feed/">
-		<script type="text/javascript" async="" src="//toolbar.complex.com/dist/ctoolbar.min.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/www.basketballinsiders.com\/wp-includes\/js\/wp-emoji.js?ver=4.6.1","twemoji":"http:\/\/www.basketballinsiders.com\/wp-includes\/js\/twemoji.js?ver=4.6.1"}};
+		<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/www.basketballinsiders.com\/wp-includes\/js\/wp-emoji.js?ver=4.7.5","twemoji":"http:\/\/www.basketballinsiders.com\/wp-includes\/js\/twemoji.js?ver=4.7.5"}};
 			( function( window, document, settings ) {
 	var src, ready, ii, tests;
+
+	/*
+	 * Create a canvas element for testing native browser support
+	 * of emoji.
+	 */
+	var canvas = document.createElement( 'canvas' );
+	var context = canvas.getContext && canvas.getContext( '2d' );
 
 	/**
 	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
@@ -60,18 +51,19 @@
 	 *
 	 * @since 4.2.0
 	 *
-	 * @param type {String} Whether to test for support of "simple", "flag", "diversity" or "unicode8" emoji.
+	 * @param type {String} Whether to test for support of "flag" or "emoji4" emoji.
 	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
 	 */
 	function browserSupportsEmoji( type ) {
-		var canvas = document.createElement( 'canvas' ),
-			context = canvas.getContext && canvas.getContext( '2d' ),
-			stringFromCharCode = String.fromCharCode,
-			flag, flag2, tonedata, tone, tone2;
+		var stringFromCharCode = String.fromCharCode,
+			flag, flag2, technologist, technologist2;
 
 		if ( ! context || ! context.fillText ) {
 			return false;
 		}
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
 
 		/*
 		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
@@ -86,13 +78,13 @@
 				/*
 				 * This works because the image will be one of three things:
 				 * - Two empty squares, if the browser doesn't render emoji
-				 * - Two squares with 'A' and 'U' in them, if the browser doesn't render flag emoji
-				 * - The Australian flag
+				 * - Two squares with 'U' and 'N' in them, if the browser doesn't render flag emoji
+				 * - The United Nations flag
 				 *
 				 * The first two will encode to small images (1-2KB data URLs), the third will encode
 				 * to a larger image (4-5KB data URL).
 				 */
-				context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
+				context.fillText( stringFromCharCode( 55356, 56826, 55356, 56819 ), 0, 0 );
 				if ( canvas.toDataURL().length < 3000 ) {
 					return false;
 				}
@@ -116,45 +108,23 @@
 				flag2 = canvas.toDataURL();
 
 				return flag !== flag2;
-			case 'diversity':
+			case 'emoji4':
 				/*
-				 * This tests if the browser supports the Emoji Diversity specification, by rendering an
-				 * emoji with no skin tone specified (in this case, Santa). It then adds a skin tone, and
-				 * compares if the emoji rendering has changed.
+				 * Emoji 4 has the best technologists. So does WordPress!
+				 *
+				 * To test for support, try to render a new emoji (woman technologist: medium skin tone),
+				 * then compare it to how it would look if the browser doesn't render it correctly
+				 * (woman technologist: medium skin tone + personal computer).
 				 */
-				context.fillText( stringFromCharCode( 55356, 57221 ), 0, 0 );
-				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
-				tone = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+				context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 8205, 55357, 56507), 0, 0 );
+				technologist = canvas.toDataURL();
 
-				context.fillText( stringFromCharCode( 55356, 57221, 55356, 57343 ), 0, 0 );
-				// Chrome has issues comparing arrays, and Safari has issues converting arrays to strings.
-				// So, we create our own string and compare that, instead.
-				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
-				tone2 = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+				context.clearRect( 0, 0, canvas.width, canvas.height );
 
-				return tone !== tone2;
-			case 'simple':
-				/*
-				 * This creates a smiling emoji, and checks to see if there is any image data in the
-				 * center pixel. In browsers that don't support emoji, the character will be rendered
-				 * as an empty square, so the center pixel will be blank.
-				 */
-				context.fillText( stringFromCharCode( 55357, 56835 ), 0, 0 );
-				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
-			case 'unicode8':
-				/*
-				 * To check for Unicode 8 support, let's try rendering the most important advancement
-				 * that the Unicode Consortium have made in years: the burrito.
-				 */
-				context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
-				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
-			case 'unicode9':
-				/*
-				 * Do Unicode 9 emoji render?
-				 * ¯\_(ツ)_/¯
-				 */
-				context.fillText( stringFromCharCode( 55358, 56631 ), 0, 0 );
-				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+				context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 55357, 56507), 0, 0 );
+				technologist2 = canvas.toDataURL();
+
+				return technologist !== technologist2;
 		}
 
 		return false;
@@ -164,11 +134,11 @@
 		var script = document.createElement( 'script' );
 
 		script.src = src;
-		script.type = 'text/javascript';
+		script.defer = script.type = 'text/javascript';
 		document.getElementsByTagName( 'head' )[0].appendChild( script );
 	}
 
-	tests = Array( 'simple', 'flag', 'unicode8', 'diversity', 'unicode9' );
+	tests = Array( 'flag', 'emoji4' );
 
 	settings.supports = {
 		everything: true,
@@ -220,7 +190,7 @@
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="http://www.basketballinsiders.com/wp-includes/js/twemoji.js?ver=4.6.1" type="text/javascript"></script><script src="http://www.basketballinsiders.com/wp-includes/js/wp-emoji.js?ver=4.6.1" type="text/javascript"></script>
+		</script><script src="http://www.basketballinsiders.com/wp-includes/js/twemoji.js?ver=4.7.5" type="text/javascript" defer=""></script><script src="http://www.basketballinsiders.com/wp-includes/js/wp-emoji.js?ver=4.7.5" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -236,63 +206,51 @@ img.emoji {
 }
 </style>
 <link rel="stylesheet" id="bcct_style-css" href="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/plugins/better-click-to-tweet/assets/css/styles.css?ver=3.0" type="text/css" media="all">
+<link rel="stylesheet" id="theiaPostSlider-css" href="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/plugins/theia-post-slider/css/base.css?ver=1.6.4" type="text/css" media="all">
+<link rel="stylesheet" id="theiaPostSlider-font-css" href="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/plugins/theia-post-slider/fonts/style.css?ver=1.6.4" type="text/css" media="all">
 <!--[if lt IE 9]>
-<link rel='stylesheet' id='iecss-css'  href='http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/themes/osage/css/iecss.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='iecss-css'  href='http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/themes/osage/css/iecss.css?ver=4.7.5' type='text/css' media='all' />
 <![endif]-->
-<link rel="stylesheet" id="mvp-style-css" href="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/themes/osage/style.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="reset-css" href="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/themes/osage/css/reset.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="media-queries-css" href="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/themes/osage/css/media-queries.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="mc4wp-form-basic-css" href="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-basic.css?ver=4.0.7" type="text/css" media="all">
-<!-- This site uses the Google Analytics by MonsterInsights plugin v5.5.4 - Universal enabled - https://www.monsterinsights.com/ -->
-<script type="text/javascript">
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
-
-	__gaTracker('create', 'UA-46749583-1', 'auto');
-	__gaTracker('set', 'forceSSL', true);
-	__gaTracker('require', 'displayfeatures');
-	__gaTracker('require', 'linkid', 'linkid.js');
-	__gaTracker('send','pageview');
-
-</script>
-<!-- / Google Analytics by MonsterInsights -->
+<link rel="stylesheet" id="mvp-style-css" href="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/themes/osage/style.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="reset-css" href="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/themes/osage/css/reset.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="media-queries-css" href="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/themes/osage/css/media-queries.css?ver=4.7.5" type="text/css" media="all">
 <script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1"></script>
-<link rel="https://api.w.org/" href="http://www.basketballinsiders.com/wp-json/">
+<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/plugins/sticky-ad-bar/js/sab_bar_script.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/plugins/sticky-ad-bar/js/jquery.cookie.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/plugins/theia-post-slider/js/balupton-history.js/jquery.history.js?ver=1.7.1"></script>
+<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/plugins/theia-post-slider/js/async.min.js?ver=25.11.2012"></script>
+<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/plugins/theia-post-slider/js/tps.js?ver=1.6.4"></script>
+<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/plugins/theia-post-slider/js/tps-transition-slide.js?ver=1.6.4"></script>
+<!-- This site uses the Better Analytics plugin.  https://marketplace.digitalpoint.com/better-analytics.3354/item -->
+<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/plugins/better-analytics/js/loader.php?ver=1.2.3.js"></script><link rel="https://api.w.org/" href="http://www.basketballinsiders.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.basketballinsiders.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.basketballinsiders.com/wp-includes/wlwmanifest.xml"> 
 <link rel="shortlink" href="http://www.basketballinsiders.com/?p=198">
 <link rel="alternate" type="application/json+oembed" href="http://www.basketballinsiders.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.basketballinsiders.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://www.basketballinsiders.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.basketballinsiders.com%2Fprivacy-policy%2F&amp;format=xml">
+        <style>
+            .theiaPostSlider_nav.fontTheme ._title {
+                line-height: 48px;
+            }
 
-    <!-- cmnUNT | Begin head script -->
-    <script data-cfasync="false" type="text/javascript">
-        var isMobile = /iPhone|iPod|BlackBerry|Opera Mini|(android|bb\d+|meego).+mobile/i.test(navigator.userAgent);
-        if (isMobile) {
-            cmnunt_site = "basketballinsiders_mob"; //set in admin
-        } else {
-            cmnunt_site = "basketballinsiders"; //set in admin
-        }
-        cmnunt_silo     = 's_spo'; //set in admin
-        cmnunt_subsilo  = '';
-        cmnunt_tier     = 'to,t2,subhome';
-        cmnunt_zone     = 'page';
-        cmnunt_kw       = '';
-        cmnunt_exclude  = '';
-        cmn_tb_theme    = 'dark';
-        if (isMobile) {
-            document.write('<scr'+'ipt src="http://cdn.complexmedianetwork.com/js/cmnUNTmobile.js"></scr'+'ipt>');
-        } else {
-            document.write('<scr'+'ipt src="http://cdn.complexmedianetwork.com/js/cmnUNT.js"></scr'+'ipt>');
-        }
-    </script><script src="http://cdn.complexmedianetwork.com/js/cmnUNT.js"></script>
-    
-    <!-- cmnUNT | Header Unit Centering Styles -->
-    <link rel="stylesheet" type="text/css" href="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/plugins/cm-ad-map/dist/css/cmn_styles.css">
-    <style type="text/css">.oembed-instagram{box-shadow: 1px 1px 3px #efefef;  background-color: #ffffff; border: 1px solid #f5f5f5; margin: 1em 5px; padding: 8px;}.oembed-instagram iframe{display: block; margin: 0 auto; max-width: 100%; box-sizing: border-box;}</style>
+            .theiaPostSlider_nav.fontTheme ._prev,
+            .theiaPostSlider_nav.fontTheme ._next {
+                font-size: 48px;
+                color: #dd0000;
+                line-height: 0;
+            }
 
+            .theiaPostSlider_nav.fontTheme ._prev:hover,
+            .theiaPostSlider_nav.fontTheme ._next:hover {
+                color: #ff2626;
+            }
+
+            .theiaPostSlider_nav.fontTheme ._disabled {
+                color: #6d6d6d !important;
+            }
+        </style>
+        
 <!-- Twitter Cards Meta By WPDeveloper.net -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@bballinsiders">
@@ -618,20 +576,71 @@ nav {
 <style type="text/css" id="custom-background-css">
 body.custom-background { background-color: #b7b7b7; }
 </style>
+<!-- Start HeaderBidTag -->
+<script id="mbid-nucleus" src="//c.mbid.io/tags/h" data-bsm-flag="true" data-bsm-pub="basketballinsiders" data-bsm-slot-list="www.basketballinsiders.com/atf@728x90 www.basketballinsiders.com/atf@300x250 www.basketballinsiders.com/btf@300x250"></script>
+
+<!-- End HeaderBidTag -->
+
+<!-- Start GPT Async Tag -->
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+  var gptadslots = [];
+  var googletag = googletag || {cmd:[]};
+</script>
+<script>
+  googletag.cmd.push(function() {
+    var mapping1 = googletag.sizeMapping()
+                            .addSize([980, 0], [[970, 90], [970, 250], [728, 90]])
+                            .addSize([0, 0], [[320, 50], [300, 50], [300, 100]])
+                            .addSize([768, 0], [[728, 90]])
+                            .build();
+
+    //Adslot 1 declaration
+    gptadslots.push(googletag.defineSlot('/1246049/BasketballInsiders_Leaderboard_ROS', [[970,90],[970,250],[300,50],[320,50],[300,100],[728,90]], 'div-gpt-ad-9652896-1')
+                             .defineSizeMapping(mapping1)
+                             .addService(googletag.pubads()));
+    //Adslot 2 declaration
+    gptadslots.push(googletag.defineSlot('/1246049/BasketballInsiders_300x250_ATF_ROS', [[300,250],[300,600]], 'div-gpt-ad-9652896-2')
+                             .addService(googletag.pubads()));
+    //Adslot 3 declaration
+    gptadslots.push(googletag.defineSlot('/1246049/Basketball_Insiders_300x250_ROS', [[300,250],[300,600]], 'div-gpt-ad-9652896-3')
+                             .addService(googletag.pubads()));
+    //Adslot 4 declaration
+    gptadslots.push(googletag.defineSlot('/1246049/BasketballInsiders_1x1', [[1,1]], 'div-gpt-ad-9652896-4')
+                             .addService(googletag.pubads()));
+
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.pubads().setForceSafeFrame(false);
+    googletag.enableServices();
+  });
+</script>
+<!-- End GPT Async Tag -->
+
+
+<!-- Start AIR.TV Viral -->
+<script async="" src="https://embed.air.tv/v1/twoview_bootstrap.js?organization=b6V9NyTdRQGeWbnMmfnvwg"></script>
+<!-- End AIR.TV Viral -->
+
+<!-- Start Sharethrough Tag -->
+<script type="text/javascript" src="//native.sharethrough.com/assets/sfp.js"></script>
+<!-- End Sharethrough Tag -->
+</head>
 
 
 
-<script type="text/javascript" async="" src="//basketballinsiders.disqus.com/embed.js"></script><script async="" type="text/javascript" src="http://basketballinsiders.disqus.com/count.js"></script></head>
+<body class="page-template-default page page-id-198 custom-background">
 
 
 
-<body class="page page-id-198 page-template-default custom-background">
-<!-- Complex Start -->
-<div id="cmn_ad_tag_head" class="fw_basketballinsiders">
-<script type="text/javascript">cmnUNT('3x3', tile_num++);</script>
+<!-- Async AdSlot 4 for Ad unit 'BasketballInsiders_1x1' ### Size: [[1,1]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[3]]) -->
+<div id="div-gpt-ad-9652896-4">
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-9652896-4'); });
+  </script>
 </div>
-<div id="cmn_wrap">
-<!-- Complex End -->
+<!-- End AdSlot 4 -->
 
 
 <div id="social-sites-wrapper">
@@ -694,22 +703,19 @@ body.custom-background { background-color: #b7b7b7; }
 				<div id="mobi-nav">
 
 					<div class="menu-top-nav-container"><select><option value="#">Menu</option><option value="http://www.basketballinsiders.com/category/nba-news/" id="menu-item-148">NBA News	</option><option value="http://www.basketballinsiders.com/the-latest-basketball-news/" id="menu-item-15832">-NBA Newslines</option>
-	<option value="http://www.basketballinsiders.com/category/nba-rumors-round-up/" id="menu-item-6569">-NBA Rumors Round-Up</option>
-	<option value="http://www.basketballinsiders.com/tag/nba-power-rankings/" id="menu-item-183">-Power Rankings</option>
 	<option value="http://www.basketballinsiders.com/key-nba-dates/" id="menu-item-486">-Key NBA Dates</option>
 	<option value="http://www.basketballinsiders.com/upcoming-chats" id="menu-item-184">-Upcoming Chats</option>
 	<option value="http://www.basketballinsiders.com/previous-chats" id="menu-item-185">-Previous Chats</option>
 	<option value="http://www.basketballinsiders.com/category/insiders-video/" id="menu-item-10601">-Insiders Video</option>
-	<option value="http://www.basketballinsiders.com/category/fantasy/" id="menu-item-147">-Fantasy News</option>
 	<option value="http://www.basketballinsiders.com/join-the-basketball-insiders-mailing-list/" id="menu-item-7338">-Get Our Newsletter</option>
 	<option value="http://www.basketballinsiders.com/authors/" id="menu-item-17063">-Our Team</option>
 	<option value="http://www.basketballinsiders.com/contact-us/" id="menu-item-15328">-Contact Us</option>
 
 <option value="http://www.basketballinsiders.com/nba-teams/" id="menu-item-301">NBA Teams	</option><option value="http://www.basketballinsiders.com/nba-news-sorted-by-team/" id="menu-item-186">-NBA News By Team</option>
 	<option value="http://www.basketballinsiders.com/nba-trade-history/" id="menu-item-501">-NBA Trade History</option>
-	<option value="http://www.basketballinsiders.com/nba-salaries/nba-free-agents-2016-2017/" id="menu-item-483">-NBA Free Agents – 2016-2017</option>
 	<option value="http://www.basketballinsiders.com/nba-salaries/nba-free-agents-2017-2018/" id="menu-item-19025">-NBA Free Agents – 2017-2018</option>
 	<option value="http://www.basketballinsiders.com/nba-salaries/nba-free-agents-2018-2019/" id="menu-item-38653">-NBA Free Agents – 2018-2019</option>
+	<option value="http://www.basketballinsiders.com/nba-salaries/nba-free-agents-2019-2020/" id="menu-item-43458">-NBA Free Agents – 2019-2020</option>
 
 <option value="http://www.basketballinsiders.com/nba-salaries/" id="menu-item-306">NBA Salaries	</option><option value="http://www.basketballinsiders.com/nba-team-salaries-at-a-glance/" id="menu-item-182">-NBA Salary Cap – By Team</option>
 	<option value="http://www.basketballinsiders.com/nbas-top-50-highest-paid-players/" id="menu-item-194">-Top 50 Highest Paid Players</option>
@@ -723,7 +729,6 @@ body.custom-background { background-color: #b7b7b7; }
 <option value="http://www.basketballinsiders.com/category/nba-draft/" id="menu-item-149">NBA Draft	</option><option value="http://www.basketballinsiders.com/tag/mock-drafts/" id="menu-item-6571">-Mock Drafts</option>
 	<option value="http://www.basketballinsiders.com/history-of-the-nba-draft-by-pick/" id="menu-item-446">-History of the NBA Draft – By Pick</option>
 	<option value="http://www.basketballinsiders.com/history-of-the-nba-draft-by-team/" id="menu-item-467">-History of the NBA Draft – By Team</option>
-	<option value="http://www.basketballinsiders.com/nba-draft-picks-owed/" id="menu-item-497">-NBA Draft Picks Owed</option>
 	<option value="http://www.basketballinsiders.com/top-100-nba-draft-prospects/" id="menu-item-192">-Top 100 Draft Prospects</option>
 
 <option value="http://www.basketballinsiders.com/category/ncaa/" id="menu-item-150">NCAA</option>
@@ -747,13 +752,10 @@ body.custom-background { background-color: #b7b7b7; }
 				<div class="menu-top-nav-container"><ul id="menu-top-nav-1" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-148"><a href="http://www.basketballinsiders.com/category/nba-news/">NBA News</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15832"><a href="http://www.basketballinsiders.com/the-latest-basketball-news/">NBA Newslines</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6569"><a href="http://www.basketballinsiders.com/category/nba-rumors-round-up/">NBA Rumors Round-Up</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-183"><a href="http://www.basketballinsiders.com/tag/nba-power-rankings/">Power Rankings</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-486"><a href="http://www.basketballinsiders.com/key-nba-dates/">Key NBA Dates</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-184"><a href="http://www.basketballinsiders.com/upcoming-chats">Upcoming Chats</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-185"><a href="http://www.basketballinsiders.com/previous-chats">Previous Chats</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10601"><a href="http://www.basketballinsiders.com/category/insiders-video/">Insiders Video</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-147"><a href="http://www.basketballinsiders.com/category/fantasy/">Fantasy News</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7338"><a href="http://www.basketballinsiders.com/join-the-basketball-insiders-mailing-list/">Get Our Newsletter</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17063"><a href="http://www.basketballinsiders.com/authors/">Our Team</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15328"><a href="http://www.basketballinsiders.com/contact-us/">Contact Us</a></li>
@@ -763,9 +765,9 @@ body.custom-background { background-color: #b7b7b7; }
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-186"><a href="http://www.basketballinsiders.com/nba-news-sorted-by-team/">NBA News By Team</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-501"><a href="http://www.basketballinsiders.com/nba-trade-history/">NBA Trade History</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-483"><a href="http://www.basketballinsiders.com/nba-salaries/nba-free-agents-2016-2017/">NBA Free Agents – 2016-2017</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19025"><a href="http://www.basketballinsiders.com/nba-salaries/nba-free-agents-2017-2018/">NBA Free Agents – 2017-2018</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38653"><a href="http://www.basketballinsiders.com/nba-salaries/nba-free-agents-2018-2019/">NBA Free Agents – 2018-2019</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43458"><a href="http://www.basketballinsiders.com/nba-salaries/nba-free-agents-2019-2020/">NBA Free Agents – 2019-2020</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-306"><a href="http://www.basketballinsiders.com/nba-salaries/">NBA Salaries</a>
@@ -785,7 +787,6 @@ body.custom-background { background-color: #b7b7b7; }
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6571"><a href="http://www.basketballinsiders.com/tag/mock-drafts/">Mock Drafts</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-446"><a href="http://www.basketballinsiders.com/history-of-the-nba-draft-by-pick/">History of the NBA Draft – By Pick</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-467"><a href="http://www.basketballinsiders.com/history-of-the-nba-draft-by-team/">History of the NBA Draft – By Team</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-497"><a href="http://www.basketballinsiders.com/nba-draft-picks-owed/">NBA Draft Picks Owed</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192"><a href="http://www.basketballinsiders.com/top-100-nba-draft-prospects/">Top 100 Draft Prospects</a></li>
 </ul>
 </li>
@@ -832,6 +833,17 @@ body.custom-background { background-color: #b7b7b7; }
 		<article class="post-198 page type-page status-publish hentry">
 
 			<div id="post-header">
+			<center><h4 class="ad-header">Advertisement</h4>			<div class="textwidget">
+<!-- Async AdSlot 1 for Ad unit 'BasketballInsiders_Leaderboard_ROS' ### Size: [[970,90],[970,250],[300,50],[320,50],[300,100],[728,90]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[0]]) -->
+<div id="div-gpt-ad-9652896-1">
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-9652896-1'); });
+  </script>
+</div>
+<!-- End AdSlot 1 -->
+</div>
+		<br></center>
 
 				
 					
@@ -877,9 +889,7 @@ body.custom-background { background-color: #b7b7b7; }
 					<a href="#" onclick="window.open('http://pinterest.com/pin/create/button/?url=http://www.basketballinsiders.com/privacy-policy/&amp;media=&amp;description=Privacy Policy', 'pinterestShare', 'width=750,height=350'); return false;" title="Pin This Post"><div class="pinterest-share"><span class="pinterest-but1"></span><p>Share</p></div></a>
 
 					<a href="#" onclick="window.open('https://plusone.google.com/_/+1/confirm?hl=en-US&amp;url=http://www.basketballinsiders.com/privacy-policy/', 'googleShare', 'width=626,height=436'); return false;" title="Share on Google+" target="_blank"><div class="google-share"><span class="google-but1"></span><p>Share</p></div></a>
-					<!--Comment Counter-->
-					<a class="social-comments" id="thecounter" href="http://www.basketballinsiders.com/privacy-policy/#disqus_thread"><div><p>Comments</p></div></a>
-					<!--Comment Counter-->
+					
 				</div><!--social-sharing-top-->
 
 			
@@ -898,11 +908,10 @@ body.custom-background { background-color: #b7b7b7; }
 					
 					<div id="content-area" class="post-section">
 					
-								<div class="textwidget"><!-- Start Cinesport Code -->
-<div style="height: 0px; padding-top: 25px; padding-bottom: 64.25%; margin-bottom: 10px; position: relative; overflow: hidden;"><iframe id="inline-csprt-nba-star-s-next-leave-his-team" name="inline-csprt-nba-star-s-next-leave-his-team" marginheight="0" marginwidth="0" scrolling="no" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" src="http://cinesport.basketballinsiders.com/embed/basketball-insiders-nba-and-college-basketball/nba-star-s-next-leave-his-team/#autostart=on;titles=on;nolink=on;" align="top,left" height="100%" frameborder="0" width="100%"></iframe></div>
-<!-- End Cinesport Code --></div>
+								<div class="textwidget"><p><script type="text/javascript" src="https://embed.air.tv/v1/embed/3QytqWg2QtqdSXGEjRCAow/50DDQdAxSbq9snkAqjpPtA?video_sizing=fill-width&amp;show_player_title=false&amp;show_div_title=false&amp;show_div_description=false&amp;autoplay=true"></script></p></div>
 		<br>
-						<p align="center"><b>Privacy Policy</b></p>
+						<p><!-- BEGIN THEIA POST SLIDER --></p>
+<p align="center"><b>Privacy Policy</b></p>
 <p>Protecting your private information is our priority. This Statement of Privacy applies to the http://www.basketballinsiders.com and InsidersSports LLC and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to InsidersSports LLC include http://www.basketballinsiders.com and InsidersSports. The InsidersSports website is a Basketball news and information site. By using the InsidersSports website, you consent to the data practices described in this statement.</p>
 <p><b>Collection of your Personal Information</b></p>
 <p>We do not collect personally identifiable information from our users. We may gather personal or non-personal information in the future.</p>
@@ -938,6 +947,7 @@ body.custom-background { background-color: #b7b7b7; }
 <p>You will be able to connect your InsidersSports account to third party accounts. BY CONNECTING YOUR INSIDERSSPORTS ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED INTHIS MANNER, DO NOT USE THE THIS FEATURE. You may disconnect your account from a third party account at any time. Users may learn how to disconnect their accounts from third-party websites by visiting their “My Account” page..</p>
 <p><b>Changes to this Statement</b></p>
 <p>InsidersSports will occasionally update this Statement of Privacy to reflect company and customer feedback. InsidersSports encourages you to periodically review this Statement to be informed of how InsidersSports is protecting your information.</p>
+<p><!-- END THEIA POST SLIDER --></p>
 
 						
 					</div><!--content-area-->
@@ -956,29 +966,11 @@ body.custom-background { background-color: #b7b7b7; }
 							<a href="#" onclick="window.open('http://pinterest.com/pin/create/button/?url=http://www.basketballinsiders.com/privacy-policy/&amp;media=&amp;description=Privacy Policy', 'pinterestShare', 'width=750,height=350'); return false;" title="Pin This Post"><div class="pinterest-share"><span class="pinterest-but1"></span><p>Share</p></div></a>
 
 							<a href="#" onclick="window.open('https://plusone.google.com/_/+1/confirm?hl=en-US&amp;url=http://www.basketballinsiders.com/privacy-policy/', 'googleShare', 'width=626,height=436'); return false;" title="Share on Google+" target="_blank"><div class="google-share"><span class="google-but1"></span><p>Share</p></div></a>
-							<!--Comment Counter-->
-							<a class="social-comments" id="thecounter" href="http://www.basketballinsiders.com/privacy-policy/#disqus_thread"><div><p>Comments</p></div></a>
-							<!--Comment Counter-->
+							
 						</div><!--social-sharing-bottom-->
 
 										
-						<!-- Start Disqus Code -->
-    <div id="disqus_thread"></div>
-    <script type="text/javascript">
-        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-        var disqus_shortname = 'basketballinsiders'; // required: replace example with your forum shortname
-       
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<!-- End Disqus Code -->
-
-				</div><!--post-area-->
+										</div><!--post-area-->
 
 				</div><!--content-main-inner-->
 
@@ -1026,7 +1018,7 @@ body.custom-background { background-color: #b7b7b7; }
     <option value="http://www.basketballinsiders.com/washington-wizards-team-salary"> Washington Wizards</option>
    </select></p>
 <p>
-<label><strong>NBA Stats</strong></label>
+<!-- <label><strong>NBA Stats</strong></label>
 <select onchange="window.open(this.options[this.selectedIndex].value,'_top')">
 
 	<option value=""> Select a Team</option>
@@ -1061,15 +1053,13 @@ body.custom-background { background-color: #b7b7b7; }
     <option value="http://stats.basketballinsiders.com/basketball/nba-teams.aspx?page=/data/nba/teams/team404031.html"> Utah Jazz</option>
     <option value="http://stats.basketballinsiders.com/basketball/nba-teams.aspx?page=/data/nba/teams/team404067.html"> Washington Wizards</option>
  </select></p>
-<p>
+<p> -->
 <label><strong>Our Writers</strong></label>
 <select onchange="window.open(this.options[this.selectedIndex].value,'_top')">
 	<option value=""> Select a Writer</option>
-<option value="http://www.basketballinsiders.com/author/akennedy"> Alex Kennedy</option>
 <option value="http://www.basketballinsiders.com/author/epincus"> Eric Pincus</option>
 <option value="http://www.basketballinsiders.com/author/jbrigham"> Joel Brigham</option>
-<option value="http://www.basketballinsiders.com/author/jcamerato"> Jessica Camerato</option>
-<option value="http://www.basketballinsiders.com/author/kcapelindelin"> Kyle Cape-Lindelin</option>
+<option value="http://www.basketballinsiders.com/author/mscotto"> Michael Scotto</option>
 <option value="http://www.basketballinsiders.com/author/lgreene"> Lang Greene</option>
 <option value="http://www.basketballinsiders.com/author/mhamilton"> Moke Hamilton</option>
 <option value="http://www.basketballinsiders.com/author/skyler"> Steve Kyler</option>
@@ -1078,14 +1068,41 @@ body.custom-background { background-color: #b7b7b7; }
 <option value="http://www.basketballinsiders.com/author/ctaylor"> Cody Taylor</option>
 <option value="http://www.basketballinsiders.com/author/jblancarte"> Jesse Blancarte</option>
 <option value="http://www.basketballinsiders.com/author/bdowsett"> Ben Dowsett</option>
-<option value="http://www.basketballinsiders.com/author/dpick"> David Pick</option>
-<option value="http://www.basketballinsiders.com/author/esaar"> Eric Saar</option>
+<option value="http://www.basketballinsiders.com/author/dchambers"> Dennis Chambers</option>
+<option value="http://www.basketballinsiders.com/author/bgrizzard"> Buddy Grizzard</option>
+<option value="http://www.basketballinsiders.com/author/sdavies"> Spencer Davies</option>
+<option value="http://www.basketballinsiders.com/author/bnadeau"> Benny Nadeau</option>
+<option value="http://www.basketballinsiders.com/author/jamesblancarte"> James Blancarte</option>
+<option value="http://www.basketballinsiders.com/author/kcapelindelin"> Kyle Cape-Lindelin</option>
  </select></p>
 <div class="clear"></div><br>
 </form>
-</div>   <div id="mvp_ad_widget-6" class="sidebar-widget mvp_ad_widget">			<h4 class="ad-header">Advertisement</h4>
+</div>   <div id="text-35" class="sidebar-widget widget_text"><span class="sidebar-header-wrap"><h4 class="sidebar-header">Listen To NBA On TuneIn</h4></span>			<div class="textwidget"><div style="float: left;width: 280px; height: 120px;">
+<iframe src="http://tunein.com/embed/player/s262441/" style="width:100%;height:100px;" scrolling="no" frameborder="no"></iframe>
+</div>
+
+</div>
+		</div><div id="mvp_ad_widget-6" class="sidebar-widget mvp_ad_widget">			<h4 class="ad-header">Advertisement</h4>
 			<div class="widget-ad">
-				<script type="text/javascript">cmnUNT('300x250', tile_num++, 1);</script>			</div><!--widget-ad-->
+				<!-- Async AdSlot 2 for Ad unit 'BasketballInsiders_300x250_ATF_ROS' ### Size: [[300,250],[300,600]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[1]]) -->
+<div id="div-gpt-ad-9652896-2">
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-9652896-2'); });
+  </script>
+</div>
+<!-- End AdSlot 2 -->			</div><!--widget-ad-->
+
+		</div><div id="mvp_ad_widget-8" class="sidebar-widget mvp_ad_widget">			<h4 class="ad-header">Advertisement</h4>
+			<div class="widget-ad">
+				<!-- Async AdSlot 3 for Ad unit 'Basketball_Insiders_300x250_ROS' ### Size: [[300,250],[300,600]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[2]]) -->
+<div id="div-gpt-ad-9652896-3">
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-9652896-3'); });
+  </script>
+</div>
+<!-- End AdSlot 3 -->			</div><!--widget-ad-->
 
 		</div><div id="mvp_sidecat_widget-9" class="sidebar-widget mvp_sidecat_widget"><span class="sidebar-header-wrap"><h4 class="sidebar-header">The Latest NBA</h4></span>
 
@@ -1100,14 +1117,14 @@ body.custom-background { background-color: #b7b7b7; }
 			<div class="sidebar-list-img">
 
 				
-					<a href="http://www.basketballinsiders.com/nba-pm-gibsons-hard-work-getting-recognized/" rel="bookmark" title="NBA PM: Gibson’s Hard Work Getting Recognized"><img width="150" height="90" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/10/taj_gibson_bulls_2015_1_USAT-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="taj_gibson_bulls_2015_1_USAT" srcset="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/10/taj_gibson_bulls_2015_1_USAT-150x90.jpg 150w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/10/taj_gibson_bulls_2015_1_USAT-300x180.jpg 300w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/10/taj_gibson_bulls_2015_1_USAT-660x400.jpg 660w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/10/taj_gibson_bulls_2015_1_USAT.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px"></a>
+					<a href="http://www.basketballinsiders.com/game-3-preview-golden-state-warriors-vs-cleveland-cavaliers/" rel="bookmark" title="Game 3 Preview: Golden State Warriors vs. Cleveland Cavaliers"><img width="150" height="90" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/LeBron_James_Cavs_2017_AP1-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/LeBron_James_Cavs_2017_AP1-150x90.jpg 150w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/LeBron_James_Cavs_2017_AP1-300x180.jpg 300w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/LeBron_James_Cavs_2017_AP1-768x461.jpg 768w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/LeBron_James_Cavs_2017_AP1-660x400.jpg 660w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/LeBron_James_Cavs_2017_AP1.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px"></a>
 
 				
 			</div><!--sidebar-list-img-->
 
 			<div class="sidebar-list-text">
 
-				<p><a href="http://www.basketballinsiders.com/nba-pm-gibsons-hard-work-getting-recognized/" rel="bookmark">NBA PM: Gibson’s Hard Work Getting Recognized</a></p>
+				<p><a href="http://www.basketballinsiders.com/game-3-preview-golden-state-warriors-vs-cleveland-cavaliers/" rel="bookmark">Game 3 Preview: Golden State Warriors vs. Cleveland Cavaliers</a></p>
 
 			</div><!--sidebar-list-text-->
 
@@ -1119,14 +1136,14 @@ body.custom-background { background-color: #b7b7b7; }
 			<div class="sidebar-list-img">
 
 				
-					<a href="http://www.basketballinsiders.com/gm-daryl-morey-talks-about-harden-expectations/" rel="bookmark" title="Daryl Morey Talks About Harden, Expectations"><img width="150" height="90" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/10/james_harden_rockets_2015_1_USAT-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="james_harden_rockets_2015_1_USAT" srcset="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/10/james_harden_rockets_2015_1_USAT-150x90.jpg 150w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/10/james_harden_rockets_2015_1_USAT-300x180.jpg 300w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/10/james_harden_rockets_2015_1_USAT-660x400.jpg 660w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/10/james_harden_rockets_2015_1_USAT.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px"></a>
+					<a href="http://www.basketballinsiders.com/predicting-the-2017-nba-playoffs-first-round/" rel="bookmark" title="Predicting The 2017 NBA Playoffs – NBA Finals"><img width="150" height="90" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/03/2015NBAPlayoffs-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/03/2015NBAPlayoffs-150x90.jpg 150w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/03/2015NBAPlayoffs-300x180.jpg 300w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/03/2015NBAPlayoffs.jpg 1000w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/03/2015NBAPlayoffs-660x400.jpg 660w" sizes="(max-width: 150px) 100vw, 150px"></a>
 
 				
 			</div><!--sidebar-list-img-->
 
 			<div class="sidebar-list-text">
 
-				<p><a href="http://www.basketballinsiders.com/gm-daryl-morey-talks-about-harden-expectations/" rel="bookmark">Daryl Morey Talks About Harden, Expectations</a></p>
+				<p><a href="http://www.basketballinsiders.com/predicting-the-2017-nba-playoffs-first-round/" rel="bookmark">Predicting The 2017 NBA Playoffs – NBA Finals</a></p>
 
 			</div><!--sidebar-list-text-->
 
@@ -1138,14 +1155,14 @@ body.custom-background { background-color: #b7b7b7; }
 			<div class="sidebar-list-img">
 
 				
-					<a href="http://www.basketballinsiders.com/video-most-underrated-nba-players-so-far/" rel="bookmark" title="VIDEO: Most Underrated NBA Players So Far"><img width="150" height="90" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/UnderratedP1-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="underratedp1" srcset="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/UnderratedP1-150x90.jpg 150w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/UnderratedP1-300x180.jpg 300w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/UnderratedP1-768x461.jpg 768w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/UnderratedP1-660x400.jpg 660w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/UnderratedP1.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px"></a>
+					<a href="http://www.basketballinsiders.com/podcast-how-far-will-lonzo-fall/" rel="bookmark" title="PODCAST: How Far Will Lonzo Fall?"><img width="150" height="90" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/06/BIThePodcast-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/06/BIThePodcast-150x90.jpg 150w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/06/BIThePodcast-300x180.jpg 300w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/06/BIThePodcast-660x400.jpg 660w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/06/BIThePodcast.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px"></a>
 
 				
 			</div><!--sidebar-list-img-->
 
 			<div class="sidebar-list-text">
 
-				<p><a href="http://www.basketballinsiders.com/video-most-underrated-nba-players-so-far/" rel="bookmark">VIDEO: Most Underrated NBA Players So Far</a></p>
+				<p><a href="http://www.basketballinsiders.com/podcast-how-far-will-lonzo-fall/" rel="bookmark">PODCAST: How Far Will Lonzo Fall?</a></p>
 
 			</div><!--sidebar-list-text-->
 
@@ -1157,14 +1174,14 @@ body.custom-background { background-color: #b7b7b7; }
 			<div class="sidebar-list-img">
 
 				
-					<a href="http://www.basketballinsiders.com/nba-am-dieng-ready-to-prove-his-worth/" rel="bookmark" title="NBA AM: Dieng Ready to Prove His Worth"><img width="150" height="90" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2014/09/Gorgui_Dieng_Timberwolves_2014_2-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="Gorgui_Dieng_Timberwolves_2014_2" srcset="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2014/09/Gorgui_Dieng_Timberwolves_2014_2-150x90.jpg 150w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2014/09/Gorgui_Dieng_Timberwolves_2014_2-300x180.jpg 300w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2014/09/Gorgui_Dieng_Timberwolves_2014_2.jpg 1000w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2014/09/Gorgui_Dieng_Timberwolves_2014_2-660x400.jpg 660w" sizes="(max-width: 150px) 100vw, 150px"></a>
+					<a href="http://www.basketballinsiders.com/jan-vesely-returning-to-the-nba/" rel="bookmark" title="Jan Vesely Returning to the NBA?"><img width="150" height="90" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2014/09/Jan_Vesely_Wizards_2012-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2014/09/Jan_Vesely_Wizards_2012-150x90.jpg 150w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2014/09/Jan_Vesely_Wizards_2012-300x180.jpg 300w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2014/09/Jan_Vesely_Wizards_2012.jpg 1000w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2014/09/Jan_Vesely_Wizards_2012-660x400.jpg 660w" sizes="(max-width: 150px) 100vw, 150px"></a>
 
 				
 			</div><!--sidebar-list-img-->
 
 			<div class="sidebar-list-text">
 
-				<p><a href="http://www.basketballinsiders.com/nba-am-dieng-ready-to-prove-his-worth/" rel="bookmark">NBA AM: Dieng Ready to Prove His Worth</a></p>
+				<p><a href="http://www.basketballinsiders.com/jan-vesely-returning-to-the-nba/" rel="bookmark">Jan Vesely Returning to the NBA?</a></p>
 
 			</div><!--sidebar-list-text-->
 
@@ -1176,14 +1193,14 @@ body.custom-background { background-color: #b7b7b7; }
 			<div class="sidebar-list-img">
 
 				
-					<a href="http://www.basketballinsiders.com/the-top-10-plays-in-the-nba-110916/" rel="bookmark" title="The Top 10 Plays In The NBA – 11/9/16"><img width="150" height="90" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/SteveK_1391-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="stevek_1391"></a>
+					<a href="http://www.basketballinsiders.com/nba-am-biggest-all-time-draft-risks/" rel="bookmark" title="NBA AM: Biggest All-Time Draft Risks"><img width="150" height="90" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/09/Giannis_JabariParker_Bucks1-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/09/Giannis_JabariParker_Bucks1-150x90.jpg 150w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/09/Giannis_JabariParker_Bucks1-300x180.jpg 300w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/09/Giannis_JabariParker_Bucks1-768x461.jpg 768w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/09/Giannis_JabariParker_Bucks1-660x400.jpg 660w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/09/Giannis_JabariParker_Bucks1.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px"></a>
 
 				
 			</div><!--sidebar-list-img-->
 
 			<div class="sidebar-list-text">
 
-				<p><a href="http://www.basketballinsiders.com/the-top-10-plays-in-the-nba-110916/" rel="bookmark">The Top 10 Plays In The NBA – 11/9/16</a></p>
+				<p><a href="http://www.basketballinsiders.com/nba-am-biggest-all-time-draft-risks/" rel="bookmark">NBA AM: Biggest All-Time Draft Risks</a></p>
 
 			</div><!--sidebar-list-text-->
 
@@ -1195,14 +1212,14 @@ body.custom-background { background-color: #b7b7b7; }
 			<div class="sidebar-list-img">
 
 				
-					<a href="http://www.basketballinsiders.com/video-whats-next-for-boston-new-york-philly/" rel="bookmark" title="VIDEO: What’s Next for Boston, New York, Philly?"><img width="150" height="90" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/AK3-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="ak3" srcset="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/AK3-150x90.jpg 150w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/AK3-1000x591.jpg 1000w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/AK3-660x400.jpg 660w" sizes="(max-width: 150px) 100vw, 150px"></a>
+					<a href="http://www.basketballinsiders.com/nba-sunday-ron-harper-responds-to-j-r-smith/" rel="bookmark" title="NBA Sunday: Ron Harper Responds to J.R. Smith"><img width="150" height="90" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/02/JRSmith_Cavs_2015_51-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/02/JRSmith_Cavs_2015_51-150x90.jpg 150w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/02/JRSmith_Cavs_2015_51-300x180.jpg 300w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/02/JRSmith_Cavs_2015_51.jpg 1000w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2015/02/JRSmith_Cavs_2015_51-660x400.jpg 660w" sizes="(max-width: 150px) 100vw, 150px"></a>
 
 				
 			</div><!--sidebar-list-img-->
 
 			<div class="sidebar-list-text">
 
-				<p><a href="http://www.basketballinsiders.com/video-whats-next-for-boston-new-york-philly/" rel="bookmark">VIDEO: What’s Next for Boston, New York, Philly?</a></p>
+				<p><a href="http://www.basketballinsiders.com/nba-sunday-ron-harper-responds-to-j-r-smith/" rel="bookmark">NBA Sunday: Ron Harper Responds to J.R. Smith</a></p>
 
 			</div><!--sidebar-list-text-->
 
@@ -1215,8 +1232,8 @@ body.custom-background { background-color: #b7b7b7; }
 
 
 
-		</div><div id="text-33" class="sidebar-widget widget_text">			<div class="textwidget"><div style="float: left;width: 280px; height: 800px;">
-<div id="rcjsload_7c16e7"><script id="rc_546" type="text/javascript" src="http://trends.revcontent.com/serve.js.php?w=40805&amp;t=rc_546&amp;c=1580389997259&amp;width=800&amp;referer=" async=""></script></div>
+		</div><div id="text-33" class="sidebar-widget widget_text"><span class="sidebar-header-wrap"><h4 class="sidebar-header">From Around The Web</h4></span>			<div class="textwidget"><div style="float: left;width: 280px; height: 820px;">
+<div id="rcjsload_ccb603"><script id="rc_733" type="text/javascript" src="http://trends.revcontent.com/serve.js.php?w=40805&amp;t=rc_733&amp;c=1580390001005&amp;width=800&amp;referer=" async=""></script></div>
 <script type="text/javascript">
 (function() {
 var referer="";try{if(referer=document.referrer,"undefined"==typeof referer)throw"undefined"}catch(exception){referer=document.location.href,(""==referer||"undefined"==typeof referer)&&(referer=document.URL)}referer=referer.substr(0,700);
@@ -1225,33 +1242,18 @@ rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
 rcel.type = 'text/javascript';
 rcel.src = "http://trends.revcontent.com/serve.js.php?w=40805&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth)+"&referer="+referer;
 rcel.async = true;
-var rcds = document.getElementById("rcjsload_7c16e7"); rcds.appendChild(rcel);
+var rcds = document.getElementById("rcjsload_ccb603"); rcds.appendChild(rcel);
 })();
 </script>
 </div></div>
-		</div><div id="rss-2" class="sidebar-widget widget_rss"><span class="sidebar-header-wrap"><h4 class="sidebar-header"><a class="rsswidget" href="http://www.footballinsiders.com/feed"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="http://www.footballinsiders.com/">From Football Insiders</a></h4></span><ul><li><a class="rsswidget" href="http://www.footballinsiders.com/week-10-nfl-power-rankings-2/">Week 10 NFL Power Rankings</a></li><li><a class="rsswidget" href="http://www.footballinsiders.com/making-each-nfl-team-great-again/">Making Each NFL Team Great Again</a></li><li><a class="rsswidget" href="http://www.footballinsiders.com/nfl-am-midseason-grades-for-each-team/">NFL AM: Midseason Grades For Each Team</a></li><li><a class="rsswidget" href="http://www.footballinsiders.com/what-went-wrong-for-ben-roethlisberger-against-the-ravens/">What Went Wrong For Ben Roethlisberger Against The Ravens?</a></li><li><a class="rsswidget" href="http://www.footballinsiders.com/nfl-am-qb-non-changes-best-for-franchise-or-coach/">NFL AM: QB Non-Changes Best For Franchise Or Coach?</a></li><li><a class="rsswidget" href="http://www.footballinsiders.com/vikings-sliding-back-to-the-pack/">Vikings Sliding Back To The Pack</a></li><li><a class="rsswidget" href="http://www.footballinsiders.com/are-the-raiders-the-best-in-the-west/">Are The Raiders The Best In The West?</a></li><li><a class="rsswidget" href="http://www.footballinsiders.com/seven-from-sunday-for-week-9/">Seven From Sunday For Week 9</a></li><li><a class="rsswidget" href="http://www.footballinsiders.com/football-insiders-week-9-nfl-picks/">Football Insiders’ Week 9 NFL Picks</a></li><li><a class="rsswidget" href="http://www.footballinsiders.com/nfl-players-to-watch-in-week-9/">NFL Players To Watch In Week 9</a></li></ul></div>
+		</div><div id="rss-2" class="sidebar-widget widget_rss"><span class="sidebar-header-wrap"><h4 class="sidebar-header"><a class="rsswidget" href="http://www.footballinsiders.com/feed"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="http://www.footballinsiders.com/">From Football Insiders</a></h4></span><ul><li><a class="rsswidget" href="http://www.footballinsiders.com/demarcus-ware-believes-he-couldve-played-longer/">DeMarcus Ware Believes He Could’ve Played Longer</a></li><li><a class="rsswidget" href="http://www.footballinsiders.com/eddie-lacy-agrees-to-deal-with-seahawks/">Eddie Lacy Agrees To Deal With Seahawks</a></li><li><a class="rsswidget" href="http://www.footballinsiders.com/eddie-lacy-visited-vikings/">Eddie Lacy Visited Vikings</a></li><li><a class="rsswidget" href="http://www.footballinsiders.com/patriots-trade-for-wr-brandin-cooks/">Patriots Trade For WR Brandin Cooks</a></li><li><a class="rsswidget" href="http://www.footballinsiders.com/brock-osweiler-uncertain-about-future-with-browns/">Brock Osweiler Uncertain About Future With Browns</a></li><li><a class="rsswidget" href="http://www.footballinsiders.com/t-j-lang-agrees-to-deal-with-lions/">T.J. Lang Agrees To Deal With Lions</a></li><li><a class="rsswidget" href="http://www.footballinsiders.com/adrian-peterson-visits-seahawks/">Adrian Peterson Visits Seahawks</a></li><li><a class="rsswidget" href="http://www.footballinsiders.com/alshon-jeffery-agrees-to-deal-with-eagles/">Alshon Jeffery Agrees To Deal With Eagles</a></li><li><a class="rsswidget" href="http://www.footballinsiders.com/jets-interested-in-jay-cutler/">Jets Interested In Jay Cutler</a></li><li><a class="rsswidget" href="http://www.footballinsiders.com/julius-peppers-returns-to-panthers/">Julius Peppers Returns To Panthers</a></li></ul></div>
 </div><!--sidebar-wrapper-->
 		</article></div><!--content-->
 
 	</div><!--content-wrapper-->
 
 </div><!--body-wrapper-->
-<!--Comment Counter-->
-<script type="text/javascript">
-/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-var disqus_shortname = 'basketballinsiders'; // required: replace example with your forum shortname
- 
-/* * * DON'T EDIT BELOW THIS LINE * * */
-(function () {
-var s = document.createElement('script'); s.async = true;
-s.type = 'text/javascript';
 
-s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
-(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-}());
-</script> 
-	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<!--Comment Counter-->
 	<footer id="footer-wrapper">
 
 		<div id="footer">
@@ -1352,7 +1354,7 @@ s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
 
 						<div id="copyright">
 
-							<p>Copyright © 2016 Insiders Sports, Inc.</p>
+							<p>Copyright © 2017 Insiders Sports, Inc.</p>
 
 						</div><!--copyright-->
 
@@ -1366,31 +1368,31 @@ s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
 
 				<div class="tag-cloud">
 
-					<a href="http://www.basketballinsiders.com/tag/main-page/" class="tag-link-152 tag-link-position-1" title="1,907 topics" style="font-size: 12px;">Main Page</a>
-<a href="http://www.basketballinsiders.com/tag/featured/" class="tag-link-34 tag-link-position-2" title="1,852 topics" style="font-size: 12px;">Featured</a>
-<a href="http://www.basketballinsiders.com/tag/cleveland-cavaliers/" class="tag-link-29 tag-link-position-3" title="1,281 topics" style="font-size: 12px;">Cleveland Cavaliers</a>
-<a href="http://www.basketballinsiders.com/tag/los-angeles-lakers/" class="tag-link-39 tag-link-position-4" title="1,270 topics" style="font-size: 12px;">Los Angeles Lakers</a>
-<a href="http://www.basketballinsiders.com/tag/new-york-knicks/" class="tag-link-45 tag-link-position-5" title="1,102 topics" style="font-size: 12px;">New York Knicks</a>
-<a href="http://www.basketballinsiders.com/tag/golden-state-warriors/" class="tag-link-35 tag-link-position-6" title="1,025 topics" style="font-size: 12px;">Golden State Warriors</a>
-<a href="http://www.basketballinsiders.com/tag/miami-heat/" class="tag-link-79 tag-link-position-7" title="860 topics" style="font-size: 12px;">Miami Heat</a>
-<a href="http://www.basketballinsiders.com/tag/los-angeles-clippers/" class="tag-link-38 tag-link-position-8" title="849 topics" style="font-size: 12px;">Los Angeles Clippers</a>
-<a href="http://www.basketballinsiders.com/tag/chicago-bulls/" class="tag-link-28 tag-link-position-9" title="846 topics" style="font-size: 12px;">Chicago Bulls</a>
-<a href="http://www.basketballinsiders.com/tag/houston-rockets/" class="tag-link-36 tag-link-position-10" title="800 topics" style="font-size: 12px;">Houston Rockets</a>
-<a href="http://www.basketballinsiders.com/tag/oklahoma-city-thunder/" class="tag-link-47 tag-link-position-11" title="780 topics" style="font-size: 12px;">Oklahoma City Thunder</a>
-<a href="http://www.basketballinsiders.com/tag/boston-celtics/" class="tag-link-25 tag-link-position-12" title="776 topics" style="font-size: 12px;">Boston Celtics</a>
-<a href="http://www.basketballinsiders.com/tag/san-antonio-spurs/" class="tag-link-53 tag-link-position-13" title="697 topics" style="font-size: 12px;">San Antonio Spurs</a>
-<a href="http://www.basketballinsiders.com/tag/dallas-mavericks/" class="tag-link-31 tag-link-position-14" title="694 topics" style="font-size: 12px;">Dallas Mavericks</a>
-<a href="http://www.basketballinsiders.com/tag/sacramento-kings/" class="tag-link-52 tag-link-position-15" title="670 topics" style="font-size: 12px;">Sacramento Kings</a>
-<a href="http://www.basketballinsiders.com/tag/philadelphia-76ers/" class="tag-link-49 tag-link-position-16" title="639 topics" style="font-size: 12px;">Philadelphia 76ers</a>
-<a href="http://www.basketballinsiders.com/tag/washington-wizards/" class="tag-link-57 tag-link-position-17" title="562 topics" style="font-size: 12px;">Washington Wizards</a>
-<a href="http://www.basketballinsiders.com/tag/minnesota-timberwolves/" class="tag-link-41 tag-link-position-18" title="557 topics" style="font-size: 12px;">Minnesota Timberwolves</a>
-<a href="http://www.basketballinsiders.com/tag/indiana-pacers/" class="tag-link-37 tag-link-position-19" title="556 topics" style="font-size: 12px;">Indiana Pacers</a>
-<a href="http://www.basketballinsiders.com/tag/atlanta-hawks/" class="tag-link-24 tag-link-position-20" title="551 topics" style="font-size: 12px;">Atlanta Hawks</a>
-<a href="http://www.basketballinsiders.com/tag/new-orleans-pelicans/" class="tag-link-44 tag-link-position-21" title="550 topics" style="font-size: 12px;">New Orleans Pelicans</a>
-<a href="http://www.basketballinsiders.com/tag/detroit-pistons/" class="tag-link-33 tag-link-position-22" title="533 topics" style="font-size: 12px;">Detroit Pistons</a>
-<a href="http://www.basketballinsiders.com/tag/milwaukee-bucks/" class="tag-link-40 tag-link-position-23" title="533 topics" style="font-size: 12px;">Milwaukee Bucks</a>
-<a href="http://www.basketballinsiders.com/tag/portland-trail-blazers/" class="tag-link-51 tag-link-position-24" title="523 topics" style="font-size: 12px;">Portland Trail Blazers</a>
-<a href="http://www.basketballinsiders.com/tag/orlando-magic/" class="tag-link-48 tag-link-position-25" title="522 topics" style="font-size: 12px;">Orlando Magic</a>
+					<a href="http://www.basketballinsiders.com/tag/main-page/" class="tag-link-152 tag-link-position-1" title="2,348 topics" style="font-size: 12px;">Main Page</a>
+<a href="http://www.basketballinsiders.com/tag/featured/" class="tag-link-34 tag-link-position-2" title="2,070 topics" style="font-size: 12px;">Featured</a>
+<a href="http://www.basketballinsiders.com/tag/cleveland-cavaliers/" class="tag-link-29 tag-link-position-3" title="1,540 topics" style="font-size: 12px;">Cleveland Cavaliers</a>
+<a href="http://www.basketballinsiders.com/tag/los-angeles-lakers/" class="tag-link-39 tag-link-position-4" title="1,385 topics" style="font-size: 12px;">Los Angeles Lakers</a>
+<a href="http://www.basketballinsiders.com/tag/new-york-knicks/" class="tag-link-45 tag-link-position-5" title="1,289 topics" style="font-size: 12px;">New York Knicks</a>
+<a href="http://www.basketballinsiders.com/tag/golden-state-warriors/" class="tag-link-35 tag-link-position-6" title="1,255 topics" style="font-size: 12px;">Golden State Warriors</a>
+<a href="http://www.basketballinsiders.com/tag/chicago-bulls/" class="tag-link-28 tag-link-position-7" title="985 topics" style="font-size: 12px;">Chicago Bulls</a>
+<a href="http://www.basketballinsiders.com/tag/los-angeles-clippers/" class="tag-link-38 tag-link-position-8" title="978 topics" style="font-size: 12px;">Los Angeles Clippers</a>
+<a href="http://www.basketballinsiders.com/tag/boston-celtics/" class="tag-link-25 tag-link-position-9" title="961 topics" style="font-size: 12px;">Boston Celtics</a>
+<a href="http://www.basketballinsiders.com/tag/miami-heat/" class="tag-link-79 tag-link-position-10" title="960 topics" style="font-size: 12px;">Miami Heat</a>
+<a href="http://www.basketballinsiders.com/tag/houston-rockets/" class="tag-link-36 tag-link-position-11" title="930 topics" style="font-size: 12px;">Houston Rockets</a>
+<a href="http://www.basketballinsiders.com/tag/oklahoma-city-thunder/" class="tag-link-47 tag-link-position-12" title="910 topics" style="font-size: 12px;">Oklahoma City Thunder</a>
+<a href="http://www.basketballinsiders.com/tag/san-antonio-spurs/" class="tag-link-53 tag-link-position-13" title="805 topics" style="font-size: 12px;">San Antonio Spurs</a>
+<a href="http://www.basketballinsiders.com/tag/dallas-mavericks/" class="tag-link-31 tag-link-position-14" title="798 topics" style="font-size: 12px;">Dallas Mavericks</a>
+<a href="http://www.basketballinsiders.com/tag/sacramento-kings/" class="tag-link-52 tag-link-position-15" title="762 topics" style="font-size: 12px;">Sacramento Kings</a>
+<a href="http://www.basketballinsiders.com/tag/philadelphia-76ers/" class="tag-link-49 tag-link-position-16" title="759 topics" style="font-size: 12px;">Philadelphia 76ers</a>
+<a href="http://www.basketballinsiders.com/tag/washington-wizards/" class="tag-link-57 tag-link-position-17" title="668 topics" style="font-size: 12px;">Washington Wizards</a>
+<a href="http://www.basketballinsiders.com/tag/atlanta-hawks/" class="tag-link-24 tag-link-position-18" title="653 topics" style="font-size: 12px;">Atlanta Hawks</a>
+<a href="http://www.basketballinsiders.com/tag/new-orleans-pelicans/" class="tag-link-44 tag-link-position-19" title="643 topics" style="font-size: 12px;">New Orleans Pelicans</a>
+<a href="http://www.basketballinsiders.com/tag/indiana-pacers/" class="tag-link-37 tag-link-position-20" title="641 topics" style="font-size: 12px;">Indiana Pacers</a>
+<a href="http://www.basketballinsiders.com/tag/minnesota-timberwolves/" class="tag-link-41 tag-link-position-21" title="628 topics" style="font-size: 12px;">Minnesota Timberwolves</a>
+<a href="http://www.basketballinsiders.com/tag/milwaukee-bucks/" class="tag-link-40 tag-link-position-22" title="606 topics" style="font-size: 12px;">Milwaukee Bucks</a>
+<a href="http://www.basketballinsiders.com/tag/portland-trail-blazers/" class="tag-link-51 tag-link-position-23" title="606 topics" style="font-size: 12px;">Portland Trail Blazers</a>
+<a href="http://www.basketballinsiders.com/tag/orlando-magic/" class="tag-link-48 tag-link-position-24" title="599 topics" style="font-size: 12px;">Orlando Magic</a>
+<a href="http://www.basketballinsiders.com/tag/detroit-pistons/" class="tag-link-33 tag-link-position-25" title="596 topics" style="font-size: 12px;">Detroit Pistons</a>
 				</div>
 
 
@@ -1410,14 +1412,14 @@ s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
 			<div class="sidebar-list-img">
 
 				
-					<a href="http://www.basketballinsiders.com/video-most-underrated-nba-players-so-far/" rel="bookmark" title="VIDEO: Most Underrated NBA Players So Far"><img width="150" height="90" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/UnderratedP1-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="underratedp1" srcset="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/UnderratedP1-150x90.jpg 150w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/UnderratedP1-300x180.jpg 300w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/UnderratedP1-768x461.jpg 768w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/UnderratedP1-660x400.jpg 660w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/UnderratedP1.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px"></a>
+					<a href="http://www.basketballinsiders.com/video-kennedy-meeks-pro-day/" rel="bookmark" title="VIDEO: Kennedy Meeks – Pro Day"><img width="150" height="90" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/06/SK_817-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/06/SK_817-150x90.jpg 150w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/06/SK_817-1000x600.jpg 1000w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/06/SK_817-660x400.jpg 660w" sizes="(max-width: 150px) 100vw, 150px"></a>
 
 				
 			</div><!--sidebar-list-img-->
 
 			<div class="sidebar-list-text">
 
-				<p><a href="http://www.basketballinsiders.com/video-most-underrated-nba-players-so-far/" rel="bookmark">VIDEO: Most Underrated NBA Players So Far</a></p>
+				<p><a href="http://www.basketballinsiders.com/video-kennedy-meeks-pro-day/" rel="bookmark">VIDEO: Kennedy Meeks – Pro Day</a></p>
 
 			</div><!--sidebar-list-text-->
 
@@ -1429,14 +1431,14 @@ s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
 			<div class="sidebar-list-img">
 
 				
-					<a href="http://www.basketballinsiders.com/the-top-10-plays-in-the-nba-110916/" rel="bookmark" title="The Top 10 Plays In The NBA – 11/9/16"><img width="150" height="90" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/SteveK_1391-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="stevek_1391"></a>
+					<a href="http://www.basketballinsiders.com/video-chris-perry-pro-day/" rel="bookmark" title="VIDEO: Chris Perry – Pro Day"><img width="150" height="90" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/06/SK_820-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/06/SK_820-150x90.jpg 150w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/06/SK_820-660x400.jpg 660w" sizes="(max-width: 150px) 100vw, 150px"></a>
 
 				
 			</div><!--sidebar-list-img-->
 
 			<div class="sidebar-list-text">
 
-				<p><a href="http://www.basketballinsiders.com/the-top-10-plays-in-the-nba-110916/" rel="bookmark">The Top 10 Plays In The NBA – 11/9/16</a></p>
+				<p><a href="http://www.basketballinsiders.com/video-chris-perry-pro-day/" rel="bookmark">VIDEO: Chris Perry – Pro Day</a></p>
 
 			</div><!--sidebar-list-text-->
 
@@ -1448,14 +1450,14 @@ s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
 			<div class="sidebar-list-img">
 
 				
-					<a href="http://www.basketballinsiders.com/video-whats-next-for-boston-new-york-philly/" rel="bookmark" title="VIDEO: What’s Next for Boston, New York, Philly?"><img width="150" height="90" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/AK3-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="ak3" srcset="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/AK3-150x90.jpg 150w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/AK3-1000x591.jpg 1000w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/AK3-660x400.jpg 660w" sizes="(max-width: 150px) 100vw, 150px"></a>
+					<a href="http://www.basketballinsiders.com/video-kasey-hill-elite-skills-training-workout/" rel="bookmark" title="VIDEO: Kasey Hill – Elite Skills Training Workout"><img width="150" height="90" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/05/SteveK_0137-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/05/SteveK_0137-150x90.jpg 150w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/05/SteveK_0137-1000x600.jpg 1000w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/05/SteveK_0137-660x400.jpg 660w" sizes="(max-width: 150px) 100vw, 150px"></a>
 
 				
 			</div><!--sidebar-list-img-->
 
 			<div class="sidebar-list-text">
 
-				<p><a href="http://www.basketballinsiders.com/video-whats-next-for-boston-new-york-philly/" rel="bookmark">VIDEO: What’s Next for Boston, New York, Philly?</a></p>
+				<p><a href="http://www.basketballinsiders.com/video-kasey-hill-elite-skills-training-workout/" rel="bookmark">VIDEO: Kasey Hill – Elite Skills Training Workout</a></p>
 
 			</div><!--sidebar-list-text-->
 
@@ -1467,14 +1469,14 @@ s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
 			<div class="sidebar-list-img">
 
 				
-					<a href="http://www.basketballinsiders.com/video-next-star-to-leave-his-team/" rel="bookmark" title="VIDEO: Next Star to Leave His Team?"><img width="150" height="90" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/NextStar1-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="nextstar1" srcset="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/NextStar1-150x90.jpg 150w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/NextStar1-300x180.jpg 300w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/NextStar1-768x461.jpg 768w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/NextStar1-660x400.jpg 660w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/NextStar1.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px"></a>
+					<a href="http://www.basketballinsiders.com/video-kennedy-meeks-elite-skills-training-workout/" rel="bookmark" title="VIDEO: Kennedy Meeks – Elite Skills Training Workout"><img width="150" height="90" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/05/SteveK_0135-1-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/05/SteveK_0135-1-150x90.jpg 150w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/05/SteveK_0135-1-1000x600.jpg 1000w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/05/SteveK_0135-1-660x400.jpg 660w" sizes="(max-width: 150px) 100vw, 150px"></a>
 
 				
 			</div><!--sidebar-list-img-->
 
 			<div class="sidebar-list-text">
 
-				<p><a href="http://www.basketballinsiders.com/video-next-star-to-leave-his-team/" rel="bookmark">VIDEO: Next Star to Leave His Team?</a></p>
+				<p><a href="http://www.basketballinsiders.com/video-kennedy-meeks-elite-skills-training-workout/" rel="bookmark">VIDEO: Kennedy Meeks – Elite Skills Training Workout</a></p>
 
 			</div><!--sidebar-list-text-->
 
@@ -1486,14 +1488,14 @@ s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
 			<div class="sidebar-list-img">
 
 				
-					<a href="http://www.basketballinsiders.com/video-nbas-biggest-bargain-contract/" rel="bookmark" title="VIDEO: NBA’s Biggest Bargain Contract?"><img width="150" height="90" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/bargaincontract1-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="bargaincontract1" srcset="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/bargaincontract1-150x90.jpg 150w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/bargaincontract1-300x180.jpg 300w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/bargaincontract1-768x461.jpg 768w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/bargaincontract1-660x400.jpg 660w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2016/11/bargaincontract1.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px"></a>
+					<a href="http://www.basketballinsiders.com/video-craig-victor-elite-skills-training-workout/" rel="bookmark" title="VIDEO: Craig Victor – Elite Skills Training Workout"><img width="150" height="90" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/05/SteveK_0136-150x90.jpg" class="attachment-small-thumb size-small-thumb wp-post-image" alt="" srcset="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/05/SteveK_0136-150x90.jpg 150w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/05/SteveK_0136-1000x600.jpg 1000w, http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/uploads/2017/05/SteveK_0136-660x400.jpg 660w" sizes="(max-width: 150px) 100vw, 150px"></a>
 
 				
 			</div><!--sidebar-list-img-->
 
 			<div class="sidebar-list-text">
 
-				<p><a href="http://www.basketballinsiders.com/video-nbas-biggest-bargain-contract/" rel="bookmark">VIDEO: NBA’s Biggest Bargain Contract?</a></p>
+				<p><a href="http://www.basketballinsiders.com/video-craig-victor-elite-skills-training-workout/" rel="bookmark">VIDEO: Craig Victor – Elite Skills Training Workout</a></p>
 
 			</div><!--sidebar-list-text-->
 
@@ -1517,7 +1519,69 @@ s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
 
 </div><!--site-->
 
-<div style="width:100%;text-align:center; font-size:11px; clear:both"><a target="_blank" title="Insert HTML Snippet Wordpress Plugin" href="http://xyzscripts.com/wordpress-plugins/insert-html-snippet/">HTML Snippets</a> Powered By : <a target="_blank" title="PHP Scripts &amp; Wordpress Plugins" href="http://www.xyzscripts.com">XYZScripts.com</a></div>
+<meta id="ba_s" property="options" content="" data-o="{&quot;tid&quot;:&quot;UA-46749583-1&quot;,&quot;co&quot;:&quot;auto&quot;,&quot;g&quot;:1074072168,&quot;s&quot;:6,&quot;a&quot;:0,&quot;d&quot;:{&quot;c&quot;:[3,&quot;Insiders Video,NBA,NBA Draft&quot;],&quot;a&quot;:[1,&quot;Basketball Insiders&quot;],&quot;t&quot;:[2,&quot;2017 NBA Draft,Video&quot;]}}"><style type="text/css">
+
+	
+	
+	#sab_wrap{
+		margin:0 auto;
+					width:100%;
+								height:50;
+								background:;
+					position: fixed;
+					bottom:0px;;
+							
+  		left: 0;
+  		right: 0;
+  		z-index: 99999;
+	}
+	#sab_bar_opn{
+		margin:0 auto;
+		position: fixed;
+		background:#000;
+		color: #fff;
+		padding: 5px;
+		display: none;
+					bottom:0px;;
+				
+		cursor: pointer;
+	}
+	
+	#sab_elem{
+		float: left;
+		width: 3%;
+		text-align: center;
+		padding-top: 7px;
+
+	}
+	#sab_content{
+		width: 95%;
+		float: right;
+		display: inline-block;
+		text-align: center;
+		margin-right:2%;
+	}
+	#sab_text{
+					color: ;
+				
+			
+					font-size: px;
+								
+		/*font-family: ;*/
+		font-weight: normal;
+		font-style: normal;
+		margin: 0;
+		padding: 0;
+	}
+	#sab_close_btn{
+		cursor: pointer;
+	}
+
+</style>
+
+
+
+	
 <script type="text/javascript">
 
 //<![CDATA[
@@ -1636,16 +1700,15 @@ jQuery(document).ready(function($){
 
 </script>
 
-<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-includes/js/comment-reply.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/plugins/oembed-instagram/oembed-instagram.js?ver=1.5.1"></script>
-<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/themes/osage/js/jquery.iosslider.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/themes/osage/js/scripts.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/themes/osage/js/jquery.infinitescroll.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/themes/osage/js/respond.min.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/themes/osage/js/retina.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/themes/osage/js/jquery.elastislide.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/themes/osage/js/jquery.flexslider.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-includes/js/wp-embed.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-includes/js/comment-reply.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/themes/osage/js/jquery.iosslider.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/themes/osage/js/scripts.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/themes/osage/js/jquery.infinitescroll.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/themes/osage/js/respond.min.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/themes/osage/js/retina.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/themes/osage/js/jquery.elastislide.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-content/themes/osage/js/jquery.flexslider.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://o4526lc90g998y7561v9o735w5s.wpengine.netdna-cdn.com/wp-includes/js/wp-embed.js?ver=4.7.5"></script>
 <br>
 
 
@@ -1678,7 +1741,69 @@ _atrk_opts = { atrk_acct:"a0JVi1a8Dy00qI", domain:"footballinsiders.com",dynamic
 <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=a0JVi1a8Dy00qI" style="display:none" height="1" width="1" alt="" /></noscript>
 <!-- End Alexa Certify Javascript -->
 
-      <div style="width:100%;text-align:center; font-size:11px; clear:both"><a target="_blank" title="Insert HTML Snippet Wordpress Plugin" href="http://xyzscripts.com/wordpress-plugins/insert-html-snippet/">HTML Snippets</a> Powered By : <a target="_blank" title="PHP Scripts &amp; Wordpress Plugins" href="http://www.xyzscripts.com">XYZScripts.com</a></div>
+      <meta id="ba_s" property="options" content="" data-o="{&quot;tid&quot;:&quot;UA-46749583-1&quot;,&quot;co&quot;:&quot;auto&quot;,&quot;g&quot;:1074072168,&quot;s&quot;:6,&quot;a&quot;:0,&quot;d&quot;:{&quot;c&quot;:[3,&quot;Insiders Video,NBA,NBA Draft&quot;],&quot;a&quot;:[1,&quot;Basketball Insiders&quot;],&quot;t&quot;:[2,&quot;2017 NBA Draft,Video&quot;]}}"><style type="text/css">
+
+	
+	
+	#sab_wrap{
+		margin:0 auto;
+					width:100%;
+								height:50;
+								background:;
+					position: fixed;
+					bottom:0px;;
+							
+  		left: 0;
+  		right: 0;
+  		z-index: 99999;
+	}
+	#sab_bar_opn{
+		margin:0 auto;
+		position: fixed;
+		background:#000;
+		color: #fff;
+		padding: 5px;
+		display: none;
+					bottom:0px;;
+				
+		cursor: pointer;
+	}
+	
+	#sab_elem{
+		float: left;
+		width: 3%;
+		text-align: center;
+		padding-top: 7px;
+
+	}
+	#sab_content{
+		width: 95%;
+		float: right;
+		display: inline-block;
+		text-align: center;
+		margin-right:2%;
+	}
+	#sab_text{
+					color: ;
+				
+			
+					font-size: px;
+								
+		/*font-family: ;*/
+		font-weight: normal;
+		font-style: normal;
+		margin: 0;
+		padding: 0;
+	}
+	#sab_close_btn{
+		cursor: pointer;
+	}
+
+</style>
+
+
+
+	
 <script type="text/javascript">
 
 //<![CDATA[
@@ -1797,46 +1922,8 @@ jQuery(document).ready(function($){
 
 </script>
 
-
-<!-- Complex Toolbar New -->
-
-<script>
-
-(function() {
-
-  window.cToolbarInit = function() {
-
-    cToolbar.load({
-      mobileRightButton: 'email', 
-      facebookUsername: 'BasketballInsiders',
-      facebookName: 'Basketball Insiders',
-      twitterHandle: 'BBallInsiders',
-      twitterName: 'Basketball Insiders',
-      youtube: '',
-      youtubeDisplayName: '',
-      desktopBackground: 'solid', 
-      desktopSocialButtons: ["twitter","facebook"],
-      channel: 'Sports'
-    });
-   
-  };
-
-var ns = document.createElement('script');       
-    ns.type = 'text/javascript';
-    ns.async = true;
-    ns.src = '//toolbar.complex.com/dist/ctoolbar.min.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(ns, s);
-
-})();
-
-</script>
-<script type="text/javascript">
-   cmnUNT('tover', tile_num++);
-</script>
-<!-- Complex Toolbar New End -->	  
-  
+ 
+<script type="text/javascript" class="teads" async="true" src="//a.teads.tv/page/69634/tag"></script>
 
 
-
-</div></body></html>
+</body></html>
