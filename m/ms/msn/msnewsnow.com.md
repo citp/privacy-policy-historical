@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msnewsnow.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225115428id_/http%3A//www.msnewsnow.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msnewsnow.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606002903id_/http%3A//www.msnewsnow.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MSNewsNow.com - Jackson, MS
 
