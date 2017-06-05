@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speakingathome.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218102631id_/http%3A//www.speakingathome.com/privacy_policy.html%2305) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speakingathome.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605163703id_/http%3A//www.speakingathome.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Speakingathome
 
@@ -10,11 +10,11 @@
 
 ### 0\. Formal express consent
 
-As is stated in the [Legal Notice](https://web.archive.org/web/20161218102631id_/http%3A//www.speakingathome.com/legal_notice.html) of this Website, Speakingathome Ltd., Identification B87350856, is the owner of the website [www.speakingathome.com](http://www.speakingathome.com/), and exhibits in this section a Privacy Policy concerning the personal information that the user can provide when visiting the Website. 
+As is stated in the [Legal Notice](https://web.archive.org/web/20170605163703id_/http%3A//www.speakingathome.com/legal_notice.html) of this Website, Speakingathome Ltd., Identification B87350856, is the owner of the website [www.speakingathome.com](http://www.speakingathome.com/), and exhibits in this section a Privacy Policy concerning the personal information that the user can provide when visiting the Website. 
 
 The Privacy Policy of SpeakingAtHome (hereinafter SAH), seeks compliance with legislation on protection of personal data. In particular, Organic Law 15/1999, of the 13th of December, of Protection of Data of Personal Nature(LOPD) and Royal Decree 1720 / 2007, of the 21st of December, which approves the Regulation of Development of the Organic Law 15/1999 (RLOPD).
 
-As a user of the Website, and through the acceptance of the current Privacy and Data Protection, I am aware and agree expressly that the personal data entered by myself will be stored, processed and used in order to provide the service in a way that is detailed in the [Conditions of Use](https://web.archive.org/web/20161218102631id_/http%3A//www.speakingathome.com/terms_and_conditions.html) and with the conditions contained in this privacy policy. 
+As a user of the Website, and through the acceptance of the current Privacy and Data Protection, I am aware and agree expressly that the personal data entered by myself will be stored, processed and used in order to provide the service in a way that is detailed in the [Conditions of Use](https://web.archive.org/web/20170605163703id_/http%3A//www.speakingathome.com/terms_and_conditions.html) and with the conditions contained in this privacy policy. 
 
 ### 1\. Information and ownership of the file
 
@@ -26,7 +26,7 @@ The user must provide data and personal circumstances required in the registrati
 
 ###  2\. Information Collection 
 
-The Website User agrees expressly that the data and contents entered by said User, or in the record, well within the normal operations of SAH - described in the [Conditions of Use](https://web.archive.org/web/20161218102631id_/http%3A//www.speakingathome.com/terms_and_conditions.html)-, and of its activity, to be incorporated into an automated file owned by Speakingathome Ltd. 
+The Website User agrees expressly that the data and contents entered by said User, or in the record, well within the normal operations of SAH - described in the [Conditions of Use](https://web.archive.org/web/20170605163703id_/http%3A//www.speakingathome.com/terms_and_conditions.html)-, and of its activity, to be incorporated into an automated file owned by Speakingathome Ltd. 
 
 Additionally, the User consents to the processing of the User's data in order to inform the User, by any means, including email, any changes or developments in policies, activity or products and services of Speakingathome Ltd. or third collaborating companies.
 
@@ -40,7 +40,7 @@ Also, the user expressly consents that SAH communicate the data as necessary to 
 
 SAH, within its services, offers the user the possibility to record classes of that User, although always subject to technical availability of both the TEACHER and the User.
 
-The request for the recording by the student in the form contained in the [ Conditions of use](https://web.archive.org/web/20161218102631id_/http%3A//www.speakingathome.com/terms_and_conditions.html) involves the express authorization for the storage, treatment and transmission of the data collected by this concept in the conditions contained in the present Conditions and Privacy and Data Protection Policy. 
+The request for the recording by the student in the form contained in the [ Conditions of use](https://web.archive.org/web/20170605163703id_/http%3A//www.speakingathome.com/terms_and_conditions.html) involves the express authorization for the storage, treatment and transmission of the data collected by this concept in the conditions contained in the present Conditions and Privacy and Data Protection Policy. 
 
 Being essential for the transmission of the storage of the recording previously mentioned, the user accepts, that if the User requests a recording of this kind, this will be recorded and stored on the device of the Teacher, in order to send a copy of the recording to the User after the completion.
 
