@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the complianceonline.com privacy policy that was archived on 2016-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160816214734id_/http%3A//www.complianceonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the complianceonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606004122id_/http%3A//www.complianceonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ComplianceOnline Quality & Compliance Portal
 
@@ -38,7 +38,7 @@ ComplianceOnline will occasionally update this privacy statement. For material c
 
 **Contact**
 
-Queries regarding this privacy statement please contact us at editor@complianceonline.com, or call Toll Free: +1-888-717-2436 or send mail to ComplianceOnline, 2600 E. Bayshore Road,Palo Alto, CA 94303
+Queries regarding this privacy statement please contact us at customercare@complianceonline.com, or call Toll Free: +1-888-717-2436 or send mail to ComplianceOnline, 2479 East Bayshore Road, Suite 200, Palo Alto, CA 94303
 
 **Last Update**
 
