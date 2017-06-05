@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playquiz2win.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106065732id_/http%3A//www.playquiz2win.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playquiz2win.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606001254id_/http%3A//www.playquiz2win.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Playquiz2win
 
