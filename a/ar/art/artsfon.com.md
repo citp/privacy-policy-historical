@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the artsfon.com privacy policy that was archived on 2016-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160103055438id_/http%3A//www.artsfon.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artsfon.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606011834id_/http%3A//www.artsfon.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Artsfon USA Privacy policy
+# Artsfon USA Privacy Policy
 
 **Artsfon Privacy policy**
 
