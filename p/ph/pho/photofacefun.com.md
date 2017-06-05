@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photofacefun.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228031321id_/http%3A//www.photofacefun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photofacefun.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606001623id_/http%3A//www.photofacefun.com/privacy) for the most accurate reproduction.*
 
 # Photofacefun.com
 
