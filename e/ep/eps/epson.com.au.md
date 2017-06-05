@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epson.com.au privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119024753id_/http%3A//www.epson.com.au/company/other/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epson.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015417id_/http%3A//www.epson.com.au/company/other/privacy_policy.asp) for the most accurate reproduction.*
 
 # Epson Australia - Privacy Policy
 
@@ -120,7 +120,7 @@ Epson may fulfil cashback promotions via electronic funds transfer (“EFT”), 
 ##   
 Security of Your Personal Information
 
-We will take reasonable steps to keep your Personal Information confidential and to protect it from misuse, unauthorised access, modification or disclosure. We have implemented and will maintain current standards of technology and operational security to protect your Personal Information from any such interference. [Security policy.](https://web.archive.org/web/20161119024753id_/http%3A//www.epson.com.au/shoponline/help/security.asp "Epson Security Policy")
+We will take reasonable steps to keep your Personal Information confidential and to protect it from misuse, unauthorised access, modification or disclosure. We have implemented and will maintain current standards of technology and operational security to protect your Personal Information from any such interference. [Security policy.](https://web.archive.org/web/20170606015417id_/http%3A//www.epson.com.au/shoponline/help/security.asp "Epson Security Policy")
 
 ##   
 Opting-out and Updating Personal Information
