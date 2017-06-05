@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the onemorepost.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004213321id_/http%3A//onemorepost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onemorepost.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606004550id_/http%3A//themindcircle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# TheMindCircle
 
+  
 **Privacy Policy**
 
-At onemorepost.com, we know that your personal information’s privacy is very important. Below are the kinds of personal information we collect and receive when you are visiting our site, and how we protect your information. Unlike other companies, we also don’t sell your personal information to the 3rd parties.
+At themindcircle.com, we know that your personal information’s privacy is very important. Below are the kinds of personal information we collect and receive when you are visiting our site, and how we protect your information. Unlike other companies, we also don’t sell your personal information to the 3rd parties.
 
 **Web Beacons and Cookies**
 
@@ -32,4 +33,4 @@ While we don’t intent to make some changes to our privacy statement often, we 
 
 If you need more information regarding the information we collect from our users and how we protect them, please don’t hesitate to send us an email and we will give you the answers you need for your questions.
 
-support@onemrepost.com
+support@themindcircle.com
