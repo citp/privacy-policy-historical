@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imeetzu.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119013015id_/http%3A//imeetzu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imeetzu.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005634id_/http%3A//www.imeetzu.com/privacy) for the most accurate reproduction.*
 
 # iMeetzu - Terms of Service and Privacy Policy
 
@@ -25,4 +25,4 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 Lastly, you agree that we may change these terms of service and privacy policy whenever we want and however we want without giving you any notice. 
 
-Feel free to [contact us](https://web.archive.org/web/20161119013015id_/http%3A//imeetzu.com/contact) with any questions or suggestions you may have. 
+Feel free to [contact us](https://web.archive.org/web/20170606005634id_/http%3A//www.imeetzu.com/contact) with any questions or suggestions you may have. 
