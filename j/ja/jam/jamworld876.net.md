@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamworld876.net privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205005131id_/http%3A//www.jamworld876.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamworld876.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606010911id_/http%3A//www.jamworld876.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Jamworld876
 
@@ -6,8 +6,7 @@ This privacy policy sets out how Jamworld876 uses and protects any information t
 
 Jamworld876 is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Jamworld876 may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from: December 2013  
-
+Jamworld876 may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from: December 2013
 
 ### What we collect
 
@@ -43,12 +42,11 @@ You can find more information about cookies at:
 
   * [www.allaboutcookies.org](http://www.allaboutcookies.org/)
   * [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
-  * For a video about cookies visit [a look at cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)
+  * For a video about cookies visit a look at cookies
 
 
 
-Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. The cookies used on this website have been categorised based on the categories found in the ICC UK Cookie guide.  
-
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. The cookies used on this website have been categorised based on the categories found in the ICC UK Cookie guide.
 
 ### Category 1: strictly necessary cookies
 
@@ -70,8 +68,7 @@ By using our website, you agree that we can place these type of cookies on your 
 
 These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organizations.
 
-A list of all the cookies used on this website by category is set out below.  
-
+A list of all the cookies used on this website by category is set out below.
 
 ### Links to other websites
 
@@ -92,6 +89,6 @@ You may request details of personal information which we hold about you under th
 
 A small fee will be payable.
 
-If you would like a copy of the information held on you please write to: jamworldblog@gmail.com 
+If you would like a copy of the information held on you please write to: jamworldblog@gmail.com
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
