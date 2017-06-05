@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the no-minimum.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219003846id_/http%3A//www.no-minimum.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the no-minimum.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606004716id_/http%3A//www.no-minimum.com/pages/privacy.php) for the most accurate reproduction.*
 
 # No-Minimum.com PTR That Pays!
 
