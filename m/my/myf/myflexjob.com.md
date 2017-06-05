@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myflexjob.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221172243id_/http%3A//www.myflexjob.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myflexjob.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013615id_/http%3A//myflexjob.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
