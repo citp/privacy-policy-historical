@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paladins.guru privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000352id_/http%3A//paladins.guru/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paladins.guru privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012752id_/http%3A//paladins.guru/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PaladinsGuru
 
