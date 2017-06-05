@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sugarhosts.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118220641id_/http%3A//www.sugarhosts.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugarhosts.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606001325id_/http%3A//www.sugarhosts.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Terms and Conditions - Sugarhosts
 
