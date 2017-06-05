@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charlespoliquin.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107051624id_/http%3A//www.poliquingroup.com/Home/tabid/745/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charlespoliquin.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003729id_/http%3A//www.poliquingroup.com/Home/tabid/745/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Poliquin Group
 
