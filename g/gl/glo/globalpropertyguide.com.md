@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globalpropertyguide.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201202126id_/http%3A//www.globalpropertyguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalpropertyguide.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606002846id_/http%3A//www.globalpropertyguide.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Global Property Guide
+# Privacy Policy - Global Property Guide | Global Property Guide
 
 This privacy policy states what we will do with your personal data once you have registered. By registering, you agree to the principles of this policy. We comply with the UK Data Protection Act 1998. Any information you give to the Global Property Guide will be held with the utmost care and will not be used in ways that you have not consented to.
 
