@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drishtiias.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235841id_/http%3A//www.drishtiias.com/articles-Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drishtiias.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606011014id_/http%3A//drishtiias.com/articles-Privacy-policy) for the most accurate reproduction.*
 
-# Drishti IAS - Privacy policy
+# Drishti IAS - Privacy Policy
 
 Privacy policy
 
@@ -123,3 +123,5 @@ By accessing our website, you agree to this Privacy Policy. This document supers
 **Cancellation**   **Policy  **: No cancellations are entertained.
 
 **Shipping Policy :  **We usually ship the product within 2 working days after receiving the order.
+
+﻿ 
