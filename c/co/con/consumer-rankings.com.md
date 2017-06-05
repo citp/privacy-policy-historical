@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the consumer-rankings.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201211222id_/http%3A//www.consumer-rankings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumer-rankings.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015932id_/http%3A//www.consumer-rankings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Consumer-Rankings.com
 
-[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.consumer-rankings.com/seal_m "Validate TRUSTe privacy certification")
-
 This privacy statement describes how our web site [www.consumer-rankings.com](https://web.archive.org/) owned and controlled by Centerfield Media Holdings, LLC ("Consumer-Rankings.com", "we", "us" or "our") collects and uses personal information.
-
-[www.consumer-rankings.com](https://web.archive.org/) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [contact@consumer-rankings.com](mailto:contact@consumer-rankings.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 Consumer-Rankings.com  
 855 N. Douglas St.  
