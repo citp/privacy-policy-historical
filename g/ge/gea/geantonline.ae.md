@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geantonline.ae privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216014813id_/http%3A//geantonline.ae/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geantonline.ae privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605145302id_/http%3A//geantonline.ae/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ If you have questions about accessing or correcting your personal data please ge
   
 Geant Online’s policy to respect your privacy regarding any information we may collect while you are using our website.  
   
-Our Privacy Policy is a part of our general [Terms of Service](https://web.archive.org/web/20161216014813id_/http%3A//geantonline.ae/t-Terms-conditions.aspx). We have added it separately here so that it’s easy for you to find. **Website Visitors**  
+Our Privacy Policy is a part of our general [Terms of Service](https://web.archive.org/web/20170605145302id_/http%3A//geantonline.ae/t-Terms-conditions.aspx). We have added it separately here so that it’s easy for you to find. **Website Visitors**  
 Like most website operators, Geant Online collects non-personally-identifying information of the sort that web browsers and servers typically make available. This includes such information as the browser type, language preference, referring site, and date and time of each visitor request. Geant Online’s purpose for collecting non-personally identifying information is to help us better understand how our visitors use the website. From time to time, Geant Online may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.  
   
 Geant Online also collects potentially personally-identifying information, for example Internet Protocol (IP) addresses for logged in users. Geant Online will only disclose logged in user IP addresses under the same circumstances that we use to disclose personally-identifying information. These circumstances are described in the paragraph Protection of Certain Personally-Identifying Information below. **Personally-Identifying Information  
