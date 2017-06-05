@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the icrossing.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124195258id_/http%3A//www.icrossing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icrossing.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015357id_/http%3A//www.icrossing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iCrossing
 
-iCrossing, Inc. ("IC" or "we") takes your privacy seriously and we want you to understand the ways in which we do and do not use the information that you transmit when you visit our websites. This statement discloses the privacy practices for [http://ic-live.com](http://ic-live.com/), [http://gbppc.com](http://gbppc.com/), and [http://cpcmanager.com](http://cpcmanager.com/). The tracking technology explained in this privacy policy is utilized on the domains [www.iCrossing.com](http://www.icrossing.com/) and [http://i2a.iCrossing.com](http://i2a.icrossing.com/).
+iCrossing, Inc. ("IC" or "we") takes your privacy seriously and we want you to understand the ways in which we do and do not use the information that you transmit when you visit our websites. This statement discloses the privacy practices for [http://ic-live.com](http://ic-live.com/). The tracking technology explained in this privacy policy is utilized on the domains [www.iCrossing.com](http://www.icrossing.com/) and [http://i2a.iCrossing.com](http://i2a.icrossing.com/).
 
 ### Opt-In
 
