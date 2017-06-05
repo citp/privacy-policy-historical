@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thechunkychef.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216100141id_/http%3A//www.thechunkychef.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechunkychef.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606010705id_/http%3A//www.thechunkychef.com/privacy) for the most accurate reproduction.*
 
 # Disclaimers and Privacy Policy - The Chunky Chef
 
@@ -57,3 +57,10 @@ We will not sell, distribute or lease your personal information to third parties
 [](http://foodgawker.com/post/archive/my-adventures-in-dinnertime/ "my foodgawker gallery")
 
 [](http://www.yummly.com/recipes "Certified Yummly Recipes on Yummly.com")
+
+[](http://www.theshelf.com/shelfnetwork/bloggers/?badge_name=widget2_short&utm_medium=blogger-badges&utm_source=blogger-badge&utm_content=badge-widget2_short&utm_campaign=thechunkychef.com)  
+
+
+[](https://activate.bloglovin.com/profile/10579135)
+
+[ ](http://www.healthyaperture.com/author/your-username/ "my healthy aperture gallery")
