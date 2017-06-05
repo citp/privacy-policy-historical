@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpaptalk.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202023949id_/http%3A//www.cpaptalk.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpaptalk.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606014246id_/http%3A//www.cpaptalk.com/privacy-policy.php) for the most accurate reproduction.*
 
 # CPAP Community - CPAPtalk.com Privacy Policy
 
@@ -113,14 +113,14 @@ Protecting and securing your information is of the highest priority to us. We co
 
 ## Personal Health Information
 
-We are legally required to protect the privacy of your 'Personal Health Information', or 'PHI' for short. Additionally incorporated into this Privacy Policy is more information described in the [PHI Privacy Policy](https://web.archive.org/web/20161202023949id_/http%3A//www.cpaptalk.com/phi-privacy.php).
+We are legally required to protect the privacy of your 'Personal Health Information', or 'PHI' for short. Additionally incorporated into this Privacy Policy is more information described in the [PHI Privacy Policy](https://web.archive.org/web/20170606014246id_/http%3A//www.cpaptalk.com/phi-privacy.php).
 
   
 
 
 ## General
 
-We reserve the right to modify this Privacy Policy at any time by posting the changes on CPAPtalk.com. In the event that we make any significant material change to this Privacy Policy, we may attempt to notify you by email, but are not required to do so. If your questions are not answered online, you may write to us at: CPAPtalk.com Attn: Legal - Privacy Policy, 9100 Southwest Freeway, Suite 135, Houston, Texas 77074, or by using the [Contact Us](http://www.cpap.com/submit-cpap-question.php) form.
+We reserve the right to modify this Privacy Policy at any time by posting the changes on CPAPtalk.com. In the event that we make any significant material change to this Privacy Policy, we may attempt to notify you by email, but are not required to do so. If your questions are not answered online, you may write to us at: CPAPtalk.com Attn: Legal - Privacy Policy, 13235 N. Promenade, Stafford, TX 77477, or by using the [Contact Us](https://www.cpap.com/submit-cpap-question.php) form.
 
   
 
