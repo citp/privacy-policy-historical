@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kindovermatter.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206103410id_/http%3A//www.kindovermatter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kindovermatter.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605132052id_/http%3A//kindovermatter.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – kind over matter
+# Privacy Policy - kind over matter
 
 **What personal information do we collect from the people that visit our blog, or  website?**
 
