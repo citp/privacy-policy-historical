@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the espares.co.uk privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214041558id_/http%3A//www.espares.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the espares.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012103id_/http%3A//www.espares.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | eSpares
 
@@ -13,7 +13,7 @@ The type of information we will collect about you when you place an order or reg
 
 
 
-This information is already stored on our internal systems and our website simply verifies you as a customer of eSpares (and their associated trading brands). We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly. The personal information that we hold will be held securely in accordance with our internal security policy and the law. We will not transfer your information outside the EEA (European Economic Area). We may use technology to track the patterns of behaviour of visitors to our site. If you have any questions/comments about privacy, you should email us at [privacy@espares.co.uk](mailto:privacy@espares.co.uk).
+This information is already stored on our internal systems and our website simply verifies you as a customer of eSpares (and their associated trading brands). We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly. The personal information that we hold will be held securely in accordance with our internal security policy and the law. We will not transfer your information outside the EEA (European Economic Area). We may use technology to track the patterns of behaviour of visitors to our site. If you have any questions/comments about privacy, please contact us using our [feedback form](https://web.archive.org/contact/feedback).
 
 We use the information you provide for the following purposes:
 
