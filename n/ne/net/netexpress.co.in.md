@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netexpress.co.in privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123035254id_/http%3A//www.netexpress.co.in/local/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netexpress.co.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606014120id_/http%3A//www.netexpress.co.in/local/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Yellow pages India
 
