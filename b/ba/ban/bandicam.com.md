@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bandicam.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119034004id_/http%3A//www.bandicam.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandicam.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005911id_/http%3A//www.bandicam.com/company/privacy) for the most accurate reproduction.*
 
-# Bandisoft/Bandicam Privacy Policy
+# Bandicam Company Privacy Policy
 
-* Bandisoft/Bandicam Privacy Policy Bandisoft respects your right to privacy. You may browse and access information contained in certain parts of this website without providing any personal information. However, some sections of this website require you to provide personal information in order to provide services that you request, and so the following privacy statement explains collection, dissemination and use of your personal data in those situations. This information may be expanded or updated as we change or develop our site. For this reason, we recommend that you review this policy from time to time to see if anything has changed. 
+"Bandicam Company" respects your right to privacy. You may browse and access information contained in certain parts of this website without providing any personal information. However, some sections of this website require you to provide personal information in order to provide services that you request, and so the following privacy statement explains collection, dissemination and use of your personal data in those situations. This information may be expanded or updated as we change or develop our site. For this reason, we recommend that you review this policy from time to time to see if anything has changed. 
 
 ## Cookies
 
-Bandisoft uses a cookie to store your visiting and referrer information. A cookie is a small text file, stored on your computer's hard drive, that can be read by our system when you return to our site. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. 
+"Bandicam Company" uses a cookie to store your visiting and referrer information. A cookie is a small text file, stored on your computer's hard drive, that can be read by our system when you return to our site. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. 
 
 ## Children
 
@@ -26,21 +26,18 @@ We use SSL (Secure Sockets Layer) security protection by encrypting all of your 
 
 ## Disclosures
 
-Other than the disclosures referred to in this policy, we will not disclose any personal information without your permission unless we are legally obliged or entitled to do so. We will only disclose your personal information to a third party either as part of a reorganization or a sale of the assets of Bandisoft, and/or having ensured that steps have been taken to ensure that your privacy rights continue to be protected. 
+Other than the disclosures referred to in this policy, we will not disclose any personal information without your permission unless we are legally obliged or entitled to do so. We will only disclose your personal information to a third party either as part of a reorganization or a sale of the assets of "Bandicam Company", and/or having ensured that steps have been taken to ensure that your privacy rights continue to be protected. 
 
 ## Forum
 
-We offer you the ability to post information and exchange ideas. All users shouldn't disclose any personal information as part of their posts, even if requested to do so by other posters. Bandisoft will not be responsible in the event that you disclose personal information in your posts or during any other communication with other site users. 
+We offer you the ability to post information and exchange ideas. All users shouldn't disclose any personal information as part of their posts, even if requested to do so by other posters. "Bandicam Company" will not be responsible in the event that you disclose personal information in your posts or during any other communication with other site users. 
 
 ## Changes
 
-Bandisoft will occasionally update this Privacy Policy to reflect company and customer feedback or changes to privacy legislation. We encourage you to periodically review this Privacy Policy to be informed of how Bandisoft is protecting your personal information. 
+"Bandicam Company" will occasionally update this Privacy Policy to reflect company and customer feedback or changes to privacy legislation. We encourage you to periodically review this Privacy Policy to be informed of how "Bandicam Company" is protecting your personal information. 
 
 *** Related FAQ**  
 \- 
 
-[_End User License Agreement and Terms of Service_](https://web.archive.org/support/tos/)
+[_End User License Agreement and Terms of Service_](https://web.archive.org/company/tos/)   
 
-\- 
-
-[_Bandisoft/Bandicam Privacy Policy_](https://web.archive.org/support/privacy/)
