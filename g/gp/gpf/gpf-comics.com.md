@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gpf-comics.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123045653id_/http%3A//www.gpf-comics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpf-comics.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606011719id_/http%3A//www.gpf-comics.com/privacy.php) for the most accurate reproduction.*
 
 # GPF: Privacy Statement and Ad Info
 
-We are currently experiencing problems sending e-mail to users with Microsoft-owned addresses (Hotmail, Outlook.com, Live.com, etc.). Despite the fact that we have numerous anti-spam countermeasures in place that seem to be working fine with other services, Microsoft is branding everything from our ISP as spam. If you have a [Premium](https://web.archive.org/premium/) or [Forum](https://web.archive.org/forum/) account attached to a Microsoft-provided address, please check your spam or junk folders and mark any expected messages from us as "ham". (Of course, please continue to mark legitimate spam as such.) Otherwise, we suggest switching mail providers for your GPF accounts. We apologize for the inconvenience.
+Jeff will be mostly unavailable June 3-10, 2017, and will likely have limited or no Internet access. As such, we ask that you please be patient with any [correspondence](https://www.gpf-comics.com/contact.php) or [GPF Premium](http://www.gpf-comics.com/premium/) questions during this time. [Premium credit card orders](https://www.gpf-comics.com/premium/cc_order.php) will likely be significantly delayed, but PayPal orders and renewals initiated via the [Account Creator](https://www.gpf-comics.com/premium/create_account.php) and [Account Manager](https://www.gpf-comics.com/premium/manage_account.php) should be unaffected. The comic, of course, will continue to update, as usual. We apologize for any inconvenience.
 
 ### Privacy Statement
 
