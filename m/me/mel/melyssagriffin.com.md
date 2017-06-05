@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melyssagriffin.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226051724id_/http%3A//www.melyssagriffin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melyssagriffin.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005918id_/http%3A//www.melyssagriffin.com/privacy-policy) for the most accurate reproduction.*
 
 # The Nectar Collective LLC Privacy Policy - Melyssa Griffin
 
@@ -7,7 +7,7 @@ _Please read this Privacy Policy carefully before using this Website._
 ## _  
 _ Privacy Policy Consent
 
-The Website and its Content is owned by The Nectar Collective, LLC (“Company”, “we”, or “us”). The term “you” refers to the user or viewer of TheNectarCollective.com (“Website”).  
+The Website and its Content is owned by The Nectar Collective, LLC (“Company”, “we”, or “us”). The term “you” refers to the user or viewer of MelyssaGriffin.com (“Website”).  
 Please read this Privacy Policy carefully. We reserve the right to change this Privacy Policy on the Website at any time without notice. Use of any information or contribution that you provide to us, or which is collected by us on or through our Website or its Content is governed by this Privacy Policy. By using our Website or its Content, you consent to this Privacy Policy, whether or not you have read it. If you do not agree with this Privacy Policy, please do not use our Website or its Content.
 
 ## Submission, Storage and Sharing of Personal Data
