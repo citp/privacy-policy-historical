@@ -1,132 +1,35 @@
-> *The following text is extracted and transformed from the algocashmaster.com privacy policy that was archived on 2016-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160212125702id_/http%3A//www.algocashmaster.com/privacy-policy) for the most accurate reproduction.*
-
-# ALGOCashMaster.com
-
-  
-
-
-We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
-
-**(1)  This privacy policy**
-
-This privacy policy was made using an SEQ Legal privacy policy template created for http://www.employmentlawcontracts.co.uk.
-
-**(2)  What information do we collect?**
-
-We may collect, store and use the following kinds of personal information:
-
-(a) Information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, website navigation);
-
-(b) Information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services;
-
-(c) Information that you provide to us for the purpose of registering with us;
-
-(d) Information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters;
-
-(e) Any other information that you choose to send to us;
-
-**(3)   Cookies**
-
-We may use both “session” cookies and “persistent” cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website; we will use the persistent cookies to: enable our website to recognize you when you visit;
-
-Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
-
-**(4)  Using your personal information**
-
-Personal information submitted to us via this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
-
-We may use your personal information to:
-
-(a) Administer the website;
-
-(b) Improve your browsing experience by personalizing the website;
-
-(c) Enable your use of the services available on the website;
-
-(d) Send you goods purchased via the website, and supply to you services purchased via the website;
-
-(e) Send statements and invoices to you, and collect payments from you;
-
-(f) Send you general (non-marketing) commercial communications;
-
-(g) Send you email notifications which you have specifically requested;
-
-(h)Send you marketing communications relating to our business which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications)
-
-(i) Provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
-
-(j) Deal with enquiries and complaints made by or about you relating to the website;
-
-Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.
-
-We will not, without your express consent, provide your personal information to any third parties for the purpose of direct marketing.
-
-All our website financial transactions are handled through our payment services provider.
-
-**(5)  Disclosures**
-
-WWe may disclose information about you to insofar as reasonably necessary for the purposes as set out in this privacy policy.
-
-In addition, we may disclose your personal information:
-
-(a) To the extent that we are required to do so by law;
-
-(b) In connection with any legal proceedings or prospective legal proceedings;
-
-(c) In order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);
-
-(d) To the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling; and
-
-(e) To any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
-
-Except as provided in this privacy policy, we will not provide your information to third parties.
-
-**(6)   International data transfers**
-
-Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
-
-Information which you provide may be transferred to countries (including the United States, Japan, or other countries) which do not have data protection laws equivalent to those in force in the European Economic Area.
-
-In addition, personal information that you submit for publication on the website will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
-
-You expressly agree to such transfers of personal information.
-
-**(7)  Security of your personal information**
-
-We will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information.
-
-We will store all the personal information you provide on our secure (password- and firewall- protected) servers. All electronic transactions you make to or receive from us will be encrypted using SSL technology.
-
-It must be understood that data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
-
-You are responsible for keeping your password and user details confidential. We will not ask you for your password, apart from when you log in to the website.
-
-**(8)  Policy amendments**
-
-We may update this privacy policy periodically by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
-
-We may also notify you of changes to our privacy policy by email.
-
-**(9)  Your rights**
-
-You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to:
-
-(a) The payment of a fee (currently fixed at £10.00); and
-
-(b) The supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).
-
-We may withhold such personal information to the extent permitted by law.
-
-You may instruct us not to process your personal information for marketing purposes by email at any time. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.
-
-**(10)  Third party websites**
-
-The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
-
-**(11)  Updating information**
-
-Please let us know if the personal information which we hold about you needs to be corrected or updated.
-
-**(12)  Contact**
-
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email.
+> *The following text is extracted and transformed from the algocashmaster.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015445id_/http%3A//www.algocashmaster.com/privacy-policy.html) for the most accurate reproduction.*
+
+# Privacy Policy
+
+PLEASE READ THE FOLLOWING PRIVACY POLICY AND THE TERMS AND CONDITIONS CAREFULLY BEFORE USING THIS WEBSITE algocashmaster.com (" ** **Website**** "). The services provided within this Website (“ ** **Services**** ”) are for private individuals over 18 years old located in a country or jurisdiction where the specific Services provided comply with your local law or regulation. Therefore, please read the ****Terms & Conditions of Use**** before interacting and\or using this Website or any of the services provided in it.   It's important to us to assist visitors and users of the Website to retain their privacy when they take advantage of all the information, content and services in this Website. We are following a simple guide line, since your privacy is important to you it is also important to us. Therefore, although we are not collecting any confidential or personally identifiable information that you may share with third parties’ services through the Website.   Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting the Website, you are accepting and consenting to the practices described in this policy.   It is our policy not to collect any information that personally identifies you (personally identifiable information (" ** **PII**** ")) through your use of this Website. However, through our advertising services, you may wish to use certain services provided through a link, an iframe or other technological means on the Website which are owned and operated by third parties (“ ** **3PS**** ”). Please note that we do not have any control of such 3PS’ services and we do not have any access to any information exchanges between you and any of such 3PS. We encourage you to read such 3PS services’ terms of use and privacy policy prior of your interaction with their services.   Because your privacy is important to us, we maintain the following privacy policy, that may change from time to time, to protect your PII. 
+
+  1. ****Information Collection****. We collect several types of information, such as: 
+    1. Information that you provide. 
+      1. You may provide us with a name and e-mail address.
+      2. You may provide such information by one of our forms which help us provide you with the means to subscribe to one of the 3PS’ services or participate in any other activity with us.
+    2. ****Information we receive from other sources****. We may receive none PII about you if you use any of the other websites we operate or the other services we provide. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive non PII information about you from them.
+    3. ****Website Activity****. 
+      1. Certain none PII Website activity information is automatically collected and logged by our servers for research and development purposes. Such information includes IP address used to connect user's computer to the Internet, username(if applicable), date and time of visit, content and files accessed, ‘referrer’ information if user clicked on an external link to access our webpages, browser type and version, device type and version, Internet service provider, mobile carrier, time zone setting, language settings, connection type, browser plug-in types and versions, operating system and platform and any other technical information.
+      2. We may collect specific information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time), products you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+    4. ****Cookies****. We use cookies for the purpose of your connection and session on our Website's servers, distinguish you from other users of our Website, obtaining Website activity and in some cases for security and authentication purposes. Cookies help us to provide you with a good experience when you browse our Website and also allows us to improve our site, and offer you additional content recommendations when viewing other websites.
+    5. ****Identifiable Personal Information****. We do not collect any of your PII. Your PII may only be collected by 3PS and only when you agree to voluntarily provide it through one of their PII collection forms or through a direct interaction with such 3PS’ services. Generally, this information is requested when you create a registration ID with the said 3PS’s services.
+  2. ****NO Collection of**** ** **Y**** ** **our PII****. 
+    1. We do not collect, use or disclose any of your PII for any purpose, other than those outlined in this policy without your consent or as required by law.
+    2. Only 3PS may collect PII for providing you with their services and products.
+    3. When you purchase or receive any service or product, such 3PS may ask you to register electronically. When you do so, such 3PS may merge your registration information with any none PII information you've already left with us.
+  3. ****Communication****. 
+    1. If you do not want us to communicate with you about other offers regarding products, programs, events, or services through the email you provided us, you may select the option stating that you do not wish to receive such marketing messages.
+    2. We occasionally allow other companies to offer, through us, to the Website registered visitors’ information about their products and services, using email only. If you do not want to receive these offers, you may select the option stating that you do not wish to receive marketing materials from third parties.
+    3. We do our best efforts to process and adhere to such request in an automated manner, however such request may fail to execute automatically, If your request for not receiving any further offers and/or information was not processed, please send an immediate email to: support@algocashmaster.com in order for us to process your request manually, such request may be processed within a maximum of 2 business days.
+  4. ****Security****. 
+    1. We took measures to protect the security of your email from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
+    2. Please note that you also have a significant role in protecting your information. Please take reasonable precautions prior of providing your PII to 3PS.
+  5. ****Notice to Parents****. 
+    1. Parents or guardians please note that we want to help you guard your children's privacy. Therefore, we encourage you to talk to your children about safe and responsible use of their personal Information while using the Internet.
+    2. Most of the services published on the Website are NOT targeted to children.
+  6. ****Compliance****. 
+    1. If for some reason you believe some of this policy principles were not kept, please notify us by email at support@algocashmaster.com, and we will do our best to determine and correct the problem promptly.
+    2. our Website might show content provided by third parties such as advertisers and\or provide links to third party's content \ website(s) \ services \ products. Although we are not responsible for such content, we do take care of our visitors. Therefore, any content displayed on the Website that you believe for some reason to be improper, defamatory or harmful in any or any other way, please notify us by email at support@algocashmaster.com, and we will do our best to determine and correct the problem promptly.
+
+   
