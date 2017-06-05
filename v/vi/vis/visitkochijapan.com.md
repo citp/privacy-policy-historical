@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitkochijapan.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030032017id_/http%3A//visitkochijapan.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitkochijapan.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605022009id_/http%3A//visitkochijapan.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - VISIT KOCHI JAPAN
 
