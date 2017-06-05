@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewiseagent.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106073514id_/http%3A//thewiseagent.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewiseagent.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605174642id_/http%3A//www.thewiseagent.com/privacy.asp) for the most accurate reproduction.*
 
 # Wise Agent -Terms Of Servic
 
@@ -87,4 +87,4 @@ contactus@wiseagent.com
 480-836-0345  
 
 
-© 2002-2016 The Wise Agent L.L.C.
+© 2002-2017 The Wise Agent L.L.C.
