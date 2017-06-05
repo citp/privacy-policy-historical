@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the xxxpawn.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000805id_/http%3A//xxxpawn.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxpawn.com privacy policy that was archived on 2017-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170605174705id_/http%3A//xxxpawn.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
 Privacy Policy   
 
 
-Your privacy is of the utmost importance to us. This Privacy Policy (the "Policy") applies to the site xxxpawn.com and all other sites owned or controlled by Zocotech Limited ("the Company") and in which this policy appears. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.   
+Your privacy is of the utmost importance to us. This Privacy Policy (the "Policy") applies to the site xxxpawn.com and all other sites owned or controlled by Sonesta Technologies, Inc ("the Company") and in which this policy appears. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.   
 
 
 Adults Only Service   
