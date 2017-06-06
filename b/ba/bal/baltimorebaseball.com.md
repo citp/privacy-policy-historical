@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baltimorebaseball.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120090601id_/http%3A//www.baltimorebaseball.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimorebaseball.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104505id_/http%3A//www.baltimorebaseball.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BaltimoreBaseball.com
 
@@ -7,6 +7,8 @@
 In common with other websites, log files are stored on the web server saving details such as the visitor’s IP address, browser type, referring page and time of visit.
 
 Cookies may be used to remember visitor preferences when interacting with the website.
+
+[](https://baltimorebaseball.app.link/iFXfmcR3VA)
 
 Where registration is required, the visitor’s email and a username will be stored on the server.
 
