@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshmonk.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205004712id_/http%3A//www.freshmonk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshmonk.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606131500id_/http%3A//www.freshmonk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,6 +25,13 @@ As is true of most websites, we automatically gather information about your comp
   5. Respond to customer service requests
   6. Administer your account
   7. Respond to your questions and concerns
+
+  
+
+
+#### **Operational Use.**
+
+We may use your information for suggesting products and promotional offers and schemes. You may update your profiling information at any time on the profile page. You acknowledge and agree such update is for Your interests and for improving personalization and efficiency of our service. 
 
   
 
