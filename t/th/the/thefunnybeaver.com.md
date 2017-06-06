@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefunnybeaver.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123170817id_/http%3A//thefunnybeaver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefunnybeaver.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040850id_/http%3A//thefunnybeaver.com/privacy-policy) for the most accurate reproduction.*
 
 # TheFunnyBeaver – Privacy Policy
 
@@ -77,7 +77,39 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
+TheFunnyBeaver.Com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com
+
+Many websites use Google technologies to improve their content and keep it free. When you visit a website that uses our advertising products (like AdSense), social products (like the +1 button), or analytics tools (Google Analytics), your web browser automatically sends certain information to Google. This includes, for example, the web address of the page that you’re visiting and your IP address. We may also set cookies on your browser or read cookies that are already there.
+
+Similarly, apps that partner with Google can send us information such as the name of the app and an identifier that helps us to determine which ads we’ve served to other apps on your device. If you are signed in to your Google Account, and depending on your Account settings, we may add that information to your Account, and treat it as personal information.
+
+## How we use the information sent by your browser
+
+When you visit websites or use apps that use Google technologies, we may use the information we receive from those websites and apps to, for example:
+
+  * Make ads more effective
+  * Provide reports of ads activity to advertisers and websites hosting the ads, and to ensure payment to those website publishers
+  * Help website and app owners using Google Analytics to understand how visitors engage with their sites or apps
+  * Improve your Google+ experience
+  * Detect and defend against fraud and other security risks to protect users and partners
+  * Meet our legal duties
+  * Improve our products
+
+
+
+## How you can control the information sent to Google
+
+For tips and advice on staying safe and managing your data online, visit the [Google Safety Center.](https://www.google.com/safetycenter/)
+
+Here are some of the ways you can control the information that is shared by your web browser when you visit or interact with Google services on partners’ sites across the web:
+
+  * [Ads Settings](https://www.google.com/ads/preferences/?hl=en) helps you control the ads by Google that you see across the web. You can learn how ads are selected for you, opt out of Ads Personalization, and block specific advertisers. Learn more about [advertising](https://www.google.com/policies/technologies/ads/).
+  * If you are signed in to your Google Account, and depending on your Account settings, you can see and edit some of the information we collect from the sites and apps you have visited.
+  * Many sites across the web use Google Analytics to understand how visitors engage with their sites or apps. If you don’t want Analytics to be used in your browser, you can [install the Google Analytics browser add-on](https://tools.google.com/dlpage/gaoptout). Learn more about [Google Analytics and privacy](https://support.google.com/analytics/answer/6004245?hl=en).
+  * Google makes it easy for you to make recommendations for your friends – for example, by clicking the +1 button on content you like. Some of your +1s may show your name and Google+ profile photo in ads, but you can [opt out](https://plus.google.com/settings/endorsements) if you don’t want to appear in ads. You can also visit the +1 tab on your Google+ profile to review and manage all of your +1’s. [Learn more](https://support.google.com/plus/answer/1047397?hl=en) about how to get to your +1 tab.
+  * [Incognito mode in Chrome](https://support.google.com/chrome/answer/95464?hl=en) allows you to browse the web without recording webpages and files in your browser history. Cookies are deleted after you’ve closed all of your incognito windows and tabs, and your bookmarks and settings are stored until you delete them. Learn more about [cookies.](https://www.google.com/policies/technologies/cookies/)
+
+
+
 Contact Information:  
 Please contact TheFunnyBeaver with any questions or comments about this Privacy Notice
-
-Comments or questions are welcome.
