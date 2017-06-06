@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voguewigs.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021041351id_/http%3A//www.voguewigs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voguewigs.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606030526id_/http%3A//www.voguewigs.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,17 +41,17 @@ This site has security measures in place to protect the loss, misuse, and altera
 **Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us.
 
-You can send email to and request to be removed or added to our mailing list.
+You can send email to **[our customer service department](http://www.voguewigs.com/contact)** and request to be removed or added to our mailing list.
 
 **Data Quality/Access**
 
 This site gives users the following options for changing and modifying information previously provided:
 
-You can send email to questions@voguewigs.com You can visit the following URL: www.voguewigs.com and modify your account if you have created one with us by clicking on LOGIN/REGISTER.
+You can send questions to **[our customer service department](http://www.voguewigs.com/contact).** If you have created an account with us, **[click here](https://www.voguewigs.com/customer/account/login/)** to update your prefrences.
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can **[contact our customer service department](http://www.voguewigs.com/contact)**.
 
-Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
+Third-Party Web Beacons: We use third-party web beacons from Google to help analyze where visitors go and what they do while visiting our website. Google may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Google, **[click here](https://tools.google.com/dlpage/gaoptout)**.
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, **[click here](http://www.networkadvertising.org/)**.
