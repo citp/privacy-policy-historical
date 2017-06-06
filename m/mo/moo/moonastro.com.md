@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moonastro.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023072823id_/http%3A//www.moonastro.com/others/privacy%2520policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moonastro.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055632id_/http%3A//www.moonastro.com/others/privacy%2520policy.aspx) for the most accurate reproduction.*
 
-# MoonAstro.com : Privacy Policy of MRahi Solutions
+# MoonAstro.com : Privacy Policy of MoonAstro
 
 **Privacy Policy for www.moonastro.com**
 
@@ -23,7 +23,7 @@ Demographic and profile data, as well as your registration data (i.e., e-mail ad
 www.moonastro.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 **DoubleClick DART Cookie**  
-.:: Google, as a third party vendor, uses cookies to serve ads on www.moonastro.com. .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.moonastro.com and other sites on the Internet. .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+.:: google, as a third party vendor, uses cookies to serve ads on www.moonastro.com. .:: google's use of the DART cookie enables it to serve ads to users based on their visit to www.moonastro.com and other sites on the Internet. .:: Users may opt out of the use of the DART cookie by visiting the google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....
 
