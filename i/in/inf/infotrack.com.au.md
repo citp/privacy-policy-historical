@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infotrack.com.au privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128133700id_/https%3A//infotrack.com.au/privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infotrack.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175646id_/https%3A//www.infotrack.com.au/privacy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -106,7 +106,7 @@ GPO Box 4029 Sydney NSW 2001
 
 [**privacy@infotrack.com.au**](mailto:privacy@infotrack.com.au)
 
-1800 738 524 or 02 8273 7511
+1800 738 524
 
 We will acknowledge and investigate any complaint about the way we manage personal information as soon as practicable. We will take reasonable steps to remedy any failure to comply with our privacy obligations. If you are unhappy with our handling of the complaint, you may contact the Australian Information Commissioner.
 
