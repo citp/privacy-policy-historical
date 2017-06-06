@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the pennyful.in privacy policy that was archived on 2016-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161216182912id_/http%3A//www.pennyful.in/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pennyful.in privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606095214id_/http%3A//www.pennyful.in/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta name="robots" content="index, follow">
     <link rel="alternate" href="http://m.pennyful.in/privacy-policy">
 <link href="css/pennyful2.css" rel="stylesheet" type="text/css"><link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css"><link href="http://fonts.googleapis.com/css?family=Courgette" rel="stylesheet" type="text/css">
-    <script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/540d889227924e5abd000083.js"></script><script async="" charset="utf-8" src="//v2.zopim.com/?1RnJ5aRO6fv9gbAJJVQ7Wjw4ZWIJRzyb" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-    <script src="http://www.pennyful.in/js/pennyful.js" async="" type="text/javascript"></script>
+    <script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/540d889227924e5abd000083.js"></script><script async="" charset="utf-8" src="//v2.zopim.com/?1RnJ5aRO6fv9gbAJJVQ7Wjw4ZWIJRzyb" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script src="js/pennyful.js" async="" type="text/javascript"></script>
     <script src="js/cemantica_pennyful.js" async="" type="text/javascript"></script>
     <script src="https://js.pennyful.in/clipboardcoupon.js" async="" type="text/javascript"></script>
     <script type="text/javascript" src="https://js.pennyful.in/vtip.js" async=""></script>
@@ -23,6 +23,52 @@
  }
 }
     </script>
+    
+    <script type="text/javascript">
+        window.fbAsyncInit = function () {
+            FB.init({
+                appId: '1573188166250907',
+                cookie: true,
+                xfbml: true,
+                version: 'v2.8'
+            });
+            FB.AppEvents.logPageView();
+        };
+
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) { return; }
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        } (document, 'script', 'facebook-jssdk'));
+
+        FB.getLoginStatus(function (response) {
+            alert(response);
+            statusChangeCallback(response);
+        });
+
+        function checkLoginState() {
+            FB.getLoginStatus(function (response) {
+                console.log(response);
+                if (response.status === 'connected') {
+                    var accessToken = response.authResponse.accessToken;
+                    window.location = "http://www.pennyful.in/facebooksignup.aspx?code=" + accessToken;
+
+                } else if (response.status === 'not_authorized') {
+                    //login function
+                    // alert('login first');
+                } else {
+                    //login function
+                    // alert('login first');
+                }
+                statusChangeCallback(response);
+            });
+        }
+
+
+    </script>
+    
     
     
     <script type="text/javascript">
@@ -575,7 +621,8 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', ['t
                                                     <a href="#" class="gle-button" onclick="login();" id="loginText"></a><a href="#" style="display: none" id="logoutText" target="myIFrame" onclick="myIFrame.location='https://www.google.com/accounts/Logout'; startLogoutPolling();return false;">
                                                         Click here to logout </a>
                                                     <iframe name="myIFrame" id="myIFrame" style="display: none"></iframe>
-                                                    <a href="https://www.facebook.com/dialog/oauth?client_id=1573188166250907&amp;redirect_uri=https://www.pennyful.in/Facebooksignup.aspx&amp;scope=offline_access,user_status,email,user_groups" class="fb-button" rel="nofollow"></a>
+                                                    <a href="https://www.facebook.com/dialog/oauth?client_id=1573188166250907&amp;redirect_uri=http://www.pennyful.in/facebooksignup.aspx/&amp;scope=public_profile,email" class="fb-button" rel="nofollow"></a>
+                                                    
                                                 </div>
                                             </div>
                                         </div>
@@ -685,20 +732,20 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', ['t
                                                             <input name="ctl00$txtReferrarEmailSignup" type="text" id="txtReferrarEmailSignup" placeholder="Referrer's Email (Optional)" style="display: none;">
                                                             <input type="submit" name="ctl00$btnSignup" value="Submit" onclick="return checkRegistrationnew('txtUsernameSignup','txtEmailIDSignup','txtMobilenoSignup','txtPasswordSignup','lblErrorSignup');" id="btnSignup">
                                                             <p>
+                                                                <span id="lblErrorSignup" style="color:Red;"></span>
+                                                            </p>
+                                                            <p>
                                                                 By becoming a member, you agree to our <a class="redlink" href="http://www.pennyful.in/terms-conditions">
                                                                     terms and conditions</a></p>
                                                         </div>
                                                     
 	</div>
                                                 </div>
-                                                <p>
-                                                    <span id="lblErrorSignup" style="color:Red;"></span>
-                                                </p>
                                                 <div class="sm-form-cont">
                                                     <a href="#" class="gle-button" onclick="login();" id="A1"></a><a href="#" temp_href="#" style="display: none" id="A2" target="myIFrame" onclick="myIFrame.location='https://www.google.com/accounts/Logout'; startLogoutPolling();return false;">
                                                         Click here to logout </a>
                                                     <iframe name="myIFrame" id="Iframe1" style="display: none"></iframe>
-                                                    <a href="https://www.facebook.com/dialog/oauth?client_id=1573188166250907&amp;redirect_uri=https://www.pennyful.in/Facebooksignup.aspx&amp;scope=offline_access,user_status,email,user_groups" class="fb-button" rel="nofollow"></a>
+                                                    <a href="https://www.facebook.com/dialog/oauth?client_id=1573188166250907&amp;redirect_uri=http://www.pennyful.in/facebooksignup.aspx/&amp;scope=public_profile,email" class="fb-button" rel="nofollow"></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -1082,7 +1129,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', ['t
                     </div>
                     <div class="fw copyright">
                         <p>
-                            Copyright 2016, Pennyful Online Pvt Ltd. All Rights Reserved.
+                            Copyright 2017, Pennyful Online Pvt Ltd. All Rights Reserved.
                         </p>
                     </div>
                 </div>
@@ -1207,18 +1254,22 @@ var google_remarketing_only = true;
                 var valEmail = document.getElementById(email).value.trim();
 
                 if (checkemailnew(valEmail)) {
-                    return true;
+
                 }
                 else {
-                    document.getElementById(lblerror).innerHTML = 'Invalid email ID.';
+
+                    alert("Invalid email ID.");
                     return false;
                 }
 
-                if (checkRegistration(name, email, mobile, pass, lblerror)) {
+
+                if (checkRegistration(name, email, mobile, pass, lblerror) == false) {
+
                     return false;
                 }
                 else {
                     /// second check
+                    //alert(checkRegistration(name, email, mobile, pass, lblerror));
                     if (document.getElementById(name).value.replace(/ /g, '') === "") {
                         return false;
                     }
@@ -1241,6 +1292,7 @@ var google_remarketing_only = true;
                     }
                     else {
                         if (emailpattern.test(valEmail)) {
+
                         }
                         else {
                             return false;
@@ -1275,17 +1327,18 @@ var google_remarketing_only = true;
                         return true;
                     }
                     else {
-                        document.getElementById(lblerror).innerHTML = 'Invalid email ID.';
+
+                        alert("Invalid email ID.");
                         return false;
                     }
                     return false;
                 }
-
             } catch (Error) {
 
                 // alert(Error);
             }
         }
+
 
         function checkemailnew(email) {
 
@@ -1297,7 +1350,10 @@ var google_remarketing_only = true;
             if (request.status === 200) {
                 emailexists = request.responseXML.childNodes[0].firstChild.nodeValue;
             }
-            if (emailexists === 'valid') {
+            if (emailexists === 'invalidFormat') {
+                return true;
+            }
+            else if (emailexists === 'valid') {
                 return true;
             }
             else {
@@ -1346,7 +1402,7 @@ var google_remarketing_only = true;
 
             request.send(); // because of "false" above, will block until the request is done
             // and status is available. Not recommended, however it works for simple cases.
-
+           
             if (request.status === 200) {
                 emailexists = request.responseXML.childNodes[0].firstChild.nodeValue;
             }
@@ -1358,6 +1414,8 @@ var google_remarketing_only = true;
             }
         }
 
+
+        
     
     </script>
     <script type="text/javascript">
