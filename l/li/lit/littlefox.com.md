@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the littlefox.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125003627id_/http%3A//www.littlefox.com/en/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlefox.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163933id_/https%3A//www.littlefox.com/en/help/privacy) for the most accurate reproduction.*
 
 # Little Fox
 
-  * Little Fox Inc. operates this website as well as Little Fox mobile products (as defined in the Terms of Service and will be referred to as "Little Fox," "we," or "us"). The following Privacy Policy describes what information we collect about our users and subscribers ("you"), and how we use and disclose it.
+  * Little Fox Inc. operates this website as well as Little Fox mobile products (as defined in the Terms of Service and will be referred to as \"Little Fox,\" \"we,\" or \"us\"). The following Privacy Policy describes what information we collect about our users and subscribers (\"you\"), and how we use and disclose it.
   *   
 At Little Fox the privacy of our users is very important to us. In accordance with our fundamental principles regarding privacy, Little Fox will only ask users for the least amount of personal information necessary. We do not share users' personal information with anyone, except to comply with the law, develop our products, or protect our rights.
 
@@ -40,13 +40,13 @@ Access to Personal Information
 
 Children 
 
-  * The safety of children is vital to Little Fox. Little Fox does not knowingly collect or keep personal information from children under the age of 18 without obtaining consent from a parent or legal guardian. Any user under the age of 18 must get permission from a parent or legal guardian before using our Service. If Little Fox has unknowingly collected personal information from a child under the age of 18, please notify us at info@littlefox.com, and we will delete the information as quickly as possible.
+  * The safety of children is vital to Little Fox. Little Fox does not knowingly collect or keep personal information from children under the age of 18 without obtaining consent from a parent or legal guardian. Any user under the age of 18 must get permission from a parent or legal guardian before using our Service. If Little Fox has unknowingly collected personal information from a child under the age of 18, please notify us at help@littlefox.com, and we will delete the information as quickly as possible.
 
 
 
 Choice 
 
-  * Little Fox may occasionally send subscribers a newsletter, or emails related to new features and updates to Little Fox and our Service. You can unsubscribe to these emails at any time by following the instructions included in every email, or by emailing us at info@littlefox.com. Please note that it may take a few days to process your request, during which you may receive additional emails.
+  * Little Fox may occasionally send subscribers a newsletter, or emails related to new features and updates to Little Fox and our Service. You can unsubscribe to these emails at any time by following the instructions included in every email, or by emailing us at help@littlefox.com. Please note that it may take a few days to process your request, during which you may receive additional emails.
 
 
 
@@ -72,6 +72,6 @@ Updates to Policy
 
 Contact 
 
-  * If you have any questions or concerns about this Privacy Policy, please contact us at info@littlefox.com.
+  * If you have any questions or concerns about this Privacy Policy, please contact us at help@littlefox.com.
 
 
