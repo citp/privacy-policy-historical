@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the peltiertech.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026035326id_/http%3A//peltiertech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peltiertech.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051439id_/http%3A//peltiertech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Peltier Tech Blog
 
 Friday, December 5, 2008   
-Peltier Technical Services, Inc., [Copyright © 2016](http://peltiertech.com/copyright-and-licensing/ "Copyright and Licensing").  
+Peltier Technical Services, Inc., [Copyright © 2017](http://peltiertech.com/copyright-and-licensing/ "Copyright and Licensing").  
  
 
  **Privacy**
