@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthdaydirect.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514035806id_/http%3A//www.birthdaydirect.com/customer-service-pm-617.html%233) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdaydirect.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154617id_/http%3A//www.birthdaydirect.com/customer-service-pm-617.html%233) for the most accurate reproduction.*
 
 # Customer Service Help Center - Birthday Direct
 
