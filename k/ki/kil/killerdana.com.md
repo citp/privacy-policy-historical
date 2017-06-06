@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the killerdana.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401224617id_/http%3A//www.killerdana.com/pages/partners_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killerdana.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135315id_/http%3A//www.killerdana.com/pages/partners_privacy_policy) for the most accurate reproduction.*
 
 # - KillerDana.com Surf Store
 
