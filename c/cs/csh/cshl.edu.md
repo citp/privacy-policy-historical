@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cshl.edu privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220220519id_/http%3A//cshl.edu/About-Us/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cshl.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064452id_/http%3A//www.cshl.edu/About-Us/Privacy-Policy.html) for the most accurate reproduction.*
 
 # CSHL Privacy Policy | About Us
 
@@ -22,4 +22,4 @@ Community communication features such the Memory Baord are at the heart of the c
 We strongly recommend that users take extra care to use discretion when disclosing information online in chat rooms or forums. In the future, CSHL will be adding new components to the site in order to further safeguard visitors' information.
 
 **How to Contact Us for Corrections/Updates**  
-We use e-mail links located on the "[Contact Us](http://www.cshl.edu/about-us/contact-public-affairshtml)" page to allow you to contact us directly with any questions or comments. We read every message sent in and try to reply promptly to every one. We then either file your comments to improve on our site, features, and programs, or review and discard the messages.
+We use e-mail links located on the "[Contact Us](http://cshl.edu/about-us/contact-public-affairshtml)" page to allow you to contact us directly with any questions or comments. We read every message sent in and try to reply promptly to every one. We then either file your comments to improve on our site, features, and programs, or review and discard the messages.
