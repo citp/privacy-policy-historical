@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mypastquestion.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122210248id_/http%3A//mypastquestion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypastquestion.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606233239id_/http%3A//mypastquestion.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | My Past Question
+# Privacy Policy - My Past Question : My Past Question
 
 At http://mypastquestion.com, the privacy of our visitors is of extreme importance to us . This privacy policy document outlines the types of personal information is received and collected by http://mypastquestion.com and how it is used.
 
