@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pluto.tv privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224223846id_/http%3A//corporate.pluto.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluto.tv privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606023920id_/http%3A//corporate.pluto.tv/privacy-policy) for the most accurate reproduction.*
 
-# Pluto TV
+# Pluto TV | Watch Free TV & Movies Online and Apps
 
 **Privacy Policy**
 
