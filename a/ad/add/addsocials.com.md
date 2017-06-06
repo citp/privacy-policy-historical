@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addsocials.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234039id_/http%3A//www.addsocials.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addsocials.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170815id_/http%3A//www.addsocials.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Add Socials - Get FREE Facebook Likes, Twitter Followers, Instagram, Pinterest Pins, YT Subscribers and Views
 
