@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mackage.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119125813id_/http%3A//www.mackage.com/us/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mackage.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040438id_/http%3A//www.mackage.com/us/en/privacy-policy) for the most accurate reproduction.*
 
 # Mackage - Privacy Policy
 
