@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hdcaliber.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018121724id_/https%3A//www.hdcaliber.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdcaliber.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170036id_/https%3A//www.hdcaliber.com/privacy) for the most accurate reproduction.*
 
-# HDCaliber.com - Watch movies instantly online
+# hdcaliber.com - Watch movies instantly online
 
 ## Effective Date: July 17, 2012
 
-IDEAL MEDIA FINANCIAL Ltd. ("HDCaliber", "us", "our" or "we") has developed this Privacy Policy which details important information regarding the use and disclosure of user information collected on the website HDCaliber.com, which is owned and operated by HDCaliber and any successor websites (the "Site"), and other interactive properties, including but not limited to any mobile applications (the Site and other HDCaliber interactive properties are collectively referred to herein as the HDCaliber Applications"). HDCaliber provides this Privacy Policy to help you make an informed decision about whether to use, continue to use the services assessed through the HDCaliber Applications ("Services"). This Privacy Policy is incorporated into and subject to HDCaliber's Terms of Use: <https://www.hdcaliber.com/terms>. Each time that you access or use HDCaliber Applications you signify that you have read, understand, and agree to be bound by the Terms of Use, and this Privacy Policy. If you do not agree to the Terms of Use and this Privacy Policy, you must discontinue using the HDCaliber Applications.
+IMOVIES SERVICES Ltd. ("HDCaliber", "us", "our" or "we") has developed this Privacy Policy which details important information regarding the use and disclosure of user information collected on the website hdcaliber.com, which is owned and operated by HDCaliber and any successor websites (the "Site"), and other interactive properties, including but not limited to any mobile applications (the Site and other HDCaliber interactive properties are collectively referred to herein as the HDCaliber Applications"). HDCaliber provides this Privacy Policy to help you make an informed decision about whether to use, continue to use the services assessed through the HDCaliber Applications ("Services"). This Privacy Policy is incorporated into and subject to HDCaliber's Terms of Use: <https://www.hdcaliber.com/terms>. Each time that you access or use HDCaliber Applications you signify that you have read, understand, and agree to be bound by the Terms of Use, and this Privacy Policy. If you do not agree to the Terms of Use and this Privacy Policy, you must discontinue using the HDCaliber Applications.
 
 ## I. INFORMATION WE COLLECT
 
@@ -93,17 +93,16 @@ Please note that even if you opt out of receiving promotional emails or direct m
 
 ## III. ACCESS TO YOUR INFORMATION
 
-If you have an online account with us, you also may choose to resign and deactivate your account at any time. Please visit (<https://www.hdcaliber.com/support//front/cancel>) for removal information for your particular product. After you close your account, you will not be able to sign in to our HDCaliber Applications or access any of your personal information. However, you can open a new, separate account at any time or re-activate your previous account by logging in again. If for any reason you are concerned that the personal information you provided to us is not correct and you cannot change it by accessing your account, or should you wish to have your email address removed from our mailing list or contact information changed, please contact us at [privacy@HDCaliber.com](mailto:privacy@HDCaliber.com). We will be happy to review, update or remove information as appropriate. If you deactivate your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, resolve disputes, enforce our Terms of Use or other policies, take actions we deem necessary due to technical and legal requirements and constraints related to the security, integrity and operation of our HDCaliber Applications. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies. We may still retain your information in our files however, to resolve disputes and enforce our Terms of Use.
+If you have an online account with us, you also may choose to resign and deactivate your account at any time. Please visit (<https://www.hdcaliber.com/support//front/cancel>) for removal information for your particular product. After you close your account, you will not be able to sign in to our HDCaliber Applications or access any of your personal information. However, you can open a new, separate account at any time or re-activate your previous account by logging in again. If for any reason you are concerned that the personal information you provided to us is not correct and you cannot change it by accessing your account, or should you wish to have your email address removed from our mailing list or contact information changed, please contact us at [privacy@hdcaliber.com](mailto:privacy@hdcaliber.com). We will be happy to review, update or remove information as appropriate. If you deactivate your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, resolve disputes, enforce our Terms of Use or other policies, take actions we deem necessary due to technical and legal requirements and constraints related to the security, integrity and operation of our HDCaliber Applications. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies. We may still retain your information in our files however, to resolve disputes and enforce our Terms of Use.
 
 ## IV. CHOICE AND OPT OUT
 
-You may remove your information from our database so as not to receive future communications or to close your account or opt out of our sharing information with third parties for marketing purposes by emailing us at [privacy@HDCaliber.com](mailto:privacy@HDCaliber.com) or sending snail mail (certified mail, return receipt requested is recommended) to the following address:
+You may remove your information from our database so as not to receive future communications or to close your account or opt out of our sharing information with third parties for marketing purposes by emailing us at [privacy@hdcaliber.com](mailto:privacy@hdcaliber.com) or sending snail mail (certified mail, return receipt requested is recommended) to the following address:
 
-Ideal Media Financial Ltd.  
-DALTON HOUSE  
-60 WINDSOR AVENUE  
-LONDON  
-SW19 2RR  
+IMOVIES SERVICES   
+Po Box 146 BP Du Parc,   
+Montreal QC CA,   
+H2S 3K6  
 Attention: Privacy 
 
 If you prefer not to receive electronic promotional communications, you can opt-out by following the unsubscribe instructions included in each communication.
@@ -112,7 +111,7 @@ Please note that changes may not be effective immediately. In each event, you mu
 
 **Your California Privacy Rights (As provided by California Civil Code Section 1798.83)**
 
-California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place. If you do not want us to send you emails regarding special promotions or offers or share your Personal Information with other companies so that they can send you emails about their products and services, simply follow the unsubscribe instructions that are located at the bottom of those emails or you can Update your email preference Settings by visiting <https://www.hdcaliber.com/members>, clicking the "My Account", then click the "Preferences" tab and uncheck the sharing of information to third parties, or (ii) Click the unsubscribe link in the body of the email. If you do not want us to send you any offers from third parties through direct mail or share your Personal Information with other companies so that they can send you direct mail offers about their products and services, please write to us at the street address set forth at the end of this document email us a privacy@HDCaliber.com. California customers may request further information about our approach to this law by writing to us at the addresses provided.
+California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place. If you do not want us to send you emails regarding special promotions or offers or share your Personal Information with other companies so that they can send you emails about their products and services, simply follow the unsubscribe instructions that are located at the bottom of those emails or you can Update your email preference Settings by visiting <https://www.hdcaliber.com/members>, clicking the "My Account", then click the "Preferences" tab and uncheck the sharing of information to third parties, or (ii) Click the unsubscribe link in the body of the email. If you do not want us to send you any offers from third parties through direct mail or share your Personal Information with other companies so that they can send you direct mail offers about their products and services, please write to us at the street address set forth at the end of this document email us a privacy@hdcaliber.com. California customers may request further information about our approach to this law by writing to us at the addresses provided.
 
 ## V. IMPORTANT DISCLOSURES, PRACTICES AND CONTACT INFORMATION
 
@@ -130,15 +129,14 @@ California's "Shine the Light" law, Civil Code section 1798.83, requires certain
 
 **No Rights of Third Parties.** This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website.
 
-**Contacting Us.** If you have any questions about this Privacy Policy, or the practices of the HDCaliber Applications and Community Services, please send your email queries to [privacy@HDCaliber.com](mailto:privacy@HDCaliber.com) or write to us at:
+**Contacting Us.** If you have any questions about this Privacy Policy, or the practices of the HDCaliber Applications and Community Services, please send your email queries to [privacy@hdcaliber.com](mailto:privacy@hdcaliber.com) or write to us at:
 
-Ideal Media Financial Ltd.  
-DALTON HOUSE  
-60 WINDSOR AVENUE  
-LONDON  
-SW19 2RR  
+IMOVIES SERVICES   
+Po Box 146 BP Du Parc,   
+Montreal QC CA,   
+H2S 3K6  
 Attention: Privacy Administrator 
 
-Copyright (c) 2012 IDEAL MEDIA FINANCIAL Ltd. All rights reserved.
+Copyright (c) 2017 IMOVIES SERVICES Ltd. All rights reserved.
 
 Go up »
