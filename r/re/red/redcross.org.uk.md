@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218062318id_/http%3A//www.redcross.org.uk/Header-Footer-Links/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606065249id_/http%3A//www.redcross.org.uk/en/Header-Footer-Links/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | British Red Cross
 
@@ -33,17 +33,20 @@ Our privacy policy takes into account several legal instruments, including:
 
 ##  How we collect information about you
 
-We may collect information about you whenever you interact with us. For example, when you register for our services, donate to us, ask about our activities, apply for a job or volunteering opportunity, or otherwise give us any other personal information. 
+We may collect and store information about you whenever you interact with us. For example, when you make a donation, register for an event or submit an enquiry, or if register for our services, or apply for a job or volunteering opportunity, or otherwise give us any other personal information. 
 
-We may also receive information about you from third parties – but only if you’ve given them permission to share your information.
+We may also receive information about you from third parties for a specific purpose– but only if you’ve given them permission to share your information. 
+
+  
+
 
 ##  What information we collect 
 
-When you interact with us, we may collect names, addresses, email addresses, telephone numbers, bank account details for setting up a regular direct debit and, where appropriate, dates of birth and relevant medical information. We do not use cookies to collect this type of information.
+When you interact with us, we may ask you to give us your name, address, email address, telephone number if this is needed, or your, bank account details, if for example you are setting up a regular payment by direct debit. Your date of birth and relevant medical information, will only be collected if appropriate, for example to register for a challenge event. 
 
-We may collect some, or all, of this information when you visit our website, depending on how you use it. We monitor how people use our website so we can improve it. However, you can use our website anonymously without giving us any information and we won’t know who you are. 
+We may collect some, or all, of this information when you visit our website, depending on how you use it. We also monitor how people use our website so we can improve it. However, you can use our website without giving us any personal information and we won't know who you are.
 
-If you visit our site anonymously, we may still record information about
+If you visit our site anonymously, we may however still record information about:
 
   * the areas of the website you visit 
   * the amount of time you spend on the site 
@@ -53,30 +56,43 @@ If you visit our site anonymously, we may still record information about
 
 
 
-We do this by using cookies, which you can learn more about in this document.
+We do this by using cookies, which you can learn more about by reading [our cookie policy](http://www.redcross.org.uk/Header-Footer-Links/Cookies).
+
+  
+
 
 ##  How we use your information
 
-We will use your information to: 
+The British Red Cross, including our trading subsidiary BritCross Ltd, will collect data from you to process your donation, personalise your supporter experience or provide you with the goods or services you have requested, and comply with our administrative duties, financial regulations and the law.
 
-  * give you the products, information or services you have requested 
-  * keep you in touch with our work by sending you updates, fundraising and marketing communications 
-  * send you administration information about our charitable aims 
-  * comply with financial regulations and the law. 
+Personal details collected this way will only be used to provide you with information you would reasonably expect or have agreed to. This may include using your data, in combination with public data sources, to analyse, research and profile the data we hold, so that our communications with you and others are appropriate and cost effective. 
 
+We promise to make all reasonable efforts to keep your details secure and will only share them with suppliers or professional agents working on our behalf, for example professional fundraising organisations sending out letters of appeal, or telephone agencies making fundraising calls on our behalf.
 
+Except as required by law we will never share your details with other organisations to use for their own purposes. 
 
-To do some of this, we may need to share your information with other companies such as our trading subsidiaries, service providers, associated organisations and agents. But we will not swap or sell your data to any third parties for marketing purposes.
+  
 
-You can opt out of receiving donation appeal letters, emails or telephone calls at any time – just contact us at [supportercare@redcross.org.uk](mailto:supportercare@redcross.org.uk), call us on 0300 456 11 55 or [manage your preferences online](https://web.archive.org/en/Donate-Now/Appeals/Other-Forms/Keeping-in-touch). 
-
-Please note that if you opt out of receiving specific communications then opt in again in the future, the most recent request/preference will supersede. 
 
 ##  Your consent
 
-By giving us your personal information, including sensitive personal data like information about your health, you consent to us collecting and using that information in the ways that we describe in this privacy policy.
+By giving us your personal information, including sensitive personal data like information about your health, you consent to us collecting and using that information in the ways that we describe in this privacy policy and/or that you have specifically consented to.
 
-You also consent to us transferring your information to countries or jurisdictions which may not provide the same level of data protection as the UK, if necessary for any of the above purposes. If we do transfer your information in this way, we will comply with our legal obligations as a data controller under the Data Protection Act 1998 and, if we need to, put in place a contract with the companies we use to process information to ensure your details are properly protected.
+You also consent to us transferring your information to countries or jurisdictions which may not provide the same level of data protection as the UK, if necessary for any of the above purposes. If we do transfer your information in this way, we will comply with our legal obligations as a data controller under the Data Protection Act 1998 and, if we need to, put in place a contract with the companies we use to process information to ensure your details are properly protected. 
+
+  
+
+
+### Marketing Consent
+
+We will only send you marketing information by e-mail, SMS, or phone if you have given us specific consent. If you withdraw your consent and then subsequently opt in, then your most recent preference may supersede.
+
+If you have responded to a letter of appeal, you may also receive fundraising mail, which you can opt out of at any time.
+
+You can opt out of us using your personal details for marketing at any time either by calling us on Freephone 0800 2 800 491, or by e-mail to mailenquiries@redcross.org.uk or writing to FREEPOST RED CROSS (no stamp or address needed)
+
+  
+
 
 ##  How we protect your personal information
 
@@ -84,11 +100,17 @@ We take appropriate physical, electronic and managerial measures to ensure that 
 
 Although we use appropriate security measures once we have received your personal information, the transmission of information over the internet is never completely secure. We do our best to protect personal information, but we cannot guarantee the security of information transmitted to our website, so any transmission is at the user’s own risk. However, any credit card details we receive on our website are passed securely to WorldPay, our payment processing partner provider, according to the Payment Card Industry Security Standards.
 
+  
+
+
 ###  Your credit card information
 
 If you use your credit card to donate to us, buy something or make a booking online, we pass your credit card details securely to our payment processing partner, WorldPay, as part of the payment process. We do this in accordance with the [Payment Card Industry Security Standard (PDF download)](https://www.pcisecuritystandards.org/pdfs/pcissc_overview.pdf), and don’t store the details on our website. 
 
 If you apply for a job or volunteering opportunity we will also collect information so we can assess your suitability for the role.
+
+  
+
 
 ###  Job applicants, and current and former British Red Cross employees
 
@@ -100,20 +122,23 @@ If you begin employment with us, we will put together a file about your employme
 
 Once you stop working for us, we will keep this file according to our record retention guidelines. You can contact us to find out more about this. 
 
+  
+
+
 ##  How to find out what personal information we hold about you
 
 You can request details of the personal information we hold about you under the Data Protection Act 1998. We may ask you for an administrative fee of £10.00. 
 
-If you would like a copy of the information we hold on you, please write to:   
+If you would like a copy of the information we hold on you, in the first instance please write to:   
 Supporter Care  
 British Red Cross  
 44 Moorfields  
 London EC2Y 9AL 
 
-Or email [supportercare@redcross.org.uk](mailto:supportercare@redcross.org.uk)   
-Or call us on 0300 456 1155
+Or email [supportercare@redcross.org.uk](mailto:supportercare@redcross.org.uk)
 
-If you want to have your details removed from our marketing mailing lists, or to change your marketing preferences, please email [supportercare@redcross.org.uk](mailto:supportercare@redcross.org.uk).
+  
+
 
 ##  How to change the personal information we hold about you
 
