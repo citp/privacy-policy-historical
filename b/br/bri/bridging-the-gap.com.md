@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bridging-the-gap.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515063830id_/http%3A//www.bridging-the-gap.com/bridging-the-gap-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridging-the-gap.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606052724id_/http%3A//bridgingthegap.wpengine.com/bridging-the-gap-privacy-policy) for the most accurate reproduction.*
 
 # Bridging the Gap Privacy Policy
 
