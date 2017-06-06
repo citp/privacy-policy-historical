@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smithoptics.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119015546id_/http%3A//www.smithoptics.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smithoptics.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606031408id_/http%3A//www.smithoptics.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 		<title>
@@ -49,10 +49,11 @@
 
 
 <!-- Responsive Adapter -->
-<link type="text/css" rel="stylesheet" href="/combined.css?id=abf9ea0e157bc90_3">
+<link type="text/css" rel="stylesheet" href="/combined.css?id=6b5bdbb715c3ea7">
+<link type="text/css" rel="stylesheet" href="http://cdn.smithoptics.com/css/smithoptics_aux.css">
 <link type="text/css" rel="stylesheet" href="http://cdn.smithoptics.com/smithoptics-icons/styles.css">
 
-<link type="text/css" rel="stylesheet" href="http://cdn.smithoptics.com/smithoptics_aux.css"><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/_ui/shared/js/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/_ui/shared/js/jquery.min.js"></script>
 		<script src="//assets.adobedtm.com/b826ac2cd9c5dcf09d4f390ea50d1b210cf3c714/satelliteLib-4d72b1f22056a2e4e9d115702ff3a68fb7361e3e.js"></script>
 		<script type="text/javascript" src="/_ui/shared/js/jquery-ui.min.js"></script>
 		
@@ -195,30 +196,10 @@
                         </ul>
 		</div>
 	</li>
-    		<li>|</li> <script>
-	var currentLangCode = $("html").attr("lang");
-	window.currentLang = 'en';
-
-	$("body").click(function(){
-		hideLanguageSelector();
-	});
-
-	function showLanguageSelector(){
-		$(".lang_selector_current").toggleClass("selected");
-		$("#lang_selector_popup").slideToggle();
-	}
-
-	function hideLanguageSelector(){
-		$(".lang_selector_current").removeClass("selected");
-		$("#lang_selector_popup").slideUp();
-	}
-
-</script>
-
-<li>
+    		<li>|</li> <li>
 		<div class="country_selector" id="account_nav_lang_selector" style="width:auto;">
 			Language:
-			<a href="javascript://" class="lang_selector_current" onclick="showLanguageSelector()">
+			<a href="javascript://" class="lang_selector_current">
 				<div class="country_selector_arrow" style="margin-left: 5px;">toggle</div>
 				en</a>
 			<div class="account_nav_popup" id="lang_selector_popup">
@@ -233,7 +214,21 @@
 		</div>
 	</li>
 	<li>|</li>
-<li>
+<script>
+	var currentLangCode = $("html").attr("lang");
+	window.currentLang = 'en';
+
+	// $("body").click(function(){
+	//		hideLanguageSelector();
+	//	});
+
+	$(".lang_selector_current").click(function(event){
+		event.stopPropagation();
+		$(".lang_selector_current").toggleClass("selected");
+		$("#lang_selector_popup").slideToggle();
+	});
+
+</script><li>
         <a href="javascript://" onclick="showAccountNav(this,'account_nav_dealer_locator');">
         Dealer Locator</a> 
             <script>
@@ -264,7 +259,147 @@
 	        					<input type="submit" value="Search"><br>
 	        				</form>
 </div></li>
-		<li>|</li>
+        <li>|</li>
+<li>
+	<a onclick="showEmailSignupNav(this,'email_signup_nav');" href="javascript://">Newsletter Signup</a>
+    
+	<div class="account_nav_popup" id="email_signup_nav" style="width:350px; style:center;">
+		<h4>Newsletter Signup</h4>
+		<div class="entry_fields">
+			<label for="email">Enter your email address to join our mailing list:</label>
+			<input type="email" class="searchBox" placeholder="enter email" name="newsletter_email_nav" id="newsletter_email_nav" maxlength="255">
+		</div>
+		<input type="button" class="searchBtn" value="Signup" id="emailSignupNavBtn" alt="Subscribe">
+	</div>
+</li>
+<script type="text/javascript">
+	function showEmailSignupNav(sender, id) {
+	    clearTimeout(cartTimeout);
+	    if (!$(sender).hasClass('selected')) {
+	        $(sender).parents('ul').children('li').each(function() {
+	            $(this).children('a').removeClass('selected');
+	            $(this).children('div').each(function() {
+	                if (!$(this).hasClass('country_selector')) {
+	                    $(this).slideUp(300);
+	                }
+	            });
+	        });
+	        hideCountrySelector();
+	        $('#' + id).slideToggle(300);
+	        $(sender).addClass('selected');
+	    } else {
+	        $('#' + id).slideUp(300);
+	        $(sender).removeClass('selected');
+	    }
+
+	    if (id == 'email_signup_nav') {
+	        cartTimeout = setTimeout('hideCartPopup()', cartTimeoutSeconds * 1000);
+	    }
+
+	    var elementId = id;
+
+	    setTimeout(function() {
+	        var element = $("#" + elementId);
+	        var parent = $(".global_header");
+
+	        var elementEnd = ($('body').width() - (element.offset().left + element.outerWidth()))
+	        var parentEnd = ($('body').width() - (parent.offset().left + parent.outerWidth()))
+
+	        var adjust = elementEnd - parentEnd;
+
+	        if (adjust < 0) {
+	            element.css("right", "10px");
+	            //	element.css({"left":(parentEnd-element.width()-10)+"px"})
+	            //element.offset({"left":(parentEnd-element.outerWidth())+"px"})
+	        }
+	    }, 5);
+
+	}
+
+	function hideEmailSignupNavPopups() {
+	    $('.account_nav').children('ul').children('li').each(function() {
+	        $(this).children('a').removeClass('selected');
+	        $(this).children('div').each(function() {
+	            if (!$(this).hasClass('country_selector') && $(this).attr("id") != 'account_nav_cart') {
+	                $(this).slideUp(300);
+	            }
+	        });
+	    });
+	    hideCountrySelector();
+	}
+
+
+	$(document).ready(function(){
+
+		$("#emailSignupNavBtn").click(function(){
+			var email_address   = $("#newsletter_email_nav").val();
+			//var url = "/optin";
+			var url = "/subscribe";
+			
+			$("#newsletter_error_nav, #newsletter_success_nav").remove();
+			$("#emailSignupNavBtn").attr("disabled","disabled");
+			
+			//check validity of email
+			if(isValidEmailAddress($("#newsletter_email_nav").val())){					
+				//ajax call to submit form data to server would go here
+				$.ajax({
+						type: 	"POST",
+						url: 	"/us" + url,
+						dataType: "json",
+						data: {newsletter_email : email_address},
+						success: function(data){
+							var subscribe = data.subscribe;
+							if(subscribe)
+							{
+								if ($("#newsletter_email_nav").attr("class") == "searchBox error") {
+				 		  			$("#newsletter_email_nav").removeClass("error");
+				 		  		}
+				 		  		$("#newsletter_email_nav").after("<div id='newsletter_success' style='display:none;color:red;'>Thank you for signing up for the Smith Optics newsletter</div>");
+				 		    	$("#newsletter_success").fadeIn();
+				 		    	setTimeout('hideEmailSignupNavPopups()', 3000);
+								
+				 		    	//FastG8 Email Pixel
+								(function() {
+								var elem = document.createElement('script');
+								elem.src = (document.location.protocol == "https:" ? "https://" : "http://") + "u.fg8dgt.com/pixel?type=js&id=177&cb=" + Math.floor(Math.random() * 100000000);
+								elem.async = true;
+								elem.type = "text/javascript";
+								var scpt = document.getElementsByTagName('script')[0];
+								scpt.parentNode.insertBefore(elem, scpt);
+								})();
+							}
+							else
+							{
+								$("#newsletter_email_nav").after("<p id='newsletter_error_nav' class='error'>Please enter a valid email address.</p>");
+								$('#newsletter_email_nav').addClass('error');
+								$("#newsletter_error_nav").fadeIn();
+							}
+
+							$("#emailSignupNavBtn").removeAttr("disabled");
+						},     
+						error: function(data) {
+						       	$("#newsletter_email_nav").after("<p id='newsletter_error_nav' class='error'>Please enter a valid email address.</p>");
+						       	$('#newsletter_email_nav').addClass('error');
+								$("#newsletter_error_nav").fadeIn();
+								$("#emailSignupNavBtn").removeAttr("disabled");
+							},
+						}); 	
+			}else{
+				$("#newsletter_email_nav").after("<p id='newsletter_error_nav' class='error'>Please enter a valid email address.</p>");
+				$('#newsletter_email_nav').addClass('error');
+				$("#newsletter_error_nav").fadeIn();
+				$("#emailSignupNavBtn").removeAttr("disabled");
+			};
+		});
+	});
+
+	//test email address validity same as in pageload, but just to make sure that this function exists
+	function isValidEmailAddress(emailAddress) {
+		var pattern = new RegExp(/^((([a-z]|\d|[!#$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z]|\d|[!#$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*)|((\x22)((((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(([\x01-\x08\x0b\x0c\x0e-\x1f\x7f]|\x21|[\x23-\x5b]|[\x5d-\x7e]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(\\([\x01-\x09\x0b\x0c\x0d-\x7f]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))))*(((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(\x22)))@((([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.)+(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.?$/i);
+		return pattern.test(emailAddress);
+	};
+</script>
+<li>|</li>
             <li>
                 <a onclick="showAccountNav(this,'account_nav_login');" href="javascript://">Login</a><div class="account_nav_popup" id="account_nav_login">
 	<h4>Log in to your account</h4>
@@ -380,10 +515,10 @@ $(document).ready(function() {
 											<a href="/us/Root/Men%27s/Sunglasses/Lifestyle/c/1120" onmouseover="$('#sub_nav_MenNode_SunglassesNode').attr('src','http://s7d2.scene7.com/is/image/smithoptics/MenNode_SunglassesNode_usLifestyleSunglassLink?$topNavMenu$');"> LifeStyle</a>
 										</li>
 									<li>
-											<a href="/us/Root/Men%27s/Sunglasses/Performance/c/1130" onmouseover="$('#sub_nav_MenNode_SunglassesNode').attr('src','http://s7d2.scene7.com/is/image/smithoptics/MenNode_SunglassesNode_usPerformanceSunglassLink?$topNavMenu$');"> Performance</a>
+											<a href="/us/Performance/c/1130" onmouseover="$('#sub_nav_MenNode_SunglassesNode').attr('src','http://s7d2.scene7.com/is/image/smithoptics/MenNode_SunglassesNode_usPerformanceSunglassLink?$topNavMenu$');"> Performance</a>
 										</li>
 									<li>
-											<a href="/us/Root/Men%27s/Sunglasses/Elite-Tactical/c/1140" onmouseover="$('#sub_nav_MenNode_SunglassesNode').attr('src','http://s7d2.scene7.com/is/image/smithoptics/MenNode_SunglassesNode_usEliteSunglassLink?$topNavMenu$');"> Elite Tactical</a>
+											<a href="/us/Elite-Tactical/c/1140" onmouseover="$('#sub_nav_MenNode_SunglassesNode').attr('src','http://s7d2.scene7.com/is/image/smithoptics/MenNode_SunglassesNode_usEliteSunglassLink?$topNavMenu$');"> Elite Tactical</a>
 										</li>
 									<li>
 											<a href="/us/Root/Men%27s/Accessories/Lenses/c/1150" onmouseover="$('#sub_nav_MenNode_SunglassesNode').attr('src','http://s7d2.scene7.com/is/image/smithoptics/MenNode_SunglassesNode_usReplacementSunglassLink?$topNavMenu$');"> Replacement Lenses</a>
@@ -504,7 +639,7 @@ $(document).ready(function() {
 											<a href="/us/Root/Men%27s/Apparel/Hoodies/c/1620" onmouseover="$('#sub_nav_MenNode_ApparelNode').attr('src','http://s7d2.scene7.com/is/image/smithoptics/MenNode_ApparelNode_usHoodiesApparelLink?$topNavMenu$');"> Hoodies</a>
 										</li>
 									<li>
-											<a href="/us/Root/Men%27s/Apparel/Headwear/c/1630" onmouseover="$('#sub_nav_MenNode_ApparelNode').attr('src','http://s7d2.scene7.com/is/image/smithoptics/MenNode_ApparelNode_usHeadwearApparelLink?$topNavMenu$');"> Headwear</a>
+											<a href="/us/Headwear/c/1630" onmouseover="$('#sub_nav_MenNode_ApparelNode').attr('src','http://s7d2.scene7.com/is/image/smithoptics/MenNode_ApparelNode_usHeadwearApparelLink?$topNavMenu$');"> Headwear &amp; Accessories</a>
 										</li>
 									<li>
 											<a href="/us/Root/Men%27s/Apparel/Packs/c/1640" onmouseover="$('#sub_nav_MenNode_ApparelNode').attr('src','http://s7d2.scene7.com/is/image/smithoptics/MenNode_ApparelNode_usPacksApparelLink?$topNavMenu$');"> Packs</a>
@@ -531,7 +666,7 @@ $(document).ready(function() {
 											<a href="/us/Root/Women%27s/Sunglasses/Lifestyle/c/2120" onmouseover="$('#sub_nav_WomenNode_SunglassesWomenNode').attr('src','http://s7d2.scene7.com/is/image/smithoptics/WomenNode_SunglassesWomenNode_usLifestyleSunglassLinkWomen?$topNavMenu$');"> LifeStyle</a>
 										</li>
 									<li>
-											<a href="/us/Root/Women%27s/Sunglasses/Performance/c/2130" onmouseover="$('#sub_nav_WomenNode_SunglassesWomenNode').attr('src','http://s7d2.scene7.com/is/image/smithoptics/WomenNode_SunglassesWomenNode_usPerformanceSunglassLinkWomen?$topNavMenu$');"> Performance</a>
+											<a href="/us/Performance/c/2130" onmouseover="$('#sub_nav_WomenNode_SunglassesWomenNode').attr('src','http://s7d2.scene7.com/is/image/smithoptics/WomenNode_SunglassesWomenNode_usPerformanceSunglassLinkWomen?$topNavMenu$');"> Performance</a>
 										</li>
 									<li>
 											<a href="/us/Root/Women%27s/Sunglasses/Elite-Tactical/c/2140" onmouseover="$('#sub_nav_WomenNode_SunglassesWomenNode').attr('src','http://s7d2.scene7.com/is/image/smithoptics/WomenNode_SunglassesWomenNode_usEliteSunglassLinkWomen?$topNavMenu$');"> Elite Tactical</a>
@@ -655,7 +790,7 @@ $(document).ready(function() {
 											<a href="/us/Root/Women%27s/Apparel/Hoodies/c/2620" onmouseover="$('#sub_nav_WomenNode_ApparelWomenNode').attr('src','http://s7d2.scene7.com/is/image/smithoptics/WomenNode_ApparelWomenNode_usHoodiesApparelLinkWomens?$topNavMenu$');"> Hoodies</a>
 										</li>
 									<li>
-											<a href="/us/Root/Women%27s/Apparel/Headwear/c/2630" onmouseover="$('#sub_nav_WomenNode_ApparelWomenNode').attr('src','http://s7d2.scene7.com/is/image/smithoptics/WomenNode_ApparelWomenNode_usHeadwearApparelLinkWomens?$topNavMenu$');"> Headwear</a>
+											<a href="/us/Headwear/c/2630" onmouseover="$('#sub_nav_WomenNode_ApparelWomenNode').attr('src','http://s7d2.scene7.com/is/image/smithoptics/WomenNode_ApparelWomenNode_usHeadwearApparelLinkWomens?$topNavMenu$');"> Headwear &amp; Accessories</a>
 										</li>
 									<li>
 											<a href="/us/Root/Women%27s/Apparel/Packs/c/2640" onmouseover="$('#sub_nav_WomenNode_ApparelWomenNode').attr('src','http://s7d2.scene7.com/is/image/smithoptics/WomenNode_ApparelWomenNode_usPacksApparelLinkWomens?$topNavMenu$');"> Packs</a>
@@ -730,14 +865,6 @@ $(document).ready(function() {
 									</ul>
 							</li>	
 						<li>
-								<a href="/us/athletes/teams/lifestyle">
-									<img src="http://s7d2.scene7.com/is/image/smithoptics/LifeNode_navigationNode_00000HQZ?$topNavMenu$" id="sub_nav_LifeNode_navigationNode_00000HQZ">
-								</a>
-							    <a href="/us/athletes/teams/lifestyle" onmouseover="$('#sub_nav_LifeNode_navigationNode_00000HQZ').attr('src','http://s7d2.scene7.com/is/image/smithoptics/LifeNode_navigationNode_00000HQZ?$topNavMenu$');">lifestyle</a>
-								<ul>
-									</ul>
-							</li>	
-						<li>
 								<a href="/us/athletes/teams/ski">
 									<img src="http://s7d2.scene7.com/is/image/smithoptics/LifeNode_SkiNode?$topNavMenu$" id="sub_nav_LifeNode_SkiNode">
 								</a>
@@ -758,6 +885,14 @@ $(document).ready(function() {
 									<img src="http://s7d2.scene7.com/is/image/smithoptics/LifeNode_navigationNode_00000HR0?$topNavMenu$" id="sub_nav_LifeNode_navigationNode_00000HR0">
 								</a>
 							    <a href="/us/lifebeyondwalls" onmouseover="$('#sub_nav_LifeNode_navigationNode_00000HR0').attr('src','http://s7d2.scene7.com/is/image/smithoptics/LifeNode_navigationNode_00000HR0?$topNavMenu$');">Life Beyond Walls - Video Series</a>
+								<ul>
+									</ul>
+							</li>	
+						<li>
+								<a href="/us/athletes/teams/fish">
+									<img src="http://s7d2.scene7.com/is/image/smithoptics/LifeNode_LifeNode_FishingNode?$topNavMenu$" id="sub_nav_LifeNode_LifeNode_FishingNode">
+								</a>
+							    <a href="/us/athletes/teams/fish" onmouseover="$('#sub_nav_LifeNode_LifeNode_FishingNode').attr('src','http://s7d2.scene7.com/is/image/smithoptics/LifeNode_LifeNode_FishingNode?$topNavMenu$');">Fishing</a>
 								<ul>
 									</ul>
 							</li>	
@@ -842,7 +977,7 @@ $(document).ready(function() {
 <p><strong>Changes to the policy</strong></p>
 <p>We may from time to time need to amend this policy, due to changes in regulations and to keep up with new developments and possibilities on the Internet. We therefore reserve the right at our discretion to make these changes and ask you to check this page periodically, as you are bound by these changes when visiting our website.</p>
 <p><strong>How you can contact us</strong></p>
-<p>If you have any questions or comments relating to our website and/or the privacy policy, please contact us or write to us: Smith Optics, PO Box 2999 Ketchum, ID 83340.</p>
+<p>If you have any questions or comments relating to our website and/or the privacy policy, please contact us or write to us: Smith Optics, Inc. PO Box 160464 Clearfield, UT 84016.</p>
 <p><strong>Your consent</strong></p>
 <p>By using the Smith Optics website you signify that you agree to the terms of this Privacy Policy. If you do not agree with the terms of our Privacy Policy, please do not provide us with personal information and leave this website.</p>
 <p><strong>Online policy</strong></p>
@@ -915,19 +1050,7 @@ display: none;
 <script src="//www.google-analytics.com/cx/api.js?experiment=5JlV4bJmS3ymLr5bNKXfoQ"></script>
 
 <script>
-(function(){
 
-    var chosenVariation = cxApi.chooseVariation();
-
-    var pageVariations = [
-      function() {},  // Original: Do nothing. This will render the default HTML.
-      function() {    // Variation 1: Banner Image
-        homeSlider.slick("slickPlay");
-      }
-    ];
-  $(window).load(pageVariations[chosenVariation]);
-
-})()
 </script></span>
    	 		</div>
    	</div>
@@ -977,6 +1100,15 @@ $(document).ready(function(){
 			 		  		}
 			 		  		$("#subcribeBtn").after("<div id='newsletter_success' style='display:none;color:red;'>Thank you for signing up for the Smith Optics newsletter</div>");
 			 		    	$("#newsletter_success").fadeIn();
+			 		    	//FastG8 Email Pixel
+							(function() {
+							var elem = document.createElement('script');
+							elem.src = (document.location.protocol == "https:" ? "https://" : "http://") + "u.fg8dgt.com/pixel?type=js&id=177&cb=" + Math.floor(Math.random() * 100000000);
+							elem.async = true;
+							elem.type = "text/javascript";
+							var scpt = document.getElementsByTagName('script')[0];
+							scpt.parentNode.insertBefore(elem, scpt);
+							})();
 						}
 						else
 						{
@@ -1089,8 +1221,8 @@ function isValidEmailAddressFooter(emailAddress) {
 
 
 <!-- 
-<script type="text/javascript" src="/_ui/responsive/common/bower_components/react/react.js"></script>
-<script type="text/javascript" src="/_ui/responsive/common/bower_components/react/react-dom.js"></script> 
+<script type="text/javascript" src="/_ui/shared/bower_components/react/react.js"></script>
+<script type="text/javascript" src="/_ui/shared/bower_components/react/react-dom.js"></script> 
 -->
 
 
@@ -1111,21 +1243,22 @@ function isValidEmailAddressFooter(emailAddress) {
 
 
 <!-- 
-<script type="text/javascript" src="/_ui/responsive/smithoptics/react/build/bazaarvoice.js"></script>
-<script type="text/javascript" src="/_ui/responsive/smithoptics/react/build/smithselect.js"></script>
-<script type="text/javascript" src="/_ui/responsive/smithoptics/react/build/smithinput.js"></script>
-<script type="text/javascript" src="/_ui/responsive/smithoptics/react/build/smithtelinput.js"></script>
-<script type="text/javascript" src="/_ui/responsive/smithoptics/react/build/skylight.js"></script>
-<script type="text/javascript" src="/_ui/responsive/smithoptics/react/build/smithcheckboxinput.js"></script>
-<script type="text/javascript" src="/_ui/responsive/smithoptics/react/build/smithcreditcardinput.js"></script>
-<script type="text/javascript" src="/_ui/responsive/smithoptics/react/build/checkout.js"></script>
-<script type="text/javascript" src="/_ui/responsive/smithoptics/react/build/curations.js"></script>
-<script type="text/javascript" src="/_ui/responsive/smithoptics/react/build/weenav.js"></script> 
+<script type="text/javascript" src="/_ui/shared/react/build/bazaarvoice.js"></script>
+<script type="text/javascript" src="/_ui/shared/react/build/smithselect.js"></script>
+<script type="text/javascript" src="/_ui/shared/react/build/smithinput.js"></script>
+<script type="text/javascript" src="/_ui/shared/react/build/smithtelinput.js"></script>
+<script type="text/javascript" src="/_ui/shared/react/build/skylight.js"></script>
+<script type="text/javascript" src="/_ui/shared/react/build/smithcheckboxinput.js"></script>
+<script type="text/javascript" src="/_ui/shared/react/build/smithcreditcardinput.js"></script>
+<script type="text/javascript" src="/_ui/shared/react/build/checkout.js"></script>
+<script type="text/javascript" src="/_ui/shared/react/build/curations.js"></script>
+<script type="text/javascript" src="/_ui/shared/react/build/weenav.js"></script> 
 -->
 
 
-<script src="/combined.js?id=8730e834157bc90_3"></script>
+<script src="/combined.js?id=8ae7295915c3ea7"></script>
 
+<script type="text/javascript" src="http://cdn.smithoptics.com/smithoptics_aux.js"></script>
 <script>
 		    //Load Google Analytics
 
@@ -1140,7 +1273,7 @@ function isValidEmailAddressFooter(emailAddress) {
 
 	    </script>
 	    
-		<script type="text/javascript" src="http://cdn.smithoptics.com/smithoptics_aux.js"></script><script>
+		<script>
     //Google Analytics
     if (!ga){
     	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -1502,7 +1635,7 @@ function isValidEmailAddressFooter(emailAddress) {
 		
 						productVariants[productVariants.length] = variant;
 				
-					//	console.log(variant);
+						console.log(variant);
 						
 				
 				});
@@ -1516,7 +1649,7 @@ function isValidEmailAddressFooter(emailAddress) {
 	
 	function sendEventToGA(location,action,label){
 		ga('send', 'event', location, action, label);     // Send data using an event.
-		// console.log("Tracking the '" + action + "'  related to '" + label + "' on the '" + location + "' page.");
+		//console.log("Tracking the '" + action + "'  related to '" + label + "' on the '" + location + "' page.");
 	}
 	
 			
