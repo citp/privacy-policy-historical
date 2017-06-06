@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heritage.com.au privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016132129id_/https%3A//www.heritage.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heritage.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606223112id_/https%3A//www.heritage.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Heritage Bank
 
@@ -8,15 +8,15 @@ At Heritage, we do things a little differently to the big banks. We are owned by
 
 ## Privacy background
 
-Heritage Bank Limited ABN 32 087 652 024, Australian Financial Services Licence and Australian Credit Licence 240984 (also referred to as “Heritage”, “we”, “our” or “us” in this Privacy Policy) values the ongoing trust you place in us and considers the protection and maintenance of your personal information to be of the utmost importance. When handling your personal information we are bound by the Australian Privacy Principles in the Privacy Act 1988. We are also bound by Division 3 of Part IIIA of the Privacy Act and the Credit Reporting Privacy Code (CR Code), which regulates the handling of credit information, credit eligibility information and related information by credit providers, like us and the credit reporting bodies (CRB’s) we use such as:
+Heritage Bank Limited ABN 32 087 652 024, Australian Financial Services Licence and Australian Credit Licence 240984 (also referred to as “Heritage”, “we”, “our” or “us” in this Privacy Policy) values the ongoing trust you place in us and considers the protection and maintenance of your personal information to be of the utmost importance. When handling your personal information we are bound by the Australian Privacy Principles in the Privacy Act 1988. We are also bound by Division 3 of Part IIIA of the Privacy Act and the Credit Reporting Privacy Code (CR Code), which regulates the handling of credit information, credit eligibility information and related information by credit providers, like us and the credit reporting bodies (CRBs) we use such as:
 
-  * Veda Advantage Limited ([veda.com.au](http://www.veda.com.au/))
+  * Equifax Pty Ltd ([equifax.com.au](http://www.equifax.com.au/))
   * Dun & Bradstreet (Australia) Pty Ltd ([dnb.com.au](http://www.dnb.com.au/))
   * Experian Australia Pty Ltd ([experian.com.au](http://www.experian.com.au/))
 
 
 
-This Privacy Policy outlines how we deal with  your personal information (including credit-related information), as well as our legal obligations and rights as to that information. We reserve the right to change our Privacy Policy at any time and will notify you by posting an updated version on our website. For information on the privacy policies of CRB’s refer to their respective websites.
+This Privacy Policy outlines how we deal with  your personal information (including credit-related information), as well as our legal obligations and rights as to that information. We reserve the right to change our Privacy Policy at any time and will notify you by posting an updated version on our website. For information on the privacy policies of CRBs refer to their respective websites.
 
 We may tell you more about how we handle your information for example when you complete an application form, receive terms and conditions or a Product Disclosure Statement. When you receive this information, please consider it carefully. If we agree with you to use or disclose any of your personal information in ways which differ to those stated in this Privacy Policy, the provisions of that agreement will prevail to the extent of any inconsistency.
 
@@ -24,10 +24,11 @@ We may tell you more about how we handle your information for example when you c
 
 Personal information is information or opinion about you that may identify you or by which your identity may be reasonably determined. The types of personal information that Heritage collects and holds may include the following information about customers, potential customers, and associated persons (such as guarantors) which is relevant to our relationship with that person.
 
-  * General information such as an individual’s name, contact details (including postal address, email address and telephone numbers ) date of birth, financial details such as income, savings and lending history and expenses or tax file number, gender, marital status and the reason a person might be applying for a financial product from us. 
-  * “Sensitive information” such as information about an individual’s health, religious beliefs, race or ethnic origin. If there are circumstances where we need to collect or disclose sensitive information we will ask for your consent (unless required or permitted by law).
-  * “Credit information” which includes identification information, employment history, consumer credit liability information, repayment history information, credit enquiry, type of credit sought, default information, court proceedings and personal insolvency information, publicly available information that relates to the individual’s credit worthiness and information about a serious credit infringement. We will hold all of this information about an applicant for credit, a guarantor, or related person (for example, a director of a company which has applied for credit).
-  * “Credit eligibility information” which means information that has been obtained from a CRB (e.g. a consumer credit report), or personal information that has been derived from that information, that is about an individual’s consumer credit worthiness. The kind of information we might derive from an individual’s consumer credit report includes a credit assessment relating to the individual, an unsuitability assessment, relating to the individual and any internal credit scores.
+  * general information such as an individual’s name, contact details (including postal address, email address and telephone numbers ) date of birth, financial details such as income, savings and lending history and expenses or tax file number, gender, marital status and the reason a person might be applying for a financial product from us. 
+  * “sensitive information” such as information about an individual’s health, religious beliefs, race or ethnic origin. If there are circumstances where we need to collect or disclose sensitive information we will ask for your consent (unless required or permitted by law).
+  * information we record about an individual during our relationship with them including about their transactions, the products they hold and the services we provide to them.
+  * “credit information” which includes identification information, employment history, consumer credit liability information, repayment history information, credit enquiry, type of credit sought, default information, court proceedings and personal insolvency information, publicly available information that relates to the individual’s credit worthiness and information about a serious credit infringement. We will hold all of this information about an applicant for credit, a guarantor, or related person (for example, a director of a company which has applied for credit).
+  * “credit eligibility information” which means information that has been obtained from a CRB (e.g. a consumer credit report), or personal information that has been derived from that information, that is about an individual’s consumer credit worthiness. The kind of information we might derive from an individual’s consumer credit report includes a credit assessment relating to the individual, an unsuitability assessment, relating to the individual and any internal credit scores.
 
 
 
@@ -38,7 +39,7 @@ We will only ask for personal information (including credit information and cred
 Personal information may be collected from you:
 
   * to check your eligibility for or to provide you or some related person (for example, a person you are acting as guarantor for, or a company you are a director of) with financial products or services;
-  * (unless you ask us not to) to send you information about products or services offered by Heritage or those provided by third parties that may be of interest to you;
+  * (unless you ask us not to) to send you information about products or services offered by Heritage or those provided by third parties that based on the information we have about you may be of interest;
   * to assist you with your enquiries or concerns;
   * to verify your identity and undertake customer due diligence;
   * for research, training, product development, risk assessment, risk modelling and marketing requirements; and
@@ -56,7 +57,7 @@ We may collect your TFN in order to calculate our withholding obligations as aut
 
 ## How do we collect your personal information?
 
-We collect most personal information directly from you. We may do this when you apply to become a customer, complete an application for one of our products and services, deal with us over the telephone, communicate by post or electronically (such as via email or SMS), through mobile or tablet applications, visiting our website or our branches (including community and mini branches).
+We collect most personal information directly from you. We may do this when you apply to become a customer, complete an application for one of our products and services, deal with us over the telephone, communicate by post or electronically (such as via email or SMS), through mobile or tablet applications, visiting our website or our branches (including our community branches).
 
 We may monitor and/or preserve telephone calls, postal or email transmissions for the purpose of staff training, quality assurance, security reasons, to verify statements made and to assist with our dispute resolution process.
 
@@ -76,8 +77,7 @@ We store your personal information (including credit information and credit elig
 
 
 
-This may include storage on our behalf by trusted third party service providers.  
-
+This may include storage on our behalf by trusted third party service providers.
 
 The security of your personal information is important to us and we take all reasonable precautions to protect it from misuse, interference and loss, and from unauthorised access, modification or disclosure. Some of the ways we do this are:
 
@@ -88,9 +88,11 @@ The security of your personal information is important to us and we take all rea
   * only giving access to personal information to a person who is verified to be able to receive that information
   * having confidential face-to-face discussions between you and us in a secure environment
   * control of access to our buildings, and
-  * electronic security systems, such as firewalls, virus software and data encryption on our websites. Additional information about the security systems we employ is available at heritage.com.au.
+  * electronic security systems, such as firewalls, virus software and data encryption on our websites. 
 
 
+
+Additional information about the security systems we employ is available at heritage.com.au.
 
 Whilst we take all reasonable measures, no data transmission over the internet can be guaranteed to be totally secure.
 
@@ -102,14 +104,13 @@ We may disclose your personal information (including credit information and cred
 
 Types of third parties include:
 
-  * parties involved in providing, managing or administering your products or services and assisting us with our business such as third party suppliers, printers, bulk mail services, statement production providers, authorised representatives and our legal, tax, audit and accountancy advisers, market research companies;
-  * parties maintaining, reviewing and developing our business systems, procedures and infrastructure including testing or upgrading our computer systems;
-  * alliance partners, for example, where you have a cobranded product such as the Heritage Visa credit card;
+  * parties involved in providing, managing or administering your products or services and assisting us with our business such as third party suppliers, printers, bulk mail services, statement production providers, market research companies, authorised representatives and our legal, tax, audit and accountancy advisers and market research companies;
+  * parties maintaining, reviewing and developing our business systems, procedures and infrastructure including updating and maintaining our data, testing or upgrading our computer systems;
+  * alliance partners, for example, where you have a co-branded product such as the Heritage Visa credit card of in relation to products and services offered that may be of interest to you;
   * advisers or agents which may include lawyers, mortgage brokers, real estate agents, financial advisers, insurance companies, executors, administrators, trustees or attorneys;
   * CRBs, debt collecting agencies, document verification services, your guarantors, organisations involved in valuing, surveying, insuring or registering a security property;
   * lenders mortgage insurers (if insurance is required because the amount you borrow exceeds a certain percentage of the property’s value as insured by Heritage);
-  * parties involved in what is known as “securitisation”, under which we sell a pool of home loans. These third parties include trustees of securitisation arrangements, lenders mortgage
-  * insurers, investors and their advisers;
+  * parties involved in what is known as “securitisation”, under which we sell a pool of home loans. These third parties include trustees of securitisation arrangements, lenders motgage insurers, investors and their advisers;
   * other financial institutions, merchants and payment organisations; and
   * the Financial Ombudsman Service and the Superannuation Complaints Tribunal.
 
@@ -117,7 +118,7 @@ Types of third parties include:
 
 We may also disclose your personal information (including credit information and credit eligibility information) to third parties in circumstances where:
 
-  * we must fulfil our legal obligations (for example, disclosure to Australian (and international) enforcement bodies such as the Australian Securities and Investments Commission (ASIC), the Australian Taxation Office (ATO), the Australian Transaction Reports and Analysis Centre (AUSTRAC), Centrelink or the Courts) or where you are under 16 or have special needs we may share your information with your parent, legal guardian or any person appointed to manage your affairs;
+  * we must fulfill our legal obligations (for example, disclosure to Australian (and international) enforcement bodies such as the Australian Securities and Investments Commission (ASIC), the Australian Taxation Office (ATO), the Australian Transaction Reports and Analysis Centre (AUSTRAC), Centrelink or the Courts) or where you are under 16 or have special needs we may share your information with your parent, legal guardian or any person appointed to manage your affairs;
   * it is in the public interest (that is, to protect our interests or where we have a duty to the public to disclose, or where it is necessary in proceedings before a court or tribunal) and where a crime or fraud is committed or is suspected; or 
   * it can be reasonably inferred from the circumstances that you consent to your personal information being disclosed to a third party.
 
@@ -133,43 +134,28 @@ Your personal information may be sent outside Australia where, for example:
 
 We will not send your personal information outside Australia unless it is authorised by law and we are satisfied that the recipient of the personal information has adequate data protection arrangements in place. Overseas organisations may be required to disclose information we share with them under a foreign law. In those instances, we will not be responsible for that disclosure.
 
-The countries to which we are likely to disclose your personal information include New Zealand, Singapore, India, China, United Kingdom, France, Phillipines, Germany and the US.
+The countries to which we are likely to disclose your personal information include New Zealand, Singapore, India, China, United Kingdom, France, Phillipines, Canada, Germany and the US.
 
 ## How can you access, update or correct your personal information?
 
-You may request access to your personal information (including credit information and credit eligibility information) at any time. Prior to providing you with access to your information we may require you to establish your identity. We are able to deny access to some or all of your personal information in specified circumstances but will provide the reasons in writing. If you request access to personal information that has been archived, we may charge you a fee but will advise you first.
+If you would like to access, update or request a correction to your personal information you can do so using any of the methods listed under "How to contact us".
+
+You may request access to your personal information (including credit information and credit eligibility information) at any time. Prior to providing you with access to your information we may require you to establish your identity. We are able to deny access to some or all of your personal information in specified circumstances but will provide the reasons in writing. In some cases we may charge a fee to access personal information for example when it has been archived, but we will advise you first.
 
 It is important that you advise us as soon as possible if there is a change to your personal information that needs updating. If you have new contact details (such as postal address, email address or telephone numbers) you should let us know immediately. You may request that we correct any personal information (including credit information and credit eligibility information) we hold about you at any time. If your request relates to credit related information provided by others, we may need to consult with credit reporting bodies or other credit providers.
 
-You can access, update or request a correction to your personal information by:
-
-  * visiting one of our branches
-  * telephoning our Privacy Officer or Contact Centre on 13 14 22
-  * emailing [feedback@heritage.com.au](mailto:feedback@heritage.com.au)
-  * visiting [heritage.com.au](http://www.heritage.com.au/)
-  * writing to The Privacy Officer, Heritage Bank, Limited, PO Box 190 Toowoomba Queensland 4350
 
 
 
 ## Do you have any complaints, concerns, or questions about our Privacy Policy?
 
-If you have any concerns or wish to make a complaint regarding the handling of your personal information, please contact us in any of the following ways:
+Should you have any concerns, require further information or wish to make a complaint regarding the handling of your personal information you can let us know using any of the methods listed under "How to contact us".
 
-**In Person:** at one of our branches  
-**Mail:** The Privacy Officer  
-Heritage Bank Limited  
-PO Box 190 Toowoomba Queensland 4350  
-**Telephone:** 13 14 22  
-**Email:** [feedback@heritage.com.au](mailto:feedback@heritage.com.au) or [info@heritage.com.au](mailto:info@heritage.com.au) or  
-Go to our website [heritage.com.au](http://www.heritage.com.au/) and click on “contact us” then use the “feedback/enquiries”.
+Complaints regarding privacy are referred directly to Heritage’s Privacy Officer and are dealt with in accordance with our Internal Customer Disputes Resolution Process. Information about this process can be found on our website at [heritage.com.au](http://www.heritage.com.au/) or by contacting us.
 
-Complaints regarding privacy are referred directly to Heritage’s Privacy Officer and are dealt with in accordance with our Internal Customer Disputes Resolution Process. Information about this process can be found on our website at [heritage.com.au](http://www.heritage.com.au/) or by contacting us using one of the methods above.
+We will acknowledge your complaint and keep your informed of its progress. Any specific credit reporting breaches or complaints will be acknowledged within 7 days of receipt and unless there are exceptional circumstances these investigations will be resolved within 30 days of receiving your complaint.
 
-We will inform you of the progress of your complaint and let you know how long we expect it will take. 
-
-Heritage will acknowledge any specific credit reporting breaches or complaints within 7 days of receipt. Unless there are exceptional circumstances involved in the resolution process, any investigation will be resolved within 30 days of receiving your complaint.
-
-If when the dispute resolution process has been concluded we are unable to resolve your complaint to your satisfaction, you have the option to escalate the complaint to our external dispute resolution service:
+When the dispute resolution process has been concluded we are unable to resolve your complaint to your satisfaction, you have the option to escalate the complaint to our external dispute resolution service:
 
 The Financial Ombudsman Service (FOS)   
 GPO Box 3  
@@ -186,3 +172,25 @@ Sydney, New South Wales, 2001, 
 Ph: 1300 363 992  
 Website: [oaic.gov.au](http://www.oaic.gov.au/)  
 Email: [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)
+
+## How to Contact us
+
+In Person:  at one of our branches
+
+Mail:  The Privacy Officer  
+Heritage Bank Limited  
+PO Box 190  
+Toowoomba  
+QLD 4350  
+
+
+Telephone: 13 14 22
+
+Email: feedback@heritage.com.au
+
+or  
+info@heritage.com.au
+
+or
+
+go to your website heritage.com.au and click on "contact us" then use the "feeback/enquiries"
