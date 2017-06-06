@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webix.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202074746id_/http%3A//webix.com/legalnote/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webix.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170815id_/http%3A//webix.com/legalnote/privacy-policy) for the most accurate reproduction.*
 
 # JavaScript Library Webix - Privacy Policy
 
@@ -12,7 +12,7 @@ You may visit our website without identifying yourself or revealing any personal
 
 The email address provided by you during the acquisition of a Webix product can be used for sending out information and updates related to your order, as well as service information. If you ’don’t want to receive email notifications from Webix, you can easily unsubscribe from the Webix newsletter. The unsubscribe instructions are placed at the bottom of each email you receive.
 
-We do not sell, rent or give out personal information to any third party without any member or customer’s prior consent. We may transfer your data to a third party that assists us in managing our website or renders services to you only if the third party agrees to keep this information confidential. We will not use your information for any purpose outside the scope of communicating with you about our products and services.
+We do not sell, rent or give out personal information to any third party. You agree that XB Software may identify customers in XB Software marketing materials with with customer's prior notice. We may transfer your data to a third party that assists us in managing our website or renders services to you only if the third party agrees to keep this information confidential. We will not use your information for any purpose outside the scope of communicating with you about our products and services.
 
 ### Information Security
 
