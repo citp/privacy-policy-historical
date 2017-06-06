@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fool.com.au privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116113824id_/http%3A//www.fool.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155158id_/http%3A//www.fool.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Motley Fool Australia
 
@@ -108,11 +108,3 @@ If you follow or click on links to any third party websites from fool.com.au and
 The Fool may amend this Privacy Policy from time to time. If we make any substantive changes to this policy, we’ll announce it on our site. Your continued use of our website, services or provision of further personal information to us once you have been notified of the revised Privacy Policy constitutes your deemed acceptance of the revised Privacy Policy.
 
 _Effective: 31  August 2016_
-
-Dear Fool:
-
-We love you, but we need to talk. It's your browser. Internet Explorer 8 (or older) has known security flaws, and may not display all of our Foolish website's features – or those of other websites, for that matter. We encourage you to use the following link to update your browser so that you can more safely browse the Web (<http://browsehappy.com/>).
-
-Foolishly,
-
-The Motley Fool Team
