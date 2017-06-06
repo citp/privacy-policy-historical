@@ -1,55 +1,108 @@
-> *The following text is extracted and transformed from the bozzuto.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012225044id_/https%3A//www.bozzuto.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bozzuto.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190610id_/https%3A//www.bozzuto.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bozzuto
 
-**Our Commitment to Privacy**
+**PRIVACY POLICY** **This Privacy Policy is effective as of May 15 2017.**
 
-We respect the privacy of your information.  We provide this explanation about our online information practices as a show of our commitment to protect your privacy.
+This Privacy Policy applies to the Bozzuto.com website operated by Bozzuto & Associates, Inc., d/b/a The Bozzuto Group, a Maryland corporation, and its subsidiaries and websites for the properties managed by Bozzuto Management Company (referred to herein as "Bozzuto", "we", "us", or "our") and applies to information, products and services provided by Bozzuto in the U.S.
 
-We do not sell or rent individual identification information collected during your use of our Website without your permission.
+Bozzuto recognizes the importance of protecting the privacy of individual-specific information collected from and about our website users (referred to as "customers", "you" or "your" in this Privacy Policy). Bozzuto may collect a variety of personally identifiable information from customers, including information about customers and their spouses, domestic partners, dependents, family members and apartment occupants such as name, mailing address, email address, telephone number, Social Security/national insurance number, and other background information described in this document, depending on the specific service being provided (“Personal Information”). This Privacy Policy describes what Personal Information we gather and how we use it. In some instances, and in particular, if you are asked to submit registration details through this site, you may be requested to agree to additional terms regarding our use of your Personal Information, and those additional terms will apply in that context. This Privacy Policy constitutes an integral part of our website’s Terms of Use and is subject to the provisions thereof, including with respect to Limitation of Liability and governing law. We encourage you to read this Privacy Policy before you send or share Personal Information with us or use our website and to read it again when you return to it. 
 
-**The Information We Collect**
+You acknowledge that this Privacy Policy is part of the Bozzuto.com website’s Terms of Use and by accessing or using this Site you agree to be bound by all of its terms and conditions. If you do not agree to these terms and conditions, please do not use this Site. We reserve the right to change this Policy at any time. Such changes, modification, additions or deletions shall be effective immediately upon notice thereof. You acknowledge and agree that it is your responsibility to maintain a valid email address if you are a registered user, review this Site and this Privacy Policy periodically and to be aware of any modifications. Your continued use of this Site after such modifications will constitute your: (a) acknowledgement of the modified Privacy Policy and (b) agreement to abide and be bound by the modified Privacy Policy. 
 
-At the time you register on our site, or you send us a communication, we collect and store such information as you may provide, which (depending on the circumstances) can include your name, address, telephone number, e-mail address and other individual identification information.  We need this information to communicate with you.
+**WHAT PERSONAL INFORMATION DOES BOZZUTO COLLECT?**
 
-In addition, we may automatically gather general statistical information about our Website and visitors, such as IP addresses, browsers, pages viewed, number of visitors, etc., but in doing so we do not reference you by individual name, e-mail address, home address, or telephone number.  We use this data in the aggregate to determine how much our customers use parts of our site so we can improve our site.  We may provide this statistical information to third parties, but when we do so we do not provide individual identification information without your permission.
+We collect Personal Information from our websites in order to provide you with information on the Bozzuto experiences you have expressed an interest in, to provide you with information on other similar Bozzuto experiences we believe will be of interest to you, and to better understand how we can help prospective clients, residents and employees. We also collect Personal Information for the purposes of administering certain services to residents and/or applicants, which may include, but not be limited to, services necessary or appropriate to complete any transaction, delivery, or provision of products and services, among other services that Bozzuto may offer or provide from time-to-time (“Company Services”). Such personal information may include Personal Information. The type of Personal Information we collect will depend upon what we will need in order to provide you with the particular product or service that interests you. In the case of prospective residents and applicants for employment, the information requested on our registration form includes some or all of the following Personal Information: name and address, age or date of birth, email address, occupation, employment information, telephone number, educational background and Social Security/national insurance number, payment card information, and/or financial account information.
 
-**The Way We Use Information**
+Those interested in becoming residents will be asked to include most of the following further information: the kind of service you are requesting, the apartment size you are looking for, where you want to live, the type of building you prefer, your proposed rent budget, the number of individuals in your household and their ages, and whether or not you have pets.
 
-We use your individual identification information to act on and improve our outreach, to statistically analyze site usage, to improve our content and to customize our site’s content, layout, and services.
+If you become a resident of a residential community we manage, you may be asked to provide your credit card information in order to make payments for rent and other services. Since we provide these services through contractual arrangements with third-parties, we may need to release your personally identifiable information to these third parties. The use of your personally identifiable information by third parties service providers is governed by their privacy policies and terms of use. 
 
-We may use your information to deliver information to you that, in some cases, is targeted to your interests, such as e-mail alerts and news updates.  You can opt out of receiving this information by emailing us.  We may ask you to provide us voluntarily with additional information regarding your personal or business interests, experience or requests which we may use to customize our service to you.
+For those interested in applying for employment at Bozzuto, the following additional Personal Information may be requested or obtained: credit checks, background checks, reference checks and employment verification. Where required, we will obtain your consent before undertaking these checks. Once a candidate accepts a position, the candidate may be asked to complete additional information. This may include an invitation to self-identify ethnicity or race. This information is only collected for meeting government reporting requirements and the provision of this information by candidates is voluntary.
 
-We use your e-mail address, your mailing address, and phone number to contact you regarding promotions, announcements and communications relevant to your use of the site.  You can opt out of receiving such contact by emailing us.
+Our residential communities have their own separate sites and we use separate sites for the processing of rental applications and agreements and to assist our residents with other tasks which are required or helpful to them, such as paying rent online. You will move away from this site when engaging in those activities. **_The privacy policy set forth herein applies to the websites of our residential communities._**
 
-We may also use or disclose information to resolve disputes, investigate problems or enforce our Terms of Use.  At times, we may review status or activity of multiple users to do so.  We may disclose or access information whenever we believe in good faith that the law so requires or if we otherwise consider it necessary to do so to maintain service and improve our products and services.
+**USAGE TRACKING: USE OF IP ADDRESSES**
 
-We use your IP address to help diagnose problems with our server, to manage our Website and to enhance our site based on the usage pattern data we receive.
+An IP address is a number that is automatically assigned to your computer whenever you are connected to the Internet. Web servers, the main computers that serve up web pages, automatically identify your computer by its IP address. As permitted under applicable law, Bozzuto collects IP addresses for the purposes of system administration, gathering and analyzing aggregated information, creating a better experience for users and auditing the use of our site.
 
-**Security**
+Your session will be logged, along with your IP address. We will seek to link IP addresses with Personal Information when we feel it is necessary to protect this site and other users from harm and to prevent criminal misconduct. **_Please see the section on Use of "Cookies."_**
 
-We employ reasonable and current security methods to prevent unauthorized access, maintain data accuracy, and ensure correct use of information.
+**USE OF "COOKIES"**
 
-Whenever you voluntarily disclose personal information online - for example on message boards, through e-mail or in chat areas - that information can be collected and used by others.
+Cookies are pieces of information that a website transfers to an individual for record­keeping purposes. Cookies make web surfing easier for you by saving your preferences while you are at our site. The use of cookies is an industry standard, and as such, you will find them at most major websites. By showing how and when users use a site, cookies help us see which areas are popular and which are not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies only to provide services better tailored to your needs and for the protection of our website and users from potential harm. We never save passwords or credit card information in cookies.
 
-No data transmission over the Internet or any wireless network can be guaranteed to be perfectly secure.  As a result, while we try to protect your personal information, we cannot ensure or guarantee the security of any information you transmit to us, and you do so at your own risk.
+We use persistent session and third-party tracking cookies on our website which are cookies that stay in your web browser between visits. We use these to capture analytical information about our visitors that helps us to improve the performance of our website and create a better experience. These cookies allow us to recognize and count the number of visitors, to provide content related to a prior visit to the website, and to see how visitors move around the site and the products and services they are interested in when they are using it. This helps us to improve the way our website works, for example by making sure users are finding what they need easily.
 
-**How You Can Update, Correct or Delete Your Information**
+Most browsers are set up to accept cookies. If you want to change your cookie preferences, you can do so through your browser settings or refuse the cookies when you enter the website. Please remember that our cookies are often used to give you certain functionality and without them you may not be able to use some of our website e.g. save properties from our listings.
 
-You can access the information that we collect online and maintain through normal updating methods.  To update, correct or delete this information, you can contact us by emailing us.  Your account can be deleted or deactivated but doing so will result in your not being able to access member services.
+You can also remove cookies that have already been set in your browser via your browser settings.
 
-**Children Under 13**
+By entering and using our site, you agree that we can place these types of cookies on your device.
 
-We have no way of distinguishing the age of individuals who access our Website, and so we carry out the same Privacy Policy for individuals of all ages.  Our services are not specifically directed to children.  If a child has provided us with individual identification information without parental or guardian consent, the parent or guardian should contact us to remove the information and opt out of promotional opportunities.
+**WHAT INFORMATION DO WE SHARE OR DISCLOSE?**
 
-**Third Party Practices**
+Bozzuto will disclose Personal Information for business operations as described below.
 
-The Privacy Policy of an advertiser or promotional service appearing at our site may differ from ours.  We encourage you to read that policy before responding to the offer.
+We do not commercialize or share your Personal Information with third parties, unless:
 
-**Changes to Our Policy**
+  * Such information is shared and/or commercialized following receipt of a specific request and/or permission from users;
+  * Such information is shared with affiliated companies and/or potential investors (in any form of business transaction, including purchase or merger);
+  * Such information is shared with vendors and service providers that may from time to time be selected or utilized by Bozzuto, its agents, or the owners of residential communities we manage, for the purposes of administering or carrying out management responsibilities and business objectives for the community;
+  * Such information is shared in order to comply with or in accordance with any applicable law and/or court orders and/or in order to prevent suspected illegal acts, frauds, situations involving potential threats to the safety of any person, or as otherwise required by law. This includes responding to lawful requests by public authorities, including to meet national security or law enforcement requirements;
+  * Such information is shared in order to help Bozzuto defend against claims and/or establish or exercise any legal right that Bozzuto may have;
+  * Such information is shared in order to help Bozzuto prevent violations of the Bozzuto Terms of Use and this Privacy Policy or to otherwise protect the rights, property, or safety of Bozzuto employees, residents and other persons others, including exchanging information with third parties for fraud protection and credit risk reduction, in accordance with applicable laws.
 
-Any changes of our Privacy Policy will be communicated through our Website at least fifteen days in advance of its effective date.  Information collected before changes are made will be secured according to the previous Privacy Policy.
 
-  **Your Consent**
 
-By using our Website, you consent to the collection and use of this information in the manner we describe.
+**THIRD-PARTY SITE LINKS**
+
+You should be aware that when you are on the Bozzuto website you could be directed to other third party sites that are beyond our control. There are links to other sites from Bozzuto, which take you outside our service. For example, if you "click" on a banner, an advertisement or a search result, the "click" may take you off the Bozzuto site. These other sites may include sites of other advertisers, sponsors and partners that may use their logo with ours as part of a co-branding agreement. These other sites may send their own cookies to visitors to collect data or solicit information. Bozzuto does not control these sites and therefore is not responsible for their content. The inclusion of hyperlinks to any other sites by Bozzuto does not imply any endorsement of the material on such sites, nor any association with their operators.
+
+Bozzuto policies do not extend to anything that is inherent in the operation of the Internet, which is beyond our control. Remember that whenever you give out Information online, that information may be collected and used by people you do not know.
+
+If users have any questions about security, **_please contact us using the information in the "Contact Information" section._**
+
+**EMAIL CONSENT AND OPT-OUT**
+
+Your provision of Personal Information through any of our registration forms on this site constitutes your affirmative consent that we may contact you by email to provide you with information and notices relating to the property where you reside, on various similar services available to you at or through that property and on various other properties that may be available and of interest to you in the future. It also means we may email you regarding updates to this Privacy Policy.
+
+You may choose to opt out of receiving future commercial email messages from us as a result of your use of this site. Please note that if you are a resident of a Bozzuto community and you use this site and your community site, you will need to opt-out of your community site separately. You will also need to opt-out separately from any third party sites you have registered with. **_Please see the section on Third-Party Site Links._**
+
+**CHILDREN'S PRIVACY**
+
+We do not use the site to knowingly collect personal information from children under the age of thirteen (13) that requires parental notice and consent under the Children's Online Privacy Protection Act ("COPPA") without such parental consent. By using our site, you represent that you are not under 13 years of age. If you are a child under thirteen (13) years of age, you are not permitted to use the site and should not send any information about yourself to us through the site. In the event that we become aware that we have collected Personal Information from any child, we will dispose of that information, or otherwise treat it, in accordance with COPPA and other applicable laws and regulations. If you are a parent or guardian and you believe that your child under age 13 may have provided personally identifiable information through the Website, **_please contact us using the information in the "Contact Information" section_**.
+
+**INTERNATIONAL VISITORS**
+
+The Bozzuto Group is located in the United States (state of Maryland). If you are providing personally identifiable information and are not a resident of the United States, your country’s laws governing data collection and use may differ from those in the United States, in particular, the U.S. may not provide the same level of protections as those in your own country. By providing information to Bozzuto, you are transferring your personal data to the United States, and you consent to the transfer to, retention of and processing of your data in the United States.
+
+**CORRECTING AND DEACTIVATING PERSONAL INFORMATION**
+
+_This section includes information about how all users may exercise their Privacy Rights._
+
+You have the right, freely and at reasonable intervals, to request that Bozzuto inform you as to whether Personal Information relating to you is being processed. You have the right to request that Bozzuto correct, supplement, delete or block your Personal Information in the event that the data are factually inaccurate, incomplete or irrelevant to the purposes of the processing activities or if the Personal Information is being processed in any other way which infringes a legal provision. If you wish to exercise your rights or if you have any questions or suggestions regarding the use, collection, or security of your Personal Information, **_please contact us using the contact details in the "Contact Information" section_**.
+
+When a request for user deletion is received, we will make all reasonable efforts to purge said data from our systems. Due to the nature of our service, some information may not be fully removed due to backups or archived copies; however, such information will only be used for the purpose of performing a contract that the user has entered into with us.
+
+**DATA SECURITY**
+
+While we take reasonable steps to secure your Personal Information, no data transmission over the Internet can be guaranteed to be completely secure. Likewise, no storage or processing of your Personal Information or other information on the site, or on other servers or databases to which the information may be transferred, can be guaranteed to be completely secure. Please consider this prior to submitting your Personal Information to us via the site.
+
+**NOTIFICATION OF CHANGES**
+
+If we decide to change our Privacy Policy, we will advise users of those changes through a general description at the top of this Privacy Policy and may also post these details to other places we deem appropriate so our users are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We may also email you.
+
+**CONTACT INFORMATION**
+
+If a user's Personal Information changes (such as zip/postal code, phone, email or postal address), or if a user no longer desires to be registered with this site, we provide a way to correct, update or delete/deactivate users' Personal Information. This can usually be done at the Registered User account settings page or by emailing [our Digital Marketing Department through [digitalmarketing@bozzuto.com](mailto:digitalmarketing@bozzuto.com)].
+
+You may use this email to get in touch with us for any other reason relating to this Privacy Policy. If you send us an e-mail, our communication should clearly be marked as data protection query and as being time sensitive.
+
+You may also contact us by mail at The Bozzuto Group, Attn.: Digital Marketing, 6406 Ivy Lane, Suite 700, Greenbelt, Maryland, 20770. If you contact us by mail, your communication should clearly be marked as a data protection query and as being time sensitive.
+
+**ACCEPTANCE OF THESE TERMS**
+
+By using this site, or providing information to us, you acknowledge your awareness of the terms of this Privacy Policy. If you are not happy with its terms or any amended terms that are made in accordance with this Privacy Policy, you are not authorized by Bozzuto to use this site.
+
+[****](http://www.hud.gov/renting/index.cfm)**2017 THE BOZZUTO GROUP. All rights reserved.**
