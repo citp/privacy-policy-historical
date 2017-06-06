@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gia.edu privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224931id_/http%3A//www.gia.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gia.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163409id_/https%3A//www.gia.edu/privacy-policy%3Futm_source%3Dfooter%26utm_campaign%3Den-us) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ Gemological Institute of America, Inc. (“GIA”) respects your privacy. GIA pr
 
 ###  SCOPE
 
-This Privacy Policy applies to information that we collect about you when you visit our Site and use our products and services as well as download and use our mobile applications (collectively, our “Services”). Additional policies also may apply to your information; for example, student information also is governed by the GIA Educational Privacy Policy and kept in accordance with the provisions of the federal Family Educational Rights and Privacy Act (FERPA). The policy is available for review by [contacting GIA Education Records](mailto:records@gia.edu). For more information, see “Academic Records” in the Academic Policies and Procedures section on page 59 of the [Education Catalog](https://web.archive.org/cs/Satellite?blobcol=gfile&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=MDT-Type&blobheadername3=Content-Type&blobheadervalue1=attachment%3B+filename%3D2016-GIA-Education-Catalog.pdf&blobheadervalue2=abinary%3B+charset%3DUTF-8&blobheadervalue3=application%2Fpdf&blobkey=id&blobtable=GIA_DocumentFile&blobwhere=1356020092190&ssbinary=true). In the event of a conflict between this Privacy Policy and the FERPA policy (or other educational policy that we may provide to you from time to time), that policy, not this one, will govern.
+This Privacy Policy applies to information that we collect about you when you visit our Site and use our products and services as well as download and use our mobile applications (collectively, our “Services”). Additional policies also may apply to your information; for example, student information also is governed by the GIA Educational Privacy Policy and kept in accordance with the provisions of the federal Family Educational Rights and Privacy Act (FERPA). The policy is available for review by [contacting GIA Education Records](mailto:records@gia.edu). For more information, see “Academic Records” in the Academic Policies and Procedures section on page 67 of the [Education Catalog](https://web.archive.org/cs/Satellite?blobcol=gfile&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=MDT-Type&blobheadername3=Content-Type&blobheadervalue1=attachment%3B+filename%3DGIA-2017-Education-Catalog-US-0417.pdf&blobheadervalue2=abinary%3B+charset%3DUTF-8&blobheadervalue3=application%2Fpdf&blobkey=id&blobtable=GIA_DocumentFile&blobwhere=1356020092190&ssbinary=true). In the event of a conflict between this Privacy Policy and the FERPA policy (or other educational policy that we may provide to you from time to time), that policy, not this one, will govern.
 
 ###  INFORMATION WE COLLECT ABOUT YOU
 
@@ -146,4 +146,4 @@ You may submit your request concerning your Personal Information by sending it t
 
 GIA reserves the right to modify this Privacy Policy as it deems appropriate from time to time. You may find the most current version of the Privacy Policy by visiting the GIA Site. Your continued use of the GIA Site will be subject to the then-current privacy policy. Thank you for visiting the GIA site.
 
-[©2016 Gemological Institute of America Inc.](http://www.gia.edu/)
+[©2017 Gemological Institute of America Inc.](http://www.gia.edu/)
