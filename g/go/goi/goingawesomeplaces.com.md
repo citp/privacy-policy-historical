@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goingawesomeplaces.com privacy policy that was archived on 2016-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160121091055id_/https%3A//goingawesomeplaces.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goingawesomeplaces.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606232757id_/http%3A//goingawesomeplaces.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Going Awesome Places
+# Privacy Policy - Going Awesome Places
 
 If you require any more information or have any questions about our privacy policy, please feel free to [contact me](http://goingawesomeplaces.com/contact-me/ "Contact Me").
 
@@ -20,10 +20,12 @@ Google, as a third party vendor, uses cookies to serve ads on www.goingawesomepl
 Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.goingawesomeplaces.com and other sites on the Internet.  
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL –<http://www.google.com/privacy_ads.html>
 
-  * Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:  
-Google Adsense  
-Commission Junction  
-Amazon
+  * Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: 
+    * Google Adsense
+    * Commission Junction
+    * Affiliate Window
+    * Monumetric
+    * Amazon
 
 
 
