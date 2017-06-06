@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minonline.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226220738id_/http%3A//www.accessintel.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155246id_/http%3A//www.accessintel.com/privacypolicy) for the most accurate reproduction.*
 
 # Access Intelligence :: Privacy Policy
 
@@ -39,7 +39,8 @@ We may use information about you:
 
 
 
-**Consent**
+**  
+Consent**
 
 By using Access Intelligence’s Services (for example, when you register for an account, purchase a product or service, enter a contest or promotion, communicate with us, or use interactive portions of our sites and applications), you consent to our collection, use and sharing of your PII as described in this policy. In some cases we may also ask you to confirm your knowledge of the terms of this policy; however, we are not obligated to do so.
 
@@ -88,7 +89,7 @@ As new products and services are offered or as existing products and services ar
 
 **How to Contact Us**
 
-If you have any questions, comments, or requests regarding this policy or our processing of your information, please contact clientservices@accessintel.com, or write/call us at:
+If you have any questions, comments, or requests regarding this policy or our processing of your information, please contact [clientservices@accessintel.com](mailto:clientservices@accessintel.com), or write/call us at:
 
 Access Intelligence  
 Customer Service  
