@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefa.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027205727id_/https%3A//www.thefa.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefa.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103026id_/http%3A//www.thefa.com/public/privacy) for the most accurate reproduction.*
 
-# The website for the English football association, The FA Cup and The England football team - | The FA
+# The website for the English football association, the Emirates FA Cup and the England football team
 
 **The Football Association Limited Privacy Policy**
 
