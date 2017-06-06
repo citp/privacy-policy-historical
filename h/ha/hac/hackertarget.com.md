@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackertarget.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412113207id_/https%3A//hackertarget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackertarget.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192232id_/https%3A//hackertarget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
