@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenudge.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319155036id_/http%3A//thenudge.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenudge.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606220244id_/https%3A//thenudge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Nudge
 
@@ -6,93 +6,91 @@
 
 We gather information that relates to, and can identify you (e.g. your name and address) and information that does not identify you (e.g. browsing patterns that you may exhibit when visiting our website).
 
-We collect information that does not identify you in order to evaluate our site, ensure that our site and all associated services run properly, and to ensure that we're paid for advertising services we offer.
+We collect information that does not identify you in order to evaluate our site, ensure that our site and all associated services run properly, and to ensure that we’re paid for advertising services we offer.
 
 ## 2\. How do we gather information?
 
 We gather information in two ways:
 
-**1)** Indirectly, for example using website technology or technology when you use a Nudge application for a mobile device; and
+  * Indirectly, for example using website technology or technology when you use a Nudge application for a mobile device; and
+  * Directly, for example when you subscribe to our newsletter or purchase goods via The Nudge Insider.
 
-**2)** Directly, for example when you subscribe to our newsletter or purchase goods via The Nudge Insider.
+
 
 ## 3\. Use of your information
 
-**3.1** If you have subscribed to any of our services, we will use the information you provide to keep you updated on those services unless you tell us otherwise.
+ **3.1** If you have subscribed to any of our services, we will use the information you provide to keep you updated on those services unless you tell us otherwise.
 
-**3.2** We might use your personal information to:
+ **3.2** We might use your personal information to:
 
-**1)** Remember you when you visit our website and track your browsing patterns by using cookies. You can prevent this; section 5 deals with this in more detail.
+  * Remember you when you visit our website and track your browsing patterns by using cookies. You can prevent this; section 5 deals with this in more detail.
+  * Ensure any products or services you receive are correctly administered (including subscriptions).
+  * Contact you by email to let you know about any of our products, services or promotions (which, in some cases may be provided by third parties) if you give us permission.
+  * Ensure materials on the website or in apps are presented in the most effective manner for you and your computer or mobile device.
+  * Collate and log numeric internet addresses to improve the website and to monitor website usage.
+  * Assess and understand customer feedback and identify usage hotspots.
 
-**(2)** Ensure any products or services you receive are correctly administered (including subscriptions).
 
-**(3)** Contact you by email to let you know about any of our products, services or promotions (which, in some cases may be provided by third parties) if you give us permission.
-
-**(4)** Ensure materials on the website or in apps are presented in the most effective manner for you and your computer or mobile device.
-
-**(5)** Collate and log numeric internet addresses to improve the website and to monitor website usage.
-
-**(6)** Assess and understand customer feedback and identify usage hotspots.
 
 ## 4\. Accessing and updating your personal information
 
-**4.1** You can update your details and marketing preferences by accessing your account pages on the website, or by unsubscribing to emails within the emails themselves.
+ **4.1** You can update your details and marketing preferences by accessing your account pages on the website, or by unsubscribing to emails within the emails themselves.
 
-**4.2** You have the right to access the personal information held about you. To obtain a copy of the personal information we hold about you, please send an email to info@theNudge.com. There will be an administrative charge of £10 for providing a copy of this information.
+ **4.2** You have the right to access the personal information held about you. To obtain a copy of the personal information we hold about you, please send an email to info@theNudge.com. There will be an administrative charge of £10 for providing a copy of this information.
 
 ## 5\. Cookies
 
-**5.1** A cookie is a small piece of information that is placed on your computer when you visit certain websites. Find out more about the use of cookies on http://www.cookiecentral.com.
+ **5.1** A cookie is a small piece of information that is placed on your computer when you visit certain websites. Find out more about the use of cookies on http://www.cookiecentral.com.
 
-**5.2** We use cookies to:
+ **5.2** We use cookies to:
 
-**1)** Remember you when you visit this website to keep track of your browsing patterns and to build up a profile of how you and other users use the website.
+  * Remember you when you visit this website to keep track of your browsing patterns and to build up a profile of how you and other users use the website.
+  * Make our website work as efficiently as possible.
+  * Administer services to you and to advertisers.
 
-**2)** Make our website work as efficiently as possible.
 
-**3)** Administer services to you and to advertisers.
 
-**5.3** Most browsers allow you to turn off cookies. To do this look at the "help" menu on your browser. Switching off cookies may restrict your use of the website and/or delay or affect the way in which it operates.
+ **5.3** Most browsers allow you to turn off cookies. To do this look at the “help” menu on your browser. Switching off cookies may restrict your use of the website and/or delay or affect the way in which it operates.
 
 ## 6\. Third party advertising cookies
 
-**6.1** Most of the advertisements you see on the website are generated by third parties. Some of these third parties generate their own cookies (or web beacons) to track how many people have seen a particular advertisement (or use the services of third parties to do this), and to track how many people have seen it more than once. These cookies cannot be used to identify an individual; they can only be used for statistical purposes, for example, in providing you with advertisements that are more relevant to your interests. Some of the information gleaned from third party cookies will be aggregated with other anonymous information for statistical purposes. The third party companies that generate these cookies have their own, very strict, privacy policies but we don't have access to these cookies; other than allowing them to be served, we have no role to play in these cookies at all (although we may use statistical information arising from these third party cookies and provided to us by third parties, to improve the targeting of advertisements to users of the website).
+ **6.1** Most of the advertisements you see on the website are generated by third parties. Some of these third parties generate their own cookies (or web beacons) to track how many people have seen a particular advertisement (or use the services of third parties to do this), and to track how many people have seen it more than once. These cookies cannot be used to identify an individual; they can only be used for statistical purposes, for example, in providing you with advertisements that are more relevant to your interests. Some of the information gleaned from third party cookies will be aggregated with other anonymous information for statistical purposes. The third party companies that generate these cookies have their own, very strict, privacy policies but we don’t have access to these cookies; other than allowing them to be served, we have no role to play in these cookies at all (although we may use statistical information arising from these third party cookies and provided to us by third parties, to improve the targeting of advertisements to users of the website).
 
-**6.2** If you would like to disable "third party" cookies generated by advertisers or providers of targeted advertising services, you can turn them off by going to the third party's website and getting them to generate a one-time "no thanks" cookie that will stop any further cookies being written to your machine. 
+ **6.2** If you would like to disable “third party” cookies generated by advertisers or providers of targeted advertising services, you can turn them off by going to the third party’s website and getting them to generate a one-time “no thanks” cookie that will stop any further cookies being written to your machine.
 
 The following are links to the main third party advertising and analytics platforms we use, each of which provides instructions on how to do this:
 
-**DoubleClick**  <http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookies>
+ **DoubleClick**  <http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookies>
 
-**Google AdSense**  <http://www.google.com/intl/en/ads>
+ **Google AdSense**  <http://www.google.com/intl/en/ads>
 
-**Google AdWords**  <http://adwords.google.com/>
+ **Google AdWords**  <http://adwords.google.com/>
 
-**Google Analytics**  <http://www.google.com/intl/en/analytics/index.html>
+ **Google Analytics**  <http://www.google.com/intl/en/analytics/index.html>
 
-**Quantcast**  [http://www.quantcast.com](http://www.quantcast.com/)
+ **Quantcast**  [http://www.quantcast.com](http://www.quantcast.com/)
 
-**Facebook**  [http://www.facebook.com](http://www.facebook.com/)
+ **Facebook**  [http://www.facebook.com](http://www.facebook.com/)
 
-**6.3** You can also visit the trade body representing these advertising companies for more information on how to opt out of these cookies: <http://youronlinechoices.com/>
+ **6.3** You can also visit the trade body representing these advertising companies for more information on how to opt out of these cookies: <http://youronlinechoices.com/>
 
 ## 7\. Security
 
-**7.1** The password you provide when registering with the website is encrypted to ensure protection against unauthorised access to your personal information.
+ **7.1** The password you provide when registering with the website is encrypted to ensure protection against unauthorised access to your personal information.
 
-**7.2** We do our utmost to protect user privacy. No data transmission over the Internet can be entirely secure, and therefore we cannot guarantee the security of your personal information and/or use of the website. Any information that you send is at your own risk and may be read by others. However once we have received your personal information we use strict procedures to protect the security of your personal information.
+ **7.2** We do our utmost to protect user privacy. No data transmission over the Internet can be entirely secure, and therefore we cannot guarantee the security of your personal information and/or use of the website. Any information that you send is at your own risk and may be read by others. However once we have received your personal information we use strict procedures to protect the security of your personal information.
 
 ## 8\. Disclosing your information
 
-**8.1** We may disclose your personal information if we are approached by a potential buyer of our business, if we required to do so by law or in good-faith believing such action is necessary to comply with the law.
+ **8.1** We may disclose your personal information if we are approached by a potential buyer of our business, if we required to do so by law or in good-faith believing such action is necessary to comply with the law.
 
-**8.2** We sometimes share your personal information with third parties who are our subcontractors or providers of various products and services on our behalf, ie our email service provider - [www.mailchimp.com](https://web.archive.org/web/20160319155036id_/http%3A//thenudge.com/www.mailchimp.com).
+ **8.2** We sometimes share your personal information with third parties who are our subcontractors or providers of various products and services on our behalf, ie our email service provider – [www.mailchimp.com](https://178.238.131.43/www.mailchimp.com).
 
-**8.3** We never sell personal information, or pass it to third parties for marketing purposes without your express permission.
+ **8.3** We never sell personal information, or pass it to third parties for marketing purposes without your express permission.
 
 ## 9\. Where we store your personal information
 
-The personal information that we collect from you may be sent and stored outside the European Economic Area ("EEA") in order to carry out the activities listed in "Use of Your Information".
+The personal information that we collect from you may be sent and stored outside the European Economic Area (“EEA”) in order to carry out the activities listed in “Use of Your Information”.
 
 ## 10\. Payments
 
@@ -102,6 +100,6 @@ We do not store credit card details nor do we share customer details with any 3r
 
 If we change our Policy, we will post the changes on this page. Please check the website regularly for any changes to this Policy.
 
-## 12\. If you don't feel that we're adhering to this Policy, please notify us by email at info@theNudge.com and we will try to solve the problem promptly.
+## 12\. If you don’t feel that we’re adhering to this Policy, please notify us by email at info@theNudge.com and we will try to solve the problem promptly.
 
-_This Policy was last updated on 22nd January, 2013._
+ _This Policy was last updated on 16th August, 2016._
