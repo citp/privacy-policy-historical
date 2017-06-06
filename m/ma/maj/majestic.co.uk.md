@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majestic.co.uk privacy policy that was archived on 2016-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160823224456id_/https%3A//www.majestic.co.uk/information/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majestic.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173521id_/http%3A//majestic.co.uk/information/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies - Information - Majestic Wine
 
@@ -6,7 +6,9 @@ Majestic is committed to respecting and protecting our customers' privacy. We wi
 
 ### Your personal details
 
-When you register on our website or provide us with your details in-store we will collect some of your personal details. You may choose to be added to our postal mailing list to receive our seasonal promotions, and also may subscribe to email newsletters. The information we collect is just for Majestic Wine Warehouses Ltd and other companies in the Majestic Wine PLC group: we do not release your information to third parties (other than where necessary to perform a service, such as courier companies carrying out deliveries). We will not email you unless you have given us your consent, and you have the option not to be included and to remove yourself from our mailing lists at any time.
+When you register on our website or provide us with your details in-store we will collect some of your personal details. You may choose to be added to our postal mailing list to receive our seasonal promotions, and also may subscribe to email newsletters. The information we collect is used by Majestic Wine Warehouses Ltd and other companies in the Majestic Wine PLC group.
+
+We will not email you unless you have given us your consent, and you have the option not to be included and to remove yourself from our mailing lists at any time.
 
 We collect information about you for two reasons: firstly, to process your order and second, to provide you with the best possible service. The type of information we may collect about you includes:
 
@@ -20,6 +22,14 @@ We collect information about you for two reasons: firstly, to process your order
 
 
 We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us at [info@majestic.co.uk](mailto:info@majestic.co.uk). If you find any inaccuracies we will delete or correct it promptly.
+
+For new customers ordering on [www.majestic.co.uk](https://www.majestic.co.uk/) for the first time after 14th September 2016:
+
+From time to time we would like to be able to pass your information to carefully selected third parties that offer products or services that we have identified as likely to be of interest to you.
+
+By entering into an agreement with us when you placed an order, you have consented to this use of your data.
+
+You may ask us at any point not to share your information with third parties for this purpose, by contacting us at [info@majestic.co.uk](mailto:info@majestic.co.uk).
 
 The personal information which we hold will be held securely in accordance with our internal security policy and the law. Information may be transferred outside the European Economic Area to the United States of America (where our agents will operate under European Union Safe Harbor Framework). By submitting your information, you consent to this transfer.
 
@@ -111,10 +121,6 @@ wordpress.com | Targeting | Our blog at [blog.majestic.co.uk](http://www.blog.ma
 yahoo.com | Targeting | Our order confirmation page notifies Yahoo! of transactions so that we can monitor the effectiveness of our advertising on the Yahoo! search marketing network. Yahoo! Search Marketing has its own [privacy policy](http://info.yahoo.com/privacy/uk/yahoo/searchmarketing/details.html).  
 youtube.com  
 ytimg.com | Targeting | We may embed videos into our website from YouTube. By using cookies YouTube is able to detect if you are a logged-in YouTube user. YouTube is owned by Google and is covered by Google's [privacy policy](http://www.google.co.uk/intl/en-GB/policies/).  
-Fast Thinking  
-| Targeting | Fast Thinking delivers more relevant advertising experiences by retargeting website visitors with different adverts according to the content viewed or the products bought. No personally identifiable data is stored by Fast Thinking  
-Digilant  
-| Targeting | Fast Thinking use an advertising buying platform called Digilant in order to retarget advertising to visitors to our website. No personally identifiable data is stored by Digilant  
   
 ### Email Tracking
 
