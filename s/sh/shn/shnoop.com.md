@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the shnoop.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318161123id_/https%3A//www.shnoop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shnoop.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054251id_/http%3A//shnoop.com/privacy-policy) for the most accurate reproduction.*
 
-# Shnoop.com : Privacy Policy
-
-## Privacy Policy
+# Privacy Policy
 
 ### Website Privacy Policy
 
 This policy was last updated and posted on December 12, 2012. It governs the privacy policy of our Website, www.shnoop.com.com, as owned and operated by shnoop.com, Inc. (shnoop.com).
 
-###  Definitions
+### Definitions
 
   * "Non-Personal Information" is information that is in no way personally identifiable and that is obtained automatically through your simple use of our Website with a web browser.
   * "Personally Identifiable Information" is non-public information that is personally identifiable and obtained in connection with providing a product or service to you. It may include information such as your name, address, phone number, and other related information you provide to us.
@@ -23,29 +21,29 @@ This policy was last updated and posted on December 12, 2012. It governs the pri
 
 **Understanding Our Website**
 
-**shnoop.com** offer our Products for sale to our Customers. Our Privacy Policy relates to your legal rights to privacy as a User of our Website and Content.
+**shnoop.com**  offer our Products for sale to our Customers. Our Privacy Policy relates to your legal rights to privacy as a User of our Website and Content.
 
-###  Our Commitment to Your Privacy
+### Our Commitment to Your Privacy
 
 This Privacy Policy tells you what Personally Identifiable Information we may collect from you, how we may share this information, and how you can limit our sharing of your information.
 
-**shnoop.com** is committed to the security and privacy of all our Users. We take your privacy seriously, and we will work with you to ensure that you have an enjoyable shopping experience, but that you do so in a safe and secure online environment.
+**shnoop.com**  is committed to the security and privacy of all our Users. We take your privacy seriously, and we will work with you to ensure that you have an enjoyable shopping experience, but that you do so in a safe and secure online environment.
 
-**shnoop.com** and its affiliates are committed to respecting your privacy and recognize the need for appropriate protection and management of your Personally Identifiable Information you share with us.
+**shnoop.com**  and its affiliates are committed to respecting your privacy and recognize the need for appropriate protection and management of your Personally Identifiable Information you share with us.
 
 As a part of our commitment to your privacy, we are making you aware that Personally Identifiable Information we collect from you may be transferred to, stored at, or processed outside our offices, whether by us or an affiliate. By submitting your Personally Identifiable Information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
 
-###  Links to Other Websites
+### Links to Other Websites
 
 Our Website may contain links to other websites that are not under our control. These websites may have their own policies regarding privacy. We have no control of or responsibility for linked websites and provide these links solely for the convenience and information of our visitors. You access such linked Websites at your own risk. These websites are not subject to this Privacy Policy. You should check the privacy policies, if any, of those individual websites to see how the operators of those third-party websites will utilize your personal information. In addition, these websites may contain a link to Websites of our affiliates. The websites of our affiliates are not subject to this Privacy Policy, and you should check their individual privacy policies to see how the operators of such websites will utilize your personal information.
 
-###  What Information We May Collect
+### What Information We May Collect
 
 Generally, our customers and investors can visit our Website without providing or revealing any personal or Personally Identifiable Information. We receive and store certain types of information whenever visitors interact with our Website. We may track the Internet domain address from which our visitors visit our Website and analyze this data for trends and statistics. Unless a visitor to our Website voluntarily provides Personally Identifiable Information to us, each individual customer remains anonymous.
 
 We receive and may store certain Personally Identifiable Information that our visitors enter when visiting our website or provide to us in other ways. For instance, we collect the information you provide to us when you place an order, register with us, send an email or call us, enter a sweepstakes or contest, subscribe to a service, enroll in a club, request to receive a catalog, or participate in a promotion. This information may include your name, shipping/billing address, telephone number, email address, credit card information, product purchases, birth date, gender, occupation, personal interests, and other similar personal or preference data that you provide to us. It may also include information you submit about other people such as the name and address of a gift recipient. Whether or not you provide such information to us is completely your own choice.
 
-###  How We Use Your Information
+### How We Use Your Information
 
 We use the personal and/or Personally Identifiable Information you provide for our internal purposes, such as confirming and tracking your order, analyzing trends and statistics, informing you of our new products (including products of our affiliates), services and offers, and providing you with information from and about our stores, catalogs and websites.
 
@@ -63,13 +61,13 @@ From time to time we may also market certain third-party services through our We
 
 Finally, if some or all of the business assets of any our company are sold or transferred, we generally would transfer the corresponding information regarding our customers and visitors to the purchaser. We also may retain a copy of that information.
 
-###  Changes to Your Information
+### Changes to Your Information
 
 You may update your registered Personally Identifiable Information at any time. This includes your name, password, email, and postal address. You may also manage your mailing preferences and email formats.
 
 If at any time you would like us to update your Personally Identifiable Information or remove you from our email or postal mailing lists, or if you need assistance with the modification of your information, send us an email with your request.
 
-###  Opting Out of Sharing Information
+### Opting Out of Sharing Information
 
 You may opt out of future unaffiliated third-party disclosures of your information. Such opt-out will not affect disclosures otherwise permitted by law including but not limited to:
 
@@ -82,36 +80,36 @@ You may opt out of future unaffiliated third-party disclosures of your informati
 
 
 
-###  Protecting Your Child's Privacy
+### Protecting Your Child's Privacy
 
 Our Website is not designed for use by anyone under the age of 13 (a child), though we realize we may have users under this age. We do not verify the age of our users nor do we have any liability for verifying a user's age. Furthermore, if you are under the age of 18, please seek the permission of a parent or guardian before placing an order. If you are a parent or guardian and believe your child is using our Website, please contact us. If a child submits information to us and we know that the individuals submitting the information are indeed children, we will delete the information as soon as we discover it, we will not use the information for any purpose, and we will not disclose the information to third parties. If you are a parent or guardian and believe your child is using our Website, please contact us. We may ask you for proof of identification before we remove any information to prevent malicious removal of account information.
 
-###  Our Email Policy
+### Our Email Policy
 
 Our affiliates and we fully comply with the international laws prohibiting SPAM. You can always opt out of receipt of further email correspondence from us. We will not sell, rent, or trade your email address to any unaffiliated third-party without your permission. We believe that your email address is personal and should be kept that way. We use your email address to provide better customer service, to facilitate your transactions with our third-party marketing partners, and to be able to inform you of the Internet offers and promotions from us or our affiliates.
 
-###  Our Security Policy
+### Our Security Policy
 
 Because we all benefit from secure online shopping, we have taken steps to build and manage a system that you can use with confidence. We use sophisticated encryption and authentication tools to protect the security of the Personally Identifiable Information that you share with us. If sensitive data is collected through this Website, we will encrypt your Personally Identifiable Information before it travels over the Internet using industry standards for secure online transactions. The Personally Identifiable Information you provide to us is preserved behind a firewall, instead of being directly connected to the Internet. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Once we receive your transmission, we have appropriate security measures in place within our physical facilities to protect against the loss, misuse, or alteration of the Personally Identifiable Information you have provided to us.
 
 We urge you to keep your password for our Website in a safe place and not divulge it to anyone. Also remember to sign off your account and close your browser window when you have finished your visit to our Website. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place such as a library or Internet cafe.
 
-###  Payment Methods
+### Payment Methods
 
 You may have to provide a payment method (i.e. credit card or PayPal) to purchase Products from our Website. We use third-party billing services and HAVE NO CONTROL over these services. We will use our best efforts to make sure that your credit card number is kept STRICTLY CONFIDENTIAL by using only third-party billing services that use industry-standard encryption technology to protect your payment method from unauthorized use. However, you understand and agree that we are in no way responsible for any misuse of your payment method.
 
-###  Cookies
+### Cookies
 
 Our Website may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. A cookie cannot read data off your hard disk or read cookie files created by other sites. Cookies do not damage your system. We use cookies to identify which areas of our site you have visited, so the next time you visit the site, we can better personalize the content that you see on our Website. Most browser software can be set to reject Cookies. However, if you reject our Cookies, certain functionality on our Website may not work correctly or at all. We do not place Personally Identifiable Information in Cookies.
 
-###  Web Beacons
+### Web Beacons
 
 We may also use web beacons to collect Non-Personal Information about your use of our Website and the Websites of selected sponsors and advertisers, and your use of special promotions or newsletters. The information collected by Web Beacons (a) allows us to statistically monitor how many people open our emails and (b) for what purposes these actions are being taken. Our Web Beacons are not used to track your activity outside of our Websites or those of our sponsors'. We do not link Non-Personal Information from Web Beacons to Personally Identifiable Information without your permission.
 
-###  Changes to Our Privacy Policy
+### Changes to Our Privacy Policy
 
 From time to time, our privacy and security practices may change. If we modify our Privacy Policy, in whole or in part, to address these changes, we will indicate when such changes are made by changing the "Last Updated" date at the beginning of this Privacy Policy. Those changes will be effective as of the Last Updated date. The new policy will apply to all current and past users of our Websites and will replace any prior policies that are inconsistent. We may change or add to this Privacy Policy, so we encourage you to review it periodically.
 
-###  Questions About Our Privacy Policy
+### Questions About Our Privacy Policy
 
 To help us improve our privacy and security policies and practices, please send us your questions and feedback using the Contact Us and Feedback forms on our Website.
