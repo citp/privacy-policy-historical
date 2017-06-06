@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the siena.edu privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327085704id_/https%3A//www.siena.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siena.edu privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175831id_/https%3A//www.siena.edu/privacy) for the most accurate reproduction.*
 
 # Privacy | Siena College (New York)
 
-**I.           Purpose:**
+**I.      Purpose:**
 
 The purpose of this policy is to inform users of the Siena College website of the information that may be collected and how it is managed and used by the Information Technology Services (ITS) department. 
 
-**II.          Scope:**
+**II.     Scope:**
 
 The scope of this policy includes all users that visit the Siena College website for information pertaining to the Siena College and their services.
 
-**III.         Policy Statement:**
+**III.    Policy Statement:**
 
 Siena College welcomes you and appreciates you visiting the website.  Here at Siena College your privacy is a top priority.  When visiting the website there are a few items we collect when you visit. This will allow us to ensure the utmost performance and experience while on the website. 
 
-**             _Information Collected_**
+**IV.    Information Collected**
 
 Some information that is automatically collected when visiting our website may be the following:
 
@@ -34,18 +34,18 @@ Some information that is automatically collected when visiting our website may b
 
 
 
-**_Cookies_**
+**V.     Cookies**
 
 Cookies: name of any cookie used.
 
-**_Third Party Sites_**
+**VI.    Third Party Sites**
 
 In order to provide you with services you may be redirected to a third party website so you may submit information for services or e-commerce transactions.  The website may require you to enter in your personal information such as name, address, date of birth, or even credit card information if making purchases. Siena College only enters into agreements with companies that abide and adhere to the Payment Card Industry Data Security Standards (PCI DSS) as well as Siena College policy and procedures when handling personally identifiable information (PII). These websites have separate privacy and security policies; it is always a good practice to review the privacy policy of any website you visit.
 
-**_Collected Information_**
+**VII.   Collected Information**
 
-Any information that is collected through our website is kept private and only ITS and authorized personnel has access. 
+Any information that is collected through our website is kept private and only ITS and authorized personnel has access.
 
-**_Policy Changes_**
+**VII.   Policy Changes**
 
 This policy is subject to change
