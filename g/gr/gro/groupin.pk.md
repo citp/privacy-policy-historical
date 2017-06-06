@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupin.pk privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202051844id_/http%3A//www.groupin.pk/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupin.pk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606132706id_/http%3A//www.groupin.pk/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Groupin.pk
 
