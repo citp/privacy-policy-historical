@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitsmallbusiness.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026215144id_/http%3A//fitsmallbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitsmallbusiness.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152322id_/http%3A//fitsmallbusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
