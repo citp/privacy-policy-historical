@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theshillongtimes.com privacy policy that was archived on 2015-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150703175313id_/http%3A//www.theshillongtimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshillongtimes.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055714id_/http%3A//www.theshillongtimes.com/privacy-policy) for the most accurate reproduction.*
 
-# Comments/Privacy Policy | The Shillong Times
+# Privacy Policy – The Shillong Times
 
 This Privacy Policy governs the manner in which The Shillong Times collects, uses, display, maintains and discloses information collected from users (each, a “User”) of the [http://www.theshillongtimes.com](http://www.theshillongtimes.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by The Shillong Times.
 
@@ -28,9 +28,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 The Shillong Times may collect and use Users personal information for the following purposes:
 
-  * _– To improve customer service  _ Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _– To improve our Site_ We may use feedback you provide to improve our products and services.
-  * _– To send periodic emails_ We may use the email address to send them information and updates pertaining to their order.
+  * To improve customer service  Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * To improve our Site We may use feedback you provide to improve our products and services.
+  *  To send periodic emails We may use the email address to send them information and updates pertaining to their order.
 
 
 
@@ -66,15 +66,15 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[The Shillong Times](http://www.theshillongtimes.com/)
+##### [The Shillong Times](http://www.theshillongtimes.com/)
 
 [http://www.theshillongtimes.com](http://www.theshillongtimes.com/)
 
-THE SHILLONG TIMES Pvt Ltd,  
+#### THE SHILLONG TIMES Pvt Ltd,  
 Rilbong, Shillong-4.  
 Meghalaya, India
 
-91(0364) 2223488, 2227488 (Shillong). 91(03651) 222526, 222825 (Tura).
+##### 91(0364) 2223488, 2227488 (Shillong). 91(03651) 222526, 222825 (Tura).
 
 letters@theshillongtimes.com
 
