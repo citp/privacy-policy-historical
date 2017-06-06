@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orderingonlinesystem.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318115424id_/https%3A//www.orderingonlinesystem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orderingonlinesystem.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607000201id_/https%3A//www.orderingonlinesystem.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Adding Value to Company Profile
 
