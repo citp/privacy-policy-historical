@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dagfs.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623084523id_/http%3A//www.dagfs.com/privacy%3Flang%3Den%26nats%3DMC4wLjEwLjIzLjAuMC4wLjAuMA%26select%3Dterms%26ontour%3Dtdefault) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dagfs.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606120948id_/http%3A//members.dagfs.com/privacy) for the most accurate reproduction.*
 
 # Porn movies, videos and galleries | DaGFs
 
@@ -130,7 +130,7 @@ Email opt-in and user communication
 
 The subscriber's e?mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third?party service, which may include consent to receive e?mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials. These communications shall be deemed to be opt?in email communications by virtue of the subscriber joining this site. The subscriber may opt?out of a mailing list by clicking on the removal link located at the bottom of the promotional email or by visiting the site [www.mailgo2.com](http://www.mailgo2.com/)  
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: <http://www.dagfs.com/support>   
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [//www.dagfs.com/support](https://www.dagfs.com/support)   
 [helpdesk@dagfs.org](mailto:helpdesk@dagfs.org)
 
 This document was last updated on October 22, 2014
