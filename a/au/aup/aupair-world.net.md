@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aupair-world.net privacy policy that was archived on 2016-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160731112433id_/https%3A//www.aupairworld.com/en/tos/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aupair-world.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161240id_/https%3A//www.aupairworld.com/en/tos/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - AuPairWorld
 
@@ -14,7 +14,7 @@ Following your registration, all data that are relevant for searching on AuPairW
 
 ####  Collection, processing and transmission of data
 
-We only collect personal data if you register on our website. If payment is made via Paypal or Worldpay, your data is transmitted to these services for such purposes. We transmit data to companies engaged by us for purposes of analysing user behaviour (for more information, see “Analysing user behaviour” below). Otherwise, no data is transmitted to companies or individuals other than users of the website for either commercial or non-commercial purposes.
+We only collect personal data if you register on our website. If payment is made via Paypal or ConCardis, your data is transmitted to these services for such purposes. We transmit data to companies engaged by us for purposes of analysing user behaviour (for more information, see “Analysing user behaviour” below). Should your purchase via our web-shop require any data transmission to the respective service provider, you will be notified correspondingly. Otherwise, no data is transmitted to companies or individuals other than users of the website for either commercial or non-commercial purposes.
 
 **By registering, you consent to authorize your data to be accessed by AuPairWorld users.** After contact has been established via the AuPairWorld internal messaging system, you decide to which other AuPairWorld users you want to provide your contact information.
 
@@ -29,6 +29,10 @@ Credit card payments are handled by ConCardis GmbH, Helfmann-Park 7, 65760 Esch
 Revocation
 
 You may revoke your consent to the future use of your data at any time. To do so, send an e-mail with the subject “Revocation” to support(at)aupairworld.com.  Your account will then be blocked and it will no longer be possible for third parties to locate you in the system.
+
+####  Information on products and services by e-mail
+
+Occasionally, we may provide you with information on our products and services by e-mail and independently of your Daily Update. **You may revoke consent to the use of your data for this purpose at any time, should you no longer wish to receive these e-mails.** It is sufficient to send an e-mail to: support(at)aupairworld.com with the subject line "Marketing revocation". Please ensure that you send us your e-mail from the same e-mail address you are using in your profile on AuPairWorld. This revocation does not apply to your Daily Updates. For this purpose, you need to log into your AuPairWorld profile and change your settings correspondingly.
 
 ####  Use of cookies
 
@@ -81,6 +85,21 @@ On behalf of AuPairWorld GmbH, Akanoo GmbH will use the information to record an
 
 You can prevent cookies being saved by means of the relevant setting in your browser software. We would like to inform you that in this case, you may not be able to use all of the functions of the website completely. In addition, you can prevent the recording of the data related to your website use created by the cookie, and its transmission to and processing by Akanoo GmbH, by clicking on the following link <https://akanoo.com/manager/optOut>. This creates an OptOutCookie, which prevents the recording of data in future when visiting this website.
 
+**Hotjar**
+
+This website uses the web analysis service Hotjar. Hotjar is a European company based in Malta (Hotjar Ltd, Level 2, St Julians Business Centre, 3, Elia Zammit Street, St Julians STJ 1000, Malta, Europe). With Hotjar we analyse movements on our site, for example, mouse-overs, scrolling and clicking. So-called heatmaps are created from this. With these heatmaps it is possible to optimise the site and improve user experience. In addition, we are able to gather direct user feedback and therefore further enhance user-friendliness. The following data is collected by Hotjar:
+
+\- Mouse-overs,   
+\- Clicking,  
+\- Scrolling,  
+\- Anonymised IP address,  
+\- Size of visitor’s screen,  
+\- Type of device (smartphone, computer) and browser used,  
+\- Country of visitor,   
+\- Set language settings. 
+
+You can opt-out from being tracked by Hotjar by activating the “Do Not Track” header in your browser. These settings are available in all current browsers. Please remember to adjust these settings for all devices you use to visit our site. As long as these settings have been adjusted, your visit will not be tracked by Hotjar. For further information on data protection at Hotjar, please read Hotjar’s privacy policy at https://www.hotjar.com/privacy. Setting instructions for “Do Not Track” can be found at https://www.hotjar.com/opt-out
+
 ####  Analysis of user behaviour following your registration
 
 Following your registration, we collect your IP address and the time you registered in addition to the data you have entered. Upon registration, you consent to our analysis of this data. This is necessary in order to continue to able to offer the high level of quality at AuPairWorld. For such purposes, we compare the data you have entered to additional data freely available online. This enables us to identify unwanted entries (joke entries, agencies, human trafficking, etc.). However, AuPairWorld does not guarantee the quality of the entries presented in the profiles.
@@ -97,11 +116,10 @@ This website is encrypted using SSL (https). This means that your data are encry
 
 It is important to AuPairWorld that data is processed properly and securely under applicable data protection laws. We have appointed an external data protection officer in order to be able to document this to external parties as well.
 
-Stephan Moers  
-Sicherheitsberatung e.K.  
-Grüner Weg 30,  
-34369 Hofgeismar
-
+Datenschutzberatung Moers GmbH  
+Neue Straße 22  
+34369 Hofgeismar  
+Germany  
 [www.dsb-moers.de](http://www.dsb-moers.de/)
 
 You may reach Mr Stephan Moers by e-mail at [datenschutz@aupairworld.com](mailto:datenschutz@aupairworld.com)
