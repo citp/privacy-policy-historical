@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honesttopaws.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230044430id_/http%3A//honesttopaws.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honesttopaws.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040748id_/http%3A//honesttopaws.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Honest To Paws
 
