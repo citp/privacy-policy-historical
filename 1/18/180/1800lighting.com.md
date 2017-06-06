@@ -1,31 +1,40 @@
-> *The following text is extracted and transformed from the 1800lighting.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321212124id_/http%3A//www.1800lighting.com/Capitol-Lighting-About/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800lighting.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162841id_/http%3A//www.1800lighting.com/Capitol-Lighting-About/privacy.cfm) for the most accurate reproduction.*
 
 # 1800lighting.com - Privacy
 
-**Privacy Policy**
+  1. [Home](https://web.archive.org/index.cfm)
+  2. Privacy Policy
 
-Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. 
 
-**What Information Do We Collect?**
 
-When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site. 
+### Privacy Policy
 
-**Email Information**
+Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
+
+##### What Information Do We Collect?
+
+When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
+
+##### Email Information
 
 If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. 
 
-**How Do We Use the Information That You Provide to Us?**
+##### How Do We Use the Information That You Provide to Us?
 
-Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us. 
+Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us.
 
-**What Are Cookies?**
+##### What Are Cookies?
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. 
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
-**How Do We Use Information We Collect from Cookies?**
+##### Examples of Cookies
 
-As you shop on our Web site, the site uses its cookies to differentiate you from other shoppers so your shopping cart is only available to you. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve our Web site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies. 
+Google, as a third party vendor, uses cookies to track behavior on our site that is not personally identifiable in any way. The cookies are used in conjunction with Google's Analytics Demographics and Interest Reporting and Remarketing with Google Analytics tools. As with all third party vendors, Google is not permitted to use the information collected on our behalf except to help us conduct and improve our business. Users may opt out of the use of these specific cookies by visiting the Google Analytic Opt-out page.
 
-**Notice of New Services and Changes**
+##### How Do We Use Information We Collect from Cookies?
 
-Occasionally, we may also use the information we collect to notify you about important changes to our site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email. 
+As you shop on our Web site, the site uses its cookies to differentiate you from other shoppers so your shopping cart is only available to you. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve our Web site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies.
+
+##### Notice of New Services and Changes
+
+Occasionally, we may also use the information we collect to notify you about important changes to our site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email.
