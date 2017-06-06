@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ask-angels.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214022359id_/http%3A//www.ask-angels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ask-angels.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606124558id_/http%3A//www.ask-angels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ask-Angels.com
 
@@ -36,7 +36,7 @@ Ask-Angels.com may provide links to third-party websites for your convenience an
 
 Ask-Angels.com website may gather information about your general internet use by using cookies. Where used, these cookies are downloaded to your computer automatically. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. Ask-Angels.com website uses “cookies” to help you personalize your online experience.
 
-Ask-Angels.com website may also gather information such as IP address, internal session ID, user’s domain, type of Internet browser, domain of Website. Such information will not identify you personally: it is statistical data about our visitors and their use of our site. This statistical data does not identify any personal details whatsoever.
+Ask-Angels.com website may also gather information such as IP address, internal session ID, user's domain, type of Internet browser, domain of Website. Such information will not identify you personally: it is statistical data about our visitors and their use of our site. This statistical data does not identify any personal details whatsoever.
 
 One of the primary purposes of cookies is to provide a convenience feature to save your time. The purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalize Ask-Angels.com pages, or register with Ask-Angels.com site or services, a cookie helps Ask-Angels.com to recall your specific information on subsequent visits. This simplifies the process of recording your personal information. When you return to the same Ask-Angels.com website, the information you previously provided can be retrieved, so you can easily use the Ask-Angels.com features that you customized.
 
