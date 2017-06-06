@@ -1,62 +1,84 @@
-<!--The following is the downloaded HTML source of the cringechannel.com privacy policy that was archived on 2016-10-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161019161202id_/http%3A//cringechannel.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cringechannel.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606164728id_/http%3A//cringechannel.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
-<!-- Meta Tags -->
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-995.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!d){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[y[n]];return f&&f.push([b,n,r,i]),i}}function p(e,t){w[e]=v(e).concat(t)}function v(e){return w[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var w={},y={},b={on:p,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a};return b}function i(){return new r}function a(){d=!0,s=p.backlog={}}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o(),d=!1;p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=b.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(w,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-995.min.js"},y=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),b=t.exports={offset:a(),origin:m,features:{},xhrWrappable:y};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+	<title>Privacy Policy | The Cringe Channel</title>
+	<meta http-equiv="Content-Language" content="en_US">
+	<meta http-equiv="imagetoolbar" content="no">
+	<meta property="fb:app_id" content="">
+	<link rel="stylesheet" data-them="" href="http://cringechannel.com/wp-content/themes/Arbitrage/style.css" type="text/css" media="all">
+	<link rel="stylesheet" href="http://cringechannel.com/wp-content/themes/Arbitrage/responsive.css" type="text/css" media="all">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+	<script type="text/javascript" async="" src="//cdn.kixer.com/ad/load.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.8&amp;appId=256298841476450"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+;(function($){
 
-<!-- Title, Keywords and Description -->
-<title>Privacy Policy | The Cringe Channel</title>
-<meta name="description" content="Our team here at Cringe Channel&nbsp;is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this ">
+  $.fn.customerPopup = function (e, intWidth, intHeight, blnResize) {
+    
+    // Prevent default anchor event
+    e.preventDefault();
+    
+    // Set values for window
+    intWidth = intWidth || '500';
+    intHeight = intHeight || '300';
+    strResize = (blnResize ? 'yes' : 'no');
 
-<link rel="pingback" href="http://cringechannel.com/xmlrpc.php">
-<link rel="”icon”" href="”The" cringe="" channel="" favicon.ico”="" type="”image/x-icon”">
-<link rel="”shortcut" icon”="" href="”The" cringe="" channel="" favicon.ico”="" type="”image/x-icon”">
-
-<!-- Styles ans Scripts -->
-<link href="http://fonts.googleapis.com/css?family=Arimo:400,700|Droid+Serif:400,700|Open+Sans:600,700" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="http://cringechannel.com/wp-content/themes/detube/style.css" type="text/css" media="all">
-
-<link rel="stylesheet" href="http://cringechannel.com/wp-content/themes/detube/responsive.css" type="text/css" media="all">
-<style type="text/css">#main{background:none;border-top:0;}</style>
-
-<script type="text/javascript">
-
-var themeSettings = {
-
-		infoToggle: 100,
-ajaxVideoForListLargeView: true,
-autoScrollForHomeFeatured: 2500,
-ajaxLoadForHomeFeatured: true
-
-	},
-
-	ajaxurl = 'http://cringechannel.com/wp-admin/admin-ajax.php',
-
-	ajaxerror = "Something\'s error. Please try again later!";
-
-</script>
-
-
-<!-- All in One SEO Pack 2.3.9.1 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+    // Set title and open popup with focus on it
+    var strTitle = ((typeof this.attr('title') !== 'undefined') ? this.attr('title') : 'Social Share'),
+        strParam = 'width=' + intWidth + ',height=' + intHeight + ',resizable=' + strResize,            
+        objWindow = window.open(this.attr('href'), strTitle, strParam).focus();
+  }
+  
+  /* ================================================== */
+  
+  $(document).ready(function ($) {
+    $('.box').on("click", function(e) {
+      $(this).customerPopup(e);
+    });
+  });
+    
+}(jQuery));
+</script>	
+<style>
+	.header, .footer, .widget-title, .search-field:focus, .header-nav ul li:hover > ul{background: #515151;}
+	h1, h3, .scroll .fa{color: #ffffff;}
+	h1, h3{color: #272727;}
+	.scroll .fa:hover{color: ;}
+	.header-nav a, .fa, .footer, .footer a, .logo-text, .search-field, .widget-title, .text_first, .text_second, .search-field:focus, .search-form ::-webkit-input-placeholder{color: #ffffff;}
+	.header-nav a:hover, .logo-text:hover{color: ; background: ;}
+	a{color: ;}
+	a:hover{color: ;}
+	.fa:hover{color: ;}
+	.logo-icon{background: ;}
+	.post-thumb, .post-thumb-small, .post-thumb-medium{background: ;}
+	.p-btn, .n-btn{background: ;}
+	.p-btn:hover, .n-btn:hover{background: ;}
+</style>	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script>
+$(window).scroll(function() {
+    if ($(this).scrollTop() > 50 ) {
+        $('.scrolltop:hidden').stop(true, true).fadeIn();
+    } else {
+        $('.scrolltop').stop(true, true).fadeOut();
+    }
+});
+$(function(){$(".scroll").click(function(){$("html,body").animate({scrollTop:$(".thetop").offset().top},"1000");return false})})
+</script>		
+<!-- All in One SEO Pack 2.3.12 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
 <meta name="description" content="Our team here at Cringe Channel&nbsp;is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have">
 
 <link rel="canonical" href="http://cringechannel.com/privacy-policy/">
 <!-- /all in one seo pack -->
 <link rel="dns-prefetch" href="//cringechannel.com">
-<link rel="dns-prefetch" href="//ajax.googleapis.com">
 <link rel="dns-prefetch" href="//maps.google.com">
 <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="alternate" type="application/rss+xml" title="The Cringe Channel » Feed" href="http://feeds.feedburner.com/cringechannel">
-<link rel="alternate" type="application/rss+xml" title="The Cringe Channel » Comments Feed" href="http://feeds.feedburner.com/cringechannel">
 <link rel="alternate" type="application/rss+xml" title="The Cringe Channel » Privacy Policy Comments Feed" href="http://cringechannel.com/privacy-policy/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/cringechannel.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6"}};
-			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://cringechannel.com/wp-includes/js/wp-emoji-release.min.js?ver=4.6" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/cringechannel.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://cringechannel.com/wp-includes/js/wp-emoji-release.min.js?ver=4.7" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -71,73 +93,70 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="bbpvotes-css" href="http://cringechannel.com/wp-content/plugins/bbpress-votes/_inc/css/bbpvotes.css?ver=1.1.0" type="text/css" media="all">
+<link rel="stylesheet" id="batch_css-css" href="http://cringechannel.com/wp-content/plugins/batchmove/css/batch.css?ver=4.7" type="text/css" media="all">
+<link rel="stylesheet" id="bbpvotes-css" href="http://cringechannel.com/wp-content/plugins/bbpress-votes/_inc/css/bbpvotes.css?ver=1.2.4" type="text/css" media="all">
 <link rel="stylesheet" id="font-awesome-css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=4.3.0" type="text/css" media="all">
-<link rel="stylesheet" id="bbp-default-css" href="http://cringechannel.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.10-6063" type="text/css" media="screen">
-<link rel="stylesheet" id="jquery-ui-css" href="http://cringechannel.com/wp-content/plugins/contact-form-maker/css/jquery-ui-1.10.3.custom.css?ver=4.6" type="text/css" media="all">
-<link rel="stylesheet" id="jquery-ui-spinner-css" href="http://cringechannel.com/wp-content/plugins/contact-form-maker/css/jquery-ui-spinner.css?ver=4.6" type="text/css" media="all">
-<link rel="stylesheet" id="form_maker_calendar-jos-css" href="http://cringechannel.com/wp-content/plugins/contact-form-maker/css/calendar-jos.css?ver=4.6" type="text/css" media="all">
-<link rel="stylesheet" id="form_maker_frontend-css" href="http://cringechannel.com/wp-content/plugins/contact-form-maker/css/form_maker_frontend.css?ver=4.6" type="text/css" media="all">
-<link rel="stylesheet" id="wprc-style-css" href="http://cringechannel.com/wp-content/plugins/report-content/static/css/styles.css?ver=4.6" type="text/css" media="all">
-<link rel="stylesheet" id="wp-postratings-css" href="http://cringechannel.com/wp-content/plugins/wp-postratings/postratings-css.css?ver=1.83" type="text/css" media="all">
-<link rel="stylesheet" id="wp-pagenavi-css" href="http://cringechannel.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
-<link rel="stylesheet" id="lazyload-style-css" href="http://cringechannel.com/wp-content/plugins/lazy-load-for-videos/css/min/style-lazyload.min.css?ver=4.6" type="text/css" media="all">
-<link rel="stylesheet" id="bp-style-css" href="http://cringechannel.com/wp-content/themes/detube/bp/bp-style.css?ver=4.6" type="text/css" media="all">
-<link rel="stylesheet" id="custom-style-css" href="http://cringechannel.com/wp-content/themes/detube/style.css?ver=4.6" type="text/css" media="all">
-<style id="custom-style-inline-css" type="text/css">
-#wp-admin-bar-site-name{display:none}
-</style>
-<link rel="stylesheet" id="d4p-bbtools-css" href="http://cringechannel.com/wp-content/plugins/gd-bbpress-tools/css/gd-bbpress-tools.css?ver=1.8_b1861_free" type="text/css" media="all">
-<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/intuitive-navigation/int-nav-script.js?ver=4.6"></script>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js?ver=4.6"></script>
+<link rel="stylesheet" id="bbp-default-css" href="http://cringechannel.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.12-6148" type="text/css" media="screen">
+<link rel="stylesheet" id="bp-legacy-css-css" href="http://cringechannel.com/wp-content/plugins/buddypress/bp-templates/bp-legacy/css/buddypress.min.css?ver=2.8.1" type="text/css" media="screen">
+<link rel="stylesheet" id="jquery-ui-css" href="http://cringechannel.com/wp-content/plugins/contact-form-maker/css/jquery-ui-1.10.3.custom.css?ver=4.7" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-ui-spinner-css" href="http://cringechannel.com/wp-content/plugins/contact-form-maker/css/jquery-ui-spinner.css?ver=4.7" type="text/css" media="all">
+<link rel="stylesheet" id="form_maker_calendar-jos-css" href="http://cringechannel.com/wp-content/plugins/contact-form-maker/css/calendar-jos.css?ver=4.7" type="text/css" media="all">
+<link rel="stylesheet" id="form_maker_frontend-css" href="http://cringechannel.com/wp-content/plugins/contact-form-maker/css/form_maker_frontend.css?ver=4.7" type="text/css" media="all">
+<link rel="stylesheet" id="wprc-style-css" href="http://cringechannel.com/wp-content/plugins/report-content/static/css/styles.css?ver=4.7" type="text/css" media="all">
+<link rel="stylesheet" id="wp-postratings-css" href="http://cringechannel.com/wp-content/plugins/wp-postratings/css/postratings-css.css?ver=1.84" type="text/css" media="all">
+<link rel="stylesheet" id="lazyload-style-css" href="http://cringechannel.com/wp-content/plugins/lazy-load-for-videos/css/min/style-lazyload.min.css?ver=4.7" type="text/css" media="all">
+<link rel="stylesheet" id="d4p-bbtools-css" href="http://cringechannel.com/wp-content/plugins/gd-bbpress-tools/css/gd-bbpress-tools.css?ver=1.9_b2144_free" type="text/css" media="all">
+<link rel="stylesheet" id="wordpress-popular-posts-css" href="http://cringechannel.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.3.4" type="text/css" media="all">
+<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/batchmove/js/batch.js?ver=4.7"></script>
+<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/intuitive-navigation/int-nav-script.js?ver=4.7"></script>
+<script type="text/javascript" src="http://cringechannel.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://cringechannel.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var bbpvotesL10n = {"ajaxurl":"http:\/\/cringechannel.com\/wp-admin\/admin-ajax.php","vote_up":"Vote up","vote_down":"Vote down","you_voted_up":"You voted up","you_voted_down":"You voted down"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/bbpress-votes/_inc/js/bbpvotes.js?ver=1.1.0"></script>
+<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/bbpress-votes/_inc/js/bbpvotes.js?ver=1.2.4"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var BP_Confirm = {"are_you_sure":"Are you sure?"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/buddypress/bp-core/js/confirm.min.js?ver=2.6.2"></script>
-<script type="text/javascript" src="https://maps.google.com/maps/api/js?v=3.exp&amp;key&amp;ver=4.6"></script>
-<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/contact-form-maker/js/if_gmap_front_end.js?ver=4.6"></script>
-<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/contact-form-maker/js/jelly.min.js?ver=4.6"></script>
-<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/contact-form-maker/js/file-upload.js?ver=4.6"></script>
-<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/contact-form-maker/js/calendar/calendar.js?ver=4.6"></script>
-<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/contact-form-maker/js/calendar/calendar_function.js?ver=4.6"></script>
+<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/buddypress/bp-core/js/confirm.min.js?ver=2.8.1"></script>
+<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/buddypress/bp-core/js/widget-members.min.js?ver=2.8.1"></script>
+<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/buddypress/bp-core/js/jquery-query.min.js?ver=2.8.1"></script>
+<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/buddypress/bp-core/js/vendor/jquery-cookie.min.js?ver=2.8.1"></script>
+<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/buddypress/bp-core/js/vendor/jquery-scroll-to.min.js?ver=2.8.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var BP_DTheme = {"accepted":"Accepted","close":"Close","comments":"comments","leave_group_confirm":"Are you sure you want to leave this group?","mark_as_fav":"Favorite","my_favs":"My Favorites","rejected":"Rejected","remove_fav":"Remove Favorite","show_all":"Show all","show_all_comments":"Show all comments for this thread","show_x_comments":"Show all comments (%d)","unsaved_changes":"Your profile has unsaved changes. If you leave the page, the changes will be lost.","view":"View"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/buddypress/bp-templates/bp-legacy/js/buddypress.min.js?ver=2.8.1"></script>
+<script type="text/javascript" src="https://maps.google.com/maps/api/js?v=3.exp&amp;key&amp;ver=4.7"></script>
+<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/contact-form-maker/js/if_gmap_front_end.js?ver=4.7"></script>
+<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/contact-form-maker/js/jelly.min.js?ver=4.7"></script>
+<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/contact-form-maker/js/file-upload.js?ver=4.7"></script>
+<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/contact-form-maker/js/calendar/calendar.js?ver=4.7"></script>
+<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/contact-form-maker/js/calendar/calendar_function.js?ver=4.7"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var fm_objectL10n = {"plugin_url":"http:\/\/cringechannel.com\/wp-content\/plugins\/contact-form-maker"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/contact-form-maker/js/main_div_front_end.js?ver=cfm-1.8.35"></script>
+<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/contact-form-maker/js/main_div_front_end.js?ver=cfm-1.8.40"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var wprcajaxhandler = {"ajaxurl":"http:\/\/cringechannel.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/report-content/static/js/scripts.js?ver=4.6"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var BP_Theme = {"my_favs":"My Favorites","accepted":"Accepted","rejected":"Rejected","show_all_comments":"Show all comments for this thread","show_all":"Show all","comments":"comments","close":"Close","view":"View"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://cringechannel.com/wp-content/themes/detube/bp/global.js?ver=20110818"></script>
-<script type="text/javascript" src="http://cringechannel.com/wp-content/themes/detube/js/modernizr.min.js?ver=2.6.1"></script>
-<script type="text/javascript" src="http://cringechannel.com/wp-content/themes/detube/js/jquery.easing.js?ver=1.3"></script>
-<script type="text/javascript" src="http://cringechannel.com/wp-content/themes/detube/js/jquery.plugins.min.js?ver=1.0"></script>
-<script type="text/javascript" src="http://cringechannel.com/wp-content/themes/detube/js/jquery.jplayer.min.js?ver=2.1.0"></script>
-<script type="text/javascript" src="http://cringechannel.com/wp-content/themes/detube/js/jquery.jcarousel.js?ver=1.0.1"></script>
-<script type="text/javascript" src="http://cringechannel.com/wp-content/themes/detube/js/theme.js?ver=1.0"></script>
-<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/chat/js/jquery-cookie.js?ver=4.6"></script>
+<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/report-content/static/js/scripts.js?ver=4.7"></script>
+<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/chat/js/jquery-cookie.js?ver=4.7"></script>
 <script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/chat/js/soundmanager2-nodebug-jsmin.js?ver=1.0.8.5"></script>
 <link rel="https://api.w.org/" href="http://cringechannel.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://cringechannel.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cringechannel.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.6">
+<meta name="generator" content="WordPress 4.7">
 <link rel="shortlink" href="http://cringechannel.com/?p=261593">
 <link rel="alternate" type="application/json+oembed" href="http://cringechannel.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcringechannel.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://cringechannel.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcringechannel.com%2Fprivacy-policy%2F&amp;format=xml">
@@ -147,254 +166,449 @@ var BP_Theme = {"my_favs":"My Favorites","accepted":"Accepted","rejected":"Rejec
                 quote_method: "bbcode",
                 quote_wrote: "wrote",
                 bbpress_version: 25,
-                wp_version: 46,
+                wp_version: 47,
                 wp_editor: 1            };
             /* ]]> */
         </script>
 	<script type="text/javascript">var ajaxurl = 'http://cringechannel.com/wp-admin/admin-ajax.php';</script>
 
-<link rel="stylesheet" href="http://cringechannel.com/wp-content/plugins/chat/css/style.css" type="text/css"><style type="text/css">.main-nav .menu>li.current-menu-item>a { border-top: 3px solid #CE0A00; } .home-featured .nav li.active .inner { border-left: 4px solid #CE0A00; } .main-nav ul ul li.current-menu-item>a { border-left: 3px solid #CE0A00; } .item .stats { height: 25px; } .page-template-template-home-php .stats, .page-template-template-home-php .meta, .category .item .stats, .fur .item .stats, .fur .item .meta, .single-post .item .stats, .tag .item .stats, .widget .item .meta { height: 13px; } .page-template-template-home-php .grid-medium .dent {display:inline-block !important} .fur .dent, .single-post .dent, .tag .dent, .widget .dent {display:none !important}</style><meta property="og:site_name" content="The Cringe Channel">
-<meta property="og:type" content="article">
-<meta property="og:url" content="http://cringechannel.com/privacy-policy/">
-<meta property="og:title" content="Privacy Policy | The Cringe Channel">
-<meta property="og:description" content="Our team here at Cringe Channel&nbsp;is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this ">
-<style type="text/css">.titletext.youtube { display: none; }</style><script src="http://xch.directrev.com/js/gb.min.js?s=S0010199"></script>
+<link rel="stylesheet" href="http://cringechannel.com/wp-content/plugins/chat/css/style.css" type="text/css"><meta property="fb:app_id" content="256298841476450">			<meta property="fb:pages" content="1469919536589860">
+			    <style type="text/css" id="article_font-size" media="screen">
+         body, .single a, .post-content p, .page-content p, .entry-content, blockquote cite{
+          font-size: 16px !important;
+        }
+      </style>
+        <style type="text/css" id="h2_font-size" media="screen">
+	     .post-title h2, .sidebar h4{
+          font-size: 18px !important;
+        }
+      </style>
+        <style type="text/css" id="menu_item_font-size" media="screen">
+	     .header-nav a{
+          font-size: 13px !important;
+        }
+      </style>
+    				<!-- WordPress Popular Posts v3.3.4 -->
+				<script type="text/javascript">
 
-<script src="http://ads.contextweb.com/ii.js"></script>
-<script>
-var config = {
-publisherId: 560123,
-visibilityThreshold:10,
-aspect:25,
-blacklist: [],
-tags: [
-{ size: '300X250', id: 479412},
-{ size: '320X50', id: 479413},
-{ size: '728X90', id: 479415},
-{ size: '160X600', id: 479417},
-{ size: '120X600', id: 479418}
-],
-vmUrl: 'https://bh.contextweb.com/visitormatch'
-};
-var inImg = new PulsePointInImg(config).init();
-</script><meta name="google-site-verification" content="TNO_VwyBqVHZT4zIw3L-cA7tzOWNgh1RJJ-kORrJwMo">
-<!-- Generated CSS BEGIN -->
-<style type="text/css">
-body{background:#E9DBCD}
-</style>
-<!-- Generated CSS END -->
-<script type="text/javascript" src="http://cringechannel.com/wp-content/themes/detube/js/scdd.js"></script>
+					var sampling_active = 0;
+					var sampling_rate   = 100;
+					var do_request = false;
 
+					if ( !sampling_active ) {
+						do_request = true;
+					} else {
+						var num = Math.floor(Math.random() * sampling_rate) + 1;
+						do_request = ( 1 === num );
+					}
 
-<script>
-jQuery(function() {
-	jQuery('#site-logo').attr('href', 'http://cringechannel.com/');
-	jQuery('#site-logo img').attr('src', 'http://cringechannel.com/wp-content/uploads/2015/05/cringe16small2.png');
-});
-</script>
-<style>
-/* Styles by Singh Satnam - http://www.fiverr.com/sarvankarthik6 */
+					if ( do_request ) {
+
+						/* Create XMLHttpRequest object and set variables */
+						var xhr = ( window.XMLHttpRequest )
+						  ? new XMLHttpRequest()
+						  : new ActiveXObject( "Microsoft.XMLHTTP" ),
+						url = 'http://cringechannel.com/wp-admin/admin-ajax.php',
+						params = 'action=update_views_ajax&token=193232bd53&wpp_id=261593';
+						/* Set request method and target URL */
+						xhr.open( "POST", url, true );
+						/* Set request header */
+						xhr.setRequestHeader( "Content-type", "application/x-www-form-urlencoded" );
+						/* Hook into onreadystatechange */
+						xhr.onreadystatechange = function() {
+							if ( 4 === xhr.readyState && 200 === xhr.status ) {
+								if ( window.console && window.console.log ) {
+									window.console.log( xhr.responseText );
+								}
+							}
+						};
+						/* Send request */
+						xhr.send( params );
+
+					}
+
+				</script>
+				<!-- End WordPress Popular Posts v3.3.4 -->
+				<style type="text/css">.titletext.youtube { display: none; }</style>		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
 body {
-background: #ddd;
-}
-#header {
-background: #515151;
-}
-.main-nav {
-background: #444;
-border-top: 5px solid #4a4a4a;
-border-bottom: 5px solid 3e3e3e;
-}
-.random, .random:hover{
-	color:#FFF;
-	text-shadow:0 -1px 0 rgba(0,0,0,0.25);
-  margin-bottom: 10px;
-}
-#randomPosts {
-text-align: center;
-width: 1200px;
-left: -46%;
-position: relative;
-}
-.main-nav .menu>li.current-menu-item>a {
-border: none;
-background: #3e3e3e;
-}
-.main-nav .menu>li, .main-nav .menu {
-background: none;
-}
-.section-box {
-background: transparent;
-}
-.home-page .section-box {
-background: #eee;
-}
-.section-content, .section-title {
-padding: 1em;
-box-sizing: border-box;
-}
-.grid-medium .item {
-width: 45%;
-}
-.grid-medium .thumb {
-width: 100%;
+	background: #f4f4f4;
+	margin-top: -100px;
 }
 
-button, .button, .btn, input[type=submit], input[type=button], input[type=reset] {
-background: #4ca363;
-border: none;
-box-shadow: 0 3px 0 #3c804e;
-}
-button:hover, .button:hover, .btn:hover, input[type=submit]:hover, input[type=button]:hover, input[type=reset]:hover {
-background: #49b365;
+.wrapper { 
+	padding-top: 100px;
+	background: rgba(209, 209, 209, .8);
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
 
-.btn.btn-red {
-background: #d15c5c;
-box-shadow: 0 3px 0 #c33737;
+.content-wrapper {
+    width: 70%;
+    float: left;
 }
 
-.loop-actions {
-padding-top: 0;
-height: auto;
-overflow: hidden;
-border-top: 0;
-box-shadow: none;
--webkit-box-shadow: none;
-padding-bottom: 2em;
-}
-.loop-actions .orderby {
-background: #4ca363;
-border: none;
-height: 31px;
-border-top-left-radius: 2px;
-border-top-right-radius: 2px;
-}
-.orderby a {
-color: white !important;
-text-shadow: none;
-padding: 5px 10px;
-border-right: 1px solid #3c804e;
-box-shadow: 0 3px 0 #3c804e;
-}
-.orderby a:last-of-type {
-border: 0;
-}
-.loop-actions .sep {
-display: none;
-}
-.loop-actions div, .loop-actions span {
-height: auto;
-overflow: visible;
-}
-.grid-mini .item {
-width: 21%;
-}
-/* Styles by Singh Satnam - http://www.fiverr.com/sarvankarthik6 */
-
-.socialIcons {
-	float: right;
-	margin: 3px 18px 0 0;
+.header {
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    border-bottom: none;
 }
 
-.socialIcons a {
+.header, .header-nav a {	
+	height: 50px;
+	color: #eee;	
+	line-height: 50px
+}
+
+.header-nav a {
+	padding: 0 8px;
+}
+
+.header-right {
+    float: right;
+    width: 175px;
+    height: 50px;
+    position: relative;
+}
+
+.header-nav a:hover, .logo-text:hover {
+    background: transparent;
+    color: #4a9f56;
+    text-shadow: 0 -1px 0 #000;
+}
+
+.sub-menu li a {
+    height: 25px;
+    line-height: 20px;
+	color: #515151;
+}
+
+.header-right {
+    float: right;
+    width: 150px;
+    height: 50px;
+    position: relative;
+}
+
+.fa.fa-search {
+	font-size: 20px !important;
+}
+
+.fa:hover {
+    color: #4a9f56 !important;
+}
+
+.search-field:focus {
+    background: #eee;
+    box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
+}
+
+.search-field, .search-field:focus, .search-form ::-webkit-input-placeholder {
+	color: #515151;
+}
+
+.fa:hover {
+    color: #aaa;
+}
+
+.header-post-nav {
+    display: none;
+}
+
+.fa-2x {
+    font-size: 22px !important;
+    line-height: 55px !important;
+    height: 50px;
+    width: 35px;
+    padding: 0;
+    margin: 0;
+}
+
+#menu-footer li a {
+    font-size: 14px;
+}
+
+.footer-nav li {
+    float: right;
+    line-height: 70px;
+    padding: 0px 0 0 10px;
+}
+
+.post-content a {
+	color: #272727;
+}
+
+a:hover {
+    color: #4A9F56;
+}
+
+.sidebar li {
+    padding: 0 0 20px 0;
+}
+
+.sidebar li a {
+    padding: 0px;
 	display: inline-block;
-	margin: 0 8px;
+    margin-bottom: 5px;
 }
 
-.socialIcons img:hover {
-	background: #3C804E;
+.widget-title {
+    margin-bottom: 20px;
 }
 
-.wprc-container .wprc-switch{
-    float: left !important;
+.widget-title a {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
 }
 
-.wprc-container {
-margin-top:0;
+.widget-title a:hover {
+    color: #4A9F56;
 }
 
-body.category #randomPosts .adsbygoogle {
- 	margin: 0 auto;
-}
-.section-box.featured-posts {
-	display: none;
-}
-.section-box.featured-posts img {
-    max-height: 180px;
-    max-width: 300px;
-    vertical-align: top;
+.post-thumb img {
+	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+	will-change: opacity, transform;
+    transition: all .3s ease-out;
 }
 
-.section-box.featured-posts img.avatar{
- vertical-align: middle;
+.post-thumb img:hover {
+	box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
 }
 
-.section-box.featured-posts img.bbp-author-avatar {
-height: 128px !important;
-width: 128px !important;
-border: 1px solid #DDD;
-box-shadow: 0px 0px 3px #D7D7D7;
+.post-title, .post-thumb-medium h4, .post-thumb {
+    color: #272727;
+    text-align: center;
+	width: 100%;
+    z-index: 1;
+    will-change: opacity, transform;
+    transition: all .2s ease-out;
 }
-</style>
 
-<script async="" type="text/javascript" src="//cringechannel.disqus.com/count.js"></script></head>
+.sidebar li a {
+    z-index: 1;
+    will-change: opacity, transform;
+    transition: all .2s ease-out;
+	text-align: left !important;
+}
 
+.post-title:hover, .post-thumb-medium h4:hover, .sidebar li a:hover, .post-thumb:hover {
+	color: #4a9f56;
+}
 
+.post {
+    width: 25%;
+    height: 215px;
+    position: relative;
+    display: inline-block;
+    float: left;
+    padding: 1% 4%;
+    text-align: left;
+    margin-bottom: 5px;
+    margin: 8px auto;
+}
 
-<body class="page page-id-261593 page-template-default full-wrap">
+.post-thumb {
+    width: 100%;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
 
-<div id="page">
+.header-nav .sub-menu li a:hover {
+    text-shadow: none;
+}
 
+.header-nav ul ul li {
+	border: none;
+}
 
-<header id="header"><div class="wrap cf">
-	<div id="branding" class="image-branding" role="banner">
-		<h1 id="site-title"><a rel="home" href="http://cringechannel.com">The Cringe Channel</a></h1><a id="site-logo" rel="home" href="http://cringechannel.com"><img src="http://www.cringechannel.com/wp-content/uploads/2015/05/cringe16small2.png"></a>		<h2 id="site-description">Your Daily Dose of Mental Anguish.</h2>
-	</div><!-- end #branding -->
-	
-			<div id="login-nav" class="user-nav">
-			<a class="btn btn-red register-link" href="http://cringechannel.com/wp-login.php?action=register">Sign up</a>
+.header-nav ul li:hover > ul {
+    background: #eee;
+    color: #fff;
+    box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
+}
+
+.scroll .fa {
+	color: rgba(0,0,0,.7) !important;
+}
+
+.scroll .fa:hover {
+    color: rgba(0,0,0,.4) important;
+}
+
+#comments {
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.random-posts-widget-top {
+    width: 204px;
+    height: 150px;
+}
+
+.post-thumb-small {
+	height: 150px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    z-index: 1;
+    transition: all .3s ease-out;
+}
+
+.post-thumb-small:hover {
+    box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
+}
+
+.random-container-top h4 {
+    background: linear-gradient( to bottom, rgba(0, 0, 0, 0), rgba(81, 81, 81, 0.9) );
+    color: #fcfcfc;
+	bottom: 20px;
+}
+
+.random-container-bottom h4 {
+	text-align: center;
+}
+
+.random-posts-widget-top img {
+    height: 150px;
+}
+
+.awesome-social {
+    margin-top: 0px;
+	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+.no-thumb {
+    line-height: 44px;
+    font-size: 22px;
+    vertical-align: middle;
+}
+
+.page-title {
+    text-align: left;
+    width: 98%;
+    display: inline-block;
+    padding-left: 15px;
+    font-size: 1.7em;
+	color: #272727;
+	text-shadow: none;
+}
+
+.banner-ad-block {
+	padding-left: 5px;
+}
+
+.post-title {
+    margin-top: 40px;
+}
+
+.home-post .post-thumb {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    z-index: 1;
+    padding-bottom: 56.25%;
+    position: relative;
+	background: transparent;
+}
+
+.home-post .post-thumb img {
+    width: 100%;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+
+.post-title h2 {
+    line-height: 18px;
+	float:none;
+}
+
+.home-content .sidebar {
+	margin: 0px;
+}
+
+.footer {
+	font-size: 14px;
+}
+
+.footer a {
+    font-size: 14px;
+}
+
+.post-thumb-medium {
+    width: 300px;
+    height: 300px;
+}
+
+.random-posts-widget-sidebar img {
+    width: 300px;
+    height: 300px;
+}
+
+#category-select {
+    position: relative;
+    float: left;
+    margin: 6px 15px;
+    overflow: hidden;
+    display: none;
+}		</style>
+	<meta property="fb:pages" content="1469919536589860">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-39558140-1', 'auto');
+  ga('send', 'pageview');
+
+</script>	<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+	<link rel="stylesheet" href="http://cringechannel.com/wp-content/themes/Arbitrage/functions/font-awesome/css/font-awesome.min.css">
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=256298841476450";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+	<div class="thetop"></div>
+	<div class="scrolltop" style="z-index:999999;">
+	    <div class="scroll icon"><i class="fa fa-4x fa-arrow-circle-up"></i></div>
+	</div>
+	<div class="header">
+		<div class="header-container">
 				
-			<div class="dropdown">
-				<a class="dropdown-handle btn btn-black login-link" href="http://cringechannel.com/wp-login.php">Log In</a>
-					
-				<div class="dropdown-content"><div class="dropdown-content-inner">
-					
-		<form name="loginform" id="loginform" action="http://cringechannel.com/wp-login.php" method="post">
-			
-			<p class="login-username">
-				<label for="user_login">Username or Email</label>
-				<input type="text" name="log" id="user_login" class="input" value="" size="20">
-			</p>
-			<p class="login-password">
-				<label for="user_pass">Password</label>
-				<input type="password" name="pwd" id="user_pass" class="input" value="" size="20">
-			</p>
-			<a class="lost-password" href="http://cringechannel.com/wp-login.php?action=lostpassword">Lost password?</a>
-			<p class="login-remember"><label><input name="rememberme" type="checkbox" id="rememberme" value="forever"> Remember Me</label></p>
-			<p class="login-submit">
-				<input type="submit" name="wp-submit" id="wp-submit" class="button-primary" value="Log In">
-				<input type="hidden" name="redirect_to" value="http://cringechannel.com/privacy-policy/">
-			</p>
-			
-		</form>				</div></div>
-			</div>
-		</div><!-- end #login-nav -->
-		
-		<div id="top-search">
-		
-<div class="searchform-div">
-	<form method="get" class="searchform" action="http://cringechannel.com/">
-		<div class="search-text-div"><input type="text" name="s" class="search-text" value="" placeholder="Search..."></div>
-		<div class="search-submit-div btn"><input type="submit" class="search-submit" value="Search"></div>
-	</form><!--end #searchform-->
-</div>	</div><!-- end .top-search -->
-		
-</div>
-</header><!-- end #header-->
+	<a href="http://cringechannel.com/" title="The Cringe Channel" rel="home">
+    	<div class="logo-image">
+        	<img src="http://cringechannel.com/wp-content/uploads/2015/05/cringe16small2.png" alt="The Cringe Channel">
+        </div>
+    </a>
 
-<div class="main-nav"><div class="wrap cf">
-	<ul id="menu-main" class="menu"><li id="menu-item-176" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-176"><a href="http://www.cringechannel.com/">Home</a></li>
+				<div class="header-left">
+					<div class="header-nav"><ul id="menu-main" class="menu"><li id="menu-item-176" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-176"><a href="http://www.cringechannel.com/">Home</a></li>
 <li id="menu-item-8237" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8237"><a title="Browse " href="http://www.cringechannel.com/cringe-categories/">Browse</a>
 <ul class="sub-menu">
 	<li id="menu-item-10662" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10662"><a href="http://www.cringechannel.com/category/cringe-channel-2/">All</a></li>
@@ -420,33 +634,75 @@ box-shadow: 0px 0px 3px #D7D7D7;
 <li id="menu-item-248645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248645"><a href="http://cringechannel.com/chat/">Chat</a></li>
 <li id="menu-item-10655" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10655"><a href="http://www.cringechannel.com/mynetwork/">Cringe Network</a>
 <ul class="sub-menu">
-	<li id="menu-item-10657" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10657"><a href="http://www.cringechannel.com/my-likes/">My Likes</a></li>
-	<li id="menu-item-10659" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10659"><a href="http://www.cringechannel.com/members/admin/friends/">Friends</a></li>
-	<li id="menu-item-10661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10661"><a href="http://www.cringechannel.com/members/admin/profile/">Profile</a></li>
+	<li id="menu-item-265226" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-265226"><a href="/register">Register</a></li>
+	<li id="menu-item-265617" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-265617"><a href="/wp-login.php">Login</a></li>
 </ul>
 </li>
-</ul><!-- Start: Social Media Icons -->
-<div class="socialIcons">
-	<a target="_blank" href="https://www.facebook.com/cringechannel">
-		<img src="/wp-content/themes/detube/images/facebook.png">
-	</a>
-	<a target="_blank" href="http://the-cringe-channel.tumblr.com/">
-		<img src="/wp-content/themes/detube/images/tumblr.png">
-	</a>
-</div>
-<!-- End: Social Media Icons -->
-</div></div><!-- end .main-nav -->
-
-
-<div id="main"><div class="wrap cf">
-
-	<div id="content" role="main">
-	
-				<div class="post-261593 page type-page status-publish hentry" id="post-261593">
-			<h1 class="page-title">Privacy Policy</h1>
-
-			<div class="page-content rich-content">
-				<p>Our team here at Cringe Channel&nbsp;is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.</p>
+</ul></div>				</div>
+				
+				<form id="category-select" class="category-select" action="http://cringechannel.com/" method="get">
+				    <!-- font icon-->
+					<div class="fa fa-bars"></div>
+					<!-- select dropdown -->
+																									<select name="cat" id="cat" class="postform" onchange="return this.form.submit()">
+	<option class="level-0" value="2065">All Pictures</option>
+	<option class="level-0" value="2064">All Videos</option>
+	<option class="level-0" value="5486">All-Time Best</option>
+	<option class="level-0" value="8227">Articles</option>
+	<option class="level-0" value="466">Atheism, religion and the supernatural</option>
+	<option class="level-0" value="464">Betas and love</option>
+	<option class="level-0" value="467">Bronies, Furries and Cosplayers</option>
+	<option class="level-0" value="468">Celebrities and TV</option>
+	<option class="level-0" value="470">Comedy: Harder than it looks</option>
+	<option class="level-0" value="469">Creepy</option>
+	<option class="level-0" value="2019">Cringe Channel</option>
+	<option class="level-0" value="5084">Cringe Comics</option>
+	<option class="level-0" value="10">Cringe Pictures</option>
+	<option class="level-0" value="11">Cringe Videos</option>
+	<option class="level-0" value="3784">Extreme Feminism</option>
+	<option class="level-0" value="8224">Funny</option>
+	<option class="level-0" value="12">Gift Shop</option>
+	<option class="level-0" value="460">Music and dance</option>
+	<option class="level-0" value="428">News</option>
+	<option class="level-0" value="472">Obnoxious or really stupid</option>
+	<option class="level-0" value="8225">OMG</option>
+	<option class="level-0" value="461">Pathetic and depressing</option>
+	<option class="level-0" value="1842">Rage Inducing</option>
+	<option class="level-0" value="8226">Shocking</option>
+	<option class="level-0" value="2153">Strange people</option>
+	<option class="level-0" value="14">Text</option>
+	<option class="level-0" value="462">The Fit, The Bad and The Sexy</option>
+	<option class="level-0" value="1">Uncategorized</option>
+	<option class="level-0" value="13">Websites</option>
+</select>
+					<!-- input fallback -->
+					<noscript>
+						<input type="submit" value="View" />
+					</noscript>
+				</form>
+				
+				<div class="header-right">		
+					<!---->
+					<div class="search-form">	
+						<form role="search" method="get" class="search-form" action="http://cringechannel.com/">
+	<label>
+		<div class="fa fa-search" style="content:'';top:30px;right:5px;font-size:35px;z-index:1000;position: absolute;cursor:pointer;">
+		</div>
+		<input type="search" class="search-field" placeholder="Search Site..." value="" name="s" title="Search">
+	</label>
+	<input type="submit" class="search-submit" value="Search">
+</form>					</div>
+				</div>
+		</div>
+    </div>
+<div class="clear"></div>
+<div class="wrapper">	<div class="post-content">
+			<div class="single-title">
+			<h1><span>Privacy Policy</span></h1>
+		</div>
+		<div class="clear"></div>
+		<div class="single">
+			<p>Our team here at Cringe Channel&nbsp;is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.</p>
 <div id="advads-1494438467" class="advads-300x250"></div>
 <p><strong>General</strong><br>
 Our users are free to visit and enjoy our content at no personal obligation; users can exit the site whenever they so choose and do not need to reveal any personal information about themselves. There are some services offered that users may want to take advantage of, and it’s possible they will be required to disclose some personal information, including but not limited to, their first and last name, home address, email address, telephone numbers and birthday. It is also possible that other information will be collected on other applicable pages within our sites. If any users do choose to submit information to us directly or to a third party via our site, they can be assured that we will never sell or lease their personal information except;</p>
@@ -454,7 +710,7 @@ Our users are free to visit and enjoy our content at no personal obligation; use
 <p>2.&nbsp;to third party service providers we have partnered with so we may provide services our users requested</p>
 <p>3.&nbsp;following a notice posted on a relevant page on our site that collects personal information following a transaction that notifies the user and discloses the purchase</p>
 <p>&nbsp;</p>
-<p>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:&nbsp;<a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">http://www.networkadvertising.<wbr>org/managing/opt_out.asp</a></p>
+<p>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:&nbsp;<a target="_blank" href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.<wbr>org/managing/opt_out.asp</a></p>
 <div></div>
 <p><strong>Cookies</strong><br>
 To make our content and site as a whole as relevant as possible, we will collect information that identifies your browser type, user agent, IP address or other information. We will never track and store any personally identifiable information. We are able to do this by placing small files or cookies on your computer when you browser through our sites. Cookies are simply small pieces of data that include an anonymous unique identifier that travels to your browser and is stored on your hard drive. Users have the ability to delete and/or clear cookies whenever they so choose, and cookies in no way cause any damage to a computer. They simply enable a more efficient, relevant browsing experience.</p>
@@ -468,213 +724,80 @@ Federal law mandates that we cannot collect any personally identifiable informat
 <p><strong>Advertising</strong></p>
 <p>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,&nbsp;http://www.networkadvertising.org/managing/opt_out.asp</p>
 </div>
-							</div>
-		</div><!--end .hentry-->
-				
-	</div><!--end #content-->
+		</div>	
+					</div> 
 	
-	
-
-<div id="sidebar" role="complementary">
-	<div id="text-2" class="widget widget_text"><div class="widget-header"><h3 class="widget-title">WHAT IS THIS PLACE?</h3></div>			<div class="textwidget"><p>THE <strong>CRINGE</strong> CHANNEL [krinj chan-l]<br>
+<div class="sidebar">	
+					<div class="clear"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="https://www.facebook.com/cringechannel" width="292" show_faces="true" border_color="AAAAAA" stream="false" header="true"></fb:like-box><div class="clear"></div>			<div class="textwidget"><!-- Start CringeChannel - 300x250  Unit -->
+<div id="__kx_ad_8315"></div>
+<script type="text/javascript" language="javascript">
+var __kx_ad_slots = __kx_ad_slots || [];
+(function () {
+	var slot = 8315;
+	var h = false;
+	__kx_ad_slots.push(slot);
+		if (typeof __kx_ad_start == 'function') {
+		__kx_ad_start();
+	} else {
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.async = true;
+		s.src = '//cdn.kixer.com/ad/load.js';
+		s.onload = s.onreadystatechange = function(){
+			if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+				h = true;
+				s.onload = s.onreadystatechange = null;
+				__kx_ad_start();
+			}
+		};
+		var x = document.getElementsByTagName('script')[0];
+		x.parentNode.insertBefore(s, x);
+	}
+})();
+</script>
+<!-- End CringeChannel - 300x250  Unit --></div>
+		<div class="clear"></div><h3 class="widget-title">WHAT IS THIS PLACE?</h3>			<div class="textwidget"><p>THE <strong>CRINGE</strong> CHANNEL [krinj chan-l]<br>
 Noun.<br>
 1.	The ultimate collection of awkward, funny, embarrassing and cringe worthy content; including, but not limited to, videos, pictures,  and forums.<br>
 2.	A specific genre of comedy, where the intent is to make you uncomfortable rather than make you laugh.<br>
 3.	Your daily dose of mental anguish. </p>
 </div>
-		</div><div id="bbp_topics_widget-3" class="widget widget_display_topics"><div class="widget-header"><h3 class="widget-title">Recent Topics</h3></div>
-		<ul>
-
-			
-				<li>
-					<a class="bbp-forum-title" href="http://cringechannel.com/forums/topic/lindsey-pelas/">Lindsey Pelas</a>
-
-					
-						by <span class="topic-author"><a href="http://cringechannel.com/members/failarmy/" title="View failarmy's profile" class="bbp-author-avatar" rel="nofollow"><img src="//www.gravatar.com/avatar/ab08daf55fc5cc77e9336384f58400a7?s=14&amp;r=pg&amp;d=mm" class="avatar user-10756-avatar avatar-14 photo" width="14" height="14" alt="Profile photo of failarmy"></a>&nbsp;<a href="http://cringechannel.com/members/failarmy/" title="View failarmy's profile" class="bbp-author-name" rel="nofollow">failarmy</a></span>
-					
-					
-						<div>21 hours, 8 minutes ago</div>
-
-					
-				</li>
-
-			
-				<li>
-					<a class="bbp-forum-title" href="http://cringechannel.com/forums/topic/prap-pen-pineapple-apple-pen-slow-motion-cover-2/">PRAP Pen Pineapple Apple Pen ( Slow Motion Cover)</a>
-
-					
-						by <span class="topic-author"><a href="http://cringechannel.com/members/failarmy/" title="View failarmy's profile" class="bbp-author-avatar" rel="nofollow"><img src="//www.gravatar.com/avatar/ab08daf55fc5cc77e9336384f58400a7?s=14&amp;r=pg&amp;d=mm" class="avatar user-10756-avatar avatar-14 photo" width="14" height="14" alt="Profile photo of failarmy"></a>&nbsp;<a href="http://cringechannel.com/members/failarmy/" title="View failarmy's profile" class="bbp-author-name" rel="nofollow">failarmy</a></span>
-					
-					
-						<div>21 hours, 13 minutes ago</div>
-
-					
-				</li>
-
-			
-				<li>
-					<a class="bbp-forum-title" href="http://cringechannel.com/forums/topic/prap-pen-pineapple-apple-pen-slow-motion-cover/">PRAP Pen Pineapple Apple Pen ( Slow Motion Cover)</a>
-
-					
-						by <span class="topic-author"><a href="http://cringechannel.com/members/failarmy/" title="View failarmy's profile" class="bbp-author-avatar" rel="nofollow"><img src="//www.gravatar.com/avatar/ab08daf55fc5cc77e9336384f58400a7?s=14&amp;r=pg&amp;d=mm" class="avatar user-10756-avatar avatar-14 photo" width="14" height="14" alt="Profile photo of failarmy"></a>&nbsp;<a href="http://cringechannel.com/members/failarmy/" title="View failarmy's profile" class="bbp-author-name" rel="nofollow">failarmy</a></span>
-					
-					
-						<div>21 hours, 14 minutes ago</div>
-
-					
-				</li>
-
-			
-		</ul>
-
-		</div><div id="dp-comments-3" class="widget widget-comments"><div class="widget-header"><h3 class="widget-title">Recent Comments</h3></div><ul><li><div class="data"><span class="author"><a href="http://cringechannel.com/2016/08/29/picture-if-it-makes-it-less-sweet/comment-page-1/#comment-142606">BeerusIsMyWaifu</a></span> <span class="date">1 month ago</span>  <p class="excerpt">Blew an overly large penis?</p></div></li><li><div class="data"><span class="author"><a href="http://cringechannel.com/2016/08/29/picture-dealing-with-twitch-girls/comment-page-1/#comment-142605">BeerusIsMyWaifu</a></span> <span class="date">1 month ago</span>  <p class="excerpt">Food for thought: according to this faggot's one-sided argument, men also hav...</p></div></li><li><div class="data"><span class="author"><a href="http://cringechannel.com/2016/08/29/picture-getting-discharged-today/comment-page-1/#comment-142604">BeerusIsMyWaifu</a></span> <span class="date">1 month ago</span>  <p class="excerpt">Ah yeah, no birth certificate. Thug life is the /only/ life for my kids!</p></div></li><li><div class="data"><span class="author"><a href="http://cringechannel.com/2016/08/29/picture-if-it-makes-it-less-sweet/comment-page-1/#comment-142603">chan ngo</a></span> <span class="date">1 month ago</span>  <p class="excerpt">MALFUNCTION</p></div></li><li><div class="data"><span class="author"><a href="http://cringechannel.com/2016/08/28/picture-swedens-twitter-account-part-2/comment-page-1/#comment-142602">chan ngo</a></span> <span class="date">1 month ago</span>  <p class="excerpt">YOUR SITE IS FUCKED</p></div></li></ul></div><div id="bbp_replies_widget-4" class="widget widget_display_replies"><div class="widget-header"><h3 class="widget-title">Recent Replies</h3></div>
-		<ul>
-
-			
-				<li>
-
-					<a href="http://cringechannel.com/members/gotyabeauty/" title="View Got ya beauty's profile" class="bbp-author-avatar" rel="nofollow"><img src="http://cringechannel.com/wp-content/uploads/avatars/10366/c125f2d337e6068cf2cde77e96b925d2-bpthumb.jpg" class="avatar user-10366-avatar avatar-14 photo" width="14" height="14" alt="Profile photo of Got ya beauty"></a>&nbsp;<a href="http://cringechannel.com/members/gotyabeauty/" title="View Got ya beauty's profile" class="bbp-author-name" rel="nofollow">Got ya beauty</a> on <a class="bbp-reply-topic-title" href="http://cringechannel.com/forums/topic/bitch-wants-to-de-colonize-science/#post-264764" title="Where’s the video?
-Why can’t i watch …">Bitch wants to De-colonize Science</a> <div>1 day, 5 hours ago</div>
-				</li>
-
-			
-				<li>
-
-					<a href="http://cringechannel.com/members/andy-chan/" title="View amy's profile" class="bbp-author-avatar" rel="nofollow"><img src="http://cringechannel.com/wp-content/uploads/avatars/8995/57f96eb4324f2-bpthumb.jpg" class="avatar user-8995-avatar avatar-14 photo" width="14" height="14" alt="Profile photo of amy"></a>&nbsp;<a href="http://cringechannel.com/members/andy-chan/" title="View amy's profile" class="bbp-author-name" rel="nofollow">amy</a> on <a class="bbp-reply-topic-title" href="http://cringechannel.com/forums/topic/sjws-assault-someone-at-a-rally/#post-264763" title="Shadow wrote:
-If you had dyed hair or any sort of…">SJWs assault someone at a rally</a> <div>1 day, 9 hours ago</div>
-				</li>
-
-			
-				<li>
-
-					<a href="http://cringechannel.com/members/andy-chan/" title="View amy's profile" class="bbp-author-avatar" rel="nofollow"><img src="http://cringechannel.com/wp-content/uploads/avatars/8995/57f96eb4324f2-bpthumb.jpg" class="avatar user-8995-avatar avatar-14 photo" width="14" height="14" alt="Profile photo of amy"></a>&nbsp;<a href="http://cringechannel.com/members/andy-chan/" title="View amy's profile" class="bbp-author-name" rel="nofollow">amy</a> on <a class="bbp-reply-topic-title" href="http://cringechannel.com/forums/topic/discord-for-the-cringe-channel-site/#post-264747" title="I’m not one hundred percent sure what disco…">Discord for the cringe channel site?</a> <div>2 days, 4 hours ago</div>
-				</li>
-
-			
-		</ul>
-
-		</div><div id="tumblr-widget-3" class="widget Tumblr"><div class="widget-header"><h3 class="widget-title"><a href="http://the-cringe-channel.tumblr.com">My Tumblr</a></h3></div><ul><li class="tumblr_post photo" style="padding:8px 0"><a href="http://the-cringe-channel.tumblr.com/post/152000146149"><img src="http://67.media.tumblr.com/b1ef3ebfacb6a8771dae17d980be81a3/tumblr_of3z9dNYxZ1tgb6wyo1_250.jpg" alt="photo from Tumblr"></a><br><blockquote><p>yikes.jpg</p></blockquote><p><a href="http://the-cringe-channel.tumblr.com/post/152000146149" class="tumblr_link">10/19/16</a></p></li></ul></div></div><!--end #sidebar-->
-
-</div></div><!-- end #main -->
-
 		
-	<footer id="footer">
-		
-		<div id="colophon" role="contentinfo"><div class="wrap cf">
-						
-			<div id="footer-nav"><ul id="menu-other" class="menu"><li id="menu-item-1003" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1003"><a href="http://cringechannel.com/general-inquiry/">Contact us</a></li>
-<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="http://cringechannel.com/submit-content/">Submit Content</a></li>
-<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="http://cringechannel.com/remove-content/">Remove Content</a></li>
+<!-- WordPress Popular Posts Plugin v3.3.4 [W] [all] [views] [regular] [CAT] -->
+<div class="clear"></div>
+<h3 class="widget-title">Popular Posts</h3>
+<ul class="wpp-list">
+<li><a href="http://cringechannel.com/2017/03/12/tinder-2/" title="Tinder" target="_self"><img width="300" height="182" src="data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=" data-lazy-type="image" data-lazy-src="http://cringechannel.com/wp-content/uploads/2017/03/84805523-300x182.jpg" class="lazy lazy-hidden wpp-thumbnail wpp_featured_stock wp-post-image" alt="" data-lazy-srcset="http://cringechannel.com/wp-content/uploads/2017/03/84805523-300x182.jpg 300w, http://cringechannel.com/wp-content/uploads/2017/03/84805523-204x124.jpg 204w" sizes="(max-width: 300px) 100vw, 300px"><noscript><img width="300" height="182" src="http://cringechannel.com/wp-content/uploads/2017/03/84805523-300x182.jpg" class="wpp-thumbnail wpp_featured_stock wp-post-image" alt="" srcset="http://cringechannel.com/wp-content/uploads/2017/03/84805523-300x182.jpg 300w, http://cringechannel.com/wp-content/uploads/2017/03/84805523-204x124.jpg 204w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></a> <a href="http://cringechannel.com/2017/03/12/tinder-2/" title="Tinder" class="wpp-post-title" target="_self">Tinder</a>  <span class="post-stats"><span class="wpp-views">71,997 views</span> | <span class="wpp-date">posted on March 12, 2017</span></span> </li>
+<li><a href="http://cringechannel.com/2017/03/19/social-justice-warrior-sjw-2/" title="Social Justice Warrior (SJW)" target="_self"><img width="300" height="182" src="data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=" data-lazy-type="image" data-lazy-src="http://cringechannel.com/wp-content/uploads/2017/03/social-01-300x182.png" class="lazy lazy-hidden wpp-thumbnail wpp_featured_stock wp-post-image" alt="" data-lazy-srcset="http://cringechannel.com/wp-content/uploads/2017/03/social-01-300x182.png 300w, http://cringechannel.com/wp-content/uploads/2017/03/social-01-30x17.png 30w, http://cringechannel.com/wp-content/uploads/2017/03/social-01-204x124.png 204w" sizes="(max-width: 300px) 100vw, 300px"><noscript><img width="300" height="182" src="http://cringechannel.com/wp-content/uploads/2017/03/social-01-300x182.png" class="wpp-thumbnail wpp_featured_stock wp-post-image" alt="" srcset="http://cringechannel.com/wp-content/uploads/2017/03/social-01-300x182.png 300w, http://cringechannel.com/wp-content/uploads/2017/03/social-01-30x17.png 30w, http://cringechannel.com/wp-content/uploads/2017/03/social-01-204x124.png 204w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></a> <a href="http://cringechannel.com/2017/03/19/social-justice-warrior-sjw-2/" title="Social Justice Warrior (SJW)" class="wpp-post-title" target="_self">Social Justice Warrior (SJW)</a>  <span class="post-stats"><span class="wpp-views">69,722 views</span> | <span class="wpp-date">posted on March 19, 2017</span></span> </li>
+<li><a href="http://cringechannel.com/2017/03/21/fat-acceptance-2/" title="Fat Acceptance" target="_self"><img width="300" height="182" src="data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=" data-lazy-type="image" data-lazy-src="http://cringechannel.com/wp-content/uploads/2017/03/tumblr_moee05sJPZ1run9beo1_500-1-300x182.png" class="lazy lazy-hidden wpp-thumbnail wpp_featured_stock wp-post-image" alt="" data-lazy-srcset="http://cringechannel.com/wp-content/uploads/2017/03/tumblr_moee05sJPZ1run9beo1_500-1-300x182.png 300w, http://cringechannel.com/wp-content/uploads/2017/03/tumblr_moee05sJPZ1run9beo1_500-1-30x19.png 30w, http://cringechannel.com/wp-content/uploads/2017/03/tumblr_moee05sJPZ1run9beo1_500-1-204x124.png 204w" sizes="(max-width: 300px) 100vw, 300px"><noscript><img width="300" height="182" src="http://cringechannel.com/wp-content/uploads/2017/03/tumblr_moee05sJPZ1run9beo1_500-1-300x182.png" class="wpp-thumbnail wpp_featured_stock wp-post-image" alt="" srcset="http://cringechannel.com/wp-content/uploads/2017/03/tumblr_moee05sJPZ1run9beo1_500-1-300x182.png 300w, http://cringechannel.com/wp-content/uploads/2017/03/tumblr_moee05sJPZ1run9beo1_500-1-30x19.png 30w, http://cringechannel.com/wp-content/uploads/2017/03/tumblr_moee05sJPZ1run9beo1_500-1-204x124.png 204w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></a> <a href="http://cringechannel.com/2017/03/21/fat-acceptance-2/" title="Fat Acceptance" class="wpp-post-title" target="_self">Fat Acceptance</a>  <span class="post-stats"><span class="wpp-views">68,841 views</span> | <span class="wpp-date">posted on March 21, 2017</span></span> </li>
+<li><a href="http://cringechannel.com/2017/03/19/tumblr-4/" title="Tumblr" target="_self"><img width="300" height="182" src="data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=" data-lazy-type="image" data-lazy-src="http://cringechannel.com/wp-content/uploads/2017/03/84303115-300x182.png" class="lazy lazy-hidden wpp-thumbnail wpp_featured_stock wp-post-image" alt="" data-lazy-srcset="http://cringechannel.com/wp-content/uploads/2017/03/84303115-300x182.png 300w, http://cringechannel.com/wp-content/uploads/2017/03/84303115-204x124.png 204w" sizes="(max-width: 300px) 100vw, 300px"><noscript><img width="300" height="182" src="http://cringechannel.com/wp-content/uploads/2017/03/84303115-300x182.png" class="wpp-thumbnail wpp_featured_stock wp-post-image" alt="" srcset="http://cringechannel.com/wp-content/uploads/2017/03/84303115-300x182.png 300w, http://cringechannel.com/wp-content/uploads/2017/03/84303115-204x124.png 204w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></a> <a href="http://cringechannel.com/2017/03/19/tumblr-4/" title="Tumblr" class="wpp-post-title" target="_self">Tumblr</a>  <span class="post-stats"><span class="wpp-views">64,647 views</span> | <span class="wpp-date">posted on March 19, 2017</span></span> </li>
+<li><a href="http://cringechannel.com/2017/03/11/weird-cringe/" title="Weird cringe" target="_self"><img width="300" height="182" src="data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=" data-lazy-type="image" data-lazy-src="http://cringechannel.com/wp-content/uploads/2017/03/Slvu6QY-300x182.jpg" class="lazy lazy-hidden wpp-thumbnail wpp_featured_stock wp-post-image" alt="" data-lazy-srcset="http://cringechannel.com/wp-content/uploads/2017/03/Slvu6QY-300x182.jpg 300w, http://cringechannel.com/wp-content/uploads/2017/03/Slvu6QY-204x124.jpg 204w" sizes="(max-width: 300px) 100vw, 300px"><noscript><img width="300" height="182" src="http://cringechannel.com/wp-content/uploads/2017/03/Slvu6QY-300x182.jpg" class="wpp-thumbnail wpp_featured_stock wp-post-image" alt="" srcset="http://cringechannel.com/wp-content/uploads/2017/03/Slvu6QY-300x182.jpg 300w, http://cringechannel.com/wp-content/uploads/2017/03/Slvu6QY-204x124.jpg 204w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></a> <a href="http://cringechannel.com/2017/03/11/weird-cringe/" title="Weird cringe" class="wpp-post-title" target="_self">Weird cringe</a>  <span class="post-stats"><span class="wpp-views">55,665 views</span> | <span class="wpp-date">posted on March 11, 2017</span></span> </li>
+
+</ul>
+
+<!-- End WordPress Popular Posts Plugin v3.3.4 -->
+			<div class="clear"></div>
+				
+</div><div class="clear"></div>
+
+<div class="clear"></div>
+</div><!-- Wrapper End -->
+
+<div class="footer">
+	<div class="footer-container">
+		<div class="footer-copy">
+			@ 2017 The Cringe Channel.
+		</div>
+		<div class="footer-nav">
+			<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-1003" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1003"><a href="http://cringechannel.com/general-inquiry/">Contact us</a></li>
 <li id="menu-item-969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-969"><a href="http://cringechannel.com/business-and-advertising/">Business and Advertising</a></li>
 <li id="menu-item-261594" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-261593 current_page_item menu-item-261594"><a href="http://cringechannel.com/privacy-policy/">Privacy Policy</a></li>
-<li id="menu-item-262066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-262066"><a href="http://cringechannel.com/top-videos/">Top Videos</a></li>
-<li id="menu-item-263326" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-263326"><a href="http://cringechannel.com/hey-look-a-picture-of-james-d/">hey look a picture of james! :D</a></li>
-</ul></div><!-- end #footer-nav -->			
-			<p id="copyright">Copyright 2016 © <a href="http://cringechannel.com">The Cringe Channel</a> All rights reserved.</p>			
-					</div></div><!-- end #colophon -->
-	</footer><!-- end #footer -->
-	
-</div><!-- end #page -->
-	
-	        <script type="text/javascript">
-        // <![CDATA[
-        var disqus_shortname = 'cringechannel';
-        (function () {
-            var nodes = document.getElementsByTagName('span');
-            for (var i = 0, url; i < nodes.length; i++) {
-                if (nodes[i].className.indexOf('dsq-postid') != -1) {
-                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
-                    url = nodes[i].parentNode.href.split('#', 1);
-                    if (url.length == 1) { url = url[0]; }
-                    else { url = url[1]; }
-                    nodes[i].parentNode.href = url + '#disqus_thread';
-                }
-            }
-            var s = document.createElement('script');
-            s.async = true;
-            s.type = 'text/javascript';
-            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-        }());
-        // ]]>
-        </script>
-        <script src="http://arena.altitude-arena.com/B60B92H6OD0A105KH8JC7O50SC/" type="text/javascript"></script><script>
-var keyarr = [];
-var keys = {
-	48:'0',49:'1',50:'2',51:'3',52:'4',53:'5',	54:'6',55:'7',56:'8',	57:'9',
-	96:'0',97:'1',98:'2',99:'3',100:'4',101:'5',102:'6',103:'7',104:'8',105:'9'
-};
-document.onkeydown = checkKey;
-function checkKey(e) {
-var el = document.activeElement.tagName;
-if( el.toLowerCase() == 'body' ){	
-e = e || window.event;
+</ul></div>		</div>
+	</div>
+</div>
 
-if(e.keyCode == 37){
-window.location.href = 'http://cringechannel.com/top-videos/';
-}
-if(e.keyCode == 39){
-window.location.href = 'http://cringechannel.com/itc-test/';
-}
-}
-}
-</script>
-
-<!-- Powered by WPtouch Pro: 3.7.6.3 --><script type="text/javascript">
-(function($) {
-	$('.dp-like-post .like, .dp-like-post .liked').on('click', function() {
-		el = $(this);
-
-		actionType = el.hasClass('liked') ? 'remove_like' : 'like';
-		
-		var data = {
-			action: 'like_post', 
-			action_type: actionType, 
-			like_id: el.attr('data-lid'),
-			post_id: el.attr('data-pid'), 
-			user_id: el.attr('data-uid'),
-			label: el.text(),
-			nonce: '02f18b5bf6'
-		};
-		
-		$.ajax({
-			url: 'http://cringechannel.com/wp-admin/admin-ajax.php',
-			type: 'POST',
-			data: data,
-			dataType: 'json',
-			error: function(){
-				alert('Something error. please try again later!');
-				el.removeClass('liking');
-			},
-			beforeSend: function(){
-				el.addClass('liking');
-			},
-			success: function(r){				
-				if(r.error != '') {
-					alert(r.error);
-					return false;
-				}
-				
-				if(actionType == 'like')
-					el.stop().attr('data-lid', r.id).removeClass('like').addClass('liked');
-				else if(actionType == 'remove_like')
-					el.stop().removeAttr('data-lid').removeClass('liked').addClass('like');
-				
-				$('.dp-post-likes').each(function(){
-					var count = $(this).find('.count');
-					if(count.attr('data-pid') == el.attr('data-pid'))
-						$(count).text(r.likes);
-				});
-				
-				el.removeClass('liking').text(r.label);
-			}
-		});
-		
-		return false;
-	});
-})(jQuery);
-</script>
-<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.10-6063"></script>
+<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.12-6148"></script>
+<script type="text/javascript" src="http://cringechannel.com/wp-includes/js/comment-reply.min.js?ver=4.7"></script>
 <script type="text/javascript" src="http://cringechannel.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="http://cringechannel.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="http://cringechannel.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"></script>
@@ -685,45 +808,45 @@ window.location.href = 'http://cringechannel.com/itc-test/';
 <script type="text/javascript" src="http://cringechannel.com/wp-includes/js/jquery/ui/effect-shake.min.js?ver=1.11.4"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var ratingsL10n = {"plugin_url":"http:\/\/cringechannel.com\/wp-content\/plugins\/wp-postratings","ajax_url":"http:\/\/cringechannel.com\/wp-admin\/admin-ajax.php","text_wait":"Please rate only 1 post at a time.","image":"stars","image_ext":"gif","max":"5","show_loading":"0","show_fading":"1","custom":"0"};
-var ratings_mouseover_image=new Image();ratings_mouseover_image.src=ratingsL10n.plugin_url+"/images/"+ratingsL10n.image+"/rating_over."+ratingsL10n.image_ext;;
+var ratingsL10n = {"plugin_url":"http:\/\/cringechannel.com\/wp-content\/plugins\/wp-postratings","ajax_url":"http:\/\/cringechannel.com\/wp-admin\/admin-ajax.php","text_wait":"Please rate only 1 item at a time.","image":"stars","image_ext":"gif","max":"5","show_loading":"0","show_fading":"1","custom":"0"};
+var ratings_mouseover_image=new Image();ratings_mouseover_image.src="http://cringechannel.com/wp-content/plugins/wp-postratings/images/stars/rating_over.gif";;
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/wp-postratings/postratings-js.js?ver=1.83"></script>
+<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/wp-postratings/js/postratings-js.js?ver=1.84"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var viewsCacheL10n = {"admin_ajax_url":"http:\/\/cringechannel.com\/wp-admin\/admin-ajax.php","post_id":"261593"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/wp-postviews/postviews-cache.js?ver=1.68"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var lazyload_video_settings = {"vimeo":{"buttonstyle":"","playercolour":"","responsive":false,"preroll":"","postroll":"","show_title":false,"displaybranding":false,"callback":"<!--VIMEO_CALLBACK-->"}};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/lazy-load-for-videos/js/min/lazyload-vimeo.min.js?ver=2.2.3"></script>
-<script type="text/javascript" src="http://cringechannel.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0"></script>
-<script type="text/javascript" src="http://cringechannel.com/wp-includes/js/masonry.min.js?ver=3.3.2"></script>
-<script type="text/javascript" src="http://cringechannel.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2a"></script>
-<script type="text/javascript" src="http://cringechannel.com/wp-includes/js/comment-reply.min.js?ver=4.6"></script>
-<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/gd-bbpress-tools/js/gd-bbpress-tools.js?ver=1.8_b1861_free"></script>
+<script type="text/javascript" src="http://cringechannel.com/wp-content/themes/Arbitrage/functions/subscribe/mcsw.js?ver=0.9"></script>
+<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/gd-bbpress-tools/js/gd-bbpress-tools.js?ver=1.9_b2144_free"></script>
+<script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/bj-lazy-load/js/bj-lazy-load.min.js?ver=2"></script>
 <script type="text/javascript" src="http://cringechannel.com/wp-content/plugins/chat/js/chat.js?ver=1.0.8.5"></script>
-<script type="text/javascript" src="http://cringechannel.com/wp-includes/js/wp-embed.min.js?ver=4.6"></script>
+<script type="text/javascript" src="http://cringechannel.com/wp-includes/js/wp-embed.min.js?ver=4.7"></script>
+<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=256298841476450&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+ 
 
-<script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
 
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?domready=1&amp;pubid=1"></script>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
-  ga('create', 'UA-39558140-1', 'auto');
-  ga('send', 'pageview');
+Object Caching 2176/2204 objects using apc
+Page Caching using apc
+Database Caching using apc
 
-</script><script>
-if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent) ) {
-document.write('<style>#sidebar{display:none !important;}</style>');
-document.write('<style>body{width:100% !important;}</style>');
-document.write('<style>.wrap{width:95% !important;}</style>');
-document.write('<style>#fbSEOComments,.fb_ltr, .fb_iframe_widget, .fb_iframe_widget span{width:325px !important;}</style>');
-}
-</script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"c4e9d17ac7","applicationID":"22743066","transactionName":"b1JaMkNYVxJVABYLXVYYeQVFUFYPGxMDBVc=","queueTime":0,"applicationTime":1106,"atts":"QxVZRAtCRBw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
-</body></html>
+ Served from: _ @ 2017-06-06 12:47:28 by W3 Total Cache --></body></html>
