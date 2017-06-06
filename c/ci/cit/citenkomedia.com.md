@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citenkomedia.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424231600id_/https%3A//citenkomedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citenkomedia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182903id_/https%3A//citenkomedia.com/privacy) for the most accurate reproduction.*
 
-# Citenko Media
+# CITENKO Media | Privacy Policy
 
 ### Privacy Policy of **Citenko Media**
 
