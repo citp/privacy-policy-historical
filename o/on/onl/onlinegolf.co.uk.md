@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the onlinegolf.co.uk privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204015830id_/http%3A//www.onlinegolf.co.uk/customer-services/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinegolf.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093228id_/http%3A//www.onlinegolf.co.uk/customer-services/privacy-policy.html) for the most accurate reproduction.*
 
 # OnlineGolf's Privacy Policy
 
-### IMPORTANT: BY SUBMITTING DATA AND/OR USING THIS WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA THAT YOU SUBMIT MAY BE PROCESSED IN THE MANNER AND FOR THE PURPOSES DESCRIBED IN THE FOLLOWING PRIVACY POLICY.
+**IMPORTANT: BY SUBMITTING DATA AND/OR USING THIS WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA THAT YOU SUBMIT MAY BE PROCESSED IN THE MANNER AND FOR THE PURPOSES DESCRIBED IN THE FOLLOWING PRIVACY POLICY.**
 
 ## Privacy Policy
 
@@ -12,7 +12,7 @@ The term "Personal Data" refers to personally identifiable information about you
 
 The terms "you" and "your" when used in this Privacy Policy means any user of this website.
 
-### Notification of changes to this Privacy Policy
+## Notification of changes to this Privacy Policy
 
 This website is continually improved by adding new functionality and features and by improving and adding to existing services. Because of these ongoing changes, changes in the law and the changing nature of technology, data practices will change from time to time. If and when data practices change, such changes will (as soon as practicable) be posted on this website to notify you of the changes. You should check this page frequently. 
 
