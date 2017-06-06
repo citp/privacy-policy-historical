@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lon.ac.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119132016id_/http%3A//www.london.ac.uk/privacyandcookies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lon.ac.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143559id_/http%3A//www.london.ac.uk/privacyandcookies.html) for the most accurate reproduction.*
 
 # University of London: Privacy and Cookies
+
+## Privacy Statement
 
 When you supply any personal information to the University of London we have legal obligations towards you in the way we deal with that data. We must collect the information fairly, that is, we must explain how we will use it and tell you if we want to pass the information on to anyone else. In general, any information you provide to the University of London will only be used within the University of London and by its service providers. It will never be supplied to anyone outside the University of London without first obtaining your consent, unless we are obliged or permitted by law to disclose it. This applies to your name, email addresses, personal information and any email correspondence. Also, if you post or send offensive or inappropriate content anywhere on or to the University of London or otherwise engage in any disruptive behaviour on the University of London website, and the University of London considers such behaviour to be serious and/or repeated, the University of London can use whatever information that is available to it about you to stop such behaviour. This may include informing relevant third parties such as your employer, college or email provider about the content and your behaviour.
 
@@ -8,6 +10,14 @@ When you supply any personal information to the University of London we have leg
 
  If you are notified on the University of London website that your information may be used to allow the University of London to contact you for 'service administration purposes', this means that the University of London may contact you for a number of purposes related to the service you have signed up for. For example, we may wish to provide you with password reminders or notify you that the particular service has been suspended for maintenance. We will not contact you for promotional purposes, such as notifying you of improvements to the service or new services on the University of London website unless you specifically agree to be contacted for such purposes at the time you submit your information on the website, or at a later time if you sign up specifically to receive such information. 
 
+## Google analytics
+
 The University of London website uses Google Analytics to collecting information on how visitors use our site. This information is used to create reporting and analysis to allow us to improve the site for our users. The cookies used by Google Analytics collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. By continuing your navigation of this site, **you are consenting to the University collecting and using your information for the purposes stated above.**
 
 **You can disable Google Analytics tracking on your browser by following the[instructions](https://tools.google.com/dlpage/gaoptout?hl=en)  on the Google site.**
+
+## Social media
+
+In certain instances the University of London website facilitates communication between students (and staff) via online networks. The networks primarily operate on an 'opt-in' basis, i.e. you have to request that your details are added to the network and consent to their inclusion. The views expressed by students using these networks (or similar) do not reflect the views of the University of London. 
+
+The University of London uses Sprout Social as our Social Media Management tool. Their privacy statement can be found on their website via the following link: <http://sproutsocial.com/privacy-policy>  
