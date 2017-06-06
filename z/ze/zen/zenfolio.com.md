@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zenfolio.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226021839id_/http%3A//www.zenfolio.com/us/z/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenfolio.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163843id_/https%3A//en.zenfolio.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Zenfolio
+# Zenfolio - Privacy Policy
 
-Please refer to the **Definitions** section set forth in the [Zenfolio Website Terms and Conditions of Use](https://web.archive.org/us/z/terms). 
+Please refer to the **Definitions** section set forth in the [Zenfolio Website Terms and Conditions of Use](https://web.archive.org/terms). 
 
 Your privacy is important to us so we will strive to keep Your information safe and secure. This privacy policy will explain the kind of information we collect about You and how we use it. By accessing and using the Website, you agree to our Privacy Policy as outlined below. 
 
@@ -38,61 +38,61 @@ The list below details the cookies used on Zenfolio. We have outlined who sets t
 
 | 
 
-Zenfolio.com
+Zenfolio.com 
 
 | 
 
-Zenfolio.com uses these cookies to enable some basic functionalities to provide a basic personalized experience while browsing, making creations and shopping on our website. Examples include remembering your login details, which products you have added to your cart, your language preferences. The information collected through these cookies is only used for this purpose and is never shared or sold to third parties.  
+Zenfolio.com uses these cookies to enable some basic functionalities to provide a basic personalized experience while browsing, making creations and shopping on our website. Examples include remembering your login details, which products you have added to your cart, your language preferences. The information collected through these cookies is only used for this purpose and is never shared or sold to third parties.   
   
 **Strictly necessary**
 
 | 
 
-Zenfolio.com
+Zenfolio.com 
 
 | 
 
-These cookies are essential as they enable you to move around a website and use its features, such as accessing checkout. The information collected through these cookies is only used for this purpose and is never shared or sold to third parties.  
+These cookies are essential as they enable you to move around a website and use its features, such as accessing checkout. The information collected through these cookies is only used for this purpose and is never shared or sold to third parties.   
   
 **Analytical/Performance**
 
 | 
 
-Google Analytics
+Google Analytics 
 
 | 
 
-Google Analytics uses cookies to collect data that helps us understand how people are using the site and monitor any errors that users may be experiencing. We use this information to identify how and where we can improve the user experience. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.  
+Google Analytics uses cookies to collect data that helps us understand how people are using the site and monitor any errors that users may be experiencing. We use this information to identify how and where we can improve the user experience. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.   
   
 **Analytical/Performance**
 
 | 
 
-Google Website Optimizer
+Google Website Optimizer 
 
 | 
 
-Zenfolio.com works with 3rd party Google Website Optimizer to test and find the optimal content and experience for our users. The cookies used by Google Website Optimizer enable us to identify which experiences visitors to our site have seen and how the content has performed for the visitor, this will allow us to ensure that future experiences can be further improved. The data collected through these cookies is anonymous, Google Website Optimizer does not collect specific customer data and is never shared with other third parties.  
+Zenfolio.com works with 3rd party Google Website Optimizer to test and find the optimal content and experience for our users. The cookies used by Google Website Optimizer enable us to identify which experiences visitors to our site have seen and how the content has performed for the visitor, this will allow us to ensure that future experiences can be further improved. The data collected through these cookies is anonymous, Google Website Optimizer does not collect specific customer data and is never shared with other third parties.   
   
 **Targeting**
 
 | 
 
-Various Third Party Service Providers
+Various Third Party Service Providers 
 
 | 
 
-Zenfolio.com works with various 3rd party providers (such as Quantcast, Facebook, Google, Bing, etc.) to display banner advertising on other selected websites. These cookies also help us to monitor and improve the effectiveness of our banner advertising and to refine the targeting of these campaigns so that we are displaying the most relevant content for each individual. Zenfolio.com works with 3rd party agency Quantcast to display banner advertising on other selected websites. These cookies also help us to monitor and improve the effectiveness of our banner advertising and to refine the targeting of these campaigns so that we are displaying the most relevant content for each individual. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.  
+Zenfolio.com works with various 3rd party providers (such as Quantcast, Facebook, Google, Bing, etc.) to display banner advertising on other selected websites. These cookies also help us to monitor and improve the effectiveness of our banner advertising and to refine the targeting of these campaigns so that we are displaying the most relevant content for each individual. Zenfolio.com works with 3rd party agency Quantcast to display banner advertising on other selected websites. These cookies also help us to monitor and improve the effectiveness of our banner advertising and to refine the targeting of these campaigns so that we are displaying the most relevant content for each individual. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.   
   
 **Targeting**
 
 | 
 
-Various Third Party Service Providers
+Various Third Party Service Providers 
 
 | 
 
-Cookies are used by 3rd party affiliates enabling Zenfolio.com to meet contractual obligations to make payments to them when they introduce a new customer to Zenfolio.com. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.  
+Cookies are used by 3rd party affiliates enabling Zenfolio.com to meet contractual obligations to make payments to them when they introduce a new customer to Zenfolio.com. The data collected through these cookies is anonymous, these 3rd parties do not collect specific customer data and it is never shared with other third parties.   
   
 ## How We Protect Your Information
 
