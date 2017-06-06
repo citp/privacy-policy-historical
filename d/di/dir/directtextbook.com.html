@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the directtextbook.com privacy policy that was archived on 2016-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160407043943id_/http%3A//www.directtextbook.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the directtextbook.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606103534id_/http%3A//www.directtextbook.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -57,12 +57,95 @@ input.formfieldhintsoft{font-style: italic; color: #7a7a7a}
 .submenu strong{background: url("../img/arrow.png") no-repeat scroll 5px 4px transparent;font: bold 11px/13px "Droid Sans",sans-serif;padding: 0 0 0 10px;}
 .submenu a{font-size:11px;color:#0088CC;text-decoration:none;font-weight:normal}
 .submenu a:hover{text-decoration:underline}
+.mydt ul {
+  *zoom:1;
+  list-style:none;
+  margin:0;
+  padding:0;
+}
+.mydt ul:before,.mydt ul:after {
+  content:"";
+  display:table;
+}
+.mydt ul:after {
+  clear:both;
+}
+.mydt ul > li {
+  float:left;
+  position:relative;
+}
+.mydt a {
+  display:block;
+  padding:0;
+  color:#fcedda;
+  line-height:17px;
+  font: bold 15px "Open Sans",sans-serif;
+}
+.mydt a:hover {
+  text-decoration:underline;
+}
+.mydt li ul a {
+  border:none;
+}
+.mydt li ul {
+  border-radius:10px;
+  background:#333;
+  position:absolute;
+  left:-302px;
+  top:22px;
+  z-index:1;
+}
+.mydt li ul li {
+  width:360px;
+  overflow:hidden;
+  max-height:0;
+  color:#fff;
+  -webkit-transition:max-height 500ms ease;
+  -moz-transition:max-height 500ms ease;
+  -o-transition:max-height 500ms ease;
+  transition:max-height 500ms ease;
+}
+.mydt ul > li:hover ul li {
+  max-height:680px;
+}
+.mydt ul li ul li ol li a {
+  padding:0;
+  margin:0;
+  font: 14px "Droid Sans",sans-serif;
+}
+.mydt ul li ul li ol {
+  padding:0;
+  margin:5px 0 15px 0;
+  list-style-position:inside;
+}
+.mydt ul li ul li ol li {
+  display: list-item;
+  padding:3px 0 3px 0;
+  margin:0;
+}
+.mydt ul li ul li ol >li > :first-child {
+  display: inline;
+}
+.mydt ul li ul li ol >li > :first-child:after {
+  content: "";
+  display: block;
+}
+.mydt_badge {
+  background-color: #f70;
+  border-radius: 2px;
+  color: white;
+
+  padding: 1px 3px;
+  font: 10px "Droid Sans",sans-serif;
+
+  position: absolute; /* Position the badge within the relatively positioned button */
+  top: 0;
+  right: -10px;
+}
 
 </style>
-<link href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700|Bitter" rel="stylesheet" type="text/css">
-</head>
 
-<body bgcolor="#FFFFFF">
+</head><body bgcolor="#FFFFFF">
 
 <table summary="Top Bar" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#000000">
 <tbody><tr><td height="15"><img src="/ourimg/x.gif" height="15" alt=""></td></tr>
@@ -76,10 +159,9 @@ input.formfieldhintsoft{font-style: italic; color: #7a7a7a}
 </tr>
 <tr><td>
 <a href="/"><img src="/img/direct-textbook-small.gif" width="238" height="39" alt="Direct Textbook"></a>
-</td>
-<td align="center"><form action="/search.php" method="post">
+</td><td align="center"><form action="/search.php" method="post">
 <input type="hidden" name="gon" value="yes">
-
+<input type="hidden" name="sf" value="buy">
 <table summary="Search Form" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
 <td valign="middle">
@@ -89,18 +171,24 @@ input.formfieldhintsoft{font-style: italic; color: #7a7a7a}
 </td></tr></tbody></table>
 </form>
 </td>
-<td align="right">
-
-<div class="nav">
-<a href="/used-textbooks.php">BUY</a>&nbsp;&nbsp;&nbsp;
-<a href="/textbook-rental.php">RENT</a>&nbsp;&nbsp;&nbsp;
-<a href="/sell-textbooks.php">SELL</a>&nbsp;&nbsp;&nbsp;
-<a href="/recent.php">MyDT</a>
-</div>
-
-
-
+<td align="right"><div class="nav">
+<table cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr valign="bottom"><td>
+<a href="/used-textbooks.php">BUY</a>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
+<a href="/textbook-rental.php">RENT</a>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
+<a href="/sell-textbooks.php">SELL</a>&nbsp;&nbsp;&nbsp;&nbsp;</td><td align="left">
+<nav class="mydt">
+<ul>
+<li>
+<a href="/recent.php" id="mydtcount">MyDT</a>
+<ul>
+<li><div style="padding:20px 20px 20px 30px" id="mydtforms"><p><b>Recently Viewed</b></p><ol id="mydtlist"><li style="list-style-type:none">No items currently in your list.</li></ol></div>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
 </td></tr></tbody></table>
+</div></td></tr></tbody></table>
 
 </td></tr>
 <tr><td height="15"><img src="/ourimg/x.gif" height="15" alt=""></td></tr>
@@ -291,22 +379,24 @@ Email: <a href="mailto:service@directtextbook.com">service@directtextbook.com</a
 <hr>
 <p><a href="/sell-textbooks.php">How to Sell Textbooks</a><br>
 <a href="/used-textbooks.php">Buying Used Textbooks</a><br>
-<a href="/textbook-rental.php">Textbook Rental</a><br>
+<a href="/textbook-rental.php">Rent Textbooks</a><br>
 <a href="/online-textbooks.php">Buying Online eBooks</a><br>
-<a href="/coupons.php">Textbook Coupons</a></p>
+<a href="/coupons.php">Textbook Coupons</a><br>
+<a href="/privacy.php">Privacy Policy</a></p>
 </td>
 
-<td><img src="/ourimg/x.gif" width="40" alt=""></td>
+<td><img src="/i/x.gif" width="40" height="40" alt=""></td>
 
 <td width="192">
 <h4>Textbook Categories</h4>
 <hr>
 <p><a href="/authors.php">Authors</a><br>
 <a href="/textbooks">Subjects</a><br>
-<a href="/publishers.php">Publishers</a></p>
+<a href="/publishers.php">Publishers</a><br>
+<a href="/classeslist">Textbooks by Class</a></p>
 </td>
 
-<td><img src="/ourimg/x.gif" width="40" alt=""></td>
+<td><img src="/i/x.gif" width="40" height="40" alt=""></td>
 
 <td width="336">
 <h4>Textbook Labs</h4>
@@ -319,58 +409,50 @@ Email: <a href="mailto:service@directtextbook.com">service@directtextbook.com</a
 <a href="/androidapp.php">Android App</a><br>
 <a href="/api.php">XML API</a><br>
 <a href="/ebooksearch.php">eBook Search</a><br>
-<a href="/classeslist">Textbooks by Class</a><br>
+<a href="/link.php">Link to Us</a><br>
 <a href="/data.php">Data Source</a></p>
 </td><td>&nbsp;&nbsp;</td><td style="font-size:4px" width="50%">
-<p><a href="/link.php">Link to Us</a><br>
-<a href="/blog/">Blog</a><br>
+<p><a href="/blog/">Blog</a><br>
 <a href="/scholarship.php">Scholarship Essay Contest</a><br>
 <a href="/haiku">Haiku Scholarship Contest</a><br>
 <a href="/photocontest">Photo Essay Contest</a><br>
-<a href="/cashback-join.php">Cash Back Sign In</a></p>
+<a href="/Student-Debt-Reduction-Guide">Student Debt Destroyer</a><br>
+<a href="/student-budget-tool">Student Budget Tool</a><br>
+<a href="https://www.directtextbook.com/cashback-join.php">Cash Back Sign In</a></p>
 </td></tr></tbody></table>
 </td>
 
-<td><img src="/ourimg/x.gif" width="40" alt=""></td>
+<td><img src="/i/x.gif" width="40" height="40" alt=""></td>
 
 <td width="240">
 <h4>Share This Page</h4>
 <hr>
 <p>
-<img src="/ourimg/share.gif" alt="Share This Page" usemap="#sharelinks">
+<img src="/ourimg/share.gif" alt="Share This Page" usemap="#sharelinks" width="108" height="32">
 <map name="sharelinks">
-<area target="_blank" shape="rect" coords="0,0,33,32" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.directtextbook.com%2Fprivacy.php" alt="Share on Facebook">
-<area target="_blank" shape="rect" coords="38,0,70,32" href="https://twitter.com/share?url=http%3A%2F%2Fwww.directtextbook.com%2Fprivacy.php" alt="Tweet This">
-<area target="_blank" shape="rect" coords="75,0,108,32" href="https://plus.google.com/share?url=http%3A%2F%2Fwww.directtextbook.com%2Fprivacy.php" alt="Share on Google Plus">
+<area target="_blank" shape="rect" coords="0,0,33,32" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.directtextbook.com" alt="Share on Facebook">
+<area target="_blank" shape="rect" coords="38,0,70,32" href="https://twitter.com/share?url=http%3A%2F%2Fwww.directtextbook.com" alt="Tweet This">
+<area target="_blank" shape="rect" coords="75,0,108,32" href="https://plus.google.com/share?url=http%3A%2F%2Fwww.directtextbook.com" alt="Share on Google Plus">
 </map>
 </p>
 <br>
 <p>
-<a href="/about.php">About Us</a>
+<a href="/about.php">About Us</a><br>
+<a href="/feedback.php">Contact Us</a><br>
+<a href="/media.php">Media Page</a><br>
+<a href="/w3c/privacy.html">P3P Policy</a><br>
+<a href="/termsofuse.php">Terms of Use</a></p>
 <br>
-<a href="/feedback.php">Contact Us</a>
-<br>
-<a href="/media.php">Media Page</a>
-<br>
-<a href="/privacy.php">Privacy Policy</a>
-<br>
-<a href="/w3c/privacy.html">P3P Policy</a>
-<br>
-<a href="/termsofuse.php">Terms of Use</a>
-</p>
-</td>
-</tr>
-<tr>
-<td colspan="7" align="right" class="footerhighlight">
-<a href="/">DIRECT&nbsp;TEXTBOOK</a>
+<a target="_blank" title="Direct Textbook Inc BBB Business Review" href="https://www.bbb.org/alaskaoregonwesternwashington/business-reviews/books-textbooks-new-and-used/direct-textbook-inc-in-salem-or-22536154/#bbbonlineclick"><img alt="Direct Textbook Inc BBB Business Review" style="border: 0;" src="https://seal-alaskaoregonwesternwashington.bbb.org/seals/blue-seal-250-52-whitetxt-direct-textbook-inc-22536154.png"></a>
 </td>
 </tr>
 </tbody></table>
 <br><br>
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript">
 
   var _gaq = _gaq || [];
+  try { kzs("activateGoogleAnalytics"); } catch(e) {}
   _gaq.push(['_setAccount', 'UA-2514210-1']);
   _gaq.push(['_trackPageview']);
 
@@ -385,5 +467,65 @@ Email: <a href="mailto:service@directtextbook.com">service@directtextbook.com</a
 
 
 </td></tr></tbody></table>
+
+<script async="" type="text/javascript">
+function getCookie(name)
+  {
+    var re = new RegExp(name + "=([^;]+)");
+    var value = re.exec(document.cookie);
+    return (value != null) ? unescape(value[1]) : "";
+  }
+  // document.write(getCookie("booklist"));
+  var value  = getCookie("booklist");
+  if (value.length > 10)
+  {
+    var values = value.split('~');
+    var mydtcountvalue = values.length;
+    var mydtlimit = 0;
+    if (mydtcountvalue > 10)
+    {
+      mydtlimit = 10;
+    }
+    else
+    {
+      mydtlimit = mydtcountvalue;
+    }
+    var mydtlistitems = "";
+    var mydtlookuplist = "";
+    for (var i = 0, len = mydtlimit; i < len; i++)
+    {
+      book = values[i].split('|');
+      title = decodeURIComponent(book[1].replace(/\+/g, ' '));
+      isbn = book[0];
+      mydtlistitems = mydtlistitems + "<li><a href='/isbn/" + isbn + "'>" + title + " (" + isbn + ")</a></li>";
+      mydtlookuplist = mydtlookuplist + isbn + ",";
+    }
+  }
+  if (mydtcountvalue > 10)
+  {
+    document.getElementById("mydtlist").innerHTML = mydtlistitems;
+    document.getElementById("mydtcount").innerHTML = "MyDT<span class='mydt_badge'>" + mydtcountvalue + "</span>";
+    document.getElementById("mydtforms").innerHTML = "<p><b>Recently Viewed</b></p><ol id=mydtlist>" + mydtlistitems + "</ol><hr><a href='/recent.php' style='font: 14px \"Droid Sans\",sans-serif'>See&nbsp;all&nbsp;&amp;&nbsp;add&nbsp;/&nbsp;remove&nbsp;books&nbsp;from&nbsp;the&nbsp;list&nbsp;&raquo;</a><br><form action='/publish.php' method=get style='padding:0;margin:0'><input name=listtitle type=text style='padding:4px;width:100px' value='(Optional Title)' onblur=\"if (this.value == '') {this.value = '(Optional Title)';}\" onfocus=\"if (this.value == '(Optional Title)') {this.value = '';}\">&nbsp;<button type=submit name=save id=save value=Save style='border:1px solid #f92;border-radius:3px;padding:6px 10px 6px 10px;background-color:#F70;font-weight:bold;color:white;cursor:pointer'>Save&nbsp;to&nbsp;a&nbsp;book&nbsp;list</button></form>";
+  }
+  else if (mydtcountvalue > 1)
+  {
+    document.getElementById("mydtlist").innerHTML = mydtlistitems;
+    document.getElementById("mydtcount").innerHTML = "MyDT<span class='mydt_badge'>" + mydtcountvalue + "</span>";
+    document.getElementById("mydtlookup").value = mydtlookuplist;
+  }
+  else if (mydtcountvalue > 0)
+  {
+    document.getElementById("mydtcount").innerHTML = "MyDT<span class='mydt_badge'>" + mydtcountvalue + "</span>";
+    document.getElementById("mydtforms").innerHTML = "<p><b>Recently Viewed</b></p><ol id=mydtlist>" + mydtlistitems + "</ol><hr><br><a href='/recent.php' style='font: 14px \"Droid Sans\",sans-serif'>See&nbsp;all&nbsp;&amp;&nbsp;add&nbsp;/&nbsp;remove&nbsp;books&nbsp;from&nbsp;the&nbsp;list&nbsp;&raquo;</a>";
+  }
+  else
+  {
+    document.getElementById("mydtcount").innerHTML = "MyDT";
+    document.getElementById("mydtforms").innerHTML = "<p><b>Recently Viewed</b></p><ol id=mydtlist><li style='list-style-type:none'>No items currently in your list.</li></ol>";
+  }
+</script>
+
+<link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700|Bitter" rel="stylesheet" type="text/css">
+
 
 </body></html>
