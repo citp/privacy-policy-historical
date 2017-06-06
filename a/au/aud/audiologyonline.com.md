@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiologyonline.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112133919id_/http%3A//www.audiologyonline.com/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiologyonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135826id_/http%3A//www.audiologyonline.com/general/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy AudiologyOnline: Online AudiologyOnline CEUs & AudiologyOnline Jobs
 
