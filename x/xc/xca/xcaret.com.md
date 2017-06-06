@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xcaret.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121192558id_/http%3A//www.xcaret.com/privacy-notice.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcaret.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606052038id_/http%3A//www.xcaret.com/privacy-notice.php) for the most accurate reproduction.*
 
 # Privacy Notice | Xcaret Park Cancun Mexico
 
@@ -7,18 +7,22 @@
 
 
 
-**Experiencias Xcaret Privacy Notice**  
- **Responsible**
+**Experiencias Xcaret Privacy Notice**   
+**Responsible**  
+In compliance with the Federal Law on Protection of Personal Data in Possession of Individuals, Experiencias Xcaret Web S.A.P.I de C.V. (Experiencias Xcaret from now on) who is responsible for your personal data informs you that we are a business group that has cultural, natural, ecological and adventure Hotels and Parks offering our visitors ecological, cultural and fun experiences. We are located at Carretera Chetumal – Pto Juárez Km 282, Playa del Carmen, Quintana Roo, Mexico. Our phone numbers are: 
 
-In compliance with the Federal Law on Protection of Personal Data in Possession of Individuals, Experiencias Xcaret Parques S.A.P.I de C.V. (Experiencias Xcaret from now on) who is responsible for your personal data informs you that we are a business group that has cultural, natural, ecological and adventure Parks offering our visitors ecological, cultural and fun experiences. We are located at Carretera Chetumal – Pto Juárez Km 282, Playa del Carmen, Quintana Roo, Mexico. Our phone numbers are: 
-
-
-
+* Mexico/Cancun: (998) 881 9836
+* Spain: 800 0341 3498
+* Colombia: 800 752 2495
+* Germany: 800 0491 1120
+* UK: 800 029 4608
+* USA/Canada: 844 795 4525
 
 Responsible for data Protection is the Web Development department and can be contacted by email at the following address: [](mailto:faraujo@experienciasxcaret.com.mx)
 
 **This Privacy Notice is for the following websites:**
 
+  * http://www.hotelxcaret.com
   * http://www.xcaretexperiencias.com
   * http://www.xcaret.com.mx
   * http://www.xcaret.com
@@ -50,6 +54,7 @@ Responsible for data Protection is the Web Development department and can be con
   * http://www.photoxelha.com
   * http://www.xcaretgrupos.com
   * https://www.xperienciasxcaret.mx
+  * http://www.http://vivemexico.travel/
 
 
 
@@ -85,12 +90,12 @@ When using our online service, we will be requesting **bank and / or credit card
 
 
 
- **SENSITIVE DATA**  
+**SENSITIVE DATA**  
 Experiencias Xcaret does not request any sensitive data on their websites.
 
 Your personal data will be treated based on the principles of legality, consent, information, quality, purpose, loyalty, proportionality and responsibility in terms of legislation.
 
- **Use of Information**  
+**Use of Information**  
 For information received via email:  
 
 
@@ -105,16 +110,24 @@ In the case of cookie use, the "help" button found in the toolbar in the majorit
 **Limitation on use and disclosure**  
 A personal identification number which only the user can access and which only he has knowledge of secures the information provided by the user. We recommend that you do not divulge your password to anyone. Experiencias Xcaret does not request your password on any phone call or unsolicited email. In this topic, the team of collaborators of Experiencias Xcaret has focused its efforts to offer the latest updated technology in order to provide the highest security possible. You may stop receiving promotional messages by landline or cell phone and stop receiving email or postal mail advertising by asking to unsubscribe the following phone numbers: 
 
-
-
+* Mexico/Cancun: (998) 881 9836
+* Spain: 800 0341 3498
+* Colombia: 800 752 2495
+* Germany: 800 0491 1120
+* UK: 800 029 4608
+* USA/Canada: 844 795 4525
 
 If you participate in the email promotions service, you can disable the service at any time.  
 Opt-out: In regards to the publicity and promotions sent to you via email, we will inform you in each case how to unsubscribe easily and at no cost. 
 
 The area responsible for Data Protection is the Web Development department, who can be reached by email at faraujo@experienciasxcaret.com.mx or by calling the following numbers: 
 
-
-
+* Mexico/Cancun: (998) 881 9836
+* Spain: 800 0341 3498
+* Colombia: 800 752 2495
+* Germany: 800 0491 1120
+* UK: 800 029 4608
+* USA/Canada: 844 795 4525
 
 Procedure so that the "User" can exercise their rights ARCO and revoke the consent granted is:  
 As holder of personal data, the Contractor may exercise ARCO rights (access, cancellation, rectification and opposition to the processing of personal data), or revoke the consent granted to Experiencias Xcaret for the treatment of your personal data by sending your request directly to the area of Web Development through the e-mail account: faraujo@experienciasxcaret.com.mx [](mailto:faraujo@experienciasxcaret.com.mx). 
@@ -141,4 +154,4 @@ If the customer uses the services in any of the Experiencias Xcaret sites, it me
  **Authority**  
 If you believe that your rights have been violated regarding the protection of personal data, you have the right to go to the appropriate authority to defend its exercise. The authority is the Federal Institute of Access to Information and Data Protection (IFAI), their website is: www.ifai.mx 
 
-**Privacy notice last updated on July 6th, 2016.**
+**Privacy notice last updated on May the 24th, 2017.**
