@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viart.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026184151id_/http%3A//www.viart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viart.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040028id_/http%3A//www.viart.com/privacy) for the most accurate reproduction.*
 
 # ViArt Software Privacy Policy
 
@@ -13,7 +13,7 @@
 **Data Protection** | [](http://www.viart.com/#top)  
 ---|---  
   
-ViArt Software are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalised shopping experience. 
+ViArt LLC are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalised shopping experience. 
 
 **Collection & Use Of Information** | [](http://www.viart.com/#top)  
 ---|---  
@@ -26,7 +26,7 @@ When you enter a competition or promotional feature, we may ask for your name, a
 
 We also monitor customer traffic patterns and site usage to help us develop the design and layout of the site.
 
-We may also use the information we collect to occasionally notify you about important functionality changes to the web site, new services and special offers we think you'll find useful. If you would rather not receive this information, please send an email to [nomail@viart.com](mailto:nomail@viart.com)
+We may also use the information we collect to occasionally notify you about important functionality changes to the web site, new services and special offers we think you'll find useful. If you would rather not receive this information, please send an email to [support@viart.com](mailto:support@viart.com)
 
 We do not send random marketing emails to personal email addresses (spam).
 
@@ -52,16 +52,16 @@ For a full technical explanation of cookies, see Netscape's cookie specification
 **Disclosure Of Information** | [](http://www.viart.com/#top)  
 ---|---  
   
-ViArt Software does not sell, trade or rent your personal information to others. We may choose to do so in the future with trustworthy third parties, but you can tell us not to by sending a blank email message to [nomail@viart.com](mailto:nomail@viart.com).
+ViArt LLC does not sell, trade or rent your personal information to others.
 
-ViArt Software may also provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no information that will identify individuals.
+ViArt LLC may also provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no information that will identify individuals.
 
 Where there is sufficient evidence to suggest that fraud is being perpetuated, we reserve the right to pass data to other businesses, fraud databases and relevant authorities.
 
 **Your Consent** | [](http://www.viart.com/#top)  
 ---|---  
   
-By using our web site, you consent to the collection and use of this information by ViArt Software. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
+By using our web site, you consent to the collection and use of this information by ViArt LLC. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
 
 **Privacy Policy Contact** | [](http://www.viart.com/#top)  
 ---|---  
