@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemadebdsm.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119122326id_/http%3A//www.homemadebdsm.com/register.php%3Fppaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemadebdsm.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111018id_/http%3A//www.homemadebdsm.com/register.php%3Fppaction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Statement - HOMEMADE BDSM
 
@@ -34,4 +34,79 @@ Support
 
 HomeMadeBDSM.com provides email support for users who purchase the software at our Helpdesk. HomeMadeBDSM.com does not currently provide telephone support. If you have any questions or concerns about this Privacy Policy or our information handling practices, please [contact Us]() through email. We will do our best to respond to your inquiry within four business days.  
   
-Find your Alternative playmate! 
+Find your Alternative playmate!   
+| 
+
+[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=innocentemmy)
+
+HD
+
+[ innocentemmy](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=innocentemmy) 22
+
+  * hello ! #shes18 #teen_friend #she_doenst_know_about_us #shh #not_alone #500tk_snap_and_one_squirtvid #best_squirter - Multi-Goal : cum #lovense_lush #squirt #creamy_cum #big_tits
+
+
+  * 21 mins, 6439 viewers
+
+
+
+| 
+
+[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=aliciagrey)
+
+HD
+
+[ aliciagrey](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=aliciagrey) 26
+
+  * Cum show,pm=50,boobiez=100,kitty=200,c2c=250,SNAP=555, PV ON,(pm before) smile=111, kissyou=222, loveyou=444.9OLD VIDEOS=500,2NEW VIDEOS=444(leave email in tip note please) [1466 tokens remaining]
+
+
+  * 11 mins, 2793 viewers
+
+
+
+| 
+
+[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=sweetddianna)
+
+HD
+
+[ sweetddianna](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=sweetddianna) 24
+
+  * fuck blonde [254 tokens remaining]
+
+
+  * 10 mins, 2241 viewers
+
+
+
+| 
+
+[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=couplesexe10)
+
+HD
+
+[ couplesexe10](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=couplesexe10) 24
+
+  * 'CrazyTicket': timer ON : blowjob fuck pussy cum shot Type /cmds to see all commands.
+
+
+  * 10 mins, 3469 viewers
+
+
+
+| 
+
+[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=wabashtke)
+
+HD
+
+[ wabashtke](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=wabashtke) 39
+
+  * 
+
+  * 17 mins, 1069 viewers
+
+  
+  
+---|---|---|---|---
