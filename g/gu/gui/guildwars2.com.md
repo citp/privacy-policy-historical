@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guildwars2.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211131833id_/https%3A//www.guildwars2.com/en/legal/arenanet-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildwars2.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182245id_/https%3A//www.guildwars2.com/en/legal/arenanet-privacy-policy) for the most accurate reproduction.*
 
 # ArenaNet Privacy Policy | GuildWars2.com
 
