@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mediamint.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122005455id_/http%3A//www.mediamint.com/mediamint-website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediamint.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051801id_/http%3A//mediamint.com/privacy-policy) for the most accurate reproduction.*
 
-# MediaMint Website Privacy Policy - Media Mint
+# Privacy Policy - MediaMint
 
 This Privacy Policy describes the collection and use of information on our website. Please read this policy before using, or submitting information to our sites. By using this site, you signify that you agree to this Privacy Policy. You may find links to other websites on our site, please be aware that we are not responsible for the privacy practices of any other sites.
 
