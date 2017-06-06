@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rallysportdirect.com privacy policy that was archived on 2016-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160916110232id_/https%3A//www.rallysportdirect.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rallysportdirect.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165001id_/https%3A//www.rallysportdirect.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -51,8 +51,9 @@ By visiting or purchasing from [RallySportDirect.com](http://www.rallysportdirec
 OUR ADDRESS
 
 RallySportDirect.com   
-218 W. 12650 S.   
-Draper, UT 84020   
+4870 W. 2100 S.   
+Suite A   
+Salt Lake City, UT 84120   
 
 
 LAST UPDATE 
