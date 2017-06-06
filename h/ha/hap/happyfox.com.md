@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the happyfox.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619102714id_/https%3A//www.happyfox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyfox.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175301id_/https%3A//www.happyfox.com/privacy-policy) for the most accurate reproduction.*
 
-# Happyfox help desk software | Privacy policy
+# HappyFox help desk software | Privacy policy
 
 HappyFox Inc. (“we”) is committed to ensuring the privacy of its customers and other visitors to its website (the “Site”) We have established this Privacy Policy to demonstrate our commitment to fair information practices and the protection of your privacy rights. We respect your right to privacy and this Privacy Policy details how we handle the information we receive from you.
 
