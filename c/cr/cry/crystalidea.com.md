@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crystalidea.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805193805id_/http%3A//www.crystalidea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalidea.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181728id_/https%3A//www.crystalidea.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CRYSTALIDEA Software
+# CrystalIDEA Privacy Agreement
 
 CrystalIdea Software has created this privacy policy in order to demonstrate its firm commitment to privacy. The policy discloses our information gathering and dissemination practices for our Web site, located at http://www.crystalidea.com. This policy is incorporated in, and subject to, the Terms and Conditions of Use of our Web site.
 
