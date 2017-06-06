@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifelabs.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224420id_/http%3A//www.lifelabs.com/corporate/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifelabs.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054903id_/http%3A//www.lifelabs.com/corporate/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Corporate | LifeLabs
 
@@ -25,14 +25,7 @@ LifeLabs currently has privacy policies and practices in place that meet the req
 
 LifeLabs remains firmly committed to maintaining the privacy and confidentiality of the personal information in our care.  
 
-For further information regarding our Privacy Program, please contact our Privacy and Security Officer , or send an e-mail to our confidential mailbox at [privacy@lifelabs.com](mailto:privacy@lifelabs.com)
-
-### LifeLabs Privacy and Security Officer
-
-Urooj Kirmani  
-100 International Blvd.Toronto, Ontario, M9W 6J6  
-Phone: 1-877-675-4530 x.3858  
-Email: [privacy@lifelabs.com](mailto:privacy@lifelabs.com)
+For further information regarding our Privacy Program, please contact our Privacy Officer at 1-844-783-6677 or send an e-mail to our confidential mailbox at [privacy@lifelabs.com](mailto:privacy@lifelabs.com)
 
 ### Access & Privacy Forms - Ontario  
 
@@ -104,26 +97,3 @@ Information and Privacy Commissioner/Ontario 
 Toronto, ON  M4W 1A8 
 
 **Website:**  [www.ipc.on.ca](http://www.ipc.on.ca/)
-
-### Federal
-
-Relevant legislation: [Personal Information Protection & Electronic Documents Act (PIPEDA) ](https://www.priv.gc.ca/leg_c/leg_c_p_e.asp)
-
-**Overseen by:**
-
-#### Office of the Privacy Commissioner of Canada
-
-**Phone:**  
-Toll-free: 1-800-282-1376   
-Gatineau: 819-994-5444 
-
-Fax:  819-994-5424 
-
-TTY:  819-994-6591 
-
-**Mailing Address:  **  
-Office of the Privacy Commissioner of Canada   
-30 Victoria St.  
-Gatineau, QC  K1A 1H3 
-
-**Website:**  [www.priv.gc.ca](http://www.priv.gc.ca/)
