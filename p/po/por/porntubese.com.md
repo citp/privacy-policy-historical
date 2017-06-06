@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porntubese.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821191508id_/http%3A//www.porntubese.com/page-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porntubese.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134658id_/http%3A//www.porntubese.com/page-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
