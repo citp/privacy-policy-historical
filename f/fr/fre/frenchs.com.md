@@ -1,50 +1,46 @@
-> *The following text is extracted and transformed from the frenchs.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122141121id_/http%3A//www.frenchs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frenchs.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121859id_/http%3A//www.frenchs.com/privacy-policy) for the most accurate reproduction.*
 
 # FRENCH’S® Foods Privacy Policy
 
-This privacy policy applies only to the websites controlled by The French’s Food Company LLC ("TFFC") where this privacy policy is posted or referenced (collectively, the "Sites"). This privacy policy does not pertain to other information that is collected offline or to information that is posted or provided by third parties.
+A. Information Collected
 
-BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
+     (1) Personally Identifiable Information
 
-[A. Information Collected](http://www.frenchs.com/privacy-policy/#infoCollected)
+     (2) Non-Personally Identifiable Information
 
-     [(1) Personally Identifiable Information](http://www.frenchs.com/privacy-policy/#personalIdentifiableInfoColl)
+B. Use of Information Collected Via the Sites
 
-     [(2) Non-Personally Identifiable Information](http://www.frenchs.com/privacy-policy/#nonPersonalInfoColl)
+     (1) Personally Identifiable Information
 
-[B. Use of Information Collected Via the Sites](http://www.frenchs.com/privacy-policy/#useOfInfo)
+     (2) Non-Personally Identifiable Information
 
-     [(1) Personally Identifiable Information](http://www.frenchs.com/privacy-policy/#personalIdentifiableUseOfInfo)
+C. Sharing and Disclosure of Information
 
-     [(2) Non-Personally Identifiable Information](http://www.frenchs.com/privacy-policy/#nonPersonalUseOfInfo)
+     (1) Personally Identifiable Information
 
-[C. Sharing and Disclosure of Information](http://www.frenchs.com/privacy-policy/#sharingAndDisclosure)
+     (2) Non-Personally Identifiable Information
 
-     [(1) Personally Identifiable Information](http://www.frenchs.com/privacy-policy/#personalIdentifiableSharing)
+D. Collection and Use of Information from Children Under the Age of 13
 
-     [(2) Non-Personally Identifiable Information](http://www.frenchs.com/privacy-policy/#nonPersonalSharing)
+E. International Transfer of Information
 
-[D. Collection and Use of Information from Children Under the Age of 13](http://www.frenchs.com/privacy-policy/#children)
+F. Opt-Out
 
-[E. International Transfer of Information](http://www.frenchs.com/privacy-policy/#internalTransfer)
+G. Forums, Chat Rooms and Other Public Posting Areas
 
-[F. Opt-Out](http://www.frenchs.com/privacy-policy/#optOut)
+H. Third Party Web Sites
 
-[G. Forums, Chat Rooms and Other Public Posting Areas](http://www.frenchs.com/privacy-policy/#publicPosting)
+I. Assignment
 
-[H. Third Party Web Sites](http://www.frenchs.com/privacy-policy/#thirdParty)
+J. Changes to this Privacy Policy
 
-[I. Assignment](http://www.frenchs.com/privacy-policy/#assignment)
+K. Security
 
-[J. Changes to this Privacy Policy](http://www.frenchs.com/privacy-policy/#changesToPolicy)
+L. Your rights
 
-[K. Security](http://www.frenchs.com/privacy-policy/#security)
+M. Governing Law / Venue / Forum
 
-[L. Your rights](http://www.frenchs.com/privacy-policy/#rights)
-
-[M. Governing Law / Venue / Forum](http://www.frenchs.com/privacy-policy/#law)
-
-[N. Contacting TFFC](http://www.frenchs.com/privacy-policy/#contact)
+N. Contacting TFFC
 
 A. Information Collected
 
@@ -52,7 +48,7 @@ This privacy policy applies only to information collected on the Sites and does 
 
 We collect two types of information from visitors to the Sites: (1) Personally Identifiable Information; and (2) Non- Personally Identifiable Information, such as your IP address or cookies.
 
-(1) Personally Identifiable Information
+**(1)Personally Identifiable Information**
 
 "Personally Identifiable Information" is information that identifies you personally, such as your name, address, telephone number, email address, or company name.  TFFC collects and stores the personally identifiable information that you have provided to us on the Sites, including as follows:
 
@@ -63,7 +59,7 @@ We may collect your first and last name, mailing information, email address and 
 We may collect your name, email address or phone number if you contact us with a question; We may collect your first and last name, date of birth and email address if you choose to participate in a contest or sweepstakes; and/or   
 We may collect your name and mobile phone number if you consent to receive autodialed and/or pre-recorded telemarketing messages from or on behalf of us at your mobile number.  f you do not want TFFC to collect your personally identifiable information, please do not provide it to us.
 
-(2) Non-Personally Identifiable Information
+**(2) Non-Personally Identifiable Information**
 
 "Non-Personally Identifiable Inform ation" can be technical information or it can be demographic information, such as your age, location, gender or interests. Non-personally identifiable information does NOT identify you personally. Here are some examples of the non-personally identifiable information that is collected via the Sites:
 
@@ -77,7 +73,7 @@ Product Information -- We may collect registration information or other details 
 
 B. Use of Information Collected Via the Sites
 
- (1) Personally Identifiable Information
+**  (1) Personally Identifiable Information**
 
 We use your personally identifiable information that is collected on these Sites primarily for the following purposes:
 
@@ -155,7 +151,7 @@ If we learn of a security systems breach we may attempt to notify you electronic
 
 **L. Your rights**
 
-If you are from the European Union or Switzerland and wish to obtain access to the personal information that we hold about you, or to correct, amend, update or delete such information, please contact us at the address below. Before responding to your request, we may ask you to verify your identity and to provide further details about your request. We will endeavor to respond within an appropriate timeframe and, in any event, within any timescales required by law.
+If you are from the European Union and wish to obtain access to the personal information that we hold about you, or to correct, amend, update or delete such information, please contact us at the address below. Before responding to your request, we may ask you to verify your identity and to provide further details about your request. We will endeavor to respond within an appropriate timeframe and, in any event, within any timescales required by law.
 
 **M. Governing Law / Venue / Forum**
 
@@ -196,19 +192,6 @@ TFFC will respond within 45 days.
 
 TFFC's commitments under the Privacy Shield are subject to the investigatory and enforcement powers of the United States Federal Trade Commission.
 
-**SWISS SAFE HARBOR PRIVACY STATEMENT**
-
-For transfers of personal information from Switzerland to the US, we have certified our compliance with the US-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce and will apply the Swiss Safe Harbor Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement when processing such data in the US.  To learn more about the Swiss Safe Harbor program, please visit   <https://safeharbor.export.gov/swisslist.aspx>
-
-If you have any questions or concerns about our Swiss Safe Harbor program, please contact us using the contact details provided below.  
-
-If you believe that your information has not been processed in compliance with our US-Swiss Safe Harbor commitments, you may raise your concern with the Federal Data Protection and Information Commissioner (for Swiss citizens), as well as at the contact details further below. 
-
-The French’s Food Company LLC   
-4 Mill Ridge Lane  
-Chester, NJ 07930   
-Attn: Consumer Relations
-
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
 Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding TFFC's disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us:
@@ -218,5 +201,5 @@ The French’s Food Company LLC
 Chester, NJ 07930   
 Attn: Consumer Relations
 
-Effective Date: September 30, 2016  
-Last Updated On: September 30, 2016 
+Effective Date: March 22, 2017  
+Last Updated On: March 22, 2017
