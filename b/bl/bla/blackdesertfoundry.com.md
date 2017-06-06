@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackdesertfoundry.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231011056id_/http%3A//blackdesertfoundry.com/tos-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackdesertfoundry.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021931id_/http%3A//blackdesertfoundry.com/tos-privacy-policy) for the most accurate reproduction.*
 
 # Terms of Service & Privacy Policy | BDFoundry
 
@@ -59,7 +59,7 @@ Access to certain areas of this website is restricted. www.blackdesertfoundry.co
 
 If www.blackdesertfoundry.com provides you with a user ID and password to enable you to access restricted areas of this website or other content or services, you must ensure that the user ID and password are kept confidential. You alone are responsible for your password and user ID security..
 
-www.blackdesertfoundry.com may disable your user ID and password at www.blackdesertfoundry.com’s sole discretion without notice or explanation.
+www.blackdesertfoundry.com may disable your user ID and password at www.blackdesertfoundry.com's sole discretion without notice or explanation.
 
 **User Content**
 
@@ -67,13 +67,13 @@ In these terms and conditions, “your user content” means material (including
 
 You grant to www.blackdesertfoundry.com a worldwide, irrevocable, non-exclusive, royalty-free license to use, reproduce, adapt, publish, translate and distribute your user content in any existing or future media. You also grant to www.blackdesertfoundry.com the right to sub-license these rights, and the right to bring an action for infringement of these rights.
 
-Your user content must not be illegal or unlawful, must not infringe any third party’s legal rights, and must not be capable of giving rise to legal action whether against you or www.blackdesertfoundry.com or a third party (in each case under any applicable law).
+Your user content must not be illegal or unlawful, must not infringe any third party's legal rights, and must not be capable of giving rise to legal action whether against you or www.blackdesertfoundry.com or a third party (in each case under any applicable law).
 
 You must not submit any user content to the website that is or has ever been the subject of any threatened or actual legal proceedings or other similar complaint.
 
 www.blackdesertfoundry.com reserves the right to edit or remove any material submitted to this website, or stored on the servers of www.blackdesertfoundry.com, or hosted or published upon this website.
 
-www.blackdesertfoundry.com’s rights under these terms and conditions in relation to user content, www.blackdesertfoundry.com does not undertake to monitor the submission of such content to, or the publication of such content on, this website.
+www.blackdesertfoundry.com's rights under these terms and conditions in relation to user content, www.blackdesertfoundry.com does not undertake to monitor the submission of such content to, or the publication of such content on, this website.
 
 **No Warranties**
 
@@ -94,7 +94,7 @@ The Site may contain links to other parties. We are not responsible for the cont
 
 **Breaches of these terms and conditions**
 
-Without prejudice to www.blackdesertfoundry.com’s other rights under these terms and conditions, if you breach these terms and conditions in any way, www.blackdesertfoundry.com may take such action as www.blackdesertfoundry.com deems appropriate to deal with the breach, including suspending your access to the website, prohibiting you from accessing the website, blocking computers using your IP address from accessing the website, contacting your internet service provider to request that they block your access to the website and/or bringing court proceedings against you.
+Without prejudice to www.blackdesertfoundry.com's other rights under these terms and conditions, if you breach these terms and conditions in any way, www.blackdesertfoundry.com may take such action as www.blackdesertfoundry.com deems appropriate to deal with the breach, including suspending your access to the website, prohibiting you from accessing the website, blocking computers using your IP address from accessing the website, contacting your internet service provider to request that they block your access to the website and/or bringing court proceedings against you.
 
 **Variation**
 
@@ -102,7 +102,7 @@ www.blackdesertfoundry.com may revise these terms and conditions from time-to-ti
 
 **Entire agreement**
 
-These terms and conditions, together with www.blackdesertfoundry.com’s Privacy Policy constitute the entire agreement between you and www.blackdesertfoundry.com in relation to your use of this website, and supersede all previous agreements in respect of your use of this website.
+These terms and conditions, together with www.blackdesertfoundry.com's Privacy Policy constitute the entire agreement between you and www.blackdesertfoundry.com in relation to your use of this website, and supersede all previous agreements in respect of your use of this website.
 
 * * *
 
@@ -131,21 +131,21 @@ We use regular Malware Scanning.
 We do not use an SSL certificate  
 • We only provide articles and information, we never ask for personal or private information like credit card numbers.
 
-**Do we use ‘cookies’?**
+**Do we use 'cookies'?**
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
 We use cookies to:  
 • Keep track of advertisements.  
 • Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
 
-If you disable cookies off, some features will be disabled. It won’t affect the users experience that make your site experience more efficient and some of our services will not function properly.
+If you disable cookies off, some features will be disabled. It won't affect the users experience that make your site experience more efficient and some of our services will not function properly.
 
 **Third Party Disclosure**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
@@ -155,11 +155,11 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 **Google**
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
 We use Google AdSense Advertising on our website.
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 We have implemented the following:  
 • Remarketing with Google AdSense
@@ -180,7 +180,7 @@ This site contains links to other sites. Please be aware that we do not exercise
 We agree to the following:  
 Users can visit our site anonymously  
 Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.  
-Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
+Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
 
 Your use of this site indicates an acceptance of the terms of the Privacy Policy. We reserve the right to update or amend this Privacy Policy at any time.
 
@@ -191,7 +191,7 @@ Users are able to change their personal information:
 
 **Anti-Spam**
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at contact@blackdesertfoundry.com or “opt-out” of our newsletters,  
+If at any time you would like to unsubscribe from receiving future emails, you can email us at contact@blackdesertfoundry.com or "opt-out" of our newsletters,  
 and we will promptly remove you from ALL correspondence.
 
 **Contacting Us**
