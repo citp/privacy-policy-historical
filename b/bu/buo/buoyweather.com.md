@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buoyweather.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119022831id_/http%3A//www.buoyweather.com/info.jsp%3Fid%3D21737) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buoyweather.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191144id_/http%3A//www.buoyweather.com/info.jsp%3Fid%3D21737) for the most accurate reproduction.*
 
 # Privacy Policy | BUOYWEATHER.COM
 
