@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powtoon.com privacy policy that was archived on 2014-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140916172635id_/http%3A//www.powtoon.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powtoon.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170856id_/https%3A//www.powtoon.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Powtoon - animated explainer maker
 
@@ -32,8 +32,8 @@ In certain circumstances we may also release your information if we believe rele
 Occasionally, and at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies and should be researched independently by anyone wishing to use their services.  
 NOTE: We have no responsibility or liability for the content and activities of these third party sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback and issues concerning these third party sites.
 
-**Children’s Online Privacy Protection Act Compliance**  
-We are in complete compliance with the requirements of COPPA (Children’s Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our website, products, and services are all directed to people who are at least 13 years or older.
+**Children?s Online Privacy Protection Act Compliance**  
+We are in complete compliance with the requirements of COPPA (Children?s Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our website, products, and services are all directed to people who are at least 13 years or older.
 
 **Terms & Conditions**  
 For more information please visit our [Terms & Conditions](http://www.powtoon.com/blog/terms-and-conditions-of-use/) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
