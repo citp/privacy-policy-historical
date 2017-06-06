@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphpaperpress.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607093719id_/http%3A//graphpaperpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphpaperpress.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607015153id_/http%3A//graphpaperpress.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Graph Paper Press
 
