@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dohabank.qa privacy policy that was archived on 2016-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120022547id_/http%3A//dohabank.qa/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dohabank.qa privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606033241id_/http%3A//dohabank.qa/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
 	<meta charset="UTF-8">
@@ -8,12 +8,10 @@
 	<link rel="pingback" href="">
 
 	<title>Privacy Policy - Doha Bank Qatar</title>
-
-<link rel="stylesheet" href="http://dohabank.qa/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=3.5.1" type="text/css" media="all">
 <link rel="alternate" hreflang="en-US" href="http://dohabank.qa/privacy-policy/">
 <link rel="alternate" hreflang="ar" href="http://dohabank.qa/ar/%d8%a8%d9%8a%d8%a7%d9%86-%d8%a7%d9%84%d8%ae%d8%b5%d9%88%d8%b5%d9%8a%d8%a9/">
 
-<!-- This site is optimized with the Yoast SEO plugin v3.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v4.8 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://dohabank.qa/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -24,11 +22,21 @@
 <meta name="twitter:title" content="Privacy Policy - Doha Bank Qatar">
 <!-- / Yoast SEO plugin. -->
 
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//kw.dohabank.in">
+<link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Doha Bank Qatar » Feed" href="http://dohabank.qa/feed/">
-		<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/dohabank.qa\/wp-includes\/js\/wp-emoji.js?ver=4.5.2","twemoji":"http:\/\/dohabank.qa\/wp-includes\/js\/twemoji.js?ver=4.5.2"}};
+		<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5TQ5LR4"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/dohabank.qa\/wp-includes\/js\/wp-emoji.js?ver=4.7.5","twemoji":"http:\/\/dohabank.qa\/wp-includes\/js\/twemoji.js?ver=4.7.5"}};
 			( function( window, document, settings ) {
 	var src, ready, ii, tests;
+
+	/*
+	 * Create a canvas element for testing native browser support
+	 * of emoji.
+	 */
+	var canvas = document.createElement( 'canvas' );
+	var context = canvas.getContext && canvas.getContext( '2d' );
 
 	/**
 	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
@@ -36,18 +44,19 @@
 	 *
 	 * @since 4.2.0
 	 *
-	 * @param type {String} Whether to test for support of "simple", "flag", "diversity" or "unicode8" emoji.
+	 * @param type {String} Whether to test for support of "flag" or "emoji4" emoji.
 	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
 	 */
 	function browserSupportsEmoji( type ) {
-		var canvas = document.createElement( 'canvas' ),
-			context = canvas.getContext && canvas.getContext( '2d' ),
-			stringFromCharCode = String.fromCharCode,
-			tonedata, tone, tone2;
+		var stringFromCharCode = String.fromCharCode,
+			flag, flag2, technologist, technologist2;
 
 		if ( ! context || ! context.fillText ) {
 			return false;
 		}
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
 
 		/*
 		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
@@ -62,46 +71,53 @@
 				/*
 				 * This works because the image will be one of three things:
 				 * - Two empty squares, if the browser doesn't render emoji
-				 * - Two squares with 'A' and 'U' in them, if the browser doesn't render flag emoji
-				 * - The Australian flag
+				 * - Two squares with 'U' and 'N' in them, if the browser doesn't render flag emoji
+				 * - The United Nations flag
 				 *
 				 * The first two will encode to small images (1-2KB data URLs), the third will encode
 				 * to a larger image (4-5KB data URL).
 				 */
-				context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
-				return canvas.toDataURL().length > 3000;
-			case 'diversity':
-				/*
-				 * This tests if the browser supports the Emoji Diversity specification, by rendering an
-				 * emoji with no skin tone specified (in this case, Santa). It then adds a skin tone, and
-				 * compares if the emoji rendering has changed.
-				 */
-				context.fillText( stringFromCharCode( 55356, 57221 ), 0, 0 );
-				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
-				tone = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+				context.fillText( stringFromCharCode( 55356, 56826, 55356, 56819 ), 0, 0 );
+				if ( canvas.toDataURL().length < 3000 ) {
+					return false;
+				}
 
-				context.fillText( stringFromCharCode( 55356, 57221, 55356, 57343 ), 0, 0 );
-				// Chrome has issues comparing arrays, and Safari has issues converting arrays to strings.
-				// So, we create our own string and compare that, instead.
-				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
-				tone2 = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+				context.clearRect( 0, 0, canvas.width, canvas.height );
 
-				return tone !== tone2;
-			case 'simple':
 				/*
-				 * This creates a smiling emoji, and checks to see if there is any image data in the
-				 * center pixel. In browsers that don't support emoji, the character will be rendered
-				 * as an empty square, so the center pixel will be blank.
+				 * Test for rainbow flag compatibility. As the rainbow flag was added out of sequence with
+				 * the usual Unicode release cycle, some browsers support it, and some don't, even if their
+				 * Unicode support is up to date.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (white flag emoji + rainbow emoji).
 				 */
-				context.fillText( stringFromCharCode( 55357, 56835 ), 0, 0 );
-				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
-			case 'unicode8':
+				context.fillText( stringFromCharCode( 55356, 57331, 65039, 8205, 55356, 57096 ), 0, 0 );
+				flag = canvas.toDataURL();
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				context.fillText( stringFromCharCode( 55356, 57331, 55356, 57096 ), 0, 0 );
+				flag2 = canvas.toDataURL();
+
+				return flag !== flag2;
+			case 'emoji4':
 				/*
-				 * To check for Unicode 8 support, let's try rendering the most important advancement
-				 * that the Unicode Consortium have made in years: the burrito.
+				 * Emoji 4 has the best technologists. So does WordPress!
+				 *
+				 * To test for support, try to render a new emoji (woman technologist: medium skin tone),
+				 * then compare it to how it would look if the browser doesn't render it correctly
+				 * (woman technologist: medium skin tone + personal computer).
 				 */
-				context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
-				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+				context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 8205, 55357, 56507), 0, 0 );
+				technologist = canvas.toDataURL();
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 55357, 56507), 0, 0 );
+				technologist2 = canvas.toDataURL();
+
+				return technologist !== technologist2;
 		}
 
 		return false;
@@ -111,11 +127,11 @@
 		var script = document.createElement( 'script' );
 
 		script.src = src;
-		script.type = 'text/javascript';
+		script.defer = script.type = 'text/javascript';
 		document.getElementsByTagName( 'head' )[0].appendChild( script );
 	}
 
-	tests = Array( 'simple', 'flag', 'unicode8', 'diversity' );
+	tests = Array( 'flag', 'emoji4' );
 
 	settings.supports = {
 		everything: true,
@@ -167,7 +183,7 @@
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="http://dohabank.qa/wp-includes/js/twemoji.js?ver=4.5.2" type="text/javascript"></script><script src="http://dohabank.qa/wp-includes/js/wp-emoji.js?ver=4.5.2" type="text/javascript"></script>
+		</script><script src="http://dohabank.qa/wp-includes/js/twemoji.js?ver=4.7.5" type="text/javascript" defer=""></script><script src="http://dohabank.qa/wp-includes/js/wp-emoji.js?ver=4.7.5" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -182,22 +198,27 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="ubermenu-lato-css" href="//fonts.googleapis.com/css?family=Lato%3A%2C300%2C400%2C700&amp;ver=4.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="chosen-css" href="http://dohabank.qa/wp-content/plugins/wp-job-manager/assets/css/chosen.css?ver=4.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="wp-job-manager-frontend-css" href="http://dohabank.qa/wp-content/plugins/wp-job-manager/assets/css/frontend.css?ver=4.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="w2b-banner-ad-css" href="http://dohabank.qa/wp-content/plugins/web2box-banner-ads/css/web2box-banner-ad.css?ver=4.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="w2bloc_css-css" href="http://dohabank.qa/wp-content/plugins/web2box-locations/css/w2bloc.css?ver=4.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="http://dohabank.qa/wp-content/plugins/web2box-locations/css/font-awesome.min.css?ver=4.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="flatsome-icons-css" href="http://dohabank.qa/wp-content/themes/flatbox/css/fonts.css?ver=4.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="flatsome-animations-css" href="http://dohabank.qa/wp-content/themes/flatbox/css/animations.css?ver=4.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="flatsome-main-css-css" href="http://dohabank.qa/wp-content/themes/flatbox/css/foundation.css?ver=4.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="flatsome-style-css" href="http://dohabank.qa/wp-content/themes/flatbox-db/style.css?ver=4.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="flatsome-googlefonts-css" href="//fonts.googleapis.com/css?family=Dancing+Script%3A300%2C400%2C700%2C900%7CLato%3A300%2C400%2C700%2C900%7COpen+Sans%3A300%2C400%2C700%2C900%7CLato%3A300%2C400%2C700%2C900&amp;subset=latin&amp;ver=4.5.2" type="text/css" media="all">
+<link rel="stylesheet" id="ubermenu-lato-css" href="//fonts.googleapis.com/css?family=Lato%3A%2C300%2C400%2C700&amp;ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="chosen-css" href="http://dohabank.qa/wp-content/plugins/wp-job-manager/assets/css/chosen.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="wp-job-manager-frontend-css" href="http://dohabank.qa/wp-content/plugins/wp-job-manager/assets/css/frontend.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="w2b-banner-ad-css" href="http://dohabank.qa/wp-content/plugins/web2box-banner-ads/css/web2box-banner-ad.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="w2bloc_css-css" href="http://dohabank.qa/wp-content/plugins/web2box-locations/css/w2bloc.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="http://dohabank.qa/wp-content/plugins/web2box-locations/css/font-awesome.min.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="wpml-legacy-horizontal-list-0-css" href="http://kw.dohabank.in/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.css?ver=1" type="text/css" media="all">
+<style id="wpml-legacy-horizontal-list-0-inline-css" type="text/css">
+.wpml-ls-statics-shortcode_actions{background-color:#ffffff;}.wpml-ls-statics-shortcode_actions, .wpml-ls-statics-shortcode_actions .wpml-ls-sub-menu, .wpml-ls-statics-shortcode_actions a {border-color:#cdcdcd;}.wpml-ls-statics-shortcode_actions a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-shortcode_actions a:hover,.wpml-ls-statics-shortcode_actions a:focus {color:#000000;background-color:#eeeeee;}.wpml-ls-statics-shortcode_actions .wpml-ls-current-language>a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-shortcode_actions .wpml-ls-current-language:hover>a, .wpml-ls-statics-shortcode_actions .wpml-ls-current-language>a:focus {color:#000000;background-color:#eeeeee;}
+</style>
+<link rel="stylesheet" id="wpml-menu-item-0-css" href="http://kw.dohabank.in/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.css?ver=1" type="text/css" media="all">
+<link rel="stylesheet" id="flatsome-icons-css" href="http://dohabank.qa/wp-content/themes/flatbox/css/fonts.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="flatsome-animations-css" href="http://dohabank.qa/wp-content/themes/flatbox/css/animations.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="flatsome-main-css-css" href="http://dohabank.qa/wp-content/themes/flatbox/css/foundation.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="flatsome-style-css" href="http://dohabank.qa/wp-content/themes/flatbox-db/style.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="flatsome-googlefonts-css" href="//fonts.googleapis.com/css?family=Dancing+Script%3A300%2C400%2C700%2C900%7CLato%3A300%2C400%2C700%2C900%7COpen+Sans%3A300%2C400%2C700%2C900%7CLato%3A300%2C400%2C700%2C900&amp;subset=latin&amp;ver=4.7.5" type="text/css" media="all">
 <link rel="stylesheet" id="flatbox-box-icons-css" href="http://dohabank.qa/wp-content/themes/flatbox/flatbox/style.css?ver=0.1" type="text/css" media="all">
 <link rel="stylesheet" id="flatbox-theme-css-css" href="http://dohabank.qa/wp-content/themes/flatbox/flatbox/css/theme.css?ver=0.1" type="text/css" media="all">
 <link rel="stylesheet" id="responsive-tables-css-css" href="http://dohabank.qa/wp-content/themes/flatbox/flatbox/css/responsive-tables.css?ver=0.1" type="text/css" media="all">
 <link rel="stylesheet" id="ubermenu-css" href="http://dohabank.qa/wp-content/plugins/ubermenu/pro/assets/css/ubermenu.min.css?ver=3.2.5" type="text/css" media="all">
-<link rel="stylesheet" id="ubermenu-vanilla-css" href="http://dohabank.qa/wp-content/plugins/ubermenu/assets/css/skins/vanilla.css?ver=4.5.2" type="text/css" media="all">
+<link rel="stylesheet" id="ubermenu-vanilla-css" href="http://dohabank.qa/wp-content/plugins/ubermenu/assets/css/skins/vanilla.css?ver=4.7.5" type="text/css" media="all">
 <link rel="stylesheet" id="ubermenu-font-awesome-css" href="http://dohabank.qa/wp-content/plugins/ubermenu/assets/css/fontawesome/css/font-awesome.min.css?ver=4.3" type="text/css" media="all">
 <!-- This site uses the Google Analytics by MonsterInsights plugin v5.5.4 - Universal enabled - https://www.monsterinsights.com/ -->
 <script type="text/javascript">
@@ -212,14 +233,15 @@ img.emoji {
 
 </script>
 <!-- / Google Analytics by MonsterInsights -->
-<script type="text/javascript" src="http://dohabank.qa/wp-includes/js/jquery/jquery.js?ver=1.12.3"></script>
-<script type="text/javascript" src="http://dohabank.qa/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.0"></script>
+<script type="text/javascript" src="http://dohabank.qa/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://dohabank.qa/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://dohabank.qa/wp-content/plugins/stop-user-enumeration/js/commentauthor.js?ver=4.7.5"></script>
 <link rel="https://api.w.org/" href="http://dohabank.qa/wp-json/">
-<meta name="generator" content="WordPress 4.5.2">
+<meta name="generator" content="WordPress 4.7.5">
 <link rel="shortlink" href="http://dohabank.qa/?p=2439">
 <link rel="alternate" type="application/json+oembed" href="http://dohabank.qa/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdohabank.qa%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://dohabank.qa/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdohabank.qa%2Fprivacy-policy%2F&amp;format=xml">
-<meta name="generator" content="WPML ver:3.5.1 stt:1,5;">
+<meta name="generator" content="WPML ver:3.6.3 stt:5,1;">
 <style id="ubermenu-custom-generated-css">
 /** UberMenu Custom Menu Styles (Customizer) **/
 /* main */
@@ -414,15 +436,37 @@ img.emoji {
    padding-right: 20px;
    padding-left: 0;
 }
-/* Status: Regenerated */
+/* Status: Loaded from Transient */
 
-</style><!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="http://dohabank.qa/wp-content/themes/flatbox/css/ie8.css"><script src="//cdn.jsdelivr.net/g/mutationobserver/"></script><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><script>var head = document.getElementsByTagName('head')[0],style = document.createElement('style');style.type = 'text/css';style.styleSheet.cssText = ':before,:after{content:none !important';head.appendChild(style);setTimeout(function(){head.removeChild(style);}, 0);</script><![endif]--><link rel="icon" href="http://qatar.dohabank.in/wp-content/uploads/sites/12/dohabank-logo-150x150.png" sizes="32x32">
+</style><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5TQ5LR4');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '473260699542078'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=473260699542078&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code --><!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="http://dohabank.qa/wp-content/themes/flatbox/css/ie8.css"><script src="//cdn.jsdelivr.net/g/mutationobserver/"></script><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><script>var head = document.getElementsByTagName('head')[0],style = document.createElement('style');style.type = 'text/css';style.styleSheet.cssText = ':before,:after{content:none !important';head.appendChild(style);setTimeout(function(){head.removeChild(style);}, 0);</script><![endif]--><link rel="icon" href="http://qatar.dohabank.in/wp-content/uploads/sites/12/dohabank-logo-150x150.png" sizes="32x32">
 <link rel="icon" href="http://qatar.dohabank.in/wp-content/uploads/sites/12/dohabank-logo.png" sizes="192x192">
 <link rel="apple-touch-icon-precomposed" href="http://qatar.dohabank.in/wp-content/uploads/sites/12/dohabank-logo.png">
 <meta name="msapplication-TileImage" content="http://qatar.dohabank.in/wp-content/uploads/sites/12/dohabank-logo.png">
-<!-- Custom CSS Codes --><style type="text/css"> .top-bar-nav a.nav-top-link,body,p,#top-bar,.cart-inner .nav-dropdown,.nav-dropdown{font-family:Open Sans,helvetica,arial,sans-serif}.header-nav a.nav-top-link, a.cart-link, .mobile-sidebar a{font-family:Lato,helvetica,arial,sans-serif}h1,h2,h3,h4,h5,h6{font-family:Lato,helvetica,arial,sans-serif}.alt-font{font-family:Dancing Script,Georgia,serif!important;} #masthead{ height:80px;}#logo a img{ max-height:50px} #masthead #logo{width:180px;}#masthead #logo a{max-width:180px} #masthead.stuck.move_down{height:70px;}.wide-nav.move_down{top:70px;}#masthead.stuck.move_down #logo a img{ max-height:60px } ul.header-nav li a {font-size:80%} #masthead{background-color:#fff; ;} .slider-nav-reveal .flickity-prev-next-button, #main-content{background-color:#FFF!important} .wide-nav {background-color:#eee} #top-bar{background-color:#f28424 }.header-nav li.mini-cart.active .cart-icon strong{background-color:#0c72c0 } .ux-timer-text.primary span .alt-button.primary,.callout.style3 .inner .inner-text,.add-to-cart-grid .cart-icon strong,.tagcloud a,.navigation-paging a, .navigation-image a ,ul.page-numbers a, ul.page-numbers li > span,#masthead .mobile-menu a,.alt-button, #logo a, li.mini-cart .cart-icon strong,.widget_product_tag_cloud a, .widget_tag_cloud a,.post-date,#masthead .mobile-menu a.mobile-menu a,.checkout-group h3,.order-review h3 {color:#0c72c0;}#submit.disabled:hover, #submit.disabled:focus, #submit[disabled]:hover, #submit[disabled]:focus, button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus, input[type="submit"].disabled:hover, input[type="submit"].disabled:focus, input[type="submit"][disabled]:hover, input[type="submit"][disabled]:focus,#submit.disabled, #submit[disabled], button.disabled, button[disabled], .button.disabled, .button[disabled], input[type="submit"].disabled, input[type="submit"][disabled],button[disabled], .button[disabled],button[disabled]:hover, .button[disabled]:hover, .ux-timer.primary span, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .ux-box.ux-text-badge:hover .ux-box-text, .ux-box.ux-text-overlay .ux-box-image,.ux-header-element a:hover,.featured-table.ux_price_table .title,.scroll-to-bullets a strong,.scroll-to-bullets a.active,.scroll-to-bullets a:hover,.tabbed-content.pos_pills ul.tabs li.active a,.ux_hotspot,ul.page-numbers li > span,.label-new.menu-item a:after,.add-to-cart-grid .cart-icon strong:hover,.text-box-primary, .navigation-paging a:hover, .navigation-image a:hover ,.next-prev-nav .prod-dropdown > a:hover,ul.page-numbers a:hover,.widget_product_tag_cloud a:hover,.widget_tag_cloud a:hover,.custom-cart-count,.iosSlider .sliderNav a:hover span, li.mini-cart.active .cart-icon strong,.product-image .quick-view, .product-image .product-bg, #submit, button, #submit, button, .button, input[type="submit"],li.mini-cart.active .cart-icon strong,.post-item:hover .post-date,.blog_shortcode_item:hover .post-date,.column-slider .sliderNav a:hover,.ux_banner {background-color:#0c72c0}button[disabled], .button[disabled],.slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .ux-header-element a:hover,.featured-table.ux_price_table,.text-bordered-primary,.callout.style3 .inner,ul.page-numbers li > span,.add-to-cart-grid .cart-icon strong, .add-to-cart-grid .cart-icon-handle,.add-to-cart-grid.loading .cart-icon strong,.navigation-paging a, .navigation-image a ,ul.page-numbers a ,ul.page-numbers a:hover,.post.sticky,.widget_product_tag_cloud a, .widget_tag_cloud a,.next-prev-nav .prod-dropdown > a:hover,.iosSlider .sliderNav a:hover span,.column-slider .sliderNav a:hover,.woocommerce .order-review, .woocommerce-checkout form.login,.button, button, li.mini-cart .cart-icon strong,li.mini-cart .cart-icon .cart-icon-handle,.post-date{border-color:#0c72c0;}.blockUI:before,.processing:before,.ux-loading{border-left-color:#0c72c0;}.primary.alt-button:hover,.button.alt-button:hover{background-color:#0c72c0!important}.flickity-prev-next-button:hover svg, .flickity-prev-next-button:hover .arrow, .featured-box:hover svg, .featured-img svg:hover{fill:#0c72c0!important;}.slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .featured-box:hover .featured-img-circle svg{fill:#FFF!important;}.featured-box:hover .featured-img-circle{background-color:#0c72c0!important; border-color:#0c72c0!important;} .star-rating:before, .woocommerce-page .star-rating:before, .star-rating span:before{color:#f28424}.secondary.alt-button,li.menu-sale a{color:#f28424!important}.secondary-bg.button.alt-button.success:hover,.label-sale.menu-item a:after,.mini-cart:hover .custom-cart-count,.callout .inner,.button.secondary,.button.checkout,#submit.secondary, button.secondary, .button.secondary, input[type="submit"].secondary{background-color:#f28424}.button.secondary,.button.secondary{border-color:#f28424;}.secondary.alt-button:hover{color:#FFF!important;background-color:#f28424!important}ul.page-numbers li > span{color:#FFF;} .callout.style3 .inner.success-bg .inner-text,.woocommerce-message{color:#7a9c59!important}.success-bg,.woocommerce-message:before,.woocommerce-message:after{color:#FFF!important; background-color:#7a9c59}.label-popular.menu-item a:after,.add-to-cart-grid.loading .cart-icon strong,.add-to-cart-grid.added .cart-icon strong{background-color:#7a9c59;border-color:#7a9c59;}.add-to-cart-grid.loading .cart-icon .cart-icon-handle,.add-to-cart-grid.added .cart-icon .cart-icon-handle{border-color:#7a9c59}.label-new.menu-item > a:after{content:"New";}.label-hot.menu-item > a:after{content:"Hot";}.label-sale.menu-item > a:after{content:"Sale";}.label-popular.menu-item > a:after{content:"Popular";}.featured_item_image{max-height:250px}.callout .inner.callout-new-bg{background-color:#7a9c59!important;}.callout.style3 .inner.callout-new-bg{background-color:none!important;border-color:#7a9c59!important}#lang_sel{z-index:10;width:100%}#lang_sel li{width:100%;}.menu-item-language .sub-menu{ padding:10px; left:auto;right:0;width:180px;}.menu-item-language .sub-menu li{margin:0;padding:0;width:100%}.sub-menu.submenu-languages a{color:#777!important;font-size:95%; display:block;text-transform:uppercase;padding:10px 0;border-bottom:1px solid #EEE;}.sub-menu.submenu-languages a:hover{color:#000!important;border-bottom:1px solid #EEE;}.sub-menu.submenu-languages li:last-child a{border:0}.sub-menu.submenu-languages .iclflag{margin-right:5px;} #menu-item-5621 {display:none}.byline { display:none !important;}a.disabled { pointer-events:none; cursor:default;}#notice p {font-size:112%;font-weight:400;color:white;}#notice h2 {font-size:220%;font-weight:200;color:white;}#notice .close {font-size:180%;position:absolute;right:20px;color:white;}.rtl #notice .close {left:20px;right:unset;}.home .lightbox-white {min-height:300px !important;}#menu-item-14397 a {display:none;}.btn-close {position:absolute;padding:10px;background-color:#0A5FA2;top:-36px;width:75px;color:white;right:-286px;display:none;}.carousel {height:600px;width:800px;direction:ltr !important;}.carousel-cell {height:600px;width:800px;direction:ltr !important;}.bod .thin-font { font-weight:600 !important; color:#aaaaaa;}#masthead .right-links > ul {float:left;margin-left:15px;}.home .ux-slider {margin-bottom:0px;}.widget_subpages ul ul {background-color:#999;}.widget .rpwe-title a {font-size:120%;}.blue {color:#0c72c0;}a {color:#0c72c0;} .artical-body p {text-align:justify;}.curr-flag {height:15px;float:left;margin-right:5px;}#menu-top-bar-menu li a {vertical-align:-webkit-baseline-middle;vertical-align:-moz-middle-with-baseline;}.html-block {float:left;}.notes {border:1px solid #dddddd;padding:20px !important;background:#f1f1f1;margin-bottom:30px !important;margin-top:20px !important;}.search span.subline {display:inherit;}.search .type-page h1.entry-title { margin-bottom:5px;}.entry-title a {color:#0A5FA2;}.entry-url a {color:#006621;}.iban object {min-height:1400px;}.ux_banner h1, .ux_text h1 {font-weight:400;}a.arrow-r:before {content:">";color:#F28424;padding-right:7px;font-weight:600;}ul.addr {list-style-type:none;}ul.inline-list li {display:inline-table;}object {min-height:600px;}.lightbox-white { min-height:600px}.heading-light { font-weight:200; display:block; text-transform:uppercase;}.ux-box p {color:#555;}.ux_banner .inner.left {left:15px;}.rtl #masthead .right-links > ul {float:right;margin-right:15px !important;}.rtl .W2BLocMultiMap .w2bloc-nav .w2bloc-nav-cat {padding:10px 15px 10px 35px;}.rtl .W2BLocMultiMap .w2bloc-nav .w2bloc-go-back-to-cat {padding:10px 10px 10px 0px;}.rtl .W2BLocMultiMap .w2bloc-nav .w2bloc-nav-cat-loc {padding:10px 15px 10px 0px;}.rtl .w2bloc-filter-wrap {float:left;}.rtl .artical-body .columns, .rtl .artical-body .column {float:right;}.rtl .artical-body .columns.end, .rtl .artical-body .column.end {float:right ;}.rtl ul.primary-top li {padding:11px 10px 11px 0px;}.rtl li.menu-parent-item > a.nav-top-link:after {margin-right:5px;}.rtl .artical-body li {padding-right:1em;}.rtl .artical-body li:before {padding-left:7px;}.rtl .artical-body ol {padding-right:20px;}.rtl .artical-body ol li:before {padding-left:0 !important;}.hw-150 {width:150px;height:150px;}.icon-wrap {position:relative;margin-left:auto;margin-right:auto;}.icon-bg {z-index:1;position:absolute;top:0px;left:0px;right:0px;bottom:0px;}.icon-symbol {position:absolute;z-index:2;}.hw-150 .icon-symbol {top:40%;left:27%;}.columns.large-centered {margin-right:auto;float:none;margin-left:auto;}.icon-symbol [class^="box-icon-"]:before, .icon-symbol [class*="box-icon-"]:before, .icon-symbol [class^="box-icon-"]:after, .icon-symbol [class*="box-icon-"]:after {font-size:70px;color:#ffffff;float:left;line-height:30px;}.feature[class*=" box-icon-"] {font-size:50px;color:#e87a00;}.rightpanel {height:246px;width:75px;position:fixed;top:200px;right:0px;z-index:98;}.rightpanel .panel-container {height:inherit;position:relative;width:inherit;right:0;-webkit-transition:right .3s,left .3s;-moz-transition:right .3s,left .3s;-ms-transition:right .3s,left .3s;-o-transition:right .3s,left .3s;transition:right .3s,left .3s;}.panel-container.pullout {right:286px;}.rightpanel .panel-container .right-panel-child {background:#095086;}.rightpanel .panel-container .active {background-color:#f28424;}.rightpanel .panel-container .orange {background-color:#f28424;}.rightpanel .panel-container .panel-header {background:#0A5FA2;}.panel-header, .panel-body {padding:10px 20px 0px 20px;}.right-panel-child {z-index:1000;}.right-panel-child {color:#fff;display:none;height:inherit;position:absolute;right:-286px;top:0;width:286px;height:246px;}.right-panel-child a {color:#ffffff;vertical-align:super;}.right-panel-child .fa { padding-left:5px;}.right-panel-child h2 {color:#fff; font-weight:400;margin-top:0;}.right-panel-child hr {margin:0.2em 0 1.0em;}.right-panel-child ul {list-style-type:none;margin-bottom:5px;}.rightpanel .panel-link {background-color:#0A5FA2;height:60px;margin:2px 0;padding:7px;text-align:center;color:white;font-size:70%;}.rightpanel .icon {font-size:30px;}.rightpanel .panel-body .icon { font-size:25px; padding-right:8px;}.rtl .rightpanel .panel-body .icon {padding-left:8px;}table thead {background-color:#fba40e;color:white;}tr:nth-of-type(even) {background:#f9f9f9;}table thead tr th, table thead tr td, table tfoot tr th, table tfoot tr td, table tr td, .TblExchangeRates tbody tr td {padding:1em 15px;border:none !important;}.quick-links {position:absolute;left:0;bottom:0;right:0;z-index:20;}.quick-links .quick-box {position:relative;float:left;height:120px;cursor:pointer;overflow:hidden;padding:0;}.quick-links .quick-box:hover .gradient, .quick-links .quick-box.active .gradient { display:none;}.quick-links .quick-box:hover .cache, .quick-links .quick-box.active .cache { opacity:0.8;}.quick-links .quick-box:hover .quick-cover {# opacity:1;}.quick-box .wrap {padding:30px 10px 10px 0px;}.title {padding:6px 0px 0px 100px;color:rgb(239, 239, 239);font-size:90%;}.title ul { list-style:none;}.title1 span {display:block;}.quick-links .gradient {position:absolute;left:0;bottom:0;top:0;right:0;z-index:20;}.quick-links .gradient.blue3 {opacity:0.7;filter:alpha(opacity=70);background-image:-webkit-linear-gradient(top, rgba(10, 91, 153, 0.4) 0%, #0A5B99 100%);background-image:linear-gradient(to bottom, rgba(10, 91, 153, 0.4) 0%, #0A5B99 100%);}.quick-links .gradient.black {opacity:0.7;filter:alpha(opacity=70);background-image:-webkit-linear-gradient(top, rgba(0, 0, 0, 0.2) 0%, #c0c0c0 100%);background-image:linear-gradient(to bottom, rgba(0, 0, 0, 0.2) 0%, #c0c0c0 100%));}.quick-links .gradient.gold {opacity:0.9;filter:alpha(opacity=90);background-image:-webkit-linear-gradient(top, rgba(151, 137, 80, 0.3) 0%, #978950 100%);background-image:linear-gradient(to bottom, rgba(151, 137, 80, 0.3) 0%, #978950 100%);}.quick-links .cache {position:absolute;left:0;top:0;display:block;z-index:30;width:100%;height:100%;background:#F28424;opacity:0;filter:alpha(opacity=0);-webkit-transition:opacity 200ms cubic-bezier(0.455, 0.03, 0.515, 0.955);-moz-transition:opacity 200ms cubic-bezier(0.455, 0.03, 0.515, 0.955);transition:opacity 200ms cubic-bezier(0.455, 0.03, 0.515, 0.955);}.quick-links .quick-title {position:absolute;left:45px;right:45px;top:50%;text-align:center;z-index:40;-webkit-transform:translate3d(0, -50%, 0);-ms-transform:translate3d(0, -50%, 0);transform:translate3d(0, -50%, 0);}.ie.lt-ie9 .quick-links .quick-title {top:0;}.quick-links .title1 {position:relative;font:normal 400 20px/24px 'Playfair Display', serif;color:#FFFFFF;padding:0;margin:0;-webkit-transition:all 180ms cubic-bezier(0.455, 0.03, 0.515, 0.955);-moz-transition:all 180ms cubic-bezier(0.455, 0.03, 0.515, 0.955);transition:all 180ms cubic-bezier(0.455, 0.03, 0.515, 0.955);}.quick-links .subtitle {font:normal 400 13px/17px 'Futura', sans-serif;color:#FFFFFF;letter-spacing:0.4px;opacity:0.6;filter:alpha(opacity=60);}.quick-links .quick-cover {position:relative;display:block;width:100%;height:auto;z-index:10;opacity:0.1;}.quick-links .quick-title [class^="flaticon-"]:before, .quick-links .quick-title [class*=" flaticon-"]:before {font-size:46px;color:#ECF6FE;float:none;}.quick-links .quick-title [class^="box-icon-"]:before, .quick-links .quick-title [class*=" box-icon-"]:before {font-size:46px;color:#ECF6FE;float:none;}.quick-links .quick-box:hover .quick-title [class^="flaticon-"]:before, .quick-links .quick-box:hover .quick-title [class*=" flaticon-"]:before { # display:none;}.artical-title {font-weight:400;text-transform:uppercase;font-size:200%;}.text-light h1, .text-light h2, .text-light h3, .text-light h4 {color:#ffffff;}.artical-subtitle {font-weight:400;}.artical-body ul {list-style:none;padding:0;margin:0;}.artical-body li { padding-left:2em;text-indent:-1em;padding-bottom:6px;}.artical-body .gform_body li { padding-left:0;text-indent:0;padding-bottom:6px;}.artical-body ul.tabs li:before { content:""; padding:0;}.artical-body li:before { content:"■"; color:#F28424; padding-right:7px; font-weight:600;}.artical-body .gform_body li:before { content:"";}.artical-body .addr li {text-indent:0;font-size:90%;min-width:220px;}.artical-body .addr li:before {content:"";padding-right:0px;}.artical-body ol {padding-left:20px;}.artical-body ol li { text-indent:0;}.artical-body ol li:before {content:"";padding:0;}.widget {list-style:none;}.widget_subpages li a {padding:18px;background-color:#3a7eb4;background-color:rgba(10,95,162,0.7);color:white;border-bottom:1px solid;}.al-riyada .widget_subpages li a {background-color:rgba(2,23,38,0.7);}.widget_subpages li a:hover {background-color:#0A5FA2;}.al-riyada .widget_subpages li a:hover {background-color:#021726;}.al-riyada li.widget_subpages_current_page a, li.widget_subpages_current_page a {background-color:#f28424;font-weight:600;}.footer.footer-1 {padding:0}.footer-1 .row {position:relative;}.footer-1 .widget {padding-top:30px}.widget li a {font-size:90%}.widget p {font-size:90%;}#text-5 {position:absolute;right:0;height:100%;background:#0A5B99;}.footer.dark a:hover {color:#FFCD08;}.al-riyada .footer.dark {background-color:#3D3D3D !important;}.al-riyada #text-5 { background-color:#333333 !important;}.al-riyada .absolute-footer.dark {background-color:#141414 !important;}.absolute-footer ul li a { color:#ddd}.absolute-footer .credits {font-size:85%;opacity:.6;padding-top:5px;}footer.entry-meta {margin-top:20px;padding:15px 0;border-top:1px dotted #EEE;border-bottom:1px solid #DDD;}@media only screen and (min-width:1200px) {.blog-share.float { position:fixed; top:320px; left:20px; z-index:10;}.blog-share.float .icon { display:block;}.blog-share.float .social-icons .icon.icon_whatsapp { display:none;}.blog-share.float .social-icons .icon.icon_facebook {background-color:#3a589d;border-color:#3a589d;}.blog-share.float .social-icons .icon.icon_twitter {background-color:#2478ba;border-color:#2478ba;}.blog-share.float .social-icons .icon.icon_pintrest {background-color:#cb2320;border-color:#cb2320;}.blog-share.float .social-icons .icon.icon_googleplus {background-color:#dd4e31;border-color:#dd4e31;}.blog-share.float .social-icons .icon {color:#ffffff;text-decoration:none;}.ux_banner.left .inner, .ux_banner.left1 .inner{ left:1% !important; margin:0 !important;}.rtl .ux_banner.left .inner, .rtl .ux_banner.left1 .inner {right:1% !important;}.ux_banner.right .inner, .ux_banner.right1 .inner{ right:1% !important; margin:0 !important; left:30%;}.mw60 {max-width:60% !important;}}.w2bloc-nav-cat-name .fa {margin-top:0;}td.subHeading {font-size:160%;font-weight:400;}td.infocol1 {font-size:100%;font-weight:600;width:35%;}td.infocol2 {font-size:100%;font-weight:400;}#w2blocFindNearestDiv label {display:inline;}#w2blocFindNearRange {width:inherit;}.w2bloc-find-near-btn {padding:10px 15px;}.W2BLocMultiMap .w2bloc-nav {z-index:50;}#top-bar {font-weight:600;}#top-bar .left-text {padding:0;font-size:78%;text-transform:uppercase;font-family:Lato;}#top-bar .right-text {padding:5px 0;}ul.top-bar-nav li {//padding-top:11px;//padding-bottom:11px;border:none;}ul.primary-top {margin:0;line-height:100%;}ul.primary-top li {line-height:12px;list-style:none;position:relative;display:inline-block;//border-left:1px solid rgba(255, 255, 255, 0.2);padding:11px 0 11px 10px;}ul.primary-top li:first-child {border:0;}#top-bar #menu-main-menu li.menu-item:hover { //background-color:rgba(255,255,255,0.5); background-color:wheat;}#top-bar #menu-main-menu li.menu-item:hover > a { color:black;}.left-text li.current-menu-item, .left-text li.current-menu-ancestor {//background-color:wheat;}.left-text li.current-menu-item:after, .left-text li.current-menu-ancestor:after {position:absolute;bottom:0;display:block;content:'';left:0;right:0;bottom:0;margin:auto;border-style:solid;width:0px;height:0px;line-height:0px;border-width:0 6px 6px 6px;border-color:transparent transparent #ffffff transparent;_border-color:#000 #000 #ffffff #000;_filter:progid:DXImageTransform.Microsoft.Chroma(color='#000000');}#top-bar li.current-menu-item > a, #top-bar li.current-menu-ancestor > a {//color:#333;}.right-text li.menu-parent-item > a.nav-top-link:after, .left-text li.menu-parent-item > a.nav-top-link:after {content:'|';color:wheat;}#masthead .menu-item.menu-item-language {display:none !important;}ul.header-nav a.nav-top-link {color:#333;opacity:0.8;}.ubermenu .ubermenu-target { padding:15px 0 11px 0; margin:0 12px;}.ubermenu.ubermenu-horizontal .ubermenu-item-level-0>.ubermenu-target:first-child { border-bottom:4px solid #fff;}.ubermenu .ubermenu-item.ubermenu-item-level-0.ubermenu-current-menu-item>.ubermenu-target:first-child, .ubermenu .ubermenu-item.ubermenu-item-level-0.ubermenu-current-page-ancestor>.ubermenu-target:first-child { border-bottom-color:#F19A04;}.ubermenu .ubermenu-item.ubermenu-item-level-0.ubermenu-active>.ubermenu-target:first-child:after {position:absolute;bottom:-30px !important;display:block;content:'';left:0;right:0;bottom:0;margin:auto;border-style:solid;width:0px;height:0px;line-height:0px;border-width:0 10px 10px 10px;border-color:transparent transparent #FCBB4A transparent;_border-color:#000 #000 #FCBB4A #000;_filter:progid:DXImageTransform.Microsoft.Chroma(color='#000000');}ul#ubermenu-nav-main-2-primary > li.ubermenu-item + li.ubermenu-item {//border-left:1px solid #ccc;}.ubermenu-sub-indicators .ubermenu-has-submenu-drop>.ubermenu-target:after {content:"";}span.subline {display:block;color:#888;//text-transform:capitalize;line-height:18px;}.ubermenu .ubermenu-item-level-1 .ubermenu-icon { font-size:23px; width:inherit;}.ubermenu.ubermenu-main .ubermenu-submenu .ubermenu-tab > .ubermenu-target {color:#555;opacity:1;}.ubermenu-main .ubermenu-item-level-0.ubermenu-current-menu-item > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0.ubermenu-current-menu-item .ubermenu-icon, .ubermenu-main .ubermenu-item-level-0.ubermenu-current-menu-item .subline, .ubermenu-main .ubermenu-item-level-0.ubermenu-current-page-ancestor > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0.ubermenu-current-page-ancestor .ubermenu-icon, .ubermenu-main .ubermenu-item-level-0.ubermenu-current-page-ancestor .subline,.ubermenu-main .ubermenu-item-level-0.ubermenu-active > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0.ubermenu-active .ubermenu-icon {//color:#fff;opacity:1;}.ubermenu-main .ubermenu-item-level-1 .ubermenu-active .ubermenu-icon {color:chocolate;opacity:0.8;}.ubermenu.ubermenu-main .ubermenu-submenu .ubermenu-item-header > .ubermenu-target:hover {font-weight:bold;color:#0D7DD3;font-size:92%;opacity:1;}.ubermenu.ubermenu-main .ubermenu-submenu .ubermenu-target:hover{color:#0D7DD3;}.icon-align {text-align:center;}.ubermenu.ubermenu-main .ubermenu-submenu .ubermenu-tab.ubermenu-active > .ubermenu-target {background:#FFF none repeat scroll 0% 0%;color:#F28424;}@media only screen and (max-width:48em) {.btn-close { display:block;}#site-navigation {display:none}.left-text { display:none !important}.footer.footer-1 {padding:30px 0 0}.footer-1 .widget {padding-top:0px}#text-5 {position:static; margin-bottom:0}.gf_right_half, .gf_left_half { width:100% !important; }h3 {font-size:1.25em}}</style></head>
+<!-- Custom CSS Codes --><style type="text/css"> .top-bar-nav a.nav-top-link,body,p,#top-bar,.cart-inner .nav-dropdown,.nav-dropdown{font-family:Open Sans,helvetica,arial,sans-serif}.header-nav a.nav-top-link, a.cart-link, .mobile-sidebar a{font-family:Lato,helvetica,arial,sans-serif}h1,h2,h3,h4,h5,h6{font-family:Lato,helvetica,arial,sans-serif}.alt-font{font-family:Dancing Script,Georgia,serif!important;} #masthead{ height:80px;}#logo a img{ max-height:50px} #masthead #logo{width:180px;}#masthead #logo a{max-width:180px} #masthead.stuck.move_down{height:70px;}.wide-nav.move_down{top:70px;}#masthead.stuck.move_down #logo a img{ max-height:60px } ul.header-nav li a {font-size:80%} #masthead{background-color:#fff; ;} .slider-nav-reveal .flickity-prev-next-button, #main-content{background-color:#FFF!important} .wide-nav {background-color:#eee} #top-bar{background-color:#f28424 }.header-nav li.mini-cart.active .cart-icon strong{background-color:#0c72c0 } .ux-timer-text.primary span .alt-button.primary,.callout.style3 .inner .inner-text,.add-to-cart-grid .cart-icon strong,.tagcloud a,.navigation-paging a, .navigation-image a ,ul.page-numbers a, ul.page-numbers li > span,#masthead .mobile-menu a,.alt-button, #logo a, li.mini-cart .cart-icon strong,.widget_product_tag_cloud a, .widget_tag_cloud a,.post-date,#masthead .mobile-menu a.mobile-menu a,.checkout-group h3,.order-review h3 {color:#0c72c0;}#submit.disabled:hover, #submit.disabled:focus, #submit[disabled]:hover, #submit[disabled]:focus, button.disabled:hover, button.disabled:focus, button[disabled]:hover, button[disabled]:focus, .button.disabled:hover, .button.disabled:focus, .button[disabled]:hover, .button[disabled]:focus, input[type="submit"].disabled:hover, input[type="submit"].disabled:focus, input[type="submit"][disabled]:hover, input[type="submit"][disabled]:focus,#submit.disabled, #submit[disabled], button.disabled, button[disabled], .button.disabled, .button[disabled], input[type="submit"].disabled, input[type="submit"][disabled],button[disabled], .button[disabled],button[disabled]:hover, .button[disabled]:hover, .ux-timer.primary span, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .ux-box.ux-text-badge:hover .ux-box-text, .ux-box.ux-text-overlay .ux-box-image,.ux-header-element a:hover,.featured-table.ux_price_table .title,.scroll-to-bullets a strong,.scroll-to-bullets a.active,.scroll-to-bullets a:hover,.tabbed-content.pos_pills ul.tabs li.active a,.ux_hotspot,ul.page-numbers li > span,.label-new.menu-item a:after,.add-to-cart-grid .cart-icon strong:hover,.text-box-primary, .navigation-paging a:hover, .navigation-image a:hover ,.next-prev-nav .prod-dropdown > a:hover,ul.page-numbers a:hover,.widget_product_tag_cloud a:hover,.widget_tag_cloud a:hover,.custom-cart-count,.iosSlider .sliderNav a:hover span, li.mini-cart.active .cart-icon strong,.product-image .quick-view, .product-image .product-bg, #submit, button, #submit, button, .button, input[type="submit"],li.mini-cart.active .cart-icon strong,.post-item:hover .post-date,.blog_shortcode_item:hover .post-date,.column-slider .sliderNav a:hover,.ux_banner {background-color:#0c72c0}button[disabled], .button[disabled],.slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .ux-header-element a:hover,.featured-table.ux_price_table,.text-bordered-primary,.callout.style3 .inner,ul.page-numbers li > span,.add-to-cart-grid .cart-icon strong, .add-to-cart-grid .cart-icon-handle,.add-to-cart-grid.loading .cart-icon strong,.navigation-paging a, .navigation-image a ,ul.page-numbers a ,ul.page-numbers a:hover,.post.sticky,.widget_product_tag_cloud a, .widget_tag_cloud a,.next-prev-nav .prod-dropdown > a:hover,.iosSlider .sliderNav a:hover span,.column-slider .sliderNav a:hover,.woocommerce .order-review, .woocommerce-checkout form.login,.button, button, li.mini-cart .cart-icon strong,li.mini-cart .cart-icon .cart-icon-handle,.post-date{border-color:#0c72c0;}.blockUI:before,.processing:before,.ux-loading{border-left-color:#0c72c0;}.primary.alt-button:hover,.button.alt-button:hover{background-color:#0c72c0!important}.flickity-prev-next-button:hover svg, .flickity-prev-next-button:hover .arrow, .featured-box:hover svg, .featured-img svg:hover{fill:#0c72c0!important;}.slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .featured-box:hover .featured-img-circle svg{fill:#FFF!important;}.featured-box:hover .featured-img-circle{background-color:#0c72c0!important; border-color:#0c72c0!important;} .star-rating:before, .woocommerce-page .star-rating:before, .star-rating span:before{color:#f28424}.secondary.alt-button,li.menu-sale a{color:#f28424!important}.secondary-bg.button.alt-button.success:hover,.label-sale.menu-item a:after,.mini-cart:hover .custom-cart-count,.callout .inner,.button.secondary,.button.checkout,#submit.secondary, button.secondary, .button.secondary, input[type="submit"].secondary{background-color:#f28424}.button.secondary,.button.secondary{border-color:#f28424;}.secondary.alt-button:hover{color:#FFF!important;background-color:#f28424!important}ul.page-numbers li > span{color:#FFF;} .callout.style3 .inner.success-bg .inner-text,.woocommerce-message{color:#7a9c59!important}.success-bg,.woocommerce-message:before,.woocommerce-message:after{color:#FFF!important; background-color:#7a9c59}.label-popular.menu-item a:after,.add-to-cart-grid.loading .cart-icon strong,.add-to-cart-grid.added .cart-icon strong{background-color:#7a9c59;border-color:#7a9c59;}.add-to-cart-grid.loading .cart-icon .cart-icon-handle,.add-to-cart-grid.added .cart-icon .cart-icon-handle{border-color:#7a9c59}.label-new.menu-item > a:after{content:"New";}.label-hot.menu-item > a:after{content:"Hot";}.label-sale.menu-item > a:after{content:"Sale";}.label-popular.menu-item > a:after{content:"Popular";}.featured_item_image{max-height:250px}.callout .inner.callout-new-bg{background-color:#7a9c59!important;}.callout.style3 .inner.callout-new-bg{background-color:none!important;border-color:#7a9c59!important}#lang_sel{z-index:10;width:100%}#lang_sel li{width:100%;}.menu-item-language .sub-menu{ padding:10px; left:auto;right:0;width:180px;}.menu-item-language .sub-menu li{margin:0;padding:0;width:100%}.sub-menu.submenu-languages a{color:#777!important;font-size:95%; display:block;text-transform:uppercase;padding:10px 0;border-bottom:1px solid #EEE;}.sub-menu.submenu-languages a:hover{color:#000!important;border-bottom:1px solid #EEE;}.sub-menu.submenu-languages li:last-child a{border:0}.sub-menu.submenu-languages .iclflag{margin-right:5px;} #menu-item-5621{display:none}.byline { display:none !important;}a.disabled { pointer-events:none; cursor:default;}#notice p {font-size:112%;font-weight:400;color:white;}#notice h2 {font-size:220%;font-weight:200;color:white;}#notice .close {font-size:180%;position:absolute;right:20px;color:white;}.rtl #notice .close {left:20px;right:unset;}.home .lightbox-white {min-height:300px !important;}#menu-item-14397 a {display:none;}.btn-close {position:absolute;padding:10px;background-color:#0A5FA2;top:-36px;width:75px;color:white;right:-286px;display:none;}.carousel {height:600px;width:800px;direction:ltr !important;}.carousel-cell {height:600px;width:800px;direction:ltr !important;}.bod .thin-font { font-weight:600 !important; color:#aaaaaa;}#masthead .right-links > ul {float:left;margin-left:15px;}.home .ux-slider {margin-bottom:0px;}.widget_subpages ul ul {background-color:#999;}.widget .rpwe-title a {font-size:120%;}.blue {color:#0c72c0;}a {color:#0c72c0;} .artical-body p {text-align:justify;}.curr-flag {height:15px;float:left;margin-right:5px;}#menu-top-bar-menu li a {vertical-align:-webkit-baseline-middle;vertical-align:-moz-middle-with-baseline;}.html-block {float:left;}.notes {border:1px solid #dddddd;padding:20px !important;background:#f1f1f1;margin-bottom:30px !important;margin-top:20px !important;}.search span.subline {display:inherit;}.search .type-page h1.entry-title { margin-bottom:5px;}.entry-title a {color:#0A5FA2;}.entry-url a {color:#006621;}.iban object {min-height:1400px;}.ux_banner h1, .ux_text h1 {font-weight:400;}a.arrow-r:before {content:">";color:#F28424;padding-right:7px;font-weight:600;}ul.addr {list-style-type:none;}ul.inline-list li {display:inline-table;}object {min-height:600px;}.lightbox-white { min-height:600px}.heading-light { font-weight:200; display:block; text-transform:uppercase;}.ux-box p {color:#555;}.ux_banner .inner.left {left:15px;}.rtl #masthead .right-links > ul {float:right;margin-right:15px !important;}.rtl .W2BLocMultiMap .w2bloc-nav .w2bloc-nav-cat {padding:10px 15px 10px 35px;}.rtl .W2BLocMultiMap .w2bloc-nav .w2bloc-go-back-to-cat {padding:10px 10px 10px 0px;}.rtl .W2BLocMultiMap .w2bloc-nav .w2bloc-nav-cat-loc {padding:10px 15px 10px 0px;}.rtl .w2bloc-filter-wrap {float:left;}.rtl .artical-body .columns, .rtl .artical-body .column {float:right;}.rtl .artical-body .columns.end, .rtl .artical-body .column.end {float:right ;}.rtl ul.primary-top li {padding:11px 10px 11px 0px;}.rtl li.menu-parent-item > a.nav-top-link:after {margin-right:5px;}.rtl .artical-body li {padding-right:1em;}.rtl .artical-body li:before {padding-left:7px;}.rtl .artical-body ol {padding-right:20px;}.rtl .artical-body ol li:before {padding-left:0 !important;}.hw-150 {width:150px;height:150px;}.icon-wrap {position:relative;margin-left:auto;margin-right:auto;}.icon-bg {z-index:1;position:absolute;top:0px;left:0px;right:0px;bottom:0px;}.icon-symbol {position:absolute;z-index:2;}.hw-150 .icon-symbol {top:40%;left:27%;}.columns.large-centered {margin-right:auto;float:none;margin-left:auto;}.icon-symbol [class^="box-icon-"]:before, .icon-symbol [class*="box-icon-"]:before, .icon-symbol [class^="box-icon-"]:after, .icon-symbol [class*="box-icon-"]:after {font-size:70px;color:#ffffff;float:left;line-height:30px;}.feature[class*=" box-icon-"] {font-size:50px;color:#e87a00;}.rightpanel {height:246px;width:75px;position:fixed;top:200px;right:0px;z-index:98;}.rightpanel .panel-container {height:inherit;position:relative;width:inherit;right:0;-webkit-transition:right .3s,left .3s;-moz-transition:right .3s,left .3s;-ms-transition:right .3s,left .3s;-o-transition:right .3s,left .3s;transition:right .3s,left .3s;}.panel-container.pullout {right:286px;}.rightpanel .panel-container .right-panel-child {background:#095086;}.rightpanel .panel-container .active {background-color:#f28424;}.rightpanel .panel-container .orange {background-color:#f28424;}.rightpanel .panel-container .panel-header {background:#0A5FA2;}.panel-header, .panel-body {padding:10px 20px 0px 20px;}.right-panel-child {z-index:1000;}.right-panel-child {color:#fff;display:none;height:inherit;position:absolute;right:-286px;top:0;width:286px;height:246px;}.right-panel-child a {color:#ffffff;vertical-align:super;}.right-panel-child .fa { padding-left:5px;}.right-panel-child h2 {color:#fff; font-weight:400;margin-top:0;}.right-panel-child hr {margin:0.2em 0 1.0em;}.right-panel-child ul {list-style-type:none;margin-bottom:5px;}.rightpanel .panel-link {background-color:#0A5FA2;height:60px;margin:2px 0;padding:7px;text-align:center;color:white;font-size:70%;}.rightpanel .icon {font-size:30px;}.rightpanel .panel-body .icon { font-size:25px; padding-right:8px;}.rtl .rightpanel .panel-body .icon {padding-left:8px;}table thead {background-color:#fba40e;color:white;}tr:nth-of-type(even) {background:#f9f9f9;}table thead tr th, table thead tr td, table tfoot tr th, table tfoot tr td, table tr td, .TblExchangeRates tbody tr td {padding:1em 15px;border:none !important;}.quick-links {position:absolute;left:0;bottom:0;right:0;z-index:20;}.quick-links .quick-box {position:relative;float:left;height:120px;cursor:pointer;overflow:hidden;padding:0;}.quick-links .quick-box:hover .gradient, .quick-links .quick-box.active .gradient { display:none;}.quick-links .quick-box:hover .cache, .quick-links .quick-box.active .cache { opacity:0.8;}.quick-links .quick-box:hover .quick-cover {# opacity:1;}.quick-box .wrap {padding:30px 10px 10px 0px;}.title {padding:6px 0px 0px 100px;color:rgb(239, 239, 239);font-size:90%;}.title ul { list-style:none;}.title1 span {display:block;}.quick-links .gradient {position:absolute;left:0;bottom:0;top:0;right:0;z-index:20;}.quick-links .gradient.blue3 {opacity:0.7;filter:alpha(opacity=70);background-image:-webkit-linear-gradient(top, rgba(10, 91, 153, 0.4) 0%, #0A5B99 100%);background-image:linear-gradient(to bottom, rgba(10, 91, 153, 0.4) 0%, #0A5B99 100%);}.quick-links .gradient.black {opacity:0.7;filter:alpha(opacity=70);background-image:-webkit-linear-gradient(top, rgba(0, 0, 0, 0.2) 0%, #c0c0c0 100%);background-image:linear-gradient(to bottom, rgba(0, 0, 0, 0.2) 0%, #c0c0c0 100%));}.quick-links .gradient.gold {opacity:0.9;filter:alpha(opacity=90);background-image:-webkit-linear-gradient(top, rgba(151, 137, 80, 0.3) 0%, #978950 100%);background-image:linear-gradient(to bottom, rgba(151, 137, 80, 0.3) 0%, #978950 100%);}.quick-links .cache {position:absolute;left:0;top:0;display:block;z-index:30;width:100%;height:100%;background:#F28424;opacity:0;filter:alpha(opacity=0);-webkit-transition:opacity 200ms cubic-bezier(0.455, 0.03, 0.515, 0.955);-moz-transition:opacity 200ms cubic-bezier(0.455, 0.03, 0.515, 0.955);transition:opacity 200ms cubic-bezier(0.455, 0.03, 0.515, 0.955);}.quick-links .quick-title {position:absolute;left:45px;right:45px;top:50%;text-align:center;z-index:40;-webkit-transform:translate3d(0, -50%, 0);-ms-transform:translate3d(0, -50%, 0);transform:translate3d(0, -50%, 0);}.ie.lt-ie9 .quick-links .quick-title {top:0;}.quick-links .title1 {position:relative;font:normal 400 20px/24px 'Playfair Display', serif;color:#FFFFFF;padding:0;margin:0;-webkit-transition:all 180ms cubic-bezier(0.455, 0.03, 0.515, 0.955);-moz-transition:all 180ms cubic-bezier(0.455, 0.03, 0.515, 0.955);transition:all 180ms cubic-bezier(0.455, 0.03, 0.515, 0.955);}.quick-links .subtitle {font:normal 400 13px/17px 'Futura', sans-serif;color:#FFFFFF;letter-spacing:0.4px;opacity:0.6;filter:alpha(opacity=60);}.quick-links .quick-cover {position:relative;display:block;width:100%;height:auto;z-index:10;opacity:0.1;}.quick-links .quick-title [class^="flaticon-"]:before, .quick-links .quick-title [class*=" flaticon-"]:before {font-size:46px;color:#ECF6FE;float:none;}.quick-links .quick-title [class^="box-icon-"]:before, .quick-links .quick-title [class*=" box-icon-"]:before {font-size:46px;color:#ECF6FE;float:none;}.quick-links .quick-box:hover .quick-title [class^="flaticon-"]:before, .quick-links .quick-box:hover .quick-title [class*=" flaticon-"]:before { # display:none;}.artical-title {font-weight:400;text-transform:uppercase;font-size:200%;}.text-light h1, .text-light h2, .text-light h3, .text-light h4 {color:#ffffff;}.artical-subtitle {font-weight:400;}.artical-body ul {list-style:none;padding:0;margin:0;}.artical-body li { padding-left:2em;text-indent:-1em;padding-bottom:6px;}.artical-body .gform_body li { padding-left:0;text-indent:0;padding-bottom:6px;}.artical-body ul.tabs li:before { content:""; padding:0;}.artical-body li:before { content:"■"; color:#F28424; padding-right:7px; font-weight:600;}.artical-body .gform_body li:before { content:"";}.artical-body .addr li {text-indent:0;font-size:90%;min-width:220px;}.artical-body .addr li:before {content:"";padding-right:0px;}.artical-body ol {padding-left:20px;}.artical-body ol li { text-indent:0;}.artical-body ol li:before {content:"";padding:0;}.widget {list-style:none;}.widget_subpages li a {padding:18px;background-color:#3a7eb4;background-color:rgba(10,95,162,0.7);color:white;border-bottom:1px solid;}.al-riyada .widget_subpages li a {background-color:rgba(2,23,38,0.7);}.widget_subpages li a:hover {background-color:#0A5FA2;}.al-riyada .widget_subpages li a:hover {background-color:#021726;}.al-riyada li.widget_subpages_current_page a, li.widget_subpages_current_page a {background-color:#f28424;font-weight:600;}.footer.footer-1 {padding:0}.footer-1 .row {position:relative;}.footer-1 .widget {padding-top:30px}.widget li a {font-size:90%}.widget p {font-size:90%;}#text-5 {position:absolute;right:0;height:100%;background:#0A5B99;}.footer.dark a:hover {color:#FFCD08;}.al-riyada .footer.dark {background-color:#3D3D3D !important;}.al-riyada #text-5 { background-color:#333333 !important;}.al-riyada .absolute-footer.dark {background-color:#141414 !important;}.absolute-footer ul li a { color:#ddd}.absolute-footer .credits {font-size:85%;opacity:.6;padding-top:5px;}footer.entry-meta {margin-top:20px;padding:15px 0;border-top:1px dotted #EEE;border-bottom:1px solid #DDD;}@media only screen and (min-width:1200px) {.blog-share.float { position:fixed; top:320px; left:20px; z-index:10;}.blog-share.float .icon { display:block;}.blog-share.float .social-icons .icon.icon_whatsapp { display:none;}.blog-share.float .social-icons .icon.icon_facebook {background-color:#3a589d;border-color:#3a589d;}.blog-share.float .social-icons .icon.icon_twitter {background-color:#2478ba;border-color:#2478ba;}.blog-share.float .social-icons .icon.icon_pintrest {background-color:#cb2320;border-color:#cb2320;}.blog-share.float .social-icons .icon.icon_googleplus {background-color:#dd4e31;border-color:#dd4e31;}.blog-share.float .social-icons .icon {color:#ffffff;text-decoration:none;}.ux_banner.left .inner, .ux_banner.left1 .inner{ left:1% !important; margin:0 !important;}.rtl .ux_banner.left .inner, .rtl .ux_banner.left1 .inner {right:1% !important;}.ux_banner.right .inner, .ux_banner.right1 .inner{ right:1% !important; margin:0 !important; left:30%;}.mw60 {max-width:60% !important;}}.w2bloc-nav-cat-name .fa {margin-top:0;}td.subHeading {font-size:160%;font-weight:400;}td.infocol1 {font-size:100%;font-weight:600;width:35%;}td.infocol2 {font-size:100%;font-weight:400;}#w2blocFindNearestDiv label {display:inline;}#w2blocFindNearRange {width:inherit;}.w2bloc-find-near-btn {padding:10px 15px;}.W2BLocMultiMap .w2bloc-nav {z-index:50;}#top-bar {font-weight:600;}#top-bar .left-text {padding:0;font-size:78%;text-transform:uppercase;font-family:Lato;}#top-bar .right-text {padding:5px 0;}ul.top-bar-nav li {//padding-top:11px;//padding-bottom:11px;border:none;}ul.primary-top {margin:0;line-height:100%;}ul.primary-top li {line-height:12px;list-style:none;position:relative;display:inline-block;//border-left:1px solid rgba(255, 255, 255, 0.2);padding:11px 0 11px 10px;}ul.primary-top li:first-child {border:0;}#top-bar #menu-main-menu li.menu-item:hover { //background-color:rgba(255,255,255,0.5); background-color:wheat;}#top-bar #menu-main-menu li.menu-item:hover > a { color:black;}.left-text li.current-menu-item, .left-text li.current-menu-ancestor {//background-color:wheat;}.left-text li.current-menu-item:after, .left-text li.current-menu-ancestor:after {position:absolute;bottom:0;display:block;content:'';left:0;right:0;bottom:0;margin:auto;border-style:solid;width:0px;height:0px;line-height:0px;border-width:0 6px 6px 6px;border-color:transparent transparent #ffffff transparent;_border-color:#000 #000 #ffffff #000;_filter:progid:DXImageTransform.Microsoft.Chroma(color='#000000');}#top-bar li.current-menu-item > a, #top-bar li.current-menu-ancestor > a {//color:#333;}.right-text li.menu-parent-item > a.nav-top-link:after, .left-text li.menu-parent-item > a.nav-top-link:after {content:'|';color:wheat;}#masthead .menu-item.menu-item-language {display:none !important;}ul.header-nav a.nav-top-link {color:#333;opacity:0.8;}.ubermenu .ubermenu-target { padding:15px 0 11px 0; margin:0 12px;}.ubermenu.ubermenu-horizontal .ubermenu-item-level-0>.ubermenu-target:first-child { border-bottom:4px solid #fff;}.ubermenu .ubermenu-item.ubermenu-item-level-0.ubermenu-current-menu-item>.ubermenu-target:first-child, .ubermenu .ubermenu-item.ubermenu-item-level-0.ubermenu-current-page-ancestor>.ubermenu-target:first-child { border-bottom-color:#F19A04;}.ubermenu .ubermenu-item.ubermenu-item-level-0.ubermenu-active>.ubermenu-target:first-child:after {position:absolute;bottom:-30px !important;display:block;content:'';left:0;right:0;bottom:0;margin:auto;border-style:solid;width:0px;height:0px;line-height:0px;border-width:0 10px 10px 10px;border-color:transparent transparent #FCBB4A transparent;_border-color:#000 #000 #FCBB4A #000;_filter:progid:DXImageTransform.Microsoft.Chroma(color='#000000');}ul#ubermenu-nav-main-2-primary > li.ubermenu-item + li.ubermenu-item {//border-left:1px solid #ccc;}.ubermenu-sub-indicators .ubermenu-has-submenu-drop>.ubermenu-target:after {content:"";}span.subline {display:block;color:#888;//text-transform:capitalize;line-height:18px;}.ubermenu .ubermenu-item-level-1 .ubermenu-icon { font-size:23px; width:inherit;}.ubermenu.ubermenu-main .ubermenu-submenu .ubermenu-tab > .ubermenu-target {color:#555;opacity:1;}.ubermenu-main .ubermenu-item-level-0.ubermenu-current-menu-item > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0.ubermenu-current-menu-item .ubermenu-icon, .ubermenu-main .ubermenu-item-level-0.ubermenu-current-menu-item .subline, .ubermenu-main .ubermenu-item-level-0.ubermenu-current-page-ancestor > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0.ubermenu-current-page-ancestor .ubermenu-icon, .ubermenu-main .ubermenu-item-level-0.ubermenu-current-page-ancestor .subline,.ubermenu-main .ubermenu-item-level-0.ubermenu-active > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0.ubermenu-active .ubermenu-icon {//color:#fff;opacity:1;}.ubermenu-main .ubermenu-item-level-1 .ubermenu-active .ubermenu-icon {color:chocolate;opacity:0.8;}.ubermenu.ubermenu-main .ubermenu-submenu .ubermenu-item-header > .ubermenu-target:hover {font-weight:bold;color:#0D7DD3;font-size:92%;opacity:1;}.ubermenu.ubermenu-main .ubermenu-submenu .ubermenu-target:hover{color:#0D7DD3;}.icon-align {text-align:center;}.ubermenu.ubermenu-main .ubermenu-submenu .ubermenu-tab.ubermenu-active > .ubermenu-target {background:#FFF none repeat scroll 0% 0%;color:#F28424;}@media only screen and (max-width:48em) {.btn-close { display:block;}#menu-item-14442, #menu-item-2432, #menu-item-14475 {display:none;}#site-navigation {display:none}.left-text { display:none !important}.footer.footer-1 {padding:30px 0 0}.footer-1 .widget {padding-top:0px}#text-5 {position:static; margin-bottom:0}.gf_right_half, .gf_left_half { width:100% !important; }h2 {font-size:1.5em}h3 {font-size:1.25em}}</style><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
-<body class="page page-id-2439 page-template page-template-page-blank-split-menu-left page-template-page-blank-split-menu-left-php antialiased group-blog sticky_header full-width privacy-policy flatbox-db-child-theme">
+<body class="page-template page-template-page-blank-split-menu-left page-template-page-blank-split-menu-left-php page page-id-2439 antialiased group-blog sticky_header full-width privacy-policy flatbox-db-child-theme">
 
 
 	<div id="wrapper">
@@ -433,7 +477,7 @@ img.emoji {
 					<!-- left text -->
 					<div class="left-text left">
 <!--						<div class="html"></div> .html -->
-                                            <ul id="menu-main-menu" class="primary-top"><li id="menu-item-3151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-3151"><a href="http://dohabank.qa/" class="nav-top-link">Personal</a></li>
+                                            <ul id="menu-main-menu" class="primary-top"><li id="menu-item-3151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-parent-item menu-item-3151"><a href="http://dohabank.qa/" class="nav-top-link">Personal</a></li>
 <li id="menu-item-6139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-6139"><a href="http://dohabank.qa/business/" class="nav-top-link">Corporate</a></li>
 <li id="menu-item-5424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-5424"><a href="http://dohabank.qa/international/" class="nav-top-link">International</a></li>
 <li id="menu-item-6161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-6161"><a href="http://dohabank.qa/nri/" class="nav-top-link">NRI</a></li>
@@ -443,7 +487,9 @@ img.emoji {
 
 							<ul id="menu-top-bar-menu" class="top-bar-nav">
 								<li id="menu-item-4349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-4349"><a href="http://dohabank.qa/about-us/" class="nav-top-link">About Us</a></li>
-<li class="menu-item menu-item-language menu-item-language-current has-dropdown  menu-item-has-children menu-item-has-children"><a href="#" onclick="return false">English</a></li><li class="menu-item menu-item-language"><a href="http://dohabank.qa/ar/%d8%a8%d9%8a%d8%a7%d9%86-%d8%a7%d9%84%d8%ae%d8%b5%d9%88%d8%b5%d9%8a%d8%a9/">العربية</a></li>
+<li id="menu-item-wpml-ls-4-en" class="menu-item-language menu-item-language-current has-dropdown  menu-item-has-children menu-item wpml-ls-slot-4 wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item menu-item-wpml-ls-4-en"><a title="English" href="http://dohabank.qa/privacy-policy/" class="nav-top-link"><span class="wpml-ls-native">English</span></a></li>
+<li id="menu-item-wpml-ls-4-ar" class="menu-item-language menu-item wpml-ls-slot-4 wpml-ls-item wpml-ls-item-ar wpml-ls-menu-item wpml-ls-last-item menu-item-wpml-ls-4-ar"><a title="العربية" href="http://dohabank.qa/ar/%d8%a8%d9%8a%d8%a7%d9%86-%d8%a7%d9%84%d8%ae%d8%b5%d9%88%d8%b5%d9%8a%d8%a9/" class="nav-top-link"><span class="wpml-ls-native">العربية</span></a></li>
+
 			                        
 			                        
 																		<li class="html-block">
@@ -517,7 +563,7 @@ img.emoji {
 <div id="content" role="main">
 
 			
-				   <div id="banner_585933602" class="ux_banner dark  left1 corporate  " style="height:350px; " data-height="350px" role="banner">
+				   <div id="banner_101475313" class="ux_banner dark  left1 corporate  " style="height:350px; " data-height="350px" role="banner">
                            <div class="bg-overlay" style="background-color:rgb(10,95,162); background-color:rgba(10,95,162,0.4); filter: alpha(opacity=40) "></div>       <div class="banner-bg " style="background-image:url('http://dohabank.qa/wp-content/uploads/sites/12/db-tower-bg.jpg'); ; background-position:50% 20%;"><img src="http://dohabank.qa/wp-content/uploads/sites/12/db-tower-bg.jpg" alt="" style="visibility:hidden;"></div>
                              <div class="row">
           <div class="inner left bottom text-left text-boxed" style="width:50%;">
@@ -626,11 +672,11 @@ img.emoji {
 			 				<div class="menu-footer-container"><ul id="menu-footer" class="footer-nav"><li id="menu-item-2441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2441"><a href="http://dohabank.qa/terms-and-conditions/">Terms And Conditions</a></li>
 <li id="menu-item-2442" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2439 current_page_item menu-item-2442"><a href="http://dohabank.qa/privacy-policy/">Privacy Policy</a></li>
 </ul></div>						
-					<div class="copyright-footer">Copyright 2016 © <strong>Doha Bank</strong> </div>
+					<div class="copyright-footer">Copyright 2017 © <strong>Doha Bank</strong> </div>
 		</div><!-- .left -->
 		<div class="right">
 				<div class="social-icons ">
-<a href="//www.facebook.com/Doha.Bank" rel="nofollow" target="_blank" class="icon icon_facebook tip-top tooltipstered"><span class="icon-facebook"></span></a><a href="//twitter.com/DohaBankQatar" rel="nofollow" target="_blank" class="icon icon_twitter tip-top tooltipstered"><span class="icon-twitter"></span></a><a href="//plus.google.com/107791043078274866315" target="_blank" class="icon icon_googleplus tip-top tooltipstered" rel="nofollow"><span class="icon-google-plus"></span></a><a href="//www.linkedin.com/groups/Doha-Bank-Qatar-4228728?goback=%2Eanb_4228728_*2_*1_*1_*1_*1_*1" target="_blank" class="icon icon_linkedin tip-top tooltipstered" rel="nofollow"><span class="icon-linkedin"></span></a><a href="//instagram.com/dohabankofficial#" target="_blank" class="icon icon_instagram tip-top tooltipstered" rel="nofollow"><span class="icon-instagram"></span></a><a href="//www.youtube.com/user/DohaBankQatar" target="_blank" class="icon icon_youtube tip-top tooltipstered" rel="nofollow"><span class="icon-youtube"></span></a>
+<a href="//www.facebook.com/Doha.Bank" rel="nofollow" target="_blank" class="icon icon_facebook tip-top tooltipstered"><span class="icon-facebook"></span></a><a href="//twitter.com/DohaBankQatar" rel="nofollow" target="_blank" class="icon icon_twitter tip-top tooltipstered"><span class="icon-twitter"></span></a><a href="//plus.google.com/107791043078274866315" target="_blank" class="icon icon_googleplus tip-top tooltipstered" rel="nofollow"><span class="icon-google-plus"></span></a><a href="https://www.linkedin.com/company/doha-bank" target="_blank" class="icon icon_linkedin tip-top tooltipstered" rel="nofollow"><span class="icon-linkedin"></span></a><a href="//instagram.com/dohabankofficial#" target="_blank" class="icon icon_instagram tip-top tooltipstered" rel="nofollow"><span class="icon-instagram"></span></a><a href="//www.youtube.com/user/DohaBankQatar" target="_blank" class="icon icon_youtube tip-top tooltipstered" rel="nofollow"><span class="icon-youtube"></span></a>
 </div>
 
 <div class="credits">Developed by <strong>Skyzen Technologies</strong></div>		</div>
@@ -643,7 +689,52 @@ img.emoji {
 <!-- back to top -->
 <a href="#top" id="top-link" class="animated fadeInUp"><span class="icon-angle-up"></span></a>
 
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 937289287;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/937289287/?guid=ON&script=0"/>
+</div>
+</noscript>
 
+<!-- Uploaded on 09-0517 -->
+<script type="text/javascript">
+    adroll_adv_id = "422XBDFPIZFGDFYIJSLLM7";
+    adroll_pix_id = "GAICWAQQ6NGNJABNAAL5CY";
+    /* OPTIONAL: provide email to improve user identification */
+    /* adroll_email = "username@example.com"; */
+    (function () {
+        var _onload = function(){
+            if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+            if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+            var scr = document.createElement("script");
+            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+            scr.setAttribute('async', 'true');
+            scr.type = "text/javascript";
+            scr.src = host + "/j/roundtrip.js";
+            ((document.getElementsByTagName('head') || [null])[0] ||
+                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+        };
+        if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+        else {window.attachEvent('onload', _onload)}
+    }());
+</script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5TQ5LR4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
 <!-- Mobile Popup -->
 <div id="jPanelMenu" class="mfp-hide">
@@ -651,49 +742,36 @@ img.emoji {
         
         <ul class="mobile-main-menu">
         
-        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-3151"><a href="http://dohabank.qa/">Personal</a>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-parent-item menu-item-3151"><a href="http://dohabank.qa/">Personal</a>
 <ul class="sub-menu">
 	<li id="menu-item-548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-548"><a title="Opening" href="http://dohabank.qa/personal/accounts/">Accounts<span class="subline">Opening</span><div class="arror"></div></a>
 	<ul class="sub-menu">
 		<li id="menu-item-14397" class="menu-item menu-item-type-custom menu-item-object-ubermenu-custom menu-item-14397"><a href="#ubermenu-column">[Column]</a></li>
 		<li id="menu-item-14396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14396"><a href="http://dohabank.qa/personal/accounts/current-account/">Current Account</a></li>
 		<li id="menu-item-14398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14398"><a href="http://dohabank.qa/personal/accounts/call-account/">Call Account</a></li>
-		<li id="menu-item-14399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14399"><a href="http://dohabank.qa/personal/accounts/salary-account/">Salary Account</a></li>
+		<li id="menu-item-14429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14429"><a href="http://dohabank.qa/personal/accounts/green-account/">Green Account</a></li>
 		<li id="menu-item-14400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-14400"><a href="http://dohabank.qa/personal/accounts/savings-and-deposits-accounts/">Savings and Deposits accounts</a>
 		<ul class="sub-menu">
 			<li id="menu-item-14402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14402"><a href="http://dohabank.qa/personal/accounts/savings-and-deposits-accounts/compare-all-doha-banks-savings-solutions/">Compare all Doha Banks Savings Solutions</a></li>
 			<li id="menu-item-14403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14403"><a href="http://dohabank.qa/personal/accounts/savings-and-deposits-accounts/smart-saver-deposit/">Smart Saver Deposit</a></li>
-			<li id="menu-item-14404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14404"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2016/">Al Dana Savings Account</a></li>
+			<li id="menu-item-14404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14404"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2017/">Al Dana Savings Account</a></li>
 			<li id="menu-item-14405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14405"><a href="http://dohabank.qa/personal/accounts/savings-and-deposits-accounts/al-dana-young-savers-account/">Al Dana Young Savers Account</a></li>
 			<li id="menu-item-14408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14408"><a href="http://dohabank.qa/personal/accounts/savings-and-deposits-accounts/fixed-deposit-account/">Fixed Deposits</a></li>
 			<li id="menu-item-14406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14406"><a href="http://dohabank.qa/personal/accounts/savings-and-deposits-accounts/upfront-interest-fixed-deposit/">Upfront Interest Fixed Deposit</a></li>
 			<li id="menu-item-14407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14407"><a href="http://dohabank.qa/personal/accounts/savings-and-deposits-accounts/al-jana-fixed-rate-bond-series-6/">Al Jana Fixed Rate Bond Series 6</a></li>
 		</ul>
 </li>
-		<li id="menu-item-14410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-14410"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2016/">Save and Win with Al Dana 2016</a>
+		<li id="menu-item-14410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-14410"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2017/">Save and Win with Al Dana 2017</a>
 		<ul class="sub-menu">
-			<li id="menu-item-14412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14412"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2016/al-dana-draws/">Al Dana QAR Millionaire Draws</a></li>
-			<li id="menu-item-14414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14414"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2016/al-dana-regular-monthly-draws/">Al Dana Regular Monthly Draws</a></li>
-			<li id="menu-item-14415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14415"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2016/al-dana-welcome-draw/">Al Dana Welcome Draw</a></li>
-			<li id="menu-item-14411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14411"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2016/al-dana-young-saver-draw/">Al Dana Young Saver Draw</a></li>
-			<li id="menu-item-14413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14413"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2016/al-dana-kuwait-draw/">Al Dana Kuwait Draw</a></li>
-			<li id="menu-item-14416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14416"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2016/calculate-your-chances/">Calculate Your Chances</a></li>
+			<li id="menu-item-14412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14412"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2017/al-dana-draws/">Al Dana QAR Millionaire Draws</a></li>
+			<li id="menu-item-14414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14414"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2017/al-dana-regular-monthly-draws/">Al Dana Regular Monthly Draws</a></li>
+			<li id="menu-item-14411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14411"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2017/al-dana-young-saver-draw/">Al Dana Young Saver Draw</a></li>
+			<li id="menu-item-14413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14413"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2017/al-dana-kuwait-draw/">Al Dana Kuwait Draw</a></li>
+			<li id="menu-item-56688" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56688"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2017/al-dana-2017-winners/">Al Dana 2017 Winners</a></li>
+			<li id="menu-item-14420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14420"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2017/al-dana-2016-winners/">Al Dana 2016 Winners</a></li>
+			<li id="menu-item-46528" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46528"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2017/terms-conditions/">Al Dana Terms &amp; Conditions</a></li>
 		</ul>
 </li>
-		<li id="menu-item-14418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item menu-item-14418"><a href="#">Al Dana Winners</a>
-		<ul class="sub-menu">
-			<li id="menu-item-14420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14420"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2016/al-dana-2016-winners/">Al Dana 2016 Winners</a></li>
-			<li id="menu-item-14421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14421"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2016/al-dana-2015-winners/">Al Dana 2015 Winners</a></li>
-			<li id="menu-item-14422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14422"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2016/al-dana-2014-winners/">Al Dana 2014 Winners</a></li>
-			<li id="menu-item-14423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14423"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2016/al-dana-2013-winners/">Al Dana 2013 Winners</a></li>
-			<li id="menu-item-14424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14424"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2016/al-dana-2012-winners/">Al Dana 2012 Winners</a></li>
-			<li id="menu-item-14425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14425"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2016/al-dana-2011-winners/">Al Dana 2011 Winners</a></li>
-			<li id="menu-item-14419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14419"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2016/al-dana-2010-winners/">Al Dana 2010 Winners</a></li>
-		</ul>
-</li>
-		<li id="menu-item-14429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14429"><a href="http://dohabank.qa/personal/accounts/green-account/">Green Account</a></li>
-		<li id="menu-item-14430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14430"><a href="http://dohabank.qa/personal/accounts/payroll-card-account/">Payroll Card Account</a></li>
-		<li id="menu-item-14431" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14431"><a href="http://dohabank.qa/wp-content/uploads/sites/12/Account-Opening-TnC-1.pdf">Terms &amp; Conditions</a></li>
 		<li id="menu-item-14433" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item menu-item-14433"><a href="#">Forms</a>
 		<ul class="sub-menu">
 			<li id="menu-item-14434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14434"><a href="http://dohabank.qa/apply-now-for-current-account/">Apply Now for Current Account</a></li>
@@ -702,11 +780,12 @@ img.emoji {
 			<li id="menu-item-14436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14436"><a href="http://dohabank.qa/personal/accounts/savings-and-deposits-accounts/fixed-deposit-account/apply-now-for-fixed-deposit/">Apply Now for  Fixed Deposit</a></li>
 			<li id="menu-item-14437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14437"><a href="http://dohabank.qa/personal/accounts/savings-and-deposits-accounts/smart-saver-deposit/apply-now-for-smart-saver-deposit/">Apply Now for Smart Saver Deposit</a></li>
 			<li id="menu-item-14438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14438"><a href="http://dohabank.qa/personal/accounts/savings-and-deposits-accounts/upfront-interest-fixed-deposit/apply-now-for-upfront-interest-fixed-deposit/">Apply Now for Upfront Interest Fixed Deposit</a></li>
-			<li id="menu-item-14441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14441"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2016/apply-now-and-save-with-al-dana/">Apply Now and Save with Al Dana</a></li>
-			<li id="menu-item-14440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14440"><a href="http://dohabank.qa/personal/accounts/salary-account/salary-tranfer-account-opening-with-doha-bank/">Salary Transfer Account Opening with Doha Bank</a></li>
+			<li id="menu-item-14441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14441"><a href="http://dohabank.qa/personal/accounts/save-and-win-with-al-dana-2017/apply-now-and-save-with-al-dana/">Apply Now and Save with Al Dana</a></li>
 		</ul>
 </li>
+		<li id="menu-item-14430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14430"><a href="http://dohabank.qa/personal/accounts/payroll-card-account/">Payroll Card Account</a></li>
 		<li id="menu-item-14558" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14558"><a href="http://dohabank.qa/iban/">IBAN</a></li>
+		<li id="menu-item-14431" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14431"><a href="http://dohabank.qa/wp-content/uploads/sites/12/Account-Opening-TnC-1.pdf">Terms &amp; Conditions</a></li>
 	</ul>
 </li>
 	<li id="menu-item-549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-549"><a title="Services" href="http://dohabank.qa/personal/cards/">Cards<span class="subline">Services</span><div class="arror"></div></a>
@@ -718,35 +797,31 @@ img.emoji {
 			<li id="menu-item-14448" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14448"><a href="http://dohabank.qa/personal/cards/credit-card-products/dream-card/">Dream Card</a></li>
 			<li id="menu-item-14447" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14447"><a href="http://dohabank.qa/personal/cards/credit-card-products/dream-platinum/">Dream Platinum</a></li>
 			<li id="menu-item-14445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14445"><a href="http://dohabank.qa/personal/cards/credit-card-products/lulu-doha-bank-shopping-credit-card/">Lulu Doha Bank Shopping Credit Card</a></li>
-			<li id="menu-item-14450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14450"><a href="http://dohabank.qa/personal/cards/credit-card-products/al-asriya-ladies-card/">Al Asriya Ladies Card</a></li>
-			<li id="menu-item-14451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14451"><a href="http://dohabank.qa/personal/cards/credit-card-products/green-card/">Green Card</a></li>
 			<li id="menu-item-14452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14452"><a href="http://dohabank.qa/personal/cards/credit-card-products/click-card/">Click Card</a></li>
 			<li id="menu-item-14454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14454"><a href="http://dohabank.qa/personal/cards/apply-for-credit-cards/">Apply for Credit Cards</a></li>
-			<li id="menu-item-14455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14455"><a href="http://dohabank.qa/personal/cards/apply-for-supplementary-cards/">Apply for Supplementary Cards</a></li>
 			<li id="menu-item-14453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14453"><a href="http://dohabank.qa/personal/cards/apply-for-click-qtickets-internet-cards/">Apply for Click – Qtickets Internet Cards</a></li>
 		</ul>
 </li>
 		<li id="menu-item-14457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-14457"><a href="http://dohabank.qa/personal/cards/credit-card-features/">Credit Card Features</a>
 		<ul class="sub-menu">
-			<li id="menu-item-14462" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14462"><a href="http://dohabank.qa/personal/cards/credit-card-features/dream-loyalty-points-programme/">Dream Loyalty Points Programme</a></li>
+			<li id="menu-item-23091" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23091"><a href="http://dohabank.qa/personal/cards/credit-card-features/airport-lounge-access/">Airport Lounge Access</a></li>
 			<li id="menu-item-14463" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14463"><a href="http://dohabank.qa/personal/cards/credit-card-features/0payment-plans/">0% Payment Plans</a></li>
 			<li id="menu-item-14458" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14458"><a href="http://dohabank.qa/personal/cards/credit-card-features/e-remittance-on-credit-cards/">E-Remittance on Credit Cards</a></li>
-			<li id="menu-item-14459" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14459"><a href="http://dohabank.qa/personal/cards/credit-card-features/equated-monthly-instalment-plans/">Equated Monthly Instalment Plans</a></li>
 			<li id="menu-item-14460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14460"><a href="http://dohabank.qa/personal/cards/credit-card-features/secure-online-credit-card-payments/">Secure Online Credit Card Payments</a></li>
 			<li id="menu-item-14461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14461"><a href="http://dohabank.qa/personal/cards/credit-card-features/insurance-benefits/">Insurance Benefits</a></li>
 		</ul>
 </li>
 		<li id="menu-item-14468" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-14468"><a href="http://dohabank.qa/personal/cards/credit-card-offers/">Credit Card Offers</a>
 		<ul class="sub-menu">
-			<li id="menu-item-16338" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16338"><a href="http://dohabank.qa/personal/cards/credit-card-offers/free-787-travel-e-voucher/">Free 787 Travel E-Voucher</a></li>
-			<li id="menu-item-16333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16333"><a href="http://dohabank.qa/personal/cards/credit-card-offers/free-iphone-7-promotion/">Free IPhone 7 Promotion</a></li>
-			<li id="menu-item-17429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17429"><a href="http://dohabank.qa/personal/cards/credit-card-offers/visa-musafir-winter-travel-offer/">Visa / Musafir Winter Travel Offer</a></li>
-			<li id="menu-item-14466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14466"><a href="http://dohabank.qa/personal/cards/credit-card-offers/offers-for-restaurants-in-doha/">Dining Offers</a></li>
-			<li id="menu-item-14467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14467"><a href="http://dohabank.qa/personal/cards/credit-card-offers/shopwithdohabankalasriyaladiescard/">Shop with DohaBank AlAsriya Ladies Card</a></li>
+			<li id="menu-item-97656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97656"><a href="http://dohabank.qa/personal/cards/credit-card-offers/ramadan-special-offers/">Ramadan Special Offers</a></li>
 			<li id="menu-item-14465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14465"><a href="http://dohabank.qa/personal/cards/credit-card-offers/travel-with-doha-bank-cards/">Travel with Doha Bank Cards</a></li>
-			<li id="menu-item-14470" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14470"><a href="http://dohabank.qa/personal/cards/credit-card-offers/relax-unwind-with-dohabank-cards/">Relax Unwind with DohaBank Cards</a></li>
 			<li id="menu-item-14472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14472"><a href="http://dohabank.qa/personal/cards/credit-card-offers/get-rewarded-with-visa/">Get Rewarded with VISA</a></li>
-			<li id="menu-item-14473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14473"><a href="http://dohabank.qa/personal/cards/credit-card-products/dream-platinum/exclusive-platinum-offers/">Exclusive Platinum Offers</a></li>
+		</ul>
+</li>
+		<li id="menu-item-56902" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item menu-item-56902"><a href="#">Credit Card Rewards</a>
+		<ul class="sub-menu">
+			<li id="menu-item-56904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56904"><a href="http://dohabank.qa/personal/cards/credit-card-offers/doha-miles/">About DOHA MILES</a></li>
+			<li id="menu-item-41911" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41911"><a href="http://dohabank.qa/personal/cards/credit-card-offers/my-book-qatar/">My Book Qatar</a></li>
 		</ul>
 </li>
 	</ul>
@@ -769,41 +844,42 @@ img.emoji {
 	<li id="menu-item-1546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-1546"><a title=" Packages" href="http://dohabank.qa/personal/loans/">Loans<span class="subline"> Packages</span><div class="arror"></div></a>
 	<ul class="sub-menu">
 		<li id="menu-item-1547" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1547"><a href="http://dohabank.qa/personal/loans/personal-loan/">Personal Loan</a></li>
-		<li id="menu-item-13757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13757"><a href="http://dohabank.qa/personal/loans/loan-transfer/">Loan Transfer</a></li>
-		<li id="menu-item-1552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1552"><a href="http://dohabank.qa/personal/loans/housing-loan/">Housing Loan</a></li>
-		<li id="menu-item-1551" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1551"><a href="http://dohabank.qa/personal/loans/marriage-loan/">Marriage Loan</a></li>
-		<li id="menu-item-1553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1553"><a href="http://dohabank.qa/personal/loans/education-loan/">Education Loan</a></li>
-		<li id="menu-item-1549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1549"><a href="http://dohabank.qa/personal/loans/rent-loan/">Rent Loan</a></li>
 		<li id="menu-item-1550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1550"><a href="http://dohabank.qa/personal/loans/personal-loan-monthly-rental/">Personal Loan Monthly Rental</a></li>
 		<li id="menu-item-1548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1548"><a href="http://dohabank.qa/personal/loans/top-up-loan/">Top up Loan</a></li>
+		<li id="menu-item-99398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99398"><a href="http://dohabank.qa/personal/loans/car-loan-ramadan-summer-campaign/">Car Loan Ramadan Promotion</a></li>
+		<li id="menu-item-99769" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99769"><a href="http://dohabank.qa/personal/loans/car-loan-ramadan-joint-promotion/">Car Loan Ramadan Joint Promotion</a></li>
 		<li id="menu-item-1556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1556"><a href="http://dohabank.qa/personal/loans/education-package/">Education Package</a></li>
-		<li id="menu-item-1554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1554"><a href="http://dohabank.qa/personal/loans/car-loan/">Car Loan</a></li>
 		<li id="menu-item-14584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14584"><a href="http://dohabank.qa/personal/loans/personal-loan-calculator/">Personal Loan Calculator</a></li>
 		<li id="menu-item-14583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14583"><a href="http://dohabank.qa/personal/loans/car-loan-calculator/">Car Loan Calculator</a></li>
 		<li id="menu-item-14582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14582"><a href="http://dohabank.qa/personal/loans/mortgage-calculator/">Mortgage Calculator</a></li>
+		<li id="menu-item-1552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-1552"><a href="http://dohabank.qa/personal/loans/housing-loan/">Housing Loan</a>
+		<ul class="sub-menu">
+			<li id="menu-item-44967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44967"><a href="http://dohabank.qa/personal/loans/housing-loan/home-loan-readymade-properties/">Home Loan for Readymade Properties</a></li>
+			<li id="menu-item-44969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44969"><a href="http://dohabank.qa/personal/loans/housing-loan/home-loan-constructions-properties/">Home Loan for Under Constructions Properties</a></li>
+			<li id="menu-item-44975" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44975"><a href="http://dohabank.qa/personal/loans/housing-loan/home-loan-freehold-properties/">Home Loan for Freehold Properties</a></li>
+			<li id="menu-item-44974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44974"><a href="http://dohabank.qa/personal/loans/housing-loan/home-loan-leasehold-properties/">Home Loan for Leasehold Properties</a></li>
+			<li id="menu-item-44972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44972"><a href="http://dohabank.qa/personal/loans/housing-loan/personal-loan-housing-loan/">Personal Loan to Housing Loan</a></li>
+			<li id="menu-item-44973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44973"><a href="http://dohabank.qa/personal/loans/housing-loan/home-loan-buyout-balance-transfer/">Home Loan for Buyout / Balance Transfer</a></li>
+			<li id="menu-item-45204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45204"><a href="http://dohabank.qa/personal/loans/housing-loan/rental-income-loans/">Rental Income Loans</a></li>
+		</ul>
+</li>
 		<li id="menu-item-13572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13572"><a href="http://dohabank.qa/personal/loans/apply-for-doha-bank-loans/">Apply for Doha Bank Loans</a></li>
 	</ul>
 </li>
 	<li id="menu-item-1557" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-1557"><a title="Channels" href="http://dohabank.qa/personal/alternative-channels/">Alternative<span class="subline">Channels</span><div class="arror"></div></a>
 	<ul class="sub-menu">
-		<li id="menu-item-13455" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13455"><a href="http://qatar.dohabank.in/personal/alternative-channels/e-statement-promotion/">Promotions</a></li>
 		<li id="menu-item-1565" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1565"><a href="http://dohabank.qa/personal/alternative-channels/dbank-online/">DBank Online</a></li>
 		<li id="menu-item-1564" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1564"><a href="http://dohabank.qa/personal/alternative-channels/dbank-mobile/">DBank Mobile</a></li>
-		<li id="menu-item-9399" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9399"><a href="http://qatar.dohabank.in/personal/alternative-channels/dbank-mobile/#apple">Apple Watch Banking</a></li>
-		<li id="menu-item-1562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1562"><a href="http://dohabank.qa/personal/alternative-channels/dbank-dial/">DBank Dial</a></li>
+		<li id="menu-item-43260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43260"><a href="http://dohabank.qa/personal/alternative-channels/watch-banking/">Watch Banking</a></li>
 		<li id="menu-item-1561" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1561"><a href="http://dohabank.qa/personal/alternative-channels/dbank-sms/">DBank SMS</a></li>
 		<li id="menu-item-1560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1560"><a href="http://dohabank.qa/personal/alternative-channels/dbank-e-branch/">DBank e-Branch</a></li>
 		<li id="menu-item-1558" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1558"><a href="http://dohabank.qa/personal/alternative-channels/doha-sooq/">Doha Sooq</a></li>
 		<li id="menu-item-1559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1559"><a href="http://dohabank.qa/personal/alternative-channels/doha-bank-internet-payment-gateway/">Doha Bank Internet Payment Gateway</a></li>
+		<li id="menu-item-30302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30302"><a href="http://dohabank.qa/personal/alternative-channels/ivr/">DBank Dial</a></li>
 		<li id="menu-item-1567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-1567"><a href="http://dohabank.qa/personal/alternative-channels/atm-network/">ATM Network</a>
 		<ul class="sub-menu">
 			<li id="menu-item-1568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1568"><a href="http://dohabank.qa/personal/alternative-channels/atm-network/cash-deposit-machines/">Cash Deposit Machines</a></li>
 			<li id="menu-item-1569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1569"><a href="http://dohabank.qa/personal/alternative-channels/atm-network/us-dollars-atm-machines/">US Dollars ATM Machines</a></li>
-		</ul>
-</li>
-		<li id="menu-item-1563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-1563"><a href="http://dohabank.qa/personal/alternative-channels/dbank-remittance/">DBank Remittance</a>
-		<ul class="sub-menu">
-			<li id="menu-item-1566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1566"><a href="http://dohabank.qa/personal/alternative-channels/dbank-remittance/remittance-to-pakistan-free-of-charge/">Remittance to Pakistan Free of Charge</a></li>
 		</ul>
 </li>
 	</ul>
@@ -832,10 +908,14 @@ img.emoji {
 </li>
 		<li id="menu-item-14492" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item menu-item-14492"><a href="#">More Services</a>
 		<ul class="sub-menu">
+			<li id="menu-item-43438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43438"><a href="http://dohabank.qa/personal/other-services/international-money-transfer/">International Money Transfer</a></li>
 			<li id="menu-item-14493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14493"><a href="http://dohabank.qa/personal/other-services/bill-payments/">Bill Payments</a></li>
 			<li id="menu-item-14494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14494"><a href="http://dohabank.qa/personal/other-services/safe-deposit-locker/">Safe Deposit Locker</a></li>
 			<li id="menu-item-14496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14496"><a href="http://dohabank.qa/personal/other-services/dcard-less-services/">DCard less Services</a></li>
+			<li id="menu-item-1566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1566"><a href="http://dohabank.qa/personal/other-services/remittance-to-pakistan-free-of-charge/">Remittance to Pakistan Free of Charge</a></li>
 			<li id="menu-item-14495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14495"><a href="http://dohabank.qa/personal/other-services/donate-your-dirhams-to-needy-people/">Donate Your Dirhams to Needy People</a></li>
+			<li id="menu-item-19065" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19065"><a href="http://dohabank.qa/personal/other-services/charges-for-personal-customers/">Charges for Personal Customers</a></li>
+			<li id="menu-item-19064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19064"><a href="http://dohabank.qa/personal/other-services/charges-for-corporate-customers/">Charges for Corporate Customers</a></li>
 		</ul>
 </li>
 	</ul>
@@ -959,14 +1039,16 @@ img.emoji {
                          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-4349"><a href="http://dohabank.qa/about-us/">About Us</a>
 <ul class="sub-menu">
 	<li id="menu-item-4350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-4350"><a title="Doha Bank" href="http://dohabank.qa/about-us/">About<span class="subline">Doha Bank</span><div class="arror"></div></a></li>
-	<li id="menu-item-2555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2555"><a title="Locations" href="http://dohabank.qa/locate-us/">Bank<span class="subline">Locations</span><div class="arror"></div></a></li>
+	<li id="menu-item-2555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2555"><a title="Us" href="http://dohabank.qa/locate-us/">Locate<span class="subline">Us</span><div class="arror"></div></a></li>
 	<li id="menu-item-4351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4351"><a title="Touch" href="http://dohabank.qa/contact-us/">Get In<span class="subline">Touch</span><div class="arror"></div></a></li>
 	<li id="menu-item-4382" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-4382"><a title="In Bank" href="http://dohabank.qa/careers/">Career<span class="subline">In Bank</span><div class="arror"></div></a></li>
 	<li id="menu-item-4577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4577"><a title="Room" href="http://dohabank.qa/press-room/">Press<span class="subline">Room</span><div class="arror"></div></a></li>
 	<li id="menu-item-4839" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-item-4839"><a title="Services" href="http://dohabank.qa/investor/overview/">Investor<span class="subline">Services</span><div class="arror"></div></a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-language menu-item-language-current has-dropdown  menu-item-has-children menu-item-has-children"><a href="#" onclick="return false">English</a></li><li class="menu-item menu-item-language"><a href="http://dohabank.qa/ar/%d8%a8%d9%8a%d8%a7%d9%86-%d8%a7%d9%84%d8%ae%d8%b5%d9%88%d8%b5%d9%8a%d8%a9/">العربية</a></li>            
+<li class="menu-item-language menu-item-language-current has-dropdown  menu-item-has-children menu-item wpml-ls-slot-4 wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item menu-item-wpml-ls-4-en"><a title="English" href="http://dohabank.qa/privacy-policy/"><span class="wpml-ls-native">English</span></a></li>
+<li class="menu-item-language menu-item wpml-ls-slot-4 wpml-ls-item wpml-ls-item-ar wpml-ls-menu-item wpml-ls-last-item menu-item-wpml-ls-4-ar"><a title="العربية" href="http://dohabank.qa/ar/%d8%a8%d9%8a%d8%a7%d9%86-%d8%a7%d9%84%d8%ae%d8%b5%d9%88%d8%b5%d9%8a%d8%a9/"><span class="wpml-ls-native">العربية</span></a></li>
+            
              
                         <li class="html-block">
                
@@ -992,15 +1074,15 @@ img.emoji {
 <script type="text/javascript" src="http://dohabank.qa/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="http://dohabank.qa/wp-includes/js/jquery/ui/effect-slide.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="http://dohabank.qa/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://dohabank.qa/wp-content/themes/flatbox-db/js/script.js"></script>
-<script type="text/javascript" src="http://dohabank.qa/wp-content/themes/flatbox/js/modernizr.js?ver=4.5.2"></script>
-<script type="text/javascript" src="http://dohabank.qa/wp-content/themes/flatbox/js/flatsome-plugins.js?ver=4.5.2"></script>
+<script type="text/javascript" src="http://dohabank.qa/wp-content/themes/flatbox-db/js/script.js?v=4"></script>
+<script type="text/javascript" src="http://dohabank.qa/wp-content/themes/flatbox/js/modernizr.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://dohabank.qa/wp-content/themes/flatbox/js/flatsome-plugins.js?ver=4.7.5"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var ajaxURL = {"ajaxurl":"http:\/\/dohabank.qa\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://dohabank.qa/wp-content/themes/flatbox/js/flatsome-theme.js?ver=4.5.2"></script>
+<script type="text/javascript" src="http://dohabank.qa/wp-content/themes/flatbox/js/flatsome-theme.js?ver=4.7.5"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var PRIVATE_SITE = 0;
@@ -1013,13 +1095,19 @@ var ubermenu_data = {"remove_conflicts":"on","reposition_on_load":"off","intent_
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://dohabank.qa/wp-content/plugins/ubermenu/assets/js/ubermenu.js?ver=3.2.5"></script>
-<script type="text/javascript" src="http://dohabank.qa/wp-includes/js/wp-embed.js?ver=4.5.2"></script>
+<script type="text/javascript" src="http://dohabank.qa/wp-includes/js/wp-embed.js?ver=4.7.5"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var icl_vars = {"current_language":"en","icl_home":"http:\/\/qatar.dohabank.in\/","ajax_url":"http:\/\/dohabank.qa\/wp-admin\/admin-ajax.php","url_type":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://dohabank.qa/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=4.5.2"></script>
+<script type="text/javascript" src="http://dohabank.qa/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=4.7.5"></script>
 
 
-</body></html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 23634/25567 objects using apc
+Page Caching using apc
+
+ Served from: dohabank.qa @ 2017-06-06 06:16:44 by W3 Total Cache --></body></html>
