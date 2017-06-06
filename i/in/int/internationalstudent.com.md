@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalstudent.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012948id_/http%3A//www.internationalstudent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalstudent.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184718id_/https%3A//www.internationalstudent.com/privacy) for the most accurate reproduction.*
 
 # InternationalStudent.com Privacy Policy
 
@@ -76,3 +76,5 @@ Please note that you cannot opt out of the use of your information for completio
 ####  Changes to this Policy 
 
 We may need to modify this privacy policy from time to time to reflect our current privacy practices, so please check back to view any changes. When you register or submit your email address on any EIC site, you acknowledge receipt of this privacy policy and agree to receive future notices about it online. We make this policy continuously available online. We will inform you of material modifications to this policy in the future by posting changes on the EIC sites and/or sending you email where appropriate. 
+
+### Related Content:
