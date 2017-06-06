@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrisoftware.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024061702id_/http%3A//www.mrisoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrisoftware.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060514id_/http%3A//www.mrisoftware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MRI
 
@@ -32,10 +32,6 @@ From time to time, portions of this Site may allow you to post information which
 **Children’s Privacy**
 
 MRI’s Site, software and services do not target, and are not structured to attract, children under the age of 13. MRI does not collect any registration information from users who indicate they are under the age of 13. If MRI discovers personal data from a child, MRI will eliminate that data.
-
-**Safe Harbor Privacy Policy**
-
-MRI adheres to the Safe Harbor Agreement between the U.S. Department of Commerce and the European Commission with respect to personally identifiable information that is transferred from the European Economic Area to the United States within the scope of MRI’s Safe Harbor certification. Read more about our Safe Harbor policy.
 
 **Security of Information**
 
