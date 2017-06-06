@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scanguard.com privacy policy that was archived on 2016-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160831122559id_/https%3A//www.scanguard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanguard.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606193933id_/https%3A//www.scanguard.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Scanguard
 
@@ -80,13 +80,14 @@ Any questions or concerns regarding the use or disclosure of Personal Informatio
 
 If Scanguard is unable to resolve your complaint, you can escalate the issue in accordance with the dispute resolution procedure set out in the [Terms and Conditions](https://web.archive.org/terms).
 
-### ScanguardContact Information
+### Scanguard Contact Information
 
 If you have any questions or comments, please contact us at [support@scanguard.com](mailto:support@scanguard.com) or at the address listed below: 
 
-SS Protect Limited  
-5A Little Park Farm Road,  
-Segensworth, Fareham  
-Hampshire  
-PO15 5SJ  
+SS Protect Limited,  
+Larch House,  
+Parklands Business Park,  
+Denmead,  
+Hampshire,  
+PO7 6XP,  
 United Kingdom
