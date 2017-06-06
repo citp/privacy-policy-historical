@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomusix.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119131648id_/http%3A//www.gomusix.com/page/1-Privacy-Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomusix.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606035242id_/http%3A//www.gomusix.com/page/1-Privacy-Notice) for the most accurate reproduction.*
 
 # Privacy Notice | GoMusix
 
