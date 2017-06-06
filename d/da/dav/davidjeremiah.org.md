@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the davidjeremiah.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120011530id_/http%3A//www.davidjeremiah.org/site/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidjeremiah.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091620id_/http%3A//www.davidjeremiah.org/site/about/privacy.aspx) for the most accurate reproduction.*
 
 # DavidJeremiah.org - Privacy Policy
 
-Websites [www.davidjeremiah.org](http://www.davidjeremiah.org/) and [www.turningpointonline.org](http://www.turningpointonline.org/) are provided by Turning Point with Dr. David Jeremiah. Your use of our website is governed by the [Terms and Conditions](https://web.archive.org/site/about/terms.aspx "Terms and Conditions"), and by your use of our website you accept and acknowledge this privacy policy.
+Websites [www.davidjeremiah.org](http://www.davidjeremiah.org/), [www.turningpointonline.org](http://www.turningpointonline.org/), [www.davidjeremiah.ca](http://www.davidjeremiah.ca/), [www.jeremiahstudybible.com](http://www.jeremiahstudybible.com/), [www.airshipgenesis.com](http://www.airshipgenesis.com/), [www.route66life.org](http://www.route66life.org/), and [www.momentodecisivo.org](http://www.momentodecisivo.org/) are provided by Turning Point with Dr. David Jeremiah. Your use of our website is governed by the [Terms and Conditions](https://web.archive.org/site/about/terms.aspx "Terms and Conditions"), and by your use of our website you accept and acknowledge this privacy policy.
 
   
 **A NOTE ABOUT THE PRIVACY OF CHILDREN UNDER 13**
