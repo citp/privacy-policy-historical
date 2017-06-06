@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glasgowlive.co.uk privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125211309id_/http%3A//www.glasgowlive.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glasgowlive.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125630id_/http%3A//www.glasgowlive.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Glasgow Live: Latest Glasgow News, sport, features and comment from the heart of the city
 
