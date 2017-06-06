@@ -1,90 +1,105 @@
-> *The following text is extracted and transformed from the genesys.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214041535id_/http%3A//www.intercall.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genesys.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142048id_/http%3A//www.genesys.com/about/legal/privacy) for the most accurate reproduction.*
 
-# InterCall Privacy Policy | Conference Call Company
+# Privacy | Genesys
 
-  InterCall, Inc. is a leading provider of conferencing and collaboration services. We value the privacy of our customers, users, and any individual that accesses or uses the InterCall websites, products, and services (collectively, the **“Services”** ). This Policy discloses InterCall’s practices with respect to the collection, processing, use and disclosure of user information collected through the access and use of InterCall Services. This Privacy Policy applies to all Personal Information collected and processed by InterCall whether in electronic, paper or verbal format. The virtual event Service allows certain third party organizers and contributors to host virtual events (each, a “Sponsor”). InterCall collects the information described below on behalf of such Sponsors. You should consult the privacy policies of each relevant Sponsor to determine how they may handle your information. 
+At Genesys Telecommunications Laboratories, Inc. ("Genesys"), we are committed to protecting your privacy and providing you with the most powerful and secure online experience. You can travel through most of this web site (this "Site") without giving us any information about yourself. But sometimes we do collect information to provide services and/or information that you request, and this statement of privacy (this "Privacy Policy") explains data collection and use practices of Genesys in those situations. Please read this Privacy Policy. This Privacy Policy applies to your use of this website and all of its features and web pages (collectively, the “Site”). Please read this Privacy Policy carefully.
 
-## Definitions
+### Acceptance
 
-“Personal Information” or “Information” means information that (1) is transferred from the European Economic Area (“EEA”) or Switzerland to the United States or maintained in the United States; (2) is recorded in any form; (3) is about, or pertains to, a specific individual; and (4) can be linked to that individual.  
-“Sensitive Personal Information” means personal information that reveals race, ethnic origin, sexual orientation, political opinions, religious or philosophical beliefs, trade union membership or that concerns an individual’s health. 
+Genesys Telecommunications Laboratories, Inc. and its subsidiaries and affiliates ("Genesys", “we”, “us”, “our”) provide this Site subject to this Privacy Policy. By accessing and using the Site, you accept and agree to this PRIVACY POLICY. If you do not agree to this privacy policy, please do not use the Site.
 
-## Collection and Use of Personal Information
+### Information We Collect about You
 
-In connection with the access and use of InterCall Services, we may ask you to provide us with Personal Information when, among other things, you register on the InterCall website, use one of our Services, fill out a survey, make a request for information, or enter a sweepstakes or contest through the InterCall website. We may also capture your telephone number when you use our conferencing Services. Please be aware that any information you choose to share on any publicly available portion of the Services or with third parties, including without limitation your personal page, chat messages, forum posts, blogs, resumes, job applications, business cards, or any other information that you provide to Sponsors or other attendees, may be collected and used by others without restriction. We will use the Personal Information you provide us in these circumstances to operate the InterCall website, to the extent required for the delivery of the InterCall Services, to satisfy InterCall's legitimate business interests (such as customer analysis and internal marketing study and analysis), and to provide information you request from the InterCall website ("Primary Use").
+Genesys is committed to protecting your privacy. So you should be aware that we may collect information about you through your use of our Site. Some of the information we collect may personally identify you. For example:
 
-**Important Notes Regarding Virtual Events** : For virtual events, depending upon the type of event, some of the following fields may be displayed throughout the event: first and last name, company, User ID, and User avatar/image. The Sponsor may enable attendees to search for and find other attendees based on a User’s registration information. If you associate your actual name or other personally identifiable information with your User ID, the people to whom you have revealed such information will be able to personally identify your activities on the event. In addition, any information you choose to share on any publicly available portion of a virtual event may be collected and used by others without restriction. résumés that you have posted to or within a virtual event may be available to all Sponsors of any booth, even if you have not filed a job application with such Sponsor. You should consult the respective privacy policies of these Sponsors to determine how they will handle your information. InterCall’s Privacy Policy does not apply to such Sponsors or their use of your information. InterCall does not control Sponsors’ use of your information. If you would prefer that InterCall not disclose your personal information to any such Sponsor, please [contact our privacy team](http://www.intercall.com/l/privacy/index.php). Please be reminded, however, that any information you publicly display or share or that is accessible through the event may already be in such Sponsor’s possession, despite such opt-out choice.
+  * You may provide registration information, such as your username, first and last name, mailing address, email address, language preference, country, and occupation, when using the Site to purchase or register a product, download software, participate in an online community or event, or subscribe to a newsletter. When registering a product, we may store your registration information along with any information you have provided during previous visits as part of your personal profile.
+  * You may provide information in our online communities, such as posts or comments. This may occur when you invite others to join an online community or when you share a post or blog. For example, you may provide names and email addresses when sharing a post.
+  * You may provide transaction information when using the Site (e.g., purchasing or registering a product or requesting information), including your name, billing address, and payment information.
+  * Location, IP address, domain, browser, viewing data, and other information may be collected as a part of our analysis of your use of our Site.
 
-Unless you instruct us not to do so, InterCall may also use the Personal Information you provide us to contact you regarding additional or new services and features offered by InterCall, special offers by InterCall, or important information regarding InterCall ("InterCall Secondary Use"). In addition, with your permission, we may provide your Personal Information to other companies who may contact you regarding products, services, and offers that may be of interest to you, but that are not directly related to InterCall or the InterCall website (“Third Party Secondary Use”).
 
-InterCall uses display advertising to promote goods and services online through third parties. These third parties use cookies to collect traffic information to inform, optimize and serve advertisements based on past website visit history. These third parties show InterCall advertisements on other Internet sites you may visit based on your visits to the InterCall site.   
-InterCall may provide your Personal Information to vendors that assist InterCall in processing such Information or in case you purchase services of Third Parties from InterCall (“Third Party Services”). InterCall requires such vendors to enter into agreements with InterCall prohibiting disclosure of the information to others and restricting its use to providing the contracted services of InterCall.
 
-## Choice
+**By using the Site, you consent to our collection of your information.**
 
-As we noted above, we will not use your Personal Information or Sensitive Personal Information for any Third Party Secondary Uses unless you affirmatively choose to participate in such Secondary Uses. You may also stop delivery of informational or promotional contacts from us by following the instructions included in the informational or promotional contact itself or [contact our privacy team](http://www.intercall.com/l/privacy/index.php).
+### Use of Your Information
 
-## Access
+We may use your information for the following purposes:
 
-When you register to use any of the Services offered by InterCall, InterCall will send you a confirmation of your registration showing the Personal Information we obtained from your registration. Also, we will take reasonable steps to give you the opportunity to correct inaccuracies in the Personal Information we retain concerning you and delete Personal Information concerning you upon your request, unless the burden or expense of providing access would be disproportionate to the risks to your privacy or where the rights of persons other than you would be violated. 
+  * To proceed with your registration and to make the Site easier for you to use by not requiring you to enter your information more than once;
+  * To deliver services or products that you request, purchase, or download;
+  * To help you quickly find products, services, or information;
+  * To notify you of product upgrades, special offers, updated information, and new services;
+  * To respond to inquiries or to communicate with you, such as through welcome messages, newsletters, or direct marketing;
+  * To facilitate participation in our online communities;
+  * To perform market research or to conduct surveys unless you have requested that we not contact you for this purpose;
+  * To enhance our marketing and to improve our Site, services, and products; or
+  * To comply with legal requirements and to prevent activities that may violate our policies.
 
-## International transfers and the U.S.-E.U. Safe Harbor and the U.S.-Swiss Safe Harbor
 
-By accessing and using the Services and providing us with the requested Personal Information, you consent to the collection and use of the information in accordance with this Privacy Policy including transfers from the EEA and Switzerland to the United States or elsewhere where privacy protections may not have been deemed “adequate” by the EEA or Switzerland. Individuals who do not consent to the collection, use, or disclosure of their personal information as outlined in this Policy should not provide any Personal Information through the InterCall Services and website.
 
-In accordance with our commitment to protect personal privacy, InterCall adheres to the Safe Harbor Frameworks concerning the transfer of Personal Information from the EEA and Switzerland to the United States. Accordingly, we follow the Safe Harbor Principles and the fifteen FAQs that make up the E.U. Safe Harbor Framework and the Swiss Safe Harbor Framework published by the U.S. Department of Commerce (the “Principles”) with respect to all such Personal Information. If there is any conflict between the policies in this Privacy Policy and the Principles, the Principles shall govern. This Privacy Policy outlines our general policy and practices for implementing the Principles, including the types of Information we gather, how we process and use it and the notice and choice affected individuals have regarding our use of and their ability to correct that Information.
+**By using the Site, you consent to our use of your information for these purposes.**
 
-## Transfers
+### Sharing of Your Information
 
-Unless you have already consented to such disclosure, prior to disclosing Personal Information to a third party, InterCall shall notify you of such disclosure and allow you to opt out of such disclosure. InterCall shall ensure that any third party for which Personal Information may be disclosed subscribes to the Principles or are subject to law providing the same level of privacy protection as is required by the Principles and agree in writing to provide an adequate level of privacy protection.
+We will not disclose your personal information outside of Genesys except in limited circumstances, such as:
 
-## Security
+  * We may share your personal information with other Genesys companies and our business partners when necessary in order to support the uses mentioned above.
+  * We may hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases or postal mail, answering customer questions about products or services, and processing event registration. We will provide those companies with only the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+  * We may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary (i) to conform to the edicts of the law or comply with legal process served on us, (ii) to protect and defend the rights or property of Genesys, or (iii) to act in exigent circumstances to protect the personal safety of our users or the public.
+  * In the event that Genesys, or any portion thereof, is sold, transferred, merged, financed, or dissolved, in whole or in part, your personal information that we may possess may be sold, transferred, or otherwise disclosed as part of the transaction or proceeding, unless you instruct us not to do so.
+  * We may use a third-party service to host our online communities or to provide website analytics. We may also hire third parties to collect data or may purchase data from third parties, including renting email address lists for use in email campaigns. We will provide the same security and management options as set forth herein for data collected from our Site. However, you may encounter links to third-party sites (e.g., business partners) and, although a connection may be made to such sites, we are not responsible for their privacy policies and this Privacy Policy does not cover their practices.
 
-InterCall shall take reasonable steps to protect your Personal Information from loss, misuse and unauthorized access, disclosure, alteration and destruction. The Personal Information we collect from you is stored in operating environments that employ reasonable security measures and that are not available to the general public. InterCall is not responsible for unauthorized access to such Information by hackers or others that obtain access through illegal measures, in the absence of negligence on the part of InterCall. Further, the other websites you may access through the InterCall website may have different security practices and you should familiarize yourself with those practices. InterCall cannot guarantee the security of Information transmitted via the Internet.
 
-You are responsible for the confidentiality and security of passwords InterCall issues to you. If you believe a third party has obtained your password in an unauthorized manner, please notify us promptly.
 
-## Data Integrity
+### Control of Your Information
 
-InterCall shall only process Personal Information in a way that is compatible with and relevant for the purpose for which it was collected or authorized by the individual. To the extent necessary for those purposes, InterCall shall take reasonable steps to ensure the Personal Information is accurate, complete, current and reliable for its intended use.
+When you provide personal information to us, we will not share that information with third parties without your permission, other than in circumstances referred to above. We may send out important notices informing you of changes to our policies, technical service issues related to a product or service, or other information that is essential to the use of our Site, services, and products.
 
-## Enforcement/Complaints
+### Access to Your Information
 
-InterCall uses a self-assessment approach to assure compliance with this Privacy Policy and periodically verifies the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Principles.
+We make good faith efforts to provide you with access so you can edit or update your personal information. You may have the ability to view or edit some of your personal information online. Profiles created on our sites may be kept at different locations for different services; so you may have to review and update the information in multiple locations. You may review and update this information or request deletions of any and all of your personal information at any time by contacting [legal@genesys.com](mailto:legal@genesys.com).
 
-If at any time you believe we have acted contrary to this Privacy Policy, please [contact our privacy team](http://www.intercall.com/l/privacy/index.php) and we will take steps to investigate and will use reasonable measures to remedy the problem. If a complaint or dispute cannot be resolved through our internal process, we agree to dispute resolution using BBB EU Safe Harbor as a third party resolution provider for disputes arising with regard to privacy in the EEA and Switzerland. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU Safe Harbor website at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
+**Note to California Residents:** California Civil Code Section 1798.83 allows California residents to request information regarding disclosure of personal information to third parties for the third parties' direct marketing purposes. To make a request, please contact [legal@genesys.com](mailto:legal@genesys.com).
 
-## Disclosure for Legal Purposes
+### Security of Your Information
 
-We may disclose Personal Information if required to do so by law or in the good-faith belief such action is necessary:  (a) to conform to the edicts of the law or comply with legal process served on us or our affiliates; (b) to protect and defend our rights or property or those of our customers and their users; (c) to protect the personal safety of our customers and their users or the public; or (d) in connection with a merger, consolidation or sale of substantial assets of InterCall. As we continue to develop our business, we might buy or sell assets related to our business. In such transactions Personal Information generally is one of the transferred business assets. Also, in the event InterCall or substantially all of its assets are acquired, Personal Information will be one of the transferred assets. 
+We are committed to protecting the security of your personal information and we honor your choices for its intended use. We have implemented the appropriate safeguards to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. For example, your personal information is stored in password-controlled servers with limited access. We make good faith efforts to provide the security measures necessary to keep the integrity and confidentiality of your information safe. However, no system can be completely secure and we do not guarantee that our security measures are impenetrable.
 
-## Anonymous Information
+You also have a significant role in protecting your information. As an example, you should not share your password with anyone. If you believe that your password has been compromised, you should immediately change your password.
 
-Please understand, in addition to collecting Personal Information, InterCall will also gather information that does not personally identify you regarding your use of the InterCall website ("Anonymous Information"). The Anonymous Information we collect regarding your use of the InterCall website may be used by us to measure the effectiveness of marketing efforts on the InterCall website, for improving the services we offer to you, or to improve the InterCall website. Generally, you will not be aware when such Anonymous Information is being collected about you. It may be collected in various ways, such as through traffic data or direct surveys of our customers and may entail the use of, among other things, cookies, IP addresses, or other numeric codes used to identify the computer or other device used to access our website. 
+### Cookies and Other Mechanisms
 
-## Cookies 
+A cookie is placed on your machine (if you accept cookies) or is read if you have visited our Site previously. All of this is done in accordance with applicable laws.
 
-We use cookies to provide you with better service. We also use display advertising to promote goods and services online through third parties. These third parties use cookies to collect traffic information to inform, optimize and serve advertisements based on past website visit history. Cookies are pieces of information a website transfers to your computer's hard disk for recordkeeping purposes. Cookies can make the Web more useful by storing information about your preferences for a particular website. The use of cookies is an industry standard, and many major websites use them to provide useful features for their customers. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies. However, you may not be able to take full advantage of the functionality of the InterCall website or Services if you do so. 
+Web beacons, also known as clear gif technology, or action tags, assist in delivering the cookie. This technology tells us how many visitors clicked on key elements (such as links or graphics) While using the Site, we do not use this technology to access your personally identifiable information on the Site; it is a tool we use to compile aggregated statistics about Site usage. We may share aggregated Site statistics with our business partners but do not allow other companies to place clear gifs on the Site.
 
-## Venturing off the InterCall website
+To ensure we are creating and publishing relevant content, we may use information collected from cookies and other mechanisms. We may use this information in aggregated form and use site-visitation statistics to improve our sites. If you choose to not have your browser accept cookies from our Site, you will be able to view the text on the screens, however, you will not experience a personalized visit or to subscribe to the service offerings on our Site.
 
-The InterCall website may contain hyperlinks that can take you to websites run by third parties ("Third-Party Websites"). Any hypertext or other links to Third-Party Websites from the InterCall website are provided solely as a convenience to you. If you use these links, you will leave the InterCall website. InterCall has not reviewed all of these Third-Party Websites and does not control and is not responsible for any of these websites or their content or practices.   Thus, InterCall does not endorse or make any representations about them, or any information, software, or other products or materials found there, or any results that may be obtained from using them.   If you decide to access any of the Third-Party Websites linked to the InterCall website, you do this entirely at your own risk.
+This website uses the Google AdWords remarketing service to advertise on third-party websites (including Google) to previous visitors on our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site – for example, using the contact form to make an inquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Genesys website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
 
-Remember, this Privacy Policy only applies to InterCall. When you are no longer on the InterCall website, you may encounter different privacy and security practices and you should familiarize yourself with those practices each time you visit a new website. 
+### Transfer of Your Information Across Borders
 
-## Modifications
+Your information may be stored and processed in the United States or any other country in which Genesys or its vendors maintain facilities. **By using our Site, you consent to any transfer, storage, or processing of information outside of your country**. Several countries, including those in the European Economic Area, have established data protection laws and regulations that place restrictions on the transfer of personal information across country borders. We are committed to complying with all of those laws and regulations. However, when you use our Site and provide such personal information, you should do so in compliance with the applicable data protection laws and regulations in your country.
 
-InterCall reserves the right to modify the Privacy Policy at any time. Please review the Privacy Policy each time you access and use the InterCall website, as your continued use of the InterCall website and the InterCall Services signifies your assent to such modifications. 
+### Children’s Information
 
-## Contact Us
+The Site is not intended for use by individuals under the age of 13. We do not knowingly collect personal data from nor send requests for personal data to individuals under the age of 13.
 
-If at any time you believe InterCall has not followed the above Policy, or if you have questions, comments, or complaints regarding InterCall’s Policy, please [contact our privacy team](http://www.intercall.com/l/privacy/index.php). By mail, we can be contacted at: 
+### Modifications to the Privacy Policy
 
-InterCall, Inc.       
-ATTN: Safe Harbor Support  
-1239 OG Skinner Drive  
-West Point, GA 31833
+Genesys may update and make changes to the Privacy Policy at any time. When we do so, we will also revise the date at the bottom of the first page of the Privacy Policy. When we make material changes to the Privacy Policy, we will notify you by placing prominent notice on the Site.
 
-## HIPAA PRIVACY NOTICE
+### Contact information
 
-[Download HIPAA privacy notice (PDF)](http://www.west.com/pdfs/West_HIPAA_Privacy_Notice.pdf) 
+If you have any questions about the Privacy Policy, please contact us at [legal@genesys.com](mailto:legal@genesys.com).
+
+Last updated: April 22, 2016
+
+### Corporate Headquarters
+
+**Genesys**  
+2001 Junipero Serra Blvd.  
+Daly City, CA 94014  
+**US:** 888-GENESYS (436-3797)  
+**International:** +1 650 466-1100  
+**Fax:** +1 650 466-1260
