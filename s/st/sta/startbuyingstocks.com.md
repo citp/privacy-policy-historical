@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startbuyingstocks.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205054558id_/http%3A//startbuyingstocks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startbuyingstocks.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606020723id_/http%3A//startbuyingstocks.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -19,7 +19,10 @@ StartBuyingStocks.com does not use cookies.
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
 Some of my advertising partners may use cookies and web beacons on our site. My advertising partners include …….  
-Commission Junction
+Commission Junction  
+Flex Offers  
+Google Adsense  
+Wall Street Survivor
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on StartBuyingStocks.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
