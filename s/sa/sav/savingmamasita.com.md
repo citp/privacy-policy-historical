@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savingmamasita.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031200432id_/http%3A//savingmamasita.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingmamasita.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082850id_/http%3A//savingmamasita.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Saving Mamasita
 
@@ -55,15 +55,15 @@ For information about opting out of Gourmet Ads and ad serving partners please v
 
 
 
-  * [Spooktacular Halloween Party Ideas for Adults](http://savingmamasita.com/2016/10/spooktacular-halloween-party-ideas-for-adults/) \- October 29, 2016
-  * [Tips for Studying While Raising Young Kids](http://savingmamasita.com/2016/10/tips-for-studying-while-raising-young-kids/) \- October 28, 2016
-  * [Healthy Halloween Snacks and Treats](http://savingmamasita.com/2016/10/healthy-halloween-snacks-and-treats/) \- October 22, 2016
-  * [How to Save Money on the Cost of Your College Degree](http://savingmamasita.com/2016/09/how-to-save-money-on-the-cost-of-your-college-degree/) \- September 27, 2016
-  * [Hey Hot Mama – Makeup Tips for Moms](http://savingmamasita.com/2016/09/hey-hot-mama-makeup-tips-for-moms/) \- September 24, 2016
-  * [Tips To Make Potty Training A Breeze + #PampersEasyUps Giveaway](http://savingmamasita.com/2016/09/tips-to-make-potty-training-a-breeze-pamperseasyups-giveaway/) \- September 21, 2016
-  * [Top 8 Inspiring Bathroom Tips to Make the Room Seem Bigger](http://savingmamasita.com/2016/09/top-8-inspiring-bathroom-tips-to-make-the-room-seem-bigger/) \- September 20, 2016
-  * [Staying Safe On The Road With Quaker State #CambialoConQS](http://savingmamasita.com/2016/09/staying-safe-on-the-road-cambialoconqs/) \- September 14, 2016
-  * [Honey Bunches Of Oats: This Is Everything!](http://savingmamasita.com/2016/09/honey-bunches-of-oats-this-is-everything/) \- September 9, 2016
-  * [Not Just Wealthy People Need a Financial Plan](http://savingmamasita.com/2016/08/moneymythbpf/) \- August 31, 2016
+  * [How Kids Can Earn Free Stuff for Reading in the Summer](http://savingmamasita.com/2017/06/how-kids-can-earn-free-stuff-for-reading-in-the-summer/) \- June 5, 2017
+  * [Companies That Send You Free Products to Test](http://savingmamasita.com/2017/05/companies-that-send-you-free-products-to-test/) \- May 28, 2017
+  * [Saving Time During the Week: Tips for Busy Moms](http://savingmamasita.com/2017/05/saving-time-during-the-week-tips-for-busy-moms/) \- May 26, 2017
+  * [Best Beauty Product Testing Panels](http://savingmamasita.com/2017/05/best-beauty-product-testing-panels/) \- May 24, 2017
+  * [Free Meals & Admissions for Military on Memorial Day](http://savingmamasita.com/2017/05/free-meals-admissions-for-military-on-memorial-day/) \- May 21, 2017
+  * [Visit The Doctor From Home With Amwell #MOMSLOVEAMWELL](http://savingmamasita.com/2017/05/visit-the-doctor-from-home-with-amwell-momsloveamwell/) \- May 16, 2017
+  * [Reasons Why It Is Never Too Early To Shop For Your Daughter’s Prom Dress](http://savingmamasita.com/2017/05/reasons-why-it-is-never-too-early-to-shop-for-your-daughters-prom-dress/) \- May 8, 2017
+  * [MAY THE 4TH BE WITH YOU: Amazon Celebrates May 4th with Star Wars Deals](http://savingmamasita.com/2017/05/may-the-4th-be-with-you-amazon-celebrates-may-4th-with-star-wars-deals/) \- May 4, 2017
+  * [Kids Activities for Cinco de Mayo](http://savingmamasita.com/2017/04/kids-activities-for-cinco-de-mayo/) \- April 30, 2017
+  * [Camping Safety Tips You Need to Know](http://savingmamasita.com/2017/04/camping-safety-tips-you-need-to-know/) \- April 24, 2017
 
 
