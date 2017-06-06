@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the japanesevehicles.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118223902id_/http%3A//www.japanesevehicles.com/privacy.php%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japanesevehicles.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171423id_/http%3A//www.japanesevehicles.com/privacy.php%3Flang%3Den) for the most accurate reproduction.*
 
 # Privacy Statement. JapaneseVehicles.com
 
-[Home](https://web.archive.org/web/20161118223902id_/http%3A//www.japanesevehicles.com/index.php) \- Privacy Statement
+[Home](https://web.archive.org/web/20170606171423id_/http%3A//www.japanesevehicles.com/index.php) \- Privacy Statement
 
 ## Privacy Policy of JapaneseVehicles.com
 
