@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the landtransportguru.net privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209074722id_/http%3A//landtransportguru.net/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landtransportguru.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606072403id_/http%3A//landtransportguru.net/terms) for the most accurate reproduction.*
 
-# Terms of Service & Privacy Policy – Land Transport Guru
+# Terms of Service & Privacy Policy | Land Transport Guru
 
 This privacy statement & terms of use covers the website www.LandTransportGuru.net (Thereafter referred to as “the Land Transport Guru website”). Please read this statement carefully before accessing our content. Your use of the Land Transport Guru website indicates your agreement to abide by the Terms in effect.
 
