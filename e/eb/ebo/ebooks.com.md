@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120005841id_/http%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173942id_/http%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
 
 # Help - Privacy
 
-(Last Updated: April 14, 2016)
+(Last Updated: February 26, 2017)
 
 [](https://privacy.truste.com/privacy-seal/Ebooks-com-Pty-Limited/validation?rid=d4c0906c-5618-4e62-9f3c-8a4fcb313dff "TRUSTe online privacy certification")
 
 This privacy policy applies to [www.ebooks.com](http://www.ebooks.com/) owned and operated by Ebooks.com Pty Limited. This privacy policy describes how Ebooks.com Pty Limited collects and uses the personally identifiable information you provide on our web site: www.ebooks.com. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
 
-Ebooks.com Pty Limited has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
+eBooks.com respects your privacy. As we develop our online presence, we will revise our Privacy Policy to reflect our practices and to meet any legislative or other requirements. The terms of this Privacy Policy form part of and should be read in conjunction with the [Terms of Use and Licenses](https://web.archive.org/information/terms.asp) which govern this Website.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
-
-The TRUSTe program covers only information that is collected through this Web site, [www.ebooks.com](http://www.ebooks.com/) and does not cover information that may be collected through software downloaded from the site, our mobile website and our mobile application. eBooks.com respects your privacy. As we develop our online presence, we will revise our Privacy Policy to reflect our practices and to meet any legislative or other requirements. The terms of this Privacy Policy form part of and should be read in conjunction with the [Terms of Use and Licenses](https://web.archive.org/information/terms.asp) which govern this Website.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>
 
 ## Collection of personally identifiable information
 
@@ -42,6 +40,7 @@ We will not sell, rent, trade, share, reveal or disclose any of your personally 
 
   * you have specifically requested that we do so;
   * we deem it necessary to provide you with services you have requested;
+  * required to disclose personal data in response to lawful requests by public authorities 
   * as required by law, such as to comply with a subpoena, bankruptcy proceedings, or similar legal process;
   * our terms and conditions state that we will;
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request; or
@@ -53,6 +52,8 @@ We may provide aggregate information and statistics about eBooks.com's customers
 
 We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. 
 
+We may use your contact information to send you information about our Services, to market to you, and to help prevent spam, fraud or abuse. You may use your settings for email and mobile notifications to control notifications you receive from us. You may also unsubscribe from a notification by following the instructions contained within the notification or the instructions on our website. 
+
 ## Tracking Technologies
 
 We Ebooks.com Pty Limited and our affiliates, or analytics use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking users' movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis. 
@@ -61,7 +62,7 @@ We use cookies to improve the functionality of it's site and to support all brow
 
 We use Local Storage, such as HTML5, to store content information and preferences. Various browsers may offer their own management tools for removing HTML5. 
 
-We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here . Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
 
 ## Analytics/Log files
 
@@ -73,7 +74,7 @@ We do not link this automatically-collected data to personally identifiable info
 
 ## Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may update, delete/remove it by logging in to your account or by emailng Customer Support at privacy@ebooks.com or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request within a reasonable timeframe. 
+Upon request Ebooks.com Pty Limited will provide you with information about whether we hold any of your personal information. If your personally identifiable information changes, or if you no longer desire our service, you may update, delete/remove it by logging in to your account or by emailng Customer Support at privacy@ebooks.com or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request within a reasonable timeframe. 
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -143,10 +144,11 @@ In the event that eBooks.com goes through a business transition, such as a merge
 ## Contact Us
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at:  
+EBOOKS.COM Pty Limited, trading as eBooks.com  
 Ph: 617-249-0460  
 Fax: 617-249-0460  
 privacy@ebooks.com   
-Level 1, 62 Bayview Terrace  
-Claremont WA 6010  
+27 Railway Rd,  
+Subiaco, WA 6008  
 Australia  
 
