@@ -1,402 +1,504 @@
-<!--The following is the downloaded HTML source of the condocontrolcentral.com privacy policy that was archived on 2014-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141118003922id_/http%3A//condocontrolcentral.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the condocontrolcentral.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606023849id_/http%3A//www.condocontrolcentral.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-6.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"2615e31b7f","applicationID":"4238293","transactionName":"YwRRMBNXWEEEUhAMXFpOexAVRn5TC1UIAEEbMkoXFVNbHDJUBkt+QgIdKRdVflMLVQgAQQ==","queueTime":0,"applicationTime":48,"ttGuid":"4D7124CEAB6ED745","agent":"js-agent.newrelic.com/nr-476.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgEPUV5RGwcCV1lQDgI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-    <title>PIPEDA Compliance &amp; Privacy Policy | Condo Control Central</title>
-    <script src="//cdn.optimizely.com/js/161661082.js"></script>
-    <link href="/shared/css/style.css" rel="stylesheet" type="text/css">
-    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+	
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Privacy Policy | Condo Control Central</title>
 
-    <meta name="description" content="">
+<link rel="stylesheet" href="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=3.1.8.1" type="text/css" media="all">
+<meta name="robots" content="noodp,noydir">
+<meta name="description" content="The document below outlines our commitment to protecting your privacy and personal information. We understand that privacy is important both to our clients">
+<link rel="canonical" href="http://www.condocontrolcentral.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy | Condo Control Central">
+<meta property="og:description" content="The document below outlines our commitment to protecting your privacy and personal information. We understand that privacy is important both to our clients">
+<meta property="og:url" content="http://www.condocontrolcentral.com/privacy-policy/">
+<meta property="og:site_name" content="Condo Control Central">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="The document below outlines our commitment to protecting your privacy and personal information. We understand that privacy is important both to our clients">
+<meta name="twitter:title" content="Privacy Policy | Condo Control Central">
+<meta name="twitter:site" content="@CondoCC">
+<meta name="twitter:domain" content="Condo Control Central">
+<meta name="twitter:creator" content="@CondoCC">
+<!-- / Yoast WordPress SEO plugin. -->
 
-    <link href="http://fonts.googleapis.com/css?family=Oxygen:400,300,700" rel="stylesheet" type="text/css">
-    <link rel="Stylesheet" type="text/css" href="/shared/css/cupertino/jquery-ui-1.8.16.custom.css">
-
-    <link rel="Stylesheet" type="text/css" href="/shared/css/uniform.aristo.css">
-
-
-            <link rel="stylesheet" type="text/css" href="/shared/css/page/blog.css">  
-
-     <link rel="stylesheet" type="text/css" href="/shared/css/screenannotation.css">
-     <script src="/shared/scripts/jquery-annotation.js" type="text/javascript"></script>
-    <script src="/shared/scripts/ccc.js" type="text/javascript"></script>
-    <script type="text/javascript" src="/shared/scripts/jquery.combined.js"></script>
-
-    <script type="text/javascript" src="/shared/scripts/jquery.validate.min.js"></script>
-    <script type="text/javascript" src="/shared/scripts/jquery.validate.unobtrusive.min.js"></script>
-    <script type="text/javascript" src="/shared/scripts/common.js"></script>
-    <script type="text/javascript" src="/bootstrap/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="/shared/scripts/jquery.uniform.min.js"></script>
-
-    <link href="https://d3jyn100am7dxp.cloudfront.net/assets/widget_embed_191.cssgz?1368943065" media="screen" rel="stylesheet" type="text/css">
-    <script src="https://d3jyn100am7dxp.cloudfront.net/assets/widget_embed_libraries_191.jsgz?1368943065" type="text/javascript"></script>
-
-
-    <script type="text/javascript">
-        // <![CDATA[    
-
-        $(document).ready(function () {
-
-
- 
-
-    $('.home_link').attr("class", "home_link_over");
-    ScreenshotAnnotation.SetupScreenAnnotation();
-        });
-
-
-    </script>
-    <script type="text/javascript">
-
- // <![CDATA[
-
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-32596362-4']);
-    _gaq.push(['_trackPageview']);
-
-    (function () {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-
-// ]]>
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Condo Control Central » Privacy Policy Comments Feed" href="http://www.condocontrolcentral.com/privacy-policy/feed/">
+<link rel="stylesheet" id="language-selector-css" href="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector-click.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="mbpro-font-awesome-css" href="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/plugins/maxbuttons/assets/libraries/font-awesome/css/font-awesome.min.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="artemas-style-css" href="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/themes/condocontrolcentral/css/style.css?ver=1.00" type="text/css" media="all">
+<link rel="stylesheet" id="artemas-fonts-css" href="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/themes/condocontrolcentral/css/fonts.css?ver=1.00" type="text/css" media="all">
+<link rel="stylesheet" id="artemas-ui-css" href="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/themes/condocontrolcentral/css/jquery-ui.css?ver=1.00" type="text/css" media="all">
+<link rel="stylesheet" id="artemas-media1-css" href="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/themes/condocontrolcentral/css/media-1000-685.css?ver=1.00" type="text/css" media="all">
+<link rel="stylesheet" id="artemas-media2-css" href="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/themes/condocontrolcentral/css/media-684-200.css?ver=1.00" type="text/css" media="all">
+<link rel="stylesheet" id="artemas-animate-css" href="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/themes/condocontrolcentral/css/animate.css?ver=1.00" type="text/css" media="all">
+<link rel="stylesheet" id="artemas-tab-css" href="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/themes/condocontrolcentral/css/tab.css?ver=1.00" type="text/css" media="all">
+<link rel="stylesheet" id="artemas-mCustomScrollbar-css" href="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/themes/condocontrolcentral/css/jquery.mCustomScrollbar.css?ver=1.00" type="text/css" media="all">
+<link rel="stylesheet" id="artemas-lightGallery-css" href="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/themes/condocontrolcentral/css/lightGallery.css?ver=1.00" type="text/css" media="all">
+<link rel="stylesheet" id="A2A_SHARE_SAVE-css" href="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.9" type="text/css" media="all">
+<script type="text/javascript" async="" src="http://static.addtoany.com/menu/page.js"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/themes/condocontrolcentral/js/jquery-1.9.0.min.js?ver=4.7.5"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mb_ajax = {"ajaxurl":"http:\/\/www.condocontrolcentral.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
 </script>
-<script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head>
+<script type="text/javascript" src="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/plugins/maxbuttons/js/front.js?ver=1"></script>
+<script type="text/javascript" src="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/themes/condocontrolcentral/js/jquery.bxslider.min.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/themes/condocontrolcentral/js/wow.min.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/themes/condocontrolcentral/js/jquery-ui.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/themes/condocontrolcentral/js/jquery.mCustomScrollbar.min.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/themes/condocontrolcentral/js/jquery.mousewheel.min.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/themes/condocontrolcentral/js/lightGallery.min.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/themes/condocontrolcentral/js/popcorn.min.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/themes/condocontrolcentral/js/popcorn.capture.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/themes/condocontrolcentral/js/custom_script.js?ver=4.7.5"></script>
+<link rel="https://api.w.org/" href="http://www.condocontrolcentral.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.condocontrolcentral.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.condocontrolcentral.com/wp-includes/wlwmanifest.xml"> 
+<link rel="shortlink" href="http://www.condocontrolcentral.com/?p=363">
+<link rel="alternate" type="application/json+oembed" href="http://www.condocontrolcentral.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.condocontrolcentral.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://www.condocontrolcentral.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.condocontrolcentral.com%2Fprivacy-policy%2F&amp;format=xml">
 
-<body id="top">
+<script type="text/javascript"><!--
+var a2a_config=a2a_config||{},wpa2a={done:false,html_done:false,script_ready:false,script_load:function(){var a=document.createElement('script'),s=document.getElementsByTagName('script')[0];a.type='text/javascript';a.async=true;a.src='http://static.addtoany.com/menu/page.js';s.parentNode.insertBefore(a,s);wpa2a.script_load=function(){};},script_onready:function(){if(a2a.type=='page'){wpa2a.script_ready=true;if(wpa2a.html_done)wpa2a.init();}},init:function(){for(var i=0,el,target,targets=wpa2a.targets,length=targets.length;i<length;i++){el=document.getElementById('wpa2a_'+(i+1));target=targets[i];a2a_config.linkname=target.title;a2a_config.linkurl=target.url;if(el){a2a.init('page',{target:el});el.id='';}wpa2a.done=true;}wpa2a.targets=[];}};a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.callbacks.push({ready:wpa2a.script_onready});
+a2a_config.onclick=1;
+//--></script>
+<meta name="generator" content="WPML ver:3.1.8.1 stt:1,4,43;0">
+<script data-cfasync="false" src="//load.sumome.com/" data-sumo-site-id="355f25301eebaf7322edd645ec5c37c5cb4adaaaaa65c237548955e1f60689c0" async=""></script><script type="text/javascript">
+(function() {
+  var didInit = false;
+  function initMunchkin() {
+    if(didInit === false) {
+      didInit = true;
+      Munchkin.init('254-TWX-909');
+    }
+  }
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//munchkin.marketo.net/munchkin.js';
+  s.onreadystatechange = function() {
+    if (this.readyState == 'complete' || this.readyState == 'loaded') {
+      initMunchkin();
+    }
+  };
+  s.onload = initMunchkin;
+  document.getElementsByTagName('head')[0].appendChild(s);
+})();
+</script><script type="text/javascript" async="" src="//munchkin.marketo.net/munchkin.js"></script>
 
-
-    <!--HEADER-->
-    <div id="header_b">
-        <div id="header">
-
-            <div class="menu">
-                <ul class="nav">
-                    <li><a href="/" class="nav">Condo Control Central</a>
-                        <ul class="sub">
-                            <li><a href="/">
-                                <img src="/shared/css/images/condo-control-central-logo.jpg" alt="" style="float:left; margin:0 5px 0 0"><span class="sub02">Condo Control Central</span><br>
-                                Powerful tools to communicate
-                                <br>
-                                and manage your operations.</a></li>
-                        </ul>
-                    </li>
-                    
-
-                    <li><a class="nav1"></a></li>
-                    <li><a href="http://condocontrolcentral.com/status-certificates/" class="nav">Status Certificates</a>
-                        <ul class="sub">
-                            <li><a href="http://condocontrolcentral.com/status-certificates/">
-                                <img src="/shared/css/images/icon-status-certificate.png" alt="" style="float:left; margin:0 5px 0 0"><span class="sub02">Status Certificates</span><br>
-                                Deliver status certificates to your owners online.</a></li>
-                        </ul>
-
-                    </li>
-                                       <li><a class="nav1"></a></li>
-     <li><a href="http://condocontrolcentral.com/training/" class="nav">Training</a>
-         <ul class="sub"> <li><a href="/training/"> <img src="/shared/css/images/marketing_site_training.png" alt="" style="float:left; margin:0 5px 0 0"><span class="sub02">Training</span><br> Online lessons on how to use <br>Condo Control Central.</a></li> </ul>
-
-     </li>
-                </ul>
-            </div>
-
-
-        </div>
-    </div>
-
-
-
-
-
-
-
-    <!--CONTAINER-->
-    <div id="container_b">
-        <div id="container">
-            <div id="center">
-
-
-
-                <div class="box1_header"><a href="/">
-                    <img src="/shared/css/images/logo.jpg" alt=""></a></div>
-
-
-                <div class="box2_header">
-                    <div class="box2_header1">
-                        <ul class="navt">
-                            <li><a href="https://condocontrolcentral.com/securesite/login.aspx" class="nav">Customer Login</a></li>
-                            <li><a class="nav2">|</a></li>
-                            <li><a href="/contact-us/" class="nav">888-762-6636 </a></li>
-                            <li><a class="nav2">|</a></li>
-                            <li><a href="/about-us" class="nav">About Us</a></li>
-
-                        </ul>
-                    </div>
-
-                    <div class="box2_header2">
-
-                        <div style="margin-left: 150px">
-                            <a href="http://www.linkedin.com/company/condo-control-central">
-                                <img src="/shared/css/images/in.png" width="26" height="26" style="float: left; margin-bottom:5px;margin-right:3px"></a>
-                            <a href="http://www.youtube.com/user/CondoControlCentral">
-                                <img src="/shared/css/images/yt.png" width="26" height="26" style="float: left; margin-bottom:5px;margin-right:3px"></a>
-                            <a href="https://twitter.com/CondoCC">
-                                <img src="/shared/css/images/tw.png" width="26" height="26" style="float: left; margin-bottom:5px;margin-right:3px"></a>
-                            <a href="https://www.facebook.com/CondoControlCentral">
-                                <img src="/shared/css/images/fb.png" width="26" height="26" style="float: left; margin-bottom:5px;margin-right:3px"></a>
-                        </div>
-
-                        
-
-                        <form action="/search-results" id="cse-search-box" novalidate="novalidate">
-
-
-
-                            <input type="submit" class="search_b" value="">
-                            <input type="text" class="search" id="pass" value="Search..." name="query" size="200" onclick="this.value = '';">
-
-
-                        </form>
-                        <script src="http://www.google.ca/jsapi" type="text/javascript"></script>
-                        <script type="text/javascript">
-                            google.load('search', '1');
-
-                            // Run this once the Google search JavaScript has loaded
-                            google.setOnLoadCallback(function () {
-                                // This makes your input field support autocomplete
-                                // The first parameter is your account identifier with Google Search
-                                // The second parameter is the DOM element of your search input field, which you could also grab with jQuery
-                                // The third parameter is the ID of your search form, not the actual DOM element. This is required so that when a user clicks on a search suggestion, the form gets submitted automatically
-                                google.search.CustomSearchControl.attachAutoCompletion(
-                                    '003431263584390575954:m_y-g97vyrk',
-                                    document.getElementById('pass'),
-                                    'cse-search-box');
-                            });
-                        </script>
-
-                    </div>
-
-
-                </div>
-
-
-                <div class="box1_home1" style="top: 112px; margin-left: 411px">
-                    <ul class="navn">
-                        <li>
-                            <a class="nav5" href="/demo">Watch a Demo</a></li>
-                        <li>
-                            <a class="nav9">
-                                <img alt="" src="/shared/css/images/line.png"></a></li>
-                        <li>
-                            <a class="nav6" href="/features">Features</a></li>
-                        <li>
-                            <a class="nav9">
-                                <img alt="" src="/shared/css/images/line.png"></a></li>
-                        <li>
-                            <a class="nav7" href="/request-a-quote">Request a Quote</a></li>
-                        <li>
-                            <a class="nav9">
-                                <img alt="" src="/shared/css/images/line.png"></a></li>
-                        <li>
-                            <a class="nav8" href="http://support.condocontrolcentral.com">Support</a></li>
-                    </ul>
-
-                </div>
-
-
-
-
-
-
-
-
-<div class="box9_inn1 cms-box">
-
-    <div style="padding-left: 20px; padding-right: 20px">
-
+<!-- BEGIN GADWP v4.4.2 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script type="text/javascript">
+(function($){
+    $(window).load(function() {
         
+            //Track Downloads
+            $('a').filter(function() {
+                return this.href.match(/.*\.(zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|rar*)(\?.*)?$/);
+            }).click(function(e) {
+                ga('send','event', 'download', 'click', this.href);
+            });
 
+            //Track Mailto
+            $('a[href^="mailto"]').click(function(e) {
+                ga('send','event', 'email', 'send', this.href);
+             });
+            
+            //Track Outbound Links
+            $('a[href^="http"]').filter(function() {
+                if (!this.href.match(/.*\.(zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|rar*)(\?.*)?$/)){
+                    if (this.href.indexOf('condocontrolcentral.com') == -1) return this.href;
+                }
+            }).click(function(e) {
+                ga('send','event', 'outbound', 'click', this.href);
+            });
+		    		                });
+})(jQuery);
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-32596362-6', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END GADWP Universal Tracking -->
 
+<script>var slider = jQuery.noConflict();
+slider(document).ready(function(){
+ slider('.bxslider2').bxSlider({
+      auto: true,
+      nextText:'',
+      prevText:'',
+      useCSS: false,
+      pause: 10000
+    });  
+    
+    var up = jQuery.noConflict();
+      up('.up').click(function(){
+		pos= up('.features_sec').offset();
+		up('html,body').animate({'scrollTop' : pos.top}, 500);
+	});  
+});
+    
+    </script>	
+    <link rel="shortcut icon" href="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/themes/condocontrolcentral/images/favicon.ico" type="image/x-icon">
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+ 
+fbq('init', '1279597908750969');
+fbq('track', "PageView");
+ 
+fbq('track', 'Lead');
+ 
+</script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<!-- Facebook Pixel Code -->
 
+<body><noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1279597908750969&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
 
+<script type="text/javascript">
+_linkedin_data_partner_id = "14968";
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
 
+<!-- Twitter universal website tag code -->
+<script>
+!function(e,n,u,a){e.twq||(a=e.twq=function(){a.exe?a.exe.apply(a,arguments):
+a.queue.push(arguments);},a.version='1',a.queue=[],t=n.createElement(u),
+t.async=!0,t.src='//static.ads-twitter.com/uwt.js',s=n.getElementsByTagName(u)[0],
+s.parentNode.insertBefore(t,s))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','nvboy');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
 
-<h1>
-	PIPEDA Compliance &amp; Privacy Policy</h1>
-<p>
-	<strong>The document below outlines our commitment to protecting your privacy and personal information.</strong></p>
-<p>
-	We understand that privacy is important both to our clients and their owners, and we will take all necessary steps to safeguard the information that you entrust to us. This document outlines our approach to privacy and information security. It outlines how and why we collect personal information, how we protect the information, and the procedures for inquiring or filing a complaint.</p>
-<p>
-	This document is also provided in order to comply with the Canadian privacy legislation, Personal Information Protection and Electronic Documents Act, commonly known as PIPEDA.</p>
-<h2>
-	<a href="/shared/docs/pipeda-compliance-and-privacy-policy.pdf" target="_blank">View our Privacy Policy</a></h2>
-
-
-        
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 882339677;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<style>
+iframe[name=google_conversion_frame] {
+ position: absolute;
+}
+</style>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" style="position:absolute;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/882339677/?value=0&amp;guid=ON&amp;script=0"/>
 </div>
-</div>
+</noscript>
+
+<div class="page_outer">  
+    
+    <div class="nav">
+<ul class="responsive">
+ <a class="menu_close"></a>			
+				<div class="login"><a href="https://condocontrolcentral.com/securesite/login.aspx">LOGIN</a></div>	   <div class="languages_sec">
+								<div id="lang_sel_click" onclick="wpml_language_selector_click.toggle();" class="lang_sel_click"><ul><li><a href="javascript:;" class="lang_sel_sel icl-en">English</a><ul></ul></li></ul></div>							</div> 
+				<li class="menu-item menu-item-type-post_type menu-item-object-pagemenu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.condocontrolcentral.com/watch-demo/">Watch Demo</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-childrenmenu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://www.condocontrolcentral.com/features/">Features</a>
+<ul class="sub-menu   sub-menu-1">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-childrenmenu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="http://www.condocontrolcentral.com/features/#tabs-1">Communication</a>
+	<ul class="sub-menu  sub sub-menu-2">
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/announcements/">Announcements</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/file-library/">File Library</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/public-website/">Public Website</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custommenu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.condocontrolcentral.com/feature/service-requests/">Service Requests</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/events/">Events</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/discussion-forum/">Discussion Forum</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-childrenmenu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="http://www.condocontrolcentral.com/features/#tabs-2">Record Keeping</a>
+	<ul class="sub-menu  sub sub-menu-2">
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/amenity-booking/">Amenity Booking</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/set-online-store-condo-community/">Online Store</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/online-condo-purchase-orders/">Purchase Order</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/online-status-certificates/">Online Status Certificates</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/maintenance-tracking/">Maintenance Tracking</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/task-tracking/">Task Tracking</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-childrenmenu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="http://www.condocontrolcentral.com/features/#tabs-3">Security And Concierge</a>
+	<ul class="sub-menu  sub sub-menu-2">
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/incident-reports/">Incident Reports</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/key-tracking/">Key Tracking</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/package-tracking/">Package Tracking</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/permission-to-enter/">Permission To Enter</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/security-logs/">Security Logs</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/visitor-parking/">Visitor Parking</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custommenu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.condocontrolcentral.com/mobile-app">Mobile</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-pagemenu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.condocontrolcentral.com/pricing/">Pricing</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custommenu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.condocontrolcentral.com/resources">Resources</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-pagemenu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.condocontrolcentral.com/about-us/">About Us</a></li>
+			 <li class="menu-item menu-item-type-post_type menu-item-object-pagemenu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.condocontrolcentral.com/blogs/">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custommenu-item menu-item-type-custom menu-item-object-custom"><a href="http://condocontrolcentral.com/status-certificates/">Status Certificates</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-pagemenu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.condocontrolcentral.com/training/">Training</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-pagemenu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.condocontrolcentral.com/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custommenu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.condocontrolcentral.com/careers">Careers</a></li>
+
+             </ul>
+    </div>   
+<div class="content_outer">
+<div class="herader_sec">
+        <div class="header">
+            <div class="main_container"> 
+                <div class="logo logo-white">
+										<a href="http://www.condocontrolcentral.com/"><img src="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/uploads/2015/04/con1.png" border="0"></a>
+									</div>
+				<div class="logo logo-blue">
+										<a href="http://www.condocontrolcentral.com/"><img src="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/uploads/2015/04/logo1.png" border="0"></a>
+									</div>
+				
+				
+                    <div class="logo_rt">
+                    <div class="top_menu_sec"> 
+                            <div class="languages_sec">
+								<div id="lang_sel_click" onclick="wpml_language_selector_click.toggle();" class="lang_sel_click"><ul><li><a href="javascript:;" class="lang_sel_sel icl-en">English</a><ul></ul></li></ul></div>							</div> 
+							<ul class="top_menu"><li class="menu-item menu-item-type-post_type menu-item-object-pagemenu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.condocontrolcentral.com/blogs/">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custommenu-item menu-item-type-custom menu-item-object-custom"><a href="http://condocontrolcentral.com/status-certificates/">Status Certificates</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-pagemenu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.condocontrolcentral.com/training/">Training</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-pagemenu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.condocontrolcentral.com/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custommenu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.condocontrolcentral.com/careers">Careers</a></li>
+</ul>                                   
+                            <div class="clear"></div>
+                         
+                        </div>
+						<div class="login"><a href="https://condocontrolcentral.com/securesite/login.aspx" onclick="ga('send', 'event', { eventCategory: 'login', eventAction: 'click'});">LOGIN</a></div>						<div class="menu">
+							<ul><li class="menu-item menu-item-type-post_type menu-item-object-pagemenu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.condocontrolcentral.com/watch-demo/">Watch Demo</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-childrenmenu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://www.condocontrolcentral.com/features/">Features</a>
+<ul class="sub-menu   sub-menu-1">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-childrenmenu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="http://www.condocontrolcentral.com/features/#tabs-1">Communication</a>
+	<ul class="sub-menu  sub sub-menu-2">
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/announcements/">Announcements</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/file-library/">File Library</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/public-website/">Public Website</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custommenu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.condocontrolcentral.com/feature/service-requests/">Service Requests</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/events/">Events</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/discussion-forum/">Discussion Forum</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-childrenmenu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="http://www.condocontrolcentral.com/features/#tabs-2">Record Keeping</a>
+	<ul class="sub-menu  sub sub-menu-2">
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/amenity-booking/">Amenity Booking</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/set-online-store-condo-community/">Online Store</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/online-condo-purchase-orders/">Purchase Order</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/online-status-certificates/">Online Status Certificates</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/maintenance-tracking/">Maintenance Tracking</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/task-tracking/">Task Tracking</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-childrenmenu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="http://www.condocontrolcentral.com/features/#tabs-3">Security And Concierge</a>
+	<ul class="sub-menu  sub sub-menu-2">
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/incident-reports/">Incident Reports</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/key-tracking/">Key Tracking</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/package-tracking/">Package Tracking</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/permission-to-enter/">Permission To Enter</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/security-logs/">Security Logs</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-featuremenu-item menu-item-type-post_type menu-item-object-feature"><a href="http://www.condocontrolcentral.com/feature/visitor-parking/">Visitor Parking</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custommenu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.condocontrolcentral.com/mobile-app">Mobile</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-pagemenu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.condocontrolcentral.com/pricing/">Pricing</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custommenu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.condocontrolcentral.com/resources">Resources</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-pagemenu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.condocontrolcentral.com/about-us/">About Us</a></li>
+</ul>                
+						</div><div class="clear"></div>
+                    </div>
+                <div class="clear"></div>
             </div>
         </div>
-        <!--BOTTOM-->
-        <div id="bottom">
-            <div id="bottom_cont">
+ </div>
+<a href="#click" class="menu_icon"></a>	
 
-                <div class="box1_foot">
-                    <div class="box1_foot1">Condo Control Central - The really smart way to run your condo.</div>
-                    <div class="box1_foot2">
-                        <div class="box1_f2_a"><a href="/features/">Features</a></div>
-                        <div class="box1_f2_b">
-                            <ul class="navp">
-                                <li><a href="/features/" class="nav">Most Popular Features</a></li>
-                                <li><a href="/newest-features/" class="nav">Newest Features</a></li>
-                                <li><a href="/complete-feature-list/" class="nav">Complete List of Features</a></li>
-                            </ul>
-                        </div>
-                    </div>
+	
+<div class="announcement_banner" style="background-image:url(http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/uploads/2015/04/announcement_banner.jpg);">
+	<div class="main_container">
+						<h1 class="wow fadeInDown" id="anim2">Privacy Policy</h1>
+
+	</div>
+</div>
+<div class="content_container content-section-wrapper">
+<div class="left">
+<div class="content_area anno_padd">
+
+	<div class="main_container_features">
+		<h3 id="anim1"></h3>
+		<div class="anno_left_text" id="anim2">
+			<p>The document below outlines our commitment to protecting your privacy and personal information.</p>
+<p>We understand that privacy is important both to our clients and their owners, and we will take all necessary steps to safeguard the information that you entrust to us. This document outlines our approach to privacy and information security. It outlines how and why we collect personal information, how we protect the information, and the procedures for inquiring or filing a complaint.</p>
+<p>This document is also provided in order to comply with the Canadian privacy legislation, Personal Information Protection and Electronic Documents Act, commonly known as PIPEDA.</p>
+<p style="text-align: center;"><a href="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/uploads/2016/04/pipeda-compliance-and-privacy-policy.pdf">View our Privacy Policy</a></p>
+		</div>
+<!--
+		<div class="botton-tabs">
+		<div class="salescont">
+           <a class="ftr-pop" rel="salescont">
+             
+           </a>
+           <div id="salescont" class="quick-contact">
+           <a class="closebtn" rel="salescont">x</a>
+				<div class="anno_right_text" id="anim3">
+					<div class="anno_form_sec">
+						
+					</div>
+				</div>
+			 </div>
+
+         </div>
+         </div>	
+-->
+	</div>
+	</div>
+</div>
+	<div class="right">
+			</div> 
+	
+	
+</div> 
 
 
 
-                    <div class="box1_foot3">
-                        <div class="box1_f3_a"><a href="/problems-we-can-solve/">Problems We Can Solve</a></div>
-                        <div class="box1_f3_b">
-                            <ul class="navp">
-                                <li><a href="/manage-visitor-parking-more-closely/" class="nav">Visitor Parking</a></li>
-                                <li><a href="/sometimes-service-requests-are-forgotten-or-not-followed-up/" class="nav">Forgotten Service Requests</a></li>
-                                <li><a href="/complaints-about-communication/" class="nav">Communication Complaints</a></li>
-                                <li><a href="/amenity-booking-problems/" class="nav">Amenity Booking</a></li>
-                                <li><a href="/security-guards-keep-paper-records/" class="nav">Security Guards Use Paper Records</a></li>
-                            </ul>
-                        </div>
-                    </div>
 
-    <div class="box1_foot4">
-        <div class="box1_f4_a"><a href="/about-us/">About Us</a></div>
-        <div class="box1_f4_b">
-            <ul class="navp">
-                <li><a href="/about-us/#Philosophy" class="nav">Our Mission</a></li>
-                <li><a href="/about-us/#FactSheet" class="nav">Fact Sheet</a></li>
-                <li><a href="/about-us/#Timeline" class="nav">History &amp; Timeline</a></li>
-                <li><a href="/about-us/#Founder" class="nav">Our Founder</a></li>
-                <li><a href="/about-us/#Team" class="nav">Our Team</a></li>
-                <li><a href="https://condocontrolcentral.com/blog/" class="nav">Blog</a></li>
-
-
-            </ul>
+<div class="gray_sec">
+        <div class="main_container">
+        <h5 class=" wow fadeInUp" id="anim1"><p>Discover Condo Control Central’s all-in-one communication &amp; tracking system built exclusively for condominiums</p>
+</h5>
+            <div class="button_sec">
+				                <div class="button wow flipInX animated" id="anim2" style="visibility: visible;"><a href="http://www.condocontrolcentral.com/pricing/">Request a Quote</a></div>
+								
+            </div>
+        </div>
+</div>
+ 
+<div class="client_logo">
+        <div class="main_container">
+											<img src="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/uploads/2015/05/cci.png" border="0" class="wow fadeInDown" id="anim1">
+                								<img src="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/uploads/2015/05/acmo.png" border="0" class="wow fadeInDown" id="anim2">
+                								<img src="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/uploads/2015/05/BBB_LOGO_ccc_website1.png" border="0" class="wow fadeInDown" id="anim3">
+                        </div>   
+ </div><div class="footer_menu">
+        <div class="main_container">
+            <div class="footer_tab">
+							<ul>
+				<li><h2>FEATURES</h2><ul id="menu-footer-first" class=""><li id="menu-item-607" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-607"><a href="http://www.condocontrolcentral.com/features/">Communication</a></li>
+<li id="menu-item-609" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-609"><a href="http://www.condocontrolcentral.com/features/">Record Keeping</a></li>
+<li id="menu-item-608" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-608"><a href="http://www.condocontrolcentral.com/features/">Security and Concierge</a></li>
+</ul></li>			</ul>
+			            </div>
+            <div class="footer_tab">
+            			<ul>
+				<li><h2>PROBLEMS WE CAN SOLVE</h2><ul id="menu-problems-we-can-solve" class=""><li id="menu-item-610" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-610"><a href="http://www.condocontrolcentral.com/feature/visitor-parking/">Visitor Parking</a></li>
+<li id="menu-item-612" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-612"><a href="http://www.condocontrolcentral.com/feature/service-requests/">Forgotten Service Requests</a></li>
+<li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320"><a href="http://www.condocontrolcentral.com/communication-complaints/">Communication Complaints</a></li>
+<li id="menu-item-1347" class="menu-item menu-item-type-post_type menu-item-object-feature menu-item-1347"><a href="http://www.condocontrolcentral.com/feature/accept-credit-cards-securely-stripe/">Process Credit Card Payments</a></li>
+<li id="menu-item-323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-323"><a href="http://www.condocontrolcentral.com/security-guards-use-paper-records/">No electronic recording for Security</a></li>
+</ul></li>			</ul>
+			                  
+            </div>
+            <span class="line"></span>
+            <div class="footer_tab">
+						<ul>
+				<li><h2>ABOUT US</h2><ul id="menu-about-us" class="sub-menu"><li id="menu-item-466" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-466"><a href="http://www.condocontrolcentral.com/about-us/#story">Our Story</a></li>
+<li id="menu-item-467" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-467"><a href="http://www.condocontrolcentral.com/about-us/#fact">Fact Sheet</a></li>
+<li id="menu-item-468" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-468"><a href="http://www.condocontrolcentral.com/about-us/#history">History &amp; Timeline</a></li>
+<li id="menu-item-469" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-469"><a href="http://www.condocontrolcentral.com/about-us/#team">Our Team</a></li>
+</ul></li>			</ul>
+			            </div>
+            <div class="footer_tab no_border">
+            			<ul>
+				<li><h2>Condo Control Central</h2>			<div class="textwidget"><p>
+10 St. Mary Street, Suite 200<br>
+Toronto, ON M4Y 1P9</p></div>
+		</li>			</ul>
+							
+                <p>
+										<a href="https://www.facebook.com/CondoControlCentral" target="_blank"><img src="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/themes/condocontrolcentral/images/facebook.png" border="0"></a>
+										                    <a href="https://twitter.com/CondoCC" target="_blank"><img src="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/themes/condocontrolcentral/images/twitter.png" border="0"></a>
+										                    <a href="https://www.linkedin.com/company/condo-control-central" target="_blank"><img src="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/themes/condocontrolcentral/images/linked_in.png" border="0"></a>
+										                </p>
+            </div>
+        </div>
+        <div class="footer">
+            <div class="main_container">
+                © Copyright 2008 – 2016, Condo Control Central				 <span>
+				               <a href="http://www.condocontrolcentral.com/terms-conditions/">Terms &amp; Conditions</a> 
+				               <a href="http://www.condocontrolcentral.com/privacy-policy/">Privacy Policy</a> 
+								</span>	 
+            </div>
         </div>
     </div>
 
-                    <div style="text-align: center">
-                        <a target="_blank" title="Click for the Business Review of Condo Control Central, a Property Management in Toronto ON" href="http://www.bbb.org/kitchener/business-reviews/property-management/condo-control-central-in-toronto-on-1286344#sealclick">
-                            <img alt="Click for the BBB Business Review of this Property Management in Toronto ON" style="border: 0;" src="http://seal-mwco.bbb.org/seals/blue-seal-96-50-condocontrolcentral-1286344.png"></a>
+<script type="text/javascript"><!--
+wpa2a.targets=[];
+wpa2a.html_done=true;if(wpa2a.script_ready&&!wpa2a.done)wpa2a.init();wpa2a.script_load();
+//--></script>
+<script type="text/javascript">
+adroll_adv_id = "OGBNEVOJKBHCHMZ27YUBZ5";
+adroll_pix_id = "OKBLBAJICZAPRAGWA7UW5S";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script><script type="text/javascript" src="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/plugins/sitepress-multilingual-cms/res/js/language-selector.js?ver=3.1.8.1"></script>
+<script type="text/javascript" src="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-includes/js/wp-embed.min.js?ver=4.7.5"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.condocontrolcentral.com\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=4.7.5"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"condocontrolcentralblog"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://23ylhw1hvsb23b2vtcwz87f7.wpengine.netdna-cdn.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.7.5"></script>
 
-                        <br>
-                        <br>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
 
-                        <img src="/shared/css/images/image05.png" width="112" height="75" alt="">
-                    </div>
-
-                </div>
-
-
-
-                <div class="box2_foot">
-                    <div class="box2_foot1"><a href="/pricing" class="requestQuoteForYourCondoLink">Request a quote<br>
-                        for your condo</a></div>
-                    <a href="/request-a-quote" class="box2_foot2">Request a Quote</a>
-                    <div class="box2_foot3">More information:</div>
-                    <div class="box2_foot4">
-                        <img src="/shared/css/images/ico1.png" alt="" style="float:left; margin:0 8px 0 0">
-                        1-888-762-6636</div>
-                    <div class="box2_foot4">
-
-                        <script type="text/javascript">
-
-                            // ********************************************************************************
-                            // This needs to be placed in the document body where you want the widget to render
-                            // ********************************************************************************
-
-                            new DESK.Widget({
-                                version: 1,
-                                site: 'support.condocontrolcentral.com',
-                                port: '80',
-                                type: 'chat',
-                                displayMode: 1,  //0 for popup, 1 for lightbox
-                                features: {
-                                    offerAlways: true,
-                                    offerAgentsOnline: false,
-                                    offerRoutingAgentsAvailable: false,
-                                    offerEmailIfChatUnavailable: false
-                                },
-                                fields: {
-                                    ticket: {
-                                        // desc: &#x27;&#x27;,
-                                        // labels_new: &#x27;&#x27;,
-                                        // priority: &#x27;&#x27;,
-                                        // subject: &#x27;&#x27;
-                                    },
-                                    interaction: {
-                                        // email: &#x27;&#x27;,
-                                        // name: &#x27;&#x27;
-                                    },
-                                    chat: {
-                                        //subject: '' 
-                                    },
-                                    customer: {
-                                        // company: &#x27;&#x27;,
-                                        // desc: &#x27;&#x27;,
-                                        // first_name: &#x27;&#x27;,
-                                        // last_name: &#x27;&#x27;,
-                                        // locale_code: &#x27;&#x27;,
-                                        // title: &#x27;&#x27;
-                                    }
-                                }
-                            }).render();
-
-
-
-
-                        </script>
-
-        <script type="text/javascript">
-            var clicky_site_ids = clicky_site_ids || [];
-            clicky_site_ids.push(100601758);
-            (function () {
-                var s = document.createElement('script');
-                s.type = 'text/javascript';
-                s.async = true;
-                s.src = '//static.getclicky.com/js';
-                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
-            })();
-        </script>
-        <noscript>
-            <p>
-                <img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100535138ns.gif" />
-            </p>
-        </noscript>
-        <script type="text/javascript" src="https://uh153.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=0b300eda8ab62a2a77e0ef81d7d3e5f3"></script>
-                    </div>
-                </div>
-
-
-                <div class="box3_foot">
-                    
-                </div>
-
-                <div class="box4_foot">
-                    © Copyright 2008 - 2013, Condo Control Central    |    <a href="/terms-and-conditions" class="links">Terms &amp; Conditions</a>    |    <a href="/privacy-policy" class="links">Privacy Policy</a>
-                    <br>
-                    
-
-                </div>
-
-            </div>
-        </div>
-
-    </div>
-
-
-
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</body></html>
