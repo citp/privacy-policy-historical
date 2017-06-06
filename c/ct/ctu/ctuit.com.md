@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctuit.com privacy policy that was archived on 2016-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160222183404id_/http%3A//www.ctuit.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctuit.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161239id_/http%3A//ctuit.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Ctuit
 
