@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the caughtoffside.com privacy policy that was archived on 2016-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120034433id_/http%3A//www.caughtoffside.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the caughtoffside.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606161436id_/http%3A//caughtoffside.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <meta charset="utf-8">
@@ -243,13 +243,19 @@ fanatix.lib.debug('Device: '+fanatix.runtime.device);
 if(fanatix.cookie.allowed && true && (fanatix.runtime.device=='android' || fanatix.runtime.device=='iphone')) {
 	fanatix.lib.debug('Interstitial: checking session...');
 	var session = fanatix.lib.getAppSession();
-	if(!session.seen_download_app_interstitial_modern || true==='force') {
-		fanatix.lib.debug('Interstitial: redirecting!');
-		fanatix.runtime.redirecting = true;
-		window.location = 'http://www.caughtoffside.com/interstitial-downloadapp-modern.php#device='+fanatix.runtime.device+'&referrer='+encodeURIComponent(document.location.href);
+	var referrer_domain = document.referrer?document.referrer.split('/')[2]:'';
+	if(referrer_domain.indexOf('caughtoffside.com')>-1) {
+		if(!session.seen_download_app_interstitial_modern || true==='force') {
+			fanatix.lib.debug('Interstitial: redirecting!');
+			fanatix.runtime.redirecting = true;
+			window.location = 'http://www.caughtoffside.com/interstitial-downloadapp-modern.php#device='+fanatix.runtime.device+'&referrer='+encodeURIComponent(document.location.href);
+		}
+		else {
+			fanatix.lib.debug('Interstitial: NOT redirecting!');
+		}
 	}
 	else {
-		fanatix.lib.debug('Interstitial: NOT redirecting!');
+		fanatix.lib.debug('Interstitial: NOT checking due to non-self referrer!');
 	}
 }
 </script>
@@ -264,6 +270,49 @@ Privacy Policy &amp; Cookies | CaughtOffside</title>
 
 <link rel="alternate" type="application/rss+xml" title="CaughtOffside » Feed" href="http://www.caughtoffside.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="CaughtOffside » Comments Feed" href="http://www.caughtoffside.com/comments/feed/">
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>    <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("http://www.caughtoffside.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '39465338-42b6-49bb-bd69-b5ad36987e93';
+oneSignal_options['autoRegister'] = false;
+oneSignal_options['httpPermissionRequest'] = { };
+oneSignal_options['httpPermissionRequest']['enable'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['disable'] = true;
+oneSignal_options['subdomainName'] = "caughtoffside";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.2fe112ef-4554-4496-8fef-42f5ec2b9118";
+oneSignal_options['promptOptions'] = { };
+              OneSignal.init(window._oneSignalInitOptions);
+                    });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+
 <!-- This site is powered by Shareaholic - https://shareaholic.com -->
 <script type="text/javascript" data-cfasync="false">
   //<![CDATA[
@@ -292,7 +341,7 @@ Privacy Policy &amp; Cookies | CaughtOffside</title>
 <meta name="shareaholic:language" content="en-US">
 <meta name="shareaholic:url" content="http://www.caughtoffside.com/privacy-policy/">
 <meta name="shareaholic:article_published_time" content="2012-07-14T12:54:41+00:00">
-<meta name="shareaholic:article_modified_time" content="2016-11-17T12:12:03+00:00">
+<meta name="shareaholic:article_modified_time" content="2017-06-06T10:19:44+00:00">
 <meta name="shareaholic:shareable_page" content="true">
 <meta name="shareaholic:article_author_name" content="peterbevan">
 <meta name="shareaholic:site_id" content="00da940b834d3c0f8608a9d1cccbe331">
@@ -872,7 +921,14 @@ window.cookieconsent_options = {
 		<div class="large-3 medium-12 columns">
 				<div id="secondary" class="widget-area" role="complementary">
 	<aside id="archives-2" class="widget widget_archive"><h1 class="widget-title">Archives</h1>		<ul>
-			<li><a href="http://www.caughtoffside.com/2016/11/">November 2016</a></li>
+			<li><a href="http://www.caughtoffside.com/2017/06/">June 2017</a></li>
+	<li><a href="http://www.caughtoffside.com/2017/05/">May 2017</a></li>
+	<li><a href="http://www.caughtoffside.com/2017/04/">April 2017</a></li>
+	<li><a href="http://www.caughtoffside.com/2017/03/">March 2017</a></li>
+	<li><a href="http://www.caughtoffside.com/2017/02/">February 2017</a></li>
+	<li><a href="http://www.caughtoffside.com/2017/01/">January 2017</a></li>
+	<li><a href="http://www.caughtoffside.com/2016/12/">December 2016</a></li>
+	<li><a href="http://www.caughtoffside.com/2016/11/">November 2016</a></li>
 	<li><a href="http://www.caughtoffside.com/2016/10/">October 2016</a></li>
 	<li><a href="http://www.caughtoffside.com/2016/09/">September 2016</a></li>
 	<li><a href="http://www.caughtoffside.com/2016/08/">August 2016</a></li>
@@ -1036,7 +1092,7 @@ var tocplus = {"visibility_show":"show","visibility_hide":"hide","width":"Auto"}
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://cdn.caughtoffside.com/wp-content/plugins/table-of-contents-plus/front.js?ver=1404"></script>
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201646"></script>
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201723"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var fanatix_params = {"news_posts_per_page":"10","featured_posts_per_page":"10","latest_posts_per_page":"10","col1_mode":"featured","col2_mode":"latest","col3_mode":"mostread","fanatixfeed_posts_per_page":"26","replayfeed_posts_per_page":"9","mostread_posts_per_page":"26","site_url":"http:\/\/www.caughtoffside.com","template_url":"http:\/\/www.caughtoffside.com\/wp-content\/themes\/cos-2-0","dfp_adunit_identifier":"CaughtOffside","replayfeed_url":"http:\/\/video.fanatix.com\/","fanatixfeed_api_fetch_direct":"1","fanatixfeed_api_path":"http:\/\/api.fanatix.com\/app-api\/1.5\/news\/all","fanatixfeed_api_news_config":"caughtoffside-news-web","fanatixfeed_api_app_id":"caughtoffside-news-web","fanatixfeed_api_app_version":"1.0","replayfeed_api_fetch_direct":"1","replayfeed_api_path":"http:\/\/api.fanatix.com\/app-api\/1.6\/news\/replay","replayfeed_api_app_id":"caughtoffside-news-web","replayfeed_api_app_version":"8.3","replayfeed_autoplay":"visible","replayfeed_api_order":"latest","replayfeed_attraction_id":"","display_slider_categories":"1","config_infinite_scroll_enabled":"1"};
@@ -1045,7 +1101,7 @@ var fanatix_params = {"news_posts_per_page":"10","featured_posts_per_page":"10",
 <script type="text/javascript" src="http://cdn.caughtoffside.com/wp-content/themes/cos-2-0/static/js/script.55.min.js"></script>
 <script type="text/javascript" src="http://cdn.caughtoffside.com/wp-includes/js/wp-embed.min.js?ver=4.5.2"></script>
 
-	<script src="http://stats.wp.com/e-201646.js" type="text/javascript"></script>
+	<script src="http://stats.wp.com/e-201723.js" type="text/javascript"></script>
 	<script type="text/javascript">
 	st_go({v:'ext',j:'1:3.3',blog:'3497552',post:'115052',tz:'1'});
 	var load_cmc = function(){linktracker_init(3497552,115052,2);};
@@ -1102,7 +1158,7 @@ fanatix.ads.dfp.slots['dfp-ros-fullscreen'] = googletag.defineSlot(ad_unit, [1, 
 //this is a proxy for determining if we're on the "desktop" layout - this element has "show-for-large-up" on it so will only be :visible
 //at that breakpoint, regardless of what it is. So this'll still work if we change the CSS without needing modifying itself
 				$('#sidebar-mpu').remove();
-				$('#sidebar-halfpage').remove();
+//				$('#sidebar-halfpage').remove();
 			});//jQuery(document).ready(function($) {
 
 		});//googletag.cmd.push(function() {
