@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the panaceatek.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201115454id_/http%3A//www.panaceatek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panaceatek.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214220id_/http%3A//www.panaceatek.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Web & Mobile App Design, Development | SEO Services Company
+# Privacy Policy | Web Development Company | Panacea Infotech
 
 Panacea respects the privacy of its clients. Therefore, our approach to privacy and data protection go beyond legal compliance. Privacy is one of the important parts of our culture and business value proposition. Protection of your privacy is one of our fundamental responsibilities; hence, it is imperative to us and our employees.
 
@@ -24,7 +24,7 @@ We reserve all rights to change or modify this privacy policy anytime without in
 
 ## Web Servers
 
-With our web servers, we record and receive information from your browser automatically. This information includes your IP address, the time you visited our website, information about the page you requested etc. 
+With our web servers, we record and receive information from your browser automatically. This information includes your IP address, the time you visited our website, information about the page you requested etc.
 
 ## Cookies
 
