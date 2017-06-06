@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hear.com privacy policy that was archived on 2016-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160907002421id_/https%3A//www.hear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hear.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191828id_/https%3A//www.hear.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,8 +19,6 @@ By using our site, you consent to our privacy policy.
   * Contact Information
 
 
-
-* * *
 
 ## Information Collection
 
