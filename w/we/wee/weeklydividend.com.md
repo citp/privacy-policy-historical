@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the weeklydividend.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410225121id_/https%3A//www.borntosell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklydividend.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181047id_/https%3A//www.borntosell.com/privacy) for the most accurate reproduction.*
 
 # Born To Sell Privacy Policy
 
 > Your privacy is important to us. To better protect your privacy we provide this privacy policy (the "Privacy Policy") explaining how we collect and use personally identifiable information we obtain online and offline from and about individuals located in the U.S. Your use of this Site confirms your acknowledgement and acceptance of the terms of this Privacy Policy.
 > 
-> The borntosell.com web site, https://www.borntosell.com, ("Borntosell.com" or the "Site") is a general audience web site and is owned and operated by Born To Sell, LLC, a California limited liability company ("Born To Sell"). Borntosell.com does not knowingly collect personal identifiable information from children under 13 years of age. All personal identifiable information collected on the Site is owned by Born To Sell.
+> The borntosell.com web site, https://www.borntosell.com, ("Borntosell.com" or the "Site") is a general audience web site and is owned and operated by Born To Sell Options, LLC, a Nevada limited liability company ("Born To Sell"). Borntosell.com does not knowingly collect personal identifiable information from children under 13 years of age. All personal identifiable information collected on the Site is owned by Born To Sell.
 
 Visitors, Subscribers, and Members 
 
@@ -100,4 +100,4 @@ How can I reach you?
 > 
 > By phone: (800) 434-6980
 > 
-> By mail: Born To Sell, 34 Giralda Walk, Long Beach, CA 90803
+> By mail: Born To Sell, 8465 W Sahara, Suite 111-568, Las Vegas, NV 89117
