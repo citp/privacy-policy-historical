@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelex.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602090807id_/https%3A//www.travelex.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelex.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607011616id_/https%3A//www.travelex.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Travelex UK
+# Privacy Policy | Travelex
 
 * * *
 
@@ -10,7 +10,7 @@ This website is provided by Travelex Currency Services Inc and describes our use
 
 **Information we collect**
 
-We collect and process personal information in three ways: 
+We collect and process personal information in three ways:
 
 **1)   ****Information you give us**
 
