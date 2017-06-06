@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preloved.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119024319id_/http%3A//www.preloved.co.uk/privacy%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preloved.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606122137id_/http%3A//www.preloved.co.uk/privacy%3Fref%3Dfooter) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | Preloved
 
@@ -215,7 +215,7 @@ We have no obligation to you to retain your data. However, we (or our internet s
 
 ##  Your Rights 
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us via <http://www.preloved.co.uk/contact>. 
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us via <https://secure.preloved.co.uk/contact>. 
 
 Preloved may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
 
@@ -229,6 +229,6 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ##  Contact 
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to <http://www.preloved.co.uk/contact>. 
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to <https://secure.preloved.co.uk/contact>. 
 
 This policy was last revised 16th October 2014. 
