@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the 7starhd.com privacy policy that was archived on 2016-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160926073942id_/http%3A//7starhd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7starhd.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606202738id_/https%3A//7starhd.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy
 
-September 24, 2016
-
-## _**Privacy Policy**_
-
-### **…::: Exclusive  On 7StarHD.Com Team :::** **…**
+### **…::: Exclusive On 7StarHD.Com Team :::** **…**
 
 _**At ‘**_ **7StarHD.Co** **m** _ **’ we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use ‘ _ ** _ **DownloadHub.Net**_**_ ’, and how we safeguard your information.**_
 
