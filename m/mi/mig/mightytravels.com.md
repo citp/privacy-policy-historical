@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mightytravels.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213191410id_/http%3A//www.mightytravels.com/2013/03/mightytravels-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightytravels.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607003006id_/http%3A//www.mightytravels.com/2013/03/mightytravels-privacy-policy) for the most accurate reproduction.*
 
 # MightyTravels Privacy Policy | MightyTravels
 
@@ -14,6 +14,8 @@ If you do not want to have your information used in this way, send an e-mail mes
 
  **Our Commitment to Children's Privacy**
 
+Ad
+
 Protecting the privacy of the very young is important to us. For that reason, we do not collect or maintain information at our sites from those we actually know are under 18, and no part of our site is structured to attract anyone under 18.
 
  **External Web Sites**
@@ -22,5 +24,5 @@ Please note that mightytravels.com contains links to other web sites. Please be 
 
 This privacy statement applies solely to information collected by mightytravels.com. If you have any questions or concerns about our privacy policy, please contact: privacy@mightytravels.com
 
-Advertisements  
+Ad  
 
