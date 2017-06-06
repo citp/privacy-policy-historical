@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the visiblemeasures.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405015126id_/http%3A//www.visiblemeasures.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visiblemeasures.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082903id_/http%3A//www.visiblemeasures.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Visible Measures
+# Privacy Policy – Visible Measures
 
-_Visible Measures takes your privacy seriously, and provides this Privacy Policy to aid in understanding the terms and conditions surrounding the collection and use of information about our users._
+## Visible Measures takes your privacy seriously, and provides this Privacy Policy to aid in understanding the terms and conditions surrounding the collection and use of information about our users.
 
-Visible Measures Corporation (“Visible Measures” or “We”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website at http://www.visiblemeasures.com/ (“Site”) and users of videos on third party websites that employ our technology (“Partner Sites” and “Partner Videos”). 
+Visible Measures Corporation (“Visible Measures” or “We”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website at http://visiblem.staging.wpengine.com/ (“Site”) and users of videos on third party websites that employ our technology (“Partner Sites” and “Partner Videos”).
 
 **1\. User Consent.** By submitting Personal Data through our Site or Partner Videos, you agree to the terms of this Privacy Policy and you expressly consent to the collection, use and disclosure of your Personal Data in accordance with this Privacy Policy.
 
-**2\. A Note About Children.** We do not intentionally gather Personal Data from visitors who are under the age of 13. 
+**2\. A Note About Children.** We do not intentionally gather Personal Data from visitors who are under the age of 13.
 
 **3\. A Note to Users Outside of the United States.** Your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country.
 
@@ -34,13 +34,13 @@ Visible Measures Corporation (“Visible Measures” or “We”) is committed t
 
 **5\. Disclosure of Your Personal Data.** We disclose your Personal Data as described below and as described elsewhere in this Privacy Policy.
 
-**(a) Anonymous Data.** As described above, we may disclose Anonymous Data to third parties in our sole discretion. 
+**(a) Anonymous Data.** As described above, we may disclose Anonymous Data to third parties in our sole discretion.
 
 **(b) Third Party Service Providers.** We may share your Personal Data with third party service providers to: provide you with the services that we offer you through our Site or Partner Videos; to conduct quality assurance testing; to provide technical support; and/or to provide other services to Visible Measures. These third party service providers are required not to use your Personal Data other than to provide the services requested by Visible Measures.
 
 **(c) Affiliates and Acquisitions.** We may share some or all of your Personal Data with our parent company, subsidiaries, joint ventures, or other companies under a common control (“Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy. If another company acquires our company, business, or our assets, that company will possess the Personal Data collected by us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy.
 
-**(d) Other Disclosures.** Regardless of any choices you make regarding your Personal Data (as described below), Visible Measures may disclose Personal Data if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on Visible Measures; (c) to protect or defend the rights or property of Visible Measures or users of the Services; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or Terms of Use. 
+**(d) Other Disclosures.** Regardless of any choices you make regarding your Personal Data (as described below), Visible Measures may disclose Personal Data if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on Visible Measures; (c) to protect or defend the rights or property of Visible Measures or users of the Services; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or Terms of Use.
 
 **6\. Third Party Websites.** When you click on a link to any other website or location, you will leave our Site and go to another site (“Third Party Website”) and another entity may collect Personal Data or Anonymous Data from you. For the avoidance of doubt, the Partner Sites are Third Party Websites. We have no control over, do not review, and cannot be responsible for, these Third Party Websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these Third Party Websites or content (other than Partner Videos), or to any collection of data after you click on links to such Third Party Websites (other than Partner Videos).
 
@@ -54,8 +54,8 @@ Visible Measures Corporation (“Visible Measures” or “We”) is committed t
 
 **(b) Changes to Personal Data.** You may request deletion of your Personal Data by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may retain your information for fraud or similar purposes.
 
-**8\. Security of Your Personal Data.** Visible Measures is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while Visible Measures uses reasonable efforts to protect your Personal Data, Visible Measures cannot guarantee its absolute security. 
+**8\. Security of Your Personal Data.** Visible Measures is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while Visible Measures uses reasonable efforts to protect your Personal Data, Visible Measures cannot guarantee its absolute security.
 
-**9\. Contact Information.** Visible Measures welcomes your comments or questions regarding this Privacy Policy. Please see email us at privacy@visiblemeasures.com. 
+**9\. Contact Information.** Visible Measures welcomes your comments or questions regarding this Privacy Policy. Please see email us at privacy@visiblemeasures.com.
 
 **10\. Changes to This Privacy Policy.** This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us (if any) and/or by prominently posting notice of the changes on our Site. Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Site and Partner Videos. In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes. Continued use of our Site or Partner Videos, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
