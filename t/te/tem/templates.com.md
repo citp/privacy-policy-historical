@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templates.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324140437id_/http%3A//www.templates.com/pages/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templates.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191444id_/https%3A//www.templates.com/pages/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Templates.com Privacy Policy - Templates
 
@@ -55,4 +55,4 @@ Templates.com may at any time, without notice to you and in its sole discretion,
 
 **Questions or Suggestions**
 
-If you have questions or suggestions about this privacy policy, or your own personal information, please contact us via the [contact form](http://www.templates.com/pages/info/contact-us.html). 
+If you have questions or suggestions about this privacy policy, or your own personal information, please contact us via the [contact form](https://www.templates.com/pages/info/contact-us.html). 
