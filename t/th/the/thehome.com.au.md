@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehome.com.au privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117215920id_/http%3A//thehome.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehome.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051347id_/http%3A//thehome.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Home
 
