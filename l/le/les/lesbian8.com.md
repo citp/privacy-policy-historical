@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lesbian8.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122155330id_/http%3A//www.lesbian8.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lesbian8.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606101651id_/http%3A//lesbian8.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,7 +47,7 @@ SECURITY
 
 Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
 
-Unfortunately, the transmission of information via the[Internet is not](http://spankmonkey.net/static/privacy/#67827151) completely secure. Lesbian8.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Lesbian8.com and you do so at your own risk.
+Unfortunately, the transmission of information via the Internet is not completely secure. Lesbian8.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Lesbian8.com and you do so at your own risk.
 
 YOUR RIGHTS
 
