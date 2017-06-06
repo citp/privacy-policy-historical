@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the listnerds.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127035935id_/http%3A//listnerds.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listnerds.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084042id_/http%3A//listnerds.com/privacy.php) for the most accurate reproduction.*
 
 # ListNerds - The money is in the list, if you login!
 
 ### ListNerds.com PRIVACY POLICY
 
   
-Last Updated: January 2013
+Last Updated: May 2017
 
  **By using the site you consent to the collection, use and disclosure of your personal information in accordance with this policy.**
 
@@ -53,7 +53,7 @@ If you have entered into and/or won an ListNerds.com contest, we or a contest sp
 
  **Accessing Your Personal Information**
 
-If you would like to review or revise information that you previously provided to us, you may access and change your personal information in the "Update Profile" section of the site. You may also contact by email at http://support.ListNerds.com for assistance.
+If you would like to review or revise information that you previously provided to us, you may access and change your personal information in the "Update Profile" section of the site. You may also contact by email at https://timtechsupport.com for assistance.
 
  **Use of Cookies and Other Technologies**
 
@@ -87,7 +87,7 @@ If a password is used to protect your account and personal information, it is yo
 
  **Forums & Other Interactive Services **
 
-Our sites may include discussion forums or other interactive areas or services, including blogs, chat rooms, bulletin boards, message boards, online hosting or storage services, or other areas or services in which you or third parties create, post or store any content, messages, comments, materials or other items on the sites ("Interactive Areas"). If you use an Interactive Area, you should be aware that these areas are open to the public and any personal information you post or provide at registration may be viewable by others. We are not responsible for personal information you submit in connection with the Interactive Areas, nor are we responsible for how others might use that information, including to send you unsolicited messages. Interactive Area postings may be retained indefinitely. If at any time you would like to remove a posting, please email us at http://support.ListNerds.com. Keep in mind that removal of a posting from an Interactive Area does not mean that the posting will be deleted from our systems.
+Our sites may include discussion forums or other interactive areas or services, including blogs, chat rooms, bulletin boards, message boards, online hosting or storage services, or other areas or services in which you or third parties create, post or store any content, messages, comments, materials or other items on the sites ("Interactive Areas"). If you use an Interactive Area, you should be aware that these areas are open to the public and any personal information you post or provide at registration may be viewable by others. We are not responsible for personal information you submit in connection with the Interactive Areas, nor are we responsible for how others might use that information, including to send you unsolicited messages. Interactive Area postings may be retained indefinitely. If at any time you would like to remove a posting, please email us at https://timtechsupport.com. Keep in mind that removal of a posting from an Interactive Area does not mean that the posting will be deleted from our systems.
 
  **Email Referrals**
 
