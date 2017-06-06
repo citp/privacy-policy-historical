@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicbookherald.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202043223id_/http%3A//www.comicbookherald.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicbookherald.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054457id_/http%3A//www.comicbookherald.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Comic Book Herald
 
@@ -74,3 +74,7 @@ If you have any questions about this privacy statement, the practices of the Web
 
 **Effective Date**  
 This Privacy Policy is effective as of January 1, 2015. It was last updated on February 05, 2015.
+
+## **Heroically Support Comic Book Herald!**
+
+If you like Comic Book Herald, and are able to donate, any small contribution will help keep CBH alive and full of new comics guides and content. [Donate here!](https://www.paypal.me/comicbookherald) Or learn more about easy ways to [support Comic Book Herald!](http://www.comicbookherald.com/about/support/) Thank you for reading!
