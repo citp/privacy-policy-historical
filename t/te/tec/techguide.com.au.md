@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techguide.com.au privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413084951id_/http%3A//www.techguide.com.au/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techguide.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064840id_/http%3A//www.techguide.com.au/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy - Tech Guide
 
 This privacy policy sets out how Tech Guide uses and protects any information that you give Tech Guide when you use this website.
 
@@ -62,5 +62,3 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us at [info@techguide.com.au.](mailto:info@techguide.com.au.)
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.{jacomment off}
-
-## You might also be interested in
