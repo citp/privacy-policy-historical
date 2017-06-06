@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halfords.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609193012id_/http%3A//www.halfords.com/webapp/wcs/stores/servlet/CSCategoryDisplay%3FstoreId%3D10001%26langId%3D-1%26catalogId%3D21202%26categoryId%3D292512%26topCategoryId%3D292503%23tab_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halfords.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606075704id_/http%3A//www.halfords.com/webapp/wcs/stores/servlet/CSCategoryDisplay%3FstoreId%3D10001%26langId%3D-1%26catalogId%3D21202%26categoryId%3D292512%26topCategoryId%3D292503%23tab_privacypolicy) for the most accurate reproduction.*
 
 # Help & Advice | Customer Services | Policies & Regulations
 
@@ -40,8 +40,6 @@ These are the Terms and Conditions of Sale for Halfords.com to which all online 
 1.2.3. Any phrase introduced by the terms including, include, in particular or any similar expression shall be construed as illustrative and shall not limit the sense of the words preceding those terms.  
 1.2.4. A reference to writing or written includes e-mails.
 
-Back to top
-
 ### 2\. The Contract
 
 2.1. The Order you place via the Website constitutes an offer to purchase the Goods in accordance with these Conditions. You are responsible for ensuring that the terms of the Order are correct. Please read and check your Order before placing. You may only purchase Goods from us if you meet any legal age requirement necessary for the acquisition of the same.
@@ -67,8 +65,6 @@ Back to top
 2.9.4 In the first instance the Customer must attempt to resolve any dispute directly with the Approved Partner.  
 2.9.5 Approved Partners shall not invoice Customers directly, and Customers must not accept or pay Approved Partners invoices.
 
-Back to top
-
 ### 3\. Product Information
 
 3.1. Goods are described on the Website.
@@ -82,8 +78,6 @@ Back to top
 3.5. Guided Sales, Buyers Guides and all other advice articles have been produced by Halfords to help you in your purchasing decisions and to give guidance. These articles are provided for general information, but if you are in any doubt, you should seek help from an appropriate professional. We accept no liability for any loss, damage or injury arising as a result of the advice contained on our Website.
 
 3.6. In the event that there are any errors regarding price or description, we reserve the right to correct that price or description and notify you accordingly. In these circumstances, it will be deemed that a contract has not been entered into and you will not be bound to continue with your purchase. We will cancel your Order and your credit/debit card or your Paypal account will be refunded in full. The repayment of such monies paid to us will be the extent of our liability to you in the event of these errors.
-
-Back to top
 
 ### 4\. Price Information
 
@@ -101,8 +95,6 @@ Back to top
 
 4.7. Offers cannot be used in conjunction with one another. Where more than one offer is available on the same product only one discount will apply. The offer giving the greatest saving will be applied in the basket. Equally, voucher code offers cannot be used in conjunction with any other promotional offer.
 
-Back to top
-
 ### 5\. Payment Information
 
 5.1. Halfords.com accepts payment by most major credit or debit cards registered at UK addresses, or by Paypal registered to UK addresses. We regret that we are unable to accept payment online by cheque, cash, Halfords Gift Vouchers, Halfords Gift Cards, High Street Vouchers, Purchase Orders or any other form of payment. For more information about payment methods, please [click here](https://web.archive.org/webapp/wcs/stores/servlet/CSCategoryDisplay?storeId=10001&langId=-1&catalogId=21202&categoryId=292511&topCategoryId=292503#tab_paymentmethods).
@@ -116,8 +108,6 @@ Back to top
 5.5. In addition, to prevent fraudulent use of credit and debit cards, Halfords will validate the names, addresses and other information supplied during the Order process against commercially available records (e.g. Electoral Roll data, Credit Reference Services). A third party may also be instructed to complete these checks. By ordering from the Website you consent to such checks being made. We may need to contact you by letter, telephone or email to verify details before we are able to process and dispatch your Order or we may be unable to accept your Order. Any information given may be disclosed to a registered Credit Reference Agency which may keep a record of the information. All information provided will be treated in accordance with the Data Protection Act 1998.
 
 5.6. Where your Contract is with an Approved Partner, you consent to Halfords sharing your personal data with the Approved Partner for the purposes of fulfilling your Order including sending dispatch notifications and dispatching the Goods. 
-
-Back to top
 
 ### 6\. Delivery of Goods
 
@@ -150,8 +140,6 @@ Back to top
 6.11 If you do not wish to cancel your Order straight away, or do not have the right to do so under clause 6.10 you can give us a new deadline for delivery which must be reasonable, and you can cancel your Order if we do not meet the new deadline. 
 
 6.12 If you do choose to cancel your Order for late delivery under clause 6.10 or clause 6.7, you can do so for just some of the Goods or all of them, unless splitting them up would significantly reduce their value. If the Goods have been delivered to you, you will have to return them to us or allow us to collect them, and we will pay the costs of this. After you cancel your Order we will refund any sums you have paid to us for the cancelled Goods and their delivery.
-
-Back to top
 
 ### 7 . Refunds and Returns
 
@@ -195,8 +183,6 @@ Example: if we provide you with a Dispatch Confirmation on 1 January in respect 
 
 7.11. Due to the speed of our ordering process, Halfords may not be able to cancel your order before despatch. If you exercise your right to cancel prior to you receiving the Goods, Halfords will attempt to stop the goods in transit, however if this is not possible and the Goods are delivered, you will be able to return your Goods in line with your rights outlined above.
 
-Back to top
-
 ### 8\. After-sales Service and Guarantees
 
 8.1. Where applicable, details of manufacturers' guarantees or service arrangements will be provided with the Goods. In respect of Halfords Goods (only), your local Halfords superstore will initially deal with after sales service and warranty/ guarantee claims. In relation to Goods purchased from Approved Partners, you should contact them directly to discuss service, warranty and guarantee claims. A manufacturer's guarantee is in addition to, and does not affect, your legal rights in relation to Goods that are faulty or not as described.
@@ -209,25 +195,19 @@ Back to top
 
 8.5.For further information on guarantees, please [click here](https://web.archive.org/webapp/wcs/stores/servlet/CSCategoryDisplay?storeId=10001&langId=-1&catalogId=21202&categoryId=292513&topCategoryId=292503#tab_halfordsguarantees).
 
-Back to top
-
 ### 9\. Complaints and Queries
 
 9.1.If you are not happy with any aspect of our online service, discover a fault with our Website, or if you have any queries or comments relating to an order placed online, please [contact us](https://web.archive.org/webapp/wcs/stores/servlet/CSCategoryDisplay?storeId=10001&langId=-1&catalogId=21202&categoryId=292515&topCategoryId=292503#tab_contactus) and we will do everything we can to help you.
 
-9.2. If we have exhausted our internal complaints handling procedure and we inform you in writing that we cannot settle your complaint, you have the option of referring your complaint to an Alternative Dispute Resolution ("ADR") provider to deal with the same. We are not obliged to use a specific ADR provider or procedure, however, a list of certified providers can be found at [www.tradingstandards.uk/advice/ADRApprovedBodies.cfm](https://web.archive.org/web/20160609193012id_/http://www.halfords.com/advice/customer-services/www.tradingstandards.uk/advice/ADRApprovedBodies.cfm). Alternatively, you can refer the complaint to the EU Commission's Online Dispute Resolution (ODR) Platform at wwww.odreurope.com. Please note that we are not obliged to participate in ADR.
+9.2. If we have exhausted our internal complaints handling procedure and we inform you in writing that we cannot settle your complaint, you have the option of referring your complaint to an Alternative Dispute Resolution ("ADR") provider to deal with the same. We are not obliged to use a specific ADR provider or procedure, however, a list of certified providers can be found at [www.tradingstandards.uk/advice/ADRApprovedBodies.cfm](https://web.archive.org/web/20170607121542id_/http://www.halfords.com/advice/customer-services/www.tradingstandards.uk/advice/ADRApprovedBodies.cfm). Alternatively, you can refer the complaint to the EU Commission's Online Dispute Resolution (ODR) Platform at wwww.odreurope.com. Please note that we are not obliged to participate in ADR.
 
 9.3. Your access to Halfords.com may occasionally be restricted to allow for the introduction of new products or features, site development, maintenance or repairs. We will attempt to restore the service as soon as we reasonably can.
-
-Back to top
 
 ### 10\. Safe Shopping Guarantee
 
 10.1. We have used every effort to ensure that shopping on the internet with Halfords is as safe as purchasing by card in a regular Halfords store. Our secure server software encrypts all of your personal information sent over the Internet. In processing your Order, your information may have to be sent over the internet more than once. At no point is your Order information sent in this way without encryption.
 
 10.2. Although Halfords endeavour to take all reasonable steps to protect your personal information, we cannot guarantee the complete security of any data you disclose online. You accept the inherent security risks of providing personal information and dealing online over the Internet and Halfords cannot be held responsible for any breach of security unless it is due to our negligence. Please read our [Privacy Policy](https://web.archive.org/webapp/wcs/stores/servlet/CSCategoryDisplay?storeId=10001&langId=-1&catalogId=21202&categoryId=292512&topCategoryId=292503#tab_privacypolicy) for more details.
-
-Back to top
 
 ### 11\. Comodo Authentic Site
 
@@ -243,8 +223,6 @@ B98 0DE
 
 Registered in England and Wales. Company Number 103161.
 
-Back to top
-
 ### 12\. Liability
 
 12.1 If we fail to comply with these Conditions, we are responsible for loss or damage you suffer that is a foreseeable result of our breach of these Conditions or our negligence, but we are not responsible for any loss or damage that is not foreseeable. Loss or damage is foreseeable if it is an obvious consequence of our breach or if it was contemplated by you and us at the time we entered into this Contract.
@@ -258,19 +236,13 @@ Back to top
 (d) any breach of the terms implied by section 13 to 15 of the Sale of Goods Act 1979 (description, satisfactory quality, fitness for purpose and samples); and  
 (e) defective products under the Consumer Protection Act 1987.
 
-Back to top
-
 ### 13\. Events Outside Our Control
 
 We will not be liable or responsible for any failure to perform, or delay in performance of, any of our obligations under a Contract that is caused by an Event Outside Our Control. An Event Outside Our Control means any act or event beyond our reasonable control, including without limitation strikes, lock-outs or other industrial action by third parties, civil commotion, riot, invasion, terrorist attack or threat of terrorist attack, war (whether declared or not) or threat or preparation for war, fire, explosion, storm, flood, earthquake, subsidence, epidemic or other natural disaster, or failure of public or private telecommunications networks or impossibility of the use of railways, shipping, aircraft, motor transport or other means of public or private transport.
 
-Back to top
-
 ### 14\. Variation
 
 Halfords amends these Conditions from time to time. Each time you order Goods from us, the Conditions in force at the time of your Order apply to the Contract between you and us.
-
-Back to top
 
 ### 15\. Communications between us
 
@@ -279,8 +251,6 @@ Back to top
 15.2. A notice or other communication shall be deemed to have been received: if delivered personally, when left at the address referred to in clause 15.1; if sent by pre-paid first class post or recorded delivery, at 9.00 am on the second Business Day after posting; if delivered by commercial courier, on the date and at the time that the courier's delivery receipt is signed; or, if sent by fax or e-mail, one Business Day after transmission.
 
 15.3. The provisions of this clause shall not apply to the service of any proceedings or other documents in any legal action.
-
-Back to top
 
 ### 16\. Other Important Terms
 
@@ -292,7 +262,7 @@ Back to top
 
 16.4 Each of the paragraphs of these Conditions operates separately. If any court or relevant authority decides that any of them are unlawful or unenforceable, the remaining paragraphs will remain in full force and effect.
 
-16.5 If we fail to insist that you perform any of your obligations under these Conditions, or if we do not enforce our rights against you, or if we delay in doing so, that will not mean that we have waived our rights against you and will not mean that you do not have to comply with those obligations. If we do waive a default by you, we will only do so in writing, and that will not mean that we will automatically waive any later default by you.
+16.5 If we fail to insist that you perform any of your obligations under these Conditions, or if we do not enforce our rights against you, or if we delay in doing so, that will not mean that we have waived our rights against you and will not mean that you do not have to comply with those obligations. If we do waive a default by you, we will only do so in writing, and that will not mean that we will automatically waive any later default by you.
 
 16.6 These Terms are governed by English law. This means a Contract for the purchase of Goods through our Website and any dispute or claim arising out of or in connection with it will be governed by English law. You and we both agree to that the courts of England and Wales will have non-exclusive jurisdiction. However, if you are a resident of Northern Ireland you may also bring proceedings in Northern Ireland, and if you are a resident of Scotland, you may also bring proceedings in Scotland.
 
@@ -373,6 +343,8 @@ These terms of use are governed by English law and subject to the non-exclusive 
 
 Thank you for visiting our site.
 
+Back to top
+
 ## Privacy Policy
 
 Halfords Group PLC (" **Halfords** ") is committed to protecting and respecting your privacy. This policy together with our terms of use of any websites which you may visit sets out the basis on which any personal information we (including any member of our group) collect from you, or that you provide to us, will be processed. By visiting any of our websites, you are accepting and consenting to the practices described in this policy. 
@@ -425,6 +397,8 @@ You can accept or decline cookies by modifying the settings in your browser. Ple
 
 Data Controller: Halfords Group PLC, Icknield Street Drive, Washford, Redditch, Worcestershire B98 0DE. Questions, comments and requests regarding this Privacy Policy are welcomed and should be sent to customer.services@halfords.co.uk.
 
+Back to top
+
 ## Cookie Policy
 
 ### What are Cookies?
@@ -437,7 +411,7 @@ Halfords use cookies to collect data about the performance of our websites and t
 
 Halfords may use cookies to personalise web pages during your visit to our websites. We will also use them to remember you for easy navigation and access during your visit. For example, when you use the stock checker, we will remember your postcode for the duration of your visit **only** to save you having to re-enter your postcode each time you want to check stock in your local store.
 
-We may also use cookies to track your visit to our websites. We will collect data to identify you whilst you are browsing so that we can measure our websites and make improvements in the future. This information is only used for analytical purposes, and will be limited to a minimum. This type of cookie does not hold personally identifiable information.
+We may also use cookies to track your visit to our websites and to help us create a profile of your preferences and interests. We will collect data to identify you whilst you are browsing so that we can measure our websites, make improvements in the future and respect your marketing preferences.
 
 **Can cookies harm my computer?**
 
@@ -553,10 +527,6 @@ Mobile
 All Other Mobile Devices
 
 All Other Mobile Devices Please consult the device owner's manual.
-
-**More Information About Cookies**
-
-To learn more about cookies, how to manage them and how they affect your online activities, visit [www.aboutcookies.org](http://www.aboutcookies.org/ "About cookies dot org").
 
 ### Halfords Cookies
 
@@ -733,7 +703,7 @@ Go to [TradeDoubler](http://hstse.tradedoubler.com/file/20649/uk/help_centre/faq
 Intelligent Reach cookies track the activity of affiliates and reward them for generating traffic and sales on our websites.   
 Go to [Intelligent Reach](http://www.intelligentreach.com/privacy-cookies/ "Intelligent Reach") for more information on managing Intelligent Reach cookies.
 
-Back to Top
+Back to top
 
 ## Chemical Regulations
 
@@ -746,6 +716,8 @@ The Regulations themselves are designed to protect both the environment and huma
 To access further information, follow the link above, then select ’Name’ for the search criteria in the left-hand drop-down box, and in the box underneath, enter either the full name of your product if know, e.g. Halfords 5W30 VW Fully Synthetic Oil, or a generic name, e.g. oil, click ’Search’, and all the products we have information on will be displayed in the box to the right. Then simply click on the rectangular symbol to display the safety data sheet, or the diamond symbol to display the chemical supply symbol. 
 
 Should you have any queries regarding this or any other safety issues please contact our [customer services](https://web.archive.org/webapp/wcs/stores/servlet/CSCategoryDisplay?storeId=10001&langId=-1&catalogId=21202&categoryId=292515&topCategoryId=292503) department
+
+Back to top
 
 ## Terms for free in-store WiFi
 
@@ -818,4 +790,4 @@ We will not be liable or responsible for any failure to perform, or delay in per
 
 These terms and any dispute or claim arising out of or in connection with them or their subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the law of England and Wales and the courts of England and Wales shall have exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with these terms.
 
-Back to Top
+Back to top
