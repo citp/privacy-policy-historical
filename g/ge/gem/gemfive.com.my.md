@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gemfive.com.my privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119100017id_/http%3A//www.gemfive.com/my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemfive.com.my privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095353id_/http%3A//www.gemfive.com/my/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GEMFIVE Malaysia Online at GEMFIVE Malaysia
+# Privacy Policy - GEMFIVE Malaysia
 
 #### _Privacy Policy_
 
@@ -68,7 +68,7 @@ GEM may disclose data to any or all of the parties stated above notwithstanding 
 If you have previously agreed to us using your data for direct marketing purposes, you may change your mind at any time by emailing us at privacy@gemfive.com or writing to The Data Protection Officer at GuoLine eMarketing Sdn Bhd, Level 2, Block B, HP Towers, 12 Jalan Gelenggang, Bukit Damansara, 50490 Kuala Lumpur, Wilayah Persekutuan, Malaysia. No fee will be charged.  
 You may also request access to any data we hold about you at any time by contacting us at the above address. Where we hold information that you are entitled to access, we will provide you with suitable means of accessing it. A reasonable fee may be charged for processing each data access request.  
 To help GEM to provide a better service to you, please ensure that your personal data such as contact details including your home and office addresses, your telephone numbers (including your mobile telephone number), email address and other details registered with us are up to date.  
-If you have any questions or concerns about this Privacy Policy, please contact us at the above address. 
+If you have any questions or concerns about this Privacy Policy, please contact us at the above address or call us at 03-27141700. 
 
 **Security**
 
