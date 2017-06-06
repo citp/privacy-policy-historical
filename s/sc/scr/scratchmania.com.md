@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scratchmania.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124061033id_/http%3A//www.scratchmania.com/privacy-policy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scratchmania.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111705id_/http%3A//www.scratchmania.com/privacy-policy/privacypolicy.html) for the most accurate reproduction.*
 
 # ScratchMania - Privacy and Security Policy
 
@@ -48,8 +48,6 @@ About us
 Hermione Ltd.
 
 Inomenon Ethnon 44, Larnaka 6042, Cyprus
-
-Telephone: +443300109328
 
 This Privacy and Security Terms & Conditions has been drafted in English. In the event of any discrepancy between the meanings of any translated versions of this Policy and the English language version, the meaning of the English language version shall prevail.
 
