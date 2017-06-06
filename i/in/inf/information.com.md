@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the information.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223142204id_/http%3A//www.information.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the information.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606072106id_/http%3A//information.com/privacy) for the most accurate reproduction.*
 
 # Information.com
 
