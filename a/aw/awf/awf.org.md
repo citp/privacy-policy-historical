@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the awf.org privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204043302id_/http%3A//www.awf.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awf.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081229id_/http%3A//www.awf.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | African Wildlife Foundation
 
-Effective: July 1, 2015
+Effective: January 12, 2017
 
 African Wildlife Foundation (“AWF”) has the utmost respect for your privacy, and we know that you care how your information is used and shared. This Privacy Policy applies to [www.awf.org](http://www.awf.org/) and all associated subdomains, mobile applications and any online services to which this Privacy Policy links (collectively, the “Sites”). By visiting any of the Sites, you are accepting the practices described in this Privacy Policy. If you disagree with any of the terms herein, please immediately discontinue use of the Sites.
 
@@ -35,6 +35,10 @@ We may collect the physical location of your device by, for example, using satel
 Information that you provide, such as your preferred means of communication, does not personally identify you unless it is combined with your Personal Information.
 
 We may aggregate Personal Information. Aggregated information does not personally identify you or any other user of the Sites (for example, we may aggregate Personal Information to calculate the percentage of our users who have a particular telephone area code).
+
+###  How We Protect Your Information
+
+AWF uses Secure Sockets Layer (SSL) technology to provide you with the safest, most secure experience possible. SSL technology enables encryption of sensitive information, including login credentials, passwords and credit card numbers, during your online transactions. All of the forms on our site are secured with SSL technology so your personal information stays safe and out of malicious hands. 
 
 ###  How We Use Collected Information
 
@@ -78,7 +82,7 @@ Do not provide your information when prompted by the Sites.
 
 Please note, however, that if you choose to reject or erase cookies, your ability to navigate the Sites may be limited. Further, in the event you choose not to share information, AWF will be unable to respond to your request for AWF information, enter you in any sweepstakes or contests, facilitate advocacy actions or send online postcards.
 
-Finally, if you would like to modify Personal Information you have previously provided us, please manage your profile by visiting my.awf.org.
+Finally, if you would like to modify Personal Information you have previously provided us, please manage your profile by visiting my.awf.org. 
 
 ###  How Can You Stop Receiving Communications from AWF?
 
@@ -86,21 +90,29 @@ If you would like to opt out of receiving content from AWF, you can:
 
 Take the opportunity to opt out in links on the bottom of marketing emails AWF sends to you.
 
-Log in to your profile at my.awf.org. and click “ email preferences” under Email Notification.
-
 Call the membership hotline at 1-888-494-5354 to tell us you do not want to receive communications from AWF.
 
 ###  Does AWF Collect Information from Children?
 
-AWF does not knowingly collect personal information from anyone under the age of 13. The Sites are not directed at children under the age of 13. In the event that AWF learns that it has collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have collected any personal information from a child under 13, please contact us.
+AWF does not knowingly collect personal information from anyone under the age of 13. The Sites are not directed at children under the age of 13. In the event that AWF learns that it has collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have collected any personal information from a child under 13, [please contact us](http://www.awf.org/contact).
+
+###  Donor Privacy Policy
+
+AWF respects the privacy of all of our online and offline donors and takes the utmost measures to safeguard donors’ personal information.
+
+When donors provide AWF with their name, address and any other personal data, AWF uses that information to keep them informed of program updates, news, events and funding needs. If at any time a donor chooses not to receive these communications, he / she may contact AWF at [africanwildlife@awf.org](mailto:africanwildlife@awf.org) to be removed from our mailing list.
+
+When you become an AWF donor, certain information may be shared with third parties (e.g., other nonprofit organizations, marketers) whose information or services we think may be of interest to you. These third parties may wish to communicate with you by through the mail or share your information with others. We do not share donor email addresses. If you do not want the service provider to communicate with you or share your information, you may contact AWF at: [africanwildlife@awf.org](mailto:africanwildlife@awf.org).
+
+AWF’s donor information is maintained on a secure database. Only authorized personnel have access to this information and only for appropriate business purposes.
+
+All donation records are maintained according to the applicable standards of record retention in effect at the time of the donation. All records are maintained in secure locations. AWF uses online payment processing services with world-class security and strong reputations.
+
+AWF reserves the right to use or disclose any information as needed to satisfy any law, regulation or legal request
 
 Your California Privacy Rights
 
-If you are a California resident, California Civil Code Section 1798.83 permits you to request information about our disclosure of your personal information to third parties for those parties’ own direct marketing purposes. To make such a request, please send a letter to:
-
-Webmaster  
-1400 16th Street NW, Suite 120  
-Washington, DC 20036
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information about our disclosure of your personal information to third parties for those parties’ own direct marketing purposes. To make such a request, please contact [africanwildlife@awf.org](mailto:africanwildlife@awf.org).
 
 ###  Third-Party Services
 
@@ -108,7 +120,7 @@ This Privacy Policy does not address, and we are not responsible for, the privac
 
 ###  Changes to this Privacy Policy
 
-AWF may from time to time and at its discretion amend this Privacy Policy. The “Effective Date” legend at the top of this page indicates when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Sites. Your continued use of the Sites following these changes means that you accept the revised Privacy Policy.
+AWF may from time to time and at its discretion amend this Privacy Policy. The “Effective Date” legend at the top of this page indicates when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Sites. Your continued use of the Sites following these changes means that you accept the revised Privacy Policy. 
 
 ###  Security
 
@@ -120,18 +132,7 @@ The Sites are controlled and operated by us from the United States and are not i
 
 ###  Questions
 
-If you have any questions about this Privacy Policy and the practices of this Website, you can contact:
-
-African Wildlife Foundation  
-1400 Sixteenth Street, NW  
-Suite 120  
-Washington, DC 20036  
-United States
-
-Phone: +1-202-939-3333  
-Fax: +1-202-939-3332
-
-You can also send an email to [africanwildlife@awf.org](mailto:africanwildlife@awf.org?subject=Website%20General%20Contact%20Us)
+If you have any questions about this Privacy Policy, please call 1-888-494-5354 to receive assistance from an AWF member services representative or email AWF at [africanwildlife@awf.org](mailto:africanwildlife@awf.org). 
 
 ###  Unsubscribe
 
