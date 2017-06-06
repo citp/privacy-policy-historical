@@ -1,0 +1,201 @@
+<!--The following is the downloaded HTML source of the samplefocus.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606192202id_/https%3A//samplefocus.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"470ba98b13","applicationID":"15146589","transactionName":"d11XEkVYWAlURBhDA1ZBUBJSGEQXWEBWVx8=","queueTime":6,"applicationTime":36,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sample Focus</title>
+<link rel="publisher" href="https://plus.google.com/+Samplefocus/">
+<link rel="shortcut icon" type="image/x-icon" href="https://d1yg5d5ep3qn10.cloudfront.net/assets/favicon-77a7a64bc71ee608e609a56e2b1bf3d38f9edac9ca380c37f2183359abf86e42.ico">
+<link rel="stylesheet" media="all" href="https://d1yg5d5ep3qn10.cloudfront.net/assets/application-3bc5bb6046b26d105ad8b34557903d5ad8ca9bfb624fb99d21530bea400adce0.css" data-turbolinks-track="reload">
+<script src="https://d1yg5d5ep3qn10.cloudfront.net/assets/application-b146a3e599ba8e1a7a346b718b823df761d6c77637c9f691d018a38bb33e6ce5.js" data-turbolinks-track="reload" async="async"></script>
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="39oTabOxjpFHMW0vLn9aUuc81HBQdyght7SfynrjOaAdHF73/sdY+WMy72Xtet+T3p0NOl8mwXsV5nC01BmY5A==">
+<link href="https://fonts.googleapis.com/css?family=Lato:900,700,400,300" rel="stylesheet" type="text/css">
+ 
+<meta name="google-site-verification" content="jjzwTfplptipx_qLFUg0O2I8NqR9dA60XOegDsY4XI4">
+<script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-40738694-5', 'auto');
+    </script>
+<script async="" src="https://www.google-analytics.com/analytics.js"></script>
+ 
+<script async="" src="//static.hotjar.com/c/hotjar-216402.js?sv=5"></script></head>
+<body class="website privacy" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<header>
+<div class="navbar">
+<nav class="top-nav">
+<div class="nav-wrapper container">
+<a id="logo-container" class="brand-logo" href="/">
+<img id="logo-image" src="https://d1yg5d5ep3qn10.cloudfront.net/assets/logo-0353d0360d766c84f75cd840f0328366ec698c25c782d8cbcb5932ed628f3eef.png" alt="Logo">
+</a>
+<a href="#" data-activates="mobile-nav" class="button-collapse"><i class="fa fa-fw fa-bars" id="menu-icon"></i></a>
+<ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" id="nav-mobile" class="right hide-on-med-and-down">
+<li itemprop="name"><a itemprop="url" class="nav-link" href="/categories">Categories</a></li>
+<li itemprop="name"><a itemprop="url" class="nav-link" href="/tag">Tags</a></li>
+<li itemprop="name"><a itemprop="url" class="nav-link" href="/collections">Collections</a></li>
+<li itemprop="name"><a itemprop="url" class="nav-link" href="/samples/new">Upload</a></li>
+<li itemprop="name"><a itemprop="url" class="nav-link" href="/about">About</a></li>
+<li itemprop="name"><a itemprop="url" class="nav-link" href="https://blog.samplefocus.com">Blog</a></li>
+<li itemprop="name"><a itemprop="url" class="nav-link" id="login-nav-item" href="/users/sign_in">Log In</a></li>
+<li itemprop="name"><a itemprop="url" class="nav-link" id="login-nav-item" href="/users/sign_up">Sign Up</a></li>
+</ul>
+<ul class="side-nav" id="mobile-nav">
+<li class="logo">
+<div itemscope="" itemtype="http://schema.org/Organization">
+<a itemprop="url" href="/">
+<img class="circle small-logo" itemprop="logo" src="https://d1yg5d5ep3qn10.cloudfront.net/assets/small_logo-984ac58df7bc38b4329b43696388253153295e0fb793969b137a46884778dfb0.jpg" alt="Small logo">
+</a> </div>
+</li>
+<li itemprop="name"><a itemprop="url" class="nav-link" href="/categories">Categories</a></li>
+<li itemprop="name"><a itemprop="url" class="nav-link" href="/tag">Tags</a></li>
+<li itemprop="name"><a itemprop="url" class="nav-link" href="/collections">Collections</a></li>
+<li itemprop="name"><a itemprop="url" class="nav-link" href="/samples/new">Upload</a></li>
+<li itemprop="name"><a itemprop="url" class="nav-link" href="/about">About</a></li>
+<li itemprop="name"><a itemprop="url" class="nav-link" href="https://blog.samplefocus.com">Blog</a></li>
+<li itemprop="name"><a itemprop="url" class="nav-link" id="login-nav-item" href="/users/sign_in">Log In</a></li>
+<li itemprop="name"><a itemprop="url" class="nav-link" id="login-nav-item" href="/users/sign_up">Sign Up</a></li>
+</ul>
+</div>
+</nav>
+</div>
+</header>
+<div class="main-container container">
+<div class="container section privacy-container">
+<div class="row">
+<div class="col s10 pull-s1">
+<h1 class="center">Privacy Policy</h1>
+<p>Last Modified: October 11, 2016</p>
+<h2>Information We Collect</h2>
+<p>There are two basic categories of information we collect:</p>
+<ul>
+<li><strong>Information you choose to give us.</strong></li>
+<li><strong>Information we get when you use our services.</strong></li>
+</ul>
+<p>Here’s a little more detail on each of these categories.</p>
+<h3>Information You Choose to Give Us</h3>
+<p>When you interact with our services, we collect the information that you choose to share with us. For example, most of our services require you to set up a basic Sample Focus account, so we need to collect a few important details about you, such as: a password, and an email address.</p>
+<h3>Information We Get When You Use Our Services</h3>
+<p>When you use our services, we collect information about which of those services you’ve used and how you’ve used them. We might know, for instance, that you downloaded a particular Sample, or previewed several Collections. Here’s a fuller explanation of the types of information we collect when you use our services:</p>
+<ul>
+<li><strong>Usage Information.</strong> We collect information about your activity through our services. For example, we may collect information about Samples you preview.</li>
+<li><strong>Content Information.</strong> We collect information about the content you provide, such as the comments or favorites you make.</li>
+<li><strong>Device Information.</strong> We collect device-specific information, such as the hardware model, operating system version, browser type, and language.</li>
+<li><strong>Location Information.</strong> When you use our services we may collect information about your location.</li>
+<li><strong>Information Collected by Cookies and Other Technologies.</strong> Like most online services and mobile applications, we may use cookies and other technologies, to collect information about your activity, browser, and device. Most web browsers are set to accept cookies by default. If you prefer, you can usually remove or reject browser cookies through the settings on your browser or device. Keep in mind, though, that removing or rejecting cookies could affect the availability and functionality of our services.</li>
+<li><strong>Log Information.</strong> We also collect log information when you use our website. That information includes, among other things:
+<ul>
+<li>details about how you’ve used our services.</li>
+<li>device information, such as your web browser type and language.</li>
+<li>access times.</li>
+<li>pages viewed.</li>
+<li>IP address.</li>
+<li>identifiers associated with cookies or other technologies that may uniquely identify your device or browser.</li>
+<li>pages you visited before or after navigating to our website.</li>
+</ul>
+</li>
+</ul>
+<h2>How We Use Information</h2>
+<p>What do we do with the information we collect? The short answer is: Provide you with an amazing product and service that we relentlessly improve. Here are some of the ways we do that:</p>
+<ul>
+<li>develop, operate, improve, deliver, maintain, and protect our products and services.</li>
+<li>communicate with you.</li>
+<li>monitor and analyze trends and usage.</li>
+<li>use information we’ve collected from cookies and other technology to enhance the services and your experience with them.</li>
+</ul>
+<p>We may also store some information locally on your device. For example, we may store information as local cache so that you can open the site and view content faster.</p>
+<h2>How We Share Information</h2>
+<p>We may share information about you in the following ways:</p>
+<ul>
+<li><strong>With other Sample Focus users.</strong> We may share the following information with other Sample Focus users:
+<ul>
+<li>Your username.</li>
+<li>sounds you have posted, favorited, or commented on.</li>
+<li>comments you have written.</li>
+</ul>
+</li>
+<li><strong>With third parties.</strong> We may share your information with the following third parties:
+<ul>
+<li><strong>With third parties for legal reasons.</strong>&nbsp;We may share information about you if we reasonably believe that disclosing the information is needed to:
+<ul>
+<li>comply with any valid legal process, governmental request, or applicable law, rule, or regulation.</li>
+<li>protect the rights, property, and safety of us, our users, or others.</li>
+<li>detect and resolve any fraud or security concerns.</li>
+</ul>
+</li>
+<li><strong>With third parties as part of a merger or acquisition.</strong>&nbsp;If Sample Focus gets involved in a merger, asset sale, financing, liquidation or bankruptcy, or acquisition of all or some portion of our business to another company, we may share your information with that company before and after the transaction closes.</li>
+<li><strong>In the aggregate or after de-identification.</strong> We may also share with third parties, such as advertisers, aggregated or de-identified information that cannot reasonably be used to identify you.</li>
+</ul>
+</li>
+</ul>
+<h2>Control over Your Information</h2>
+<p>We want you to be in control of your information, so we provide you with the following tools.</p>
+<ul>
+<li><strong>Account Updates</strong>. You may update your account info at any time by going to your Account and then clicking Edit.</li>
+<li><strong>Account Deletion.</strong> While we hope you’ll remain a lifelong Sample Focus user, if for some reason you ever want to delete your account, just email us at hello@samplefocus.com.</li>
+</ul>
+<h2>Analytics and Advertising Services Provided by Others</h2>
+<p>We may let other companies use cookies, web beacons, and similar tracking technologies on the services. These companies may collect information about how you use the services and other websites and online services over time and across different services. This information may be used to, among other things, analyze and track data, determine the popularity of certain content, and better understand your online activity.</p>
+<h2>Revisions to the Privacy Policy</h2>
+<p>We may change this Privacy Policy from time to time. But when we do, we’ll let you know one way or another. Sometimes, we’ll let you know by revising the date at the top of the Privacy Policy that’s available on our website. Other times, we may provide you with additional notice (such as adding a statement to our websites’ homepage).</p>
+</div>
+</div>
+</div>
+</div>
+<footer class="page-footer">
+<div class="container">
+<div class="row footer-row">
+<div class="col l6 pull-l2 s12">
+<div class="valign-wrapper">
+<img class="valign circle small-logo" src="https://d1yg5d5ep3qn10.cloudfront.net/assets/small_logo-984ac58df7bc38b4329b43696388253153295e0fb793969b137a46884778dfb0.jpg" alt="Small logo">
+<h5 class="white-text valign footer-title">Sample Focus</h5>
+</div>
+<p class="grey-text text-lighten-4 social-icons-caption">Connect with us</p>
+<ul class="social-list">
+<li class="social-item">
+<a target="_blank" href="https://facebook.com/samplefocus">
+<i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i>
+</a> </li>
+<li class="social-item">
+<a target="_blank" href="https://twitter.com/samplefocus">
+<i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i>
+</a> </li>
+<li class="social-item">
+<a target="_blank" href="https://youtube.com/c/samplefocus">
+<i class="fa fa-youtube-square fa-2x" aria-hidden="true"></i>
+</a> </li>
+</ul>
+</div>
+<div class="col l2 pull-l2 s12">
+<ul class="company-links">
+<li><a class="grey-text text-lighten-3" href="/about">About/FAQ</a></li>
+<li><a class="grey-text text-lighten-3" href="https://blog.samplefocus.com">Blog</a></li>
+<li><a class="grey-text text-lighten-3" target="_blank" href="https://www.dropbox.com/sh/706vu95vw594xy1/AAD45QAtA1jPJ2_wJ9c8dFnPa?dl=0">Press Kit</a></li>
+<li><a class="grey-text text-lighten-3" href="/privacy">Privacy Policy</a></li>
+<li><a class="grey-text text-lighten-3" href="mailto:hello@samplefocus.com">Contact</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="footer-copyright">
+<div class="container">
+© 2016 Sample Focus
+</div>
+</div>
+</footer>
+ 
+<script>
+        (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:216402,hjsv:5};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+    </script>
+
+
+</body></html>
