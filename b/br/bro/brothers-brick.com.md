@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brothers-brick.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201055438id_/http%3A//www.brothers-brick.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brothers-brick.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090621id_/http%3A//www.brothers-brick.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | The Brothers Brick | LEGO Blog
+# Privacy Policy | The Brothers Brick | The Brothers Brick
 
 LEGO is all about fun, and it’s important that you have fun here on Brothers-Brick.com, but online privacy is a very serious matter. Because Brothers-Brick.com takes your online privacy seriously, we want you to know what personal information we collect and how we use it.
 
@@ -64,4 +64,4 @@ The interactive, free-form nature of commenting on this Web site means that you 
 When it’s clear that inappropriate information has been shared, we reserve the right to edit comment text to remove personally identifiable information. However, we can’t guarantee that we will see and correct these issues immediately, so we _strongly_ recommend that you do _not_ share any personally identifiable information in comments.
 
 **Who do I contact if I have questions or concerns about this privacy policy?**  
-This policy was written by a person, not a robot or a lawyer. Specifically, [Andrew Becraft](http://www.brothers-brick.com/about/all-about-andrew/) is the creator and primary administrator of Brothers-Brick.com. You can contact Andrew by using the [Contact Form](http://www.brothers-brick.com/contact-us/) or by sending him an [e-mail](mailto:dunechaser@gmail.com).
+This policy was written by a person, not a robot or a lawyer. Specifically, [Andrew Becraft](http://www.brothers-brick.com/author/dunechaser/) is the creator and primary administrator of Brothers-Brick.com. You can contact Andrew by using the [Contact Form](http://www.brothers-brick.com/contact-us/).
