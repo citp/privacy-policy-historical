@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the managementstudyhq.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208025423id_/http%3A//www.managementstudyhq.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managementstudyhq.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125948id_/http%3A//www.managementstudyhq.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Management Study HQ
-
-Last updated on December 8th, 2016. 
-
-**Our Privacy Polic **y****
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use www.managementstudyhq.com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
