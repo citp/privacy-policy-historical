@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bravotube.net privacy policy that was archived on 2016-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160203041357id_/http%3A//www.bravotube.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravotube.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183146id_/http%3A//www.bravotube.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ###  PRIVACY POLICY 
 
 for [BravoTube.net](http://www.bravotube.net/)  
-Effective Date: 31 January, 2016  
+Effective Date: 6 June, 2017  
 Last Modified: 16 December, 2011 
 
   * I. **General**
