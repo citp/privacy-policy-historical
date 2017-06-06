@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the closetlondon.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120095308id_/http%3A//www.closetlondon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the closetlondon.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606053724id_/http%3A//www.closetlondon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
