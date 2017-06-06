@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortrade.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229073132id_/https%3A//www.fortrade.com/wp-content/uploads/legal/Fortrade_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortrade.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170242id_/https%3A//www.fortrade.com/wp-content/uploads/legal/Fortrade_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,10 +30,10 @@ circumstances. We can generally update your customer information over the teleph
 If you have any questions not covered in our Privacy Policy or any other concerns about how we
 use your personal data, please feel free to contact us either by mail at Fortrade Ltd, Michelin
 Contracts for Difference (CFDs) are leveraged products and carry a high level of risk to your capital as prices may move rapidly against
-you. Losses can exceed your deposits and you may be required to make further payments. These products may not be suitable for all
+you. Be Aware: You can lose all, but not more than the balance of your Trading Account. These products may not be suitable for all
 clients. Please ensure you understand the risks and seek independent advice.
 Fortrade Ltd. is authorised and regulated in UK by the Financial Conduct Authority (FCA), Firm Reference Number (FRN):
-609970. © 2016 Fortrade Ltd. All Rights Reserved.                                                                                    1
+609970. © 2014-2017 Fortrade Ltd. All Rights Reserved.                                                                               1
 
 
 House, 81 Fulham Road, London, SW3 6RD or by email: compliance@fortrade.com or by fax:
@@ -45,7 +45,7 @@ fee to cover the cost of verifying the application and locating, retrieving, rev
 any material requested. We will acknowledge your request and respond to it within 40 days of
 receipt of your application and any applicable fee.
 Contracts for Difference (CFDs) are leveraged products and carry a high level of risk to your capital as prices may move rapidly against
-you. Losses can exceed your deposits and you may be required to make further payments. These products may not be suitable for all
+you. Be Aware: You can lose all, but not more than the balance of your Trading Account. These products may not be suitable for all
 clients. Please ensure you understand the risks and seek independent advice.
 Fortrade Ltd. is authorised and regulated in UK by the Financial Conduct Authority (FCA), Firm Reference Number (FRN):
-609970. © 2016 Fortrade Ltd. All Rights Reserved.                                                                                    2
+609970. © 2014-2017 Fortrade Ltd. All Rights Reserved.                                                                               2
