@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegamecreators.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401045547id_/https%3A//www.thegamecreators.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamecreators.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606213504id_/https%3A//www.thegamecreators.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TheGameCreators
 
