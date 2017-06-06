@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the 8bob.com privacy policy that was archived on 2016-03-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160301091846id_/http%3A//8bob.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 8bob.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606030854id_/http%3A//8bob.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=286634094687963"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//wurfl.io/wurfl.js"></script>
 <script type="text/javascript">
-          if( WURFL.is_mobile == "true" || WURFL.is_mobile == true) {
+        if (WURFL.is_mobile == "true" || WURFL.is_mobile == true) {
             window.stop();
             window.location.replace("http://m.8bob.com");
-          }
-        </script>
+        }
+    </script>
 <title>★ 8BOB.com - Privacy Policy | 8BOB.com </title>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,31 +18,40 @@
 <meta property="og:image" content="/static/skin/8bob/logo-og-180.7bd61619e588.png">
 <meta property="og:title" content="8BOB.com - Privacy Policy">
 <link rel="stylesheet" type="text/css" href="/static/css/isotope-style.360f7f64288c.css">
-<link href="/static/skin/8bob/8bob.eefd1cbd7584.css" rel="stylesheet">
+<link href="/static/skin/8bob/8bob.6af656f7aa06.css" rel="stylesheet">
 <script type="text/javascript">
-            var static_dir = "/static/";
-            var legacy_static_dir = "//media.8bob.com/";
+        var static_dir = "/static/";
+        var legacy_static_dir = "//media.8bob.com/";
 
+        var abtests = {};
+        var abval,abkey;
+        
             
-                
+        
             
-                
+        
+            abkey = "abtest_sorting";
+            abval = "version41";
+            if(!(abkey in  abtests) || (abkey in  abtests) && (abtests[abkey] == "split" || abval == "previous_flash")) abtests[abkey] = abval; 
+        
             
-                
-            
-                
-                    var abtest_sorting = "version3";
-                
-            
+        
+            abkey = "html5video_sanity";
+            abval = "outbid";
+            if(!(abkey in  abtests) || (abkey in  abtests) && (abtests[abkey] == "split" || abval == "previous_flash")) abtests[abkey] = abval; 
+        
 
+        console.log(abtests);
 
+        
+        
+        
+        
+        
+        
 
-
-
-
-
-            var bar = 'big';
-        </script>
+        var bar = 'big';
+    </script>
  
 <!--[if lt IE 9]>
           <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" type="text/javascript" charset="utf-8"></script>
@@ -50,115 +59,154 @@
 <!--[if (gte IE 9) | (!IE)]><!-->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js" type="text/javascript" charset="utf-8"></script>
 <!--<![endif]-->
+<script src="https://cdn.ravenjs.com/2.3.0/raven.min.js"></script>
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script src="/static/js/common.76b27257f3ba.js" type="text/javascript"></script>
+<script src="/static/js/common.cce830ebdcef.js" type="text/javascript"></script>
 <script src="/static/js/jquery.isotope.min.ac35f7863494.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript" src="/static/js/jquery.infinitescroll.min.1418b1051d6e.js"></script>
 <script src="/static/js/jstorage.min.c651dff398a9.js" type="text/javascript" charset="utf-8"></script>
 <script src="/static/js/jquery.jcarousel.min.c3f1d015071f.js" type="text/javascript" charset="utf-8"></script>
+<script src="/static/js/blockadblock.7fb9185265ce.js" type="text/javascript" charset="utf-8"></script>
 <style type="text/css"></style>
 <script>
 
-      // uuid:
-        var guid = (function() {
-        function s4() {
-            return Math.floor((1 + Math.random()) * 0x10000)
-                       .toString(16)
-                       .substring(1);
-          }
-          return function() {
-            return s4() + s4() + '-' + s4() + '-' + s4() + '-' +
-                   s4() + '-' + s4() + s4() + s4();
-          };
+        // uuid:
+        var guid = (function () {
+            function s4() {
+                return Math.floor((1 + Math.random()) * 0x10000)
+                        .toString(16)
+                        .substring(1);
+            }
+
+            return function () {
+                return s4() + s4() + '-' + s4() + '-' + s4() + '-' +
+                        s4() + '-' + s4() + s4() + s4();
+            };
         })();
 
         var uuid = $.jStorage.get("uuid", false);
-        if(!uuid)  {
+        if (!uuid) {
             uuid = guid();
             $.jStorage.set("uuid", uuid);
         }
 
-     //analytics:
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        //analytics:
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-      ga('create', 'UA-47508748-4', 'auto');
+        ga('create', 'UA-47508748-4', 'auto');
 
-      ga('require', 'displayfeatures');
-      ga('send', 'pageview', {
-      
-          'dimension1': abtest_sorting,
-      
-      
-      
-      'dimension2': uuid,
-      'dimension3': "",
-      'dimension5': ""
-      });
+        ga('require', 'displayfeatures');
+
+
+        function adBlockNotDetected() {
+            ga('send', 'event', 'Adblocker', 'Not Detected', 'Not Detected', 1);
+        }
+        function adBlockDetected() {
+            ga('send', 'event', 'Adblocker', 'Detected', 'Detected', 1);
+
+        }
+
+        $(document).ready(function () {
+
+            ga('send', 'pageview', {
+                
+                'dimension1': abtests["abtest_sorting"],
+                
+                'dimension6': abtests["html5video_sanity"],
+                
+                
+                
+                'dimension2': uuid,
+                'dimension3': "",
+                'dimension5': "",
+                'dimension7': "",
+                'dimension8': ""
+            });
+
+
+            if (typeof blockAdBlock === 'undefined') {
+                adBlockDetected();
+            } else {
+                blockAdBlock.onDetected(adBlockDetected);
+                blockAdBlock.onNotDetected(adBlockNotDetected);
+            }
+
+            blockAdBlock.setOption({
+                debug: false,
+                checkOnLoad: true,
+                resetOnEnd: false
+            });
+
+        });
 
 
     </script>
 <script type="text/javascript">
         var mouseDownAdnsenseForGames = false;
-        $(function($) {
+        $(function ($) {
             var isOverGoogleAd = false;
             var slot = 0;
             $(".adsbygoogle")
-                .hover(
-                    function() {
+                    .hover(
+                    function () {
                         isOverGoogleAd = true;
                         slot = $(this).attr('data-ad-slot');
                     },
-                    function() {
+                    function () {
                         isOverGoogleAd = false;
                         slot = 0
                     }
-                );
+            );
             $("#flash_ad_div")
-                .mousedown(
-                    function(){
-                         mouseDownAdnsenseForGames = true;
-                         setTimeout(function(){
+                    .mousedown(
+                    function () {
+                        mouseDownAdnsenseForGames = true;
+                        setTimeout(function () {
                             mouseDownAdnsenseForGames = false;
-                         },3000)
+                        }, 3000)
                     }
-                );
+            );
 
             $(window).blur(
-                function() {
-                    if (isOverGoogleAd) {
-                        if(slot != "adsense_for_games") {
-                            ga('send', 'event', 'ads', 'click', slot, 1);
+                    function () {
+                        if (isOverGoogleAd) {
+                            if (slot != "adsense_for_games") {
+                                ga('send', 'event', 'ads', 'click', slot, 1);
+                                sendSteel();
+                            }
+                        }
+                        if (mouseDownAdnsenseForGames) {
+                            ga('send', 'event', 'adstest', 'click', "adsense_for_games", 1);
                             sendSteel();
                         }
                     }
-                    if (mouseDownAdnsenseForGames) {
-                        ga('send', 'event', 'adstest', 'click', "adsense_for_games", 1);
-                        sendSteel();
-                    }
-                }
             ).focus();
         });
-      </script>
+    </script>
 <script type="text/javascript" async="" class="__ADORIC__" id="__ADORIC__SCRIPT__" src="https://adoric.com/adoric.js?key=e2b849a73a3703f671c4d37e56265460"></script>
 <style>html{height:100%;}body{position:relative;min-height:100%;height:auto;}#footer{position:absolute;bottom:0;left:0;width:100%;}#main-content{padding-bottom:40px;}</style>
 </head>
-<body class="browse-page"><script type="text/javascript">
-//<![CDATA[
-try{(function(a){var b="http://",c="8bob.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
-//]]>
-</script>
+<body class="browse-page">
 <div id="fb-root"></div>
-<script>(function(d, s, id) {
-	  var js, fjs = d.getElementsByTagName(s)[0];
-	  if (d.getElementById(id)) return;
-	  js = d.createElement(s); js.id = id;
-	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=286634094687963";
-	  fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));
-    </script>
+<script>(function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=286634094687963";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
 <div id="navbar" class="dirtyback big-navbar nav-back">
 <div id="lines_back"></div>
 <a href="/" class="main_logo">
@@ -175,16 +223,16 @@ PRIVACY POLICY
 </div>
 <script>
 
-      $(function() {
-        $(window).scroll(function (event) {
-          var scroll = $(window).scrollTop();
-          if (scroll > 76 ) {
-			$('body').addClass("show_small_navbar");
-          } else if (scroll < 209){
-            $('body').removeClass("show_small_navbar");
-          }
+        $(function () {
+            $(window).scroll(function (event) {
+                var scroll = $(window).scrollTop();
+                if (scroll > 76) {
+                    $('body').addClass("show_small_navbar");
+                } else if (scroll < 209) {
+                    $('body').removeClass("show_small_navbar");
+                }
+            });
         });
-      });
 
     </script>
 <div id="sm-navbar" class="dirtyback small-navbar main-navbar nav-back">
@@ -389,7 +437,7 @@ policy created by Generate Privacy Policy</span></font></p>
 </div>
 </div>
 <div id="footer">
-<span class="copy">8BOB.com 2016 © &nbsp;
+<span class="copy">8BOB.com 2017 © &nbsp;
 <a href="/privacy">Privacy Policy</a> |
 <a href="/terms">Terms of Use</a> |
 <a href="mailto:the8bob@gmail.com ">Contact Us</a> |
@@ -413,9 +461,9 @@ policy created by Generate Privacy Policy</span></font></p>
     var google_custom_params = window.google_tag_params;
     var google_remarketing_only = true;
     /* ]]> */
-    </script>
+</script>
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-    </script>
+</script>
 <noscript>
 <div style="display:inline;">
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/961144676/?value=0&amp;guid=ON&amp;script=0"/>
@@ -425,44 +473,44 @@ policy created by Generate Privacy Policy</span></font></p>
  
 <script type="text/javascript">
 
-function sendSteel() {
-    (function () {
-        "use strict";
-        var e = null, b = "4.0.0",
-                n = "10910",
-                additional = "",
-                t, r, i;
-        try {
-            t = top.document.referer !== "" ? encodeURIComponent(top.document.referrer.substring(0, 2048)) : ""
-        } catch (o) {
-            t = document.referrer !== null ? document.referrer.toString().substring(0, 2048) : ""
-        }
-        try {
-            r = window && window.top && document.location && window.top.location === document.location ? document.location : window && window.top && window.top.location && "" !== window.top.location ? window.top.location : document.location
-        } catch (u) {
-            r = document.location
-        }
-        try {
-            i = parent.location.href !== "" ? encodeURIComponent(parent.location.href.toString().substring(0, 2048)) : ""
-        } catch (a) {
+    function sendSteel() {
+        (function () {
+            "use strict";
+            var e = null, b = "4.0.0",
+                    n = "10910",
+                    additional = "",
+                    t, r, i;
             try {
-                i = r !== null ? encodeURIComponent(r.toString().substring(0, 2048)) : ""
-            } catch (f) {
-                i = ""
+                t = top.document.referer !== "" ? encodeURIComponent(top.document.referrer.substring(0, 2048)) : ""
+            } catch (o) {
+                t = document.referrer !== null ? document.referrer.toString().substring(0, 2048) : ""
             }
-        }
-        var l, c = document.createElement("script"), h = null, p = document.getElementsByTagName("script"), d = Number(p.length) - 1, v = document.getElementsByTagName("script")[d];
-        if (typeof l === "undefined") {
-            l = Math.floor(Math.random() * 1e17)
-        }
-        h = "dx.steelhousemedia.com/spx?" + "dxver=" + b + "&shaid=" + n + "&tdr=" + t + "&plh=" + i + "&cb=" + l + additional;
-        c.type = "text/javascript";
-        c.src = ("https:" === document.location.protocol ? "https://" : "http://") + h;
-        v.parentNode.insertBefore(c, v)
-    })()
-}
+            try {
+                r = window && window.top && document.location && window.top.location === document.location ? document.location : window && window.top && window.top.location && "" !== window.top.location ? window.top.location : document.location
+            } catch (u) {
+                r = document.location
+            }
+            try {
+                i = parent.location.href !== "" ? encodeURIComponent(parent.location.href.toString().substring(0, 2048)) : ""
+            } catch (a) {
+                try {
+                    i = r !== null ? encodeURIComponent(r.toString().substring(0, 2048)) : ""
+                } catch (f) {
+                    i = ""
+                }
+            }
+            var l, c = document.createElement("script"), h = null, p = document.getElementsByTagName("script"), d = Number(p.length) - 1, v = document.getElementsByTagName("script")[d];
+            if (typeof l === "undefined") {
+                l = Math.floor(Math.random() * 1e17)
+            }
+            h = "dx.steelhousemedia.com/spx?" + "dxver=" + b + "&shaid=" + n + "&tdr=" + t + "&plh=" + i + "&cb=" + l + additional;
+            c.type = "text/javascript";
+            c.src = ("https:" === document.location.protocol ? "https://" : "http://") + h;
+            v.parentNode.insertBefore(c, v)
+        })()
+    }
 
 </script>
-<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
+
 
 </body></html>
