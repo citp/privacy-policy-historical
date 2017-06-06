@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wetnwildbeauty.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119073255id_/http%3A//www.wetnwildbeauty.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wetnwildbeauty.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606173148id_/http%3A//www.wetnwildbeauty.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -20,7 +20,7 @@ var BLANK_IMG = 'http://wnw.q2kbtf2a3dh1w1ucqx3v.netdna-cdn.com/js/spacer.gif';
 <![endif]-->
 <link rel="stylesheet" type="text/css" href="http://wnw.q2kbtf2a3dh1w1ucqx3v.netdna-cdn.com/media/css/a77a9b48b203fff2fd816bd81645feff.css">
 <link rel="stylesheet" type="text/css" href="http://wnw.q2kbtf2a3dh1w1ucqx3v.netdna-cdn.com/media/css/59b25e8e913f33fb10d4d35ebb6aaf04.css" media="all">
-<script src="https://script.crazyegg.com/pages/scripts/0037/1328.js?438997" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4&amp;appId=188925757802616"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" defer="" src="https://s3.amazonaws.com/downloads.mailchimp.com/js/goal.min.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" src="http://wnw.q2kbtf2a3dh1w1ucqx3v.netdna-cdn.com/media/js/5f7f1dccb4a83b6d5cbee193a82b708f.js"></script>
+<script src="https://script.crazyegg.com/pages/scripts/0037/1328.js?438997" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4&amp;appId=188925757802616"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" defer="" src="https://s3.amazonaws.com/downloads.mailchimp.com/js/goal.min.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" src="https://t.trackedlink.net/_dmpt.js"></script><script type="text/javascript" src="http://wnw.q2kbtf2a3dh1w1ucqx3v.netdna-cdn.com/media/js/7aba5e96421517a55a64d09494281753.js"></script>
 <!--[if lt IE 7]>
 <script type="text/javascript" src="http://wnw.q2kbtf2a3dh1w1ucqx3v.netdna-cdn.com/media/js/f7cde6bbfe78baef0a963803adf4d50d.js"></script>
 <![endif]-->
@@ -36,6 +36,96 @@ Mage.Cookies.domain = '.www.wetnwildbeauty.com';
 <script type="text/javascript">
 //<![CDATA[
 optionalZipCountries = ["HK","IE","MO","PA"];
+//]]>
+</script>
+<script type="text/javascript">
+(function(){
+var connector = document.createElement('script');
+connector.type = 'text/javascript';
+connector.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 't.trackedlink.net/_dmpt.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(connector, s);
+})();
+</script>
+<script type="text/javascript">
+//Email Capture For Quote
+var emailCapture = Class.create();
+emailCapture.prototype = {
+initialize: function(options) {
+this.options = Object.extend({
+elements: "input[name='billing[email]']"
+}, options || {} );
+// Observe blur on email field
+$$(this.options.elements).each(function(email) {
+Event.observe(email,'blur',this.captureEmail.bindAsEventListener(this));
+}.bind(this));
+},
+//capture email
+captureEmail: function(event) {
+var el = $(Event.element(event));
+//validate email
+if(el.value && this.validateEmail(el.value)){
+//ajax call
+new Ajax.Request('http://www.wetnwildbeauty.com/' + 'connector/ajax/emailcapture', {
+method: 'post',
+parameters:{
+email:el.value
+}
+});
+}
+},
+//email validation
+validateEmail: function (email) {
+var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+return re.test(email);
+}
+};
+//Email Capture For Newsletter
+var newsletterEmailCapture = Class.create();
+newsletterEmailCapture.prototype = {
+initialize: function(options) {
+this.options = Object.extend({
+elements: "input[name='email']"
+}, options || {} );
+// Observe blur on email field
+$$(this.options.elements).each(function(email) {
+Event.observe(email,'blur',this.captureEmail.bindAsEventListener(this));
+}.bind(this));
+},
+//capture email
+captureEmail: function(event) {
+var el = $(Event.element(event));
+//validate email
+if(el.value && this.validateEmail(el.value)){
+//ajax call
+new Ajax.Request('http://www.wetnwildbeauty.com/' + 'connector/ajax/emailcapture', {
+method: 'post',
+parameters:{
+email:el.value
+}
+});
+}
+},
+//email validation
+validateEmail: function (email) {
+var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+return re.test(email);
+}
+};
+</script><!-- Easy Email Capture For Checkout -->
+<script type="text/javascript">
+//<![CDATA[
+document.observe("dom:loaded", function() {
+window.emailcapture = new emailCapture();
+});
+//]]>
+</script>
+<!-- Easy Email Capture For Newsletter Field -->
+<script type="text/javascript">
+//<![CDATA[
+document.observe("dom:loaded", function() {
+window.newsletterEmailCapture = new newsletterEmailCapture();
+});
 //]]>
 </script>
 <script type="text/javascript">//<![CDATA[
@@ -91,6 +181,7 @@ _gaq.push(['_trackPageview']);
 </script>
 <script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5103528"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5103528&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
 <script type="text/javascript"> var $mcGoal = {'settings':{'uuid':'efcadf47c48a666899b39c6e8','dc':'us12'}}; (function() { var sp = document.createElement('script'); sp.type = 'text/javascript'; sp.async = true; sp.defer = true; sp.src = ('https:' == document.location.protocol ? 'https://s3.amazonaws.com/downloads.mailchimp.com' : 'http://downloads.mailchimp.com') + '/js/goal.min.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sp, s); })(); </script>
+<script id="sm-content" type="text/javascript" src="//sm-cdn.simplymeasured.com/js/snippets/wetNWildBeauty/wetNWildBeauty.min.js" async=""></script>
 <!-- Facebook Pixel Code -->
 <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -105,6 +196,22 @@ fbq('track', 'ViewContent');
 <noscript><img height="1" width="1" style="display:none"
 src="https://www.facebook.com/tr?id=1710140425937245&ev=PageView&noscript=1"
 /></noscript>
+<!-- End Facebook Pixel Code -->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function()
+{n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}
+;if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1666347597016116');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1666347597016116&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
 <!-- End Facebook Pixel Code -->
 
 
@@ -193,7 +300,7 @@ fjs.parentNode.insertBefore(js, fjs);
 </ul>
 <div class="clearfix"></div>
 <div class="header_offer_block f_right">
-<p><img alt="" src="http://wnw.q2kbtf2a3dh1w1ucqx3v.netdna-cdn.com/media/wysiwyg/wnw_freeshippingbanner.jpg"></p> </div>
+</div>
 </div>
 </div>
 <a href="javascript:void(0)" class="mobilemenu_icon">
@@ -205,7 +312,7 @@ fjs.parentNode.insertBefore(js, fjs);
 <div class="middle_wrapper">
 <ul class="nav_list f_left" id="ulmenu">
 <div class="header_offer_mobile mShow">
-<p><img alt="" src="http://wnw.q2kbtf2a3dh1w1ucqx3v.netdna-cdn.com/media/wysiwyg/wnw_freeshippingbanner.jpg"></p></div>
+</div>
 <li class="countries mShow has_subnav"><a href="javascript:;" class="us" title="CHANGE COUNTRY"><span>&nbsp;</span>CHANGE COUNTRY</a>
 <div>
 <div>
@@ -227,6 +334,8 @@ fjs.parentNode.insertBefore(js, fjs);
 </ul> -->
 </div>
 </div>
+</li>
+<li class=""><a title="New" href="http://www.wetnwildbeauty.com/new.html"> New</a>
 </li>
 <li class="has_subnav"><a title="Eyes" href="http://www.wetnwildbeauty.com/eyes.html"> Eyes</a>
 <div class="megamenu" id="megamenu_1">
@@ -320,15 +429,15 @@ fjs.parentNode.insertBefore(js, fjs);
 <span>Cheeks</span> </a> </li>
 <li>
 <a title="Foundation" href="http://www.wetnwildbeauty.com/face/foundation.html">
-<img alt="Foundation" src="http://wnw.q2kbtf2a3dh1w1ucqx3v.netdna-cdn.com/media/catalog/category/foundation-cat-img_1.jpg" width="130" height="185">
+<img alt="Foundation" src="http://wnw.q2kbtf2a3dh1w1ucqx3v.netdna-cdn.com/media/catalog/category/menu-foundation.png" width="130" height="185">
 <span>Foundation</span> </a> </li>
 <li>
 <a title="Concealer" href="http://www.wetnwildbeauty.com/face/concealer.html">
-<img alt="Concealer" src="http://wnw.q2kbtf2a3dh1w1ucqx3v.netdna-cdn.com/media/catalog/category/814_.jpg" width="130" height="185">
+<img alt="Concealer" src="http://wnw.q2kbtf2a3dh1w1ucqx3v.netdna-cdn.com/media/catalog/category/menu-concealer.png" width="130" height="185">
 <span>Concealer</span> </a> </li>
 <li>
 <a title="Powder" href="http://www.wetnwildbeauty.com/face/powder.html">
-<img alt="Powder" src="http://wnw.q2kbtf2a3dh1w1ucqx3v.netdna-cdn.com/media/catalog/category/824b_hr.jpg" width="130" height="185">
+<img alt="Powder" src="http://wnw.q2kbtf2a3dh1w1ucqx3v.netdna-cdn.com/media/catalog/category/menu-powder.png" width="130" height="185">
 <span>Powder</span> </a> </li>
 <li>
 <a title="Prime &amp; Set" href="http://www.wetnwildbeauty.com/face/primer.html">
@@ -365,36 +474,32 @@ fjs.parentNode.insertBefore(js, fjs);
 </li>
 <li class=""><a title="Sale" href="http://www.wetnwildbeauty.com/sale.html"> Sale</a>
 </li>
-<li class=""><a title="Holiday" href="http://www.wetnwildbeauty.com/holiday.html"> Holiday</a>
-</li>
 <li class="has_subnav norm_subnav_li" id="limitededitionmenu"><a title="Limited Edition" href="http://www.wetnwildbeauty.com/limited-editions.html">Limited Edition</a>
 <ul class="normal_sub_nav">
-<li><a title="Halloween" href="http://www.wetnwildbeauty.com/limited-editions/halloween.html">Halloween</a></li>
+<li><a title="Unicorn Glow" href="http://www.wetnwildbeauty.com/limited-editions/unicorn-glow.html">Unicorn Glow</a></li>
+<li><a title="Queen Of My Heart Collection" href="http://www.wetnwildbeauty.com/limited-editions/queen-of-my-heart-collection.html">Queen Of My Heart Collection</a></li>
 <li><a title="Exclusives" href="http://www.wetnwildbeauty.com/limited-editions/exclusives.html">Exclusives</a></li>
-<li><a title="Summer Collection" href="http://www.wetnwildbeauty.com/limited-editions/summer-collection.html">Summer Collection</a></li>
-<li><a title="Pop Art Collection" href="http://www.wetnwildbeauty.com/limited-editions/pop-art-collection.html">Pop Art Collection</a></li>
 </ul>
 </li>
-<li class="has_subnav norm_subnav_li"><a title="#STAYWILD" href="http://www.wetnwildbeauty.com/staywild">#STAYWILD</a>
+<li class="has_subnav norm_subnav_li"><a title="#STAYWILD" href="http://www.wetnwildbeauty.com/tutorials/?tuts=staywild">#STAYWILD</a>
 <ul class="normal_sub_nav">
-<li class="mShow"><a title="#STAYWILD" href="http://www.wetnwildbeauty.com/staywild">#STAYWILD</a></li>
-<li><a title="CELEBRITY CORNER" href="http://www.wetnwildbeauty.com/celebrity">CELEBRITY CORNER</a></li>
-<li><a title="BEAUTY AMBASSADORS" href="http://www.wetnwildbeauty.com/beauty-ambassadors">BEAUTY AMBASSADORS</a></li>
+<li class="mShow"><a title="#STAYWILD" href="http://www.wetnwildbeauty.com/tutorials/?tuts=staywild">#STAYWILD</a></li>
+<li><a title="FIND MY SHADE" href="http://www.wetnwildbeauty.com/shade-finder">FIND MY SHADE</a></li>
+<li><a title="GET THE LOOK" href="http://www.wetnwildbeauty.com/olapicgallery">GET THE LOOK</a></li>
 <li><a title="TUTORIALS" href="http://www.wetnwildbeauty.com/tutorials/?tuts=staywild">TUTORIALS</a></li>
-<li><a title="PRESS" href="http://www.wetnwildbeauty.com/press">PRESS</a></li>
 </ul>
 </li>
 <li class="mShow"><a title="CRUELTY FREE" href="http://www.wetnwildbeauty.com/cruelty-free" class="bunny_icon">CRUELTY FREE</a></li>
 <li class="mShow"><a title="WHERE TO BUY" href="http://www.wetnwildbeauty.com/store-locator">WHERE TO BUY</a></li>
-<li class="mShow"><a title="SIGN IN" href="https://www.wetnwildbeauty.com/customer/account/login/referer/aHR0cDovL3d3dy53ZXRud2lsZGJlYXV0eS5jb20vbGltaXRlZC1lZGl0aW9ucy9leGNsdXNpdmVzL2F1LW5hdHVyYWwtcGFsZXR0ZS1udWRlLWF3YWtlbmluZy5odG1sP19fX1NJRD1V/">SIGN IN</a></li>
-<li class="mShow"><a title="REGISTER" href="https://www.wetnwildbeauty.com/customer/account/login/referer/aHR0cDovL3d3dy53ZXRud2lsZGJlYXV0eS5jb20vbGltaXRlZC1lZGl0aW9ucy9leGNsdXNpdmVzL2F1LW5hdHVyYWwtcGFsZXR0ZS1udWRlLWF3YWtlbmluZy5odG1sP19fX1NJRD1V/">REGISTER</a></li>
+<li class="mShow"><a title="SIGN IN" href="https://www.wetnwildbeauty.com/customer/account/login/referer/aHR0cDovL3d3dy53ZXRud2lsZGJlYXV0eS5jb20vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvaW5kZXgvP19fX1NJRD1VJnE9Y29udG91cis,/">SIGN IN</a></li>
+<li class="mShow"><a title="REGISTER" href="https://www.wetnwildbeauty.com/customer/account/login/referer/aHR0cDovL3d3dy53ZXRud2lsZGJlYXV0eS5jb20vY2F0YWxvZ3NlYXJjaC9yZXN1bHQvaW5kZXgvP19fX1NJRD1VJnE9Y29udG91cis,/">REGISTER</a></li>
 </ul>
 <div class="ico_menu">
 <div class="bunny_wrap"> <a title="CRUELTY FREE" href="http://www.wetnwildbeauty.com/cruelty-free" class="bunny_icon"></a> </div>
 <div class="search_main_wrap"> <span class="search_icon"></span>
 <div class="search_form_wrap">
 <form id="search_mini_form" action="http://www.wetnwildbeauty.com/catalogsearch/result/" method="get">
-<input placeholder="Enter search here..." id="search" type="text" name="q" value="" class="search" maxlength="128">
+<input placeholder="Enter search here..." id="search" type="text" name="q" value="contour" class="search" maxlength="128">
 <!--<input type="submit" id="search_click" value="submit" />-->
 <a href="javascript:void(0);" id="search_click" onclick="Searchpro()">&nbsp;</a>
 <div id="search_autocomplete" class="search-autocomplete"></div>
@@ -604,12 +709,9 @@ $j(".foot_news_form").trigger('submit');
 <!--<li><a title="Fantasy Makers" href="http://www.wetnwildbeauty.com/tutorials/?tuts=fantasy_makers">Fantasy Makers</a></li> -->
 </ul>
 <div class="m_clear">
-<h4><a title="#STAYWILD" href="http://www.wetnwildbeauty.com/staywild">#STAYWILD</a></h4>
+<h4><a title="#STAYWILD" href="http://www.wetnwildbeauty.com/tutorials/?tuts=staywild">#STAYWILD</a></h4>
 <ul>
-<li><a title="Celebrity Corner" href="http://www.wetnwildbeauty.com/celebrity">Celebrity Corner</a></li>
-<li><a title="Beauty Ambassadors" href="http://www.wetnwildbeauty.com/beauty-ambassadors">Beauty Ambassadors</a></li>
 <li><a title="Tutorials" href="http://www.wetnwildbeauty.com/tutorials/?tuts=staywild">Tutorials</a></li>
-<li><a title="Press" href="http://www.wetnwildbeauty.com/press">Press</a></li>
 </ul>
 </div>
 </div>
@@ -638,7 +740,7 @@ $j(".foot_news_form").trigger('submit');
 </div>
 <div class="row" id="copyright">
 <div class="middle_wrapper">
-<div class="copy_left">Copyright 2016 wet <i>n</i> wild<sup>®</sup>. All rights reserved. | <a title="Privacy &amp; Security" href="http://www.wetnwildbeauty.com/privacy-policy">Privacy &amp; Security</a> | <a title="Terms &amp; Conditions" href="http://www.wetnwildbeauty.com/terms-of-use">Terms &amp; Conditions</a> | <a title="Site Map" href="http://www.wetnwildbeauty.com/sitemap">Site Map</a>
+<div class="copy_left">Copyright 2017 wet <i>n</i> wild<sup>®</sup>. All rights reserved. | <a title="Privacy &amp; Security" href="http://www.wetnwildbeauty.com/privacy-policy">Privacy &amp; Security</a> | <a title="Terms &amp; Conditions" href="http://www.wetnwildbeauty.com/terms-of-use">Terms &amp; Conditions</a> | <a title="Olapic Terms and Conditions" href="http://www.wetnwildbeauty.com/olapic-terms-and-conditions">Olapic Terms and Conditions</a> | <a title="Site Map" href="http://www.wetnwildbeauty.com/sitemap">Site Map</a>
 </div>
 </div>
 </div>
@@ -717,7 +819,8 @@ Hey Wild One! </div>
 </div>
 <div class="esns_box_lines"></div>
 <div id="esns_box_block_3">
-Missed your chance on our latest and greatest? Sign up to find out first about product restocks &amp; launches in addition to <b>10% OFF</b> your next order! </div>
+Missed your chance on our latest and greatest? Sign up to find out first about product restocks &amp; launches in addition to <b>10% OFF</b> your next order! <p class="discount-disclaimer">*10% off any purchase of up to $10.</p>
+</div>
 <div class="esns_box_lines"></div>
 <div id="esns_box_subscribe">
 <div id="esns_box_subscribe_form">
@@ -753,5 +856,5 @@ function checkdata(){
 // alert("enter pressed");
 // }
 }
-</script> <script type="text/javascript" src="//dispatch.crosman.com/labels/payment.js"></script>
+</script> 
 </body></html>
