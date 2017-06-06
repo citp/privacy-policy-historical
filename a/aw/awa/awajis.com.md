@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the awajis.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622140714id_/http%3A//awajis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awajis.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173314id_/https%3A//awajis.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Awajis
+# Privacy Policy for Awajis.Com
 
-**Effective: April, 2013 | Last Modified: January, 2014**
+**Effective: April, 2013 | Last Modified: January, 2016**
 
 At Awajis.Com, the privacy of our visitors is of extreme importance to us (See this article to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by Awajis.Com and how it is used.
 
@@ -18,7 +18,7 @@ Awajis.Com does use cookies to store information about visitors preferences, rec
 
   * Google, as a third party vendor, uses cookies to serve ads on Awajis.Com.
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to Awajis.Com and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <https://www.google.com/policies/privacy/>.
 
 
 
