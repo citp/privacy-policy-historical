@@ -1,25 +1,22 @@
-<!--The following is the downloaded HTML source of the srnnews.com privacy policy that was archived on 2016-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161125205410id_/http%3A//www.srnnews.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the srnnews.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606114209id_/http%3A//www.srnnews.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://web.archive.org/web/20161126050541/http://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+<!DOCTYPE html><html><head><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://web.archive.org/web/20170607134437/http://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="utf-8">
 <title>Privacy Policy - SRN News</title>
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=3&amp;caae84">
-<link rel="apple-touch-icon" sizes="114x114" href="/touch-icon-114x114.png?caae84">
-<link rel="apple-touch-icon" sizes="72x72" href="/touch-icon-72x72.png?caae84">
-<link rel="apple-touch-icon" href="/touch-icon-iphone.png?caae84">
-<link rel="stylesheet" href="/wp-content/themes/srnnews-NEW/css/normalize.css?caae84" type="text/css">
-<link rel="stylesheet" href="/wp-content/themes/srnnews-NEW/style.css?v=114&amp;caae84" type="text/css" media="screen">
-<link rel="stylesheet" href="/wp-content/themes/srnnews-NEW/print.css?caae84" type="text/css" media="print">
+<link rel="apple-touch-icon" href="/touch-icon-iphone.png?077d88">
+<link rel="stylesheet" href="/wp-content/themes/srnnews-NEW/css/normalize.css?077d88" type="text/css">
+<link rel="stylesheet" href="/wp-content/themes/srnnews-NEW/style.css?v=117&amp;077d88" type="text/css" media="screen">
+<link rel="stylesheet" href="/wp-content/themes/srnnews-NEW/print.css?077d88" type="text/css" media="print">
 <link href="http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="/wp-content/themes/srnnews-NEW/js/jquery-1.11.1.min.js?caae84"></script>
-<script type="text/javascript" src="/wp-content/themes/srnnews-NEW/js/jquery.validate.min.js?caae84"></script>
-<script type="text/javascript" src="/wp-content/themes/srnnews-NEW/js/js.cookie.js?caae84"></script>
-<script type="text/javascript" src="/wp-content/themes/srnnews-NEW/js/jquery.lazyload.min.js?caae84"></script>
+<script type="text/javascript" src="/wp-content/themes/srnnews-NEW/js/jquery-1.11.1.min.js?077d88"></script>
+<script type="text/javascript" src="/wp-content/themes/srnnews-NEW/js/jquery.validate.min.js?077d88"></script>
+<script type="text/javascript" src="/wp-content/themes/srnnews-NEW/js/js.cookie.js?077d88"></script>
+<script type="text/javascript" src="/wp-content/themes/srnnews-NEW/js/jquery.lazyload.min.js?077d88"></script>
 <script src="https://content.jwplatform.com/libraries/PH0c0ojs.js"></script>
-<script src="/wp-content/themes/srnnews-NEW/js/myScript.js?v=8&amp;caae84"></script>
+<script src="/wp-content/themes/srnnews-NEW/js/myScript.js?v=8&amp;077d88"></script>
 
 <!-- This site is optimized with the Yoast SEO plugin v3.2.5 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://www.srnnews.com/privacy-policy/">
@@ -52,13 +49,17 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="contact-form-7-css" href="/wp-content/plugins/contact-form-7/includes/css/styles.css?caae84" type="text/css" media="all">
-<script type="text/javascript" src="http://www.srnnews.com/wp-includes/js/jquery/jquery.js?caae84"></script>
-<script type="text/javascript" src="http://www.srnnews.com/wp-includes/js/jquery/jquery-migrate.min.js?caae84"></script>
+<link rel="stylesheet" id="contact-form-7-css" href="/wp-content/plugins/contact-form-7/includes/css/styles.css?077d88" type="text/css" media="all">
+<script type="text/javascript" src="http://www.srnnews.com/wp-includes/js/jquery/jquery.js?077d88"></script>
+<script type="text/javascript" src="http://www.srnnews.com/wp-includes/js/jquery/jquery-migrate.min.js?077d88"></script>
 <link rel="https://api.w.org/" href="http://www.srnnews.com/wp-json/">
 <link rel="alternate" type="application/json+oembed" href="http://www.srnnews.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.srnnews.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://www.srnnews.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.srnnews.com%2Fprivacy-policy%2F&amp;format=xml">
-<!-- WordPress Most Popular --><script type="text/javascript">/* <![CDATA[ */ jQuery.post("http://www.srnnews.com/wp-admin/admin-ajax.php", { action: "wmp_update", id: 370, token: "9ba4f50f85" }); /* ]]> */</script><!-- /WordPress Most Popular --><script>
+<!-- WordPress Most Popular --><script type="text/javascript">/* <![CDATA[ */ jQuery.post("http://www.srnnews.com/wp-admin/admin-ajax.php", { action: "wmp_update", id: 370, token: "2cfe9ecdb1" }); /* ]]> */</script><!-- /WordPress Most Popular --><link rel="icon" href="http://www.srnnews.com/media/2017/03/cropped-site-icon-2-32x32.png?077d88" sizes="32x32">
+<link rel="icon" href="http://www.srnnews.com/media/2017/03/cropped-site-icon-2-192x192.png?077d88" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="http://www.srnnews.com/media/2017/03/cropped-site-icon-2-180x180.png?077d88">
+<meta name="msapplication-TileImage" content="http://www.srnnews.com/media/2017/03/cropped-site-icon-2-270x270.png">
+<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -71,147 +72,228 @@ img.emoji {
 
 	    
     
-    <div class="topBar"><div><span class="the_name">Salem Radio Network News</span> <span class="the_date">Friday, November 25, 2016</span></div></div>
+    <div class="topBar"><div><span class="the_name">Salem Radio Network News</span> <span class="the_date">Tuesday, June 6, 2017</span></div></div>
+
     <div class="mainWrapper">
+
     	<header class="header">
+
             <div class="topHeader clearfix">
-                <h1 title="SRN News"><a href="http://www.srnnews.com/"><img src="/wp-content/themes/srnnews-NEW/images/srnnews-logo.svg?caae84" alt="SRN News" title="SRN News"></a></h1>
+
+                <h1 title="SRN News"><a href="http://www.srnnews.com/"><img src="/wp-content/themes/srnnews-NEW/images/srnnews-logo-v2.svg?077d88" alt="SRN News" title="SRN News"></a></h1>
+
                 <div class="header_search_container">
+
                 	<div class="search_wrap"><form method="get" id="searchform" action="http://www.srnnews.com">
 <input name="site_section" type="hidden" value="all">
 <input type="text" value="" name="s" id="s">
 <input type="submit" id="searchsubmit" class="searchBtn" value="Search">
 </form>
 </div>
+
                 </div>
+
                 <div class="header_listen_container">
-                	<a href="#" class="header_listen_btn mL script" data-url="http://www.srnnews.com/audio-news/srn-hourly-news-11-25-16-0200-pm-cst/" onclick="ga('send', 'event', 'Audio', 'listen', 'Latest News-Listen Now');">Latest News » <span>Listen Now</span></a>
-                    <noscript><a href="http://www.srnnews.com/audio-news/srn-hourly-news-11-25-16-0200-pm-cst/" class="header_listen_btn">Latest News &raquo; <span>Listen Now</span></a></noscript>
+
+                	<a href="#" class="header_listen_btn mL script" data-url="http://www.srnnews.com/audio-news/srn-hourly-news-06-06-17-0600-am-cdt/" onclick="ga('send', 'event', 'Audio', 'listen', 'Latest News-Listen Now');">Latest News » <span>Listen Now</span></a>
+
+                    <noscript><a href="http://www.srnnews.com/audio-news/srn-hourly-news-06-06-17-0600-am-cdt/" class="header_listen_btn">Latest News &raquo; <span>Listen Now</span></a></noscript>
+
                 </div>
+
             </div>
+
             <div class="mainNav_wrap">
+
                 <nav>
+
                     <ul class="mainNav">
+
                         <li class="mainNav_li"><a href="http://www.srnnews.com/">Home</a></li>
+
                         <li class="mainNav_li"><a href="http://www.srnnews.com/audio/">Audio</a>
+
                             <ul class="dropNav">
+
                                 <li><a href="http://www.srnnews.com/audio/top-of-the-hour/">Top of the Hour</a></li>
+
                                 <li><a href="http://www.srnnews.com/audio/news/">News</a></li>
+
                                 <li><a href="http://www.srnnews.com/audio/greg-clugston/">Greg Clugston</a></li>
+
                                 <li><a href="http://www.srnnews.com/audio/linda-kenyon/">Linda Kenyon</a></li>
+
                                 <li><a href="http://www.srnnews.com/audio/wally-hindes/">Wally Hindes</a></li>
+
                                 <li><a href="http://www.srnnews.com/audio/michael-harrington/">Michael Harrington</a></li>
+
                                 <li><a href="http://www.srnnews.com/audio/business/">Business</a></li>
+
                                 <li><a href="http://www.srnnews.com/audio/sports/">Sports</a></li>
+
                             </ul>
+
                         </li>
-                        <li class="mainNav_li"><a href="http://www.srnnews.com/video-news/first-lady-accepts-white-house-christmas-tree/">Video</a>
-                            <ul class="dropNav">
-                                <li><a href="http://www.srnnews.com/video/us/">U.S.</a></li>
-                                <li><a href="http://www.srnnews.com/video/world/">World</a></li>
-                                <li><a href="http://www.srnnews.com/video/politics/">Politics</a></li>
-                                <li><a href="http://www.srnnews.com/video/business/">Business</a></li>
-                                <li><a href="http://www.srnnews.com/video/sports/">Sports</a></li>
-                                <li><a href="http://www.srnnews.com/video/health/">Health</a></li>
-                                <li><a href="http://www.srnnews.com/video/science/">Science</a></li>
-                            </ul>
-                        </li>
+
                         <li class="mainNav_li"><a href="http://www.srnnews.com/us/">U.S.</a></li>
+
                         <li class="mainNav_li"><a href="http://www.srnnews.com/world">World</a></li>
+
                         <li class="mainNav_li"><a href="http://www.srnnews.com/politics/">Politics</a></li>
+
                         <li class="mainNav_li"><a href="http://www.srnnews.com/business/">Business</a></li>
+
                         <li class="mainNav_li"><a href="http://www.srnnews.com/religious-news/">Religious News</a></li>
+
                         <li class="mainNav_li"><a href="http://www.srnnews.com/sports/">Sports</a></li>
+
                         <li class="mainNav_li"><a href="http://www.srnnews.com/health/">Health</a></li>
+
                         <li class="mainNav_li"><a href="http://www.srnnews.com/science/">Science</a></li>
+
                         <li class="mainNav_li"><a href="http://www.srnnews.com/opinion/">Opinion</a>
+
                             <ul class="dropNav">
+
                                 <li><a href="http://www.srnnews.com/opinion/columns/">Columns</a></li>
+
                                 <li>
+
                                 <ul class="subDropNav">
+
                                     <li><a href="http://www.srnnews.com/opinion/columns/michael-medved/">Michael Medved</a></li>
+
                                     <li><a href="http://www.srnnews.com/opinion/columns/hugh-hewitt/">Hugh Hewitt</a></li>
+
                                     <li><a href="http://www.srnnews.com/opinion/columns/dennis-prager/">Dennis Prager</a></li>
-                                    <!--<li><a href="http://www.srnnews.com/opinion/lee-habeeb/">Lee Habeeb</a></li>-->
+
                                 </ul>
+
                                 </li>
+
                                 <li><a href="http://www.srnnews.com/opinion/cartoons/">Cartoons</a></li>
+
                             </ul>
+
                         </li>
+
                     </ul>
+
                 </nav>
+
             </div>
+
             <div class="mobile_nav_wrap">
+
                 <nav class="mobile_nav_container">
+
                 	<ul class="mobile_nav">
-                        <li class="mobile_nav_li"><div class="menu_btn mobile_drop_btn"><img src="/wp-content/themes/srnnews-NEW/images/menu-icon.svg?caae84" alt="Menu"> Menu</div></li>
-                        <li class="mobile_nav_li_right"><div class="mobile_search_btn search_drop_btn"><img src="/wp-content/themes/srnnews-NEW/images/search.svg?caae84" alt="Search"></div></li>
+
+                        <li class="mobile_nav_li"><div class="menu_btn mobile_drop_btn"><img src="/wp-content/themes/srnnews-NEW/images/menu-icon.svg?077d88" alt="Menu"> Menu</div></li>
+
+                        <li class="mobile_nav_li_right"><div class="mobile_search_btn search_drop_btn"><img src="/wp-content/themes/srnnews-NEW/images/search.svg?077d88" alt="Search"></div></li>
+
                     </ul>
+
                     <ul class="mobile_drop_nav clearfix">
+
                     	<li class="mobile_listen_btn">
-                        	<a class="mL script" data-url="http://www.srnnews.com/audio-news/srn-hourly-news-11-25-16-0200-pm-cst/" onclick="ga('send', 'event', 'Audio', 'listen', 'Latest News-Listen Now Mobile');">Latest News » Listen Now</a>
-                    		<noscript><a href="http://www.srnnews.com/audio-news/srn-hourly-news-11-25-16-0200-pm-cst/">Latest News &raquo; Listen Now</a></noscript>
+
+                        	<a class="mL script" data-url="http://www.srnnews.com/audio-news/srn-hourly-news-06-06-17-0600-am-cdt/" onclick="ga('send', 'event', 'Audio', 'listen', 'Latest News-Listen Now Mobile');">Latest News » Listen Now</a>
+
+                    		<noscript><a href="http://www.srnnews.com/audio-news/srn-hourly-news-06-06-17-0600-am-cdt/">Latest News &raquo; Listen Now</a></noscript>
+
                         </li>
+
                         <li><a href="http://www.srnnews.com/">Home</a></li>
+
                         <li><a class="mobile_drop_sub_nav_btn" href="#" onclick="return true;">News Categories <span></span></a>
+
                         	<ul class="mobile_drop_sub_nav">
+
                                 <li><a href="http://www.srnnews.com/us/">U.S.</a></li>
+
                                 <li><a href="http://www.srnnews.com/world">World</a></li>
+
                                 <li><a href="http://www.srnnews.com/politics/">Politics</a></li>
+
                                 <li><a href="http://www.srnnews.com/business/">Business</a></li>
+
                                 <li><a href="http://www.srnnews.com/religious-news/">Religious News</a></li>
+
                                 <li><a href="http://www.srnnews.com/sports/">Sports</a></li>
+
                                 <li><a href="http://www.srnnews.com/health/">Health</a></li>
+
                                 <li><a href="http://www.srnnews.com/science/">Science</a></li>
+
                             </ul>
+
                         </li>
+
                         <li><a class="mobile_drop_sub_nav_btn" href="#" onclick="return true;">Audio <span></span></a>
+
                         	<ul class="mobile_drop_sub_nav">
+
                             	<li><a href="http://www.srnnews.com/audio/top-of-the-hour/">Top of the Hour</a></li>
+
                                 <li><a href="http://www.srnnews.com/audio/news/">News</a></li>
+
                                 <li><a href="http://www.srnnews.com/audio/greg-clugston/">Greg Clugston</a></li>
+
                                 <li><a href="http://www.srnnews.com/audio/linda-kenyon/">Linda Kenyon</a></li>
+
                                 <li><a href="http://www.srnnews.com/audio/wally-hindes/">Wally Hindes</a></li>
+
                                 <li><a href="http://www.srnnews.com/audio/michael-harrington/">Michael Harrington</a></li>
+
                                 <li><a href="http://www.srnnews.com/audio/business/">Business</a></li>
+
                                 <li><a href="http://www.srnnews.com/audio/sports/">Sports</a></li>
+
                                 <li><a href="http://www.srnnews.com/audio/">View All Audio</a></li>
+
                             </ul>
+
                         </li>
-                        <li><a class="mobile_drop_sub_nav_btn" href="#" onclick="return true;">Video <span></span></a>
-                            <ul class="mobile_drop_sub_nav">
-                            	<li><a href="http://www.srnnews.com/video-news/first-lady-accepts-white-house-christmas-tree/">Latest Video</a></li>
-                                <li><a href="http://www.srnnews.com/video/us/">U.S.</a></li>
-                                <li><a href="http://www.srnnews.com/video/world/">World</a></li>
-                                <li><a href="http://www.srnnews.com/video/politics/">Politics</a></li>
-                                <li><a href="http://www.srnnews.com/video/business/">Business</a></li>
-                                <li><a href="http://www.srnnews.com/video/sports/">Sports</a></li>
-                                <li><a href="http://www.srnnews.com/video/health/">Health</a></li>
-                                <li><a href="http://www.srnnews.com/video/science/">Science</a></li>
-                            </ul>
-                        </li>
+
                         <li><a class="mobile_drop_sub_nav_btn" href="#" onclick="return true;">Opinion <span></span></a>
+
                             <ul class="mobile_drop_sub_nav">
+
                                 <li><a href="http://www.srnnews.com/opinion/columns/">Columns</a></li>
+
                                 <li><a href="http://www.srnnews.com/opinion/cartoons/">Cartoons</a></li>
+
                                 <li><a href="http://www.srnnews.com/opinion/columns/michael-medved/">Michael Medved</a></li>
+
                                 <li><a href="http://www.srnnews.com/opinion/columns/hugh-hewitt/">Hugh Hewitt</a></li>
+
                                 <li><a href="http://www.srnnews.com/opinion/columns/dennis-prager/">Dennis Prager</a></li>
-                                <!--<li><a href="http://www.srnnews.com/opinion/lee-habeeb/">Lee Habeeb</a></li>-->
+
                                 <li><a href="http://www.srnnews.com/opinion/">View All Opinion</a></li>
+
                             </ul>
+
                         </li>
+
                     </ul>
+
                     <div class="mobile_search_wrap">
+
                         <div class="search_wrap"><form method="get" id="searchform" action="http://www.srnnews.com">
 <input name="site_section" type="hidden" value="all">
 <input type="text" value="" name="s" id="s">
 <input type="submit" id="searchsubmit" class="searchBtn" value="Search">
 </form>
 </div>
+
                 	</div>
+
                 </nav>
+
             </div>
+
     	</header>	
     <h2 class="pageTitle">Privacy Policy</h2>
         <div class="contentWrapper clearfix">
@@ -384,11 +466,11 @@ img.emoji {
 	<div>
         <h3 class="sectionTitle">Most Popular</h3>
         <ul>
-                    <li class="clearfix"><img width="130" height="100" src="http://www.srnnews.com/media/2016/11/147972090426170g1miPWQ771-130x100.jpg?caae84" class="attachment-thumbnail size-thumbnail wp-post-image" alt="San Antonio Police Department personnel investigate the scene after Det. Benjamin Marconi was fatally shot Sunday, Nov. 20, 2016, in San Antonio. Marconi was writing out a traffic ticket to a motorist when he was shot to death in his squad car Sunday outside police headquarters by another driver who pulled up from behind, authorities said. (Edward A. Ornelas/The San Antonio Express-News via AP)" srcset="http://www.srnnews.com/media/2016/11/147972090426170g1miPWQ771-130x100.jpg 130w, http://www.srnnews.com/media/2016/11/147972090426170g1miPWQ771-525x400.jpg 525w" sizes="(max-width: 130px) 100vw, 130px"><a href="http://www.srnnews.com/two-police-officers-shot-in-san-antonio-st-louis-a-suspect-killed/" title="Two police officers shot in San Antonio, St. Louis; a suspect killed">Two police officers shot in San Antonio, St. Louis; a suspect killed<br><span>Nov 21, 2016</span></a></li>
-                        <li class="clearfix"><img width="130" height="100" src="http://www.srnnews.com/media/2016/11/1479411329447704BKz9GyQQMg-130x100.jpg?caae84" class="attachment-thumbnail size-thumbnail wp-post-image" alt="FILE - In this Nov. 15, 2016 file photo, Sen. Jeff Sessions, R-Ala., arrives at Trump Tower in New York. As one of President-elect Donald Trump’s closest and most consistent allies, Sessions is a likely pick for a top post in his administration. But the last time Sessions faced Senate confirmation it didn’t go well. (AP Photo/Carolyn Kaster, File)" srcset="http://www.srnnews.com/media/2016/11/1479411329447704BKz9GyQQMg-130x100.jpg 130w, http://www.srnnews.com/media/2016/11/1479411329447704BKz9GyQQMg-525x400.jpg 525w" sizes="(max-width: 130px) 100vw, 130px"><a href="http://www.srnnews.com/trump-selects-sen-jeff-sessions-as-us-attorney-general/" title="Trump selects Sen. Jeff Sessions as US attorney general">Trump selects Sen. Jeff Sessions as US attorney general<br><span>Nov 18, 2016</span></a></li>
-                        <li class="clearfix"><img width="130" height="100" src="http://www.srnnews.com/media/2016/11/1479411329447704BKz9GyQQMg-130x100.jpg?caae84" class="attachment-thumbnail size-thumbnail wp-post-image" alt="FILE - In this Nov. 15, 2016 file photo, Sen. Jeff Sessions, R-Ala., arrives at Trump Tower in New York. As one of President-elect Donald Trump’s closest and most consistent allies, Sessions is a likely pick for a top post in his administration. But the last time Sessions faced Senate confirmation it didn’t go well. (AP Photo/Carolyn Kaster, File)" srcset="http://www.srnnews.com/media/2016/11/1479411329447704BKz9GyQQMg-130x100.jpg 130w, http://www.srnnews.com/media/2016/11/1479411329447704BKz9GyQQMg-525x400.jpg 525w" sizes="(max-width: 130px) 100vw, 130px"><a href="http://www.srnnews.com/trump-selects-sen-jeff-sessions-as-us-attorney-general/" title="Trump selects Sen. Jeff Sessions as US attorney general">Trump selects Sen. Jeff Sessions as US attorney general<br><span>Nov 18, 2016</span></a></li>
-                        <li class="clearfix"><img width="130" height="100" src="http://www.srnnews.com/media/2016/11/147959130768445cWUEuIRmhG-130x100.jpg?caae84" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Map shows air quality index.; 2c x 5 inches; 96.3 mm x 127 mm;" srcset="http://www.srnnews.com/media/2016/11/147959130768445cWUEuIRmhG-130x100.jpg 130w, http://www.srnnews.com/media/2016/11/147959130768445cWUEuIRmhG-525x400.jpg 525w" sizes="(max-width: 130px) 100vw, 130px"><a href="http://www.srnnews.com/amid-wildfires-north-carolina-getaway-turns-to-ghost-town-2/" title="Amid wildfires, North Carolina getaway turns to ghost town">Amid wildfires, North Carolina getaway turns to ghost town<br><span>Nov 19, 2016</span></a></li>
-                        <li class="clearfix"><img width="130" height="100" src="http://www.srnnews.com/media/2016/11/147959130768445cWUEuIRmhG-130x100.jpg?caae84" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Map shows air quality index.; 2c x 5 inches; 96.3 mm x 127 mm;" srcset="http://www.srnnews.com/media/2016/11/147959130768445cWUEuIRmhG-130x100.jpg 130w, http://www.srnnews.com/media/2016/11/147959130768445cWUEuIRmhG-525x400.jpg 525w" sizes="(max-width: 130px) 100vw, 130px"><a href="http://www.srnnews.com/amid-wildfires-north-carolina-getaway-turns-to-ghost-town-2/" title="Amid wildfires, North Carolina getaway turns to ghost town">Amid wildfires, North Carolina getaway turns to ghost town<br><span>Nov 19, 2016</span></a></li>
+                    <li class="clearfix"><img width="130" height="100" src="http://www.srnnews.com/media/2017/05/1496221574849724doFWyNPz94-130x100.jpg?077d88" class="attachment-thumbnail size-thumbnail wp-post-image" alt="1496221574849724doFWyNPz94"><a href="http://www.srnnews.com/huge-bomb-blast-kills-dozens-wounds-hundreds-in-afghan-capital-10/" title="Huge bomb blast kills dozens, wounds hundreds in Afghan capital">Huge bomb blast kills dozens, wounds hundreds in Afghan capital<br><span>May 31, 2017</span></a></li>
+                        <li class="clearfix"><img width="125" height="87" src="http://www.srnnews.com/media/2017/05/Griffin.jpg?077d88" class="attachment-thumbnail size-thumbnail wp-post-image" alt="FILE - In this Feb. 11, 2017 file photo, comedian Kathy Griffin attends the Clive Davis and The Recording Academy Pre-Grammy Gala in Beverly Hills, Calif. Griffin says she knew her new photo shoot with photographer Tyler Shields would “make noise.” She appears in a photo posted online Tuesday, May 30, 2017, holding what looks like President Donald Trump’s bloody, severed head. Many on Twitter called for the comedian to be jailed. Griffin told photographer Shields in a video on his Twitter page Tuesday that they will have to move to Mexico to avoid federal prison for their latest collaboration. (Photo by Rich Fury/Invision/AP, File)"><a href="http://www.srnnews.com/kathy-griffin-apologizes-trump-photo-went-far/" title="Kathy Griffin apologizes for Trump photo: ‘I went too far’">Kathy Griffin apologizes for Trump photo: ‘I went too far’<br><span>May 31, 2017</span></a></li>
+                        <li class="clearfix"><img width="130" height="100" src="http://www.srnnews.com/media/2017/05/1496225207556076M4li3stH7m-130x100.jpg?077d88" class="attachment-thumbnail size-thumbnail wp-post-image" alt="1496225207556076M4li3stH7m" srcset="http://www.srnnews.com/media/2017/05/1496225207556076M4li3stH7m-130x100.jpg 130w, http://www.srnnews.com/media/2017/05/1496225207556076M4li3stH7m-525x400.jpg 525w" sizes="(max-width: 130px) 100vw, 130px"><a href="http://www.srnnews.com/russia-fires-cruise-missiles-at-islamic-state-targets-from-mediterranean-3/" title="Russia fires cruise missiles at Islamic State targets from Mediterranean">Russia fires cruise missiles at Islamic State targets from Mediterranean<br><span>May 31, 2017</span></a></li>
+                        <li class="clearfix"><img width="130" height="100" src="http://www.srnnews.com/media/2017/05/14962215693292006HhqbHpXYi-130x100.jpg?077d88" class="attachment-thumbnail size-thumbnail wp-post-image" alt="14962215693292006HhqbHpXYi"><a href="http://www.srnnews.com/israeli-documents-from-days-after-war-have-familiar-ring-50-years-on-2/" title="Israeli documents from days after war have familiar ring 50 years on">Israeli documents from days after war have familiar ring 50 years on<br><span>May 31, 2017</span></a></li>
+                        <li><a href="http://www.srnnews.com/farmer-says-gay-marriage-views-cost-him-market-spot/" title="Michigan farmer says marriage views cost him market spot">Michigan farmer says marriage views cost him market spot<br><span>May 31, 2017</span></a></li>
                     </ul>
     </div>
 </div>
@@ -408,8 +490,8 @@ img.emoji {
     <div class="sideColBox toon">
     	<div>
             <h3 class="sectionTitle">Editorial Cartoons</h3><a href="http://www.srnnews.com/opinion/cartoons/" class="viewMoreHeadingLink">View More »</a>
-                        <a href="http://www.srnnews.com/cartoon/steve-breen-for-nov-18-2016/?type=all"><img width="700" height="499" src="http://www.srnnews.com/media/2016/11/147950103492742568aP0zHT9s-700x499.jpg?caae84" class="attachment-large size-large wp-post-image" alt="147950103492742568aP0zHT9s" srcset="http://www.srnnews.com/media/2016/11/147950103492742568aP0zHT9s-700x499.jpg 700w, http://www.srnnews.com/media/2016/11/147950103492742568aP0zHT9s-270x192.jpg 270w, http://www.srnnews.com/media/2016/11/147950103492742568aP0zHT9s-859x612.jpg 859w, http://www.srnnews.com/media/2016/11/147950103492742568aP0zHT9s-285x203.jpg 285w" sizes="(max-width: 700px) 100vw, 700px"></a>
-            <p><strong>Steve Breen</strong><br><span>Fri, Nov 18, 2016</span></p>
+                        <a href="http://www.srnnews.com/cartoon/steve-breen-for-jun-02-2017/?type=all"><img width="700" height="509" src="http://www.srnnews.com/media/2017/06/1496431818509267oS6oAv4hZR-700x509.jpg?077d88" class="attachment-large size-large wp-post-image" alt="1496431818509267oS6oAv4hZR" srcset="http://www.srnnews.com/media/2017/06/1496431818509267oS6oAv4hZR-700x509.jpg 700w, http://www.srnnews.com/media/2017/06/1496431818509267oS6oAv4hZR-270x196.jpg 270w, http://www.srnnews.com/media/2017/06/1496431818509267oS6oAv4hZR-859x624.jpg 859w, http://www.srnnews.com/media/2017/06/1496431818509267oS6oAv4hZR-285x207.jpg 285w" sizes="(max-width: 700px) 100vw, 700px"></a>
+            <p><strong>Steve Breen</strong><br><span>Fri, Jun 2, 2017</span></p>
                     </div> 
     </div>
     
@@ -444,9 +526,13 @@ img.emoji {
             
         </div><!--end-contentWrapper-->
     
-         
-    </div><!--end-mainWrapper-->
     
+     
+
+    </div><!--end-mainWrapper-->
+
+    
+
     <div class="ad728x90_wrap">
     <div class="ad728x90" id="div-gpt-ad-1372348347236-5">
         <script type="text/javascript">
@@ -457,111 +543,194 @@ img.emoji {
     </div>
     <span>Advertisement</span>
 </div>
+
+
     <footer class="footer">
+
 		<div class="footerTop">
+
         	<div class="clearfix">
+
                 <div class="footer_follow clearfix">
+
                 	<p>Follow<br>Us</p> <a href="https://www.facebook.com/SalemRadioNetworkNews" title="Facebook" target="_blank"><span class="icon-facebook"></span></a><a href="https://twitter.com/SRNNews" title="Twitter" target="_blank"><span class="icon-twitter"></span></a><a href="http://www.srnnews.com/rss-feeds/" title="RSS Feeds"><span class="icon-feed"></span></a>
+
                 </div>
+
                 <a class="footer_subscribe footer_large_link" href="#" data-popup-id="newsletter_subscribe">
+
                 	Subscribe to Our<br>Newsletters
+
                     <span class="icon-newspaper"></span>
+
                 </a>
+
                 <a class="footer_contact footer_large_link" title="Contact Us" href="http://www.srnnews.com/contact-srn-news/">
+
                 	Contact<br>Us
-                    <img src="/wp-content/themes/srnnews-NEW/images/envelope2.svg?caae84">
+
+                    <img src="/wp-content/themes/srnnews-NEW/images/envelope2.svg?077d88">
+
                 </a>
+
                 <a class="btt footer_large_link" title="Back To Top" href="#top">
+
                 	Back To<br>Top
+
                     <span class="icon-arrow-up"></span>
+
                 </a>               
+
             </div>
+
         </div>
+
         <div class="mobile_footer clearfix">
+
             <a class="mobile_footer_follow_btn" href="https://www.facebook.com/SalemRadioNetworkNews" title="Facebook" target="_blank"><span class="icon-facebook"></span></a>
+
             <a class="mobile_footer_follow_btn" href="https://twitter.com/SRNNews" title="Twitter" target="_blank"><span class="icon-twitter"></span></a>
+
             <a class="mobile_footer_follow_btn" href="http://www.srnnews.com/rss-feeds/" title="RSS Feeds"><span class="icon-feed"></span></a>
+
             <a class="mobile_footer_btn" href="#" data-popup-id="newsletter_subscribe">Subscribe to Our Newsletters</a>
+
             <a class="mobile_footer_btn" href="http://www.srnnews.com/contact-srn-news/">Contact Us</a>
+
             <a class="mobile_footer_btn" href="http://www.srnnews.com/about-srn-news/">About SRN News</a>
+
         </div>
+
         <div class="footerBottom">
+
             <div class="linkWrapper">
+
             <a href="#siteDir" id="siteDir" class="siteDir">Site Directory</a>
+
             	<div class="footerLinks clearfix">
+
                     <ul>
+
                         <li class="title">News</li>
+
                         <li><a href="http://www.srnnews.com/us/">U.S.</a></li>
+
                         <li><a href="http://www.srnnews.com/world/">World</a></li>
+
                         <li><a href="http://www.srnnews.com/politics/">Politics</a></li>
+
                         <li><a href="http://www.srnnews.com/business/">Business</a></li>
+
                         <li><a href="http://www.srnnews.com/religious-news/">Religious News</a></li>
+
                         <li><a href="http://www.srnnews.com/sports/">Sports</a></li>
+
                         <li><a href="http://www.srnnews.com/health/">Health</a></li>
+
                         <li><a href="http://www.srnnews.com/science/">Science</a></li>
+
                     </ul>
+
                     <ul>
+
                         <li class="title">Audio</li>
+
                         <li><a href="http://www.srnnews.com/audio/top-of-the-hour/">Top of the Hour</a></li>
+
                         <li><a href="http://www.srnnews.com/audio/news/">News</a></li>
+
                         <li><a href="http://www.srnnews.com/audio/greg-clugston/">Greg Clugston</a></li>
+
                         <li><a href="http://www.srnnews.com/audio/linda-kenyon/">Linda Kenyon</a></li>
+
                         <li><a href="http://www.srnnews.com/audio/wally-hindes/">Wally Hindes</a></li>
+
                         <li><a href="http://www.srnnews.com/audio/michael-harrington/">Michael Harrington</a></li>
+
                         <li><a href="http://www.srnnews.com/audio/business/">Business</a></li>
+
                         <li><a href="http://www.srnnews.com/audio/sports/">Sports</a></li>
+
                     </ul>
+
+
                     <ul>
-                        <li class="title">Video</li>
-                        <li><a href="http://www.srnnews.com/video/us/">U.S.</a></li>
-                        <li><a href="http://www.srnnews.com/video/world/">World</a></li>
-                        <li><a href="http://www.srnnews.com/video/politics/">Politics</a></li>
-                        <li><a href="http://www.srnnews.com/video/business/">Business</a></li>
-                        <li><a href="http://www.srnnews.com/video/sports/">Sports</a></li>
-                        <li><a href="http://www.srnnews.com/video/health/">Health</a></li>
-                        <li><a href="http://www.srnnews.com/video/science/">Science</a></li>
-                    </ul>
-                    <ul>
+
                         <li class="title">Opinion</li>
+
                         <li><a href="http://www.srnnews.com/opinion/michael-medved/">Michael Medved</a></li>
+
                         <li><a href="http://www.srnnews.com/opinion/hugh-hewitt/">Hugh Hewitt</a></li>
+
                         <li><a href="http://www.srnnews.com/opinion/dennis-prager/">Dennis Prager</a></li>
+
                         <li><a href="http://www.srnnews.com/opinion/cartoons/">Editorial Cartoons</a></li>
+
                     </ul>
+
                     <ul class="last">
+
                         <li class="title">Misc</li>
+
                         <li><a href="http://www.srnnews.com/about-srn-news/">About SRN News</a></li>
+
                         <li class="rss"><a href="http://www.srnnews.com/rss-feeds/">RSS Feeds</a></li>
+
                         <li><a href="http://www.srnnews.com/advertise-with-us/">Advertise With Us</a></li>
+
                         <li><a href="http://www.srnnews.com/become-affiliate/">Become an Affiliate</a></li>
+
                         <li><a href="http://www.srnnews.com/contact-technical-support/">Contact Technical Support</a></li>
+
                     </ul>
+
                 </div>
+
             </div>
+
             <div class="copyright clearfix">
+
                 <p>This site is a proud member of <a target="_blank" href="http://www.salemnational.com">Salem National</a>, a subsidiary of <a href="http://salemmedia.com/" target="_blank">Salem Media Group</a>.</p>
+
                 <p>Other Salem National sites include:
-                <a target="_blank" href="http://www.billbennett.com">BillBennett.com</a>,
+
                 <a target="_blank" href="http://www.mikeonline.com">MikeOnline.com</a>,
+
                 <a target="_blank" href="http://www.dennisprager.com">DennisPrager.com</a>,
+
                 <a target="_blank" href="http://www.michaelmedved.com">MichaelMedved.com</a>,
+
                 <a target="_blank" href="http://www.hughhewitt.com">HughHewitt.com</a>,
+
                 <a href="http://www.metaxastalk.com" target="_blank">MetaxasTalk.com</a>,
+
+                <a href="http://www.larryelder.com" target="_blank">LarryElder.com</a>,
+
                 <a href="http://www.srnstore.com" target="_blank">SRNStore.com</a>,
+
                 <a target="_blank" href="http://www.medvedhistorystore.com">MedvedHistoryStore.com</a></p>
-                <p>Copyright © 2016 SRNNews.com and Salem National. All Rights Reserved. &nbsp;<a href="http://www.srnnews.com/privacy-policy/">Privacy Policy</a> | <a href="http://www.srnnews.com/terms-of-use/">Terms of Use</a></p>
+
+                <p>Copyright © 2017 SRNNews.com and Salem National. All Rights Reserved. &nbsp;<a href="http://www.srnnews.com/privacy-policy/">Privacy Policy</a> | <a href="http://www.srnnews.com/terms-of-use/">Terms of Use</a></p>
+
             </div>
+
         </div>
+
     </footer><!--end-footer-->
 
+
+
 	<div id="audioModal"><div id="audioContent"></div><a href="#" class="modalCloseBtn">X CLOSE</a></div>
+
     
+
     <!--Newsletter Popup-->
+
     <div id="newsletter_subscribe" class="newsletter_subscribe popup_wrap">
     <a href="#" class="takeover_close_btn js_popup_close">X</a>
     
     <div class="subscribe_container">
-        <img src="/wp-content/themes/srnnews-NEW/images/header-srnnews.png?caae84" class="subscribe_header" alt="Free Email Newsletters from SRNNews.com">
+        <img src="/wp-content/themes/srnnews-NEW/images/header-srnnews.png?077d88" class="subscribe_header" alt="Free Email Newsletters from SRNNews.com">
         <form id="ajax_signup" method="post" action="/subscribe-process-NEW.php" novalidate="novalidate">         	
             <div class="clearfix">
                 <div class="subscribe_checkbox_wrap clearfix">
@@ -656,11 +825,19 @@ img.emoji {
         <small>In addition to your newsletter(s), you will receive email updates and special offers from Salem Radio Network. <a href="http://www.srnnews.com/privacy-policy/" target="_blank">Privacy Policy</a> | <a href="http://www.srnnews.com/terms-of-use/" target="_blank">Terms of Use</a></small>
     </div> 
     <a href="#" class="takeover_close_btn_bottom js_popup_close">X close</a>
-</div>    
+</div>
+    
+
     <!--Takeover Popup-->
-        
+
+    
+    
+
     <!--Email a Friend Popup-->
-        
+
+    
+    
+
 	        <script type="text/javascript">
         // <![CDATA[
         var disqus_shortname = 'srnnews';
@@ -683,22 +860,38 @@ img.emoji {
         }());
         // ]]>
         </script>
-        <script type="text/javascript" src="http://www.srnnews.com/wp-includes/js/comment-reply.min.js?caae84"></script>
-<script type="text/javascript" src="/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?caae84"></script>
+        <script type="text/javascript" src="http://www.srnnews.com/wp-includes/js/comment-reply.min.js?077d88"></script>
+<script type="text/javascript" src="/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?077d88"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _wpcf7 = {"loaderUrl":"\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ...","cached":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="/wp-content/plugins/contact-form-7/includes/js/scripts.js?caae84"></script>
-<script type="text/javascript" src="http://www.srnnews.com/wp-includes/js/wp-embed.min.js?caae84"></script>
-   
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"910d5571d6","applicationID":"2908963","transactionName":"blRbNUtRChYFARJfVlceeAJNWQsLSxIHUVwUU1UAV1s=","queueTime":0,"applicationTime":976,"atts":"QhNYQwNLGRg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript" src="/wp-content/plugins/contact-form-7/includes/js/scripts.js?077d88"></script>
+<script type="text/javascript" src="http://www.srnnews.com/wp-includes/js/wp-embed.min.js?077d88"></script>
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"910d5571d6","applicationID":"2908963","transactionName":"blRbNUtRChYFARJfVlceeAJNWQsLSxIHUVwUU1UAV1s=","queueTime":0,"applicationTime":751,"atts":"QhNYQwNLGRg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+
 
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
-Object Caching 1127/1154 objects using apc
+Object Caching 1082/1123 objects using apc
 Application Monitoring using New Relic
 
- Served from: www.srnnews.com @ 2016-11-25 15:50:07 by W3 Total Cache --></body></html>
+ Served from: www.srnnews.com @ 2017-06-06 07:42:10 by W3 Total Cache -->
+
+<!-- W3 Total Cache: Page cache debug info:
+Engine:             disk: enhanced
+Cache key:          www.srnnews.com/privacy-policy/_index.html
+Caching:            enabled
+Creation Time:      0.761s
+Header info:
+Link:                <http://www.srnnews.com/?p=370>; rel=shortlink
+Pragma:              no-cache
+Cache-Control:       max-age=0, private, no-store, no-cache, must-revalidate
+Content-Type:         text/html; charset=UTF-8
+--></body></html>
