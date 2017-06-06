@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealoz.com privacy policy that was archived on 2016-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160222114914id_/http%3A//www.dealoz.com/price/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealoz.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091443id_/http%3A//dealoz.com/price/privacy) for the most accurate reproduction.*
 
 # DealOz.com Privacy Policy
 
@@ -103,5 +103,5 @@ If you have any questions about this privacy statement, the practices of this si
 
 DealOz Support Team   
 DealOz.com   
-4800 Converse Ave STE 22474   
-Cheyenne WY 82009 
+109 E 17TH ST STE 5273   
+Cheyenne WY 82001 
