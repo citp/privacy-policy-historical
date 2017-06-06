@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marcustheatres.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224094313id_/http%3A//www.marcustheatres.com/about-marcus-theatres/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marcustheatres.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111130id_/http%3A//www.marcustheatres.com/about-marcus-theatres/privacy-policy) for the most accurate reproduction.*
 
 # 
 
