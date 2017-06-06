@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misterwhat.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318063651id_/http%3A//www.misterwhat.com/content/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misterwhat.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135106id_/http%3A//www.misterwhat.com/content/terms) for the most accurate reproduction.*
 
 # Terms of use | MisterWhat
 
@@ -20,7 +20,7 @@ User: the internet user who visits MISTERWHAT and uses its Services;
 
 Client: authorized natural entities/persons, legal persons, partners or private associations who complete the Registration procedure to access the registration-based services provided by MISTERWHAT. 
 
-1.3 In the online portal MISTERWHAT, users can search for different information about companies and authorized natural entities/persons. This information is recorded directly in the MISTERWHAT business directory by legal representatives of firms and authorized natural persons in question or is taken from publicly accessible documents. Clients present their activities in MISTERWHAT by using the services offered by MISTERWHAT, or use the different registration-based services provided by MISTERWHAT. 
+1.3 In the online portal MISTERWHAT, users can search for different information about companies and authorized natural entities/persons. This information is recorded directly in the MISTERWHAT business directory by legal representatives of firms and authorized natural persons in question or is taken from publicly accessible documents, not protected by copyright and accessible by anyone. Clients present their activities in MISTERWHAT by using the services offered by MISTERWHAT, or use the different registration-based services provided by MISTERWHAT. 
 
 The Services offered by MISTERWHAT include, but are not limited to, the following: 
 
@@ -34,7 +34,7 @@ B. MISTERWHAT may at any time enable features allowing users and/or clients to a
 
 2.1 Using the portal services the client or user agrees to fully comply with the terms throughout the use of MISTERWHAT. 
 
-2.2 In order to present their business or to access specific services, clients need to register. Registration to MISTERWHAT is free. If the client has not completed an application form for registration, when data were taken from public sources, MISTERWHAT reserves the right to cancel the registration information without explaining it in writing to the client, in case it becomes impossible to update data from public sources. As per the requirements of the registration form, all the information submitted by the client should be accurate, genuine, complete and current. The client is required to verify his publications at regular intervals and update his contact details and information. In case the client fails to meet the obligations concerning the absolute correctitude and completeness of the information in the fields marked mandatory, MISTERWHAT has the right to delete his registration temporarily or permanently and to forbid the client to use the registration-based services provided by MISTERWHAT. 
+2.2 In order to present their business or to access specific services, clients need to register. Registration to MISTERWHAT is free. If the client has not completed an application form for registration, when data were taken from public sources, not protected by copyright and accessible by anyone, MISTERWHAT reserves the right to cancel the registration information without explaining it in writing to the client, in case it becomes impossible to update data from public sources not protected by copyright and accessible by anyone. As per the requirements of the registration form, all the information submitted by the client should be accurate, genuine, complete and current. The client is required to verify his publications at regular intervals and update his contact details and information. In case the client fails to meet the obligations concerning the absolute correctitude and completeness of the information in the fields marked mandatory, MISTERWHAT has the right to delete his registration temporarily or permanently and to forbid the client to use the registration-based services provided by MISTERWHAT. 
 
 2.3 Registration-based services can be used only by individuals who have unlimited legal capacity, who are over the age of 18, authorised legal persons and natural persons with residence and registered office in any country in the world. When a customer transfers his initial residence to another country access to the portal will be automatically cancelled or the data will be transferred to the portal of the country where the new residence is, if applicable. The client is required to immediately inform MISTERWHAT when he permanently changes his/her residence. 
 
@@ -76,7 +76,7 @@ B. MISTERWHAT may at any time enable features allowing users and/or clients to a
 
 ### 4\. Security and Obligations of Registered Users
 
-4.1 The user/client agree to access the Portal and use its Services in accordance with Italian Law 196/2003 regarding the processing of personal data, Law 30/2005 regarding Industrial Property and Law 633/1941 regarding Copyright, Law 70/2003 regarding ecommerce as well as Laws against ‘cybercrimes’. This includes, but is not limited to: the user/client agrees to: a) not to abuse the portal for any illegal purposes; b) not to use the Portal to publish or transmit in any way any information or content that is incorrect, offensive, abusive, not legitimate, unlawful, illicit, pornographic, explicit, gross, obscene, racist, insulting, defamatory; c) not to transmit any materials, contents, messages inviting others to act against the law; d) not to spam, not to send commercial and/or promotional messages; e) not to upload, install, spread viruses, malware and other obnoxious sofwares and programs in the network and system. Not to interfere with, damage, erase, delete goods and/or personal information; f) not to perform actions that could voluntarily, artificially or in any way overload the Portal and its Services. 
+4.1 The user/client agrees to access the Portal and use its Services in accordance with Italian Law 196/2003 regarding the processing of personal data, Law 30/2005 regarding Industrial Property and Law 633/1941 regarding Copyright, Law 70/2003 regarding ecommerce as well as Laws against ‘cybercrimes’. This includes, but is not limited to: the user/client agrees to: a) not to abuse the portal for any illegal purposes; b) not to use the Portal to publish or transmit in any way any information or content that is incorrect, offensive, abusive, not legitimate, unlawful, illicit, pornographic, explicit, gross, obscene, racist, insulting, defamatory; c) not to transmit any materials, contents, messages inviting others to act against the law; d) not to spam, not to send commercial and/or promotional messages; e) not to upload, install, spread viruses, malware and other obnoxious sofwares and programs in the network and system. Not to interfere with, damage, erase, delete goods and/or personal information; f) not to perform actions that could voluntarily, artificially or in any way overload the Portal and its Services. 
 
 4.2 (Security and Access) When registering on the MISTERWHAT portal, the account holder is responsible for all activities conducted through his/her account. The account holder is not allowed to share the password with third parties. The user/client has the sole responsibility to securely store, preserve, manage and correctly use the password: the user/client agrees to take all necessary measures to protect and correctly use the password, and to immediately notify MISTERWHAT about lost password, unauthorized use of the password and any possible abuse. MISTERWHAT can in any moment and without notice modify and/or disable the Password for technical and security reasons, communicating the change to the user/client, who will need to follow the instructions to access the Portal again. In order to prevent possible abuses, the account holder is required to use the available 'Sign Out' button upon leaving the portal. 
 
@@ -104,7 +104,7 @@ B. MISTERWHAT may at any time enable features allowing users and/or clients to a
 
 MISTERWHAT binds itself to comply with data protection laws and to use the data entrusted by clients only within legal limits. This privacy policy applies only to our site www.misterwhat.com. MISTERWHAT does not assume any responsibility for the contents of the external websites and web pages that can be accessed through the external links available on the portal and that are not operated by us. 
 
-The business directory provides free access to publicly available information (business name, address, phone number) on business and professionals. Data can be added, edited, removed by Users/Clients for free, through Registration and email confirmation (Users/Clients need to click on the confirmation link provided in the email). Data treatment is performed by MISTERWHAT according to the prescriptions contained in the data protection code, considering that the data is about companies, professional and organisations that operate publicly and are accessible directly and from a number of publicly available sources; as such, data can be treated by third parties that must adhere to the prescriptions contained in the code for the protection of personal data, including those of art.130, regarding unsolicited/undesired communication. Every company/professional/organization listed on MISTERWHAT can exercise their rights as per art. 7 of D.Lgs. 196/03, including the right to: 
+The business directory Misterwhat provides free access to publicly available information not protected by copyright and accessible by anyone (business name, address, phone number) on businesses and professionals. Data can be added, edited, removed by Users/Clients for free, through Registration and email confirmation (Users/Clients need to click on the confirmation link provided in the email). Data treatment is performed by MISTERWHAT according to the prescriptions contained in the data protection code, considering that the data is about companies, professional and organisations that operate publicly and are accessible directly and from a number of publicly available sources not protected by copyright and accessible by anyone.; as such, data can be treated by third parties that must adhere to the prescriptions contained in the code for the protection of personal data, including those of art.130, regarding unsolicited/undesired communication. Every company/professional/organization listed on MISTERWHAT can exercise their rights as per art. 7 of D.Lgs. 196/03, including the right to: 
 
 Obtain the confirmation of existence of his/her personal data and get them in intelligible form; Ask to update, amend, correct, integrate, delete his/her information; 
 
@@ -157,5 +157,54 @@ You can disable or selectively turn off our cookies or third-party cookies in yo
 ### 11\. Severability
 
 11.1 If some provisions of these Terms, in whole or in part, are no longer valid, or will lose their legal effect later, the validity of the Terms will not be affected more than that. Instead of the inefficient regulations the legal provisions will come in force automatically. The same applies in case of any possible omissions in the terms. 
+
+### 12\. Cookies
+
+This Cookie Policy explains what cookies are, the different types of cookies used on the MisterWhat Sites, and how you can change or delete them. We hope that this policy helps you understand our use of cookies. 
+
+### What are Cookies?
+
+Cookies are small text files that are stored on your computer or mobile device and hold data relating to a specific website. Cookies are placed on the user's computer or mobile device by that website and accessed each time a user browses the site. They are widely used in order to make websites work, or work in a better, more efficient way, to make websites easier to use, to support the provision of relevant functionalities to the user. Cookies enable websites to recognise you and remember important information that will make your use of a website more convenient, for example by remembering your user preferences. We primarily use cookies to collect data that help us improve our website by knowing which parts of the site are being visited, how users are accessing each page and what items on each page they prefer to click on. The types of information typically collected by cookies include information relating to your use of the MisterWhat Sites, your browser type, your device's IP address, how you arrived on one of the MisterWhat Sites etc.  
+Cookies come in different categories. By using this Site you accept our use of cookies. If you wish to restrict or block web browser cookies which are set on your device, You do this through your browser settings at any time. The Help function within your browser should tell you how. For further information on how to change your browser settings and on cookies in general, you may visit [www.aboutcookies.org](http://www.aboutcookies.org/), which contains comprehensive information on how to do this on a wide variety of desktop browsers. Please note that preventing the use of cookies is likely to impact the performance and functionality of this Site, or prevent you from using certain services provided by this Site. If you choose to prevent the use of cookies, we cannot guarantee that all services and functionalities provided by this Site will perform or work correctly during your visit. 
+
+### Types of Cookies used
+
+Further information about the types of cookies that are used on this Site can be found below. 
+
+#### Essential Cookies
+
+These cookies are strictly necessary to the MisterWhat Sites in order to enable you to navigate through the websites and to use their features. No information about your browsing habits is gathered by these cookies. Without these essential and absolutely necessary cookies, certain aspects of the Sites would not work. 
+
+#### Analytics Cookies
+
+Analytics cookies collect information about how users interact with the MisterWhat Sites, and enable us to improve the way the website works, provide better products and service to our users and identify any areas of the Sites that may need maintenance.  
+For example, analytics cookies show us which are the most frequently visited pages on the MisterWhat Sites, help us record any difficulties you have with the navigation, show us where error messages are delivered and whether advertising is effective or not. This allows us to see the main patterns of usage on the Sites. Some of the analytics cookies we use may be operated by trusted third parties. Accepting analytics cookies is a condition of using the MisterWhat Sites and by continuing to use the Sites, you agree we can place analytics cookies on your device.  
+These cookies are just used for statistics, they don't collect information that identifies individuals and we can't identify you personally through the use of these cookies. All information provided by these cookies is anonymous. 
+
+#### Functional Cookies
+
+We use functional cookies to remember how you use the MisterWhat Sites and the choices you make. For example, functional cookies allow this Site to remember your user name, log in details, and any customisations you make to the Sites during your visit. We can't identify you personally through the use of these cookies, nor do these cookies track your browsing habits, but they do help us serve you with ads. 
+
+#### Advertising or targeting cookies
+
+Targeting or advertising cookies collect information about your browsing behaviour and habits in order to make advertising more relevant to you and your interests and help measure the effectiveness of advertising on the Site.  
+We use third party cookies to make advertising relevant to the content/pages you are visiting and to your interests. The MisterWhat Sites uses targeting or advertising cookies to provide Google, Criteo and other advertising agencies and advertising networks with information on your visit so that they can present you with relevant advertising that you may find interesting; we link to social networking websites like Facebook, Twitter who may then use information about your visit to target advertising to you on other properties. 
+
+#### Other Cookies
+
+Some of the cookies on the MisterWhat Sites are operated by third parties, such as Google, Facebook and Twitter. We do not control these third parties or their use of cookies, and it is not possible for us to manage these cookies. Please visit the websites of those third parties for details on how they use cookies. 
+
+### How to control Cookies
+
+You are not obliged to accept cookies and may refuse to accept cookies from the MisterWhat Sites at any time by activating the setting on your browser which allows you to refuse cookies. Further information about the procedure to follow in order to disable cookies can be found on your Internet browser provider's website via your help screen. Please be aware that if cookies are disabled, not all functionalities of the MisterWhat Sites may function or operate as intended. 
+
+You may wish to refer to the resources listed below:  
+\- Terminology and definitions - For more information see <http://www.allaboutcookies.org/>  
+\- To learn more about how Google uses data when you use its partners' sites or apps, please visit <http://www.google.com/intl/en/policies/privacy/partners/>  
+\- For further information about DoubleClick cookies and how to opt out, please see <https://support.google.com/adsense/answer/2839090>  
+\- For further information about Google Analytics, including how to opt out, please see <https://support.google.com/analytics/answer/6004245> and <https://tools.google.com/dlpage/gaoptout>  
+\- For further information about Criteo's privacy policy, advertising practices, and for information on how to prevent being tracked for advertising purposes by Criteo, please see <http://www.criteo.com/us/privacy-policy>
+
+If you would like to learn more about advertising networks, affiliate programmes and how cookies are used for advertising purposes, please see [www.youronlinechoices.com/uk](http://www.youronlinechoices.com/uk). This is a useful portal run by IAB (Internet Advertising Bureau), provides all the information about online advertising and the choices available to you. To prevent being tracked by advertising networks and other organisations please see <http://www.youronlinechoices.com/uk/your-ad-choices>
 
 Pavia, 2014 - FABULABS S.p.A. - Via Ticinello 22 - 27100 Pavia - Italy 
