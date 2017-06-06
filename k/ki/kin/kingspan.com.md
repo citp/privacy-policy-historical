@@ -1,224 +1,104 @@
-> *The following text is extracted and transformed from the kingspan.com privacy policy that was archived on 2016-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160920041350id_/http%3A//www.kingspan.com/site-services/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingspan.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606221900id_/https%3A//www.kingspan.com/group/website-privacy-notice) for the most accurate reproduction.*
 
-# Privacy & Cookies - Kingspan Group PLC
+# Privacy Policy | Kingspan Group | Kingspan | Group
 
-### **Kingspan Limited – Privacy and Cookie Policy for www.kingspan.com**
+Please read this privacy notice carefully as it sets out how Kingspan Holdings (Ireland) Limited and its affiliates (“ **Kingspan”** ) use your personal information. When you use our website, Kingspan Holdings (Ireland) Limited and the affiliates of Kingspan Holdings (Ireland) Limited that own the part of the website which you are accessing shall act as joint data controllers who processes your personal data. [Click here to access a list of those affiliates of Kingspan Holdings (Ireland) Limited.](https://www.kingspan.com/group/legal-entities)
 
-Kingspan Limited ("We") are committed to protecting and respecting your privacy.
+If you have any questions about this privacy notice or do not agree with it, please contact us at [admin@kingspan.](mailto:admin@kingspan.ie)[com](mailto:admin@kingspan.com) or on +353 (0) 42 969 8000 before using this website. The [Terms and Conditions of  Website Use ](https://www.kingspan.com/group/terms-conditions)explain the terms on which you are allowed to use our website www.kingspan.com, which provides a gateway to our products and services, as well as lots of other useful information. 
 
-This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+Kingspan manufactures insulation and building envelope systems, allowing our customers to create world-class, high performing buildings in all sectors. Kingspan processes your personal data in accordance with data protection laws in the countries in which it operates. 
 
-For the purpose of the Data Protection Act 1998 (the **Act** ), the data controller is Kingspan Limited of Greenfield Business Park No. 2, Greenfield, Holywell, Flintshire, North Wales. CH8 7GJ
+We may change this privacy notice from time to time by updating this page. You should check this page from time to time to ensure you are happy with any changes. 
 
-### Information we may collect from you
+#### What is personal information?
 
-We may collect and process the following data about you:
+"Personal information" is information that identifies or makes identifiable an individual, which we collect when you use this website.  If you provide personal information of another person, please make sure that you have the right to share that information with us.
 
-  * Information that you provide by filling in forms on our site ( **our site** ). This includes information provided at the time of registering to use our site where registration is required or requesting further services. We may also ask you for information if you report a problem with our site.
-  * If you contact us, we may keep a record of that correspondence.
-  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. 
+#### What information do we collect?
 
+When you use this website, please bear in mind that we may record: 
 
-
-### Ip addresses
-
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
-
-### Information about our use of cookies
-
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site.
-
-### What is a cookie?
-
-Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device 
-
-Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. The cookies used on this website have been categorised based on the categories found in the ICC UK Cookie guide. A list of all the cookies used on this website by category is set out below, with a note as to whether we use them; and then some details of the actual cookies on the site, their purpose, and what to do if you do not consent to any specific cookies being used. **Please note however that since we only use cookies where they will be of benefit, any failure to consent may limit your use of this site.**
-
-Category 1: Strictly necessary cookies:
-
-These cookies enable services you have specifically asked for.
-
-These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided.
-
-### We do use this category of cookie on our site
-
-Category 2: Performance Cookies:
-
-These cookies collect anonymous information on the pages visited.
-
-These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
-
-_By using our website, you agree that we can place these types of cookies on your devise._
-
-### We do use this category of cookie on our site
-
-Category 3: Functionality Cookies:
-
-These cookies remember choices you make to improve your experience.
-
-These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
-
-_By using our website, you agree that we can place these types of cookies on your devise._
-
-### We do use this category of cookie on our site
-
-These are the cookies used on our site
-
-**Cookie name** |  **Category** |  **Purpose** |  **More information**  
----|---|---|---  
-Session ID cookie  
-  |  1 |  Standard ASP.NET cookie containing the user’s session ID.  
-  |  Expires as soon as user navigates away  
-   
-Culture cookie  
-  |  2 |  Utilised to store the users CMS culture  
-  |  Type: Culture Code, Expires: 1 year  
-   
-Visitor Status Cookie  
-  |  2 |  Sets the visitor status (unknown/first visit/more visits)  
-  |  Type: Integer, Expires: 1 year  
-   
-Current Visit Status Cookie  
-  |  2 |  Sets the current visit status (throughout current day)  
-  |  Type: Integer, Expires: 23 hours  
-   
-URL Referrer Cookie  
-  |  2 |  User URL referrer. Remembers the page the user last visited.  
-  |  Type: Url String, Expires: 1 day  
-   
-Form State Cookie  
-  |  2 |  Utilised for a check if the form state needs to be restored. Decides if the submitted fields in the form should be repopulated.  
-  |  fields in the form should be repopulated. Type: Integer - ID, Expires: 10 minutes  
-   
-Google Analytics  
-  |  2 |  Utilised by Google Analytics to track visitor’s data on the website.  
-  |  [http://code.google.com/apis/  
-analytics/docs/concepts/ga  
-ConceptsCookies.html](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html)  
-   
-Case Study Region  
-  |  2 |  Used to store the last selected region in the case study filters.  
-  |  Type: string,  Expires as soon as user navigates away  
-   
-Case Study Product Range  
-  |  2 |  Used to store and reselect the last selected product range in the case study filters.  
-  |  Type: string,  Expires as soon as user navigates away  
-   
-Case Study Sector  
-  |  2 |  Used to store and reselect the last selected sector in the case study filters.  
-  |  Type: string,  Expires as soon as user navigates away  
-   
-Case Study  
-  |  2 |  Used to store and reselect the last selected case study in the case study filters.  
-  |  Type: string,  Expires as soon as user navigates away  
-   
-Search Filter Path  
-  |  2 |  Used to store and reselect the last selected search filter value from the dropdown lists in the site search.  
-  |  Type: string,  Expires as soon as user navigates away  
-   
-Search Results Count  
-  |  2 |  Used to store and reselect the last selected number of search results to be displayed in the site search.  
-  |  Type: integer,  Expires as soon as user navigates away  
-   
-Preferred Culture cookie  
-  |  3 |  Storing details of the users preferred CMS culture |  Type: Culture Code, Expires: 1 year  
-   
-CurrentTheme  
-  |  3 |  Sets the current chosen theme  
-  |  Type: Integer - ID, Expires: 23 hours  
-   
-VisitorStatus  
-  |  3 |  Sets the visitor status (unknown/first visit/more visits).  
-  |  Type: Integer - ID, 1 year  
-   
-Product Search Node IDs  
-  |  3 |  Used to store the products returned from the last site search which are then displayed in a search results list on each product page.  
-  |  Type: List of integers,  Expires as soon as user navigates away  
-   
-Project GUID  
-  |  3 |  Used to store the unique ID of the current My Project session for retrieving folders/files  
-  |  Type: GUID - ID, Expires: 1 year  
-   
-Recently Viewed Nodes  
-  |  3 |  Used to store the IDs of the most recently viewed pages for displaying in the footer  
-  |  Type: List of integer IDs, Expires: 1 year  
-   
-User Category  
-  |  3 |  Used to store the selected role from the homepage for filtering site content  
-  |  Type: Integer, Expires: 1 year  
-   
-Geo Location Attempted  
-  |  3 |  Used to determine whether bing geo location has attempted to work out the location of the current user and display the correct language accordingly. Happens once per session.  
-  |  Expires as soon as the user navigates away  
-   
-  
-Mobile
-
-**Cookie name** |  **Category** |  **Purpose** |  **More information**  
----|---|---|---  
- Min Value  
-  |  2 |   Used to store minimum value entered in u-value app by user for searching.  
-  |   Type: Decimal, Expires as soon as user navigates away  
-   
-Max Value  
-  |  2 |  Used to store maximum value entered in u-value app by user for searching.  
-  |  Type: Decimal, Expires as soon as user navigates away  
-   
-  
-You may be able block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our site.
-
-_**If you do not consent to cookies being placed, you must notify us of the cookies to which you do not consent.**_
-
-Except for essential cookies, all cookies will expire after  twelve months.
-
-### Where we store your personal data
-
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. Kingspan Limited will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-### Uses made of the information
-
-We use information held about you in the following ways:
-
-  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
-  * To carry out our obligations arising from any contracts entered into between you and us.
-  * To allow you to participate in interactive features of our service, when you choose to do so.
-  * To notify you about changes to our service.
+  * the areas of the website that you visit; 
+  * your activity on the website, such as products viewed, resources that you download and any information you provide to us; and 
+  * information about your computer, such as which browser you are using, your network location and the type of connection you are using (e.g. broadband, ADSL etc) and your IP address. 
 
 
 
-We may also use your data, to provide you with information about goods and services which may be of interest to you and we may contact you about these by post or telephone.
+We do this by using cookies. [See our document about Cookie Policy & Control ** __** for more information on what a cookie is and how we use them on our website.](https://www.kingspan.com/group/cookie-policy-control)
 
-If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
+When you, amongst other activities, set up a user account, submit an online enquiry, request information from us, register for a newsletter, or register for an event, we may ask for some or all of the following information: 
 
-If you are a new customer, we will contact you by electronic means only if you have consented to this.
-
-### Disclosure of your information
-
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
-
-We may disclose your personal information to third parties:
-
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If Kingspan Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or to protect the rights, property, or safety of Kingspan Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * your name; 
+  * role;
+  * company name; 
+  * email address; 
+  * postal address; 
+  * telephone number; and
+  * project name.
 
 
 
-### Your rights
+Once you create and log in to your user account for, or submit information through our website we will know who you are and your activities on this website and information about you and/or your company may be recorded on our systems.
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at Greenfield Business Park No. 2, Greenfield, Holywell, Flintshire, North Wales. CH8 7GJ
+Some mandatory information is required and you’ll see that indicated by a star (*), but other information is optional and if you don’t want to give it to us, don’t worry.  But it will help us to respond to your enquiry.
 
-### Access to information
+We may also collect your personal data from telephone calls and/or other interactions with you.    
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+#### What do we do with the information we collect? 
 
-### Changes to our privacy policy
+We use this information for many purposes. 
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+The main purpose for which we use this information is to provide you with the website and our products and services (whether available via the website or offline). We also use the information for: 
 
-### Contact
+  * internal record keeping; 
+  * product and service development; 
+  * developing our website;
+  * fulfilling your requests and answering your queries or complaints; 
+  *  market research;
+  * if you are a customer or other contact of ours, updating our information about our contact with you on our customer relationship management system; and 
+  * marketing our own products and services to you. 
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Legal & Compliance, Kingspan Group Plc, Dublin Road, Kingscourt, Co. Cavan, Ireland
+ 
+
+#### Marketing
+
+We would like to provide you with information about Kingspan’s products and services, and other information from Kingspan, which we think you may find interesting. We may send you such information by post, email, and/or telephone if you agree we can or unless you have asked us not to do so (see below). 
+
+If you are a customer of ours or you have previously asked us for information on our products and services, we may send you information by email unless you have asked us not to do so (see below).  
+We do not provide your personal information to external organisations (i.e. to merchants, distributors and retailers, which are outside of Kingspan) for their own direct marketing or other purposes without your explicit consent. 
+
+If at any time you do not want your information used for direct marketing purposes by a Kingspan company, please contact the relevant Kingspan company from which you have received marketing so that they can unsubscribe you from their marketing lists. If you have received email marketing from a Kingspan company and decide that you no longer wish to receive marketing emails from them, you will usually also be able to opt out of receiving further email marketing from them by following an unsubscribe link in the email, or by such other means as we may communicate to you.  Please note that as we do not as a group operate a global marketing database which means we are unable to unsubscribe you from marketing from all Kingspan companies centrally.
+
+#### Who do we share this information with? 
+
+As well as Kingspan Holdings (Ireland) Limited  (the Kingspan website operator) your personal information may be processed by the relevant affiliate of Kingspan Holdings (Ireland) Limited that owns the part of the website which you are accessing.  Thus, we may disclose your personal information to affiliates of Kingspan Holdings (Ireland) Limited or (if you have so permitted) third parties located in countries other than your own.   [Click here to access a list of those affiliates of Kingspan Holdings (Ireland) Limited.](https://www.kingspan.com/group/data-controllers)  Please bear in mind that the countries to which your personal data is sent/accessed from may have a different standard of data protection than the country in which you are situated. However, we have put in place protections to ensure that your information is safeguarded.
+
+Where organisations outside of Kingspan provide you with a service on our behalf (e.g. sending you a piece of literature that you have requested from us), we may share your personal information with those organisations who will only use the information to provide the relevant service. However, we will retain control of your personal information and any third party service provider that we use must act in accordance with our instructions. We may also share your personal information with a purchaser or potential purchaser of our business.
+
+In some circumstances, we may have to disclose your personal information by law, because a court or the police or other law enforcement agency has asked us for it.
+
+#### Retention of your information 
+
+We only retain your personal information for as long as is necessary for us to use your personal information as described above or to comply with our legal obligations.
+
+Where your personal information is processed with your consent (e.g. for the marketing purposes), such personal information is retained until you revoke the consent for such processing.
+
+#### Your rights, how to get copies of or amend the information we have collected and how make a  complaint.
+
+You may request details of the personal information that we hold about you under data protection laws. If you would like a copy of the information held about you please make your request to the relevant Kingspan company. If you think any information held by a Kingspan company about you is incorrect or incomplete, please write to the Kingspan company as soon as possible and they will delete, block, correct or update any information as soon as they can.
+
+If you wish to make a complaint about an alleged breach of the law, we ask that you send us your complaint in writing to [admin@kingspan.](mailto:admin@kingspan.ie)[com](mailto:admin@kingspan.com).  We endeavour to respond to complaints within a reasonable period (usually 30 days).  
+
+#### Security
+
+Kingspan is committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures where relevant to safeguard and secure the information we collect. 
+
+If at any point you suspect or become aware of a security incident (e.g. your password for accessing your registered account on this website is stolen or you receive suspicious communication from someone holding themselves out to be a Kingspan employee or from a dupe website claiming to be affiliated with Kingspan), please forward the communication to us or report the incident by email to [admin@kingspan.](mailto:admin@kingspan.ie)[com](mailto:admin@kingspan.com) or in writing to Kingspan Holdings (Ireland) Limited, Dublin Road, Kingscourt, Co Cavan, A82 XY31 Republic of Ireland as soon as possible. 
+
+#### Linking to other websites
+
+Our website or marketing email messages sometimes include links to other third party websites which are not within our control. Once you have left our website/marketing email message, we cannot be held responsible for the content of these third party websites or the protection and privacy of any information which you provide to those websites. You should exercise caution and look at the privacy policy applicable to the website in question. 
+
+We use cookies on our website www.kingspan.com. To find out more about the cookies we use, or to change your cookie preferences i.e. to remove your consent to our use of certain categories of cookies, please visit our [Cookie Policy & Control](https://web.archive.org/group/cookie-policy-control) page.
+
+Please click "Accept and close" to accept the use of cookies on our website. If you do not click "Accept and close" but continue to use this website: you thereby consent to the use of all Kingspan's cookies and third party cookies for the purposes of improving performance, improving functionality and audience measurement, in accordance with the terms laid out in our [Cookie Policy & Control](https://web.archive.org/group/cookie-policy-control) page; and we will assume that you have read and understood our [Cookie Policy & Control page](https://web.archive.org/group/cookie-policy-control).
