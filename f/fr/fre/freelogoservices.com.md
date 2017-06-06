@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the freelogoservices.com privacy policy that was archived on 2016-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160826080251id_/https%3A//www.freelogoservices.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelogoservices.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606193248id_/https%3A//www.freelogoservices.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
-Updated August 1, 2016
+Updated Feb 21, 2017
 
   
 
 
 ### 1.    OVERVIEW
 
-This privacy policy describes how LogoMix Inc. (“LogoMix”) maintains, uses and shares information that we may collect when you use our websites at [www.freelogoservices.com](https://www.freelogoservices.com/), [logomix.com](https://www.logomix.com/) or [printingnow.com](https://www.printingnow.com/), including any products or services made available from time to time by means of any of these websites (the “Sites”).
+This privacy policy describes how LogoMix Inc. (“LogoMix”) maintains, uses and shares information that we may collect when you use our websites at [www.freelogoservices.com](https://www.freelogoservices.com/), [logomix.com](https://www.logomix.com/), [printingnow.com](https://www.printingnow.com/) or [deluxelogocreator.com](https://www.deluxelogocreator.com/), including any products or services made available from time to time by means of any of these websites (the “Sites”).
 
 We may change this privacy policy from time to time.  Any such changes will be posted here.  If we make a material change in the way we use your personal information, we will prominently note the change on the Sites and/or email you regarding the change at least thirty (30) days prior to the change taking effect.
 
