@@ -1,59 +1,34 @@
-> *The following text is extracted and transformed from the crowdworknews.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202092116id_/http%3A//crowdworknews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdworknews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606052726id_/http%3A//crowdworknews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Crowd Work News
 
-This privacy policy discloses the privacy practices for crowdworknews.com. This privacy policy applies solely to information collected by this website.
+CROWDWORKNEWS.COM (“Website”) is governed by the following privacy policy. 
 
-**Information Collection, Use, and Sharing**
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what information we may collect and how it may be used. This statement only applies to this Website. This Website may contain third-party links to other websites which are not governed by this policy. 
 
-We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
+**What Information Do We Collect and How Is This Information Used?**
 
-We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization.
+1.    We may receive and store information that you voluntarily submit through the Website for the purpose of subscribing to the Website to receive newsletters, or for the purpose of leaving comments on blog posts. Examples of information collected for this purpose are your name and email address. This information is only captured when you voluntarily enter or opt-in and enter this information for collection.   
+2.    We may receive and store certain types of usage-related information when you interact with the Website, including but not limited to, your computer’s IP address and browser information. The information we collect is used to customize the content and/or layout of our page for each individual visitor.   
+3.    We use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies. No personal information is shared with the Website’s ad providers.  
+4.    The Website uses Google Analytics to track statistics regarding our audience and Website traffic. No personally identifiable information is transferred from the Website to Google Analytics. [For more information on Google’s Analytics privacy policies, please visit this site](https://support.google.com/analytics/answer/6004245).   
+5.    This Website engages in sponsored campaigns with various influencer networks, brands, and agencies. All sponsored content is duly disclosed in accordance with the FTC’s requirements. From time to time, these sponsored campaigns utilize tracking pixels (aka web beacons), which may contain cookies to collect data regarding usage and audience. This information is collected by the sponsoring company to track the results of the campaign. No personally identifiable information collected by the Website is used in conjunction with these tracking pixels.  
+6.    The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described above.   
+7.    The crowdworknews.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales. 
 
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
+**Third-Party Use of Personal Information**
 
-**Email**
+The Website may provide personal information to an applicable third party in order to provide services. Currently, the Website uses the services of AWeber for delivery of email updates and newsletters. AWeber’s use of your personal information is subject to AWeber’s privacy policy. 
 
-Your email address is stored by a third party and we make every effort to protect your account with that third party. However, we cannot be held personally liable if that third party site is hacked or infiltrated and the email addresses are exposed.
+Your personal information is not shared with any other third-party applications. 
 
-You may opt-out from our communications at any time through the unsubscribe link which can be found in the footer of any of our emails.
+**Will We Share the Personal Information It Collects?**
 
-**Your Access to and Control Over Information**
+We will not sell, distribute, or reveal users’ email addresses or other personal information without their consent. This does not include third-party partners, such as those listed above. 
 
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address given on our website:
+**Modification or Deletion of Personal Information**
 
-  * See what data we have about you, if any.
-  * Change/correct any data we have about you.
-  * Have us delete any data we have about you.
-  * Express any concern you have about our use of your data.
-
-
-
-**Security**
-
-We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
-
-Wherever we collect sensitive information, that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the web page.
-
-While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
-
-**Cookies**
-
-We use “cookies” on this site. A cookie is a piece of data stored on a site visitor’s hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
-
-Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
-
-**Sharing**
-
-We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
-
-We may use an outside credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes beyond filling your order.
-
-We may partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
-
-**Links**
-
-This website contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collect’s personally identifiable information.
+You can decline to submit personal information at any time. If you decline, we may not be able to continue to provide service to you. You may request deletion of your personal information by sending an email to [sireesha@crowdworknews.com](mailto:sireesha@crowdworknews.com), but in some cases, we may be required to keep your information by law. In such a case, it would no longer be active and would be kept separately in an archive.
 
 **Updates**
 
