@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celoxis.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630023134id_/http%3A//www.celoxis.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celoxis.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191654id_/https%3A//www.celoxis.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Celoxis: Privacy Policy
 
@@ -107,21 +107,7 @@ We may have links to other websites and advertisements on our Website. We shall 
 
 **
 
-#### 11\. INDEMNIFICATION:
-
-**
-
-You agree to indemnify us, our subsidiaries, affiliates, officers, agents, co-branders or other partners, and employees and hold us harmless from and against any claims and demand, including reasonable attorneys' fees, made by any third party due to arising out of or relating to:
-
-  * Personal Information and contents that you submit or share on the Website
-  * your violation of the Privacy Policy;
-  * or your violation of rights of another Member.
-
-
-
-**
-
-#### 12\. LIMITATION OF LIABILITY:
+#### 11\. LIMITATION OF LIABILITY:
 
 **
 
@@ -136,7 +122,7 @@ Notwithstanding anything contained in this Privacy Policy or elsewhere, the liab
 
 **
 
-#### 13\. GOVERNING LAWS AND DISPUTES:
+#### 12\. GOVERNING LAWS AND DISPUTES:
 
 **
 
@@ -146,7 +132,7 @@ Notwithstanding anything contained in this Privacy Policy or elsewhere, the liab
 
 **
 
-#### 14\. CHANGES TO THIS POLICY:
+#### 13\. CHANGES TO THIS POLICY:
 
 **
 
@@ -156,7 +142,7 @@ This Privacy Policy was last modified in July, 2015.
 
 **
 
-#### 15\. CONTACT US:
+#### 14\. CONTACT US:
 
 **
 
