@@ -1,0 +1,764 @@
+<!--The following is the downloaded HTML source of the icml.cc privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606200639id_/https%3A//2017.icml.cc/public/PrivacyPolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" class=" js inlinesvg"><head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="apple-mobile-web-app-capable" content="yes">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="description" content="ICML Website">
+
+      <!--   <link rel="shortcut icon" href="../../assets/ico/favicon.ico"> -->
+
+
+    <title>NIPS Privacy Policy</title>
+
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="/static/admin/css/nips.css" type="text/css">
+    <link rel="stylesheet" href="/static/admin/css/icml.css" type="text/css">
+    <link rel="stylesheet" href="/static/admin/bootstrap/dist/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="/static/admin/css/offcanvas.css" type="text/css">
+    <link rel="stylesheet" href="/static/admin/css/custom.css" type="text/css">
+    <link rel="stylesheet" href="/static/admin/glyphicons_pro/glyphicons/web/html_css/css/glyphicons.css" type="text/css">
+    <link rel="stylesheet" href="/static/admin/bootstrap-wizard/src/bootstrap-wizard.css" type="text/css">
+
+
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.8&amp;appId=207091976023748"></script><script type="text/x-mathjax-config;executed=true">
+    MathJax.Hub.Config({
+      tex2jax: {
+        inlineMath: [ ['$','$'], ['\\(','\\)'] ]
+      },
+        "HTML-CSS": {
+            scale: 97 /*with this, mathjax sizing algorithm currently renders text at 100%*/
+        },
+    });
+</script>
+<script type="text/javascript" async="" src="/static/admin/js/mathjax/MathJax.js?config=TeX-AMS-MML_HTMLorMML.js&amp;delayStartupUntil=onload"></script>
+
+
+
+
+
+    <style>
+  a[href]:after { content: none !important; }
+  button:after { content:none !important;}
+  </style>
+<!--This script keeps local links inside the web app rather than opening them
+in Safari, and has nothing to do with editing or Aloha.-->
+
+<script type="text/javascript">
+	(function(document,navigator,standalone) {
+		// prevents links from apps from oppening in mobile safari
+		// this javascript must be the first script in your <head>
+		if ((standalone in navigator) && navigator[standalone]) {
+			var curnode, location=document.location, stop=/^(a|html)$/i;
+			document.addEventListener('click', function(e) {
+				curnode=e.target;
+				while (!(stop).test(curnode.nodeName)) {
+					curnode=curnode.parentNode;
+				}
+				// Condidions to do this only on links to your own app
+				// if you want all links, use if('href' in curnode) instead.
+				if(
+					'href' in curnode && // is a link
+					(chref=curnode.href).replace(location.href,'').indexOf('#') && // is not an anchor
+					(	!(/^[a-z\+\.\-]+:/i).test(chref) ||                       // either does not have a proper scheme (relative links)
+						chref.indexOf(location.protocol+'//'+location.host)===0 ) // or is in the same protocol and domain
+				) {
+					e.preventDefault();
+					location.href = curnode.href;
+				}
+			},false);
+		}
+	})(document,window.navigator,'standalone');
+</script>        
+
+<!-- This style sets the minimum size of a blurb to 260 px unless there is a
+template context variable blurb_min_height that sets it otherwise. If blurbs
+aren't all about the same size, they don't flow well when the window is
+resized.-->
+
+
+<style>
+/*This is here rather that in a .css file for a reason.*/
+    @media screen and (min-width: 767px) {
+        .blurb {
+            min-height:260px;
+        }
+    }
+</style>
+
+
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script>if (typeof jQuery === 'undefined') {
+  document.write(unescape('%3Cscript%20src%3D%22//static/admin/js/jquery-2.2.4.min.js%22%3E%3C/script%3E'));
+}
+</script><script src="//static/admin/js/jquery-2.2.4.min.js"></script>
+
+
+<script>
+    var jq2 = jQuery;
+    /*Store a pointer to jquery2 so I can reference it later.  Aloha loads jquery 1.7 and much of bootstrap 3 is not compatible*/
+
+</script>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script>
+  if(typeof($.fn.modal) === 'undefined')
+    {document.write('<script src="//static/admin/bootstrap/dist/js/bootstrap.min.js"><\/script>')}
+</script>
+
+
+
+
+<script src="/static/admin/js/ajax-csrf-snippet.js" type="text/javascript"></script>
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" type="text/css">
+
+
+
+
+
+  <style type="text/css">.MathJax_Hover_Frame {border-radius: .25em; -webkit-border-radius: .25em; -moz-border-radius: .25em; -khtml-border-radius: .25em; box-shadow: 0px 0px 15px #83A; -webkit-box-shadow: 0px 0px 15px #83A; -moz-box-shadow: 0px 0px 15px #83A; -khtml-box-shadow: 0px 0px 15px #83A; border: 1px solid #A6D ! important; display: inline-block; position: absolute}
+.MathJax_Hover_Arrow {position: absolute; width: 15px; height: 11px; cursor: pointer}
+</style><style type="text/css">#MathJax_About {position: fixed; left: 50%; width: auto; text-align: center; border: 3px outset; padding: 1em 2em; background-color: #DDDDDD; color: black; cursor: default; font-family: message-box; font-size: 120%; font-style: normal; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; -khtml-border-radius: 15px; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+.MathJax_Menu {position: absolute; background-color: white; color: black; width: auto; padding: 5px 0px; border: 1px solid #CCCCCC; margin: 0; cursor: default; font: menu; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -khtml-border-radius: 5px; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+.MathJax_MenuItem {padding: 1px 2em; background: transparent}
+.MathJax_MenuArrow {position: absolute; right: .5em; color: #666666}
+.MathJax_MenuActive .MathJax_MenuArrow {color: white}
+.MathJax_MenuArrow.RTL {left: .5em; right: auto}
+.MathJax_MenuCheck {position: absolute; left: .7em}
+.MathJax_MenuCheck.RTL {right: .7em; left: auto}
+.MathJax_MenuRadioCheck {position: absolute; left: .7em}
+.MathJax_MenuRadioCheck.RTL {right: .7em; left: auto}
+.MathJax_MenuLabel {padding: 1px 2em 3px 1.33em; font-style: italic}
+.MathJax_MenuRule {border-top: 1px solid #DDDDDD; margin: 4px 3px}
+.MathJax_MenuDisabled {color: GrayText}
+.MathJax_MenuActive {background-color: #606872; color: white}
+.MathJax_Menu_Close {position: absolute; width: 31px; height: 31px; top: -15px; left: -15px}
+</style><style type="text/css">.MathJax_Preview .MJXc-math {color: inherit!important}
+</style><style type="text/css">#MathJax_Zoom {position: absolute; background-color: #F0F0F0; overflow: auto; display: block; z-index: 301; padding: .5em; border: 1px solid black; margin: 0; font-weight: normal; font-style: normal; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; box-shadow: 5px 5px 15px #AAAAAA; -webkit-box-shadow: 5px 5px 15px #AAAAAA; -moz-box-shadow: 5px 5px 15px #AAAAAA; -khtml-box-shadow: 5px 5px 15px #AAAAAA; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+#MathJax_ZoomOverlay {position: absolute; left: 0; top: 0; z-index: 300; display: inline-block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+#MathJax_ZoomFrame {position: relative; display: inline-block; height: 0; width: 0}
+#MathJax_ZoomEventTrap {position: absolute; left: 0; top: 0; z-index: 302; display: inline-block; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+</style><style type="text/css">.MathJax_Preview {color: #888}
+#MathJax_Message {position: fixed; left: 1px; bottom: 2px; background-color: #E6E6E6; border: 1px solid #959595; margin: 0px; padding: 2px 8px; z-index: 102; color: black; font-size: 80%; width: auto; white-space: nowrap}
+#MathJax_MSIE_Frame {position: absolute; top: 0; left: 0; width: 0px; z-index: 101; border: 0px; margin: 0px; padding: 0px}
+.MathJax_Error {color: #CC0000; font-style: italic}
+</style><style type="text/css">.MJXc-script {font-size: .8em}
+.MJXc-right {-webkit-transform-origin: right; -moz-transform-origin: right; -ms-transform-origin: right; -o-transform-origin: right; transform-origin: right}
+.MJXc-bold {font-weight: bold}
+.MJXc-italic {font-style: italic}
+.MJXc-scr {font-family: MathJax_Script,'Times New Roman',Times,STIXGeneral,serif}
+.MJXc-frak {font-family: MathJax_Fraktur,'Times New Roman',Times,STIXGeneral,serif}
+.MJXc-sf {font-family: MathJax_SansSerif,'Times New Roman',Times,STIXGeneral,serif}
+.MJXc-cal {font-family: MathJax_Caligraphic,'Times New Roman',Times,STIXGeneral,serif}
+.MJXc-mono {font-family: MathJax_Typewriter,'Times New Roman',Times,STIXGeneral,serif}
+.MJXc-largeop {font-size: 150%}
+.MJXc-largeop.MJXc-int {vertical-align: -.2em}
+.MJXc-math {display: inline-block; line-height: 1.2; text-indent: 0; font-family: 'Times New Roman',Times,STIXGeneral,serif; white-space: nowrap; border-collapse: collapse}
+.MJXc-display {display: block; text-align: center; margin: 1em 0}
+.MJXc-math span {display: inline-block}
+.MJXc-box {display: block!important; text-align: center}
+.MJXc-box:after {content: " "}
+.MJXc-rule {display: block!important; margin-top: .1em}
+.MJXc-char {display: block!important}
+.MJXc-mo {margin: 0 .15em}
+.MJXc-mfrac {margin: 0 .125em; vertical-align: .25em}
+.MJXc-denom {display: inline-table!important; width: 100%}
+.MJXc-denom > * {display: table-row!important}
+.MJXc-surd {vertical-align: top}
+.MJXc-surd > * {display: block!important}
+.MJXc-script-box > *  {display: table!important; height: 50%}
+.MJXc-script-box > * > * {display: table-cell!important; vertical-align: top}
+.MJXc-script-box > *:last-child > * {vertical-align: bottom}
+.MJXc-script-box > * > * > * {display: block!important}
+.MJXc-mphantom {visibility: hidden}
+.MJXc-munderover {display: inline-table!important}
+.MJXc-over {display: inline-block!important; text-align: center}
+.MJXc-over > * {display: block!important}
+.MJXc-munderover > * {display: table-row!important}
+.MJXc-mtable {vertical-align: .25em; margin: 0 .125em}
+.MJXc-mtable > * {display: inline-table!important; vertical-align: middle}
+.MJXc-mtr {display: table-row!important}
+.MJXc-mtd {display: table-cell!important; text-align: center; padding: .5em 0 0 .5em}
+.MJXc-mtr > .MJXc-mtd:first-child {padding-left: 0}
+.MJXc-mtr:first-child > .MJXc-mtd {padding-top: 0}
+.MJXc-mlabeledtr {display: table-row!important}
+.MJXc-mlabeledtr > .MJXc-mtd:first-child {padding-left: 0}
+.MJXc-mlabeledtr:first-child > .MJXc-mtd {padding-top: 0}
+.MJXc-merror {background-color: #FFFF88; color: #CC0000; border: 1px solid #CC0000; padding: 1px 3px; font-style: normal; font-size: 90%}
+.MJXc-scale0 {-webkit-transform: scaleX(.0); -moz-transform: scaleX(.0); -ms-transform: scaleX(.0); -o-transform: scaleX(.0); transform: scaleX(.0)}
+.MJXc-scale1 {-webkit-transform: scaleX(.1); -moz-transform: scaleX(.1); -ms-transform: scaleX(.1); -o-transform: scaleX(.1); transform: scaleX(.1)}
+.MJXc-scale2 {-webkit-transform: scaleX(.2); -moz-transform: scaleX(.2); -ms-transform: scaleX(.2); -o-transform: scaleX(.2); transform: scaleX(.2)}
+.MJXc-scale3 {-webkit-transform: scaleX(.3); -moz-transform: scaleX(.3); -ms-transform: scaleX(.3); -o-transform: scaleX(.3); transform: scaleX(.3)}
+.MJXc-scale4 {-webkit-transform: scaleX(.4); -moz-transform: scaleX(.4); -ms-transform: scaleX(.4); -o-transform: scaleX(.4); transform: scaleX(.4)}
+.MJXc-scale5 {-webkit-transform: scaleX(.5); -moz-transform: scaleX(.5); -ms-transform: scaleX(.5); -o-transform: scaleX(.5); transform: scaleX(.5)}
+.MJXc-scale6 {-webkit-transform: scaleX(.6); -moz-transform: scaleX(.6); -ms-transform: scaleX(.6); -o-transform: scaleX(.6); transform: scaleX(.6)}
+.MJXc-scale7 {-webkit-transform: scaleX(.7); -moz-transform: scaleX(.7); -ms-transform: scaleX(.7); -o-transform: scaleX(.7); transform: scaleX(.7)}
+.MJXc-scale8 {-webkit-transform: scaleX(.8); -moz-transform: scaleX(.8); -ms-transform: scaleX(.8); -o-transform: scaleX(.8); transform: scaleX(.8)}
+.MJXc-scale9 {-webkit-transform: scaleX(.9); -moz-transform: scaleX(.9); -ms-transform: scaleX(.9); -o-transform: scaleX(.9); transform: scaleX(.9)}
+.MathJax_CHTML .noError {vertical-align: ; font-size: 90%; text-align: left; color: black; padding: 1px 3px; border: 1px solid}
+</style></head>
+
+  <body style="min-height:900px"><div id="MathJax_Message" style="display: none;"></div>
+      
+      <div class="noprint">
+      <div class="navbar navbar-fixed-top navbar-inverse showborder" role="navigation" style="height:50px !important">
+        <div class="container showborder">
+            <p class="pull-left visible-xs">
+              <button type="button" class="navbar-toggle" data-toggle="offcanvas" onclick="window.scrollTo(0, 0);" id="hamburger">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+
+              </button>
+            </p>
+          <div class="navbar-header" style="white-space:nowrap;">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" style="position:relative;top:-5px" id="toggleSearch">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="glyphicon glyphicon-search" style="color:white;"></span>
+                </button>
+        <a class="navbar-brand" href="/"><span class="glyphicon glyphicon-home"></span></a>
+
+
+                  
+                      
+                      <a href="/accounts/login?nextp=/public/PrivacyPolicy " class="navbar-brand"><span class="glyphicon glyphicon-log-in"></span> Login</a>
+                  
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+          </div>
+          <div class="collapse navbar-inverse navbar-collapse" style="padding-left:50px">
+
+                <form class="navbar-form " role="search" action="/search">
+                        <div class="input-group" style="max-width:400px">
+                            <input type="text" class="form-control" spellcheck="false" placeholder="Search" name="q" id="nips-search" style="width:100%">
+                            <div class="input-group-btn">
+                                <button class="btn btn-primary" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+                            </div>
+                        </div>
+                   </form>
+
+          </div><!-- /.nav-collapse -->
+        </div><!-- /.container -->
+      </div><!-- /.navbar -->
+      </div><!--noprint div-->
+      <!--For unit tests-->
+      <div id="menuLoad"></div>
+      
+
+
+    <div class="container pull-left" style="min-height:00px"> <!--The main container for the page content-->
+
+      <div id="wholepage" class="row row-offcanvas row-offcanvas-left" style="z-index:5"> <!--This holds the whole page including the navbar-->
+
+          <!-- Sidebar on the left-->
+
+              <div class="col-xs-6 col-sm-3 sidebar-offcanvas noprint" id="sidebar" role="navigation" style="z-index:5">
+              
+              <div class="Droid"><span style="font-size:2em">
+                <b>ICML @ <span class="icmlred">Sydney</span></b></span><br>
+                <div>Thirty-fourth International Conference on Machine Learning</div>
+                <br>
+              </div>
+              
+                <div class="list-group">
+                  <div class="dropdown list-group-item active" style="background-color: #357ebd; border-color: #357ebd;" id="dropdownMenu1">
+                    <div class="dropdown-toggle btn-link" data-toggle="dropdown" style="color:white">
+                        <span class="hidden-xs">Year </span><span id="conferenceYear">(2017)</span> <span class="caret"></span>
+                    </div>
+                      <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1" id="previousConferencesMenu">
+                        <li class="" role="menuitem" tabindex="-1"> <a href="http://icml.cc/2016">2016</a></li>
+                        <li role="presentation" class="divider"></li>
+                        <li class="" role="menuitem" tabindex="-1"> <a href="http://icml.cc/2015">2015</a></li>
+                        <li role="presentation" class="divider"></li>
+                        <li class="" role="menuitem" tabindex="-1"> <a href="http://icml.cc/2014">2014</a></li>
+                        <li role="presentation" class="divider"></li>
+                        <li class="" role="menuitem" tabindex="-1"> <a href="http://icml.cc/2013">2013</a></li>
+                        <li role="presentation" class="divider"></li>
+                        <li class="" role="menuitem" tabindex="-1"> <a href="http://icml.cc/2012">2012</a></li>
+                        <li role="presentation" class="divider"></li>
+                        
+                        <li class="" role="menuitem" tabindex="-1"> <a href="http://www.machinelearning.org/archive.html">Archives</a></li>
+                      </ul>
+                  </div>
+
+
+                
+                
+                
+                
+
+                <div class="dropdown list-group-item">
+                  <div class="dropdown-toggle btn-link" id="dropdownMenu4" data-toggle="dropdown">
+                      Help <span class="caret"></span>
+                  </div>
+                      <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu4">
+              <li role="menuitem" tabindex="-1"><a href="#" id="feedback" title="Leave feedback about this page"><span class="glyphicon glyphicon-comment text-primary"></span> Feedback</a></li>
+            <li role="presentation" class="divider"></li>
+                        <li role="menuitem" tabindex="-1"> <a href="/FAQ"><span class="glyphicon glyphicon-question-sign text-primary"></span> FAQ</a></li>
+                        <li role="presentation" class="divider"></li>
+                        <li role="menuitem" tabindex="-1"> <a href="/Help/Contact"><span class="glyphicon glyphicon-envelope text-primary"></span> Contact ICML</a></li>
+            <li role="presentation" class="divider"></li>
+            <li role="menuitem" tabindex="-1"> <a href="/About"><span class="glyphicon glyphicon-info-sign text-primary"></span> About ICML</a></li>
+            <li role="presentation" class="divider"></li>
+            <li role="menuitem" tabindex="-1"> <a href="/Profile/create"><span class="glyphicon glyphicon-user text-primary"></span> Create an Account</a></li>
+            <li role="presentation" class="divider"></li>
+            <li role="menuitem" tabindex="-1"> <a href="/Profile/resetpassword"><span class="glyphicon glyphicon-user text-primary"></span> Forgot Password</a></li>
+            <li role="presentation" class="divider"></li>
+            <li role="menuitem" tabindex="-1"> <a href="/MergeAccounts"><i class="fa fa-user-plus text-primary"></i> Merge Profiles</a></li>
+            <li role="presentation" class="divider"></li>
+            <li role="menuitem" tabindex="-1"> <a href="/Help/WebSiteWelcome2014"><span class="glyphicon glyphicon-info-sign text-primary"></span> Website Tips</a></li>
+            <li role="presentation" class="divider"></li>
+            <li role="menuitem" tabindex="-1"> <a href="/public/PrivacyPolicy"><span class="glyphicon glyphicon-info-sign text-primary"></span> Privacy Policy</a></li>
+                      </ul>
+                </div><!--HelpListGroup-->
+
+            <li class="list-group-item" role="menuitem"> <a href="/Profile">My Registrations</a></li>
+
+                  <!--=============Account================-->
+                  <div class="dropdown list-group-item">
+                      <div class="dropdown-toggle btn-link" id="account" data-toggle="dropdown">
+                          <span>Profile <span class="caret"></span></span>
+                      </div>
+                      <ul class="dropdown-menu" role="menu" aria-labelledby="account">
+            
+                        <li role="menuitem"> <a href="/EditProfile"><span class="glyphicon glyphicon-edit text-primary"></span> Edit Profile</a></li>
+              <li role="presentation" class="divider"></li>
+            <li role="menuitem"> <a href="/Profile/change-password"><span class="glyphicon glyphicon-asterisk text-primary"></span> Change Password</a></li>
+                        <li role="presentation" class="divider"></li>
+                        <li role="menuitem"> <a href="/MergeAccounts"><i class="fa fa-share-alt text-primary"></i> Merge Profiles</a></li>
+            <li role="presentation" class="divider"></li>
+            <li role="menuitem"> <a href="/Profile/create"><i class="fa fa-user-plus text-primary"></i> Create New Profile</a></li>
+                        <li role="presentation" class="divider"></li>
+            <li role="menuitem"> <a href="/Profile/resetpassword"><i class="fa fa-unlock-alt text-primary"></i> Recover Lost Password</a></li>
+                        <li role="presentation" class="divider"></li>
+            <li role="menuitem"> <a href="/accounts/login?nextp=/"><span class="glyphicon glyphicon-log-in text-primary"></span> Log In</a></li>
+                        <li role="presentation" class="divider"></li>
+            <li role="menuitem"> <a href="/logout"><span class="glyphicon glyphicon-log-out text-primary"></span> Log Out </a></li>
+                      </ul>
+                    </div>
+                <!--=============Account================-->
+
+
+
+
+                <a href="/Sponsors/sponsorinfo" class="list-group-item">Sponsor Info</a>
+                <a href="/Sponsors/exhibitorinfo" class="list-group-item">Exhibitor Info</a>
+
+                  <!--<a href="/Conferences/2017/Committees" class="list-group-item">Committees</a>-->
+                  
+
+
+                  <a href="/Conferences/FutureMeetings" class="list-group-item">Future Meetings</a>
+                  <div class="list-group-item"><span class="lower"><div class="fb-follow" data-href="https://www.facebook.com/icml.imls/" data-layout="button" data-size="small" data-show-faces="true"></div></span></div>
+                  <!-- 
+                  <div class="list-group-item" >
+                    <img style="max-width:100px;" src="/static/admin/img/ICMLLogoDrawn.svg" width="100%" alt="Logo!">
+                  </div> -->
+
+
+                </div><!--Sidebar ListGroup-->
+
+
+            </div><!--/sidebar on the left-->
+
+
+              
+        
+      <main id="main">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-6 col-sm-3 col-lg-3 noprint">
+              <div class="topLink">THE CONFERENCE</div>
+              <ul class="topLinks">
+                <li><a href="/Conferences/2017/Schedule">Schedule</a></li>
+                
+                
+                <li><a href="/Conferences/2017/InvitedSpeakers">Invited Speakers</a></li>
+                <li><a href="/Conferences/2017/Tutorials">Tutorials</a></li>
+                <li><a href="/Conferences/2017/Schedule?type=Workshop">Workshops</a></li>
+                <li><a href="/Conferences/2017/AcceptedPapersInitial">Accepted Papers</a></li>
+                
+                <li><a href="/Conferences/2017/Committees">Committees</a></li>
+                <li><a href="/Sponsors/sponsorinfo">Sponsorship</a></li>
+              </ul>
+              
+            </div>
+            
+            <div class="col-xs-6 col-sm-3 col-lg-3 noprint">
+              <div class="topLink">FOR AUTHORS</div>
+              <ul class="topLinks">
+                <li><a class="strikethrough" href="/Conferences/2017/CallForPapers">Call for Papers</a></li>
+                <li><a class="strikethrough" href="/Conferences/2017/CallForTutorials">Call for Tutorials</a></li>
+                <li><a class="strikethrough" href="/Conferences/2017/CallForWorkshops">Call for Workshops</a></li>
+                <li><a href="/Conferences/2017/CameraReady">Camera Ready</a></li>
+                
+                
+                <li><a href="/Conferences/2017/StyleAuthorInstructions">Style and Author Instructions</a></li>
+                <li><a href="/Conferences/2017/ReviewerGuidelines">Reviewer Guidelines</a></li>
+              </ul>
+            </div>
+
+            
+
+            <div class="col-xs-6 col-sm-3 col-lg-3 noprint">
+              <div class="topLink">FOR PARTICIPANTS</div>
+
+              <ul class="topLinks">
+                <li><a href="/Conferences/2017/Pricing">Pricing</a></li>
+                <li><a href="/Volunteers/volunteerapplication" class="warning-ring">Student Volunteers</a></li>
+                <li><a href="/TravelApplication" class="warning-ring">Student Travel Support</a></li>
+                <li><a href="/Register2"><b>Registration</b></a></li>
+                <li><a href="/Conferences/2017/Sponsors">Sponsors</a></li>
+                <li><a href="/Conferences/2017/VenueAndLocal">Venue And Local</a></li>
+                <li><a href="/Conferences/2017/Hotels">Book a Room</a></li>
+                <li><a href="/Conferences/2017/PosterRequest">Poster</a></li>
+                <li><a href="/Conferences/2017/VisaInformation">VISA Info</a></li>
+
+                
+              </ul>
+              <p>
+                <span id="fb-root"></span>
+                  <script>(function(d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0];
+                    if (d.getElementById(id)) return;
+                    js = d.createElement(s); js.id = id;
+                    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=207091976023748";
+                    fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));
+                  </script>
+              </p>
+            </div>
+            
+                
+                <div class="col-xs-12 col-sm-9 noprint">
+                  <p>
+
+                    <span class="topLink">NOTICE:</span> 
+
+                    <span class="highlight">The 2017 ICML conference may close registration ahead of the declared deadline
+                    in case it reaches the capacity limits of the convention center. There may be no onsite registration.
+                    Please register early.</span>
+                  </p>
+                  
+                </div>
+
+            
+                
+
+            
+    
+<!--JUst above the HTML-->
+    <div class="col-xs-12 col-sm-9">
+        <div>
+        <div>
+<h3><span>Privacy Policy</span></h3>
+
+<p class="normal"><span>Our Privacy Policy explains how information is collected, used, and disclosed by the International Machine Learning Society, with respect to your access and use of our services, through our website&nbsp;or in connection with third party services.</span></p>
+
+<h4><span>Information We Collect and How We Use It</span></h4>
+
+<p><span>We collect certain information from you through your use of the Website, such as the information you provide to us by registering for a user account.&nbsp;</span>&nbsp;</p>
+
+<p class="normal"><span>We want you to be comfortable using the Website so we have described in detail below what information we collect and how it is used.</span></p>
+
+<h4><span>Information You Provide to Us</span></h4>
+
+<p><span>When you use the Website and register for a user account, limited information is collected about you through a simple form. This information is for the purpose of identifying and communicating with supporters, conference registrants and community members.</span>&nbsp;</p>
+
+<p><span>We may need to send you announcements and account-related messages.&nbsp; These will be sent through the Website or by email.</span></p>
+
+<h4><span>How We Share Your Information with Others</span></h4>
+
+<p><span>We will not share the personal information we have collected from you, except as described below:</span></p>
+
+<p><span>when you give us your consent to do so, for example, when we tell you that the information you provide will be shared in some way and you provide us that information;</span></p>
+
+<p><span>&nbsp;</span><span>when we believe we are authorized or legally required to do so or that doing so is necessary or appropriate to comply with the law or legal processes or respond to lawful requests or legal authorities, including things like subpoenas, warrants or court orders;</span></p>
+
+<p><span>to enforce or apply our Privacy Policy, our Terms of Use or our other policies or agreements.</span></p>
+
+<h4><span>Accessing Your Information</span></h4>
+
+<p><span>If you would like us to delete your personal information that has been collected, please </span><u><span>contact us</span></u><span>&nbsp;under the Help menu with your request. We will take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records and as otherwise required by law.</span></p>
+
+<h4><span>How We Protect Your Information</span></h4>
+
+<p><span>We employ administrative, physical, and electronic measures designed to protect your information from unauthorized access. However, despite those efforts, no security measures are perfect or impenetrable and no method of data transmission can be guaranteed against any interception or other type of misuse.</span></p>
+
+<h4><span>Links to Other Sites</span></h4>
+
+<p><span>The Website may contain links to other services, apps, and sites not operated by us (we refer to these as "Other Sites"). Any information you provide on Other Sites is provided directly to whoever owns that site and is subject to their privacy policy. Our Privacy Policy does not apply to those Other Sites, and we are not responsible for the content you provide to, or the privacy and security practices and policies of, Other Sites.</span></p>
+
+<h4><span>Changes to Our Privacy Policy</span></h4>
+
+<p><span>Any information that is collected is subject to our Privacy Policy in effect at the time such information is collected. We may, however, modify and revise our Privacy Policy from time-to-time. In the event of a modification to the Privacy Policy, we will notification to you that a change has occurred via the Website. It is required that you accept the revised Privacy Policy before continuing to use the Website. By accepting changes to the policy, you are agreeing to be bound by the revised policy. </span></p>
+
+<h4><span>Questions or Concerns</span></h4>
+
+<p><span>Please </span><a href="http://nips.cc/Help/Contact"><span>contact us</span></a><span> if you have any questions or concerns about our Privacy Policy.</span></p>
+</div>
+        </div>
+        </div>  <!--div class="col-xs-12 col-sm-9"-->
+
+    
+
+          </div> 
+        </div>
+
+
+      </main>
+        <!--END BLOCK CONTENT-->
+
+
+      </div><!--/row-->
+
+
+
+    </div><!--/Page.container-->
+
+
+    <!--Footer for the edit button-->
+    
+<script src="/static/admin/bootstrap-wizard/src/bootstrap-wizard.js" type="text/javascript"></script>
+<script>
+  /*
+    Set up the feedback button with the correct URL for this page.
+  */
+
+  /*Get the URL for this page and parse out just the path part*/
+
+
+  feedbackPath = "/Help/Feedback?path=" + encodeURIComponent(location.protocol + "//" + location.hostname + ":" + location.port + location.pathname + location.search);
+
+
+  /*Poke that as the hrefinto the button*/
+
+  $("#feedback").attr("href", feedbackPath);
+
+    $(function(){
+        if ( $(".editable").length == 0){
+            $("#editFooter").hide();
+        }
+    })
+</script>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+
+
+    <script src="/static/admin/js/fastclick.min.js" type="text/javascript"></script>
+
+
+    <script>
+    $(document).ready(function() {
+      $('[data-toggle=offcanvas]').click(function() {
+        $('.row-offcanvas').toggleClass('active');
+      });
+    });
+  </script>
+
+
+    <script src="/static/admin/glyphicons_pro/glyphicons/web/html_css/scripts/modernizr.js" type="text/javascript" charset="utf-8"></script>
+
+
+
+
+    <!--We don't know if there are editable tags on the page until after the django template engine has rendered the page. So,
+test in javascript for "editable" tags and if present, load the ckeditor engine dynamically. -->
+
+<script>
+  if (document.getElementsByClassName('editable').length > 0 ){
+    var script   = document.createElement("script");
+    script.type  = "text/javascript";
+    script.src   = "/static/admin/ckeditor/ckeditor.js";    // use this for linked script
+    script.text  = "alert('voila!');"               // use this for inline script
+    document.body.appendChild(script);
+  }
+  
+</script>
+
+
+<script>
+function fetchContent(){
+  $(".editable").each(function(index){
+    var myself = this;
+    var docvID = this.getAttribute('documentversion');
+    var blurbtext = this.getAttribute("blurbtext");
+    $.ajax({
+       url: "/Admin/RetrieveDocumentVersion",
+       type:"POST",
+       data:{
+           docvID : docvID,
+           blurbtext : blurbtext,
+           csrfmiddlewaretoken: csrftoken,
+       },
+       success: function(data, textStatus, jqXHR) {
+           myself.setAttribute("contenteditable", "true");
+           myself.innerHTML = data;
+           CKEDITOR.inline(myself.id);
+       },
+    });
+  })
+}
+
+$("#nopageedit").hide();
+function start_edit(){
+    $(".editable").addClass("warning-ring");
+
+    //At the beginning of an edit, we need to replace the content of the
+    //editable div with it's databased content in order to preserve the
+    //template tags. We want the tag, not the rendered tag.
+
+    /* You must remove any countdown.js timers on the page before replacing the page with it's
+    document version otherwise, Javascript will throw an exception.  */
+
+
+    jq2("[class$='-countdown']").parent().remove();
+    fetchContent();
+    $(".editable").attr("onblur", "ckeditorsave(this)");
+    window.status.bold();
+    window.status = "Click outside the editable area to save. Changes are LIVE!! Refresh page to discard changes.";
+    $("#editpage").hide();
+    $("#noeditpage").show();
+}
+
+
+function stop_edit(){
+    $("#noeditpage").hide();
+    $("#editpage").show();
+    location.reload();
+
+}
+function ckeditorsave(event){
+  for (var name in CKEDITOR.instances){
+    if ( CKEDITOR.instances[name].checkDirty() ){
+      editor = CKEDITOR.instances[name];
+      saveEditable(editor);
+    }
+  }
+}
+
+function saveEditable(editor){
+  var content = editor.getData();
+  var contentId = editor.name;
+  var pageId = window.location.pathname;
+  var originalContent = "N/A";
+  var documentversion = editor.container.getAttribute("documentversion");
+  var blurbtext = editor.container.getAttribute("blurbtext");
+  if ( contentId.match(/-aloha$/gi) ) {
+    contentId = contentId.replace( /-aloha/gi, '' );
+  }  /*I'm not sure what this does but it seems like it would matter*/
+  var request = jQuery.ajax({
+    url: "/Admin/SaveDocument",
+    type: "POST",
+    data: {
+      content : content,
+      originalContent: originalContent,
+      contentId : contentId,
+      pageId : pageId,
+      documentversion:documentversion,
+      blurbtext : blurbtext,
+      csrfmiddlewaretoken: csrftoken
+    },
+    success: function(data){
+        if (data['message']){
+            alert(data['message']);
+        }
+
+    },
+    error: function(xqXHR, textStatus){
+        window.status = textStatus;
+        debugger;
+    }
+
+  });
+
+};
+
+
+
+
+</script>
+
+<script type="text/javascript">
+       jQuery(document).ajaxSend(function(event, xhr, settings) {
+           function getCookie(name) {
+               var cookieValue = null;
+               if (document.cookie && document.cookie != '') {
+                   var cookies = document.cookie.split(';');
+                   for (var i = 0; i < cookies.length; i++) {
+                       var cookie = jQuery.trim(cookies[i]);
+                       // Does this cookie string begin with the name we want?
+                       if (cookie.substring(0, name.length + 1) == (name + '=')) {
+                           cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                           break;
+                       }
+                   }
+               }
+               return cookieValue;
+           }
+           function sameOrigin(url) {
+               // url could be relative or scheme relative or absolute
+               var host = document.location.host; // host + port
+               var protocol = document.location.protocol;
+               var sr_origin = '//' + host;
+               var origin = protocol + sr_origin;
+               // Allow absolute or scheme relative URLs to same origin
+               return (url == origin || url.slice(0, origin.length + 1) == origin + '/') ||
+                   (url == sr_origin || url.slice(0, sr_origin.length + 1) == sr_origin + '/') ||
+                   // or any other URL that isn't scheme relative or absolute i.e relative.
+                   !(/^(\/\/|http:|https:).*/.test(url));
+           }
+           function safeMethod(method) {
+               return (/^(GET|HEAD|OPTIONS|TRACE)$/.test(method));
+           }
+
+           if (!safeMethod(settings.type) && sameOrigin(settings.url)) {
+               xhr.setRequestHeader("X-CSRFToken", getCookie('csrftoken'));
+           }
+       });
+</script>
+
+
+    <script>
+    window.addEventListener('load', function() {
+    /*Minified*/
+    var attachFastClick = Origami.fastclick;
+    attachFastClick(document.body);
+    /*Not minified*/
+        /*FastClick.attach(document.body);*/
+    }, false);
+
+
+
+    </script>
+
+    <!--Prevent links from opening externally-->
+
+    
+
+    
+     <div class="hidden">Successful Page Load</div>
+   <div class="hidden">Do not remove: This comment is monitored to verify that the site is working properly</div>
+
+   <!--Web analytics-->
+
+   <script src="//static.getclicky.com/js" type="text/javascript"></script>
+   <script type="text/javascript">try{ clicky.init(100964351); }catch(e){}</script>
+   <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100964351ns.gif" /></p></noscript>
+
+   <script src="//static.getclicky.com/js" type="text/javascript"></script>
+   <script type="text/javascript">try{ clicky.init(100964360); }catch(e){}</script>
+ <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100964360ns.gif" /></p></noscript>
+  
+
+</body></html>
