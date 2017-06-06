@@ -1,46 +1,53 @@
-> *The following text is extracted and transformed from the berkshirehathawayhs.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110122017id_/http%3A//www.berkshirehathawayhs.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berkshirehathawayhs.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143201id_/http%3A//www.berkshirehathawayhs.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Berkshire Hathaway HomeServices
 
-Your continued use of this web site constitutes your acceptance of our privacy policy and all other terms and conditions of use. All of our policies and terms of use are provided in English in order to provide an authoritative source for this information. If you do not agree to these conditions, you should not use our web site. 
+Because we value you as our customer, we want to address any privacy concerns you may have. To that end, we have set forth our privacy policy for handling the information you share with us online. We want your decision to do business with us to be an informed one.
 
-BHH Affiliates, LLC, operator of the Berkshire Hathaway HomeServices franchise network, understands that privacy is an important issue for visitors to the Berkshire Hathaway HomeServices website (www.berkshirehathawayhs.com). We designed this information to help our website visitors understand what information we gather from our website, and how we handle the information once it’s gathered. 
+### Collecting Information
 
-### Personal information collected on this website
+When you visit our consumer applications, we may collect information about you that you share with us by using our consumer applications. This identification information may include, but is not limited to, your name, physical address, e¬mail address, telephone and fax numbers, details of your real estate and lending needs and references, and other details of your life.
 
-Information provided in a request for service or information is forwarded to a Berkshire Hathaway HomeServices franchisee or business that will respond to the request. Requests for information or service relating to buying or selling a home are forwarded to an independently owned and operated Berkshire Hathaway HomeServices franchisee able to respond to the request, along with the information provided by the website visitor. If website visitors express interest in an appointment with a Berkshire Hathaway HomeServices franchisee representative, the information the visitor provides, including information used to obtain quotes, is forwarded to the Berkshire Hathaway HomeServices franchisee representative. 
+As you may be aware, it is a common practice that when you visit our consumer applications, we may collect data involving your usage through the use of “cookies” (i.e. small text files placed on your computer by consumer applications), web server logs, and other web tools. This technology allows us to customize your online experience as well as track your use of our system so that we can improve your experience. The tracking data we collect may include, but is not limited to, the date, time and location of your visit, the time you spend, the web pages you view, the other consumer applications you visit, your search queries, and basic information about your computer, such as your Internet Protocol (“IP”) address, your domain name, your browser type, and the name of your internet service provider. You may deactivate cookies if you do not want your browsing to be tracked, but doing so may hinder your online experience.
 
-Berkshire Hathaway HomeServices franchisee representatives may contact website visitors who have submitted a request for additional information about their request. 
+When visiting our consumer-facing applications, you may be directed, through hyperlinks, to other consumer applications that are beyond our control. Furthermore, when you are visiting our consumer applications, other companies, such as third party advertisers and sponsors, may be gathering information about you. This Privacy Policy does not cover the collection of information by those other companies and consumer applications. Although we encourage third parties to provide their own privacy policies, we are not responsible for their activities, such as how they handle the information they collect online. 
 
-Berkshire Hathaway HomeServices may use information submitted in one of our online forms to ask website visitors to complete a voluntary customer satisfaction survey. For Berkshire Hathaway HomeServices to understand consumer preferences, we may combine survey response information with information about customers who recently purchased products. 
+### Using Information Collected
 
-However, Berkshire Hathaway HomeServices does not rent or sell visitors' personal information to non-Berkshire Hathaway HomeServices Real Estate companies.
+We primarily use the identification information you voluntarily share with us to customize your online experience and to do what you have asked of us. We also use your identification information to tell you about our products and services, but you may instruct us not to send communications to you by following the procedure indicated below under “Contacting Us.” On occasion, we use your identification information to validate your identity. As for usage tracking data, we primarily use that information to operate and improve our consumer applications, and to further our marketing efforts. As a general rule, we do not share your information with unaffiliated third parties. We may, however, share your information with our own personnel and our service providers to the extent necessary to fulfill your requests. We may also share your information with our affiliates, but we will not share it with unaffiliated third parties for direct marketing purposes. We reserve the right to disclose your information under limited circumstances, such as to cooperate with law enforcement or judicial authorities as required by law or legal process, to protect our own legal rights, or to protect the public good.
 
-###  Types of visitor data collected on this website
+Whenever you are online or on our applications, you run the risk that the information you give out will fall into the wrong hands. Although we implement and maintain commercially reasonable security procedures and practices to safeguard your privacy, we cannot guarantee the security of any information you provide to us. We accept no responsibility or liability for the activities of third parties. By using our consumer applications and applications, you agree to our Terms of Use. 
 
-  * How many people visit our website
-  * Pages people visit when on our website
-  * How long people stay on and view our website
-  * Domain name of the website that visitors are connecting from – Example: www.google.com 
+### Updating Information
 
+If you would like to review the information about you that we have collected through our consumer applications, or to change that information, you can make that request by following the procedure indicated below under “Contacting Us.” We may require that you verify your identity before we process your request.
 
+### Anti-Fraud Disclosure
 
-### Changes to this Privacy Policy
+Electronic communications such as email, text messages and social media messaging, are neither secure nor confidential. While Berkshire Hathaway HomeServices ("Franchisor") has adopted policies and procedures to aid in avoiding fraud, even the best security protections can still be bypassed by unauthorized parties. Broker will never send you any electronic communication with instructions to transfer funds or to provide nonpublic personal information, such as credit card or debit numbers or bank account and/or routing numbers.
 
-The CONTENT on this website, and this Privacy Policy, are subject to change or updating by us any time without prior notice. Changes may include superseding this Privacy Policy or specific notices. YOU SHOULD REVIEW THIS PRIVACY POLICY FROM TIME TO TIME TO BE AWARE OF ANY CHANGES MADE. Your continuing use of this website constitutes your acceptance of any changes or updates, all of which shall become controlling when posted. Contact Us For questions about this BHH Affiliates, LLC Privacy Policy, click [Webmaster@HSFranchise.com](https://web.archive.org/pages/contact-form?form=Website%20Question&email=Webmaster@HSFranchise.com) to send an email. We respond to email inquiries within 24-48 business hours of receipt.
+YOU SHOULD NEVER TRANSMIT NONPUBLIC PERSONAL INFORMATION, SUCH AS CREDIT OR DEBIT CARD NUMBERS OR BANK ACCOUNT OR ROUTING NUMBERS, BY EMAIL OR OTHER UNSECURED ELECTRONIC COMMUNICATION. EMAILS ATTEMPTING TO INDUCE FRAUDULENT WIRE TRANSFERS ARE COMMON AND MAY APPEAR TO COME FROM A TRUSTED SOURCE.
 
-### Berkshire Hathaway HomeServices use of cookies
+If you receive any electronic communication directing you to transfer funds or provide nonpublic personal information, EVEN IF THAT ELECTRONIC COMMUNICATION APPEARS TO BE FROM Broker or its affiliates, do not respond to it and immediately contact Broker. Such requests, even if they may otherwise appear to be from Broker, are likely part of a scheme to defraud you by stealing funds from you or using your identity to commit a crime. To notify Broker of suspected fraud related to your real estate transaction, [contact us](https://web.archive.org/pages/contact-form?form=Terms%20of%20Use%20Question&email=webmaster@HSFranchise.com). 
 
-‘Cookies’ are small text files that a website transfers to a website visitor's hard disk or browser for added functionality, or for tracking website usage. We do not use cookies to gather personal information like a person's name or email address. 
+### Updating Our Privacy Policy
 
-In order to measure the effectiveness of our online presence, Berkshire Hathaway HomeServices uses cookies to (1) identify repeat visitors to our website, (2) identify the path visitors take when on our website and (3) identify visitors who came to www.berkshirehathawayhs.com as the result of a banner ad placed on a third-party website. Any information gathered by the use of cookies is compiled on an aggregate, anonymous basis. 
+We may, from time to time, change our Privacy Policy. We will notify you of any changes by posting our updated Privacy Policy on our consumer applications and inserting a new “Effective Date.”
 
-### Security
+### Contacting Us
 
-Berkshire Hathaway HomeServices works hard to ensure that our systems are secure and that they meet industry standards. Where appropriate, we employ firewalls, encryption technology, user authentication systems – such as passwords and personal identification numbers – and control mechanisms to limit access to data and systems. 
+If you would like to send us a request as indicated above, or if you have any other questions or concerns regarding our Privacy Policy, you may contact us by e¬mail at [webmaster@hsfranchise.com](mailto:webmaster@hsfranchise.com) .
 
-### Hyperlinks
+### Effective Date and Contact Information:
 
-This website contains hyperlinks or ‘links’ to other websites. Other websites also may link to this website. Websites linking to and from this website may have different privacy practices from the ones described here for www.berkshirehathawayhs.com. 
+This Privacy Policy is effective as of 11/01/2016. Our company can be reached at [webmaster@hsfranchise.com](mailto:webmaster@hsfranchise.com) .
 
-Visitors to our website should read the privacy policy of other websites they visit. This Privacy Policy applies solely to information collected on this website. See our Berkshire Hathaway HomeServices Terms of Use for details about hyperlinks. 
+### California Privacy Rights
+
+Under California law, California residents have the right to request in writing from businesses with whom they have an established business relationship (1) a list of categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties [including affiliates that are separate legal entities] during the immediately preceding calendar year for the third parties' direct marketing purposes and (2) the names and addresses of all such third parties.
+
+To request the above information please contact us by writing to customer service at [webmaster@hsfranchise.com](mailto:webmaster@hsfranchise.com) . 
+
+### International Users
+
+Our consumer applications are hosted by servers in the United States. If you are located outside of the United States, your personal information may be transferred to the United States. By submitting your personal information, you consent to its transfer to the United States and to its storage, processing, and use there in accordance with this Privacy Policy.
