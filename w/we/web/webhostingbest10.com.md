@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhostingbest10.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202130553id_/http%3A//www.webhostingbest10.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingbest10.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214422id_/http%3A//www.webhostingbest10.com/privacy) for the most accurate reproduction.*
 
 # Web Hosting Best 10 – Privacy Policy
 
