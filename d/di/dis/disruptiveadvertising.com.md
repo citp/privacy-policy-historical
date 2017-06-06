@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the disruptiveadvertising.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324201833id_/http%3A//www.disruptiveadvertising.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disruptiveadvertising.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062534id_/http%3A//www.disruptiveadvertising.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Disruptive Advertising
 
 Disruptive Advertising Privacy Policy
 
-At Disruptive Advertising, we respect and protect the privacy of our clients and users who visit our websites. This Privacy Policy explains how we collect and use information for Disruptive Advertising services, including the advertising services, promotions, informational mailings, and other offers we provide. By using any services provided by Disruptive Advertising, LLC. (“Disruptive Advertising”), you indicate that you agree to the collection and use of your information by Disruptive Advertising as outlined in this Privacy Policy. Furthermore, please note that in the event that you provide information to us and then choose not to use our services, the information you provide to us will still be handled as set forth in this Privacy Policy.
+At Disruptive Advertising, we respect and protect the privacy of our clients and users who visit our websites. This Privacy Policy explains how we collect and use information for Disruptive Advertising services, including the advertising services, promotions, informational mailings, and other offers we provide. By using any services provided by Disruptive Advertising, Inc. (“Disruptive Advertising”), you indicate that you agree to the collection and use of your information by Disruptive Advertising as outlined in this Privacy Policy. Furthermore, please note that in the event that you provide information to us and then choose not to use our services, the information you provide to us will still be handled as set forth in this Privacy Policy.
 
 1\. Why We Collect Information  
 First and foremost, Disruptive Advertising collects information to improve the services we provide and to present you with information and services that may interest you. We also use your information to measure our success and performance. For example, aggregate information gives us an idea of the number of visitors we attract and how they navigate our websites.
@@ -46,7 +46,7 @@ Our Privacy Policy may change from time to time. If we decide to change our priv
 
 12\. Effective Date  
 This Privacy Policy is effective and was last updated on January 22, 2013.  
-Disruptive Advertising, LLC  
-support@DisruptiveAdvertising.com  
+Disruptive Advertising, Inc.  
+support@disruptiveadvertising.com  
 1715 East 130 North Spanish Fork, UT, 84660  
 1-877-956-7510
