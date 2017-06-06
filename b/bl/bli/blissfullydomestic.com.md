@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blissfullydomestic.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012093215id_/http%3A//blissfullydom.wpengine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blissfullydomestic.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041044id_/http%3A//blissfullydomestic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Blissfully Domestic
+# Privacy Policy | Blissfully Domestic
 
 ## Commitment to Privacy
 
@@ -44,7 +44,7 @@ The email address you provide will only be used to send you information and upda
 
 If you decide to opt-in to our newsletter mailing list, you will receive our email newsletter that provides a round up of the best posts, tips, and tutorials appearing on blissfullydomestic.com each week. Our newsletter may also feature paid third party advertising.
 
-_Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email._
+ _Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email._
 
 Subscriptions by email and feed readers for Blissfully Domestic are managed by our third party provider, Google Feedburner. For information on unsubscribing to Google Feedburner email subscriptions, please refer to the detailed unsubscribe instructions at the bottom of each email.
 
