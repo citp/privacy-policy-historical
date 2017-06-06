@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theindychannel.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120161453id_/http%3A//www.theindychannel.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theindychannel.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162351id_/http%3A//www.theindychannel.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TheIndyChannel.com
+# Privacy Policy - TheIndyChannel.com Indianapolis, IN
 
 PRIVACY POLICY
 
