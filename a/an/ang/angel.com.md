@@ -1,57 +1,105 @@
-> *The following text is extracted and transformed from the angel.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227022230id_/http%3A//www.angel.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angel.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142048id_/http%3A//www.genesys.com/about/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Angel.com
+# Privacy | Genesys
 
-Angel provides interactive audio and speech content via the phone, Internet, and mobile devices (together, the "Service"). As a pioneer in the Voice Web industry, Angel uses unique personalization components and sophisticated database software to provide you with the best, easiest-to-use Voice Web service available. Because our technology represents the world's first platform for the instant creation and deployment of interactive audio and speech content, we are sensitive to the private nature of the information you provide to us over the Internet and the phone. Our Privacy Policy is designed to maximize your ability to protect your personal, private data while at the same time giving you the opportunity to share and obtain interesting and useful information. This Privacy Policy describes how we treat information received about you when you visit our Service. Please read the Privacy Policy carefully.
+At Genesys Telecommunications Laboratories, Inc. ("Genesys"), we are committed to protecting your privacy and providing you with the most powerful and secure online experience. You can travel through most of this web site (this "Site") without giving us any information about yourself. But sometimes we do collect information to provide services and/or information that you request, and this statement of privacy (this "Privacy Policy") explains data collection and use practices of Genesys in those situations. Please read this Privacy Policy. This Privacy Policy applies to your use of this website and all of its features and web pages (collectively, the “Site”). Please read this Privacy Policy carefully.
 
-**Information We Collect**  
-General. When you register as a user of the Service (each, a "User") and at other times, we will collect personally identifiable information from you. The personally identifiable information we collect includes limited personal data such as name, address, phone number and email address. However, we do not knowingly collect personal information from children under the age of thirteen.
+### Acceptance
 
-Interactive Content. Because Angel is an interactive service, other Users may set up order forms, surveys, polls or other mechanisms through which you can be asked to provide certain information. These features are entirely voluntary. If you do not wish to participate, you maydiscontinue your use of the service at any time. Angel is not responsible for the disclosure or use of any information collected by other Users through the Service; other Users may not be subject to the Angel privacy policy.
+Genesys Telecommunications Laboratories, Inc. and its subsidiaries and affiliates ("Genesys", “we”, “us”, “our”) provide this Site subject to this Privacy Policy. By accessing and using the Site, you accept and agree to this PRIVACY POLICY. If you do not agree to this privacy policy, please do not use the Site.
 
-Usage Information. Our web and phone servers automatically collect usage information when you visit our Service. Website usage information is information about our visitors (unregistered users of the Service) and Users that describes how our Service is used and navigated, including the number and frequency of visitors and Users to each web page and the length of their stays. Website usage information also includes the domain names and/or corresponding IP addresses (a numerical identifier for a computer on the Internet) of those who visit our website. Finally, phone usage information may include caller ID results depending on your local phone company's ability to transmit that information. To disable caller ID transmissions, please contact your local phone company.
+### Information We Collect about You
 
-**Security**  
-The personally identifiable information we collect about you is stored in limited access servers. We will maintain appropriate safeguards to protect the security, integrity, and privacy of these servers and of your personally identifiable information. Except as described below, we will not use or intentionally disclose any personally identifiable information about you to any unaffiliated third parties without your consent.
+Genesys is committed to protecting your privacy. So you should be aware that we may collect information about you through your use of our Site. Some of the information we collect may personally identify you. For example:
 
-**How We Use Information Collected**  
-We may combine the personally identifiable information we collect from you when you use the Service with other information about you that is available to us, including survey information, affiliate and third-party website usage information and information from other sources. We may use such information in several ways, including:
-
-  * To enable us to process and verify purchases, to provide you with the goods and services you have requested, and for the purposes disclosed when you provide the personally identifiable information.
-  * To send Users email notifications of new Service features and topic-based news alerts if they have signed up for these announcements.  
-
-  * To provide you with personalized content.  
-
-  * To give Angel editors information that is useful for developing new features and services that meet Users' needs.  
-
-  * To improve the content and navigation on our Service.  
-
-  * To alert you about new products and services and special offers. 
+  * You may provide registration information, such as your username, first and last name, mailing address, email address, language preference, country, and occupation, when using the Site to purchase or register a product, download software, participate in an online community or event, or subscribe to a newsletter. When registering a product, we may store your registration information along with any information you have provided during previous visits as part of your personal profile.
+  * You may provide information in our online communities, such as posts or comments. This may occur when you invite others to join an online community or when you share a post or blog. For example, you may provide names and email addresses when sharing a post.
+  * You may provide transaction information when using the Site (e.g., purchasing or registering a product or requesting information), including your name, billing address, and payment information.
+  * Location, IP address, domain, browser, viewing data, and other information may be collected as a part of our analysis of your use of our Site.
 
 
 
-We may also share such information with our affiliates and other third parties to provide you with goods or services requested by you. However, any party that receives your information for this purpose will be prohibited from using it for any means other than those necessary to facilitate your transaction with Angel unless you agree that the party may make other uses of your information.
+**By using the Site, you consent to our collection of your information.**
 
-Finally, we may also use personally identifiable information to enforce our Terms and Conditions of Use or share such information with i) the issuer of a criminal or civil subpoena; ii) governmental authorities when legally required to do so; or iii) governmental authorities investigating a crime. We reserve the right to contact you at any time regarding Service- related problems or questions as well as changes to our Terms and Conditions of Use, our Privacy Policy, or other policies that affect you and your use of our Service.
+### Use of Your Information
 
-**Your Ability to Opt Out or Opt In**  
-Opt Out. You can notify us that you do not wish to receive information about new products and services and special offers by opting out at the time you enter your personally identifiable information on the Angel website or by emailing us at [info@angel.com](mailto:info@angel.com).
+We may use your information for the following purposes:
 
-Opt In. Several of the services we provide, including many of the email notifications and the surveys we conduct, are entirely voluntary. You will not receive such services unless you opt in, i.e., unless you expressly choose to receive these services.
+  * To proceed with your registration and to make the Site easier for you to use by not requiring you to enter your information more than once;
+  * To deliver services or products that you request, purchase, or download;
+  * To help you quickly find products, services, or information;
+  * To notify you of product upgrades, special offers, updated information, and new services;
+  * To respond to inquiries or to communicate with you, such as through welcome messages, newsletters, or direct marketing;
+  * To facilitate participation in our online communities;
+  * To perform market research or to conduct surveys unless you have requested that we not contact you for this purpose;
+  * To enhance our marketing and to improve our Site, services, and products; or
+  * To comply with legal requirements and to prevent activities that may violate our policies.
 
-**Cookies**  
-We employ cookie technology to help visitors and Users move faster through the website portion of the Service. When a visitor or User accesses the Angel website and takes advantage of certain features, we place several cookies on that User's computer. A cookie is a string of information sent by a website and stored on your hard drive or temporarily in your computer's memory. This allows the website to recognize you as you move through the website without having to keep asking you for your username and password. We also employ cookie technology to store usernames and passwords to make the login process easier and faster.
 
-**Review and Correction**  
-You may review and update the personal information you provide us with as part of the registration process, or unsubscribe from the Service, by accessing your Profile at [http://www.angel.com](http://www.angel.com/).
 
-**Links**  
-We may make content from affiliated or other third party resources, including other websites, available to you from links located on the Service. These resources are not subject to our Privacy Policy, and may have their own individual privacy policy. We recommend that you review the privacy policy at each such resource to determine how it protects your privacy.
+**By using the Site, you consent to our use of your information for these purposes.**
 
-**Policy Modifications**  
-We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically.
+### Sharing of Your Information
 
-**Comments and Questions**  
-If you have any questions, comments or concerns about our Privacy Policy, please email us at [info@angel.com](mailto:info@angel.com).
+We will not disclose your personal information outside of Genesys except in limited circumstances, such as:
 
-_This policy was last updated on November 5, 2012._
+  * We may share your personal information with other Genesys companies and our business partners when necessary in order to support the uses mentioned above.
+  * We may hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases or postal mail, answering customer questions about products or services, and processing event registration. We will provide those companies with only the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+  * We may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary (i) to conform to the edicts of the law or comply with legal process served on us, (ii) to protect and defend the rights or property of Genesys, or (iii) to act in exigent circumstances to protect the personal safety of our users or the public.
+  * In the event that Genesys, or any portion thereof, is sold, transferred, merged, financed, or dissolved, in whole or in part, your personal information that we may possess may be sold, transferred, or otherwise disclosed as part of the transaction or proceeding, unless you instruct us not to do so.
+  * We may use a third-party service to host our online communities or to provide website analytics. We may also hire third parties to collect data or may purchase data from third parties, including renting email address lists for use in email campaigns. We will provide the same security and management options as set forth herein for data collected from our Site. However, you may encounter links to third-party sites (e.g., business partners) and, although a connection may be made to such sites, we are not responsible for their privacy policies and this Privacy Policy does not cover their practices.
+
+
+
+### Control of Your Information
+
+When you provide personal information to us, we will not share that information with third parties without your permission, other than in circumstances referred to above. We may send out important notices informing you of changes to our policies, technical service issues related to a product or service, or other information that is essential to the use of our Site, services, and products.
+
+### Access to Your Information
+
+We make good faith efforts to provide you with access so you can edit or update your personal information. You may have the ability to view or edit some of your personal information online. Profiles created on our sites may be kept at different locations for different services; so you may have to review and update the information in multiple locations. You may review and update this information or request deletions of any and all of your personal information at any time by contacting [legal@genesys.com](mailto:legal@genesys.com).
+
+**Note to California Residents:** California Civil Code Section 1798.83 allows California residents to request information regarding disclosure of personal information to third parties for the third parties' direct marketing purposes. To make a request, please contact [legal@genesys.com](mailto:legal@genesys.com).
+
+### Security of Your Information
+
+We are committed to protecting the security of your personal information and we honor your choices for its intended use. We have implemented the appropriate safeguards to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. For example, your personal information is stored in password-controlled servers with limited access. We make good faith efforts to provide the security measures necessary to keep the integrity and confidentiality of your information safe. However, no system can be completely secure and we do not guarantee that our security measures are impenetrable.
+
+You also have a significant role in protecting your information. As an example, you should not share your password with anyone. If you believe that your password has been compromised, you should immediately change your password.
+
+### Cookies and Other Mechanisms
+
+A cookie is placed on your machine (if you accept cookies) or is read if you have visited our Site previously. All of this is done in accordance with applicable laws.
+
+Web beacons, also known as clear gif technology, or action tags, assist in delivering the cookie. This technology tells us how many visitors clicked on key elements (such as links or graphics) While using the Site, we do not use this technology to access your personally identifiable information on the Site; it is a tool we use to compile aggregated statistics about Site usage. We may share aggregated Site statistics with our business partners but do not allow other companies to place clear gifs on the Site.
+
+To ensure we are creating and publishing relevant content, we may use information collected from cookies and other mechanisms. We may use this information in aggregated form and use site-visitation statistics to improve our sites. If you choose to not have your browser accept cookies from our Site, you will be able to view the text on the screens, however, you will not experience a personalized visit or to subscribe to the service offerings on our Site.
+
+This website uses the Google AdWords remarketing service to advertise on third-party websites (including Google) to previous visitors on our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site – for example, using the contact form to make an inquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Genesys website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+### Transfer of Your Information Across Borders
+
+Your information may be stored and processed in the United States or any other country in which Genesys or its vendors maintain facilities. **By using our Site, you consent to any transfer, storage, or processing of information outside of your country**. Several countries, including those in the European Economic Area, have established data protection laws and regulations that place restrictions on the transfer of personal information across country borders. We are committed to complying with all of those laws and regulations. However, when you use our Site and provide such personal information, you should do so in compliance with the applicable data protection laws and regulations in your country.
+
+### Children’s Information
+
+The Site is not intended for use by individuals under the age of 13. We do not knowingly collect personal data from nor send requests for personal data to individuals under the age of 13.
+
+### Modifications to the Privacy Policy
+
+Genesys may update and make changes to the Privacy Policy at any time. When we do so, we will also revise the date at the bottom of the first page of the Privacy Policy. When we make material changes to the Privacy Policy, we will notify you by placing prominent notice on the Site.
+
+### Contact information
+
+If you have any questions about the Privacy Policy, please contact us at [legal@genesys.com](mailto:legal@genesys.com).
+
+Last updated: April 22, 2016
+
+### Corporate Headquarters
+
+**Genesys**  
+2001 Junipero Serra Blvd.  
+Daly City, CA 94014  
+**US:** 888-GENESYS (436-3797)  
+**International:** +1 650 466-1100  
+**Fax:** +1 650 466-1260
