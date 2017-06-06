@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the trust.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907181514id_/http%3A//www.trust.com/en/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trust.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606061459id_/http%3A//www.trust.com/en/legal/privacy) for the most accurate reproduction.*
 
 # Trust.com - Legal - Privacy Statement
-
-[ ](https://web.archive.org/ "Home")
-
-[ ](https://web.archive.org/account/login)
-
-Our support is organized by product. First you will need to find your product, then you will be able to get support, information, downloads, etc. 
-
-The easiest way to find your product is to enter the 5-digit article number or (part of the) product name. The article number and name are both mentioned on the product itself and on the packaging. 
-
-[ Where can I find the article number? ](https://web.archive.org/en/support/find-article-number)
-
-Your search has no results 
 
 What This Privacy Policy Covers
 
