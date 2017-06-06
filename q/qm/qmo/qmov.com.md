@@ -1,40 +1,60 @@
-> *The following text is extracted and transformed from the qmov.com privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613200627id_/http%3A//qmov.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qmov.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606204942id_/https%3A//www.qmov.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Qmov.com - Privacy Policy
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+**Your Privacy is Important to us !**
 
-The Information We Collect: We do not collect any customer information. Please see our payment processor's Privacy Policy concerning collected information. 
+This policy explains the privacy practices of our website. In order to provide customer service, payment processing, billing, fraud detection and a more personalized and positive costumer experience, the company collects and uses certain information about you. This policy explains what we collect, what we use and how you'll interact with the company in order to ensure the accuracy of the data we collect and use. Your privacy is respected by us by discreetly charging your card so that there is no connection to adult products and/or service. 
 
-This notice applies to all information collected or submitted on the Qmov website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+**Information that is Collected**
 
-Name  
-Address  
-Zip/Town  
-Email address  
-Phone number  
-Email
+**Required Information**
 
-The Way We Use Information: 
+To subscribe to this service, you must voluntarily submit you full name, street address, postal code, city, state, country, email address  and you agree to be bound by the terms of service. Name and address (Zip code) information is necessary for us to protect you against credit card fraud, _nothing will ever be mailed to you_! A 128bit SSL secure transmission is used to send such information.
 
-We use the information gathered from our members for customer support and dispute resolution. Your information will never be sold to a third-party by Proximus Media Inc.
+**Automatically retrieved information**
 
-Our Commitment To Data Security 
+We automatically retrieve your numberic IP address assigned to you by your Internet Service Provider as well as your browser.  
+We also keep track of all email communication and we identify the origination IP. The access patterns of your account are also automatically logged for fraud prevention.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+**Third-Party Information**
 
-How You Can Access Or Correct Your Information: 
+During the processing of transactions, we may collect verification information from our credit card authorization service. Our credit card authorization service verifies that users' credit card information and address matches the information that the user supplies to this site.
 
-You can access all your personally identifiable information that we collect online and maintain by visiting the website of the payment processor that you signed up with. We use this procedure to better safeguard your information. 
+**Aggregate Statistical Information**  
+We may collect aggregated statistical information for purposes of improving our service. This data does not contain personally identifying information, such as name or email address.
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+**Transaction Information Security**  
+Cardholder Account and Transaction information is protected from unauthorised access by physical, electronic and procedural security measures recommended by Visa International & Mastercard International Account Information Security Best Practices Guide.
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+**Our Use of Information**
 
-How To Contact Us: 
+**Internal Uses**  
+We use data collected on our website in order to 1) provide our service, 2) provide customer service, and 3) improve our product. We give access to individually identifiable information about our users only to those employees/third parties who require it to fulfill customer service requests.
 
-Proximus Media, Inc.   
-1155 W. 4th Street, Suite 214   
-Reno, NV 89503
+**Contacting Visitors**  
+We may contact you about our products, sales, third party offers or conduct additional surveys with your right to opt out.
 
-Should you have other questions or concerns about these privacy policies, please contact us [here](http://www.happymember.com/)
+**Disclosure to Third Parties**  
+We will not give third parties individually identifiable information about users except for the limited purposes described below.  
+\- Whenever it is necessary to comply with the law or legal process, or to ensure the integrity and operation of our business and systems.  
+\- When it is necessary to collect debt and pursue chargeback retrivals.  
+\- We are compelled to do so by order of a duly-empowered governmental authority.  
+\- We are required to disclose it in order to process transactions.   
+\- To fullfill customer service requirements.
+
+**Internet Information**  
+We use IP addresses to analyze trends, administer the site and gather broad demographic information for aggregate use. We may also use IP information to reduce credit card and bank account fraud.
+
+**Use of Cookies**  
+We use cookies to easy the join process for uses. These cookies allow us to remember a user who visits multiple pages in our site, so that the user doesn't need to re-enter information multiple times. In addition, we use cookies to process our affiliate program; no personal information is shared with our affiliates. Usage of a cookie is in no way linked to any personally identifiable information while on our site. 
+
+**Notification of Changes**  
+This policy may be revised over time as new features are added to the website. We will post those changes prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check this site for information about revisions to our privacy policy. 
+
+**Right to Delete**  
+You may contact us to modify or remove your account details. 
+
+**How to Contact Us:**
+
+Contact us [here](http://help.qmov.com/home) should you have any questions regarding this document.
