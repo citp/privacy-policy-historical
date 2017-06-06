@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitachi-hightech.com privacy policy that was archived on 2016-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160918000516id_/http%3A//www.hitachi-hightech.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitachi-hightech.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150357id_/http%3A//www.hitachi-hightech.com/us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Hitachi High-Technologies in America
 
