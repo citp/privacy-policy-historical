@@ -1,25 +1,26 @@
-> *The following text is extracted and transformed from the three.ie privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235553id_/http%3A//www.three.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the three.ie privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154557id_/http%3A//www.three.ie/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This policy statement relates to our privacy practices in connection with this website and our mobile or other applications. It is intended to inform you about the kinds of information we may obtain from or about you as a visitor to our websites or a user of our mobile or other applications (collectively, our “website”), how we may use that information (together with information provided offline or via other means) and who we may share that information with. We are not responsible for the content or privacy practices of other websites.
+This privacy statement explains the kinds of information we may obtain from or about you as a visitor to our websites and pages on social media or as a user of our mobile or other applications (collectively, our “website”); how we may use that information (together with information provided offline or via other means); and who we may share that information with. 
 
-Each time you access, browse and/or use our website you agree to the following terms. If you do not agree you must cease to use our website.
+Each time you access, browse and/or use our website you agree to the following terms. If you do not agree you must cease to use our website. We are not responsible for the content or privacy practices of other websites.
 
 ## General Statement.
 
-Reference to "3", "Three", "we" or "us" in this Privacy Policy means Three Ireland (Hutchison) Limited of 28/29 Sir John Rogerson's Quay, Dublin 2. Three respects your right to privacy and we are committed to complying with applicable data protection and privacy law.
+Reference to "3", “Three”, “we” or “us” in this Privacy Policy means Three Ireland (Hutchison) Limited of 28/29 Sir John Rogerson's Quay, Dublin 2. Three respects your right to privacy and we are committed to complying with applicable data protection and privacy law.
 
-We will only collect personal information about you with your awareness and as described in this policy. Any personal information which you provide to us and/or which we obtain about you, will be kept secure and confidential using appropriate technical measures. We may combine personal information that we collect via one method (for example, our website) with personal information that we collect via another method (for example, your offline interactions with us or where you contact us on social media).
+We will only collect personal information about you with your awareness and as described in this policy. Any personal information which you provide to us and/or which we obtain about you, will be kept secure and confidential using appropriate technical measures. We may combine personal information that we collect via one method (for example, our website) with personal information that we collect via another method (for example, your offline interactions with us).
 
 ## Collection and Use of Your Personal Information.
 
-We may collect and process the following data through our website (and combine this with data provided offline through your interactions with us or via social media):
+We may collect and process the following data through our website (and combine this with data provided offline through your interactions with us):
 
-  * Three uses cookies or similar technologies on our website. To find out more visit our Cookie Policy available at <http://www.three.ie/cookie-policy/>. By using our website, you agree to Three’s use of cookies. You can opt out at any time by visiting http://www.youronlinechoices.com/ie/your-ad-choices or by using the specific opt-outs listed in our Cookie Policy.
+  * Three uses cookies or similar technologies on our website. To find out more visit our Cookie Policy available at <http://www.three.ie/cookie-policy/>. By using our website, you agree to Three’s use of cookies. You can opt out at any time by visiting <http://www.youronlinechoices.com/ie/your-ad-choices> or by using the specific opt-outs listed in our Cookie Policy.
   * Any information provided by or about you through our website including competitions, comment boxes, forms, links, website usage or any other means.
   * If any person contacts us via phone, email, post, surveys, through our website or otherwise, we may keep a record of that correspondence.
   * Where you purchase any products or services from us, we collect your data in relation to that product or service as set out in this policy and our contract with you for that product or service.
+  * Three provides channels of social media communications in order to provide information regarding our services; respond to queries; and to deliver customer care to our customers. Three may retain any interactions with customers via any of its social media channels as part of your customer care history, along with your interactions with customer care via any other channel. Social media interactions with non-customers will be retained for a maximum period of 3 months for the relevant purposes set out below.
 
 
 
@@ -36,7 +37,7 @@ You agree that any data you provide to us will be true, complete and accurate in
   * personalise your experience on our website;
   * provide and conduct competitions and similar offers;
   * keep you up to date by post, telephone, email, and direct to your handset by text, picture, video and audio message or pop-up with information About Three, 3 services, and offers and promotions subject to any marketing preferences indicated by you. It's your choice and you’re in control - you can contact us at any time to update your preferences through My3, using the opt-out links on any email or SMS you receive or by writing to or calling customer services. Please note that where you opt out of all marketing from Three you will still receive service communications from Three (for example, billing communications); and
-  * show you targeted online marketing adverts on our website and other websites. See our Cookie Policy for more information on third party cookies we use for targeted advertising and how to opt out. Where you opt out of the use of third party cookies by Three you will no longer see targeted ads but may see generic ads online featuring Three. Online targeted adverts may be targeted by matching activities or information collected via third party cookies on our website with information collected offline (e.g. your contract type or length with us).
+  * show you targeted online marketing adverts on our website and other websites. See our [Cookie Policy](http://www.three.ie/cookie-policy/) for more information on third party cookies we use for targeted advertising and how to opt out. Where you opt out of the use of third party cookies by Three you will no longer see targeted ads but may see generic ads online featuring Three. Online targeted adverts may be targeted by matching activities or information collected via third party cookies on our website with information collected offline (e.g. your contract type or length with us). 
 
 
 
@@ -44,7 +45,7 @@ If you are aged 16 or under, you must get your parent or guardian's consent to p
 
 ## Monitoring of Your Communications
 
-We may monitor and/or record communications between you and 3 for quality control and training purposes.
+We may monitor and/or record communications between you and 3 for quality control, analytics, verification and training purposes.
 
 ## Retention of data
 
@@ -58,7 +59,7 @@ We take the security of the data that we process seriously. However, the transmi
 
 ## User Rights and access to your personal information
 
-The Data Protection Acts, 1988 and 2003 give you the right to access, erase or correct information held about you in certain circumstances. You have the right to request a copy of any personal information we hold about you. We will charge an administrative fee of €6.35 to provide a copy of any data held and we may request a copy of ID to confirm your identity. To make such a request, please write by sending an email to privacy@three.ie or the Data Protection Officer, Three Ireland (Hutchison) Limited, 28/29 Sir John Rogerson's Quay, Dublin 2.
+The Data Protection Acts, 1988 and 2003 give you the right to access, erase or correct information held about you in certain circumstances. You have the right to request a copy of any personal information we hold about you. We will charge an administrative fee of €6.35 to provide a copy of any data held and we may request a copy of ID to confirm your identity. To make such a request, please write by sending an email to [privacy@three.ie](mailto:privacy@three.ie) or the Data Protection Officer, Three Ireland (Hutchison) Limited, 28/29 Sir John Rogerson's Quay, Dublin 2.
 
 ## Other terms and conditions
 
