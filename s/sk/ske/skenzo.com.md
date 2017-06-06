@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skenzo.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119142311id_/http%3A//www.skenzo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skenzo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606125559id_/http%3A//skenzo.com/privacy.php) for the most accurate reproduction.*
 
 # Skenzo - Domain Parking Company | Exclusive Traffic Monetization Programs
 
