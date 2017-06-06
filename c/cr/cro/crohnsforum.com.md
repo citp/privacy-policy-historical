@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crohnsforum.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331121514id_/http%3A//www.crohnsforum.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crohnsforum.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045046id_/http%3A//www.crohnsforum.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
