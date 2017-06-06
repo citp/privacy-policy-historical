@@ -1,79 +1,45 @@
-> *The following text is extracted and transformed from the belleproperty.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127192610id_/http%3A//www.belleproperty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belleproperty.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104036id_/http%3A//www.belleproperty.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | belleproperty.com.au
+# Privacy Policy - Belle Property Australasia
 
-Belle Property Australasia Pty Ltd (ACN 12769420) (Belle Property) together with our  
-Related Bodies Corporate (as defined pursuant to the Corporations Act 2001 (Cth)),  
-Franchisees, Agents and Licensees (Belle Property Parties) are committed to protecting  
-your privacy. This document provides information we are required to tell you regarding  
-collection of your personal information pursuant to the Privacy Act 1988 (Cth) (Privacy Act).  
-Belle Property and the Belle Property Parties collect and use personal information from their  
-clients, prospective clients, attendees at rental and property open for inspections, as well as  
-visitors to the Belle Property website located at http://www.belleproperty.com (Belle  
-Property Website) in order to provide you with our services which include real estate  
-services connected with buying, selling and leasing properties (commercial and residential  
-as well as holiday homes) and responding to your requests, questions and comments (Belle  
-Property Services).
+Property Type __
 
-  
-We may also collect and use your personal information to assist us in advising you of other  
-services or information which may be of interest, putting you in contact with other  
-businesses who can assist you, promoting and advertising Belle Property, the Belle Property  
-Parties and the Belle Property Services (or other products and services any of them offer),  
-direct marketing and for our own statistical or research purposes (Purposes).  
-If you do not provide us with the personal information we may request, we may not, for  
-example, be able to provide you with some or all of the Belle Property Services you have  
-requested, or provide you with specific information or responses to your requests or  
-questions. For example we may not be able to provide you with information concerning a  
-home for rent or sale, or provide you with access to inspect such properties.
+  * buy
+    *  __Any
+    *  __House
+    *  __Unit
+    *  __Townhouse
+    *  __Villa
+    *  __Apartment
+    *  __Flat
+    *  __Studio
+    *  __Warehouse
+    *  __Duplex/Semi-detached
+    *  __Alpine
+    *  __Acreage/Semi-rural
+    *  __Block Of Units
+    *  __Terrace
+    *  __Retirement
+    *  __Serviced Apartment
+    *  __Land
+    *  __Other
+  * 
 
-  
-Belle Property and the Belle Property Parties may disclose your personal information to  
-each other to effectively provide you with the Belle Property Services, or in connection with  
-the Purposes. In addition, we may disclose your personal information to other entities, for  
-example to contractors or other service providers (Belle Property Partners) who might  
-assist us in providing the Belle Property Services, or in connection with the Purposes.  
-Some of the Belle Property Parties and/or Belle Property Partners are located in Australia,  
-but there may be some located outside Australia, China or New Zealand. By providing your  
-personal information to Belle Property and the Belle Property Parties, you consent to  
-disclosures to any Belle Property Parties and/or Belle Property Partners who may be located  
-overseas (Overseas Disclosure).
 
-  
-Where we do provide your personal information to overseas recipients (including any Belle  
-Property Parties and/or Belle Property Partners), we will take reasonable steps to ensure  
-that the overseas recipients undertake to protect your privacy. However, by consenting to  
-any Overseas Disclosure, you acknowledge that sub-clause 8.1 of the Australian Privacy  
-Privacy Collection Statement Principles (which requires Belle Property and Belle Property Parties prior to any Overseas Disclosure to ensure that the recipient has taken all reasonable steps to ensure that it does  
-not breach the Australian Privacy Principles in relation to such Overseas Disclosure) will not  
-apply to any Overseas Disclosure of your personal information.
+Belle Property Australasia Pty Ltd (ACN 12769420) (Belle Property) together with our Related Bodies Corporate (as defined pursuant to the Corporations Act 2001 (Cth)), Franchisees, Agents and Licensees (Belle Property Parties) are committed to protecting your privacy. This document provides information we are required to tell you regarding collection of your personal information pursuant to the Privacy Act 1988 (Cth) (Privacy Act).Belle Property and the Belle Property Parties collect and use personal information from their clients, prospective clients, attendees at rental and property open for inspections, as well as visitors to the Belle Property website located at http://www.belleproperty.com (Belle Property Website) in order to provide you with our services which include real estate services connected with buying, selling and leasing properties (commercial and residential as well as holiday homes) and responding to your requests, questions and comments (Belle Property Services).
 
-  
-In addition, you acknowledge that Belle Property and the Belle Property Parties will not be  
-accountable under the Privacy Act for any breach of your privacy by the overseas recipient  
-of the Overseas Disclosure, nor will you be able to seek redress under the Privacy Act for any  
-use of, or breach by, the recipient in connection with the Overseas Disclosure. You also  
-acknowledge that the overseas recipient of the Overseas Disclosure may not be subject to  
-similar laws or principles as under Australian privacy laws. You may withdraw your consent  
-in this regard in writing to us.
+We may also collect and use your personal information to assist us in advising you of other services or information which may be of interest, putting you in contact with other businesses who can assist you, promoting and advertising Belle Property, the Belle Property Parties and the Belle Property Services (or other products and services any of them offer), direct marketing and for our own statistical or research purposes (Purposes).If you do not provide us with the personal information we may request, we may not, for example, be able to provide you with some or all of the Belle Property Services you have requested, or provide you with specific information or responses to your requests or questions. For example we may not be able to provide you with information concerning a home for rent or sale, or provide you with access to inspect such properties.
 
-  
-Belle Property’s Privacy Policy (available at the Belle Property Website) explains in detail  
-how we will manage your personal information. In particular, the Privacy Policy contains  
-information regarding:
+Belle Property and the Belle Property Parties may disclose your personal information to each other to effectively provide you with the Belle Property Services, or in connection with the Purposes. In addition, we may disclose your personal information to other entities, for example to contractors or other service providers (Belle Property Partners) who might assist us in providing the Belle Property Services, or in connection with the Purposes. Some of the Belle Property Parties and/or Belle Property Partners are located in Australia, but there may be some located outside Australia, China or New Zealand. By providing your personal information to Belle Property and the Belle Property Parties, you consent to disclosures to any Belle Property Parties and/or Belle Property Partners who may be located overseas (Overseas Disclosure).
 
-  
-\- how you can access and seek correction of the personal information we hold about  
-you;  
-\- how you may complain about a failure by Belle Property or any Belle Property Parties  
-to comply with our privacy obligations; and/or  
-\- how we will deal with your complaint.
+Where we do provide your personal information to overseas recipients (including any Belle Property Parties and/or Belle Property Partners), we will take reasonable steps to ensure that the overseas recipients undertake to protect your privacy. However, by consenting to any Overseas Disclosure, you acknowledge that sub-clause 8.1 of the Australian Privacy Privacy Collection Statement Principles (which requires Belle Property and Belle Property Parties prior to any Overseas Disclosure to ensure that the recipient has taken all reasonable steps to ensure that it does not breach the Australian Privacy Principles in relation to such Overseas Disclosure) will not apply to any Overseas Disclosure of your personal information.
 
-You may request a copy of Belle Property’s Privacy Policy to be provided to you in an  
-alternative form, such as in hard copy.
+In addition, you acknowledge that Belle Property and the Belle Property Parties will not be accountable under the Privacy Act for any breach of your privacy by the overseas recipient of the Overseas Disclosure, nor will you be able to seek redress under the Privacy Act for any use of, or breach by, the recipient in connection with the Overseas Disclosure. You also acknowledge that the overseas recipient of the Overseas Disclosure may not be subject to similar laws or principles as under Australian privacy laws. You may withdraw your consent in this regard in writing to us.
+
+Belle Property’s Privacy Policy explains how we will manage your personal information. In particular, the Privacy Policy contains information regarding: how you can access and seek correction of the personal information we hold about you;- how you may complain about a failure by Belle Property or any Belle Property Parties to comply with our privacy obligations; and/or- how we will deal with your complaint.
+
+You may request a copy of Belle Property’s Privacy Policy to be provided to you in an alternative form, such as in hard copy.
 
 ### How to contact us
 
 If you wish to contact us about your personal information you should contact: Fiona Biondi, Director of Client Services. Phone: +61 2 8116 9444  Email: [fiona.biondi@belleproperty.com](mailto:fiona.biondi@belleproperty.com).
-
- 
