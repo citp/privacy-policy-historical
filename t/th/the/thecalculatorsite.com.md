@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecalculatorsite.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233851id_/http%3A//www.thecalculatorsite.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecalculatorsite.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191711id_/http%3A//www.thecalculatorsite.com/privacypolicy.php) for the most accurate reproduction.*
 
 # The Calculator Site Privacy Policy
 
@@ -8,15 +8,15 @@ In order for The Calculator Site to count visitor numbers, a unique "cookie" may
 
 For the purposes of remembering options such as your chosen currency in our finance calculators (to allow us to select the option for you), we place a "cookie" to store this information. 
 
-#### Third Party Advertising
+## Third Party Advertising
 
-We use Google and other third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. Your continued use of this web site confirms your acceptance of this.
+We use Ezoic, Google, Media.net and other third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. Your continued use of this web site confirms your acceptance of this.
 
 We and third-party vendors may use first-party cookies (such as the Google Analytics cookie) or other first-party identifiers, and third-party cookies (such as Google advertising cookies) or other third-party identifiers together. 
 
 If you would like more information about this practice and to know your choices about not having this information used by Google, please [see the privacy policy at Google.com.](http://www.google.com/intl/en/policies/privacy/)
 
-#### Third Party Cookies
+## Third Party Cookies
 
 In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" in your browser. 
 
@@ -25,3 +25,11 @@ Google, as a third party vendor, uses cookies to serve ads on the The Calculator
 Users may opt-out of the Google Analytics Advertising Features we use through Ads Settings, Ad Settings for mobile apps, or any other available means (for example, the NAI's consumer opt-out). Should you wish to opt out directly as a web user, Google Analytics' has available opt-outs for the web [available here](https://tools.google.com/dlpage/gaoptout/). 
 
 More information on how to opt out of the use of the these cookies can be found in [Google's ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+### Facebook Tracking Pixel
+
+We use a Facebook tracking pixel on this website. 
+
+This means that third parties may use cookies, web beacons, and similar technologies to collect or receive information from our website and elsewhere on the internet and use that information to provide measurement services and target ads. 
+
+If you wish to opt out of this, please visit [the Digital Advertising Alliance's](https://www.aboutads.info/choices/) consumer choice page. 
