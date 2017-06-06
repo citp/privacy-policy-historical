@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unbiasedwriter.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524215922id_/http%3A//unbiasedwriter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unbiasedwriter.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190434id_/http%3A//unbiasedwriter.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Unbiased Writer
 
