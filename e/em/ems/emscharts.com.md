@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emscharts.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019001653id_/http%3A//www.emscharts.com/pub/technology-privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emscharts.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606235813id_/https%3A//emscharts.com/pub/technology-privacy.cfm) for the most accurate reproduction.*
 
 # emsCharts - Pre Hospital Care & Management Software
 
@@ -10,17 +10,18 @@ We invite you to contact us if you have questions about this policy. You may con
 
 Privacy Concerns  
 emsCharts, Inc.  
-600 Mifflin Road  
-Pittsburgh, PA 15207  
+420 Commonwealth Drive  
+STE 201  
+Warrendale, PA 15086  
 USA
 
-You may contact us by e-mail at [privacy@emscharts.com](mailto:privacy@emscharts.com). You may call us at 412.647.4895.
+You may contact us by e-mail at [privacy@emscharts.com](mailto:privacy@emscharts.com). You may call us at 866.647.8282.
 
 Dispute Resolution and Privacy Seals
 
 We have the following privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern.
 
-**New Dispute:** NOTE: You must login and use the Support system to file any disputes. All disputes are to be handled through our business office by contacting Pete Goutmann at 412.647.7090 or via email at goutmann@emscharts.com. 
+**New Dispute:** NOTE: You must login and use the Support system to file any disputes. All disputes are to be handled through our business office by contacting Pete Goutmann at 412.256.7200 or via email at goutmann@emscharts.com. 
 
 Additional Information
 
