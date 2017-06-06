@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exofficio.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109123009id_/https%3A//www.exofficio.com/customer-service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exofficio.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606070238id_/http%3A//exofficio.com/customer-service/privacy.html) for the most accurate reproduction.*
 
-# Privacy and Security | ExOfficio
+# Privacy & Security
 
 ### Effective Date: 1 May, 2014
 
