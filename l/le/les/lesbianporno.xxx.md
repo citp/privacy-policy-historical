@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the lesbianporno.xxx privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104041302id_/http%3A//lesbianporno.xxx/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lesbianporno.xxx privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606090619id_/http%3A//lesbianporno.xxx/privacypolicy) for the most accurate reproduction.*
 
 # 
 
-[](https://web.archive.org/)
+[](https://web.archive.org/)[](https://web.archive.org/)
 
 Videos[Categories](https://web.archive.org/categories)
 
 
-[Upload](https://web.archive.org/upload "UPLOADS.UPLOAD_VIDEO")[Member](https://web.archive.org/member "Member area")[Live Sex](http://fwbntw.com/show.php?sid=117&spid=161&scid=10&cgid=1 "Live Sex")
+[Upload](http://cashpartners.com/ "UPLOADS.UPLOAD_VIDEO")[Member](http://cashpartners.com/ "Member area")[Live Sex](http://fwbntw.com/show.php?sid=117&spid=161&scid=10&cgid=1 "Live Sex")[Adult Dating](http://secure.bootyfinder.com/track/MjIuMi40LjcuMC4wLjAuMC4w "Dating")
 
 respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the website LesbianPorno.xxx (“ **Website** ”) and our practices for collecting, using, keeping, protecting, and disclosing that information.
 
