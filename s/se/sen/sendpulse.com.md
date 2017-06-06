@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sendpulse.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201161340id_/https%3A//sendpulse.com/legal/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendpulse.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606174838id_/https%3A//sendpulse.com/legal/pp) for the most accurate reproduction.*
 
 # Privacy Policy | SendPulse
 
-  * [ __ ](https://sendpulse.com/)
-  * [ Legal  ](https://sendpulse.com/legal)
-  * Privacy Policy 
+  1. [ Home  ](https://sendpulse.com/)
+  2. [ Legal  ](https://sendpulse.com/legal)
+  3. Privacy Policy 
 
 
 
