@@ -1,740 +1,642 @@
-<!--The following is the downloaded HTML source of the devolutions.net privacy policy that was archived on 2015-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150619122546id_/http%3A//devolutions.net/Home/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the devolutions.net privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606230433id_/https%3A//devolutions.net/Home/PrivacyPolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#" xmlns="http://www.w3.org/1999/xhtml"><head><title>
-	
-            Privacy Policy - Devolutions
+<!DOCTYPE html><html prefix="og: http://ogp.me/ns#" lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><meta name="apple-mobile-web-app-capable" content="yes"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="theme-color" content="#0068c3">
+            <meta name="description" content="Devolutions is a leading provider of remote connection, password and credential management solutions for sysadmins and IT pros.">
+        
+            <meta property="og:site_name" content="Devolutions">
+            <meta property="og:type" content="website">
+            <meta property="og:url" content="https://devolutions.net/Home/PrivacyPolicy">
             
+            <meta property="og:title" content="Privacy Policy">
+            <meta property="og:description" content="">
+        <title>
+	Privacy Policy - Devolutions
 </title>
-        <link href="/App_Themes/Devolutions/fonts.css?0607151151" rel="stylesheet" type="text/css">  
+        <link rel="canonical" href="https://devolutions.net/Home/PrivacyPolicy">
 
-  
-            <link href="/App_Themes/Devolutions/reset.css?0607151151" rel="stylesheet" type="text/css">
-            <link href="/App_Themes/Devolutions/cssScreen.css?0618151528" rel="stylesheet" type="text/css">  
+        <!-- CSS -->
+        <link rel="stylesheet" href="/Content/Devolutions/css/bootstrap.css">
+        <link rel="stylesheet" href="/Content/Devolutions/Fonts-Devolutions.css">
+        <link rel="stylesheet" href="/Content/Devolutions/css/devolutions.css">
+        <link rel="stylesheet" href="/Content/Devolutions/Devolutions.css">
 
-
-        <link rel="icon" type="image/x-icon" href="/favicon.ico">
-        <!--[if IE]><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" /><![endif]-->
-        <meta name="viewport" content="width=1024"><meta name="msapplication-TileImage" content="http://blob.devolutions.net/images/tileimage/DEVO144.png"><meta name="msapplication-TileColor" content="#0069C3">
-            <meta name="description" content="Developing innovative enterprise software that helps users cost-effectively, simply and effectively achieve their network management and security goals">
-            <meta name="keywords" content="Devolutions, Devolution, Remote Desktop Manager, Password Vault Manager, Devolutions Cloud, Devolutions Server"> 
         
 
-    <script async="" charset="utf-8" src="//v2.zopim.com/?1wrc66u3nBBa0rAOEtcTSgjfDcHU7dEk" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K2QBJ5"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
-    </script>
-    
-    <link rel="canonical" href="http://devolutions.net/Home/PrivacyPolicy">
+        <!--[if lt IE 9]>
+            <script src="~/Scripts/html5shiv/3.7.3/html5shiv.min.js"></script>
+            <script src="~/Scripts/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
 
+        <!-- Favicon -->
+        <link rel="apple-touch-icon" href="/favicon.ico?v=3.0.0">
+        <link rel="icon" href="/favicon.ico?v=3.0.0">
 
+        <!-- Windows Tiles -->
+        <meta name="msapplication-config" content="/tiles.xml">
 
-        <script type="text/javascript">
-
-            $.fn.isOnScreen = function() {
-
-                var win = $(window);
-                var viewport = {
-                    top: win.scrollTop(),
-                    left: win.scrollLeft()
-                };
-                viewport.right = viewport.left + win.width();
-                viewport.bottom = viewport.top + win.height();
-
-                var bounds = this.offset();
-                bounds.right = bounds.left + this.outerWidth();
-                bounds.bottom = bounds.top + this.outerHeight();
-
-                return (!(viewport.right < bounds.left || viewport.left > bounds.right || viewport.bottom < bounds.top + 51 || viewport.top > bounds.bottom));
-
-            };
-
-            function change_chat_button(status) {
-                switch (status) {
-                case "online":
-                    $('.custom-chat, .zopim:first-child').show();
-                    break;
-                default:
-                    $('.custom-chat, .zopim:first-child').hide();
-                    break;
-                }
-            }
-
-            function getHiddenProp() {
-                var prefixes = ['webkit', 'moz', 'ms', 'o'];
-
-                if ('hidden' in document) return 'hidden';
-
-                for (var i = 0; i < prefixes.length; i++) {
-                    if ((prefixes[i] + 'Hidden') in document)
-                        return prefixes[i] + 'Hidden';
-                }
-                return null;
-            }
-
-            function isHidden() {
-                var prop = getHiddenProp();
-                if (!prop) return false;
-
-                return document[prop];
-            }
-
-            function notify_user(num) {
-                if (num > 0 && num != undefined) {
-                    // Let's check if the browser supports notifications
-                    if (!("Notification" in window)) {
-                        $zopim.livechat.window.show();
-                        return;
-                    }
-
-                    var notification;
-                    var options = { icon: "http://devolutions.net/favicon.png" };
-                    if (Notification.permission === "granted" && isHidden()) {
-                        notification = new Notification("You have " + num + " new chat message", options);
-                    } else if (Notification.permission !== 'denied') {
-                        Notification.requestPermission(function(permission) {
-                            if (!('permission' in Notification)) {
-                                Notification.permission = permission;
-                            }
-
-                            if (permission === "granted" && isHidden()) {
-                                notification = new Notification("You have " + num + " new chat message", options);
-                            }
-                        });
-                    }
-
-                    $zopim.livechat.window.show();
-                }
-            }
-
-            $(document).ready(function() {
-
-                $('form').preventDoubleSubmission();
-
-                if (!(navigator.platform == 'iPad' || navigator.platform == 'iPhone' || navigator.platform == 'iPod')) {
-
-                    adjustFooter();
-                    $(window).resize(adjustFooter);
-                    $(window).scroll(adjustFooter);
-                }
-
-                if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) /* || (window.navigator.msPointerEnabled)*/ || (navigator.userAgent.match(/iPad/i))) {
-
-                    $('.hover').bind("click touchstart MSPointerDown", function() {
-                        if (!$(this).hasClass("hovering")) {
-                            $('#MMenu_holder li').removeClass('hovering');
-                        }
-
-                        $(this).toggleClass('hovering');
-                    });
-
-                    $('.hover > a').bind("click touchstart MSPointerDown", function(e) {
-                        e.preventDefault();
-                    });
-
-                    $('.hovering ul a').bind("click touchstart MSPointerDown", function() {
-                        return true;
-                    });
-                }
-            });
-
-                function adjustFooter() {
-                    if (!$("#ctl00_footerHolder").isOnScreen()) {
-                        $("#footer").addClass("floating");
-                    } else {
-                        $("#footer").removeClass("floating");
-                    }
-
-                    $('.footer.floating').css('left', -$(window).scrollLeft());
-                }
-
-            function resizeFancyBox() {
-                var iFrameContentHeight = $("#fancybox-frame").contents().find("body").height();
-                var iFrameContentWidth = $("#fancybox-frame").contents().find("body").width();
-
-                var outer = $('#fancybox-wrap');
-                var inner = $('#fancybox-inner');
-                var paddingTotal = 0;
-                var extra = 20; // some extra space to avoid Scrollbars
-
-                if (iFrameContentHeight > 0 && iFrameContentWidth > 0) {
-                    outer.css({
-                        height: iFrameContentHeight + paddingTotal + extra + 15,
-                        width: iFrameContentWidth + paddingTotal + extra
-                    });
-                    inner.css({
-                        height: iFrameContentHeight + extra,
-                        width: iFrameContentWidth + extra
-                    });
-
-                    $.fancybox.center();
-                }
-            }
-
-            jQuery.fn.preventDoubleSubmission = function() {
-                $(this).on('submit', function(e) {
-                    var $form = $(this);
-
-                    if ($form.data('submitted') === true) {
-                        e.preventDefault();
-                    } else {
-                        $form.data('submitted', true);
-                    }
-                });
-
-                return this;
-            };
-
-        </script>   
+        <!-- Script -->
+        <script type="text/javascript" async="" src="https://cse.google.com/cse.js?language=en&amp;cx=002595762157764814051:idfanehc90k"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K2QBJ5"></script><script async="" charset="utf-8" src="//web.archive.org/web/20170507080452/https://v2.zopim.com/?1wrc66u3nBBa0rAOEtcTSgjfDcHU7dEk" type="text/javascript"></script><script src="/Content/Devolutions/liga.js"></script>
+        <script src="/Scripts/jquery/1.12.4/jquery.min.js"></script>
+        <script src="/Scripts/jquery.migrate/1.3.0/jquery-migrate.min.js"></script>
+        <script src="/Scripts/zopim/zopim.js"></script>
 
         <!-- Google Tag Manager -->
         <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K2QBJ5"
-                          height="0" width="0" style="display: none; visibility: hidden"></iframe></noscript>
-        <script>
-            (function(w, d, s, l, i) {
-                w[l] = w[l] || [];
-                w[l].push({
-                    'gtm.start':
-                        new Date().getTime(),
-                    event: 'gtm.js'
-                });
-                var f = d.getElementsByTagName(s)[0],
-                    j = d.createElement(s),
-                    dl = l != 'dataLayer' ? '&l=' + l : '';
-                j.async = true;
-                j.src =
-                    '//www.googletagmanager.com/gtm.js?id=' + i + dl;
-                f.parentNode.insertBefore(j, f);
-            })(window, document, 'script', 'dataLayer', 'GTM-K2QBJ5');
-        </script>
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <script>(function (w, d, s, l, i) {w[l] = w[l] || []; w[l].push({'gtm.start':
+        new Date().getTime(), event: 'gtm.js'}); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+        '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-K2QBJ5');</script>
         <!-- End Google Tag Manager -->
-        
-        <!--Start of Zopim Live Chat Script-->
-        <script type="text/javascript">
-            window.$zopim || (function(d, s) {
-                var z = $zopim = function(c) { z._.push(c); }, $ = z.s = d.createElement(s), e = d.getElementsByTagName(s)[0];
-                z.set = function(o) {
-                    z.set._.push(o);
-                };
-                z._ = [];
-                z.set._ = [];
-                $.async = !0;
-                $.setAttribute('charset', 'utf-8');
-                $.src = '//v2.zopim.com/?1wrc66u3nBBa0rAOEtcTSgjfDcHU7dEk';
-                z.t = +new Date;
-                $.type = 'text/javascript';
-                e.parentNode.insertBefore($, e);
-            })(document, 'script');
+    <style media="print" class="jx_ui_StyleSheet" __jx__id="___$_2" type="text/css">.zopim { display: none !important }</style></head>
+    <body>
+        <header class="dvl-header">
+            
 
-            $zopim(function() {
-                $zopim.livechat.window.setPosition('tl');
-                $zopim.livechat.setOnStatus(change_chat_button);
-                $zopim.livechat.setOnUnreadMsgs(notify_user);
+<div class="nav-first">
+    <div class="container-fluid">
+        <nav class="nav justify-content-center justify-content-sm-start">
+            <a class="nav-link brand" href="/"><i class="dvl-icon">Devolutions</i></a>
+            <a class="nav-link" href="/Support">Support</a>
+            <a class="nav-link" href="https://blog.devolutions.net">Blog</a>
+            <a class="nav-link" href="/Contact">Contact</a>
+            <a class="nav-link chat chat-btn" style="display: none;"><i class="dvl-icon">Chat</i><span class="hidden-xs-down">Live Chat</span></a>
+            
+
+
+<div class="nav-login ml-sm-auto">
+    <ul class="nav nav-inline">
+        <li class="nav-item dropdown dropdown-login ">
+            
+
+<a class="nav-link" id="dLogin" data-target="#" aria-haspopup="true" aria-expanded="false">
+    <i class="dvl-icon">Login</i><span class="hidden-xs-down">Log in</span>
+</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="dLogin">
+    <div>
+        <a class="dropdown-close" href="#"><i class="dvl-icon">Close</i></a>
+        <div class="links">
+            <a title="Create free account" href="https://cloud.devolutions.net/Login/CreateAccount" target="_blank">Create free account</a>
+            <a title="Forgot password" href="https://cloud.devolutions.net/Login/ForgotPassword" target="_blank">Forgot password</a>
+        </div>
+        <div class="row gap-3">
+            <div class="col-12">
+                <input class="form-control" id="Username" name="Username" placeholder="Email" type="text" value="">
+                
+            </div>
+            <div class="col-12">
+                <input class="form-control" id="Password" name="Password" placeholder="Password" type="password">
+                
+                
+            </div>
+            <div class="col-12">
+                <input name="__RequestVerificationToken" type="hidden" value="I7dl4Nu-o4GQIHjD8ZcbGR6bMuBHdNrQnJlQZo7auPhSKFW9-CdiOi5XRX_ZdwYZHCHZMYYnAvcNvnrqU_vYfXN6lYYJ04BjtJ1n1QhfSqgtJjzg3WWhCO-at2Kc2qR5VBiUNA2">
+            </div>
+            <div class="col-12">
+                <button id="LoginButton" type="button" name="Login" class="btn btn-light-blue">Log In</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        </li>
+    </ul>
+    
+    <script>
+        $(document).ready(function () {
+            $(document).on('click', '#paynow-login', function () {
+                $('#dLogin').dropdown('toggle');
+                $('#Username').focus();
             });
 
-        </script>
-        <!--End of Zopim Live Chat Script-->
-    </head>
-    <body itemscope="" itemtype="http://schema.org/WebPage">
-        <div id="fb-root"></div>
-        <div class="page">
-            
-<div id="header">
-    <div id="MMenu_holder">
-    <ul class="MMenu left">
-        <li id="mm-devo"><a href="http://devolutions.net">Devolutions</a></li>
-    </ul>
-    <ul class="MMenu right">
-        <li class="hover" aria-haspopup="true" id="mm-products"><a href="http://devolutions.net">Products</a>
-            <div class="submenu">
-                <div class="submenuHolder" style="padding: 0;">
-                    <div class="mm-product mm-box">
-                        <div class="mm-title-sm">
-                            <div class="mm-title-sm-text"><span class="devoicon-User"></span>Client</div>
-                        </div>
-                        <ul>
-                            <li>
-                                <a href="http://remotedesktopmanager.com"><span class="mm-rdm">Remote Desktop Manager</span><span class="iconos devoicon-Windows"></span></a>
-                                <a href="http://mac.remotedesktopmanager.com"><span class="iconos devoicon-Apple"></span></a>
-                                <a href="http://remotedesktopmanager.com/Home/AndroidBeta"><span class="iconos devoicon-Android"></span></a>
-                            </li>
-                            <li>
-                                <a href="http://jump.remotedesktopmanager.com"><span class="mm-jump">Remote Desktop Manager Jump</span><span class="iconos devoicon-Windows"></span></a>
-                            </li>
-                            <li>
-                                <a href="http://passwordvaultmanager.com"><span class="mm-pvm">Password Vault Manager</span><span class="iconos devoicon-Windows"></span></a>
-                                <a href="http://mac.passwordvaultmanager.com"><span class="iconos devoicon-Apple"></span></a>
-                                <a href="http://passwordvaultmanager.com/Home/AndroidBeta"><span class="iconos devoicon-Android"></span></a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="mm-product mm-box mm-border">
-                        <div class="mm-title-sm">
-                            <div class="mm-title-sm-text"><span class="devoicon-Server"></span>Server</div>
-                        </div>
-                        <ul>
-                            <li><a href="http://server.devolutions.net"><span class="mm-server">Devolutions Server</span><span class="iconos devoicon-Windows"></span></a></li>
-                            <li><p class="mm-server-desc">Store and share your remote connection settings, virtual machine connections and any other sensitive data. 
-                                Used in combination with the Remote Desktop Manager Client, it extends its capabilities to create an Enterprise wide high-end data store.</p></li>
-                        </ul>
-                    </div>
-                    <div class="mm-product mm-box mm-border">
-                        <div class="mm-title-sm">
-                            <div class="mm-title-sm-text"><span class="devoicon-Cloud"></span>Cloud</div>
-                        </div>
-                        <ul>
-                            <li><a href="https://cloud.devolutions.net"><span class="mm-cloud">Devolutions Cloud</span><span class="iconos devoicon-Online2"></span></a></li>
-                            <li class="mm-default"><a href="https://cloud.devolutions.net">Customer Portal</a></li>
-                            <li class="mm-default"><a href="https://cloud.devolutions.net">Online Database</a></li>
-                            <li class="mm-default"><a href="https://cloud.devolutions.net">Online Drive</a></li>
-                            <li class="mm-default"><a href="https://cloud.devolutions.net">Online Backup</a></li>
-                            <li class="mm-default"><a href="https://cloud.devolutions.net">Custom Installer</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </li>
-        <li class="hover" aria-haspopup="true" id="mm-buy">
-            <a href="https://store.devolutions.net">Buy</a>
-            <div class="submenu">
-                <div class="submenuHolder" style="padding: 0;">
-                    <div class="mm-buy mm-box">
-                        <div class="mm-title-sm">
-                            <div class="mm-title-sm-text"><span class="devoicon-Buy"></span>Buy</div>
-                        </div>
-                        <ul>
-                            <li class="box-sizing">
-                                <a href="https://store.devolutions.net" class="btn btn-grn btn-block btn-center btn-lg lg-icon devoicon-Buy">
-                                    <span>Buy</span>
-                                </a>
-                            </li>
-                            <li class="mm-default"><a href="https://store.devolutions.net/Pricing#PoStore">Buy with P.O.</a></li>
-                            <li class="mm-default"><a href="/Home/RequestDemo">Request Live Demo</a></li>
-                        </ul>
-                    </div>
-                    <div class="mm-buy mm-box mm-border">
-                        <div class="mm-title-sm">
-                            <div class="mm-title-sm-text"><span class="devoicon-Price"></span>Shop</div>
-                        </div>
-                        <ul>
-                            <li class="box-sizing">
-                                <a href="https://store.devolutions.net" class="btn btn-blu btn-block right-icon lg-icon devoicon-Check">
-                                    <span>Online Store</span>
-                                </a>
-                            </li>
-                            <li class="mm-default"><a href="https://store.devolutions.net/Pricing#Pricing">Pricing</a></li>
-                            <li class="mm-default"><a href="https://store.devolutions.net/Quote">Request Quote</a></li>
-                            <li class="mm-default"><a href="/Support/FAQ">FAQ</a></li>
-                        </ul>
-                    </div>
-                    <div class="mm-buy mm-box mm-border">
-                        <div class="mm-title-sm">
-                            <div class="mm-title-sm-text"><span class="devoicon-Enterprise"></span>Resellers</div>
-                        </div>
-                        <ul>
-                            <li class="box-sizing">
-                                <a href="/Buy/ResellerList" class="btn btn-blu btn-block right-icon lg-icon devoicon-Search"><span class="text">Find your Reseller</span></a>
-                            </li>
-                            <li class="mm-default"><a href="/Buy/Reseller">Become a Reseller</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </li>
-        <li class="hover" aria-haspopup="true" id="mm-support"><a href="/Support">Support</a>
-            <div class="submenu">
-                <div class="submenuHolder" style="padding: 0;">
-                    <div class="mm-title-lg">
-                        <div class="mm-title-lg-text"><span class="devoicon-Info"></span>Resources</div>
-                    </div>
-                    <div class="mm-support mm-box" style="margin-top: 0;">
-                        <ul>
-                            <li class="box-sizing">
-                                <a href="http://forum.devolutions.net" class="btn btn-grn btn-block right-icon lg-icon devoicon-Forum" style="margin-bottom: 6px;"><span>Forum</span></a>
-                                <a href="http://help.devolutions.net" class="btn btn-blu btn-block right-icon lg-icon devoicon-OnlineHelp"><span>Online Help</span></a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="mm-support mm-box" style="margin-top: 0;">
-                        <ul>
-                            <li class="mm-default"><a href="http://blog.devolutions.net">Blog</a></li>
-                            <li class="mm-default"><a href="/Support/Video">Videos</a></li>
-                            <li class="mm-default"><a href="/Contact">Contact us</a></li>
-                        </ul>
-                    </div>
-                    <div class="mm-support mm-box" style="margin-top: 0;">
-                        <ul>
-                            <li style="text-align: center;">
-                                <a target="_blank" class="mm-social devoicon-Spiceworks" title="Spiceworks" href="http://spice.devolutions.net"></a>
-                                <a target="_blank" class="mm-social devoicon-Facebook" title="Facebook" href="http://facebook.remotedesktopmanager.com"></a>
-                                <a target="_blank" class="mm-social devoicon-Twitter" title="Twitter" href="http://twitter.remotedesktopmanager.com"></a>
-                                <a target="_blank" class="mm-social devoicon-Linkedin" title="Linkedin" href="http://linkedin.remotedesktopmanager.com"></a>
-                                <a target="_blank" class="mm-social devoicon-Blog" title="Blog" href="http://blog.devolutions.net"></a>
-                                <a target="_blank" class="mm-social devoicon-YouTube" title="Youtube" href="http://youtube.remotedesktopmanager.com"></a>
-                                <a target="_blank" class="mm-social devoicon-Google" title="Google+" href="https://plus.google.com/+Remotedesktopmanager"></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </li>
-        <li id="mm-blog" class="hover" aria-haspopup="true"><a href="http://blog.devolutions.net">Blog</a>
-             <div class="submenu">
-                <div class="submenuHolder" style="padding: 0;">
-                    <div class="mm-blog mm-box" style="width: 255px;">
-                        <div class="mm-title-xs">
-                            <div class="mm-title-xs-text"><span class="devoicon-General"></span>General</div>
-                        </div>
-                        <ul>
-                            <li class="mm-default"><a href="http://blog.devolutions.net/category/news">News</a></li>
-                            <li class="mm-default"><a href="http://blog.devolutions.net/category/funlifestyle">Fun &amp; Lifestyle</a></li>
-                            <li class="mm-default"><a href="http://blog.devolutions.net/category/poll">Poll</a></li>
-                            <li class="mm-default"><a href="http://blog.devolutions.net/category/review">Review</a></li>
-                        </ul>
-                    </div>
-                    <div class="mm-blog mm-box mm-border" style="width: 255px;">
-                        <div class="mm-title-xs">
-                            <div class="mm-title-xs-text"><span class="devoicon-Product"></span>Products</div>
-                        </div>
-                        <ul>
-                            <li class="mm-default"><a href="http://blog.devolutions.net/category/products">Products</a></li>
-                            <li class="mm-default"><a href="http://blog.devolutions.net/category/mac">Mac</a></li>
-                            <li class="mm-default"><a href="http://blog.devolutions.net/category/case-study">Case Study</a></li>
-                            <li class="mm-default"><a href="http://blog.devolutions.net/category/add-on">Add-on</a></li>
-                        </ul>
-                    </div>
-                    <div class="mm-blog mm-box mm-border" style="width: 255px;">
-                        <div class="mm-title-xs">
-                            <div class="mm-title-xs-text"><span class="devoicon-FAQ"></span>FAQ</div>
-                        </div>
-                        <ul>
-                            <li class="mm-default"><a href="http://blog.devolutions.net/category/tipstricks">Tips &amp; Tricks</a></li>
-                            <li class="mm-default"><a href="http://blog.devolutions.net/category/knowledge-base">Knowledge Base</a></li>
-                            <li class="mm-default"><a href="http://blog.devolutions.net/category/licensing">License</a></li>
-                        </ul>
-                    </div>
-                    <div class="mm-blog mm-box mm-border" style="width: 255px;">
-                        <div class="mm-title-xs">
-                            <a href="http://blog.devolutions.net/category/sysadminotaur" class="sysadminotaur-img">Sysadminotaur</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </li>
-        <li class="hover" aria-haspopup="true" id="mm-contact"><a href="/Contact">Contact</a>
-            <div class="submenu">
-                <div class="submenuHolder" style="padding: 0;">
-                    <div class="mm-contact mm-box">
-                        <div class="mm-title-sm">
-                            <div class="mm-title-sm-text"><span class="devoicon-Contact"></span>Contact</div>
-                        </div>
-                        <ul>
-                            <li class="mm-default"><a title="Information" href="/Contact">Information</a></li>
-                            <li class="mm-default"><a title="Phones and Emails" href="/Contact#phonesandemails">Phones and Emails</a></li>
-                            <li class="mm-default"><a title="Leave a Message" href="/Contact#leaveamessage">Leave a Message</a></li>
-                            <li class="mm-default"><a title="Chat with us" href="javascript:$zopim.livechat.window.toggle()">Chat with us</a></li>
-                        </ul>
-                    </div>
-                    <div class="left">
-                        <div class="mm-title-md mm-border">
-                            <div class="mm-title-md-text"><span class="devoicon-Enterprise"></span>Company Information</div>
-                        </div>
-                        <div class="mm-contact mm-box mm-border" style="margin-top: 0;">
-                            <ul>
-                                <li class="mm-default"><a href="/Company/AboutUs">About Us</a></li>
-                                <li class="mm-default"><a href="/Company/Team">Team</a></li>
-                                <li class="mm-default"><a href="/Company/Media">Media</a></li>
-                                <li class="mm-default"><a href="/Company/Careers">Careers</a></li>
-                            </ul>
-                        </div>
-                        <div class="mm-contact mm-box" style="margin-top: 0;">
-                            <ul>
-                                <li class="mm-default"><a href="/Company/Newsletters">Newsletters</a></li>
-                                <li class="mm-default"><a href="/Company/PressReleases">Press Releases</a></li>
-                                <li class="mm-default"><a href="http://forum.devolutions.net">Forum</a></li>
-                                <li class="mm-default"><a title="Social Media" href="/Home/FollowUs">Social Media</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </li>
-        <li id="mm-lang"><a href="http://fr.devolutions.net/Home/PrivacyPolicy">Français</a></li>	
-    </ul>
-        </div>
-</div>
-            <div id="mainHolder">
-                <div id="main">
-                    
-                        
-                    
+            $(".dropdown-login").on('click', '#LoginButton', function () {
+                // code to prevent double re-submits
+                var $container = $(".dropdown-login");
 
-<div class="contentHolder">
-<h3>Privacy Policy</h3>
-<div style="position: absolute; right: 0; top: 0;">(last updated October 2011)</div>
-<h4>Our Privacy Commitment</h4>
-<p>At Devolutions we know how important it is to protect your personal information. 
-We have therefore developed this Privacy Policy to explain our practices for the collection, use, and disclosure of your personal information. 
-All references to “Website” in this Privacy Policy mean devolutions.net.</p>
+                if ($container.data('login-submitted') !== true) {
+                    $container.data('login-submitted', true);
 
-<h4>What Information does Devolutions Collect?</h4>
+                    $.ajax({
+                        type: "POST",
+                        url: '/Store/Login',
+                        data: $('#Password, #Username, input[name="__RequestVerificationToken"]').serialize(),
+                        success: function (responseJSON) {
+                            if (responseJSON.success) {
+                                $container.html(responseJSON.result);
+                                if ($("#PaymentInformationDetails").length) {
 
-<p>We collect two types of information: personal information and non-personal information. The types of information we collect depend on the nature of your interaction with us.</p>
-<ol>
-	<li><span class="underline">Personal information</span>: personal information is information that can identify an individual or information about an identifiable individual. We may collect personal information such as:
-		<ul>
-			<li>your contact information – e.g., name, postal address, telephone number, and email address;</li>
-			<li>your personal preferences – e.g., product wish lists, language preferences, and marketing consent; and</li>
-			<li>your transaction information – e.g., products purchased, method of payment, amount paid.</li>
-		</ul>
-	</li>
-	<li><span class="underline">Non-personal information</span>: non-personal information does not identify you as an individual. 
-	For example, we may collect certain non-personal data when you visit our Website, such as the type of browser you are using or the referring URL, 
-	or we may collect and summarize customer information in a non-personal, aggregate format for statistical and research purposes.</li>
-</ol>
+                                    $("#Step").val("PayNowUseAddresseFrom");
+                                    $("#UseAddressFrom").val("NotSet");
 
-<p>You may choose not to provide us with your personal information. However, if you make this choice we may not be able to provide you with the product, service, or information that you requested.</p>
+                                    $.ajax({
+                                        type: "POST",
+                                        url: '/Store/ValidatePayNow',
+                                        data: $('#invoice .qtybox, form input:not(.nosubmit), form select:not(.nosubmit), form textarea:not(.nosubmit)').serialize(),
+                                        success: function (responseJSON2) {
+                                            if (responseJSON2.success) {
+                                                $("#PaymentInformationDetails").html(responseJSON2.result);
+                                            } else {
+                                                onLoginAjaxError(responseJSON2.error);
+                                            }
+                                        },
+                                        error: function () {
+                                            onLoginAjaxError();
+                                        },
+                                        complete: function () {
+                                            $("#Step").val("PayNow");
+                                        }
+                                    });
+                                }
+                            } else {
+                                onLoginAjaxError(responseJSON.error);
+                            }
+                        },
+                        error: function () {
+                            onLoginAjaxError();
+                        },
+                        complete: function () {
+                            $container.data('login-submitted', false);
+                        }
+                    });
+                }
+            });
 
-<h4>How is Your Personal Information Used?</h4>
+            $(".dropdown-login").on('click', '#LogoutButton', function () {
+                // code to prevent double re-submits
+                var $container = $(".dropdown-login");
 
-<p>Devolutions may use your personal information for a number of different business purposes, for example to:</p>
-<ul>
-	<li>fulfill your specific requests for products, services or information;</li>
-	<li>provide customer support to assist you with your questions or complaints;</li>
-	<li>conduct surveys in order to improve our services;</li>
-	<li>measure and improve the effectiveness of our Website or our marketing endeavours;</li>
-	<li>detect and protect against fraud and error;</li>
-	<li>track and analyze your purchases and preferences to better understand your product and service needs and eligibility;</li>
-	<li>tailor our online content based on your preferences;</li>
-	<li>if you ask us, to offer and promote additional products and services we offer; and</li>
-	<li>for other purposes as described in this Privacy Policy.</li>
-</ul>
+                if ($container.data('login-submitted') !== true) {
+                    $container.data('login-submitted', true);
 
-<h4>Your Consent</h4>
+                    $.ajax({
+                        type: "POST",
+                        url: '/Store/Logout',
+                        success: function (responseJSON) {
+                            if (responseJSON.success) {
+                                $container.html(responseJSON.result);
+                                
+                                if ($("#PaymentInformationDetails").length) {
 
-<p>Devolutions will collect, use, or disclose your personal information only with your knowledge and consent, except where required or permitted by law. When you choose to provide us with your personal information you consent to the use of your personal information as identified in this Privacy Policy and as may be further identified at the time of collection.</p>
+                                    $("#Step").val("PayNowUseAddresseFrom");
+                                    $("#UseAddressFrom").val("NotSet");
 
-<ul>
-	<li><span class="underline">Express Consent</span>: sometimes you will be asked to give your express consent, such as by checking a box to indicate your consent to receive marketing communications, or by providing your signature to indicate your acceptance of the use and disclosure terms presented on an application form.</li>
-	<li><span class="underline">Implied Consent</span>: other times, we may obtain your consent implicitly when we can reasonably conclude that you’ve given consent by some action you have taken or an action you have decided not to take. Generally, this occurs where the purpose for use of your personal information would be reasonably apparent to you. </li>
-	<li><span class="underline">Withdrawing your consent</span>: you may notify us at any time that you wish to withdraw or change your consent to our use and disclosure or your information. We will accommodate your request subject to legal and contractual restrictions related to your transactions.</li>
-</ul>
+                                    $.ajax({
+                                        type: "POST",
+                                        url: '/Store/ValidatePayNow',
+                                        data: $('#invoice .qtybox, form input:not(.nosubmit), form select:not(.nosubmit), form textarea:not(.nosubmit)').serialize(),
+                                        success: function (responseJSON2) {
+                                            if (responseJSON2.success) {
+                                                $("#PaymentInformationDetails").html(responseJSON2.result);
+                                            } else {
+                                                onLoginAjaxError(responseJSON2.error);
+                                            }
+                                        },
+                                        error: function () {
+                                            onLoginAjaxError();
+                                        },
+                                        complete: function () {
+                                            $("#Step").val("PayNow");
+                                        }
+                                    });
+                                }
+                            } else {
+                                onLoginAjaxError(responseJSON.error);
+                            }
+                        },
+                        error: function () {
+                            onLoginAjaxError();
+                        },
+                        complete: function () {
+                            $container.data('login-submitted', false);
+                        }
+                    });
+                }
+            });
 
-<p>If you have “opted in” or subscribed to one of our newsletters or mailing lists, we will always provide you the opportunity to “opt out” or unsubscribe.</p>
-
-<h4>Information Devolutions Collects Directly from You</h4>
-
-<p>Listed here are some further examples of the ways that we collect personal information directly from you and how we use it.</p>
-
-<p><span class="underline">Our Website</span>: our Website can be browsed anonymously. However, to engage in certain special features or functions of our Website, or to order products and services from our Website, you may be asked to provide certain personal information, such as your name, email address, postal address, telephone number, or credit card information. We use this information to create your account, contact and correspond with you about your order, respond to your inquiries, and monitor functions of our Website that you choose to use, such as online forums.</p>
-<p><span class="underline">Online Forums</span>: Certain pages of our Website facilitate interactive discussions between users and Devolutions staff acting on our behalf regarding products and services available for purchase through the Website. These public forums are accessible to all Website visitors so please use discretion when posting information to them and do not post personal information.</p>
-
-<p><span class="underline">Sign-Up for Newsletters or Updates</span>: Devolutions may also offer a variety of newsletters and promotional communications. Should you choose to enrol we will collect your contact information, such as name and email address. This information will only be used to send you the newsletter and promotional announcements that you have requested. You may “unsubscribe” at any time by using the unsubscribe link included in the footer of the newsletter or by using the unsubscribe link included below under the heading “Unsubscribe”. Our subscriber list is never sold or rented to other parties.</p>
-
-<h4>Information Devolutions Collects Automatically</h4>
-
-<p>In some cases, we automatically collect certain information.</p>
-
-<p><span class="underline">Our Website</span>: When using our Website, we may collect the Internet Protocol (IP) address of your computer, the IP address of your Internet Service Provider, the date and time you access our Website, the Internet address of the Web site from which you linked directly to our Website, the operating system you are using, the sections of the Website you visit, the Website pages read and images viewed, and the content you download from the Website. This information is used for Website and system administration purposes and to improve the Website.</p>
-
-<p><span class="underline">Cookies</span>: The Website uses “cookies”, a technology that installs a small amount of information on a Web Site user's computer to permit the Website to recognize future visits using that computer. Cookies enhance the convenience and use of the Website. For example, the information provided through cookies is used to recognize you as a previous user of the Website (so you do not have to enter your language preference every time), to offer personalized Web page content and information for your use, to track your activity at the Website, to respond to your needs, and to otherwise facilitate your Website experience. You may choose to decline cookies if your browser permits, but doing so may affect your use of the Website and your ability to access certain features of the Website or engage in transactions through the Website.</p>
-
-<p><span class="underline">Website Tracking Information</span>: We may use web beacons or pixel tags to compile tracking information reports regarding Website user demographics, Website traffic patterns, and Website purchases. We may then provide these reports to advertisers and others. None of the tracking information in these reports can be connected to the identities or other personal information of individual users. For our own research purposes we may link tracking information with personal information voluntarily provided by Website users. Once such a link is made, all of the linked information is treated as personal information and will be used and disclosed only in accordance with this Privacy Policy.</p>
-
-<p><span class="underline">Links to Other Web Sites</span>: Our Website may contain links to other Web sites or Internet resources which are provided solely for your convenience and information. When you click on one of those links you are contacting another Web site or Internet resource. Devolutions has no responsibility or liability for, or control over, those other Web sites or Internet resources or their collection, use and disclosure of your personal information. We encourage you to read the privacy policies of those other Web sites to learn how they collect and use your personal information.</p>
-
-<h4>Does Devolutions Share Your Information?</h4>
-<p>Devolutions does not sell or rent its customers’ personal information to any other party. However, in the normal course of business we may share some of your personal information with third parties acting on our behalf or as permitted or required by law.</p>
-<p><span class="underline">Service Providers</span>: Devolutions may use third parties to manage one of more aspects of its business operations, including the processing or handing of personal information. When we do use an outside company, we use contractual or other appropriate means to ensure that your personal information is used in a manner that is consistent with this Privacy Policy.</p>
-<p><span class="underline">Legal Disclosure</span>: Devolutions may disclose your information as permitted or required by law. For example, we may be compelled to release information by a court of law or other person or entity with jurisdiction to compel production of such information. If we have reasonable grounds to believe information could be useful in the investigation of improper or unlawful activity, we may disclose information to law enforcement agencies or other appropriate investigative bodies.</p>
-<h4>When is Your Information Removed?</h4>
-
-<p>We keep your information only as long as we need it for legitimate business purposes and to meet any legal requirements. We have retention standards that meet these parameters. We destroy your information when it is no longer needed, or we remove your personally identifiable information to render it anonymous.</p>
-
-<h4>How does Devolutions Protect Your Information?</h4>
-
-<p>The security of your personal information is a high priority for Devolutions. We maintain appropriate safeguards and current security standards to protect your personal information, whether recorded on paper or captured electronically, against unauthorized access, disclosure, or misuse.</p>
-
-<h4>How Can You Verify Your Information?</h4>
-
-<p>You may check your information to verify, update, or correct it, and to have any obsolete information removed. You can also ask to review any of the information that we have retained, how we have used it, and to whom we have disclosed it at any time by contacting us as indicated below under the heading “Contacting Devolutions”. Subject to certain exceptions prescribed by law, and provided we can authenticate your identity, you will be given reasonable access to your personal information, and will be entitled to challenge the accuracy and completeness of the information and to have it amended as appropriate. You may also ask us to change your preferences regarding how we use or disclose your information, or let us know that you do not wish to receive any further communication from us.</p>
-
-<h4>Contacting Devolutions</h4>
-
-<p>Devolutions is responsible for all personal information under its control. If you have any questions, concerns or complaints about the privacy practices of our organization please contact us at the following:</p>
-
-<table>
-	<tbody><tr>
-		<td style="width: 60px">Email:</td>
-		<td><a href="mailto:infos@devolutions.net">infos@devolutions.net</a> (please read the Important Reminder below)</td>
-	</tr>
-	<tr>
-		<td>Mail:</td>
-		<td>
-			Devolutions inc.<br>
-            199, Rang du Golf<br>
-Lavaltrie, QC J5T 3C6<br>
-Canada</td>
-	</tr>
-</tbody></table>
-<p>We will respond to your request or investigate your concern as quickly as we can.</p>
-
-<span class="underline">Important Reminder about email communications:</span>
-
-<p>Please remember that email sent over the public Internet is not secure. If you send an email directly to us from your own email account the contents will not be encrypted. We strongly recommend that you do not send sensitive information (like a credit card number) to us via unencrypted email. Devolutions is not responsible for any transmission by you of any personal information over the public Internet.</p>
-
-<h4>Will this Privacy Policy Change?</h4>
-
-<p>To accommodate changes in our services, changes in technology, and legal developments, this Privacy Policy may change over time without notice to you. We may add, change, or remove portions of the Privacy Policy when we feel it is appropriate to do so. We encourage you to review our Privacy Policy periodically. Each time you submit personal information or use our services you agree to be bound by the then current terms of the Privacy Policy. Whenever we update the Privacy Policy we will change the date to indicate when the changes were made.</p>
-
-</div>
-
-
-                </div>
-                <div id="submain">
-                    
-                </div>
-            </div>
-
-            
-
-            
-
-<script type="text/javascript">
-    $(document).ready(function () {
-        var i = 0;
-        $("#SocialBar").click(
-        function () {
-            $(this).width(i == 0 ? 392 : 30);
-            $(this).css("background-color", i == 0 ? "#3d99eb" : "transparent");
-            $(this).css("background-color", i == 0 ? "rgba(61, 153, 235, 0.9)" : "transparent");
-            i = i == 0 ? 1 : 0;
-        }).hover(function () {
-            $(this).width(392);
-            $(this).css({ "background-color": "#3d99eb" });
-            $(this).css({ "background-color": "rgba(61, 153, 235, 0.9)" });
-            i = 1;
-        }, function () {
-            $(this).width(30);
-            $(this).css({ 'background-color': "transparent" });
-            i = 0;
+            $('.dropdown-login').on('keydown', '#Password, #Username', function (e) {
+                if (e.which == 13) {
+                    $('#LoginButton').click();
+                    return false;
+                }
+                return true;
+            });
         });
-    });
-</script>
 
-<ul id="SocialBar">
-    <li class="clearfix">
-        <span class="title">Follow us</span>
-        <div class="social-box">
-            <h3>Follow Us!</h3>
+        function onLoginAjaxError(error) {
+            error = error == undefined ? "Can't login right now, please try again later!" : error;
             
-                <a target="_blank" class="mm-social devoicon-Spiceworks" title="Spiceworks" href="http://spice.devolutions.net"></a>
-            
-                
-                    <a target="_blank" class="mm-social devoicon-Facebook" title="Facebook" href="http://facebook.devolutions.net"></a>
-                    <a target="_blank" class="mm-social devoicon-Twitter" title="Twitter" href="http://twitter.devolutions.net"></a>
-                    <a target="_blank" class="mm-social devoicon-Linkedin" title="Linkedin" href="http://linkedin.devolutions.net"></a>
-                
-            
-            <a target="_blank" class="mm-social devoicon-Blog" title="Blog" href="http://blog.devolutions.net"></a>
-            
-                
-                    <a target="_blank" class="mm-social devoicon-YouTube" title="Youtube" href="http://youtube.devolutions.net"></a>
-                
-                    <a target="_blank" class="mm-social devoicon-Google" title="Google+" href="https://plus.google.com/+DevolutionsNet"></a>
-                
-            
-            <a target="_blank" class="mm-social devoicon-ForumSocial" title="Forum" href="http://forum.devolutions.net"></a>
-        </div>
-    </li>
-</ul>
-            
+        }
+    </script>
+</div>
+        </nav>
+    </div>
+</div>
 
-<script type="text/javascript">
-    $(document).ready(function () {
-
-    }); 
-</script>
-<ul id="ChatBar" class="custom-chat" onclick="$zopim.livechat.window.toggle();">
-    <li>
-        <span id="chatbar-title" class="title">Chat with us</span>
-    </li>
-</ul>
-            <div id="ctl00_footerHolder" class="footerHolder">
-	
-                <div id="footer" class="footer">
-                    <ul id="menu" class="devo">
-                        <li style="width: 223px; margin-left: 27px">
-                            <a href="/Home">Home</a>
-                            <ul>
-                                <li><a target="_blank" href="http://cdn.devolutions.net/download/Documents/Product-Comparison-Guide.pdf">Product Comparison</a></li>
-                                <li><a href="http://remotedesktopmanager.com/Home/RequestDemo">Request Live Demo</a></li>
-                                <li><a href="http://remotedesktopmanager.com">Remote Desktop Manager</a></li>
-                                <li><a href="http://passwordvaultmanager.com">Password Vault Manager</a></li>
-                                <li><a href="https://cloud.devolutions.net">Devolutions Cloud</a></li>
-                                <li><a href="http://server.devolutions.net">Devolutions Server</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="https://store.devolutions.net">Buy</a>
-                            <ul>
-                                <li><a href="https://store.devolutions.net">Online Store</a></li>
-                                <li><a href="https://store.devolutions.net/Pricing#Pricing">Price List</a></li>
-                                <li><a href="https://store.devolutions.net/Quote">Request Quote</a></li>
-                                <li><a href="/Buy/ResellerList">Find a Reseller</a></li>
-                                <li><a href="http://remotedesktopmanager.com/Support/FAQ">FAQ</a></li>
-                            </ul>
-                        </li>	
-                        <li style="width: 123px;">
-                            <a href="/Partners">Partners</a>
-                            <ul>
-                                <li><a href="/Partners/TechPartners">Information</a></li>
-                                <li><a href="/Buy/Reseller">Reseller Program</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="/Company/AboutUs">Company</a>
-                            <ul>
-                                <li><a href="/Company/AboutUs">About Us</a></li>
-                                <li><a href="/Company/ManagementTeam">Management</a></li>
-				                <li><a href="/Company/Team">Team</a></li>
-                                <li><a href="http://blog.devolutions.net">Blog</a></li>
-                                <li><a href="/Company/PressReleases">Press Releases</a></li>
-                                <li><a href="/Company/Newsletters">Newsletters</a></li>
-                                <li><a href="/Company/Media">Media</a></li>
-                                <li><a href="/Company/Careers">Careers</a></li>
-                            </ul>
-                        </li>
-                        <li style="margin-left: 51px; position: relative; width: 152px; top: -5px;">
+<div class="container-fluid">
+    <div class="nav-second">
+        <ul class="nav nav-inline">
+            <li class="nav-item dropdown dropdown-dvl-menu">
+                <a class="nav-link" id="dMenu" data-target="#" aria-haspopup="true" aria-expanded="false">
+                    <i class="dvl-icon">Menu_Square</i><span class="hidden-xs-down">Menu</span>
+                </a>
+                <div class="dropdown-menu" aria-labelledby="dMenu">
+                    <div>
+                        <a class="dropdown-close" href="#"><i class="dvl-icon">Close</i></a>
+                        <ul class="nav nav-pills justify-content-center flex-wrap" role="tablist">
+                            <li class="nav-item"><a class="nav-link active" data-toggle="pill" role="tab" href="#Products">Products</a></li>
+                            <li class="nav-item"><a class="nav-link" data-toggle="pill" role="tab" href="#Buy">Buy</a></li>
+                            <li class="nav-item"><a class="nav-link" data-toggle="pill" role="tab" href="#Support">Support</a></li>
+                            <li class="nav-item"><a class="nav-link" data-toggle="pill" role="tab" href="#Contact">Contact</a></li>
+                        </ul>
                         
-                            <script type="text/javascript" src="//www.google.com/jsapi"> </script>
-                            <form autocomplete="off" action="/Search/Result" id="g-search-box">
-                                <div class="searchbox">
-                                    <input class="sbox" type="text" name="q" id="q" size="31">
-                                    <input class="sbut" src="/Images/search.jpg" type="image">
+                        <div class="tab-content">
+                            <!-- Products -->
+                            <div class="tab-pane fade show active" role="tabpanel" id="Products">
+                                <div class="row gap-12">
+                                    <div class="col-6 col-sm-3">
+                                        <a href="https://remotedesktopmanager.com"><i class="dvl-icon">RDM_Tray</i><span>Remote Desktop<br>Manager</span></a>
+                                        <ul class="nav justify-content-center os-products">
+                                            <li class="nav-item default"><a class="nav-link" href="https://remotedesktopmanager.com"><i class="dvl-icon">Windows</i></a></li>
+                                            <li class="nav-item"><a class="nav-link" href="https://mac.remotedesktopmanager.com"><i class="dvl-icon">Apple</i></a></li>
+                                            <li class="nav-item"><a class="nav-link" href="https://android.remotedesktopmanager.com"><i class="dvl-icon">Android</i></a></li>
+                                            <li class="nav-item"><a class="nav-link" href="https://ios.remotedesktopmanager.com"><i class="dvl-icon">iOS</i></a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-6 col-sm-3">
+                                        <a href="https://password.devolutions.net"><i class="dvl-icon">PVM_Tray</i><span>Password Vault<br>Manager</span></a>
+                                        <ul class="nav justify-content-center os-products">
+                                            <li class="nav-item default"><a class="nav-link" href="https://password.devolutions.net"><i class="dvl-icon">Windows</i></a></li>
+                                            <li class="nav-item"><a class="nav-link" href="https://passwordmac.devolutions.net"><i class="dvl-icon">Apple</i></a></li>
+                                            <li class="nav-item"><a class="nav-link" href="https://passwordandroid.devolutions.net"><i class="dvl-icon">Android</i></a></li>
+                                            <li class="nav-item"><a class="nav-link" href="https://passwordios.devolutions.net"><i class="dvl-icon">iOS</i></a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-6 col-sm-3">
+                                        <a href="https://server.devolutions.net"><i class="dvl-icon">DVLS_Tray</i><span>Devolutions<br>Server</span></a>
+                                    </div>
+                                    <div class="col-6 col-sm-3">
+                                        <div class="wayk-divider"></div>
+                                        <a href="https://wayk.devolutions.net"><i class="dvl-icon">Wayk_Now</i><span>Wayk Now</span></a>
+                                    </div>
                                 </div>
-                            </form>
-                            <script type="text/javascript" src="//cse.google.com/brand?form=cse-search-box&amp;lang=en&amp;sitesearch=true"> </script>
-                            <div class="social-box">
-                                <a target="_blank" class="mm-social xs-social devoicon-Spiceworks" title="Spiceworks" href="http://spice.devolutions.net"></a>
-                                <a target="_blank" class="mm-social xs-social devoicon-Facebook" title="Facebook" href="http://facebook.remotedesktopmanager.com"></a>
-                                <a target="_blank" class="mm-social xs-social devoicon-Twitter" title="Twitter" href="http://twitter.remotedesktopmanager.com"></a>
-                                <a target="_blank" class="mm-social xs-social devoicon-Linkedin" title="Linkedin" href="http://linkedin.remotedesktopmanager.com"></a>
-                                <a target="_blank" class="mm-social xs-social devoicon-Blog" title="Blog" href="http://blog.devolutions.net"></a>
-                                <a target="_blank" class="mm-social xs-social devoicon-YouTube" title="Youtube" href="http://youtube.remotedesktopmanager.com"></a>
-                                <a target="_blank" class="mm-social xs-social devoicon-Google" title="Google+" href="https://plus.google.com/+DevolutionsNet"></a>
+                                <div class="dropdown-divider"></div>
+                                <div class="row gap-12 justify-content-center align-items-center">
+                                    <div class="col-sm-3">
+                                        <a href="https://cloud.devolutions.net"><i class="dvl-icon">Cloud_Tray</i><span>Devolutions Cloud</span></a>
+                                    </div>
+                                    <div class="col-sm-7">
+                                        <div class="row gap-3">
+                                            <div class="col-md-5"><a class="btn btn-green btn-lg btn-block" href="https://cloud.devolutions.net">Login</a></div>
+                                            <div class="col-md-7"><a class="btn btn-blue btn-lg btn-block" href="https://cloud.devolutions.net/Login/CreateAccount">Create Account</a></div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
-                        
-                            <a class="devolutions" href="http://devolutions.net">Devolutions Inc.</a>
-                            <span class="copyright">© 2015</span>
-                            <ul class="termsprivacy">
-                                <li><a href="/Home/TermsOfUse">Terms of Use</a></li>
-                                <li><a href="/Home/PrivacyPolicy">Privacy Policy</a></li>
-                                <li><a target="_blank" href="http://devolutions.net/download/fairusepolicy.pdf" onclick=" dataLayer.push({ 'Event_Category': 'Document', 'Event_Action': 'Support_Policy' }); " title="Support Policy">Support Policy</a></li>
+                            <!-- Buy -->
+                            <div class="tab-pane fade" role="tabpanel" id="Buy">
+                                <div class="row gap-3">
+                                    <div class="col-12"><a class="btn btn-green btn-lg btn-block" href="https://store.devolutions.net">Buy Now</a></div>
+                                    <div class="col-sm-6"><a class="btn btn-blue btn-lg btn-block" href="https://store.devolutions.net">Online Store</a></div>
+                                    <div class="col-sm-6"><a class="btn btn-black btn-lg btn-block" href="https://store.devolutions.net/Pricing#PoStore">Buy with P.O.</a></div>
+                                </div>
+                                <div class="dropdown-divider"></div>
+                                <div class="row gap-8 justify-content-center">
+                                    <div class="col-sm-6">
+                                        <div class="row gap-8 row-infos">
+                                            <div class="col-4"><a href="https://store.devolutions.net/Pricing"><i class="dvl-icon">Price</i><span>Pricing</span></a></div>
+                                            <div class="col-4"><a href="https://store.devolutions.net/Quote"><i class="dvl-icon">Document_Info</i><span>Request<br>Quote</span></a></div>
+                                            <div class="col-4"><a href="/Support/FAQ"><i class="dvl-icon">FAQ_2</i><span>FAQ</span></a></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-4 divider-xs-top">
+                                        <div class="row gap-8 justify-content-center row-infos">
+                                            <div class="col-4 col-sm-6 divider-sm-left"><a href="/Buy/ResellerList"><i class="dvl-icon">Map_Pin</i><span>Find a<br>Reseller</span></a></div>
+                                            <div class="col-4 col-sm-6"><a href="/Buy/Reseller"><i class="dvl-icon">Reseller</i><span>Become a<br>Reseller</span></a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Support -->
+                            <div class="tab-pane fade" role="tabpanel" id="Support">
+                                <div class="row row-infos row-infos-big">
+                                    <div class="col-4"><a href="https://forum.devolutions.net"><i class="dvl-icon">Forum</i><span>Community<br>Forum</span></a></div>
+                                    <div class="col-4"><a href="https://help.devolutions.net"><i class="dvl-icon">Contact</i><span>Online<br>Help</span></a></div>
+                                    <div class="col-4"><a href="/Support/Video"><i class="dvl-icon">Video</i><span>Video<br>Tutorials</span></a></div>
+                                </div>
+                                <div class="dropdown-divider"></div>
+                                <div class="row justify-content-center row-infos row-infos-big">
+                                    <div class="col-4"><a href="/Home/RequestDemo"><i class="dvl-icon">Live_Demo</i><span>Request<br>Live Demo</span></a></div>
+                                    <div class="col-4"><a href="https://blog.devolutions.net/category/tipstricks"><i class="dvl-icon">Light</i><span>Tips &amp;<br>Tricks</span></a></div>
+                                    <div class="col-4 divider-xs-left chat-btn" style="display: none;"><a><i class="dvl-icon chat">Chat</i><span>Live Chat</span></a></div>
+                                </div>
+                            </div>
+                            <!-- Contact -->
+                            <div class="tab-pane fade" role="tabpanel" id="Contact">
+                                <div class="row justify-content-center row-infos row-infos-big">
+                                    <div class="col-4"><a href="/Contact"><i class="dvl-icon">Phone_2</i><span>Contact<br>Information</span></a></div>
+                                    <div class="col-4"><a href="/Contact#leaveamessage"><i class="dvl-icon">Email</i><span>Leave a Message</span></a></div>
+                                    <div class="col-4 chat-btn" style="display: none;"><a><i class="dvl-icon chat">Chat</i><span>Live Chat</span></a></div>
+                                </div>
+                                <div class="dropdown-divider"></div>
+                                <div class="row-title">Company</div>
+                                <div class="row gap-8 row-infos">
+                                    <div class="col-4 col-sm-2"><a href="/Company/AboutUs"><i class="dvl-icon">Enterprise</i><span>About<br>Devolutions</span></a></div>
+                                    <div class="col-4 col-sm-2"><a href="/Company/Team"><i class="dvl-icon">Team</i><span>Our<br>Team</span></a></div>
+                                    <div class="col-4 col-sm-2"><a href="/Company/Media"><i class="dvl-icon">Media</i><span>Media</span></a></div>
+                                    <div class="col-4 col-sm-2"><a href="/Careers"><i class="dvl-icon">Career</i><span>Careers</span></a></div>
+                                    <div class="col-4 col-sm-2"><a href="/Company/Newsletters"><i class="dvl-icon">News</i><span>Newsletters</span></a></div>
+                                    <div class="col-4 col-sm-2"><a href="/Company/PressReleases"><i class="dvl-icon">Press_Release</i><span>Press<br>Releases</span></a></div>
+                                </div>
+                                <div class="dropdown-divider"></div>
+                                <ul class="row-socials">
+                                    <li><a class="spiceworks" href="https://community.spiceworks.com/pages/devolutions"><i class="dvl-icon">Spiceworks</i></a></li>
+                                    <li><a class="twitter" href="https://twitter.com/DevolutionsInc"><i class="dvl-icon">Twitter</i></a></li>
+                                    <li><a class="linkedin" href="https://www.linkedin.com/company/devolutions-inc-"><i class="dvl-icon">Linkedin</i></a></li>
+                                    <li><a class="facebook" href="https://www.facebook.com/devolutionsinc"><i class="dvl-icon">Facebook</i></a></li>
+                                    <li><a class="youtube" href="https://www.youtube.com/user/Devolutions"><i class="dvl-icon">YouTube</i></a></li>
+                                    <li><a class="google-plus" href="https://plus.google.com/+DevolutionsNet"><i class="dvl-icon">Google_Plus</i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link" id="dProducts" data-target="#" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <i class="dvl-icon">Products</i><span class="hidden-xs-down">Products</span>
+                </a>
+                <div class="dropdown-menu" aria-labelledby="dProducts">
+                    <a class="dropdown-item" href="https://remotedesktopmanager.com"><i class="dvl-icon">RDM_Tray</i><span>Remote Desktop Manager</span></a>
+                    <a class="dropdown-item" href="https://password.devolutions.net"><i class="dvl-icon">PVM_Tray</i><span>Password Vault Manager</span></a>
+                    <a class="dropdown-item" href="https://server.devolutions.net"><i class="dvl-icon">DVLS_Tray</i><span>Devolutions Server</span></a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="https://wayk.devolutions.net"><i class="dvl-icon">Wayk_Now</i><span>Wayk Now</span></a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="https://cloud.devolutions.net"><i class="dvl-icon">Cloud</i><span>Devolutions Cloud</span></a>
+                </div>
+            </li>
+            <li class="nav-item"><a class="nav-link" href="https://store.devolutions.net"><i class="dvl-icon">Buy</i><span class="hidden-xs-down">Buy</span></a></li>
+        </ul>
+    </div>
+</div>
+        </header>
+
+
+
+        
+    <div class="section" id="privacyPolicy">
+        <div class="container-fluid">
+            <h1 class="h2">Privacy Policy</h1>
+            <dl>
+                <dd>
+                    <h2 class="h3 text-left">Our Privacy Commitment</h2>
+                    <p>At Devolutions we know how important it is to protect your personal information. We have therefore developed this Privacy Policy to explain our practices for the collection, use, and disclosure of your personal information. All references to “Website” in this Privacy Policy mean devolutions.net.</p>
+                </dd>
+                <dd>
+                    <h2 class="h3 text-left">What Information does Devolutions Collect?</h2>
+                    <p>We collect two types of information: personal information and non-personal information. The types of information we collect depend on the nature of your interaction with us.</p>
+                    <ol>
+                        <li>
+                            <u>Personal information</u>: personal information is information that can identify an individual or information about an identifiable individual. We may collect personal information such as:
+                            <ul>
+                                <li>your contact information – e.g., name, postal address, telephone number, and email address;</li>
+                                <li>your personal preferences – e.g., product wish lists, language preferences, and marketing consent; and</li>
+                                <li>your transaction information – e.g., products purchased, method of payment, amount paid.</li>
                             </ul>
                         </li>
+                        <li><u>Non-personal information</u>: non-personal information does not identify you as an individual. For example, we may collect certain non-personal data when you visit our Website, such as the type of browser you are using or the referring URL, or we may collect and summarize customer information in a non-personal, aggregate format for statistical and research purposes.</li>
+                    </ol>
+                    <p>You may choose not to provide us with your personal information. However, if you make this choice we may not be able to provide you with the product, service, or information that you requested.</p>
+                </dd>
+                <dd>
+                    <h2 class="h3 text-left">How is Your Personal Information Used?</h2>
+                    <p>Devolutions may use your personal information for a number of different business purposes, for example to:</p>
+                    <ul>
+                        <li>fulfill your specific requests for products, services or information;</li>
+                        <li>provide customer support to assist you with your questions or complaints;</li>
+                        <li>conduct surveys in order to improve our services;</li>
+                        <li>measure and improve the effectiveness of our Website or our marketing endeavours;</li>
+                        <li>detect and protect against fraud and error;</li>
+                        <li>track and analyze your purchases and preferences to better understand your product and service needs and eligibility;</li>
+                        <li>tailor our online content based on your preferences;</li>
+                        <li>if you ask us, to offer and promote additional products and services we offer; and</li>
+                        <li>for other purposes as described in this Privacy Policy.</li>
                     </ul>
-                </div>
+                </dd>
+                <dd>
+                    <h2 class="h3 text-left">Your Consent</h2>
+                    <p>Devolutions will collect, use, or disclose your personal information only with your knowledge and consent, except where required or permitted by law. When you choose to provide us with your personal information you consent to the use of your personal information as identified in this Privacy Policy and as may be further identified at the time of collection.</p>
+                    <ul>
+                        <li><u>Express Consent</u>: sometimes you will be asked to give your express consent, such as by checking a box to indicate your consent to receive marketing communications, or by providing your signature to indicate your acceptance of the use and disclosure terms presented on an application form.</li>
+                        <li><u>Implied Consent</u>: other times, we may obtain your consent implicitly when we can reasonably conclude that you’ve given consent by some action you have taken or an action you have decided not to take. Generally, this occurs where the purpose for use of your personal information would be reasonably apparent to you.</li>
+                        <li><u>Withdrawing your consent</u>: you may notify us at any time that you wish to withdraw or change your consent to our use and disclosure or your information. We will accommodate your request subject to legal and contractual restrictions related to your transactions.</li>
+                    </ul>
+                    <p>If you have “opted in” or subscribed to one of our newsletters or mailing lists, we will always provide you the opportunity to “opt out” or unsubscribe.</p>
+                </dd>
+                <dd>
+                    <h2 class="h3 text-left">Information Devolutions Collects Directly from You</h2>
+                    <p>Listed here are some further examples of the ways that we collect personal information directly from you and how we use it.</p>
+                    <p><u>Our Website</u>: our Website can be browsed anonymously. However, to engage in certain special features or functions of our Website, or to order products and services from our Website, you may be asked to provide certain personal information, such as your name, email address, postal address, telephone number, or credit card information. We use this information to create your account, contact and correspond with you about your order, respond to your inquiries, and monitor functions of our Website that you choose to use, such as online forums.</p>
+                    <p><u>Online Forums</u>: Certain pages of our Website facilitate interactive discussions between users and Devolutions staff acting on our behalf regarding products and services available for purchase through the Website. These public forums are accessible to all Website visitors so please use discretion when posting information to them and do not post personal information.</p>
+                    <p><u>Sign-Up for Newsletters or Updates</u>: Devolutions may also offer a variety of newsletters and promotional communications. Should you choose to enrol we will collect your contact information, such as name and email address. This information will only be used to send you the newsletter and promotional announcements that you have requested. You may “unsubscribe” at any time by using the unsubscribe link included in the footer of the newsletter or by using the unsubscribe link included below under the heading “Unsubscribe”. Our subscriber list is never sold or rented to other parties.</p>
+                </dd>
+                <dd>
+                    <h2 class="h3 text-left">Information Devolutions Collects Automatically</h2>
+                    <p>In some cases, we automatically collect certain information.</p>
+                    <p><u>Our Website</u>: When using our Website, we may collect the Internet Protocol (IP) address of your computer, the IP address of your Internet Service Provider, the date and time you access our Website, the Internet address of the Web site from which you linked directly to our Website, the operating system you are using, the sections of the Website you visit, the Website pages read and images viewed, and the content you download from the Website. This information is used for Website and system administration purposes and to improve the Website.</p>
+                    <p><u>Cookies</u>: The Website uses “cookies”, a technology that installs a small amount of information on a Web Site user's computer to permit the Website to recognize future visits using that computer. Cookies enhance the convenience and use of the Website. For example, the information provided through cookies is used to recognize you as a previous user of the Website (so you do not have to enter your language preference every time), to offer personalized Web page content and information for your use, to track your activity at the Website, to respond to your needs, and to otherwise facilitate your Website experience. You may choose to decline cookies if your browser permits, but doing so may affect your use of the Website and your ability to access certain features of the Website or engage in transactions through the Website.</p>
+                    <p><u>Website Tracking Information</u>: We may use web beacons or pixel tags to compile tracking information reports regarding Website user demographics, Website traffic patterns, and Website purchases. We may then provide these reports to advertisers and others. None of the tracking information in these reports can be connected to the identities or other personal information of individual users. For our own research purposes we may link tracking information with personal information voluntarily provided by Website users. Once such a link is made, all of the linked information is treated as personal information and will be used and disclosed only in accordance with this Privacy Policy.</p>
+                    <p><u>Links to Other Web Sites</u>: Our Website may contain links to other Web sites or Internet resources which are provided solely for your convenience and information. When you click on one of those links you are contacting another Web site or Internet resource. Devolutions has no responsibility or liability for, or control over, those other Web sites or Internet resources or their collection, use and disclosure of your personal information. We encourage you to read the privacy policies of those other Web sites to learn how they collect and use your personal information.</p>
+                </dd>
+                <dd>
+                    <h2 class="h3 text-left">Does Devolutions Share Your Information?</h2>
+                    <p>Devolutions does not sell or rent its customers’ personal information to any other party. However, in the normal course of business we may share some of your personal information with third parties acting on our behalf or as permitted or required by law.</p>
+                    <p><u>Service Providers</u>: Devolutions may use third parties to manage one of more aspects of its business operations, including the processing or handing of personal information. When we do use an outside company, we use contractual or other appropriate means to ensure that your personal information is used in a manner that is consistent with this Privacy Policy.</p>
+                    <p><u>Legal Disclosure</u>: Devolutions may disclose your information as permitted or required by law. For example, we may be compelled to release information by a court of law or other person or entity with jurisdiction to compel production of such information. If we have reasonable grounds to believe information could be useful in the investigation of improper or unlawful activity, we may disclose information to law enforcement agencies or other appropriate investigative bodies.</p>
+                </dd>
+                <dd>
+                    <h2 class="h3 text-left">When is Your Information Removed?</h2>
+                    <p>We keep your information only as long as we need it for legitimate business purposes and to meet any legal requirements. We have retention standards that meet these parameters. We destroy your information when it is no longer needed, or we remove your personally identifiable information to render it anonymous.</p>
+                </dd>
+                <dd>
+                    <h2 class="h3 text-left">How does Devolutions Protect Your Information?</h2>
+                    <p>The security of your personal information is a high priority for Devolutions. We maintain appropriate safeguards and current security standards to protect your personal information, whether recorded on paper or captured electronically, against unauthorized access, disclosure, or misuse.</p>
+                </dd>
+                <dd>
+                    <h2 class="h3 text-left">How Can You Verify Your Information?</h2>
+                    <p>You may check your information to verify, update, or correct it, and to have any obsolete information removed. You can also ask to review any of the information that we have retained, how we have used it, and to whom we have disclosed it at any time by contacting us as indicated below under the heading “Contacting Devolutions”. Subject to certain exceptions prescribed by law, and provided we can authenticate your identity, you will be given reasonable access to your personal information, and will be entitled to challenge the accuracy and completeness of the information and to have it amended as appropriate. You may also ask us to change your preferences regarding how we use or disclose your information, or let us know that you do not wish to receive any further communication from us.</p>
+                </dd>
+                <dd>
+                    <h2 class="h3 text-left">Contacting Devolutions</h2>
+                    <p>Devolutions is responsible for all personal information under its control. If you have any questions, concerns or complaints about the privacy practices of our organization please contact us at the following:</p>
+                    <table class="table">
+                        <tbody><tr>
+                            <td style="width: 75px">Email:</td>
+                            <td><a href="mailto:infos@devolutions.net">infos@devolutions.net</a> (please read the Important Reminder below)</td>
+                        </tr>
+                        <tr>
+                            <td>Mail:</td>
+                            <td>Devolutions<br>1000 Notre-Dame<br>Lavaltrie, QC J5T 1M1<br>Canada</td>
+                        </tr>
+                    </tbody></table>
+                    <p>We will respond to your request or investigate your concern as quickly as we can.</p>
+                    <u>Important Reminder about email communications:</u>
+                    <p>Please remember that email sent over the public Internet is not secure. If you send an email directly to us from your own email account the contents will not be encrypted. We strongly recommend that you do not send sensitive information (like a credit card number) to us via unencrypted email. Devolutions is not responsible for any transmission by you of any personal information over the public Internet.</p>
+                </dd>
+                <dd>
+                    <h2 class="h3 text-left">Will this Privacy Policy Change?</h2>
+                    <p>To accommodate changes in our services, changes in technology, and legal developments, this Privacy Policy may change over time without notice to you. We may add, change, or remove portions of the Privacy Policy when we feel it is appropriate to do so. We encourage you to review our Privacy Policy periodically. Each time you submit personal information or use our services you agree to be bound by the then current terms of the Privacy Policy. Whenever we update the Privacy Policy we will change the date to indicate when the changes were made.</p>
+                </dd>
+            </dl>
+        </div>
+    </div>
+
+        
+        <div id="submain">
             
+        </div>
+
+        <div id="footer">
+            <div class="section-one">
+                <div class="container-fluid">
+                    <div class="row gap-6 justify-content-md-center">
+                        <div class="col-12 col-sm-4 col-md-2">
+                            <a class="nav-link title" aria-expanded="false">Products<i class="dvl-icon hidden-sm-up">Plus</i></a>
+                            <div class="collapse show in" id="fProducts" style="height: auto;">
+                                <ul class="nav flex-column">
+                                    <li class="nav-item"><a class="nav-link" href="https://remotedesktopmanager.com">Remote Desktop Manager</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://password.devolutions.net">Password Vault Manager</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://server.devolutions.net">Devolutions Server</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://wayk.devolutions.net">Wayk Now</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://cloud.devolutions.net">Devolutions Cloud</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-12 col-sm-4 col-md-2">
+                            <a class="nav-link title" aria-expanded="false">Buy<i class="dvl-icon hidden-sm-up">Plus</i></a>
+                            <div class="collapse show in" id="fBuy" style="height: auto;">
+                                <ul class="nav flex-column">
+                                    <li class="nav-item"><a class="nav-link" href="https://store.devolutions.net">Online Store</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://store.devolutions.net/Pricing">Price List</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://store.devolutions.net/Quote">Request Quote</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/Buy/ResellerList">Find a Reseller</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/Support/FAQ">FAQ</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-12 col-sm-4 col-md-2">
+                            <a class="nav-link title" aria-expanded="false">Extensions<i class="dvl-icon hidden-sm-up">Plus</i></a>
+                            <div class="collapse show in" id="fExtensions" style="height: auto;">
+                                <ul class="nav flex-column">
+                                    <li class="nav-item"><a class="nav-link" href="/Home/BrowserExtensions">Browser Extensions</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-12 col-sm-4 col-md-2">
+                            <a class="nav-link title" aria-expanded="false">Support<i class="dvl-icon hidden-sm-up">Plus</i></a>
+                            <div class="collapse show in" id="fSupport" style="height: auto;">
+                                <ul class="nav flex-column">
+                                    <li class="nav-item"><a class="nav-link" href="https://forum.devolutions.net">Forum</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://help.devolutions.net">Online Help</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/Support/Video">Video Tutorials</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/Home/RequestDemo">Request Live Demo</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="https://blog.devolutions.net/category/tipstricks">Tips &amp; Tricks</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-12 col-sm-4 col-md-2">
+                            <a class="nav-link title" aria-expanded="false">Partners<i class="dvl-icon hidden-sm-up">Plus</i></a>
+                            <div class="collapse show in" id="fPartners" style="height: auto;">
+                                <ul class="nav flex-column">
+                                    <li class="nav-item"><a class="nav-link" href="/Partners/Affiliates">Affiliates</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/Partners/TechPartners">Partners</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/Buy/Reseller">Reseller Program</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-12 col-sm-4 col-md-2">
+                            <a class="nav-link title" aria-expanded="false">Company<i class="dvl-icon hidden-sm-up">Plus</i></a>
+                            <div class="collapse show in" id="fCompany" style="height: auto;">
+                                <ul class="nav flex-column">
+                                    <li class="nav-item"><a class="nav-link" href="/Company/AboutUs">About Us</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/Company/BoardofDirectors">Board</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/Company/ManagementTeam">Management</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/Company/Team">Team</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/Company/PressReleases">Press Releases</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/Company/Newsletters">Newsletters</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/Company/Media">Media</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="/Careers">Careers</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+
+<div class="section-two">
+    <div class="container-fluid">
+        <div class="row align-items-sm-center">
+            <div class="col-12 col-md-4">
+                <div class="row-logo">
+                    <a href="/"><i class="dvl-icon">Devolutions</i></a>
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
+                
+
+<script>
+    (function() {
+        var cx = '002595762157764814051:idfanehc90k';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = 'https://cse.google.com/cse.js?language=en&cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+    })();
+    window.onload = function() {
+        document.getElementById('gsc-i-id1').placeholder = 'Search';
+    }
+</script>
+<div class="gcse-searchbox-only" data-resultsurl="/Search/Result" data-newwindow="true"></div>
+            </div>
+            <div class="col-12 col-md-4">
+                <ul class="row-socials">
+                    <li><a class="spiceworks" href="https://community.spiceworks.com/pages/devolutions"><i class="dvl-icon">Spiceworks</i></a></li>
+                    <li><a class="twitter" href="https://twitter.com/DevolutionsInc"><i class="dvl-icon">Twitter</i></a></li>
+                    <li><a class="linkedin" href="https://www.linkedin.com/company/devolutions-inc-"><i class="dvl-icon">Linkedin</i></a></li>
+                    <li><a class="facebook" href="https://www.facebook.com/devolutionsinc"><i class="dvl-icon">Facebook</i></a></li>
+                    <li><a class="youtube" href="https://www.youtube.com/user/Devolutions"><i class="dvl-icon">YouTube</i></a></li>
+                    <li><a class="google-plus" href="https://plus.google.com/+DevolutionsNet"><i class="dvl-icon">Google_Plus</i></a></li>
+                </ul>
+            </div>
+        </div>
+        <ul class="nav nav-inline justify-content-center">
+            <li class="nav-item"><a class="nav-link" href="/Home/TermsOfUse">Terms of Use</a></li>
+            <li class="nav-item"><a class="nav-link" href="/Home/PrivacyPolicy">Privacy Policy</a></li>
+            <li class="nav-item"><a class="nav-link" href="/Home/SupportPolicy">Support Policy</a></li>
+            
+                    <li class="nav-item"><a class="nav-link" href="/fr/Home/PrivacyPolicy">Français</a></li>
+                
+        </ul>
+        <p>Devolutions is a leading provider of remote connection, password and credential management tools for sysadmins and IT pros.</p>
+        <p class="copyright">
+            DEVOLUTIONS.NET | 1000 Notre-Dame, Lavaltrie, QC J5T 1M1, Canada | <a href="mailto:infos@devolutions.net">infos@devolutions.net</a><br>
+            All rights reserved © 2017 Devolutions
+        </p>
+    </div>
 </div>
         </div>
+
+        <script src="/Scripts/lazysizes/2.0.0/lazysizes.min.js"></script>
+        <script src="/Scripts/tether/1.3.2/tether.min.js"></script>
+        <script src="/Scripts/bootstrap/4.0.0/bootstrap.min.js"></script><div class="zopim" __jx__id="___$_1" style="position: absolute; visibility: hidden; margin: 0px; padding: 0px; border: 0px; height: 0px; width: 0px;"></div>
+        <script src="/Scripts/default.js"></script>
+
+        
     
 </body></html>
