@@ -1,16 +1,11 @@
-<!--The following is the downloaded HTML source of the thechivery.com privacy policy that was archived on 2015-02-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150218220631id_/http%3A//www.resignationmedia.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thechivery.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606170532id_/http%3A//www.resignationmedia.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js preload" lang="en"><!--<![endif]--><head>
         <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" charset="UTF-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M98WBZ"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgEHV1JXGwAJU1FQBQg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-        
-	<title>Privacy Policy | Resignation Media</title>
-
-<meta name="description" content="">
-<link rel="canonical" href="http://www.resignationmedia.com/legal/privacy">
-
-
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+        <title>Resignation Media</title>
+        <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
 
         <!-- Favicon -->
@@ -25,99 +20,195 @@
         <link rel="apple-touch-icon" sizes="152x152" href="http://www.resignationmedia.com/images/favicon/apple-touch-icon-152x152.png">
 
         <!-- Styles -->
-        <link rel="stylesheet" href="http://www.resignationmedia.com/?css=styles/bootstrap.min.v.1415209938">
-        <link rel="stylesheet" href="http://www.resignationmedia.com/?css=styles/main.v.1424220234">
+        <link rel="stylesheet" href="http://www.resignationmedia.com/?css=styles/bootstrap.min.v.1496354105">
+        <link rel="stylesheet" href="http://www.resignationmedia.com/?css=styles/main.v.1496354105">
+        <link rel="stylesheet" href="http://www.resignationmedia.com/?css=styles/extra.v.1496354105">
 
         <!-- Fonts -->
 	    <link rel="stylesheet" href="http://www.resignationmedia.com/fonts/fonts.css">
-    </head>
-    <body class="desktop"><!-- END Head -->
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M98WBZ"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-M98WBZ');</script>
-<!-- End Google Tag Manager -->
+
+        <script src="http://www.resignationmedia.com/scripts/deps.min" type="text/javascript"></script>
+    </head><!-- END Head -->
+
+    <body class="desktop " data-url="http://www.resignationmedia.com/">
+        <div class="visible-md visible-lg"></div>
+
 <!-- Header -->
 <div class="main-menu slide-menu-right">
 	<button class="close-menu" type="button" role="button"></button>
 	<div class="main-menu-outer">
-		<div class="main-menu-inner">
-			<nav>
-				<ul class="main-links">
-					<li><a href="http://www.resignationmedia.com/">Home</a></li>
-					<li><a href="http://www.resignationmedia.com/about">About</a></li>
-					<li><a href="http://www.resignationmedia.com/news">News/Media</a></li>
-					<li><a href="http://www.resignationmedia.com/careers">Careers</a></li>
-					<li><a href="http://advertise.thechive.com/" target="_blank">Advertise</a></li>
-				</ul>
-				<ul class="properties-links">
-					<li class="menu-title"><span>Properties</span></li>
-					<li class="property-link"><a href="http://www.resignationmedia.com/properties/the-chive"><img src="http://www.resignationmedia.com/images/template/img-main-menu-logo-thechive@2x.png" alt="The Chive"></a></li>
-					<li class="property-link"><a href="http://www.resignationmedia.com/properties/the-berry"><img src="http://www.resignationmedia.com/images/template/img-main-menu-logo-theberry@2x.png" alt="The Berry"></a></li>
-					<li class="property-link"><a href="http://www.resignationmedia.com/properties/chive-fest"><img src="http://www.resignationmedia.com/images/template/img-main-menu-logo-chivefest@2x.png" alt="Chive Fest"></a></li>
-					<li class="property-link"><a href="http://www.resignationmedia.com/properties/the-chivery"><img src="http://www.resignationmedia.com/images/template/img-main-menu-logo-thechivery@2x.png" alt="The Chivery"></a></li>
-					<li class="property-link"><a href="http://www.resignationmedia.com/properties/resignation-brewery"><img src="http://www.resignationmedia.com/images/template/img-main-menu-logo-resignationbrewery@2x.png" alt="Resignation Brewery"></a></li>
-					<li class="property-link"><a href="http://www.resignationmedia.com/properties/chive-charities"><img src="http://www.resignationmedia.com/images/template/img-main-menu-logo-chivecharities@2x.png" alt="Chive Charities"></a></li>
-				</ul>
-			</nav>
-			<!--ul class="menu-news">
-				<li class="menu-title"><span>Latest</span></li>
-				<li>
-				  <h4>Resignation Brewery Announces KCCO Gold Lager Available At Chive Fest Denver</h4>
-				  <p>We are pumped for you to try our unreleased Gold Lager at Chive Fest. Think pilsner style lager that is actually full flavored.</p>
-				</li>
-		</ul>
-		<a class="view-more-news" href="news-and-media.html">View all news</a-->
-		</div>
-	</div>
-	<!--div class="menu-press-media">Press / Media inquiries - <a href="#">contact us here</a></div-->
-</div>
 
+		<div class="container menu-container menu-nav-wrap">
+			<div class="main-menu-inner">
+
+				<div class="menu-social">
+					<!--
+					<a href="http://www.facebook.com/theCHIVE" target="_blank"><img src="http://www.resignationmedia.com/images/template/ico-social-facebook.png" alt="Facebook"></a>
+					<a href="http://www.twitter.com/theCHIVE" target="_blank"><img src="http://www.resignationmedia.com/images/template/ico-social-twitter.png" alt="Twitter"></a>
+					<a href="http://www.instagram.com/theCHIVE" target="_blank"><img src="http://www.resignationmedia.com/images/template/ico-social-instagram.png" alt="Instagram"></a>
+					-->
+				</div><!-- /.menu-social -->
+
+				<nav class="menu-nav-main">
+					<ul class="main-links">
+						<li><a href="http://www.resignationmedia.com/about">About</a></li>
+                        <li><a href="http://www.resignationmedia.com/team">Team</a></li>
+						<li><a href="http://www.resignationmedia.com/advertising" target="_blank">Advertise</a></li>
+						<li><a href="http://www.resignationmedia.com/press">Press</a></li>
+                        <li><a href="http://www.resignationmedia.com/branding">Brand Guidelines</a></li>
+						<li><a href="http://www.resignationmedia.com/careers">Careers</a></li>
+						<li><a href="http://www.resignationmedia.com/contact">Contact</a></li>
+					</ul>
+				</nav>
+			</div><!-- /.main-menu-inner -->
+		</div><!-- /.menu-container -->
+
+		<div class="container menu-container menu-news-wrap">
+			<div class="main-menu-inner">
+                <!--
+                <ul class="menu-news">
+                    <li class="menu-title"><span>News</span></li>
+
+                    <div class="js-slider js-touch">
+                        
+                            <li class="slide-pane">
+                                <a href="http://www.resignationmedia.com/news/ed-norton-partners-with-fellow-actor-bill-murray-to-help-mercy-home">
+                                    <h4>Ed Norton partners with fellow actor Bill Murray to help Mercy Home</h4>
+                                    <p>{excerpt}</p>
+                                </a>
+                            </li>
+                        
+                            <li class="slide-pane">
+                                <a href="http://www.resignationmedia.com/news/heres-what-its-like-to-be-in-business-with-bill-murray">
+                                    <h4>Here&#8217;s What It&#8217;s Like to Be in Business With Bill Murray</h4>
+                                    <p>{excerpt}</p>
+                                </a>
+                            </li>
+                        
+                            <li class="slide-pane">
+                                <a href="http://www.resignationmedia.com/news/william-murray-golf-is-full-of-random-unexpected-delights-just-like-bill-mu">
+                                    <h4>William Murray Golf is full of random, unexpected delights – just like Bill Murray</h4>
+                                    <p>{excerpt}</p>
+                                </a>
+                            </li>
+                        
+                            <li class="slide-pane">
+                                <a href="http://www.resignationmedia.com/news/bill-murray-and-his-brothers-venture-into-golf-wear">
+                                    <h4>Bill Murray and His Brothers Venture Into Golf Wear</h4>
+                                    <p>{excerpt}</p>
+                                </a>
+                            </li>
+                        
+                            <li class="slide-pane">
+                                <a href="http://www.resignationmedia.com/news/westin-hotels-and-dave-busters-are-turning-to-viral-videos-when-sports-aren">
+                                    <h4>Westin Hotels and Dave &amp; Busters Are Turning to Viral Videos When Sports Aren’t on TV</h4>
+                                    <p>{excerpt}</p>
+                                </a>
+                            </li>
+                        
+                    </div>
+                </ul>
+
+                <a class="view-more-news" href="http://www.resignationmedia.com/news">View all news</a>
+
+                <div class="menu-news-nav">
+                    <span class="menu-news-prev">&lsaquo;</span>
+                    <span class="menu-news-next">&rsaquo;</span>
+                </div>
+                 -->
+            </div><!-- /.main-menu-inner -->
+        </div><!-- /.menu-news-wrap -->
+
+		<nav class="menu-container menu-nav-properties">
+			<ul class="property-links">
+				
+					<li>
+						<a class="property-link property-thechive " href="http://www.resignationmedia.com/properties/thechive" style="background-image: url('http://www.resignationmedia.com/images/uploads/19/chive__large.jpg');">
+							<img class="property-link-logo" src="http://www.resignationmedia.com/images/template/img-main-menu-logo-thechive@2x.png" alt="theCHIVE">
+						</a>
+					</li>
+				
+					<li>
+						<a class="property-link property-berry " href="http://www.resignationmedia.com/properties/berry" style="background-image: url('http://www.resignationmedia.com/images/uploads/20/the-berry-2__large.jpg');">
+							<img class="property-link-logo" src="http://www.resignationmedia.com/images/template/img-main-menu-logo-berry@2x.png" alt="theBERRY">
+						</a>
+					</li>
+				
+					<li>
+						<a class="property-link property-chive-tv " href="http://www.resignationmedia.com/properties/chive-tv" style="background-image: url('http://www.resignationmedia.com/images/uploads/223/chivetv-2__large.jpg');">
+							<img class="property-link-logo" src="http://www.resignationmedia.com/images/template/img-main-menu-logo-chive-tv@2x.png" alt="CHIVE TV">
+						</a>
+					</li>
+				
+					<li>
+						<a class="property-link property-the-chivery " href="http://www.resignationmedia.com/properties/the-chivery" style="background-image: url('http://www.resignationmedia.com/images/uploads/18/chivery__large.jpg');">
+							<img class="property-link-logo" src="http://www.resignationmedia.com/images/template/img-main-menu-logo-the-chivery@2x.png" alt="The Chivery">
+						</a>
+					</li>
+				
+					<li>
+						<a class="property-link property-chive-charities " href="http://www.resignationmedia.com/properties/chive-charities" style="background-image: url('http://www.resignationmedia.com/images/uploads/17/charities__large.jpg');">
+							<img class="property-link-logo" src="http://www.resignationmedia.com/images/template/img-main-menu-logo-chive-charities@2x.png" alt="Chive Charities">
+						</a>
+					</li>
+				
+					<li>
+						<a class="property-link property-chive-nation coming-soon" style="background-image: url('http://www.resignationmedia.com/images/uploads/340/cn-2__large.jpg');">
+							<img class="property-link-logo" src="http://www.resignationmedia.com/images/template/img-main-menu-logo-chive-nation@2x.png" alt="Chive Nation">
+						</a>
+					</li>
+				
+					<li>
+						<a class="property-link property-buy-me-brunch coming-soon" style="background-image: url('http://www.resignationmedia.com/images/uploads/338/brunch-2__large.jpg');">
+							<img class="property-link-logo" src="http://www.resignationmedia.com/images/template/img-main-menu-logo-buy-me-brunch@2x.png" alt="Buy Me Brunch">
+						</a>
+					</li>
+				
+					<li>
+						<a class="property-link property-william-murray-golf coming-soon" style="background-image: url('http://www.resignationmedia.com/images/uploads/336/wmg__large.jpg');">
+							<img class="property-link-logo" src="http://www.resignationmedia.com/images/template/img-main-menu-logo-william-murray-golf@2x.png" alt="William Murray Golf">
+						</a>
+					</li>
+				
+			</ul><!-- /.property-links -->
+		</nav>
+
+		<div class="container menu-container menu-press-wrap">
+			<div class="menu-press-media">
+				<span>Press &amp; media inquiries?<br class="visible-xs">
+				<a href="http://www.resignationmedia.com/contact">Contact us here.</a></span>
+			</div><!-- /.menu-press-media -->
+		</div><!-- /.container -->
+
+	</div><!-- /.main-menu-outer -->
+	
+</div><!-- /.main-menu -->
 
 <div class="site-wrapper">
+    
 	<div class="site">
 
-		<header class="main-header big preload">
+		<header class="main-header big">
 
 			<!--[if lt IE 9]>
 			<div class="outdatedbrowser text-center">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" rel="nofollow" target="_blank">upgrade your browser</a> to improve your experience.</div>
 			<![endif]-->
 
 			<a href="http://www.resignationmedia.com/" class="main-logo"><img src="http://www.resignationmedia.com/images/template/img-logo@2x.png" width="159" height="74" alt="Resignation Media"></a>
-			<nav class="desktop-menu">
-				<ul>
-					<li>Properties
-						<ul class="dropdown">
-							<li><a href="http://www.resignationmedia.com/properties/the-chive">The Chive</a></li>
-							<li><a href="http://www.resignationmedia.com/properties/the-berry">The Berry</a></li>
-							<li><a href="http://www.resignationmedia.com/properties/thebomb">The Bomb</a></li>
-							<li><a href="http://www.resignationmedia.com/properties/the-chivery">The Chivery</a></li>
-							<li><a href="http://www.resignationmedia.com/properties/resignation-brewery">Resignation Brewery</a></li>
-							<li><a href="http://www.resignationmedia.com/properties/chive-charities">Chive Charities</a></li>
-						</ul>
-					</li>
-					<li><a href="http://www.resignationmedia.com/about">About</a></li>
-					<li><a href="http://www.resignationmedia.com/news">News/Media</a></li>
-					<li><a href="http://www.resignationmedia.com/careers">Careers</a></li>
-					<li>Advertise
-						<ul class="dropdown">
-							<li><a href="http://www.resignationmedia.com/advertise/thechive" target="_blank">theCHIVE</a></li>
-							<li><a href="http://www.resignationmedia.com/advertise/theberry" target="_blank">theBERRY</a></li>
-						</ul>
-					</li>
-				</ul>
-			</nav>
-			<button class="main-menu-btn nav-toggler toggle-slide-right preload" type="button" role="button">
-				<span class="icon-bar preload"></span>
-				<span class="icon-bar preload"></span>
-				<span class="icon-bar preload"></span>
+			
+			<button class="main-menu-btn nav-toggler toggle-slide-right " type="button" role="button">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
 			</button>
 		</header>
 		<!-- END Header -->
+
+		<div class="ajax-container">
+        
+
+
+<span class="js-meta" data-title="" data-class="" data-desc=""></span>
 
 <!-- Page content -->
 
@@ -126,10 +217,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <!-- Banner -->
 <section class="banner has-overlay no-logo v-align-container" data-image="http://www.resignationmedia.com/images/template/img-banner-leaders.jpg">
-	<!-- Video -->
-	<div class="banner-video-wrap" id="banner-video" data-video-id="0_s1yjo9pf"></div>
-	<img class="video-loader" src="http://www.resignationmedia.com/images/template/img-loader.gif">
-
 	<header class="banner-header v-align">
 		<div class="container">
 			<div class="row">
@@ -143,7 +230,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <section class="item item-leaders theme-light">
-	<div class="container text-center">
+	<div class="container">
 		<div class="row">
 			<div class="col-sm-12 col-md-10 col-md-offset-1">
 			
@@ -233,113 +320,142 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- END Page content -->
 
 <!-- foot -->
-<footer class="main-footer item theme-dark">
+<footer class="main-footer item theme-dark ">
 	<div class="container">
-		<div class="row scroll-fade">
-			<div class="col-sm-12">
-				<h4>Current Facebook conversations</h4>
+
+		<div class="row">
+			<div class="col-sm-5 col-md-4 col-sitemap">
+				<h5>Sitemap</h5>
+				<nav class="nav-footer">
+					<ul class="footer-links">
+						<li><a href="http://www.resignationmedia.com/about">About</a></li>
+						<li><a href="http://www.resignationmedia.com/team">Team</a></li>
+						<li><a href="http://www.resignationmedia.com/advertising">Advertise</a></li>
+						<li><a href="http://www.resignationmedia.com/press">Press</a></li>
+						<li><a href="http://www.resignationmedia.com/branding">Brand Guidelines</a></li>
+						<li><a href="http://www.resignationmedia.com/careers">Careers</a></li>
+						<li><a href="http://www.resignationmedia.com/contact">Contact</a></li>
+					</ul>
+				</nav>
 			</div>
-		</div>
-		<div class="row fb-stats scroll-fade">
-			<!-- FB Stats 1 -->
-			<div class="col-sm-4 col-md-2 col-fb-stats">
-				<a href="https://www.facebook.com/theCHIVE" target="_blank">
-					<p class="fb-title">TheChive</p>
-					<div class="stats-wrap">
-						<span class="fb-number">81700</span>
-					</div>
-				</a>
-			</div>
-			<!-- FB Stats 2 -->
-			<div class="col-sm-4 col-md-2 col-fb-stats">
-				<a href="https://www.facebook.com/theBERRY" target="_blank">
-					<p class="fb-title">TheBerry</p>
-					<div class="stats-wrap">
-						<span class="fb-number">6600</span>
-					</div>
-				</a>
-			</div>
-			<!-- FB Stats 3 -->
-			<div class="col-sm-4 col-md-2 col-fb-stats">
-				<a href="https://www.facebook.com/theCHIVERY" target="_blank">
-					<p class="fb-title">TheChivery</p>
-					<div class="stats-wrap">
-						<span class="fb-number">5000</span>
-					</div>
-				</a>
-			</div>
-			<!-- FB Stats 4 -->
-			<div class="col-sm-4 col-md-2 col-fb-stats">
-				<a href="https://www.facebook.com/chivefest" target="_blank">
-					<p class="fb-title">Chive Fest</p>
-					<div class="stats-wrap">
-						<span class="fb-number">2000</span>
-					</div>
-				</a>
-			</div>
-			<!-- FB Stats 5 -->
-			<div class="col-sm-4 col-md-2 col-fb-stats">
-				<a href="https://www.facebook.com/ResignationBrewery" target="_blank">
-					<p class="fb-title">Brewery</p>
-					<div class="stats-wrap">
-						<span class="fb-number">972</span>
-					</div>
-				</a>
-			</div>
-			<!-- FB Stats 6 -->
-			<div class="col-sm-4 col-md-2 col-fb-stats">
-				<a href="https://www.facebook.com/chive.charities" target="_blank">
-					<p class="fb-title">Chive Charities</p>
-					<div class="stats-wrap">
-						<span class="fb-number">700</span>
-					</div>
-				</a>
+			<div class="col-sm-7 col-md-8 col-properties">
+				<h5>Our Properties</h5>
+				<ul class="footer-properties-list clearfix">
+					
+						<li><a href="http://www.resignationmedia.com/properties/thechive">theCHIVE</a></li>
+					
+						<li><a href="http://www.resignationmedia.com/properties/berry">theBERRY</a></li>
+					
+						<li><a href="http://www.resignationmedia.com/properties/chive-tv">CHIVE TV</a></li>
+					
+						<li><a href="http://www.resignationmedia.com/properties/the-chivery">The Chivery</a></li>
+					
+						<li><a href="http://www.resignationmedia.com/properties/chive-charities">Chive Charities</a></li>
+					
+						<li><a class="coming-soon">Chive Nation</a></li>
+					
+						<li><a class="coming-soon">Buy Me Brunch</a></li>
+					
+						<li><a class="coming-soon">William Murray Golf</a></li>
+					
+				</ul>
 			</div>
 		</div>
 
 		<div class="copyright">
-			COPYRIGHT © 2015 RESIGNATION MEDIA, LLC. ALL RIGHTS RESERVED
+			COPYRIGHT © 2017 RESIGNATION MEDIA, LLC. ALL RIGHTS RESERVED
 		</div>
+	</div>
 
-		<!--<div class="row scroll-fade">
-			<div class="col-sm-5 col-footer-half stroke-top news">
-				<h4>News</h4>
-				<p>Resignation Brewery announces KCCO Gold Lager Available at Chive Fest Seattle</p>
+	<div class="container hidden">
+		
+		
 
-				<p>Chivery products now available in Okinawa</p>
+		<div class="row">
+			<div class="col-sm-5 col-footer-half news">
+				<h5>News</h5>
 
-				<p>Resignation Media and 22 Jump Street announce co-promotion schedule</p>
+				
+
+					<p><a href="http://www.resignationmedia.com/news/ed-norton-partners-with-fellow-actor-bill-murray-to-help-mercy-home">Ed Norton partners with fellow actor Bill Murray to help Mercy Home</a></p>
+
+				
+
+					<p><a href="http://www.resignationmedia.com/news/heres-what-its-like-to-be-in-business-with-bill-murray">Here’s What It’s Like to Be in Business With Bill Murray</a></p>
+
+				
+
+					<p><a href="http://www.resignationmedia.com/news/william-murray-golf-is-full-of-random-unexpected-delights-just-like-bill-mu">William Murray Golf is full of random, unexpected delights – just like Bill Murray</a></p>
+
+				
+
+					<p><a href="http://www.resignationmedia.com/news/bill-murray-and-his-brothers-venture-into-golf-wear">Bill Murray and His Brothers Venture Into Golf Wear</a></p>
+
+				
+
+					<p><a href="http://www.resignationmedia.com/news/westin-hotels-and-dave-busters-are-turning-to-viral-videos-when-sports-aren">Westin Hotels and Dave &amp; Busters Are Turning to Viral Videos When Sports Aren’t on TV</a></p>
+
+				
 			</div>
-			<div class="col-sm-7 col-footer-half stroke-top">
-				<h5>@thechive</h5>
-				<p>We are so pumped to announce the <a href="#">#ChiveFest</a> Seattle lineup tomorrow! Stay tuned! <a href="#">#ChiveFestSeattle</a></p>
+			<div class="col-sm-7 col-footer-half">
+				<span class="dropdown-label">Tw</span>
+				<div class="dropdown-wrap social-toggle-wrap">
+					<ul class="dropdown social-toggle social-toggle-twitter">
+						<li class="active" data-user="thechive">@theCHIVE</li>
+						<li data-user="theberry">@theBERRY</li>
+						<!--<li data-user="resignationbrew">@ResignationBrewery</li>-->
+						<li data-user="chivecharities">@ChiveCharities</li>
+						<li data-user="thechivery">@TheChivery</li>
+					</ul><!-- /.footer-social-toggle -->
+				</div><!-- /.dropdown-wrap -->
+
+				<div class="footer-tweets js-twitter">
+					<span class="twitter-content">
+						<span>loading...</span>
+					</span>
+					<span class="twitter-meta"></span>
+				</div><!-- /.footer-tweets -->
 			</div>
 			<div class="col-sm-7">
-				<h5>#Thechive</h5>
-				<div class="instagram-feed">
-					<div class="thumb"><img src="http://placehold.it/640x640"></div>
-					<div class="thumb"><img src="http://placehold.it/640x640"></div>
-					<div class="thumb"><img src="http://placehold.it/640x640"></div>
-					<div class="thumb"><img src="http://placehold.it/640x640"></div>
+				<span class="dropdown-label">Insta</span>
+				<div class="dropdown-wrap social-toggle-wrap">
+					<ul class="dropdown social-toggle social-toggle-instagram">
+						<li class="active" data-user="11433567">@theCHIVE</li>
+						<li data-user="228398678">@theBERRY</li>
+						<!--<li data-user="380009667">@ResignationBrewery</li>-->
+						<li data-user="351425638">@ChiveCharities</li>
+						<li data-user="215920463">@TheChivery</li>
+					</ul><!-- /.footer-social-toggle -->
+				</div><!-- /.dropdown-wrap -->
+				<div class="instagram-feed js-instagram-widget">
+					<span>loading...</span>
 				</div>
 			</div>
-		</div>-->
+		</div>
+
+		
+
+		<div class="copyright">
+			COPYRIGHT © 2016 RESIGNATION MEDIA, LLC. ALL RIGHTS RESERVED
+		</div>
+
 	</div>
 </footer>
 <!-- END foot -->
-<!-- footer -->
-</div><!-- END site -->
-</div><!-- END site-wrapper -->
 
+		</div><!-- END site -->
+	</div> <!-- .ajax -->
+</div><!-- END .site-wrapper -->
+
+<div class="site-mask">
+	<div class="loader">Loading...</div>
+</div>
 
 <script src="http://cdnapi.kaltura.com/p/1289861/sp/128986100/embedIframeJs/uiconf_id/23518022/partner_id/1289861"></script>
-<script src="http://www.resignationmedia.com/scripts/jquery-1.11.0.min" type="text/javascript"></script>
-<script src="http://www.resignationmedia.com/scripts/modernizr-2.6.2.min" type="text/javascript"></script>
-<script src="http://www.resignationmedia.com/scripts/bootstrap.min" type="text/javascript"></script>
-<script src="http://www.resignationmedia.com/scripts/plugins" type="text/javascript"></script>
-<script src="http://www.resignationmedia.com/scripts/main" type="text/javascript"></script>
+<script src="http://www.resignationmedia.com/scripts/plugins.min" type="text/javascript"></script>
+<script src="http://www.resignationmedia.com/scripts/main.min" type="text/javascript"></script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"aa9be759b0","applicationID":"19484395","transactionName":"NFZaZEoEXUpRUBFQXA0ce0VLEVxUH18AXlIPHEhCURNSWkk=","queueTime":0,"applicationTime":43,"atts":"GBFZEgIeTkQ=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"77c7783fe0","applicationID":"3970229","transactionName":"bwQEZRNYV0JQAEAKWFZOJUQSTVZcHg9RBFZUThZDCE9YUkg=","queueTime":0,"applicationTime":48,"atts":"Q0MHE1tCREw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
-
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</body></html>
