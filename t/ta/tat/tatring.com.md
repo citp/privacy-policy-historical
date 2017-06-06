@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the tatring.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231133332id_/http%3A//hubpages.com/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatring.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171243id_/https%3A//tatring.com/privacy-policy) for the most accurate reproduction.*
 
-# HubPages Privacy Policy
+# Privacy Policy | TatRing
 
-This Privacy Policy was last updated on February 2, 2016, and is effective February 9, 2016. See the bottom of this page for recent changes to this Privacy Policy.
+This Privacy Policy was last updated on January 27, 2017, and is effective February 5, 2017. See the bottom of this page for recent changes to this Privacy Policy.
 
-The following information is to help users and visitors (collectively “Users” or “You”) understand how we collect, use, disseminate and safeguard the information You provide to us while accessing and using our HubPages software, services, the website at [HubPages.com](http://hubpages.com/), Tatring.com, Bellatory.com, Delishably.com, AxleAddict.com, CalorieBee.com, DenGarden.com, FeltMagnet.com, Exemplore.com, ReelRunDown.com, LevelSkip.com, ToughNickel.com, KindredBond.com, TurboFuture.com, WanderWisdom.com, LetterPile.com, Holidappy.com, Soapboxie.com, SkyAboveUs.com, HowTheyPlay.com, HobbyLark.com, Owlcation.com, PairedLife.com, HealDove.com, WeHaveKids.com and PetHelpful.com (the “Website”), and any other websites and services as may be added from time to time (collectively, the “Service”). We will not use or share Your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Use. By using the [HubPages Service](http://hubpages.com/), you expressly consent to the practices and activities described in this document. 
+The following information is to help users and visitors (collectively “Users” or “You”) understand how we collect, use, disseminate and safeguard the information You provide to us while accessing and using our HubPages software, services, the website at [TatRing](https://tatring.com/) (the “Website”), and any other websites and services as may be added from time to time (collectively, the “Service”). We will not use or share Your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Use. By using the HubPages Service, you expressly consent to the practices and activities described in this document. 
 
 ## 1\. Information We Collect
 
 We collect the following information:
 
-a. User Provided Information. You may provide certain personally identifiable information to [HubPages](http://hubpages.com/) directly, such as Your first and last name, telephone number, address, tax information (such as a Social Security Number), credit card or PayPal® information, and email address (collectively, “Personally Identifiable Information”) when choosing to register, to purchase through the Service, to participate in promotions or surveys, or to subscribe to any newsletters or other distribution lists. You may also choose to provide us with Personally Identifiable Information in your User Content.
+a. User Provided Information. You may provide certain personally identifiable information to HubPages directly, such as Your first and last name, telephone number, address, tax information (such as a Social Security Number), credit card or PayPal® information, and email address (collectively, “Personally Identifiable Information”) when choosing to register, to purchase through the Service, to participate in promotions or surveys, or to subscribe to any newsletters or other distribution lists. You may also choose to provide us with Personally Identifiable Information in your User Content.
 
 When You use our Service, we may collect and store information about Your use, including the following:
 
@@ -24,7 +24,11 @@ Information collected through clear gifs and cookies, and log file information i
 
 e. Third-party service-based information. This includes linked services (such as Facebook Connect) that You authorize to share information about You with HubPages. If You elect to use Facebook Connect with HubPages, You agree that HubPages may use (as described in Section 2) information about You provided by Facebook, including (but is not limited to) Your: name, email, gender, birthday, current city, profile picture URL, as well as any additional information (such as “Like” information) that You specifically consent for HubPages to access and use.
 
-Other third-party supported services, such as Google Analytics, that You might use on the Service may collect information through similar methods. Such information is not shared with us and is subject to the privacy policy of each such third-party service.
+Other third-party supported services, such as Google Analytics, that You might use on the Service may collect information through similar methods. Such information is not shared with us and is subject to the privacy policy of each such third-party service. 
+
+Integrated services that require Google Analytics to collect data for advertising purposes (such as Remarketing with Google Analytics, Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting), including the collection of data via advertising cookies and identifiers. For information about opting out of Google Analytics [see the currently available Google Analytics opt-out tool](https://tools.google.com/dlpage/gaoptout/). 
+
+You may also opt-out of receiving targeted ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) with the NAI tool available [here](http://www.networkadvertising.org/choices/). 
 
 ## 2\. Use of Information
 
@@ -42,7 +46,7 @@ We may share your Personally Identifiable Information with third parties solely 
 
 Any information or User Content submitted, transmitted, or uploaded to the public areas of the Service becomes publicly available and can be collected and used by other Users, who may forward this information or User Content to other websites or people.. Be aware that if Your User Content includes personal information, such as your name and email address, other Users will have access to it. If Your User Content is a photograph, please be aware that all photographs uploaded to the Service reside on public URLs. Any person who knows the URL of Your photograph can access the photograph, whether or not it’s published on a Hub. Your photograph will remain displayed on such URL after You delete it from Your Hub. Please do not upload any photographs that You do not want to be public information.
 
-If You request to join the eBay Partner Network as a sub-affiliate of HubPages, You acknowledge that eBay requires personal information about You to approve Your participation in the program, and You agree that HubPages may disclose to eBay personal information about You that eBay requires, including (but not limited to) Your: name, email, phone number, address, and country. If You request to participate in the Amazon Program under HubPages, You acknowledge that Amazon may require personal information about You to with respect to Your participation in the program (for fraud monitoring and other possible reasons), and You agree that HubPages may disclose to Amazon such personal information about You that Amazon requires, including (but not limited to) Your: name, email, phone number, address, and country.
+If You request to participate in the Amazon Program under HubPages, You acknowledge that Amazon may require personal information about You to with respect to Your participation in the program (for fraud monitoring and other possible reasons), and You agree that HubPages may disclose to Amazon such personal information about You that Amazon requires, including (but not limited to) Your: name, email, phone number, address, and country.
 
 In order to describe our Service to prospective partners, advertisers and other third parties we may disclose aggregate user information. We share Non-Personally Identifiable Information (such as anonymous use data) with third parties to assist them in understanding our Service, including Users’ use of our Service and the success of promotions.
 
@@ -79,6 +83,8 @@ We reserve the right, at our sole discretion, to change, add or remove portions 
 Please contact us with any questions or comments about this Privacy Policy by email at team@hubpages.com, or by sending postal mail to 2120 University Ave, Berkeley, CA 94704, USA.
 
 ## RECENT CHANGES TO THIS PRIVACY POLICY
+
+January 27, 2016. We revised the policy on Google Analytics by adding in their advertising services and how to opt-out via their tool.
 
 February 2, 2016: We added websites to the service for where Hubs may appear when published. Websites include tatring.com, pethelpful.com and additional websites in the future. These additional websites share registration information so that users can login to any website that is part of the HubPages service.
 
