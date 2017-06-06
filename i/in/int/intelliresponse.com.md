@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the intelliresponse.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221163941id_/http%3A//www.247-inc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelliresponse.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606195951id_/http%3A//www.247-inc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | [24]7
 
 ## Website Privacy Policy
 
-_(last revised on September 28, 2016)_
+ _(last revised on September 28, 2016)_
 
 24/7 Customer, Inc., on behalf of itself and its affiliated companies (collectively, "[24]7"), has adopted the following Website Privacy Policy in furtherance of respecting online privacy and recognizing the need for appropriate protection and management of the personally-identifiable information we may receive from visitors to this United States-based website ("Personal Information"), like yourself.
 
@@ -99,7 +99,7 @@ Campbell, CA 95008-0610 USA
 
 ## Platform Privacy Policy
 
-_(last revised on September 28, 2016)_
+ _(last revised on September 28, 2016)_
 
 24/7 Customer, Inc. and its affiliates (collectively, “[24]7”) provide software platforms, applications, and data analysis systems (collectively, the “[24]7 Platform”) which enable [24]7’s clients (DEFINE as “Client”) to better service their current and prospective customers (each an “End User”) via the Internet and telephony networks. This [24]7 Platform Privacy Policy is applicable to those Clients and End Users who are either directly or indirectly using the [24]7 Platform.
 
