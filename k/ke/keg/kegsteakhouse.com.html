@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kegsteakhouse.com privacy policy that was archived on 2016-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161204064300id_/https%3A//www.kegsteakhouse.com/privacy/%23siteContent) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kegsteakhouse.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606170016id_/https%3A//www.kegsteakhouse.com/privacy/%23siteContent) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 		<meta charset="utf-8">
@@ -84,6 +84,8 @@
 						
 						
 						<li><a href="/newsletter/#siteContent" class="ajax ">Newsletter</a></li>
+						
+						
 						
 						
 						
@@ -264,10 +266,7 @@
 									<li class=""><a href="/investors/" class="" target="_blank" aria-label="Opens www.kegincomefund.com in a new window">Investors: Keg Income Fund</a></li>
 								
 									
-									<li class=""><a href="/contact-us/#siteContent" class="ajax">Contact Us</a></li>
-								
-									
-									<li class=" last"><a href="/news/#siteContent" class="ajax">News</a></li>
+									<li class=" last"><a href="/contact-us/#siteContent" class="ajax">Contact Us</a></li>
 								
 							</ul>
 						</div>
@@ -316,6 +315,8 @@
 				
 					
 						<li><a href="/newsletter/#siteContent" class="ajax">Newsletter</a></li>
+					
+				
 					
 				
 					
@@ -498,12 +499,7 @@
 					
 				
 					
-						<li>
-							
-								<a href="/news/#siteContent" class="ajax"><span class="spanItem">News</span><span class="arrowRight"></span></a>
-							
-							
-						</li>
+				
 					
 				
 					
@@ -576,12 +572,18 @@
 		function captchaLoaded(){
 			$('.captcha-container').each(function(){
 				var id = $('.captcha-container').attr('id');
-				grecaptcha.render(id, {
-		          'sitekey' : '6LceEyITAAAAAHA9Rkv8eGkzTaYJM_7FnAbmF_Ej',
-		          'size': 'compact',
-		          'theme': 'dark',
-		          'expired-callback': grecaptcha.reset
-		        });
+				if(id == "contact-captcha") {
+					grecaptcha.render(id, {
+			          'sitekey' : '6LeejP4SAAAAAK-Um1k8axGeViovV8Rt298oO4k4'
+			        });
+				} else {
+					grecaptcha.render(id, {
+			          'sitekey' : '6LceEyITAAAAAHA9Rkv8eGkzTaYJM_7FnAbmF_Ej',
+			          'size': 'compact',
+			          'theme': 'dark',
+			          'expired-callback': grecaptcha.reset
+			        });
+				}
 			});
 		}
 		</script>
