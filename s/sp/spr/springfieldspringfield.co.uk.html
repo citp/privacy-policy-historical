@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the springfieldspringfield.co.uk privacy policy that was archived on 2016-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161227191648id_/http%3A//www.springfieldspringfield.co.uk/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the springfieldspringfield.co.uk privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606020526id_/http%3A//www.springfieldspringfield.co.uk/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta charset="utf-8">
@@ -49,6 +49,33 @@
         enable_page_level_ads: true
     });
 </script>
+
+    <script>
+
+        function addLink() {
+            //Get the selected text and append the extra info
+            var selection = window.getSelection(),
+                pagelink = '<br><br>Read more: ' + document.location.href,
+                copytext = selection + pagelink,
+                newdiv = document.createElement('pre');
+
+            //hide the newly created container
+            newdiv.style.position = 'absolute';
+            newdiv.style.left = '-99999px';
+
+            //insert the container, fill it with the extended text, and define the new selection
+            document.body.appendChild(newdiv);
+            newdiv.innerHTML = copytext;
+            selection.selectAllChildren(newdiv);
+
+            window.setTimeout(function () {
+                document.body.removeChild(newdiv);
+            }, 100);
+        }
+
+        document.addEventListener('copy', addLink);
+
+    </script>
 
 
 
@@ -254,6 +281,10 @@
 
 
         
+        <div id="aditize34" class="aditize-widget"></div>
+        <script src="http://aditize.com/js/widget_api.js"></script>
+        <script>aditize.widget(34);</script>
+
     </div>
 
 </div>
@@ -369,15 +400,6 @@
 
 
 </script>
-
-<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
-<script type="text/javascript">
-    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website","dismiss":"Got it!","learnMore":"More info","link":"http://www.springfieldspringfield.co.uk/privacy.php","theme":"light-bottom"};
-</script>
-
-<script type="text/javascript" src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
-<!-- End Cookie Consent plugin -->
-
 
 
 </body></html>
