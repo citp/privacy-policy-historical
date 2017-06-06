@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wormly.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115014648id_/https%3A//www.wormly.com/help/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wormly.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163800id_/https%3A//www.wormly.com/help/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Wormly
 
@@ -54,15 +54,9 @@ All communications within this distributed server infrastructure are secured usi
 
 #### W
 
-Monitors your website & server infrastructure to keep you online and performing fast.
+Uptime Monitoring and Metrics to keep your apps online and performing - always.
 
-**Be Alert**. SMS, phone call, email and IM alerts keep you in the loop when failure strikes.
-
-**Report**. Keep all stakeholders on the same page with detailed uptime and service level reporting.
-
-**Prevent**. Server health monitoring reveals problems before they cause downtime.
-
-[ Take a Free Trial ](https://web.archive.org/join/via/RHSbtn)
+* * *
 
 #### Customer Love
 
@@ -72,4 +66,4 @@ Founder of 99designs Mark Harbottle doesn't mince words:
 
 > “We monitor everything with Wormly. Website down = lost revenue. It's pretty simple, really.”
 
-[See More Reviews](https://web.archive.org/website_monitoring_reviews)
+[See More Reviews](https://web.archive.org/uptime-monitoring-reviews)
