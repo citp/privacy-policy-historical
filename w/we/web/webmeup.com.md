@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmeup.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210135328id_/http%3A//webmeup.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmeup.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606112355id_/http%3A//webmeup.com/privacy-policy.html) for the most accurate reproduction.*
 
 # WebMeUp Privacy Policy
 
