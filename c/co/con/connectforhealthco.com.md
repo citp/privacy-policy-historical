@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectforhealthco.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015012254id_/http%3A//connectforhealthco.com/site-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectforhealthco.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606122127id_/http%3A//connectforhealthco.com/site-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Connect for Health Colorado
 
