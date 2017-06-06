@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simple-talk.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023202445id_/https%3A//www.simple-talk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simple-talk.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190425id_/https%3A//www.simple-talk.com/privacy-policy) for the most accurate reproduction.*
 
 # Simple-Talk Privacy Policy - Simple Talk
 
@@ -85,9 +85,3 @@ By using our website, or giving us your details, at an exhibition, you consent t
 ### 2.2 Contacting us
 
 You have the right to access your information held by Simple-Talk.com (for which we may charge a small fee) and where necessary, to have it amended. You can also request not to receive marketing information from Simple-Talk.com and Red Gate Software Limited. For more details, please contact: Data Protection, Simple-Talk.com, Red Gate Software, Newnham House, Cambridge Business Park, Cambridge, CB4 0WZ, United Kingdom, email [privacy@simple-talk.com](mailto:privacy@simple-talk.com), or telephone 0800 169 7433.
-
-## Join Simple Talk
-
-Join over 200,000 Microsoft professionals, and get full, free access to technical articles, our twice-monthly Simple Talk newsletter, and free SQL tools.
-
-[Sign up](https://www.simple-talk.com/account/sign-up)
