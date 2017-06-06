@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peaceloveandlowcarb.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201160714id_/http%3A//peaceloveandlowcarb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peaceloveandlowcarb.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082723id_/http%3A//peaceloveandlowcarb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Peace Love and Low Carb
 
