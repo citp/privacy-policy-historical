@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mouseflow.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127023143id_/https%3A//mouseflow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mouseflow.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190032id_/http%3A//mouseflow.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Mouseflow - Session Replay, Heatmaps, Funnels & Forms
+# Privacy - Mouseflow - Session Replay, Heatmaps, Funnels, Forms & User Feedback
 
-Effective Date: March 25, 2016
+Effective Date: May 18, 2017
 
 This Privacy Policy applies to the Mouseflow, ApS owned and operated websites and its subdomains (“Sites”). Mouseflow, ApS (Mouseflow,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Mouseflow when you access the Sites and Mouseflow Service (including through the websites of our partners), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Service. The use of information collected through our Sites shall be limited to the purposes under this Privacy Policy and our Terms of Service to customers.
 
@@ -40,7 +40,7 @@ We will retain personal data we process on behalf of our customers for as long a
 
   5. How We Protect Your Information. Mouseflow is concerned with protecting your privacy and data, but we cannot ensure or warrant the security of any information you transmit to Mouseflow or guarantee that your information on the Mouseflow Service may not be accessed, disclosed, altered or destroyed by breach of any of our industry standard physical, technical or managerial safeguards. When you enter sensitive information (such as log in credentials) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). No method of transmission over the Internet or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Site, you can contact us at hi [at] mouseflow [dot] com. We use an outside help platform, and a credit card processing company to bill you if you purchase services. These companies do not retain, share, store or use personally identifiable information for any other purposes.
 
-  6. Mouseflow, complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Mouseflow has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view Mouseflow’s certification, please visit <http://www.export.gov/safeharbor/>.
+  6. For E.U. clients, Mouseflow complies with the EU Data Protection Directive 95/46/EC framework as set forth by the European Union regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Mouseflow has certified that it adheres to the requirements of notice, choice, onward transfer, security, data integrity, access and enforcement.
 
   7. Compromise of Personal Information. In the event that personal information is compromised as a breach of security, Mouseflow will promptly notify our customers in compliance with applicable law.
 
