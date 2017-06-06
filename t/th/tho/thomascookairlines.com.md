@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the thomascookairlines.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314164649id_/https%3A//www.thomascookairlines.com/en/our-company/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomascookairlines.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606234928id_/https%3A//www.thomascookairlines.com/en/our-company/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Thomas Cook Airlines
+
+Our Company
+
+Current:  Privacy Policy 
 
 ## Privacy
 
