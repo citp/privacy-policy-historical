@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpap.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121120018id_/http%3A//www.cpap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpap.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606230311id_/https%3A//www.cpap.com/privacy.php) for the most accurate reproduction.*
 
 # CPAP.com - Privacy Policy
 
@@ -31,7 +31,7 @@ It does not apply to information collected by:
 
   * Us offline or through any other means, including on any other website operated by Company or any third party (including our affiliates and subsidiaries); or 
   * Any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website.
-  * Personally Identifiable Information that is also considered Protected Health Information under applicable law. Please see Our Notice of Protected Health Information Privacy Policy for information as to how We use and disclose your [Protected Health Information](https://web.archive.org/web/20161121120018id_/http%3A//www.cpap.com/phi-privacy-policy.php).
+  * Personally Identifiable Information that is also considered Protected Health Information under applicable law. Please see Our Notice of Protected Health Information Privacy Policy for information as to how We use and disclose your [Protected Health Information](https://web.archive.org/web/20170606230311id_/https%3A//www.cpap.com/phi-privacy-policy.php).
 
 
 
@@ -59,7 +59,7 @@ We collect this information:
 
 
 
-**Information You Provide To Us.** The information we collect on or through our Website may include: 
+ **Information You Provide To Us.** The information we collect on or through our Website may include: 
 
   * Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to our services such as the newsletter, or requesting further services. We may also ask you for information when you report a problem with our Website.
   * Records and copies of your correspondence (including email addresses), if you contact us.
@@ -68,7 +68,7 @@ We collect this information:
 
 
 
-**Information We Collect Through Automatic Data Collection Technologies.** As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including: 
+ **Information We Collect Through Automatic Data Collection Technologies.** As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including: 
 
   * Details of your visits to our Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website.
   * Information about your computer and internet connection, including your IP address, operating system, and browser type.
@@ -149,7 +149,7 @@ We may disclose personal information that we collect or you provide as described
 
 
 
-**Lon Operations LLC (d/b/a Bread and Bread Operations) Services**
+ **Lon Operations LLC (d/b/a Bread and Bread Operations) Services**
 
 Lon Operations LLC (d/b/a Bread and Bread Operations) is a third party entity that provides loans to customers. Throughout Our Website, you may see references or links to Lon Operations LLC (d/b/a Bread and Bread Operations) or options for monthly payments. If you click on any of these links you will be redirected to Bread’s website AND YOU WILL NO LONGER BE ON _Our Website_. Lon Operations LLC (d/b/a Bread and Bread Operations has its own Privacy Policy and Terms of Use that govern the use and disclosure of your information. We cannot, and do not, guarantee the security and confidentiality of the Lon Operations LLC (d/b/a Bread and Bread Operations) site. By entering the Lon Operations LLC (d/b/a Bread and Bread Operations) website, you agree to hold Company harmless from and against any liability for Bread’s improper disclosure of confidential information. 
 
@@ -161,22 +161,21 @@ We do not provide any personal information to Lon Operations LLC (d/b/a Bread an
   * Authorize re-direction of your browser from the Company’s website to the Lon Operations LLC (d/b/a Bread and Bread Operations) Services website.
   * Understand that Company does not disclose your personal information to Lon Operations LLC (d/b/a Bread and Bread Operations). Any personal information received by Lon Operations LLC (d/b/a Bread and Bread Operations) must come directly from you.
   * Understand that if you opt to use Lon Operations LLC (d/b/a Bread and Bread Operations) services and click on their website, Company cannot control how your personal information will be used or disclosed. Your information will be used and disclosed in accordance with the Lon Operations LLC (d/b/a Bread and Bread Operations) Privacy Policy and Terms of Use.
-  * **Acknowledge your responsibility to carefully read the Lon Operations LLC (d/b/a Bread and Bread Operations) Privacy Policy and Terms of Use before you agree to use their services.**
-  * **ARE NOT REQUIRED TO USE THE SERVICES PROVIDED BY Lon Operations LLC (d/b/a Bread and Bread Operations) IN ORDER TO RECEIVE CPAP.COM PRODUCTS. IF YOU DO NOT AGREE WITH Lon Operations LLC (d/b/a Bread and Bread Operations) FURTHER USING OR DISCLOSING YOUR PERSONAL INFORMATION DO NOT CLICK ON THE LINK TO THE Lon Operations LLC (d/b/a Bread and Bread Operations) WEBSITE AND AGREE TO THEIR TERMS OF USE OR PRIVACY POLICY AND DO NOT USE THEIR SERVICES. IT IS IMPORTANT THAT YOU UNDERSTAND THAT ONCE Lon Operations LLC (d/b/a Bread and Bread Operations) HAS YOUR INFORMATION, YOUR INFORMATION IS NOT PROTECTED BY STATE OR FEDERAL PRIVACY LAWS RELATED TO HEALTHCARE.**
+  *  **Acknowledge your responsibility to carefully read the Lon Operations LLC (d/b/a Bread and Bread Operations) Privacy Policy and Terms of Use before you agree to use their services.**
+  *  **ARE NOT REQUIRED TO USE THE SERVICES PROVIDED BY Lon Operations LLC (d/b/a Bread and Bread Operations) IN ORDER TO RECEIVE CPAP.COM PRODUCTS. IF YOU DO NOT AGREE WITH Lon Operations LLC (d/b/a Bread and Bread Operations) FURTHER USING OR DISCLOSING YOUR PERSONAL INFORMATION DO NOT CLICK ON THE LINK TO THE Lon Operations LLC (d/b/a Bread and Bread Operations) WEBSITE AND AGREE TO THEIR TERMS OF USE OR PRIVACY POLICY AND DO NOT USE THEIR SERVICES. IT IS IMPORTANT THAT YOU UNDERSTAND THAT ONCE Lon Operations LLC (d/b/a Bread and Bread Operations) HAS YOUR INFORMATION, YOUR INFORMATION IS NOT PROTECTED BY STATE OR FEDERAL PRIVACY LAWS RELATED TO HEALTHCARE.**
   * Acknowledge that Lon Operations LLC (d/b/a Bread and Bread Operations) is not performing services on behalf of Company.
 
 
 
-**You further acknowledge and agree that**
+ **You further acknowledge and agree that**
 
- **
-  * Company is in no way liable for THE acts or omissions or uses and disclosure of your Personal Information BY Lon Operations LLC (d/b/a Bread and Bread Operations). IN NO EVENT SHALL CPAP.COM (INCLUDING ITS OFFICER AND DIRECTORS AND EMPLOYEES) BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY ACTS OR OMISSIONS OF Lon Operations LLC (d/b/a Bread and Bread Operations), OR ANY USES OR DISCLOSURES OF YOUR INFORMATION, INCLUDING BUT NOT LIMITED TO PERSONAL INFORMATION, OR ANY DAMAGES, DIRECT OR OTHERWISE , CAUSED BY Lon Operations LLC (d/b/a Bread and Bread Operations). 
-**
-****
+  *  **Company is in no way liable for THE acts or omissions or uses and disclosure of your Personal Information BY Lon Operations LLC (d/b/a Bread and Bread Operations). IN NO EVENT SHALL CPAP.COM (INCLUDING ITS OFFICER AND DIRECTORS AND EMPLOYEES) BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY ACTS OR OMISSIONS OF Lon Operations LLC (d/b/a Bread and Bread Operations), OR ANY USES OR DISCLOSURES OF YOUR INFORMATION, INCLUDING BUT NOT LIMITED TO PERSONAL INFORMATION, OR ANY DAMAGES, DIRECT OR OTHERWISE , CAUSED BY Lon Operations LLC (d/b/a Bread and Bread Operations).**
+
+
 
 ## Newsletters
 
-We provide an opt-in Newsletter that is delivered through email to users who have subscribed to receive these newsletters. Company tries to provide you a newsletter that is CAN-SPAM compliant but cannot guarantee such compliance. You may unsubscribe from our newsletter at any time by clicking [here](https://web.archive.org/web/20161121120018id_/http%3A//www.cpap.com/newsletter_out.php) and submitting the same email address used to subscribe 
+We provide an opt-in Newsletter that is delivered through email to users who have subscribed to receive these newsletters. Company tries to provide you a newsletter that is CAN-SPAM compliant but cannot guarantee such compliance. You may unsubscribe from our newsletter at any time by clicking [here](https://web.archive.org/web/20170606230311id_/https%3A//www.cpap.com/newsletter_out.php) and submitting the same email address used to subscribe 
 
 Email communications that you send to us via the email links on our site may be shared with a Company Customer Service Representative, employee, or agent that is most able to address your inquiry. We make every effort to respond in a timely fashion once communications are received. Once we have responded to your communication, it is discarded or archived, depending on the nature of the inquiry. 
 
@@ -203,8 +202,8 @@ The password you choose is indispensable to access your account. Use a combinati
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information: 
 
   * **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your cookie preferences, consult the Help or FAQ section of the web browser you are using. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
-  * **Promotional Offers from the Company.** If you do not wish to have your information, email address/contact information used by the Company to promote our own or third parties' products or services, you can opt-out by clicking the unsubscribe link at the bottom of the email messages or by contacting Company Customer Support to request a change in your promotional preferences. This opt out does not apply to information provided to the Company as a result of a product purchase, warranty registration, product service experience or other transactions. If you do not wish for us to have this information please email or contact us by phone to cancel the order.
-  * **Targeted Advertising.** If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt-out by [visiting here](http://www.networkadvertising.org/choices/)
+  *  **Promotional Offers from the Company.** If you do not wish to have your information, email address/contact information used by the Company to promote our own or third parties' products or services, you can opt-out by clicking the unsubscribe link at the bottom of the email messages or by contacting Company Customer Support to request a change in your promotional preferences. This opt out does not apply to information provided to the Company as a result of a product purchase, warranty registration, product service experience or other transactions. If you do not wish for us to have this information please email or contact us by phone to cancel the order.
+  *  **Targeted Advertising.** If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt-out by [visiting here](http://www.networkadvertising.org/choices/)
   * For this opt-out to function, you must have your browser set to accept browser cookies.
 
 
