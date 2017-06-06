@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britainexpress.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211043103id_/http%3A//www.britainexpress.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britainexpress.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091959id_/http%3A//www.britainexpress.com/Privacy.htm) for the most accurate reproduction.*
 
 # Britain Express Privacy Policy
 
@@ -31,7 +31,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. We provide users the following options for removing their information from our database to not receive future communications or to no longer receive our services. 
 
   * You can send email to [editor@britainexpress.com](mailto:editor@britainexpress.com)
-  * You can visit the following URL: [http://www.britainexpress.com/contact-us.htm](https://web.archive.org/contact-us.htm)
+  * You can visit our [Contact Page](https://web.archive.org/contact-us.htm)
   * You can send mail to the following postal address:  Britain Express, 12 Sopwith Road, Upper Risssington, Cheltenham, Gloucestershire, GL54 2NS
 
 
@@ -41,7 +41,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 We give users the following options for changing and modifying information previously provided. 
 
   * email [editor@britainexpress.com](mailto:editor@britainexpress.com)
-  * visit [http://www.britainexpress.com/contact-us.htm](https://web.archive.org/contact-us.htm)
+  * visit our [Contact Page](https://web.archive.org/contact-us.htm)
   * send mail to the following postal address:  Britain Express, 12 Sopwith Road, Upper Risssington, Cheltenham, Gloucestershire, GL54 2NS 
 
 
