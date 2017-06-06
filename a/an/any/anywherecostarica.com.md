@@ -1,63 +1,55 @@
-> *The following text is extracted and transformed from the anywherecostarica.com privacy policy that was archived on 2012-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120702205838id_/http%3A//www.anywherecostarica.com/special/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anywherecostarica.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222128id_/https%3A//www.anywhere.com/company/privacy) for the most accurate reproduction.*
 
-# None
+# 
 
-1) We will never sell, distribute or lease your personal information to third parties.
+### What information do we collect?
 
-2) We will only e-mail you relevant updates on your booking requests, or responses to other queries you initiate.
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, phone number or credit card information. You may, however, visit our site anonymously.
 
-3) We do not do any e-mail marketing or have any newsletters, so you don't have to worry about opting out of anything.
+### What do we use your information for?
 
-## Anywhere Costa Rica Privacy Policy
+Any of the information we collect from you may be used in one of the following ways:
 
-This privacy policy sets out how Anywhere Costa Rica uses and protects any information that you give Costa Rica when you use this website.
+1) To personalize your experience (your information helps us to better respond to your individual needs)
 
-Anywhere Costa Rica is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+2) To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-Anywhere Costa Rica may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 2008-01-01.
+3) To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
 
-### What we collect
+4) To process transactions
 
-We may collect the following information:
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-  * name and e-mail
+5) To send periodic emails
 
-  * phone number (optional)
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
-  * other information relevant to customized travel services, such as flight details, travel dates, and party ages and nationality
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-  * credit card and billing details, if you pay offline. If you pay online, you will do so on our bank's secure site and we will never have access to those details
+### How do we protect your information?
 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. After a transaction, your credit card information is not stored on our servers.
 
+### Do we use cookies?
 
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information We use cookies to help us remember and process the items in your shopping cart, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-### What we do with the information we gather
+### Do we disclose any information to outside parties?
 
-We require this information to understand your needs and confirm your booking requests and provide personalized travel planning services, and in particular for the following reasons:
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-  * To contact you with service availability results after contacting service providers.
+### California Online Privacy Protection Act Compliance
 
-  * To contact you with travel vouchers after booking a service or package
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-  * We may use the information to improve our products and services.
+### Childrens Online Privacy Protection Act Compliance
 
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
+### Your Consent
 
+By using our site, you consent to our websites privacy policy.
 
-### Security
+### Changes to our Privacy Policy
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
-### How we use cookies
-
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-### Links to other websites
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+If we decide to change our privacy policy, we will post those changes on this page.
