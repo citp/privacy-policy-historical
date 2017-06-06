@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kikki-k.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119131330id_/http%3A//www.kikki-k.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kikki-k.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143856id_/http%3A//www.kikki-k.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -145,10 +145,7 @@ You may access your personal information held by kikki.K by making a request to 
 
 Email: info@kikki-k.com   
 Phone: 03 9645 6346  
-Mail: The Privacy Officer  
-kikki.K Pty Ltd  
-PO Box 107  
-Albert Park VIC 3206
+Mail: kikki.K, Suite 203, Level 2, 120 Bay St, Port Melbourne VIC 3207 AUSTRALIA
 
 Normally we will provide a record of your personal information to you via your preferred contact method (phone, email or mail) and we will not charge a fee.
 
