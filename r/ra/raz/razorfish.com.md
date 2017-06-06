@@ -1,89 +1,100 @@
-> *The following text is extracted and transformed from the razorfish.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020030917id_/http%3A//www.razorfish.com/common/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the razorfish.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161145id_/https%3A//www.razorfish.com/general/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Razorfish: The Agency for Marketing, Experience and Enterprise Design | Privacy Policy | Razorfish
 
-_Last updated October 20, 2008_
+**Razorfish Privacy Policy**
 
-Razorfish and its affiliates are committed to protecting users’ privacy, and we want to keep you informed of our privacy practices through this web site. This privacy policy applies to those Razorfish and affiliate web sites that link to this notice. We encourage you to read this policy to ensure you understand our privacy practices.
+This Privacy Policy applies solely to information collected through the web site located at the URL: www.Razorfish.com; whether accessed via computer, mobile device or other technology. The Site is offered by Razorfish, LLC (“ **Razorfish** ”, “ **we** ”, “ **us** ”, “ **our** ”).
 
-Some of our clients provide Razorfish and its affiliates with personally identifiable information about their customers so we can perform various services such as online campaign analysis. In addition, as part of our services, we may collect information about user interaction with client web sites and provide that information along with our analysis to the client. All of this information belongs to the client and, as their customer, you should review the privacy policies of the sites you visit. Razorfish and its affiliates make no other use of this personally identifiable information.
+This Privacy Policy explains what information may be collected through the Site, how such information may be used and/or shared with others, how we safeguard it and how you may access and control its use in connection with our marketing communications and activities.
 
-The responsible use of cookies and web beacons (aka: action tags or pixel gifs) plays an important role in the services Razorfish and its affiliates provide to clients. Our services allow our clients to better serve you, their customer. Razorfish and its affiliates may use cookie and web beacon technology for planning, serving, analyzing, and managing online campaigns on behalf of our clients. For more information about the use of cookies, web beacons, and how you can opt out of Atlas cookies, please review the Atlas privacy policy. In addition, depending on your web browser, you may be able to change how your computer treats cookies so that cookies are not used or saved. Please check with your browser provider for more information on managing cookies.
+Razorfish strives to collect, use and disclose user data in a manner consistent with the privacy and data security laws of the countries in which it does business.  Because of the differences among these jurisdictions, Razorfish has adopted a Privacy Policy which creates a common core of values, policies and procedures intended to achieve nearly universal compliance, supplemented with alternative or additional policies or implementation procedures applicable in those jurisdictions with unique requirements. This Privacy Policy establishes a minimum global standard for collecting, using and protecting information that Razorfish collects from users of [www.Razorfish.com](http://www.razorfish.com/).
 
-**EMAIL SERVICE ON BEHALF OF RAZORFISH OR AFFILIATE CLIENTS  
-**When we conduct an e-mail campaign for our clients, we generally use e-mail service providers. Razorfish or its affiliates may use cookie and web beacon technology provided by Atlas to track the campaign's effectiveness. Generally, we do not have access to the e-mail addresses or any personally identifiable information and do not associate cookie data with any person. If we handle the e-mail addresses ourselves in conjunction with an online campaign, we do not use Atlas technology for analysis of the campaign's effectiveness, but rather rely on the e-mail service provider or the client's own cookie or web beacon technology to do so. This ensures that no personally identifiable information of our clients’ customers is associated with Atlas cookies for any purpose.
+While this Privacy Policy is intended to describe the broadest range of our information processing activities, those processing activities may be more limited in some jurisdictions based on the restrictions of their laws.  For example, the laws of a particular country may limit the types of personal information we can collect or the manner in which we process that information. In those instances, we adjust our internal policies and practices to reflect the requirements of local law and local laws will prevail over terms in this Privacy Policy.
 
-**RAZORFISH AND AFFILIATE WEB SITES  
-**The Razorfish and affiliate web sites provide users with information about products and services, as well as company contact information. We do not collect personal information unless you provide it to us for items such as newsletter subscriptions. We will express our need for the personal information at the point of collection and will not collect more personal information than is needed to execute your request.
+**Quick Guide To Contents  ​**
 
-Personal information is any information that can be used to identify an individual, and may include, but is not limited to, name, email address, postal or other physical address, telephone number and other information required to provide a service, deliver a product, or carry out a transaction you have requested.
+1\. Information Collected On Our Site  
+2\. How We Use The Information Collected Through Our Site  
+3\. Sharing Of Information  
+4\. Targeted Advertising  
+5\. Your Choice And Access  
+6\. Children  
+7\. Security Of Your Information  
+8\. Other Sites  
+9\. Consent To Processing  
+10\. Changes  
+11\. Contact Us
 
-We will only use your personal information in the way we specified when it was collected. We will not subsequently change the way your personal information is used without your consent.
+### 1\. Information Collected On Our Site
 
-We may respond to subpoenas, court orders, or legal process by disclosing your personal information and other related information, if necessary. We also may disclose your personal information to establish or exercise our legal rights or defend against legal claims.
+**Information You Provide To Us**
 
-**POLICY UPDATES OR CHANGES  
-**Razorfish and its affiliates may update or change this privacy policy at any time and such changes will become effective 30 days after they are posted unless otherwise stated. Our web site will state the date it was last updated and we encourage you to review our privacy policy whenever you use this web site.
+When you use the Site, we or our service providers may collect **Personal Information** (information that could reasonably be used to contact you or to identify you personally) such as your name, e-mail address, telephone number or mailing address.  We may also collect Personal Information submitted to us in connection with job applications through the Site.
 
-We hope you find this information helpful. Our goal is to present all the information in a format that is as readable as possible. Whatever you decide to do, we want you to be completely informed about how cookies work, and how we use information on the Internet. Should you have any additional questions, please send an e-mail to [privacyinfo@razorfish.com](mailto:privacyinfo@razorfish.com) or write us at:
+**Information Collected Automatically**
 
-Privacy Coordinator   
-Razorfish   
-424 Second Avenue West   
-Seattle, WA 98119
+_Usage Information_. Whenever you visit or interact with the Site, Razorfish, as well as any third-party advertisers and/or service providers, may use a variety of technologies that automatically or passively collect information about how the Site is accessed and used (“ **Usage Information** ”). Usage Information may include, in part, browser type, operating system, the page served, the time, and the preceding page views. This statistical data provides us with information about the use of the Site, such as how many visitors visit a specific page on the Site, how long they stay on that page, and which hyperlinks, if any, they “click” on. This information helps us keep our website fresh and interesting to our visitors and tailor content to a visitor’s interests.
 
-*****
+_Device Identifiers_. Razorfish may also automatically collect your IP address or other unique identifier (“ **Device Identifier** ”) for the computer, mobile device, technology or other device (collectively, “ **Device** ”) you use to access the Site. A Device Identifier is a number that is automatically assigned to your Device when you access a web site or its servers, and our computers identify your Device by its Device Identifier. We may use a Device Identifier to, among other things, administer the Site, help diagnose problems with our servers, analyze trends, track users’ web page movements, help identify, and gather broad demographic or firmagraphic information for aggregate use.
 
-Frequently Asked Questions:
+_Cookies; Pixel Tags_. The technologies used on the Site to collect Usage Information, including Device Identifiers, may include but are not limited to: cookies (data files placed on a Device when it is used to visit the Site), mobile analytics software and pixel tags (transparent graphic image, sometimes called a web beacon or tracking beacon, placed on a web page or in an email, which indicates that a page or email has been viewed).  Cookies may also be used to associate you with social networking sites and, if you so choose, enable interaction between your activities on the Site and your activities on such social networking sites.  We, or our vendors, may place cookies or similar files on your Device for security purposes, to facilitate site navigation and to personalize your experience while visiting our Site (such as allowing us to select which content, ads or offers are most likely to appeal to you, based on your interests, preferences, location, or demographic or firmagraphic information).  A pixel tag may tell your browser to get content from another server.
 
-**1\. What information is collected by the Razorfish and affiliate web sites?  
-**Like most standard web site servers, we use log files. We may collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, and track user's movement in the aggregate. The other information we collect through the Razorfish or affiliate web site is contact information you choose to provide as a consumer, client or partner, when you complete a form to request more information about our company, products or services.
+Similarly, we use Google Analytics to help us track and analyze usage of our Site, using cookies, pixels and other tracking technologies.
 
-**2\. How do Razorfish or its affiliates use personally identifying information collected on the respective Razorfish or affiliate web site?  
-**We use the contact information you provide to respond to your request or to provide you future updates. We may contact you through any of the means you identified on the form (e.g., phone, fax, e-mail). If you contact us as a prospective client and a business relationship is not established with Razorfish or an affiliate within a reasonable time period, we will delete your contact information.
+To learn how you may be able to reduce the number of cookies you receive from us, or delete cookies that have already been installed in your browser’s cookie folder, please refer to your browser’s help menu or other instructions related to your browser.  If you do disable or opt out of receiving cookies, please be aware that some features and services on our Site may not work properly because we may not be able to recognize and associate you with your account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests. Some browsers have a “Do Not Track” feature that lets you tell websites that you do not want to have your online activities tracked.  These features are not yet uniform, so note that our systems are not configured to recognize Do Not Track headers or signals from some or all browsers.
 
-**3\. Do Razorfish and its affiliates share my personally identifying information with third parties?  
-**We may share the contact information you provide on our web site with our contractors and vendors in order to provide a requested service or transaction (e.g., to send you an e-mail) subject to our confidentiality policies. Other than agents who act on our behalf, information you provide at this site will not be transferred or sold to unrelated third parties, unless we have your permission to do so. We may disclose your personal information to respond to subpoenas, court orders, legal process, or to protect or establish our legal rights or property. Information may be disclosed as part of any merger, acquisition, sale of company assets, as well as in the unlikely event of an insolvency, bankruptcy or receivership in which information would be transferred as one of the business assets of the company.
+You can also learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/) which includes additional useful information on cookies and how to block cookies using different types of browser.
 
-**4\. How is my personally identifying information used when I apply for a position with Razorfish or its affiliates?  
-**When you apply for a position with Razorfish or an affiliate, you may be linked to a third party web site. If you are linked to a third party web site, all personally identifiable information that you choose to provide, will be collected and maintained by the third party. The collection of information will be governed by the third party’s privacy policy. Razorfish or its affiliate will have access to the information that you provide to the third party. If you apply for a position with Razorfish or an affiliate directly or through a third party, and you choose to provide personally identifiable information, your personally identifiable information will be treated in accordance with this privacy policy.
+### 2\. How We Use The Information Collected Through Our Site
 
-**5\. How is my personally identifying information used when I submit it for consideration regarding partnership opportunities?  
-**If you are interested in partnership opportunities with Razorfish, we provide you with the opportunity to contact us through our web site. The information you can submit through our web site includes your name and contact information, information about your company, and references along with their contact information. If you choose to provide your personal information or your reference's personal information, we will use this information to assist us in determining whether to pursue a partnership opportunity with you, and will not use this information for any other purpose. We may share your personal information or your reference's personal information with our contractors and vendors to perform services for us in regard to your request (e.g., to send you an email) subject to our confidentiality policies. We will not disclose your personal information or your reference's personal information, except as otherwise described in this privacy statement. If you contact us as a prospective partner and a business relationship is not established with Razorfish or an affiliate within a reasonable time period, we will delete your contact information.
+Any information you submit on the Site will be used for a variety of business purposes, including for example, to: respond to your questions and requests; provide you with access to certain areas and features of the Site; verify your identity; communicate with you about your activities on the Site; tailor content, advertisements, and offers we serve you; market research, Site analytics and operations; improve the Site and for internal purposes; contact you with regard to your use of the Site, and, in our discretion, changes to any Razorfish policy; and for purposes disclosed at the time you provide your Personal Information or otherwise with your consent.
 
-**6\. How do Razorfish and its affiliates safeguard personally identifying information collected on the Razorfish and affiliate web sites?  
-**We have security policies and procedures to protect information in our possession from loss, misuse and unauthorized access, disclosure, alteration and destruction. While no data transfer can be completely secure, we will make reasonable efforts to secure all data that is transferred, stored or processed. 
+### 3\. Sharing Of Information
 
-**7\. What are my choices? How do I opt-out of the web site-specific mailing lists and services?  
-**After opting-in, you may choose to opt-out from any mailing lists that you have subscribed to, at any time. You may opt-out by clicking on the unsubscribe link within any of the emails that you receive. For lists and services that relate specifically to the Razorfish or affiliate web sites, you may also send your opt-out request to or through postal mail at:
+Except as provided in this Privacy Policy, we will not provide any of your Personal Information to any third parties without your consent. We may share non-Personal Information, such as aggregate user statistics, demographic or firmagraphic information, and Usage Information with third parties.  We may also share your information as disclosed at the time you provide your information, as set forth in this Privacy Policy and in the following circumstances:
 
-Privacy Coordinator   
-Razorfish   
-424 Second Avenue West    
-Seattle, WA 98119
+**Third Parties.**   In order to carry out your requests, to make various features, services and materials available to you through the Site, and to respond to your inquiries, we may share your Personal Information with third parties that perform functions on our behalf, such as companies or individuals that: host or operate our Site; analyze data; provide customer service; advertisers; sponsors or other third parties that participate in or administer our promotions. Your Personal Information may also be used by us or shared with our affiliates, sponsors, partners, advertisers or other third parties, including lead generation companies to provide you with product information and promotional and other offers. 
 
-**8\. Can I review and delete my personally identifying information collected by the Razorfish or affiliate web sites?  
-**You can e-mail privacyinfo@razorfish.com if you wish to access your personally identifying information. We will provide you with reasonable access to review and request the deletion of your personally identifiable information, in accordance with applicable laws and regulations.
+**Your Agreement To Have Your Personal Information Shared.   **While on our Site, you may have the opportunity to opt-in to receive information and/or marketing offers from someone else or to otherwise consent to the sharing of your information with a third party.  If you agree to have your Personal Information shared, your Personal Information will be disclosed to the third party and the Personal Information you disclose will be subject to the privacy policy and business practices of that third party.
 
-**9\. Do the Razorfish or affiliate web sites use cookies and web beacons?  
-**The Razorfish and affiliate web sites may use persistent cookies and web beacons (aka: action tags or pixel gifs). Cookies are tiny packets of information, usually less than one kilobyte, stored in the temporary files on your hard drive, and used by web sites to recognize a computer they have encountered before. A web beacon is a clear gif not visible to the user, which collects certain anonymous information about your visit to our web sites. We use a combination of cookies and web beacons for planning, analyzing and managing our web sites. These tracking technologies collect anonymous data about users who interact with our web sites to help us provide a better user experience through the use of statistics and measurements of user satisfaction. Usage of cookies and/or web beacons is in no way linked to any personally identifiable information while on our sites.
+**Business Transfers**.  Your Personal Information may also be used by us or shared with our subsidiaries, affiliates and other entities in the Publicis Groupe family of companies for internal reasons, primarily for business and operational purposes.  As we continue to develop our business, we may sell or purchase assets.  If another entity acquires us or all or substantially all of our assets, or assets related to the Site, Personal Information, Usage Information, and any other information that we have collected about the users of the Site may be disclosed to such entity as part of the due diligence process and will be transferred to such entity as one of the transferred assets.  Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.
 
-**10\. Do Razorfish or its affiliates host any blogs?  
-**Razorfish and its affiliates may host discipline or employee blogs and may provide links to the blogs from [www.razorfish.com](http://www.razorfish.com/ "www.razorfish.com") or affiliate web sites. The postings on the blogs may include articles, press releases and research conducted by Razorfish or its affiliates. The postings on the blogs reflect the views of the authors and not necessarily those of Razorfish or its affiliates. Web site users may post comments to the blogs. In order to post a comment on a blog, you may be required to create a user name and provide your email address. Your user name and email address will be stored by Razorfish or a third party, but your name and email address will not be shared or used for any purpose beyond posting comments to the blog.
+**Legal Disclosure.   **Razorfish may transfer and disclose information, including your Personal Information, Usage Information and Device Identifier, (including IP address), to third parties to comply with a legal obligation; when we believe in good faith that the law requires it; at the request of governmental authorities conducting an investigation; to verify or enforce our [**Terms of Use**](https://www.razorfish.com/general/terms) or other applicable policies; to respond to an emergency; or otherwise to protect the rights, property, safety, or security of third parties, visitors to our Site or the public.
 
-If you use a Razorfish or affiliate blog, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users, and could be used to send you unsolicited messages. Razorfish and its affiliates are not responsible for the personally identifiable information you choose to submit in comments on our blogs.
+### 4. Your Choice and Access
 
-Some of the Razorfish or affiliate blogs may include an “email this” function. The “email this” function allows a user to send a blog posting to a friend. The “email this” function may be hosted by FeedBurner. If FeedBurner provides the “email this” function, the use of this application is governed by Feedburner’s privacy policy. Razorfish and its affiliates do not receive the email addresses that users provide to FeedBurner.
+You may always direct us not to share your Personal Information with third parties, not to use your Personal Information to provide you with information or offers, or not to send you newsletters, e-mails or other communications by: (i) sending us an e-mail at [website@razorfish.com](mailto:website@razorfish.com?subject=re%3A%20Razorfish.com); (ii) contacting us by mail at 424 Second Avenue West, Seattle, Washington 98119, Attn:  Privacy Officer, or (iii) following the removal instructions in the communication that you receive. Your opt-out request will be processed within 30 days of the date on which we receive it.
 
-**11\. Do the Razorfish and affiliate web sites link to third party web sites?  
-**The Razorfish and affiliate web sites may provide links to third party web sites that provide valuable information. We encourage you to review the privacy policies and data collection procedures on these web sites.
+If you wish to verify, correct, or update any of your Personal Information collected through the Site, you may contact us at the above address or e-mail. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Site. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.
 
-**Comments, Questions, or Complaints  
-**Please send questions, complaints, or requests for more information about the privacy policy of Razorfish and its affiliates to [privacyinfo@razorfish.com](mailto:privacyinfo@razorfish.com) or write us at:
+### 5\. Children
 
-Privacy Coordinator   
-Razorfish   
-424 Second Avenue West    
-Seattle, WA 98119
+The Site is not directed to children under 13. We do not knowingly collect Personal Information from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian’s consent.
 
-©2016 Razorfish LLC. All rights reserved.
+### 6\. Security of Your Information
+
+We use certain reasonable security measures to help protect your Personal Information. However, no electronic data transmission or storage of information can be guaranteed to be 100% secure.  Please note that we cannot ensure or warrant the security of any information you transmit to us, and you use the Site and provide us with your information at your own risk.
+
+### 7\. Other Sites
+
+The Site may contain links to other sites that we do not own or operate. This includes links from service providers, advertisers, sponsors and partners that may use our logo(s) as part of a co-branding agreement. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies or practices.  These other web sites may send their own cookies to your Device, they may independently collect data or solicit Personal Information and may or may not have their own published privacy policies. You should also independently assess the authenticity of any site which appears or claims that it is one of our Sites (including those linked to through an email or social networking page).
+
+### 8\. Consent to Processing
+
+The Site is operated in the United States and in accordance with the laws of the United States. We make no representation that the Site is governed by or operated in accordance with the laws of any other nation. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect may be transferred to and processed in the United States. By using the Site, or providing us with any information, you (a) acknowledge that the Site is subject to the laws of the United States, (b) consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside and/or are a citizen, and (c) waive any claims that may arise under those laws.
+
+### 9\. Changes
+
+Please note, we may change information on the Site and/or this Privacy Policy, at any time without prior notice to you, and any changes will be effective immediately upon the posting of the revised Privacy Policy on the Site. However, Razorfish will use your Personal Information in a manner consistent with the Privacy Policy in effect at the time you submitted the information, unless you consent to the new or revised policy.
+
+### 10\. Contact Us
+
+If you have any questions or concerns regarding this Privacy Policy, please contact us at:
+
+Attn:    Privacy Officer  
+Address: 424 Second Avenue West, Seattle, Washington 98119    
+Re: Razorfish Privacy Policy
+
+Telephone: 1 206 816 8800  
+E-Mail:  lsilva@sapient.com
