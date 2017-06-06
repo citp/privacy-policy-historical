@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domu.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406053743id_/http%3A//www.domu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domu.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155100id_/http%3A//www.domu.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -14,7 +14,7 @@ Domu collects information from users in order to make the housing search process
 
 Some information you provide to us automatically, and other information you provide in order to utilize certain features of our website.  Any information that you provide to us we may collect.  For example, we might collect information about the type of apartment that interests you.
 
-  * **  Automatic Information: **When you visit the Domu website, you disclose your IP address and certain information about your computing, such as      the type of browser and operating system you are using and the page that referred you to our site.  
+  * **Automatic Information:** When you visit the Domu website, you disclose your IP address and certain information about your computing, such as the type of browser and operating system you are using and the page that referred you to our site.  
   * **Mobile Information:   **When you use Domu’s mobile site, you have the option to disclose your location to Domu.  Domu collects this information only after you give explicit permission for Domu to do so. 
   * **Information You Provide to Domu:**  To take advantage of certain functionalities offered by the website, you will need to supply additional information.  For example, 
     * To save your searches, you must share your e-mail address and create a password;
