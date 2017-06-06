@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flowersdirect.co.uk privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216060929id_/http%3A//www.flowersdirect.co.uk/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowersdirect.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095858id_/http%3A//www.flowersdirect.co.uk/page/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies | Flowersdirect.co.uk
 
