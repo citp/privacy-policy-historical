@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travellink.in privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219045745id_/http%3A//www.travellink.in/static/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travellink.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214539id_/https%3A//www.travellink.in/static/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Via
 
@@ -61,6 +61,13 @@ When browsing the Websites, a User is not required to provide Personal Informati
 Due to the communications standards on the Internet, when a User visits the Website, Via automatically receives the URL of the site from which such User came and the site to which such User is going when he/she/it leaves. Via also receives the Internet Protocol **("IP")** address of each User's computer (or the proxy server a User used to access the Internet), the User's computer operating system and type of web browser the User is using, email patterns, as well as the name of User's ISP. This information is used to analyze overall Users' trends to help Via improve its Services. The linkage between User's IP address and User's personally identifiable information is not shared with third-parties without such User's permission or except when required by law or except where required to provide or facilitate the Services. Notwithstanding the above, the User acknowledges Via's right to share some of the aggregate findings (not the specific data) with advertisers, sponsors, investors, strategic partners, and others in order to help grow its business.
 
 The Websites and the Mobile Applications use temporary cookies to store certain data. Via does not store personally identifiable information in the cookies. Information collected by Via, by any means whatsoever, that does not personally identify the User as an individual (such as, patterns of utilization described above) is exclusively owned by Via and may be used by Via and Third Party Service Providers for the technical administration of the Websites, Mobile Applications, User administration, research and development, business development, statistical analysis and business intelligence purposes. Additionally Via may sell or otherwise transfer such research, statistical or intelligence data in an aggregated or non-personally identifiable form to third parties and affiliates.
+
+**We may disclose to third party services certain personally identifiable information listed below:**   
+information you provide us such as name, email, mobile phone number.   
+information we collect as you access and use our service, including device information, location and network carrier.   
+**This information is shared with third party service providers so that we can:**   
+personalize the app for you   
+perform behavioral analytics
 
 A User can set or amend his/her/its web browsers to delete or disable cookies. If a User chooses to disable cookies on his/her/its computer or mobile telecommunication device, it may impair, degrade or restrict access to certain areas of the Websites or the Mobile Applications. Merely closing the web browser should ordinarily clear all temporary cookies installed by Via. However, Users are encouraged to use the "clear cookies" functionality of their browsers to ensure deletion, as Via cannot guarantee, predict or provide for the behaviour of the equipment of all the Users of the Websites.
 
