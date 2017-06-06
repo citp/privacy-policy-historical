@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the think360studio.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328235656id_/https%3A//think360studio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the think360studio.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606215121id_/https%3A//think360studio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | A Web Design Agency | Web development Company India
 
