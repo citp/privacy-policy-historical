@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefilehippo.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225184844id_/http%3A//www.thefilehippo.com/2015/06/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefilehippo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163132id_/http%3A//www.thefilehippo.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - The FileHippo.com - Download Free Software and Printer Drivers
+# Privacy Policy
 
 At www.thefilehippo.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.thefilehippo.com and how we use it. 
 
@@ -47,6 +47,5 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 This Privacy Policy was last updated on: Friday, July 15th, 2016. [](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
 
-  
   
 
