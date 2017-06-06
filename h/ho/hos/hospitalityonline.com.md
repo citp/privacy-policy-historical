@@ -1,58 +1,65 @@
-> *The following text is extracted and transformed from the hospitalityonline.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223044516id_/http%3A//www.hospitalityonline.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hospitalityonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606100601id_/http%3A//www.hospitalityonline.com/privacy) for the most accurate reproduction.*
 
-# Hospitality Online Privacy Policy
+# Privacy Policy | Hospitality Online
 
-  
+_Last updated December 2, 2015_
 
+Protecting your private information is our priority. This Statement of Privacy applies to the www.hospitalityonline.com site and Hospitality Online, Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Hospitality Online, Inc. include www.hospitalityonline.com and Hospitality Online. The Hospitality Online website is a hospitality job opportunities site. By using the Hospitality Online website, you consent to the data practices described in this statement.
 
-The purpose of your job search is to advance your personal career. Hospitality Online is committed to helping you advance your career while maintaining your privacy and the privacy of all others using Hospitality Online. 
+## Collection of your Personal Information
 
-Hospitality Online provides an interactive Internet site to enable hospitality industry job seekers to find career information, information about employers, and tips and techniques to help job seekers to succeed. Employers need the opportunity to present their jobs, company and properties completely and professionally. 
+Hospitality Online may collect personally identifiable information, such as your name, email address, mailing address, and resume. If you purchase Hospitality Online's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. We may gather additional personal or non-personal information in the future.
 
-Employers have the opportunity to provide detailed profiles about their property/company to attract the best quality applicants. Employers can also provide very detailed information about jobs to help job seekers better identify jobs they are qualified for. 
+Information about your computer hardware and software may be automatically collected by Hospitality Online. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Hospitality Online website.
 
-Applicants and Employers wanted a different kind of job site, one that provided job seekers much more information about the employers, and a job site that provided them more information about jobs. Job seekers also didn't want to be bothered with information about jobs they were not interested in, that meant effective pre-screening. 
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Hospitality Online's public pages, this information may be collected and used by others.
 
-Providing more complete information during each step of the process means we have to collect more detailed information about job seekers and employers. 
+Hospitality Online encourages you to review the privacy statements of websites you choose to link to from Hospitality Online so that you can understand how those websites collect, use and share your information. Hospitality Online is not responsible for the privacy statements or other content on websites outside of the Hospitality Online website.
 
-The information you submit to Hospitality Online remains private. We compile statistics in many various ways, but we do not share statistics on any individual job seekers. Likewise we aggregate information from employers when we publish statistics. Last, we do not sell, rent, or exchange lists of job seekers or employers with other companies. 
+## Use of your Personal Information
 
-We compile statistics such as the number of users visiting the site by time period, position, salary range, etc. Just as we compile statistics on the number of jobs advertised by position, salary range, area of the country, etc. 
+Hospitality Online collects and uses your personal information to operate its website(s) and deliver the services you have requested.
 
-Employers each have their own section on Hospitality Online. Those sections often include links to their Internet sites, online job applications, and resume submittal directions. When you respond to employers your information is going to them and is subject to their privacy policies. Hospitality Online is not responsible for the information that employers receive from you, whether through electronic transmission by Hospitality Online, or fax or mail transmissions you submit. 
+Hospitality Online may also use your personally identifiable information to inform you of other products or services available from Hospitality Online and its affiliates. Hospitality Online may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-Hospitality Online has alliances with other companies to provide additional services. Note that when you link to those other services you are going directly to those companies and you are subject to their privacy policies. 
+Hospitality Online may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. Hospitality Online may share data with trusted partners to help perform statistical analysis, send you email or postal mail, or provide customer support. All such third parties are prohibited from using your personal information except to provide these services to Hospitality Online, and they are required to maintain the confidentiality of your information.
 
-Job seekers, employers, and others have the opportunity to share success stories and other comments with Hospitality Online, usually through e-mail. These comments become the property of Hospitality Online. We may use this information for marketing purposes, or to contact you for additional information or clarification. 
+Hospitality Online may keep track of the websites and pages our users visit within Hospitality Online, in order to determine what Hospitality Online services are the most popular. This data is used to deliver customized content and advertising within Hospitality Online to customers whose behavior indicates that they are interested in a particular subject area.
 
-**Your information about you. (Job seekers)**  
-Hospitality Online has a registration process to provide job seekers with their own private section within Hospitality Online. This also enables you to access features like the [Hospitality Online Career Toolkit](http://toolkit.hospitalityonline.com/) and provides tools to enable you to manage your career. Some of these sections request detailed information from you about your career and interests. You determine whether you participate or not, and at what level. 
+Hospitality Online will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Hospitality Online or the site; (b) protect and defend the rights or property of Hospitality Online; and, (c) act under exigent circumstances to protect the personal safety of users of Hospitality Online, or the public.
 
-The Hospitality Online Career Tool Kit is designed to streamline your career process, save you time, and present your qualifications very professionally, while allowing you to manage the entire process. 
+## Use of Cookies
 
-Hospitality Online does not allow employers to search our database. When employers post jobs, those jobs are pre-screened against your objectives. When there is a match you are sent an e-mail alerting you to review the position the employer is advertising. If you are interested you respond directly to the employer. 
+The Hospitality Online website may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your computer by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-Hospitality Online does our best to make sure no one has unauthorized access to our database, but we can't guarantee that people won't gain access to our database without our consent. 
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalize Hospitality Online pages, or register with Hospitality Online site or services, a cookie helps Hospitality Online to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as your preferences, your resume, and so on. When you return to the same Hospitality Online website, the information you previously provided can be retrieved, so you can easily use the Hospitality Online features that you customized.
 
-Once you have submitted your resume to an employer, we are not responsible for the privacy of your information. Once you have a new job, we strongly encourage you to send an e-mail to all companies you submitted your resume to. Tell them you have a new position and ask that they remove your resume from their files/database. 
+You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Hospitality Online services or websites you visit.
 
-**Credit Card Security**  
-Hospitality Online uses a secure server for all credit card transactions. These credit card transactions use SSL encryption before being sent over the Internet. While we can't guarantee encryption or the privacy of your personal details and credit card transactions, SSL makes it very difficult for your information to be stolen or intercepted while the data is being transferred. 
+## Security of your Personal Information
 
-**Cookies**  
-To make things easier for you, Hospitality Online uses a feature called "Cookies." This enables file(s) to be transferred from a web site to the hard drive of your computer. Cookies make it easier for you and provides us statistics to improve Hospitality Online for you. 
+Hospitality Online secures your personal information from unauthorized access, use or disclosure.
 
-Cookies are used to remember passwords, user names, to identify which pages, jobs, etc. are most visited, and for load balancing. They enable us to deliver service faster and to provide a more personalized experience for you. 
+## Children Under Thirteen
 
-A Cookie will not permit a web site operator to learn any information to personally identify you, unless you have personally provided that information to the web site operator or you have set the preferences in your browser to provide this information. 
+Hospitality Online does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
 
-You can set your browser to reject cookies. Remember, if you de-activate the cookies feature in your browser it will disable access to certain features on Hospitality Online. 
+## Opt-Out & Unsubscribe
 
-**Third Party Links**  
-Hospitality Online contains many links to other sites. We strongly encourage all employers and third parties to implement policies and procedures to protect the privacy of others. 
+We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Hospitality Online by contacting us here:
 
-**Children**  
-Hospitality Online does not collect information about children. We believe children should get their parents permission before giving out personal information. If you have concerns about your child's use of Hospitality Online go on the site with them to see how they are using Hospitality Online. Many students use Hospitality Online to collect information for school reports and to search for part-time or seasonal jobs. With your guidance Hospitality Online can be a very useful tool as they explore various careers. 
+Email: support@hospitalityonline.com
 
-**Changes to this Privacy Policy**  
-We review our privacy policy from time to time, and changes may occur. We ask that visitors review this Privacy Policy from time to time to be sure they are familiar with all sections. If you have questions, comments, or suggestions about our privacy practices please contact us at [privacy@hospitalityonline.com](mailto:privacy@hospitalityonline.com)
+## Changes to this Statement
+
+Hospitality Online will occasionally update this Statement of Privacy to reflect company and customer feedback. Hospitality Online encourages you to periodically review this Statement to be informed of how Hospitality Online is protecting your information.
+
+## Contact Information
+
+Hospitality Online welcomes your questions or comments regarding this Statement of Privacy. If you believe that Hospitality Online has not adhered to this Statement, please contact Hospitality Online at:
+
+Hospitality Online, Inc.  
+2601 Fourth Ave, Suite 450  
+Seattle, Washington 98121 
+
+Email Address: support@hospitalityonline.com
