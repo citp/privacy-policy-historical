@@ -1,6 +1,21 @@
-> *The following text is extracted and transformed from the xxxchurch.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620000157id_/http%3A//www.xxxchurch.com/privacy-policy-rights-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxchurch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180800id_/https%3A//www.xxxchurch.com/privacy-policy-rights-use) for the most accurate reproduction.*
 
 # Privacy Policy And Rights Of Use - XXXchurch.com
+
+## Thanks, you're signed up!
+
+Thanks for registering for the 30 Day Challenge!
+
+We will be sending you an email shortly.
+
+_Please make sure you do these two things so you get your emails:  
+_  
+**1\. Add craig@xxxchurch.com to your address book  
+2\. Mark your email from us as NOT SPAM  
+**
+
+__PS.  If you don't get your email in the next few hours check your spam folder.  
+____Find out how you can make sure our emails get to your inbox  _[ ** _here_**](https://www.xxxchurch.com/make-sure-get-emails) ** _._**_ ×
 
 ## RIGHTS OF USE
 
@@ -113,3 +128,30 @@ XXXchurch.com is a ministry of [Fireproof Ministries, Inc. a registered 501c3](h
 
  **Contacting Us  
 **If there are any questions regarding this privacy policy you may contact us [here](https://www.xxxchurch.com/contact "Contact").
+
+## Thanks, you're signed up!
+
+We will be sending your first email shortly.
+
+_Please make sure you do these two things so you get your emails:_
+
+**1\. Add craig@xxxchurch.com to your address book  
+2\. Mark your 1st email from us as NOT SPAM**
+
+__PS.  If you don't get your 1st email in the next 5 minutes check your spam folder.__  
+__Find out how you can make sure our emails get to your inbox  _[ ** _here_**](https://www.xxxchurch.com/make-sure-get-emails) ** _._**_ ×
+
+## Thanks, you're signed up!
+
+Thanks for registering for the 30 Day Challenge!
+
+We will be sending you an email shortly.
+
+_Please make sure you do these two things so you get your emails:  
+_  
+**1\. Add craig@xxxchurch.com to your address book  
+2\. Mark your email from us as NOT SPAM  
+**
+
+__PS.  If you don't get your email in the next few hours check your spam folder.  
+____Find out how you can make sure our emails get to your inbox  _[ ** _here_**](https://www.xxxchurch.com/make-sure-get-emails) ** _._**_ ×
