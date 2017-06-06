@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 22cam.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017180128id_/http%3A//22cam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 22cam.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135924id_/http%3A//22cam.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 22Cam.com
 
 Effective Date: March 4, 2014
 
-Last Modified: March 4, 2014
+Last Modified: April 6, 2017
 
 This Privacy Policy applies to all of the products, services, and websites (collectively, our “Services”) offered by  (“22Cam.com,” “we,” “our”). By using our Services and/or registering with 22Cam.com, you acknowledge and accept the provisions in this Privacy Policy and grant us permission to collect, store, and use the items of personal information described herein, so long as 22Cam.com adheres to the standards set forth more clearly below.
 
