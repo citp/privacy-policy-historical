@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasenza.ca privacy policy that was archived on 2016-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160826010244id_/http%3A//www.lasenza.ca/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasenza.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606160543id_/http%3A//www.lasenza.ca/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy | La Senza
 
@@ -171,14 +171,14 @@ If you’re concerned about how your personal information is used, please visit 
 
 This Privacy Statement is effective October 14, 2014.
 
-## California Privacy Rights
+## Your California Privacy Rights
 
-La Senza collects various types of personal information about you during the course of our customer relationship, both online and offline. Under California law, if you are a resident of California, you may make a written request to us about how we have shared your information with third parties for their direct marketing purposes. In response to your written request, we may provide you with a notice describing the cost-free means to opt-out of our sharing of your information with third parties, if the third party will use it for their direct marketing purposes.
+La Senza collects various types of personal information about you during the course of our customer relationship, both online and offline. Under California law, we provide you with a cost-free means to opt-out of our sharing of your information with third parties with whom we do not share the same brand name, if the third party will use it for their direct marketing purposes.
 
-If you would like to exercise your rights under California law, please send your written request to the email address or postal address below. Your written request must include your postal address so that we may provide you with our notice and third party direct marketing opt-out form. We will provide you with this form within thirty (30) days of receiving your written request.
+If you would like to exercise your rights under California law, please send a written request for our Third-Party Direct Marketing Opt-out Form to the email address or postal address below. Your written request must include your postal address or email address so that we may provide you with our form.
 
 La Senza Corporation  
 Attn: Customer Service Department  
 3 Limited Parkway, Columbus, OH 43230  
-1 888 LA SENZA (1-888-527-3692)  
-E-mail: customercare@lasenza.com
+1-888-LASENZA (1-888-527-3692)  
+E-mail: [customercare@lasenza.com](mailto:customercare@lasenza.com)
