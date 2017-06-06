@@ -1,92 +1,124 @@
-> *The following text is extracted and transformed from the newscorp.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126121706id_/http%3A//newscorp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscorp.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150248id_/http%3A//newscorp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | News Corp
 
-**Privacy Policy  
-Effective December 11, 2013**
+**Privacy Notice**  
+Effective Date: April 7, 2017
 
-Table of Contents:
+We at News Corporation (herein, “News Corp” or the “Company”) respect your concerns about privacy. This Privacy Notice (“Notice”) applies to personal customer information obtained by the Company, through [http://www.newscorp.com](http://www.newscorp.com/) (the “Site”). When you visit the Site, you are visiting News Corp’s corporate website. Affiliates of News Corp operate a large number of websites, mobile applications and other services associated with News Corp’s various businesses, brands and products. Each of these properties and services you may choose to visit has privacy notices that differ from this Notice due to the nature of those properties and services. This Notice does not apply to the websites, mobile applications and other services operated by News Corp affiliates. A list of News Corp affiliates is [here](http://newscorp.com/about/our-businesses/). By using the Site, you agree to the terms and conditions of this Privacy Notice.
 
-  1. **INTRODUCTION**
-  2. **COLLECTION OF INFORMATION**
-  3. **USE AND DISCLOSURE**
-  4. **SECURITY**
-  5. **USER ACCESS AND CONTROL**
-  6. **OTHER IMPORTANT INFORMATION**
-  7. **CONTACT US**
+The Notice describes the types of personal information we obtain about customers, how we use the information and with whom we share it. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices. The Site is for a general audience, is not targeted to children, and we do not knowingly collect personal information from children under 13 years of age.
+
+Click on one of the links below to jump to the listed section:
+
+  * Information We Obtain
+  * Information Obtained by Automated Means Through the Site
+  * How We Use the Information We Obtain
+  * Information We Share
+  * Accessing, Reviewing, Updating and Modifying Personal Information
+  * Notice to California Residents
+  * How We Protect Personal Information
+  * Transfers of Information
+  * Links to Affiliate and Third-Party Sites, Apps and Services
+  * Updates to Our Privacy Notice
+  * How To Contact Us
 
 
 
-**1.     INTRODUCTION**
+**Information We Obtain**
 
-News Corporation ( **“News Corp”** or **“we”** ) wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through newscorp.com (the **“Site”** ).  By using the Site, you agree to the terms and conditions of this Privacy Policy.
+We obtain information about customers through this Site from you directly and by automated means, and may also obtain personal information from publicly and commercially available sources and from our Company affiliates and/or business partners (such as social media networks). The types of personal information we may obtain include:
 
-When you visit the Site, you are visiting News Corp’s corporate website.  Affiliates of News Corp ( **“News Corp Affiliates”** ) operate a large number of websites, mobile applications and other services associated with News Corp’s various businesses, brands and products.  Each of these services that you may choose to visit has privacy policies that may differ from this Privacy Policy due to the nature of those services. This Privacy Policy does not apply to the websites, mobile applications and other services operated by News Corp Affiliates.  A list of News Corp Affiliates is available [here](http://newscorp.com/about/our-businesses/ "Terms of Use").
+  * Contact information (such as name, postal address, email address and telephone and/or mobile numbers);
+  * Username and password when you register on the Site;
+  * Geolocation data;
+  * Other information you may provide to us, such as through our “Submit a Request” or “Contact Us” feature (such as gender and zip code); and
+  * If you are a News Corp investor, information you may submit for stockholder benefits, such as through the “Electronic Delivery Enrollment” feature (such as social security number or tax ID number).
 
-The Site is for a general audience, is not targeted to children, and does not knowingly collect personal information from children under 13 years of age.
 
-This Privacy Policy applies to News Corp’s collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address).  It also describes generally News Corp’s practices for handling non-personal information (for example, interests, demographics and services usage).
 
-**2.     COLLECTION OF INFORMATION**
+**Information Obtained by Automated Means Through the Site**
 
-News Corp and our service providers collect the following information from and about you:
+When you access and interact with the Site, we may obtain certain information through the Site by automated means, such as cookies (including HTTP, HTML5 and Flash cookies), web beacons, web server logs, JavaScript and similar technologies, including technologies designed to obtain information regarding your use of the Site. The information we obtain in this manner may include IP address, browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on the Site, and dates and times you access or use the Site.
 
-**Information You Submit.**  You may choose to send us communications through the email addresses listed on the Site or receive newsletters or notifications.  Information you submit may include, for example, name, email address, gender and/or zip code.
+A “cookie” is a file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. Through these automated collection methods, we obtain “clickstream data,” which is a log of the links and other content on which a visitor clicks while browsing a website. As the visitor clicks through the website, a record of the action may be collected and stored.
 
-**Activity Information.**  When you access and interact with the Site, we may collect certain information about those visits.  For example, in order to permit your connection to the Site, our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, and other software or hardware information.  If you access the Site from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data, or other transactional information for that device. At this time we do not respond to browser ‘Do Not Track’ signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted.
+We may link certain data elements obtained through automated means, such as your browser or device information, with other information we have obtained about you to let us know, for example, what search queries you may have run. Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. You also may be able to delete your Flash cookies or adjust your Flash cookie settings by visiting the Adobe Flash Website Storage Settings Panel and Global Storage Settings Panel. Please note, however, that without cookies you may not be able to use all of the features of the Site.
 
-Cookies and other tracking technologies (such as browser cookies, pixels, beacons, and Adobe Flash technology including cookies) are comprised of small bits of data that often include a de-identified or anonymous unique identifier.  Websites, apps and other services send this data to your browser when you first request a web page and then store the data on your computer so the website can access information when you make subsequent requests for pages from that service.  These technologies may also be used to collect and store information about your usage of the Site, such as pages you have visited, content you have viewed, search queries you have run and advertisements you have seen.
+The providers of third-party apps, tools, widgets and plug-ins on the Site, such as social media sharing tools, also may use automated means to collect information regarding your interactions with these features. This information is collected directly by the providers of those features and is subject to the privacy policies or notices of those providers. The Company is not responsible for those providers’ information practices.
 
-Third parties that support the Site by providing services, such as tracking aggregate Site usage statistics, may also use these technologies to collect similar information.  News Corp does not control these third-party technologies and their use is governed by the privacy policies of third parties using such technologies.
+**How We Use the Information We Obtain**
 
-Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether.  Please consult the “Help” section of your browser for more information.  Users can manage the use of Flash technologies, with the Flash management tools available at Adobe’s website, see <http://www.adobe.com/products/flashplayer/security/privacy_policy/faq.html>.  Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the Site.
+We may use the information collected from and about you to:
 
-**Information from Other Sources.**  We may supplement the information we collect with information from other sources, such as publicly available information from social media services, commercially available sources and information from our News Corp Affiliates or business partners.
+  * Provide our products and services;
+  * Create and manage online accounts;
+  * Send promotional materials, alerts regarding available offers and other communications, including communications through the Site and outside of the Site, such as via email and through third-party websites and apps;
+  * Respond to inquiries from you and other third-parties, including inquiries from law enforcement agencies;
+  * Anonymize personal information to provide our affiliates and third parties with aggregated data reports showing anonymized information and other non-personal information;
+  * Supplement your personal information collected from you with additional information from publicly and commercially available sources, and/or information from Company affiliates and our business partners (a link to a list of News Corp affiliates can be found above and under the Information We Share section of this Notice);
+  * Associate your browser and/or device with other browsers or devices you use for the purpose of providing relevant and easier access to content and other operational purposes;
+  * Operate, evaluate and improve our business (including developing, enhancing, analyzing and improving the Site; managing our communications; performing data analytics; and performing accounting, auditing and other internal functions);
+  * Protect against, identify and prevent fraud and other unlawful activity, claims and other liabilities; and
+  * Comply with and enforce applicable legal requirements, relevant industry standards, contractual obligations and our policies.
 
-**3.     USE AND DISCLOSURE**
 
-We use the information we collect from and about you to provide the Site and features to you, including: to measure and improve those Site and features; to improve your experience with the Site by providing content you may find relevant and interesting; to provide you with support and to respond to inquiries.  When the information collected from or about you does not identify you as a specific person, we may use that information for any purpose or share it with third parties.
 
-We use the information we collect from and about you for these additional purposes:
+In addition, we and our third-party service providers may use information collected through automated means including cookies, web beacons, web server logs, JavaScript and similar technologies for purposes such as (1) customizing our users’ visits to and use of the Site, (2) delivering content (including advertising) tailored to our users’ interests and the manner in which our users use the Site, and (3) managing the Site and other aspects of our business.
 
-**To allow service providers to assist us in providing and managing the Site.**  News Corp may make your information available to certain third-party service providers, such as contractors, agents or sponsors, who help us manage or provide the Site.
+We may use third-party analytics services on the Site, such as those of Google Analytics. The analytics providers that administer these services use technologies such as cookies, web beacons, web server logs and similar technologies to help us analyze your use of the Site. The information collected through these means may be disclosed to these analytics providers and other relevant third parties who use the information, for example, to evaluate use of the Site. To learn more about how to opt out of Google Analytics services, please visit the link below:
 
-**To contact you.**  News Corp may periodically send materials and notifications related to the Site.  If you want to stop receiving materials and notifications, you can contact us as provided in Section 7 below or by following the unsubscribe instructions that may appear in such communications.  There are certain service notification communications that you may not opt-out of, such as notifications of changes to the Site or policies.
+  * Google Analytics: <https://tools.google.com/dlpage/gaoptout>
 
-**To share with our News Corp Affiliates.**  News Corp may share your information with News Corp Affiliates for the purposes described in this Privacy Policy.  A link to a list of News Corp Affiliates can be found at the beginning of this policy.  Users who visit News Corp Affiliates’ services should still refer to their separate privacy policies, which may differ from this Privacy Policy
 
-**To protect the rights of News Corp and others.**  There may be instances when News Corp may disclose your information, including situations where News Corp has a good faith belief that such disclosure is necessary in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or property of News Corp, our News Corp Affiliates or their employees, agents and contractors (including enforcement of our agreements and our terms of use); (ii) protect the safety, privacy, and security of users of the Site or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process; or (v) respond to requests from public and government authorities.
 
-**To complete a merger or sale of assets.**  If News Corp sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, News Corp may transfer your information to the party or parties involved in the transaction as part of that transaction.
+We also may use your personal information in other ways for which we provide specific notice at the time of collection.
 
-**4.     SECURITY**
+**Information We Share**
 
-News Corp uses commercially reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification. However, no one can guarantee the complete safety of your information.
+We may share customer personal information with
 
-**5.     USER ACCESS AND CONTROL**
+  * Our subsidiaries and affiliates, any of whom may use your personal information consistent with this Privacy Notice or for the subsidiary’s or affiliate’s own purposes, including marketing purposes. A current list of our affiliated companies is available at <http://newscorp.com/about/our-businesses/>.
+  * Service providers in the US and other jurisdictions who perform services on our behalf.
 
-If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us as outlined in Section 7. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update, or suppress.  We will try to comply with your request as soon as reasonably practicable.
 
-For California residents, you may request that we not share your personal information on a going-forward basis with News Corp Affiliates or unaffiliated third parties for their direct marketing purposes by emailing the contact provided in Section 7.  We will try to comply with your request(s) as soon as reasonably practicable.
 
-**6.     OTHER IMPORTANT INFORMATION**
+In addition, when the information collected from or about you does not identify you as a specific person, we may share it with third parties.
 
-**Updates to Privacy Policy.**  News Corp may modify this Privacy Policy.  Please look at the Effective Date at the top of this Privacy Policy to see when this Privacy Policy was last revised.  Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site.
+We may further disclose information about you (1) if we are required to do so by law or legal process, (2) to law enforcement authorities or other government officials, and (3) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity. We also reserve the right to transfer personal information we have about you in the event of a proposed or completed sale or transfer of all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation).
 
-**Location of Data.**  The Site is hosted in and managed from the United States.  If you are a user located outside the United States, you understand and consent to having any personal information processed in the United States.  United States data protection and other relevant laws may not be the same as those in your jurisdiction.  This includes the use of cookies and other tracking technologies as described above.  As a result, please read this Privacy Policy with care.
+**Accessing, Reviewing, Updating and Modifying Personal Information**
 
-**Linked Services.**  The Site may also be linked to sites operated by unaffiliated companies, and may carry advertisements or offer content, functionality, newsletters,  or applications developed and maintained by unaffiliated companies. News Corp is not responsible for the privacy practices of unaffiliated companies, and once you leave the Site or click an advertisement you should check the applicable privacy policy of the other service.
+We provide you with an opportunity to access, review, update, and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. You may request access, updates to and corrections of inaccuracies in your personal information by emailing or writing to us at the contact information set out below. We may request certain personal information for the purposes of verifying the identity of the individual seeking access to his/her personal information records.
 
-**Data Retention.**  We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
+**Notice to California Residents**
 
-It is not always possible to completely remove or delete all of your information due to technical constraints, contractual, financial or legal requirements.
+Subject to certain limitations, California residents may ask us to provide them with (1) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (2) the identity of those third parties. To make this request, California residents may contact us as specified in the How to Contact Us section below.
 
-**Sensitive Information.**  We ask that you not send us, and you not disclose, any sensitive personal information (such as social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Site or otherwise.
+**How We Protect Personal Information**
 
-**7.     CONTACT US**
+We maintain appropriate administrative, technical and physical safeguards designed to protect the personal information we have about you against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
 
-If you have questions about this Privacy Policy, please contact us at:
+**Transfers of Information**
 
-Email: [privacypolicy@newscorp.com](mailto:someone@example.com)
+The Site may be hosted in and managed from a country outside the country in which you initially provided the information, including the United States. We may transfer the personal information we collect about you to the United States and/or another country, which may not be deemed to have the same data protection laws as the country in which you initially provided the information. When your personal information is in such countries, it may be accessed by the courts, law enforcement and national security authorities in accordance with applicable law. If you are a user located outside the United States or the country to which your information may be transferred, you understand and consent to having any personal information processed in the United States and/or such country. Your consent includes the use of cookies and other tracking technologies as described above. When we transfer your information, we will protect that information as described in this Notice.
 
-Mail: News Corp, 1211 Avenue of the Americas, New York, New York 10036
+**Links to Affiliate and Third-Party Sites, Apps and Services**
+
+For your convenience and information, the Site may provide links to News Corp affiliates’ sites, apps and services, as well as those of third parties that may be operated by companies not affiliated with News Corp. Our affiliates have their own privacy notices or policies, which we strongly suggest you review. Third-party sites may carry advertisements or offer content, functionality, newsletters or applications developed and maintained by those unaffiliated third-party companies. We are not responsible for the privacy practices of any non-News Corp sites, apps or services.
+
+**Updates to Our Privacy Notice**
+
+This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. Changes to this Privacy Notice will become effective when the revised Notice is posted on newscorp.com. The Effective Date of the Privacy Notice can be found at the beginning of the Notice. For significant changes, we will notify you by posting a prominent notice on the Site indicating at the top of the Notice when it was most recently updated.
+
+**How To Contact Us**
+
+If you have any questions or comments about this Privacy Notice or the manner in which we or our service providers treat your personal information, would like to exercise your choices, or would like us to update information we have about you or your preferences, please contact us as follows:
+
+Email: [privacypolicy@newscorp.com](mailto:privacypolicy@newscorp.com)
+
+You also may write to:
+
+News Corporation  
+1211 Avenue of the Americas  
+New York, NY 10036
