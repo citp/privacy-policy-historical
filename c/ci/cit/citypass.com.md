@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citypass.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120071050id_/http%3A//www.citypass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citypass.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606083934id_/http%3A//www.citypass.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Security | CityPASS®
 
@@ -120,7 +120,7 @@ CityPASS will revise or update this Policy if our practices change, as we change
 
 ###  10\. Contacting Us 
 
-If you have any questions, comments or concerns about this Policy, please e-mail us at [info@citypass.com](mailto:info@citypass.com), or call us at 1 (888) 330-5008. Or you can write to us at: 
+If you have any questions, comments or concerns about this Policy, please [contact us](http://support.citypass.com/). Or you can write to us at: 
 
 **CityPASS, Inc.**  
 Attn: Privacy Officer  
