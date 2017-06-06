@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the researchandmarkets.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202045758id_/http%3A//www.researchandmarkets.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the researchandmarkets.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163154id_/http%3A//www.researchandmarkets.com/info/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Research and Markets
 
-Research and Markets knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Research and Markets, you are accepting the practices described in this Privacy Notice. 
+This notice describes our privacy policy. By visiting Research and Markets, you are accepting the practices described in this Privacy Notice. 
 
 ## What personal information about customers does Research and Markets gather?
 
@@ -32,6 +32,6 @@ We protect the security of your information during transmission by using Secure 
 
 ## Opt-in/Opt-out
 
-If you do not want to receive e-mail or other mail from us, please visit: [Unsubscribe Page](https://web.archive.org/unsubscribe.asp)
+If you do not want to receive e-mail correspondence from us, please visit click the unsubscribe link provided at the bottom of any of our marketing emails. If you encounter any problem or need additional help, please [contact us](https://web.archive.org/info/contactus.asp). 
 
 If you wish to receive e-mail or other mail from us, please visit: [Register Page](https://web.archive.org/register.asp)
