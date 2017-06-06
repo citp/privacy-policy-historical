@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitinbhatia.in privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231744id_/http%3A//www.nitinbhatia.in/google-adsense-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitinbhatia.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151249id_/http%3A//www.nitinbhatia.in/google-adsense-privacy-policy) for the most accurate reproduction.*
 
 # Google Adsense Privacy Policy
 
@@ -41,3 +41,5 @@ You can opt-out of this ad serving on all sites using this advertising by visiti
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+Share this post with near & dear ones...
