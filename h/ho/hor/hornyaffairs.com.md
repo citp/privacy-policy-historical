@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hornyaffairs.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119013610id_/http%3A//www.hornyaffairs.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hornyaffairs.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133943id_/http%3A//www.hornyaffairs.com/site/privacy) for the most accurate reproduction.*
 
 # Hornyaffairs - Find people, socialize, hookup and chat.
 
@@ -83,7 +83,7 @@ We have security measures in place to protect and prevent the loss, misuse, and 
 
 You have the following choices to modify or delete your profile information from our database:
 
-  * Send an email to [Customer Service](mailto:support@hornyaffairs.com);
+  * Send an email to [Customer Service](mailto:);
   * Log in with your password and modify your profile;
 
 
@@ -91,15 +91,3 @@ You have the following choices to modify or delete your profile information from
 #### 11\. Opt-out provisions
 
 You can unsubscribe at any time by clicking the 'unsubscribe' link at the bottom of our mails. When clicking the unsubscribe link, you will be instantly removed from all the mailing lists of HK International. You can also choose to opt-out through the email preference center of your profile by clicking on 'Account Settings' when logged in. 
-
-  
-
-
-#### Our address:
-
-HK International Limited  
-PO Box 440  
-Envoy House, La Vrangue  
-St Peter Port  
-Guernsey  
-GY1 3ZN 
