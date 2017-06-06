@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gapcanada.ca privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232521id_/http%3A//www.gapcanada.ca/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapcanada.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192406id_/http%3A//www.gapcanada.ca/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
 
 # | Gap
 
 ## Privacy Policy 
 
-**Last Revised: August 10, 2016**
+**Last Revised: May 26, 2017**
 
 **Questions about Privacy?**
 
@@ -252,8 +252,7 @@ Gap Canada Customer Service
 Bolton, ON L7E 3B6  
 Canada  
 1-800-GAPSTYLE (1-800-427-7895)  
-1-888-906-1104 (TDD hearing impaired - English)  
-1-866-740-8344 (TDD hearing impaired - French)  
+Please dial 711 for relay service  
 [custserv@gapcanada.ca](mailto:custserv@gapcanada.ca)
 
 Banana Republic Canada Customer Service  
@@ -261,8 +260,7 @@ Banana Republic Canada Customer Service
 Bolton, ON L7E 3B6  
 Canada  
 1-888-BR STYLE (1-888-277-8953)  
-1-888-906-1104 (TDD hearing impaired - English)  
-1-866-740-8344 (TDD hearing impaired - French)  
+Please dial 711 for relay service  
 [custserv@bananarepublic.ca](mailto:custserv@bananarepublic.ca)
 
 Old Navy Canada Customer Service  
@@ -270,6 +268,13 @@ Old Navy Canada Customer Service
 Bolton, ON L7E 3B6  
 Canada  
 1-800-OLD-NAVY (1-800-653-6289)  
-1-888-906-1104 (TDD hearing impaired - English)  
-1-866-740-8344 (TDD hearing impaired - French)  
+Please dial 711 for relay service  
 [custserv@oldnavy.ca](mailto:custserv@oldnavy.ca)
+
+Athleta Customer Service  
+5900 North Meadows Drive  
+Grove City, OH 43123  
+USA  
+1-877-3ATHLETA (1-877-328-4538)  
+Please dial 711 for relay service  
+[custserv@athleta.com](mailto:custserv@athleta.com)
