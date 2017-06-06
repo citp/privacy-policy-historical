@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syncplicity.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010052235id_/https%3A//www.syncplicity.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syncplicity.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182316id_/https%3A//www.syncplicity.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Syncplicity LLC Privacy Statement | Syncplicity
 
@@ -23,6 +23,9 @@ Social Media and Other Third Party Information Collection
 Personal Information of our Customers' Clients  
 Questions About and Enforcement of this Privacy Statement  
 Changes to this Privacy Statement
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=35cfeda5-3874-4f57-a1af-44fe5bf345a5)  
+ 
 
 ### General Information
 
