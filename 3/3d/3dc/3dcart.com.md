@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the 3dcart.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204055652id_/http%3A//www.3dcart.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dcart.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165248id_/https%3A//www.3dcart.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy for www.3dcart.com
+# Privacy Policy | 3dcart
 
 **Privacy Policy**
 
 Effective on January 6, 2010
 
-3dcart is committed to protecting your privacy. This privacy policy describes how 3dcart collects and uses the personal information you provide on our website: [www.3dcart.com](http://www.3dcart.com/). It also describes the choices available to you regarding 3dcart's use of your personal information and the steps you can take to access this information and to request that we correct or update it.
+3dcart is committed to protecting your privacy. This privacy policy describes how 3dcart collects and uses the personal information you provide on our website: [www.3dcart.com](https://www.3dcart.com/). It also describes the choices available to you regarding 3dcart's use of your personal information and the steps you can take to access this information and to request that we correct or update it.
 
 **TRUSTe**
 
@@ -42,7 +42,7 @@ We use this information to
 
 **Data Collected on the 3dcart Application**
 
-Any data collected through the 3dcart application, including customers contact information, orders information and credit card information adheres to the PCI Data Security Standards as described [here](http://www.3dcart.com/pci-compliance.html).
+Any data collected through the 3dcart application, including customers contact information, orders information and credit card information adheres to the PCI Data Security Standards as described [here](https://www.3dcart.com/pci-compliance.html).
 
 **Information Sharing**
 
