@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 5linx.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129142821id_/http%3A//5linx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5linx.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060348id_/http%3A//5linx.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 5LINX.com
+# Privacy Policy | 5LINX
 
 5LINX® Enterprises, Inc. (“5LINX®”) is committed to your privacy. We obey all laws and regulations in the United States applicable to our use and disclosure of your information. Except as set forth in this Privacy Policy, we will not trade, sell, or disclose to any third party any form of PII (as defined below) without your consent and we will not disclose or make available any PII to any third parties seeking to market third party products without your consent. We have set forth this Privacy Policy to explain to you how we collect and use information from our representatives (“Representatives”) and customers (“Customers”) (collectively, “Representatives/Customers”), who use products and services from 5LINX® and from visitors to our websites and from potential Representatives/Customers who have communicated, made contact or interacted with 5LINX® (collectively, “Visitors”), both in connection with online and offline products and services offered by 5LINX®.
 
