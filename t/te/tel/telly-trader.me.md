@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the telly-trader.me privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023180406id_/http%3A//telly-trader.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telly-trader.me privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171924id_/http%3A//telly-trader.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TV Trader.ME
+# Privacy Policy - Telly Trader.ME
 
 TV-Trader cares about how your personal information is used and shared, and we take your privacy seriously. Please read the following terms to learn more about our privacy policy. By registering to and creating account at TV-Trader.me you are accepting the practices outlined in this Privacy Policy.
 
