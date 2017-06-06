@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the montagehotels.com privacy policy that was archived on 2016-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161209053536id_/http%3A//www.montagehotels.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the montagehotels.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606180401id_/http%3A//www.montagehotels.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
-        <title>Hotel Properties and Residential Management Company | Montage Corporate - Private Policy</title>
+        <title>Montage Corporate Private Policy | Montage Hotels</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge"><!-- nothing before this line, see: http://stackoverflow.com/a/9624500 -->
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, minimum-scale=1, user-scalable=no">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1, user-scalable=yes">
         <link rel="profile" href="http://gmpg.org/xfn/11">
         <link rel="pingback" href="https://www.montagehotels.com/xmlrpc.php">
         <link href="https://www.montagehotels.com/wp-content/themes/twentytwelve/favicon.ico" type="image/ico" rel="icon">
@@ -29,7 +29,7 @@
 <link rel="canonical" href="https://www.montagehotels.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Hotel Properties and Residential Management Company | Montage Corporate - Private Policy">
+<meta property="og:title" content="Montage Corporate Private Policy | Montage Hotels">
 <meta property="og:description" content="Read about the privacy policy held at Montage Corporate, a hotel property and residential management company. Montage Corporate respects the privacy of their online guests so you can browse safely through the pages of their destination locations.">
 <meta property="og:url" content="https://www.montagehotels.com/privacy-policy/">
 <meta property="og:site_name" content="Montage Hotels &amp; Resorts">
@@ -71,7 +71,14 @@ $( '#wpss_slideshow_culture-slider .wpss_slideshow_' ).cycle({
 'easing' : 'linear',
 'speed' : '1000',
 'prev' : '#wpss_prev_culture-slider', 'next' : '#wpss_next_culture-slider','pager' : '#wpss_slideshow_pager_culture-slider',
-'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null 
+'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null,
+'updateActivePagerLink' : function(pager, currSlide, clsName){
+                $(pager).each(function(){
+                    $(this).children().removeClass(clsName).attr('aria-label','Inactive slide')
+                        .eq(currSlide).addClass(clsName).attr('aria-label','Active slide');
+                });
+            },
+'pagerAnchorBuilder' : function(i,el){ linkcontent = 'Go to slide ' + (i + 1); return '<a href="#" aria-describedby="' + el.id + '">' + linkcontent + '</a>'; } 
 }); 
 
 $( '.wpss_pause_culture-slider' ).click( function(){ $( '#wpss_slideshow_culture-slider .wpss_slideshow_' ).cycle( 'pause' ) }) 
@@ -83,7 +90,14 @@ $( '#wpss_slideshow_healdsburg-slider .wpss_slideshow_' ).cycle({
 'easing' : 'linear',
 'speed' : '1000',
 'prev' : '#wpss_prev_healdsburg-slider', 'next' : '#wpss_next_healdsburg-slider','pager' : '#wpss_slideshow_pager_healdsburg-slider',
-'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null 
+'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null,
+'updateActivePagerLink' : function(pager, currSlide, clsName){
+                $(pager).each(function(){
+                    $(this).children().removeClass(clsName).attr('aria-label','Inactive slide')
+                        .eq(currSlide).addClass(clsName).attr('aria-label','Active slide');
+                });
+            },
+'pagerAnchorBuilder' : function(i,el){ linkcontent = 'Go to slide ' + (i + 1); return '<a href="#" aria-describedby="' + el.id + '">' + linkcontent + '</a>'; } 
 }); 
 
 $( '.wpss_pause_healdsburg-slider' ).click( function(){ $( '#wpss_slideshow_healdsburg-slider .wpss_slideshow_' ).cycle( 'pause' ) }) 
@@ -95,7 +109,14 @@ $( '#wpss_slideshow_hom-slider .wpss_slideshow_' ).cycle({
 'easing' : 'swing',
 'speed' : '1000',
 'prev' : '#wpss_prev_hom-slider', 'next' : '#wpss_next_hom-slider','pager' : '#wpss_slideshow_pager_hom-slider',
-'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null 
+'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null,
+'updateActivePagerLink' : function(pager, currSlide, clsName){
+                $(pager).each(function(){
+                    $(this).children().removeClass(clsName).attr('aria-label','Inactive slide')
+                        .eq(currSlide).addClass(clsName).attr('aria-label','Active slide');
+                });
+            },
+'pagerAnchorBuilder' : function(i,el){ linkcontent = 'Go to slide ' + (i + 1); return '<a href="#" aria-describedby="' + el.id + '">' + linkcontent + '</a>'; } 
 }); 
 
 $( '.wpss_pause_hom-slider' ).click( function(){ $( '#wpss_slideshow_hom-slider .wpss_slideshow_' ).cycle( 'pause' ) }) 
@@ -106,18 +127,51 @@ $( '#wpss_slideshow_homepage-fullscreen-slider .wpss_slideshow_' ).cycle({
 'easing' : 'swing',
 'speed' : '1000',
 'pager' : '#wpss_slideshow_pager_homepage-fullscreen-slider',
-'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null 
+'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null,
+'updateActivePagerLink' : function(pager, currSlide, clsName){
+                $(pager).each(function(){
+                    $(this).children().removeClass(clsName).attr('aria-label','Inactive slide')
+                        .eq(currSlide).addClass(clsName).attr('aria-label','Active slide');
+                });
+            },
+'pagerAnchorBuilder' : function(i,el){ linkcontent = 'Go to slide ' + (i + 1); return '<a href="#" aria-describedby="' + el.id + '">' + linkcontent + '</a>'; } 
 }); 
 
 $( '.wpss_pause_homepage-fullscreen-slider' ).click( function(){ $( '#wpss_slideshow_homepage-fullscreen-slider .wpss_slideshow_' ).cycle( 'pause' ) }) 
 $( '.wpss_resume_homepage-fullscreen-slider' ).click( function(){ $( '#wpss_slideshow_homepage-fullscreen-slider .wpss_slideshow_' ).cycle( 'resume' ) }) 
+$( '#wpss_slideshow_la-quinta-slider .wpss_slideshow_' ).cycle({
+'timeout' : '3000',
+'pause' : '1',
+'fx' : 'fade',
+'easing' : 'linear',
+'speed' : '1000',
+'prev' : '#wpss_prev_la-quinta-slider', 'next' : '#wpss_next_la-quinta-slider','pager' : '#wpss_slideshow_pager_la-quinta-slider',
+'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null,
+'updateActivePagerLink' : function(pager, currSlide, clsName){
+                $(pager).each(function(){
+                    $(this).children().removeClass(clsName).attr('aria-label','Inactive slide')
+                        .eq(currSlide).addClass(clsName).attr('aria-label','Active slide');
+                });
+            },
+'pagerAnchorBuilder' : function(i,el){ linkcontent = 'Go to slide ' + (i + 1); return '<a href="#" aria-describedby="' + el.id + '">' + linkcontent + '</a>'; } 
+}); 
+
+$( '.wpss_pause_la-quinta-slider' ).click( function(){ $( '#wpss_slideshow_la-quinta-slider .wpss_slideshow_' ).cycle( 'pause' ) }) 
+$( '.wpss_resume_la-quinta-slider' ).click( function(){ $( '#wpss_slideshow_la-quinta-slider .wpss_slideshow_' ).cycle( 'resume' ) }) 
 $( '#wpss_slideshow_los-cabos-slider .wpss_slideshow_' ).cycle({
 'timeout' : '3000',
 'fx' : 'fade',
 'easing' : 'linear',
 'speed' : '1000',
 'prev' : '#wpss_prev_los-cabos-slider', 'next' : '#wpss_next_los-cabos-slider','pager' : '#wpss_slideshow_pager_los-cabos-slider',
-'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null 
+'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null,
+'updateActivePagerLink' : function(pager, currSlide, clsName){
+                $(pager).each(function(){
+                    $(this).children().removeClass(clsName).attr('aria-label','Inactive slide')
+                        .eq(currSlide).addClass(clsName).attr('aria-label','Active slide');
+                });
+            },
+'pagerAnchorBuilder' : function(i,el){ linkcontent = 'Go to slide ' + (i + 1); return '<a href="#" aria-describedby="' + el.id + '">' + linkcontent + '</a>'; } 
 }); 
 
 $( '.wpss_pause_los-cabos-slider' ).click( function(){ $( '#wpss_slideshow_los-cabos-slider .wpss_slideshow_' ).cycle( 'pause' ) }) 
@@ -129,7 +183,14 @@ $( '#wpss_slideshow_meetings-slider .wpss_slideshow_' ).cycle({
 'easing' : 'linear',
 'speed' : '1000',
 'prev' : '#wpss_prev_meetings-slider', 'next' : '#wpss_next_meetings-slider','pager' : '#wpss_slideshow_pager_meetings-slider',
-'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null 
+'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null,
+'updateActivePagerLink' : function(pager, currSlide, clsName){
+                $(pager).each(function(){
+                    $(this).children().removeClass(clsName).attr('aria-label','Inactive slide')
+                        .eq(currSlide).addClass(clsName).attr('aria-label','Active slide');
+                });
+            },
+'pagerAnchorBuilder' : function(i,el){ linkcontent = 'Go to slide ' + (i + 1); return '<a href="#" aria-describedby="' + el.id + '">' + linkcontent + '</a>'; } 
 }); 
 
 $( '.wpss_pause_meetings-slider' ).click( function(){ $( '#wpss_slideshow_meetings-slider .wpss_slideshow_' ).cycle( 'pause' ) }) 
@@ -141,7 +202,14 @@ $( '#wpss_slideshow_memory-makers-slider .wpss_slideshow_' ).cycle({
 'easing' : 'swing',
 'speed' : '1000',
 'prev' : '#wpss_prev_memory-makers-slider', 'next' : '#wpss_next_memory-makers-slider','pager' : '#wpss_slideshow_pager_memory-makers-slider',
-'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null 
+'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null,
+'updateActivePagerLink' : function(pager, currSlide, clsName){
+                $(pager).each(function(){
+                    $(this).children().removeClass(clsName).attr('aria-label','Inactive slide')
+                        .eq(currSlide).addClass(clsName).attr('aria-label','Active slide');
+                });
+            },
+'pagerAnchorBuilder' : function(i,el){ linkcontent = 'Go to slide ' + (i + 1); return '<a href="#" aria-describedby="' + el.id + '">' + linkcontent + '</a>'; } 
 }); 
 
 $( '.wpss_pause_memory-makers-slider' ).click( function(){ $( '#wpss_slideshow_memory-makers-slider .wpss_slideshow_' ).cycle( 'pause' ) }) 
@@ -153,7 +221,14 @@ $( '#wpss_slideshow_overview-slider .wpss_slideshow_' ).cycle({
 'easing' : 'linear',
 'speed' : '1000',
 'prev' : '#wpss_prev_overview-slider', 'next' : '#wpss_next_overview-slider','pager' : '#wpss_slideshow_pager_overview-slider',
-'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null 
+'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null,
+'updateActivePagerLink' : function(pager, currSlide, clsName){
+                $(pager).each(function(){
+                    $(this).children().removeClass(clsName).attr('aria-label','Inactive slide')
+                        .eq(currSlide).addClass(clsName).attr('aria-label','Active slide');
+                });
+            },
+'pagerAnchorBuilder' : function(i,el){ linkcontent = 'Go to slide ' + (i + 1); return '<a href="#" aria-describedby="' + el.id + '">' + linkcontent + '</a>'; } 
 }); 
 
 $( '.wpss_pause_overview-slider' ).click( function(){ $( '#wpss_slideshow_overview-slider .wpss_slideshow_' ).cycle( 'pause' ) }) 
@@ -165,7 +240,14 @@ $( '#wpss_slideshow_spa-montage-slider .wpss_slideshow_' ).cycle({
 'easing' : 'linear',
 'speed' : '1000',
 'prev' : '#wpss_prev_spa-montage-slider', 'next' : '#wpss_next_spa-montage-slider','pager' : '#wpss_slideshow_pager_spa-montage-slider',
-'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null 
+'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null,
+'updateActivePagerLink' : function(pager, currSlide, clsName){
+                $(pager).each(function(){
+                    $(this).children().removeClass(clsName).attr('aria-label','Inactive slide')
+                        .eq(currSlide).addClass(clsName).attr('aria-label','Active slide');
+                });
+            },
+'pagerAnchorBuilder' : function(i,el){ linkcontent = 'Go to slide ' + (i + 1); return '<a href="#" aria-describedby="' + el.id + '">' + linkcontent + '</a>'; } 
 }); 
 
 $( '.wpss_pause_spa-montage-slider' ).click( function(){ $( '#wpss_slideshow_spa-montage-slider .wpss_slideshow_' ).cycle( 'pause' ) }) 
@@ -177,7 +259,14 @@ $( '#wpss_slideshow_summer-events-slider .wpss_slideshow_' ).cycle({
 'easing' : 'linear',
 'speed' : '1000',
 'prev' : '#wpss_prev_summer-events-slider', 'next' : '#wpss_next_summer-events-slider','pager' : '#wpss_slideshow_pager_summer-events-slider',
-'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null 
+'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null,
+'updateActivePagerLink' : function(pager, currSlide, clsName){
+                $(pager).each(function(){
+                    $(this).children().removeClass(clsName).attr('aria-label','Inactive slide')
+                        .eq(currSlide).addClass(clsName).attr('aria-label','Active slide');
+                });
+            },
+'pagerAnchorBuilder' : function(i,el){ linkcontent = 'Go to slide ' + (i + 1); return '<a href="#" aria-describedby="' + el.id + '">' + linkcontent + '</a>'; } 
 }); 
 
 $( '.wpss_pause_summer-events-slider' ).click( function(){ $( '#wpss_slideshow_summer-events-slider .wpss_slideshow_' ).cycle( 'pause' ) }) 
@@ -189,7 +278,14 @@ $( '#wpss_slideshow_sustainability-slider .wpss_slideshow_' ).cycle({
 'easing' : 'linear',
 'speed' : '1000',
 'prev' : '#wpss_prev_sustainability-slider', 'next' : '#wpss_next_sustainability-slider','pager' : '#wpss_slideshow_pager_sustainability-slider',
-'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null 
+'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null,
+'updateActivePagerLink' : function(pager, currSlide, clsName){
+                $(pager).each(function(){
+                    $(this).children().removeClass(clsName).attr('aria-label','Inactive slide')
+                        .eq(currSlide).addClass(clsName).attr('aria-label','Active slide');
+                });
+            },
+'pagerAnchorBuilder' : function(i,el){ linkcontent = 'Go to slide ' + (i + 1); return '<a href="#" aria-describedby="' + el.id + '">' + linkcontent + '</a>'; } 
 }); 
 
 $( '.wpss_pause_sustainability-slider' ).click( function(){ $( '#wpss_slideshow_sustainability-slider .wpss_slideshow_' ).cycle( 'pause' ) }) 
@@ -201,7 +297,14 @@ $( '#wpss_slideshow_weddings-slider .wpss_slideshow_' ).cycle({
 'easing' : 'linear',
 'speed' : '1000',
 'prev' : '#wpss_prev_weddings-slider', 'next' : '#wpss_next_weddings-slider','pager' : '#wpss_slideshow_pager_weddings-slider',
-'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null 
+'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null,
+'updateActivePagerLink' : function(pager, currSlide, clsName){
+                $(pager).each(function(){
+                    $(this).children().removeClass(clsName).attr('aria-label','Inactive slide')
+                        .eq(currSlide).addClass(clsName).attr('aria-label','Active slide');
+                });
+            },
+'pagerAnchorBuilder' : function(i,el){ linkcontent = 'Go to slide ' + (i + 1); return '<a href="#" aria-describedby="' + el.id + '">' + linkcontent + '</a>'; } 
 }); 
 
 $( '.wpss_pause_weddings-slider' ).click( function(){ $( '#wpss_slideshow_weddings-slider .wpss_slideshow_' ).cycle( 'pause' ) }) 
@@ -213,7 +316,14 @@ $( '#wpss_slideshow_why-montage-slider .wpss_slideshow_' ).cycle({
 'easing' : 'linear',
 'speed' : '1000',
 'prev' : '#wpss_prev_why-montage-slider', 'next' : '#wpss_next_why-montage-slider','pager' : '#wpss_slideshow_pager_why-montage-slider',
-'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null 
+'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null,
+'updateActivePagerLink' : function(pager, currSlide, clsName){
+                $(pager).each(function(){
+                    $(this).children().removeClass(clsName).attr('aria-label','Inactive slide')
+                        .eq(currSlide).addClass(clsName).attr('aria-label','Active slide');
+                });
+            },
+'pagerAnchorBuilder' : function(i,el){ linkcontent = 'Go to slide ' + (i + 1); return '<a href="#" aria-describedby="' + el.id + '">' + linkcontent + '</a>'; } 
 }); 
 
 $( '.wpss_pause_why-montage-slider' ).click( function(){ $( '#wpss_slideshow_why-montage-slider .wpss_slideshow_' ).cycle( 'pause' ) }) 
@@ -224,7 +334,14 @@ $( '#wpss_slideshow_why-pendry-slider .wpss_slideshow_' ).cycle({
 'easing' : 'linear',
 'speed' : '500',
 'pager' : '#wpss_slideshow_pager_why-pendry-slider',
-'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null 
+'onPagerEvent' : typeof wpssOnPagerEvent==='function' ? wpssOnPagerEvent : null,
+'updateActivePagerLink' : function(pager, currSlide, clsName){
+                $(pager).each(function(){
+                    $(this).children().removeClass(clsName).attr('aria-label','Inactive slide')
+                        .eq(currSlide).addClass(clsName).attr('aria-label','Active slide');
+                });
+            },
+'pagerAnchorBuilder' : function(i,el){ linkcontent = 'Go to slide ' + (i + 1); return '<a href="#" aria-describedby="' + el.id + '">' + linkcontent + '</a>'; } 
 }); 
 
 $( '.wpss_pause_why-pendry-slider' ).click( function(){ $( '#wpss_slideshow_why-pendry-slider .wpss_slideshow_' ).cycle( 'pause' ) }) 
@@ -300,6 +417,24 @@ $( '.wpss_resume_why-pendry-slider' ).click( function(){ $( '#wpss_slideshow_why
             #wpss_next_homepage-fullscreen-slider{ position:absolute; right: 0 ; top: 125px ; height:30px; width: 30px; cursor:pointer; z-index:1000; background: url(https://www.montagehotels.com/wp-content/themes/twentytwelve/images/nav/next-link-new.gif) center center no-repeat; }
 
             #wpss_prev_homepage-fullscreen-slider{ position:absolute; left: 0 ; top: 125px ; height:30px; width: 30px; cursor:pointer; z-index:1000; background: url(https://www.montagehotels.com/wp-content/themes/twentytwelve/images/nav/wpss_prev_arrow.png) center center no-repeat; }
+
+            
+
+            #wpss_slideshow_la-quinta-slider{ padding:10px; background-color:#F1F1F1; height:250px; overflow:hidden; position:relative; margin-bottom:5px; clear:both; width: 620px }
+
+            #wpss_slideshow_la-quinta-slider .wpss_img.half{ float:left; width:310px; }
+
+            #wpss_slideshow_la-quinta-slider .wpss_content_half{ padding: 10px; float:left; width:290px; }
+
+            #wpss_slideshow_pager_la-quinta-slider{ position:absolute; z-index:1000; right:17px; top:230px; }
+
+            #wpss_slideshow_pager_la-quinta-slider a{ float:left; height:20px; width:20px; text-align:center; line-height:20px; color:#FFF; background-color:#000; margin-right:5px; }
+
+            #wpss_slideshow_pager_la-quinta-slider a:hover, #wpss_slideshow_pager_la-quinta-slider a.activeSlide{ background-color:#1f1e1e; }
+
+            #wpss_next_la-quinta-slider{ position:absolute; right: 0 ; top: 125px ; height:30px; width: 30px; cursor:pointer; z-index:1000; background: url(https://www.montagehotels.com/wp-content/themes/twentytwelve/images/nav/next-link-new.gif) center center no-repeat; }
+
+            #wpss_prev_la-quinta-slider{ position:absolute; left: 0 ; top: 125px ; height:30px; width: 30px; cursor:pointer; z-index:1000; background: url(https://www.montagehotels.com/wp-content/themes/twentytwelve/images/nav/wpss_prev_arrow.png) center center no-repeat; }
 
             
 
@@ -481,7 +616,85 @@ $( '.wpss_resume_why-pendry-slider' ).click( function(){ $( '#wpss_slideshow_why
 
             #wpss_prev_why-pendry-slider{ position:absolute; left: 0 ; top: 125px ; height:30px; width: 30px; cursor:pointer; z-index:1000; background: url(https://www.montagehotels.com/wp-content/themes/twentytwelve/images/nav/wpss_prev_arrow.png) center center no-repeat; }
 
-            </style><!-- Markup (JSON-LD) structured in schema.org START -->
+            </style><!-- Markup (JSON-LD) structured in schema.org ver.3.2.3 START -->
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "SiteNavigationElement",
+    "name": [
+        "Destinations",
+        "Beverly Hills",
+        "Deer Valley",
+        "Kapalua Bay",
+        "Laguna Beach",
+        "Los Cabos",
+        "Palmetto Bluff",
+        "Residences",
+        "Beverly Hills",
+        "Deer Valley",
+        "Kapalua Bay",
+        "Laguna Beach",
+        "Los Cabos",
+        "Palmetto Bluff",
+        "Our Company",
+        "Overview",
+        "Leadership",
+        "Hearts Of Montage",
+        "Memory Makers Scholarship",
+        "Sustainability",
+        "Partnerships",
+        "Press Room",
+        "Careers",
+        "Gift Cards",
+        "Gatherings",
+        "Meetings",
+        "Weddings",
+        "Request For Proposal",
+        "Beverly Hills",
+        "Deer Valley",
+        "Kapalua Bay",
+        "Laguna Beach",
+        "Palmetto Bluff",
+        "中文"
+    ],
+    "url": [
+        "#",
+        "/beverlyhills/",
+        "https://www.montagehotels.com/deervalley/",
+        "https://www.montagehotels.com/kapaluabay/",
+        "https://www.montagehotels.com/lagunabeach/",
+        "https://www.montagehotels.com/loscabos/",
+        "https://www.montagehotels.com/palmettobluff/",
+        "#",
+        "https://www.montagehotels.com/beverlyhills/residences/residential-ownership/",
+        "http://montageresidencesdeervalley.com/",
+        "http://montageresidenceskapaluabay.com/",
+        "https://www.montagehotels.com/lagunabeach/residences/ownership/",
+        "https://www.montageresidencesloscabos.com/",
+        "http://www.montageresidencespalmettobluff.com/",
+        "#",
+        "https://www.montagehotels.com/our-company/overview/",
+        "https://www.montagehotels.com/our-company/leadership/",
+        "https://www.montagehotels.com/our-company/hearts-of-montage/",
+        "http://www.montagehotels.com/montage-memory-makers-scholarship/",
+        "https://www.montagehotels.com/our-company/sustainability/",
+        "https://www.montagehotels.com/our-company/corporate-partnerships/",
+        "https://www.montagehotels.com/press-room/",
+        "https://www.montagehotels.com/careers/",
+        "https://www.montagehotels.com/giftcards/en",
+        "#",
+        "https://www.montagehotels.com/meetings-3/",
+        "https://www.montagehotels.com/weddings/",
+        "#",
+        "/beverlyhills/gatherings/rfp/",
+        "/deervalley/gatherings/rfp/",
+        "/kapaluabay/gatherings/rfp/",
+        "/lagunabeach/gatherings/rfp/",
+        "/palmettobluff/gatherings/rfp/",
+        "http://montagehotels.com/zh/"
+    ]
+}
+</script>
 <!-- Markup (JSON-LD) structured in schema.org END -->
 <style type="text/css">
 .qtranxs_flag_en {background-image: url(http://www.montagehotels.com/wp-content/plugins/qtranslate/flags/gb.png); background-repeat: no-repeat;}
@@ -506,6 +719,7 @@ $( '.wpss_resume_why-pendry-slider' ).click( function(){ $( '#wpss_slideshow_why
         <script src="/wp-content/themes/twentytwelve/js/main-page/jquery.xdomainrequest.min.js" type="text/javascript"></script><!-- ajax transport for IE8-9 -->
         <script src="/wp-content/themes/reservations/js/g2/calendar.js" type="text/javascript"></script>
         <script src="/wp-content/themes/reservations/js/g2/calendar-dining.js" type="text/javascript"></script>
+        <script src="/wp-content/themes/reservations/js/g2/calendar-spa.js" type="text/javascript"></script>
         <script src="/wp-content/themes/reservations/js/g2/hotels/calendar-widget-menu.js" type="text/javascript"></script>
         <script src="/wp-content/themes/reservations/js/g2/is-visible.js" type="text/javascript"></script>
         <script src="/wp-content/themes/reservations/js/g2/swipe.js" type="text/javascript"></script>
@@ -541,8 +755,9 @@ $( '.wpss_resume_why-pendry-slider' ).click( function(){ $( '#wpss_slideshow_why
     var currentLanguage = 'en';
     var textAccommodations = 'Accommodations';
     var textDining = 'Dining';
+    var textSpa = 'Spa';
         var jsHotelCodes = {"all":{"languages":null},"lagunabeach":{"languages":["en","zh"]},"beverlyhills":{"languages":["en","zh","ar"]},"deervalley":{"languages":["en","zh"]},"kapaluabay":{"languages":["en","zh","ja","ko"]},"palmettobluff":{"languages":["en","zh"]}};
-    var jsTranslations = {"STAY DATES":"STAY DATES","GUEST INFORMATION":"GUEST INFORMATION","SELECT ROOM":"SELECT ROOM","Adults:":"Adults:","Children:":"Children:","Rooms:":"Rooms:","Promo Code:":"Promo Code:","Apply Code":"Apply Code","Code":"Code","applied.":"applied.","Clear code":"Clear code","cancel\/modify reservation":"cancel\/modify reservation","PREVIOUS":"&lt; PREVIOUS","NEXT":"NEXT &gt;","YOUR MONTAGE EXPERIENCE":"YOUR MONTAGE EXPERIENCE","ARRIVAL":"ARRIVAL","DEPARTURE":"DEPARTURE","Montage":"Montage","CHECK AVAILABILITY":"CHECK AVAILABILITY","ADULT":"ADULT","ADULTS":"ADULTS","CHILD":"CHILD","CHILDREN":"CHILDREN","LEGEND":"LEGEND","Unavailable":"Unavailable","Available":"Available","Promo Dates":"Promo Dates","Min Stay Req":"Min Stay Req","Selected":"Selected","Loading":"Loading","January":"January","February":"February","March":"March","April":"April","May":"May","June":"June","July":"July","August":"August","September":"September","October":"October","November":"November","December":"December","Mon":"Mon","Tue":"Tue","Wed":"Wed","Thu":"Thu","Fri":"Fri","Sat":"Sat","Sun":"Sun","Rooms":"Rooms","Suites":"Suites","Cottages":"Cottages","Cottage Suites":"Cottage Suites","Residences":"Residences","Deluxe Residences":"Deluxe Residences","Villas":"Villas","Accessible Rooms":"Accessible Rooms","room":"room","rooms":"rooms","from":"from","REVISE SEARCH":"REVISE&nbsp;SEARCH","Rates from":"Rates from","ACCOMMODATION":"ACCOMMODATION","PHOTOS":"PHOTOS","Select Your Room":"Select Your Room","no-availability-text":"Thank you for your inquiry. For personal assistance, please contact our Reservations Line at","back":"back","USD":"USD","night":"night","REVISE":"REVISE","PREFIX":"PREFIX","Prefix":"Prefix","Mr.":"Mr.","Mrs.":"Mrs.","Ms.":"Ms.","Dr.":"Dr.","FIRST NAME":"FIRST NAME","LAST NAME":"LAST NAME","EMAIL ADDRESS":"EMAIL ADDRESS","PHONE NUMBER":"PHONE NUMBER","ADDRESS":"ADDRESS","SUITE\/APT (OPTIONAL)":"SUITE\/APT (OPTIONAL)","ZIP\/POSTAL CODE":"ZIP\/POSTAL CODE","CITY":"CITY","STATE":"STATE","Select":"Select","COUNTRY":"COUNTRY","Select Country":"Select Country","CREDIT CARD INFORMATION":"CREDIT CARD INFORMATION","NAME ON CREDIT CARD":"NAME ON CREDIT CARD","CREDIT CARD NUMBER":"CREDIT CARD NUMBER","CREDIT CARD TYPE":"CREDIT CARD TYPE","Not detected":"Not detected","EXPIRATION DATE":"EXPIRATION DATE","Month":"Month","Year":"Year","SECURITY CODE":"SECURITY CODE","CANCELLATION POLICY":"CANCELLATION POLICY","checkbox-recieve-emails-text":"I would like to receive special packages and exclusive content from Montage Hotels & Resorts.","checkbox-terms-agreed-text":"I agree to the Cancellation Policy, the <a href=\"\/legal\/\" target=\"blank\">Terms of Service<\/a> and the <a href=\"\/privacy-policy\/\" target=\"blank\">Privacy Policy<\/a> for Montage Hotels & Resorts.","SUMMARY OF CHARGES":"SUMMARY OF CHARGES","Total Room Rates:":"Total Room Rates:","Resort Fees:":"Resort Fees:","Estimated Government Taxes:":"Estimated Government Taxes:","Estimated Total:":"Estimated Total:","CONFIRM RESERVATION":"CONFIRM RESERVATION","step-3-description-text":"Estimated total cost of room, taxes, service charges and applicable package inclusions. Estimated total cost does not include airport transfers or requested amenities. Actual taxes, service charges, levies, resort fees and surcharges are calculated upon check-out and are subject to change without notice. Extra person\/extra bed charges are additional to the rates displayed unless otherwise noted. Early departure fees may apply. Should you shorten your stay prior to arrival or during your stay, your room rate may change.","YOUR STAY IN":"YOUR STAY IN","WE LOOK FORWARD TO YOUR ARRIVAL at Montage":"WE LOOK FORWARD TO YOUR ARRIVAL at Montage","YOUR CONFIRMATION NUMBER IS:":"YOUR CONFIRMATION NUMBER IS:","GUEST NAME:":"GUEST NAME:","EMAIL ADDRESS:":"EMAIL ADDRESS:","PHONE NUMBER:":"PHONE NUMBER:","ADDRESS:":"ADDRESS:","Visa":"Visa","Mastercard":"Mastercard","American Express":"American Express","Discover":"Discover","Diners Club":"Diners Club","CREDIT CARD:":"CREDIT CARD:","NAME ON CREDIT CARD:":"NAME ON CREDIT CARD:","EXPIRATION DATE:":"EXPIRATION DATE:","step-4-description-text":"IF WE MAY BE OF ASSISTANCE PRIOR TO YOUR ARRIVAL PLEASE CONTACT US AT ","Error occured":"Error occurred","MENU":"MENU","RESERVATIONS":"RESERVATIONS","Reservations":"Reservations","Close":"Close","Please Select":"Please Select","Stay Dates Below":"Stay Dates Below","Guests":"Guests","Promo":"Promo","Group Code":"Group Code?","Children":"Children","Adults":"Adults","Promo Codes":"Promo Codes","Promo Code":"Promo Code","Close This":"Close This","CANCEL":"CANCEL","PLEASE SELECT ARRIVAL\/DEPARTURE DATES":"PLEASE SELECT ARRIVAL\/DEPARTURE DATES","Restaurant":"Restaurant","Dining Time":"Dining Time","Arrival Time":"Arrival Time","AM":"AM","PM":"PM","Party Size":"Party Size","TABLE ON":"TABLE ON","RESERVATION DATE":"RESERVATION DATE","Destination":"Destination","Reservation Type":"Reservation Type","connection-error":"Connection error.","terms-required":"Terms and privacy policy confirmation required.","select-arrive-departure":"Please select arrival and departure dates","Select Rate":"Select Rate","Accommodations":"Accommodations","Dining":"Dining","Night Stay Subtotal":"Night Stay Subtotal","ARRIVE":"ARRIVE","DEPART":"DEPART","ALL":"ALL","Availability Calendar":"Availability Calendar","YOUR STAY":"YOUR STAY","WOULD YOU LIKE TO UPGRADE TO A":"WOULD YOU LIKE TO UPGRADE TO A","ROOM":"ROOM","YES, UPGRADE MY ROOM":"YES, UPGRADE MY ROOM","Upgrade your":"Upgrade your","room to our":"room to our","more per night":"more per night","GUEST":"GUEST","GUESTS":"GUESTS","Total":"Total","Resort fee at":"Resort fee at","includes":"includes","to our":"to our","STAY SUMMARY":"STAY SUMMARY","Confirmation number:":"Confirmation Number:","your reservation is confirmed":"your reservation is confirmed","Cancellation Policy:":"Cancellation Policy:","Privacy Policy":"Privacy Policy","Your Privacy Rights":"Your Privacy Rights","Terms":"Terms","shadowbox-msg-text-beverly":"We have updated our <a href=\"\/legal\/\" title=\"Terms of service\" class=\"hoverinvert\">Terms of service<\/a>\r\n and <a href=\"\/privacy-policy\/\" title=\"Privacy Policy\" class=\"hoverinvert\">Privacy Policy<\/a>, which you agree to and accept by continuing to use this site. Click the links to review.","shadowbox-msg-text-beverly-tpl":"We have updated our <a href=\".\/terms-of-service\/\" title=\"Terms of service\" class=\"hoverinvert\">Terms of service<\/a>\r\n and <a href=\".\/privacy-policy\/\" title=\"Privacy Policy\" class=\"hoverinvert\">Privacy Policy<\/a>, which you agree to and accept by continuing to use this site. Click the links to review.","shadowbox-msg-text-deervalley":"We have updated our <a href=\"\/legal\/\" title=\"Terms of service\" class=\"hoverinvert\">Terms of service<\/a>\r\n and <a href=\"\/privacy-policy\/\" title=\"Privacy Policy\" class=\"hoverinvert\">Privacy Policy<\/a>, which you agree to and accept by continuing to use this site. Click the links to review.","shadowbox-msg-text-kapalua":"We have updated our <a href=\".\/terms-of-service\/\" title=\"Terms of service\" class=\"hoverinvert\">Terms of service<\/a>\r\n and <a href=\".\/privacy-policy\/\" title=\"Privacy Policy\" class=\"hoverinvert\">Privacy Policy<\/a>, which you agree to and accept by continuing to use this site. Click the links to review.","shadowbox-msg-text-laguna":"We have updated our <a href=\"\/legal\/\" title=\"Terms of service\" class=\"hoverinvert\">Terms of service<\/a>\r\n and <a href=\"\/privacy-policy\/\" title=\"Privacy Policy\" class=\"hoverinvert\">Privacy Policy<\/a>, which you agree to and accept by continuing to use this site. Click the links to review.","shadowbox-msg-text-palmetto":"We have updated our <a href=\"\/legal\/\" title=\"Terms of service\" class=\"hoverinvert\">Terms of service<\/a>\r\n and <a href=\"\/privacy-policy\/\" title=\"Privacy Policy\" class=\"hoverinvert\">Privacy Policy<\/a>, which you agree to and accept by continuing to use this site. Click the links to review.","shadowbox-msg-text-spamontage":"We have updated our <a href=\"\/legal\/\" title=\"Terms of service\" class=\"hoverinvert\">Terms of service<\/a>\r\n and <a href=\"\/privacy-policy\/\" title=\"Privacy Policy\" class=\"hoverinvert\">Privacy Policy<\/a>, which you agree to and accept by continuing to use this site. Click the links to review.","shadowbox-msg-text-twentytwelve":"We have updated our <a href=\"\/legal\/\" title=\"Terms of service\" class=\"hoverinvert\">Terms of service<\/a>\r\n and <a href=\"\/privacy-policy\/\" title=\"Privacy Policy\" class=\"hoverinvert\">Privacy Policy<\/a>, which you agree to and accept by continuing to use this site. Click the links to review.","shadowbox-msg-text-weddings":"We have updated our <a href=\"\/legal\/\" title=\"Terms of service\" class=\"hoverinvert\">Terms of service<\/a>\r\n and <a href=\"\/privacy-policy\/\" title=\"Privacy Policy\" class=\"hoverinvert\">Privacy Policy<\/a>, which you agree to and accept by continuing to use this site. Click the links to review.","CONNECT":"CONNECT","text-synxis-error":"The Montage booking engine is currently undergoing maintenance.<br \/> <i>During this time, please call Montage Reservations at (866) 551-8244 for personal assistance.<\/i>","SELECT DESTINATION":"SELECT DESTINATION","check-in":"check-in","check-out":"check-out","clear promo":"clear promo","apply promo":"apply promo","Montage best":"Montage best","rate guarantee":"rate guarantee","montage-best-rate-popup-title":"Montage best rate guarantee","montage-best-rate-popup-text":"<p>At Montage Hotels & Resorts, we strive to provide guests with an elevated travel experience and unparalleled level of service, not only when at one of our destinations but during your online visit as well.<\/p>\r\n                        <p>Booking directly through Montage Hotels & Resorts guarantees you the lowest possible rate for your stay, no hidden fees, most flexible cancellation terms, and access to a dedicated team for reservations and personalized service. In addition, if you find a lower rate anywhere else within 24 hours of your booking, please <a href=\"\/submit-a-claim\/\" target=\"blank\">submit a claim<\/a> and we will match that rate for any of our destinations.<\/p>","":""};
+    var jsTranslations = {"STAY DATES":"STAY DATES","GUEST INFORMATION":"GUEST INFORMATION","SELECT ROOM":"SELECT ROOM","Adults:":"Adults:","Children:":"Children:","Rooms:":"Rooms:","Promo Code:":"Promo Code:","Apply Code":"Apply Code","Code":"Code","applied.":"applied.","Clear code":"Clear code","cancel\/modify reservation":"cancel\/modify reservation","PREVIOUS":"&lt; PREVIOUS","NEXT":"NEXT &gt;","YOUR MONTAGE EXPERIENCE":"YOUR MONTAGE EXPERIENCE","ARRIVAL":"ARRIVAL","DEPARTURE":"DEPARTURE","Montage":"Montage","CHECK AVAILABILITY":"CHECK AVAILABILITY","ADULT":"ADULT","ADULTS":"ADULTS","CHILD":"CHILD","CHILDREN":"CHILDREN","LEGEND":"LEGEND","Unavailable":"Unavailable","Available":"Available","Promo Dates":"Promo Dates","Min Stay Req":"Min Stay Req","Selected":"Selected","Loading":"Loading","January":"January","February":"February","March":"March","April":"April","May":"May","June":"June","July":"July","August":"August","September":"September","October":"October","November":"November","December":"December","Mon":"Mon","Tue":"Tue","Wed":"Wed","Thu":"Thu","Fri":"Fri","Sat":"Sat","Sun":"Sun","Rooms":"Rooms","Suites":"Suites","Cottages":"Cottages","Cottage Suites":"Cottage Suites","Residences":"Residences","Deluxe Residences":"Deluxe Residences","Villas":"Villas","Accessible Rooms":"Accessible Rooms","room":"room","rooms":"rooms","from":"from","REVISE SEARCH":"REVISE&nbsp;SEARCH","Rates from":"Rates from","ACCOMMODATION":"ACCOMMODATION","PHOTOS":"PHOTOS","Select Your Room":"Select Your Room","no-availability-text":"Thank you for your inquiry. For personal assistance, please contact our Reservations Line at","back":"back","USD":"USD","night":"night","REVISE":"REVISE","PREFIX":"PREFIX","Prefix":"Prefix","Mr.":"Mr.","Mrs.":"Mrs.","Ms.":"Ms.","Dr.":"Dr.","FIRST NAME":"FIRST NAME","LAST NAME":"LAST NAME","EMAIL ADDRESS":"EMAIL ADDRESS","PHONE NUMBER":"PHONE NUMBER","ADDRESS":"ADDRESS","SUITE\/APT (OPTIONAL)":"SUITE\/APT (OPTIONAL)","ZIP\/POSTAL CODE":"ZIP\/POSTAL CODE","CITY":"CITY","STATE":"STATE","Select":"Select","COUNTRY":"COUNTRY","Select Country":"Select Country","CREDIT CARD INFORMATION":"CREDIT CARD INFORMATION","NAME ON CREDIT CARD":"NAME ON CREDIT CARD","CREDIT CARD NUMBER":"CREDIT CARD NUMBER","CREDIT CARD TYPE":"CREDIT CARD TYPE","Not detected":"Not detected","EXPIRATION DATE":"EXPIRATION DATE","Month":"Month","Year":"Year","SECURITY CODE":"SECURITY CODE","CANCELLATION POLICY":"CANCELLATION POLICY","checkbox-recieve-emails-text":"I would like to receive special packages and exclusive content from Montage Hotels & Resorts.","checkbox-terms-agreed-text":"I agree to the Cancellation Policy, the <a href=\"\/legal\/\" target=\"blank\">Terms of Service<\/a> and the <a href=\"\/privacy-policy\/\" target=\"blank\">Privacy Policy<\/a> for Montage Hotels & Resorts.","SUMMARY OF CHARGES":"SUMMARY OF CHARGES","Total Room Rates:":"Total Room Rates:","Resort Fees:":"Resort Fees:","Estimated Government Taxes:":"Estimated Government Taxes:","Estimated Total:":"Estimated Total:","CONFIRM RESERVATION":"CONFIRM RESERVATION","step-3-description-text":"Estimated total cost of room, taxes, service charges and applicable package inclusions. Estimated total cost does not include airport transfers or requested amenities. Actual taxes, service charges, levies, resort fees and surcharges are calculated upon check-out and are subject to change without notice. Extra person\/extra bed charges are additional to the rates displayed unless otherwise noted. Early departure fees may apply. Should you shorten your stay prior to arrival or during your stay, your room rate may change.","YOUR STAY IN":"YOUR STAY IN","WE LOOK FORWARD TO YOUR ARRIVAL at Montage":"WE LOOK FORWARD TO YOUR ARRIVAL at Montage","YOUR CONFIRMATION NUMBER IS:":"YOUR CONFIRMATION NUMBER IS:","GUEST NAME:":"GUEST NAME:","EMAIL ADDRESS:":"EMAIL ADDRESS:","PHONE NUMBER:":"PHONE NUMBER:","ADDRESS:":"ADDRESS:","Visa":"Visa","Mastercard":"Mastercard","American Express":"American Express","Discover":"Discover","Diners Club":"Diners Club","CREDIT CARD:":"CREDIT CARD:","NAME ON CREDIT CARD:":"NAME ON CREDIT CARD:","EXPIRATION DATE:":"EXPIRATION DATE:","step-4-description-text":"IF WE MAY BE OF ASSISTANCE PRIOR TO YOUR ARRIVAL PLEASE CONTACT US AT ","Error occured":"Error occurred","MENU":"MENU","RESERVATIONS":"RESERVATIONS","Reservations":"Reservations","Close":"Close","Please Select":"Please Select","Stay Dates Below":"Stay Dates Below","Guests":"Guests","Promo":"Promo","Group Code":"Group Code?","Children":"Children","Adults":"Adults","Promo Codes":"Promo Codes","Promo Code":"Promo Code","Close This":"Close This","CANCEL":"CANCEL","PLEASE SELECT ARRIVAL\/DEPARTURE DATES":"PLEASE SELECT ARRIVAL\/DEPARTURE DATES","Restaurant":"Restaurant","Dining Time":"Dining Time","Arrival Time":"Arrival Time","AM":"AM","PM":"PM","Party Size":"Party Size","TABLE ON":"TABLE ON","RESERVATION DATE":"RESERVATION DATE","Destination":"Destination","Reservation Type":"Reservation Type","connection-error":"Connection error.","terms-required":"Terms and privacy policy confirmation required.","select-arrive-departure":"Please select arrival and departure dates","Select Rate":"Select Rate","Accommodations":"Accommodations","Dining":"Dining","Night Stay Subtotal":"Night Stay Subtotal","ARRIVE":"ARRIVE","DEPART":"DEPART","ALL":"ALL","Availability Calendar":"Availability Calendar","YOUR STAY":"YOUR STAY","WOULD YOU LIKE TO UPGRADE TO A":"WOULD YOU LIKE TO UPGRADE TO A","ROOM":"ROOM","YES, UPGRADE MY ROOM":"YES, UPGRADE MY ROOM","Upgrade your":"Upgrade your","room to our":"room to our","more per night":"more per night","GUEST":"GUEST","GUESTS":"GUESTS","Total":"Total","Resort fee at":"Resort fee at","includes":"includes","to our":"to our","STAY SUMMARY":"STAY SUMMARY","Confirmation number:":"Confirmation Number:","your reservation is confirmed":"your reservation is confirmed","Cancellation Policy:":"Cancellation Policy:","Privacy Policy":"Privacy Policy","Your Privacy Rights":"Your Privacy Rights","Terms":"Terms","shadowbox-msg-text-beverly":"We have updated our <a href=\"\/legal\/\" title=\"Terms of service\" class=\"hoverinvert\">Terms of service<\/a>\r\n and <a href=\"\/privacy-policy\/\" title=\"Privacy Policy\" class=\"hoverinvert\">Privacy Policy<\/a>, which you agree to and accept by continuing to use this site. Click the links to review.","shadowbox-msg-text-beverly-tpl":"We have updated our <a href=\".\/terms-of-service\/\" title=\"Terms of service\" class=\"hoverinvert\">Terms of service<\/a>\r\n and <a href=\".\/privacy-policy\/\" title=\"Privacy Policy\" class=\"hoverinvert\">Privacy Policy<\/a>, which you agree to and accept by continuing to use this site. Click the links to review.","shadowbox-msg-text-deervalley":"We have updated our <a href=\"\/legal\/\" title=\"Terms of service\" class=\"hoverinvert\">Terms of service<\/a>\r\n and <a href=\"\/privacy-policy\/\" title=\"Privacy Policy\" class=\"hoverinvert\">Privacy Policy<\/a>, which you agree to and accept by continuing to use this site. Click the links to review.","shadowbox-msg-text-kapalua":"We have updated our <a href=\"\/legal\/\" title=\"Terms of service\" class=\"hoverinvert\">Terms of service<\/a>\r\n and <a href=\"\/privacy-policy\/\" title=\"Privacy Policy\" class=\"hoverinvert\">Privacy Policy<\/a>, which you agree to and accept by continuing to use this site. Click the links to review.","shadowbox-msg-text-laguna":"We have updated our <a href=\"\/legal\/\" title=\"Terms of service\" class=\"hoverinvert\">Terms of service<\/a>\r\n and <a href=\"\/privacy-policy\/\" title=\"Privacy Policy\" class=\"hoverinvert\">Privacy Policy<\/a>, which you agree to and accept by continuing to use this site. Click the links to review.","shadowbox-msg-text-palmetto":"We have updated our <a href=\"\/legal\/\" title=\"Terms of service\" class=\"hoverinvert\">Terms of service<\/a>\r\n and <a href=\"\/privacy-policy\/\" title=\"Privacy Policy\" class=\"hoverinvert\">Privacy Policy<\/a>, which you agree to and accept by continuing to use this site. Click the links to review.","shadowbox-msg-text-spamontage":"We have updated our <a href=\"\/legal\/\" title=\"Terms of service\" class=\"hoverinvert\">Terms of service<\/a>\r\n and <a href=\"\/privacy-policy\/\" title=\"Privacy Policy\" class=\"hoverinvert\">Privacy Policy<\/a>, which you agree to and accept by continuing to use this site. Click the links to review.","shadowbox-msg-text-twentytwelve":"We have updated our <a href=\"\/legal\/\" title=\"Terms of service\" class=\"hoverinvert\">Terms of service<\/a>\r\n and <a href=\"\/privacy-policy\/\" title=\"Privacy Policy\" class=\"hoverinvert\">Privacy Policy<\/a>, which you agree to and accept by continuing to use this site. Click the links to review.","shadowbox-msg-text-weddings":"We have updated our <a href=\"\/legal\/\" title=\"Terms of service\" class=\"hoverinvert\">Terms of service<\/a>\r\n and <a href=\"\/privacy-policy\/\" title=\"Privacy Policy\" class=\"hoverinvert\">Privacy Policy<\/a>, which you agree to and accept by continuing to use this site. Click the links to review.","CONNECT":"CONNECT","text-synxis-error":"The Montage booking engine is currently undergoing maintenance.<br \/> <i>During this time, please call Montage Reservations at (866) 551-8244 for personal assistance.<\/i>","SELECT DESTINATION":"SELECT DESTINATION","check-in":"check-in","check-out":"check-out","clear promo":"clear promo","apply promo":"apply promo","SELECT DATE":"SELECT DATE","SELECT SERVICE":"SELECT SERVICE","VISITOR INFORMATION":"VISITOR INFORMATION","Service Price:":"Service Price:","checkbox-spa-terms-agreed-text":"I agree to the <a href=\"\/booking\/en\/spa\/SITENAME\/policy\/\" target=\"blank\">Privacy Policy<\/a> and confirm reservation.","YOUR TREATMENT IN":"YOUR TREATMENT IN","DATE":"DATE","TIME":"TIME","TREATMENT":"TREATMENT","Confirm Treatment":"Confirm Treatment","Montage best":"Montage best","rate guarantee":"rate guarantee","montage-best-rate-popup-title":"Montage best rate guarantee","montage-best-rate-popup-text":"<p>At Montage Hotels & Resorts, we strive to provide guests with an elevated travel experience and unparalleled level of service, not only when at one of our destinations but during your online visit as well.<\/p>\r\n                        <p>Booking directly through Montage Hotels & Resorts guarantees you the lowest possible rate for your stay, no hidden fees, most flexible cancellation terms, and access to a dedicated team for reservations and personalized service. In addition, if you find a lower rate anywhere else within 24 hours of your booking, please <a href=\"\/submit-a-claim\/\" target=\"blank\">submit a claim<\/a> and we will match that rate for any of our destinations.<\/p>","":""};
 </script>
 <style type="text/css">
     .calendar-month table td.selected-end::before { content: "DEPART" !important; }
@@ -587,8 +802,8 @@ $( '.wpss_resume_why-pendry-slider' ).click( function(){ $( '#wpss_slideshow_why
                     <div id="main">
                 
 <ul class="qtranxs_language_chooser" id="qtranslate-chooser">
-<li class="lang-en active"><a href="https://www.montagehotels.com/en/privacy-policy/" hreflang="en" title="English" class="qtranxs_text qtranxs_text_en"><span>English</span></a></li>
-<li class="lang-zh"><a href="https://www.montagehotels.com/zh/privacy-policy/" hreflang="zh" title="中文" class="qtranxs_text qtranxs_text_zh"><span>中文</span></a></li>
+<li class="lang-en active" lang="en"><a href="https://www.montagehotels.com/en/privacy-policy/" hreflang="en" title="English" class="qtranxs_text qtranxs_text_en"><span>English</span></a></li>
+<li class="lang-zh" lang="zh"><a href="https://www.montagehotels.com/zh/privacy-policy/" hreflang="zh" title="中文" class="qtranxs_text qtranxs_text_zh"><span>中文</span></a></li>
 </ul><div class="qtranxs_widget_end"></div>
                                                                                         <div class="header-img" style="background-image: url( https://d397toulsmarj9.cloudfront.net/p/2015/02/legal-masthead1.jpg);">
                                                 <div class="header-img-opac"></div>
@@ -603,7 +818,7 @@ $( '.wpss_resume_why-pendry-slider' ).click( function(){ $( '#wpss_slideshow_why
                             <span class="ic-menu-reservations montage-main" aria-label="reservations" role="link" tabindex="0"></span>
                             <div class="clear"></div>
                             <ul class="nav-reservations">
-                                <li><a href="#" class="has-subnav montage-main" id="show-reservations" data-shown="0">RESERVATIONS</a>
+                                <li><a href="#" class="has-subnav montage-main" id="show-reservations" aria-expanded="false" data-shown="0">RESERVATIONS</a>
                                     <ul class="sub-menu montage-main" id="show-reservations-sub-menu">
                                                                                     <li><a href="#" data-sitename="beverlyhills">Beverly Hills</a></li>
                                                                                         <li><a href="#" data-sitename="deervalley">Deer Valley</a></li>
@@ -892,6 +1107,80 @@ $( '.wpss_resume_why-pendry-slider' ).click( function(){ $( '#wpss_slideshow_why
                 <a href="javascript:void(0)" class="subm-step1">RESERVATION DATE</a>
             </div>
             <!-- calendar dining end -->
+
+            <!-- calendar spa -->
+            <div id="calendar-spa" class="hidden">
+                <form method="post" action="" class="calendar-form clearfix">
+                    <input type="hidden" name="hotel" class="hotel" value="">
+                    <fieldset class="calendar-form-fields">
+                        <input type="hidden" name="arrival-date" class="arrival-date" value="">
+                        <div class="fl fl-spa-category">
+                            <label for="spa-category-top">Treatment Category</label>
+                            <select id="spa-category-top" name="restaurant-id" class="restaurant-id" autocomplete="off" disabled="disabled">
+                            </select>
+                        </div>
+                        <div class="fl fl-spa-service">
+                            <label for="spa-service-top">Treatment Type</label>
+                            <select id="spa-service-top" name="spa-service-id" class="spa-service-id" autocomplete="off" disabled="disabled">
+                            </select>
+                        </div>
+                    </fieldset>
+
+                </form>
+                <div class="calendar-content">
+                    <div class="panel-top clearfix">
+                        <a href="javascript:void(0)" class="btn-res">CANCEL</a>
+                    </div>
+                    <div class="monthes-wrap">
+                        <div class="monthes-holder"></div>
+                        <div class="btns clearfix">
+                            <a href="javascript:void(0)" data-action="prev" class="c-btn btn-prev">&lt; PREVIOUS</a>
+                            <a href="javascript:void(0)" data-action="next" class="c-btn btn-next">NEXT &gt;</a>
+                        </div>
+                        <div class="calendar-error hidden"></div>
+                    </div>
+
+
+                    <div class="expier-block">
+                        <div class="tit">
+                            YOUR MONTAGE EXPERIENCE                        </div>
+                        <div class="border-wrap">
+                            <div class="arr-dep clearfix" role="region" aria-label="Arrival and Departure Dates">
+                                <div class="arr" aria-live="polite">
+                                    <div class="tit">
+                                        SPA ON                                    </div>
+                                    <div class="month table-month">
+
+                                    </div>
+                                    <div class="date table-day">
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="q">Montage <span class="hotel-name"></span></div>
+                            <div class="q visitors-info">
+                                <span class="restaurant-id-selected"></span><!--<span class="arrival-time-selected"></span><span class="party-size-selected"></span>-->
+                            </div>
+                            <img src="https://www.montagehotels.com/wp-content/themes/twentytwelve/images/main-page/ajax-loader.gif" alt="Loading" width="60" height="60" class="spa-time-select-loading hidden">
+                            <div class="spa-calendar-availability-error"></div>
+                            <div class="ckeck-availability-btn calendar-complete">
+                                <div class="tit fl-spa-time">
+                                    <label for="spa-time-select">Preferred Treatment Time</label>
+                                    <br>
+                                    <select id="spa-time-select" name="spa-time" class="arrival-time" autocomplete="off" disabled="disabled"></select>
+                                </div>
+                                <a href="javascript:void(0)" class="check-rates calendar-complete">CHECK AVAILABILITY</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="clear"></div>
+
+                </div>
+                <div class="calendar-content-loading hidden"><img src="https://www.montagehotels.com/wp-content/themes/twentytwelve/images/main-page/ajax-loader.gif" alt="Loading"></div>
+                <a href="javascript:void(0)" class="subm-step1">RESERVATION DATE</a>
+            </div>
+            <!-- calendar spa end -->
         </div>
 
     </li>
@@ -924,6 +1213,7 @@ $( '.wpss_resume_why-pendry-slider' ).click( function(){ $( '#wpss_slideshow_why
 	<li id="menu-item-28121" class="_blank menu-item menu-item-type-custom menu-item-object-custom menu-item-28121"><a href="http://montageresidencesdeervalley.com/">Deer Valley</a></li>
 	<li id="menu-item-28122" class="_blank menu-item menu-item-type-custom menu-item-object-custom menu-item-28122"><a href="http://montageresidenceskapaluabay.com/">Kapalua Bay</a></li>
 	<li id="menu-item-28123" class="_blank menu-item menu-item-type-custom menu-item-object-custom menu-item-28123"><a href="https://www.montagehotels.com/lagunabeach/residences/ownership/">Laguna Beach</a></li>
+	<li id="menu-item-30719" class="_blank menu-item menu-item-type-custom menu-item-object-custom menu-item-30719"><a href="https://www.montageresidencesloscabos.com/">Los Cabos</a></li>
 	<li id="menu-item-28124" class="_blank menu-item menu-item-type-custom menu-item-object-custom menu-item-28124"><a href="http://www.montageresidencespalmettobluff.com/">Palmetto Bluff</a></li>
 </ul>
 </li>
@@ -1380,7 +1670,7 @@ var contact_form_7_recaptcha_data = {"sitekey":"6LdCAiUTAAAAABNUxHWPOwjG_gFbDi5N
 </script>
 <script type="text/javascript" src="https://www.montagehotels.com/wp-content/plugins/contact-form-7-recaptcha/script.js?ver=1.0.0"></script>
 <div class="wpcf7" id="wpcf7-f28955-o1"><form action="/privacy-policy/#wpcf7-f28955-o1" method="post" class="wpcf7-form" novalidate="novalidate">
-<div style="display: none;">
+<div class="wpcf7-response-output wpcf7-display-none"></div><div style="display: none;">
 <input type="hidden" name="_wpcf7" value="28955">
 <input type="hidden" name="_wpcf7_version" value="3.7.2">
 <input type="hidden" name="_wpcf7_locale" value="en_US">
@@ -1389,13 +1679,13 @@ var contact_form_7_recaptcha_data = {"sitekey":"6LdCAiUTAAAAABNUxHWPOwjG_gFbDi5N
 </div>
 <ul class="clearfix">
 <li>
-<label><span class="req-img">*</span>FIRST NAME</label><span class="wpcf7-form-control-wrap FirstName"><input type="text" name="FirstName" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required home-signup-popup-input" aria-required="true" aria-invalid="false"></span>
+<label for="corporate_FirstName"><span class="req-img">*</span>FIRST NAME</label><span class="wpcf7-form-control-wrap FirstName"><input type="text" name="FirstName" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required home-signup-popup-input" id="corporate_FirstName" aria-required="true" aria-invalid="false"></span>
 </li>
 <li>
-<label><span class="req-img">*</span>LAST NAME</label><span class="wpcf7-form-control-wrap LastName"><input type="text" name="LastName" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required home-signup-popup-input" aria-required="true" aria-invalid="false"></span>
+<label for="corporate_LastName"><span class="req-img">*</span>LAST NAME</label><span class="wpcf7-form-control-wrap LastName"><input type="text" name="LastName" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required home-signup-popup-input" id="corporate_LastName" aria-required="true" aria-invalid="false"></span>
 </li>
 <li>
-<label><span class="req-img">*</span>EMAIL</label><span class="wpcf7-form-control-wrap EMAIL"><input type="email" name="EMAIL" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email home-signup-popup-input" aria-required="true" aria-invalid="false"></span>
+<label for="corporate_Email"><span class="req-img">*</span>EMAIL</label><span class="wpcf7-form-control-wrap EMAIL"><input type="email" name="EMAIL" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email home-signup-popup-input" id="corporate_Email" aria-required="true" aria-invalid="false"></span>
 </li>
 <li>
  <label>&nbsp;</label>
@@ -1404,7 +1694,7 @@ var contact_form_7_recaptcha_data = {"sitekey":"6LdCAiUTAAAAABNUxHWPOwjG_gFbDi5N
 <p><span class="wpcf7-form-control-wrap TravelProfessional"><span class="wpcf7-form-control wpcf7-checkbox"><span class="wpcf7-list-item first last"><input type="checkbox" name="TravelProfessional[]" value="Travel Professional">&nbsp;<span class="wpcf7-list-item-label">Travel Professional</span></span></span></span></p>
 </li>
 <li class="w80p">
-<div class="captcha clearfix"><input type="hidden" name="contact_form_7_recaptcha" value="g-recaptcha-675KRdSqDTMSge8" class="g-recaptcha-explicit-id"><div id="g-recaptcha-675KRdSqDTMSge8"></div><span class="wpcf7-form-control-wrap g-recaptcha-explicit" data-sitekey="6LdCAiUTAAAAABNUxHWPOwjG_gFbDi5NNpPHr_Xt"></span></div>
+<div class="captcha clearfix"><input type="hidden" name="contact_form_7_recaptcha" value="g-recaptcha-Vj9ppn34wI1hvyj" class="g-recaptcha-explicit-id"><div id="g-recaptcha-Vj9ppn34wI1hvyj"></div><span class="wpcf7-form-control-wrap g-recaptcha-explicit" data-sitekey="6LdCAiUTAAAAABNUxHWPOwjG_gFbDi5NNpPHr_Xt"></span></div>
 </li>
 <li><input type="submit" value="KEEP IN TOUCH" class="wpcf7-form-control wpcf7-submit keep-in-touch-btn"></li>
 </ul><div class="wpcf7-response-output wpcf7-display-none"></div></form></div>        </div>
@@ -1492,6 +1782,6 @@ var contact_form_7_recaptcha_data = {"sitekey":"6LdCAiUTAAAAABNUxHWPOwjG_gFbDi5N
         </div>
     </div>
 </div>
-<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
+
 
 </body></html>
