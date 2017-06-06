@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fiveguys.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404204324id_/http%3A//fiveguys.com/contact-us/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiveguys.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606060544id_/http%3A//www.fiveguys.com/Contact-Us/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy| Five Guys Burgers and Fries
+# Privacy Policy
 
 Five Guys ("us" or "we") respects the privacy of visitors to our Sites and registrants of our Services. This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information you submit to use through our Sites.
 
@@ -30,7 +30,7 @@ In general, we use your Personal Information to respond to your requests as subm
 
 We may create Anonymous Information records from Personal Information by excluding information (such as your name) that make the information personally identifiable to you. We may use this Anonymous Information to analyze request patterns and usage patterns so that we may enhance our products and services. Five Guys reserves the right to use and disclose Anonymous Information to third parties in its discretion.
 
-We may also use your Personal Information to send information on products, services, special offers, and promotions. Out of respect for your privacy, we give you the option not to receive these types of communications. If you would like to cease receiving any such communications, you may unsubscribe by sending an email to [websupport@fiveguys.com](mailto:websupport@fiveguys.com). You may not opt out of non-promotional communications from Five Guys, including confirmation messages regarding successful order requests.
+We may also use your Personal Information to send information on products, services, special offers, and promotions. Out of respect for your privacy, we give you the option not to receive these types of communications. If you would like to cease receiving any such communications, you may unsubscribe by sending an email to [websupport@fiveguys.com](mailto:websupport@fiveguys.com). You may not opt out of non-promotional communications from Five Guys, including confirmation messages regarding successful order requests.
 
 We may share some or all of your Personal Information with "affiliates" (parent company, subsidiaries, joint ventures, or other companies under common control), in which case we will require our affiliates to honor this Privacy Policy. If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.
 
@@ -64,7 +64,7 @@ This Privacy Policy is subject to revision, and if we make any substantial chang
 
 You may contact the Privacy Officer to access, correct or delete your Personal Information. If necessary, the Privacy Officer will contact another employee to assist in completing your requested task.
 
-If you have any questions or complaints, please contact the Privacy Officer. The Privacy Officer can be reached by email at [websupport@fiveguys.com](mailto:websupport@fiveguys.com); or by mail at:
+If you have any questions or complaints, please contact the Privacy Officer. The Privacy Officer can be reached by email at [websupport@fiveguys.com](mailto:websupport@fiveguys.com); or by mail at:
 
 Five Guys Enterprises, LLC  
 10718 Richmond Highway  
