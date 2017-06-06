@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the shiprocket.in privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325043936id_/http%3A//www.shiprocket.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiprocket.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175403id_/https%3A//www.shiprocket.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ShipRocket.in
+
+If you already have an account? [Login](https://app.shiprocket.in/login)
 
 ### ShipRocket Privacy Policy
 
