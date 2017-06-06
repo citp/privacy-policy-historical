@@ -1,0 +1,16 @@
+> *The following text is extracted and transformed from the elementor.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183307id_/https%3A//elementor.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy - Elementor
+
+Elementor values your privacy, and therefore has set up this extensive privacy policy to inform you of your rights. It is important to read this policy to understand the uses of your data.
+
+  *  **What Personal Information Does Elementor Retain?** Elementor may retain any personal information provided directly by you, including your name, address, contact information, email address, the IP address you used to access the services and other information. Elementor may also store a cookie on your computer to authenticate your identity.
+  *  **What Non-Personal Information Does Elementor Retain?** Elementor may also retain some statistical, non-personally identifiable information, including your browser type, your referring pages, your use of the services, the pages you viewed and other similar information. Elementor may also retain information relating to the affiliate that referred you to the website.
+  *  **Who Has Access To This Information?** Elementor’s employees, contractors and third party service providers have access to this information; moreover, if you choose to share third parties with the information, the Elementor may also share the information with them. In order to execute the affiliate program, Elementor may also provide the affiliate that referred you to the service some statistical, aggregated, non-personally identifiable information.
+  *  **How Is The Information Processed?** The information about you is processed in several forms: Personally identifiable information is used by Elementor to authenticate your identity, to publish content, to contact you (including through newsletters), to provide you with better service and to enforce these terms of service. Moreover, Non-personally identifiable information may use Elementor to improve the service, display advertisements or provide Elementor’s advertisers with profiles.
+  *  **What Third Party Services Have Access To Your Information?** The Website employs several third party services that act in order to provide you with better access, advertising, social shares and other services. You should inspect each of these services’ privacy policies. As of today, the services are MailChimp, Google Analytics and PayPal.
+  *  **Timely Newsletters and Contacts:** If you provide Elementor with your information, and subscribe to Elementor’s newsletter, then you provide your consent to allow Elementor to send you promotional messages, as defined under article 30A to the Telecommunications Act.
+  *  **How Can You Review Your Information or Delete It?** In order to review the stored information or remove it, you can send an email to team@elementor.com. Moreover, most of the personal information may be reviewed by the websites’ panel.
+  *  **Yearly Privacy Reports:** Elementor’s privacy officer shall inspect the website from time to time and compile yearly reports which shall include a summary of the complaints received.
+
+
