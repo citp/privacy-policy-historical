@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myevent.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612175940id_/http%3A//myevent.com/1/privacy_policy_np.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myevent.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170436id_/https%3A//myevent.com/1/privacy_policy.htm) for the most accurate reproduction.*
 
 # Create Your Event Website - Fast and Easy
 
@@ -40,6 +40,18 @@ The use of cookies by our partners, affiliates, tracking utility company, servic
 
 Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information. 
 
+#### Remarketing
+
+We only collect Personal Data from you, such as first and last name, phone number, e-mail, when you register to use our platform. We collect data about your activities that does not personally or directly identify you when you visit our website or the websites and online services where we display advertisements. This information may include the content you view, the date and time that you view this content, the products you purchase, or your location information associated with your IP address. We use the information we collect to serve you more relevant advertisements (referred to as “Remarketing”). We collect information about where you saw the ads we serve you and what ads you clicked on.
+
+As you browse myevent.com/websitworks.com and other websites, online ad networks we work with may place anonymous cookies on your computer, and use similar technologies, in order to understand your interests based on your (anonymous) online activities, and thus to tailor more relevant ads to you. If you do not wish to receive such tailored advertising, you can visit this [page](https://tools.google.com/dlpage/gaoptout/) to opt out of most companies that engage in such advertising. (This will not prevent you from seeing ads; the ads simply will not be delivered through these targeting methods.)
+
+We do not target ads to you based on sensitive personal data, such as information related to race or ethnic origin, political opinions, religious beliefs or other beliefs of a similar nature, trade union membership, physical or mental health or condition or sexual life. We may target ads based on data provided by Advertisers or partners alone or in combination with the data we collect ourselves. Any data used to serve targeted advertisements is de-identified and is not used to personally or directly identify you.
+
+#### Log Files
+
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
+
 #### Log Files
 
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
@@ -47,8 +59,6 @@ As is true of most Web sites, we gather certain information automatically and st
 #### Social Media Widgets
 
 Our Web site includes Social Media Features, such as the Facebook button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
-
-## Use of Personal Information
 
 #### Information to Users
 
@@ -68,8 +78,6 @@ As required by law, such as to comply with a subpoena, or similar legal process 
 
 We use an outside credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes. 
 
-## Service Providers
-
 We use other third parties to provide travel services on our site. When you sign up for Groople.com's travel services, we will share your name and email as necessary for the third party to provide that service. These third parties are prohibited from using your personally identifiable information for any other purpose. 
 
 #### Third Party Providers
@@ -79,8 +87,6 @@ MyEvent.com/Websiteworks.com will from time to time contract with one or more th
 #### No Liability for Acts of Third Parties
 
 Although these websites will use commercially reasonable efforts to safeguard the confidentiality of Personal Information and/or the registration data, transmissions made by means of the Internet cannot be made absolutely secure. MyEvent.com/Websiteworks.com will have no liability for disclosure of registration data due to errors in transmission or unauthorized acts of third parties. 
-
-## Security
 
 The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can send email us at [info@myevent.com](mailto:info@myevent.com "Click to mail to myevent.com") or at [info@Websiteworks.com](mailto:info@Websiteworks.com "Click to mail to Websiteworks.com")
 
@@ -111,8 +117,6 @@ This Privacy Policy is effective as of October 24, 2013. MyEvent.com and Website
 #### Governing Law
 
 This Privacy Policy and its performance shall be governed by the laws in force in the Province of Quebec, Canada. You consent and submit to the exclusive jurisdiction of the Courts of the Province of Quebec, district of Montreal, in all questions and controversies arising out of your use of the Site and this Privacy Policy. 
-
-If you have questions or concerns regarding this statement, you should contact us first via one of the methods listed below. If you are not satisfied with our response you can contact TRUSTe here 
 
 MyEvent.com / Websiteworks.com  
 #305 221 De La Commune St West  
