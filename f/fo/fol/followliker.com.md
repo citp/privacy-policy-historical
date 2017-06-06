@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followliker.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816073231id_/http%3A//www.followliker.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followliker.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606112312id_/http%3A//www.followliker.com/privacy_policy.html) for the most accurate reproduction.*
 
 # FollowLiker - Privacy Policy - Best Twitter Marketing Software - Instagram Bot - Pinterest Bot - Tumblr Bot - Follow Liker
 
