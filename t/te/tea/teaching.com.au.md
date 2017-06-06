@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the teaching.com.au privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430102034id_/http%3A//www.teaching.com.au/page%3Fpage%3Dmta-privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teaching.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171129id_/http%3A//www.teaching.com.au/page/mta-privacy) for the most accurate reproduction.*
 
 # Modern Teaching Aids Privacy Policy
 
-This is the Privacy Policy of Modern Teaching Aids Pty Ltd. Modern Teaching Aids will observe this Privacy Policy for the collection, storage and use of personal information. For the purpose of this policy document, we are referred to as "Modern Teaching Aids" or "We".
+This is the Privacy Policy of Modern Teaching Aids Pty Ltd. Modern Teaching Aids will observe this Privacy Policy for the collection, storage and use of personal information.  For the purpose of this policy document, we are referred to as “Modern Teaching Aids” or “We”.
 
 #### Open & transparent management of personal information
 
-Modern Teaching Aids has made this Privacy Policy available to individuals upon request and/or if required. This policy is available free of charge in the following formats: written, electronic or recorded.
+Modern Teaching Aids has made this Privacy Policy available to individuals upon request and/or if required.  This policy is available free of charge in the following formats: written, electronic or recorded.
 
-The personal information we may collect about you could include your name, whether you are a parent or teacher, your e-mail address, name of educational institution or company, ABN or ACN, address, title, contact telephone, facsimile, country and encrypted billing information. If connected to a business we may also collect the names and address of the directors, proprietors and owners, any personal guarantors and reports from credit reporting agencies, which is collected as part of our credit application processes.
+The personal information we may collect about you could include your name, whether you are a parent or teacher, or educator, your e-mail address, name of educational institution or company, ABN or ACN, address, title, contact telephone, facsimile, country, any product purchases, and encrypted billing information. If connected to a business we may also collect the names and address of the directors, proprietors and owners, any personal guarantors and reports from credit reporting agencies, which is collected as part of our credit application processes.
 
 Payments to Modern Teaching Aids are made through both secure internal and third party payment gateways. Modern Teaching Aids receives notification of the processing of payments from the secure internal and third party payment gateway in which any credit card information is provided in an encrypted format.
 
@@ -16,9 +16,9 @@ We do offer links to third party websites on our websites. Before disclosing you
 
 #### Use of Cookies
 
-Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognise your browser and capture and remember certain information. Our websites use cookies to anonymously distinguish you from other users of our services and to provide increased functionality when you are using our services. This helps us to provide you with a better experience when you browse our websites and also allows us to improve our websites and our services. Unless you have adjusted your browser settings (where possible) to refuse cookies, our systems will issue cookies as soon you visit our websites or access other services. If you have switched off cookies then some of the functionality of our services may not be available to you. The cookies that we use on our websites only collect anonymous information to optimise our services, and do not collect personal information.
+Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognise your browser and capture and remember certain information. Our websites use cookies to anonymously distinguish you from other users of our services and to provide increased functionality when you are using our services. This helps us to provide you with a better experience when you browse our websites and also allows us to improve our websites and our services. Unless you have adjusted your browser settings (where possible) to refuse cookies, our systems will issue cookies as soon you visit our websites or access other services. If you have switched off cookies then some of the functionality of our services may not be available to you. The cookies that we use on our websites only collect anonymous information to optimise our services, and do not collect personal information.
 
-To find out more about cookies including how to disable/enable and delete them at the following website www.aboutcookies.org. If you use your browser settings to block all cookies you may not be able to access all or parts of our sites, or you may experience reduced functionality when accessing certain services.
+To find out more about cookies including how to disable/enable and delete them at the following website [www.aboutcookies.org.](http://www.aboutcookies.org/) If you use your browser settings to block all cookies you may not be able to access all or parts of our sites, or you may experience reduced functionality when accessing certain services.
 
 #### Anonymity & Pseudonymity
 
@@ -44,7 +44,7 @@ Modern Teaching Aids may collect personal information about you from other sourc
 
 #### Dealing with unsolicited personal information
 
-Should Modern Teachings Aids receive personal information, and did not solicit the information, Modern Teaching Aids will decide if the personal information would have not been collected normally, the information will be de-identified and destroyed.
+Should Modern Teaching Aids receive personal information, and did not solicit the information, Modern Teaching Aids will decide if the personal information would have not been collected normally, the information will be de-identified and destroyed.
 
 #### Notification of the collection of personal information
 
@@ -52,12 +52,13 @@ In the majority of cases, we will require you to specifically consent to any col
 
 #### Use & Disclosure of your personal information
 
-Modern Teaching Aids uses the personal information we collect so that we may continue to conduct our business of providing ongoing products and services. The personal information you provide may be utilised at a later date to allow us to market direct to yourselves, information about our additional products and services offered by Modern Teachings Aids or associated entities.
+Modern Teaching Aids uses the personal information we collect so that we may continue to conduct our business of providing ongoing products and services. The personal information you provide may be utilised at a later date to allow us to market direct to yourselves, information about our additional products and services offered by Modern Teaching Aids or associated entities.
 
 We may also disclose your personal information to our suppliers and third parties that perform other services for us in connection with the sale and provision of our goods and services, including third parties who:
 
-  * Provide Credit Reports 
+  * Provide Credit Reports
   * Provide Debt Collection
+  * Provide Legal Advice
   * Conduct market research and analysis
   * Provide marketing services
 
@@ -65,9 +66,9 @@ We may also disclose your personal information to our suppliers and third partie
 
 #### Direct Marketing
 
-At times we may disclose personal information to third parties and our associated entities to market to you Modern Teachings Aids and associated entities products and/or services. We take steps to ensure that our service providers are obliged to protect the privacy and security of your personal information and use it only for the purpose for which it is disclosed.
+At times we may disclose personal information to third parties and our associated entities to market to you Modern Teaching Aids and associated entities products and/or services. We take steps to ensure that our service providers are obliged to protect the privacy and security of your personal information and use it only for the purpose for which it is disclosed.
 
-We respect an individual's choice to opt-out of direct marketing communications activities. Should you decide you do not wish to receive marketing or promotional materials from us, please contact us in writing or as directed in any particular promotional material you may receive.
+We respect an individual’s choice to opt-out of direct marketing communications activities. Should you decide you do not wish to receive marketing or promotional materials from us, please contact us in writing or as directed in any particular promotional material you may receive.
 
 #### Cross Border disclosure
 
@@ -103,13 +104,11 @@ To update details of your personal information, please contact the Privacy Offic
 
 If you have any queries regarding the collection, use or storage of your personal information under this Privacy Policy, please contact the Modern Teaching Aids Privacy Officer at the address below.
 
-  * Attn: Privacy Officer
-  * Modern Teaching Aids
-  * PO Box 6367
-  * Frenchs Forest NSW 2086
-
-
+Attn: Privacy Officer  
+Modern Teaching Aids  
+PO Box 6367  
+Frenchs Forest NSW 2086
 
 #### Changes to Privacy Policy
 
-Modern Teaching Aids may make changes to this Privacy Statement from time to time for any reason. We will publish those changes on our website. This Privacy Statement was last amended 12 March 2014.
+Modern Teaching Aids may make changes to this Privacy Statement from time to time for any reason. We will publish those changes on our website. This Privacy Statement was last amended 8th August 2016.
