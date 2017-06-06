@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yieldify.com privacy policy that was archived on 2016-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160819194505id_/http%3A//www.yieldify.com/website-privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yieldify.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181143id_/https%3A//www.yieldify.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Yieldify
 
