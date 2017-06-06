@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globotreks.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208053250id_/http%3A//www.globotreks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globotreks.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190024id_/https%3A//www.globotreks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,4 +64,4 @@ Although most changes are likely to be minor, GloboTreks may change its Privacy
 
 Last updated: 05/2014
 
-[Contact us](http://www.globotreks.com/contact-me/) if you have questions about accessing or correcting your personal data.
+[Contact us](https://www.globotreks.com/contact-me/) if you have questions about accessing or correcting your personal data.
