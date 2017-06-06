@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the picasion.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233319id_/http%3A//picasion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picasion.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606075751id_/http%3A//picasion.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Picasion - Create GIF animations online - Make an Animated GIF
+# Privacy Policy - Create GIF animations online - Make an Animated GIF - Picasion
 
 **_Picasion: Animated GIF maker_**  
 Create Animated GIF online for free! [Upload](https://web.archive.org/upload-pictures/) your pictures or grab them from [Flickr](https://web.archive.org/import-flickr/) or [Picasa Web](https://web.archive.org/import-picasa/), make avatars or funny animations and post them to Tumblr, MySpace, Hi5, Facebook, eBay, Bebo, Digg, QQ, etc. No need for Flash. 
