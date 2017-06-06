@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farespotter.net privacy policy that was archived on 2016-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160916074230id_/http%3A//www.farespotter.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farespotter.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145316id_/http%3A//www.farespotter.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,7 +74,7 @@ This Privacy Policy is intended to cover collection of information on our Site f
 
 **Questions and Suggestions**
 
-If you have any questions, concerns or suggestions about our Privacy Policy, you may contact us by sending an email to: [info@farespotter.net](mailto:info@farespotter.net)
+If you have any questions, concerns or suggestions about our Privacy Policy, you may contact us by sending an email to: [info@farespotter.net](mailto:info@farespotter.net).
 
 **Changes to this Privacy Policy**
 
@@ -83,3 +83,5 @@ We reserve the right to make changes to this Privacy Policy at any time. If ther
 **Your Agreement**
 
 By using the Site, you signify your assent to this Privacy Policy. If you do not agree to this policy, please do not use any portion of the Site. When you request insurance quotes or other information through the Site, you are authorizing us to share information with our business partners, who may contact you by phone, email, or mail. If you do not want further communication from them, please notify the partner directly.
+
+700 South Flower Street, Suite 640 | Los Angeles, CA 90017
