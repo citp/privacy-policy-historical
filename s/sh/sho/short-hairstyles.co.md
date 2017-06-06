@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the short-hairstyles.co privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026164636id_/http%3A//www.short-hairstyles.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the short-hairstyles.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222818id_/https%3A//www.short-hairstyles.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Best Short Hairstyles for Women 2016
 
@@ -53,3 +53,5 @@ We reserve the right to modify this Privacy Policy at any time. You should revie
 If you have any questions about our Privacy Practices or this Policy, please contact us.
 
 **Mail** = ** _info@short-hairstyles.co_**
+
+[](https://www.pinterest.com/pin/create/button/)
