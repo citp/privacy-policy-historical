@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedding.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105010748id_/https%3A//www.wedding.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedding.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606193042id_/https%3A//www.wedding.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Wedding.com
 
