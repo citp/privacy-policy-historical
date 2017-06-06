@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the adt.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613092814id_/http%3A//www.adt.com/about-adt/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adt.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606210426id_/https%3A//www.adt.com/content/adtcore/en_US/about-adt/legal/privacy-policy) for the most accurate reproduction.*
 
 # ADT Security Privacy Policy - ADT Security Services
 
-Last updated on August 18, 2015
+Last updated on January 1, 2017
 
-[En Español](https://web.archive.org/about-adt/legal/politica-de-privacidad "En Español")
+[En Español](https://web.archive.org/about-adt/legal/politica-de-privacidad.html "En Español")
 
-ADT LLC dba ADT Security Services (referred to as “ADT”, “our”, “us”, or “we”), recognizes that your privacy is important. This Online Privacy Policy (“Policy”) describes how we use the information we collect from you online in connection with www.ADT.com and other websites (“Sites”) and services ("Services") operated by ADT which link to this Policy. This Policy does not cover information we collect from you through offline means, Internet of Things products and services, and other specific ADT products. To learn more about our privacy practices, please visit the ADT Privacy Center at www.adt.com/privacy.
+ADT LLC dba ADT Security Services (referred to as “ADT”, “our”, “us”, or “we”), recognizes that your privacy is important. This Privacy Policy (“Policy”) describes how we use the information we collect from you online in connection with www.ADT.com and other websites (“Sites”) and services ("Services") operated by ADT which link to this Policy and how we use the information we collect from you offline (e.g., when you fill out paperwork) in connection with ADT's services ("Services"). It also describes your choices regarding use, access and correction of your personal information. To learn more about our privacy practices, please visit the ADT Privacy Center at [www.adt.com/privacy](http://www.adt.com/privacy).
 
 #### Summary
 
-This privacy policy describes how ADT collects and uses your information in connection with online activities such as visiting our websites on a desktop computer or mobile device.
+This privacy policy describes how ADT collects and uses your information in connection with online activities such as visiting our websites on a desktop computer or mobile device and how we use the information we collect from you offline.
 
 ### Information Collection
 
@@ -33,16 +33,17 @@ This privacy policy describes how ADT collects and uses your information in conn
     * Signing up for special offers from ADT and selected third parties
     * Submitting a form or transmitting information to us
     * Submitting your credit card or other payment information
+    * Submitting payment information when purchasing Services from us
   * We may also collect information from you using certain technologies, for example:
     * **Cookies:** We may receive and store certain information about your browsing preferences by using ADT and third party cookies. Cookies are small text files placed on your computer to customize your experience.
     * **Web Beacons:** We may collect information about your browsing activities by using web beacons. Web beacons are transparent graphic pixels that are placed on web pages that enable us or a third party to track your actions on our Sites and deliver interest-based advertisements.
-    * **Local Stored Objects:** We may store information about your browsing activities through locally stored objects by using technologies such as “Flash cookies” and HTML5 (“LSOs”). LSOs tack your actions and store information about your preferences and can be used by third party partners to deliver interest-based advertisements.
+    * **Local Storage:** We may store information about your browsing activities through locally stored objects by using technologies such as HTML5. LSOs tack your actions and store information about your preferences and can be used by third party partners to deliver interest-based advertisements. 
     * **Social Media Features:** Our Sites include social media features that may collect your Internet Protocol (IP) address of the page you are visiting, and may set a cookie to enable the feature to function properly. These features are either hosted by a third party or hosted directly by us.
     * **Log Files:** We gather certain information automatically and store it in log files. This information may include Internet Protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
 
 
 
-We may combine the above information with other information we collect or receive from other sources, such as offline, public databases, joint marketing partners, social media platforms, and other third parties.
+We may combine the above information with other information we collect or receive from other sources, such as offline, public databases, joint marketing partners, social media platforms, and other third parties including but not limited to credit reporting bureaus. We use the information collected from third party sources to determine the suitability of extending credit and for marketing purposes. 
 
 #### Summary
 
@@ -65,13 +66,14 @@ Your personal and non-personal information is collected in a variety of ways on 
 
 
 
-If you submit any information to us relating to another person, you represent that you have the authority to do so and to permit us to use the information in accordance with this Policy.
+If you submit any information to us relating to another person, you represent that you have the authority to do so and to permit us to use the information in accordance with this Policy. We will only use that information for the specific reason for which it was provided to us. 
 
 **How ADT Shares Your Information:** We share your information in the following ways:
 
-  * **Third Parties:** We do not sell your information to third parties for their own marketing purposes. We may share your information with affiliates, partners, and service providers (including ADT Authorized Dealers) to provide some of our Services and to complete our business purposes as described above.
-  * **Legal Authorities:** We may also disclose your information for legal reasons including to comply with a subpoena or court order, to cooperate with law enforcement, or when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
-  * **Transfer in the Event of Sale or Change of Control:** We may transfer your information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock, including in connection with any bankruptcy or similar proceedings.
+  * **Third Parties:** We do not sell your information to third parties for their own marketing purposes. We may share your information with affiliates, partners, and service providers (including ADT Authorized Dealers) to provide some of our Services and to complete our business purposes as described above. These companies are authorized to use your personal information only as necessary to provide these services to us. 
+  * **Legal Authorities:** In certain situations, ADT may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security. We may also disclose your information for legal reasons including to comply with a subpoena or court order or similar legal process, to cooperate with law enforcement, or when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+  * **Transfer in the Event of Sale or Change of Control:** We may transfer your information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock, including in connection with any bankruptcy or similar proceedings. 
+  * **Emergency Services:** In order to provide our Services, we will share your information with third party emergency service providers such as police departments, fire departments, and emergency medical services.
 
 
 
@@ -85,13 +87,13 @@ We use your information for our business purposes. Your information will be shar
 
 **How ADT Responses to Do No Track Signals:** ADT and third parties, such as Adobe and Google Analytics, use cookies, web beacons, LSOs, tags, and scripts to gather information about you over time and across different websites or applications in order to help predict your preferences and show you interest-based advertisements. Our Sites do not respond to browser Do Not Track (DNT) signals, however you may opt-out as described below.
 
-**How Can I Opt-Out:** Visit the [ Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising](http://www.aboutads.info/choices/) to opt out of interest-based advertising from participating companies. You can learn about Google’s practices by going to [ www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/), and opt out of them by downloading the Google Analytics opt-out browser add-on, available at [ https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout). You can learn about Adobe’s practices, and how to opt out of them, by going to [ http://www.adobe.com/privacy/opt-out.html](http://www.adobe.com/privacy/opt-out.html). Many web browsers accept cookies by default. You may accept or decline cookies as you prefer. The “help” portion of your browser typically tells you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Various browsers may offer their own management tools for removing LSOs and HTML5. To manage Flash cookies, please click here: [ https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+**How Can I Opt-Out:** Visit the [Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising](http://www.aboutads.info/choices/) to opt out of interest-based advertising from participating companies. You can learn about Google’s practices by going to [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/), and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>. You can learn about Adobe’s practices, and how to opt out of them, by going to <http://www.adobe.com/privacy/opt-out.html>. Many web browsers accept cookies by default. You may accept or decline cookies as you prefer. The “help” portion of your browser typically tells you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Various browsers may offer their own management tools for removing HTML5. 
 
 You may opt out of our marketing and promotional emails by using the “unsubscribe” link provided in the email.
 
 #### Summary
 
-ADT’s websites do not respond to browser Do Not Track signals, but you can opt-out of interested-based ads by visiting the [Digital Advertising Alliance Consumer Choice Page](http://www.aboutads.info/choices/). You can opt-out of other tracking technologies we use by visiting the specific links provided.
+ADT’s websites do not respond to browser Do Not Track signals, but you can opt-out of interested-based ads by visiting the [Digital Advertising Alliance Consumer Choice Page](http://www.aboutads.info/choices/). You can opt-out of other tracking technologies we use by visiting the specific links provided. 
 
 ### Collection from Minors
 
@@ -103,7 +105,7 @@ We do not target or knowingly collect personal information from people 13 years 
 
 ### Security
 
-**How ADT Protects Your Information:** We seek to use reasonable organizational, technical and administrative measures to protect your information. Unfortunately, no information transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure, please contact us immediately.
+**How ADT Protects Your Information:** We seek to use reasonable organizational, technical and administrative measures to protect your information. Unfortunately, no information transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure, please contact us immediately using the information below.
 
 #### Summary
 
@@ -111,17 +113,17 @@ We do our best to protect your information.
 
 ### Other Information
 
-**How You Update Your Information:** You are responsible for ensuring your information provided through our Sites or Services is accurate. To review your information for accuracy, please login to your ADT account.
+**How You Update Your Information:** You are responsible for ensuring your information provided through our Sites or Services is accurate. Upon request we will provide you with information about whether ADT holds any of your personal information. To review, update your information for accuracy, please login to your ADT account or contact us at [privacy@adt.com](mailto:privacy@adt.com?Subject=Privacy%20Question). We will respond to your request within a reasonable timeframe. 
 
-**How ADT Retains Your Information:** We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+**How ADT Retains Your Information:** We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 **How ADT Notifies You of Policy Changes:** We may update this Policy to reflect changes to our information practices. If we make any changes, we will post the revised Policy on the ADT Privacy Center. We encourage you to periodically review this Policy for the latest information on our privacy practices.
 
-**How ADT Maintains Policy Compliance:** ADT uses TRUSTe, an independent organization whose mission is to build users' trust and confidence in the internet by promoting the use of fair information practices. Because ADT wants to demonstrate its commitment to your privacy, ADT has agreed to disclose its information practices and have its privacy practices reviewed by TRUSTe. The TRUSTe program covers only information that is collected through this Site. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal.
+**ADT Cross-Border Information Transfer:** For our Canadian customers, the personal information we manage may be transferred, disclosed, processed, and stored in the United States, and therefore may be available to government authorities under lawful orders and applicable United States laws.
 
 #### Summary
 
-Login to your ADT account to update your information. Periodically review this Policy, as we may update it. A third party audits any changes to our privacy practices to maintain compliance.
+Login to your ADT account to update your information. Periodically review this Policy, as we may update it. A third party audits any changes to our privacy practices to maintain compliance. 
 
 ### Feedback
 
@@ -129,11 +131,11 @@ Login to your ADT account to update your information. Periodically review this P
 
 Privacy  
 ADT LLC dba ADT Security Services  
-P.O. Box 5035  
+1501 Yamato Road  
 Boca Raton, FL 33431-0835  
 [privacy@adt.com](mailto:privacy@adt.com?Subject=Privacy%20Question)
 
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then use [TRUSTe's Feedback and Resolution System](https://feedback-form.truste.com/watchdog/request). TRUSTe will then serve as a liaison with ADT to help resolve your concerns.
+If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
 #### Summary
 
