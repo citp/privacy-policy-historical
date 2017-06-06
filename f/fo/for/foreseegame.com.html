@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the foreseegame.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119015438id_/http%3A//www.foreseegame.com/Static/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foreseegame.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606065455id_/http%3A//www.foreseegame.com/Static/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head id="Head1"><title>
 	Privacy Policy
@@ -7,18 +7,19 @@
 Play Free Online Games, Prediction Games, Predict &amp; Win Money Online, Gaming Portal, 
 Game of prediction, play and win cash reward, win cash online, Opinion Square">
     
-    <link href="http://rs.foreseegame.com/Resource/css/style.css?v=7.6" rel="stylesheet" type="text/css">
+    <link href="http://rs.foreseegame.com/Resource/css/style.css?v=9.5" rel="stylesheet" type="text/css">
     <link href="http://rs.foreseegame.com/Resource/css/BanHovEffects.css" rel="stylesheet" type="text/css">
+    <link href="http://rs.foreseegame.com/Resource/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link rel="shortcut icon" type="image/x-icon" href="http://rs.foreseegame.com/Resource/images/icon.ico">
     
-    <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://rs.foreseegame.com/Resource/JS/jquery.js"></script>
+
+    
+    <script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://rs.foreseegame.com/Resource/JS/jquery.js"></script>
     <script type="text/javascript" src="http://rs.foreseegame.com/Resource/JS/jquery.cycle.all.latest.js"></script>
     <script type="text/javascript" src="http://rs.foreseegame.com/Resource/JS/jcarousellite.js"></script>
     <script type="text/javascript" src="http://rs.foreseegame.com/Resource/JS/RollOver.js"></script>
-
-    
-
-
+    <script type="text/javascript" src="http://rs.foreseegame.com/Resource/JS/Circle.js"></script>
+    <link href="http://rs.foreseegame.com/Resource/css/circle.css?v=7.8" rel="stylesheet">
     <script>
         (function (i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
@@ -29,7 +30,6 @@ Game of prediction, play and win cash reward, win cash online, Opinion Square">
 
         ga('create', 'UA-39292122-1', 'auto');
         ga('send', 'pageview');
-
     </script>
 
 
@@ -56,187 +56,17 @@ Game of prediction, play and win cash reward, win cash online, Opinion Square">
 
 
 
-    <script type="text/javascript">
-        $('#gameNavMenu').dcMegaMenu({
-            rowItems: '3',
-            speed: 'fast',
-            effect: 'fade'
-        });
-        function controlEnter(obj, event) {
-            var keyCode = event.keyCode ? event.keyCode : event.which ? event.which : event.charCode;
-            if (keyCode == 13) {
-                document.getElementById(obj).click();
-                return false;
-            }
-            else {
-                return true;
-            }
-        }
-        $(document).ready(function () {
-            $('.slideshow').cycle({
-                fx: 'fade', // choose your transition type, ex: fade, scrollUp, shuffle, etc...
-                delay: -4000
-            });
-        });
-        $(document).ready(function () {
-            $('.slideshowfooter').cycle({
-                fx: 'fade', // choose your transition type, ex: fade, scrollUp, shuffle, etc...
-                delay: -4000
-            });
-        });
-
-
-        $(document).ready(function () {
-
-            if (!$.browser.opera) {
-
-                // select element styling
-                $('select.select').each(function () {
-                    var title = $(this).attr('title');
-                    if ($('option:selected', this).val() != '') title = $('option:selected', this).text();
-                    $(this)
-					.css({ 'z-index': 10, 'opacity': 0, '-khtml-appearance': 'none' })
-					.after('<span class="select">' + title + '</span>')
-					.change(function () {
-					    val = $('option:selected', this).text();
-					    $(this).next().text(val);
-					})
-                });
-
-            };
-
-            if (document.getElementById("txtFeedbackName") != null) {
-                
-                document.getElementById("txtFeedbackName").value = "Type your Name here";
-                
-            }
-            if (document.getElementById("txtFeedbackEmail") != null) {
-                
-                document.getElementById("txtFeedbackEmail").value = "Type your Email Id here";
-                 
-            }
-            if (document.getElementById("txtNewsletterEmail") != null) {
-                
-                document.getElementById("txtNewsletterEmail").value = "Type your Email ID here";
-                 
-            }
-
-        });
-        function txt_focus(id, val) {
-            if (val == 'Game, Brand, Products') { document.getElementById(id).value = ''; document.getElementById(id).style.color = '#000000'; }
-            else if (val == 'Type your Name here') { document.getElementById(id).value = ''; document.getElementById(id).style.color = '#000000'; }
-            else if (val == 'Type your Email Id here') { document.getElementById(id).value = ''; document.getElementById(id).style.color = '#000000'; }
-            else if (val == 'Type your Feedback here') { document.getElementById(id).value = ''; document.getElementById(id).style.color = '#000000'; }
-            else if (val == 'Type your Email ID here') { document.getElementById(id).value = ''; document.getElementById(id).style.color = '#000000'; }
-            else if (val == 'Email Id') { document.getElementById(id).value = ''; document.getElementById(id).style.color = '#000000'; }
-
-        }
-        function txt_blur(id, val) {
-
-            if (val == '' && id == 'txtFeedbackName') {
-                document.getElementById(id).value = 'Type your Name here'; //document.getElementById(id).style.color = '#c2c0c0';
-            }
-            else if (val == '' && id == 'txtFeedbackEmail') {
-                document.getElementById(id).value = 'Type your Email Id here';// document.getElementById(id).style.color = '#c2c0c0';
-            }
-            else if (val == '' && id == 'txtFeedbackComments') {
-                document.getElementById(id).value = 'Type your Feedback here'; //document.getElementById(id).style.color = '#c2c0c0';
-            }
-            else if (val == '' && id == 'txtNewsletterEmail') {
-                document.getElementById(id).value = 'Type your Email ID here'; //document.getElementById(id).style.color = '#c2c0c0';
-                RemoveMsg();
-            }
-        }
-        function removespace(id, val) {
-            if (val.trim() == '' && id == 'txtSearch') {
-                document.getElementById(id).value = "";
-            }
-        }
-
-
-        $(function () {
-            $.fn.scrollBottom = function () {
-                return $(document).height() - this.scrollTop() - this.height();
-            };
-
-            var $el = $('#sidebar>div');
-            var $window = $(window);
-            var top = $el.parent().position().top;
-
-            $window.bind("scroll resize", function () {
-                var gap = $window.height() - $el.height() - 10;
-
-                var scrollTop = $window.scrollTop()
-
-                if (scrollTop < top + 430) {
-                    $el.css({
-                        top: (top - scrollTop) + "px",
-                        bottom: "auto"
-
-                    });
-
-                } else {
-                    $el.css({
-                        top: "auto",
-                        bottom: 574,//140
-                        // top: (top - scrollTop) + "px",
-                        //bottom: "auto"
-                    });
-                }
-            }).scroll();
-        });
-        $(document).ready(function ($) {
-
-            $('#gameNavMenu').dcMegaMenu({
-                rowItems: '3',
-                speed: 'fast',
-                effect: 'fade'
-            });
-            
-        });
-        function divon() {
-            document.getElementById("divLoader").style.display = 'block';
-            $('body').append('<div id="mask" class="mask"></div>');
-            $('#mask').fadeIn(5);
-        }
-
-
-        function checkEmail() {
-            var Email = document.getElementById('txtNewsletterEmail').value;
-            //  var emailPat = /^(\".*\"|[A-Za-z]\w*)@(\[\d{1,3}(\.\d{1,3}){3}]|[A-Za-z]\w*(\.[A-Za-z]\w*)+)$/
-            var emailPat = /^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$/
-            var EmailmatchArray = Email.match(emailPat);
-            if (Email == "Type your Email ID here") {
-                //alert("Please enter email address");
-                document.getElementById("MsgDiv").innerHTML = "Please enter email address!";
-                return false;
-            }
-            if (EmailmatchArray == null) {
-                // alert("Please enter valid email address");
-                document.getElementById("MsgDiv").innerHTML = "Please enter valid email address!";
-                return false;
-            }
-        }
-
-        function RemoveMsg() {
-            document.getElementById("MsgDiv").innerHTML = "";
-        }
-        function closeWin() {
-            //myWindow.close();
-            self.close();
-        }
-    </script>
+    
+    
     <style type="text/css">
         #sidebar > div {
             width: 250px;
-            /*height: 1645px;*/
+            /*height: 1645px;
             margin-top: 0px;
-            position: fixed;
+            position: fixed;*/
             border: none;
         }
-    </style>
-    
-    <style type="text/css">
+
         @font-face {
             font-family: "'WebRupee'";
             src: url('WebRupee.V2.0.eot');
@@ -262,156 +92,171 @@ Game of prediction, play and win cash reward, win cash online, Opinion Square">
             font-size: 20px;
             color: #FFF;
         }
+
+        /* game listing page banner next button */
+        .categoryCustomNavigation .customNavigation {
+            position: absolute;
+        }
+
+        .categoryCustomNavigation .customNavigation {
+            /*top:52px;*/
+            right: 0px;
+            padding-bottom: 30px;
+            width: 100%;
+        }
+
+            .categoryCustomNavigation .customNavigation a {
+                border: none;
+            }
+
+        .categoryCustomNavigation .CarouselNextBtn {
+            width: 30px;
+            margin-top: 0px !important;
+            position: absolute !important;
+            top: 35px !important;
+            z-index: 9 !important;
+            right: 15px !important;
+            padding-bottom: 0 !important;
+            /*border:1px solid #fff;*/
+        }
+
+        .categoryCustomNavigation .CarouselPrevBtn {
+            width: 30px;
+            margin-top: 0px !important;
+            position: absolute !important;
+            top: 35px !important;
+            z-index: 9 !important;
+            left: 15px !important;
+            padding-bottom: 0 !important;
+            /*border:1px solid #fff;*/
+        }
+
+        .categoryCustomNavigation .customNavigation a.next {
+            left: 0;
+            float: left;
+            margin-left: 0px;
+            background: #dbdbdb;
+            color: #000;
+        }
+
+        .categoryCustomNavigation .customNavigation a.prev {
+            left: 0;
+            float: right;
+            margin-right: 0px;
+            background: #dbdbdb;
+            color: #000;
+        }
+
+        .categoryCustomNavigation .CarouselNextBtnDeals {
+            /*width: 30px;*/
+            margin-top: 0px !important;
+            position: absolute !important;
+            top: 0px !important;
+            z-index: 1 !important;
+            right: 15px !important;
+            padding-bottom: 0 !important;
+            /*background:rgba(239, 236, 236, 0.8);
+                border:1px solid #ccc;
+                border-left:none;*/
+        }
+
+        .categoryCustomNavigation .CarouselPrevBtnDeals {
+            /*width: 30px;*/
+            margin-top: 0px !important;
+            position: absolute !important;
+            top: 0px !important;
+            z-index: 1 !important;
+            left: -26px !important;
+            padding-bottom: 0 !important;
+            /*background:rgba(239, 236, 236, 0.8);
+                border:1px solid #ccc;
+                border-right:none;*/
+        }
+
+            .categoryCustomNavigation .CarouselNextBtnDeals .btn, .categoryCustomNavigation .CarouselPrevBtnDeals .btn {
+                padding: 20px 2px;
+            }
+
+        .BannerCoruselArea .categoryCustomNavigation {
+            position: absolute;
+            top: 45%;
+            width: 100%;
+        }
+
+            .BannerCoruselArea .categoryCustomNavigation .CarouselPrevBtn {
+                width: 46px;
+                height: 100%;
+                margin-top: 0px !important;
+                position: absolute !important;
+                top: 35px !important;
+                z-index: 9 !important;
+                left: -6px !important;
+                padding-bottom: 0 !important;
+                border: none;
+            }
+
+            .BannerCoruselArea .categoryCustomNavigation .CarouselNextBtn {
+                width: 46px;
+                height: 100%;
+                margin-top: 0px !important;
+                position: absolute !important;
+                top: 35px !important;
+                z-index: 9 !important;
+                right: -6px !important;
+                padding-bottom: 0 !important;
+                border: none;
+            }
+
+            .BannerCoruselArea .categoryCustomNavigation .customNavigation a.next {
+                float: left;
+                background: transparent;
+                color: #000;
+                padding: 0;
+            }
+
+            .BannerCoruselArea .categoryCustomNavigation .customNavigation a.prev {
+                float: right;
+                background: transparent;
+                color: #000;
+                padding: 0;
+            }
+
+        .foresee-pagination {
+            position: absolute;
+            bottom: 80px;
+            left: 49%;
+        }
+
+        .foresee-page {
+            display: inline-block;
+            zoom: 1;
+            *display: inline; /*IE7 life-saver */
+            cursor: pointer;
+        }
+
+            .foresee-page span {
+                display: block;
+                width: 20px;
+                height: 20px;
+                margin: 0 5px;
+                filter: Alpha(Opacity=50); /*IE7 fix*/
+                opacity: 0.5;
+                -webkit-border-radius: 50%;
+                -moz-border-radius: 50%;
+                border-radius: 50%;
+                border: 1px solid #fff;
+            }
+
+            .foresee-page.active span,
+            .foresee-page:hover span {
+                filter: Alpha(Opacity=100); /*IE7 fix*/
+                opacity: 0.5;
+                background: #fff;
+            }
+        /* game listing page banner next button */
     </style>
-    <script type="text/javascript">
-        function CityBoxHide_PreCity() {
-            //alert("ghgh");
-            $('#divLoader').show();
-            $('#ifGemeResult_PreCity').hide();
-            document.getElementById('city-box_PreCity').style.display = 'none';
-            $('#maskForCity_PreCity').hide();
-            $('#mask').hide();
-            //alert(window.location.href);
-            window.location.href = window.location.href.replace('#_=_', '').replace('#', '').replace('!', '');
-
-
-        }
-        function CityBoxHide_PreCityClose() {
-            document.getElementById('city-box_PreCity').style.display = 'none';
-            $('#maskForCity_PreCity').fadeOut(2000);
-            $('#mask').fadeOut(2000);
-        }
-
-        function CityBoxShow_PreCity() {
-            $("#ifGemeResult_PreCity").hide();
-            //document.getElementById('city-box_PreCity').style.display = 'block';
-            $("#city-box_PreCity").show();
-            $("#ifGemeResult_PreCity").show();
-            $('body').append('<div id="maskForCity_PreCity"></div>');
-            $('body').append('<div id="mask" class="mask"></div>');
-            $('#mask').show();
-            //setTimeout("CityBoxShow_PreCity()", 300000);
-            $('#divLoader').hide();
-        }
-
-        function CityBoxShow_PreCityTrigger() {
-            document.getElementById('ifGemeResult_PreCity').src = "http://www.foreseegame.com/SearchByCity.aspx";
-            $('#divLoader').show();
-            setTimeout("CityBoxShow_PreCity()", 3000);
-        }
-    </script>
-    <script type="text/javascript">
-
-        $(document).ready(function () {   
-            var e = document.getElementById('ddlSearch');
-            var eval = e.options[e.selectedIndex].value;
-            SetSearchPlaceholderValue(eval);
-        });
-
-        function GetSelectedTextValue(ddlFruits) {
-            var selectedText = ddlFruits.options[ddlFruits.selectedIndex].innerHTML;
-            var selectedValue = ddlFruits.value;
-            var my_list = document.getElementById("SuggestedData");
-            my_list.innerHTML = null;
-
-            var Keyword = '';
-            var sessionType = '';
-          
-            if (Keyword != "") {
-
-                if (ddlFruits.selectedIndex != sessionType) {
-                    document.getElementById("txtSearch").value = "";
-                } else {
-                    document.getElementById("txtSearch").value = Keyword;
-                }
-            }
-
-            SetSearchPlaceholderValue(selectedValue);
-        }
-        function SuccessGetSuggestedData(result) {
-            var my_list = document.getElementById("SuggestedData");
-            my_list.innerHTML = result;
-           // populatefiltereddata();
-        }
-        function FailedGetSuggestedData(error) {
-            var my_list = document.getElementById("SuggestedData");
-            my_list.innerHTML = null;
-        }
-
-        function SetSearchPlaceholderValue(Type) {
-
-            $("#txtSearch").removeAttr("placeholder");
-            if (Type == "All")
-                $("#txtSearch").attr("placeholder", "Search");
-            if (Type == "Brands")
-                $("#txtSearch").attr("placeholder", "Search brand");
-            if (Type == "Products")
-                $("#txtSearch").attr("placeholder", "Search product");
-            if (Type == "Categories")
-                $("#txtSearch").attr("placeholder", "Search category");
-        }
-
-        /*function populatefiltereddata() {
-
-            var text = document.getElementById("txtSearch.ClientID").value;
-            var txt = null;
-            var length = 1;
-            var x = document.getElementById("SuggestedData");
-            var i;
-
-            for (i = 0; i < x.options.length; i++) {
-
-                if (length == 13)
-                    break;
-
-                if (x.options[i].value.toUpperCase().indexOf(text.toUpperCase()) == 0 && text.trim() != "") {
-                    txt = txt + "<option value='" + x.options[i].value + "' />";
-                    length++;
-                }
-            }
-
-            if (txt != null)
-                document.getElementById("SuggestedData").innerHTML = txt;
-            else
-                document.getElementById("SuggestedData").innerHTML = null;
-        }*/
-        function myFunction(event,typetext) {
-
-            var x = event.which || event.keyCode;
-            
-            if ((x >= 48 && x <= 90) || x == 8 || x == 32 || x == 191 || x == 190) {
-
-                if (document.getElementById("ddlSearch").value != "All" && document.getElementById("txtSearch").value != "") {
-
-                   // var my_list = document.getElementById("SuggestedData");
-                   // my_list.innerHTML = null;
-
-                    AutoComplete.GetSuggestedData(document.getElementById("ddlSearch").value, typetext, SuccessGetSuggestedData, FailedGetSuggestedData, null);
-
-                } else {
-                    document.getElementById("SuggestedData").innerHTML = null;
-                }
-            }
-        }
-        function txt_blur(id, val) {
-
-            if (val == '' && id == 'txtFeedbackName') {
-                document.getElementById(id).value = 'Type your Name here'; //document.getElementById(id).style.color = '#c2c0c0';
-            }
-            else if (val == '' && id == 'txtFeedbackEmail') {
-                document.getElementById(id).value = 'Type your Email Id here';// document.getElementById(id).style.color = '#c2c0c0';
-            }
-            else if (val == '' && id == 'txtFeedbackComments') {
-                document.getElementById(id).value = 'Type your Feedback here'; //document.getElementById(id).style.color = '#c2c0c0';
-            }
-            else if (val == '' && id == 'txtNewsletterEmail') {
-                document.getElementById(id).value = 'Type your Email ID here'; //document.getElementById(id).style.color = '#c2c0c0';
-                RemoveMsg();
-            }
-        }
-    </script>   
-          
     
+
 </head>
 <body>
     <!-- Start Alexa Certify Javascript -->
@@ -423,18 +268,58 @@ Game of prediction, play and win cash reward, win cash online, Opinion Square">
         <img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=APFhi1aUCm002m" style="display: none"
             height="1" width="1" alt="" />
     </noscript>
-    <!-- End Alexa Certify Javascript -->
-    
-    
-    <form method="post" action="/Static/PrivacyPolicy" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg4MTAyMTU0OA9kFgJmDw8WAh4GR2FtZUlkBQEwZBYEAgEPFgIeBmFjdGlvbgUVL1N0YXRpYy9Qcml2YWN5UG9saWN5FggCAw8PZBYCHgpvbmtleXByZXNzBSdyZXR1cm4gY29udHJvbEVudGVyKCdidG5TZWFyY2gnLCBldmVudClkAgQPDxYCHghJbWFnZVVybAU/aHR0cDovL3JzLmZvcmVzZWVnYW1lLmNvbS9SZXNvdXJjZS9pbWFnZXMvZmx1aWRVSS9zZWFyY2gyMmEucG5nZGQCCA9kFgICAQ9kFgYCAg8WAh4JaW5uZXJodG1sBa8EPHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnPg0KJCh3aW5kb3cpLmxvYWQoZnVuY3Rpb24gKCkgew0KICAgICAgICAgICAgICAgICAgICAgICAgc2V0VGltZW91dChmdW5jdGlvbiAoKSB7ICQoJyNDb250ZW50UGxhY2VIb2xkZXIyX2R2Qm90dG9tUGFuZWwnKS5odG1sKCI8ZGl2IGNsYXNzPSdzbGlkZXNob3cnPjxhIGhyZWY9J2h0dHBzOi8vcGxheS5nb29nbGUuY29tL3N0b3JlL2FwcHMvZGV0YWlscz9pZD1jb20ubWhibC5zYXN0YXN1bmRhcicgdGFyZ2V0PScgX2JsYW5rJyBzdHlsZT0nYm9yZGVyOjBweDsnPjxpbWcgc3JjPSdodHRwOi8vcnMuZm9yZXNlZWdhbWUuY29tL1VwbG9hZC9Jbm5lckJvdHRvbVBhbmVsL0JvdHRvbVBhbmVsX0kxXzA5MjExNjE5MTQ1My5qcGcnIHdpZHRoPSc3MDcnIGhlaWdodD0nMTc4JyBzdHlsZT0nYm9yZGVyOjBweDsnLz48L2E+PC9kaXY+Iik7IH0sIDUwMCk7IA0Kc2V0VGltZW91dChmdW5jdGlvbiAoKSB7ICQoJy5zbGlkZXNob3cnKS5jeWNsZSh7IGZ4OiAnZmFkZScsIGRlbGF5OiAtNDAwMCB9KTt9LCAxMDAwKTt9KTsNCjwvc2NyaXB0PmQCAw8WAh8EBbADPHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnPg0KJCh3aW5kb3cpLmxvYWQoZnVuY3Rpb24gKCkgew0KICAgICAgICAgICAgICAgICAgICAgICAgc2V0VGltZW91dChmdW5jdGlvbiAoKSB7ICQoJyNDb250ZW50UGxhY2VIb2xkZXIyX2R2U3BvbkxvZ28nKS5odG1sKCI8ZGl2IGNsYXNzPSdzbGlkZXNob3cnPjxpbWcgc3JjPSdodHRwOi8vcnMuZm9yZXNlZWdhbWUuY29tL1VwbG9hZC9Ub3BSaWdodC9SaWdodFRvcFBhbmVsX0kxXzA2MTcxMzE2MTQwOC5qcGcnIHdpZHRoPScyMzAnIGhlaWdodD0nMTQ5JyBzdHlsZT0nYm9yZGVyOjBweDsnLz48L2Rpdj4iKTsgfSwgNTAwKTsgDQpzZXRUaW1lb3V0KGZ1bmN0aW9uICgpIHsgJCgnLnNsaWRlc2hvdycpLmN5Y2xlKHsgZng6ICdmYWRlJywgZGVsYXk6IC00MDAwIH0pO30sIDEwMDApO30pOw0KPC9zY3JpcHQ+ZAIEDxYCHwQFkQU8c2NyaXB0IHR5cGU9J3RleHQvamF2YXNjcmlwdCc+DQokKHdpbmRvdykubG9hZChmdW5jdGlvbiAoKSB7DQogICAgICAgICAgICAgICAgICAgICAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uICgpIHsgJCgnI0NvbnRlbnRQbGFjZUhvbGRlcjJfZHZSaWdodFBhbmVsJykuaHRtbCgiPGRpdiBjbGFzcz0ncl9iYW4nPjxhIGhyZWY9J2h0dHA6Ly93d3cuc2FzdGFzdW5kYXIuY29tL2luZGV4LnBocC9wcm9kdWN0L3NlYXJjaD9zZWFyY2hUZXh0PWhlYWx0aGJ1ZGR5K3B1cmUrJTI2K2ZyZXNoK2plZXJhK3Bvd2RlcicgdGFyZ2V0PScgX2JsYW5rJyBzdHlsZT0nYm9yZGVyOjBweDsnPjxpbWcgc3JjPSdodHRwOi8vcnMuZm9yZXNlZWdhbWUuY29tL1VwbG9hZC9Jbm5lclJpZ2h0UGFuZWwvSW5uZXJSaWdodFBhbmVsX0kxTF8wOTA5MTYxNjA1MzMuanBnJyB3aWR0aD0nMjUwJyBoZWlnaHQ9JzYwMCcgc3R5bGU9J2JvcmRlcjowcHg7Jy8+PC9hPjwvZGl2PjxkaXYgY2xhc3M9J3JfYmFuJz48aW1nIHNyYz0naHR0cDovL3JzLmZvcmVzZWVnYW1lLmNvbS9VcGxvYWQvSW5uZXJSaWdodFBhbmVsL0lubmVyUmlnaHRQYW5lbF9JMU1fMDkwOTE2MTYwNDM5LnBuZycgd2lkdGg9JzI1MCcgaGVpZ2h0PSczNTAnIC8+PC9kaXY+Iik7IH0sIDUwMCk7IA0KfSk7DQo8L3NjcmlwdD5kAgoPZBYEZg9kFgICAQ8WAh4EVGV4dAWaCTxhIHRhcmdldD0nX3NlbGYnIGhyZWY9Imh0dHA6Ly93d3cuZm9yZXNlZWdhbWUuY29tL2dhbWVzL0Fhc2Fhbi9CcmFuZHMvYzgzMDJmYmJjOWRlMTQ4MiI+QWFzYWFuPC9hPiB8IDxhIHRhcmdldD0nX3NlbGYnIGhyZWY9Imh0dHA6Ly93d3cuZm9yZXNlZWdhbWUuY29tL2dhbWVzL1plcm90b3gvQnJhbmRzL2M1NTk2ZWE3OTVhMDExOWEiPlplcm90b3g8L2E+IHwgPGEgdGFyZ2V0PSdfc2VsZicgaHJlZj0iaHR0cDovL3d3dy5mb3Jlc2VlZ2FtZS5jb20vZ2FtZXMvSGFuZHl3YXJlL0JyYW5kcy9kMTQzOTQ4MGIwODJkNTViNGIyNmEyMDlmOTA0MThhZSI+SGFuZHl3YXJlPC9hPiB8IDxhIHRhcmdldD0nX3NlbGYnIGhyZWY9Imh0dHA6Ly93d3cuZm9yZXNlZWdhbWUuY29tL2dhbWVzL0dvbWF4L0JyYW5kcy9jOTczOWE2ZjUwZDQxNTdjIj5Hb21heDwvYT4gfCA8YSB0YXJnZXQ9J19zZWxmJyBocmVmPSJodHRwOi8vd3d3LmZvcmVzZWVnYW1lLmNvbS9nYW1lcy9Gb3Jlc2VlZ2FtZS9CcmFuZHMvMGFjMmU2MDIyYTgxNWEzY2NjODI4MzU4OTQzMGU2Y2QiPkZvcmVzZWVnYW1lPC9hPiB8IDxhIHRhcmdldD0nX3NlbGYnIGhyZWY9Imh0dHA6Ly93d3cuZm9yZXNlZWdhbWUuY29tL2dhbWVzL1Nhc3RhU3VuZGFyLmNvbS9CcmFuZHMvNDJmMDY5NGYzOWViNzUzMGM0OWIyMDhiZjUyMzhkZjkiPlNhc3Rhc3VuZGFyLmNvbTwvYT4gfCA8YSB0YXJnZXQ9J19zZWxmJyBocmVmPSJodHRwOi8vd3d3LmZvcmVzZWVnYW1lLmNvbS9nYW1lcy9PcGluaW9uLVNxdWFyZS9DYXRlZ29yaWVzL2Y0YjFlZDA0NzI0NzA4MmE2ZmMxM2UwNTA5NmUwNzNkIj5PcGluaW9uIFNxdWFyZTwvYT4gfCA8YSB0YXJnZXQ9J19zZWxmJyBocmVmPSJodHRwOi8vd3d3LmZvcmVzZWVnYW1lLmNvbS9BbGxQcm9kdWN0cyI+V2luIHByb2R1Y3RzPC9hPiB8IDxhIHRhcmdldD0nX3NlbGYnIGhyZWY9Imh0dHA6Ly93d3cuZm9yZXNlZWdhbWUuY29tL2dhbWVzL0Nhc2gtUmV3YXJkL1Byb2R1Y3RzLzk0MjI0YmVhMGM4YjRlYWFlNDMxYzg3M2Y2NjNlMmMyIj5DYXNoIHJld2FyZDwvYT4gfCA8YSB0YXJnZXQ9J19zZWxmJyBocmVmPSJodHRwOi8vd3d3LmZvcmVzZWVnYW1lLmNvbS9nYW1lcy9UcmVhc3VyZS1IdW50L0NhdGVnb3JpZXMvOWNlMDVlY2Y2MmIzYWNiNTZhYzVjNjA4MDNhODg5ZDgiPlRyZWFzdXJlIEh1bnQ8L2E+ZAIBDw8WAh4HRW5hYmxlZGhkZAIEDxYCHwQF/wM8c2NyaXB0IHR5cGU9J3RleHQvamF2YXNjcmlwdCc+LyogPCFbQ0RBVEFbICovIHZhciBnb29nbGVfY29udmVyc2lvbl9pZCA9IDkzNTY3ODU5MTt2YXIgZ29vZ2xlX2N1c3RvbV9wYXJhbXMgPSB3aW5kb3cuZ29vZ2xlX3RhZ19wYXJhbXM7dmFyIGdvb2dsZV9yZW1hcmtldGluZ19vbmx5ID0gdHJ1ZTsgLyogXV0+ICovIDwvc2NyaXB0PjxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0JyBzcmM9Jy8vd3d3Lmdvb2dsZWFkc2VydmljZXMuY29tL3BhZ2VhZC9jb252ZXJzaW9uLmpzJz48L3NjcmlwdD48bm9zY3JpcHQ+PGRpdiBzdHlsZT0nZGlzcGxheTppbmxpbmU7Jz48aW1nIGhlaWdodD0nMScgd2lkdGg9JzEnIHN0eWxlPSdib3JkZXItc3R5bGU6bm9uZTsnIGFsdD0nJyBzcmM9Jy8vZ29vZ2xlYWRzLmcuZG91YmxlY2xpY2submV0L3BhZ2VhZC92aWV3dGhyb3VnaGNvbnZlcnNpb24vOTM1Njc4NTkxLz92YWx1ZT0wJmFtcDtndWlkPU9OJmFtcDtzY3JpcHQ9MCcvPjwvZGl2Pjwvbm9zY3JpcHQ+ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUPY3RsMDAkYnRuU2VhcmNopm2AHZSb5nQwoJAyDwmDjmh7QUNkQ9eo7zV3nxVjcO8=">
+
+    <form method="post" action="/Static/PrivacyPolicy" onsubmit="javascript:return WebForm_OnSubmit();" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg4MTAyMTU0OA9kFgJmDw8WAh4GR2FtZUlkBQEwZBYEAgEPFgIeBmFjdGlvbgUVL1N0YXRpYy9Qcml2YWN5UG9saWN5FgoCAg8WAh4Fc3R5bGUFX2N1cnNvcjpwb2ludGVyO3BhZGRpbmctbGVmdDoxMHB4O2hlaWdodDozM3B4O3BhZGRpbmctdG9wOjE0cHg7Y29sb3I6I2ZmZjtmbG9hdDpsZWZ0O3dpZHRoOjQwcHg7FgICAQ8WAh4FY2xhc3MFCmNpckltZ05leHRkAgMPFgIfAgULd2lkdGg6NjBweDtkAgUPD2QWAh4Kb25rZXlwcmVzcwUncmV0dXJuIGNvbnRyb2xFbnRlcignYnRuU2VhcmNoJywgZXZlbnQpZAIGDw8WAh4ISW1hZ2VVcmwFP2h0dHA6Ly9ycy5mb3Jlc2VlZ2FtZS5jb20vUmVzb3VyY2UvaW1hZ2VzL2ZsdWlkVUkvc2VhcmNoMjJhLnBuZ2RkAgoPZBYCAgUPZBYEAgcPFgIeCWlubmVyaHRtbAWwAzxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz4NCiQod2luZG93KS5sb2FkKGZ1bmN0aW9uICgpIHsNCiAgICAgICAgICAgICAgICAgICAgICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gKCkgeyAkKCcjQ29udGVudFBsYWNlSG9sZGVyMl9kdlNwb25Mb2dvJykuaHRtbCgiPGRpdiBjbGFzcz0nc2xpZGVzaG93Jz48aW1nIHNyYz0naHR0cDovL3JzLmZvcmVzZWVnYW1lLmNvbS9VcGxvYWQvVG9wUmlnaHQvUmlnaHRUb3BQYW5lbF9JMV8wNjE3MTMxNjE0MDguanBnJyB3aWR0aD0nMjMwJyBoZWlnaHQ9JzE0OScgc3R5bGU9J2JvcmRlcjowcHg7Jy8+PC9kaXY+Iik7IH0sIDUwMCk7IA0Kc2V0VGltZW91dChmdW5jdGlvbiAoKSB7ICQoJy5zbGlkZXNob3cnKS5jeWNsZSh7IGZ4OiAnZmFkZScsIGRlbGF5OiAtNDAwMCB9KTt9LCAxMDAwKTt9KTsNCjwvc2NyaXB0PmQCCQ8WAh8GBZEFPHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnPg0KJCh3aW5kb3cpLmxvYWQoZnVuY3Rpb24gKCkgew0KICAgICAgICAgICAgICAgICAgICAgICAgc2V0VGltZW91dChmdW5jdGlvbiAoKSB7ICQoJyNDb250ZW50UGxhY2VIb2xkZXIyX2R2UmlnaHRQYW5lbCcpLmh0bWwoIjxkaXYgY2xhc3M9J3JfYmFuJz48YSBocmVmPSdodHRwOi8vd3d3LnNhc3Rhc3VuZGFyLmNvbS9pbmRleC5waHAvcHJvZHVjdC9zZWFyY2g/c2VhcmNoVGV4dD1oZWFsdGhidWRkeStwdXJlKyUyNitmcmVzaCtqZWVyYStwb3dkZXInIHRhcmdldD0nIF9ibGFuaycgc3R5bGU9J2JvcmRlcjowcHg7Jz48aW1nIHNyYz0naHR0cDovL3JzLmZvcmVzZWVnYW1lLmNvbS9VcGxvYWQvSW5uZXJSaWdodFBhbmVsL0lubmVyUmlnaHRQYW5lbF9JMUxfMDkwOTE2MTYwNTMzLmpwZycgd2lkdGg9JzI1MCcgaGVpZ2h0PSc2MDAnIHN0eWxlPSdib3JkZXI6MHB4OycvPjwvYT48L2Rpdj48ZGl2IGNsYXNzPSdyX2Jhbic+PGltZyBzcmM9J2h0dHA6Ly9ycy5mb3Jlc2VlZ2FtZS5jb20vVXBsb2FkL0lubmVyUmlnaHRQYW5lbC9Jbm5lclJpZ2h0UGFuZWxfSTFNXzA5MDkxNjE2MDQzOS5wbmcnIHdpZHRoPScyNTAnIGhlaWdodD0nMzUwJyAvPjwvZGl2PiIpOyB9LCA1MDApOyANCn0pOw0KPC9zY3JpcHQ+ZAIEDxYCHwYF/wM8c2NyaXB0IHR5cGU9J3RleHQvamF2YXNjcmlwdCc+LyogPCFbQ0RBVEFbICovIHZhciBnb29nbGVfY29udmVyc2lvbl9pZCA9IDkzNTY3ODU5MTt2YXIgZ29vZ2xlX2N1c3RvbV9wYXJhbXMgPSB3aW5kb3cuZ29vZ2xlX3RhZ19wYXJhbXM7dmFyIGdvb2dsZV9yZW1hcmtldGluZ19vbmx5ID0gdHJ1ZTsgLyogXV0+ICovIDwvc2NyaXB0PjxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0JyBzcmM9Jy8vd3d3Lmdvb2dsZWFkc2VydmljZXMuY29tL3BhZ2VhZC9jb252ZXJzaW9uLmpzJz48L3NjcmlwdD48bm9zY3JpcHQ+PGRpdiBzdHlsZT0nZGlzcGxheTppbmxpbmU7Jz48aW1nIGhlaWdodD0nMScgd2lkdGg9JzEnIHN0eWxlPSdib3JkZXItc3R5bGU6bm9uZTsnIGFsdD0nJyBzcmM9Jy8vZ29vZ2xlYWRzLmcuZG91YmxlY2xpY2submV0L3BhZ2VhZC92aWV3dGhyb3VnaGNvbnZlcnNpb24vOTM1Njc4NTkxLz92YWx1ZT0wJmFtcDtndWlkPU9OJmFtcDtzY3JpcHQ9MCcvPjwvZGl2Pjwvbm9zY3JpcHQ+ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUPY3RsMDAkYnRuU2VhcmNonTYhnPARCKCsE/jQ1B8t3fW0b1vjg3Crxxo2L5rQIVE=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
 
 
-<script src="/ScriptResource.axd?d=Qs5HM70I9Ggc20Aw3YpFUd7U1dHLwC2ixwrFVIEtg-kFFaCrkVQtNaQruB1MIuqC8pukwd7g6XmnnAe2-BSzc_o0BcKc4DTLlCDdyo_-eD0Xm8NYk2gQtHQavFSxdOL40&amp;t=f2cd5c5" type="text/javascript"></script>
+<script src="/WebResource.axd?d=3G3rW8b8l8fbxbIOcQKlVxOwdgO8w-VYaCthm_aGafPpMHE4sWEzPSSnwTF_k-mOkBotkzoaQMHXOy3VcLdvaUDEhIdDnwE8bq0sdz9c5-A1&amp;t=636161582620000000" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=FwHl31ERIHFyWHUHf0m17muqUZ4zfSSAFYYh35Pfnwbz5G03pZP-O5eY8_N2oubObPS-i-dO2CiNISGF9ucxif3J1LR4J68AXgUd46gkwBH2UK1AgAJeclgeKeOL4tBQoG8tSiw9-PXbYCT6sSaZIq5GKs_BhWuU3JUTapCps6k1&amp;t=ffffffffa3e72dc7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=fznXS6esvXXapVy6MPiBE0U6RsgILsB_wHKlNxdpApP9Gu5fHIExMIT0l4QHJBDSioa41nIyDpHoXIceWbZbNzvxO0bxrx62wVkvoUpEO7ts_FvDZKV-YGX3mwPo3wA30&amp;t=f2cd5c5" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=ybswVZ2-Kr9LGmvtvqNZt56v2AdpxedKqAGvOu_BWB7Shc0ICT3PDLpNdtmkoF6GJhVtJ6KEo6m7Bgvg73zoGT5J6wtSeb0bLsFrOisz6t7IT6h45fhhXB0K428ltjCWT3QGri8DQrYNJw9lEzFFqQ2&amp;t=f2cd5c5" type="text/javascript"></script>
 <script src="../WebSRVC/AutoComplete.asmx/js" type="text/javascript"></script>
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D4E8D15B">
-        
-        
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D4E8D15B">
+</div>
+
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
         <div id="divLoader" style="display: none;">
             
             <div class="opaqueMOZ" id="dvOpaqueMoz" style="background: none;">
@@ -447,40 +332,81 @@ Game of prediction, play and win cash reward, win cash online, Opinion Square">
         </div>
 
         <!--Header Start-->
-        <header>
-<div class="headerTop" style="padding-top:4px; padding-bottom:3px">
-<div class="headNav">
-<ul>
-   <li><a href="http://www.foreseegame.com/Home.aspx">Home</a></li>
-                                    <li><a href="http://www.foreseegame.com/Static/AboutUs">About us</a></li>
-                                    <li><a href="http://www.foreseegame.com/Static/HowItWorks">How it works</a></li>
-                                    <li><a href="http://www.foreseegame.com/Static/FAQ">FAQs</a></li>
-                                    <li><a href="http://www.foreseegame.com/Static/ContactUs">Contact us</a></li>
-     
-</ul>
-</div><!--<end of headNav> -->
-</div><!--<end of headerTop>-->
+        <div class="headerNewArea">
+            <div class="headerNew">
+                <div class="logoAreaNew">
+                    <a href="http://www.foreseegame.com/Home.aspx">
+                        <img src="http://rs.foreseegame.com/Resource/images/logo.png" alt="Foreseegame Logo"></a>
+                </div>
+                <div class="hneaderNewLinks">
+                    <ul>
+                        <li><a href="http://www.foreseegame.com/Static/AboutUs">About us</a></li>
+                        <li><a href="http://www.foreseegame.com/Static/HowItWorks">How it works</a></li>
+                        
+                        <li><a href="http://www.foreseegame.com/Static/ContactUs">Contact us</a></li>
 
-<div class="masterIn">
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!--<end of headNav> -->
+        <div id="mySidenav1" class="sidenav1" onclick="openCloseListing()" style="cursor:pointer;padding-left:10px;height:33px;padding-top:14px;color:#fff;float:left;width:40px;">
+            <div id="divArrow" style="float: left" width="20px" height="20px" class="cirImgNext"></div>
+        </div>
+        <div id="mySidenav" class="pointBucketCashWalletFloatingIconArea  sidenav" style="width:60px;">
+
+            <div class="commonFloatingRoundParts">
+                <div class="cashWalletIconArea_Floating">
+                    <a href="http://www.foreseegame.com/coupons-discounts-cashback/cashback-stats.aspx" style="display: block;" title="Cash Wallet">
+                        <i class="fa fa-rupee" aria-hidden="true"></i> <span style="display: block">Wallet</span></a>
+                </div>
+            </div>
+            <div class="commonFloatingRoundParts">
+                <div class="rewardPointIconArea_Floating">
+                    <a href="http://www.foreseegame.com/coupons-discounts-cashback/reward-point-bucket.aspx" style=" display: block;" title="Reward Points">
+                        <i class="fa fa-bitbucket" aria-hidden="true"></i><span style="display: block;"> Points</span></a>
+                </div>
+            </div>
+            <div class="commonFloatingRoundParts">
+                <div class="gameIconArea_Floating">
+                    <a href="http://www.foreseegame.com/games/play-games/All/2c02363aa65ef4e7" style="display: block;" title="Games">
+                        <i class="fa fa-gamepad" aria-hidden="true"></i><span style="display: block">Games</span></a>
+                </div>
+            </div>
+            <div class="commonFloatingRoundParts">
+                <div class="contestIconArea_Floating">
+                    <a href="http://www.foreseegame.com/contest/Listing.aspx" title="Contests">
+                        <i class="fa fa-trophy" aria-hidden="true"></i><span style="display: block">Contests</span></a>
+                </div>
+            </div>
+            <div class="commonFloatingRoundParts">
+                <div class="lotteryIconArea_Floating">
+                    <a href="http://www.foreseegame.com/games/Free-Lucky-Draw/Categories/21d12052bf94e326de380ad84ece5cd6" style="display: block;" title="Free Lucky Draw">
+                        <i class="fa fa-empire" aria-hidden="true"></i><span style="display: block">Lucky <br>Draw</span></a>
+                </div>
+            </div>
+            <div class="commonFloatingRoundParts">
+                <div class="dealCouponIconArea_Floating">
+                    <a href="http://www.foreseegame.com/coupons-discounts-cashback/offers-deals.aspx" style="display: block;" title="Shop &amp; Get Cashback">
+                        <i class="fa fa-shopping-cart" aria-hidden="true"></i><span style="display: block">Offers</span></a>
+                </div>
+            </div>         
+
 
     
-
-    
-<!--<end of topEwall>-->
-
-</div><!--<end of masterIn>-->
-</header>
+    </div>
+        <!--<end of headerTop>-->
 
         <section>
-<div class="masterIn InnerGap">
-<div class="searchPart">
-<div class="searchFont">Search Games by</div>
+    <div class="InnerGap">
+        <div class="bottomNewHeaderSectionGameListing">
+            <div class="newSearch">
+            <h5>Search Games by : </h5>
 
-<div style="width:100%; float:left; padding:0; margin:0; height:34px;">
-<div style="width:32%; float:left; padding:0; margin:0; height:34px;">
-
-
-    <select name="ctl00$ddlSearch" id="ddlSearch" class="searchdeck2" onchange="GetSelectedTextValue(this)">
+            <div class="searchBoxNew">
+                <div class="keywordBox">
+                    <select name="ctl00$ddlSearch" id="ddlSearch" class="searchdeck2New" onchange="GetSelectedTextValue(this)">
 	<option value="All">Keyword</option>
 	<option value="Categories">Categories</option>
 	<option value="Events" style="display:none;">Events</option>
@@ -488,57 +414,45 @@ Game of prediction, play and win cash reward, win cash online, Opinion Square">
 	<option value="Products">Products</option>
 
 </select>
+                </div>
+            <div class="txtBox">
+                <input name="ctl00$txtSearch" type="text" maxlength="50" id="txtSearch" class="searchdeckNew" onclick="txt_focus(this.id,this.value);" autocomplete="off" onkeyup="removespace(this.id,this.value);myFunction(event,this.value);" onblur="txt_blur(this.id,this.value);" validationmode="1" list="SuggestedData" onkeypress="return controlEnter('btnSearch', event)">
+            </div>
+             
+                <datalist id="SuggestedData" data-list-size="12">
+                </datalist>
+            
+            <div class="btnBox">
+                <input type="image" name="ctl00$btnSearch" id="btnSearch" class="searchdeckBtnNew" src="http://rs.foreseegame.com/Resource/images/fluidUI/search22a.png" onclick="javascript:divon();">
+                </div>
+            </div>
+            </div><!--<end of searchPart>-->
+            <div class="loginPart">
+                 
+            <div style="clear:both"></div> 
+            <ul>
+                    
+                <li><a href="http://www.foreseegame.com/login/"><img src="http://rs.foreseegame.com/Resource/images/fluidUI/login.png" alt="login logo" style="float:left;"> Log In</a></li>
+                <li><a href="http://www.foreseegame.com/MemberRegistration"><img src="http://rs.foreseegame.com/Resource/images/fluidUI/signup.png" alt="signup logo" style="float:left;"> Sign Up</a></li>
+                
+                
+                    <li><a id="lnkReferralSystem" href="javascript:__doPostBack('ctl00$lnkReferralSystem','')"><img src="http://rs.foreseegame.com/Resource/images/fluidUI/friend_hover.png" alt="invite friend" style="float:left;"> Invite Friends</a></li>
+            </ul> 
 
-
-</div>
-
-<div style="width:47%; float:left; padding:0; margin:0; height:34px;">
-    <input name="ctl00$txtSearch" type="text" maxlength="50" id="txtSearch" class="searchdeck" onclick="txt_focus(this.id,this.value);" autocomplete="off" onkeyup="removespace(this.id,this.value);myFunction(event,this.value);" onblur="txt_blur(this.id,this.value);" validationmode="1" list="SuggestedData" onkeypress="return controlEnter('btnSearch', event)">
-</div>
-
- 
-    <datalist id="SuggestedData" data-list-size="12">
-    </datalist>
-
-
-
-<div style="width:20%; float:left; padding:0; margin:0; height:34px;">
-    <input type="image" name="ctl00$btnSearch" id="btnSearch" class="searchdeck3" src="http://rs.foreseegame.com/Resource/images/fluidUI/search22a.png" onclick="javascript:divon();">
+            </div><!--<end of loginPart>-->          
+        </div>
     </div>
-
-</div>
-</div><!--<end of searchPart>-->
-
-<div class="logoPart">
-<a href="http://www.foreseegame.com/Home.aspx"><img src="http://rs.foreseegame.com/Resource/images/fluidUI/foreseegameLogoSmall.png" alt=""></a>
-</div><!--<end of logoPart>-->
-
-<div class="loginPart">
-     
-<div style="clear:both"></div> 
-<ul>
-     
- <li><a href="http://www.foreseegame.com/login/"><img src="http://rs.foreseegame.com/Resource/images/fluidUI/login.png" alt="login logo" style="float:left;"> Log In</a></li>
- <li><a href="http://www.foreseegame.com/MemberRegistration"><img src="http://rs.foreseegame.com/Resource/images/fluidUI/signup.png" alt="signup logo" style="float:left;"> Sign Up</a></li>
- 
-    
-     <li><a id="lnkReferralSystem" href="javascript:__doPostBack('ctl00$lnkReferralSystem','')"><img src="http://rs.foreseegame.com/Resource/images/fluidUI/friend_hover.png" alt="invite friend" style="float:left;"> Invite Friends</a></li>
-</ul> 
-
-</div><!--<end of loginPart>-->
-
-</div><!--<end of masterIn>-->
-<div style="clear:both"></div>
 </section>
+        <div style="clear: both"></div>
 
-<section>
-    <div class="depbluebg">
+        <section>
+    <div class="depbluebg" style="display:none;">
         <div class="masterIn">
         <div class="gme_cat_2">
             
             <div class="drop_brand">
                 <ul>
-                    <li><a href="#">
+                    <li style="display:none;"><a href="#">
                         <img src="http://rs.foreseegame.com/Resource/images/fluidUI/BrabdIcon.png" alt="" style="background-position:bottom;"> 
                         &nbsp; Brands 
                         <img src="http://rs.foreseegame.com/Resource/images/menu_dd_nv.png" width="9" height="8" alt="" border="0"></a>
@@ -548,10 +462,10 @@ Game of prediction, play and win cash reward, win cash online, Opinion Square">
                             </ul>
                     </li>
                     <li><a href="http://www.foreseegame.com/AllCategories">
-                        <img src="http://rs.foreseegame.com/Resource/images/fluidUI/GameIcon.png" alt="" style="background-position:bottom;">
-                        &nbsp; Game Categories
+                        <img src="http://rs.foreseegame.com/Resource/images/fluidUI/GameIcon.png" alt="" style="float: left; margin: 6px 10px 0 0;">
+                        Select your favourite games
                     </a></li>
-                    <li><a href="http://www.foreseegame.com/AllProducts">
+                    <li style="display:none;"><a href="http://www.foreseegame.com/AllProducts">
                         <img src="http://rs.foreseegame.com/Resource/images/fluidUI/productIcon.png" alt="" style="background-position:bottom;"> 
                         &nbsp; Games by Product
                     </a></li>
@@ -570,8 +484,7 @@ Game of prediction, play and win cash reward, win cash online, Opinion Square">
                 <a href="http://www.foreseegame.com/ForeseeMoney">
                 <img src="http://rs.foreseegame.com/Resource/images/fluidUI/FomoLogoInnerPage.png" alt="fomoLogo" title="Play Games &amp; Earn Money!">
                 </a>
-            </div>
-            
+            </div>         
         </div>
         </div><!--<end of masterIn>--> 
     </div><!--<end of depbluebg> -->
@@ -583,13 +496,25 @@ Game of prediction, play and win cash reward, win cash online, Opinion Square">
         <!--Body Start-->
         <div class="bdy">
             
-                <div id="ContentPlaceHolder2_listing_bdy_con" class="listing_bdy_con">
-                    <div class="listing_game_area">
+                <div class="mainContainerGameListing">
+                    <div class="listing_game_area_new">
                         
-                            <div class="gme_play_area" style="border-width: 0px 0 0 0;">
-                                
+                        
+                    </div>
+                    <div>
+                        
+                             
+                    </div>
+                </div>
+                
+                <div id="ContentPlaceHolder2_listing_bdy_con" class="mainContainerGameListing">
+
+                    <div class="gameListingLeftPart">
+                        <div class="listing_game_area_new">
+
+                            
    <div class="row offer_details">
-<div style="line-height:22px">
+<div style="line-height:22px; float:left; width:100%; padding-bottom:30px;">
 <span class="blu fontSize24">PRIVACY POLICY FOR FORESEEGAME (WEBSITE &amp; MOBILE APP)</span><br><br>
 
 <p><span class="blu fontSize24">OVERVIEW:</span><br>
@@ -694,45 +619,53 @@ In accordance with the Information Technology Act, 2000 and rules made thereunde
 </div>
 </div><!--<end of row>-->
 
-                                
-                                
-                            </div>
-                            <div id="ContentPlaceHolder2_dvBottomPanel" class="bot_ban"><script type="text/javascript">
-$(window).load(function () {
-                        setTimeout(function () { $('#ContentPlaceHolder2_dvBottomPanel').html("<div class='slideshow'><a href='https://play.google.com/store/apps/details?id=com.mhbl.sastasundar' target=' _blank' style='border:0px;'><img src='http://rs.foreseegame.com/Upload/InnerBottomPanel/BottomPanel_I1_092116191453.jpg' width='707' height='178' style='border:0px;'/></a></div>"); }, 500); 
-setTimeout(function () { $('.slideshow').cycle({ fx: 'fade', delay: -4000 });}, 1000);});
-</script></div>
+                            
+                            
+
+ 
                         </div>
-                        <div id="ContentPlaceHolder2_dvSponLogo" class="spon_logo_rgt" style="overflow: hidden;"><script type="text/javascript">
+                        <div class="listing_game_area_new" style="display: none">
+                            <div id="ContentPlaceHolder2_dvBottomPanel" class="bot_ban_New">
+                                
+
+                            </div>
+                        </div>
+                    </div>
+                    
+
+                    <div class="gameListingRightPart">
+                        <div id="ContentPlaceHolder2_dvSponLogo" class="spon_logo_rgt_New" style="overflow: hidden;"><script type="text/javascript">
 $(window).load(function () {
                         setTimeout(function () { $('#ContentPlaceHolder2_dvSponLogo').html("<div class='slideshow'><img src='http://rs.foreseegame.com/Upload/TopRight/RightTopPanel_I1_061713161408.jpg' width='230' height='149' style='border:0px;'/></div>"); }, 500); 
 setTimeout(function () { $('.slideshow').cycle({ fx: 'fade', delay: -4000 });}, 1000);});
 </script></div>
-                        <div class="listing_rgt_ban" id="sidebar">
-                            <div id="ContentPlaceHolder2_dvRightPanel" class="rgt_main_ban" style="bottom: 1200px !important"><script type="text/javascript">
+                        <div class="listing_rgt_ban_New" id="sidebar">
+                            
+                            <div id="ContentPlaceHolder2_dvRightPanel" class="rgt_main_ban_New"><script type="text/javascript">
 $(window).load(function () {
                         setTimeout(function () { $('#ContentPlaceHolder2_dvRightPanel').html("<div class='r_ban'><a href='http://www.sastasundar.com/index.php/product/search?searchText=healthbuddy+pure+%26+fresh+jeera+powder' target=' _blank' style='border:0px;'><img src='http://rs.foreseegame.com/Upload/InnerRightPanel/InnerRightPanel_I1L_090916160533.jpg' width='250' height='600' style='border:0px;'/></a></div><div class='r_ban'><img src='http://rs.foreseegame.com/Upload/InnerRightPanel/InnerRightPanel_I1M_090916160439.png' width='250' height='350' /></div>"); }, 500); 
 });
 </script></div>
                         </div>
                     </div>
+                    
                 </div>
             
-        
+        </div>
         <!--body End-->
         <!--Ad Network start-->
         
 
         <div class="listing_bdy_con">
-        <div id="AdNewtorkDVCenter" class="AD728X90Con">
-            <div class="AD728X90">
-                <!-- Affinity In-Page Code Starts here -->
-                <iframe id="AdNewtorkFrameCenter" src="" allowtransparency="true" scrolling="no" frameborder="0"></iframe>
-                <!-- Affinity In-Page Code Ends here -->
+            <div id="AdNewtorkDVCenter" class="AD728X90Con">
+                <div class="AD728X90">
+                    <!-- Affinity In-Page Code Starts here -->
+                    <iframe id="AdNewtorkFrameCenter" src="" allowtransparency="true" scrolling="no" frameborder="0"></iframe>
+                    <!-- Affinity In-Page Code Ends here -->
+                </div>
             </div>
         </div>
-        </div>
-
+        <div style="clear: both;"></div>
         <script type="text/javascript">
             $(document).ready(function () {
                 var Path = 'http://www.foreseegame.com';
@@ -743,140 +676,92 @@ $(window).load(function () {
         </script>
         
         <!--Ad Network End-->
-        <!--footer Start-->
 
-        <div id="footer_top" style="margin-top: 50px; width: 100%; background-color: #2094CA; float: left; padding-top: 30px;">
-            <div class="masterIn">
-                <div class="footerNewleftpart">
-                    <div class="flogo">
-                        <a href="http://www.foreseegame.com/Home.aspx">
-                            <img src="http://rs.foreseegame.com/Resource/images/fluidUI/footer_logo.png" alt=""></a>
-                    </div>
-                    <div class="parts">
-                        <p style="padding: 30px 25px 60px 0;">
-                            foreseegame.com, Indiaʼs No. 1 innovative digital media of consumer engagement, is the ideal platform for two way communication and direct interaction between brands and consumers. foreseegame offer a win-win partnership between brands and consumers through entertainment, games, brand promotion, social responsibility and consumer satisfaction on a digital platform while providing concentrated consumer engagement for brands. foreseegame's focused consumer engagement plan provides the brands with undiluted consumer attention and helps building new customers.
-                            <br>
-                            <br>
-                            foreseegame is a web and mobile-enabled platform where users can get themselves registered and play online games completely free of cost. The games vary widely in nature and playing those games requires knowledge, awareness and presence of mind. These are in fact, a mixed bag of fun, entertainment, knowledge and prediction-based games. The consumers can play as many games as they wish depending on their choice and preference. Each game is sponsored by a lucrative brand and the winners are gratified handsomely by the brands in the form of either cash or gift hampers, gift vouchers /discount coupons. The cash rewards get credited directly to the bank account of the consumers, while the vouchers &amp; coupons may be redeemed from specified retail stores or through online. Gift hampers are delivered right at the doorsteps of the winners. It is an ample chance to win handsomely sitting at the comfort of one's home. So go ahead. Simply register yourself and start playing! Thousands of rewards await to be won!
-                        </p>
-                    </div>
-                    <div id="dvMSF" class="parts">
-                        <p>
-                            MOST SEARCHED ON FORESEEGAME:<br>
-                            <a>
-                                </a><a target="_self" href="http://www.foreseegame.com/games/Aasaan/Brands/c8302fbbc9de1482">Aasaan</a> | <a target="_self" href="http://www.foreseegame.com/games/Zerotox/Brands/c5596ea795a0119a">Zerotox</a> | <a target="_self" href="http://www.foreseegame.com/games/Handyware/Brands/d1439480b082d55b4b26a209f90418ae">Handyware</a> | <a target="_self" href="http://www.foreseegame.com/games/Gomax/Brands/c9739a6f50d4157c">Gomax</a> | <a target="_self" href="http://www.foreseegame.com/games/Foreseegame/Brands/0ac2e6022a815a3ccc8283589430e6cd">Foreseegame</a> | <a target="_self" href="http://www.foreseegame.com/games/SastaSundar.com/Brands/42f0694f39eb7530c49b208bf5238df9">Sastasundar.com</a> | <a target="_self" href="http://www.foreseegame.com/games/Opinion-Square/Categories/f4b1ed047247082a6fc13e05096e073d">Opinion Square</a> | <a target="_self" href="http://www.foreseegame.com/AllProducts">Win products</a> | <a target="_self" href="http://www.foreseegame.com/games/Cash-Reward/Products/94224bea0c8b4eaae431c873f663e2c2">Cash reward</a> | <a target="_self" href="http://www.foreseegame.com/games/Treasure-Hunt/Categories/9ce05ecf62b3acb56ac5c60803a889d8">Treasure Hunt</a>
-                            
-                        </p>
+        <!---------------Start Footer------------------->
+        <div class="footerbottomarea">
+            <div class="footercontainer">
+                <div class="areaEight">
+                    <div class="areaSix">
+                        <h3>About Us</h3>
+                        <p>foreseegame.com, Indiaʼs No. 1 innovative digital media of consumer engagement, is the ideal platform for two way communication and direct interaction between brands and consumers. foreseegame offer a win-win partnership between brands and consumers through entertainment, games, brand promotion, social responsibility and consumer satisfaction on a digital platform while providing concentrated consumer engagement for brands. foreseegame's focused consumer engagement plan.</p>
                     </div>
 
-                </div>
-                <div class="footerNewrighttpart">
-
-                    <div class="frlinkparts">
-                        <div class="footerNew_rightlinks">
-                            <ul>
-                                <li><a href="http://www.foreseegame.com/Home.aspx">Home</a></li>
-                                <li><a href="http://www.foreseegame.com/Static/AboutUs">About us</a></li>
-                                <li><a href="http://www.foreseegame.com/Static/HowItWorks">How it works</a></li>
-                                <li><a href="http://www.foreseegame.com/Static/FAQ">FAQs</a></li>
-                                <li><a href="http://www.foreseegame.com/Static/ContactUs">Contact us</a></li>
-                                <li><a href="http://www.foreseegame.com/UserOpinionSquare">Opinion Square Reports</a></li>
-                                <li><a href="http://www.foreseegame.com/MediaCoverage">Media Centre</a></li>
-                            </ul>
+                    <div class="areaSix">
+                        <h3>brand archives</h3>
+                        <div class="footerarchieve">
+                            <a href="http://www.foreseegame.com/Clientele">
+                                <img src="http://rs.foreseegame.com/Resource/HomeTools/images/archieve.png" alt="Brand Archieve" class="img-responsive" width="334" height="295">
+                            </a>
                         </div>
                     </div>
-                    <div class="frlinkparts">
-                        <div class="footerNew_rightlinks">
-                            <ul>
-                                <li><a href="http://foreseegame.org/" target="_blank">Official Blog</a></li>
-                                <li><a href="http://www.foreseegame.com/Clientele">Brand Archive</a></li>
-                                
-                                <li>
-                                    
+                    <div class="footersocial">
+                          
+                            <div class="col-lg-12 pad0 line-height-34">
+                                <h4>Keep in touch with us &nbsp; </h4>
+                                <span style="float:right;">
+                                <a rel="nofollow" href="https://www.facebook.com/Foreseegame/?fref=ts" target="_blank" title="Facebook">
+                                    <img src="http://rs.foreseegame.com/Resource/images/facebook.png" "="" alt="Foreseegame" border="0"></a>
+                                <a rel="nofollow" href="https://plus.google.com/+Foreseegamedotcom" title="Google+" target="_blank">
+                                    <img src="http://rs.foreseegame.com/Resource/images/google.png" alt="Foreseegame" border="0"></a>
+                                <a rel="nofollow" href="https://www.linkedin.com/company/3568542?trk=cws-btn-overview-0-0" title="Linkedin" target="_blank">
+                                    <img src="http://rs.foreseegame.com/Resource/images/linkedin.png" alt="Foreseegame" border="0"></a>
+                                <a rel="nofollow" href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fwww.foreseegame.com%2F&amp;ref_src=twsrc%5Etfw&amp;screen_name=foreseegame&amp;tw_p=followbutton" title="Twitter" target="_blank">
+                                    <img src="http://rs.foreseegame.com/Resource/images/twitter.png" alt="Foreseegame" border="0"></a>                             
+                                </span>
+                            </div>
 
-
-                                    <a id="btnDesktop" class="aspNetDisabled" style="display: none;">Desktop</a>
-                                    <a id="btnMobile" href="javascript:__doPostBack('ctl00$btnMobile','')">Foreseegame Lite</a>
-
-
-
-                                </li>
-                                
-                                <li><a href="http://www.foreseegame.com/Static/TermsOfUse">Terms of Use</a></li>
-                                <li><a href="http://www.foreseegame.com/Static/PrivacyPolicy">Privacy Policy</a></li>
-                                 
-
-                            </ul>
-                        </div>
                     </div>
-                    <div class="parts">
-                        <div class="engage_btn" style="display: none"><a href="#">Engage Your Consumers</a></div>
-                    </div>
-
                 </div>
 
-                <div style="clear:both"></div>
-
-                <div class="footerNew_socialicons">
+                <div class="areaFour">
+                    <h3>Advertise with us</h3>
+                    <div class="advertiseformarea">
+                        <p>Why advertise with foreseegame? </p>
+                        <p style="padding: 10px 0;">
+                            Connect-Engage-Prosper with foreseegame for unlimited possibilitiies.
+                                   Promote your Company, Brand, Store and Product by 
+                                    connecting with millions of potential customers across India.
+                        </p>
+                        <div>
+                            <a class="advertiseWithCollapseLink" onclick="showAdwithus()" style="text-decoration:underline;  color:#fff;">Interested? Connect with us  <span class="fa fa-arrow-circle-o-down" id="ifstatus"></span></a>
+                            <div id="divAdvertisewithus" style="display: none;">
+                                <iframe id="IframeAdvertisewithus" height="350px" src="" allowtransparency="true" scrolling="no" frameborder="0" style="width: 100%; float: left;"></iframe>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="areaTwelve footerlink">
+                 
+                        <a href="http://www.foreseegame.com/Static/AboutUs">About us</a> | 
+                        <a href="http://www.foreseegame.com/Static/HowItWorks">How it works</a> | 
+                        <a href="http://www.foreseegame.com/Static/FAQ">FAQs</a> |
+                        <a href="http://www.foreseegame.com/Static/ContactUs">Contact us</a> | 
+                        <a href="http://www.foreseegame.com/UserOpinionSquare">Opinion Square Reports</a> | 
+                        <a href="http://www.foreseegame.com/MediaCoverage" rel="nofollow">Media Centre</a> | 
+                       
+                        <a href="http://www.foreseegame.com/Clientele">Brand Archive </a> |
+                       
                     
-
-                    
-                    <div id="fb-root"></div>
-                    <script>(function (d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
-    fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-                    <div class="fb-like" data-href="https://www.facebook.com/Foreseegame" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
-                    
-
-                    
-                    <a href="https://twitter.com/foreseegame" class="twitter-follow-button" data-show-count="false">Follow @foreseegame</a>
-                    <script type="text/javascript">!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + '://platform.twitter.com/widgets.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'twitter-wjs');</script>
-                    
-
-                    
-                    <!-- Place this tag in your head or just before your close body tag. -->
-                    <script src="https://apis.google.com/js/platform.js" async="" defer=""></script>
-
-                    <!-- Place this tag where you want the widget to render. -->
-                    <div class="g-follow" data-annotation="bubble" data-height="20" data-href="https://plus.google.com/112924591267646612944" data-rel="publisher"></div>
-
-                    
-
-
-
-
-                    
-
-                    <script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
-                    <script type="IN/FollowCompany" data-id="3568542" data-counter="right"></script>
-                    
+                        
+                    <a href="http://www.foreseegame.com/Static/TermsOfUse">Terms of Use</a> | 
+                        <a href="http://www.foreseegame.com/Static/PrivacyPolicy">Privacy Policy</a>
                 </div>
             </div>
         </div>
 
-
-        <div id="footer_bot" class="footerNew_bottompart">
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">All rights reserved. Use of this Website assumes acceptance of Terms of Use  |  The IPRs of this website are protected under the laws of Patents, Copyrights and Trademarks</div>
+        <div class="footerNew">
+            <div class="footercontainer">
+                <div class="areaTwelve">
+                    All rights reserved. Use of this Website assumes acceptance of Terms of Use | The IPRs of this website are protected under the laws of Patents, Copyrights and Trademarks
+                </div>
+            </div>
         </div>
-
-
+        <!---------------End Footer------------------->
         
-
-
         <section>
 
-
-
-
-
-
 <div class="allLinks">
-
 <!--<end of oneLinkBox> 
 
 <div class="oneLinkBox">
@@ -885,9 +770,7 @@ $(window).load(function () {
 
 <!--<end of oneLinkBox> -->
 
-<div class="oneLinkBox">
-<a href="http://www.foreseegame.com/OffersByBrand"><img src="http://rs.foreseegame.com/Resource/images/NewRedemptions.png" alt=""></a>
-</div><!--<end of oneLinkBox> -->
+
 
 
 </div><!--<div class="allLinks">-->
@@ -897,61 +780,7 @@ $(window).load(function () {
 
         <!--footer End-->
         
-        <!--Newsletter Start-->
-        <script type="text/javascript">
-
-            $(document).ready(function () {
-                $('a.nwsltr-window').click(function () {
-
-                    // Getting the variable's value from a link 
-                    var nwsltrBox = $(this).attr('href');
-
-                    //Fade in the Popup and add close button
-                    $(nwsltrBox).fadeIn(300);
-
-                    //Set the center alignment padding + border
-                    var popMargTop = ($(nwsltrBox).height() + 80) / 2;
-                    var popMargLeft = ($(nwsltrBox).width() + 24) / 2;
-
-                    $(nwsltrBox).css({
-                        'margin-top': -popMargTop,
-                        'margin-left': -popMargLeft
-                    });
-
-                    // Add the mask to body
-                    $('body').append('<div id="mask" class="mask"></div>');
-                    $('#mask').fadeIn(300);
-
-                    return false;
-                });
-
-                // When clicking on the button close or the mask layer the popup closed
-                $('a.close').live('click', function () {
-                    $('#mask , .nwsltr-popup').fadeOut(300, function () {
-                        $('#mask').remove();
-                        $('txtNewsletterEmail').value = "";
-                        txt_blur('txtNewsletterEmail', '');
-                        //                    location.reload();
-
-                    });
-                    return false;
-                });
-                $('a.close1').live('click', function () {
-                    $('#mask , .nwsltr-popup').fadeOut(300, function () {
-                        $('#mask').remove();
-                        var MemID = $("#hdnMemberID").attr('value');
-                        var txtMemID = $("#txtNewsletterEmail").val()
-                        if (MemID != txtMemID) {
-                            $('txtNewsletterEmail').value = "";
-                            $("#txtNewsletterEmail").val(MemID);
-                        }
-
-
-                    });
-                    return false;
-                });
-            });
-        </script>
+        <!--Newsletter Start-->       
         <div id="Panel1">
 	
             <div id="nwsltr-box" class="nwsltr-popup">
@@ -976,7 +805,6 @@ $(window).load(function () {
                         <div style="height: 31px; float: right; line-height: 10px; color: Red; font-size: 13px; margin-right: 10px; margin-top: 13px;">
                             <div id="MsgDiv">
                             </div>
-                            
                         </div>
                     </div>
                 </div>
@@ -986,82 +814,18 @@ $(window).load(function () {
         
 </div>
         <!--Newsletter End-->
-          
+        
         <!--Feedback Start-->
-        <script type="text/javascript">
-            $(document).ready(function () {
-                $('#feedback-window').click(function () {
-
-                    // Getting the variable's value from a link 
-                    var feedbackBox = $(this).attr('href');
-
-                    //Fade in the Popup and add close button
-                    $(feedbackBox).fadeIn(300);
-
-                    //Set the center alignment padding + border
-                    var popMargTop = ($(feedbackBox).height() + 24) / 2;
-                    var popMargLeft = ($(feedbackBox).width() + 24) / 2;
-
-                    $(feedbackBox).css({
-                        'margin-top': -popMargTop,
-                        'margin-left': -popMargLeft
-                    });
-
-                    // Add the mask to body
-                    $('body').append('<div id="mask" class="mask"></div>');
-                    $('#mask').fadeIn(300);
-
-                    return false;
-                });
-
-                // When clicking on the button close or the mask layer the popup closed
-                $('a.close2').live('click', function () {
-
-                    $('#mask , .feedback-popup').fadeOut(300, function () {
-
-                        $('#mask').remove();
-                    });
-                    return false;
-                });
-
-            });
-            function checkTextAreaMaxLength(textBox, e, length) {
-
-                var mLen = textBox["MaxLength"];
-                if (null == mLen)
-                    mLen = length;
-
-                var maxLength = parseInt(mLen);
-                if (!checkSpecialKeys(e)) {
-                    if (textBox.value.length > maxLength - 1) {
-                        if (window.event)//IE
-                        {
-                            e.returnValue = false;
-                            return false;
-                        }
-                        else//Firefox
-                            e.preventDefault();
-                    }
-                }
-            }
-
-            function checkSpecialKeys(e) {
-                if (e.keyCode != 8 && e.keyCode != 46 && e.keyCode != 35 && e.keyCode != 36 && e.keyCode != 37 && e.keyCode != 38 && e.keyCode != 39 && e.keyCode != 40)
-                    return false;
-                else
-                    return true;
-            }
-        </script>
-        <div id="Panel2">
+        
+        <div id="Panel2" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'btnFeedBack')">
 	
             <div id="feedback-box" class="feedback-popup">
                 <a href="javascript:void(0);" class="close2">
                     <img src="http://rs.foreseegame.com/Resource/images/close_pop.png" class="btn_close" title="Close Window" alt="close button"></a>
                 <div class="fdbck_top">
-                  
                 </div>
-                <div class="fdbck_mid" style="height:auto;">
-                    <div class="fdbk_formArea" style="height: auto; display:none;">
+                <div class="fdbck_mid" style="height: auto;">
+                    <div class="fdbk_formArea" style="height: auto; display: none;">
                         <span>Name :</span>
                         
                         <input name="ctl00$txtFeedbackName" type="text" value="N/A" id="txtFeedbackName" class="fdbk_formArea_txt" onclick="txt_focus(this.id,this.value);" onblur="txt_blur(this.id,this.value);">
@@ -1072,47 +836,49 @@ $(window).load(function () {
                         
                         <textarea name="ctl00$txtFeedbackComments" rows="2" cols="20" id="txtFeedbackComments" class="fdbk_formArea_txt" onkeydown="return checkTextAreaMaxLength(this,event,'200');" style="height: 110px; background-repeat: repeat-x; background-color: #ffffff; margin-top: 8px;"></textarea>
                         <div style="width: 210px; height: 31px; float: left; line-height: 30px; color: Red; font-size: 12px;">
-                            
-                            
+                            <span id="RegularExpressionValidator2" style="display:none;">Please enter valid email address!</span>
+                            <span id="RequiredFieldValidator1" style="display:none;">Please enter your feedback!</span>
                         </div>
                         <div class="fdbk_SubmitBtn">
                             <input type="submit" name="ctl00$btnFeedBack" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnFeedBack&quot;, &quot;&quot;, true, &quot;feedback&quot;, &quot;&quot;, false, false))" id="btnFeedBack" class="fdbk_SubmitBtn" style="margin: 0px 0px 0px 17px;">
                         </div>
                     </div>
-                    <div class="fdbk_formArea" style="width:322px; height:auto; padding:0px 28px 8px 28px">
-                         <div id="Panel3">
+                    <div class="fdbk_formArea" style="width: 322px; height: auto; padding: 0px 28px 8px 28px">
+                        <div id="Panel3" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'btnSaveTestimonial')">
 		
-                        
-                         <div>
-                             <div style="font-size:11px; color:gray; padding-bottom:10px;">** We may use your feedback in our Buddies' Byte section</div>
-                            
-                                <div style="color:#1294d0; float:left">Name<span class="FormMandatorySign" style="font-size:10px"> *</span></div>
-                                
-                                <div style="float:left; margin-left:5px; width: 82% ">
-                                    <input name="ctl00$txtName" type="text" maxlength="50" id="txtName" class="txt_fld" onpaste="return false;" validationmode="1" style="width: 100%;height: 25px;"><br>
-                                    
+                            <div id="testimonialValidation" class="error" style="display:none;">
+
+		</div>
+                            <div>
+                                <div style="font-size: 11px; color: gray; padding-bottom: 10px;">** We may use your feedback in our Buddies' Byte section</div>
+
+                                <div style="color: #1294d0; float: left">Name<span class="FormMandatorySign" style="font-size: 10px"> *</span></div>
+
+                                <div style="float: left; margin-left: 5px; width: 82%">
+                                    <input name="ctl00$txtName" type="text" maxlength="50" id="txtName" class="txt_fld" onpaste="return false;" validationmode="1" style="width: 100%; height: 25px;"><br>
+                                    <span id="RequiredFieldValidator3" class="error" style="color:Red;display:none;"></span>
                                     <input type="hidden" name="ctl00$hdnTestimonialType" id="hdnTestimonialType">
 
                                 </div>
-                            
-                             <div style="clear:both"></div>
-                            
-                               
-                            
-                                 <div style="color:#1294d0;margin-top: 14px;">Feedback<span class="FormMandatorySign" style="font-size:10px">*</span></div>
-                                  <div>
-                                    <textarea name="ctl00$txtFeedback" rows="10" cols="20" id="txtFeedback" class="txt_fld" onpaste="return false;" validationmode="1" style="resize:none; width: 314px;"></textarea><br>
-                                       
-                                     <br>
+
+                                <div style="clear: both"></div>
                                 
+                                
+
+                                <div style="color: #1294d0; margin-top: 14px;">Feedback<span class="FormMandatorySign" style="font-size: 10px">*</span></div>
+                                <div>
+                                    <textarea name="ctl00$txtFeedback" rows="10" cols="20" id="txtFeedback" class="txt_fld" onpaste="return false;" validationmode="1" style="resize: none; width: 314px;"></textarea><br>
+                                    <span id="RequiredFieldValidator4" class="error" style="color:Red;display:none;"></span>
+                                    <br>
+
                                 </div>
-                                <div style="text-align:center">
-                                    <input type="submit" name="ctl00$btnSaveTestimonial" value="Save" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnSaveTestimonial&quot;, &quot;&quot;, true, &quot;testimonialValidationGrp&quot;, &quot;&quot;, false, false))" id="btnSaveTestimonial" class="buttonY"> 
-                                     
+                                <div style="text-align: center">
+                                    <input type="submit" name="ctl00$btnSaveTestimonial" value="Save" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnSaveTestimonial&quot;, &quot;&quot;, true, &quot;testimonialValidationGrp&quot;, &quot;&quot;, false, false))" id="btnSaveTestimonial" class="buttonY">
+
                                 </div>
 
-                        </div>
-                             
+                            </div>
+                        
 	</div>
                     </div>
 
@@ -1123,12 +889,8 @@ $(window).load(function () {
         
 </div>
         <!--Feedback End-->
-      
-        
 
-        <script language="javascript" type="text/javascript">
-            document.getElementById("gameNavMenu").style.display = "block";
-        </script>
+        
         <div class="city-popupHome" id="city-box_PreCity" style="display: none; z-index: 999999999;">
             
             <iframe style="width: 580px; height: 365px; border: none; background: none;" allowtransparency="true" frameborder="0" id="ifGemeResult_PreCity">
@@ -1139,8 +901,96 @@ $(window).load(function () {
             </iframe>
         </div>
         
-    </form>
-   
+    
+<script type="text/javascript">
+//<![CDATA[
+var Page_ValidationSummaries =  new Array(document.getElementById("testimonialValidation"));
+var Page_Validators =  new Array(document.getElementById("RegularExpressionValidator2"), document.getElementById("RequiredFieldValidator1"), document.getElementById("RequiredFieldValidator3"), document.getElementById("RequiredFieldValidator4"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var RegularExpressionValidator2 = document.all ? document.all["RegularExpressionValidator2"] : document.getElementById("RegularExpressionValidator2");
+RegularExpressionValidator2.controltovalidate = "txtFeedbackEmail";
+RegularExpressionValidator2.errormessage = "Please enter valid email address!";
+RegularExpressionValidator2.display = "Dynamic";
+RegularExpressionValidator2.validationGroup = "feedback";
+RegularExpressionValidator2.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+RegularExpressionValidator2.validationexpression = "\\w+([-+.\']\\w+)*@\\w+([-.]\\w+)*\\.\\w+([-.]\\w+)*";
+var RequiredFieldValidator1 = document.all ? document.all["RequiredFieldValidator1"] : document.getElementById("RequiredFieldValidator1");
+RequiredFieldValidator1.controltovalidate = "txtFeedbackComments";
+RequiredFieldValidator1.errormessage = "Please enter your feedback!";
+RequiredFieldValidator1.display = "Dynamic";
+RequiredFieldValidator1.validationGroup = "feedback";
+RequiredFieldValidator1.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+RequiredFieldValidator1.initialvalue = "";
+var testimonialValidation = document.all ? document.all["testimonialValidation"] : document.getElementById("testimonialValidation");
+testimonialValidation.validationGroup = "testimonialValidationGrp";
+var RequiredFieldValidator3 = document.all ? document.all["RequiredFieldValidator3"] : document.getElementById("RequiredFieldValidator3");
+RequiredFieldValidator3.controltovalidate = "txtName";
+RequiredFieldValidator3.errormessage = "Please enter your name.";
+RequiredFieldValidator3.display = "None";
+RequiredFieldValidator3.validationGroup = "testimonialValidationGrp";
+RequiredFieldValidator3.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+RequiredFieldValidator3.initialvalue = "";
+var RequiredFieldValidator4 = document.all ? document.all["RequiredFieldValidator4"] : document.getElementById("RequiredFieldValidator4");
+RequiredFieldValidator4.controltovalidate = "txtFeedback";
+RequiredFieldValidator4.errormessage = "Please enter your valuable feedback.";
+RequiredFieldValidator4.display = "None";
+RequiredFieldValidator4.validationGroup = "testimonialValidationGrp";
+RequiredFieldValidator4.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+RequiredFieldValidator4.initialvalue = "";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        
+(function(id) {
+    var e = document.getElementById(id);
+    if (e) {
+        e.dispose = function() {
+            Array.remove(Page_ValidationSummaries, document.getElementById(id));
+        }
+        e = null;
+    }
+})('testimonialValidation');
+
+document.getElementById('RegularExpressionValidator2').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('RegularExpressionValidator2'));
+}
+
+document.getElementById('RequiredFieldValidator1').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('RequiredFieldValidator1'));
+}
+
+document.getElementById('RequiredFieldValidator3').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('RequiredFieldValidator3'));
+}
+
+document.getElementById('RequiredFieldValidator4').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('RequiredFieldValidator4'));
+}
+//]]>
+</script>
+</form>
+
     <div id="ADNetWorkADHolderDvLeft" class="AdConLeftBottom">
         <div class="Ad300X250">
             <iframe id="AdNewtorkFrameLeft" src="" allowtransparency="true" scrolling="no" frameborder="0"></iframe>
@@ -1152,43 +1002,22 @@ $(window).load(function () {
         </div>
     </div>
 
-   
-
-
-    <script type="text/javascript">
-        function SetLeftAdDimension(width, height, Position) {
-            height = parseInt(height) + 10;
-            width = parseInt(width) + 10;
-            if (Position == "1")
-                $("#AdNewtorkFrameCenter").css("width", width + "px").css("height", height + "px");
-            if (Position == "2")
-                $("#AdNewtorkFrameLeft").css("width", width + "px").css("height", height + "px");
-            if (Position == "3")
-                $("#AdNewtorkFrameRight").css("width", width + "px").css("height", height + "px");
-        }
-        function SetFrameDisplay(display, Position) {
-            if (Position == "1")
-                $("#AdNewtorkDVCenter").remove();
-            if (Position == "2")
-                $("#ADNetWorkADHolderDvLeft").remove();
-            if (Position == "3")
-                $("#ADNetWorkADHolderDvRight").remove();
-        }
-        $(document).ready(function () {
-            if ($("#AdNewtorkFrameCenter").lenth >= 1 || $("#AdNewtorkFrameLeft").lenth >= 1 || $("#AdNewtorkFrameRight").lenth >= 1) {
-                SetLeftAdDiem();
-            }
-        });
-    </script>
-
     
     <!-- Javascript tag  -->
     <!-- begin ZEDO for channel:  Foreseegame.com , publisher: Foreseegame.com , Ad Dimension: Slider - 1 x 1 -->
     
     <!-- end ZEDO for channel:  Foreseegame.com , publisher: Foreseegame.com , Ad Dimension: Slider - 1 x 1 -->
+
+    
+
     <script type="text/javascript">
 
         $(document).ready(function () {
+
+            var e = document.getElementById('ddlSearch');
+            var eval = e.options[e.selectedIndex].value;
+            SetSearchPlaceholderValue(eval);
+
             //Entered character validation
             $('#txtSearch, #txtName, #txtAbout1, #txtAbout2, #txtFeedback').keyup(function (e) {
                 //console.log('keyup');
@@ -1200,7 +1029,7 @@ $(window).load(function () {
                     var val = fn_GetValidChars(sender);
 
                     $(sender).val(val);
-                   
+
                     this.setSelectionRange(startPos, endPos);
 
                     //stop entry more than maxlength else default 100 len characters
@@ -1281,9 +1110,524 @@ $(window).load(function () {
             return parsedVal;
         }
 
+        function showAdwithus() {
+            var Path = 'http://www.foreseegame.com';
+            if ($('#divAdvertisewithus').is(':hidden')) {
+                $('#ifstatus').removeClass("fa fa-arrow-circle-o-down").addClass("fa fa-arrow-circle-o-up");
+                $('#divAdvertisewithus').show();
+                $("#IframeAdvertisewithus").attr('src', Path + "/user/captcha.aspx");
+            } else {
+
+                $('#ifstatus').removeClass("fa fa-arrow-circle-o-up").addClass("fa fa-arrow-circle-o-down");
+                $('#divAdvertisewithus').hide();
+                $("#IframeAdvertisewithus").attr('src', '');
+            }
+        }
+
+        function SetLeftAdDimension(width, height, Position) {
+            height = parseInt(height) + 10;
+            width = parseInt(width) + 10;
+            if (Position == "1")
+                $("#AdNewtorkFrameCenter").css("width", width + "px").css("height", height + "px");
+            if (Position == "2")
+                $("#AdNewtorkFrameLeft").css("width", width + "px").css("height", height + "px");
+            if (Position == "3")
+                $("#AdNewtorkFrameRight").css("width", width + "px").css("height", height + "px");
+        }
+        function SetFrameDisplay(display, Position) {
+            if (Position == "1")
+                $("#AdNewtorkDVCenter").remove();
+            if (Position == "2")
+                $("#ADNetWorkADHolderDvLeft").remove();
+            if (Position == "3")
+                $("#ADNetWorkADHolderDvRight").remove();
+        }
+        $(document).ready(function () {
+            if ($("#AdNewtorkFrameCenter").lenth >= 1 || $("#AdNewtorkFrameLeft").lenth >= 1 || $("#AdNewtorkFrameRight").lenth >= 1) {
+                SetLeftAdDiem();
+            }
+        });
+
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#feedback-window').click(function () {
+
+                // Getting the variable's value from a link 
+                var feedbackBox = $(this).attr('href');
+
+                //Fade in the Popup and add close button
+                $(feedbackBox).fadeIn(300);
+
+                //Set the center alignment padding + border
+                var popMargTop = ($(feedbackBox).height() + 24) / 2;
+                var popMargLeft = ($(feedbackBox).width() + 24) / 2;
+
+                $(feedbackBox).css({
+                    'margin-top': -popMargTop,
+                    'margin-left': -popMargLeft
+                });
+
+                // Add the mask to body
+                $('body').append('<div id="mask" class="mask"></div>');
+                $('#mask').fadeIn(300);
+
+                return false;
+            });
+
+            // When clicking on the button close or the mask layer the popup closed
+            //$('a.close2').live('click', function () {
+
+            //    $('#mask , .feedback-popup').fadeOut(300, function () {
+
+            //        $('#mask').remove();
+            //    });
+            //    return false;
+            //});
+
+        });
+        function checkTextAreaMaxLength(textBox, e, length) {
+
+            var mLen = textBox["MaxLength"];
+            if (null == mLen)
+                mLen = length;
+
+            var maxLength = parseInt(mLen);
+            if (!checkSpecialKeys(e)) {
+                if (textBox.value.length > maxLength - 1) {
+                    if (window.event)//IE
+                    {
+                        e.returnValue = false;
+                        return false;
+                    }
+                    else//Firefox
+                        e.preventDefault();
+                }
+            }
+        }
+
+        function checkSpecialKeys(e) {
+            if (e.keyCode != 8 && e.keyCode != 46 && e.keyCode != 35 && e.keyCode != 36 && e.keyCode != 37 && e.keyCode != 38 && e.keyCode != 39 && e.keyCode != 40)
+                return false;
+            else
+                return true;
+        }
+        </script>
+     <script type="text/javascript">
+
+         $(document).ready(function () {
+             $('a.nwsltr-window').click(function () {
+
+                 // Getting the variable's value from a link 
+                 var nwsltrBox = $(this).attr('href');
+
+                 //Fade in the Popup and add close button
+                 $(nwsltrBox).fadeIn(300);
+
+                 //Set the center alignment padding + border
+                 var popMargTop = ($(nwsltrBox).height() + 80) / 2;
+                 var popMargLeft = ($(nwsltrBox).width() + 24) / 2;
+
+                 $(nwsltrBox).css({
+                     'margin-top': -popMargTop,
+                     'margin-left': -popMargLeft
+                 });
+
+                 // Add the mask to body
+                 $('body').append('<div id="mask" class="mask"></div>');
+                 $('#mask').fadeIn(300);
+
+                 return false;
+             });
+
+             // When clicking on the button close or the mask layer the popup closed
+             //$('a.close').live('click', function () {
+             //    $('#mask , .nwsltr-popup').fadeOut(300, function () {
+             //        $('#mask').remove();
+             //        $('txtNewsletterEmail.ClientID').value = "";
+             //        txt_blur('txtNewsletterEmail.ClientID', '');
+             //        //                    location.reload();
+
+             //    });
+             //    return false;
+             //});
+             //$('a.close1').live('click', function () {
+             //    $('#mask , .nwsltr-popup').fadeOut(300, function () {
+             //        $('#mask').remove();
+             //        var MemID = $("#hdnMemberID").attr('value');
+             //        var txtMemID = $("#txtNewsletterEmail.ClientID").val()
+             //           if (MemID != txtMemID) {
+             //               $('txtNewsletterEmail.ClientID').value = "";
+             //               $("#txtNewsletterEmail.ClientID").val(MemID);
+             //           }
+
+
+             //       });
+             //       return false;
+             //   });
+         });
+        </script>
+    <script>
+        $(document).ready(function () {
+            $("#gameCollapse").click(function () {
+
+                $(".gameCategorySubMenus").slideToggle(300);
+                // alert('hi');
+            });
+        });
+        </script>
+
+    <script type="text/javascript">
+        function CityBoxHide_PreCity() {
+            //alert("ghgh");
+            $('#divLoader').show();
+            $('#ifGemeResult_PreCity').hide();
+            document.getElementById('city-box_PreCity').style.display = 'none';
+            $('#maskForCity_PreCity').hide();
+            $('#mask').hide();
+            //alert(window.location.href);
+            window.location.href = window.location.href.replace('#_=_', '').replace('#', '').replace('!', '');
+
+
+        }
+        function CityBoxHide_PreCityClose() {
+            document.getElementById('city-box_PreCity').style.display = 'none';
+            $('#maskForCity_PreCity').fadeOut(2000);
+            $('#mask').fadeOut(2000);
+        }
+
+        function CityBoxShow_PreCity() {
+            $("#ifGemeResult_PreCity").hide();
+            //document.getElementById('city-box_PreCity').style.display = 'block';
+            $("#city-box_PreCity").show();
+            $("#ifGemeResult_PreCity").show();
+            $('body').append('<div id="maskForCity_PreCity"></div>');
+            $('body').append('<div id="mask" class="mask"></div>');
+            $('#mask').show();
+            //setTimeout("CityBoxShow_PreCity()", 300000);
+            $('#divLoader').hide();
+        }
+
+        function CityBoxShow_PreCityTrigger() {
+            document.getElementById('ifGemeResult_PreCity').src = "http://www.foreseegame.com/SearchByCity.aspx";
+            $('#divLoader').show();
+            setTimeout("CityBoxShow_PreCity()", 3000);
+        }
+    </script>
+    <script type="text/javascript">
+
+        function GetSelectedTextValue(ddlFruits) {
+            var selectedText = ddlFruits.options[ddlFruits.selectedIndex].innerHTML;
+            var selectedValue = ddlFruits.value;
+            var my_list = document.getElementById("SuggestedData");
+            my_list.innerHTML = null;
+
+            var Keyword = '';
+            var sessionType = '';
+
+            if (Keyword != "") {
+
+                if (ddlFruits.selectedIndex != sessionType) {
+                    document.getElementById("txtSearch").value = "";
+                } else {
+                    document.getElementById("txtSearch").value = Keyword;
+                }
+            }
+
+            SetSearchPlaceholderValue(selectedValue);
+        }
+        function SuccessGetSuggestedData(result) {
+            var my_list = document.getElementById("SuggestedData");
+            my_list.innerHTML = result;
+            // populatefiltereddata();
+        }
+        function FailedGetSuggestedData(error) {
+            var my_list = document.getElementById("SuggestedData");
+            my_list.innerHTML = null;
+        }
+
+        function SetSearchPlaceholderValue(Type) {
+
+            $("#txtSearch").removeAttr("placeholder");
+            if (Type == "All")
+                $("#txtSearch").attr("placeholder", "Search");
+            if (Type == "Brands")
+                $("#txtSearch").attr("placeholder", "Search brand");
+            if (Type == "Products")
+                $("#txtSearch").attr("placeholder", "Search product");
+            if (Type == "Categories")
+                $("#txtSearch").attr("placeholder", "Search category");
+        }
+
+        function myFunction(event, typetext) {
+
+            var x = event.which || event.keyCode;
+
+            if ((x >= 48 && x <= 90) || x == 8 || x == 32 || x == 191 || x == 190) {
+
+                if (document.getElementById("ddlSearch").value != "All" && document.getElementById("txtSearch").value != "") {
+
+
+
+                    AutoComplete.GetSuggestedData(document.getElementById("ddlSearch").value, typetext, SuccessGetSuggestedData, FailedGetSuggestedData, null);
+
+                } else {
+                    document.getElementById("SuggestedData").innerHTML = null;
+                }
+            }
+        }
+        function txt_blur(id, val) {
+
+            if (val == '' && id == 'txtFeedbackName') {
+                document.getElementById(id).value = 'Type your Name here'; //document.getElementById(id).style.color = '#c2c0c0';
+            }
+            else if (val == '' && id == 'txtFeedbackEmail') {
+                document.getElementById(id).value = 'Type your Email Id here';// document.getElementById(id).style.color = '#c2c0c0';
+            }
+            else if (val == '' && id == 'txtFeedbackComments') {
+                document.getElementById(id).value = 'Type your Feedback here'; //document.getElementById(id).style.color = '#c2c0c0';
+            }
+            else if (val == '' && id == 'txtNewsletterEmail') {
+                document.getElementById(id).value = 'Type your Email ID here'; //document.getElementById(id).style.color = '#c2c0c0';
+                RemoveMsg();
+            }
+}
     </script>
 
+     <script type="text/javascript">
+         function openNav1() {
+             OnCloseClickListing('0');
+             document.getElementById("mySidenav").style.width = "60px";
+             document.getElementById("mySidenav1").style.width = "40px";
+             $('#divArrow').removeClass();
+             $('#divArrow').addClass('cirImgNext');
+         }
+
+         function closeNav1() {
+             OnCloseClickListing('1');
+             document.getElementById("mySidenav").style.width = "0px";
+             document.getElementById("mySidenav1").style.width = "40px";
+
+             $('#divArrow').removeClass();
+             $('#divArrow').addClass('cirImgPrev');
+         }
+
+         var a = true;;
+         function openCloseListing() {
+             //console.log('click fire');
+             //debugger;
+             a = !a;
+             if (a == true) {
+                 openNav1();
+             }
+             else {
+                 closeNav1();
+             }
+         }
+
+         function OnCloseClickListing(ofrDtlId) {
+
+             $.ajax({
+                 url: "http://www.foreseegame.com/User/GameListing.aspx/OnCloseClickForListing",
+                 type: "POST",
+                 dataType: "json",
+                 contentType: "application/json",
+                 data: '{ofrDtlId :' + ofrDtlId + '}',
+                 beforeSend: function () {
+                 },
+                 success: function (response) {
+                 },
+                 complete: function () {
+                 },
+                 error: function (response) {
+                     console.log('Error: Some thing is wrong');
+                 }
+             });
+         }
+    </script>
+    <script type="text/javascript">
+        //$('#gameNavMenu').dcMegaMenu({
+        //    rowItems: '3',
+        //    speed: 'fast',
+        //    effect: 'fade'
+        //});
+        function controlEnter(obj, event) {
+            var keyCode = event.keyCode ? event.keyCode : event.which ? event.which : event.charCode;
+            if (keyCode == 13) {
+                document.getElementById(obj).click();
+                return false;
+            }
+            else {
+                return true;
+            }
+        }
+        $(document).ready(function () {
+            $('.slideshow').cycle({
+                fx: 'fade', // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+                delay: -4000
+            });
+
+            $('.slideshowfooter').cycle({
+                fx: 'fade', // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+                delay: -4000
+            });
+
+
+        });
+
+        /*$(document).ready(function () {
+           $('.slideshowfooter').cycle({
+                fx: 'fade', // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+                delay: -4000
+            });
+        });*/
+
+
+        $(document).ready(function () {
+
+            if (!$.browser.opera) {
+
+                // select element styling
+                $('select.select').each(function () {
+                    var title = $(this).attr('title');
+                    if ($('option:selected', this).val() != '') title = $('option:selected', this).text();
+                    $(this)
+					.css({ 'z-index': 10, 'opacity': 0, '-khtml-appearance': 'none' })
+					.after('<span class="select">' + title + '</span>')
+					.change(function () {
+					    val = $('option:selected', this).text();
+					    $(this).next().text(val);
+					})
+                });
+
+            };
+
+            if (document.getElementById("txtFeedbackName") != null) {
+                
+                document.getElementById("txtFeedbackName").value = "Type your Name here";
+                
+            }
+            if (document.getElementById("txtFeedbackEmail") != null) {
+                
+                document.getElementById("txtFeedbackEmail").value = "Type your Email Id here";
+                 
+            }
+            if (document.getElementById("txtNewsletterEmail") != null) {
+                
+                document.getElementById("txtNewsletterEmail").value = "Type your Email ID here";
+                
+            }
+
+        });
+        function txt_focus(id, val) {
+            if (val == 'Game, Brand, Products') { document.getElementById(id).value = ''; document.getElementById(id).style.color = '#000000'; }
+            else if (val == 'Type your Name here') { document.getElementById(id).value = ''; document.getElementById(id).style.color = '#000000'; }
+            else if (val == 'Type your Email Id here') { document.getElementById(id).value = ''; document.getElementById(id).style.color = '#000000'; }
+            else if (val == 'Type your Feedback here') { document.getElementById(id).value = ''; document.getElementById(id).style.color = '#000000'; }
+            else if (val == 'Type your Email ID here') { document.getElementById(id).value = ''; document.getElementById(id).style.color = '#000000'; }
+            else if (val == 'Email Id') { document.getElementById(id).value = ''; document.getElementById(id).style.color = '#000000'; }
+
+        }
+        function txt_blur(id, val) {
+
+            if (val == '' && id == 'txtFeedbackName') {
+                document.getElementById(id).value = 'Type your Name here'; //document.getElementById(id).style.color = '#c2c0c0';
+            }
+            else if (val == '' && id == 'txtFeedbackEmail') {
+                document.getElementById(id).value = 'Type your Email Id here';// document.getElementById(id).style.color = '#c2c0c0';
+            }
+            else if (val == '' && id == 'txtFeedbackComments') {
+                document.getElementById(id).value = 'Type your Feedback here'; //document.getElementById(id).style.color = '#c2c0c0';
+            }
+            else if (val == '' && id == 'txtNewsletterEmail') {
+                document.getElementById(id).value = 'Type your Email ID here'; //document.getElementById(id).style.color = '#c2c0c0';
+                RemoveMsg();
+            }
+}
+function removespace(id, val) {
+    if (val.trim() == '' && id == 'txtSearch') {
+        document.getElementById(id).value = "";
+    }
+}
+
+
+$(function () {
+    $.fn.scrollBottom = function () {
+        return $(document).height() - this.scrollTop() - this.height();
+    };
+
+    var $el = $('#sidebar>div');
+    var $window = $(window);
+    var top = $el.parent().position().top;
+
+    $window.bind("scroll resize", function () {
+        var gap = $window.height() - $el.height() - 10;
+
+        var scrollTop = $window.scrollTop()
+
+        if (scrollTop < top + 430) {
+            $el.css({
+                top: (top - scrollTop) + "px",
+                bottom: "auto"
+
+            });
+
+        } else {
+            $el.css({
+                top: "auto",
+                bottom: 574,//140
+                // top: (top - scrollTop) + "px",
+                //bottom: "auto"
+            });
+        }
+    }).scroll();
+});
+//$(document).ready(function ($) {
+
+//    $('#gameNavMenu').dcMegaMenu({
+//        rowItems: '3',
+//        speed: 'fast',
+//        effect: 'fade'
+//    });
+
+//});
+function divon() {
+    document.getElementById("divLoader").style.display = 'block';
+    $('body').append('<div id="mask" class="mask"></div>');
+    $('#mask').fadeIn(5);
+}
+
+
+function checkEmail() {
+    var Email = document.getElementById('txtNewsletterEmail').value;
+    //  var emailPat = /^(\".*\"|[A-Za-z]\w*)@(\[\d{1,3}(\.\d{1,3}){3}]|[A-Za-z]\w*(\.[A-Za-z]\w*)+)$/
+    var emailPat = /^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$/
+    var EmailmatchArray = Email.match(emailPat);
+    if (Email == "Type your Email ID here") {
+        //alert("Please enter email address");
+        document.getElementById("MsgDiv").innerHTML = "Please enter email address!";
+        return false;
+    }
+    if (EmailmatchArray == null) {
+        // alert("Please enter valid email address");
+        document.getElementById("MsgDiv").innerHTML = "Please enter valid email address!";
+        return false;
+    }
+}
+
+function RemoveMsg() {
+    document.getElementById("MsgDiv").innerHTML = "";
+}
+function closeWin() {
+    //myWindow.close();
+    self.close();
+}
+    </script>
+    <script type="text/javascript" src="http://rs.foreseegame.com/Resource/JS/Circle.js"></script>
     <div id="GCode" style="height: 0px; width: 0px; visibility: hidden; overflow: auto;"><script type="text/javascript">/* <![CDATA[ */ var google_conversion_id = 935678591;var google_custom_params = window.google_tag_params;var google_remarketing_only = true; /* ]]> */ </script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script><noscript><div style='display:inline;'><img height='1' width='1' style='border-style:none;' alt='' src='//googleads.g.doubleclick.net/pagead/viewthroughconversion/935678591/?value=0&amp;guid=ON&amp;script=0'/></div></noscript></div>
+
+
+
 
 
 </body></html>
