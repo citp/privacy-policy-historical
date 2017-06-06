@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the phptravels.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231846id_/http%3A//phptravels.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phptravels.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606071810id_/http%3A//phptravels.com/privacy-statement) for the most accurate reproduction.*
 
 # PHPTRAVELS | Privacy And Policy Statement
-
-[ ](http://phptravels.com/)
-
-  * Product
-  * Services
-  * Web Hosting
-  * Company
-  * [ Login __](https://phptravels.org/)
-
-
-
-Please take your time and read our terms before order any package.
 
 This Privacy Policy governs the manner in which phptravels collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.phptravels.com](http://phptravels.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by phptravels.
 
