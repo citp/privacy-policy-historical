@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolpctips.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229040623id_/http%3A//www.coolpctips.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolpctips.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173044id_/http%3A//www.coolpctips.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Latest Tips and Tricks - Computers, Mobiles, Gaming, Internet and Windows
 
