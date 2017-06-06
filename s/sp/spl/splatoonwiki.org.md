@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splatoonwiki.org privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404091004id_/http%3A//splatoonwiki.org/wiki/Inkipedia%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splatoonwiki.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164707id_/https%3A//splatoonwiki.org/wiki/Inkipedia%3APrivacy_policy) for the most accurate reproduction.*
 
 # Inkipedia:Privacy policy - Inkipedia, the Splatoon wiki
 
@@ -84,7 +84,7 @@ Inkipedia limits the collection of personally identifiable user data to purposes
 
 Policy on Access of Data
 
-Pages are developed by volunteer contributors. Some dedicated users are chosen by the community to be given privileged access. For example, users who actively patrol edits and clean up vandalism may be promoted with Rollback privileges or Sys-op status. User group rights and group members are reachable in every page from the Special:ListGroupRights page.
+Pages are developed by volunteer contributors. Some dedicated users are chosen by the community to be given privileged access. For example, users who actively patrol edits and clean up vandalism may be promoted with rollback privileges or sysop status. User group rights and group members are reachable in every page from the Special:ListGroupRights page.
 
 Other users who may have access to private identifiable information include, but are not limited to, users who have access to the CheckUser and Oversight functions, Inkipedia employees, and contractors and agents employed by the Inkipedia, and developers and others with high levels of server access.
 
