@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savills.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229155450id_/http%3A//www.savills.com/footer/privacy-and-cookies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savills.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606144119id_/http%3A//www.savills.com/footer/privacy-and-cookies.aspx) for the most accurate reproduction.*
 
 # Savills trusted advisors to real estate clients around the globe | Privacy & Cookies
 
