@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifc.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119203325id_/http%3A//www.ifc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifc.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163256id_/http%3A//www.ifc.com/privacy) for the most accurate reproduction.*
 
 # Privacy – Mobile App – IFC
 
@@ -19,7 +19,6 @@
   13. GOVERNING LAW.
   14. WHERE IS MY INFORMATION STORED AND PROCESSED?
   15. HOW CAN I CONTACT YOU?
-  16. SAFE HARBOR
 
 
 
@@ -156,10 +155,4 @@ If you have questions or concerns about our Policy, please contact us at: [ifcfe
 
 Back To Top
 
-## 16\. **SAFE HARBOR**
-
-AMC Network complies with the US/EU and US/Swiss Safe Harbor frameworks, as set forth by the U.S. Department of Commerce, for the collection, use and retention of personal information transferred from the EEA and Switzerland. More information regarding Safe Harbor can be found at: <http://www.export.gov/safeharbor>.
-
-Back To Top
-
-© 2015 AMC Networks Inc. All rights reserved.
+© 2017 AMC Networks Inc. All rights reserved.
