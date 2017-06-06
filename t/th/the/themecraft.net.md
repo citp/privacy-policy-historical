@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themecraft.net privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205233011id_/http%3A//themecraft.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themecraft.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032546id_/http%3A//themecraft.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Theme Craft - About Us
 
