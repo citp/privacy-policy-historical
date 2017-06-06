@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themefreesia.com privacy policy that was archived on 2016-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160702033836id_/https%3A//themefreesia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themefreesia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181607id_/https%3A//themefreesia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
