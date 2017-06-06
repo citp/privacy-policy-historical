@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cam4s.com privacy policy that was archived on 2016-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160918073716id_/http%3A//www.cam4s.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cam4s.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606224453id_/http%3A//www.cam4s.com/privacy) for the most accurate reproduction.*
 
 # CAM4 Privacy Policy
 
