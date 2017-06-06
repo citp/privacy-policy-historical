@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shenyun.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125124752id_/http%3A//www.shenyun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shenyun.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606052523id_/http%3A//www.shenyun.com/privacy-policy) for the most accurate reproduction.*
 
-# Shen Yun Performing Arts - Privacy Policy
+# Privacy Policy - Shen Yun Performing Arts
 
 Shen Yun Performing Arts has adopted this Privacy Policy in order to inform users of its ShenYunPerformingArts.org Web site about how the site collects, stores, and uses personal information submitted via the site.
 
