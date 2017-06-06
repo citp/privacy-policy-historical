@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sareez.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217111459id_/http%3A//www.sareez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sareez.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214946id_/https%3A//www.sareez.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Sareez protects the right to privacy of each of its visitors and customers. The accounts are treated with utmost confidentiality as we look forward to a long lasting relationship with you. We urge you to kindly read through the following policies and guidelines in order to understand your rights better:
 
-Personal Information:
+### Personal Information
 
 The Personally Identifiable Information We Gather
 
@@ -17,12 +17,10 @@ The Personally Identifiable Information We Gather
 
 
 
-Public Forums:
+### Public Forums
 
 The website of Sareez offers publicly accessible blogs and forums. It has to be noted that the information provided on this social media platforms can be read, collected and used by others accessing these blogs and forums.
 
-Disclaimer:
+### Disclaimer:
 
 Sareez reserves the sole right to change and modify these policies at any given point in time if required. Customers will be notified of such changes through e-mail. We request all our customers to adhere to the company policies and guidelines, and visit this page time to time for updates on the latest modifications of our privacy policies.
-
-For any further queries, please contact us.
