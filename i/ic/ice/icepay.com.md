@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icepay.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012004850id_/https%3A//icepay.com/downloads/pdf/company/Privacy-Policy_INT.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icepay.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606195419id_/https%3A//icepay.com/downloads/pdf/company/Privacy-Policy_INT.pdf) for the most accurate reproduction.*
 
 # Privacy Policy ICEPAY
 
