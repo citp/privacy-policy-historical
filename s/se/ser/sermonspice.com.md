@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the sermonspice.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120152249id_/http%3A//www.sermonspice.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sermonspice.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170135id_/http%3A//www.sermonspice.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | SermonSpice
 
-[We're Hiring! Click here for more info!](http://www.christianjobs.com/company/46947/ "More info about our Job Opportunities")
+[**We're Hiring!**  
+Click here for more info!](http://www.christianjobs.com/company/46947/ "More info about our Job Opportunities")
 
 ## Privacy Policy
 
