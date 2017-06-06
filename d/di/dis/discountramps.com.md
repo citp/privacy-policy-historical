@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountramps.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127214445id_/http%3A//www.discountramps.com/privacypolicy/a/A1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountramps.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606135533id_/http%3A//www.discountramps.com/privacypolicy/a/A1) for the most accurate reproduction.*
 
 # Discount Ramps.com - Privacy Policy
 
