@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellics.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424060218id_/https%3A//sellics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellics.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192729id_/https%3A//sellics.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Sellics
 
@@ -24,7 +24,7 @@ to collect payments from you
 to send you marketing communications
 
 **How do we protect your information?**  
-We will take appropriate technical and organisational precautions to prevent the loss, abuse or manipulation of your personal information.  
+We will take appropriate technical and organizational precautions to prevent the loss, abuse or manipulation of your personal information.  
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, manipulation, disclosure or destruction of your personal information, username, password, transaction information and data stored on our site.
 
 We do not sell, trade, or rent users’ personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
