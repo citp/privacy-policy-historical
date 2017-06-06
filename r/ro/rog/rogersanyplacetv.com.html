@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rogersanyplacetv.com privacy policy that was archived on 2016-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120095251id_/http%3A//www.rogersondemand.com/Privacy%3Flang%3Den) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rogersanyplacetv.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606060327id_/http%3A//www.rogersondemand.com/Privacy%3Flang%3Den) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <!-- build at 26/ 7 at 3.56 pm -->
@@ -7,7 +7,7 @@
 
         <meta name="Branch" content="cc-removal">
         <meta name="Domain" content="www.rogersondemand.com">
-        <meta name="Build" content="1.9.0.36">
+        <meta name="Build" content="1.9.0.39">
         
         <title>Privacy Policy - Rogers Anyplace TV</title>
       
@@ -33,7 +33,7 @@
         <link href="http://www-j.rogersondemand.com/bundles/connector?v=pnPpnWVIq6JxSRSbnu_M7pSUoolPUSWmRRzZxBmMUKs1" rel="stylesheet" type="text/css">
 
         <!--[if lt IE 9]>
-	         <link href="http://www-c.rogersondemand.com/css/ie-only.css?v=1.9.0.36" rel="stylesheet" type="text/css" />
+	         <link href="http://www-c.rogersondemand.com/css/ie-only.css?v=1.9.0.39" rel="stylesheet" type="text/css" />
         <![endif]-->
 
         
@@ -61,7 +61,28 @@
             ga('create', 'UA-41848474-1', 'none');
             ga('send', 'pageview');
         </script>
+        <script type="text/javascript">
+            
+            var emailRegex = /([a-zA-Z0-9._-]+[%40|@][a-zA-Z0-9._-]+\.[a-zA-Z0-9._-]+)/gi;
 
+            var emailAddressToRemoveInHash = window.location.hash.match(emailRegex);
+            var emailAddressToRemoveInQuery = window.location.search.match(emailRegex);
+
+            if (emailAddressToRemoveInHash instanceof Array) {
+                for (var i = 0; i < emailAddressToRemoveInHash.length; i++) {
+                    window.location.hash = window.location.hash.replace(emailAddressToRemoveInHash[i], "");
+                }
+            }
+
+            if (emailAddressToRemoveInQuery instanceof Array) {
+                var queryUrlWithoutEmail = window.location.search;
+
+                for (var i = 0; i < emailAddressToRemoveInQuery.length; i++) {
+                    queryUrlWithoutEmail = queryUrlWithoutEmail.replace(emailAddressToRemoveInQuery[i], "");
+                }
+                history.replaceState({}, "", queryUrlWithoutEmail);
+            }
+        </script>
 		
 
 <script pinned="" type="text/javascript">
@@ -130,11 +151,6 @@ if (typeof googletag != 'undefined') googletag.defineSlot("/7326/Rogers.RAPTV/RA
                                 <img src="/images/logos/rogers_nhl_en_long.png" alt="NHL">
                              </div>
                             </a>                                                              
-
-                            <span class="vertical-seperator"></span>
-                            <a href="http://shomi.rogers.com?lang=en" title="Go to Shomi_" target="_blank" id="shomi-link"><div id="nav-shomi" class=" ir">
-                                <img src="/images/backgrounds/shomi_logo.png" alt="Shomi">
-                            </div></a>
 
                         <div id="auxset" class="">
 
@@ -437,11 +453,9 @@ Website: <a href="http://www.privcom.gc.ca" target="_blank">www.privcom.gc.ca</a
                 <div id="customer-connections">
                     <div id="social-block">
                         <a href="https://www.facebook.com/Rogers/" target="_blank" class="facebook ir">RAPTV Facebook Page</a>
-                        <a href="https://twitter.com/rogersbuzz/" target="_blank" class="twitter ir">RAPTV Twitter</a>
+                        <a href="https://twitter.com/rogers/" target="_blank" class="twitter ir">RAPTV Twitter</a>
                     </div>
-                    <div id="newsletter-block">
-                        <a href="/Newsletter?lang=en" class="newsletter">Rogers Anyplace TV Newsletter</a>
-                    </div>
+                    
                 </div>
                 <div class="corebody">
                     <nav id="footer-nav">
@@ -491,7 +505,7 @@ Website: <a href="http://www.privcom.gc.ca" target="_blank">www.privcom.gc.ca</a
         <script src="http://www-j.rogersondemand.com/bundles/footerScripts?v=Eo1CJ7EdBs5Kfi5-jI2s5OqJPTHfREwTpJCgYZIuyPw1" type="text/javascript"></script>
 
         <!--[if lt IE 9]>
-             <script src="http://www-j.rogersondemand.com/Scripts/js/ie8main.js?v=1.9.0.36"></script>
+             <script src="http://www-j.rogersondemand.com/Scripts/js/ie8main.js?v=1.9.0.39"></script>
         <![endif]-->
 
         
