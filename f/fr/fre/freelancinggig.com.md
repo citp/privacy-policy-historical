@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freelancinggig.com privacy policy that was archived on 2016-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160220161956id_/http%3A//www.freelancinggig.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancinggig.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180522id_/https%3A//www.freelancinggig.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FreelancingGig.com
 
-[ ](http://www.freelancinggig.com/)
+[ ](https://www.freelancinggig.com/)
 
 ##  **Privacy Policy**
 
