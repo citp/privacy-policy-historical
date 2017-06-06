@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amarillo.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122005339id_/http%3A//amarillo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amarillo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180302id_/http%3A//amarillo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Amarillo Globe-News
+# Privacy Policy | amarillo.com
 
 Amarillo Globe-News is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. We intend to give you as much control as possible over your personal information. The purpose of our policy is to inform you about the types of information we gather about you when you visit our site(s), how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. Our site(s) may contain links to other Web sites, including Web sites directed to children. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other sites to which we provide links from our sites. You should check the applicable privacy policy of the Web site sponsor when linking to other Web sites. Amarillo Globe-News strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number and other information) subject to the terms of this privacy policy. Please note this policy applies only to information collected by Amarillo Globe-News online and does not impact information collected or used by Amarillo Globe-News or its affiliates through other means.
 
@@ -45,3 +45,9 @@ We may disclose personal information if we are required to do so by law or we in
 **How To Contact Us**
 
 For any questions or comments, you may contact us:
+
+Amarillo Globe-News  
+900 S. Harrison  
+Amarillo, TX 79101  
+806-376-4488  
+[newmedia@amarillo.com](mailto:newmedia@amarillo.com)
