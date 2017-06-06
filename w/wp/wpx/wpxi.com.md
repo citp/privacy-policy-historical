@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpxi.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129225943id_/http%3A//www.wpxi.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpxi.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175122id_/http%3A//www.wpxi.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | WPXI
 
@@ -95,4 +95,4 @@ This Service is not directed at children under the age of 13, and we won't knowi
 
 We may change the terms of this privacy statement or introduce new terms and conditions from time to time, in which case we will post an updated version of this privacy statement on this Service and will update the "Last Updated" date above to reflect the date the changes take effect. By continuing to use this Service after we post any such changes, you accept this privacy statement, as modified.
 
-© 2016 Cox Media Group.
+© 2017 Cox Media Group.
