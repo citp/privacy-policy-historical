@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbls.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228025550id_/http%3A//www.wbls.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbls.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606031118id_/http%3A//www.wbls.com/privacypolicy) for the most accurate reproduction.*
 
 # WBLS.com Privacy Policy | 107.5 WBLS - Your #1 Source for R&B
 
