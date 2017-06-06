@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the contently.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117143341id_/https%3A//contently.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contently.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191347id_/https%3A//contently.com/privacy-policy) for the most accurate reproduction.*
 
-# Contently - Privacy
+# Privacy Policy - Contently
 
 At Contently, we collect and manage user data according to the following Privacy Policy, with the goal of incorporating our company values: transparency, accessibility, sanity, usability. This document is part of Contently’s Terms of Service, and by using [contently.com](https://contently.com/) (the “Website”), you agree to the terms of this Privacy Policy and the Terms of Service. Please read the Terms of Service in their entirety, and refer to those for definitions and contacts.
 
