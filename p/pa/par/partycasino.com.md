@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the partycasino.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012013509id_/https%3A//www.partycasino.com/en/p/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partycasino.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164955id_/https%3A//www.partycasino.com/en/p/legal/privacy-policy) for the most accurate reproduction.*
 
-# PartyCasino
+# 
 
 ### Privacy Policy
 
@@ -252,3 +252,7 @@ By clicking 'Submit' or 'I agree' during the registration process or by Your con
 ElectraWorks Limited is registered on the Gibraltar Regulatory Authority Data Protection Register.
 
 Modified/Created 06 June 2016
+
+ElectraWorks Limited, the provider of this website, is licensed by the Government of Gibraltar and regulated by the Gibraltar Gambling Commissioner under the Gambling Act 2005. ElectraWorks Limited has been granted a fixed-odds licence (RGL No. 051) and casino licence (RGL N0. 50) for the operation of remote gambling.
+
+Furthermore, ElectraWorks Limited is licensed by the UK Gambling Commission under the Gambling (Licensing and Advertising) Act 2014. ElectraWorks Limited has been granted License [No. 000-039011-R-319371-004](https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39011) for the operation of remote gambling in Britain.
