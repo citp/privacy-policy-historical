@@ -1,10 +1,20 @@
-> *The following text is extracted and transformed from the themoviepool.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618012243id_/http%3A//www.cinelinx.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themoviepool.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606142444id_/http%3A//www.cinelinx.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy
 
 **Cinelinx.com Privacy Policy**
 
 By visiting or joining cinelinx.com you are accepting the policies described below.
+
+**Thirdy Party Advertisers and Affiliates**
+
+We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
+
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website or other websites. Google's use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. 
+
+Users may opt out of third party vendor's use of cookies for personalized advertising by visiting aboutads.info for more details.
+
+This site includes links to other websites via 3rd party advertising agencies. We do not provide personally identifiable information to these agencies.We have no control over the content or privacy policies of 3rd party sites and cannot assume responsibility for the information the information contained on their respective sites.
 
 **Cookies**
 
@@ -18,12 +28,8 @@ When joining cinelinx.com we collect personal information such as email addresse
 
 We only collect non-member email addresses if said member contacts us via our contact form. We do not participate in the selling of this information, or your data, to 3rd parties. We will not contact you beyond the scope of your inquiry or report. We may periodically contact members to notify them about updates to our web site and/or our policies. If you do not wish to receive these updates please notify us via our contact form with all relevant details.
 
-**Thirdy Party Advertisers**
-
-This site includes links to other websites via 3rd party advertising agencies. We do not provide personally identifiable information to these agencies.We have no control over the content or privacy policies of 3rd party sites and cannot assume responsibility for the information the information contained on their respective sites.
-
 **Security**
 
 We have appropriate security measures in place in our facilities to protect against the loss, misuse, or alteration of information that we have collected from you. It is important that you always sign off when using a public or shared computer, and that you always protect your password to guard against unauthorized access to your account. If you have any concern about privacy at cinelinx.com please contact us and provide a thorough description of your concerns; we will try our best to resolve them.
 
-This Policy, as well as our Terms and Conditions of Use are subject to change.
+This Policy is subject to change.
