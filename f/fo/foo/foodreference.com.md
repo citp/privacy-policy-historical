@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodreference.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124011043id_/http%3A//www.foodreference.com/html/contact.html%23PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodreference.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606100611id_/http%3A//www.foodreference.com/html/contact.html%23PrivacyPolicy) for the most accurate reproduction.*
 
 # Food Reference Website: Contact Us
 
@@ -13,17 +13,11 @@ Foodreference.com receives 1/2 million page views per month.   (January, 2015)
 
 Since its beginnings in 1999, Foodreference.com has maintained an excellent reputation, and has been recommended as a resource by countless magazines, newspapers, universities, food critics, cookbook authors, culinary historians, TV & radio programs, and thousands of other food related websites.
 
-\-- [The people behind FoodReference.com](https://web.archive.org/web/20161124011043id_/http%3A//www.foodreference.com/html/chefjamesbio.html)  
-\-- [Statistics and Demographic information](https://web.archive.org/web/20161124011043id_/http%3A//www.foodreference.com/html/advertise-foodreference.html)  
- 
-
 **Inquires for permission to use material from the Food Reference Website:** **  
 Contact** [chefjames@foodreference.com](mailto:chefjames@foodreference.com)   Phone:  (507) 474-1689
 
  **Advertising Inquires:**  
-For Advertising information, including website statistics [Click Here](https://web.archive.org/web/20161124011043id_/http%3A//www.foodreference.com/html/advertise-foodreference.html)
-
- 
+For Advertising information, including website statistics [Click Here](https://web.archive.org/web/20170606100611id_/http%3A//www.foodreference.com/html/advertise-foodreference.html)
 
 **LINKING INFORMATION:**  
 ( _Please feel free to link to any pages of FoodReference.com from your website)  
@@ -35,7 +29,8 @@ Feel free to use your own wording.
 
 TITLE:
 
-** [FoodReference.com - Everything About Food, from Articles to Who’s Who](http://www.foodreference.com/)  
+** [FoodReference.com - Everything About Food, from Articles to Who’s Who](http://www.foodreference.com/)
+
  **URL:** [http://www.foodreference.com](http://www.foodreference.com/)   
 **DESCRIPTION:** FoodReference.com is an eccentric world of unique and fascinating food information and fun. Articles, Trivia and Facts; great Recipes, Cooking Tips and videos; complete worldwide Food Festival listings; Today in Food History & Food Timeline; Food Crosswords, Word Search and Trivia Quizzes; Food Quotes and Who's Who; Food Poems & Humor
 
@@ -69,7 +64,7 @@ Network advertisers use cookies to track users' Web preferences and characterist
    Google's use of the DART cookie enables it to serve ads to users based on their visits to this and other sites on the Internet.  
    Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
-**National Advertising Initiative**  
- **Advertisers who are members of   the National Advertising Initiative provide a single place to ‘opt-out’ of their targeted advertising.  Using their tool, you can examine your computer to identify those member companies that have placed an advertising cookie file on your computer. You may then opt-out of their behavioral advertising.  
+**National Advertising Initiative  
+Advertisers who are members of  the National Advertising Initiative provide a single place to ‘opt-out’ of their targeted advertising.  Using their tool, you can examine your computer to identify those member companies that have placed an advertising cookie file on your computer. You may then opt-out of their behavioral advertising.  
 Opting out of a network does not mean you will no longer receive online advertising. It does mean that the network from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns. (No more active ‘cookies’ from them).  
-[NAI Opt-Out Page](http://www.networkadvertising.org/managing/opt_out.asp)** 
+[NAI Opt-Out Page](http://www.networkadvertising.org/managing/opt_out.asp)**
