@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rvt.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113034329id_/http%3A//www.rvt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rvt.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606210151id_/http%3A//www.rvt.com/privacy.php) for the most accurate reproduction.*
 
 # RVT Privacy Agreement
-
-Last Updated: June 27, 2012
 
 RVT is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of the RVT Classifieds.
 
@@ -107,7 +105,7 @@ Back to Top
 
 ### Testimonials
 
-We use testimonials on our Web Sites(s). We receive permission to post the testimonials in advance of their posting. If you would like your testimonial removed at any time, please contact us at [tradersupport@rvt.com](mailto:tradersupport@rvt.com).
+We use testimonials on our Web Sites(s). We receive permission to post the testimonials in advance of their posting. If you would like your testimonial removed at any time, please contact us at [](mailto:tradersupport@rvt.com?subject=Customer%20Support%20Inquiry%20-%20RVT.com).
 
 Back to Top
 
@@ -131,19 +129,19 @@ Back to Top
 
 ### Choice / Opt-out
 
-We provide you the opportunity to ‘opt-in’ to receive our periodic newsletter. You can do so at various areas of the site by providing your email address or by checking the box to receive our newsletter. If you no longer wish to receive our newsletter, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [tradersupport@rvt.com](mailto:tradersupport@rvt.com).
+We provide you the opportunity to ‘opt-in’ to receive our periodic newsletter. You can do so at various areas of the site by providing your email address or by checking the box to receive our newsletter. If you no longer wish to receive our newsletter, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [](mailto:tradersupport@rvt.com?subject=Customer%20Support%20Inquiry%20-%20RVT.com).
 
 Back to Top
 
 ### Communications From Our Site
 
-You will receive a confirmation email upon placing an ad and notification emails just prior to the expiry of a placed ad. Emails are sent weekly to notify you of new ad postings according to your specified criteria when using the “Auto Notify” feature of a User Account. We will also send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these service related communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account by emailing [tradersupport@rvt.com](mailto:tradersupport@rvt.com) or calling 800-677-4484. You may opt-out of these communications. Please see “Choice / Opt-out” above.
+You will receive a confirmation email upon placing an ad and notification emails just prior to the expiry of a placed ad. Emails are sent weekly to notify you of new ad postings according to your specified criteria when using the “Auto Notify” feature of a User Account. We will also send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these service related communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account by emailing [](mailto:tradersupport@rvt.com?subject=Customer%20Support%20Inquiry%20-%20RVT.com) or calling 800-677-4484. You may opt-out of these communications. Please see “Choice / Opt-out” above.
 
 Back to Top
 
 ### How you can access, update or delete your information
 
-We will provide you with the means to ensure that your personal information is correct and current. You may edit or delete your user profile at any time by clicking on the "My Profile" link or graphic provided by the system once you are logged in. Once you have logged onto the system during a given session, wherever you go on the RVT Classifieds, your information will stay with you until or unless you click on the “Logout” link, which is accessible at the top of every page. If you are a previously registered user and you have lost or forgotten your password, you may obtain it by email by using our “Forgot Password” feature. Click the button on any login page to request that your password be emailed to you. We cannot provide your password by any other means. Your RVT Classifieds account can be deleted by emailing [tradersupport@rvt.com](mailto:tradersupport@rvt.com) or calling 800-677-4484, but doing so will result in not being able to access any of the features of the program that require user registration. If you have any questions regarding your account, please contact us at [tradersupport@rvt.com](mailto:tradersupport@rvt.com).
+We will provide you with the means to ensure that your personal information is correct and current. You may edit or delete your user profile at any time by clicking on the "My Profile" link or graphic provided by the system once you are logged in. Once you have logged onto the system during a given session, wherever you go on the RVT Classifieds, your information will stay with you until or unless you click on the “Logout” link, which is accessible at the top of every page. If you are a previously registered user and you have lost or forgotten your password, you may obtain it by email by using our “Forgot Password” feature. Click the button on any login page to request that your password be emailed to you. We cannot provide your password by any other means. Your RVT Classifieds account can be deleted by emailing [](mailto:tradersupport@rvt.com?subject=Customer%20Support%20Inquiry%20-%20RVT.com) or calling 800-677-4484, but doing so will result in not being able to access any of the features of the program that require user registration. If you have any questions regarding your account, please contact us at [](mailto:tradersupport@rvt.com?subject=Customer%20Support%20Inquiry%20-%20RVT.com).
 
 Back to Top
 
