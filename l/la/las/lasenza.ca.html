@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the lasenza.ca privacy policy that was archived on 2016-08-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160826010244id_/http%3A//www.lasenza.ca/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lasenza.ca privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606160543id_/http%3A//www.lasenza.ca/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-963.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-563VXS"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMFWF9UGwEBUFZWAQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),s.on(m,function(){this.bstStart=Date.now()}),s.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(17)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;c<s;c++)a[c].apply(i,r);var u=f[w[n]];return u&&u.push([v,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",w[n]=e,e in f||(f[e]=[])})}var m={},w={},v={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return v}function i(){return new r}var a="nr@context",s=t("gos"),c=t(15),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!g++){var t=y.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(w,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(15),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var m=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-963.min.js"},v=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:m,features:{},xhrWrappable:v};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),s("mark",["firstbyte",a()],null,"api");var g=0},{}]},{},["loader",2,10,4,3]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-563VXS"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMFWF9UGwEBUFZWAQc="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
 <title>Privacy Policy | La Senza</title>
 <meta name="description" content="This privacy policy explains what personal information is collected through LaSenza.com">
 <meta name="keywords" content="La Senza, Lasenza, La Sensa, La Sanza, La Sezna, La Senze, Lasenze, La Senxa, Lasen, Le Senza, Lesenza, La Seza, Privacy, Privacy Policy">
@@ -18,17 +18,17 @@
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://www.lasenza.ca/media/css/af4dfe926a366aa533f12de670196eaf.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.lasenza.ca/media/css/65193a14d9ef73074ef70652f5417991.css" media="print">
-<script type="text/javascript" src="http://www.lasenza.ca/media/js/038c995062840635f6ea838dc55f08d3.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.lasenza.ca/media/css/2b52a4a221c9d5bda9da9283a18bf989.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.lasenza.ca/media/css/7f3e85d12fb30a3cd7e5f10498cf888e.css" media="print">
+<script type="text/javascript" src="http://www.lasenza.ca/media/js/a354ce7e9cf764ccce3f67af6c704800.js"></script>
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://www.lasenza.ca/media/css/d5ed4d83eaeba081cc92941cea4ecdb4.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.lasenza.ca/media/css/e142c915c2d4604ebe9316fa18c7b463.css" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://www.lasenza.ca/media/js/7f94711825246c33fba9e22760c4f18e.js"></script>
+<script type="text/javascript" src="http://www.lasenza.ca/media/js/5adfa14a936c680cf5ef691af485e42f.js"></script>
 <![endif]-->
 <!--[if IE 8]>
-<link rel="stylesheet" type="text/css" href="http://www.lasenza.ca/media/css/8908fa095ef5115b8bae0d11662cb1fa.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.lasenza.ca/media/css/b25d81f2f57238b09635409609877a83.css" media="all" />
 <![endif]-->
 
 <script type="text/javascript">
@@ -40,7 +40,7 @@ Mage.Cookies.domain   = '.www.lasenza.ca';
 
 <script type="text/javascript">
 //<![CDATA[
-optionalZipCountries = ["AU","AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HK","HU","IE","IT","JP","LV","LT","LU","MO","MT","NL","NO","PA","PL","PT","RO","SA","SK","SI","ES","SE","CH","AE"];
+optionalZipCountries = ["AU","AT","BH","BE","BG","CN","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HK","HU","IN","ID","IE","IL","IT","JP","KW","LV","LT","LU","MO","MY","MT","MX","NL","NZ","NO","PA","PH","PL","PT","QA","RO","RU","SA","SG","SK","SI","KR","ES","SE","CH","TH","AE"];
 //]]>
 </script>
 <script type="text/javascript">//<![CDATA[
@@ -49,72 +49,63 @@ optionalZipCountries = ["AU","AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","
 <meta name="msvalidate.01" content="2C38722F7B48C25D8F121AFE49FFBBBA">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta name="msvalidate.01" content="7910048DF2AAF20DC162531E18AE8111">
-<meta name="google-site-verification" content="aiS3u0iWUGk923Ij71i6sHq_JB1H7OZxgY8HgVjbvLA">
+<meta name="google-site-verification" content="SF61H-qWITh3Rkz2m9fQgbROZH2Ji_ngE-LE0NKpq-k">
 <style type="text/css">
 #build-menu-page .flex-direction-nav {
     display: none;
 }
-</style><script type="text/javascript">
-    jQuery.getScript(window.location.protocol + "//use.typekit.net/hmn2gis.js", function () {
-        try{Typekit.load();}catch(e){}
-    })
-</script>
-</head>
+</style></head>
 <body class=" cms-page-view cms-privacy-policy-cookie-restriction-mode">
-<!-- BEGIN GOOGLE ANALYTICS CODEs -->
-<script type="text/javascript">
-//<![CDATA[
-    var pagetype = 'Product';
-    var _gaq = _gaq || [];
-    document.observe('varnish:load:complete', function() {
+<span style="display: none" class="placeholder" data-id="TOP_HEADER_BANNER" data-name="top.header.banner" data-info="MDoyOmYxOTVjMWZkNGE5MGU0Mzg6SlNRQjhReDAyMDlBbi80b2ZkTkZ6WkhMSUFqeUg2Z0Y4YmNaS2hzZVNVODcwLzFCNzh1REJYa3AyQU4wR250UQ=="></span>
+<!--CONTENT[TOP_HEADER_BANNER]-->
+<div class="global-header-banner">
+<div class="inner">
+<div class="receive-info">
+<p style="font: normal 16px Arial,sans-serif;"><a href="http://www.lasenza.ca/sale-clearance-specials/clearance/bras.html">SALE is ON! Bras $8.99 &amp; up</a> | <a href="http://www.lasenza.ca/sale-clearance-specials/clearance/panties.html">Select Panties 8 for $30</a> | <a href="http://www.lasenza.ca/sale-clearance-specials/clearance/sexy-lingerie.html">Lingerie 50% OFF</a> Extra 10% Off for Club Members</p>
+</div>
+</div>
+</div>
+<!--<div class="global-header-banner">
+<div class="inner">
+<div class="receive-info">
+<p style="font: normal 16px Arial,sans-serif;"><a href="http://www.lasenza.ca/bras/bralettes-bras.html">Bras <span class="price">$20</span></a> | <a href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html">Panties 7 for <span class="price">$28.95</span></a> | <a href="http://www.lasenza.ca/sexy-lingerie/body-suits.html">Select Bodysuits NOW <span class="price">$15</span></a> Plus Free Shipping on orders of $35+ with code SHIP35</p>
+</div>
+</div>
+</div>
+<div class="global-header-banner">
+<div class="inner">
+<div class="receive-info">
+<p style="font: normal 16px Arial,sans-serif;"><a href="http://www.lasenza.ca/specials/bra-specials-3.html">Bras Buy 1 Get 1 50% OFF</a> | <a href="http://www.lasenza.ca/specials/sexy-panty-deals-1.html">2 FREE Panties when you buy 2</a> | <a href="http://www.lasenza.ca/sexy-lingerie/body-suits.html">Select Bodysuits NOW $20</a> | <a href="http://www.lasenza.ca/specials/bra-specials-4.html">Plus Bras 2 for $20 and </a> <a href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html">Panties 8 for $30.95</a></p>
+</div>
+</div>
+</div>
+
+<div class="global-header-banner">
+<div class="inner">
+<div class="receive-info">
+<p style="font: normal 16px Arial,sans-serif;"><a href="http://www.lasenza.ca/sale-clearance-specials.html">EXTRA 30% OFF sale &amp; clearance. Code: FLASH</a> | <a href="http://www.lasenza.ca/specials/bra-specials-3.html">Shop $30 Bra</a> &amp; <a href="http://www.lasenza.ca/specials/sexy-panty-deals-1.html">Panty Sets</a> | Club La Senza Members Only! 50% OFF one regular priced lingerie or lounge item! Shop Now!</p>
+</div>
+</div>
+</div>--><!--/CONTENT[TOP_HEADER_BANNER]-->
+                        <script type="text/javascript">
+            dataLayer = [{"pageType":"","pageCategory":"","userId":"","userType":"Guest","loggedInStatus":"Not LoggedIn"}];
+        </script>
+        <!-- GOOGLE TAG MANAGER -->
+        <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-563VXS" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <script type="text/javascript">
+            //<![CDATA[
+            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+                var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;
+                j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-563VXS');
+
+            var dlCurrencyCode = 'CAD';
+                        //]]>
+        </script>
+        <!-- END GOOGLE TAG MANAGER -->
         
-_gaq.push(['_setAccount', 'UA-901632-1']);
-_gaq.push(['_setDomainName', 'www.lasenza.ca']);
-
-if (window.location.hash.match(/_ref/)) {
-    var hash = window.location.hash.substring(1);
-
-    // Extract referer value from the _referer value in the hash
-    var referrer = hash.substr(hash.indexOf('_ref=')).split('&')[0].split('=')[1];
-
-    // Strip _ref parameter from the hash
-    window.location.hash = window.location.hash.replace(/_ref=([^&]*)&?/g, '').replace(/&$/, '').replace(/^#$/,'');
-
-    // Override referrer value sent to GA
-    _gaq.push(['_setReferrerOverride', decodeURIComponent(referrer)]);
-}
-_gaq.push(['_setCustomVar', 2, 'Page Type', pagetype, 3]);
-
-
-_gaq.push(['_trackPageview']);
-                        
-    //external links
-    jQuery(function($){
-        $('a[href^="http"]').not('[href*="www.lasenza.ca"]').addClass('external').click(function(){
-            _gaq.push(['_trackEvent', 'External Links', 'Clicked External Link', $(this).prop('href')]);
-        });
-    });
-
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-    });
-//]]>
-</script>
-<!-- END GOOGLE ANALYTICS CODE -->
-
-
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-563VXS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-563VXS');</script>
-<!-- End Google Tag Manager -->
-
 <script type="text/javascript">
     new Salesforce.Track(
         '',
@@ -132,14 +123,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
     </noscript>
     <div class="page">
-            <div class="global-header-banner">
-<div class="inner">
-<div class="receive-info">
-<p style="font: normal 16px Arial,sans-serif;"><a href="http://www.lasenza.ca/bras/bra-collections/remix-cotton-bras.html">Remix Bras 2 for $20</a> | <a href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html">Plus 8 for $30.95 Mix &amp; Match Panties! Shop Now!</a></p>
-</div>
-</div>
-</div>
-<div class="header-container">
+        <div class="header-container">
     <div class="header">
         <div class="quick-access">
             <div class="global-wrapper">
@@ -150,61 +134,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <span onclick="eswHeader.showCurrencies();" class="switcher" data-disabled="disabled"></span>
             </span>
             <ul style="display:none" class="switch-popup" id="popId-currencySelect">
-                                            <li class="currency-AED">
-                    <a href="#" data-code="AED">AED د.إ</a>
-                </li>
-                                                            <li class="currency-AUD">
-                    <a href="#" data-code="AUD">AUD AU$</a>
-                </li>
-                                                            <li class="currency-BGN">
-                    <a href="#" data-code="BGN">BGN лв</a>
-                </li>
-                                                                                        <li class="currency-CHF">
-                    <a href="#" data-code="CHF">CHF CHF</a>
-                </li>
-                                                            <li class="currency-CZK">
-                    <a href="#" data-code="CZK">CZK Kč</a>
-                </li>
-                                                            <li class="currency-DKK">
-                    <a href="#" data-code="DKK">DKK kr</a>
-                </li>
-                                                            <li class="currency-EUR">
-                    <a href="#" data-code="EUR">EUR €</a>
-                </li>
-                                                            <li class="currency-GBP">
-                    <a href="#" data-code="GBP">GBP £</a>
-                </li>
-                                                            <li class="currency-HKD">
-                    <a href="#" data-code="HKD">HKD HK$</a>
-                </li>
-                                                            <li class="currency-HRK">
-                    <a href="#" data-code="HRK">HRK kn</a>
-                </li>
-                                                            <li class="currency-HUF">
-                    <a href="#" data-code="HUF">HUF Ft</a>
-                </li>
-                                                            <li class="currency-JPY">
-                    <a href="#" data-code="JPY">JPY ¥</a>
-                </li>
-                                                            <li class="currency-NOK">
-                    <a href="#" data-code="NOK">NOK kr</a>
-                </li>
-                                                            <li class="currency-PLN">
-                    <a href="#" data-code="PLN">PLN zł</a>
-                </li>
-                                                            <li class="currency-RON">
-                    <a href="#" data-code="RON">RON lei</a>
-                </li>
-                                                            <li class="currency-SAR">
-                    <a href="#" data-code="SAR">SAR ر.س</a>
-                </li>
-                                                            <li class="currency-SEK">
-                    <a href="#" data-code="SEK">SEK kr</a>
-                </li>
-                                                            <li class="currency-USD">
-                    <a href="#" data-code="USD">USD $</a>
-                </li>
-                                        </ul>
+                                                                                </ul>
         </div>
     </div>
     <div class="switch switcher-country">
@@ -221,9 +151,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/ca_fr.jpg" alt="">
                     <a href="#" data-code="ca_fr">Canadian French</a>
                 </li>
+                            <li class="country-global">
+                    <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/global.jpg" alt="">
+                    <a href="#" data-code="global">Global</a>
+                </li>
                             <li class="country-us_en">
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/us_en.jpg" alt="">
-                    <a href="#" data-code="us_en">Global</a>
+                    <a href="#" data-code="us_en">United States</a>
                 </li>
                             <li class="country-AU">
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/AU.jpg" alt="">
@@ -233,6 +167,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/AT.jpg" alt="">
                     <a href="#" data-code="AT">Austria</a>
                 </li>
+                            <li class="country-BH">
+                    <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/BH.jpg" alt="">
+                    <a href="#" data-code="BH">Bahrain</a>
+                </li>
                             <li class="country-BE">
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/BE.jpg" alt="">
                     <a href="#" data-code="BE">Belgium</a>
@@ -240,6 +178,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <li class="country-BG">
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/BG.jpg" alt="">
                     <a href="#" data-code="BG">Bulgaria</a>
+                </li>
+                            <li class="country-CN">
+                    <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/CN.jpg" alt="">
+                    <a href="#" data-code="CN">China</a>
                 </li>
                             <li class="country-HR">
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/HR.jpg" alt="">
@@ -285,9 +227,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/HU.jpg" alt="">
                     <a href="#" data-code="HU">Hungary</a>
                 </li>
+                            <li class="country-IN">
+                    <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/IN.jpg" alt="">
+                    <a href="#" data-code="IN">India</a>
+                </li>
+                            <li class="country-ID">
+                    <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/ID.jpg" alt="">
+                    <a href="#" data-code="ID">Indonesia</a>
+                </li>
                             <li class="country-IE">
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/IE.jpg" alt="">
                     <a href="#" data-code="IE">Ireland</a>
+                </li>
+                            <li class="country-IL">
+                    <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/IL.jpg" alt="">
+                    <a href="#" data-code="IL">Israel</a>
                 </li>
                             <li class="country-IT">
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/IT.jpg" alt="">
@@ -296,6 +250,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <li class="country-JP">
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/JP.jpg" alt="">
                     <a href="#" data-code="JP">Japan</a>
+                </li>
+                            <li class="country-KW">
+                    <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/KW.jpg" alt="">
+                    <a href="#" data-code="KW">Kuwait</a>
                 </li>
                             <li class="country-LV">
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/LV.jpg" alt="">
@@ -309,17 +267,33 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/LU.jpg" alt="">
                     <a href="#" data-code="LU">Luxembourg</a>
                 </li>
+                            <li class="country-MY">
+                    <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/MY.jpg" alt="">
+                    <a href="#" data-code="MY">Malaysia</a>
+                </li>
                             <li class="country-MT">
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/MT.jpg" alt="">
                     <a href="#" data-code="MT">Malta</a>
+                </li>
+                            <li class="country-MX">
+                    <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/MX.jpg" alt="">
+                    <a href="#" data-code="MX">Mexico</a>
                 </li>
                             <li class="country-NL">
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/NL.jpg" alt="">
                     <a href="#" data-code="NL">Netherlands</a>
                 </li>
+                            <li class="country-NZ">
+                    <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/NZ.jpg" alt="">
+                    <a href="#" data-code="NZ">New Zealand</a>
+                </li>
                             <li class="country-NO">
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/NO.jpg" alt="">
                     <a href="#" data-code="NO">Norway</a>
+                </li>
+                            <li class="country-PH">
+                    <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/PH.jpg" alt="">
+                    <a href="#" data-code="PH">Philippines</a>
                 </li>
                             <li class="country-PL">
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/PL.jpg" alt="">
@@ -329,13 +303,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/PT.jpg" alt="">
                     <a href="#" data-code="PT">Portugal</a>
                 </li>
+                            <li class="country-QA">
+                    <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/QA.jpg" alt="">
+                    <a href="#" data-code="QA">Qatar</a>
+                </li>
                             <li class="country-RO">
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/RO.jpg" alt="">
                     <a href="#" data-code="RO">Romania</a>
                 </li>
+                            <li class="country-RU">
+                    <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/RU.jpg" alt="">
+                    <a href="#" data-code="RU">Russia</a>
+                </li>
                             <li class="country-SA">
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/SA.jpg" alt="">
                     <a href="#" data-code="SA">Saudi Arabia</a>
+                </li>
+                            <li class="country-SG">
+                    <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/SG.jpg" alt="">
+                    <a href="#" data-code="SG">Singapore</a>
                 </li>
                             <li class="country-SK">
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/SK.jpg" alt="">
@@ -344,6 +330,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <li class="country-SI">
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/SI.jpg" alt="">
                     <a href="#" data-code="SI">Slovenia</a>
+                </li>
+                            <li class="country-KR">
+                    <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/KR.jpg" alt="">
+                    <a href="#" data-code="KR">South Korea</a>
                 </li>
                             <li class="country-ES">
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/ES.jpg" alt="">
@@ -357,6 +347,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/CH.jpg" alt="">
                     <a href="#" data-code="CH">Switzerland</a>
                 </li>
+                            <li class="country-TH">
+                    <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/TH.jpg" alt="">
+                    <a href="#" data-code="TH">Thailand</a>
+                </li>
                             <li class="country-AE">
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/AE.jpg" alt="">
                     <a href="#" data-code="AE">United Arab Emirates</a>
@@ -364,10 +358,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <li class="country-GB">
                     <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/GB.jpg" alt="">
                     <a href="#" data-code="GB">United Kingdom</a>
-                </li>
-                            <li class="country-US">
-                    <img src="http://www.lasenza.ca/skin/frontend/base/default/images/lyonscg/eshopworld/flags/US.jpg" alt="">
-                    <a href="#" data-code="US">United States</a>
                 </li>
                         </ul>
         </div>
@@ -378,10 +368,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         'currencySelect',
         '<img src="#{flag}" alt="" /><strong class="current">#{label}</strong>',
         '<strong class="current">#{label}</strong>',
-        {"ca_en":{"code":"ca_en","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/ca_en.jpg","label":"Canadian English","link":"http:\/\/www.lasenza.ca\/privacy-policy-cookie-restriction-mode?___store=ca_en\u0026___from_store=ca_en","currency":"CAD"},"ca_fr":{"code":"ca_fr","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/ca_fr.jpg","label":"Canadian French","link":"http:\/\/www.lasenza.ca\/privacy-policy-cookie-restriction-mode?___store=ca_fr\u0026___from_store=ca_en","currency":"CAD"},"us_en":{"code":"us_en","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/us_en.jpg","label":"Global","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:us_en\u0026esw_currency:CAD","currency":"CAD"},"AU":{"code":"AU","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/AU.jpg","label":"Australia","currency":"AUD","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:AU\u0026esw_currency:AUD"},"AT":{"code":"AT","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/AT.jpg","label":"Austria","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:AT\u0026esw_currency:EUR"},"BE":{"code":"BE","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/BE.jpg","label":"Belgium","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:BE\u0026esw_currency:EUR"},"BG":{"code":"BG","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/BG.jpg","label":"Bulgaria","currency":"BGN","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:BG\u0026esw_currency:BGN"},"HR":{"code":"HR","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/HR.jpg","label":"Croatia","currency":"HRK","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:HR\u0026esw_currency:HRK"},"CY":{"code":"CY","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/CY.jpg","label":"Cyprus","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:CY\u0026esw_currency:EUR"},"CZ":{"code":"CZ","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/CZ.jpg","label":"Czech Republic","currency":"CZK","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:CZ\u0026esw_currency:CZK"},"DK":{"code":"DK","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/DK.jpg","label":"Denmark","currency":"DKK","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:DK\u0026esw_currency:DKK"},"EE":{"code":"EE","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/EE.jpg","label":"Estonia","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:EE\u0026esw_currency:EUR"},"FI":{"code":"FI","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/FI.jpg","label":"Finland","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:FI\u0026esw_currency:EUR"},"FR":{"code":"FR","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/FR.jpg","label":"France","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:FR\u0026esw_currency:EUR"},"DE":{"code":"DE","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/DE.jpg","label":"Germany","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:DE\u0026esw_currency:EUR"},"GR":{"code":"GR","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/GR.jpg","label":"Greece","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:GR\u0026esw_currency:EUR"},"HK":{"code":"HK","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/HK.jpg","label":"Hong Kong","currency":"HKD","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:HK\u0026esw_currency:HKD"},"HU":{"code":"HU","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/HU.jpg","label":"Hungary","currency":"HUF","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:HU\u0026esw_currency:HUF"},"IE":{"code":"IE","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/IE.jpg","label":"Ireland","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:IE\u0026esw_currency:EUR"},"IT":{"code":"IT","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/IT.jpg","label":"Italy","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:IT\u0026esw_currency:EUR"},"JP":{"code":"JP","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/JP.jpg","label":"Japan","currency":"JPY","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:JP\u0026esw_currency:JPY"},"LV":{"code":"LV","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/LV.jpg","label":"Latvia","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:LV\u0026esw_currency:EUR"},"LT":{"code":"LT","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/LT.jpg","label":"Lithuania","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:LT\u0026esw_currency:EUR"},"LU":{"code":"LU","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/LU.jpg","label":"Luxembourg","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:LU\u0026esw_currency:EUR"},"MT":{"code":"MT","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/MT.jpg","label":"Malta","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:MT\u0026esw_currency:EUR"},"NL":{"code":"NL","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/NL.jpg","label":"Netherlands","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:NL\u0026esw_currency:EUR"},"NO":{"code":"NO","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/NO.jpg","label":"Norway","currency":"NOK","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:NO\u0026esw_currency:NOK"},"PL":{"code":"PL","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/PL.jpg","label":"Poland","currency":"PLN","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:PL\u0026esw_currency:PLN"},"PT":{"code":"PT","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/PT.jpg","label":"Portugal","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:PT\u0026esw_currency:EUR"},"RO":{"code":"RO","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/RO.jpg","label":"Romania","currency":"RON","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:RO\u0026esw_currency:RON"},"SA":{"code":"SA","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/SA.jpg","label":"Saudi Arabia","currency":"SAR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:SA\u0026esw_currency:SAR"},"SK":{"code":"SK","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/SK.jpg","label":"Slovakia","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:SK\u0026esw_currency:EUR"},"SI":{"code":"SI","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/SI.jpg","label":"Slovenia","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:SI\u0026esw_currency:EUR"},"ES":{"code":"ES","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/ES.jpg","label":"Spain","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:ES\u0026esw_currency:EUR"},"SE":{"code":"SE","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/SE.jpg","label":"Sweden","currency":"SEK","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:SE\u0026esw_currency:SEK"},"CH":{"code":"CH","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/CH.jpg","label":"Switzerland","currency":"CHF","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:CH\u0026esw_currency:CHF"},"AE":{"code":"AE","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/AE.jpg","label":"United Arab Emirates","currency":"AED","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:AE\u0026esw_currency:AED"},"GB":{"code":"GB","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/GB.jpg","label":"United Kingdom","currency":"GBP","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:GB\u0026esw_currency:GBP"},"US":{"code":"US","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/US.jpg","label":"United States","currency":"USD","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en#esw_country:US\u0026esw_currency:USD"}},
-        {"AED":{"label":"AED \u062f.\u0625","symbol":"\u062f.\u0625","store":false},"AUD":{"label":"AUD AU$","symbol":"AU$","store":false},"BGN":{"label":"BGN \u043b\u0432","symbol":"\u043b\u0432","store":false},"CAD":{"label":"CAD $","symbol":"$","store":true},"CHF":{"label":"CHF CHF","symbol":"CHF","store":false},"CZK":{"label":"CZK K\u010d","symbol":"K\u010d","store":false},"DKK":{"label":"DKK kr","symbol":"kr","store":false},"EUR":{"label":"EUR \u20ac","symbol":"\u20ac","store":false},"GBP":{"label":"GBP \u00a3","symbol":"\u00a3","store":false},"HKD":{"label":"HKD HK$","symbol":"HK$","store":false},"HRK":{"label":"HRK kn","symbol":"kn","store":false},"HUF":{"label":"HUF Ft","symbol":"Ft","store":false},"JPY":{"label":"JPY \u00a5","symbol":"\u00a5","store":false},"NOK":{"label":"NOK kr","symbol":"kr","store":false},"PLN":{"label":"PLN z\u0142","symbol":"z\u0142","store":false},"RON":{"label":"RON lei","symbol":"lei","store":false},"SAR":{"label":"SAR \u0631.\u0633","symbol":"\u0631.\u0633","store":false},"SEK":{"label":"SEK kr","symbol":"kr","store":false},"USD":{"label":"USD $","symbol":"$","store":false}},
-        'ca_en'
-    );
+        {"ca_en":{"code":"ca_en","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/ca_en.jpg","label":"Canadian English","link":"http:\/\/www.lasenza.ca\/privacy-policy-cookie-restriction-mode?___store=ca_en\u0026___from_store=ca_en","currency":"CAD"},"ca_fr":{"code":"ca_fr","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/ca_fr.jpg","label":"Canadian French","link":"http:\/\/www.lasenza.ca\/privacy-policy-cookie-restriction-mode?___store=ca_fr\u0026___from_store=ca_en","currency":"CAD"},"global":{"code":"global","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/global.jpg","label":"Global","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:global\u0026esw_currency:CAD","currency":"CAD"},"us_en":{"code":"us_en","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/us_en.jpg","label":"United States","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=us_en\u0026___from_store=ca_en","currency":"USD"},"AU":{"code":"AU","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/AU.jpg","label":"Australia","currency":"AUD","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:AU\u0026esw_currency:AUD"},"AT":{"code":"AT","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/AT.jpg","label":"Austria","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:AT\u0026esw_currency:EUR"},"BH":{"code":"BH","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/BH.jpg","label":"Bahrain","currency":"BHD","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:BH\u0026esw_currency:BHD"},"BE":{"code":"BE","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/BE.jpg","label":"Belgium","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:BE\u0026esw_currency:EUR"},"BG":{"code":"BG","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/BG.jpg","label":"Bulgaria","currency":"BGN","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:BG\u0026esw_currency:BGN"},"CN":{"code":"CN","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/CN.jpg","label":"China","currency":"CNY","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:CN\u0026esw_currency:CNY"},"HR":{"code":"HR","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/HR.jpg","label":"Croatia","currency":"HRK","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:HR\u0026esw_currency:HRK"},"CY":{"code":"CY","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/CY.jpg","label":"Cyprus","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:CY\u0026esw_currency:EUR"},"CZ":{"code":"CZ","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/CZ.jpg","label":"Czech Republic","currency":"CZK","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:CZ\u0026esw_currency:CZK"},"DK":{"code":"DK","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/DK.jpg","label":"Denmark","currency":"DKK","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:DK\u0026esw_currency:DKK"},"EE":{"code":"EE","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/EE.jpg","label":"Estonia","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:EE\u0026esw_currency:EUR"},"FI":{"code":"FI","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/FI.jpg","label":"Finland","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:FI\u0026esw_currency:EUR"},"FR":{"code":"FR","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/FR.jpg","label":"France","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:FR\u0026esw_currency:EUR"},"DE":{"code":"DE","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/DE.jpg","label":"Germany","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:DE\u0026esw_currency:EUR"},"GR":{"code":"GR","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/GR.jpg","label":"Greece","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:GR\u0026esw_currency:EUR"},"HK":{"code":"HK","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/HK.jpg","label":"Hong Kong","currency":"HKD","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:HK\u0026esw_currency:HKD"},"HU":{"code":"HU","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/HU.jpg","label":"Hungary","currency":"HUF","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:HU\u0026esw_currency:HUF"},"IN":{"code":"IN","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/IN.jpg","label":"India","currency":"INR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:IN\u0026esw_currency:INR"},"ID":{"code":"ID","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/ID.jpg","label":"Indonesia","currency":"IDR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:ID\u0026esw_currency:IDR"},"IE":{"code":"IE","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/IE.jpg","label":"Ireland","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:IE\u0026esw_currency:EUR"},"IL":{"code":"IL","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/IL.jpg","label":"Israel","currency":"ILS","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:IL\u0026esw_currency:ILS"},"IT":{"code":"IT","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/IT.jpg","label":"Italy","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:IT\u0026esw_currency:EUR"},"JP":{"code":"JP","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/JP.jpg","label":"Japan","currency":"JPY","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:JP\u0026esw_currency:JPY"},"KW":{"code":"KW","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/KW.jpg","label":"Kuwait","currency":"KWD","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:KW\u0026esw_currency:KWD"},"LV":{"code":"LV","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/LV.jpg","label":"Latvia","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:LV\u0026esw_currency:EUR"},"LT":{"code":"LT","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/LT.jpg","label":"Lithuania","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:LT\u0026esw_currency:EUR"},"LU":{"code":"LU","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/LU.jpg","label":"Luxembourg","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:LU\u0026esw_currency:EUR"},"MY":{"code":"MY","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/MY.jpg","label":"Malaysia","currency":"MYR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:MY\u0026esw_currency:MYR"},"MT":{"code":"MT","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/MT.jpg","label":"Malta","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:MT\u0026esw_currency:EUR"},"MX":{"code":"MX","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/MX.jpg","label":"Mexico","currency":"MXN","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:MX\u0026esw_currency:MXN"},"NL":{"code":"NL","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/NL.jpg","label":"Netherlands","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:NL\u0026esw_currency:EUR"},"NZ":{"code":"NZ","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/NZ.jpg","label":"New Zealand","currency":"NZD","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:NZ\u0026esw_currency:NZD"},"NO":{"code":"NO","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/NO.jpg","label":"Norway","currency":"NOK","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:NO\u0026esw_currency:NOK"},"PH":{"code":"PH","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/PH.jpg","label":"Philippines","currency":"PHP","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:PH\u0026esw_currency:PHP"},"PL":{"code":"PL","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/PL.jpg","label":"Poland","currency":"PLN","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:PL\u0026esw_currency:PLN"},"PT":{"code":"PT","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/PT.jpg","label":"Portugal","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:PT\u0026esw_currency:EUR"},"QA":{"code":"QA","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/QA.jpg","label":"Qatar","currency":"QAR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:QA\u0026esw_currency:QAR"},"RO":{"code":"RO","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/RO.jpg","label":"Romania","currency":"RON","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:RO\u0026esw_currency:RON"},"RU":{"code":"RU","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/RU.jpg","label":"Russia","currency":"RUB","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:RU\u0026esw_currency:RUB"},"SA":{"code":"SA","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/SA.jpg","label":"Saudi Arabia","currency":"SAR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:SA\u0026esw_currency:SAR"},"SG":{"code":"SG","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/SG.jpg","label":"Singapore","currency":"SGD","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:SG\u0026esw_currency:SGD"},"SK":{"code":"SK","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/SK.jpg","label":"Slovakia","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:SK\u0026esw_currency:EUR"},"SI":{"code":"SI","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/SI.jpg","label":"Slovenia","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:SI\u0026esw_currency:EUR"},"KR":{"code":"KR","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/KR.jpg","label":"South Korea","currency":"KRW","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:KR\u0026esw_currency:KRW"},"ES":{"code":"ES","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/ES.jpg","label":"Spain","currency":"EUR","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:ES\u0026esw_currency:EUR"},"SE":{"code":"SE","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/SE.jpg","label":"Sweden","currency":"SEK","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:SE\u0026esw_currency:SEK"},"CH":{"code":"CH","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/CH.jpg","label":"Switzerland","currency":"CHF","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:CH\u0026esw_currency:CHF"},"TH":{"code":"TH","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/TH.jpg","label":"Thailand","currency":"THB","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:TH\u0026esw_currency:THB"},"AE":{"code":"AE","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/AE.jpg","label":"United Arab Emirates","currency":"AED","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:AE\u0026esw_currency:AED"},"GB":{"code":"GB","flag":"http:\/\/www.lasenza.ca\/skin\/frontend\/base\/default\/images\/lyonscg\/eshopworld\/flags\/GB.jpg","label":"United Kingdom","currency":"GBP","link":"http:\/\/www.lasenza.com\/privacy-policy-cookie-restriction-mode?___store=global\u0026___from_store=ca_en#esw_country:GB\u0026esw_currency:GBP"}},
+        {"CAD":{"label":"CAD $","symbol":"$","store":true},"USD":{"label":"USD $","symbol":"$","store":true}},
+        'ca_en',
+        0    );
 </script>
                 
                 <div class="store-link">
@@ -389,7 +379,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
 
                 <div class="header-links">
-                    <span style="display: none" class="placeholder" data-id="CART_SIDEBAR" data-name="cart_sidebar" data-info="MDoyOmMxYmEwMmMxMzE4OWQ3YzY6bmNHbzA2NU5TUi9QWlErK0IzMC92cThsYUJmM1dJbWVTNGdFTFdlODZzblpDaDRPMmRwY0hBOWYvZzI1dEtacDNMaHo2aEkxWkJ3NDQ2eU9YMDVGMXE1TW4yb2owSG9BTExXdnFrMDZPNnRLemZRd0VTMnNOaUEwdGttWnVVbitoL1J3Q1hwZ1RCRDQ4L3V4bDdZMzZYM29lUU5uSGpzSUc4ZXM5ckt6SWM3bThra1hTcVZ2b3lvWWJzb1VhbVYyelN6UkRFRCtxcWRlS1hjdlk3TGtINEtsdXdWSUFWaS9VejZERVFmaUZPam5KNmdKME1xaHR1ZGVWUnRnMkQ2MEpFelR6NkhCQU1mMnkzd2pyVVRxTFJ5aDdJbDN0S0oyOWtqdm8wNy9sZElEQm0yUXJjNXhaa1FNMitRSS9UK1Q3Nk9nL1RRTldnVTdTRUxpbmxzWmM3THVSQ01zZjBTNVhNT1k4eWJtK1c3bE5lMGY0VGlYWnBham1LUG1CR1BuV3JuL0FrKzhVUldqandTZDNCd2lTNUpUM2JxU3hDem5VV0pqTnExSGZXc0poVjBqb200aTUzS2ZFdzh4WXdRYmVwQTlDN2pXSkFsUlJIdTkxVmJuQzlGL0wyOHNQa0JoanQzVk01diszTjlrS3N2blFNTkwvVGsvMXQ5dXg2UWF6a3FmM3pXK05kOVJPaWE2aWVrdHZHNzVRVmRLcUc4QTRsbzU2ZEZaMEZCT1RUUnVib0RBSFVHTmNpSngyQWZIMWNwZGJoRkp3WXM1bVRiN2RaSFA4WWVvYXlnKzhIbDdBYUtQY3ZjalVVWkZpUVlzSm93M0JpYk1ud0V3V21td3RBSURlZUFxUHNNMUVsMmJMRW5nSEFocVJkV0haMVBHbDNwVXhhbC9rM1ZSMEo2ZEhnT3RZQkZ1ZFdNUkN3YlkxMGpsZXNKaEtEM01uZ3ZHNnF2dy9uTGxrV2h6elFNY1J0d1JDZS8yTnBBR1pSMUd1T0tpeXJTbUxxanZWeis4ZlYxbGMvWGZaeTlTM01hM3p2eis0dkYyWEJjbVA0TytUdGJNcm95bThpSForaUtrQnJXQ1V5eVRNSTNuRkdxRUFSazlYZDl5ZFcyR0dYNENxS2s1WUd4b3BjNkpscHovOEQ4Rk5BNkh1MU8vRkVwWTRJeExkam5kQXI2WHpRVzI="></span>
+                    <span style="display: none" class="placeholder" data-id="CART_SIDEBAR" data-name="cart_sidebar" data-info="MDoyOjM5OWVmODdkMzU3NWQzNzQ6Z1ZuMTdYZjZZL1M0eGNZVElKczZjekxLYTJucEFLNnJoR295RDBKQ3FRTlZOcG5GRnJMYklSbDlMby95cUtycDVteXJMbG4vQSt0OEhnNHU5bFNvTk9YQmIwYUFXVFhDdXk3Q0p0a0dLbVRVbWR6emtFQlJLdkU2YkxvcDJRK0xxa1NYeTRoandIR1dCbmFUYVpkMktrSU9KOGRTbU43MEYvTzRldXdWb0YybGNVcDNFcjU2NHQrNmRtMFh4WW51RDlBWXBjcVdoR2ZlN09RNWJwaWFYWDZ5Qy9ic0RSYVFHRlJpLzBOYmdvTElHMTFrOVNlSGdPOUJjcjFyWDVEWVQwbERaZ0NWTEsvbDhuODBjZ1EvSjRLSjVTL1kxOFVZVHFmblVZenF1N1p3dnRhZnhZbXJXQlFENTNvc2FKZndqeVJOVWZUS1JDZXl1ajhwaDFSaWFzaWROdCtjV1d1aWJjRE9RUElUQ29oM3BzL2pTTHN2eG0rd01FVlA0TXUxV1pCblR6TkRuYzNTNDhKWG5MZEFlTmZ2YU5NQjJ1WUFXWXg4MERGY3RNWm8rSGc5ajVFaGtNeFdDejljTU1oSDdVYWp6Y1J4T084dUFOa0RPR3dUSlUxdUpWcWVjc3l6N2RWQ1JXVms4WExsQjNvZEpLUVdHazZuUjRkRXpxZ2VrajlCeWYwaGtadUI5cmZwMDFQOFZJY2gxWStnOG5jZk1WNGxTRldKVnFyOFhWQ08vQk9GbC9PMU9YdTNKR2lPa0wrRTBab3NIQUY5SzBKeGJtdmx6VFcrQnNGV1h5Q1pTajBoMWJudllYRS9CUnBHN2RmODZKaDVxQ2Y2bThndUdzRmtyRmF5YzJFNFZwcTJDbnc4blAvMC9DQ2RhemQzS2tlUVlLR25QOEhZcHhWZjZtR2Z4ZEhWRXFuQzVjZXRuMmpUMGQwZ1RaSHFNWnUyd2gzUVhXZEZHTitNRXhiZk9oVVdVODdyR1lzUWtyanZxcDBUTXJ6QU8xa24wWWtKN0duZW9LUXl0MFhKenRDYy9jTGlUUlN5Z3lEbzg5VGdlRGRnNjhVRVFZRXVEVDF5SUxzTlpPOW9HK2o2bXE1N3BKSFlyUVZHcVZNMHNGUzJmVW1tR0lnR3hQYlVSZlBXNFFiUlNnL1drUkhLaFY4L1RDN1l1MTM2cUlOMklCbVU="></span>
 <!--CONTENT[CART_SIDEBAR]-->
 <div class="top-cart">
         <div class="block-title no-items">
@@ -415,12 +405,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     //     };
     // });
 
-    // Display GoogleAnalytics Events
+    // Display GoogleAnalytics Events If GA is Enabled
     </script><!--/CONTENT[CART_SIDEBAR]-->
                     <ul class="links">
                         <li class="first last"><a href="https://www.lasenza.ca/customer/account/" title="My Account">My Account</a></li>
             </ul>
-                    <span style="display: none" class="placeholder" data-id="ACCLINKS" data-name="account.links" data-info="MDoyOjI5NTQxZmIzZGYxZGFjOTI6TEVpQWJrbkZTWHNXSFhxQmxMTUNMZ1A1eG14a2NXTVRqbzZxVHRBWjRYZytQS0Y2cTNnL2pySFFvZnhGS25iOFcrZ0lRTVpZNE00S3d0Nk1QZmN1WkpManRRdkw5R0xkS0xyeDdVT1hKYkVwMEx0bFNzUFZORmpMb1Y5cG9TdGxzcFpaUHc4Q0N4M0kyUXVuek5MZDJURXIxSzA0V0pJaFl1dWw0MGhtUjhyT05nOTllWEFmb1E1WlQyUEVlTUJMRVBSS0w0ZmZCTmwvZ2dhVmZlQW4wc0VaaWJLb3dIVlJ6Wjd1dTlsRXVIdkNGOGxRMG01YStNNDVndlh6YkhTSlBLc2laQW52c2J6QWFzcXNHbTFHcHBqSVQ0TGN1UzBxaG9ZSWgxSzA1bE1RcERGdkpiMHUyT24rOUFOMWVZSlNqV3hxOXptcVhITS9EVGtvNTRlaUxRb3VtUGVFRnNndVk5MmZ6YkFhWHVrU3NuUzFHZi8zckJEY0tiT1I0RHkzNUhCaGV1QmNzakRwOUVxczZWUVZxcGhEZzVFME5zcFVZU2ZEcUlYS09zZ1h0VjlRWWk2UHU2MG8ybTlhSlRrdTVOdGZmYUY0NlRPcllGR0RJZWVWbDQrN1JZdURCZVlRSDErMndqRFB4UkFqVmt2cFJ3dUgwOTkwTWtEazBOSjk4Z20vKzVlWElEMzVKdzFEYkwrRm5acFJQNm5UNUo1NjhxUlFCaWdmdmd3eFZGcjR1bmtnNXhZSDZoTkp2TDdDRWFPb3FEZ1hBUG9tSU1HS3pmQ2tnQi9pbWljVTlLWmZRQ0lLVDFYQW05OGRGdkNJK0JoV1VDUlNzelkxbExsanVQbk96OHVOQXJuNFNiMkZvUGgxN2p2cGRJV1NQU05LYlVqNkFBNlBVRmsvTCtRNUpXSDZhUGFpUlNDQlB6K3hZeWRVWXpidms5QTkwanNwckNoMDE4SU1ucWJhOEw1Y0UzeFE2SXc4blU3ZkhvYnFlK29CNmNncTFXcmNjOWhpVzJ4TG50Q0hEWHZha2w0RTlETmUvckpQbElRb3NNUUppRmNadmQrdUs4a0s3bTdjMks3NUg2UkowQU51bnNHQm9mZWI3NHJ3MmsvKzlLR2ZtMUVjTjYvV0poSkFoSEJJUlRtK2RxQ3ZxWXc5eTg3Y0tzQWFKMnRpSlVibkg0d1VYdHV0Um9KZU9NMm4rQlNvSzNwWnZvYk5qU3UvNmR6M1ZkQktKL2Q4a3YyMTBWNERKS2NCMUR1K1NvZkxnUzk0RVJEb2dUK1pkMmlXZjg3SzM2Y2V6Y2lHbHZtWDZ4cjV5VG5KMmlHeHJNOXJsL0FVZGQ2c0VyaG9yS2ZqR2UwNWJvWU9hQUZvMG1pNk9ScG0xYzhaNjg4SFNMeC82UHoyazlVNFkrM0xBd1JaczlhZytyL1NKdVdtQVhNMlZzdHRkMjRIYll2dEwzTVVQWmFURGNWOC9BPT0="></span>
+                    <span style="display: none" class="placeholder" data-id="ACCLINKS" data-name="account.links" data-info="MDoyOmIxOGFlZTBmZjQ5YzExZjQ6YUU1ZDNGbVc0VnFBOWpKSDErNGRPVEZXNEhnVnVJUFlNRUVqaUh6cDd5WkxBVENBb0dmSXJxcE9iSDAwSUdFSHZWcUhjVmZIY3FjdzFlNzhHaDFaT0NZdDF4MjExTXMyVC9NVHI2cnNXL1NFeTlyUkt4WW5DVFlnZE9vbFZGMmMrcXhpWUFqc3ZGNWxPdXVZWGJRYUkyaFVmSitIdDhSdHpwRDJoVWhxMlcwQ2l6ZWRGWkd6Y1JrRzVkT3pVOEZiTGFwMkF6b3RLRWs4N3VyTnRFeC9YQjdwT1oxMnBjTHlBS0VLK1FYMUFsTUlycWJHeG9BdERJOTZnRlNXbTNDd1V1VzIyQWE3VkZzQXV0Y0NrQlBCL2NWK3M2YUxldk5FY1hJTlBJUytzVk44bml4WXNoa2dyQkJvUXdKN1VnU0N2Q0ZWVWtkUHA5QW11QWYyenhmQnFWeTlVLzQzTllNQjlld0FCRmJOYnBwcmI3ajJTbkFLZEFuanhzK2NCQ2U0WW9ZYXJXZ2ZMOVVxQ0NWMFVoeDFBOEc0YVlqZHEwZnpkNDlJdXlJeUFzOTIvWjk0bllpWXVOUnhWSEswWlk0cEVvV0NueCszMWc4bFV0bTd3UmJKdXVLcTM4V3dRWGVCdG1yQ3RKcWRlUWNQS2kyQ3cyaENiNW0ySG1FdmVEVExUTkNKSnNUQ3o5NnRURngwWk9wU3RubkpQSlRoczVkRVpTTkQ4TUkzZmh2WlpWeTQ3aW0rYUtueDVIVHFPdHFPODl6blhKZUJCbVFyUnkwa1psRGYxcjZidHkrMWdUdlJCTGljVzF0cVdsY3djdWZFOHQrdTJVRTFNSTNVNGFnYzdtSTZZMkg1ODhTNmVXb3Q1bm9BTk5nc2FTSEdQbnh0ZFhVSTludHhySXMvY0lreWlmUFYwOWJiT1BzTG1JQVN6TDZibko2MFVhZjRxSCt2bWdoU1NSSXBvRXRLQ0QwbGpRcjlncVBPaUhKelNQdEZvdGMvN0hjWjdKdkY5aUplTzlGNzZmcEtTdWM1c2JEMUc5WHdGNTU4cy9nY2tJdFdWMmpXTHV0Mjhkc3JLTjBIRG9HeDlwR1lCWVJOc0t4Uy9HSzg2TThhd1NRb1FLekxZWklWMlI4QmhaUll5UGMwd1E4MmJGZW1DVlhsVVNhK3NSTEJ3dHExNEpRZWY0MWcvRjFETHQ5b3RkMFQyVytIeWkvdmJacUxlY0RPK0pCSXE0Z0d3N0ErWVVwdmdXVHFaaElpbkR0aVZjU2dtbU1tYzN4RDRIallBSERpNkFsQW9VREk2aWMyRkNvNzNIRU9McC9QWGFLOUFCbUNReU9yMko3YkVJU0JEVXl2eXBrdHI4bkVBMXJmWDRUM2MrcTdUWTQvN2c9PQ=="></span>
 <!--CONTENT[ACCLINKS]-->
 <span></span><!--/CONTENT[ACCLINKS]-->
                 </div>
@@ -458,7 +448,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
         
     </div>
-    <div class="tabmenu">
+    <span style="display: none" class="placeholder" data-id="TOP_NAVIGATION" data-name="tabs.navigation" data-info="MDoyOjM1NDQxNDhmZmExNTE3MmQ6Z24rWXlxcGdIbkJMWDU0RStvbWo3amgyZ0dNN1VsY3M0TzMxUFpwaFo0ZVhFK2pIOWpiS0xxd25MTnZnTnVYUVptaTV3Z1VqMUFCSmxtZUU3NG94NkFHcWRDOHBzTlZWZm8zYk5oYWNYMGhXdnFxNDd1OFpMRmRydFQrdy9DL2cwbG5NS25GSkZvODFmYWpMUGJQMUlpejBYNXM5RHF1NTlwZFFnaWZPd1I2RG82VjF2THR1R1k3YUFZbWEwbXRTNmRjRTFhdVFxTTJwVjZhMTFSdWxBM2hnbFNDdVJmREFMamZqYUNJQTQ1TitOL0x5cjFnNkMrYUdrakVuOHM4Y0krcm4zZEN1OHk2SkRIMWpGUHBIS0xIMENXMUpkUGhEeHRSbmFxZUYxR1U9"></span>
+<!--CONTENT[TOP_NAVIGATION]-->
+<div class="tabmenu">
     <div class="inner">
         <ul class="tabs">
                                     <li class="tab  first bras">
@@ -470,45 +462,86 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <span>New Arrivals</span>
     </a>
 </span>
-<!--<div class="link">
-    <a href="">
-        <span></span>
-        <span></span>
-    </a>
-</div>-->
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.ca/new-arrivals/bras.html"><span>Bras</span></a></li><li><a href="http://www.lasenza.ca/new-arrivals/panties.html"><span>Panties</span></a></li><li><a href="http://www.lasenza.ca/new-arrivals/lingerie.html"><span>Lingerie</span></a></li><li><a href="http://www.lasenza.ca/new-arrivals/loungewear.html"><span>Lounge</span></a></li><li><a href="http://www.lasenza.ca/new-arrivals/accessories.html"><span>Beauty &amp; Accessories</span></a></li></ul></div></div>
+    <ul><li><a href="http://www.lasenza.ca/new-arrivals/bras.html"><span>Bras</span></a></li><li><a href="http://www.lasenza.ca/new-arrivals/panties.html"><span>Panties</span></a></li><li><a href="http://www.lasenza.ca/new-arrivals/lingerie.html"><span>Lingerie</span></a></li><li><a href="http://www.lasenza.ca/new-arrivals/loungewear.html"><span>Lounge</span></a></li><li><a href="http://www.lasenza.ca/new-arrivals/accessories.html"><span>Beauty &amp; Accessories</span></a></li></ul></div>
+<div class="link">
+    <a href="http://www.lasenza.ca/new-arrivals.html">
+        <span>View All</span>
+    </a>
+</div>
+</div>
 <div class="cms-content">
 <span class="title">
     <a href="http://www.lasenza.ca/collections.html">
-        <span>New Collections</span>
+        <span>#TRENDINGNOW</span>
     </a>
 </span>
-<!--<div class="link">
-    <a href="">
-        <span></span>
-        <span></span>
-    </a>
-</div>-->
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.ca/collections/trend-alert-2.html"><span>Summer Steals - <span class="price">$15</span> and Up</span></a></li><li><a href="http://www.lasenza.ca/collections/trend-alert-5.html"><span>NEW! Street Sport</span></a></li><li><a href="http://www.lasenza.ca/collections/trend-alert-15.html"><span>Crushin on Camo</span></a></li><li><a href="http://www.lasenza.ca/collections/trend-alert-8.html"><span>Bra Tops</span></a></li><li><a href="http://www.lasenza.ca/collections/trend-alert-36.html"><span>Red Hot</span></a></li><li><a href="http://www.lasenza.ca/collections/trend-alert-7.html"><span>Sexy in Black</span></a></li><li><a href="http://www.lasenza.ca/collections/bridal.html"><span>Bridal Collection</span></a></li><li><a href="http://www.lasenza.ca/collections/sexy-costumes.html"><span>Sexy Costumes</span></a></li></ul></div></div>
+    <ul><li><a href="http://www.lasenza.ca/collections/sexy-lingerie-collections-private-collection-21.html"><span>Online Exclusives - Private Collection</span></a></li><li><a href="http://www.lasenza.ca/collections/trend-alert-36.html"><span>Sexy Bra &amp; Panty Sets</span></a></li><li><a href="http://www.lasenza.ca/collections/bridal.html"><span>White Hot</span></a></li><li><a href="http://www.lasenza.ca/collections/trend-alert-8.html"><span>Rosé All Day</span></a></li><li><a href="http://www.lasenza.ca/collections/trend-alert-2.html"><span>Lace It Up</span></a></li><li><a href="http://www.lasenza.ca/collections/trend-alert-4.html"><span>Sun Kissed Neutrals </span></a></li><li><a href="http://www.lasenza.ca/collections/sexy-back-bras.html"><span>Back in Black</span></a></li><li><a href="http://www.lasenza.ca/collections/trend-alert-3.html"><span>Sexy Weekend</span></a></li><li><a href="http://www.lasenza.ca/collections/new-24-sexy.html"><span>24SEXY</span></a></li><li><a href="http://www.lasenza.ca/collections/trend-alert-5.html"><span>Street Sport</span></a></li><li><a href="http://www.lasenza.ca/collections/sexy-costumes.html"><span>Sexy Costumes</span></a></li></ul></div>
+<div class="link">
+    <a href="http://www.lasenza.ca/collections.html">
+        <span>View All</span>
+    </a>
+</div>
+</div>
 <div class="cms-content">
 <span class="title">
     <a href="http://www.lasenza.ca/specials.html">
-        <span>Specials</span>
+        <span>Hot Deals</span>
     </a>
 </span>
-<!--<div class="link">
-    <a href="">
-        <span></span>
-        <span></span>
+<div class="cms-tab-content">
+    <ul><li><a href="http://www.lasenza.ca/specials/bra-specials-3.html"><span>Bras - Buy 1, Get 1 50% Off</span></a></li><li><a href="http://www.lasenza.ca/specials/bra-specials-1.html"><span>Bras - 2 for <span class="price">$40</span></span></a></li><li><a href="http://www.lasenza.ca/specials/bra-specials-4.html"><span>Remix Bras - 2 for <span class="price">$30</span></span></a></li><li><a href="http://www.lasenza.ca/specials/sexy-panty-deals-1.html"><span>Sexy Panties - Buy 2, Get 1 Free</span></a></li><li><a href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"><span>Mix and Match Panties - 5 for <span class="price">$27.95</span></span></a></li></ul></div>
+<div class="link">
+    <a href="http://www.lasenza.ca/specials.html">
+        <span>View All</span>
     </a>
-</div>-->
+</div>
+</div>
+<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="Bralettes $20! Shop Now!" href="http://www.lasenza.ca/bras/bralettes-bras.html"> <span>Bralettes $20! Shop Now!</span></a></span>
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.ca/specials/bra-specials-3.html"><span>Bras - Buy 1 Get 1 50% Off</span></a></li><li><a href="http://www.lasenza.ca/specials/bra-specials-1.html"><span>Bras - 2 for <span class="price">$40</span></span></a></li><li><a href="http://www.lasenza.ca/specials/bra-specials-92.html"><span>Bras - 2 for <span class="price">$30</span></span></a></li><li><a href="http://www.lasenza.ca/specials/bra-specials-4.html"><span>Remix Bras - 2 for <span class="price">$20</span></span></a></li><li><a href="http://www.lasenza.ca/specials/sexy-panty-deals-1.html"><span>Sexy Panties - Buy 2 Get 2 Free 1</span></a></li><li><a href="http://www.lasenza.ca/specials/sexy-panty-deals-2.html"><span>Obsession Panties - 2 for <span class="price">$12</span></span></a></li><li><a href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"><span>Mix and Match Panties - 8 for <span class="price">$30.95</span></span></a></li><li><a href="http://www.lasenza.ca/specials/summer-steals-20-and-under.html"><span>Summer Steals</span></a></li></ul></div></div>
-<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"> <span>Panties 8 for $30.95</span> </a></span>
+<p><a title="Bralettes $20! Shop Now!" href="http://www.lasenza.ca/bras/bralettes-bras.html" target="_self"> <img title="Bralettes $20! Shop Now!" src="/media/wysiwyg/2017/summer/05-18-deepv/dd/dd-bras-20each-en2.jpg" alt="Bralettes $20! Shop Now!"></a></p>
+</div>
+</div>
+<!--<div><span class="title"><a title="40% off bras! Use code: BRA40" href="http://www.lasenza.ca/bras.html"><span>40% off bras! Use code: BRA40</span></a></span>
 <div class="cms-tab-content">
-<p><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html" target="_self"><img title="Remix Cotton Panties - Shop Now!" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-8for30-en.jpg" alt="Remix Cotton Panties - Shop Now!"></a></p>
+<p><a title="40% off bras! Use code: BRA40" href="http://www.lasenza.ca/bras.html" target="_self"> <img title="40% off bras! Use code: BRA40" src="/media/wysiwyg/2017/summer/05-24-40offbras/dd-bras40-en.jpg" alt="40% off bras! Use code: BRA40" /></a></p>
+</div>
+</div>
+<div><span class="title"><a title="Shop the Deep V Collection!" href="http://www.lasenza.ca/bras/bralettes-bras.html"><span>Shop the Deep V Collection!</span></a></span>
+<div class="cms-tab-content">
+<p><a title="Shop the Deep V Collection!" href="http://www.lasenza.ca/bras/bralettes-bras.html" target="_self"> <img title="Shop the Deep V Collection!" src="/media/wysiwyg/2017/summer/05-18-deepv/dd/dd-bras-gen-en.jpg" alt="Shop the Deep V Collection!" /></a></p>
+</div>
+</div>--></div>
+</div></div>
+                </div>
+                            </li>
+                                    <li class="tab ">
+                <a href="http://www.lasenza.ca/specials.html"><span class="tab-title">Hot Deals</span></a>
+                                <div style="display: none;" class="tab-content ">
+                    <div><div class="cms-content">
+<span class="title">
+    <a href="http://www.lasenza.ca/specials.html">
+        <span>Hot Deals</span>
+    </a>
+</span>
+<div class="cms-tab-content">
+    <ul><li><a href="http://www.lasenza.ca/specials/bra-specials-3.html"><span>Bras - Buy 1, Get 1 50% Off</span></a></li><li><a href="http://www.lasenza.ca/specials/bra-specials-1.html"><span>Bras - 2 for <span class="price">$40</span></span></a></li><li><a href="http://www.lasenza.ca/specials/bra-specials-4.html"><span>Remix Bras - 2 for <span class="price">$30</span></span></a></li><li><a href="http://www.lasenza.ca/specials/sexy-panty-deals-1.html"><span>Sexy Panties - Buy 2, Get 1 Free</span></a></li><li><a href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"><span>Mix and Match Panties - 5 for <span class="price">$27.95</span></span></a></li></ul></div>
+<div class="link">
+    <a href="http://www.lasenza.ca/specials.html">
+        <span>View All</span>
+    </a>
+</div>
+</div>
+<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Remix Bras 2 for $30!" href="http://www.lasenza.ca/specials/bra-specials-4.html"> <span>Remix Bras 2 for $30!</span> </a></span>
+<div class="cms-tab-content">
+<p><a title="Remix Bras 2 for $30!" href="http://www.lasenza.ca/specials/bra-specials-4.html" target="_self"><img title="Remix Bras 2 for $30!" src="/media/wysiwyg/2017/summer/05-18-deepv/dd/dd-remixbras-2for30-en.jpg" alt="Remix Bras 2 for $30!"></a></p>
+</div>
+</div></div>
+</div>
+<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="Semi Annual Clearance Sale! Up to 50% off!" href="http://www.lasenza.ca/sale-clearance-specials.html"> <span>Semi Annual Clearance Sale! Up to 50% off!</span></a></span>
+<div class="cms-tab-content">
+<p><a title="Semi Annual Clearance Sale! Up to 50% off!" href="http://www.lasenza.ca/sale-clearance-specials.html" target="_self"> <img title="Semi Annual Clearance Sale! Up to 50% off!" src="/media/wysiwyg/2017/summer/06-02-sas/dd/dd-sas-upto50-en.jpg" alt="Semi Annual Clearance Sale! Up to 50% off!"></a></p>
 </div>
 </div></div>
 </div></div>
@@ -523,41 +556,50 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <span>Bra Styles</span>
     </a>
 </span>
-<!--<div class="link">
-    <a href="">
-        <span></span>
-        <span></span>
-    </a>
-</div>-->
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.ca/bras/push-up-bras.html"><span>Push Up</span></a></li><li><a href="http://www.lasenza.ca/bras/lightly-lined-and-unlined-bras.html"><span>Lightly Lined &amp; Unlined</span></a></li><li><a href="http://www.lasenza.ca/bras/strapless-multi-way-bras.html"><span>Strapless &amp; Multi-Way</span></a></li><li><a href="http://www.lasenza.ca/bras/full-coverage-bras.html"><span>Full Coverage</span></a></li><li><a href="http://www.lasenza.ca/bras/balconnet-bras.html"><span>Balconnet</span></a></li><li><a href="http://www.lasenza.ca/bras/demi-bras.html"><span>Demi</span></a></li><li><a href="http://www.lasenza.ca/bras/front-close-bras.html"><span>Front-Close</span></a></li><li><a href="http://www.lasenza.ca/bras/racerback-bras.html"><span>Racerback</span></a></li><li><a href="http://www.lasenza.ca/bras/bustiers-bras.html"><span>Bralettes &amp; Crop Bustiers</span></a></li><li><a href="http://www.lasenza.ca/bras/backless-bras-and-bra-accessories.html"><span>Backless &amp; Bra Accessories</span></a></li><li><a href="http://www.lasenza.ca/bras/sport-bras.html"><span>Sport Bras</span></a></li></ul></div></div>
+    <ul><li><a href="http://www.lasenza.ca/bras/push-up-bras.html"><span>Push Up</span></a></li><li><a href="http://www.lasenza.ca/bras/lightly-lined-and-unlined-bras.html"><span>Lightly Lined &amp; Unlined</span></a></li><li><a href="http://www.lasenza.ca/bras/bralettes-bras.html"><span>Bralettes &amp; No-Wire</span></a></li><li><a href="http://www.lasenza.ca/bras/full-coverage-bras.html"><span>Full Coverage</span></a></li><li><a href="http://www.lasenza.ca/bras/strapless-multi-way-bras.html"><span>Strapless &amp; Multi-Way</span></a></li><li><a href="http://www.lasenza.ca/bras/balconnet-bras.html"><span>Balconnet</span></a></li><li><a href="http://www.lasenza.ca/bras/demi-bras.html"><span>Demi</span></a></li><li><a href="http://www.lasenza.ca/bras/front-close-bras.html"><span>Front-Close</span></a></li><li><a href="http://www.lasenza.ca/bras/racerback-bras.html"><span>Racerback</span></a></li><li><a href="http://www.lasenza.ca/bras/backless-bras-and-bra-accessories.html"><span>Backless &amp; Bra Accessories</span></a></li><li><a href="http://www.lasenza.ca/bras/sport-bras.html"><span>Sport Bras</span></a></li></ul></div>
+<div class="link">
+    <a href="http://www.lasenza.ca/bras.html">
+        <span>View All</span>
+    </a>
+</div>
+</div>
 <div class="cms-content">
 <span class="title">
     <a href="http://www.lasenza.ca/bras/bra-collections.html">
         <span>Bra Collections</span>
     </a>
 </span>
-<!--<div class="link">
-    <a href="">
-        <span></span>
-        <span></span>
+<div class="cms-tab-content">
+    <ul><li><a href="http://www.lasenza.ca/bras/bra-collections/beyond-sexy.html"><span>Beyond Sexy</span></a></li><li><a href="http://www.lasenza.ca/bras/bra-collections/hello-sugar.html"><span>Hello Sugar</span></a></li><li><a href="http://www.lasenza.ca/bras/bra-collections/so-free.html"><span>So Free</span></a></li><li><a href="http://www.lasenza.ca/bras/bra-collections/obsession.html"><span>Obsession</span></a></li><li><a href="http://www.lasenza.ca/bras/bra-collections/body-kiss.html"><span>Body Kiss</span></a></li><li><a href="http://www.lasenza.ca/bras/bra-collections/sexy-tease.html"><span>Sexy Tease</span></a></li><li><a href="http://www.lasenza.ca/bras/bra-collections/my-customized.html"><span>My Customized</span></a></li><li><a href="http://www.lasenza.ca/bras/bra-collections/remix-cotton-bras.html"><span>Remix &amp; Cotton</span></a></li></ul></div>
+<div class="link">
+    <a href="http://www.lasenza.ca/bras/bra-collections.html">
+        <span>View All</span>
     </a>
-</div>-->
+</div>
+</div>
+<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Bralettes $20! Shop Now!" href="http://www.lasenza.ca/bras/bralettes-bras.html"> <span>Bralettes $20! Shop Now!</span></a></span>
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.ca/bras/bra-collections/beyond-sexy.html"><span>Beyond Sexy</span></a></li><li><a href="http://www.lasenza.ca/bras/bra-collections/hello-sugar.html"><span>Hello Sugar</span></a></li><li><a href="http://www.lasenza.ca/bras/bra-collections/so-free.html"><span>So Free</span></a></li><li><a href="http://www.lasenza.ca/bras/bra-collections/body-kiss.html"><span>Body Kiss</span></a></li><li><a href="http://www.lasenza.ca/bras/bra-collections/obsession.html"><span>Obsession</span></a></li><li><a href="http://www.lasenza.ca/bras/bra-collections/the-show-off.html"><span>The Show Off</span></a></li><li><a href="http://www.lasenza.ca/bras/bra-collections/sexy-tease.html"><span>Sexy Tease</span></a></li><li><a href="http://www.lasenza.ca/bras/bra-collections/my-customized.html"><span>My Customized</span></a></li><li><a href="http://www.lasenza.ca/bras/bra-collections/remix-cotton-bras.html"><span>Remix &amp; Cotton</span></a></li></ul></div></div>
-<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Shop Bras" href="http://www.lasenza.ca/bras.html"> <span>Bras $15 &amp; Up!</span></a></span>
+<p><a title="Bralettes $20! Shop Now!" href="http://www.lasenza.ca/bras/bralettes-bras.html" target="_self"> <img title="Bralettes $20! Shop Now!" src="/media/wysiwyg/2017/summer/05-18-deepv/dd/dd-bras-20each-en2.jpg" alt="Bralettes $20! Shop Now!"></a></p>
+</div>
+</div>
+<!--<div><span class="title"><a title="40% off bras! Use code: BRA40" href="http://www.lasenza.ca/bras.html"><span>40% off bras! Use code: BRA40</span></a></span>
 <div class="cms-tab-content">
-<p><a title="Shop Bras" href="http://www.lasenza.ca/bras.html" target="_self"> <img title="Shop Bras" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-bras-gen-15-en.jpg" alt="Shop Bras"></a></p>
+<p><a title="40% off bras! Use code: BRA40" href="http://www.lasenza.ca/bras.html" target="_self"> <img title="40% off bras! Use code: BRA40" src="/media/wysiwyg/2017/summer/05-24-40offbras/dd-bras40-en.jpg" alt="40% off bras! Use code: BRA40" /></a></p>
+</div>
+</div>
+<div><span class="title"><a title="Shop the Deep V Collection!" href="http://www.lasenza.ca/bras/bralettes-bras.html"><span>Shop the Deep V Collection!</span></a></span>
+<div class="cms-tab-content">
+<p><a title="Shop the Deep V Collection!" href="http://www.lasenza.ca/bras/bralettes-bras.html" target="_self"> <img title="Shop the Deep V Collection!" src="/media/wysiwyg/2017/summer/05-18-deepv/dd/dd-bras-gen-en.jpg" alt="Shop the Deep V Collection!" /></a></p>
+</div>
+</div>--></div>
+</div>
+<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="Shop Sexy Bra &amp; Panty Sets!" href="http://www.lasenza.ca/collections/trend-alert-36.html"> <span>Shop Sexy Bra &amp; Panty Sets!</span></a></span>
+<div class="cms-tab-content">
+<p><a title="Shop Sexy Bra &amp; Panty Sets!" href="http://www.lasenza.ca/collections/trend-alert-36.html" target="_self"> <img title="Shop Sexy Bra &amp; Panty Sets!" src="/media/wysiwyg/2017/summer/05-18-deepv/dd/dd-bras-sets-en.jpg" alt="Shop Sexy Bra &amp; Panty Sets!"></a></p>
 </div>
 </div></div>
-</div>
-<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"> <span>Panties 8 for $30.95</span> </a></span>
-<div class="cms-tab-content">
-<p><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html" target="_self"><img title="Remix Cotton Panties - Shop Now!" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-8for30-en.jpg" alt="Remix Cotton Panties - Shop Now!"></a></p>
-</div>
 </div></div>
-</div>
-</div>
                 </div>
                             </li>
                                     <li class="tab  panties">
@@ -569,42 +611,55 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <span>Panty Styles</span>
     </a>
 </span>
-<!--<div class="link">
-    <a href="">
-        <span></span>
-        <span></span>
-    </a>
-</div>-->
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.ca/panties/g-string-panties.html"><span>G-Strings</span></a></li><li><a href="http://www.lasenza.ca/panties/thong-panties.html"><span>Thongs</span></a></li><li><a href="http://www.lasenza.ca/panties/brazilian-and-cheeky-panties.html"><span>Brazilians &amp; Cheekies</span></a></li><li><a href="http://www.lasenza.ca/panties/hipster-panties.html"><span>Hipsters &amp; Hiphuggers</span></a></li><li><a href="http://www.lasenza.ca/panties/bikini-panties.html"><span>Bikinis</span></a></li><li><a href="http://www.lasenza.ca/panties/boyshort-panties.html"><span>Boyshorts</span></a></li><li><a href="http://www.lasenza.ca/panties/garters.html"><span>Garters</span></a></li></ul></div></div>
+    <ul><li><a href="http://www.lasenza.ca/panties/g-string-panties.html"><span>G-Strings</span></a></li><li><a href="http://www.lasenza.ca/panties/thong-panties.html"><span>Thongs</span></a></li><li><a href="http://www.lasenza.ca/panties/brazilian-and-cheeky-panties.html"><span>Brazilians &amp; Cheekies</span></a></li><li><a href="http://www.lasenza.ca/panties/hipster-panties.html"><span>Hipsters &amp; Hiphuggers</span></a></li><li><a href="http://www.lasenza.ca/panties/bikini-panties.html"><span>Bikinis</span></a></li><li><a href="http://www.lasenza.ca/panties/boyshort-panties.html"><span>Boyshorts</span></a></li><li><a href="http://www.lasenza.ca/panties/garters.html"><span>Garters</span></a></li></ul></div>
+<div class="link">
+    <a href="http://www.lasenza.ca/panties.html">
+        <span>View All</span>
+    </a>
+</div>
+</div>
 <div class="cms-content">
 <span class="title">
     <a href="http://www.lasenza.ca/panties/collections.html">
         <span>Panty Collections</span>
     </a>
 </span>
-<!--<div class="link">
-    <a href="">
-        <span></span>
-        <span></span>
+<div class="cms-tab-content">
+    <ul><li><a href="http://www.lasenza.ca/panties/collections/diva.html"><span>Diva</span></a></li><li><a href="http://www.lasenza.ca/panties/collections/scandalous-panty.html"><span>Scandalous</span></a></li><li><a href="http://www.lasenza.ca/panties/collections/sexy-pin-up.html"><span>Sexy Pin Up</span></a></li><li><a href="http://www.lasenza.ca/panties/collections/obsession.html"><span>Obsession</span></a></li><li><a href="http://www.lasenza.ca/panties/collections/invisible-and-no-show-panties.html"><span>Invisible &amp; No Show</span></a></li><li><a href="http://www.lasenza.ca/panties/collections/remix-cotton-ultra-soft-seamless-panties.html"><span>Cotton, Remix, Ultra Soft &amp; Seamless</span></a></li></ul></div>
+<div class="link">
+    <a href="http://www.lasenza.ca/panties/collections.html">
+        <span>View All</span>
     </a>
-</div>-->
-<div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.ca/panties/collections/diva.html"><span>Diva</span></a></li><li><a href="http://www.lasenza.ca/panties/collections/scandalous-panty.html"><span>Scandalous</span></a></li><li><a href="http://www.lasenza.ca/panties/collections/sexy-pin-up.html"><span>Sexy Pin Up</span></a></li><li><a href="http://www.lasenza.ca/panties/collections/obsession.html"><span>Obsession</span></a></li><li><a href="http://www.lasenza.ca/panties/collections/invisible-and-no-show-panties.html"><span>Invisible &amp; No Show</span></a></li><li><a href="http://www.lasenza.ca/panties/collections/beyond-sexy.html"><span>Beyond Sexy</span></a></li><li><a href="http://www.lasenza.ca/panties/collections/remix-cotton-ultra-soft-seamless-panties.html"><span>Cotton, Remix, Ultra Soft &amp; Seamless</span></a></li></ul></div></div>
-<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Sexy Panties | Shop Now" href="http://www.lasenza.ca/specials/sexy-panty-deals-1.html"><span>Sexy Panties</span> </a></span>
-<div class="cms-tab-content">
-<p><a title="Sexy Panties | Shop Now" href="http://www.lasenza.ca/specials/sexy-panty-deals-1.html" target="_self"><img title="Sexy Panties | Shop Now" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-b2g1-en.jpg" alt="Sexy Panties | Shop Now"></a></p>
 </div>
+</div>
+<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Sexy Panties Buy 2 Get 1 Free! Shop Now!" href="http://www.lasenza.ca/specials/sexy-panty-deals-1.html"><span>Sexy Panties!</span></a></span>
+<div class="cms-tab-content">
+<p><a title="Sexy Panties Buy 2 Get 1 Free! Shop Now!" href="http://www.lasenza.ca/specials/sexy-panty-deals-1.html" target="_self"><img title="Sexy Panties Buy 2 Get 1 Free! Shop Now!" src="/media/wysiwyg/2017/summer/05-18-deepv/dd/dd-b2g1-en.jpg" alt="Sexy Panties Buy 2 Get 1 Free! Shop Now!"></a></p>
+</div>
+</div>
+<!--<div><span class="title"><a title="Sexy Panties! Shop Now!" href="http://www.lasenza.ca/panties.html"><span>Sexy Panties!</span></a></span>
+<div class="cms-tab-content">
+<p><a title="Sexy Panties! Shop Now!" href="http://www.lasenza.ca/panties.html" target="_self"><img title="Sexy Panties! Shop Now!" src="/media/wysiwyg/2017/summer/05-18-deepv/dd/dd-sexypanties-gen-en.jpg" alt="Sexy Panties! Shop Now!" /></a></p>
+</div>
+</div>--></div>
+</div>
+<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="Panties 7 for $28.95! Shop Panties!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"> <span>Panties 5 for $27.95!</span></a></span>
+<div class="cms-tab-content">
+<p><a title="Panties 5 for $27.95!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html" target="_self"><img title="Panties 5 for $27.95!" src="/media/wysiwyg/2017/summer/05-18-deepv/dd/dd-5for27-en.jpg" alt="Panties 5 for $27.95! Shop Panties!"></a></p>
+</div>
+</div>
+<!--<div><span class="title"><a title="Shop mix &amp; match panties!" href="http://www.lasenza.ca/panties.html"> <span>Shop mix &amp; match panties!</span></a></span>
+<div class="cms-tab-content">
+<p><a title="Shop mix &amp; match panties!" href="http://www.lasenza.ca/panties.html" target="_self"><img title="Shop mix &amp; match panties!" src="/media/wysiwyg/2017/summer/05-18-deepv/dd/dd-trendypanties-gen-en.jpg" alt="Shop mix &amp; match panties!" /></a></p>
+</div>
+</div>
+<div><span class="title"><a title="THONG THURSDAY! $4 each! Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-3.html"> <span>Thong Thursday! $4 each!</span> </a></span>
+<div class="cms-tab-content">
+<p><a title="THONG THURSDAY! $4 each! Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-3.html" target="_self"><img title="THONG THURSDAY! $4 each! Shop Now!" src="/media/wysiwyg/2017/summer/04-27-thongthurs/dd-thongthurs-en.jpg" alt="THONG THURSDAY! $4 each! Shop Now!" /></a></p>
+</div>
+</div>--></div>
 </div></div>
-</div>
-<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"> <span>Panties 8 for $30.95</span> </a></span>
-<div class="cms-tab-content">
-<p><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html" target="_self"><img title="Remix Cotton Panties - Shop Now!" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-8for30-en.jpg" alt="Remix Cotton Panties - Shop Now!"></a></p>
-</div>
-</div></div>
-</div>
-
-</div>
                 </div>
                             </li>
                                     <li class="tab  sexy-lingerie">
@@ -616,33 +671,31 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <span>Lingerie Styles</span>
     </a>
 </span>
-<!--<div class="link">
-    <a href="">
-        <span></span>
-        <span></span>
+<div class="cms-tab-content">
+    <ul><li><a href="http://www.lasenza.ca/sexy-lingerie/body-suits.html"><span>Bodysuits</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/chemises.html"><span>Chemises</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/babydoll-lingerie.html"><span>Babydolls</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/merrywidow-lingerie.html"><span>Merrywidows</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/bustiers.html"><span>Bustiers &amp; Bras</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/garters.html"><span>Garters, Slips &amp; Panties</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/sexy-satin-kimonos.html"><span>Kimonos &amp; Robes</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/hosiery.html"><span>Hosiery</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/private-collection.html"><span>Online Exclusives - Private Collection</span></a></li></ul></div>
+<div class="link">
+    <a href="http://www.lasenza.ca/sexy-lingerie.html">
+        <span>View All</span>
     </a>
-</div>-->
-<div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.ca/sexy-lingerie/babydoll-lingerie.html"><span>Babydolls</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/merrywidow-lingerie.html"><span>Merrywidows</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/body-suits.html"><span>Bodysuits</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/bustiers.html"><span>Bustiers &amp; Bras</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/chemises.html"><span>Chemises</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/garters.html"><span>Garters, Slips &amp; Panties</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/sexy-satin-kimonos.html"><span>Kimonos &amp; Robes</span></a></li><li><a href="http://www.lasenza.ca/sexy-lingerie/hosiery.html"><span>Hosiery</span></a></li></ul></div></div>
-<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Shop New Sexy Lingerie" href="http://www.lasenza.ca/sexy-lingerie.html"> <span>Lingerie</span> </a></span>
-<div class="cms-tab-content">
-<p><a title="Shop New Sexy Lingerie" href="http://www.lasenza.ca/sexy-lingerie.html" target="_self"> <img title="Shop New Sexy Lingerie" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-lingerie-gen-en.jpg" alt="Shop New Sexy Lingerie"></a></p>
 </div>
 </div>
-<!--<div><span class="title"><a title="Shop New Sexy Lingerie" href="http://www.lasenza.ca/new-arrivals/lingerie.html"> <span>Shop Lingerie</span> </a></span>
+<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Shop Sexy Lingerie!" href="http://www.lasenza.ca/sexy-lingerie.html"> <span>Shop Sexy Lingerie!</span> </a></span>
 <div class="cms-tab-content">
-<p><a title="Shop New Sexy Lingerie" href="http://www.lasenza.ca/new-arrivals/lingerie.html" target="_self"> <img title="Shop New Sexy Lingerie" src="/media/wysiwyg/2016/spring/03-28-beyond-sexy/dd-lingerie-sp2016-en.jpg" alt="Shop New Sexy Lingerie" /></a></p>
-</div>
-</div>--></div>
-</div>
-<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="Sexy Panties | Shop Now" href="http://www.lasenza.ca/specials/sexy-panty-deals-1.html"><span>Sexy Panties</span> </a></span>
-<div class="cms-tab-content">
-<p><a title="Sexy Panties | Shop Now" href="http://www.lasenza.ca/specials/sexy-panty-deals-1.html" target="_self"><img title="Sexy Panties | Shop Now" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-b2g1-en.jpg" alt="Sexy Panties | Shop Now"></a></p>
+<p><a title="Shop Sexy Lingerie!" href="http://www.lasenza.ca/sexy-lingerie.html" target="_self"> <img title="Shop Sexy Lingerie!" src="/media/wysiwyg/2017/summer/05-18-deepv/dd/dd-lingerie-en2.jpg" alt="Shop Sexy Lingerie!"></a></p>
 </div>
 </div></div>
 </div>
-
+<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="The Semi Annual Clearance Sale! Lingerie up to 50% off!" href="http://www.lasenza.ca/sale-clearance-specials/clearance/sexy-lingerie.html"> <span>Lingerie up to 50% off!</span> </a></span>
+<div class="cms-tab-content">
+<p><a title="The Semi Annual Clearance Sale! Lingerie up to 50% off!" href="http://www.lasenza.ca/sale-clearance-specials/clearance/sexy-lingerie.html" target="_self"> <img title="The Semi Annual Clearance Sale! Lingerie up to 50% off!" src="/media/wysiwyg/2017/summer/06-02-sas/dd/dd-sas-lingerie50-en.jpg" alt="The Semi Annual Clearance Sale! Lingerie up to 50% off!"></a></p>
 </div>
+</div>
+<!--<div><span class="title"><a title="Online Exclusive! La Senza Private Collection! Shop Now!" href="http://www.lasenza.ca/sexy-lingerie/private-collection.html"> <span>ONLINE EXCLUSIVE!</span> </a></span>
+<div class="cms-tab-content">
+<p><a title="Online Exclusive! La Senza Private Collection! Shop Now!" href="http://www.lasenza.ca/sexy-lingerie/private-collection.html" target="_self"> <img title="Online Exclusive! La Senza Private Collection! Shop Now!" src="/media/wysiwyg/2017/summer/04-21-sofire/dd/dd-private-en.jpg" alt="Online Exclusive! La Senza Private Collection! Shop Now!" /></a></p>
+</div>
+</div>--></div>
+</div></div>
                 </div>
                             </li>
                                     <li class="tab  sleepwear">
@@ -654,47 +707,55 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <span>Lounge Styles</span>
     </a>
 </span>
-<!--<div class="link">
-    <a href="">
-        <span></span>
-        <span></span>
+<div class="cms-tab-content">
+    <ul><li><a href="http://www.lasenza.ca/sexy-lounge/sport-bras.html"><span>Sport Bras</span></a></li><li><a href="http://www.lasenza.ca/sexy-lounge/sleepshirts-and-chemises.html"><span>Sleepshirts &amp; Chemises</span></a></li><li><a href="http://www.lasenza.ca/sexy-lounge/rompers.html"><span>Rompers &amp; Onesies</span></a></li><li><a href="http://www.lasenza.ca/sexy-lounge/womens-tops.html"><span>Tees &amp; Tanks</span></a></li><li><a href="http://www.lasenza.ca/sexy-lounge/womens-leggings-pants-shorts.html"><span>Pants &amp; Shorts</span></a></li><li><a href="http://www.lasenza.ca/sexy-lounge/robes.html"><span>Robes &amp; Kimonos</span></a></li></ul></div>
+<div class="link">
+    <a href="http://www.lasenza.ca/sexy-lounge.html">
+        <span>View All</span>
     </a>
-</div>-->
-<div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.ca/sexy-lounge/sport-bras.html"><span>Sport Bras</span></a></li><li><a href="http://www.lasenza.ca/sexy-lounge/sleepshirts-and-chemises.html"><span>Sleepshirts &amp; Chemises</span></a></li><li><a href="http://www.lasenza.ca/sexy-lounge/womens-tops.html"><span>Tees &amp; Tanks</span></a></li><li><a href="http://www.lasenza.ca/sexy-lounge/womens-leggings-pants-shorts.html"><span>Pants &amp; Shorts</span></a></li><li><a href="http://www.lasenza.ca/sexy-lounge/robes.html"><span>Robes &amp; Kimonos</span></a></li></ul></div></div>
-<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Lounge new arrivals. Shop Now" href="http://www.lasenza.ca/new-arrivals/loungewear.html"> <span>New Arrivals</span></a></span>
-<div class="cms-tab-content">
-<p><a title="Lounge new arrivals. Shop Now" href="http://www.lasenza.ca/new-arrivals/loungewear.html" target="_self"><img title="Lounge new arrivals. Shop Now" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-lounge-50off-en.jpg" alt="Lounge new arrivals. Shop Now"></a></p>
 </div>
 </div>
-<!--<div><span class="title"><a title="Lounge new arrivals. Shop Now" href="http://www.lasenza.ca/new-arrivals/loungewear.html"> <span>New Arrivals</span></a></span>
+<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Shop Street Sport $14.95" href="http://www.lasenza.ca/collections/trend-alert-5.html"> <span>Shop Street Sport $14.95</span></a></span>
 <div class="cms-tab-content">
-<p><a title="Lounge new arrivals. Shop Now" href="http://www.lasenza.ca/new-arrivals/loungewear.html" target="_self"><img title="Lounge new arrivals. Shop Now" src="/media/wysiwyg/Generic/Leftnavs/dd_newarrivals_jan2015_en.jpg" alt="Lounge new arrivals. Shop Now" /></a></p>
+<p><a title="Shop Street Sport $14.95" href="http://www.lasenza.ca/collections/trend-alert-5.html" target="_self"><img title="Shop Street Sport $14.95" src="/media/wysiwyg/2017/spring/03-06-springsquad/dd/dd-streetsport-1495-en.jpg" alt="Shop Street Sport $14.95"></a></p>
 </div>
-</div>-->
-<p>&nbsp;</p>
-<!--<div><span class="title"><a title="Lounge new arrivals. Shop Now" href="http://www.lasenza.ca/sexy-lounge.html"> <span>Chemise $15</span></a></span>
+</div>
+<!--<div><span class="title"><a title="Shop Street Sport" href="http://www.lasenza.ca/collections/trend-alert-5.html"> <span>Shop Street Sport</span></a></span>
 <div class="cms-tab-content">
-<p><a title="Lounge new arrivals. Shop Now" href="http://www.lasenza.ca/sexy-lounge.html" target="_self"><img title="Lounge new arrivals. Shop Now" src="/media/wysiwyg/2016/summer/04-15-summersexy/dd-chemise-15-en.jpg" alt="Lounge new arrivals. Shop Now" /></a></p>
+<p><a title="Shop Street Sport" href="http://www.lasenza.ca/collections/trend-alert-5.html" target="_self"><img title="Shop Street Sport" src="/media/wysiwyg/2017/summer/05-18-deepv/dd/dd-sport-en.jpg" alt="Shop Street Sport" /></a></p>
 </div>
 </div>--></div>
 </div>
-<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"> <span>Panties 8 for $30.95</span> </a></span>
+<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Panties 7 for $28.95! Shop Panties!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"> <span>Panties 5 for $27.95!</span></a></span>
 <div class="cms-tab-content">
-<p><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html" target="_self"><img title="Remix Cotton Panties - Shop Now!" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-8for30-en.jpg" alt="Remix Cotton Panties - Shop Now!"></a></p>
+<p><a title="Panties 5 for $27.95!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html" target="_self"><img title="Panties 5 for $27.95!" src="/media/wysiwyg/2017/summer/05-18-deepv/dd/dd-5for27-en.jpg" alt="Panties 5 for $27.95! Shop Panties!"></a></p>
 </div>
-</div></div>
 </div>
-<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="SHOP STREET SPORT!" href="http://www.lasenza.ca/collections/trend-alert-5.html"> <span>SHOP STREET SPORT!</span> </a></span>
+<!--<div><span class="title"><a title="Shop mix &amp; match panties!" href="http://www.lasenza.ca/panties.html"> <span>Shop mix &amp; match panties!</span></a></span>
 <div class="cms-tab-content">
-<p><a title="SHOP STREET SPORT!" href="http://www.lasenza.ca/collections/trend-alert-5.html" target="_self"><img title="SHOP STREET SPORT!" src="/media/wysiwyg/2016/highsummer/08-15-sport/dd-street-sport-en.jpg" alt="SHOP STREET SPORT!"></a></p>
+<p><a title="Shop mix &amp; match panties!" href="http://www.lasenza.ca/panties.html" target="_self"><img title="Shop mix &amp; match panties!" src="/media/wysiwyg/2017/summer/05-18-deepv/dd/dd-trendypanties-gen-en.jpg" alt="Shop mix &amp; match panties!" /></a></p>
+</div>
+</div>
+<div><span class="title"><a title="THONG THURSDAY! $4 each! Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-3.html"> <span>Thong Thursday! $4 each!</span> </a></span>
+<div class="cms-tab-content">
+<p><a title="THONG THURSDAY! $4 each! Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-3.html" target="_self"><img title="THONG THURSDAY! $4 each! Shop Now!" src="/media/wysiwyg/2017/summer/04-27-thongthurs/dd-thongthurs-en.jpg" alt="THONG THURSDAY! $4 each! Shop Now!" /></a></p>
+</div>
+</div>--></div>
+</div>
+<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="The Semi Annual Clearance Sale! Lounge up to 50% off!" href="http://www.lasenza.ca/sale-clearance-specials/clearance/sexy-lounge.html"> <span>Lounge up to 50% off!</span> </a></span>
+<div class="cms-tab-content">
+<p><a title="The Semi Annual Clearance Sale! Lounge up to 50% off!" href="http://www.lasenza.ca/sale-clearance-specials/clearance/sexy-lounge.html" target="_self"> <img title="The Semi Annual Clearance Sale! Lingerie up to 50% off!" src="/media/wysiwyg/2017/summer/06-02-sas/dd/dd-sas-lounge50-en.jpg" alt="The Semi Annual Clearance Sale! Lounge up to 50% off!"></a></p>
 </div>
 </div></div>
-</div></div>
+</div>
+
+
+
+</div>
                 </div>
                             </li>
                                     <li class="tab  accessories">
-                <a href="http://www.lasenza.ca/beauty-and-accessories.html"><span class="tab-title">Beauty</span></a>
+                <a href="http://www.lasenza.ca/beauty-and-accessories.html"><span class="tab-title">Accessories</span></a>
                                 <div style="display: none;" class="tab-content ">
                     <div><div class="cms-content">
 <span class="title">
@@ -702,46 +763,56 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <span>Beauty &amp; Accessory Types</span>
     </a>
 </span>
-<!--<div class="link">
-    <a href="">
-        <span></span>
-        <span></span>
-    </a>
-</div>-->
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.ca/beauty-and-accessories/bra-accessories-and-backless-bras.html"><span>Bra Accessories &amp; Backless</span></a></li><li><a href="http://www.lasenza.ca/beauty-and-accessories/hosiery.html"><span>Hosiery</span></a></li><li><a href="http://www.lasenza.ca/beauty-and-accessories/naughty-accessories.html"><span>Naughty Accessories</span></a></li><li><a href="http://www.lasenza.ca/beauty-and-accessories/pasties.html"><span>Pasties</span></a></li><li><a href="http://www.lasenza.ca/beauty-and-accessories/lotions-body-washes.html"><span>Lotions &amp; Lip Gloss</span></a></li></ul></div></div>
-<div class="cms-content">
-<span class="title">
-    <a href="http://www.lasenza.ca/beauty-and-accessories/collections.html">
-        <span>Collections</span>
+    <ul><li><a href="http://www.lasenza.ca/beauty-and-accessories/bra-accessories-and-backless-bras.html"><span>Bra Accessories &amp; Backless</span></a></li><li><a href="http://www.lasenza.ca/beauty-and-accessories/hosiery.html"><span>Hosiery</span></a></li><li><a href="http://www.lasenza.ca/beauty-and-accessories/naughty-accessories.html"><span>Naughty Accessories</span></a></li><li><a href="http://www.lasenza.ca/beauty-and-accessories/pasties.html"><span>Pasties</span></a></li><li><a href="http://www.lasenza.ca/beauty-and-accessories/chokers.html"><span>Chokers</span></a></li><li><a href="http://www.lasenza.ca/beauty-and-accessories/lotions-body-washes.html"><span>Lotions &amp; Lip Gloss</span></a></li></ul></div>
+<div class="link">
+    <a href="http://www.lasenza.ca/beauty-and-accessories.html">
+        <span>View All</span>
     </a>
-</span>
-<!--<div class="link">
-    <a href="">
-        <span></span>
-        <span></span>
-    </a>
-</div>-->
+</div>
+</div>
+<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Panties 7 for $28.95! Shop Panties!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"> <span>Panties 5 for $27.95!</span></a></span>
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.ca/beauty-and-accessories/collections/dreamlegs.html"><span>Dreamlegs</span></a></li></ul></div></div>
+<p><a title="Panties 5 for $27.95!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html" target="_self"><img title="Panties 5 for $27.95!" src="/media/wysiwyg/2017/summer/05-18-deepv/dd/dd-5for27-en.jpg" alt="Panties 5 for $27.95! Shop Panties!"></a></p>
+</div>
+</div>
+<!--<div><span class="title"><a title="Shop mix &amp; match panties!" href="http://www.lasenza.ca/panties.html"> <span>Shop mix &amp; match panties!</span></a></span>
+<div class="cms-tab-content">
+<p><a title="Shop mix &amp; match panties!" href="http://www.lasenza.ca/panties.html" target="_self"><img title="Shop mix &amp; match panties!" src="/media/wysiwyg/2017/summer/05-18-deepv/dd/dd-trendypanties-gen-en.jpg" alt="Shop mix &amp; match panties!" /></a></p>
+</div>
+</div>
+<div><span class="title"><a title="THONG THURSDAY! $4 each! Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-3.html"> <span>Thong Thursday! $4 each!</span> </a></span>
+<div class="cms-tab-content">
+<p><a title="THONG THURSDAY! $4 each! Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-3.html" target="_self"><img title="THONG THURSDAY! $4 each! Shop Now!" src="/media/wysiwyg/2017/summer/04-27-thongthurs/dd-thongthurs-en.jpg" alt="THONG THURSDAY! $4 each! Shop Now!" /></a></p>
+</div>
+</div>--></div>
+</div>
 <div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="NEW LOTIONS - SHOP NOW" href="http://www.lasenza.ca/beauty-and-accessories/lotions-body-washes.html"> <span>NEW LOTIONS</span></a></span>
 <div class="cms-tab-content">
-<p><a title="NEW LOTIONS - SHOP NOW" href="http://www.lasenza.ca/body-lotion-11057030.html" target="_self"> <img title="NEW LOTIONS - SHOP NOW" src="/media/wysiwyg/2015/fall/10-5-bluebra/dd/dd-lotions-double-fa2015-en.jpg" alt="NEW LOTIONS - SHOP NOW"></a></p>
+<p><a title="NEW LOTIONS - SHOP NOW" href="http://www.lasenza.ca/beauty-and-accessories/lotions-body-washes.html" target="_self"> <img title="NEW LOTIONS - SHOP NOW" src="/media/wysiwyg/2017/spring/dd-beauty-en.jpg" alt="NEW LOTIONS - SHOP NOW"></a></p>
 </div>
 </div>
-<!--<div><span class="title"><a title="Beauty &amp; Accessories New Arrivals - Shop Now" href="http://www.lasenza.ca/beauty-and-accessories.html"> <span>Beauty &amp; Accessories New Arrivals - Shop Now</span></a></span>
+<!--<div><span class="title"><a title="Beauty &amp; Accessories New Arrivals - Shop Now" href="http://www.lasenza.ca/beauty-and-accessories.html"> <span>Beauty &amp; Accessories</span></a></span>
 <div class="cms-tab-content">
-<p><a title="Beauty Buy 2, Get 2 Free - Shop Now" href="http://www.lasenza.ca/beauty-and-accessories.html" target="_self"> <img title="Beauty Buy 2, Get 2 Free - Shop Now" src="/media/wysiwyg/Generic/Dropdowns/drop-generic-beautyAccess-en.jpg" alt="Beauty Buy 2, Get 2 Free - Shop Now" /></a></p>
+<p><a title="Beauty - Shop Now" href="http://www.lasenza.ca/beauty-and-accessories.html" target="_self"> <img title="Beauty &amp; Accessories New Arrivals - Shop Now" src="/media/wysiwyg/2017/summer/dd-beauty-en.jpg" alt="Beauty - Shop Now" /></a></p>
 </div>
-</div>-->
-<p>&nbsp;</p>
-<!--<div><span class="title"><a title="Beauty Buy 2, Get 1 Free - Shop Now" href="http://www.lasenza.ca/beauty-and-accessories/lotions-body-washes.html"> <span>Beauty</span></a></span>
+</div>
+<div><span class="title"><a title="NEW LOTIONS - SHOP NOW" href="http://www.lasenza.ca/beauty-and-accessories/lotions-body-washes.html"> <span>MINI LOTIONS</span></a></span>
+<div class="cms-tab-content">
+<p><a title="NEW LOTIONS - SHOP NOW" href="http://www.lasenza.ca/beauty-and-accessories/lotions-body-washes.html" target="_self"> <img title="NEW LOTIONS - SHOP NOW" src="/media/wysiwyg/2016/fall/10-12-beauty-minis/dd-beauty-2for5-fa2016-en.jpg" alt="NEW LOTIONS - SHOP NOW" /></a></p>
+</div>
+</div>
+<div><span class="title"><a title="Accessories up to 70% off!" href="http://www.lasenza.ca/sale-clearance-specials/clearance/accessories.html"> <span>Accessories up to 70% off!</span></a></span>
+<div class="cms-tab-content">
+<p><a title="Accessories up to 70% off!" href="http://www.lasenza.ca/sale-clearance-specials/clearance/accessories.html" target="_self"> <img title="Accessories up to 70% off!" src="/media/wysiwyg/2017/spring/1-6-sas/dd-sas-accessories70-en.jpg" alt="Accessories up to 70% off!" /></a></p>
+</div>
+</div>
+<div><span class="title"><a title="Beauty Buy 2, Get 1 Free - Shop Now" href="http://www.lasenza.ca/beauty-and-accessories/lotions-body-washes.html"> <span>Beauty</span></a></span>
 <div class="cms-tab-content">
 <p><a title="Beauty Buy 2, Get 1 Free - Shop Now" href="http://www.lasenza.ca/beauty-and-accessories/lotions-body-washes.html" target="_self"> <img title="Beauty Buy 2, Get 1 Free - Shop Now" src="/media/wysiwyg/2015/holiday/12-8-pastels/dropdowns/dd-beauty-b2g1-ho2015-en.jpg" alt="Beauty Buy 2, Get 1 Free - Shop Now" /></a></p>
 </div>
-</div>-->
-<p>&nbsp;</p>
-<!--<div><span class="title"><a title="Beauty Buy 2, Get 1 Free - Shop Now" href="http://www.lasenza.ca/specials/beauty-deals-2.html"> <span>Beauty</span></a></span>
+</div>
+<div><span class="title"><a title="Beauty Buy 2, Get 1 Free - Shop Now" href="http://www.lasenza.ca/specials/beauty-deals-2.html"> <span>Beauty</span></a></span>
 <div class="cms-tab-content">
 <p><a title="Beauty Buy 2, Get 1 Free - Shop Now" href="http://www.lasenza.ca/specials/beauty-deals-2.html" target="_self"> <img title="Beauty Buy 2, Get 1 Free - Shop Now" src="/media/wysiwyg/2014/Non-Seasonal/drop-beautyb2g1-en.jpg" alt="Beauty Buy 2, Get 1 Free - Shop Now" /></a></p>
 </div>
@@ -750,89 +821,99 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
                             </li>
                                     <li class="tab  gifts">
-                <a href="http://www.lasenza.ca/gifts.html"><span class="tab-title">Gifts</span></a>
+                <a href="http://www.lasenza.ca/gifts.html"><span class="tab-title">Bridal</span></a>
                                 <div style="display: none;" class="tab-content ">
                     <div><div class="cms-content">
 <span class="title">
     <a href="http://www.lasenza.ca/gifts.html">
-        <span>Gifts</span>
+        <span>Bridal</span>
     </a>
 </span>
-<!--<div class="link">
-    <a href="">
-        <span></span>
-        <span></span>
+<div class="cms-tab-content">
+    <ul><li><a href="http://www.lasenza.ca/gifts/bridal.html"><span>The Bridal Collection</span></a></li><li><a href="http://www.lasenza.ca/gifts/bachelorette-party.html"><span>Bachelorette Squad</span></a></li><li><a href="http://www.lasenza.ca/gifts/under-the-dress.html"><span>Under the Dress Must-Haves</span></a></li><li><a href="http://www.lasenza.ca/gifts/honeymoon.html"><span>Honeymoon</span></a></li><li><a href="http://www.lasenza.ca/gifts/for-guys-only.html"><span>For Guys Only</span></a></li><li><a href="http://www.lasenza.ca/gifts/sexy-accessories.html"><span>Sexy Accessories</span></a></li><li><a href="http://www.lasenza.ca/gifts/sexy-costumes.html"><span>Sexy Costumes</span></a></li><li><a href="http://www.lasenza.ca/gifts/gift-cards.html"><span>Gift Cards</span></a></li></ul></div>
+<div class="link">
+    <a href="http://www.lasenza.ca/gifts.html">
+        <span>View All</span>
     </a>
-</div>-->
-<div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.ca/gifts/gifts-under-60.html"><span>Gifts Under <span class="price">$60</span></span></a></li><li><a href="http://www.lasenza.ca/gifts/gifts-under-40.html"><span>Gifts Under <span class="price">$40</span></span></a></li><li><a href="http://www.lasenza.ca/gifts/gifts-under-25.html"><span>Gifts Under <span class="price">$25</span></span></a></li><li><a href="http://www.lasenza.ca/gifts/gift-cards.html"><span>Gift Cards</span></a></li><li><a href="http://www.lasenza.ca/gifts/sexy-accessories.html"><span>Sexy Accessories</span></a></li><li><a href="http://www.lasenza.ca/gifts/sexy-costumes.html"><span>Sexy Costumes</span></a></li><li><a href="http://www.lasenza.ca/gifts/bridal-collection.html"><span>Bridal Collection</span></a></li></ul></div></div>
-<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Shop New Sexy Lingerie" href="http://www.lasenza.ca/sexy-lingerie.html"> <span>Lingerie</span> </a></span>
-<div class="cms-tab-content">
-<p><a title="Shop New Sexy Lingerie" href="http://www.lasenza.ca/sexy-lingerie.html" target="_self"> <img title="Shop New Sexy Lingerie" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-lingerie-gen-en.jpg" alt="Shop New Sexy Lingerie"></a></p>
 </div>
 </div>
-<!--<div><span class="title"><a title="Shop New Sexy Lingerie" href="http://www.lasenza.ca/new-arrivals/lingerie.html"> <span>Shop Lingerie</span> </a></span>
+<!-- <div class="cms-content"><span class="title"><a href="http://www.lasenza.ca/giftsexy"><span>The Gift Guide</span></a></span>
 <div class="cms-tab-content">
-<p><a title="Shop New Sexy Lingerie" href="http://www.lasenza.ca/new-arrivals/lingerie.html" target="_self"> <img title="Shop New Sexy Lingerie" src="/media/wysiwyg/2016/spring/03-28-beyond-sexy/dd-lingerie-sp2016-en.jpg" alt="Shop New Sexy Lingerie" /></a></p>
+<ul>
+<li><a href="http://www.lasenza.ca/gifts/the-gift-guide-10/for-guys-only.html"><span>For Guys Only</span></a></li>
+<li><a href="http://www.lasenza.ca/gifts/the-gift-guide-10/for-you.html"><span>For You</span></a></li>
+<li><a href="http://www.lasenza.ca/gifts/the-gift-guide-10/such-a-flirt.html"><span>Such a Flirt</span></a></li>
+<li><a href="http://www.lasenza.ca/gifts/the-gift-guide-10/pretty-hot.html"><span>Pretty Hot</span></a></li>
+<li><a href="http://www.lasenza.ca/gifts/the-gift-guide-10/naughty-one.html"><span>You're a Naughty One</span></a></li>
+</ul>
+</div>
+</div> -->
+<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Shop Sexy Solutions!" href="http://www.lasenza.ca/beauty-and-accessories/bra-accessories-and-backless-bras.html"> <span>Shop Sexy Solutions!</span> </a></span>
+<div class="cms-tab-content">
+<p><a title="Shop Sexy Solutions!" href="http://www.lasenza.ca/beauty-and-accessories/bra-accessories-and-backless-bras.html" target="_self"> <img title="Shop Sexy Solutions!" src="/media/wysiwyg/2017/summer/05-18-deepv/dd/dd-bra-accessories-en.jpg" alt="Shop Sexy Solutions!"></a></p>
+</div>
+</div></div>
+</div>
+<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="The Bride Squad! Shop Now!" href="http://www.lasenza.ca/gifts.html"> <span>The Bride Squad!</span></a></span>
+<div class="cms-tab-content">
+<p><a title="The Bride Squad! Shop Now!" href="http://www.lasenza.ca/gifts.html" target="_self"><img title="The Bride Squad! Shop Now!" src="/media/wysiwyg/2017/summer/03-24-ombre/dd/dd-bridal-en.jpg" alt="The Bride Squad! Shop Now!"></a></p>
+</div>
+</div>
+<!--<div><span class="title"><a title="The Sexy Sale! Lingerie up to 60% off! Shop Bras!" href="http://www.lasenza.ca/sale-clearance-specials/clearance/sexy-lingerie.html"> <span>Lingerie up to 60% off!</span></a></span>
+<div class="cms-tab-content">
+<p><a title="The Sexy Sale! Lingerie up to 60% off! Shop Bras!" href="http://www.lasenza.ca/sale-clearance-specials/clearance/sexy-lingerie.html" target="_self"><img title="The Sexy Sale! Lingerie up to 60% off! Shop Bras!" src="/media/wysiwyg/2017/summer/03-24-ombre/dd/dd-sale-lingerie-upto60off-en.jpg" alt="The Sexy Sale! Lingerie up to 60% off! Shop Bras!" /></a></p>
 </div>
 </div>--></div>
 </div>
-<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Sexy Panties | Shop Now" href="http://www.lasenza.ca/specials/sexy-panty-deals-1.html"><span>Sexy Panties</span> </a></span>
+<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="Shop Sexy Lingerie!" href="http://www.lasenza.ca/sexy-lingerie.html"> <span>Shop Sexy Lingerie!</span> </a></span>
 <div class="cms-tab-content">
-<p><a title="Sexy Panties | Shop Now" href="http://www.lasenza.ca/specials/sexy-panty-deals-1.html" target="_self"><img title="Sexy Panties | Shop Now" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-b2g1-en.jpg" alt="Sexy Panties | Shop Now"></a></p>
+<p><a title="Shop Sexy Lingerie!" href="http://www.lasenza.ca/sexy-lingerie.html" target="_self"> <img title="Shop Sexy Lingerie!" src="/media/wysiwyg/2017/summer/05-18-deepv/dd/dd-lingerie-en2.jpg" alt="Shop Sexy Lingerie!"></a></p>
 </div>
 </div></div>
 </div>
-<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"> <span>Panties 8 for $30.95</span> </a></span>
-<div class="cms-tab-content">
-<p><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html" target="_self"><img title="Remix Cotton Panties - Shop Now!" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-8for30-en.jpg" alt="Remix Cotton Panties - Shop Now!"></a></p>
+
 </div>
-</div></div>
-</div></div>
                 </div>
                             </li>
                                     <li class="tab  last sale">
-                <a href="http://www.lasenza.ca/sale-clearance-specials.html"><span class="tab-title">Specials &amp; Clearance</span></a>
+                <a href="http://www.lasenza.ca/sale-clearance-specials.html"><span class="tab-title">Semi Annual Sale</span></a>
                                 <div style="display: none;" class="tab-content ">
                     <div><div class="cms-content">
 <span class="title">
     <a href="http://www.lasenza.ca/sale-clearance-specials/clearance.html">
-        <span>Clearance</span>
+        <span>Semi Annual Sale</span>
     </a>
 </span>
-<!--<div class="link">
-    <a href="">
-        <span></span>
-        <span></span>
-    </a>
-</div>-->
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.ca/sale-clearance-specials/clearance/bras.html"><span>Bras</span></a></li><li><a href="http://www.lasenza.ca/sale-clearance-specials/clearance/panties.html"><span>Panties</span></a></li><li><a href="http://www.lasenza.ca/sale-clearance-specials/clearance/sexy-lingerie.html"><span>Lingerie</span></a></li><li><a href="http://www.lasenza.ca/sale-clearance-specials/clearance/sexy-lounge.html"><span>Lounge</span></a></li><li><a href="http://www.lasenza.ca/sale-clearance-specials/clearance/accessories.html"><span>Beauty &amp; Accessories</span></a></li></ul></div></div>
-<div class="cms-content">
-<span class="title">
-    <a href="http://www.lasenza.ca/specials.html">
-        <span>Specials</span>
+    <ul><li><a href="http://www.lasenza.ca/sale-clearance-specials/clearance/bras.html"><span>Bras</span></a></li><li><a href="http://www.lasenza.ca/sale-clearance-specials/clearance/panties.html"><span>Panties</span></a></li><li><a href="http://www.lasenza.ca/sale-clearance-specials/clearance/sexy-lingerie.html"><span>Lingerie</span></a></li><li><a href="http://www.lasenza.ca/sale-clearance-specials/clearance/sexy-lounge.html"><span>Lounge</span></a></li><li><a href="http://www.lasenza.ca/sale-clearance-specials/clearance/accessories.html"><span>Beauty &amp; Accessories</span></a></li></ul></div>
+<div class="link">
+    <a href="http://www.lasenza.ca/sale-clearance-specials/clearance.html">
+        <span>View All</span>
     </a>
-</span>
-<!--<div class="link">
-    <a href="">
-        <span></span>
-        <span></span>
-    </a>
-</div>-->
+</div>
+</div>
+<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Semi Annual Clearance Sale | Bras $8.99 and up" href="http://www.lasenza.ca/sale-clearance-specials/clearance/bras.html"> <span>Bras $8.99 &amp; UP</span> </a></span>
 <div class="cms-tab-content">
-    <ul><li><a href="http://www.lasenza.ca/specials/bra-specials-3.html"><span>Bras - Buy 1 Get 1 50% Off</span></a></li><li><a href="http://www.lasenza.ca/specials/bra-specials-1.html"><span>Bras - 2 for <span class="price">$40</span></span></a></li><li><a href="http://www.lasenza.ca/specials/bra-specials-92.html"><span>Bras - 2 for <span class="price">$30</span></span></a></li><li><a href="http://www.lasenza.ca/specials/bra-specials-4.html"><span>Remix Bras - 2 for <span class="price">$20</span></span></a></li><li><a href="http://www.lasenza.ca/specials/sexy-panty-deals-1.html"><span>Sexy Panties - Buy 2 Get 2 Free 1</span></a></li><li><a href="http://www.lasenza.ca/specials/sexy-panty-deals-2.html"><span>Obsession Panties - 2 for <span class="price">$12</span></span></a></li><li><a href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"><span>Mix and Match Panties - 8 for <span class="price">$30.95</span></span></a></li><li><a href="http://www.lasenza.ca/specials/summer-steals-20-and-under.html"><span>Summer Steals</span></a></li></ul></div></div>
-<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Shop Bras" href="http://www.lasenza.ca/bras.html"> <span>Bras $15 &amp; Up!</span></a></span>
-<div class="cms-tab-content">
-<p><a title="Shop Bras" href="http://www.lasenza.ca/bras.html" target="_self"> <img title="Shop Bras" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-bras-gen-15-en.jpg" alt="Shop Bras"></a></p>
+<p><a title="Semi Annual Clearance Sale | Bras $8.99 and up" href="http://www.lasenza.ca/sale-clearance-specials/clearance/bras.html" target="_self"> <img title="Semi Annual Clearance Sale | Bras $8.99 and up!" src="/media/wysiwyg/2017/summer/06-02-sas/dd/dd-sas-bras899-en.jpg" alt="Semi Annual Sale | Bras $6.99 and up"></a></p>
 </div>
 </div></div>
 </div>
-<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html"> <span>Panties 8 for $30.95</span> </a></span>
+<div class="cms-content"><div class="widget widget-static-block"><div><span class="title"><a title="Panties 8 for $30! Shop Now!" href="http://www.lasenza.ca/sale-clearance-specials/clearance/panties.html"> <span>Panties 8 for $30</span></a></span>
 <div class="cms-tab-content">
-<p><a title="Remix Cotton Panties - Shop Now!" href="http://www.lasenza.ca/specials/trendy-panty-deals-1.html" target="_self"><img title="Remix Cotton Panties - Shop Now!" src="/media/wysiwyg/2016/highsummer/08-01-obsession/dd/dd-8for30-en.jpg" alt="Remix Cotton Panties - Shop Now!"></a></p>
+<p><a title="Panties 8 for $30! Shop Now!" href="http://www.lasenza.ca/sale-clearance-specials/clearance/panties.html" target="_self"> <img title="Panties 8 for $30! Shop Now!" src="/media/wysiwyg/2017/summer/06-02-sas/dd/dd-sas-8for30-en.jpg" alt="Panties 8 for $30! Shop Now!"></a></p>
 </div>
 </div></div>
+</div>
+<div class="cms-content last"><div class="widget widget-static-block"><div><span class="title"><a title="The Semi Annual Clearance Sale! Lingerie up to 50% off!" href="http://www.lasenza.ca/sale-clearance-specials/clearance/sexy-lingerie.html"> <span>Lingerie up to 50% off!</span> </a></span>
+<div class="cms-tab-content">
+<p><a title="The Semi Annual Clearance Sale! Lingerie up to 50% off!" href="http://www.lasenza.ca/sale-clearance-specials/clearance/sexy-lingerie.html" target="_self"> <img title="The Semi Annual Clearance Sale! Lingerie up to 50% off!" src="/media/wysiwyg/2017/summer/06-02-sas/dd/dd-sas-lingerie50-en.jpg" alt="The Semi Annual Clearance Sale! Lingerie up to 50% off!"></a></p>
+</div>
+</div>
+<!--<div><span class="title"><a title="Online Exclusive! La Senza Private Collection! Shop Now!" href="http://www.lasenza.ca/sexy-lingerie/private-collection.html"> <span>ONLINE EXCLUSIVE!</span> </a></span>
+<div class="cms-tab-content">
+<p><a title="Online Exclusive! La Senza Private Collection! Shop Now!" href="http://www.lasenza.ca/sexy-lingerie/private-collection.html" target="_self"> <img title="Online Exclusive! La Senza Private Collection! Shop Now!" src="/media/wysiwyg/2017/summer/04-21-sofire/dd/dd-private-en.jpg" alt="Online Exclusive! La Senza Private Collection! Shop Now!" /></a></p>
+</div>
+</div>--></div>
 </div></div>
                 </div>
                             </li>
@@ -853,8 +934,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 
 
+<!--/CONTENT[TOP_NAVIGATION]-->
     </div>
-        <!--{PAGE_BREADCRUMBS_066791b4bcf125c277215c1b3d17f0e7}--><div class="breadcrumbs">
+        <div class="breadcrumbs">
     <ul>
                     <li class="home">
                             <a href="http://www.lasenza.ca/" title="Go to Home Page">Home</a>
@@ -864,12 +946,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             Privacy Policy | La Senza                                    </li>
             </ul>
 </div>
-<!--/{PAGE_BREADCRUMBS_066791b4bcf125c277215c1b3d17f0e7}-->        <div class="main col2-left-layout">
+        <div class="main col2-left-layout">
             <div class="col-main">
-                <span style="display: none" class="placeholder" data-id="GLOBAL_MESSAGES" data-name="global_messages" data-info="MDoyOjZlNmZlMmE0ODZkYWY1OGE6UkxKZURwM2lQbkdRVmlvbytXQXYyVmVrL25uYXZXemZ2LzRzQ1hoWVdBLzdJSmZ1czhhVWpJeDV5U2lmeFRIbVBkbzAwZS84Qjc4UzU2MG5lSXk5Z3c9PQ=="></span>
+                <span style="display: none" class="placeholder" data-id="GLOBAL_MESSAGES" data-name="global_messages" data-info="MDoyOjRkZWI0ZjhjOThhYTkyODg6N2Q1VnRkTjN0clorK2xHbE9CcnEvb0FzZ1RmZjUwQzR4RHRrZVBlaVZSeTVsRHdRUURjN0ZPVVRKeC9QanE4OW40YzJLUzN3dWlaTWVobGJ1Ti9Na2c9PQ=="></span>
 <!--CONTENT[GLOBAL_MESSAGES]-->
 <span></span><!--/CONTENT[GLOBAL_MESSAGES]-->
-                <div class="std"><span style="display: none" class="placeholder" data-id="MESSAGES" data-name="messages" data-info="MDoyOmI5OWI0NjYxZWM5MWYxYTc6K0ZwYUxEWUxrYzJQT0VaS0d0Y3ppU3lwS0dUamdSamZXVy9YeVVmZXl1WlZQTm8wa01QbU1IRFFIRnZJL2VEUFZuRjBGcjBUczhMVkZ2Ykg0SW8waEU3OGloT0ZzV2xRMnBmZmRwaE1KeGpjTU9KRVF0UkhxdS9WMUp0Y29NazdVK0RKNDBRY3cybENBZDF6L2ltY3g1TkJEUC9VRnE1YUxUaVVJeEVjWmkyVFRzV1NzVlJ2bTZlZlQrL2RpZUlXdlNjVUtpODFpdlNNdnMzRWNwR3lTdz09"></span>
+                <div class="std"><span style="display: none" class="placeholder" data-id="MESSAGES" data-name="messages" data-info="MDoyOjA4Mjg5ODlmOTIzODJhNDA6YzRETDgrOUMrVlhWTWZRQ2d6cWdrTnZuRzBPQ1BETE5XRTBQbkVwZFlDWGNWVWN2OHhIZUxTME9iNkF0dER0UWh0L0hCY1dtaHk1ZnhwSFlGWGdQcUg3endpeWJmTjh5WnQrQjQ3RjZUMEdwb1QyaVh5YlkrWnJGZG1aNm9Ic2JjdVBESmRvRUhFa3dtMkFoMXI5SE56OG9UQ2FTcyttNTR1V09nWFNHSFNHUndvVHp1LzZVZGxpTjAwSjhZQVhZTEJ5ZHg1MTZ2bXJnSHFlaEpDUmNkZz09"></span>
 <!--CONTENT[MESSAGES]-->
 <span></span><!--/CONTENT[MESSAGES]-->
 <div class="lza-customer-service" style="text-align: left;">
@@ -965,10 +1047,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h2 id="answer10">When was this policy last updated?</h2>
 <p>If you’re concerned about how your personal information is used, please visit our site often for this and other important announcements about LaSenza.com.</p>
 <p>This Privacy Statement is effective October 14, 2014.</p>
-<h2>California Privacy Rights</h2>
-<p>La Senza collects various types of personal information about you during the course of our customer relationship, both online and offline. Under California law, if you are a resident of California, you may make a written request to us about how we have shared your information with third parties for their direct marketing purposes. In response to your written request, we may provide you with a notice describing the cost-free means to opt-out of our sharing of your information with third parties, if the third party will use it for their direct marketing purposes.</p>
-<p>If you would like to exercise your rights under California law, please send your written request to the email address or postal address below. Your written request must include your postal address so that we may provide you with our notice and third party direct marketing opt-out form. We will provide you with this form within thirty (30) days of receiving your written request.</p>
-<p>La Senza Corporation<br> Attn: Customer Service Department<br> 3 Limited Parkway, Columbus, OH 43230<br> 1 888 LA SENZA (1-888-527-3692)<br> E-mail: customercare@lasenza.com</p>
+
+<h2>Your California Privacy Rights</h2>
+<p>La Senza collects various types of personal information about you during the course of our customer relationship, both online and offline. Under California law, we provide you with a cost-free means to opt-out of our sharing of your information with third parties with whom we do not share the same brand name, if the third party will use it for their direct marketing purposes.</p>
+<p>If you would like to exercise your rights under California law, please send a written request for our Third-Party Direct Marketing Opt-out Form to the email address or postal address below. Your written request must include your postal address or email address so that we may provide you with our form.</p>
+<p>La Senza Corporation<br> Attn: Customer Service Department<br> 3 Limited Parkway, Columbus, OH 43230<br> 1-888-LASENZA (1-888-527-3692)<br> E-mail: <a href="mailto:customercare@lasenza.com">customercare@lasenza.com</a></p>
 </div></div>            </div>
             <div class="col-left sidebar"><div class="lza-col-left" style="padding: 18px 0 0 0;" width:="" 195px;"="">
 <h1>CUSTOMER SERVICE</h1>
@@ -1031,10 +1114,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
 
             <div class="three-column-block social">
-                <div class="footer-social-links title">Get Social</div>
+                <h3 class="footer-social-links title">Get Social</h3>
 <div align="center">
 <div style="width: 330px;">
-<div><a href="https://www.facebook.com/lasenza" target="_blank"><img style="float: left; margin: 15px 15px 15px 50px; align: center;" title="Facebook" src="/media/wysiwyg/Content/social/facebook.png" alt="Facebook"></a> <a href="https://instagram.com/lasenza/" target="_blank"><img style="float: left; margin: 15px 15px 15px 15px; align: middle;" title="Instagram" src="/media/wysiwyg/Content/social/instagram2016.png" alt="Instagram"></a> <a href="https://twitter.com/lasenza" target="_blank"><img style="float: left; margin: 15px 15px 15px 15px; align: center;" title="Twitter" src="/media/wysiwyg/Content/social/twitter.png" alt="Twitter"></a> <a href="https://www.pinterest.com/lasenza/" target="_blank"><img style="float: left; margin: 15px 15px 15px 15px; align: center;" title="Pinterest" src="/media/wysiwyg/Content/social/pinterest.png" alt="Pinterest"></a></div>
+<div><a href="https://www.facebook.com/lasenza" target="_blank"><img style="float: left; margin: 10px 10px 10px 30px; align: center;" title="Facebook" src="/media/wysiwyg/Content/social/facebook.png" alt="Facebook"></a> <a href="https://instagram.com/lasenza/" target="_blank"><img style="float: left; margin: 10px 10px 10px 10px; align: middle;" title="Instagram" src="/media/wysiwyg/Content/social/instagram2016.png" alt="Instagram"></a> <a href="https://twitter.com/lasenza" target="_blank"><img style="float: left; margin: 10px 10px 10px 10px; align: center;" title="Twitter" src="/media/wysiwyg/Content/social/twitter.png" alt="Twitter"></a> <a href="https://www.pinterest.com/lasenza/" target="_blank"><img style="float: left; margin: 10px 10px 10px 10px; align: center;" title="Pinterest" src="/media/wysiwyg/Content/social/pinterest.png" alt="Pinterest"></a> <a href="https://www.snapchat.com/add/lasenzalingerie" target="_blank"><img style="float: left; margin: 10px 10px 10px 10px; align: center;" title="Snapchat" src="/media/wysiwyg/Content/social/social-footer-2016-snapchat.png" alt="Snapchat"></a></div>
 </div>
 </div>            </div>
 
@@ -1043,7 +1126,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <form id="newsletter-validate-detail" action="https://www.lasenza.ca/newsletter/subscriber/new/" method="post">
 <div class="form-subscribe">
 <div class="form-subscribe-header">
-<div class="title">Get eMail</div>
+<h3 class="title">Get eMail</h3>
 <label style="font-size: 15px;" for="newsletter">Hot Offers In Your Inbox!</label></div>
 <div><span class="newsletter-bkg">&nbsp;</span>
 <div class="v-fix"><input id="newsletter" class="input-text required-entry validate-email" onclick="this.value=='Enter your email address'?this.value='':''" onblur="this.value==''?this.value='Enter your email address':''" type="text" name="email" value="Enter your email address"></div>
@@ -1064,18 +1147,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
         <div class="navigation-blocks">
             <div class="block" style="width: 16.66%;">
-<div class="title">Company info</div>
+<h3 class="title">Company info</h3>
 <ul>
 <li><a href="http://www.lasenza.ca/ustorelocator/location/map/">Store Locator</a></li>
 <li><a href="http://www.lasenza.ca/about-lasenza">About La Senza</a></li>
 <li><a href="http://investors.lb.com/" target="_blank">Investor Relations</a></li>
 <li><a href="http://www.lb.com/responsibility/our_responsibility.aspx" target="_blank">Social Responsibility</a></li>
-<li><a href="http://careers.lb.com/jobs/job-search-results/?categories=-1&amp;brands=51751&amp;country=-1&amp;state=-1&amp;city=-1&amp;distance=-1&amp;zipcode=US%20Zip%20Code&amp;shift=-1&amp;keyword=Keyword%20or%20Job%20ID" target="_blank">Job Opportunities</a></li>
+<li><a href="http://careers.lb.com/job-search-results/?brand=La%20Senza" target="_blank">Job Opportunities</a></li>
 <li><a href="http://www.lasenza.ca/giving-back">Giving Back</a></li>
 </ul>
 </div>
 <div class="block" style="width: 16.66%;">
-<div class="title">Customer Service</div>
+<h3 class="title">Customer Service</h3>
 <ul>
 <li><a href="http://www.lasenza.ca/customer-service/frequently-asked-questions">Frequently Asked Questions</a></li>
 <li><a href="http://www.lasenza.ca/contacts" rel="nofollow">Contact Us</a></li>
@@ -1086,7 +1169,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </ul>
 </div>
 <div class="block" style="width: 16.66%;">
-<div class="title">Size &amp; Fit Charts</div>
+<h3 class="title">Size &amp; Fit Charts</h3>
 <ul>
 <li><a href="http://www.lasenza.ca/customer-service/size-charts/size-chart-bras">Bras</a></li>
 <li><a href="http://www.lasenza.ca/customer-service/size-charts/size-chart-panties">Panties</a></li>
@@ -1096,7 +1179,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </ul>
 </div>
 <div class="block" style="width: 16.66%;">
-<div class="title">My Account</div>
+<h3 class="title">My Account</h3>
 <ul>
 <li><a href="http://www.lasenza.ca/customer/account/login/" rel="nofollow">Login or Create Account</a></li>
 <li><a href="http://www.lasenza.ca/sales/order/history/" rel="nofollow">Order Status</a></li>
@@ -1109,11 +1192,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="title">&nbsp;</div>
 &nbsp;</div>        </div>
     </div>
-    <address class="copyright">©2016 La Senza Corporation. All rights reserved.</address>
+    <address class="copyright">©2017 La Senza Corporation. All rights reserved.</address>
     <div class="footer-menu">
         <ul>
 <li><a href="http://www.lasenza.ca/terms-and-conditions" rel="nofollow">Terms &amp; Conditions</a></li>
-<li><a href="http://www.lasenza.ca/privacy-policy-cookie-restriction-mode" rel="nofollow">Privacy</a></li>
+<li><a href="http://www.lasenza.ca/privacy-policy-cookie-restriction-mode" rel="nofollow">Privacy Policy</a></li>
 <li><a href="http://www.lasenza.ca/catalog/seo_sitemap/category">Site Map</a></li>
 </ul>    </div>
     <div class="seo-block">
@@ -1122,7 +1205,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
 </div>
 
-        <!--{WISHLISTS_7d6ecd3c2aba52ef18415ee34a288b44}--><script type="text/javascript">
+        
+
+<script type="text/javascript">
 //<![CDATA[
 Enterprise.Wishlist.list = [
 ];
@@ -1133,10 +1218,10 @@ Enterprise.Wishlist.url.create = 'https://www.lasenza.ca/wishlist/index/createwi
 Enterprise.Wishlist.canCreate = false;
 //]]>
 </script>
-<!--/{WISHLISTS_7d6ecd3c2aba52ef18415ee34a288b44}--><script type="text/javascript">
+<script type="text/javascript">
     var varnishLoader = new Varnish.Loader(
         'http://www.lasenza.ca/varnish/ajax/load/uenc/aHR0cDovL3d3dy5sYXNlbnphLmNhL3ByaXZhY3ktcG9saWN5LWNvb2tpZS1yZXN0cmljdGlvbi1tb2Rl/',
-        'MDoyOjJkMjgxMjhjOTA2NjY2ODM6QTZFZ3B0S1JKUEh4Zis1QWJYZlJZQUt2YmM1emhncndGWnZxVklXOHJldndnN29LVzYxck80OGwwV1Q5ZDFIQVl6VVdnU0d5UllnQTRMbEYvemlPcnd3Z1d3ckp5WW02YjdKM3NydDhJdmxLMVJSak8yUTVpQ2l3SkU0YTQyOG9ZL3g3REwzWXJ6RjI2M1dYRXoyTHlqQ2tFZm05SlBxY0hRRTFkMmtTVk9VLzllNlFVSjR2WHVXWEJGTUwrWFY4d3k3Mk1tY2YxcjFqVFdwMDFLd3BWaFNhNHNRTzhIYVpvbi91NDVxVDB0UGFGMVVDaTNhSWJEaDVFN2NMWCtRTkxYZVR3ZDNWd05KRGp1emxOcXBpalE9PQ=='
+        'MDoyOjBhMzAwOWE4MGJkNzY3ODQ6M01RR3Vnem96bzF0aXcvc04vakF2K20rYUd6azRheFNyQjZGRThsaWMwVDN0bDZQbENwUE5zcEhacWlIeUdOY1ZYa1VKendpREUyZWoxMGNIaVlqb01CdElmRGxMK2tnMkZrUnhzOWwySll4Nmk1NDVGd2JyOGw0TmpVL1FTa0FuL1o0anVndzQ5L2lGYnh0UndNd3ZnRjc3U0xMcE5kY3VIWnFHM1pjOUpSZ0h2RG00QUtxbHg5SW5tU0t2Q1BkalRiWDZBUytCendUVmxWSEd6Z1BSa3prVGRiN3k4V2M5T3FaYU93QTJKb2hsWVpYbEJWMGNOaVVSWmRoODloTm50SUdUdlRNRTQxNnlHcWM3Mjh6TXc9PQ=='
     );
 
     document.observe('dom:loaded', function() {
@@ -1191,6 +1276,6 @@ Validation.addAllThese([
 </div>
     </div>
 </div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"596c0663a0","applicationID":"2147466","transactionName":"b1AHY0sCV0ZTAUxdXFYaJFRNClZbHQFVRxxIVAJSFhVQUEU=","queueTime":0,"applicationTime":948,"ttGuid":"","agentToken":"","atts":"QxcEFQMYREg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"596c0663a0","applicationID":"2147466","transactionName":"b1AHY0sCV0ZTAUxdXFYaMEVQTFBbVgdAGkNQRQ==","queueTime":0,"applicationTime":38,"atts":"QxcEFQMYREg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
