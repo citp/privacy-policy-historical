@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quetek.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120092559id_/http%3A//www.quetek.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quetek.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606070519id_/http%3A//www.quetek.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
-Protecting your private data is of utmost concern to us.  When you purchase our products with a credit card, the billing information is encrypted and securely forwarded to a highly respected online credit card processing agent. We do not retain the complete credit card number on any computer equipment. Our agents are [First Data](http://www.firstdata.com/fdis/) and [PayPal](http://merchant.paypal.com/), industry leaders in credit card processing for Internet businesses. 
+Protecting your private data is of utmost concern to us.  When you purchase our products with a credit card, the billing information is encrypted and securely forwarded to a highly respected online credit card processing agent. We do not retain the complete credit card number on any computer equipment. Our agents are [First Data](http://www.firstdata.com/fdis/) and [PayPal](https://www.paypal.com/), industry leaders in credit card processing for Internet businesses. 
 
 Effective Date: August 27, 2007
 
@@ -16,8 +16,8 @@ E-mail:  [help@quetek.com](mailto:help@quetek.com)
 
 | Surface mailing address: |     |  QueTek Consulting Corporation  
 Attention: Customer Service Team  
-2640 Fountain View Drive  
-Suite 213  
+5959 Westheimer Road  
+Suite 135  
 Houston, Texas 77057  
 USA   
 ---|---|---  
