@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3monkey.net privacy policy that was archived on 2016-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160210111455id_/http%3A//mp3monkey.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3monkey.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143710id_/http%3A//mp3monkey.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
