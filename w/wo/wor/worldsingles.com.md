@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldsingles.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027093931id_/http%3A//worldsingles.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsingles.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082909id_/http%3A//worldsingles.com/page/privacy) for the most accurate reproduction.*
 
 # WorldSingles.com
 
