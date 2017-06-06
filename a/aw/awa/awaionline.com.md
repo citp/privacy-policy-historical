@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awaionline.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514111012id_/http%3A//www.awaionline.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awaionline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606082027id_/http%3A//www.awaionline.com/about/privacy) for the most accurate reproduction.*
 
 # American Writers & Artists Inc. Privacy Statement
 
@@ -22,9 +22,9 @@ If at any time you wish to be removed from our mailing list, please [contact our
 
 ## Cookies
 
-American Writers & Artists, Inc. (AWAI) uses cookies, tracking pixels and related technologies. Our site uses cookies dropped by us or third parties (such as Facebook) for a variety of purposes including to operate and personalize the website. Also, cookies may be used to track how you use the site and to target ads to you on other websites.
+American Writers & Artists Inc. (AWAI) uses cookies, tracking pixels and related technologies. Our site uses cookies dropped by us or third parties (such as Facebook) for a variety of purposes including to operate and personalize the website. Also, cookies may be used to track how you use the site and to target ads to you on other websites.
 
-If you would like to opt-out of the collection and use of information for ad targeting, please visit: [www.aboutads.info/choices](http://www.aboutads.info/choices)).
+If you would like to opt-out of the collection and use of information for ad targeting, please visit: [www.aboutads.info/choices](http://www.aboutads.info/choices).
 
 ## Discussion Board
 
@@ -38,8 +38,8 @@ If you have any questions or comments you can reach us via our contact page or w
 
 ## Disclaimer
 
-American Writers & Artists Inc. Inc. does not act as personal career advisors or guarantee employment as a result of taking one of our programs. AWAI provides its members with information about improving their writing, design and photography skills. The executive staff and Board of Advisors who contribute to AWAI's programs are proud of the reputation AWAI has built since its inception in 1997. We believe the information presented to our members in our published resources and at our meetings and seminars is the best and most useful available to people interested in writing and graphic design today. The information presented in AWAI programs is for the exclusive use of AWAI members. Copying or disseminating any information published by AWAI, electronic or otherwise is strictly prohibited. Members should be aware that AWAI is not a school nor does it offer any degrees recognized by employers. Income results may vary.
+American Writers & Artists Inc. does not act as personal career advisors or guarantee employment as a result of taking one of our programs. AWAI provides its members with information about improving their writing, design and photography skills. The executive staff and Board of Advisors who contribute to AWAI's programs are proud of the reputation AWAI has built since its inception in 1997. We believe the information presented to our members in our published resources and at our meetings and seminars is the best and most useful available to people interested in writing and graphic design today. The information presented in AWAI programs is for the exclusive use of AWAI members. Copying or disseminating any information published by AWAI, electronic or otherwise is strictly prohibited. Members should be aware that AWAI is not a school nor does it offer any degrees recognized by employers. Income results may vary.
 
 **American Writers & Artists Inc.**  
-245 NE 4th Ave., Ste 102 • Delray Beach, FL 33483  
-Phone (561) 278-5557
+101 SE 6th Avenue, Suite A • Delray Beach, FL 33483  
+Phone: (561) 278-5557
