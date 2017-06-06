@@ -1,14 +1,17 @@
-> *The following text is extracted and transformed from the nsvrc.org privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128090102id_/http%3A//www.nsvrc.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsvrc.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175805id_/http%3A//www.nsvrc.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Sexual Violence Resource Center (NSVRC)
 
 This is the web site of National Sexual Violence Resource Center (NSVRC). The NSVRC is a project of the Pennsylvania Coalition Against Rape.
 
-Our postal address is   
-123 N. Enola Dr.  
-Enola, PA 17025
+Our postal address is
 
-We can be reached via e-mail at  [resources@nsvrc.org](mailto:resources@nsvrc.org)   
+2101 N. Front Street  
+Governor’s Plaza North, Bldg #2  
+Harrisburg, PA 17110  
+
+
+We can be reached via e-mail at  [resources@nsvrc.org](mailto:resources@nsvrc.org)  
 or you can reach us by telephone at 717-909-0710.
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name (if possible), but not the e-mail address .
