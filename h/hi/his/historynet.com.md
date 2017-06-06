@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historynet.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201182600id_/http%3A//www.historynet.com/historynet-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historynet.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606155430id_/http%3A//www.historynet.com/historynet-privacy-policy) for the most accurate reproduction.*
 
 # HistoryNet Privacy Policy | HistoryNet
 
@@ -141,7 +141,7 @@ We believe that choice in how and when you are contacted is key to customer sati
 
 3\. You may unsubscribe to any of our online e-mail updates by following the unsubscribe instructions in the body of any message.
 
-4\. You may write to us and update your contact information or ask that we not share your personal contact information with third parties at: HistoryNet Magazines, Inc., c/o Privacy Coordinator, 1600 Tyson Blvd Suite 1100, McLean, VA 22102. In those instances, we will retain your information in a “do not promote” file in our database.
+4\. You may write to us and update your contact information or ask that we not share your personal contact information with third parties at: HistoryNet Magazines, Inc., c/o Privacy Coordinator, 1919 Gallows Road, Suite 400 Vienna, Virginia 22182. In those instances, we will retain your information in a “do not promote” file in our database.
 
 5\. You may also contact us at comments {[@]} historynet.com.
 
@@ -187,7 +187,7 @@ Or you can contact us by mail at:
 
 HistoryNet  
 Privacy Coordinator  
-1600 Tysons Blvd Suite 1100  
-McLean, VA 22102
+1919 Gallows Road, Suite 400  
+Vienna, Virginia 22182
 
 Updated March 11, 2016
