@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ourcodeworld.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119094712id_/http%3A//ourcodeworld.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ourcodeworld.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606161616id_/http%3A//ourcodeworld.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js "><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -17,6 +17,7 @@
         <link rel="stylesheet" href="/material/css/font-awesome.min.css">
         <link rel="shortcut icon" href="/favicon.ico">
         <link rel="search" type="application/opensearchdescription+xml" title="Our Code World" href="/opensearch.xml">
+        <link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
                 (function (i, s, o, g, r, a, m) {
                     i['GoogleAnalyticsObject'] = r;
@@ -148,7 +149,7 @@
         <div class="col-xs-12 bg-blue">
             <a href="/about">
                 <span class="state">Carlos Delgado</span>
-                <span>Our Code World © 2015 - 2016</span>
+                <span>Our Code World © 2015 - 2017</span>
                 <span class="icon"><i class="fa fa-heart"></i></span>
             </a>
         </div>
@@ -168,10 +169,7 @@
                 <a href="/categories/list/categories">Categories</a>
             <span class="hover-bg"></span></li>
             <li>
-                <a href="/projects/list/">Projects</a>
-            <span class="hover-bg"></span></li>
-            <li>
-                <a href="/contact">Contact</a>
+                <a href="http://docs.ourcodeworld.com/projects">Projects</a>
             <span class="hover-bg"></span></li>
             <li>
                 <a href="/privacy-policy">Privacy policy</a>
@@ -181,12 +179,16 @@
                 <ul class="child-menu">
                     <li><a href="/apps/our-code-editor">Our Code Editor</a>
                     <span class="hover-bg"></span></li>
-                    <li><a href="/apps/our-credentials-manager">Our Credentials Manager</a>
-                    <span class="hover-bg"></span></li>
                 </ul>
             <span class="hover-bg"></span></li>
             <li>
+                <a href="/advertise-with-us">Advertise with us</a>
+            <span class="hover-bg"></span></li>
+            <li>
                 <a href="/about">About</a>
+            <span class="hover-bg"></span></li>
+            <li>
+                <a href="/contact">Contact</a>
             <span class="hover-bg"></span></li>
         </ul>
     </div>
@@ -194,7 +196,7 @@
     <div class="search">
         <form action="/search">
                         <div class="form-group">
-                <input type="text" id="search-input-ourcodeworld" class="form-control" name="q" placeholder="Search for {Cordova}">
+                <input type="text" id="search-input-ourcodeworld" class="form-control" name="q" placeholder="Search for {Twig}">
                 <button type="submit" class="btn btn-default disabled btn-ripple"><i class="fa fa-search"></i>
                 </button>
             </div>
@@ -277,11 +279,28 @@
 <script src="/material/js/ocw_core.js"></script>
 <script src="/material/js/layout.js"></script>
 <script type="text/javascript" src="/material/js/prism.js"></script>
-
-<script type="text/javascript">
-    window.cookieconsent_options = {"message": "Our Code World uses cookies to ensure you get the best experience on our website", "dismiss": "Got it!", "learnMore": "More info", "link": "http://ourcodeworld.com/privacy-policy", "theme": "dark-floating"};
+<script src="http://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function () {
+    window.cookieconsent.initialise({
+        "palette": {
+            "popup": {
+                "background": "#edeff5",
+                "text": "#000000"
+            },
+            "button": {
+                "background": "#03a9f4"
+            }
+        },
+        "theme": "edgeless",
+        "position": "bottom-right",
+        "content": {
+            "message": "Our Code World uses cookies to ensure you get the best experience on our website.",
+            "href": "http://ourcodeworld.com/privacy-policy"
+        }
+    })
+});
 </script>
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js"></script>
 <script>
     $(document).ready(function () {
         OurCodeWorld.init();
