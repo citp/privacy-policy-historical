@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharkclean.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025210611id_/http%3A//www.sharkclean.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharkclean.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104730id_/http%3A//www.sharkclean.com/privacy-policy) for the most accurate reproduction.*
 
 # Shark® Privacy Policy | SharkNinja Operating LLC
 
