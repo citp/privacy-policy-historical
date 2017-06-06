@@ -1,145 +1,113 @@
-> *The following text is extracted and transformed from the xplodedthemes.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426002329id_/http%3A//themeforest.net/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xplodedthemes.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184824id_/https%3A//xplodedthemes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ThemeForest
+# Privacy Policy - XplodedThemes
 
-Envato Pty Ltd ( **Envato** ) has developed this Privacy Policy (“Policy”) to inform you about how we deal with privacy issues in relation to our website. Your privacy is very important to us and you must agree to the terms of this Policy before becoming an Envato Market member and/or using the Envato Market sites ( **Sites** ), included but not limited to
+Purpose of the Privacy Policy. XplodedThemes, Inc. (“XplodedThemes”, “we” or “us”) is a WordPress Theme & Plugin company, which means we build web software that people (our “Clients”) can use to power their websites (our “Service”). People who run their websites on WordPress, or web development agencies that build websites for their clients on WordPress, can purchase our Themes & Plugins to assist them in the creation of those websites. Our Themes are pre-made templates that change how the website looks, while the plugins add functionality of some kind (much like an App in the IOS App store). Clients in turn make their websites available to their customers (“End Users”) and may in turn collect information from them.
 
-Site Name: | Accessible at:  
----|---  
-ActiveDen | [www.activeden.net](http://www.activeden.net/)  
-AudioJungle | [www.audiojungle.net](http://www.audiojungle.net/)  
-CodeCanyon | [www.codecanyon.net](http://www.codecanyon.net/)  
-GraphicRiver | [www.graphicriver.net](http://www.graphicriver.net/)  
-ThemeForest | [www.themeforest.net](http://www.themeforest.net/)  
-VideoHive | [www.videohive.net](http://www.videohive.net/)  
-3DOcean | [www.3docean.net](http://www.3docean.net/)  
-PhotoDune | [www.photodune.net](http://photodune.net/)  
-  
-This Policy governs the information we collect about you and your use of information we provide to you. By accepting this Policy and the Envato Market Terms Agreement, you expressly consent to our use and disclosure of your personal information in a manner prescribed in this Policy. You acknowledge this by using the Site. 
+We are committed to respecting and protecting the privacy rights of Clients and their End Users, and we created this Privacy Policy to give you notice of how your private information will (and will not) be used by us. This Privacy Policy provides information on our policies and procedures regarding the collection, use and disclosure of personal information we receive from (1) Clients, (2) End Users who download and use the websites created by Clients (“End Users”), and (3) visitors who simply browse the Site or Apps (“Visitors”).
 
-## Information About Children
+End Users may be asked by Clients to provide additional information to them, including your personally identifiable and other information, to be used and shared pursuant to their own privacy and confidentiality policies, and we may collect and share information related to interactions by End Users with the respective Client. We encourage you to read the Clients’ privacy policies. We are not responsible for the use of your information by any Clients, and disclaim any liability related thereto.
 
-Children (persons under the age of 18 years) are not eligible to use our services unsupervised and we ask that children not submit any personal information to us. If you are under the age of 18 years, you can browse the Site only in conjunction with and under the supervision of your parents or guardians. If you are under 18 years of age you cannot use the Membership Section of the Site.
+By using or accessing the Service in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.
 
-It is the responsibility of parents to monitor their children’s use of our Site.
+This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes.
 
-## Information Collection
+### What Information Do You Collect and How Do You Collect It?
 
-### PART A – The Public Generally
+At various times, you could be asked to provide information such as your name, email address, contact phone number or other information. Information collected is often defined as being either anonymous or personally identifiable:
 
-Our primary purpose in collecting personal information is to provide you with a safer trading experience and encourage commerce between buyers and sellers using the Site as a venue. We only collect personal information about you that we consider necessary for this purpose and to achieve this goal.
+Anonymous Information refers to information that cannot be tied back to a specific individual. For instance, we may know that thousands of people have visited this Privacy Policy, but we do not necessarily know their names, where they live, or their date of birth. What we collect from visits such as this constitutes anonymous information. Some of the individuals who access our Services decline to use the personalization features that are available to them, and therefore those individuals are anonymous to us and the only data we collect about them is anonymous information.
 
-You are under no obligation to provide us with this information and can access many aspects of the Site without providing us any personal information.
+Personally Identifiable Information refers to information that tells us specifically who you are, such as your name, email address, or phone number. Downloading information or logging in may allow the Company to “recognize” you to allow us to personalize our service for you.
 
-When you visit this website, we can record certain information in relation to your visit such as:
+#### Anonymous Information
 
-  * Your IP or proxy server IP;
-  * Basic domain information;
-  * Your Internet service provider is sometimes captured depending on the configuration of your ISP connection;
-  * The date and time of your visit to the website;
-  * The length of your session;
-  * The pages which you have accessed;
-  * The number of times you access our site within any month;
-  * The size of file you look at;
-  * The website which referred you to our website; and
-  * The operating system which your computer uses.
+As is true of most websites, we gather certain information (such as mobile provider, operating system, etc.) automatically and store it in log files. We use this information, which does not identify individual users, to analyze trends, to administer the website, to track users movements around the website and to gather demographic information about our user base as a whole. We may link some of this automatically-collected data to certain Personally Identifiable Information.
 
+#### Personally Identifiable Information
 
+If you are a Client, when you register with us via our Website, we will ask you for some personally identifiable information, such as your first and last name, company name, email address, billing address, and credit card information. You may review and update this personally identifiable information in your profile by logging in and editing such information in your dashboard. If you decide to delete all of your information, we may cancel your account. We may retain an archived copy of your records as required by law or for reasonable business purposes.
 
-This information is only used for statistical and website development purposes.
+Due to the nature of the Service, except to assist Clients with certain limited technical problems or as otherwise legally compelled, we will not access any of the Content that you upload to the Service.
 
-Various pages on this Site invite you to provide us your name and contact details, for example, to go onto our mailing list for our newsletter, enter competitions, or to enable us to provide you with web site related services such as notifications.
+In order to use some features of this Service, you (an End User) may at times be asked by a Client to provide certain personal and other information. Depending on the Services you have chosen to use, some limited Personally Identifiable Information may be used by us to provide such Services and by our Clients. We also may store any Content that you upload or provide to the Service in order to make available to you with the features and functionality of the Service.
 
-If you use our Site’s feedback and support forms, you are asked to provide your name, organisation, title, address, email address and telephone number. Envato will not otherwise collect information from you through this Site unless you knowingly provide it to us.
+Some Personally Identifiable Information may also be provided to intermediaries and third parties who assist us with the Service, but who may make no use of any such information other than to assist us in providing the Service. Except as otherwise provided in this Privacy Policy, however, we will not rent or sell your Personally Identifiable Information to third parties.
 
-By voluntarily providing information to us when using the Site, you are consenting to the collection and use of your personal information by us.
+If you choose to allow a website to collect your location data, such location data may be available to the applicable Client. In addition, if you have an account with Facebook, Twitter, Google+, LinkedIn, Foursquare or other similar websites (each a “Social Network”), your Social Network identity, including your public picture, may be associated with your location data. If you send a “Do Not Track” request through your web browser, we may still collect and use your browsing data to improve security, to provide our Service and to generate reporting statistics, but in general we will not track other websites that you may have visited.
 
-The Site uses session cookies, which are used only during a browsing session, and expire when you quit your browser. Upon closing your browser, the session cookie set by this Site is destroyed and no personal information is maintained which might identify you should you visit our Site at a later date.
+XplodedThemes, Inc. is the owner of the information collected through the Service.
 
-If you choose to buy or sell on our Site, we collect information about your buying and selling behaviour. This information is only used for statistical and website development purposes.
+#### PayPal
 
-Please note that when you voluntarily disclose information on the bulletin boards or in the forums or in the chat areas of the Site or in member profile pages, your personal and other information disclosed in your communication shall become public information and can be collected and used by other parties. We cannot control what third parties in the bulletin board, forums, chat room or member profile pages do with your personal information.
+If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal’s privacy policy will apply to the information you provide on the PayPal website.
 
-### PART B – Members
+Stripe.com
 
-We collect information from people who use the Membership Section of our Site (“Members”). This information may be used:
+Credit card transactions are also processed using Stripe.com, a secure third party payment processing company. When using your credit card to purchase our product, you may be redirected to their secure third party gateway in the form of an iframe. The information you provide for payment will be stored on their secure servers. We do not store any payment information on our servers for your protection.
 
-  1. to send news, information about our activities and general promotional material which we believe may be useful to you or us; 
-  2. to monitor who is accessing the membership section of the Site or using services offered on the Site; and
-  3. to profile the type of people accessing the Site.
+In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information.
 
+No Information Collected from Children.
 
+We will never knowingly collect any personal information about children under the age of 13. If we obtain actual knowledge that it has collected personal information about a child under the age of 13, that information will be immediately removed from any access. Because it does not collect such information, XplodedThemes has no such information to use or to disclose to third parties. XplodedThemes has designed this policy in order to comply with the Children’s Online Privacy Protection Act (“COPPA”).
 
-If you choose to buy or sell on our Site we collect information about your buying and selling behaviour.
+### How Do You Use Individual Information?
 
-If you use a payment facilitator on the Site, we collect additional necessary information, including but not limited to billing address, credit card number and credit card expiry date.
+#### General Use
 
-#### USE OF INFORMATION AND DISCLOSURE
+For our Clients, we use personal information mainly to provide the Services and contact our Clients regarding account activities, new version and product offerings, or other communications relevant to the Services. We do not sell or share any personally identifiable or other information of End Users to any third parties, except, of course, to the applicable Client whose website you are using.
 
-Envato will only use the information it collects through the Site for the following purposes:
+If you contact us by email or by filling-out a registration form, we may keep a record of your contact information and correspondence, and may use your email address, and any information that you provide to us in your message, to respond to you. In addition, we may use the personal information described above to send you information regarding the Service. If you decide at any time that you no longer wish to receive such information or communications from us, email us at helpdesk@xplodedthemes.com and request to be removed from our list. The circumstances under which we may share such information with third parties are described in part (4) below.
 
-  1. Forwarding important information relating to Envato activities and other requested information;
-  2. Contacting you in response to your feedback or query to discuss our services;
-  3. Monitoring Site performance;
-  4. Improving our Site and services to you;
-  5. Internal administration; and
-  6. Other purposes that are in accordance with your instructions.
+### How Do You Store My Personal Information?
 
+#### Storage of Individual Information
 
+XplodedThemes operates or leases secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary, and only authorized individuals have access to the information provided by our Clients. Notwithstanding such measures, we cannot guarantee that our security measures will prevent our computers from being illegally accessed, and the individual information on them stolen or altered.
 
-Envato will not give, sell, trade or otherwise disclose any personal information about you to a third party unless:
+Your account is protected by a password for your privacy and security. You must prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account.
 
-  * You have provided us with your consent; or
-  * We are required to do so by law.
+#### Third Party Hosting, Serving and Storage
 
+XPLODEDTHEMES MAY CONTRACT WITH A VARIETY OF THIRD PARTY SUPPLIERS/PROVIDERS/VENDORS/SOCIAL NETWORKS FROM TIME TO TIME, TO PROVIDE FOR OUR HOSTING, AUTHENTICATION, SERVING, STORAGE AND TELECOMMUNICATION NEEDS, ETC., INCLUDING WITHOUT LIMITATION STORAGE OF OUR USERS PERSONALLY IDENTIFIABLE INFORMATION.XPLODEDTHEMES SHALL NOT BE RESPONSIBLE OR LIABLE, AND HEREBY DISCLAIMS ALL RESPONSIBILITY AND LIABILITY, FOR CULPABLE (INCLUDING WITHOUT LIMITATION NEGLIGENT) ACTS OR OMISSIONS BY ITS THIRD PARTY SUPPLIERS/VENDORS.
 
+### Do You Disseminate Any Personal Information?Service Providers
 
-#### COOKIES AND ADVERTISING
+We may use third parties to help operate our website, authenticate users and deliver products and services, and may share your Personally Identifiable Information with our service providers, vendors, suppliers, and other third parties that provide products or services for or through this Service (such as website or database hosting companies, authentication providers, address list hosting companies, e-mail service providers, analytics companies, distribution companies and other similar service providers that use such information on our behalf). Unless otherwise stated, these companies do not have any right to use the Personally Identifiable Information we provide to them beyond what is necessary for them to assist us.
 
-Occasionally, we may use third party advertising companies to serve ads based on prior visits to the Site. These advertising companies use cookies to anonymously collect data.
+#### Aggregate Statistics
 
-No personally identifiable information is collected by these cookies. The anonymous data they collect is kept separate from the personal information in your Member account.
+We may disclose aggregate statistics regarding user behavior as a measure of interest in, and use of our Service and e-mails to third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user or Client.
 
-You can opt out of third party advertising cookies at any time by visiting this page: <http://www.networkadvertising.org/managing/opt_out.asp>
+#### Complying with Legal Process
 
-We (and authors who sell items on any of our Envato Market sites) use third party analytics services that use cookies to record general site usage information - like page visits and the way users move between pages on the Site. This general site analytics information is not matched to your user account.
+XplodedThemes reserves the right to use or disclose your Personally Identifiable Information and other information in response to subpoenas, court orders, warrants, or legal process, or to otherwise establish or exercise our legal rights or defend against legal claims or in the event you violate or breach an agreement with us. We may use and disclose your Personally Identifiable Information if we believe you will harm the property or rights of XplodedThemes, its owners, or those of our other Clients.
 
-Other cookies are used to enhance your use of the Site, such as remembering that you are logged in. You are able to minimise or block cookies using the privacy settings in your internet browser, but this may restrict your use of the Site. For general information on cookies, see <http://www.allaboutcookies.org/>.
+#### Business Transitions
 
-#### ACCESS AND / OR CORRECTION OF YOUR DETAILS
+In the event XplodedThemes goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets as well as in the event of a bankruptcy, assignment for benefit of creditors or receivership, your Personally Identifiable Information (but not other information) may be disclosed and will likely be among the assets transferred. You may be notified thereafter via prominent notice on our web site for 30 days of any such change in ownership or control of your personal information. XplodedThemes further reserves the right to disclose, transfer or sell your personal information to companies who are affiliated with us in our sole discretion.
 
-You may request access to your personal information and can ask us to correct your personal information.
+### Do You Allow Foreign Use Of The Apps?
 
-You can do this by emailing [legal@envato.com](mailto:legal@envato.com)
+To the extent that you are accessing our website in the United States while domiciled outside of the United States, you acknowledge that the Personally Identifiable Information you are providing us may be collected and stored in the United States and elsewhere and therefore consent to the transfer of information to and storage of the information outside of your domiciled country and in the United States.
 
-#### DISCLAIMER
+### Cookies And Tracking Technologies
 
-This Site contains links to other sites. Envato is not responsible for the privacy practices of linked sites. Underlined words and phrases are click-through links or hyperlinks to pages and websites. Envato strongly recommends that you read the Privacy Policy of the linked websites as they may contain further terms and conditions which apply to you
+#### General Use
 
-#### SECURITY
+We use cookies, tracking pixels and related technologies on our website. Cookies are small data files that are served by our platform and stored on your device. Our site uses cookies dropped by us or third parties for a variety of purposes including to operate and personalize the website. Also, cookies may also be used to track how you use the site to target ads to you on other websites.
 
-This Site has security measures in place to protect the loss or misuse of, or alteration or unauthorised access to, information under our control. However, if you send information from this Site, it will not be encrypted unless we expressly tell you it is.
+#### Third Parties
 
-#### AMENDMENTS TO THE PRIVACY POLICY
+Our website employs the use the various third party services. Through the use of our website, these services may place anonymous cookies on the Visitor’s browser and may send their own cookies to the Visitor’s cookie file. Some of these services include, but are not limited to: Google, Facebook, Twitter, Adroll, MailChimp, Sucuri, Intercom and other social networks, advertising agencies, security firewalls, analytics companies and service providers. These services may also collect and use anonymous identifiers such as IP Address, HTTP Referrer, Unique Device Identifier and other non-personally identifiable information and server logs.
 
-We may change this Policy. Such changes will be effective when a notice of the change is made available on the Site. We will provide you with thirty (30) days notice to allow you the opportunity to notify Envato if you do not agree to such changes.
+You may opt-out from Google’s cookies using their Ad Settings. You may also use the Network Advertising Initiative opt-out page to opt-out of some third party cookies.
 
-#### OPT – OUT PROVISION
+### If I have Questions Concerning This Privacy Policy?
 
-To protect you from unwanted email communications, Envato adopts an opt-out facility for marketing communication. If you decide you no longer would like to receive marketing communications from us, please advise us by [contacting support](https://help.market.envato.com/) or follow the instructions in the “Opt-Out” section of the email you have received.
+If you have any questions or concerns about this Privacy Policy, please contact us at helpdesk@xplodedthemes.com.
 
-If you request us not to use personal information in a particular manner or at all, we will adopt all reasonable measures to observe your request but we may still use or disclose that information if:
+### History
 
-  1. we subsequently notify you of the intended use or disclosure and you do not object to that use or disclosure; 
-  2. we believe that the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for governmental or public security in the performance of their functions; or 
-  3. we are required by law to disclose the information.
-
-
-
-#### INTERNATIONAL TRANSFER OF INFORMATION
-
-Our servers and information processing equipment are located in a number of countries around the world, thus the information collected from you will be stored in these countries. By voluntarily providing information to us when using the Site, you are consenting to the collection and use of your personal information by us, including the transfer to another jurisdiction other than Australia.
-
-#### FURTHER INFORMATION
-
-For further information about Envato’s privacy policy, please [contact support](https://help.market.envato.com/).
+Last Updated: Nov 29, 2016
