@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haircutinspiration.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528164213id_/http%3A//haircutinspiration.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haircutinspiration.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095645id_/http%3A//haircutinspiration.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HaircutInspiration.com
 
@@ -24,4 +24,4 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 ## Contact Information
 
-Concerns or questions about this privacy policy can be directed to andrzej@haircutinspiration.com for further clarification.
+Concerns or questions about this privacy policy can be directed to the [site director](mailto:andrzej@haircutinspiration.com) for further clarification.
