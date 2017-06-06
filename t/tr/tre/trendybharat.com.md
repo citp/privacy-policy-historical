@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trendybharat.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921232748id_/https%3A//trendybharat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendybharat.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184217id_/https%3A//trendybharat.com/privacy) for the most accurate reproduction.*
 
-# 
+# Buy Privacy Policy | TrendyBharat Online India| TrendyBharat.com
 
 **_INFORMATION SECURITY IS THE IMMUNE SYSTEM IN THE BODY OF BUSINESS_**
 
