@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the codesmithtools.com privacy policy that was archived on 2016-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161124183022id_/http%3A//www.codesmithtools.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the codesmithtools.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606121049id_/http%3A//www.codesmithtools.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js hashchange history borderimage borderradius boxshadow textshadow fontface localstorage sessionstorage" lang="en"><!--<![endif]--><head>
     <meta charset="utf-8">
@@ -59,7 +59,7 @@
                     <li class="dropdown">
                         <a id="nav-product" href="/">Products</a>
                         <ul>
-                            <li class="first"><a id="nav-product-exceptionless" href="http://exceptionless.com" target="_blank"><img src="/lib/images/exceptionless-icon.png">Exceptionless</a></li>
+                            <li class="first"><a id="nav-product-exceptionless" href="https://exceptionless.com" target="_blank"><img src="/lib/images/exceptionless-icon.png">Exceptionless</a></li>
                             <li><a id="nav-product-generator" href="/product/generator"><img src="/lib/images/generator-icon.png">Generator</a></li>
                             <li><a id="nav-product-frameworks" href="/product/frameworks"><img src="/lib/images/frameworks-icon.png">Frameworks</a></li>
                             <li class="last"><a id="nav-product-store" href="/store"><img src="/lib/images/header/cart.png">Online Store</a></li>
@@ -167,7 +167,7 @@
                     <li><a href="https://twitter.com/codesmithtools" class="tw"><i class="icon-twitter-sign icon-3x"></i></a></li>
                     <li><a href="http://www.linkedin.com/company/156889" class="li"><i class="icon-linkedin-sign icon-3x"></i></a></li>
                 </ul>
-                <p>Copyright © 2016 CodeSmith Tools, LLC. All rights reserved.</p>
+                <p>Copyright © 2017 CodeSmith Tools, LLC. All rights reserved.</p>
             </div>
         </div>
     </div>
@@ -180,10 +180,19 @@
 <!-- / container -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="/scripts/jquery-1.8.3.min.js">\x3C/script>')</script><script src="/scripts/jquery-1.8.3.min.js"></script>
+    <script src="https://cdn.rawgit.com/exceptionless/Exceptionless.JavaScript/v1.4.3/dist/exceptionless.min.js?apiKey=uQe5wGxiQIHWI978h5eY9DkLIXza6DMgqDZURCC3"></script>
     <script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.10.0/jquery.validate.min.js"></script>
     <script>window.jQuery || document.write('<script src="/scripts/jquery.validate.min.js">\x3C/script>')</script>
     <script src="//ajax.aspnetcdn.com/ajax/jquery.ui/1.8.23/jquery-ui.min.js"></script>
     <script>window.jQuery || document.write('<script src="/scripts/jquery-ui-1.8.23.min.js">\x3C/script>')</script>
+<script type="text/javascript">
+    var client = exceptionless.ExceptionlessClient.default;
+    client.config.useLocalStorage();
+    client.config.setVersion('5.0.0.0');
+    client.config.setUserIdentity('qqmrypqzoajyou5u41dpxooh', '');
+    client.config.useSessions();
+    client.createFeatureUsage(location.pathname || '/').addTags('UI').submit();
+</script>
 <script src="/lib/js?v=M3hjg2hoDzW5ZiX5newbVUiGJ4TL5uZ58HBHXwch-KU1"></script>
 
 
