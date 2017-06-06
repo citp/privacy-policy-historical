@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the garnethill.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608121009id_/http%3A//www.garnethill.com/PrivacyView%3FstoreId%3D10054%26catalogId%3D10054%26langId%3D-1%26contentKey%3DWCM_PRIVACY_RIGHTS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garnethill.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606133631id_/http%3A//www.garnethill.com/PrivacyView%3FstoreId%3D10054%26catalogId%3D10054%26langId%3D-1%26contentKey%3DWCM_PRIVACY_RIGHTS) for the most accurate reproduction.*
 
-# Customer Service - Your Privacy Rights - Garnet Hill
+# Customer Service | Your Privacy Rights | Garnet Hill
 
-Last Updated: August 7, 2015
+Last Updated: December 19, 2016
 
 Garnet Hill, Inc. ("Garnet Hill") respects your privacy. As a member of the Direct Marketing Association (DMA), Garnet Hill follows the DMA privacy guidelines. The DMA's Mail Preference Service reduces the availability of your name and address to many other direct marketing companies. To learn more, click on [www.dmachoice.org](http://www.dmachoice.org/).
 
@@ -89,19 +89,7 @@ Attn: Customer Service
 231 Main Street  
 Franconia, NH 03580
 
-  
- _California Residents:_
-
-  * If you are a resident of California, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties and the HSNi companies for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information: 
-    1. the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year; 
-    2. the names and addresses of the third parties that received that information;  
-and 
-    3. if the nature of the third party's business cannot be determined from their name, examples of the products or services marketed. 
-  
-We may provide this information in a standardized format that is not specific to you. The designated e-mail address for these requests is [customerservice@garnethill.com.](mailto:customerservice@garnethill.com)
-  * Currently, our online Services do not recognize automated browser signals regarding "do not track" instructions. If we develop this capability in the future, we will describe how we do so in the Garnet Hill Privacy Policy. Please note that third parties may collect personal information about your online activities over time and across different websites when you use our online Services or browse other websites. For more information about "Do Not Track," please visit [www.allaboutdnt.com](http://www.allaboutdnt.com/).
-
-
+Currently, our online Services do not recognize automated browser signals regarding "do not track" instructions. If we develop this capability in the future, we will describe how we do so in the Garnet Hill Privacy Policy. Please note that third parties may collect personal information about your online activities over time and across different websites when you use our online Services or browse other websites. For more information about "Do Not Track," please visit [www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
 © 2007 - 2015 HSN, Inc. All rights reserved.
 
