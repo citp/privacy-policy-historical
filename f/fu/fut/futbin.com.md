@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the futbin.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119035923id_/http%3A//www.futbin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futbin.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163932id_/https%3A//www.futbin.com/privacy) for the most accurate reproduction.*
 
 # FUT Privacy | FUTBIN
-
-__FUTBIN for iOS now includes squad builder and draft simulator. **[Click here](https://itunes.apple.com/us/app/futbin/id1080465358?mt=8)** to download 
 
 Futbin.com Privacy Policy 
 
