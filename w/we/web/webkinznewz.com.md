@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webkinznewz.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502003642id_/http%3A//webkinznewz.ganzworld.com/other/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webkinznewz.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606065705id_/http%3A//webkinznewz.ganzworld.com/other/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WKN: Webkinz Newz
 
