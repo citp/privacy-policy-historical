@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aussie.com.au privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220224919id_/https%3A//www.aussie.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussie.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165433id_/https%3A//www.aussie.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Aussie
 
@@ -20,7 +20,7 @@ We will always aim to collect your personal information directly from you. If fo
 
 We collect, use, hold and exchange your personal information so that we can:
 
-  * Submit your application for credit;
+  * Submit your application for credit and provide you with information about related insurance products;
   * Identify and tell you via direct marketing communications about other products or services offered by us or a third party that may interest you (unless you tell us not to);
   * Administer our customer relationships;
   * For internal purposes, including for reporting and analytical purposes;
