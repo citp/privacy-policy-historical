@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extraspace.com privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804022257id_/https%3A//www.extraspace.com/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extraspace.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606203030id_/https%3A//www.extraspace.com/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement and Legal Disclaimer for Extra Space Storage
 
