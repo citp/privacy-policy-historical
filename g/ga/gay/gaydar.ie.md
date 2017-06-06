@@ -1,73 +1,141 @@
-> *The following text is extracted and transformed from the gaydar.ie privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015320id_/http%3A//www.gaydar.net/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaydar.ie privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185332id_/https%3A//www.gaydar.net/content/privacy) for the most accurate reproduction.*
 
-# Gaydar - What you want, when you want it
+# Gaydar - Privacy
 
-We take the privacy rights of users of this Site very seriously and seek to ensure the highest standards of compliance with UK Data Protection Laws and Regulations.
+CPC Connect Ltd ("Gaydar", "we", and "us") respects the privacy of its users ("you") and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy describes the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our application or services or transacting business with us. By using our website or application (our "Service"), you are accepting the practices described in this Privacy Policy.
 
-This Privacy Policy is incorporated in and subject to the Site [Terms and Conditions](https://web.archive.org/info/tandcs.asp). This Privacy Policy explains to You how We may use Your Data when You register as a Member (as relevant) or otherwise use the Site.
+If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.  
+Last updated: 29/03/2017 
 
-  * 1\. Your Data
+### Content
 
-    * 1.1 "Your Data" means any information about You which is personally identifiable, including, without limitation, Your name, address, telephone number, email address, financial details, Member Name, Password, comments, profiles, personal descriptions, photos and other information from which You can be identified and which You may disclose to Us or otherwise via the Site at any time.
-  * 2\. When do We collect Your data?
-
-    * 2.1 If You register as a Member, We collect Data when You: 
-      * 2.1.1 register as a Member;
-      * 2.1.2 update Your Member Profile or Settings; and
-      * 2.1.3 post an entry on the Site.
-    * 2.2 If You otherwise use the Site (whether or not You are a Member), We collect Your Data from You: 
-      * 2.2.1 when You make a complaint or enquiry or provide other feedback to Us;
-      * 2.2.2 when You submit an entry to a competition or prize draw;
-      * 2.2.3 when You request to be sent Our Newsletter;
-      * 2.2.4 in monitoring Your communications sent via and use of the Site ensure and check compliance with the Terms and Conditions of Use or Membership Terms and Conditions or otherwise as required by law; and
-      * 2.2.5 when You disclose Your Data to Us or otherwise through the Site at any other point.
-  * 3\. How do We use Your Data:
-
-    * 3.1 We use Your Data to: 
-      * 3.1.1 monitor, develop and improve the Site, Services and Your experience;
-      * 3.1.2 process Your registration as a Member and to process and administer Your Membership (where appropriate);
-      * 3.1.3 process and deal with any complaints or enquiries made by or about You;
-      * 3.1.4 investigate any suspected breach of the Terms and Conditions of Use or Membership Terms and Conditions (as relevant) made by or otherwise relating to You and to monitor compliance including by way of checking postings to the Site, retaining forum or chat room exchanges and using keyword triggers to investigate usage that may be inappropriate;
-      * 3.1.5 where (and only where) requested by You, to send You and keep You updated with information by email about existing and new services and special offers from Us;
-      * 3.1.6 where (and only where) requested by You, to send You information by e-mail about related products or services of selected third parties that may be of interest to You; and
-      * 3.1.7 where you are a prize winner, to publish or otherwise make available a list of prize winners.
-    * To opt-out of receiving any information pursuant to paragraphs 3.1.5 or 3.1.6, You can:
-
-      * i. amend Your preferences accordingly in Your Profile or Settings;
-      * ii. use the facility contained in any such communication; or
-      * iii.email us at [privacypolicy@cpcconnect.co.uk](mailto:privacypolicy@cpcconnect.co.uk) stating Your Profile name, the Site You are registered with and who You do not wish to receive further communications from.
-  * 4\. Will we pass on Your Data to third parties?
-
-    * 4.1 We may pass Your Data to other parties as follows: 
-      * 4.1.1 Where relevant, Your Member Name and information you voluntarily provide in Your Member profile will be published on the Members' area of the site and this will be the identity by which You are known on the Site. Where other Members wish to chat or otherwise contact You, they will be able to identify You by Your Member Name and any other information You may yourself disclose via the Site.
-      * 4.1.2 To Our employees and agents to administer Your Membership and the services provided to You by Us now or in the future.
-      * 4.1.3 Some general statistical information about the Site User base, sales patterns, traffic volumes and related matters may be passed on to reputable third parties but these details will not include information personally identifying You.
-      * 4.1.4 We may disclose Your Data to the police, regulatory bodies or legal advisers in connection with any alleged criminal offence or suspected breach of the Terms and Conditions of Use and (where appropriate) Membership Terms and Conditions by You or otherwise where required by law.
-    * 4.2 We do not pass or sell Your Data to third persons for any other purpose than those set out in 4.1 above. Any marketing under paragraph 3.1.6 is conducted by Us on behalf of third parties and they do not have any access to Your Data unless You Yourself choose to contact them.
-    * 4.3 Always think carefully before disclosing Your Data or other information to other Members or otherwise posting Your Data on the Site. It is important that You are aware that any of Your Data or other information which You disclose to another Member may then be disclosed on the Site by that Member. As stated in the [Terms and Conditions](https://web.archive.org/info/tandcs.asp), We have no responsibility or control over the contents of communications made between Members.
-  * 5\. Data Security
-
-    * 5.1 We endeavour to take all reasonable steps to protect Your Data. All the Data collected by Us is stored on a secure server. The secure server software encrypts all information You input before it is sent to Us.
-  * 6\. Cookies
-
-    * 6.1 Cookies are small pieces of information stored by Your browser on Your computer's hard drive. We use cookies to allow Us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited, to determine the most popular areas of the Site and generally in order to monitor usage of the Site. Most web browsers automatically accept cookies, though You do not have to. We do not control the use of cookies by third parties. If You wish to disable cookies then You can do so by readjusting Your browser settings although please note that by disabling cookies You may not be able to register with or use all features of the Site.
-    * 6.2 For more information on cookies and how to disable them, You can consult the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
-  * 7\. Access to and Updating Your Data
-
-    * 7.1 Where You are a Member, You may access and update Your Data contained in Your Member Account accessed by the "Settings" link. You must make sure that You update Your Data as soon as possible with any and all relevant changes.
-    * 7.2 If You are not a Member but would like to update Your Data, then please contact Us at [privacypolicy@cpcconnect.co.uk](mailto:privacypolicy@cpcconnect.co.uk) setting out Your Profile name, the Site to which you are registered and the details that You wish to change.
-  * 8\. Other links
-
-    * 8.1 Please be aware that the Site may link to other web sites that may be accessed by You through Our Site. We are not responsible for the data policies, content or security of these linked web sites. We do not have any control over the use to which third parties may put Your Data where You choose to purchase products or services or otherwise to contact them via this Site.
-  * 9\. Transfer Outside the EEA
-
-    * 9.1 This Site is accessible via the internet and therefore may potentially be accessed by anyone around the world. Other Members may also be or access the Site from outside the European Economic Area. This means that, where You post Your Data on the Site, this could be accessed from anywhere around the world and therefore a transfer of Your Data outside of the European Economic Area may be deemed to have occurred. You consent to such transfer of Your Data for and by way of this purpose.
-  * 10\. Contact Us
-
-    * 10.1 If You have any comments or queries in connection with Our privacy policy, please contact Us by email at [privacypolicy@cpcconnect.co.uk](mailto:privacypolicy@cpcconnect.co.uk), or write to Us at CPC Connect Ltd, PO Box 71067, London, SE1P 5FH, stating Your Profile name, the Site to which You are registered and/or to which Your complaint relates.
+  * Information we collect about you
+  * Use of technologies to collect information
+  * How we use the information we collect
+  * With whom we share your information
+  * Do Not Track Disclosure
+  * Third Party Websites
+  * How you can access your information
+  * Your choices about collections and use of your information
+  * How we protect your personal information
+  * Information you provide about yourself while using our Service
+  * Adult Restricted
+  * Visiting out Service from outside the United Kingdom
+  * No Rights of Third Parties
+  * Changes to this Privacy Policy
+  * How to Contact Us
 
 
 
-For banner advertising information contact [advertising@gaydar.net](mailto:advertising@gaydar.net)
+### 1\. Information we collect about you
 
-CPC Connect Limited is registered in England and Wales. Registration Number: 8449494. Registered Office: 26 Red Lion Square, London, WC1R 4AG, United Kingdom 
+1.1. **In General.** When you use Gaydar, we automatically collect and store information about your computer or mobile device and your activities. We may collect information that can identify you including but not limited to your name, email address, mobile device ID number, your preferences, technical information about your computer and mobile device ("personal information") and other information that does not identify you. We may collect this information through a website or a mobile application. By using the Service, you are authorising us to gather, parse and retain data related to the provision of the Service. When you provide personal information through our Service, the information may be sent to servers located in the United Kingdom and countries around the world.
+
+1.2. **Information you provide.** In order to become a Gaydar member, you will be asked to register. If you do so, you authorize us to collect your location information from your device when you download or use the Service. In addition, we may collect and store any personal information you provide while using our Service or in some other manner. This may include identifying information, such as your name, address, email address and telephone number, and, if you transact business with us, financial information. You may also provide us photos, a personal description and information about your gender and preferences for recommendations, such as search distance, age range and gender. If you chat with other Gaydar users, you provide us the content of your chats, and if you contact us with a customer service or other inquiry, you provide us with the content of that communication. 
+
+### 2\. Use of technologies to collect information
+
+We use various technologies to collect information from your device and about your activities on our Service.
+
+2.1. Information collected automatically. We automatically collect information from your browser or device when you visit our Service. This information could include your IP address, device ID and type, your browser type and language, the operating system used by your device, access times, your mobile device’s geographic location while our application is actively running, and the referring website address.
+
+2.2. Cookies and Use of Cookie Data. When you visit our Service, we may assign your device one or more cookies to facilitate access to our Service and to personalize your experience. Through the use of a cookie, we also may automatically collect information about your activity on our Service, such as the pages you visit, the time and date of your visits and the links you click. If we advertise, we (or third parties) may use certain data collected on our Service to show you Gaydar advertisements on other sites or applications.
+
+2.3. Pixel tags. We embed pixel tags (also called web beacons or clear GIFs) on web pages, ads, and emails. These tiny, invisible graphics are used to access cookies and track user activities (such as how many times a page is viewed). We use pixel tags to measure the popularity of our features and services. Ad companies also use pixel tags to measure the number of ads displayed and their performance (such as how many people clicked on an ad).
+
+2.4. Mobile Device IDs. If you're using our app, we use mobile device IDs (the unique identifier assigned to a device by the manufacturer), or Advertising IDs (for iOS 6 and later), instead of cookies, to recognise you. We do this to store your preferences and track your use of our app. Unlike cookies, device IDs cannot be deleted, but Advertising IDs can be reset in “Settings” on your iPhone. Ad companies also use device IDs or Advertising IDs to track your use of the app, track the number of ads displayed, measure ad performance and display ads that are more relevant to you. Analytics companies use device IDs to track information about app usage.
+
+2.5. Information collected by third-parties for advertising purposes. We may allow service providers, advertising companies and ad networks, and other third parties to display advertisements on our Service. These companies may use tracking technologies, such as cookies or web beacons, to collect information about users who view or interact with their advertisements. We do not provide any non-anonymised personal information to third parties. Some of these third-party advertising companies may be advertising networks that may feature in services such as [Your Online Choices](http://www.youronlinechoices.com/), which offers a single location to opt out of ad targeting from member companies. Opting out will not decrease the number of advertisements you see.
+
+2.6. WHENEVER YOU VOLUNTARILY DISCLOSE PERSONAL INFORMATION ON PUBLICLY VIEWABLE SCREENS OR PAGES, THAT INFORMATION WILL BE PUBLICLY AVAILABLE AND CAN BE COLLECTED AND USED BY OTHERS! We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information.
+
+### 3\. How we use the information we collect
+
+3.1. **In General**  
+We may use information that we collect about you to: 
+
+  * deliver and improve our products and services, and manage our business;
+  * manage your account and provide you with customer support;
+  * perform research and analysis about your use of, or interest in, our or others’ products, services, or content;
+  * communicate with you by email, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us or other third parties;
+  * develop, display, and track content and advertising tailored to your interests on our Service and other sites (for non-VIP members only), including providing our advertisements to you when you visit other sites;
+  * website or mobile application analytics;
+  * verify your eligibility and deliver prizes in connection with competitions and promotions;
+  * enforce or exercise any rights in our [Terms and Conditions](https://web.archive.org/content/terms) and perform functions or services as otherwise described to you at the time of collection.
+
+
+
+**3.2. Job Applicants**
+
+3.2.1. If your personal information is submitted through our website www.cpcconnect.co.uk when applying for a position with our company, the information will be used solely in connection with considering and acting upon your application. We may retain your personal information, but only for the purpose of considering your application for current or future available positions. This information, which may include your name and contact information, prior education and experience, and other information you provide to us, may be shared with third-party service providers retained by us to collect, maintain and analyse candidate submissions for job postings.
+
+3.2.2. In all circumstances, we may perform these functions directly or use a third-party vendor to perform these functions on our behalf, who will be obligated to use your personal information only to perform services for us. 
+
+**3.3. Social Media**
+
+Also, if you access our Service from a third party social platform, such as Facebook, we may share non-personal information with that platform to the extent permitted by your agreement with it and its privacy settings.
+
+### 4\. With whom we share your information
+
+4.1. **Information Shared with Other Users**  
+When you register as a member of Gaydar, your Gaydar profile will be viewable by other users of the Service. Other members will be able to view information you have provided to us directly, any additional photos you upload, your profile name, your age, approximate number of miles away, your personal description, and information you have in common with the person viewing your profile. 
+
+4.2. **Personal information**  
+We do not share your personal information with others except as indicated in this Privacy Policy or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with: 
+
+4.2.1. **Service providers.** We may share information, including personal and financial information, with third parties that perform certain services on our behalf. These services may include providing customer service and marketing assistance, performing business and sales analysis, ad tracking and analytics, member screenings, supporting our Service functionality, and supporting contests, sweepstakes, surveys and other features offered through our Service. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
+
+4.2.2. **Other Situations.** We may disclose your information, including personal information:
+
+  * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
+  * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our [Terms and Conditions](https://web.archive.org/content/terms) , other agreements or policies.
+  * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+  * Aggregated and/or non-personal information. We may use and share non-personal information we collect under any of the above circumstances. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated, non-personal information, or personal information in hashed, non-human readable form, with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis or other business purposes. For example, we may engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognise a unique cookie on your browser to enable you to receive customised ads or content. The cookies may reﬂect de-identified demographic or other data linked to data you voluntarily have submitted to us (such as your email address), that we may share with a data provider solely in hashed, non-human readable form. To opt-out of cookies that may be set by third party data or advertising partners, please go to <http://www.aboutads.info/choices/>
+
+
+
+### 5\. Do Not Track Disclosure
+
+Do Not Track ("DNT") is a privacy preference that users can set in their web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. We are committed to providing you with meaningful choices about the information we collect and that is why we provide the opt-out links above. However, we do not recognise or respond to any DNT signals, as the Internet industry works toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT.
+
+### 6\. Third Party Websites
+
+There are a number of places on our Service where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on an advertisement on our Service, you may be taken to a website that we do not control. These third- party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We recommend that you consult the privacy statements of all third-party websites you visit by clicking on the “privacy” link typically located at the bottom of the webpage you are visiting. 
+
+### 7\. How you can access your information
+
+If you have a Gaydar account, you have the ability to review and update your personal information within the Service by opening your account and going to settings. More information about how to contact us is provided below. You also may close your account at any time by visiting the "Settings" page for your account. If you close your account, we will retain certain information associated with your account for analytical purposes and record keeping integrity, as well as to prevent fraud, enforce our take actions we deem necessary to protect the integrity of our Service or our users, or take other actions otherwise permitted by law. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies.
+
+### 8\. Your choices about collection and use of your information
+
+8.1. You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our Service because such information may be required in order for you to register as user; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions
+
+8.2. You can also control information collected by cookies. You can delete or decline cookies by changing your browser settings. Click “help” in the toolbar of most browsers for instructions.
+
+### 9\. How we protect your personal information
+
+We take security measures to help safeguard your personal information from unauthorised access and disclosure. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, chats, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email.
+
+### 10\. Information you provide about yourself while using our Service
+
+We provide areas on our Service where you can post information about yourself and others and communicate with others. Such postings are governed by our [Terms and Conditions](https://web.archive.org/content/terms). Also, whenever you voluntarily disclose personal information on publicly-viewable pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information.
+
+### 11\. Adult Restricted 
+
+Although our Service is a general audience Service, we restrict the use of our service to individuals age 18 and above. We do not knowingly collect, maintain, or use personal information from individuals under the age of 18.
+
+### 12\. Visiting our Service from outside the United Kingdom
+
+If you are visiting our Service from outside the United Kingdom, please be aware that your information may be transferred to, stored, and processed in the United Kingdom where our servers are located and our central database is operated. By using our services, you understand and agree that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.
+
+### 13\. No Rights of Third Parties
+
+This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website.
+
+### 14\. Changes to this Privacy Policy
+
+We will occasionally update this Privacy Policy. When we post changes to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. We recommend that you check our Service from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.
+
+### 15\. How to Contact Us
+
+If you have any questions about this Privacy Policy, please contact us by email as follows [support@gaydar.net](mailto:%20support@gaydar.net)
