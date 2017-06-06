@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heartandstroke.ca privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220133143id_/http%3A//www.heartandstroke.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartandstroke.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021541id_/http%3A//www.heartandstroke.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Heart and Stroke Foundation
+# Privacy policy | Heart and Stroke Foundation
 
 * * *
 
@@ -158,7 +158,7 @@ We are committed to protecting the privacy of children and we do not knowingly s
 
 HSF complies with Canada’s anti-spam legislation (CASL) and we will not send you electronic communications in contravention of this law. 
 
-We will ensure that each e-mail includes an opt-out feature and instructions on how to un-subscribe if you no longer wish to receive future e-mails from HSF. You can unsubscribe using the link included in the e-mail or by sending an e-mail to [privacyoffice@hsf.on.ca](mailto:privacyoffice@hsf.on.ca) or by telephoning us at 416-489-7111. If you do not expressly consent to receiving electronic communications, we will only communicate with you for the limited purposes permitted under CASL.  
+We will ensure that each e-mail includes an opt-out feature and instructions on how to un-subscribe if you no longer wish to receive future e-mails from HSF. You can unsubscribe using the link included in the e-mail or by sending an e-mail to [](mailto:privacyoffice@hsf.on.ca)[ON_privacyoffice@heartandstroke.ca ](mailto:ON_privacyoffice@heartandstroke.ca%20)or by telephoning us at 416-489-7111. If you do not expressly consent to receiving electronic communications, we will only communicate with you for the limited purposes permitted under CASL.  
 
     11. **User Content in Comments, Chat Rooms and Message Boards**
 
@@ -187,4 +187,4 @@ We welcome your feedback. If you have questions, comments or concerns about this
 
 
 
-Please contact us at [privacyoffice@hsf.on.ca](mailto:privacyoffice@hsf.on.ca) and we will try to get back to you as soon as possible.
+Please contact us at [ON_privacyoffice@heartandstroke.ca](mailto:ON_privacyoffice@heartandstroke.ca) and we will try to get back to you as soon as possible.
