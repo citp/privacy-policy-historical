@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mimi97.co.tv privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124190945id_/http%3A//www.co.tv/security.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mimi97.co.tv privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151520id_/http%3A//www.co.tv/security.php) for the most accurate reproduction.*
 
-# Free Co.TV domain names. Free Set Up: URL forwarding, DNS set up, Zone records or Free Sitebuilder.
+# Co.TV domain names. Free Set Up: URL forwarding, DNS set up, Zone records or Free Sitebuilder.
 
 **Privacy Policy**
 
