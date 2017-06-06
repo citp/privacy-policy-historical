@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlealley.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108215900id_/http%3A//www.articlealley.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlealley.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170702id_/http%3A//www.articlealley.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy of Article Alley the leader amongst Article Directories
 
