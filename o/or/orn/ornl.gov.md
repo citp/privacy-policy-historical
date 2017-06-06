@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ornl.gov privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229210553id_/https%3A//www.ornl.gov/ornl/contact-us/Security--Privacy-Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ornl.gov privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162556id_/https%3A//www.ornl.gov/ornl/contact-us/Security--Privacy-Notice) for the most accurate reproduction.*
 
 # Security & Privacy Notice | ORNL
 
