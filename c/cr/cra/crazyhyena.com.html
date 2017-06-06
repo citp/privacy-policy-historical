@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the crazyhyena.com privacy policy that was archived on 2016-10-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161031105407id_/http%3A//crazyhyena.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crazyhyena.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606021711id_/http%3A//crazyhyena.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" class=" js no-touch"><!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]--><!--[if gt IE 8]><!--><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -59,7 +59,7 @@
 		<!-- Site Verifications -->
 		<meta name="majestic-site-verification" content="MJ12_0aecab43-8878-4dbf-83cf-7f389e5e22ba">
 
-		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.5&amp;appId=371274256240315"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
 		  var _gaq = _gaq || [];
 		  _gaq.push(['_setAccount', 'UA-30309230-1']);
@@ -76,15 +76,23 @@
 		    <link rel="stylesheet" href="/Hyena/jquery-Hyena-2.1.css"><link rel="stylesheet" href="/css/plugins.css"><link rel="stylesheet" href="/css/themes.css"></head>
     <body>
 		<div id="fb-root"></div>
-		<script>(function(d, s, id) {
-		  var js, fjs = d.getElementsByTagName(s)[0];
-		  if (d.getElementById(id)) return;
-		  js = d.createElement(s); js.id = id;
-		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=371274256240315";
-		  fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));</script>
-
 		<script language="JavaScript">
+		  window.fbAsyncInit = function() {
+		    FB.init({
+		      appId      : '371274256240315',
+		      xfbml      : true,
+		      version    : 'v2.8'
+		    });
+		  };
+		
+		  (function(d, s, id){
+		     var js, fjs = d.getElementsByTagName(s)[0];
+		     if (d.getElementById(id)) {return;}
+		     js = d.createElement(s); js.id = id;
+		     js.src = "//connect.facebook.net/en_US/sdk.js";
+		     fjs.parentNode.insertBefore(js, fjs);
+		   }(document, 'script', 'facebook-jssdk'));
+
 		function FBShare(urlToShare) {
 			FB.ui({
 				method	: 'share',
@@ -376,6 +384,6 @@ $(function () {
 
 </script>
 <script async="" src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
+<script async="" defer="" src="//assets.pinterest.com/js/pinit.js"></script>
     
 </body></html>
