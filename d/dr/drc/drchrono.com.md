@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drchrono.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509083525id_/https%3A//www.onpatient.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drchrono.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185359id_/https%3A//www.onpatient.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | onpatient
 
@@ -48,7 +48,7 @@ We use personal and non-personal information for:
 
   * Maintaining and operating the onpatient website (this may include registering you, processing payments or providing you with customer support);
   * Responding to questions and communications, which we retain in the ordinary course of business;
-  * Announcements about onpatient features, terms, policies or other aspects of the onaptient website;
+  * Announcements about onpatient features, terms, policies or other aspects of the onpatient website;
   * Protecting the onpatient website, the information it protects, the rights of third parties and in response to legal process (more fully discussed below) and
   * Any other purpose described in this Policy. We use non-personal information for:
   * Evaluating and profiling the performance of the onpatient website, including analyzing usage trends and patterns and measuring the effectiveness of content, advertising, features or services;
@@ -84,7 +84,7 @@ In any direct communication, users may send information to one another. Dependin
 
 You should be aware that this Policy covers only the information you submit through the onpatient website or the information that is provided to you by your provider via the onpatient website. If you exchange or transmit information through any means other than the onpatient website, such activity is not covered by this Policy.
 
-Because the onpatient website allows users to share information, you should take care in selecting the persons with whom you share your Records. Although the onaptient website processes and facilitates such transmissions, drchrono does not take responsibility for the actions of other users or persons with whom you share your Records.
+Because the onpatient website allows users to share information, you should take care in selecting the persons with whom you share your Records. Although the onpatient website processes and facilitates such transmissions, drchrono does not take responsibility for the actions of other users or persons with whom you share your Records.
 
 Confidentiality of Health Information: Some of our users—such as healthcare providers— are subject to laws and regulations governing the use and disclosure of health information they create or receive. Included among them is the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”), the Health Information Technology for Economic and Clinical Health of 2009 (“HITECH”), and the regulations adopted thereunder. When drchrono stores, processes or transmits “individually identifiable health information” (as such term is defined by HIPAA) on behalf of a health care provider who has entered a Healthcare Provider User Agreement, we do so as its “business associate” (as also defined by HIPAA). Under this agreement, drchrono is prohibited from using individually identifiable health information in a manner that the provider itself may not. drchrono is required to, among other things, apply reasonable and appropriate measures to safeguard the confidentiality, integrity and availability of individually identifiable health information we store and process on behalf of such providers. drchrono is subject to laws and regulations governing the use and information of certain personal and health information, including HIPAA, when it operates as a business associate of a healthcare provider.
 
@@ -164,6 +164,6 @@ If you desire to deactivate your account please have your provider contact us. U
 
 Unless you are an administrator that has administrative rights over another user’s account, you are not entitled to review another user’s personal information or Records. Accordingly, you will not be able to access, update or delete that shared information pursuant to this Policy for information that you share with another user or other party through the onpatient website. Others may also submit personal information that identifies you (for example, when submitting medical family history). You will also not be able to access, update or delete that information pursuant to this Policy. Certain users—such as healthcare providers—may be required under HIPAA and other applicable laws to retain such information for extended periods of time. drchrono will continue to retain such information on their behalf. Patients should submit requests to access or correct their health information directly to their providers.
 
-drchrono indefinitely stores non-personal information, including Engagement Data and de- dentified health information, as well as any feedback you provide us.
+drchrono indefinitely stores non-personal information, including Engagement Data and de-identified health information, as well as any feedback you provide us.
 
 Last updated October 6th, 2014.
