@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the carbuyingtips.com privacy policy that was archived on 2016-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229003618id_/https%3A//www.carbuyingtips.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carbuyingtips.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606223449id_/https%3A//www.carbuyingtips.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -75,7 +75,7 @@ sup	{font-size: 0.66em}
 .three-line-menu	{position:relative; padding-left:1.25em; font-size: 2em; color: #000000}
 .three-line-menu:before	{content: ""; position: absolute; left: 0; top: 0.25em; width: 1em; height: 0.125em; border-top: .125em solid black; border-bottom: .375em double black}
 
-#topbar	{height: 12.5em; width: 82.5em; margin: 0 auto 0 auto}
+#topbar	{height: 12.5em; width: 82.5em; margin: 0 auto 0 auto; }
 #topbar ul {border: 0; margin: 0; padding: 0; list-style-type: none; text-align: center}
 #topbar ul li {display: block; float: left; text-align: left; padding: 0; margin: 0; width: 16em}
 #topbar ul li a {background: #6c6c6c; padding: 0.5em; margin: 0; color: #F5F5F5; font-size: 1.5em; font-weight: bold; text-decoration: none; display: block}
@@ -210,6 +210,11 @@ div.footerlinks ul li a	{display:list-item; list-style:disc; list-style-position
 #copyright	{min-height: 2.5em; margin: 1em 0 1em 0; clear: both}
 
 div.disqus {max-height:550px; padding-right: 10px; overflow-y: scroll;}
+
+#adexpand	{float: left; display:block; width: 100%; padding: 0 0 0 2em; cursor: pointer}
+#adexpandmob	{display: none;}
+#buttonclosead		{float: left; display:block; width: 100%; padding: 0; cursor: pointer}
+#adpolicy	{display:none; table-layout: fixed; z-index: 1; position: absolute; top: 0em; right: 0em; width: 32em; border-radius: 0; background: #d8d8d8; padding: .5em}
 </style>
 <link rel="stylesheet" type="text/css" media="screen and (max-width: 990px)" href="https://www.carbuyingtips.com/css/mobile.css">
 <link rel="stylesheet" type="text/css" media="screen and (max-width: 300px)" href="https://www.carbuyingtips.com/css/narrow.css">
@@ -225,6 +230,7 @@ body#about a#aboabout,
 body#pressreleases a#abopressreleases,
 body#sitemap a#abositemap,
 body#privacy a#aboprivacy,
+body#disclosure a#aboadvertise,
 body#author a#aboauthor {color: #000000; background: #FFFFFF; border-top: none; border-bottom: none}
 </style>
 
@@ -234,11 +240,23 @@ body#author a#aboauthor {color: #000000; background: #FFFFFF; border-top: none; 
 <body id="privacy">
 
 <div id="topbar">
+
+	<div id="adpolicy">
+		<div id="buttonclosead" onclick="toggle('adpolicy');">
+			<div class="right">CLOSE &nbsp;&nbsp;&nbsp;X</div>
+		</div>
+		<h3>Advertiser Disclosure</h3>
+		<p>CarBuyingTips.com has affiliate referral relationships with multiple web sites. This means that for many of the links you see on this site, we are paid referral fees for leads generated from visitors that click on links or fill out forms on this site. In some cases we are paid a commission for a purchase made on a site that is linked to from CarBuyingTips.com. Please view our <a href="https://www.carbuyingtips.com/disclosure.htm">advertising policy page</a> for more information.</p>
+	</div>
+
 	<div id="dividerlogo">
 		<a onclick="_gaq.push(['_trackEvent', 'homepath', 'clicklogo']);" href="https://www.carbuyingtips.com">
 		<img id="fullsizelogo" src="https://www.carbuyingtips.com/pics/cbt-logo-379wideblue2.png" alt="CarBuyingTips.com desktop" class="logoleft">
 		<img id="mobilelogo" src="https://www.carbuyingtips.com/pics/cbt-logo-mobile.png" alt="CarBuyingTips.com mobile" class="logocenter">
 		</a>
+		<div id="adexpandmob" class="mobile" onclick="toggle('adpolicy');">
+			<h3 class="center" style="#3a3a3a">Advertiser Disclosure</h3>
+		</div>
 	</div>
 
 	<div id="dividerleft">
@@ -254,11 +272,16 @@ body#author a#aboauthor {color: #000000; background: #FFFFFF; border-top: none; 
 	<div id="savings">
 		<div id="savenumber">
 			<span class="break">Our Visitor's Savings:</span>
-			<span class="break large">$13,324,145</span>
+			<span class="break large">$13,337,912</span>
 		</div>
 
 		<div id="addsavings">
 			<div id="addsavingsbutton"><a href="https://www.carbuyingtips.com/savometer.htm">Add Savings</a></div>
+		</div>
+
+		<div id="adexpand" onclick="toggle('adpolicy');">
+			<br>
+			<h3 style="#3a3a3a">Advertiser Disclosure</h3>
 		</div>
 	</div>
 </div> <!-- end topbar -->
@@ -298,6 +321,7 @@ body#author a#aboauthor {color: #000000; background: #FFFFFF; border-top: none; 
 	<li><a href="https://www.carbuyingtips.com/pressreleases.htm" id="abopressreleases">Press Information</a></li>
 	<li><a href="https://www.carbuyingtips.com/sitemap.htm" id="abositemap">Site Map</a></li>
 	<li><a href="https://www.carbuyingtips.com/privacy.htm" id="aboprivacy">Privacy Policy</a></li>
+	<li><a href="https://www.carbuyingtips.com/disclosure.htm" id="aboadvertise">Advertising Policy</a></li>
 </ul></div>
 
 <div id="container">
@@ -385,6 +409,13 @@ body#author a#aboauthor {color: #000000; background: #FFFFFF; border-top: none; 
 
 </ul>
 </div>
+
+<div class="clearboth"></div>
+
+<div class="marginten">
+	<p>CarBuyingTips.com has affiliate referral relationships with multiple web sites. This means that for many of the links you see on this site, we are paid referral fees for leads generated from visitors that click on links or fill out forms on this site. In some cases we are paid a commission for a purchase made on a site that is linked to from CarBuyingTips.com. Please view our <a href="https://www.carbuyingtips.com/disclosure.htm">advertising policy page</a> for more information.</p>
+</div>
+
 <div id="aboutcontainer">
 <div id="aboutlinks">
 <ul>
@@ -399,6 +430,8 @@ body#author a#aboauthor {color: #000000; background: #FFFFFF; border-top: none; 
 <li><a href="https://www.carbuyingtips.com/disclosure.htm">Disclosure</a></li>
 </ul>
 </div>
+
+
 <div id="followuslinks">
 <span class="floatleft bold">Follow Us:</span>
 <a href="https://www.facebook.com/carbuyingtips" target="_blank"><img class="floatleft padfive noimgborder" src="https://www.carbuyingtips.com/pics/facebook.png" alt="Facebook"></a>
@@ -408,7 +441,7 @@ body#author a#aboauthor {color: #000000; background: #FFFFFF; border-top: none; 
 <a href="https://www.youtube.com/user/carbuyingtipscom?sub_confirmation=1" target="_blank"><img class="floatleft padfive noimgborder" src="https://www.carbuyingtips.com/pics/youtube.png" alt="You Tube"></a>
 </div>
 </div>
-<div id="copyright"><p class="center">Copyright © 2016 ConsumerNet, Inc. CarBuyingTips.com® is a registered trademark of ConsumerNet, Inc.</p></div>
+<div id="copyright"><p class="center">Copyright © 2017 ConsumerNet, Inc. CarBuyingTips.com® is a registered trademark of ConsumerNet, Inc.</p></div>
 </div> 
 <script type="text/javascript">
 <!--
