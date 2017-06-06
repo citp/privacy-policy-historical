@@ -1,6 +1,23 @@
-> *The following text is extracted and transformed from the ratandboa.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212160813id_/http%3A//www.ratandboa.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratandboa.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184351id_/https%3A//www.ratandboa.com/pages/size-guide%232) for the most accurate reproduction.*
 
-# Privacy Policy – Rat & Boa
+# Size guide – Rat & Boa
+
+Yes we do, you can purchase them on our shop with the following link -
+
+[Gift Cards](https://www.ratandboa.com/collections/all/products/gift-card)
+
+Please note, Gift Cards can be purchased in the following values
+
+\- 25.00  
+\- 50.00  
+\- 100.00  
+\- 200.00
+
+Once you have purchased your Gift Card, you will receive an email from us with a code to use on our online store.
+
+Where do I apply my code?
+
+You can apply this code once you have reached the checkout, once provided it will automatically be applied to your cart.
 
 SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
