@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the volt.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030131752id_/http%3A//www.volt.com/uploadedFiles/Legal/Volt%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volt.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062627id_/http%3A//volt.com/uploadedFiles/Legal/Volt%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
-# 1
+# In the course of its business, the Company collects personal information, which was given to or made available to the Company for an intended business function or purpose. The information may include a name combined with a unique identification number, including a social security and/or national identification number, home address, mailing address, e-mail address, social media identifier,
 
 Volt Information Sciences, Inc. Privacy Policy
 Effective Date: September 29, 2016
@@ -20,23 +20,23 @@ Use and Disclosure of Your Personal Information
 Personal Information is used in connection with the Company’s business, including providing
 services to our employment candidates, employees, customers and for other lawful purposes.
 The Company does not disclose Personal Information except in the following instances:
-     •   With the subsidiaries and affiliates within the Company, as needed;
-     •   With your express consent;
-     •   Where permitted and/or required by our customer/client agreements, including for
+        With the subsidiaries and affiliates within the Company, as needed;
+        With your express consent;
+        Where permitted and/or required by our customer/client agreements, including for
          billing purposes;
-     •   To facilitate job opportunities for our candidates;
-     •   With third party entities, vendors, consultants, agents and/or other service providers
+        To facilitate job opportunities for our candidates;
+        With third party entities, vendors, consultants, agents and/or other service providers
          engaged to handle or manage some or all of the Personal Information on our behalf, who
          shall be required to protect Personal Information from dissemination and/or use;
-     •   When we believe disclosure is appropriate to prevent physical harm or financial loss
+        When we believe disclosure is appropriate to prevent physical harm or financial loss
          and/or when reasonably necessary to an investigation of suspected or actual illegal
          activities;
-     •   When required and/or otherwise permitted by law;
-     •   In response to lawful requests by public authorities, including to meet national security or law
+        When required and/or otherwise permitted by law;
+        In response to lawful requests by public authorities, including to meet national security or law
          enforcement requirements;
-     •   If you are a customer/client, the Company may share information with third parties, such as
+        If you are a customer/client, the Company may share information with third parties, such as
          with a credit bureau or agency; and
-     •   In connection with any merger, sale of Company assets or acquisition of all or a portion of
+        In connection with any merger, sale of Company assets or acquisition of all or a portion of
          the Company’s business or with respect to any Company financing.
                                                        1
 
@@ -95,7 +95,7 @@ Company’s website.
 Requests to access and to make changes in Personal Information
 In the event that any individual wishes to access, change, correct or amend inaccurate Personal
 Information and its treatment as covered by this Privacy Policy, he or she must submit a written
-request to Ciso@volt.com
+request to Privacy@volt.com
 Who to Contact About this Privacy Policy
 Any questions or complaints regarding the Company’s Privacy Policy should be directed
 to:
@@ -103,5 +103,5 @@ Volt Information Sciences, Inc.
 1133 Avenue of the Americas
 New York, NY 10036
 Attn: Vice President, of Accounting Operations and
-Risk Management Ciso@volt.com.
+Risk Management Privacy@volt.com.
                                                     3
