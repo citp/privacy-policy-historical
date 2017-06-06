@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the samhsa.gov privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230100943id_/http%3A//www.samhsa.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samhsa.gov privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172156id_/https%3A//www.samhsa.gov/privacy) for the most accurate reproduction.*
 
-# Privacy | SAMHSA
+# Privacy | SAMHSA - Substance Abuse and Mental Health Services Administration
 
 Thank you for visiting our SAMHSA web site and reviewing our Privacy Policy. This policy pertains to [SAMHSA.gov](http://www.samhsa.gov/) and all SAMHSA funded websites. Our policy is clear:
 
