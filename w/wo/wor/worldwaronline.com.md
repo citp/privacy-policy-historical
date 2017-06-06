@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldwaronline.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027095546id_/http%3A//www.chilltime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwaronline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606080328id_/http%3A//www.chilltime.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy of Chilltime
+# Chilltime Legal - Epic Strategy Games
 
 Effective Date: 23 August 2010  
 (Last Updated 10 Outubro 2010)
@@ -98,7 +98,3 @@ Chilltime does not provide any Personally Identifiable Information to third-part
 Security
 
 Chilltime takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), we encrypt that information using secure socket layer technology (SSL). (To learn more about SSL, go to http://en.wikipedia.org/wiki/Secure_Sockets_Layer). Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of Chilltime Web Site, please contact us at privacy@chilltime.com
-
-Additional Questions
-
-Again, feel free to contact us by sending an email to privacy@chilltime.com , any time, if you have further questions about Chilltime or this Privacy Policy, or if you want to receive a previous version of this document.
