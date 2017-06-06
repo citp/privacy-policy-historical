@@ -1,354 +1,901 @@
-<!--The following is the downloaded HTML source of the buildzoom.com privacy policy that was archived on 2015-04-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150419092825id_/http%3A//www.buildzoom.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buildzoom.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606173658id_/https%3A//buildzoom.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-	<meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"441a86fa0c","applicationID":"2788934","transactionName":"dlhbQEMMWllQEB1EBVJSRhtBEV9DVAFLaxRaW1xXSA==","queueTime":0,"applicationTime":23,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-632.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA4DVl5WGwEHXFlbBAU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
-		<meta name="apple-itunes-app" content="app-id=640913699">
-	<link rel="icon" href="http://s3.buildzoom.com/stock/favicon.ico" type="image/x-icon">
-	<link href="http://s3.buildzoom.com/stock/favicon.ico" rel="image_src">
-	<link rel="shortcut icon" href="http://s3.buildzoom.com/stock/favicon.ico" type="image/x-icon">
-	<title>Privacy Policy</title>
-	<meta name="description" content="Use building permit history, customer reviews, and other tools to figure out who the best -- and worst -- general contractors are. Hiring a contractor has never been easier.">
-	<meta name="robots" content="index,follow">
-	<link rel="canonical" href="http://www.buildzoom.com/privacy-policy">
+<!DOCTYPE html><html lang="en" xmlns:ng="http://angularjs.org"><head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://d3tcjgtc5gdpsf.cloudfront.net/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"441a86fa0c","applicationID":"2788934","transactionName":"dlhbQEMMWllQEB1XC1hHVFpITEZHXBRTVx1qR1pYWABP","queueTime":0,"applicationTime":55,"agent":""}</script>
+<script>(window.NREUM||(NREUM={})).loader_config={xpid:"UA4DVl5WGwEHXFlbBAU="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link rel="icon" href="//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/logos/modern-favicon.ico" type="image/x-icon">
+<link rel="mask-icon" sizes="any" href="//assets.buildzoom.com/assets/house-favicon.svg" color="#34548B">
+<meta name="theme-color" content="#4a90e2">
+<link href="//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/logos/modern-favicon.ico" rel="image_src">
+<link rel="shortcut icon" href="//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/logos/modern-favicon.ico" type="image/x-icon">
+<title>Privacy Policy</title>
+<meta name="description" content="Remodeling and custom home building has never been easier. We've analyzed 100 million building permits and reviews to help you hire the best general contractor for any construction project.">
+<meta name="robots" content="index,follow">
+<meta name="google-site-verification" content="YK95MHCxB8ZM7Ai3jBoLy4scNQOGgwyYqFmUUZgz6Dw">
+<link rel="publisher" href="https://plus.google.com/+Buildzoom/">
+<link rel="canonical" href="https://www.buildzoom.com/privacy-policy">
+<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin="">
+<link rel="preconnect" href="https://google-analytics.com">
+<link rel="preconnect" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://ajax.googleapis.com">
+<link rel="preconnect" href="https://mts1.googleapis.com">
+<link rel="preconnect" href="https://maps.googleapis.com">
+<link rel="preconnect" href="https://maps.gstatic.com">
+<link rel="preconnect" href="https://mts0.googleapis.com">
+<link rel="preconnect" href="https://api.mixpanel.com">
+<link rel="preconnect" href="https://cdn.mxpnl.com">
+<link rel="preconnect" href="https://fast.fonts.net" crossorigin="">
+<link rel="preconnect" href="https://res.cloudinary.com">
+<link rel="preconnect" href="//assets.buildzoom.com">
+<link rel="preconnect" href="https://cdnjs.cloudflare.com">
+<link rel="preconnect" href="//images.buildzoom.com">
+<link rel="dns-prefetch" href="https://fonts.googleapis.com">
+<link rel="dns-prefetch" href="https://google-analytics.com">
+<link rel="dns-prefetch" href="https://www.google-analytics.com">
+<link rel="dns-prefetch" href="https://ajax.googleapis.com">
+<link rel="dns-prefetch" href="https://mts1.googleapis.com">
+<link rel="dns-prefetch" href="https://maps.googleapis.com">
+<link rel="dns-prefetch" href="https://maps.gstatic.com">
+<link rel="dns-prefetch" href="https://mts0.googleapis.com">
+<link rel="dns-prefetch" href="https://api.mixpanel.com">
+<link rel="dns-prefetch" href="https://cdn.mxpnl.com">
+<link rel="dns-prefetch" href="https://fast.fonts.net">
 
-	<link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap.min.css" media="all" rel="stylesheet" type="text/css">
-	  <link href="http://fonts.googleapis.com/css?family=Sanchez" media="all" rel="stylesheet" type="text/css">
-	  <link href="http://assets.buildzoom.com/assets/pages-6b1522ee13907a3124eb365660839cf4.css" media="all" rel="stylesheet" type="text/css">
-
-  
-
-  
-
-	<link href="http://assets.buildzoom.com/assets/signup-2fc5fe88531e88132ad946da607d6f82.css" media="all" rel="stylesheet" type="text/css">
-	  <script type="text/javascript">
-  	var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-15886463-1']);
+<link rel="dns-prefetch" href="https://res.cloudinary.com">
+<link rel="dns-prefetch" href="//assets.buildzoom.com">
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
+<link rel="dns-prefetch" href="//images.buildzoom.com">
+<script>
+	if (document.images) {
+		(new Image()).src = "//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/logo2xx.png";
+		
+	}
+</script>
+<link rel="stylesheet" media="all" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap.min.css">
+<style type="text/css">@font-face{font-family:'Avenir';font-style:normal;font-weight:300;src:url("//res.cloudinary.com/ht2jtxwwo/raw/upload/w_auto/olds3/_assets/fonts/avenir/avenir-35.woff") format("woff")}@font-face{font-family:'Avenir';font-style:normal;font-weight:500;src:url("//res.cloudinary.com/ht2jtxwwo/raw/upload/w_auto/olds3/_assets/fonts/avenir/avenir-55.woff") format("woff")}@font-face{font-family:'Avenir';font-style:normal;font-weight:600;src:url("//res.cloudinary.com/ht2jtxwwo/raw/upload/w_auto/olds3/_assets/fonts/avenir/avenir-65.woff") format("woff")}@font-face{font-family:'Avenir';font-style:normal;font-weight:800;src:url("//res.cloudinary.com/ht2jtxwwo/raw/upload/w_auto/olds3/_assets/fonts/avenir/avenir-85.woff") format("woff")}@font-face{font-family:'Oswald';font-style:normal;font-weight:300;src:local("Oswald Light"),local("Oswald-Light"),url(//fonts.gstatic.com/s/oswald/v10/l1cOQ90roY9yC7voEhngDJBw1xU1rKptJj_0jans920.woff2) format("woff2"),url(//fonts.gstatic.com/s/oswald/v10/l1cOQ90roY9yC7voEhngDLO3LdcAZYWl9Si6vvxL-qU.woff) format("woff")}@font-face{font-family:'Oswald';font-style:normal;font-weight:400;src:local("Oswald Regular"),local("Oswald-Regular"),url(//fonts.gstatic.com/s/oswald/v10/Qw6_9HvXRQGg5mMbFR3PhuvvDin1pK8aKteLpeZ5c0A.woff2) format("woff2"),url(//fonts.gstatic.com/s/oswald/v10/qs_6LdoYjCitupC9judWT-vvDin1pK8aKteLpeZ5c0A.woff) format("woff")}@font-face{font-family:'Oswald';font-style:normal;font-weight:700;src:local("Oswald Bold"),local("Oswald-Bold"),url(//fonts.gstatic.com/s/oswald/v10/dI-qzxlKVQA6TUC5RKSb35Bw1xU1rKptJj_0jans920.woff2) format("woff2"),url(//fonts.gstatic.com/s/oswald/v10/dI-qzxlKVQA6TUC5RKSb37O3LdcAZYWl9Si6vvxL-qU.woff) format("woff")}.nav-alerts{min-width:45px}.nav-alerts .alerts-indicator-icon{background:url("//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/_thumbnails/nav/alert.png") no-repeat;width:17px;height:18px;background-size:17px 18px;margin:auto}.nav-alerts .email-icon{background:url("//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/_thumbnails/nav/email.png") no-repeat;width:21px;height:16px;background-size:21px 16px;float:left;margin-top:-2px;margin-left:10px}.nav-alerts .phone-icon{background:url("//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/_thumbnails/nav/phone.png") no-repeat;width:17px;height:16px;background-size:17px 16px;float:left;margin-top:-1px;margin-left:10px}.nav-alerts .error-icon{background:url("//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/_thumbnails/nav/error.png") no-repeat;width:20px;height:18px;background-size:20px 18px;float:left;margin-top:-1px;margin-left:10px}.nav-alerts .info-icon{float:left;margin-top:-1px;font-size:20px;position:absolute;top:50%;transform:translateY(-50%);margin-left:10px}.nav-alerts .unread-notification{background-color:#e1e9f3}.nav-alerts .unread-notification .info-icon:before{content:"\00B7";color:#ea495d;font-size:60px;position:absolute;top:50%;transform:translate(-125%, -50%);line-height:20px}.nav-alerts .nav-popover-row{cursor:pointer;position:relative;margin:0px 0px !important}.nav-alerts .nav-popover-row:after{position:absolute;top:50%;right:0%;transform:translate(-100%, -50%);content:"\203A";font-size:25px}.nav-alerts .nav-popover-row .popover-row-text{margin-left:43px}.nav-alerts .nav-popover-row .row-text-error{color:#F5A623}@media (max-width: 767px){.nav-alerts{min-width:39px}}@media (max-width: 767px){header .navbar-bulletin{float:right;margin-bottom:-3px;margin-right:8px}header .navbar-bulletin li.dropdown{display:inline-block}header .navbar-bulletin li.dropdown>a{height:52px;display:table-cell;vertical-align:middle}header .nav-popover .nav-popover-container{-webkit-appearance:none;-moz-appearance:none;box-shadow:none;-webkit-box-shadow:none;-moz-box-shadow:none}}.nav-projects{min-width:42px}.nav-projects .project-indicator-icon{background:url("//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/_thumbnails/nav/project-4.png") no-repeat;width:19px;height:18px;background-size:19px 18px;margin:-2px auto 0px;position:relative}.nav-projects .project-indicator-icon .navbar-badge-indicator{top:-6px}@media (max-width: 767px){.nav-projects .project-indicator-icon{margin:10px}}.navbar input{font-size:12px;padding:9px 7px}.navbar .form-group{position:relative}.navbar .form-group:after{clear:both;float:left}.navbar .navbar-form{margin-top:9px}.navbar .navbar-form .twitter-typeahead{width:125px;position:relative}.navbar .navbar-form .twitter-typeahead .tt-input,.navbar .navbar-form .twitter-typeahead .tt-hint{-moz-border-radius-topleft:0px;-webkit-border-top-left-radius:0px;border-top-left-radius:0px;-moz-border-radius-bottomleft:0px;-webkit-border-bottom-left-radius:0px;border-bottom-left-radius:0px;width:100%}.navbar .navbar-form .twitter-typeahead .tt-dropdown-menu{width:100%;min-width:160px;margin-top:2px;padding:5px 0;font-size:14px;text-transform:capitalize;background-color:#fff;border:1px solid #ccc;border:1px solid rgba(0,0,0,0.2);*border-right-width:2px;*border-bottom-width:2px;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;-webkit-box-shadow:0 5px 10px rgba(0,0,0,0.2);-moz-box-shadow:0 5px 10px rgba(0,0,0,0.2);box-shadow:0 5px 10px rgba(0,0,0,0.2);-webkit-background-clip:padding-box;-moz-background-clip:padding;background-clip:padding-box}.navbar .navbar-form .twitter-typeahead .tt-dropdown-menu .tt-suggestion{display:block;padding:3px 12px}.navbar .navbar-form .twitter-typeahead .tt-dropdown-menu .tt-suggestion.tt-cursor{background-color:#345389;cursor:pointer;color:#fff}.navbar .navbar-form .twitter-typeahead .tt-dropdown-menu .tt-suggestion.tt-cursor a{color:#fff}.navbar .navbar-form .twitter-typeahead .tt-dropdown-menu .tt-suggestion p{margin:0}.navbar .navbar-form #txt_search_key{display:inline-block;width:165px;border-top-right-radius:0;border-bottom-right-radius:0;border-right:0;margin-right:-4px}.navbar .navbar-form #location{width:125px;-moz-border-radius-topleft:0px;-webkit-border-top-left-radius:0px;border-top-left-radius:0px;-moz-border-radius-bottomleft:0px;-webkit-border-bottom-left-radius:0px;border-bottom-left-radius:0px}.navbar .navbar-form .navbar-search-button{color:#ffffff;background-color:transparent;border-color:#bfcde3;text-transform:uppercase;text-shadow:0 -1px 1px rgba(0,0,0,0.15);position:relative;padding:6px 12px;min-width:40px}.navbar .navbar-form .navbar-search-button:hover,.navbar .navbar-form .navbar-search-button:focus,.navbar .navbar-form .navbar-search-button:active{color:#3d567c;text-shadow:none;background-color:#FFFFFF;border-color:#fff}@media (max-width: 1199px){.navbar .navbar-form #txt_search_key{width:130px}.navbar .navbar-form #location{width:110px}}@media (max-width: 991px){.navbar .navbar-form{margin-right:-15px;margin-left:-10px}.navbar .navbar-form #txt_search_key{width:150px}.navbar .navbar-form #location{width:85px}.navbar .navbar-form .twitter-typeahead{width:70px}}@media (max-width: 767px){.navbar .navbar-form{border-top:none;border-bottom:1px solid #273F68;margin-top:0;margin-bottom:0}.navbar .navbar-form #location{-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;width:100%}.navbar .navbar-form .twitter-typeahead{width:100%;position:relative}.navbar .navbar-form .twitter-typeahead .tt-input,.navbar .navbar-form .twitter-typeahead .tt-hint{-moz-border-radius-topleft:0px;-webkit-border-top-left-radius:0px;border-top-left-radius:0px;-moz-border-radius-bottomleft:0px;-webkit-border-bottom-left-radius:0px;border-bottom-left-radius:0px;width:100%}.navbar .navbar-form .twitter-typeahead .tt-dropdown-menu{width:100%;min-width:160px;margin-top:2px;padding:5px 0;font-size:14px;text-transform:capitalize;background-color:#fff;border:1px solid #ccc;border:1px solid rgba(0,0,0,0.2);*border-right-width:2px;*border-bottom-width:2px;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;-webkit-box-shadow:0 5px 10px rgba(0,0,0,0.2);-moz-box-shadow:0 5px 10px rgba(0,0,0,0.2);box-shadow:0 5px 10px rgba(0,0,0,0.2);-webkit-background-clip:padding-box;-moz-background-clip:padding;background-clip:padding-box}.navbar .navbar-form .twitter-typeahead .tt-dropdown-menu .tt-suggestion{display:block;padding:3px 12px}.navbar .navbar-form .twitter-typeahead .tt-dropdown-menu .tt-suggestion.tt-cursor{background-color:#345389;cursor:pointer;color:#fff}.navbar .navbar-form .twitter-typeahead .tt-dropdown-menu .tt-suggestion.tt-cursor a{color:#fff}.navbar .navbar-form .twitter-typeahead .tt-dropdown-menu .tt-suggestion p{margin:0}.navbar .navbar-form #txt_search_key{-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;display:block;width:100%;margin-bottom:10px}.navbar .navbar-form .navbar-search-button{width:100%;margin-top:7px}}@media (min-width: 768px) and (max-width: 768px){.navbar .navbar-form{display:none}}.nav-transparent:not(.nav-transparent-invisible) .nav .dropdown:hover .dropdown-toggle:before,.nav-transparent:not(.nav-transparent-invisible) .nav .dropdown.open-v2 .dropdown-toggle:before{border:none}.nav .dropdown .nav-dropdown-content{-webkit-transition:0.2s all ease-in-out;-moz-transition:0.2s all ease-in-out;-ms-transition:0.2s all ease-in-out;-o-transition:0.2s all ease-in-out;transition:0.2s all ease-in-out;position:fixed;left:0px;top:52px;width:100%;background-color:rgba(0,0,0,0.9);height:0px;overflow:hidden;font-size:13px;line-height:1.65;color:#afb2b5}.nav .dropdown .nav-dropdown-content .container{padding-top:30px;padding-bottom:30px;position:relative}.nav .dropdown .nav-dropdown-content .container.container-photo-ribbon{max-width:none;height:240px}.nav .dropdown .nav-dropdown-content .container.container-photo-ribbon .photo-ribbon-wrapper{display:table;position:absolute;top:50%;left:50%;-moz-transform:translate(-50%, -50%);-o-transform:translate(-50%, -50%);-ms-transform:translate(-50%, -50%);-webkit-transform:translate(-50%, -50%);transform:translate(-50%, -50%);width:2710px}.nav .dropdown .nav-dropdown-content .container.container-photo-ribbon .photo-ribbon-wrapper .photo-ribbon-item{display:inline-block;float:left;height:100%}.nav .dropdown .nav-dropdown-content .container.container-photo-ribbon .photo-ribbon-wrapper .photo-ribbon-item.photo-ribbon-content{position:relative;width:400px;height:145px;text-align:center}.nav .dropdown .nav-dropdown-content .container.container-photo-ribbon .photo-ribbon-wrapper .photo-ribbon-item.photo-ribbon-content .photo-ribbon-content-wrapper{position:absolute;top:50%;-moz-transform:translateY(-50%);-o-transform:translateY(-50%);-ms-transform:translateY(-50%);-webkit-transform:translateY(-50%);transform:translateY(-50%);padding:0 15px}.nav .dropdown .nav-dropdown-content .container.container-photo-ribbon .photo-ribbon-wrapper .photo-ribbon-item.photo-ribbon-content .photo-ribbon-content-wrapper .photo-ribbon-header{color:#FFFFFF;font-size:24px;font-weight:600;text-transform:capitalize;margin:0 0 2px 0}.nav .dropdown .nav-dropdown-content .container.container-photo-ribbon .photo-ribbon-wrapper .photo-ribbon-item.photo-ribbon-content .photo-ribbon-content-wrapper .photo-ribbon-header.sub-header{opacity:0.6;font-size:16px;text-transform:none;margin-bottom:10px}.nav .dropdown .nav-dropdown-content .container.container-photo-ribbon .photo-ribbon-wrapper .photo-ribbon-item.photo-ribbon-content .photo-ribbon-content-wrapper .photo-ribbon-buttons .photo-ribbon-button{width:150px;display:inline-block}.nav .dropdown .nav-dropdown-content .container.container-photo-ribbon .photo-ribbon-wrapper .photo-ribbon-item.photo-ribbon-content .photo-ribbon-content-wrapper .photo-ribbon-buttons .photo-ribbon-button:first-child{margin-right:8px}.nav .dropdown .nav-dropdown-content .container.container-photo-ribbon .photo-ribbon-wrapper .photo-ribbon-item.photo-ribbon-photos .photo-ribbon-photo{height:145px;width:180px;overflow:hidden;display:inline-block;float:left}.nav .dropdown .nav-dropdown-content .container.container-photo-ribbon .photo-ribbon-wrapper .photo-ribbon-item.photo-ribbon-photos .photo-ribbon-photo:not(:last-child){margin-right:15px}.nav .dropdown .nav-dropdown-content .container.container-photo-ribbon .photo-ribbon-wrapper .photo-ribbon-item.photo-ribbon-photos .photo-ribbon-photo:hover{-moz-opacity:0.5;-khtml-opacity:0.5;opacity:0.5;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=$ms_value);filter:alpha(opacity=50)}.nav .dropdown .nav-dropdown-content .container .dropdown-content-title{color:#ffffff;text-transform:uppercase;font-weight:800;margin-bottom:18px;white-space:nowrap}.nav .dropdown .nav-dropdown-content .container .dropdown-content-text{margin-bottom:10px;font-size:13px}.nav .dropdown .nav-dropdown-content .container .dropdown-content-text .fa{min-width:20px;margin-right:3px;text-align:center}.nav .dropdown .nav-dropdown-content .container .dropdown-content-text a{color:#afb2b5}.nav .dropdown .nav-dropdown-content .container .dropdown-content-text.dropdown-content-text-with-badge{max-width:150px}.nav .dropdown .nav-dropdown-content .container .nav-list{text-align:center}.nav .dropdown .nav-dropdown-content .container .nav-list .nav-list-item{display:inline-block;padding:0px 20px}.nav .dropdown .nav-dropdown-content .container .user-dashboard-dropdown-messages-badge,.nav .dropdown .nav-dropdown-content .container .user-dashboard-dropdown-leads-badge{margin-left:12px}.nav .dropdown:hover,.nav .dropdown.open-v2{position:relative}.nav .dropdown:hover .dropdown-toggle:before,.nav .dropdown.open-v2 .dropdown-toggle:before{position:absolute;left:50%;-moz-transform:translateX(-50%);-o-transform:translateX(-50%);-ms-transform:translateX(-50%);-webkit-transform:translateX(-50%);transform:translateX(-50%);content:'';width:0;height:0;border-left:10px solid transparent;border-right:10px solid transparent;border-bottom:10px solid rgba(0,0,0,0.9);top:37px}.nav .dropdown:hover .nav-dropdown-content,.nav .dropdown.open-v2 .nav-dropdown-content{-webkit-transition:0.2s all ease-in-out;-moz-transition:0.2s all ease-in-out;-ms-transition:0.2s all ease-in-out;-o-transition:0.2s all ease-in-out;transition:0.2s all ease-in-out;height:200px}.nav .dropdown:hover .nav-dropdown-content.nav-dropdown-content-find-contractor,.nav .dropdown.open-v2 .nav-dropdown-content.nav-dropdown-content-find-contractor{height:235px}.nav .dropdown:hover .nav-dropdown-content.nav-dropdown-content-photo-ribbon,.nav .dropdown.open-v2 .nav-dropdown-content.nav-dropdown-content-photo-ribbon{height:240px}.nav .dropdown:hover .nav-dropdown-content.nav-dropdown-content-photo-ribbon .photo-ribbon-footer,.nav .dropdown.open-v2 .nav-dropdown-content.nav-dropdown-content-photo-ribbon .photo-ribbon-footer{margin-top:7px}.nav .dropdown:hover .nav-dropdown-content.nav-dropdown-content-photo-ribbon .photo-ribbon-footer .photo-ribbon-footer-spacer,.nav .dropdown.open-v2 .nav-dropdown-content.nav-dropdown-content-photo-ribbon .photo-ribbon-footer .photo-ribbon-footer-spacer{width:10px;display:inline-block}.nav li.dropdown{-moz-border-radius-topleft:2px;-webkit-border-top-left-radius:2px;border-top-left-radius:2px;-moz-border-radius-topright:2px;-webkit-border-top-right-radius:2px;border-top-right-radius:2px;margin-top:5px}.nav li.dropdown>a{font-family:'Avenir';font-size:14px;font-weight:600;line-height:inherit;color:#fff;padding:14px 11px 20px 11px;position:relative}.nav li.dropdown .fa-chevron-down{font-size:8px;position:relative;top:-1px;width:8px}.nav li.dropdown .profile-button{padding-top:4px;margin-right:13px}.nav li.dropdown .profile-button button{font-size:12px;font-weight:800}.nav li.non-dropdown-link{margin-top:5px}.nav li.non-dropdown-link>a{font-family:'Avenir';font-size:14px;font-weight:600;line-height:inherit;color:#fff;padding:14px 11px 20px 11px;position:relative}.nav li.non-dropdown-link .signup-modal{margin-top:-8px}.nav li.non-dropdown-link .session_modal_link:focus,.nav li.non-dropdown-link .session_modal_link:active{outline:none}.nav li.non-dropdown-link .session_modal_link.v3-button{margin-top:-11px}.nav.navbar-nav>li>a.user-dashboard-link{text-decoration:none;margin-left:10px}.nav.navbar-nav>li>a.user-dashboard-link .user-dashboard-link-text{max-width:100px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;display:inline-block;margin-right:37px;text-transform:uppercase;font-size:12px}.nav.navbar-nav>li>a.user-dashboard-link .user-dashboard-link-icon-wrapper{display:inline;position:absolute;top:7px;right:10.5px}.nav.navbar-nav>li>a.user-dashboard-link .user-dashboard-link-icon-wrapper .user-dashboard-link-messages-badge{-webkit-border-radius:50%;-moz-border-radius:50%;border-radius:50%;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;-webkit-appearance:none;-moz-appearance:none;box-shadow:0px 2px 4px 0px rgba(0,0,0,0.5);-webkit-box-shadow:0px 2px 4px 0px rgba(0,0,0,0.5);-moz-box-shadow:0px 2px 4px 0px rgba(0,0,0,0.5);position:absolute;top:-5px;right:-7px;background-color:#f0ad4e;color:#FFFFFF;width:15px;height:15px;text-align:center}.nav.navbar-nav>li>a.user-dashboard-link .user-dashboard-link-icon-wrapper .user-dashboard-link-messages-badge .glyphicon{left:inherit;font-size:11px}.nav.navbar-nav>li>a.user-dashboard-link .user-dashboard-link-icon-wrapper .user-dashboard-default-link-icon{width:30px;height:30px;position:absolute;top:7px}.nav.navbar-nav>li>a.user-dashboard-link .user-dashboard-link-icon-wrapper .user-dashboard-link-icon{width:30px}.nav.navbar-nav>li>a.user-dashboard-link .default-profile-thumbnail{height:30px;width:30px;background-color:#000000;opacity:0.6;text-align:center;border-radius:50%;font-size:12.5px;font-weight:500}body.page-shifted-for-expanded-photos header.nav-transparent.nav-transparent-invisible{background-color:rgba(0,0,0,0.9)}header{text-shadow:0 -1px 0 rgba(0,0,0,0.15);-webkit-text-shadow:0 -1px 0 rgba(0,0,0,0.15);-moz-text-shadow:0 -1px 0 rgba(0,0,0,0.15)}header .badge{font-family:'Avenir';font-size:11px;font-weight:600;line-height:inherit;min-width:35px}header .badge.badge-modern{-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;max-width:150px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;text-transform:uppercase;padding:4px 7px;margin:0px 5px}header .badge-primary{background-color:#ffffff;color:#428bca}header .badge-warning{background-color:#f0ad4e;color:#ffffff}header .badge-danger{background-color:#FF0000;color:#ffffff}header .badge-success{background-color:#5cb85c;color:#ffffff;font-size:11px}header .badge-info{background-color:#5bc0de;color:#ffffff}header .badge-basic{background-color:#9B9B9B;color:#ffffff}header .badge-clear{background-color:transparent;color:#777}header .navbar-brand{background-image:url("//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/logos/modern-logo-white-retina-v2.png");background-size:contain;background-repeat:no-repeat;background-position:center;text-indent:-99999px;width:200px;height:100%}@media (max-width: 1199px){header .navbar-brand{width:58px}}@media (max-width: 767px){header .navbar-brand{width:190px}header .navbar-brand.navbar-brand-logged-in{display:none}}header .nav-popover .nav-popover-trigger{position:relative;cursor:pointer}header .nav-popover .nav-popover-container{-webkit-appearance:none;-moz-appearance:none;box-shadow:0 2px 3px -1px rgba(99,99,99,0.5);-webkit-box-shadow:0 2px 3px -1px rgba(99,99,99,0.5);-moz-box-shadow:0 2px 3px -1px rgba(99,99,99,0.5);-moz-transform:translateX(-164px);-o-transform:translateX(-164px);-ms-transform:translateX(-164px);-webkit-transform:translateX(-164px);transform:translateX(-164px);-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;cursor:default;position:fixed;top:52px;background-color:#FFFFFF;width:350px;height:0px;overflow:hidden}header .nav-popover .nav-popover-container .nav-popover-close{background:url("//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/_thumbnails/nav/close.png") no-repeat;width:18px;height:18px;background-size:18px 18px;position:absolute;right:10px;top:12px;cursor:pointer}header .nav-popover .nav-popover-container .nav-popover-title{color:#5a6063;font-size:12px;text-transform:uppercase;font-weight:800;text-align:center;letter-spacing:0.5px;padding:15px;border-bottom:1px solid #dddddd}header .nav-popover .nav-popover-container .nav-popover-list{max-height:255px;overflow-y:scroll}header .nav-popover .nav-popover-container .nav-popover-list .nav-popover-row{color:#5a6063;font-size:12px;font-weight:500;padding:23px 12px;margin:0px 12px;border-bottom:1px solid #dddddd}header .nav-popover .nav-popover-container .nav-popover-list .nav-popover-row:last-child{margin-bottom:28px}header .nav-popover:hover .nav-popover-trigger:before,header .nav-popover.nav-popover-open .nav-popover-trigger:before{position:absolute;left:50%;-moz-transform:translateX(-50%);-o-transform:translateX(-50%);-ms-transform:translateX(-50%);-webkit-transform:translateX(-50%);transform:translateX(-50%);content:'';width:0;height:0;border-left:10px solid transparent;border-right:10px solid transparent;border-bottom:10px solid #ffffff;bottom:-15px}header .nav-popover:hover .nav-popover-container,header .nav-popover.nav-popover-open .nav-popover-container{height:300px}@media (max-width: 991px){header .nav-popover .nav-popover-container{-moz-transform:translateX(-285px);-o-transform:translateX(-285px);-ms-transform:translateX(-285px);-webkit-transform:translateX(-285px);transform:translateX(-285px)}}@media (max-width: 767px){header .nav-popover .nav-popover-container{-moz-transform:initial;-o-transform:initial;-ms-transform:initial;-webkit-transform:initial;transform:initial;-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:0px;width:100%;left:0px;max-height:initial !important}header .nav-popover .nav-popover-container .nav-popover-list{max-height:none !important;height:100%}header .nav-popover:hover .nav-popover-trigger:before{content:none}header .nav-popover:hover .nav-popover-container{height:auto}header .nav-popover.nav-popover-open .nav-popover-trigger:before{content:'';bottom:-20px}header .nav-popover .nav-popover-trigger{margin:10px 10px}}header .navbar-badge-indicator{-webkit-border-radius:50%;-moz-border-radius:50%;border-radius:50%;color:#FFFFFF;font-size:8px;background-color:#CCCCCC;height:15px;width:15px;position:absolute;right:-7px;top:-7px}header .navbar-badge-indicator.error{background-color:#ea495d}header .navbar-badge-indicator.warning{background-color:#f39f17}header .navbar-badge-indicator.notification{background-color:#4bc2ea}header .navbar-badge-indicator .indicator-value{position:absolute;top:50%;left:50%;-moz-transform:translate(-50%, -50%);-o-transform:translate(-50%, -50%);-ms-transform:translate(-50%, -50%);-webkit-transform:translate(-50%, -50%);transform:translate(-50%, -50%)}header .navbar-collapse{max-height:540px !important}header.navbar{font-family:'Avenir';font-size:14px;font-weight:400;line-height:inherit;background:rgba(29,38,44,0.95);background-image:none;border:none;margin-bottom:0;min-height:52px;height:52px;z-index:1200}header.nav-transparent{-webkit-transition:0.6s all;-moz-transition:0.6s all;-ms-transition:0.6s all;-o-transition:0.6s all;transition:0.6s all;background-color:rgba(0,0,0,0.9)}header.nav-transparent.nav-transparent-invisible{-webkit-transition:0.6s all;-moz-transition:0.6s all;-ms-transition:0.6s all;-o-transition:0.6s all;transition:0.6s all;background-color:transparent}header.nav-transparent nav#masthead{background:none}header.navbar-inverse .navbar-nav>.open>a,header.navbar-inverse .navbar-nav>.open>a:hover,header.navbar-inverse .navbar-nav>.open>a:focus{background-color:transparent}header nav#masthead .btn-link:active,header nav#masthead .btn-link:hover,header nav#masthead .btn-link:focus{border-color:transparent}header nav#masthead .nav{margin-right:0px}header nav#masthead .nav.navbar-nav>li button#my_project{margin:9px 2px}@media (max-width: 767px){header .navbar-toggle,header.navbar-inverse .navbar-toggle,header.homeowner .navbar-toggle,header.homeowner.navbar-inverse .navbar-toggle{border:none;background-color:transparent}header .navbar-toggle.navbar-brand-logged-in,header.navbar-inverse .navbar-toggle.navbar-brand-logged-in,header.homeowner .navbar-toggle.navbar-brand-logged-in,header.homeowner.navbar-inverse .navbar-toggle.navbar-brand-logged-in{float:left;margin-left:11px}header .navbar-toggle:hover,header.navbar-inverse .navbar-toggle:hover,header.homeowner .navbar-toggle:hover,header.homeowner.navbar-inverse .navbar-toggle:hover{background-color:transparent}header .navbar-toggle .icon-bar,header.navbar-inverse .navbar-toggle .icon-bar,header.homeowner .navbar-toggle .icon-bar,header.homeowner.navbar-inverse .navbar-toggle .icon-bar{-webkit-transition:all 0.3s ease-in-out;-moz-transition:all 0.3s ease-in-out;-ms-transition:all 0.3s ease-in-out;-o-transition:all 0.3s ease-in-out;transition:all 0.3s ease-in-out}header .navbar-toggle .icon-bar+.icon-bar,header.navbar-inverse .navbar-toggle .icon-bar+.icon-bar,header.homeowner .navbar-toggle .icon-bar+.icon-bar,header.homeowner.navbar-inverse .navbar-toggle .icon-bar+.icon-bar{margin-top:6px}header .navbar-toggle:not(.collapsed),header.navbar-inverse .navbar-toggle:not(.collapsed),header.homeowner .navbar-toggle:not(.collapsed),header.homeowner.navbar-inverse .navbar-toggle:not(.collapsed){padding:12px 10px}header .navbar-toggle:not(.collapsed) .icon-bar,header.navbar-inverse .navbar-toggle:not(.collapsed) .icon-bar,header.homeowner .navbar-toggle:not(.collapsed) .icon-bar,header.homeowner.navbar-inverse .navbar-toggle:not(.collapsed) .icon-bar{position:relative;display:none}header .navbar-toggle:not(.collapsed) .icon-bar.icon-bar-first,header.navbar-inverse .navbar-toggle:not(.collapsed) .icon-bar.icon-bar-first,header.homeowner .navbar-toggle:not(.collapsed) .icon-bar.icon-bar-first,header.homeowner.navbar-inverse .navbar-toggle:not(.collapsed) .icon-bar.icon-bar-first{top:5px;display:inherit;-moz-transform:rotate(45deg);-o-transform:rotate(45deg);-ms-transform:rotate(45deg);-webkit-transform:rotate(45deg);transform:rotate(45deg)}header .navbar-toggle:not(.collapsed) .icon-bar.icon-bar-last,header.navbar-inverse .navbar-toggle:not(.collapsed) .icon-bar.icon-bar-last,header.homeowner .navbar-toggle:not(.collapsed) .icon-bar.icon-bar-last,header.homeowner.navbar-inverse .navbar-toggle:not(.collapsed) .icon-bar.icon-bar-last{bottom:3px;display:inherit;-moz-transform:rotate(-45deg);-o-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}header.nav-transparent,header.homeowner.nav-transparent{background:rgba(0,0,0,0.9)}header.nav-transparent.nav-transparent-invisible,header.homeowner.nav-transparent.nav-transparent-invisible{background-color:transparent}header.nav-transparent nav#masthead,header.homeowner.nav-transparent nav#masthead{background:rgba(0,0,0,0.9)}header nav#masthead,header.homeowner nav#masthead{background:rgba(0,0,0,0.9);border:none}header nav#masthead .nav,header.homeowner nav#masthead .nav{margin-right:-15px}header nav#masthead .nav.navbar-nav>li>a,header.homeowner nav#masthead .nav.navbar-nav>li>a{padding-left:20px}header nav#masthead .nav.navbar-nav>li button#my_project,header.homeowner nav#masthead .nav.navbar-nav>li button#my_project{margin-left:18px}header.navbar-inverse .navbar-nav>li>a,header.homeowner.navbar-inverse .navbar-nav>li>a{color:#ffffff}header.navbar-inverse .navbar-nav>li .v3-button,header.homeowner.navbar-inverse .navbar-nav>li .v3-button{width:60%}}@media (max-width: 568px){header .navbar-fixed-top,header .navbar-fixed-bottom{position:absolute !important}}
+</style>
+<link rel="stylesheet" media="all" href="//assets.buildzoom.com/assets/base-4f6e42cdf366476fa6fefec9f0519826d31811c1df45e8bd048eaf0a26255a0e.css">
+<link rel="stylesheet" media="all" href="//assets.buildzoom.com/assets/company/privacy_policy-09496c1a0eb2f4196ccf56fb96926d1ff0fe0aea7626c2fb541cafa7b0e13375.css">
+<script>
+  	var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-15886463-1'],['_setDomainName', 'www.buildzoom.com']);
   	
 	_gaq.push(['_trackPageview']);
 
   // If the client supports replaceState, strip utm tags out of the query string after GA loads.
-  _gaq.push(function(){
-    if (!window.history.replaceState) { return; }
-    var cleanSearch = window.location.search.replace(/utm_[^&]+&?/g, '').replace(/&$/, '').replace(/^\?$/, '');
-    window.history.replaceState({}, '', window.location.pathname + cleanSearch);
-  });
+//  _gaq.push(function(){
+//    if (!window.history.replaceState) { return; }
+//    var cleanSearch = window.location.search.replace(/utm_[^&]+&?/g, '').replace(/&$/, '').replace(/^\?$/, '');
+//    window.history.replaceState({}, '', (window.location.pathname + cleanSearch + window.location.hash));
+//  });
 
   (function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
-<!-- start Mixpanel -->
-  <script type="text/javascript">
+
+<script>
 //<![CDATA[
 
-(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//d3tcjgtc5gdpsf.cloudfront.net/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
 typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
 b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
-  mixpanel.init("bc909ad7df22b2b71c176cd0a37f749f");
+  mixpanel.init("bc909ad7df22b2b71c176cd0a37f749f", { persistence: "localStorage" });
 
 //]]>
-</script><!-- end Mixpanel -->
+</script>
+<script>
+    
+    var userFullstoryCohort, isFullstoryTracked;
+
+    try {
+        if (localStorage.getItem('userFullstoryCohort')) {
+            userFullstoryCohort = localStorage.getItem('userFullstoryCohort');
+        } else {
+            userFullstoryCohort = Math.floor(Math.random() * 1000).toString();
+            localStorage.setItem('userFullstoryCohort', userFullstoryCohort);
+        }
+    } catch(e) {
+        console.log('Browser does not support local storage.');
+    }
+    if (true && (false || userFullstoryCohort === "1")) {
+        
+        //we run the FullStory snippet for non-admin AND (signed in OR just signing out OR random folks OR whitelisted urls)
+        window['_fs_debug'] = false;
+        window['_fs_host'] = 'www.fullstory.com';
+        window['_fs_org'] = '1Km6';
+        (function(m,n,e,t,l,o,g,y){
+          g=m[e]=function(a,b){g.q?g.q.push([a,b]):g._api(a,b);};g.q=[];
+          o=n.createElement(t);o.async=1;o.src='https://'+_fs_host+'/s/fs.js';
+          y=n.getElementsByTagName(t)[0];y.parentNode.insertBefore(o,y);
+          g.identify=function(i,v){g(l,{uid:i});if(v)g(l,v)};g.setUserVars=function(v){FS(l,v)};
+          g.clearUserCookie=function(d,i){d=n.domain;while(1){n.cookie='fs_uid=;domain='+d+
+              ';path=/;expires='+new Date(0);i=d.indexOf('.');if(i<0)break;d=d.slice(i+1)}}
+        })(window,document,'FS','script','user');
+
+      
+    }
+
+  </script>
+
+<script>
+	  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+		  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+		  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+		  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+		  document,'script','https://connect.facebook.net/en_US/fbevents.js');
+	  fbq('init', '1725620384432508');
+	  fbq('track', 'PageView');
+  </script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1725620384432508&ev=PageView&noscript=1"
+/></noscript>
 
 
-	<script src="//cdn.optimizely.com/js/255671052.js"></script>
-
-
+<link rel="apple-touch-icon" href="//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/_thumbnails/logos/bz-logo-round.png">
 <!--[if lt IE 9]>
-<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/4.0.3/es5-shim.min.js"></script>
+<script src="//assets.buildzoom.com/assets/html5shiv.js"></script>
+<script src="//assets.buildzoom.com/assets/respond.js"></script>
+<link href="//netdna.bootstrapcdn.com/respond-proxy.html" id="respond-proxy" rel="respond-proxy">
+<link href="/assets/respond.proxy.gif" id="respond-redirect" rel="respond-redirect">
+<script src="//assets.buildzoom.com/assets/respond.proxy.js"></script>
 <![endif]-->
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token">
 
+<script>
+    var _vwo_code=(function(){
+      var account_id=281720,
+        settings_tolerance=2000,
+        library_tolerance=2500,
+        use_existing_jquery=false,
+              /* DO NOT EDIT BELOW THIS LINE */
+        f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=281720&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20170606173658id_%2Fhttps%253A%2F%2Fbuildzoom.com%2Fprivacy-policy&amp;r=0.7809982105009794" type="text/javascript"></script>
 
-
-<meta content="authenticity_token" name="csrf-param">
-<meta content="VyqMK3g2QkX3463hj3TYgkwmmNaxB0brwwUeg7bQ+F0=" name="csrf-token">
-
-</head>
-
-
-
-<body class="pages privacy_policy" ng-app="bz_app" id="ng-app">
-
-  <header class="navbar navbar-inverse navbar-fixed-top bs-docs-nav>" role="banner" data-user_role="" data-user_signed_in="false" data-contractor_id="0" data-user_id="0" data-user_thumbnail="http://d3flf7kkefqaeh.cloudfront.net/_assets/user-head.png" data-current_staff_user="false" data-user_ip_address="194.187.168.18" data-location="{&quot;city&quot;:null,&quot;state&quot;:null,&quot;slug&quot;:null,&quot;lat&quot;:null,&quot;lng&quot;:null}" data-user_email="">
-  <div class="container">
-    <div class="navbar-header">
-      <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#masthead">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a href="http://www.buildzoom.com/" class="navbar-brand">BuildZoom</a>
-    </div>
-    <nav id="masthead" class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
-      	<form accept-charset="UTF-8" action="#" class="navbar-form navbar-left" id="new_search" method="post" ng-controller="SearchContractorsCtrl" ng-init="init({ keywords: '', cityState: '', formData: { formSelector: 'form.navbar-form.navbar-left', searchSource: 'navigation', setLocationByUser: true } })" ng-submit="submit($event)"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="VyqMK3g2QkX3463hj3TYgkwmmNaxB0brwwUeg7bQ+F0="></div>
-					<div class="form-group">
-						<input search-keywords-input="" id="txt_search_key" class="form-control">
-						<input search-location-input="" id="location" class="form-control">
-						<input class="form-control" id="latitude" name="search[latitude]" type="hidden">
-						<input class="form-control" id="longitude" name="search[longitude]" type="hidden">
-					</div>
-					<button type="submit" class="btn btn-success"><i class="glyphicon glyphicon-search"></i></button>
-</form>      
-<ul class="nav navbar-nav navbar-right">
-	<li class="dropdown">
-		<a href="#" class="dropdown-toggle" data-toggle="dropdown">
-			<span>Find&nbsp;a&nbsp;Contractor</span>
-			<b class="caret"></b>
-		</a>
-		<ul class="dropdown-menu dropdown-menu-left">
-			<li>
-				<a href="http://www.buildzoom.com/service_requests/new" class="signup-modal" data-referral-source="nav link"><span class="glyphicon glyphicon-cog"></span>Get multiple bids</a>
-			</li>
-
-				<li><a href="http://www.buildzoom.com/find/contractors"><span class="glyphicon glyphicon-search"></span>Search contractors</a></li>
-		</ul>
-	</li>
-
-	<li class="dropdown">
-		<a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-		<ul class="dropdown-menu dropdown-menu-left">
-			<li>
-				<a href="http://www.buildzoom.com/about"><span class="glyphicon glyphicon-info-sign"></span>About BuildZoom</a>
-			</li>
-			<li>
-				<a href="http://www.buildzoom.com/photos"><span class="glyphicon glyphicon-picture"></span>Remodeling photos</a>
-			</li>
-			<li>
-				<a href="http://www.buildzoom.com/map/nation-wide"><span class="glyphicon glyphicon-map-marker"></span>Building permit data</a>
-			</li>
-			<li class="divider"></li>
-			<li>
-				<a href="http://www.buildzoom.com/cost"><span class="glyphicon glyphicon-usd"></span>Remodeling costs</a>
-			</li>
-			<li>
-				<a href="http://www.buildzoom.com/charts"><span class="glyphicon glyphicon-stats"></span>Trends</a>
-			</li>
-			<li>
-				<a href="http://answers.buildzoom.com"><span class="glyphicon glyphicon-question-sign"></span>Advice</a>
-			</li>
-			<li class="divider"></li>
-			<li>
-				<a href="http://www.buildzoom.com/scoring"><span class="glyphicon glyphicon-info-sign"></span>How the BuildZoom score works</a>
-			</li>
-			<li>
-				<a href="http://www.buildzoom.com/hiring"><span class="glyphicon glyphicon-info-sign"></span>Why hire through BuildZoom</a>
-			</li>
-			<li>
-				<a href="http://blog.buildzoom.com"><span class="glyphicon glyphicon-book"></span>Blog</a>
-			</li>
-			<li>
-				<a href="http://support.buildzoom.com"><span class="glyphicon glyphicon-comment"></span>Support</a>
-			</li>
-		</ul>
-	</li>
-
-		<li>
-			<a id="modal_sign_in" class="session_modal_link" data-signup-tabs="true" href="http://www.buildzoom.com/user/sign_in">Sign in</a>
-		</li>
-			<li class="hidden-xs"><div class="nav_text">or</div></li>
-			<li>
-					<a id="modal_sign_up" class="session_modal_link" data-signup-tabs="true" href="http://www.buildzoom.com/user/sign_up">Sign Up</a>
-			</li>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<body class="company privacy_policy">
+<nav id="modern-nav" ng-controller="ModernNavCtrl as $ctrl" class="modern-nav-light with-mobile-logo" ng-class="{
+'modern-nav-dropdown-open': $ctrl.navService.dropdownOpen(),
+'modern-nav-transparent': $ctrl.transparent
+}" role="banner" data-user_role="" data-user_signed_in="false" data-contractor_id="0" data-user_id="0" data-user_thumbnail="//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/user-head.png" data-current_staff_user="false" data-user_ip_address="54.67.116.32" data-location="{&quot;city&quot;:null,&quot;state&quot;:null,&quot;slug&quot;:null,&quot;lat&quot;:null,&quot;lng&quot;:null}" data-user_email="" data-user_first_name="" data-user_phone="" transparent-scroll-threshold="100">
+<div id="modern-nav-main">
+<div id="modern-nav-main-backdrop"></div>
+<div id="modern-nav-main-content">
+<div id="modern-nav-logo-wrapper">
+<a id="modern-nav-logo" href="/"></a>
+</div>
+<div id="modern-nav-search">
+<form class="modern-nav-search-form clearfix" ng-controller="SearchContractorsCtrl" ng-init="init({&quot;keywords&quot;:&quot;&quot;,&quot;city_state&quot;:&quot;&quot;,&quot;form_data&quot;:{&quot;form_selector&quot;:&quot;form.modern-nav-search-form&quot;,&quot;search_source&quot;:&quot;navigation&quot;,&quot;set_location_by_ip&quot;:true}})" ng-submit="submit($event)">
+<div class="modern-nav-search-form-fields clearfix">
+<input search-keywords-input="" class="modern-nav-search-form-field search-form-keyword-field" placeholder="General Contractors">
+<input search-location-input="" class="modern-nav-search-form-field search-form-location-field" placeholder="Enter a city">
+<input type="hidden" name="search[latitude]" autocomplete="off">
+<input type="hidden" name="search[longitude]" autocomplete="off">
+</div>
+<button class="modern-nav-search-form-button v3-button v3-square-button
+v3-hollow-white-button" type="submit">
+Search
+</button>
+</form>
+</div>
+<div id="modern-nav-dropdown-toggle-wrapper">
+<button id="modern-nav-dropdown-toggle" ng-click="$ctrl.navService.toggleDropdown()" ng-class="{ toggled: $ctrl.navService.dropdownToggled }">
+<span class="modern-nav-dropdown-toggle-bar"></span>
+<span class="modern-nav-dropdown-toggle-bar"></span>
+<span class="modern-nav-dropdown-toggle-bar"></span>
+</button>
+</div>
+<div id="modern-nav-actions-wrapper" class="clearfix" ng-controller="NavbarBulletinCtrl as $bulletinCtrl">
+<div id="modern-nav-actions">
+<ol id="modern-nav-actions" class="clearfix">
+<li class="modern-nav-action-wrapper hidden-xs">
+<a class="modern-nav-action" href="/">
+<span class="modern-nav-action-content">
+Home
+</span>
+</a>
+</li>
+<li class="modern-nav-action-wrapper dropdown-action hidden-xs" ng-class="{
+'dropdown-section-open': $ctrl.navService.dropdownSectionOpen('photos')
+}" ng-mouseenter="$ctrl.navService.handleEnterLink('photos')" ng-mouseleave="$ctrl.navService.handleLeaveLink('photos')">
+<a class="modern-nav-action" href="javascript:void(0)">
+<span class="modern-nav-action-content">
+Photos
+<i class="fa fa-chevron-down"></i>
+</span>
+</a>
+</li>
+<li class="modern-nav-action-wrapper dropdown-action hidden-xs" ng-class="{
+'dropdown-section-open': $ctrl.navService.dropdownSectionOpen('about')
+}" ng-mouseenter="$ctrl.navService.handleEnterLink('about')" ng-mouseleave="$ctrl.navService.handleLeaveLink('about')">
+<a class="modern-nav-action" href="javascript:void(0)">
+<span class="modern-nav-action-content">
+About
+<i class="fa fa-chevron-down"></i>
+</span>
+</a>
+</li>
+<li class="modern-nav-action-wrapper hidden-xs">
+<a auth-modal-link="" ng-click="$ctrl.openModal($event)" log-in="true" class="modern-nav-action" href="/user/sign_in">
+<span class="modern-nav-action-content">
+Sign In
+</span>
+</a>
+</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+<div id="modern-nav-dropdown" ng-mouseenter="$ctrl.navService.handleEnterDropdown()" ng-mouseleave="$ctrl.navService.handleLeaveDropdown()">
+<div id="modern-nav-dropdown-content-wrapper">
+<div id="modern-nav-dropdown-content">
+<div id="modern-nav-dropdown-backdrop"></div>
+<div id="modern-nav-dropdown-desktop-content">
+<div ng-show="$ctrl.navService.dropdownSectionOpen('photos')" class="modern-nav-dropdown-section">
+<div id="modern-nav-photo-ribbon">
+<div id="photo-ribbon-wrapper" class="clearfix">
+<div class="photo-ribbon-item photo-ribbon-photos clearfix">
+<div class="photo-ribbon-photo">
+<a class="photo-ribbon-photo-link" href="/photos">
+<img class="photo-ribbon-image" defer-image-load="" image-src="//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/photo_ribbon/8.jpg">
+</a>
+</div>
+<div class="photo-ribbon-photo">
+<a class="photo-ribbon-photo-link" href="/photos">
+<img class="photo-ribbon-image" defer-image-load="" image-src="//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/photo_ribbon/9.jpg">
+</a>
+</div>
+<div class="photo-ribbon-photo">
+<a class="photo-ribbon-photo-link" href="/photos">
+<img class="photo-ribbon-image" defer-image-load="" image-src="//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/photo_ribbon/10.jpg">
+</a>
+</div>
+<div class="photo-ribbon-photo">
+<a class="photo-ribbon-photo-link" href="/photos">
+<img class="photo-ribbon-image" defer-image-load="" image-src="//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/photo_ribbon/11.jpg">
+</a>
+</div>
+<div class="photo-ribbon-photo">
+<a class="photo-ribbon-photo-link" href="/photos">
+<img class="photo-ribbon-image" defer-image-load="" image-src="//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/photo_ribbon/1.jpg">
+</a>
+</div>
+<div class="photo-ribbon-photo">
+<a class="photo-ribbon-photo-link" href="/photos">
+<img class="photo-ribbon-image" defer-image-load="" image-src="//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/photo_ribbon/2.jpg">
+</a>
+</div>
+</div>
+<div class="photo-ribbon-item photo-ribbon-content">
+<div class="photo-ribbon-content-wrapper">
+<h3 class="photo-ribbon-header">Beautiful Results</h3>
+<h5 class="photo-ribbon-header sub-header">
+BuildZoom is a better way to remodel any type of property.
+</h5>
+<div class="photo-ribbon-buttons clearfix">
+<div class="photo-ribbon-buttons-wrapper">
+<div class="photo-ribbon-button-wrapper">
+<a class="v3-button v3-solid-light-blue-button
+v3-no-text-transform-button photo-ribbon-button" href="/photos">
+See more photos
+</a>
+</div>
+<div class="photo-ribbon-button-wrapper">
+<a class="v3-button v3-solid-teal-button
+v3-no-text-transform-button photo-ribbon-button" data-referral-source="hoto ribbon (header v2)" href="/project/new">
+Get a bid
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="photo-ribbon-item photo-ribbon-photos clearfix">
+<div class="photo-ribbon-photo">
+<a class="photo-ribbon-photo-link" href="/photos">
+<img class="photo-ribbon-image" defer-image-load="" image-src="//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/photo_ribbon/3.jpg">
+</a>
+</div>
+<div class="photo-ribbon-photo">
+<a class="photo-ribbon-photo-link" href="/photos">
+<img class="photo-ribbon-image" defer-image-load="" image-src="//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/photo_ribbon/4.jpg">
+</a>
+</div>
+<div class="photo-ribbon-photo">
+<a class="photo-ribbon-photo-link" href="/photos">
+<img class="photo-ribbon-image" defer-image-load="" image-src="//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/photo_ribbon/12.jpg">
+</a>
+</div>
+<div class="photo-ribbon-photo">
+<a class="photo-ribbon-photo-link" href="/photos">
+<img class="photo-ribbon-image" defer-image-load="" image-src="//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/photo_ribbon/13.jpg">
+</a>
+</div>
+<div class="photo-ribbon-photo">
+<a class="photo-ribbon-photo-link" href="/photos">
+<img class="photo-ribbon-image" defer-image-load="" image-src="//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/photo_ribbon/ribbon_new_1.jpg">
+</a>
+</div>
+<div class="photo-ribbon-photo">
+<a class="photo-ribbon-photo-link" href="/photos">
+<img class="photo-ribbon-image" defer-image-load="" image-src="//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/photo_ribbon/ribbon_new_2.jpg">
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div ng-show="$ctrl.navService.dropdownSectionOpen('about')" class="modern-nav-dropdown-section">
+<div id="modern-nav-about">
+<div id="modern-nav-about-sections" class="clearfix">
+<div class="modern-nav-about-section">
+<div class="about-section-title">Contractors by city</div>
+<div class="about-section-text">
+<a href="/miami" class="about-section-link">
+Miami, FL
+</a>
+</div>
+<div class="about-section-text">
+<a href="/los-angeles" class="about-section-link">
+Los Angeles, CA
+</a>
+</div>
+<div class="about-section-text">
+<a href="/new-york-ny" class="about-section-link">
+New York, NY
+</a>
+</div>
+<div class="about-section-text">
+<a href="/san-francisco-ca" class="about-section-link">
+San Francisco, CA
+</a>
+</div>
+<div class="about-section-text">
+<a href="/washington-dc" class="about-section-link">
+Washington, DC
+</a>
+</div>
+</div>
+<div class="modern-nav-about-section">
+<div class="about-section-title">Ready to hire</div>
+<div class="about-section-text">
+Get bids from the top-rated contractors in your area.
+</div>
+<a class="v3-button v3-solid-light-blue-button" href="/project/new" data-referral-source="nav link (find contractor)">
+Get Started
+</a>
+</div>
+<div class="modern-nav-about-section">
+<div class="about-section-title">About BuildZoom</div>
+<div class="about-section-text">
+<a href="/contractor-faq" class="about-section-link">
+BuildZoom for Contractors
+</a>
+</div>
+<div class="about-section-text">
+<a href="https://www.buildzoom.com/blog/" class="about-section-link">
+Blog
+</a>
+</div>
+<div class="about-section-text">
+<a href="/team" class="about-section-link">
+Our Team
+</a>
+</div>
+<div class="about-section-text">
+<a href="/careers" class="about-section-link">
+We're Hiring
+</a>
+</div>
+</div>
+<div class="modern-nav-about-section">
+<div class="about-section-title">Contact Us</div>
+<div class="about-section-text">
+<i class="about-section-icon fa fa-user"></i>
+<a href="/contact-us" class="about-section-link">
+Contact Info
+</a>
+</div>
+<div class="about-section-text">
+<i class="about-section-icon fa fa-envelope"></i>
+<a href="mailto:support@buildzoom.com" class="about-section-link">
+support@buildzoom.com
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="modern-nav-dropdown-mobile-content">
+<ol id="mobile-dropdown-actions">
+<li class="mobile-dropdown-action">
+<form class="modern-nav-search-form clearfix" ng-controller="SearchContractorsCtrl" ng-init="init({&quot;keywords&quot;:&quot;&quot;,&quot;city_state&quot;:&quot;&quot;,&quot;form_data&quot;:{&quot;form_selector&quot;:&quot;form.modern-nav-search-form&quot;,&quot;search_source&quot;:&quot;navigation&quot;,&quot;set_location_by_ip&quot;:true}})" ng-submit="submit($event)">
+<div class="modern-nav-search-form-fields clearfix">
+<input search-keywords-input="" class="modern-nav-search-form-field search-form-keyword-field" placeholder="General Contractors">
+<input search-location-input="" class="modern-nav-search-form-field search-form-location-field" placeholder="Enter a city">
+<input type="hidden" name="search[latitude]" autocomplete="off">
+<input type="hidden" name="search[longitude]" autocomplete="off">
+</div>
+<button class="modern-nav-search-form-button v3-button v3-square-button
+v3-hollow-white-button" type="submit">
+Search
+</button>
+</form>
+</li>
+<li class="mobile-dropdown-action">
+<a href="/" class="mobile-dropdown-link">Home</a>
+</li>
+<li class="mobile-dropdown-action">
+<a href="/project/new" data-referral-source="nav link (mobile)" class="mobile-dropdown-link">
+Get a quote
+</a>
+</li>
+<li class="mobile-dropdown-action">
+<a href="/photos" class="mobile-dropdown-link">Photos</a>
+</li>
+<li class="mobile-dropdown-action">
+<a href="/map/nation-wide" class="mobile-dropdown-link">
+Permit map
+</a>
+</li>
+<li class="mobile-dropdown-action">
+<a href="/contact-us" class="mobile-dropdown-link">Contact</a>
+</li>
+<li class="mobile-dropdown-action">
+<a href="/about" class="mobile-dropdown-link">About</a>
+</li>
+<li class="mobile-dropdown-action">
+<a href="/user/sign_in" class="mobile-dropdown-link">
+Sign in
+</a>
+</li>
+<li class="mobile-dropdown-action">
+<a href="/user/sign_up?contractor=true">
+<button class="session_modal_link v3-button v3-hollow-light-grey-button
+v3-no-text-transform-button">
+Contractor Sign Up
+</button>
+</a>
+</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<div class="clearfix"></div>
+<div class="company-header-cover" style="background-image: url('//images.buildzoom.com/api/file/WPJXuZXzT8OgvaIpojm3/convert?h=&amp;w=1300&amp;strip=true&amp;fit=crop&amp;quality=40&amp;cache=true&amp;compress=true')">
+<div class="company-header-cover-overlay"></div>
+<h1 class="company-header-cover-title">Privacy Policy</h1>
+</div>
+<div sticky-subnav="" main-container-selector=".company-body" class="sticky-subnav center-subnav hidden-xs" data-spy="affix">
+<div class="container">
+<div class="row clearfix">
+<div class="col-xs-12">
+<ul class="center-subnav">
+<li><a href="/about">About BuildZoom</a></li>
+<li><a href="/faq">FAQ</a></li>
+<li><a href="/contractor-faq">For Contractors</a></li>
+<li><a href="/team">Team</a></li>
+<li><a href="/careers">Careers</a></li>
+<li><a href="/press">Press</a></li>
+<li><a href="/testimonials">Testimonials</a></li>
+<li><a href="/contact-us">Contact</a></li>
 </ul>
-
-    </nav>
-  </div>
-</header>
-
-
-  <div class="clearfix"></div>
-  
-  
-
-  <section id="pages" class="privacy_policy container">
-  <div class="row">
-    <div class="col-md-3 col-xs-12">
-      <div class="sidebar hidden-print" role="complementary">
-        <ul class="nav sidenav">
-          <li>
-            <a href="/about" html="{}">About BuildZoom</a><i></i>
-          </li>
-
-          <li>
-            <a href="/team" html="{}">Team</a><i></i>
-          </li>
-
-          <li>
-            <a href="/press" html="{}">Press</a><i></i>
-          </li>
-
-          <li>
-            <a href="/community-guidelines" html="{}">Community Guidelines</a><i></i>
-          </li>
-
-          <li>
-            <a href="/terms-of-service" html="{}">Terms of Service</a><i></i>
-          </li>
-
-          <li class="active">
-            <a href="/privacy-policy" html="{}">Privacy Policy</a><i></i>
-          </li>
-
-          <li>
-            <a href="/contact-us" html="{}">Contact</a><i></i>
-          </li>
-
-          <li>
-            <a href="/jobs" html="{}">Jobs</a><i></i>
-          </li>
-
-        </ul>
-      </div>
-    </div>
-
-    <div class="col-md-9 col-xs-12" role="main">
-          <div id="content">
-            <div id="privacy_policy" class="tabcontent">
-              <h3 class="page-title">Privacy Policy</h3>
-
-              <!-- /******************/ -->
-              <!--    action content    -->
-              <!-- /******************/ -->
-              
-              
-              <div id="privacyqs" class="columns2">
-                <div class="privacyq">
-                  <strong>What information do we collect?</strong>
-                  <p>We collect information from you when you register on our site. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, phone number or credit card information. You may, however, visit our site anonymously.</p>
-                </div><!--privacyq-->
-                <div class="privacyq">
-                  <strong>What do we use your information for?</strong>
-                  <p>Any of the information we collect from you may be used in one of the following ways:</p>
-                  <ul>
-                  <li>To personalize your experience (your information helps us to better respond to your individual needs)</li>
-                  <li>To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)</li>
-                  <li>To process transactions (yoour information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested)</li>
-                  <li>To send periodic emails (the email address you provide for order processing, will only be used to send you information and updates pertaining to your order)</li>
-                  </ul>
-                </div><!--privacyq-->
-                <div class="privacyq">
-                  <strong>How do we protect your information?</strong>
-                  <p>We implement a variety of security measures to maintain the safety of your personal information when you place an order. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.</p>
-                </div><!--privacyq-->
-                <div class="privacyq">
-                  <strong>Do we disclose any information to outside parties?</strong>
-                  <p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
-                </div><!--privacyq-->
-                <div class="privacyq">
-                  <strong>Third party links</strong>
-                  <p>Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>
-                </div><!--privacyq-->
-                <div class="privacyq">
-                  <strong>Third party links</strong>
-                  <p>Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>
-                </div><!--privacyq-->
-                <div class="privacyq">
-                  <strong>Childrens Online Privacy Protection Act Compliance</strong>
-                  <p>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</p>
-                </div><!--privacyq-->
-                <div class="privacyq">
-                  <strong>Online Privacy Policy Only</strong>
-                  <p>This online privacy policy applies only to information collected through our website and not to information collected offline.</p>
-                </div><!--privacyq-->
-                <div class="privacyq">
-                  <strong>Your Consent</strong>
-                  <p>By using our site, you consent to our privacy policy.</p>
-                </div><!--privacyq-->
-                <div class="privacyq">
-                  <strong>Changes to our Privacy Policy</strong>
-                  <p>If we decide to change our privacy policy, we will post those changes on this page.</p>
-                </div><!--privacyq-->
-              </div>
-
-
-
-              <!-- /******************/ -->
-              <!--  end action content  -->
-              <!-- /******************/ -->
-
-            </div>
-          </div>
-      </div>
-    </div>
-  
-  </section>
-
-  
-  <div id="footer">
-
+</div>
+</div>
+</div>
+</div>
+<div class="mobile-subnav container visible-xs ">
+<div class="row clearfix">
+<div class="col-xs-12">
+<select mobile-subnav="" class="form-control">
+<option value="about">About BuildZoom</option>
+<option value="faq">FAQ</option>
+<option value="contractor-faq">For Contractors</option>
+<option value="team">Team</option>
+<option value="careers">Careers</option>
+<option value="press">Press</option>
+<option value="testimonials">Testimonials</option>
+<option value="contact-us">Contact</option>
+</select>
+</div>
+</div>
+</div>
+<div class="company-body">
+<div class="company-body-section ">
+<div class="container wide-container">
+<div class="row">
+<div class="col-sm-3 col-xs-12">
+<h3 class="company-body-section-title left-section-title">What information do we collect?</h3>
+</div>
+<div class="col-sm-9 col-xs-12">
+<p>
+We collect information from you when you register on our site. When ordering or registering on our site, as
+appropriate, you may be asked to enter your: name, e-mail address, phone number or credit card information.
+You may, however, visit our site anonymously.
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="company-body-section">
+<div class="container wide-container">
+<div class="row">
+<div class="col-sm-3 col-xs-12">
+<h3 class="company-body-section-title left-section-title">What do we use your information for?</h3>
+</div>
+<div class="col-sm-9 col-xs-12">
+<p>Any of the information we collect from you may be used in one of the following ways:</p>
+<ul class="section-list">
+<li>To personalize your experience (your information helps us to better respond to your individual needs)
+</li>
+<li>To improve our website (we continually strive to improve our website offerings based on the information
+and feedback we receive from you)
+</li>
+<li>To process transactions (your information, whether public or private, will not be sold, exchanged,
+transferred, or given to any other company for any reason whatsoever, without your consent, other than for
+the express purpose of delivering the purchased product or service requested)
+</li>
+<li>To send periodic emails (the email address you provide for order processing, will only be used to send
+you information and updates pertaining to your order)
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="company-body-section ">
+<div class="container wide-container">
+<div class="row">
+<div class="col-sm-3 col-xs-12">
+<h3 class="company-body-section-title left-section-title">How do we protect your information?</h3>
+</div>
+<div class="col-sm-9 col-xs-12">
+We implement a variety of security measures to maintain the safety of your personal information when you place
+an order. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via
+Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be
+accessible by those authorized with special access rights to such systems, and are required to keep the
+information confidential. After a transaction, your private information (credit cards, social security
+numbers, financials, etc.) will not be stored on our servers.
+</div>
+</div>
+</div>
+</div>
+<div class="company-body-section">
+<div class="container wide-container">
+<div class="row">
+<div class="col-sm-3 col-xs-12">
+<h3 class="company-body-section-title left-section-title">Do we disclose any information to outside
+parties?</h3>
+</div>
+<div class="col-sm-9 col-xs-12">
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This
+does not include trusted third parties who assist us in operating our website, conducting our business, or
+servicing you, so long as those parties agree to keep this information confidential. We may also release your
+information when we believe release is appropriate to comply with the law, enforce our site policies, or
+protect ours or others rights, property, or safety. However, non-personally identifiable visitor information
+may be provided to other parties for marketing, advertising, or other uses.
+</div>
+</div>
+</div>
+</div>
+<div class="company-body-section ">
+<div class="container wide-container">
+<div class="row">
+<div class="col-sm-3 col-xs-12">
+<h3 class="company-body-section-title left-section-title">Third party links</h3>
+</div>
+<div class="col-sm-9 col-xs-12">
+<p>
+Occasionally, at our discretion, we may include or offer third party products or services on our website.
+These third party sites have separate and independent privacy policies. We therefore have no responsibility
+or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the
+integrity of our site and welcome any feedback about these sites.
+</p>
+<p>
+We use third parties to gather your data from financial institutions. By using our service, you grant out
+third-party provider(s) the right, power, and authority to act on your behalf to access and transmit your
+personal and financial information from the relevant financial institution according to terms of our
+third-party provider's privacy policy (including Plaid's privacy policy located at
+<a href="https://plaid.com/legal">https://plaid.com/legal</a>).
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="company-body-section">
+<div class="container wide-container">
+<div class="row">
+<div class="col-sm-3 col-xs-12">
+<h3 class="company-body-section-title left-section-title">Childrens Online Privacy Protection Act
+Compliance</h3>
+</div>
+<div class="col-sm-9 col-xs-12">
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not
+collect any information from anyone under 13 years of age. Our website, products and services are all directed
+to people who are at least 13 years old or older.
+</div>
+</div>
+</div>
+</div>
+<div class="company-body-section">
+<div class="container wide-container">
+<div class="row">
+<div class="col-sm-3 col-xs-12">
+<h3 class="company-body-section-title left-section-title">Online Privacy Policy Only</h3>
+</div>
+<div class="col-sm-9 col-xs-12">
+<p>This online privacy policy applies only to information collected through our website and not to information
+collected offline.</p>
+<p>The Buildzoom website uses cookies, tracking pixels and related technologies. Cookies are small data files
+that are served by our
+platform and stored on your device. Our site uses cookies dropped by us or third parties for a variety of
+purposes including to
+operate and personalize the website. Also, cookies may also be used to track how you use the site to target
+ads to you on other websites.
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="company-body-section">
+<div class="container wide-container">
+<div class="row">
+<div class="col-sm-3 col-xs-12">
+<h3 class="company-body-section-title left-section-title">Your Consent</h3>
+</div>
+<div class="col-sm-9 col-xs-12">
+By using our site, you consent to our privacy policy.
+</div>
+</div>
+</div>
+</div>
+<div class="company-body-section">
+<div class="container wide-container">
+<div class="row">
+<div class="col-sm-3 col-xs-12">
+<h3 class="company-body-section-title left-section-title">Changes to our Privacy Policy</h3>
+</div>
+<div class="col-sm-9 col-xs-12">
+If we decide to change our privacy policy, we will post those changes on this page.
+</div>
+</div>
+</div>
+</div>
 </div>
 
-<!-- footer displaying the FAQ of a page -->
-
 <footer>
-  <div class="container">
-    <div class="row">
-      <section class="col-md-5 col-sm-12">
-        <h6>About BuildZoom</h6>
-				<p>BuildZoom helps you hire great contractors. Get started by using our
-					<a href="/service_requests/new" data-referral-source="footer" rel="nofollow" target="_top">bidding system</a>
-				to get quotes. Questions? Please email support@buildzoom.com or use the chat box at the bottom right of this page.</p>
-        <div id="hide_bbb_accred"></div>
-      </section>
-			<div class="clearfix visible-xs"></div>
-      <section class="col-md-2 col-sm-4 col-xs-12">
-        <h6>Learn More</h6>
-        <ul class="footer_links">
-          <li><span class="glyphicon glyphicon-chevron-right"></span><a href="/about" rel="nofollow" target="_top">About BuildZoom</a></li>
-          <li><span class="glyphicon glyphicon-chevron-right"></span><a href="http://www.buildzoom.com/privacy-policy" rel="nofollow" target="_top">Privacy Policy</a></li>
-          <li><span class="glyphicon glyphicon-chevron-right"></span><a href="http://support.buildzoom.com" rel="nofollow" target="_top">Support</a></li>
-          <li><span class="glyphicon glyphicon-chevron-right"></span><a href="/contact-us" rel="nofollow" target="_top">Contact</a></li>
-          <li><span class="glyphicon glyphicon-chevron-right"></span><a href="/service_requests/new" data-referral-source="footer" rel="nofollow" target="_top">Help me find a contractor</a></li>
-					<li><span class="glyphicon glyphicon-chevron-right"></span><a href="/cost" rel="nofollow" target="_top">Get a cost estimate</a></li>
-					<li><span class="glyphicon glyphicon-chevron-right"></span><a href="http://blog.buildzoom.com" rel="nofollow" target="_top">Blog</a></li>
-        </ul>
-      </section>
-      <section class="col-md-2 col-sm-4 col-xs-12">
-      <h6>Top Cities</h6>
-        <ul class="footer_links">
-          <li><span class="glyphicon glyphicon-chevron-right"></span><a href="/chicago" target="_top">Chicago</a></li>
-          <li><span class="glyphicon glyphicon-chevron-right"></span><a href="/los-angeles" target="_top">Los Angeles</a></li>
-          <li><span class="glyphicon glyphicon-chevron-right"></span><a href="/new-york-ny" target="_top">New York</a></li>
-          <li><span class="glyphicon glyphicon-chevron-right"></span><a href="/philadelphia-pa" target="_top">Philadelphia</a></li>
-          <li><span class="glyphicon glyphicon-chevron-right"></span><a href="/san-francisco-ca" target="_top">San Francisco</a></li>
-        </ul>
-      </section>
-
-      <section class="col-md-3 col-sm-4 col-xs-12">
-        <h6>Feeling Lucky</h6>
-        <ul class="footer_links">
-          <li><span class="glyphicon glyphicon-chevron-right"></span><a href="/contractor/andrew-lannutti-plumbing" target="_top">Andrew Lannutti Plumbing</a></li>
-          <li><span class="glyphicon glyphicon-chevron-right"></span><a href="/contractor/final-touch-home-improvements--2" target="_top">Final Touch Home Improvements</a></li>
-          <li><span class="glyphicon glyphicon-chevron-right"></span><a href="/contractor/my-carpenter-llc--2" target="_top">My Carpenter Llc</a></li>
-          <li><span class="glyphicon glyphicon-chevron-right"></span><a href="/contractor/chris-hatfield" target="_top">Chris Hatfield</a></li>
-          <li><span class="glyphicon glyphicon-chevron-right"></span><a href="/contractor/slootmaker-technical-services-sts-inc" target="_top">Slootmaker Technical Services Sts Inc</a></li>
-        </ul>
-      </section>
-    </div>
-
-    <div class="row bottom">
-      <section class="col-md-10  col-xs-12">
-        <p class="copyright">BuildZoom, Inc © 2015. All Rights Reserved.<br>501 Folsom St, San Francisco, CA 94105</p>
-      </section>
-      <section class="col-md-2  col-xs-12">
-        <section class="logo"></section>
-      </section>
-    </div>
-  </div>
+<div class="container">
+<div class="row">
+<section class="col-md-3 col-sm-4 col-xs-12">
+<h6>About BuildZoom</h6>
+<ul class="footer_links">
+<li><a target="_top" href="/about">About BuildZoom</a></li>
+<li><a target="_top" href="/privacy-policy">Privacy Policy</a></li>
+<li><a target="_top" href="/terms-of-service">Terms of Service</a></li>
+<li><a target="_top" href="/careers">Careers</a></li>
+<li><a target="_top" href="/contact-us">Contact</a></li>
+<li><a target="_top" href="/search">Sitemap</a></li>
+<li><a target="_top" href="https://www.buildzoom.com/blog/">Blog</a></li>
+</ul>
+</section>
+<section class="col-md-3 col-sm-4 col-xs-12 hidden-xs">
+<h6>Data &amp; Analysis</h6>
+<ul class="footer_links">
+<li><a href="/blog/category/analysis">Economic analysis by Issi Romem</a></li>
+<li><a href="/charts">Remodeling charts &amp; stats</a></li>
+<li><a href="/map/nation-wide">Map of remodeling activity in your town</a></li>
+<li><a href="/charts?q=for+solarcity_corp">Permits filed by publicly traded companies</a>
+</li>
+<li><a href="/charts?q=with+solar/from+2000">The rise of solar installations in charts</a>
+</li>
+</ul>
+</section>
+<section class="col-md-3 col-sm-4 col-xs-12 hidden-xs">
+<h6>Ways to use BuildZoom</h6>
+<ul class="footer_links">
+<li><a target="_top" data-referral-source="footer" href="/project/new">Get competitive bids for any project</a></li>
+<li><a href="/map/nation-wide">View remodeling history of any property</a></li>
+<li><a href="/search">Search every licensed contractor</a></li>
+<li><a href="/answers/">Forums powered by licensed contractors</a></li>
+<li><a href="https://www.buildzoom.com/photos">Get inspiration in our photo galleries</a></li>
+<li><a href="https://projects.buildzoom.com">Submit a project</a></li>
+</ul>
+</section>
+<section class="col-md-3 col-sm-12 col-xs-12 section-separator" itemtype="http://schema.org/Organization" itemscope="">
+<meta content="http://www.buildzoom.com/logo.png" itemprop="logo">
+<meta content="http://www.buildzoom.com/" itemprop="url">
+<a href="https://www.buildzoom.com">
+<div add-class-on-load="" css-class="with-logo-image" class="logo"></div>
+</a>
+<p class="copyright">
+© 2017. All Rights Reserved.<br>
+<span itemprop="address" itemtype="http://schema.org/PostalAddress" itemscope="">
+<span itemprop="streetAddress">301 Howard St.</span><br>
+<span itemprop="addressLocality">San Francisco</span>,
+<span itemprop="addressRegion">CA</span>
+<span itemprop="postalcode">94105</span>
+</span>
+</p><div class="footer-social-links">
+<a href="https://www.facebook.com/buildzoom/" target="_blank" itemprop="sameAs"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+<a href="https://twitter.com/BuildZoom" target="_blank" itemprop="sameAs"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+<a href="https://www.instagram.com/buildzoom/" target="_blank" itemprop="sameAs"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+<a href="https://plus.google.com/+Buildzoom" target="_blank" itemprop="sameAs"><i class="fa fa-google-plus-square" aria-hidden="true"></i></a>
+<a href="https://www.linkedin.com/company/buildzoom" target="_blank" itemprop="sameAs"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+</div>
+<p></p>
+<a class="v3-button v3-hollow-light-grey-button v3-square-button hiring-button" href="/careers">We're Hiring!</a>
+</section>
+</div>
+</div>
 </footer>
+<script>
+    adroll_adv_id = "6MTTQNDR7JEKFGH4QUZVMK";
+    adroll_pix_id = "7NC62INW6RBODOK3CSGTRN";
 
+    (function () {
+      var _onload = function(){
+        if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+        if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+        var scr = document.createElement("script");
+        var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+        scr.setAttribute('async', 'true');
+        scr.type = "text/javascript";
+        scr.src = host + "/j/roundtrip.js";
+        ((document.getElementsByTagName('head') || [null])[0] ||
+        document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+      };
+      if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+      else {window.attachEvent('onload', _onload)}
+    }());
+  </script>
+<script>
+	var bzGlobal = bzGlobal || {};
+	bzGlobal.applicationConstants = {
+		templateVersion: 'd302741db8585b27b2452e1d4b92fb8f',
+		support: {
+			email: 'support@buildzoom.com',
+			phone: '(844) 336-0033',
+			phoneNumber: '8443360033',
+			phone2: '(844) 336-0033',
+			crPhone: '8443295737',
+			conciergePhone: '8443295553',
+			srCreatePhone: '8442155334'
+		},
+		filepicker: {
+			stock_image_url: '//res.cloudinary.com/ht2jtxwwo/image/upload/f_auto,q_auto/olds3/_assets/',
+			lib_url: '//api.filepicker.io/v2/filepicker.js',
+			key: 'ApCDun7UVTyK8WghZZrWZz'
+		},
+		stripe: {
+			stock_image_url: 'https://www.filepicker.io/api/file/PCYtlofvSLGCU4kKgz8W',
+			lib_url: 'https://js.stripe.com/v2/',
+			checkout_url: 'https://checkout.stripe.com/checkout.js',
+			key: 'pk_live_SqWxs5kUYqI3Dsd5tEv30OUX'
+		},
+		plaid: {
+			link_url: 'https://cdn.plaid.com/link/stable/link-initialize.js',
+			public_key: '7e746900d1d862f418c242664b82de',
+			client_id: '5671f7a4795b36cc730ba6b4',
+			env: 'production'
+		},
+		image_sizes: {"high_100":{"width":null,"height":100},"high_1000":{"width":null,"height":1000},"wide_750x500":{"width":750,"height":500},"wide_1300":{"width":1300,"height":null},"wide_900":{"width":950,"height":null},"wide_750":{"width":750,"height":null},"wide_600":{"width":600,"height":null},"wide_500":{"width":500,"height":null},"wide_200":{"width":200,"height":125},"wide_120":{"width":120,"height":105},"wide_100":{"width":100,"height":60},"square_50":{"width":50,"height":50},"square_60":{"width":60,"height":60},"square_80":{"width":80,"height":80},"square_100":{"width":100,"height":100},"square_150":{"width":150,"height":150},"square_200":{"width":200,"height":200},"square_300":{"width":300,"height":300},"square_400":{"width":400,"height":400},"square_500":{"width":500,"height":500}},
+		googleBrowserKey: 'AIzaSyCXDCE4UeHatTyNVQr1l8OtQ6VwfK7qT5E',
+		contractorAndProjectTypesList: [{"id":1,"slug":"general-contractors","name":"General Contractor","display_order":10,"match_order":10,"match_terms":"general,build,construct,remodel,improvement","permit_scaling_factor":10,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":18,"slug":"architects","name":"Architect","display_order":20,"match_order":40,"match_terms":"architect","permit_scaling_factor":5,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":7,"slug":"carpenters","name":"Carpenter","display_order":30,"match_order":150,"match_terms":"carpent,cabinet,millwork","permit_scaling_factor":5,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":14,"slug":"concrete-contractors","name":"Concrete Contractor","display_order":40,"match_order":60,"match_terms":"concrete","permit_scaling_factor":5,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":13,"slug":"drywall-and-plaster-contractors","name":"Drywall and Plaster Contractor","display_order":50,"match_order":170,"match_terms":"drywall","permit_scaling_factor":5,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":3,"slug":"electricians","name":"Electrician","display_order":60,"match_order":70,"match_terms":"electric","permit_scaling_factor":27,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":19,"slug":"engineers","name":"Engineer","display_order":70,"match_order":30,"match_terms":"engineer","permit_scaling_factor":7,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":27,"slug":"environmental-services-contractors","name":"Environmental Services Contractor","display_order":80,"match_order":null,"match_terms":null,"permit_scaling_factor":10,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":10,"slug":"exterior-contractors","name":"Exterior Contractor","display_order":90,"match_order":190,"match_terms":"exterior,siding,deck","permit_scaling_factor":12,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":20,"slug":"fencing-contractors","name":"Fencing Contractor","display_order":100,"match_order":200,"match_terms":"fenc","permit_scaling_factor":10,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":9,"slug":"flooring-contractors","name":"Flooring Contractor","display_order":110,"match_order":120,"match_terms":"floor,hardwood,carpet","permit_scaling_factor":5,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":29,"slug":"handymen","name":"Handyman","display_order":120,"match_order":310,"match_terms":"handyman,maintenance","permit_scaling_factor":5,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":2,"slug":"home-builders","name":"Home Builder","display_order":130,"match_order":20,"match_terms":"homes,custom home,home construction,homes construction,home builder","permit_scaling_factor":10,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":5,"slug":"hvac-mechanical-contractors","name":"HVAC/Mechanical Contractor","display_order":140,"match_order":110,"match_terms":"heating,condition,hvac,furnace,mechanical","permit_scaling_factor":27,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":25,"slug":"insulation-acoustic-contractors","name":"Insulation/Acoustic Contractor","display_order":150,"match_order":null,"match_terms":null,"permit_scaling_factor":10,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":16,"slug":"ironworkers-welders","name":"Ironworkers/Welder","display_order":160,"match_order":240,"match_terms":"weld","permit_scaling_factor":5,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":26,"slug":"landscape-contractors","name":"Landscape Contractor","display_order":170,"match_order":100,"match_terms":"landscap,nurser","permit_scaling_factor":5,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":15,"slug":"masons","name":"Mason","display_order":190,"match_order":180,"match_terms":"masonry,stone","permit_scaling_factor":5,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":11,"slug":"painters","name":"Painter","display_order":200,"match_order":80,"match_terms":"paint","permit_scaling_factor":5,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":4,"slug":"plumbers","name":"Plumber","display_order":210,"match_order":90,"match_terms":"plumb","permit_scaling_factor":26,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":24,"slug":"restoration-specialists","name":"Restoration Specialist","display_order":220,"match_order":null,"match_terms":null,"permit_scaling_factor":10,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":6,"slug":"roofers","name":"Roofer","display_order":230,"match_order":50,"match_terms":"roof","permit_scaling_factor":25,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":28,"slug":"sign-contractors","name":"Sign Contractor","display_order":240,"match_order":350,"match_terms":"sign","permit_scaling_factor":10,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":8,"slug":"solar-contractors","name":"Solar Contractor","display_order":260,"match_order":40,"match_terms":"solar,photovoltaic","permit_scaling_factor":143,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":12,"slug":"stone-and-tile-contractors","name":"Stone and Tile Contractor","display_order":270,"match_order":130,"match_terms":"tile","permit_scaling_factor":5,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":21,"slug":"window-contractors","name":"Window Contractor","display_order":290,"match_order":160,"match_terms":"glazing,window","permit_scaling_factor":6,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":30,"slug":"miscellaneous","name":"Miscellaneous","display_order":300,"match_order":null,"match_terms":null,"permit_scaling_factor":10,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":1,"slug":"new-construction","name":"New Construction","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":2,"slug":"additions","name":"Additions","display_order":20,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":3,"slug":"remodeling","name":"Remodeling","display_order":30,"match_order":10,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":4,"slug":"tenant-improvement","name":"Tenant Improvement","display_order":40,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":17,"slug":"metalwork","name":"Metalwork","display_order":170,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":19,"slug":"swimming-pool","name":"Swimming Pool","display_order":190,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":24,"slug":"garages","name":"Garages","display_order":240,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":1,"project_type_group_id":1,"slug":"custom-home-build","name":"Custom Home Build","description":"","contractor_descriptor":"custom home builder","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":6,"project_type_group_id":2,"slug":"kitchen-addition","name":"Kitchen Addition","description":"","contractor_descriptor":"kitchen addition contractor","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":10,"project_type_group_id":3,"slug":"multi-room-remodel","name":"Multi-Room Remodel","description":"","contractor_descriptor":"multi-room remodeler","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":17,"project_type_group_id":4,"slug":"office-renovation","name":"Office Renovation","description":"","contractor_descriptor":"office renovator","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":21,"project_type_group_id":5,"slug":"roofing","name":"Roofing","description":"","contractor_descriptor":"roofer","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":27,"project_type_group_id":8,"slug":"solar-installation","name":"Solar Installation","description":"","contractor_descriptor":"solar installation contractor","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":28,"project_type_group_id":9,"slug":"hardwood-flooring","name":"Hardwood Flooring","description":"","contractor_descriptor":"hardwood flooring contractor","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":1,"relevant_for_photos":1},{"id":32,"project_type_group_id":10,"slug":"siding","name":"Siding","description":"","contractor_descriptor":"siding contractor","display_order":10,"match_order":330,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":35,"project_type_group_id":11,"slug":"hvac","name":"HVAC","description":"","contractor_descriptor":"hvac contractor","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":36,"project_type_group_id":12,"slug":"painting","name":"Painting","description":"","contractor_descriptor":"painter","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":37,"project_type_group_id":13,"slug":"decks-and-porches","name":"Decks and Porches","description":"","contractor_descriptor":"decks and porches contractor","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":42,"project_type_group_id":14,"slug":"backsplash-and-countertops","name":"Backsplash and Countertops","description":"","contractor_descriptor":"backsplash and countertops contractor","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":46,"project_type_group_id":15,"slug":"drywall","name":"Drywall","description":"","contractor_descriptor":"drywall contractor","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":48,"project_type_group_id":16,"slug":"brick-and-blockwork","name":"Brick and Blockwork","description":"","contractor_descriptor":"brick and blockwork contractor","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":50,"project_type_group_id":17,"slug":"sheet-metal-work","name":"Sheet Metal Work","description":"","contractor_descriptor":"sheet metal work contractor","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":53,"project_type_group_id":18,"slug":"flatwork-concrete","name":"Flatwork Concrete","description":"","contractor_descriptor":"flatwork concrete contractor","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":56,"project_type_group_id":19,"slug":"pool-and-spa","name":"Pool and Spa","description":"","contractor_descriptor":"pool and spa contractor","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":57,"project_type_group_id":20,"slug":"architectural-drawings-and-designs","name":"Architectural Drawings and Designs","description":"","contractor_descriptor":"architectural drawings and designs contractor","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":60,"project_type_group_id":21,"slug":"demolition","name":"Demolition","description":"","contractor_descriptor":"demolition  contractor","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":66,"project_type_group_id":22,"slug":"fire-protection","name":"Fire Protection","description":"","contractor_descriptor":"fire protection contractor","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":70,"project_type_group_id":23,"slug":"water-damage-restoration","name":"Water Damage Restoration","description":"","contractor_descriptor":"water damage restoration contractor","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":73,"project_type_group_id":24,"slug":"garage-construction","name":"Garage Construction","description":"","contractor_descriptor":"garage construction contractor","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":75,"project_type_group_id":25,"slug":"acoustic-and-ceiling","name":"Acoustic and Ceiling","description":"","contractor_descriptor":"acoustic and ceiling contractor","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":77,"project_type_group_id":26,"slug":"landscape","name":"Landscape","description":"","contractor_descriptor":"landscape contractor","display_order":10,"match_order":30,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":79,"project_type_group_id":27,"slug":"mold-lead-and-asbestos","name":"Mold, Lead, and Asbestos","description":"","contractor_descriptor":"mold, lead, and asbestos contractor","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":82,"project_type_group_id":28,"slug":"signage","name":"Signage","description":"","contractor_descriptor":"signage contractor","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":83,"project_type_group_id":29,"slug":"seismic-retrofit","name":"Seismic Retrofit","description":"","contractor_descriptor":"seismic retrofit contractor","display_order":10,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":2,"project_type_group_id":1,"slug":"home-construction","name":"Home Construction","description":"","contractor_descriptor":"home construction contractor","display_order":20,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":7,"project_type_group_id":2,"slug":"bathroom-addition","name":"Bathroom Addition","description":"","contractor_descriptor":"bathroom addition contractor","display_order":20,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":11,"project_type_group_id":3,"slug":"kitchen-remodel","name":"Kitchen Remodel","description":"","contractor_descriptor":"kitchen remodeler","display_order":20,"match_order":30,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":1,"relevant_for_photos":1},{"id":18,"project_type_group_id":4,"slug":"restaurant-renovation","name":"Restaurant Renovation","description":"","contractor_descriptor":"restaurant renovator","display_order":20,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":22,"project_type_group_id":6,"slug":"boiler-water-heater","name":"Boiler/Water Heater","description":"","contractor_descriptor":"boiler/water heater contractor","display_order":20,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":29,"project_type_group_id":9,"slug":"carpets","name":"Carpets","description":"","contractor_descriptor":"carpet contractor","display_order":20,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":33,"project_type_group_id":10,"slug":"stucco-and-exterior-plastering","name":"Stucco and Exterior Plastering","description":"","contractor_descriptor":"stucco and exterior plastering contracotr","display_order":20,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":38,"project_type_group_id":13,"slug":"doors-and-windows","name":"Doors and Windows","description":"","contractor_descriptor":"doors and windows contractor","display_order":20,"match_order":160,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":1,"relevant_for_photos":1},{"id":43,"project_type_group_id":14,"slug":"stonework","name":"Stonework","description":"","contractor_descriptor":"stonework contractor","display_order":20,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":47,"project_type_group_id":15,"slug":"interior-plaster","name":"Interior Plaster","description":"","contractor_descriptor":"interior plaster contractor","display_order":20,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":51,"project_type_group_id":17,"slug":"ironwork-and-welding","name":"Ironwork and Welding","description":"","contractor_descriptor":"welder","display_order":20,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":54,"project_type_group_id":18,"slug":"foundations","name":"Foundations","description":"","contractor_descriptor":"foundations contractor","display_order":20,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":58,"project_type_group_id":20,"slug":"structural-engineering","name":"Structural Engineering","description":"","contractor_descriptor":"structural engineer","display_order":20,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":61,"project_type_group_id":21,"slug":"sewer-laterals","name":"Sewer Laterals","description":"","contractor_descriptor":"sewer laterals contractor","display_order":20,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":67,"project_type_group_id":22,"slug":"smart-home-a-v-computer-networks","name":"Smart Home, A/V, Computer Networks","description":"","contractor_descriptor":"smart home, a/v, computer networks contractor","display_order":20,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":71,"project_type_group_id":23,"slug":"fire-damage-restoration","name":"Fire Damage Restoration","description":"","contractor_descriptor":"fire damage restoration contractor","display_order":20,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":74,"project_type_group_id":24,"slug":"overhead-doors","name":"Overhead Doors","description":"","contractor_descriptor":"overhead doors contractor","display_order":20,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":76,"project_type_group_id":25,"slug":"insulation-shell-and-envelope","name":"Insulation, Shell, and Envelope","description":"","contractor_descriptor":"insulation, shell, and envelope contractor","display_order":20,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":78,"project_type_group_id":26,"slug":"hardscape","name":"Hardscape","description":"","contractor_descriptor":"hardscape contractor","display_order":20,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":80,"project_type_group_id":27,"slug":"termites-and-pests","name":"Termites and Pests","description":"","contractor_descriptor":"termites and pests contractor","display_order":20,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":84,"project_type_group_id":29,"slug":"elevator-installation","name":"Elevator Installation","description":"","contractor_descriptor":"elevator installation contractor","display_order":20,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":90,"project_type_group_id":5,"slug":"skylights","name":"Skylights","description":"","contractor_descriptor":"skylights contractor","display_order":20,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":3,"project_type_group_id":1,"slug":"multi-family-new-construction","name":"Multi-Family New Construction","description":"","contractor_descriptor":"multi-family new construction contractor","display_order":30,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":8,"project_type_group_id":2,"slug":"room-addition","name":"Room Addition","description":"","contractor_descriptor":"room addition contractor","display_order":30,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":12,"project_type_group_id":3,"slug":"bathroom-remodel","name":"Bathroom Remodel","description":"","contractor_descriptor":"bathroom remodeler","display_order":30,"match_order":20,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":1,"relevant_for_photos":1},{"id":23,"project_type_group_id":6,"slug":"fire-sprinkler-systems","name":"Fire Sprinkler Systems","description":"","contractor_descriptor":"fire sprinkler systems contractor","display_order":30,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":30,"project_type_group_id":9,"slug":"laminate-flooring","name":"Laminate Flooring","description":"","contractor_descriptor":"laminate flooring contractor","display_order":30,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":39,"project_type_group_id":13,"slug":"framing","name":"Framing","description":"","contractor_descriptor":"framing contractor","display_order":30,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":44,"project_type_group_id":14,"slug":"tile-flooring","name":"Tile Flooring","description":"","contractor_descriptor":"tile flooring contractor","display_order":30,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":62,"project_type_group_id":21,"slug":"paving-driveways-and-sidewalks","name":"Paving, Driveways, and Sidewalks","description":"","contractor_descriptor":"paving, driveways, and sidewalks contractor","display_order":30,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":68,"project_type_group_id":22,"slug":"alarm-systems","name":"Alarm Systems","description":"","contractor_descriptor":"alarm systems contractor","display_order":30,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":85,"project_type_group_id":29,"slug":"sheds-and-outhouses","name":"Sheds and Outhouses","description":"","contractor_descriptor":"sheds and outhouses contractor","display_order":30,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":4,"project_type_group_id":1,"slug":"commercial-construction","name":"Commercial Construction","description":"","contractor_descriptor":"commercial construction contractor","display_order":40,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":13,"project_type_group_id":3,"slug":"basement-remodel","name":"Basement Remodel","description":"","contractor_descriptor":"basement remodeler","display_order":40,"match_order":40,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":24,"project_type_group_id":6,"slug":"gas-and-piping","name":"Gas and Piping","description":"","contractor_descriptor":"gas and piping contractor","display_order":40,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":40,"project_type_group_id":13,"slug":"fences","name":"Fences","description":"","contractor_descriptor":" fence contractor","display_order":40,"match_order":200,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":63,"project_type_group_id":21,"slug":"septic-tanks-and-systems","name":"Septic Tanks and Systems","description":"","contractor_descriptor":"septic tanks and systems contractor","display_order":40,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":86,"project_type_group_id":29,"slug":"interior-design","name":"Interior Design","description":"","contractor_descriptor":"interior design contractor","display_order":40,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":1},{"id":88,"project_type_group_id":13,"slug":"gutters-and-flashing","name":"Gutters and Flashing","description":"","contractor_descriptor":"gutters and flashing contractor","display_order":40,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":14,"project_type_group_id":3,"slug":"commercial-renovation","name":"Commercial Renovation","description":"","contractor_descriptor":"commercial renovator","display_order":50,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":64,"project_type_group_id":21,"slug":"excavation-and-grading","name":"Excavation and Grading","description":"","contractor_descriptor":"excavation and grading contractor","display_order":50,"match_order":340,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":15,"project_type_group_id":3,"slug":"multi-family-remodeling","name":"Multi-Family Remodeling","description":"","contractor_descriptor":"multi-family remodeler","display_order":60,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":91,"project_type_group_id":13,"slug":"cabinets","name":"Cabinets","description":"","contractor_descriptor":"cabinets contractor","display_order":60,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0},{"id":92,"project_type_group_id":13,"slug":"finish carpentry","name":"Finish Carpentry","description":"","contractor_descriptor":"finish carpenter","display_order":70,"match_order":null,"relevant_for_listing":1,"relevant_for_city":1,"relevant_for_cost":0,"relevant_for_photos":0}],
+		bugsnagKey: '66d0b793df8385182fb2acc92143e737'
+	};
 
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+</script>
+<script>
+  (function(w, d, s) {
+    function loadJsFile(){
+      var js, fjs = d.getElementsByTagName(s)[0], load = function(url, id) {
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.src = url; js.id = id;
+        if(fjs) {fjs.parentNode.insertBefore(js, fjs);}
+        else {d.body.appendChild(js);}
+      };
+//      load('file url here', 'html element id here');
+    }
+    if (w.addEventListener) { w.addEventListener("load", loadJsFile, false); }
+    else if (w.attachEvent) { w.attachEvent("onload",loadJsFile); }
+  }(window, document, 'script'));
+</script>
+<script>
+  (function(w, d, s) {
+    function createStyleTag(){
+      var css, st = d.getElementsByTagName(s)[0], load = function(url, id, delay) {
+      	delay = delay || 0;
+      	setTimeout(function () {
+          if (d.getElementById(id)) {return;}
+          css = d.createElement(s); css.innerHTML = url; css.id = id;
+          if (st) {st.parentNode.insertBefore(css, st);}
+          else { d.head.appendChild(css)}
+        }, delay);
+      };
 
-  <script src="http://maps.google.com/maps/api/js?v=3.ex&amp;sensor=true&amp;libraries=places&amp;language=us&amp;region=US&amp;key=AIzaSyCXDCE4UeHatTyNVQr1l8OtQ6VwfK7qT5E" type="text/javascript"></script>
-	<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.28/angular.min.js" type="text/javascript"></script>
-  <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/js/bootstrap.min.js" type="text/javascript"></script>
-  <script src="http://assets.buildzoom.com/assets/pages-701de229aab69a44ba7ca6631a9112a2.js" type="text/javascript"></script>
+        load('@import url("//fast.fonts.net/t/1.css?apiType=css&projectid=d4ad9bcf-f4b5-42c8-9a4d-513f441ac979");', 'fast-fonts-pixel', 1000);
+    }
+    if (w.addEventListener) { w.addEventListener("load", createStyleTag, false); }
+    else if (w.attachEvent) { w.attachEvent("onload",createStyleTag); }
+  }(window, document, 'style'));
+</script>
+<script src="//maps.googleapis.com/maps/api/js?v=3.27&amp;libraries=places&amp;language=en&amp;key=AIzaSyCXDCE4UeHatTyNVQr1l8OtQ6VwfK7qT5E"></script>
+<script>
+  if (typeof google === 'undefined') {
+    window.google = window.google || {};
+    google.maps = google.maps || {};
+    (function() {
 
-  <script src="http://assets.buildzoom.com/assets/common-a1877b687d3864cf8cef65617dcc8189.js" type="text/javascript"></script>
-	<script src="http://assets.buildzoom.com/assets/_components/angular/modules/_default_module-0fc92bf287d69246693be513e90fa3d7.js" type="text/javascript"></script>
+      function getScript(src) {
+        document.write('<' + 'script src="' + src + '"><' + '/script>');
+      }
+
+      var modules = google.maps.modules = {};
+      google.maps.__gjsload__ = function(name, text) {
+        modules[name] = text;
+      };
+
+      google.maps.Load = function(apiLoad) {
+        delete google.maps.Load;
+        apiLoad([0.009999999776482582,[[["https://mts0.googleapis.com/vt?lyrs=m@327000000\u0026src=api\u0026hl=en\u0026","https://mts1.googleapis.com/vt?lyrs=m@327000000\u0026src=api\u0026hl=en\u0026"],null,null,null,null,"m@327000000",["https://mts0.google.com/vt?lyrs=m@327000000\u0026src=api\u0026hl=en\u0026","https://mts1.google.com/vt?lyrs=m@327000000\u0026src=api\u0026hl=en\u0026"]],[["https://khms0.googleapis.com/kh?v=187\u0026hl=en\u0026","https://khms1.googleapis.com/kh?v=187\u0026hl=en\u0026"],null,null,null,1,"187",["https://khms0.google.com/kh?v=187\u0026hl=en\u0026","https://khms1.google.com/kh?v=187\u0026hl=en\u0026"]],null,[["https://mts0.googleapis.com/vt?lyrs=t@132,r@327000000\u0026src=api\u0026hl=en\u0026","https://mts1.googleapis.com/vt?lyrs=t@132,r@327000000\u0026src=api\u0026hl=en\u0026"],null,null,null,null,"t@132,r@327000000",["https://mts0.google.com/vt?lyrs=t@132,r@327000000\u0026src=api\u0026hl=en\u0026","https://mts1.google.com/vt?lyrs=t@132,r@327000000\u0026src=api\u0026hl=en\u0026"]],null,null,[["https://cbks0.googleapis.com/cbk?","https://cbks1.googleapis.com/cbk?"]],[["https://khms0.googleapis.com/kh?v=89\u0026hl=en\u0026","https://khms1.googleapis.com/kh?v=89\u0026hl=en\u0026"],null,null,null,null,"89",["https://khms0.google.com/kh?v=89\u0026hl=en\u0026","https://khms1.google.com/kh?v=89\u0026hl=en\u0026"]],[["https://mts0.googleapis.com/mapslt?hl=en\u0026","https://mts1.googleapis.com/mapslt?hl=en\u0026"]],[["https://mts0.googleapis.com/mapslt/ft?hl=en\u0026","https://mts1.googleapis.com/mapslt/ft?hl=en\u0026"]],[["https://mts0.googleapis.com/vt?hl=en\u0026","https://mts1.googleapis.com/vt?hl=en\u0026"]],[["https://mts0.googleapis.com/mapslt/loom?hl=en\u0026","https://mts1.googleapis.com/mapslt/loom?hl=en\u0026"]],[["https://mts0.googleapis.com/mapslt?hl=en\u0026","https://mts1.googleapis.com/mapslt?hl=en\u0026"]],[["https://mts0.googleapis.com/mapslt/ft?hl=en\u0026","https://mts1.googleapis.com/mapslt/ft?hl=en\u0026"]],[["https://mts0.googleapis.com/mapslt/loom?hl=en\u0026","https://mts1.googleapis.com/mapslt/loom?hl=en\u0026"]]],["en","US",null,0,null,null,"https://maps.gstatic.com/mapfiles/","https://csi.gstatic.com","https://maps.googleapis.com","https://maps.googleapis.com",null,"https://maps.google.com","https://gg.google.com","https://maps.gstatic.com/maps-api-v3/api/images/","https://www.google.com/maps",0,"https://www.google.com"],["https://maps.googleapis.com/maps-api-v3/api/js/20/16","3.20.16"],[677618244],1,null,null,null,null,null,"",["places"],null,1,"https://khms.googleapis.com/mz?v=187\u0026","AIzaSyCXDCE4UeHatTyNVQr1l8OtQ6VwfK7qT5E","https://earthbuilder.googleapis.com","https://earthbuilder.googleapis.com",null,"https://mts.googleapis.com/vt/icon",[["https://mts0.googleapis.com/vt","https://mts1.googleapis.com/vt"],["https://mts0.googleapis.com/vt","https://mts1.googleapis.com/vt"],null,null,null,null,null,null,null,null,null,null,["https://mts0.google.com/vt","https://mts1.google.com/vt"],"/maps/vt",327000000,132],2,500,[null,"https://g0.gstatic.com/landmark/tour","https://g0.gstatic.com/landmark/config",null,"https://www.google.com/maps/preview/log204","","https://static.panoramio.com.storage.googleapis.com/photos/",["https://geo0.ggpht.com/cbk","https://geo1.ggpht.com/cbk","https://geo2.ggpht.com/cbk","https://geo3.ggpht.com/cbk"],"https://maps.googleapis.com/maps/api/js/GeoPhotoService.GetMetadata","https://maps.googleapis.com/maps/api/js/GeoPhotoService.SingleImageSearch",["https://lh3.ggpht.com/","https://lh4.ggpht.com/","https://lh5.ggpht.com/","https://lh6.ggpht.com/"]],["https://www.google.com/maps/api/js/master?pb=!1m2!1u20!2s16!2sen!3sUS!4s20/16","https://www.google.com/maps/api/js/widget?pb=!1m2!1u20!2s16!2sen"],null,0,null,"/maps/api/js/ApplicationService.GetEntityDetails",0,null,null,null,null,null,["20.16"]], loadScriptTime);
+      };
+      var loadScriptTime = (new Date).getTime();
+      getScript("https://maps.googleapis.com/maps-api-v3/api/js/20/16/main.js");
+      getScript("https://maps.googleapis.com/maps-api-v3/api/js/20/16/places.js");
+    })();
+  }
+</script><script src="https://maps.googleapis.com/maps-api-v3/api/js/20/16/main.js"></script><script src="https://maps.googleapis.com/maps-api-v3/api/js/20/16/places.js"></script>
+<script src="//assets.buildzoom.com/assets/critical-332d9aea8b6b6fef589d523077453ffb31677f68e0eb259fb8de73e4f9ccb2c6.js"></script>
+<script src="//assets.buildzoom.com/assets/base-71cf840a6056173e4040969d67f9e85781e8065c9290925d475cc556c880a1f2.js"></script>
+<script src="//assets.buildzoom.com/assets/company/privacy_policy-64c1b0027c62575be0c829d4b772483f02ca9fa7e21f1d9389ca501f3e520232.js"></script>
+<script>
+		if (typeof defaultAngularModuleSet === 'undefined') { var defaultAngularModuleSet = []; }
+		if (typeof bz_app === 'undefined' && typeof angular !== 'undefined') {var bz_app = angular.module("bz_app", defaultAngularModuleSet);angular.element(document).ready(function() {angular.bootstrap(document, ['bz_app']);});} // default module if no other module exists; in-line instead of separate file for performance
+	</script>
+<script type="text/ng-template" id="/assets/_components/components/project_multi_step_form.html?v=d302741db8585b27b2452e1d4b92fb8f"><div class="project-form-nav"> <div ng-click="$ctrl.close()" class="nav-close-container"> &times; </div> <div ng-if="$ctrl.screenService.prevScreen" ng-click="$ctrl.screenService.showPrevScreen()" class="nav-back-container"> <div class="nav-back-button"></div> </div> <div ng-if="$ctrl.screenService.isNextVisitedScreen()" ng-click="$ctrl.screenService.showNextScreen()" class="nav-forward-container"> <div class="nav-forward-button"></div> </div> </div> <div ng-class="{'progress-bar-hidden': $ctrl.screenService.isFirstScreen()}" class="project-form-progress-bar"> <div class="progress-bar-bg"></div> <div ng-style="$ctrl.screenService.progressStyle()" class="progress-bar-value"></div> </div> <div ng-swipe-up="$ctrl.onSwipeUp($event)" ng-swipe-down="$ctrl.onSwipeDown($event)" class="project-form-container" > <title-screen project="$ctrl.project" ng-class="{'active-body' : $ctrl.screenService.isCurrentScreen('title'), 'prev-body' : $ctrl.screenService.isPrevScreen('title')}" class="project-form-body"></title-screen> <urgency-screen project="$ctrl.project" ng-class="{'active-body' : $ctrl.screenService.isCurrentScreen('urgency'), 'prev-body' : $ctrl.screenService.isPrevScreen('urgency')}" class="project-form-body"></urgency-screen> <expected-responses-screen project="$ctrl.project" ng-class="{'active-body' : $ctrl.screenService.isCurrentScreen('expected-responses'), 'prev-body' : $ctrl.screenService.isPrevScreen('expected-responses')}" class="project-form-body"></expected-responses-screen> <property-type-screen project="$ctrl.project" ng-class="{'active-body' : $ctrl.screenService.isCurrentScreen('property-type'), 'prev-body' : $ctrl.screenService.isPrevScreen('property-type')}" class="project-form-body"></property-type-screen> <user-screen project="$ctrl.project" ng-class="{'active-body' : $ctrl.screenService.isCurrentScreen('user'), 'prev-body' : $ctrl.screenService.isPrevScreen('user')}" class="project-form-body"></user-screen> <phone-screen project="$ctrl.project" ng-if="$ctrl.screenService.hasScreen('phone')" ng-class="{'active-body' : $ctrl.screenService.isCurrentScreen('phone'), 'prev-body' : $ctrl.screenService.isPrevScreen('phone')}" class="project-form-body"></phone-screen> <location-screen project="$ctrl.project" ng-class="{'active-body' : $ctrl.screenService.isCurrentScreen('location'), 'prev-body' : $ctrl.screenService.isPrevScreen('location')}" class="project-form-body"></location-screen> <property-relationship-screen project="$ctrl.project" ng-class="{'active-body' : $ctrl.screenService.isCurrentScreen('property-relationship'), 'prev-body' : $ctrl.screenService.isPrevScreen('property-relationship')}" class="project-form-body"></property-relationship-screen> <!--<job-site-screen project="$ctrl.project" ng-class="{'active-body' : $ctrl.screenService.isCurrentScreen('job-site'), 'prev-body' : $ctrl.screenService.isPrevScreen('job-site')}" class="project-form-body"></job-site-screen>--> <budget-screen project="$ctrl.project" ng-class="{'active-body' : $ctrl.screenService.isCurrentScreen('budget'), 'prev-body' : $ctrl.screenService.isPrevScreen('budget')}" class="project-form-body"></budget-screen> <description-screen project="$ctrl.project" ng-class="{'active-body' : $ctrl.screenService.isCurrentScreen('description'), 'prev-body' : $ctrl.screenService.isPrevScreen('description')}" class="project-form-body"></description-screen> <password-screen project="$ctrl.project" ng-class="{'active-body' : $ctrl.screenService.isCurrentScreen('password'), 'prev-body' : $ctrl.screenService.isPrevScreen('password')}" class="project-form-body"></password-screen> </div></script>
+<script type="text/ng-template" id="/assets/_components/components/project_multi_step_form/title.html?v=d302741db8585b27b2452e1d4b92fb8f"><div class="form-body-content title-content"> <div class="title-intro"> <div ng-if="$ctrl.isFormVersion(4.5)" class="slogan"> We know who the best (and worst) contractors are.<br/> This tool will help you get bids from the best. </div> <div ng-if="$ctrl.isFormVersion(4.7)" class="slogan"> Thinking about a remodel?<br/> <strong>BuildZoom will get you free quotes from talented contractors.</strong><br/> It only takes a few minutes. </div> <div class="title-question">What do you need help with?</div> </div> <title-input class-name="noPreventDefault project-title" form-data="$ctrl.project.summary" title-type-ahead-show-on-focus="off" placeholder="ex. remodel, custom home, etc" tabindex="1"></title-input> <button ng-click="$ctrl.showNextScreen()" class="v3-button v3-solid-light-blue-button v3-square-button btn-block noPreventDefault" tabindex="2">continue</button> <div class="predefined-services"> <div class="predefined-services-title">Popular Projects:</div> <div> <div ng-repeat="service in $ctrl.predefinedServices track by $index" ng-click="$ctrl.selectService(service)" ng-class="{'predefined-service-selected': ($ctrl.project.summary.title === service.label)}" class="predefined-service noPreventDefault"> <div class="service-icon-label noPreventDefault"> <div class="service-icon service-icon-{{service.cssClass}} noPreventDefault"></div> <div ng-bind="service.label" class="service-label service-label-{{service.cssClass}} noPreventDefault"></div> </div> </div> </div> </div> </div></script>
+<script type="text/ng-template" id="/assets/_components/components/project_multi_step_form/urgency.html?v=d302741db8585b27b2452e1d4b92fb8f"><div class="form-body-content urgency-content"> <screen-header project="$ctrl.project" header-text="{{$ctrl.headerText()}}" show-header-icon="true"></screen-header> <div class="urgency-options"> <div ng-repeat="urgency in $ctrl.urgencyTypes" ng-bind="urgency.text" ng-click="$ctrl.setUrgency(urgency)" ng-if="urgency.value" ng-class="{ 'answer-button-selected' : $ctrl.project.summary.urgency === urgency.value }" class="answer-button noPreventDefault" tabindex="{{ $index + 2 }}"> </div> </div> </div></script>
+<script type="text/ng-template" id="/assets/_components/components/project_multi_step_form/expected_responses.html?v=d302741db8585b27b2452e1d4b92fb8f"><div class="form-body-content expected-responses-content"> <screen-header project="$ctrl.project" header-text="How many bids do you want from contractors?" show-header-icon="false"></screen-header> <div class="expected-responses-options"> <div ng-repeat="expectedResponses in $ctrl.expectedResponsesOptions" ng-click="$ctrl.setExpectedResponses(expectedResponses)" ng-class="{ 'answer-button-selected' : $ctrl.project.expectedResponses === expectedResponses }" class="answer-button noPreventDefault" tabindex="{{ $index + 8 }}"> <span ng-bind="expectedResponses" class="noPreventDefault"></span> <span ng-if="expectedResponses === 4" class="answer-button-sub-label noPreventDefault">(Recommended)</span> </div> </div> </div></script>
+<script type="text/ng-template" id="/assets/_components/components/project_multi_step_form/property_type.html?v=d302741db8585b27b2452e1d4b92fb8f"><div class="form-body-content property-type-content"> <screen-header project="$ctrl.project" header-text="What type of property is this?" show-header-icon="false"></screen-header> <div class="property-type-options"> <div ng-repeat="propertyType in $ctrl.contractorAttributes" ng-click="$ctrl.selectPropertyType(propertyType)" ng-class="{'grid-button-selected': ($ctrl.project.summary.propertyType === propertyType.label)}" class="answer-grid-button"> <div class="button-icon-label noPreventDefault"> <div class="button-icon button-icon-{{propertyType.cssClass}} noPreventDefault"></div> <div ng-bind="propertyType.label" class="button-label button-label-{{propertyType.cssClass}} noPreventDefault"></div> </div> </div> </div> </div></script>
+<script type="text/ng-template" id="/assets/_components/components/project_multi_step_form/user.html?v=d302741db8585b27b2452e1d4b92fb8f"><div class="form-body-content user-content"> <screen-header project="$ctrl.project" header-text="How should we get ahold of you?" show-header-icon="false"></screen-header> <input ng-model="$ctrl.project.projectOwner.fullName" ng-model-options="{ updateOn: 'blur'}" ng-class="{'error-form-control' : $ctrl.errors.fullName}" class="form-control noPreventDefault" id="project-form-fullname" name="service_request[full_name]" placeholder="Full name" type="text" tabindex="11" required/> <div ng-if="$ctrl.errors.fullName" ng-bind="$ctrl.errors.fullName" class="form-content-error"></div> <input ng-hide="$ctrl.isExistingUser" ng-model="$ctrl.project.projectOwner.phone" class="form-control noPreventDefault project-owner-phone" id="project-form-phone" name="service_request[phone_number]" placeholder="Phone number" type="tel" tabindex="12" /> <div ng-if="$ctrl.isExistingUser" class="user-welcome-back">Welcome back! Please provide your password.</div> <input ng-model="$ctrl.project.projectOwner.email" ng-model-options="{ updateOn: 'blur'}" ng-class="{'error-form-control' : $ctrl.errors.email}" class="form-control noPreventDefault project-owner-email" ng-keyup="$ctrl.keyboardToNextScreen($event)" ng-blur="$ctrl.validateEmail()" id="project-form-email" name="service_request[email_address]" placeholder="Email" type="email" tabindex="13" required/> <div ng-if="$ctrl.errors.email" ng-bind="$ctrl.errors.email" class="form-content-error"></div> <input ng-if="$ctrl.isExistingUser" ng-model="$ctrl.project.projectOwner.password" ng-model-options="{ updateOn: 'blur'}" ng-class="{'error-form-control' : $ctrl.errors.password}" ng-keyup="$ctrl.keyboardToNextScreen($event)" ng-blur="$ctrl.validatePassword()" type="password" class="form-control noPreventDefault project-owner-password" placeholder="Password" /> <div ng-if="$ctrl.errors.password" ng-bind="$ctrl.errors.password" class="form-content-error"></div> <button ng-click="$ctrl.validateBeforeNextScreen()" class="v3-button v3-solid-light-blue-button v3-square-button btn-block noPreventDefault" tabindex="14">continue</button> <div class="terms-of-service"> By clicking continue, you agree to our <a ng-href="{{$ctrl.termsOfServiceUrl()}}" target="_blank" rel="noopener noreferrer" class="noPreventDefault"> Terms of Service</a>, and authorize BuildZoom to send automated calls and text messages to the phone number provided above. Providing consent is not a condition of any purchase. </div> </div></script>
+<script type="text/ng-template" id="/assets/_components/components/project_multi_step_form/phone.html?v=d302741db8585b27b2452e1d4b92fb8f"><div class="form-body-content user-content"> <screen-header project="$ctrl.project" header-text="What is the best phone number to reach you?" show-header-icon="false"></screen-header> <input ng-model="$ctrl.project.projectOwner.phone" ng-keyup="$ctrl.keyboardToNextScreen($event)" class="form-control noPreventDefault project-owner-phone" id="project-form-phone" name="service_request[phone_number]" placeholder="Phone number" type="tel" tabindex="12" /> <button ng-click="$ctrl.showNextScreen()" class="v3-button v3-solid-light-blue-button v3-square-button btn-block noPreventDefault" tabindex="14">continue</button> </div></script>
+<script type="text/ng-template" id="/assets/_components/components/project_multi_step_form/location.html?v=d302741db8585b27b2452e1d4b92fb8f"><div class="form-body-content location-content"> <screen-header project="$ctrl.project" header-text="Where do you need a contractor?" show-header-icon="false"></screen-header> <input ng-model="$ctrl.project.location.streetAddress" ng-keyup="$ctrl.keyboardToNextScreen($event)" uib-typeahead="address for address in $ctrl.getLocation($viewValue, null, { returnFullObject: true })" typeahead-on-select="$ctrl.onLocationSelected($item)" typeahead-template-url="{{ $ctrl.typeaheadTemplateUrl() }}" select-on-blur='true' typeahead-loading="loadingLocations" typeahead-append-to-body="true" class="form-control noPreventDefault project-location location-input-field" autocomplete="off" maxlength="200" placeholder="Street address" type="text" tabindex="20"> <div class="location-city-state-zip"> <div class="location-city-state-zip-inputs clearfix"> <div class="location-input-wrapper col-xs-8"> <input ng-model="$ctrl.project.location.cityState" uib-typeahead="cityState for cityState in $ctrl.getCityState($viewValue)" typeahead-on-select="$ctrl.onCityStateSelected($item)" select-on-blur='true' typeahead-loading="loadingLocations" typeahead-append-to-body="true" ng-keyup="$ctrl.keyboardToNextScreen($event)" class="form-control location-city-state noPreventDefault location-input-field" placeholder="City, State" type="text" tabindex="21"> </div> <div class="location-input-wrapper col-xs-4"> <input ng-model="$ctrl.project.location.zipcode" ng-class="{ 'error-form-control' : $ctrl.errors.zipcode }" id="project-form-zipcode" class="form-control location-zip noPreventDefault location-input-field" type="tel" pattern="[0-9]*" maxlength="5" placeholder="Zipcode" tabindex="22" /> </div> </div> <div ng-if="$ctrl.errors.zipcode" ng-bind="$ctrl.errors.zipcode" class="form-content-error"></div> </div> <button ng-click="$ctrl.validateBeforeNextScreen()" class="v3-button v3-solid-light-blue-button v3-square-button btn-block noPreventDefault" tabindex="23"> continue </button> </div></script>
+<script type="text/ng-template" id="/assets/_components/components/project_multi_step_form/job_site.html?v=d302741db8585b27b2452e1d4b92fb8f"><div class="form-body-content job-site-content"> <screen-header project="$ctrl.project" header-text="About how big is this job site?" show-header-icon="true"></screen-header> <div class="square-footage-options"> <div ng-repeat="squareFootage in $ctrl.squareFootageOptions" ng-bind="squareFootage.text" ng-click="$ctrl.setSquareFootage(squareFootage)" ng-class="{ 'answer-button-selected' : $ctrl.project.summary.squareFootage === squareFootage.value }" class="answer-button noPreventDefault"> </div> </div> </div></script>
+<script type="text/ng-template" id="/assets/_components/components/project_multi_step_form/property_relationship.html?v=d302741db8585b27b2452e1d4b92fb8f"><div class="form-body-content property-relationship-content"> <screen-header project="$ctrl.project" header-text="What is your relationship with this property?" show-header-icon="false"></screen-header> <div class="property-relationship-options"> <div ng-repeat="relationshipOption in $ctrl.propertyRelationshipOptions" ng-bind="relationshipOption.text" ng-click="$ctrl.setPropertyRelationship(relationshipOption)" ng-if="relationshipOption.value" ng-class="{ 'answer-button-selected' : $ctrl.project.location.poPropertyRelationship === relationshipOption.value }" class="answer-button noPreventDefault"> </div> </div> </div></script>
+<script type="text/ng-template" id="/assets/_components/components/project_multi_step_form/budget.html?v=d302741db8585b27b2452e1d4b92fb8f"><div class="form-body-content budget-content"> <screen-header project="$ctrl.project" header-text="What is your budget?" show-header-icon="true"></screen-header> <select ng-model="$ctrl.project.summary.budget" ng-change="$ctrl.onBudgetSelected()" ng-disabled="$ctrl.isBudgetFieldDisabled" ng-options="budgetOption.value as budgetOption.text for budgetOption in $ctrl.budgetOptions" ng-class="{'error-form-control':!$ctrl.isAllowedBudget}" id="budget" class="form-control noPreventDefault" tabindex="15"></select> <div ng-if="$ctrl.showFinancingOption()" class="budget-financing noPreventDefault"> <input ng-model="$ctrl.project.summary.interestedInFinancing" type="checkbox" class="noPreventDefault"/> <span class="budget-financing-label">I'm interested in financing options</span> </div> <button ng-click="$ctrl.showNextScreen()" ng-disabled="$ctrl.isBudgetFieldDisabled || !$ctrl.isAllowedBudget" ng-bind="$ctrl.continueButtonLabel" class="v3-button v3-solid-light-blue-button v3-square-button btn-block noPreventDefault"></button> <div ng-if="!$ctrl.isAllowedBudget" class="error-text"> Oops! We're sorry, we don't have any contractors that support projects under $1,000 in your area. </div> </div></script>
+<script type="text/ng-template" id="/assets/_components/components/project_multi_step_form/description.html?v=d302741db8585b27b2452e1d4b92fb8f"><div class="form-body-content description-content"> <screen-header project="$ctrl.project" header-text="Please give a brief description of your project." show-header-icon="false"></screen-header> <textarea ng-model="$ctrl.project.summary.description" ng-model-options="{ updateOn: 'blur'}" class="form-control noPreventDefault" placeholder="Share project details - at least a few sentences" maxlength="7500" tabindex="16"></textarea> <div ng-if="!$ctrl.project.hasAttachments()" ng-click="$ctrl.attachFiles()" class="content-attachment-button noPreventDefault"> &plus; Attach any plans, photos, etc of the project </div> <div ng-if="$ctrl.project.hasAttachments()"> <attachments-grid attachments="$ctrl.project.summary.attachments" scrollable="true"> <add-more-button> <div ng-click="$ctrl.attachFiles()" class="content-attachment-grid-button noPreventDefault"> <div class="grid-item noPreventDefault"> <div class="grid-item-icon noPreventDefault"> <div class="attachment-icon-text noPreventDefault">&plus;</div> </div> <div class="grid-item-name">ADD MORE</div> </div> </div> </add-more-button> </attachments-grid> </div> <button ng-click="$ctrl.continue()" ng-bind="$ctrl.continueButtonLabel" class="v3-button v3-solid-light-blue-button v3-square-button btn-block noPreventDefault"></button> </div></script>
+<script type="text/ng-template" id="/assets/_components/components/project_multi_step_form/password.html?v=d302741db8585b27b2452e1d4b92fb8f"><div class="form-body-content password-content"> <screen-header project="$ctrl.project" header-text="Lastly, set a password to more easily access your account." show-header-icon="false"></screen-header> <div class="email-display"> <div ng-bind="$ctrl.project.projectOwner.email" class="email-display-value"></div> <div class="email-display-label noPreventDefault"> (email / username) <span ng-click="$ctrl.goToUserScreen()" class="noPreventDefault">change</span> </div> </div> <input ng-model="$ctrl.newPassword" ng-class="{'error-form-control' : $ctrl.errors.password}" ng-keyup="$ctrl.keyboardToNextScreen($event)" type="password" class="form-control noPreventDefault project-owner-password" placeholder="Password" tabindex="17"/> <div ng-if="$ctrl.errors.password" ng-bind="$ctrl.errors.password" class="form-content-error"></div> <button ng-click="$ctrl.validateBeforeNextScreen()" ng-bind="$ctrl.submitButtonLabel" class="v3-button v3-solid-light-blue-button v3-square-button btn-block noPreventDefault">submit</button> </div></script>
+<script type="text/ng-template" id="/assets/_components/components/project_multi_step_form/screen_header.html?v=d302741db8585b27b2452e1d4b92fb8f"><div class="content-screen-title"> <div ng-if="$ctrl.showHeaderIcon" class="screen-title-icon"></div> <span ng-bind-html="$ctrl.headerTextHtml()" class="screen-title-text"></span> </div></script>
+<script type="text/ng-template" id="/assets/users/auth_modal.html?v=d302741db8585b27b2452e1d4b92fb8f"><div id="auth-modal-content"> <button type="button" class="auth-modal-close close" ng-click="$ctrl.dismiss()"> &times; </button> <auth-screen log-in="$ctrl.logIn" user-type="$ctrl.userType" register-contractor="$ctrl.registerContractor" redirect-path="$ctrl.redirectPath" disable-tabs="$ctrl.disableTabs" variation="$ctrl.variation"> </auth-screen> </div></script>
+<script type="text/ng-template" id="/assets/users/auth_screen.html?v=d302741db8585b27b2452e1d4b92fb8f"><div id="auth-screen"> <div ng-if="$ctrl.screenIs('mainAuth')" class="auth-screen-main-wrapper"> <a ng-if="$ctrl.showBack()" ng-click="$ctrl.clearContractor()" class="back-icon-dark" href="javascript:void(0)"></a> <header class="auth-screen-header"> <h3 class="auth-screen-header-text" ng-bind="$ctrl.headerText()"></h3> <a ng-if="$ctrl.logoLink" href="/" class="auth-screen-header-logo"></a> <i ng-if="!$ctrl.logoLink" class="auth-screen-header-logo"></i> </header> <h4 ng-if="$ctrl.contractorSelected()" class="auth-screen-subheader"> Unlock your free account for <span ng-bind="$ctrl.contractor.businessName" class="auth-screen-subheader-name"></span><br> <span class="auth-screen-subheader-small"> Get leads and see who visits your profile </span> </h4> <nav ng-if="$ctrl.showNav()" class="auth-screen-nav"> <ol class="auth-screen-nav-items clearfix"> <li ng-click="$ctrl.setUserType('propertyOwner')" class="auth-screen-nav-item" ng-class="{ active: $ctrl.userTypeIs('propertyOwner') }"> Property Owner </li> <li ng-click="$ctrl.setUserType('contractor')" class="auth-screen-nav-item" ng-class="{ active: $ctrl.userTypeIs('contractor') }"> Contractor </li> </ol> <i class="auth-screen-nav-underline" ng-style="{ left: $ctrl.navUnderlinePosition() }"></i> </nav> <h4 ng-if="$ctrl.disableTabs" class="auth-screen-user-type-header"> <span ng-if="$ctrl.userTypeIs('propertyOwner')">Property Owner</span> <span ng-if="$ctrl.userTypeIs('contractor')">Contractor</span> </h4> <div class="auth-screen-main"> <claim-business-search ng-show="$ctrl.showBusinessSearch()" shown="$ctrl.showBusinessSearch()" claim-contractor="$ctrl.setContractor(contractor)" show-log-in="$ctrl.showLogIn()"> </claim-business-search> <email-password-form ng-if="$ctrl.showEmailPassword()" log-in="$ctrl.logIn" contractor="$ctrl.contractor" show-sign-up="$ctrl.showSignUp()" show-log-in="$ctrl.showLogIn()" variation="$ctrl.variation" on-authentication="$ctrl.onAuthentication(response)" referral-id="$ctrl.referralId"> </email-password-form> </div> <i ng-if="$ctrl.showContractorIcon()" class="auth-screen-icon contractor-looking-up-icon"></i> </div> <div ng-if="!$ctrl.screenIs('mainAuth')" class="claim-profile-screen" ng-class="{ 'introduction-claim-profile-screen' : $ctrl.screenIs('contractorIntroduction'), 'services-claim-profile-screen' : $ctrl.screenIs('contractorServices'), 'license-claim-profile-screen' : $ctrl.screenIs('contractorLicense'), 'business-claim-profile-screen' : $ctrl.screenIs('contractorBusiness'), 'confirmation-claim-profile-screen' : $ctrl.screenIs('confirmation')}"> <contractor-claim-introduction ng-if="$ctrl.screenIs('contractorIntroduction')" contractor="$ctrl.contractor" on-submit="$ctrl.setScreen('contractorServices')" submit-text="get started" variation="$ctrl.variation"> </contractor-claim-introduction> <contractor-claim-services ng-if="$ctrl.screenIs('contractorServices')" contractor="$ctrl.contractor" show-next-screen="($ctrl.showLicenseScreen() ? $ctrl.setScreen('contractorLicense') : $ctrl.setScreen('contractorBusiness'))" show-prev-screen="$ctrl.setScreen('contractorIntroduction')" variation="$ctrl.variation"> </contractor-claim-services> <contractor-claim-license ng-if="$ctrl.screenIs('contractorLicense')" contractor="$ctrl.contractor" show-next-screen="$ctrl.setScreen('contractorBusiness')" show-prev-screen="$ctrl.setScreen('contractorServices')" variation="$ctrl.variation"> </contractor-claim-license> <contractor-claim-business ng-if="$ctrl.screenIs('contractorBusiness')" contractor="$ctrl.contractor" show-next-screen="$ctrl.setConfirmationScreen()" show-prev-screen="($ctrl.showLicenseScreen() ? $ctrl.setScreen('contractorLicense') : $ctrl.setScreen('contractorServices'))" variation="$ctrl.variation"> </contractor-claim-business> <animated-checkmark ng-if="$ctrl.screenIs('contractorConfirmation')"> </animated-checkmark> </div> </div></script>
+<script type="text/ng-template" id="/assets/users/claim_business_search.html?v=d302741db8585b27b2452e1d4b92fb8f"><div class="claim-business-search"> <h4 class="claim-business-search-header"> Find and Claim your BuildZoom Business Profile </h4> <div class="claim-business-search-content" ng-class="{ 'with-results': $ctrl.searchSubmitted }"> <form class="claim-business-search-form" ng-submit="$ctrl.submit()"> <div class="claim-business-search-form-fields clearfix"> <div class="claim-business-search-form-field name-field"> <label class="claim-business-search-form-field-wrapper"> <span class="claim-business-search-form-label"> Business name<span class="hidden-xs">:</span> </span> <input ng-model="$ctrl.searchFields.businessName" ng-change="$ctrl.handleBusinessNameChange()" ng-class="{ error: $ctrl.errors.businessName }" class="form-control claim-business-search-form-name" placeholder="e.g. ABC Flooring" type="text" autofocus autocomplete="off" maxlength="150"> </label> <span ng-show="$ctrl.errors.businessName" ng-bind="$ctrl.errors.businessName" class="search-form-field-error ng-hide"> </span> </div> <div class="claim-business-search-form-field zip-field"> <label class="claim-business-search-form-field-wrapper"> <span class="claim-business-search-form-label"> Zip<span class="hidden-xs">:</span> </span> <input ng-model="$ctrl.searchFields.zipcode" ng-change="$ctrl.handleZipcodeChange()" class="claim-business-search-form-zip form-control" placeholder="e.g. 94105" maxlength="5" size="5" pattern="[0-9]*" type="tel"> </label> </div> </div> <!-- allows form to be submitted with enter key --> <input type="submit" style="display: none;"/> </form> <div ng-if="!$ctrl.showLogIn" class="claim-business-search-log-in visible-xs-block"> Already have an account? <a ng-click="$ctrl.showLogIn()" href="javascript:void(0)">Log in.</a> </div> <div class="claim-business-search-results-wrapper" ng-class="{ loading: $ctrl.loading }" ng-style="{ height: $ctrl.resultsHeight }" ng-show="$ctrl.searchSubmitted"> <div class="claim-business-search-results-content"> <claim-business-search-contractors contractors="$ctrl.contractorResults" claim-contractor="$ctrl.claim(contractor)"> </claim-business-search-contractors> <claim-business-search-footer page="$ctrl.page" total-pages="$ctrl.totalPages" set-page="$ctrl.setPage(page)" search-submitted="$ctrl.searchSubmitted" create-contractor="$ctrl.createContractor()" contractors="$ctrl.contractorResults"> </claim-business-search-footer> </div> <div class="claim-business-search-results-loading"> <div class="gradient-spinner-wrapper"> <div class="gradient-spinner"></div> </div> </div> </div> </div> </div></script>
+<script type="text/ng-template" id="/assets/users/claim_business_search_contractors.html?v=d302741db8585b27b2452e1d4b92fb8f"><ol ng-if="$ctrl.contractors.length" class="claim-business-search-results"> <li ng-repeat="contractor in $ctrl.contractors track by contractor.id" ng-click="$ctrl.claimContractor({ contractor: contractor })" class="claim-business-search-results-item"> <div class="search-results-item-content"> <div class="search-results-item-details"> <h6 class="search-results-item-business-name" ng-bind="contractor.businessName"></h6> <div ng-if="contractor.license.number" class="search-results-item-license"> License # <span ng-bind="contractor.license.number"></span> </div> <div class="search-results-item-address" ng-bind="contractor.displayAddress"></div> </div> <button class="search-results-item-claim v3-button v3-square-button v3-hollow-light-blue-button"> Claim this business </button> </div> </li> </ol></script>
+<script type="text/ng-template" id="/assets/users/claim_business_search_footer.html?v=d302741db8585b27b2452e1d4b92fb8f"><div class="claim-business-search-results-footer clearfix"> <div ng-if="$ctrl.resultsFound()"> <div class="claim-business-search-actions clearfix"> <div ng-if="$ctrl.showPageNav()" class="claim-business-search-page-nav"> <a class="prev-page-link" href="javascript:void(0)" ng-click="$ctrl.prevPage()" ng-if="$ctrl.showPrevPageLink()"> &#8249; Prev </a> <span> <a ng-repeat="page in $ctrl.displayPageLinks() track by page" ng-bind="page" ng-click="$ctrl.setPage({ page: page })" class="page-link" ng-class="{ active: $ctrl.page === page }" href="javascript:void(0)"></a> </span> <a class="next-page-link" href="javascript:void(0)" ng-click="$ctrl.nextPage()" ng-if="$ctrl.showNextPageLink()"> Next &#8250; </a> </div> <div class="claim-business-add-prompt"> Can't find your business? <a class="claim-business-add-prompt-link" ng-click="$ctrl.createContractor()" href="javascript:void(0)"> + Add your business to BuildZoom </a> </div> </div> </div> <div ng-if="!$ctrl.resultsFound()"> <div class="claim-business-add-prompt-center"> Can't find your business? <button class="claim-business-add-prompt-button v3-button v3-square-button v3-solid-light-blue-button" ng-click="$ctrl.createContractor()"> + Add your business to BuildZoom </button> </div> </div> </div></script>
+<script type="text/ng-template" id="/assets/users/email_password_form.html?v=d302741db8585b27b2452e1d4b92fb8f"><div class="email-password-form-wrapper"> <form class="email-password-form" ng-submit="$ctrl.submit($event)" novalidate> <label class="email-password-form-item email-item"> <span class="email-password-form-item-label">Email</span> <div class="email-password-form-item-input-wrapper"> <i class="email-password-form-item-left-icon mail-icon"></i> <i ng-if="$ctrl.fieldValid.email" class="email-password-form-item-right-icon check-icon"></i> <input ng-model="$ctrl.fields.email" type="email" autocomplete="email" placeholder="name@email.com" ng-blur="$ctrl.validateEmailIfPresent()" ng-change="$ctrl.clearInputError('email')" ng-class="{ 'email-password-form-input-error': $ctrl.errors.email }" class="email-password-form-input email-password-form-email form-control"> </div> <div ng-bind="$ctrl.errors.email" class="email-password-form-error"> </div> </label> <label class="email-password-form-item password-item"> <span class="email-password-form-item-label">Password</span> <div class="email-password-form-item-input-wrapper"> <i class="email-password-form-item-left-icon auth-lock-icon"></i> <i ng-if="!$ctrl.fieldValid.password" class="email-password-form-item-right-icon eye-icon"></i> <i ng-if="$ctrl.fieldValid.password" class="email-password-form-item-right-icon check-icon"></i> <input ng-model="$ctrl.fields.password" type="password" ng-attr-placeholder="{{ $ctrl.passwordPlaceholder() }}" ng-blur="$ctrl.validatePasswordIfPresent()" ng-change="$ctrl.clearInputError('password')" ng-class="{ 'email-password-form-input-error': $ctrl.errors.password }" class="email-password-form-input form-control"> </div> <div ng-bind="$ctrl.errors.password" class="email-password-form-error"> </div> </label> <button type="submit" class="email-password-form-submit v3-button v3-square-button v3-solid-light-blue-button" ng-disabled="$ctrl.submitting"> <span ng-if="$ctrl.submitting">Submitting...</span> <span ng-if="!$ctrl.submitting">Submit</span> </button> </form> <div class="email-password-form-actions"> <a class="email-password-form-action" ng-if="$ctrl.showResetPassword()" ng-href="{{ $ctrl.resetPasswordLink() }}" target="_blank"> Forgot your password? </a> <div class="email-password-form-action" ng-if="$ctrl.showSupportPhone()"> Need Help? <a ng-href="{{ $ctrl.supportPhoneLink() }}" ng-bind="$ctrl.supportPhone() | phone"></a> </div> <div class="email-password-form-action" ng-if="$ctrl.logIn"> Don't have an account yet? <a ng-mousedown="$ctrl.showSignUp()" href="javascript:void(0)">Sign up.</a> </div> <div class="email-password-form-action" ng-if="!$ctrl.logIn"> Already have an account? <a ng-mousedown="$ctrl.showLogIn()" href="javascript:void(0)">Log in.</a> </div> <div class="email-password-form-action terms-link" ng-if="$ctrl.showTermsLink()"> By signing up, you agree to our <a ng-href="{{ $ctrl.termsLink() }}" target="_blank">Terms of Service</a> </div> </div> </div></script>
+<script type="text/ng-template" id="/assets/users/impersonation_banner.html?v=d302741db8585b27b2452e1d4b92fb8f"><div ng-if="$ctrl.isImpersonating()" class="impersonation-banner" ng-class="{ collapsed: $ctrl.collapsed }"> <i class="fa fa-chevron-down impersonation-banner-collapse" ng-click="$ctrl.collapsed = !$ctrl.collapsed"></i> <form ng-attr-action="{{ $ctrl.revertUrl }}" method="post" class="revert-impersonation-form" ng-submit="$ctrl.onSubmit($event)"> <input type="hidden" name="_method" value="delete" autocomplete="off"> <input type="hidden" name="utf8" value="✓" autocomplete="off"> <input type="hidden" name="authenticity_token" autocomplete="off" ng-attr-value="{{ $ctrl.formAuthToken }}"> You (<span ng-bind="$ctrl.currentStaffUser().email"></span>) are impersonating <span ng-bind="$ctrl.currentUser().email"></span> (User id: <span ng-bind="$ctrl.currentUser().id"></span>) <span ng-if="$ctrl.currentUserContractor().id"> (Contractor id: <span ng-bind="$ctrl.currentUserContractor().id"></span>) </span> <button ng-bind="$ctrl.revertText()" class="btn v3-button v3-square-button v3-hollow-white-button revert-impersonation-button" type="submit"> </button> </form> </div></script>
+<script type="text/ng-template" id="/assets/_components/components/attachments_grid.html?v=d302741db8585b27b2452e1d4b92fb8f"><div ng-class="{'attachments-grid-scrollable' : $ctrl.scrollable }" class="attachments-grid noPreventDefault"> <div ng-transclude="addMoreButton" class="add-more-button noPreventDefault"></div> <div ng-repeat="attachment in $ctrl.attachments" ng-class="{ 'image-attachment': $ctrl.fileService.isFileImage(attachment.description), 'image-tile' : $ctrl.imageTile && $ctrl.fileService.isFileImage(attachment.description) }" class="grid-item noPreventDefault"> <i ng-click="$ctrl.removeAttachment({ index: $index })" ng-if="$ctrl.editable" class="fa fa-times" alt="remove" title="remove"></i> <a ng-if="$ctrl.fileService.isFileImage(attachment.description)" ng-href="{{ $ctrl.largeImgUrl(attachment) }}" data-gallery data-photo-id="{{ attachment.id }}" class="noPreventDefault" target="_blank"> <div ng-if="$ctrl.imageTile" class="grid-item-icon image noPreventDefault"> <img ng-src="{{ $ctrl.tileImgUrl(attachment) }}" class="noPreventDefault"/> </div> <div ng-if="!$ctrl.imageTile" class="grid-item-icon image noPreventDefault"> <img ng-src="{{ $ctrl.smallImgUrl(attachment) }}" class="noPreventDefault"/> </div> <div ng-if="!$ctrl.imageTile" ng-bind="attachment.name" class="grid-item-name"></div> </a> <a ng-if="!$ctrl.fileService.isFileImage(attachment.description)" ng-href="{{ attachment.cloudfrontSlug }}" alt="{{attachment.name}}" title="{{attachment.name}}" class="noPreventDefault" target="_blank"> <div class="grid-item-icon noPreventDefault" ng-class="$ctrl.fileService.iconByFileType(attachment.description)"> <div ng-if="!$ctrl.fileService.knownFileType(attachment.description)" ng-bind="$ctrl.fileService.fileTextIcon(attachment.s3Slug)" class="attachment-icon-text noPreventDefault"></div> </div> <div class="grid-item-name" ng-bind="attachment.name"></div> </a> </div> </div></script>
+<script type="text/ng-template" id="/assets/_components/components/claim_modal.html?v=d302741db8585b27b2452e1d4b92fb8f"><div ng-class="{ 'introduction-claim-profile-screen' : $ctrl.claimModalService.screenIs('introduction'), 'user-claim-profile-screen' : $ctrl.claimModalService.screenIs('user'), 'services-claim-profile-screen' : $ctrl.claimModalService.screenIs('services'), 'license-claim-profile-screen' : $ctrl.claimModalService.screenIs('license'), 'business-claim-profile-screen' : $ctrl.claimModalService.screenIs('business'), 'confirmation-claim-profile-screen' : $ctrl.claimModalService.screenIs('confirmation')}" class="claim-profile-screen"> <button ng-click="$ctrl.claimModalService.dismissModal()" ng-if="!$ctrl.claimModalService.screenIs('confirmation')" type="button" class="close"> &times;</button> <contractor-claim-user ng-if="$ctrl.claimModalService.screenIs('user')" contractor="$ctrl.contractor" show-next-screen="$ctrl.claimModalService.setScreen('services')"></contractor-claim-user> <contractor-claim-services ng-if="$ctrl.claimModalService.screenIs('services')" contractor="$ctrl.contractor" show-next-screen="($ctrl.showLicenseScreen() ? $ctrl.claimModalService.setScreen('license') : $ctrl.claimModalService.setScreen('business'))" show-prev-screen="$ctrl.claimModalService.setScreen('user')"></contractor-claim-services> <contractor-claim-license ng-if="$ctrl.claimModalService.screenIs('license')" contractor="$ctrl.contractor" show-next-screen="$ctrl.claimModalService.setScreen('business')" show-prev-screen="$ctrl.claimModalService.setScreen('services')"></contractor-claim-license> <contractor-claim-business ng-if="$ctrl.claimModalService.screenIs('business')" contractor="$ctrl.contractor" show-next-screen="$ctrl.claimModalService.setScreen('introduction')" show-prev-screen="($ctrl.showLicenseScreen() ? $ctrl.claimModalService.setScreen('license') : $ctrl.claimModalService.setScreen('services'))"></contractor-claim-business> <contractor-claim-introduction ng-if="$ctrl.claimModalService.screenIs('introduction')" contractor="$ctrl.contractor"></contractor-claim-introduction> </div></script>
+<script type="text/ng-template" id="/assets/_components/components/claim_modal/user.html?v=d302741db8585b27b2452e1d4b92fb8f"><div class="claim-wrapper"> <div class="claim-header"> <div class="claim-header-title"> Unlock your free account for <div ng-bind="$ctrl.contractor.businessName" class="title-contractor-name"></div> </div> <div class="claim-header-subtitle">Get leads and see who visits your profile.</div> </div> <div class="claim-content"> <div class="claim-content-label">Business Name</div> <div class="claim-content-input medium-content-input"> <input ng-model="$ctrl.contractor.businessName" ng-class="{'error-form-control' : $ctrl.errors.businessName}" type="text" class="form-control claim-business-name" /> </div> <div ng-bind="$ctrl.errors.businessName" class="claim-content-error"></div> <div class="claim-content-label">Email</div> <div class="claim-content-input medium-content-input"> <input ng-model="$ctrl.contractor.email" ng-model-options="{ updateOn: 'blur'}" ng-class="{'error-form-control' : $ctrl.errors.email}" type="email" class="form-control" /> </div> <div ng-bind="$ctrl.errors.email" class="claim-content-error"></div> <div class="claim-content-label">Password</div> <div class="claim-content-input medium-content-input"> <input ng-model="$ctrl.contractor.password" ng-class="{'error-form-control' : $ctrl.errors.password}" ng-keyup="$ctrl.keyboardToNextScreen($event)" type="password" class="form-control" /> </div> <div ng-bind="$ctrl.errors.password" class="claim-content-error"></div> </div> </div> <div ng-click="$ctrl.validateBeforeNextScreen()" ng-bind="$ctrl.nextButtonLabel" class="next-full-button"></div></script>
+<script type="text/ng-template" id="/assets/_components/components/claim_modal/services.html?v=d302741db8585b27b2452e1d4b92fb8f"><div class="claim-wrapper"> <div class="claim-header"> <div class="claim-header-title">Tell us about your services</div> <div class="claim-header-subtitle">Promote the different types of services you offer</div> </div> <div class="claim-content"> <div class="claim-content-label">I am primarily a</div> <div class="claim-content-input small-content-input"> <select ng-options="item.service_id as item.descriptor for item in $ctrl.classifications()" ng-model="$ctrl.contractor.classificationServiceId" class="form-control"> <option value="">- Select main service -</option> </select> </div> <div class="claim-content-label">My type of work is</div> <div class="claim-content-input small-content-input"> <select ng-options="item.value as item.text for item in $ctrl.contractorTypeOptions" ng-model="$ctrl.contractor.contractorType" class="form-control"></select> </div> <div class="claim-content-label"> I offer the following services <span class="content-sub-label">(review or update these services to help us match with relevant projects)</span> </div> <div class="claim-content-input"> <ui-select multiple theme="bootstrap" ng-model="$ctrl.contractor.services" on-select="$ctrl.splitLastService()" ng-cloak ng-keydown="$ctrl.selectKeydown($event);" id="contractor_category_ids" style="width: 100%;"> <ui-select-match class="ui-select-match" placeholder="Type and select your services"> <span class="service_name" ng-bind="$item.name"></span> <!--<span class="hdn_service_id" ng-bind="$item.id"></span>--> <!--<span class="hdn_custom_id" ng-bind="$item.custom_id" ng-if="$item.custom_id"></span>--> </ui-select-match> <ui-select-choices class="ui-select-choices" repeat="serviceOption in $ctrl.commonServices | propsFilter: {name: $select.search, selected: $ctrl.contractor.services}"> <div ng-bind-html="$ctrl.trustAsHtml(serviceOption.name)"></div> </ui-select-choices> </ui-select> </div> <div ng-click="$ctrl.showNextScreen()" class="claim-content-skip"> SKIP THIS STEP <span>&rsaquo;</span> </div> </div> </div> <div ng-click="$ctrl.showNextScreen()" class="next-full-button">next</div></script>
+<script type="text/ng-template" id="/assets/_components/components/claim_modal/license.html?v=d302741db8585b27b2452e1d4b92fb8f"><div class="claim-wrapper"> <div class="claim-header"> <div class="claim-header-title">Your License Info</div> <div class="claim-header-subtitle"> Update your profile on BuildZoom to include your contractor license <div(BuildZoom will manually verify your license info.)</div> </div> </div> <div class="claim-content"> <div class="claim-content-label">Licensing Agency</div> <div class="claim-content-input medium-content-input"> <input ng-model="$ctrl.contractor.license.agencyName" ng-class="{'error-form-control' : $ctrl.errors.agency}" uib-typeahead="licenseSource.fullName for licenseSource in $ctrl.matchLicenseSources($viewValue) | limitTo:10" typeahead-on-select="$ctrl.onSelectLicenseSource($item)" typeahead-editable="false" autocomplete="off" type="text" class="form-control" placeholder="Enter name of licensing agency" /> </div> <div ng-bind="$ctrl.errors.agency" class="claim-content-error"></div> <div class="claim-content-label">License Number</div> <div class="claim-content-input medium-content-input"> <input ng-model="$ctrl.contractor.license.number" ng-class="{'error-form-control' : $ctrl.errors.number}" type="text" class="form-control" placeholder="Enter contracting license number"/> </div> <div ng-bind="$ctrl.errors.number" class="claim-content-error"></div> </div> <div class="claim-content"> <div class="claim-content-checkmark"> <input ng-model="$ctrl.contractor.license.notNeeded" type="checkbox"/> <span ng-click="$ctrl.contractor.license.notNeeded = !$ctrl.contractor.license.notNeeded"> I don't need a license for my service</span> </div> </div> </div> <div class="prev-next-buttons"> <div ng-click="$ctrl.cleanForPrevScreen()" class="prev-button">back</div> <div ng-click="$ctrl.validateBeforeNextScreen()" class="next-button">next</div> </div></script>
+<script type="text/ng-template" id="/assets/_components/components/claim_modal/business.html?v=d302741db8585b27b2452e1d4b92fb8f"><div class="claim-wrapper"> <div class="claim-header"> <div class="claim-header-title">Your Business Info</div> </div> <div class="claim-content"> <div class="claim-content-label">Business Address</div> <div class="row"> <div class="claim-content-input col-sm-9"> <input ng-model="$ctrl.contractor.streetAddress" uib-typeahead="address for address in $ctrl.getLocation($viewValue)" typeahead-on-select="$ctrl.onLocationSelected($item)" select-on-blur='true' ng-class="{'error-form-control' : $ctrl.errors.streetAddress}" typeahead-loading="loadingLocations" class="form-control claim-street-address" autocomplete="off" maxlength="200" placeholder="Street address" type="text"> <div ng-bind="$ctrl.cityState()" class="claim-city-state"></div> </div> <div class="claim-content-input col-sm-3"> <div class="visible-xs space2"></div> <input ng-model="$ctrl.contractor.zipcode" ng-class="{'error-form-control' : $ctrl.errors.zipcode}" maxlength="5" size="5" pattern="[0-9]*" type="tel" class="form-control" placeholder="Zip"/> </div> </div> <div ng-bind="$ctrl.errors.streetAddress" class="claim-content-error"></div> <div ng-bind="$ctrl.errors.zipcode" class="claim-content-error"></div> <div class="claim-content-label">How many miles are you willing to travel for a project?</div> <div class="claim-content-input"> <input ng-model="$ctrl.contractor.travelRange" ng-model-options="{ updateOn: 'blur'}" ng-class="{'error-form-control' : $ctrl.errors.travelRange}" pattern="[0-9]*" type="number" max="200" class="form-control" placeholder="ex: 35" /> </div> <div ng-bind="$ctrl.errors.travelRange" class="claim-content-error"></div> <div class="claim-content-label">Phone (What's the best way for customers to reach you?)</div> <div class="claim-content-input"> <input ng-model="$ctrl.contractor.phoneNumber" ng-class="{'error-form-control' : $ctrl.errors.phoneNumber}" type="tel" id="contractor-phone-number" class="form-control" autocomplete="tel" /> </div> <div ng-bind="$ctrl.errors.phoneNumber" class="claim-content-error"></div> </div> </div> <div class="prev-next-buttons"> <div ng-click="$ctrl.showPrevScreen()" class="prev-button">back</div> <div ng-click="$ctrl.validateBeforeNextScreen()" class="next-button">done</div> </div></script>
+<script type="text/ng-template" id="/assets/_components/components/claim_modal/introduction.html?v=d302741db8585b27b2452e1d4b92fb8f"><div class="intro-claim-header"> <div class="intro-claim-header-icon"></div> <div class="intro-claim-header-title">Welcome to BuildZoom</div> <div class="intro-claim-header-subtitle">How does it work?</div> </div> <div class="row intro-claim-content"> <div class="col-sm-4" col-xs-12> <div class="intro-claim-content-icon"> <div class="intro-claim-content-icon-1"></div> </div> <div class="intro-claim-content-text-1">Millions of our clients <br class="hidden-xs"/>need help with projects</div> </div> <div class="col-sm-4" col-xs-12> <div class="intro-claim-content-icon"> <div class="intro-claim-content-icon-2"></div> </div> <div class="intro-claim-content-text-2">We send high quality projects <br class="hidden-xs"/>to the best contractors</div> </div> <div class="col-sm-4" col-xs-12> <div class="intro-claim-content-icon"> <div class="intro-claim-content-icon-3"></div> </div> <div class="intro-claim-content-text-3"> You only pay a 2.5% commission, <br class="hidden-xs"/>if you win the project <div class="content-link-wrapper">(<a ng-href="{{$ctrl.learnMoreUrl()}}" target="_blank">Learn More</a>)</div> </div> </div> </div> <div class="text-center"> <button ng-click="$ctrl.submit()" ng-bind="$ctrl.submitText" class="v3-button v3-solid-blue-button v3-square-button submit-intro"> </button> </div></script>
+<script type="text/ng-template" id="/assets/_components/directives/animated_checkmark.html?v=d302741db8585b27b2452e1d4b92fb8f"><svg class="checkmark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"> <circle class="checkmark-circle" cx="26" cy="26" r="25" fill="none"/> <path class="checkmark-check" fill="none" d="M14.1 27.2l7.1 7.2 16.7-16.8"/> </svg></script>
+<script id="swaychat-widget" src="//cdn.swaychat.com/assets/widget.js"></script><script id="swaychat" data-widget-id="5ee7d957-dca0-5a4e-86b2-570d7779f510" data-org-id="4865d68e-5ece-57fe-bc97-98c1a63fd4df"> (function(d, t) { var g = d.createElement(t), s = d.getElementById('swaychat');g.id = "swaychat-widget";g.src = "//" + ('swaychat' in window && swaychat.cdn ? swaychat.cdn : "cdn") + ".swaychat.com/assets/widget.js";s.parentNode.insertBefore(g, s);}(document, 'script'));
+
+    if (typeof UserData !== 'undefined' && UserData.user_signed_in()) {
+    	window.swaychat_api = function() { 
+    		swaychat.set_field({'name':UserData.user_first_name(),'email':UserData.user_email(),'phone':UserData.user_phone()}) 
+    	};
+    }
+
+     </script>
 
 
 </body></html>
