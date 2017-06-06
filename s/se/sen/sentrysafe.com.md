@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sentrysafe.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224072604id_/http%3A//www.masterlock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sentrysafe.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606111358id_/http%3A//www.masterlock.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Master Lock
 
@@ -96,4 +96,4 @@ You can also write to us or call at: Master Lock Company LLC World Headquarters 
 
 From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
-© 2016 Master Lock Company LLC. All rights reserved.
+© 2017 Master Lock Company LLC. All rights reserved.
