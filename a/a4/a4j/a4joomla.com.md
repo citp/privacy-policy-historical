@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the a4joomla.com privacy policy that was archived on 2016-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160206071614id_/http%3A//a4joomla.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a4joomla.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165458id_/http%3A//a4joomla.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
-##  [ Privacy policy](http://a4joomla.com/privacy-policy.html)
+##  [ Privacy policy](https://a4joomla.com/privacy-policy.html)
 
 This privacy policy sets out how a4joomla.com uses and protects any information that you give a4joomla.com when you use this website.  
 a4joomla.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
