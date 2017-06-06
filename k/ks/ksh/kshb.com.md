@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kshb.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204111750id_/http%3A//www.kshb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kshb.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151246id_/http%3A//www.kshb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - + KSHB.com
+# Privacy Policy - KSHB.com 41 Action News
 
 _**PRIVACY POLICY**_
 
