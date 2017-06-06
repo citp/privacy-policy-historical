@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the retailexpress.com.au privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226085009id_/http%3A//retailexpress.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailexpress.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606083520id_/http%3A//retailexpress.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Retail Express
+# Privacy Policy - Retail Express
 
 In this Privacy Policy:  
 **Retail Express (we/us/our) means   **Retail Express International Pty Ltd and Retail Express Services Pty Ltd
