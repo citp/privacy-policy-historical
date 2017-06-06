@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the campsaver.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108190555id_/http%3A//www.campsaver.com/service/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campsaver.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152213id_/http%3A//www.campsaver.com/service/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security :: CampSaver.com
 
 ## Privacy Statement
 
- **We value and respect the privacy of all our user guests** and want you to know how we handle information we learn about you when you visit our Web site or make a purchase. The provisions of this notice will apply to current customers as well as former customers unless we indicate otherwise.
+**We value and respect the privacy of all our user guests** and want you to know how we handle information we learn about you when you visit our Web site or make a purchase. The provisions of this notice will apply to current customers as well as former customers unless we indicate otherwise.
 
 Because we value our customers, we will provide any information our guests request about the information we have collected about them. By request we will erase any information that our guests do nor want us to maintain. All employees at Camp Saver LLC are required to keep personal data of our guests and customers confidential. The Camp Saver LLC web site uses secure server transactions and follows federal regulations to collect personal data.
 
