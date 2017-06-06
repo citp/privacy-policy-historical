@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaycities.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122201833id_/http%3A//www.gaycities.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaycities.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606095336id_/http%3A//www.gaycities.com/about/privacy) for the most accurate reproduction.*
 
 # GayCities Privacy Policy - GayCities
 
@@ -28,7 +28,7 @@ This site thrives on its community and the info and events, answers, checks and 
 
   * #### When you connect your account to a third party service, that service shares info with us
 
-This site allows you to connect your account to your accounts on other services like facebook, twitter, or foursquare. When you connect, you enable additional functionality on your account, making it easier to share with your friends and this site's visitors. To make these features work, the other service needs to share information with us (eg. to display your profile pic, post your event attendances, or post your mobile checkins). When you ask us to, we can publish information to the other service as well (eg. share this checkin on facebook or twitter). This is completely optional and you can always disable this service from the "My Account" screen. Each of these services also provides their own way to disable the sharing on their site. See the privacy policies for [facebook](https://www.facebook.com/policy.php), [foursquare](https://foursquare.com/legal/privacy), and [twitter](https://twitter.com/privacy).
+This site allows you to connect your account to your accounts on other services like facebook, twitter, or foursquare. When you connect, you enable additional functionality on your account, making it easier to share with your friends and this site's visitors. To make these features work, the other service needs to share information with us (eg. to display your profile pic, post your event attendances, or post your mobile checkins). When you ask us to, we can publish information to the other service as well (eg. share this checkin on facebook or twitter). This is completely optional and you can always disable this service from the "My Account" screen. Each of these services also provides their own way to disable the sharing on their site. See the privacy policies for [facebook](http://www.facebook.com/policy.php), [foursquare](http://foursquare.com/legal/privacy), and [twitter](http://twitter.com/privacy).
   
 
   * #### We use cookies to remember you
