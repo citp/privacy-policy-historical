@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the thelendersnetwork.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401125707id_/https%3A//thelendersnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelendersnetwork.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171417id_/https%3A//thelendersnetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Lenders Network
 
+The Lenders Network is not a lender of any kind. We collect basic contact information and forward that information to third-party mortgage lenders.
+
 This privacy policy sets out how The Lenders Network uses and protects any information that you provide on our website.  
-The Lenders Network is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+The Lenders Network is committed to ensuring that your privacy is protected.
+
+Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
 The Lenders Network may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. The Lenders Network is a marketing company, not a mortgage broker.  
-We may collect the following information:
+**We may collect the following information:**
 
   * name and property address
   * contact information including your phone number and email address
@@ -14,8 +18,9 @@ We may collect the following information:
 
 
 
-What we do with the information we gather  
-We require this information to understand your needs and provide you with a personalized service. This information allows us to match you with the Lender who has a loan product that best fits your needs.  
+## What we do with the information we gather
+
+We need this information so our third-party lenders can contact you about mortgage offers. This information also allows us to match you with Lenders best fitted to help you.  
 We may provide any or all information you provide us to one of our network lenders. If you want to use one of our real estate agents we will only share your basic contact information including your address, email, phone number as well as the loan amount and time frame you provide.
 
 Security  
