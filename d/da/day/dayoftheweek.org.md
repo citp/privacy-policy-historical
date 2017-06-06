@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dayoftheweek.org privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204155201id_/http%3A//www.dayoftheweek.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dayoftheweek.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184232id_/https%3A//www.dayoftheweek.org/privacy.php) for the most accurate reproduction.*
 
 # What Day Of The Week: Privacy Policy
 
@@ -11,7 +11,7 @@
   * If this website is ever sold or substantially all of the assets relating to the DayOfTheWeek.org website and software are transferred to another entity, we will transfer the information you have provided (such as any stored preferences or settings) to the acquiring entity in order to ensure continuity of your personalized service.
   * We recognize and welcome our obligation to comply with the law and this policy is subject to that obligation. We will, therefore, disclose information, including cookies, in response to a request from law enforcement officials or as otherwise required by law, or if we believe it is necessary to protect someone’s safety, or enforce our Terms of Service.
   * We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our website or mobile application. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a “cookie” or third party web beacon to collect this information.
-  * You may opt-out from our web analytics and partner advertising “cookie” and “online behavioral advertising” practice by following the instructions [here](http://www.dayoftheweek.org/privacy-opt-out.php).
+  * You may opt-out from our web analytics and partner advertising “cookie” and “online behavioral advertising” practice by following the instructions [here](https://www.dayoftheweek.org/privacy-opt-out.php).
   * If we decide to materially change this privacy policy, we will prominently post those changes on this page.
 
 
