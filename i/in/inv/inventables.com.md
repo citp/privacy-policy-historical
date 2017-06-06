@@ -1,68 +1,103 @@
-> *The following text is extracted and transformed from the inventables.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320115609id_/https%3A//www.inventables.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inventables.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162621id_/https%3A//www.inventables.com/privacy_policy) for the most accurate reproduction.*
 
-# Inventables Privacy Policy
+# Inventables
 
-## Inventables Privacy Statement
+### Inventables Privacy Policy
 
-Please read this privacy statement carefully before using any of Inventables' services. By using any such services you are acknowledging that you have read and understood this policy and that you agree to be bound by its terms. If you do not agree agree to be bound by the terms of this privacy statement, simply exit the website without accessing or using any of our services.
+**DATE LAST MODIFIED: March 11, 2016**
 
-####  This online privacy statement tells you about the information Inventables collects through our websites, [www.inventables.com](http://www.inventables.com/) and [www.inventables.corporate.com](http://www.inventablescorporate.com/) (collectively, the "Website"), how we use that information and how you can opt out of certain uses of information we may collect. If you have any questions about our privacy policy or our use of your information, you can e-mail us at [support@inventables.com](mailto:support@inventables.com).
+ **Importance of Your Privacy.** At Inventables ("Company"), your privacy is of great importance to us. We understand that you entrust us with certain information to help us provide various products and services. In exchange for your trust, you expect and deserve our commitment to treat your information with respect and in accordance with this Privacy Policy. Under no circumstances will Company sell or share any personal information about you to or with any person or organization except (i) as authorized by you, (ii) as described in the relevant portion of Company’s Website and/or Terms of Use, (iii) in connection with providing various products and/or services to you, (iv) to third parties on an aggregated, non-identifiable basis, (v) as may be required by law or court order, or (vi) as otherwise set forth herein (collectively, the "Permitted Uses"). The Website, any Inventables mobile applications and/or above-described services are referred to herein, collectively, as the "Services". The Privacy Policy below describes the standards we adhere to in handling information about you and any personal information you submit through the Services.
 
-Below you will find information on a number of topics, including:
+**PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE SUBMITTING ANY INFORMATION TO COMPANY OR THROUGH THE WEBSITE. BY SUBMITTING ANY INFORMATION YOU ARE ACKNOWLEDGING THAT YOU HAVE READ AND UNDERSTAND THIS POLICY AND THAT YOU AGREE TO BE BOUND BY ITS TERMS. IF YOU DO NOT AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY, DO NOT USE ANY OF THE SERVICES OR SUBMIT ANY INFORMATION THROUGH THE WEBSITE.**
 
-  1. What personally identifiable information of yours is collected from you through the Website;
-  2. How the collected information is used;
-  3. With whom such information may be shared;
-  4. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under our control;
-  5. How you can correct any inaccuracies in the information;
-  6. What choices are available to you regarding collection, use and distribution of the information.
+**A Special Note About Children.** Children are not eligible to use our Services and we ask that minors (under the age of 13) do not submit any personal information to us or use the Services. Company does not collect or maintain information from those actually known to be under the age of 13, and no part of the Website or Services is structured to attract anyone under the age of 13. Other age restrictions may be set forth in Company's Terms of Use from time to time.
 
+**Important Categories of Information for you to Know:**
 
-
-### General Information Collection and Use
-
-Inventables is the sole owner of the information collected on the Website. Information collected is used to register the user for certain selected services (e.g. access to the Inventables database) and to contact the user about such services (e.g. e-mail address).
-
-Some of our services may be offered in conjunction with partner companies, affiliates or other companies or websites with which we work. In order for us to provide these services to you, it may be necessary for us to share your personal information with one of such entities. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service.
-
-### Cookies
-
-A "cookie" is a piece of data stored on a user's hard drive containing information about the user. As part of offering and providing personalized services, we may use cookies in an effort to save you time while on our Website. If a user rejects the cookie, he or she may still have limited use of the Website. Generally we use cookies to:
-
-  1. Remind us who you are and to access your account information;
-  2. Track and target the interests of our users to enhance the experience on our Website; and
-  3. Estimate our audience size and measure certain traffic patterns.
+  1. Who we are
+  2. Information we may collect through the Website
+  3. How your information is used
+  4. Cookies and tracking technology
+  5. Altering the information you submit through the Website
 
 
 
-### IP Addresses
+* * *
 
-Every computer connected to the Internet is given an IP address. We use IP addresses to analyze trends, administer the Website, track users' movement and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information, and our web servers do not record the e-mail addresses of our visitors.
+##### 1\. Who We Are.
 
-### Sharing
+Company makes the Website available for general information and opportunities to purchase certain machines, products and other related purposes, all as more fully described within the Website from time to time.
 
-As a general rule, except as described in this privacy statement, we may disclose any of your personally identifiable information and under special circumstances (such as when we believe the law requires it). We may disclose or share aggregated demographic information with certain partners, affiliates and advertisers, however, except as described above, this is not linked to any personal information that can identify any individual person or company. In addition, Inventables may disclose account or other personal information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with Inventables's rights or property, other Website users or anyone else that could be harmed by such activities. 
+##### 2\. Information We Collect.
 
-### Links
+There are various areas within the Website or Services where you may be asked to enter information. In addition, when you use access the Website Company may receive and record information on our server logs from your computer or mobile platform, which may include your location. We do not sell or share any personal information about you to or with any person or organization except for the Permitted Uses. In addition, and not in limitation of the foregoing and subject to restrictions imposed under applicable law, information you enter through the Services may be shared with third party service providers with which Company has entered into a business relationship in order to make the Services available. In addition, Company may sell or disclose information gathered within the Services to third parties on an aggregated, non-identifiable basis.
 
-This Website may contain links to other websites. Please be aware that we are not responsible for the privacy practices of such other websites, as this privacy statement applies solely to the Website. We encourage our users to remain vigilant when they leave our Website and to read the privacy statements of each and every website that collects personally identifiable information. 
+**(a) Information we receive from you.** To use certain portions of the Website and/or to make certain purchases, you may need to provide certain information which may include, without limitation, your name, address, date of birth, phone number, e-mail address, credit card information and possibly other information.
 
-### Surveys
+**(b) Other Information we get from your use of the Services.** We may collect information about the Services that you use and how you use them.
 
-From time-to-time our Website may request information from users via surveys. Participation in these surveys, to the extent we run any, is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address) and demographic information (such as zip code and age level). Survey information will be used for purposes of monitoring or improving the use and satisfaction of the Website.
+**(c) Information from the "Contact Us" section of the Website.** You may contact Company through the "Contact Us" feature or other features. Participation in these areas is completely voluntary and it is your choice whether or not you wish to disclose your personal information to us.
 
-### Security
+**(d) Communication.** We may at our discretion, but are not obligated to, monitor the communications that take place on our Service, such as messaging, in order to protect our users and monitor the effectiveness of our Service. You acknowledge that you have no expectation of privacy with respect to any such communications or postings, and you expressly consent to such monitoring.
 
-All of our users' sensitive information is restricted in our offices. While Inventables employs commercially reasonable security measures to protect our data and seeks to partner with companies which do the same, we cannot absolutely guarantee the security of any data transmission over the Internet or any wireless network. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure, and we therefore are not responsible for any breach of security or for any actions of any third parties that may receive any such information.
+**(e) Information collected other sections of the Website.** Company may, from time to time, make various resources available to you within the Website. At times we may collect personal information in connection with providing such services.
 
-### Correction/Updating Personal Information
+##### 3\. How your information is used.
 
-If your personally identifiable information changes at any time, please send an e-mail to [support@inventables.com](mailto:support@inventables.com).
+We use the information you provide to make the Website and Services available to you. Company may, subject to any restrictions imposed by applicable law, also share certain aggregated data with other third parties for general marketing and demographic purposes; however, this data does not include any of your personal identifying information.
 
-### Choice/Opt-out
+Some portions of the Services may be offered in conjunction with partner companies, affiliates or other companies or websites with which we work. In order for us make these features available within the Services, it may be necessary for us to share your personal information with one of such entities. These parties are not allowed to use personally identifiable information except for the purpose of making such features available through the Services. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular feature.
 
-Our users are given the opportunity to "opt-out" of receiving communications from Inventables by sending us an e-mail at [support@inventables.com](mailto:support@inventables.com).
+In addition, Company may disclose account or other personal information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with Company’s rights or property, the Services, other users or anyone else that could be harmed by such activities.
 
-### Notification of Changes
+##### 4\. Cookies and Tracking Technology
 
-If we decide to change our privacy statement, we will post those changes under the appropriate link on the "home page" of our Website so our users are always aware of what information we collect, how we use it and under what circumstances, if any, we disclose it. The new terms shall be effective 10 days after they are initially posted on the Website. It is the responsibility of each user to review the latest terms from time to time, and if any user does not agree with any updates to the privacy statement, such user should immediately cease use of the Website and purchased services.
+We automatically collect certain types of usage information when you visit our Website or use our Service. For instance, when you visit our Website, we may send one or more cookies — a small text file containing a string of alphanumeric characters used by many websites — to your computer that uniquely identifies your browser and lets us help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click, how frequently you access the Service, and other actions you take on the Service), and allow us to track your usage of the Service over time. We may collect log file information about your browser or mobile device each time you access the Service. Log file information may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, information about your mobile device, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information. We may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our users. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service. We may also collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser or mobile device, including the pages you visit, your use of third party applications, and other information that assists us in analyzing and improving the Service. If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) disable existing cookies; or (iii) set your browser to automatically reject any cookies. You may also set your email options to prevent the automatic downloading of images that may contain technologies that would allow us to know whether you have accessed our email and performed certain functions with it.
+
+When you access the Service by or through a mobile device, we may receive or collect and store a unique identification numbers associated with your device or our mobile application (including, for example, a UDID, Unique ID for Advertisers (“IDFA”), Google Ad ID, or Windows Advertising ID), mobile carrier, device type, model and manufacturer, mobile device operating system brand and model, phone number, and, depending on your mobile device settings, your geographical location data, including GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device.
+
+When you upload photographs to the Website, those files may contain location information or other metadata. This metadata may be accessible to others if you share content on the Service. We may use the data collected through cookies, log file, device identifiers, location data and clear gifs information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information, including advertising; (c) provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, usage and demographic patterns on our Website and our Service; (e) diagnose or fix technology problems; and (f) otherwise to plan for and enhance our service.
+
+We may permit third party ad networks, social media companies, and other third party services to collect information about browsing behavior from visitors to our Service through cookies, social plug-ins or other tracking technology. We may permit third party online advertising networks to collect information about your use of our Website over time so that they may play or display ads that may be relevant to your interests on our Service as well as on other websites or services. Typically, the information is collected through cookies or similar tracking technologies. The only way to completely “opt out” of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device. Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. (To learn more about cookies, clear gifs/web beacons and related technologies and how you may opt-out of some of this tracking, you may wish to visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or the Network Advertising Initiative’s online resources, at [http://www.networkadvertising.org](http://www.networkadvertising.org/)). Depending on your mobile device, you may not be able to control tracking technologies through settings.
+
+##### 5\. Altering Information You Submit.
+
+**(a) Deleting your information.** Federal and state regulations may require that we store questions or submissions for various periods of time. In order to comply with these regulations, we may be unable to delete information from our databases.
+
+**(b) Altering Information.** Company may alter, modify or delete any information you submit through the Website if it believes, in its sole discretion, it is necessary or desirable to do so.
+
+**(c) Request to stop receiving emails from us.** Periodically, Company may send you emails to alert you to various new features within the Services. If you do not wish to receive any of these offers, please send an e-mail to help@inventables.com to remove yourself from our mailing list.
+
+* * *
+
+##### Security
+
+Although Company has taken reasonable measures to ensure that your personal information is delivered and disclosed securely, Company cannot and does not guarantee that the personal information you provide will not be intercepted by others and decrypted.
+
+##### Storage and Processing
+
+Your information collected through the Service may be stored and processed in the United States or any other country in which the Company or its subsidiaries, affiliates or service providers maintain facilities. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which the Company or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
+
+##### Changes to Privacy Policy
+
+If we make a change to our Privacy Policy in the future that will affect how we treat your information, we will post such change within the Services, and such change will be deemed to be effective 2 days from the date of such posting. In that case, your ability to opt out of the new policy will be determined by applicable laws.
+
+##### Business Transfer
+
+We may, in the future, sell or otherwise transfer some or all of our assets or equity to a third party. Your personally identifiable information and other information we obtain from you via the Website or Services may be disclosed to any potential or actual third party purchasers of such assets or equity and may be among the assets transferred.
+
+##### Acceptance
+
+If you do not agree to the terms of this Privacy Policy, please do not provide us with any information and do not use the Services. By using the Services and/or voluntarily providing information which will pass through the Website or Services, you consent to our collection and use of the information as set forth in this Privacy Policy.
+
+##### Miscellaneous
+
+The Company does not respond to Do Not Track signals and/or other mechanisms that provide consumer choice about tracking.
+
+##### Links
+
+The Website may contain links to other websites or applications that are owned and operated by third parties that are not affiliated with us. When you use those links, you leave the Website and we are unable to control how the owners of the websites or applications you link to handle any information they gather about you, including their privacy practices. This Privacy Policy applies only to the Website and does not govern activities on linked websites or applications.
+
+* * *
+
+**PLEASE PRINT AND RETAIN A COPY OF THIS AGREEMENT FOR YOUR RECORDS.**
