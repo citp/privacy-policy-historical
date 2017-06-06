@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheeseandburger.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019082234id_/http%3A//www.cheeseandburger.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheeseandburger.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045939id_/http%3A//www.cheeseandburger.com/privacy) for the most accurate reproduction.*
 
 # Cheese & Burger Society
 
