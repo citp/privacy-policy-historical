@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colescareers.com.au privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119105338id_/http%3A//www.colescareers.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colescareers.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042611id_/http%3A//www.colescareers.com.au/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -24,7 +24,7 @@ We may store your personal information in hard copy or electronic format, in sto
 
 **How we use your personal information**
 
-Your personal information and application information will be used to  assist us throughout the recruitment process. We may also provideyou with marketing correspondence regarding other employment opportunities at Coles.  We may use your personal information to verify your identity and for other purposes such as contacting referees or performing background checks. 
+Your personal information and application information will be used to  assist us throughout the recruitment process. We may also provide you with marketing correspondence regarding other employment opportunities at Coles.  We may use your personal information to verify your identity and for other purposes such as contacting referees or performing background checks. 
 
 **Talent Pool**
 
