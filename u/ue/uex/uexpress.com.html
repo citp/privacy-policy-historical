@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uexpress.com privacy policy that was archived on 2016-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161202121719id_/http%3A//www.uexpress.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uexpress.com privacy policy that was archived on 2017-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606024456id_/http%3A//www.uexpress.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <meta charset="UTF-8">
@@ -54,14 +54,14 @@
   <link rel="stylesheet" media="screen" href="/assets/application-ie7-4468cc88bb02c2ef9502c443c5e6604f.css" />
   <![endif]-->
 
-  <link rel="stylesheet" media="screen" href="/assets/application-all-8e6445dbd25723c6304a4c172b0860ec.css">
+  <link rel="stylesheet" media="screen" href="/assets/application-all-be0d74ef56a18b6c05a36f611f28f3aa.css">
 <!--[if lte IE 9]>
-<link rel="stylesheet" media="screen" href="/assets/application-all_split2-4d1f0b953d8e968e7bb1c11e3abe3336.css" />
+<link rel="stylesheet" media="screen" href="/assets/application-all_split2-928124d39b08310bc6e9e758ceda0870.css" />
 <link rel="stylesheet" media="screen" href="/assets/application-all_split3-368b853fd76f080e823facd9420d0660.css" />
 <![endif]-->
 
   <link rel="stylesheet" media="screen" href="/assets/uu-font-c18553a9099ef4af3cd60ae69134efeb.css">
-  <link rel="stylesheet" media="print" href="/assets/application-print-47b4eca4732943e4ae65eaf9108fbb3e.css">
+  <link rel="stylesheet" media="print" href="/assets/application-print-55a4171bac83e867e88c38edb0010a2b.css">
 
   
 
@@ -130,249 +130,616 @@
 
     }
 </script>
-  <script src="/assets/pubfood-889de9a13d097ac4f33a1f79f4094192.js"></script>
+  <script src="/assets/pubfood-83823e3b519c43c0c954647cc59b879e.js"></script>
   
+
 <script type="text/javascript">
-    // DFP settings
-    window.googletag = window.googletag || {};
-    googletag.cmd = googletag.cmd || [];
+    var browserWidth = "CSS1Compat" == window.document.compatMode ? window.document.documentElement.clientWidth : window.document.body.clientWidth;
+    var browserHeight = "CSS1Compat" == window.document.compatMode ? window.document.documentElement.clientHeight : window.document.body.clientHeight;
+    var pageDomain = window.location.hostname;
+    var pagePath = window.location.pathname + location.search + location.hash;
 
     var adSlotPath = '/19196947/uexpress.com_new/homepage';
 
 
-    var adSizeMappings = {};
-    adSizeMappings['leaderboard'] = [
-      [[971, 0], [[970, 250], [970, 90], [728, 90]]],
-      [[729, 0], [[728, 90], [468, 60]]],
-      [[469, 0], [[468, 60], [320, 50], [300, 50]]],
-      [[0, 0], [[320, 100], [320, 50], [300, 50]]]
-    ];
-    adSizeMappings['halfpage'] = [
-      [[768, 0], [[300, 600], [300, 250], [336, 280], [160, 600], [120, 600]]],
-      [[0, 0], []]
-    ];
-    adSizeMappings['rectangle'] = [
-      [[992, 0], [[300, 250], [336, 280]]],
-      [[0, 0], [300, 250]]
-    ];
 
-    // Amazon A9 settings
-    var amznads = amznads||{};
+    // Index tag config
+    var ixTags = {
+        // Leaderboard 1
+        '728x90_top': {id: '1', siteID: 176057, width: 728, height: 90},
+        '320x50_top': {id: '5', siteID: 176063, width: 320, height: 50},
 
-    var food = new pubfood();
+        // Leaderboard 2
+        '728x90_mid': {id: '6', siteID: 176065, width: 728, height: 90},
 
-    // Index settings
-    var BrowserWidth = "CSS1Compat" == window.document.compatMode ? window.document.documentElement.clientWidth : window.document.body.clientWidth;
+        // Leaderboard 3
+        '728x90_bot': {id: '7', siteID: 176066, width: 728, height: 90},
 
+        // Halfpage
+        '160x600_top': {id: '2', siteID: 176059, width: 160, height: 600},
+        '300x600_top': {id: '3', siteID: 176060, width: 300, height: 600},
+        '300x250_top': {id: '4', siteID: 176061, width: 300, height: 250},
 
-
-    /* Define ad slots */
-
-    // Leaderboard 1
-    var leaderboard1 = {
-      name: 'leaderboard1',
-      elementId: 'leaderboard1',
-      sizes: [[970, 250],[970, 90],[728, 90],[320, 50],[300, 50]],
-      sizeMapping: adSizeMappings['leaderboard'],
-      targeting: {'pos': 'top'},
-      bidProviders: ['amazon', 'openx', 'indexExchange']
+        // Rectangle
+        '300x250_mid': {id: '8', siteID: 176068, width: 300, height: 250},
     };
-    food.addSlot(leaderboard1);
 
 
+    // Sovrn tag config
+    var sovrnTags = {
+        // Leaderboard 1
+        '970x250_top': {id: 'Sovrn_uExpress_D_970x250_ATF_HB', banner: {w: '970', h: '250'}, tagid: '412180'},
+        '970x90_top': {id: 'Sovrn_uExpress_D_970x90_ATF_HB', banner: {w: '970', h: '90'}, tagid: '412197'},
+        '728x90_top': {id: 'Sovrn_uExpress_D_728x90_ATF_HB', banner: {w: '728', h: '90'}, tagid: '412181'},
+        '320x50_top': {id: 'Sovrn_uExpress_M_320x50_ATF_HB', banner: {w: '320', h: '50'}, tagid: '412189'},
 
-    // Leaderboard 2
-    var leaderboard2 = {
-      name: 'leaderboard2',
-      elementId: 'leaderboard2',
-      sizes: [[728, 90],[320, 100],[320, 50],[300, 50]],
-      sizeMapping: adSizeMappings['leaderboard'],
-      targeting: {'pos': 'mid'},
-      bidProviders: ['amazon', 'openx', 'indexExchange']
+        // Leaderboard 3
+        '728x90_bot': {id: 'Sovrn_uExpress_D_728x90_BTF_HB', banner: {w: '728', h: '90'}, tagid: '412182'},
+        '320x50_bot': {id: 'Sovrn_uExpress_M_320x50_BTF_HB', banner: {w: '320', h: '50'}, tagid: '412190'},
+
+        // Halfpage
+        '300x600_top': {id: 'Sovrn_uExpress_D_300x600_ATF_HB', banner: {w: '300', h: '600'}, tagid: '412183'},
+        '300x250_top': {id: 'Sovrn_uExpress_D_300x250_ATF_HB', banner: {w: '300', h: '250'}, tagid: '412184'},
+        '160x600_top': {id: 'Sovrn_uExpress_D_160x600_ATF_HB', banner: {w: '160', h: '600'}, tagid: '412186'},
+
+        // Rectangle
+        '300x250_mid': {id: 'Sovrn_uExpress_D_300x250_BTF_HB', banner: {w: '300', h: '250'}, tagid: '412185'}
     };
-    food.addSlot(leaderboard2);
 
 
-
-    // Leaderboard 3
-    var leaderboard3 = {
-      name: 'leaderboard3',
-      elementId: 'leaderboard3',
-      sizes: [[728, 90],[320, 100],[320, 50],[300, 50]],
-      sizeMapping: adSizeMappings['leaderboard'],
-      targeting: {'pos': 'bot'},
-      bidProviders: ['amazon', 'openx', 'indexExchange']
+    // Ad slot configuration
+    var adSlotConfig = {};
+    // Leaderboard1
+    adSlotConfig['leaderboard1'] = {
+        name: 'leaderboard1',
+        elementId: 'leaderboard1',
+        targeting: {'pos': 'top', 'pv': GPTPageview},
+        bidProviders: ['amazon', 'openx', 'sovrn', 'ix'],
+        breakpoints: [
+            {
+                minWidth: 970,
+                minHeight: 0,
+                sizes: [[970, 250], [970, 90], [728, 90]],
+                bidders: [
+                    {
+                        name: 'sovrn',
+                        tags: [sovrnTags['970x250_top'], sovrnTags['970x90_top'], sovrnTags['728x90_top']]
+                    },
+                    {
+                        name: 'ix',
+                        tags: [ixTags['728x90_top']]
+                    }
+                ]
+            },
+            {
+                minWidth: 728,
+                minHeight: 0,
+                sizes: [[728, 90]],
+                bidders: [
+                    {
+                        name: 'sovrn',
+                        tags: [sovrnTags['728x90_top']]
+                    },
+                    {
+                        name: 'ix',
+                        tags: [ixTags['728x90_top']]
+                    }
+                ]
+            },
+            {
+                minWidth: 0,
+                minHeight: 0,
+                sizes: [[320, 100], [320, 50]],
+                bidders: [
+                    {
+                        name: 'ix',
+                        tags: [ixTags['320x50_top']]
+                    }
+                ]
+            }
+        ]
     };
-    food.addSlot(leaderboard3);
 
+    // Leaderboard2
+    adSlotConfig['leaderboard2'] = {
+        name: 'leaderboard2',
+        elementId: 'leaderboard2',
+        targeting: {'pos': 'mid', 'pv': GPTPageview},
+        bidProviders: ['amazon', 'openx', 'ix'],
+        breakpoints: [
+            {
+                minWidth: 970,
+                minHeight: 0,
+                sizes: [[970, 250], [970, 90], [728, 90]],
+                bidders: []
+            },
+            {
+                minWidth: 728,
+                minHeight: 0,
+                sizes: [[728, 90]],
+                bidders: [
+                    {
+                        name: 'ix',
+                        tags: [ixTags['728x90_mid']]
+                    }
+                ]
+            },
+            {
+                minWidth: 0,
+                minHeight: 0,
+                sizes: [[320, 100], [320, 50]],
+                bidders: []
+            }
+        ]
+    };
+
+    // Leaderboard3
+    adSlotConfig['leaderboard3'] = {
+        name: 'leaderboard3',
+        elementId: 'leaderboard3',
+        targeting: {'pos': 'bot', 'pv': GPTPageview},
+        bidProviders: ['amazon', 'openx', 'sovrn', 'ix'],
+        breakpoints: [
+            {
+                minWidth: 970,
+                minHeight: 0,
+                sizes: [[970, 250], [970, 90], [728, 90]],
+                bidders: []
+            },
+            {
+                minWidth: 728,
+                minHeight: 0,
+                sizes: [[728, 90]],
+                bidders: [
+                    {
+                        name: 'sovrn',
+                        tags: [sovrnTags['728x90_bot']]
+                    },
+                    {
+                        name: 'ix',
+                        tags: [ixTags['728x90_bot']]
+                    }
+                ]
+            },
+            {
+                minWidth: 0,
+                minHeight: 0,
+                sizes: [[320, 100], [320, 50]],
+                bidders: []
+            }
+        ]
+    };
 
     // Halfpage
-    var halfpage = {
-      name: 'halfpage',
-      elementId: 'halfpage',
-      sizes: [[300, 600],[300, 250],[160, 600]],
-      sizeMapping: adSizeMappings['halfpage'],
-      targeting: {'pos': 'top'},
-      bidProviders: ['amazon', 'openx', 'indexExchange']
+    adSlotConfig['halfpage'] = {
+        name: 'halfpage',
+        elementId: 'halfpage',
+        targeting: {'pos': 'top', 'pv': GPTPageview},
+        bidProviders: ['amazon', 'openx', 'sovrn', 'ix'],
+        breakpoints: [
+            {
+                minWidth: 768,
+                minHeight: 0,
+                sizes: [[300, 600], [300, 250], [160, 600]],
+                bidders: [
+                    {
+                        name: 'sovrn',
+                        tags: [sovrnTags['300x600_top'], sovrnTags['160x600_top'], sovrnTags['300x250_top']]
+                    },
+                    {
+                        name: 'ix',
+                        tags: [ixTags['300x600_top'], ixTags['160x600_top'], ixTags['300x250_top']]
+                    }
+                ]
+            },
+            {
+                minWidth: 0,
+                minHeight: 0,
+                sizes: [[]],
+                bidders: []
+            }
+        ]
     };
-    food.addSlot(halfpage);
-
 
     // Rectangle
+    adSlotConfig['rectangle'] = {
+        name: 'rectangle',
+        elementId: 'rectangle',
+        targeting: {'pos': 'mid', 'pv': GPTPageview},
+        bidProviders: ['amazon', 'openx', 'sovrn', 'ix'],
+        breakpoints: [
+            {
+                minWidth: 0,
+                minHeight: 0,
+                sizes: [[300, 250]],
+                bidders: [
+                    {
+                        name: 'sovrn',
+                        tags: [sovrnTags['300x250_mid']]
+                    },
+                    {
+                        name: 'ix',
+                        tags: [ixTags['300x250_mid']]
+                    }
+                ]
+            }
+        ]
+    };
 
 
-    // More Index settings
-    if ( BrowserWidth >= 768 ) {
-      food.getSlot('halfpage').setParam('indexExchange', [{id: '2', siteID: 176059, width: 160, height: 600}, {id: '3', siteID: 176060, width: 300, height: 600}, {id: '4', siteID: 176061, width: 300, height: 250}]);
-    }
-
-    if ( BrowserWidth >= 729 ) {
-      food.getSlot('leaderboard1').setParam('indexExchange', [{id: '1', siteID: 176057, width: 728, height: 90}]);
-      food.getSlot('leaderboard2').setParam('indexExchange', [{id: '6', siteID: 176065, width: 728, height: 90}]);
-      food.getSlot('leaderboard3').setParam('indexExchange', [{id: '7', siteID: 176066, width: 728, height: 90}]);
-    } else {
-      food.getSlot('leaderboard1').setParam('indexExchange', [{ id: '5', siteID: 176063, width: 320, height: 50 }]);
-    }
 
 
+    var pubfoodWrapper = new pubfood();
 
-    /* Define header-bidders */
 
-    // Amazon A9
-    food.addBidProvider({
-      name: 'amazon',
-      libUri: '//c.amazon-adsystem.com/aax2/amzn_ads.js',
+    var findAds = function(){
+        var ads = document.getElementsByClassName('js-ad');
+        ads = Array.prototype.slice.call(ads);
+        var visibleAds = ads.filter(isVisible);
 
-      init: function(slots, pushBid, done) {
-        amznads.asyncParams = {
-          'id': '3170',
-          'callbackFn': function() {
-            amznads.setTargetingForGPTAsync('amznslots');
-            done();
-          }
+        var adPlaceholders = document.getElementsByClassName('js-ad-placeholder');
+        adPlaceholders = Array.prototype.slice.call(adPlaceholders);
+
+        var adPlaceholderIds = adPlaceholders.map(getPlaceholderId);
+        var adIds = visibleAds.map(getElementId);
+
+        return adIds.concat(adPlaceholderIds)
+    };
+
+    var isVisible = function(element){
+        return !!(element.offsetWidth || element.offsetHeight || element.getClientRects().length || element.getAttribute('data-visibility-exception') == 'true');
+    };
+
+    var getElementId = function(element){
+        return element.id;
+    };
+
+    var getPlaceholderId = function(element){
+        return element.getAttribute('data-ad-id');
+    };
+
+    var getSizeString = function(sizeArray) {
+        return sizeArray[0] + "x" + sizeArray[1];
+    };
+
+    var findBreakpoint = function(breakpointsArray) {
+        var maxBpt, curBpt;
+        for (var i = 0; i < breakpointsArray.length; i++) {
+            curBpt = breakpointsArray[i];
+            if (browserWidth >= curBpt.minWidth && browserHeight >= curBpt.minHeight){
+                if(!maxBpt || (curBpt.minWidth >= maxBpt.minWidth && curBpt.minHeight >= maxBpt.minHeight)){
+                    maxBpt = curBpt;
+                }
+            }
         }
-      },
+        return maxBpt
+    };
 
-      refresh: function(slots, pushBid, done) {
-        var myCallbackFunction = function(){
-          // reset custom targeting value by key
-          amznads.setTargetingForGPTAsync('amznslots');
-          done();
+    var addSlotToWrapper = function(slotName){
+        var slot = adSlotConfig[slotName];
+        return pubfoodWrapper.addSlot({
+            name: slot.name,
+            elementId: slot.elementId,
+            sizes: slot.breakpoint.sizes,
+            targeting: slot.targeting,
+            bidProviders: slot.bidProviders
+        });
+    };
+
+    var addBidderConfigToSlot = function(slot){
+        var bidders = adSlotConfig[slot.name].breakpoint.bidders;
+        for(var i = 0; i < bidders.length; i++){
+            slot.setParam(bidders[i].name, bidders[i].tags);
+        }
+    };
+
+    // Set all breakpoints
+    adSlotConfig['leaderboard1'].breakpoint = findBreakpoint(adSlotConfig['leaderboard1'].breakpoints);
+    adSlotConfig['leaderboard2'].breakpoint = findBreakpoint(adSlotConfig['leaderboard2'].breakpoints);
+    adSlotConfig['leaderboard3'].breakpoint = findBreakpoint(adSlotConfig['leaderboard3'].breakpoints);
+    adSlotConfig['halfpage'].breakpoint = findBreakpoint(adSlotConfig['halfpage'].breakpoints);
+    adSlotConfig['rectangle'].breakpoint = findBreakpoint(adSlotConfig['rectangle'].breakpoints);
+
+
+    document.addEventListener("DOMContentLoaded", function (event) {
+        var ads = findAds();
+        var slotsArray = ads.map(addSlotToWrapper);
+        slotsArray.map(addBidderConfigToSlot);
+
+
+        var pubfoodSlots = pubfoodWrapper.getSlots();
+
+
+        /* Define header-bidders */
+
+        // Amazon A9
+        pubfoodWrapper.addBidProvider({
+            name: 'amazon',
+            libUri: '//c.amazon-adsystem.com/aax2/amzn_ads.js',
+
+            init: function(slots, pushBid, done) {
+                window.amznads = window.amznads || {};
+
+                amznads.asyncParams = {
+                    'id': '3170',
+                    'callbackFn': function() {
+                        amznads.setTargetingForGPTAsync('amznslots');
+                        done();
+                    }
+                }
+            },
+
+            refresh: function(slots, pushBid, done) {
+                var amznads_callback = function(){
+                    // Reset custom targeting value by key
+                    amznads.setTargetingForGPTAsync('amznslots');
+                    done();
+                };
+                amznads.getAdsCallback('3170', amznads_callback);
+                // Clear custom targeting value by key
+                googletag.pubads().clearTargeting('amznslots');
+            }
+        });
+
+
+
+        // OpenX
+        pubfoodWrapper.addBidProvider({
+            name: 'openx',
+            libUri: '//amu-d.openx.net/w/1.0/jstag?nc=19196947-UExpress',
+
+            init: function(slots, pushBid, done) {
+                done();
+            },
+
+            refresh: function(slots, pushBid, done) {
+                done();
+            }
+        });
+
+
+
+        // Index
+        pubfoodWrapper.addBidProvider({
+            name: 'ix',
+            libUri: '//js-sec.indexww.com/ht/indexapi_pubfood.js',
+            init: function(slots, pushBid, done) {
+                window.indexapi = window.indexapi || {};
+                indexapi.cmd = indexapi.cmd || [];
+                indexapi.cmd.push(function() {
+                    //1. initialize index API
+                    indexapi.init( slots, pushBid, done );
+
+                    //2. Convert pubfood slot configuration into indexExchange slot configuration.
+                    var i, j, indexParam, indexSlot;
+                    for (i = 0; i < slots.length; i++) {
+                        indexParam = slots[i].getParam('ix');
+                        // look for ix bid configurations
+                        if (typeof indexParam == 'undefined'){
+                            continue;
+                        }
+                        for (j = 0; j < indexParam.length; j++){
+                            indexSlot = indexParam[j];
+                            //2.1. Create mapping between indexExchange slotID to pubfood slot name
+                            indexapi.add_slot_to_name(indexSlot.id, slots[i].name);
+
+                            //2.2. Push indexExchange slots into `indexapi.cygnus_args.slots` array.
+                            indexapi.cygnus_args.slots.push(indexSlot);
+                        }
+                    }
+
+                    //3. send indexexchange demand request
+                    indexapi.cygnus_start();
+                });
+            },
+
+            //*. For refresh, the same function calls in the init function should be used.
+            refresh: function(slots, pushBid, done) {
+                window.indexapi = window.indexapi || {};
+                indexapi.cmd = indexapi.cmd || [];
+
+                indexapi.cmd.push(function() {
+                    indexapi.init( slots, pushBid, done );
+                    var i, j, indexParam, indexSlot;
+                    for (i = 0; i < slots.length; i++) {
+                        indexParam = slots[i].getParam('ix');
+                        if (typeof indexParam == 'undefined'){
+                            continue;
+                        }
+                        for (j = 0; j < indexParam.length; j++){
+                            indexSlot = indexParam[j];
+                            indexapi.add_slot_to_name(indexSlot.id, slots[i].name);
+                            indexapi.cygnus_args.slots.push(indexSlot);
+                        }
+                    }
+                    indexapi.cygnus_start();
+                })
+            }
+        });
+
+
+
+        // Sovrn
+        window.sovrn_constructBidRequest = function(){
+            var sovrnImps = [];
+            var i, j, param, impression, bidRequest;
+            for(i = 0; i < pubfoodSlots.length; i++){
+                param = pubfoodSlots[i].getParam('sovrn');
+                if(param){
+                    for(j = 0; j < param.length; j++){
+                        impression = {
+                            'id': param[j].id,
+                            'banner':  param[j].banner,
+                            'tagid': param[j].tagid
+                        };
+                        sovrnImps.push(impression);
+                    }
+                }
+            }
+
+            bidRequest = {
+                'id': 'uExpress' + Math.floor(Math.random() * 100000000),
+                'site': {
+                    'domain': pageDomain,
+                    'page': pagePath
+                },
+                'imp': sovrnImps
+            };
+            return sovrnImps.length > 0 ? encodeURIComponent(JSON.stringify(bidRequest)) : '';
         };
-        amznads.getAdsCallback('3170', myCallbackFunction);
-        // clear custom targeting value by key
-        googletag.pubads().clearTargeting('amznslots');
-      }
-    });
 
+        window.sovrn_parseBidResponse = function(response, pubfood_slots, pubfood_pushBid, pubfood_done){
+            try {
+                window.sovrn_ads = response.seatbid[0].bid;
+                var x, y, z, slot, maxAd, sovrnParams, curImp, curAd, bidObject;
+                for(x = 0; x < pubfood_slots.length; x++){
+                    slot = pubfood_slots[x].name;
+                    maxAd = '';
+                    sovrnParams = pubfood_slots[x].getParam('sovrn');
 
-    // Index
-    food.addBidProvider({
-      name: 'indexExchange',
-      libUri: '//js-sec.indexww.com/ht/indexapi_pubfood.js',
+                    if(sovrnParams){
+                        for(y = 0; y < sovrnParams.length; y++){
+                            curImp = sovrnParams[y];
 
-      init: function(slots, pushBid, done) {
-        window.indexapi = window.indexapi || {};
-        indexapi.cmd = indexapi.cmd || [];
+                            for(z = 0; z < sovrn_ads.length; z++){
+                                curAd = sovrn_ads[z];
+                                if(curImp.id == curAd.impid){
+                                    if(maxAd){
+                                        maxAd = maxAd.price >= curAd.price ? maxAd : curAd;
+                                    }else{
+                                        maxAd = curAd;
+                                    }
+                                }
+                            }
+                        }
 
-        indexapi.cmd.push(function() {
-          indexapi.config.target_key = { "open": "O", "private": "P" };
-          indexapi.init(slots, pushBid, done);
-
-          for (var i = 0; i < slots.length; i++) {
-            var indexParam = slots[i].getParam('indexExchange');
-            if (typeof indexParam == 'undefined') {
-              continue;
+                        if(maxAd){
+                            bidObject = {
+                                slot: slot,
+                                value: maxAd.price.toFixed(2),
+                                sizes: [maxAd.w, maxAd.h],
+                                targeting: {
+                                    sovrn_slot: maxAd.impid,
+                                    sovrn_size: maxAd.w+"x"+maxAd.h
+                                }
+                            };
+                            pubfood_pushBid(bidObject);
+                        }
+                    }
+                }
+                pubfood_done();
+            } catch (e) {
+              /* ignore */
+                pubfood_done();
             }
-            for (var j = 0; j < indexParam.length; j++){
-              var indexSlot = indexParam[j];
-              indexapi.add_slot_to_name(indexSlot.id, slots[i].name);
-              indexapi.cygnus_args.slots.push(indexSlot);
+
+        };
+
+        window.sovrn_renderAd = function(element, impid){
+            try {
+                var i = 0;
+                var foundAd = false;
+                var ad, curAd;
+                while(!foundAd && i < window.sovrn_ads.length){
+                    curAd = window.sovrn_ads[i];
+                    if(curAd.impid == impid){
+                        ad = curAd;
+                        foundAd = true;
+                    }
+                    i++;
+                }
+
+                var pixel = '<img src="' + ad.nurl + '" >';
+                var ad_code = decodeURIComponent(ad.adm);
+                element.write(ad_code + pixel);
+            } catch (e) {
+              /* ignore */
             }
-          }
-          indexapi.cygnus_start();
+        };
+
+
+        var sovrn_encodedBidRequest = sovrn_constructBidRequest();
+        var sovrn_libUri = '//ap.lijit.com/rtb/bid?callback=sovrn_bidResponseCallback&br=' + sovrn_encodedBidRequest + '&rand=' + Math.floor(Math.random() * 100000000);
+        pubfoodWrapper.addBidProvider({
+            name: 'sovrn',
+            libUri: sovrn_encodedBidRequest ? sovrn_libUri : '',
+
+            init: function(slots, pushBid, done) {
+                if(pubfoodWrapper.getBidProvider('sovrn').bidDelegate.libUri){
+                    window.sovrn_bidResponseCallback = function(response) {
+                        window.sovrn_parseBidResponse(response, slots, pushBid, done);
+                    };
+                } else {
+                    done();
+                }
+            },
+
+            refresh: function(slots, pushBid, done) {
+                done();
+            }
         });
-      },
-
-      refresh: function(slots, pushBid, done) {
-        indexapi.cmd.push(function() {
-          indexapi.init( slots, pushBid, done );
-          done();
-        });
-      }
-    });
-
-
-    // OpenX
-    food.addBidProvider({
-      name: 'openx',
-      libUri: '//amu-d.openx.net/w/1.0/jstag?nc=19196947-UExpress',
-
-      init: function(slots, pushBid, done) {
-        done();
-      },
-
-      refresh: function(slots, pushBid, done) {
-        done();
-      }
-    });
-
-    // Sovrn
-    /*food.addBidProvider({
-      name: 'sovrn',
-      libUri: '//adintegration.lijit.com/rtb/bid?callback=init',
-      init: function(slots, pushBid, done) {
-        done();
-      },
-      refresh: function(slots, pushBid, done) {
-        done();
-      }
-    });*/
 
 
 
-    /* Define ad server */
+        /* Define ad server */
+        // DFP
+        pubfoodWrapper.setAuctionProvider({
+            name: 'dfp',
+            libUri: '//www.googletagservices.com/tag/js/gpt.js',
 
-    // DFP
-    food.setAuctionProvider({
-        name: 'dfp',
-        libUri: '//www.googletagservices.com/tag/js/gpt.js',
+            init: function (targeting, done) {
+                window.googletag = window.googletag || {};
+                googletag.cmd = googletag.cmd || [];
 
-        init: function (targeting, done) {
-          googletag.cmd.push(function(){
-            var i, key;
-            for (i = 0; i < targeting.length; i++) {
-              var adSlot = food.getSlot(targeting[i].name);
-              var slot = googletag.defineSlot(adSlotPath, adSlot.sizes, adSlot.elementId).defineSizeMapping(adSlot.sizeMapping).addService(googletag.pubads()).setTargeting('pv', GPTPageview);
+                googletag.cmd.push(function(){
+                    var i, key, adSlot, slot;
+                    for (i = 0; i < targeting.length; i++) {
+                        adSlot = pubfoodWrapper.getSlot(targeting[i].name);
+                        slot = googletag.defineSlot(adSlotPath, adSlot.sizes, adSlot.elementId).addService(googletag.pubads());
 
-              // set slot level targeting
-              for (key in adSlot.targeting) {
-                slot.setTargeting(key, adSlot.targeting[key]);
-              }
+                        // set slot level targeting
+                        for (key in adSlot.targeting) {
+                            slot.setTargeting(key, adSlot.targeting[key]);
+                        }
 
-              // set bidder targeting
-              for (key in targeting[i].targeting) {
-                slot.setTargeting(key, targeting[i].targeting[key]);
-              }
+                        // set bidder targeting
+                        for (key in targeting[i].targeting) {
+                            slot.setTargeting(key, targeting[i].targeting[key]);
+                        }
+                    }
+
+                    googletag.pubads().setCentering(true);
+                    googletag.enableServices();
+                    done();
+                });
+
+                // Tracking slots per page
+                var slotsRendered = 0;
+                var slotsRenderedInterval;
+
+                googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+                    slotsRendered += 1;
+                });
+
+                slotsRenderedInterval = setInterval(function () {
+                    ga('trackerUU48.send', 'event', "Advertising", "Ad slots rendered", ""+slotsRendered);
+                    clearInterval(slotsRenderedInterval);
+                }, 10000);
+            },
+
+            refresh: function (targeting, done) {
             }
-
-            googletag.pubads().setCentering(true);
-            googletag.enableServices();
-            done();
-          });
+        });
 
 
-        },
+        pubfoodWrapper.timeout(1000);
 
-      refresh: function (targeting, done) {
-      }
+
+        pubfoodWrapper.start();
+
     });
 
-    food.timeout(1000);
-
-
-    food.start();
-</script><script async="" src="//c.amazon-adsystem.com/aax2/amzn_ads.js"></script><script async="" src="//js-sec.indexww.com/ht/indexapi_pubfood.js"></script><script async="" src="//amu-d.openx.net/w/1.0/jstag?nc=19196947-UExpress"></script><script async="" src="//www.googletagservices.com/tag/js/gpt.js"></script>
+</script>
 
 
 
@@ -550,67 +917,67 @@
     <div class="rhythm">
       
 	<header class="page-header">
-	    <h1>Universal Uclick Privacy Policy</h1>
+	    <h1>Andrews McMeel Universal Privacy Policy</h1>
 	</header>
 
 
 <section class="page-section">
   <div class="single-container">
-    <p>Effective: Sept 30th, 2015</p>
+    <p>Effective: January 9th, 2017</p>
 
-    <p>At Universal Uclick (<strong>“Universal Uclick,”</strong> <strong>“we”</strong>, <strong>“our”</strong>, or <strong>“us”</strong>), we respect your right to privacy and we understand that visitors and users of Universal Uclick's websites and applications wish to control the use of their personal information. This privacy policy outlines the measures taken by Universal Uclick to protect your privacy in connection with your use of www.GoComics.com, www.PuzzleSociety.com, www.Dilbert.com, www.ComicsSherpa.com, www.uexpress.com, www.InfiniteCrosswords.com and other sites or applications, including mobile applications, owned and operated by Universal Uclick (each individually a <strong>“Site”</strong> and collectively the <strong>”Sites”</strong>). Universal Uclick does not intend to collect any personal information from children under 13 unless Universal Uclick believes such collection to be permitted by law. Your use of the Sites, including any dispute concerning privacy, is subject to this Privacy Policy and Universal Uclick's Terms &amp; Conditions and any other policies on the applicable Site (collectively the <strong>“Terms”</strong>). By using the Sites, you are accepting the practices set out in this Privacy Policy and the Terms. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Your continued use of any portion of the Sites following posting of the updated Privacy Policy will constitute your acceptance of the changes. Please check the date above to determine if this Privacy Policy has been modified.</p>
+    <p>At Andrews McMeel Universal, Inc (<strong>“Andrews McMeel Universal,”</strong> <strong>“we”</strong>, <strong>“our”</strong>, or <strong>“us”</strong>), we respect your right to privacy and we understand that visitors and users of Andrews McMeel Universal's websites and applications wish to control the use of their personal information. This privacy policy outlines the measures taken by Andrews McMeel Universal to protect your privacy in connection with your use of gocomics.com, andrewsmcmeel.com, amuniversal.com, universaluclick.com, uclickgames.com, thepuzzlesociety.com, upuzzles.com, uexpress.com, comicssherpa.com, infinitecrosswords.com, doonesbury.com, calvinandhobbes.com, patsajakgames.com and other sites or applications, including mobile applications, owned and operated by Andrews McMeel Universal (each individually a <strong>“Site”</strong> and collectively the <strong>”Sites”</strong>). Andrews McMeel Universal does not intend to collect any personal information from children under 13 unless Andrews McMeel Universal believes such collection to be permitted by law. Your use of the Sites, including any dispute concerning privacy, is subject to this Privacy Policy and Andrews McMeel Universal's Terms and Conditions of Use and any other policies on the applicable Site (collectively the <strong>“Terms”</strong>). By using the Sites, you are accepting the practices set out in this Privacy Policy and the Terms. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Your continued use of any portion of the Sites following posting of the updated Privacy Policy will constitute your acceptance of the changes. Please check the date above to determine if this Privacy Policy has been modified.</p>
 
     <h2>1.  What does this Privacy Policy cover?</h2>
-    <p>This policy covers the treatment and use of Personal Information that is collected by Universal Uclick through your use of the Sites.</p>
-    <p>This policy does not cover information that may or may not be collected by companies or websites that Universal Uclick does not own or control. This policy also does not guide or control the behavior of individuals not employed by Universal Uclick. For some products and services, third parties host the website and collect order information, contact information and necessary financial information to process orders related to such products and services. Please see the privacy policies on such third party websites for more information about how your information is protected on such websites.</p>
+    <p>This policy covers the treatment and use of Personal Information that is collected by Andrews McMeel Universal through your use of the Sites.</p>
+    <p>This policy does not cover information that may or may not be collected by companies or websites that Andrews McMeel Universal does not own or control. This policy also does not guide or control the behavior of individuals not employed by Andrews McMeel Universal. For some Sites, products and services, third parties may host the Site or portions of the Site and collect order information, contact information and necessary financial information to process orders or subscriptions related to such products and services. Please see the privacy policies and terms of conditions on such websites for more information about how your information is protected or shared on such websites. Any information that is received by Andrews McMeel Universal from such websites shall be treated in accordance with this Privacy Policy.</p>
 
     <h2>2.  What is “Personal Information”?</h2>
     <p>Personal Information is individually identifiable information about a person and certain associated information. Individually identifiable information includes a first and last name, payment information including credit card numbers, a street, mailing or e-mail address, location data, a personal identifier that reveals an individual's e-mail address, a telephone number, or a social security number. Personal Information also includes associated information such as (1) any persistent identifier, customer number, MAC or IP address, or other identifier; (2) device information and operating system; or (3) demographics, preferences and interests information; where such information is associated with individually identifiable information.</p>
 
     <h2>3.  How is my Personal Information collected?</h2>
-    <p>We collect your Personal Information when you register or provide us your Personal Information on the Sites. We may ask you to register and/or provide Personal Information when you visit certain areas of our Sites, register for services, order products, enter contests, subscribe to a newsletter, or other communication. If you choose not to register, you may not have access to areas that require registration. We may receive information, including Personal Information, about you from other sources and add it to the information that we have received from you.</p>
-    <p>The Sites, and any messages sent from Universal Uclick, may contain code that enables our database and servers to track your usage of Sites, including whether a message was opened and/or what links (if any) were clicked. We may combine that information with Personal Information we have about you and may use that information to improve your experience and/or provide customized messages to you.  Universal Uclick may also use other technologies to verify and track your use of certain products and services, confirm receipt of certain products or to test the integrity of our systems, products and services.</p>
+    <p>We collect certain Personal Information when you register or provide us your Personal Information on the Sites. We may ask you to register and/or provide Personal Information when you visit certain areas of our Sites, register for services, order products, enter contests, subscribe to a newsletter, or other communication. If you choose not to register, you may not have access to areas that require registration. We may receive information, including Personal Information, about you from other sources and add it to the information that we have received from you.</p>
+    <p>The Sites, and any messages sent from Andrews McMeel Universal, may contain code that enables our database and servers to track your usage of Sites, including whether a message was opened and/or what links (if any) were clicked. We may combine that information with Personal Information we have about you and may use that information to improve your experience and/or provide customized messages to you.  Andrews McMeel Universal may also use other technologies to verify and track your use of certain products and services, confirm receipt of certain products or to test the integrity of our systems, products and services.</p>
     <p>We may use cookies to store some of your Personal Information when you visit the Sites. A “cookie” is a small line of text that is stored by your Web browser on your device for record-keeping purposes and to help us provide better service to you. We use cookies to customize the Sites to deliver content specific to your interests and to monitor use and performance of the Sites. Your browser has options to accept, reject, or provide you with notice when a cookie is sent. Please be aware that disabling or revoking consent to the use of cookies may impact your ability to fully utilize certain Sites or portions of Sites.</p>
-    <p>If you use a device with Global Positioning System (<strong>“GPS”</strong>) or other location detection functionality, then we may collect precise information about the location of your device during your use of the Sites. </p>
+    <p>If you use a device with Global Positioning System (<strong>“GPS”</strong>) or other location detection functionality, then we may collect precise information about the location of your device during your use of the Sites.</p>
 
-    <h2>4.  How is my Personal Information used by Universal Uclick?</h2>
-    <p>Universal Uclick primarily uses your Personal Information to provide certain customized features and products, including but not limited to:</p>
+    <h2>4.  How is my Personal Information used by Andrews McMeel Universal?</h2>
+    <p>Andrews McMeel Universal primarily uses your Personal Information to provide certain customized features and products, including but not limited to:</p>
     <ol type="a">
       <li>A customized and tailored experience and content on the Sites and through our other products and services, including but not limited to registration for an account on the Sites;</li>
       <li>Alternate functionality, content, or experiences in your use of our Sites based on your location.</li>
-      <li>Premium content services or products subject to a subscription agreement or registration; </li>
+      <li>Premium content services or products subject to a subscription agreement or registration;</li>
       <li>Periodic messages, via mobile, twitter, e-mail, or other platforms, with content updates, subscription information, and order information;</li>
-      <li>Special contests or promotions that are sponsored by Universal Uclick or another company;</li>
+      <li>Special contests or promotions that are sponsored by Andrews McMeel Universal or another company;</li>
       <li>Chat, bulletin board, or other user-generated content functionality. Any posting by you is considered public information available to other users and is governed by the Terms; </li>
       <li>A seamless experience across multiple devices, platforms or browsers for each user; and</li>
       <li>Various other functionalities and services as they are added to the Sites.</li>
     </ol>
     <p></p>
 
-    <h2>5.  Who does Universal Uclick share Personal Information with?</h2>
-    <p>Universal Uclick is the owner of all information collected from the Sites. We share your Personal Information with our affiliates, suppliers, vendors, and/or their agents and employees as we deem necessary for the provision of goods and services to you. Specifically, we may share your Personal Information or other data (i) with third parties assisting us in the provision, administration, and management of goods and services generally; (ii) with third parties that assist us in providing goods and services that you request; (iii) with third parties that support our business operations or provide marketing or advertising services on our behalf, including marketing, technical, accounting, legal or other professionals; and (iv) as otherwise required or permitted by law or approved by you. We may use your Personal Information for our general business operations and goods and services provided by us if it is in a form that is not capable of being personally identified with you or if it is combined with Personal Information from one or more other customers in aggregate form that does not personally identify any particular customer.  We may also sell, license or otherwise provide such de-identified or aggregated data to third parties.  </p>
-    <p>We will not share your Personal Information with third parties for their own use unless you have “opted-in” to such sharing. If you have previously opted-in to such sharing under a prior privacy policy version, you are still considered to have opted-in under this Privacy Policy. Regardless of whether you opt-in, Universal Uclick may use your Personal Information for its own purposes as described herein.</p>
-    <p>As we develop our business, we may buy or sell assets, and, depending upon the transaction, your Personal Information may be one of the transferred assets. In the event that Universal Uclick or any Site is acquired by another company, your Personal Information may be part of the assets transferred to the acquiring party.</p>
+    <h2>5.  Who does Andrews McMeel Universal share Personal Information with?</h2>
+    <p>Andrews McMeel Universal is the owner of all information collected from the Sites. We share your Personal Information with our affiliates, suppliers, vendors, and/or their agents and employees as we deem necessary for the provision of goods and services to you. Specifically, we may share your Personal Information or other data (i) with third parties assisting us in the provision, administration, and management of goods and services generally; (ii) with third parties that assist us in providing goods and services that you request; (iii) with third parties that support our business operations or provide marketing or advertising services on our behalf, including marketing, technical, accounting, legal or other professionals; and (iv) as otherwise required or permitted by law or approved by you. We may use your Personal Information for our general business operations and goods and services provided by us if it is in a form that is not capable of being personally identified with you or if it is combined with Personal Information from one or more other customers in aggregate form that does not personally identify any particular customer.  We may also sell, license or otherwise provide such de-identified or aggregated data to third parties.</p>
+    <p>We will not share your Personal Information with third parties for their own use unless you have “opted-in” to such sharing. If you have previously opted-in to such sharing under a prior privacy policy version, you are still considered to have opted-in under this Privacy Policy. Regardless of whether you opt-in, Andrews McMeel Universal may use your Personal Information for its own purposes as described herein.</p>
+    <p>As we develop our business, we may buy or sell assets, and, depending upon the transaction, your Personal Information may be one of the transferred assets. In the event that Andrews McMeel Universal or any Site is acquired by another company, your Personal Information may be part of the assets transferred to the acquiring party.</p>
 
     <h2>6.  What are my options to control the use of my Personal Information?</h2>
-    <p>You have the ability to request the deletion of your Universal Uclick registration at any time by utilizing the registration system established for this purpose. However, we may maintain certain information, including Personal Information, following such deletion, as part of our internal processes to prevent accidental loss of user data or information and to prevent or discourage fraudulent activities that may involve Universal Uclick registration or account information. We may also continue to maintain information about your registration or account and your computer access to our Sites or services as part of our server logs</p>
-    <p>Unless you opt-out or unsubscribe, we may e-mail you with information about other products and services of Universal Uclick, including information about selected third parties. If you do not want to receive such additional information from Universal Uclick, you may decline to receive those email messages by opting out when you receive such a communication, sign-up, register, or from within your account, as applicable. Notwithstanding anything to the contrary herein, we may communicate with you by e-mail if such e-mail communication is for the purpose of corresponding with you regarding products or services you have requested, related to protecting your interests, including any Personal Information, property, or other data, or to provide you with any notification or disclosure that may be required by applicable law or this Privacy Policy. Accordingly, you agree that all communications, disclosures, and notices sent to you by e-mail satisfy any requirement that notice be provided in writing.</p>
+    <p>You have the ability to request the deletion of your Andrews McMeel Universal registration at any time by utilizing the registration system established for this purpose. However, we may maintain certain information, including Personal Information, following such deletion, as part of our internal processes to prevent accidental loss of user data or information and to prevent or discourage fraudulent activities that may involve Andrews McMeel Universal registration or account information. We may also continue to maintain information about your registration or account and your computer access to our Sites or services as part of our server logs.</p>
+    <p>Unless you opt-out or unsubscribe, we may e-mail you with information about other products and services of Andrews McMeel Universal, including information about selected third parties. If you do not want to receive such additional information from Andrews McMeel Universal, you may decline to receive those email messages by opting out when you receive such a communication, sign-up, register, or from within your account, as applicable. Notwithstanding anything to the contrary herein, we may communicate with you by e-mail if such e-mail communication is for the purpose of corresponding with you regarding products or services you have requested, related to protecting your interests, including any Personal Information, property, or other data, or to provide you with any notification or disclosure that may be required by applicable law or this Privacy Policy. Accordingly, you agree that all communications, disclosures, and notices sent to you by e-mail satisfy any requirement that notice be provided in writing.</p>
     <p>You may opt-out of allowing us to have any access to your location data by disabling your device's location detection functionality or GPS or, if possible on your device, disabling permission for our Sites to access such location detection functionality or GPS.</p>
 
     <h2>7.  How do I update my Personal Information?</h2>
-    <p>You can help Universal Uclick maintain the accuracy of your profile by notifying us when you change your address, phone number, e-mail address, or other information. If at any time you wish to update your Personal Information then contact us or edit the information within your account, if applicable. Please include your old and new contact information in any message so that we can make the appropriate corrections.</p>
+    <p>You can help Andrews McMeel Universal maintain the accuracy of your profile by notifying us when you change your address, phone number, e-mail address, or other information. If at any time you wish to update your Personal Information then contact us or edit the information within your account, if applicable. Please include your old and new contact information in any message so that we can make the appropriate corrections.</p>
 
     <h2>8.  Children's Personal Information?</h2>
-    <p>The Sites are general audience sites and are not directed to children under the age of 13. Universal Uclick assumes products and services purchased by credit card are purchased by adults. Universal Uclick respects the privacy of parents and children and is committed to complying with the Children's Online Privacy Protection Act (COPPA). On those areas of the Sites that ask for age, Universal Uclick does not collect Personal Information from individuals who identify themselves as under the age of 13 except in those limited circumstances where Universal Uclick believes that such collection is permitted under COPPA.</p>
-    <p>Universal Uclick may ask prospective users to provide their age during the registration process and on other areas of the Sites. If a user indicates that he or she is under the age of 13, then all personal data collected during the registration process is automatically deleted except Universal Uclick may retain and use limited information, such as the child's e-mail address, for a limited period of time, in those cases where Universal Uclick believes that the collection and use of such information is permitted under COPPA.</p>
-    <p>If a parent believes that his or her child has submitted personal information to Universal Uclick, he or she can contact us via e-mail or postal mail as listed below. Universal Uclick will promptly delete the information upon learning that it relates to a child under the age of 13.</p>
-    <p>Universal Uclick believes that parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can help prevent children from otherwise disclosing online their name, address and other personal information without parental permission.</p>
+    <p>The Sites are general audience sites and are not directed to children under the age of 13. Andrews McMeel Universal assumes products and services purchased by credit card are purchased by adults. Andrews McMeel Universal respects the privacy of parents and children and is committed to complying with the Children's Online Privacy Protection Act (COPPA). On those areas of the Sites that ask for age, Andrews McMeel Universal does not collect Personal Information from individuals who identify themselves as under the age of 13 except in those limited circumstances where Andrews McMeel Universal believes that such collection is permitted under COPPA.</p>
+    <p>Andrews McMeel Universal may ask prospective users to provide their age during the registration process and on other areas of the Sites. If a user indicates that he or she is under the age of 13, then all personal data collected during the registration process is automatically deleted except Andrews McMeel Universal may retain and use limited information, such as the child's e-mail address, for a limited period of time, in those cases where Andrews McMeel Universal believes that the collection and use of such information is permitted under COPPA.</p>
+    <p>If a parent believes that his or her child has submitted personal information to Andrews McMeel Universal, he or she can contact us via e-mail or postal mail as listed below. Andrews McMeel Universal will promptly delete the information upon learning that it relates to a child under the age of 13.</p>
+    <p>Andrews McMeel Universal believes that parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can help prevent children from otherwise disclosing online their name, address and other personal information without parental permission.</p>
 
-    <h2>9.  Universal Uclick's Data Security.</h2>
-    <p>We use a variety of commercially reasonable security technologies to help protect your Personal Information from unauthorized access, use, or disclosure.  However, the use of such security technologies is not, and should not be considered to be, any type of guarantee or warranty by us that your Personal Information will not be accessed by third parties, or that we will use all available security technologies to prevent unauthorized access to, use, or disclosure of your personally identifying information.  While we use commercially reasonable efforts to safeguard your Personal Information while it is being transmitted or used by third parties, we do not warrant that your Personal Information will be transmitted without unauthorized interception or modification or that your Personal Information will not be access or compromised by unauthorized third parties.  We may permanently delete or destroy any and all Personal Information at any time as determined by us.  </p>
+    <h2>9.  Andrews McMeel Universal's Data Security.</h2>
+    <p>We use a variety of commercially reasonable security technologies to help protect your Personal Information from unauthorized access, use, or disclosure.  However, the use of such security technologies is not, and should not be considered to be, any type of guarantee or warranty by us that your Personal Information will not be accessed by third parties, or that we will use all available security technologies to prevent unauthorized access to, use, or disclosure of your personally identifying information.  While we use commercially reasonable efforts to safeguard your Personal Information while it is being transmitted or used by third parties, we do not warrant that your Personal Information will be transmitted without unauthorized interception or modification or that your Personal Information will not be access or compromised by unauthorized third parties.  We may permanently delete or destroy any and all Personal Information at any time as determined by us.</p>
     <p>Except as otherwise provided in this Policy, we will not share your Personal Information with third parties, unless such disclosure is necessary to: </p>
     <ol type="i">
-      <li>Comply with a law (or based upon our good-faith belief that disclosure is necessary to comply with a law); </li>
+      <li>Comply with a law (or based upon our good-faith belief that disclosure is necessary to comply with a law);</li>
       <li>Protect our rights or property; or</li>
       <li>Enforce this Policy or any of our other policies and guidelines.</li>
     </ol>
@@ -620,12 +987,12 @@
     <p>Our Sites may contain links to other websites.  We are not responsible for the privacy practices or the content of such websites.  We may allow third-party advertisers to place ads on our Sites.  These third-party advertisers may use cookies or similar technologies to help present the advertisements to you or to help measure the effectiveness of their advertisements.  Some advertisers may use cookies to serve ads based on your visits to the Sites and other websites on the Internet.  The use of such technologies is subject to the privacy policies of the third-party advertisers and is not covered by this Privacy Policy.  As a result, if you respond to any such third-party advertisers by clicking on the advertisements and/or visiting their websites or the websites of any other third party, be sure you evaluate their privacy policies before providing them any of your information.  To opt-out of a third party's use of cookies, you must visit such third party's website and follow its specified opt-out procedures.  You can learn more about one of our partners, Google, and how they use your data by visiting: <a href="http://www.google.com/intl/en/policies/privacy/partners/">google.com/intl/en/policies/privacy/partners/</a>.  You may opt-out of Google's use of the DoubleClick cookie by visiting the Google Advertising Policies and Principles page at <a href="http://www.google.com/policies/privacy/ads/">google.com/policies/privacy/ads/</a>.  You can opt out of some, but not all, third-party advertiser cookies in one location at the Network Advertising Initiative opt-out website, located at <a href="www.networkadvertising.org/managing/opt_out.asp">networkadvertising.org/managing/opt_out</a>.  You may block all cookies by following the instructions applicable to your browser at <a href="http://www.aboutcookies.org/page-1">aboutcookies.org/page-1</a>.</p>
 
     <h2>11. Refer a Friend</h2>
-    <p>If a user elects to use our referral service for informing a friend about our Sites or particular products or services, we ask them for the friend's name and e-mail address. Universal Uclick will automatically send the friend a one-time email inviting them to visit the Sites. Universal Uclick stores this information for the sole purpose of sending this one-time email. The friend may contact Universal Uclick to request the removal of this information from their database.</p>
+    <p>If a user elects to use our referral service for informing a friend about our Sites or particular products or services, we ask them for the friend's name and e-mail address. Andrews McMeel Universal will automatically send the friend a one-time email inviting them to visit the Sites. Andrews McMeel Universal stores this information for the sole purpose of sending this one-time email. The friend may contact Andrews McMeel Universal to request the removal of this information from their database.</p>
 
-    <h2>12. Contacting Universal Uclick</h2>
-    <p>Please address comments or questions regarding Universal Uclick's Privacy Policy to us via e-mail or postal mail. You can complete our e-mail form at: <a href="http://gocomics.com/help/contact">gocomics.com/help/contact</a>. You may also contact Universal Uclick at by mail or email at:</p>
-    <address>Universal Uclick<br>
-    Attn: Universal Uclick Privacy<br>
+    <h2>12. Contacting Andrews McMeel Universal</h2>
+    <p>Please address comments or questions regarding Andrews McMeel Universal's Privacy Policy to us via e-mail or postal mail. You can complete our e-mail form at: <a href="http://gocomics.com/help/contact">gocomics.com/help/contact</a>. You may also contact Andrews McMeel Universal at by mail or email at:</p>
+    <address>Andrews McMeel Universal<br>
+    Attn: Andrews McMeel Universal Privacy<br>
     1130 Walnut St.<br>
     Kansas City, MO 64106 USA<br>
     or <br>
@@ -660,9 +1027,9 @@
         <ul class="page-footer-list">
           <li class="footer-link">
             <p class="element-flush">© Copyright <em><a href="http://www.amuniversal.com">Andrews McMeel Universal</a>,
-            <a href="http://www.universaluclick.com">Universal Uclick</a>,
+            <a href="http://www.universaluclick.com">Andrews McMeel Syndication</a>,
             <a href="http://uexpress.com">uexpress</a>
-            </em> 2016</p>
+            </em> 2017</p>
           </li>
           <li class="footer-link">
             <a href="/legal/terms">Terms of Use</a>
@@ -685,7 +1052,7 @@
   </div>
 </footer>
   </div>
-  <script src="/assets/application-ee85b63a6fd5dfb152b2b14b2e6e2efb.js"></script>
+  <script src="/assets/application-42f143d8625a24925ee27eb1bdd7b362.js"></script>
   <script type="text/javascript" src="https://s3.amazonaws.com/squareoffs-production/publisher_lib/iframe_client.min.js"></script>
 
   <script type="text/javascript">var _pnq = _pnq || [];
