@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetlocalmatures.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234128id_/http%3A//www.meetlocalmatures.com/privacy%3Fprid%3D108894%26p%3D362232) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetlocalmatures.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081624id_/http%3A//www.meetlocalmatures.com/privacy%3Fprid%3D108894%26p%3D362232) for the most accurate reproduction.*
 
 # Meet local matures, tonight!
 
