@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gfmreview.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223171307id_/http%3A//gfmreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfmreview.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606165133id_/http%3A//gfmreview.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D124%26Itemid%3D142) for the most accurate reproduction.*
 
 # Privacy Policy
 
 GFM Review is committed to protecting and respecting your privacy.
 
-This policy (which forms part of the [Terms of Use](http://www.gfmreview.com/index.php/termsofuse) of our site) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (which forms part of the [Terms of Use](https://web.archive.org/web/20170606165133id_/http%3A//gfmreview.com/index.php/termsofuse) of our site) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 Please note that this Privacy Policy applies only to our site and not to any third party sites that are linked to from our site.
 
@@ -28,7 +28,7 @@ We may collect and process the following data about you:
 
 2.1  We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-[A description of the cookies currently used on our site can be accessed via this link.](http://www.gfmreview.com/index.php/cookies)
+[A description of the cookies currently used on our site can be accessed via this link.](https://web.archive.org/web/20170606165133id_/http%3A//gfmreview.com/index.php/cookies)
 
 2.2  For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
 
